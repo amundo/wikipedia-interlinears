@@ -1,0 +1,237 @@
+rae re-f-i
+man specific.location-very.near-3M
+'this man very near'
+
+fai re-f-o
+woman specific.location-very.near-U
+'this woman very near'
+
+rae re-t-ait
+man specific.location-near-3M
+'this man'
+
+fai re-t-o
+woman specific.location-near-U
+'this woman'
+
+rae re-n-e
+man specific.location-far-3M
+'that man'
+
+fai ro-n-o
+woman specific.location-far-U
+'that woman'
+
+pokom we-f-o
+pen general.location-very.near-U
+'this pen very near around here' (The pen is within reach but its exact position with respect to the speaker is not known.)
+
+pokom re-f-o
+pen specific.location-very.near-U
+'this pen very near' (The location of the pen can be pinpointed.)
+
+amah re-t-o
+house specific.location-near-U
+'this house' (The demonstrative refers to the house itself.)
+
+amah te-t-o
+house area.ATTR-near-U
+'the house here' (The demonstrative refers to the place where the house is situated.)
+
+amah te-t-o
+house area.ATTR-near-U
+'the house near here'
+
+y-tien pe-t-o
+3M-sleep area.ADV-near-U
+'He sleeps near here.
+
+m-ama me-t-o
+3U-come presentative-near-U
+'Here she comes.'
+
+rae y-ros m-n-o
+man 3M-stand presentative-far-U
+'There the man stands.'
+
+n-no fi-f-o n-no fi-n-o mai
+2-do similar.to-very.near-U 2-do similar.to-far-U PROHIB
+'Do it like this, don't do it like that. harvDol2007p=104 
+
+3U-throw 3U-go side-far-U 3U-throw 3U-go side-very.near-U
+'She throws it to the side there and she throws it to the side here.' harvDol2007p=103 
+
+ku mi-yo
+child presentative-INT
+'Where is the child?'
+
+n-amo to-yo
+2-go area.ATTR-INT
+'Where are you going?' (It is understood that there is a specific destination.)'
+
+m-amo wo-yo
+3U-go general.location-INT
+'Where does she go?' (The implication is that she does not have a clear goal.)'
+Other question words are ''awiya'' 'who?', ''r-awiya'' 'whose?', ''p-awiya'' 'what?', ''tiya'' 'how much/many?' and ''titiya'' 'when?'.
+
+Yan y-asoh
+Yan 3M-mouth
+'Yan's mouth' harvDol2007p=85 
+
+fane ro-Yan
+pig POSS-Yan
+'Yan's pig' harvDol2007p=89 
+
+tfo ro-Yan y-atia
+machete POSS-Yan 3M-father
+'Yan's father's knife' harvDol2007p=136 
+
+tfo m-kek m-aku s-au
+machete 3U-red 3U-small one-3U
+(head noun) (adjectival verbs) (numeral)
+'one small red machete' (The choice of the 3U
+
+awiah uum-ake eok
+taro uu3U-fruit two
+'two taros' harvDol2007p=130 
+There are four classifiers: ''-ana'' 'head' (a general classifier that is most commonly used for humans and animates), ''-akan'' 'seed/stone' (for seeds and fruit), ''m-ake'' 'fruit' (for fruit), and ''-ata'' 'leaf' (for money/banknotes). A similar use is made of the noun ''yu'' 'bag' when giving the quantity of uncountables:
+
+pasa uuyu eok
+rice uubag two
+'two bags of rice' harvDol2007p=131 
+
+rae m-anes wisau re-t-o
+person 3U-old all specific.location.near-U
+(head noun) (adjectival verb) (quantifying verb) (demonstrative)
+'all these old people' harvDol2007p=133 
+
+c1 = (predicative)
+fane reto uum-api
+pig this uu3U-big
+'This pig is big.' harvDol2007p=71 
+
+
+c1 = (attributive)
+tuo fnak fane uum-api reto
+1S stab pig uu3U-big this
+'I stab this big pig.' harvDol2007p=71 
+
+t-api
+1S-big
+'I am big.' harvDol2007p=144 
+If expressed,  the subject precedes the verb, while an [[Object (grammar)object]] follows the verb. Thus, Maybrat has a rigid [[Subject–verb–objectSVO]] word order.
+
+rae m-fat ara
+person 3U-fell tree
+(subject) (verb) (object)
+'The people fell a tree.' harvDol2007p=144 
+The object can also be omitted if it can easily be inferred from the context:
+
+m-kai
+3U-find
+'She finds (something).' harvDol2007p=146 
+An object can be given more [[Topicalisationprominence as a topic]] by [[Left dislocationmoving]] it to the start of the clause. The object then has an intonation contour of its own and it is separated from the rest of the clause by a pause:
+
+aya fó / t-ata fe
+water this / 1S-drink NEG
+'This water, I won't drink it.' harvDol2007p=149 
+
+is mti y-tien fe
+yesterday night 3M-sleep NEG
+'Last night he did not sleep.' harvDol2007p=151 
+All other types of adverbials (for manner, location, etc.) follow the verb:
+
+ait y-no rere u
+3M 3M-do carefully again
+'He carefully does it again.' harvDol2007p=163 
+
+ait y-amo to-tis amah iye
+3M 3M-go LOC-behind house too.
+'He goes behind the house too.' harvDol2007p=166 
+
+ait y-amo Kumurkek fe
+3M 3M-go Kumurkek NEG
+'He does not go to Kumurkek.' harvDol2007p=167 
+
+arko m-fe, y-o ita m-ata
+firewood 3U-NEG 3M-take leaf leaf
+'There is no firewood, he takes leafes.' harvDol2007p=168 
+
+Petrus y-ama oh a
+Petrus 3M-come already INT
+'Has Petrus already come?' harvDol2007p=178 
+Content questions feature a question word replacing whatever part of the clause information is being sought for:
+
+Yul Yumte m-pet awiya
+Yul Yumte 3U-marry who
+'Who did Yul Yumte marry?' harvDol2007p=180 
+
+m-wian aya m-ko tafoh saruk poiit
+3U-scoop water 3S-burn fire cook food
+'She scoops water, burns a fire and cooks food.' harvDol2007p=190 
+
+t-he fnia m-ama
+1S-see woman 3U-come
+'A see a woman coming.' harvDol2007p=196 
+
+t-har t-kom am
+1S-know 1S-write letter
+3='I can write a letter.' ( = 'I know how to write a letter.') harvDol2007p=197 
+
+t-sam t-aut ara
+1S-afraid 1S-climb tree
+'I'm afraid to climb the tree'. harvDol1996p=30 However, if a pause is inserted after ''t-sam'' 'I'm afraid', then the sentence will be interpreted as consisting in two clauses and its meaning will be 'I'm afraid and (so) I climb the tree.'
+
+y-awe n-ame fane
+3M-say 2-stab pig
+'He says that you stabbed a pig.' harvDol2007p=198 If a pause is inserted after ''y-awe'' 'he says', then the second clause will be interpreted as direct speech: 'He says: "You stab a pig."'
+
+Pak guru y-awe y-o pron
+mister teacher 3M-say 3M-take bamboo
+'The teacher wants to take the bamboo'. harvDol2007p=203 This is the same indirect speech construction as above. The verb ''-awe'' 'say' has a wide range of meanings that can be rendered in English with verbs like "want", "think", "believe" or "intend". This is common in Papuan languages. efnHowever, there do exist separate verbs meaning for example "think" (''-not''), or "hope" (''-winaut''). harvDol2007p=77  
+
+t-ama uut-pat Sorong
+1S-come uu1S-from Sorong
+'I came from Sorong.' harvDol2007p=205 
+
+t-amus onfuk uum-kah sabun
+1S-wash clothes uu3U-with soap
+'I wash the clothes with soap.' harvDol2007p=207 The prepositional verb ''-kah'' takes only the 3rd person unmarked prefix ''m-'' irrespective of the person of the subject.sfnDol2007p=80 
+There is a cline between typical verbs on the one hand and typical prepositions on the other. The four "prepositional verbs" of Maybrat each fall on different points along this cline and possess different combinations of verbal or prepositional characteristics. One typically verbal characteristic is the ability to serve as the main verb of a clause: ''-ae'' 'at' alone among these four can function as the main verb of a clause. Another verbal characteristic is the ability to show agreement with the subject of the clause. In this respect, the two verbs ''-kit'' 'towards' and ''-pat'' 'from' are more verbal in that they always take person prefixes agreeing with the subject; this contrasts both with ''-kah'' 'with/to/for', which always takes only the unmarked third-person prefix ''m-'' regardless of the subject, and with ''-ae'', which may follow either pattern. These four verbs also differ in the extent to which their objects can be extracted into relative clauses.sfnDol2007p=209
+
+t-ai bola m-amo
+1S-throw ball 3U-go
+'I throw the ball away.' harvDol2007p=217 
+
+t-aru awiah m-ama
+1S-pull taro 3U-come
+'I pull the taro towards me.' harvDol1996p=25 
+A similar construction involving the verbs ''-o'' 'take' and ''-e'' 'give' is available to express the meaning of 'giving something ''to someone'''; such a construction is necessary because verbs in Maybrat can only take two arguments (a subject and an object) and so ''-e'' 'give' on its own cannot take arguments for both the object given and the person who received it:
+
+n-o tapak n-e ait
+2-take tobacco 2-give 3M
+'Take the tobacco and give it to him.', 'Give him the tobacco.' harvDol2007p=218 
+
+na m-kuk intape uuo m-kuk ara o
+and then 3U-pull rope uuENUM 3U-pull tree ENUM
+'Then she pulled a rope and she pulled at a tree.' harvDol2007p=230 
+
+t-amo amah kiyam uure suster m-he t-ao
+1S-go house ill uuin order to nurse 3U-see 1S-foot
+'I'm going to the hospital in order for the nurse to look at my foot.' harvDol2007p=231 
+
+Simon ro y-men Maria kiyam
+Simon REL 3M-marry Maria ill
+'Simon who married Maria is ill. harvDol2007p=137 
+
+kine wo t-amo Sorong tim am
+time REL 1S-go Sorong send letter
+'When I go down to Sorong, I will send a letter' harvDol2007p=235 The moment of going to Sorong is non-specific, the implication of the use of ''kine wo'' is that there is no concrete plan yet.
+
+ana m-suoh wore fra m-hu
+3P 3U-clean REL stone 3U-stay
+'They clean where the stone is. harvDol2007p=237 
+
+frok m-hu sai amah m-api / m-hu amah m-api m-hu m-hu m-hu ku re-f-i hropit ktus / hropit ktus na m-hu u m-hu m-hu ku re-f-i y-anes / y-anes y-apum o y-ros o y-amo pua-puo o y-amo trit o tipuo y-anes
+emerge 3U-stay just house 3U-big / 3U-stay house 3U-big 3U-stay 3U-stay 3U-stay child there umbilical.cord break / umbilical.cord break and.then 3U-stay again 3U-stay 3U-stay child there 3M-old / 3M-old 3M-crawl ENUM 3M-stand ENUM 3M-go toddle-REDUP ENUM 3M-go fluent ENUM immediately 3M-old
+'She arrives and just lives at the big house. She lives at the big house and she lives there for a long time and the child's umbilical cord comes off and se still lives there and she lives there for a long time and the child gets older. He gets older and he crawls, he stands, he toddles, he walks well, and then he is grown up.' harvDol2007p=242 

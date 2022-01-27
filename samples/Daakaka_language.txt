@@ -1,0 +1,83 @@
+
+kus-uk
+nose.of-1S.POSS
+"my nose"
+
+
+bwee	tuwu
+shell.of	bush.nut
+"the shell of the bush nut"
+
+
+bwee-tye
+shell.of-3S(n-hum).POSS
+"its shell"
+
+class="wikitable"
+-
+!Semitransitive ''en'' "eat":
+!Transitive ''ane'' "eat":
+-
+
+ya=m du en
+3P=REAL PROG eat(SEMTR)
+"they are eating"
+
+ya=m du ane
+3P=REAL PROG eat(TR)
+"they are eating it"
+-
+
+ya=m du en mesyu
+3P=REAL PROG eat(SEMTR) fish
+"they are eating fish"
+
+ya=m du ane mesyu
+3P=REAL PROG eat(TR) fish
+"they are eating the fish"
+
+
+class=wikitable
+-
+!Singular
+!Pluractional
+!Number-neutral
+-
+
+ó swa mu mur
+coconut one REAL fall(SG)
+"one coconut fell down"
+bgcolor="#ff9090"
+* ó swa ma tesi
+coconut one REAL fall(N-SG)
+intend.:"one coconut fell down"
+
+ó swa ma medap
+coconut one REAL fall
+"one coconut fell down"
+-
+bgcolor="#ff9090"
+* ó mwe pwis mu mur
+coconut REAL be.many REAL fall(SG)
+intend.:"many coconuts fell down"
+
+ó mwe pwis ma tesi
+coconut REAL be.many REAL fall(N-SG)
+"many coconuts fell down"
+
+ó mwe pwis ma medap
+coconut REAL be.many REAL fall
+"many coconuts fell down"
+
+
+na=m kueli me
+1S= return come
+"I have returned"
+
+sini ma kekei
+green pigeon REAL small
+"the green pigeon is small"
+
+s-ok naana mw=i tyotyo
+CL3-1S.POSS mother REAL=COP snake
+"my mother is a snake"

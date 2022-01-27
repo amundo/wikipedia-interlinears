@@ -1,0 +1,87 @@
+== Morphology ==
+=== Affixation                                                    ===
+==== Derivational affixation ====
+Majhi uses [[affix]]ation to derive words through [[nominalization]], [[Verbalisationverbalization]], and [[negation]]. For nominalizers and verbalizers, Majhi uses suffixation. For negation, Majhi uses prefixation. Examples are included in the chart below.
+ class="wikitable"
+!
+!Example 1
+!Example 2
+!Example 3
+!Example 4
+-
+Function
+Nominalizer (from verb)
+Verbalizer (from noun)
+Verbalizer (from adjective)
+Negator (noun to noun)
+-
+Majhi
+
+
+
+
+
+
+==== Inflectional affixation ====
+Majhi uses morphemes to [[Inflectioninflect]] words (specifically, to decline nouns and to conjugate verbs). Nouns are declined for case, number, and gender. Nouns are also declined for pronominal possessive suffixes, which indicate the possessor of the noun (see example below).
+ class="wikitable"
+!
+!Example 1
+!Example 2
+!Example 3
+-
+Function
+Noun declension
+Noun declension (with pronominal possessive suffix)
+Verb conjugation
+-
+Majhi
+
+
+
+
+
+
+hək-lə pətshi keti kha-a-i te
+become-PRF after what eat-CAUS-INF PRT
+'After the child was born, what was fed to her?'
+
+
+muĩ ta dzainai
+I PRT go-PST.1SG
+'Now I go (as for me)."
+
+
+keṭo a-le ni
+boy come-PST.3SG HS
+'The boy came (they say).'
+
+ram-in kam sək-le
+Ram-ERG work finish-PST.3SG
+Subject Object Verb
+'Ram finished the work.'
+
+tui kətte mun kha-tshəs
+you how-much liquor eat-NPST.2SG
+Subject Quantity Object Verb
+'How much liquor do you drink?'
+
+Subject Object Verbhoi-nin gai ban-le
+he-ERG cow tie-PST
+'Did he tie the cow?'
+
+
+bãs-kərə tsoja
+bamboo-GEN splinter
+'the splinter of bamboo'
+
+
+kaṭh-kərə	lagi
+wood-GEN	for
+'for wood'
+
+
+hoi-nin bhərkhər kətha sun-le
+He-ERG recently story heard-PST.3SG
+Subject Adverb Object Verb
+'He has recently heard the story.'

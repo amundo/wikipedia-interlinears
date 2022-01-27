@@ -1,0 +1,63 @@
+
+ opa cuen-me-nuc1=inflection
+Dog run.off-Cause-Intent:1
+ ‘I’m going to make the dog run off’<br/>(Fleck, 2003, p.&nbsp;213)
+
+
+opa cuen-me-boed nid-acc1=nominalization
+Dog run.off-Cause-Rec.Past:Nzr go-Infer
+‘The one who made the dog run off has left’<br/>(Fleck, 2003, p.&nbsp;213)
+
+opa cuen-me-ash nid-o-shc1=adverbialization
+Dog run.off-Cause-after:S/A>S go-Past-3
+‘After making the dogs run off, he left’<br/>(Fleck, 2003, p.&nbsp;213)
+
+
+Abitedi-mbo uënës-bud-ne-ac mëdin-bo aid
+all-AUG die-DUR-DISTR-Narr.PAST deceased.person-PL that.one
+‘All of them have died off, the now deceased one… those ones.’
+
+
+chompian-bo
+shotgun-PL
+‘Different types of shotguns’/ ‘shotguns, etc.’
+
+
+poshto-bo
+woolly.monkey-PL
+‘Woolly monkeys and other types of monkeys’
+
+
+Padnuen sinnad utsi-bo mannan-n-quio cani-quid
+By.contrast palm.genus other-PL hill-LOC-AUG grow-HAB
+'By contrast, other kinds of sinnad palms grow deep in the hills [upland forest].'
+
+
+chido-bo choe-e-c
+woman-PL come-NPAST-IND
+‘A group of women are coming’br‘Women (always) come.’br‘Women are coming (one by one)’
+
+
+chido(-bo) cho-cueded-e-c
+women(-PL) come-Coll:S/A-NPAST-IND
+‘A group of women are coming’
+
+
+tsësio-bo-n-uid-quio sedudie pe-quid
+old.man-PL-ERG-only-AUG nine.banded.armadillo eat-HAB
+‘Only old men eat nine-banded armadillos’
+
+
+cun papa pado-bo-n cain-e-c
+1Gen father deceased-PL-ERG wait-NPAST-IND
+‘My late father and my uncles wait for them [historical present]’
+
+
+cun chibi-bo
+1Gen younger.sister-PL
+‘My younger sisters’<br/>‘My younger female parallel cousins’
+
+
+cun chibi-ado
+1Gen younger.sister-PL:Cat.Ex
+‘My younger sisters and younger female parallel cousins (and others sisters, and female cousins)’

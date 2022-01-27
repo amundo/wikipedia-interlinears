@@ -1,0 +1,14 @@
+
+u-suka Zezin arapuha
+3-kill Zezin deer
+"Zezin killed a deer."
+
+
+o-ho Zezin ko pe
+3-go Zezin field to
+"Zezin goes to the field."
+
+
+aipo o-ho ko pe
+maybe 3-go field to
+"Maybe he went to the field."

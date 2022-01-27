@@ -1,0 +1,19 @@
+
+FATHER LOVE CHILD
+"The father loves the child."
+
+
+CHILD<sup>topic</sup>, FATHER LOVE
+"The father loves the child."
+
+
+FATHER LOVE CHILD FATHER<sup>copy</sup>
+"The father loves the child."
+
+
+LOVE CHILD FATHER<sup>copy</sup>
+"The father loves the child."
+
+
+CHILD<sup>topic</sup>, LOVE FATHER<sup>copy</sup>
+"The father loves the child."

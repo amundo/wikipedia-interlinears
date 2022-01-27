@@ -1,0 +1,24 @@
+ class="wikitable"
+-
+! colspan="2" 
+! singular
+! plural
+-
+! rowspan="2"  1st person
+! exclusive
+ rowspan="2" 
+
+-
+! inclusive
+
+-
+! colspan="2"  2nd person
+
+
+-
+! colspan="2"  3rd person
+
+
+-
+! colspan="2"  Generic
+ colspan="4" 

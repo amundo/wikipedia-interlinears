@@ -1,0 +1,39 @@
+
+si Inday/Anggam
+Focus Inday/uncle
+'Inday/Uncle'
+
+
+ka tirè/geyinawa rin
+Focus sugar cane/breath his
+'the sugar cane/his breath'
+
+
+ni Inday/Anggam
+NonFocus(Ag) Inday/uncle
+'by Inday/uncle'
+
+
+te lukes
+NonFocus(Ag) man
+'by the man'
+
+
+ki Inday/Anggam
+NonFocus Inday/uncle
+'to/from Inday/uncle'
+
+
+te lukes
+NonFocus man
+'to/from the man'
+
+
+Egsipè ka kuddè te kuddè
+NonPast-kick-Agent Focus horse NonFocus child
+'The horse kicks the child'
+
+
+Egsipeen ka kuddè te kuddè
+NonPast-kick-Agent Focus horse NonFocus(Ag) child
+'The child kicks the horse'

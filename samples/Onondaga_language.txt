@@ -1,0 +1,287 @@
+
+ęhayę́꞉twaʔ
+ę-		ha-			yętw-	aʔ
+FUT-	3.SG.M.AG-	plant-	PUNC
+'He will plant it.'
+
+
+waʔhayę́꞉twaʔ
+waʔ-	ha-			yę꞉tw-	aʔ
+FACT-	3.SG.M.AG-	plant-	PUNC
+'He planted it.'
+
+
+ahayę́꞉twaʔ
+a-		ha-			yę꞉tw-	aʔ
+OPT-	3.SG.M.AG-	plant-	PUNC
+'He might plant it.'
+
+ class="wikitable"
+-
+! Mood
+! Pre-pronominal Prefix
+! When used
+! Example
+-
+ rowspan=3 [[Evidentialityfactual]]
+ waʔ
+ default
+
+waʔhayę́꞉twaʔwaʔ-ha-yę꞉tw-aʔFACT-he-plant-PUNC'He planted it.'
+-
+ weʔ
+ any 2nd person or 1st person inclusive (except 2.SG.AG)
+
+weʔdniyę́꞉twaʔweʔ-dni-yę꞉tw-aʔFACT-1.DU.INCL.AG-plant-PUNC'You and I planted it.'
+-
+ ǫ
+ optionally replaces sequence waʔwa
+
+ǫgyę́꞉twaʔwaʔ-wak-yę꞉tw-aʔFACT-1.SG.PAT-plant-PUNC'It planted me.' (ex, a monster)
+-
+ [[Future tensefuture]]
+ ę
+ does not change
+
+ęhayę́꞉twaʔę-ha-yę꞉tw-aʔFUT-he-plant-PUNC'He will plant it.'
+-
+ rowspan=3 [[Optative moodoptative]]
+ a / a꞉
+ default (/a-/ and /a꞉-/ are in free variation)
+
+ahayę́꞉twaʔa-ha-yę꞉tw-aʔOPT-he-plant-PUNC'He might plant it.'
+-
+ ae
+ any 2nd person or 1st person inclusive (except 2.SG.AG)
+
+aedniyę́꞉twaʔae-dni-yę꞉tw-aʔOPT-1.DU.INCL.AG-plant-PUNC'You and I might plant it.'
+-
+ aǫ
+ optionally replaces sequence /awa/
+
+aǫgyę́꞉twaʔa-wak-yę꞉tw-aʔOPT-1.SG.PAT-plant-PUNC'It might plant me.' (ex, a monster)
+
+
+
+
+sahayę́꞉twaʔ
+sa– ha– yętw– aʔ
+REP.FACT- 3.SG.M- plant- PUNC
+'He planted it again.'
+
+
+
+ęshayę́꞉twaʔ
+ęs– ha– yętw– aʔ
+REP.FUT-  3.SG.M- plant- PUNC
+'He will plant it again.'
+
+
+
+waʔhayę́꞉twaʔ
+waʔ–  ha– yętw– aʔ
+FACT- 3.SG.M- plant- PUNC
+'He planted it.'
+
+
+
+deyǫshę́thwas
+de- yǫ- ashęthw-as
+DUC- 3.SG.F- cry-HAB
+'She is crying'
+
+
+
+dehahahíyaʔks
+de- ha- ahah- iyaʔk- s
+DUC- 3.SG.M- road- cross- HAB
+'He crosses a road.'
+
+
+
+dehá꞉yaʔks
+de- ha- yaʔk- s
+DUC- 3.SG.M- break- HAB
+'He breaks it into two.'
+
+
+
+há꞉yaʔks
+ha- yaʔk- s
+3.SG.M- break- HAB
+'He breaks it off.'
+
+
+
+weʔdnek
+weʔ–	dn–		ek–	Ø
+FACT-	1.DU.INCL-	eat-	PUNC
+'We two (you and I) ate it.'
+
+
+
+waʔagnek
+waʔ–	agn–		ek–	Ø
+FACT-	1.DU.EXCL-	eat-	PUNC
+'We two (someone else and I) ate it.'
+
+
+
+waʔsek
+waʔ– s– ek– Ø
+FACT- 2.SG- eat- PUNC
+'You (sing.) ate it.'
+
+
+
+weʔsnek
+weʔ– sn– ek– Ø
+FACT- 2.DU- eat- PUNC
+'You two ate it.'
+
+
+
+weʔswek
+weʔ– sw– ek– Ø
+FACT- 2.PL- eat- PUNC
+'You all ate it.'
+
+
+
+waʔek
+waʔ- e- k- Ø
+FACT- 3.SG.F- eat- PUNC
+'She ate it.' OR 'Someone ate it.'
+
+
+
+waʔwek
+waʔ- we- k- Ø
+FACT- 3.SG.N- eat- PUNC
+'Something/it ate it.'
+
+
+
+waʔhek
+waʔ- he- k- Ø
+FACT- 3.SG.M- eat- PUNC
+'He ate it.'
+
+
+
+waʔgadadaehsę́thwaʔ
+waʔ-	k-		atat-	aehsęthw-	aʔ
+FACT-	1.SG.AG-	REFL-	kick-		PUNC
+'I kicked myself.'
+
+
+
+waʔsgaehsę́thwaʔ
+waʔ-	sk-			aehsęthw-	aʔ
+FACT-	2.SG.AG:1.SG.PAT-	kick-		PUNC
+'You kicked me.'
+
+
+
+waʔthyadadyǫ́dyahdęʔ
+waʔ-	t-	hy-		atat-	yǫtya-	ht-	ęʔ
+FACT-	DUC-	3.DU.AG-	REFL-	laugh-	CAUS-	PUNC
+'They two made each other laugh.'
+
+
+
+waʔgadnęntshagetsgwaʔ
+waʔ-	k-		at-	nęntsh-	a-	getsgw-	aʔ
+FACT-	1.SG.AG-	SRFL-	arm-	JOIN-	raise-		PUNC
+'I raised my arm.'
+
+
+
+waʔkhenęntshagetsgwaʔ
+waʔ-	khe-			nęntsh-	a-	getsgw-	aʔ
+FACT-	1.SG.AG:3.SG.F.PAT-	arm-	JOIN-	raise-		PUNC
+'I raised her arm.'
+
+
+
+John	waʔhadyaʔdohaeʔ
+John	waʔ-	ha-		at-	yaʔt-	ohae-	ʔ
+John	FACT-	3.SG.M.AG-	SRFL-	body-	wash-	PUNC
+'John washed (himself).'
+
+
+
+waʔwadehnhóhwak
+waʔ-	w-		at-	ehnhohw-	aR-	k
+FACT-	3.SG.N.PAT-	SRFL-	door-		apply-	PUNC
+'The door closed.'
+
+
+
+odųhwejiyáʔgi꞉h
+o-				at-		ųhwęjy-		yaʔk-	ih
+3.SG.N.PAT-	SRFL-	earth-		break-	STAT
+'The earth has caved in.'
+
+
+
+waʔdyųdetgwęʔdaʔnéꞏgaꞏʔ
+waʔ-d-yų-adet-gwęʔd-ʔnegaꞏ-aʔ
+FACT-change.of.state-she-self-belly-burst-at.one.point.in.time
+"she blabbed, she revealed a secret" [literally, 'she burst her belly']
+
+
+
+gędéꞏih
+ga-idęꞏ-ih
+N.AG-help.out-STAT
+"it is helping."
+
+
+
+hayę́thwas
+ha-yę́thw-as
+3.SG.M.AG-plant-HAB
+"he plants"
+
+
+
+ganáʔjyaʔ
+ga-naʔjy-aʔ
+N.AG-pail-noun.suffix
+"pail"
+
+
+
+waʔhanęhayę́thwaʔ
+waʔ-ha-nęh-yęthw-aʔ
+FACT-he-corn-plant-PUNC
+'he planted corn' [literally, 'he corn-planted'].
+
+
+
+waʔhayę́thwaʔ neʔ onę́haʔ
+waʔ-ha-yęthw-aʔ neʔ o-nęh-aʔ
+FACT-he-plant-PUNC nominal.particle it-corn-noun.suffix
+'he planted (the) corn'
+
+
+
+gaę nų́ tganųhsáꞏyęʔ
+gaę nų́ t-ga-nųhs-yę-ʔ
+where place here-it-house-be.lying-STAT
+"Where is the house?"
+
+
+
+wadę́ʔ nihsaꞏdyéꞏhaʔ
+wadę́ʔ ni-hs-adyéꞏ-haʔ
+what thus-you-do-HAB
+"What are you doing?"
+
+
+
+Sędáʔwih khę́h.
+sa-idáʔw-ih khę́h.
+you-be.asleep-STAT Q
+"Are you asleep?"

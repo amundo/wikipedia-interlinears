@@ -1,0 +1,90 @@
+ class="wikitable"
++Example verb: ''angyarpaliyukapigtellruunga'' 
+!Stem
+!Postbases
+!Ending
+!Enclitic
+-
+
+
+
+
+-
+ colspan="4" "I wished very much to build a big boat"
+
+ class="wikitable"
++Example verb: ''assirtua-gguq 
+!Stem
+!Postbases
+!Ending
+!Enclitic
+-
+
+
+
+
+-
+ colspan="5" "(he says) I'm fine"
+-
+ colspan="5" "(tell him) I'm fine"
+
+ class="wikitable"
++Example noun: ''kipusvik'' 
+!Stem
+!Postbases
+!Ending
+!Enclitic
+-
+
+
+
+
+-
+ colspan="5" "store" (lit. "place for buying")
+
+ class="wikitable"
++Example noun: ''qayarpaliyaraqa'' 
+!Stem
+!Postbases
+!Ending
+!Enclitic
+-
+
+
+
+
+-
+ colspan="7" "the way I make a big kayak"
+
+
+
+assik-a-qa
+like-IND.TR-1SG>3SG
+"I like him/her/it"
+
+
+patu-la-ku=tuq  egaleq
+close-OPT-1SG>3SG=wish  window.ABS
+"I hope I will close the window"
+
+
+Nere-llru-uq  ermig-pailg-an
+eat-PST-IND.3SG wash.face-before-3SG
+"She ate before she (another) washed her face."
+
+
+Nere-llru-uq  ermig-paileg-mi
+eat-PST-IND.3SG wash.face-before-4SG
+"She ate before she (herself) washed her face."
+abbreviations=4SG:fouth person, singular
+
+
+Word: saskaq saskat saskaqa saskaa saskait
+Component morphemes: saskar-∅ saskar-t saskar-∅-ka saskar-nga-∅ saskar-ngi-t
+Interlinear gloss: cup-ABS.SG cup-ABS.PL cup-ABS.SG-1SG cup-ABS.SG-3SG cup-ABS.PL-3PL
+Translation: "cup" "cups" "my cup" "his/her cup" "their cups"
+
+
+angute-m kuuvviar-a
+man-REL.SG coffee.ABS.SG-3SG
+"the man's coffee"

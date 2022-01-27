@@ -1,0 +1,136 @@
+
+JOHN WRITE LETTER
+'John writes a letter.'
+
+
+JOHN WRITE LETTER
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;th 
+'John writes a letter carelessly.'
+
+
+MY HAIR WET
+my hair is wet
+
+
+[name my]<sup>TOPIC</sup> P-E-T-E
+my name is Pete
+
+
+REUBEN CAN RENT VIDEO-TAPE
+'Reuben can rent a video tape.'
+
+
+REUBEN WILL RENT VIDEO-TAPE
+'Reuben will rent a video tape.'
+
+
+* REUBEN CAN WILL RENT VIDEO-TAPE
+* 'Reuben can will rent a video tape.'
+
+
+[MEAT]<sup>tm</sup>, I LIKE LAMB
+As for meat, I prefer lamb.
+
+
+DOG CHASE MY CAT
+The dog chased my cat
+
+
+[MY CAT]<sup>tm</sup> DOG CHASE
+lit 'my cat, the dog chased it.'
+
+
+[MY CAT]<sup>tm</sup> CHASE DOG
+'my cat chased the dog,'br lit 'my cat, it chased the dog.'
+
+
+[MARY]<sup>tm1</sup> JOHN LOVE
+'Mary, John loves,' or 'John loves Mary'
+
+
+[VEGETABLE]<sup>tm2</sup>, JOHN LIKE CORN
+'As for vegetables, John likes corn.'
+
+
+[FRESH VEGETABLE]<sup>tm3</sup>, JOHN LIKE IX-3rd
+'As for fresh vegetables, John likes them.'
+
+
+[JOHNi]<sup>tm2</sup>, IX-3rdi LOVE MARY
+'as for John, he loves Mary'
+
+
+[JOHNi]<sup>tm3</sup>, IX-3rdi LOVE MARY
+'(you know) John, he loves Mary'
+
+
+boy fall
+"The boy fell down."
+versus
+
+boy fall [he]<sup>TAG</sup>
+"The boy fell down, he did."
+
+
+fall
+"He fell down."
+versus
+
+fall [he]<sup>TAG</sup>
+"He fell down, he did."
+
+
+DOG I HAVE NONE
+I don't have any dogs.
+
+
+TENNIS I LIKE PLAY NOT
+I don't like to play tennis.
+
+
+LOVE JOHN WHO
+  &nbsp;&nbsp;&nbsp;&nbsp;whqc2= (non-manual whq-marker)
+'Who loves John?'
+
+
+JUAN BUY BOOK YESTERDAY
+'Juan bought a book yesterday.'
+
+* JUAN BUY YESTERDAY BOOK
+* 'Juan bought a book yesterday.'
+
+JUAN BUY YESTERDAY "WHAT"
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wh
+'What did Juan buy yesterday?'
+
+
+YOU EAT [WHAT?]
+What are you eating?
+
+
+[I LIKE]<sup>NEGATIVE</sup> [WHAT?]<sup>RHETORICAL</sup>, GARLIC.
+I don't like garlic
+
+
+PASTA I EAT ENJOY TRUE [WHY?]<sup>RHETORICAL</sup>, ITALIAN I.
+I love to eat pasta because I am Italian
+
+
+[recently dog chase cat]<sup>RELATIVE</sup> come home
+The dog which recently chased the cat came home
+
+
+DOG BROWN I HAVE
+I have a brown dog.
+
+
+HOUSE I QUIET ENTER
+I enter the house quietly.
+
+
+9-HOUR MORNING STORE I GO
+I'm going to the store at 9:00AM.
+
+
+FOR YOU, STORE I GO CAN
+I can go to the store for you.

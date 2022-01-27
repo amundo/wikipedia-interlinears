@@ -1,0 +1,169 @@
+Perdana menteri sudah pulang
+Prime minister already home
+"The Prime minister has returned home"
+indent4[CP [DP Perdana menteri] [VP sudah pulang]]
+
+
+Botol ini retak
+Bottle DET-this crack
+“This bottle is cracked”
+indent4[CP[DP botol ini][VP retak]]
+
+Dokter memeriksa mata saya
+Doctor checks eye PN-my
+"The doctor checked my eyes"
+indent4[CP[DPDokter][VP[V memeriksa][DPmata says]]]
+
+guru bahasa
+teacher language
+"language teacher"
+
+guru sekolah itu
+teacher school DET-that
+"that schoolteacher"
+
+toko buku
+shop book
+"Bookshop"
+
+toko buku yang besar
+shop book DET-a big
+a big bookshop
+
+sate ayam
+satay chicken
+"chicken satay"
+
+
+Ahmet anne-sin-i ziyaret et-ti
+Ahmet mother-3SG-ACC visit do-PAST
+'Ahmet visited his mother.'
+indent4[TP [VP et][T -ti]]
+
+
+Çocuk-lar çikolata sever
+child-PL chocolate like
+'Children like chocolate.'
+indent4[VP [DP çikolata][V sever]]
+
+
+Dün çok garip kitap-lar-ı oku-du-m
+yesteray very strange book-PL-ACC read-PAST-1SG
+'Yesterday I read the very strange books.'
+indent4[DP [NP kitap-lar][D -ı]]
+
+
+Bu kitab-ı Ahmet için al-dı-m
+This book-ACC Ahmet for buy-PAST-1SG
+'I bought this book for Ahmet.'
+indent4[PP [DP Ahmet][P için]]
+
+Yazar makale-yi bitir-di
+author article-ACC finish-PAST
+'The author finished the article.'
+
+Makale-yi yazar bitir-di
+article-ACC author finish-PAST
+'The author finished the article.'
+
+Makale-yi bitir-di yazar
+article-ACC finish-PAST author
+'The author finished the article.'
+
+Yazar bitir-di makale-yi
+author finish-PAST article-ACC
+'The author finished the article.'
+
+Bitir-di yazar makale-yi
+finish-PAST author article-ACC
+'The author finished the article.'
+
+Bitir-di makale-yi yazar
+finish-PAST article-ACC author
+'The author finished the article.'
+
+Ich werde es finden
+I   will  it find
+"I will find it."
+:[TP [DP Ich] [T werde] [VP [DP es] [V finden]]]
+
+
+Man beschimpfte den Boten,    der den Befehl  überbrachte
+one insulted    the messenger who the command delivered
+"The messenger, who delivered the command, was insulted."
+:[NP [N Boten] [CP der den Befehl überbrachte]]
+
+der auf seine Kinder stolze Vater
+the of his children proud father
+"the father (who is) proud of his children"
+:[AP [PP auf seine Kinder] [A stolze]]
+
+weil er stolz auf seine Kinder ist
+since he proud of his children is
+"since he is proud of his children"
+:[AP [A stolz] [PP auf seine Kinder]]
+
+Peter legt das Buch auf den Tisch
+Peter puts the book on the.ACC table
+"Peter puts the book on the table."
+:[PP [P auf] [DP den Tisch]]
+
+
+Die Schnecke kroch das Dach hinauf
+the snail crept the roof up
+"The snail crept up the roof"
+:[PP [DP das Dach] [P hinauf]]
+
+der Mann
+the man
+"the man"
+:[DP [D der] [NP Mann]]
+
+
+dass Lisa eine Blume gepflanzt hat
+that Lisa a flower planted has
+"that Lisa planted a flower"
+:[CP [C dass] [TP Lisa eine Blume gepflanzt hat]]
+
+
+Kɔ̀jó tó àmí lɔ́ zân
+Kojo IMPERF oil DET use
+"Kojo is using the oil."
+:[VP [DP àmí lɔ́] [V zân]]
+
+Kɔ̀jó nɔ̀ zán àmí lɔ́
+Kojo HAB use-PERF oil DET
+"Kojo habitually used the oil/Kojo habitually uses the oil."
+:[VP [V zán] [DP àmí lɔ́]]
+
+
+dàwé lɔ̀ ná xɔ̀ kɛ̀kɛ́
+man DET FUT buy bicycle
+"The man will buy a bicycle."
+:[TP [T ná] [VP xɔ̀ kɛ̀kɛ́]]
+
+Kɔ̀kú sín ɖìdè lɛ̀
+Koku-CASE sketch-PL
+"sketches of Koku"
+:[NP [KP Kɔ̀kú sín] [N ɖìdè]]
+
+àǔn yù tàùú
+dog black INT
+"really black dogs"
+:[AP [A yù] [Int tàùú]]
+
+Kòfi zé kwɛ́ xlán Àsíbá
+Kofi take-PERF money to Asiba
+"Kofi sent money to Asiba."
+:[PP [P xlán] [DP Àsíbá]]
+
+Asíbá xɔ̀ àvɔ̀ àmàmú màtàn-màtàn ɖé
+Asiba buy-PERF cloth green odd DEF
+"Asiba bought a specific ugly green cloth"
+:[DP [NP àvɔ̀ àmàmú màtàn-màtàn] [D ɖé]]
+
+
+ɖé Dòsà gbá xwé ɔ̀ ɔ̀
+that Dosa build-PERF house DEF DET
+"that Dosa built the house"
+:[CP [C ɖé] [TP Dòsà gb xwé ɔ̀ ɔ̀]]

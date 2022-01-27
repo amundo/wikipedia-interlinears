@@ -1,0 +1,30 @@
+ class="wikitable"
++Example of Natural Gender in SpanishsfnBradley2004p=18
+-
+! scope="col"  "Natural" Gender !! scope="col"  Phrase
+-
+ scope="row"  Masculine
+
+-
+ scope="row"  Feminine
+
+
+In "grammatical" gender, most words that end in langes-a, langes-d and langes-z are marked with "feminine" articles, while all others use the "generic" or "masculine" articles.
+ class="wikitable"
++Example of Grammatical Gender in Spanish
+-
+! scope="col"  "Grammatical" Gender !! scope="col"  Number !! scope="col"   Phrase
+-
+ scope="row" rowspan=2  Masculine
+ scope="row"  Singular
+
+-
+ scope="row"  Plural
+
+-
+ scope="row" rowspan=2  Feminine
+ scope="row"  Singular
+
+-
+ scope="row"  Plural
+

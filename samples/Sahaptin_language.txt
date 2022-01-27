@@ -1,0 +1,56 @@
+ class=wikitable
+
+i- q̓ínu -šana yáka paanáy
+3.NOM- see -ASP bear 3SG.ACC
+'the bear saw him'
+
+i- q̓ínu -šana =aš yáka -nɨm
+3.NOM- see -ASP =1SG bear -ERG
+'the bear saw me'
+
+
+ class=wikitable
+!Direct
+!Inverse
+-
+
+wínš i- q̓ínu -šana wapaanłá -an ku i- ʔíƛ̓iyawi -ya paanáy
+man 3.NOM- see -ASP grizzly -ACC and 3.NOM- kill -PST 3SG.ACC
+'the man saw the grizzly and he killed it'
+
+wínš i- q̓ínu -šana wapaanłá -an ku pá- ʔiƛ̓iyawi -ya
+man 3.NOM- see -ASP grizzly -ACC and INV- kill -PST
+'the man saw the grizzly and it killed him'
+
+
+
+ku pá- ʔiƛ̓iyawi -ya wínš -na
+and INV- kill -PST man -ACC
+'and it killed the man' (= 'and the man was killed by it')
+
+ class=wikitable
+!Direct
+!Inverse
+-
+
+q̓ínu -šana =maš
+see -ASP =1SG/2SG
+'I saw you'
+
+pá- q̓inu -šana =nam
+INV- see -ASP =2SG
+'you saw me'
+
+
+ class=wikitable
+!Direct
+!Inverse
+-
+
+á- q̓inu -šana =aš paanáy
+OBV- see -ASP =1SG 3SG.ACC
+'I saw him/her/it'
+
+i- q̓ínu -šana =aš pɨ́nɨm
+3.NOM- see -ASP =1SG 3.ERG
+'he/she/it saw me'

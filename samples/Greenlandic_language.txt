@@ -1,0 +1,372 @@
+=== Syntax ===
+Greenlandic distinguishes three [[Open class (linguistics)open word classes]]: [[nouns]], [[verbs]] and [[grammatical particleparticles]]. Verbs inflect for person and number of subject and object as well as for mood. Nouns inflect for possession and for case. Particles do not inflect.
+ class="wikitable"
+! &nbsp;!! Verb!! Noun!! Particle
+-
+! Word
+
+
+
+
+
+Sini-ppoq
+sleep-3SG/IND
+"(S)he sleeps"
+
+Angut sinippoq
+man.ABS sleep-3SG/IND
+"the man sleeps"
+
+Asa-vaa
+love-3SG/3SG
+"(S)he loves him/her/it"
+
+Angut-ip asa-vaa
+man-ERG love-3SG/3SG
+"the man loves him/her/it"
+
+Arnaq asa-vaa
+woman.ABS love-3SG/3SG
+"(S)he loves the woman"
+
+Anda sini-ppoq
+Anda.ABS sleep-3SG/IND
+"Anda sleeps"
+
+Anda-p nanoq taku-aa
+Anda-ERG bear.ABS see-3SG/3SG
+"Anda sees a bear"
+
+
+Andap tujuuluk pisiaraa
+Anda  sweater  bought
+A      O         V
+"Anda bought the sweater"
+
+
+Andap tujuuluk tungujortoq pisiaraa
+Anda sweater blue bought
+A      O       X    V
+"Anda bought the blue sweater"
+
+
+Anda sanasuuvoq pikkorissoq
+Anda carpenter-is skilled
+ S     V             APP
+"Anda is a skilled carpenter"
+
+: 
+! width="50%"  third person
+!
+! width="50%"  fourth person
+-
+
+
+
+-
+
+
+
+-
+
+
+
+
+
+Piitap arfeq takuaa
+Peter-ERG whale see
+"Peter saw the whale"
+
+Piitaq arfermik takuvoq
+Peter-ABS whale-INSTR see
+"Peter saw (a) whale"
+
+napparsima-vit?
+be sick-2/INTERR
+"Are you sick?"
+
+naamik, napparsima-nngila-nga
+no, be sick-NEG-1/IND
+"No, I am not sick"
+
+ class="wikitable"
++ 6. Transitive indicative mood
+! First person subject
+! Second person subject
+! Third person subject
+-
+ *
+
+
+-
+
+ *
+
+-
+
+
+
+-
+ *
+
+
+-
+
+ *
+
+-
+
+
+
+
+
+
+sini-git!
+sleep-IMP
+"Sleep!"
+
+
+sini-llanga
+sleep-1.OPT
+"Let me sleep!"
+
+
+sini-nnak!
+sleep-NEG.IMP
+"Don't sleep!"
+
+
+seqinner-pat Eva ani-ssaa-q
+sunshine-COND Eva go out-expect/3SG
+"If the sun shines, Eva will go out"
+
+
+qasu-gami innar-poq
+be tired-CAU/3SG go to bed-3SG
+"He went to bed because he was tired"
+
+
+matta-ttor-ama
+blubber-eat-CAU/1SG
+"I've eaten blubber (that's why I'm not hungry)"
+
+
+ani-guit eqqaama-ssa-vat teriannia-qar-mat
+go out-COND/2SG remember-FUT-IMP fox-are-CAUS
+"If you go out, remember that there are foxes"
+
+
+qasu-llunga angerlar-punga
+be tired-CONT.1SG go.home-1SG
+"Being tired, I went home"
+
+
+98-inik ukio-qar-luni toqu-voq
+98-INSTR.PL year-have-CONT.4.SG die-3SG
+"Being 98 years old, he/she died", "he/she was 98 when he/she died"
+
+
+Eva oqar-poq kami-it akiler-lugit
+Eva say-3SG boot-PL pay-CONT.3PL
+"Eva said she had paid for the boots"
+
+
+atuar-toq taku-ara
+read-PART/3SG see-1SG/3SG
+"I saw her read/I saw that she read"
+
+
+neriu-ppunga tiki-ssa-soq
+hope-1SG come-expect-PART/3SG
+"I hope he is coming/I hope he'll come"
+
+ class="wikitable"
+!
+
+-
+!
+
+-
+!
+
+-
+!
+
+
+-
+!
+
+-
+!
+
+-
+!
+
+
+
+
+toqo-riikatap-poq
+die-long.ago-3sg/IND
+"He died long ago"
+
+
+nere-qqammer-punga
+eat-recently-1sg/IND
+"I ate recently"
+
+
+ippassaq Piitaq arpap-poq
+yesterday Peter-ABS run-3sg/IND
+"Yesterday Peter was running."
+
+
+Piitaq arpap-poq
+Peter-ABS run-3sg/IND
+"Peter runs"
+
+
+Piitaq ani-voq
+Peter-ABS go.out-3sg/IND
+"Peter was gone out"
+
+
+tiki(k)-nikuu-sima-voq
+arrive-nikuu-sima-3sg/INT
+"Apparently, she had arrived"
+
+
+qia-sima-voq
+cry-sima-3sg/IND
+"He cried (his eyes are swollen)"
+
+
+qia-nikuu-voq
+cry-nikuu-3sg/IND
+"He cried (I was there)"
+
+Ilimaga-ara aasaq manna Dudley qujanar-tor-si-ffigi-ssa-llugu
+expect-1sg/3sg/IND summer this Dudley be.fun-cn-get.from-expect-CONT/3sg
+"I expect to get some fun out of Dudley this summer."
+* inchoative suffixes creating telic actions that can then be understood as already having begun by virtue of the indicative mood.
+
+Aggiuti-ler-para
+bring-begin-1sg/3sg/IND
+"I've started to bring him."
+* moods that mark the speech act as a request or wish.
+
+Qimmii-t nerisi(k)-tigit
+dog-PL feed-please-we/them/IMP
+"Let us feed the dogs, ok?"
+
+ class="wikitable"
+!
+
+-
+!
+
+-
+!
+
+-
+!
+
+-
+!
+
+-
+!
+
+
+
+
+illit  nere-qu-aatit
+you eat-tell to-3s-2s-IND
+'He told you to eat'
+
+
+angu-t neri-voq
+man-ABS eat-3sg
+"The man eats"
+
+
+angu-tip puisi neri-vaa
+man-ERG seal-ABS eat-3sg/3sg
+"The man eats the seal"
+
+
+nano-q savim-mi-nik kapi-vaa
+polar bear-ABS knife-his.own-INSTR stab-3sg/3sg
+"He stabbed the bear with his knife"
+
+
+kaffi-sor-tar-poq
+coffee-INSTR drink-usually-3sg
+"She usually drinks coffee"
+
+
+Piitaq savim-mik tuni-vara
+Peter-ABS knife-INSTR give-1sg/3sg
+"I gave Peter a knife"
+
+
+imer-mik!
+water-INSTR
+"(give me) water"
+
+
+sivisuu-mik sinip-poq
+late-INSTR sleep-3sg
+"He slept late"
+
+
+illu-mut
+house-ALL
+"towards the house"
+
+
+qassi-nut? – pingasu-nut.
+when-ALL  three-ALL
+"When?" – "At three o'clock"
+
+
+kiilu-mut tiiva krone-qar-poq
+kilo-ALL twenty crown-have-3sg
+"It costs 20 crowns per kilo"
+
+
+illu-mi
+house-LOC
+"in the house"
+
+
+Rasmussi-mit allagarsi-voq
+Rasmus-ABL receive.letter-3sg
+"He got a letter from Rasmus"
+
+
+matu-kkut iser-po
+door-PROS enter-3SG
+"He entered through the door"
+
+
+su-kkut tillup-paatit?
+where-PROS hit-3sg/2sg
+"Where (on the body) did he hit you?"
+
+
+palasi-kkut
+priest-PROS
+"the priest and his family"
+
+
+nakorsatut suli-sar-poq
+doctor-EQU work-HAB-3SG
+"he works as a doctor"
+
+
+Qallunaa-tut
+dane-EQU
+"Danish language (like a Dane)"
+
+
+

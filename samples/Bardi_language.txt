@@ -1,0 +1,52 @@
+In addition to translbcjitalic=no-iidi, there are about 20 other nominal derivational morphemes in Bardi. Several are displayed in the table below.
+ class="wikitable"
++Nominal Derivational Morphemes
+! colspan="2" Morpheme
+! rowspan="2" Example
+-
+!Suffix
+!Function
+-
+''langbcj-al''
+indefinite/adjectival
+
+-
+''langbcj-jin''
+group plural
+
+-
+''langbcj-(g)arda''
+privative
+
+-
+''langbcj-ngarr(a)''
+on compass points
+
+
+
+Two examples of the inflectional affixation within simple verbal predicates can be seen below.
+ class="wikitable"
+!Example #1
+!Example #2
+-
+
+
+
+
+
+gard&lt;ard&gt;i
+enter&lt;REDUP/ITR&gt;
+'to enter over and over again’
+
+
+
+jamoogamardaanim
+jamoo- gamarda- nim
+mother's.father- mother's.mother- ERG
+‘grandparents’
+
+
+Verb Subject Direct Object Indirect Object
+I-na-ng-ga-gal-jin baawa-nim mayi aamba
+3-TR-PST-bring-REC.PST=3MIN.IO child-ERG tucker man
+'The child brought tucker (food) for the man.'

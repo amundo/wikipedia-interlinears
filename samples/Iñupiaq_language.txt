@@ -1,0 +1,138 @@
+==== Tense ====
+Tense marking is always optional. The only explicitly marked tense is the future tense. Past and present tense cannot be marked and are always implied. All verbs can be marked through adverbs to show relative time (using words such as "yesterday" or "tomorrow"). If neither of these markings is present, the verb can imply a past, present, or future tense.
+ class="wikitable"
++ Future tense
+!Tense
+!Example
+-
+Present
+
+Uqaqsiitigun uqaqtuguk.
+telephone we-DU-talk
+We (two) talk on the phone.
+-
+Future
+
+Uqaqsiitigun uqaġisiruguk.
+telephone we-DU-FUT-talk
+We (two) will talk on the phone.
+-
+Future (implied)
+
+Iġñivaluktuq aakauraġa uvlaakun.
+give birth probably my sister tomorrow
+My sister (will) give(s) birth tomorrow. (the future tense "will" is implied by the word tomorrow)
+
+
+==== Mood ====
+Iñupiaq has the following moods: [[Indicative]], [[Interrogative moodInterrogative]], [[Imperative moodImperative]] (positive, negative), Coordinative, and [[Conditional moodConditional]].
+ class="wikitable"
++
+!Mood
+!Usage
+!width="40%"Example
+!Notes
+-
+Indicative
+Declarative statements
+
+aŋuniaqtit siñiktut.
+hunt-NZ-PL sleep-3-IND
+The hunters are sleeping.
+
+-
+Participles
+Creating relative clauses
+
+Putu aŋutauruq umiaqaqtuaq.
+Putu young-man boat-have-3-PTCP
+Putu is a man who owns a boat.
+"who owns a boat" is one word, where the  meaning of the English "who" is implied through the case.
+-
+ rowspan="2" Interrogative
+ rowspan="2" Formation of yes/no questions and content questions
+
+Puuvratlavich.
+swim-POT-2-INTERR
+Can you (singular) swim?
+Yes/no question
+-
+
+Suvisik?
+what-2DU-INTERR
+What are you two doing?
+Content question (this is a single word)
+-
+Imperative
+A command
+
+Naalaġiñ!
+listen-2SG-IMP
+Listen!
+
+-
+ rowspan="2" Conditionals
+ rowspan="2" Conditional and hypothetical statements
+
+Kakkama niġiŋaruŋa.
+hungry-1SG-COND-PFV eat-PFV-1SG-IND
+When I got hungry, I ate.
+Conditional statement. The verb "eat" is in the indicative mood because it is simply a declarative statement.
+-
+
+Kaakkumi niġiñiaqtuŋa.
+hungry-1SG-COND-IPFV eat-FUT-1SG-IND
+If I get hungry, I will eat.
+Hypothetical statement. The verb "eat" is in the indicative mood because it is simply a statement.
+-
+Coordinative
+Formation of dependent clauses that function as modifiers of independent clauses
+
+Agliqiłuŋa niġiruŋa.
+read-1SG-COORD eat-1SG-IND
+[While] reading, I eat.
+The coordinative case on the verb "read" signifies that the verb is happening at the same time as the main clause ("eat" - marked by indicative because it is simply a declarative statement).
+
+Indicative mood endings can be transitive or intransitive, as seen in the table below.
+ class="wikitable"
++
+! colspan="4" Indicative intransitive endings
+! colspan="12" Indicative transitive endings
+-
+! colspan="4" rowspan="2" 
+! colspan="10" OBJECT
+! colspan="2" rowspan="2" 
+-
+Mood marker
+!3s
+!3d
+!3p
+!2s
+!2d
+!2p
+!1s
+!1d
+!1p
+-
+ rowspan="3"  +t/ru
+ŋa
+guk
+
+==== Switch-references ====
+[[Switch-reference]]s occur in dependent clauses only with third person subjects. The verb must be marked as reflexive if the third person subject of the dependent clause matches the subject of the main clause (more specifically matrix clause).
+ class="wikitable"
++Switch references
+!width="50%"Example
+!Notes
+-
+
+Kaakkama niġiŋaruq.
+hungry-3-REFL-COND eat-3-IND
+When he/she got hungry, he/she ate.
+The verb in the matrix clause (to eat) refers to the same person because the verb in the dependent clause (To get hungry) is reflexive. Therefore, a single person got hungry and ate.
+-
+
+Kaaŋman niġiŋaruq.
+hungry-3-NREFL-COND eat-3-IND
+When he/she got hungry, (someone else) ate.
+The verb in the matrix clause (to eat) refers to a different singular person because the verb in the dependent clause (To get hungry) is non-reflexive.

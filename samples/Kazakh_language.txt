@@ -1,0 +1,88 @@
+ class="wikitable"
++Selectional restrictions on Kazakh auxiliaries
+-
+!Sentence
+!Auxiliary Used
+-
+
+∅ (present/future tense used)
+-
+
+jat－ to lie, general marker for progressive aspect.
+-
+
+jür – "go", dynamic/habitual/iterative
+-
+
+tūr – "stand", progressive marker to show the swimming is punctual
+-
+
+''Not a possible sentence of Kazakh''
+otyr – "sit", ungrammatical in this sentence, otyr can only be used for verbs that are ''[[stative verbstative]]'' in nature
+
+
+== Annotated text with gloss ==
+From the first stanza of "[[Menin' QazaqstanymMenıñ Qazaqstanym]]" ("My Kazakhstan"), the national anthem of Kazakhstan:
+ class="wikitable"
+!Менің Қазақстаным
+!''Men-ıŋ Qazaqstan-ym''
+-
+Алтын күн аспаны
+rowspan=2
+-
+IPA[ɑ̝ɫ̪ˈt̪ə̃ŋ‿kʰʏ̞̃n̪ ɑ̝s̪pɑ̝̃ˈn̪ə]
+-
+Алтын дән даласы
+rowspan=2
+-
+IPA[ɑ̝ɫ̪ˈt̪ə̃n̪ d̪æ̝̃n̪ d̪ɑ̝ɫ̪ɑ̝ˈs̪ə]
+-
+Ерліктің дастаны
+rowspan=2
+-
+IPA[je̘r̪l̪ɪ̞k̚ˈt̪ɪ̞̃ŋ̟ d̪ɑ̝s̪t̪ɑ̝̃ˈn̪ə]
+-
+Еліме қарашы!
+rowspan=2
+-
+IPA[je̘l̪ɪ̞̃ˈmʲe̘ qʰɑ̝r̪ɑ̝ˈʃə]
+-
+Ежелден ер деген
+rowspan=2
+-
+IPA[je̘ʒʲe̘l̪ʲˈd̪ʲẽ̘n̪ je̘r̪ d̪ʲe̘ˈɡʲẽ̘n̪<!-- This is a Russified pronunciation. Many rural Kazakh dialects do not palatalize [g] before front vowels. -->]
+-
+Даңқымыз шықты ғой
+rowspan=2
+-
+IPA[d̪ɑ̝̃ɴqə̃ˈməz̪ ʃəqˈt̪ə ʁo̞j]
+-
+Намысын бермеген
+rowspan=2
+-
+IPA[n̪ɑ̝̃məˈsə̃m bʲe̘r̪mʲe̘ˈɡʲẽ̘n̪]
+-
+Қазағым мықты ғой
+rowspan=2
+-
+IPA[qʰɑ̝z̪ɑ̝ˈʁə̃m məqˈtə ʁo̞j]
+-
+Менің елім, менің елім
+rowspan=2
+-
+IPA[mʲẽ̘ˈn̪ɪ̞̃ŋ̟ je̘ˈl̪ɪ̞̃m ǀ mʲẽ̘ˈn̪ɪ̞̃ŋ̟ je̘ˈl̪ɪ̞̃m]
+-
+Гүлің болып, егілемін
+rowspan=2
+-
+IPA[ɡʏ̞ˈl̪ʏ̞̃m bo̞ˈɫ̪ʊp ǀ je̘ɣɪ̞l̪ʲẽ̘ˈmɪ̞̃n̪]
+-
+Жырың болып төгілемін, елім
+rowspan=2
+-
+IPA[ʒəˈr̪ə̃m bo̞ˈɫ̪ʊp̚ t̪ʰɵɣʏ̞ˈl̪ʲẽ̘ˈmɪ̞̃n̪ ǀ je̘ˈl̪ɪ̞̃m]
+-
+Туған жерім менің – Қазақстаным
+rowspan=2
+-
+IPA[t̪ʰuˈʁɑ̝̃n̪ dʒʲe̘ˈr̪ɪ̞̃m mʲẽ̘ˈn̪ɪ̞̃ŋ̟ ǀ qʰɑ̝z̪ɑ̝qs̪t̪ɑ̝̃ˈn̪ə̃m]

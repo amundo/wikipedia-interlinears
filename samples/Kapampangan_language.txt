@@ -1,0 +1,47 @@
+
+
+Agent trigger (or voice)
+ S‹um›ulat yang poesia ing lalaki king pen king papil.
+  ya=ng       
+ ‹AT›will.write 3SG.DIR=ACC poem DIR boy OBL pen OBL paper
+ "The boy will write a poem with a pen on the paper."
+
+
+
+Patient trigger
+ I-sulat ne ning lalaki ing poesia king mestra.
+  na+ya      
+ PT-will.write 3SG.ERG+3SG.DIR ERG boy DIR poem OBL teacher.F
+ "The boy will write the poem to the teacher" <br /> or "The poem will be written by the boy to the teacher."
+
+
+
+Goal trigger
+ Sulat-anan ne ning lalaki ing mestro.
+  na+ya    
+ will.write-GT 3SG.ERG+3SG.DIR ERG boy DIR teacher.M
+ "The boy will write to the teacher" <br /> or "The teacher will be written to by the boy."
+
+
+
+Locative trigger
+ Pi-sulat-an neng poesia ning lalaki ing blackboard.
+  na+ya=ng     
+ LT-will.write-LT 3SG.ERG+3SG.DIR=ACC poem ERG boy DIR blackboard
+ "The boy will write a poem on the blackboard" <br /> or "The blackboard will be written a poem on by the boy."
+
+
+
+Circumstantial trigger (with instrument subject)
+ Panyulat neng poesia ning lalaki ing pen.
+ paN-sulat na+ya=ng     
+ CT-will.write 3SG.ERG+3SG.DIR=ACC poem ERG boy DIR pen
+ "The boy will write a poem with the pen" <br /> or "The pen will be written a poem with by the boy."
+
+
+
+Circumstantial trigger (with benefactee subject)
+ Pamasa nong libru ning babai reng anak.
+ paN-basa na+la=ng     
+ CT-will.read 3SG.ERG+3PL.DIR=ACC book ERG woman PL.DIR child
+ "The woman will read a book for the children" <br /> or "The children will be read a book by the woman."

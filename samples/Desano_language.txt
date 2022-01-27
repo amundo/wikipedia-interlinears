@@ -1,0 +1,131 @@
+
+
+[iɲẽẽ]
+idi~ye
+DEM:PROX-topic
+'this topic'
+
+
+
+[ibu]
+i-bu
+DEM:PROX-CL:basket
+'this basket'
+
+
+
+[iɾigʉ]
+idi-gu
+DEM:PROX-CL:trunk
+'this tree'
+
+
+
+[iɾo]
+i-do
+DEM:PROX-INAN
+'this thing (inanimate)'
+
+
+
+[iɾi]
+i-ɾi
+DEM:PROX-PL:INAN
+'these ones (inanimate)'
+
+
+
+[iɾisibu]
+idi-sibu
+DEM:PROX-time
+'this time'
+
+
+
+[iɾipʉ]
+idi-pu
+DEM:PROX-CONTR
+'this other'
+
+
+
+[iɾita]
+idi-ta
+DEM:PROX-EMPH
+'this (emphatic)'
+
+
+
+[sipʉ]
+si-pu
+DEM:DIST-CONTR
+'that other'
+
+
+
+[sigo]
+si-go
+DEM:DIST-3SG:F
+'that woman'
+
+
+
+[sibu]
+si-bu
+DEM:DIST-CL:basket
+'that basket'
+
+
+Igo soda T E boN
+She cook GEN EV p.e.
+“She cooks”
+
+
+Jyy baa GY-i  T E by
+I eat partic-do GEN EV p.e.
+“I am eating”
+
+
+IgyN kadiN GY-i  T E biN
+He sleep partic-do GEN EV p.e.
+“He is sleeping”
+
+
+Jyy kadiN a E by
+I sleep -NPRES EV p.e.c2=(Observed)
+“I slept”
+
+
+Juu dodeky a ko by
+Ibe sick -NPRES EV p.e. c2=(Non-visible)
+“I was sick”
+
+
+IgyN aadi a  jo py
+He come -NPRES EV p.e.c2=(Reported)
+“He came”
+
+
+IdaN wai weheN  daN ehea a jo baN
+They fish kill  partic went -NPRES EV p.e.c2=(Inferred)
+“They went fishing”
+
+
+Dia aadiN R E by
+River be REM EV p.e.
+“There is a river (far away)”
+
+
+IgyN aadiN R E biN
+He  be REM EV p.e.
+“He was there (a long time ago), he is there (far away)”
+
+
+Jyy baa R E by
+I eat REM EV p.e.
+“I ate (long ago)”
+
+
+Jyy kabisaN de  asuN R E by
+I shirt  OBL buy REM EV p.e.
+“I bought a shirt (long ago)”

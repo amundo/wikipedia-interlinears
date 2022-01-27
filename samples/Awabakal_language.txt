@@ -1,0 +1,10 @@
+top = ''Kariwangku minaring tataan?''
+kariwang+ku minaring ta+taan?
+magpie+ERG what(ABS) eat+PRES
+'What does the magpie eat?'
+
+
+top = ''Minaringku kariwang tataan?''
+minaring+ku kariwang ta+taan
+what+ERG magpie(ABS) eat+PRES
+'What eats the magpie?'

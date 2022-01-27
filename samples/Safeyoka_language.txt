@@ -1,0 +1,45 @@
+==== Simple ====
+The simple sentence formula is "+ Base: General Clause/Elliptical Clause + Terminal: Final Intonation." The sentence is explained by a single base and final intonation. In other words, the single base is expounded by the general clause. Single base moods include: Indicative, Interrogative, Dubitative, Information interrogative, Avolitional, and Exclamatory.
+ class="wikitable"
+!Single Bases
+!Example
+-
+ rowspan="2" General Clause 1 = Indicative
+
+IndicativeHofɨko pmmalofo-fohothey came'They came'
+-
+
+Negative Indicativemmalofo'mahocome'They didn't come.'
+-
+ rowspan="2" General Clause 2 = Interrogative
+
+InterrogativeNto pmmalofotahoalready came'Did they already come?'
+-
+
+Negative InterrogativeMapɨ'njitahoNEG-come''Didn't they come?'
+-
+ rowspan="2" General Clause 3 = Dubitative
+
+DubitativePmmalofotɨkenocome-they'Maybe they came'
+-
+
+Negative DubitativeMapɨ'njitɨkenocome-maybe'Maybe they didn't come'
+-
+ rowspan="2" General Clause 4 = Information Interrogative
+
+Information InterrogativeTɨhwo pmmalofotowho came'Who came?'
+-
+
+Negative Information InterrogativeTɨhwo mapɨ'njitowho NEG-came'Who didn't come?'
+-
+General Clause 5 = Avolitional
+
+AvolitionalPɨfɨtnnohocome-they'It's not good that they come.'
+
+-
+General Clause 6 = Exclamatory
+
+ExclamatoryYahufohipig'It's a pig!'
+
+-
+ colspan="2" 

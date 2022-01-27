@@ -1,0 +1,31 @@
+ class="wikitable"
++Examples of major sentences
+!Type of Sentence Structure
+!Arosi sentence
+-
+S --> NP + VP
+
+-
+S --> NP + VP ± L ± T
+
+-
+S --> NP₁ + VP + NP₂
+
+-
++S + V + O ± L ± T ± R
+
+
+
+ class="wikitable"
++Minor Sentences
+!Type of Sentence Structure
+!Arosi example
+-
+! Interjection
+
+-
+! Yes-no question
+
+-
+! Equational and Descriptional
+

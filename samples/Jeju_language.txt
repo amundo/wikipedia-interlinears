@@ -1,0 +1,81 @@
+ class="wikitable"
++Final-consonant allomorphy in irregular verbssfnKo J.2011app=170–179, 182–189
+-
+! colspan="2"  Underlying morphemes !! Surface realization !! Regular verb
+-
+ rowspan="2"  langjjeᄃᆞᆮ- transljjedawd- "to run"  langjje-곡 transljje-gok
+-
+ langjje-아 transljje-a
+-
+ rowspan="2"  langjje빕- transljjebib- "to pour"  langjje-곡 transljje-gok
+-
+ langjje-어 transljje-eo
+-
+ rowspan="2"  langjje짓- transljjejis- "to compose writing"  langjje-곡 transljje-gok
+-
+ langjje-어 transljje-eo
+-
+ rowspan="2"  langjje눅- transljjenug- "to lie down"efnThe only IPAk-irregular verb  langjje-곡 transljje-gok
+-
+ langjje-어 transljje-eo
+
+
+ class="wikitable"
++Vowel shifts in conjugated verbssfnYang C.Yang S.O'Grady2019pp=34–36sfnKo J.2011app=94–97, 106–108
+! English !! colspan="3"  Underlying morphemes !! Surface realization
+-
+ "is sad, and"  langjje슬프- transljjeseulpeu- "to be sad"  colspan="2"  langjje-엉 transljje-eong
+-
+ "rests, and"  langjje쉬- transljjeswi- "to rest" colspan="2"  langjje-엉 transljje-eong
+-
+ "was fast"  langjje제- transljjeje- "to be fast"  langjje-엇 transljje-eos
+-
+ "mixed with water"  langjje개- transljjegae- "to mix with water"  langjje-엇 transljje-eos
+-
+-
+ "did"  langjjeᄒᆞ transljjehaw- "to do"  langjje-엇 transljje-eos
+-
+ "if [it] burns"  langjje카- transljjeka- "to burn"  rowspan="4"; colspan="2"  langjje-민 transljje-min
+-
+ "if [he] believes"  langjje믿- transljjemid- "to believe"  langjje믿으민 transljjemid-eumin
+-
+ "if [it] is bad"  langjje줏- transljjejus- "to pick"  langjje줏이민 transljjejus-imin
+-
+ "if [he] puts in the soup"  langjjeᄌᆞᆷ- transljjejawm- "to put into soup"  langjjeᄌᆞᆷ우민 transljjejawm-umin
+
+
+ class="wikitable"
+-
+! Function !! style="width: 10%"  ParticleefnParts in parentheses are omitted following vowels !! style="width: 20%"  [[Allomorphy]] and variants !! Example !! style="width: 33%" Usage notes
+-
+ [[Nominative caseNominative]]sfnYang C.Yang S.O'Grady2019pp=50–52sfnKim Jee-h.2015pp=37–39efnYang C., Yang S., and O'Grady 2019 also classifies transljje-(i)seo and transljje-ra/re as nominative particles, but Kim Jee-hong points out that they are restricted in use and can be topicalized, and should thus be seen as nominative constructions that rely on non-nominative morphemes.
+ <div class="center">langjje이 <br> transljjeitalics=no-i</div>
+ After vowel: langjje가 transljjeitalics=no-ga
+  Does not appear in the [[Korean grammar#Copulative and existential verbscomplement]], unlike in Standard Korean.sfnKo J.2011ap=142 Cannot be topicalized.sfnKim Jee-h.2015pp=37–39
+-
+ [[Accusative caseAccusative]]sfnYang C.Yang S.O'Grady2019p=53
+ <div class="center">langjje을 <br> transljjeitalics=no-(eu)l</div>
+ Rare, formal post-vowel form: langjje를 transljjeitalics=no-reul
+ Unlike in Korean, can be followed by other particles, e.g. langjje늘광 transljjeneu-l-gwang
+-
+ rowspan="2"  [[Genitive caseGenitive]]sfnYang C.Yang S.O'Grady2019pp=49, 53
+ <div class="center">langjje이/의<br>transljjeitalics=no-i</div>
+rowspan=4 n/a
+ transljje-i is rare, but required when the subsequent [[noun phrase]] begins with an adnominal clause.sfnKim Jee-h.2015p=65
+-
+ <div class="center">langjjeㅅ<br>transljjeitalics=no-s</div>
+ Called "pseudo-genitive" in Yang C., Yang S., and O'Grady 2019.sfnYang C.Yang S.O'Grady2019p=48 Appears in certain compounds, as mentioned above. May also follow a locative marker to attribute a noun.
+-
+ rowspan="4"  [[Dative caseDative]]sfnYang C.Yang S.O'Grady2019pp=54–55
+ <div class="center">langjjeᄀᆞ라<br>transljjeitalics=no-gawra</div>
+ Restricted to human addressees of verbs of speaking.
+-
+ <div class="center">langjje신디<br>transljjeitalics=no-sindi</div>
+ rowspan="3" May be used with the verb langjje싯다 transljjesitda "to exist" to form possessive constructions, with the dative marking the possessor.
+
+<blockquote>
+Col-begin
+Col-2
+Col-2
+Col-end
+</blockquote>

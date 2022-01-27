@@ -1,0 +1,906 @@
+number=a.
+
+Actor Voice
+ S‹font color#FF0000um›ulat ya=ng poesia ing lalaki king pisara.
+ ‹AV›will.write 3SG.DIR=ACC poem DIR boy OBL blackboard
+ "The boy will write a poem on the blackboard."
+
+
+number=b.
+ * Sfont color#FF0000umulat yang lalaki ing poesia king pisara.
+ Intended: "The boy will write a poem on the blackboard."<br>
+(Grammatical for: "The poem will write a boy on the blackboard.")
+
+
+number=c.
+ * Sfont color#FF0000umulat yang poesia ing pisara king lalaki.
+ Intended: "The boy will write a poem on the blackboard."<br>
+(Grammatical for: "The blackboard will write a poem on the boy.")
+
+number=a.
+
+Actor Voice
+ B‹font color#FF0000um›ili ng mangga sa palengke ang lalaki.
+ ‹ASP.AV›buy IND mango OBL market DIR man
+ "The man bought a mango at the market."
+
+
+number=b.
+ * Bfont color#FF0000umili ng lalaki sa palengke ang mangga.
+ Intended: "The man bought a mango at the market."<br>
+(Grammatical for: "The mango bought a man at the market.")
+
+
+number=c.
+ * Bfont color#FF0000umili ng mangga sa lalaki ang palengke.
+ Intended: "The man bought a mango at the market."<br>
+(Grammatical for: "The market bought a mango from the man.")
+
+number=a.
+
+Patient Voice
+ font color#FF0000I-sulat n=e ning lalaki ing poesia king pisara.
+ PV-will.write 3SG.ERG=3SG.DIR ERG boy DIR poem OBL blackboard
+ "The poem will be written by the boy on the blackboard."
+
+
+number=b.
+ * font color#FF0000Isulat ne ning poesia ing lalaki king pisara.
+ Intended: "The poem will be written by the boy on the blackboard."<br>
+(Grammatical for: "The boy will be written by the poem on the blackboard.")
+
+
+number=c.
+ * font color#FF0000Isulat ne ning lalaki ing pisara king poesia.
+ Intended: "The poem will be written by the boy on the blackboard."<br>
+(Grammatical for: "The blackboard will be written by the boy on the poem.")
+
+number=a.
+
+Patient Voice
+ B‹in›ili-font color#FF0000∅ ng lalaki sa palengke ang mangga.
+ ‹ASP›buy-PV IND man OBL market DIR mango
+ "The mango was bought by the man at the market."
+
+
+number=b.
+ * Binili-font color#FF0000∅ ng mangga sa palengke ang lalaki.
+ Intended: "The mango was bought by the man at the market."<br>
+(Grammatical for: "The man was bought by the mango at the market.")
+
+
+number=c.
+ * Binili-font color#FF0000∅ ng lalaki sa mangga ang palengke.
+ Intended: "The mango was bought by the man at the market."<br>
+(Grammatical for: "The market was bought by the man at the mango.")
+
+
+number=a.
+
+Locative Voice
+ font color#FF0000Pi-sulat-font color#FF0000an n=e=ng poesia ning lalaki ing pisara.
+ LV-will.write-LV 3SG.ERG=3SG.DIR=ACC poem ERG boy DIR blackboard
+ "The blackboard will be written a poem on by the boy."
+
+
+number=b.
+ * font color#FF0000Pisulatfont color#FF0000an neng poesia ning pisara ing lalaki.
+ Intended: "The blackboard will be written a poem on by the boy."<br>
+(Grammatical for: "The boy will be written a poem on by the blackboard.")
+
+
+number=c.
+ * font color#FF0000Pisulatfont color#FF0000an neng pisara ning lalaki ing poesia.
+ Intended: "The blackboard will be written a poem on by the boy."<br>
+(Grammatical for: "The poem will be written a blackboard on by the boy.")
+
+number=a.
+
+Locative Voice
+ B‹in›ilh-font color#FF0000an ng lalaki ng mangga ang palengke.
+ ‹ASP›buy-LV IND man IND mango DIR market
+ "The market was bought a mango at by the man."
+
+
+number=b.
+ * Binilhfont color#FF0000an ng palengke ng mangga ang lalaki.
+ Intended: "The market was bought a mango at by the man."<br>
+(Grammatical for: "The man was bought a mango from by the market.")
+
+
+number=c.
+ * Binilhfont color#FF0000an ng lalaki ng palengke ang mangga.
+ Intended: "The market was bought a mango at by the man."<br>
+(Grammatical for: "The mango was bought a market at by the man.")
+
+number=1)
+
+Actor Voice
+  scagent  sctheme  scgoal  
+ Nagpadala ang mama ng pera sa anak niya.
+ font color#FF0000M-n-pag-padala       
+ AV-ASP-¿?-send DIR man IND money OBL child 3SG.GEN
+ "The man sent money to his child."
+
+
+number=2)
+
+Locative Voice
+  scagent  sctheme  scgoal  
+ P‹in›adalh-font color#FF0000an ng mama ng pera ang anak niya.
+ ‹ASP›send-LV IND man IND money DIR child 3SG.GEN
+ "Hisi child was sent money by the mani."
+
+
+number=3)
+
+(ungrammatical attempt to promote the indirect object to direct object)
+   scagent  sctheme  scgoal  
+ * Nagpadalhan ang mama ng pera ng anak niya.
+  font color#FF0000M-n-pag-padalh-font color#FF0000an       
+  AV-ASP-sc¿?-send-LV DIR man IND money IND child 3SG.GEN
+ Intended: "The man sent his child money."
+
+number=4)
+
+Active Voice
+ scagent  sctheme scgoal 
+ Ayah mengirim uang kepada saya.
+  font color#FF0000meN-kirim   
+ father ACTIVE VOICE-send money to 1SG
+ "Father sent money to me."
+
+
+number=5)
+
+Passive Voice with an Applicative Suffix
+ scgoal  sctheme scagent 
+ Saya font color#FF0000di-kirim-font color#FF0000i uang oleh Ayah.
+ 1SG PASSIVE VOICE-send-APPLICATIVE money by father
+ "I was sent money by Father."
+
+
+number=6)
+
+Active Voice with an [[Applicative voiceApplicative Suffix]]
+ scagent  scgoal sctheme
+ Ayah mengirimi saya uang.
+  font color#FF0000meN-kirim-font color#FF0000i  
+ father ACTIVE VOICE-send-APPLICATIVE 1SG money
+ "Father sent me money."
+
+
+
+Actor Voice
+ font color#FF0000Mi-ʔaɬup ku kapah tu vavuy.
+ AV-hunt DIR young man ACC pig
+ "A young man hunts a pig."
+
+
+
+Patient Voice
+ font color#FF0000Ma-ʔaɬup nu kapah ku vavuy.
+ PV-hunt ERG young man DIR pig
+ "A young man hunts a pig." (''or'' "A pig is hunted by a young man.)
+
+
+
+Locative Voice
+ font color#FF0000Pi-ʔaɬup-font color#FF0000an nu kapah kura lutuk tu vavuy.
+ LV-hunt-LV ERG young man that.DIR mountain ACC pig
+ "A young man hunts a pig on that mountain." (''or'' "That mountain is hunted a pig on by a young man.")
+
+
+
+Instrument Voice
+ font color#FF0000Sa-pi-ʔaɬup nu kapah ku ʔiluc tu vavuy.
+ IV-hunt ERG young man DIR spear ACC pig
+ "A young man hunts a pig with a spear." (''or'' "A spear is hunted a pig with by a young man.")
+
+
+
+Actor Voice
+ font color#FF0000M-aras cuʔ qusiaʔ kuʔ makurakis.
+ AV-fetch ACC water DIR girl
+ "The girl fetches water."
+
+
+
+Patient Voice
+ Ras-font color#FF0000un nkuʔ makurakis kuʔ qusiaʔ.
+ fetch-PV ERG girl DIR water
+ "The girl fetches water." (''or'' "Water is fetched by the girl.")
+
+
+
+Locative Voice
+ Ras-font color#FF0000an nkuʔ makurakis cuʔ qusiaʔ kuʔ βintaŋ ka hani.
+ fetch-LV ERG girl ACC water DIR water bucket LIG this
+ "The girl fetches water in this water bucket." (''or'' "This water bucket is fetched water in by the girl.")
+
+
+
+Circumstantial Voice (with beneficiary subject)
+ font color#FF0000Si-ʔaras nkuʔ makurakis cuʔ qusiaʔ kuʔ mamaliku=niaʔ.
+ CV-fetch ERG girl ACC water DIR husband=3SG.GEN
+ "The girl fetches water for her husband." (''or'' "Her husbandi is fetched water for by the girli.")
+
+
+
+Circumstantial Voice (with instrument subject)
+ font color#FF0000Si-ʔaras nkuʔ makurakis cuʔ qusiaʔ kuʔ βintaŋ ka hani.
+ CV-fetch ERG girl ACC water DIR water bucket LIG this
+ "The girl fetches water with this water bucket." (''or'' "This water bucket is fetched water with by the girl.")
+
+
+
+Actor Voice
+ font color#FF0000M-aniq qulih qu’ Tali’.
+ AV-eat fish DIR Tali
+ "Tali eats fish."
+
+
+
+Patient Voice
+ Niq-font color#FF0000un na’ Tali’ qu’ qulih qasa.
+ eat-PV ERG Tali DIR fish that
+ "Tali eats that fish." (''or'' "That fish is eaten by Tali.")
+
+
+
+Locative Voice
+ Niq-font color#FF0000an na’ Tali’ qulih qu’ ngasal qasa.
+ eat-LV ERG Tali fish DIR house that
+ "Tali eats fish in that house." (''or'' "That house is eaten fish in by Tali.")
+
+
+
+Circumstantial Voice (with benefactee subject)
+ font color#FF0000S-qaniq na’ Tali’ qulih qu’ Sayun.
+ CV-eat ERG Tali fish DIR Sayun
+ "Tali eats fish for Sayun." (''or'' "Sayun is eaten fish for by Tali.")
+
+
+
+Circumstantial Voice (with instrument subject)
+ font color#FF0000S-qaniq na’ Tali’ qulih qu’ qway.
+ CV-eat ERG Tali fish DIR chopsticks
+ "Tali eats fish with chopsticks." (''or'' "Chopsticks are eaten fish with by Tali.")
+
+
+
+Actor Voice
+ Hli-font color#FF0000um-u=cu=aku hlavate usua.
+ ASP-AV-eat=ASP=1SG.DIR guava two
+ "I have eaten two guavas."
+
+
+
+Patient Voice
+ Hli-paipekel-font color#FF0000a=cu a Eleke a tangusuhlu=na.
+ ASP-mould-PV=ASP DET Eleke DET rice.cake=DEF
+ "Eleke has moulded the rice cake." (''or'' "The rice cake has been moulded by Eleke.")
+
+
+
+Circumstantial Voice (with location subject)
+ Hli-aala-font color#FF0000ana ’Angai vutukuhlu a hluuhlungu=na.
+ ASP-take-CV ’Angai fish DET stream=DEF
+ "’Angai has caught fish in the stream." (''or'' "The stream has been caught fish in by ’Angai.")
+
+
+
+Circumstantial Voice (with theme subject)
+ Hli-aala-font color#FF0000ana=ku a vahlituku-isa ama’a.
+ ASP-take-CV=1SG.ERG DET money-3 father
+ "I have taken father's money." (''or'' "Father's money has been taken by me.")
+
+
+
+Actor Voice
+ K‹font color#FF0000um›aʉn (sua) ŋiau tapianaŋai.
+ ‹AV›eat DIR cat bird
+ "A cat ate a bird."
+
+
+
+Patient Voice
+ Cʉʔʉr-font color#FF0000ai maanu iisi (sua) tacau iisa.
+ see-PV child this DIR dog that
+ "This child saw that dog." (''or'' "That dog was seen by this child.")
+
+
+
+Locative Voice
+ Riucuucu-font color#FF0000an Mu'u (sua) PaicU.
+ kiss-LV Mu'u DIR PaicU
+ "Mu'u kissed PaicU." (''or'' "PaicU was kissed by Mu'u.")
+
+
+
+Instrument Voice
+ font color#FF0000Si-puʔa maanu-maku ʔʉnai sua vantuku iisi.
+ IV-buy child-1SG.GEN land DIR money this
+ "My child bought land with this money." (''or'' "This money was bought land with by my child.")
+
+
+
+Actor Voice
+ Q‹font color#FF0000em›al tu rasung ya sunis.
+ ‹AV›dig ACC well DIR child
+ "The child dug a well."
+
+
+
+Patient Voice
+ Qal-font color#FF0000an na sunis ya rasung.
+ dig-PV ERG child DIR well
+ "The child dug the well." (''or'' The well was dug by the child.")
+
+
+
+Circumstantial Voice (with instrument subject)
+ font color#FF0000Ti-tangan=ku tu ineb ya suqsuq.
+ CV-open=1SG.ERG ACC door DIR key
+ "I opened the door with the key." (''or'' "The key was opened the door with by me.")
+
+
+
+Circumstantial Voice (with benefactee subject)
+ font color#FF0000Ti-sammay na tama=ku ya tina=ku.
+ CV-cook ERG father=1SG.GEN DIR mother-1SG.GEN
+ "My father cooked for my mother." (''or'' "My mother was cooked for by my father.")
+
+
+
+Actor Voice
+ Q‹font color#FF0000m›ałup a tsautsau tua vavuy i (tua) gadu tua vuluq.
+ ‹AV›hunt DIR man OBL pig PREP (OBL) mountain OBL spear
+ "The man hunts the pigs in the mountains with a spear."
+
+
+
+Patient Voice
+ Qałup-font color#FF0000en nua tsautsau a vavuy i (tua) gadu tua vuluq.
+ hunt-PV ERG man DIR pig PREP (OBL) mountain OBL spear
+ "The man hunts the pigs in the mountains with a spear." (''or'' "The pigs are hunted by the man in the mountains with a spear.")
+
+
+
+Locative Voice
+ Qałup-font color#FF0000an nua tsautsau tua vavuy a gadu tua vuluq.
+ hunt-LV ERG man OBL pig DIR mountain OBL spear
+ "The man hunts the pigs in the mountains with a spear." (''or'' "The mountains are hunted the pigs in by the man with a spear.")
+
+
+
+Instrument Voice
+ font color#FF0000Si-qałup nua tsautsau tua vavuy i (tua) gadu a vuluq.
+ IV-hunt ERG man OBL pig PREP (OBL) mountain DIR spear
+ "The man hunts the pigs in the mountains with a spear." (''or'' "The spear is hunted the pigs with by the man in the mountains.")
+
+
+
+Actor Voice
+ font color#FF0000Mu-ngazip yaku ki wazu.
+ AV-bite 1SG DIR dog
+ "The dog bit me."
+
+
+
+Patient Voice
+ Ngazib-font color#FF0000en wazu lia ki rakihan.
+ bite-PV dog ASP DIR child
+ "A dog bit the child." (''or'' The child was bitten by a dog.")
+
+
+
+Locative Voice
+ Pu-batu’-font color#FF0000an lia ki babaw daran.
+ pave-stone-LV ASP DIR surface road
+ "The road surface was paved with stones."
+
+
+
+Instrument Voice
+ font color#FF0000Saa-talek alaw ki bulayan.
+ IV-cook fish DIR pan
+ "The pan was cooked fish with."
+
+
+
+Actor Voice
+ Tr‹font color#FF0000em›akaw dra paisu i Isaw.
+ ‹AT.RL›steal ACC money DIR Isaw
+ "Isaw stole money."
+
+
+
+Patient Voice
+ Tu=trakaw-font color#FF0000aw na paisu kan Isaw.
+ 3.ERG=steal-PT.RL DIR money ERG Isaw
+ "Isaw stole the money." (''or'' "The money was stolen by Isaw.")
+
+
+
+Locative Voice
+ Tu=trakaw-font color#FF0000ay=ku dra paisu kan Isaw.
+ 3.ERG=steal-LT.RL=1SG.DIR ACC money ERG Isaw
+ "Isaw stole money from me." (''or'' "I was stolen money from by Isaw.")
+
+
+
+Circumstantial Voice (with benefactee subject)
+ Tu=trakaw-font color#FF0000anay i tinataw dra paisu.
+ 3.ERG=steal-CT.RL DIR his.mother ACC money
+ "He stole money for his mother." (''or'' "Hisi mother was stolen money for by himi.")
+
+
+
+Circumstantial Voice (with instrument subject)
+ Ku=dirus-font color#FF0000anay na enay kan Aliwaki.
+ 1SG.ERG=wash-CT.RL DIR water ACC Aliwaki
+ "I washed Aliwaki with water." (''or'' "The water was washed Aliwaki with by me.")
+
+
+
+Actor Voice
+ S‹font color#FF0000em›ebuc ricah ka Pawan.
+ ‹AV›hit plum DIR Pawan
+ "Pawan is hitting plums."
+
+
+
+Patient Voice
+ Sebet-font color#FF0000un na Pawan ka ricah.
+ hit-PV ERG Pawan DIR plum
+ "Pawan is hitting the plum." (''or'' "The plum is being hit by Pawan.")
+
+
+
+Locative Voice
+ Sebet-font color#FF0000an na Pawan ricah ka peepah.
+ hit-LV ERG Pawan plum DIR farm.field
+ "Pawan is hitting plums in the farm field." (''or'' "The farm field is being hit plums in by Pawan.")
+
+
+
+Instrument Voice
+ font color#FF0000Se-sebuc na Pawan ricah ka butakan.
+ IV-hit ERG Pawan plum DIR stick
+ "Pawan is hitting plums with the stick." (''or'' "The stick is being hit plums with by Pawan.")
+
+
+
+Actor Voice
+ K‹font color#FF0000em›erut babuy ka Masaw.
+ ‹AV›cut pig DIR Masaw
+ "Masaw slaughters a/the pig."
+
+
+
+Goal Voice (with patient subject)
+ Keret-font color#FF0000an Masaw ka babuy.
+ cut-GV Masaw DIR pig
+ "Masaw slaughters the pig." (''or'' "The pig is slaughtered by Masaw.")
+
+
+
+Goal Voice (with location subject)
+ Keret-font color#FF0000an laqi sagas ka keti’inuh ni’i.
+ cut-GV child watermelon DIR board this
+ "The child cuts watermelon on this board." (''or'' "This board is cut watermelon on by the child.")
+
+
+
+Circumstantial Voice (with benefactee subject)
+ font color#FF0000Se-kerut babuy Masaw ka baki.
+ CV-cut pig Masaw DIR old.man
+ "Masaw slaughters a/the pig for the old man." (''or'' "The old man is slaughtered a/the pig for by Masaw.")
+
+
+
+Circumstantial Voice (with instrument subject)
+ font color#FF0000Se-kerut babuy Masaw ka puting.
+ CV-cut pig Masaw DIR knife
+ "Masaw slaughters a/the pig with the knife." (''or'' "The knife is slaughtered a/the pig with by Masaw.")
+
+
+
+Actor Voice
+ font color#00AA00Mi-’o font color#FF0000mo-si to peisu ne Nookay.
+ AUX.AV-1SG.DIR AV-put OBL money OBL Nookay
+ "I deposit money in Nookay."
+
+
+
+Patient Voice
+ font color#00AA00Os-’o si-font color#FF0000a to panka ’o peisu.
+ AUX.NAV-1SG.ERG put-PV OBL table DIR money
+ "I put the money on the/a table." (''or'' "The money was put on the/a table by me.")
+
+
+
+Locative Voice
+ font color#00AA00Os-’o si-font color#FF0000i to chumu ’o kopu.
+ AUX.NAV-1SG.ERG put-LV OBL water DIR cup
+ "I put water into the cup." (''or'' "The cup was put water into by me.")
+
+
+
+Benefactive Voice
+ font color#00AA00Os-’o si-i-font color#FF0000neni to ocha ’o Pasuya.
+ AUX.NAV-1SG.ERG put-LV-BV OBL tea DIR Pasuya
+ "I served tea for Pasuya." (''or'' "Pasuya was served tea for by me.")
+
+
+number= (1)
+
+Actor Voice
+ Mangamoqmo qo tao so motdeh no boday do vahay.
+ font color#FF0000"m-pang-qamoqmo        
+ AV-¿?-frighten DIR man ACC child IND snake OBL house
+ "The man is frightening a child with a snake in the house."
+
+
+
+Patient Voice
+ Qamoqmo-font color#FF0000"hen no tao qo motdeh no boday do vahay.
+ frighten-PV IND man DIR child IND snake OBL house
+ "The man is frightening a child with a snake in the house." (''or'' "A child is being frightened with a snake in the house by the man.")
+
+
+number= (3)
+
+Locative Voice
+ Pangamoqmoan no tao so motdeh no boday qo vahay.
+ pang-qamoqmo-font color#FF0000"an        
+ ¿?-frighten-LV IND man ACC child IND snake DIR house
+ "The man is frightening a child with a snake in the house." (''or'' "The house is being frightened a child in with a snake by the man.")
+
+
+number= (4) a.
+
+Circumstantial Voice (with instrument subject)
+ Qipangamoqmo no tao so motdeh qo boday do vahay.
+ font color#FF0000"qi-pang-qamoqmo        
+ CV-¿?-frighten IND man ACC child DIR snake OBL house
+ "The man is frightening a child with a snake in the house." (''or'' "The snake is being frightened a child with in the house by the man.")
+
+
+number= font color#FFFFFF"(4) b.
+
+Circumstantial Voice (with benefactee subject)
+ Qipangamoqmo no tao so motdeh no boday do vahay qo kayvan-a.
+ font color#FF0000"qi-pang-qamoqmo          
+ CV-¿?-frighten IND man ACC child IND snake OBL house DIR friend-3SG.GEN
+ "The man is frightening a child with a snake in the house for his friend." (''or'' "Hisi friend is being frightened a child for with a snake in the house by the mani.")
+
+
+
+Actor Voice
+ K‹font color#FF0000"om›an so wakay si Salang.
+ ‹AV›eat OBL sweet potato DIR Salang
+ "Salang ate a sweet potato."
+
+
+
+Patient Voice
+ Kan-font color#FF0000"en na ni Salang o wakay.
+ eat-PV 3SG.ERG ERG Salang DIR sweet potato
+ "Salang ate the sweet potato." (''or'' "The sweet potato was eaten by Salang.")
+
+
+
+Locative Voice
+ Ni-akan-font color#FF0000"an na o mogis ori ni Salang.
+ ASP-eat-LV 3SG.ERG DIR rice that ERG Salang
+ "Salang ate from some of that rice." (''or'' "Some of that rice was eaten from by Salang.")
+
+
+
+Instrument Voice
+ font color#FF0000"I-akan na ni Salang o among ya.
+ IV-eat 3SG.ERG ERG Salang DIR fish this
+ "Salang ate (a meal) with this fish." (''or'' "This fish was eaten (a meal) with by Salang.")
+
+
+number= (1)
+
+Actor Voice
+ Sia imagi louk nyu.
+  in-font color#FF0000N-bagi  
+ 3SG.DIR RL-AV-divide fish 2PL.GEN
+ "He divided your fish."
+
+
+number= (2)
+
+Patient Voice
+ Louk nyu biagi nya.
+   b‹in›agi-font color#FF0000∅ 
+ fish 2PL.GEN ‹RL›divide-PV 3SG.ERG
+ "He divided your fish." (''or'' "Your fish was divided by him.")
+
+
+number=(3)
+
+Instrument Voice
+ Badiʔ ku pimagi nya louk nyu.
+   font color#FF0000p‹in›font color#FF0000əN-bagi   
+ machete 1SG.GEN ‹RL›IV-divide 3SG.ERG fish 2PL.GEN
+ "He divided your fish with my machete." (''or'' "My machete was divided your fish with by him.")
+
+
+number= (4) a.
+
+Circumstantial Voice (with benefactee subject)
+ Ou bigiadn nya louk nyu.
+  b‹in›agi-font color#FF0000adn   
+ 1SG.DIR ‹RL›divide-CV 3SG.ERG fish 2PL.GEN
+ "He divided your fish for me." (''or'' "I was divided your fish for by him.")
+
+
+number= font color#FFFFFF(4) b.
+
+Circumstantial Voice (with goal subject)
+ Ou biniriadn nya siidn.
+  b‹in›ori-font color#FF0000adn  
+ 1SG.DIR ‹RL›give-CV 3SG.ERG money
+ "He gave money to me." (''or'' "I was given money to by him.")
+
+
+number= (1)
+
+Actor Voice
+ font color#FF0000Mog-ovit i ama’ di tanak do buuk.
+ AV-bring DIR father IND child ACC book
+ "Father is bringing the child a book."
+
+
+number= (2)
+
+Patient Voice
+ Ovit-font color#FF0000on di ama’ di tanak i buuk.
+ bring-PV IND father IND child DIR book
+ "Father is bringing the child the book." (''or'' "The book is being brought to the child by Father.")
+
+
+number= (3)
+
+Benefactive Voice
+ Ovit-font color#FF0000an di ama’ i tanak do buuk.
+ bring-BV IND father DIR child ACC book
+ "Father is bringing the child a book." (''or'' "The child is being brought a book to by Father.")
+
+
+number= (1)
+
+Actor Voice
+ La’ih sineh nenekul nubaq nedih ngen seduk.
+   in-font color#FF0000N-tekul    
+ man that ASP-AV-spoon.up rice 3SG.GEN with spoon
+ "That man spooned his rice up with a spoon."
+
+
+number= (2)
+
+Patient Voice
+ Sikul la’ih sineh nubaq nedih ngen seduk.
+ t‹in›ekul-font color#FF0000∅      
+ ‹ASP›spoon.up-PV man that rice 3SG.GEN with spoon.
+ "That man spooned his rice up with a spoon." (''or'' "Hisi rice was spooned up with a spoon by that mani.")
+
+
+number= (3)
+
+Instrument Voice
+ Seduk penenekul la’ih sineh nubaq nedih.
+  font color#FF0000p‹in›font color#FF0000eN-tekul    
+ spoon ‹ASP›IV-spoon.up man that rice 3SG.GEN
+ "That man spooned his rice up with a spoon." (''or'' "A spoon was spooned hisi rice up with by that mani.")
+
+
+number= (1)
+
+Actor Voice
+ Mangalapak oku do niyuw.
+ font color#FF0000m-poN-lapak   
+ AV-TR-split 1SG.DIR IND.INDF coconut
+ "I will split a coconut/some coconuts."
+
+
+number= (2)
+
+Patient Voice
+ Lapak-font color#FF0000on ku it niyuw.
+ split-PV 1SG.IND DIR.DEF coconut
+ "I will split the coconuts." (''or'' "The coconuts will be split by me.")
+
+
+number= (3)
+
+Benefactive Voice
+ Lapak-font color#FF0000an ku do niyuw it wogok.
+ split-BV 1SG.IND IND.INDF coconut DIR.DEF pig
+ "I will split some coconuts for the pigs." (''or'' "The pigs will be split some coconuts for by me.")
+
+
+number= (4)
+
+Instrument Voice
+ Tongo ot pangalapak nu dilo’ niyuw ______?
+   font color#FF0000∅-poN-lapak    
+ what DIR.INDF IT-TR-split 2SG.IND that.IND coconut DIR
+ "What will you split those coconuts with?" (''or'' "The thing that will be split those coconuts with by you is what?")
+
+
+number= (5)
+
+Locative Voice
+ Siombo ot ogom-font color#FF0000on ku _____?
+ where DIR.INDF sit-LV 1SG.IND DIR
+ "Where shall I sit?" (''or'' "The thing that will be sat upon by me is where?")
+
+
+number= (1)
+
+Actor Voice
+ Mambali dŭanduʔ=ti da=konoon da=dalaiŋ=no da=sŭab=no da=duit=na-no.
+ font color#FF0000m-paN-bali     
+ AV-¿?-buy woman=DET OBL=clothes OBL=child=DET OBL=morning=DET OBL=money=3SG.GEN-DET
+ "The woman will buy clothes for the child in the morning with her money."
+
+
+number= (2)
+
+Patient Voice
+ Bali-font color#FF0000on konoon du=dŭanduʔ=ti da=dalaiŋ=no da=sŭab=no da=duit=na-no.
+ buy-PV clothes ERG=woman=DET OBL=child=DET OBL=morning=DET OBL=money=3SG.GEN-DET
+ "The woman will buy clothes for the child in the morning with her money." (''or'' "Clothes will be bought for the child in the morning by the woman with her money.")
+
+
+number= (3)
+
+Benefactive Voice
+ Bali-font color#FF0000in dalaiŋ=no da=konoon du=dŭanduʔ=ti da=sŭab=no da=duit=na-no.
+ buy-BV child=DET OBL=clothes ERG=woman=DET OBL=morning=DET OBL=money=3SG.GEN-DET
+ "The woman will buy clothes for the child in the morning with her money." (''or'' "The child will be bought clothes for in the morning by the woman with her money.")
+
+
+number= (4)
+
+Instrument Voice
+ Duit=na-no pambabali du=dŭanduʔ=ti da=konoon da=dalaiŋ=no da=sŭab=no.
+  paN-font color#FF0000CV~bali    
+ money=3SG.GEN-DET ¿?-IV~buy ERG=woman=DET OBL=clothes OBL=child=DET OBL=morning=DET
+ "The woman will buy clothes for the child in the morning with her money." (''or'' "Heri money will be bought clothes with for the child in the morning by the womani.")
+
+
+number= (5)
+
+Circumstantial Voice
+ Sŭab=na pambalian du=dŭanduʔ=ti da=konoon da=dalaiŋ=no da=duit=na-no.
+  paN-bali-font color#FF0000an    
+ morning=DET ¿?-buy-CV ERG=woman=DET OBL=clothes OBL=child=DET OBL=money=3SG.GEN-DET
+ "The woman will buy clothes for the child in the morning with her money." (''or'' "The morning will be bought clothes in for the child by the woman with her money.")
+
+
+number= (1)
+
+Actor Voice
+ Mamono akoho amin'ny antsy ny mpamboly.
+ font color#FF0000m-aN-vono     
+ AV-TR-kill chicken with'DET knife DET farmer
+ "The farmer kills chickens with the knife."
+
+
+number= (2)
+
+Patient Voice
+ Vonoin'ny mpamboly amin'ny antsy ny akoho.
+ vono-font color#FF0000ina'ny     
+ kill-PV'DET farmer with'DET knife DET chicken
+ "The farmer kills the chickens with the knife." (''or'' "The chickens are killed with the knife by the farmer.")
+
+
+number= (3) a.
+
+Circumstantial Voice (with instrument subject)
+ Amonoan'ny mpamboly akoho ny antsy.
+ aN-vono-font color#FF0000ana'ny    
+ TR-kill-CV'DET farmer chicken DET knife
+ "The farmer kills chickens with the knife." (''or'' "The knife is killed chickens with by the farmer.")
+
+
+number= font color#FFFFFF(3) b.
+
+Circumstantial Voice (with benefactee subject)
+ Amonoan'ny mpamboly akoho ny vahiny.
+ aN-vono-font color#FF0000ana'ny    
+ TR-kill-CV'DET farmer chicken DET guest
+ "The farmer kills chickens for the guests." (''or'' "The guests are killed chickens for by the farmer.")
+
+
+
+Actor Voice
+ ô̰ok á̰a-y‹text color#FF0000ḛ̀›p tḭ̀im nè̤ yê̤ep.
+ 1PL D.PL-‹AV›cut tree PREP axe
+ "We are cutting the tree with the axe."
+
+
+
+Patient Voice
+ tḭ̀im à̰-y‹text color#FF0000ḛ́›p-kṳ̀ nè̤ yê̤ep.
+ tree D-‹PV›cut-1PL PREP axe
+ "We are cutting the tree with the axe." (''or'' "The tree is being cut by us with the axe.")
+
+
+
+Circumstantial Voice
+ yê̤ep à̰-y‹text color#FF0000ḛ́e›p ó̰ok tḭ̀im.
+ axe D-‹CV›cut 1PL.GEN tree
+ "We are cutting the tree with the axe." (''or'' "The axe is being cut the tree with by us.")
+
+
+
+Actor Voice
+ dhɔ̤̀ɔk à̰-y‹text color#FF0000ḛ̀›p tḭ̀im nè̤ yê̤ep.
+ boy D-‹AV›cut tree PREP axe
+ "The boy is cutting the tree with the axe."
+
+
+
+Circumstantial Voice (with patient subject)
+ tḭ̀im à̰-y‹text color#FF0000ḛ́e›p dhɔ̤̀ɔk nè̤ yê̤ep.
+ tree D-‹CV›cut boy PREP axe
+ "The boy is cutting the tree with the axe." (''or'' "The tree is being cut by the boy with the axe.")
+
+
+
+Circumstantial Voice (with instrument subject)
+ yê̤ep à̰-y‹text color#FF0000ḛ́e›p dhɔ̤̀ɔk tḭ̀im.
+ axe D-‹CV›cut boy tree
+ "The boy is cutting the tree with the axe." (''or'' "The axe is being cut the tree with by the boy.")
+
+
+
+Actor Voice
+ Àyén à-c‹text color#FF0000à›m cuî̤in nè̤ pǎal.
+ Ayen 3SG-‹AV›eat food PREP knife
+ "Ayen is eating food with a knife."
+
+
+
+Patient Voice
+ Cuî̤in à-c‹text color#FF0000ɛ́ɛ›m Áyèn nè̤ pǎal.
+ food 3SG-‹PV›eat Ayen.ERG PREP knife
+ "Ayen is eating food with a knife." (''or'' "Food is being eaten by Ayen with a knife.")
+
+
+
+Circumstantial Voice
+ Pǎal à-c‹ɛ́ɛ›m-text color#FF0000è̤ Áyèn cuî̤in.
+ knife 3SG-‹PV›eat-CV Ayen.ERG food
+ "Ayen is eating food with a knife." (''or'' "The knife is being eaten food with by Ayen.")
+
+
+
+Actor Voice
+ t̪áarák ꜜbóor-ú-text color#FF0000∅ dɛ̀ɛl kʌ̀ ŋɪ̀ɪr.
+ person skin-PST-AV goat PREP knife
+ "The man skinned a goat with a knife."
+
+
+
+Patient Voice
+ dɛ̀ɛl bóor-út̪-text color#FF0000ɪ̀ ŋʌ̀ t̪áarák kʌ̀ ŋɪ̀ɪr.
+ goat skin-PST-PV NOM person PREP knife
+ "The man skinned the goat with a knife." (''or'' "The goat was skinned by the man with a knife.")
+
+
+
+Circumstantial Voice
+ ŋɪ̀ɪr bóor-út̪-text color#FF0000ꜜɪ́ dɛ́ɛl ŋʌ̀ t̪áarák.
+ knife skin-PST-CV goat NOM person
+ "The man skinned a goat with the knife." (''or'' "The knife was skinned a goat with by the man.")
