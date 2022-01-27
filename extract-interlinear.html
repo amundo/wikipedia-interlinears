@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>extract-interlinear</title>
+  <link rel="stylesheet" href="extract-interlinear.css">
+  <link rel="shortcut icon" href="#">
+  <meta property=og:title content="docling.js: extract-interlinear" />
+  <meta property=og:description content="docling.js component" />
+  <meta property=og:image content=https://docling.net/book/images/docling-headshot.svg />
+  <style>
+    html {
+      height: 100vh;
+    }
+    body {
+      height:100%;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      gap: 1em;;
+    }
+  </style>
+</head>
+<body>
+<header><h1>extract-interlinear</h1></header>
+<main>
+<extract-interlinear></extract-interlinear>
+</main>
+<script type=module>
+import {ExtractInterlinear} from './ExtractInterlinear.js'
+</script>
+</body>
+</html>
