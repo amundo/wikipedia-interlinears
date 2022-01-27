@@ -1,0 +1,228 @@
+{{short description|Reconstructed ancestor of the Torres–Banks languages}}
+{{Infobox proto-language
+| name             = Proto-Torres-Banks
+| altname = PTB
+| familycolor      = Austronesian
+| region           = [[Torres Islands|Torres]] and [[Banks Islands]]
+| ancestor             = [[Proto-Austronesian language|Proto-Austronesian]]
+| ancestor2             = [[Proto-Malayo-Polynesian language|Proto-Malayo-Polynesian]]
+| ancestor3             = [[Proto-Oceanic language|Proto-Oceanic]]
+| target = [[Torres–Banks languages]]
+}}
+
+'''Proto-Torres-Banks''' (abbr. PTB) is the [[Linguistic reconstruction|reconstructed]] ancestor of the [[Torres-Banks languages|seventeen languages]] of the [[Torres Islands|Torres]] and [[Banks Islands]] of [[Vanuatu]]. Like all [[Languages of Vanuatu#List of Vanuatu’s indigenous languages|indigenous languages of Vanuatu]], it belongs to the [[Oceanic languages|Oceanic]] branch of the [[Austronesian language]]s.
+
+==Reconstruction==
+Elements of the [[proto-language]] have been proposed by linguist [[Alexandre François (linguist)|A. François]]: vowels<ref>[[#vowels|François (2005)]].</ref> and consonants,<ref>[[#shadows|François (2013)]].</ref> personal pronouns,<ref>[[#aorist|François (2009]], [[#pronouns|2016)]].</ref> space system,<ref>[[#updown|François (2015)]].</ref> vocabulary.<ref>[[#vowels|François (2005]]: 489-502; [[#shadows|2013)]].</ref>
+
+==Phoneme inventory==
+Proto-Torres-Banks had 5 [[phoneme|phonemic]] vowels, /i e a o u/,<ref>[[#vowels|François (2005)]].</ref> and 15 consonants:
+: {|class="wikitable" style="text-align:center"
+|+Vowels
+!&nbsp;
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+| align=center | *{{IPA|i}}
+| align=center | *{{IPA|u}}
+|-
+![[Close-mid vowel|Close-mid]]
+| align=center | *{{IPA|e}}
+| align=center | *{{IPA|o}}
+|-
+![[Open vowel|Open]]
+| colspan="2" style="text-align:center;"| *{{IPA|a}}
+|}
+
+: {| class="wikitable" style="text-align:center"
+|+Consonants
+! colspan="2" |
+![[Labial–velar consonant|Labiovelar]]
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Dorsal consonant|Dorsal]]
+|-
+! rowspan="2" |[[Stop consonant|Stop]]
+!<small>[[Prenasalized consonant|prenasalized]]</small>
+|*{{IPA link|ᵐ}}{{IPA link|b}}{{IPA link|ʷ}}
+|*{{IPA link|ᵐ}}{{IPA link|b}}
+|*{{IPA link|ⁿ}}{{IPA link|d}}
+|*{{IPA link|ᵑ}}{{IPA link|g}}
+|-
+!<small>[[Voicelessness|voiceless]]</small>
+|
+|
+|*{{IPA link|t}}
+|
+|-
+! colspan="2" |[[Nasalization|Nasal]]
+|*{{IPA link|m}}{{IPA link|ʷ}}
+|*{{IPA link|m}}
+|*{{IPA link|n}}
+|*{{IPA link|ŋ}}
+|-
+! colspan="2" |[[Fricative consonant|Fricative]]
+|
+|*{{IPA link|β}} {{angbr|v}}
+|*{{IPA link|s}}
+|*{{IPA link|ɣ}}
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|*{{IPA link|w}}
+|
+|*{{IPA link|l}}, *{{IPA link|r}}
+|
+|}
+
+==Examples of reconstructions==
+
+{| class="wikitable"
+|+
+!<small>PTB<br/>reconstruction</small>
+! meaning
+!reflexes
+![[Proto-Oceanic language|Proto-Oceanic]] etymon
+!source
+|-
+|*[n]iᵑgo
+|‘2sg pronoun, you’
+|<small>[[Hiw language|Hiw]] ''ikə'', [[Löyöp language|Löyöp]] ''niŋ''</small>
+| *[i]ko[e]
+|[[#pronouns|François 2016]]: 39
+|-
+|*lolo‑marani
+|<small>‘wise, intelligent; wisdom, knowledge’</small>
+|<small>[[Lehali language|Lehali]] ''lɛlməjæn''</small>
+|*lalom "inside" + *ma-Raqani "daylight"
+|[[#shadows|François 2013]]: 208
+|-
+|*rowo
+|‘dash, escape; out; seawards’
+|<small>[[Mwotlap language|Mwotlap]] ''jɔw''</small>
+| *Ropok ‘dash, fly’
+|[[#updown|François 2015]]: 191
+|-
+|*salaɣoro
+|<small>‘secret; secret meeting place in the bush<br/>for men during initiation rituals’</small>
+|<small>[[Lo-Toga language|Lo-Toga]] ''hɔləɣor''</small>
+|*jalan "road" + PNCV *koro "obstruct"
+|[[#vowels|François 2005]]: 499
+|-
+|*suwo
+|‘down; northwest’
+|<small>[[Mwesen language|Mwesen]] ''sʊw''</small>
+|*sipo "down"
+|[[#updown|François 2015]]: 190
+|-
+|*totoɣale
+|<small>‘notch (wood), carve an effigy; effigy, image’</small>
+|<small>[[Mota language|Mota]] ''totoɣale'', [[Vera'a language|Vera'a]] ''ʔʊɣal''</small>
+|*toto(k) "cut" + PNCV *kale "deceive"
+|[[#shadows|François 2013]]: 198
+|}
+
+==Example sentence==
+Taken from [[#aorist|François (2009]]:191):
+
+{{interlinear|indent=3|lang=und|abbreviations=AO:aorist
+|*Nau gu{{=}} mule gu{{=}} maturu.
+|1SG AO:1SG{{=}} return AO:1SG{{=}} sleep
+|'So I went back and slept.'/'Let me go back and sleep!'
+}}
+
+== Notes ==
+<references />
+
+==References==
+*{{citation
+  | last=François
+  | first=Alexandre
+  | year=2005
+  | title=Unraveling the history of the vowels of seventeen northern Vanuatu languages
+  | journal=Oceanic Linguistics
+  | volume=44
+  | issue=2
+  | pages=443–504
+  | s2cid=131668754
+  | doi=10.1353/ol.2005.0034
+  | url=http://alex.francois.online.fr/data/AlexFrancois_VowelsNorthernVanuatu_OL44-2.pdf
+  | ref = vowels
+}}
+*{{Citation
+  | last = François
+  | first = Alexandre
+  | author-link = 
+  | contribution = Verbal aspect and personal pronouns: The history of aorist markers in north Vanuatu
+  | editor1-last = Pawley
+  | editor1-first = Andrew
+  | editor2-last = Adelaar
+  | editor2-first = Alexander
+  | title = Austronesian historical linguistics and culture history: A festschrift for Bob Blust
+  | volume = 601
+  | pages = 179–195
+  | publisher = Pacific Linguistics
+  | place = Canberra
+  | year = 2009
+  | series = 
+  | isbn =
+  | contribution-url= http://alex.francois.online.fr/data/AlexFrancois_2009_Aorist-pronouns_Festschrift-Blust.pdf
+  | ref=aorist
+ }}
+*{{Citation
+  | last = François
+  | first = Alexandre
+  | author-link = 
+  | contribution = Shadows of bygone lives: The histories of spiritual words in northern Vanuatu
+  | editor1-last = Mailhammer
+  | editor1-first = Robert
+  | title = Lexical and structural etymology: Beyond word histories
+  | volume = 11
+  | pages = 185-244
+  | publisher = DeGruyter Mouton
+  | place = Berlin
+  | year = 2013
+  | series = Studies in Language Change
+  | doi =10.1515/9781614510581.185
+  | contribution-url= http://alex.francois.online.fr/data/AlexFrancois_2013_Shadows-of-bygone-lives-The-histories-of-spiritual-words-in-northern-Vanuatu.pdf
+  | ref=shadows
+ }} 
+* {{Cite book
+ | publisher = Asia-Pacific Linguistics
+ | isbn = 978-1-922185-23-5
+ | pages = 137–195
+ |editor1= Alexandre François |editor2=Sébastien Lacrampe |editor3=Michael Franjieh |editor4=Stefan Schnell
+ | last = François
+ | first = Alexandre
+ | title = The languages of Vanuatu: Unity and diversity
+ | chapter = The ins and outs of ''up'' and ''down'': Disentangling the nine geocentric space systems of Torres and Banks languages
+ | location = Canberra
+ | series = Studies in the Languages of Island Melanesia
+ | url = http://hdl.handle.net/1885/14819
+ | contribution-url= http://alex.francois.online.fr/data/AlexFrancois_2015_North-Vanuatu-space-directionals.pdf
+ | date = 2015
+ | hdl = 1885/14819
+ | ref = updown }}
+*{{citation
+  | last=François
+  | first=Alexandre
+  | year=2016
+  | contribution = The historical morphology of personal pronouns in northern Vanuatu
+  | editor1-last = Pozdniakov
+  | editor1-first = Konstantin
+  | title = Comparatisme et reconstruction : tendances actuelles
+  | volume = 47
+  | pages = 25–60
+  | publisher = Peter Lang
+  | place = Bern
+  | series = Faits de Langues
+  | contribution-url= http://alex.francois.online.fr/data/AlexFrancois_2016_History-personal-pronouns_north-Vanuatu.pdf
+  | ref=pronouns
+  | doi = 10.1163/19589514-047-01-900000003
+}}
+
+{{DEFAULTSORT:Proto-Torres-Banks language}}
+[[Category:Languages of Vanuatu]]
+[[Category:Banks–Torres languages]]
+[[Category:Proto-languages|Torres-Banks]]
+[[Category:Torba Province]]

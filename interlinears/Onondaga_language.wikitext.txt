@@ -1,0 +1,1872 @@
+{{Short description|Iroquoian language spoken in North America}}
+{{Infobox language
+|name=Onondaga
+|nativename= {{lang|ono|Onǫdaʼgegáʼ}} / {{lang|ono|Onoñdaʼgegáʼ}}
+|states=[[Canada]], [[United States]]
+|region=[[Six Nations 40, Ontario|Six Nations Reserve]], [[Ontario]], and central [[New York (state)|New York]] state
+|ethnicity=1,600 [[Onondaga people]] (2007)<ref name=e18/>
+|speakers=ca. 50 (in 2007), increasing numbers since 2010<ref name="Moses">{{Cite web|title = Onondaga Nation's urgent mission: Saving our language|url = http://www.syracuse.com/empire/index.ssf/2015/09/onondaga_nation_leaders_members_work_to_revitalize_their_language.html|access-date = 2015-10-03|date = September 13, 2015|website = Syracuse.com|last = Moses|first = Sarah}}</ref>   
+|ref=e18
+|familycolor=American
+|fam1=[[Iroquoian languages|Iroquoian]]
+|fam2=[[Northern Iroquoian languages|Northern]]
+|fam3=Lake Iroquoian
+|fam4=Five Nations
+|iso3=ono
+|glotto=onon1246
+|glottorefname=Onondaga
+|notice=IPA
+}}
+
+'''Onondaga language''' ({{lang|ono|Onoñdaʼgegáʼ nigaweñoʼdeñʼ}}, {{IPA-iro|onũdaʔɡeɡáʔ niɡawẽnoʔdẽʔ|IPA}}, literally "Onondaga is our language") is the language of the [[Onondaga people|Onondaga]] [[First Nation]], one of the original five constituent tribes of the League of the [[Iroquois]] (Haudenosaunee).
+
+This language is spoken in the [[United States]] and [[Canada]], primarily on the reservation in central [[New York State]] and near [[Brantford, Ontario|Brantford]], [[Ontario]].
+
+== Usage and revitalization ==
+According to the UNESCO Atlas of the World's Languages in Danger, there are about 10 mother tongue Onondaga speakers in New York, and 40 native speakers on the Six Nations Reserve in Ontario, Canada.<ref>{{Cite web|title=UNESCO Atlas of the World's Languages in danger|url=http://www.unesco.org/languages-atlas/index.php|access-date=2020-12-08|website=www.unesco.org}}</ref> The language has come to be endangered due to the pressure to assimilate to English as the language of power. Standardization also occurred in residential schools across Canada in the 1800s to 1900s. Young boys and girls at the Mohawk Institute Indian Residential School in Brantford, Ontario were punished for using their heritage language.<ref name=":2">{{Cite web|title=Six Nations of the Grand River {{!}} The Canadian Encyclopedia|url=https://www.thecanadianencyclopedia.ca/en/article/six-nations-of-the-grand-river|access-date=2020-12-08|website=www.thecanadianencyclopedia.ca}}</ref>
+
+The Onondaga Nation Language Center (called ''Neʼ Eñhadiweñnayeñdeʼnhaʼ'', or "they will get to know the language") has been engaged in language revitalization efforts since 2010. Children learn the Onondaga language at Onondaga Nation School, and classes are also available for adults. In September 2015, it was announced that fifteen adults would enter a full-time language immersion class in Onondaga, after which they would become teachers of the language.<ref name="Moses">{{Cite web|title = Onondaga Nation's urgent mission: Saving our language|url = http://www.syracuse.com/empire/index.ssf/2015/09/onondaga_nation_leaders_members_work_to_revitalize_their_language.html|access-date = 2015-10-03|date = September 13, 2015|website = Syracuse.com|last = Moses|first = Sarah}}</ref> In Canada, ''Gawęnahwishe' Onǫda'gega''' is a revitalization project that launched in 2017 with six new language learners. It is an adult immersion program that implements the Six Nations Language Commission's (SNLC) framework.<ref name=":3">{{Cite web|title=Gawęnahwishe' Onǫda'gega'|url=https://onodagega.com/|access-date=2020-12-08|website=Gawęnahwishe' Onǫda'gega'|language=en-US}}</ref> They are involved with translating the local radio station, putting on programs with local elementary and secondary schools, and outreach events for the community.<ref name=":3" />
+
+==Phonology==
+This table shows the (consonant) [[phonemes]] that are found in Onondaga.
+{| class="wikitable" style="text-align: center;"
+|+Consonant phonemes
+!
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]<br>/ [[palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[glottal consonant|Glottal]]
+|-
+! [[Stop consonant|Plosive]]
+| {{IPA|t}}
+| 
+| {{IPA|k}}
+| {{IPA|ʔ}}
+|-
+! [[Affricate consonant|Affricate]]
+| 
+| {{IPA|dʒ}}
+| ||
+|-
+! [[Fricative consonant|Fricative]]
+| {{IPA|s}}
+| 
+|
+| {{IPA|h}}
+|-
+! [[Sonorant]]
+| {{IPA|n}}
+| {{IPA|j}}
+| {{IPA|w}}
+| 
+|}
+
+The two [[Plosive consonant|plosive]]s, {{IPA|/t/}}, {{IPA|/k/}} are [[allophone|allophonically]] voiced to {{IPA|[d]}} and {{IPA|[ɡ]}} before vowels and [[resonants]] (the bottom row of the chart labelled 'sonorant') and are spelled {{angle bracket|d}} and {{angle bracket|g}} in this case. There is considerable palatalization and affrication in the language.
+
+Onondaga has five [[oral vowel]]s, {{IPA|/i e o æ a/}} ({{IPA|/æ/}} is sometimes represented orthographically as {{angle bracket|ä}}), and two [[nasal vowel]]s, {{IPA|/ẽ/}} and {{IPA|/ũ/}}. The nasal vowels, following the Iroquoianist tradition, are spelled with [[ogonek]]s in the scholarly literature and in Ontario ({{angle bracket|ę}} and {{angle bracket|ǫ}} or {{angle bracket|ų}}). In New York, they are represented with a following {{angle bracket|ñ}} ({{angle bracket|eñ}} and {{angle bracket|oñ}}). Vowels can be both short and long. When vowel length derives from the now lost consonant *r, it is phonemic. Vowel length is written with a following [[colon (letter)|colon]], {{angle bracket|꞉}} or raised dot (half colon) {{angle bracket|ꞏ}}.
+
+==Morphology==
+Onondaga is a [[polysynthetic]] language, exhibiting a great deal of inflectional and derivational morphology on the verbal forms (including [[noun incorporation]]). Nominal forms have less morphology. Additionally, there are particles, which are monomorphemic.
+
+===Verbal morphology===
+Onondaga verbs can be divided into three main classes according to their aspectual properties (discussed below). These are the active verbs, motion verbs, and stative verbs. We must distinguish between tense and aspect. [[Grammatical tense|Tense]] refers to when the event takes place, either in the past, the present or the future. [[Grammatical aspect|Aspect]] refers to the event itself, such as whether it is finished or ongoing or occurs repeatedly.
+
+There are four aspects in Onondaga. The first is the habitual aspect (HAB). This aspect is used to refer to an event that takes place repeatedly or on an ongoing basis. The second is the punctual aspect (PUNC) (also known as perfective aspect). This aspect refers to an entire event in its completeness. When used in the past tense, the event is described as "over and done-with." It cannot describe an event that is interrupted or incomplete. The third aspect is the stative (STAT) (also known as imperfective) refers to an event that is ongoing or incomplete or, if it occurs in the past tense, that has some bearing on the present. Finally, there is the purposive aspect (PURP), which refers to imminent action and usually implies intent or volition on the part of the subject. Active verbs can appear with any of the first three aspects. Motion verbs can appear with any of all four aspects. Stative verbs can only appear with the stative aspect.
+
+====Verbal template====
+
+A typical Onondaga verb consists of several morphemes (components). The following chart outlines the order of the morphemes. Obligatory morphemes appear in boldface, and optional morphemes are in standard font. Note that some of the "optional" morphemes are obligatory with certain verb roots. The obligatory morphemes, however, must appear on each and every single verb.
+
+{| class="wikitable"
+|-
+| pre-pronominal prefixes
+| '''pronominal prefixes'''
+| reflexive or semireflexive
+| incorporated noun
+| '''verb root'''
+| derivational suffixes
+| '''aspect suffix'''
+| expanded aspect suffix
+|}
+
+Each of the following sections outlines the shapes that these morphemes can take.
+
+====Pre-pronominal prefixes====
+=====Modal pre-pronominal prefixes=====
+The prepronominal prefixes express a variety of concepts and ideas. The first concept is [[Linguistic modality|modality]], which expresses the degree of urgency, certainty or likelihood of the event. There are three modal prefixes in Onondaga. The modal prefixes only appear with the punctual aspect. They also appear if there is a modalizer suffix.
+
+The first of these is commonly called the future modal prefix. This prefix expresses events that have not yet taken place at the time the speaker is talking.
+{{interlinear|indent=3
+|top= ęhayę́꞉twaʔ
+|ę-		ha-			yętw-	aʔ
+|FUT-	3.SG.M.AG-	plant-	PUNC
+|'He will plant it.'}}
+
+The second is the factual modal prefix. This prefix indicates that the speaker knows the event happened for a fact. It typically has a past tense reading (since we are normally only sure about events that happened in the past).
+{{interlinear|indent=3
+|top= waʔhayę́꞉twaʔ
+|waʔ-	ha-			yę꞉tw-	aʔ
+|FACT-	3.SG.M.AG-	plant-	PUNC
+|'He planted it.'}}
+
+The third is [[optative]] modal prefix. This prefix expresses the idea that the event should or ought to take place. It is also used to express untrue events or events that might have taken place but have not. Here are some examples.
+{{interlinear|indent=3
+|top= ahayę́꞉twaʔ
+|a-		ha-			yę꞉tw-	aʔ
+|OPT-	3.SG.M.AG-	plant-	PUNC
+|'He might plant it.'}}
+
+The following chart lists forms of the three modal prepronominal prefixes and indicates when to use which form.
+
+{| class="wikitable"
+|-
+! Mood
+! Pre-pronominal Prefix
+! When used
+! Example
+|-
+| rowspan=3| [[Evidentiality|factual]]
+| waʔ
+| default
+| {{interlinear|top=waʔhayę́꞉twaʔ|waʔ-ha-yę꞉tw-aʔ|FACT-he-plant-PUNC|'He planted it.'}}
+|-
+| weʔ
+| any 2nd person or 1st person inclusive (except 2.SG.AG)
+| {{interlinear|top=weʔdniyę́꞉twaʔ|weʔ-dni-yę꞉tw-aʔ|FACT-1.DU.INCL.AG-plant-PUNC|'You and I planted it.'}}
+|-
+| ǫ
+| optionally replaces sequence waʔwa
+| {{interlinear|top=ǫgyę́꞉twaʔ|waʔ-wak-yę꞉tw-aʔ|FACT-1.SG.PAT-plant-PUNC|'It planted me.' (ex, a monster)}}
+|-
+| [[Future tense|future]]
+| ę
+| does not change
+| {{interlinear|top=ęhayę́꞉twaʔ|ę-ha-yę꞉tw-aʔ|FUT-he-plant-PUNC|'He will plant it.'}}
+|-
+| rowspan=3| [[Optative mood|optative]]
+| a / a꞉
+| default (/a-/ and /a꞉-/ are in free variation)
+| {{interlinear|top=ahayę́꞉twaʔ|a-ha-yę꞉tw-aʔ|OPT-he-plant-PUNC|'He might plant it.'}}
+|-
+| ae
+| any 2nd person or 1st person inclusive (except 2.SG.AG)
+| {{interlinear|top=aedniyę́꞉twaʔ|ae-dni-yę꞉tw-aʔ|OPT-1.DU.INCL.AG-plant-PUNC|'You and I might plant it.'}}
+|-
+| aǫ
+| optionally replaces sequence /awa/
+| {{interlinear|top=aǫgyę́꞉twaʔ|a-wak-yę꞉tw-aʔ|OPT-1.SG.PAT-plant-PUNC|'It might plant me.' (ex, a monster)}}
+|}
+
+=====Non-modal pre-pronominal prefixes=====
+In addition to the modal prefixes, there is also a set of prefixes that express a variety of concepts, some of which do not have a clearly distinct meaning, rather their meaning varies depending on context. The list of these includes repetitive, cislocative, dualic, translocative, partitive, coincident, contrastive, and negative.
+
+======Repetitive======
+The repetitive morpheme adds the meaning of doing something again or repeating some-thing. The basic form of the repetitive morpheme is /s-/. Here are some examples. Example (37) has the prepronominal prefix /sa-/, which is a combination of both repetitive and factual mood. Example (38) has the prepronominal prefix /ęs-/, which is a combination of repetitive and future. These contrast with example (39), which does not have the repetitive morpheme.
+
+{{interlinear|number=a.
+|top=sahayę́꞉twaʔ
+|sa– ha– yętw– aʔ
+|REP.FACT- 3.SG.M- plant- PUNC
+|'He planted it again.'}}
+
+{{interlinear|number=b.
+|top=ęshayę́꞉twaʔ
+|ęs– ha– yętw– aʔ
+|REP.FUT-  3.SG.M- plant- PUNC
+|'He will plant it again.'}}
+
+{{interlinear|number=c.
+|top=waʔhayę́꞉twaʔ
+|waʔ–  ha– yętw– aʔ
+|FACT- 3.SG.M- plant- PUNC
+|'He planted it.'}}
+
+======Cislocative======
+The cislocative (CLOC) morpheme is used to indicate movement toward the speaker. It can also mean that a particular event is pinpointed back in time. In some cases, the meaning of the cislocative is unpredictable. Some of these are listed below. There are two forms of the cislocative.
+
+/t-/	default<br>
+/di-/	used with any 2nd person or 1st person inclusive, except 2.SG.AG
+
+======Translocative======
+The translocative (TLOC) morpheme is used to indicate movement away from the speaker. The form of the translocative is /he-/
+
+======Dualic======
+
+The dualic (DUC) does not have a specific meaning. The form of the dualic is /de-/, but changes when it appears in combination with other prepronominal prefixes. Whenever it appears with a verb stem, it changes the meaning in unpredictable ways. Usually, however, there is some notion of there being two of something or of some reciprocal activity such as trading. Also, some verb roots must appear with the dualic prepronominal prefix. In examples (41) and (42), the dualic prefix is obligatory. In example (43), the dualic prefix adds the meaning of becoming two pieces.
+
+{{interlinear|number=a.
+|top= deyǫshę́thwas
+|de- yǫ- ashęthw-as
+|DUC- 3.SG.F- cry-HAB
+|'She is crying'}}
+
+{{interlinear|number=b.
+|top= dehahahíyaʔks
+|de- ha- ahah- iyaʔk- s
+|DUC- 3.SG.M- road- cross- HAB
+|'He crosses a road.'}}
+
+{{interlinear|number=c.
+|top= dehá꞉yaʔks
+|de- ha- yaʔk- s
+|DUC- 3.SG.M- break- HAB
+|'He breaks it into two.'}}
+
+{{interlinear|number=d.
+|top= há꞉yaʔks
+|ha- yaʔk- s
+|3.SG.M- break- HAB
+|'He breaks it off.'}}
+
+====Pronominal prefixes====
+There are three series of pronominal prefixes in Onondaga. There is a transitive series, used with transitive verbs. Intransitive verbs use either the agent series or the patient series. The choice between the latter two is often complex, as we will see. The phonological shape of the pronominal prefix depends on the identity of the following sound. This gives rise to several series of pronominal prefixes, which are labelled according to the following segment. These include the c-series (for pronominal prefixes which precede a consonant), the a-series (for pronominal prefixes which precede /a/), the e-series, ę-series, o-series, ǫ-series, and i-series. Finally, the pronominal prefixes inflect for person, number and gender. We discuss each of these in turn.
+
+Onondaga distinguishes three [[Grammatical person|persons]]: first (I or we), second (you) and third (he, she, it or they). The first person can be either [[clusivity|exclusive]] (EXCL), which excludes the listener, or inclusive (INCL), which includes the listener.
+
+Here, when John says we, it does not include the person he's talking to. In other words, Mary doesn't get to go to the movies. This use of we is called the first person exclusive. English does not make a distinction between inclusive and exclusive we but Onondaga does. Consider the following two words. The pronominal prefix /dn-/ indicates a first person dual inclusive subject, and the pronominal prefix /agn-/ indicates a first person dual exclusive subject.
+
+{{interlinear|number=a.
+|top= weʔdnek
+|weʔ–	dn–		ek–	Ø						
+|FACT-	1.DU.INCL-	eat-	PUNC						
+|'We two (you and I) ate it.'}}
+
+{{interlinear|number=b.
+|top= waʔagnek
+|waʔ–	agn–		ek–	Ø	
+|FACT-	1.DU.EXCL-	eat-	PUNC		
+|'We two (someone else and I) ate it.'}}
+
+Three numbers are also distinguished in Onondaga: singular (for one entity, SG), dual (for two entities, DU), and plural (for three or more entities, PL). In the glosses, singular is marked with SG, [[Dual (grammatical number)|dual]] is marked with DU, and plural is marked with PL.
+
+{{interlinear|number=a.
+|top= waʔsek
+|waʔ– s– ek– Ø 
+|FACT- 2.SG- eat- PUNC
+|'You (sing.) ate it.'}}
+
+{{interlinear|number=b.
+|top= weʔsnek
+|weʔ– sn– ek– Ø
+|FACT- 2.DU- eat- PUNC 
+|'You two ate it.'}}
+
+{{interlinear|number=c.
+|top= weʔswek
+|weʔ– sw– ek– Ø 
+|FACT- 2.PL- eat- PUNC 
+|'You all ate it.'}}
+
+Additionally, Onondaga distinguishes three genders, which are realized in the third person only. The first is masculine (M), which is used to refer to male humans and certain animals, either alone or in a group. The second is feminine (F). This is used to refer to female humans, certain animals, or some unknown person. It is sometimes called the feminine-indefinite. For groups of people that contain both men and women, the masculine is used. The third is neuter (N), which is used to refer to most animals and inanimate objects. In older texts, the neuter is used to refer to human females in certain circumstances, although this usage is no longer common. See Abrams (2006: 17) for more discussion. (Abbott, 1984 also discusses two feminine genders in Oneida.) Here are some examples.
+
+{{interlinear|number=a.
+|top= waʔek
+|waʔ- e- k- Ø
+|FACT- 3.SG.F- eat- PUNC
+|'She ate it.' OR 'Someone ate it.'}}
+
+{{interlinear|number=b.
+|top= waʔwek
+|waʔ- we- k- Ø 
+|FACT- 3.SG.N- eat- PUNC
+|'Something/it ate it.'}}
+
+{{interlinear|number=c.
+|top= waʔhek
+|waʔ- he- k- Ø
+|FACT- 3.SG.M- eat- PUNC
+|'He ate it.'}}
+
+Finally, we observe that there are two series of prefixes for intransitive verbs, the agent series (AG) and the patient series (PAT). As a general rule, verbs which involve active, purposeful movement or activity on the part of the subject are conjugated with the agent series. Verbs which involve involuntary action or states are conjugated with the patient series. There are so many exceptions to this generalization, however, that one has to simply learn for each intransitive verb whether it takes the agent or the patient series. There is an additional rule for the intransitive verbs that take the agent series. When these verbs appear with stative aspect, they use the patient series rather than the agent series. This rule does not have any exceptions.
+
+There are six classes of conjugations which depend on the initial sound of the following morpheme (i.e., the first sound of the verb root or of the incorporated noun if there is one).
+
+=====C-Stem=====
+The following chart lists the pronominal prefixes for stems that begin with a consonant. Note that (y) or (w) in brackets disappears when preceded by a pre-pronominal prefix.
+
+{| class="wikitable"
+|+ Intransitive, Agent-series
+|-
+! colspan="2" |
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | k-
+| (y)agni-
+| (y)agwa-
+|-
+! inclusive
+| dni-
+| dwa-
+|-
+! colspan="2" | 2nd person
+| s-
+| sni-
+| swa-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| ha-
+| hni-
+| hadi-
+|-
+! feminine/<br>indefinite
+| (y)e-
+| gni-
+| gǫdi-
+|}
+
+{| class="wikitable"
+|+ Intransitive, Patient-series
+|-
+! colspan="2" |
+! singular
+! dual
+! plural
+|-
+! colspan="2" | 1st person
+| (w)ak-
+| (y)ǫgni-
+| (y)ǫgwa-
+|-
+! colspan="2" | 2nd person
+| sa-
+| sni-
+| swa-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| ho-
+| colspan="2" | hodi-
+|-
+! feminine/<br>indefinite
+| ((y)a)go-
+| colspan="2" | (y)odi-
+|}
+
+{| class="wikitable"
+|+ Transitive Series
+|-
+! Patient (to right)<br>Agent (below)
+! 1.SG
+! 1.DU
+! 1.PL
+! 2.SG
+! 2.DU
+! 2.PL
+! 3.NEUT
+! 3.SG.MASC
+! 3.FEM/INDEF.SG
+! 3.FEM.DU/PL
+! 3.MASC.DU/PL
+|-
+! 1.SG
+| 
+| 
+|
+| gǫ-
+| gni-
+| gwa-
+|
+| he-
+|colspan="3"| khe-
+|-
+! 1.DU.EXCL
+| 
+|
+|
+| gni-
+| gni-
+| gwa-
+|
+| shagni-
+|colspan="3" rowspan="2"| (y)akhni-
+|-
+! 1.PL.EXCL
+| 
+| 
+|
+| gwa-
+| gwa-
+| gwa- 
+|
+| shagwa-
+|-
+! 1.DU.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedni-
+| colspan="3" rowspan="2"| (y)ethi-
+|-
+! 1.PL.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedwa-
+|-
+! 2.SG
+| sk-
+| sgni-
+| sgwa-
+|
+|
+|
+|
+| hes-
+|colspan="3"| she-
+|-
+! 2.DU
+| sgni-
+| sgni-
+| sgwa-
+|
+|
+|
+|
+| shesni-
+|colspan="3" rowspan="2"| (y)etchi-
+|-
+! 2.PL
+| sgwa-
+| sgwa-
+| sgwa-
+|
+|
+|
+|
+| sheswa-
+|-
+! 3.SG.MASC
+| hak-
+| shǫgni-
+| shǫgwa-
+| hya-
+| shesni-
+| sheswa-
+|
+| hǫwa-
+|colspan="3"| shago-
+|-
+! 3.SG.FEM/INDEF
+|rowspan="2"| (y)ǫk-
+|colspan="2" rowspan="3"| (y)ǫkhi-
+| (y)esa-
+|colspan="2" rowspan="3"| (y)etchi-
+|rowspan="3"| gǫwa-
+|rowspan="3"| hǫwa-
+| (y)ǫdat-
+| gǫwadi-
+| hǫwadi-
+|-
+! 3.DU/PL.FEM
+|
+|colspan="3"| ((y)a)godi-
+|-
+! 3.DU.PL.MASC
+| hǫk-
+|
+|colspan="3"| shagodi-
+|-
+|}
+
+=====A-Stem=====
+The following chart lists the pronominal prefixes for stems that begin with a consonant. Note that (y) or (w) in brackets disappears when preceded by a pre-pronominal prefix.
+
+{| class="wikitable"
+|+ Intransitive, Agent-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+|rowspan="2"| g-
+| (y)agy-
+| (y)agw-
+|-
+! inclusive
+| dy-
+| dw-
+|-
+! colspan="2" | 2nd person
+| (h)s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| hǫhR-
+| hy-
+| hǫw-
+|-
+! feminine/<br />indefinite
+| yǫw-
+| gy-
+| gǫw-
+|}
+
+{| class="wikitable"
+|+ Intransitive, Patient-series 
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! colspan="2" | 1st person
+| (w)ag-
+| (y)ǫgy-
+| (y)ǫgw-
+|-
+! colspan="2" | 2nd person
+| s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| how-
+| colspan="2" | hon-
+|-
+! feminine/<br />indefinite
+| ((y)a)gow-
+| colspan="2" | (y)on-
+|}
+
+{| class="wikitable"
+|+ Transitive Series
+|-
+! Patient (to right)<br>Agent (below)
+! 1.SG
+! 1.DU
+! 1.PL
+! 2.SG
+! 2.DU
+! 2.PL
+! 3.NEUT
+! 3.SG.MASC
+! 3.FEM/INDEF.SG
+! 3.FEM.DU/PL
+! 3.MASC.DU/PL
+|-
+! 1.SG
+| 
+| 
+|
+| gǫy-
+| gy-
+| gw-
+|
+| hey-
+|colspan="3"| khey-
+|-
+! 1.DU.EXCL
+| 
+|
+|
+| gy-
+| gy-
+| gw-
+|
+| shagy-
+|colspan="3" rowspan="2"| (y)akhiy-
+|-
+! 1.PL.EXCL
+| 
+| 
+|
+| gw-
+| gw-
+| gw- 
+|
+| shagw-
+|-
+! 1.DU.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedy-
+| colspan="3" rowspan="2"| (y)ethy-
+|-
+! 1.PL.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedwa-
+|-
+! 2.SG
+| sg-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| hes-
+|colspan="3"| shey-
+|-
+! 2.DU
+| sgy-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| shejy-
+|colspan="3" rowspan="2"| (y)etchiy-
+|-
+! 2.PL
+| sgw-
+| sgw-
+| sgw-
+|
+|
+|
+|
+| shesw-
+|-
+! 3.SG.MASC
+| hag-
+| shǫgy-
+| shǫgw-
+| hy-
+| (s)hejy-
+| (s)hesw-
+|
+| hǫw-
+|colspan="3"| shagow-
+|-
+! 3.SG.FEM/INDEF
+|rowspan="2"| (y)ǫg-
+|colspan="2" rowspan="3"| (y)ǫkhiy-
+| (y)es-
+|colspan="2" rowspan="3"| (y)etchiy-
+|rowspan="3"| gǫw-
+|rowspan="3"| hǫw-
+| (y)ǫdad-
+| gǫwan-
+| hǫwadiy-
+|-
+! 3.DU/PL.FEM
+|
+|colspan="3"| ((y)a)godiy-
+|-
+! 3.DU.PL.MASC
+| hǫg-
+|
+|colspan="3"| shagodi-
+|-
+|}
+
+=====E-Stem=====
+The following chart lists the pronominal prefixes for stems that begin with a consonant. Note that (y) or (w) in brackets disappears when preceded by a pre-pronominal prefix.
+
+{| class="wikitable"
+|+ Intransitive, Agent-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | g-
+| (y)agn-
+| (y)agw-
+|-
+! inclusive
+| dn-
+| dw-
+|-
+! colspan="2" | 2nd person
+| (h)s-
+| sn-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| h-
+| hn-
+| hęn-
+|-
+! feminine/<br />indefinite
+| yagǫ(y)-
+| gn-
+| gǫn-
+|}
+
+{| class="wikitable"
+|+ Intransitive, Patient-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! colspan="2" | 1st person
+| (w)ag-
+| (y)ǫgn-
+| (y)ǫgw-
+|-
+! colspan="2" | 2nd person
+| s-
+| sn-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| haw-
+| colspan="2" | hon-
+|-
+! feminine/<br />indefinite
+| ((y)a)gaw-
+| colspan="2" | (y)on-
+|}
+
+{| class="wikitable"
+|+ Transitive Series
+|-
+! Patient (to right)<br>Agent (below)
+! 1.SG
+! 1.DU
+! 1.PL
+! 2.SG
+! 2.DU
+! 2.PL
+! 3.NEUT
+! 3.SG.MASC
+! 3.FEM/INDEF.SG
+! 3.FEM.DU/PL
+! 3.MASC.DU/PL
+|-
+! 1.SG
+| 
+| 
+|
+| gǫy-
+| gn-
+| gw-
+|
+| hey-
+|colspan="3"| khey-
+|-
+! 1.DU.EXCL
+| 
+|
+|
+| gn-
+| gn-
+| gw-
+|
+| shagn-
+|colspan="3" rowspan="2"| (y)akhiy-
+|-
+! 1.PL.EXCL
+| 
+| 
+|
+| gw-
+| gw-
+| gw- 
+|
+| shagw-
+|-
+! 1.DU.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedn-
+| colspan="3" rowspan="2"| (y)ethy-
+|-
+! 1.PL.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedwa-
+|-
+! 2.SG
+| sg-
+| sgn-
+| sgw-
+|
+|
+|
+|
+| hes-
+|colspan="3"| shey-
+|-
+! 2.DU
+| sgn-
+| sgn-
+| sgw-
+|
+|
+|
+|
+| shejy-
+|colspan="3" rowspan="2"| (y)etchiy-
+|-
+! 2.PL
+| sgw-
+| sgw-
+| sgw-
+|
+|
+|
+|
+| shesw-
+|-
+! 3.SG.MASC
+| hag-
+| shǫgn-
+| shǫgw-
+| hy-
+| (s)hesn-
+| (s)hesw-
+|
+| hǫw-
+|colspan="3"| shagaw-
+|-
+! 3.SG.FEM/INDEF
+|rowspan="2"| (y)ǫg-
+|colspan="2" rowspan="3"| (y)ǫkhiy-
+| (y)es-
+|colspan="2" rowspan="3"| (y)etchiy-
+|rowspan="3"| gǫw-
+|rowspan="3"| hǫw-
+| (y)ǫdad-
+| gǫwan-
+| hǫwadiy-
+|-
+! 3.DU/PL.FEM
+|
+|colspan="3"| ((y)a)godiy-
+|-
+! 3.DU/PL.MASC
+| hǫg-
+|
+|colspan="3"| shagodi-
+|-
+|}
+
+=====Ę-Stem=====
+The following chart lists the pronominal prefixes for stems that begin with /ę/. Note that (y) or (w) in brackets disappears when preceded by a pre-pronominal prefix.
+
+{| class="wikitable"
+|+ Intransitive, Agent-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | g-
+| (y)agy-
+| (y)agw-
+|-
+! inclusive
+| dy-
+| dw-
+|-
+! colspan="2" | 2nd person
+| (h)s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| hǫhR-
+| hy-
+| hǫw-
+|-
+! feminine/<br />indefinite
+| yǫw/yag-
+| gy-
+| gǫn-
+|}
+
+{| class="wikitable"
+|+ Intransitive, Patient-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! colspan="2" | 1st person
+| (w)ag-
+| (y)ǫgy-
+| (y)ǫgw-
+|-
+! colspan="2" | 2nd person
+| s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| how-
+| colspan="2" | hon-
+|-
+! feminine/<br />indefinite
+| ((y)a)gow-
+| colspan="2" | (y)on-
+|}
+
+{| class="wikitable"
+|+ Transitive Series
+|-
+! Patient (to right)<br>Agent (below)
+! 1.SG
+! 1.DU
+! 1.PL
+! 2.SG
+! 2.DU
+! 2.PL
+! 3.NEUT
+! 3.SG.MASC
+! 3.FEM/INDEF.SG
+! 3.FEM.DU/PL
+! 3.MASC.DU/PL
+|-
+! 1.SG
+| 
+| 
+|
+| gǫy-
+| gy-
+| gw-
+|
+| hey-
+|colspan="3"| khey-
+|-
+! 1.DU.EXCL
+| 
+|
+|
+| gy-
+| gy-
+| gw-
+|
+| shagy-
+|colspan="3" rowspan="2"| (y)akhiy-
+|-
+! 1.PL.EXCL
+| 
+| 
+|
+| gw-
+| gw-
+| gw- 
+|
+| shagw-
+|-
+! 1.DU.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedy-
+| colspan="3" rowspan="2"| (y)ethy-
+|-
+! 1.PL.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedwa-
+|-
+! 2.SG
+| sg-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| hes-
+|colspan="3"| shey-
+|-
+! 2.DU
+| sgy-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| shejy-
+|colspan="3" rowspan="2"| (y)etchiy-
+|-
+! 2.PL
+| sgw-
+| sgw-
+| sgw-
+|
+|
+|
+|
+| shesw-
+|-
+! 3.SG.MASC
+| hag-
+| shǫgy-
+| shǫgw-
+| hy-
+| (s)hejy-
+| (s)hesw-
+|
+| hǫw-
+|colspan="3"| shagow-
+|-
+! 3.SG.FEM/INDEF
+|rowspan="2"| (y)ǫg-
+|colspan="2" rowspan="3"| (y)ǫkhiy-
+| (y)es-
+|colspan="2" rowspan="3"| (y)etchiy-
+|rowspan="3"| gǫw-
+|rowspan="3"| hǫw-
+| (y)ǫdad-
+| gǫwan-
+| hǫwadiy-
+|-
+! 3.DU/PL.FEM
+|
+|colspan="3"| ((y)a)godiy-
+|-
+! 3.DU.PL.MASC
+| hǫg-
+|
+|colspan="3"| shagodi-
+|-
+|}
+
+=====O-Stem=====
+The following chart lists the pronominal prefixes for stems that begin with a consonant. Note that (y) or (w) in brackets disappears when preceded by a pre-pronominal prefix.
+
+{| class="wikitable"
+|+ Intransitive, Agent-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | g-
+| (y)agy-
+| (y)agw-
+|-
+! inclusive
+| dy-
+| dw-
+|-
+! colspan="2" | 2nd person
+| (h)s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| hǫhR-
+| hy-
+| hǫw-
+|-
+! feminine/<br>indefinite
+| yǫw-
+| gy-
+| gǫw-
+|}
+
+{| class="wikitable"
+|+ Intransitive, Patient-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! colspan="2" | 1st person
+| (w)ag-
+| (y)ǫgy-
+| (y)ǫgw-
+|-
+! colspan="2" | 2nd person
+| s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| how-
+| colspan="2" | hon-
+|-
+! feminine/<br>indefinite
+| ((y)a)gow-
+| colspan="2" | (y)on-
+|}
+
+{| class="wikitable"
+|+ Transitive Series
+|-
+! Patient (to right)<br>Agent (below)
+! 1.SG
+! 1.DU
+! 1.PL
+! 2.SG
+! 2.DU
+! 2.PL
+! 3.NEUT
+! 3.SG.MASC
+! 3.FEM/INDEF.SG
+! 3.FEM.DU/PL
+! 3.MASC.DU/PL
+|-
+! 1.SG
+| 
+| 
+|
+| gǫy-
+| gy-
+| gw-
+|
+| hey-
+|colspan="3"| khey-
+|-
+! 1.DU.EXCL
+| 
+|
+|
+| gy-
+| gy-
+| gw-
+|
+| shagn-
+|colspan="3" rowspan="2"| (y)akhiy-
+|-
+! 1.PL.EXCL
+| 
+| 
+|
+| gw-
+| gw-
+| gw- 
+|
+| shagy-
+|-
+! 1.DU.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedn-
+| colspan="3" rowspan="2"| (y)ethiy-
+|-
+! 1.PL.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedy-
+|-
+! 2.SG
+| sg-
+| sgn-
+| sgy-
+|
+|
+|
+|
+| hes-
+|colspan="3"| shey-
+|-
+! 2.DU
+| sgn-
+| sgn-
+| sgy-
+|
+|
+|
+|
+| shesn-
+|colspan="3" rowspan="2"| (y)etchiy-
+|-
+! 2.PL
+| sgy-
+| sgy-
+| sgy-
+|
+|
+|
+|
+| shejy-
+|-
+! 3.SG.MASC
+| hag-
+| shǫgn-
+| shǫgy-
+| hyay-
+| (s)hesn-
+| (s)hejy-
+|
+| hǫy-
+|colspan="3"| shaga-
+|-
+! 3.SG.FEM/INDEF
+|rowspan="2"| (y)ǫg-
+|colspan="2" rowspan="3"| (y)ǫkhiy-
+| (y)es-
+|colspan="2" rowspan="3"| (y)etchiy-
+|rowspan="3"| gǫw-
+|rowspan="3"| hǫw-
+| (y)ǫdad-
+| gǫwan-
+| hǫwadiy-
+|-
+! 3.DU/PL.FEM
+|
+|colspan="3"| ((y)a)godiy-
+|-
+! 3.DU.PL.MASC
+| hǫg-
+|
+|colspan="3"| shagodi-
+|-
+|}
+
+=====Ǫ-Stem=====
+The following chart lists the pronominal prefixes for stems that begin with a consonant. Note that (y) or (w) in brackets disappears when preceded by a pre-pronominal prefix.
+
+{| class="wikitable"
+|+ Intransitive, Agent-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | g-
+| (y)agy-
+| (y)agw-
+|-
+! inclusive
+| dy-
+| dw-
+|-
+! colspan="2" | 2nd person
+| (h)s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| hǫhR-
+| hy-
+| hǫw-
+|-
+! feminine/<br>indefinite
+| yǫw-
+| gy-
+| gǫw-
+|}
+
+{| class="wikitable"
+|+ Intransitive, Patient-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! colspan="2" | 1st person
+| (w)ag-
+| (y)ǫgy-
+| (y)ǫgw-
+|-
+! colspan="2" | 2nd person
+| s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| how-
+| colspan="2" | hon-
+|-
+! feminine/<br>indefinite
+| ((y)a)gow-
+| colspan="2" | (y)on-
+|}
+
+{| class="wikitable"
+|+ Transitive Series
+|-
+! Patient (to right)<br>Agent (below)
+! 1.SG
+! 1.DU
+! 1.PL
+! 2.SG
+! 2.DU
+! 2.PL
+! 3.NEUT
+! 3.SG.MASC
+! 3.FEM/INDEF.SG
+! 3.FEM.DU/PL
+! 3.MASC.DU/PL
+|-
+! 1.SG
+| 
+| 
+|
+| gǫy-
+| gy-
+| gw-
+|
+| hey-
+|colspan="3"| khey-
+|-
+! 1.DU.EXCL
+| 
+|
+|
+| gy-
+| gy-
+| gw-
+|
+| shagy-
+|colspan="3" rowspan="2"| (y)akhiy-
+|-
+! 1.PL.EXCL
+| 
+| 
+|
+| gw-
+| gw-
+| gw- 
+|
+| shagw-
+|-
+! 1.DU.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedy-
+| colspan="3" rowspan="2"| (y)ethy-
+|-
+! 1.PL.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedwa-
+|-
+! 2.SG
+| sg-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| hes-
+|colspan="3"| shey-
+|-
+! 2.DU
+| sgy-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| shejy-
+|colspan="3" rowspan="2"| (y)etchiy-
+|-
+! 2.PL
+| sgw-
+| sgw-
+| sgw-
+|
+|
+|
+|
+| shesw-
+|-
+! 3.SG.MASC
+| hag-
+| shǫgy-
+| shǫgw-
+| hy-
+| (s)hejy-
+| (s)hesw-
+|
+| hǫw-
+|colspan="3"| shagow-
+|-
+! 3.SG.FEM/INDEF
+|rowspan="2"| (y)ǫg-
+|colspan="2" rowspan="3"| (y)ǫkhiy-
+| (y)es-
+|colspan="2" rowspan="3"| (y)etchiy-
+|rowspan="3"| gǫw-
+|rowspan="3"| hǫw-
+| (y)ǫdad-
+| gǫwan-
+| hǫwadiy-
+|-
+! 3.DU/PL.FEM
+|
+|colspan="3"| ((y)a)godiy-
+|-
+! 3.DU.PL.MASC
+| hǫg-
+|
+|colspan="3"| shagodi-
+|-
+|}
+
+=====I-Stem=====
+The following chart lists the pronominal prefixes for stems that begin with a consonant. Note that (y) or (w) in brackets disappears when preceded by a pre-pronominal prefix.
+
+{| class="wikitable"
+|+ Intransitive, Agent-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | g-
+| (y)agy-
+| (y)agw-
+|-
+! inclusive
+| dy-
+| dw-
+|-
+! colspan="2" | 2nd person
+| (h)s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| hǫhR-
+| hy-
+| hǫw-
+|-
+! feminine/<br>indefinite
+| yǫw-
+| gy-
+| gǫw-
+|}
+
+{| class="wikitable"
+|+ Intransitive, Patient-series
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! colspan="2" | 1st person
+| (w)ag-
+| (y)ǫgy-
+| (y)ǫgw-
+|-
+! colspan="2" | 2nd person
+| s-
+| jy-
+| sw-
+|-
+! rowspan="2" | 3rd person
+! masculine
+| how-
+| colspan="2" | hon-
+|-
+! feminine/<br>indefinite
+| ((y)a)gow-
+| colspan="2" | (y)on-
+|}
+
+{| class="wikitable"
+|+ Transitive Series
+|-
+! Patient (to right)<br>Agent (below)
+! 1.SG
+! 1.DU
+! 1.PL
+! 2.SG
+! 2.DU
+! 2.PL
+! 3.NEUT
+! 3.SG.MASC
+! 3.FEM/INDEF.SG
+! 3.FEM.DU/PL
+! 3.MASC.DU/PL
+|-
+! 1.SG
+| 
+| 
+|
+| gǫy-
+| gy-
+| gw-
+|
+| hey-
+|colspan="3"| khey-
+|-
+! 1.DU.EXCL
+| 
+|
+|
+| gy-
+| gy-
+| gw-
+|
+| shagy-
+|colspan="3" rowspan="2"| (y)akhiy-
+|-
+! 1.PL.EXCL
+| 
+| 
+|
+| gw-
+| gw-
+| gw- 
+|
+| shagw-
+|-
+! 1.DU.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedy-
+| colspan="3" rowspan="2"| (y)ethy-
+|-
+! 1.PL.INCL
+| 
+| 
+|
+|
+|
+|
+|
+| shedwa-
+|-
+! 2.SG
+| sg-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| hes-
+|colspan="3"| shey-
+|-
+! 2.DU
+| sgy-
+| sgy-
+| sgw-
+|
+|
+|
+|
+| shejy-
+|colspan="3" rowspan="2"| (y)etchiy-
+|-
+! 2.PL
+| sgw-
+| sgw-
+| sgw-
+|
+|
+|
+|
+| shesw-
+|-
+! 3.SG.MASC
+| hag-
+| shǫgy-
+| shǫgw-
+| hy-
+| (s)hejy-
+| (s)hesw-
+|
+| hǫw-
+|colspan="3"| shagow-
+|-
+! 3.SG.FEM/INDEF
+|rowspan="2"| (y)ǫg-
+|colspan="2" rowspan="3"| (y)ǫkhiy-
+| (y)es-
+|colspan="2" rowspan="3"| (y)etchiy-
+|rowspan="3"| gǫw-
+|rowspan="3"| hǫw-
+| (y)ǫdad-
+| gǫwan-
+| hǫwadiy-
+|-
+! 3.DU/PL.FEM
+|
+|colspan="3"| ((y)a)godiy-
+|-
+! 3.DU.PL.MASC
+| hǫg-
+|
+|colspan="3"| shagodi-
+|-
+|}
+
+====Reflexive and semireflexive====
+
+This section discusses [[reflexive pronoun|reflexive]] sentences such as "John saw himself," and "We like ourselves," and reciprocal sentences such as "We like each other." The basic form of the reflexive marker (REFL) is /atat-/ and it appears right after the pronominal prefix and before the incorporated noun, if any. The reflexive is typically found only on transitive verbs, but because there is only one participant in the event, we use the intransitive series of pronominal prefixes. Here's an example of a reflexive and a regular (non-reflexive) transitive for comparison.
+
+{{interlinear|number=a.
+|top= waʔgadadaehsę́thwaʔ
+|waʔ-	k-		atat-	aehsęthw-	aʔ
+|FACT-	1.SG.AG-	REFL-	kick-		PUNC
+|'I kicked myself.'}}
+
+{{interlinear|number=b.
+|top= waʔsgaehsę́thwaʔ
+|waʔ-	sk-			aehsęthw-	aʔ
+|FACT-	2.SG.AG:1.SG.PAT-	kick-		PUNC
+|'You kicked me.'}}
+
+In the non-reflexive transitive form there is a pronominal prefix, /sk-/ that indicates the subject ('you') and the object ('me'). In the reflexive form, there is only one participant in the act of kicking ('me'), so the intransitive form of the pronominal prefix is used, /k-/.
+
+A reflexive action is something that you do to yourself. A reciprocal action is something people do to each other. Reciprocals must have at least two people involved. They are formed with the reflexive marker and the dualic prepronominal prefix discussed in section 3.4.1.1.2.4. Here is an example.
+
+{{interlinear|number=a.
+|top= waʔthyadadyǫ́dyahdęʔ
+|waʔ-	t-	hy-		atat-	yǫtya-	ht-	ęʔ
+|FACT-	DUC-	3.DU.AG-	REFL-	laugh-	CAUS-	PUNC
+|'They two made each other laugh.'}}
+
+The [[semireflexive]] (SRFL) appears in a variety of circumstances that are not easy to pin down. The usual form of the semireflexive is /at-/, but certain verb roots take different forms. Listed here are some of the more common situations in which the semireflexive is used.
+
+First, when a person's own body part is the object of the action a semireflexive is normally used. Here is an example with and without a semireflexive. Again notice that the form with the semireflexive uses the intransitive pronominal prefix while the form without the semireflexive uses the transitive pronominal prefix.
+
+{{interlinear|number=a.
+|top= waʔgadnęntshagetsgwaʔ
+|waʔ-	k-		at-	nęntsh-	a-	getsgw-	aʔ
+|FACT-	1.SG.AG-	SRFL-	arm-	JOIN-	raise-		PUNC
+|'I raised my arm.'}}
+
+{{interlinear|number=b.
+|top= waʔkhenęntshagetsgwaʔ
+|waʔ-	khe-			nęntsh-	a-	getsgw-	aʔ
+|FACT-	1.SG.AG:3.SG.F.PAT-	arm-	JOIN-	raise-		PUNC
+|'I raised her arm.'}}
+
+Second, the semireflexive is used with verbs of grooming.
+
+{{interlinear|number=a.
+|top= John	waʔhadyaʔdohaeʔ 			
+|John	waʔ-	ha-		at-	yaʔt-	ohae-	ʔ
+|John	FACT-	3.SG.M.AG-	SRFL-	body-	wash-	PUNC
+|'John washed (himself).'}}
+
+Finally, the semireflexive is used to describe events or actions that are internally caused or spontaneous.
+
+{{interlinear|number=a.
+|top= waʔwadehnhóhwak				
+|waʔ-	w-		at-	ehnhohw-	aR-	k
+|FACT-	3.SG.N.PAT-	SRFL-	door-		apply-	PUNC
+|'The door closed.'}}
+
+{{interlinear|number=b.
+|top= odųhwejiyáʔgi꞉h					
+|o-				at-		ųhwęjy-		yaʔk-	ih
+|3.SG.N.PAT-	SRFL-	earth-		break-	STAT
+|'The earth has caved in.'}}
+
+{{interlinear|number=c.
+|top= waʔdyųdetgwęʔdaʔnéꞏgaꞏʔ
+|waʔ-d-yų-adet-gwęʔd-ʔnegaꞏ-aʔ
+|FACT-change.of.state-she-self-belly-burst-at.one.point.in.time
+|"she blabbed, she revealed a secret" [literally, 'she burst her belly']}}
+
+The constituent morphemes are separated by hyphens in the second line of the example. Each one is translated, as closely as possible, in the third line. It is important to understand that none of the component morphemes is a separate word, since they cannot be uttered, or understood, in isolation.
+
+A second way in which linguists classify the morphology of languages is in terms of how the morphemes of a word combine. This distinction is between languages that are [[fusional language|fusional]] and languages that are [[agglutinative]]. Fusion occurs in two ways: a single morpheme may have two or more functions (or meanings) in a given word or contiguous morphemes may affect each other's shape in such a way that it is difficult to segment the word into morphemes. A language is agglutinative if the morphemes composing a word each carries its own meaning and can be easily segmented from its neighbor. Onondaga is fusional (in the second sense of that term). Fusion is especially prevalent at the boundary between prefixes and the stem. Here certain phonological processes take place which change the shapes of one or both contiguous morphemes. For example:
+
+{{interlinear|number=a.
+|top= gędéꞏih
+|ga-idęꞏ-ih
+|N.AG-help.out-STAT
+|"it is helping."}}
+
+Languages are also classified in terms of the preeminent morphological processes they manifest. In Onondaga the two major morphological processes are prefixing and suffixing. Prefixes and suffixes are bound morphemes, that is, they are morphemes that cannot occur in isolation. Onondaga verbs must, minimally, begin in a pronominal prefix and inflect for [[Grammatical aspect|aspect]]. For example:
+
+{{interlinear|number=a.
+|top= hayę́thwas
+|ha-yę́thw-as
+|3.SG.M.AG-plant-HAB
+|"he plants"}}
+
+Nouns must, minimally, begin in a nominal prefix and end in a noun suffix. For example:
+
+{{interlinear|number=a.
+|top= ganáʔjyaʔ
+|ga-naʔjy-aʔ
+|N.AG-pail-noun.suffix
+|"pail"}}
+
+===Nominal Morphology===
+A basic noun is composed of the following three morphemes in this order: noun prefix, root, and noun suffix.
+
+According to Woodbury (2003), nouns in Onondaga are categorized into two main classes. These are non-human and human. The inanimate nouns are further divided into natural and man-made. The prefix (NPRE) on the noun depends on these classes. For inanimate nouns, the prefix is either /o-/ for natural objects or /ka-/ for man-made objects. The noun forming suffix also depends on the noun class. It is /aʔ/ for non-human nouns and /-h/ for human nouns.
+
+==Noun incorporation==
+
+Noun [[incorporation (linguistics)|incorporation]] is a process of compounding in which two stems, a noun and a verb stem, are combined into a new stem that is inflected with verbal morphology and that functions as a verb. Nouns occupying the semantic roles or [[thematic relations]], of patient, theme, factitive theme, location, goal, path, or instrument are eligible for incorporation. Of these, it is nouns designating semantic patients and themes that are most frequently incorporated. Semantic agents, causers, and beneficiaries are not eligible for incorporation.
+
+The first example shows that the nominal root -nęh- "corn" has been incorporated into the verbal complex forming a single word. The second example shows the noun /onęhaʔ/ ('corn') as a separate word and preceded by the particle neʔ, a particle which marks a following word or phrase as a nominal.
+
+{{interlinear|number=a.
+|top= waʔhanęhayę́thwaʔ
+|waʔ-ha-nęh-yęthw-aʔ
+|FACT-he-corn-plant-PUNC
+|'he planted corn' [literally, 'he corn-planted'].}}
+
+{{interlinear|number=b.
+|top= waʔhayę́thwaʔ neʔ onę́haʔ
+|waʔ-ha-yęthw-aʔ neʔ o-nęh-aʔ
+|FACT-he-plant-PUNC nominal.particle it-corn-noun.suffix
+|'he planted (the) corn'}}
+
+Noun incorporation is a highly productive process in Onondaga. However, its productivity is an attribute of individual nouns and verbs. Every noun and every verb is lexically marked in terms of its incorporation characteristics.{{Citation needed|date=November 2009}} Some nouns incorporate frequently, that is, they can combine with many different verbs,  others almost never. Among the verbs that can incorporate—and some do not incorporate at all—there is a continuum of productivity. At their most productive, verbs can incorporate one of any number of nouns, in fact, some verbs can only occur together with an incorporated noun. Verbs at their most unproductive can incorporate only a single noun. Between these extremes are additional types: verbs that can incorporate only a restricted set of nouns; verb and noun combinations that are highly idiomatic—these often denote conventionalized activities (e.g., English 'he information-gathered)—so that separating the noun, though interpretable, is perceived as inappropriate.
+
+The use of noun incorporation is governed by various discourse factors. It is often used as a way of backgrounding information.{{Citation needed|date=November 2009}}
+
+==Word order==
+
+[[Word order]] is typically free in Onondaga (though see question formation below). It depends on various discourse factors.
+
+==Question formation==
+
+[[Wh-questions]] begin with the interrogative word:
+
+{{interlinear|number=a.
+|top= gaę nų́ tganųhsáꞏyęʔ
+|gaę nų́ t-ga-nųhs-yę-ʔ
+|where place here-it-house-be.lying-STAT
+|"Where is the house?"}}
+
+{{interlinear|number=b.
+|top= wadę́ʔ nihsaꞏdyéꞏhaʔ
+|wadę́ʔ ni-hs-adyéꞏ-haʔ
+|what thus-you-do-HAB
+|"What are you doing?"}}
+
+Yes-no questions are formed by appending the question-particle to the questioned item:
+
+{{interlinear|number=a.
+|top= Sędáʔwih khę́h.
+|sa-idáʔw-ih khę́h.
+|you-be.asleep-STAT Q
+|"Are you asleep?"}}
+
+==See also==
+* [[Onondaga (tribe)]]
+
+==References==
+{{Reflist}}
+
+*Abrams, Percy. 2006. ''Onondaga Pronominal Prefixes'', Department of Linguistics, State University of New York at Buffalo: Ph. D. Dissertation.
+*Chafe, Wallace L. 1970. ''A Semantically Based Sketch of Onondaga''. Indiana University Publications in Anthropology and Linguistics. Memoir 25 of the International Journal of American Linguistics.
+*Michelson, Karin. 1988. ''A Comparative Study of Lake-Iroquoian Accent''. Dordrecht: Kluwer.
+*[[Hanni Woodbury|Woodbury, Hanni]]. 1975a. "Onondaga Noun Incorporation: Some Notes on the Interdependence of Syntax and Semantics." International Journal of American Linguistics 41 (1):10-20.
+*Woodbury, Hanni. 1975b. ''Noun Incorporation in Onondaga'', Department of Linguistics, Yale University: Ph. D. Dissertation.
+*Woodbury, Hanni. 2002. ''Onondaga-English/English-Onondaga Dictionary''. Toronto: University of Toronto Press.
+*Woodbury, Hanni, 2018. ''A Reference Grammar of the Onondaga Language ''. Toronto: University of Toronto Press.
+
+==External links==
+* [http://www.languagegeek.com/rotinonhsonni/onondaga.html Language Geek: Onondaga]
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+PUNC:punctual aspect
+FACT:factual modal
+REP:repetitive morpheme
+DUC:dualic
+SRFL:semireflexive
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Iroquoian languages}}
+{{Languages of Canada}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Onondaga Language}}
+[[Category:Onondaga|+]]
+[[Category:Northern Iroquoian languages]]
+[[Category:Indigenous languages of the North American eastern woodlands]]
+[[Category:First Nations languages in Canada]]
+[[Category:Languages of the United States]]
+[[Category:Endangered Iroquoian languages]]
+[[Category:Languages of New York (state)]]

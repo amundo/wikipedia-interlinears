@@ -1,0 +1,546 @@
+{{Short description|Language isolate of north-central Tanzania}}
+{{Infobox language
+|name=Hadza
+|nativename=''Hazane''
+|states=[[Tanzania]]
+|region=Singida region, southeast of [[Lake Eyasi]], camps south and northwest; Manyara region, Iramba and Mbulu districts; Shinyanga region, Masawa District.
+|ethnicity=1,200&ndash;1,300 [[Hadza people|''Hazabee'']] (2012 census)<ref name=Skaanes>Thea Skaanes (2015) "Notes on Hadza cosmology: Epeme, objects and rituals", ''Hunter Gatherer Research'' 1, 2: 247–267.</ref>
+|speakers=1,000+
+|date=2012
+|ref=<ref name=Skaanes/>
+|familycolor=Isolate
+|family=[[Language isolate]]
+|iso3=hts
+|glotto=hadz1240
+|glottorefname=Hadza
+|glottopedia=Hadza
+| map = Hadza map.svg
+| mapcaption = Distribution of the Hadza language (dark grey) in Tanzania
+|notice=IPA
+}}
+
+'''Hadza''' is a [[language isolate]] spoken along the shores of [[Lake Eyasi]] in [[Tanzania]] by around 1,000 [[Hadza people]], who include in their number the last full-time [[hunter-gatherer]]s in Africa. It is one of only three languages in East Africa with [[click consonant]]s. Despite the small number of speakers, language use is vigorous, with most children learning it, but UNESCO categorizes the language as vulnerable.<ref>{{Cite web|url=http://www.unesco.org/culture/languages-atlas/en/atlasmap/language-id-114.html|title = UNESCO Atlas of the World's Languages in danger}}</ref>
+
+==Name==
+The Hadza go by several names in the literature. 'Hadza' itself just means 'human being'. 'Hadzabe' (''hazabee'') is the plural, and 'Hadzapi' (''hazaphii'') means 'they are men'. 'Hatza' and 'Hatsa' are older German spellings. The language is sometimes distinguished as 'Hadzane' (''hazane'') 'of the Hadza'. 
+
+'Tindiga' is from Swahili ''watindiga'' 'people of the marsh grass' (from the large spring in Mangola) and ''kitindiga'' (language of the same). 'Kindiga' is apparently a form of the same from one of the local Bantu languages, presumably [[Isanzu language|Isanzu]]. 'Kangeju' (pronounced ''Kangeyu'') is an obsolete German name of unclear origin. 'Wahi' (pronounced ''Vahi'') is the German spelling of the [[Sukuma language|Sukuma]] name for either the Hadza west of the lake, or perhaps a Sukuma clan that traces its ancestry to the Hadza.
+
+==Classification==
+Hadza is a language isolate (Sands 1998, Starostin 2013). It was once classified by many linguists as a [[Khoisan languages|Khoisan language]], along with its neighbor [[Sandawe language|Sandawe]], primarily because they both have [[click consonant]]s. However, Hadza has very few proposed [[cognate]]s with either Sandawe or the other putative Khoisan languages, and many of the ones that have been proposed appear doubtful. The links with Sandawe, for example, are [[Cushitic languages|Cushitic]] loan words, whereas the links with southern Africa are so few and so short (usually single consonant–vowel syllables) that they are most likely coincidental. A few words link it with [[Oropom language|Oropom]], which may itself be spurious; the numerals ''itchâme'' {{IPA|/it͡ʃʰaame/}} 'one' and ''piye'' {{IPA|/pie/}} 'two' suggest a connection with [[Kwʼadza language|Kwʼadza]], an extinct language of hunter-gatherers who may have had recently shifted to Cushitic. (Higher numerals were borrowed in both languages.)
+
+There are no dialects, though there is some regional vocabulary, especially Bantu loans, which are more numerous in the southern and western areas of high bilingualism.
+
+The language is marked as "[[Endangered language|threatened]]" in ''Ethnologue''.<ref>{{cite web|url=https://www.ethnologue.com/language/hts |title=Hadza |website=Ethnologue.com |date= |accessdate=2017-01-17}}</ref>
+
+==Phonology==
+Hadza syllable structure is limited to CV, or CVN if nasal vowels are analyzed as a coda nasal. Vowel-initial syllables do not occur initially, and medially they may be equivalent to /hV/ – at least, no minimal pairs of /h/ vs zero are known.
+
+Hadza is noted for having medial clicks (clicks within morphemes). This distribution is also found in [[Sandawe language|Sandawe]] and the [[Nguni languages|Nguni Bantu languages]], but not in the Khoisan languages of southern Africa. Some of these words are historically derivable from clicks in initial positions (many appear to reflect lexicalized reduplication, for example, and some are due to prefixes), but others are opaque. As in Sandawe, most medial clicks are glottalized, but not all: ''puche'' 'a spleen', ''tanche'' 'to aim', ''tacce'' 'a belt', ''minca'' 'to lick one's lips', ''laqo'' 'to trip someone', ''keqhe-na'' 'slow', ''penqhenqhe ~ peqeqhe'' 'to hurry', ''haqqa-ko'' 'a stone', ''shenqe'' 'to peer over', ''exekeke'' 'to listen', ''naxhi'' 'to be crowded', ''khaxxe'' 'to jump', ''binxo'' 'to carry kills under one's belt'.
+
+===Tone===
+Neither lexical [[tone (linguistics)|tone]] nor [[pitch accent]] has been demonstrated for Hadza. There are no known lexical [[minimal pair]]s or grammatical use of stress/tone.
+
+===Vowels===
+Hadza has five vowels, {{IPA|[i e a o u]}}. Long vowels may occur when intervocalic {{IPA|[ɦ]}} is elided. For example, {{IPA|[kʰaɦa]}} or {{IPA|[kʰaː]}} 'to climb', but some words are not attested with {{IPA|[ɦ]}}, as {{IPA|[boːko]}} 'she' vs {{IPA|[boko]}} 'to be ill'. All vowels are nasalized before glottalized nasal and voiced nasal clicks, and speakers vary on whether they hear them as nasal vowels or as VN sequences. Invariable [[nasal vowel]]s, although uncommon, do occur, though not before consonants that have a place of articulation to assimilate to. In such positions, {{IPA|[CṼCV]}} and {{IPA|[CVNCV]}} are allophones, but since VN cannot occur at the end of a word or before a glottal consonant, where only nasal vowels are found, it may be that nasal vowels are allophonic with VN in all positions.
+
+===Consonants===
+{| class="wikitable" style=text-align:center
+|+Hadza consonants and orthography.<ref>Consonants in shaded cells appear only in loanwords or are NC sequences, which do not appear to be single segments but are listed here to illustrate the orthography. (Not illustrated are nasal–click sequences in the middle of words: aspirated ''nch, nqh, nxh'' and tenuis ''ngc, ngq, ngx''.)</ref>
+! rowspan=2 colspan=2 |
+! rowspan=2 | [[labial consonant|Labial]]
+! colspan=2 | [[Dental consonant|Dental]]~[[Alveolar consonant|alveolar]]
+! colspan=2 | [[Postalveolar consonant|Postalveolar]]~[[Palatal consonant|palatal]]
+! colspan=2 | [[Velar consonant|Velar]]
+! rowspan=2 | [[Glottal consonant|Glottal]]
+|- class=small
+! [[Central consonant|central]]
+! [[Lateral consonant|lateral]]
+! central
+! lateral
+! plain
+! [[Labialization|labialized]]
+|-
+! rowspan=4 | [[Click consonant|Click]]
+! <small>Aspirated</small>
+| 
+| {{IPA|ᵏǀʰ}} {{angbr|ch}}
+|
+| {{IPA|ᵏǃʰ}} {{angbr|qh}}
+| {{IPA|ᵏǁʰ}} {{angbr|xh}}
+|
+|
+|
+|-
+! <small>Tenuis</small>
+| 
+| {{IPA link|ᵏǀ}} {{angbr|c}}
+|
+| {{IPA link|ᵏǃ}} {{angbr|q}}
+| {{IPA link|ᵏǁ}} {{angbr|x}}
+|
+|
+|
+|-
+! <small>[[Nasal click|Nasal]]</small>
+|rowspan=2| ([[Nasal bilabial click|{{IPA|ᵑʘʷ<br />~ ᵑʘ͡ʔ}}]]<br />{{angbr|mcw}})<sup>1</sup>
+| {{IPA link|ᵑǀ}} {{angbr|nc}}
+|
+| {{IPA link|ᵑǃ}} {{angbr|nq}}
+| {{IPA link|ᵑǁ}} {{angbr|nx}}
+|
+|
+|
+|-
+! <small>[[glottalized click|Glottalized nasal]]</small><sup>1</sup>
+| {{IPA|ᵑǀ͡ʔ}} {{angbr|cc}}
+|
+| {{IPA|ᵑǃ͡ʔ}} {{angbr|qq}}
+| {{IPA|ᵑǁ͡ʔ}} {{angbr|xx}}
+|
+|
+|
+|-
+! rowspan=7 | [[Stop consonant|Stop]]
+! <small>[[Aspiration (phonetics)|Aspirated]]</small>
+| {{IPA|pʰ}} {{angbr|ph}}
+| {{IPA|tʰ}} {{angbr|th}}
+|
+|
+|
+| {{IPA|kʰ}} {{angbr|kh}}
+| {{IPA|kʷʰ}} {{angbr|khw}}
+|
+|-
+! <small>[[Tenuis consonant|Tenuis]]</small>
+| {{IPA link|p}} {{angbr|p}}
+| {{IPA link|t}} {{angbr|t}}
+|
+|
+|
+| {{IPA link|k}} {{angbr|k}}
+| {{IPA|kʷ}} {{angbr|kw}}
+| {{IPA link|ʔ}} {{angbr|–}}
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA link|b}} {{angbr|b}}
+| style="background: silver" | {{IPA link|d}} {{angbr|d}}
+|
+|
+|
+| style="background: silver" | {{IPA link|ɡ}} {{angbr|g}}
+| style="background: silver" | {{IPA|ɡʷ}} {{angbr|gw}}
+|
+|-
+! <small>[[Ejective consonant|Ejective]]</small>
+| {{IPA link|pʼ}} {{angbr|bb}}<sup>2</sup>
+|
+|
+|
+|
+|
+|
+|
+|-
+! <small>Aspirated [[Prenasalized consonant|prenasalized]]</small>
+| style="background: silver" | {{IPA|ƞpʰ}} {{angbr|mp}}
+| style="background: silver" | {{IPA|ƞtʰ}} {{angbr|nt}}
+|
+|
+|
+| style="background: silver" | {{IPA|ƞkʰ}} {{angbr|nk}}
+|
+|
+|-
+! <small>Tenuis prenasalized</small>
+| style="background: silver" | {{IPA|ƞp}} {{angbr|mb}}
+| style="background: silver" | {{IPA|ƞt}} {{angbr|nd}}
+|
+|
+|
+| style="background: silver" | {{IPA|ƞk}} {{angbr|ng}}
+| style="background: silver" | {{IPA|ƞkʷ}} {{angbr|ngw}}
+|
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPA link|m}} {{angbr|m}}
+| {{IPA link|n}} {{angbr|n}}
+|
+| style="background: silver" |  {{IPA link|ɲ}} {{angbr|ny}}
+|
+| style="background: silver" | {{IPA link|ŋ}} {{angbr|ngʼ}}
+| style="background: silver" | {{IPA|ŋʷ}} {{angbr|ngʼw}}
+|
+|-
+! rowspan=6 | [[Affricate consonant|Affricate]]
+! <small>Aspirated</small>
+|
+| {{IPA|t͜sʰ}} {{angbr|tsh}}
+|
+| {{IPA|t͜ʃʰ}} {{angbr|tch}}
+| {{IPA|c͜ʎ̥˔ʰ}} {{angbr|tlh}}<sup>3</sup>
+|
+| 
+|
+|-
+! <small>Tenuis</small>
+|
+| {{IPA link|t͜s}} {{angbr|ts}}
+|
+| {{IPA link|t͜ʃ}} {{angbr|tc}}
+| [[Voiceless palatal lateral affricate|{{IPA|cʎ̥˔}}]] {{angbr|tl}}<sup>3</sup>
+|
+|
+|
+|-
+! <small>Voiced</small>
+|
+| style="background: silver" | {{IPA link|d͜z}} {{angbr|z}}
+|
+| style="background: silver" | {{IPA link|d͜ʒ}} {{angbr|j}}
+|
+|
+|
+|
+|-
+! <small>Ejective</small>
+|
+| {{IPA link|t͜sʼ}} {{angbr|zz}}
+|
+| {{IPA link|t͜ʃʼ}} {{angbr|jj}}
+| [[Ejective palatal lateral affricate|{{IPA|cʎ̥˔ʼ}}]] {{angbr|dl}}<sup>3</sup>
+| {{IPA link|k͜xʼ}} {{angbr|gg}}<sup>4</sup>
+| {{IPA|k͜xʷʼ}} {{angbr|ggw}}
+|
+|-
+! <small>Aspirated prenasalized</small>
+|
+| style="background: silver" | {{IPA|ƞt͜sʰ}} {{angbr|nts/ns}}
+|
+| style="background: silver" | {{IPA|ƞt͜ʃʰ}} {{angbr|ntc}} 
+|
+|
+|
+|
+|-
+! <small>Tenuis prenasalized</small>
+|
+| style="background: silver" | {{IPA|ƞt͜s}} {{angbr|nz}}
+|
+| style="background: silver" | {{IPA|ƞt͜ʃ}} {{angbr|nj}}
+|
+|
+|
+|
+|-
+! colspan=2 | [[Fricative consonant|Fricative]]
+| style="background: silver" | {{IPA|fʷ}} {{angbr|f}}
+| {{IPA link|s}} {{angbr|s}}
+| {{IPA link|ɬ}} {{angbr|sl}}
+| {{IPA link|ʃ}} {{angbr|sh}}
+|
+| {{nobreak|({{IPA link|x}} {{angbr|hh}})<sup>6</sup>}}
+|
+|
+|-
+! colspan=2 | [[Approximant consonant|Approximant]]
+|
+| colspan=2 | {{IPA link|ɾ}} ~ {{IPA link|l}} {{angbr|l, r}}<sup>5</sup>
+| ({{IPA link|j}} {{angbr|y}})<sup>7</sup>
+|
+|
+| ({{IPA link|w}} {{angbr|w}})<sup>7</sup>
+| {{IPA link|ɦ}} {{angbr|h}}<sup>7</sup>
+|}
+
+#The nasalization of the [[glottalization|glottalized]] nasal clicks is apparent on preceding vowels, but not during the hold of the click itself, which is silent due to simultaneous glottal closure. The labial {{IPA|[ᵑʘ͡ʔ]}} (or {{IPA|[ᵑʘʷ]}}) is found in a single mimetic word where it alternates with {{IPA|[ᵑǀ]}}.
+#The labial ejective {{IPA|/pʼ/}} is only found in a few words.
+#The palatal affricates may be pronounced with an alveolar onset ({{IPA|/t͜{{PUA|}}/}} ''etc.''), but this is not required.
+#The velar ejective {{IPA|/k͜xʼ/}} varies between a plosive {{IPA|[kʼ]}}, a central affricate {{IPA|[k͜xʼ]}}, a lateral affricate {{IPA|[k͜{{PUA|}}ʼ]}}, and a fricative {{IPA|[xʼ]}}. The other central ejective affricates can surface as ejective fricatives as well (i.e. {{IPA|[sʼ], [ʃʼ], [xʷʼ]}}).
+#The lateral approximant {{IPA|/l/}} is found as a [[flap consonant|flap]] {{IPA|[ɾ]}} between vowels and occasionally elsewhere, especially in rapid speech. {{IPA|[l]}} is most common [[post-pausa]] and in repeated syllables (e.g. in ''lola'', sp. rabbit). A lateral flap realization {{IPA|[ɺ]}} can also occur. 
+#The [[voiceless velar fricative]] {{IPA|[x]}} is known from only a single word, where it alternates with {{IPA|/kʰ/}}.
+#{{IPA|[ɦ]}} and [[zero onset]] appear to be allophones. {{IPA|[w, j]}} may be allophones of {{IPA|[u, i]}}, and what are often transcribed in the literature as {{IPA|[w]}} next to a back vowel or {{IPA|[j]}} next to a front vowel (e.g. the msg [[Copula (linguistics)|copula]] transcribed ''-a, -ha, -wa, -ya'') are nothing more than transitions between vowels.
+#The NC sequences only occur in word-initial position in loanwords. The voiced obstruents and nasal consonants {{IPA|/ɲ ŋ ŋʷ d ɡ ɡʷ dʒ/}} and perhaps {{IPA|/dz/}} (on darker background) also seem to have been borrowed (Elderkin 1978).
+
+===Orthography===
+A practical orthography has been devised by Miller and Anyawire (Miller et al. 2013). As of 2015, this orthography is not being used by any Hadza speakers and is therefore of limited value for communication in Hadza. It is broadly similar to the orthographies of neighboring languages such as Swahili, [[Isanzu language|Isanzu]], [[Iraqw language|Iraqw]], and [[Sandawe language|Sandawe]]. The apostrophe, which is ubiquitous in transcription in the anthropological literature but causes problems with literacy, is not used: Glottal stop is indicated by vowel sequences (that is, {{IPA|/beʔe/}} is written {{angle bracket|bee}}, as in {{angle bracket|Hazabee}} {{IPA|/ɦadzabeʔe/}} 'the Hadza'), which true vowel sequences are separated by ''y'' or ''w'' (that is, {{IPA|/pie/}} 'two' is written {{angle bracket|piye}}), though in some cases an ''h'' may be justified, and ejectives and glottalized clicks by gemination (apart from reduced {{angle bracket|dl}} instead of *ddl for {{IPA|/c{{PUA|}}ʼ/}}). The ejectives are based on the voiced consonants, {{angle bracket|bb zz jj dl gg ggw}}, because these are otherwise found mostly in borrowings and thus not common. ''Tc'' {{IPA|/tʃ/}} and ''tch'' {{IPA|/tʃʰ/}} are as in Sandawe, ''sl'' {{IPA|/ɬ/}} as in Iraqw. (This is ultimately a French convention.) Nasalized vowels / VN rimes are {{angle bracket|an en in un}}. Long vowels are {{angle bracket|â}}, or {{angle bracket|aha}} where they are due to an elided {{IPA|/ɦ/}}. A tonic syllable may be written with an acute accent, {{angle bracket|á}}, but is generally not marked.
+
+==Grammar==
+Source: Miller (2008).
+
+Hadza is a [[head-marking]] language in both clauses and noun phrases. [[Constituent order|Word order]] is flexible; the default constituent order is VSO, though VOS and fronting to SVO are both very common. The order of determiner, noun, and attributive also varies, though with morphological consequences. There is number and gender agreement on both attributives (for head nouns) and verbs (for subjects).
+
+Reduplication of the initial syllable of a word, usually with tonic accent and a long vowel, is used to indicate 'just' (meaning either 'merely' or 'solely') and is quite common. It occurs on both nouns and verbs, and reduplication can be used to emphasize other things, such as the habitual suffix ''-he-'' or the pluractional infix ''{{angle bracket|kV}}''.
+
+===Nouns and pronouns===
+Nouns have grammatical gender (masculine and feminine) and number (singular and plural). They are marked by suffixes as follows:
+
+{|class=wikitable
+|-
+! ||sg.||pl
+|-
+!m
+| ||-bii
+|-
+!f
+| -ko||-bee
+|}
+The feminine plural is used for mixed natural gender, as in ''Hazabee'' 'the Hadza'. For many animals, the grammatical singular is [[transnumeric]], as in English: ''dongoko'' 'zebra' (either one or a group). The masculine plural may trigger vowel harmony: ''dongobee'' 'zebras' (an individuated number), ''dungubii'' 'zebra bucks'. A couple of kin terms and the diminutive suffix ''-nakwe'' take ''-te'' in the m.sg., which is otherwise unmarked.
+
+Gender is used metaphorically, with ordinarily feminine words made masculine if they are notably thin, and ordinarily masculine words made feminine if they are notably round. Gender also distinguishes such things as vines (m) and their tubers (f), or berry trees (f) and their berries (m). Mass nouns tend to be grammatically plural, such as ''atibii'' 'water' (cf. ''ati'' 'rain', ''atiko'' 'a spring').
+
+The names reported for dead animals do not follow this pattern. Calling attention to a dead zebra, for example, uses the form ''hantayii'' (masculine ''hantayee'', plural (rare) ''hantayetee'' and ''hantayitchii''). This is because these forms are not nouns, but imperative verbs; the morphology is clearer in the imperative plural, when addressing more than one person: ''hantatate, hantâte, hantayetate, hantayitchate'' (substitute ''-si'' for final ''-te'' when addressing only men; see below for the verbal object suffixes ''-ta-, -a-, -eta-, -itcha-'').
+
+====The copula====
+The ''-pe'' and ''-pi'' forms of nouns often seen in the anthropological literature (actually ''-phee'' and ''-phii'') are [[Copula (linguistics)|copula]]r: ''dongophee'' 'they are zebras'. The copular suffixes distinguish gender in all persons as well as [[clusivity]] in the 1st person. They are:
+
+{|class=wikitable
+|-
+! ||m.sg.||f.sg.||f.pl.||m.pl
+|-
+!1.ex
+|rowspan=2|-nee ||rowspan=2|-neko ||-'ophee ||-'uphii
+|-
+!1.in
+| -bebee||-bibii
+|-
+!2
+| -tee||-teko||-tetee||-titii
+|-
+!3
+| -a||-ako||-phee||-phii
+|}
+Forms with high vowels (''i, u'') tend to raise preceding mid vowels to high, just as ''-bii'' does. The 3.sg copula tends to sound like a ''-ya(ko)'' or ''-wa(ko)'' after high and often mid vowels: {{IPA|/oa, ea/}} ≈ {{IPA|[owa, eja]}}, and transcriptions with ''w'' and ''y'' are common in the literature. 
+
+====Pronouns====
+Personal and demonstrative pronouns are:
+{|class=wikitable
+|+Pronouns
+! ||m.sg.||f.sg.||f.pl.||m.pl
+|-
+!1.exclusive
+|rowspan=2|ono ||rowspan=2|onoko ||ôbee ||ûbii
+|-
+!1.inclusive
+|onebee||unibii
+|-
+!2
+|the||theko||ethebee||ithibii
+|-
+!3.proximal
+|hama||hako||habee||habii
+|-
+!3.given
+|bami||bôko||bee||bii
+|-
+!3.distal
+|naha||nâko||nâbee||nâbii
+|-
+!3.invisible
+|himiggê||himiggîko||himiggêbee||himiggîbii
+|}
+There are some additional 3rd-person pronouns, including some compound forms. Adverbs are formed from the 3rd-person forms by adding locative ''-na'': ''hamana'' 'here', ''beena'' 'there', ''naná'' 'over there', ''himiggêna'' 'in/behind there'.
+
+===Verbs and adjectives===
+An [[infix]] {{angle bracket|kV}}, where V is an [[echo vowel]], occurs after the first syllable of verbs to indicate [[pluractional]]ity.
+
+The copula was covered above. Hadza has several [[auxiliary verb]]s: sequential ''ka-'' and ''iya-'' ~ ''ya-'' 'and then', negative ''akhwa-'' 'not', and [[subjunctive]] ''i-''. Their inflections may be irregular or have different inflectional endings from those of lexical verbs,<ref>''Ya'' and ''ka'' take ''-ˆto, -tikwa, -ˆte, -ˆti'' in the 3rd-person posterior rather than ''-amo, -akwa, -ame, -ami'', for example. In lexical verbs, those endings are used with habitual ''-he-'' to emphasize it.</ref> which are as follows:
+
+{|class=wikitable
+|+Hadza [[tense–aspect–mood]] inflections
+! ||anterior/<br />non-past||posterior/<br />past||potential<br />conditional||[[veridical]]<br />conditional||imperative/<br />[[hortative]]||purposive<br />(subjunctive)
+|-
+!1sg
+| -ˆta||-naa||-nee||-nikwi|| ||-na
+|-
+!1.ex
+| -'ota||-'aa||-'ee||-'ukwi|| ||-ya
+|-
+!1.in
+| -bita||-baa||-bee||-bikwi||(use 2pl)||-ba
+|-
+!2sg
+| -tita ~ -ita||-taa||-tee||-tikwi||-'V||-ta
+|-
+!2f.pl
+| -(e)têta||-(e)tea||-etee||rowspan=2|-ˆtîkwi||colspan=2|-(ˆ)te
+|-
+!2m.pl
+| -(i)tîta||-(i)tia||-itii||colspan=2|-(ˆ)si
+|-
+!3m.sg
+| -eya||-amo||-heso||-kwiso||-ka||-so
+|-
+!3f.sg
+| -ako||-akwa||-heko||-kwiko||-kota||-ko
+|-
+!3f.pl
+| -ephee||-ame||-hese||-kwise||-keta||-se
+|-
+!3m.pl
+| -iphii||-ami||-hisi||-kwisi||-kitcha||-si
+|}
+
+The functions of the anterior and posterior differ between auxiliaries; with lexical verbs, they are non-past and past. The potential and veridical conditionals reflex the degree of certainty that something would have occurred. 1sg.npst ''-ˆta'' and a couple other forms lengthen the preceding vowel. The 1.ex forms apart from ''-ya'' begin with a glottal stop. The imp.sg is a glottal stop followed by an [[echo vowel]].
+
+Habitual forms take ''-he'', which tends to reduce to a long vowel, before these endings. In some verbs, the habitual has become lexicalized (marking the {{sc|3.post}} forms with glottal stop), and so an actual habitual takes a second ''-he''. Various compound tense-aspect-moods occur by doubling up the inflectional endings. There are several additional inflections which have not been worked out.
+
+The inflectional endings are [[clitic]]s and may occur on an adverb before the verb, leaving a bare verb stem (verb root plus object suffixes).
+
+====Attributives====
+As is common in the area, there are only a few bare-root adjectives in Hadza, such as ''pakapaa'' 'big'. Most attributive forms take a suffix with cross-gender&nbsp;number marking: ''-e'' (m.sg. and f.pl.) or ''-i'' (f.sg. and m.pl.). These agree with the noun they modify. The ''-i'' form tends to trigger [[vowel harmony]], so that, for example, the adjective ''one-'' 'sweet' has the following forms:
+
+{|class=wikitable
+|+''one'' 'sweet'
+! ||sg.||pl
+|-
+!m
+| onê (onehe)||unîbii
+|-
+!f
+| unîko||onêbee
+|}
+The ''-ko/-bee/-bii'' ending may be replaced by the copula, but the ''e/i'' cross-number&nbsp;gender marking remains.
+
+Demonstratives, adjectives, and other attributives may occur before or after a noun, but nouns only take their gender&nbsp;number endings when they occur first in the noun phrase: ''Ondoshibii unîbii'' 'sweet cordia berries', ''manako unîko'' 'tasty meat', but ''unîbii ondoshi'' and ''unîko mana''. Similarly, ''dongoko bôko'' but ''bôko dongo'' 'those zebra'.
+
+Verbs may also be made attributive: ''dluzîko akwiti'' 'the woman (''akwitiko'') who is speaking', from ''dlozo'' 'to say'. This attributive form is used with the copula to form the [[progressive aspect]]: ''dlozênee'' 'I am speaking' (male speaker), ''dluzîneko'' 'I am speaking' (female speaker).
+
+====Object marking====
+Verbs may take up to two object suffixes, for a direct object (DO) and indirect object (IO). These only differ in the 1ex and 3sg. The IO suffixes are also used on nouns to indicate possession (''mako-kwa'' 'my pot', ''mako-a-kwa'' 'it is my pot').
+
+{|class=wikitable
+|+Object/possessive suffixes
+!rowspan=2| !!colspan=2|sing.!!colspan=2|plural
+|-
+!DO||IO||DO||IO
+|-
+!1.ex
+|rowspan=2 colspan=2| -kwa || -oba || -ya
+|-
+!1.in
+|colspan=2| -ona ~ -yona
+|-
+!2m
+|colspan=2| -ena||colspan=2 rowspan=2| -ina
+|-
+!2f
+|colspan=2| -na
+|-
+!3m
+| -a ~ -ya ~ -na||-ma||colspan=2| -itcha
+|-
+!3f
+| -ta||-sa||colspan=2| -eta
+|}
+Two object suffixes are only allowed if the first (the DO) is 3rd person. In such cases the DO reduces to the form of the attributive suffix: ''-e'' (m.sg. / f.pl.) or ''-i'' (f.sg. / m.pl.); only context tells which combination of number and gender is intended. 3rd-singular direct objects also reduce to this form in the imperative singular; 3rd-plural change their vowels but do not conflate with the singular: see 'dead zebra' under nouns above for an example of the forms.
+
+===Word order===
+The factors governing the word order within noun phrases are not known. Constituent order tends to be SXVO (where X is an auxiliary) for a new or emphasized subject, with the subject moving further back (XSVO, XVSO, and XVOS), or simply not mentioned (XVO) the better it is established. Where context, semantics, and the verbal suffixes fail to disambiguate, ''verb–noun–noun'' is understood to be VSO.
+
+==Numerals==
+The Hadza did not count before the introduction of the [[Swahili language]]. Native numerals are ''itchâme'' 'one' and ''piye'' 'two'. ''Sámaka'' 'three' is a [[Datooga language|Datooga]] loan, and ''bone'' 'four', ''bothano'' 'five', and ''ikhumi'' 'ten' are [[Sukuma language|Sukuma]]. ''Aso'' 'many' is commonly used instead of ''bothano'' for 'five'. There is no systematic way to express other numbers without using Swahili.
+
+Dorothea Bleek suggested ''piye'' 'two' might have a Bantu source; the closest locally in [[Nyaturu language|Nyaturu]] ''-βĩĩ''. (Other local Bantu languages have an l/r between the vowels.) Sands first recognized the similarity of 'one' and 'two' to Kwʼadza noted above.
+
+==Dead animal names==
+Hadza has received some attention<ref>E.g. in Parkvall (2006) ''Limits of language''</ref> for a dozen 'celebratory' (Woodburn) or 'triumphal' (Blench) names for dead animals. These are used to announce a kill. They are (in the imperative singular):
+
+{|class=wikitable
+|-
+!Animal!!Generic name!!Triumphal name
+|-
+|zebra||{{lang|hts|dóngoko}}||{{lang|hts|hantáyii}}
+|-
+|giraffe||{{lang|hts|zzókwanako}}||{{lang|hts|háwayii}}
+|-
+|buffalo||{{lang|hts|naggomako}}||{{lang|hts|tíslii}}
+|-
+|leopard||{{lang|hts|nqe, tcanjai}}||{{lang|hts|henqêe}}
+|-
+|lion||{{lang|hts|séseme}}||{{lang|hts|hubuwee}}
+|-
+|eland||{{lang|hts|khomatiko}}||{{lang|hts|hubuwii}}}
+|-
+|impala||{{lang|hts|p(h)óphoko}}||{{lang|hts|dlunkúwii}}
+|-
+|wildebeest<br />hartebeest||{{lang|hts|bisoko<br />qqeleko}}||{{lang|hts|zzonowii}}
+|-
+|colspan=2|other large antelope||{{lang|hts|hephêe}}
+|-
+|colspan=2|small antelope||{{lang|hts|hingcíyee}}
+|-
+|rhinoceros||{{lang|hts|tlhákate}}||{{lang|hts|hukhúwee}}
+|-
+|elephant<br />hippopotamus||{{lang|hts|beggáuko<br />wezzáyiko}}||{{lang|hts|kapuláyii}}
+|-
+|warthog<br />boar||{{lang|hts|dláha<br />kwa'i}}||{{lang|hts|hatcháyee}}
+|-
+|baboon||{{lang|hts|neeko}}||{{lang|hts|nqokhówii}}
+|-
+|ostrich||{{lang|hts|khenangu}}||{{lang|hts|hushúwee}}
+|}
+The words are somewhat generic: {{lang|hts|henqêe}} may be used for any spotted cat, {{lang|hts|hushuwee}} for any running ground bird. 'Lion' and 'eland' use the same root. Blench (2008) thinks this may have something to do with the eland being considered magical in the region.
+
+An IO suffix may be used to reference the person who made the kill. Compare ''hanta-'' 'zebra' with the more mundane verbs, ''qhasha'' 'to carry' and ''kw-'' 'to give', in the imperative singular and plural (Miller 2009):
+{{interlinear|indent=3|italics2=yes|glossing3=yes| lang1=hts|lang2=hts
+|hanta-i-i hanta-i-ko-o
+|hanta-ta-te hanta-i-kwa-te
+|zebra-DO.{{gcl|3fs}}-IMP zebra-DO.{{gcl|3fs}}-IO.{{gcl|3fs}}-IMP
+|{"A zebra!"} {"I got a zebra!"}<ref>These glosses are crude; these words do not translate into Swahili or English</ref>|}}
+
+{{interlinear|indent=3|italics2=yes|glossing3=yes| lang1=hts|lang2=hts
+|qhasha-i-i kw-i-ko-o
+|qhasha-ta-te kw-i-kwa-te
+|carry-DO.{{gcl|3fs}}-IMP give-DO.{{gcl|3fs}}-IO.{{gcl|3fs}}-IMP
+|{"Carry it!} {"Give it to me!"}|}}
+
+==Speculations about early human language==
+In 2003 the press widely reported suggestions by Alec Knight and Joanna Mountain of [[Stanford University]] that the original human language may have had clicks. The purported evidence for this is genetic: speakers of [[Juǀ'hoan dialect|Juǀ'hoan]] and Hadza have the most divergent known [[mitochondrial DNA]] of any human populations, suggesting that they were the first, or at least among the first, surviving peoples to have split off the family tree. In other words, the three primary genetic divisions of humanity are the Hadza, the Juǀʼhoan and relatives, and everyone else. Because two of the three groups speak languages with clicks, perhaps their common ancestral language, which by implication is the ancestral language for all humankind, had clicks as well.
+
+However, besides the genetic interpretation, this conclusion rests on several unsupported assumptions: 
+* Both groups have kept their languages, without [[language shift]], since they branched off from the rest of humanity;
+* Sound change, a very common phenomenon, affected neither language to the point that its primeval phonology became unrecognizable;
+* Neither group borrowed clicks as part of a [[sprachbund]], as the Bantu [[Nguni languages]] (Zulu, Xhosa etc.) and [[Yeyi language|Yeyi]] did; and
+* Neither the ancestors of the Juǀʼhoan nor those of the Hadza developed clicks independently, as the creators of [[Damin]] did.
+
+There is no evidence that any of these assumptions are correct, or even likely. Linguistic opinion is that click consonants may well be a relatively late development in human language, that they are no more resistant to change or any more likely to be linguistic relics than other speech sounds, and that they are easily borrowed: at least one Khoisan language, [[ǁXegwi language|ǁXegwi]], is believed to have reborrowed clicks from Bantu languages, which had earlier borrowed them from Khoisan languages, for example. The Knight and Mountain article is the latest in a long line of speculations about the primitive origin of click consonants, which have been largely motivated by the outdated idea that primitive people speak primitive languages, which has no empirical support.<ref>Sands & Güldemann, 2009, [https://www.academia.edu/17743032/What_click_languages_can_and_cant_tell_us_about_language_origins What click languages can and can't tell us about language origins.] In Botha & Knight, eds, ''The Cradle of Language'', Oxford.</ref>
+
+==In popular culture==
+* In [[Peter Watts (author)|Peter Watts]]'s science-fiction novel [[Blindsight (Watts novel)|''Blindsight'']], Hadza is presented as the human language most closely related to the ancestral language of [[vampire]]s,<ref>[https://rifters.com/real/Blindsight.htm ''Blindsight'', with notes] at Watts' website</ref> citing the debunked hypothesis that clicks are good for hunting.<ref>Pennisi, E. 2004. ''The first language?'' Science 303: 1319-1320.</ref>
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Edward Elderkin (1978) 'Loans in Hadza: internal evidence from consonants'. ''Occasional Papers'' 3, Dar es Salaam.
+* Kirk Miller (2008) [https://www.academia.edu/36533859/Hadza_grammar_notes Hadza Grammar Notes.] ''3rd International Symposium on Khoisan Languages and Linguistics'', Riezlern.
+* ———— (2009) [https://www.academia.edu/36533860/Highlights_of_Hadza_Fieldwork Highlights of Hadza fieldwork.] ''LSA'', San Francisco.
+* Kirk Miller, ed., with Mariamu Anyawire, G.G. Bala, & Bonny Sands (2013) ''A Hadza Lexicon'' (ms).
+* Bonny Sands (1998) 'The Linguistic Relationship between Hadza and Khoisan'. In Schladt, Matthias (ed.) ''Language, Identity, and Conceptualization among the Khoisan'' (Quellen zur Khoisan-Forschung Vol. 15), Köln: Rüdiger Köppe, 265–283.
+* ———— (2013) 'Phonetics and phonology: Hadza', 'Tonology: Hadza', 'Morphology: Hadza', 'Syntax: Hadza'. In Rainer Vossen, ed., ''The Khoesan Languages''. Oxford: Routledge.
+* Bonny Sands, Ian Maddieson, Peter Ladefoged (1993) [https://www.academia.edu/17743030/The_phonetic_structures_of_Hadza The Phonetic Structures of Hadza.] ''UCLA Working Papers in Phonetics'' No. 84: ''Fieldwork Studies in Targeted Languages''.
+* A.N. Tucker, M.A. Bryan, and James Woodburn as co-author for Hadza (1977) 'The East African Click Languages: A Phonetic Comparison'. In J.G. Moehlig, Franz Rottland, Bernd Heine, eds, ''Zur Sprachgeschichte und Ethnohistorie in Afrika.'' Berlin: Dietrich Diener Verlag.
+
+==External links==
+*[http://www.glottopedia.org/index.php/Hadza Hadza at Glottopedia]
+*[https://web.archive.org/web/20041030211058/http://www.african.gu.se/maho/eball/samples/sample_w500.html Hadza bibliography]
+*[https://en.wiktionary.org/wiki/Category:Hadza_lemmas Hadza entries at Wiktionary]
+*[http://www.bec.ucla.edu/papers/Mountain_3-7-05_science.clicks.pdf ''Science'' article speculating on the status of clicks in the original human language (PDF file)]
+*[http://www2.ling.su.se/fon/perilus/2003_21.pdf A critical response to speculation about a primordial click language]
+* {{cite web |last=Ladefoged |first=Peter |author2=Maddieson, Ian |author3=Sands, Bonny  |title=Hadza |publisher=UCLA Phonetics Lab Archive |year=1991 |url=http://archive.phonetics.ucla.edu/Language/HTS/hts.html}} Hadza wordlist and sound files.
+* {{cite book |last=Sands |first=Bonny |author2=Maddieson, Ian |author3=Ladefoged, Peter  |chapter=The phonetic structures of Hadza |title=Fieldwork studies of targeted languages |series=UCLA working papers in phonetics |pages=67–87 |year=1993 |chapter-url=http://repositories.cdlib.org/uclaling/wpp/No84/}}
+* {{cite journal |last=Edenmyr |first=Niklas |title=The semantics of Hadza gender assignment: a few notes from the field |journal=Africa & Asia |pages=3–19 |issue=4 |publisher=Dept of Oriental and African languages, Göteborg University |location=Göteborg |year=2004 |url=http://www.african.gu.se/aa/pdfs/aa04003.pdf |archiveurl=https://web.archive.org/web/20070706040409/http://www.african.gu.se/aa/pdfs/aa04003.pdf |archivedate=2007-07-06 }}
+* {{cite conference |last=Blench |first=Roger |title=Hadza Animal Names |conference=3rd International Khoisan Workshop |location=Riezlern |date=7–9 July 2008 |url=http://www.rogerblench.info/Language%20data/Khoesan/Blench%20paper%20Riezlern%202008.pdf |archiveurl=https://web.archive.org/web/20110721180216/http://www.rogerblench.info/Language%20data/Khoesan/Blench%20paper%20Riezlern%202008.pdf |archivedate=21 July 2011 }}
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\hdz\hdz&limit=-1 Hadza basic lexicon at the Global Lexicostatistical Database]
+
+{{Languages of Tanzania}}
+{{Khoisan}}
+
+[[Category:Khoisan languages]]
+
+[[Category:Language isolates of Africa]]
+[[Category:Languages of Tanzania]]
+[[Category:Click languages]]
+[[Category:Verb–subject–object languages]]
+[[Category:Vowel-harmony languages]]

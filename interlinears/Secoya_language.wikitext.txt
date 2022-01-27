@@ -1,0 +1,795 @@
+{{Short description|Tucanoan language spoken in Ecuador and Peru}}
+{{Infobox language
+|name=Secoya
+|nativename=''Paikoka''
+|states=[[Ecuador]], [[Peru]]
+|region=[[Putumayo River]], [[Vaupés River]]
+|ethnicity=[[Secoya people]]
+|speakers={{sigfig|1230|2}}
+|date=2007
+|ref=e18
+|familycolor=American
+|fam1=[[Tucanoan languages|Tucanoan]]
+|fam2=Western
+|fam3=Napo
+|fam4=Siona–Secoya
+|iso3=sey
+|glotto=seco1241
+|glottorefname=Secoya
+|ELP=1752
+|ELPname=Baicoca-Siecoca (shared)
+}}
+'''Secoya''' (also Sieko Coca, Paicoca, Airo Pãi) is a Western [[Tucanoan language]] spoken by the [[Secoya people]] of [[Ecuador]] and [[Peru]]. 
+
+Included among the Secoya are a number of people called Angoteros. Although their language comprises only some dialectal differences of Secoya, there are no other communicative obstacles present. The [[Siona language|Siona]] of the Eno River, linguistically different from the Siona of the Putumayo, say there are significant dialectal differences between their language and Secoya, but are still considered a part of them. In ethnographic publications, the Secoya go by other alternate names as well: Encabellado, Pioje (meaning "no" in Secoya),<ref>Steward, Julian H., Western Tucanoan Tribes</ref> Santa Maria, and Angutera.<ref>Johnson, Orville E., Gramatica Secoya</ref>
+
+==Phonology==
+
+===Voiceless Stops===
+
+The [[Stop consonant|voiceless stops]] /p, t, k, kʷ/ are the same as Spanish, however the [[Aspirated consonant|aspiration]] is more articulated in Secoya. The phoneme /t/ is pronounced with the tip of the tongue making contact with the upper teeth. The velar-labialized /kʷ/ is pronounced similarly to /k/, but with rounding of the lips. The glottal stop /ʔ/ almost disappears when strong stress on the previous syllable does not occur.
+
+===Voiced Stops===
+
+In [[Intervocalic consonant|intervocalic]] context, the [[voiced stop]] /d/ is performed by the simple variant [r], equal to the Spanish intervocalic /r/. Nasal speech is performed with the nasal consonant [n].
+
+===Aspiration===
+
+The voiceless phonemes /sʰ/ and /h/ are both articulated in the [[Alveolar consonant|alveolar]] position, making them difficult to distinguish. The /s/ is pronounced a little harder and determines a dull elongation prior to an [[unstressed vowel]]. The phoneme /zʰ/ has some laryngeal stress and expresses the [[laryngealization]] on adjacent vowels.
+
+===Nasals===
+
+The [[nasal consonant]] /m/ is pronounced the same as in Spanish. The sound '''n''', which is phonemic in other Western Tucanoan languages, is contained in Secoya as a variant of the voiced stop /d/.
+
+===Glides===
+
+The [[Glides (linguistics)|glides]] /w/ and /y/ are almost equal to the vowels /u/ and /i/ respectively, but more tightly articulated. The /w/ resembles the ''hu'' in the Spanish "huevo". When it occurs at an adjacent nasal vowel, [w] becomes nasalized. The /y/ is pronounced almost like that in Spanish, but the Secoya articulate it with slightly more friction. When it occurs contiguous to a nasal vowel, the result becomes nasalized and sounds like the Spanish '''ñ'''.
+
+==Consonants & Vowels==
+
+=== Consonants ===
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Labial-velar consonant|Labial-Velar]]
+! [[Glottal stop|Glottal]]
+|- 
+! rowspan="2" | [[Plosive]]
+! {{small|Voiceless}}
+| {{IPA link|p}}
+| {{IPA link|t}}
+|
+| {{IPA link|k}}
+| {{IPA link|kʷ}}
+| {{IPA link|ʔ}}
+|- 
+! {{small|Voiced}}
+|
+| {{IPA link|d}}
+|
+|
+|
+|
+|- 
+! rowspan="2" | [[Aspirated consonant|Aspirated]]
+! {{small|Voiceless}}
+|
+| {{IPA link|sʰ}}
+|
+|
+|
+| {{IPA link|h}}
+|- 
+! {{small|Voiced}}
+|
+| {{IPA link|zʰ}}
+|
+|
+|
+|
+|- 
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+|
+|
+|
+|
+|
+|- 
+! colspan="2" | [[Glides (linguistics)|Glide]]
+|
+|
+| {{IPA link|j}} {{grapheme|y}}
+|
+| {{IPA link|w}}
+|
+|}
+
+=== Vowels ===
+
+Back vowels are made with rounded lips and the others are made with non-rounded lips.
+
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}}
+| {{IPA link|ɨ}}
+| {{IPA link|u}}
+|-
+! [[Low vowel|Low]]
+| {{IPA link|e}}
+| {{IPA link|a}}
+| {{IPA link|o}}
+|}
+
+==Morphology==
+
+===Nouns===
+
+The noun in Secoya is distinguished, in most forms, through the general category and the specific unit. The basic form of a noun, without suffixes, indicates the general category (men, children, canoes, stones, eggs, etc.) without specifying a definite number of elements. To indicate the singular or plural, that is, a number of specific elements, suffix classifiers (in the case of inanimate nouns) or gender suffixes (in the case of animate nouns) are added. To indicate a definite number of inanimate objects, a plural suffix is added to a noun. When the word refers to a number of specific elements, we use the definite article in the Spanish translation. However, it can also be translated with the indefinite article.
+
+{| class="wikitable" style="text-align: center;"
+| align="center" style="background:#f0f0f0;"|'''Category (General)'''
+| align="center" style="background:#f0f0f0;"|
+| align="center" style="background:#f0f0f0;"|'''Unit (Specific)'''
+| align="center" style="background:#f0f0f0;"|
+| align="center" style="background:#f0f0f0;"|'''Units (Specific)'''
+|-
+| '''pa̱i'''||||'''pa̱i-o'''||||'''pa̱i-o hua'i'''
+|-
+| "person"||||"person, woman" (f) ||||"people" (f)
+|-
+| ||||||||
+|-
+| '''tse̱'a'''||||'''tse̱'a-quë'''||||'''tse̱'a-co hua'i'''
+|-
+| "owners"||||"owner" (m)||||"owners" (m)
+|-
+| ||||||||
+|-
+| '''yo'''||||'''yo-huë'''||||'''yo-huë-a'''
+|-
+| "canoe"||||"canoe" (f)||||"canoes" (f)
+|-
+| ||||||||
+|-
+| '''quëna'''||||'''quëna-me'''||||'''quëna-me-a̱'''
+|-
+| "wire"||||"wire" (m)||||"wires" (m)
+|-
+| ||||||||
+|-
+| '''huea'''||||'''huea-pa'''||||'''huea-pa-a̱'''
+|-
+| "corn"||||"cornfield" (m)||||"cornfields" (m)
+|-
+| ||||||||
+|-
+| '''hue̱quë'''||||'''hue̱quë-o'''||||'''hue̱quë-o hua'i'''
+|-
+| "tapir"||||"tapir, female" (f)||||"tapirs"(f)
+|}
+
+===Animate Nouns===
+
+====Animals====
+
+The nouns denoting animals appear in their basic form without suffix to indicate the generic type. To indicate the singular, the suffix ''-e'' or ''-o'' is added. To form the plural noun, the [[Specifier (linguistics)|specifier]] ''hua'i''  is added to any of the two forms.
+
+====Supernatural and Spiritual====
+
+The nouns denoting supernatural beings and celestial bodies appear in their basic form to indicate both the generic as the singular. To form the plural, add ''-o'' and ''hua'i''. All of these beings appear as characters in the [[Animism|animistic]] legends of the Secoya.
+
+==Person/Number/Gender==
+
+=== Person ===
+
+The nouns denoting people typically lead gender suffixes with a masculine or feminine singular. To form the plural noun, the [[Specifier (linguistics)|specifier]] ''hua'i'' is added. The nouns whose basic form is a verb or adjective gender carry the suffix ''-ë'' for singular masculine or ''-o'' for singular female. After the vowel /o/, the masculine ending becomes ''-u'' and after the vowels /e/ and /i/, becomes ''-i''. (If both vowels are identical, the vowel is reduced to one)
+
+=== Number ===
+
+The number describes the head noun in the same way it does the adjective. Their order in the noun phrase is before the adjective, when both appear.
+
+{| class="wikitable" style="text-align: center;"
+|+ Cardinal Numbers
+|- 
+! te'i
+| one (m)
+|- 
+! te'o
+| one (f)
+|- 
+! te'e
+| one (inanimate)
+|- 
+! caya
+| two
+|- 
+! toaso̲
+| three
+|- 
+! cajese'e
+| four
+|- 
+! te'e jë̱të
+| five
+|- 
+! si'a jë̱-ña
+| ten (Lit: on both hands)
+|}
+
+{{interlinear|indent=3
+| Te'e hua'ti-re pa-yë'
+| one machete-cd have-PRES
+| "I have a machete"}}
+
+{{interlinear|indent=3
+| Caya naso hua'i-re huaë-'ë.
+| two {woolly monkeys} PL-cd kill-PAS
+| "I killed two woolly monkeys."}}
+
+{{interlinear|indent=3
+| Si'a jë̱-ña huë-ña pa-ji'i.
+| all hand-PL house-PL {to be-PAS.3SG.M}
+| "I had ten houses"}}
+
+To emphasize a number, express the same grammatical agreement suffix classifiers in the case of the adjective.
+
+{{interlinear|indent=3
+| Toaso̲-ño-a̱ so̲quë-ño-a̱-re cua̱cue daë-'ë.
+| three-CL.NOM-PL árbol-CL.NOM-PL-cd load {to come-pas}
+| "They came carrying beams, three."}}
+
+The noun that the number describes can be suppressed when the context permits.
+
+{{interlinear|indent=3
+| Yë'ë tsi̱ te'i maca-pi oi-quë ñu-ji'i
+| my child one.M single-sj cry.fz.m sitting-PAS.3SG.M
+| "Of my children, one sat crying."}}
+
+{{interlinear|indent=3
+| Si'a hua'i saĕ-'ĕ. Sa-ni, caya hua'i-re huaĕ-'ĕ
+| all PL go-PAS go-sec, two PL-cd kill-PAS
+| "We all went and killed two (animals)."}}
+
+=== Gender ===
+
+{| class="wikitable" style="text-align: center;"
+| align="center" style="background:#f0f0f0;"|'''General'''
+| align="center" style="background:#f0f0f0;"|
+| align="center" style="background:#f0f0f0;"|'''Masculine'''
+| align="center" style="background:#f0f0f0;"|
+| align="center" style="background:#f0f0f0;"|'''Feminine'''
+| align="center" style="background:#f0f0f0;"|
+| align="center" style="background:#f0f0f0;"|'''Plural'''
+|-
+| ||||||||||||
+|-
+| '''yo'je (verb)'''||||'''yo'je-i'''||||'''yo'je-o'''||||'''yo'je-o hua'i'''
+|-
+| "to be back"||||"little brother"||||"little sister"||||"little brothers"
+|-
+| ||||||||||||
+|-
+| '''ai (adj.)'''||||'''ai (-i)'''||||'''ai-o'''||||'''ai-o hua'i'''
+|-
+| "old"||||"old man"||||"old woman"||||"old men"
+|-
+| ||||||||||||
+|-
+| '''huano (adj.''')||||'''huano-u'''||||'''huano-o'''||||'''huano-o hua'i'''
+|-
+| "old"||||"old man"||||"old woman"||||"old men"
+|-
+| ||||||||||||
+|-
+| '''esa (adj.)'''||||'''esa-ë'''||||'''esa-o'''||||'''esa-o hua'i'''
+|-
+| "fast"||||"rapid"||||"rapid"||||"rapids"
+|-
+| ||||||||||||
+|-
+| '''jo'ya (adj.)'''||||'''jo'ya-ë'''||||'''jo'ya-o'''||||'''jo'ya-o hua'i'''
+|-
+| "domesticated"||||"domesticated male dog"||||"domesticated female dog"||||"domesticated male dogs"
+|}
+
+==Classification==
+
+===Suffix Classifiers===
+
+The suffix classifiers indicate, besides the idea of a specific unit, the form or function of the object, conceptualized by the Secoya perspective.
+
+{|  
+!  rowspan="4" | -hua
+!  colspan="3" | "something that has a defined edge"
+|- 
+|  rowspan="2" | <br>
+| ja'o-hua
+| "blade"
+|- 
+| ta̱ta-hua
+| "shoulder"
+|}
+
+{|  
+!  rowspan="2" | -hue
+!  colspan="3" | (a variation of the above -hua)
+|- 
+|  rowspan="2" | <br>
+| yëru-hue
+|  colspan="2" | "shore"
+|}
+
+{|  
+!  rowspan="4" | -huë
+!  colspan="3" | "something with something inside"
+|- 
+|  rowspan="2" | <br>
+| yaca-huë
+|  colspan="2" | "something with a gap inside"
+|- 
+| jëo-huë
+|  colspan="2" | "blowgun"
+|}
+
+{|  
+!  rowspan="4" | -me
+!  colspan="3" | "something in the form of a line"
+|- 
+|  rowspan="2" | <br>
+| yëi-me
+|  colspan="2" | "rope" (Lit: "kapok rope")
+|- 
+| quëna-me
+|  colspan="2" | "wire" (Lit: "metal wire")
+|}
+
+{|  
+!  rowspan="5" | -mo
+!  colspan="4" | "something long, cylindrical and flexible"
+|- 
+| ji̱co-mo
+|  colspan="3" | "tail (of a tiger)"
+|- 
+| pi̱si-mo
+|  colspan="3" | "thick vine"
+|}
+
+{|  
+!  rowspan="5"| -ñë
+!  colspan="4" | "something with permanent roots"
+|- 
+| 
+| so̲quë-ñë
+|  colspan="3" | "tree"
+|- 
+| 
+| co̲sa-ñë
+|  colspan="3" | "Milpeso palm"
+|}
+
+{|  
+!  rowspan="3" | -pa
+!  colspan="2" | "something that has a flat plane"
+|- 
+| ya'ri-pa
+| "leaf of a conambo palm"
+|- 
+| ca̱i-pa
+| "coconut matting (to sleep on)"
+|}
+
+{|  
+!  rowspan="2" | -pe
+!  colspan="2" | "something with undefined form or function"
+|- 
+| hui'ya-pe
+|  colspan="1" | "fat"
+|}
+
+{|  
+!  rowspan="2" | -pë
+!  colspan="2" | "something with a round form, shows a bulge
+|- 
+| si̱o-pë
+|  colspan="2" | "forehead"
+|}
+
+{|  
+!  rowspan="3" | -po
+!  colspan="3" | "something with shade above or the appearance of a cave"
+|- 
+| yi'o-po
+|  colspan="1" | "mouth"
+|- 
+| ya'huë sëti sa'a-po
+|  colspan="1" | "posterior"
+|}
+
+{|  
+! -ra
+!  colspan="1" | "lagoon"
+|- 
+| 
+| cuya-ra
+| colspan="3" | "pond to bathe (tapir)"
+|- 
+| 
+| hua'i-ra
+|  colspan="3" | "lagoon with fish"
+|}
+
+{|  
+! –rë
+!  colspan="4" | "something made with mesh"
+|- 
+| 
+| hua̱te-rë
+|  colspan="3" | "knapsack"
+|- 
+| 
+| ja̱ë-rë
+|  colspan="3" | "hammock"
+|}
+
+{|  
+!  rowspan="2" | -rí
+!  colspan="1" | "surface"
+|- 
+| ca'i-rí
+|  colspan="3" | "slippery surface"
+|}
+
+{|  
+! rowspan="3" | -ro
+!  colspan="4" | "something concave"
+|- 
+| quëna-ro
+|  colspan="3" | "metal pot"
+|- 
+|  colspan="2" | soto-ro
+|  colspan="2" | "clay pot"
+|}
+
+{|  
+!  rowspan="3" | -se̱'e
+!  colspan="1" | "something which hooks or attaches"
+|- 
+| yo-se̱'e
+|  colspan="2" | "adze (used to carve a canoe)"
+|- 
+|  colspan="2" | se̱'que-se̱'e
+|  colspan="2" | "fish hook"
+|}
+
+{|  
+!  rowspan="3" | -ya
+!  colspan="1" | "river, ravine"
+|- 
+| tsia-ya
+|  colspan="3" | "river (Lit: surface of a river)"
+|- 
+|  colspan="2" | sao-ya
+|  colspan="2" | "fast flowing river"
+|}
+
+{|  
+!  rowspan="3" | -yo
+!  colspan="4" | "something long, thin, and rigid"
+|- 
+| sehua-yo
+|  colspan="3" | "the rod of a yarina palm"
+|- 
+| colspan="2" | hua̱so-yo
+| colspan="2" | "beam"
+|}
+
+===Nouns that function as classifiers===
+
+The following inanimate nouns can be freeform in some contexts and can also describe the form or function of an inanimate noun.
+
+{|  
+!  rowspan="4" | ca̱
+!  colspan="4" | "seed, something small and round"
+|- 
+| ora ca̱
+|  colspan="3" | "chontaduro seed"
+|- 
+|  colspan="2" | ne'e ca̱
+|  colspan="2" | "canangucho palm seed"
+|- 
+|  colspan="2" | huea ca̱
+|  colspan="2" | "corn seed"
+|}
+
+{|  
+!  rowspan="3" | to̱to
+!  colspan="4" | "slab, flat surface"
+|- 
+| pë'ë si̱&nbsp;to̱to
+|  colspan="3" | "flat surface of an alligator head"
+|- 
+|  colspan="2" | so̱quë to̱to
+|  colspan="2" | "buttress"
+|}
+
+===Inanimate nouns without classifiers===
+
+Some inanimate nouns never appear with a suffix classifier; in this case the sense of generality or unit is inferred from the context. However, an adjective or another attribute can change them.
+
+{|  
+! huë'e
+| "house"
+|- 
+! tsio
+| "seed"
+|- 
+! ma'a
+| "road"
+|- 
+! hua'ti
+| "machete"
+|}
+
+==Space==
+
+Locatives are formed by adding to a basic form, whether it's a noun, verb, adverb, demonstrative, or other, to one of the suffixes indicating space or time.
+
+===Locative Suffix -ro===
+
+The locative suffix '''-ro''' "place" means a point or region. They don't appear with nouns, but with other grammatical forms to form a noun.
+
+{|  
+| ai (adverb)
+| "vastly"
+| ai-ro
+| "the vast place"
+|- 
+| jaso (trans. verb)
+| "shoot"
+| jaso-ro
+| "the place to shoot"
+|- 
+| ti̱ (demonstrative)
+| "other"
+| ti̱-ro
+| "other place"
+|}
+
+===Locative Suffix -ja̱'a===
+
+Locative suffix '''-ja̱'a''' "about, near" describes the relationship of a locative component.
+
+{|  
+| ma'a
+| "way"
+| ma'a-ja̱'a
+| "along the way"
+|- 
+| ai-ro
+| "mountain"
+| ai-ro-ja̱'a
+| "by the mountain"
+|- 
+| yëru-hue
+| "shore"
+| yëru-hue-ja̱'a
+| "near the shore"
+|}
+
+===Demonstratives===
+
+The demonstrative pronoun '''ja''' "that" occurs with suffixes classifiers, local or temporary, to refer to an object, place or time.
+
+{|  
+| ja̱-pë
+| "that object with a round or bulging form"
+|- 
+| ja̱-huë
+| "that object that holds or has something in it"
+|- 
+| ja̱-ñë
+| "that object that has permanent roots"
+|}
+
+The demonstrative pronoun '''iye''' "this" occurs with suffix classifiers, local and temporary, as with the separate '''hua'i''' for plural words and '''maca''' to refer to a person, place, thing. These refer to a specific previously defined nominal element. When a gender suffix is added, the form of the pronoun is uses '''i-'''.
+
+{|  
+| i-yo
+| "this long, cylindrical, and rigid thing"
+|- 
+| ja̱-huë
+| "this river"
+|- 
+| ja̱-ñë
+| "this woman"
+|}
+
+==Time==
+
+===Tense===
+
+There are times for all people and genders, distinguished in the declarative modes of involvement perspective: the present, the immediate past, the distant past and future. The immediate past is not so much of recent events, but events that the speaker considers to be important in the present. It is distinguished by the immediate past speaker who considers unimportant events in the present. That is, they are already forgotten or outdated events.
+
+{| class=wikitable 
+!
+! Present
+! Immediate Past
+! Distant Past
+! Future
+|- 
+! 3sg.m
+| -ji
+| -pi/-ji'i
+| -a̱'-ji'i
+| -sipi
+|- 
+! 3sg.f
+| -co
+| -co/-co'ë
+| -a̱'-co'ë
+| -sio
+|- 
+! other
+| -yë
+| -huë/-'e
+| -a̱'-huë'ë
+| -si'i
+|}
+
+The following examples demonstrate the present and immediate past tense and use the root '''caje''' "down".
+
+{{interlinear|indent=3
+| Tsia-ya-na caje-ji
+| río-CL.NOM-DES bajar-PRES.3SG.M
+| "He's down the river."}}
+
+{{interlinear|indent=3
+| Tsia-ya-na caje-pi
+| río-CL.NOM-DES bajar-IMM.3SG.M
+| "He went down the river."}}
+
+This next example demonstrates the immediate past tense when the basic form of the verb ends in [í] or [ʔí]. It uses the root '''sa'i''' "go".
+
+{{interlinear|indent=3
+| Tsia-ya-na sa-ji'í
+| río-CL.NOM-DES bajar-IMM.3SG.M
+| "He went down the river"}}
+
+This example demonstrates the distant past. This category is pointed out with the suffix '''-a̱'-''' after the basic form of the verb.
+
+{{interlinear|indent=3
+| Tsia-ya-na  caje-a̱'-ji'í
+| río-CL.NOM-DES bajar-DISTANT.3SG.M
+| "He's already down the river"}}
+
+This example demonstrates future tense.
+
+{{interlinear|indent=3
+| Tsia-ya-na caje-sipi
+| río-CL.NOM-DES bajar-FUT.3SG.M
+| "He will go down the river"}}
+
+==Modality==
+
+===Potential Suffix===
+
+The potential suffix is demonstrated by the addition of '''-ja̱i''' on the basic form of the verb. It has the variants '''-ja̱'''' and '''-ja̱''' and indicates that the event is to take place.
+
+{{interlinear|indent=3
+| hue'o-ja̱i-jë̱'ë
+| cargar-POT-imp
+| "I'm going to load it."}}
+
+{{interlinear|indent=3
+| quërë-ja̱-'a̱-huë'ë
+| arrastrar-POT-rem-pos
+| "We will drag it."}}
+
+===Irrealis Suffix===
+
+The irrealis suffix is demonstrated by the addition of '''-ra'''' on the basic form of the verb. It indicates that the event has not been performed. It's never used with the present or future tense.
+
+{{interlinear|indent=3
+| Sai-co hua'i pa-ni yëquë ti̱'a-ra'-huë
+| ir-fz PL estar-sec nos.EXCL llegar-IRR-PAS
+| "If we were marching, we would come."}}
+
+{{interlinear|indent=3
+| De'o-co pa'i-to yë'ë-pi huero-ra'-huë
+| ser.bueno-fz.F ser-si yo-sj comprar-IRR-PAS
+| "If it had been in good condition (canoe), I would've bought it."}}
+
+===Obligative Suffix===
+
+The obligative suffix is demonstrated by the addition of '''-ti̱''' to the basic form of the verb and indicates an urgency to perform the action. It can be coupled with the '''-ra'''' irrealis suffix.
+
+{{interlinear|indent=3
+| Dai-si-co hua'i pa-ni naso-re hua-ti̱-ra'-huë
+| venir-cto-fz PL estar-sec chorongo-cd matar-OBL-IRR-PAS
+| "If they had come, we would surely have killed the woolly monkeys."}}
+
+{{interlinear|indent=3
+| Toaso̲ jaso-huë-a̱-pi hua-ni je̱o-ja̱-ti̱-ra'-huë
+| tres escopeta-CL.NOM-PL-con matar-sec finalizar-POT-OBL-IRR-PAS
+| "With three shotguns we will surely kill them off completely."}}
+
+==Predicates and Arguments==
+
+===Pe'o===
+{{interlinear|indent=3
+| pe'o -o
+| {not be.LOC} PFV.3SG.F
+| "There was none"}}
+
+===Peo'ji===
+{{interlinear|indent=3
+| p'eo -ji
+| {not have} IPFV.3SG.M
+| "He didn't have"}}
+
+==Obliques==
+The use of the oblique case markers in Secoya is not very complex. The oblique case suffixes ''-na'', ''-hã-ã'', and ''-hã’de'' are used to express specific grammatical relations. The first oblique case suffix ''-na'' expresses the spatial relation of goal, ''-hã-ã'' marks objects expressing a path, and -''hã’de'' marks accompaniment.
+
+==Grammatical Case==
+Unlike Andean languages ([[Quechuan languages|Quechua]], [[Aymara language|Aymara]]), which mark nominative, accusative, dative, and genitive cases, Amazonian languages like Secoya are limited to locative and instrumental/comitative cases. Enclitics are used to indicate grammatical case and the following suffixes indicate the nominal items that are linked to it.
+
+===-pi (source of action, agent)===
+{{interlinear|indent=3
+|Ëja-o hua'i-pi yë'e-ni de'o-ye sehuo-caë-'ë
+|head-nf PL-sj me-cd be.good-pp.nf answer-bto-PAS
+|"The headmen answered me"}}
+
+===-ni (movement to an animate object)===
+{{interlinear|indent=3
+|Yë'ë pa-co-ni oca-na sao-huë
+|mi wife-fz.F-cd rio.down-DES send-PAS
+|"My wife would send us downstream."}}
+
+===-na (destination)===
+{{interlinear|indent=3
+|Yë'ë ja'quë  do'i-na moto-pë-re huero-huë
+|my father account-DES engine-CL.NOM-cd purchase-PAS
+|"Charge the engine to my father's account"}}
+
+===-re/-té (reference)===
+{{interlinear|indent=3
+|Noca yo-huë-na aya-huë
+|bananas.cd canoe-CL.NOM-DES add.in-PAS
+|"I put bananas in the canoe."}}
+
+==Endangerment==
+The Ecuadorian-Peruvian War in 1941 had a great impact on the life of the Secoya after it created a separation of the local groups by splitting up the region. This division resulted in the obsolescence of many customs and traditions that were once prevalent in their culture. In the early 1970s, the Texaco and Gulf oil companies converged on Ecuador when massive petroleum reserves were discovered underground. The extensive periods of oil drilling ravaged many of their settlement areas, culminating in disastrous ecological problems like water and soil contamination. Even today, the Secoya still face many problems involving geopolitical feuds, harassment by oil companies, and the colonization and assimilation of Mestizo culture. The language status of the Siona-Secoya group is threatened, with only 550 speakers in Ecuador and 680 in Peru.
+
+==Notes==
+{{Reflist}}
+
+==References==
+* [[Orville E. Johnson|Johnson, Orville E.]].  (1990). Gramatica secoya (Ed. limitada, 1. ed.). Quito, Ecuador: Inst. Lingüístico de Verano.
+
+== External links ==
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0327 Documentation of Ecuadorian Secoya]
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+IMM:immediate past
+DISTANT:distant past
+OBL:obligative
+DES:destination
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Tucanoan languages}}
+{{Languages of Ecuador}}
+{{Languages of Peru}}
+
+[[Category:Tucanoan languages]]
+[[Category:Languages of Ecuador]]
+[[Category:Languages of Peru]]

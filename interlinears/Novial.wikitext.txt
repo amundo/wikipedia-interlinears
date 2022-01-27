@@ -1,0 +1,523 @@
+{{short description|Constructed language}}
+{{Infobox language
+|name=Novial
+|nativename=''novial''
+|image=Flag of Novial.svg
+|imagesize=150px
+|creator=[[Otto Jespersen]]
+|created=1928
+|setting=[[international auxiliary language]]
+|fam2=[[international auxiliary language]]
+|posteriori=[[Romance languages|Romance]] and [[Germanic languages]]; also [[Interlingue]] and [[Ido (language)|Ido]]
+|iso3=nov
+|linglist=nov
+|lingua=51-AAB-dc
+|glotto=novi1234
+}}
+
+'''Novial'''{{efn|blend of {{lang|nov|novi}} (new) + {{abbr|IAL|international auxiliary language}}}} is a [[constructed language|constructed]] [[international auxiliary language]] (IAL) for universal communication between speakers of different [[native language]]s.  It was devised by [[Otto Jespersen]], a [[Denmark|Danish]] [[linguistics|linguist]] who had been involved in the [[Ido (language)|Ido]] movement, and later in the development of [[Interlingua]].
+
+Its vocabulary is based largely on the [[Germanic languages|Germanic]] and [[Romance languages]] and its grammar is influenced by [[English language|English]].
+
+Novial was introduced in Jespersen's book ''An International Language'' in 1928.<ref name=Jesp>{{cite web|access-date=2020-04-03|title=An International Language - Otto Jespersen|url=http://www.feedbooks.com/userbook/14934|archive-url=https://web.archive.org/web/20180821115704/http://www.feedbooks.com/userbook/14934|archive-date=2018-08-21|website=www.feedbooks.com}}</ref> It was updated in his dictionary ''Novial Lexike'' in 1930,<ref>{{cite web|access-date=2020-04-03|title=Novial Lexike|url=http://www.blahedo.org/novial/nl.html|website=www.blahedo.org}}</ref> and further modifications were proposed in the 1930s, but the language became dormant with Jespersen's death in 1943.<ref>{{cite web|access-date=2020-04-03|title=Novial language, alphabet and pronunciation|url=https://www.omniglot.com/writing/novial.htm|website=www.omniglot.com}}</ref> In the 1990s, with the revival of interest in constructed languages brought on by the [[Internet]], some people rediscovered Novial.
+
+== Phonology ==
+=== Consonants ===
+{|class="wikitable" style="text-align:center"
+|-
+! colspan=2 |
+! [[Labial consonant|Labial]]
+! [[Coronal consonant|Coronal]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]/[[Glottal consonant|Glottal]]
+|-
+! colspan=2 | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| 
+| ({{IPAlink|ŋ}})
+|-
+! rowspan=2 | [[Plosive]]/<br>[[Affricate]]
+! {{small|[[Voiceless consonant|Voiceless]]}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|tʃ}}
+| {{IPAlink|k}}
+|-
+! {{small|[[Voiced consonant|Voiced]]}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|dʒ}}
+| {{IPAlink|ɡ}}
+|-
+! rowspan=2 | [[Fricative]]
+! {{small|[[Voiceless consonant|Voiceless]]}}
+| {{IPAlink|f}}
+| {{IPAlink|s}}
+| {{IPAlink|ʃ}}
+| {{IPAlink|h}}
+|-
+! {{small|[[Voiced consonant|Voiced]]}}
+| {{IPAlink|v}}
+| 
+| ({{IPAlink|ʒ}})
+|
+|-
+! colspan=2 | [[Approximant]]
+| ({{IPAlink|w}})
+| {{IPAlink|l}}
+| {{IPAlink|j}}
+|
+|-
+! colspan=2 | [[Rhotic consonant|Rhotic]]
+|
+| {{IPAlink|r}}
+|
+|
+|}
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+|-
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPAlink|i}}
+| {{IPAlink|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPAlink|e}}
+| {{IPAlink|o}}
+|-
+! [[Open vowel|Open]]
+| colspan=2 | {{IPAlink|a}}
+|}
+
+===Stress===
+The basic rule is: stress the vowel before the last consonant. However, consonantal flexional endings (ie. '''''-d''''', '''''-m''''', '''''-n''''', '''''-s''''') do not count for this (eg. "bóni" but "bónim", not "boním"; "apérta" but "apértad", not "apertád") so perhaps it is better to say that the vowel before the final consonant of the stem takes the stress.<ref>{{cite web|access-date=2020-05-19|title=Novial Pronunciation and Spelling systems|url=http://www.blahedo.org/novial/spelling.html|website=www.blahedo.org}}</ref>
+
+==Orthography==
+{|class="wikitable" style="text-align:center; table-layout:fixed"
+|+ Novial alphabet
+|-
+![[Upper case]]
+|[[A]]||[[B]]||[[C]]||[[D]]||[[E]]||[[F]]||[[G]]||[[H]]||[[I]]||[[J]]||[[K]]||[[L]]||[[M]]||[[N]]||[[O]]||[[P]]||[[Q]]||[[R]]||[[S]]||[[T]]||[[U]]||[[V]]||[[X]]||[[Y]]||[[Z]]
+|-
+![[Lower case]]
+|a||b||c||d||e||f||g||h||i||j||k||l||m||n||o||p||q||r||s|||t||u||v||x||y||z
+|-
+![[International Phonetic Alphabet|IPA]] [[phonemes]]
+|{{IPAlink|a}}
+|{{IPAlink|b}}
+|style="background-color:#fcc"|{{IPAlink|k}}, {{IPAlink|s}} et al.{{efn|name=note1|Only used on loanwords.}}
+|{{IPAlink|d}}
+|{{IPAlink|e}}
+|{{IPAlink|f}}
+|{{IPAlink|g}}
+|{{IPAlink|h}}
+|{{IPAlink|i}}
+|style="background-color:#fcc"|{{IPAlink|dʒ}}, {{IPAlink|ʒ}}
+|{{IPAlink|k}}
+|{{IPAlink|l}}
+|{{IPAlink|m}}
+|{{IPAlink|n}}
+|{{IPAlink|o}}
+|{{IPAlink|p}}
+|style="background-color:#fcc"|{{IPAlink|k}}{{efn|Only used on the ''qu'' digraph.}}
+|{{IPAlink|r}}
+|{{IPAlink|s}}
+|{{IPAlink|t}}
+|{{IPAlink|u}}
+|{{IPAlink|v}}
+|style="background-color:#fcc"|ks, gz
+|style="background-color:#fcc"|{{IPAlink|j}}, {{IPAlink|ʝ}}
+|style="background-color:#fcc"|{{IPAlink|ts}}, {{IPAlink|z}} et al.{{efn|name=note1}}
+|}
+
+The digraphs ''[[Ch (digraph)|ch]]'' and ''[[Sh (digraph)|sh]]'' represent {{IPAblink|t͡ʃ}} or {{IPAblink|ʃ}}, depending on the speaker. For example, ''chokolate'' would be pronounced either {{IPA|/t͡ʃokoˈlate/}} or {{IPA|/ʃokoˈlate/}}.<ref name=Jesp/>
+
+==Grammar==
+Like many constructed IALs, Novial has a simple and regular grammar. The main [[word order]] is [[Subject–verb–object|SVO]], which removes the need for marking the object of a sentence with accusative (since the position normally tells what word is the object). There is however a way to mark accusative. There is no grammatical gender (but the sex or gender of referrents can be marked). Verbs are not conjugated according to person or number, and have a regular conjugation.
+
+Nouns mainly end in '''e, a, o, u''' or '''um''' in singular. There is definite forms of nouns marked with an article, and singular and plural forms, where plural is marked with the suffix -s after vowels or -es after consonants. There is also a form for indefinite number (like in Mandarin chinese and Japanese, for example), expressed by removing the ending of the noun in singular (''leone'' – lion, ''leon es kruel'' – a/the lion is cruel, or lions are cruel).<ref>Jespersen, O: ''[https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8342993&order=1&view=SINGLE An International Language]'' (p. 89)</ref>
+
+If a noun refers to a living being, then the form ending in '''-e''' is neutral in regards to sex, the one ending in '''-a''' female, and the one ending in '''-o''' male. If the noun is based on an adjective, nouns referring to living beings can be made with the previously mentioned rule, and furthermore nouns referring to concrete objects with '''-u''', and abstractions with '''-um'''. The third person pronouns follows the same rule, together with the definite article.
+
+In the case of a noun that refers to an instrument – a tool or a means – the word that ends in '''-e''' is the tool or the means itself, '''-a''' the verb describing usage of the tool and so on, and '''-o''' the noun describing the act<ref>Jespersen, O: ''[https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8342993&order=1&view=SINGLE An International Language]'' (pp. 124, p. 126)</ref> of that using:
+
+{{interlinear|indent=3
+|rule – rula – rulo
+|roll – {(to) roll} – {(a) rolling}
+|}}
+
+{{interlinear|indent=3
+|mesure – mesura – mesuro
+|{measure (the tool)} – {(to measure)} – measurement
+|}}
+
+===Personal pronouns, subject and object===
+{| class="wikitable"
+|-
+! colspan="2" | Singular
+! colspan="2" | Plural
+|-
+! I
+| me
+! we
+| nus
+|-
+! you
+| vu
+! you
+| vus
+|-
+! common,<br /> she, he
+| le, la, lo
+! rowspan="2" | they
+| les, las, los
+|-
+! it
+| lu, lum
+| lus
+|}
+The standard [[word order]] in Novial is subject-verb-object, as in English. Therefore, the object need not be marked to distinguish it from the subject, and nominative (I, he, she and so on) and oblique (me, him, her) pronouns are identical:
+
+{{interlinear|indent=3
+|me observa vu
+|I observe you
+|}}
+
+{{interlinear|indent=3
+|vu observa me
+|you observe me
+|}}
+
+The accusative (direct object) is therefore most often identical to the nominative (subject). However, in case of an ambiguity problem, an optional accusative ending, '''-m''' ('''-em''' after a consonant), is available but is rarely used. The preposition '''em''' is equivalent to this ending.{{dubious|J discusses the preposition em as an idea, but is it really included?|date=October 2020}}
+
+The personal possessive adjectives are formed from the pronouns by adding '''-n''' or after a consonant '''-en'''. This is in fact the genitive (possessive) of the pronoun so ''men'' means both "my" and "mine" ("of me"):
+
+{{interlinear|indent=3
+|Men hunde
+|My dog
+|}}
+
+{{interlinear|indent=3
+|Li hunde es men
+|The dog is mine
+|}}
+
+The possessive pronouns are thus '''men, vun, len''' etc., '''lun''' and '''nusen, vusen, lesen''' etc. and '''lusen'''. Possession may also be expressed with the preposition '''de:''' ''de me'', ''de vu'', and so on.
+
+The reflexive pronoun is '''se:''' ''lo admira se'' – he admires himself.<ref>Jespersen, O: ''[https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8342993&order=1&view=SINGLE An International Language]'' (p. 90, 109)</ref> The impersonal pronoun one (one/they/you) is '''on''', with the possessive form '''onen.'''
+
+===Verbs===
+Verb forms never change with person or number. Most verb tenses, moods and voices are expressed with auxiliary verbs preceding the root form of the main verb. The auxiliaries follow the same word order as the English equivalent. The following phrases give examples of the verb forms:
+
+{| class="wikitable"
+|-
+! Grammar
+! English
+! Novial
+|-
+| Infinitive
+| to protect
+| protekte
+|-
+| Present
+| I protect
+| me protekte
+|-
+| Present Perfect
+| I have protected
+| me ha protekte
+|-
+| Simple Past
+| I protected
+| me did protekte '''or''' me protekted
+|-
+| Past Perfect
+| I had protected
+| me had protekte
+|-
+| Future
+| I shall protect '''or''' I will protect
+| me sal protekte '''or''' me ve protekte
+|-
+| Future Perfect
+| I shall have protected '''or''' I will have protected
+| me sal ha protekte '''or''' me ve ha protekte
+|-
+| Future In The Past
+| I was going to protect
+| me saled protekte
+|-
+| Conditional
+| I would protect
+| me vud protekte
+|-
+| Conditional Perfect
+| I would have protected
+| me vud ha protekte
+|-
+| First Imperative
+| Let me protect!
+| Let me protekte!
+|-
+| Second Imperative
+| protect!
+| protekte!
+|}
+
+* Present active participle: ''protektent'' – "protecting"
+* Past passive participle: ''protektet'' – "protected"
+
+Novial clearly distinguishes the passive of becoming and the passive of being.  In English the forms are often the same, using the auxiliary verb ''to be'' followed by the past participle. However, the passive of becoming is also often expressed with the verb ''to get'' which is used in the examples below.
+
+The passive voice of becoming is formed with the auxiliary '''bli''' followed by the root verb form. It can then be conjugated into the previously mentioned forms, for example:
+
+{| class="wikitable"
+|-
+! Grammar
+! English
+! Novial
+|-
+| Infinitive
+| to get protected
+| bli protekte
+|-
+| Present
+| I get protected
+| me bli protekte
+|-
+| Present Perfect
+| I have got protected
+| me ha bli protekte
+|-
+| Simple Past
+| I got protected
+| me blid protekte
+|-
+| Past Perfect
+| I had got protected
+| me had bli protekte
+|-
+| Future
+| I shall get protected '''or''' I will get protected
+| me sal bli protekte '''or''' me ve bli protekte
+<!-- |-
+| Future Perfect
+| I shall have got protected '''or''' I will have got protected
+| me sal ha bli protekte '''or''' me ve ha bli protekte
+|-
+| Future In The Past
+| I was going to get protected
+| me saled bli protekte
+-->|-
+| Conditional
+| I would get protected
+| me vud bli protekte
+<!--|-
+| Conditional Perfect
+| I would have got protected
+| me vud ha bli protekte
+|-
+| First Imperative
+| Let me get protected!
+| Let me bli protekte!
+|-
+| Second Imperative
+| get protected!
+| bli protekte!-->
+|}
+
+The passive voice of being is formed with the auxiliary '''es''' followed by the past passive participle (stem + -t). For example:
+
+{| class="wikitable"
+|-
+! Grammar
+! English
+! Novial
+|-
+| Infinitive
+| to be protected
+| es protektet
+|-
+| Present
+| I am protected
+| me es protektet
+|-
+| Present Perfect
+| I have been protected
+| me ha es protektet
+|-
+| Simple Past
+| I was protected
+| me did es protektet '''or''' me esed protektet
+|-
+| Past Perfect
+| I had been protected
+| me had es protektet
+|-
+| Future
+| I shall be protected '''or''' I will be protected
+| me sal es protektet '''or''' me ve es protektet
+<!--|-
+| Future Perfect
+| I shall have been protected '''or''' I will have been protected
+| me sal ha es protektet '''or''' me ve ha es protektet
+|-
+| Future In The Past
+| I was going to be protected
+| me saled es protektet
+-->|-
+| Conditional
+| I would be protected
+| me vud es protektet
+|-
+<!--| Conditional Perfect
+| I would have been protected
+| me vud ha es protektet
+|-
+| First Imperative
+| Let me be protected!
+| Let me es protektet!
+|-
+| Second Imperative
+| be protected!
+| es protektet!-->
+|}
+
+===Articles===
+The definite article is ''li'' which is invariant. It is used as in English.
+
+There is no indefinite article, although ''un'' (one) can be used.
+
+===Nouns===
+The plural noun is formed by adding '''–s''' to the singular ('''-es''' after a consonant).
+
+The [[accusative case]] is generally identical to the [[nominative case|nominative]] but can optionally be marked with the ending '''-m''' ('''-em''' after a consonant) with the plural being '''-sem''' ('''-esem''' after a consonant) or with the preposition '''em.'''
+
+The genitive is formed with the ending '''-n''' ('''-en''' after a consonant) with the plural being '''-sen''' ('''-esen''' after a consonant) or with the preposition '''de.'''
+
+Other cases are formed with prepositions.
+
+===Adjectives===
+All adjectives end in '''-i''', but this may be dropped if it is easy enough to pronounce and no confusion will be caused. Adjectives precede the noun qualified. Adjectives do not agree with the noun but may be given noun endings if there is no noun present to receive them.
+
+Comparative adjectives are formed by placing various particles (''plu, tam,'' and ''min'') in front of the adjective receiving the comparison. Likewise, the superlative particles (''maxim'' and ''minim'') precede the adjective. The adjective does not receive an inflection to its ending.
+
+===Adverbs===
+An adjective is converted to a corresponding adverb by adding '''-m''' after the '''-i''' ending of the adjective.
+
+Comparative and superlative adverbs are formed in the same manner as comparative and superlative adjectives: by placing a specific particle before the adverb receiving the comparison.
+
+==Vocabulary==
+===Affixes===
+See the [[b:Novial/Hound Appendix 1|Table of Prefixes]] and [[b:Novial/Hound Appendix 2|Table of Suffixes]] at the Novial Wikibook.
+
+==Novial compared to Esperanto and Ido==
+{{See also|Comparison between Esperanto and Novial|Comparison between Ido and Novial}}
+
+Jespersen was a professional linguist, unlike Esperanto's creator.{{POV-inline|date=September 2019}} He disliked the arbitrary and artificial character that he found in Esperanto and Ido.{{Citation needed|date=December 2011}} Additionally, he objected to those languages' [[inflection]]al systems, which he found needlessly complex. He sought to make Novial at once euphonious and regular while also preserving useful structures from natural languages.
+
+In Novial:
+* Syntax is largely a matter of word order, as in [[English language|English]] and modern [[Scandinavian language]]s. There is no obligatory [[Accusative case|accusative]] marker as in Esperanto, but the accusative may optionally be marked with either an accusative ending or an accusative preposition.
+* A [[genitive]] or [[possessive case]] is available as an alternative to the preposition ''de''. This is based on Jespersen's observation that many modern languages have lost complex noun inflections, yet retain a possessive form.
+* Auxiliary particles express most [[verb]] [[Grammatical tense|tenses]]. An inflectional ending is available as a shorthand for the simple [[past tense]].
+
+A major difference between Novial and Esperanto/Ido concerns [[noun]] endings. Jespersen rejected a single vowel to terminate all nouns (-o in Esperanto/Ido), finding it unnatural and potentially confusing. <ref>{{cite web|url=https://www.gutenberg.org/files/54694/54694-h/54694-h.htm|title=The Project Gutenberg EBook of International Language and Science}}</ref> Instead, Novial nouns may end in ''-o'', ''-a'', ''-e'', or ''-u'' or ''-um''. These endings may be taken to indicate natural sex according to the custom in Romance languages. Also there is no grammatical gender or requirement for [[adjective]]s to agree with nouns.
+
+==Language sample for comparison==
+Here is [[the Lord's Prayer]] in Novial and several related languages:
+{|class="wikitable"
+|-
+! Novial version:
+! [[Esperanto]] version:
+! [[Ido (language)|Ido]] version:
+! [[Latin]] version:
+|-
+|
+Nusen Patre, kel es in siele,<br/>
+mey vun nome bli sanktifika,<br/>
+mey vun regno veni;<br/>
+mey on fa vun volio<br/>
+kom in siele anke sur tere.<br/>
+Dona a nus disdi li omnidiali pane,<br/>
+e pardona a nus nusen ofensos,<br/>
+kom anke nus pardona a nusen ofensantes,<br/>
+e non dukte nus en tentatione,<br/>
+ma liberisa nus fro malu.<br/>
+Amen.
+|
+Patro nia, kiu estas en la ĉielo,<br/>
+Via nomo estu sanktigita.<br/>
+Venu Via regno,<br/>
+plenumiĝu Via volo,<br/>
+kiel en la ĉielo, tiel ankaŭ sur la tero.<br/>
+Nian panon ĉiutagan donu al ni hodiaŭ.<br/>
+Kaj pardonu al ni niajn ŝuldojn,<br/>
+kiel ankaŭ ni pardonas al niaj ŝuldantoj.<br/>
+Kaj ne konduku nin en tenton,<br/>
+sed liberigu nin de la malbono.<br/>
+Amen.
+|
+Patro nia, qua esas en la cielo,<br/>
+tua nomo santigesez;<br/>
+tua regno advenez;<br/>
+tua volo facesez<br/>
+quale en la cielo tale anke sur la tero.<br/>
+Donez a ni cadie l'omnadia pano,<br/>
+e pardonez a ni nia ofensi,<br/>
+quale anke ni pardonas a nia ofensanti,<br/>
+e ne duktez ni aden la tento,<br/>
+ma liberigez ni del malajo.<br/>
+Amen.
+|
+Pater noster, qui es in caelis:<br/>
+sanctificetur Nomen Tuum;<br/>
+adveniat Regnum Tuum;<br/>
+fiat voluntas Tua, <br/>
+sicut in caelo, et in terra.<br/>
+Panem nostrum cotidianum da nobis hodie;<br/>
+et dimitte nobis debita nostra,<br/>
+Sicut et nos dimittimus debitoribus nostris;<br/>
+et ne nos inducas in tentationem;<br/>
+sed libera nos a Malo.<br/>
+Amen.
+|}
+
+==Criticism==
+As Jespersen relates in his autobiography, in 1934 he proposed an orthographic reform to Novial, which displeased a part of the users. Jespersen abandoned the essential principle of ''one sound, one letter'' :<ref>Jespersen, Otto (1995 [1938]). ''A linguist’s life: an English translation of Otto Jerpersen’s autobiography'' [''En Sprogmands Levned''] ''with notes, photos and a bibliography''. Edited by Arne Juul, Hans F. Nielsen, Jørgen Erik Nielsen. Odense: Odense University Press. {{ISBN|87-7838-132-0}}.</ref>
+
+{{quotation|I proposed some not inconsiderable amendments, especially by introducing an "orthographic" Novial alongside the original phonetically written language. (...) Thus the sound [k], besides being represented by the letters ''k'' and ''q'' and the first part of ''x'', also acquired the new sign ''c'' (before ''a, o, u'' and consonants), a practice with which nearly all Europeans, Americans, and Australians are familiar from childhood. (...) I know that this orthographic form has displeased several of Novial's old and faithful friends, but it is my impression that many others have applauded it.|Otto Jespersen (1995 [1938], pp. 227–8)}}
+
+Some of Jespersen's colleagues among philologists jokingly referred to Novial as ''Jesperanto'', combining his surname with [[Esperanto]], the prototypical auxiliary language.
+
+==See also==
+* [[Comparison between Esperanto and Novial]]
+* [[Comparison between Ido and Novial]]
+
+== Notes ==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==External links==
+{{InterWiki|code=nov}}
+{{wiktionary|Novial}}
+{{wikibooks}}
+* [https://web.archive.org/web/20091027023518/http://www.geocities.com/CapitolHill/3141/novial.html  A summary of 1928 Novial]
+* [https://web.archive.org/web/20030201065247/http://www.cs.brown.edu/~dpb/novial/n30grammar.html A summary of the 1930 version]
+* [http://www.blahedo.org/novial/novial98.html Novial{{nbsp}}’98]
+* [https://sites.google.com/site/noviallexike/novial-lexike-1930 Novial Lexike: International Dictionary] by Otto Jespersen, 1930
+* [https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8134736&order=1&view=SINGLE Discussiones inter E. de Wahl e O. Jespersen]
+{{Constructed languages}}
+
+{{Authority control}}
+[[Category:Novial| ]]
+[[Category:Constructed languages]]
+[[Category:Constructed languages introduced in the 1920s]]
+[[Category:1928 introductions]]

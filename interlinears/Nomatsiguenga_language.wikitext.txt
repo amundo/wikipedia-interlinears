@@ -1,0 +1,96 @@
+{{Short description|Arawakan language spoken in Peru}}
+{{Infobox language
+|name=Nomatsiguenga
+|nativename=inato
+|states=[[Perú]]
+|ethnicity=[[Machiguenga people|Machiguenga]]
+|speakers=6,500 
+|date=2003
+|ref=e18
+|familycolor=American
+|fam1=[[Maipurean languages|Arawakan]]
+|fam2=Southern 
+|fam3=[[Campa languages|Campa]]
+|fam4=Matsigenka
+|iso3=not
+|glotto=noma1263
+|glottorefname=Nomatsiguenga
+}}
+
+'''Nomatsiguenga''' (Matsigenka) is an [[Arawakan language]] of [[Peru]]. It is close enough to [[Machiguenga language|Machiguenga]] to sometimes be considered dialects of a single language, especially given that both are spoken by the [[Machiguenga people]]. Most speakers are monolingual.
+
+==Phonology==
+According to Lawrence, Nomatsiguenga has the following consonant and vowel phonemes.<ref>{{cite thesis |last=Lawrence |first=Aimee L. |date=2013 |title=Inflectional Verbal Morphology in Nomatsigenga |publisher=University of Texas at Austin}}</ref>
+
+{|class="wikitable" style="text-align: center;"
+|+ Nomatsiguenga consonants
+!
+! [[Bilabial consonant|Bilabial]]
+! [[Dental consonant|Dental]]
+! [[Alveopalatal consonant|Alveopalatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+! Unspecified
+|-
+! scope=row | [[Nasal consonant|Nasal]]
+| {{IPA link|m}} || {{IPA link|n}} || || {{IPA link|ŋ}} (ng, n) || || N (n, m)
+|-
+! scope=row | [[Stop consonant|Stop]]
+| {{IPA link|p}} {{IPA link|b}} || {{IPA link|t}} || || {{IPA link|k}} {{IPA link|g}} || ||
+|-
+! scope=row | [[Fricative consonant|Fricative]]
+| || {{IPA link|s}} || {{IPA link|ʃ}} (sh) || || {{IPA link|h}} ||
+|-
+! scope=row | [[Affricate consonant|Affricate]]
+| || {{IPA link|ts}} || {{IPA link|tʃ}} (ch) || || ||
+|-
+! scope=row | [[Liquid consonant|Liquid]]
+| || || {{IPA link|ɾ}} (r) || || ||
+|-
+! scope=row | [[Semivowel]]
+| || || {{IPA link|j}} (y) || || ||
+|-
+|}
+
+{|class="wikitable" style="text-align: center;"
+|+ Nomatsiguenga vowels
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! scope=row | [[High vowel|High]]
+| {{IPA link|i}}, {{IPA link|iː}} (ii) || ɨi (ë) ||
+|-
+! scope=row | [[Mid vowel|Mid]]
+| {{IPA link|e}}, {{IPA link|eː}} (ee) || || {{IPA link|o}}, {{IPA link|oː}} (oo)
+|-
+! scope=row | [[Low vowel|Low]]
+| || {{IPA link|a}}, {{IPA link|aː}} (aa) ||
+|-
+|}
+
+==Grammar==
+Nomatsiguenga is one of the few languages in the world that has two different [[causative]] mechanisms to denote whether the causer was involved in the activity with the causee or not. The prefix ''ogi-'' is used to express the idea that the causer was ''not'' involved in the activity, while the suffix ''-hag'' is used when the causer ''is'' involved.<ref>Wise, M.R. (1986). "Grammatical characteristics of PreAndine Arawaken languages of Peru." pg. 567–642. In Derbyshire, D. C. & Pullum, G. K., eds. (1986). ''Handbook of Amazonian languages, Vol. 1'''. Berlin: Mouton de Gruyter. Cited in Dixon, R.M.W. (2000). "A Typology of Causatives: Form, Syntax, and Meaning". In Dixon, R.M.W. & Aikhenvald, Alexendra Y. Changing Valency: Case Studies in Transitivity. Cambridge University Press.</ref>
+
+{{interlinear|indent=3
+| y-'''ogi'''-monti-ë-ri i-tomi
+| 3SG+M-'''CAUS<sub>1</sub>'''-cross.river-NFUT-3SG+M 3SG+M-son
+| "He made his son cross the river (he told him to)."}}
+
+{{interlinear|indent=3
+| y-monti-a-'''hag'''-ë-ri i-tomi
+| 3SG+M-cross.river-E-'''CAUS<sub>2</sub>'''-NFUT-3SG+M 3SG+M-son
+| "He made his son cross the river (he helped him across)."}}
+
+==References==
+{{Reflist}}
+
+{{Languages of Peru}}
+{{Arawakan languages}}
+
+[[Category:Languages of Peru]]
+[[Category:Campa languages]]
+
+
+{{Arawakan-lang-stub}}

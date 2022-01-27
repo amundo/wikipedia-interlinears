@@ -1,0 +1,576 @@
+{{Short description|Sepik language spoken in Papua New Guinea}}
+{{Infobox language
+|name=Yimas
+|states=[[Papua New Guinea]]
+|region=Yimas village, [[Karawari Rural LLG]], [[East Sepik Province]]
+|coordinates={{coord|-4.680562|143.548847|type:city_region:PG_source:enwiki|name=Yimas 1|display=inline,title}}
+|speakers=300
+|date=2000
+|ref=<ref name= "Ethnologue">{{cite journal |last1=Eberhard |first1=David M. |last2=Simons |first2=Gary F. |last3=Fennig |first3=Charles D. |title=Yimas |journal=Ethnologue: Languages of the World |date=2019 |issue=22nd ed |url=https://www.ethnologue.com/language/yee}}</ref>
+|familycolor=Papuan
+|fam1=[[Ramu–Lower Sepik languages|Ramu–Lower Sepik]]
+|fam2=[[Lower Sepik languages|Lower Sepik]] (Nor–Pondo)
+|fam3=[[Pondo languages|Pondo]]?
+|fam4=Karawari
+|iso3=yee
+|glotto3=yima1243
+|glottorefname3=Yimas
+}}
+
+The '''Yimas language''' is spoken by the Yimas people, who populate the [[Sepik River]] Basin region of [[Papua New Guinea]]. It is spoken primarily in Yimas village ({{coord|-4.680562|143.548847|type:city_region:PG|name=Yimas 1}}), [[Karawari Rural LLG]], [[East Sepik Province]].<ref name="Ethnologue22-PNG">{{cite web |url=https://www.ethnologue.com/country/PG/languages |title=Papua New Guinea languages |work=[[Ethnologue]]: Languages of the World |edition=22nd |editor1-last=Eberhard |editor1-first=David M. |editor2-last=Simons |editor2-first=Gary F. |editor3-last=Fennig |editor3-first=Charles D. |date=2019 |location=Dallas |publisher=[[SIL International]]}}</ref><ref name="UN-PNG">{{cite web |url=https://data.humdata.org/dataset/village-coordinates-lookup |title=Papua New Guinea Village Coordinates Lookup |author=United Nations in Papua New Guinea |work=Humanitarian Data Exchange |version=1.31.9 |date=2018}}</ref> It is a member of the [[Ramu - Lower Sepik|Lower-Sepik language family]].<ref name= "Foley">{{cite book |last1=Foley |first1=William A. |title=The Yimas Language of New Guinea |date=1991 |publisher=Stanford University Press |location=Stanford, CA |isbn=9780804715829}}</ref>{{Rp|1}} All 250-300 speakers of Yimas live in two villages along the lower reaches of the Arafundi River, which stems from a tributary of the Sepik River known as the Karawari River.<ref name= "Ethnologue22-PNG"></ref><ref name= "Foley"></ref>{{Rp|7}}
+
+Yimas is a [[polysynthetic language]] with (somewhat) free [[word order]], and is an [[ergative-absolutive]] language [[morphology (linguistics)|morphologically]] but not [[syntax|syntactically]], although it has several other case-like relations encoded on its verbs. It has ten main noun classes (genders), and a unique number system. Four of the noun classes are semantically determined (male humans, female humans, higher animals, plants and plantmaterial) whereas the rest are assigned on phonological bases. <ref name= "Foley"></ref>{{Rp|119}} 
+
+It is an [[endangered language]], being widely replaced by [[Tok Pisin]], and to a lesser extent, English. It is unclear if any children are native Yimas speakers. However, a '''Yimas pidgin''' was once used as a contact language with speakers of [[Alamblak language|Alamblak]] and [[Arafundi language|Arafundi]]. {{citation needed|date=August 2019}} Although it is still used in face-to-face conversation, it is considered a threatened language on the [[Ethnologue]] endangerment scale (with a rating of 6b).<ref name= "Ethnologue"></ref><ref name= "Foley"></ref>{{Rp|4-5}}
+
+{{Infobox language 
+|name=Yimas Pidgin
+|nativename=
+|states=
+|region=
+|speakers=none
+|date=
+|ref=
+|familycolor=Pidgin
+|family=Yimas-based [[pidgin]]
+|iso3=none
+|glotto=yima1235
+|glottoname=Yimas-Alamblak-Pidgin
+|glotto2=yima1244
+|glottoname2=Yimas-Arafundi-Pidgin
+|glotto4=yima1246
+|glottoname4=Yimas-Iatmul Pidgin
+|glotto5=yima1245
+|glottoname5=Yimas-Karawari Pidgin
+|ELP= none
+}}
+
+== Phonology ==
+
+Yimas has a total of 18 [[phonemes]]. Below are the vowel and consonant inventories, which are represented using [[International Phonetic Alphabet (IPA)]] symbols.
+
+=== Consonants ===
+
+The consonant [[phoneme]] inventory of Yimas is typical for the languages of Papua New Guinea. Like many languages of the region, Yimas has no [[fricative]] phonemes, although fricatives do sometimes appear in pronunciation as variants of [[plosives]]. The following table contains the 12 consonant phonemes of the language:<ref name= "Foley"></ref>{{Rp|38}}
+
+{|class=wikitable style=text-align:center
+!
+![[Labial consonant|Labial]]
+![[Dental consonant|Dental]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+|-
+![[Stop consonant|Stop]]
+|{{IPAlink|p}}
+|{{IPAlink|t}}
+|
+|{{IPAlink|c}}
+|{{IPAlink|k}}
+|-
+![[Nasal consonant|Nasal]]
+|{{IPAlink|m}}
+|{{IPAlink|n}}
+|
+|{{IPAlink|ɲ}}
+|{{IPAlink|ŋ}}
+|-
+![[Liquid consonant|Liquid]]
+|
+|
+|{{IPAlink|ɾ}}
+|{{IPAlink|ʎ}}
+|
+|-
+![[Glide consonant|Glide]]
+|{{IPAlink|w}}
+|
+|
+|{{IPAlink|j}}
+|
+|}
+
+The phonemic status of the palatal consonants /c/, /ɲ/ and /ʎ/ is not entirely clear. In general their appearance is predictable; they arise primarily through [[Palatalization (phonetics)|palatalization]] of the alveolar consonants /t/, /n/, and /r/. However, there are a few words in which these consonants must be regarded as underlyingly palatal. Examples include ''akulɨm'' 'wrist', ''ɨɲcɨt'' 'urine', and other words, though these historically go back to alveolar consonants, as can be seen in their cognates in [[Karawari language|Karawari]] (''awku'''ri'''m'' 'wrist' and ''sɨ'''ndi''''' 'urine').<ref name= "Foley"></ref>{{Rp|38}}
+
+Adjacent nasals and plosives are usually [[homorganic]]. Other combinations such as ''mt'', ''mk'', ''np'', ''ŋt'', etc., are rare or unattested; an example is ''pamki'' 'legs'. The same is true when plosives appear before nasals at the ends of words or syllables. In this case, the nasal is syllabic, for example ''watn'' {{IPA|[ˈwatn̩]}} (a hardwood tree species).<ref name= "Foley"></ref>{{Rp|39}}
+
+Plosives are generally voiced after nasals, with /p/ becoming voiced also before ''u''. At word onsets and before stressed vowels, they are aspirated and voiceless. For example: ''ɲct'' {{IPA|[ˈɪɲɟɪt]}} 'urine', ''pamki'' {{IPA|[ˈpʰamgi]}} 'legs', ''tkay'' {{IPA|[tʰəˈkʰaɪ̯]}} 'nose', ''kput'' {{IPA|[kʰɞˈbut]}} 'rain'. /p/ and /w/ weaken to a voiceless fricative: ''ipwa'' {{IPA|[iˈβa]}}. When /k/ appears before two vowels, if the second vowel is unstressed, then the /k/ is realized as a voiced fricative: ''amanakn'' {{IPA|[ʌmʌˈnaɣɨn]}} 'mine'. Intervocally /c/ has age-based [[allophony]], with older speakers preferring the stop realization and younger ones the dental sibilant [s], as in ''acak'' {{IPA|[ˈasʌk]}} 'to send'. After another consonant, /c/ is always realized as a palatal stop.<ref name= "Foley"></ref>{{Rp|39}}
+
+/ʎ/ is in free variation between {{IPA|[ʎ]}} and {{IPA|[lʲ]}}. ''r'' varies in pronunciation between {{IPA|[l]}} and {{IPA|[ɾ]}}.<ref name= "Foley"></ref>{{Rp|40}}
+
+=== Vowels ===
+
+The Yimas vowel inventory contains six phonemes in total, consisting of four [[monophthongs]] and two [[diphthongs]]:<ref name= "Foley"></ref>{{Rp|44-46}}
+{| class="wikitable"
+|+ Vowel Phonemes <ref name= "Foley"></ref>{{Rp|44}}
+! &nbsp; || <small>[[Front vowel|Front]]</small> || <small>[[Central vowel|Central]]</small> || <small>[[Back vowel|Back]]</small>
+|- style="text-align: center;"
+! <small>[[Close vowel|Close]]</small>
+| {{IPAlink|i}} || {{IPAlink|ɨ}} || {{IPAlink|u}}
+|- style="text-align: center;"
+! <small>[[Open vowel|Open]]</small>
+| &nbsp; || {{IPAlink|a}} || &nbsp;
+|}
+
+The two diphthongs in Yimas are /aj/ and /aw/.<ref name= "Foley"></ref>{{Rp|44}}
+
+The most frequent vowels by far are /a/ and /ɨ/. ''ɨ'' also appears as an [[epenthetic]] vowel to break up otherwise illicit consonant clusters. In the vicinity of ''u'' and also occasionally in other contexts, an ''u'' is sometimes inserted instead: ''mml'' {{IPA|[məmɪʎ]}} 'a kind of snake', ''ŋmkŋn'' {{IPA|[ŋəmgəŋɨn]}} 'underneath', ''maŋkuml'' {{IPA|[maŋgɯmuʎ]}} 'two veins'. The appearance of /ɨ/ is often predictable from the surrounding consonant environment and as a result it can typically be treated as an epenthetic vowel even within lexical roots. Adopting this analysis results in whole words with no underlying vowels.
+
+The vowel phonemes are involved in numerous [[phonological]] changes.<ref name= "Foley"></ref>{{Rp|45}}
+
+=== Syllable structure ===
+
+The basic structure of the Yimas word (in terms of consonants C and vowels V) is the following:
+ #(C<sub>1</sub>)(C<sub>2</sub>)V<sub>1</sub>([(C<sub>3</sub>)C<sub>4</sub>(C<sub>5</sub>)]<sup>n</sup>)V<sub>2</sub>(C<sub>6</sub>)(C<sub>7</sub>)#<ref name= "Foley"></ref>{{Rp|44}}
+
+Consonants are organized into three basic clusters in Yimas: the initial cluster [(C<sub>1</sub>)(C<sub>2</sub>)], the medial cluster [(C<sub>3</sub>)C<sub>4</sub>(C<sub>5</sub>)] and the final cluster [(C<sub>6</sub>)(C<sub>7</sub>)]. Parentheses indicate that the consonant is optional. There are specific phonological constraints placed on the cluster depending on where it is located in the word. In other words, only certain consonant phonemes can begin a word, end a word, or appear in the middle of a word. The iterative variable n allows the medial consonant cluster to be repeated many times, "to produce syllables of more than two syllables."<ref name= "Foley"></ref>{{Rp|44}}
+
+A Yimas word can consist of only a single vowel. An example is the verb stem /i-/, which means 'say.' Some of the longest roots are five or six syllables, like /mamantakarman/, which means 'land crab.'<ref name= "Foley"></ref>{{Rp|44}}
+
+Yimas has predictable rules with regard to syllabification. In the middle of a word, if a consonant is between two vowels, the syllable boundary precedes the consonant: (V.CV).
+
+If two consonants are between two vowels, the syllable boundary falls between the consonants: (VC<sub>1</sub>.C<sub>2</sub>V).
+
+However, if C<sub>1</sub> is a stop and C<sub>2</sub> is /r/, the syllable boundary precedes C<sub>1</sub>: (V.C<sub>1</sub>C<sub>2</sub>V).
+
+Whenever three consonants are between two vowels, the syllable boundary comes after the first consonant: (VC<sub>1</sub>.C<sub>2</sub>C<sub>3</sub>V).<ref name= "Foley"></ref>{{Rp|44}}
+
+=== Stress ===
+
+In Yimas, the primary accent lies in general on the first syllable of a word. In words with more than three syllables, the third syllable carries secondary stress. Below are some examples (where ´ represents primary stress, and ` represents secondary stress):<ref name= "Foley"></ref>{{Rp|75}}
+{{interlinear|lang=jig
+|kwálcan
+|'arise'<ref name= "Foley"></ref>{{Rp|76}}}}
+{{interlinear|lang=jig
+|námarawt
+|'person'<ref name= "Foley"></ref>{{Rp|76}}}}
+{{interlinear|lang=jig
+|wánkanàwi
+|'insect'<ref name= "Foley"></ref>{{Rp|76}}}}
+
+If the first syllable contains an epenthetic vowel but the second does not, then the second syllable is stressed. When the first as well as the second syllable contain epenthetic vowels, then the stress lies on the first syllable.<ref name= "Foley"></ref>{{Rp|76-77}}
+
+Below are more examples, including words with stress on epenthetic vowels:<ref name= "Foley"></ref>{{Rp|76-77}}
+
+{| class="wikitable"
+|- bgcolor='#DEFFAD'
+!Word
+!Pronunciation
+!Translation
+!Notes
+|-
+|''ŋárwa'' || {{IPA|[ˈŋaɾwʌ]}} || penis || 
+|-
+|''kcakk'' || {{IPA|[kʰɪˈsaɣək]}} || to cut || first syllable has an epenthetic vowel → second syllable stressed
+|-
+|''mɲŋ'' || {{IPA|[ˈmɪɲɪŋ]}} || tongue || first two syllables have epenthetic vowels → first syllable stressed
+|-
+|''yámparan'' || {{IPA|[ˈjambʌɾʌn]}} || to stand up || 
+|-
+|''málcawkwa'' || {{IPA|[ˈmaʎcɔkwʌ]}} || lower back || 
+|-
+|''yácɨrɨm'' || {{IPA|[ˈjɛsəɾəm]}} || an accessory for chewing [[betelnut]]s || 
+|-
+|''yáwkawpùnumprum'' || {{IPA|[ˈjawkʌwˌpʰunɯmbɾɯm]}} || yellow opossum || Secondary stress on the third syllable
+|-
+|}
+
+The genitive suffix ''-na'', which is used on personal pronouns, takes primary stress: ''ama-na-kn'' {{IPA|[ʌmʌˈnaɣɨn]}} 'mine'.{{citation needed|date=August 2019}}
+
+Stress is never the distinguishing factor between two words; i.e., two words cannot differ in meaning if they only differ in which syllable carries stress (as opposed to English, which distinguishes between the noun 'désert' and the verb 'desért').<ref name= "Foley"></ref>{{Rp|75-76}}
+
+==Nouns and noun morphology==
+
+===Noun classes===
+
+There are ten basic [[noun class]]es in Yimas, and about six additional minor classes with only a few nouns in each one. Noun classes are either categorized by their semantic similarity or their phonological similarity. Of the ten major noun classes, four are identified based on semantic properties, and six are identified based on phonological properties.<ref name= "Foley"></ref>{{Rp|119}}
+
+The ten major noun classes are distinguished by the following properties:
+
+{| class="wikitable"
+|+ Noun Classes I-X<ref name= "Foley"></ref>{{Rp|119}}
+! Class
+! Semantic/Phonological Property
+! Example
+|-
+! I
+| male humans and humans of ambiguous sex <ref name= "Foley"></ref>{{Rp|119}} || apwi 'father' <ref name= "Foley"></ref>{{Rp|120}}
+|-
+! II
+| female humans <ref name= "Foley"></ref>{{Rp|126}} || kaywi 'sister' <ref name= "Foley"></ref>{{Rp|126}}
+|-
+! III
+| higher animals, like pigs, dogs, and crocodiles <ref name= "Foley"></ref>{{Rp|128}} || numpran 'pig' <ref name= "Foley"></ref>{{Rp|129}}
+|-
+! IV
+| plants and trees <ref name= "Foley"></ref>{{Rp|132}} || irpm 'coconut palm' <ref name= "Foley"></ref>{{Rp|132}}
+|-
+! V
+| noun ends in /p, k, m, n, ŋ, nt, r, l/ (or /i, y/ if not in class VIII) <ref name= "Foley"></ref>{{Rp|136}} ||  muntuk 'neck' <ref name= "Foley"></ref>{{Rp|136}}
+|-
+! VI
+| noun ends in /ŋk/ (or /ŋ/ if in word-final position) <ref name= "Foley"></ref>{{Rp|141}} || yarmuraŋ 'black eel' <ref name= "Foley"></ref>{{Rp|141}}
+|-
+! VII
+| noun ends in /mp/ (or /m/ if in word-final position) <ref name= "Foley"></ref>{{Rp|145}} || karm 'lip, language' <ref name= "Foley"></ref>{{Rp|146}}
+|-
+! VIII
+| noun ends in /i, y/ <ref name= "Foley"></ref>{{Rp|147}} || mayŋi 'beetle' <ref name= "Foley"></ref>{{Rp|148}}
+|-
+! IX
+| noun ends in /aw/ <ref name= "Foley"></ref>{{Rp|153}} || yaw 'road' <ref name= "Foley"></ref>{{Rp|153}}
+|-
+! X
+| noun ends in a rounded vowel plus /k, ŋk/ (closely related to class VI) <ref name= "Foley"></ref>{{Rp|158}} || awruk 'bandicoot' <ref name= "Foley"></ref>{{Rp|158}}
+|}
+
+Although some classes are similar in category, no two classes overlap; i.e., no noun is associated with more than one noun class. So there may be words that fall into the semantic categories specified by class I-IV that have the same phonetic properties as words in one of the later classes, but will only be placed in one class. By far, class V is the largest noun class, with nearly half of all Yimas words assigned to this class.<ref name= "Foley"></ref>{{Rp|136}} Many of the nouns formerly in class VIII have become members of class V as the language has evolved.<ref name= "Foley"></ref>{{Rp|147}} Additionally, the rounded vowel that terminates nouns in class X have a distinctive [[autosegmental]] rounding feature.<ref name= "Foley"></ref>{{Rp|158}}
+
+Nouns within a class share sets of agreement affixes with adjectives, pronouns, and verbs. The adjectival, pronominal, and verbal agreement affixes are appended to adjectives, pronouns, and verbs respectively, depending on the number and noun class of the noun they are associated with. The adjective must have an affix that agrees with the noun the adjective describes, and pronouns are made possessive by appending affixes that agree with the noun of the possessor as well. Agreement affixes for verbs are used to indicate that a noun is its subject if the verb is intransitive, or that a noun is its object if the verb is transitive. As an example, the following table contains the set of agreement affixes for class I nouns: <ref name= "Foley"></ref>{{Rp|123-125}}
+{| class="wikitable"
+|+ Class I Agreement Affixes<ref name= "Foley"></ref>{{Rp|123-125}}
+! &nbsp;
+! Singular
+! Dual
+! Plural
+|-
+! Adjectival
+| -n || -mampan || -ump
+|-
+! Possessive
+| -kn || -rm || -ump
+|-
+! Verbal
+| na- || impa- || pu-
+|}
+
+Below is an example of the class I singular adjectival agreement suffix /-n/ applied to the adjective meaning 'good.' Here, the suffix is used to show that the adjective is describing a class I, singular noun:<ref name= "Foley"></ref>{{Rp|123}}
+
+{{interlinear|lang=jig |abbreviations=I:class I
+|kalakn yua-'''n'''
+|child.I.SG good.I.SG
+|'a good child'<ref name= "Foley"></ref>{{Rp|123}}}}
+
+In general, appending the possessive marker '''/-na/''' to a pronoun, along with the appropriate possessive agreement affix, creates a possessive pronoun in Yimas. The following is an example of how a class I singular possessive pronoun is formed; /ama/ is the bound first person singular pronoun, and /-kn/ is the class I possessive agreement suffix:<ref name= "Foley"></ref>{{Rp|124}}
+
+{{interlinear|lang=jig |abbreviations=I:class I
+|apwi ama-'''na'''-'''kn'''
+|father.I.SG 1SG-POSS-I.SG
+|'my father'<ref name= "Foley"></ref>{{Rp|124}}}}
+
+Affixation on verbs for noun agreement are discussed in detail in the verbal morphology section.
+
+===Pronouns===
+Yimas independent pronouns are:<ref name="Foley-Sepik"/>
+
+:{| {{table}}
+!  !! sg !! du !! [[paucal|pc]] !! pl
+|-
+! 1
+| ama || kapa || paŋkət || ipa
+|-
+! 2
+| mi || kapwa || paŋkət || ipwa
+|-
+! 3
+| mən || mərəm || məŋgət || mum
+|}
+
+===Oblique suffix===
+
+The oblique suffix (/-n/ or /-nan/) is the only case marker present in Yimas, and "indicates locations, times, or instruments."<ref name= "Foley"></ref>{{Rp|165}} Generally, the suffix /-n/ is used with singular nouns, and the suffix /-nan/ is used with plural and dual nouns, although there are some irregularities. Below are a few inflectional uses of the suffix, which serve to provide a semantic meaning similar to prepositions in English:
+
+{{interlinear|lang=jig |abbreviations=I:class I
+|nam-'''n'''
+|house-OBL
+|'in the house'<ref name= "Foley"></ref>{{Rp|90}}}}
+
+{{interlinear|lang=jig |abbreviations=I:class I
+|wanwa-'''n'''
+|knife-OBL
+|'with a knife'<ref name= "Foley"></ref>{{Rp|90}}}}
+
+{{interlinear|lang=jig |abbreviations=V:class V; DL:dual
+|tktntrm-'''nan'''
+|chair.V.DL-OBL
+|'with two chairs'<ref name= "Foley"></ref>{{Rp|165}}}}
+
+===Noun compounding===
+
+Nouns may compound with a verb or another noun phrase. The head is always a noun, and this head noun determines the number and noun class of the final compounded noun. Compounds consisting of two root nouns are the most frequently used type of compounded noun.
+
+The most common way of forming a compound with two root nouns is by appending the oblique suffix /-n/ to the non-head noun, which precedes the head noun:<ref name= "Foley"></ref>{{Rp|171-172}}
+
+{{interlinear|lang=jig |abbreviations=VI:class VI
+|puratuŋk-n tampan
+|bile.VI.SG-OBL liver.V.SG
+|'gall bladder'<ref name= "Foley"></ref>{{Rp|172}}}}
+
+===Suppletion===
+
+Instead of using affixation to distinguish number for a noun, Yimas uses [[suppletion]] for many common nouns; in other words, the singular and plural forms have different roots for these common nouns.<ref name= "Foley"></ref>{{Rp|91-92}}
+
+{|
+! &nbsp;
+! Singular
+! Plural
+|-
+| 'woman'
+|  narmaŋ
+| ŋaykum
+|-
+|  'man'
+| panmal
+| payum
+|-
+| 'child'
+| kalakn
+| kumpwi
+|}
+
+The dual form in Yimas is derived from the singular form, and does not follow the same morphological process of suppletion.<ref name= "Foley"></ref>{{Rp|91-92}}
+
+==Verbal morphology==
+
+Yimas is a [[polysynthetic language]] with a complex verbal [[Morphology (linguistics)|morphology]].<ref name= "Foley"></ref>{{Rp|277}} The most significant form of Yimas morphology is [[affixation]], with other morphological processes only serving a secondary role in the language.<ref name= "Foley"></ref>{{Rp|193}}
+
+===Pronominal prefixes===
+
+Pronominal affixes on verbs take the place of case markings and word order in other languages.<ref name= "Foley"></ref>{{Rp|193}} The list of all pronominal prefixes in Yimas, arranged by person, number, and A/O/S function, are below. The first and second person pronouns are included to show the similarity with the S forms. There are no true pronouns for third person since the function is filled by [[deictics]], so these spaces appear empty below. "A" indicates the subject of a transitive verb, "O" indicates the object of a transitive verb, and "S" indicates the subject of an intransitive verb:<ref name= "Foley"></ref>{{Rp|200}}
+
+{| class="wikitable"
+|+ Pronominal Prefixes
+! &nbsp;
+! A
+! O
+! S
+! Pronoun
+|-
+! 1DL
+| ŋkra- || ŋkra- || kapa- || kapa
+|-
+! 1PL
+| kay- || kra- || ipa- || ipa
+|-
+! 1SG
+| ka- || ŋa- || ama- || ama
+|-
+! 2DL
+| ŋkran- || ŋkul- || kapwa- || kapwa
+|-
+! 2PL
+| nan- || kul- || ipwa- || ipwa
+|-
+! 2SG
+| n- || nan- || ma- || mi
+|-
+! 3SG
+| n- || na- || na- ||
+|-
+! 3PL
+| mpu- || pu- || pu- ||
+|-
+! 3DL
+| mpɨ- || impa- || impa- ||
+|}
+
+====Ergative-absolutive schema====
+
+A notable feature of these pronominal prefixes is that all third person pronominal prefixes follow an [[ergative-absolutive]] case pattern: the pronominal prefix for the subject of an intransitive verb (marked S) matches the prefix for the object of a transitive verb (marked O), and contrasts with the prefix for the subject of a transitive verb (marked A).<ref name= "Foley"></ref>{{Rp|201}}
+
+===Noun class distinctions===
+
+Nouns' agreement affixes with verbs are often useful for disambiguating the subject and object of a sentence. Consider the following example, where class distinctions specify the prefixes that are appended to the verb:<ref name= "Foley"></ref>{{Rp|193}}
+
+{{interlinear|lang=jig |abbreviations=VI:class VI
+|krayŋ narmaŋ k-n-tay
+|frog.VI.SG woman.II.SG VI.SG.O-3SG.A-see
+|'The woman saw the frog.'<ref name= "Foley"></ref>{{Rp|194}}}}
+
+Here, the prefix /k-/ indicates that the object of the verb is a class VI singular noun, and the prefix /n-/ indicates that the subject of the verb is a third-person singular noun. Since 'woman' in Yimas is a class II noun, while 'frog' is a class VI noun, it must be the frog that is the object of the verb 'see,' while 'woman' must be the subject.<ref name= "Foley"></ref>{{Rp|194}}
+
+===Dative suffixes and ditransitive verbs===
+
+Yimas has four [[ditransitive]] verbs: /ŋa-/ ('give'), /i-/ ('tell someone'), /tkam-/ ('show'), and /pul-/ ('rub on'). Unlike other verbs, ditransitive verbs allow three pronominal affixes to be appended to them, in order to identify the indirect object or [[dative]] case. The dative affixes for first and second person are the same as the first and second person O affixes, but for third person, there is a unique set of dative suffixes.
+
+Consider the example below:
+
+{{interlinear|lang=jig |abbreviations=VI:class VI
+|uraŋ k-mpu-'''ŋa'''-tkam-t
+|coconut.VI.SG VI.SG.O-3PL.A-1SG.D-show-PERF
+|'They showed '''me''' the coconut.'<ref name= "Foley"></ref>{{Rp|208}}}}
+
+{{interlinear|lang=jig |abbreviations=VI:class VI; 3DL:third person, dual
+|uraŋ k-mpu-tkam-r-'''mpn'''
+|coconut.VI.SG VI.SG.O-3PL.A-show-PERF-3DL.D
+|'They showed '''them two''' the coconut.'<ref name= "Foley"></ref>{{Rp|208}}}}
+
+Notice that the first person singular dative prefix /ŋa-/ is identical to the first person singular O prefix, whereas the third person dual dative suffix /-mpn/ is unique.<ref name= "Foley"></ref>{{Rp|208}}
+
+===Tense, aspect, and mood===
+
+The only verbal affix that is required in Yimas is that which indicates tense. Yimas has an elaborate tense-marking system, as illustrated below for the verb ''wa''- ‘go’.<ref name="Foley-Sepik">{{cite book |last=Foley |first=William A. |authorlink=William A. Foley |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The Languages of the Sepik-Ramu Basin and Environs |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=197–432 |isbn=978-3-11-028642-7}}</ref>
+
+:{| class="wikitable"
+| wa-ntut || go-{{sc|rm.pst}} || ‘went more than a few days ago’
+|-
+| wa-kiantut || go-{{sc|fr.pst}} || ‘went a few days ago’
+|-
+| wa-nan || go-{{sc|nr.pst}} || ‘went yesterday’
+|-
+| wa-t || go-{{sc|imm.pst}} || ‘went today’
+|-
+| wa-n || go-{{sc|prs}} || ‘going now’
+|-
+| wa-wat || go-{{sc|hab}} || ‘usually go’
+|-
+| wa-kiak || go-{{sc|nr.fut}} || ‘will go tomorrow’
+|-
+| wa-kt || go-{{sc|rm.fut}} || ‘will go after tomorrow’
+|}
+
+The tense suffix follows the verb root and precedes the dative suffix (if the dative suffix is applied to the verb). In the following example, the suffix /-ntuk/ indicates that the action takes place in the remote past, and is followed by the dative suffix /-mpun/:<ref name= "Foley"></ref>{{Rp|236}}
+
+{{interlinear|lang=jig |abbreviations=V:class V; T:theme of ditransitive verb; RMPAST:remote past
+|patn na-kay-ŋa-'''ntuk'''-mpun
+|betelnut.V.SG V.SG.T-1PL.A-give-RMPAST-3PL.D
+|'We gave betelnut to them long ago.'}}
+
+====Irrealis mood====
+There is a significant distinction between realis and irrealis events in Yimas, which accounts for the main variation in tense suffixes. In particular, the [[irrealis]] suffix /-k/ indicates "events which are located outside of the continuum of real time: they must be completely timeless, in the legendary past or in the indefinite future."<ref name= "Foley"></ref>{{Rp|237}}
+
+The irrealis suffix is especially common in Yimas legends. Consider the sentence taken from a Yimas text:<ref name= "Foley"></ref>{{Rp|238}}
+
+{{interlinear|lang=jig |abbreviations=IRR:irrealis; 3DL:third person, dual
+|tan impa-ampu-mpi-awl-'''k'''
+|there 3DL.S-float-SEQ-take-IRR
+|'They both drifted there.'}}
+
+====Tenses for real events====
+Yimas has eight tenses for real events, which are distinguished by affixes.
+
+There are three past tenses: the near past, which is used to describe events that occurred approximately the day before; the remote past, which extends from the legendary past up to three or four days ago; and the far past, which describes events somewhere between the near and the remote past. The near past suffix is /-nan/ in its most basic form. The basic remote past suffixes are /-ntuk/ and /-ntut/. The far past uses the remote past suffix compounded with an additional suffix /-kia/ (so its suffix is /-kiantuk/ or /-kiantut/).<ref name= "Foley"></ref>{{Rp|241-244}}
+
+The three present tenses are distinguished by aspectual differences, i.e., the level of completion of an action: the present perfective describes completed events; the present imperfective describes ongoing events; and the present habitual describes events that occur regularly, as a scheduled part of people's day. The most basic form of the present perfective suffix is /-r/, although there exists much allomorphic variation. The present imperfective is indicated by the definitive prefix /na-/ and the suffix /-nt/ in its most basic form. The basic form of the present habitual is created using the suffix /-war/.<ref name= "Foley"></ref>{{Rp|244-246}}
+
+The two future tenses, the [[near future (grammar)|near future]] and the remote future, distinguish between events that occur tomorrow from events that occur farther in the future. The near future suffix is /-kia/, and is either accompanied by the irrealis suffix /-k/ in word final position, or the present suffix /-nt/ if other suffixes follow it. These suffixes must also appear in combination with the definitive prefix /na-/ or the modal prefix /ka-/. The basic suffix for the remote future is /-kr/.<ref name= "Foley"></ref>{{Rp|247-248}}
+
+===Reduplication===
+
+Yimas uses partial or full [[reduplication]] to convey the repetition of an action. In the following example, the root morpheme /ark-/ is the verb meaning ‘break,’ and it is fully reduplicated in order to signify repetition:
+
+{{interlinear|lang=jig |abbreviations=V:class V; IRR:irrealis; RED:reduplication
+|ya-n-'''arkark'''-wampaki-pra-k
+|V.PL.O-3SG.A-break(RED./ark-/)-throw-toward-IRR
+|'He repeatedly broke them and threw them as he came.'}}
+
+Below is an example of partial reduplication of the root morpheme /api-/, which means 'put in':
+
+{{interlinear|lang=jig |abbreviations=V:class V; IRR:irrealis; RED:reduplication; RMPAST:remote past
+|arm m-um ima-mpu-nan-nanaŋ-'''apapi'''-ŋa-ntut
+|water NR.DIST-I.PL water.O-3PL.A-2SG.D-DUR-put(RED./api-/)-BEN-RMPAST
+|'They were repeatedly gathering water for you all.'}}<ref name= "Foley"></ref>{{Rp|72,318-319}}
+
+===Serialization===
+
+The extensive use of [[serial verb construction|serial verb constructions]] is another factor that contributes to the verbal morphology of Yimas. There are two types of serial verbs in Yimas. The first type of serial verb is constructed by simple compounding, and conveys the meaning that the two events indicated by the verbs occur concurrently or are causally related. The second type of serial verbs are those that are connected by an intermediary morpheme, and convey the meaning that the two verbs may occur sequentially, but are not strongly causally related. This intermediary morpheme is usually the suffix /-mpi/, which attaches to the first verb, and links sequences of events.<ref name= "Foley"></ref>{{Rp|321-322}}
+
+Below is an example of the first serial verb type, where the morphemes /kulanaŋ/ 'walk' and /kanta/ 'follow' are juxtaposed to convey that the actions are occurring simultaneously:
+
+{{interlinear|lang=jig |abbreviations=IRR:irrealis; RED:reduplication; 3DL: third person, dual
+|impa-n-yakal-'''kulanaŋ'''-'''kanta'''-k
+|3DL.O-3SG.A-CONT-'''walk'''-'''follow'''-IRR
+|'He was walking following those two.'<ref name= "Foley"></ref>{{Rp|322}}}}
+
+Below is an example of the second type of serial verb, which utilizes the sequential suffix /-mpi/ to show that the verbs /ak/ 'push' and /wul/ 'put down' occur in succession:
+
+{{interlinear|lang=jig |abbreviations=IRR:irrealis; RED:reduplication; 3DL: third person, dual
+|arm-n kay i-ka-'''ak'''-'''mpi'''-'''wul'''
+|water-OBL canoe.VIII.SG VIII.SG.O-1SG.A-'''push'''-'''SEQ'''-'''put_down'''
+|'I pushed the canoe down into the water.'<ref name= "Foley"></ref>{{Rp|326}}}}
+
+==Syntax==
+
+===Word order===
+
+Yimas has very free word order. Since the majority of Yimas clauses consists of just a verb, there are no established word order patterns at all.<ref name= "Foley"></ref>{{Rp|4}} Consider the following intransitive sentence, which consists of just a verb:<ref name= "Foley"></ref>{{Rp|278}}
+
+{{interlinear|lang=jig |abbreviations=RMPAST:remote past; 1PC:first person, paucal; PC:paucal; NIGHT:nighttime
+|paŋkra-[kaykaykay-kwalca-mpi-kulanaŋ-tal]-kia-ntu-ŋkt
+|1PC.S-quickly-rise-SEQ-walk-start-NIGHT-RMPAST-PC
+|'We few got up and quickly started to walk'}}
+
+Noun phrases do not need to form a constituent on the surface, so nouns can be separated from their modifiers (though the modifiers must then have affixes that identify the noun class of the noun they modify).<ref name= "Foley"></ref>{{Rp|4}}
+
+Below are some different word orders present in Yimas:
+
+SOV:
+{{interlinear|lang=jig |abbreviations=I:class I
+|payum narmaŋ '''na'''-'''mpu'''-tay
+|man.I.PL woman.II.SG '''3SG.O'''-'''3PL.A'''-see
+|'The men saw the woman.'<ref name= "Foley"></ref>{{Rp|193}}}}
+
+OSV:
+{{interlinear|lang=jig |abbreviations=I:class I
+|payum narmaŋ '''pu'''-'''n'''-tay
+|man.I.PL woman.II.SG 3PL.O-3SG.A-see
+|'The woman saw the men.'<ref name= "Foley"></ref>{{Rp|193}}}}
+
+Note that the above sentences only differ in the pronominal prefixes appended to the verb /-tay/ 'see'. These pronominal prefixes identify which noun is the subject of the sentence and which noun is the object. So, using different prefixes on a verb can alter which words are the subject and object, without actually changing the placement of nouns in the sentence. Generally, it is the pronominal affix system for verbs that allows Yimas to have free word order, as expressed in the above examples.<ref name= "Foley"></ref>{{Rp|193-194}}
+
+Yimas also allows SVO word order:
+{{interlinear|lang=jig |abbreviations=VIII:class VIII; IRR:irrealis
+|ŋaykum i-mpu-tar-kamta-k-i-cal-cɨ-t anti
+|woman.II.SG VIII.SG.O-3PL.A-CAUS-clear-IRR-VIII.SG-CAUS-become-PERF ground.VIII.SG
+|'The women cleared the ground.'<ref name= "Foley"></ref>{{Rp|299}}}}
+
+===Fixed word orders===
+
+Although word order in Yimas is extremely free, a few constituents have more rigid word order in many cases:
+
+{| class="wikitable"
+! Noun Phrase
+! [[Postposition]]
+|-
+|{{interlinear|lang=jig |abbreviations=V:class V; IX:class IX; IRR:irrealis |makaw mawnta |fish.IX.SG fish.V.SG}}
+|{{interlinear|lang=jig | kantk |with}}
+|- 
+| colspan="2" | 'with makaw and catfish' <ref name= "Foley"></ref>{{Rp|374}}
+|}
+
+{| class="wikitable"
+! Clause
+! Yes/No Question [[Grammatical particle|Particle]]
+|-
+|{{interlinear|lang=jig |abbreviations=V:class V; VI:class VI; IRR:irrealis
+|namat    uraŋ          k-mpu-nan-tkam-t
+|man.I.PL coconut.VI.SG VI.SG.T-3PL.A-2SG.D-show-PERF}}
+|{{interlinear|lang=jig |abbreviations=Q:quote | a |Q}}
+|- 
+| colspan="2" | 'Did the men show you a coconut?' <ref name= "Foley"></ref>{{Rp|269}}
+|}
+
+{| class="wikitable"
+! Possessor
+! Possessee
+|-
+|{{interlinear|lang=jig |abbreviations=III:class III; VI:class VI; IRR:irrealis
+|tuŋkntuma na-kn
+|possum.III.SG POSS-V.SG}}
+|{{interlinear|lang=jig |abbreviations=Q:quote | marm |smell.V.SG}}
+|- 
+| colspan="2" | 'smell of a possum' <ref name= "Foley"></ref>{{Rp|179}}
+|}
+
+== External links ==
+* [[Paradisec]] has an open access collection of [http://catalog.paradisec.org.au/collections/WF2 Yimas Mambu music]. They also have a collection of [[William A. Foley|William Foley]]'s recordings that contain [http://catalog.paradisec.org.au/collections/WF1 some Yimas material].
+
+==References==
+{{reflist}}
+{{Languages of Papua New Guinea}}
+{{Ramu–Lower Sepik languages}}
+
+[[Category:Languages of East Sepik Province]]
+[[Category:Endangered languages of Oceania]]
+[[Category:Lower Sepik languages]]
+[[Category:Endangered Papuan languages]]

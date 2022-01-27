@@ -1,0 +1,227 @@
+{{Infobox language
+|name=Middle Mongol
+|states=[[Mongolia]], [[China]], [[Russia]]
+|era=Developed into [[Classical Mongolian]] by the 17th century
+|ancestor=[[Proto-Mongolic language]]
+|familycolor=Altaic
+|fam1=[[Mongolic languages|Mongolic]]
+|iso3=xng
+|linglist=xng
+|glotto=midd1351
+|glottorefname=Middle Mongol
+|notice=IPA
+}}
+
+'''Middle Mongol''' or '''Middle Mongolian''', was a [[Mongolic languages|Mongolic]] [[koiné language]] spoken in the [[Mongol Empire]]. Originating from [[Genghis Khan]]'s home region of Northeastern [[Mongolia]], it diversified into several Mongolic languages after the collapse of the empire.<ref>{{cite book|title=Mongolian|first=Juha A.|last=Janhunen|publisher=John Benjamins Publishing|year=2012|page=2}}</ref> In comparison to [[Mongolian language|Modern Mongolian]], it is known to have had no [[Vowel length|long vowels]], different [[vowel harmony]] and verbal systems and a slightly different case system.
+
+==Definition and historical precessors==
+Middle Mongol is close to [[Proto-Mongolic]], the ancestor language of the modern [[Mongolic languages]], which would to set at the time when [[Genghis Khan]] united a number of tribes under his command and formed the [[Khamag Mongol]].<ref>Janhunen 2003a: 2-3</ref> The term "Middle Mongol" is somewhat misleading, as what would generally by language naming rules be termed "Old Mongolian" in this terminology is actually Proto-Mongolic. The existence of another ("old") Mongol clan federation in [[Mongolia]] during the 12th century is historical, but there is no language material from this period.<ref>For a fine-grained discussion on this matter, see de Rachewiltz 1999</ref>
+
+According to Vovin (2018), the [[Ruanruan language]] of the [[Rouran Khaganate]] was a Mongolic language and close, but not identical, to Middle Mongolian.<ref>{{Cite journal|last=Vovin|first=Alexander|title=A Sketch of the Earliest Mongolic Language: the Brāhmī Bugut and Khüis Tolgoi Inscriptions|url=https://www.academia.edu/39716045|journal=International Journal of Eurasian Linguistics|year=2019|language=en|volume=1|issue=1|pages=162–197|doi=10.1163/25898833-12340008|issn=2589-8825}}</ref>
+
+[[Juha Janhunen]] (2006) classified the [[Khitan language]] into the "Para-Mongolic" family, meaning it is related to the Mongolic languages as a [[sister group]], rather than as a direct descendant of Proto-Mongolic.<ref>Janhunen 2003b: 391-394</ref> [[Alexander Vovin]] has also identified several possible loanwords from [[Koreanic languages]] into Khitan.<ref>{{cite journal |last1=Vovin |first1=Alexander |author-link1=Alexander Vovin |title=Koreanic loanwords in Khitan and their importance in the decipherment of the latter |journal=Acta Orientalia Academiae Scientiarum Hungaricae |date=2017 |volume=70 |issue=2 |pages=207–15|doi=10.1556/062.2017.70.2.4 |url=http://real.mtak.hu/56022/1/062.2017.70.2.4.pdf }}</ref> He also identified the extinct [[Tuyuhun language]] as another Para-Mongolic language.<ref>{{cite journal |last1=Vovin |first1=Alexander |author-link1=Alexander Vovin |title=Some notes on the Tuyuhun (吐谷渾) language: in the footsteps of Paul Pelliot |journal='Journal of Sino-Western Communications |date=2015 |volume=7 |issue=2}}</ref>
+
+==Corpus==
+
+The temporal delimitation of Middle Mongol causes some problems as shown in definitions ranging from the 13th until the early 15th<ref>Rybatzki 2003: 57</ref> or until the late 16th century.<ref>Poppe 1964: 1</ref> This discrepancy is mainly due to the fact that there are very few documents written in Mongolian language to be found between the early 15th and late 16th century. It is not clear whether these two delimitations constitute conscious decisions about the classification of e.g. a small text from 1453 with less than 120 words<ref>Cleaves 1950</ref> or whether the vaster definition is just intended to fill up the time gap for which little proper evidence is available.
+
+Middle Mongol survived in a number of scripts, namely notably [[ʼPhags-pa script|ʼPhags-pa]] (decrees during the [[Yuan dynasty]]), [[Arabic script|Arabic]] (dictionaries), [[Chinese characters|Chinese]], [[Mongolian script]] and a few western scripts.<ref>Rybatzki 2003: 58</ref> Usually, the {{ill|Stele of Yisüngge|ru|Чингисов_камень}} is considered to be its first surviving monument. It is a sports report written in Mongolian writing that was already fairly conventionalized then and most often dated at the verge of 1224 and 1225.<ref>e.g. Γarudi 2002: 7</ref> However, [[Igor de Rachewiltz]] argues that it is unlikely that the stele was erected at the place where it was found in the year of the event it describes, suggesting that it is more likely to have been erected about a quarter of a century later, when Yisüngge had gained more substantial political power. If so, the earliest surviving Mongolian monument would be an edict of [[Töregene Khatun]] of 1240<ref>de Rachewiltz 1976</ref> and the oldest surviving text arguably ''[[The Secret History of the Mongols]]'', a document that must originally have been written in Mongolian script in 1252,<ref>Atwood 2007</ref> but which only survives in an edited version as a textbook for learning Mongolian from the [[Ming dynasty]], thus reflecting the pronunciation of Middle Mongol from the second half of the 14th century.<ref>de Rachewiltz 2004: xxix-xxxiv, xl-lix</ref>
+
+The term "Middle Mongol" is problematic insofar as there is no body of texts that is commonly called "Old Mongol".<ref>See Rachewiltz 1999 for a critical review of the terminology used in periodizations of Mongolic</ref> While a revision of this terminology for the early period of Mongolian has been attempted,<ref>Svantesson ''et al.'' 2005: 98-99</ref> the lack of a thorough and linguistically-based periodization of Mongolian up to now has constituted a problem for any such attempts. The related term "Preclassical Mongolian" is applied to Middle Mongol documents in Mongolian script that show some distinct linguistic peculiarities.<ref>Rybatzki 2003: 57</ref>
+
+==Phonology==
+
+Middle Mongol had the [[consonant]] [[phoneme]]s {{IPA|/p, m, tʰ, t, s, n, l, r, t͡ʃʰ, t͡ʃ, j, kʰ, k, h/}} and the [[vowel]] phonemes {{IPA|/i, e, y, ø, a, u, o/}}.<ref>Svantesson et al. 2005: 111, 118</ref> The main difference to older approaches<ref>e.g. Poppe 1955</ref> is that {{angbr|γ}} is identified with {{IPA|/h/}} and {{IPA|/ɡ/}} (sometimes as {{IPA|[p]}} before {{IPA|/u/}} and {{IPA|/y/}}), so that {{IPA|*pʰ}}<ref>Note that while Poppe ''writes'' {{IPA|/p/}} and {{IPA|/b/}}, he ''explains it as'' {{IPA|/p ~ b/}} and {{IPA|/pʰ/}}.</ref> for Proto-Mongolic cannot be reconstructed from internal evidence that used to be based solely on word-initial {{IPA|/h/}} and the then rather incomplete data from [[Monguor language|Monguor]].
+
+{| class="wikitable" style="text-align:center"
+|+Vowels<ref>{{Cite book|last=Janhunen|first=Juha|date=2003|title=The Mongolic Languages|pages=63|doi=10.4324/9780203987919|isbn=9780203987919}}</ref>
+|-
+!
+! Front
+! Neutral
+! Back
+|-
+! High
+| y
+|i
+| u
+|-
+! Mid
+| ø
+|
+| o
+|-
+! Low
+| e
+| 
+| a
+|}
+
+{| class="wikitable" style="text-align:center"
+|+Consonants<ref>{{Cite book|last=Janhunen|first=Juha|date=2003|title=The Mongolic Languages|pages=64|doi=10.4324/9780203987919|isbn=9780203987919}}</ref>
+|-
+!
+! Labial
+! Alveolar
+! Palatal
+! Velar
+|-
+! Nasal
+| m
+| n
+|
+| ŋ
+|-
+! Fortis
+| p
+| t
+| t͡ʃ
+| k
+|-
+! Lenis
+| b
+| d
+| d͡ʒ
+| g
+|-
+! Fricative
+|
+| s
+| ʃ
+| h
+|-
+! Lateral
+|
+| l
+|
+|
+|-
+! Liquid
+|
+| r
+|
+|
+|-
+! Semivowel
+|w
+|
+| j
+|
+|}
+
+==Grammar==
+
+Middle Mongol is an [[agglutinating language]] that makes nearly exclusive use of [[suffix]]es. The word order is [[subject–object–verb|subject–object–predicate]] if the subject is a noun and also [[Object–verb–subject|object–predicate–subject]] if it is a [[pronoun]]. Middle Mongol rather freely allows for predicate–object, which is due to language contact.<ref>Rybatzki 2003: 78</ref> There are nine [[Grammatical case|case]]s, the [[nominative]] being unmarked. The verbal suffixes can be divided into finite suffixes, [[participle]]s and [[converb]]al suffixes. Some of the finite suffixes inflect for subject [[Grammatical number|number]] and sex. [[Adjective]]s precede their modificatum and agree with it in number.
+
+===Voice===
+
+Middle Mongol exhibits a [[passive voice|passive]] construction that is peculiar to it and maybe [[Buryat language|Buryat]] as well, but is not present in the other [[dialect]]s or in the other Mongolic languages. While it might also have fulfilled the function to [[Topic (linguistics)|foreground]] the [[patient (grammar)|patient]], it usually seems to mark actions which either affect the [[subject (grammar)|subject]] directly or indirectly affect it in a harmful way.<ref>Except for the marked translations from de Rachewiltz and Cleaves, all information in the following discussion up to but not including the comparison with modern Mongolian were taken from Poppe 1965. Poppe also argues for a “passive of necessity and possibility”, but part of his examples can be refuted and part are rhetorical questions that don’t fit the category (although they are peculiar).</ref>
+
+{{interlinear|number=(§131)
+|belgütei teyin čabčiqdaju bö’et
+|Belgütei so chop-PASS-CVB-IMPERF be-CVB-PRF
+|‘Belgütei, having been chopped in that manner’}}
+
+{{interlinear|number=(§112)
+|ke’üt minu qat bolju’u ke’ekdemüi bi
+|son-PL my khan-PL become-PAST say-PASS-PRS I
+|‘I am told that my sons have become khans’}}
+
+{{interlinear|number=(§178)
+|ma’ui setki’esü ene metü čisuban qarqaqdasu
+|bad think-CVB-COND this like {blood-one’s own} {come out-PASS-{{smallcaps|voluntative}}}
+|‘If I think evil I shall be subject to letting out my blood like this’ or ‘Now if I think evil ..., let my blood be shed like this!’<ref>de Rachewiltz 2004: 101</ref>}}
+
+{{interlinear|number=(§163)
+|naimana irge orqoban eme kö’üben da’uliqdaba bi
+|{Naiman (tribal name)-DAT} people {homestead-one’s own} woman {son-one’s own} pillage-PAST I
+|‘I have been spoiled by the Naiman in respect of my people and folk and wives and sons’<ref>Cleaves 1982: 87. “wives and sons” might also have been a general term for ‘family’. De Rachewiltz 2004: 82, 591 simply translates "of my people and my wife here" in accordance with his interpretation of §162.</ref>}}
+
+In §131, Belgütei is negatively affected by an unknown actor. In §112, the addressee is the passive subject. While it is possible for the speech content to be passive subject, it is far less frequent. In §178, the referent of the subject is directly affected, but syntactically, the affected [[noun phrase]] is marked with the reflexive-possessive suffix (that on its own can resemble the [[accusative case]] in other contexts). In §163, it is not the referent of the subject noun phrase, but people related to it that are directly affected to the distress of the subject.
+
+The agent may be marked by the [[dative]] (''-a'' and ''-da'', but in contrast to [[Classical Mongolian language|Classical Mongolian]] never -dur) or the nominative:
+
+{{interlinear|number=(§272)
+|Ögödei qahan ebetčin gürtejü
+|Ögödei Khan illness reach-PASS-CVB-IMPERF
+|‘Ögödei Khan being befallen by an illness’}}
+
+{{interlinear|number=(§111)
+|qalqa kene boldaquyu bi
+|shield who-DAT become-PASS-PRES I
+|‘By whom shall the office of shield be done for me?’<ref>Cleaves 1982: 46</ref>}}
+
+In both of these examples, the [[verb]] [[stem (linguistics)|stem]]s to which the passive subject is suffixed are [[intransitive verb|intransitive]]. Passive suffixes get suffixed to [[phrase]]s, not verbal stems, e.g.:
+
+{{interlinear|number=(§200)
+|Jamuqa nökötte'en bariju irekdejü
+|Jamuqa {companion-DAT-one's own} seize-CVB-IMPERF come-PASS-CVB-IMPERF
+|'Jamuqa, being seized by his companions and forced to come (unto Genghis Khan)'<ref>Ōsaki 2006: 216. The translation adapts elements from Cleaves 1982: 136, but follows the Mongolian translation below in assuming that ''ir-'' is related to the position of Genghis, not of Jamuqa. This interpretation is in full agreement with de Rachewiltz 2004: 129: 'when Jamuqa was brought ''here'' by his companions' (cursive marking by de Rachewiltz).</ref>}}
+
+In [[Mongolian language|modern Mongolian]], neither the passivization of ''ir-'' nor the suffixing of passive suffixes to phrases are possible, so the modern translation of §200 runs:
+
+{{interlinear|number=(§200)
+|Jamuha nöhöddöö barigdaž ireed<ref>Bira et al. 2004</ref>
+|Jamuha {friend-DAT-one's own} seize-PASS-CVB-IMPERF come-CVB-IMPERF|}}
+
+Next to the passive, there is also a [[causative]] that is, however, less notable. Subjects of intransitive verbs of clauses that are causativized get accusative marking (as in §79), while former subjects of [[transitive verb]]s get marked with dative or [[instrumental case]] (as in §188 and §31). In contrast to the passive suffix, the causative suffix doesn't attach to a phrase, but to single verbs (as long as they denote different actions):<ref>The argument and the four examples below are taken from Ōsaki 2006: 245-247.</ref>
+
+{{interlinear|number=(§79)
+|Temüjin-i morila’ulju
+|Temüjin-ACC {mount a horse-CAUS-CVB-IMPERF}
+|'they had Temüjin mount a horse'}}
+
+{{interlinear|number=(§188)
+|mori-yan Kököčü aqtači-da'an bari’ulju’ui
+|{horse-one's own} Kököčü {keeper of geldings-DAT-one's own} seize-CAUS-PAST
+|'He gave his horse to his equerry Kököčü to hold'<ref>de Rachewiltz 2004: 109, 667. He points out that Kököčü most likely held considerable social status.</ref>}}
+
+{{interlinear|number=(§31)
+|qarčiqai-bar bari’uluqsan noqut
+|hawk-INSTR seize-CAUS-PERF-PTCP duck-PL
+|'the ducks ... caught by his hawk'<ref>de Rachewiltz 2004: 6</ref>}}
+
+{{interlinear|number=(§189)
+|berined-iyen berile’üljü ötökle’üljü qu’urda’ulju
+|{daughter-in-law-one's own} {to daughter-in-law-CVB-IMPERF} present_ötög-{{smallcaps|c i}} play_qu'ur-{{smallcaps|c i}}
+|'She had her daughter-in-law perform the rites pertaining to a daughter in law, ordered that the ceremonial wine be drunk and the horse fiddle be played, and ...'<ref>de Rachewiltz 2004: 110</ref><br>
+'making the daughters in law perform the rites of a daughter in law, making one to present the ''ötög'', making one to play the qu'ur'<ref>Cleaves 1982: 116. The plural reading is perhaps more likely here.</ref>}}
+
+Next to these morphemes, Middle Mongol also had suffixes to express [[Reciprocal (grammar)|reciprocal]] and cooperative meaning, namely ''-ldu-'' ~ ''-lda-'' and ''-lča-''.<ref>Гarudi 2002: 336-339</ref> On the other hand, while the plurative/distributive ''-čaγa-'' is common to modern Mongolic languages, it is not attested in Middle Mongol.<ref>Rybatzki 2003: 65</ref>
+
+== See also ==
+*[[Praise of Mahakala]]
+*[[Inscription of Hüis Tolgoi]]
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* Atwood, Christopher (2007): The date of the "Secret history of the Mongols" reconsidered. ''[[Journal of Song-Yuan Studies]]'' 37: 1-48.
+* Bira, Š. et al. (2004): ''Mongolyn nuuc tovčoo''. Ulaanbaatar: Bolor sudar.
+* [[Francis Woodman Cleaves|Cleaves, Francis Woodman]] (1950): The Sino-Mongolian edict of 1453. ''Harvard Journal of Asiatic Studies Vol. 13, No. 3/4'': 431–454.
+* Cleaves, Francis Woodman (1982): ''The Secret history of the Mongols''. Cambridge: Harvard University Press.
+* [[Igor de Rachewiltz|de Rachewiltz, Igor]] (1976): Some Remarks on the Stele of Yisüngge. In: Walter Heissig et al.: ''Tractata Altaica – Denis Sinor, sexagenario optime de rebus altaicis merito dedicata''. Wiesbaden: Harrassowitz: 487–508.
+* de Rachewiltz, Igor (1999): Some reflections on so-called Written Mongolian. In: Helmut Eimer, Michael Hahn, Maria Schetelich and Peter Wyzlic (eds.): ''Studia Tibetica et Mongolica - Festschrift Manfred Taube''. Swisttal-Odendorf: Indica et Tibetica: 235–246.
+* de Rachewiltz, Igor (2004): ''The Secret history of the Mongols''. Brill: Leiden.
+* Γarudi (2002): ''Dumdadu üy-e-yin mongγul kelen-ü bütüče-yin kelberi-yin sudulul''. Kökeqota: Öbür mongγul-un arad-un keblel-ün qoriy-a.
+* [[Juha Janhunen|Janhunen, Juha]] (ed.) (2003): ''The Mongolic languages''. London: Routledge.
+* [[Juha Janhunen|Janhunen, Juha]] (2003a): Proto-Mongolic. In: Janhunen 2003: 1–29.
+* [[Juha Janhunen|Janhunen, Juha]] (2003b): Para-Mongolic. In: Janhunen 2003: 391–402.
+* Ōsaki, Noriko (2006): “Genchō hishi” no gengo ni mirareru judōbun. In: [[Arakawa Shintarō]] et al. (ed.): ''Shōgaito Masahiro sensei tainin kinen ronshū – Yūrajia shogengo no kenkyū''. Tōkyō: Yūrajia gengo no kenkyū kankōkai: 175–253.
+* [[Nicholas Poppe|Poppe, Nicholas]] (1955): ''Introduction to Mongolian comparative studies''. Helsinki: Finno-Ugrian society.
+* Poppe, Nicholas (1964 [1954]): ''Grammar of Written Mongolian''. Wiesbaden: Harrassowitz.
+* Poppe, Nicholas (1965): The passive constructions in the language of the Secret history. ''Ural-Altaische Jahrbücher 36'': 365–377.
+* Rybatzki, Volker (2003): Middle Mongol. In: Janhunen 2003: 47–82.
+* [[Jan-Olof Svantesson|Svantesson, Jan-Olof]], Anna Tsendina, Anastasia Karlsson, Vivan Franzén (2005): ''The Phonology of Mongolian''. New York: Oxford University Press.
+
+==External links==
+* [https://web.archive.org/web/20110716142555/http://altaica.narod.ru/Engl.htm Monumenta Altaica] grammars, texts, dictionaries and bibliographies of Mongolian and other Altaic languages
+* [http://www.linguamongolia.co.uk/index.html Lingua Mongolia] information on Classical Mongolian, including an online dictionary
+*[https://books.google.com/books?id=qARHlq4kK5wC&pg=PA7&dq=mongolia+takm&source=gbs_toc_r&cad=3#v=onepage&q=mongolia%20takm&f=false Éva Csáki (2006) "Middle Mongolian Loan Words in Volga Kipchak Languages"]
+
+{{Mongolic languages}}
+
+{{DEFAULTSORT:Middle Mongol Language}}
+[[Category:Mongolic languages]]
+[[Category:Extinct languages of Asia]]

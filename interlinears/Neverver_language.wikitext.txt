@@ -1,0 +1,756 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+| name = Neverver
+| nativename = Lingarak
+| pronunciation = 
+| region = Central [[Malekula]]
+| state = [[Vanuatu]]
+| speakers = 560
+| date = 2012
+| ref = <ref name="Barbour 2012">{{harvnb|Barbour|2012}}</ref>
+| familycolor = Austronesian
+| fam2 = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+| fam3 = [[Oceanic languages|Oceanic]]
+| fam4 = [[Southern Oceanic languages|Southern Oceanic]]
+| fam5 = [[Northern Vanuatu languages|Northern Vanuatu]]
+| fam6 = [[Malekula Interior languages|Malekula Interior]]
+| fam7 = [[Malekula Central languages|Malekula Central]]
+| iso3 = lgk
+| glotto = ling1265
+| glottorefname = Neverver
+| dia1 = Mindu
+| dia2 = Wuli
+}}
+
+'''Neverver''' (Nevwervwer), also known as '''Lingarak''', is an [[Oceanic language]]. Neverver is spoken in Malampa Province, in central [[Malekula]], Vanuatu. The names of the villages on Malekula Island where Neverver is spoken are Lingarakh and Limap.
+
+Neverver is a threatened language, and native languages are protected and secured by the local government that is in charge. Sixty percent of the children are able to speak this language.{{sfn|Barbour|2012}} However, the dominant languages in the community, such as Bislama, English, and French are pushed to be used within these language communities.<ref>{{Cite web|url=http://www.endangeredlanguages.com/lang/1738|title=Did you know Neverver is vulnerable?|website=Endangered Languages|access-date=2016-09-16}}</ref> Bislama is the most widely used language within this region. English and French are the two most distinguished languages within this region because they are connected with the schooling system. In the Malampa Province, English and French are the primary languages taught for education. English is used for business transactions within this region and helps generate revenue within the region.{{sfn|Barbour|2012}} This is due to the fact that before this province gained its independence in 1980 they were governed by the joint French-English colonial rule. Overall, there are only 550 native speakers of Neverver.
+
+Neverver falls under the Oceanic branch of the Austronesian language family (based on comparison of cognates, morphology, phonology and other evidence markers), which is the second largest language family in the world.<ref name=":0">{{Cite book |title=Language in Hawai'i and the Pacific |editor-last=Sato |editor-first=Hiroko |editor-last2=Terrell |editor-first2=Jacob}}</ref> There are two dialects of the Neverver language; Mindu and Wuli.<ref>{{Ethnologue18|lgk}}</ref>
+
+== Phonology ==
+{{cleanup lang|date=June 2021}}<!-- ⁿ appears in several untagged contexts -->
+=== Consonants ===
+Neverver contains a total of 27 [[consonant]] phonemes in five distinct [[Place of articulation|places of articulation]] and six distinct [[Manner of articulation|manners of articulation]].<ref name="Barbour 2012" /> A notable feature of Neverver is that some voiced consonants appear only in its [[Prenasalized consonant|prenasalized]] form.<ref name="Barbour 2012" /> Another feature of Neverver's consonants is that some have a contrastive [[Gemination|geminate]] counterpart: /pː/, /tː/, /kː/, /mː/, /nː/, /lː/, /rː/, and /sː/.<ref name="Barbour 2012" /> The consonant phonemes are given in the table below using the [[International Phonetic Alphabet (IPA)|International Phonemic Alphabet (IPA)]].
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2" |
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+! colspan="2" | [[Nasal consonant|Nasals]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| 
+| {{IPA link|ŋ}}
+|-
+! rowspan="2" | [[Plosive|Plosives]]/<br>[[Affricate|Affricates]]
+! <small>plain</small>
+| {{IPA link|p}}
+| {{IPA link|t}}
+| 
+| {{IPA link|k}}
+|-
+! <small>prenasalized</small>
+| {{IPA link|ᵐb}}
+| {{IPA link|ⁿd}}
+| {{IPA link|ⁿdʒ}}
+| {{IPA link|ᵑɡ}}
+|-
+! colspan="2" | [[Fricative|Fricatives]]
+| {{IPA link|β}}
+| {{IPA link|s}}
+| 
+| {{IPA link|ɣ}}
+|-
+! rowspan="2" | [[Trill consonant|Trills]]
+! <small>plain</small>
+| 
+| {{IPA link|r}}
+| 
+| 
+|-
+! <small>prenasalized</small>
+| {{IPA link|ʙ|ᵐᵇʙ}}
+| {{IPA link|ⁿᵈr}}
+| 
+| 
+|-
+! colspan="2" | [[Approximant|Approximants]]
+| 
+| {{IPA link|l}}
+| {{IPA link|j}}
+| {{IPA link|w}}
+|}
+
+Voiced obstruents, including the fricatives {{IPA|/β/}} and {{IPA|/ɣ/}}, and the prenasalized trills {{IPA|/mbʙ/}} and {{IPA|/ndr/}} are devoiced in word-final position in rapid speech.  Among younger speakers, the prenasalized plosives become simple nasals in word-final position.
+
+The plosive {{IPA|/p/}} becomes a voiceless trill {{IPA|[ʙ&#805;]}} before the vowel {{IPA|/u/}}.{{sfn|Barbour|2012|pp=24–25}}
+
+=== Vowels ===
+Neverver contains a total of eight [[vowel]] [[Phoneme|phonemes]], five regular vowels and three [[Diphthong|diphthongs]]. However, there is evidence that /y/ and /ø/ are contrastive among older speakers, bringing the total number of vowels to ten for some speakers.<ref name="Barbour 2012" /> The vowel phonemes are given in the table on the left IPA. A list of diphthongs are also provided in the table on the right along with examples.<ref name="Barbour 2012" /><div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+{|
+|
+{| class="wikitable" style="text-align:center;"
+|+Vowel Phonemes<ref name="Barbour 2012" />
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}} ({{IPA link|y}})
+|
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}} ({{IPA link|ø}})
+|
+| {{IPA link|o}}
+|-
+! [[Low vowel|Low]]
+|
+| {{IPA link|a}}
+|
+|}
+
+| width="40px" |
+|
+{| class="wikitable" style="text-align: center;"
+|+Diphthongs
+!IPA
+!Example
+!English Translation
+|-
+|au
+|/naut/
+|"place"
+|-
+|ei
+|/mei/
+|"May"
+|-
+|ai
+|/aijem/
+|"home, dwelling"
+|}
+|}
+</div>
+
+=== Syllable structure ===
+Neverver allows for [[Syllable (linguistics)|syllables]] with up to one consonant in the [[Onset (linguistics)|onset]] and in the [[Coda (linguistics)|coda]], including syllables with only a [[Nucleus (linguistics)|nucleus]]. This means the structure of syllables is {{transl|lgk|italic=no|(C)V(C)}}.<ref name="Barbour 2012" /> An example of the possible syllable structures is given in the table below where the corresponding syllables are in bold:<ref name="Barbour 2012" />
+
+{| class="wikitable" style="text-align: center;"
+!Template
+!Instantiation
+!English Translation
+|-
+|V
+|/'''ei'''/
+|"he"
+|-
+|CV
+|/'''nau'''/
+|"cane"
+|-
+|VC
+|/i.βu.ŋis.'''il'''/
+|"he made smile"
+|-
+|CVC
+|/'''tox'''/
+|"exist"
+|}
+
+=== Stress ===
+[[Stress (linguistics)|Stress]] in Neverver is regular and not contrastive. It generally falls on the singular syllable of monosyllabic words and on the penultimate syllable of multisyllabic words. In compounds, each stem is treated separately so stress is assigned to each following the general stress pattern.<ref name="Barbour 2012" /> Examples of the assignment of stress in common words are given in the table below.<ref name="Barbour 2012" />
+
+{| class="wikitable"
+|+Stress in Common Words
+!Example
+!English Translation
+|-
+|['naus]
+|"rain"
+|-
+|['naɣ.len]
+|"water"
+|-
+|[ni.'te.rix]
+|"child"
+|}
+
+Verbs follow a stress pattern that is different from the general stress pattern. In verbs, stress falls on the first syllable of the verb stem, disregarding the obligatory prefix; however, in imperative statements, stress is placed on the subject/mood prefix and on the first syllable of the verb stem. During reduplication, primary stress is assigned to the first instance of the reduplication.<ref name="Barbour 2012" /> Examples of the assignment of stress in verbs, instances of reduplication, and imperative statements are given in the table below.<ref name="Barbour 2012" />
+
+{| class="wikitable"
+|+Stress in Verbs
+!Example
+!English Translation
+|-
+|[is.'ɣam]
+|"one"
+|-
+|[im.'ʙu.lem]
+|"(s)he will come"
+|-
+|[na.<small><sup>m</sup></small>bit.'liŋ.liŋ]
+|"we will leave (her)"
+|-
+|[nit.'mal.ma.lu]
+|"we dispersed"
+|-
+|['kam.'tuɸ]
+|"go away!"
+|-
+|['kum.'ʙu.lem]
+|"come!"
+|}
+
+=== Pronoun and person markers ===
+Neverver uses different pronominal and nominal forms. There are three main noun classes: common, personal, and local nouns. There is also another fourth pronominal-noun category which blends features of the Neverver pronominal system with properties of the three major noun classes. There are three pronoun paradigms in Neverver: independent personal pronouns, possessive determiners, and possessive pronouns. Like most Austronesian languages, in Neverver the inclusive/exclusive distinction only applies to the 1st person plural category. Personal nouns in Neverver include personal proper names as well as personal kin terms.
+
+=== Pronoun paradigms ===
+
+==== Independent personal pronouns ====
+Independent personal pronouns encode basic person and number contrasts. This includes the optionally articulated ''i-'', which can indicate either a subject or object. Although this initial ''i-'' is optional with the pronouns, it is obligatory with the personal interrogative. For example, ''i-sikh'' means 'who'. Independent personal pronouns usually refer to animate entities, unless in some particular circumstances such as reflexive constructions. Below is a table showing the independent pronoun paradigm:{{sfn|Barbour|2012|p=72}}
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! Inclusive
+| rowspan="2" | (i-)na
+| (i-)git
+|-
+! Exclusive
+| (i-)nam ~ (gu)mam
+|-
+! colspan="2" | 2nd person
+| (i-)okh
+| (i-)gam
+|-
+! colspan="2" | 3rd person
+| ei
+| adr
+|}
+
+===== Subject/mood =====
+Furthermore, all subjects, both nominal and pronominal, are cross-referenced with a subject/mood prefix which is attached to the verb stem in realis tense. These subject/mood prefixes differ from independent personal pronouns because there is a further dual distinction in addition to the singular and plural distinction. Subject/mood prefixes are also obligatory in all verbal constructions, unlike independent pronouns. Below is a table showing the subject/mood paradigm:{{sfn|Barbour|2012|p=73}}
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! Inclusive
+| rowspan="2" | ni-
+| nir(i)-
+| nit(i)-
+|-
+! Exclusive
+| nar(i)-
+| nat(i)-
+|-
+! colspan="2" | 2nd person
+| ku-
+| kar(i)-
+| kat(i)-
+|-
+! colspan="2" | 3rd person
+| i-
+| ar(i)-
+| at(i)-
+|}
+
+The table shows that the 3rd person form is irregular.
+
+===== Gender =====
+In Neverver there are gendered pronominal nouns, with ''vinang'' expressing a female and ''mang'' expressing a male. These can be obligatory modified with a demonstrative or a relative clause. Gender can also be expressed using third person singular pronouns. In Neverver, when there are two human participants involved of different genders, one is expressed with a gender-coded form and the other can be coded with an optional gender-neutral ''ei.'' The gender-coded form to express a female participant as the grammatical subject of the first clause, is encoded in the subject/mood prefix ''i-''. If the male becomes the grammatical subject in the next clause, this is distinguished with the male pronominal-noun ''mang''. For example:{{sfn|Barbour|2012|p=75}}
+
+{{interlinear|indent=3|lang=lgk
+|I-vlem, mang i-lav ei
+|3:REAL:SG-come man:ANA 3:REAL:SG-get 3SG
+|'She came and the man married her.' [NVKS10.112]}}
+
+In the above example there is a male and female participant involved. The subject/mood prefix ''i-'' encodes that the female is the subject of the first clause. When the subject shifts to the male, the pronominal-noun ''mang'' is used to show this shift. To show that the female has become the object again, the 3rd person pronoun ''ei'' expresses this.
+
+==== Possessive determiners  ====
+Prefixes derive possessive determiners in Neverver. Most of these begin with the possessive prefix ''t-''. In Neverver, possessive determiners refer exclusively to human possessors, and a different construction is used to express non-human possessors. Below is a table showing the possessive determiners paradigm:{{sfn|Barbour|2012|p=75}}
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Non-singular
+|-
+! rowspan="2" | 1st person
+! Inclusive
+| rowspan="2" | (t-)na
+| (t-)git
+|-
+! Exclusive
+| (t-)nam ~ (t-)mam
+|-
+! colspan="2" | 2nd person
+| (t-)ox
+| (t-)gam
+|-
+! colspan="2" | 3rd person
+| titi ~ ei
+| titi-dr ~ adr
+|}
+
+==== 3. Possessive pronouns ====
+Prefixes also derive possessive pronouns in Neverver. Possessive pronouns are made up of a nominalising prefix ''at-'' and the possessive prefix ''t-'', which are both attached to the base pronominal morpheme (the independent pronoun). Furthermore, when the nominalising prefix is attached, the possessive pronoun can become the head of the noun phrase by itself. Below is a table showing the possessive pronoun paradigm:{{sfn|Barbour|2012|p=76}}
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Non-singular
+|-
+! rowspan="2" | 1st person
+! Inclusive
+| rowspan="2" | at-t-na
+| at-t-git
+|-
+! Exclusive
+| at-t-nam
+|-
+! colspan="2" | 2nd person
+| at-t-okh
+| at-t-gam
+|-
+! colspan="2" | 3rd person
+| at-titi
+| at-titi-dr
+|}
+
+As the table shows, the 3rd person form uses the suppleted ''titi'' morpheme rather than the independent personal pronoun form. For example, ''at-t-na'' means 'mine' and ''at-titi-dr'' means 'theirs'.
+
+=== Personal nouns ===
+In Neverver, personal nouns are one of the three main noun classes, along with common nouns and local nouns. These personal nouns can include personal proper names and personal kin terms. Many of the women's personal proper names are traditionally  marked with the morphemes ''le-'' or ''li''; however, there is no morpheme associated with men's traditional personal proper names. Neverver also has a small set of kin terms that can express family relations as well as other name avoidance strategies.{{sfn|Barbour|2012|pp=87-90}}
+
+== Syntax ==
+
+=== Basic word order ===
+The basic [[word order]] of Neverver is [[Subject–verb–object|SVO]], including intransitive, transitive, and [[Ditransitive verb|ditransitive]] verbs.<ref name="Barbour 2012" /> Examples of sentences with intransitive, transitive, and ditransitive verbs are given below.<ref name="Barbour 2012" />
+
+{{interlinear|indent=3|italics2=yes|glossing3=yes|italics1=no|style1 = font-weight:bold;
+|Subject {} {Verb (Intransitive)}
+|Nibisbokh ang i-dum
+|rat ANA 3:REAL:SG-run
+|"The rat ran."}}
+
+{{interlinear|indent=3|italics2=yes|glossing3=yes|italics1=no|style1 = font-weight:bold;
+|Subject {} {Verb (Transitive)} {Primary Object} {}
+|Nibisbokh ang i-te noron nidaro.
+|rat ANA 3:REAL:SG-cut leaf taro
+|"The rat cut taro leaves."}}
+
+{{interlinear|indent=3|italics2=yes|glossing3=yes|italics1=no|style1 = font-weight:bold;
+|Subject {Verb (Ditransitive)} {Primary Object} {} {Secondary Object}
+|Niterikh i-sus-ikh nida titi ni-kkan-ian
+|child 3:REAL:SG-ask-APPL mother 3:POSS:SG NPR-eat-NSF
+|"The child asked his mother for food."}}
+
+== Possession ==
+In Neverver, there are a numerous ways to describe possession. The correlation between an object and what matter it is made up of can make a difference in describing possession.{{sfn|Barbour|2012}} There are seven main types of possession in the language of Neverver. This includes:{{sfn|Barbour|2012|pp=132–133}}
+
+# Human Possession
+# Inherent possessions without nominal modifier
+# Associative possession with nominal modifier
+# Relative clause without nominal modifier
+# Relative clause with nominal modifier
+# Number relative clause without nominal modifier
+# Number relative clause with nominal modifier
+
+Some examples of possession from Barbour are:{{sfn|Barbour|2012}}
+* Human possession: nida (mother)  t-na  "my mother"
+* Associative possession with nominal modifier: wido (window) an (nmod) nakhmal (house) ang (the) "The window of the house"
+* Number relative clause with nominal modifier: nimokhmokh-tro (female old) an (nmod) i-ru (two) ang  (the) "the two old women/wives"
+
+== Reduplication ==
+Reduplication of words occur in the language of Neverver. They occur in conjunction with verbs in this language. Words are reduplicated by reproducing and repeating the entire word or partially of it.<ref name=":0" /> For example, the word 'tukh' of Neverver means strike, when duplicated to 'tukh tukh' it produces the word for beat.{{sfn|Barbour|2012}}
+
+Reduplication Constraint One is used within Neverver. This is when a word's prefix being reduplicated follows the constant-verb format.{{sfn|Barbour|2012}} The table below shows examples of this:{{sfn|Barbour|2012|p=230}} 
+{| class="wikitable"
+!Simple Stem
+!Reduplicated Stem
+|-
+|CV<br>te 'hit'
+|CV-CV<br>tete 'fight'
+|-
+|CVC<br>tas 'scratch'
+|CVC-CVC<br>tas-tas 'sharpen'
+|-
+|CVCV<br>malu 'leave'
+|CVC-CVCV<br>mal-malu 'disperse'
+|-
+|CCV<br>tnga 'search'
+|CV-CCV<br>ta-tnga 'search' (duration)
+|-
+|CCVC<br>sber 'reach'
+|CV-CCVC<br>se-sber 'touch'
+|}
+
+The most useful process of Reduplication in Neverver is to acquire a stative verb from a verb encoding action. Some examples of this can be seen in the table below.{{sfn|Barbour|2012|p=244}}
+{| class="wikitable"
+!Base
+!Reduplicant
+|-
+|tur 'stand up'
+|turtur 'stand'
+|-
+|ngot 'break'
+|ngotngot 'be broken'
+|-
+|jing 'lie down'
+|jingjing 'be lying down'
+|}
+
+There are irregular reduplications within Neverver that do not follow the constant-verb format. According to Julie Barbour, the word {{transl|lgk|vlem}}, which means "come", does not follow this format.{{sfn|Barbour|2012|p=232}} It would be implied that the reduplication of this word would ve-vlem. Julie Barbour uses the example sentence "Ari vle-vle-vle-vlem" which translates into "They came closer and closer."{{sfn|Barbour|2012|p=232}}
+
+== Negation ==
+Negation is a grammatical construction that semantically expresses a contradiction to a part of or an entire sentence.<ref name=":1">{{harvnb|Crystal|2009|pages=323, 324}}</ref> In Lingarak, negatives typically contradict verb constructions.
+
+=== Forming negations ===
+Verb clauses in Lingarak are negated using the negative particle ''si''.<ref name=":2">{{harvnb|Barbour|2012|page=279}}</ref> This negative particle always occurs after the verb. Thus, the particle is typically called a post-verbal negative particle. It can be used to negate the following constructions:
+
+* Declarative clause - clauses that are typically used to express statements.<ref>{{harvnb|Crystal|2009|page=130}}</ref>
+* Imperative clauses - clauses that are typically used to give commands.<ref>{{harvnb|Crystal|2009|page=237}}</ref> This can be observed in example 15 below.
+* Realis mood - a mood of language, where the proposition is strongly asserted to be true and apparent, and can be readily backed up with evidence.<ref>{{harvnb|Crystal|2009|pages=402, 403}}</ref> Realis verb forms typically involve the past tense.
+* Irrealis mood - a mood of language, where the proposition is weakly asserted to be true, and not readily backed up with evidence.  Irrealis verb forms typically involve certain modals.
+
+In example 1 below, a declarative clause in the realis mood has been negated.<ref name=":3">{{harvnb|Barbour|2012|pages=280–282}}</ref> The verb ''i-vu'' meaning 'go' in third person singular realis mood is negated using the post-verbal negative particle ''si''.  
+
+{{interlinear|number=(1)
+|Be mama i-vu si.
+|but father 3:REAL:SG-go NEG
+|But the father didn't go}}
+
+Similar to example 1 above, the post-verbal negative particle ''si'' is also used to negate the first person singular ''nibi-kkan'' meaning 'eat' in example 2 below.<ref name=":3" /> However, the following should be noted:
+
+* The post-verbal negative particle ''si'' directly follows the verbal construction that it is negating. In this case ''nibi-kkan.'' This is important in this example because there are two verbs involved. Since ''si'' directly follows ''nibi-kkan'', it only negates ''nibi-kkan'' and not ''i-ver''.
+* It is also important to notice that the verb that is being negated ''nibi-kkan'', directly precedes ''si'', and that ''si'' directly precedes the reduced exclamatory particle ''in''. Any part of a sentence that is being negated and occurs after the negated verb construction will occur after ''si'' in the negated construction. There are however certain exceptions for this as shown in examples 6 to 9 where ''si'' affixes to form new aspect markers, and also in examples 10 to 13 where ''si'' occurs with serial verb constructions.
+
+{{interlinear|number=(2)
+|Vinang i-ver "Na nibi-kkan si in!"
+|woman:ANA 3:REAL:SG-say 1SG 1:IRR:SG-eat NEG EXCLAM
+|The woman said, "I won't eat!"}}
+
+Example 3 below shows another example of negation using the post-verbal negative particle ''si''.<ref name=":3" /> However, in this example it is important to observe that any words (that can take a mood) after ''si'' in example 3 is written in the irrealis mood. This is another characteristic of negation in Lingarak. When something in the realis mood is negated in Lingarak, then elements following the ''si'' particle will be written in irrealis mood.<ref name=":3" />
+
+{{interlinear|number=(3)
+|Ei i-khan si navuj ibi-skhan.
+|3SG 3:REAL:SG-eat NEG banana 3:IRR:SG-one.
+|He didn't eat a banana}}
+
+==== Existential negation ====
+In Lingarak, verb constructions that express the meaning of existence, also known as existential constructions, are treated like other common verbs when being negated.<ref name=":2" /> Thus, to negate the verb ''tokh'' in Lingarak which means ‘to exist’, only a ''si'' particle is required to follow it as shown in example 4 below.<ref name=":3" />
+
+{{interlinear|number=(4)
+|Nakhabb vangvang i-takh si.
+|fire {be alight} 3:REAL:SG-exist NEG
+|There was no fire}}
+
+This is atypical of Oceanic languages since Oceanic languages typically have special negative existential verbs as shown below in example 5.<ref>{{Cite book |last=Hovdhaugen |first=Even |title=Negation in Oceanic Languages: Typological Studies |date=2000 |publisher=Lincom Europa |isbn=3895866024 |oclc=963109055}}</ref> This example is in Tokelauan which is spoken in Polynesia. In contrast to the Lingarak, Tokelauan uses a verb in the negative form for 'exist' instead of a post-verbal negative particle. 
+
+{{interlinear|number=(5)
+|Kua hēai he huka.
+|PERF NEG:exist INDEF sugar
+|There isn't any more sugar}}
+
+==== Affixing ''si'' with aspect markers ====
+In Lingarak, the aspect of continuity is expressed with ''mo''. When a verb that is occurring continuously is negated, the ''si'' particle is used as an affix and is connected to the end of ''mo''. Thus, creating a new particle ''mosi'' which means ‘no longer’.<ref name=":2" /> This is demonstrated in example 6 below.<ref name=":2" /> Similar to examples 1 and 2 above, the negative particle ''si'' occurs after the verbal construction. (In this case ''Nimt-uv-uv'', meaning 'go'.) In order to express the continuous aspect of the verb ''Nimt-uv-uv'', ''si'' is affixed into the end of the aspect marker ''mo'' to form ''mosi''. This now gives the negation the meaning of 'no longer' as shown in the free translation of example 6.
+
+{{interlinear|number=(6)
+|Nimt-uv-uv mo-si il naut i-met
+|1PL:INCL:IRR-REDUP-go CONT-NEG CAUS place 3SG:REAL-dark
+|We can't go anymore because it's dark}}
+
+It should also be noted that the affixes ''mo-'' and ''-si'' in example 6 above are interchangeable in terms of affix order. This is demonstrated in example 7 below.<ref name=":3" /> In contrast to ''mosi'' in example 6 above, ''si'' precedes the continuous aspect marker ''mo'' to form the continuous negation particle ''simo.''<ref name=":2" /> Similar to the particle ''mosi'' in example 6, ''simo'' also has the meaning of 'no longer' as shown in the free translation of example 7.
+
+{{interlinear|number=(7)
+|Git nimt-uv-uv si-mo
+|1NSG:INCL 1PL:INCL:IRR:REDUP-go NEG-CONT
+|We can't go anymore}}
+
+Similar to the aspect of continuation, the aspect of ‘not yet’ can also be expressed by the particle ''vas'' which is short for ''vasi''.<ref name=":3" /> This particle is formed by reducing the affixation of ''si'' onto the particle ''va''. Unlike ''mo'', ''va'' in Lingarak is not a free morpheme. Thus, it is inseparable from ''si''. Example 8 presented below demonstrates an instances of ''vasi''.<ref name=":3" />
+
+{{interlinear|number=(8)
+|Nabbun nitan-jakh nit-rongil vasi
+|smell {thing:DEF-be here} 1PL:INCL:REAL:know {not yet}
+|'The smell of this thing, we don't know it yet.'}}
+
+A sentence using the reduced form of ''vasi'' which is ''vas'' as discussed above, is presented in example 9 below.<ref name=":3" />
+
+{{interlinear|number=(9)
+|Ar at-rongil vas deb nemaki Litslits
+|3NSG 3PL:REAL-REDUP-leave {not yet} CONT denizen Litzlitz
+|They still don't know the people of Litzlitz yet}}
+
+==== Negating serial verb constructions ====
+In Lingarak, verbs can be strung together to form a single complex nucleus. This is process of compounding two verbs can be analysed as an instance of serialisation.<ref>{{Citation |last=Margetts |first=Anna |title=Valence and Transitivity in Saliba, an Oceanic Language of Papua New Guinea |date=1999 |publisher=Katholieke Universiteit Nijmegen |oclc=812759222}}</ref> These instances of verb constructions are typically referred to as serialised verb constructions and  also typically behave like a single verb. In this way, they can only have one subject argument, and one ''si'' particle for negation. An example of negating one of these serialised verbs is demonstrated in example 10 below.<ref name=":2" />
+
+{{interlinear|number=(10)
+|Na ni-ver te ei ib-lav-bir si
+|1SG 1:SG:REAL-say COMP 3SG 3SG:IRR-get-break/win NEG
+|I said he didn't return it}}
+
+As seen in example 10 above, the serialised verb construction ''ib-lav-bir'', is negated with the post verbal particle ''si'' like all other typical scenarios of verb clause negation in Lingarak.<ref name=":4">{{harvnb|Barbour|2012|pages=316, 321–324}}</ref> This is because this serialised verb construction behaves like a single verb. However, the placement of the ''si'' particle begins to change when the second verb in the construction begins to play a more prepositional role (rather than verbal) as discussed below.
+
+The form ''delivs'' in Lingarak means 'go around'. However, this verb never occurs independently, but instead will serialise on the end of other verbs to form serial verb constructions. The serial constructions are presented in the table below. However, it is important to note that these serialisations only occur for verbs that have meaning of motion or posture.
+
+{| class="wikitable"
+!Verb of motion or posture
+!English equivalent of verb
+!Serialised verb construction
+!English equivalent of serialised verb construction
+|-
+|''sav''
+|'dance'
+|''sav delvis''
+|'dance around'
+|-
+|''dum''
+|'run'
+|''dum delvis''
+|'run around'
+|-
+|''vavu''
+|'walk'
+|''vavu delvis''
+|'walk around'
+|-
+|''vor''
+|'sit'
+|''vor delvis''
+|'sit around'
+|}
+
+Despite the prepositional like meaning of ''delvis''<sub>,</sub> when serialised with other verbs, the serialised verb construction behaves like ''ib-lav-bir'' when being negated by the post-verbal negative particle ''si'' since it is inherently a verb meaning 'go around'. This behaviour is illustrated in example 11 below.<ref name=":4" />
+
+{{interlinear|number=(11)
+|sav delvis si
+|dance around NEG
+| }}
+
+In addition to ''delvis'', the form ''sur'' in Lingarak means 'near', 'along', in some other cases it also means 'by'. When compounded with verbs to create a compound verb construction, the placement of ''si'' begins to vary when negating these compounded constructions. Like ''sav delvis'' in example 11, example 12 is also negated using a post-verbal negative particle after a word with a prepositional like meaning ''sur''.<ref name=":4" />
+
+{{interlinear|number=(12)
+|At-savsav-sur si nakha
+|3PL:REAL-climb-along NEG tree
+|They didn't climb along the tree}}
+
+In contrast to example 12 above, example 13 below places the negative particle between ''i-vlem'' 'come' and ''sur''. Thus, as stated above, ''si'' has broken a compound verb construction. The placement of the ''si'' particle has changed when negating verb constructions which have ''sur'' in the position of the second verb of a serialised verb construction. Thus as discussed above,  the placement of ''si'' begins to change when the second verb in the construction begins to play a more prepositional role. It is possible that this  inconsistent nature of ''sur'' is occurring because ''sur'' is currently undergoing re-analysis from verb to preposition.<ref name=":4" />
+
+{{interlinear|number=(13)
+|Nimkhut i-vlem si sur nesal
+|man 3SG:REAL-come NEG near road
+|The man didn’t come near the road}}
+
+==== Negative verbs ====
+There is also a repertoire of negative verbs in Lingarak. These are presented in the table below.<ref name=":3" />
+{| class="wikitable"
+! colspan="2" |Positive
+! colspan="2" |Negative
+|-
+|''rongrok''
+|'want'
+|''rosikh''
+|'not want'
+|-
+|''khita''
+|'like/ love'
+|''sre''
+|'dislike'
+|-
+|''dadikh''
+|'be sufficient'
+|''varikh''
+|'be insufficient'
+|-
+|''(rongil)''
+|'know'
+|''melmelikh''
+|'know nothing about'
+|-
+|''gang''
+|'be like that'
+|''skhen''
+|'be not so'
+|}
+These negative verbs are used like other verbs in Lingarak to express negative meaning and do not require ''si'' for negation of the negative counterparts are used. This can be shown in example 14 below.<ref name=":3" />
+
+{{interlinear|number=(14)
+|Kon le-lleng i-skhen ing
+|corn REDUP-hang.down 3SG:REAL-not.so EXCLAM
+|It's not droopy corn}}
+
+=== Functions of negations when used in conjunction with reduplication ===
+
+==== Forming prohibitions ====
+When the post-verbal negative particle ''si'' is used alongside reduplication, negative imperatives and prohibitions can be formed. This is demonstrated in example 15 below.<ref name=":5">{{harvnb|Barbour|2012|pages=257, 258}}</ref>
+
+{{interlinear|number=(15)
+|No, ar-ver-ver si!
+|no IMPS:REAL-REDUP-say NEG
+|No, don't say that!}}
+
+==== Expressing inability using ''mosi'' ====
+The inability to perform an action can also be expressed by using ''mosi'' to negate action.<ref name=":5" /> This is illustrated in example 16 below. In example 16, the function of ''mosi'' is expresses the 'loss of an ability' to perform an action.
+
+{{interlinear|number=(16)
+|Ga i-yel-yel mo si i-vlem aiem
+|then 3SG:REAL-REDUP-scoop-out CONT NEG 3SG:REAL-come home
+|Then she couldn't scoop out coconuts anymore and she came home}}
+
+==== Negative condition ====
+Negative 'if' conditions can be constructed using the post-verbal negative particle ''si'' in conjunction with reduplication<ref name=":5" /> and ''besi'' (meaning 'if) as shown in example 17 below.
+
+{{interlinear|number=(17)
+|Besi man-jakh adr abit-ve-ve si im-gang
+|if man-be.here PL 3PL:IRR-REDUP-do NEG 3SG:IRR-like.so
+|If only these men hadn’t done it like that}}
+
+== Numbering System ==
+Numbers one through nine follow a quinary pattern. It can either possess realis or irrelias mood and polarity of a main clause.
+
+Below is a table showing the numerals, one through nine. A key characteristic of Neververs numbering system is associated with definiteness.{{sfn|Barbour|2012|p=157}}
+{| class="wikitable"
+!Realis
+!Irrelais
+!Number
+|-
+|i-skham
+|ibi-skham
+|one
+|-
+|i-ru
+|ib-ru
+|two
+|-
+|i-tl
+|ibi-tl
+|three
+|-
+|i-vas
+|im-bbwas
+|four
+|-
+|i-lim
+|ib-lim
+|five
+|-
+|i-jo-s
+|im-jo-s
+|six
+|-
+|i-jo-ru
+|im-jo-ru
+|seven
+|-
+|i-jo-tl
+|im-jo-tl
+|eight
+|-
+|i-jo-vas
+|im-jo-vas
+|nine
+|}
+
+Numbers in the form of ten or greater take on the form of a noun rather than a verb, as shown in the table below:{{sfn|Barbour|2012|p=158}}
+{| class="wikitable"
+!Number
+!Name
+|-
+|10^1 (Ten)
+|nangavul
+|-
+|10^2 (Hundred)
+|nagat
+|-
+|10^3 (Thousand)
+|netar
+|-
+|10^4 (Ten Thousand)
+|namul
+|}
+
+Clear cut numbers greater than ten contain the term 'nangavul nidruman':{{sfn|Barbour|2012|p=159}}
+{| class="wikitable"
+!Name
+!Number
+|-
+|nanguavul nidruman i-skham
+|eleven
+|-
+|nanguavul nidruman i-ru
+|twelve
+|-
+|nanguavul nidruman i-tl
+|thirteen
+|-
+|nanguavul nidruman i-vas
+|fourteetn
+|-
+|nanguavul nidruman i-lim
+|fifteen
+|-
+|nanguavul nidruman i-jo-s
+|sixteen
+|-
+|nanguavul nidruman i-jo-ru
+|seventeen
+|-
+|nanguavul nidruman i-jo-tl
+|eighteen
+|-
+|nanguavul nidruman i-jo-vas
+|nineteen
+|-
+|nanguavul i-ru
+|twenty
+|-
+|nanguavul i-ru nidruman i-skham
+|twenty one
+|-
+|nagat i-shkam nanguavul i-ru nidruman i-vas
+|one hundred and twenty four
+|}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+ANA:anaphoric
+</div><section end="list-of-glossing-abbreviations"/>
+
+==References==
+{{Reflist}}
+
+== Bibliography ==
+{{refbegin}}
+* {{Cite book |last=Barbour |first=Julie |title=A Grammar of Neverver |date=2012 |publisher=Mouton de Gruyter |isbn=9783110289619 |location=Berlin}}
+* {{Cite book |last=Crystal |first=David |title=A Dictionary of Linguistics and Phonetics |date=2009 |isbn=9781444302783 |edition=6th |location=Malden, MA}}
+{{refend}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+ANA:anaphoric demonstrative
+NPR:nominalizing prefix
+NSF:nominalizing suffix
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Malekula languages]]
+[[Category:Languages of Vanuatu]]

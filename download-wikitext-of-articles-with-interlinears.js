@@ -7,5 +7,6 @@ for await (let {title,url} of articles.slice(134)){
   let interlinears = extractInterlinears(wikitext)
 
 
+  Deno.writeTextFileSync(`./interlinears/${title.replaceAll(' ', '_')}.wikitext.txt`, wikitext)
   Deno.writeTextFileSync(`./interlinears/${title.replaceAll(' ', '_')}.txt`, interlinears)
 }

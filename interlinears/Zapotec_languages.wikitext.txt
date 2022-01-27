@@ -1,0 +1,663 @@
+{{Short description|group of related indigenous Mesoamerican languages}}
+{{Infobox language family
+| name = Zapotec
+| altname = ''Diidxazá'', ''Dizhsa''
+| region = [[Oaxaca]], [[Veracruz]], [[Guerrero]], [[Puebla]]. Small populations in [[California]] and [[New Jersey]], [[United States]].
+| ethnicity = [[Zapotec people|Zapotecs]]
+| speakers = {{sigfig|490845|2}} in Mexico
+| date=2020 census
+| ref=<ref name=inegi2020>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+| familycolor = American
+| fam1 = [[Otomanguean languages|Oto-Manguean]]
+| fam2 = [[Zapotecan languages|Zapotecan]]
+| ancestor = [[Ancient Zapotec language|Ancient Zapotec]]
+| agency = [[Instituto Nacional de Lenguas Indígenas]]
+| iso2 = zap
+| iso3 = zap
+| iso3comment = (57 [[ISO 639 macrolanguage#zap|individual codes]])
+| glotto = zapo1437
+| glottorefname = Zapotec
+| child1 = Central <br/>&nbsp;&nbsp;&nbsp;(Isthmus and Valley)
+| child2 = Mazaltepec
+| child3 = Sierra Norte
+| child4 = Sierra Sur
+| child5 = Western
+| map = Zapotec_languages_map.svg
+| mapcaption = The Zapotec languages as classified by [[Glottolog]]
+| map2 = Zapotec in Oaxaca.svg
+| mapcaption2 = Zapotec speaking areas of Oaxaca (as of 2015)
+}}
+
+The '''Zapotec''' {{IPAc-en|ˈ|z|æ|p|ə|t|ɛ|k}}<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> languages are a group of around 50 closely related [[indigenous languages of Mesoamerica|indigenous Mesoamerican languages]] that constitute a main branch of the [[Oto-Manguean languages|Oto-Manguean language family]] and which is spoken by the [[Zapotec people]] from the southwestern-central highlands of [[Mexico]]. A 2020 census reports nearly half a million speakers,<ref name=inegi2020/> with the majority inhabiting the state of [[Oaxaca]]. Zapotec-speaking communities are also found in the neighboring states of [[Puebla]], [[Veracruz]], and [[Guerrero]]. [[Human migration#Theories for migration for work in the 21st century|Labor migration]] has also brought a number of native Zapotec speakers to the [[United States]], particularly in [[California]] and [[Bridgeton, New Jersey|New Jersey]]. Most Zapotec-speaking communities are highly bilingual in Spanish.
+
+==Name==
+The name of the language in Zapotec itself varies according to the geographical variant. In Juchitán (Isthmus) it is ''Diidxazá'' {{IPA|[didʒaˈza]}},<ref>Pickett et al. (2007)</ref> in Mitla it is ''Didxsaj'' {{IPA|[didʒˈsaʰ]}},<ref>Stubblefield & Stubblefield (1991:18)</ref> in Zoogocho it is ''Diža'xon'' {{IPA|[diʒaʔˈʐon]}},<ref>Long & Cruz (1999)</ref> in Coatec Zapotec it is ''Di'zhke''' {{IPA|[diʔʒˈkeʔ]}},<ref>Beam de Azcona 2004</ref> in Miahuatec Zapotec it is ''Dí'zdéh'' {{IPA|[diʔzdæ]}} and in Santa Catarina Quioquitani it is ''Tiits Së'' {{IPA|[tiˀts sæ]}}, for example.<ref>Ward, Zurita Sánchez & Marlett (2008)</ref> The first part of these expressions has the meaning 'word' (perhaps slightly reduced as appropriate for part of a compound).
+
+==Classification==
+
+===External===
+Zapotec and the related [[Chatino language|Chatino]] languages together form the [[Zapotecan languages|Zapotecan]] subgroup of the [[Oto-Manguean languages|Oto-Manguean]] [[language family]]. Zapotec languages (along with all Oto-Manguean languages) form part of the [[Mesoamerican Linguistic Area]], an area of [[linguistic convergence]] developed throughout millennia of interaction between the peoples of Mesoamerica. As a result, languages have acquired characteristics from genetically unrelated languages of the area.
+
+===Internal===
+
+====Geographic range and dialect differentiation====
+Although commonly described as a language, Zapotec is a fairly extensive, if close-knit, language family. The time depth is comparable to that of the [[Romance languages]].<ref>Hunn et al., ''A Sketch of Mixtepec Zapotec Grammar''</ref> Dialectal divergence between Zapotec-speaking communities is extensive and complicated.<ref>See Marlett (2009) for data from various dialects presented in a single table.</ref> Many varieties of Zapotec are [[mutual intelligibility|mutually unintelligible]] with one another. There are some radical jumps in intelligibility between geographically close communities, so the varieties do not form a [[dialect continuum]] in a strict sense, though neither are there clear-cut divisions between groups of varieties.<ref>See Egland et al. (1983:66-81) for a report of the results of mutual intelligibility testing that was carried out in many communities comparing one variety with another. No other study of this kind has been done in the Zapotec area. It is the primary basis on which the ''[[Ethnologue]]'' listings are based.</ref> As a result, the Mexican government officially recognizes sixty Zapotec languages.<ref>Instituto Nacional de Lenguas Indígenas. 2008. “[http://www.inali.gob.mx/catalogo2007/html/v_zapoteco.html Catalogo de las lenguas indígenas nacionales: Variantes lingüísticas de México con sus autodenominaciones y referencias geoestadísticas] {{webarchive |url=https://web.archive.org/web/20071116035707/http://www.inali.gob.mx/catalogo2007/html/v_zapoteco.html |date=November 16, 2007 }}.”</ref>
+
+Zapotec languages fall into four broad geographic divisions: Zapoteco de la Sierra Norte (Northern Zapotec), Valley Zapotec, Zapoteco de la Sierra Sur (Southern Zapotec), and [[Isthmus Zapotec]]. Northern Zapotec languages are spoken in the mountainous region of [[Oaxaca]], in the Northern Sierra Madre mountain ranges; Southern Zapotec languages and are spoken in the mountainous region of Oaxaca, in the Southern Sierra Madre mountain ranges; Valley Zapotec languages are spoken in the Valley of Oaxaca, and Isthmus Zapotec languages are spoken in the [[Isthmus of Tehuantepec]]. However, Valley Zapotec and Isthmus Zapotec group together (as Central Zapotec), and this ignores the Papabuco and Western Zapotec varieties.
+
+====Conservative and innovative characteristics====
+Certain characteristics serve to classify Zapotec varieties in ways that cross-cut the geographical divisions. One of these is the distinction between disyllabic roots and monosyllabic roots. Proto-Zapotec had disyllabic roots; the vowel of the second syllable could be any one of the inventory of vowels. One innovation shared by many varieties of Zapotec is the loss (or partial loss) of the vowel of the second syllable. The word for 'water' illustrates this fact. In conservative varieties, the vowel of the second syllable is retained: {{IPA|/nisa/}} in Isthmus Zapotec and {{IPA|/inda/}} in Sierra de Juárez Zapotec, for example.
+
+In innovative varieties, the vowel of the second syllable was lost: {{IPA|/nis/}} in Amatlán Zapotec and Mitla Zapotec, for example. The loss of the vowel {{IPA|/i/}} often resulted in palatalized consonants, and the loss of {{IPA|/u/}} often resulted in labialized consonants. Compare the words for 'dog' in conservative varieties (Isthmus {{IPA|/beʔkuʔ/}}, Sierra de Juárez {{IPA|/bekuʔ/}}) and innovative varieties (Amatlán {{IPA|/mbak/}} and Mitla {{IPA|/bæʔkʷ/}}). In this particular word Amatlán does not have a labialized consonant at the end, and the otherwise innovative variety Yatzachi keeps the final vowel: {{IPA|/bekoʔ/}}.
+
+Another characteristic that classifies Zapotec varieties is the existence or not of a contrast between alveopalatal [[fricative]]s and retroflex fricatives. Innovative varieties have introduced the contrast while conservative varieties have not.<ref>Fernández de Miranda 1995.</ref>
+
+====Phylogenetic classification ====
+The most influential classification of Zapotec languages is due to Thomas Smith Stark, who proposed the following overall classification of Zapotec languages.<ref>Smith Stark (2007</ref>
+
+=====Overall family tree and Central Zapotec branch=====
+The branch of the family that contains the most languages is Central Zapotec, which includes most of the Zapotec languages of the Valley of Oaxaca and the Isthmus of Tehuantepec.  The following figure shows the classification suggested by Smith Stark (2007).<ref>Smith Stark 2007</ref>
+
+{{clade
+|label1=Zapotec&nbsp;
+|1={{clade
+|1=[[Solteco Zapotec]]
+|label2=Western
+|2={{clade 
+  |1=[[Lachixío Zapotec]]
+  |2=[[El Alto Zapotec]]}}
+|label3=&nbsp;(core)&nbsp;
+|3={{clade
+|1=Papabuco ([[Elotepec Zapotec]], [[Texmelucan Zapotec]], [[Zaniza Zapotec]])
+|label2=Northern
+|2= [[#Northern Zapotec branch|Northern Zapotec]]
+|label3=Southern
+|3={{clade
+|1=Cis-Yautepec Zapotec ([[Mixtepec Zapotec]], [[Quiegolani Zapotec]], [[Lapaguía Zapotec]], [[Xanaguía Zapotec]], [[Xanica Zapotec]], [[Tlacolulita Zapotec]])
+|2=Coatec ([[Coatecas Altas Zapotec]], [[Miahuatlán Zapotec]], [[Ozolotepec Zapotec]])
+  }}
+|label4=Central
+|4={{clade
+|label4=Trans-Yautepec
+|4={{clade
+  |1=[[Guevea de Humboldt Zapotec]]
+  |2=[[Petapa Zapotec]]
+  |3=[[Lachiguiri Zapotec]]
+  |4=[[Quiavicuzas Zapotec]]
+    }}
+|1=[[Albarradas Zapotec]]
+|2=[[Mitla Zapotec]]
+|3=[[Antequera Zapotec]]
+|label5=Western Valley
+|5={{clade
+  |1=[[San Baltasar Chichicapan Zapotec]] [sic]
+  |2=[[San Pablo Güilá Zapotec]] & [[San Dionisio Ocotepec Zapotec]]
+  |3=Western Tlacolula Valley ([[San Juan Guelavía Zapotec]], [[San Lucas Quiaviní Zapotec]], [[Santa Ana del Valle Zapotec]], [[Tlacolula de Matamoros Zapotec]])
+  |label4=Extended Ocotepec
+  |4={{clade
+    |1=[[Zaachila Zapotec]]
+    |2=[[Isthmus Zapotec]] 
+    |3=[[Ocotlán Zapotec]]
+     }}
+   }}
+|6=[[Western Ejutla Zapotec]]
+|7=[[Quiatoni Zapotec]]
+  }}
+  }}
+}}
+}}
+
+=====Northern Zapotec branch=====
+The Northern branch is shown in more detail below, again following Smith Stark (2007)
+
+{{clade
+|label1=Northern Zapotec
+|1={{clade
+|1={{clade
+
+|1={{clade
+    |label1=[[Sierra Juárez, Oaxaca|Sierra&nbsp;Juárez]]  
+    |1={{clade
+        |label1=[[Western Ixtlán Zapotec]]
+        |1= {{clade
+             |1=[[Teococuilco de Marcos Pérez Zapotec]] ([[Teococuilco de Marcos Pérez]])
+             |2=[[Aloapan Zapotec]]
+
+              }}
+        |label2=[[Northern Ixtlán Zapotec]]
+        |2={{clade
+             |1=[[Macuiltianguis Zapotec]]
+             |2=[[Atepec Zapotec]]
+             |3=[[Ixtepeji Zapotec]] ([[Santa Catarina Ixtepeji]])
+
+             }}
+        |label3= [[Southern Ixtlán Zapotec]]
+        |3={{clade
+            |1=[[Lachatao Zapotec]] ([[Santa Catarina Lachatao]])
+            |2=[[Ixtlán de Juárez Zapotec]] ([[Ixtlán de Juárez]])
+            
+            }}
+        |4=[[Abejones Zapotec]] ([[Abejones]])
+        }}
+    }}
+
+}}
+|label2=Rincon
+|2={{clade
+|1=[[Rincón Zapotec|Northern Rincon Zapotec]]
+|2=[[Rincón Zapotec|Southern Rincon Zapotec]]
+|3=[[Yatee Zapotec]]
+}}
+|3=[[Choápam Zapotec|Choapan Zapotec]]
+|label4=Cajonos
+|4={{clade
+   |1=[[Cajonos Zapotec]]
+   |2=[[Zoogocho Zapotec]]
+   |3=[[Yatzachi Zapotec]]
+   |4=[[Yalálag Zapotec]]
+   |5=[[Tabaá Zapotec]]
+   |6=[[Yatee Zapotec|Lachirioag Zapotec]]
+   }}
+}}
+}}
+
+====Mutual intelligibility and regional classification====
+
+Based on intelligibility studies, previous classifications, and the needs for literacy development, Merrill (2008) classifies the varieties as follows; several varieties (in brackets) often small and moribund, were not included in the principal list:<ref>Elizabeth Merrill, [http://www.sil.org/~merrillb/Regions.pdf Classification of Zapotec languages by regions as an aid to language development programs]{{dead link|date=December 2016 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+;Central Zapotec{{anchor|Central Zapotec}}
+*;Isthmus{{anchor|Isthmus Zapotec}}: [[Guevea Zapotec|Guevea]], [[Isthmus Zapotec]] (Juchitán), [[Lachiguiri Zapotec|Lachiguiri]], [[Petapa Zapotec|Petapa]], [[Quiavicuzas Zapotec|Quiavicuzas]]
+*;Valley{{anchor|Valley Zapotec}}: [[Quiatoni Zapotec|Quiatoni]]–[[Mitla Zapotec|Mitla]], [[Albarradas Zapotec|Albarradas]], [[Guelavia Zapotec|Guelavia]]–[[Güila Zapotec|Güila]]–?[[Chichicapan Zapotec|Chichicapan]], [[San Antonio Ocotlan Zapotec|San Antonio Ocotlan]]?–[[Tilquiapan Zapotec|Tilquiapan]]–[[Yatzeche Zapotec|Yatzeche]] (Zagache)–<nowiki>[</nowiki>[[Zaachila Zapotec|Zaachila]]], ? [[Ayoquezco Zapotec|Ayoquezco]]
+;[[Mazaltepec Zapotec]]{{anchor|Mazaltepec Zapotec}}:? <nowiki>[</nowiki>[[Tejalapan Zapotec|Tejalapan]]]
+;Sierra Norte{{anchor|Sierra Norte Zapotec}}
+*;Villa Alta{{anchor|Villa Alta Zapotec}}: [[Choapan Zapotec|Choapan]], [[Rincon Zapotec|Rincon]], [[Tabaa Zapotec|Tabaa]], [[Yatee Zapotec|Yatee]], [[Cajonos Zapotec|Cajonos]]–[[Yalalag Zapotec|Yalalag]]–[[Zoogocho Zapotec|Zoogocho]]–[[Yatzachi Zapotec|Yatzachi]]<!--Central Villa Alta-->
+*;Ixtlán{{anchor|Ixtlán Zapotec}}{{anchor|Ixtlan Zapotec}}: [[Yareni Zapotec|Yareni]]–[[Atepec Zapotec|Atepec]]–[[Ixtlan Zapotec|Ixtlan]]–[[Sierra Juarez Zapotec|Sierra Juarez]], [[Yavesia Zapotec|Yavesia]], <nowiki>[</nowiki>[[Aloápam Zapotec|Aloápam]]]
+;Sierra Sur{{anchor|Sierra Sur Zapotec}}
+*;Miahuatlan{{anchor|Miahuatlan Zapotec}}: [[Amatlan Zapotec|Amatlan]], [[Coatecas Altas Zapotec|Coatecas Altas]], [[Coatlán Zapotec|Coatlan]], [[Loxicha Zapotec|Loxicha]], [[San Baltázar Loxicha Zapotec|San Baltázar Loxicha]]–<nowiki>[</nowiki>[[San Vicente Zapotec|San Vicente]]], [[Miahuatlan Zapotec|Miahuatlan]] (Cuixtla), [[Ozolotepec Zapotec|Ozolotepec]], <nowiki>[</nowiki>[[Lapaguía Zapotec|Lapaguía]], [[Xadani Zapotec|Xadani]]]
+*;Yautepec{{anchor|Yautepec Zapotec}}: [[San Agustin Mixtepec Zapotec|San Agustin Mixtepec]], [[San Juan Mixtepec Zapotec|San Juan Mixtepec]]–[[San Jose Lachiguiri Zapotec|San Jose Lachiguiri]], [[Quiegolani Zapotec|Quiegolani]], [[Quioquitani Zapotec|Quioquitani]], [[San Pedro Leapi Zapotec|San Pedro Leapi]], [[Xanaguia Zapotec|Xanaguia]]<!--incl. S.Francisco Ozolotepec-->, [[Xanica Zapotec|Xanica]]<!--incl. Lovene-->, <nowiki>[</nowiki>[[Tlacolulita Zapotec|Tlacolulita]]]
+;Western Zapotec{{anchor|Western Zapotec}}
+*;Papabuco{{anchor|Papabuco Zapotec}}: [[Texmelucan Zapotec|Texmelucan]], [[Zaniza Zapotec|Zaniza]], <nowiki>[</nowiki>[[Elotepec Zapotec|Elotepec]]]
+*;Solteco{{anchor|Solteco Zapotec}}: [[Solteco Zapotec|Solteco]]†, [[Lachixio Zapotec|Lachixio]]–[[San Miguel Mixtepec Zapotec|San Miguel Mixtepec]]–<nowiki>[</nowiki>[[El Alto Zapotec|El Alto]]], <nowiki>[</nowiki>[[Totomachapan Zapotec|Totomachapan]]]
+Two of the moribund varieties, [[Asunción Mixtepec Zapotec|Asunción Mixtepec]] and [[San Bartolo Yautepec Zapotec|San Bartolo Yautepec]] (ISO "Yautepec"), are apparently divergent.
+
+[[Santa Catarina Albarradas Zapotec]] was not listed, and presumably subsumed under [[Albarradas Zapotec]], but intelligibility is one-way.
+
+====Other classifications====
+Based on forms of the personal pronouns, Operstein (2003) groups the languages as follows:<ref>Operstein, Natalie. 2003. "Personal pronouns in Zapotec and Zapotecan." ''International Journal of American Linguistics''</ref>
+
+*Proto-Zapotec
+**Southern Zapotec
+**Papabuco
+**(unnamed)
+***Solteco
+***Northern Zapotec
+***Central Zapotec
+****Valley Zapotec
+****Isthmus Zapotec
+
+Based on the development of Proto-Zapotec *tty/*ty and *ttz/*tz, Operstein (2012) groups the Zapotec languages as follows.<ref>Operstein, Natalie. 2012. [http://www.jstor.org/stable/10.1086/662636 Proto-Zapotec *tty/*ty and *ttz/*tz]. ''International Journal of American Linguistics'', Vol. 78, No. 1 (January 2012), pp. 1-40</ref>
+
+*Proto-Zapotec
+**Western
+**Papabuco
+**Coatec
+**Core Zapotec
+***Southern
+***Central
+***Northern
+
+==Phonetics and phonology==
+
+===Fortis and lenis===
+In Zapotec languages, fortis typically corresponds to [[voicelessness]] and extra length in [[obstruent]]s and extra length in [[sonorants]]. Lenis corresponds to voicing and less length in obstruents and less length in sonorants. In addition, stressed vowels before lenis consonants may be longer than those before fortis consonants.<ref>Ward, Zurita Sánchez and Marlett (2008), Pickett, Villalobos & Marlett (2008)</ref>
+
+===Retroflex consonants===
+Some varieties of Zapotec have a contrast between alveopalatal [[fricatives]] and retroflex fricatives. In other varieties this distinction has been lost in favor of only one or the other.
+
+===Tone===
+Zapotec languages are tonal, as are Otomanguean languages generally. Unfortunately, materials on Zapotec languages vary widely in the quality of their tonal description and analysis.
+
+Many Northern Zapotec languages, such as Sierra Juárez (Nellis and Nellis 1983, Bickmore and Broadwell 1998, Tejada 2010) show a system of three level tones (L, M, H) plus two contours.  Potential aspect and 1st person singular both involve floating high tones. One example is Texmelucan Zapotec, which has four contrasting tones: three contour tones and one level tone, as shown in the figure. These tones are used for "word play" frequently.
+[[Image:Threetonesystemtexmelucan.png|180px|center]]
+
+A typical system for a Central Zapotec language has two level tones plus contours, but there are complex interactions between tone, stress and phonation type, e.g. San Lucas Quiaviní (Chávez Peón 2010).
+
+===Phonation===
+Zapotec languages all display contrastive [[phonation]] type differences in vowels. Minimally they have simple  vowels vs. some kind of laryngealization or creakiness; see Quioquitani Zapotec, for example.<ref>Ward, Zurita Sánchez and Marlett (2008)</ref> Others have a contrast between simple, laryngealized and "checked" vowels (which sound like they end in a glottal stop); see Isthmus Zapotec, for example.<ref name="Pickett, Villalobos 2008">Pickett, Villalobos & Marlett (2008)</ref> Others have a contrast between those types and also breathy vowels. The latter varieties include Mitla Zapotec<ref>Stubblefield & Stubblefield (1991)</ref> and San Lucas Quiaviní Zapotec.<ref>Munro & Lopez, et al. 1999</ref>
+
+===Stress===
+Varieties that are described as having stress, including Isthmus Zapotec,<ref name="Pickett, Villalobos 2008"/> have it on the penultimate syllable of the root. Prefixes and clitics do not affect it. Many varieties overwhelmingly have monosyllabic roots and stress falls on that syllable.
+
+==Grammar==
+Zapotec languages vary considerably. Some characteristics of Zapotec grammar common to the language family (though not necessarily present in all members) are: an extensive 3rd person pronoun system based on [[noun class]]es such as divinity, babies, animals, objects (inanimate), etc.; a distinction in the first person plural ("we") as to inclusive (including the hearer[s]) and exclusive (not including the hearer[s]); a frequent underspecificity of singular/plural distinctions.
+
+=== Word order ===
+
+====Clausal word order====
+Zapotec languages are [[verb–subject–object|VSO]], as in the following example from San Dionisio Ocotepec Zapotec (Broadwell 2001):
+{{interlinear|indent=2|ablist = COMPL:completive
+|Ù-dììny 	Juáàny 	bèʔcw.
+|COMPL-hit 	Juan 	dog|}}
+
+Though the most basic order has the verb at the beginning of the sentence, all Zapotec languages have a number of preverbal positions for topical, focal, negative, and/or interrogative elements.  The following example from Quiegolani Zapotec (Black 2001) shows a focused element and an adverb before the verb:
+
+{{interlinear|indent=2
+|Laad 	ʂ-unaa 	Dolf 	d͡ʒe 	z-u 	nga.
+|FOC 	POSS-woman 	Rodolfo 	already 	PROG-stand 	there
+|'Rodolfo’s wife was already standing there.'}}
+
+The preverbal position for interrogatives is shown in the following example, from San Dionisio Ocotepec Zapotec (Broadwell 2001).  This is an example of [[wh-movement]]:
+
+{{interlinear|indent=2|ablist = COMPL:completive
+|Túú 	ù-dììny 	bè'cw?
+|who 	COMPL-hit 	dog
+|'Who hit the dog?'}}
+
+====Word order in other phrases====
+
+The possessed noun precedes the possessor in Zapotec languages, as appropriate for [[head-initial]] languages:
+
+{{interlinear|indent=2
+|betswiˀn bæˀd
+|younger.brother Pedro
+|'Pedro's younger brother' (Mitla Zapotec)<ref name="ReferenceA">Stubblefield & Stubblefield 1991:200)</ref>}}
+
+{{interlinear|indent=2
+|niˀ bæˀd
+|foot Pedro
+|'Pedro's foot' (Mitla Zapotec)<ref name="ReferenceA"/>}}
+
+The noun also precedes a modifying phrase that is another way to indicate possessor with nouns that are not inherently possessed.
+
+{{interlinear|indent=2
+|biˈsjaˀ [ʃten bæˀd]
+|bean [possession Pedro]
+|'Pedro's bean(s)' (Mitla Zapotec)<ref name="ReferenceA"/>}}
+
+{{interlinear|indent=2
+|ʐoaʔ [dʒeʔ bed]
+|corn [of Pedro]
+|'Pedro's corn' (Zoogocho Zapotec)<ref>Long & Cruz 1999:411)</ref>}}
+
+The preceding example also illustrate that Zapotec languages have prepositional phrases as expected for head-initial languages.
+Quantifiers, including numbers and the word for 'one' used as an indefinite article, precede the noun.
+
+{{interlinear|indent=2
+|tjoʔp beʰnː
+|two person
+|'two people' (Mitla Zapotec)<ref>Stubblefield & Stubblefield 1991:208)</ref>}}
+
+Demonstratives, including one that means Aforementioned (in some varieties) and is sometimes translated as a definite article, occur phrase-finally (although they are sometimes written as if they were suffixes).
+{{interlinear|indent=2
+|niˈgiˀ ɾe
+|man this
+|'this man' (Mitla Zapotec)<ref name="ReferenceB">Stubblefield & Stubblefield 1991:209)</ref>}}
+
+Descriptive adjectives follow the noun. When they occur they also typically receive the primary stress of the phrase, causing the noun to lose some phonation features. Note the loss of the breathy feature on the word /beʰnː/ in the following example.
+
+{{interlinear|indent=2
+|benː sjoˀl
+|person tall
+|'tall person' (Mitla Zapotec)<ref name="ReferenceB"/>}}
+
+====Word order variation====
+
+Zapotec languages also show the phenomenon known as [[pied-piping with inversion]], which may change the head-initial order of phrases such as NP, PP, and QP.
+
+=== Verbal morphology ===
+
+====Passive morphology====
+A few varieties of Zapotec have passive morphology, shown by a prefix on the verb. Compare Texmelucan Zapotec root /o/ 'eat' and its passive stem /dug-o/ 'be eaten', with the prefix /dug-/.<ref>Speck 1978:32, simplifying somewhat.</ref> In many other cases, the transitive-intransitive verb pairs are appropriately described as causative vs. noncausative verb pairs and not as transitive-passive pairs.
+
+====Causative morphology====
+Most if not all varieties of Zapotec languages have intransitive-transitive verb pairs which may be analyzed as noncausative vs. causative. The derivation may be obvious or not depending on the kinds of sounds that are involved. In the simplest cases, causative is transparently seen to be a prefix, cognate with /s-/ or with /k-/, but it may also require the use of a thematic vowel /u/, as in the following examples from Mitla Zapotec:<ref>Stubblefield and Stubblefield (1991:227)</ref>
+
+{| class="wikitable"
+! Base verb root
+! Causative verb stem
+|-
+| /juʔ/	 ‘enter’
+| /u-s-juʔ/ ‘put in' (i.e. 'cause to enter')
+|-
+| /ja/   ‘be clean’  
+| /u-s-ja/ ‘clean' (i.e., 'cause to be clean')
+|}
+
+Setting aside possible abstract analyses of these facts (which posit an underlying prefix /k-/ that causes the changes seen superficially), we can illustrate the kinds of non-causative vs. causative pairs with the following examples. (Basic intransitive verbs are more common than basic transitive verbs, as in many languages.) The presence of the theme vowel /u-/ should be noted in the causative verbs, and in some cases is the only difference between the two verbs.<ref>Mitla Zapotec (Stubblefield & Stubblefield  1991)</ref> One example of a double causative is also included here; these are not possible in all varieties.
+
+{| class="wikitable"
+!Base verb root
+!Causative verb stem
+|-
+| /ʒiˀ/	‘be squeezed’
+| /u-ʃiˀ/	‘squeeze’
+|-
+| /deʰb/ ‘be wrapped’
+| /u-teʰb/ ‘wrap’
+|-
+| /niʰt/  ‘be lost’
+| /u-nniʰt/ ‘lose’
+|-
+| /liˀb/	‘be tied’	
+| /u-lliˀb/ ‘tie’
+|-
+| /dzukaʰ/       ‘be taken away’
+| /u-tsukaʰ/      ‘take away’
+|-
+| /kaˈduˀ/	‘be tied’
+| /u-k-waˈduˀ/	‘tie’
+|-
+| /uʔtʃ/	‘be mixed’
+| /u-g-uʔtʃ/	‘mix’
+| /u-s-g-uʔtʃ/   'stir' 
+|}
+
+==== Aspectual inflection ====
+Verbs in Zapotec languages inflect with prefixes to show [[grammatical aspect]].  The three aspects that are found in all varieties are habitual, potential and completive. San Lucas Quiaviní Zapotec<ref>Munro and Lopez, et al. 1999</ref>  has seven aspects: habitual, perfective, irrealis (viz., potential), progressive, definite (viz., completive), subjunctive, and neutral.
+
+The shape of the root affects the way in which verbs conjugate. Consonant-initial roots conjugate differently than vowel-initial roots, for example, and causative verbs conjugate differently than simple verbs. Prefix vowels may be lost or merged with the root vowel, epenthetic vowels and consonants may be found, and root vowels may be affected. The following example shows the aspectual inflection of three verbs in Mitla Zapotec.<ref>Stubblefield & Stubblefield (1991:211,218)</ref>
+{| class="wikitable" border="1"
+|-
+! habitual
+! unreal
+! continuative
+! potential
+! definite future
+! completive
+!
+|-
+| /ɾ-baʰnː/
+| /ni-baʰnː/
+| /ka-baʰnː/
+| /gi-baʰnː/
+| /si-baʰnː/
+| /bi-baʰnː/
+| ' wake up' 
+|-
+| /ɾ-aʰdʒ/
+| /nj-aʰdʒ/
+| /kaj-aʰdʒ/
+| /g-adʒ/<ref>The stem loses the aspiration feature in this form.</ref>
+| /s-aʰdʒ/
+| /guʰdʒ/
+| ' get wet' 
+|-
+| /ɾ-uʰn/
+| /nj-uʰn/
+| /kaj-uʰn/
+| /g-uʰn/
+| /s-uʰn/
+| /b-eʰn/
+| ' do, make' 
+|-
+|}
+
+===Noun morphology===
+
+There is virtually no true morphology in the Zapotec noun. There is no case marking. Plurality is indicated (if at all) in the noun phrase, either by a number or a general quantifier that may be simply translated as "plural".  Possessors are also indicated in the noun phrase either by a nominal or a pronominal element. (In both of these cases, since the plural morpheme and the pronouns may be enclitics, they are often written as if they were prefixes and suffixes, respectively, although they arguably are not true affixes.)
+
+The only clear morphology in most varieties of Zapotec is the derivational prefix /ʂ-/ (or its cognate) that derives an inherently possessed noun from a noun that does not take a possessor.<ref>Martínez & Marlett (2008).</ref> Compare Mitla Zapotec /koʰb/ 'dough', /ʃ-koʰb/ 'dough of'. The derived noun is used when the possessor is indicated, as in /ʃkoʰb ni/ 'his/her dough'.<ref>Stubblefield & Stubblefield (1991:198).</ref>
+
+=== Variable terminology in the description of Zapotec languages ===
+
+Many linguists working on Zapotec languages use different terminology for describing what appear to be related or similar phenomena, such as [[grammatical aspect]] markers. This is due in part because of the different audiences for which the descriptions have been prepared (professional linguists vs. Zapotec speakers of the language communities, for example).  The difference of terminology is particularly true in descriptions of the aspectual systems of the Valley Zapotec languages.  The following table shows some correspondences:
+
+{| class="wikitable"
+|-
+! Typical allomorphs
+! Typical use
+! Terms used
+|-
+| ru-, ri-, r-, rr-
+| ongoing or habitual present tense events
+| '''habitual''' (Mitla Zapotec, Stubblefield and Stubblefield 1991; San Dionisio Zapotec, Broadwell 2001, SLQZ), '''present''' (SAVZ)
+|-
+| bi-, b-, gu-, u-
+| past tense completed events
+| '''perfective''' (San Lucas Quiaviní Zapotec (SLQZ), Munro and Lopez, et al. 1999)
+'''completive''' (Mitla Zapotec, Stubblefield and Stubblefield 1991; San Dionisio Zapotec, Broadwell 2001)
+|-
+| gi-, i-, fortis consonant
+| future events
+| '''irrealis''' (SLQZ), '''futuro''' (Santa Ana del Valle Zapotec (SAVZ), Rojas Torres), '''indefinite future''' (Mitla Zapotec, Stubblefield and Stubblefield 1991), '''potential''' (San Dionisio Zapotec, Broadwell 2001)
+|-
+| na-, n-
+| used with stative verbs for a current state
+| '''neutral''' (SLQZ), '''estativo''' (SAVZ)
+|-
+|si-, s-
+| future events (where the speaker is strongly committed to the truth of the statement)
+| '''definite future''' (Mitla Zapotec, Stubblefield and Stubblefield 1991), '''definite''' (SLQZ)
+|-
+| ni-
+| used in the complement of a verb of negation
+| '''negative''' (San Dionisio Ocotepec Zapotec, Broadwell 2001), '''irrealis''' (Mitla Zapotec, Stubblefield and Stubblefield 1991), '''subjunctive''' (SLQZ)
+|-
+|ka-, kay-
+| ongoing events
+| '''continuative''' (Mitla Zapotec, Stubblefield and Stubblefield 1991; San Dionisio Ocotepec Zapotec, Broadwell 2001) '''progressive''' (SLQZ)
+|}
+
+== Documentation and scholarship ==
+[[File:Diccionario zapoteco.pdf|thumb|Dictionary of the language by Francisco Pimental, date unknown|page=5]]
+Franciscan and/or [[Dominican friar]]s published a vocabulary and grammar of Zapotec ([[Antequera Zapotec]]) in the 16th century.<ref>Córdova 1578a, 1578b</ref> In the past century, there have been ongoing efforts to produce Zapotec orthographies and to write in Zapotec. The Isthmus Zapotec alphabet in use today was founded in the 1950s, drawing from works going back as far as the 1920s. Until recently the Zapotec languages were only sparsely studied and documented but in recent years Zapotec language has begun to receive serious attention by descriptive linguists (see bibliography).
+
+== Use ==
+The viability of Zapotec languages also varies tremendously. [[Loxicha Zapotec]], for example, has over 70,000 speakers. [[Tejalapan Zapotec|San Felipe Tejalapan Zapotec]] might have ten, all elderly. [[San Agustín Mixtepec Zapotec]] reportedly has just one remaining speaker.  Historically, government teachers discouraged the use of the language, which has contributed to its diminution in many places.  In [[Juchitán de Zaragoza|La Ventosa, Oaxaca]], a Zapotec mother of three claims that her children are punished in class if they speak Zapotec.{{citation needed|date=November 2011}} Other areas however, such as the Isthmus, proudly maintain their mother tongue.<ref>{{Cite web| last = Pickett| first = Velma| title = Isthmus Zapotec (zai)| work = Summer Institute of Linguistics in Mexico| access-date = 2014-03-13| url = http://www-01.sil.org/mexico/zapoteca/istmo/00i-ZapotecoIstmo-zai.htm}}</ref><ref>{{Cite web| last = Almanzan| first = Krista| title = Indigenous Interpreting Program Aims to be Far Reaching| work = 90.3 KAZU| access-date = 2014-04-06| date = 2014-03-27| url = http://kazu.org/post/indigenous-interpreting-program-aims-be-far-reaching}}</ref>
+
+Zapotec-language programming is available on a number of radio stations: The [[National Commission for the Development of Indigenous Peoples|CDI]]'s radio stations [[XEGLO]], based in [[Guelatao de Juárez, Oaxaca]], and [[XEQIN-AM]], based in [[San Quintín, Baja California]], carry Zapotec-language programming along with other indigenous languages. ([[Coatecas Altas Zapotec]] speakers live in the area around [[San Quintín, Baja California]].<ref name = "coatecasaltassil">{{Cite web| title = Coatecas Altas Zapotec (zca)| work = Summer Institute of Linguistics in Mexico| access-date = 2014-03-11| url = http://www-01.sil.org/mexico/zapoteca/coatecas/00i-ZapotecoCoatecas-zca.htm}}</ref>) in the Isthmus there is one privately owned commercial station, Radio TEKA (1030 AM), and several community-based radio stations, most notably the community-based Radio Totopo (102.5 FM) in [[Juchitán, Oaxaca]], and Radio Atempa in [[San Blas Atempa]].
+
+In California, [[Los Angeles]] is home to communities of [[Yalálag Zapotec]] and [[Zoogocho Zapotec]] language speakers.<ref name = "najera">[[Lourdes Gutiérrez Nájera|Gutiérrez-Nájera, Lourdes]]. “Hayandose”, in Beyond el Barrio: Everyday Life in Latina/o America. Ed. Peréz, Gina M., Frank A. Guridy, and Adrian Burgos Jr. New York: New York University Press, 2010. 211-232</ref><ref>{{Cite web| title = Los Angeles immigrant community pushes to keep Zapotec language alive| work = PRI, [[Public Radio International]]| access-date = 2013-08-20| date = 2013-08-09| url = http://www.pri.org/stories/politics-society/los-angeles-immigrant-community-pushes-to-keep-zapotec-language-alive-14648.html}}</ref> In 2010, a Zapotec language class was offered at the [[University of California]] in San Diego.<ref>{{Cite news| last = Tintocalis| first = Ana| title = Rise In Zapotec-Speaking People Results In New SDSU Language Course| work = KPBS San Diego Public Radio & TV: News, Arts & Culture| access-date = 2014-03-09| date = 2010-09-01| url = http://www.kpbs.org/news/2010/sep/01/zapotec-language-course-offered-sdsu/}}</ref> In 2012, the [[Natividad Medical Center]] of [[Salinas, California]], had trained medical interpreters bilingual in Zapotec languages as well as in Spanish;<ref>{{Cite web| last = Melissa Flores| title = Salinas hospital to train indigenous-language interpreters| work = HealthyCal.org| access-date = 2012-08-05| date = 2012-01-23| url = http://www.healthycal.org/archives/7042| archive-url = https://web.archive.org/web/20120129042131/http://www.healthycal.org/archives/7042| archive-date = 2012-01-29| url-status = dead}}</ref> in March 2014, Natividad Medical Foundation launched Indigenous Interpreting+, "a community and medical interpreting business specializing in indigenous languages from Mexico and Central and South America," including Zapotec languages, [[Mixtec language|Mixtec]], [[Trique language|Trique]], and [[Chatino language|Chatino]].<ref>{{Cite web
+| title = Natividad Medical Foundation Announces Indigenous Interpreting+ Community and Medical Interpreting Business| work = Market Wired| access-date = 2014-03-13| date = 2014-03-07| url = http://www.marketwired.com/press-release/natividad-medical-foundation-announces-indigenous-interpreting-community-medical-interpreting-1886553.htm}}</ref>
+
+==Notes==
+{{reflist|2}}
+
+== References ==
+{{refbegin}}
+* Beam de Azcona, Rosemary G. 2004. ''A Coatlán-Loxicha Zapotec Grammar''. Ph.D. dissertation. University of California, Berkeley.
+* Black, Cheryl A. 2000. Quiegolani Zapotec Syntax: A Principles and Parameters Account. SIL International and University of Texas at Arlington.
+* Broadwell, George A. 2001. Optimal order and pied-piping in San Dionicio Zapotec. in Peter Sells, ed. Formal and Empirical Issues in Optimality Theoretic Syntax, pp.&nbsp;197–123. Stanford: CSLI Publications.
+*Egland, Steven; [[Doris Bartholomew]]; and Saul Cruz Ramos. 1983 [1978]. ''[http://www.sil.org/mexico/sondeos/G038a-SondeosInteligibilidad.htm La inteligibilidad interdialectal en México: Resultados de algunos sondeos].'' Mexico City: Instituto Lingüístico de Verano.
+* Fernández de Miranda, María Teresa. 1995. ''El protozapoteco.'' Edited by Michael J. Piper and Doris A. Bartholomew. Mexico City: El Colegio de México and Instituto Nacional de Antropología e Historia.
+* Marlett, Stephen A., compiler. 2009. [https://web.archive.org/web/20121011080347/http://www.sil.org/mexico/WorkPapers/WP001-PDF/BasicVocabZapotec.pdf Basic vocabulary]. In Cheryl A. Black, H. Andrew Black and Stephen A. Marlett (eds.) ''The Zapotec grammar files''. 
+* Martínez, Valerie and Stephen A. Marlett. 2008. [https://web.archive.org/web/20101225052532/http://www.sil.org/mexico/workpapers/WP001-PDF/NounsZapotec.pdf Nouns]. In  Cheryl A. Black, H. Andrew Black and Stephen A. Marlett (eds.) ''The Zapotec grammar files''.  
+* [[Pamela Munro|Munro, Pamela]], and Felipe H. Lopez, with Olivia V. Méndez [Martínez], Rodrigo Garcia, and Michael R. Galant. 1999. Di'csyonaary X:tèe'n Dìi'zh Sah Sann Lu'uc (San Lucas Quiaviní Zapotec Dictionary / Diccionario Zapoteco de San Lucas Quiaviní). Los Angeles: (UCLA) Chicano Studies Research Center Publications.
+*Smith Stark, Thomas. 2007. Algunos isoglosas zapotecas. Clasificación de las lenguas indígenas de México: Memorias del III Coloquio Internacional del Lingüística Mauricio Swadesh, ed. Christina Buenrostro et al, pp.&nbsp;69–134. Mexico City: UNAM y Instituto Nacional de Lenguas Indígenas.
+* Stubblefield, Morris and Carol Stubblefield. 1991. Diccionario Zapoteco de Mitla. Instituto Lingüístico de Verano, Mexico.
+{{refend}}
+
+== Selected bibliography ==
+
+=== Dictionaries and grammars ===
+{{refbegin}}
+* Alleman, Vera Mae, compiler. 1952. Vocabulario zapoteco del Rincón. Mexico City: Instituto Lingüístico de Verano.
+* Bartholomew, Doris A. 1983. Grammatica Zapoteca, in Neil Nellis and Jane Goodner Nellis Diccionario Zapoteco de Juarez Instituto Lingüístico de Verano. Mexico.
+* Black, Cheryl A. 2000. Quiegolani Zapotec Syntax: A Principles and Parameters Account. SIL International and University of Texas at Arlington.
+* Briggs, Elinor. 1961. Mitla Zapotec grammar. Mexico City: Instituto Lingüístico de Verano and Centro de Investigaciones Antropológicas de México.
+* Britton, A. Scott, 2003. ''Zapotec-English/English-Zapotec (Isthmus) Concise Dictionary''. New York: Hippocrene Books, 2003. {{ISBN|0-7818-1010-8}}
+* Butler, Inez M. 1980. Gramática zapoteca: Zapoteco de Yatzachi el Bajo. Gramáticas de Lenguas Indígenas de México, 4. Mexico: Instituto Lingüístico de Verano.
+* Broadwell, George Aaron and Luisa Martinez. 2014.[http://sandionisiozapotec.webonary.org  Online dictionary of San Dionisio Ocotepec Zapotec]
+* Butler, Inez M., compiler. 1997. Diccionario Zapoteco de Yatzachi: Yatzachi el bajo, Yatzachi el alto, Oaxaca. Serie de vocabularios y diccionarios indígenas "Mariano Silva y Aceves", 37. Tucson, AZ: Instituto Lingüístico de Verano.
+* [[Juan de Cordova|Córdova, Fr. Juan de]]. 1886 [1578a]. Arte del idioma zapoteco. Morelia: Imprenta del Gobierno.
+* [[Juan de Cordova|Córdova, Fr. Juan de]]. 1987 [1578b]. Vocabulario en lengua çapoteca. México: Ediciones Toledo (INAH).
+* Junta Colombina de México. 1893. Vocabulario castellano - zapotec. Mexico City : Oficina Tipográfica de la Secretaría de Fomento.
+* Long C., Rebecca & Sofronio Cruz M., compilers. 1999. [https://web.archive.org/web/20120611072306/http://www.sil.org/Mexico/zapoteca/zoogocho/S038a-Diccionario-zpq.htm Diccionario Zapoteco de San Bartolomé Zoogocho Oaxaca]. Coyoacán D.F.: Instituto Lingüístico de Verano.
+* López, Filemón & Ronaldo Newberg Y. 2005. [http://www.sil.org/mexico/zapoteca/yalalag/G033-ConjugVerboZap-zpu.htm La conjugación del verbo zapoteco: zapoteco de Yalálag].  2nd ed. Instituto Lingüístico de Verano.
+* Méndez S., Pedro, compiler, & others. 2004. Diccionario zapoteco; Zapoteco de San Pablo Yaganiza, Oaxaca. Mexico City: Instituto Lingüístico de Verano.
+* [[Pamela Munro|Munro, Pamela]], and Felipe H. Lopez, with Olivia V. Méndez [Martínez], Rodrigo Garcia, and Michael R. Galant. 1999. Di'csyonaary X:tèe'n Dìi'zh Sah Sann Lu'uc (San Lucas Quiaviní Zapotec Dictionary / Diccionario Zapoteco de San Lucas Quiaviní). Los Angeles: (UCLA) Chicano Studies Research Center Publications.
+* Nellis, Neil and Jane Goodner Nellis. 1983. Diccionario Zapoteco de Juarez. Instituto Lingüístico de Verano. Mexico.
+* Pickett, Velma B. and others. 1959. Vocabulario zapoteco del Istmo : Castellano zapoteco, zapoteco-castellano. Serie de vocabularios indígenas "Mariano Silva y Aceves", 3. Mexico: Instituto Lingüístico de Verano. [2nd ed., revised and enlarged (1965); republished (1968, 1971)]. [https://web.archive.org/web/20120521130238/http://www.sil.org/mexico/zapoteca/istmo/S003a-VocZapIstmo-zai.htm Fifth edition (2007) available on-line].
+* Pickett, Velma B., Cheryl A. Black and Vicente Marcial C. 2001. [http://www.sil.org/mexico/zapoteca/istmo/G023a-GramaticaZapIstmo-ZAI.htm Gramática Popular del Zapoteco del Istmo]. 2nd edition. Instituto Lingüístico de Verano; Tucson, Arizona.
+* Ruegsegger, Manis & Jane Ruegsegger. 1955. Vocabulario zapoteco del dialecto de Miahuatlán del Estado de Oaxaca. Mexico City: Instituto Lingüístico de Verano.
+* Sonnenschein, Aaron Huey. 2005. A descriptive grammar of San Bartolomé Zoogocho Zapotec. Munich: Lincom Europa.
+* Stubblefield, Morris and Carol Stubblefield. 1991. Diccionario Zapoteco de Mitla. Instituto Lingüístico de Verano, Mexico.
+{{refend}}
+
+=== Theses and dissertations ===
+{{refbegin}}
+* Arellanes, Francisco. 2009. El sistema fonológico y las propriedades fonéticas del zapoteco de San Pablo Güilá. Descripción y análisis formal. Tesis doctoral. Colegio de México.
+* Avelino, Heriberto. 2004. ''Topics in Yalálag Zapotec, with particular reference to its phonetic structures''. UCLA Ph.D. dissertation.
+* Chávez-Peón, Mario. 2010. Ph.D. thesis. University of British Columbia.
+* Esposito, Christina M. 2002. ''Santa Ana del Valle Zapotec Phonation.'' M.A. thesis, UCLA.
+* Foreman, John. 2006. ''The Morphosyntax of Subjects in Macuiltianguis Zapotec.'' Ph.D. Dissertation, UCLA.
+* Galant, Michael R. 1998. ''Comparative Constructions in Spanish and San Lucas Quiaviní Zapotec.'' Ph.D. Dissertation, UCLA.
+* Gibbs, William P. 1977. Discourse elements in Sierra de Juarez Zapotec. M.A. thesis. University of Texas at Arlington.
+* Heise, Jennifer Lynn. 2003. Participant reference and tracking in San Francisco Ozolotepec Zapotec. M.A. thesis. Graduate Institute of Applied Linguistics.
+* Jensen de López, Kristine M. 2002. ''Baskets and Body-Parts''. Ph.D. dissertation, Aarhus University.
+* Lee, Felicia A. 1999. Antisymmetry and the Syntax of San Lucas Quiaviní Zapotec. Ph.D. dissertation, UCLA.
+* Lillehaugen, Brook Danielle. 2003. ''[http://www.linguistics.ucla.edu/people/grads/lillehaugen/Lillehaugen%202003.pdf The Categorial Status of Body Part Prepositions in Valley Zapotec]''. M.A. thesis, UCLA.
+* Lillehaugen, Brook Danielle. 2006. ''Expressing Location in Tlacolula Valley Zapotec''. Ph.D. dissertation, UCLA.
+* López Cruz, Ausencia. 1997. Morfología verbal del zapoteco de San Pablo Güilá. Tesis de licenciatura, ENAH.
+* MacLaury, Robert E. 1970. Ayoquesco Zapotec: Ethnography, phonology, and lexicon. MA thesis, University of the Americas.
+* Méndez [Martínez], Olivia V. 2000. Code-Switching and the Matrix Language Model in San Lucas Quiaviní Zapotec. M.A. thesis, UCLA.
+* Pickett, Velma B. 1959. The grammatical hierarchy of Isthmus Zapotec. Ph.D. dissertation, University of Michigan.
+* Reeck, Roger. 1991. A trilingual dictionary in Zapotec, English and Spanish. MA thesis, Universidad de las Américas-Puebla.
+* Riggs, David B. 1991. A comparative grammar of English for Zapotec speakers (Gramática comparativa inglés-zapoteco). M.A. thesis. Universidad de las Américas.
+* Sicoli, Mark A. 1999. A comparison of Spanish loanwords in two Zapotec languages: Contact-induced language change in Lachixío and Juchitán Zapotec. University of Pittsburgh, M.A. Thesis.
+* Sicoli, Mark A. 2007. ''Tono: A linguistic ethnography of tone and voice in a Zapotec region.'' University of Michigan, Ph.D. Dissertation.
+* Sonnenschein, Aaron Huey. 2004. A Descriptive Grammar of Zoogocho Zapotec on a Typological Basis. University of Southern California Ph.D. dissertation.
+{{refend}}
+
+=== Books ===
+{{refbegin}}
+* de Feria, Pedro. 1567. Doctrina Christiana en lengua castellana y zapoteca.
+* Galant, Michael René. 2006. ''Comparative Constructions in Spanish and San Lucas Quiavini Zapotec'' (LINCOM Studies in Language Typology 15). Lincom Europa: München.
+* Jiménez Girón, Eustaquio. 1980. Guía gráfico-fonémica para la escritura y lectura del zapoteco. Juchitán, Oaxaca: Vitoria Yan.
+* Jiménez Jiménez, Enedino & Vicente Marcial Cerqueda. 1997. Neza diidxa': ni gacané binnihuaniisi gu'nda', gucaa ne güi' diidxazá (Vocabulario zapoteco: auxiliar del modelo pedagógico de diálogo cultural y alfabetización). Juchitán, Oaxaca: Centro de Investigación y Desarrollo Binnizá.
+* Liga Bíblica, La [Jones, Ted, et al.]. 1995. ''Xtiidx Dios Cun Ditsa (El Nuevo Testamento en el zapoteco de San Juan Guelavía y en español).''
+* [[Pamela Munro|Munro, Pamela]], Brook Danielle Lillehaugen and Felipe H. Lopez. In preparation. ''Cali Chiu? A Course in Valley Zapotec.'' ms.: UCLA / UNAM.
+{{refend}}
+
+=== Texts ===
+{{refbegin}}
+* Butler, Inez M. 1982. Un relato de la hechicería en los pueblos zapotecos de la sierra en el distrito de Villa Alta. Tlalocan 9: 249-55.
+* Nellis, Donald G. 1979. The old woman and the town authorities: Cajonos Zapotec. In: Linda K. Jones (ed.) Discourse studies in Mesoamerican languages 2: Texts, 181-208. Dallas: Summer Institute of Linguistics and the University of Texas at Arlington.
+* Olson, Donald. 1970. The earthquake in Ocotlán: Three texts in Zapotec. Tlalocan 6: 229-39.
+* Persons, David. 1979. Rabbit, coyote, and skunk; When people die: Lachixio Zapotec. In: Linda K. Jones (ed.) Discourse studies in Mesoamerican languages 2: Texts, 211-23. Dallas: Summer Institute of Linguistics and the University of Texas at Arlington.
+* Rendón, Juan José. 1995. El tlacuache y el coyote en zapoteco. In: Juan José Rendón (ed.) Diversificación de las lenguas zapotecas. Mexico City: Instituto Oaxaqueño de las Culturas, Centro de Investigaciones y Estudios Superiores de Antropología Social.
+* Speck, Charles H., compiler. 1998. Zapotec oral literature; El folklore de San Lorenzo Texmelucan. Dallas: Summer Institute of Linguistics.
+* Stubblefield, Morris & Carol Stubblefield. 1969. The story of Läy and Gisaj: a Zapotec sun and moon myth. Tlalocan 6: 46-62.
+* Stubblefield, Morris & Carol Stubblefield, compilers. 1994. Mitla Zapotec texts. Dallas: Summer Institute of Linguistics.
+{{refend}}
+
+=== Recordings ===
+* Beam de Azcona, Rosemary. "Southern Zapotec Languages Collection of Rosemary Beam de Azcona" The Archive of the Indigenous Languages of Latin America: https://web.archive.org/web/20160507075223/http://www.ailla.utexas.org/search/collection.html?c_id=5. Media: audio, text. Access: 14% restricted.
+* Lillehaugen, Brook Danielle. "Zapotec Collection of Brook Lillehaugen" The Archive of the Indigenous Languages of Latin America: https://web.archive.org/web/20160507135046/http://www.ailla.utexas.org/search/collection.html?c_id=41 Media: audio, text. Access: 100% restricted.
+* Pérez Báez, Gabriela. "Isthmus Zapotec Collection of Gabriela Pérez Báez " The Archive of the Indigenous Languages of Latin America: https://web.archive.org/web/20160507133747/http://www.ailla.utexas.org/search/collection.html?c_id=126 Media: video. Access: 100% restricted.
+
+=== Additional materials ===
+
+==== Relating to phonetics and phonology ====
+{{refbegin}}
+* Bickmore, Lee S. and George A. Broadwell. 1998. High tone docking in Sierra Juárez Zapotec.   International Journal of American Linguistics, 64:37-67.
+* Jones, Ted E., and Lyle M. Knudson. 1977. "Guelavía Zapotec Phonemes". Studies in Otomanguean Phonology, ed., William R. Merrifield, pp.&nbsp;163–80. [Dallas/Arlington]: SIL / University of Texas, Arlington.
+* Marlett, Stephen A. 1987. The syllable structure and aspect morphology of Isthmus Zapotec. International Journal of American Linguistics 53: 398-422.
+* Merrill, Elizabeth D. 2008. Tilquiapan Zapotec. Journal of the International Phonetic Association 38(1): 107-114.
+*Pickett, Velma B., María Villalobos Villalobos, and Stephen A. Marlett. 2008. [http://www.lengamer.org/publicaciones/trabajos/zapoteco_del_istmo_afi.pdf Zapoteco del Istmo (Juchitán)]{{dead link|date=July 2016 |bot=InternetArchiveBot |fix-attempted=yes }}. Ilustraciones fonéticas de lenguas amerindias, ed. Stephen A. Marlett. Lima: SIL International y Universidad Ricardo Palma.
+* {{citation
+|last=Regnier
+|first=Sue
+|year=1993
+|title=Quiegolani Zapotec Phonology
+|journal=Work Papers of the Summer Institute of Linguistics
+|publisher=University of Dakota
+|volume=37
+|pages=37–63
+|url=https://archive.org/details/ERIC_ED365101
+}}
+* Rendón, Juan José. 1970. Notas fonológicas del Zapotec de Tlacochahuaya. Anales de Antropología, vol. 7. Mexico City: UNAM.
+* Sicoli, Mark A. 2000. "Loanwords and contact-induced phonological change in Lachixío Zapotec." ''Proceedings of the 25th annual meeting of the Berkeley Linguistics Society.'' Berkeley: Berkeley Linguistic Society.
+* Tejada, Laura (2012). Tone gestures and constraint interaction in Sierra Juarez Zapotec. University of Southern California.
+* Ward, Michael, Emiliano Zurita Sánchez, and Stephen A. Marlett. 2008. [http://lengamer.org/publicaciones/trabajos/zapoteco_de_Quioquitani_afi.pdf Zapoteco de Santa Catarina Quioquitani]. Ilustraciones fonéticas de lenguas amerindias, ed. Stephen A. Marlett. Lima: SIL International y Universidad Ricardo Palma.
+{{refend}}
+
+==== Relating to morphology and syntax ====
+{{refbegin}}
+* Black, Cheryl A.; H. Andrew Black; and Stephen A. Marlett (eds.) [http://www.sil.org/mexico/WorkPapers/WP001i-ZapotecGrammarFiles.htm The Zapotec Grammar Files]. 
+* Broadwell, George A. 2001. "Optimal order and pied-piping in San Dionicio Zapotec." In Peter Sells, ed. Formal and Empirical Issues in Optimality Theoretic Syntax, pp.&nbsp;197–123. Stanford: CSLI Publications.
+* Broadwell, George A. 2005. The morphology of Zapotec pronominal clitics.in Rosemary Beam de Azcona and Mary Paster, eds. Survey of California and Other Indian Languages, Report 13: Conference on Otomanguean and Oaxacan Languages, pp.&nbsp;15–35. University of California at Berkeley.
+*Broadwell, George A. 2015. The historical development of the progressive aspect in Central Zapotec. International Journal of American Linguistics 81:151-185.
+* Butler, Inez M. 1976. "Reflexive constructions of Yatzachi Zapotec." International Journal of American Linguistics 42: 331-37.
+* Butler, Inez M. 1976. "Verb classification of Yatzachi Zapotec." SIL Mexico Workpapers 2: 74-84.
+* Earl, Robert. 1968. "Rincon Zapotec clauses." International Journal of American Linguistics 34: 269-74.
+* Jones, Ted E., and Ann D. Church. 1985. "Personal pronouns in Guelavía Zapotec". S.I.L.-Mexico Workpapers 7: 1-15.
+* Lee, Felicia A. In press. "On the Absence of Quantificational Determiners in San Lucas Quiaviní Zapotec." To appear in L. Matthewson, (ed.) Quantification: Universals and Variation. Elsevier.
+* Lee, Felicia A. n.d. "Modality and the Structure of Tense in Zapotec." In B. Bruening, (ed.), Proceedings of SCIL 8. Cambridge: MITWPL.
+* Lee, Felicia A. n.d. "Pseudo-quantification in Possessives." In C. Pye, (ed.),  Proceedings of the Mid-America Linguistics Conference. Lawrence: The University of Kansas.
+* Lee, Felicia A. n.d. "Focus and Judgment Type in San Lucas Quiaviní Zapotec." In M. Juge and J. Moxley, (eds.), Proceedings of BLS 23. Berkeley: Berkeley Linguistic Society.
+* Lee, Felicia A. n.d. "The Predicational Nature of Clefts: Evidence from Zapotec." In  K. Singer, R. Eggert, and G. Anderson, (eds.), Proceedings of CLS 33. Chicago: The Chicago Linguistic Society.
+* Lee, Felicia A. n.d. "Three Question Markers in San Lucas Quiaviní Zapotec." To appear in Anthropological Linguistics.
+* Lee, Felicia A. 1995. "Aspect, Negation, and Temporal Polarity in Zapotec." In B. Agbayani and S.-W. Tang, (eds.), Proceedings of WCCFL  15. Stanford: CSLI.
+* Lee, Felicia A. 1996. "Focus in the Future and the Thetic/Categorical Distinction." In  V. Samiian, (ed.), Proceedings of WECOL 96. Fresno: California State University, Fresno.
+* Lee, Felicia A. 1997. "Evidence for Tense in a 'Tenseless' Language." In P. Tamagi, M. Hirotani, and N. Hall, (eds.),  Proceedings of NELS 29. Amherst: GLSA.
+* Lee, Felicia A. 2000. "VP Remnant Movement and VSO in Quiaviní Zapotec." In A. Carnie and E. Guilfoyle (editors), The Syntax of Verb Initial Languages, Oxford: Oxford University Press.
+* Lee, Felicia A. 2000. "Relative Clauses Without Wh-Movement." In M. Kim and U. Strauss, (eds.), Proceedings of NELS 31. Amherst: GLSA.
+* Lee, Felicia A. 2001. "WH and Focus Are Not the Same Projection." In K. Megerdoomian and L. Bar-El, (eds.), Proceedings of WCCFL  20. Somerville: Cascadilla Press.
+* Lee, Felicia A. 2001. "Anaphoric R-Expressions: Bound Names as Bound Variables." In M. Hirotani, (ed.),  Proceedings of NELS 32. Amherst: GLSA.
+* Lee, Felicia A. 2002 "Anaphoric R-Expressions as Bound Variables." Proceedings of BLS 28.
+* Lee, Felicia A. 2003. "Anaphoric R-Expressions as Bound Variables." Syntax. 6, 1: 84-114. Blackwell Publishing.
+* Lee, Felicia A. 2005. "Clause-Fronting and Clause-Typing in San Lucas Quiaviní Zapotec."   In  Andrew Carnie, Heidi Harley, Sheila Dooley Collberg (eds) Verb First, John Benjamins Publishers, Philadelphia/Amsterdam.
+* Lee, Felicia A. 2006. Remnant Raising and VSO Clausal Architecture: A Case Study from San Lucas Quiaviní Zapotec. Springer.
+* Lillehaugen, Brook Danielle. 2003. "[https://web.archive.org/web/20070811232145/http://www.ailla.utexas.org/site/cilla1_toc.html The Acquisition of Body Part Prepositions in Valley Zapotec Languages]." Proceedings from the First Conference on Indigenous Languages of Latin America, University of Texas, Austin.
+* Lillehaugen, Brook Danielle. 2004. "[http://www.linguistics.ucla.edu/people/grads/lillehaugen/Lillehaugen2003WAIL.pdf The Syntactic and Semantic Development of Body Part Prepositions in Valley Zapotec Languages]," pp.&nbsp;69 – 92, Proceedings from the sixth Workshop on American Indigenous Languages, Santa Barbara Papers in Linguistics, vol. 14, Jeanie Castillo (ed.).
+* [[Pamela Munro|Munro, Pamela]]. 2002. "Hierarchical Pronouns in Discourse: Third Person Pronouns in San Lucas Quiaviní Zapotec Narratives". Southwest Journal of Linguistics 21: 37-66.
+* Lyman, Larry. 1964. The verb syntagmemes of Choapan Zapotec. Linguistics 7: 16-41.
+* Marlett, Stephen A. 1993. Zapotec pronoun classification. International Journal of American Linguistics 59: 82-101.
+* Marlett, Stephen A. 1987. The syllable structure and aspect morphology of Isthmus Zapotec. International Journal of American Linguistics 53: 398-422.
+* Marlett, Stephen A. & Velma B. Pickett. 1996. El pronombre inaudible en el zapoteco del Istmo. In Zarina Estrada Fernández, Max Figueroa Esteva & Gerardo López Cruz (eds.) III Encuentro de Lingüística en el Noroeste, 119-150. Hermosillo, Sonora: Editorial Unison.
+* Operstein, Natalie. 2002. "Positional Verbs and Relational Nouns in Zaniza Zapotec," pp.&nbsp;60–70. Proceedings from the fourth Workshop on American Indigenous Languages, Santa Barbara Papers in Linguistics, vol 11.
+* Operstein, Natalie. 2016. Valence Changes in Zapotec: Synchrony, diachrony, typology" Amsterdam: John Benjamins.
+* Rojas, Rosa Maria. to appear. "La predicación secundaria en el zapoteco de Santa Ana del Valle, Oax." por aparecer en Memorias del Primer Coloquio "Leonardo Manrique", México: INAH.
+* Rojas, Rosa Maria. 2001. "La formación de palabras desde el punto de vista del contenido en lenguas zapotecas: la modificación y el desarrollo" en Dimensión Antropológica, vol. 21, 2001.
+* Speck, Charles H. 1994. Texmelucan Zapotec verbs. Work Papers of the Summer Institute of Linguistics, University of North Dakota Session 38: 125-29
+* Speck, Charles H. 1994. The existential use of positional verbs in Texmelucan Zapotec. Work Papers of the Summer Institute of Linguistics, University of North Dakota Session 38: 75-86.
+* Speck, Charles H. & Velma B. Pickett. 1976. Some properties of the Texmelucan Zapotec verbs go, come, and arrive. International Journal of American Linguistics 42: 58-64.
+{{refend}}
+
+==== Relating to discourse analysis ====
+{{refbegin}}
+* Benton, Joseph P. 1987. Clause and sentence-level word order and discourse strategy in Chichicapan Zapotec oral narrative discourse. SIL Mexico Workpapers 9: 72-84.
+* Benton, Joseph P. 1997. Aspect shift in Chichicapan Zapotec narrative discourse. SIL Mexico Workpapers 12: 34-46.
+* Hopkins, Mary L. 1995. "Narrative peak in Xanaguía Zapotec." SIL Mexico Workpapers 11: 17-36.
+* Kreikebaum, Wolfram. 1987. Fronting and related features in Santo Domingo Albarradas Zapotec. SIL Mexico Workpapers 9: 33-71.
+* Long, Rebecca. 1985. Topicalization in Zoogocho Zapotec expository discourse. SIL Mexico Workpapers 7: 61-100.
+* Lyman, Rosemary. 1977. Participant identification in Choapan Zapotec. Work Papers of the Summer Institute of Linguistics, University of North Dakota 21: 115-31.
+* (de) Martinez, Valerie. 1995. Who’s who in Quiatoni Zapotec narratives. SIL Mexico Workpapers 11: 37-46.
+* Newberg, Ronald. 1987. Participant accessibility in Yalálag Zapotec. SIL Mexico Workpapers 9: 12-25.
+* Olive, Julie Nan. 1995. Speech verbs in Xanaguía Zapotec narrative. SIL Mexico Workpapers 11: 47-52.
+* Piper, Michael J. 1995. The functions of ‘lëë’ in Xanica Zapotec narrative discourse with some implications for comparative Zapotec. SIL Mexico Workpapers 11: 67-78.
+* Riggs, David B. 1987. Paragraph analysis for Amatlán Zapotec. SIL Mexico Workpapers 9: 1-11.
+* Sicoli, Mark A. 2010. Shifting voices with participant roles: Voice qualities and speech registers in Mesoamerica. Language in Society 39(4).
+* Thiessen, Grace. 1987. The functions of the clitic -ha in Western Ixtlán Zapotec. SIL Mexico Workpapers 9: 85-100.
+* Ward, Michael. 1987. A focus particle in Quioquitani Zapotec. SIL Mexico Workpapers 9: 26-32.
+{{refend}}
+
+==== General and miscellaneous ====
+{{refbegin}}
+* Broadwell, George A. 2005. Zapotecan languages.  Encyclopedia of Language and Linguistics, 2nd edition. Elsevier.
+* Butler, Inez M. 1985. "Event prominence in Zoogocho Zapotec narrative discourse." SIL Mexico Workpapers 7: 16-60.
+* Lopez, Felipe H., and [[Pamela Munro]]. 1998. [http://www.unhchr.ch/udhr/lang/ztu1.htm The United Nations' Universal Declaration of Human Rights translated into San Lucas Quiaviní Zapotec]. 
+* Lopez, Felipe H., and [[Pamela Munro]]. 1999. "Zapotec Immigration: The San Lucas Quiaviní Experience". Aztlan. 24, 1: 129-149.
+* [[Pamela Munro|Munro, Pamela]]. 1996. "Making a Zapotec Dictionary". Dictionaries 17: 131-55.
+* [[Pamela Munro|Munro, Pamela]]. 2003. [http://www.utexas.edu/cola/insts/france-ut/_files/pdf/resources/munro.pdf Preserving the Language of the Valley Zapotecs: The Orthography Question.] Presented at Language and Immigration in France and the United States: Sociolinguistic Perspectives. University of Texas.
+* Nellis, Jane G. 1947. Sierra Zapotec forms of address, International Journal of American Linguistics 13: 231-32.
+* Persons, Jan A. 1997. [http://www.und.nodak.edu/dept/linguistics/wp/1997Persons.PDF High pitch as a mark of respect in Lachixío Zapotec]. Work Papers of the Summer Institute of Linguistics, University of North Dakota 41: 59-60.
+* Robinson, Dow F. 1963. Field notes on Coatlán Zapotec. Hartford, CN: Hartford Seminary Foundation.
+{{refend}}
+
+==External links==
+{{incubator|code=zap}}
+{{sister project |project=wiktionary |text=[[Wiktionary]] has a list of reconstructed forms at '''''[[Wiktionary:Appendix:Proto-Zapotec reconstructions|Appendix:Proto-Zapotec reconstructions]]'''''}}
+* [http://www.sil.org/Mexico/zapoteca/00i-zapoteca.htm SIL on the Zapotecan language family]
+
+{{Zapotec languages}}
+{{Oto-Manguean languages}}
+{{Languages of Mexico}}
+
+{{Authority control}}
+{{DEFAULTSORT:Zapotec}}
+[[Category:Zapotec languages| ]]
+[[Category:Analytic languages]]
+[[Category:Isolating languages]]
+[[Category:Verb–subject–object languages]]

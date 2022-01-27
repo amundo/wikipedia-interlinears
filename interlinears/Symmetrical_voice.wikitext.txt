@@ -1,0 +1,1864 @@
+{{Linguistic_typology topics}}
+
+'''Symmetrical voice''', also known as '''Austronesian alignment''', the '''Philippine-type voice system''' or inaccurately the '''Austronesian focus system''',<ref>See p. 188. Kaufman, Daniel. (2009). Austronesian typology and the nominalist hypothesis. In A. Adelaar & A. Pawley (Eds.), ''Austronesian Historical Linguistics and Culture History: A Festschrift for Robert Blust'' (pp. 187–215).</ref> is a typologically unusual kind of [[morphosyntactic alignment]] in which "one [[Argument (linguistics)|argument]] can be marked as having a special relationship to the verb".{{sfnp|Blust|2013|p=436}} This special relationship manifests itself as a [[Voice_(grammar)|voice]] affix on the verb that corresponds to the syntactic role of a noun within the clause, that is either marked for a particular [[grammatical case]] or is found in a privileged structural position within the clause or both.
+
+Symmetrical voice is best known from the [[languages of the Philippines]], but is also found in [[Taiwan]]'s [[Formosan languages]], as well as in [[Borneo]], Northern [[Sulawesi]], and [[Madagascar]], and has been reconstructed for the ancestral [[Proto-Austronesian]] language.<ref>Beguš, Gašper. (2016). [http://scholar.harvard.edu/files/begus/files/begus_the_origins_of_voice_focus_system_in_austronesian_ws.pdf "The Origins of the Voice/Focus System in Austronesian"]. Presented at the ''42nd Annual Meeting of the Berkeley Linguistics Society (BLS42)''.
+</ref>
+
+==Terminology==
+The term ''Austronesian focus'' was widely used in early literature, but more scholars turn to the term ''voice'' recently because of the arguments against the term 'focus'.<ref>Himmelmann, N. P. (2002). Voice in western Austronesian: An update. In F. Wouk & M. Ross (Eds.), ''The History and Typology of western Austronesian voice systems'' (pp. 7-15). Canberra, ACT: Australian National University.</ref> On the other hand, Starosta argued that neither voice nor focus is correct and that it is a lexical derivation.<ref>Starosta, Stanley. (2002). Austronesian ‘Focus’ as Derivation: Evidence from Nominalization. ''Language and Linguistics, 3''(2), 427-479.</ref>
+
+Schachter (1987) proposed the word 'trigger', which has seen widespread use. As one source summarized, 'focus' and 'topic' do not what they mean in discourse (the essential piece of new information, and what is being talked about, respectively), but rather 'focus' is a kind of agreement, and the 'topic' is a noun phrase that agrees with the focus-marked verb. Thus using those terms for Austronesian/Philippine alignment is "misleading" and "it seems better to refer to this argument expression as the ''trigger'', a term that reflects the fact that the semantic role of the argument in question triggers the choice of a verbal affix."<ref>Masumi Katagiri (2020) 'Tagalog'. In Tasaku Tsunoda (ed.) ''Mermaid Construction: A Compound-Predicate Construction with Biclausal Appearance.'' De Gruyter. P. 786.</ref>
+
+==Studies==
+A number of studies focused on the typological perspective of Austronesian voice system.<ref>Hemmings, Charlotte. (2015). Kelabit Voice: Philippine‐Type, Indonesian‐Type or Something a Bit Different? ''Transactions of the Philological Society, 113''(3), 383-405.</ref><ref>Liao, Liao, H. C. (2011). Some morphosyntactic differences between Formosan and Philippine languages. ''Language and Linguistics, 12''(4), 845-876.</ref>
+
+Some explored the [[Semantics|semantic]] or [[Pragmatics|pragmatic]] properties of Austronesian voice system.<ref>Kroeger, Paul. (2007). Morphosyntactic vs. morphosemantic functions of Indonesian –kan. In A. Zaenen et al. (Eds.), ''Architectures, Rules, and Preferences: Variations on Themes of Joan Bresnan'' (pp. 229-251).</ref><ref>Huang, Shuan-fan. (2002). The pragmatics of focus in Tsou and Seediq. ''Language and Linguistics, 3''(4), 665-694.</ref>
+
+Others contributed to the [[Valency (linguistics)|valence]]-changing morphology.<ref>Fortin, Catherine. (2003). Syntactic and Semantic Valence: Morphosyntactic Evidence from Minangkabau. In ''Proceedings of the Twenty-Ninth Annual Meeting of the Berkeley Linguistics Society (BLS 29)''.</ref>
+
+==Properties==
+===Agreement with the semantic role of the subject ===
+In languages that exhibit symmetrical voice, the voice affix on the main verb within the clause marks [[Agreement (linguistics)|agreement]] with "the [[Thematic relation|semantic role]] of the [subject]".<ref>Ross (2002, p. 20)</ref> 
+
+For example, the Actor Voice affix may agree only with agent nominal phrases. (The asterisk means that the sentence is ungrammatical for the intended meaning.)
+
+; Kapampangan
+{{interlinear|glossing=no abbr
+|number=a.
+|top= Actor Voice
+| S‹{{font color|#FF0000|um}}›ulat ya{{=}}ng poesia '''<u>ing</u>''' '''<u>lalaki</u>''' king pisara.
+| ‹AV›will.write 3SG.DIR{{=}}ACC poem DIR boy OBL blackboard
+| "The boy will write a poem on the blackboard."}}
+
+{{interlinear|glossing=no abbr
+|number=b.
+| * S{{font color|#FF0000|um}}ulat yang lalaki '''<u>ing</u>''' '''<u>poesia</u>''' king pisara.
+| Intended: "The boy will write a poem on the blackboard."<br>
+(Grammatical for: "The poem will write a boy on the blackboard.")}}
+
+{{interlinear|glossing=no abbr
+|number=c.
+| * S{{font color|#FF0000|um}}ulat yang poesia '''<u>ing</u>''' '''<u>pisara</u>''' king lalaki.
+| Intended: "The boy will write a poem on the blackboard."<br>
+(Grammatical for: "The blackboard will write a poem on the boy.")}}
+
+;Tagalog
+{{interlinear|glossing=no abbr
+|number=a.
+|top= Actor Voice
+| B‹{{font color|#FF0000|um}}›ili ng mangga sa palengke '''<u>ang</u>''' '''<u>lalaki</u>'''.
+| ‹ASP.AV›buy IND mango OBL market DIR man
+| "The man bought a mango at the market."}}
+
+{{interlinear|glossing=no abbr
+|number=b.
+| * B{{font color|#FF0000|um}}ili ng lalaki sa palengke '''<u>ang</u>''' '''<u>mangga</u>'''.
+| Intended: "The man bought a mango at the market."<br>
+(Grammatical for: "The mango bought a man at the market.")}}
+
+{{interlinear|glossing=no abbr
+|number=c.
+| * B{{font color|#FF0000|um}}ili ng mangga sa lalaki '''<u>ang</u>''' '''<u>palengke</u>'''.
+| Intended: "The man bought a mango at the market."<br>
+(Grammatical for: "The market bought a mango from the man.")}} 
+
+The sentences in (b) are ungrammatical because the patient nominal phrase is marked as the subject, even though the verb bears the Actor Voice infix. The sentences in (c) are ungrammatical because, instead of the agent nominal phrase, the location nominal phrase is marked as the subject.
+
+The patient voice affix may agree only with patient nominal phrases.
+
+;Kapampangan
+{{interlinear|glossing=no abbr
+|number=a.
+|top= Patient Voice
+| {{font color|#FF0000|I}}-sulat n{{=}}e ning lalaki '''<u>ing</u>''' '''<u>poesia</u>''' king pisara.
+| PV-will.write 3SG.ERG{{=}}3SG.DIR ERG boy DIR poem OBL blackboard
+| "The poem will be written by the boy on the blackboard."}}
+
+{{interlinear|glossing=no abbr
+|number=b.
+| * {{font color|#FF0000|I}}sulat ne ning poesia '''<u>ing</u>''' '''<u>lalaki</u>''' king pisara.
+| Intended: "The poem will be written by the boy on the blackboard."<br>
+(Grammatical for: "The boy will be written by the poem on the blackboard.")}}
+
+{{interlinear|glossing=no abbr
+|number=c.
+| * {{font color|#FF0000|I}}sulat ne ning lalaki '''<u>ing</u>''' '''<u>pisara</u>''' king poesia.
+| Intended: "The poem will be written by the boy on the blackboard."<br>
+(Grammatical for: "The blackboard will be written by the boy on the poem.")}}
+
+;Tagalog
+{{interlinear|glossing=no abbr
+|number=a.
+|top= Patient Voice
+| B‹in›ili-{{font color|#FF0000|∅}} ng lalaki sa palengke '''<u>ang</u>''' '''<u>mangga</u>'''.
+| ‹ASP›buy-PV IND man OBL market DIR mango
+| "The mango was bought by the man at the market."}}
+
+{{interlinear|glossing=no abbr
+|number=b.
+| * Binili-{{font color|#FF0000|∅}} ng mangga sa palengke '''<u>ang</u>''' '''<u>lalaki</u>'''.
+| Intended: "The mango was bought by the man at the market."<br>
+(Grammatical for: "The man was bought by the mango at the market.")}}
+
+{{interlinear|glossing=no abbr
+|number=c.
+| * Binili-{{font color|#FF0000|∅}} ng lalaki sa mangga '''<u>ang</u>''' '''<u>palengke</u>'''.
+| Intended: "The mango was bought by the man at the market."<br>
+(Grammatical for: "The market was bought by the man at the mango.")}}
+
+The sentences in (b) are ungrammatical because the agent nominal phrase is marked as the subject, even though the verb bears the patient voice affix. The sentences in (c) are ungrammatical because, instead of the patient nominal phrase, the location nominal phrase is marked as the subject.
+
+The locative voice affix may agree only with location nominal phrases.
+
+;Kapampangan
+
+{{interlinear|glossing=no abbr
+|number=a.
+|top= Locative Voice
+| {{font color|#FF0000|Pi}}-sulat-{{font color|#FF0000|an}} n{{=}}e{{=}}ng poesia ning lalaki '''<u>ing</u>''' '''<u>pisara</u>'''.
+| LV-will.write-LV 3SG.ERG{{=}}3SG.DIR{{=}}ACC poem ERG boy DIR blackboard
+| "The blackboard will be written a poem on by the boy."}}
+
+{{interlinear|glossing=no abbr
+|number=b.
+| * {{font color|#FF0000|Pi}}sulat{{font color|#FF0000|an}} neng poesia ning pisara '''<u>ing</u>''' '''<u>lalaki</u>'''.
+| Intended: "The blackboard will be written a poem on by the boy."<br>
+(Grammatical for: "The boy will be written a poem on by the blackboard.")}}
+
+{{interlinear|glossing=no abbr
+|number=c.
+| * {{font color|#FF0000|Pi}}sulat{{font color|#FF0000|an}} neng pisara ning lalaki '''<u>ing</u>''' '''<u>poesia</u>'''.
+| Intended: "The blackboard will be written a poem on by the boy."<br>
+(Grammatical for: "The poem will be written a blackboard on by the boy.")}}
+
+;Tagalog
+{{interlinear|glossing=no abbr
+|number=a.
+|top= Locative Voice
+| B‹in›ilh-{{font color|#FF0000|an}} ng lalaki ng mangga '''<u>ang</u>''' '''<u>palengke</u>'''.
+| ‹ASP›buy-LV IND man IND mango DIR market
+| "The market was bought a mango at by the man."}}
+
+{{interlinear|glossing=no abbr
+|number=b.
+| * Binilh{{font color|#FF0000|an}} ng palengke ng mangga '''<u>ang</u>''' '''<u>lalaki</u>'''.
+| Intended: "The market was bought a mango at by the man."<br>
+(Grammatical for: "The man was bought a mango from by the market.")}}
+
+{{interlinear|glossing=no abbr
+|number=c.
+| * Binilh{{font color|#FF0000|an}} ng lalaki ng palengke '''<u>ang</u>''' '''<u>mangga</u>'''.
+| Intended: "The market was bought a mango at by the man."<br>
+(Grammatical for: "The mango was bought a market at by the man.")}}
+
+The sentences in (b) are ungrammatical because the agent nominal phrase is marked as the subject, even though the verb bears the locative voice affix. The sentences in (c) are ungrammatical because, instead of the location nominal phrase, the patient nominal phrase is marked as the subject.
+
+===Types of semantic roles===
+Across languages, the most common [[Thematic relation|semantic roles]] with which the voice affixes may agree are agent, patient, location, instrument, and benefactee. In some languages, the voice affixes may also agree with semantic roles such as theme, goal, reason, and time. The set of semantic roles that may be borne by subjects in each language varies, and some affixes can agree with more than one semantic role.
+
+===Promotion direct to subject ===
+Languages that have symmetrical voice do not have a process that promotes an [[Argument_(linguistics)|oblique argument]] to [[Object (grammar)|direct object]]. Oblique arguments are promoted directly to [[Subject (grammar)|subject]].
+
+;Tagalog
+{{interlinear|italics1=no|italics2=yes|italics3=yes|glossing4=yes|glossing=no abbr
+|number=1)
+|top= Actor Voice
+| {} {{sc|agent}} {} {{sc|theme}} {} {{sc|goal}} {} {}
+| Nagpadala '''<u>ang</u>''' '''<u>mama</u>''' ng pera sa anak niya.
+| {{font color|#FF0000|M}}-n-pag-padala {} {} {} {} {} {} {}
+| AV-ASP-¿?-send DIR man IND money OBL child 3SG.GEN
+| "The man sent money to his child."}}
+
+{{interlinear|italics1=no|italics2=yes|glossing3=yes|glossing=no abbr
+|number=2)
+|top= Locative Voice
+| {} {{sc|agent}} {} {{sc|theme}} {} {{sc|goal}} {} {}
+| P‹in›adalh-{{font color|#FF0000|an}} ng mama ng pera '''<u>ang</u>''' '''<u>anak</u>''' '''<u>niya</u>'''.
+| ‹ASP›send-LV IND man IND money DIR child 3SG.GEN
+| "His<sub>i</sub> child was sent money by the man<sub>i</sub>."}}
+
+{{interlinear|italics1=no|italics2=yes|italics3=yes|glossing4=yes|glossing=no abbr
+|number=3)
+|top= (ungrammatical attempt to promote the indirect object to direct object)
+| {} {} {{sc|agent}} {} {{sc|theme}} {} {{sc|goal}} {} {}
+| * Nagpadalhan '''<u>ang</u>''' '''<u>mama</u>''' ng pera ng anak niya.
+| {} {{font color|#FF0000|M}}-n-pag-padalh-{{font color|#FF0000|an}} {} {} {} {} {} {} {}
+| {} AV-ASP-{{sc|¿?}}-send-LV DIR man IND money IND child 3SG.GEN
+| Intended: "The man sent his child money."}}
+
+In the Tagalog examples above, the goal nominal phrase can either be an indirect object, as in (1), or a subject as in (2). However, it cannot become a direct object, or be marked with indirect case, as in (3). Verb forms, such as "nagpadalhan", which bear both an Actor Voice affix and a non-Actor Voice affix, do not exist in languages that have symmetrical voice.
+
+The Tagalog examples contrast with the examples<ref>Taken from Shiohara (2012)'s examples in (4a-b) on page 60, and in (12) on page 63. Glosses and translations modified for the Wikipedia article.</ref> from [[Indonesian_language|Indonesian]] below. Indonesian is an Austronesian language that does not have symmetrical voice.
+
+;Indonesian
+{{interlinear|italics1=no|italics2=yes|italics3=yes|glossing4=yes|glossing=no abbr
+|number=4)
+|top= Active Voice
+| {{sc|agent}} {} {{sc|theme}} {{sc|goal}} {}
+| '''<u>Ayah</u>''' mengirim uang kepada saya.
+| {} {{font color|#FF0000|meN}}-kirim {} {} {}
+| father {ACTIVE VOICE}-send money to 1SG
+| "Father sent money to me."}}
+
+{{interlinear|italics1=no|italics2=yes|glossing3=yes|glossing=no abbr
+|number=5)
+|top= Passive Voice with an Applicative Suffix
+| {{sc|goal}} {} {{sc|theme}} {{sc|agent}} {}
+| '''<u>Saya</u>''' {{font color|#FF0000|di}}-kirim-{{font color|#FF0000|i}} uang oleh Ayah.
+| 1SG {PASSIVE VOICE}-send-APPLICATIVE money by father
+| "I was sent money by Father."}}
+
+{{interlinear|italics1=no|italics2=yes|italics3=yes|glossing4=yes|glossing=no abbr
+|number=6)
+|top= Active Voice with an [[Applicative voice|Applicative Suffix]]
+| {{sc|agent}} {} {{sc|goal}} {{sc|theme}}
+| '''<u>Ayah</u>''' mengirimi saya uang.
+| {} {{font color|#FF0000|meN}}-kirim-{{font color|#FF0000|i}} {} {}
+| father {ACTIVE VOICE}-send-APPLICATIVE 1SG money
+| "Father sent me money."}}
+
+In the Indonesian examples, the goal nominal phrase can be the indirect object, as in (4), and the subject, as in (5). However, unlike in Tagalog, which has symmetrical voice, the goal nominal phrase in Indonesian can be a direct object, as in (6). The preposition ''kepada'' disappears in the presence of the applicative suffix ''-i'', and the goal nominal phrase moves from sentence-final position to some verb-adjacent position. In addition, they can behave like regular direct objects and undergo processes such as [[Passive_voice|passivisation]], as in (5).
+
+==Examples==
+===Proto-Austronesian===
+The examples <ref>Taken from Blust (2013)'s Table 7.2 on page 439. Glosses and translations modified for the Wikipedia article.</ref> below are in Proto-Austronesian.  Asterisks indicate a [[linguistic reconstruction]].  The voice affix on the verb appears in <span style="color:#FF0000">red text</span>, while the subject, which the affix [[Selection_(linguistics)|selects]], appears in '''''<u>underlined bold italics</u>'''''.  Four voices have been reconstructed for Proto-Austronesian:  ''Actor Voice'', ''Patient Voice'', ''Locative Voice'' and ''Instrument Voice''.
+
+'''Proto-Austronesian'''
+{|
+|(1) || colspan=5 | ''Actor Voice''
+|-
+| || * K‹<span style="color:#FF0000">um</span>›aen || &nbsp; || Semay || &nbsp; || '''''<u>Cau</u>'''''.
+|-
+| || <span style="color:#FFFFFF">*</span>‹{{sc|av}}›eat || || rice || || man
+|-
+| || colspan=5 | <span style="color:#FFFFFF">*</span>"The man is eating some rice."
+|}
+
+{|
+| (2) || colspan=7 | ''Patient Voice''
+|-
+| || * Kaen-<span style="color:#FF0000">en</span> || &nbsp; || nu || &nbsp; || Cau || &nbsp; || '''''<u>Semay</u>'''''.
+|- 
+| || <span style="color:#FFFFFF">*</span> eat-{{sc|pv}} || || {{sc|erg}} || || man || || rice
+|-
+| || colspan=7 | <span style="color:#FFFFFF">*</span> "A/the man is eating the rice."
+|-
+| || colspan=7 | <span style="color:#FFFFFF">*</span> (''or'' "The rice is being eaten by a/the man.")
+|}
+
+{|
+| (3) || colspan=9 | ''Locative Voice''
+|-
+| || * Kaen-<span style="color:#FF0000">an</span> || &nbsp; || nu || &nbsp; || Cau || &nbsp; || Semay || &nbsp; || '''''<u>Rumaq</u>'''''.
+|- 
+| || <span style="color:#FFFFFF">*</span> eat-{{sc|lv}} || || {{sc|erg}} || || man || || rice || || house
+|-
+| || colspan=9 | <span style="color:#FFFFFF">*</span> "The man is eating rice in the house."
+|-
+| || colspan=9 | <span style="color:#FFFFFF">*</span> (''or'' "The house is being eaten rice in by the man.")
+|}
+
+{|
+| (4) || colspan=9 | ''Instrument Voice''
+|-
+| || * <span style="color:#FF0000">Si</span>-kaen || &nbsp; || nu || &nbsp; || Cau || &nbsp; || Semay || &nbsp; || '''''<u>lima-ni-á</u>'''''.
+|- 
+| || <span style="color:#FFFFFF">*</span> {{sc|iv}}-eat || || {{sc|erg}} || || man || || rice || || hand-{{sc|gen-3sg}}
+|-
+| || colspan=9 | <span style="color:#FFFFFF">*</span> "The man is eating rice with his hand."
+|-
+| || colspan=9 | <span style="color:#FFFFFF">*</span> (''or'' "His<sub>i</sub> hand is being eaten rice with by the man<sub>i</sub>.")
+|}
+
+===Modern Austronesian Languages===
+Below are examples of modern Austronesian languages that exhibit symmetrical voice.  These languages are spoken in [[Taiwan]], the [[Philippines]], [[Malaysia]], [[Indonesia]], and [[Madagascar]].
+
+The number of voices differs from language to language.  While the majority sampled have four voices, it is possible to have as few as three voices, and as many as six voices.  
+
+In the examples below, the voice affix on the verb appears in <span style="color:#FF0000">red text</span>, while the subject, which the affix [[Selection_(linguistics)|selects]], appears in '''''<u>underlined bold italics</u>'''''.
+
+{{=}}{{=}}{{=}}{{=}}Formosan{{=}}{{=}}{{=}}{{=}}
+The data below come from [[Formosan_languages|Formosan]], a geographic grouping of all [[Austronesian languages]] that belong outside of [[Malayo-Polynesian_languages|Malayo-Polynesian]]. The Formosan languages are primarily spoken in [[Taiwan]].
+
+=====Amis=====
+[[Amis_language|Amis]]<ref>Taken from Liu (2011)'s examples in (2.5) on page 27. Glosses and translation modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Instrument Voice.
+
+The direct case marker, which marks the subject in Amis, is ''ku''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| {{font color|#FF0000|Mi}}-ʔaɬup '''<u>ku</u>''' '''<u>kapah</u>''' tu vavuy.
+| AV-hunt DIR {young man} ACC pig
+| "A young man hunts a pig."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| {{font color|#FF0000|Ma}}-ʔaɬup nu kapah '''<u>ku</u>''' '''<u>vavuy</u>'''.
+| PV-hunt ERG {young man} DIR pig
+| "A young man hunts a pig." (''or'' "A pig is hunted by a young man.)}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| {{font color|#FF0000|Pi}}-ʔaɬup-{{font color|#FF0000|an}} nu kapah '''<u>kura</u>''' '''<u>lutuk</u>''' tu vavuy.
+| LV-hunt-LV ERG {young man} that.DIR mountain ACC pig
+| "A young man hunts a pig on that mountain." (''or'' "That mountain is hunted a pig on by a young man.")}}
+
+{{interlinear|glossing=no abbr|number=(4)
+|top= Instrument Voice
+| {{font color|#FF0000|Sa-pi}}-ʔaɬup nu kapah '''<u>ku</u>''' '''<u>ʔiluc</u>''' tu vavuy.
+| IV-hunt ERG {young man} DIR spear ACC pig
+| "A young man hunts a pig with a spear." (''or'' "A spear is hunted a pig with by a young man.")}}
+
+=====Atayal=====
+While they both have the same number of voices, the two dialects of [[Atayal_language|Atayal]] presented below do differ in the shape of the circumstantial voice prefix. In Mayrinax, the circumstantial voice prefix is ''si-'', whereas in Squliq, it is ''s-''.
+
+======Mayrinax======
+Mayrinax<ref>Taken from Liu (2011)'s examples in (2.30) on page 44. Glosses and translation modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Circumstantial Voice.
+
+The circumstantial Voice prefix selects for benefactee and instrument subjects.
+
+The direct case morpheme in Mayrinax is ''kuʔ''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| {{font color|#FF0000|M}}-aras cuʔ qusiaʔ '''<u>kuʔ</u>''' '''<u>makurakis</u>'''.
+| AV-fetch ACC water DIR girl
+| "The girl fetches water."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Ras-{{font color|#FF0000|un}} nkuʔ makurakis '''<u>kuʔ</u>''' '''<u>qusiaʔ</u>'''.
+| fetch-PV ERG girl DIR water
+| "The girl fetches water." (''or'' "Water is fetched by the girl.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| Ras-{{font color|#FF0000|an}} nkuʔ makurakis cuʔ qusiaʔ '''<u>kuʔ</u>''' '''<u>βintaŋ</u>''' '''<u>ka</u>''' '''<u>hani</u>'''.
+| fetch-LV ERG girl ACC water DIR {water bucket} LIG this
+| "The girl fetches water in this water bucket." (''or'' "This water bucket is fetched water in by the girl.")}}
+
+{{interlinear|glossing=no abbr|number=(4) a.
+|top= Circumstantial Voice (with beneficiary subject)
+| {{font color|#FF0000|Si}}-ʔaras nkuʔ makurakis cuʔ qusiaʔ '''<u>kuʔ</u>''' '''<u>mamaliku{{=}}niaʔ</u>'''.
+| CV-fetch ERG girl ACC water DIR husband{{=}}3SG.GEN
+| "The girl fetches water for her husband." (''or'' "Her husband<sub>i</sub> is fetched water for by the girl<sub>i</sub>.")}}
+
+{{interlinear|glossing=no abbr|number=b.
+|top= Circumstantial Voice (with instrument subject)
+| {{font color|#FF0000|Si}}-ʔaras nkuʔ makurakis cuʔ qusiaʔ '''<u>kuʔ</u>''' '''<u>βintaŋ</u>''' '''<u>ka</u>''' '''<u>hani</u>'''.
+| CV-fetch ERG girl ACC water DIR {water bucket} LIG this
+| "The girl fetches water with this water bucket." (''or'' "This water bucket is fetched water with by the girl.")}}
+
+======Squliq======
+Squliq<ref>Taken from Liu (2017)'s examples in (52) to (56). Glosses and translations modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Circumstantial Voice.
+
+The circumstantial voice prefix selects for benefactee and instrument subjects.
+
+The direct case morpheme in Squliq is ''qu’''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| {{font color|#FF0000|M}}-aniq qulih '''<u>qu’</u>''' '''<u>Tali’</u>'''.
+| AV-eat fish DIR Tali
+| "Tali eats fish."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Niq-{{font color|#FF0000|un}} na’ Tali’ '''<u>qu’</u>''' '''<u>qulih</u>''' '''<u>qasa</u>'''.
+| eat-PV ERG Tali DIR fish that
+| "Tali eats that fish." (''or'' "That fish is eaten by Tali.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| Niq-{{font color|#FF0000|an}} na’ Tali’ qulih '''<u>qu’</u>''' '''<u>ngasal</u>''' '''<u>qasa</u>'''.
+| eat-LV ERG Tali fish DIR house that
+| "Tali eats fish in that house." (''or'' "That house is eaten fish in by Tali.")}}
+
+{{interlinear|glossing=no abbr|number=(4) a.
+|top= Circumstantial Voice (with benefactee subject)
+| {{font color|#FF0000|S}}-qaniq na’ Tali’ qulih '''<u>qu’</u>''' '''<u>Sayun</u>'''.
+| CV-eat ERG Tali fish DIR Sayun
+| "Tali eats fish for Sayun." (''or'' "Sayun is eaten fish for by Tali.")}}
+
+{{interlinear|glossing=no abbr|number=b.
+|top= Circumstantial Voice (with instrument subject)
+| {{font color|#FF0000|S}}-qaniq na’ Tali’ qulih '''<u>qu’</u>''' '''<u>qway</u>'''.
+| CV-eat ERG Tali fish DIR chopsticks
+| "Tali eats fish with chopsticks." (''or'' "Chopsticks are eaten fish with by Tali.")}}
+
+=====Hla’alua=====
+[[Saaroa_language|Hla’alua]]<ref>Taken from Pan (2012)'s examples in (3.16b), (3.23a), (3.32d) and (3.33a). Glosses and translation modified for the Wikipedia article.</ref><ref>The orthography used in this subsection does not conform to the orthography used in Pan (2012) with respect to the consonant /ɬ/. Whereas Pan (2012) represents this sound as ‹lh›, this sound is represented here as ‹hl› (Pan (2012; page 50)).</ref> has three voices: ''Actor Voice'', ''Patient Voice'' and ''Circumstantial Voice''.
+
+The circumstantial voice suffix selects for location and theme subjects.
+
+While [[clitic|bound]] pronouns have a direct case form, nouns do not bear a special direct [[grammatical_case|case marker]] for subjects in Hla’alua. 
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| Hli-{{font color|#FF0000|um}}-u{{=}}cu{{=}}'''<u>aku</u>''' hlavate usua.
+| ASP-AV-eat{{=}}ASP{{=}}1SG.DIR guava two
+| "I have eaten two guavas."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Hli-paipekel-{{font color|#FF0000|a}}{{=}}cu a Eleke '''<u>a</u>''' '''<u>tangusuhlu{{=}}na</u>'''.
+| ASP-mould-PV{{=}}ASP DET Eleke DET rice.cake{{=}}DEF
+| "Eleke has moulded the rice cake." (''or'' "The rice cake has been moulded by Eleke.")}}
+
+{{interlinear|glossing=no abbr|number=(3) a.
+|top= Circumstantial Voice (with location subject)
+| Hli-aala-{{font color|#FF0000|ana}} ’Angai vutukuhlu '''<u>a</u>''' '''<u>hluuhlungu{{=}}na</u>'''.
+| ASP-take-CV ’Angai fish DET stream{{=}}DEF
+| "’Angai has caught fish in the stream." (''or'' "The stream has been caught fish in by ’Angai.")}}
+
+{{interlinear|glossing=no abbr|number=b.
+|top= Circumstantial Voice (with theme subject)
+| Hli-aala-{{font color|#FF0000|ana}}{{=}}ku '''<u>a</u>''' '''<u>vahlituku-isa</u>''' '''<u>ama’a</u>'''.
+| ASP-take-CV{{=}}1SG.ERG DET money-3 father
+| "I have taken father's money." (''or'' "Father's money has been taken by me.")}}
+
+=====Kanakanavu=====
+[[Kanakanavu language|Kanakanavu]]<ref>Taken from Liu (2014)'s examples in (5a), (5c), (17a), and (20a). Glosses and translation modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Instrument Voice.
+
+The direct case morpheme, which optionally marks the subject in Kanakanavu, is ''sua''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| K‹{{font color|#FF0000|um}}›aʉn ('''<u>sua</u>''') '''<u>ŋiau</u>''' tapianaŋai.
+| ‹AV›eat DIR cat bird 
+| "A cat ate a bird."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Cʉʔʉr-{{font color|#FF0000|ai}} maanu iisi ('''<u>sua</u>''') '''<u>tacau</u>''' '''<u>iisa</u>'''.
+| see-PV child this DIR dog that
+| "This child saw that dog." (''or'' "That dog was seen by this child.")}} 
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| Riucuucu-{{font color|#FF0000|an}} Mu'u ('''<u>sua</u>''') '''<u>PaicU</u>'''.
+| kiss-LV Mu'u DIR PaicU
+| "Mu'u kissed PaicU." (''or'' "PaicU was kissed by Mu'u.")}}
+
+{{interlinear|glossing=no abbr|number=(4)
+|top= Instrument Voice
+| {{font color|#FF0000|Si}}-puʔa maanu-maku ʔʉnai '''<u>sua</u>''' '''<u>vantuku</u>''' '''<u>iisi</u>'''.
+| IV-buy child-1SG.GEN land DIR money this
+| "My child bought land with this money." (''or'' "This money was bought land with by my child.")}}
+
+=====Kavalan=====
+[[Kavalan_language|Kavalan]]<ref>Taken from Lee (2016)'s examples in (24), and (25). Glosses and translations modified for the Wikipedia article.</ref> has three voices: ''Actor Voice'', ''Patient Voice'' and ''Circumstantial Voice''.
+
+The circumstantial voice prefix selects for instrument and benefactee subjects.
+
+The direct case morpheme, which marks the subject in Kavalan, is ''ya''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| Q‹{{font color|#FF0000|em}}›al tu rasung '''<u>ya</u>''' '''<u>sunis</u>'''.
+| ‹AV›dig ACC well DIR child
+| "The child dug a well."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Qal-{{font color|#FF0000|an}} na sunis '''<u>ya</u>''' '''<u>rasung</u>'''.
+| dig-PV ERG child DIR well
+| "The child dug the well." (''or'' The well was dug by the child.")}}
+
+{{interlinear|glossing=no abbr|number=(3) a.
+|top= Circumstantial Voice (with instrument subject)
+| {{font color|#FF0000|Ti}}-tangan{{=}}ku tu ineb '''<u>ya</u>''' '''<u>suqsuq</u>'''.
+| CV-open{{=}}1SG.ERG ACC door DIR key
+| "I opened the door with the key." (''or'' "The key was opened the door with by me.")}}
+
+{{interlinear|glossing=no abbr|number={{font color|#FFFFFF|(3)}} b.
+|top= Circumstantial Voice (with benefactee subject)
+| {{font color|#FF0000|Ti}}-sammay na tama{{=}}ku '''<u>ya</u>''' '''<u>tina{{=}}ku</u>'''.
+| CV-cook ERG father{{=}}1SG.GEN DIR mother-1SG.GEN
+| "My father cooked for my mother." (''or'' "My mother was cooked for by my father.")}}
+
+=====Paiwan=====
+[[Paiwan_language|Paiwan]]<ref>Taken from Ross and Teng (2005)'s examples in (2). Glosses and translations modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Instrument Voice.
+
+The direct case morpheme, which marks the subject in Paiwan, is ''a''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| Q‹{{font color|#FF0000|m}}›ałup '''<u>a</u>''' '''<u>tsautsau</u>''' tua vavuy i (tua) gadu tua vuluq.
+| ‹AV›hunt DIR man OBL pig PREP (OBL) mountain OBL spear
+| "The man hunts the pigs in the mountains with a spear."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Qałup-{{font color|#FF0000|en}} nua tsautsau '''<u>a</u>''' '''<u>vavuy</u>''' i (tua) gadu tua vuluq.
+| hunt-PV ERG man DIR pig PREP (OBL) mountain OBL spear
+| "The man hunts the pigs in the mountains with a spear." (''or'' "The pigs are hunted by the man in the mountains with a spear.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| Qałup-{{font color|#FF0000|an}} nua tsautsau tua vavuy '''<u>a</u>''' '''<u>gadu</u>''' tua vuluq.
+| hunt-LV ERG man OBL pig DIR mountain OBL spear
+| "The man hunts the pigs in the mountains with a spear." (''or'' "The mountains are hunted the pigs in by the man with a spear.")}}
+
+{{interlinear|glossing=no abbr|number=(4)
+|top= Instrument Voice
+| {{font color|#FF0000|Si}}-qałup nua tsautsau tua vavuy i (tua) gadu '''<u>a</u>''' '''<u>vuluq</u>'''.
+| IV-hunt ERG man OBL pig PREP (OBL) mountain DIR spear
+| "The man hunts the pigs in the mountains with a spear." (''or'' "The spear is hunted the pigs with by the man in the mountains.")}}
+
+=====Pazeh=====
+[[Pazeh_language|Pazeh]],<ref>Taken from Li (2000)'s examples in (22), (39), and (58), and Li (2002)'s example in (15). Glosses and translations modified for the Wikipedia article.</ref> which became extinct in 2010, had four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Instrument Voice.
+
+The direct case morpheme, which marks the subject in Pazeh, is ''ki''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| {{font color|#FF0000|Mu}}-ngazip yaku '''<u>ki</u>''' '''<u>wazu</u>'''.
+| AV-bite 1SG DIR dog
+| "The dog bit me."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Ngazib-{{font color|#FF0000|en}} wazu lia '''<u>ki</u>''' '''<u>rakihan</u>'''.
+| bite-PV dog ASP DIR child
+| "A dog bit the child." (''or'' The child was bitten by a dog.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| Pu-batu’-{{font color|#FF0000|an}} lia '''<u>ki</u>''' '''<u>babaw</u>''' '''<u>daran</u>'''.
+| pave-stone-LV ASP DIR surface road
+| "The road surface was paved with stones."}}
+
+{{interlinear|glossing=no abbr|number=(4)
+|top= Instrument Voice
+| {{font color|#FF0000|Saa}}-talek alaw '''<u>ki</u>''' '''<u>bulayan</u>'''.
+| IV-cook fish DIR pan
+| "The pan was cooked fish with."}}
+
+=====Puyuma=====
+[[Puyuma_language|Puyuma]]<ref>Taken from Aldridge (2015)'s examples in (7), and Cauquelin (1991)'s example on page 44. Glosses and translations modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Circumstantial Voice.
+
+The circumstantial voice suffix selects for benefactee and instrument subjects.
+
+The direct case morpheme, which marks the subject in Puyuma, is ''na'' or ''i''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| Tr‹{{font color|#FF0000|em}}›akaw dra paisu '''<u>i</u>''' '''<u>Isaw</u>'''.
+| ‹AT.RL›steal ACC money DIR Isaw
+| "Isaw stole money."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Tu{{=}}trakaw-{{font color|#FF0000|aw}} '''<u>na</u>''' '''<u>paisu</u>''' kan Isaw.
+| 3.ERG{{=}}steal-PT.RL DIR money ERG Isaw
+| "Isaw stole the money." (''or'' "The money was stolen by Isaw.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| Tu{{=}}trakaw-{{font color|#FF0000|ay}}{{=}}'''<u>ku</u>''' dra paisu kan Isaw.
+| 3.ERG{{=}}steal-LT.RL{{=}}1SG.DIR ACC money ERG Isaw
+| "Isaw stole money from me." (''or'' "I was stolen money from by Isaw.")}}
+
+{{interlinear|glossing=no abbr|number=(4) a.
+|top= Circumstantial Voice (with benefactee subject)
+| Tu{{=}}trakaw-{{font color|#FF0000|anay}} '''<u>i</u>''' '''<u>tinataw</u>''' dra paisu.
+| 3.ERG{{=}}steal-CT.RL DIR his.mother ACC money
+| "He stole money for his mother." (''or'' "His<sub>i</sub> mother was stolen money for by him<sub>i</sub>.")}}
+
+{{interlinear|glossing=no abbr|number=b.
+|top= Circumstantial Voice (with instrument subject)<ref>While this example may come from Cauquelin (1991), the orthography used here conforms to the orthography used in Aldridge (2015).</ref>
+| Ku{{=}}dirus-{{font color|#FF0000|anay}} '''<u>na</u>''' '''<u>enay</u>''' kan Aliwaki.
+| 1SG.ERG{{=}}wash-CT.RL DIR water ACC Aliwaki
+| "I washed Aliwaki with water." (''or'' "The water was washed Aliwaki with by me.")}}
+
+=====Seediq=====
+The two dialects of [[Seediq language|Seediq]] presented below each have a different number of voices. The direct case morpheme, which marks the subject in both dialects, is ''ka''.
+
+======Tgdaya======
+Tgdaya<ref>Taken from Kuo (2015)'s examples in (2.1) on page 14. Glosses and translations modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice and ''Instrument Voice.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| S‹{{font color|#FF0000|em}}›ebuc ricah '''<u>ka</u>''' '''<u>Pawan</u>'''.
+| ‹AV›hit plum DIR Pawan
+| "Pawan is hitting plums."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| Sebet-{{font color|#FF0000|un}} na Pawan '''<u>ka</u>''' '''<u>ricah</u>'''.
+| hit-PV ERG Pawan DIR plum
+| "Pawan is hitting the plum." (''or'' "The plum is being hit by Pawan.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| Sebet-{{font color|#FF0000|an}} na Pawan ricah '''<u>ka</u>''' '''<u>peepah</u>'''.
+| hit-LV ERG Pawan plum DIR farm.field
+| "Pawan is hitting plums in the farm field." (''or'' "The farm field is being hit plums in by Pawan.")}}
+
+{{interlinear|glossing=no abbr|number=(4)
+|top= Instrument Voice
+| {{font color|#FF0000|Se}}-sebuc na Pawan ricah '''<u>ka</u>''' '''<u>butakan</u>'''.
+| IV-hit ERG Pawan plum DIR stick
+| "Pawan is hitting plums with the stick." (''or'' "The stick is being hit plums with by Pawan.")}}
+
+======Truku======
+Truku<ref>Taken from Tsukida (2012)'s examples in (3). Glosses and translations modified for the Wikipedia article.</ref> has three voices: ''Actor Voice'', ''Goal Voice'', and ''Circumstantial Voice''.
+
+The goal voice suffix selects for patient and location subjects. The circumstantial voice prefix selects for benefactee and instrument subjects.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| K‹{{font color|#FF0000|em}}›erut babuy '''<u>ka</u>''' '''<u>Masaw</u>'''.
+| ‹AV›cut pig DIR Masaw
+| "Masaw slaughters a/the pig."}}
+
+{{interlinear|glossing=no abbr|number=(2) a.
+|top= Goal Voice (with patient subject)
+| Keret-{{font color|#FF0000|an}} Masaw '''<u>ka</u>''' '''<u>babuy</u>'''.
+| cut-GV Masaw DIR pig
+| "Masaw slaughters the pig." (''or'' "The pig is slaughtered by Masaw.")}}
+
+{{interlinear|glossing=no abbr|number=b.
+|top= Goal Voice (with location subject)
+| Keret-{{font color|#FF0000|an}} laqi sagas '''<u>ka</u>''' '''<u>keti’inuh</u>''' '''<u>ni’i</u>'''.
+| cut-GV child watermelon DIR board this
+| "The child cuts watermelon on this board." (''or'' "This board is cut watermelon on by the child.")}}
+
+{{interlinear|glossing=no abbr|number=(3) a.
+|top= Circumstantial Voice (with benefactee subject)
+| {{font color|#FF0000|Se}}-kerut babuy Masaw '''<u>ka</u>''' '''<u>baki</u>'''.
+| CV-cut pig Masaw DIR old.man
+| "Masaw slaughters a/the pig for the old man." (''or'' "The old man is slaughtered a/the pig for by Masaw.")}}
+
+{{interlinear|glossing=no abbr|number=b.
+|top= Circumstantial Voice (with instrument subject)
+| {{font color|#FF0000|Se}}-kerut babuy Masaw '''<u>ka</u>''' '''<u>puting</u>'''.
+| CV-cut pig Masaw DIR knife
+| "Masaw slaughters a/the pig with the knife." (''or'' "The knife is slaughtered a/the pig with by Masaw.")}}
+
+=====Tsou=====
+[[Tsou_language|Tsou]]<ref>Taken from Huang and Huang (2007)'s examples in III in the Appendix, pages 449-450. Glosses and translations modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Benefactive Voice. In addition to the voice morphology on the main verb, auxiliary verbs in Tsou, which are obligatory in the sentence,<ref>Zeitoun (2005), page 266</ref> are also marked for voice. However, auxiliaries only differentiate between ''Actor Voice and ''non-Actor Voice<ref>Zeitoun (2005), page 267 ("actor voice" and "undergoer voice", respectively, in her terminology).</ref> (in {{font color|#00AA00|green text}}).
+
+The direct case morpheme, which marks subjects in Tsou, is ''’o''.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| {{font color|#00AA00|Mi}}-'''<u>’o</u>''' {{font color|#FF0000|mo}}-si to peisu ne Nookay.
+| AUX.AV-1SG.DIR AV-put OBL money OBL Nookay
+| "I deposit money in Nookay."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| {{font color|#00AA00|Os}}-’o si-{{font color|#FF0000|a}} to panka '''<u>’o</u>''' '''<u>peisu</u>'''.
+| AUX.NAV-1SG.ERG put-PV OBL table DIR money
+| "I put the money on the/a table." (''or'' "The money was put on the/a table by me.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Locative Voice
+| {{font color|#00AA00|Os}}-’o si-{{font color|#FF0000|i}} to chumu '''<u>’o</u>''' '''<u>kopu</u>'''.
+| AUX.NAV-1SG.ERG put-LV OBL water DIR cup
+| "I put water into the cup." (''or'' "The cup was put water into by me.")}}
+
+{{interlinear|glossing=no abbr|number=(4)
+|top= Benefactive Voice<ref>In their gloss for this example, Huang and Huang (2007, page 450) suggest that the benefactive voice suffix attaches to a stem composed of the verb and the locative voice ("locative voice" in their terminology).</ref>
+| {{font color|#00AA00|Os}}-’o si-i-{{font color|#FF0000|neni}} to ocha '''<u>’o</u>''' '''<u>Pasuya</u>'''.
+| AUX.NAV-1SG.ERG put-LV-BV OBL tea DIR Pasuya
+| "I served tea for Pasuya." (''or'' "Pasuya was served tea for by me.")}}
+
+====Batanic====
+The data below come from the [[Batanic languages]], a subgroup under [[Malayo-Polynesian_languages|Malayo-Polynesian]]. These languages are spoken on the islands found in the [[Luzon Strait]], between [[Taiwan]] and the [[Philippines]].
+
+=====Ivatan=====
+[[Ivatan_language|Ivatan]]<ref>Taken from Reid (1966)'s examples on pages 26 and 27. Glosses and translation modified for the Wikipedia article.</ref><ref>The orthography used for the data here reflects the transcription system used by Reid (1966). It seems that, from the Wikipedia article on Ivatan, this may not be the actual spelling system that the speakers of this language use. The sound represented by ‹q› is /ʔ/.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Circumstantial Voice.
+
+The circumstantial voice prefix selects for instrument and benefactee subjects.
+
+The direct case morpheme, which marks the subject in Ivatan, is ''qo''.
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (1)
+|top= Actor Voice
+| Mangamoqmo '''<u>qo</u>''' '''<u>tao</u>''' so motdeh no boday do vahay.
+| {{font color|#FF0000"|m}}-pang-qamoqmo {} {} {} {} {} {} {} {}
+| AV-¿?-frighten DIR man ACC child IND snake OBL house
+| "The man is frightening a child with a snake in the house."}}
+
+{{interlinear|glossing=no abbr|number= (2)
+|top= Patient Voice
+| Qamoqmo-{{font color|#FF0000"|hen}} no tao '''<u>qo</u>''' '''<u>motdeh</u>''' no boday do vahay.
+| frighten-PV IND man DIR child IND snake OBL house
+| "The man is frightening a child with a snake in the house." (''or'' "A child is being frightened with a snake in the house by the man.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (3)
+|top= Locative Voice<ref>Reid (1966; pp 25-27) presents an alternative form for the verb in locative voice. Instead of appearing with the 'pang-' prefix, a verb of this class in locative voice form may appear with just the '-an' suffix. For this example, instead of 'pangamoqmoan', the verb would be 'qamoqmoan'. Reid indicates that the distinction between these two forms is that the patient of the action must be explicit for the form appearing without the 'pang-' prefix.</ref>
+| Pangamoqmoan no tao so motdeh no boday '''<u>qo</u>''' '''<u>vahay</u>'''.
+| pang-qamoqmo-{{font color|#FF0000"|an}} {} {} {} {} {} {} {} {}
+| ¿?-frighten-LV IND man ACC child IND snake DIR house
+| "The man is frightening a child with a snake in the house." (''or'' "The house is being frightened a child in with a snake by the man.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (4) a.
+|top= Circumstantial Voice (with instrument subject)<ref>Reid (1966; pp 25-27) presents an alternative form for the verb in circumstantial voice, when it selects for instrument subjects. Instead of appearing with the 'pang-' prefix, a verb of this class in circumstantial voice form may appear with just the 'qi-' prefix. For this example, instead of 'qipangamoqmo', the verb would be 'qimoqmo'. Reid indicates that the distinction between these two forms is that the patient of the action must be explicit for the form appearing without the 'pang-' prefix.</ref>
+| Qipangamoqmo no tao so motdeh '''<u>qo</u>''' '''<u>boday</u>''' do vahay.
+| {{font color|#FF0000"|qi}}-pang-qamoqmo {} {} {} {} {} {} {} {}
+| CV-¿?-frighten IND man ACC child DIR snake OBL house
+| "The man is frightening a child with a snake in the house." (''or'' "The snake is being frightened a child with in the house by the man.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= {{font color|#FFFFFF"|(4)}} b.
+|top= Circumstantial Voice (with benefactee subject)<ref>Reid (1966; pp 25-27) does not present any alternative form for verbs of this class in circumstantial voice, when they select for benefactee subjects.</ref>
+| Qipangamoqmo no tao so motdeh no boday do vahay '''<u>qo</u>''' '''<u>kayvan-a</u>'''.
+| {{font color|#FF0000"|qi}}-pang-qamoqmo {} {} {} {} {} {} {} {} {} {}
+| CV-¿?-frighten IND man ACC child IND snake OBL house DIR friend-3SG.GEN
+| "The man is frightening a child with a snake in the house for his friend." (''or'' "His<sub>i</sub> friend is being frightened a child for with a snake in the house by the man<sub>i</sub>.")}}
+
+=====Yami=====
+[[Yami_language|Yami]]<ref>Taken from Huang (2014)'s examples in (3a-d) on page 251. Glosses and translations modified for the Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Locative Voice, and ''Instrument Voice.
+
+The direct case morpheme, which marks subjects in Yami, is ''si'' for proper names, and ''o'' for common nouns.
+
+{{interlinear|glossing=no abbr|number= (1)
+|top= Actor Voice
+| K‹{{font color|#FF0000"|om}}›an so wakay '''<u>si</u>''' '''<u>Salang</u>'''.
+| ‹AV›eat OBL {sweet potato} DIR Salang
+| "Salang ate a sweet potato."}}
+
+{{interlinear|glossing=no abbr|number= (2)
+|top= Patient Voice
+| Kan-{{font color|#FF0000"|en}} na ni Salang '''<u>o</u>''' '''<u>wakay</u>'''.
+| eat-PV 3SG.ERG ERG Salang DIR {sweet potato}
+| "Salang ate the sweet potato." (''or'' "The sweet potato was eaten by Salang.")}}
+
+{{interlinear|glossing=no abbr|number= (3)
+|top= Locative Voice
+| Ni-akan-{{font color|#FF0000"|an}} na '''<u>o</u>''' '''<u>mogis</u>''' '''<u>ori</u>''' ni Salang.
+| ASP-eat-LV 3SG.ERG DIR rice that ERG Salang
+| "Salang ate from some of that rice." (''or'' "Some of that rice was eaten from by Salang.")}}
+
+{{interlinear|glossing=no abbr|number= (4)
+|top= Instrument Voice
+| {{font color|#FF0000"|I}}-akan na ni Salang '''<u>o</u>''' '''<u>among</u>''' '''<u>ya</u>'''.
+| IV-eat 3SG.ERG ERG Salang DIR fish this
+| "Salang ate (a meal) with this fish." (''or'' "This fish was eaten (a meal) with by Salang.")}}
+
+====Philippine====
+The data below come from [[Philippine languages]], a subgroup under [[Malayo-Polynesian_languages|Malayo-Polynesian]], predominantly spoken across the [[Philippines]], with some found on the island of [[Sulawesi]] in [[Indonesia]].
+
+=====Blaan=====
+[[Blaan_language|Blaan]]<ref>Taken from Abrams (1970)'s examples on page 2.  Glosses and translations modified for the Wikipedia article.</ref><ref>Abrams (1970, pages 1-2) indicates that Blaan verbs are classified into three types of ''prefocus bases'', each of which has an inherent voice without bearing any voice [[affix|affixes]].  An ''agent'' prefocus base is a bare verb that is inherently in Actor Voice voice.  A ''patient'' prefocus base is inherently in patient voice, and an ''instrument'' prefocus base is inherently in instrument voice.</ref><ref>Blaan has two morphemes which, when attached to a prefocus base, change the inherent voice of the base.  These morphemes are the Actor Voice affix, ''m-''/''-am-'', and the non-Actor Voice affix, ''n-''/''-an-''  ("subject focus" and "non-subject focus" in Abrams (1970, page 1)'s terminology, respectively).</ref> has four voices: ''Actor Voice'', ''Patient Voice'', ''Instrument Voice'', and ''Non-Actor Voice''.
+
+The non-Actor Voice affix selects for patient and location subjects, depending on the inherent voice of the verb.
+
+{|
+| colspan=14 | <u>Agent Prefocus Base</u><ref>Abrams (1970, page 2) has not found many examples of an agent prefocus base taking either of the voice-changing morphemes.  However, in that rare example in which an agent prefocus base does, both voice-changing morphemes transitivize the intransitive agent prefocus base.  In addition, the Actor Voice affix keeps the base in Actor Voice voice, while the non-Actor Voice affix changes the voice of the base to non-Actor Voice voice, and allows for the selection of a patient subject.</ref> || colspan=14 | <u>Patient Prefocus Base</u><ref>Without any voice-changing morphemes, patient prefocus bases take patient subjects.  The Actor Voice affix changes the voice of the base to Actor Voice voice, allowing the verb to take an agent subject.  The non-Actor Voice affix allows a patient prefocus base to take location subjects.</ref> || colspan=8 | <u>Instrument Prefocus Base</u><ref>The Actor Voice affix changes the inherent instrument voice of the base to Actor Voice voice, whereas the non-Actor Voice affix changes the voice to non-Actor Voice voice, and allows for the selection of a patient subject.</ref>
+|-
+| (1) || colspan=13 | ''Actor Voice'' (intransitive) || (1) || colspan=13 | ''Actor Voice'' || (1) || colspan=7 | ''Actor Voice''
+|-
+| || Stifun || &nbsp; || '''''<u>ale</u>'''''. || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || <span style="color:#FF0000">M</span>-bat || &nbsp; || '''''<u>agu</u>'''''|| &nbsp; || bula. || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || K‹<span style="color:#FF0000">am</span>›lang || '''''<u>agu</u>''''' || kayu.
+|- 
+| || assemble || || {{sc|3pl.dir}} || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || {{sc|av}}-throw || || {{sc|1sg.dir}} || || ball || || || || || || || || || || ‹{{sc|av}}›cut || {{sc|1sg.dir}} || tree
+|-
+| || colspan=13 | "They assemble." || || colspan=13 | "I throw the ball." || || colspan=7 | "I cut the tree."
+|-
+| (2) || colspan=13 | ''Actor Voice'' (transitive) || (2) || colspan=13 | ''Patient Voice'' (with patient subject) || (2) || colspan=7 | ''Non-Actor Voice'' (with patient subject)
+|-
+| || S‹<span style="color:#FF0000">am</span>›tifun || &nbsp; || '''''<u>ale</u>''''' || &nbsp; || dad || &nbsp; || to. || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || colspan=3 | Bat=gu || &nbsp; || '''''<u>bula</u>'''''. || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || K‹<span style="color:#FF0000">an</span>›lang=gu || '''''<u>kayu</u>'''''.
+|- 
+| || ‹{{sc|av}}›assemble || || {{sc|3pl.dir}} || || {{sc|pl}} || || person || || || || || || || || colspan=3 | throw={{sc|1sg.erg}} || || ball || || || || || || || || || || ‹{{sc|nav}}›cut={{sc|1sg.erg}} || tree
+|-
+| || colspan=13 | "They assemble the people." || || colspan=13 | "I throw the ball" || || colspan=7 | "I cut the tree."
+|-
+| || colspan=13 | <span style="color:#FFFFFF">"They assemble the people"</span> || || colspan=13 | (''or'' "The ball is thrown by me.") || || colspan=7 | (''or'' "The tree is cut by me.")
+|-
+| (3) || colspan=13 | ''Non-Actor Voice'' (with patient subject) || (3) || colspan=13 | ''Non-Actor Voice'' (with location subject) || (3) || colspan=7 | ''Instrument Voice''
+|-
+| || colspan=3 | S‹<span style="color:#FF0000">an</span>›tifun=la || || '''''<u>dad</u>''''' || || '''''<u>to</u>'''''. || || || || || || || || colspan=3 | <span style="color:#FF0000">N</span>-bat=gu || &nbsp; || bula || &nbsp; || '''''<u>diding</u>'''''. || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || &nbsp; || Klang=gu || kayu || '''''<u>falakol</u>'''''.
+|- 
+| || colspan=3 | ‹{{sc|nav}}›assemble={{sc|3pl.erg}} || || {{sc|pl}} || || person || || || || || || || || colspan=3 | {{sc|nav}}-throw={{sc|1sg.erg}} || || ball || || wall || || || || || || || || cut={{sc|1sg.erg}} || tree || hatchet
+|-
+| || colspan=13 | "They assemble the people." || || colspan=13 | "I throw the ball at the wall." || || colspan=7 | "I cut the tree with the hatchet."
+|-
+| || colspan=13 | (''or'' "The people are assembled by them.") || || colspan=13 | (''or'' "The wall is thrown the ball at by me.") || || colspan=7 | (''or'' "The hatchet is cut the tree with by me.")
+|}
+
+=====Cebuano=====
+[[Cebuano_language|Cebuano]]<ref>Taken from Bell (1976)'s examples on pages 8, 9, and 11.  Glosses and translations modified for the Wikipedia article.</ref> has four voices:  ''Actor Voice'', ''Patient Voice'', ''Circumstantial Voice'', and ''Instrument Voice''.
+
+The circumstantial voice suffix selects for location, benefactee and goal subjects.
+
+The direct case morpheme, which marks the subject in Cebuano, is ''ang'' or ''si''.
+
+{|
+| (1) || colspan=15 | ''Actor Voice''
+|-
+| || <span style="color:#FF0000">Mo</span>-luto’ || &nbsp; || '''''<u>si</u>''''' || &nbsp; || '''''<u>Maria</u>''''' || &nbsp; || ug || &nbsp; || kalamay || &nbsp; || para || &nbsp; || kang || &nbsp; || Pedro.
+|-
+| || {{sc|av}}-cook || || {{sc|dir}} || || Maria || || {{sc|acc}} || || type.of.dessert || || for || || {{sc|obl}} || || Pedro
+|-
+| || colspan=15 | "Maria will cook ''kalamay'' for Pedro."
+|}
+
+{|
+| (2) || colspan=13 | ''Patient Voice''
+|-
+| || Luto’-<span style="color:#FF0000">on</span> || &nbsp; || sa || &nbsp; || babaye || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>bugas</u>''''' || &nbsp; || sa || &nbsp; || lata.
+|-
+| || cook-{{sc|pv}} || || {{sc|erg}} || || woman || || {{sc|dir}} || || rice || || {{sc|obl}} || || can
+|-
+| || colspan=13 | "The woman will cook the rice in the can."
+|-
+| || colspan=13 | (''or'' "The rice will be cooked by the woman in the can.")
+|}
+
+{|
+| (3) || a. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with location subject)
+|-
+| || || || Luto’-<span style="color:#FF0000">an</span> || &nbsp; || sa || &nbsp; || babaye || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>lata</u>''''' || &nbsp; || ug || &nbsp; || bugas.
+|-
+| || || || cook-{{sc|cv}} || || {{sc|erg}} || || woman || || {{sc|dir}} || || can || || {{sc|acc}} || || rice
+|-
+| || || || colspan=13 | "The woman will cook rice in the can."
+|-
+| || || || colspan=13 | (''or'' "The can will be cooked rice in by the woman.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(3)</span> || b. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with benefactee subject)
+|-
+| || || || Luto’-<span style="color:#FF0000">an</span> || &nbsp; || ni || &nbsp; || Maria || &nbsp; || '''''<u>si</u>''''' || &nbsp; || '''''<u>Pedro</u>''''' || &nbsp; || ug || &nbsp; || kalamay.
+|-
+| || || || cook-{{sc|cv}} || || {{sc|erg}} || || Maria || || {{sc|dir}} || || Pedro || || {{sc|acc}} || || type.of.dessert
+|-
+| || || || colspan=13 | "Maria will cook Pedro ''kalamay''."
+|-
+| || || || colspan=13 | (''or'' "Pedro will be cooked ''kalamay'' for by Maria.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(3)</span> || c. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with goal subject)
+|-
+| || || || Sulat-<span style="color:#FF0000">an</span> || &nbsp; || ni || &nbsp; || Inday || &nbsp; || '''''<u>si</u>''''' || &nbsp; || '''''<u>Perla</u>''''' || &nbsp; || ug || &nbsp; || sulat.
+|-
+| || || || write-{{sc|cv}} || || {{sc|erg}} || || Inday || || {{sc|dir}} || || Perla || || {{sc|acc}} || || letter
+|-
+| || || || colspan=13 | "Inday will write Perla a letter."
+|-
+| || || || colspan=13 | (''or'' "Perla will be written a letter to by Inday.")
+|}
+
+{|
+| (4) || colspan=13 | ''Instrument Voice''
+|-
+| || <span style="color:#FF0000">I</span>-sulat || &nbsp; || ni || &nbsp; || Linda || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>lapis</u>''''' || &nbsp; || ug || &nbsp; || sulat.
+|-
+| || {{sc|iv}}-write || || {{sc|erg}} || || Linda || || {{sc|dir}} || || pencil || || {{sc|acc}} || || letter
+|-
+| || colspan=13 | "Linda will write a letter with the pencil."
+|-
+| || colspan=13 | (''or'' "The pencil will be written a letter with by Linda.")
+|}
+
+=====Kalagan=====
+[[Kalagan_language|Kalagan]]<ref>Taken from Travis (2010)'s examples in (46) on page 42.  Glosses and translations modified for the Wikipedia article.</ref> has four voices:  ''Actor Voice'', ''Patient Voice'', ''Instrument Voice'', and ''Circumstantial Voice''.
+
+The circumstantial voice suffix selects for benefactee and location subjects.
+
+The direct case morpheme, which marks the subject in Kalagan, is ''ya''.  The direct case form of the first person, singular pronoun is ''aku'', whereas the ergative case form is ''ku''.
+
+{|
+| (1) || colspan=23 | ''Actor Voice''
+|-
+| || K‹<span style="color:#FF0000">um</span>›amang || &nbsp; || '''''<u>aku</u>''''' || &nbsp; || sa || &nbsp; || tubig || &nbsp; || na || &nbsp; || lata || &nbsp; || kan || &nbsp; || Ma’ || &nbsp; || adti || &nbsp; || balkon || &nbsp; || na || &nbsp; || lunis.
+|-
+| || ‹{{sc|av}}›get || || {{sc|1sg.dir}} || || {{sc|obl}} || || water || || {{sc|prep}} || || can || || for || || Dad || || on || || porch || || {{sc|prep}} || || Monday
+|-
+| || colspan=23 | "I will get the water with the can for Dad on the porch on Monday."
+|}
+
+{|
+| (2) || colspan=23 | ''Patient Voice''
+|-
+| || Kamang-<span style="color:#FF0000">in</span> || &nbsp; || ku || &nbsp; || '''''<u>ya</u>''''' || &nbsp; || '''''<u>tubig</u>''''' || &nbsp; || na || &nbsp; || lata || &nbsp; || kan || &nbsp; || Ma’ || &nbsp; || adti || &nbsp; || balkon || &nbsp; || na || &nbsp; || lunis.
+|-
+| || get-{{sc|pv}} || || {{sc|1sg.erg}} || || {{sc|dir}} || || water || || {{sc|prep}} || || can || || for || || Dad || || on || || porch || || {{sc|prep}} || || Monday
+|-
+| || colspan=23 | "I will get the water with the can for Dad on the porch on Monday."
+|-
+| || colspan=23 | (''or'' "The water will be gotten by me with the can for Dad on the porch on Monday.")
+|}
+
+{|
+| (3) || colspan=23 | ''Instrument Voice''
+|-
+| || <span style="color:#FF0000">Pag</span>-kamang || &nbsp; || ku || &nbsp; || '''''<u>ya</u>''''' || &nbsp; || '''''<u>lata</u>''''' || &nbsp; || sa || &nbsp; || tubig || &nbsp; || kan || &nbsp; || Ma’ || &nbsp; || adti || &nbsp; || balkon || &nbsp; || na || &nbsp; || lunis.
+|-
+| || {{sc|iv}}-get || || {{sc|1sg.erg}} || || {{sc|dir}} || || can || || {{sc|obl}} || || water || || for || || Dad || || on || || porch || || {{sc|prep}} || || Monday
+|-
+| || colspan=23 | "I will get the water with the can for Dad on the porch on Monday."
+|-
+| || colspan=23 | (''or'' "The can will be gotten the water with by me for Dad on the porch on Monday.")
+|}
+
+{|
+| (4) || a. || &nbsp; || colspan=23 | ''Circumstantial Voice'' (with benefactee subject)
+|-
+| || || || Kamang-<span style="color:#FF0000">an</span> || &nbsp; || ku || &nbsp; || '''''<u>ya</u>''''' || &nbsp; || '''''<u>Ma’</u>''''' || &nbsp; || sa || &nbsp; || tubig || &nbsp; || na || &nbsp; || lata || &nbsp; || adti || &nbsp; || balkon || &nbsp; || na || &nbsp; || lunis.
+|-
+| || || || get-{{sc|cv}} || || {{sc|1sg.erg}} || || {{sc|dir}} || || Dad || || {{sc|obl}} || || water || || {{sc|prep}} || || can || || on || || porch || || {{sc|prep}} || || Monday
+|-
+| || || || colspan=23 | "I will get the water with the can for Dad on the porch on Monday."
+|-
+| || || || colspan=23 | (''or'' "Dad will be gotten the water for by me with the can on the porch on Monday.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(4)</span> || b. || &nbsp; || colspan=23 | ''Circumstantial Voice'' (with location subject)
+|-
+| || || || Kamang-<span style="color:#FF0000">an</span> || &nbsp; || ku || &nbsp; || '''''<u>ya</u>''''' || &nbsp; || '''''<u>balkon</u>''''' || &nbsp; || sa || &nbsp; || tubig || &nbsp; || na || &nbsp; || lata || &nbsp; || kan || &nbsp; || Ma’ || &nbsp; || na || &nbsp; || lunis.
+|-
+| || || || get-{{sc|cv}} || || {{sc|1sg.erg}} || || {{sc|dir}} || || porch || || {{sc|obl}} || || water || || {{sc|prep}} || || can || || for || || Dad || || {{sc|prep}} || || Monday
+|-
+| || || || colspan=23 | "I will get the water with the can for Dad on the porch on Monday."
+|-
+| || || || colspan=23 | (''or'' "The porch will be gotten the water from by me with the can for Dad on Monday.")
+|}
+
+=====Kapampangan=====
+[[Kapampangan_language|Kapampangan]]<ref>Taken from Mirikitani (1972)'s examples in (64), (95), (96), (100), (101) and (106). Glosses and translations modified for the Wikipedia article.</ref> has five voices:  ''Actor Voice'', ''Patient Voice'', ''Goal Voice'', ''Locative Voice'', and ''Cirumstantial Voice''.
+
+The circumstantial voice prefix selects for instrument and benefactee subjects.
+
+The direct case morpheme in Kapampangan is ''ing'', which marks singular subjects, and ''reng'', which is for plural subjects.  Non-subject agents are marked with ergative case, ''ning'', while non-subject patients are marked with accusative case, ''-ng'', which is [[Clitic|cliticized]] onto the preceding word.<ref>In the examples, the word to which the accusative case marker attaches is a pronoun or [[portmanteau]] pronoun that is obligatorily present in the same clause as the noun with which it is [[Coreference|co-referential]].  In sentences with an Actor Voice, the pronoun co-refers with the agent subject.  In sentences with a non-Actor Voice, the portmanteau pronoun co-refers with both the ergative agent and the non-agent subject, which is marked with direct case.</ref>
+
+{|
+| (1) || colspan=17 | ''Actor Voice''
+|-
+| || S‹<span style="color:#FF0000">um</span>›ulat || &nbsp; || yang || &nbsp; || poesia || &nbsp; || '''''<u>ing</u>''''' || &nbsp; || '''''<u>lalaki</u>''''' || &nbsp; || king || &nbsp; || pen || &nbsp; || king || &nbsp; || papil.
+|-
+| || || || '''''<u>ya</u>'''''=ng
+|-
+| || ‹{{sc|av}}›will.write || || {{sc|3sg.dir}}={{sc|acc}} || || poem || || {{sc|dir}} || || boy || || {{sc|obl}} || || pen || || {{sc|obl}} || || paper
+|-
+| || colspan=17 | "The boy will write a poem with a pen on the paper."
+|}
+
+{|
+| (2) || colspan=15 | ''Patient Voice''
+|-
+| || <span style="color:#FF0000">I</span>-sulat || &nbsp; || ne || &nbsp; || ning || &nbsp; || lalaki || &nbsp; || '''''<u>ing</u>''''' || &nbsp; || '''''<u>poesia</u>''''' || &nbsp; || king || &nbsp; || mestra.
+|-
+| || || || na+'''''<u>ya</u>''''' 
+|- 
+| || {{sc|pv}}-will.write || ||{{sc|3sg.erg+3sg.dir}} || || {{sc|erg}} || || boy || || {{sc|dir}} || || poem || || {{sc|obl}} || || teacher.{{sc|f}}
+|-
+| || colspan=15 | "The boy will write the poem to the teacher."
+|-
+| || colspan=15 | (''or'' "The poem will be written by boy to the teacher.")
+|}
+
+{|
+| (3) || colspan=11 | ''Goal Voice''
+|-
+| || Sulat-<span style="color:#FF0000">anan</span> || &nbsp; || ne || &nbsp; || ning || &nbsp; || lalaki || &nbsp; || '''''<u>ing</u>''''' || &nbsp; || '''''<u>mestro</u>'''''.
+|-
+| || || || na+'''''<u>ya</u>'''''
+|-
+| || will.write-{{sc|gv}} || || {{sc|3sg.erg+3sg.dir}} || || {{sc|erg}} || || boy || || {{sc|dir}} || || teacher.{{sc|m}}
+|-
+| || colspan=11 | "The boy will write to the teacher."
+|-
+| || colspan=11 | (''or'' "The teacher will be written to by the boy.")
+|}
+
+{| 
+|(4) || colspan=13 | ''Locative Voice''
+|-
+| || <span style="color:#FF0000">Pi</span>-sulat-<span style="color:#FF0000">an</span> || &nbsp; || neng || &nbsp; || poesia || &nbsp; || ning || &nbsp; || lalaki || &nbsp; || '''''<u>ing</u>''''' || &nbsp; || '''''<u>blackboard</u>'''''.
+|-
+| || || || na+'''''<u>ya</u>'''''=ng
+|-
+| || {{sc|lv}}-will.write-{{sc|lv}} || || {{sc|3sg.erg+3sg.dir}}={{sc|acc}} || || poem || || {{sc|erg}} || || boy || || {{sc|dir}} || || blackboard
+|-
+| || colspan=13 | "The boy will write a poem on the blackboard."
+|-
+| || colspan=13 | (''or'' "The blackboard will be written a poem on by the boy.")
+|}
+
+{|
+| (5) || a. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with instrument subject)
+|-
+| || || || Panyulat || &nbsp; || neng || &nbsp; || poesia || &nbsp; || ning || &nbsp; || lalaki || &nbsp; || '''''<u>ing</u>''''' || &nbsp; || '''''<u>pen</u>'''''.
+|-
+| || || || <span style="color:#FF0000">paN</span>-sulat || || na+'''''<u>ya</u>'''''=ng
+|-
+| || || || {{sc|cv}}-will.write || || {{sc|3sg.erg+3sg.dir}}={{sc|acc}} || || poem || || {{sc|erg}} || || boy || || {{sc|dir}} || || pen
+|-
+| || || || colspan=13 | "The boy will write a poem with the pen."
+|-
+| || || || colspan=13 | (''or'' "The pen will be written a poem with by the boy.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(5)</span> || b. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with benefactee subject)
+|-
+| || || || Pamasa || &nbsp; || nong || &nbsp; || libru || &nbsp; || ning || &nbsp; || babai || &nbsp; || '''''<u>reng</u>''''' || &nbsp; || '''''<u>anak</u>'''''.
+|-
+| || || || <span style="color:#FF0000">paN</span>-basa || || na+'''''<u>la</u>'''''=ng
+|-
+| || || || {{sc|cv}}-will.read || || {{sc|3sg.erg+3pl.dir}}={{sc|acc}} || || book || || {{sc|erg}} || || woman || || {{sc|pl.dir}} || || child
+|-
+| || || || colspan=13 | "The woman will read a book for the children."
+|-
+| || || || colspan=13 | (''or'' "The children will be read a book for by the woman.")
+|}
+
+=====Limos Kalinga=====
+Limos [[Kalinga_language|Kalinga]]<ref>Taken from Ferreirinho (1993)'s examples in (100), (245), (246), (247) and (248).  Glosses and translations modified for the Wikipedia article.</ref> has five voices:  ''Actor Voice'', ''Patient Voice'', ''Locative Voice'', ''Benefactive Voice'' and ''Instrument Voice''.
+
+Except for when the subject is the agent, the subject is found directly after the agent in the clause.
+
+{|
+| (1) || colspan=13 | ''Actor Voice''
+|-
+| || Nandalus || &nbsp; || '''''<u>si</u>''''' || &nbsp; || '''''<u>Malia</u>'''''=t || &nbsp; || danat || &nbsp; || palatu.
+|-
+| || n-<span style="color:#FF0000">man</span>-dalus
+|-
+| || {{sc|asp}}-{{sc|av}}-wash || || {{sc|dir}} || || Malia={{sc|obl}} || || {{sc|pl}} || || plate
+|-
+| || colspan=13 | "Malia washed some plates."
+|}
+
+{|
+| (2) || colspan=5 | ''Patient Voice''<ref>The patient voice suffix surfaces either as ''-on'' or as ''-∅''.  The choice of [[allomorph]] depends on whether or not the verb is marked with the ''-in-'' aspectual infix.  When the aspectual infix is present, the ''-∅'' allomorph surfaces.</ref>
+|-
+| || Binayum || &nbsp; || '''''<u>din</u>''''' || &nbsp; || '''''<u>pagoy</u>'''''.
+|-
+| || b‹in›ayu-<span style="color:#FF0000">∅</span>=m
+|-
+| || ‹{{sc|asp}}›pound-{{sc|pv}}={{sc|2sg.erg}} || || {{sc|dir}} || || rice
+|-
+| || colspan=5 | "You pounded the rice."
+|-
+| || colspan=5 | (''or'' "The rice was pounded by you.")
+|}
+
+{|
+| (3) || colspan=9 | ''Locative Voice''
+|-
+| || D‹in›alus-<span style="color:#FF0000">an</span> || &nbsp; || ud || &nbsp; || Malia || &nbsp; || '''''<u>danat</u>''''' || &nbsp; || '''''<u>palatu</u>'''''.
+|-
+| || ‹{{sc|asp}}›wash-{{sc|lv}} || || {{sc|erg}} || || Malia || || {{sc|dir.pl}} || || plate
+|-
+| || colspan=9 | "Malia washed the plates."
+|-
+| || colspan=9 | (''or'' "The plates were washed by Malia.")
+|}
+
+{|
+| (4) || colspan=13 | ''Benefactive Voice''
+|-
+| || <span style="color:#FF0000">I</span>-n-dalus-<span style="color:#FF0000">an</span> || &nbsp; || ud || &nbsp; || Malia || &nbsp; || '''''<u>si</u>''''' || &nbsp; || '''''<u>ina=na</u>'''''=t || &nbsp; || nat || &nbsp; || palatu.
+|-
+| || {{sc|bv}}-{{sc|asp}}-wash-{{sc|bv}} || || {{sc|erg}} || || Malia || || {{sc|dir}} || || mother={{sc|3sg.gen}}={{sc|obl}} || || {{sc|sg}} || || plate
+|-
+| || colspan=13 | "Malia washed a plate for her mother."
+|-
+| || colspan=13 | (''or'' "Her<sub>i</sub> mother was washed a plate for by Malia<sub>i</sub>.")
+|}
+
+{|
+| (5) || colspan=13 | ''Instrument Voice''
+|-
+| || <span style="color:#FF0000">I</span>-n-dalus || &nbsp; || ud || &nbsp; || Malia || &nbsp; || '''''<u>nat</u>''''' || &nbsp; || '''''<u>sabun</u>''''' || &nbsp; || sinat || &nbsp; || palatu.
+|-
+| || {{sc|iv}}-{{sc|asp}}-wash || || {{sc|erg}} || || Malia || || {{sc|dir}} || || soap || || {{sc|obl.sg}} || || plate
+|-
+| || colspan=13 | "Malia washed a plate with the soap."
+|-
+| || colspan=13 | (''or'' "The soap was washed a plate with by Malia.")
+|}
+
+=====Maranao=====
+[[Maranao_language|Maranao]]<ref>Taken from McKaughan (1962)'s examples on pages 48 and 50, and from McKaughan (1970)'s example in (4).  Glosses and translations modified for the Wikipedia article.</ref> has four voices:  ''Actor Voice'', ''Patient Voice'', ''Circumstantial Voice'', and ''Instrument Voice''.
+
+The circumstantial suffix selects for benefactee and location subjects.
+
+The direct case morpheme, which marks the subject in Maranao, is ''so''.
+
+{|
+| (1) || colspan=13 | ''Actor Voice''
+|-
+| || S‹<span style="color:#FF0000">om</span>›ombali’ || &nbsp; || '''''<u>so</u>''''' || &nbsp; || '''''<u>mama’</u>''''' || &nbsp; || sa || &nbsp; || karabao || &nbsp; || ko || &nbsp; || maior.
+|-
+| || ‹{{sc|av}}›butcher || || {{sc|dir}} || || man || || {{sc|obl}} || || water.buffalo || || {{sc|prep}} || || mayor
+|-
+| || colspan=13 | "The man will butcher water buffalo for the mayor."
+|}
+
+{|
+| (2) || colspan=9 | ''Patient Voice''
+|-
+| || Sombali’-<span style="color:#FF0000">in</span> || &nbsp; || o || &nbsp; || mama’ || &nbsp; || '''''<u>so</u>''''' || &nbsp; || '''''<u>karabao</u>'''''.
+|-
+| || butcher-{{sc|pv}} || || {{sc|erg}} || || man || || {{sc|dir}} || || water.buffalo
+|-
+| || colspan=9 | "The man will butcher the water buffalo."
+|-
+| || colspan=9 | (''or'' "The water buffalo will be butchered by the man.")
+|}
+
+{|
+| (3) || a. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with benefactee subject)
+|-
+| || || || Sombali’-<span style="color:#FF0000">an</span> || &nbsp; || o || &nbsp; || mama’ || &nbsp; || '''''<u>so</u>''''' || &nbsp; || '''''<u>maior</u>''''' || &nbsp; || sa || &nbsp; || karabao.
+|-
+| || || || butcher-{{sc|cv}} || || {{sc|erg}} || || man || || {{sc|dir}} || || mayor || || {{sc|obl}} || || water.buffalo
+|-
+| || || || colspan=13 | "The man will butcher water buffalo for the mayor."
+|-
+| || || || colspan=13 | (''or'' "The mayor will be butchered water buffalo for by the man.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(3)</span> || b. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with location subject)
+|-
+| || || || Koaq-<span style="color:#FF0000">an</span> || &nbsp; || o || &nbsp; || mama’ || &nbsp; || sa || &nbsp; || bolong || &nbsp; || '''''<u>so</u>''''' || &nbsp; || '''''<u>tinda</u>'''''.
+|-
+| || || || get-{{sc|cv}} || || {{sc|erg}} || || man || || {{sc|obl}} || || medicine || || {{sc|dir}} || || store
+|-
+| || || || colspan=13 | "The man will get the medicine at/from the store."
+|-
+| || || || colspan=13 | (''or'' "The store will be gotten medicine at/from by the man.")
+|}
+
+{|
+| (4) || colspan=13 | ''Instrument Voice''
+|-
+| || <span style="color:#FF0000">I</span>-sombali’ || &nbsp; || o || &nbsp; || mama’ || &nbsp; || '''''<u>so</u>''''' || &nbsp; || '''''<u>gelat</u>''''' || &nbsp; || ko || &nbsp; || karabao.
+|-
+| || butcher-{{sc|iv}} || || {{sc|erg}} || || man || || {{sc|dir}} || || knife || || {{sc|prep}} || || water.buffalo
+|-
+| || colspan=13 | "The man will butcher the water buffalo with the knife."
+|-
+| || colspan=13 | (''or'' "The knife will be butchered the water buffalo with by the man.")
+|}
+
+=====Palawan=====
+[[Palawano_language|Palawan]]<ref>Taken from Tryon (1994)'s examples on pages 35 and 36.  Glosses and translations modified for the Wikipedia article.</ref> has four voices:  ''Actor Voice'', ''Patient Voice'', ''Instrument Voice'', and ''Circumstantial Voice''.
+
+The circumstantial voice suffix selects for benefactee and location subjects.
+
+{|
+| (1) || colspan=17 | ''Actor Voice''
+|-
+| || ‹<span style="color:#FF0000">Mog</span>›lamuʔ || &nbsp; || '''''<u>libun</u>''''' || &nbsp; || '''''<u>in</u>''''' || &nbsp; || ot || &nbsp; || lugow || &nbsp; || kot || &nbsp; || mosakit || &nbsp; || sot || &nbsp; || apuy.
+|-
+| || ‹{{sc|asp.av}}›cook || || woman || || that.{{sc|dir}} || || {{sc|ind}} || || congee || || for || || sick person || || on || || fire
+|-
+| || colspan=17 | "The woman will cook congee on the fire for the sick person."
+|} 
+
+{|
+| (2) || colspan=17 | ''Patient Voice''
+|-
+| || La~lamuʔ-<span style="color:#FF0000">on</span> || &nbsp; || ot || &nbsp; || libun || &nbsp; || '''''<u>lugow</u>''''' || &nbsp; || '''''<u>in</u>''''' || &nbsp; || kot || &nbsp; || mosakit || &nbsp; || sot || &nbsp; || apuy.
+|-
+| || {{sc|asp}}~cook-{{sc|pv}} || || {{sc|ind}} || || woman || || congee || || that.{{sc|dir}} || || for || || sick person || || on || || fire
+|-
+| || colspan=17 | "The woman will cook the congee on the fire for the sick person."
+|-
+| || colspan=17 | (''or'' "The congee will be cooked on the fire for the sick person by the woman.")
+|}
+
+{|
+| (3) || colspan=15 | ''Instrument Voice''
+|-
+| || <span style="color:#FF0000">I</span>-la~lamuʔ || &nbsp; || ot || &nbsp; || libun || &nbsp; || lugow || &nbsp; || kot || &nbsp; || mosakit || &nbsp; || '''''<u>apuy</u>''''' || &nbsp; || '''''<u>in</u>'''''.
+|-
+| || {{sc|iv}}-{{sc|asp}}~cook || || {{sc|ind}} || || woman || || congee || || for || || sick person || || fire || || that.{{sc|dir}}
+|-
+| || colspan=15 | "The woman will cook congee with the fire for the sick person."
+|-
+| || colspan=15 | (''or'' "The fire will be cooked congee with for the sick person by the woman.")
+|}
+
+{|
+| (4) || a. || colspan=17 | ''Circumstantial Voice'' (with benefactee subject)
+|-
+| || || La~lamuʔ-<span style="color:#FF0000">an</span> || &nbsp; || ot || &nbsp; || libun || &nbsp; || ot || &nbsp; || lugow || &nbsp; || sot || &nbsp; || apuy || &nbsp; || '''''<u>mosakit</u>''''' || &nbsp; || '''''<u>in</u>'''''.
+|-
+| || || {{sc|asp}}~cook-{{sc|cv}} || || {{sc|ind}} || || woman || || {{sc|ind}} || || congee || || on || || fire || || sick person || || that.{{sc|dir}}
+|-
+| || || colspan=17| "The woman will cook congee on the fire for the sick person." 
+|-
+| || || colspan=17| (''or'' "The sick person will be cooked congee for on the fire by the woman.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(4)</span> || b. || colspan=27 | ''Circumstantial Voice'' (with location subject)
+|-
+| || || La~lamuʔ-<span style="color:#FF0000">an</span> || &nbsp; || ot || &nbsp; || libun || &nbsp; || ot || &nbsp; || lugow || &nbsp; || kot || &nbsp; || mosakit || &nbsp; || '''''<u>apuy</u>''''' || &nbsp; || '''''<u>in</u>'''''.
+|-
+| || || {{sc|asp}}~cook-{{sc|cv}} || || {{sc|ind}} || || woman || || {{sc|ind}} || || congee || || for || || sick person || || fire || || that.{{sc|dir}}
+|-
+| || || colspan=17| "The woman will cook congee on the fire for the sick person." 
+|-
+| || || colspan=17| (''or'' "The fire will be cooked congee on for the sick person by the woman.")
+|}
+
+=====Subanen=====
+[[Subanen languages|Subanen]]<ref>Taken from Estioca (2020)'s examples on page 123.  Glosses and translations modified for the Wikipedia article.</ref> has three voices:  ''Actor Voice'', ''Patient Voice'', and ''Circumstantial Voice''.  
+
+The examples below are from Western Subanon, and the direct case morpheme in this language is ''og''.
+
+{|
+| (1) || colspan=9 | ''Actor Voice''
+|-
+| || S‹<span style="color:#FF0000">um</span>›aluy || &nbsp; || '''''<u>og</u>''''' || &nbsp; || '''''<u>polopanad</u>''''' || &nbsp; || nog || &nbsp; || kolatas.
+|-
+| || ‹{{sc|asp.av}}›buy || || {{sc|dir}} || || teacher || || {{sc|ind}} || || paper
+|-
+| || colspan=9 | "A teacher will buy some paper."
+|} 
+
+{|
+| (2) || colspan=9 | ''Patient Voice''
+|-
+| || Soluy-<span style="color:#FF0000">on</span> || &nbsp; || nog || &nbsp; || polopanad || &nbsp; || '''''<u>og</u>''''' || &nbsp; || '''''<u>kolatas</u>'''''.
+|-
+| || buy-{{sc|asp.pv}} || || {{sc|ind}} || || teacher || || {{sc|dir}} || || paper
+|-
+| || colspan=9 | "A teacher will buy some paper."
+|-
+| || colspan=9 | (''or'' "Some paper will be bought by a teacher.")
+|} 
+
+{|
+| (3) || colspan=13 | ''Circumstantial Voice''
+|-
+| || Soluy-<span style="color:#FF0000">an</span> || &nbsp; || nog || &nbsp; || polopanad || &nbsp; || '''''<u>og</u>''''' || &nbsp; || '''''<u>bata′</u>''''' || &nbsp; || nog || &nbsp; || kolatas.
+|-
+| || buy-{{sc|asp.cv}} || || {{sc|ind}} || || teacher || || {{sc|dir}} || || child || || {{sc|ind}} || || paper
+|-
+| || colspan=13 | "A teacher will buy some paper for a child."
+|-
+| || colspan=9 | (''or'' "A child will be bought some paper for by a teacher.")
+|}
+
+=====Tagalog=====
+[[Tagalog language|Tagalog]] has six voices:  ''Actor Voice'', ''Patient Voice'', ''Locative Voice'', ''Benefactive Voice'', ''Instrument Voice'', and ''Reason Voice''.
+
+The locative voice suffix selects for location and goal subjects.  (In the examples below, the goal subject and the benefactee subject are the same noun phrase.)
+
+The reason voice prefix can only be affixed to certain roots, the majority of which are for emotion verbs (e.g., ''galit'' "be angry", ''sindak'' "be shocked").  However, verb roots such as ''matay'' "die", ''sakit'' "get sick", and ''iyak'' "cry" may also be marked with the reason voice prefix.
+
+The direct case morpheme, which marks subjects in Tagalog, is ''ang''.  The indirect case morpheme, ''ng'' /naŋ/, which is the conflation of the ergative and accusative cases seen in Proto-Malayo-Polynesian, marks non-subject agents and non-subject patients.
+
+{|
+| (1) || colspan=27 | ''Actor Voice''
+|-
+| || B‹<span style="color:#FF0000">um</span>›ili || &nbsp; || ng || &nbsp; || mangga || &nbsp; || sa || &nbsp; || palengke || &nbsp; || para || &nbsp; || sa || &nbsp; || ale || &nbsp; || sa || &nbsp; || pamamagitan || &nbsp; || ng || &nbsp; || pera || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>mama</u>'''''.
+|-
+| || ‹{{sc|asp.av}}›buy || || {{sc|ind}} || || mango || || {{sc|obl}} || || market || || for || || {{sc|obl}} || || woman || || {{sc|obl}} || || means || || {{sc|ind}} || || money || || {{sc|dir}} || || man
+|-
+| || colspan=27 | "The man bought a mango at the market for the woman by means of money."
+|} 
+
+{|
+| (2) || colspan=27 | ''Patient Voice''<ref>The patient voice suffix surfaces either as ''-in'' or as ''-∅''.  The choice of [[allomorph]] depends on whether or not the verb is marked with the ''-in-'' aspectual infix.  When the aspectual infix is present, the ''-∅'' allomorph surfaces.</ref>
+|-
+| || B‹in›ili-<span style="color:#FF0000">∅</span> || &nbsp; || ng || &nbsp; || mama || &nbsp; || sa || &nbsp; || palengke || &nbsp; || para || &nbsp; || sa || &nbsp; || ale || &nbsp; || sa || &nbsp; || pamamagitan || &nbsp; || ng || &nbsp; || pera || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>mangga</u>'''''.
+|-
+| || ‹{{sc|asp}}›buy-{{sc|pv}} || || {{sc|ind}} || || man || || {{sc|obl}} || || market || || for || || {{sc|obl}} || || woman || || {{sc|obl}} || || means || || {{sc|ind}} || || money || || {{sc|dir}} || || mango
+|-
+| || colspan=27 | "The man bought the mango at the market for the woman by means of money." 
+|-
+| || colspan=27 | (''or'' "The mango was bought by the man at the market for the woman by means of money.")
+|}
+
+{|
+| (3) || a. || colspan=27 | ''Locative Voice'' (with location subject)
+|-
+| || || B‹in›ilh-<span style="color:#FF0000">an</span> || &nbsp; || ng || &nbsp; || mama || &nbsp; || ng || &nbsp; || mangga || &nbsp; || para || &nbsp; || sa || &nbsp; || ale || &nbsp; || sa || &nbsp; || pamamagitan || &nbsp; || ng || &nbsp; || pera || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>palengke</u>'''''.
+|-
+| || || ‹{{sc|asp}}›buy-{{sc|lv}} || || {{sc|ind}} || || man || || {{sc|ind}} || || mango || || for || || {{sc|obl}} || || woman || || {{sc|obl}} || || means || || {{sc|ind}} || || money || || {{sc|dir}} || || market
+|-
+| || || colspan=27| "The man bought a mango at the market for the woman by means of money." 
+|-
+| || || colspan=27| (''or'' "The market was bought a mango at by the man for the woman by means of money.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(3)</span> || b. || colspan=27 | ''Locative Voice'' (with goal subject)
+|-
+| || || B‹in›ilh-<span style="color:#FF0000">an</span> || &nbsp; || ng || &nbsp; || mama || &nbsp; || ng || &nbsp; || mangga || &nbsp; || sa || &nbsp; || palengke || &nbsp; || sa || &nbsp; || pamamagitan || &nbsp; || ng || &nbsp; || pera || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>ale</u>'''''.
+|-
+| || ||  ‹{{sc|asp}}›buy-{{sc|lv}} || || {{sc|ind}} || || man || || {{sc|ind}} || || mango || || {{sc|obl}} || || market || || {{sc|obl}} || || means || || {{sc|ind}} || || money || || {{sc|dir}} || || woman
+|-
+| || || colspan=25 | "The man bought a mango at the market for the woman by means of money." 
+|-
+| || || colspan=25 | (''or'' "The woman was bought a mango for by the man at the market by means of money.")
+|}
+
+{|
+| (4) || colspan=25 | ''Benefactive Voice'' 
+|-
+| || <span style="color:#FF0000">I</span>-b‹in›ili || &nbsp; || ng || &nbsp; || mama || &nbsp; || ng || &nbsp; || mangga || &nbsp; || sa || &nbsp; || palengke || &nbsp; || sa || &nbsp; || pamamagitan || &nbsp; || ng || &nbsp; || pera || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>ale</u>'''''.
+|-
+| || {{sc|bv}}-‹{{sc|asp}}›buy || || {{sc|ind}} || || man || || {{sc|ind}} || || mango || || {{sc|obl}} || || market || || {{sc|obl}} || || means || || {{sc|ind}} || || money || || {{sc|dir}} || || woman
+|-
+| || colspan=25 | "The man bought a mango at the market for the woman by means of money." 
+|-
+| || colspan=25 | (''or'' "The woman was bought a mango for by the man at the market by means of money.")
+|}
+
+{|
+| (5) || colspan=23 | ''Instrument Voice''
+|-
+| || Ipinambili || &nbsp; || ng || &nbsp; || mama || &nbsp; || ng || &nbsp; || mangga || &nbsp; || sa || &nbsp; || palengke || &nbsp; || para || &nbsp; || sa || &nbsp; || ale || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>pera</u>'''''.
+|-
+| || <span style="color:#FF0000">Ip</span>‹in›<span style="color:#FF0000">aN</span>-bili
+|-
+| || ‹{{sc|asp}}›{{sc|iv}}-buy || || {{sc|ind}} || || man || || {{sc|ind}} || || mango || || {{sc|obl}} || || market || || for || || {{sc|obl}} || || woman || || {{sc|dir}} || || money
+|-
+| || colspan=23 | "The man bought a mango at the market for the woman by means of money." 
+|-
+| || colspan=23 | (''or'' "The money was bought a mango with by the man at the market for the woman.")
+|}
+
+{|
+| (6) || a. || colspan=17 | ''Reason Voice''<ref>The subject in (6a) is the [[nominalization]] of the [[adverbial clause]] in (6b).</ref>
+|-
+| || || <span style="color:#FF0000">Ik</span>‹in›<span style="color:#FF0000">a</span>-iyak || &nbsp; || ng || &nbsp; || bata || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>pag-kagat</u>''''' || &nbsp; || '''''<u>sa</u>''''' || &nbsp; || '''''<u>kaniya</u>''''' || &nbsp; || '''''<u>ng</u>''''' || &nbsp; || '''''<u>langgam</u>'''''.
+|-
+| || || ‹{{sc|asp}}›{{sc|rv}}-cry || || {{sc|ind}} || || child || || {{sc|dir}} || || {{sc|nmlz}}-bite || || {{sc|obl}} || || {{sc|3sg.obl}} || || {{sc|ind}} || || ant
+|-
+| || || colspan=17 | "The child cried because an/the ant bit him."
+|-
+| || || colspan=17 | (''or'' "An/the ant's biting of him was cried about by the child.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(6)</span> || b. || colspan=17 | ''Actor Voice''
+|-
+| || || ‹<span style="color:#FF0000">Um</span>›iyak || &nbsp; || '''''<u>ang</u>''''' || &nbsp; || '''''<u>bata</u>''''' || &nbsp; || dahil || &nbsp; || k‹in›agat-<span style="color:#FF0000">∅</span> || &nbsp; || '''''<u>siya</u>''''' || &nbsp; || ng || &nbsp; || langgam.
+|-
+| || || ‹{{sc|asp.av}}›cry || || {{sc|dir}} || || child || || because || || ‹{{sc|asp}}›bite-{{sc|pv}} || || {{sc|3sg.dir}} || || {{sc|ind}} || || ant
+|-
+| || || colspan=17 | "The child cried because an/the ant bit him."
+|-
+| || || colspan=17 | (''or'' "The child cried because he was bitten by an/the ant.")
+|}
+
+=====Tondano=====
+[[Tondano_language|Tondano]]<ref>Taken from Sneddon (1970)'s examples on page 13, and from Sneddon (1975)'s examples on pages 63 and 66.  Glosses and translations modified for the Wikipedia article.</ref> has four voices:  ''Actor Voice'', ''Patient Voice'', ''Locative Voice'', and ''Circumstantial Voice''.
+
+The circumstantial Voice selects for instrument, benefactee, and theme subjects.
+
+The subject is found in sentence-initial position, before the verb.
+
+{|
+| (1) || colspan=15 | ''Actor Voice''
+|-
+| || '''''<u>Si</u>''''' || &nbsp; || '''''<u>tuama</u>''''' || &nbsp; || k‹<span style="color:#FF0000">um</span>›eoŋ || &nbsp; || roda || &nbsp; || wo || &nbsp; || n-tali || &nbsp; || waki || &nbsp; || pasar.
+|-
+| || {{sc|an.sg}} || || man || || ‹{{sc|av}}›will.pull || || cart || || with || || {{sc|inan}}-rope || || to || || market
+|-
+| || colspan=15 | "The man will pull the cart with the rope to the market."
+|}
+
+{|
+| (2) || colspan=15 | ''Patient Voice''
+|-
+| || '''''<u>Roda</u>''''' || &nbsp; || keoŋ-<span style="color:#FF0000">ən</span> || &nbsp; || ni || &nbsp; || tuama || &nbsp; || wo || &nbsp; || n-tali || &nbsp; || waki || &nbsp; || pasar.
+|-
+| || cart || || will.pull-{{sc|pv}} || || {{sc|erg.an.sg}} || || man || || with || || {{sc|inan}}-rope || || to || || market
+|-
+| || colspan=15 | "The man will pull the cart with the rope to the market."
+|-
+| || colspan=15 | (''or'' "The cart will be pulled with rope to the market by the man.")
+|}
+
+{|
+| (3) || colspan=13 | ''Locative Voice''
+|-
+| || '''''<u>Pasar</u>''''' || &nbsp; || keoŋ-<span style="color:#FF0000">an</span> || &nbsp; || ni || &nbsp; || tuama || &nbsp; || roda || &nbsp; || wo || &nbsp; || n-tali.
+|-
+| || market || || will.pull-{{sc|lv}} || || {{sc|erg.an.sg}} || || man || || cart || || with || || {{sc|inan}}-rope
+|-
+| || colspan=13 | "The man will pull the cart with the rope to the market."
+|-
+| || colspan=13 |(''or'' "The market will be pulled the cart to with the rope by the man.")
+|}
+
+{|
+| (4) || a. || &nbsp; || colspan=13 | ''Circumstantial Voice'' (with instrument subject)
+|-
+| || || || '''''<u>Tali</u>''''' || &nbsp; || <span style="color:#FF0000">i</span>-keoŋ || &nbsp; || ni || &nbsp; || tuama || &nbsp; || roda || &nbsp; || waki || &nbsp; || pasar.
+|-
+| || || || rope || || {{sc|cv}}-will.pull || || {{sc|erg.an.sg}} || || man || || cart || || to || || market
+|-
+| || || || colspan=13 | "The man will pull the cart with the rope to the market."
+|-
+| || || || colspan=13 |(''or'' "The rope will be pulled the cart with to the market by the man.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(4)</span> || b. || || colspan=11 | ''Circumstantial Voice'' (with benefactee subject)
+|-
+| || || || '''''<u>Se</u>''''' || &nbsp; || '''''<u>okiʔ</u>''''' || &nbsp; || <span style="color:#FF0000">i</span>-lutuʔ || &nbsp; || ni || &nbsp; || mama || &nbsp; || seraʔ
+|-
+| || || || {{sc|an.pl}} || || child || || {{sc|cv}}-will.cook || || {{sc|erg.an.sg}} || || mother || || fish
+|-
+| || || || colspan=11 | "Mother will cook fish for the children."
+|-
+| || || || colspan=11 | (''or'' "The children will be cooked fish for by mother.")
+|}
+
+{|
+| <span style="color:#FFFFFF">(4)</span> || c. || || colspan=11 | ''Circumstantial Voice'' (with theme subject)
+|-
+| || || || '''''<u>Ləloŋkotan</u>''''' || &nbsp; || <span style="color:#FF0000">i</span>-wareŋ || &nbsp; || ni || &nbsp; || tuama || &nbsp; || waki || &nbsp; || wale.
+|-
+| || || || ladder || || {{sc|cv}}-will.return || || {{sc|erg.an.sg}} || || man || || to || || house
+|-
+| || || || colspan=11 | "The man will return the ladder to the house."
+|-
+| || || || colspan=11 | (''or'' "The ladder will be returned by the man to the house.")
+|}
+
+====Bornean====
+The data below come from [[Bornean languages]], a geographic grouping under [[Malayo-Polynesian_languages|Malayo-Polynesian]], mainly spoken on the island of [[Borneo]], spanning administrative areas of [[Malaysia]] and [[Indonesia]].
+
+=====Bonggi=====
+[[Bonggi_language|Bonggi]]<ref>Taken from Boutin (2002)'s examples in (3), and (4) on page 211, (6) and (7) on page 212, and in (44) on page 222. Glosses and translations modified for the Wikipedia article.</ref><ref>Boutin (2002; pp. 211-212) presents other [[Voice_(grammar)|voice]]-related data. However, because these are periphrastic constructions, they are of no interest for the purposes of this Wikipedia article.</ref> has four voices: ''Actor Voice, ''Patient Voice, ''Instrumental Voice, and ''Circumstantial Voice.
+
+The circumstantial voice suffix selects for benefactee and goal subjects.
+
+The subject is found in sentence-initial position, before the verb.
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (1)
+|top= Actor Voice
+| '''<u>Sia</u>''' imagi louk nyu.
+| {} in-{{font color|#FF0000|N}}-bagi {} {}
+| 3SG.DIR RL-AV-divide fish 2PL.GEN
+| "He divided your fish."}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (2)
+|top= Patient Voice<ref>The patient voice suffix surfaces either as ''-idn'' or as ''-∅''. The choice of [[allomorph]] depends on whether or not the verb is marked with the ''-in-'' realis mood morpheme. When the realis mood morpheme is present, the ''-∅'' allomorph surfaces.</ref>
+| '''<u>Louk</u>''' '''<u>nyu</u>''' biagi nya.
+| {} {} b‹in›agi-{{font color|#FF0000|∅}} {}
+| fish 2PL.GEN ‹RL›divide-PV 3SG.ERG
+| "He divided your fish." (''or'' "Your fish was divided by him.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number=(3)
+|top= Instrument Voice
+| '''<u>Badiʔ</u>''' '''<u>ku</u>''' pimagi nya louk nyu.
+| {} {} {{font color|#FF0000|p}}‹in›{{font color|#FF0000|əN}}-bagi {} {} {}
+| machete 1SG.GEN ‹RL›IV-divide 3SG.ERG fish 2PL.GEN
+| "He divided your fish with my machete." (''or'' "My machete was divided your fish with by him.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (4) a.
+|top= Circumstantial Voice (with benefactee subject)
+| '''<u>Ou</u>''' bigiadn nya louk nyu.
+| {} b‹in›agi-{{font color|#FF0000|adn}} {} {} {}
+| 1SG.DIR ‹RL›divide-CV 3SG.ERG fish 2PL.GEN
+| "He divided your fish for me." (''or'' "I was divided your fish for by him.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= {{font color|#FFFFFF|(4)}} b.
+|top= Circumstantial Voice (with goal subject)
+| '''<u>Ou</u>''' biniriadn nya siidn.
+| {} b‹in›ori-{{font color|#FF0000|adn}} {} {}
+| 1SG.DIR ‹RL›give-CV 3SG.ERG money
+| "He gave money to me." (''or'' "I was given money to by him.")}}
+
+=====Kadazan Dusun=====
+[[Kadazan_Dusun_language|Kadazan Dusun]]{{sfnp|Hemmings|2016|p{{=}}270|ps{{=}}: "Taken from examples in (39). Glosses and translations modified for the Wikipedia article."}} has three voices: ''Actor Voice'', ''Patient Voice'' and ''Benefactive Voice''.
+
+The direct case morpheme, which marks the subject in Kadazan Dusun, is ''i''.
+
+{{interlinear|glossing=no abbr
+|number= (1)
+|top= Actor Voice
+| {{font color|#FF0000|Mog}}-ovit '''<u>i</u>''' '''<u>ama’</u>''' di tanak do buuk.
+| AV-bring DIR father IND child ACC book
+| "Father is bringing the child a book."}}
+
+{{interlinear|glossing=no abbr
+|number= (2)
+|top= Patient Voice
+| Ovit-{{font color|#FF0000|on}} di ama’ di tanak '''<u>i</u>''' '''<u>buuk</u>'''.
+| bring-PV IND father IND child DIR book
+| "Father is bringing the child the book." (''or'' "The book is being brought to the child by Father.")}}
+
+{{interlinear|glossing=no abbr
+|number= (3)
+|top= Benefactive Voice
+| Ovit-{{font color|#FF0000|an}} di ama’ '''<u>i</u>''' '''<u>tanak</u>''' do buuk.
+| bring-BV IND father DIR child ACC book
+| "Father is bringing the child a book." (''or'' "The child is being brought a book to by Father.")}}
+
+=====Kelabit=====
+[[Kelabit_language|Kelabit]]{{sfnp|Hemmings|2016|p{{=}}200|ps{{=}}: "Taken from examples in (189a-c). Glosses and translations modified for the Wikipedia article."}} has three voices: ''Actor Voice'', ''Patient Voice'' and ''Instrument Voice''.
+
+Unlike other languages presented here, Kelabit does not use case-marking or word-ordering strategies to indicate the subject of the clause.<ref>Hemmings (2016) presents examples in which the subject in patient voice appears before the verb, and in which the subject in Actor Voice voice appears after the verb</ref> However, certain syntactic processes, such as [[relative_clause|relativization]], target the subject. Relativizing non-subjects results in ungrammatical sentences.{{sfnp|Hemmings|2016|pp{{=}}202-203}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (1)
+|top= Actor Voice
+| '''<u>La’ih</u>''' '''<u>sineh</u>''' nenekul nubaq nedih ngen seduk.
+| {} {} in-{{font color|#FF0000|N}}-tekul {} {} {} {}
+| man that ASP-AV-spoon.up rice 3SG.GEN with spoon
+| "That man spooned his rice up with a spoon."}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (2)
+|top= Patient Voice<ref>The patient voice suffix has two [[allomorph|allomorphs]], ''-en'' and ''-∅''. The former occurs in non-perfective contexts, whereas the latter in perfective contexts.</ref>
+| Sikul la’ih sineh '''<u>nubaq</u>''' '''<u>nedih</u>''' ngen seduk.
+| t‹in›ekul-{{font color|#FF0000|∅}} {} {} {} {} {} {}
+| ‹ASP›spoon.up-PV man that rice 3SG.GEN with spoon.
+| "That man spooned his rice up with a spoon." (''or'' "His<sub>i</sub> rice was spooned up with a spoon by that man<sub>i</sub>.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (3)
+|top= Instrument Voice
+| '''<u>Seduk</u>''' penenekul la’ih sineh nubaq nedih.
+| {} {{font color|#FF0000|p}}‹in›{{font color|#FF0000|eN}}-tekul {} {} {} {}
+| spoon ‹ASP›IV-spoon.up man that rice 3SG.GEN
+| "That man spooned his rice up with a spoon." (''or'' "A spoon was spooned his<sub>i</sub> rice up with by that man<sub>i</sub>.")}}
+
+=====Kimaragang=====
+[[Momogun_language|Kimaragang]]<ref>Taken from Kroeger (2005)'s examples in (20a-c), page 405, and from Kroeger (2017)'s examples in (5), (6a) and (7). The orthography used here conforms to the orthography used in Kroeger (2017). Glosses and translations modified for the Wikipedia article.</ref> has five voices: ''Actor Voice'', ''Patient Voice'', ''Benefactive Voice'', ''Instrument Voice'' and ''Locative Voice''.
+
+Only intransitive verbs can be marked with the locative voice suffix,<ref>Kroeger (2017), page 5.</ref> which looks similar to the patient voice suffix.<ref>According to Kroeger (2005; page 415, table (45)), the patient voice suffix has two [[allomorph|allomorphs]], ''-on'' and ''-∅''. The former occurs in non-past contexts, whereas the latter in past contexts. The locative voice suffix does not exhibit such allomorphy, and can appear in both past and non-past contexts.</ref>
+
+The direct case marker, which marks the subject in Kimaragang, is ''it'' for definite nouns and ''ot'' for indefinite nouns.
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (1)
+|top= Actor Voice
+| Mangalapak '''<u>oku</u>''' do niyuw.
+| {{font color|#FF0000|m}}-poN-lapak {} {} {}
+| AV-TR-split 1SG.DIR IND.INDF coconut
+| "I will split a coconut/some coconuts."}}
+
+{{interlinear|glossing=no abbr
+|number= (2)
+|top= Patient Voice
+| Lapak-{{font color|#FF0000|on}} ku '''<u>it</u>''' '''<u>niyuw</u>'''.
+| split-PV 1SG.IND DIR.DEF coconut
+| "I will split the coconuts." (''or'' "The coconuts will be split by me.")}}
+
+{{interlinear|glossing=no abbr
+|number= (3)
+|top= Benefactive Voice
+| Lapak-{{font color|#FF0000|an}} ku do niyuw '''<u>it</u>''' '''<u>wogok</u>'''.
+| split-BV 1SG.IND IND.INDF coconut DIR.DEF pig
+| "I will split some coconuts for the pigs." (''or'' "The pigs will be split some coconuts for by me.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (4)
+|top= Instrument Voice<ref>According to Kroeger (2010; page 8), the instrument voice prefix has two [[allomorph|allomorphs]], ''i-'', and ''∅-''. The latter surfaces in the presence of the transitivity prefix, ''poN-''.</ref><ref>The sentence in this example exhibits a [[Cleft_sentence#Types|pseudocleft]] construction with a [[relative clause]] as the subject, and a [[Interrogative_word|{{sc|wh}}-word]] as the predicate. The instrument voice prefix selects a null [[Operator_(linguistics)|operator]] within the relative clause. This null operator serves as the head of the relative clause, which can be interpreted as "the thing that...".</ref>
+| Tongo ot pangalapak nu dilo’ niyuw '''<u>______</u>'''?
+| {} {} {{font color|#FF0000|∅}}-poN-lapak {} {} {} {}
+| what DIR.INDF IT-TR-split 2SG.IND that.IND coconut DIR
+| "What will you split those coconuts with?" (''or'' "The thing that will be split those coconuts with by you is what?")}}
+
+{{interlinear|glossing=no abbr
+|number= (5)
+|top= Locative Voice<ref>The sentence in this example exhibits a [[Cleft_sentence#Types|pseudocleft]] construction with a [[relative clause]] as the subject, and a [[Interrogative_word|{{sc|wh}}-word]] as the predicate. The locative voice suffix selects a null [[Operator_(linguistics)|operator]] within the relative clause. This null operator serves as the head of the relative clause, which can be interpreted as "the thing that...".</ref>
+| Siombo ot ogom-{{font color|#FF0000|on}} ku '''<u>_____</u>'''?
+| where DIR.INDF sit-LV 1SG.IND DIR
+| "Where shall I sit?" (''or'' "The thing that will be sat upon by me is where?")}}
+
+=====Timugon Murut=====
+[[Timugon_language|Timugon Murut]]<ref>Taken from Prentice (1965)'s examples on pages 130 and 131. Glosses and translations for the Wikipedia article.</ref> has five voices: ''Actor Voice'', ''Patient Voice'', ''Benefactive Voice'', ''Instrument Voice'', and ''Circumstantial Voice''.
+
+There is no direct case marker to mark subjects in Timugon Murut. However, non-subject agents are marked with the ergative case marker, ''du'', while non-subject non-agents are marked with the oblique case marker, ''da''.
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (1)
+|top= Actor Voice
+| Mambali '''<u>dŭanduʔ{{=}}ti</u>''' da{{=}}konoon da{{=}}dalaiŋ{{=}}no da{{=}}sŭab{{=}}no da{{=}}duit{{=}}na-no.
+| {{font color|#FF0000|m}}-paN-bali {} {} {} {} {}
+| AV-¿?-buy woman{{=}}DET OBL{{=}}clothes OBL{{=}}child{{=}}DET OBL{{=}}morning{{=}}DET OBL{{=}}money{{=}}3SG.GEN-DET
+| "The woman will buy clothes for the child in the morning with her money."}}
+
+{{interlinear|glossing=no abbr
+|number= (2)
+|top= Patient Voice
+| Bali-{{font color|#FF0000|on}} '''<u>konoon</u>''' du{{=}}dŭanduʔ{{=}}ti da{{=}}dalaiŋ{{=}}no da{{=}}sŭab{{=}}no da{{=}}duit{{=}}na-no.
+| buy-PV clothes ERG{{=}}woman{{=}}DET OBL{{=}}child{{=}}DET OBL{{=}}morning{{=}}DET OBL{{=}}money{{=}}3SG.GEN-DET
+| "The woman will buy clothes for the child in the morning with her money." (''or'' "Clothes will be bought for the child in the morning by the woman with her money.")}}
+
+{{interlinear|glossing=no abbr
+|number= (3)
+|top= Benefactive Voice
+| Bali-{{font color|#FF0000|in}} '''<u>dalaiŋ{{=}}no</u>''' da{{=}}konoon du{{=}}dŭanduʔ{{=}}ti da{{=}}sŭab{{=}}no da{{=}}duit{{=}}na-no.
+| buy-BV child{{=}}DET OBL{{=}}clothes ERG{{=}}woman{{=}}DET OBL{{=}}morning{{=}}DET OBL{{=}}money{{=}}3SG.GEN-DET
+| "The woman will buy clothes for the child in the morning with her money." (''or'' "The child will be bought clothes for in the morning by the woman with her money.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (4)
+|top= Instrument Voice
+| '''<u>Duit{{=}}na-no</u>''' pambabali du{{=}}dŭanduʔ{{=}}ti da{{=}}konoon da{{=}}dalaiŋ{{=}}no da{{=}}sŭab{{=}}no.
+| {} paN-{{font color|#FF0000|CV}}~bali {} {} {} {}
+| money{{=}}3SG.GEN-DET ¿?-IV~buy ERG{{=}}woman{{=}}DET OBL{{=}}clothes OBL{{=}}child{{=}}DET OBL{{=}}morning{{=}}DET
+| "The woman will buy clothes for the child in the morning with her money." (''or'' "Her<sub>i</sub> money will be bought clothes with for the child in the morning by the woman<sub>i</sub>.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (5)
+|top= Circumstantial Voice
+| '''<u>Sŭab{{=}}na</u>''' pambalian du{{=}}dŭanduʔ{{=}}ti da{{=}}konoon da{{=}}dalaiŋ{{=}}no da{{=}}duit{{=}}na-no.
+| {} paN-bali-{{font color|#FF0000|an}} {} {} {} {}
+| morning{{=}}DET ¿?-buy-CV ERG{{=}}woman{{=}}DET OBL{{=}}clothes OBL{{=}}child{{=}}DET OBL{{=}}money{{=}}3SG.GEN-DET
+| "The woman will buy clothes for the child in the morning with her money." (''or'' "The morning will be bought clothes in for the child by the woman with her money.")}}
+
+====Barito====
+
+The data below represent the [[Barito languages]], and are from a language spoken on [[Madagascar]], off the east coast of [[Africa]]. Other languages from Barito are spoken in [[Indonesia]] and the [[Philippines]].
+
+=====Malagasy=====
+[[Malagasy language|Malagasy]]<ref>Taken from Pearson (2005)'s examples in (2) and (10c). Glosses and translations modified for the Wikipedia article.</ref> has three voices: ''Actor Voice'', ''Patient Voice'', and ''Circumstantial Voice''.
+
+The circumstantial voice suffix selects for instrument and benefactee subjects.
+
+Malagasy does not have a direct case marker. However, the subject is found in sentence-final position.
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (1)
+|top= Actor Voice
+| Mamono akoho amin'ny antsy '''<u>ny</u>''' '''<u>mpamboly</u>'''.
+| {{font color|#FF0000|m}}-aN-vono {} {} {} {} {}
+| AV-TR-kill chicken with'DET knife DET farmer
+| "The farmer kills chickens with the knife."}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (2)
+|top= Patient Voice
+| Vonoin'ny mpamboly amin'ny antsy '''<u>ny</u>''' '''<u>akoho</u>'''.
+| vono-{{font color|#FF0000|ina}}'ny {} {} {} {} {}
+| kill-PV'DET farmer with'DET knife DET chicken
+| "The farmer kills the chickens with the knife." (''or'' "The chickens are killed with the knife by the farmer.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= (3) a.
+|top= Circumstantial Voice (with instrument subject)
+| Amonoan'ny mpamboly akoho '''<u>ny</u>''' '''<u>antsy</u>'''.
+| aN-vono-{{font color|#FF0000|ana}}'ny {} {} {} {}
+| TR-kill-CV'DET farmer chicken DET knife
+| "The farmer kills chickens with the knife." (''or'' "The knife is killed chickens with by the farmer.")}}
+
+{{interlinear|glossing=no abbr|italics2=yes|glossing3=yes
+|number= {{font color|#FFFFFF|(3)}} b.
+|top= Circumstantial Voice (with benefactee subject)
+| Amonoan'ny mpamboly akoho '''<u>ny</u>''' '''<u>vahiny</u>'''.
+| aN-vono-{{font color|#FF0000|ana}}'ny {} {} {} {}
+| TR-kill-CV'DET farmer chicken DET guest
+| "The farmer kills chickens for the guests." (''or'' "The guests are killed chickens for by the farmer.")}}
+
+==Non-Austronesian examples==
+Alignment types resembling symmetrical voice have been observed in non-Austronesian languages.
+
+===Nilotic===
+The [[Nilotic languages]] are a group of languages spoken in the eastern part of [[Sub-Saharan Africa]].
+
+====Dinka====
+[[Dinka_language|Dinka]] is a [[dialect continuum]] spoken in [[South Sudan]]. The two dialects presented below each have a maximum of three voices. 
+
+=====Agar=====
+Andersen (1991) suggests that Agar exhibits symmetrical voice. This language has a maximum of three voices: ''Actor Voice'', ''Patient Voice'', and ''Circumstantial Voice''. The subject is found in sentence-initial position, before the verb. The non-finite form of the verb found in the examples<ref>Taken from Andersen (1991)'s example (74) on page 286. Glosses and translations modified for the Wikipedia article.</ref> below is ''yḛ̂ep'' "cut".
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| '''<u>ô̰ok</u>''' á̰a-y‹{{text color|#FF0000|ḛ̀}}›p tḭ̀im nè̤ yê̤ep.
+| 1PL D.PL-‹AV›cut tree PREP axe
+| "We are cutting the tree with the axe."}}
+ 
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| '''<u>tḭ̀im</u>''' à̰-y‹{{text color|#FF0000|ḛ́}}›p-kṳ̀ nè̤ yê̤ep.
+| tree D-‹PV›cut-1PL PREP axe
+| "We are cutting the tree with the axe." (''or'' "The tree is being cut by us with the axe.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Circumstantial Voice
+| '''<u>yê̤ep</u>''' à̰-y‹{{text color|#FF0000|ḛ́e}}›p ó̰ok tḭ̀im.
+| axe D-‹CV›cut 1PL.GEN tree
+| "We are cutting the tree with the axe." (''or'' "The axe is being cut the tree with by us.")}}
+
+However, the number of voice morphemes available in this language is reduced to two when the agent is a full [[noun]] (i.e., not a [[pronoun]]), such as in the examples<ref>Taken from Andersen (1991)'s example (71) on page 285. Glosses and translations modified for the Wikipedia article.</ref> below. In (5a), where the subject is a patient, and the agent is not a pronoun, the verb is marked with ''Circumstantial Voice''. Compare to (2) above, in which the agent is pronominal, and the verb is marked with patient voice morpheme, {{text color|#FF0000|ḛ́}}.
+
+{{interlinear|glossing=no abbr|number=(4)
+|top= Actor Voice
+| '''<u>dhɔ̤̀ɔk</u>''' à̰-y‹{{text color|#FF0000|ḛ̀}}›p tḭ̀im nè̤ yê̤ep.
+| boy D-‹AV›cut tree PREP axe
+| "The boy is cutting the tree with the axe."}}
+
+{{interlinear|glossing=no abbr|number=(5) a.
+|top= Circumstantial Voice (with patient subject)
+| '''<u>tḭ̀im</u>''' à̰-y‹{{text color|#FF0000|ḛ́e}}›p dhɔ̤̀ɔk nè̤ yê̤ep.
+| tree D-‹CV›cut boy PREP axe
+| "The boy is cutting the tree with the axe." (''or'' "The tree is being cut by the boy with the axe.")}}
+
+{{interlinear|glossing=no abbr|number={{text color|#FFFFFF|(5)}} b.
+|top= Circumstantial Voice (with instrument subject)
+| '''<u>yê̤ep</u>''' à̰-y‹{{text color|#FF0000|ḛ́e}}›p dhɔ̤̀ɔk tḭ̀im.
+| axe D-‹CV›cut boy tree
+| "The boy is cutting the tree with the axe." (''or'' "The axe is being cut the tree with by the boy.")}}
+
+=====Bor=====
+Van Urk (2015) suggests that Bor exhibits symmetrical voice. This language has three voices: ''Actor Voice'', ''Patient Voice'', and ''Circumstantial Voice''.
+
+The subject is found in sentence-initial position, before the verb. The non-finite form of the verb found in the examples<ref>Taken from van Urk (2015)'s example (2) on page 61. Glosses and translations modified for the Wikipedia article.</ref> below is ''câam'' "eat".
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| '''<u>Àyén</u>''' à-c‹{{text color|#FF0000|à}}›m cuî̤in nè̤ pǎal.
+| Ayen 3SG-‹AV›eat food PREP knife
+| "Ayen is eating food with a knife."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| '''<u>Cuî̤in</u>''' à-c‹{{text color|#FF0000|ɛ́ɛ}}›m Áyèn nè̤ pǎal.
+| food 3SG-‹PV›eat Ayen.ERG PREP knife
+| "Ayen is eating food with a knife." (''or'' "Food is being eaten by Ayen with a knife.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Circumstantial Voice<ref>Van Urk (2015, page 69) indicates that the circumstantial voice suffix is attached to a stem composed of the verb and the patient voice ("object voice" in van Urk's terminology).</ref>
+| '''<u>Pǎal</u>''' à-c‹ɛ́ɛ›m-{{text color|#FF0000|è̤}} Áyèn cuî̤in.
+| knife 3SG-‹PV›eat-CV Ayen.ERG food
+| "Ayen is eating food with a knife." (''or'' "The knife is being eaten food with by Ayen.")}}
+
+====Kurmuk====
+Andersen (2015) suggests that [[Burun_languages|Kurmuk]], which is spoken in [[Sudan]], has a construction that resembles symmetrical voice. This language has three voices: ''Actor Voice'', ''Patient Voice'', and ''Circumstantial Voice''.
+
+The subject in the examples<ref>Taken from Andersen (2015)'s example (1) on page 510. Glosses and translations modified for the Wikipedia article.</ref> below is found in sentence-initial position, before the verb.
+
+{{interlinear|glossing=no abbr|number=(1)
+|top= Actor Voice
+| '''<u>t̪áarák</u>''' ꜜbóor-ú-{{text color|#FF0000|∅}} dɛ̀ɛl kʌ̀ ŋɪ̀ɪr.
+| person skin-PST-AV goat PREP knife
+| "The man skinned a goat with a knife."}}
+
+{{interlinear|glossing=no abbr|number=(2)
+|top= Patient Voice
+| '''<u>dɛ̀ɛl</u>''' bóor-út̪-{{text color|#FF0000|ɪ̀}} ŋʌ̀ t̪áarák kʌ̀ ŋɪ̀ɪr.
+| goat skin-PST-PV NOM person PREP knife
+| "The man skinned the goat with a knife." (''or'' "The goat was skinned by the man with a knife.")}}
+
+{{interlinear|glossing=no abbr|number=(3)
+|top= Circumstantial Voice
+| '''<u>ŋɪ̀ɪr</u>''' bóor-út̪-{{text color|#FF0000|ꜜɪ́}} dɛ́ɛl ŋʌ̀ t̪áarák.
+| knife skin-PST-CV goat NOM person
+| "The man skinned a goat with the knife." (''or'' "The knife was skinned a goat with by the man.")}}
+
+==Notes==
+===Glosses===
+Here is a list of the abbreviations used in the glosses: 
+
+:{|
+| '''1''' || &nbsp; || first person || &nbsp; || &nbsp; || {{sc|'''def'''}} || &nbsp; || definite || &nbsp; || &nbsp; || {{sc|'''lig'''}} || &nbsp; || ligature || &nbsp; || &nbsp; || {{sc|'''rl'''}} || &nbsp; || realis mood
+|-
+| '''2''' || &nbsp; || second person || &nbsp; || &nbsp; || {{sc|'''det'''}} || &nbsp; || determiner || &nbsp; || &nbsp; || {{sc|'''lv'''}} || &nbsp; || locative voice || &nbsp; || &nbsp; || {{sc|'''rv'''}} || &nbsp; || reason voice
+|- 
+| '''3''' || &nbsp; || third person || &nbsp; || &nbsp; || {{sc|'''dir'''}} || &nbsp; || direct case || &nbsp; || &nbsp; || {{sc|'''m'''}} || &nbsp; || masculine || &nbsp; || &nbsp; || {{sc|'''sg'''}} || &nbsp; || singular
+|-
+| {{sc|'''acc'''}} || &nbsp; || accusative case || &nbsp; || &nbsp; || {{sc|'''erg'''}} || &nbsp; || ergative case || &nbsp; || &nbsp; || {{sc|'''nav'''}} || &nbsp; || non-actor voice || &nbsp; || &nbsp; || {{sc|'''tr'''}} || &nbsp; || transitive 
+|-
+| {{sc|'''an'''}} || &nbsp; || animate || &nbsp; || &nbsp; || {{sc|'''f'''}} || &nbsp; || feminine || &nbsp; || &nbsp; || {{sc|'''nmlz'''}} || &nbsp; || nominalizer || &nbsp; || &nbsp; || {{sc|'''¿?'''}} || &nbsp; || morpheme of unknown semantics
+|-
+| {{sc|'''asp'''}} || &nbsp; || aspect || &nbsp; || &nbsp; || {{sc|'''gen'''}} || &nbsp; || genitive case || &nbsp; || &nbsp; || {{sc|'''nom'''}} || &nbsp; || nominative case 
+|-
+| {{sc|'''av'''}} || &nbsp; || actor voice || &nbsp; || &nbsp; || {{sc|'''gv'''}} || &nbsp; || goal voice || &nbsp; || &nbsp; || {{sc|'''obl'''}} || &nbsp; || oblique case
+|-
+| {{sc|'''aux'''}} || &nbsp; || auxiliary verb || &nbsp; || &nbsp; || {{sc|'''inan'''}} || &nbsp; || inanimate || &nbsp; || &nbsp; || {{sc|'''pl'''}} || &nbsp; || plural
+|- 
+| {{sc|'''bv'''}} || &nbsp; || benefactive voice || &nbsp; || &nbsp; || {{sc|'''ind'''}} || &nbsp; || indirect case || &nbsp; || &nbsp; || {{sc|'''prep'''}} || &nbsp; || preposition
+|-
+| {{sc|'''cv'''}} || &nbsp; || circumstantial voice || &nbsp; || &nbsp; || {{sc|'''indf'''}} || &nbsp; || indefinite || &nbsp; || &nbsp; || {{sc|'''pst'''}} || &nbsp; || past tense
+|-
+| {{sc|'''d'''}} || &nbsp; || declarative || &nbsp; || &nbsp; || {{sc|'''iv'''}} || &nbsp; || instrument voice || &nbsp; || &nbsp; || {{sc|'''pv'''}} || &nbsp; || patient voice
+|}
+
+===Endnotes===
+{{notelist}}
+
+{{reflist}}
+
+==References==
+{{refbegin}}
+*Abrams, N.  1970.  "Bilaan Morphology".  ''Papers in Philippine Linguistics No.3'' A-24:1-62.
+*Aldridge, Edith.  2015.  "A Minimalist Approach to the Emergence of Ergativity in Austronesian Languages".  ''Linguistics Vanguard'' 1(1):313-326.
+*Andersen, Torben.  1991.  "Subject and Topic in Dinka".  ''Studies in Language'' 15(2):265-294.
+*Andersen, Torben.  2015.  "Syntacticized topics in Kurmuk:  A ternary voice-like system in Nilotic".  ''Studies in Language'' 39(3):508-554. 
+*Bell, Sarah Johanna.  1976.  ''Cebuano Subjects in Two Frameworks''.  PhD dissertation:  Massachusetts Institute of Technology.
+*{{citation
+ | last=Blust | first=Robert |author-link=Robert Blust
+ | year=2013
+ | title=The Austronesian languages (Revised edition)
+ |location=Canberra |publisher=Australian National University
+ | isbn=9781922185075 |url=https://openresearch-repository.anu.edu.au/handle/1885/10191}}
+*Boutin, Michael E.  2002.  "Nominative and genitive case alternations in Bonggi".  ''The history and typology of western Austronesian voice systems''.  eds.  Fay Wouk and Malcolm Ross, pp 209-239.  Pacific Linguistics 518.  Canberra:  Australian National University.
+*Cauquelin, Josiane.  1991.  "The Puyuma Language".  ''Bijdragen tot de Taal-, Land- en Volkenkunde'' 147(1):17-60.
+*Estioca, Sharon Joy.  2020.  ''A Grammar of Western Subanon''.  PhD Dissertation:  University of Hawai’i at Mānoa.
+*Ferreirinho, Naomi.  1993.  ''Selected Topics in the Grammar of Limos Kalinga, the Philippines''.  Pacific Linguistics B-109.  Canberra:  Australian National University.
+*{{citation
+ | last=Hemmings | first=Charlotte
+ | year=2016
+ | title=The Kelabit Language, Austronesian Voice and Syntactic Typology (Doctoral dissertation)
+ |publisher=SOAS, University of London
+ | doi=10.25501/SOAS.00023792
+ |url=https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.707206| type=Ph.D
+ }}
+*Huang, Stacy Wan Tin.  2014.  "Tao Voice Affixes:  Derivation or Inflection or Both?".  ''Argument realisations and related constructions in Austronesian languages: papers from 12-ICAL, Volume 2''. eds. I.W. Arka and N.L.K.M. Indrawati, pp 175-195.  Asia-Pacific Linguistics 013 / Studies on Austronesian languages 002.  Canberra:  Australian National University.  [http://pacling.anu.edu.au/materials/SAL/APL013-SAL002.pdf]
+*Huang, Huei-ju and Shuanfan Huang.  2007.  "Lexical Perspectives on Voice Constructions in Tsou".  ''Oceanic Linguistics'' 46.2:424-455.
+*Kroeger, Paul R.  2005.  "Kimaragang". ''The Austronesian languages of Asia and Madagascar''. eds. K.A. Adelaar and N. Himmelmann, pp 397–428. New York: Routledge.
+*Kroeger, Paul R.  2010.  "The Grammar of hitting, breaking, and cutting in Kimaragang Dusun".  ''Oceanic Linguistics'' 49.1:1-20.
+*Kroeger, Paul.  2017.  "Frustration, culmination, and inertia in Kimaragang grammar".  ''Glossa:  a journal of general linguistics'' 2(1):56, 1-29.
+*Kuo, Jonathan Cheng-Chuen.  2015.  ''Argument Alternation and Argument Structure in Symmetrical Voice Languages:  A case study of transfer verbs in Amis, Puyuma, and Seediq''.  PhD Dissertation:  University of Hawai’i at Mānoa.
+*Lee, Wei-Wei.  2016.  ''The Expression and Conceptualization of Time in Kavalan (Austronesian, Taiwan)''.  MA thesis:  Universiteit Leiden.
+*Li, Paul Jen-kuei.  2000.  "Some Aspects of Pazeh Syntax".  ''Oceanic Linguistics Special Publications'' 29:89-108.
+*Li, Paul Jen-kuei.  2002.  "Nominalization in Pazih".  ''Language and Linguistics'' 3.2:227-239.
+*Liu, (Adlay) Kun-Long.  2017.  ''Syntactic Interactions with Information Structure in Squliq Atayal''.  PhD dissertation:  Australian National University.
+* {{citation
+ | last=Liu | first=Tsai-hsiu
+ | year=2011
+ | title=Complementation in Three Formosan Languages—Amis, Mayrinax Atayal and Tsou (Doctoral dissertation)
+ |location=Honolulu |publisher=University of Hawai'i at Mānoa
+ | hdl=10125/101742
+ |url=https://scholarspace.manoa.hawaii.edu/handle/10125/101742| type=Thesis
+ }}
+*Liu, Dorinda Tsai-hsiu.  2014.  "Neutral and Imperfective Forms in Kanakanavu".  ''Argument realisations and related constructions in Austronesian languages: papers from 12-ICAL, Volume 2''. eds. I.W. Arka and N.L.K.M. Indrawati, pp 175-195.  Asia-Pacific Linguistics 013 / Studies on Austronesian languages 002.  Canberra:  Australian National University.  [http://pacling.anu.edu.au/materials/SAL/APL013-SAL002.pdf]
+*McKaughan, Howard.  1962.  "Overt Relation Markers in Maranao".  ''Language'' 38.1:47-51.
+*McKaughan, H.  1970.  "Topicalization in Maranao - an addendum".   ''Pacific linguistic studies in honour of Arthur Capell''.  eds. S.A. Wurm, and D.C. Laycock, pp 291-300. Pacific Linguistics C-13.  Canberra: Australian National University.
+*Mirikitani, Leatrice T. 1972. ''Kapampangan Syntax''.  Oceanic Linguistics Special Publication, 10.  Honolulu: University of Hawai’i Press. 
+*Pan, Chia-jung.  2012.  ''A Grammar of Lha’alua, an Austronesian Language of Taiwan''.  PhD dissertation:  James Cook University.
+*Pearson, Matt.  2005.  "Voice morphology, case, and argument structure in Malagasy".  ''Proceedings of AFLA 11''.  ed. P. Law, pp 229-243.  Zentrum für Allgemeine Sprachwissenschaft, Berlin.
+*Prentice, D.J.  1965.  "Form and Function in the Verbs of Sabah Murut:  A Preliminary Analysis".  ''Oceanic Linguistics'' 4.1/2:127-156.
+*Reid, Lawrence Andrew.  1966.  ''An Ivatan Syntax''.  PhD dissertation:  University of Hawai'i.
+*Ross, Malcolm.  2002.  "The history and transitivity of western Austronesian voice and voice-marking".  ''The history and typology of western Austronesian voice systems''.  eds.  Fay Wouk and Malcolm Ross, pp 17-62.  Pacific Linguistics 518.  Canberra:  Australian National University.
+*Ross, Malcolm and Stacy Fang-ching Teng.  2005. "Formosan Languages and Linguistic Typology".  ''Language and Linguistics'' 6.4:739-781.
+*Schachter, Paul and Fé T. Otanes. 1972. ''Tagalog Reference Grammar''. Berkeley: University of California Press.
+*Shiohara, Asako.  2012.  "Applicatives in Standard Indonesian".  ''Objectivization and Subjectivization: A Typology of Voice Systems''. eds. W. Nakamura and R. Kikusawa, pp 59-76.  Senri Ethnological Studies 77. Osaka: National Museum of Ethnology.
+*Sneddon, J.N.  1970.  "The languages of Minahasa, North Celebes".  ''Oceanic Linguistics'' 9:11-36.
+*Sneddon, J.N. 1975.  ''Tondano phonology and grammar''.  Pacific Linguistics B-38.  Canberra:  Australian National University.
+*Travis, Lisa.  2010.  ''Inner Aspect:  the articulation of VP''.  Dordrecht:  Springer.
+*Tryon, Darrell T.  1994.  "The Austronesian Languages".  ''Comparative Austronesian dictionary:  An introduction to Austronesian studies''.  ed. D.T. Tryon, pp 5-45.  Berlin; New York:  Mouton de Gruyter.
+*Tsukida, Naomi.  2012.  "Goal Voice and Conveyance Voice of Seediq". ''Objectivization and Subjectivization: A Typology of Voice Systems''. eds. W. Nakamura and R. Kikusawa, pp 77-95.  Senri Ethnological Studies 77. Osaka: National Museum of Ethnology.
+*van Urk, Coppe.  2015.  [https://dspace.mit.edu/handle/1721.1/101595 ''A uniform syntax for phrasal movement:  A case study of Dinka Bor''].  PhD dissertation:  Massachusetts Institute of Technology.
+*Zeitoun, Elizabeth.  2005.  "Tsou". ''The Austronesian languages of Asia and Madagascar''. eds. K.A. Adelaar and N. Himmelmann, pp 259-290. New York: Routledge.
+{{refend}}
+
+[[Category:Linguistic typology]]
+[[Category:Austronesian languages]]
+[[Category:Transitivity and valency]]

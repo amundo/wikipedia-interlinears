@@ -1,0 +1,1497 @@
+{{short description|West Hmongic dialect continuum}}
+{{Infobox language
+| name             = Hmong / Miao
+| nativename       = ''lus Hmoob'' / ''lug Moob'' / ''lol Hmongb'' / ''lus Hmôngz'' / {{script|Hmng|𖬇𖬰𖬞 𖬌𖬣𖬵}} / {{script|Hmnp|𞄉𞄧𞄵𞄀𞄩𞄰}}
+| pronunciation    = {{IPA-Hmn|m̥ɔ̃́|}}
+| script           = [[Hmong writing]]: inc. [[Pahawh Hmong]], [[Nyiakeng Puachue Hmong]], multiple [[Latin script|Latin]] standards
+| states           = [[China]], [[Vietnam]], [[Laos]], [[Myanmar]] and [[Thailand]].
+| speakers         = {{sigfig|3.712|2}} million<!--E16 lists 1.4M for Chuanqiandian Cluster Miao, but in the change request, it is 1.4M in China, and 247k elsewhere, including Mong Njua in SE Asia and the US. The latter appears to correspond to the 270k lists for Hmong Njua outside China (310k − 40k in China). Numbers do not include Hm. Do or Hm. Don. -->
+| date             = 1995–2009
+| ref              = e18
+| map              = Hmong_Mien_lang.png
+| mapsize          = 200px
+| mapcaption       = Map of Hmong-Mien languages, the West Hmongic language is in purple.
+| ethnicity        = [[Hmong people|Hmong]]
+| speakers2        = not counting Vietnam
+| familycolor      = Hmong-Mien
+| fam2             = [[Hmongic languages|Hmongic]]
+| fam3             = [[West Hmongic]]
+| fam4             = Chuanqiandian cluster
+| iso2             = hmn
+| iso2comment      = Hmong, Mong (China, Laos)
+| iso3             = hmn
+| iso3comment      = for the Hmong/Mong/''Miao'' (China, Laos) macrolanguage, including all the following varieties except <code>hmf</code> and <code>hmv</code>.
+| lc1              = hmf
+| ld1              = Hmong Don (Vietnam)
+| lc2              = hmv
+| ld2              = Hmong Dô (Vietnam)
+| lc3              = hnj
+| ld3              = Mong Njua/Mong Leng (China, Laos), “Blue/Green Hmong” (United States)
+| lc4              = mww
+| ld4              = Hmong Daw (China, Laos), “White Hmong” (United States)
+| lc5              = hmz
+| ld5              = Sinicized Miao (Hmong Shua)
+| lc6              = hrm
+| ld6              = Horned Miao (''A-Hmo'', China)
+| lc7              = sfm
+| ld7              = Small Flowery Miao
+| lc8              = cqd
+| ld8              = Chuanqiandian Cluster Miao (cover term for Hmong in China)
+| lc9              = hea
+| ld9              = Northern Qiandong Miao
+| lc10             = hma
+| ld10             = Southern Mashan Miao
+| lc11             = hmc
+| ld11             = Central Huishui Miao
+| lc12             = hmd
+| ld12             = Large Flowery Miao
+| lc13             = hme
+| ld13             = Eastern Huishui Miao
+| lc14             = hmg
+| ld14             = Southwestern Guiyang Miao
+| lc15             = hmh
+| ld15             = Southwestern Huishui Miao
+| lc16             = hmi
+| ld16             = Northern Huishui Miao
+| lc17             = hmj
+| ld17             = Ge (''Chonganjiang Miao'')
+| lc19             = hml
+| ld19             = Luopohe Miao
+| lc20             = hmm
+| ld20             = Central Mashan Miao
+| lc21             = hmp
+| ld21             = Northern Mashan Miao
+| lc22             = hmq
+| ld22             = Eastern Qiandong Miao
+| lc24             = hms
+| ld24             = Southern Qiandong Miao
+| lc25             = hmw
+| ld25             = Western Mashan Miao
+| lc26             = hmy
+| ld26             = Southern Guiyang Miao
+| lc27             = huj
+| ld27             = Northern Guiyang Miao
+| lc28             = muq
+| ld28             = Eastern Xiangxi Miao
+| lc29             = mmr
+| ld29             = Western Xiangxi Miao
+| glotto           = firs1234
+| glottorefname    = First Vernacular Hmong
+| lingua           = 48-AAA-a
+| notice           = IPA
+}}
+{{Contains special characters
+| special    = Pahawh Hmong [[Unicode]] characters
+| fix        = Help:Multilingual support
+| error      = [[Specials (Unicode block)#Replacement character|question marks, boxes, or other symbols]]
+| characters = the [[Pahawh Hmong]] characters
+| image      = Kab_Ntsab.png
+| link       = Specials (Unicode block)#Replacement character
+| alt        = <𖬖𖬲 𖬖𖬲𖬝>
+| compact    = 
+}}
+
+'''Hmong / Mong''' ({{IPAc-en|ˈ|m|ʌ|ŋ|}}; [[Romanized Popular Alphabet|RPA]]: ''Hmoob,'' {{IPA-Hmn|m̥ɔ̃́|}}; [[Nyiakeng Puachue Hmong|Nyiakeng Puachue]]: {{script|Hmnp|𞄀𞄩𞄰}}; [[Pahawh]]: {{script|Hmng|𖬌𖬣𖬵}}, {{IPA-Hmn|m̥ɔ̃́|}}) is a [[dialect continuum]] of the [[West Hmongic]] branch of the [[Hmongic languages]] spoken by the [[Hmong people|Hmong People]] of [[Sichuan]], [[Yunnan]], [[Guizhou]], [[Guangxi]], [[Hainan]], northern [[Vietnam]], [[Thailand]], and [[Laos]].<ref>{{Cite book|last=Ratliff |first=Martha |year=1992 |title=Meaningful Tone: A Study of Tonal Morphology in Compounds, Form Classes, and Expressive Phrases in White Hmong |location=Dekalb, Illinois |publisher=Center for Southeast Asian Studies, Northern Illinois University}}</ref> There are some 2.7 million speakers of varieties that are largely mutually intelligible, including over 280,000 [[Hmong Americans]] as of 2013.<ref>{{cite web |url=https://www.census.gov/prod/cen2010/briefs/c2010br-11.pdf |title=The Asian Population: 2010 |author=Elizabeth M. Hoeffel |author2=Sonya Rastogi |author3=Myoung Ouk Kim |author4=Hasan Shahid |date=March 2012 |work=2010 Census Briefs |publisher=United States Census Bureau |access-date=20 March 2013}}</ref> Over half of all Hmong speakers speak the various dialects in China, where the Dananshan (大南山) dialect forms the basis of the standard language.<ref>Not of Chinese Miao as a whole for which the standard language is based on [[Hmu language|Hmu]]</ref> However, Hmong Daw (White) and Mong Njua (Green) are widely known only in Laos and the United States; Dananshan is more widely known in the native region of Hmong.
+
+==Varieties==
+[[Hmong Njua]] (Hmoob Ntsuab) and [[Hmong Daw]] (Hmoob Dawb) are part of a dialect cluster known in China as ''Chuanqiandian Miao'', that is, "Sichuan–Guizhou–Yunnan Miao", called the "Chuanqiandian cluster" in English (or "Miao cluster" in other languages) as West Hmongic is also called ''Chuanqiandian'', while the variety spoken from Sichuan in China to Thailand and Laos is referred to as the "First Local Variety" ({{lang|zh-cn|第一土语}}) of the cluster. Mong Njua and Hmong Daw are just those varieties of the cluster that migrated to Laos; the Western names ''Mong Njua'', ''Mong Leng'', ''Hmong Dleu/Der'', and ''Hmong Daw'' are also used in China for various dialects of the Chuanqiandian Miao cluster.
+
+Ethnologue once distinguished only the Laotian varieties ([[Hmong Daw]], [[Mong Njua]]), Sinicized Miao ([[Hmong Shua]]), and the Vietnamese varieties ([[Hmong Dô]], [[Hmong Don]]). The Vietnamese varieties are very poorly known; population estimates are not even available. In 2007, Horned Miao, [[Small Flowery Miao]], and the Chuanqiandian cluster of China were split off from Mong Njua [blu].<ref>{{cite web|url=http://www.sil.org/iso639-3/chg_detail.asp?id=2007-188|title=2007-188 - ISO 639-3|website=www.sil.org}}</ref> These varieties are as follows, along with some alternative names ('Ch.' = Chinese name, 'auto.' = autonym [self name]):
+* Hmong/Mong/[[Chuanqiandian Miao]] (China, Laos) macrolanguage (also spoken by minorities in Thailand and the United States) including:
+** [[Hmong Daw]] (White Miao, Ch. ''Bai Miao'', auto. ''Hmoob Dawb''; Forest Miao, ''Hmong Rongd''; ''Hmong Dleu / Hmongb Dleub''; in the US, “White Hmong”, frequently just “Hmong”, auto. ''Hmong Der'');
+** [[Mong Njua]] (Blue Miao, Green Miao, Ch. ''Qing Miao''; ''Hmoob Ntsuab / Hmongb Nzhuab''; in the US, also “Blue/Green Hmong”, ''Mong Leng'' / ''Len'', auto. ''Moob Leeg''; ''Hmongb Shib'')
+** [[Hmong Shua]] (Sinicized Miao, auto. ''Hmongb Shuat'');
+** [[Horned Miao]] (Ch. ''Jiao Miao'', auto. ''Hmo'' or ''A-Hmo'');
+** [[Small Flowery Miao]];
+** the part of the Chuanqiandian Miao cluster located in China.
+* Individual Hmong languages of Vietnam, not considered part of the China/Laos macrolanguage, and possibly forming their own distinct macrolanguage; they are still not very well classified even if they are described by Ethnologue as having a vigorous use (in Vietnam) but without population estimates; they have most probably been influenced by [[Vietnamese language|Vietnamese]], as well as [[French language|French]] (in the former [[French Indochina|Indochina]] colonies) and later by [[American English]], and they may be confused with varieties spoken by minorities living today in the United States, Europe or elsewhere in Asia (where their varieties may have been assimilated locally, but separately in each area, with other Hmong varieties imported from Laos and China) :
+** Hmong Dô (Vietnam);
+** Hmong Don (Vietnam, assumed).
+
+The [[Centers for Disease Control and Prevention]] (CDC) stated that the White and Green dialects "are said to be mutually intelligible to a well-trained ear, with pronunciation and vocabulary differences analogous to the differences between [[British English|British]] and [[American English]]."<ref name=Chap2Overview>"[https://www.cdc.gov/tb/publications/guidestoolkits/ethnographicguides/hmong/chapters/chapter2.pdf Chapter 2. Overview of Lao Hmong Culture]." ([https://www.webcitation.org/6GOsUnMa7?url=http://www.cdc.gov/tb/publications/guidestoolkits/ethnographicguides/hmong/chapters/chapter2.pdf Archive]) ''Promoting Cultural Sensitivity: Hmong Guide''. [[Centers for Disease Control and Prevention]]. p. 14. Retrieved on May 5, 2013.</ref>
+
+Many of the above names used outside (White Miao, Blue/Green Miao, Flowery Miao, Mong Leng, etc.) are also used in China. Several Chinese varieties may be more distinct than the varieties listed above:
+* Dananshan Miao (Hmong Dou, auto. ''Hmong Drout Raol, Hmong Hout Lab''), the basis of the Chinese standard of the Chuanqiandian cluster
+* Black Miao (Ch. ''Hei Miao'', auto. of subgroups: ''Hmong Dlob, Hmong Buak / Hmoob Puas'')<ref>Note however that "Black Miao" is more commonly used for [[Hmu language|Hmu]].</ref>
+* Southern Hmong (auto. of subgroups: ''Hmongb Shib, Hmongb Nzhuab, Hmongb Lens, Hmongb Dlex Nchab, Hmongb Sad''; includes some of Mong Njua above)
+* Northern Hmong (auto. of subgroups: ''Hmongb Soud, Hmong Be / Hmongb Bes, Hmongb Ndrous'')
+* Western Sichuan Miao (Ch. ''Chuan Miao'')
+
+In the 2007 request to establish an ISO code for the Chuanqiandian cluster, corresponding to the "first local dialect" ({{lang|zh-cn|第一土语}}) of the Chuanqiandian cluster in Chinese, the proposer made the following statement on mutual intelligibility:
+{{quote|A colleague has talked with speakers of a number of these {{sic|hide=y|closely|-}}related lects in the US, in Thailand and in China, and has had many discussions with Chinese linguists and foreign researchers or community development workers who have had extensive contact with speakers of these lects. As a result of these conversations this colleague believes that many of these lects are likely to have high inherent mutual intelligibility within the cluster. Culturally, while each sub-group prides itself on its own distinctives, they also recognize that other sub-groups within this category are culturally similar to themselves and accept the others as members of the same general ethnic group. However, this category of lects is internally varied and geographically scattered and mixed over a broad land area, and comprehensive intelligibility testing would be required to confirm reports of mutual intelligibility throughout the cluster.<ref>{{cite web|url=http://www.sil.org/iso639-3/cr_files/2007-188_cqd.pdf |title=ISO 639-3 New Code Request |access-date=2018-09-30}}</ref>}}
+
+===Varieties in Laos===
+According to the CDC, "although there is no official preference for one dialect over the other, White Hmong seems to be favored in many ways":<ref name=Chap2Overview/> the [[Romanized Popular Alphabet]] (RPA) most closely reflects that of White Hmong (''Hmong Daw''); most educated Hmong speak White Hmong; and most Hmong dictionaries only include the White Hmong dialect. Moreover, younger generations of Hmong are more likely to speak White Hmong, and speakers of Blue/Green Hmong (''Mong Njua'') are more likely to learn White Hmong than speakers of White Hmong are to learn Blue/Green Hmong.<ref name=Chap2Overview/>
+
+===Varieties in the United States===
+Most Hmong in the United States speak the White Hmong (''Hmong Daw'') and Hmong Leeg (''Moob Leeg'') dialects, with about sixty percent speaking White Hmong and about forty percent Hmong Leeg. The [[Centers for Disease Control and Prevention|CDC]] states that "though some Hmong report difficulty understanding speakers of a dialect not their own, for the most part, White and Hmong Leeg speakers seem to understand one another".<ref name=Chap2Overview/>
+
+==Phonology==
+The three dialects described here are known as Hmong Daw (also called White Miao or ''Hmong Der''),<ref>{{Cite book|last=Golston |first=Chris |author2=Phong Yang |editor=C. Féry |editor2=A. D. Green |editor3=R. van de Vijver |title=Proceedings of HILP 5 |edition=Linguistics in Potsdam 12 |year=2001 |publisher=University of Potsdam |location=Potsdam |isbn=3-935024-27-4 |pages=40–57 |chapter=Hmong loanword phonology}} [http://zimmer.csufresno.edu/~chrisg/index_files/Golston%26Yang.pdf]</ref> Mong Leeg (also called Leng Miao or ''Mong Leng''),<ref>Smalley, William et al. Mother of Writing. Chicago: University of Chicago Press, 1990. p. 48-51. See also: Mortensen, David. [http://www.pitt.edu/~drm31/mong_leng_phonology.pdf “Preliminaries to Mong Leng (Mong Njua) Phonology”] Unpublished, UC Berkeley. 2004. {{webarchive |url=https://web.archive.org/web/20121029161008/http://www.pitt.edu/~drm31/mong_leng_phonology.pdf |date=29 October 2012}}</ref> and Dananshan (Standard Chinese Miao).<ref>王辅世主编，《苗语简志》，民族出版社，1985年。</ref> Hmong Daw and Mong Leeg are the two major dialects spoken by Hmong Americans. Although mutually intelligible, the dialects differ in both lexicon and certain aspects of phonology. For instance, Mong Leeg lacks the voiceless/aspirated {{IPA|/m̥/}} of Hmong Daw (as exemplified by their names) and has a third nasalized vowel, {{IPA|/ã/}}; Dananshan has a couple of extra diphthongs in native words, numerous Chinese loans, and an eighth tone.
+
+===Vowels===
+The [[vowel]] systems of <span style="background:#EEE8AA">Hmong Daw</span> and <span style="background:#CAFF70">Mong Leeg</span> are as shown in the following charts. Phonemes particular to each dialect are color-coded respectively:<ref>{{cite web |url=http://www.hmongdictionary.com/vowel.php |title = Hmong Dictionary - Dictionary Hmong}}</ref>
+
+# 1st Row: IPA, Hmong RPA
+# 2nd Row: Nyiakeng Puachue
+# 3rd Row: Pahawh
+
+{|class="wikitable"
+|+[[Monophthong]]s
+! rowspan=2 |
+! colspan=2|[[Front vowel|Front]]
+! colspan=2|[[Central vowel|Central]]
+! colspan=2|[[Back vowel|Back]]
+|-
+!<small>oral</small>
+!<small>nasal</small>
+!<small>oral</small>
+!<small>nasal</small>
+!<small>oral</small>
+!<small>nasal</small>
+|-
+![[Close vowel|Close]]
+| align=center | {{IPA|i}} ⟨i⟩ <br /><big>{{Script|Hmng|𖬂, 𖬃}}</big> ||
+| align=center | {{IPA|ɨ}} ⟨w⟩ <br /><big>{{Script|Hmng|𖬘, 𖬙}}</big>  ||
+| align=center | {{IPA|u}} ⟨u⟩ <br /><big>{{Script|Hmng|𖬆, 𖬇}}</big> ||
+|-
+![[Mid vowel|Mid]]
+| align=center | {{IPA|e}} ⟨e⟩ <br /><big>{{Script|Hmng|𖬈, 𖬉}}</big> || align="center" |{{IPA|ẽ~eŋ}} ⟨ee⟩ <br /><big>{{Script|Hmng|𖬀, 𖬁}}</big>
+| ||
+| ||
+|-
+![[Open vowel|Open]]
+| ||
+| align=center | {{IPA|a}} ⟨a⟩ <br /><big>{{Script|Hmng|𖬖, 𖬗}}</big> || style="background:#caff70; text-align:center;" |{{IPA|ã~aŋ}} ⟨aa⟩ <br /><big>{{Script|Hmng|𖬚, 𖬛}}</big>
+| align=center | {{IPA|ɒ}} ⟨o⟩ <br /><big>{{Script|Hmng|𖬒, 𖬓}}</big> || align="center" |{{IPA|ɔ̃~ɔŋ}} ⟨oo⟩ <br /><big>{{Script|Hmng|𖬌, 𖬍}}</big>
+|}
+
+{|class="wikitable"
+|+ Diphthongs
+!
+! Closing
+! Centering
+|-
+| '''Close component is front'''
+| align=center | {{IPA|ai}} ⟨ai⟩ <br />{{Script|Hmnp|𞄤𞄦, 𞄣}}<br /><big>{{Script|Hmng|𖬊, 𖬋}}</big>
+|  style="background:#eee8aa; text-align:center;"| {{IPA|iə}} ⟨ia⟩ <br />{{Script|Hmnp|𞄦𞄤, 𞄞}}<br /><big>{{Script|Hmng|𖬔, 𖬕}}</big>
+|-
+| '''Close component is central'''
+| align=center | {{IPA|aɨ}} ⟨aw⟩ <br />{{Script|Hmnp|𞄤𞄬, 𞄢}}<br /><big>{{Script|Hmng|𖬎, 𖬏}}</big>
+|
+|-
+| '''Close component is back'''
+| align=center | {{IPA|au}} ⟨au⟩ <br />{{Script|Hmnp|𞄤𞄨, 𞄠}}<br /><big>{{Script|Hmng|𖬄, 𖬅}}</big>
+| align=center | {{IPA|uə}} ⟨ua⟩ <br />{{Script|Hmnp|𞄧𞄤, 𞄜}}<br /><big>{{Script|Hmng|𖬐, 𖬑}}</big>
+|}
+
+The Dananshan standard of China is similar. Phonemic differences from Hmong Daw and Mong Leeg are <span style="background:#EECCE8">color-coded</span>.
+{|class="wikitable"
+|+ Dananshan Miao vowels
+! rowspan=2 |
+! colspan=2|[[Front vowel|Front]]
+! colspan=2|[[Central vowel|Central]]
+! colspan=2|[[Back vowel|Back]]
+|-
+!<small>oral</small>
+!<small>nasal</small>
+!<small>oral</small>
+!<small>nasal</small>
+!<small>oral</small>
+!<small>nasal</small>
+|-
+![[Close vowel|Close]]
+| align=center | {{IPA|i}} ||
+|  style="text-align:center; background:#eecce8;"| ({{IPA|ɨ}}) ||
+| align=center | {{IPA|u}} ||
+|-
+![[Mid vowel|Mid]]
+| align=center | {{IPA|e}} || align=center | {{IPA|en}}
+| ||
+| align=center | {{IPA|o}} || align=center | {{IPA|oŋ}}
+|-
+![[Open vowel|Open]]
+| ||
+| align=center | {{IPA|a}} || {{IPA|aŋ}}
+| ||
+|}
+
+{|class="wikitable"
+|+ Diphthongs
+!
+! Closing
+! Centering
+|-
+| '''Close component is front'''
+| align=center | {{IPA|aj}} {{angbr|ai}}
+|  style="text-align:center; background:#eecce8;"|
+|-
+| rowspan=2| '''Close component is back'''
+| align=center | {{IPA|aw}} {{angbr|au}}
+| align=center | {{IPA|wɒ}} {{angbr|ua}}
+|-
+|  style="text-align:center; background:#eecce8;"| {{IPA|əw}} {{angbr|ou}}<br/>{{IPA|eβ}} {{angbr|eu}}
+| align=center |
+|}
+Dananshan {{IPA|[ɨ]}} occurs only after non-palatal affricates, and is written {{angbr|i}}, much like Mandarin Chinese.<!-- not just in Chinese loans --> {{IPA|/u/}} is pronounced {{IPA|[y]}} after palatal consonants. There is also a triphthong {{IPA|/jeβ/}} {{angbr|ieu}}, as well as other i- and u-initial sequences in Chinese borrowings, such as {{IPA|/je, waj, jaw, wen, waŋ/}}.
+
+===Consonants===
+Hmong makes a number of [[phoneme|phonemic]] contrasts unfamiliar to English speakers. All non-glottal [[Stop consonant|stops]] and [[Affricate consonant|affricates]] distinguish [[aspiration (phonetics)|aspirated]] and unaspirated forms, most also [[prenasalization]] independently of this. The [[consonant]] inventory of Hmong is shown in the chart below. (Consonants particular to <span style="background:#EEE8AA">Hmong Daw</span> and <span style="background:#CAFF70">Mong Leeg</span> are color-coded respectively.)
+
+#1st Row: IPA, Hmong RPA
+#2nd Row: Nyiakeng Puachue
+#3rd Row: Pahawh
+
+{| class="wikitable" style="text-align: center"
+|+ Hmong Daw and Mong Leeg consonants
+! colspan="2" rowspan="2" |
+! colspan="2" | [[Bilabial consonant|Bilabial]]
+! rowspan="2" | [[Labiodental consonant|Labio-<br/>dental]]
+! colspan="2" | [[dental consonant|Dental]]
+! rowspan="2" | [[Retroflex consonant|Retroflex]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! rowspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Uvular consonant|Uvular]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! <small>plain</small>
+! <small>[[lateral release (phonetics)|lateral]]</small>{{ref|l|*}}
+! <small>plain</small>
+! <small>[[lateral consonant|lateral]]</small>{{ref|l|*}}
+|-
+! rowspan="2" |[[Nasal stop|Nasal]]
+! <small>[[voicelessness|voiceless]]</small>
+| style="background:#EEE8AA" | {{IPA|m̥}} {{angbr|hm}}<br />{{Script|Hmnp|𞄀𞄄}}<br /><big>{{Script|Hmng|𖬣𖬵}}</big>
+| style="background:#EEE8AA" | ({{IPA|m̥ˡ}}) {{angbr|hml}}<br />{{Script|Hmnp|𞄠𞄄}}<br /><big>{{Script|Hmng|𖬠𖬰}}</big>
+| 
+| style="background:#EEE8AA" | {{IPA|n̥}} {{angbr|hn}}<br />{{Script|Hmnp|𞄅𞄄}}<br /><big>{{Script|Hmng|𖬩}}</big>
+| 
+| 
+| style="background:#EEE8AA" | {{IPA|ɲ̥}} {{angbr|hny}}<br />{{Script|Hmnp|𞄐𞄄}}<br /><big>{{Script|Hmng|𖬣𖬰 }}</big>
+| 
+| 
+|
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA|m}} {{angbr|m}}<br />{{Script|Hmnp|𞄀}}<br /><big>{{Script|Hmng|𖬦}}</big>
+| ({{IPA|mˡ}}) {{angbr|ml}}<br />{{Script|Hmnp|𞄠}}<br /><big>{{Script|Hmng|𖬠}}</big>
+| 
+| {{IPA|n}} {{angbr|n}}<br />{{Script|Hmnp|𞄅}}<br /><big>{{Script|Hmng|𖬬}}</big>
+| 
+| 
+| {{IPA|ɲ}} {{angbr|ny}}<br />{{Script|Hmnp|𞄐}}<br /><big>{{Script|Hmng|𖬮𖬵}}</big>
+| 
+| 
+|
+|-
+! rowspan="5" |[[Plosive consonant|Plosive]]
+! <small>tenuis</small>
+| {{IPA|p}} {{angbr|p}}<br />{{Script|Hmnp|𞄚}}<br /><big>{{Script|Hmng|𖬪𖬵}}</big>
+| ({{IPA|pˡ}}) {{angbr|pl}}<br />{{Script|Hmnp|𞄡}}<br /><big>{{Script|Hmng|𖬟𖬵}}</big>
+| 
+| {{IPA|t}} {{angbr|t}}<br />{{Script|Hmnp|𞄃}}<br /><big>{{Script|Hmng|𖬧𖬵}}</big>
+| style="background:#CAFF70" | ({{IPA|tˡ}}) {{angbr|dl}}<br />{{Script|Hmnp|𞄏}}<br /><big>{{Script|Hmng|𖬭}}</big>
+| {{IPA|ʈ}} {{angbr|r}}<br />{{Script|Hmnp|𞄖}}<br /><big>{{Script|Hmng|𖬡}}</big>
+| {{IPA|ɟ}} {{angbr|c}}<br />{{Script|Hmnp|𞄈}}<br /><big>{{Script|Hmng|𖬯}}</big>
+| {{IPA|k}} {{angbr|k}}{{ref|k|***}}<br />{{Script|Hmnp|𞄎}}
+| {{IPA|q}} {{angbr|q}}<br />{{Script|Hmnp|𞄗}}<br /><big>{{Script|Hmng|𖬦𖬵}}</big>
+| {{IPA|ʔ}} {{angbr|au}}<br />{{Script|Hmnp|𞄠}}<br /><big>{{Script|Hmng|𖬮𖬰}}</big>
+|-
+! <small>[[aspiration (phonetics)|aspirated]]</small>
+| {{IPA|pʰ}} {{angbr|ph}}<br />{{Script|Hmnp|𞄚𞄄}}<br /><big>{{Script|Hmng|𖬝𖬵}}</big>
+| ({{IPA|pˡʰ}}) {{angbr|plh}}<br />{{Script|Hmnp|𞄡𞄄}}<br /><big>{{Script|Hmng|𖬪}}</big>
+| 
+| {{IPA|tʰ}} {{angbr|th}}<br />{{Script|Hmnp|𞄃𞄄}}<br /><big>{{Script|Hmng|𖬟𖬰}}</big>
+| style="background:#CAFF70" |({{IPA|tˡʰ}}) {{angbr|dlh}}<br />{{Script|Hmnp|𞄏𞄄}}<br /><big>{{Script|Hmng|𖬭𖬴}}</big>
+| {{IPA|ʈʰ}} {{angbr|rh}}<br />{{Script|Hmnp|𞄖𞄄}}<br /><big>{{Script|Hmng|𖬢𖬵}}</big>
+| {{IPA|cʰ}} {{angbr|ch}}<br />{{Script|Hmnp|𞄈𞄄}}<br /><big>{{Script|Hmng|𖬧}}</big>
+| {{IPA|kʰ}} {{angbr|kh}}<br />{{Script|Hmnp|𞄎𞄄}}<br /><big>{{Script|Hmng|𖬩𖬰}}</big>
+| {{IPA|qʰ}} {{angbr|qh}}<br />{{Script|Hmnp|𞄗𞄄}}<br /><big>{{Script|Hmng|𖬣}}</big>
+| 
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| 
+| 
+| 
+| style="background:#EEE8AA" | {{IPA|d}} {{angbr|d}}<br />{{Script|Hmnp|𞄏}}<br /><big>{{Script|Hmng|𖬞𖬰}}</big>
+| {{IPA|dʱ}} {{angbr|dh}}<br />{{Script|Hmnp|𞄏𞄄}}<br /><big>{{Script|Hmng|𖬞𖬵}}</big>
+| 
+| 
+| 
+| 
+|
+|-
+! rowspan="2" |<small>[[prenasalization|prenasalized]]</small>{{ref|nd|**}}
+| {{IPA|ᵐb}} {{angbr|np}}<br />{{Script|Hmnp|𞄜}}<br /><big>{{Script|Hmng|𖬨𖬵}}</big>
+| ({{IPA|ᵐbˡ}}) {{angbr|npl}}<br />{{Script|Hmnp|𞄞}}<br /><big>{{Script|Hmng|𖬫𖬰}}</big>
+| 
+| style="background:#EEE8AA" | {{IPA|ⁿd}} {{angbr|nt}}<br />{{Script|Hmnp|𞄂}}<br /><big>{{Script|Hmng|𖬩𖬵}}</big>
+| style="background:#CAFF70" | ({{IPA|ⁿdˡ}}) {{angbr|ndl}}<br />{{Script|Hmnp|𞄝}}<br /><big>{{Script|Hmng|𖬭𖬰}}</big>
+| {{IPA|ᶯɖ}} {{angbr|nr}}<br />{{Script|Hmnp|𞄑}}<br /><big>{{Script|Hmng|𖬜𖬰}}</big>
+| {{IPA|ᶮɟ}} {{angbr|nc}}<br />{{Script|Hmnp|𞄌}}<br /><big>{{Script|Hmng|𖬤𖬰}}</big>
+| {{IPA|ᵑɡ}} {{angbr|nk}}<br />{{Script|Hmnp|𞄇}}<br /><big>{{Script|Hmng|𖬢}}</big>
+| {{IPA|ᶰɢ}} {{angbr|nq}}<br />{{Script|Hmnp|𞄙}}<br /><big>{{Script|Hmng|𖬬𖬰}}</big>
+|
+|-
+| {{IPA|ᵐpʰ}} {{angbr|nph}}<br />{{Script|Hmnp|𞄜𞄄}}<br /><big>{{Script|Hmng|𖬡𖬰}}</big>
+| ({{IPA|ᵐpˡʰ}}) {{angbr|nplh}}<br />{{Script|Hmnp|𞄞𞄄}}<br /><big>{{Script|Hmng|𖬡𖬵}}</big>
+| 
+| style="background:#EEE8AA" | {{IPA|ⁿtʰ}} {{angbr|nth}}<br />{{Script|Hmnp|𞄂𞄄}}<br /><big>{{Script|Hmng|𖬫}}</big>
+| style="background:#CAFF70" | ({{IPA|ⁿtˡʰ}}) {{angbr|ndlh}}<br />{{Script|Hmnp|𞄝𞄄}}<br /><big>{{Script|Hmng|𖬭𖬵}}</big>
+| {{IPA|ᶯʈʰ}} {{angbr|nrh}}<br />{{Script|Hmnp|𞄑𞄄}}<br /><big>{{Script|Hmng|𖬨𖬰}}</big>
+| {{IPA|ᶮcʰ}} {{angbr|nch}}<br />{{Script|Hmnp|𞄌𞄄}}<br /><big>{{Script|Hmng|𖬨}}</big>
+| {{IPA|ᵑkʰ}} {{angbr|nkh}}<br />{{Script|Hmnp|𞄇𞄄}}<br /><big>{{Script|Hmng|𖬫𖬵}}</big>
+| {{IPA|ᶰqʰ}} {{angbr|nqh}}<br />{{Script|Hmnp|𞄙𞄄}}<br /><big>{{Script|Hmng|𖬬𖬵}}</big>
+|
+|-
+! rowspan="4"|[[Affricate consonant|Affricate]]
+! <small>tenuis</small>
+| 
+| 
+| 
+| {{IPA|ts}} {{angbr|tx}}<br />{{Script|Hmnp|𞄔}}<br /><big>{{Script|Hmng|𖬯𖬵}}</big>
+| 
+| {{IPA|tʂ}} {{angbr|ts}}<br />{{Script|Hmnp|𞄁}}<br /><big>{{Script|Hmng|𖬝𖬰}}</big>
+| 
+| 
+| 
+|
+|-
+! <small>[[aspiration (phonetics)|aspirated]]</small>
+| 
+| 
+| 
+| {{IPA|tsʰ}} {{angbr|txh}}<br />{{Script|Hmnp|𞄔𞄄}}<br /><big>{{Script|Hmng|𖬦𖬰}}</big>
+| 
+| {{IPA|tʂʰ}} {{angbr|tsh}}<br />{{Script|Hmnp|𞄁𞄄}}<br /><big>{{Script|Hmng|𖬪𖬰}}</big>
+| 
+| 
+| 
+|
+|-
+! rowspan="2"|<small>[[prenasalization|prenasalized]]</small>{{ref|nd|**}}
+| 
+| 
+| 
+| {{IPA|ⁿdz}} {{angbr|ntx}}<br />{{Script|Hmnp|𞄓}}<br /><big>{{Script|Hmng|𖬢𖬰}}</big>
+| 
+| {{IPA|ᶯdʐ}} {{angbr|nts}}<br />{{Script|Hmnp|𞄍}}<br /><big>{{Script|Hmng|𖬝}}</big>
+| 
+| 
+| 
+|
+|-
+| 
+| 
+| 
+| {{IPA|ⁿtsʰ}} {{angbr|ntxh}}<br />{{Script|Hmnp|𞄓𞄄}}<br /><big>{{Script|Hmng|𖬥𖬵}}</big>
+| 
+| {{IPA|ᶯtʂʰ}} {{angbr|ntsh}}<br />{{Script|Hmnp|𞄍𞄄}}<br /><big>{{Script|Hmng|𖬯𖬰}}</big>
+| 
+| 
+| 
+|
+|-
+! rowspan="2" |[[Continuant]]
+! <small>[[voicelessness|voiceless]]</small>
+| 
+| 
+| {{IPA|f}} {{angbr|f}}<br />{{Script|Hmnp|𞄕}}<br /><big>{{Script|Hmng|𖬜𖬵}}</big>
+| {{IPA|s}} {{angbr|x}}<br />{{Script|Hmnp|𞄆}}<br /><big>{{Script|Hmng|𖬮}}</big>
+| {{IPA|l̥}} {{angbr|hl}}<br />{{Script|Hmnp|𞄄𞄉}}<br /><big>{{Script|Hmng|𖬥}}</big>
+| {{IPA|ʂ}} {{angbr|s}}<br />{{Script|Hmnp|𞄊}}<br /><big>{{Script|Hmng|𖬤𖬵}}</big>
+| {{IPA|ɕ}} {{angbr|xy}}<br />{{Script|Hmnp|𞄛}}<br /><big>{{Script|Hmng|𖬧𖬰}}</big>
+| 
+| 
+| {{IPA|h}} {{angbr|h}}<br />{{Script|Hmnp|𞄄}}<br /><big>{{Script|Hmng|𖬟}}</big>
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| 
+| 
+| {{IPA|v}} {{angbr|v}}<br />{{Script|Hmnp|𞄒}}<br /><big>{{Script|Hmng|𖬜}}</big>
+| 
+| {{IPA|l}} {{angbr|l}}<br />{{Script|Hmnp|𞄉}}<br /><big>{{Script|Hmng|𖬞}}</big>
+| {{IPA|ʐ}} {{angbr|z}}<br />{{Script|Hmnp|𞄋}}<br /><big>{{Script|Hmng|𖬥𖬰}}</big>
+| {{IPA|ʝ}} {{angbr|y}}<br />{{Script|Hmnp|𞄘}}<br /><big>{{Script|Hmng|𖬤}}</big>
+| 
+| 
+|
+|}
+
+
+The Dananshan standard of China is similar. (Phonemic differences from Hmong Daw and Mong Leeg are <span style="background:#EECCE8">color-coded</span>. Minor differences, such as the voicing of prenasalized stops, or whether {{IPA|/c/}} is an affricate or {{IPA|/h/}} is velar, may be a matter of transcription.) Aspirates, voiceless fricatives, voiceless nasals, and glottal stop only occur with ''yin'' tones (1, 3, 5, 7). Standard orthography is added in [[brackets#Angled bracket|angled brackets]]. Glottal stop is not written; it is not distinct from a zero initial. There is also a {{IPA|/w/}}, which occurs only in foreign words.
+
+{| class="wikitable" style="text-align: center"
+|+ Dananshan Miao consonants
+! colspan="2" rowspan="2" |
+! colspan="2" | [[Bilabial consonant|Bilabial]]
+! rowspan="2" | [[Labiodental consonant|Labio-<br/>dental]]
+! colspan="2" | [[dental consonant|Dental]]
+! rowspan="2" | [[Retroflex consonant|Retroflex]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! rowspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Uvular consonant|Uvular]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! <small>plain</small>
+! <small>[[lateral release (phonetics)|lateral]]</small>{{ref|l|*}}
+! <small>plain</small>
+! <small>[[lateral release (phonetics)|lateral]]</small>{{ref|l|*}}
+|-
+! rowspan="2" |[[Nasal consonant|Nasal]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPA|m̥}} {{angbr|hm}}
+| style="background:#EECCE8" |
+|
+| {{IPA|n̥}} {{angbr|hn}}
+|
+|
+| {{IPA|ɲ̥}} {{angbr|hni}}
+|
+|
+|
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA|m}} {{angbr|m}}
+| style="background:#EECCE8" |
+|
+| {{IPA|n}} {{angbr|n}}
+|
+|
+| {{IPA|ɲ}} {{angbr|ni}}
+| style="background:#EECCE8" | {{IPA|ŋ}} {{angbr|ngg}}
+|
+|
+|-
+! rowspan="5" |[[Plosive consonant|Plosive]]
+! <small>tenuis</small>
+| {{IPA|p}} {{angbr|b}}
+| ({{IPA|pˡ}}) {{angbr|bl}}
+|
+| {{IPA|t}} {{angbr|d}}
+| ({{IPA|tˡ}}) {{angbr|dl}}
+| {{IPA|ʈ}} {{angbr|dr}}
+|
+| {{IPA|k}} {{angbr|g}}
+| {{IPA|q}} {{angbr|gh}}
+| ({{IPA|ʔ}})
+|-
+! <small>[[aspiration (phonetics)|aspirated]]</small>
+| {{IPA|pʰ}} {{angbr|p}}
+| ({{IPA|pˡʰ}}) {{angbr|pl}}
+|
+| {{IPA|tʰ}} {{angbr|t}}
+| ({{IPA|tˡʰ}}) {{angbr|tl}}
+| {{IPA|ʈʰ}} {{angbr|tr}}
+|
+| {{IPA|kʰ}} {{angbr|k}}
+| {{IPA|qʰ}} {{angbr|kh}}
+|
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+|
+|
+|
+| style="background:#EECCE8" | 
+|
+|
+|
+|
+|
+|
+|-
+! rowspan="2" |<small>[[prenasalization|prenasalized]]</small>{{ref|nd|**}}
+| {{IPA|ᵐp}} {{angbr|nb}}
+| ({{IPA|ᵐpˡ}}) {{angbr|nbl}}
+|
+| {{IPA|ⁿt}} {{angbr|nd}}
+| style="background:#EECCE8" |
+| {{IPA|ᶯʈ}} {{angbr|ndr}}
+|
+| {{IPA|ᵑk}} {{angbr|ng}}
+| {{IPA|ᶰq}} {{angbr|ngh}}
+|
+|-
+| {{IPA|ᵐpʰ}} {{angbr|np}}
+| ({{IPA|ᵐpˡʰ}}) {{angbr|npl}}
+|
+| {{IPA|ⁿtʰ}} {{angbr|nt}}
+| style="background:#EECCE8" |
+| {{IPA|ᶯʈʰ}} {{angbr|ntr}}
+|
+| {{IPA|ᵑkʰ}} {{angbr|nk}}
+| {{IPA|ᶰqʰ}} {{angbr|nkh}}
+|
+|-
+! rowspan="4"|[[Affricate consonant|Affricate]]
+! <small>tenuis</small>
+|
+|
+|
+| {{IPA|ts}} {{angbr|z}}
+|
+| {{IPA|tʂ}} {{angbr|zh}}
+| {{IPA|tɕ}} {{angbr|j}}
+|
+|
+|
+|-
+! <small>[[aspiration (phonetics)|aspirated]]</small>
+|
+|
+|
+| {{IPA|tsʰ}} {{angbr|c}}
+|
+| {{IPA|tʂʰ}} {{angbr|ch}}
+| {{IPA|tɕʰ}} {{angbr|q}}
+|
+|
+|
+|-
+! rowspan="2"|<small>[[prenasalization|prenasalized]]</small>{{ref|nd|**}}
+|
+|
+|
+| {{IPA|ⁿts}} {{angbr|nz}}
+|
+| {{IPA|ᶯtʂ}} {{angbr|nzh}}
+| {{IPA|ⁿtɕ}} {{angbr|nj}}
+|
+|
+|
+|-
+|
+|
+|
+| {{IPA|ⁿtsʰ}} {{angbr|nc}}
+|
+| {{IPA|ᶯtʂʰ}} {{angbr|nch}}
+| {{IPA|ⁿtɕʰ}} {{angbr|nq}}
+|
+|
+|
+|-
+! rowspan="2" |[[Continuant]]
+! <small>[[voicelessness|voiceless]]</small>
+|
+|
+| {{IPA|f}} {{angbr|f}}
+| {{IPA|s}} {{angbr|s}}
+| {{IPA|l̥}} {{angbr|hl}}
+| {{IPA|ʂ}} {{angbr|sh}}
+| {{IPA|ɕ}} {{angbr|x}}
+| {{IPA|x}} {{angbr|h}}
+|
+|
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+|
+|
+| {{IPA|v}} {{angbr|v}}
+|
+| {{IPA|l}} {{angbr|l}}
+| {{IPA|ʐ}} {{angbr|r}}
+| {{IPA|ʑ}} {{angbr|y}}
+| ({{IPA|w}})
+|
+|
+|}
+
+{{note|l|*}} The status of the consonants described here as single phonemes with [[Lateral release (phonetics)|lateral release]] is controversial.  A number of scholars instead analyze them as biphonemic clusters with {{IPA|/l/}} as the second element.  The difference in analysis (e.g. between {{IPA|/pˡ/}} and {{IPA|/pl/}}) is not based on any disagreement in the sound or pronunciation of the consonants in question, but on differing theoretical grounds.  Those in favor of a unit-phoneme analysis generally argue for this based on distributional evidence (i.e. if clusters, these would be the only clusters in the language, although see below) and dialect evidence (the laterally released dentals in Mong Leeg, e.g. {{IPA|/tl/}}, correspond to the voiced dentals of White Hmong), whereas those in favor of a cluster analysis tend to argue on the basis of general phonetic principles (other examples of labial phonemes with lateral release appear extremely rare or nonexistent<ref>Even the landmark book [[The Sounds of the World's Languages]] specifically describes lateral release as involving a [[homorganic]] consonant.</ref>).
+
+{{note|nd|**}} Some linguists prefer to analyze the prenasalized consonants as clusters whose first element is {{IPA|/n/}}.  However, this cluster analysis is not as common as the above one involving {{IPA|/l/}}.
+
+{{note|k|***}}Only used in [[Hmong RPA]] and not in [[Pahawh Hmong]], since Hmong RPA uses [[latin]] and Pahawh Hmong doesn't use latin. For example, in Hmong RPA, to write "keeb," you have to follow the order Consonant + Vowel + Tone (CVT), so it is K + ee + b = Keeb, but in Pahawh Hmong, it is just Keeb "𖬀𖬶" (2nd-Stage Version).
+
+===Syllable structure===
+Hmong [[syllable]]s have a very simple structure: [[syllable onset|onsets]] are obligatory (except in a few particles), [[syllable nucleus|nuclei]] may consist of a monophthong or diphthong, and [[syllable coda|coda]] consonants apart from nasals are prohibited. In Hmong Daw and Mong Leeg, nasal codas have become nasal vowels, though they may be accompanied by a weak coda {{IPA|[ŋ]}}. Similarly, a weak coda {{IPA|[ʔ]}} may accompany the low-falling [[creaky voice|creaky]] tone.
+
+Dananshan has a syllabic {{IPA|/l̩/}} (written {{angbr|l}}) in Chinese loans, such as ''lf'' 'two' and ''lx'' 'child'.
+
+===Tones===
+Hmong is a [[tone language]] and makes use of seven (Hmong Daw and Mong Leeg) or eight (Dananshan) distinct [[tone (linguistics)|tones]].
+{|class="wikitable"
+|-
+! Tone
+! Hmong Daw example<ref>Examples taken from: Heimbach, Ernest H. White Hmong–English Dictionary [White Meo-English Dictionary]. 2003 ed. Ithaca, NY: Cornell Southeast Asia Program Publications, 1969. Note that many of these words have multiple meanings.</ref>
+! [[Romanized Popular Alphabet|Hmong/Mong RPA spelling]]
+!Vietnamese Hmong spelling
+! [[Nyiakeng Puachue Hmong|Nyiakeng Puachue]]
+! [[Pahawh Hmong]]
+|-
+| High {{IPA|˥}}
+| {{IPA|/pɔ́/}} 'ball'
+| po'''b'''
+|po'''z'''
+| 𞄚𞄨𞄰
+|𖬒𖬰𖬪𖬵
+|-
+| Mid {{IPA|˧}}
+| {{IPA|/pɔ/}} 'spleen'
+| po
+|po
+| 𞄚𞄨
+|𖬓𖬰𖬪𖬵
+|-
+| Low {{IPA|˩}}
+| {{IPA|/pɔ̀/}} 'thorn'
+| po'''s'''
+|po'''s'''
+| 𞄚𞄨𞄴
+|𖬓𖬲𖬪𖬵
+|-
+| High-falling {{IPA|˥˧}}
+| {{IPA|/pɔ̂/}} 'female'
+| po'''j'''
+|po'''x'''
+| 𞄚𞄨𞄲
+|𖬒𖬲𖬪𖬵
+|-
+| Mid-rising {{IPA|˧˦}}
+| {{IPA|/pɔ̌/}} 'to throw'
+| po'''v'''
+|po'''r'''
+| 𞄚𞄨𞄳
+|𖬒𖬶𖬪𖬵
+|-
+| Low checked ([[creaky voice|creaky]]) tone {{IPA|˩}} <br/>(phrase final: long low rising {{IPA|˨˩˧}})
+| {{IPA|/pɔ̰̀/}} 'to see'
+| po'''m'''
+|po'''v'''
+| 𞄚𞄨𞄱
+|𖬒𖬪𖬵
+|-
+| Mid-falling [[breathy voice|breathy]] tone  {{IPA|˧˩}}
+| {{IPA|/pɔ̤̂/}} 'grandmother'
+| po'''g'''
+|po'''l'''
+| 𞄚𞄨𞄵
+|𖬓𖬪𖬵
+|}
+
+The Dananshan tones are transcribed as pure tone. However, given how similar several of them are, it is likely that there are also phonational differences as in Hmong Daw and Mong Leeg. Tones 4 and 6, for example, are said to make [[tenuis consonant|tenuis]] plosives [[breathy voiced]] (浊送气), suggesting they may be breathy/murmured like the Hmong ''g''-tone. Tones 7 and 8 are used in early Chinese loans with [[entering tone]], suggesting they may once have marked checked syllables.
+
+Because voiceless consonants apart from tenuis plosives are restricted to appearing before certain tones (1, 3, 5, 7), those are placed first in the table:
+
+{|class="wikitable"
+|+ Dananshan Miao tone
+|-
+! Tone
+! IPA
+! Orthography
+|-
+| 1 high falling
+| {{IPA|˦˧}} 43
+| '''b'''
+|-
+| 3 top
+| {{IPA|˥}} 5
+| '''d'''
+|-
+| 5 high
+| {{IPA|˦}} 4
+| '''t'''
+|-
+| 7 mid
+| {{IPA|˧}} 3
+| '''k'''
+|-
+| 2 mid falling
+| {{IPA|˧˩}} 31
+| '''x'''
+|-
+| 4 low falling (breathy)
+| {{IPA|˨˩̤}} 21
+| '''l'''
+|-
+| 6 low rising (breathy)
+| {{IPA|˩˧̤}} 13
+| '''s'''
+|-
+| 8 mid rising
+| {{IPA|˨˦}} 24
+| '''f'''
+|}
+
+So much information is conveyed by the tones that it is possible to speak intelligibly using musical tunes only; there is a tradition of young lovers communicating covertly this way by playing on a [[jew's harp]] (though this method may only convey vowel sounds).<ref>{{cite web |last1=Robson |first1=David |title=The beautiful languages of the people who talk like birds |url=https://www.bbc.com/future/article/20170525-the-people-who-speak-in-whistles |website=BBC Future |access-date=25 March 2020}}</ref>
+
+==Orthography==
+{{main|Hmong writing}}
+Robert Cooper, an anthropologist, collected a Hmong folktale saying that the Hmong used to have a written language, and important information was written down in a treasured book. The folktale explains that cows and rats ate the book, so, in the words of [[Anne Fadiman]], author of ''[[The Spirit Catches You and You Fall Down]]'', "no text was equal to the task of representing a culture as rich as that of the Hmong." Therefore, the folktale states that the Hmong language was exclusively oral from that point onwards.<ref name="Fadiman291">[[Anne Fadiman|Fadiman, Anne]]. "Note on Hmong Orthography, Pronunciation, and Quotations." ''The Spirit Catches You and You Fall Down''. Farrar, Straus and Giroux. 1997. [https://archive.org/details/spiritcatchesyou00fadi/page/291 291].</ref>
+
+Natalie Jill Smith, author of "Ethnicity, Reciprocity, Reputation and Punishment: An Ethnoexperimental Study of Cooperation among the Chaldeans and Hmong of Detroit (Michigan)", wrote that the [[Qing Dynasty]] had caused a previous Hmong writing system to die out when it stated that the death penalty would be imposed on those who wrote it down.<ref name=SmithNJp44>Smith, Natalie Jill. "Ethnicity, Reciprocity, Reputation and Punishment: An Ethnoexperimental Study of Cooperation among the Chaldeans and Hmong of Detroit (Michigan)" (PhD dissertation). [[University of California, Los Angeles]], 2001. p. 225. UMI Number: 3024065. Cites: Hamilton-Merritt, 1993 and Faderman{{sic}}, 1998</ref>
+
+Since the end of the 19th century, linguists created over two dozen Hmong writing systems, including systems using [[Chinese characters]], the [[Lao alphabet]], the [[Russian alphabet]], the [[Thai alphabet]], and the [[Vietnamese alphabet]]. In addition, in 1959 [[Shong Lue Yang]], a Hmong spiritual leader from Laos, created an 81 symbol writing system called [[Pahawh Hmong|Pahawh]]. Yang was not previously literate in any language. [[Chao Fa]], an anti-Laotian government Hmong group, uses this writing system.<ref name="Fadiman291"/>
+
+In the 1980s, [[Nyiakeng Puachue Hmong]] script was created by a Hmong Minister, Reverend Chervang Kong Vang, to be able to capture Hmong vocabulary clearly and also to remedy redundancies in the language as well as address semantic confusions that was lacking in other scripts. Nyiakeng Puachue Hmong script was mainly used by [[United Christians Liberty Evangelical]] Church, a church also founded by Vang, although the script have been found to be in use in Laos, Thailand, Vietnam, France, and Australia.<ref>{{cite web|quote=This excellent script has been used by members of the United Christians Liberty Evangelical church in America for more than 25 years, in printed material and videos.|author=Ian James & Mattias Persson|url=http://skyknowledge.com/mong-ntaub3.htm|title=New Hmong Script|access-date=April 7, 2018}}</ref> The script bears strong resemblance to the Lao alphabet in structure and form and characters inspired from the Hebrew alphabets, although the characters themselves are different.<ref>{{cite web|url=https://www.unicode.org/L2/L2017/17002r3-n4780r3-nyiakeng-puachue-hmong.pdf|title=L2/17-002R3: Proposal to encode the Nyiakeng Puachue Hmong script in the UCS|last=Everson|first=Michael|author-link=Michael Everson|date=2017-02-15}}</ref>
+
+Other experiments by Hmong and non-Hmong orthographers have been undertaken using invented letters.<ref>http://www.hmonglanguage.net Hmong Language online encyclopedia.</ref>
+
+The [[Romanized Popular Alphabet]] (RPA), the most widely used script for Hmong Daw and Mong Leeg, was developed in Laos between 1951 and 1953 by three Western missionaries.<ref name="Fadiman291"/> In the United States Hmong do not use RPA for spelling of proper nouns, because they want their names to be easily pronounced by people unfamiliar with RPA. For instance Hmong in the U.S. spell ''Hmoob'' as "Hmong," and ''Liab Lis'' is spelled as [[Lia Lee]].<ref>[[Anne Fadiman|Fadiman, Anne]]. "Note on Hmong Orthography, Pronunciation, and Quotations." ''The Spirit Catches You and You Fall Down''. Farrar, Straus and Giroux. 1997. [https://archive.org/details/spiritcatchesyou00fadi/page/292 292].</ref>
+
+The Dananshan standard in China is written in a pinyin-based alphabet, with tone letters similar to those used in RPA.
+
+===Correspondence between orthographies===
+The following is a list of pairs of RPA and Dananshan segments having the same sound (or very similar sounds). Note however that RPA and the standard in China not only differ in orthographic rules, but are also used to write different languages. The list is ordered alphabetically by the RPA, apart from prenasalized stops and voiceless sonorants, which come after their oral and voiced homologues. There are three overriding patterns to the correspondences: RPA doubles a vowel for nasalization, whereas pinyin uses {{angle bracket|ng}}; RPA uses {{angle bracket|h}} for aspiration, whereas pinyin uses the voicing distinction of the Latin script; pinyin uses {{angle bracket|h}} (and {{angle bracket|r}}) to derive the retroflex and uvular series from the dental and velar, whereas RPA uses sequences based on {{angle bracket|t, x, k}} vs. {{angle bracket|r, s, q}} for the same.
+{|
+|- valign=top
+|
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="4" |Vowels
+|-
+!RPA !!Pinyin
+!Vietnamese
+!Pahawh
+|-
+| colspan="3" |a
+|𖬖, 𖬗
+|-
+|aa || colspan="2" | ang
+|𖬚, 𖬛
+|-
+| colspan="3" |ai
+|𖬊, 𖬋
+|-
+|colspan=2|au
+|âu
+|𖬄, 𖬅
+|-
+|aw || –
+|ơư
+|𖬎, 𖬏
+|-
+|colspan=2|e
+|ê
+|𖬈, 𖬉
+|-
+|ee || eng
+|ênh
+|𖬀, 𖬁
+|-
+|– || eu
+|–
+|–
+|-
+| colspan="3" |i
+|𖬂, 𖬃
+|-
+|ia || –
+|iê
+|𖬔, 𖬕
+|-
+| colspan="3" |o
+|𖬒, 𖬓
+|-
+|oo || ong
+|ông
+|𖬌, 𖬍
+|-
+|– || ou
+|–
+|–
+|-
+|colspan=2|u
+|u
+|𖬆, 𖬇
+|-
+|colspan=2|ua
+|uô
+|𖬐, 𖬑
+|-
+|w || i
+|ư
+|𖬘, 𖬙
+|}
+|
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="4" |Consonants
+|-
+!RPA !!Dananshan
+!Vietnamese
+!Pahawh
+|-
+|c || j
+|ch
+|𖬯
+|-
+|ch || colspan="2" | q
+|𖬧
+|-
+|nc || nj
+|nd
+|𖬤𖬰
+|-
+|nch || colspan="2" | nq
+|𖬨
+|-
+|d || –
+|đ
+|𖬞𖬰
+|-
+|dh || –
+|đh
+|𖬞𖬵
+|-
+|colspan=2| dl
+|đr
+|𖬭
+|-
+|dlh || tl
+|đl
+|𖬭𖬴
+|-
+|ndl || –
+|nđr
+|𖬭𖬰
+|-
+|ndlh || –
+|nđl
+|𖬭𖬵
+|-
+|colspan=2|f
+|ph
+|𖬜𖬵
+|-
+| colspan="3" |h
+|𖬟
+|-
+|k || g
+|c
+|–
+|-
+|kh || k
+|kh
+|𖬩𖬰
+|-
+|nk || ng
+|g
+|𖬢
+|-
+|nkh || nk
+|nkh
+|𖬫𖬵
+|}
+|
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="4" |Consonants <small>(cont.)</small>
+|-
+!RPA !!Dananshan
+!Vietnamese
+!Pahawh
+|-
+| colspan="3" |l
+|𖬞
+|-
+| colspan="3" |hl
+|𖬥
+|-
+| colspan="3" |m
+|𖬦
+|-
+| colspan="3" |hm
+|𖬣𖬵
+|-
+|ml || –
+|mn
+|𖬠
+|-
+|hml || –
+|hmn
+|𖬠𖬰
+|-
+| colspan="3" |n
+|𖬬
+|-
+|colspan=2|hn
+|hn
+|𖬩
+|-
+| – ||ngg
+|–
+|–
+|-
+|ny || ni
+|nh
+|𖬮𖬵
+|-
+|hny || hni
+|hnh
+|𖬣𖬰
+|-
+|p || b
+|p
+|𖬪𖬵
+|-
+|ph || p
+|ph
+|𖬝𖬵
+|-
+|np || nb
+|b
+|𖬨𖬵
+|-
+|nph || np
+|mf
+|𖬡𖬰
+|}
+|
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="4" |Consonants <small>(cont.)</small>
+|-
+!RPA !!Dananshan
+!Vietnamese
+!Pahawh
+|-
+|pl || bl
+|pl
+|𖬟𖬵
+|-
+|plh || pl
+|fl
+|𖬪
+|-
+|npl || nbl
+|bl
+|𖬫𖬰
+|-
+|nplh || npl
+|mfl
+|𖬡𖬵
+|-
+|q || gh
+|k
+|𖬦𖬵
+|-
+|qh || kh
+|qh
+|𖬣
+|-
+|nq || ngh
+|ng
+|𖬬𖬰
+|-
+|nqh || nkh
+|nkr
+|𖬬𖬵
+|-
+|r || dr
+|tr
+|𖬡
+|-
+|rh || tr
+|rh
+|𖬢𖬵
+|-
+|nr || ndr
+|r
+|𖬜𖬰
+|-
+|nrh || ntr
+|nr
+|𖬨𖬰
+|-
+|s || sh
+|s
+|𖬤𖬵
+|-
+|t || d
+|t
+|𖬧𖬵
+|-
+|th || t
+|th
+|𖬟𖬰
+|-
+|nt || nd
+|nt
+|𖬩𖬵
+|-
+|nth || nt
+|nth
+|𖬫
+|}
+|
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="4" |Consonants <small>(cont.)</small>
+|-
+!RPA !!Dananshan
+!Vietnamese
+!Pahawh
+|-
+|ts || zh
+|ts
+|𖬝𖬰
+|-
+|tsh || ch
+|tsh
+|𖬪𖬰
+|-
+|nts || nzh
+|nts
+|𖬝
+|-
+|ntsh || nch
+|ntsh
+|𖬯𖬰
+|-
+|tx || z
+|tx
+|𖬯𖬵
+|-
+|txh || c
+|cx
+|𖬦𖬰
+|-
+|ntx || nz
+|nz
+|𖬢𖬰
+|-
+|ntxh || nc
+|nx
+|𖬥𖬵
+|-
+| colspan="3" |v
+|𖬜
+|-
+| – ||  w
+|–
+|–
+|-
+|x || s
+|x
+|𖬮
+|-
+|xy || x
+|sh
+|𖬧𖬰
+|-
+|colspan=2|y
+|z
+|𖬤
+|-
+|z || r
+|j
+|𖬥𖬰
+|}
+|}
+
+There is no simple correspondence between the tone letters. The historical connection between the tones is as follows. The Chinese names reflect the tones given to early Chinese loan words with those tones in Chinese.
+{|class="wikitable" style="text-align: center"
+|-
+! rowspan=2|Tone<br/>class
+! rowspan=2|Tone<br/>number
+! rowspan=2|Dananshan<br/>orthog.
+! colspan="2" |RPA
+! rowspan="2" |Vietnamese<br />Hmong
+|-
+! Hmoob
+! Moob
+|-
+| rowspan=2|平 or A
+| 1 || b {{IPA|˦˧}}
+| colspan=2|b {{IPA|˥}}
+|z
+|-
+| 2 || x  {{IPA|˧˩}}
+| colspan=2|j {{IPA|˥˧}}
+|x
+|-
+|rowspan=2|上 or B
+| 3 || d {{IPA|˥}}
+|colspan=2|v {{IPA|˧˦}}
+|r
+|-
+|4 || l {{IPA|˨˩̤}} || s || g
+|s
+|-
+|rowspan=2| 去 or C
+|5 || t {{IPA|˦}}
+| colspan="3" | (unmarked) {{IPA|˧}}
+|-
+| 6 || s {{IPA|˩˧̤}}
+| colspan=2|g {{IPA|˧˩̤}}
+|l
+|-
+| rowspan=2|入 or D
+| 7 || k {{IPA|˧}}
+|colspan=2| s {{IPA|˩}}
+|s
+|-
+|8 || f {{IPA|˨˦}}
+|colspan=2| m {{IPA|˩̰}} ~ d {{IPA|˨˩˧}}
+|v ~ k
+|}
+Tones 4 and 7 merged in Hmoob Dawb, whereas tones 4 and 6 merged in Mong Leeg.<ref>Mortensen (2004)</ref>
+
+Example: ''lus Hmoob'' /̤ lṳ˧˩ m̥̥õ˦ / 𞄉𞄧𞄴𞄀𞄄𞄰𞄩 / (White Hmong) / ''lug Moob'' / 𞄉𞄧𞄵𞄀𞄩𞄰 / (Mong Leng) / ''lol Hmongb'' (Dananshan) / ''lus Hmôngz'' (Vietnamese) "Hmong language".
+
+
+==Grammar==
+Hmong is an [[Analytic language|analytic]] [[Subject–verb–object|SVO]] language in which [[adjectives]] and [[demonstrative]]s follow the [[noun]]. Noun phrases can contain the following elements (parentheses indicate optional elements):<ref>{{Cite journal |title=Hmong–Mien demonstratives and pattern persistence |journal=Mon–Khmer Studies Journal |year=1997 |first=Martha |last=Ratliff |volume=27 |pages=317–328 |url=http://www.sealang.net/archives/mks/pdf/27%3A317-328.pdf |access-date=2007-06-06 |url-status=dead |archive-url=https://www.webcitation.org/6JqHYC0mG?url=http://www.sealang.net/archives/mks/pdf/27:317-328.pdf |archive-date=2013-09-23 }} ()</ref>
+
+(possessive) + (quantifier) + (classifier) + noun + (adjective) + (demonstrative)
+
+The Hmong pronominal system distinguishes between three [[grammatical person]]s and three numbers – singular, dual, and plural. They are not marked for case, that is, the same word is used to translate both "I" and "me", "she" and "her", and so forth. These are the [[personal pronoun]]s of Hmong Daw and Mong Leeg:
+
+#1st Row: IPA, Hmong RPA
+#2nd Row: Vietnamese Hmong
+#3rd Row: Pahawh Hmong
+#4th Row: Nyiakeng Puachue
+
+{| class="wikitable" style="text-align:center"
+|+White Hmong Pronouns
+|-
+! Number: !! Singular !! Dual !! Plural
+|-
+! First
+| kuv
+cur<br />𖬆𖬲 
+
+𞄎𞄧𞄳
+ 
+| wb
+ưz<br />𖬘𖬰𖬮𖬰 
+
+𞄬𞄰
+ 
+| peb
+pêz<br />𖬈𖬰𖬪𖬵
+
+𞄚𞄪𞄰
+
+|-
+! Second
+| koj
+cox<br />𖬒𖬲 
+
+𞄎𞄨𞄲
+ 
+| neb
+nêz<br />𖬈𖬰𖬬 
+
+𞄅𞄪𞄰
+ 
+| nej
+nêx<br />𖬈𖬲𖬬
+
+𞄅𞄪𞄲
+
+|-
+! Third
+| nws
+nưs<br />𖬙𖬲𖬬 
+
+𞄅𞄬𞄴
+ 
+| nkawd
+gơưk<br />𖬎𖬱𖬢 
+
+𞄇𞄤𞄶𞄬
+ 
+| lawv
+lơưr<br />𖬎𖬶𖬞
+
+𞄉𞄤𞄳𞄬
+
+|}
+
+{| class="wikitable" style="text-align:center"
+|+Green Hmong Pronouns
+|-
+! Number: !! Singular !! Dual !! Plural
+|-
+! First
+| kuv
+cur<br />𖬆𖬲 
+
+𞄎𞄧𞄳
+ 
+| ib
+iz<br />𖬂𖬲𖬮𖬰 
+
+𞄦𞄰
+ 
+| peb
+pêz<br />𖬈𖬰𖬪𖬵
+
+𞄚𞄪𞄰
+
+|-
+! Second
+| koj
+cox<br />𖬒𖬲 
+
+𞄎𞄨𞄲
+ 
+| meb
+mêz<br />𖬈𖬰𖬦 
+
+𞄀𞄪𞄰
+ 
+| mej
+mêx<br />𖬈𖬲𖬦
+
+𞄀𞄪𞄲
+
+|-
+! Third
+| nwg
+nưs<br />𖬙𖬶𖬬 
+
+𞄅𞄬𞄵
+ 
+| ob tug
+oz tus<br />𖬒𖬰𖬮𖬰 𖬇𖬲𖬧𖬵 
+
+𞄨𞄰𞄃𞄧𞄵
+ 
+| puab
+puôz<br />𖬐𖬶𖬪𖬵
+
+𞄚𞄧𞄰𞄤
+
+|}
+
+===Verbs===
+Hmong is an [[isolating language]] in which most morphemes are monosyllables. As a result, verbs are not overtly [[inflection|inflected]]. [[Grammatical tense|Tense]], [[grammatical aspect|aspect]], [[grammatical mood|mood]], [[grammatical person|person]], [[grammatical number|number]], [[grammatical gender|gender]], and [[grammatical case|case]] are indicated lexically.<ref>Strecker, David and Lopao Vang. White Hmong Grammar. 1986.</ref>
+
+====Serial verb construction====
+Hmong verbs can be [[serial verb|serialized]], with two or more verbs combined in one clause. It is common for as many as five verbs to be strung together, sharing the same subject.
+
+Here is an example from White Hmong:
+
+{{interlinear|lang=hmn|indent=3
+|Yam zoo tshaj plaws, nej yuav tsum '''mus''' '''nrhiav''' '''nug''' '''xyuas''' '''saib''' luag muaj kev pab hom dab tsi nyob ncig ib cheeb tsam ntawm nej.
+|Zav jông tshax plơưs, nêx zuôr tsuv '''mus''' '''nriêz''' '''nuv''' '''shuôs''' '''saiz''' luôv muôj cêr paz hov đaz tsi nhoz ndil ib qênhz tsav ntơưv nêx.
+|𖬖𖬤 𖬍𖬥𖬰 𖬖𖬰𖬪𖬰 𖬏𖬰𖬟𖬵, 𖬈𖬲𖬬 𖬐𖬲𖬤 𖬆𖬝𖬰 '''𖬇𖬰𖬦''' '''𖬔𖬲𖬨𖬰''' '''𖬇𖬲𖬬''' '''𖬑𖬲𖬧𖬰''' '''𖬊𖬰𖬤𖬵''' 𖬑𖬶𖬞 𖬐𖬰𖬦 𖬉 𖬖𖬲𖬪𖬵 𖬒𖬟 𖬖𖬲𖬞𖬰 𖬃𖬝𖬰 𖬒𖬰𖬮𖬵 𖬃𖬲𖬤𖬰 𖬂𖬲𖬮𖬰 𖬀𖬶𖬧 𖬖𖬝𖬰 𖬎𖬰𖬩𖬵 𖬈𖬲𖬬.
+|𞄘𞄤𞄱𞄋𞄩𞄁𞄄𞄲𞄤𞄡𞄤𞄴𞄬, 𞄅𞄪𞄲𞄘𞄧𞄳𞄁𞄧𞄱 "'''𞄀𞄧𞄴𞄑𞄄𞄦𞄳𞄤𞄅𞄧𞄵𞄛𞄧𞄴𞄤𞄊𞄤𞄰𞄦'''" 𞄉𞄧𞄵𞄤𞄀𞄧𞄲𞄤𞄎𞄪𞄳𞄚𞄤𞄰𞄄𞄨𞄱 𞄤𞄰𞄁𞄦𞄐𞄨𞄰𞄌𞄦𞄵 𞄦𞄰𞄈𞄄𞄰𞄫𞄁𞄤𞄱𞄂𞄤𞄱𞄬𞄅𞄪𞄲.<br>
+Thing best, you (plural) must '''go seek, ask, examine, look''' others have services variations what on tour the area at you (plural)<br />
+'The best thing you can do is to explore your neighborhood and find out what services are available.'}}
+
+====Tense====
+Because the verb form in Hmong does not change to indicate tense, the simplest way to indicate the time of an event is to use temporal adverb phrases like "last year," "today," or "next week."
+
+Here is an example from White Hmong:
+
+{{interlinear|indent=2|glossing5=yes
+|{Nag hmo} kuv mus tom khw.
+|{Nav hmo} cur mus tov khư.
+|{𖬗𖬶𖬬 𖬓𖬰𖬣𖬵} 𖬆𖬲 𖬇𖬰𖬦 𖬒𖬧𖬵 𖬙𖬰𖬩𖬰.
+|{𞄅𞄤𞄵 𞄀𞄄𞄨} 𞄎𞄧𞄳 𞄀𞄧𞄴 𞄃𞄨𞄱 𞄎𞄄𞄬.
+|yesterday I go LOC market
+|'I went to the market yesterday.'}}
+
+====Aspect====
+Aspectual differences are indicated by a number of verbal modifiers. Here are the most common ones:
+
+'''Progressive''': (Mong Leeg) ''taab tom'' + verb, (White Hmong) ''tab tom'' + verb = situation in progress
+
+{{interlinear|indent=2|glossing5=yes|c1=(Mong Leeg)
+|Puab {taab tom} haus dlej.
+|Puôz {tangz tov} hâus đrêx
+|𖬐𖬶𖬪𖬵 {𖬚𖬲𖬧𖬵 𖬒𖬧𖬵} 𖬅𖬰𖬟 𖬈𖬲𖬭.
+|𞄚𞄧𞄰𞄤 {𞄃𞄥𞄰 𞄃𞄨𞄱} 𞄄𞄤𞄴𞄨 𞄏𞄪𞄲.
+|they PROG drink water
+|'They are drinking water.'}}
+
+''Taab/tab tom'' + verb can also be used to indicate a situation that is about to start. That is clearest when ''taab/tab'' tom occurs in conjunction with the irrealis marker ''yuav''. Note that the ''taab tom'' construction is not used if it is clear from the context that a situation is ongoing or about to begin.
+
+'''Perfective''': sentence/clause + ''lawm'' = completed situation
+
+{{interlinear|indent=2|glossing5=yes|c1=(Leeg and White Hmong)
+|Kuv noj mov lawm.
+|Cur nox mor lơưv
+|𖬆𖬲 𖬒𖬲𖬬 𖬒𖬶𖬦 𖬎𖬰𖬞.
+|𞄎𞄧𞄳 𞄅𞄨𞄲 𞄀𞄨𞄳 𞄉𞄤𞄱𞄬.
+|I eat rice PERF
+|'I am finished/I am done eating rice.' / 'I have already eaten "rice".'}}
+
+''Lawm'' at the end of a sentence can also indicate that an action is underway:
+
+{{interlinear|indent=2|glossing4=yes|c1=(White Hmong)
+|Tus tub tau rab hneev, nws thiaj mus {ua si} lawm.
+|𖬇𖬰𖬧𖬵 𖬆𖬰𖬧𖬵 𖬧𖬵 𖬖𖬲𖬡 𖬀𖬲𖬩, 𖬙𖬲𖬬 𖬔𖬶𖬟𖬰 𖬇𖬰𖬦 {𖬑𖬮𖬰 𖬃𖬤𖬵} 𖬎𖬰𖬞.
+|𞄃𞄧𞄴 𞄃𞄧𞄰 𞄃𞄤𞄨 𞄖𞄤𞄰 𞄅𞄄𞄳𞄫, 𞄅𞄬𞄴 𞄃𞄄𞄦𞄲𞄤 𞄀𞄧𞄴 {𞄧𞄤 𞄊𞄦} 𞄉𞄤𞄱𞄬.
+|CLF boy get CLF crossbow he then go play PFV
+|'The boy got the crossbow and went off to play.' / 'The boy went off to play because he got the bow.'}}
+
+Another common way to indicate the accomplishment of an action or attainment is by using ''tau'', which, as a main verb, means 'to get/obtain.' It takes on different connotations when it is combined with other verbs. When it occurs before the main verb (i.e. ''tau'' + verb), it conveys the attainment or fulfillment of a situation. Whether the situation took place in the past, the present, or the future is indicated at the discourse level rather than the sentence level. If the event took place in the past, ''tau'' + verb translates to the past tense in English.
+
+{{interlinear|indent=2|glossing4=yes|c1=(White Hmong)
+|Lawv tau noj nqaij nyug.
+|𖬎𖬶𖬞 𖬧𖬵 𖬒𖬲𖬬 𖬊𖬶𖬬𖬰 𖬇𖬲𖬮𖬵.
+|𞄉𞄤𞄳𞄬 𞄃𞄤𞄨 𞄅𞄨𞄲 𞄙𞄤𞄲𞄦 𞄐𞄧𞄵.
+|they attain eat meat beef
+|'They ate beef.'}}
+
+''Tau'' is optional if an explicit past time marker is present (e.g. ''nag hmo'', last night). ''Tau'' can also mark the fulfillment of a situation in the future:
+
+{{interlinear|indent=2|glossing4=yes|c1=(White Hmong)
+|Thaum txog peb caug lawm {sawv daws} thiaj tau hnav {khaub ncaws} tshiab.
+|𖬄𖬟𖬰 𖬓𖬯𖬵 𖬈𖬰𖬪𖬵 𖬅𖬲𖬯 𖬎𖬰𖬞 {𖬎𖬶𖬤𖬵 𖬏𖬰𖬞𖬰} 𖬔𖬶𖬟𖬰 𖬧𖬵 𖬗𖬩 {𖬄𖬰𖬩𖬰 𖬏𖬰𖬤𖬰} 𖬔𖬪𖬰.
+|𞄃𞄄𞄤𞄱𞄨 𞄔𞄨𞄵 𞄚𞄪𞄰 𞄈𞄤𞄵𞄨 𞄉𞄤𞄱𞄬 {𞄊𞄤𞄳𞄬𞄏𞄤𞄴𞄬} 𞄃𞄄𞄦𞄲𞄤 𞄃𞄤𞄨 𞄅𞄄𞄳𞄤 {𞄎𞄄𞄤𞄰𞄨𞄌𞄤𞄴𞄬} 𞄁𞄄𞄦𞄰𞄤.
+|when arrive New Year PFV everybody then attain wear clothes new
+|'So when the New Year arrives, everybody gets to wear new clothes.'}}
+
+When ''tau'' follows the main verb (i.e. verb + ''tau''), it indicates the accomplishment of the purpose of an action.
+
+{{interlinear|indent=2|glossing4=yes|c1=(Mong Leeg)
+|Kuv xaav xaav {ib plag}, kuv xaav tau {tswv yim}.
+|𖬆𖬲 𖬛𖬮 𖬛𖬮 {𖬂𖬲𖬮𖬰 𖬗𖬶𖬟𖬵}, 𖬆𖬲 𖬛𖬮 𖬧𖬵 {𖬙𖬝𖬰 𖬂𖬤}.
+|𞄎𞄧𞄳 𞄆𞄥𞄳 𞄆𞄥𞄳 {𞄦𞄰 𞄡𞄤𞄵}, 𞄎𞄧𞄳 𞄆𞄥𞄳 𞄃𞄤𞄨 {𞄁𞄬𞄳𞄘𞄦𞄱}.
+|I think think awhile, I think get idea
+|'I thought it over and got an idea.'}}
+
+''Tau'' is also common in serial verb constructions that are made up of a verb, followed by an accomplishment: (White Hmong) ''nrhiav tau'', to look for; ''caum tau'', to chase; ''yug tau'', to give birth.
+
+====Mood====
+'''Future''': '''yuav''' + verb:
+
+{{interlinear|indent=2|c1=(Mong Leeg)
+|Kuv yuav moog.
+|𖬆𖬲 𖬐𖬲𖬤 𖬍𖬶𖬦.
+|𞄎𞄧𞄳 𞄘𞄧𞄳𞄤 𞄀𞄩𞄵.
+|'I will be going.'}}
+
+''Yuav'' + verb may also be seen as indicative of the [[irrealis mood]], for situations that are unfulfilled or unrealized. That includes hypothetical or non-occurring situations with past, present, or future time references:
+
+{{interlinear|indent=2|glossing4=yes|c1=(from a White Hmong folk tale)
+|Tus Tsov {hais tias}, "Kuv tshaib tshaib plab li kuv yuav noj koj".
+|𖬇𖬰𖬧𖬵 𖬒𖬶𖬝𖬰 {𖬋𖬰𖬟 𖬕𖬰𖬧𖬵}, "𖬆𖬲 𖬊𖬰𖬪𖬰 𖬊𖬰𖬪𖬰 𖬖𖬲𖬟𖬵 𖬃𖬞 𖬆𖬲 𖬐𖬲𖬤 𖬒𖬲𖬬 𖬒𖬲."
+|𞄃𞄧𞄴 𞄁𞄨𞄳 {𞄄𞄤𞄴𞄦 𞄃𞄦𞄴𞄤}, "𞄎𞄧𞄳 𞄁𞄄𞄤𞄰𞄦 𞄁𞄄𞄤𞄰𞄦 𞄡𞄤𞄰 𞄉𞄦 𞄎𞄧𞄳 𞄘𞄧𞄳𞄤 𞄅𞄨𞄲 𞄎𞄨𞄲".
+|CLF Tiger say, I hungry hungry stomach INT I IRR eat you
+|'The Tiger said, "I'm very hungry and I'm going to eat you.'}}
+
+{{interlinear|indent=2|glossing4=yes
+|Tus Qav tsis paub yuav ua li cas li.
+|𖬇𖬰𖬧𖬵 𖬗𖬦𖬵 𖬃𖬰𖬝𖬰 𖬄𖬰𖬪𖬵 𖬐𖬲𖬤 𖬑𖬮𖬰 𖬃𖬞 𖬗𖬲𖬯 𖬃𖬞.
+|𞄃𞄧𞄴 𞄗𞄤𞄳 𞄁𞄦𞄴 𞄚𞄤𞄰𞄨 𞄘𞄧𞄳𞄤 𞄧𞄤 𞄉𞄦 𞄈𞄤𞄴 𞄉𞄦.
+|CLF Frog NEG know IRR do {} what INT
+|'The frog didn't know what to do.'}}
+
+==Phrases==
+=== Colors ===
+'''List of colors:'''
+
+{{Colort/ColorShort|hex=FF0000|r=255|g=0|b=0|h=0|s=100|v=100|name={{Script|Hmng|𖬔𖬞}}
+ Liab [red]}}{{Colort/ColorShort|hex=008000|r=0|g=128|b=0|h=120|s=100|v=50|name={{Script|Hmng|𖬐𖬶𖬝}} 
+Ntsuab [green]}}{{Colort/ColorShort|hex=9F00C5|r=159|g=0|b=197|h=288|s=100|v=77|name={{Script|Hmng|𖬖𖬝𖬰 𖬈𖬮}}
+Tsam xem [purple]}}{{Colort/ColorShort|hex=000000|r=0|g=0|b=0|h=—|s=0|v=0|name={{Script|Hmng|𖬆𖬰𖬞𖬰}}
+Dub [black]}}{{Colort/ColorShort|hex=0000FF|r=0|g=0|b=255|h=240|s=100|v=100|name={{Script|Hmng|𖬔𖬲𖬮}}
+Xiav [blue]}}{{Colort/ColorShort|hex=FFFFFF|r=255|g=255|b=255|h=—|s=0|v=100|name={{Script|Hmng|𖬎𖬞𖬰}}
+Dawb [white]}}{{Colort/ColorShort|hex=964B00|r=150|g=75|b=0|h=30|s=100|v=59|name={{Script|Hmng|𖬗𖬮𖬰 / 𖬗𖬲 𖬉𖬲𖬜𖬵}}
+Av / Kas fes [brown]}}{{Colort/ColorShort|hex=FFE302|r=255|g=227|b=2|h=53|s=99|v=100|name={{Script|Hmng|𖬖𖬰𖬞𖬰}}
+Daj [yellow]}}{{Colort/ColorShort|hex=BEBEBE|r=190|g=190|b=190|h=0|s=0|v=75|name={{Script|Hmng|𖬓𖬰𖬦𖬰}}
+Txho  [grey]}}
+
+{{-}}
+
+==Worldwide usage==
+{{undue weight section|date=July 2016}}
+{{expand section|date=September 2016}}
+In 2012 [[McDonald's]] introduced its first Hmong language advertising in the United States on a commercial billboard in  [[Saint Paul, Minnesota]]. However it was unintelligible to Hmong speakers due to an incorrect translation.<ref>Melo, Frederick. "[http://www.twincities.com/stpaul/ci_21458154/st-paul-mcdonalds-hmong-pitch-mangles-language St. Paul: McDonald's Hmong pitch mangles language]." ''[[Twin Cities Pioneer Press]]''. September 2, 2012. Updated on September 3, 2012. Retrieved on May 10, 2013.</ref><sup>[https://www.wabe.org/immigrating-to-the-u-s-get-ready-for-a-new-gut-microbiome-and-maybe-more-pounds/][https://www.wjct.org/uncategorized/2018/11/immigrating-to-the-u-s-get-ready-for-a-new-gut-microbiome-and-maybe-more-pounds/attachment/a-mcdonalds-billboard-in-st-paul-minnesota-advertises-in-the-hmong-language-a-new-study-of-first-and-second-generation-hmong-and-karen-immigrants-finds-their-gut-microbiomes-changed-soon-after-m/][https://www.twincities.com/2012/09/01/st-paul-mcdonalds-hmong-pitch-mangles-language/]</sup> [[Google Translate]] introduced support for Hmong Daw (referred to only as ''Hmong'') in May 2013.<ref>{{cite web |url=https://www.engadget.com/2013/05/08/google-translate-gets-five-new-languages/ |title=Google Translate adds five more languages to its repertoire |author=Donald Melanson |date=8 May 2013 |publisher=Engadget |access-date=22 February 2018}}</ref>
+
+==Samples==
+From the [[Universal Declaration of Human Rights]] Article 1:
+{|border="0" style="width:100%; text-align:left; margin-bottom: 3em;"
+|-
+!Hmong RPA
+!Vietnamese Hmong
+!Nyiakeng Puachue Hmong
+!Pahawh Hmong
+!English Translation
+|-
+|Txhua tus neeg yug los muaj kev ywj pheej thiab
+|Cxuô tus nênhl zul los muôx cêr zưx fênhx thiêz
+|{{Script|Hmnp|𞄔𞄄𞄧𞄤𞄃𞄧𞄴𞄅𞄫𞄵𞄘𞄧𞄵𞄉𞄨𞄴 𞄀𞄧𞄲𞄤𞄎𞄪𞄳𞄘𞄬𞄲𞄚𞄄𞄲𞄫𞄃𞄄𞄦𞄰𞄤}}
+|{{Script|Hmng|𖬑𖬦𖬰 𖬇𖬰𖬧𖬵 𖬁𖬲𖬬 𖬇𖬲𖬤 𖬓𖬲𖬞 𖬐𖬰𖬦 𖬉 𖬘𖬲𖬤 𖬀𖬰𖬝𖬵 𖬔𖬟𖬰}}
+|All human beings are born free and
+|-
+|sib npaug zos hauv txoj cai. Lawv xaj
+|siz npâul jôs hâur txox chai. Lơưr xax
+|{{Script|Hmnp|𞄊𞄦𞄰𞄜𞄤𞄵𞄨𞄋𞄨𞄴 𞄄𞄤𞄳𞄨𞄔𞄨𞄲𞄈𞄤𞄦. 𞄉𞄤𞄳𞄬𞄆𞄤𞄲}}
+|{{Script|Hmng|𖬂𖬲𖬤𖬵 𖬅𖬲𖬨𖬵 𖬓𖬲𖬥𖬰 𖬄𖬲𖬟 𖬒𖬲𖬯𖬵 𖬋𖬯. 𖬎𖬶𖬞 𖬖𖬰𖬮}}
+|equal in dignity and rights. They are
+|-
+|nrog lub laj thawj thiab lub siab
+|ndol luz lax thơưx thiêz luz siêz
+|{{Script|Hmnp|𞄑𞄨𞄵𞄉𞄧𞄰𞄉𞄤𞄲𞄃𞄄𞄤𞄲𞄬 𞄃𞄄𞄦𞄰𞄤𞄉𞄧𞄰𞄊𞄦𞄰𞄤}}
+|{{Script|Hmng|𖬓𖬜𖬰 𖬆𖬰𖬞  𖬖𖬞𖬰 𖬎𖬲𖬟𖬰 𖬔𖬟𖬰 𖬆𖬰𖬞 𖬔𖬤𖬵}}
+|endowed with reason and conscience
+|-
+|thiab ib leeg yuav tsum coj ua ke ntawm ib leeg ntawm txoj kev ua kwv tij.
+|thiêz iz lênhl zuôr tsuv chox uô cê ntơưv iz lênhl ntơưv txôx cêr uô cưr tiz.
+|{{Script|Hmnp|𞄃𞄄𞄦𞄰𞄤 𞄦𞄰𞄉𞄫𞄵𞄘𞄧𞄳𞄤𞄁𞄧𞄱𞄈𞄨𞄲 𞄧𞄤 𞄎𞄪𞄂𞄤𞄱𞄬𞄦𞄰𞄉𞄫𞄵𞄂𞄤𞄱𞄬𞄔𞄨𞄲𞄎𞄪𞄧𞄳 𞄧𞄤𞄎𞄬𞄳𞄃𞄦𞄲.}}
+|{{Script|Hmng|𖬔𖬟𖬰 𖬂𖬮𖬰 𖬁𖬲𖬞 𖬐𖬲𖬤 𖬆𖬝𖬰 𖬒𖬲𖬯 𖬅𖬮𖬰 𖬉𖬰 𖬎𖬰𖬩𖬵 𖬂𖬲𖬮𖬰 𖬁𖬲𖬞 𖬎𖬰𖬩𖬵 𖬒𖬲𖬯𖬵 𖬉 𖬅𖬮𖬰 𖬙 𖬂𖬰𖬧𖬵.}}
+|and should act towards one another in a spirit of brotherhood.
+|}
+Sample text in both Hmong RPA and Pahawh Hmong:<ref>{{Cite web|title=Pahawh Hmong alphabet and pronunciation|url=https://omniglot.com/writing/pahawhhmong.htm|access-date=2020-12-28|website=omniglot.com}}</ref><ref>{{Cite web|last=Oppitz|first=Michael|date=|title=Die geschichte der verlorenen schrift|url=https://www.frobenius-institut.de/images/stories/News/P52-02Oppi-027-050.pdf|url-status=live|archive-url=|archive-date=|access-date=27 December 2020|website=}}</ref><ref>{{Cite web|title=세계의 문자들|url=http://podor.egloos.com/m/1477973|access-date=2020-12-28|website=podor.egloos.com|language=ko}}</ref>
+{| class="wikitable"
+|+
+! colspan="2" |Hmong RPA
+! colspan="2" |Pahawh Hmong
+|-
+| colspan="2" |Hmoob yog ib nywj keeb neeg uas yeej nrog ntiaj teb neeg tib txhij tshwm sim los. Niaj hnoob tam sim no tseem muaj nyob thoob plaws hauv ntiaj teb, xws: es xias, yus lauv, auv tas lias, thiab as mes lis kas. Hom neeg Hmoob no yog thooj li cov neeg nyob sab es xias. Tab sis nws muaj nws puav pheej teej tug, moj kuab, txuj ci, mooj kav moj coj, thiab txheeb meem mooj meej kheej ib yam nkaus li lwm haiv neeg. Hmoob yog ib hom neeg uas nyiam txoj kev ncaj ncees, nyiam kev ywj pheej, nyiam phooj ywg, muaj kev cam hwm, muaj txoj kev sib hlub, sib pab thiab sib tshua heev.
+| colspan="2" |{{Script|Hmng|𖬌𖬣𖬵 𖬓𖬤 𖬂𖬲𖬮𖬰 𖬘𖬲𖬮𖬵 𖬀𖬶 𖬁𖬲𖬬 𖬑𖬲𖬮𖬰 𖬀𖬰𖬤 𖬓𖬜𖬰 𖬔𖬶𖬩𖬵 𖬈𖬰𖬧𖬵 𖬁𖬲𖬬 𖬂𖬲𖬧𖬵 𖬂𖬰𖬦𖬰 𖬘𖬪𖬰 𖬂𖬤𖬵 𖬓𖬲𖬞. 𖬔𖬶𖬬 𖬌𖬩 𖬖𖬧𖬵 𖬂𖬤𖬵 𖬓𖬰𖬬 𖬓𖬲𖬞 𖬀𖬝𖬰 𖬐𖬰𖬦 𖬒𖬰𖬮𖬵 𖬌𖬟𖬰 𖬏𖬰𖬟𖬵 𖬄𖬲𖬟 𖬔𖬶𖬩𖬵 𖬈𖬰𖬧𖬵, 𖬙𖬲𖬮 𖬃𖬞: 𖬉𖬲𖬮𖬰 𖬕𖬰𖬮, 𖬇𖬰𖬤 𖬄𖬲𖬞, 𖬄𖬲𖬮𖬰 𖬗𖬲𖬧𖬵 𖬕𖬰𖬞, 𖬔𖬟𖬰 𖬗𖬲𖬮𖬰 𖬉𖬲𖬦 𖬃𖬰𖬞 𖬗𖬲. 𖬒𖬟 𖬁𖬲𖬬 𖬌𖬣𖬵 𖬓𖬰𖬬 𖬓𖬤 𖬌𖬲𖬟𖬰 𖬃𖬞 𖬒𖬶𖬯 𖬁𖬲𖬬 𖬒𖬰𖬮𖬵 𖬖𖬲𖬤𖬵 𖬉𖬲𖬮𖬰 𖬕𖬰𖬮. 𖬖𖬲𖬧𖬵 𖬃𖬰𖬤𖬵 𖬙𖬲𖬬 𖬐𖬰𖬦 𖬙𖬲𖬬 𖬐𖬲𖬪𖬵 𖬀𖬰𖬝𖬵 𖬀𖬰𖬧𖬵 𖬇𖬲𖬧𖬵, 𖬒𖬲𖬦 𖬐𖬶, 𖬆𖬶𖬯𖬵 𖬃𖬯, 𖬌𖬲𖬦 𖬗 𖬒𖬲𖬦 𖬒𖬲𖬯, 𖬔𖬟𖬰 𖬀𖬶𖬦𖬰 𖬀𖬦 𖬌𖬲𖬦 𖬀𖬰𖬦 𖬀𖬰𖬩𖬰 𖬂𖬲𖬮𖬰 𖬖𖬤 𖬅𖬰𖬢 𖬃𖬞 𖬘𖬞 𖬊𖬲𖬟 𖬁𖬲𖬬. 𖬌𖬣𖬵 𖬓𖬤 𖬂𖬲𖬮𖬰 𖬒𖬟 𖬁𖬲𖬬 𖬑𖬲𖬮𖬰 𖬔𖬰𖬮𖬵 𖬒𖬲𖬯𖬵 𖬉 𖬖𖬰𖬤𖬰 𖬁𖬰𖬤𖬰, 𖬔𖬰𖬮𖬵 𖬉 𖬘𖬲𖬤 𖬀𖬰𖬝𖬵, 𖬔𖬰𖬮𖬵 𖬌𖬲𖬝𖬵 𖬙𖬶𖬤, 𖬐𖬰𖬦 𖬉 𖬖𖬯 𖬘𖬟, 𖬐𖬰𖬦 𖬒𖬲𖬯𖬵 𖬉 𖬂𖬲𖬤𖬵 𖬆𖬰𖬥, 𖬂𖬲𖬤𖬵 𖬖𖬲𖬪𖬵 𖬔𖬟𖬰 𖬂𖬲𖬤𖬵 𖬑𖬪𖬰 𖬀𖬲𖬟.}}
+|}
+
+==See also==
+{{Portal|Asia|Languages}}
+* [[Hmong people]]
+* [[Nyiakeng Puachue Hmong]]
+* [[Pahawh Hmong]]
+* [[Romanized Popular Alphabet]]
+* [[Ban Phou Pheung Noi]]
+{{Clear}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* Cooper, Robert, Editor. ''The Hmong: A Guide to Traditional Lifestyles''. Singapore: Times Editions. 1998. pp.&nbsp;35–41.
+* Finck, John. "Clan Leadership in the Hmong Community of Providence, Rhode Island." In ''The Hmong in the West'', Editors, Bruce T. Downing and Douglas P. Olney. Minneapolis, MN: Southeast Asian Refugee Studies Project, Center for Urban and Regional Affairs, [[University of Minnesota]], 1982, pp.&nbsp;22–25.
+* Thao, Paoze, ''Mong Education at the Crossroads'', New York: [[University Press of America]], 1999, pp.&nbsp;12–13.
+* Xiong Yuyou, Diana Cohen (2005). ''Student's Practical Miao–Chinese–English Handbook / Npout Ndeud Xof Geuf Lol Hmongb Lol Shuad Lol Yenb''. Yunnan Nationalities Publishing House, 539 pp.&nbsp;{{ISBN|7-5367-3287-2}}.
+
+==Further reading==
+* Enwall, Joakim. ''Hmong Writing Systems in Vietnam: A Case Study of Vietnam's Minority Language Policy''. Stockholm, Sweden: Center for Pacific Asian Studies, 1995.
+* Lyman, Thomas Amis ([[Chulalongkorn University]]). "[http://www.siamese-heritage.org/jsspdf/1981/JSS_078_1f_Lyman_MongGreenMiaoAndLanguage.pdf The Mong (Leeg Miao) and their Language: A Brief Compendium]" ([https://www.webcitation.org/6SAb4unCk?url=http://www.siamese-heritage.org/jsspdf/1981/JSS_078_1f_Lyman_MongGreenMiaoAndLanguage.pdf Archive]). p.&nbsp;63–66.
+*[[Marc Miyake|Miyake, Marc]]. 2011. [http://www.amritas.com/110618.htm#06152359 Unicode 6.1: the Old Miao script].
+*[[Marc Miyake|Miyake, Marc]]. 2012. [http://www.amritas.com/120721.htm Anglo-Hmong tonology].
+
+==External links==
+{{Incubator|mww|lang=Hmong Daw}}
+* [http://wold.clld.org/vocabulary/25 White Hmong Vocabulary List] (from the World Loanword Database)
+* [http://en.wiktionary.org/wiki/Appendix:White_Hmong_Swadesh_list White Hmong Swadesh List on Wiktionary] (''see [[Swadesh list]]'')
+* [http://hmong.lomation.com/reader/ Lomation's Hmong Text Reader] – free online program that can read Hmong words/text.
+* [http://www.hmongdictionary.com Online Hmong dictionary] (including audio clips)
+* [https://web.archive.org/web/20061214070244/http://www.moob.org/ Mong Literacy]: consonants, vowels, tones of Mong Njua and Hmong Daw
+* [http://www.ferazelhosting.net/~bryce/hmong.html Hmong Resources]
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\hmo\hmo&first=0 Hmong basic lexicon at the Global Lexicostatistical Database]
+* [http://www.hmongdictionary.us/Hmong_spell_chk_mb.php/ Hmong text reader]
+*https://rpa.oneoffcoder.com/cvt.html Romanized Popular Alphabet
+*[https://eric.ed.gov/?id=ED203687 English-Hmong Phrasebook with Useful Wordlist (for Hmong Speakers)], Center for Applied Linguistics, Washington, DC.
+
+{{Hmong-Mien languages}}
+{{navboxes|
+list=
+{{Languages of China}}
+{{Languages of Laos}}
+{{Languages of Myanmar}}
+{{Languages of Thailand}}
+{{Languages of Vietnam}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hmong Language}}
+[[Category:West Hmongic languages]]
+[[Category:Languages of China]]
+[[Category:Languages of Thailand]]
+[[Category:Languages of Laos]]
+[[Category:Languages of Vietnam]]
+[[Category:Hmong culture|Language]]

@@ -1,0 +1,437 @@
+{{Short description|Kx'a language spoken in Southern Africa}}
+{{Cleanup lang|article|date=August 2020}}
+{{Infobox language
+|name=Juǀʼhoan
+|image=[[File:WIKITONGUES- Classen speaking Jul’hoan.webm|250px|center]]
+|imagecaption=A Juǀʼhoan speaker, recorded in [[Namibia]].
+|altname=South(eastern) ǃXun/Ju
+|states=[[Namibia]], [[Botswana]]
+|region=near border with [[Angola]]
+|ethnicity=[[Juǀʼhoansi]]
+|speakers= 4,000
+|ref=<ref>{{Cite book|url=https://books.google.com/books?id=sl_dDVctycgC&pg=RA1-PA362|title=International Encyclopedia of Linguistics: AAVE-Esperanto. Vol. 1|date=2003|publisher=Oxford University Press|isbn=9780195139778|language=en}}</ref> <!--The numbers in ''Ethnologue'' add up to far more than the ~16,000 for all ǃKung in Brenzinger (2011)-->
+| date = 2003
+|familycolor=Khoisan
+|fam1=[[Kxʼa languages|Kxʼa]]
+|fam2=[[ǃKung language|ǃKung]]
+|dia1=[[ǂKxʼauǁʼein]]
+|iso3=ktz
+|notice=IPA
+|glotto=juho1239
+|glottorefname=South-Eastern Ju
+}}
+'''Juǀʼhoan''', also known as '''Southern''' or '''Southeastern ǃKung''' or '''ǃXun''', is the southern variety of the [[ǃKung language|ǃKung]] [[dialect continuum]], spoken in northeastern [[Namibia]] and the Northwest District of [[Botswana]] by [[San Bushmen]] who largely identify themselves as ''[[Juǀʼhoansi]]''. Several regional dialects are distinguished: Epukiro, Tsumǃkwe, Rundu, Omatako and [[ǂKxʼauǁʼein]], with Tsumǃkwe being the best described and often taken as representative.
+
+==Name==
+The name ''Juǀʼhoan'' (in the plural: ''Juǀʼhoansi'') is also rendered ''Žuǀʼhõa'' – or occasionally ''Zhuǀʼhõa'' or ''Dzuǀʼhõa'', depending on orthography. Depending on the classification, it is considered the Southern or Southeastern variety of the ǃKung (also rendered ''ǃXun'') language cluster. It may thus be referred to as ''Southern ǃKung'', ''Southeastern ǃXun'', etc. ''Juǀʼhoan'' is based on the word {{lang|ktz|ju}} 'people', which is also applied to the language cluster. (see [[ǃKung languages]] for variants of those names).
+
+==Phonology==
+=== Vowels ===
+{|class="wikitable"
+! rowspan=2 | &nbsp;
+! colspan=2 | Oral vowels
+! colspan=2 | [[Nasal vowel]]s
+|-
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+! Front
+! Back
+|-
+! [[Close vowel|Close]]
+| align=center | {{IPA|i}}
+| align=center | {{IPA|u}}
+| align=center | {{IPA|ĩ}}
+| align=center | {{IPA|ũ}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| align=center | {{IPA|e}}
+| align=center | {{IPA|o}}
+| align=center | {{IPA|ẽ}}
+| align=center | {{IPA|õ}}
+|-
+! [[Open vowel|Open]]
+| align=center colspan=2 | {{IPA|a}}
+| align=center colspan=2 | {{IPA|ã}}
+|}
+
+* When a front vowel /e/ or /i/ follows a consonant with a back vowel constraint (e.g. clicks with uvular articulation), an [ə] is inserted before the front vowel, written 'a' in the orthography. For example, mi |'ae (myself) reads /mi |'əe/.
+* The diphthong /oa/ may be realized as [wa].
+
+Juǀʼhoan has five vowel qualities, which may be [[nasal vowel|nasalized]], [[glottalization|glottalized]], [[breathy voice|murmured]], or combinations of these, and most of these possibilities occur both long and short. The qualities {{IPA|/a/}} and {{IPA|/o/}} may also be [[pharyngealization|pharyngealized]] and [[Strident vowel|strident]] (epiglottalized). Besides, it is a [[Tone (linguistics)|tonal]] language with four tones: very high, high, low and very low tones.<ref>{{Cite book|last=Dickens|first=Patrick|title=English-Juǀ'hoan / Juǀ'hoan-English Dictionary|publisher=Rüdiger Köppe Verlag|year=2009 |origyear=1992|isbn=978-3-89645-868-1|series=Quellen zur Khoisan-Forschung / Research in Khoisan Studies|volume=8|location=Köln|pages=15–16}}</ref> Thus, there are a good 30 vowel phonemes, perhaps more, depending on one's analysis. There are, in addition, many vowel sequences and [[diphthong]]s.
+
+=== Consonants ===
+Juǀʼhoan has an unusually large number of consonants, as typical for ǃKung. The following occur at the beginnings of roots. For brevity, only the alveolar clicks are listed with the other consonants; the complete set of clicks is found below.
+
+{| class="wikitable"
+! colspan=2 | 
+! [[labial consonant|Labial]] 
+! colspan=2|[[Alveolar consonant|Alveolar]] 
+! [[Postalveolar consonant|Postalveolar]]<br>/[[Palatal consonant|Palatal]] 
+! [[Velar consonant|Velar]] 
+! Corresponding<br> [[click consonant|Click]]
+! [[Glottal consonant|Glottal]]
+|-align=center bgcolor="#ccccff"
+! rowspan=3 | [[nasal stop|Nasal]] 
+!<small> voiced </small>
+| {{IPA|m}} || colspan=2 | {{IPA|n}} || || {{IPA|ŋ}} || {{IPA|ᵑǃ}}||
+|-align=center
+! <small>[[murmured consonant|murmured]]</small> 
+| {{IPA|(mʱ)}} ||colspan=4| || {{IPA|ᵑǃʱ}}||
+|-align=center
+! <small>aspirated</small> 
+|  colspan=5| || {{IPA|ᵑ̊ǃʰ}}||
+|-align=center bgcolor="#ccccff"
+! rowspan=10 | [[Plosive consonant|Plosive]] 
+!<small> [[voice (phonetics)|voiced]]</small> 
+| {{IPA|b}} || {{IPA|d}} || {{IPA|dz}} || {{IPA|dʒ}}|| {{IPA|ɡ}} || {{IPA|ᶢǃ}} ||
+|-align=center bgcolor="#ccccff"
+!<small> [[tenuis consonant|tenuis]]</small> 
+| {{IPA|p}} || {{IPA|t}}||{{IPA|ts}} || {{IPA|tʃ}} || {{IPA|k}} || {{IPA|ᵏǃ}} || {{IPA|(ʔ)}}
+|-align=center
+!<small> [[Aspiration (phonetics)|aspirated]]</small> 
+| {{IPA|pʰ}} || {{IPA|tʰ}} || {{IPA|tsʰ}} || {{IPA|tʃʰ}} || {{IPA|kʰ}} || {{IPA|ᵏǃʰ}} ||
+|-align=center
+!<small>[[aspirated voiced|prevoiced aspirated]]</small>
+| {{IPA|b͡pʰ}} || {{IPA|d͡tʰ}} || {{IPA|d͡tsʰ}} || {{IPA|d͡tʃʰ}} || {{IPA|ɡ͡kʰ}} || {{IPA|ᶢᵏǃʰ}} ||
+|-align=center
+!<small> [[ejective]] / [[glottalized click|glottalized]] </small>
+|  || colspan=2| {{IPA|tsʼ}} || {{IPA|tʃʼ}} || {{IPA|kxʼ}} || {{IPA|ᵑǃˀ}} ||
+|-align=center
+!<small>[[voiced ejective|prevoiced ejective]]</small>
+|  || colspan=2| {{IPA|d͡tsʼ}} || {{IPA|d͡tʃʼ}} ||  ||  ||
+|-align=center
+!<small>[[uvularization|uvularized]]</small>
+| {{IPA|}} || {{IPA|tᵡ}} || ||  || {{IPA|}} || {{IPA|ᵏǃᵡ}} ||
+|-align=center
+!<small> prevoiced uvularized</small>
+| {{IPA|}} || {{IPA|d͡tᵡ}} || {{IPA|d͡tsᵡ}} || {{IPA|d͡tʃᵡ}} || || {{IPA|ᶢᵏǃᵡ}} ||
+|-align=center
+!<small> uvular-ejected</small>
+| {{IPA|}} || {{IPA|tᵡʼ}} || ||  || {{IPA|kᵡʼ}} || {{IPA|ᵏǃᵡʼ}} ||
+|-align=center
+!<small>prevoiced uvular-ejected</small>
+| colspan=4| || {{IPA|ɡ͡kᵡʼ}} || {{IPA|ᶢᵏǃᵡʼ}} ||
+|-align=center bgcolor="#ccccff"
+! rowspan=2 | [[fricative consonant|Fricative]] 
+!<small>voiced</small> 
+|  || colspan=2|{{IPA|z}} || {{IPA|ʒ}} ||  || ||{{IPA|ɦ}}
+|-align=center bgcolor="#ccccff"
+!<small> voiceless </small>
+| {{IPA|(f)}} || colspan=2|{{IPA|s}} || {{IPA|ʃ}} || {{IPA|χ}} || ||
+|}
+
+Tenuis and modally voiced consonants (blue) may occur with any vowel quality. However, other consonants (grey, transcribed with a superscript diacritic to their right) do not occur in the same root as murmured, glottalized, or epiglottalized vowels.
+
+The prevoiced aspirated and ejective consonants, both pulmonic and clicks, contain a voiceless interval, which Miller (2003) attributes to a larger glottal opening than is found in Hindustani breathy-voiced consonants. Phonetically, however, they are voice contours, starting out voiced but becoming voiceless for the aspiration or ejection.<ref>{{SOWL|63, 80–81}}</ref>
+
+The phonemic status of {{IPA|[ʔ], [dz]}} and {{IPA|[dʒ]}} is uncertain. {{IPA|[ʔ]}} may be epenthetic before vowel-initial words; alternatively, it may be that no word may begin with a vowel. {{IPA|/mʱ/}} occurs only in a single morpheme, the plural diminutive enclitic {{IPA|/mʱi/}}. {{IPA|/f/}} and {{IPA|/l/}} (not shown) only occur in loan words, and some accounts posit a {{IPA|/j/}} and {{IPA|/w/}}. Labials ({{IPA|/p, pʰ, b, b͡pʰ, m/}}) are very rare initially, though {{IPA|β̞}} is common between vowels. Velar stops (oral and nasal) are rare initially and very rare medially.
+
+The uvulo-ejective consonants are analyzed as epiglottalized in Miller-Ockhuizen (2003). They have uvular frication and glottalization, and are similar to consonants in [[Nǀu language|Nǀu]] described as uvular ejective by Miller et al. (2009). Their epiglottal character may be a phonetic consequence of the raised larynx involved in making them ejective.
+
+Only a small set of consonants occur between vowels within roots. These are:
+
+{| class="wikitable IPA"
+|-
+| Labial || Alveolar|| Velar || Uvular ||Glottal
+|-align=center
+| bgcolor="#ccffcc"| {{IPA|β̞}} || bgcolor="#ccffcc"| {{IPA|ɾ}} || {{IPA|ɣ}} || ||
+|-align=center
+| bgcolor="#ccffcc"| {{IPA|m}} || bgcolor="#ccffcc"| {{IPA|n}} || {{IPA|ŋ}} || ||
+|-align=center
+| || || k, ŋk || q͡χʼ ||
+|-align=center
+| || || || χ || ɦ
+|}
+
+Medial {{IPA|[β̞, ɾ, m, n]}} (green) are very common; {{IPA|[ɣ, ŋ]}} are rare, and the other medial consonants occur in only a very few roots, many of them loans. {{IPA|[β̞, ɾ, ɣ]}} are generally analyzed as allophones of {{IPA|/b, d, ɡ/}}. However, {{IPA|[ɾ]}} especially may correspond to multiple root-initial consonants.
+
+Juǀʼhoan has 48 click consonants. There are four click "types": dental, lateral, alveolar, and palatal, each of which found in twelve series or "accompaniments" (combinations of manner, phonation, and contour). These are perfectly normal consonants in Juǀʼhoan, and indeed are preferred over non-clicks in word-initial position.
+
+{| class=wikitable
+! colspan=2 | 'noisy' clicks || colspan=2 | 'sharp' clicks || rowspan=2 | series
+|-
+| [[dental click|dental]] || [[alveolar lateral click|lateral]]|| [[postalveolar click|alveolar]] || [[palatal click|palatal]] 
+|- bgcolor="#ccccff"
+| {{IPA|ᵏǀ}} || {{IPA|ᵏǁ}} || {{IPA|ᵏǃ}} || {{IPA|ᵏǂ}} || Tenuis
+|- bgcolor="#ccccff"
+| {{IPA|ᶢǀ}} || {{IPA|ᶢǁ}} || {{IPA|ᶢǃ}} || {{IPA|ᶢǂ}} || Voiced
+|- bgcolor="#ccccff"
+| {{IPA|ᵑǀ}} || {{IPA|ᵑǁ}} || {{IPA|ᵑǃ}} || {{IPA|ᵑǂ}} || Nasal
+|-
+| {{IPA|ᵏǀʰ}} || {{IPA|ᵏǁʰ}} || {{IPA|ᵏǃʰ}} || {{IPA|ᵏǂʰ}} || Aspirated
+|-
+| {{IPA|ᶢᵏǀʰ}} || {{IPA|ᶢᵏǁʰ}} || {{IPA|ᶢᵏǃʰ}} || {{IPA|ᶢᵏǂʰ}} || Pre-voiced aspirated
+|-
+| {{IPA|ᵑ̊ǀʰ}} || {{IPA|ᵑ̊ǁʰ}} || {{IPA|ᵑ̊ǃʰ}} || {{IPA|ᵑ̊ǂʰ}} || Aspirated nasal
+|-
+| {{IPA|ᵑǀʱ}} || {{IPA|ᵑǁʱ}} || {{IPA|ᵑǃʱ}} || {{IPA|ᵑǂʱ}} || Murmured nasal 
+|-
+| {{IPA|ᵑǀˀ}} || {{IPA|ᵑǁˀ}} || {{IPA|ᵑǃˀ}} || {{IPA|ᵑǂˀ}} || Glottalized nasal
+|-
+| {{IPA|ᵏǀᵡ}} || {{IPA|ᵏǁᵡ}} || {{IPA|ᵏǃᵡ}} || {{IPA|ᵏǂᵡ}} || Linguo-pulmonic contour
+|-
+| {{IPA|ᶢᵏǀᵡ}} || {{IPA|ᶢᵏǁᵡ}} || {{IPA|ᶢᵏǃᵡ}} || {{IPA|ᶢᵏǂᵡ}} || Voiced linguo-pulmonic
+|-
+| {{IPA|ᵏǀᵡʼ}} || {{IPA|ᵏǁᵡʼ}} || {{IPA|ᵏǃᵡʼ}} || {{IPA|ᵏǂᵡʼ}} || Epiglottalized (heterorganic contour)
+|-
+| {{IPA|ᶢᵏǀᵡʼ}} || {{IPA|ᶢᵏǁᵡʼ}} || {{IPA|ᶢᵏǃᵡʼ}} || {{IPA|ᶢᵏǂᵡʼ}} || Voiced epiglottalized
+|}
+
+As above, tenuis and modally voiced consonants (blue) may occur with any vowel quality. However, other consonants (grey, transcribed with a superscript diacritic to their right) do not occur in the same root as murmured, glottalized, or epiglottalized vowels.
+
+Glottalized clicks occur almost exclusively before nasal vowels. This suggests they are nasalized, as in most if not all other languages with glottalized clicks. The nasalization would not be audible during the click itself due to the glottalization, which would prevent any nasal airflow, but the velum would be lowered, potentially nasalizing adjacent vowels.
+
+The 'uvularized' clicks are actually [[linguo-pulmonic]] contours, {{IPA|[ǃ͡qχ]}}, etc. The 'uvulo-ejective' clicks are [[homorganic|heterorganic]] affricates, and equivalent to [[linguo-glottalic consonant]]s transcribed {{IPA|[ǃ͡kxʼ]}}, etc., in other languages (Miller 2011).
+
+See [[Ekoka ǃKung]] for a related variety with a somewhat larger click inventory.
+
+==Orthographic history==
+Juǀʼhoan is the only variety of ǃKung to be written. Three orthographies have been used over the past half century, two based on pipe letters for clicks and one using only the basic Latin alphabet.
+
+In the 1960s, the South African Department of Education set about establishing official orthographies for the languages of [[Southwest Africa]] (Namibia). Jan Snyman was selected to develop an orthography for the then-unwritten Juǀʼhoasi, which was accepted in 1969. In this orthography, the name of the language is spelled Žuǀʼhõasi. A slightly modified form (Snyman 1975) is shown below.
+
+In the 1980s, the [[Bible Society]] of South Africa requested a new orthography, one that used only letters of the Latin alphabet, avoided diacritics as much as possible, and conformed as much as possible to the conventions of [[Afrikaans language|Afrikaans]]. This second orthography was accepted in 1987, in which the language is spelled Zjuc'hôa.
+
+A third orthography was developed by the Juǀwa Bushman Development Foundation in 1994. This is the orthography that is currently in use in Namibia; there does not seem to be any publication in Botswana.
+
+The three orthographies, along with the IPA, are compared below. Tone is evidently unmarked.
+
+{| class="IPA wikitable"
+|+ Comparison of Juǀʼhoan orthographies
+|-
+! ||colspan=4|Labial plosives ||colspan=4|Alveolar plosives ||colspan=4|Velar plosives ||colspan=5|Alveolar affricates ||colspan=5|Postalveolar affricates ||
+|-
+! IPA 
+| [b] || [p] || [b͡pʰ] || [pʰ] || [d] || [t] || [d͡tʰ] || [tʰ] || [ɡ] || [k] || [ɡ͡kʰ] || [kʰ] || [ts] || [d͡tsʰ] || [tsʰ] || [d͡tsʼ] || [tsʼ] || [tʃ] || [d͡tʃʰ] || [tʃʰ] || [d͡tʃʼ] || [tʃʼ] || [kxʼ]
+|-
+! 1994–present
+|rowspan=3| b ||rowspan=3| p ||rowspan=3| bh ||rowspan=3| ph ||rowspan=3| d ||rowspan=3| t ||rowspan=3| dh ||rowspan=3| th ||rowspan=2| g ||rowspan=3| k ||rowspan=2| gh ||rowspan=3| kh ||rowspan=3| ts ||rowspan=3| dsh ||rowspan=3| tsh || ds || tz || tc || dch || tch || dc || tj || kx
+|-
+! 1975–1987
+|rowspan=2| dsʼ || rowspan=2| tsʼ || tš || dšh || tšh || dšʼ || tšʼ || kxʼ
+|-
+! 1987–1994
+| gh || ʼgh || tj || djh || tjh || djʼ || tjʼ || kg
+|}
+
+{| class="IPA wikitable"
+! ||colspan=7|Hetero-organic affricates ||colspan=6|Fricates || ||colspan=2|Nasals ||colspan=4|Syllabic<br>Nasals ||colspan=2|Approximants
+|- 
+! IPA 
+| [d͡tᵡ] || [tᵡ] || [tᵡʼ] || [d͡tsᵡ] || [tsᵡ] || [d͡tʃᵡ] || [tʃᵡ] || [z] || [s] || [ʒ] || [ʃ] || [χ] || [h] || [ɽ] || [m] || [n] || [m̩] || [ŋ̍] || [m̰] || [m̤] || [j] || [w]
+|-
+! 1994–present
+|rowspan=2| dx ||rowspan=2| tx || tk ||rowspan=2| dzx ||rowspan=2| tsx || djx || tcx ||rowspan=3| z ||rowspan=3| s || j || c ||rowspan=2| x ||rowspan=3| h ||rowspan=3| r ||rowspan=3| m ||rowspan=3| n ||rowspan=3| m ||rowspan=3| ang || mq ||rowspan=3| mh ||rowspan=3| y ||rowspan=3| w
+|-
+! 1975–1987
+| txʼ || dx || tx || ž || š || m̭
+|-
+! 1987–1994
+| dg || tg || tgʼ || - || tsg || djg || tjg || zj || sj || g || m̹
+|}
+
+{| class="IPA wikitable"
+! ||colspan=12|Dental clicks ||colspan=12|Alveolar clicks 
+|-
+! IPA 
+| [ᶢǀ] || [ᵏǀ] || [ᶢᵏǀʰ] || [ᵏǀʰ] || [ᵑǀˀ] || [ᵑ̊ǀʰ] || [ᵑǀ] ||[ᵑǀʱ] || [ᶢᵏǀᵡ] || [ᵏǀᵡ] || [ᶢᵏǀᵡʼ] || [ᵏǀᵡʼ] 
+| [ᶢǃ] || [ᵏǃ] || [ᶢᵏǃʰ] || [ᵏǃʰ] || [ᵑǃˀ] || [ᵑ̊ǃʰ] || [ᵑǃ] ||[ᵑǃʱ] || [ᶢᵏǃᵡ] || [ᵏǃᵡ] || [ᶢᵏǃᵡʼ] || [ᵏǃᵡʼ]
+|-
+! 1994–present
+|rowspan=2| gǀ ||rowspan=2| ǀ ||rowspan=2| gǀh ||rowspan=2| ǀh ||rowspan=2| ǀʼ ||rowspan=2| ǀʼh ||rowspan=2| nǀ || nǀh ||rowspan=2| gǀx ||rowspan=2| ǀx || gǀk || ǀk 
+|rowspan=2| gǃ ||rowspan=2| ǃ ||rowspan=2| gǃh ||rowspan=2| ǃh ||rowspan=2| ǃʼ ||rowspan=2| ǃʼh ||rowspan=2| nǃ || nǃh ||rowspan=2| gǃx ||rowspan=2| ǃx || gǃk || ǃk
+|-
+! 1975–1987
+| nǀʼh || gǀxʼ || ǀxʼ || nǃʼh || gǃxʼ || ǃxʼ
+|-
+! 1987–1994
+| gc || c || dch || ch || cʼ || cʼh || nc || nch || dcg || cg || dcgʼ || cgʼ 
+| gq || q || dqh || qh || qʼ || qʼh || nq || nqh || dqg || qg || dqgʼ || qgʼ
+|}
+
+{| class="IPA wikitable"
+! ||colspan=12|Palatal clicks ||colspan=12|Lateral clicks 
+|-
+! IPA 
+| [ᶢǂ] || [ᵏǂ] || [ᶢᵏǂʰ] || [ᵏǂʰ] || [ᵑǂˀ] || [ᵑ̊ǂʰ] || [ᵑǂ] ||[ᵑǂʱ] || [ᶢᵏǂᵡ] || [ᵏǂᵡ] || [ᶢᵏǂᵡʼ] || [ᵏǂᵡʼ] 
+| [ᶢǁ] || [ᵏǁ] || [ᶢᵏǁʰ] || [ᵏǁʰ] || [ᵑǁˀ] || [ᵑ̊ǁʰ] || [ᵑǁ] ||[ᵑǁʱ] || [ᶢᵏǁᵡ] || [ᵏǁᵡ] || [ᶢᵏǁᵡʼ] || [ᵏǁᵡʼ]
+|-
+! 1994–present
+|rowspan=2| gǂ ||rowspan=2| ǂ ||rowspan=2| gǂh ||rowspan=2| ǂh ||rowspan=2| ǂʼ ||rowspan=2| ǂʼh ||rowspan=2| nǂ || nǂh ||rowspan=2| gǂx ||rowspan=2| ǂx || gǂk || ǂk 
+|rowspan=2| gǁ ||rowspan=2| ǁ ||rowspan=2| gǁh ||rowspan=2| ǁh ||rowspan=2| ǁʼ ||rowspan=2| ǁʼh ||rowspan=2| nǁ || nǁh ||rowspan=2| gǁx ||rowspan=2| ǁx || gǁk || ǁk
+|-
+! 1975–1987
+| nǂʼh || gǂxʼ || ǂxʼ || nǁʼh || gǁxʼ || ǁxʼ
+|-
+! 1987–1994
+| gç || ç || dçh || çh || çʼ || çʼh || nç || nçh || dçg || çg || dçgʼ || çgʼ 
+| gx || x || dxh || xh || xʼ || xʼh || nx || nxh || dxg || xg || dxgʼ || xgʼ
+|}
+
+{| class="IPA wikitable"
+! ||colspan=5|Plain vowels ||colspan=2|Pressed<br>vowels ||colspan=4|Nasal vowels ||colspan=2|Pressed<br>Nasal vowels
+|-
+! IPA 
+| [i] || [e] || [a, ə] || [o] || [u] || [aˤ] || [oˤ] || [ĩ] || [ã] || [õ] || [ũ] || [ãˤ] || [õˤ]
+|-
+! 1994–present
+|rowspan=3| i ||rowspan=3| e ||rowspan=2| a ||rowspan=3| o ||rowspan=3| u || aq || oq || in || an || on || un || aqn || oqn
+|-
+! 1975–1987
+| a̭ || o̭ || ĩ || ã || õ || ũ || ã̭ || õ̭
+|-
+! 1987–1994
+| a, e || a̦ || o̦ || î || â || ô || û || â̦ || ô̦
+|}
+
+The modern (1994) orthography also has ''ih, eh, ah, oh, uh'' for breathy (murmured) vowels, and ''ihn, ahn, ohn, uhn'' for breathy nasal vowels. However, Snyman maintains that these are positional variants of low-tone vowels, and not needed in an orthography (at least, not if tone were marked). Glottalized vowels are written with an apostrophe in all three orthographies.
+
+==Grammar==
+Source: Dickens (2009).
+
+Juǀ'hoan is basically isolating, being a [[zero-marking]] language in both clauses and noun phrases. The [[Constituent order|word order]] is SVO.
+
+===Nouns and pronouns===
+Nouns are grouped into noun classes based on animacy and species, with each class having a pronoun-set. The plural is formed by the suffixing of {{lang|ktz|-si}} or {{lang|ktz|-sín}} or by no change, {{lang|ktz|-Ø}}. Many nouns have irregular plurals, such as {{lang|ktz|jù}} (''person'', plural {{lang|ktz|jú}}).
+
+For example, the noun {{lang|ktz|gǂhòà}}, "dog", belongs to class 2, and may be referred to with the pronoun {{lang|ktz|ha}}, whereas {{lang|ktz|gǀúí}}, "forest", belongs to class 5, which has {{lang|ktz|ká}} as its corresponding pronoun.
+
+The noun classes and their pronoun-sets are as follows:
+
+{| class="wikitable"
+! Class
+! General
+! Possessed 
+! Deictic 
+! Example
+|-
+! 1
+| {{lang|ktz|ha}} (sg); {{lang|ktz|sá}} (dual); {{lang|ktz|hì}}, {{lang|ktz|sì}} (pl)
+| {{lang|ktz|mà}} (sg); {{lang|ktz|hìsì}} (pl)
+| {{lang|ktz|ǁʼàhaà}} (sg); {{lang|ktz|ǁʼàsà}} (dual); {{lang|ktz|ǁʼàsìsà}}, {{lang|ktz|ǁʼàhìsà}} (pl)
+| {{lang|ktz|jù}} "person" 
+|-
+! 2
+| ha (sg); hì (pl)
+| mà (sg); hìsì (pl)
+| ǁʼàhaà (sg); ǁʼàhìsà (pl)
+| gǂhòà "dog"
+|-
+! 3
+| ha (sg & pl)
+| mà (sg); màsì (pl)
+| ǁʼàhaà (sg & pl)
+| ǁxòè "meteor" 
+|-
+! 4
+| hì (sg & pl)
+| hì (sg); hìsì (pl)
+| ǁʼàhìà (sg); ǁʼàhìsà (pl)
+| gǁùú, "meteor"
+|-
+! 5
+| ká (sg & pl)
+| gá (sg); gásì (pl)
+| ǁʼàkáà (sg); ǁʼàkásà (pl)
+| gǀúí "forest"
+|}
+
+====Pronouns====
+Personal and demonstrative pronouns are:
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | mí
+| ètsá
+| è, èǃá
+|-
+! inclusive
+| mtsá
+| m, mǃá
+|-
+! colspan="2" | 2nd person
+| à; há (hort.)
+| ìtsá
+| ì, ìǃá
+|-
+! colspan="2" | 3rd person
+| ha (n1-3), hì (n4), ká (n5)
+| sá (n1)
+| hì (n1-2), sì (n1)
+|}
+
+==Common words and phrases==
+*{{lang|ktz|ján ǀàm}} – Good day
+*{{lang|ktz|ǂxáí}} – Good morning
+*{{lang|ktz|ǁáú tzà}} – Good evening
+*{{lang|ktz|gǁàán}} - Good afternoon 
+*{{lang|ktz|à ján}} – How are you?
+*{{lang|ktz|ǁáú gè}} – Goodbye
+*{{lang|ktz|jù}} – person
+*{{lang|ktz|jú}} – people 
+*{{lang|ktz|gǃú}}, {{lang|ktz|dohmsoan}} – water
+*{{lang|ktz|nǃaisi u}} – Bon voyage
+
+==Sample texts==
+
+Following are some sample texts in the Juǀʼhoan language.<ref>''Coordination and Subordination: Form and Meaning—Selected Papers from CSI Lisbon 2014''. Fernanda Pratas, Sandra Pereira, Clara Pinto, 2014</ref><ref>''Africa's Endangered Languages: Documentary and Theoretical Approaches''. [[Jason Kandybowicz]], Harold Torrence, 2017</ref>
+
+{{interlinear|lang=ktz|number=ex:
+|E nǁurì tè kxóní ǀʼùrì ǃóm
+|we try and fix bicycle wheel
+|'We tried to fix the bicycle wheel.'}}
+
+{{interlinear|lang=ktz|number=ex:|abbreviations=TRANS:transitive
+|Uto dchuun-a ǀKaece ko nǃama nǃang
+|car hit-TRANS ǀKaece LK road in
+|'A car hit ǀKaece in the road'}}
+
+{{interlinear|lang=ktz|number=ex:
+|Besa komm ǁʼama-ǀʼan Oba ko tcisi
+|Besa EMPH buy-give Oba LK things
+|'Besa bought Oba some things'}}
+
+{{interlinear|lang=ktz|number=ex:|abbreviations=TRANS:transitive
+|dshau nǂai ʻm-a ha daʼabi ko mari
+|woman cause eat-TRANS her child LK [[mielie-meal]]
+|'The woman fed her child mealie meal.' (Dickens 2005:84)}}
+
+{{interlinear|lang=ktz|number=ex:|abbreviations=TRANS:transitive
+|mi ba ǁohm-a ǃaihn ko ǀʼai
+|my father chop-TRANS tree LK axe
+|'My father chopped the tree with an axe.'}}
+
+==Films==
+*1980 – ''[[The Gods Must Be Crazy]]''
+*2003 – ''[[The Journey of Man]]''
+
+==Bibliography==
+*Dickens, Patrick J. (2005) ''A Concise Grammar of Juǀʼhoan With a Juǀʼhoan–English Glossary and a Subject Index'', {{ISBN|978-3-89645-145-3}}, Rüdiger Köppe Verlag: Köln.
+*Miller-Ockhuizen, Amanda (2003) ''The phonetics and phonology of gutturals: case study from Juǀʼhoansi''. Psychology Press.
+*Snyman, Jan W. (1975) ''Zuǀʼhõasi Fonologie en Woordeboek''. Cape Town: AA Balkema.
+*Snyman, Jan W. (1983) 'Zuǀʼhõasi, a Khoisan Dialect of South West Africa/Namibia', in Dihoff, Ivan R. (ed.) ''Current Approaches to African Linguistics Vol 1'', 115&ndash;125.
+*Snyman, Jan W. (1997) 'A preliminary classification of the ǃXũũ and Zuǀʼhõasi Dialects', in Haacke, W.H.G. & Elderkin, E.D. (eds.) ''Namibian Languages: Reports and Papers''. (Namibian African Studies, 4). Köln: Rüdiger Köppe, 21&ndash;106.
+*Snyman, Jan W. (n.d.) ''An Official Orthography for Žuǀʼhõasi Kokxʼoi.'' Pretoria.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\pkh\nkh&limit=-1 Juǀʼhoan basic lexicon at the Global Lexicostatistical Database]
+{{incubator|code=ktz}}
+
+{{Khoisan}}
+{{Languages of Botswana}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Juhoan Language}}
+[[Category:Kx'a languages]]
+[[Category:Languages of Botswana]]

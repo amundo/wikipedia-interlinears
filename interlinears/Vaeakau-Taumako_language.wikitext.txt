@@ -1,0 +1,1027 @@
+{{EngvarB|date=August 2014}}
+{{Use dmy dates|date=June 2021}}
+{{Infobox language
+|name=Vaeakau-Taumako 
+|nativename=Pileni
+|region=[[Reef Islands]] and [[Taumako]], Solomon Islands
+|speakers={{sigfig|1660|2}}
+|date=1999
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Polynesian languages|Polynesian]]
+|fam5=[[Futunic languages|Futunic]] ?
+|iso3=piv
+|glotto=pile1238
+|glottorefname=Vaeakau-Taumako
+|notice=IPA
+}}
+
+'''Vaeakau-Taumako''' (formerly known as ''Pileni'') is a [[Polynesian language]] spoken in some of the [[Reef Islands]] as well as in the [[Taumako]] Islands (also known as the [[Duff Islands]]) in the [[Temotu Province|Temotu]] province of the [[Solomon Islands]].
+
+The language is spoken throughout the Taumako Islands, while in the Reef Islands, it is spoken on [[Aua, Reef Islands|Aua]], [[Matema]], [[Nifiloli]], [[Nupani]], [[Nukapu]], and [[Pileni]]. Speakers are thought{{by whom|date=July 2015}} to be descendants of people from Tuvalu.
+
+Vaeakau-Taumako was described by linguists [[Even Hovdhaugen]] and Åshild Næss, in the form of a dictionary<ref>[[#sdvtl|Hovdhaugen (2006)]].</ref> and a grammar.<ref>[[#gvt|Næss & Hovdhaugen (2011)]].</ref>
+
+==Classification==
+Vaeakau-Taumako is a [[Polynesian outlier]]. Within that group, it has traditionally been considered one of the [[Futunic languages|Futunic]] branch, but a 2008 study (exclusively based on lexical evidence) concluded that this membership is weakly supported.<ref>[https://web.archive.org/web/20060927145238/http://language.psy.auckland.ac.nz/austronesian/research.php ''Austronesian Basic Vocabulary Database'']</ref>
+
+==Phonology==
+
+===Vowels===
+
+Vaeakau-Taumako does not vary from the standard Polynesian and Austronesian vowel system, featuring five vowels that can be used either in a long or short form. Short vowels found in word-final syllables are frequently devoiced or dropped, but long vowels in the same position are always stressed. There is little allophonic variation between vowel pronunciations.<ref group="GVT" name="p28">p.28</ref>
+
+{| class="wikitable" style="text-align: center;"
+|-
+! 
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| i: /i/ and /ī/
+|
+| u: /u/ and /ū/
+|-
+! [[Mid vowel|Mid]]
+| e: /e/ and /ē/
+|
+| o: /o/ and /ō/
+|-
+! [[Low vowel|Low]]
+| 
+| a: /a/ and /ā/
+|
+|}
+
+Vowel sequences in Vaeakau-Taumako are typically not treated as [[diphthongs]], as they are not fully reduplicated, as shown in the word "holauhola". This is despite the vowels in the original word being pronounced like a diphthong.<ref group="GVT" name="p28"/>
+
+===Consonants===
+
+The Vaeakau-Taumako language has one of the most complex consonant system of the Polynesian languages, with 19 distinct phonemes, plus a large amount of variation across dialects. /b/ and /d/ are found primarily in loan words, rather being native to the language.<ref group="GVT">p.34-35</ref>
+
+Aspirated sounds are characteristic of the language, and are typically strong and audible. However, the use of aspirated sounds varies across dialects, enough that it is difficult to identify a consistent pattern aside from noting they always occur at the start of stressed syllables.<ref group="GVT">p.36</ref>
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="2" | 
+! [[Labial consonant|Labial]]
+! [[Coronal consonant|Coronal]]
+! [[Dorsal consonant|Dorsal]]
+|-
+! rowspan="2" | [[Nasal consonant|Nasal]]
+! <small>plain</small>
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ŋ}}
+|-
+! <small>aspirated</small>
+| {{IPA|mʰ}}
+| {{IPA|nʰ}}
+| {{IPA|ŋʰ}}
+|-
+! rowspan="3" | [[Plosive]]
+! <small>unvoiced</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|k}}
+|-
+! <small>aspirated</small>
+| {{IPA|pʰ}}
+| {{IPA|tʰ}}
+| {{IPA|kʰ}}
+|-
+! <small>voiced</small>
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| 
+|-
+! colspan="2" | [[Fricative]]
+| {{IPAlink|v}}
+| {{IPAlink|s}}
+| {{IPAlink|h}}
+|-
+! rowspan="2" | [[Approximant]]
+! <small>plain</small>
+| 
+| {{IPAlink|l}}
+| 
+|-
+! <small>aspirated</small>
+| 
+| {{IPA|lʰ}}
+| 
+|}
+
+==Morphology==
+
+===Pronouns===
+Vaeakau-Taumako pronouns distinguish between 1st, 2nd and 3rd person pronouns. There are some [[Clusivity|inclusive and exclusive distinctions]], and variations for singular, dual and plural in all cases. There are no gender distinctions. There is variation in the pronoun system for the dialects of Vaeakau-Taumako which can become quite complex, so for simplicity, only the general forms are recorded here.<ref group="GVT">p.98</ref>
+
+====Independent personal pronouns====
+There are two distinctive base sets of independent personal pronouns in Vaeakau-Taumako. The standard forms are used for formal occasions and recorded text, while the colloquial forms are typically found in informal, everyday conversation.<ref group="GVT">p.99-100</ref>
+
+{| class="wikitable"
+|-
+! rowspan="2" colspan="2" | 
+! rowspan="2" | Singular
+! colspan="2" | Dual
+! colspan="2" | Plural
+|-
+! standard || [[colloquial]]
+! standard || colloquial
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | iau, au
+| thaua
+| haua
+| thatou, thatu
+| hatou, hatu
+|-
+! exclusive
+| mhuaua
+| 
+| mihatou, mhatu
+| 
+|-
+! colspan="2" | 2nd person
+| koe
+| khoulua, kholua
+| houlua, holua
+| khoutou, khotou
+| houtou
+|-
+! colspan="2" | 3rd person
+| ia
+| lhaua
+| haua
+| lhatou, lhatu
+| hatou, hatu
+|}
+
+====Bound subject pronouns====
+The language also features bound subject pronouns which act as clitics to the tense-aspect-mood marker of the verb of the constituent. They are not obligatory to use. The presence of the "u" has free variation by the choice of the speaker, but they are typically less prevalent in the colloquial forms.<ref group="GVT">p.103-104</ref>
+
+{| class="wikitable" 
+|-
+! rowspan="2" colspan="2" | 
+! rowspan="2" | Singular
+! colspan="2" | Dual
+! colspan="2" | Plural
+|-
+! standard || colloquial
+! standard || colloquial
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | u=, ku=
+| tha(u)=
+| ha=
+| that(u)=
+| hat(u)=
+|-
+! exclusive
+| mha(u)=
+| 
+| mhat(u)=
+| 
+|-
+! colspan="2" | 2nd person
+| ko=
+| khol(u)=
+| hol(u)=
+| khot(u)=
+| hot(u)=
+|-
+! colspan="2" | 3rd person
+| ø
+| lha(u)=
+| ha=
+| lhat(u)=
+| hat(u)=
+|}
+
+====Hortative pronouns====
+The dual, plural and 2nd person singular have specific pronouns used in imperative and [[hortative]] sentences.<ref group="GVT">p.105</ref>
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | 
+| ta
+| tatu, hatu, tatou
+|-
+! exclusive
+| ma
+| matu
+|-
+! colspan="2" | 2nd person
+| ko
+| lu
+| tu
+|-
+! colspan="2" | 3rd person
+| 
+| la
+| latu, hatu
+|}
+
+====Emphatic corefential pronouns====
+When the subject and direct object of a sentence are the same thing, repetition of the independent pronoun in place of both argument positions is typically used. However, there is a set of emphatic coreferential pronouns used for the direct object to refer to someone or a group of people acting alone.<ref group="GVT">p.106</ref>
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | okhoiau
+| okhitaua
+| okithatou
+|-
+! exclusive
+| okhimaua
+| okimhatou
+|-
+! colspan="2" | 2nd person
+| okhoe
+| okhoulua
+| okhoutou
+|-
+! colspan="2" | 3rd person
+| okhoia
+| okhilaua
+| okilhatou
+|}
+
+====The general pronoun ''nga''====
+The word ''nga'' functions as a pronoun with specific use. It is a third person pronoun, but lacks specification for number, and is used to refer to both singular and plural referents. It typically is an anaphoric reference to a previously mentioned referent.<ref group="GVT">p.106-107</ref>
+
+== Possession ==
+
+=== Control ===
+While it is common for Polynesian languages to distinguish between alienability and inalienability with [[Polynesian languages#a and o possession|a and o possessives]], this is not the case for Vaeakau-Taumako. This distinction exists, however it instead marks control – not of the possessed item itself, but of the possessive relationship.<ref group="GVT" name="p109">p.109</ref>
+
+==== A-possessives ====
+Relationships that can be initiated or terminated freely, such as items that can be bought, sold or given away at will are marked with the a-possessive.<ref group="GVT" name="p109" />
+
+==== O-possessives ====
+Relationships that are outside of the possessor's personal control, such as body parts and kinship relationships are marked with o-possessives.<ref group="GVT" name="p109" />
+
+=== Alienability and inalienability ===
+Instead of a- and o- possessives, alienability and inalienability in Vaeakau-Taumako are distinguished by the use of either prenominal or postnominal possessive pronouns.<ref group="GVT" name="p111">p.111</ref>
+
+==== Prenominal possessive pronouns ====
+Prenominal possessive pronouns occur directly preceding the possessed nouns, and are typically used for inalienable relationships, such as kinship terms and body parts.<ref group="GVT">p.112</ref> Prenominal possessive pronouns distinguish between singular, dual and plural of the possessor. The singular possessive forms make an additional distinction between singular and plural of the possessed entity, and encode the a- or o-possessive directly. The dual and plural possessor forms are combined with the possessive prepositions ''a'' and ''o'' to express this distinction, or they may occur without a preposition.<ref group="GVT" name="p111" /> 
+
+{| class="wikitable" 
+|-
+! rowspan="2" colspan="2" | 
+! colspan="2" | Singular
+! rowspan="2" | Dual
+! rowspan="2" | Plural
+|-
+! Singular possessed
+! Plural possessed
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | taku, toku/tuku
+| rowspan="2" | aku, oku
+| (a/o) ta
+| (a/o) tatu
+|-
+! exclusive
+| (a/o) ma
+| (a/o) matu
+|-
+! colspan="2" | 2nd person
+| tau, tō
+| au, ou/ō
+| (a/o) lu
+| (a/o) koto, (a/o) tu
+|-
+! colspan="2" | 3rd person
+| tana, tona, tena, na
+| ana, ona
+| (a/o) la
+| (a/o) latu
+|}
+
+==== Postnominal possessive pronouns ====
+The postnominal possessive pronoun succeeds the possessed noun, and are used to mark alienable relationships, such as owned items. They make no distinction between singular and plural of the possessed item, instead the distinction is usually made through the choice of article preceding the possessed noun. Like with prenominal possessive pronouns, the postnominal possessives are based on the possessive prepositions ''a'' and ''o'', plus a pronominal form indicating person and number of the possessor. In the singular form, this is the same set of suffixes found on the prenominal possessives, whereas in the dual and plural form, a distinct set of person and number forms are found. In the third and first person, these forms are identical to the independent personal pronouns, except for the lack of aspiration on the initial consonant.<ref group="GVT">p.115</ref> 
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | aku, oku
+| taua
+| tatou
+|-
+! exclusive
+| maua
+| matou
+|-
+! colspan="2" | 2nd person
+| au, ou
+| aulua, oulua
+| autou, outou
+|-
+! colspan="2" | 3rd person
+| ana, ona
+| laua
+| latou
+|}
+
+=== Possessive Suffixes ===
+The possessive suffixes ''-ku''  (1st person), ''-u'' (2nd person) and ''-na'' (3rd person) apply to a restricted set of kinship nouns: ''tama''/''mha'' 'father', ''hina'' 'mother', ''thoka'' 'same-sex sibling', ''thupu'' 'grandparent', and ''mokupu'' 'grandchild'. These nouns cannot occur without possessive marking, they require either a possessive suffix or, in the dual and plural, a postnominal possessive pronoun.<ref group="GVT">p.147</ref> An alternative construction is for these nouns to take the 3rd person possessive suffix ''-na'' in combination with a prenominal possessive pronoun or possessive prepositional phrase. The form in ''-na'' must in such cases be understood as a neutral or unmarked form, since it may combine with a pronoun of any person and number; but a form in ''-na'' without any further possessive marking is unambiguously 3rd person.<ref group="GVT">p.148</ref> Nouns other than those previously mentioned do not take possessive suffixes, but instead combine with possessive pronouns.<ref group="GVT">p.149.</ref>
+
+==Negation==
+
+Vaeako-Taumako displays negation in prohibitions ([[prohibitive]], [[irrealis]], [[imperfective]], admonitive), statements (verbal and non-verbal) polar questions and noun phrases. Negation morphemes behave similarly to verbs in many respects although they do not take tense-aspect-mood markers or form independent predicates.<ref group="GVT">p.397.</ref> However, there are instances of their taking complement clauses and for this reason negation morphemes might be considered a sub-class of verb.<ref group="GVT">p.385.</ref>
+
+=== Prohibition ===
+
+Prohibitive clauses may be divided into two. Prohibitive ''auā'', (equal to the English 'don't') and Admonitive ''na''. Prohibitives pattern themselves in similar ways and are most frequently positioned cause initially. Admonitives behave and distribute slightly differently as will be illustrated below.
+
+Negated clauses appear with only a small range of tense-aspect-mood markers. Prohibitive clauses often display no tense-aspect-mood marker at all, if they do, the markers are either ''na'' [[irrealis]] or ''me'' prescriptive. Negated declarative clauses typically occur with either perfective ''ne'' or imperfective ''no'', with other options only marginally represented in collected data.<ref group="GVT" name="p386">p.386.</ref>
+
+==== Prohibitive ''auā'' ====
+
+''auā'' appears clause-initially, however discourse particles such as ''nahilā'' ('take care, make sure') may precede it. Other grammatical morphemes such as articles or markers of tense, aspect or mood may not precede it which excludes ''auā'' from the verb category of Vaeakao-Taumako.<ref group="GVT" name="p386" />
+
+{{interlinear|number=ex:
+|top= Auā tau hano!
+|auā t-a-u hano
+|PROH.SG SP-POSS-2G.POSS go.SG
+|'Don’t go.' <ref group="GVT" name="p386" />}}
+
+However, ''auā'' behaves like a verb in that it may take clausal complements, which are then often either nominalised or the irrealis marker ''na'' is present (see table 1.1.3).<ref group="GVT" name="p386" />
+A correlation exists between singular 2nd person subject and a nominalised clause although this correlation is not absolute.<ref group="GVT" name="p387">p.387.</ref>
+
+{{interlinear|number=ex:
+|top= Auā ko no hualonga!
+|auā ko{{=}}no hualonga
+|PROH 2SG{{=}}IPFV {make noise}
+|'Don’t make noise!’<ref group="GVT" name="p388">p.388.</ref>}}
+
+Contrasting this, the 2nd person dual or plural subjects attract the irrealis marker ''na'' to create a prohibitive clause.
+
+{{interlinear|number=ex:
+|top= Auā kholuna ō!
+|auā kholu{{=}}na ō 
+|PROH 2DU{{=}}IRR go.PL
+|'Don’t you (two) go!’ <ref group="GVT" name="p388" />}}
+
+Within data sets of Næss, A., & Hovdhaugen, E. (2011), as implied by the imperative nature of the morpheme, ''auā''  will tend to appear with 2nd person subjects as above, although both 1st and 3rd subjects are also found.
+
+1st Person
+
+{{interlinear|number=ex:
+|top= Tatu noho themu, auā hatno folongā
+|tatu noho themu, auā hat{{=}}no holongā
+|1PL.INCL.HORT stay quiet PROH PL.INCL{{=}}IPFV {make noise}
+|'We should all sit still and not be noisy.'<ref group="GVT" name="p387" />}}
+
+3rd Person
+
+{{interlinear|number=ex:
+|top= O ia auā no kutea mai tuku mata, ia a iau auā taku kuteange ona mata.
+|o ia auā no kute-a mai t-o-ku mata ia {a iau} auā t-a-ku kut-a ange o-na mata
+| CONJ 3SG PROH IPFV see-TR come SG.SP-POSS-1SG.POSS eye CONJ {PERS 1SG} PROH SG.SP-POSS-1SG.POSS see-TR go.along POSS-3SG.POSS eye
+|'She is not allowed to look at my face, 'and I cannot look at her face.' <ref group="GVT" name="p387" />}}
+
+''Auā''  is also found in conjunction with modifiers such as ''ala'' which marks a hypothetical or ''oki'', 'back, again'. <ref group="GVT" name="p386" />
+
+===== ''auā-ala'' =====
+{{interlinear|number=ex:
+|top= Auā ala tau faia e anga e tapeo i taha
+|auā ala t-a-u fai-a e anga e tapeo i taha
+|PROH {HYP SG.SP-POSS-2SG} POSS do-TR. SG.NSP work GENR bad LDA side
+|'You should not do bad things outside.' <ref group="GVT" name="p386" />}}
+
+===== ''auā - oki'' =====
+{{interlinear|number=ex:
+|top= Auoki tō haiange oki la manei oki la
+|auā oki t-ō hai-a ange oki la mua nei oki la
+|PROH again SG.SP-2S.POSS do-TR go.along again DM.3 place DEM.1 again DM.3
+|'Don’t ever do that anymore here.'<ref group="GVT" name="p387" />}}
+
+===== Irrealis ''na'' and Imperfective ''no'' =====
+
+Irrealis ''na'' and [[imperfective]] ''no'' adheres to a common pattern of appearing in 2nd person in dual or plural within prohibitive clause structure.
+
+{{interlinear|number=ex:
+|top= Auā kholuna!
+|auā kholu{{=}} na
+|PROH 2DU{{=}}IRR go.PL
+|'Don’t you (two) go!’ <ref group="GVT" name="p388" />}}
+
+Instances of 3rd person are less frequent and tend to include the imperfective ''no'' in postposition to morpheme ''auā.''
+
+{{interlinear|number=ex:
+|top=A heinga auā no hū ite koe.
+|a heinga auā no hū ite koe
+|COL thing PROH IPFV hidden LDA  2SG
+|'Nothing shall be hidden from you.'<ref group="GVT" name="p388" />}}
+
+===== Admonitive ''na'' =====
+''na'' behaves similarly to ''aluā'' only in that it is clause initial, it is otherwise classified as a clause initial particle and it must be accompanied by the tense-aspect-mood marker ''me''  which acts as a [[prescriptive]].<ref group="GVT" name="p389" />
+
+{{interlinear|number=ex:
+|top=Na me teia te tangara!
+|na me ta-ai te tangata
+|ADMON PRSC hit-TR SG.SP man
+|'Don’t kill the man!’<ref group="GVT" name="p389">p.389.</ref>}}
+
+However ''na'' also has a second function, it acts to point out the consequences of disobeying the order. In this role the ''na'' often appears without ''me'', creating a clause without tense-aspect-mood marking.<ref group="GVT" name="p390">p.390.</ref>
+
+{{interlinear|number=ex:
+|top=Meri noho lavoi, na me sepe.
+|Meri noho lavoi n me sepe
+|Mary stay good ADMON PRSC {expose oneself}
+|'Mary, sit properly, do not expose yourself.'<ref group="GVT" name="p390" />}}
+
+=== Statements ===
+
+==== Verbal Clause Negation ====
+
+Verbal negation is made up of three morphemes which act independently and may be understood as the English equivalents to ''siai'' 'not', ''sikiai'' 'not yet',and ''hiekh'' 'not at all'.<ref group="GVT" name="p390" />
+
+===== ''siai'' 'not, no' =====
+
+According to Næss, A., & Hovdhaugen, E. (2011) the colloquial pronunciation of  ''siai'' is ''hiai'', however the standard written form is ''siai''. 
+''Siai'' comes after preverbal arguments but is placed before the tense-aspect-mood particle and following [[clitic]] pronoun.
+
+{{interlinear|number=ex:
+|top=Ko ia siai ne longo ange ki a sinana.
+|ko ia siai ne longo ange ki a sina na
+|TOP 3SG NEG PFV listen {go along} to PERS mother 3SG.POSS
+|'She did not listen to her mother.'<ref group="GVT" name="p391">p.391.</ref>}}	
+
+As in the case of ''auā'' modifying particles, which are traditionally found after verbs, may appear following ''siai''. An example of this is ''loa'' which is an emphatic marker.
+
+For example, ''siai loa''.
+
+{{interlinear|number=ex:
+|top=E mae loa te kai ia siai oki nei fuia ona mata.
+|e mae loa te kai ia siai oki ne-i fui-a o-na mata
+|GNR refuse EMPH SG.SP eat CONJ NEG again PFV-3SG wash-TR POSS-3SG.POSS eye
+|'He refused to eat, and he didn't wash his face either.'<ref group="GVT" name="p392">p.392.</ref>}}
+
+A further example is the addition of ''po'' which generally serves to connect a complement clause.
+
+{{interlinear|number=ex:
+|top=Siai po ke ileila sika.
+| siai po ke ila~ila sika
+| NEG COM HORT REDUP~look straight
+|'She did not feel safe.'<ref group="GVT" name="p393">p.393.</ref>}}
+
+===== ''sikiai, hikiai'' 'not yet' =====
+
+''sikiai, hikiai'' (where ''sikiai'' is the formal written expression of spoken ''hikiai'') appears in the same formation as above ''siai'' except it proceeds the preverbal argument and precedes any tense-aspect-mood markers. It appears less frequently and is often accompanied by the perfective marker ''ne''.<ref group="GVT" name="p394">p.394.</ref>
+
+{{interlinear|number=ex:
+|top= A Osil hikiai ne ala.
+|A Osil sikiai ne ala
+|PERS Åshild not.yet PFV wake
+|'Åshild is not yet up.'<ref group="GVT" name="p394" />}}
+
+===== ''hiekhī/hiekhiē'' 'not at all' =====
+
+This is the emphatic form of the negator. It follows the same distribution as both ''sia'' and ''sikiai'' and is often accompanied by the post-nuclear modifier ''loa''.<ref group="GVT" name="p395">p.395.</ref>
+
+{{interlinear|number=ex:
+|top= Hiekhī loa nei kutea te ali na.
+|hiekhī loa ne-i kute-a te ali na
+|not.at.all EMPH PFV-3SG see-TR SG.SP flatfish DM.2
+|'He couldn’t find the flatfish at all.' <ref group="GVT" name="p395" />}}
+
+As with ''siai''  ''hiekhī'' appears in conjunction with complementiser ''po'', although with lower frequency.<ref group="GVT" name="p395" />
+
+{{interlinear|number=ex:
+|top=A thatou hiekhiē po no kutea i mui thatuno utuutu ai na.
+|a thatou hiekhiē po no kutea i mui thatu{{=}}no utu~utu ai na
+|PERS 1PL.INCL not.at.all COMP IPFV see-TR some place 1PL.INCL{{=}}IPFV REDUP~draw OBL.PRO DEM.2
+|'We had no idea where to draw water.'<ref group="GVT" name="p395" />}}
+
+==== Non-verbal Clause Negation ====
+
+The same negators are used as in the verbal clauses above.
+
+{{interlinear|number=ex:
+|top=A Malani na siai e vai ai.
+|a Malani na siai e vai ai
+|then Malani DEM. NEG SG.NSP water OBL.PRO
+|'And Malani, there was no water there.'<ref group="GVT" name="p396">p.396.</ref>}}
+
+=== Questions ===
+
+==== Polar Questions ====
+
+Polar questions are commonly formed in three ways. A declarative clause with a rise in intonation to mark the interrogative which requires the binary, 'yes' or 'no' response, much as they are in English may be used. The second alternative is the addition of the verbal negator ''(o) siai'' ‘(or) not'  and the third is the addition of verbal negator ''sikiai'' (not yet) if the interrogative has a temporal element.<ref group="GVT" name="p398">p.398.</ref>
+
+Simple interrogative formed with declarative clause:
+
+{{interlinear|number=ex:
+|top=Thaka ō mua?
+|tha{{=}}ka ō mua?
+|1DU.INCL{{=}}FUT go.PL just
+|'Shall we go?’<ref group="GVT" name="p398" />}}
+
+''(o) siai''
+
+{{interlinear|number=ex:
+|top=E ai mua etai ne au o siai? (NUP)
+|E ai mua etai ne au o sai
+|GNR exist just person PFV come CONJ NEG
+|'Has anyone come here?’ <ref group="GVT">p.399.</ref>}}
+
+''sikiai''
+
+{{interlinear|number=ex:
+|top=A hinana koi takuange po ke hano moa oi kutea moa a haupƝ po ko lanu e hikiai?
+|a hina-na ko-i taku-a ange po ke hano mua oi kute-a mua a thaupē po ka lanu o sikiai
+|PERS mother-3SG.POSS INCEP-3SG say-TR go.along COMP HORT go.SG just CONJ see-TR just PERS lagoon COMP FUT rise CONJ not.yet
+|'His mother told him to go and see if the tide was rising yet.'<ref group="GVT" name="p398" />}}
+
+===  Noun Phrase Negation ===
+
+==== Negated Existence ====
+
+Non-specific article ''e'' can be used to express 'negated existence' unless the noun has a possessive marker in which case ''e'' is absent.<ref group="GVT">p.166.</ref>
+
+{{interlinear|number=ex:
+|top= Hiai loa e mahila ku kapakapai i hale.
+|siai loa e mahila k{{=}}u kapakapa ai i hale
+|NEG EMPH SG.NSP knife HORT{{=}}1SG work OBL.PRO LDA house
+|'There is no knife for me to use in the house.' <ref group="GVT">p.167.</ref>}}
+
+== Spatial Deixis ==
+[[Deixis|Spatial deixis]] is primarily expressed through [[demonstrative]]s and [[Andative and venitive#Polynesian|directional forms]] in Vaeakau-Taumako. These spatial-deictic forms "allow the speaker to point to spatial locations" and encode the context of utterances or speech events. Interestingly, demonstrative and directional usage in Vaeakau-Taumako is particularly unique for a [[Polynesian languages|Polynesian]] language.<ref>Senft, Gunter (ed.). ''Deixis and demonstratives in Oceanic languages''. Canberra, Australia: Pacific Linguistics. p. 2. {{ISBN||0 85883 55 1 7}}.</ref> This illustrates that spatial deixis is an especially important feature of Vaeakau-Taumako grammar. Demonstratives and directionals are discussed in more detail below.
+
+=== Demonstratives ===
+Vaeakau-Taumako demonstratives comprise a three-term system which is summarised below:
+{| class="wikitable"
+|+Figure 1<ref group="GVT">p. 121</ref>
+! Demonstrative
+! English Translation
+|-
+|ne(i) 
+|'here, close to speaker'
+|-
+|na 
+|'there, close to addressee, some distance away'
+|-
+|la 
+|'there, away from both speaker and hearer, quite far away
+|}
+Overall, these demonstratives have not only [[Nominalization|nominal]] and [[adverbial]] uses, but are also used in various capacities to structure [[discourse]]. The demonstrative particles also occur in more complex forms (see verbal demonstratives and deictic adverbs below).
+
+==== Historical context ====
+Vaeakau-Taumako demonstratives have [[cognate]]s in other Polynesian languages. These demonstratives are also consistent with what has been reconstructed for [[Proto-Polynesian language|Proto-Polynesian]] and [[Proto-Oceanic language|Proto-Oceanic]]. These [[linguistic reconstruction]]s are summarised below:<ref name=":0">{{Cite book|last=Ross|first=Malcolm D.|title=Deixis and demonstratives in Oceanic languages|publisher=Pacific Linguistics|year=2004|isbn=0 85883 55 1 7|editor-last=Senft|editor-first=Gunter|location=Canberra, Australia|pages=177|chapter=Demonstratives, local nouns and directionals in Oceanic languages: a diachronic perspective}}</ref> 
+{| class="wikitable"
+|+Figure 2<ref name=":0" />
+! Language
+! 1st person
+! 2nd person
+! 3rd person
+|-
+|Proto-Oceanic
+|*ni/*ne
+|*na
+|*ra(i)
+|-
+|Proto-Polynesian
+|*ni/*nei
+|*na
+|*ra
+|-
+|Tongan
+|e-ni
+|e-na
+|ia
+|-
+|Irafa-Mele
+|<nowiki>-nei</nowiki>
+|<nowiki>- nā</nowiki>
+|rā
+|-
+|'''Vaeakau-Taumako'''
+|'''ne(i)'''
+|'''na'''
+|'''la'''
+|-
+|Samoan
+|(le)nei
+|(le)nā
+|le(lā)
+|-
+|Marquesan
+|nei
+|nā
+|ʔā, aʔā
+|}
+Furthermore, in the following discussion it will become evident that [[Fijian language|Boumma Fijian]] shares multiple linguistic traits with Vaeakau-Taumako. Therefore, it is possible that Boumma Fijian may be more closely related to Vaeakau-Taumako than other Polynesian languages.
+
+==== Speaker-based system ====
+The Vaeakau-Taumako demonstrative system is speaker-based: the location of the hearer or speaker serves as reference point for where the relevant object is located.<ref group="GVT">p. 122</ref> Denny summarised this succinctly in describing this system as one that centers space on the speaker or other participant.<ref>{{Cite journal|last=Denny|first=Peter J.|date=1978|title=Locating the universals in lexical systems for spatial deixis|journal=Papers from the Parasession on the Lexicon, Chicago Linguistic Society|volume=14-15|pages=71–84|via=Chicago: CLS}}</ref> In Vaeakau-Taumako, 'ne(i)’ reflects an object’s proximity to the speaker, 'na' reflects an object’s proximity to the hearer and 'la' reflects distance from both the speaker and hearer, or a third party in the conversation.<ref group="GVT">p. 121</ref>
+
+This three-way distinction is so common in [[Oceanic languages]] that it is "virtually certain" that [[Proto-Oceanic language|Proto-Oceanic]] also adopted a person-based demonstrative system.<ref name=":0" /> On a global scale, this three-way contrast is the second most common demonstrative system in the languages listed on [https://wals.info/chapter/41 The World Atlas of Linguistic Structures]('''WALS'''), with a two-way contrast being the most common system.<ref>{{Cite web|title=WALS Online - Chapter Distance Contrasts in Demonstratives|url=https://wals.info/chapter/41|access-date=2021-03-29|website=wals.info}}</ref>
+
+Vaeakau-Taumako's speaker-based system can be rationalised by the geographic context in which it is spoken. As the language is spoken on islands in the [[Solomon Islands]], the speakers inhabit relatively small environments that do not have naturally defined reference points to describe space. To compensate for this, demonstratives are instead based on the speakers and hearers who are in the "immediate speech situation".<ref name=":1">{{Cite book|last=Næss|first=Åshild|title=Deixis and demonstratives in Oceanic languages|publisher=Pacific Linguistics|year=2004|isbn=0 85883 55 1 7|editor-last=Senft|editor-first=Gunter|location=Canberra, Australia|pages=81–98|chapter=Spatial deixis in Pileni}}</ref>
+
+==== Distance-based system ====
+However, [[Discourse analysis|discourse analyses]] of current demonstrative usage indicates that the system may be shifting to one that is distance-based and therefore not dependent on the speech-act participants. This is summarised below:
+{| class="wikitable"
+|+Figure 3<ref group="GVT">p. 122</ref>
+! Demonstrative
+! English Translation
+|-
+|ne(i) 
+|'here, close by'
+|-
+|na 
+|'there, some distance away; neither very near nor very far'
+|-
+|la 
+|'there, far away' 
+|}
+'Na' is generally the preferred neutral choice of demonstrative to refer to an object that is neither far nor close. Therefore 'na' is not only used in direct conversations to illustrate proximity with a speech-participant (e.g. 'that one near you'), but it is also used in [[narrative]]s as a medial term of a distance-based system. In these narrative contexts, 'na' refers to an object that is distance-neutral or medium-distance. This dual purpose of 'na' is not completely unique to Vaeakau-Taumako as [[Fijian language|Boumaa Fijian]] also adopts a "mixed" system.<ref group="GVT">p. 122</ref>
+
+==== Demonstrative pronouns ====
+Demonstratives in Vaeakau-Taumako can be used as heads of [[noun phrase]]s that are comparable to the English phrases 'this one' and 'that one'. In this capacity, the demonstrative is often preceded by the [[Article (grammar)|articles]] 'te' (indicating singularity) or 'ngha' (indicating plurality). This is typical for a [[Polynesian languages|Polynesian language]].<ref group="GVT">p. 122</ref> The following example shows the demonstrative 'na' ('that'), being used in conjunction with the [[prefix]] 'te' to denote singularity:
+
+{{interlinear|number=ex:
+|Ko '''te-na''' e ika efa.
+|TOP '''ART-DEM''' ART Fish bg.
+|'That is a big fish.'<ref name=":1" />}}
+ 
+Furthermore the following example shows the prefix 'ngha' attaching to the demonstrative 'la' ('those') to indicate plurality: 
+
+{{interlinear|number=ex:
+|'''Ngha-la''' a hahine e toko-lua ma te memea e ko-tahi
+|'''PL.SP-DEM.3''' COL woman GENR CL-two CONJ SG.SP child GENR PRE-one
+|'There were two women and a child (literal meaning: those ones, the women were two and the child was one).’<ref group="GVT">p. 123</ref>}}
+
+Alternatively, the demonstratives can occur as a free-standing [[lexical item]] (i.e. without the need for preceding articles). This more unique aspect of Vaeakau-Taumako is exemplified in the following clause:<ref name=":1" />
+
+{{interlinear|number=ex:
+|'''Na''' e kio
+|'''DEM''' ART chicken.
+|‘'''That''' is a chicken'.<ref name=":1" />}}
+
+When acting as heads of nouns, the demonstratives may also be used [[Anaphora (linguistics)|anaphorically]] to refer to previously mentioned objects/participants in the conversation. The demonstratives can therefore serve the same purpose as a [[Pronoun|third-person pronoun]] (see Figure 4.4 below).<ref group="GVT">p. 123</ref> Cross-linguistically this is not common, with the 100 of the 225 languages on [https://wals.info/chapter/43 WALS] having language systems where third person pronouns are unrelated to demonstratives.<ref>{{Cite web|title=WALS Online - Chapter Third Person Pronouns and Demonstratives|url=https://wals.info/chapter/43|access-date=2021-03-29|website=wals.info}}</ref>
+
+{{interlinear|number=ex:
+|ila mua a nohine a-u la nga '''te-la''' ia
+|look just PERS wife POSS-2SG.POSS DEM.3 PN.3 '''SG.SP-DEM.3''' 3SG
+|'Look, that is your wife there.'<ref group="GVT">p. 123</ref>}}
+
+==== Demonstrative adjective ====
+Demonstratives also function to modify a [[noun phrase]] in Vaeakau-Taumako. They can be used with nouns or pronouns and can function as a [[Deixis|deictic]] or [[Anaphora (linguistics)|anaphoric reference]].<ref group="GVT">p. 124</ref> The following example shows how the demonstrative 'na' ('that') is suffixed to the noun 'mhe' ('man') for a deictic purpose: 
+
+{{interlinear|number=ex:
+|a '''mhe-na''' ko{{=}}ne lau-a i hea na
+|PERS '''man-DEM.2''' 2SG{{=}}PFV find-TR LDA where DEM.2
+|'Where did you find that man?’<ref group="GVT">p. 124</ref>}}
+
+This second example shows how the demonstrative 'ne' can be used as an anaphoric reference:
+
+{{interlinear|number=ex:
+|thai lhatou e Diuku te tai '''ne''' e ingoa ko Diuku
+|one 3PL SG.NSP Diuku SG.SP person '''DEM.1''' SG.NSP name TOP Diuku
+|'One of them was Diuku, this man is called Diuku.'<ref group="GVT">p. 125</ref>}}
+
+When a demonstrative is used with a pronoun, the demonstrative often (but not always) corresponds with the speech-act participant that is being referred to in the respective [[pronoun]]. Therefore 'ne' will be generally used with first person pronouns, 'na' will be used with second person pronouns and 'la' will be used with third person pronouns. However, 'na' can also be adopted as a neutral particle that is used interchangeably with third person and second person pronouns.<ref group="GVT">p. 126</ref>
+
+==== Local adverbial demonstratives ====
+Demonstratives in Vaeakau-Taumako also function as [[Adverb|local adverbs]] that modify a verb and indicate the location in which the respective action occurs:<ref group="GVT">p. 126</ref>
+
+{{interlinear|number=ex:
+|a thatu{{=}}e ilo-a po a kio no tahao '''ne''' i nghauta
+|PERS 1PL.INCL{{=}}GENR know-TR COMP COL chicken IPFV stroll '''DEM.1''' LDA shore
+|'We know that chickens wander around here, on land (as opposed to the sea).’<ref group="GVT">p. 126</ref>}}
+
+When being used in this adverbial capacity, the demonstratives also have temporal-deictic references to refer to time (i.e. 'now' and 'then'):<ref group="GVT">p. 127</ref>
+
+{{interlinear|number=ex:
+|ilhatu{{=}}ne ta-ia i mua ne a-na ko ia u{{=}}ka tala∼tala-a atu '''ne'''
+|3PL{{=}}PFV hit-TR LDA place DEM.1 then-DEM.2 TOP 3SG 1SG{{=}}FUT REDUP~tell-TR go.out '''DEM.1'''
+|'They killed him in this place, I will tell you about it now.'<ref group="GVT">p. 127</ref>}}
+
+==== Verbal demonstratives ====
+In Vaeakau-Taumako, the formal class of [[adverb]]s is limited, so manner adverbial demonstratives with the meanings 'do/be like this, do/be like that' are regularly utilised.<ref group="GVT">p. 128</ref> These verbal demonstratives are cross-linguistically rare, however [[Fijian language|Boumaa Fijian]] and [[Dyirbal language|Dyirbal]] also exhibit similar forms. For example, in Fijian 'eneii' functions like the verbal demonstratives in Vaeakau-Taumako.<ref group="GVT">p. 128</ref> The Vaeakau-Taumako forms are created by attaching the prefix 'p(h)e' to the core demonstrative particles:
+
+{| class="wikitable"
+|+Figure 7.1<ref group="GVT">p. 128</ref>
+! Adverbial demonstrative
+! English Translation
+|-
+|phenē 
+|'do/be like this'
+|-
+|phenā
+|'do/be like that'
+|-
+|phelā
+|'do/be like that'
+|}
+
+This first example shows the adverbial demonstrative 'phe-ne' being used to convey the meaning 'do like this':
+
+{{interlinear|number=ex:
+|noho '''phe-ne'''
+|sit '''like-DEM.1'''
+|'Sit like this!’<ref group="GVT">p. 128</ref>}}
+
+Secondly, verbal demonstratives also function to mean 'be the same as, in the same way':
+
+{{interlinear|number=ex:
+|e '''phe-na''' mai i Kahula hano mai ki nghauta
+|GENR '''like-DEM.2''' come LDA Kahula go.SG come to shore
+|'It was the same as in Kahula, he went to the village there'<ref group="GVT">p. 129</ref>}}
+
+Thirdly, the verbal demonstratives can function as modifiers of nouns to mean 'an X like that' (Figure 7.4) or 'a certain X' (Figure 7.5):
+
+{{interlinear|number=ex:
+|thatu{{=}}no he-henga ange e niu boho e taveli a hinga '''phe-na'''
+|lPL.INCL{{=}}IPFV REDUP~search go.along SG.NSP coconut young SG.NSP banana COL thing '''like-DEM.2'''
+|'We have looked for coconuts, bananas, things like that.'}}
+
+{{interlinear|number=ex:
+|po lhatu{{=}}ka ta-pena ala la i te langi '''phe-la'''
+|COMP 3PL{{=}}FUT PREP-prepare HYP DEM.3 LDA SG.SP day '''like-DEM.3'''
+|'They were to be ready on a certain day.'}}
+
+This complex three-way distinction in which verbal demonstratives can be used is not only uncommon cross-linguistically, but it is also atypical among the languages which do have similar verbal demonstrative systems. [[Dyirbal language|Dyirbal]] and [[Fijian language|Boumaa Fijian]] only adopt a single verb to denote 'do it like this' in comparison to Vaeakau-Taumako's three-way system.<ref group="GVT">p. 129</ref>
+
+==== Deictic adverbs ====
+Vaeakau-Taumako also has deictic [[adverb]]s that are formed by applying the [[prefix]]es 'a-’, 'i-'or 'e-’ to the core demonstrative particles.<ref group="GVT">p. 130</ref> These forms are summarised below:
+
+{| class="wikitable"
+|+Figure 8.1<ref group="GVT">p. 130</ref>
+! Proximal
+! Medial/neutral
+! Distal
+|-
+|anē 'and now'
+|anā 'and then'
+|alā 'and then'
+|-
+|inē 'here, now'
+|inā 'there, then'
+|Ilā 'there, then'
+|-
+|
+|enā 'somewhere there'
+|
+|}
+
+It is worth noting that 'ena' ('somewhere there') appears to only have a spatial reference. Furthermore the usage of 'ena' seems restricted to colloquial contexts:<ref group="GVT">p. 132</ref>
+
+{{interlinear|number=ex:
+|a ko-i taku-a ange po ī '''e-na''' na po ni vai ai
+|then INCEP-3SG say-TR go.along COMP INTJ '''PRE-DEM.2''' DEM.2 COMP PL.NSP Water OBL.PRO
+|'And he said, "Oh, somewhere here there is water".’<ref group="GVT">p. 132</ref>}}
+
+==== Demonstratives in discourse   ====
+Demonstrative particles commonly occur at the end of phrases. This applies to a variety of phrase types, with the following examples illustrating how 'na' can occur phrase-finally in a [[noun phrase]] (Figure 9.1), a [[verb phrase]] (Figure 9.2) and an [[adverbial phrase]] (Figure 9.3):<ref group="GVT">p. 432</ref>
+
+{{interlinear|number=ex:
+|te hahine '''na''' ko le∼lek∼ake na
+|SG.SP woman '''DEM.2''' INCEP REDUP~go~go.up DEM.2
+|'The woman went up.'<ref group="GVT">p. 432</ref>}}
+
+{{interlinear|number=ex:
+|ko hano '''na''' e kau∼kau i thaupē '''na'''
+|INCEP go.SG '''DEM.2''' GENR REDUP~swim LDA lagoon '''DEM.2'''
+|'He went and bathed in the lagoon.'<ref group="GVT">p. 433</ref>}}
+
+{{interlinear|number=ex:
+|matea atiao ala '''na''' thatu{{=}}ka ō atu mua hangota i Malimi
+|maybe tomorrow HYP '''DEM.2''' lPL.INCL{{=}}FUT go.PL go.out just fish LDA Malimi
+|'Maybe tomorrow we will go fishing at Malimi.'<ref group="GVT">p. 433</ref>}}
+
+Beyond deictic and anaphoric uses of demonstratives (which have been discussed above), another core use of demonstratives is for phrase demarcation. Demonstratives occur at the end of a phrase as a means of marking the phrase boundary and situating the phrase within the overarching context of the clause.<ref group="GVT">p. 436</ref> In Vaeakau-Taumako, demonstratives are commonly used to indicate that there is a link between the demonstrative-marked phrase and the succeeding speech. It is often used in conjunction with [[High rising terminal|rising intonation]] to indicate that "more is coming" (Figure 9.4 below).<ref group="GVT">p. 436</ref> Similar demarcative particle morphemes are used in the [[Futunan language|Outlier East Futuna]] with the particle 'la'. 
+
+{{interlinear|number=ex:
+|mhatu{{=}}ne ō ake '''na'''' ioko a lakau '''na''' ko pae ino ki te ala '''na''',  e takoto '''na''' e tapeo loa
+|lPL.EXCL{{=}}PFV go.PL {go up} '''DEM.2'''  CONJ COL tree '''DEM.2''' INCEP scatter fall to SG.SP path '''DEM.2''' GENR lie DEM.2  GENR bad EMPH
+|'We went up, and the trees, they were scattered all over the road, they were lying there, it was very bad.'}}
+
+=== Directionals ===
+In addition to demonstratives, Vaeakau-Taumako also has a set of morphemes that indicate [[Deixis|verbal deixis]] (i.e. the physical or metaphorical direction in which an action is being carried out). There are six morphemes which can be divided into two categories (Figure 1.1 and 1.2). The directionals are best described as verbs that are most commonly used as part of a verbal nucleus, following one or more verbs. The first category of Vaeakau-Taumako directionals is summarised below:<ref group="GVT">p. 133</ref>
+
+{| class="wikitable"
+|+Figure 1.1 - '''Person-based directionals''' (indicate direction relative to speech-act participants)<ref group="GVT">p. 133</ref>
+! Directional
+! English translation
+|-
+|mai
+|Towards speaker
+|-
+|atu
+|Towards hearer
+|-
+|ange
+|Towards hearer
+|-
+|ange
+|Away from both speaker and hearer, toward a third person, along
+|}
+
+The following example shows 'mai' ('towards speaker') following another verb and marking the direction in space in which the act is occurring (i.e. towards the speech-act participants):
+
+{{interlinear|number=ex:
+|me le-mai '''na''' o kake
+|PRSC go-come '''DEM.2'''  to climb
+|'Come here and climb aboard (the canoe).'<ref group="GVT">p. 140</ref>}}
+
+The second category of directionals is summarised below:
+
+{| class="wikitable"
+|+Figure 1.2 - '''Directionals that denote direction on a vertical axis'''<ref group="GVT">p. 133</ref>
+! Directional
+! English translation
+|-
+|ake
+|'up'
+|-
+|iho
+|'down'
+|-
+|oho
+|'vertical movement, up or down'
+|}
+
+The following examples show 'iho' ('down') and 'oho' ('up or down') following another verb and marking the vertical direction in which the respective verb occurs:
+
+{{interlinear|number=ex:
+|tatu noho '''iho''' i te lakau a ngha lepū na
+|lPL.INCL.HORT stay '''go.down''' LDA SG.SP tree POSS PL.SP rat DEM.2
+|'Let us sit down on the rafter of the rats.'<ref group="GVT">p. 135</ref>}}
+
+{{interlinear|number=ex:
+|Noho '''oho''' ki lalo
+|stay '''go.vertically''' LDA under
+|'Sit down!’<ref group="GVT">p. 135</ref>}}
+
+==== Independent usage ====
+Directionals may also be used as independent [[verb]]s, with 'iho' and 'oho' being the most commonly used forms.<ref group="GVT">p. 134</ref> When used as independent verbs, 'iho' means 'go down' (Figure 2.1) and 'oho' means 'move vertically; rise up; go down' (Figure 2.2):
+
+{{interlinear|number=ex:
+|Ko '''iho''' ma ia e thū
+|INCEP '''go.down''' with 3SG GENR stand
+|'She went down with it and stood (there)’.<ref group="GVT">p. 134</ref>}}
+
+{{interlinear|number=ex:
+|lhatou ko oho lhatou ko iho '''oho''' ki nghauta
+|3PL INCEP go.vertically 3PL INCEP go.down '''go.vertically''' to shore
+|'They went down and came to the village.'<ref group="GVT">p. 134</ref>}}
+
+Furthermore 'mai' can function as an independent verb to mean 'come' (Figure 2.3). This commonly occurs in imperative clauses, which is typically how [[cognate]]s of 'mai' in related Polynesian languages are also used.<ref group="GVT">p. 135</ref>
+
+{{interlinear|number=ex:
+|lhatu{{=}}ko ha-haloki oho po '''mai''' tatu la-ina i nghauta
+|3PL{{=}}INCEP REDUP-call.PL go.vertically COMP '''come''' lPL.INCL.HORT sun-TR LDA shore
+|'They called to him, "Come here, let us sunbathe on the shore.'"<ref group="GVT">p. 136</ref>}}
+
+It is also interesting to note that 'mai' can not only encode a literal direction, but also a [[metaphor]]ical 'social' direction. In the example below (Figure 2.4), 'mai' denotes 'towards me' in a metaphorical sense that is 'for me; for my benefit; on my behalf': <ref group="GVT">p. 142</ref>
+
+{{interlinear|number=ex:
+|oi-na '''mai''' a iau
+|help-TR '''come''' PERS 1SG
+|'Help me!'<ref group="GVT">p. 142</ref>}}
+
+Lastly 'atu' also functions an independent verb which means 'move out, go away'. This is shown in the below example (note: 'poi' is a prenuclear modifier that precedes verbs):<ref group="GVT">p. 136</ref>
+
+{{interlinear|number=ex:
+|a koe poi '''atu'''
+|PERS 2SG little '''go.out'''
+|'You get away! You move out!'<ref group="GVT">p. 136</ref>}}
+
+==== Historical context ====
+Vaeakau-Taumako directionals have cognates in most other [[Polynesian languages|Polynesian]] and [[Oceanic languages|Oceanic]] languages. The corresponding reconstructed forms in [[Proto-Oceanic language|Proto-Oceanic]] were directional verbs that occurred either independently or in serialisation constructions with another verb. The reflexes of these forms occur in modern Oceanic languages in variety of formal word classes. For example, in [[Tuvaluan language|Tuvaluan]], 'mai' ('hither'), 'atu' ('thither'), 'aka' ('up') and 'ifo' ('down') have been classified as [[adverbs]], while directionals are categorised as '[[Grammatical particle|particles]]' in [[Samoan language|Somoan]].<ref group="GVT">p. 133</ref>
+
+== Abbreviations ==
+The abbreviations used in the above examples are listed below:<ref group="GVT">p. xi</ref>
+
+=== Grammatical glosses ===
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+ADMON:admonitive mood
+COMP:complementizer
+GENR:general tense-aspect-mood
+LDA:locative-directional-ablative
+NSP:nonspecific
+PRSC:prescriptive
+SP:specific
+TOP:topicalizing preposition
+</div><section end="list-of-glossing-abbreviations"/>
+
+: ADMON admonitive
+: AG agentive marker
+: APPL applicative suffix
+: BEN benefactive
+: CAUS causative prefix
+: CLASS classifier
+: COL collective
+: CONI conjunction
+: COMP complementizer
+: DEM demonstrative
+: DES desiderative
+: DIST distributive
+: DU dual
+: DY dyad particle
+: EMPH emphatic particle
+: EXCL exclusive
+: FUT future
+: GENR general tense-aspect -mood marker
+: HORT hortative
+: HYP hypothetical particle
+: INCL inclusive
+: INCEP inceptive
+: INTI interjection
+: IPFV imperfective
+: IRR irrealis
+: LDA locative-directional-ablative
+: NEG negative
+: NMLZ nominalizing suffix
+: NSP nonspecific
+: OBL.PRO oblique pro-forru
+: OPT optative
+: PERS personal marker
+: PFV perfective
+: PL plural
+: POSS possessive
+: PP predicative possessive particle
+: PREF prefix; gloss uncertain
+: PROH prohibitive
+: PN pronoun
+: PRSC prescriptive
+: PST past
+: RECP reciprocal
+: RED reduplication
+: SG singular
+: SP specific
+: TOP topicalizing preposition
+: TR transitive suffix
+: VOC vocative
+: I 1st person
+: 2 2nd person
+: 3 3rd person
+
+=== Lexical categories ===
+: adj adjective
+: adv adverb
+: gn geographical narue
+: In local noun
+: n, en corrnnon noun
+: part particle
+: pron pronoun
+: prep prepos1t10n
+: quant quantifier
+: VI intransitive verb
+: vsem semi-transitive verb
+: vt transitive verb
+
+==Notes==
+* '''References from''' {{Cite book|title = '''A Grammar of Vaeakau-Taumako'''|last1=Næss|first1=Åshild |last2=Hovdhaugen|first2=Even|author-link2=Even Hovdhaugen|publisher = De Gruyter Mouton|year = 2011|isbn = 978-3-11-023826-6|location =Berlin }}:
+{{Reflist|4|group="GVT"}}
+
+* '''Other sources'''
+{{reflist}}
+
+==Bibliography==
+*{{Cite book|title = A Grammar of Vaeakau-Taumako|last1=Næss|first1=Åshild |last2=Hovdhaugen|first2=Even|author-link2=Even Hovdhaugen|publisher = De Gruyter Mouton|year = 2011|isbn = 978-3-11-023826-6|location =Berlin|ref=gvt}}.
+*{{Cite book|title = A Short Dictionary of the Vaeakau-Taumako Language|last1=Hovdhaugen|first1=Even|author-link1=Even Hovdhaugen|publisher = Kon-Tiki Museum, Institute for Pacific Archaeology and Cultural History|year = 2006|ref=sdvtl|location =Oslo}}.
+
+==External links==
+*[http://justus.anglican.org/resources/bcp/Melanesia/pileni.htm Portions of the Anglican Book of Common Prayer in Pileni]
+*[[Paradisec]] has [http://catalog.paradisec.org.au/collections/search?language_code=piv a number of collections that include Vaeakau-Taumako language materials.]
+
+{{Languages of the Solomon Islands}}
+{{Polynesian languages}}
+{{Austronesian languages}}
+
+[[Category:Ellicean languages]]
+[[Category:Languages of the Solomon Islands]]
+[[Category:Polynesian outliers]]

@@ -1,0 +1,301 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Lewo
+|altname=Varsu
+|states=[[Vanuatu]]
+|region=[[Epi Island]]
+|speakers=2,200<ref name="Lynch">{{cite book |last1=Lynch |first1=John |last2=Crowley |first2=Terry |title=Languages of Vanuatu: A new survey and bibliography |isbn=0 85883 469 3 |page=17}}</ref>
+|date=2001
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Central Vanuatu languages|Central Vanuatu]]
+|fam6=[[Epi languages|Epi]]
+|fam7=Lamenu–Baki
+|fam8=Lamenu–Lewo
+|iso3=lww
+|glotto=lewo1242
+|glottorefname=Lewo
+}}
+'''Lewo''' (also known as ''Varsu'' or ''Laewo'') is an [[Oceanic languages|Oceanic]] language spoken on [[Epi Island]], in [[Vanuatu]].
+
+== Overview ==
+Lewo is spoken on the eastern part of Epi Island in [[Shefa Province]]. As of 2001, there are approximately 2,200 speakers of Lewo.<ref name="Ethnologue">{{cite web |last1=Eberhard |first1=David M |last2=Simons |first2=Gary F |last3=Fennig |first3=Charles D |title=Lewo |url=https://www.ethnologue.com/language/lww |website=Ethnologue}}</ref> Despite being the most widely spoken language in eastern Epi, speakers of Lewo can be found in various parts of the island; village settlements are small but widely scattered.<ref>{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=15|doi=10.25911/5D723CAC6B4A2}}</ref> 
+
+Lewo previously had many more different dialects than it does today, and many lexical items from various Epi languages are said to have originated from Lewo. Tasiko (sometimes Tasiwo), Lemaroro and Maluba (Malupa) are all dialects of Lewo.<ref name="Lynch" /> Many Lewo speakers are bilingual, with proficiency in [[Bierebo language|Bierebo]];<ref name="Lynch" /> only the very elderly and very young are monolingual.<ref name="Ethnologue" /> Lewo is closely related to the Epi language of [[Lamen language|Lamen]],<ref name="Lynch" /> sharing 78% lexical similarity.<ref>{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=32|doi=10.25911/5D723CAC6B4A2}}</ref>
+
+
+==Phonology==
+=== Consonants ===
+{| class="wikitable" style="text-align:center"
+!
+![[Labial–velar consonant#Labialized labial-velars|Labio-<br/>velar]]
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Dorsal consonant|Dorsal]]
+|-
+![[Nasal consonant|Nasal]]
+|{{IPA link|ŋ͡m}}ʷ{{efn|/ŋ͡mʷ/ is heard as a non-labialized [ŋ͡m] before /a/ and word-final.}}
+|{{IPA link|m}}
+|{{IPA link|n}}
+|{{IPA link|ŋ}}
+|-
+![[Stop consonant|Plosive]]
+|{{IPA link|k͡p}}ʷ{{efn|/k͡pʷ/ is heard as non-labialized [k͡p] when word-final, and as a voiceless implosive affricate [ɠ̊͡ɓ̥] before /a/.}}
+|{{IPA link|p}}
+|{{IPA link|t}}
+|{{IPA link|k}}
+|-
+![[Fricative consonant|Fricative]]
+|
+|{{IPA link|β}}
+|{{IPA link|s}}
+|
+|-
+![[Approximant consonant|Approximant]]
+|{{IPA link|w}}
+|
+|{{IPA link|l}}
+|{{IPA link|j}}
+|-
+![[Rhotic consonant|Rhotic]]
+|
+|
+|{{IPA link|r}}{{efn|/r/ is heard as [d͡r] when occurring after /n/.}}
+|
+|}
+{{notelist}}
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+!
+![[Front vowel|Front]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPA link|i}}
+|{{IPA link|u}}
+|-
+![[Mid vowel|Mid]]
+|{{IPA link|e}}
+|{{IPA link|o}}
+|-
+![[Open vowel|Open]]
+| colspan="2" |{{IPA link|a}}
+|}
+
+* /a/ is heard as [æ] when occurring after labial consonants /p, m, β/. It is heard as [a] elsewhere.
+* Vowels /e, o, u/ within the peak of closed syllables are heard as [ɛ, ɔ, ʊ].
+
+== Morphology and word classes ==
+
+=== Demonstratives and spatial deixis ===
+Lewo identifies four grades of [[deixis]] when referencing spatial location.<ref name=":0">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=225|doi=10.25911/5D723CAC6B4A2}}</ref> For expressing reference to an object which is located near the speaker, such as in physical contact with the speaker or in the same surrounding area, the deictic particle ''nini'' is used. If the object is closer to the hearer, the particle ''nam̃aa'' is used. Conversely, if the object in reference is proximity to both speaker and hearer, or within the speaker-hearer interaction, the particle ''nene'' is used. The fourth deictic particle, ''nena'', is used to express distal or unknown location.<ref name=":0" />
+
+Lewo's four-way deixis system is atypical from those employed by other Oceanic non-Polynesian and [[Polynesian languages|Polynesian]] languages. Typically, these languages have only three grades of deictic relationship referencing: near speaker, near hearer, and elsewhere.<ref name=":0" />
+
+Lewo has a noun-demonstrative (NDem) word order, as does most other languages in Vanuatu.<ref>{{Cite web|last=Dryer|first=Matthew|title=Feature 88A: Order of Demonstrative and Noun|url=https://wals.info/feature/88A#3/-38.69/164.27|url-status=live|website=WALS Online}}</ref> 
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+DEIC:deictic
+TA:tense/aspect particle
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{interlinear|number=(1)
+|kinan-ena '''nini''' ka-la lala lua
+|eat-NOM DEIC POSS-3PL.P 3PL two
+|'This food is the two of theirs'<ref>{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=211|doi=10.25911/5D723CAC6B4A2}}</ref>}}
+
+{{interlinear|number=(2)
+|sa-na puruvi la '''nene'''
+|POSS-3SG.P brother PL DEIC
+|'Those brothers of his'<ref>{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=218|doi=10.25911/5D723CAC6B4A2}}</ref>}}
+
+==== Nini ====
+''Nini'' marks an explicit reference to an entity which is in proximity or physically connected to the speaker.<ref name=":0" /> 
+
+{{interlinear|number=(3)
+|kam pununga nap̃a a-si-ke e '''nini'''
+|2PL all REL 2PL.S-be.at-TA LOC DEIC
+|'All of you who are here'}}
+
+{{interlinear|number=(4)
+|yo-marava '''nini'''
+|place-clear DEIC
+|'The world'}}
+
+==== Nam̃aa ====
+''Nam̃aa'' is employed when referencing objects within the proximity of the hearer, such as objects the hearer is carrying.<ref name=":1">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=226|doi=10.25911/5D723CAC6B4A2}}</ref>
+
+{{interlinear|number=(5)
+|o-kus mapu-u '''nam̃aa''' o-kom pe
+|2SG.S-carry grandchild-1SG.P DEIC 2SG.S-pass where
+|'Where are you carrying my grandchild there to?'}}
+
+Early<ref name=":1" /> also notes an additional pragmatic function to this particle, whereby it is employed by speakers to request an object be brought to the location of the hearer. See example '''(6)''' below demonstrating an interaction between a father (speaker) and mother (hearer) about their child.<ref name=":1" />
+
+{{interlinear|number=(6)
+|ka yaru '''nam̃aa'''
+|(excl) person DEIC
+|'Look at that fellow there'}}
+
+Despite the father being located closer to the child (and thus would typically employ ''nini''), he uses ''nam̃aa'' to request the mother to aid their child instead of himself.
+
+==== Nene ====
+Because ''nene'' is used to address entities near both speaker and hearer, it is also frequently employed for general unmarked deictic references. Due to this general use, it often mimics the function of a definite [[Article (grammar)|article]]. As Lewo only has an indefinite article ''tai ('a', 'one')'', it seems ''nene'' functions in place of the definite.<ref name=":1" />
+
+{{interlinear|number=(7)
+|yaru '''nene''' na-e pe
+|man DEIC GEN-LOC where
+|'Where is this/that/the guy from?'}}
+
+{{interlinear|number=(8)
+|lala telu '''nene''' a-puyu a-pa metava
+|3PL three DEIC 3PL.S-R.climb 3PL.S-R.go above
+|'These three/the three of them climbed up'}}
+
+==== Nena ====
+While not frequently used, ''nena'' can be employed to indicate spatial reference.<ref name=":2">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=227|doi=10.25911/5D723CAC6B4A2}}</ref>
+
+{{interlinear|number=(9)
+|a-kom e pulu-mara-n mrae '''nena''' a-pimi
+|3PL.S-pass LOC hole-face-3SG.P sun DEIC 3PL.S-R.come
+|'They came out of the sun there'}}
+
+While the particle is known to reference distal or unknown location, Early<ref name=":2" /> notes a more common function of ''nena'', in which it presents an identified object, providing importance or instancy to it. See examples '''(10)''' and '''(11)'''.
+
+{{interlinear|number=(10)
+|a-visa legiana '''nena'''
+|2PL.S-I.say day DEIC
+|'You should announce the exact day'}}
+
+{{interlinear|number=(11)
+|a kolemalo '''nena''' ø-kus viyu
+|CONJ night DEIC 3SG.S-carry gun
+|'That very night he took his gun'}}
+
+==== Deictic clitics ====
+The Lewo deictic particles, with the exception of ''nam̃aa,'' can each be shortened to a monosyllabic form in order to [[Clitic|cliticise]] to other words.<ref name=":4">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=228|doi=10.25911/5D723CAC6B4A2}}</ref> Early gives an example of this cliticisation with deictic particles following the preposition ''e''.<ref name=":4" />
+
+{{interlinear|italics1=no|number=(12)
+|e 'nene → 'e-ne
+|e 'nini → 'e-ni*
+|*with high vowel deletion, occurs as ''en''}}
+
+This cliticisation can occur with various nouns and verbs. For instance, the word for 'man' '<nowiki/>'''''yaru''''' + ''''''nene''''' becomes ''<nowiki/>'<nowiki/>'''yar-ne''''' 'that man'. The verb 'be like' ''''''sa''''' + ''''''nini''''' occurs as ''<nowiki/>'<nowiki/>'''sa-n(i)''''' 'like this'.<ref name=":4" />
+
+==== ''Nap̃a'' ====
+In Lewo, the relative pronoun ''nap̃a'' functions as a deictic. to equate to the English 'the aforementioned'. Despite being glossed as REL, it acts as a discourse-level deictic in many instances.<ref>{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=84|doi=10.25911/5D723CAC6B4A2}}</ref>
+
+Additionally'', ap̃a'' functions as an [[Anaphora (linguistics)|anaphoric]] deictic particle.<ref name=":0" /> That is, it functions to provide anaphoric reference to an already-introduced entity. It is also employed to refer to entities part of real-life environment, or shared knowledge of the interlocutors.<ref>{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=430|doi=10.25911/5D723CAC6B4A2}}</ref>
+
+{{interlinear|number=(13)
+|a-m̃e pui '''nap̃a''' ana a-si-lua la-na kompasia
+|3PL.S-R.kill pig REL CONJ 3PL.S-cut-out leg-3SG.P side
+|'They killed the/that pig, and cut off one of its legs'}}
+
+In example '''(13)''', ''nap̃a'' appears before the conjunction ''ana''. As the conjunction is part of the following clause, ''nap̃a'' functions here to bring an entity (''pui'' 'pig') into the foreground. 
+
+''Nap̃a'' also interacts frequently with the main deictic system in Lewo.<ref name=":5">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=432|doi=10.25911/5D723CAC6B4A2}}</ref> As the function of ''nene'' can be often be described as an anaphoric reference marker, it is often cliticised with ''nap̃a'' and as such produces the form '''''nap̃a-ni'''''. Such cliticisation also occurs with the other deictic particles, producing '''''nap̃a-na''''' and '''''nap̃a-ne.''''' See example '''(14):'''<ref name=":5" />
+
+{{interlinear|number=(14)
+|Ana yoko na ø-sa nap̃a kie-la kumai na narin kumali tai ø-te-ke si ø-lavisi-ni-a na narin kumai '''nap̃a-na''' naga-na ne sira tai ø-te-ke e-a.
+|CONJ FUT EMPH 3SG.S-be.like REL POSS-3PL.P village EMPH small village ART 3SG.S-be.at-TA again 3SG.S-close-TR-3SG.O EMPH small village REL-DEIC 3SG-EMPH DEIC woman ART 3SG.S-be.at-TA LOC-3SG.O
+|'And it was like their village / another small village was close to it / and at this village there was a woman living there'}}
+
+In this example, the 'small village' ''narin kumali'' is introduced with ''tai (''ART)''. In the following line, it is reintroduced as narin kumali '''nap̃a-na''''' (REL-DEIC). 
+
+Another function of ''nap̃a'' as a deictic particle occurs when referring to real-world knowledge, or shared knowledge by all interlocutors.<ref name=":5" /> For instance, if asked where some people might be, a speaker may respond in one of two ways:
+
+{{interlinear|number=(15)
+|a-pa ke lokove
+|3PL.S-R.go TA garden
+|'They are at the garden'}}
+
+{{interlinear|number=(16)
+|a-pa ke lokove '''nap̃a'''
+|3PL.S-R.go TA garden REL
+|'They are at the garden'}}
+
+Example '''(15)''' has the unmarked case, and indicates that the people in question went to the garden that they are most likely to go to, such as their own garden. However, the addition of ''nap̃a'' in example '''(16)''' indicates a separate garden understood by both interlocutors.<ref name=":6">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=433|doi=10.25911/5D723CAC6B4A2}}</ref>
+
+This method of deixis is frequently used in Lewo,<ref name=":6" /> and can be used in many pragmatic contexts, to expressing deprecating, or euphemistic expressions, as shown in example '''(17)'''.
+
+{{interlinear|number=(17)
+|ya '''nap̃a'''
+|what REL
+|'What on earth is that?'}}
+
+==== Deixis in noun phrases ====
+Deictic particles which occur in noun phrases can not only modify nominal heads, but also function as the noun heads themselves.<ref name=":2" />
+
+{{interlinear|number=(18)
+|ko, o-to-tano e '''nam̃aa''', inu ne-to-tano e '''nini'''
+|2SG, 2SG.S-sit-down LOC DEIC 1SG 1SG.S-sit-down LOC DEIC
+|'OK, you sit down there, I'll sit down here'}}
+
+Example '''(19)''' shows ''nam̃aa'' and ''nini'' as the prepositional object of ''e''. That is, instead of functioning as a determiner to a noun, it acts as a preposition. 
+
+{{interlinear|number=(19)
+|ko, o-to-tano e na-'''nini''', inu ne-to-tano e na-'''nam̃aa'''
+|2SG 2SG.S-sit-down LOC NOM-DEIC 1SG 1SG.S-sit.down LOC NOM-DEIC
+|'OK, you sit down on this one, I'll sit down on that one (near you)'}}
+
+Example '''(18)''' shows that deictics can act additionally as [[Nominal (linguistics)|nominal]] heads. Early<ref name=":3">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=117|doi=10.25911/5D723CAC6B4A2}}</ref> notes that three of the four Lewo deictics (with the exception of ''nena''), with the prefix '''na-''' added, act as demonstrative pronouns. See examples below:<ref name=":3" />
+
+{{interlinear|number=(20a)
+|na-nini
+|NOM-DEIC
+|'This one'}}
+{{interlinear|number=(20b)
+|na-nam̃aa
+|NOM-DEIC
+|'The one there near you'}}
+{{interlinear|number=(20c)
+|na-nene
+|NOM-DEIC
+|'That one'}}
+
+==== Deixis in interrogatives ====
+The deictic particle ''nape'' is used to ask 'which?' in Lewo.<ref name=":7">{{Cite journal|last=Early|first=Robert|date=1994|others=The Australian National University, The Australian National University|title=A grammar of Lewo, Vanuatu|url=https://openresearch-repository.anu.edu.au/handle/1885/132959|journal=|language=en|pages=175|doi=10.25911/5D723CAC6B4A2}}</ref> 
+
+{{interlinear|number=(21)
+|o-wulu lole '''nape'''?
+|2SG.S-l.buy lolly which
+|'Which lolly do you want to buy?'}}
+
+{{interlinear|number=(22)
+|o-wulu nape?
+|2SG.S-l.buy which
+|'Which (one) will you buy?'}}
+
+Example (21) demonstrates ''nape'' in the position normally occupied by constituents that modify the phrase. Example (22) shows ''nape'' as the head of the phrase.
+
+Occasionally, ''nape'' occurs in a non-interrogative form.
+
+{{interlinear|number=(23)
+|naga ø-sape o-kilia o-la '''nape''' nap̃a o-kekara-ni-a
+|3SG 3SG.S-say 2SG.S-can 2SG.S-take which REL 2SG.S-glad-TR-3SG.O
+|'She said you can have whichever you like'}}
+
+== External links ==
+* Materials on Lewo are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]]
+
+==References==
+{{Reflist}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+R:realis mood
+S:subject
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Epi languages]]
+
+
+{{Vanuatu-stub}}
+{{SOceanic-lang-stub}}

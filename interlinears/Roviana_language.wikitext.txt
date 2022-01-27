@@ -1,0 +1,745 @@
+{{short description|Austronesian language spoken in the Solomon Islands}}
+{{Infobox language
+|name=Roviana
+|states=[[Solomon Islands]]
+|region=north central [[New Georgia Island]]
+|speakers={{sigfig|9870|2}}
+|date=1999
+|ref=e18
+|speakers2= [[L2 speakers]]: 16,000 (1987)<ref name=e18/>
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Northwest Solomonic languages|Northwest Solomonic]]
+|fam5=New Georgia – Ysabel
+|fam6=[[New Georgia languages|New Georgia]]
+|fam7=Roviana–Kusaghe
+|iso3=rug
+|glotto=rovi1238
+|glottorefname=Roviana
+|notice=IPA
+}}
+
+'''Roviana''' is a member of the North West Solomonic branch of Oceanic languages. It is spoken around [[Roviana]] and [[Vonavona]] lagoons at the north central [[New Georgia]] in the [[Solomon Islands]]. It has 10,000 first-language speakers and an additional 16,000 people mostly over 30 years old speak it as a second language (Raymond 2005). In the past, Roviana was widely used as a trade language and further used as a lingua franca especially for church purposes in the Western Province but now it is being replaced by the Solomon Islands [[Pijin]]. Few published studies on Roviana language include: Ray (1926), Waterhouse (1949) and Todd (1978) contain the syntax of Roviana language.
+Corston-Oliver (1996 & 2002) discuss about the ergativity in Roviana.
+Todd (2000) and Ross (1988) discuss the clause structure in Roviana. Schuelke (2020) discusses grammatical relations and syntactic ergativity in Roviana.<ref>{{Cite book|last=Schuelke|first=Peter|title=Grammatical Relations and Syntactic Ergativity in Roviana: A little-described language of the Solomon Islands.|publisher=University of Hawaiʻi at Mānoa|year=2020|location=Honolulu, HI, USA}}</ref>
+
+== Phonology and orthography ==
+
+===Consonants===
+ 
+{|class=wikitable style=text-align:center
+! colspan=2|
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan=2| [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} {{grapheme|m}}
+| {{IPAlink|n}} {{grapheme|n}}
+| {{IPAlink|ŋ}} {{grapheme|ng}}
+|
+|-
+! rowspan=2| [[Plosive]]
+! <small>voiced</small>
+| {{IPAlink|ᵐb}} {{grapheme|b}}
+| {{IPAlink|ⁿd}} {{grapheme|d}}
+| {{IPAlink|ɡ}} {{grapheme|q}}
+|
+|-
+! <small>voiceless</small>
+| {{IPAlink|p}} {{grapheme|p}}
+| {{IPAlink|t}} {{grapheme|t}}
+| {{IPAlink|k}} {{grapheme|k}}
+|
+|-
+! rowspan=2| [[Fricative]]
+! <small>voiced</small>
+| {{IPAlink|β}} {{grapheme|v}}
+| {{IPAlink|z}} {{grapheme|z}}
+| {{IPAlink|ɣ}} {{grapheme|g}}
+|
+|-
+! <small>voiceless</small>
+|
+| {{IPAlink|s}} {{grapheme|s}}
+|
+| {{IPAlink|h}} {{grapheme|h}}
+|-
+! colspan=2| [[Rhotic consonant|Rhotic]]
+|
+| {{IPAlink|r}} {{grapheme|r}}
+|
+|
+|-
+! colspan=2| [[Lateral consonant|Lateral]]
+|
+| {{IPAlink|l}} {{grapheme|l}}
+|
+|
+|}
+
+The Roviana alphabet is based on the Latin alphabet and consists of the above letters.
+
+'''allophones:'''
+{{IPA|[h] ~ [ɦ]}} ([+voiced]) / V_V → {{IPA|/huhuβe/ [huɦuβe]}} 'bathing'
+
+{{IPA|[ŋ] ~ [ɲ]}} / _V [-back] → {{IPA|/ŋiɾa/ [ɲiɾa]}} 'strong'
+
+{{IPA|/r/}} is lightly trilled in unstressed syllables and strongly trilled in stressed syllables.
+
+===Vowels===
+
+{|class=wikitable style=text-align:center
+!
+! Front
+! Back
+|-
+! High
+| i
+| u
+|-
+! Mid
+| e
+| o
+|-
+! Low
+| colspan=2| a
+|}
+
+V → V: / stressed Vs
+
+V → Ṽ / _N
+
+{{IPA|[a] ~ [ə]}} / _V  → {{IPA|/leana/ [leəna]}}
+
+===Phonotactics===
+
+(C) V
+
+(C represents a single consonant and V represents a monophthong or diphthong.)
+
+====Diphthongs====
+
+There are five diphthongs; {{IPA|/ei/}}, {{IPA|/ai/}}, {{IPA|/ae/}}, {{IPA|/au/}}, and {{IPA|/oi/}}
+
+The majority of lexical morphemes consist of two or three syllables. Lexical morphemes consisting of four syllables or a single syllable are uncommon whereas morphemes consisting of more than four syllables have never occurred.
+
+===Stress===
+Stress is not contrastive.
+
+# Roots of one syllable, with the exception of prepositions and articles;
+## {{IPA|/ˈla/}} 'go', {{IPA|/ˈmae/}} 'come'
+# Roots of two syllables are stressed on the initial syllables;
+## {{IPA|/ˈzama/}} 'talk', {{IPA|/ˈtalo/}} 'taro'
+# Roots of more than two syllables are stressed on the first and second syllables;
+## {{IPA|/ˈeˈhara/}} 'blood', {{IPA|/ˈsiˈɡareti/}} 'cigarette'
+
+The nominalising infix {{angbr IPA|in}} occurs within the first syllable of the root, it always receives stress;
+
+:{{IPA|/ˈɣani/}} 'eat', {{IPA|/ˈɣiˈnani/}} 'food'
+
+All material which precedes the root (prefixes and reduplicated material) is assigned stress as if it were a single root;
+
+:{{IPA|/ˈβari-ˈpera/}} 'fight', {{IPA|/ˈhabo-ˈhabotu-ana/}} 'chair'
+
+The transitive suffix {{IPA|/-i/}} takes stress;
+
+:{{IPA|/ˈseke-ˈi-a/}} 'hit him/her/it'
+
+Other suffixes, however, do not take stress and are ignored in determining the placement of stress. Material following the root is not treated as a unit for the purpose of stress assignment;
+
+:{{IPA|/ˈdoɣoˈr-i-ɣami/}} 'see us (EXClusive)'
+
+The suffix {{IPA|/-ɣami/}} does not receive stress.
+
+Stress is assigned independently to each root in a compound:
+
+:{{IPA|/βetu/ + /lotu/}} → {{IPA|/ˈβetuˈlotu/}} 'church ('pray' + 'house')'
+
+== Grammar ==
+
+Roviana word order is [[verb–subject–object]] (VSO).
+
+===Pronouns===
+
+{| class="wikitable"
+|-
+! Person
+! Absolute
+! Ergative
+! Focal
+! English
+|-
+! 1st person
+| arau
+| rau
+| arau
+| I, me
+|-
+| 
+| gita
+| gita
+| gita
+| we(incl)
+|-
+| 
+| gami
+| gami
+| gami
+| we(excl)
+|-
+! 2nd person
+| agoi
+| goi
+| agoi
+| you(sg)
+|-
+| 
+| gamu
+| gamu
+| gamu
+| you(pl)
+|-
+! 3rd person
+| asa
+| sa
+| asda
+| s/he/it
+|-
+| 
+| sarini
+| ri
+| arini
+| they
+|}				
+
+====Pronominal suffixes====
+{| class="wikitable"
+|-
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | -qu
+| -mami
+|-
+! {{small|inclusive}}
+| -da
+|-
+! colspan="2" | 2nd person
+| -mu
+| -mia
+|-
+! colspan="2" | 3rd person
+| -na
+| -di
+|}
+
+These are suffixed to direct/[[inalienable possession]]s such as kin terms and parts of the body.
+
+{{interlinear|lang=rug|indent=3
+|lima-na
+|hand-3SG
+|'his/her/its hand'}}
+
+{{interlinear|lang=rug|indent=3
+|tama-qu
+|father-1SG
+|'my father'}}
+
+====Preposed possessor====
+{| class="wikitable"
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | qua
+| mami
+|-
+! {{small|inclusive}}
+| nada
+|-
+! colspan="2" | 2nd person
+| mua
+| mia
+|-
+! colspan="2" | 3rd person
+| nana
+| dia
+|}
+
+These are suffixed to indirect or [[alienable possession]]s:
+
+{{interlinear|lang=rug|indent=3
+|nana hore
+|POSS:3SG canoe
+|'his/her canoe'}}
+
+{{interlinear|lang=rug|indent=3
+|mia popoa
+|POSS:2SG home
+|'their home'}}
+
+====Postposed possessor====
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | taqa
+| tani/tami
+|-
+! {{small|inclusive}}
+| tani
+|-
+! colspan="2" | 2nd person
+| tamu
+| tani/tamu
+|-
+! colspan="2" | 3rd person
+| tadi
+| tadi
+|}
+
+These are suffixed to a second kind of indirect or alienable possessions:
+
+{{interlinear|lang=rug|indent=3
+|Hie sa lose tanisa
+|This DEF room POSS:3PL
+|'This is his/her room'}}
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | gequ
+| gemami
+|-
+! {{small|inclusive}}
+| gada
+|-
+! colspan="2" | 2nd person
+| gemu
+| gemi
+|-
+! colspan="2" | 3rd person
+| gena
+| gedi
+|}
+
+The possessive for food is prefixed '''ge''' or '''ga''':
+
+{{interlinear|lang=rug|indent=3
+|gemi ginani
+|POSS:2PL food
+|'your food'}}
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | equ
+| emami
+|-
+! {{small|inclusive}}
+| eda
+|-
+! colspan="2" | 2nd person
+| emu
+| emi
+|-
+! colspan="2" | 3rd person
+| ena
+| edi
+|}
+
+The possessive for desire is prefixed '''o''' or '''e''':
+
+{{interlinear|lang=rug|indent=3
+|equ puta
+|POSS:1SG sleep
+|'I want to sleep'}}
+
+====Interrogative pronouns====
+
+{| class="wikitable"
+|-
+! Inter.Pronouns
+! English
+|-
+| esei
+| who
+|-
+| arisei
+| who(pl)
+|-
+| esei ri kara
+| who(of two person)
+|-
+| tesei
+| whose
+|-
+| sa/na sa
+| what
+|-
+| sa sari
+| what(pl)
+|-
+| savana
+| which
+|-
+| na sa ri kara
+| which(of two things)
+|}
+
+====Indefinite pronouns====
+
+{| class="wikitable"
+|-
+! Indef.Pronouns
+! English
+|-
+| keke tie
+| a man
+|-
+| ke tie
+| any man
+|-
+| isa si keke
+| another
+|-
+| keke nana koburu
+| one of his/her kids
+|-
+| kaiqa pule
+| others/some more
+|-
+| ka visavisa/kaiqa
+| some/few
+|-
+| loke tie
+| no one
+|-
+| votiki zinama
+| different language
+|-
+| loke toŋa
+| nothing/none
+|}
+
+====Demonstrative pronouns====
+
+{| class="wikitable"
+|-
+! Demonst.Pronouns
+! E.g. sentence/question
+! English
+|-
+| hie/si hie/hiera
+| sa tie hie/sa si hie? /hiera sa qua vetu
+| this man/what is this? /this is my house
+|-
+| hoi/sana/asa
+|asa sa vineki hoi/na tie sana/asa se Maria
+|that's the girl there/that man/that's Maria
+|-
+| hire/si hire
+| hire mua buka/tamu goi si hire?
+| these are your books/are these yours?
+|-
+| hiroi
+| hiroi mua buka
+| those are your books
+|}
+
+===Nouns===
+
+There are two classes of nouns in Roviana. The first includes kin terms, body parts and some local nouns. These are used with suffixed personal pronouns such as:
+
+:{{lang|rug|tinaqu}} - 'my mother'<br />''mata-na'' - 'her/his /its eyes'
+
+Nouns of the second class are used with separate possessive words such as:
+
+:{{lang|rug|qua buka}} - 'my book'<br />''nana vetu'' - 'his/her/its house'
+
+Local nouns are formed from verbs by the suffix ''''ana''''. They denote a place where an action is performed:
+
+:{{lang|rug|habotu}} - 'sit'<br />''habo-habotu-ana'' - 'chair'
+
+Nouns are formed from verbs & adjectives by the infix {{angbr|in}}. When the verb or adjective begins with a vowel, {{angbr|in}} is prefixed:
+
+:{{lang|rug|ene}} - 'to walk'<br />''inene'' - 'a journey'
+
+When the verb or adjective begins a consonant in is infixed after the first consonant:
+
+:{{lang|rug|kera}} - 'sing'<br />''kinera'' -'song'
+
+A noun can also be formed by in from the causative or reciprocal forms of verbs:
+
+:{{lang|rug|gila}} -'to know'<br />''vagila'' - 'to show'<br />''vinagila-gila'' - 'a sign'
+
+====Demonstratives====
+
+Articles in Roviana occur before the noun, marking the noun phrase as common or proper. Roviana has definite and indefinite  articles.
+
+The indefinite article is 'na':
+
+{{interlinear|lang=rug|indent=3
+|na nana buka
+|INDEF POSS:3SG book
+|'his/her book'}}
+
+'''na''' can also be exchanged with '''sa'''
+
+{{interlinear|lang=rug|indent=3
+|sa hore
+|'the canoe'}}
+
+''''na'''' and ''''sa'''' may also be applied with pl.nouns:
+
+{{interlinear|lang=rug|indent=3
+|na tie habahuala-di
+|INDEF person poor POSS:3PL
+|'the poor people'}}
+
+The definite article is ''''sa''''
+
+{{interlinear|lang=rug|indent=3
+|sa dia vetu
+|DEF POSS:3PL house
+|'their house'}}
+
+The personal articles are the non- absolutive ''''e'''' and absolutive ''''se''''.
+'''E''' is commonly used with a proper noun in the subjective case, ''''se'''' in the objective:
+
+{{interlinear|lang=rug|indent=3
+|Dogoria rau se Nate rane sarere lahe.
+|saw 1SG ABS Nate rane sarere lahe
+|'I saw Nate last Saturday.'}}
+
+==Syntax==
+
+===Imperative and interrogative sentences===
+
+====Imperative sentences====
+
+An actor can optionally be omitted (1); otherwise there is no structural difference from a declarative clause (2).
+
+{{interlinear|lang=rug|number=(1)
+|La (si  goi).
+|go ABS 2SG
+|'Go!'}}
+
+{{interlinear|lang=rug|number=(2)
+|Va-mae-a sa  magu.
+|CAUS-come-3SG   DEF knife
+|'Give me the knife!'}}
+
+====Interrogative sentences====
+
+Yes-no questions are structurally identical to declaratives, but have a distinct rising intonation. The two single word answers are {{lang|rug|uve}} 'yes' and {{lang|rug|lokari}} 'no'.
+
+Wh-questions or information questions contain an interrogative phrase in focus position (i.e. clause initial) and optionally is followed by the focal particle si; for example,
+
+:{{lang|rug|ae}} 'where?'
+:{{lang|rug|esei}} 'who?'
+:{{lang|rug|kavisa}} 'how many/much?'
+:{{lang|rug|sa}} 'what?'
+:{{lang|rug|vea}} 'how?, why?'
+
+{{interlinear|lang=rug|indent=3
+|Esei poza-mu    si    agoi?
+|who name-2SG  FOC  2SG:FOC
+|'What is your name?' ({{Lit}} 'Who is your name?')}}
+
+Interrogative morphemes are frequently preceded by the disjunctive particle na;
+
+:{{lang|rug|na vea ke}} 'why?'
+:{{lang|rug|na sa}} 'what?'
+
+===Complex sentences===
+
+====Coordination====
+
+Coordination is marked by a conjunction between the two clauses; the conjunction belongs with the second clause;
+
+:''ba'' 'but'
+:''ke'' 'so, thus'
+:''me(ke)'' 'and'  (''me'' is far more common in texts)
+:''na'' 'or'
+:''pude'' 'purposive'
+:''tiqe'' 'then'
+
+{{interlinear|lang=rug|indent=3
+|Gina  tourism kamahire kote sage  mae   ba   lopu ta-gilana.
+|maybe tourism now     FUT go.up come  but  NEG PASS-know
+|'Maybe tourism will pick up, but we don't know.'}}
+
+====Subordination====
+
+Three major classes are relative clauses, complement clauses and adverbial clauses.
+
+=====Relative clauses=====
+
+Relative clauses follow the head N and are introduced by the invariant relative clause marker sapu. They may only be formed on A, S and O and on the argument nominal of a [[verbless clause]]. More detailed explanation is below.
+
+=====Complement clauses=====
+
+Complement clauses are introduced by the subordinator sapu; otherwise, no different from the main clauses.
+Complement clauses occur after Vs of cognition, speech or perception, whereas subordinate clauses (with the exception of relative clauses) occur in focus position;
+
+{{interlinear|lang=rug|indent=3
+|Lopu hiva-ni-a    ri   sapu tangin-i-a      rau sa   vineki
+|NEG like-TR-3SG 3PL C    hold-TR-3SG   1SG DEF girl
+|'They didn't like me holding the girl.' ({{Lit}} 'They didn't like it, that I was holding the girl.')}}
+
+Complement clauses are considered to be intermediate between main and subordinate clauses. In texts, complement clauses in Roviana are rare. Direct quotation is more frequent than subordination to higher predicates of information, while epistemic modals (e.g. {{lang|rug|gina}} 'maybe', {{lang|rug|tu}} 'EMPH) are often used rather than subordination to higher predicates of cognition (ergativity).
+
+=====Adverbial clauses=====
+
+Adverbial clauses occur in focus position and never contain new mentions in core argument positions. They are introduced by a subordinator and followed by the focal particle si, a consequence of being in focus position;
+
+:{{lang|rug|beto}} 'after'
+:{{lang|rug|pude}} 'if'
+:{{lang|rug|totoso}} 'while, when'
+
+{{interlinear|lang=rug|indent=3
+|Ke beto vagi ri sarina ⟨in⟩avoso  si la buna-i-a       ri  sa  vasina asa.
+|so after gather 3PL  DEF:PL ⟨NOM⟩know FOC go bomb-TR-3SG  3PL DEF place that
+|'So after they had gathered all the information, they went and bombed that place.'}}
+
+Subordination is extremely limited in Roviana. Subordinate clauses never contain other subordinate clauses, nor do they contain relative clauses. Similarly, relative clauses do not contain either subordinate clauses or relative clauses.
+
+====Ergativity====
+
+The subject of an intransitive verb has the same morphological marker as a direct object, and a different morphological marker from the subject of a transitive V.
+
+A- transitive subject, O- transitive direct object, S- intransitive subject respectively.
+
+Whether Roviana is an ergative language or not is argumentative, however, relative clauses in this language can be categorised by ergativity, so it can be described as an ergative language.
+
+=====Relative clauses=====
+
+Relative clauses in Roviana follow the head N and are introduced by an invariant relative marker sapu. The coreferent of the N in the matrix clause is never overt within the relative clause. This feature may be according to whether the notional coreferent within the relative clause is A, S or O.
+
+======Relative clauses on A======
+Relative clauses on A use clausal nominalisation. The notional A has no overt realisation. The nominalised verb in a relative clause on A carries a suffix 'NSUF', which is also used to index the possessor in possessives;
+
+{{interlinear|lang=rug|indent=3
+|sa huda noma-na
+|DEF tree big-3SG.NSUF
+|'the big tree'}}
+
+When the O in the relative clause is a proper N, it is marked with the article e;
+
+{{interlinear|lang=rug|indent=3
+|Hierana sa koreo sapu tupa-na e Zone.
+|this DEF boy REL punch-3SG.NSUF ART John
+|'This is the boy that punched John.'}}
+
+======Relative clauses on S======
+
+Given that the coreferent in the relative clause does not have overt realisation;
+
+{{interlinear|lang=rug|indent=3
+|Hierana sa tie sapu kote taloa.
+|this DEF man REL FUT leave
+|'This is the man who is going away.'}}
+
+======Relative clauses on O======
+
+In relative clauses on O, A is overt in the relative clause and full verbal morphology is used to index the O. The nominal suffixes are not used in relative clauses on O;
+
+{{interlinear|lang=rug|indent=3
+|Hierana sa koreo sapu tupa-i-a e Zone.
+|this DEF boy REL punch-TR-3SG.DO ART John
+|'This is the boy that John punched.'}}
+
+In the context of a relative clause which is by definition subordinate, e is glossed simply ART, since it is used with proper Ns which are A or O. These following two examples have got e; the first one is on A whereas the second one is on O.
+
+{{interlinear|lang=rug|indent=3
+|Hierana sa koreo sapu tupa-na e Zone.
+|this DEF boy REL punch-3SG.NSUF ART John
+|'This is the boy that punched John.'}}
+
+{{interlinear|lang=rug|indent=3
+|Hierana sa koreo sapu tupa-i-a e Zone.
+|this DEF boy REL punch-TR-3SG.DO ART John
+|'This is the boy that John punched.'}}
+
+======'WHEN' clauses======
+
+'When' clauses are introduced by the subordinator {{lang|rug|totoso|italic=no}} 'time' or the syncopated form {{lang|rug|totso|italic=no}}, but they do not specify the precise nature of the temporal relation involved;
+
+{{interlinear|lang=rug|indent=3
+|Totso koa goi pa korapa tropic si kaqu pezaku lamo si goi.
+|time stay you.SG PREP inside tropic FOC must wash.hands always ABS you.SG
+|'When you stay in the tropics, you must always wash your hands.'}}
+
+======'AFTER' clauses======
+
+The event of an 'after' clause is introduced by the subordinator {{lang|rug|beto|italic=no}} 'finish' and temporally precedes the event of the matrix clause to which it is syntactically subordinate;
+
+{{interlinear|lang=rug|indent=3
+|Ke beto vagiri sarina ⟨in⟩avoso si 1a buna-i-a ri sa vasina asa.
+|so finish gather they DEF.PL ⟨NOM⟩know FOC go bomb-TR-3SG.DO they.ERG DEF place that
+|'So after they had gathered all the information, they went and bombed that place.'}}
+
+======'CONTEMPORANEOUS' clauses======
+
+'Contemporaneous' clauses have imperfective aspect, usually accompanied by reduplication of the verb, with the meaning 'While ...-ing' or 'As ...-ing';
+
+{{interlinear|lang=rug|indent=3
+|En-ene ri la hoirana si tutuvi-a ri se Manue.
+|DUP-walk they go there FOC meet-3SG.DO they.ERG ABS Possum
+|'As they were walking along, they met Possum.'}}
+
+======Conditionals======
+
+In a conditional, the protasis is a subordinate clause. As with the subordinate clauses, there is a neutral system of case marking;
+
+{{interlinear|lang=rug|indent=3
+|...ba pude gore vura mae sa si kote taloa si rau.
+|but if go.down come.out come it FOC FUT leave ABS I
+|'...but if it works out, I'll leave.'}}
+
+== External links ==
+* [[Paradisec]] has [http://catalog.paradisec.org.au/collections/search?language_code=rug a number of Open Access collections] that include Rovianan materials, including the [[Arthur Capell|Arthur Cappell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1], [http://catalog.paradisec.org.au/collections/AC2 AC2]) and [[Donald Laycock|Don Laycock]] collection ([http://catalog.paradisec.org.au/collections/DL1 DL1]).
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* Corston, Simon H. (1996) Ergativity in Roviana, Solomon Islands. Canberra: Pacific Linguistics.
+* Corston-Oliver, Simon H. (2002) 'Roviana.' In John Lynch, Malcolm Ross & Terry Crowley (eds.) The Oceanic languages. London: Curzon. [A lengthy sketch grammar of the language.]
+* Hall, Allen.(2000). A Roviana and English dictionary/Allen and others for New Georgia, Solomon Islands. Brisbane.Jollen Press.
+* Ray, Sidney H. (1926) A comparative study of the Melanesian island languages. Cambridge: Cambridge University Press. [Briefly describes a few key features of the grammar of Roviana.]
+* Ross, Malcolm D. (1988) Proto Oceanic and the Austronesian languages of western Melanesia. Canberra: Pacific Linguistics. [pp240–247 discusses clause structure in Roviana.]
+* Todd, Evelyn M. (1978) 'Roviana syntax.' In Stephen A. Wurm & Lois Carrington (eds.) Second International Conference on Austronesian Linguistics: Proceedings fasicle 2. Eastern Austronesian. Canberra: Pacific Linguistics. pp1035–1042.
+* Todd, Evelyn M. (2000) 'Roviana clauses.' In Bill Palmer & Paul Geraghty (eds.) SICOL. Proceedings of the Second International Conference on Oceanic Linguistics: vol.2. Historical and descriptive studies. Canberra: Pacific Linguistics. pp137–154.
+* Waterhouse, J.H.L. (1928) A Roviana and English dictionary. Sydney: Epworth. (Revised and enlarged 1949 by L.M. Jones and edited by Loata Parkinson in 2005).[https://www.smg.surrey.ac.uk/media/1172/rovdic.pdf]
+
+{{Languages of the Solomon Islands}}
+{{Meso-Melanesian languages}}
+{{Austronesian languages}}
+
+[[Category:Northwest Solomonic languages]]
+[[Category:Languages of the Solomon Islands]]
+[[Category:Languages of Papua New Guinea]]

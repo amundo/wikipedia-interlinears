@@ -1,0 +1,367 @@
+{{Short description|Arawan language spoken in Brazil}}
+{{Infobox language
+| name = Madí
+| nativename = Jamamadí
+| states = [[Amazonas (Brazilian state)|Amazonas State]], [[Brazil]]
+| ethnicity = [[Jamamadi people|Jamamadi]], [[Banawá people|Banawá]], Jarawara
+| speakers = 1,080
+| date = 2011
+| ref = <ref>{{E21|Jamamadí}}</ref>
+| familycolor = American
+| fam1 = [[Arawan languages|Arawan]]
+| iso3 = jaa
+| map = Jarawara and Jamamadí.png
+| mapcaption = The approximate location of the Jamamadí and Jarawara dialects of Madí.
+| glotto = jama1261
+| glottorefname = Madi
+<!--| ELP3 = 2925
+| ELPname3 = Jarawara-->
+| dia1 = Jarawara
+| dia2 = Banawa
+| dia3 = Jamamadi
+}}
+
+'''Madí'''—also known as '''Jamamadí''' after one of its dialects, and also '''Kapaná''' or Kanamanti (Canamanti)—is an [[Arawan language]] spoken by about 1,000 [[Jamamadi people|Jamamadi]], [[Banawá people|Banawá]], and Jarawara people scattered over [[Amazonas State, Brazil|Amazonas]], [[Brazil]].
+
+The language has an [[active–stative]] clause structure with an [[agent–object–verb]] or [[object–agent–verb]] word order, depending on whether the agent or object is the topic of discussion (AOV appears to be the default).<ref>Dixon, "Arawá", in Dixon & Aikhenvald, eds., ''The Amazonian Languages'', 1999.</ref>
+
+== Dialects ==
+Madí (meaning simply "people") has three extant dialects, corresponding to three distinct tribal groups. Dialectal differences are an important part of tribal self-identification, and although all three dialects are mutually intelligible Madí speakers refer to them as separate languages. The dialects and the tribes they represent are as follows:<ref>Dixon, ''The Jarawara Language of Southern Amazonia'', 2004, p. 8.</ref>
+
+# '''Jamamadí''', spoken by 250 people to the northwest. As the most widely spoken dialect, "Jamamadí" is sometimes used to refer to the whole Madí-speaking population by outsiders and the neighboring Paumarí. The term, used by the Jamamadí people themselves, is a compound of ''jama'' "forest" and ''madi'' "people". This tribe is occasionally confused with another self-identified "Jamamadí" living further up the [[Purus River]], who in fact speak a dialect of [[Kulina language|Kulina.]] The Jarawara use the word ''wahati'' and the Banawá ''wati'' to refer to the Jamamadí, both possibly meaning "liver".
+# '''Jarawara''', spoken by about 170 in seven villages to the south. This term - which was originally used only by outsiders, but today used in self-reference when speaking to non-Madí - is a compound of the [[Lingua Geral Amazonica|Lingua Geral]] ''jara'' "white person" and ''wara'' "to eat". The Jarawara refer to themselves as ''Ee jokana'', "us real people". The Banawá refer to them as ''jarawa-mee''; the Jamamadí call them ''amara'', "palm-tree".
+# '''[[Banawá]]''', spoken by about 120 to the northeast. This term is simply the Brazilian-Portuguese name for the river the tribe now lives on; they themselves refer to the river as ''Kitia'', and the tribe as ''Kitia-ka-mee'', "those who belong to the Kitia". The Banawá only recently migrated to the river area, in about 1950; prior to this they were known as the ''Munia''. Both the Jarawara and Jamamadí refer to the Banawá as ''bato-jafi''.
+
+These three dialects share 95% of their vocabulary, and their grammars are nearly identical. Dixon characterizes Jarawara and Banawá as somewhat closer to each other than either is to Jamamadí, analogous to the standard British, Australian and American varieties of English. The three tribes have relatively little long-term interaction with one another; close personal relations, social events, and marriages generally occur only within a given tribe. As a result, there is no particular [[Prestige (sociolinguistics)|prestige dialect]] of Madí, and in fact all the native terms for other dialects described above are slightly derogatory.
+
+Of the three Madí dialects, Jarawara is the most thoroughly documented; as such, this article will refer to Jarawara unless otherwise indicated.
+
+==Phonology and orthography==
+Madí has a relatively small phonemic inventory, distinguishing four vowel qualities and twelve consonants.<ref>Dixon 2004, pp. 16-68.</ref>
+
+===Vowels===
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA|i iː}}
+|
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e eː}}
+| {{IPA|o oː}}<sup>1</sup>
+|-
+! [[Low vowel|Low]]
+|colspan="2"| {{IPA|a aː}}
+|}
+# The back vowel here represented as /o oː/ is unrounded; its most common realization is mid-back [ɤ ɤː], but this varies freely with close-back [ɯ ɯː].
+All vowel qualities may occur short or long, but the distinction is fairly limited and has a low [[functional load]]. All monosyllabic words have a long vowel: /baː/ "to hit", /soː/ "to urinate". In polysyllabic words, however, vowel length is occasionally contrastive, as shown in the [[minimal pair]] /ˈaba/ "fish" and /ˈaːba/ "to be finished, dead". Many instances of long vowels developed historically from the loss of /h/ preceding an unstressed syllable, a process that is still ongoing; for example, the citation form /ˈ{{IPA|ɸ}}aha/ "water" may be pronounced /{{IPA|ɸ}}aː/ in casual speech.
+
+Vowels are allophonically [[nasalized]] when adjacent to nasal consonants /m n h/, and at the end of main clauses.
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+!
+! [[Bilabial consonant|Bilabial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Plosive]]
+| {{IPA|b}}
+| {{IPA|t}} d<sup>1</sup>
+|
+| {{IPA|ɟ}}<sup>2</sup>
+| {{IPA|k}}
+| {{IPA|(ʔ)}}<sup>3</sup>
+|-
+! [[Nasal stop|Nasal]]
+| {{IPA|m}}
+| {{IPA|n}}
+|
+|
+|
+|
+|-
+! [[Fricative consonant|Fricative]]
+| {{IPA|ɸ}}
+|
+| {{IPA|s}}
+|
+|
+| {{IPA|h̃}}<sup>4</sup>
+|-
+! [[Liquid consonant|Liquid]]
+|
+|
+| {{IPA|r}}<sup>5</sup>
+|
+|
+|
+|-
+! [[Semivowel]]
+|
+|
+|
+|
+| {{IPA|w}}<sup>6</sup>
+|
+|}
+# The voiced alveolar stop /d/ occurs in the Jamamadí and Banawá dialects; in Jarawara it has merged with /t/.
+# The palatal stop {{IPA|/ɟ/}} may be realized as a semivowel {{IPA|[j]}} in rapid speech, and especially before /i/.
+# The [[glottal stop]] {{IPA|[ʔ]}} has a limited distribution. It occurs between the elements of a compound where the second element begins with a vowel, e.g. /iso-ete/ "leg-stalk" > [isoʔete] "shin". Similarly, it occurs after reduplication when the reduplicated stem begins with a vowel: /ata-atabo/ "be muddy all over" is realized as [ataʔatabo]. Dixon therefore argues that the glottal stop is not a phoneme in its own right, but rather marks a ''phonological'' word boundary occurring within a ''grammatical'' word, when the following phonological word begins in a vowel.
+# The glottal fricative /h/ is nasalized - that is, air escapes from both the mouth and nose while it is articulated - and is therefore represented here as <{{IPA|h̃}}>. This causes the allophonic nasalization of surrounding vowels mentioned above (see [[rhinoglottophilia]]).
+# The most common realization of the liquid /r/ in Jarawara is a "darkish" lateral approximant [l~ɫ]; a [[Dental and alveolar flaps|tap]] [ɾ] occurs as an allophone, most commonly before /i/.  In Jamamadí and Banawá, however, this consonant is realized as [ɾ] in most contexts.
+# The [[semivowel]] /w/ cannot occur, or is non-distinctive, before or after the back vowel /o oː/. As a result, it is often analysed as a non-syllabic allophone of /o/.
+
+The Jarawara dialect does not distinguish [[Voice (phonetics)|voicing]] in any of its consonants. It is cross-linguistically unusual, however, in that voicing in its stop series is asymmetrical; /t k/ are underlyingly voiceless, whereas /b ɟ/ are underlyingly voiced. All except /ɟ/ have occasional voiced or voiceless allophones, i.e. /p d g/; voiced allophones often occur word-initially, and voiceless allophones tend to occur word-medially. This system is the result of several mergers occurring in the transition from Proto-Arawan, which had a much larger consonant inventory. The latter system is mostly preserved in the modern Arawan language [[Paumarí language|Paumarí.]]
+
+=== Syllables and stress ===
+In common with many other [[Amazonian languages]], Madí has a very simple syllable structure (C)V; that is, a syllable must consist of a vowel, which may be preceded by a consonant. All consonant-vowel sequences are permitted except /wo/. VV sequences are heavily restricted; aside from /oV Vo/ (which may also be transcribed /owV Vwo/, with an intervening consonant), sequences where /h/ is deleted before an unstressed vowel, and the recent loanword /{{IPA|ɟ}}ia/ "day" (from Portuguese ''dia),'' the only permitted sequence is /ai/. Words cannot begin with VV sequences, except when /h/ is deleted from the sequence /VhV-/.
+
+In the Jarawara dialect, [[Stress (linguistics)|stress]] is assigned to every second mora counting from the end of the phonological word, beginning with the penultimate, e.g. /ˌkaraˈ{{IPA|ɸ}}ato/ "tape recorder". Since long vowels bear two moras, they are always stressed: /ˌbatiˈriː/ "priest".
+
+In Banawá, however, stress is counted from the beginning of the word: the first (in words of two moras) or second (in words of three or more) mora is stressed, along with every second mora following. Jamamadi may share this system.
+
+=== Orthography ===
+Like all indigenous languages of South America, Madí was not written prior to Euro-American contact; moreover, no officially standardized orthography yet exists for the language, and most native speakers are illiterate. The basis for written representation of the language today, both among native and non-native speakers, is a practical orthography devised by [[SIL International|SIL]] for the Jamamadí dialect. The differences between the [[International Phonetic Alphabet]] (IPA), the SIL orthography for Jamamadí, and Dixon's orthography for Jarawara are listed below.
+{| class="wikitable"
+|+
+!IPA
+!SIL
+!Dixon
+!Comment
+|-
+|ɟ
+|y
+|j
+|Dixon's preference. Native speakers of all dialects, including Jarawara, use <y>.
+|-
+|Vː
+| colspan="2" |VV
+|Long vowels are represented as double: /baː/ "to hit" corresponds to <baa>
+|-
+|{{IPA|ɸ}}
+| colspan="2" |f
+|Phonetic [f] and [ɸ] do not contrast; Portuguese loanwords with /f/ regularly surface with /ɸ/ in Madí.
+|-
+|ʔ
+| colspan="2" |'
+|Rarely represented.
+|-
+|ɾ~l
+| colspan="2" |r
+|[l] is the primary allophone in Jarawara, [ɾ] in Jamamadí and Banawá; Dixon retains <r> for cross-linguistic convenience.
+|-
+|owV, Vwo
+| colspan="2" |oV, Vo
+|/w/ is not contrastive before or after /o/, but native speakers will nonetheless occasionally write /ow/ and /wo/.
+|}
+This article, which focuses mostly on the Jarawara dialect, will henceforth use Dixon's practical orthography even when discussing Jamamadí and Banawá.
+
+== Grammar ==
+
+=== Grammatical profile ===
+Like many indigenous languages of the Americas, Madí is grammatically [[Agglutinative language|agglutinative]], primarily suffixing, and "verb-heavy"; that is, a great deal of grammatical information is conveyed through verbal affixes, with each affix generally corresponding to a single morpheme. Dixon, for example, counts six prefixes and over eighty affixes. The Jarawara sentence below provides an example of a highly inflected verb, with six affixes corresponding to eight independent words in English (lexical roots are highlighted in bold):<ref>Dixon 2004, p. 256.</ref>
+
+{{interlinear|indent=3|glossing=no abbr
+|'''katoma''' ka-'''ki'''-joma-me-mata-mona-ka
+|temper APPLIC-in.motion-THROUGH.GAP-BACK-FAR.PAST/NON-EYEWITNESS-REPORTED-DECLARATIVE
+|"He is said to have gone back in angrily." ({{lit}} "with temper")}}
+
+On the other hand, all verbal affixes are optional, and many verbs occur in speech with three affixes or fewer; as a result, the actual morpheme-per word-ratio is lower than the large inventory of affixes may suggest. Other word classes, moreover, inflect with far less regularity and variety than verbs do. As a result, while theoretically possible, single-word sentences such as those characteristic of [[Polysynthetic language|polysynthetic]] languages are rare in Madí.
+
+Madí displays a [[Active–stative language|"fluid-S"]] alignment system<ref>Dixon 2004, pp. 417-446.</ref> and a basic [[Object–subject–verb|object-subject-verb]] (OSV) word order. The latter feature is shared by other regional languages (e.g. [[Apurinã language|Apurinã]]) but is very rare cross-linguistically.
+
+=== Gender ===
+Madí has a two-way gender system, distinguishing between masculine and feminine. All nouns carry gender, but not overtly; instead, the gender of a noun is shown by its verbal agreement, specifically in affixes. Affixes which mark for gender generally do so by a vowel alternation: -''a'' for masculine, ''-e'' for feminine. For example, the declarative suffix ''-kV'' surfaces as ''-ka'' when the verb it applies to references a masculine subject, but as ''-ke'' when feminine.
+
+The default, unmarked gender is feminine, and all subject pronouns (regardless of the sex of their referent) require feminine gender agreement.
+
+=== Verbs ===
+As mentioned above, the verb is by far the most morphologically complex part of speech in Madí. However, the precise delineation of a "single verb" is difficult, since certain grammatically bound inflections can nonetheless form independent phonological words. For example, the masculine declarative suffix -''ke'' is phonologically bound to the verb root in the word ''ka'''ke''''' "he is coming", but part of a phonologically independent word in the sentence ''okofawa o'''ke''''' "I drink (something) with it". For this reason, Dixon prefers to analyse Madí in terms of "predicates" and "[[Copula (linguistics)|copulas]]" - sentence-level grammatical units which includes the verb root, personal pronouns in any position, and inflectional affixes, but excludes noun phrases.
+
+This section discusses the notable features of Madí verbal morphology.
+
+==== Prefixes ====
+In contrast to suffixation, prefixation is relatively limited. There are only three prefix slots (relative positions which can only be occupied by a single member of the corresponding set), and only six unique prefixes in total. All of these are, however, extremely common:
+{| class="wikitable"
+|+
+!Slot
+!Prefix
+!Meaning and comment
+|-
+| rowspan="4" |1
+|''o-''
+|First-person singular subject.
+|-
+|''ti-''
+|Second-person singular subject.
+|-
+|''hi-''
+|Marks an O-construction ("passive") when both subject and object are third-person.
+|-
+|''to-''
+|"Away" (directional).
+|-
+|2
+|''ka-''
+|[[Applicative voice|Applicative]].
+|-
+| rowspan="3" |3
+|''na-''
+|[[Causative]].
+|-
+|''niha-''
+|Allomorph of ''na''- when the following verb would inflect with auxiliaries ''-na'', ''-ha.'' Deletes said suffixes. Also occurs with copular verb ''-ha'' "to become".
+|-
+|''ni-''
+|Allomorph of ''niha''- when its second syllable ''-ha-'' is unstressed.
+|}
+
+The use and meaning of the applicative prefix ''ka-'' are somewhat complex, and vary from verb to verb. For some intransitive verbs the applicative, in its prototypical linguistic function, adds a degree of [[Valency (linguistics)|valency]] and turns a peripheral argument into a core object (O); for example, the sentence ''jomee habo naka owa ni-jaa'' "the dog (S) barks '''at me''' (periph.)" becomes ''jomee owa'' ''habo kanaka'' "the dog (S) '''barks-at''' me (O)". However, there are many instances in which the applicative does not necessarily perform this syntactic role, and instead signals some semantic function (e.g. when the subject S is a sick person or a full container).<ref>Dixon 2004, pp. 254-266.</ref>
+
+==== Verb roots ====
+The verb root is a single invariant morpheme to which inflection is applied. All verb roots are obligatory and cannot be deleted, with the single exception of the verb ''-ati-na'' "to say, ask", whose root ''ati-'' is omitted if its auxiliary is prefixed with a pronoun ''o-, ti-'' or ''hi-;'' it surfaces therefore as merely the auxiliary ''-na''.
+
+Because of the variety and productivity of derivation in Madí, as well as the high degree of [[homophony]] resulting from sound change, there are somewhat fewer verb roots than would be expected in a more isolating language, and a single Madí verb root can correspond to several in English. The root ''-wina-'', for example, can be translated as "be hanging", "lie (in a hammock)", "live (in a place)", "be located", or "stay".<ref>Dixon 2004, p. 629.</ref> Such ambiguity is resolved through inflection and pragmatic context.
+
+==== Suffixes ====
+The vast majority of verbal inflection in Madí takes place through suffixation. Because of the variety and complexity of suffixes as a whole, this section will describe them in specific categories.
+
+===== Auxiliary roots and secondary verbs =====
+Certain verb roots in Madí cannot themselves take inflection, but require the auxiliary ''-na'' / ''-ha'' to do so.<ref>Dixon 2004, p. 155.</ref> The semantic distinction between the two is mostly opaque, but those taking ''-ha'' seem to be vaguely associated with "becoming" - e.g. ''tanako-ha'' "to be(come) sweaty". While ''-na-'' is deleted under several conditions (mostly the addition of certain suffixes), ''-ha-'' is not except when preceded by the causative prefix ''niha-'' (see above). The auxiliary ''-ha'' must always be preceded by the prefix ''to-'' "away", except when another Slot 1 prefix takes its place.
+
+Occasionally, the absence of an auxiliary may occur on semantic criteria. Dixon records the sentence ''biti weje-ke'' "she is carrying her son on her back" (with declarative marker ''-ke''). The root ''-weje-'', "to carry on one's back", is usually non-inflecting, and so a sentence containing an auxiliary might be expected. However, the sentence in question was made in reference to a photograph, indicating a semantic rule that an ordinarily non-inflecting verb can take inflection without an auxiliary if it describes a statement of timeless fact, rather than an ongoing event.
+
+Despite being grammatically bound to the root verb, these auxiliary roots form a new phonological word, taking with them all suffixes following. For example, the inflected form ''weje-ke'' above is a single phonological word, but Dixon's expected form with an auxiliary - ''weje'' ''nineke'' - is two.
+
+There are two "secondary verbs" in Madí: ''ama'' "continuous(ly)" and ''awine/awa'' "(it) seems". Like auxiliary roots, these form a new phonological word, but are optional. These take place after the auxiliary root, "miscellaneous suffixes" (the slot comprising the majority of suffixes), and tense-modal suffixes, as well as third-position pronouns, but before mood and post-mood suffixes.
+
+===== Tense-modal suffixes =====
+These suffixes mark the [[Grammatical tense|tense]] of the verb, [[evidentiality]], and [[Linguistic modality|modality]]. There is only a single degree of future tense, but three degrees of past: immediate, recent, and far past. The past tense forms are also fused with evidentiality (eyewitness vs. non-eyewitness), for a total of six past suffixes. The other suffixes in this category mark intentional, irrealis, hypothetical and reported ("it is said"...) modality respectively.
+
+Tense-modal suffixes share a single slot relative to the verb root, but are not necessarily exclusive; for example, the past non-eyewitness suffixes are very often followed by the reported modal suffix.
+
+===== Mood and post-mood =====
+Towards the end of the predicate are attached suffixes conveying [[grammatical mood]]. These are '''indicative''' (divided into declarative and "backgrounding"; both optional), '''imperative''' (marked for proximity and positive vs. negative, for a total of four), '''interrogative''' (content, polar, and polar-future), as well as several single suffixes relating to a narrative (e.g. a climactic sentence).
+
+These can only be followed within the predicate by "post-mood" suffixes - namely, the negative ''-ra'' or a recapitulated tense form.
+
+===== Other suffixes =====
+The majority of Madí suffixes, however, are inserted into a slot after the verb root (or auxiliary root, if there is one) and before the tense-modal suffixes. Dixon characterizes members of this slot as "miscellaneous suffixes", a group consisting of at least fifty-six distinct suffixes, all of these are strictly optional. Examples include ''-bisa'' "also", ''-mata'' "for a short time", and ''-rama'' "unusual, unexpected". In general, these suffixes can combine with one another freely, although multiple subgroups exist whose members appear to be mutually exclusive.
+
+==== Copula ====
+The copula ''ama'' has a much more limited range of inflection than predicative verbs. The only suffixes which can follow it are negative ''-ra'', declarative ''-ke / -ka,'' backgrounding ''-ni / -ne'', and interrogatives ''-ni(hi) / -re / -ra''. If the subject of the copula is a prefixed first- or second-person singular ''o- / ti-'', moreover, this will attach to the negative ''-ra'' rather than the verb itself: ''ama ti-ra-haa'' "is it not you?"
+
+Unlike in English, a copula in Madí can be formed without a complement. Such sentences can be translated as either "it is" or "there is, exists"; for example, ''sire amake'' "it is cold" (lit. "cold is") but ''bosaro amake'' "there is a sore" (or indeed, "it is a sore").<ref>Dixon 2004, pp. 377-386.</ref> In general, the copula ''ama'' "to be" can be omitted without a suffix - e.g. ''towisawa-bona tike waha'' "you are going to be a chief now", lit. "chief you now" - but this is rare.
+
+Like many languages, Madí lacks a verb corresponding to "to have". Instead, the possessed noun is used within a copula: ''oko sirakaa amaka'' "I have some rubber" (lit. "my rubber is".)
+
+=== Nouns ===
+Nominal morphology is very simple. The only affix which can apply to a noun is the accusative suffix ''-ra'', which is essentially extinct in Jarawara (although still common in Jamamadí and Banawá); a remnant of this can be seen, however, in the non-singular object pronouns ''era, otara, tera, mera''.
+
+There is also a grammatically bound but phonologically independent marker ''taa'', which signifies contrast with a previous noun (not X "but Y"). This inflection follows the noun, but precedes the accusative ''-ra'' in Jamamadí and Banawá.
+
+==== Possession ====
+Madí contrasts [[alienable and inalienable possession]]: kinship terms ("my father") and parts of a whole ("my arm") are considered inalienably possessed, whereas other possessions are alienable. Most inalienable possession is marked simply by sequence, with the possessed following the possessor. An alienably possessed noun, on the other hand, must be preceded with ''kaa'': ''Okomobi kaa kanawaa'' "Okomobi's canoe".
+
+=== Pronouns ===
+Madí has a rich inventory of personal pronouns. All personal pronouns mark for [[Grammatical number|number]]; the first person plural also marks (as in many Amazonian languages) for [[clusivity]]. Unlike [[Indo-European languages]] such as English, Madí pronouns do not mark for [[Grammatical case|case]] (e.g. "I" vs. "me"), but instead for the pronouns' position in relation to the verb (which itself signals the grammatical [[Argument (linguistics)|argument]]). The table below lists the pronominal forms cited by Dixon:<ref>Dixon 2004, p. 77.</ref>
+{| class="wikitable"
+|+Personal Pronouns
+!
+!Position 1 ("object")
+!Positions 2 and 3 ("subject")
+!Cardinal pronoun
+!Alienable possessor
+!Inalienable possessor
+|-
+|First person singular ("I")
+|owa
+|o-<sup>1</sup>
+|owa
+|oko<sup>2</sup>
+|o-, oko<sup>2</sup>
+|-
+|Second person singular ("you")
+|tiwa
+|ti-<sup>1</sup>
+|tiwa
+|tika<sup>2</sup>
+|ti-, tika<sup>2</sup>
+|-
+|Third person singular, animate ("he, she")<sup>3</sup>
+|Ø
+|Ø
+|Ø
+|hinaka
+|fee ~ hee<sup>4</sup>
+|-
+|Third person singular, inanimate ("it")<sup>3</sup>
+|Ø
+|Ø
+|Ø
+| -
+| -
+|-
+|First person non-singular, inclusive ("you and I", etc.)
+|era
+|ee
+|ee
+|ee kaa
+|ee
+|-
+|First person non-singular, exclusive ("he and I", etc.)
+|otara
+|otaa
+|otaa
+|otaa kaa
+|otaa
+|-
+|Second person non-singular ("you all")
+|tera
+|tee
+|tee
+|tee kaa
+|tee
+|-
+|Third person non-singular animate ("they")
+|mee, mera
+|mee
+|mee, mati
+|mee kaa
+|mee
+|}
+
+# The first- and second-person singular pronouns in positions 2 and 3 are not independent grammatical or phonological words; rather, they surface as prefixes to the verb.
+# The forms ''oko'' and ''tika'' are historical contractions of ''o+kaa'' and ''ti+kaa'' respectively. Despite this, some inalienable nouns (i.e. those whose possessor is '''not''' marked with ''kaa'' otherwise), mostly referring to body parts, must take ''oko'' and ''tika'' as possessors.
+# Aside from animate possessors, the third-person singular pronouns do not surface in speech. Instead, a sentence is assumed to have a third-person singular subject or object by the ''absence'' of a pronoun in its respective position. However, actual omission a third-person position 2 pronoun when the other positions are unfilled (i.e. a sentence composed entirely of a verb) seems to be rare or nonexistent.
+# The initial consonant of these forms is in free variation.
+
+==Bibliography==
+* {{cite book |last=Campbell |first=Lyle |author-link=Lyle Campbell |year=1997 |title=American Indian languages: The historical linguistics of Native America |location=New York |publisher=Oxford University Press |isbn=0-19-509427-1}}
+*{{cite journal |last=Dixon |first=R. M. W. |author-link=R. M. W. Dixon |year=1995 |title=Fusional development of gender marking in Jarawara possessed nouns |journal=International Journal of American Linguistics |volume=61 |issue=3 |pages=263–294 |doi=10.1086/466256|s2cid=144765085 }}
+*{{cite journal |last=Dixon |first=R. M. W. |author-link=R. M. W. Dixon |year=2000 |title=A-constructions and O-constructions in Jarawara |journal=International Journal of American Linguistics |volume=66 |pages=22–56 |doi=10.1086/466405|s2cid=145422985 }}
+*{{cite book |last=Dixon |first=R. M. W. |author-link=R. M. W. Dixon |year=2003 |chapter=The eclectic morphology of Jarawara, and the status of word |editor=R. M. W. Dixon & Alexandra Y. Alkhenvald |title=Word: A Cross-Linguistic Typology |location=Cambridge |publisher=Cambridge University Press}}
+*{{cite book |last=Dixon |first=R. M. W. |author-link=R. M. W. Dixon |year=2004 |title=The Jarawara language of Southern Amazonia |location=Oxford |publisher=Oxford University Press |isbn=0-19-927067-8}}
+*{{cite journal |last=Dixon |first=R. M. W. |author-link=R. M. W. Dixon |author2=Vogel, A. R. |year=1996 |title=Reduplication in Jarawara |journal=Languages of the World |volume=10 |pages=24–31}}
+*{{cite journal |last=Everett |first=Caleb |year=2012 |title=A Closer Look at a Supposedly Anumeric Language |journal=International Journal of American Linguistics |volume=78 |issue=4 |pages=575–590 |doi=10.1086/667452|s2cid=143080342 }}
+*{{cite book |last=Kaufman |first=Terrence |year=1994 |chapter=The native languages of South America |editor=C. Mosley & R. E. Asher |title=Atlas of the world's languages |pages=46–76 |location=London |publisher=Routledge}}
+*{{cite journal |last=Vogel |first=Alan |year=2009 |title=Covert Tense in Jarawara |journal=Linguistic Discovery |volume=7  |doi=10.1349/PS1.1537-0852.A.333|doi-access=free }}
+
+==References==
+{{Reflist}}
+
+==External links==
+* Proel: [http://www.proel.org/index.php?pagina=mundo/amerindia/arawak/jarawara Lengua Jarawara]
+
+{{Languages of Brazil}}
+
+{{DEFAULTSORT:Jamamadi Language}}
+[[Category:Arawan languages]]
+[[Category:Object–subject–verb languages]]

@@ -1,0 +1,421 @@
+{{Infobox language
+|name=Koasati
+|nativename=''Kowassá:ti''
+|states=[[United States]]
+|region=[[Elton, Louisiana]] and [[Livingston, Texas]]
+|ethnicity=[[Koasati people]]
+|speakers=approx. 370<!--this looks like half the combined number of Alabama+Koasati, not Koasati alone-->
+|date=2015 census
+|ref=e21
+|familycolor=American
+|fam1=[[Muskogean languages|Muskogean]]
+|fam2=Eastern
+|fam3=Alabama–Koasati
+|iso3=cku
+|glotto=koas1236
+|glottorefname=Koasati
+|map=Koasati lang.jpg
+|notice=IPA
+}}
+
+'''Koasati''' (also '''Coushatta''') is a [[Native American languages|Native American language]] of [[Muskogean languages|Muskogean]] origin.  The language is spoken by the [[Coushatta]] people, most of whom live in [[Allen Parish]] north of the town of [[Elton, Louisiana]], though a smaller number share a [[Indian reservation|reservation]] near [[Livingston, Texas]], with the [[Alabama (people)|Alabama]] people. In 1991, [[Linguistics|linguist]] [[Geoffrey Kimball]] estimated the number of speakers of the language at around 400 people, of whom approximately 350 live in Louisiana.<ref>Geoffrey Kimball. 1991. Koasati Grammar. Reprinted in 1994 in: Koasati Grammar. Nebraska: University of Nebraska Press.</ref>  The exact number of current speakers is unclear, but Coushatta Tribe officials claim that most tribe members over 20 speak Koasati.<ref name="auto">April 9, 2009. Comments Pertaining to the American Recovery and Reinvestment Act of 2009 Broadband Initiatives. www.ntia.doc.gov/broadbandgrants/comments/7B49.pdf</ref> In 2007, the [[Coushatta Tribe of Louisiana]], in collaboration with [[McNeese State University]] and the [[College of William and Mary]], began the Koasati (Coushatta) Language Project as a part of broader language revitalization efforts with [[National Science Foundation]] grant money under the [[Documenting Endangered Languages]] program.<ref name="auto"/><ref>Koasati (Coushatta) Language Project. {{cite web |url=http://web.wm.edu/linguistics/coushatta/?svr=www |title=Archived copy |access-date=2010-05-05 |url-status=dead |archive-url=https://web.archive.org/web/20100708005820/http://web.wm.edu/linguistics/coushatta/?svr=www |archive-date=2010-07-08 }}</ref>
+
+Koasati is most closely related to the [[Alabama language]] but, though the Coushatta and Alabama have historically lived near each other, their  languages are no longer mutually intelligible without extensive exposure. The language is also related to the [[Mikasuki language]]; some native speakers of Coushatta report they can understand Mikasuki without previous exposure to the language.
+
+==Phonology==
+
+===Vowels===
+Koasati has three vowels, all of which occur as short and long and can be nasalized. The following chart is based on Kimball's work. Kimball describes what is normally the close-mid back vowel /o/ as "high back" vowel, hence its placement in the chart below.<ref>Geoffrey Kimball. 1991. Koasati Grammar. Reprinted in 1994 in: Koasati Grammar. Nebraska: University of Nebraska Press. p. 23.</ref> He notes that /o/ sometimes has the allophone [u] and is raised to [ʊ] in closed word-final syllables.
+
+{| class="wikitable"
+|-
+! rowspan=2 |
+! colspan=3 | &nbsp;[[Vowel length|Short]]&nbsp;
+! colspan=3 | &nbsp;[[Vowel length|Long]]&nbsp;
+|-
+! &nbsp;[[Front vowel|Front]]&nbsp;
+! &nbsp;[[Central vowel|Central]]&nbsp;
+! &nbsp;[[Back vowel|Back]]&nbsp;
+! &nbsp;[[Front vowel|Front]]&nbsp;
+! &nbsp;[[Central vowel|Central]]&nbsp;
+! &nbsp;[[Back vowel|Back]]&nbsp;
+|-
+! align=center | &nbsp;'''[[High vowel|High]] (close)'''&nbsp;
+| align=center | '''i'''
+| align=center | 
+| align=center | '''o'''
+| align=center | '''iː'''
+| align=center | 
+| align=center | '''oː'''
+|-
+! align=center | &nbsp;'''[[Low vowel|Low]] (open)'''&nbsp;
+| align=center | 
+| align=center | '''a'''
+| align=center | 
+| align=center | 
+| align=center | '''aː'''
+| align=center | 
+|}
+
+In 2007, the Coushatta Tribe of Louisiana developed and approved its own [[Orthography|orthographic]] system.<ref>The Coushatta Alphabet. {{cite web |url=http://web.wm.edu/linguistics/coushatta/alphabet.php |title=Archived copy |access-date=2010-05-05 |url-status=dead |archive-url=https://web.archive.org/web/20100719110321/http://web.wm.edu/linguistics/coushatta/alphabet.php |archive-date=2010-07-19 }}</ref> In this system, long vowels are written by doubling the vowel (e.g., [aː] as ''aa''), and nasalized vowels are underlined (e.g., [õ] or [ǫ] as ''<u>o</u>'').
+
+Vowel length in Koasati can be contrastive. For example, vowel length distinguishes meaning for ''palana'' "bean" and ''palaana'' "plate", as well as ''choba'' "big" and ''chooba'' "horse". Vowel nasalization most often occurs word-finally as a phrase-terminal marker. In Koasati, the end of a phrase is basically marked by either deletion of the final unaccented vowel or the nasalization of the final vowel when deleting it would eliminate phonological information relevant to the phrase's meaning. For example, the final vowel in ''hopoonilah<u>o</u>'' "he/she will cook it" is nasalized instead of deleted, and therefore is distinguished from the more emphatic ''hopoonilah<u>a</u>'', where the [[irrealis mood|irrealis]] future suffix -''laha''- indicates that the action will certainly occur, whereas the irrealis future suffix -''laho''- does not provide such certainty.
+
+===Consonants===
+Koasati has the consonants given in the table below, based on Geoffrey Kimball's work.<ref>Geoffrey Kimball.  1991.  ''Koasati Grammar''.  Reprinted in 1994 in:  ''Koasati Grammar''.  Nebraska:  University of Nebraska Press.</ref> [[International Phonetic Alphabet|IPA]] transcriptions occur in brackets when different from the orthography provided by Kimball.
+{| class="wikitable"
+|-
+! colspan=2 |
+! align="center"|[[Bilabial consonant|Labial]]
+! align="center"|[[Dental consonant|Dental]]
+! align="center"|[[Postalveolar consonant|Palato-alveolar]]
+! align="center"|[[Velar consonant|Velar]]
+! align="center"|[[Glottal consonant|Glottal]]
+|-
+! rowspan=2 | [[Stop consonant|Stop]]
+! <small>[[Voiceless consonant|plain]]</small>
+| align=center | '''p''' {{IPA|[pʰ]}}
+| align=center | '''t''' {{IPA|[tʰ]}}
+| align=center | '''c''' {{IPA|[t͡ʃʰ]}}
+| align=center | '''k''' {{IPA|[kʰ]}}
+| align=center | '''ʼ''' {{IPA|[ʔ]}}
+|-
+! <small>[[Voiced consonant|voiced]]</small>
+| align=center | '''b'''
+|
+|
+|
+|
+|-
+! rowspan=2 |[[Fricative]]
+! <small>[[Voiceless consonant|plain]]</small>
+| align=center|'''f''' {{IPA|[ɸ]}}
+| align=center|'''th''' {{IPA|[ɬ]}}
+| align=center|'''s'''
+|
+| align=center|'''h''' {{IPA|[h]}}
+|-
+! <small>[[Voiced consonant|voiced]]</small>
+|
+|
+|
+|
+| align=center|'''h''' {{IPA|[ɦ]}}
+|-
+! align=center|[[Nasal stop|Nasal]]
+! 
+| align=center|'''m'''
+| align=center|'''n'''
+|
+|
+|
+|-
+! align=center|[[Lateral consonant|Lateral]]
+!
+| 
+| align=center|'''l'''
+|
+|
+|
+|-
+! align=center|[[Glide consonant|Glide]]
+!
+| align=center|'''w'''
+|
+| align=center|'''y''' {{IPA|[j]}}
+| 
+| 
+|}
+
+Not included in this chart is a glottal glide (marked '':'') that Kimball uses in his own consonant chart, presumably to represent the lengthened vowel sounds of Koasati. In the Tribe's official orthography, the {{IPAblink|ɬ}} is represented by {{angle bracket|th}} and the {{IPAblink|t͡ʃ}} is represented by {{angle bracket|ch}}, with no distinction for aspiration. Additionally, Kimball notes that {{IPA|/p/, /t/,}} and {{IPA|/k/}} are aspirated in initial and medial positions. However, the website for the Koasati Language Project explicitly states that these consonants are never aspirated.<ref>More on the alphabet. {{cite web |url=http://web.wm.edu/linguistics/coushatta/alphabet2.php |title=Archived copy |access-date=2010-05-05 |url-status=dead |archive-url=https://web.archive.org/web/20100719105458/http://web.wm.edu/linguistics/coushatta/alphabet2.php |archive-date=2010-07-19 }}</ref> The {{IPAblink|ɦ}} occurs most often before {{IPA|[t͡ʃ]}}, as in {{IPA|[haɦt͡ʃí]}} "river", spelled {{angle bracket|hahchi}} in the official orthography, thereby distinguished from {{angle bracket|hachi}} "tail".
+
+===Syllable structure===
+Koasati has both light (CV, VC, V) and heavy (CVC) [[Syllable weight|syllables]]. Consonant clusters occur across syllables but not within. All monomorphemic Koasati words end in light syllables, while the penultimate syllable can be light but is usually heavy, and it is usually preceded by one or more light syllables, as with the construction CV.CVC.CV as in the word ''holihtá'' "fence". Other shapes, in which one or more heavy syllables precede a heavy penultimate syllable (e.g. CV.CVC.CVC.CV as in ''hacokpalpá'' "butterfly"), or alternate heavy and light syllables (e.g. CVC.CV.CVC.CV. as in ''pa:piyá:ka'' "bridge"), are usually the result of the compounding of two words or a once-productive rule of [[Syncope (phonetics)|syncope]] in which the vowel of every second syllable except the final syllable was deleted. Vowel clusters occur in Koasati, unlike in other Muskogean languages where such clusters are made impossible by [[Metathesis (linguistics)|metathesis]] and vowel deletion. These clusters occur in Koasati due to the use of locative prefixes that end in a vowel and class 1A negative transitive verbs since these do not undergo the processes of metathesis and vowel deletion. Clusters beginning with /a:/ and /i:/ are most frequent, and all clusters are generally spoken with a glottal stop between vowels.
+
+===Tone===
+Koasati has low [ ` ], high [ ´ ], and high rising–falling [ ˇ ] [[pitch accent]]s, as well as a fourth unmarked mid-level tone. All noun roots must have one high-pitch accented syllable. The location of the accent depends on the properties of the penultimate syllable. With a few exceptions, the accent falls on the final syllable unless the penultimate syllable contains a long vowel. These pitch accents can be contrastive, as with ''sakihpǫ́'' 'It is a mink.' and ''sakíhpǫ'' 'It is not air-dried.'. Pitch placement on verbs is motivated by morphology. Most indicative verbs take the high accent, though a few take the low accent. Intensive verbs take the high rising–falling accent.
+
+===Phonological processes===
+*/c/ in Kimball's orthography, or /ch/ in the official Tribe orthography, is sometimes realized as [ts] before resonants: cf. ''awó yáhci'' "it is just like grandpa" is realized as [awó yahtsi].
+*In rare cases, /k/ is labialized to [kʷ] before /o/: cf. ''akkó'' "that" → [akkʷó]
+*/s/ has the palatal allophone [š] word-initially before /o/ and intervocalically: cf. ''sopátlit'' "she cleaned it" → [šopátlit]
+*When /s/ occurs both before and after a vowel, the allophone of the first /s/ harmonizes with that of the second. For example, ''sóslit'' ('he skinned them') is not pronounced [šoslit] but [sóslit].
+*Rarely, /s/ can have the allophone [r] when it occurs word-finally: cf. ''o:támmo:s'' "it is just sunset" → [o:támmo:r]
+*In the word-final position, /h/ becomes a voiceless continuation of the vowel it follows. This can also occur following vowels in other positions. For example, ''iltóhnot'' "she worked" becomes [iltóónot].
+*/h/ can be voiced to [ɦ], usually before c, as discussed above with [haɦchi].
+*/l/ is sometimes realized as /n/, as with ''intolihná'' "work" → [iltolihná]. Rarely, it is realized as [r] intervocalically.
+*The vowel /i/ shifts to [ɪ] in all closed syllables, and /o/ shifts to [ʊ] when it occurs in closed word-final syllables: cf. ''hókfit'' "she put it on" → [hókfɪt]; ''íkbot'' "he did not kill it" → [íkbʊt]
+*The vowels /i/ and /o/ also rarely have the allophones [ɛ] and [u] respectively, though the underlying reason is unclear: cf. ''yilahá'' "orange (fruit)" → [yɛlahá]; ''solitá:wa'' "soldier" → [sulitá:wa]
+
+==Morphology==
+Koasati is a [[polysynthetic language]] with fairly extensive verbal prefixing and suffixing.
+
+===Nouns===
+Two sets of prefixes mark noun possession in Koasati. The ''am''-set generally identifies [[alienable possession]] and a relatively small set of kinship terms and body parts, while the ''ca''-set identifies inalienable possession and most kinship terms and body parts. These prefixes mark person and number on possessing nouns as follows:
+
+{| class="wikitable"
+|-
+! 
+!align=center|'''am-set'''
+!align=center|'''ca-set''' 
+!align=center|'''Gloss'''
+|-
+! align=center|1st person (sing.)
+| align=center|''am-''
+| align=center|''ca-''
+| align=center|"my"
+|-
+! align=center|2nd person (sing.)
+| align=center|''cim-''
+| align=center|''ci-''
+| align=center|"your"
+|-
+! align=center|3rd person
+| align=center|''im-''
+| 
+| align=center|"his/her/its/their"
+|-
+! align=center|1st person (plur.)
+| align=center|''kom-''
+| align=center|''ko-''
+| align=center|"our"
+|-
+! align=center|2nd person (plur.)
+| align=center|''hacim-''
+| align=center|''haci-''
+| align=center|"your"
+|}
+
+===Verbs===
+
+====Position classes====
+Kimball identifies the following position classes for prefixes and suffixes that can be added to Koasati verb roots:
+*Prefixes
+**'''Position 1''': positive and negative subject prefixes
+**'''Position 2''': locative prefix ''a-'', or the prefix ''ak-'' which indicates action on the surface of a person (skin) or thing
+**'''Position 3''': locative prefixes
+**'''Position 4''': pronominal prefixes (''ca-'')
+**'''Position 5''': pronominal prefixes (''am-'')
+**'''Position 6''': distributive prefix ''ho-/oh-'', iterative prefix ''hoho-/ohoh-''
+**'''Position 7''': instrumental prefixes
+**'''Position 8''': directional prefixes
+**'''Position 9''': indefinite nouns ''naːsi-/naːs-/nas-'' ('something') and ''aːti-/aːt-/at-/a-'' ('someone')
+*Root
+*Suffixes
+**'''Position 1''': adverb
+**'''Position 2''': diminutive/intensive
+**'''Position 3''': habitual
+**'''Position 4''': intention
+**'''Position 5''': ability
+**'''Position 6''': realis/irrealis
+**'''Position 7''': deduction
+**'''Position 8''': modality
+**'''Position 9''': dubiative
+**'''Position 10''': hearsay
+**'''Position 11''': auditory
+**'''Position 12''': tense
+**'''Position 13''': consequence
+**'''Position 14''': discourse functions
+**'''Position 15''': enclitics
+
+=====Prefixes=====
+Unlike its frequently used cognates in other Muskogean languages, the general locative prefix ''a''- (Position 2) is falling out of use. Positions 4 and 5 relate to the ''am''- and ''ca''- sets discussed above with nouns. They contain the direct and indirect object prefixes respectively and are used to cross-reference the direct and indirect objects of verbs, as well as mark possession on nominalized verbs. For example, the Position 5 prefix ''ac''- is used to mark possession on the root of the nominalized verb meaning "to photograph" in the following way:
+
+{{interlinear|indent=3
+|top= /stacahó:ba/
+|st- ac- ahó:ba
+|INSTR- 1SG.POSS- photograph
+|"my photograph" ("a photograph of me")}}
+
+A sampling of verbal prefixes, in this case, specific locative prefixes of Position 3, follows:
+*''itta''- "action on the ground; action in fire"
+*''o:''-/''o:w''- "action in water"
+*''pa:''- "action on a raised, artificial, or non-ground surface"
+*''on''- "action on a vertical surface or in a vertical plane"
+*''itta''- "action in the middle of something"
+*''ibi:''- "action on the human face"
+*''ico:''- "action on or in the human mouth"
+*''no:''- "action on the human neck"
+*''nok''- "action in the human throat"
+
+=====Suffixes=====
+Kimball recorded over seventy suffixes to fill the fifteen suffix positions. All but eleven of these suffixes can technically co-occur with all other suffixes that do not occupy the same position class. Kimball provides the following example as a possibility:
+
+{{interlinear|indent=3
+|top= /ostohimilá:cihalpí:salaho:limá:mimpayon incayínkǫ/
+|o-st-oh-im-ilá-:ci-halpí:sa-laho-:li-má:mi-mpa-y-on im-ca-yím-ko-˛
+|go:&-INSTR-DISTR-3.DAT-arrive-PL-{{gcl|ABIL|ability}}-IRR-DEDUC-HSY-CNSQ-SW:FOC 3.STAT.OBJ-1SG.STAT-believe-3.NEG(1A)-PHR:TERM
+|"They say that they all might be able to go and bring it to him, but on the contrary, I do not believe them."}}
+
+In the first word, all units that follow the root -''ilá''- "arrive" are suffixes filling the various position classes.
+
+A sample of suffixes, in this case, Position 5 suffixes of ability, follows:
+*-''bá:no''- "regularly, occasionally"
+*-''bí:no''- "reluctantly, shyly"
+*-''halpi:sa''- "to be able to"
+*-''yáhli''- "be obliged to, really"
+
+Kimball notes that of these, only -''halpi:sa''- "to be able to" is used frequently.
+
+====Verbal number====
+Muskogean languages such as Koasati have a three-way distinction number distinction in their verbs, with singular, [[dual number|dual]], and plural forms.  Some of these forms are [[suppletive]]. For example,
+
+'To dwell', in the first person, with full suppletion (singular ''aat,'' dual ''asw,'' plural ''is''):  
+:{|
+|''áata-l''|| ||''a{{Circumfix|lí}}sw''|| ||''ís-tílka''
+|-
+|dwell({{sm|sg}})-1{{sm|sg}}||&nbsp;||dwell({{sm|du}}){{Circumfix|1{{sm|du}}}}({{sm|root}})||&nbsp;||dwell({{sm|pl}})-1{{sm|pl}}
+|-
+|'I dwell'|| ||'we two dwell'|| ||'we all dwell'
+|}
+(The angle braces, {{Circumfix|&nbsp;}}, separate the two parts of the root.)
+
+'To smell' is non-suppletive ''hofn'':
+:{|
+|''hófna-l''|| ||''ho{{Circumfix|lí}}fn''
+|-
+|smell-1{{sm|sg}}||&nbsp;||smell{{Circumfix|1{{sm|du}}}}({{sm|root}})
+|-
+|'I smell'|| ||'we smell'
+|}
+'To go about', partially suppletive ({{sm|sg/du}} ''aay,'' {{sm|pl}} ''yomahl''):
+:{|
+|''aaya-l''|| ||''a{{Circumfix|lí}}iy''|| ||''yomah-híl''
+|-
+|go.about({{sm|sg/du}})-1{{sm|sg}}||&nbsp;||go.about({{sm|sg/du}}){{Circumfix|1{{sm|du}}}}({{sm|root}})||&nbsp;||go.about({{sm|pl}})-1{{sm|pl}}
+|-
+|'I go about'|| ||'we two go about'|| ||'we-all go about'
+|}
+'To run', partially suppletive ({{sm|sg}} ''waliik,'' {{sm|du/pl}} ''tołk''): 
+:{|
+|''walíika-l''|| ||''tół-hílk''
+|-
+|run({{sm|sg}})-1{{sm|sg}}||&nbsp;||run({{sm|du/pl}})-1{{sm|pl}}
+|-
+|'I run'|| ||'we run'
+|}
+
+====Verb grades====
+Like other Muskogean languages, Koasati has verb grades, or an [[ablaut]] system in which morphological and phonemic changes (in this case infixation and nasalization) can be used to alter the meaning of verb.
+
+=====H-grade=====
+In Koasati, the h-grade is used to create a polite imperative as well as to indicate a sequence of actions. To form the imperative, ''h'' is inserted before the final syllable of the verb root. For example, the verb ''óntin'' "to come" (singular, dual subject) changes to the imperative ''ónhtįh'' "Come on over!" with the h-grade (in addition to the delayed imperative suffix marked by the vowel nasalization and final ''h''). The use of h-grade to indicate sequence (in addition to the [[Koasati language#Switch-reference|switch-reference]] marker ''-ok'') can be seen below:
+
+{{interlinear|indent=3
+|top= /kowík icó íhbok onaí:patohǫ/
+|kowí-k icó í, h, b-ok on-a-í:pa-toho-˛
+|panther-SUBJ deer kill, '''h:grade''', SS:FOC LOC-GEN:LOC-eat-REAL-PHR:TERM
+|"The panther, having killed the deer, ate off of it."}}
+
+With the sequence h-grade, the last verb in the sequence takes on temporal and aspectual affixes, while the preceding verbs take on the h-grade and the appropriate switch-reference marker.
+
+=====N-grade=====
+In Koasati, the n-grade is relatively uncommon but is used to add emphasis, roughly meaning "completely" or "to continue" depending on whether the verb used is a verb of state or description or a verb of action. To form the n-grade, the vowel of the verb root's penultimate syllable is nasalized and accented. For example:
+
+{{interlinear|indent=3
+|top= /olfák walǫ´hloscok/
+|olfá-k waló, N, hl-o:siV´hco-k
+|sprout green:&:tender, '''n:grade''', DIM-HAB-SS
+|"The sprout is completely green and tender."}}
+
+====Reduplication====
+Koasati has both punctual and iterative [[reduplication]] for verbs, in which part of the root is repeated to indicate that an action is repeated. With punctual reduplication, the verb's initial consonant and vowel (or consonant and ''o'' if no vowel is present) are copied and inserted before the final syllable of the root.  For example, ''míslin'' "to blink" becomes ''mismíhlin'' "to flutter the eyelids". With iterative reduplication, the consonant and vowel of the penultimate syllable of the root are copied and inserted before the final syllable of the root. For example, ''molápkan'' "to gleam" becomes ''molalápkan'' "to flash". The iterative can also be formed using the Position 6 iterative prefixes ''ohoh''- and ''hoho''-.
+
+====The glottal stop====
+The glottal stop [ʔ] is used to form the interrogative by infixing [ʔ] before a verb's penultimate syllable. Doing so replaces preceding vowel length (if present) and adds a high pitch accent to the syllables preceding and following the glottal stop. For example, /ishí:c/ "you see it" changes to the question /ishíʔcá/ "Do you see it?".
+
+==Syntax==
+
+===Word order===
+Koasati sentences generally follow  a subject, object, verb (SOV) pattern. If an indirect object is present, the order is typically subject, indirect object, verb (SIoV). For sentences with both a direct and indirect object, the order is typically subject, object, verb, indirect object (SOVIo), though SIoOV also occurs. Any locatives tend to follow the verb. Because Koasati uses the nominative case, these orders are not rigid - elements can be moved within the sentence for emphasis. Examples of some basic orders follow:
+
+*SOV
+{{interlinear|indent=3
+|top= /stilapílik pokkó imapí:litǫ/
+|stilapíli -k pokkó im- apí:li -to -˛
+|leader -SUBJ ball 3.DAT- throw(SG) -III.PAST -PHR:TERM
+|"The leader threw the ball to them underhand."}}
+
+*SOVIo
+{{interlinear|indent=3
+|top= /á:tok ifón ínkat wílfridka ocó:si/
+|á:t -ok if -ón ínka -t wílfrid -ka ocó:si
+|person -SUBJ:FOC dog -OBJ:FOC give:to:him -PAST Wilfred -LOAN son
+|"Someone gave a dog to Wilfred's son."}}
+
+===Case marking===
+Koasati is an [[active–stative language]]. It has seven cases that can be used across five classes of nouns:
+{| class="wikitable"
+|-
+! align=center|Case
+! align=center|Noun classes
+! align=center|Marking on noun
+|-
+| nominative
+| I, II, III, IV, V
+| ''-k''
+|-
+| accusative
+| I, II, III, IV, V
+| ''-n''
+|-
+| autonomous
+| I, II, III, IV, V
+| none
+|-
+| locative
+| I, II, III, V
+| ''-fa''
+|-
+| allative
+| II, III
+| ''-fon''
+|-
+| inessive
+| III, IV
+| ''-hayo''
+|-
+| vocative
+| V
+| final vowel deletion
+|}
+
+The five noun classes contain the following types of nouns, followed by examples:
+*'''Class I''': nouns for animate objects (''ifá'', "dog")
+*'''Class II''': nouns to or in which action can occur (''óːla'', "town")
+*'''Class III''': nouns within or among which action can occur (''íːsa'', "house")
+*'''Class IV''': nouns describing an area where action can occur (''caffá'', "field")
+*'''Class V''': personal names, kinship terms (''awó'', "grandfather")
+
+===Switch-reference===
+Koasati has [[switch-reference]] marking, in which suffixes indicate whether the subjects of two verbs are co-referent. The suffix ''–k'' indicates that the subject of the verb that follows is the same as that of the previous verb, while ''–n'' indicates that the subject is different than that of the previous verb. The suffixes ''–ok'' and ''–on'' can also be used in the same way for extra emphasis or "focus". The switch-reference marker ''–p'' indicates the introduction of a new topic. An example of each suffix follows:
+*''nó:ra-k ɫabósli-h bánna-k hí:ca-t á:ta-toho-:li-k akkámmi-tik labósl-á:ha-k sam, kí,:c-o-t'' — "Nora tried to extinguish it, and she kept on watching it, but this being so, she was unable to extinguish it."
+*''athómma-k yomáhli-n calakkí ho-ká:ha-hco-k'' — "They called the wandering Indians Cherokees."
+*''skólka im-alo, kí, st-o-n mí:ta-k im-alósti-tika-p'' — "They were not interested in school; however, others were interested in it."
+
+== Notes ==
+{{reflist}}
+
+==References==
+*{{cite book | author=Kimball, Geoffrey D. | title=Koasati Grammar | publisher=University of Nebraska Press | year=1991 | isbn=978-0-8032-2725-5}}
+*{{cite book | author=Kimball, Geoffrey D. | title=Koasati Dictionary | publisher=University of Nebraska Press | year=1994 | isbn=978-0-8032-2726-2 | url-access=registration | url=https://archive.org/details/koasatidictionar00kimb }}
+
+== External links ==
+{{incubator|code = cku}}
+
+* [https://web.archive.org/web/20050324014815/http://coushattatribela.org/ Sovereign Nation of The Coushatta Tribe of Louisiana]
+* [http://koasatiheritage.org/ Koasati (Coushatta) Language Project]
+* [http://www.languagesandnumbers.com/how-to-count-in-koasati/en/cku/ How to count in Koasati]
+
+{{Languages of Oklahoma}}
+
+{{DEFAULTSORT:Koasati Language}}
+[[Category:Agglutinative languages]]
+[[Category:Koasati]]
+[[Category:Muskogean languages]]
+[[Category:Subject–object–verb languages]]
+[[Category:Indigenous languages of the North American Southeast]]
+[[Category:Indigenous languages of Oklahoma]]
+[[Category:Indigenous languages of Texas]]
+[[Category:Endangered languages of the United States]]
+[[Category:Endangered indigenous languages of the Americas]]

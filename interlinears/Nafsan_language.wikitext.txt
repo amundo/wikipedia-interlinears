@@ -1,0 +1,736 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Nafsan
+|altname=South Efate
+|nativename=Fate, Erakor
+|states=Northeast [[Vanuatu]]
+|region=[[Efate]] Island
+|speakers=6,000
+|date=2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=Vanuatu
+|fam6=[[Central Vanuatu languages|Central Vanuatu]] ?
+|iso3=erk
+|glotto=sout2856
+|glottorefname=South Efate
+}}
+
+The '''Nafsan''' language, also known as '''South Efate''' or '''Erakor'''<!--native IPA needed-->, is a [[Southern Oceanic languages|Southern Oceanic language]] spoken on the island of [[Efate]] in central [[Vanuatu]]. {{As of|2005}}, there are approximately 6,000 speakers who live in coastal villages from Pango to Eton. The language's grammar has been studied by [[Nicholas Thieberger|Nick Thieberger]], who is working on a book of stories and a dictionary of the language.<ref>[http://paradisec.org.au/SELexicon/index-english/main.htm South Efate — English dictionary]</ref>
+
+Nafsan is closely related to [[North Efate language|Nguna]] and to [[Lelepa language|Lelepa]]. Based on shared features with southern Vanuatu languages (including echo–subject marking, and the free and preposed 1st-singular-possessive morphemes), Lynch (2001) suggests it could form part of a southern Vanuatu subgroup that includes New Caledonia.
+
+== Phonology ==
+Nafsan has a total of 20 phonemes consisting of 15 consonant and 5 vowel sounds.<ref group="T2006" name="NT45">Thieberger (2006: 45).</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Consonants<ref group="T2006" name="NT46">Thieberger (2006: 46).</ref>
+|-
+!
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Dorsal consonant|Dorsal]]
+! [[Labialized velar consonant|Labiovelar]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPA link|m}} {{angbr|m}}
+| {{IPA link|n}} {{angbr|n}}
+| {{IPA link|ŋ}} {{angbr|g}}
+| {{IPA link|ŋ͡m}} {{angbr|m̃}}
+|-
+! [[Stop consonant|Stop]]
+| {{IPA link|p}} {{angbr|p}}
+| {{IPA link|t}} {{angbr|t}}
+| {{IPA link|k}} {{angbr|k}}
+| {{IPA link|k͡p}} {{angbr|p̃}}
+|-
+! [[Fricative]]
+| {{IPA link|f}} {{angbr|f}}
+| {{IPA link|s}} {{angbr|s}}
+|
+|
+|-
+! [[Approximant]]
+|
+| {{IPA link|l}} {{angbr|l}}
+| {{IPA link|j}} {{angbr|y}}
+| {{IPA link|w}} {{angbr|w}}
+|-
+! rowspan=2 | [[Trill consonant|Trill]]
+|
+| {{IPA link|r}} {{angbr|r}}
+|
+|
+|-
+|
+| {{IPA link|nᵈr}} {{angbr|nr}}
+|
+|
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Vowels<ref group="T2006" name="NT46" />
+|-
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}} {{angbr|i}}
+| {{IPA link|u}} {{angbr|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}} {{angbr|e}}
+| {{IPA link|o}} {{angbr|o}}
+|-
+! [[Low vowel|Low]]
+| colspan="2" | {{IPA link|a}} {{angbr|a}}
+|}
+
+As seen in the above chart, Nafsan's vowel phoneme inventory is that of a five-vowel system; this is one of the most commonly seen vowel inventories in any given language in the world and also especially evident in many [[Oceanic languages]].  There is a distinction between short and long vowels but it is currently in a process of change that makes its status unclear.<ref group="T2006" name="NT54">Thieberger (2006: 54).</ref>
+
+=== Degemination ===
+In Nafsan, it is typical that two contiguous identical consonants occurring in a utterance undergo a process of [[degemination]] to be realised as a single consonant. In (1), the two contiguous identical consonants /n/ result in the phonetic attachment of [[demonstrative]] ''ne'' 'this' to the preceding word ''nawen ne'' [nawene] 'this sand'.<ref group="T2006" name="NT74" />
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+AD:Addressee deictic
+DET:Determiner
+DST:Distant
+DUR:Durative
+IR:Irrealis
+IRR:Irrealis subject
+NEG:Negative marker
+PREP:Preposition
+PS:Perfect subject
+PSP:Prospective
+REL:Relativiser
+RS:Realis subject
+TR:Transitive marker
+TS:Transitive suffix
+DP:Direct possession
+</div><section end="list-of-glossing-abbreviations"/>
+{{interlinear|number=(1)
+|top= ['na.we.ne].
+|I{{=}}tao nawen ne
+|3SG.RS{{=}}left sand this  
+|She left this sand bank.}}
+
+=== Vowel centralisation ===
+High vowels in prepositions acting as a prefix often undergo a process of vowel centralisation to reduce the [[unstressed syllable]]. In (2), the high vowel /i/ in the preposition ''ki'' is reduced to [ə] when preceding the demonstrative ''nen'' 'that'.<ref group="T2006" name="NT78" />
+
+{{interlinear|number=(2)
+|ki- nen &gt; kenen, kne
+|PREP- AD &gt; PREP.AD {}
+|to, of that}}
+
+== Numerals ==
+The system of [[Numeral (linguistics)|numerals]] in Nafsan is base-5 ([[quinary]]). Numbers two through five are distinct numerals that are then seen repeated in slight variation for the numbers seven to ten.  The pattern of the numerals can be seen in the table below.<ref group="T2006" name="NT77">Thieberger (2006: 77).</ref>
+
+{| class="wikitable"
+|-
+! Cardinal !! English
+|-
+| ''i-skei'' || one
+|-
+| ''i-nru''; ''nran''; ''nru'' || two
+|-
+| ''i-tol'' || three
+|-
+| ''i-pat'' || four
+|-
+| ''i-lim'' || five
+|-
+| ''i-lates'' || six
+|-
+| ''i-laru'' || seven
+|-
+| ''i-latol'' || eight
+|-
+| ''i-lfot'' || nine
+|-
+| ''ralim iskei'' || ten
+|}
+
+''Ralim iskei'' can be used as an example to see the method for displaying numbers ten and above in South Efate; the numeral for ten ''ralim'' is followed by its multiplier, which in this case is ''iskei'' for one. The term for and ''atmat'' is added after the multiplier with an additional numeral to form a number such as thirty seven: <ref group="T2006" name="NT77" />
+
+{{interlinear|number=(3)
+|ralim itol atmat ilaru
+|ten three and seven
+|thirty-seven
+}}
+
+== Morphosyntax ==
+
+=== Adnominal possession ===
+There are two ways of marking [[adnominal]] possession in Nafsan: through the use of a possessive pronoun (indirect possession), or directly on the noun (direct possession). Indirect possession is used for general possession, while direct possession is used for nouns that are closely associated items (e.g., body parts or products, kinship terms, etc.). <ref group="T2006" name="NT127">Thieberger (2006: 127).</ref>
+
+==== Indirect/general possession ====
+Indirect possession is [[morphosyntactically]] represented through the use of the possessive markers ''ni'' (of) or ''knen'' (of it), or of the presence of a possessive pronoun such as ''nakte'' (my/mine).<ref group="T2006" name="NT127"/>
+
+When possession is marked by a possessive pronoun, the pronouns follow the possessed NP:
+
+{{interlinear|number=(4)
+|Nasum̃tap   p̃ur   '''nigmam'''      nen   i{{=}}tarp̃ek.
+|church     big   '''1PL.EX.POS'''    REL   3SG.RS{{=}}fall.down
+|It was our church that fell down.<ref group="T2006" name="NT128">Thieberger (2006: 128).</ref>}}
+
+''ni'' possession: the preposition ''ni'' only occurs when the possessum is a noun. The NP follows the form of ‘possessed ni possessor’.
+
+{{interlinear|number=(5)
+|I{{=}}pi      '''nawesien'''  '''ni'''   '''Atua'''.
+|3SG.RS{{=}}be  '''work'''      '''of'''   '''God'''
+|It is God’s work.<ref group="T2006" name="NT128"/>}}
+
+''knen'' possession: This form is used as an inanimate referent, and often indicates a  previously mentioned participant in the discourse. It is positioned following the referent noun.
+
+{{interlinear|number=(6)
+|Natrauswen   karu   i{{=}}pitlak     nalag   '''knen'''.
+|story        next   3SG.RS{{=}}have   song    '''of.it'''
+|The next story, it has its song.<ref group="T2006" name="NT129">Thieberger (2006: 129).</ref>}}
+
+==== Direct possession ====
+Direct possession is used for inalienably possessed nouns. This is similar to other languages of Vanuatu that denote inalienable nouns as those that refer to relationships of part-whole association such as kinship terms, body parts or products, and associated parts (such as leaf/stem).<ref>Payne, 1997</ref> These nouns take directly suffixed possession markers, however they can also occur without possessive marking when the possessor is encoded by a noun. The directly possessed (DP) suffix only attaches to the class of directly possessed nouns. For sg and 3p forms, an unpredictable vowel (V) may be inserted to aid DP suffixation.<ref group="T2006" name="NT124"/>
+
+{{interlinear|number=(7)
+|Go   ra{{=}}paos-ki-n        ki,     "Gag     tm-'''a-m'''          go     rait-'''o-m'''         wa?"
+|and  3d.RS{{=}}ask-TR-3sg.O   PREP    2sg.POS   father-'''V-2sg.DP'''  and    mother-'''V-3sg.DP'''   where
+|And they asked, "Where are your father and mother?"<ref group="T2006" name="NT130">Thieberger (2006: 130).</ref>}}
+
+If the directly possessed noun has no possessive suffix, the referent is presumed unknown or disembodied. Lack of possession also occurs when possession is encoded by the possessed noun preceding the possessor. As in the following example, the directly possessed noun ''rait'' (mother) is preceded by the noun ''tesa'' (child).
+
+{{interlinear|number=(7)
+|Go    '''rait'''    '''tesa'''    ke{{=}}fo           tae    toleg      preg     tete   namrun   ses.
+|and   mother  child   3sg.IRR{{=}}PSP:IR   able   stand.up   make     some   thing    small
+|And the child’s mother can stand up and do some small things.<ref group="T2006" name="NT131">Thieberger (2006: 131).</ref>}}
+
+=== Negation ===
+Negation in Nafsan occurs in two ways. The first is the use of the intransitive verb ''tik'' (no, nothing), which can be used singularly or paired with the generic proclitic ''i='' (3sgRS). The second, more widely used method, is through the use of discontinuous negative particles ''ta ... mau''. Nafsan also does not differentiate between the negation of predicates and the negation of whole propositions. <ref group="T2006" name="NT78">Thieberger (2006: 78)</ref>
+
+==== Tik ====
+''Tik'' is a verb translated as 'no' or 'nothing' and is used in similar contexts to its English translations.<ref name="NT74" group="T2006">Thieberger (2006: 74)</ref>In the following example, ''tik'' is used in the same way as in the English translation.
+
+{{interlinear|number=(9)
+|Go Ririal i{{=}}mer. nrik Ririel ki na, "'''Tik''', ag p̃a{{=}}fag."
+|and Ririal 3sg.RS{{=}}in.turn tell Ririal PREP say no 2sg 2sg.IRR{{=}}climb:IR
+|And Ririal, in turn, said to Ririel, "No, you climb."<ref group="T2006" name="NT74" />}}
+
+Tik is also able to be made into a transitive verb through the addition of the transitive suffix ''-ki.'' When this occurs, the new gloss is 'to not have'. As such, in the following example there is no instance of a possessive verb being negated, instead the verb in the sentence (''tik-ki)'' is negative in meaning.<ref name="NT78" group="T2006" /> Another verb that is negative in meaning is ''tap'', meaning 'to not do something'.
+
+{{interlinear|number=(10)
+|Ru{{=}}'''tik-ki''' kram 
+|3p.RS{{=}}no-TR axe 
+|they had no axe.<ref name="NT78" group="T2006" />}}
+
+==== Negative particles ====
+The other way of negating predicates in Nafsan is through the use of two negative particles: ''ta(p)...mau.'' There is free variation between the use of ''ta'' and ''tap,'' ie the usage does not change according to any specific environment. <ref group="T2006" name=":2">Thieberger (2004: 250)</ref>''Ta(p)'' is used preceding the proposition to be negated, and ''mau'' follows at the end of the sentence. The following examples show a positive sentence, which is then negated in the second example.
+
+{{interlinear|number=(11)
+|Ki{{=}}mai pi as 
+|3sg.PS{{=}}come be {[[coconut crab]]}
+|He became a coconut crab.<ref name=":3" group="T2006">Thieberger (2006: 246)</ref>}}
+
+{{interlinear|number=(12)
+|Ki{{=}}'''ta''' mai pi as '''mau'''
+|3sg.PS{{=}}NEG come be {coconut crab} NEG2 
+|He didn't become a coconut-crab. <ref name=":3" group="T2006" />}}
+
+Sometimes, in the casual speech of young people predominantly, the second negative particle ''mau'' is left off, as seen in the following example.
+
+{{interlinear|number=(13)
+|Rui{{=}}pe '''ta''' mur na ruk{{=}}nrog a?
+|3PL.PS{{=}}PRF NEG want say 3PL.IRR{{=}}hear INT
+|They don't want to hear, they don't want to believe eh?<ref name=":2" group="T2006" />}}
+
+The ''ta'' marker can also act a durative marker, so in negative sentences where both uses of ''ta'' are present it can result in two different readings of a sentence. In the first example below, reading the first ''ta'' as the negative one results in the whole proposition being negated. In the second example, exactly the same sentence, reading the second ''ta'' as the negative results in only the final verb (''puet'' 'to take') being negated, thus creating a different meaning entirely.
+
+{{interlinear|number=(14)
+|A{{=}}'''ta'''      mro-ki-n      na  ruk{{=}}fo        mer     ta  puet kineu '''mau.'''
+|1SG.RS{{=}}NEG think-TS-3SG.O say 3p.IRR{{=}}PSP:IR in.turn DUR take 1SG   NEG2. 
+|I don’t think that they would still take me. <ref name="NT249" group="T2006">Thieberger (2006: 249)</ref>}}
+
+{{interlinear|number=(15)
+|A{{=}}ta      mro-ki-n      na  ruk{{=}}fo        mer     '''ta'''  puet kineu '''mau.''' 
+|1SG.RS{{=}}DUR think-TS-3SG.O say 3p.IRR{{=}}PSP:IR in.turn NEG take 1SG NEG2. 
+|I still think that they would not take me. <ref name="NT249" group="T2006" />}}
+
+=== Demonstratives ===
+There are three common forms of demonstratives in Nafsan: ''go'' 'that, near addressee', ''ne'' 'this', and ''nen'' 'that'. Similar to other [[Southern Oceanic languages]], these forms serve both spatio-temporal and discourse deictic functions.<ref name ="KJ202">{{Cite thesis|title=Static spatial expression in Ske: an Oceanic language ofVanuatu|url=https://eprints.soas.ac.uk/18443/|publisher=SOAS, University of London|date=2014|place=London|degree=phd|doi=10.25501/soas.00018443|language=en|first=Kay|last=Johnson|page=202}}</ref><ref name="NT149" group="T2006">Thieberger (2006: 149-153)</ref> The  form ''go'' 'that' is addressee-anchored referent to a spatial location nearer to the addressee from the speaker's perspective or something previously said by the addressee.<ref name="NT149" group="T2006"/> This encoding is found in other [[languages of Vanuatu]], such as [[Ske language|Ske]], that do not belong to the Central Vanuatu subgroup.<ref>{{Cite journal|last=Lynch|first=John|date=2004|title=The Efate-Erromango Problem in Vanuatu Subgrouping|url=https://www.jstor.org/stable/3623361|journal=Oceanic Linguistics|volume=43|issue=2|pages=311–338|issn=0029-8115}}</ref><ref name ="KJ202"/> There is an ability for syntactic ambiguity stemming from the two common functions encoded by demonstratives resulting in dual interpretations possible in some utterances. This is shown in example (16) and (17) where the noun ''kal'' 'digging stick' used with the demonstrative ''go'' can mean 'the digging stick near you' from the spatial sense of the form or 'the digging stick you talked about' from the discourse sense of the form.<ref name="NT149" group="T2006" />
+
+{{interlinear|number=(16)
+|Me kal go i{{=}}na i{{=}}mailumlum.
+|but digging.stick AD 3sg.RS{{=}}INCH 3sg.RS{{=}}soft:REDUP
+|But this digging stick (near you) is soft.<ref name="NT54" group="T2006" />}}
+
+{{interlinear|number=(17)
+|Me kal go i{{=}}na i{{=}}mailumlum.
+|but digging.stick AD 3sg.RS{{=}}INCH 3sg.RS{{=}}soft:REDUP
+|But this digging stick (you talked about) is soft.<ref name="NT54" group="T2006" />}}
+
+In Nafsan, demonstratives have a noun-demonstrative word order which is typical of Austronesian languages according to the World Atlas of Language Structures.<ref>{{Cite web|title=WALS Online -|url=https://wals.info/|access-date=2021-03-28|website=wals.info|language=en}}</ref> They typically appear in two locations within a sentence as shown in examples (18) and (19); as a modifier of the noun phrase and following a directional adverb, respectively. Otherwise, demonstratives must undergo nominalisation through the addition of the prefix ''te-'' (see 3.4.1) as they cannot occur as the only exponent of a noun phrase. While demonstratives can co-occur with lexical nouns and focal pronouns, they cannot do so with clitic pronouns in Nafsan.<ref name="NT149" group="T2006"/> 
+
+{{interlinear|number=(18)
+|Ale tesa ses ne i{{=}}to kai.
+|okay child small this 3SG.RS{{=}}STAT cry
+|Okay, this small child was crying.<ref name="NT54" group="T2006" />}}
+
+{{interlinear|number=(19)
+|Ag ku{{=}}totan sa-go me kineu a{{=}}mur-i-n na ka{{=}}taf.
+|2.SG 2SG.RS{{=}}sit here-AD but 1SG 1SG.RS{{=}}want-TS-3SG.O COMP 1SG.IRR{{=}}leave
+|You sit down here (near addressee) but I want to leave.<ref name="NT144" group="T2006" />}}
+
+The form ''nen'' 'that' frequently occurs in [[collocation]] with the [[subordinator]] ''kin'' to create the English equivalent 'that which' as seen in example (19). As the form ''nen'' 'that' has the potentially to act as a demonstrative or a relativiser, the pause given between the two forms ''nen'' and ''kin'' indicates that it is likely the form ''nen'' 'that' is acting as a demonstrative that is modifying the noun phrase in this context.<ref name="NT300" group="T2006">Thieberger (2006: 300)</ref> 
+
+{{interlinear|number=(19)
+|I{{=}}tau-ø pak nanre, nen kin pal-u-k nen imat wik
+|3sg.RS{{=}}carry-3sg.O to side that REL brother-V-1sg.DP REL 3sg.RS{{=}}dead week nen pa i{{=}}tk-os. that go 3sg.RS{{=}}stay-3sg.OBL
+|He took her to the side, that (place) which my brother who died last week stayed at.<ref name=":3" group="T2006" />}}
+
+The demonstratives ''ne'' 'this', and ''nen'' 'that' also often occur in collocation with the noun m''al'' 'time' to create the forms ''malne'' 'this time', as seen in example (20) and ''malnen'' 'that time'.<ref name="NT149" group="T2006"/> 
+
+{{interlinear|number=(20)
+|Ga me i{{=}}po sain mal ne.
+|3sg adn 3sg.RS{{=}}PSP sign time this
+|He would sign it this time.<ref name="NT146" group="T2006">Thieberger (2006: 146)</ref>}}
+
+==== Distant Clitic ====
+The distinction between demonstrative forms ''ne'' 'this', and ''nen'' 'that' is a result of the distance-encoding [[clitic]] ''=n.'' This clitic can occur with several word classes as shown in the table below. Furthermore, like spatio-temporal demonstratives, it also has the deictic function of acting as a referent to previous parts of a discourse as shown in example (21).<ref name="NT124" group="T2006">Thieberger (2006: 124)</ref> 
+{| class="wikitable"
+|+Examples of distant clitic on different word classes
+!Word Class
+!Form
+!Gloss
+!Form + Clitic
+!Gloss
+|-
+|Demonstrative
+|''ne''
+|this
+|''nen''
+|that
+|-
+|Verb
+|''pa''
+|to go
+|''pan''
+|to go there
+|-
+|Preposition
+|''reki''
+|for
+|''rekin''
+|for that
+|}
+
+{{interlinear|number=(21)
+|Go nafiaselwen ni tiawi gakit, tu{{=}}tae pitlak-e{{=}}n mes.
+|and friendship of old.people 1p.in 1p.inRS{{=}}know have-V{{=}}DST today
+|And the friendship of our old people, we can have that today.<ref name="NT124" group="T2006" />}}
+
+==== Presentative Demonstrative ====
+The presentative morpheme is a demonstrative in Nafsan which has no paradigmatic relationship with the demonstrators detailed above. The form ''kia'' is often collocated with [[Interrogative|interrogatives]] such as, such as ''fei kia'' 'who here', and typically places emphasis on the preceding nominal or utterance, as shown in example (22).<ref name="NT149" group="T2006" /> 
+
+This function of drawing attention to its preceding forms has been used alongside [[Filler (linguistics)|fillers]] ''iwel, gawan, tkanwan'' which are all used to mean 'thus', 'that's the way', or 'like that', the latter of which is used at the end of the story as seen in example (23).
+
+{{interlinear|number=(22)
+|I{{=}}tae mai nrik naot ki-n na, "Ore kineu kia, a{{=}}preg proplem".
+|3sgRS{{=}}can come tell chief PREP-3sgO say yes 1sg PR 1sgRS{{=}}make problem
+|He can come and tell the chief, "Yes, it is me who caused the problem."<ref name=":3" group="T2006" />}}
+
+{{interlinear|number=(23)
+|Me apu neu kia i{{=}}mat pato Erueti naur to. Me kineu a{{=}}to Efat. Naur pur. m.m Gawan kia. Gawan kia.
+|and g.father 1sgPOS PR 3sgRS{{=}}die be.at p.name island at but 1sg 1sgRS{{=}}stay p.name island big " like.that like.that
+|And my grandfather died at Erueti island. But I stay on Efate. The big island. m.m. Like that. Like that.<ref name=":3" group="T2006" />}}
+
+The emphatic purpose of this demonstrative is similar to those found in other languages of Vanuatu such as the form ''na-'' in Ske in example (24).<ref name="KJ207">Johnson (2014: 207)</ref>
+
+{{interlinear|number=(24)
+|waq na-n{{=}}dae, Makila!
+|ship ASSOC-CONST{{=}}DIST M
+|'That ship there, (is the) Makila.'}}
+
+=== Nominalisation ===
+
+==== 'Te-' Nominalisation ====
+[[Nominalization|Nominalisation]] of demonstratives, verbs, possessives, ordinal numbers, quantifiers, and nouns occurs in Nafsan through the attachment of the determiner prefix ''te-''. The productive process of ''te-''nominalisation allows for the derivation of a large class of demonstrative pronouns.<ref name="NT142" group="T2006">Thieberger (2006: 142)</ref> 
+{| class="wikitable"
+|+'Te + demonstrative' nominalisation
+!Form
+!Gloss
+!Te + Form
+!Gloss
+|-
+|''ne''
+|this
+|tene
+|this one
+|-
+|''nen''
+|that
+|tenen
+|that one (distant)
+|-
+|''go''
+|that (near addressee)
+|tego
+|that one (near addressee)
+|}
+
+Example (25) reflects how addressee deixis is encoded in the demonstratives that have undergone ''te-''nominalisation.
+
+{{interlinear|number=(25)
+|Te-go ru{{=}}to, fei kin i{{=}}repot?
+|DET-AD 3p.RS{{=}}stay who REL 3sgRS{{=}}report
+|Those (near you) here, who will report?<ref name="NT128" group="T2006" />}}
+
+The prefix ''ka-'' is attached to nominals greater than one in Nafsan to form [[Ordinal numbers (linguistics)|ordinal numbers]] which can then further gain the prefix ''te-'' to form a demonstrative as shown in example (26).<ref name="NT144" group="T2006">Thieberger (2006: 144)</ref> 
+{| class="wikitable"
+|+'Te + ordinal number' nominalisation 
+!Form
+!Gloss
+!Te + Form
+!Gloss
+|-
+|pei
+|first
+|tepei
+|the first one
+|-
+|karu
+|second
+|tekaru
+|the second one
+|-
+|katol
+|third
+|tekatol
+|the third one
+|}
+
+{{interlinear|number=(26)
+|Tag i{{=}}pi te-karu, te-katol i{{=}}pi Andre.
+|p.name 3sgRS{{=}}be DET-second DET-third 3sgRS{{=}}be p.name
+|Tag is the second, the third is Andre.<ref name="NT139" group="T2006">Thieberger (2006: 139)</ref>}}
+
+== Pronoun and person marker ==
+There are mainly two classes of [[pronoun]] in Nafsan. The free pronoun and the bound pronoun.<ref name="NT103" group="T2006">Thieberger (2006: 103)</ref> 
+
+=== Free pronoun ===
+The free pronouns incorporate three area, demonstrative pronouns, focal pronouns(function as both subject and object) and the oblique free pronoun (in either possessive or benefactive form).
+
+==== Focal pronoun ====
+The focal pronoun (Lynch, 2000), also known as an independent pronoun (Crowley, 1998), functions as both the subject and object in an argument. It allows the pronoun itself to be the NP on their own unlike the bound pronouns which have to be attached to a verb. Focal pronouns express singular and plural but do not distinguish dual number.
+
+:1a) subject role
+{{interlinear|indent=3
+|Me kineu a{{=}}tap nrogtesa-wes  mau.
+|but 1SG 1SG.RS{{=}}NEG fell.bad-3SG.O NEG2
+|But I don't/feel bad about it.<ref name="NT104" group="T2006">Thieberger (2006: 104)</ref>}}
+
+:1b) object role
+{{interlinear|indent=3
+|Ruk{{=}}fo wat kineu.
+|3PL.RS{{=}}PSP:IR hit 1SG
+|They will hit me.<ref name="NT104" group="T2006"/>}}
+
+The examples (1a)& (1b) show the 1st person singular pronoun ''kineu'' performed as the subject and object correspondingly. And the following is a list of the focal pronouns in Nafsan.
+
+{| class="wikitable"
+|+ Focal pronouns
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | kineu/neu
+| akit
+|-
+! exclusive
+| komam
+|-
+! colspan="2" | 2nd person
+| ag
+| akam
+|-
+! colspan="2" | 3rd person
+| ga
+| gar
+|}
+
+==== Oblique free pronoun ====
+Oblique free pronoun function in [[possessive]] also [[benefactive case]]. For the possessive pronoun, it follows the possessed NP, generally made up of the preposition -''nig'' ‘from’/ ‘of’.
+
+:2)  Possessive pronouns follow the possessed NP
+{{interlinear|indent=3
+|Nasum̃tap p̃ur nigmam nen i{{=}}tarp̃ek.
+|church big  1PL.EX POS REL 3SG.RS{{=}}fall.down
+|It was our church that fell down.<ref name="NT128" group="T2006"/>}}
+
+There are variation forms of the suffix -''nig'' , when it combines with an unstressed syllable, the high vowel will become lower. E.g. (''niger →  neger)''
+
+===== Benefactive =====
+In the benefactive, the argument shares the same possessive morphology, yet the possessive morpheme is used in the pre-verbal position to express the beneficiary. The following example shows how beneficiary expressed by a pre-verbal position.
+
+{{interlinear|number=(3a)
+|Mlapuas kin i{{=}}min nalkis nl sokfal.
+|{owl sp}. COMP 3SG.RS{{=}}drink herbs of {owl sp.}
+|Mlapuas who drank sokfal 's herbs.<ref name="NT279" group="T2006">Thieberger (2006: 279)</ref>}}
+
+{{interlinear|number=(3b)
+|Ki{{=}}ni sokfal ut nai.
+|3SG.lRR{{=}}of {owl sp.} pour water
+|He poured water for sokfal.<ref name="NT279" group="T2006" />}}
+
+=== Bound Pronoun ===
+Bound pronoun comprises subject proclitics, object suffix for direct object and direct possessive. For the subject proclitics, there is neither separate set of dual object, nor oblique form. The obligatory subject proclitic pronouns are being seen as the arguments of the verb. For the pronominal suffixes of bound pronouns, the plural form is used to express any number that is greater than one.
+
+==== Bound subject pronouns ====
+The proclitic subject pronoun cannot stand alone without attaching to the first element of the Verb compound. They are considered to be [[clitic]]s since they can attach to any part of the Verb compound. Subject proclitics happened in three archetypes, realis, irrealis and perfect. The subject proclitic represents the subject argument since it is the only obligatory element in the sentence except for the verb.
+
+===== Realis/irrealis pronominal =====
+[[Proclitic]] subjects distinguish realis and irrealis situation. The realis is unmarked, and the irrealis being marked in the subject to show the action is yet to be realised, including most of the future events but not all, all the imperatives and hortatives. There is a strong preference for the subject of desideratives, achievement and predicates to be using irrealis form.
+
+:4)realis and irrealis paradigm
+{{interlinear|indent=3
+|A{{=}}nrik-i-n ki na "He a{{=}}muri-n na p̃a{{=}}mai ni Kaltog preg nalkis, i{{=}}wel ku{{=}}f tae preg-i-Ø."
+|1SG.RS{{=}}tell-TS-3SG.O PREP COMP hey 1SG.RS{{=}}want-TS-3SG.O COMP 2SG.lRR{{=}}come BEN p.name make medicine 3SG.RS{{=}}thus 2SG.RS{{=}}CND know make-TS-3SG.O
+|I said to him, "Hey, I want you to bring some medicine for Kaltog, if you can do that."<ref name="NT110" group="T2006">Thieberger (2006: 110)</ref>}}
+
+The examples (4) show all realis form of pronouns in all cases except the subject of the verb mai ‘to come’ which is appeared in a desiderative complement.
+
+===== Perfect pronominal =====
+When dealing with aspectual past (event that is over), regarding the speaking event and past time reference, the perfect form of proclitic is used. Generally, perfect procitics directly followed by the perfective particle pe, yet it is not a necessary criterion. Notably, perfect proclitics never occur in imperatives. Perfect proclitics can be found in narratives that deal with long events like World War 2.
+
+:5) narrative
+{{interlinear|indent=3
+|I{{=}}piatlak tete nen kin ru{{=}}weswes skot-i-r. Go, ru{{=}}lap te-p̃ur rui{{=}}pe mat. Rukoi{{=}}pe mat.
+|3SG.RS{{=}}have some that REL 3PL.RS{{=}}work with-TS-3PL.O and 3PL.RS{{=}}many DET-big 3PL.PS{{=}}PRF dead 3PL.RS{{=}}PRF dead
+|There are some who worked with them (the Americans). And very many died. They died.<ref name="NT110" group="T2006"/>}}
+
+The example(5) shows the perfect proclitics being used to refer to those who are long dead in a narrative sentence.
+
+Traditional stories in Nafsan often use perfect proclitic form as they are set in the past. The example(6) of an extract of a custom story telling also shows that perfective particle ''pe'' is not necessary to appear in perfect proclitic sentence.
+
+:6) Storytelling
+{{interlinear|indent=3
+|Kaltog i{{=}}kel ntak Selwin tefla{{=}}n go rakai{{=}}ler mai pak esum̃
+|Kaltag 3SG.RS{{=}}hold back Selwin thus{{=}}DST and 3DU.PS{{=}}return come to LOC-house
+|Kaltog rubbed Selwin's back like that and they returned to the house.<ref name="NT111" group="T2006">Thieberger (2006: 111)</ref>}}
+
+==== Bound Object pronoun ====
+There are two separate types of object suffix, can be distinguished by the roles they encoded and the host they attached to. One type is for direct objects, the direct object suffixes attached to the object of the predicator to encode it. The other type is for oblique objects, the oblique object suffixes encode typically the location and the case of semi-transitive verbs. Based on the semantics of the semi-transitive verbs in the oblique case, the oblique object suffixes apply to movement to, at, or from a location. There are list of distinctive bound suffix being used in two types of object in table.2.
+
+{| class="wikitable" 
+|-
+! colspan="3" | 
+! Direct Object
+! Oblique Object
+! Direct Possessive
+|-
+! rowspan="3" | 1st person
+! colspan="2" | singular
+| -wou
+| -wou
+| -k
+|-
+! rowspan="2" | plural
+! inclusive
+| -kit
+| -kit
+| -kit
+|-
+! exclusive
+| -mam/-mom/-m
+| -mam
+| -mam/-mom/-m
+|-
+! rowspan="2" | 2nd person
+! colspan="2" | singular
+| (transitivisor) -k
+| -wok
+| -m
+|-
+! colspan="2" | plural
+| -mus
+| -mus
+| -mus
+|-
+! rowspan="2" | 3rd person
+! colspan="2" | singular
+| (transitivisor) -ø/ -n
+| -wes
+| -n
+|-
+! colspan="2" | plural
+| (transitivisor) -r
+| -wer
+| -r
+|}
+
+===== The direct object =====
+Object suffixes encode the object of derived transitive verbs, ambitransitive verbs, ditransitive verbs and of the preposition ''-ki''. To reference an object in Nafsan can be either by an object suffix or a lexical NP. Therefore, object suffix cannot appeared in the Verb Complex while there is a referential lexical NP for object indication.
+
+7) transitive verb/ preposition ''-ki''
+
+{{interlinear|indent=3
+|Ke{{=}}fo pes-kerai-ki-k tete nrak, tete nrak, masta nen kin i{{=}}wi, i{{=}}pes-kerkerai-ki ag m̃as.
+|3SG.IRR{{=}}PSP:IR talk-strong-TR-2SG.O some time some time, boss that REL 3SG.RS{{=}}good 3SG.RS{{=}}talk-strong-TR 2SG only
+|He will speak harshly to you, sometimes, sometimes a good boss will just speak harshly to you. (as opposed to beating you) <ref name="NT116" group="T2006">Thieberger (2006: 116)</ref>}}
+
+This is an example(7) showing how object suffix used in transitive verb. The intransitive verb pes-kerai	 takes the transitivising suffix -ki to become transitive which allows it to take the object suffix ''-k'' in the first use. However, to emphasis the object, the last clause used the focal pronoun ''ag'' ‘you(singular)’ instead of the object suffix.
+
+8) ambitransitive verb
+
+{{interlinear|indent=3
+|I{{=}}f wel ku{{=}}f tae trok-wes go ka{{=}}fo plak-e-r ler.
+|3SG.RS{{=}}CND thus 2SG.RS{{=}}CND know agree-3SG.OBL and 1SG.IRR{{=}}PSP:IR with-TS-3p.O return
+|If you agree with it, then I will go back with them. (Thieberger, 2006, p.&nbsp;116)}}
+
+In general, ambitransitive verbs requires a transitive suffix before the addition of the object suffix. The example(8) shows that transitive suffix -e is added before the object suffix ''-r'' occurred.
+
+9)ditransitive verb
+
+{{interlinear|indent=3
+|Or ka{{=}}fo mer nrik-i-r ki i{{=}}skei.
+|yes 1SG.IRR{{=}}PSP:IR in.turn tell-TS-3PL.O PREP 3SG.RS{{=}}one
+|Yes, I will now tell them one (story). (Thieberger, 2006, p.&nbsp;116)}}
+
+The object suffix indicates the recipient when it is with a ditransitive verb. The example (9)shows when the suffix -r is used to encode the addresses.
+
+===== Oblique object =====
+The oblique suffix has a locational meaning. The oblique case can also be indicating temporal and spatial references. The example shows the suffix -''wes'' encoded the day that the race was held.
+
+10) oblique suffix
+
+{{interlinear|indent=3
+|Naliati nen rak{{=}}fo res-wes me katom i{{=}}pei usrek-ki ser nagis.
+|day this 3DU.IRR{{=}}PSP:IR race-3SG.OBL but hermit.crab 3SG.RS{{=}}first go.round-TR every point
+|That day they would race, but the hermit crab was first around every point.<ref name="NT119" group="T2006">Thieberger (2006: 119)</ref>}}
+
+==== Bound direct possessive pronouns ====
+The direct possessive suffix can only be attached to direct possessed nouns and reflexive/reciprocal morpheme yet not being a clitic. The 3 person singular is the most common form of direct possessive pronoun being found, even though there is other direct possessive pronoun see table.2. The following example(11) shows the 3sg direct possessive suffix -''r''.
+
+11) direct possessive suffix
+
+{{interlinear|indent=3
+|Gar nen ru{{=}}lek-a-Ø ki namt-e-r.
+|3PL REL 3PL.RS{{=}}see-TS-3SG.O PREP eye-V-3PL.DP
+|It was they who saw it with their own eyes.<ref name="NT122" group="T2006">Thieberger (2006: 122)</ref>}}
+
+== Common abbreviations ==
+Below is a table explaining the common abbreviations used in negation examples above:<ref group="T2006">Thieberger (2006: xviii-xix)</ref>
+
+{| class="wikitable"
+|+
+!Abbreviation
+!Meaning
+|-
+|AD
+|Addressee deictic
+|-
+|DET
+|Determiner
+|-
+|DST
+|Distant
+|-
+|DUR
+|Durative
+|-
+|IR
+|Irrealis
+|-
+|IRR
+|Irrealis subject
+|-
+|NEG
+|Negative marker
+|-
+|PREP
+|Preposition
+|-
+|PS
+|Perfect subject
+|-
+|PSP
+|Prospective
+|-
+|REL
+|Relativiser
+|-
+|RS
+|Realis subject
+|-
+|TR
+|Transitive marker
+|-
+|TS
+|Transitive suffix
+|}
+
+==Access to resources==
+[[Nicholas Thieberger|Thieberger]]'s field recordings have been archived with [[Paradisec]]:
+* [http://www.nthieberger.net/sefate.html summary of the collection of materials in Nafsan]
+* [http://www.language-archives.org/language/erk listing of all material available via the ''Open Language Archives Community'' for Nafsan].
+
+==Notes==
+* Pages from:  {{cite book|last1=Thieberger|first1=Nick|authorlink=Nicholas Thieberger|title='''A Grammar of South Efate: An Oceanic Language of Vanuatu'''|date=2006|publisher=University of Hawaii Press|location=Honolulu|isbn=9780824830618|url=https://books.google.com/books?id=DugEkKd3koEC&q=Grammar+of+South+Efate|language=en}}
+{{reflist|group="T2006"|20em}}
+
+* '''Other references''':
+<references />
+
+== References ==
+* Anon. 1868. ''Nalag nig Efat''. Trans. [[Donald Morrison (missionary)|D. Morrison]]. Sydney: Mason, Firt, nigar asler (Mason, Firth and Co). 
+* Anon. 1892. ''Tusi nalag Efate Niu Ebrites''. Sydney: F. Cunninghame and Co. 
+* Anon. 1979. ''Natus nalag'' (213 pp). 
+* Bible. 1864. ''Nadus iskei nig Fat''. Aneityum: Mission Press. 
+* Bible. 1866. ''Nafsanwi nig Iesu Krist nag Mark''.  Trans. D. Morrison. Sydney: Sheriff and Downing. 
+* Bible. 1874. ''Kenesis natus a bei nag Moses ki mtir i''. Trans. Cosh, J. Sydney: British and Foreign Bible Society. 
+* Bible. 1875? ''Nafisan nafousien''. Sydney: F. Cunninghame and Co. 
+* Bible. 1883. ''The Gospel according to Luke''. Trans. [[Daniel Macdonald (missionary)|Macdonald, D.D.]] Melbourne: M.L. Hutchinson. 
+* Bible. 1885. ''The Gospel according to John, Tus Nanrognrogona Uia ni Iesu Kristo nag Ioane i mitiria''. Trans. [[John W. Mackenzie|Mackenzie, J.]], Macdonald, D.D. Sydney: F. Cunninghame and Co. 
+* Bible. 1919. '' Natus bei ni nafisan ni Efate''. Sydney: Epworth Press. 
+* Bible. 1919. ''Tusi tab fao (New Testament)''.  Trans. Mackenzie, J., Macdonald, D.D. Melbourne: British and Foreign Bible Society. 
+* Bible. 1923. ''Scripture History''. Sydney: Epworth Printing and Publishing House. 
+* Bible. 1923. ''Nafakoron ni aliat. Erakor Efate, New Hebrides''. Nouméa: Imprimerie A.-L. Laubreaux. 
+* Bible. n.d. ''Nawisien nig Nagmer Apostol''. Sydney: F. Cunninghame and Co. 
+* Clark, Ross. 1973. Transitivity and case in eastern Oceanic languages. ''Oceanic Linguistics'' 12(1–2). 559–606. 
+* ––––– 1978. The New Hebridean outliers. In Wurm, S.A. and L.Carrington, (eds.), ''Second International Conference on Austronesian Linguistics: proceedings''. Fascicle 2: eastern Austronesian. (Pacific Linguistics Series) Department of Linguistics, Research School of Pacific Studies, The Australian National University. 911–928. 
+* –––––  1982. "Necessary" and "unnecessary" borrowing. In Halim, A. (ed.), ''Papers from the Third International Conference on Austronesian Linguistics''. Vol.3: Accent on variety. C 76 ed. (Pacific Linguistics Series): Department of Linguistics, Research School of Pacific Studies, The Australian National University. 137–143. 
+* –––––  1985. The Efate dialects. ''Te Reo'' 28.:3–35. 
+* –––––  1996. Linguistic consequences of the Kuwae eruption. In J. M. Davidson, G. Irwin, B. F. Leach, A. Pawley and D. Brown (eds.), ''Oceanic culture history: essays in honour of Roger Green''. New Zealand Journal of Archaeology Special Publication. 275–285. 
+* –––––  n.d. The Efate-Tongoa dialects (Ms). 
+* Codrington, Robert Henry (R. H.). 1885. ''The Melanesian Languages''. Oxford: Clarendon Press. 
+* Crowley, Terry. 1998. ''An Erromangan (Sye) Grammar''. Honolulu: University of Hawai’i Press. 
+* Lynch, John. 2000. South Efate phonological history. ''Oceanic Linguistics'' 39(2):320–338. 
+* ––––– 2000. ''A grammar of Anejom''. Canberra: Pacific Linguistics. 
+* ––––– 2001. ''The linguistic history of Southern Vanuatu''. Canberra: Pacific Linguistics, Research School of Pacific and Asian Studies, Australian National University.
+* ––––– 2004. The Efate-Erromango Problem in Vanuatu Subgrouping. ''Oceanic Linguistics'' 43(2):311–338.
+
+* [[Nicholas Thieberger|Thieberger, Nicholas]]. 2004. [https://minerva-access.unimelb.edu.au/bitstream/handle/11343/39029/66496_00001551_01_SouthEfatePhD.pdf?sequence=1&isAllowed=y ''Topics in the grammar and documentation of South Efate, an Oceanic language of Central Vanuatu'']. PhD thesis, Department of Linguistics and Applied Linguistics, University of Melbourne.
+*  ––––– 2006a. [http://www.uhpress.hawaii.edu/cart/shopcore/?db_name=uhpress&page=shop/flypage&product_id=4605&category_id=b3e6237d1b1b3b8594488ed1c40d0dfb&PHPSESSID=6154b09b490812283abb884b3ca7ba5d ''A Grammar of South Efate: An Oceanic Language of Vanuatu''] Oceanic Linguistics Special Publication, No. 33. Honolulu: University of Hawai'i Press. 
+*  ––––– 2006b. The benefactive construction in South Efate. ''Oceanic Linguistics'', Volume 45, no. 2, 297-310.
+*  ––––– 2007. The demise of serial verbs in South Efate. Diana Eades, John Lynch and Jeff Siegel (eds.), ''Language Description, History and Development: Linguistic Indulgence in Memory of Terry Crowley''. Amsterdam: Benjamins. 237-251.
+*  ––––– 2011a. [http://repository.unimelb.edu.au/10187/9734''Natrauswen nig Efat'']. Melbourne: The author. {{ISBN|978-1-921775-50-5}}. 
+*  ––––– 2011b. [http://repository.unimelb.edu.au/10187/9735''A dictionary of South Efate'']. Melbourne: The author. {{ISBN|978-1-921775-51-2}}.
+*  ––––– 2012. Mood and Transitivity in South Efate. ''Oceanic Linguistics''. Volume 51, no. 2, 387-401.
+* Thieberger, Nicholas and Chris Ballard. 2008. Daniel Macdonald and the 'compromise literary dialect' in Efate, central Vanuatu. ''Oceanic Linguistics'', Volume 47, no.2: 365-382
+* Payne, Thomas Edward. 1997. ''[https://books.google.com/books?id=LC3DfjWfCiwC&printsec=frontcover#v=onepage&q&f=false Describing morphosyntax: a guide for field linguists].'' Cambridge, U.K.; New York: Cambridge University Press.
+
+==External links==
+*[https://web.archive.org/web/20050922172244/http://eprints.unimelb.edu.au/archive/00000492/ ''Topics in the grammar and documentation of South Efate, an Oceanic language of Central Vanuatu'' by Nicholas Thieberger]
+*[http://paradisec.org.au/SELexicon/index-english/main.htm ''Dictionary of South Efate'' by Nicholas Thieberger]
+*[http://www.eopas.org/transcripts?language_code=erk A collection of texts in the language with media, by Nicholas Thieberger]
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+{{DEFAULTSORT:Efate, South}}
+[[Category:Central Vanuatu languages]]
+[[Category:Languages of Vanuatu]]

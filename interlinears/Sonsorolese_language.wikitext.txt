@@ -1,0 +1,209 @@
+{{Short description|Micronesian language spoken in Palau}}
+{{Infobox language
+| name = Sonsorolese
+| nativename = ''Ramari Dongosaro''
+| states = [[Palau]]
+| region = <small>[[Palau]]:</small> originally [[Sonsorol|Sonsorol state]] (all three inhabited islands [[Sonsorol]], [[Pulo Ana]] and [[Merir]])
+| pushpin_map = Southeast Asia
+| coordinates = {{coord|5.33|132.22}}
+| speakers = {{sigfig|360|1}}<!--data only supports 1 sig fig-->
+| date = 2007
+| ref = e18
+| familycolor = Austronesian
+| fam2 = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+| fam3 = [[Oceanic languages|Oceanic]]
+| fam4 = [[Micronesian languages|Micronesian]]
+| fam5 = [[Micronesian Proper languages|Proper]]
+| fam6 = [[Trukic languages|Trukic]]
+| fam7 = 
+| nation = {{flag|Palau}}
+| script = [[Latin script]]
+| iso3 = sov
+| glotto = sons1242
+| glottorefname = Sonsorol
+}}
+
+The '''Sonsorolese language''' is a [[Micronesian languages|Micronesian language]] spoken in [[Palau]], originally on the islands composing the state of [[Sonsorol]], and spreading through migration elsewhere in the country. It is very close to [[Tobian language|Tobian]].
+
+==Introduction==
+
+===History===
+Sonsorolese is mostly spoken in the [[Palau]] archipelago, particularly in Sonsorol, [[Pulo Anna|Pulo Ana]], and the Merir Islands.<ref>{{Cite web|url=https://www.ethnologue.com/18/language/sov/|title = Redirected|date = 19 November 2019}}</ref> It is one of two indigenous languages spoken in the area.
+
+===Population===
+There are about 360 speakers spread out across 60 islands. Most speakers of Sonsorol are bilingual, with their second language being English.<ref name="web.archive.org">{{cite web |url=http://www.sonsorol.com/language/index_eng.htm |title=Archived copy |website=www.sonsorol.com |access-date=15 January 2022 |archive-url=https://web.archive.org/web/20070314051132/http://www.sonsorol.com/language/index_eng.htm |archive-date=14 March 2007 |url-status=dead}}</ref> The language is an official language for the areas where it is spoken. It is usually used for the state's internal communications, like announcements and invitations.<ref name=":0">{{Cite web|url=http://www.sonsorol.com/language/|title=Language – Sonsorol island|language=en-GB|access-date=2020-01-24}}</ref> Some closely related languages of Sonsorol are [[Ulithian]], [[Woleaian]], and [[Satawalese]]. The language is part of the [[Austronesian language]] family. Most of the population have migrated from the islands of the Sonsorol state to Palau's main town, Koror and Echang village.<ref name=":0" /> The reasons are various, including economic and environmental. Young Sonsorolese speakers use a mixture of Palauan, English and Sonsorolese, what is called Echangese and is different from what the elder generation speaks.<ref name=":0" /> There are currently less than 20 speakers over 60 years old.<ref name=":0" />
+
+=== Geographic distribution ===
+*[[Northern Mariana Islands]]: unknown (immigrant language)
+*[[Palau]]: 600 speakers
+**[[Sonsorol]]: 60 speakers+
+***[[Merir]]: 5 speakers+
+*** [[Pulo Anna|Pulo Ana]]: 25 speakers+
+*** [[Sonsorol]]: 29 speakers+
+** Rest of the country: 540 speakers
+
+=== Dialects ===
+* [[Pulo-Annan dialect|Pulo-Anan]]
+* [[Sonsorolese dialect|Sonsorolese]]
+
+==Phonology==
+
+===Consonants===
+In Sonsorolese, there are 19 [[consonants]]. These consonants are: /p/, /b/, /t/, /d/, /c/, /k/, /g/, /m/, /n/, /f/, /v/, /j/, /x/, /ɣ/, /r/, /w/, /s/, /ŋ/, and /ʟʲ/ (Capell, 1969).
+
+{| class="wikitable" style="margin: 1em auto 1em auto; text-align: center;"
+|+ '''IPA chart Sonsorolese consonants'''
+|-
+! |
+! colspan=2 | [[Labial consonant|Labial]]
+! colspan=2 | [[Denti-alveolar consonant|Dental-Alveolar]]
+! colspan=2 | [[Palatal consonant|Palatal]]
+! colspan=2 | [[Velar consonant|Velar]]
+|-
+! [[Nasal consonant|Nasal]]
+| style="border-right: 0;" width=25px| ||style="border-left: 0;" width=25px|{{IPAlink|m}}
+| style="border-right: 0;" width=25px| ||style="border-left: 0;" width=25px|{{IPAlink|n}}
+| colspan=2 |
+| style="border-right: 0;" width=25px| ||style="border-left: 0;" width=25px|{{IPAlink|ŋ}}
+|-
+! [[Stop consonant|Plosive]]
+| style="border-right: 0;" width=25px|{{IPAlink|p}}||style="border-left: 0;" width=25px|{{IPAlink|b}}
+| style="border-right: 0;" width=25px|{{IPAlink|t}}||style="border-left: 0;" width=25px|{{IPAlink|d}}
+| style="border-right: 0;" width=25px|{{IPAlink|c}}||style="border-left: 0;" width=25px|
+| style="border-right: 0;" width=25px|{{IPAlink|k}}||style="border-left: 0;" width=25px|{{IPA link|g}}
+|-
+! [[Fricative]]
+| style="border-right: 0;" width=25px|{{IPAlink|f}}||style="border-left: 0;" width=25px|{{IPAlink|v}}
+| style="border-right: 0;" width=25px|{{IPAlink|s}}||style="border-left: 0;" width=25px|
+| style="border-right: 0;" width=25px| ||style="border-left: 0;" width=25px|j
+| style="border-right: 0;" width=25px|{{IPAlink|x}}||style="border-left: 0;" width=25px|ɣ
+|-
+! [[Continuant consonant|Continuant]]
+| style="border-right: 0;" width=25px| ||style="border-left: 0;" width=25px|{{IPAlink|w}}
+| style="border-right: 0;" width=25px| ||style="border-left: 0;" width=25px|{{IPAlink|r}}
+| colspan=2 |
+| style="border-right: 0;" width=25px| ||style="border-left: 0;" width=25px|ʟʲ
+|-
+|}
+
+===Vowels===
+Sonsorolese has 5 vowels: /a/, /e/, /i/, /o/, and /u/. There are also diphthongs, including /ae/, /ai/, /ao/, and /au/. An example of the diphthong /ae/ is {{lang|sov|mae}}, which means "breadfruit" (Capell, 1969).
+
+===Voiceless vowels===
+[[Voicelessness#Voiceless vowels and other sonorants|Voiceless vowels]] occur in three contexts: “as finals, after a consonant, after a full, generally long vowel, and before a consonant, when they are acoustically similar to falling diphthongs, after non-final consonants a furtive /i/ or /u/ produces palatalization or velarisation (respectively) of the consonants” (Capell, 1969). {{clarify|date=March 2019}}
+
+==Orthography and pronunciation==
+Sonsorolese is primarily a [[spoken language]]. Many of the sounds are like those in [[Tobian language|Tobian]] and [[Woleaian language|Woleaian]]. A couple of [[dialect]]s include the pronunciation of ''d'', which is common at the beginning of words and similar to {{IPA|[ð]}}; ''r'' is pronounced as in Spanish; also, ''l'' is always pronounced with tongue touching the back roof of the mouth and sounds something like a combination of the {{IPA|[ɡ]}} and {{IPA|[l]}} sounds. For that reason, some Sonsorolese prefer to spell their els as {{angle bracket|ɡl}}. As in Woleaian, voiceless vowels are usually found at the end of Sonsorolese words. For example, in ''Dongosaro'', the native name for [[Sonsorol]] island, the final ''-o'' is voiceless.<ref name=":0" />
+
+Written documents in Sonsorolese include the Constitution of Sonsorol State and certain parts of the Bible.<ref name=":0" /> However, there seems to be a confusion regarding the Bible since there seems not to be a distinction between Tobian and Sonsorolese. {{Citation needed|date=January 2020}}
+
+* a - [a]
+* ae - [ae]
+* ai - [ai]
+* ao - [ao]
+* au - [au]
+* b - [b]
+* c - [c]
+* d - [d/ð]
+* e - [e]
+* f - [f]
+* g - [g/ɣ]
+* h - [x]
+* i - [i]
+* k - [k]
+* l - [ʟʲ]
+* m - [m]
+* n - [n]
+* ng - [ŋ]
+* o - [o]
+* p - [p]
+* r - [r]
+* s - [s]
+* t - [t]
+* u - [u]
+* v - [v]
+* w - [w]
+* y - [j]<ref>[https://www.omniglot.com/writing/sonsorolese.htm Sonsorolese], Omniglot</ref>
+
+==Grammar==
+
+===Basic word order===
+Sonsorolese’s basic [[word order]] is subject, object, verb (SOV).
+
+An example of the use of the SOV word order is:
+{{interlinear|indent=3|lang=sov
+|Etai maho tipel
+|I happy not
+|subject object adverb
+|I am not happy.}}
+
+In questions, the word order stays the same.
+
+*{{lang|sov|Emaho tipomu}} = Are you happy?
+
+===Reduplication===
+There is full [[reduplication]] in the Sonsorol language. E.g. 'orange' = {{lang|sov|hulu}}, 'oranges' = {{lang|sov|huluhulu}}.
+
+===Numerals===
+The numeral system of Sonsorolese is base-10. The [[numeral system]] can go up to 1,000, which is “da ngaladi”.<ref name="web.archive.org"/>
+
+*{{lang|sov|deo|italic=no}} "one"
+*{{lang|sov|luwou|italic=no}} "two"
+*{{lang|sov|doruw|italic=no}} "three"
+*{{lang|sov|fauw|italic=no}} "four"
+*{{lang|sov|rimouwa|italic=no}} "five"
+*{{lang|sov|worouwa|italic=no}} "six"
+*{{lang|sov|fuduwa|italic=no}} "seven"
+*{{lang|sov|waruwa|italic=no}} "eight"
+*{{lang|sov|tiwouwa|italic=no}} "nine"
+*{{lang|sov|delh|italic=no}} "ten"
+*{{lang|sov|liyelh|italic=no}} "twenty"
+
+==Vocabulary==
+
+*{{lang|sov|meta?}}: "what?"
+*{{lang|sov|ehamatahutohu}}: "dangerous"
+*{{lang|sov|fou}}: "cold"
+*{{lang|sov|itei hae ramari Dongosaro}}: "I don't speak Sonsorolese"
+*{{lang|sov|halifato}}: “apple”
+*{{lang|sov|fadolo}}: “banana”
+*{{lang|sov|buu}}: “betel nut”
+*{{lang|sov|farawo}}: “bread”
+*{{lang|sov|hayang}}: “chicken”
+*{{lang|sov|rutouya}}: “coconut”
+*{{lang|sov|sahai}}: “egg”
+*{{lang|sov|iha}}: “fish”
+*{{lang|sov|als}}: “ice”
+*{{lang|sov|woto}}: “taro”
+*{{lang|sov|lahumu}}: “land crab”
+*{{lang|sov|babai}}: “papaya”
+*{{lang|sov|pelhi}}: “pork”
+*{{lang|sov|raes}}: “rice”
+*{{lang|sov|bito}}: "come"
+
+==Further reading==
+*Capell, A. (1969). Grammar and vocabulary of the language of Sonsorol - Tobi. Sydney: University Of Sydney.
+*Ethnologue, (2014). Sonsorol. [online] Available at: https://www.ethnologue.com/language/sov 
+*Isles-of-the-sea.org. (2014). Sonsorol | isles of the sea bible translation. http://isles-of-the-sea.org/projects/sonsorol/.
+*Palaunet.com. (2014). Culture of Palau. [online] Retrieved from: http://www.palaunet.com/pw_culture.aspx
+*The Joshua Project:. Sonsorol in Palau ethnic people profile. [online] Retrieved from: http://www.joshuaproject.net/people-profile.php?rog3=PS&peo3=14999 
+*Sonsorol.com. (2014).
+*Sonsorol-island.blogspot.com. (2014).
+*Wals.info, (2014). WALS Online - Language Sonsorol-Tobi. Available at: http://wals.info/languoid/lect/wals_code_son
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{in lang|en}} [https://web.archive.org/web/20070314051132/http://www.sonsorol.com/language/index_eng.htm Language page at Sonsorol.com]
+* [https://scholarspace.manoa.hawaii.edu/handle/10125/32448 Recordings of lexical items, paradigms and narratives] archived with [[Kaipuleohone]]
+*[http://www.language-archives.org/language/sov OLAC resources in and about the Sonsorol language]
+
+{{Micronesian languages}}
+{{Austronesian languages}}
+{{Authority control}}
+
+[[Category:Chuukic languages]]
+[[Category:Languages of Palau]]
+[[Category:Sonsorol]]
+[[Category:Endangered Austronesian languages]]

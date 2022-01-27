@@ -1,0 +1,226 @@
+{{redirect|Rotokas}}
+{{short description|North Bougainville language}}
+{{more footnotes|date=February 2013}}
+{{Lead extra info|date=October 2020}}
+{{Infobox language
+|name          = Rotokas
+|states        = [[Papua New Guinea]]
+|region        = [[Bougainville Province|Bougainville]]
+|ethnicity     =
+|speakers      = 4,300
+|date          = 1981
+|ref           = e18
+|familycolor   = Papuan
+|fam1          = [[North Bougainville languages|North Bougainville]]
+|fam2          = Rotokas–Eivo
+|dia1          = Pipipaia, Aita, Atsilima. <ref>{{cite web|url=https://www.ethnologue.com/language/roo|title=Rotokas|access-date=22 October 2018}}</ref>|script=[[Latin script|Latin]] ([[Rotokas alphabet]])
+|notice        = IPA
+|iso3          = roo
+|glotto        = roto1249
+|glottorefname = Rotokas
+}}
+
+'''Rotokas''' is a [[North Bougainville languages|North Bougainville language]] spoken by about 4,320 people on the island of [[Bougainville Island|Bougainville]], an island located to the east of [[New Guinea]] which is part of [[Papua New Guinea]]. According to Allen and Hurd (1963), there are three identified dialects: Central Rotokas ("Rotokas Proper"), Aita Rotokas, and Pipipaia; with a further dialect spoken in Atsilima (Atsinima) village with an unclear status.<ref>Allen and Hurd, 1963. Cited in Robinson 2006: 206. Robinson says "it appears to be heavily influenced by [[language contact|contact]] with [[Ramopa language|Keriaka]]".</ref> Central Rotokas is most notable for its extremely small [[phoneme|phonemic]] inventory and for having perhaps the smallest modern alphabet.<ref>{{cite web|url=http://www.omniglot.com/writing/rotokas.php|title=Rotokas alphabet, pronunciation and language|website=www.omniglot.com|access-date=22 October 2018}}</ref>
+
+==Phonology==
+The Central dialect of Rotokas possesses one of the world's smallest phoneme inventories. (Only the [[Pirahã language]] has been claimed to have fewer.) The alphabet consists of twelve letters, representing eleven [[phoneme]]s. Rotokas has a vowel-length distinction (that is, all vowels have a short and long counterpart) but otherwise lacks distinctive [[Prosody (linguistics)|suprasegmental]] features such as contrastive tone or stress.
+
+===Consonants===
+The consonant inventory embraces the following places of articulation: [[Bilabial consonant|bilabial]], [[Alveolar consonant|alveolar]], and [[Velar consonant|velar]], each with a voiced and an unvoiced consonant. The three voiced members of the Central Rotokas dialect consonant phoneme inventory each have wide allophonic variation. Therefore, it is difficult to find a choice of [[International Phonetic Alphabet|IPA]] symbols to represent them which is not misleading. The voiceless consonants are straightforward [[Voicelessness|voiceless]] [[stop consonant]]s: {{IPA|/p, t, k/ [p, t, k]}}. Robinson (2006) reports that {{IPA|t}} has an [[allophone]] {{IPA|[ts]~[s]}} in the Aita dialect before {{IPA|/i/}}. Firchow & Firchow had reported the same for Central Rotokas,<ref>Firchow & Firchow 1969. Cited in Robinson 2006: 206.</ref> though Robinson contests it is not the case anymore due to widespread bilingualism with [[Tok Pisin]].<ref>Robinson 2006: 206</ref> The voiced consonants are the allophonic sets {{IPA|[β, b, m]}}, {{IPA|[ɾ, n, l, d]}}, and {{IPA|[ɡ, ɣ, ŋ]}}.
+
+It is unusual for languages to lack phonemes whose primary allophone is a [[nasal consonant|nasal]]. Firchow & Firchow (1969) have this to say on the lack of nasal phonemes in the Central Rotokas dialect (which they call ''Rotokas Proper''): "In Rotokas Proper [...] nasals are rarely heard except when a native speaker is trying to imitate a foreigner’s attempt to speak Rotokas. In this case the nasals are used in the mimicry whether they were pronounced by the foreign speaker or not."
+
+Robinson shows that in the Aita dialect of Rotokas there is a three-way distinction required between voiced, voiceless, and nasal consonants. Hence, this dialect has nine consonant phonemes versus six for Rotokas Proper (though no [[minimal pair]]s were found between /g/ and /ŋ/).<ref>Robinson 2006: 207.</ref> The voiced and nasal consonants in Aita are collapsed in Central Rotokas, i.e. it is possible to predict the Central Rotokas form from the Aita Rotokas form, but it is not possible to predict the Aita form from the Central form. For example, {{transl|roo|bokia}} 'day' has /b ~ β/ in both Central and Aita Rotokas, but the second person plural pronoun in Central Rotokas starts with /b ~ β/, /bisi/, but with /m/ in its Aita cognate. Furthermore, Aita was found to have minimal pairs for the voiced labial and alveolar consonants: /buta/ 'time' vs. /muta/ 'taste'. This suggests that the consonant inventory of the ancestor language of Aita and Central Rotokas was more like Aita, and that the small phoneme inventory of Central Rotokas is a more recent innovation.
+
+There does not seem to be any reason for positing phonological [[Manner of articulation|manners of articulation]] (that is, ''plosive, fricative, nasal stop, tap'') in Central Rotokas. Rather, a simple binary distinction of ''voice'' is sufficient.
+
+Since a phonemic analysis is primarily concerned with distinctions, not with phonetic details, the symbols for voiced occlusives could be used: stop {{angbr IPA|b, d, ɡ}} for Central Rotokas, and nasal {{angbr IPA|m, n, ŋ}} for Aita dialect. (In the proposed alphabet for Central Rotokas, these are written {{angbr|v, r, g}}. However, {{angbr|b, d, g}} would work equally well.) In the chart below, the most frequent allophones are used to represent the phonemes.
+
+{| class="wikitable" style="text-align:center;"
+|+ Central Rotokas
+!
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Velar consonant|Velar]]
+|-
+![[Voice (phonetics)|Voiceless]]
+|{{IPA link|p}}
+|{{IPA link|t}}
+|{{IPA link|k}}
+|-
+!Voiced
+|{{IPA link|b}} ~ {{IPA link|β}}
+|{{IPA link|d}} ~ {{IPA link|ɾ}}
+|{{IPA link|ɡ}} ~ {{IPA link|ɣ}}
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ Aita Rotokas
+!
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Velar consonant|Velar]]
+|-
+!Voiceless
+|{{IPA link|p}}
+|{{IPA link|t}}
+|{{IPA link|k}}
+|-
+!Voiced, [[Oral consonant|oral]]
+|{{IPA link|b}} ~ {{IPA link|β}}
+|{{IPA link|d}} ~ {{IPA link|ɾ}}
+|{{IPA link|ɡ}} ~ {{IPA link|ɣ}}
+|-
+!Voiced, [[nasal consonant|nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|{{IPA link|ŋ}}
+|}
+
+===Vowels===
+Vowels may be long (written doubled) or short. It is uncertain whether these represent ten phonemes or five; that is, whether 'long' vowels are distinct speech sounds or mere sequences of two vowels that happen to be the same. The Aita dialect appears not to distinguish length in vowels at all.<ref>Robinson 2006: 209.</ref> Other vowel sequences are extremely common, as in the word ''upiapiepaiveira''.
+
+{| class="wikitable" style="text-align:center;"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPA link|i}} {{IPA link|iː}}
+|
+|{{IPA link|u}} {{IPA link|uː}}
+|-
+![[Close-mid vowel|Close-mid]]
+|{{IPA link|e}} {{IPA link|eː}}
+|
+|{{IPA link|o}} {{IPA link|oː}}
+|-
+![[Open vowel|Open]]
+|
+|{{IPA link|a}} {{IPA link|aː}}
+|
+|}
+
+===Stress===
+It does not appear that stress is phonemic, but this is not certain. Words with 2–3 syllables are stressed on the initial syllable; those with 4 are stressed on the first and third; and those with 5 or more on the antepenultimate (third-last). This is complicated by long vowels, and not all verbal conjugations follow this pattern.
+
+==Grammar==
+Typologically, Rotokas is a fairly typical [[subject–object–verb|verb-final]] language, with [[adjective]]s and demonstrative pronouns preceding the [[noun]]s they modify, and [[postposition]]s following. Although [[adverb]]s are fairly free in their ordering, they tend to precede the verb, as in the following example:
+
+{{interlinear|indent=3
+|osirei-toarei avuka-va iava ururupa-vira tou-pa-si-veira
+|eye-MASC.DU old-FEM.SG POST closed-ADV be-PROG-2.DU.MASC-HAB
+|The old woman's eyes are shut.}}
+
+==Orthography==
+{{Main|Rotokas alphabet}}
+The [[Rotokas alphabet|alphabet]] is perhaps the smallest in use, with only 12 letters of [[ISO basic Latin alphabet]] without any [[diacritic]]s and [[ligature (typography)|ligatures]]. The letters are ''A E G I K O P R S T U V''. ''T'' and ''S'' both represent the phoneme {{IPA|/t/}}, written with ''S'' before an ''I'' and in the name 'Rotokas', and with ''T'' elsewhere. The ''V'' is sometimes written ''B''.
+
+=== Sample texts ===
+{| class="wikitable"
+!№
+!Rotokas
+!Translation (English)
+|-
+!1
+|Osireitoarei avukava iava ururupavira toupasiveira.
+|The old woman's eyes are shut.
+|-
+!2
+|Vo tuariri rovoaia Pauto vuvuiua ora rasito pura-rovoreva. Vo osia rasito raga toureva, uva viapau oavu avuvai. Oire Pauto urauraaro tuepaepa aue ivaraia uukovi. Vara rutuia rupa toupaiva. Oa iava Pauto oisio puraroepa, Aviavia rorove. Oire aviavia rorova.
+|In the beginning God created heaven and earth. The earth was formless and empty, and darkness covered the deep water. The spirit of God was hovering over the water. Then God said, "Let there be light!" So there was light.
+|}
+
+==Vocabulary==
+Selected basic vocabulary items in Rotokas:<ref>Firchow, Irwin B. and Jacqueline Firchow, compilers. 2008. ''[https://www.sil.org/resources/archives/31319 Rotokas-English dictionary]''. Ukarumpa: Summer Institute of Linguistics.</ref>
+:{| class="wikitable sortable"
+! gloss !! Rotokas
+|-
+| bird || kokioto
+|-
+| blood || revasiva
+|-
+| bone || kerua
+|-
+| breast || rorooua
+|-
+| ear || uvareoua
+|-
+| eat || aio
+|-
+| egg || takura
+|-
+| eye || osireito
+|-
+| fire || tuitui
+|-
+| give || vate
+|-
+| go || ava
+|-
+| ground || rasito
+|-
+| hair || orui
+|-
+| hear || uvu
+|-
+| leg || kokotoa
+|-
+| louse || iirui
+|-
+| man || rare pie
+|-
+| moon || kekira
+|-
+| name || vaisia
+|-
+| one || katai
+|-
+| road, path || raiva
+|-
+| see || keke
+|-
+| sky || vuvuiua
+|-
+| stone || aveke
+|-
+| sun || ravireo
+|-
+| tongue || arevuoto
+|-
+| tooth || reuri
+|-
+| tree || evaova
+|-
+| two || erao
+|-
+| water || uukoa
+|-
+| woman || avuo
+|}
+
+==Footnotes==
+{{reflist}}
+
+==References==
+{{Refbegin}}
+* Allen, Jerry & Conard Hurd. ''Languages of the Bougainville district.'' 1963. Ukarumpa: Summer Institute of Linguistics.
+* Firchow, Irwin B., Jacqueline Firchow & David Akoitai. [https://archive.org/stream/rosettaproject_roo_morsyn-1 "Introduction"] ''Vocabulary Rotokas-Pidgin-English,'' pp&nbsp;vii-xii. 1973. Ukarumpa: Summer Institute of Linguistics. (Brief grammatical sketch.)
+* Firchow, Irwin. [https://www.sil.org/system/files/reapdata/51/11/74/5111746506820246556974918357909765330/Rotokas_grammar.pdf ''Rotokas Grammar.''] 1974. Unpublished manuscript.
+* Firchow, Irwin.  [http://www.zapata.org/stuart/linguistics/rotokas/firchow1987/index.shtml"Form and Function of Rotokas Words".] 1987. In ''Language and Linguistics in Melanesia'', vol. 15, pp.&nbsp;5–111.
+* Firchow, Irwin B. & Jacqueline. "An abbreviated phonemic inventory". 1969. In ''Anthropological Linguistics'', vol. 11 #9, pp.&nbsp;271–276.
+* Robinson, Stuart. [http://muse.jhu.edu/journals/oceanic_linguistics/v045/45.1robinson.pdf "The Phoneme Inventory of the Aita Dialect of Rotokas".] 2006. In ''Oceanic Linguistics'', vol. 45 #1, pp.&nbsp;206–209.
+* Wurm, Stephen & S. Hattori. ''Language atlas of the Pacific area.'' 1981. Canberra: Australian Academy of the Humanities.
+{{Refend}}
+
+== Further reading ==
+* {{cite journal|url=http://www-01.sil.org/pacific/png/pubs/928474542258/Rotokas.pdf|title=Organised Phonology Data|last=Firchow|first=Jackie|year=1992|archive-url=https://web.archive.org/web/20180710010414/http://www-01.sil.org/pacific/png/pubs/928474542258/Rotokas.pdf|archive-date=2018-07-10}}
+* {{cite journal|url=http://www-01.sil.org/pacific/png/pubs/928474531319/Rotokas_lex_2008.pdf|title=Rotokas – English Dictionary|year=2008|archive-url=https://web.archive.org/web/20160828143910/http://www-01.sil.org/pacific/png/pubs/928474531319/Rotokas_lex_2008.pdf|archive-date=2016-08-28}}
+* {{cite book |last1=Robinson |first1=Stuart |title=Split intransitivity in Rotokas, a Papuan language of Bougainville |date=2011 |publisher=Ipskamp Printers |location=Nijmegen |url=https://pure.mpg.de/rest/items/item_795664/component/file_2272973/content |access-date=6 January 2022 |format=PDF}}
+
+{{Languages of Papua New Guinea}}
+
+
+[[Category:Languages of the Autonomous Region of Bougainville]]
+[[Category:North Bougainville languages]]

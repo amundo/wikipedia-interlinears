@@ -1,0 +1,120 @@
+{{Short description|Goroka language spoken in Papua New Guinea}}
+{{Infobox language
+  |name=Kamano
+  |region=[[Eastern Highlands Province]]
+  |states=[[Papua New Guinea]]
+  |speakers={{sigfig|63200|2}} 
+|date=2000 census
+|ref=e18
+  |familycolor=Papuan
+  |fam1=[[Trans–New Guinea languages|Trans–New Guinea]]
+  |fam2=[[Kainantu–Goroka languages|Kainantu–Goroka]]
+  |fam3=[[Goroka languages|Goroka]]
+  |fam4=[[Kamano–Yagaria languages|Kamano–Yagaria]]
+  |iso3=kbq
+|glotto=kama1370
+|glottorefname=Kamano
+}}
+'''Kamano''' (Kamano-Kafe) is a [[Papuan languages|Papuan language]] spoken in [[Eastern Highlands Province]], [[Papua New Guinea]].
+
+==Nomenclature==
+The terms 'Kamano' and 'Kamano-Kafe' are both used to refer to the language primarily spoken in [[Henganofi District]], although within the linguistics literature Kamano refers to some varieties within the Kamano-Yagaria group, a dialect chain of [[Eastern Highlands Province]]<ref>Ford, Kevin (1993). "A Preliminary Comparison of Kamano-Yagaria". ''Language and Linguistics in Melanesia'' 24. 191-202.</ref>
+
+== Phonology ==
+=== Consonants ===
+{| class="wikitable" style=text-align:center
+! colspan="2" |
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|- align="center"
+! rowspan="3" |[[Stop consonant|Stop]]
+!<small>voiceless</small>
+|p       
+|t
+|k   
+|ʔ
+|-
+!<small>prenasal</small>
+|ᵐp
+|ⁿt
+|ᵑk
+|
+|-
+!<small>voiced</small>
+|
+|
+|ɡ
+|
+|- align="center"
+! rowspan="2" |[[Fricative consonant|Fricative]]
+!<small>voiceless</small>
+|f
+|s
+|
+|h
+|-
+!<small>voiced</small>
+|β
+|z
+|
+|
+|- align="center"
+! colspan="2" |[[Nasal consonant|Nasal]]
+|m
+|n
+|
+|
+|-
+! colspan="2" |[[Tap and flap consonants|Tap]]
+|
+|ɾ
+|
+|
+|}
+
+* Consonant sounds /p t k m n z/ can have preglottalized sounds [ˀp ˀt ˀk ˀm ˀn ˀz] occurring word-medially.
+* The phoneme /f/ can be in free fluctuation with a voiceless bilabial fricative [ɸ].
+
+=== Vowels ===
+
+{| class="wikitable"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|- align="center"
+![[Close vowel|High]]
+|i
+|
+|u
+|- align="center"
+![[Mid vowel|Mid]]
+|e
+|
+|o
+|- align="center"
+![[Open vowel|Low]]
+|
+|a
+|
+|}
+
+* /e/ can occur as [ɛ] word-initially or word-medially.
+* /a/ can occur word initially as [ʌ].<ref>{{Cite book|last=Drew|first=D. E.|title=The phonemes of Kamano|publisher=|year=1963|isbn=|location=|pages=}}</ref>
+
+==Clause chaining==
+Kamano Kafe exhibits a unique form of the [[clause chaining]] system often described in Papuan languages. Clause chaining in Papuan languages typically involves one or more medial verbs with limited morphological possibilities being under the scope of a more fully inflected final verb. The medial verbs in these clause chains typically use a [[switch reference]] system and various degrees of agreement with final verbs. The Kamano system, unlike other clause chaining systems in New Guinea, has requisite person and number agreement with the subjects of higher clauses.<ref>Elliott, John (2017). "[http://ling.hawaii.edu/wp-content/uploads/wp-elliott-final.pdf Understanding preview-subject clause chains in Kamano Kafe]". ''University of Hawai'i at Manoa Working Papers''.</ref> A typical example is given below.
+
+{{interlinear|indent=3| lang = kbq| ablist = B: Set B pronominal marking; 3P: third person; SR: switch reference
+| Nägra tr-o-ge-nka, kägra tr-an-ke-no', ägra tre-'n-i-e
+| I leave-1P.SG-SR-B.2P.SG you leave-2P.SG-SR-B.3P.SG he leave-PERF-3P.SG-IND
+|"I left, then you left, then he left."}}
+
+==References==
+{{Reflist}}
+
+{{Kainantu–Goroka languages}}
+[[Category:Kainantu–Goroka languages]]
+[[Category:Languages of Eastern Highlands Province]]

@@ -1,0 +1,456 @@
+{{Short description|Austronesian language spoken in Indonesia}}
+{{Infobox language
+|name=Kambera
+|altname=East Sumbanese
+|region=[[Lesser Sunda Islands]]
+|states=[[Indonesia]]
+|speakers=240,000 
+|date=2009
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Central–Eastern Malayo-Polynesian languages|Central–Eastern]]
+|fam4=[[Sumba–Flores languages|Sumba–Flores]] ?
+|fam5=[[Sumba–Hawu languages|Sumba–Hawu]]
+|fam6=[[Sumba languages|Sumba]]
+|fam7=East Sumbanese
+|iso3=xbr
+|glotto=kamb1299
+|glottorefname=Kambera
+|notice=IPA
+}}
+
+'''Kambera''', also known as '''East Sumbanese''', is a [[Malayo-Polynesian languages|Malayo-Polynesian language]] spoken in the [[Lesser Sunda Islands]], [[Indonesia]]. Kambera is a member of Bima-Sumba subgrouping within Central Malayo-Polynesian inside Malayo-Polynesian.<ref>{{harvnb|Klamer|1998}}</ref> The island of Sumba, located in Eastern Indonesia, has an area of 12,297&nbsp;km<sup>2</sup>.<ref>{{harvnb|Klamer|1998}}</ref> The name Kambera comes from a traditional region which is close to a town in Waingapu. Because of export trades which concentrated in [[Waingapu]] in the 19th century, the language of the Kambera region has become the bridging language in eastern Sumba.
+
+==Phonology==
+
+===Vowels===
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA|i iː}}
+| {{IPA|u uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e ai}}
+| {{IPA|o au}}
+|-
+! [[Low vowel|Low]]
+|colspan="2"| {{IPA|a}}, {{IPA|aː}}
+|}
+The [[diphthong]]s {{IPA|/ai/}} and {{IPA|/au/}} function phonologically as the long counterparts to {{IPA|/e/}} and {{IPA|/o/}}, respectively.
+
+===Consonants===
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal stop|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| 
+| {{IPAlink|ŋ}}
+| 
+|-
+! rowspan="3" | [[Plosive]]/<br>[[Affricate]]
+! {{small|plain}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|dʒ}}
+| {{IPAlink|k}}
+| 
+|-
+! {{small|[[Prenasalization|prenasalized]]}}
+| {{IPA|ᵐb}}
+| {{IPA|ⁿd}}
+| {{IPA|ᶮdʒ}}
+| {{IPA|ᵑɡ}}
+| 
+|-
+! {{small|[[Implosive consonant|implosive]]}}
+| {{IPAlink|ɓ}}
+| {{IPAlink|ɗ}}
+| 
+| 
+| 
+|-
+! colspan="2" | [[Fricative]]
+| 
+| 
+| 
+| 
+| {{IPAlink|h}}
+|-
+! colspan="2" | [[Lateral consonant|Lateral]]
+| 
+| {{IPAlink|l}}
+| 
+| 
+| 
+|-
+! colspan="2" | [[Rhotic consonant|Rhotic]]
+| 
+| {{IPAlink|r}}
+| 
+| 
+| 
+|-
+! rowspan="2" | [[Semivowel]]
+! {{small|plain}}
+| {{IPAlink|w}}
+| 
+| {{IPAlink|j}}
+| 
+| 
+|-
+! {{small|[[Prenasalization|prenasalized]]}}
+| 
+| 
+| {{IPA|ᶮj}}
+| 
+| 
+|}
+
+Kambera formerly had {{IPA|/s/}}, but a [[sound change]] occurring around the turn of the 20th century replaced all occurrences of former {{IPA|/s/}} with {{IPA|/h/}}.
+
+==Morpho-syntax==
+
+===[[Affirmation and negation|Negation]]===
+Negators are used in Kambera, and other languages, to make a clause or sentence negative in meaning. Kambera has several types of negators. There are six main types of negators listed below. 
+{| class="wikitable"
+!Negators
+!English translation
+|-
+|nda
+|negation
+|-
+|ndia
+|emphatic negation
+|-
+|ndedi
+|'not yet'
+|-
+|àmbu
+|'won't, don't' (irrealis negation)
+|-
+|àmbu...ndoku
+|'won't/don't...at all'
+|-
+|nda...ndoku
+|'not...at all'
+|}
+
+''Ndia'' 'no' is used for general negation, and ''nda'' 'negative' or ''ndedi'' 'not yet' are predicate negators. ''Ndoku'' is used to emphasise the negation by being placed with the negator ''àmbu'' or ''nda''.<ref name="Klamer 2005 p723">{{harvnb|Klamer|2005|p=723}}</ref>
+
+{{interlinear|number=ex:
+|Ambu bobar ndoku -ma -ya!
+|NEG.IRR preach NEG.EMP -EMP -3SG.ACC.EMP
+|"Do not talk about it at all!"<ref>{{harvnb|Klamer|1998|p=143}}</ref>}}
+
+''Àmbu'' is used to express future negation, as well as negation in [[Imperative mood|imperatives]].<ref name="Klamer 2005 p723" />
+
+{{interlinear|number=ex:
+|Àmbu katuda{{=}}kau nàhu!
+|NEG.IRR sleep{{=}}2SG.ACC now
+|"Don't go to sleep now!"<ref name="Klamer 2005 p723" />}}
+
+Negators are elements in a clause that are deictic. They can be used to refer to time, space and discourse.<ref>{{harvnb|Klamer|1998|p=142}}</ref> Shown below, the negator, ''ndia'' is used to refer to discourse.
+
+{{interlinear|number=ex:
+|Ndia ná!
+|NEG DEI
+|"No!" (not like that)<ref>{{harvnb|Klamer|1998|p=142}}</ref>}}
+
+Two of these negators nda and àmbu – with ''nda'' being a general negator, are used for nominal and verbal predicates. 
+
+{{interlinear|number=ex:
+|Nda ningu ndoku
+|NEG be NEG.EMP
+|"There are none at all."<ref>{{harvnb|Klamer|1998|p=143}}</ref>}}
+
+==== Negators into verbs ====
+The word ''pa'' in Kambera is derivational and can be added to few prepositional nouns, numerals and negators to create verbs. The emphatic negator ''ndia'' 'no' can become a verb through ''pa'' [[Morphological derivation|derivation]]. The translation of this verb then becomes "to deny".<ref>{{harvnb|Klamer|1998|p=184}}</ref>
+
+Example below of how ''ndia'' is constructed into a verb in a given phrase:
+
+{{interlinear|number=ex:
+|na- pa.ndia -ya ba nda na- njala
+|3SG.NOM- pa.no -3SG.ACC.EMP CNJ NEG 3SG.NOM {be/do wrong}
+|"He denied that he did wrong."<ref>{{harvnb|Klamer|1998|p=185}}</ref>}}
+
+==== Noun phrases ====
+A nuclear clause has the [[Predicate (grammar)|predicate]] as the head in Kambera, and [[Grammatical modifier|modifiers]] are positioned at the beginning of the clause. As ''nda'' is a modifier it is placed at the beginning of a clause, as a clause-initial negator, before the verb and the rest of the elements of a nuclear clause.<ref>{{harvnb|Klamer|1998|p=77}}</ref>
+
+You can distinguish nominal clauses from NPs is through the irrealis negator ''àmbu'' and the negator ''nda'', which both never occur inside a possessed NP.<ref>{{harvnb|Klamer|1998|p=99}}</ref>
+
+====[[Clitic|Clitics]]====
+The Kambera word ''nda'' is also considered to be a pro-clitic as well, as they do not conform to the minimal word requirement and must occur with a syntactic/phonological host.<ref>{{harvnb|Klamer|1998|p=27}}</ref> A clitic is a type of bound [[morpheme]] which is syntactically free, but are phonologically bound morphemes. They can attach themselves to a stem, for example the negator ''nda''. ''Nda'' appears before its host and is used to mark negation. It has a very simple phonotactic properties and cannot carry stress. <ref>{{harvnb|Klamer|1998|p=47}}</ref>''Nda'' as a clitic can only ever occur with a host. 
+
+{{interlinear|number=ex:
+|Ka 'nggiki hi nda {{=}}u- 'ita -ka?
+|CNJ why CNJ NEG 2PL.PN- see -1SG.ACC.EMP
+|"Why didn't you see me?"<ref>{{harvnb|Klamer|1998|p=50}}</ref>}}
+
+In the example above, the negator ''nda'' becomes ''nda u-'' [ndaw], with ''nda'' attaching itself to the [[allomorph]] ''u-'' .<ref>{{harvnb|Klamer|1998|p=50}}</ref> ''Nda''  is a proclitic that marks an embedded clause in Kambera.
+
+=== Relative clauses ===
+Negators are also included in [[Relative clause|relative clauses]], but are not a part of the noun phrase. 
+
+{{interlinear|number=ex:
+|[Nda [ndui pa- bohu]<sub>NP</sub>] -ya
+|NEG money RmO- steal -3SG.ACC.EMP
+|"It (is) not stolen money."<ref>{{harvnb|Klamer|1998|p=336}}</ref>}}
+
+=== Pronouns and person markers ===
+Personal pronouns are used in Kambera for emphasis/disambiguation and the syntactic relation between full pronouns and [[clitic]]s is similar to that between NPs and clitics. NPs and pronouns have morphological [[Grammatical case|case]].
+
+{| class="wikitable" style="text-align:center;"
+|+ Personal Pronouns
+|-
+! colspan="2" |
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | nyungga || nyuma
+|-
+! {{small|inclusive}}
+| nyuta
+|-
+! colspan="2" | 2nd person
+| nyumu || nyimi
+|-
+! colspan="2" | 3rd person
+| nyuna || nyuda
+|}
+
+Kambera, as a [[head-marking language]], has rich morpho-syntactic marking on its predicators. The pronominal, aspectual and/or mood clitics together with the predicate constitute the nuclear [[clause]]. Definite verbal arguments are crossreferenced on the predicate for person, number and case ([[Nominative case|Nominative]] (N), [[Genitive case|Gentive]] (G), [[Dative case|Dative]] (D), [[Accusative case|Accusative]] (A)). The four main pronominal clitic paradigms are given below.
+
+{| class="wikitable" style="text-align:center;"
+|-
+! !! Nominative !! Genitive !! Accusative !! Dative 
+|-
+! 1SG
+| ku- || -nggu || -ka || -ngga
+|-
+! 2SG
+| (m)u- || -mu || -kau || -nggau
+|-
+! 3SG
+|  align=center| na- || -na || -ya || -nya
+|- 
+! 1PL.INC
+| ta- || -nda || ta- || -nda
+|-
+! 1PL.EXC
+| ma- || -ma  || -kama ||  -nggama
+|-
+! 2PL
+| (m)i- || -mi || -ka(m)i || -ngga(m)i
+|-
+! 3PL
+| da- || -da || -ha || -nja 
+|}
+
+'''Examples:'''
+{{interlinear|number=(1)
+|apu-nggu
+|granny-1SG.GEN
+|"My granny."}}
+
+{{interlinear|number=(2)
+|ana-na
+|child-3SG.GEN
+|"His child."}}
+
+{{interlinear|number=(3)
+|Kau pa.ta.lunggur-ya na wihi-na
+|scratch {CAU.be sore} ART leg-3SG.GEN
+|"He scratched his leg sore." ({{lit}} "He scratched and caused his leg to be sore")}}
+
+{{interlinear|number=(4)
+|Na-tari-bia nahu angu-na
+|3SG.NOM-watch-MOD now companion-3SG.GEN
+|"He just watches his companion."}}
+
+{{interlinear|number=(5)
+|Ningu uma-nggua
+|be.here house-3SG.GEN
+|"I have a house." ({{lit}} "Here is a house of mine.")}}
+
+{{interlinear|number=(6)
+|Nyuda-ha-ka nahu da ana-nda
+|they-3PL.ACC-PRF now ART child-1PL.GEN
+|"They are our children now."}}
+
+The items in the table below mark person and number of the subject when the clause has continuative aspect.
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | -nggunya || -manya
+|-
+! {{small|inclusive}}
+| -ndanya
+|-
+! colspan="2" | 2nd person
+| -munya || -minya
+|-
+! colspan="2" | 3rd person
+| -nanya || -danya
+|}
+
+'''Examples:'''
+{{interlinear|number=(1)
+|Lunggur-nanya na Ihi-na 
+|scratch-3SG.CONT ART body-3SG.GEN
+|"He is scratching his body."}}
+
+{{interlinear|number=(2)
+|"Laku-nnguya ina", wa-na 
+|go-1SG.CONT mother say-3SG
+|"'I am going, mother,' he said."}}
+
+=== Possession ===
+Kambera has a possessive or reflexive noun ''wiki'' 'self/own', which can be
+used to mark possession (1). 
+
+{{interlinear|number=(1)
+|Uma wiki -nggu
+|house self/own -1SG.GEN
+|'My own house'}}
+
+''Wiki'' has the structural properties of a noun and can be used as a nominal modifier (compare 2 & 3), unlike pronouns which must be cross-referenced on the noun with a genitive clitic (3).<ref>{{harvnb|Klamer|1998|p=130–131}}</ref>
+
+{{interlinear|number=(2)
+|Uma witu -nggu
+|house grass -1SG.GEN
+|'My hut'}}
+
+{{interlinear|number=(3)
+|Uma -nggu nyungga
+|house -1SG.GEN I
+|'My house'}}
+
+As (3) is a possessed noun phrase, the enclitic attaches to the noun. In possessed and modified noun phrases, the genitive enclitic attaches to the noun modifier (4).<ref>{{harvnb|Klamer|1998|p=48}}</ref>
+
+{{interlinear|number=(4)
+|Na uma 'bakul -nggu
+|ART house {be big} -1SG.GEN
+|'My big house'}}
+
+In Kambera, where cross-referencing is used, the noun phrase is optional. A verb along with its pronominal markers constitutes a complete sentence. Pronominal clitics are a morphological way of expressing relationships between syntactic constituents such as a noun and its possessor.<ref>{{harvnb|Klamer|1998|p=60–61}}</ref>
+
+==== Possessor relativisation ====
+Possessors can be relativised with a ''ma-'' relative clause.<ref>{{harvnb|Klamer|1998|p=320–321}}</ref> There are three types of clauses used in the relativisation of possessors.
+
+The first is when the embedded verb is derived from a relational noun such as mother or child. These derived transitive verbs express relations between the subject and the object (5).
+
+{{interlinear|number=(5)
+|Na anakeda [na ma- ina -nya]
+|ART child [ART RmS- mother -3SG.DAT]
+|'the child whose mother she is'/'the child she is the mother of'}}
+
+The second clause type is where the possessor is the head of the ma- relative clause and the possessee is the subject of the embedded verb (6).
+
+{{interlinear|number=(6)
+|Ita -nggu -nya [na tau na ma-meti {kuru uma} -na]
+|See -1SG.GEN -3SG.DAT [ART person ART RmS-die wife -3SG.GEN]
+|'I saw [the man whose wife died]}}
+
+The final type is where the relative clause contains the verb ''ningu'' 'be' and the incorporated argument of this verb. The head of the relative construction is the possessor (7).
+
+{{interlinear|number=(7)
+|Na tau na ma- ningu ihi woka .ng
+|ART person ART RmS- be content garden .ng|c2=N.B: the morpheme ''.ng'' marks the edge of incorporation
+|'the person that has crops' ({{lit}} 'the person whose garden content is')}}
+
+Normally, the possessor pronoun ''nyuna'' 'he/she' follows the possessed noun (8), though it can also be the head of a relativised clause (9).
+
+{{interlinear|number=(8)
+|Na marihak [na kalembi -na nyuna]
+|ART {be dirty} [ART shirt -3SG.GEN he]
+|'His shirt is dirty'}}
+
+{{interlinear|number=(9)
+|Nyuna na [ma- marihak na kalembi -na
+|He ART RmS- {be dirty} ART shirt -3SG.GEN
+|'He whose shirt is dirty'}}
+
+Possessors can also be relativised in the same way as subjects. For example, in the following headless relative clause (no possessor NP is present), a definite article is present (10).
+
+{{interlinear|number=(10)
+|Na ma- rabih karaha kalai -na
+|ART RmS- trickle side left -3SG.GEN
+|'The (one) whose left side trickles (i.e. lets water through)'
+(mythological character that is the source of rain)}}
+
+== Abbreviations ==
+{| class="wikitable"
+!Gloss
+!Meaning
+|-
+|NEG.irr
+|irrealis negator
+|-
+|NEG.emp
+|emphatic negator
+|-
+|EMP
+|emphasis marker
+|-
+|2s
+|2nd person singular
+|-
+|ACC
+|accusative
+|-
+|DEI
+|deictic element (space/time)
+|-
+|3sN
+|3rd person singular nominative
+|-
+|3sA
+|3rd person accusative singular emphatic pronoun
+|-
+|CNJ
+|conjunction
+|-
+|2pN
+|2nd person singular pronoun
+|-
+|1sA
+|1st person accusative singular emphatic pronoun
+|-
+|RmO
+|object relative clause marker
+|}
+
+==Footnotes==
+{{reflist}}
+
+==Bibliography==
+* {{Cite book |last=Klamer |first=Marian |url=https://books.google.com/books?id=bGuF4M1SqZwC |title=A Grammar of Kambera |publisher=Mouton de Gruyter |year=1998 |isbn=3-11-016187-7 |location=Berlin/New York }}
+* {{cite book |last=Klamer |first=Marian |year=2005 |chapter=Kambera |editor=Adelaar, Karl Alexander |editor2=Himmelmann, Nikolaus |title=The Austronesian Languages of Asia and Madagascar |location=London |publisher=Routledge |isbn=0-7007-1286-0 }}
+
+{{Central Malayo-Polynesian languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Sumba languages]]
+[[Category:Languages of Indonesia]]

@@ -1,0 +1,340 @@
+{{Infobox language
+|name=Huallaga Quechua
+|altname= Alto Huallaga
+|nativename=''Wallaqa Runashimi''
+|states=[[Perú]]
+|region=[[Huánuco Province]]
+|speakers=40,000
+|date=1993
+|ref=e18
+|familycolor=American
+|fam1=[[Quechua languages|Quechua]]
+|fam2=[[Quechua I|Central]] (Quechua I)
+|fam3=[[Huánuco Quechua]]
+|iso3 = qub
+|glotto=hual1241
+|glottorefname=Huallaga Huanuco Quechua 
+|map= Location of the province Huánuco in Huánuco.png
+|map2= Peru - Huánuco Department (locator map).svg
+}}
+
+'''Huallaga Quechua''' is a dialect within the [[Alto Pativilca–Alto Marañón–Alto Huallaga Quechua|Alto Pativilca–Alto Marañón–Alto Huallaga]] dialect cluster of the [[Quechua languages]]. The dialect is spoken in the Central [[Huánuco region]] of [[Perú]], primarily in the [[Huánuco Province]] districts of Huánuco, Churubamba, Santa María del Valle, San Francisco de Cayrán, and Conchamarca.<ref name="grammar">Weber, D. J. (1989). A Grammar of Huallaga (Huánuco) Quechua. Berkeley: University of California Press</ref>
+
+== Speakers' influences ==
+As of 1993, Huallaga Quechua was spoken monolingually by 66% of the population of its native speakers,<ref name="e18" /> the remainder of whom are bilingual primarily in Spanish. While communication in Quechua still maintains its cultural value within communities, Spanish is preferred for inter-community use.<ref name="grammar" /> Because of the widespread bilingualism, a portion of Spanish vocabulary (mostly consisting of terms for recently developed technology) has become incorporated in Huallaga Quechua, and conversely the local Spanish has also loaned words from the Quechua dialect. According to David Weber, the [[UCLA]] linguist who published the 1989 grammar of Huallaga Quechua, some now-common phones in Huallaga Quechua are only present in Spanish loanwords and sound-symbolic words, but the language seems to have had no structural influence from Spanish beyond phones and vocabulary.<ref name="grammar" />
+
+== Orthography ==
+Having had no written language until after the [[Spanish conquest of the Inca Empire]], [[Quechua languages]] throughout [[South America]] now use characters from the [[Latin alphabet]]. The system was standardized by the [[Peruvian government]] in the 1970s and 1980s, and David Weber chooses to adhere to the Peruvian Ministry of Education's standards (4023-75) in his grammar. Recent publications in Huallaga Quechua, however, conform to a new standard (0151-84).<ref name ="grammar" />
+
+The Latin symbols for Huallaga Quechua consonants are as follows (cross-reference with phonemic consonants):
+
+=== Orthographic symbols ===
+{| class="IPA wikitable"
+|-
+! colspan=2|
+! [[labial consonant|Bilabial]]
+! [[alveolar consonant|Alveolar]]
+! [[postalveolar consonant|Postalveolar]]
+! [[retroflex consonant|Retroflex]]
+! [[palatal consonant|Palatal]]
+! [[velar consonant|Velar]]
+! [[uvular consonant|Uvular]]
+! [[glottal consonant|Glottal]]
+! [[Labio-velar approximant|Labio-Velar]]
+|- align=center
+! colspan=2| [[Stop consonant|Plosive]]
+|p  b
+|t  d
+|
+|
+|
+|k  g
+|q
+|
+|
+|- align=center
+! colspan=2|[[Nasal stop|Nasal]]
+|m
+|n
+|
+|
+|ñ
+|
+|
+|
+|
+|- align=center
+! colspan=2|[[Flap consonant|Tap/Flap]]
+|
+|r
+|
+|
+|
+|
+|
+|
+|
+|- align=center
+! colspan=2|[[Fricative consonant|Fricative]]
+|
+|s
+|sh
+|  rr
+|
+| 
+|
+|h
+|
+|- align=center
+! colspan=2|[[Affricate consonant|Affricate]]
+|
+|ch
+|
+|
+|
+|
+|
+|
+|
+|- align=center
+! colspan=2|[[Approximant consonant|Approximant]]
+|
+|
+|
+|
+|y
+|
+|
+|
+|w
+|- align=center
+! colspan=2|[[Lateral consonant|Lateral]]
+|
+|l
+|
+|
+|ll
+|
+|
+|
+|
+|}
+
+In the (0151-84) regulations published after the Peruvian Ministry of Education standard, {{IPA|[q]}} is transcribed by {{angbr|g}} and {{IPA|[h]}} by {{angbr|j}}.
+
+Vowels are {{angbr|a, e, i, o, u}}, corresponding to their IPA values. The orthography for a long vowel in the Ministry (4023-75) standard is by doubling the vowel: {{IPA|[aː]}} → {{angbr|aa}}, and the newer (0151-84) regulations apply a diaeresis {{IPA|[aː]}} → {{angbr|ӓ}}.<ref name="grammar" />
+
+== Phonology ==
+=== Phonemic Consonants ===
+{| class="IPA wikitable"
+|-
+! colspan=2|
+! [[labial consonant|Bilabial]]
+! [[alveolar consonant|Alveolar]]
+! [[postalveolar consonant|Postalveolar]]
+! [[retroflex consonant|Retroflex]]
+! [[palatal consonant|Palatal]]
+! [[velar consonant|Velar]]
+! [[uvular consonant|Uvular]]
+! [[glottal consonant|Glottal]]
+! [[Labio-velar approximant|Labio-Velar]]
+|- align=center
+! colspan=2| [[Stop consonant|Plosive]]
+|p  (b)
+|t  (d)
+|
+|
+|
+|k  (g)
+|q
+|
+|
+|- align=center
+! colspan=2|[[Nasal stop|Nasal]]
+|m
+|n
+|
+|
+|ɲ
+|
+|
+|
+|
+|- align=center
+! colspan=2|[[Flap consonant|Tap/Flap]]
+|
+|ɾ
+|
+|
+|
+|
+|
+|
+|
+|- align=center
+! colspan=2|[[Fricative consonant|Fricative]]
+|
+|s
+|ʃ
+|  ʐ
+|
+| 
+|
+|h
+|
+|- align=center
+! colspan=2|[[Affricate consonant|Affricate]]
+|
+|t͡ʃ
+|
+|
+|
+|
+|
+|
+|
+|- align=center
+! colspan=2|[[Approximant consonant|Approximant]]
+|
+|
+|
+|
+|j
+|
+|
+|
+|w
+|- align=center
+! colspan=2|[[Lateral consonant|Lateral]]
+|
+|l
+|
+|
+|ʎ
+|
+|
+|
+|
+|}
+
+Voiced stops occur mainly in sound-symbolic words, e.g. ''bunruru-'', 'to rumble [as thunder]', and words borrowed from Spanish, e.g. ''aabi'', 'small bird', from Spanish ''ave''.<ref name="grammar" />
+
+Huallaga Quechua notably lacks the ejectives and contrastive aspiration of stops present in other Quechua dialects, such as the [[Quechua languages#Phonology|Cuzco dialect]]. The presence of voiced stops primarily in loanwords seems to be common across dialects.
+
+=== Vowels ===
+{| class="IPA wikitable"
+|-
+! colspan=2|
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|- align=center
+! colspan=2| [[High vowel|High]]
+|i
+|
+|u
+|- align=center
+! colspan=2| [[Mid vowel|Mid]]
+|(e)
+|
+|(o)
+|- align=center
+! colspan=2| [[Low vowel|Low]]
+|
+|a
+|
+|}
+
+Both mid vowels in Huallaga Quechua are also Spanish loans. The original three-vowel inventory, contrasting only height and backness, is typical across Quechua dialects.
+
+==== Length ====
+
+Length is contrasted [[phonemically]] in Huallaga Quechua. Though phonetically length is a vocalic feature, the phonological system treats vowel length as a consonant. This becomes especially important in the limitations on syllable structure. See [[#Segmentation|segmentation rules]].
+
+Fine semantic differences may be expressed by vowel length:
+
+{{interlinear|indent=3
+|/kawa- ra- :- t͡ʃu/|c1= → [kawara:t͡ʃu]
+|live- PST- 1- NEG
+|'I did not live'}}
+
+{{interlinear|indent=3
+|/kawa- :- raq- t͡ʃu/|c1= → [kawa:ra:t͡ʃu]
+|live- 1- yet- NEG
+|'I still don't live'}}
+
+In Spanish loanwords, Huallaga Quechua often renders accented syllable stress as vowel length, even if the stress does not fall on the penult.
+
+=== Segmentation ===
+The maximal [[syllable]] structure of Huallaga Quechua is CVC, with V, VC, and CV all being permissible as well. CCC, CC#, #CC, and VV are impermissible.
+* [huk] 'one'
+* [tan.ta] 'bread'
+* [pa.qas.raq] 'yet night'
+* [ka:.ʐu] 'truck'
+
+When segmenting a word in Huallaga Quechua for syllables, the process is systematic and straightforward. Begin from the end of the word, working backwards - all vowels become syllable nuclei. If the word ends in a consonant, that consonant is the coda to the word's final syllable. Any single consonant preceding a vowel is the onset to that syllable. Any two consonants in a row will be spanning a syllable boundary. It is important to keep in mind that consonants in this case include length; a CV: syllable is not an open syllable, but a [[Syllable weight|bimoraic]] closed syllable.
+
+==== ''-ni-'' Insertion ====
+
+The addition of [[morphology (linguistics)|morphological]] [[affixation]] complicates the derivation of felicitous syllables. Certain suffixes begin with consonant clusters or consist of single consonants, including vocalic length. The only environment in which these suffixes would not produce impermissible syllables is following a non-lengthened vowel at the end of a root. The category of possessive suffixes in particular undergoes a syllable insertion process in order to prevent the affixation of these suffixes to bimoraic roots from producing illegal structures. The meaningless syllable ''-ni-'' is inserted at the morpheme boundary where a bimoraic-final root meets a possessive suffix with a consonant that appears before a syllable boundary.
+
+*Infelicitous syllables without ''-ni-'' insertion
+
+:/hatun- + -:/  → *[hatun:] 'my big one'
+
+:/maqa-ma-q- + -n.t͡ʃi:/ → *[maqamaqnt͡ʃi:] 'the one who hit us'
+
+:/ɲatin- + -j.naq/ →  *[ɲatinjnaq] 'not having a liver'
+
+:/papa:- + -n/  → *[papa:n] 'his father'
+
+*Felicitous syllables with ''-ni-'' insertion
+
+:/hatun- + -:/  → [ha.tun.ni:] 'my big one'
+
+:/maqa-ma-q- + -n.t͡ʃi:/ → [ma.qa.maq.nin.t͡ʃi:] 'the one who hit us'
+
+:/ɲatin- + -j.naq/ →  [ɲa.tin.nij.naq] 'not having a liver'
+
+:/papa:- + -n/  → [pa.pa:.nin] 'his father'<ref name="grammar" />
+
+An interesting outlier in this process is the possessive suffix [-joq], whose affixation provokes ''-ni'' insertion optionally. This evidence speaks to the generalization of the morpho-phonological ''-ni-'' insertion rule across the entire morphological category of possessive suffixes rather than truly being a phonologically determined rule.
+
+:/atoq- + -joq/ → [a.toq.ni.joq]
+:/atoq- + -joq/ → [a.toq.joq]<ref name="grammar" />
+
+Two processes, related diachronically, may be hypothesized to explain the development of ''-ni-'' insertion and its potential eventual generalization:
+
+::'''Ia.''' /'NounRoot'- + -'PossessiveSuffix'/ → ['NounRoot-PossessiveSuffix']
+
+::'''IIa.''' ø → [-ni-] / {NounRoot [bimoraic σ]}- ___ -<nowiki/>{[-syl or (+long)] #σ PosSuffix}
+
+In '''Ia''', A noun root gains a possessive suffix at the lexical level, feeding '''IIa''', in which ''-ni-'' is inserted between each bimoraic-final root and pre-syllable-boundary consonant-initial possessive suffix.
+
+::'''Ib.''' /'NounRoot'- + -'PossessiveSuffix'/ → ['NounRoot-PossessiveSuffix']
+
+::'''IIb.''' ø → [-ni-] / {NounRoot}- ___ -<nowiki/>{PosSuffix}
+
+Over time, process '''a''' may have generalized into process '''b''', in which '''Ib''' feeds '''IIb''', allowing a ''-ni-'' to optionally be inserted between any noun root and any possessive suffix.
+
+== Bible Publication ==
+In 2011, the collaborative efforts of the [[American Bible Society]], the Peruvian Bible Society, the [[Summer Institute of Linguistics]], and the JAWCA Quechua Association produced the first [[Bible translations into Native South American languages#Quechuan languages|Bible written in Huallaga Quechua]].<ref>''Tayta Diosninchi isquirbichishan: Quechua del Huallaga, Huánuco (Pillcu Quechua)''. Sociedad Bíblica Peruana, A.C. Casa de la Biblia, 2010. 1903 pp. {{ISBN|9972985830}}, 9789972985836</ref> The publication represented a further step toward the recognition and preservation of all the various dialects of Quechua, many of which have been marginalized.<ref name="biblearticle">{{cite web |url=http://labibliaweb.com/revista-la-biblia-en-las-americas/18045-los-quechuas-del-huallaga-ya-tienen-la-biblia-completa-en-su-idioma.html |title=Archived copy |access-date=2013-05-17 |url-status=dead |archive-url=https://web.archive.org/web/20130118234305/http://labibliaweb.com/revista-la-biblia-en-las-americas/18045-los-quechuas-del-huallaga-ya-tienen-la-biblia-completa-en-su-idioma.html |archive-date=2013-01-18 }}</ref>
+
+== See also ==
+* [[Quechuan and Aymaran spelling shift]]
+
+== External links ==
+{{incubator|qub}}
+
+=== Bible ===
+* [http://www.runasimi.de/chuyaqillqa/bible_ot_qub.pdf Tayta Diosninchi isquirbichishan: Unay Testamento (Old Testament)], [http://www.runasimi.de/chuyaqillqa/bible_nt_qub.pdf Mushoj Testamento (New Testament)]
+* [http://www.omniglot.com/babel/huallagaquechua.htm The story of The Tower of Babel in Huallaga Quechua]
+
+== References ==
+{{reflist}}
+
+{{Quechuan languages}}
+{{Languages of Peru}}
+
+[[Category:Quechuan languages]]
+[[Category:Languages of Peru]]

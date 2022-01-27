@@ -1,0 +1,340 @@
+{{Short description|Pai language spoken in Arizona, US}}
+{{Infobox language
+| name = Havasupai–Hualapai
+| altname = Havasupai-Walapai<br />Upland Yuman
+| region = [[Arizona]], United States
+| ethnicity = 570 [[Havasupai people|Havasupai]], 1,870 [[Hualapai people|Walapai]] (2007)<ref name=e18 />
+| speakers = Hualapai: about 1,000, all ages<ref>{{Cite web|url=http://www.unesco.org/languages-atlas/index.php|title=UNESCO Atlas of the World's Languages in danger|website=www.unesco.org|language=en|access-date=2018-01-23}}</ref>
+| date = 2015 census
+| ref = e18
+| refname = Havasupai‑Walapai‑Yavapai
+| speakers2 = Over 500 Havasupai, all ages (2007)<ref>{{Cite web|url=http://www.unesco.org/languages-atlas/index.php|title=UNESCO Atlas of the World's Languages in danger|website=www.unesco.org|language=en|access-date=2018-01-23}}</ref>
+| familycolor = American
+| fam1 = [[Yuman–Cochimí languages|Yuman–Cochimí]]
+| fam2 = Core Yuman
+| fam3 = Pai
+| dia1 = Havasupai
+| dia2 = Hualapai
+| script = Latin
+| iso3 = yuf
+| iso3comment = Havasupai‑Walapai‑Yavapai
+| map = Hualapai havasupai res.png
+| mapcaption = The Hualapai and Havasupai reservations are circled on this map in purple, where most speakers of the language live.
+| notice = ipa
+| glotto = hava1248
+| glottoname = Havasupai‑Walapai‑Yavapai
+| glotto2 = hava1249
+| glottoname2 = Havasupai
+| glotto3 = wala1270
+| glottoname3 = Walapai
+}}
+
+'''Havasupai–Hualapai''' (Havasupai–Walapai) is the Native American language spoken by the [[Hualapai]] (also spelled ''Walapai'') and [[Havasupai]] peoples of northwestern Arizona. Havasupai–Hualapai belongs to the Pai branch of the [[Yuman–Cochimí languages|Yuman–Cochimí language family]], together with its close relative [[Yavapai language|Yavapai]] and with [[Paipai language|Paipai]], a language spoken in northern Baja California. There are two main dialects of this language: the Havasupai dialect is spoken in the bottom of the [[Grand Canyon]], while the Hualapai dialect is spoken along the southern rim. As of 2010, there were approximately 1500 speakers of Havasupai-Hualapai. [[UNESCO]] classifies the Havasupai dialect as endangered and the Hualapai dialect as vulnerable.<ref>{{Cite web|url=http://www.unesco.org/languages-atlas/index.php|title=UNESCO Atlas of the World's Languages in danger|website=www.unesco.org|language=en|access-date=2018-01-23}}</ref> There are efforts at preserving both dialects through bilingual education programs.<ref name=":1">{{Cite news|url=https://www.ethnologue.com/language/yuf|title=Havasupai-Walapai-Yavapai|work=Ethnologue|access-date=2018-01-23}}</ref>
+
+== Regional variation and mutual intelligibility ==
+
+The modern Hualapai and Havasupai have separate sociopolitical identities, but a consensus among linguists is that the differences in speech among them lie only at the dialect level, rather than constituting separate languages (Campbell 1997:127; Goddard 1996:7; Kendall 1983:5–7; Mithun 1999:577–578), and the differences between the two dialects have been reported as "negligible" (Kozlowski 1976:140).
+
+The language even bears similarity to [[Yavapai language|Yavapai]], and sometimes they are grouped together for means of linguistic classification (see Ethnologue<ref name=":1" />). Regarding the relationship of Havasupai and Hualapai to Yavapai, Warren Gazzam, a [[Tolkapaya Yavapai]] speaker, reported that "they (Hualapais) speak the same language as we do, some words or accents are a little different".<ref>http://cla.berkeley.edu/item/16506</ref>
+
+== Phonology ==
+
+===Consonants===
+For illustrative purposes, the following chart is the consonant inventory of the Hualapai dialect of the language, which varies slightly from the Havasupai dialect. Because the two dialects have different orthographies, IPA symbols are used here. For more information about how these sounds are depicted in writing, see the Orthography section of this page.
+{| class="wikitable"
+|+Consonant sounds in the Havasupai–Hualapai language<ref name=":0">{{Cite book|title=Hualapai reference grammar|last=J.|first=Watahomigie, Lucille|date=1982|publisher=American Indian Studies Center, UCLA|others=Bender, Jorigine., Yamamoto, Akira Y.|isbn=0935626077|location=Los Angeles|oclc=9684147}}</ref>
+! colspan="2" rowspan="2" |
+! rowspan="2" |[[Bilabial consonant|Bilabial]]
+! rowspan="2" |[[Labial consonant|Labial]]
+! rowspan="2" |[[Dental consonant|Dental]]
+! rowspan="2" |[[Alveolar consonant|Alveolar]]
+! rowspan="2" |[[Palatal consonant|Palatal]]
+! colspan="2" |[[Velar consonant|Velar]]
+! colspan="2" |[[Uvular consonant|Uvular]]
+! colspan="2" |[[Glottalic consonant|Glottal]]
+|-
+!<small>plain</small>
+!<small>lab.</small>
+!<small>plain</small>
+!<small>lab.</small>
+!<small>plain</small>
+!<small>lab.</small>
+|- align="center"
+! rowspan="2" |[[Stop consonant|Plosive]]
+!<small>plain</small>
+|p
+|
+|t̪
+|t
+|
+|k 
+|kʷ
+|q
+|qʷ
+|ʔ
+|
+|- align="center"
+!<small>aspirated</small>
+|pʰ
+|
+|t̪ʰ
+|tʰ
+|
+|kʰ
+|
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Fricative consonant|Fricative]]
+|β
+|f, v
+|θ
+|s          
+|
+|
+|
+|
+|
+|h
+|
+|- align="center"
+! rowspan="2" |[[Affricate consonant|Affricate]]
+!<small>plain</small>
+|
+|
+|
+|
+|t͡ʃ
+|
+|
+|
+|
+|
+|
+|- align="center"
+!<small>aspirated</small>
+|
+|
+|
+|
+|t͡ʃʰ
+|
+|
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Nasal consonant|Nasal]]
+|m
+|
+|
+|n
+|ɲ
+|ŋ
+|
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Lateral consonant|Lateral]]
+|
+|
+|
+|l
+|
+|
+|
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Flap consonant|Flap]]
+|
+|
+|
+|ɾ
+|
+|
+|
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Approximant consonant|Approximant]]
+|w
+|
+|
+|
+|j
+|
+|
+|
+|
+|
+|
+|}
+As shown from the chart above, [[Aspiration (linguistics)|aspiration]] is a [[Contrastive distribution|contrastive]] feature in many stops and affricates in Hualapai-Havasupai. Often, consonant sounds are realized in different ways in different phonetic environments. For example, if a glottal stop occurs at the beginning of a word, it may sometimes be replaced by a vowel such as /a/.<ref name=":0" />
+
+The phonemic difference between /β/ and /v/ is widely discussed in the literature. Watahomigie et al. poses that the use of /β/ is attributed to older generations of Hualapai dialect speakers,<ref name=":0" /> and Edwin Kozlowski notes that in the Hualapai dialect, [v] is weakened to [β] in weak-stressed syllables. Thus, the underlying form /v-ul/ "to ride" surfaces as [βəʔul].<ref>{{Cite journal|last=Kozlowski|first=Edwin|date=1976|title=Remarks on Havasupai Phonology|jstor=1264876|journal=International Journal of American Linguistics|volume=42|issue=2|pages=140–149|doi=10.1086/465402|s2cid=144426997}}</ref>
+
+Long and short vowels are contrastive in the language. The following is a minimal pair illustrating of the phonemic contrast of Havasupai-Hualapai vowel length: 'pa:ʔ' (meaning person) vs. 'paʔ' (meaning arrow).<ref>{{Cite book|title=A comparative study of Yuman consonantism.|last=Campbell.|first=Wares, Alan|date=1968|publisher=Mouton|isbn=9783111274690|location=The Hague|oclc=647259333}}</ref>
+{| class="wikitable"
+|+Vowel phonemes<ref name=":0" />
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|- align="center"
+![[Close vowel|Close]]
+|i iː
+|
+|u uː
+|- align="center"
+![[Mid vowel|Mid]]
+|e eː
+|
+|o oː
+|- align="center"
+! rowspan="2" |[[Open vowel|Open]]
+|æ æː
+|
+|
+|- align="center"
+|
+|a aː
+|
+|}
+Short vowels may sometimes be reduced to [ə] or dropped completely when they occur in an unstressed syllable, primarily in a word-initial context. In addition to this chart, there are four attested diphthongs that are common for this language: /aʊ/ as in 'cow', /aɪ/ as in 'lie', /eɪ/ as in 'they', and /ui/ as in 'buoy'.<ref name=":0" />
+
+=== Stress ===
+Havasupai-Hualapai's prosodic system is [[Isochrony|stress-timed]], which governs many parts of the phonological structure of the language, including where long vowels occur, what kind of consonant clusters can occur and where, and how syllable boundaries are divided. There are three types of [[Stress (linguistics)|stress]]: primary, secondary, and weak. All vowels can have any of these three types of stress, but [[syllabic consonant]]s can only have weak stress. Primary stresses occur at regularly timed intervals in an utterance. Secondary stresses occur according to an alternating-stress system, which most commonly dictates that two secondary stresses follow a primary stressed (phonetically long) vowel.<ref name=":2">{{Cite journal|last=Redden|first=James E.|date=1966|title=Walapai I: Phonology|jstor=1263444|journal=International Journal of American Linguistics|volume=32|issue=1|pages=1–16|doi=10.1086/464875|s2cid=143497172}}</ref>
+
+=== Syllabic structure ===
+The most common syllable structures that occur in Havasupai-Hualapai are CV, CVC, and VC; however, consonant clusters of two or three consonants can and do occur initially, medially, and finally.<ref>{{Cite book|title=Walapai Phonology and Morphology|last=Redden|first=James E.|publisher=Indiana University|year=1965}}</ref>
+
+At word boundaries, syllabification breaks up consonant clusters to CVC or CV structure as much as is possible. CCC and CCCC clusters occur, but they are always broken up by a syllable boundary (that is, C-CC/CC-C or CC-CC). Syllable-initial CC clusters are either composed of (1) /θ/, /s/, or /h/, followed by any consonant or (2) any consonant followed by /w/.<ref name=":2" />
+
+== Morphology ==
+Morphologically, Hualapai-Havasupai is classified by WALS as weakly suffixing.<ref>{{Cite web|url=http://wals.info/languoid/lect/wals_code_hlp|title=WALS Online - Language Hualapai|website=wals.info|language=en|access-date=2018-02-14}}</ref> There are different affixes for nouns, verbs, and particles in Hualapai-Havasupai, and there exist suffixes that can change nouns to verbs and vice versa. The affixes that exist—apart from word roots—are generally short in phonemic length, restricted to C, CV, VC, or V in composition.<ref name=":3">{{Cite journal|last=Redden|first=James E.|date=1966|title=Walapai II: Morphology|jstor=1263689|journal=International Journal of American Linguistics|volume=32|issue=2|pages=141–163|doi=10.1086/464892|s2cid=144260487}}</ref>
+
+=== Verbs ===
+Verbs are marked for person (first, second, and third) through the prefixes /a-/, /ma-/, and /ø-/, respectively. Many other affixes attach to the verb to reveal information like tense, [[Grammatical aspect|aspect]], [[Linguistic modality|modality]], number, adverbial qualities, and conjunctivity. The verb suffixes /-wi/ and /-yu/ are divisive for verbs and are weak-stressed by-forms of /wí/, meaning ''do'', and /yú/, meaning ''be.'' These occur on all verbs. The three numbers that can be marked in verbs are singular, [[paucal]] plural, and multiple plural. There are six types of aspect, and any verb can have as many as three and as few as zero aspect markers. The six types are distributive-iterative, continued, interrupted, perfective, imperfective, and habitual.<ref name=":3" />
+
+=== Nouns ===
+Nouns are marked for number, case, [[definiteness]], and [[demonstrative]]ness, as can be seen by the lists of noun suffixes and prefixes below:
+* Noun prefixes
+** Subordinate: /-ɲi/ 'subordinate to, related to'
+** Intensive: /vi-/ 'very, just'
+* Noun suffixes
+** Number: /-t͡ʃ/ paucal plural, /-uv/ multiple plural, no affix for singular number
+** Demonstrative: /-ɲ/ that, /-v/ this
+** Definiteness: /-a/ the (a certain), /-i/ the (this other), /-u/ the (that other), /-o/, the former (that)
+** Case: /-t͡ʃ/ nominative, /-ø/ accusative, /-k/ allative-adessive, /-l/ illative-inessive, /-m/ ablative-abessive
+** Appellative: /-é/ vocative<ref name=":3" />
+
+=== Particles ===
+Particles exist as interjections, adverbs, possessive pronouns, and articles. There are relatively few particles that exist in the language. They can be marked through prefixes for subordination and intensity in the same way as nouns and through the suffix /-é/, which indicates adverbial place.<ref name=":3" />
+
+== Syntax ==
+
+=== Word order ===
+Havasupai-Hualapai's basic word order is [[Subject–object–verb|S-O-V]]. For noun phrases, [[Article (grammar)|articles]], such as [[demonstrative]]s, occur as suffixes.
+
+=== Case marking ===
+Havasupai-Hualapai has a [[Nominative–accusative language|nominative/accusative]] case marking system, as mentioned in the morphology section.
+
+=== Noun incorporation ===
+It is said that [[Incorporation (linguistics)|noun incorporation]] occurs in the language.<ref>{{Cite book |title=The vanishing languages of the Pacific rim|date=2007|publisher=Oxford University Press|others=Miyaoka, Osahito; Sakiyama, Osamu; Krauss, Michael E.|isbn=978-0199266623|location=Oxford|oclc=252684427}}</ref> This is notable with verbs of belonging, such as with the noun "nyigwáy(ya)," meaning "shirt." To say "to be wearing a shirt" the noun form "nyigwáy" is incorporated into the verb, appearing with a prefix for person, and suffixes for reflexiveness and auxiliaries. The noun form obligatorily also occurs before its incorporated verb form:
+
+{{interlinear|number=(1)
+|nyigwáy '-nyiggwa:y(-v)-wi
+|shirt 3/1-shirt(-REFL)-AUX
+|"I have a shirt on."}}
+
+Similar processes occur with kinship terms and verbs of belonging such as with the following noun "bi:", which means "female's brother's child/nephew/niece":<ref name=":0" />
+
+{{interlinear|number=(2)
+|e'e '-bi:-v-wi
+|yes 3/1-nephew-REFL-AUX
+|"Yes, I have a nephew/niece."}}
+
+This can be considered a more iconic form of noun incorporation, as the noun doesn't also occur outside the incorporate verb form.
+
+=== Switch-reference ===
+Havasupai-Hualapai, like other Yuman languages, is known for its [[switch-reference]]. This is a mechanism that illustrates whether the subjects are the same for multiple verbs within a sentence. The marker "-k" states that the subject-references are identical, and the marker "-m" is used when the first and second subjects are different for two verbs. The following sentences are examples of each, with the markers bolded for illustrative purposes:<ref name=":0" />
+
+: <u>Identical subject-reference "-k"</u>
+{{interlinear|number=(3)
+|Rhiannon-ch he'-h tuy'''-k''' dathgwi:l'''-k'''-wi-ny
+|Rhiannon-SUBJ dress-DEM {3/3.take off}-'''SS''' 3/3.wash-'''SS'''-AUX-PAST
+|"Rhiannon took off the dress and washed it.}}
+
+Note that in the following sentence, both subject markers are used:
+
+: <u>Different subject-reference "-m"</u>
+{{interlinear|number=(4)
+|John(a)-ch Mary baeq'''-m''' mi:-k-i-ny
+|John-SUBJ Mary 3/3.hit-'''DS''' 3.cry-SS-AUX-PAST
+|"John hit Mary and she (Mary) cried."}}
+
+== Orthography ==
+Havasupai and Hualapai have developed separate orthographies in order to distinguish the two tribes socially and culturally. Hualapai's orthography was developed in the 1970s partly as an effort to preserve the language for pedagogical and historical purposes.<ref name=":0" /> Both of the orthographies are adapted from the [[Latin script|Latin Script]].<ref name=":1" />
+
+{|class="wikitable"
+|+ Hualapai alphabet (1979){{sfn|Watahomigie ''et al.''|1982|p=27}}{{,}}{{sfn|Watahomigie ''et al.''|1984|p=14}}
+| a || ae || b || ch || d
+| đ || e || f || g || h
+| i || k || l || m || n
+|-
+| ny || ng || o || p || q
+| s || t || th || ŧ || u
+| v || w || y || ’
+|}
+
+==Havasupai dialect==
+
+[[File:Havasupai training class.jpg|thumb|Havasupai language class.]]
+This dialect is spoken by approximately 639 people on the [[Havasupai Indian Reservation]] at the bottom of the [[Grand Canyon]]. According to a 2015 ''[[The New York Times|New York Times]]'' article, it was considered the only [[Native American languages|Native American language]] in the [[United States]] spoken by 100% of its tribal members.<ref>{{Cite news|url=https://www.nytimes.com/2015/09/06/travel/grand-canyon-havasu-falls.html|title=Within the Grand Canyon, the Lure of Havasu Falls|last=Cepeda|first=Raquel|date=2015-09-04|work=The New York Times|access-date=2018-01-23|language=en-US|issn=0362-4331}}</ref> Also as of 2005, Havasupai remained the first language of residents of [[Supai, Arizona|Supai Village]], the tribal government seat.<ref>{{Cite web|url=http://library.nau.edu/speccoll/exhibits/indigenous_voices/havasupai/overview.html|title=Indigenous Voices of the Colorado Plateau – Havasupai Overview|year=2005|work=Cline Library|access-date=2012-12-02}}</ref>
+
+The Lord's Prayer, John 3:16, and hymns were printed in Havasupai in 1934.
+
+As of 2004, "a Wycliffe Bible Translators project ... under way to translate the Old and the New Testaments into the Havasupai language" was progressing slowly.<ref>{{Cite news|url=http://www.deseretnews.com/article/595056397/The-farthest-church.html?pg=all|title=The farthest church|last=Lynn Arave|date=2004-04-17|work=Deseret News|access-date=2012-12-02}}</ref>
+
+==See also==
+* [[Havasu 'Baaja]], the people generally called ''Havasupai'' by English-speakers.
+
+==Bibliography==
+* [[Campbell, Lyle]]. (1997). ''American Indian Languages: The Historical Linguistics of Native America''. Oxford University Press.
+* [[Goddard, Ives]]. (1996). "Introduction". In ''Languages'', edited by Ives Goddard, pp.&nbsp;1–16. Handbook of North American Indians, William C. Sturtevant, general editor, Vol. 17. Smithsonian Institution, Washington, D.C.
+* Kendall, Martha B. (1983). "Yuman languages". In ''Southwest'', edited by Alfonso Ortiz, pp.&nbsp;4–12. Handbook of North American Indians, William C. Sturtevant, general editor, Vol. 10. Smithsonian Institution, Washington, D.C.
+* [[Langdon, Margaret]]. (1996). "Bibliography of the Yuman languages". ''Survey of California and Other Indian Languages'' 9:135–159.
+* [[Mithun, Marianne]]. (1999). ''The Languages of Native North America''. Cambridge: Cambridge University Press.
+* Kozlowski, Edwin. (1976). "Remarks on Havasupai phonology". In ''International Journal of American Linguistics'', pp.&nbsp;140–149. Vol. 42, No. 2.
+* Watahomigie, Lucille J., Jorigine Bender, Philbert Watahomigie, Sr. and Akira Y. Yamamoto with Elnor Mapatis, Malinda Powskey and Josie Steele. (2001). Hualapai Reference Grammar. (ELPR Publications A2-003). Kyoto, Japan: Endangered Languages of the Pacific Rim Project.
+* Watahomigie, Lucille J., Jorigine Bender, Malinda Powskey, Josie Steele, Philbert Watahomigie, Sr. and Akira Y. Yamamoto. (2003). A Dictionary of the Hualapai Language. (ELPR Publications A2-041). Kyoto, Japan: Endangered Languages of the Pacific Rim Project.
+
+==References==
+{{Reflist}}
+
+==Further reading==
+* "A dictionary of the Havasupai language". [[Leanne Hinton|Hinton, Leanne]]. Supai, Arizona 1984.
+* "Gwe gnaavja". Havasu Baaja / Havasupai Tribe, Bilingual Education Program. Supai, Arizona 1985.
+* "Havsuw gwaawj tñudg siitja". Havasupai Bilingual Education Program. Supai, Arizona 1970s(?).
+* "Baahj muhm hatm hwag gyu". Hinton, Leanne et al., prepared by the Havasupai Bilingual Education Program. Supai, Arizona 1978.
+* "Tim: Tñuda Hobaja". Hinton, Leanne et al., prepared by the Havasupai Bilingual Education Program (authors credited as "Viya Tñudv Leanne Hinton-j, Rena Crook-m, Edith Putesoy-m hmug-g yoovjgwi. Clark Jack-j"). Supai, Arizona 1978–1984.
+
+{{Hokan languages}}
+{{Languages of Arizona}}
+{{authority control}}
+
+{{DEFAULTSORT:Havasupai-Hualapai language}}
+[[Category:Havasupai–Hualapai language| ]]
+[[Category:Hualapai]]
+[[Category:Yuman–Cochimí languages]]
+[[Category:Indigenous languages of Arizona]]

@@ -1,0 +1,350 @@
+{{Infobox language
+|name=Wappo
+|states=[[United States]]
+|region=[[Alexander Valley]], [[California]]
+|ethnicity=[[Wappo people]]
+|extinct=1990, with the death of Laura Fish Somersal
+|familycolor=American
+|fam1=[[Yuki–Wappo languages|Yuki–Wappo]]
+|iso3=wao
+|glotto=wapp1239
+|glottorefname=Wappo
+|map=Wappo language map.png
+|mapcaption=Pre-contact distribution of the Wappo language
+|notice=IPA
+}}
+'''Wappo''' is an [[extinct language|extinct]] language that was spoken by the [[Wappo]] tribe, Native Americans who lived in what is now known as the [[Alexander Valley]] north of [[San Francisco]]. The last fluent speaker, Laura Fish Somersal, died in 1990. The loss of this language is attributed to the general use of English in schools and workplaces.<ref name="JOS">Sawyer, Jesse O., "Wappo studies" (1984). ''Survey Reports''. Report #7.</ref>
+
+Wappo is generally believed to be distantly related to the [[Yuki language]]. It is distinguished by influence of [[Pomoan languages]].<ref>{{cite book| last = Golla| first = Victor| title = California Indian Languages| year = 2011| publisher = University of California Press| isbn = 978-0-520-26667-4 }}</ref>
+
+According to Somersal, the English name for the people and language is derived from the Spanish word ''guapo'', meaning "handsome" or "brave".<ref name="TPL">{{cite book| last1 = Thompson| first1 = Sandra A.| last2 = Park| first2 = Joseph Sung-Yul| last3 = Li| first3 = Charles N.| title = A Reference Grammar of Wappo| year = 2006| publisher = University of California Press| isbn = 978-0-520-09854-1 }}</ref> The people called themselves ''Micewal''.<ref name="Loeb">{{cite book |last1=Loeb |first1=E. M. |title=The Western Kuksu Cult |date=1932 |publisher=University of California Press |page=106 |url=https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp033-002.pdf |archive-url=https://web.archive.org/web/20191206234154/https://digitalassets.lib.berkeley.edu/anthpubs/ucb/text/ucp033-002.pdf |url-status=dead |archive-date=2019-12-06 |language=en}}</ref> The Pomoan [[exonym]], or name for them, was ''Ashochimi'' ("northerners").<ref>{{cite book |last1=Kroeber |first1=A. L. |title=Handbook of the Indians of California |date=1925 |publisher=Bureau of American Ethnology |page=219 |hdl=2027/mdp.39015006584174?urlappend=%3Bseq=279 |url=https://hdl.handle.net/2027/mdp.39015006584174?urlappend=%3Bseq=279}}</ref><ref>{{cite book| last1 = Powers| first1 = Stephen| last2 = Powell| first2 = John Wesley| title = Tribes of California| url = https://archive.org/details/bub_gb_j6YqAAAAMAAJ| year = 1877| publisher = U.S. Government Printing Office }}</ref>
+
+[[Paul Radin]] published the first texts on Wappo grammar in the 1920s. Jesse O. Sawyer published ''English-Wappo Vocabulary'' in 1965 and continued to study Wappo grammar throughout his life. Other linguists who have contributed to the study of Wappo include William E. Elmendorf, Alice Shepherd, [[Sandra Thompson (linguist)|Sandra Thompson]], Joseph Sung-Yul Park, and Charles N. Li.<ref name="JOS" />
+
+==Phonology==
+
+===Vowels===
+Wappo has five vowel qualities, but the literature is inconsistent as to whether a length distinction exists. In his Wappo lexicon, Sawyer transcribes long vowels, but Thompson et al., who worked with the same speaker, report that they did not hear any long vowels.<ref name="TPL" /><ref name="vocab">Sawyer, Jesse O., "English-Wappo Vocabulary" (Aug 25, 1965). UC Publications in Linguistics. Paper vol_43.</ref>
+
+According to Radin, the following diphthongs occur in Wappo: /ao/, /ai/, /ɛo/, /ɛi/, /ɛu/, /ei/, /ɔi/, /iɛ/, and /ui/.<ref>Radin, Paul. 1929. A grammar of the Wappo language. University of California Publications in American Archaeology and Ethnology 27:1-194.</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! 
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Low vowel|Low]]
+| colspan=2 | {{IPA link|a}}
+|}
+
+===Consonants===
+The transcription style (bolded symbols below) is based on Sawyer's work with Somersal, with further interpretation by Thompson, Park and Li.  Thompson et al. propose that Wappo has three types of stops: plain, aspirated and glottalized. Stops plus /h/ are therefore treated as single aspirated stops.<ref name="TPL" /> Sawyer notes that /f/, /d/, /g/, /r/ and /rʼ/ are used for Spanish borrowings.<ref name="vocab" />
+
+{| class="IPA wikitable"
+! colspan=2|
+! align="center"|[[Bilabial consonant|Labial]]
+! align="center"|[[Dental consonant|Dental]]
+! align="center"|[[Alveolar consonant|Alveolar]]
+! align="center"|[[Palatal consonant|Palatal]]
+! align="center"|[[Velar consonant|Velar]]
+! align="center"|[[Glottal consonant|Glottal]]
+|-
+! rowspan=3|[[Plosive]]
+! <small>[[Voiceless consonant|voiceless]]</small>
+| align="center"|'''p''' {{IPAblink|p}}
+| align="center"|'''t''' {{IPAblink|t̻}}
+| align="center"|'''ṭ''' {{IPAblink|t̺}}
+| align="center"|
+| align="center"|'''k''' {{IPAblink|k}}
+| align="center"|'''ʔ''' {{IPAblink|ʔ}}
+|-
+! <small>[[Aspiration (phonetics)|aspirated]]</small>
+| align="center"|'''pʰ''' {{IPAblink|pʰ}}
+| align="center"|'''tʰ''' {{IPAblink|t̻ʰ}}
+| align="center"|'''ṭʰ''' {{IPAblink|t̺ʰ}}
+| align="center"|
+| align="center"|'''kʰ''' {{IPAblink|kʰ}}
+| align="center"|
+|-
+! <small>[[Glottalization|glottalized]]</small>
+| align="center"|'''pʼ''' {{IPAblink|pʼ}}
+| align="center"|'''tʼ''' {{IPAblink|t̻ʼ}}
+| align="center"|'''ṭʼ''' {{IPAblink|t̺ʼ}}
+| align="center"|
+| align="center"|'''kʼ''' {{IPAblink|kʼ}}
+| align="center"|
+|-
+! rowspan=2|[[Affricate consonant|Affricate]]
+! <small>[[Voiceless consonant|voiceless]]</small>
+| align="center"| 
+| align="center"|
+| align="center"|'''c''' {{IPAblink|t͡s}}
+| align="center"|'''č''' {{IPAblink|t͡ʃ}} 
+| align="center"| 
+| align="center"|
+|-
+! <small>[[Glottalization|glottalized]]</small>
+| align="center"|
+| align="center"|
+| align="center"|'''cʼ''' {{IPAblink|t͡sʼ}} 
+| align="center"|'''čʼ''' {{IPAblink|t͡ʃʼ}}
+| align="center"|
+| align="center"|
+|-
+! rowspan=1|[[Fricative]]
+! <small>[[Voiceless consonant|voiceless]]</small>
+| align="center"|
+| align="center"|
+| align="center"|'''s''' {{IPAblink|s}}
+| align="center"|'''š''' {{IPAblink|ʃ}}
+| align="center"|
+| align="center"|'''h''' {{IPAblink|h}}
+|-
+! rowspan=2|[[Nasal stop|Nasal]]
+! <small>[[Phonation|plain]]</small>
+| align="center"|'''m''' {{IPAblink|m}}
+| align="center"|
+| align="center"|'''n''' {{IPAblink|n}}
+| align="center"|
+| align="center"|
+| align="center"|
+|-
+! <small>[[Glottalization|glottalized]]</small>
+| align="center"|'''mʼ''' {{IPAblink|mʼ}}
+| align="center"|
+| align="center"|'''nʼ''' {{IPAblink|nʼ}}
+| align="center"|
+| align="center"|
+| align="center"|
+|-
+! rowspan=2|[[Approximant consonant|Approximant]]
+! <small>[[Phonation|plain]]</small>
+| align="center"|'''w''' {{IPAblink|w}}
+| align="center"|
+| align="center"|'''l''' {{IPAblink|l}}
+| align="center"|'''y''' {{IPAblink|j}}
+| align="center"| 
+| align="center"|
+|-
+! <small>[[Glottalization|glottalized]]</small>
+| align="center"|'''wʼ''' {{IPAblink|wʼ}}
+| align="center"|
+| align="center"|'''lʼ''' {{IPAblink|lʼ}}
+| align="center"|'''yʼ''' {{IPAblink|jʼ}} 
+| align="center"|
+| align="center"| 
+|}
+
+The above table omits {{angbr|ch}} /cʰ/ [{{IPA link|tsʰ}}] and {{angbr|čh}} /čʰ/ [{{IPA link|tʃʰ}}].
+
+===Stress and tone===
+Wappo word stress is predictable, in that the first syllable of the [[word stem]] is [[word stress|stressed]].  In the examples below, the accent marks stress.
+* ''méhwa'' "wild grape vine"
+* ''kálkuʔ'' "greyhound"
+Wappo does not make distinctions in tone.
+
+===Phonological processes===
+* Glottal stops are inserted word-initially in words that would otherwise begin with a vowel.
+* If a word stem ends in a vowel and a suffix immediately following the stem begins with a vowel, one of those vowels is [[elision|elided]].  In most cases, the vowel at the beginning of the suffix is deleted. For example, ''čoči-iʔ'', which is the root "weave" plus the [[durative]] suffix, has the surface representation of ''čoči?''.<ref name="TPL" />
+
+==Morphology==
+
+===Nouns===
+Nouns can be divided into human and non-human classes, which is relevant for pluralization.  Human nouns are consistently inflected for plurality, but non-human nouns do not have to be inflected for plurality, even when their reference is in fact plural.  For example, ''onoʔšiʔ-te'' "Indians" has the plural suffix ''-te'', but ''mansanaʔi '' "apples" lacks the suffix.<ref name="TPL" />
+
+===Verbs===
+Wappo also has rich inflectional and derivational morphology in its verb phrases.  There are five categories of [[Grammatical tense|tense]] or [[Grammatical aspect|aspect]]: habitual/progressive, stative, past, [[inchoative]] and future.  Each verb root takes at least two forms to which suffixes are added. The form used depends on the tense.  The forms themselves are determined by the verb's semantic class, which is basically determined by the habitual/progressive suffix used. Specific suffixes result in changes to the verb stem, for example, ''-lik-'' is added to the root of verbs occurring with the rare imperative suffix ''-laʔ''. This occurs in the imperative for "sleep", in which the stem is changed from ''hinto-'' to ''hintolik-''.  [[Epenthesis]] also occurs in certain situations, depending on the form of the root and the suffix added.<ref name="TPL" />
+
+Thompson et al. provide the following examples of tense/aspect categories.  The relevant forms are bolded, and all of the forms follow Sawyer's transcription style.
+{| class="wikitable"
+|-
+! Category
+! Suffix(es)
+! Wappo example
+! English translation
+|-
+| Habitual/progressive
+| 13 different forms exist
+| ah yekhe '''k'el-iʔ'''
+| "I eat acorn mush"
+|-
+| Stative
+| -khiʔ
+| i-meʔ c'ic'-i '''čhoʔel-khiʔ'''
+| "my bird has died"
+|-
+| Past
+| -taʔ
+| ah leʔa mey-ocow '''el-taʔ'''
+| "I dug many swamp-roots"
+|-
+| Inchoative
+| -iš and -eš
+| ah '''yomtoʔ-iš-khiʔ'''
+| "I've become a doctor"
+|-
+| Future
+| -ya:miʔ (more certain) and -siʔ (less certain)
+| miʔ may' '''ohk'eč'e-siʔ'''
+| "[be careful-] you'll cut yourself"
+|}
+
+Negatives are marked by the suffix ''lahkhiʔ''.
+{{interlinear|indent=3|paʔ -ta -'''lahkhiʔ'''|eat -PST -NEG|"did not eat"}}
+{{interlinear|indent=3|ah te oyaʔ keʔ - tis - ta - '''lahkhiʔ'''|1SG:NOM 3SG pot break - CAUS - PST - NEG|"I didn’t make him/her break the pot"}}
+
+Prefixes are also added to verb phrases.  There are speaker-oriented directional prefixes which are grouped into two classes, depending on whether the motion of the verb is directed at or away from the speaker. In narrative contexts, the direction may refer to a character. For example, two directional prefixes are ''ma-'' "away from speaker" and ''te-'' "toward speaker".  Non-speaker-oriented directional prefixes include ''ho-'', meaning "around" and ''pi-'', meaning "accidentally".  Wappo also includes pre-verbal [[desiderative mood|desiderative]] and [[optative mood|optative]] mood particles.  The desiderative particle, ''k'ah'', is used to indicate that the speaker wishes something were true. The optative particle, ''keye'', is translated as "could", "can", or "should".
+
+==Syntax==
+
+===Word order===
+Wappo has a predicate-final word order.
+
+{{interlinear|indent=3|cephi onoʔšiʔ okel haṭel - khiʔ|3SG:NOM Indian language learn - STAT|"s/he's learning Indian language"}}
+
+[[Patient]]-initial structures are acceptable, albeit less common.
+
+{{interlinear|indent=3|ce ew ce k'ew - i t'um - taʔ|DEM fish DEM man - NOM buy - PST|"that fish, the man bought (it)"}}
+
+Wappo allows for more freedom in word order in complement clauses, especially when they have first person subjects.  All three sentences below are acceptable translations of "I know that the man caught a fish".
+
+{{interlinear|indent=3|ah ce k'ew ew ṭ'oh - taʔ haṭis - khiʔ|1SG:NOM DEM man fish catch - PST know - STAT|}}
+{{interlinear|indent=3|ah haṭis - khiʔ ce k'ew ew ṭ'oh - taʔ|1SG:NOM know - STAT DEM man fish catch - PST|}}
+{{interlinear|indent=3|ce k'ew ew ṭ'oh - taʔ ah haṭis - khiʔ|DEM man fish catch - PST 1SG:NOM know - STAT|}}
+
+In noun phrases, demonstrative and genitive modifiers precede the noun, while numerals and adjectives follow the noun.
+
+{{interlinear|indent=3|he tonči|DEM cat|"this cat"}}
+{{interlinear|indent=3|te - meʔ č'ešma|3SG - GEN bed|"his/her bed"}}
+{{interlinear|indent=3|hinta hopoka ah k'ešu mehlahi - khiʔ|day three 1SG:NOM deer hunt - STAT|"for three days, I was hunting"}}
+
+In verb phrases, [[oblique argument]]s and adverbs come before the verb.
+
+{{interlinear|indent=3|ah kaphe kawaču - k'a hak' - šeʔ|1SG:NOM coffee sugar - COM want - DUR|"I want coffee with sugar in it"<ref name="TPL" />}}
+
+===Case system===
+Wappo has a rich case system which uses suffixes to mark cases.  In the examples below, the words relevant to the case being discussed are in boldface.
+
+The [[accusative case]] is [[Marked nominative alignment|unmarked]]. Patients, arguments of transitive verbs that are patient-like, all subjects in dependent clauses and single arguments in copulas take the accusative case.
+ 
+{{interlinear|indent=3|ce '''k'ew''' ceʔeʔ i ek'a|DEM man COP 1SG|"that man is my son"}}
+
+The [[nominative case]] is marked with the suffix ''-i''.  Words functioning as initiators, agents, experiencers of transitive verbs and the single argument of an intransitive verb take the nominative case.  If the noun stem to which this suffix is added happens to ends with a vowel, the stem-final vowel is dropped or changed.  Otherwise, adding the nominative suffix does not change the stem.  The examples below illustrate the contrast.  
+* ''pol'eʔ'' "boy" → ''pol'eʔi'' "boys"
+* ''k'ešu'' "deer (singular)" → ''k'eši'' "deer (plural)"
+
+The [[dative case]], which is used to indicate the recipient or direction, is marked with ''-thu''.  
+{{interlinear|indent=3|chic -i i '''-thu''' te- laha -khiʔ|bear -NOM 1SG -DAT DIR- come -STAT|"the bear is coming toward me"}}
+
+The [[benefactive case]] is marked with ''-ma''.  It is used to mark whom the action benefits.  
+{{interlinear|indent=3|'''may-''' '''ma''' miʔ ce takaʔ mes-taʔ|who- BENEF 2SG:NOM DEM basket make-PST|"who did you make that basket for?"}}
+
+The [[instrumental case]], used with intensive reflexives and instruments, is marked with ''-thiʔ''.  
+{{interlinear|indent=3|cephi '''kuči:ya''' - '''thiʔ''' chica ṭ'oh - taʔ|3SG:NOM knife - INST bear kill - PST|"s/he killed the bear with a knife"}}
+
+The [[comitative case]] is marked with ''-k'a'' and is used to indicate accompaniment.
+{{interlinear|indent=3|ah '''mi''' '''-k'a''' čo: -siʔ|1SG:NOM 2SG -COM go -FUT|"I’ll go with you"}}
+
+The [[genitive case]] is marked with ''-meʔ''. It can only be used in constructions with [[alienable possession]]. (Inalienable possession is expressed through the juxtaposition of the two relevant nouns.)
+{{interlinear|indent=3|'''i''' - '''meʔ''' luč - i lakhiʔ|1SG - GEN tobacco - NOM missing|"I don’t have any cigarettes"}}
+
+Wappo also has a [[locative case]], which is marked with suffixes such as ''-pi'' "away from" and ''-cawoh'' "on top of".
+{{interlinear|indent=3|thal -i '''čhuya''' '''-cawoh''' te- cewte -khiʔ|what -NOM house -on:top DIR- fall -STAT|"what fell on the roof?" <ref name="TPL" />}}
+
+==Questions==
+
+===Yes-no questions===
+To mark yes-no questions, a question particle, /hVʔ/, is added after the verb. It does not have to directly follow the verb.  The particle's vowel [[vowel harmony|harmonizes]] with the vowel that precedes it. In all of the examples blow, the question word is glossed as "Q" and is also in boldface. 
+{{interlinear|indent=3|uh miʔ c'ey - taʔ '''haʔ'''|already 2SG:NOM finish - PST Q|"have you finished already?}}
+{{interlinear|indent=3|miʔ i hak' -šeʔ '''heʔ'''|2SG:NOM 1SG like -DUR Q|"do you like me?"}}
+{{interlinear|indent=3|te ceʔ mi ek'a '''haʔ'''|3SG COP 2SG son Q|"is he your son?"}}
+
+The particle is usually at the end of the sentence, but as the example below demonstrates, it is not always sentence-final. Its location depends on the composition of the verb phrase. 
+{{interlinear|indent=3|luče neʔ - khiʔ '''hiʔ''' miʔ|tobacco have - STAT Q 2SG:NOM|"do you have any cigarettes?"}}
+
+===Question-word questions===
+Question words are usually located clause-initially. 
+{{interlinear|indent=3|'''iṭa''' miʔ i yok' -okh hak' -šeʔ|where 2SG:NOM 1SG sit -INF want -DUR|"where do you want me to sit?"}}
+
+Question words can also get case inflection, except in cases of inalienable possession, where no suffix is added. 
+{{interlinear|indent=3|'''may''' '''-i''' oyok' -eʔ|who -NOM win -DUR|"who’s winning?"}}
+{{interlinear|indent=3|'''thal''' '''-i''' čhuya -cawote- cewte -khiʔ|what -NOM house -on:top-DIR- fall -STAT|"what fell on the roof?"}}
+
+Question words can also be used as indefinite pronouns.
+{{interlinear|indent=3|cephi '''thal''' t'um'i - khiʔ|3SG:NOM what go:buy - STAT|"s/he went to buy something"}}
+{{interlinear|indent=3|'''may''' '''-i''' i naw- ta -lahkhiʔ|who -NOM 1SG see -PST- NEG|"nobody saw me"<ref name="TPL" />}}
+
+==Language contact and influence==
+[[Language contact]] with Spanish has influenced Wappo's sound structure and vocabulary.  As listed above in the consonant section, /f/, /d/, /g/, /r/ and /rʼ/ are used for Spanish borrowings.  Many of the first words borrowed from Spanish into Wappo referred to items that were traded.  In some cases, words may have been borrowed from other American Indian languages in contact with Spanish, rather than directly from Spanish. Below are two examples of borrowings from Spanish.
+
+* ''čičaloʔ'' "pea" was borrowed from ''chícharo'' 
+* ''háros'' "rice" was borrowed from ''arroz''<ref name="JOS" />
+
+While contact with English has not greatly influenced Wappo's lexicon, it has influenced its syntax.  Thompson et al. cite the sentences below as examples of an expanded use of the [[benefactive case]] that could have arisen from contact with English.  
+{{interlinear|indent=3|'''kaphe''' - '''ma''' ah mey k'o - taʔ|coffee - BENEF 1SG:NOM water boil - PST|"I boiled water for coffee"}}
+{{interlinear|indent=3|[he takaʔ -i] '''i''' '''-ma''' eniya c'iti -khi? [čoč -ukh]|DEM basket -NOM 1SG -BENEF very hard -STAT weave -INF|"this basket was very hard for me to make"}}
+
+While Wappo has a predicate-final structure, question words are clause-initial in most cases.  This is unexpected, and possibly resulting from English influence.  
+{{interlinear|indent=3|'''may''' miʔ naw -taʔ|who 2SG:NOM see -PST|"who did you see?"}}
+
+In another potential example of English influence, the word ''neʔ-khiʔ'' "have" is used in [[deontic modality|deontic expressions]], and its meaning is adapted as "have to".
+{{interlinear|indent=3|ah čoh -ukh '''neʔ''' '''-khiʔ''' maʔa heʔ|1SG:NOM go -INF have -STAT just now|"I have to go right now"<ref name="TPL" />}}
+
+==Regional variation==
+Wappo had 5 [[variety (linguistics)|varieties]]:
+
+* Clear Lake Wappo
+* Russian River Wappo ({{a.k.a.}} Western Wappo)
+* Northern Wappo
+* Central Wappo
+* Southern Wappo
+
+==See also==
+* [[Wappo]]
+* [[Yuki–Wappo languages]]
+
+==References==
+{{Reflist}}
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+BENEF:benefactive case
+DIR:directional prefixes
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Bibliography==
+* {{cite book| last = Campbell| first = Lyle| title = American Indian Languages The Historical Linguistics of Native America| year = 1997| publisher = New York : Oxford University Press| isbn = 978-0-19-509427-5 }}
+* {{cite book| last1 = Sturtevant| first1 = William C.| last2 = Goddard| first2 = Ives| title = Handbook of North American Indians Languages| year = 1996| publisher = Government Printing Office| isbn = 978-0-16-048774-3 }}
+* {{cite book| last = Mithun| first = Marianne| title = The Languages of Native North America| year = 1999| publisher = New York : Cambridge University Press| isbn = 978-0-521-23228-9 }}
+* {{cite book| last1 = Powers| first1 = Stephen| last2 = Powell| first2 = John Wesley| title = Tribes of California| url = https://archive.org/details/bub_gb_j6YqAAAAMAAJ| year = 1877| publisher = U.S. Government Printing Office }}
+* [[Paul Radin|Radin, Paul]]. 1929. ''A grammar of the Wappo language''. University of California Publications in American Archaeology and Ethnology 27:1-194.
+* Sawyer, Jesse O., ''English-Wappo Vocabulary'' (Aug 25, 1965). UC Publications in Linguistics. Paper vol. 43.
+* Sawyer, Jesse O., "Wappo studies" (1984). Survey Reports. Report #7.
+* [[William C. Sturtevant|Sturtevant, William C.]] (Ed.). (1978–present). ''Handbook of North American Indians'' (Vol. 1-20). Washington, D. C.: Smithsonian Institution. (Vols. 1–3, 16, 18-20 not yet published).
+* {{cite book| last1 = Thompson| first1 = Sandra A.| last2 = Park| first2 = Joseph Sung-Yul| last3 = Li| first3 = Charles N.| title = A Reference Grammar of Wappo| year = 2006| publisher = University of California Press| isbn = 978-0-520-09854-1 }}
+
+==External links==
+*[http://wieldoc.org/?page_id=27 Wappo Language Project] at the [[Western Institute for Endangered Language Documentation]]
+* [http://linguistics.berkeley.edu/~survey/languages/wappo.php Wappo language] overview at the [[Survey of California and Other Indian Languages]]
+* [https://archive.org/details/rosettaproject_wao_vertxt-2 Wappo Texts]
+* [http://www.language-archives.org/language/wao OLAC resources in and about the Wappo language]
+* [http://cla.berkeley.edu/language/1040?search_within_string=&tab=collections&drestriction=all Wappo, California Language Archive]
+* [http://score.rims.k12.ca.us/activity/wappo/pages/language.html Wappo Indians of Napa County: Language]
+* [https://escholarship.org/content/qt0dv86220/qt0dv86220.pdf?t=krnoaa A Reference Grammar of Wappo]
+
+{{Languages of California}}
+{{Authority control}}
+
+[[Category:Yuki–Wappo languages]]
+[[Category:Indigenous languages of California]]
+[[Category:Extinct languages of North America]]
+[[Category:Wappo|language]]
+[[Category:History of Sonoma County, California]]
+[[Category:Languages extinct in the 1990s]]

@@ -1,0 +1,194 @@
+{{Short description|Cariban language spoken in South America}}
+{{for|the ethnic group|Macushi}}
+{{Infobox language
+|name=Macushi
+|nativename=
+|states=[[Brazil]], [[Guyana]], a few in [[Venezuela]] [[Huicholes]] in Mexico.
+|ethnicity=[[Macushi people|Macushi]]
+|speakers=18,000
+|date=2006
+|ref=e18
+|familycolor=American
+|fam1=[[Cariban languages|Cariban]]
+|fam2   = Venezuelan Carib
+|fam3   = Pemóng–Panare 
+|fam4   = Pemóng
+|iso3=mbc
+|glotto=macu1259
+|glottorefname=Macushi
+}}
+
+'''Macushi''' is an indigenous language of the Carib family spoken in Brazil, Guyana and Venezuela. It is also referred to as ''Makushi'', ''Makusi'', ''Macuxi'', ''Macusi,'' ''Macussi,'' ''Teweya'' or ''Teueia''. It is the most populous of the [[Cariban languages]]. According to Instituto Socioambiental, the Macushi population is at an estimated 43 192, with 33 603 in [[Brazil]], 9500 in [[Guyana]] and 89 in [[Venezuela]].<ref name=":1">{{Cite web|url=https://pib.socioambiental.org/en/Povo:Macuxi|title=Macuxi - Indigenous Peoples in Brazil|website=pib.socioambiental.org|access-date=2019-07-17}}</ref> In Brazil, the Macushi populations are located around northeastern [[Roraima]], Rio Branco, Contingo, Quino, Pium and Mau rivers. Macuxi speakers in Brazil, however, are only estimated at 15 000. 
+
+Crevels (2012:182) lists Macushi as “potentially endangered”,<ref>{{Citation|last=Crevels|first=Mily|chapter=Language endangerment in South America: The clock is ticking|publisher=DE GRUYTER|isbn=9783110258035|doi=10.1515/9783110258035.167|title=The Indigenous Languages of South America|year=2012}}</ref> while it is listed on the UNESCO Atlas of the World’s Languages in Danger as “vulnerable”.<ref>{{Cite web|url=http://www.unesco.org/languages-atlas/|title=UNESCO Atlas of the World's Languages in danger|website=www.unesco.org|access-date=2019-07-17}}</ref> Its language status is at 6b (Threatened). The Macushi communities live in areas of language contact: [[Portuguese language|Portuguese]] in Brazil, [[English language|English]] in Guyana and [[Wapishana language|Wapixana]] (another indigenous language). Abbott (1991) describes Macushi as having [[OVS word order]], with [[SOV word order]] being used to highlight the subject.<ref name="hdbkAmazonian">
+{{cite book|title=Handbook of Amazonian Languages|last=Abbott|first=Miriam|date=1991|publisher=Mouton de Gruyter|editor1-last=Derbyshire|editor1-first=Desmond C.|volume=3|pages=23–160|chapter=Macushi|editor2-last=Pullum|editor2-first=Geoffrey K.}}
+</ref>
+
+==History==
+Based on information provided by anthropologist Paulo Santilli for Instituto Socioambiental, the Macuxi people have faced adversity since the 18th century, due to the presence of non-indigenous groups.<ref name=":1" /> Located at the frontier of Brazil and Guyana, generations have been forced to migrate from their territory due to the establishment of Portuguese settlements, the influx of [[Extractivism|extractivists]] (who came for the rubber) and developers (who came to extract metals and precious stones), and more recently, the insurgence of “grileiros” that counterfeit land titles in order to take over and sell the land. These settlers set up mission villages and farms. Towards the last decades of the 19th century, as the [[Amazon rubber boom|rubber industry]] boomed and local administration obtained autonomy, the ''regionals'', referring to the merchants and extractivists, advanced the colonial expansion. Subsequently, forced migration continued to occur due to the rise of cattle-raising in the region. Villages were abandoned and escape plans were hatched due to the arrival of the colonizers. To this day, these memories are still preserved in the [[Oral history|oral histories]] of the Macushi people. Since early 20th century, local political leaders have also stepped up to champion for their land rights.
+
+Nowadays, the Macushi territory in Brazil consists of three territorial blocks: [[Raposa Serra do Sol]] Indigenous Territory (the most extensive and populated), San Marcos Indigenous Territory and small areas that surround isolated villages in the extreme northwest of the Macushi Territory. In the 1970s, Macushi political leaders started to step up, acting as mediators between their indigenous community members as well as the agents of national society. While these areas were officially recognized and demarcated as official indigenous territories in 1993, however, it has not been a smooth road for the Macushi communities. Since then, the Brazilian government has set up school and hospitals for the Macushi community. 
+
+==Phonology==
+
+=== Consonants ===
+{|class="wikitable" style=text-align:center
+|+Consonants<ref name=":0">{{Citation|url=http://etnolinguistica.wdfiles.com/local--files/tese%3Acunha-2004/CunhaCarlaMaria.pdf|title=Um estudo de fonologia da língua Makuxi (karib): inter-relações das teorias fonológicas|lang=pt|year=2004|author=Carla Maria Cunha}}</ref>
+|-
+! colspan="3" |
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan="2" colspan="2" | [[Stop consonant|Stop]]
+! {{small|Voiceless}}
+| {{IPA link|p}}<br />&nbsp;{{IPA|pː}}
+|
+| {{IPA link|t}}<br />&nbsp;{{IPA|tː}}
+|
+| {{IPA link|k}}<br />&nbsp;{{IPA|kː}}
+| {{IPA link|ʔ}}
+|-
+! {{small|Voiced}}
+| {{IPA link|b}}
+|
+| {{IPA link|d}}
+|
+| {{IPA link|ɡ}}
+|
+|-
+! rowspan="2" colspan="2" | [[Fricative consonant|Fricative]]
+! {{small|Voiceless}}
+|
+|
+| {{IPA link|s}}
+| {{IPA link|ʃ}}
+|
+| {{IPA link|h}}
+|-
+! {{small|Voiced}}
+| {{IPA link|β}}
+| {{IPA link|ð}}
+| {{IPA link|z}}
+| {{IPA link|ʒ}}
+|
+|
+|-
+! colspan="3" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+|
+| {{IPA link|n}}
+| {{IPA link|ɲ}}
+| {{IPA link|ŋ}}
+|
+|-
+! colspan="3" | [[Flap consonant|Flap]]
+|
+|
+| {{IPA link|ɾ}}
+|
+|
+|
+|-
+! colspan="3" | [[Approximant consonant|Approximant]]
+| {{IPA link|w}}
+|
+|
+| {{IPA link|j}}
+|
+|
+|}
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+|+Vowels
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|- align="center"
+![[Close vowel|Close]]
+| {{IPA link|i}}
+| {{IPA link|ɨ}}
+| {{IPA link|u}}
+|- align="center"
+! rowspan="2" |[[Mid vowel|Mid]]
+| {{IPA link|e}}
+| rowspan="2" | {{IPA link|ə}}
+| {{IPA link|o}}
+|-
+| {{IPA link|ɛ}}
+| {{IPA link|ɔ}}
+|- align="center"
+![[Open vowel|Open]]
+| 
+| {{IPA link|a}}
+|
+|}
+Nasality also occurs, and is transcribed with a {{IPA|[ã]}} mark.<ref name=":0" />
+
+The suprasegmental system consists of a high and low or unmarked pitch at the word level”,<ref name=":2">{{Cite journal|last=Carson|first=Neusa M|date=1981|title=Phonology and morphosyntax of Macuxi (Carib).|journal=University of Kansas. Doctoral Dissertation.}}</ref> such as in: átí ‘you go’ and ‘àtí’ ‘he goes’. High pitch is considered the marked pitch, and can be found on the final, penultimate or antepenultimate syllable of the word. 
+
+==Syntax==
+
+=== Numerals ===
+Macuxi numerals precede the noun they modify. When both the demonstrative and numeral occur before the noun, it is irrelevant to the semantic value of the noun. It is also acceptable for the numeral to start a nominal clause.<ref name=":2" /> 
+
+{{interlinear|number=1.
+|saki-naŋ a’anai yepuupî imî-rîî-seŋ
+|two-NOM-PL cornstalk skin ripe-DET-NOM
+|‘Two ears of corn are ripe.’}}
+
+{{interlinear|number=2.
+|saakrîrî-on-koŋ ma-ni kanoŋ
+|four-NOM-POSS-PL those guava
+|'Those four guavas.}}
+
+=== Quantifiers ===
+According to Carson, the native numeral system in Macushi is not adequate to express large numbers. The following quantifiers would be used instead:
+{| class="wikitable"
+!Macushi
+!English
+|-
+|tamîmarî
+|'all'
+|-
+|pampî
+|'more/much'
+(more as an intensifier)
+|-
+|mara-rî
+|'little/few'
+|-
+|mara-rî-perá
+|'several'
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[[wikt:Appendix:Macushi words|Macushi words on Wiktionary]] by Guy Marco Sr
+*[https://ids.clld.org/contributions/173 Macushi] ([[Intercontinental Dictionary Series]])
+*{{Citation|url=http://etnolinguistica.wdfiles.com/local--files/tese%3Acunha-2004/CunhaCarlaMaria.pdf|title=A Study of the Phonology of the Macushi Language|lang=pt}}
+*{{Cite web|url=http://www.native-languages.org/macushi_words.htm|title=Macushi Words (Makushi, Makusi, Macusi)}}
+*{{Cite web|url=https://www.omniglot.com/pdfs/colours.pdf|title=Colour words in Macushi}}
+*{{Cite book|url=https://www.scriptureearth.org/data/mbc/PDF/00-WNTmbc-web.pdf|title=The New Testament in the Macushi Language of Brazil}}
+
+
+{{Languages of Brazil}}
+{{Languages of Guyana}}
+{{Languages of Venezuela}}
+{{Cariban languages}}
+[[Category:Cariban languages]]
+[[Category:Indigenous languages of the South American Northeast]]
+[[Category:Languages of Brazil]]
+[[Category:Languages of Guyana]]
+[[Category:Languages of Venezuela]]
+[[Category:Object–subject–verb languages]]
+[[Category:Subject–object–verb languages]]
+
+{{na-lang-stub}}

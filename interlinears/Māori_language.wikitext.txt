@@ -1,0 +1,1003 @@
+{{short description|Polynesian language spoken in New Zealand}}
+{{Redirect|Te Reo|the television channel |Te Reo (TV channel)}}
+{{Use New Zealand English|date=April 2017}}
+{{Use dmy dates|date= November 2017}}
+{{Infobox language
+| name = Māori
+| nativename = {{lang|mi|Māori}}, {{lang|mi|Te reo Māori}}
+| states = [[New Zealand]]
+| region = [[Polynesia]]
+| ethnicity = [[Māori people]]
+| speakers = Some 50,000 people report that they speak the language well or very well;<ref name="tereoMaori"/>
+| date = 
+| ref = 
+| speakers2 = 149,000 self-report some knowledge of the language.<ref name="Ethnologue"/>
+| familycolor = Austronesian
+| fam2 = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+| fam3 = [[Oceanic languages|Oceanic]]
+| fam4 = [[Polynesian languages|Polynesian]]
+| fam5 = [[Eastern Polynesian languages|Eastern Polynesian]]
+| fam6 = [[Tahitic languages|Tahitic]]
+| fam7 = Māori–[[Moriori language|Moriori]]
+| script = [[Latin script|Latin]] ([[Māori alphabet]])<br />[[Māori Braille]]
+| nation = {{NZL}}
+| agency = [[Māori Language Commission]]
+| iso1 = mi
+| iso2b = mao
+| iso2t = mri
+| iso3 = mri
+| glotto = maor1246
+| glottorefname = Maori
+| glottopedia = Maori
+| lingua = 39-CAQ-a
+| map = Idioma maorí.PNG
+| mapcaption = 
+| ietf = mi-NZ
+| notice = IPA
+}}
+{{Māori sidebar |expanded=language}}
+'''Māori''' ({{IPA-mi|ˈmaːɔɾi|lang|Rar-Māori.ogg}}), also known as '''{{lang|mi|te reo}}''' ('the language'), is an [[Eastern Polynesian languages|Eastern Polynesian language]] spoken by the [[Māori people]], the indigenous population of [[New Zealand]]. Closely related to [[Cook Islands Māori]], [[Tuamotuan language|Tuamotuan]], and [[Tahitian language|Tahitian]], it gained recognition as one of New Zealand's [[official language]]s in 1987. The number of speakers of the language has declined sharply since 1945,<ref name=":2" /> but a [[Māori-language revitalisation effort]] has slowed the decline.
+
+The [[2013 New Zealand census]] reported that about 149,000 people, or 3.7% of the New Zealand population, could hold a conversation in Māori about everyday things.<ref name="Ethnologue">{{cite web |title = Maori |url= https://www.ethnologue.com/language/mri |publisher= [[Ethnologue| Ethnologue: Languages of the World]] | access-date= 29 June 2017}}</ref><ref name="Māori language speakers">{{cite web |title= Māori language speakers |url= http://www.stats.govt.nz/browse_for_stats/snapshots-of-nz/nz-social-indicators/Home/Culture%20and%20identity/maori-lang-speakers.aspx |publisher= [[Statistics New Zealand]] |access-date= 2 September 2017 |date= 2013}}</ref> {{As of| 2015}}, 55% of Māori adults reported some knowledge of the language; of these, 64% use Māori at home and around 50,000 people can speak the language "very well" or "well".<ref name="tereoMaori">{{cite web |title= Ngā puna kōrero: Where Māori speak te reo – infographic |url= https://www.stats.govt.nz/infographics/nga-puna-korero-where-maori-speak-te-reo-infographic |publisher= Statistics New Zealand |access-date= 2 September 2017}}</ref>
+
+The Māori language did not have an indigenous writing system. Missionaries arriving from about 1814, such as [[Thomas Kendall]], learned to speak Māori, and introduced the [[Latin script|Latin alphabet]]. In 1817, [[Tītore]] and his junior relative, Tui, sailed to England.<ref name=NZETC1>{{Cite web |url=http://nzetc.victoria.ac.nz/tm/scholarly/tei-SmiMaor-t1-body-d12b.html |title=Maori Wars of the nineteenth century: 1816 |publisher=[[Victoria University of Wellington]] |work=New Zealand Electronic Text Collection}}</ref> They visited Professor [[Samuel Lee (linguist)|Samuel Lee]] at the [[University of Cambridge]] and assisted him in the preparation of a grammar and vocabulary of Māori. [[Thomas Kendall]] travelled to London with [[Hongi Hika]] and Waikato (a lower-ranking [[Ngāpuhi]] chief) in 1820, during which time further work was done with Professor Lee, who gave phonetic spellings to a written form of the language, which resulted in a definitive [[orthography]] based on [[North Island]] usage.<ref name="TIT3">{{cite web|first= Ron | last= Brownson | title = Outpost | date = 23 December 2010 |url= http://aucklandartgallery.blogspot.com.au/2010/12/wonderful-letter-from-titore.html|publisher= Staff and friends of Auckland Art Gallery Toi o Tāmaki|access-date= 13 January 2018}}</ref> By 1830, the [[Church Missionary Society |Church Missionary Society (CMS)]] missionaries had revised the orthography for writing the Māori language; for example, ''Kiddeekiddee'' became, as in the modern spelling, {{lang|mi|[[Kerikeri]]}}.<ref name="TMR55">{{cite web |title= The Missionary Register |pages= 54–55 |date= 1831 |url= http://www.enzb.auckland.ac.nz/document/?wid=3065&page=0&action=null |publisher = [[Early New Zealand Books]] (ENZB), [[University of Auckland Library]] |access-date= 9 March 2019}}</ref> Māori distinguishes between long and short vowels; modern written texts usually mark the long vowels with a [[Macron (diacritic)|macron]]. Some older texts represent long vowels with double letters (for example: {{lang|mi|Maaori}} rather than {{lang|mi|Māori}}); for modern exceptions see {{section link|#Long vowels}} below.
+
+== Name ==
+The English word comes from the Māori language, where it is spelled {{lang|mi|Māori}}. In New Zealand, the Māori language is often referred to as {{lang|mi|te reo}} {{IPA-mi|tɛ ˈɾɛ.ɔ|}} ('the language'), short for {{lang|mi|te reo Māori}}.<ref name="Higgins">{{cite encyclopedia|last1=Higgins |first1=Rawinia|last2=Keane|first2=Basil|title=Te reo Māori – the Māori language|url=https://teara.govt.nz/en/te-reo-maori-the-maori-language |encyclopedia=[[Te Ara: The Encyclopedia of New Zealand]]|access-date=29 June 2017|date=1 September 2015}}</ref>
+
+The spelling {{angbr|Maori}} (without a [[macron (diacritic)|macron]]) is standard in English outside New Zealand in both general and linguistic usage.<ref name="Ethnologue"/><ref>{{cite encyclopedia |title=Maori language |url=https://www.britannica.com/topic/Maori-language |encyclopedia=[[Encyclopedia Britannica]] |access-date=29 June 2017}}</ref> The Māori-language spelling {{angbr|Māori}} (with a macron) has become common in [[New Zealand English]] in recent years, particularly in Māori-specific cultural contexts,<ref name="Higgins"/><ref name="Language Act">{{cite web |title=Māori Language Act 1987 No 176 (as at 30 April 2016), Public Act Contents – New Zealand Legislation |url=http://www.legislation.govt.nz/act/public/1987/0176/latest/DLM124116.html |website=legislation.govt.nz |access-date=29 June 2017 }}</ref> although the traditional English spelling is still prevalent in general media and government use.<ref>For example: {{cite web |title=Maori and the Local Government Act |url=https://www.dia.govt.nz/diawebsite.nsf/wpg_URL/Resource-material-Effectiveness-For-Maori-Index |publisher=[[New Zealand Department of Internal Affairs]] |access-date=29 June 2017 }}</ref>
+
+Preferred and alternate pronunciations in English vary by dictionary, with {{IPAc-en|ˈ|m|aʊ|r|i}} being most frequent today, and {{IPAc-en|m|ɑː|ˈ|ɒr|i}}, {{IPAc-en|ˈ|m|ɔr|i}}, and {{IPAc-en|ˈ|m|ɑːr|i}} also given, while the 'r' is always a [[Alveolar trill|rolled r]].<ref>The New Oxford American Dictionary (Third Edition); Collins English Dictionary – Complete & Unabridged 10th Edition; Dictionary.com</ref>
+
+== Official status ==
+{{Further|Languages of New Zealand}}
+New Zealand has three official languages: English, Māori, and [[New Zealand Sign Language]].<ref>{{Cite web |url=http://www.socialreport.msd.govt.nz/people/official-languages.html |title=Official languages |publisher=New Zealand Government |archive-url=https://web.archive.org/web/20121209051916/http://www.socialreport.msd.govt.nz/people/official-languages.html |archive-date=2012-12-09 |access-date=8 June 2012}}</ref> Māori gained this status with the passing of the [[Maori Language Act 1987|Māori Language Act 1987]].<ref>{{cite web |url=http://www.tetaurawhiri.govt.nz/act87/3.shtml |title=Recognition of Māori Language |publisher=New Zealand Government |access-date=29 December 2011 |archive-url=https://web.archive.org/web/20120207104608/http://www.tetaurawhiri.govt.nz/act87/3.shtml |archive-date=7 February 2012 |url-status=dead }}</ref> Most government departments and agencies have bilingual names—for example, the [[Department of Internal Affairs (New Zealand)|Department of Internal Affairs]] is alternatively {{lang|mi|Te Tari Taiwhenua}}—and places such as local government offices and public libraries display bilingual signs and use bilingual stationery. [[New Zealand Post]] recognises Māori place-names in [[postcodes in New Zealand|postal addresses]]. Dealings with government agencies may be conducted in Māori, but in practice, this almost always requires [[language interpretation|interpreters]], restricting its everyday use to the limited geographical areas of high Māori fluency, and to more formal occasions, such as during [[public consultation]]. Increasingly New Zealand is referred to by the Māori name {{lang|mi|[[Aotearoa]]}} ("land of the long white cloud"), though originally this may have referred only to the [[North Island (New Zealand)|North Island]].<ref>''[http://www.maorilanguage.info/mao_defns.html Definitions of Māori words used in New Zealand English]'', Peter J. Keegan, last modified 22 April 2019, retrieved 23 September 2019</ref>{{better source needed|date=July 2021}}
+
+An interpreter is on hand at sessions of the [[New Zealand Parliament]] for instances when a Member wishes to speak in Māori.<ref name="Language Act"/><ref>{{cite journal |last1=Iorns Magallanes |first1=Catherine J. |title=Dedicated Parliamentary Seats for Indigenous Peoples: Political Representation as an Element of Indigenous Self-Determination |journal=Murdoch University Electronic Journal of Law |date=December 2003 |volume=10 |url=http://www.austlii.edu.au/au/journals/MurUEJL/2003/39.html |access-date=29 June 2017 |ssrn=2725610 }}</ref> Māori may be spoken in judicial proceedings, but any party wishing to do so must notify the court in advance to ensure an interpreter is available. Failure to notify in advance does not preclude the party speaking in Māori, but the court must be adjourned until an interpreter is available and the party may be held liable for the costs of the delay.<ref>{{Cite web|url=http://www.legislation.govt.nz/act/public/2016/0017/latest/DLM6174519.html|title=Te Ture mō Te Reo Māori 2016 No 17 (as at 01 March 2017), Public Act 7 Right to speak Māori in legal proceedings – New Zealand Legislation|website=legislation.govt.nz|access-date=2019-07-08}}</ref>
+
+A 1994 ruling by the [[Judicial Committee of the Privy Council]]<ref>''New Zealand Maori Council v Attorney-General'' [1994] 1 NZLR 513</ref> in the [[United Kingdom]] held the New Zealand Government responsible under the [[Treaty of Waitangi]] (1840) for the preservation of the language. Accordingly, since March 2004, the state has funded [[Māori Television]], broadcast partly in Māori. On 28 March 2008, Māori Television launched its second channel, {{lang|mi|[[Te Reo (TV channel)|Te Reo]]|italic=no}}, broadcast entirely in the Māori language, with no advertising or subtitles. The first Māori TV channel, [[Aotearoa Television Network]] (ATN) was available to viewers in the Auckland region from 1996 but lasted for only one year.<ref>{{cite encyclopedia |last1=Dunleavy |first1=Trisha |title=Television – Māori television |url=http://www.teara.govt.nz/en/television/page-3 |encyclopedia=[[Te Ara: The Encyclopedia of New Zealand]] |access-date=24 August 2015 |date=29 October 2014}}</ref>
+
+In 2008, [[Land Information New Zealand]] published the first list of official place names with macrons, which indicate long vowels. Previous place name lists were derived from computer systems (usually mapping and [[geographic information system]]s) that could not handle macrons.<ref>{{cite web |url=http://www.linz.govt.nz/placenames/find-names/nz-gazetteer-official-names/index.aspx |title=New Zealand Gazetteer of Official Geographic Names |publisher=Land Information New Zealand }}</ref>
+
+== History ==
+===Origins===
+[[File:First Lessons in the Maori Language, title page 1862.jpeg|thumb|200px|"First Lessons in the Maori Language", 1862,<br>by [[Leonard Williams (bishop)|W. L. Williams]], first [[Anglican Diocese of Waiapu|Bishop of Waiapu]]]]
+According to legend, Māori came to New Zealand from [[Hawaiki]]. Current anthropological thinking places their origin in eastern [[Polynesia]], mostly likely from the [[Southern Cook Islands|Southern Cook]] or [[Society Islands]] region, and says that they arrived by deliberate voyages in seagoing [[Waka (canoe)|canoes]],<ref>{{cite encyclopedia |first1=K. R. |last1=Howe |title=Ideas of Māori origins{{snd}} 1920s{{ndash}}2000: new understandings |encyclopedia=Te Ara: The Encyclopedia of New Zealand |date=4 March 2009 |page=5 |url=https://teara.govt.nz/en/ideas-about-maori-origins/page-5}}</ref> possibly double-hulled, and probably sail-rigged. These settlers probably arrived by about AD 1280 (see [[Māori people#Origins|Origins of the Māori people]]). Their language and its dialects developed in isolation until the 19th century.
+
+Since about 1800, the Māori language has had a tumultuous history. It started this period as the predominant language of New Zealand. In the 1860s, it became a [[minority language]] in the shadow of the English spoken by many settlers, missionaries, gold-seekers, and traders. In the late 19th century, the colonial governments of New Zealand and its provinces introduced an English-style school system for all New Zealanders. From the mid 1800s, due to the [[Native schools|Native Schools]] Act and later the Native Schools Code, the use of Māori in schools was slowly filtered out of the curriculum in order to become more European.<ref>{{Cite web|url=https://teara.govt.nz/en/maori-education-matauranga/page-3 |title=Māori education{{snd}} mātauranga{{snd}} The native schools system, 1867 to 1969 |page=3 |publisher =New Zealand Ministry for Culture and Heritage Te Manatu |first=Ross |last=Calman |website=teara.govt.nz}}</ref> Increasing numbers of Māori people learned English.
+
+=== Decline ===
+Until the [[Second World War]] (1939–1945), most Māori people spoke Māori as their first language. Worship took place in Māori; it functioned as the language of Māori homes; Māori politicians conducted political meetings in Māori, and some literature appeared in Māori, along with many newspapers.<ref name=History>{{cite web|url=https://nzhistory.govt.nz/culture/maori-language-week/history-of-the-maori-language |title=History of the Māori Language |publisher=Ministry for Culture and Heritage |date= 10 October 2017 |access-date= 22 September 2019}}</ref>
+
+Before 1880, some Māori parliamentarians suffered disadvantages because [[New Zealand Parliament|Parliament's]] proceedings took place in English.<ref>{{cite web |url=https://nzhistory.govt.nz/politics/parliaments-people/maori-mps |title=Māori MPs |publisher=Ministry for Culture and Heritage |date= 15 July 2014 |access-date= 22 September 2019}}</ref> However, by 1900, all Māori members of parliament, such as [[Sir Āpirana Ngata]], were university graduates who spoke fluent English. From this period greater emphasis was placed on Māori learning English, but it was not until the migration of Māori to urban areas after the [[Second World War]] that the number of speakers of Māori began to decline rapidly.<ref name=History /> Some Māori children who spoke {{lang|mi|Te Reo}} at school were beaten, which contributed to the decline in the {{lang|mi|Te Reo}} language in the 1940s to 1980s.<ref>{{cite news |url=https://www.rnz.co.nz/news/te-manu-korihi/282955/'i-was-beaten-until-i-bled' |title=I was beaten until I bled |date=1 September 2015  |work=RNZ}}</ref> By the 1980s, fewer than 20 per cent of Māori spoke the language well enough to be classed as native speakers. Even many of those people no longer spoke Māori in their homes. As a result, many Māori children failed to learn their ancestral language, and generations of non-Māori-speaking Māori emerged.<ref>{{Cite news|url=https://theforeveryears.wordpress.com/2015/02/23/rosina-wiparata-a-legacy-of-maori-language-education/|title=Rosina Wiparata: A Legacy of Māori Language Education|date=23 February 2015|work=The Forever Years|access-date=15 November 2017|language=en-US}}</ref>
+
+=== Revitalisation efforts ===
+{{Main|Māori language revival}}
+By the 1980s, Māori leaders had begun to recognise the dangers of the loss of their language, and initiated Māori-language recovery-programs such as the [[Māori language revival#Kōhanga Reo|Kōhanga Reo]] movement, which from 1982 immersed infants in Māori from infancy to school age. There followed in 1985 the founding of the first [[Kura Kaupapa Māori]] (Years 1 to 8 Māori-medium education programme) and later the first Wharekura (Years 9 to 13 Māori-medium education programme). In 2011 it was reported that although "there was a true revival of te reo in the 1980s and early to mid-1990s&nbsp;... spurred on by the realisation of how few speakers were left, and by the relative abundance of older fluent speakers in both urban neighbourhoods and rural communities", the language has continued to decline."<ref name=":2">{{cite web| title=Waitangi Tribunal. (2011). Ko Aotearoa tēnei: A report into claims concerning New Zealand law and policy affecting Māori culture and identity – Te taumata tuarua |location= Wellington, New Zealand |author= Wai No. 262. |url=https://forms.justice.govt.nz/search/Documents/WT/wt_DOC_68356606/KoAotearoaTeneiTT2Vol2W.pdf}}</ref> The decline is believed "to have several underlying causes".<ref name="Waitangi Tribunal 2011, p. 440">Waitangi Tribunal (2011, p. 440).</ref> These include:
+
+* the ongoing loss of older native speakers who have spearheaded the [[Māori language revival|Māori-language-revival]] movement
+* complacency brought about by the very existence of the institutions which drove the revival
+* concerns about quality, with the supply of good teachers never matching demand (even while that demand has been shrinking)
+* excessive regulation and centralised control, which has alienated some of those involved in the movement
+* an ongoing lack of educational resources needed to teach the full curriculum in te reo Māori.<ref name="Waitangi Tribunal 2011, p. 440" />
+* natural [[language attrition]] caused by the overwhelming increase of spoken English
+
+Based on the principles of partnership, Māori-speaking government, general revitalisation and dialectal protective policy, and adequate resourcing, the [[Waitangi Tribunal]] has recommended "four fundamental changes":<ref>Waitangi Tribunal (2011, p. 470).</ref>
+
+# [[Māori Language Commission|Te Taura Whiri]] (the Māori Language Commission) should become the lead Māori language sector agency. This will address the problems caused by the lack of ownership and leadership identified by the Office of the Auditor-General.<ref>{{cite web |date= 2017 |title= Controller and Auditor-General |url= https://www.oag.govt.nz/about-us |work= Office of the Auditor-General |location= [[Wellington]], New Zealand |access-date= 3 December 2017 }}</ref>
+# Te Taura Whiri should function as a Crown–Māori partnership through the equal appointment of Crown and Māori appointees to its board. This reflects [the Tribunal's] concern that te reo revival will not work if responsibility for setting the direction is not shared with Māori.
+# Te Taura Whiri will also need increased powers. This will ensure that public bodies are compelled to contribute to {{lang|mi|te reo}}'s revival and that key agencies are held properly accountable for the strategies they adopt. For instance, targets for the training of te reo teachers must be met, education curricula involving te reo must be approved, and public bodies in districts with a sufficient number and/or proportion of te reo speakers and schools with a certain proportion of Māori students must submit Māori language plans for approval.
+# These regional public bodies and schools must also consult [[iwi]] (Māori tribes or tribal confederations) in the preparation of their plans. In this way, iwi will come to have a central role in the revitalisation of te reo in their own areas. This should encourage efforts to promote the language at the grassroots.<ref>Waitangi Tribunal (2011, p. 471).</ref>
+The changes set forth by the Tribunal are merely recommendations; they are not binding upon government.<ref name=":1">{{Cite web|url=http://www.waitangi-tribunal.govt.nz/about/intro.asp|title=Waitangi Tribunal|website=waitangi-tribunal.govt.nz|access-date=9 November 2016|url-status=dead|archive-url=https://web.archive.org/web/20131114021711/http://www.waitangi-tribunal.govt.nz/about/intro.asp|archive-date=14 November 2013|df=dmy-all}}</ref>
+[[File:Bastion Point Maori Land Rights copy.jpg|thumb|[[Bastion Point]] lands rights activists with Māori-language signs]]
+There is, however, evidence that the revitalisation efforts are taking hold, as can be seen in the teaching of {{lang|mi|te reo}} in the school curriculum, the use of Māori as an instructional language, and the supportive ideologies surrounding these efforts.<ref name=":0">{{Cite journal|last=Albury|first=Nathan John|date=2 October 2015|title=Collective (white) memories of Māori language loss (or not)|journal=Language Awareness|volume=24|issue=4|pages=303–315|doi=10.1080/09658416.2015.1111899|s2cid=146532249|issn=0965-8416}}</ref> In 2014, a survey of students ranging in age from 18 to 24 was conducted; the students were of mixed ethnic backgrounds, ranging from {{lang|mi|[[Pākehā]]}} to Māori who lived in New Zealand. This survey showed a 62% response saying that {{lang|mi|te reo Māori}} was at risk.<ref name=":0" /> Albury argues that these results come from the language either not being used enough in common discourse, or from the fact that the number of speakers was inadequate for future language development.<ref name=":0" />
+
+The policies for language revitalisation have been changing in attempts to improve Māori language use and have been working with suggestions from the Waitangi Tribunal on the best ways to implement the revitalisation. The Waitangi Tribunal in 2011 identified a suggestion for language revitalisation that would shift indigenous policies from the central government to the preferences and ideologies of the Māori people.<ref name=":1" /> This change recognises the issue of Māori revitalisation as one of indigenous self-determination, instead of the job of the government to identify what would be best for the language and Māori people of New Zealand.<ref name=":4">{{Cite journal|last=Albury|first=Nathan John|date=2 April 2016|title=An old problem with new directions: Māori language revitalisation and the policy ideas of youth|journal=Current Issues in Language Planning|volume=17|issue=2|pages=161–178|doi=10.1080/14664208.2016.1147117|s2cid=147076237|issn=1466-4208}}</ref>
+[[File:Broadwood Area School2.JPG|thumb|Bilingual sign in [[Broadwood, New Zealand|Broadwood, Northland]].]]
+
+===Revival since 2015===
+
+Beginning in about 2015, the Māori language underwent a revival as it became increasingly popular, as a common national heritage, even among New Zealanders without Māori roots. Surveys from 2018 indicated that "the Māori language currently enjoys a high status in Māori society and also positive acceptance by the majority of non-Māori New Zealanders".<ref name="The Guardian 28 July 2018">{{cite news | last1 = Roy | first1 = Eleanor Ainge | title = Google and Disney join rush to cash in as Māori goes mainstream | url = https://www.theguardian.com/world/2018/jul/28/google-disney-maori-new-zealand | access-date = 28 July 2018 | work = The Guardian | date = 28 July 2018 | quote = John McCaffery, a language expert at the University of Auckland school of education, says the language is thriving, with other indigenous peoples travelling to New Zealand to learn how Māori has made such a striking comeback. 'It has been really dramatic, the past three years in particular, Māori has gone mainstream,' he said.}}</ref>
+
+As the status and prestige of the language rose, so did the demand for language classes. Businesses were quick to adopt the trend as it became apparent that using {{lang|mi|te reo}} made customers think of a company as "committed to New Zealand".<ref name="The Guardian 28 July 2018" /> The language became increasingly heard in the media and in politics. Prime Minister [[Jacinda Ardern]]—who gave her daughter a Māori middle name—made headlines when she toasted Commonwealth leaders in 2018 with a Māori proverb, and the success of Māori musical groups such as [[Alien Weaponry]] and [[Maimoa]] further increased the language's presence in social media.<ref name="The Guardian 28 July 2018" />
+
+In 2019, [[Kotahi Rau Pukapuka Trust]] began work on publishing a sizeable library of local and international literature in the language.<ref>{{cite news |title=Harry Potter to be translated into te reo Māori |url=https://www.stuff.co.nz/entertainment/books/116479795/harry-potter-to-be-translated-into-te-reo-mori |access-date=10 December 2019 |work=Stuff.co.nz |language=en}}</ref> In March 2021, the [[Broadcasting Standards Authority]] (BSA) said it would no longer entertain complaints regarding the use of Māori language in broadcasts. This followed a five-fold increase in complaints to the BSA, despite the use of Māori in itself not breaching any broadcasting standards.<ref>{{Cite web|date=2021-03-09|title=BSA signals end to te reo Māori complaints|url=https://www.rnz.co.nz/news/te-manu-korihi/437991/bsa-signals-end-to-te-reo-maori-complaints|access-date=2021-03-25|website=RNZ|language=en-nz}}</ref>
+
+== Linguistic classification ==
+{{See also|Austronesian languages}}
+{{cladogram
+|clades=
+  {{clade
+  |label1=[[Eastern Polynesian languages|East Polynesian]]
+  |1=
+    {{clade
+    |1=''[[Rapa Nui language|Rapa Nui]]''
+    |label2=Central Eastern
+    |2=
+      {{clade
+      |label1=Tahitic
+      |1=
+        {{clade
+        |1='''''Maori'''''
+        |2=''[[Rarotongan language|Rarotongan]]''
+        |3=''[[Tahitian language|Tahitian]]''
+        |4=''[[Rapa language|Rapa]]''
+        }}
+      |label2=Marquesic
+      |2=
+        {{clade
+        |1=''[[Hawaiian language|Hawaiian]]
+        |2=
+          {{clade
+          |1=''[[Marquesan language|Marquesan]]''
+          |2=''[[Mangareva language|Mangareva]]''
+          }}
+        }}
+      }}
+    }}
+  }}
+}}
+
+Comparative linguists classify Māori as a [[Polynesian languages|Polynesian language]]; specifically as an [[Eastern Polynesian languages|Eastern Polynesian language]] belonging to the [[Tahitic languages|Tahitic]] subgroup, which includes [[Cook Islands Māori]], spoken in the southern [[Cook Islands]], and [[Tahitian language|Tahitian]], spoken in [[Tahiti]] and the [[Society Islands]]. Other major Eastern Polynesian languages include [[Hawaiian language|Hawaiian]], [[Marquesan language|Marquesan]] (languages in the [[Marquesic languages|Marquesic]] subgroup), and the [[Rapa Nui language]] of [[Easter Island]].{{sfn|Biggs|1994|pages=96–105}}{{sfn|Clark|1994|pages=123–135}}{{sfn|Harlow|1994|pages=106–122}}
+
+While the preceding are all distinct languages, they remain similar enough that [[Tupaia (navigator)|Tupaia]], a Tahitian travelling with Captain [[James Cook]] in 1769–1770, communicated effectively with Māori.{{sfn|Banks|1771|loc= 9 October 1769: "we again advanc'd to the river side with Tupia, who now found that the language of the people was so like his own that he could tolerably well understand them and they him."}} Māori actors, travelling to Easter Island for production of the film {{lang|mi|[[Rapa-Nui (film)|Rapa-Nui]]}} noticed a marked similarity between the native tongues, as did arts curator Reuben Friend, who noted that it took only a short time to pick up any different vocabulary and the different nuances to recognisable words.<ref>{{cite news| url=https://www.radionz.co.nz/news/te-manu-korihi/118294/rapanui-expedition-reveals-similarities-to-te-reo-maori |title=Rapanui expedition reveals similarities to Te Reo Maori |work= [[Radio New Zealand]] |date= 16 October 2012 |access-date=29 March 2019}}</ref> Speakers of modern Māori generally report that they find the languages of the [[Cook Islands]], including Rarotongan, the easiest amongst the other Polynesian languages to understand and converse in.
+
+== Geographic distribution ==
+[[File:TeReoMaori2013.png|thumb|Speakers of Māori according to the 2013 census.
+{{legend|#fef0d9|<&nbsp;5%}}
+{{legend|#fdd8a4|5–10%}}
+{{legend|#fcb779|10–20%}}
+{{legend|#fc8d59|20–30%}}
+{{legend|#eb603f|30–40%}}
+{{legend|#d33121|40–50%}}
+{{legend|#a50c0c|>&nbsp;50%}}]]
+Nearly all speakers are ethnic Māori resident in New Zealand. Estimates of the number of speakers vary: the 1996 census reported 160,000,<ref name=quickstats>{{cite web |url=http://www.stats.govt.nz/Census/2006CensusHomePage/QuickStats/quickstats-about-a-subject/maori.aspx|title=QuickStats About Māori|year=2006|publisher=Statistics New Zealand|access-date=14 November 2007}} (revised 2007)</ref> while other estimates have reported as few as 10,000 fluent adult speakers in 1995 according to the [[Māori Language Commission]].<ref>{{cite web |url= http://www.tetaurawhiri.govt.nz/english/issues_e/hist/index.shtml |archive-url= https://web.archive.org/web/20020102121816/http://www.tetaurawhiri.govt.nz/english/issues_e/hist/index.shtml |url-status= dead |archive-date= 2 January 2002 |title= Māori Language Issues – Te Taura Whiri i te Reo Māori |publisher=Māori Language Commission |access-date= 12 February 2011 }}</ref>
+As reported in the 2013 national census, only 21.31 per cent of Māori (self-identified) had a conversational knowledge of the language, and only around 6.5 per cent of those speakers, 1.4 per cent of the total Māori population, spoke the Māori language only. This percentage has been in decline in recent years, from around a quarter of the population to 21 per cent. However, the number of speakers In the same census, Māori speakers were 3.7 per cent of the total population.<ref name="Māori language speakers"/>
+
+The level of competence of self-professed Māori speakers varies from minimal to total. Statistics have not been gathered for the prevalence of different levels of competence. Only a minority of self-professed speakers use Māori as their main language at home.<ref name=":3">{{Cite journal|last=Albury|first=Nathan|date=2016|title=Defining Māori language revitalisation: A project in folk linguistics|journal=Journal of Sociolinguistics|volume=20|issue=3|pages=287–311|doi=10.1111/josl.12183|postscript=none|hdl=10852/58904|hdl-access=free}}, p.&nbsp;301.</ref> The rest use only a few words or phrases ([[Passive speakers (language)|passive]] bilingualism).{{citation needed|date=February 2020}}
+
+Māori {{as of | 2008 | alt = still}} is a community language in some predominantly-Māori settlements in the [[Northland Region|Northland]], [[Te Urewera|Urewera]] and [[East Cape]] areas. {{lang|mi|Kohanga reo}} Māori-immersion kindergartens throughout New Zealand use Māori exclusively. Increasing numbers of Māori raise their children bilingually.<ref name=":3" />
+
+Urbanisation after the Second World War led to widespread language shift from Māori predominance (with Māori the primary language of the rural {{lang|mi|[[whānau]]}}) to English predominance (English serving as the primary language in the {{lang|mi|[[Pākehā]]}} cities). Therefore, Māori-speakers almost always communicate bilingually, with [[New Zealand English]] as either their first or second language. Only around 9,000 people speak only in Māori.<ref name=":4" />
+
+The use of the Māori language in the Māori diaspora is far lower than in New Zealand itself. Census data from Australia show it as the home language of 11,747, just 8.2% of the total Australian Māori population in 2016. However, this could just be due to more Māori immigrants leaving to Australia.<ref>{{Cite web|url=http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_C16_T09_SA|title=Census 2016, Language spoken at home by Sex (SA2+)|website=Australian Bureau of Statistics|access-date=28 October 2017}}</ref>
+
+== Orthography ==
+{{See also|Māori Braille}}
+
+The modern Māori [[alphabet]] has 15 letters, two of which are [[Digraph (orthography)|digraphs]] (character pairs). The five vowels have both short and long forms, with the long forms denoted by macrons marked above them.
+
+{| class=wikitable
+|+ Māori letters
+! rowspan=2|Consonants !! colspan=2|Vowels
+|-
+! Short !! Long
+|-
+| style="vertical-align:top;" |
+{{plainlist|
+* [[H]] h
+* [[K]] k
+* [[M]] m
+* [[N]] n
+* [[P]] p
+* [[R]] r
+* [[T]] t
+* [[W]] w
+* Ng ng
+* Wh wh
+}}
+| style="vertical-align:top;" |
+{{Plainlist|
+* [[A]] a
+* [[E]] e
+* [[I]] i
+* [[O]] o
+* [[U]] u
+}}
+| style="vertical-align:top;" |
+{{Plainlist|
+* Ā ā
+* Ē ē
+* Ī ī
+* Ō ō
+* Ū ū
+}}
+|}
+
+The order of the alphabet is as follows: A, E, H, I, K, M, N, O, P, R, T, U, W, Ng, Wh.
+
+This standard orthography may be tweaked to represent certain dialects of Māori:
+*An underlined "<u>k</u>" sometimes appears when writing the Southern dialect, to indicate that the /k/ in question corresponds to the ''ng'' of the standard language.
+*Both [[L]] and [[G]] are also encountered in the [[#South Island dialects|Southern dialect]], though not in standard Māori.
+*Various methods are used to indicate glottal stops when writing the [[Whanganui|Wanganui]] dialect.
+
+===History===
+There was originally no native writing system for Māori. It has been suggested that the [[petroglyphs]] once used by the Māori developed into a script similar to the [[Rongorongo]] of Easter Island.<ref>{{cite news|first=John|last=Aldworth|title=Rocks could rock history|url=http://nzherald.co.nz/hamilton-news/news/article.cfm?c_id=1503366&objectid=11062720|access-date=5 May 2017|work= [[The New Zealand Herald]]|date=12 May 2012}}</ref> However, there is no evidence that these petroglyphs ever evolved into a true system of writing. Some distinctive markings among the {{lang|mi|kōwhaiwhai}} (rafter paintings) of meeting houses were used as mnemonics in reciting {{lang|mi|whakapapa}} (genealogy) but again, there was no systematic relation between marks and meanings.
+
+Attempts to write Māori words using the [[Latin script]] began with Captain James Cook and other early explorers, with varying degrees of success. Consonants seem to have caused the most difficulty, but medial and final vowels are often missing in early sources. [[Anne Salmond]]<ref name="Salmond 1997">{{cite book | last=Salmond | first=Anne | author-link=Anne Salmond | date=1997 | title=Between Worlds: Early Exchanges between Maori and Europeans, 1773–1815 | location=Auckland | publisher=Viking}}</ref> records ''aghee'' for aki (In the year 1773, from the North Island East Coast, p.&nbsp;98), ''Toogee'' and ''E tanga roak'' for Tuki and Tangaroa (1793, Northland, p216), ''Kokramea'', ''Kakramea'' for Kakaramea (1801, Hauraki, p261), ''toges'' for tokis, ''Wannugu'' for Uenuku and ''gumera'' for kumara (1801, Hauraki, p261, p266, p269), ''Weygate'' for Waikato (1801, Hauraki, p277), ''Bunga Bunga'' for pungapunga, {{transl|mi|tubua}} for tupua and ''gure'' for kurī (1801, Hauraki, p279), as well as ''Tabooha'' for Te Puhi (1823, Northern Northland, p385).
+
+From 1814, missionaries tried to define the sounds of the language. [[Thomas Kendall]] published a book in 1815 entitled ''[[A korao no New Zealand]]'', which in modern orthography and usage would be {{lang|mi|He Kōrero nō Aotearoa}}. Beginning in 1817, Professor [[Samuel Lee (linguist)|Samuel Lee]] of [[Cambridge University]] worked with the [[Ngāpuhi]] chief [[Tītore]] and his junior relative Tui (also known as Tuhi or Tupaea),<ref name="TIT3"/> and then with chief [[Hongi Hika]]<ref>{{cite web|last1=Hika|first1=Hongi|title=Sample of Writing by Shunghie [Hongi Hika] on board the Active|url=https://marsdenarchive.otago.ac.nz/MS_0054_068#page/1/mode/1up|website=Marsden Online Archive|publisher=University of Otago|access-date=25 May 2015}}</ref> and his junior relative Waikato; they established a definitive orthography based on Northern usage, published as the ''First Grammar and Vocabulary of the New Zealand Language'' (1820).<ref name="TIT3"/> The missionaries of the [[New Zealand Church Missionary Society|Church Missionary Society (CMS)]] did not have a high regard for this book. By 1830 the CMS missionaries had revised the [[orthography]] for writing the Māori language; for example, ‘Kiddeekiddee’ became, what is the modern spelling, ‘[[Kerikeri]]’.<ref name="TMR55"/> This orthography continues in use, with only two major changes: the addition of ''wh'' to distinguish the [[voiceless bilabial fricative]] [[phoneme]] from the labio-velar phoneme {{IPA|/w/}}; and the consistent marking of long vowels.
+
+The Māori embraced [[literacy]] enthusiastically, and missionaries reported in the 1820s that Māori all over the country taught each other to read and write, using sometimes quite innovative materials in the absence of paper, such as leaves and charcoal, and [[Flax in New Zealand|flax]].<ref>{{cite book |last1=May |first1=Helen |last2=Kaur |first2=Baljit |last3=Prochner |first3=Larry |title=Empire, Education, and Indigenous Childhoods: Nineteenth-Century Missionary Infant Schools in Three British Colonies |date=2016 |publisher=Routledge |isbn=978-1-317-14434-2 |page=206 |url=https://books.google.com/books?id=C1cfDAAAQBAJ&pg=PA206 |access-date=16 February 2020 |language=en}}</ref> Missionary [[James West Stack]] recorded the scarcity of slates and writing materials at the [[Native schools]] and the use sometimes of "pieces of board on which sand was sprinkled, and the letters traced upon the sand with a pointed stick".<ref>{{cite book |last1=Stack |first1=James West |editor1-last=Reed |editor1-first=Alfred Hamish |editor1-link=Alfred Hamish Reed |title=Early Maoriland adventures of J.W. Stack |date=1938 |page=217}}</ref>
+
+==== Long vowels  ====
+The alphabet devised at Cambridge University does not mark vowel length. The following examples show that vowel length is phonemic in Māori:
+
+{| {{table}}
+| ''ata''||morning||'''''ā'''ta''|| carefully
+|-
+| ''keke''||cake||''k'''ē'''k'''ē'''''|| armpit
+|-
+| ''mana''||prestige||''m'''ā'''na''|| for him/her
+|-
+| ''manu''||bird||''m'''ā'''nu''|| to float
+|-
+| ''tatari''||to wait for||''t'''ā'''tari''|| to filter or analyse
+|-
+| ''tui''||to sew||''t'''ūī'''''|| [[Parson bird]]
+|-
+| ''wahine''||woman||''w'''ā'''hine''|| women
+|-
+|}
+Māori devised ways to mark vowel length, sporadically at first. Occasional and inconsistent vowel-length markings occur in 19th-century manuscripts and newspapers written by Māori, including macron-like [[diacritic]]s and doubling of letters. Māori writer Hare Hongi (Henry Stowell) used macrons in his ''Maori-English Tutor and Vade Mecum'' of 1911,<ref name="Stowell">{{cite book  |title=Maori-English Tutor and Vade Mecum |first=Henry M. |last=Stowell|isbn=9781443778398 |date=November 2008 }} This was the first attempt by a Māori author at a grammar of Māori.</ref> as does Sir [[Āpirana Ngata]] (albeit inconsistently) in his ''Maori Grammar and Conversation'' (7th printing 1953). Once the Māori language was taught in universities in the 1960s, vowel-length marking was made systematic. At [[University of Auckland|Auckland University]], Professor [[Bruce Biggs]] (of [[Ngāti Maniapoto]] descent) promoted the use of double vowels (e.g. ''Maaori''); this style was standard there until Biggs died in 2000.
+
+Macrons ({{lang|mi|tohutō}}) are now the standard means of indicating long vowels,<ref>{{cite news |last1=Apanui |first1=Ngahiwi |title=What's that little line? He aha tēnā paku rārangi? |url=https://www.stuff.co.nz/national/96579604/whats-that-little-line-he-aha-tena-paku-rarangi |access-date=16 June 2018 |work=Stuff |publisher=Stuff |date=11 September 2017}}</ref> after becoming the favoured option of the [[Māori Language Commission]]&mdash;set up by the Māori Language Act 1987 to act as the authority for Māori spelling and orthography.<ref name="macrons">{{cite web |url=http://www.tetaurawhiri.govt.nz/english/pub_e/conventions3.shtml#Part_One_  |title=Māori Orthographic Conventions |archive-url=https://web.archive.org/web/20090906110915/http://www.tetaurawhiri.govt.nz/english/pub_e/conventions3.shtml#Part_One_ |archive-date=6 September 2009 |publisher= Māori Language Commission |access-date=11 June 2010}}</ref><ref>{{cite encyclopedia |last1=Keane |first1=Basil |title=Mātauranga hangarau – information technology – Māori language on the internet |url=https://teara.govt.nz/en/matauranga-hangarau-information-technology/page-3 |encyclopedia=Te Ara: The Encyclopedia of New Zealand |access-date=29 June 2017 |date=11 March 2010}}</ref> Most media now use macrons; [[Stuff (company)|Stuff]] websites and newspapers since 2017,<ref>{{Cite web|url=https://www.stuff.co.nz/national/96578644/why-stuff-is-introducing-macrons-for-te-reo-maori-words.html|title=Why Stuff is introducing macrons for te reo Māori words|website=Stuff|language=en|access-date=2018-10-10}}</ref> [[TVNZ]]<ref>{{Cite web|url=https://www.tvnz.co.nz/shows/seven-sharp/clips/why-are-macrons-so-important-in-te-reo-m-ori-just-ask-weta-workshop|title=Seven Sharp - Why are macrons so important in te reo Māori|website=tvnz.co.nz|access-date=2018-10-10|archive-date=11 October 2018|archive-url=https://web.archive.org/web/20181011013755/https://www.tvnz.co.nz/shows/seven-sharp/clips/why-are-macrons-so-important-in-te-reo-m-ori-just-ask-weta-workshop|url-status=dead}}</ref> and [[New Zealand Media and Entertainment|NZME]] websites and newspapers since 2018.<ref>{{Cite news|url=https://www.nzherald.co.nz/wanganui-chronicle/horowhenua-chronicle/news/article.cfm?c_id=1503788&objectid=12048013|title=Official language to receive our best efforts|author=Staff Reporters|work=[[The New Zealand Herald]] |access-date=2018-10-10|language=en-NZ|issn=1170-0777}}</ref>
+
+Technical limitations in producing macronised vowels on typewriters and older computer systems are sometimes resolved by using a [[Diaeresis (diacritic)|diaeresis]]<ref>{{cite encyclopedia |last1=Keane |first1=Basil |title=Mātauranga hangarau – information technology - Māori language on the internet |url=http://www.teara.govt.nz/en/matauranga-hangarau-information-technology/3 |encyclopedia=Te Ara: The Encyclopedia of New Zealand |access-date=16 February 2020 |date=11 March 2010}}</ref> or [[circumflex]]<ref>{{cite book|title=Indigenous Cultural Heritage and Intellectual Property Rights|page=1|first1=Jessica Christine|last1=Lai|doi=10.1007/978-3-319-02955-9|publisher=Springer|isbn=978-3-319-02954-2|date=2014|location=Switzerland}}</ref> instead of a macron (e.g., Mäori or Mâori).
+
+Double vowels continue to be used in a few exceptional cases, including:
+* The [[Waikato Tainui|Waikato-Tainui]] iwi preference is for using doubled vowels;<ref>{{Cite web|url=http://waikatomuseum.co.nz/exhibitions-and-events/view/2145882619|title=Te Wiki o Te Reo Maaori Discovery Trail - Waikato Museum|website=waikatomuseum.co.nz|access-date=2018-10-10}}</ref> hence in the [[Waikato]] region, double vowels are used by the [[Hamilton, New Zealand|Hamilton City Council]],<ref>{{Cite web|url=https://www.hamilton.govt.nz/Pages/Maori-Language-Week-2017.aspx|title=Māori Language Week 2017 - Hamilton City Council|website=hamilton.govt.nz|language=en-NZ|access-date=2018-10-10}}</ref> [[Waikato District|Waikato District Council]]<ref>{{Cite web|url=https://wdcsitefinity.blob.core.windows.net/sitefinity-storage/docs/default-source/your-council/plans-policies-and-bylaws/plans/district-plan-review/proposed-district-plan-chapters/13-definitions-notified-18072018.pdf?sfvrsn=f4cf80c9_2|title=Proposed District Plan (Stage 1) 13 Definitions|date=18 July 2018|website=Waikato District Council|page=28}}</ref> and [[Waikato Museum]].
+* [[Inland Revenue Department (New Zealand)|Inland Revenue]] continues to spell its Māori name {{lang|mi|Te Tari Taake}} instead of {{lang|mi|Te Tari Tāke}}, mainly to reduce the resemblance of {{lang|mi|tāke}} to the English word 'take'.<ref>{{cite encyclopedia |url= http://www.teara.govt.nz/en/taxes/page-8 |title= Taxes - Tax, ideology and international comparisons |first= Paul |last= Goldsmith |encyclopedia=Te Ara: The Encyclopedia of New Zealand |date= 13 July 2012 |access-date= 14 June 2013}}</ref> 
+* A considerable number of governmental and non-governmental organisations continue to use the older spelling of {{angbr|[[roopu]]}} ('association') in their names rather than the more modern form {{angbr|rōpū}}. Examples include [[Te Roopu Raranga Whatu o Aotearoa]] ('the national Māori weavers' collective') and {{lang|mi|Te Roopu Pounamu}} (a Māori-specific organisation within the [[Green Party of Aotearoa New Zealand]]).
+* Double vowels are also used instead of macrons in long vowels resultant from [[Compound (linguistics)|compounding]] or [[reduplication]].<ref>{{cite web | url=https://maoridictionary.co.nz/dictionary-info | title=Māori Dictionary Project | access-date= 26 November 2020}}</ref>
+
+== Phonology ==
+{{main|Māori phonology}}
+Māori has five phonemically distinct vowel articulations, and ten consonant phonemes.
+
+=== Vowels ===
+
+{| class="wikitable"
+!
+! align="center"|[[Front vowel|Front]]
+! align="center"|[[Central vowel|Central]]
+! align="center"|[[Back vowel|Back]]
+|-
+! align="left"|[[Close vowel|Close]]
+| align="center"|{{IPAlink|i}}, {{IPAlink|iː}}
+| align="center" colspan="2" |{{IPAlink|u}}, {{IPAlink|uː}}
+|-
+! align="left"|[[Mid vowel|Mid]]
+| align="center"|{{IPAlink|e}}, {{IPAlink|eː}}
+|
+| align="center"|{{IPAlink|o}}, {{IPAlink|oː}}
+|-
+! align="left"|[[Open vowel|Open]]
+|
+| align="center" colspan="2" |{{IPAlink|a}}, {{IPAlink|aː}}
+|}
+
+Although it is commonly claimed that vowel realisations (pronunciations) in Māori show little variation, linguistic research has shown this not to be the case.{{sfn|Bauer|1993|page=537}}{{efn|Bauer mentions that Biggs 1961 announced a similar finding.}}
+
+Vowel length is phonemic, but four of the five long vowels occur in only a handful of word roots, the exception being {{IPA|/aː/}}.{{sfn|Bauer|1997|page=536}}{{efn|Bauer even raised the possibility of analysing Māori as really having six vowel phonemes, ''a, ā, e, i, o, u'' ({{IPA|[a, aː, ɛ, i, ɔ, ʉ]}}).}} As noted above, it has recently become standard in Māori spelling to indicate a long vowel with a macron. For older speakers, long vowels tend to be more peripheral and short vowels more centralised, especially with the low vowel, which is long {{IPA|[aː]}} but short {{IPA|[ɐ]}}. For younger speakers, they are both {{IPA|[a]}}. For older speakers, {{IPA|/u/}} is only fronted after {{IPA|/t/}}; elsewhere it is {{IPA|[u]}}. For younger speakers, it is fronted {{IPA|[ʉ]}} everywhere, as with the corresponding phoneme in [[New Zealand English]]. Due to the influence of New Zealand English, the vowel [e] is raised to be near [i], so that ''pī'' and ''kē'' (or ''piki'' and ''kete'') now largely share the very same vowel space.<ref name=Rev>[[Ghil'ad Zuckermann|Zuckermann, Ghil'ad]] (2020), [[w:en:Revivalistics|''Revivalistics: From the Genesis of Israeli to Language Reclamation in Australia and Beyond'']], [https://global.oup.com/academic/product/revivalistics-9780199812790 Oxford University Press]. {{ISBN|9780199812790}} / {{ISBN|9780199812776}}</ref>{{rp|198–199}}
+
+Beside [[monophthong]]s Māori has many [[diphthong]] vowel phonemes. Although any short vowel combinations are possible, researchers disagree on which combinations constitute diphthongs.{{sfn|Harlow|2006|p=69}} [[Formant]] frequency analysis distinguish {{IPA|/aĭ/, /aĕ/, /aŏ/, /aŭ/, /oŭ/}} as diphthongs.{{sfn|Harlow|2006|p=79}}
+As in many other Polynesian languages, diphthongs in Māori vary only slightly from sequences of adjacent vowels, except that they belong to the same syllable, and all or nearly all sequences of nonidentical vowels are possible. All sequences of nonidentical short vowels occur and are phonemically distinct.{{sfn|Harlow|1996|page= 1}}{{sfn|Bauer|1997|page=534}}
+
+=== Consonants ===
+
+The consonant phonemes of Māori are listed in the following table. Seven of the ten Māori [[orthography|consonant letters]] have the same pronunciation as they do in the [[International Phonetic Alphabet]] (IPA). For those that do not, the IPA [[phonetic transcription]] is included, enclosed in square brackets per IPA convention.
+
+{| class="wikitable"
+!
+! align="center"|[[Labial consonant|Labial]]
+! align="center"|[[Coronal consonant|Coronal]]
+! align="center"|[[Velar consonant|Velar]]
+! align="center"|[[Glottal consonant|Glottal]]
+|- style="vertical-align:top;"
+! align="left"| [[Nasal consonant|Nasal]]
+| align="center"|{{IPA link|m}}
+| align="center"|{{IPA link|n}}
+| align="center"|ng {{IPAblink|ŋ}}
+|
+|- style="vertical-align:top;"
+! align="left"| [[Plosive consonant|Plosive]]
+| align="center"|{{IPA link|p}}
+| align="center"|{{IPA link|t}}
+| align="center"|{{IPA link|k}}
+|
+|- style="vertical-align:top;"
+! align="left"| [[Continuant]]
+| align="center"|wh {{IPA|[{{IPA link|f}}, {{IPA link|ɸ}}]}}
+| align="center"|r {{IPAblink|ɾ}}
+| align="center"|{{IPA link|w}}
+| align="center"|{{IPA link|h}}
+|}
+
+The pronunciation of {{angbr|wh}} is extremely variable,{{sfn|Bauer|1997|loc=On page 532, Bauer lists seven [[allophone]]s (variant pronunciations)}} but its most common pronunciation (its canonical allophone) is the [[Voiceless labiodental fricative|labiodental fricative]], IPA {{IPA|[f]}} (as in the English word '''''f'''ill''). Another allophone is the [[voiceless bilabial fricative]], IPA {{IPA|[ɸ]}}, which is usually supposed to be the sole pre-European pronunciation, although linguists are not sure of the truth of this supposition. At least until the 1930s, the bilabial fricative was considered to be the correct pronunciation.<ref>Williams, H. W. and W. L (1930). ''First Lessons in Maori''. Whitcombe and Tombs Limited. p. 6.</ref> The fact that English {{angbr|f}} gets substituted by {{angbr|p}} and not {{angbr|wh}} in borrowings (for example, English ''February'' becomes ''Pēpuere'' instead of {{lang|mi|Whēpuere}}) would strongly hint that the Māori did not perceive English {{IPA|/f/}} to be the same sound as their {{angbr|wh}}.
+
+Because English stops {{IPA|/p, t, k/}} primarily have aspiration, speakers of English often hear the Māori nonaspirated stops as English {{IPA|/b, d, ɡ/}}. However, younger Māori speakers tend to aspirate {{IPA|/p, t, k/}} as in English. English speakers also tend to hear Māori {{IPA|/r/}} as English {{IPA|/l/}} in certain positions (cf. [[Perception of English /r/ and /l/ by Japanese speakers|Japanese]] r). These ways of hearing have given rise to place-name spellings which are incorrect in Māori, like [[Tolaga Bay]], [[Otago]] and [[Waihola]] ({{lang|mi|Teraki, Ōtākou, Waihora}} respectively in Māori).
+
+{{IPA|/ŋ/}} can come at the beginning of a word (like 'sing-along' without the "si"), which is difficult for English speakers outside of New Zealand to manage.
+
+{{IPA|/h/}} is pronounced as a glottal stop, {{IPAblink|ʔ}}, and the sound of {{angbr|wh}} as {{IPA|[ʔw]}}, in some western areas of the North Island.
+
+{{IPA|/ɾ/}} is typically a [[alveolar flap|flap]], especially before {{IPA|/a/}}. However, elsewhere it is sometimes [[alveolar trill|trilled]].
+
+In borrowings from English, many consonants are substituted by the nearest available Māori consonant. For example, the English fricatives {{IPA|/tʃ/}}, {{IPA|/dʒ/}}, and {{IPA|/s/}} are replaced by {{IPA|/h/}}, {{IPA|/f/}} becomes {{IPA|/p}}/, and {{IPA|/l/}} becomes {{IPA|/ɾ/}} (the {{IPA|/l/}} is sometimes retained in the southern dialect, as noted below).
+
+=== Syllables and phonotactics ===
+[[Syllable]]s in Māori have one of the following forms: '''V, VV, CV, CVV'''. This set of four can be summarised by the notation, '''{{transl|mi|italic=no|(C)V(V)}}''', in which the segments in parentheses may or may not be present. A syllable cannot begin with two consonant sounds (the '''[[Digraph (orthography)|digraphs]]''' ''ng'' and ''wh'' represent single consonant '''sounds'''), and cannot end in a consonant, although some speakers may occasionally devoice a final vowel. All possible '''CV''' combinations are grammatical, though ''wo'', ''who'', ''wu'', and ''whu'' occur only in a few loanwords from English such as {{lang|mi|wuru}}, "wool" and {{lang|mi|whutuporo}}, "football".<ref>{{Cite web |url=http://www.teara.govt.nz/1966/M/MaoriLanguage/Pronunciation/en |title=MAORI LANGUAGE – Pronunciation |year=1966 |editor-last=McLintock |editor-first=A. H. |editor-link=Alexander Hare McLintock |website=[[Encyclopedia of New Zealand (1966)|Encyclopedia of New Zealand]] |archive-url=https://web.archive.org/web/20071024083728/http://www.teara.govt.nz/1966/M/MaoriLanguage/Pronunciation/en |archive-date=2007-10-24}}</ref>
+
+As in many other Polynesian languages, e.g., Hawaiian, the rendering of [[loanword]]s from English includes representing every English consonant of the loanword (using the native consonant inventory; English has 24 consonants to 10 for Māori) and breaking up consonant clusters. For example, "Presbyterian" has been borrowed as ''Perehipeteriana''; no consonant position in the loanword has been deleted, but {{IPA|/s/}} and {{IPA|/b/}} have been replaced with {{IPA|/h/}} and {{IPA|/p/}}, respectively.
+
+Stress is typically within the last four vowels of a word, with long vowels and diphthongs counting double. That is, on the last four moras. However, stressed moras are longer than unstressed moras, so the word does not have the precision in Māori that it does in some other languages. It falls preferentially on the first long vowel, on the first diphthong if there is no long vowel (though for some speakers never a final diphthong), and on the first syllable otherwise. Compound words (such as names) may have a stressed syllable in each component word. In long sentences, the final syllable before a pause may have a stress in preference to the normal stressed syllable.
+
+== Dialects ==
+[[File:Māori dialects map.svg|thumb|North Island dialects{{sfn|Harlow|2006|page=42}}]] 
+Biggs proposed that historically there were two major dialect groups, North Island and South Island, and that South Island Māori is extinct.{{sfn|Biggs|1988|page=65}} Biggs has analysed North Island Māori as comprising a western group and an eastern group with the boundary between them running pretty much along the island's north–south axis.{{sfn|Bauer|1997|page=xxvi}}
+
+Within these broad divisions regional variations occur, and individual regions show tribal variations. The major differences occur in the pronunciation of words, variation of vocabulary, and idiom. A fluent speaker of Māori has no problem understanding other dialects.
+
+There is no significant variation in grammar between dialects. "Most of the tribal variation in grammar is a matter of preferences: speakers of one area might prefer one grammatical form to another, but are likely on occasion to use the non-preferred form, and at least to recognise and understand it."{{sfn|Bauer|1993|page=xxi–xxii}} Vocabulary and pronunciation vary to a greater extent, but this does not pose barriers to communication.
+
+=== North Island dialects ===
+In the southwest of the island, in the [[Whanganui]] and [[Taranaki]] regions, the phoneme {{angbr|h}} is a [[glottal stop]] and the phoneme {{angbr|wh}} is {{IPA|[ʔw]}}. This difference was the subject of considerable debate during the 1990s and 2000s over the then-proposed change of the name of the city Wanganui to Whanganui.
+
+In [[Ngāi Tūhoe|Tūhoe]] and the Eastern [[Bay of Plenty Region|Bay of Plenty]] (northeastern North Island) {{angbr|ng}} has merged with {{angbr|n}}. In parts of the Far North, {{angbr|wh}} has merged with {{angbr|w}}.{{Citation needed|date=May 2021}}
+
+=== South Island dialects ===
+[[File:Hotere annotation.png|thumb|right|300px|Part of the annotation to a [[Ralph Hotere]] exhibition at [[Dunedin Public Art Gallery]], written bilingually in English and southern Māori. Note several regional variations, such as {{lang|mi|Nohoka}} ({{lang|mi|Nohoanga}}, a place or seat), {{lang|mi|tikaka}} ({{lang|mi|tikanga}}, customs), {{lang|mi|pako}} ({{lang|mi|pango}}, black), and {{lang|mi|whaka}} ({{lang|mi|whanga}}, harbour).]]
+In the extinct South Island dialects, ''ng'' merged with ''k'' in many regions. Thus ''Kāi Tahu'' and ''[[Ngāi Tahu]]'' are variations in the name of the same [[iwi]] (the latter form is the one used in acts of Parliament). Since 2000, the government has altered the official names of several southern place names to the southern dialect forms by replacing ''ng'' with ''k''. New Zealand's highest mountain, known for centuries as {{lang|mi|Aoraki}} in southern Māori dialects that merge ''ng'' with ''k'', and as {{lang|mi|Aorangi}} by other Māori, was later named "Mount Cook". Now its sole official name is ''[[Aoraki / Mount Cook]]'', which favours the local dialect form. Similarly, the Māori name for [[Stewart Island]], {{lang|mi|Rakiura}}, is cognate with the name of the [[Canterbury, New Zealand|Canterbury]] town of [[Rangiora]]. Likewise, [[Dunedin]]'s main research library, the [[Hocken Collections]], has the name {{lang|mi|Uare Taoka o Hākena}} rather than the northern (standard) {{lang|mi|Te Whare Taonga o Hākena}}.{{efn|The Hocken Library contains several early journals and notebooks of early missionaries documenting the vagaries of the southern dialect. Several of them are shown at Blackman, A. [https://blogs.otago.ac.nz/thehockenblog/2011/07/07/some-sources-for-southern-maori-dialect/ ''Some Sources for Southern Maori dialect''].}} Maarire Goodall and [[George Griffiths (historian)|George Griffiths]] say there is also a voicing of ''k'' to ''g'' – this is why the region of [[Otago]] (southern dialect) and the settlement it is named after – [[Otakou]] (standard Māori) – vary in spelling (the pronunciation of the latter having changed over time to accommodate the northern spelling).{{sfn|Goodall|Griffiths|1980|pages=46–48}}
+
+The standard Māori ''r'' is also found occasionally changed to an ''l'' in these southern dialects and the ''wh'' to ''w''. These changes are most commonly found in place names, such as [[Lake Waihola]],{{sfn|Goodall|Griffiths|1980|loc= page 50: "Southern dialect for 'wai' – water, 'hora' – spread out."}} and the nearby coastal settlement of [[Wangaloa]] (which would, in standard Māori, be rendered {{lang|mi|Whangaroa}}), and [[Little Akaloa]], on [[Banks Peninsula]]. Goodall and Griffiths suggest that final vowels are given a centralised pronunciation as [[schwa]] or that they are [[Elision|elided]] (pronounced indistinctly or not at all), resulting in such seemingly bastardised place names as [[The Kilmog]], which in standard Māori would have been rendered {{lang|mi|Kirimoko}}, but which in southern dialect would have been pronounced very much as the current name suggests.{{sfn|Goodall|Griffiths|1980|loc=page 45: "This hill [The Kilmog]...has a much debated name, but its origins are clear to Kaitahu and the word illustrates several major features of the southern dialect. First we must restore the truncated final vowel (in this case to both parts of the name, 'kilimogo'). Then substitute r for l, k for g, to obtain the northern pronunciation, 'kirimoko'.... Though final vowels existed in Kaitahu dialect, the elision was so nearly complete that [[pākehā]] recorders often omitted them entirely."}} This same elision is found in numerous other southern placenames, such as the two small settlements called The Kaik (from the term for a fishing village, {{lang|mi|kainga}} in standard Māori), near [[Palmerston, New Zealand|Palmerston]] and [[Akaroa]], and the early spelling of [[Lake Wakatipu]] as {{lang|mi|Wagadib}}. In standard Māori, Wakatipu would have been rendered {{lang|mi|Whakatipua}}, showing further the elision of a final vowel.
+
+Despite being officially regarded as extinct,{{efn|As with many "dead" languages, there is a possibility that the southern dialect may be revived, especially with the encouragement mentioned. "The [[Murihiku]] language – Mulihig' being probably better expressive of its state in 1844 – lives on in Watkin's vocabulary list and in many [[Sooty shearwater|muttonbirding]] terms still in use, and may flourish again in the new climate of [[Maoritanga|Maoritaka]]."<ref>{{cite book |last=Natusch |first=S |date=1999 |title=Southward Ho! The Deborah in Quest of a New Edinburgh, 1844.|location=Invercargill, NZ |publisher=Craig Printing |isbn=978-0-908629-16-9}}</ref>}} many government and educational agencies in [[Otago]] and [[Southland, New Zealand|Southland]] encourage the use of the dialect in signage<ref>{{Cite web |url=https://www.otago.ac.nz/maori/world/signage/index.html |title=Approved Māori signage |website=University of Otago  |access-date=2019-06-06}}</ref> and official documentation.<ref>"[https://web.archive.org/web/20130209072805/http://www.es.govt.nz/media/13556/coastal-plan-december-10-1-introduction.pdf Eastern Southland Regional Coastal Plan]", from "Regional Coastal Plan for Southland – July 2005 – Chapter 1". See section 1.4, Terminology. Retrieved 3 December 2014.</ref>
+
+== Grammar and syntax ==
+Māori has mostly a [[Word order|verb-subject-object word order]],<ref>{{cite web |url=http://www.maorilanguage.info/mao_lang_desc1.html |title=Brief (200) Word Description of the Māori Language |first= Peter J. |last=Keegan |date=2017 |access-date=16 September 2019}}</ref> is [[Isolating language|analytical]] and makes extensive use of grammatical particles to indicate grammatical categories of tense, mood, aspect, case, topicalization, among others. The personal pronouns have a distinction in [[clusivity]], singular, dual and plural numbers,{{sfn|Biggs|1998|pages= 32-33}} and the genitive pronouns have different classes (''a'' class, ''o'' class and neutral) according to whether the possession is [[Alienable and inalienable possession|alienable]] or the possessor has control of the relationship (''a'' category), or the possession is [[Inalienable possession|inalienable]] or the possessor has no control over the relationship (''o'' category), and a third [[Possessive determiner|neutral class]] that only occurs for singular pronouns and must be followed by a noun.{{sfn|Biggs|1998|pages=46-48}}
+
+=== Bases ===
+Biggs (1998) developed an analysis that the basic unit of Māori speech is the phrase rather than the word.{{sfn|Biggs|1998|page=3}} The lexical word forms the "base" of the phrase. Biggs identifies five types of bases.
+
+'''Noun''' bases include those bases that can take a definite article, but cannot occur as the nucleus of a verbal phrase; for example: {{lang|mi|ika}} (fish) or {{lang|mi|rākau}} (tree).{{sfn|Biggs|1998|pages=54-55}} Plurality is marked by various means, including the definite article (singular {{lang|mi|te}}, plural {{lang|mi|ngā}}),{{sfn|Bauer|1997|pages=144-147}} deictic particles {{lang|mi|tērā rākau}} (that tree), {{lang|mi|ērā rākau}} (those trees),{{sfn|Bauer|1997|pages=153-154}} possessives {{lang|mi|taku whare}} (my house), {{lang|mi|aku whare}} (my houses).{{sfn|Bauer|1997|pages=394-396}} A few nouns lengthen a vowel in the plural, such as {{lang|mi|wahine}} (woman); {{lang|mi|wāhine}} (women).{{sfn|Bauer|1997|page=160}} In general, bases used as qualifiers follow the base they qualify, e.g. "matua wahine" (mother, female elder) from "matua" (parent, elder) "wahine" (woman).{{sfn|Biggs|1998|page=153}}
+
+'''Universal''' bases are verbs which can be used passively. When used passively, these verbs take a passive form. Biggs gives three examples of universals in their passive form: {{transl|mi|inumia}} (drunk), {{transl|mi|tangihia}} (wept for), and {{lang|mi|kīa}} (said).{{sfn|Biggs|1998|page=55}}
+
+'''Stative''' bases serve as bases usable as verbs but not available for passive use, such as ''ora'', alive or ''tika'', correct.{{sfn|Biggs|1998|page=55}} Grammars generally refer to them as "stative verbs". When used in sentences, statives require different syntax than other verb-like bases.{{sfn|Biggs|1998|pages=23-24}}
+
+'''Locative''' bases can follow the locative particle ''ki'' (to, towards) directly, such as ''runga'', above, ''waho'', outside, and placenames (''ki Tamaki'', to Auckland).{{sfn|Biggs|1998|page=57}}
+
+'''Personal''' bases take the personal article ''a'' after ''ki'', such as names of people (''ki a Hohepa'', to Joseph), personified houses, personal pronouns, ''wai?'' who? and ''Mea'', so-and-so.{{sfn|Biggs|1998|page=57}}
+
+=== Particles ===
+Like all other Polynesian languages, Māori has a rich array of particles, which include verbal particles, pronouns, locative particles, articles and possessives.
+
+Verbal particles indicate aspectual, tense related or modal properties of the verb to which they relate to. They include:
+
+* ''i'' (past)
+* ''e'' (non-past)
+* ''i te'' (past continuous)
+* ''kei te'' (present continuous){{sfn|Biggs|1998|pages=107-108}}
+* ''kua'' (perfect)
+* ''e ... ana'' (imperfect, continuous)
+* ''ka'' (inceptive, future)
+* ''kia'' (desiderative)
+* ''me'' (prescriptive)
+* ''kei'' (warning, "lest")
+* ''ina'' or ''ana'' (punctative-conditional, "if and when"){{sfn|Bauer|1997|pages=84-100}}
+* ''kāti'' (cessative){{sfn|Bauer|1997|page=447}}
+*''ai'' (habitual){{sfn|Bauer|1997|page=98}}
+
+Locative particles (prepositions) refer to position in time and/or space, and include:
+
+*''ki'' (to, towards)
+*''kei'' (at)
+*''i'' (past position)
+*''hei'' (future position){{sfn|Bauer|1997|page=30}}
+
+Possessives fall into one of two classes of prepositions marked by ''a'' and ''o'', depending on the dominant versus subordinate relationship between possessor and possessed: ''ngā tamariki a te matua'', the children of the parent but ''te matua o ngā tamariki'', the parent of the children.{{sfn|Biggs|1998|pages=42}}
+
+=== Determiners ===
+==== Articles ====
+{| class="wikitable"
+!
+! Singular
+! Plural
+|-
+! Definite
+|      ''te''
+|  ''ngā''
+|-
+! Indefinite<sup>1</sup>
+| colspan="2" | ''he''
+|-
+! Indefinite<sup>2</sup>
+| ''tētahi''
+| ''ētahi''
+|-
+! Proper
+| colspan="2" | ''a''
+|}
+
+The definite articles are {{lang|mi|te}} (singular) and {{lang|mi|ngā}} (plural).{{sfn|Biggs|1998|pages=7-8}}<ref name="Māori: A Linguistic Introduction">{{cite book |last1=Harlow |first1=Ray |title=Māori: A Linguistic Introduction |date=2007 |publisher=Cambridge University Press |page=141}}</ref> Several other determiners termed definitives are related to the singular definite article {{lang|mi|te}}, such as the definitive [[#possessive pronouns|possessive constructions]] with {{lang|mi|tā}} and {{lang|mi|tō}} and the [[#Demonstrative_determiners_and_adverbs|demonstrative determiners]].{{sfn|Biggs|1998|pages=46-48}}
+
+The Māori definite articles are frequently used where the equivalent, ''the'', is not used in English, such as when referring generically to an entire class. In these cases, the singular {{lang|mi|te}} can even be used with a morphologically plural noun, as in 
+{{interlinear|indent=2| lang = mi
+| te tamariki
+| DEF.SG child.PL
+|"children (in general)"}}
+as opposed to 
+{{interlinear|indent=2| lang = mi
+| ngā tamariki
+| DEF.PL child.PL
+|"the (specific group of) children"}}<ref name="Māori: A Linguistic Introduction"/>
+
+In other syntactic environments, the definite article may be used to introduce a noun-phrase which is pragmatically indefinite due to the restrictions on the use of {{lang|mi|he}} as discussed below.<ref name="Māori: A Linguistic Introduction"/>
+
+The indefinite article {{lang|mi|he}} is used most frequently in the predicate and occasionally in the subject of the sentence, although it is not allowed in subject position in all sentence types.<ref>{{cite book |last1=Harlow |first1=Ray |title=Māori: A Linguistic Introduction |date=2007 |publisher=Cambridge University Press |pages=143, 144}}</ref> In the predicate, the indefinite article {{lang|mi|he}} can introduce either nouns or adjectives.<ref>{{cite book |last1=Harlow |first1=Ray |title=Māori: A Linguistic Introduction |date=2007 |publisher=Cambridge University Press |page=143}}</ref> The article either can be translated to the English ‘a’ or ‘some’, but the number will not be indicated by {{lang|mi|he}}. With nouns that show morphological number, {{lang|mi|he}} may be used either with singular or plural forms. The indefinite article {{lang|mi|he}} when used with mass nouns like water and sand will always mean 'some'.{{sfn|Biggs|1998|page=7}}
+
+{| class="wikitable"
+| {{lang|mi|he tāne}}
+| a man
+| some men
+|-
+| {{lang|mi|he kōtiro}}
+| a girl
+| some girls
+|-
+| {{lang|mi|he kāinga}}
+| a village
+| some villages
+|-
+| {{lang|mi|he āporo}}
+| an apple
+| some apples
+|-
+| {{lang|mi|he tangata}}
+| a person
+| -
+|-
+| {{lang|mi|he tāngata}}
+| -
+| some people
+|}
+
+The indefinite article {{lang|mi|he}} is highly restricted in its use and is incompatible with a preceding preposition. For this reason, it cannot be used in the grammatical object of the sentence as these are marked prepositionally, either with {{lang|mi|i}} or {{lang|mi|ki}}. In many cases, speakers simply use the definite articles {{lang|mi|te}} and {{lang|mi|ngā}} in positions where {{lang|mi|he}} is disallowed, however the indefinite articles {{lang|mi|tētahi}} and {{lang|mi|ētahi}} may be used in these situations to emphasise the indefiniteness.<ref name="ReferenceA">{{cite book |last1=Harlow |first1=Ray |title=Māori: A Linguistic Introduction |date=2007 |publisher=Cambridge University Press |page=144}}</ref>
+
+{{interlinear|indent=2| lang = mi
+| I kite ahau i '''te''' kurī.
+| PST see 1S ACC '''DEF.SG''' dog
+|"I saw '''the''' dog."<br>("I saw '''a''' dog.")}}
+
+{{interlinear|indent=2| lang = mi
+| I kite ahau i '''tētahi''' kurī.
+| PST see 1S ACC '''INDEF.SG''' dog
+|"I saw '''a''' dog."}}
+
+In positions where both {{lang|mi|he}} and {{lang|mi|tētahi}}/{{lang|mi|ētahi}} may occur, there are sometimes differences of meaning between them as the following examples indicate.<ref>{{cite book |last1=Harlow |first1=Ray |title=Māori: A Linguistic Introduction |date=2007 |publisher=Cambridge University Press |page=145}}</ref>
+
+{{interlinear|indent=2| lang = mi
+| Kāore '''tētahi''' '''tangata''' i haere mai.
+| NEG '''SG.INDEF''' '''person.SG''' PST go towards.speaker
+|(1) "'''Someone''' didn't come." / "'''A particular person''' didn't come."<br>(2) "'''Nobody''' came."}}
+
+{{interlinear|indent=2| lang = mi
+| Kāore '''he''' '''tangata''' i haere mai.
+| NEG '''INDEF''' '''person.SG''' PST go towards.speaker
+|"'''Nobody''' came."}}
+
+The proper article {{lang|mi|a}} is used before personal and locative nouns acting as the subject of the sentence or before personal nouns and pronouns within prepositional phrases headed by prepositions ending in ''i'' (namely {{lang|mi|i}}, {{lang|mi|ki}}, {{lang|mi|kei}} and {{lang|mi|hei}}).<ref name="ReferenceA"/>
+
+{{interlinear|indent=2| lang = mi
+| Kei hea '''a''' '''Pita'''?
+| PRES.LOC where '''ART''' '''Peter'''
+|"Where is '''Peter'''?"}}
+
+{{interlinear|indent=2| lang = mi
+| Kei hea '''ia'''?
+| PRES.LOC where '''3S'''
+|"Where is '''he'''?"}}
+
+{{interlinear|indent=2| lang = mi
+| Kei {Tāmaki Makaurau} '''a''' '''Pita'''?
+| PRES.LOC Auckland '''ART''' '''Peter'''
+|"'''Peter''' is in Auckland."}}
+
+{{interlinear|indent=2| lang = mi
+| Kei {Tāmaki Makaurau} '''ia'''?
+| PRES.LOC Auckland '''3S'''
+|"'''He''' is in Auckland."}}
+
+{{interlinear|indent=2| lang = mi
+| I kite ahau '''i''' '''a''' '''Pita'''
+| PST see 1S '''ACC''' '''ART''' '''Peter'''
+|"I saw '''Peter'''."}}
+
+{{interlinear|indent=2| lang = mi
+| I kite ahau '''i''' '''a''' '''ia'''
+| PST see 1S '''ACC''' '''ART''' '''3S'''
+|"I saw '''him'''."}}
+
+The personal nouns are not accompanied by definite or indefinite articles unless they are an intrinsic part of the name, as in [[Te Rauparaha]].{{sfn|Biggs|1998|pages=8-9}}
+
+{{interlinear|indent=2| lang = mi
+| Kei hea '''a''' '''Te''' '''Rauparaha'''?
+| PRES.LOC where '''ART''' '''Te''' '''Rauparaha'''
+|"Where is '''Te''' '''Rauparaha'''?"}}
+
+{{interlinear|indent=2| lang = mi
+| Kei t-ō-ku kāinga '''a''' '''Te''' '''Rauparaha'''.
+| PRES.LOC DEF.SG-INAL-1s home '''ART''' '''Te''' '''Rauparaha'''
+|"Te Rauparaha is at my home."}}
+
+Proper nouns are not preceded by the proper article when they are neither acting as the subject of the sentence nor in a prepositional phrase headed by {{lang|mi|i}}, {{lang|mi|ki}}, {{lang|mi|kei}} or {{lang|mi|hei}}. For example, after the focusing particle {{lang|mi|ko}}, the proper article is not used.
+
+{{interlinear|indent=2| lang = mi
+| '''Ko''' '''Rāwiri''' t-ō-ku ingoa.
+| '''FOC''' '''Rāwiri''' DEF.SG-INAL-1S name
+|"My name is '''Rāwiri'''."}}
+
+{{interlinear|indent=2| lang = mi |abbreviations=DIST:distal
+| '''Ko''' '''Te''' '''Rauparaha''' tērā tangata.
+| '''FOC''' '''Te''' '''Rauparaha''' DEM.SG.DIST person.SG
+|"That person (over there) is '''Te Rauparaha'''."}}
+
+==== Demonstrative determiners and adverbs ====
+Demonstratives occur after the noun and have a deictic function, and include {{lang|mi|tēnei}}, this (near me), {{lang|mi|tēnā}}, that (near you), {{lang|mi|tērā}}, that (far from us both), and {{lang|mi|taua}}, the aforementioned (anaphoric). These demonstratives, having a connection to the definite article {{lang|mi|te}} are termed definitives. Other definitives include {{lang|mi|tēhea?}} (which?), and {{lang|mi|tētahi}}, (a certain). The plural is formed just by dropping the ''t'': {{lang|mi|tēnei}} (this), {{lang|mi|ēnei}} (these). The related adverbs are {{lang|mi|nei}} (here), {{lang|mi|nā}} (there, near you), {{lang|mi|rā}} (over there, near him).{{sfn|Bauer|1997|pages=152-154}}
+
+Phrases introduced by demonstratives can also be expressed using the definite article {{lang|mi|te}} or {{lang|mi|ngā}} preceding a noun followed by one of the deictic particles {{lang|mi|nei}}, {{lang|mi|nā}} or {{lang|mi|rā}}. The ''t'' of the singular definite article appears in the singular demonstratives but is replaced by ''∅'' in the plural, having no connection with {{lang|mi|ngā}} in the majority of dialects.
+
+{{interlinear|indent=2| lang = mi |abbreviations=PROX:proximal
+| te whare nei {{=}} tēnei whare
+| DEF.SG house PROX {{=}} DEM.SG.PROX house
+|"this house"}}
+
+{{interlinear|indent=2| lang = mi |abbreviations=PROX:proximal
+| ngā whare nei {{=}} ēnei whare
+| DEF.SG house PROX {{=}} DEM.SG.PROX house
+|"this house"}}<ref>{{cite book |last1=Harlow |first1=Ray |title=Māori: A Linguistic Introduction |date=2007 |publisher=Cambridge University Press |page=142}}</ref>
+
+However, in dialects of the [[Waikato]] area, plural forms of demonstratives beginning with ''ng-'' are found, such as {{lang|mi|ngēnei}} 'these' instead of the more widespread {{lang|mi|ēnei}} (as well as and [[#Possessive_pronouns|possessives]] such as {{lang|mi|ng(e)ōku}} 'my (plural, inalienable)' instead of {{lang|mi|ōku}}).<ref>{{cite book |last1=Harlow |first1=Ray |title=Māori: A Linguistic Introduction |date=2007 |publisher=Cambridge University Press |page=48}}</ref>
+
+The following table shows the most common forms of demonstratives across dialects.
+
+{| class="wikitable"
+!
+!Singular
+!Plural
+!Adverb
+|-
+!Proximal
+|{{lang|mi|tēnei}}
+|{{lang|mi|ēnei}}
+|{{lang|mi|nei}}
+|-
+!Medial
+|{{lang|mi|tēnā}}
+|{{lang|mi|ēnā}}
+|{{lang|mi|nā}}
+|-
+!Distal
+|{{lang|mi|tērā}}
+|{{lang|mi|ērā}}
+|{{lang|mi|rā}}
+|-
+!Aforementioned
+|{{lang|mi|taua}}
+|{{lang|mi|aua}}
+|
+|}
+
+=== Pronouns ===
+
+==== Personal pronouns ====
+Pronouns have singular, dual and plural number. Different first-person forms in both the dual and the plural are used for groups inclusive or exclusive of the person(s) addressed.
+
+[[File:Pronouns In New Zealand Te Reo Māori.svg|thumb|upright=1.5|Diagram of pronouns in Māori. Grammatical person: {{hlist
+ | class=inline
+ | {{legend-inline|green|1}}
+ | {{legend-inline|blue|2}}
+ | {{legend-inline|grey|3}}
+}}]]
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | {{wikt-lang|mi|au}} / {{wikt-lang|mi|ahau}}
+| {{wikt-lang|mi|māua}}
+| {{wikt-lang|mi|mātou}}
+|-
+! {{small|inclusive}}
+| {{wikt-lang|mi|tāua}}
+| {{wikt-lang|mi|tātou}}
+|-
+! colspan="2" | 2nd person
+| {{wikt-lang|mi|koe}}
+| {{wikt-lang|mi|kōrua}}
+| {{wikt-lang|mi|koutou}}
+|-
+! colspan="2" | 3rd person
+| {{wikt-lang|mi|ia}}
+| {{wikt-lang|mi|rāua}}
+| {{wikt-lang|mi|rātou}}
+|}
+
+Like other Polynesian languages, Māori has three [[Grammatical number|numbers]] for pronouns and possessives: singular, [[dual (grammatical number)|dual]] and plural. For example: {{lang|mi|ia}} (he/she), {{lang|mi|rāua}} (they two), {{lang|mi|rātou}} (they, three or more). Māori pronouns and possessives further distinguish exclusive "we" from inclusive "we", second and third. It has the plural pronouns: {{lang|mi|mātou}} (we, exc), {{lang|mi|tātou}} (we, inc), {{lang|mi|koutou}} (you), {{lang|mi|rātou}} (they). The language features the dual pronouns: {{lang|mi|māua}} (me and another), {{lang|mi|tāua}} (me and you), {{lang|mi|kōrua}} (you two), {{lang|mi|rāua}} (they two). The difference between [[Clusivity|exclusive and inclusive]] lies in the treatment of the person addressed. {{lang|mi|Mātou}} refers to the speaker and others but not the person or persons spoken to ("I and some others but not you"), and {{lang|mi|tātou}} refers to the speaker, the person or persons spoken to and everyone else ("you, I and others"):{{sfn|Bauer|1997|pages=261-262}}
+
+* {{lang|mi|Tēnā koe}}: hello (to one person)
+* {{lang|mi|Tēnā kōrua}}: hello (to two people)
+* {{lang|mi|Tēnā koutou}}: hello (to more than two people)<ref>{{cite web |url=http://www.maorilanguage.net/maori-words-phrases/greetings-mihi/ |title=Greetings - Mihi |website=MāoriLanguage.net |access-date=22 September 2019}}</ref>
+
+==== Possessive pronouns ====
+The possessive pronouns vary according to person, number, [[clusivity]], and possessive class (a class or o class). Example: {{lang|mi|tāku pene}} (my pen), {{lang|mi|āku pene}} (my pens). For dual and plural subject pronouns, the possessive form is analytical, by just putting the possessive particle ('''tā/tō''' for singular objects or '''ā/ō''' for plural objects) before the personal pronouns, e.g. {{lang|mi|tā tātou karaihe}} (our class), {{lang|mi|tō rāua whare}} (their [dual] house); {{lang|mi|ā tātou karaihe}} (our classes). The neuter one must be followed by a noun and only occur for singular first, second and third persons. {{lang|mi|Taku}} is my, {{lang|mi|aku}} is my (plural, for many possessed items). The plural is made by deleting the initial [t].{{sfn|Biggs|1998|pages=46-48}}
+
+{| class="wikitable"
+|-
+! colspan=2 | Subject
+! colspan=6 | Object
+|-
+! rowspan=2 | Number
+! rowspan=2 | Person
+! colspan=3 | Singular
+! colspan=3 | Plural
+|-
+! a class
+! o class
+! neutral
+! a class
+! o class
+! neutral
+|-
+! rowspan="3" scope="row" |Singular
+! scope="row" |1
+|tāku
+|tōku
+|taku
+|āku
+|ōku
+|aku
+|-
+! scope="row" |2
+|tāu
+|tōu
+|tō
+|āu
+|ōu
+|ō
+|-
+! scope="row" |3
+|tāna
+|tōna
+|tana
+|āna
+|ōna
+|ana
+|}
+
+==== Interrogative pronouns ====
+* {{lang|mi|wai}} ('who')
+* {{lang|mi|aha}} ('what')
+* {{lang|mi|hea}} ('where')
+* {{lang|mi|nō hea}} ('whence')
+* {{lang|mi|āhea}} ('when')
+* {{lang|mi|e hia}} ('how many [things]')
+* {{lang|mi|tokohia}} ('how many [people]')
+* {{lang|mi|pēhea}} ('how')
+* {{lang|mi|tēhea}} ('which'), ēhea ('which [pl.]')
+* {{lang|mi|he aha ... ai}} ('why [reason]')
+* {{lang|mi|nā te aha ... ai}} ('why [cause]')<ref>{{cite web |url=https://kupu.maori.nz/sentences/questions |title=Questions |publisher=Kupu o te Rā |website=kupu.maori.nz |access-date= 22 September 2019}}</ref>
+
+=== Phrase grammar ===
+A phrase spoken in Māori can be broken up into two parts: the “nucleus” or "head" and “periphery” (modifiers, determiners). The nucleus can be thought of as the meaning and is the centre of the phrase, whereas the periphery is where the grammatical meaning is conveyed and occurs before and/or after the nucleus.{{sfn|Biggs|1998|page=4}}
+
+{| class="wikitable"
+! Periphery
+! Nucleus
+! Periphery
+|-
+| ''te''
+| ''whare''
+| ''nei''
+|-
+| ''ki te''
+| ''whare''
+|
+|}
+
+The nucleus {{lang|mi|whare}} can be translated as "house", the periphery {{lang|mi|te}} is similar to an article "the" and the periphery {{lang|mi|nei}} indicates proximity to the speaker. The whole phrase, {{lang|mi|te whare nei}}, can then be translated as "this house".{{sfn|Biggs|1998|page=5}}
+
+==== Phrasal particles ====
+A definite and declarative sentence (may be a copulative sentence) begins with the declarative particle ''ko''.{{sfn|Biggs|1998|pages=15-17}} If the sentence is topicalized (agent topic, only in non-present sentences) the sentence begins with the particle '''''nā''''' (past tense) or the particle '''''mā''''' (future, imperfective) followed by the agent/subject. In these cases the word order changes to subject-verb-object. These agent topicalizing particles can contract with singular personal pronouns and vary according to the possessive classes: ''nāku'' can be thought of as meaning "as for me" and behave like an emphatic or dative pronoun.{{sfn|Biggs|1998|pages=87-89}}
+
+{| class="wikitable"
+|+Agent topic pronouns
+!
+!Past
+!Future
+|-
+!1S
+|nāku/nōku
+|māku/mōku
+|-
+!2S
+|nāu/nōu
+|māu/mō
+|-
+!3S
+|nāna/nōna
+|māna/mōna
+|}
+
+==== Case particles ====
+* Nominative: ko{{sfn|Bauer|1997|page=181}}
+* Accusative: i{{sfn|Bauer|1997|pages=175-176}}
+* Dative/directional locative: ki{{sfn|Bauer|1997|pages=176-179}}
+* Genitive: a/o{{sfn|Bauer|1997|pages=183-184}}
+
+=== Negation ===
+Forming negative phrases in Māori is quite grammatically complex. There are several different negators which are used under various specific circumstances.{{sfn|Bauer|Evans|Parker|2001|page=139}} The four main negators are as follows:{{sfn|Bauer|Evans|Parker|2001|page=139}}
+
+{| class="wikitable"
+!Negator
+!Description
+|-
+|{{lang|mi|kāo}}
+|Negative answer to a polar question.
+|-
+|{{lang|mi|kāore/kāhore/kāre/}}
+|The most common verbal negator.
+|-
+|{{lang|mi|kore}}
+|A strong negator, equivalent to 'never'.
+|-
+|{{lang|mi|kaua e}}
+|Negative imperatives; prohibitive 
+|-
+|{{lang|mi|ehara}}
+|Negation for copulative phrases, topicalized and equative phrases
+|}
+
+{{lang|mi|Kīhai}} and {{lang|mi|tē}} are two negators which may be seen in specific dialects or older texts, but are not widely used.{{sfn|Bauer|Evans|Parker|2001|page=139}} The most common negator is {{lang|mi|kāhore}}, which may occur in one of four forms, with the {{lang|mi|kāo}} form only being used in response to a question.{{sfn|Bauer|Evans|Parker|2001|page=139}} Negative phrases, besides using {{lang|mi|kāore}}, also affect the form of verbal particles, as illustrated below.
+
+{| class="wikitable"
+|+Verbal particles{{sfn|Bauer|Evans|Parker|2001|page=139}}
+!
+!Positive
+!Negative
+|-
+!Past
+|i
+|i
+|-
+!Future
+|ka
+|i/e
+|-
+!Present
+|kei te
+|i te
+|-
+!Imperfect
+| colspan="2" |e...ana
+|-
+!Past perfect
+|kua
+|kia
+|}
+
+The general usage of {{lang|mi|kāhore}} can be seen in the following examples. The subject is usually raised in negative phrases, although this is not obligatory.{{sfn|Bauer|Evans|Parker|2001|page=141}} Each example of a negative phrase is presented with its analogue positive phrase for comparison.
+
+{{Col-begin}}
+{{Col-2}}
+{{interlinear|indent=3|lang=mi|E haere ana tātou āpōpō|{{gcl|T/A|tense/aspect}} move {{gcl|T/A|tense/aspect}} 1PL.INCL tomorrow|'We are going tomorrow'{{sfn|Bauer|Evans|Parker|2001|page=140}} }}
+{{interlinear|indent=3|lang=mi|Kua tae mai he tāngata|{{gcl|T/A|tense/aspect}} arrive hither a people|'Some people have arrived'{{sfn|Bauer|Evans|Parker|2001|page=140}} }}
+{{Col-2}}
+{{interlinear|lang=mi|'''Kāhore''' tātou e haere ana āpōpō|'''NEG''' 1PL.INCL {{gcl|T/A|tense/aspect}} move {{gcl|T/A|tense/aspect}} tomorrow|'We are not going tomorrow'{{sfn|Bauer|Evans|Parker|2001|page=140}} }}
+{{interlinear|lang=mi|'''Kāhore''' anō he tāngata kia tae mai|'''NEG''' yet a people SUBJ arrive hither|'Nobody has arrived yet'{{sfn|Bauer|Evans|Parker|2001|page=140}} }}
+{{Col-end}}
+
+=== Passive sentences ===
+The passive voice of verbs is made by a suffix to the verb. For example, -ia (or just -a if the verb ends in [i]). The other passive suffixes, some of which are very rare, are: -hanga/-hia/-hina/-ina/-kia/-kina/-mia/-na/-nga/-ngia/-ria/-rina/-tia/-whia/-whina/.{{sfn|Harlow|2015 |page= 113}} The use of the passive suffix -ia is given in this sentence: ''Kua hanga'''ia''' te marae e ngā tohunga'' (The marae has been built by the experts). The active form of this sentence is rendered as: ''Kua hanga ngā tohunga i te marae'' (The experts have built the marae). It can be seen that the active sentence contains the object marker 'i', that is not present in the passive sentence, while the passive sentence has the agent marker 'e', which is not present in the active sentence.<ref>{{cite web |url=https://kupu.maori.nz/sentences/passive-sentences |publisher=Kupu o te Rā |title= Passive sentences |website=kupu.maori.nz |access-date= 14 September 2019}}</ref>
+
+=== Polar questions ===
+Polar questions (yes/no questions) can be made by changing the intonation of the sentence. The answers may be āe (yes) or kāo (no).{{sfn|Bauer|1997|pages=424-427}}
+
+=== Derivational morphology ===
+Although Māori is mostly analytical there are several derivational affixes:
+
+* -anga, -hanga, -ranga, -tanga (-ness, -ity) (the suffix depends on whether the verb takes, respectively, the -ia, -hia, -ria or -tia passive suffixes) (e.g. ''pōti'' 'vote', ''pōtitanga'' 'election')
+* -nga (nominalizer){{sfn|Bauer|1997|pages=517-524}}
+* kai- (agentive noun){{sfn|Bauer|1997|pages=25-26}} (e.g. ''mahi'' 'work', ''kaimahi'' 'worker/employee')
+* ma- (adjectives){{sfn|Harlow|2015|page=112}}
+* tua- (ordinal numerals){{sfn|Bauer|1997|pages=282-283}} (e.g. ''tahi'' 'one', ''tuatahi'' 'first/primary')
+*whaka- (causative prefix){{sfn|Bauer|1997|pages=44-45}}
+
+== Calendar ==
+From missionary times, Māori adopted phonetic variants of the English names for the days of the week and the months of the year. Since about 1990, the Māori Language Commission has promoted new "traditional" sets. Its days of the week have no pre-European equivalent, but reflect the pre-Christian  origins of the English names.{{citation needed|date=August 2021}} The commission based the months of the year on those of the traditional Māori [[lunar calendar]] ('''{{lang|mi|maramataka}}''').<ref>{{cite web |url=https://www.tetaurawhiri.govt.nz/en/learn/orthographics/ |title=Māori Orthographic Conventions|publisher= {{lang|mi|Te Taura Whiri i Te Reo Māori}} (Māori Language Commission) |access-date=23 September 2019}}</ref>
+
+{|style="margin-right: 2em;" class="wikitable"
+|+Māori days of the week
+!style="width: 5em;" | Day
+!style="width: 8em;" | Adaptation
+!Official
+|-
+|Monday || {{lang|mi|Mane}} || {{lang|mi|Rāhina}}
+|-
+|Tuesday || {{lang|mi|Tūrei}} || {{lang|mi|Rātū}}
+|-
+|Wednesday || {{lang|mi|Wenerei}} || {{lang|mi|Rāapa}}
+|-
+|Thursday || {{lang|mi|Tāite}} || {{lang|mi|Rāpare}}
+|-
+|Friday || {{lang|mi|Paraire}} || {{lang|mi|Rāmere}}
+|-
+|Saturday || {{lang|mi|Rāhoroi/Hāterei}} || {{lang|mi|Rāhoroi}}
+|-
+|Sunday || {{lang|mi|Rātapu/Wiki}} || {{lang|mi|Rātapu}}
+|}
+
+{| class="wikitable"
+|+ Māori lunar calendar<ref>{{cite web |last1=Taonga |publisher=New Zealand Ministry for Culture and Heritage Te Manatu |title=Lunar months |url=https://teara.govt.nz/en/maramataka-the-lunar-calendar/page-1 |website=Te Ara |access-date=2022-01-14}}</ref>
+!style="width: 5em;" | Month
+!style="width: 7em;" | Adaptation
+!Official
+!Description
+|-
+|December–January|| {{lang|mi|Hānuere}} || {{lang|mi|Kohi-tātea}}
+|"Fruits are now ripe, and man eats of the new food of the season."
+|-
+|January–February
+| {{lang|mi|Pēpuere}} || {{lang|mi|Hui-tanguru}}
+|"The foot of Rūhī (a summer star) now rests upon the earth."
+|-
+|February–March || {{lang|mi|Māehe}} || {{lang|mi|Poutū-te-rangi}}
+|The crops are now harvested.
+|-
+|March–April || {{lang|mi|Āperira}} || {{lang|mi|Paenga-whāwhā}}
+|"All straw is now stacked at the borders of the plantations."
+|-
+|April–May || {{lang|mi|Mei}} || {{lang|mi|Haratua}}
+|"Crops are now stored in pits. The tasks of man are finished."
+|-
+|May–June || {{lang|mi|Hune}} || {{lang|mi|Pipiri}}
+|"All things on earth are contracted because of the cold; likewise man."
+|-
+|June–July || {{lang|mi|Hūrae}} || {{lang|mi|Hōngongoi}}
+|"Man is now extremely cold and kindles fires before which he basks."
+|-
+|July–August || {{lang|mi|Ākuhata}} || {{lang|mi|Here-turi-kōkā}}
+|"The scorching effect of fire is seen on the knees of man."
+|-
+|August–September || {{lang|mi|Hepetema}} || {{lang|mi|Mahuru}}
+|"The earth has now acquired warmth, as have vegetation and trees."
+|-
+|September–October || {{lang|mi|Oketopa}} || {{lang|mi|Whiringa-ā-nuku}}
+|"The earth has now become quite warm."
+|-
+|October–November || {{lang|mi|Noema}} || {{lang|mi|Whiringa-ā-rangi}}
+|"It has now become summer, and the sun has acquired strength."
+|-
+|November–December || {{lang|mi|Tīhema}} || {{lang|mi|Hakihea}}
+|"Birds are now sitting in their nests."
+|}
+
+== Influence on New Zealand English ==
+{{Main|Māori influence on New Zealand English}}
+[[New Zealand English]] has gained many loanwords from Māori, mainly the names of birds, plants, fishes and places. For example, the [[Kiwi (bird)|kiwi]], the [[national bird]], takes its name from {{lang|mi|te reo}}. "[[Kia ora]]" (literally "be healthy") is a widely adopted greeting of Māori origin, with the intended meaning of "hello".<ref>{{cite web|last1=Swarbrick|first1=Nancy|title=Manners and social behaviour|url=https://teara.govt.nz/en/manners-and-social-behaviour/page-7|website=teara.govt.nz|publisher=Te Ara: The Encyclopedia of New Zealand|access-date=21 February 2018|language=en|date=5 September 2013}}</ref> It can also mean "thank you", or signify agreement with a speaker at a meeting. The Māori greetings {{lang|mi|tēnā koe}} (to one person), {{lang|mi|tēnā kōrua}} (to two people) or {{lang|mi|tēnā koutou}} (to three or more people) are also widely used, as are farewells such as {{lang|mi|haere rā}}. The Māori phrase {{lang|mi|kia kaha}}, "be strong", is frequently encountered as an indication of moral support for someone starting a stressful undertaking or otherwise in a difficult situation. Many other words such as {{lang|mi|[[whānau]]}} (meaning "family") and {{lang|mi|kai}} (meaning "food") are also widely understood and used by New Zealanders. The Māori phrase {{lang|mi|Ka kite ano}} means 'until I see you again' is quite commonly used.
+
+==Demographics==
+{| class="wikitable"
+! Place
+! Māori-speaking population
+|-
+| [[New Zealand]]
+| 185,955
+|-
+| [[Queensland]]
+| 4,264<ref>{{Cite web|url=https://profile.id.com.au/australia/language?WebID=120|title=Language spoken at home &#124; Australia &#124; Community profile 120|website=profile.id.com.au}}</ref>
+|-
+| [[Western Australia]]
+| 2,859<ref name="auto">{{Cite web|url=https://profile.id.com.au/australia/language?WebID=130|title=Language spoken at home &#124; Australia &#124; Community profile 130|website=profile.id.com.au}}</ref>
+|-
+| [[New South Wales]]
+| 2,429<ref>{{Cite web|url=https://profile.id.com.au/australia/language?WebID=100|title=Language spoken at home &#124; Australia &#124; Community profile 100|website=profile.id.com.au}}</ref>
+|-
+| [[Victoria (Australia)|Victoria]]
+| 1,680<ref>{{Cite web|url=https://profile.id.com.au/australia/language?WebID=110|title=Language spoken at home &#124; Australia &#124; Community profile 110|website=profile.id.com.au}}</ref>
+|-
+| [[South Australia]]
+| 222<ref name="auto"/>
+|-
+| [[Northern Territory]]
+| 178<ref>{{Cite web|url=https://profile.id.com.au/australia/language?WebID=160&BMID=20|title=Language spoken at home &#124; Australia &#124; Community profile 160|website=profile.id.com.au}}</ref>
+|-
+| [[Australian Capital Territory]]
+| 58<ref>{{Cite web|url=https://profile.id.com.au/australia/language?WebID=170&BMID=20|title=Language spoken at home &#124; Australia &#124; Community profile 170|website=profile.id.com.au}}</ref>
+|-
+| [[Tasmania]]
+| 52<ref>{{Cite web|url=https://profile.id.com.au/australia/language?WebID=150|title=Language spoken at home &#124; Australia &#124; Community profile 150|website=profile.id.com.au}}</ref>
+|}
+
+== Online translators ==
+Māori is available on [[Google Translate]], [[Microsoft Translator]] and [[Yandex.Translate]]. Various Māori dictionaries exist on the website [[Glosbe]]. Another popular online dictionary is ''Māori Dictionary''.<ref>{{Cite web|url=https://maoridictionary.co.nz/|title=Māori Dictionary|website=maoridictionary.co.nz}}</ref>
+
+== See also ==
+{{InterWiki|code=mi}}
+{{portal|Languages|New Zealand}}
+* [[Māori Language Day]]
+* [[Te Wiki o te Reo Māori]] (Māori Language Week)
+
+==Notes==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+===Sources ===
+{{refbegin|30em|indent=yes}}
+* {{cite book |author-link=Joseph Banks |last1=Banks |first1=Sir Joseph |title=The Endeavour Journal of Sir Joseph Banks, Journal from 25 August 1768 – 12 July 1771 |date=1771 |url=http://gutenberg.net.au/ebooks05/0501141h.html |publisher=[[Project Gutenberg]]}} Also  [[s:The Endeavour Journal of Sir Joseph Banks|available at Wikisource]].
+* {{cite book |last=Bauer |first=Winifred |date=1993 |title=Maori |publisher=Routledge |series= Routledge descriptive grammars}}
+* {{cite book |last=Bauer |first=Winifred |date=1997 |title=Reference Grammar of Māori |location=Auckland |publisher=Reed}}
+* {{cite book |last1=Bauer |first1=Winifred |last2=Evans |first2=Te Kareongawai |last3=Parker |first3=William |date=2001 |title=Maori |publisher=Routledge |series= Routledge descriptive grammars}}
+* {{cite book |author-link=Bruce Biggs |last=Biggs |first=Bruce |date=1988 |chapter=Towards the study of Maori dialects |editor-first1=Ray |editor-last1=Harlow |editor-first2=Robin |editor-last2=Hooper |title=VICAL 1: Oceanic languages. Papers from the Fifth International Conference on Austronesian linguistics. Auckland, New Zealand. January 1988'', Part I. Auckland |publisher=Linguistic Society of New Zealand}}
+* {{cite book |last=Biggs |first=Bruce |date=1994 |chapter=Does Māori have a closest relative? |editor1-last= Sutton |editor1-first= Douglas G. |title= The Origins of the First New Zealanders |publisher=[[Auckland University Press]] |location= Auckland |isbn= 1-86940-098-4  |pages=96–105}}
+* {{cite book |last=Biggs |first=Bruce |date=1998 |title= Let's Learn Māori |location=Auckland |publisher=Auckland University Press}}
+* {{cite book |first1=George John | last1=Griffiths | first2=Maarire |last2=Goodall |title= Maori Dunedin | date=1980 | location=Dunedin |publisher= Otago Heritage Books}}
+* {{cite book |last=Clark |first=Ross |date=1994 |chapter=Moriori and Māori: The Linguistic Evidence |editor1-last= Sutton |editor1-first= Douglas G. |title= The Origins of the First New Zealanders |publisher=[[Auckland University Press]] |location= Auckland |isbn= 1-86940-098-4 |pages=123–135}}
+* {{cite book |last=Harlow |first= Ray |date=1994 |chapter=Māori Dialectology and the Settlement of New Zealand |editor1-last= Sutton |editor1-first= Douglas G. |title= The Origins of the First New Zealanders |publisher=[[Auckland University Press]] |location= Auckland |isbn= 1-86940-098-4  |pages=106–122}}
+* {{cite book |last=Harlow |first= Ray |date=1996 |title=Maori |publisher=LINCOM Europa |series=Languages of the world |isbn=9783895861208}}
+* {{cite book|last1=Harlow|first1=Ray|title=Māori, A Linguistic Introduction|date=2006|publisher=Cambridge University Press|isbn=978-1107407626|page=42}}   
+* {{cite book|last1=Harlow|first1=Ray|title=A Māori Reference Grammar |date=2015 |location=Wellington |publisher=Huia |isbn=	9781775502036}}
+* {{cite book|last1=Goodall |first1= Maarire |author2-link=George Griffiths (historian)|last2=Griffiths |first2=George J. |date=1980 |title=Maori Dunedin |location =Dunedin |publisher=Otago Heritage Books}}
+{{refend}}
+
+== Further reading ==
+* Benton, R. A. (1984). "Bilingual education and the survival of the Maori language". ''The Journal of the Polynesian Society'', 93(3), 247–266. {{JSTOR|20705872}}.
+* Benton, R. A. (1988). "The Maori language in New Zealand education". ''Language, culture and curriculum'', 1(2), 75–83. {{doi|10.1080/07908318809525030}}.
+* Benton, N. (1989). "Education, language decline and language revitalisation: The case of Maori in New Zealand". ''Language and Education'', 3(2), 65–82. {{doi|10.1080/09500788909541252}}.
+* Benton, R. A. (1997). ''The Maori Language: Dying or Reviving?''. NZCER, Distribution Services, Wellington, New Zealand.
+* Gagné, N. (2013). ''Being Maori in the City: Indigenous Everyday Life in Auckland''. University of Toronto Press. {{JSTOR|10.3138/j.ctt2ttwzt}}.
+* Holmes, J. (1997). "Maori and Pakeha English: Some New Zealand Social Dialect Data". ''Language in Society'', 26(1), 65–101. {{JSTOR|4168750}}. {{doi|10.1017/S0047404500019412}}.
+* Sissons, J. (1993). "The Systematisation of Tradition: Maori Culture as a Strategic Resource". ''Oceania'', 64(2), 97–116. {{JSTOR|40331380}}. {{doi|10.1002/j.1834-4461.1993.tb02457.x}}.
+* Smith, G. H. (2000). "Maori education: Revolution and transformative action". ''Canadian Journal of Native Education'', 24(1), 57.
+* Smith, G. H. (2003). "Indigenous struggle for the transformation of education and schooling". ''Transforming Institutions: Reclaiming Education and Schooling for Indigenous Peoples'', 1–14.
+* Spolsky, B.. (2003). "Reassessing Māori Regeneration". ''Language in Society'', 32(4), 553–578. {{JSTOR|4169286}}. {{doi|10.1017/S0047404503324042}}.
+* {{cite book |title=A Grammar and Vocabulary of the Language of New Zealand |first1=Thomas |last1=Kendall |author1-link=Thomas Kendall |first2=Samuel |last2=Lee |author2-link=Samuel Lee (linguist) |location=London |publisher=R. Watts |year=1820 |url=https://archive.org/details/agrammarandvoca00kengoog }}
+* {{cite book |title=The Maori-Polynesian comparative dictionary |first=Edward |last=Tregear |author-link=Edward Tregear |location=Wellington |publisher=[[Lyon and Blair]] |year=1891 |url=https://archive.org/details/maoripolynesian00treggoog }}
+
+== External links ==
+{{InterWiki|code=mi}}
+{{sisterlinks|commons=Category:Maori language|voy=Maori phrasebook|wikt=Māori|mw=no|species=no|m=no|d=y|s=no|b=no|v=no|q=no|n=no}}
+*[https://www.teaching.co.nz/dictionary/ Ngata Māori–English English–Māori Dictionary] from Modern Teaching Aids; gives several options and shows use in phrases.
+* [https://maoridictionary.co.nz/ Te Aka Māori-English, English-Māori Dictionary and Index], online version
+*[http://nzetc.victoria.ac.nz/tm/scholarly/tei-WillDict.html A Dictionary of the Maori Language by Herbert W. Williams], at the New Zealand Electronic Text Collection, Te Pūhikotuhi o Aotearoa
+* [http://www.nzdl.org/niupepa Collection of historic Māori newspapers]
+* [http://www.maorilanguage.info/mao_phon_desc1.html Maori Phonology]
+* [http://www.maorilanguage.net/ maorilanguage.net] Learn the basics of Māori Language with video tutorials
+* [https://nzhistory.govt.nz/culture/maori-language-week Maori Language Week] at NZHistory – includes a history of the Māori language, the Treaty of Waitangi Māori Language claim and 100 words every New Zealander should know
+* [http://www.huia.co.nz/ Huia Publishers], catalogue includes ''Tirohia Kimihia'' the world's first Māori monolingual dictionary for learners
+* [http://www.tpk.govt.nz/en/in-print/our-publications/?s=a568a773-1f8c-433c-8669-288ae44d2c6c Publications about Māori language] from Te Puni Kōkiri, the Ministry of Māori Development
+* [http://www.maori.info/maori_language.htm Te Reo Maori word list] A glossary of commonly used Māori words with English translation
+* Materials on Maori are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]].
+
+{{Māori}}
+{{Languages of New Zealand}}
+{{Polynesian languages}}
+{{New Zealand topics}}
+{{Oceania topic|Languages of}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Maori Language}}
+[[Category:Māori language| ]]
+[[Category:Endangered Austronesian languages]]
+[[Category:Polynesian languages]]
+[[Category:Languages of New Zealand]]
+[[Category:Tahitic languages]]

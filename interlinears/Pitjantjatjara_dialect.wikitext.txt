@@ -1,0 +1,262 @@
+{{Use dmy dates|date=July 2016}}
+{{Use Australian English|date=July 2016}}
+{{Infobox language
+|name=Pitjantjatjara
+|state=Australia
+|region=Northwest [[South Australia]], Pitjantjatjara freehold lands, Yalata; southwest corner, [[Northern Territory]]; also in [[Western Australia]]
+|ethnicity=[[Pitjantjatjara]]
+|speakers=3,125
+|date=2016 census
+|ref=<ref>{{Cite web|url=http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_C16_T09_SA|title=Census 2016, Language spoken at home by Sex (SA2+)|last=ABS|website=stat.data.abs.gov.au|language=en-au|access-date=2017-10-30}}</ref>
+|speakers2=
+|familycolor=Australian
+|fam1=[[Pama–Nyungan languages|Pama–Nyungan]]
+|fam2=[[Wati languages|Wati]]
+|fam3=[[Western Desert language|Western Desert]]
+|iso3=pjt
+|glotto=pitj1243
+|glottorefname=Pitjantjatjara
+|script=[[Latin script|Latin]]
+|notice=IPA
+|aiatsis=C6
+}}
+[[File:No camping Pitjantjatjara.jpg|thumb|"No camping" sign in English and Pitjantjatjara, [[Adelaide]]]]
+
+'''Pitjantjatjara''' ({{IPAc-en|p|ɪ|tʃ|ən|tʃ|ə|ˈ|tʃ|ɑː|r|ə}};{{Sfnp|Bauer|2007|p=}} {{IPA-pjt|ˈpɪɟanɟaɟaɾa|lang}} or {{IPA-pjt|ˈpɪɟanɟaɾa|}})<ref>Through a process of [[haplology]], the name ''Pitjantjatjara'' is usually pronounced (in normal, fast speech) with one of the repeated syllables ''-tja-'' deleted, thus: ''pitjantjara''. In slow, careful speech all syllables will be pronounced {{Harvcol|Goddard|1985|p=?}}.</ref> is a [[dialect]] of the [[Western Desert language]] traditionally spoken by the [[Pitjantjatjara people]] of Central Australia. It is [[mutual intelligibility|mutually intelligible]] with other varieties of the Western Desert language, and is particularly closely related to the [[Yankunytjatjara dialect]]. The names for the two groups are based on their respective words for 'come/go.'{{Sfnp|Goddard|1996|p=?}} 
+
+Pitjantjatjara is a relatively healthy [[Australian Aboriginal languages|Aboriginal language]], with children learning it. It is taught in some [[Aboriginal Australians|Aboriginal]] schools. The literacy rate for [[first language]] speakers is 50–70%; and is 10–15% for [[second language|second-language]] learners. There is a Pitjantjatjara [[dictionary]], and the [[New Testament]] of the Bible has been translated into the language, a project started at the [[Pukatja|Ernabella Mission]] in the early 1940s and completed in 2002. Work continues on the [[Old Testament]].
+[[File:Pitjantjatjara_audio-_pjt_word-list_1976_01.ogg|thumb|Pitjantjatjara wordlist recorded by the UCLA Phonetics Lab]]
+
+==Phonology and orthography==
+There are slightly different standardised spellings used in the [[Northern Territory]] and [[Western Australia]] compared to [[South Australia]], for example with the first two writing {{angle bracket|w}} between {{angle bracket|a}} and {{angle bracket|u}} combinations and a {{angle bracket|y}} between {{angle bracket|a}} and {{angle bracket|i}}, which SA does not use.
+
+Pitjantjatjara has the following consonant inventory, orthography shown in brackets:{{sfnp|Tabain|Butcher|2014|pp=190-191}}
+
+{| class="wikitable" style="text-align:center;"
+!
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Alveopalatal consonant|(Alveo-)<br>Palatal]]
+! [[Velar consonant|Velar]]
+|-
+! [[Plosive]]
+| {{IPAlink|p}}~{{IPAlink|b}} {{grapheme|p}}
+| {{IPAlink|t}}~{{IPAlink|d}} {{grapheme|t}}
+| {{IPAlink|ʈ}}~{{IPAlink|ɖ}} {{grapheme|ṯ}}
+| {{IPAlink|c}}~{{IPAlink|ɟ}} {{grapheme|tj}}
+| {{IPAlink|k}}~{{IPAlink|ɡ}} {{grapheme|k}}
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} {{grapheme|m}}
+| {{IPAlink|n}} {{grapheme|n}}
+| {{IPAlink|ɳ}} {{grapheme|ṉ}}
+| {{IPAlink|ɲ}} {{grapheme|ny}}
+| {{IPAlink|ŋ}} {{grapheme|ng}}
+|-
+! [[lateral consonant|Lateral]]
+|
+| {{IPAlink|l}} {{grapheme|l}}
+| {{IPAlink|ɭ}} {{grapheme|ḻ}}
+| {{IPAlink|ʎ}} {{grapheme|ly}}
+|
+|-
+! [[Rhotic consonant|Rhotic]]
+| 
+| {{IPAlink|r}}~{{IPAlink|ɾ}} {{grapheme|r}}
+|rowspan="2"| {{IPAlink|ɻ}} {{grapheme|ṟ}}<ref name="r">Note that {{grapheme|ṟ}} is written as {{grapheme|r}} at the start of words since words may not begin with {{IPA|/r/}}. In some versions of the orthography, {{IPA|/r/}} is written {{grapheme|rr}}, and {{IPA|/ɻ/}} is written {{grapheme|r}}.</ref>
+|
+|
+|-
+! [[Approximant]]
+|
+|
+| {{IPAlink|j}} {{grapheme|y}}
+| {{IPAlink|w}} {{grapheme|w}}
+|}
+
+Pitjantjatjara has three vowels:{{sfnp|Tabain|Butcher|2014|pp=194-195}}
+
+{| class="wikitable"
+!
+![[front vowel|Front]]
+![[central vowel|Central]]
+![[back vowel|Back]]
+|-
+![[close vowel|Close]]
+|{{IPAlink|ɪ}} {{grapheme|i}}, {{IPAlink|ɪː}} {{grapheme|ii}}
+|
+|{{IPAlink|ʊ}} {{grapheme|u}}, {{IPAlink|ʊː}} {{grapheme|uu}}
+|-
+![[open vowel|Open]]
+|
+|{{IPAlink|ɐ}} {{grapheme|a}}, {{IPAlink|ɐː}} {{grapheme|aa}}
+|
+|}
+
+Pitjantjatjara vowels have a [[vowel length|length contrast]], indicated by writing them doubled. A colon {{angle bracket|:}} used to be sometimes used to indicate long vowels: {{angle bracket|a:}}, {{angle bracket|i:}}, {{angle bracket|u:}}.
+
+Pitjantjatjara orthography includes the following underlined letters, which can be either ordinary letters with underline formatting, or Unicode characters which include a line below:
+
+* Ḻ: unicode 1E3A
+* ḻ: unicode 1E3B
+* Ṉ: unicode 1E48
+* ṉ: unicode 1E49
+* Ṟ: unicode 1E5E
+* ṟ: unicode 1E5F
+* Ṯ: unicode 1E6E
+* ṯ: unicode 1E6F
+
+The underline represents that the consonant in question is [[retroflex consonant|retroflex]], rather than [[Alveolar consonant|alveolar]].
+
+==Grammar==
+Some features distinctive to the Pitjantjatjara dialect, as opposed to other Western Desert Language dialects, include ''-pa'' endings to words that simply end in a consonant in other dialects (this is reflective of a general aversion in Pitjantjatjara to words ending with a consonant), and a reluctance to have ''y'' at the beginning of words.
+
+===Nouns and noun phrases===
+Pitjantjatjara uses [[grammatical case|case marking]] to show the role of nouns within the clause as subject, object, location, etc. Pitjantjatjara is a language with [[split ergativity]], since its nouns and pronouns show different case marking patterns.{{sfnp|Bowe|1990|pp=9–12}}
+
+Consider the following example, where the subject of a transitive verb is marked with the [[ergative case]] and the object with the [[absolutive case]]:{{sfnp|Bowe|1990|pp=10}}
+
+{{interlinear|lang=pjt|indent=3
+|Minyma-ngku tjitji nya-ngu.
+|woman.ERG child.ABS see.PAST
+|'The woman saw the child.'}}
+
+It can be contrasted with the following sentence with an intransitive verb, where the subject takes the absolutive case:
+
+{{interlinear|lang=pjt|indent=3
+|Tjitji a-nu.
+|child.ABS go.PAST
+|'The child went.'}}
+
+In contrast to the ergative-absolutive pattern that applies to nouns, pronouns show a nominative-accusative pattern. Consider the following examples, with pronoun subjects:{{sfnp|Bowe|1990|p=11}}
+
+{{interlinear|lang=pjt|indent=3
+|Ngayu-lu tjitji nya-ngu.
+|I.NOM child.ABS see.PAST
+|'I saw the child.'}}
+
+{{interlinear|lang=pjt|indent=3
+|Ngayu-lu a-nu.
+|I.NOM go.PAST
+|'I went.'}}
+
+===Verbs and verb phrases===
+Pitjantjatjara verbs inflect for [[grammatical tense|tense]]. Pitjantjatjara has four different [[verb conjugation|classes of verbs]], each of which takes slightly different endings (the classes are named according to their imperative suffixes): ∅-class verbs, {{sm|la}}-class verbs, {{sm|wa}}-class verbs, and {{sm|ra}}-class verbs. [[Grammatical conjugation|See page on grammatical conjugation for examples.]]
+
+===Derivational morphology===
+It also has systematic ways of [[derivation (linguistics)|changing words from one part of speech to another]]: making nouns from verbs, and vice versa. However, words formed may have slightly different meanings that cannot be guessed from the pattern alone.
+
+==History since European settlement==
+The Ernabella Mission was established by [[Charles Duguid]] and the [[Presbyterian Church of Australia]] in 1937 at the location now known as [[Pukatja]], supported by the [[South Australian government]]. The Mission aimed to keep the language and culture alive, with the missionaries learning the language themselves and teaching it in the school as well as delivering sermons in it. This meant that the language became a written language for the first time, and the people became literate in their own language before English.<ref name=Pybus>{{cite journal|first=Carol|last=Pybus|journal=The Journal of the European Association for Studies of Australia|title="We Grew up this Place": Ernabella Mission 1937-1974|date=2015|volume=6|issue=1|url=http://www.easa-australianstudies.net/files/2%20ERNABELLA_PagFinal.pdf|access-date=11 July 2019}}</ref><ref name=ADB>{{cite web|first=W. H.|last=Edwards|title=Duguid, Charles (1884 - 1986)|website= Australian Dictionary of Biography|others=Originally published in Volume 17 of the ADB (Melbourne University Press, 2007, pp. 338-340)|url=http://adbonline.anu.edu.au/biogs/A170335b.htm|access-date=2 July 2019}}</ref>
+===Bible translations===
+The first draft of the [[New Testament]]'s [[Gospel of Mark]], ''Tjukurpa Palja Markaku'', was completed in 1945 by Reverend Bob Love and Ronald Trudinger at the Mission, and was published by the [[British and Foreign Bible Society]] in 1949.<ref name=Australian>{{cite news|publisher=The Australian|url=https://www.theaustralian.com.au/life/weekend-australian-magazine/saved-in-translation/news-story/3025075e3cfd23f7c2283eb5d017acdb|title=How a Bible translation is preserving the Pitjantjatjara language|first=Richard|last=Guilliatt|date=7 September 2013|access-date=12 July 2019}}</ref> Work continued over the next 20 years, with publication of a shorter New Testament in 1969 by the [[Bible Society Australia]]. Pitjantjatjara Bible Translation Project, incorporated in 1981, completed a new translation of the New Testament and about 15% of the [[Old Testament]], first published in 2002. In 2011 a new project to translate the rest of the OT was initiated, {{as of|lc=yes|2019}} working on various OT books.<ref name=bible/> 21st-century Bible Society missionary and local teacher since 1973, Paul Eckert, has worked with elders on the project for many years.<ref name=Australian/> The [[Book of Daniel]] was published in 2015, and the Pitjantjatjara version of the New Testament is available online.<ref name=bible>{{cite web|url=https://www.bible.com/versions/1737-pitj-tjukurpa-palya|website=Bible.com|title=Tjukurpa Palya (PITJ)|access-date=12 July 2019}}</ref> 
+
+In 2017 members of the Pitjantjatjara Bible Translation Project and partners began a multi-voice recording of the Pitjantjatjara New Testament, with 50% completed by 2017.<ref name=bible/>
+===Government policies===
+
+[[APY lands]] schools taught a bilingual curriculum until the late 1980s, when the programs were defunded, and teaching reverted to English only. In December 2018 it was announced that the [[South Australian Government]] would commit to teaching in the Pitjantjatjara and [[Yankunytjatjara language]]s, with English as an additional language, by 2029.<ref>{{cite news|publisher=InDaily|url=https://indaily.com.au/news/local/2018/12/11/state-govt-commits-to-bilingual-education-in-apy-lands/|title=State Govt commits to bilingual education in APY Lands|date=11 December 2018|first=Stephanie|last=Richards|access-date=12 July 2019}}</ref>
+==Word of the Year 2019 short-listing ==
+The Pitjantjatjara word [[ngangkari]], added to the [[Macquarie Dictionary]] in 2019 and defined as an [[Indigenous Australian|Indigenous]] practitioner of [[bush medicine]], was short-listed for the 2019 Word of the Year.<ref>{{cite web |url=https://theconversation.com/cancel-culture-cleanskin-hedonometer-im-not-sure-i-like-any-of-macquarie-dictionarys-words-of-the-year-128109|title= Cancel culture, cleanskin, hedonometer … I'm not sure I like any of Macquarie Dictionary's words of the year|date=2 December 2019 |first =Roslyn|last =Petelin|access-date=3 December 2019 }}</ref>
+
+==Notes==
+{{reflist|30em}}
+
+==References==
+*{{citation
+|last=Bauer
+|first=Laurie 
+|year=2007
+|title=The Linguistics Student's Handbook
+|place=Edinburgh
+|publisher=Edinburgh University Press
+|isbn=978-0748631605
+}}
+*{{citation
+|last=Bowe
+|first=Heather
+|year=1990
+|title=Categories, Constituents, and Constituent Order in Pitjantjatjara, An Aboriginal Language of Australia
+|place=London
+|publisher=Routledge
+|isbn=0-415-05694-2
+}}
+* {{Citation
+|last=Goddard 
+|first=Cliff 
+|year=1985 
+|title=A Grammar of Yankunytjatjara 
+|publisher=Institute for Aboriginal Development Press 
+|isbn=0-949659-32-0
+}}
+* {{citation
+|last=Goddard 
+|first=Cliff 
+|year=1996 
+|title=Pitjantjatjara/Yankunytjatjara to English Dictionary 
+|publisher=IAD Press 
+|location=Alice Springs 
+|isbn=0-949659-91-6
+}}
+*{{citation
+|last=Issacs
+|first=Jennifer
+|year=1980
+|title=Australian Dreaming: 40,000 Years of Aboriginal History 
+|publisher=Lansdowne Press 
+|location=Sydney
+|isbn=0-7018-1330-X 
+|oclc=6578832
+}}
+*{{citation
+|last=Rose
+|first=David
+|year=2001
+|title=The Western Desert Code: an Australian cryptogrammar
+|publisher=Pacific Linguistics
+|location=Canberra
+|isbn=085883-437-5
+}}
+*{{citation
+|last1=Tabain
+|first1=Marija
+|last2=Butcher
+|first2=Andrew
+|title=Pitjantjatjara
+|journal=Journal of the International Phonetic Association
+|year=2014
+|volume=44
+|issue=2
+|pages=189–200
+|doi=10.1017/s0025100314000073
+|doi-access=free
+}}
+
+==Further reading==
+
+*{{cite document|url=https://parksaustralia.gov.au/uluru/pub/UKTNP-A4FactSheet-AnanguLanguage-SMALL.pdf|publisher=Parks Australia|title=Anangu Language|series=Fact Sheet: Ulur u-Kata Tjuta National Park}}
+* Langlois, Annie (2004). ''Alive and Kicking: Areyonga Teenage Pitjantjatjara'', Research School of Pacific and Asian Studies. {{ISBN|0-85883-546-0}}
+*{{cite web|url=http://www.omniglot.com/writing/pitjantjatjara.htm|title=Pitjantjatjara|website=Omniglot: The online encyclopaedia of writing systems and languages}}
+*{{cite journal|first=Carol|last=Pybus|journal=The Journal of the European Association for Studies of Australia|title="We Grew up this Place": Ernabella Mission 1937-1974|date=2015|volume=6|issue=1|url=http://www.easa-australianstudies.net/files/2%20ERNABELLA_PagFinal.pdf|access-date=11 July 2019}}
+*{{citation |last1=Tabain
+|first1=Marija
+|last2=Butcher
+|first2=Andrew
+|title=Stop Bursts in Pitjantjatjara
+|journal=Journal of the International Phonetic Association
+|year=2015
+|volume=45
+|issue=2
+|pages=149–176
+|doi=10.1017/s0025100315000110
+}}
+*{{cite journal|last=Trudinger|first=David|title=The language(s) of love: JRB love and contesting tongues at Ernabella Mission Station, 1940-46|journal=Aboriginal History|volume=31|date=2007|pages=27–44|url=http://press-files.anu.edu.au/downloads/press/p74151/pdf/ch0255.pdf}}
+*{{cite web|url=https://elar.soas.ac.uk/Collection/MPI658437|title= Western Desert Special Speech Styles Project|website=Endangered Languages Archive, [[SOAS]]}}
+{{incubator|pjt}}
+{{Languages of Australia}}
+{{Pama–Nyungan languages|Central}}
+{{Aboriginal South Australians}}
+
+[[Category:Languages of Australia]]
+[[Category:Western Desert language]]
+[[Category:Pitjantjatjara| ]]

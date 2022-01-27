@@ -1,0 +1,168 @@
+{{Short description|Austronesian language spoken in the Solomon Islands}}
+{{About|a language spoken in Solomon Islands|a language spoken in Fiji|Lauan language}}
+{{Infobox language
+|name=Lau
+|nativename=
+|states=[[Solomon Islands]]
+|region=Northeast Malaita Island
+|speakers={{sigfig|16900|2}}
+|date=1999
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southeast Solomonic languages|Southeast Solomonic]]
+|fam5=[[Malaita – San Cristobal languages|Malaita – San Cristobal]]
+|fam6=[[Malaita languages|Malaita]]
+|fam7=[[Northern Malaita languages|Northern Malaita]]
+|nation=
+|iso3=llu
+|glotto=lauu1247
+|glottorefname=Lau
+}}
+
+{{Use dmy dates|date=April 2013}}
+
+The '''Lau language''' is a [[Malayo-Polynesian languages|Malayo-Polynesian group language]] spoken on northeast [[Malaita]] (also known as Mala), one of the six large islands that together form the chain of the [[Solomon Islands]]. It is located in Oceania, northwest of Vanuatu and east of Papua New Guinea. In 1999 it had about 16,937 first-language speakers, with many second-language speakers through Malaitan communities in the Solomon Islands, especially in [[Honiara]].
+
+== Phonology ==
+Lau distinguishes voiced and voiceless stops and has a separate series of labial-velar phonemes distinct from the regular velars. The complete consonant inventory is presented in the table below (with orthographical conventions in angled brackets). The /r/ is a trilled apical rhotic.
+
+{| class="wikitable" style="text-align:center;"
+|+Lau Consonants
+|-
+! rowspan="2" colspan="2" | 
+! rowspan="2" | [[Labial consonant|Labial]]
+! rowspan="2" | [[Alveolar consonant|Alveolar]]
+! colspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! {{small|plain}}
+! {{small|labial}}
+|-
+! colspan="2" | [[Nasal consonant|Nasals]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+|
+|-
+! rowspan="2" | [[Stop consonant|Stops]]
+! {{small|voiceless}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|k}}
+| {{IPAlink|kp}} {{grapheme|kw}}
+| {{IPAlink|ʔ}} {{grapheme|'}}
+|-
+! {{small|voiced}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|g}}
+| {{IPAlink|gb}} {{grapheme|gw}}
+|
+|-
+! colspan="2" | [[Fricative|Fricatives]]
+| {{IPAlink|ɸ}} {{grapheme|f}}
+| {{IPAlink|s}}
+|
+|
+|
+|-
+! colspan="2" | [[Liquid consonant|Liquids]]
+|
+| {{IPAlink|l}}, {{IPAlink|r}}
+|
+|
+|
+|-
+! colspan="2" | [[Glides (linguistics)|Glides]]
+|
+|
+|
+| {{IPAlink|w}}
+|
+|}
+
+The vowel inventory of five items is presented in the table below (again with orthographical conventions in angled brackets). These vowels can be long or short depending on the word. Long vowels are orthographically represented by doubling the vowel. The phonotactics do not allow closed syllables, i.e. every word ends with a vowel.
+
+{| class="wikitable" style="text-align:center;"
+|+Lau Vowels
+|-
+! 
+! [[Front vowel|front]]
+! [[Central vowel|central]]
+! [[Back vowel|back]]
+|-
+! [[Close vowel|close]]
+| {{IPAlink|i}}∼{{IPAlink|ɪ}} {{grapheme|i}}
+|
+| {{IPAlink|ʊ}} {{grapheme|u}}
+|-
+! [[Mid vowel|mid]]
+| {{IPAlink|ɛ}} {{grapheme|e}}
+|
+| {{IPAlink|ɔ}} {{grapheme|o}}
+|-
+! [[Open vowel|open]]
+|
+| {{IPAlink|ɐ}}∼{{IPAlink|ə}}∼{{IPAlink|a}} {{grapheme|a}}
+|
+|}
+
+== Morphology ==
+'''Nouns''' describe people, places, or things. Nouns can be suffixed by possessive markers. For example, ''lima'' 'hand' can be suffixed by the first person singular possessive marker ''-gu'' to form ''limgagu'' 'my hand'. The same suffix can be used on position phrases such as in ''burigu'' 'behind me', where ''buri'' means 'behind'.<ref name="Ivens 1921">{{harvp|Ivens|1921}}</ref> Nouns are split into independent nouns and verbal nouns. ''Na'' is the only independent noun that is used in the Lau language. It is only added to nouns when one is expressing relationships, or it is added to cardinal numbers to form an ordinal number.
+
+'''Pronouns''' are words that replace a noun in a sentence and can function by themselves as a noun phrase. In Lau, pronouns may suffixed to nouns to denote possession, and suffixed to a verb to mark the subject.<ref name="Ivens 1921" /> Pronouns may only be attached to a certain class of nouns, namely anything that is in close relationship to the person who takes, occupies or holds something without necessarily having ownership. When a pronoun is suffixed to a verb, a second object appears in the suffixed pronoun singular and plural third. Lastly, when a pronoun is used as the subject of a verb such as ''i'', there are multiple ways you can use it. One way is when the suffixed pronoun cannot be added to a word, the longer forms of ''i'' are used as possessive pronouns. Shorter forms of ''i'' are always used with the forms of ''i'' because they cannot be used by themselves as the subject.
+
+'''Verbs''' are words that describe an action, state or occurrence of something. In Lau, any word can be suffixed by verbal particles and thus used as a verb. In other words, they can be joined to governing pronouns of first persons singular and second persons singular. These verbal particles are ''ka'' and ''ko''. ''Ka'' can be used at the same time when someone is talking about something in the present and in the future tense. On the other hand, ''ko'' can be used when someone is talking in the present and future tense but it cannot be used at the same time. Moreover, ''ko'' is used only with personal pronouns.<ref name="Ivens 1921" />
+
+'''Adverbs''' are words or phrases that modify an adjective, verb or another adverb. Most adverbs that are use in the Lau language are just nouns and verbs and occasionally some adjectives. Adverbs are used when someone is talking about a place, a time, and manner.
+
+'''Adjectives''' are words or phrases denoting an attribute. Lau uses verbs for attributes, but some adjectives appear without the verbal particles. Adjectival prefixes that are prefixed to verbs includes ''a-, ma-, tata-,'' and ''m-''. The ''a-'' is prefixed to verbs to form participles, as in ''luga'' 'to lose'; ''ma-'' denotes condition, e.g. ''lingi'' 'to pour'.
+
+Lau has two types of '''prepositions''': the verb-like and the noun-like. Verb-like prepositions use the same object morphology as in verbs. The verb-like prepositions index their complements with object suffixes, which are otherwise used to index objects on verbs.<ref name="Francois 2015">{{harvp|Francois|2015}}</ref> By contrast, the noun-like prepositions index their complements with personal suffixes, which are otherwise used to index possessors on inalienably possessed nouns.<ref name="Francois 2015" />
+
+'''Numerals''' are prefixed by ''e-''. However, this initial ''e-'' is dropped in quick counting, except in the numeral ''eta''. Lau uses the base ten. Single digits are connected to the preceding multiple of ten with the conjunction ''mana'', as in ''aqala mana fai'' 'fourteen'. This conjunction is not used after multiples of hundred, as can be seen in ''tangalau fai aqala mana fai'' 'one hundred and forty four'.<ref name="Ivens 1921" />
+
+== Syntax ==
+The Lau clause is divided into five different fields, which are, in order: left periphery > subject field > verbal complex > object field > right periphery. In the example below, ''ioli gi'' 'people' is a noun phrase located in the subject field. ''gera'' is a co-indexed subject pronoun followed by a marker ''ka''. ''rii'' 'shout' is an intransitive verb located in the verbal complex.
+
+{{interlinear|indent=3
+|ma   [𝑆 ioli    gi  gera  ka]  [𝑉 rii]
+|and  {} people  PL  3PL   SEQ  {} shout
+|'And the people shouted.'}}
+
+==Sample Text==
+
+[[God Save the King]], from an Anglican translation published in 1945.
+
+God, ka faamouria a King!<br />
+Nia ka aofia diena<br />
+Usia tooa gi;<br />
+Fasuia firua,<br />
+Falea mai unidiena,<br />
+Faadiena na taloa nia,<br />
+God, faamouria a King!
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite book |last=Francois |first=Alex |url=http://alex.francois.online.fr/data/Lovegren-et-al_2015_Wala-grammar_SLIM_final.pdf |title=The Wala Language of Malaita |date=2015 |publisher=Asia-Pacific Linguistics |isbn=9781922185143 |location=Canberra |language=en}}
+* {{Cite book |last=Ivens |first=Walter George |url=https://archive.org/details/grammarvocabular00ivenuoft |title=Grammar and Vocabulary of the Lau Language, Solomon Islands |date=1921 |publisher=[[Carnegie Institution for Science]] |publication-place=Washington, DC |language=en |oclc=2607046}}
+* Na tala ʼuria na idulaa diana, reading primer, 1981.
+* Tala ʼaelana idulaa, reading primer, 1982.
+{{refend}}
+
+==External links==
+* [http://justus.anglican.org/resources/bcp/Melanesia/lau_intro.html Na Book Fooalaa.] Portions of the [[Book of Common Prayer]] published by the Melanesian Mission Press, 1945, digitized by Richard Mammana
+* [[Paradisec]] has [http://catalog.paradisec.org.au/collections/search?language_code=llu a number of collections that include Lau materials], notable is [[Anna Margetts]]'s ([http://catalog.paradisec.org.au/collections/AM4 AM4]) collection of Lau recordings
+
+{{Languages of the Solomon Islands}}
+{{Austronesian languages}}
+{{Authority control}}
+
+[[Category:Malaita languages]]
+[[Category:Languages of the Solomon Islands]]

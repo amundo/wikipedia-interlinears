@@ -1,0 +1,314 @@
+{{Infobox language
+|name=Marquesan
+|nativename=''ʻEo ʻenana'' (North Marquesan)<br/>''ʻEo ʻenata'' (South Marquesan)
+|states=[[French Polynesia]]
+|region=[[Marquesas Islands]], [[Tahiti]]
+|speakers=8,700
+|date=2007 census
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Polynesian languages|Polynesian]]
+|fam5=[[Eastern Polynesian languages|Eastern Polynesian]]
+|fam6=[[Marquesic languages|Marquesic]]
+|lc1=mrq|ld1=North Marquesan
+|lc2=mqm|ld2=South Marquesan
+|notice=IPA
+|glotto=nort2845
+|glottoname=North
+|glottorefname=North Marquesan
+|glotto2=sout2866
+|glottoname2=South
+|glottorefname2=South Marquesan
+}}
+
+'''Marquesan''' is a collection of [[Polynesian languages|East-Central Polynesian]] dialects, of the [[Marquesic languages|Marquesic]] group, spoken in the [[Marquesas Islands]] of [[French Polynesia]]. They are usually classified into two groups, North Marquesan and South Marquesan, roughly along geographic lines.<ref name="atlas">See [[#atlas|Charpentier & François (2015)]].</ref>
+
+==Phonology==
+The most striking feature of the Marquesan languages is their almost universal replacement of the {{IPA|/r/}} or {{IPA|/l/}} of other Polynesian languages by a {{IPA|/ʔ/}} (glottal stop).<ref name="sounds"/>
+
+Like other Polynesian languages, the phonology of Marquesan languages is characterized by a scarcity of consonants and a comparative abundance of vowels. The consonant phonemes are:
+
+{| class="wikitable" style="text-align:center;"
+!
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Plosive]]
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! [[Fricative]]
+| {{IPA link|f}} {{IPA link|v}}
+|
+|
+| {{IPA link|h}}
+|-
+! [[Nasal stop|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ŋ}}
+|
+|-
+! [[Liquid consonant|Liquid]]
+|
+| {{IPA link|r}}
+|
+|
+|}
+
+Of this small number of consonants, {{IPA|/ŋ/}} is found only in eastern Nuku Hiva (Tai Pi Marquesan), and {{IPA|/f/}} is found only in South Marquesan dialects. In writing, the phoneme {{IPA|/ŋ/}} is written {{angbr|n(g)}}, and {{IPA|/ʔ/}} is written '''{{okina}}''', the [[{{okina}}okina]].
+
+Unlike [[Samoan language|Samoan]], the {{IPA|/ŋ/}} is not an isolated nasal: it is found only in conjunction with a following {{IPA|/k/}}. So, whereas the Samoan word for "bay" is {{lang|sm|faga}}, pronounced {{IPA|[ˈfa.ŋa]}}, it is {{lang|mrq|hanga}} in Tai Pi Marquesan, and is pronounced {{IPA|/ˈha.ŋka/}}. This word is useful to demonstrate one of the more predictable regular consonantal differences between the northern and southern dialects: in North Marquesan, the word is {{lang|mrq|haka}}, and in South Marquesan, it is {{lang|mqm|hana}}.{{Citation needed|date=November 2010}}
+
+The letter {{angbr|h}} is used to represent a wide range of sounds. It is sometimes realised phonetically as {{IPA|[h]}}, and sometimes {{IPA|[s]}} or {{IPA|[x]}}, depending on the following vowel.{{clarify|reason=Which vowels with which sounds?|date=June 2021}}
+
+The vowel phonemes are the same as in other Polynesian languages, long and short versions of each:
+
+{| class="wikitable" style="text-align:center;"
+!rowspan=2|
+!colspan=2| [[Front vowel|Front]]
+!colspan=2| [[Central vowel|Central]]
+!colspan=2| [[Back vowel|Back]]
+|-
+!Long || Short
+!Long || Short
+!Long || Short
+|-
+![[Close vowel|High]]
+|i:
+|i
+|
+|
+|u:
+|u
+|-
+![[Mid vowel|Mid]]
+|e:
+|e
+|
+|
+|o:
+|o
+|-
+![[Open vowel|Low]]
+|
+|
+|a:
+|a
+|
+|
+|}
+
+==Alphabet==
+
+:A E F H I K M N O P R S T U V {{okina}}
+:a e f h i k m n o p r s t u v {{okina}} <ref>[http://emilydonaldson.org/emblog/marquesannow/marquesan-pronunciation-guide/ Marquesan Pronunciation Guide]</ref>
+
+==Morpho-syntax==
+
+=== Noun and verb phrases ===
+Verbal particles are placed before the verb they modify.<ref>Margaret Mutu & Ben Teìkitutoua (2002), p. 38</ref>
+
+{| class="wikitable" 
+|+ Verbal Phrase<ref name="Margaret Mutu 2002 p. 40">Margaret Mutu & Ben Teìkitutoua (2002), p. 40</ref>
+!colspan=2| Verbal Particles
+!example
+!example in a sentence
+|-
+| past || i || i ui (asked) || te mehai i iu (the youth asked)
+|-
+| present || te...nei || te maakau nei (think) || te maakau nei au i tuu kui (I think of my mother)
+|-
+| perfective || u\ua || u hanau (was born) || u hanau au i Hakehatau (I was born at Hakehatau)
+|-
+| imperfective || e || e hee (going) || e hee koe i hea (where are you going?)
+|-
+| inceptive || atahi a || atahi a kai (then they eat) || iu pao taia, atahi a kai (...when finish that, then do they eat)
+|-
+| imperative || a || a hee! (go!) || a hee io te tante (go to the doctor!)
+|}
+
+A noun phrase in Marquesan is any phrase beginning with either a case marker or a determiner. Case markers or prepositions always precede the determiners, which in turn precede the number markers. As such, they all precede the noun they modify.<ref name=":0">{{Cite book|title=Ùa Pou: Aspects of a Marquesan dialect|last=Mutu & Teìkitutoua|year=2002|pages=72}}</ref>
+
+{| class="wikitable"
+|+Nominal Phrase Markers<ref name=":0" />
+!colspan=2| Articles
+!colspan=2| Demonstratives
+!colspan=2| Other
+|-
+| definite singular || te/t- || this || tenei || a certain || titahi 
+|-
+| indefinite || e/he || that || tena || other || tahipito
+|-
+| dual/ paucal definite || na || that || tea
+|-
+| anaphoric || hua 
+|}
+
+{| class="wikitable"
+!Nominal Number Markers<ref name="Margaret Mutu 2002 p. 40"/>
+!colspan=2| Number Markers
+|-
+|dual || mou
+|- 
+|dual/paucal || mau
+|- 
+|plural || tau
+|}
+
+There are 11 personal pronouns which are distinguished by singular, dual, and plural. As well as that, there are two other personal pronouns which distinguish possession.<ref>Gabriele H. Cablitz (2006), p. 100</ref>
+
+{| class="wikitable"
+|+Pronouns<ref>Gabriele H. Cablitz (2006), p. 101</ref>
+!Pronoun
+!Singular
+!Dual/Paucal
+!Plural
+!Possession
+|-
+|1.ps || au/-ʻu || || || tuʻu
+|-
+|1.inclusive || || taua || tatou ||
+|-
+|1.exclusive || || maua || mataou ||
+|-
+|2.ps || koe || koʻua || kotou || to
+|-
+|3.ps || ia || ʻaua || ʻatou
+|}
+Complex sentences use verbal nouns in subordinate clauses.
+
+{{interlinear|number=ex:
+|Te hakaiki kei mei Hanaiapa te ono-tina te hakaiki momo mei{{which lang|date=July 2020}}
+|DEF chief big from Hanaiapa DEF hear-devb def chief lesser from
+|}}
+
+:''Hanaiapa, o Tua-i-kaie, ua noho me te vehine pootu oko''<ref>{{Cite journal |last=Krupa |first=Viktor |date=2005 |title=Syntax of Verbal Nouns in Marquesan |journal=Oceanic Linguistics |volume=44 |issue=2 |pages=505–516 |doi=10.1353/ol.2005.0038 |jstor=3623350 |s2cid=145204950 }}</ref>
+
+=== Possession ===
+Margaret Mutu & Ben Teìkitutoua (2002) present descriptions and examples of possession in Ùa Pou (a north Marquesan dialect). All examples in this section are taken from their work. See notes for more information.
+
+Possession in Marquesan is marked by prepositional particles affixed to the noun phrase which they modify. These prepositional particles relate the phrase as a whole to other parts of the sentence or discourse and therefore can be considered [[Lucien Tesnière#Centrifugal .28head-initial.29 and centripetal .28head-final.29 languages|centrifugal]] particles.<ref name="Margaret Mutu 2002 p. 72">Margaret Mutu & Ben Teìkitutoua (2002), p. 88</ref>  Possession is essentially different from the other types of adposition modification in that it marks a relationship between two noun phrases as opposed to that between the verbal phrase and the noun phrase.
+
+There are four possession markers in Marquesan. They are the prepositions: ''a'', ''o'', ''na'' and ''no.'' Possessive prepositions ''a'' and ''o'' translate as 'of' while ''na'' and ''no'' are [[Inalienable possession#Restricted to attributive possession|attributive]], possessive prepositions which translate either as 'belong to, of' or 'for'.<ref>{{Cite book|title=Ùa Pou: Aspects of a Marquesan dialect|last=Mutu & Teìkitutoua|year=2002|pages=94}}</ref>
+
+==== ''a'' and ''o'' possessive prepositions ====
+In these examples, we see the relation of two noun phases with the use of the possessive prepositions ''a'' and ''o.'' The preposition is affixed to the possessor noun phrase which in turn dominates the possessed phrase.
+
+{{interlinear| lang = mqm |number = ex:
+| Úa tihe mai  te vahana a tenei tau vehine
+| PRF arrive hither DEF husband of this PL woman
+|"The husband of these women has arrived."}}
+
+{{interlinear| lang = mqm |number = ex:
+| Úa tau ma  ùka o te  haè 
+| PRF land path top of DEF house
+|"(It) landed on top of the house."}}
+
+==== ''na'' and ''no'' attributive, possessive prepositions ====
+In these examples, we see the relation of constituents which form a noun phrase. This is an example of attributive, [[Inalienable possession|alienable]] possession.
+
+{{interlinear| lang = mqm |number = ex:
+|…ùa ìò i -a Tainaivao è tama '''na''' Pekapeka…
+|PFV taken STATAG PS Tainaivao INDEF son {of (belong to)} Pekapeka
+|'(she) was taken by Tainaivao, a son of Pekapeka.'}}
+
+{{interlinear| lang = mqm |number = ex:
+|À too tēnei vaka '''no''' koe
+|IMP take this canoe for 2SG
+|'Take this canoe for yourself.'}}
+
+==== Dominant vs subordinate possession ====
+Marquesan distinguishes between two contrastive types of possession.<ref name="Margaret Mutu 2002 p. 72" /> The first can be described in very broad terms as possession in which the possessor is dominant, active, superior, or in control of the possessed. ''A'' and ''na'' mark this type of possession:
+
+{{interlinear| lang = mqm |number = ex:
+| E ìò koe he mea vehine na ia
+| {{gcl|NP|non-past tense}} take 2SG INDEF thing woman of him
+|"You will get a wife for him."}}
+
+On the other hand, ''o'' and ''no'' indicate possession where the possessor is subordinate, passive, inferior to, or lacking in control over the possessed:
+
+{{interlinear| lang = mqm |number = ex:
+| Ù kave mai koe i tēnā kahu no ia
+| PFV bring hither 2SG DO that dress for her
+|"You have brought that dress for her (to wear)."}}
+
+===Locative phrases===
+Locative constructions in Marquesan follow this pattern (elements in parentheses are optional):
+
+: Preposition - (Modifier) - lexical head - (Directional) - (Demonstrative) - (Modifier) - Possessive Attribute/Attributive Noun Phrases
+<ref name="auto">Gabriele H. Cablitz (2006), p. 282</ref>
+
+{{interlinear| lang = mqm |number = ex:
+| Huʻi-ʻia atu t-o  ia keo ʻi tai 
+| turn-PASS DIR ART-POSS 3SG bottom LD sea
+|"Its bottom is turned seawards."
+|abbreviations=DIR:directional}}
+
+<ref>Gabriele H. Cablitz (2006), p. 284</ref>
+
+This locative syntactic pattern is common among Polynesian languages.
+<ref name="auto"/>
+
+==Dialect diversity==
+North Marquesan is found in the northern islands, and South Marquesan in the southern islands, as well as on [[Ua Huka]] in the northern Marquesas. Comparative data on the various dialects of Marquesan can be found in the ''Linguistic Atlas of French Polynesia'' ([[#atlas|Charpentier & François 2015]]).<ref name="sounds">For regular sound correspondences between Marquesan dialects and other Polynesian languages, see [[#atlas|Charpentier & François (2015)]], p.93.</ref>
+
+The most noticeable differences between the varieties are Northern Marquesan {{IPA|/k/}} in some words where South Marquesan has {{IPA|/n/}} or {{IPA|/ʔ/}} (glottal stop), and {{IPA|/h/}} in all words where South Marquesan has {{IPA|/f/}}. For example,
+
+{| class=wikitable
+!North !! South !!
+|-
+|haka || fana || "bay"
+|-
+|haʻe || faʻe || "house"
+|-
+|koe || ʻoe || "you" (singular)
+|-
+| Ua Huka || Ua Huna || (the island)
+|}
+
+The northern dialects fall roughly into four groups:
+:Tai Pi, spoken in the eastern third of [[Nuku Hiva]], and according to some linguists, a separate language,{{Citation needed|date=November 2010}} [[Tai Pi Marquesan language|Tai Pi Marquesan]]
+:Teiʻi, spoken in western [[Nuku Hiva]]
+:Eastern [[Ua Pou]]
+:Western [[Ua Pou]]
+
+The southern dialects fall roughly into three groups:
+:Pepane: Eastern [[Hiva Oa|Hiva ʻOa]] and [[Ua Huka]]
+:[[Fatu Hiva]]
+:Nuku: Western Hiva ʻOa and [[Tahuata]]
+
+North Marquesan exhibits some original characteristics. While some Polynesian languages maintained the velar nasal {{IPA|/ŋ/}}, many have lost the distinction between the nasals {{IPA|/ŋ/}} and {{IPA|/n/}}, merging both into {{IPA|/n/}}. North Marquesan, like [[South Island]] [[Māori language|Māori]] dialects of New Zealand, prefers {{IPA|/k/}}. Another feature is that, while some Polynesian languages replace *k with {{IPA|/ʔ/}}, North Marquesan has retained it. ([[Tahitian language|Tahitian]] and formal [[Samoan language|Samoan]] have no {{IPA|/k/}} whatsoever, and the {{IPA|/k/}} in modern Hawaiian is pronounced either [k] or [t] and derives from Polynesian *t.)
+
+The dialects of [[Ua Huka]] are often incorrectly classified as North Marquesan; they are instead transitional. While the island is in the northern Marquesas group, the dialects show more morphological and phonological affinities with South Marquesan. The North Marquesan dialects are sometimes considered two separate languages:{{Citation needed|date=November 2010}} North Marquesan and [[Tai Pi Marquesan language|Tai Pi Marquesan]], the latter being spoken in the valleys of the eastern third of the island of Nuku Hiva, in the ancient province of [[Tai Pi (province)|Tai Pi]]. Puka-Pukan, spoken in [[Puka-Puka]] and the [[Disappointment Islands]] in northeastern [[Tuamotu]], is a dialect of South Marquesan, and should not be confused with the 	homonymous [[Pukapukan language]] spoken in [[Pukapuka]], one of the [[Cook Islands]].
+
+==References==
+{{reflist}}
+
+==Further reading==
+* {{cite book |url=http://linguistlist.org/issues/17/17-3085.html |first=Gabriele H. |last=Cablitz |year=2006 |title=Marquesan: A Grammar of Space |series=Trends in Linguistics. Studies and Monographs |volume=169 |publisher=Mouton de Gruyter }}
+* {{cite book |chapter-url=http://jacbayle.club.fr/livres/Nouveau/Dordillon.html |chapter=Grammaire et dictionnaire de la langue des Îles Marquises |title=Mgr Dordillon's Marquesan language dictionary |publisher=Société des études océaniennes, Pape’ete |orig-year=1904 |edition=Reissued |year=1999 |archive-url=https://web.archive.org/web/20050314000041/http://jacbayle.club.fr/livres/Nouveau/Dordillon.html |archive-date=2005-03-14 |language=fr }}
+* {{cite book |first1=Margaret |last1=Mutu |first2=Ben |last2=Teìkitutoua |name-list-style=amp |year=2002 |title=Ùa Pou : aspects of a Marquesan dialect |location=Canberra |publisher=Pacific Linguistics |isbn=0-85883-526-6 }}
+* {{cite book |last1=Charpentier |first1=Jean-Michel |first2=Alexandre |last2=François |author-link2=Alexandre François (linguist) |year=2015 |title=Atlas Linguistique de Polynésie Française — Linguistic Atlas of French Polynesia |language=fr, en |publisher=Mouton de Gruyter & Université de la Polynésie Française |isbn=978-3-11-026035-9 |ref=atlas |url=http://alex.francois.free.fr/AF-Atlas-blurbs_e.htm }}
+* ''Bernice Pauahi Bishop Museum'' Bulletins.
+
+==External links==
+*[https://gallica.bnf.fr/ark:/12148/bpt6k4150716 Online version of the ''Grammaire et dictionnaire de la langue des Iles Marquises – Marquisien–Français''] (Paris, Institut d'Ethnologie, 1931) {{in lang|fr}}
+*[https://books.google.com/books?id=26ESAAAAIAAJ&printsec=titlepage ''Aperçu de la langue des îles Marquises et de la langue taïtienne, accompagné d'un vocabulaire inédit de la langue taïtienne''] (Johann Buschmann & Guillaume de Humboldt, Berlin, 1843) {{in lang|fr}}
+*[http://www.mpi.nl/DOBES/projects/marquesan DoBeS — Marquesan language]
+*Box of [[hdl:10125/32781|458 index cards of plant and animal names]] archived with [[Kaipuleohone]]
+
+{{Polynesian languages}}
+{{Austronesian languages}}
+{{Languages of French Polynesia}}
+
+{{DEFAULTSORT:Marquesan Language}}
+[[Category:Marquesan culture]]
+[[Category:Marquesic languages]]
+[[Category:Languages of French Polynesia]]

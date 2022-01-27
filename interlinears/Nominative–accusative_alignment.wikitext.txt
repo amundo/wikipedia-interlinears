@@ -1,0 +1,274 @@
+{{Short description|Concept of sentence structure in linguistics}}{{technical|date=February 2016}}
+[[File:Accusative alignment.svg|thumb|right|Nominative–accusative alignment]]
+
+{{linguistic typology topics}}
+
+In [[linguistic typology]], '''nominative–accusative alignment''' is a type of [[morphosyntactic alignment]] in which subjects of [[intransitive verb]]s are treated like subjects of [[transitive verb]]s, and are distinguished from objects of transitive verbs in basic clause constructions. Nominative–accusative alignment can be coded by [[grammatical case|case]]-marking, verb [[agreement (linguistics)|agreement]] and/or [[word order]]. It has a wide global distribution and is the most common alignment system among the world’s languages (including English). Languages with nominative–accusative alignment are commonly called ''nominative–accusative languages''.
+
+==Comparison with other alignment types==
+{{main|Morphosyntactic alignment}}
+A transitive verb is associated with two noun phrases (or [[verb argument|arguments]]): a [[subject (grammar)|subject]] and a [[direct object]]. An intransitive verb is associated with only one argument, a subject. The different kinds of arguments are usually represented as '''S''', '''A''', and '''O'''. '''S''' is the sole argument of an intransitive verb, '''A''' is the subject (or most [[agent (grammar)|agent-like]]) argument of a transitive verb, and '''O''' is the direct object (or most [[patient (grammar)|patient-like]]) argument of a transitive verb. English has nominative–accusative alignment in its case marking of personal pronouns:<ref name=Donohue>{{Citation |title=The Typology of Semantic Alignment|date=2005|publisher=Oxford University Press |location=Oxford |isbn= 9780199238385
+     |editor-first=Mark |editor-last=Donohue |editor-first2=Søren |editor-last2=Wichmann |page=25}}</ref> the single argument ('''S''') of an intransitive verb ("I" in the sentence "'''I''' walked.") behaves grammatically like the agent ('''A''') of a transitive verb ("I" in the sentence "'''I''' saw them.") but differently from the object ('''O''') of a transitive verb ("me" in the sentence “they saw '''me'''.").
+{|class="wikitable"
+! &nbsp;
+! Nominative–accusative
+! Ergative–absolutive
+! Tripartite
+|-
+! A
+| rowspan=2| same || different || different
+|-
+! S
+| rowspan=2| same || different 
+|-
+! O
+| different || different
+|}
+This is in contrast with [[ergative–absolutive alignment]], where '''S''' is coded in the same way as '''O''', while '''A''' receives distinct marking, or [[tripartite alignment]], where '''A''', '''S''' and '''O''' all are coded in a different manner.
+
+===Split ergativity===
+It is common for languages (such as [[Dyirbal language|Dyirbal]] and [[Hindustani grammar|Hindustani]]) to have overlapping alignment systems, which exhibit both nominative–accusative and ergative–absolutive coding, a phenomenon called [[split ergativity]]. In fact, there are relatively few languages that exhibit only ergative–absolutive alignment (called pure ergativity) and tend to be isolated in certain regions of the world, such as the [[Caucasus]], parts of [[North America]] and [[Mesoamerica]], the [[Tibetan Plateau]], and [[Australia]]. Such languages include [[Sumerian language|Sumerian]], [[Standard Tibetan]], and [[Mayan language|Mayan]].<ref>{{cite book|title=An Introduction to Syntax|url=https://archive.org/details/introductiontosy0000vanv|url-access=registration|first1=Robert D.|last1= Van Valin|publisher=Cambridge University Press|year= 2001|isbn=9780521635660}}</ref>
+
+==Coding properties of nominative–accusative alignment==
+Nominative–accusative alignment can manifest itself in visible ways, called coding properties. Often, these visible properties are morphological and the distinction will appear as a difference in the actual morphological form and spelling of the word, or as case particles (pieces of morphology) which will appear before or after the word.
+
+===Case marking===
+If a language exhibits morphological case marking, arguments S and A will appear in the [[nominative case]] and argument O will appear in the [[accusative case]], or in a similar case such as the [[oblique case|oblique]]. There may be more than one case fulfilling the accusative role; for instance, [[Finnish language|Finnish]] marks objects with the [[partitive case|partitive]] or the [[accusative case|accusative]] to contrast [[telicity]]. It is highly common for only accusative arguments to exhibit overt case marking while nominative arguments exhibit null (or absent) case markings. In Modern English, case marking is only found with first and (non-neuter) third person pronouns, which have distinct subject and object forms.
+
+[[English language|English]]
+{{interlinear|indent=3
+|I walked.
+|1SG:SBJ walk:PAST
+|}}
+
+{{interlinear|indent=3
+|I saw them.
+|1SG:SBJ see:PAST 3PL:OBJ
+|}}
+
+[[Japanese language|Japanese]]
+{{fs interlinear|lang=ja|indent=3|glossing=link
+|c1=<ref name=japanese>{{cite book|title=An introduction to Japanese linguistics|first1=Natsuko|last1= Tsujimura|publisher=Wiley-Blackwell|year= 2007|page=382|isbn=978-1-4051-1065-5}}</ref>
+|花瓶が 壊れた
+|Kabin-ga(S) kowareta
+|vase-NOM broke
+|‘A vase broke’}}
+
+{{fs interlinear|lang=ja|indent=3|glossing=link
+|私は 花瓶を 壊した
+|Watashi-wa(S) kabin-wo(O) kowashita
+|I-NOM vase-ACC broke
+|‘I broke the vase’}}
+
+[[Russian language|Russian]]
+{{fs interlinear|lang=ru|indent=3|glossing=link
+|Девушка-Ø работа-ет
+|Dyevushka-Ø rabota-yet
+|(adolescent-/youth-)girl-NOM work
+|‘A/The (adolescent/youth) girl/young lady/young woman works/is working’}}
+
+{{fs interlinear|lang=ru|indent=3|glossing=link
+|Студент-Ø читает книг-у
+|Studyent-Ø chitayet knig-u
+|student-NOM read-3.SG.PRES book-ACC
+|‘A/The student read/is reading a/the book’}}
+
+[[Sanskrit]]
+{{interlinear|indent=3|glossing=link
+|Áśva-ḥ(S) aghnata
+|horse-NOM slain
+|‘A horse was slain’}}
+
+{{interlinear|indent=3|glossing=link
+|Vīrá-ḥ(S) áśva-m(O) ahan
+|man-NOM horse-ACC slew
+|‘The man slew a horse’}}
+
+====Differential object marking (DOM)====
+{{main|Differential object marking}}
+Not all arguments are equally likely to exhibit overt case marking. In languages with nominative–accusative alignment, it is common to divide direct objects into two classes (with respect to overt case marking), a phenomenon called ‘differential object marking’ by Bossong (1985).
+
+===Word order===
+Some languages code very little through morphology and are more dependent on syntax to encode meaning and grammatical relationships. If a language relies less on overt case marking, alignment may be coded through word order, as in this example from [[Indonesian language|Indonesian]].
+
+Indonesian
+{{interlinear|indent=3
+|c1=<ref name=vdv>van de Visser, Mario. (2006) "The Marked Status of Ergativity". PhD. Dissertation.</ref>
+|saya<sub>i</sub> me<sub>i</sub>-mandi-kan pria itu
+|1SG AT-wash-APPL man that
+|‘I bathe that man’}}
+
+In the following example from French, all subjects, both S and A, appear before the verb while O appears after the verb. Arguments occurring before the verb are coded as nominative, while arguments occurring directly after the verb are coded as accusative.
+
+French
+{{interlinear|indent=3
+|Je(S) travaille
+|I-NOM work
+|‘I work’}}
+
+{{interlinear|indent=3
+|Je(A) jette un ballon(O)
+|I-NOM throw a ball-ACC
+|‘I throw a ball’}}
+
+===Verb agreement===
+Alternatively, alignment can also manifest visibly through agreement on the verb. In the following example from [[Amharic language|Amharic]], the verb can be [[dependency grammar|head-marked]] for S, A, and O. Both S in the intransitive clause and A in the transitive clause are marked by the same affix (''-ə'' ‘3SG.M’), while O in the transitive clause is marked by a different affix (''-w'' ‘3SG.M.O’).<ref name=vdv/>
+
+;Amharic
+
+:'''intransitive'''
+{{interlinear|indent=3
+|Ləmma hed-'''ə'''
+|Lemma go.PF-3SG.M
+|‘Lemma came’}}
+
+:'''transitive'''
+{{interlinear|indent=3
+|Ləmma   t’ərmus-u-n        səbbər-'''ə'''-w
+|Lemma   bottle-DEF-ACC     break.PF-3SG.M-3SG.M.O
+|‘Lemma breaks the bottle’}}
+
+English has residual verb agreement with nominative–accusative alignment, which is only manifest with third person singular S and A in present tense.<ref>Bickel, Balthasar; Iemmolo, Giorgio; Zakharko, Taras; Witzlack-Makarevich, Alena (2013). [https://doi.org/10.5167/uzh-79050 "Patterns of alignment in verb agreement"]. In: Bakker, Dik; Haspelmath, Martin. ''Languages across boundaries: Studies in memory of Anna Siewierska.'' Berlin: De Gruyter Mouton, 15-36.</ref>
+
+==Behavioral properties of accusativity==
+
+Nominative–accusative alignment can also be distinguished through behavioral properties, in the way a nominative or accusative argument will behave when placed in particular syntactic constructions. This has to do with the impact of alignment on the level of the whole sentence rather than the individual word. Morphosyntactic alignment determines which arguments can be omitted in a coordinate structure during the process of conjunction reduction (deleting arguments from the ends of joined clauses). In nominative–accusative, only arguments S and A can be omitted and not argument O.
+
+English
+:a. Sue-NOM<sub>i</sub> saw Judy-ACC<sub>j</sub> , and she<sub>i/j</sub> ran.
+:b. Sue<sub>i</sub> saw Judy<sub>j</sub> and ___<sub>i/*j</sub> ran.
+:c. Sue<sub>i</sub> saw Judy<sub>j</sub>, and she<sub>i/j</sub> was frightened.
+:d. Sue<sub>i</sub> saw Judy<sub>j</sub> and ___<sub>i/*j</sub> was frightened.
+The omitted subject argument of the embedded clause must correspond to the subject (nominative) of the matrix-clause. If it corresponds to the object (accusative), the sentence is ungrammatical.
+
+If English were an ergative–absolutive language, one would expect to see:
+:b’. Sue<sub>i</sub> saw Judy<sub>j</sub>, and ___<sub>*i/j</sub> ran.
+:c’. Sue<sub>i</sub> saw Judy<sub>j</sub>, and ___<sub>*i/j</sub> was frightened.
+Here the omitted argument of the embedded clause  corresponds to the direct object (absolutive) of the matrix-clause. If it corresponds to the subject (ergative), the sentence is ungrammatical.
+
+The alignment system also impacts the triggering and realization of other such syntactic processes as [[raising (linguistics)|raising]] constructions, [[control (linguistics)|subject-controlled subject deletion]] and [[control (linguistics)|object-controlled subject deletion]].
+
+==Distribution==
+
+[[File:Morphologic-Alignement.png|thumb|right|Distribution of languages by alignment type]]
+
+Languages exhibiting accusative alignment are the most widespread of all of the alignment types. These languages can be found on every continent, in comparison to languages with ergative alignment that are restricted to certain areas of the world, namely the Caucasus, parts of North American and Mesoamerica, the Tibetan plateau, and Australia. The map shows the distribution of languages with the various alignment types, and the following list gives a short sampling of accusative languages and their distribution across the globe:<ref name=wals>Dryer, Matthew S. & Haspelmath, Martin (eds.). (2011) "The World Atlas of Language Structures Online". Munich: Max Planck Digital Library. Available online at [http://wals.info/ WALS]</ref>
+
+{| 
+| 
+North America:
+* [[Cahuilla language|Cahuilla]] – U.S.
+* [[Koasati language|Koasati]] – U.S.
+* [[Miwok languages|Miwok]] – U.S.
+|
+Australasia:
+* [[Kayardild language|Kayardild]] – Australia
+* [[Mangarayi language|Mangarayi]] – Australia
+* [[Māori language|Māori]] – New Zealand
+|
+South America:
+* [[Aymara language|Aymara]] – Bolivia, Chile, Peru
+* [[Barasana language|Barasana]] – Colombia
+* [[Quechua languages|Quechua]] – Ecuador
+* [[Xavante language|Xavante]] – Brazil
+|}
+{| 
+| 
+Europe:
+* [[Armenian language|Armenian]] – Armenia
+* [[Finnish language|Finnish]] – Finland
+* [[German language|German]] – Germany
+* [[Greek language|Greek]] – Greece
+* [[Hungarian language|Hungarian]] – Hungary
+* [[Turkish language|Turkish]] – Turkey
+* [[Russian language|Russian]] – Russia
+* [[Spanish language|Spanish]] – Spain
+|
+Africa:
+* [[Berber languages|Berber]] – Morocco
+* [[Igbo language|Igbo]] – Nigeria
+* [[Iraqw language|Iraqw]] – Tanzania
+* [[Kanuri language|Kanuri]] – Chad
+* [[Khoekhoe language|Khoekhoe]] – Namibia
+* [[Malagasy language|Malagasy]] – Madagascar
+* [[Nubian languages|Nubian]] – Sudan
+* [[Oromo language|Oromo]] – Ethiopia
+|
+Asia:
+* [[Brahui language|Brahui]] – Pakistan
+* [[Burmese language|Burmese]] – Myanmar
+* [[Garo language|Garo]] – India
+* [[Hebrew language|Hebrew]] – Israel
+* [[Japanese language|Japanese]] – Japan
+* [[Mongolian language|Mongolian]] – Mongolia
+* [[Korean language|Korean]] – Korea
+|}
+
+==Relevant theory==
+
+===Optimality theory===
+	One of the ways in which the production of a nominative–accusative case marking system can be explained is from an [[Optimality Theory|Optimality Theoretic]] perspective. Case marking is said to fulfill two functions, or constraints: an identifying function and a distinguishing function.<ref name=hoopALM>de Hoop, Helen and Malchukov, Andrej L. (2008) "Case-marking strategies". ''Linguistic Inquiry''.</ref> The identifying function is exemplified when case morphology encodes (identifies) specific [[semantics|semantic]], thematic, or [[pragmatics|pragmatic]] properties or information about the nominal argument. Accusative case in the position of the direct object, for example, can be a strong identifier of [[patient (grammar)|patienthood]]. The distinguishing function is used to distinguish between the core arguments, the subject and the object, of a transitive clause. [[Helen de Hoop]] and [[Andrej Malchukov]] explain the motivation and need for the distinguishing function in "Case marking strategies":
+{{quote|When a two-place predicate R(x,y) is used to describe an event involving two participants, usually an agent and a patient, it is of utmost importance to avoid ambiguity as  to which noun phrase corresponds to the first argument  x  (the agent) and which to the second argument  y (the patient). For this purpose, case can be used to mark one of the arguments. If one argument is case marked, this already suffices for the purpose of disambiguation. Thus, from the distinguishing perspective, there is no need to case mark both arguments. Neither would it be necessary to case mark the one and only argument of a one-place (intransitive) predicate. Indeed, it has been argued that in many nominative–accusative case systems only the y is case marked (with accusative case) while the x  remains morphologically unmarked.<ref name=hoopALM/>}}
+It is rare for case to serve only the distinguishing function, which overlaps greatly with the ‘identify’ function. Other ways of disambiguating the arguments of a transitive predicate (subject agreement, word order restriction, context, intonation, etc.) may explain this cross-linguistic observation. De Hoop and Malchukov argue that case systems that are completely based on the identification function must be richer in case morphology compared to languages based mainly on the distinguishing function.
+
+===Functional pressure===
+
+One theory that has been posited to account for the occurrence of accusative systems is that of functional pressure. When applied to languages, this theory operates around the various needs and pressures on a speech community. It has been suggested that languages have evolved to suit the needs of their users.These communities will develop some functional system to meet the needs that they have. So, it has been proposed that the accusative system arose from a functional pressure to avoid ambiguity and make communication a simpler process.<ref name=bates>Bates, E., & MacWhinney, B. (1982) ''Functionalist approaches to grammar''. In E.Wanner, & L. Gleitman (Ed.), ''Language acquisition: The state of the art''. New York:
+Cambridge University Press.</ref><ref name=fedz>Fedzechkina, Maryia & Jaeger, T. Florian & Newport, Elissa L. (2011) "Functional Biases in Language Learning: Evidence from Word Order and Case-Marking Interaction". ''Cognitive Science''.</ref>
+
+It is useful for languages to have a means of distinguishing between subjects and objects, and between arguments A, S, and O. This is helpful so that sentences like "Tom hit Fred" cannot be interpreted as "Fred hit Tom." [[tripartite language|Tripartite]] alignment systems accomplish this differentiation by coding S, A and O all differently. However, this is not structurally economical, and tripartite systems are comparatively rare, but to have all arguments marked the same makes the arguments too ambiguous. Alongside the principle of distinguishability seems to operate a principle of economy. It is more efficient to have as few cases as possible without compromising intelligibility. In this way the dual pressures of efficiency and economy have produced a system which patterns two kinds of arguments together a third separately. Both accusative and ergative systems use this kind of grouping to make meaning clearer.
+
+<!---Preliminary kept here for further use in other articles
+==Sociolinguistics and nominative–accusative alignment==  
+{{Off topic|date=May 2020}}
+===Collapse of English second-person pronouns===
+{| align=left class="wikitable" style="margin-right:2em"
+! Case
+! Old English
+! Early Modern English
+! Modern English
+|-
+! SG <small>[[Nominative case|NOM]]</small>
+| þu || thou || you
+|-
+! SG <small>[[Accusative case|ACC]]</small>
+| þe || thee || you
+|-
+! SG DAT
+| þe || thee || you
+|-
+! SG GEN
+| þin || thy/thine || your
+|-
+! PL <small>[[Nominative case|NOM]]</small>
+| ge || ye || you
+|-
+! PL <small>[[Accusative case|ACC]]</small>
+| eow || you || you
+|-
+! PL DAT
+| eow || you || you
+|-
+! PL GEN
+| eower || your || your
+|}
+
+Because pronominal reference systems to the speaker, addressee, and a third person are so common (some argue [[universal grammar|universal]]) cross-linguistically, it would seem that pronoun systems are quite stable. However, the changes involved in [[grammatical person|second-person]] pronouns in English call this stability into question and highlight the significance of social forces in language development. The spread of [[feudalism|feudalistic]] ideology caused many European languages to develop two sets of second-person singular pronouns in order to reflect hierarchy. Therefore, pronouns encoded not only person or number, but also the speaker's assessment of the addressee's status and the speaker-addressee relationship.
+
+From the thirteenth century, the [[Middle English]] plural pronouns 'ye' (nominative) and 'you' (accusative) were used to address single individuals in upper-class or courtly contexts.<ref name=nau>Fitzmaurice, Susan. "Politeness in Early Modern English". http://jan.ucc.nau.edu/~eng121-c/politenessin%20AME.htm</ref> As a result, there were two sets of second-person singular pronouns, and the alternative singular pronouns 'thou' (nominative) and 'thee' (accusative) became increasingly associated with lower status. These distinctions had become established indices of social status by the fifteenth century, and they also developed as indicators of interpersonal relationships at this time: 'you' might show emotional distance or be used in a public setting, 'thou' familiarity/intimacy in a private setting.<ref name=nau/> We see vestiges of this distinction in languages like German or French that have retained the [[T-V distinction]], but second-person pronouns in these languages, as well as in Italian, Serbo-Croatian, and Swedish, have also begun to undergo change.<ref name=feminist>Cameron, Deborah. (1998) ''The feminist critique of language: a reader''. Psychology Press.</ref>
+
+Under the pressure of social structural changes and movement towards [[egalitarianism|egalitarian]] ideology, the English second-person singular pronouns later collapsed to a single term, 'you'.<ref name=feminist/> This contraction erased all visible morphological distinction between nominative and accusative case in the second person, effectively sacrificing distinguishability for economy.--->
+
+==See also==
+* [[Accusative case]]
+* [[Case (grammar)]]
+* [[Ergative–absolutive language]]
+* [[Morphosyntactic alignment]]
+* [[Nominative case]]
+
+==References==
+{{Reflist}}
+
+{{DEFAULTSORT:Nominative-accusative language}}
+[[Category:Syntax]]
+[[Category:Linguistic typology]]

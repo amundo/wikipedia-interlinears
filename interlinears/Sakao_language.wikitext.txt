@@ -1,0 +1,185 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Redirect|Sakao|the islands of Vanuatu with the same name|Sakao Island (disambiguation){{!}}Sakao Island}}
+{{Infobox language
+|name=Sakao
+|altname=Wanohe, Nkep, Nekep
+|states=[[Vanuatu]]
+|region=Big Bay, [[Espiritu Santo]] Island
+|speakers=4,000
+|date=2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Northern Vanuatu languages|Northern Vanuatu]]
+|fam6=[[East Santo languages|East Santo]]
+|dia1=Nkep
+|iso3=sku
+|glotto=saka1289
+|glottorefname=Wanohe
+|notice=IPA
+}}
+
+'''Sakao''' (also '''Nkep''' or '''Nekep''') is an [[Oceanic languages|Oceanic language]] spoken on the northeast horn of [[Espiritu Santo]], [[Vanuatu]].
+
+==Name==
+Sakao is the name of the language as used by foreigners and linguists. It is named after [[Sakao Island (Sanma, Vanuatu)|Sakao Island]], an islet off the northeastern shore of [[Espiritu Santo]], almost opposite Port-Olry. (Incidentally, this is not the native name of that island, which is called ''Laðhi'' by Sakao speakers. The name ''sakau'' means ‘coral reef’ in various languages of Vanuatu, but it is unknown exactly which one gave its name to the island.)
+
+The speakers of Sakao refer to their own language using various names, depending on the variety considered.
+
+==Dialects==
+Sakao has undergone considerable phonological change and innovations, which make it utterly unintelligible to its closely related neighbours of Espiritu Santo. Thus for instance, comparing the following words with their [[cognate]]s in its close relative [[Tolomako language|Tolomako]]:
+
+{| class="wikitable" style="text-align: center;"
+|-----
+! &nbsp;&nbsp; || Sakao || Tolomako
+|-----
+| "louse" || nøð || na ɣutu
+|-----
+| "chicken" || nɔð || na toa
+|-----
+| "four" || jɛð || βati
+|-----
+| "to blow" || hy || suβi 
+|}
+
+The main [[dialect]]s of Sakao are Northern, or Port-Olry dialect, and Southern, or Hog-Harbour dialect. The Southern dialect is the more conservative one. It is characterized by the loss of most pretonic and posttonic vowels, resulting in consonant clusters unusual for an Oceanic language. The Northern dialect is characterized by its extensive use of [[epenthetic]] vowels, which have achieved phonemic status, resulting in what looks superficially like vowel harmony; the loss of the initial ''*n-'' of nouns, except in monosyllabic nouns (this ''*n-'' being a reflex of the common Austronesian article ''*na'', fused to the nouns in Sakao); and the diphthongization of some word-final vowels.
+
+Thus for instance Port-Olry has {{IPA|/œmœɣœɛ/}} "fog, mist" where Hog-Harbour has {{IPA|/nmɣœ/}}.
+
+Unless otherwise indicated, examples given here are in the Northern, Port-Olry, dialect.
+==Phonology==
+{| class="wikitable" style="text-align: center;"
+|+ Sakao vowels (partial)
+! !! [[Front vowel|front]]<br>[[Roundedness|unrounded]]!! [[Front rounded vowel|front<br>rounded]]!! [[Back vowel|back]]<br>[[Roundedness|rounded]]
+|-
+! [[Close vowel|close]]
+| {{IPA link|i}} || {{IPA link|y}} || {{IPA link|u}}
+|-
+! [[Close-mid vowel|close mid]]
+| {{IPA link|e}} || {{IPA link|ø}} || {{IPA link|o}}
+|-
+! [[Open-mid vowel|open mid]]
+| {{IPA link|ɛ}} || {{IPA link|œ}} || {{IPA link|ɔ}}
+|-
+! [[Open vowel|open]]
+| {{IPA link|a}} || || {{IPA link|ɒ}}
+|}
+
+In addition, Sakao has a close vowel {{IPA|/ɨ/}} that is unspecified for being rounded or unrounded, front or back, and is always unstressed. It also has the two [[diphthong]]s {{IPA|/œɛ, ɒɔ/}}, whereas Tolomako has none.
+
+{| class="wikitable" style="text-align: center;"
+|+ Sakao consonants
+! !![[Labial consonant|labial]]!![[Dental consonant|dental]]!![[Alveolar consonant|alveolar]]!![[Dorsal consonant|dorsal]]!![[Glottal consonant|glottal]]
+|-
+! [[Nasal consonant|nasal]]
+| {{IPA link|m}} || || {{IPA link|n}} || {{IPA link|ŋ}} ||
+|-
+! [[plosive]]
+| {{IPA link|p}} || || {{IPA link|t}} || {{IPA link|k}}||
+|-
+! [[fricative]]
+| {{IPA link|β}} || {{IPA link|ð}} || {{IPA link|s}} || {{IPA link|ɣ}} || {{IPA link|h}}
+|-
+! [[approximant]]
+| {{IPA link|w}} || || {{IPA link|l}} || {{IPA link|j}} ||
+|-
+! [[Tap consonant|tap]]
+| || || {{IPA link|ɾ}} || ||
+|-
+! [[Voiceless alveolar trill|voiceless trill]]
+| || || {{IPA link|r̥}} || ||
+|}
+
+In addition, Sakao consonants may be long or short: {{IPA|/œβe/}} "drum", {{IPA|/œββe/}} "bed"
+
+It is not clear if Sakao even has syllables; that is, whether trying to divide Sakao words into meaningful syllables is even possible. If it is, Sakao syllables would appear to be V (a vowel or diphthong) surrounded by any number of consonants: V {{IPA|/i/}} "thou", CCVCCCC (?) {{IPA|/mhɛrtpr/}} "having sung and stopped singing thou kept silent" [{{IPA|m-}} 2nd pers., {{IPA|hɛrt}} "to sing", {{IPA|-p}} [[perfective]], {{IPA|-r}} continuous].
+
+==Grammar==
+===Number===
+Like [[Tolomako]], Sakao distinguishes four numbers for its personal pronouns. However, they are not singular, dual, trial, plural, but singular, dual, paucal, plural. The Sakao paucal derives from the Tolomako trial, thus Tolomako i γire-tolu "they three", Sakao jørðœl "they, from three to ten" (ðœl is regularly derivable from tolu). One says in Sakao jørðœl løn "the five of them" which is, etymologically, "they three, five."
+
+Substantives are not inflected for number, except kinship terms which distinguish singular and plural: {{IPA|ðjœɣ}} "my mother/aunt," {{IPA|rðjœɣ}} "my aunts;" {{IPA|walðyɣ}} "my child," {{IPA|raalðyɣ}} "my children." Likewise all demonstratives (pronouns, adjectives, even locatives): {{IPA|wa}} "this one,"  {{IPA|warɨr}} "these ones;" {{IPA|aðœŋœn mam}} "this person," {{IPA|aðœŋœn mamɨr}} "these persons;" {{IPA|ðað}} "here," {{IPA|ðaðɨr}} "in several places around here."
+
+===Deixis===
+Sakao has seven degrees of [[deixis]].
+
+===Nouns===
+Sakao has [[Inalienable possession|inalienably possessed]] nouns, many of which are irregularly inflected:
+
+{|
+|
+{| class="wikitable"
+! Sakao !! English
+|-
+| œsɨŋœ-ɣ || "my mouth"
+|-
+| œsɨŋœ-m || "thy mouth"
+|-
+| ɔsɨŋɔ-n || "his/her/its mouth"
+|-
+| œsœŋ-... || "...'s mouth"
+|}
+|
+{| class="wikitable"
+! Sakao !! English
+|-
+| uly-ɣ || "my hair"
+|-
+| uly-m || "thy hair"
+|-
+| ulœ-n || "his/her/its hair"
+|-
+| nøl-... || "...'s hair"
+|}
+|}
+
+Here "mouth" is variably ''{{IPA|œsɨŋœ-, ɔsɨŋɔ-, œsœŋ-}}'' and "hair" variably ''{{IPA|uly-, ulœ-, nøl-}}.''
+
+===Syntax===
+Sakao has a suffix ''{{IPA|-ɨn}}'' that increases the [[valence (linguistics)|valence]] of a verb (corresponding to [[Applicative voice|applicative]] suffixes in other languages): it makes [[intransitive verb]]s transitive, and [[transitive verb]]s ditransitive. It the latter case, one argument may be the [[direct object]] and the other an instrument; the word order of the arguments is free, leaving context to disambiguate which is which:
+
+{{interlinear|indent=3
+|top= ''Mɨjilɨn ara amas.''
+|mɨ-jil-ɨn a-ra a-mas
+|3SG-hits-TR ART-pig ART-club
+|"S/he hits (kills) the pig with a club"}}
+
+This could also be ''{{IPA|mɨjilɨn amas ara}}''.
+
+The Sakao strategy involves [[polysynthetic]] syntax, as opposed to the isolating syntax of its neighbor [[Tolomako language|Tolomako]]. For instance, the word 'pig' above could be [[noun incorporation|incorporated]] into the verb, leaving a single external argument:
+
+{{interlinear|indent=3
+|top= ''Mɨjilrapɨn amas.''
+|mɨ-jil-ra-p-ɨn a-mas
+|3SG-hit-pig-PFV-TR ART-club
+|"S/he hits (kills) the pig with a club"}}
+
+Sakao polysynthesis can also involve compound verbs, each with its own instrument or object:
+
+{{interlinear|indent=3
+|top= ''{{IPA|Mɔssɔnɛshɔβrɨn aða ɛðɛ}}'' &nbsp;&nbsp;&nbsp; (or: ''{{IPA|ɛðɛ aða}})''
+|mɔ-sɔn-nɛs-hɔβ-r-ɨn a-ða ɛ-ðɛ 
+|3SG-shoots-fish-follows-CONT-TR ART-bow ART-sea
+|"S/he kept on walking along the shore shooting fish with a bow."}}
+
+Here ''{{IPA|aða}}'' "the bow" is the instrumental of ''{{IPA|sɔn}}'' "to shoot", and ''{{IPA|ɛðɛ}}'' "the sea" is the direct object of ''{{IPA|hoβ}}'' "to follow", which since they are combined into a single verb, are marked as [[ditransitive]] with the suffix ''{{IPA|-ɨn}}.'' Because ''{{IPA|sɔn}}'' "to shoot" has the [[noun incorporation|incorporated]] object ''{{IPA|nɛs}}'' "fish", the first consonant [[gemination|geminates]] for ''{{IPA|ssɔn}}''; ''{{IPA|ssɔn-nɛs}},'' being part of one word, then reduces to ''{{IPA|ssɔnɛs}}.''
+
+*[[Tolomako language]], for parallels to the above in a closely related but grammatically simpler language
+
+==References==
+{{Reflist}}
+* {{Cite thesis |last=Guy |first=Jacques Bernard Michel  |title=A grammar of the northern dialect of Sakao, a Melanesian language of Espiritu Santo (New Hebrides) |date=1972 |degree=PhD |publisher=Australian National University |doi=10.25911/5D73902D1FAAD |hdl=1885/130469 |doi-access=free |hdl-access=free |author-link=Jacques Guy }}
+* {{Cite journal |last=Guy |first=Jacques Bernard Michel |date=1977 |title=On the origins of the Sakao vowel system (New Hebrides) |jstor=20705229 |journal=The Journal of the Polynesian Society |volume=86 |issue=1 |pages=97–103 }}
+
+== External links ==
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0229 N'kep dialect of Sakao (north Vanuatu): Structure and variation]
+* [[Paradisec]] has two collections of [[Arthur Capell|Arthur Cappell]]'s ([http://catalog.paradisec.org.au/collections/AC1 AC1], [http://catalog.paradisec.org.au/collections/AC2 AC2]) that include Sakao language materials
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Languages of Vanuatu]]
+[[Category:Espiritu Santo languages]]

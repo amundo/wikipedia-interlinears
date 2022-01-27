@@ -1,0 +1,508 @@
+{{Infobox language
+|name=Texistepec
+|nativename=''Wää 'oot''
+|states=[[Mexico]]
+|region=[[Veracruz|Vera Cruz]]
+|ethnicity=15,800 (1990 census)<ref>{{Ethnologue18|poq|Texistepec}}</ref>
+| speakers = 1 
+| date=2018
+| ref=e24
+|speakers2= to {{sigfig|368|2}} (2020 census)<ref name=inegi2020>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+|familycolor=American
+|fam1=[[Mixe–Zoquean languages|Mixe–Zoquean]]
+|fam2=[[Zoquean]]
+|fam3=Gulf Zoquean
+|iso3=poq
+|glotto=texi1237
+|glottorefname=Texistepec Popoluca
+}}
+
+'''Texistepec''', commonly called either ''Texistepec Popoluca'' or ''Texistepec Zoque'', is a [[Mixe–Zoquean languages|Mixe–Zoquean]] language of the [[Zoque languages|Zoquean]] branch spoken by a hundred indigenous Popoluca people in and around the town of Texistepec in Southern [[Veracruz, Veracruz|Veracruz]], [[Mexico]].
+
+Within the Mixe–Zoquean family, Texistepec Popoluca is most closely related to [[Sierra Popoluca]].
+
+Texistepec Popoluca has been documented primarily in work by [[Søren Wichmann]], a Danish [[linguistic anthropology|anthropological]] and [[historical linguistics|historical linguist]] and Ehren Reilly, a former graduate student at [[Johns Hopkins University]].  Reilly's work was a part of the larger [http://www.albany.edu/anthro/maldp/ Project for the Documentation of the Languages of Mesoamerica], under the leadership of the [[University of Pittsburgh]]'s [[Terrence Kaufman]], and contributed to Kaufman's project of deciphering [[Isthmian script|Epi-Olmec]] writing.
+
+Less than 100 native speakers of Texistepec Popoluca remained when Søren Wichmann, Ehren Reilly, and [[Terrence Kaufman]] conducted their research between 1990 and 2002, and the language was [[Moribund language#Moribund languages|moribund]], with no new speakers acquiring the language natively, due to the prevalence of Spanish.  Today, all remaining speakers, are elderly, if any survive at all.
+However, according to a publication from the Program of Revitalization, Strengthening, and Development of the Languages of the Indigenous Nationals, in 2012 there was a recorded 238 speakers in Vercruz, Mexico (INALI).
+
+==Phonology==
+The phonemes /l/ and /r/ do not occur natively within the Texistepec language.  These two phonemes are borrowed from Spanish phonology and have become integrated into Texistepec phonology (Reilly).
+According to early work conducted by Foster another "outstanding feature of Texistepec consonants is the strong development of voicing" especially with stops and [s].  Below are his phonological rules of voicing (1943, p.536).
+
+/p/, /t/, and /s/ become voiced in the word-initial position.
+
+[p, t, s]→voiced/#__	
+
+[k] becomes the voiced allophone after a nasal or between two vowels.
+
+[k]→[ḳ]/[m, n, ŋ]__ or /V_V									
+
+According to Wichmann "Stress is not distinctive in Texistepec Popoluca. Stress is assigned to:
+
+# the last heavy syllable of a lexical morpheme, where a heavy syllable is defined as containing a long vowel;
+# if not to the penultimate syllable of a lexical morpheme (whether heavy or light);
+# if not to the only syllable of a phonological word;
+# if not to certain suffixes that are inherently specified for stress.
+# Stress assignment applies iteratively leftwards in a composite stem to produce secondary stresses 
+(1994, 469)"
+
+===Consonants===
+{| class="wikitable" style="text-align:center"
+|-
+! 
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ɲ}}
+| {{IPAlink|ŋ}}
+| 
+|-
+! [[Stop consonant|Stop]]
+| {{IPAlink|p}}, {{IPAlink|b}}
+| {{IPAlink|t}}, {{IPAlink|d}}, {{IPAlink|dʲ}}
+| 
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+! [[Affricate|Affricates]]
+| 
+| {{IPAlink|t͡s}}
+| {{IPAlink|t͡ʃ}}
+| 
+| 
+|-
+! [[Fricative|Fricatives]]
+| 
+| {{IPAlink|s}}
+| {{IPAlink|ʃ}}
+| 
+| {{IPAlink|h}}
+|-
+! [[Approximant]]
+| 
+| {{IPAlink|l}}, {{IPAlink|r}}
+| 
+| 
+| 
+|}
+
+===Vowels===
+The vowels in Texistepec can be counted as the five listed in Table 3, for the sake of simplification and consistency as presented by multiple sources.  However it could potentially include six, or even twelve vowels if accounting for the contrast between long and short vowels.  According to research by Wichmann and later modified by Reilly, the vowels of this language "have a non-phonemic nasal counterpart, usually only realized in the presence of an inflectional nasal autosegment...
+
+{| class="wikitable" style="text-align:center"
+|-
+! 
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| 
+| {{IPAlink|ɨ}}
+| {{IPAlink|u}}
+|-
+! [[Open-mid vowel|Mid-low]]
+| {{IPAlink|ɛ}}
+| 
+| {{IPAlink|ɔ}}
+|-
+! [[Low vowel|Low]]
+| 
+| 
+| {{IPAlink|a}}
+|}
+
+<u>Vowel Phonemes</u>
+{| class="wikitable"
+|+ Underspecified
+|-
+!  !! ɛ !! ɨ !! a !! u !! o 
+|-
+| high ||  || + ||   || + ||   
+|-
+| back ||   ||   || + ||   ||   
+|-
+| round ||   ||   ||   || + || + 
+|}       
+{| class="wikitable"
+|+ Fully Specified
+|-
+!  !! ɛ !! ɨ !! a !! u !! o
+|-
+| high || - || + || - || + || -  
+|-
+| back || - || +  || + || + || + 
+|-
+| round || - || - || - || + || + 
+|}
+"Long and short vowels are also contrastive in lexical representations as is evident from the following minimal pair[s]:"
+:t͡ʃɛːɲ		'honey'
+:t͡ʃɛɲ		'shit'			
+(Reilly 2002, 11)
+:pak	'bone'	
+:paːk	'cold'
+(Wichmann 2007, 40)
+
+==Morphology==
+From Reilly's research in his undergraduate thesis he tells us "the prefix j- indicates 3rd person in the imperfective aspect.  This prefix is metathesized, presumably due to its high sonority.  Third person is zero-marked in the perfective aspect" (12).  A few pages later we are informed that "palatalization regressively affects coronal consonants and progressively affects the high central vowel phoneme /ɨ/... TEX does not permit geminate onset consonants, and the onset is the only location where morphological rules could create the problematic /jj/" (Reilly 2002, 16).  The table below demonstrates the problematic /jj/ in the word-initial position.
+
+'''Morpho-Phonological Alterations'''<br />
+{| class="1" class="wikitable"
+|+ Second Person: palatal glide and nasal autosegment
+! (17)!! 'key' !! 'candle' !! 'bean' !! 'go' !! 'honey'
+|-
+! UR: 
+| <sup>N</sup>j-jaːpɛʔ || <sup>N</sup>j-daj || <sup>N</sup>j-sɨk || <sup>N</sup>j-dɨk || <sup>N</sup>j-t͡ʃ_ːɲ
+|-
+! Metathesis 
+| <sup>N</sup>jjaːpɛʔ || <sup>N</sup>djaj || <sup>N</sup>sjɨk || <sup>N</sup>djɨk || <sup>N</sup>j-t͡ʃ_ːɲ
+|-
+! Palatalization 
+| <sup>N</sup>d<sup>j</sup>aːpɛʔ || <sup>N</sup>d<sup>j</sup>aj || <sup>N</sup>ʃjik || <sup>N</sup>djik || <sup>N</sup>t͡ʃj_ːɲ
+|-
+! <sup>''N''</sup>-Spreading 
+| ɲaːpɛʔ || ɲjaj || ʒjik || ɲjik || nd͡ʒj_ːɲ
+|-
+! Relinking 
+| — || — || — || — || nd͡ʒjːŋ
+|-
+! ''j''-Deletion 
+| — || — || ʒik || ɲik || —
+|-
+! Peak Filter
+| — || — || — || — || nd͡ʒiːɲ
+|-
+!SR
+| ''ɲaːpɛʔ'' || ''ɲjaj'' || ''ʒik'' || ''ɲik'' || ''nd͡ʒiːɲ''
+|}
+"This inventory distinguishes nasal stops /m/ and /n/ from oral stops /b/ and /d/, respectively.../d/ and /b/ occur in complementary distribution with /n/ and /m/, with the oral stops appearing in onsets and the nasals appearing in the codas" (Reilly 2002, 18).
+
+{{Col-begin}}
+{{Col-break}}
+'''Nasalization Processes'''<br />
+X.  /<sup>N</sup>-b/ → [m]<br />
+:/<sup>N</sup>-d/ → [n]
+
+Y. /<sup>N</sup>-p/ → [m͡b]<br />
+:/<sup>N</sup>-t/ → [n͡d]
+:/<sup>N</sup>-k/ → [n͡g]
+:/<sup>N</sup>-<nowiki/>{ʔ,h}V/ → [{ʔ,h} Ṽ]
+:/<sup>N</sup>-<nowiki/>{w,j}V/ → [{w̃, j̃}Ṽ]
+:/<sup>N</sup>-<nowiki/>{s, ʃ}/ → [{z, ʒ}]
+{{Col-break}} 
+'''Palatalization Processes'''<br />
+A. /j-Ci/ → [Ci],/Ci/ → [Cɛ] elsewhere
+
+B. /j-Cɨ/ → [Ci]
+
+C. /j-s/ → [ʃ]<br />
+:/j-t/ → [tʃ]
+:/j-d/ → [d<sup>j</sup>]
+
+D. /j-[-COR]/ → [Cj]<br />
+{{col-end}}
+(Reilly 2005)
+
+===Aspect markers===
+"The use of a single marker... is sufficient to indicate the persons and grammatical functions... The GFM [Grammatical function morpheme] system in TEX [Texistepec Popoluca] always uses only a single prefix on a given verb."  This shows a more complex pattern than a "simple accusative, ergative or aspect-split pattern. ... Group X marks the A as Ergative but leaves P unmarked.  Group Y marks the Past Absolutive but leaves the A unmarked.  Group Z seems to be a separate and autonomous set. This pattern, where sometimes the P is marked and sometimes the A is marked, is called ''inverse alternation'' (Reilly 2004, 53–54)."
+
+These patterns are clearly shown in The Complete Paradigm below which breaks down the two sets in which transitive and intransitives are marked with the Ergative/nominative split with the Absolutive in a separate grouping.  For more comprehensive information on the split-ergativity of Texistepec language the reader should refer to Reilly’s publications in 2004 and 2007.
+
+{| class=wikitable
+|+'''The complete paradigm'''
+|-
+! Transitive !!   !!   !! Intransitive !!   !!  
+|-
+! ERG/NOM ||   ||   || ERG/NOM ||   || ABS
+|-
+| rowspan="4" |''Group X'' || ''1›3''|| <sup>N</sup>-|| ''1st Person''|| <sup>N</sup>- || k-
+|-
+| ''1in›3''|| ta<sup>N</sup>- || ''1st Person Exclusive''|| ta<sup>N</sup>- || te-/ta-
+|-
+| ''2›3'' || <sup>N</sup>j- || ''2nd Person'' || <sup>N</sup>j- || kj-
+|-
+| ''3›3'' || j- || ''3rd Person'' || j- || ''Ø''
+|-
+! ABS
+|-
+| rowspan="2"|''Group Y'' || ''3›1'' || k-
+|-
+| ''3›1in'' || te/ta-
+|-
+| rowspan="2"|''Group Z'' || ''1›2'' || k<sup>N</sup>-
+|-
+| ''2›1'' || k<sup>N</sup>j-
+|}
+(Reilly 2004, 54)
+
+Comparison of personal marker contrast between Texistepec Popoluca speakers and other Zoque languages:
+
+{| class="wikitable"
+|-
+| width=100px | 
+! width=100px | Proto-Zoque
+! width=100px | Sierra Popoluca
+! width=100px | Texistepec Popoluca
+! width=100px | San Miguel Chimal
+! width=100px | Chiapas
+|-
+! colspan=6 | A
+|-
+! 1ex
+| *än-
+| an-
+| n-
+| ‘än=
+| (ä) N-
+|-
+! 1in
+| *tän-
+| tan-
+| ta=n-
+| dän, tän
+| ndä-
+|-
+! 2
+| *min-
+| iñ-
+| ny-
+| ‘äm=
+| (mi) N-
+|-
+! 3
+| *äy-
+| i-
+| y-
+| ‘äy=/’ äy
+| y-
+|-
+! colspan=6 | B
+|-
+! 1ex
+| *ä-
+| a-
+| k=
+| dä=
+| ∅
+|-
+! 1in
+| *tä-
+| ta-
+| ta
+| -
+| tä-
+|-
+! 2
+| *mi-
+| mi-
+| k=y-
+| äm=, 3/2&nbsp;mi=Ny-
+| &nbsp;
+|-
+! 3
+| *∅-
+| ∅-
+| ∅-
+| ∅=
+| ∅-
+|-
+! colspan=6 | Local
+|-
+! 1›2
+| *mi+än
+| mi+an &gt; miñ
+| k=n-
+| mix=, mix+’än
+| N-
+|-
+! 2›1
+| *ä+in(ʔ)
+| a+iñ &gt; an-
+| k=ny-
+| mix=
+| N-
+|}
+(Wichmann 2004, 209)
+
+'''Personal aspect markers'''
+
+“TEX has three aspects, Imperfective, Perfective and Future. (Reilly 2002, 22)”  Most of the information on aspect marking comes from Reilly’s research from his written works from 2002 and 2004.  The following explanations may help to clarify the table below, which is an illustration of the person marking affixes used on the verbs in Texistepec.  There are two ‘paradigms’ which represent the differences in the ergative-absolutive split observed in this language.
+
+“Aspect marking occurs in the derivation process after the verb has been inflected to agree with the person a grammatical function of its arguments.  Imperfective aspect is indicated by a proclitic ʔu, and Perfective aspect is indicated by a proclitic maʔ.” ... “A third aspect functions very much like a future tense, indicated by a suffix –p(ɛʃ)”  (Reilly 2004b, 36-7).”  The future aspect “refers to all future events, and events with distinct beginnings in the present moment” (Reilly 2002, 38).  Perfective has a definite beginning and end, prior to the moment of utterance.  Imperfective verbs are progressive or habitual. 
+
+“The cross-referencing of core arguments in Texistepec Popoluca employs a paradigm of affixes (Set A) and a paradigm of clitics (Set B).... Also, cross-referencing for first and second persons always aligns with the verb stem, often at the expense of any third person argument in the clause. This is known as “inverse alignment” (Klaiman 1993). In Texistepec Popoluca, inverse clauses ... lack subject agreement. (Reilly 2004a, 133)"
+
+{| class="wikitable"
+|-
+| '''Subj›Obj''' (any asp’t) || '''Subj›Obj''' (any asp’t) || '''Subj''' (imperf.) || '''Subj''' (perf., fut)
+|-
+| '''1›3'''   1st-A  /<sup>N</sup>-/|| '''3›1'''   1st-B  /k+/|| '''1'''   1st-A  /<sup>N</sup>-/|| '''1'''   1st-B  /k+/
+|-
+| '''2›3'''   2nd-A /j-<sup>N</sup>-/|| '''3›2'''   2nd-B  /k+j-/|| '''2'''   2nd-A  /j-<sup>N</sup>-/|| '''2'''   2nd-B  /k+j-/
+|-
+| '''3›3'''   3rd-A  /j-/||  || '''3'''   3rd-A  /j-/|| '''3'''   ∅
+|-
+| scope="row" colspan="2"| '''1›2''' /k+<sup>N</sup>-/; '''2›1''' /k+j<sup>N</sup>-/ = portmanteau
+|} 
+Cross-referencing morphology for all possible argument structures (Reilly 2007, 1581)
+
+Here are a couple of examples from Reilly that are supposed to demonstrate how these agreement markings grammatically change the sentence.
+
+	
+“inverse clauses lack subject agreement.
+
+{{interlinear|indent=3|glossing=no abbr
+|top= maʔ ʔɑ̃ʔm
+|maʔ ∅- ⁿʔaʔm
+|PERF 3B-1A- see
+|"I saw him/her/it" (Reilly 2004a, 134)}}
+
+{{interlinear|indent=3|glossing=no abbr
+|top= maʔ kʔaʔm
+|maʔ k+ ʔaʔm
+|PERF 1B+ see
+|‘She/he/it saw me.’}}
+
+Ergativity split in the Imperfective tense (using Set A)
+
+{{interlinear|indent=3|glossing=no abbr
+|top= ʔuw̃ɛ̃j
+|ʔu+ {} -wɛj
+|IMPFV+ 1A- howl
+|‘I am howling.’}}
+
+{{interlinear|indent=3|glossing=no abbr
+|top= maʔ kwɛj
+|maʔ # k+ wɛj
+|PERF # 1B+ howl
+|‘I howled.’}}
+
+{{interlinear|indent=3|glossing=no abbr
+|top= kwɛːjp
+|k+ wɛj -p
+|1B+ howl -FUT
+|‘I will howl.’ (Reilly 2004b, 8)”}}
+
+==Numbers==
+Once believed that native words for many numbers had been lost with the assimilation of Spanish, a little-known word list compiled by Dr. Eustorjio Calderón in 1892 was lost for some time which now “provides comparative data for number systems used in Oluta, Sayula, and Texistepec, in southern Veracruz, Mexico.  The data are surprisingly accurate, considering that they were collected by a medical doctor who made a hobby of collecting word lists of little-known languages. (Clark 1982, 223)”
+
+{| class="wikitable"
+|-
+! Numbers !! Calderón’s notations !! phonemic script !! Clark's forms
+|-
+| 1 || tum || tum || tum 
+|-
+| 2 || huisna || wisna || wɨsna'
+|-
+| 3 || tuguná || tuguná || túguna'
+|-
+| 4 || bacsná || baksná || báksna'
+|-
+| 5 || bosná || bosná || bósna'
+|-
+| 6 || tujná || tuhná || túhna'
+|-
+| 7 || huestujná || westuhná || wɨstúhna’
+|-
+| 8 || tugtujná || tuhtuhná || tuktúhna’
+|-
+| 9 || bacstujná || bakstuhná || bakstúhna’
+|-
+| 10 || bacná || bakná || bákna’
+|-
+| 11 || bactumná || baktumná || baktúmna’
+|-
+| 12 || bac’huisná || bakwisná || bakẃɨsna’
+|-
+| 13 || bactuguná || baktuguná || baktúguna’
+|-
+| 14 || bacbacsná || bakbaksná || bakbáksna’
+|-
+| 15 || bacbosná || bakbosná || (bakbósna’)
+|-
+| 16 || bactujná || baktuhná || (baktúhna’)
+|-
+| 17 || bac’huestujná|| bakwestuhná || (bakwɨstúhna’)
+|-
+| 18 || bactujtujná || baktuhtuhná || (baktuhtúhna’)
+|-
+| 19 || bacbacstunjá || bakbakstuhná || (bakbakstúhna’)
+|-
+| 20 || ipxñá || ipšñá || é'pšña’
+|-
+| 21 || ipxtumná || ipštumná || (e'pštúmna')
+|-
+| 30 || ipxcomoc || ipškomok || (e'pškomak)
+|-
+| 31 || ipxcomoctumná || ipškomoktumná || (e'pškomaktúmna')
+|-
+| 40 || vusskipx || vuuskipš || (wɨske'pš)
+|-
+| 50 || vuuskipx comöc || vusskipškomɨk || (wɨske'pškomak)
+|-
+| 60 || tuguipx || tugu ipš || (tuguk'pš)
+|-
+| 70 || tuguipx comöc || tugu ipš komɨk || (tuguke'pškomak)
+|-
+| 80 || bac chipx || bak čipš || (bakské'pš)
+|-
+| 90 || bac chipx comöc || bak čipš komɨk || (bakske'pšbákna')
+|-
+| 100 || box || boš || boské'pš
+|-
+| 400 || bacsnabox || baksnaboš || baksnaboš
+|-
+| 1,000 || bacnabox || baknaboš || baknaboš
+|}
+
+“Where I have not actually heard the forms but can reasonably reconstruct them from other data, these are included in the third column in parentheses. (Clark 1982, 225)”
+
+'''Gender'''
+
+“No distinction is made between male and female lines.  No distinction as to sex is made except in reciprocal affinal terms. (Foster 1949, 334)”
+
+'''Word order '''
+
+Word order in this language is “essentially free, with the verb inflection being the sole indicator of the grammatical functions of the arguments of the verb.  The variation between word order is typically used for pragmatic emphasis and focus... The influence of SVO Spanish grammar school education seems to have made SVO also the more socially elite word order, since only people who have attended school have been chastised for their ‘backwards’ VOS use. (Reilly 2002, 35)”
+
+'''Clauses, etc.'''
+
+Wichmann’s research 2000 determined that “Texistepec Popoluca makes little use of adjectives, conjoined phrases, passives, participles, or subordination” (420).  Reilly mentions that “Texistepec has a class of modifiers whose status as either adjective or adverb is unclear, but which always show agreement with the subject of the clause... always uses Set A” (referring to The Complete Paradigm presented above)(2007, 1574).
+
+==References==
+{{Reflist}}
+<nowiki>Clark, Lawrence. 1982. An Obsolete Numbering System Uncovered. International Journal of American Linguistics, Vol. 48, No. 2. 223-225.</nowiki>
+
+<nowiki>Foster, George M. (1943). The geographical, linguistic, and cultural position of the Popoluca of Veracruz. American Anthropologist, Vol. 45, No. 4, Part 1. </nowiki>
+
+<nowiki>Foster, George M. (1949). Sierra Popoluca kinship terminology and its wider relationships. 	Southwestern Journal of Anthropology, Vol. 5, No. 4, p330-344.</nowiki>  
+
+<nowiki>INALI (Instituto Nacional de Lenguas Indígenas). 2009. Programa de Revitalización, Fortalecimiento y Desarrollo de las Lenguas Indígenas Nacionales 2008-2012. </nowiki>
+
+<nowiki>Reilly, Ehren. 2002. A Survey of Texistepec Popoluca Verbal Morphology. Unpublished undergraduate thesis. Carleton College, Northfield, Minnesota</nowiki>
+
+<nowiki>Reilly, Ehren M. 2004a. Ergativity and agreement splits at the syntax/phonology interface. Johns Hopkins University Department of Cognitive Science.</nowiki>
+
+<nowiki>Reilly, Ehren M. 2004b. Promiscuous paradigms and the morphologically conditioned “ergative split” in Texistepec Popoluca (Zoquean). Johns Hopkins University.</nowiki>
+  
+<nowiki>Reilly, Ehren. 2005. Choosing just the right amount of over-application: An acquisition puzzle in 	Texistepec Popoluca. In HUMDRUM Conference on Optimality Theory, University of Massachusetts, Amherst.</nowiki>
+
+<nowiki>Reilly, Ehren. 2007. Morphological and phonological sources of split ergative agreement. 117: 1566-1590.</nowiki>
+
+<nowiki>Wichmann, Søren. 1994. Underspecification in Texistepec Popoluca phonology. Acta Linguistica Hafniensia 27.2: 267-285.</nowiki>
+
+<nowiki>Wichmann, Søren. 2004. La gramaticalización de un paradigma de auxiliares en popoluca de Texistepec. 2:205-220. </nowiki>
+
+{{Mixe-Zoque languages}}
+
+[[Category:Indigenous languages of Mexico]]
+[[Category:Mesoamerican languages]]
+[[Category:Mixe–Zoque languages]]
+[[Category:Endangered Mixe–Zoque languages]]

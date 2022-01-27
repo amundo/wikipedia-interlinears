@@ -1,0 +1,406 @@
+{{Short description|Mongolic language of Northwest China}}{{Infobox language
+|name=Santa
+|nativename=Santa<br/>{{nobold|{{Script/Arabic|لھجکءاءل}}}}
+|states=[[China]]
+|region=[[Gansu]] (mainly [[Linxia Hui Autonomous Prefecture]]) and [[Xinjiang]] ([[Ili Kazakh Autonomous Prefecture]]){{sfnp|Bao|2006}}
+|speakers=200,000
+|date=2007
+|ref=e18
+|familycolor=Altaic
+|fam1=[[Mongolic languages|Mongolic]]
+|fam2=Shirongolic
+|script=[[Arabic script|Arabic]], [[Latin script|Latin]]
+|iso3=sce
+|glotto=dong1285
+|glottorefname=Dongxiang
+}}
+
+The '''Santa language''', also known as '''Dongxiang''' ({{zh|s=东乡语 |t=東鄉語 |p=Dōngxiāngyǔ}}), is a [[Mongolic languages|Mongolic language]] spoken by the [[Dongxiangs|Dongxiang people]] in [[Northwest China]].
+
+==Dialects==
+There are no dialects in strict sense, but three local varieties (''tuyu'') can be found: Suonanba (ca. 50% of all Dongxiang speakers), Wangjiaji (ca. 30% of all Dongxiang speakers) and Sijiaji (ca. 20% of all Dongxiang speakers).
+
+== Phonology ==
+Except for a limited number of cases there is no vowel harmony and the harmonic rules governing the suffix pronunciation are by far not as strict as those of Mongolian.<ref name="e18" />
+
+===Consonants===
+Dongxiang has 29 consonants:{{sfnp|Field|1997|p=37}}
+
+{|class="wikitable" style="text-align: center;"
+! colspan="2" |
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Retroflex consonant|Retroflex]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Uvular consonant|Uvular]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan="2" |[[Plosive]]
+!{{small|plain}}
+|{{IPAlink|p}}
+|{{IPAlink|t}}
+|
+|
+|{{IPAlink|k}}
+|{{IPAlink|q}}
+|
+|-
+!{{Small|[[Aspirated consonant|aspirated]]}}
+|{{IPAlink|pʰ}}
+|{{IPAlink|tʰ}}
+|
+|
+|{{IPAlink|kʰ}}
+|{{IPAlink|qʰ}}
+|
+|-
+! rowspan="2" |[[Fricative]]
+!{{Small|[[Voicelessness|voiceless]]}}
+|{{IPAlink|f}}
+|{{IPAlink|s}}
+|{{IPAlink|ʂ}}
+|{{IPAlink|ɕ}}
+|{{IPAlink|x}}
+|
+|{{IPAlink|h}}
+|-
+!{{Small|[[Voice (phonetics)|voiced]]}}
+|
+|
+|{{IPAlink|ʐ}}
+|
+|
+|{{IPAlink|ʁ}}
+|
+|-
+! rowspan="2" |[[Affricate]]
+!{{small|plain}}
+|
+|{{IPAlink|t͡s}}
+|{{IPAlink|t͡ʂ}}
+|{{IPAlink|t͡ɕ}}
+|
+|
+|
+|-
+!{{Small|aspirated}}
+|
+|{{IPAlink|t͡sʰ}}
+|{{IPAlink|t͡ʂʰ}}
+|{{IPAlink|t͡ɕʰ}}
+|
+|
+|
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+|{{IPAlink|m}}
+|{{IPAlink|n}}
+|
+|
+|{{IPAlink|ŋ}}
+|
+|
+|-
+! colspan="2" |[[Approximant]]
+|{{IPAlink|w}}
+|{{IPAlink|l}}
+|
+|{{IPAlink|j}}
+|
+|
+|
+|-
+! colspan="2" |[[Trill consonant|Trill]]
+|
+|{{IPAlink|r}}
+|
+|
+|
+|
+|
+|}
+
+===Vowels===
+Dongxiang has 7 vowels.{{sfnp|Field|1997|p=37}} Unlike other neighboring Mongolic languages, it has neither [[vowel harmony]] nor distinctions of [[vowel length]].<ref name="e18" />
+{|class="wikitable" style="text-align: center;"
+|+
+! rowspan="2" |
+! rowspan="2" |Front
+! colspan="2" |Central
+! colspan="2" |Back
+|-
+!{{Small|plain}}
+!{{Small|retroflex}}
+!{{Small|unrounded}}
+!{{Small|[[Roundedness|rounded]]}}
+|-
+!High
+|{{IPAlink|i}}
+|
+|
+|{{IPAlink|ɯ}}
+|{{IPAlink|u}}
+|-
+!Mid
+|
+|{{IPAlink|ə}}
+|{{IPAlink|ɚ}}
+|
+|{{IPAlink|o}}
+|-
+!Low
+|
+|
+|
+|{{IPAlink|ɑ}}
+|
+|}
+
+==Grammar==
+===Morphology===
+====Plural marking====
+* -la (remaining of nouns)
+{{interlinear|indent=3
+|~oni, eoni-la
+|sheep, sheep(s)|}}
+* -sla/-sila (certain nouns and pronouns)
+{{interlinear|indent=3
+|o~in, o~in-sla
+|girl, girls|}}
+* -pi (relatives)
+{{interlinear|indent=3
+|gajieiau gajieiau-pi
+|brother, brothers|}}
+
+=== Cases ===
+Santa/Dongxiang has 6 cases.{{sfnp|Janhunen|2003|p=354}}
+
+{| class="wikitable"
+|+
+!
+!Function
+!Marker
+|-
+|Connective
+|genitive-accusative
+|'''-ni'''
+|-
+|Dative
+|dative-locative-benefactive
+|'''-de'''
+|-
+|Ablative
+|ablative-comparative
+|'''-se'''
+|-
+|Comitative
+|comitative
+|'''-le ~ -re'''
+|-
+|Sociative
+|sociative-instrumental
+|'''-gh(u)ala'''
+|-
+|Prosecutive
+|locative-prosecutive
+|'''-ghun'''
+|}
+
+===Syntax===
+In common with other Mongolic languages, Dongxiang is spoken as an [[Subject–object–verb|SOV]] language. In Linxia, however, under the influence of the [[Mandarin Chinese]] dialects spoken by the neighbouring [[Hui people]], sentences of the [[subject–verb–object|SVO]] type have also been observed.{{sfnp|Bao|2006|loc=1.1: {{lang|zh-Hans|东乡语的语序特点}}}}
+
+==Writing system==
+Knowledge of [[Arabic]] is widespread among the Sarta and as a result, they often use the [[Arabic script]] to write down their language informally (cf. the [[Xiao'erjing]] system that was used by [[Hui people]]); however, this has been little investigated by scholars. {{asof|2003}}, the official [[Latin script|Latin alphabet]] for Dongxiang, developed on the basis of the [[Monguor language|Monguor]] alphabet, remained in the experimental stage.{{sfnp|Kim|2003|p=348}}
+
+==Numerals==
+{| class="wikitable"
+|+
+!Numeral
+!'''Classical Mongolian'''
+!'''Dongxiang'''
+|-
+|1
+|nigen
+|niy
+|-
+|2
+|qoyar
+|ghua
+|-
+|3
+|ghurban
+|ghuran
+|-
+|4
+|dörben
+|jierang
+|-
+|5
+|tabun
+|tawun
+|-
+|6
+|jirghughan
+|jirghun
+|-
+|7
+|dologhan
+|dolon
+|-
+|8
+|naiman
+|naiman
+|-
+|9
+|yisün
+|yysun
+|-
+|10
+|arban
+|haron
+|}
+
+==The Tangwang language==
+{{Main|Tangwang language}}
+
+There are about 20,000 people in the north-eastern part [[Dongxiang Autonomous County|Dongxiang County]], who self-identify as Dongxiang or [[Hui people]] who do not speak Dongxiang, but natively speak a Dongxiang-influenced form of [[Mandarin Chinese]]. The linguist Mei W. Lee-Smith calls this the "Tangwang language" ({{zh|s=唐汪话}}), based on the names of the two largest villages (Tangjia and Wangjia, parts of Tangwang [[Towns of China|Town]]) where it is spoken and argues it is a [[creole language|creolized language]].<ref name=lee>{{citation |last1=Lee-Smith|first1=Mei W. |contribution=The Tangwang language |author2=International Council for Philosophy and Humanistic Studies |publisher=Walter de Gruyter |year=1996 |isbn=978-3-11-013417-9 |title=Atlas of languages of intercultural communication in the Pacific, Asia, and the Americas, Volume 2, Part 1. (Volume 13 of Trends in Linguistics, Documentation Series). |url= https://books.google.com/books?id=glU0vte5gSkC |pages=875–882 |editor-last=Wurm |editor-first=Stephen A. 
+|editor2-last=Mühlhäusler |editor2-first=Peter |editor3-last=Tyron |editor3-first=Darrell T. }}</ref>
+According to Lee-Smith, the Tangwang language uses mostly Mandarin words and morphemes with Dongxiang grammar. Besides Dongxiang loanwords, Tangwang also has a substantial number of Arabic and Persian loanwords.<ref name=lee/>
+
+Like Standard Mandarin, Tangwang is a tonal language, but grammatical particles, which are typically borrowed from Mandarin, but are used in the way Dongxiang morphemes would be used in Dongxiang, don't carry tones.<ref name=lee/>
+
+For example, while the Mandarin plural suffix ''-men'' (们) has only very restricted usage (it can be used with personal pronouns and some nouns related to people),  Tangwang uses it, in the form ''-m'', universally, the way Dongxiang would use its plural suffix ''-la''. Mandarin pronoun ''ni'' (你) can be used in Tangwang as a possessive suffix (meaning "your").
+Unlike Mandarin, but like Dongxiang, Tangwang has grammatical cases as well (however only four of them, unlike eight in Dongxiang).<ref name=lee/>
+
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+{{refbegin}}
+* {{citation
+|last=Bao
+|first=Saren (包萨仁)
+|year=2006
+|script-title=zh:从语言接触看东乡语和临夏话的语序变化
+|trans-title=Sequential Changes in Dongxiang Language and Linxia Dialects from the View of Linguistic Contact
+|journal=Journal of the Second Northwest University for Nationalities (Social Science Edition)
+|issue=2
+|issn=1008-2883
+|url=http://www.ilib2.com/A-ISSN~1008-2883(2006)02-0035-05.html
+|archive-url=https://web.archive.org/web/20110713010344/http://www.ilib2.com/A-ISSN~1008-2883(2006)02-0035-05.html
+|archive-date=2011-07-13
+}}
+* {{citation
+|last=Cheng
+|first=Joyce
+|date=2013-05-10
+|title=Dongxiang – people of the northwest
+|website=GBTIMES
+|url=http://gbtimes.com/life/dongxiang-people-northwest
+|archive-url=https://web.archive.org/web/20160428013606/http://gbtimes.com/life/dongxiang-people-northwest
+|archive-date=2016-04-28
+}}
+* {{citation
+|last=Field
+|first=Kenneth Lynn
+|year=1997
+|title=A grammatical overview of Santa Mongolian
+|series=PhD dissertation
+|publisher=University of California, Santa Barbara
+|url=http://altaica.ru/LIBRARY/Field_Santa.pdf
+}}
+* {{citation
+|author=People's Daily
+|date=2012-08-08
+|script-title=zh:Chinese Ethnic Groups：东乡族（Dōngxiāng zú ）The Dongxiang ethnic minority
+|url=http://cn.hujiang.com/new/p411605
+|access-date=2016-02-12
+}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* {{citation
+|last=Baker
+|first=Craig
+|date=April 2000
+|title=The Dongxiang Language and People
+|url=http://journal.acs-cam.org.uk/data/archive/2013/201302-article4.pdf
+|access-date=2016-02-12
+|url-status=dead
+}}
+* {{citation
+|last=Chuluu
+|first=Üjiyediin (Chaolu Wu)
+|date=November 1994
+|title=Introduction, Grammar, and Sample Sentences for Dongxiang
+|publisher=University of Pennsylvania
+|location=Philadelphia, PA
+|series=SINO-PLATONIC 
+|url=http://www.sino-platonic.org/complete/spp055_dongxiang_language.pdf
+}}
+* {{citation
+|last1=Jorigt
+|first1=G.
+|last2=Stuart
+|first2=Kevin
+|year=1998
+|title=Problems Concerning Mongolian Case
+|journal=Central Asiatic Journal
+|volume=42
+|issue=1
+|publisher=Harrassowitz Verlag
+|pages=110–122
+|jstor=41928140
+}}
+* {{citation
+|last=Kim
+|first=Stephen S.
+|chapter=Santa
+|pages=346–363
+|year=2003
+|title=The Mongolic Languages
+|editor-last=Janhunen
+|editor-first=Juha
+|series=Routledge Language Family Series
+|isbn=978-0-203-98791-9
+}}
+* {{citation
+|last=Ma
+|first=Guozhong (马国忠)
+|year=2001
+|script-title=zh:东乡语汉语词典
+|trans-title=Dongxiang-Chinese Dictionary
+|publisher=Gansu Nationalities Publishing House (甘肃民族出版社)
+|location=Lanzhou
+|isbn=978-7-5421-0767-1
+}}
+* {{citation
+|last1=Wei
+|first1=Li Xue
+|title=Population and Culture of the Mongols, Tu, Baoan, Dongxiang, and Yugu in Gansu
+|last2=Stuart
+|first2=Kevin
+|year=1989
+|journal=Mongolian Studies
+|volume=12
+|issue=The Owen Lattimore Memorial Issue
+|publisher=Mongolia Society
+|pages=71–93
+|jstor=43194234
+}}
+{{refend}}
+
+==External links==
+* [http://userpage.fu-berlin.de/~corff/im/Sprache/Dongxiang.html The Dongxiang Mongols and Their Language]
+* [https://www.youtube.com/watch?v=E7hJFFXWf0I An example of the Dongxiang language being spoken]
+
+{{Languages of China}}
+{{Mongolic languages}}
+
+[[Category:Agglutinative languages]]
+[[Category:Languages of China]]
+[[Category:Southern Mongolic languages]]
+[[Category:Dongxiang people]]
+[[Category:Subject–object–verb languages]]

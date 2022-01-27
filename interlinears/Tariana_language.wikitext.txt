@@ -1,0 +1,923 @@
+{{short description|Maipurean language of Brazil}}
+{{cleanup lang|date=June 2021}}
+{{Infobox language
+|name=Tariana
+|states=[[Brazil]], formerly [[Colombia]]
+|region=Upper and Middle [[Vaupés River]] in [[Amazonas (Brazilian state)|Amazonas]]
+|ethnicity=[[Tariana people]]: 1,910 in Brazil (2002), 330 in Colombia (2007)<ref name=e18/>
+|speakers=100
+|date=1996
+|ref=e18
+|familycolor=American
+|fam1=[[Maipurean languages|Arawakan]]
+|fam2=Northern 
+|fam3=[[Upper Amazon Arawakan|Upper Amazon]]
+|fam4=Eastern Nawiki
+|iso3=tae
+|glotto=tari1256
+|glottorefname=Tariana
+|notice=IPA
+}}
+
+'''Tariana''' (also '''Tariano''') is an [[endangered language|endangered]] [[Maipurean]] (also known as Arawak) language spoken along the [[Vaupés River]] in [[Amazonas State, Brazil|Amazonas]], [[Brazil]] by approximately 100 people. Another approximately 1,500 people in the upper and middle [[Vaupés River]] area identify themselves as ethnic Tariana but do not speak the language fluently.<ref>{{Cite web|url=http://brasil.antropos.org.uk/ethnic-profiles/%20profiles-t/167-268-tariano.html.|title=Tariana – Taliaseri|last=Phillips|first=David J|website=brasil.antropos.org.uk|language=pt-pt|access-date=2017-12-07}}</ref>
+
+The Indigenous people of the Vaupés region, including the [[Tariana people|Tariana]] and East [[Tucano people|Tucano]] peoples, are [[Exogamy|linguistically exogamous]]; they consider fellow speakers of their languages blood relatives. In this region, languages—like tribal identity—are passed down through [[patrilineality|patrilineal]] descent, and as such are kept strictly separate from one another, with minimal [[lexical borrowing]] occurring among them. The Indigenous people of this region traditionally spoke between three and ten other languages, including their mother's and father's tongues—which were usually different due to the widespread cultural practice of [[Exogamy|linguistic exogamy]]—and [[Spanish language|Spanish]] and/or [[Portuguese language|Portuguese]].
+
+Speakers of Tariana have been switching to the unrelated [[Tucano language]] (of the [[Tucanoan]] family), which became a [[lingua franca]] in the Vaupés region in the late 19th century. Arriving in the region in the 1920s, Salesian missionaries promoted the exclusive use of Tucano among Indians in an effort to convert them. Economic concerns have also led fathers to increasingly leave their families to work for non-Amerindian Brazilians, which has undermined the patrilineal father-child interaction through which Tariana was traditionally acquired. In 1999, efforts were made to teach Tariana as a second language in the secondary school in Iauaretê.  Regular classes in Tariana have been offered at the school since 2003.<ref name=Grammar>Aikhenvald, Alexandra (2003). ''A Grammar of Tariana''. Cambridge University Press.</ref>{{rp|6–9}}
+
+Research on Tariana, including a grammar book and a Tariana-Portuguese dictionary, has been done by [[Alexandra Aikhenvald]] from the [[La Trobe University]], a specialist on the [[Arawak languages|Arawak language family]].
+
+==Phonology==
+Tariana has a relatively large phoneme inventory, compared to other Vaupés languages such as [[Baniwa of Içana|Baniwa]] and Tucano. It has a rare set of phonotactic restrictions that determine whether phonemes can occur initially or medially and in which types of morphemes. The phoneme {{IPA|[tʃ]}}, for example, can occur initially in roots but not in affixes or enclitics.
+
+Bolded letters indicate the [[orthography]] used by Alexandra Aikhenvald in her ''Grammar of Tariana''. [[International Phonetic Alphabet|IPA]] transcription is indicated if it differs from the standard orthography.
+
+===Vowels===
+Tariana has 6 vowels, all of which may occur nasalized, except for {{IPA|[ɨ]}}, or long, except for {{IPA|[ɨ]}} and {{IPA|[ɵ]}}.
+{| class="wikitable IPA" border="1"
+|-
+!
+!  colspan="3" | [[Vowel length|Short]]
+!  colspan="3" | [[Nasal vowel|Nasalized]]
+!  colspan="3" | [[Vowel length|Long]]
+|-
+! 
+! <small>[[Front vowel|Front]]</small>
+! <small>[[Central vowel|Central]]</small>
+! <small>[[Back vowel|Back]]</small>
+! <small>[[Front vowel|Front]]</small>
+! <small>[[Central vowel|Central]]</small>
+! <small>[[Back vowel|Back]]</small>
+! <small>[[Front vowel|Front]]</small>
+! <small>[[Central vowel|Central]]</small>
+! <small>[[Back vowel|Back]]</small>
+|-
+! '''[[Close vowel|Close]]'''
+| align=center | '''i'''
+| align=center | '''ɨ'''
+| align=center | '''u'''
+| align=center | '''ĩ'''
+|
+| align=center | '''ũ'''
+| align=center | '''i:'''
+|
+| align=center | '''u:'''
+|-
+! '''[[Close-mid vowel|Close-mid]]'''
+| align=center | '''e'''
+| align=center | '''o''' [ɵ] 
+| 
+| align=center | '''ẽ'''
+| align=center | '''õ''' [ɵ̃]
+| 
+| align=center | '''e:'''
+|
+| 
+|-
+! '''[[Open vowel|Open]]'''
+| 
+|  
+| align=center | '''a'''
+|
+|
+| align=center | '''ã'''
+|
+|
+| align=center | '''a:'''
+|}
+<br>
+'''Phonotactic Restrictions on the Occurrence of Vowels'''
+{| class="wikitable"
+|-
+! Phoneme
+! Root-Initial
+! Affix-Initial
+! Enclitic-Initial
+! Root-Medial
+! Affix-Medial
+! Enclitic-Medial
+! Root-Final
+! Affix- or Enclitic-Final
+|-
+! i
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|-
+! e
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|-
+! ɨ<sup>1</sup>
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |+
+|-
+! o
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |+
+| align=center |+
+| align=center |+ one enclitic
+|-
+! u
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|-
+! a
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|-
+! i:
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |-
+|-
+! e:
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |-
+|-
+! u:
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+|-
+! a:
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+|-
+! ĩ
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+|-
+! ẽ
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+|-
+! õ<sup>2</sup>
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+|-
+! ũ
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center |-
+|-
+! ã
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+|-
+|}
+<sup>1</sup>''ɨ'' occurs only in the [[augmentative]] enclitic ''-pɨ'' and in the [[onomatopoeic]] ''ɨhmeni'' "moan". It also occasionally appears as an allophone of ''i'' in the following words: ''marawati''→''marawatɨ'' "a type of snuff", ''hitísi''→''hitɨsi'' "tear", and ''-pití''→''pitɨ'' "chase away, kick". Its occurrence in Tariana has been ascribed to the influence of [[Tucano language|Tucano]].<ref name=Grammar/>{{rp|32–33}}<br>
+<sup>2</sup>''õ'' occurs only in the following words: ''tõkẽ'' "firefly", ''siwirikõrena'' "tapiriri, Tapirira guianensis", ''nuitõ'' "daughter! ([[vocative]])", and -tõreta "roll into a thin roll, like a cigarette". It also occurs word-initially in place names of Tucano origin (e.g. Õrõreana).<ref name=Grammar/>{{rp|33}}
+
+===Consonants===
+Tariana has 24 consonants:
+
+{| class="wikitable IPA"
+|-
+! colspan="2"|
+! [[Bilabial consonant|Bilabial]]
+! [[Dental consonant|Dental]]
+! [[Alveolo-palatal consonant|Alveo-palatal]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan=4 | [[Stop consonant|Stops]]
+! <small>[[Voiceless consonant|Voiceless]]</small>
+| align=center | '''p'''
+| align=center | '''t''' [t̺]
+|
+|
+| align=center | '''k'''
+|
+|-
+! <small>[[Aspiration (phonetics)|Voiceless Aspirated]]</small>
+| align=center | '''ph''' [pʰ]
+| align=center | '''th''' [t̺ʰ]
+|
+|
+| align=center | '''kh''' [kʰ]
+|
+|-
+! <small>[[Voiced consonant|Voiced]]</small>
+| align=center | '''b'''
+| align=center | '''d''' [d̺]
+|
+|
+| align=center | '''(g)'''
+|
+|-
+! <small>[[Aspiration (phonetics)|Voiced Aspirated]]</small>
+|
+| align=center | '''dh''' [d̺ʰ]
+|
+|
+|
+|
+|-
+! colspan="2" | [[Fricative consonant|Fricative]]
+| 
+| 
+| align=center | '''s''' [s̺]
+|
+| 
+| align=center | '''h'''
+|-
+! colspan="2" | [[Affricate consonant|Affricate]]
+|
+|
+| 
+| align=center | '''tʃ''' [t͡ɕ]
+| 
+|
+|-
+! rowspan=2 | [[Nasal stop|Nasal]]
+! <small>[[Voiceless consonant|Plain]]</small>
+| align=center | '''m'''
+| align=center | '''n''' [n̺]
+| 
+| align=center | '''ñ''' [ɲ]
+|
+|
+|-
+! <small>[[Aspiration (phonetics)|Aspirated]]</small>
+| align=center | '''mh''' [mʰ]
+| align=center | '''nh''' [n̺ʰ]
+| 
+| align=center | '''ñh''' [ɲʰ]
+| 
+|
+|-
+! colspan="2" | [[Flap consonant|Flap]]
+| 
+|
+| align=center | '''r''' [ɾ̺]
+| 
+|
+|
+|-
+! colspan="2" | [[Lateral consonant|Lateral]]
+| 
+|
+| align=center | '''l''' [l̺]
+| 
+|
+|
+|-
+! rowspan=2 | [[Semi-vowel]]
+! <small>[[Voiceless consonant|Plain]]</small>
+| align=center | '''w'''
+|
+| 
+| align=center | '''y''' [j]
+|
+|
+|-
+! <small>[[Aspiration (phonetics)|Aspirated]]</small>
+| align=center | '''wh''' [wʰ]
+|
+|
+|
+|
+|
+|}
+The phoneme {{IPA|/ɡ/}} occurs only in loanwords from Portuguese (e.g. the names ''Graciliano'', ''Gabriel''). A tendency to insert a glottal stop {{IPA|/ʔ/}} after word-final {{IPA|/a/}} has been noted among younger speakers. That has been ascribed to the influence of [[Tucano language|Tucano]].<br>
+<br>
+'''Phonotactic Restrictions on the Occurrence of Consonants'''
+{| class="wikitable"
+|-
+! Phoneme
+! Root-Initial
+! Affix-Initial
+! Enclitic-Initial
+! Root-Medial
+! Affix-Medial
+! Enclitic-Medial
+! Comments
+|-
+! p
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |-
+| align=center |-
+|
+|-
+! ph
+| align=center |+
+| align=center |+
+| align=center |-
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! b
+| align=center |+
+| align=center |-
+| align=center |+
+| align=center |(+) only noun roots
+| align=center |-
+| align=center |-
+| align=center | mostly in loans
+|-
+! t
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! th
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! d
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! dh
+| align=center |(+) one root
+| align=center |-
+| align=center |(+) two enclitics
+| align=center |-
+| align=center |-
+| align=center |-
+| align=center | occurs word-initially as a result of h-[[Metathesis (linguistics)|metathesis]]
+|-
+! k
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! kh
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |-
+| align=center |-
+|
+|-
+! s
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! tʃ
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+|
+|-
+! h
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |restricted
+| align=center |-
+| align=center |-
+|
+|-
+! m
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |-
+|
+|-
+! mh
+| align=center |+
+| align=center |(+)
+| align=center |(+) two enclitics
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center | often as a result of h-[[Metathesis (linguistics)|metathesis]]
+|-
+! n
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! nh
+| align=center |+
+| align=center |-
+| align=center |+
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center | often as a result of h-[[Metathesis (linguistics)|metathesis]]
+|-
+! ñ
+| align=center |+
+| align=center |-
+| align=center |(+) enclitic
+| align=center |+
+| align=center |-
+| align=center |+ one enclitic
+|
+|-
+! ñh
+| align=center |+ (two roots)
+| align=center |-
+| align=center |-
+| align=center |+ one root
+| align=center |-
+| align=center |-
+| align=center | only in three roots
+|-
+! r
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center | does not occur in word-initial position
+|-
+! l
+| align=center |+
+| align=center |-
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |-
+|
+|-
+! w
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+! wh
+| align=center |+
+| align=center |+
+| align=center |-
+| align=center |+
+| align=center |-
+| align=center |(+) one enclitic
+| align=center | result of h-[[Metathesis (linguistics)|metathesis]] word-initially and word-medially
+|-
+! y
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+| align=center |+
+|
+|-
+|}
+(+) indicates phoneme appears in a limited set of items.<ref name=Grammar/>{{rp|31–32}}
+
+===Syllable structure===
+Syllables in Tariana follow the pattern (C₁)V(C₂). Phoneme occurrence is also restricted by morphological context, with certain phonemes only in certain positions (initially and medially) or within certain types of morphemes. Vowels may be elided or reduced in rapid speech, rendering some syllables VC or CVC. For example, the word ''di-dusitá'' 'he goes back' becomes [didusta] in rapid speech, with the elision of the [[tone (linguistics)|pre-tonic]] ''i''. Similarly, the word ''di-pitá-kà-sità'' 'he bathes' becomes [dipitakaəsta], with the pre-tonic ''i'' being elided and a {{IPA|[ə]}} inserted at the clitic boundary before the ''s''. (Hyphens mark affixes; equals signs mark clitics.)<ref name=Grammar/>{{rp|34–35}}
+
+===Stress===
+Tariana has both primary and secondary [[stress (linguistics)|stress]].  Tariana is a [[pitch-accent]] language, with stressed syllables indicated by a higher pitch and a greater intensity in pronunciation. Unstressed syllables are undifferentiated from non-stressed syllables except in their intensity. Long vowels are always stressed as well as most nasal vowels. Otherwise, primary stress may fall on the last three syllables. Penultimate stress in most common in [[morpheme|monomorphemic]] words (e.g. ''dúpu'' "a lizard"), but antepenultimate (e.g. ''képira'' "bird") and final stress (e.g. ''yapuratú'' "long flute used at ritual offering") also occurs. All roots have underlying stress. Prefixes are unstressed, and suffixes may be stressed or unstressed. Suffixes with underlying stress generally cause penultimate stress when they are attached to a root (e.g. ''máwi'' "hook"→''mawípi'' "blowgun").<ref name=Grammar/>{{rp|37–39}}
+
+===Phonological processes===
+'''Vowel Reduction'''<br>
+In rapid speech, ''e'', ''i'', and ''a'' are [[vowel reduction|reduced]] to ''ə'' in pre- and post-tonic syllables. Pre-tonic reduction occurs in the third syllable before the primary stress (e.g. ''yarumakási→yərumamkási'' "clothing") as well as in word-initial syllables (e.g. ''yakóreka→yəkóreka'' "door"). Vowels are also reduced in syllables preceding a secondary stress (e.g. ''makhà→məkhà'' "recent past non-visual"). Post-tonic reduction affects word-final syllables (e.g. ''yásene→yásenə'' "the Tucano").<ref name=Grammar/>{{rp|39}}<br>
+<br>
+'''H-Metathesis'''<br>
+H-[[Metathesis (linguistics)|metathesis]] occurs if an h-initial root or suffix follows a prefix or a root, respectively.  The process follows one of three patterns:
+* CV- + ''h''VX → C''h''VX → CʰVX, if C is a stop, nasal, or bilabial glide.
+{{interlinear|indent=3|glossing=no abbr
+|di- + -híma {{=}} dhi-ima
+|3sngnf {} hear {} {he hears}|}}
+If there are multiple CV syllables preceding the h-initial root or suffix if the C is a stop, nasal, or bilabial glide, the h metathesizes to the first of them.
+{{interlinear|indent=3|glossing=no abbr
+|ñamá + -hípa {{=}} ñhamá-ipa
+|two {} {numeral classifier: human} {} {two humans}|}}
+* V₁- + ''h''V₂X → ''h''V₁V₂X (→''h''V₂X if V₁-V₂)
+{{interlinear|indent=3|glossing=no abbr
+|i- + -hípa {{=}} {hi-ipa → hípa}
+|2pl {} grab {} {you pl. grab}|}}
+* CV + V''wh''V → C''h''V''w''V → CʰV''w'', when C is a stop, nasal, or bilabial glide.
+{{interlinear|indent=3|glossing=no abbr
+|pá + -iwhi {{=}} phéwi
+|one {} {classifier: thin particle-like things} {} {one thin particle-like thing}|}}
+
+[[Vowel coalescence]] occurs, with the ''a''+''i'' resulting in an ''e'', but that occurs only in the case of h-metathesis and not elsewhere.<ref name=Grammar/>{{rp|46–47}}
+
+==Morphology==
+Tariana is a [[polysynthetic language]], with both [[head-marking language|head-marking]] and [[dependent-marking language|dependent-marking]] elements. Verbs are differentiated by those that take prefixes: active transitive and intransitive, and those that do not: stative verbs and verbs that describe physical states. Nouns divide into those that can be possessed/prefixed and those that are prefixless. Adjectives in Tariana share a number of features with Nouns and Verbs -  the majority of affixes used are the same as those of nouns.<ref name="Grammar" /><sup>:66-83</sup> The -O suffix has generally been lost in Tariana, while the -nuku [[dependent-marking]] suffix has been gained. In any non-subject function, this suffix may be added to a noun. There is evidence that dependent markers have been gained via local diffusion, as all [[Tucanoan languages|Tucano language]] in the area utilize dependent markers. Overall, dependent markers seem to have been gained in response to the loss of half of the [[head-marking language|head-markings]].<ref>{{cite book|last1=Dixon|first1=R.M.W.|title=The rise and fall of languages|date=1997|publisher=Cambridge University Press|location=Cambridge|isbn=978-0521626545|pages=122–123|edition=Reprint., transferred to digital print.}}</ref>
+
+===Nouns===
+Nominal words may include up to 16 structural positions, which are defined as follows (hyphens mark affixes; equals signs marks clitics):<ref name=Grammar/>{{rp|83}}
+* [[Possessive case|Possessive]], [[negation (linguistics)|negative]] ''ma-'', or [[relative clause|relative]] ''ka-'' prefix
+* [[Root (linguistics)|Root]]
+* Gender-sensitive [[derivation (linguistics)|derivational]] suffix
+* Derivational [[classifier (linguistics)|classifier]] suffix
+* [[Plural]] marker
+* [[Pejorative]] ''-yana'' (plural ''-pe'')
+* Approximative ''-iha'' 'more or less'
+* [[Diminutive]] ''-tuki'' (plural ''-tupe'') or [[augmentative]] ''-pasi'' (plural ''-pe'')
+* [[Grammatical tense|Tense]] (past or future)
+* [[locality (linguistics)|Extralocality]] ''-wya'' and restrictivity ''-mia'' 'just, only'
+* [[Oblique case]] ''-ne'' '[[comitative]]-[[instrumental case|instrumental]]'
+* Oblique case ''-se'' '[[locative case|locative]]'
+* Contrastive ''-se''
+* Coordinative ''-misini, -sini'' 'also'
+* [[Focus (linguistics)|Focused]] A/S ''-ne/-nhe''
+* [[topic (linguistics)|Topical]] non-subject ''-nuku''
+The following noun phrase includes 13 of the possible structural positions. Brackets indicate syntactic structure.
+
+{{interlinear|indent=3|glossing=no abbr
+|<nowiki>[[[</nowiki>nu-phe-ru-ma-pe-yana-pe-tupe-miki]-ite]-ne-se-misini-nuku]
+|1sg-older.sibling-FEM-CL:FEM-PL-PEJ-PL-DIM:PL-PAST:PL-CL:PERSON-COMIT-CONTR-TOO:PART.CONTR-TOP.NON.A/S
+|"with this very person belonging to my bad little older sisters, too"<ref name=Grammar/>{{rp|84}}}}
+
+====Pronouns====
+Tariana uses an Arawak's common set of prefixes to mark A/Sₐ on its verbs and pronominal possession on possessed nouns. These prefixes also form independent personal pronouns when combined with the emphatic particle -ha-.<ref name="Grammar" /><sup>:122</sup>
+{| class="wikitable"
+! rowspan="2" |
+! colspan="2" |Singular
+! colspan="2" |Plural
+|-
+!Prefix
+!Pronoun
+!Prefix
+!Pronoun
+|-
+!First Person
+|nu-
+|nuha
+|wa-
+|w(a)ha
+|-
+!Second Person
+|pi-
+|piha, phia
+|i-
+|iha
+|-
+!Third Person (nf)
+|di-
+|diha, dihya
+| rowspan="2" |na-
+| rowspan="2" |n(a)ha
+|-
+!Third Person (f)
+|du-
+|diha, duhua
+|-
+!Impersonal
+|pa-
+|p(a)ha
+| -
+| -
+|-
+!Indefinite*
+|i-
+| -
+| -
+| -
+|}
+'''The Indefinite Prefix'''
+
+This is a nominal morphological aspect shared with Baniwa of Içana and Baré, two of Tariana’s Arawak sisters. This prefix uniquely permits these languages in signifying that the subject/possessor is unknown. However, the prefix appears primarily linked to nouns in Tariana, wherein the others it applies to both nouns and verbs.
+
+===Verbs===
+Predicates in Tariana may include up to nine affixes, which are defined as follows:<ref name=Grammar/>{{rp|253–254}}
+* Cross-referencing prefixes or negative ''ma-'' or relative ''ka-''
+* [[Root (linguistics)|Root]]
+* Thematic syllable
+* [[Causative]] ''-i, -ita''
+* [[negation (linguistics)|Negative]] ''-(ka)de''
+* [[reciprocal (grammar)|Reciprocal]] ''-kaka''
+* ''-ina'' 'almost, a little bit'
+* Topic-advancing ''-ni'', or [[passive voice|passive]] ''-kana'', or purposive non-visual ''-hyu'' or purposive visual ''-karu''
+* Verbal classifiers
+* [[Benefactive]] ''-pena''
+Suffixes may be followed by a number of enclitics, as follows (note that ! marks a floating clitic):
+* Intentional, 'be about to' ''-kasu''
+* [[Mood (linguistics)|Mood]] ([[imperative mood|imperative]], [[declarative sentence|declarative]], frustrative ''-tha'', [[conditional mood|conditional]] ''-buhta'', apprehensive -''da/-nhia'', [[interrogative]] fused with [[evidentiality]] and tense)
+* [[Aspect (linguistics)|Aspect]] 'zone' I, includes habitual prescribed ''-hyuna'' 'what you do and what you ought to do'', customary ''-kape'', habitual repetitive ''-nipe'', anterior ''-nhi''
+* a/b ! Evidentiality and tense (e.g. ''-mha-na'' 'non-visual-remote.past')
+* Epistemic ''-da'' 'doubt', ''-pada'' 'isn't it true that'
+* Aktionsart (manner or extent of associated action, e.g. 'split open', 'step on and feel pain', 'away')
+* ! Degree: augmentative 'indeed', diminutive, approximative, excessive
+* Aspect 'zone' II, includes prolonged/ongoing ''-daka'' 'yet, still', [[perfective]] ''-sita'' 'already accomplished', ! repetitive ''-pita, -ta'' 'once again', ! completive ''-niki'' 'totally, completely'
+* [[Switch reference]] and clause-chaining
+* ! Emphatic enclitics ''a/ya, wani''; evidence ''sõ''
+The following verb construction includes 11 of the 20 possible structural positions:
+
+{{interlinear|indent=3|glossing=no abbr
+|ma-thuka-i-ta-kade-kaka-tha-pidana-bosa-niki-ka
+|NEG-break-CAUS1-CAUS2-NEG-REC-FRUST-REMP.P.INFR-SPLIT.OPEN-COML-SUB
+|"While (they) apparently did not break each other by splitting open totally in vain..."}}
+
+===Tense-evidentiality===
+Tariana has a system of obligatory [[grammatical tense|tense]]-[[evidentiality]] markers, which take the form of [[clitic]]s on verbs. There are four tenses: present, recent past, remote past, and future. In affirmative clauses, non-future tenses fuse with evidentials to designate visual, non-visual, inferred generic, inferred specific, and reported information. The inferred specific evidential is a recent innovation and has been ascribed to the influence of Tucano. It is a combination of the anterior aspect marker ''-nhi'' and non-present visual evidentials ''-ka'' and ''-na'' producing ''-nhika'' for recent past inferred specific and ''-nhina'' for remote past inferred specific.<ref name=Grammar/>{{rp|287–289}}<br>
+<br>
+{| class="wikitable"
+|-
+! 
+! Present
+! Recent Past
+! Remote Past
+|-
+! Visual
+| align=center | ''-naka''
+| align=center | ''-ka''
+| align=center | ''-na''
+|-
+! Non-Visual
+| align=center | ''-mha''
+| align=center | ''-mahka''
+| align=center | ''-mhana''
+|-
+! Inferred Generic
+| align=center | -
+| align=center | ''-sika''
+| align=center | ''-sina''
+|-
+! Inferred Specific
+| align=center | -
+| align=center | ''-nihka''
+| align=center | ''-nhina''
+|-
+! Reported
+| align=center | ''-pida''
+| align=center | ''-pidaka''
+| align=center | ''-pidana''
+|-
+|}
+In [[interrogative]] clauses, the same three non-future tenses fuse with evidentials to designate visual, non-visual, and inferred information.  Evidentiality, in interrogative clauses, indicates the speaker's assumptions about the addressee's source of information. Use of an inferred evidential, for example, implies that the speaker assumes the addressee not to have direct access to evidence on the subject at hand.<ref name=Grammar/>{{rp|311–317}} Note the remote past non-visual is rarely used except as a "conventionalized conversation sustainer," an interrogative repetition of a storyteller's predicates to indicate listeners' attention.<ref name=Grammar/>{{rp|319}}
+
+'''Tense-Evidentiality in Interrogative Clauses'''
+{| class="wikitable"
+|-
+! 
+! Present
+! Recent Past
+! Remote Past
+|-
+! Visual
+| align=center | ''-nha''
+| align=center | ''-nihka''
+| align=center | ''-nhina''
+|-
+! Non-Visual
+| align=center | ''-tha,-mha''
+| align=center | ''-mha''
+| align=center | (''-mhana'')
+|-
+! Inferred
+| align=center | -
+| align=center | ''-sika''
+| align=center | ''-sina''
+|-
+|}
+There are two future tense markers in Tariana, neither of which indicates evidentiality. The definite future marker ''-de'' is used only in the first person, but the indefinite future marker ''-mahde'' may be used for any person.<ref name=Grammar/>{{rp|320–321}}
+
+==Syntax==
+
+===Word order===
+[[Word order]] in Tariana is "pragmatically based" and is generally free except for a handful of specific contexts:<ref name=Grammar/>{{rp|561}}
+* [[Complement (linguistics)|Complements]] of the positive [[copula (linguistics)|copula]] ''alia'' must precede the copula.
+* Interrogative words typically occur clause-initially.
+* Clause and sentence connectors occur sentence-initially.
+* Predicates occur clause-finally in dependent clauses.
+* Subjects of imperative and apprehensive constructions follow the verb.
+* In "double S-clauses," "References to emotional states and contain an inalienably possessed body part," the body part must precede the predicate.<ref name=Grammar/>{{rp|568–571}}
+
+{{interlinear|indent=3|glossing=no abbr
+|du-kare du-wara-ka
+|3sgf-heart 3sgnf-diminish-REC.P.VIS
+|"She is worried ({{lit}} she diminished with respect to her heart)."<ref name=Grammar/>{{rp|500}}}}
+
+===Noun phrases===
+Noun phrases comprise a head, which may be a noun, adjective, demonstrative, specifier article, quantifier, or deictic as well as one or more modifiers. Modifiers must agree with the head in animacy and in number if the head is animate. Specifier articles, demonstratives, and the quantifier ''kanapada'' 'how many, how much; this many, this much' always precede the head. All other modifiers may either precede or follow the head. In general, modifiers precede a definite or topical noun and follow an "indefinite, non-specific, or otherwise inconsequential nominal referent."<ref name=Grammar/>{{rp|476}}
+
+{{interlinear|indent=3|glossing=no abbr
+|ne ma:tʃite hema-yana di-swa-nhi-na
+|then bad+NCL:ANIM tapir-PEJ 3sgnf-lie-ANT-REM.P.VIS
+|"Then a naughty (well-known) bad tapir was lying (there)."}}
+
+Even though the noun 'tapir' has just been introduced, the fact that the adjective 'bad' precedes it indicates that it is well-known or topical.
+
+===Case===
+Tariana is essentially a [[nominative–accusative language|nominative–accusative]] [[morphosyntactic alignment]]. Its core cases are broadly analyzed as falling into the categories of A/S 'subject' and non-A/S 'non-subject'.
+
+A stands for a transitive subject, S for a subject of an intransitive verb, S for a subject of an active intransitive verb, Sₒfor a subject of a stative intransitive verb, and S for a subject of an intransitive verb with a non-canonically marked argument.
+
+[[Case marking]] is determined by the discourse status of the noun ([[topic (linguistics)|topical]], [[topic (linguistics)|non-topical]], [[focus (linguistics)|focused]]).
+{| class="wikitable" border="1"
+|-
+! Grammatical Function
+! Discourse Status
+! Nouns
+! Pronouns
+|-
+| align="center" | A, Sₐ, Sₒ
+| align="center" | [[topic (linguistics)|non-topical/topical]]
+| align="center" | -Ø
+| align="center" | -Ø
+|-
+| align="center" | A, Sₐ, Sₒ
+| align="center" | [[focus (linguistics)|focused]]
+| align="center" colspan=2 | ''-nhe/-ne''
+|-
+| align="center" rowspan=2 | Non-A/Sₐ/Sₒ and also Sᵢₒ
+| align="center" | [[topic (linguistics)|non-topical]]
+| align="center" | -Ø
+| align="center" | ''-na''
+|-
+| align="center" | [[topic (linguistics)|topical]]
+| align="center" colspan=2 | ''-nuku/-naku''
+|}
+
+A noun in the A/S /Sₒcategory is considered focused if it meets one of the following conditions:
+* A/Sₐ/S is a key participant in contrastive focus to another argument.
+* A/Sₐ/Sₒis presented as a main participant in the discourse or is a newly introduced but already-known participant important for future discourse.
+* A/Sₐ/Sₒmust be disambiguated.<ref name=Grammar/>{{rp|141–142}}
+A noun in the non-A/Sₐ/Sₒis considered topical if it meets one of the following conditions:
+* The noun is or will be the topic of the narrative.
+* The noun is referential, specific, and/or definite.
+* The noun is important but not necessarily contrastive.<ref name=Grammar/>{{rp|145}}
+
+Tariana has two [[oblique case|oblique]] cases: the [[locative case|locational]] and the [[instrumental case|instrumental]]/[[comitative case|comitative]], but only nouns may be marked for both. Pronouns are marked only for the instrumental/comitative.
+{| class="wikitable" border="1"
+|-
+! [[Grammatical case|Case]]
+! Nouns
+! Pronouns
+|-
+! [[Locative case|Locative]]
+| align=center | ''-se''
+| align=center | (none)
+|-
+! [[Instrumental case|Instrumental]]/[[Comitative case|Comitative]]
+| align=center | ''-ne''
+| align=center | ''-ine''
+|-
+|}
+
+Because oblique cases are inherently non-A/Sₐ/S, they may be [[double-marked]] if they serve as the topic of the sentence as well. The following example is from a hunter's narrative about improving his house, with 'house' being the topic of the narrative. In this sentence, 'house' is marked both as a topical non-A/Sₐ/S and locational.
+
+{{interlinear|indent=3|glossing=no abbr
+|nu-ñha nu-dia nhua nu-ya-dapana-se-nuku
+|1sg-eat 1sg-return I 1sg-POSS-CL:HAB-LOC-TOP.NON.A/S
+|"I'll go back to eat (my catch) in my very house.'<ref name=Grammar/>{{rp|159}}}}
+
+===Switch reference===
+{| class="wikitable" border="1"
+|-
+!
+! Same Subject
+! Different Subject
+|-
+! Prior
+| ''-hyume/-yuhme'' 'after; because'
+| align=center | ''-kayami'' 'after'
+|-
+! Simultaneous
+| align=center | ''-nikhe, -kakari'' 'during, while'
+| ''-nisawa, -kanada, -nipua, -piyana, -kariku, -kapua'' 'while, during'
+|-
+|}
+Tariana [[switch reference]] [[enclitics]] indicate whether the action of a dependent clause is simultaneous with or prior to the action of the main clause and whether the subject of the dependent clause is the same or different from the subject of the main clause. In rapid speech, the enclitic ''-hyume'' often becomes ''-yuhme'' or even ''-yume''. ''-Kayami'' can be ponounced ''-kañami'' or ''-kayãmi''. Note that there are several different enclitics for simultaneous action categories.  Each enclitic has various restrictions as to which other clitics and affixes it can combine with, and where it falls within a clause or sentence.<ref name=Grammar/>{{rp|516–525}}
+
+{{interlinear|indent=3|glossing=no abbr
+|[inari na-matʃika-hyume] nhemathani-pidana
+|mucura.rat 3pl-be bad+TH-AFTER:SS 3pl+shout-REM.P.REP
+|"After they transformed into mucura rats, they shouted."}}
+
+Brackets indicate syntactic structure.<ref name=Grammar/>{{rp|516}}
+
+==Notes==
+{{Reflist|2}}
+
+==External links==
+* [http://www.abc.net.au/radionational/programs/linguafranca/telling-the-truth-in-tariana/3406840 Telling the Truth in Tariana] - ABC radio documentary transcript
+* [http://www.aikhenvaldlinguistics.com/tariana-language The Tariana Language of Northwestern Brazil]  (at Dr. Aikhenvald's site) - dictionary and other documents are available for download
+
+{{Arawakan languages}}
+
+[[Category:Arawakan languages]]
+[[Category:Indigenous languages of Western Amazonia]]
+[[Category:Languages of Brazil]]
+[[Category:Languages of Colombia]]
+[[Category:Endangered indigenous languages of the Americas]]

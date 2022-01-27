@@ -1,0 +1,392 @@
+{{Short description|Ancient language of Hittite Empire}}
+<!--this article has used the BC/AD convention since 25 February 2004-->
+{{Infobox language
+| name             = Luwian
+| states           = [[Hittite Empire]], [[Arzawa]], [[Neo-Hittite kingdoms]]
+| region           = [[Anatolia]], Northern [[Syria]]
+| extinct          = around [[6th century BC|600 BC]]
+| familycolor      = Indo-European
+| fam2             = [[Anatolian languages|Anatolian]]
+| fam3             = Luwic
+| lc1              = xlu
+| ld1              = [[Cuneiform Luwian]]
+| lc2              = hlu
+| ld2              = [[Hieroglyphic Luwian]]
+| linglist         = xlu
+| lingname         = [[Cuneiform Luwian]]
+| linglist2        = hlu
+| lingname2        = [[Hieroglyphic Luwian]]
+| glotto           = luvi1235
+| glottorefname    = Luvian
+| image            = Hieroglyph Luwian BOS.jpg
+| imagecaption     = [[Luwian hieroglyph]] BOS (cow)
+| imagesize        = 75px
+| map              = Anatolisch.png
+| mapcaption       = Distribution of the Luwian language (in German)
+| notice           = IPA
+|script=[[Cuneiform]]<br>[[Anatolian hieroglyphs]] 
+}}
+[[File:Luwian Language de.svg|thumb|Distribution according to another source (also in German)]]
+
+'''Luwian''' ({{IPAc-en|ˈ|l|uː|w|i|ə|n}}), sometimes known as '''Luvian''' or '''Luish''', is an ancient language, or group of languages, within the [[Anatolian languages|Anatolian branch]] of the [[Indo-European languages|Indo-European]] [[language family]]. The [[ethnonym]] Luwian comes from ''Luwiya'' (also spelled ''Luwia'' or ''Luvia'') – the name of the region in which the [[Luwians]] lived. Luwiya is attested, for example, in the [[Hittite laws]].<ref>Law number 21 of the [[Code of the Nesilim]] says, "If anyone steal a slave of a Luwian from the land of Luwia, and lead him here to the land of Hatti, and his master discover him, he shall take his slave only."</ref>
+
+The two varieties of Proto-Luwian or Luwian (in the narrow sense of these names) are known after the scripts in which they were written: [[#Cuneiform Luwian|Cuneiform Luwian]] (''CLuwian'') and [[Hieroglyphic Luwian]] (''HLuwian''). There is no consensus as to whether these were a single language or two closely related languages.
+
+==Classification==
+{{main|Anatolian languages}}
+Several other Anatolian languages – particularly [[Carian]], [[Lycian language|Lycian]], [[Lydian language|Lydian]] and [[Milyan]] (also known as Lycian B or Lycian II) – are now usually identified as related to Luwian – and as mutually connected more closely than other constituents of the Anatolian branch.<ref name="bauer9">Anna Bauer, 2014, ''Morphosyntax of the Noun Phrase in Hieroglyphic Luwian'', Leiden, Brill NV, pp. 9–10.</ref> This suggests that these languages formed a sub-branch within Anatolian. Some linguists follow [[Craig Melchert]] in referring to this broader group as Luwic,<ref>{{harvnb|Melchert|2012|p=14}}</ref> whereas others refer to the "Luwian group" (and, in that sense, "Luwian" may mean several distinct languages). Likewise, Proto-Luwian may mean the common ancestor of the whole group, or just the ancestor of Luwian (normally, under [[Tree model|tree-naming conventions]], were the branch to be called Luwic, its ancestor should be known as Proto-Luwic or Common Luwic; in practice, such names are seldom used). Luwic or Luwian (in the broad sense of the term), is one of three major sub-branches of Anatolian, alongside [[Hittite language|Hittite]] and [[Palaic]].<ref name="bauer9"/>
+
+As Luwian has numerous archaisms, it is regarded as important to the study of [[Indo-European languages]] (''IE'') in general, the other Anatolian languages, and the [[Bronze Age]] Aegean. These archaisms are often regarded as supporting the view that the [[Proto-Indo-European language]] (''PIE'') had three distinct sets of [[velar consonant]]s:<ref>Melchert 1987</ref> [[velars|plain velars]], [[palatovelars]], and [[labialized velar consonant|labiovelars]]. For Melchert, PIE ''{{PIE|*ḱ }}'' → Luwian ''z'' (probably {{IPA|[ts]}}); ''{{PIE|*k}}'' → ''k''; and ''{{PIE|*kʷ}}'' → ''ku'' (probably {{IPA|[kʷ]}}). Luwian has also been enlisted for its verb ''kalut(t)i(ya)-'', which means "make the rounds of" and is probably derived from ''*kalutta/i-'' "circle".<ref>Melchert 1993, p. 99</ref> It has been argued<ref>Melchert, p.c., reported in Rieken 2012, p. 5</ref> that this derives from a proto-Anatolian word for "[[wheel]]", which in turn would have derived from the common word for "wheel" found in all other Indo-European families. The wheel was invented in the 5th millennium BC and, if ''kaluti'' does derive from it, then the Anatolian branch left PIE after its invention (so validating the [[Kurgan hypothesis]] as applicable to Anatolian). However, ''kaluti'' need not imply a wheel and so need not have been derived from a PIE word with that meaning. The IE words for a wheel may well have arisen in those other IE languages after the Anatolian split.
+
+==Geographic and chronological distribution==
+Luwian was among the languages spoken during the 2nd and 1st millennia BC by groups in central and western Anatolia and northern [[Syro-Hittite states|Syria]].<ref>Melchert 2003.</ref> The earliest Luwian texts in cuneiform transmission are attested in connection with the Kingdom of [[Kizzuwatna]] in southeastern Anatolia, as well as a number of locations in central Anatolia. Beginning in the 14th century BC, Luwian-speakers came to constitute the majority in the Hittite capital [[Hattusa]].<ref>Yakubovich 2010:307</ref> It appears that by the time of the collapse of the [[Hittite Empire]] ''ca''. 1180 BC, the Hittite king and royal family were fully bilingual in Luwian. Long after the extinction of the [[Hittite language]], Luwian continued to be spoken in the [[Neo-Hittite]] states of [[Syria]], such as [[Milid]] and [[Carchemish]], as well as in the central Anatolian kingdom of [[Tabal]] that flourished in the 8th century BC.<ref>Melchert 2003, pp. 147-51</ref>
+
+A number of scholars in the past attempted to argue for the Luwian homeland in western Anatolia. According to [[James Mellaart]], the earliest Indo-Europeans in northwest Anatolia were the horse-riders who came to this region from the north and founded [[:tr:Demircihöyük|Demircihöyük]] ([[Eskisehir Province]]) in [[Phrygia]] c. 3000 BC. They were allegedly ancestors of the [[Luwians]] who inhabited [[Troy]] II, and spread widely in the Anatolian peninsula.<ref>Christoph Bachhuber (2013), [https://www.academia.edu/2242825/ ''James Mellaart and the Luwians: A Culture-(Pre)history''],</ref> He cited the distribution of a new type of wheel-made pottery, Red Slip Wares, as some of the best evidence for his theory. According to Mellaart, the proto-Luwian migrations to Anatolia came in several distinct waves over many centuries. The recent detailed review of Mellaart's claims suggests that his ethnolinguistic conclusions cannot be substantiated on archaeological grounds.<ref>Christoph Bachhuber (2013), [https://www.academia.edu/2242825/ ''James Mellaart and the Luwians: A Culture-(Pre)history''], p. 284</ref>
+
+Other arguments were advanced for the extensive Luwian presence in western Anatolia in the late second millennium BC. In the [[Old Hittite]] version of the [[Hittite laws|Hittite Code]], some, if not all, of the Luwian-speaking areas were called ''Luwiya''. Widmer (2007) has argued that the [[Mycenaean Greek|Mycenaean]] term ''ru-wa-ni-jo'', attested in [[Linear B]], refers to the same area.<ref>P. Widmer, "Mykenisch ru-wa-ni-jo 'Luwier'", ''Kadmos'' 45 (2007), 82-84, cited on [http://www.palaeolexicon.com/default.aspx?static=12&wid=346749 Palaeolexicon]: Word study tool of ancient languages,</ref> but the stem *''Luwan-'' was recently shown to be non-existent.<ref>Gander 2015: 474</ref> In a corrupt late copy of the [[Hittite laws|Hittite Code]] the geographical term ''Luwiya'' is replaced with ''[[Arzawa]]''<ref>See, e.g., Bryce in Melchert 2003:29–31; Singer 2005:435; Hawkins 2009:74.</ref> a western Anatolian kingdom corresponding roughly with Mira and the Seha River Land.<ref>Although Yakubovich (2010) has argued that a chain of scribal error and revision led to this substitution, and that ''Luwiya'' was not coterminous with [[Arzawa]], but was further east in the area of the [[Konya Plain]]; see Yakubovich 2010:107–17.</ref> Therefore, several scholars shared the view that Luwian was spoken—to varying degrees—across a large portion of western Anatolia, including [[Troy]] (''[[Wilusa]]''), the Seha River Land (''Sēḫa'' ~ ''Sēḫariya'', i.e., the Greek [[Gediz River|Hermos]] river and [[Bakırçay|Kaikos]] valley), and the [[Mira-Kuwaliya]] kingdom with its core being the [[Maeander]] valley.<ref>Watkins 1994; id. 1995:144–51; Starke 1997; Melchert 2003; for the geography Hawkins 1998.</ref> In a number of recent publications, however, the geographic identity between Luwiya and [[Arzawa]] was rejected or doubted.<ref>Hawkins 2013, p. 5, Gander 2017, p. 263, Matessi 2017, fn. 35</ref> In the post-Hittite era, the region of Arzawa came to be known as [[Lydia]] (Assyrian ''Luddu'', Greek Λυδία), where the [[Lydian language]] was in use. The name ''Lydia'' has been derived from the name ''Luwiya'' (Lydian *''lūda''- < *''luw(i)da''- < ''luwiya''-, with regular Lydian sound change ''y'' > ''d'').<ref>Beekes 2003; cf. Melchert 2008b:154.</ref> The [[Lydian language]], however, cannot be regarded as the direct descendant of Luwian and probably does not even belong to the Luwic group (see [[Anatolian languages]]). Therefore, none of the arguments in favour of the Luwian linguistic dominance in Western Asia Minor can be regarded as compelling, although the issue continues to be debated.
+
+==Script and dialects==
+[[Image:Museum of Anatolian Civilizations057 kopie1.jpg|thumb|right|200px|Stele of Sultanhan, [[Museum of Anatolian Civilizations]], Ankara.]]
+Luwian was split into many dialects, which were written in two different writing systems. One of these was the ''Cuneiform Luwian'' which used the form of [[Akkadian language|Old Babylonian]] [[cuneiform]] that had been adapted for the [[Hittite language]]. The other was ''Hieroglyphic Luwian'', which was written in a unique native hieroglyphic script. The differences between the dialects are minor, but they affect vocabulary, style, and grammar. The different orthographies of the two writing systems may also hide some differences.
+
+===Cuneiform Luwian===
+[[Cuneiform]] Luwian is the corpus of Luwian texts attested in the tablet archives of [[Hattusa]]; it is essentially the same [[Cuneiform script|cuneiform writing system]] used in [[Hittite language|Hittite]].<ref>Luwian cuneiform texts are collected in Starke 1985</ref> In Laroche's ''Catalog of Hittite Texts,'' the corpus of Hittite cuneiform texts with Luwian insertions runs from CTH 757–773, mostly comprising rituals.<ref>Laroche 1971, pp. 35-9</ref> Cuneiform Luwian texts are written in several dialects, of which the most easily identifiable are [[Kizzuwatna]] Luwian, [[Ištanuwa]] Luwian, and Empire Luwian.<ref>Yakubovich 2010, pp. 68-73</ref> The last dialect represents the [[vernacular]] of [[Hattusa]]n scribes of the 14th–13th centuries BC and is mainly attested through ''[[Glossenkeil]]'' words in Hittite texts.
+
+Compared to cuneiform Hittite, [[logogram]]s (signs with a set symbolic value) are rare. Instead, most writing is done with the syllabic characters, where a single symbol stands for a vowel, or a consonant-vowel pair (either VC or CV). A striking feature is the consistent use of 'full-writing' to indicate long vowels, even at the beginning of words. In this system a long vowel is indicated by writing it twice. For example, ''īdi'' "he goes" is written ''i-i-ti'' rather than ''i-ti'', and ''ānda'' "in" is written ''a-an-ta'' rather than ''an-ta''.
+
+===Hieroglyphic Luwian===
+{{Main|Hieroglyphic Luwian}}
+
+[[File:Vase à piédestal néo-hittite, exposition Royaumes oubliés, Louvre 2019.jpg|thumb|right|Basalt bowl with engraved inscription in Luwian hieroglyphics found in [[Babylon]] in the 1880s and now in the collection of the [[British Museum]]<ref>[https://www.britishmuseum.org/collection/object/W_1888-0801-1 British Museum collection]</ref>]]
+Hieroglyphic Luwian is the corpus of Luwian texts written in a native script, known as [[Anatolian hieroglyphs]].<ref>{{Citation|last=Melchert|first=H. Craig|author-link=Craig Melchert|year=2004|contribution=Luvian|title=The Cambridge Encyclopedia of the World's Ancient Languages|editor-first=Roger D.|editor-last=Woodard|location=Cambridge |publisher=Cambridge University Press|isbn=0-521-56256-2}}</ref><ref>{{Citation|last=Melchert|first=H. Craig|year=1996|contribution=Anatolian Hieroglyphs|title=The World's Writing Systems|editor1-first=Peter T.|editor1-last=Daniels|editor2-first=William|editor2-last=Bright|location=New York and Oxford|publisher=Oxford University Press|isbn=0-19-507993-0|url-access=registration|url=https://archive.org/details/isbn_9780195079937}}</ref> Once thought to be a variety of the [[Hittite language]], "Hieroglyphic Hittite" was formerly used to refer to the language of the same inscriptions, but this term is now obsolete. The dialect of Luwian hieroglyphic inscriptions appears to be either Empire Luwian or its descendant, Iron Age Luwian.
+
+The first report of a monumental inscription dates to 1850, when an inhabitant of [[Nevşehir]] reported the relief at [[Fraktin]]. In 1870, antiquarian travellers in [[Aleppo]] found another inscription built into the south wall of the [[Al-Qaiqan Mosque]]. In 1884, Polish scholar {{Interlanguage link multi|Marian Sokołowski|pl|3=Marian Sokołowski (historyk)}} discovered an inscription near [[Köylütolu]], in western [[Turkey]]. The largest known inscription was excavated in 1970 in Yalburt, northwest of [[Konya]]. Luwian hieroglyphic texts contain a limited number of lexical borrowings from [[Hittite language|Hittite]], [[Akkadian language|Akkadian]], and [[Northwest Semitic]]; the lexical borrowings from Greek are limited to proper nouns, although common nouns borrowed in the opposite direction do exist.<ref>Yakubovich 2010, pp. 140-57</ref>
+
+== Phonology ==
+The reconstruction of the Luwian phoneme inventory is based mainly on the written texts and comparisons with the known development of other Indo-European languages. Two series of stops can be identified, transliterated as geminate in the cuneiform script. These fortis and lenis stops may have been distinguished by either voicing or gemination. The contrast was lost initially and finally, suggesting that any voicing only appeared intervocalically.<ref>{{Cite journal|last=Kloekhorst|first=Alwin|title=The Proto-Anatolian consonant system: An argument in favor of the Indo-Hittite hypothesis?|url=https://www.academia.edu/9794036|language=en}}</ref>
+
+The following table provides a minimal consonant inventory, as can be reconstructed from the script. The existence of other consonants, which were not differentiated in writing, is possible.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="2"|
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Uvular consonant|Uvular]]
+|-
+! rowspan="2" | [[Nasal consonant|Nasal]]
+!<small>fortis</small>
+| *{{IPA|m}}: {{angbr|mm}}
+| *{{IPA|n}}: {{angbr|nn}}
+|
+|
+|
+|-
+!<small>lenis</small>
+| *m {{angbr|m}}
+| *n {{angbr|n}}
+|
+|
+|
+|-
+! rowspan="2" |[[Plosive consonant|Plosive]]
+!<small>fortis</small>
+| *{{IPA|p}} {{angbr|pp}}
+| *{{IPA|t}} {{angbr|tt}}
+|
+| *{{IPA|k}} {{angbr|kk}}
+|
+|-
+! <small>lenis</small>
+| *{{IPA|b}} {{angbr|p}}
+| *{{IPA|d}} {{angbr|t}}
+|
+| *{{IPA|ɡ}} {{angbr|k}}
+|
+|-
+! rowspan="2" |[[Fricative consonant|Fricative]]
+! <small>fortis</small>
+|
+| *{{IPA|s}} {{angbr|šš}}
+|
+| colspan="2" | *{{IPA|x~χ}} {{angbr|ḫḫ}}
+|-
+! <small>lenis</small>
+|
+| *z {{angbr|š}}
+|
+| colspan="2" | *{{IPA|ɣ~ʁ}} {{angbr|ḫ}}
+|-
+! rowspan="2" |[[Affricate consonant|Affricate]]
+!<small>fortis</small>
+|
+| *{{IPA|t͡s}} {{angbr|zz}}
+|
+|
+|
+|-
+!<small>lenis</small>
+|
+| *{{IPA|d͡z}} {{angbr|z}}
+|
+|
+|
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+|
+| *{{IPA|r}}
+|
+|
+|
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+| *{{IPA|w}}
+| *{{IPA|l}}
+| *{{IPA|j}}
+|
+|
+|}
+
+There are only three [[vowel]]s, ''a'', ''i'', and ''u'', which could be short or long. Vowel length is not stable but changes with the stress and word position. For example, ''annan'' occurs alone as an [[adverb]] as ''ānnan'' ('underneath') but as a [[preposition]], it becomes ''annān pātanza'' ('under the feet').
+
+The characters that are transliterated as ''-h-'' and ''-hh-'' have often been interpreted as pharyngeal fricatives {{IPA|[ħ]}} and {{IPA|[ʕ]}}. However, they may have instead been uvular {{IPA|[χ]}} and {{IPA|[ʁ]}} or [[velar fricative (disambiguation)|velar fricative]]s {{IPA|[x]}} and {{IPA|[ɣ]}}. In loans to Ugaritic, these sounds are transcribed with <ḫ> and <ġ>, while in Egyptian they are transcribed with {{large|𓐍}} ''ḫ'' and {{large|𓎼}} ''g.''<ref>{{Cite journal|last=Simon|first=Zsolt|title=Der phonetische Wert der luwischen Laryngale|url=https://www.academia.edu/1815147|language=en}}</ref> As both of these languages had pharyngeal consonants, the Luwian sounds are unlikely to have been pharyngeal.
+
+In transcriptions of Luwian cuneiform, ''š'' is traditionally distinguished from ''s'', since they were originally distinct signs for two different sounds, but in Luwian, both signs probably represented the same ''s'' sound.
+
+A noteworthy phonological development in Luwian is [[rhotacism (sound change)|rhotacism]]; in some cases, ''d'', ''l'', and ''n'' becomes ''r''. For example, *''īdi'' ('he gets') becomes ''īri'' and ''wala-'' '(die') becomes ''wara-''. Additionally, a ''d'' in word final position can be dropped, and an ''s'' may be added between two [[dental consonant]]s and so ''*ad-tuwari'' becomes ''aztuwari'' ('you all eat') (''ds'' and ''z'' are phonetically identical).
+
+== Morphology ==
+=== Nouns ===
+There were two [[grammatical gender]]s: animate and inanimate/neuter. There are two [[grammatical number]]s: singular and plural. Some animate nouns could also take a collective plural in addition to the regular numerical plural.
+
+Luwian had six [[grammatical case|cases]]:
+# [[nominative]]
+# [[genitive]]
+# [[dative]]/[[locative]]
+# [[accusative]]
+# [[ablative]]/[[Instrumental case|instrumental]]
+# [[vocative]].
+
+The vocative case occurs rarely in surviving texts and only in the singular.
+
+{| class="wikitable"
+! Case
+! Singular
+! Plural
+|-
+! Nominative animate
+| -s || rowspan="2" | -anzi, -inzi
+|-
+! Accusative animate
+| -n, -an
+|-
+! Nominative/accusative inanimate
+| -Ø, -n || -a, -aya
+|-
+! Genitive
+| -s, -si || –
+|-
+! Dative/locative
+| -i, -iya, -a || -anza
+|-
+! Ablative/instrumental
+| colspan="2" | -ati
+|}
+
+In the animate gender, an ''-i-'' is inserted between the stem and the case ending. In hieroglyphic Luwian, the particle ''-sa/-za'' is added to the nominative/accusative inanimate case ending. In the genitive case, cuneiform and hieroglyphic Luwian differ sharply from each other. In cuneiform Luwian the possessive suffix ''-assa'' is used for the genitive singular and ''-assanz-'' is used for the genitive plural. In hieroglyphic Luwian, as in Hittite, the classical Indo-European suffixes ''-as'' for the genitive singular and ''-an'' for the plural are used.<ref>Melchert 2003 p. 171</ref> The special form of possessive adjectives with a plural possessor is restricted to Kizzuwatna Luwian and probably represents a [[calque]] from [[Hurrian language|Hurrian]].<ref>Yakubovich 2010, pp. 45-53</ref>
+
+Because of the prevalence of ''-assa'' place names and words scattered around all sides of the [[Aegean Sea]], the possessive suffix was sometimes considered evidence of a shared non-Indo-European language or an Aegean [[Sprachbund]] preceding the arrivals of Luwians and [[Greeks]]. It is, however, possible to account for the Luwian possessive construction as a result of case attraction in the Indo-European noun phrase.<ref>Yakubovich 2008</ref>
+
+=== Adjective ===
+{| class="wikitable"
+! Case
+! Singular
+! Plural
+|-
+! Nominative animate
+| -asis || rowspan="2" | -asinzi
+|-
+! Accusative animate
+| -asin
+|-
+! Nominative/accusative inanimate
+| -asanza || -asa
+|-
+! Dative/locative
+| -asan || -asanza
+|-
+! Ablative/instrumental
+| colspan="2" | -asati
+|}
+
+Adjectives agree with nouns in number and gender. Forms for the nominative and the accusative differ only in the animate gender and even then, only in the singular. For the sake of clarity, the table includes only the endings beginning with ''-a'', but endings can also begin with an ''-i''. The forms are largely derived from the forms of the nominal declension, with an ''-as-'' before the case ending that would be expected for nouns.
+
+=== Pronouns ===
+In addition to [[personal pronouns]] typical of Anatolian languages, Luwian also has [[demonstrative pronouns]], the which are formed from ''apa-'' and ''za-/zi-''. The case endings are similar those of Hittite, but not all cases are attested for personal pronouns. In the third person, the demonstrative pronoun ''apa-'' occurs instead of the personal pronoun.
+
+{| class="wikitable" 
+|-
+! rowspan="2" colspan="2" | 
+! colspan="2" | Personal pronouns
+! Possessive pronouns
+|-
+! <small>independent</small>
+! <small>enclitic</small>
+! <small>independent</small>
+|-
+! rowspan="2" | 1st person
+! singular
+| amu, mu || -mu, -mi || ama-
+|-
+! plural
+| anzas, anza || -anza || anza-
+|-
+! rowspan="2" | 2nd person
+! singular
+| tu, ti || -tu, -ti || tuwa-
+|-
+! plural
+| unzas, unza || -manza || unza-
+|-
+! rowspan="2" | 3rd person
+! singular
+| (apa-) || -as, -ata, -an, -du || apasa-
+|-
+! plural
+| (apa-) || -ata, -manza || apasa-
+|}
+
+Possessive pronouns and demonstrative pronouns in ''apa-'' are declined as adjectives. All known forms of the personal pronouns are given, but it is not clear how their meanings differed or how they changed for different cases.
+
+In addition to the forms given in the table, Luwian also had a demonstrative pronoun formed from the stem ''za-/zi-'', but not all cases are known, and also a [[relative pronoun]], which was declined regularly: ''kwis'' (nominative singular animate), ''kwin'' (accusative singular animate), ''kwinzi'' (nominative/accusative plural animate), ''kwati'' (ablative/instrumental singular), ''kwanza'' (dative/locative plural), ''kwaya'' (nominative/accusative plural inanimate). Some [[indefinite pronoun]]s whose meanings are not entirely clear are also transmitted.
+
+=== Verbs ===
+Like for many other Indo-European languages, two numbers (singular and plural) and three [[grammatical person|persons]] are distinguished. There are two [[grammatical mood|mood]]s: [[indicative]] and [[imperative mood|imperative]] but no [[subjunctive]]. Only the active [[Voice (grammar)|voice]] has been attested, but the existence of a [[mediopassive voice|mediopassive]] is assumed. There are two [[grammatical tense|tense]]s: the [[present tense|present]], which is used to express future events as well, and the [[preterite]].
+
+{| class="wikitable"
+! colspan="2" | 
+! Present
+! Preterite
+! Imperative
+|-
+! rowspan="2" | 1st person
+! singular
+| -wi || -ha || –
+|-
+! plural
+| -mina || -hana || –
+|-
+! rowspan="2" | 2nd person
+! singular
+| -si, -tisa || -ta || Ø
+|-
+! plural
+| -tani || -tan || -tanu
+|-
+! rowspan="2" | 3rd person
+! singular
+| -ti(r), -i, -ia || -ta(r) || -tu(r)
+|-
+! plural
+| -nti || -nta || -ntu
+|}
+
+The conjugation is very similar to the Hittite [[Hittite language#Verbs|''ḫḫi'' conjugation]].
+
+A single [[participle]] can be formed with the suffix ''-a(i)mma''. It has a passive sense for transitive verbs and a stative sense for intransitive verbs. The [[infinitive]] ends in ''-una''.
+
+== Syntax ==
+The usual word order is [[subject-object-verb]], but words can be moved to the front of the sentence for stress or to start a clause. [[Relative clause]]s are normally before the [[antecedent (grammar)|antecedent]], but they sometimes follow the antecedent. Dependent words and adjectives are normally before their [[head (linguistics)|head]] word. Enclitic particles are often attached to the first word or conjunction.
+
+Various [[conjunction (grammar)|conjunction]]s with temporal or conditional meaning are used to link clauses. There is no coordinating conjunction, but main clauses can be coordinated with the [[enclitic]] ''-ha'', which is attached to the first word of the following clause. In narratives, clauses are linked by using the prosecutive conjunctions: ''a-'' before the first word of the following clause means 'and then', and ''pā'', can be an independent conjunction at the start of a clause and the enclitic ''-pa'' indicates contrast or a change of theme.
+
+The following example sentence demonstrates several common features of Luwian: a final verb, the particle chain headed by the conjunction ''a-'', the quotative clitic ''-wa'', and the [[preverb]] ''sarra'' adding directionality to the main verb ''awiha''.
+
+<!-- a-wa/i *a-pi-i-na |REGIO-ni-ia-ti (FULGUR)pi-ha-mi-sa SUPER+ra/i-a |PES-wa/i-ha -->
+{{interlinear|indent=3
+|top= {{huge|{{Script/Anatolian Hieroglyphs|𔗷𔗬𔑈𔓯𔐤𔗷𔖶𔔆𔗐𔓱𔑣𔓢𔑈𔓷𔖻𔗔𔑏𔖱𔗷𔖶𔑦𔗬𔓯𔓷}}}}
+|a{{=}}wa api-n wattaniy-ati pihammi-s sarra awi-ha
+|and{{=}}QUOT DEM-ABL land-ABL.PL glorified-NOM over come-1.SG
+|"And I came over glorified from those lands." (Karkamiš A11b+c, line 14)<ref>{{Cite book|last=Payne|first=Annick|url=https://books.google.com/books?id=x_F71ge6-EIC&q=pi-ha-mi-sa&pg=PA117|title=Hieroglyphic Luwian: An Introduction with Original Texts|date=2010|publisher=Otto Harrassowitz Verlag|isbn=978-3-447-06109-4|language=en}}</ref><ref>{{Cite web|url=https://www.ediana.gwi.uni-muenchen.de/corpus.php#1|title=EDIANA - Corpus|website=www.ediana.gwi.uni-muenchen.de|access-date=2020-02-14}}</ref>
+}}
+
+== Vocabulary and texts ==
+The known Luwian vocabulary consists mostly of words inherited from [[Proto-Indo-European]]. [[Loan word]]s for various technical and religious concepts derive mainly from [[Hurrian language|Hurrian]], and were often subsequently passed on through Luwian to Hittite.
+
+The surviving corpus of Luwian texts consists principally of cuneiform ritual texts from the 16th and 15th centuries BC and monumental inscriptions in hieroglyphs. There are also some letters and economic documents. The majority of the hieroglyphic inscriptions derive from the 12th to 7th centuries BC, after the fall of the [[Hittite empire]].
+
+Another source of Luwian are the hieroglyphic seals which date from the 16th to the 7th centuries BC. Seals from the time of the Hittite empire are often [[digraphic]], written in both cuneiform and hieroglyphics. However, the seals nearly always are limited to [[logogram]]s. The absence of the syllabic symbols from the seals makes it impossible to determine the pronunciation of names and titles that appear on them, or even to make a certain attribution of the text to a specific language.
+
+==History of research==
+After the decipherment of Hittite, cuneiform Luwian was recognised as a separate, but related language by [[Emil Forrer]] in 1919. Further progress in the understanding of the language came after the Second World War, with the publication and analysis of a larger number of texts. Important work in this period was produced by [[Bernhard Rosenkranz]], [[Heinrich Otten]] and [[Emmanuel Laroche]]. An important advance came in 1985 with the reorganisation of the whole text-corpus by [[Frank Starke]].
+
+The decipherment and classification of Hieroglyphic Luwian was much more difficult. In the 1920s, there were a number of failed attempts. In the 1930s some individual logograms and syllabic signs were correctly identified. At this point the classification of the language was not yet clear and, since it was believed to be a form of Hittite, it was referred to as ''Hieroglyphic Hittite''. After a break in research due to the Second World War, there was breakthrough in 1947 with the discovery and publication of a [[Phoenician language|Phoenician]]-Hieroglyphic Luwian [[Karatepe Bilingual|bilingual text]] by [[Helmuth Theodor Bossert]]. The reading of several syllabic signs was still faulty, however, and as a result it was not realised that the cuneiform and hieroglyphic texts recorded the same language.
+
+In the 1970s, as a result of a fundamental revision of the readings of a large number of hieroglyphs by [[John David Hawkins]], [[Anna Morpurgo Davies]], and [[Günter Neumann (philologist)|Günter Neumann]], it became clear that both cuneiform and hieroglyphic texts recorded the same Luwian language. This revision resulted from a discovery outside the area of Luwian settlement, namely the annotations on [[Urartu|Urartian]] pots, written in the [[Urartian language]] using the hieroglyphic Luwian script. The sign [[File:Hieroglyph luwian za.jpg|100x33px]], which had hitherto been read as ''ī'' was shown to be being used to indicate the sound ''za'', which triggered a chain reaction resulting in an entirely new system of readings. Since that time, research has concentrated on better understanding the relationship between the two different forms of Luwian, in order to gain a clearer understanding of Luwian as a whole.
+
+==Trojan hypothesis==
+Luwian has been deduced as one of the likely candidates for the [[Trojan language|language spoken]] by the [[Troy|Trojans]].<ref>Watkins 1994; Watkins 1995:144–51; Melchert 2003, pp. 265-70 with ref.</ref>
+
+After the 1995 finding of a Luwian biconvex seal at Troy VII, there has been a heated discussion over the language that was spoken in Homeric Troy. Frank Starke of the [[University of Tübingen]] demonstrated that the name of [[Priam]], king of Troy at the time of the [[Trojan War]], is connected to the Luwian compound ''Priimuua'', which means "exceptionally courageous".<ref>{{cite journal | last=Starke | first=Frank | title=Troia im Kontext des historisch-politischen und sprachlichen Umfeldes Kleinasiens im 2. Jahrtausend | journal=Studia Troica | year=1997 | volume=7 | pages=447–87}}</ref> "The certainty is growing that Wilusa/Troy belonged to the greater Luwian-speaking community," but it is not entirely clear whether Luwian was primarily the official language or it was in daily colloquial use.<ref>{{harvnb|Latacz|2004|p=116}}</ref>
+
+==See also==
+*[[Pre-Greek substrate]]
+{{Portal bar|Languages|Asia}}
+
+==Notes==
+{{reflist|3}}
+
+==Sources==
+{{Refbegin}}
+*Beekes, R. S. P. "Luwians and Lydians", ''Kadmos'' 42 (2003): 47–9.
+*Gander, Max. "Asia, Ionia, Maeonia und Luwiya? Bemerkungen zu den neuen Toponymen aus Kom el-Hettan (Theben-West) mit Exkursen zu Westkleinasien in der Spätbronzezeit". ''Klio'' 97/2 (2015): 443-502.
+*Gander, Max "The West: Philology". ''Hittite Landscape and Geography'', M. Weeden and L. Z. Ullmann (eds.). Leiden: Brill, 2017. pp.&nbsp;262–280. 
+*Hawkins, J. D. "Tarkasnawa King of Mira: 'Tarkendemos', Boğazköy Sealings, and Karabel", ''Anatolian Studies'' 48 (1998): 1–31.
+*Hawkins, J. D. "The Arzawa letters in recent perspective", ''British Museum Studies in Ancient Egypt and Sudan'' 14 (2009): 73–83.
+*Hawkins, J. D. "A New Look at the Luwian Language". ''Kadmos'' 52/1 (2013): 1-18.
+*Laroche, Emmanuel. ''Catalogue des textes hittites''. Paris: Klincksieck, 1971.
+*Matessi, A. "The Making of Hittite Imperial Landscapes: Territoriality and Balance of Power in South-Central Anatolia during the Late Bronze Age". ''Journal of Ancient Near Eastern History'', AoP (2017).
+*Melchert H. Craig. "Greek ''mólybdos'' as a loanword from Lydian", in ''Anatolian Interfaces: Hittites, Greeks and their Neighbours'', eds. B. J. Collins et al. Oxford: Oxbow Books, 2008, pp.&nbsp;153–7.
+*Melchert, H. Craig. 'Lycian', in ''The Ancient Languages of Asia Minor'', ed. R. D. Woodard. Cambridge: Cambridge University Press, 2008, pp.&nbsp;46–55, esp. 46.
+*Melchert, H. Craig, ed. ''The Luwians''. Boston: Brill, 2003. {{ISBN|90-04-13009-8}}.
+*Melchert, H. Craig. ''Anatolian Historical Phonology''. Amsterdam: Rodopi, 1994.
+*Melchert, H. Craig. ''Cuneiform Luvian Lexicon''. Chapel Hill: self-published, 1993.
+*Melchert, H. Craig. "PIE velars in Luvian", in ''Studies in memory of [[Warren Cowgill]] (1929–1985): Papers from the Fourth East Coast Indo-European Conference, [[Cornell University]], June 6–9, 1985'', ed. [[Calvert Watkins|C. Watkins]]. [[Berlin]]: Walter de Gruyter, 1987, pp.&nbsp;182–204.
+* {{cite web | first=H. Craig | last=Melchert | title=The Position of Anatolian | url=http://www.linguistics.ucla.edu/people/Melchert/The%20Position%20of%20AnatolianRevised3.pdf | year=2012}}
+*Otten, Heinrich. ''Zur grammatikalischen und lexikalischen Bestimmung des Luvischen''. Berlin: Akademie-Verlag, 1953.
+*Rieken, Elisabeth. "Luwier, Lykier, Lyder—alle vom selben Stamm?", in ''Die Ausbreitung des Indogermanischen: Thesen aus Sprachwissenschaft, Archäologie und Genetik; Akten der Arbeitstagung der Indogermanischen Gesellschaft, Würzburg, 24–26 September 2009'', ed. H. Hettrich & S. Ziegler. [[Wiesbaden]]: Reichert, 2012.
+*Rosenkranz, Bernhard. ''Beiträge zur Erforschung des Luvischen''. Wiesbaden: Harrassowitz, 1952.
+*Sasseville, David. [https://www.academia.edu/42705163/Anatolian_Verbal_Stem_Formation_Luwian_Lycian_and_Lydian Anatolian Verbal Stem Formation]. Leiden / New-York: Brill, 2021.
+*Singer, I. 2005. 'On Luwians and Hittites.' ''Bibliotheca Orientalis'' 62:430–51. (Review article of Melchert 2003).
+*Starke, Frank. 'Troia im Kontext des historisch-politischen und sprachlichen Umfeldes Kleinasiens im 2. Jahrtausend. ''Studia Troica'' 7:446–87.
+*Starke, Frank. ''Die keilschrift-luwischen Texte in Umschrift'' ([[StBoT]] 30, 1985)
+*Starke, Frank. ''Untersuchungen zur Stammbildung des keilschrift-luwischen Nomens'' ([[StBoT]] 30, 1990)
+*Watkins, C. 1995. ''[[How to Kill a Dragon: Aspects of Indo-European Poetics]]''. New York and Oxford.
+*Watkins, C.1994. 'The Language of the Trojans.' In ''Selected Writings'', ed. L. Oliver et al., vol. 2. 700–717. Innsbruck. ='' Troy and the Trojan War. A Symposium held at Bryn Mawr College, October 1984'', ed. M. Mellink, 45–62. Bryn Mawr.
+*Widmer, P. 2006. 'Mykenisch ru-wa-ni-jo, "Luwier".' ''Kadmos'' 45:82–84.
+*Woudhuizen, Fred. ''The Language of the Sea Peoples''. Amsterdam: Najade Pres, 1992.
+*Yakubovich, Ilya. ''[http://www.brill.com/sociolinguistics-luvian-language Sociolinguistics of the Luvian Language]''. Leiden: Brill, 2010
+*Yakubovich, Ilya. "[https://www.academia.edu/517090/The_Origin_of_Luvian_Possessive_Adjectives The Origin of Luwian Possessive Adjectives]". In ''Proceedings of the 19th Annual UCLA Indo-European Conference, Los Angeles, November 3–4, 2007'', ed. K. Jones-Bley et al., Washington: Institute for the Study of Man, 2008.
+* ''Luwian Identities: Culture, Language and Religion between Anatolia and the Aegean''. Brill, 2013. {{ISBN|978-90-04-25279-0}} (Hardback) {{ISBN|978-90-04-25341-4}} (e-Book)
+{{Refend}}
+
+==External links==
+{{Commons category|Luwian language}}
+* {{cite web | title=Digital etymological-philological Dictionary of the Ancient Anatolian Corpus Languages (eDiAna) | url=http://www.ediana.gwi.uni-muenchen.de | publisher=[[Ludwig-Maximilians-Universität München]] | access-date=2017-03-14 | archive-url=https://web.archive.org/web/20170225141334/https://www.ediana.gwi.uni-muenchen.de/ | archive-date=2017-02-25 | url-status=dead }}
+*[http://en.wiktionary.org/wiki/Appendix:Luwian_Swadesh_list Luwian Swadesh list of basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh list appendix])
+*[https://web.archive.org/web/20040202190725/http://pages.sbcglobal.net/zimriel/amc/arzawa.html Arzawa, to the west, throws light on Hittites]
+*[https://web.archive.org/web/20030707052312/http://www.drummingnet.com/alekseev/ Alekseev Manuscript]
+*[https://web.archive.org/web/20120204033540/http://www.ancientscripts.com/luwian.html Hieroglyphic Luwian Phonetic Signs]
+*[http://www.asor.org/HITTITE/CTH725-830.html Catalog of Hittite Texts: texts in other languages]
+*[https://linguistics.ucla.edu/people/Melchert/webpage/gusmaniGS.pdf Genitive Case and Possessive Adjective in Anatolian]
+*[https://linguistics.ucla.edu/people/Melchert/ Melchert's homepage on the UCLA website]
+
+{{Anatolian languages}}
+{{Anatolian peoples}}
+{{Ancient kingdoms in Anatolia}}
+{{Ancient Mesopotamia}}
+{{list of writing systems}}
+
+[[Category:Luwian language| ]]

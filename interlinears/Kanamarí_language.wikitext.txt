@@ -1,0 +1,152 @@
+{{Short description|Katukinan language spoken in Brazil}}
+{{distinguish|Kanamaré language|Panoan Katukína language|Catuquinarú language}}
+{{Expand Portuguese|Língua katukina-kanamari|date=July 2021}}
+{{Infobox language
+  |name= Kanamarí
+  |altname = Katukina-Kanamari
+  |nativename = 
+  |states=[[Brazil]]
+  |region=[[Amazonas (Brazilian state)|Amazonas]]
+  |ethnicity=3,340 (2006–2008)<ref name=e18/>
+  |speakers=1,300
+  |date=2006
+  |ref=e18
+  |familycolor=American
+  |fam1=[[Harákmbut–Katukinan languages|Harákmbut–Katukinan]]
+  |fam2=[[Katukinan languages|Katukinian]]
+  |dia1=Kanamari (Dyapá)
+  |dia2=Katukina
+  |lc1=knm
+  |ld1=Kanamari
+  |lc2=kav
+  |ld2=Katukina
+  |glotto=kana1291
+  |glottorefname=Katukína-Kanamarí
+}}
+
+'''Kanamarí''', or '''Katukina-Kanamari''', is a [[Katukinan languages|Katukinan]] language spoken by about 650 individuals in [[Amazonas (Brazilian state)|Amazonas]], [[Brazil]].  It is considered [[Endangered language|endangered]].
+
+The two principal varieties, Kanamari (Canamarí) and Katukina (Catuquina), are mutually intelligible, and have both been confused with neighboring languages with the same or similar names.<ref>Harald Hammarström (2013) ''Review of the Ethnologue, 16th Ed.''</ref>
+
+Synonyms and dialect names include ''Tshom-djapa, Tsohon-djapa, Wiri-dyapá, Pidá-dyapá, Kutiá-dyapá (Kadiu-diapa, Cutiadapa), Tucun-diapa, Bendiapa, Parawa.''
+
+==Etymology==
+The term ''Katukina'' is derived from the Proto-[[Purus languages|Purus]] term *ka-tukanɨ, meaning ‘speaker of an indigenous language’.<ref>Carvalho, Fernando O. de. 2019. [https://periodicos.unifap.br/index.php/linguasindigenas/article/view/5537/pdf On the etymology of the ethnonym Katukina]. ''Revista Brasileira de Línguas Indígenas'' (Vol. 2, 1) - 2019.</ref> As a result, it is used to refer to a few different unrelated languages belonging to separate language families, including [[Panoan languages|Panoan]] and [[Arawakan languages|Arawakan]]:
+
+*[[:pt:língua katukina (yine)|Katukina]] (Arawakan)
+*[[Panoan Katukína language|Katukína]] (Panoan)
+*[[Catuquinarú language|Catuquinarú]] (unclassified)
+
+==Phonology==
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center"
+! colspan="2" |
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan="2" |[[Plosive]]
+!<small>voiceless</small>
+|{{IPA link|p}}
+|{{IPA link|t}}
+|{{IPA link|tʃ}}
+|{{IPA link|k}}
+|
+|-
+!<small>voiced</small>
+|{{IPA link|b}}
+|{{IPA link|d}}
+|{{IPA link|dʒ}}
+|
+|
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|{{IPA link|ɲ}}
+|
+|
+|-
+! colspan="2" |[[Fricative]]
+|
+|
+|
+|
+|{{IPA link|h}}
+|-
+! colspan="2" |[[Approximant]]
+|
+|{{IPA link|l}}
+|
+|
+|
+|}
+
+An alveolar lateral consonant /l/ may be realized as a retroflex lateral {{IPAblink|ɭ}}. A velar nasal {{IPAblink|ŋ}} sound is often heard when following after nasal vowels. A glottal stop {{IPAblink|ʔ}} can be heard before word-initial vowels. A word-final /k/ may also sound unreleased {{IPAblink|k̚}}.
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+! rowspan=2| 
+! rowspan=2| [[Front vowel|Front]]
+! rowspan=2| [[Central vowel|Central]]
+! colspan="2" |[[Back vowel|Back]]
+|-
+! <small>unrounded</small> !! <small>rounded</small>
+|-
+! [[High vowel|High]]
+|{{IPA link|i}} {{IPA link|iː}}
+|
+|{{IPA link|ɯ}} {{IPA link|ɯː}}
+|{{IPA link|u}} {{IPA link|uː}}
+|-
+![[Low vowel|Low]]
+|
+|{{IPA link|a}} {{IPA link|aː}}
+| colspan="2" |
+|}
+
+/i/ and /u/ may be realized as approximant sounds {{IPAblink|j}} and {{IPAblink|w}}, when preceding another vowel.<ref>{{Cite thesis |title=Fonologia e Gramática Katukina-Kanamari |last=dos Anjos |first=Zoraide |type=Ph.D. Dissertation|publisher=Vrije Universiteit Amsterdam|year=2011|url=https://www.lotpublications.nl/Documents/281_fulltext.pdf|access-date=12 June 2020}}</ref>
+
+==Grammar==
+The syntax of Kanamarí is characterized by [[ergative–absolutive alignment]].<ref>{{cite book |last=Queixalós |first=Francesc |year=2010 |chapter=Grammatical relations in Katukina-Kanamari |editor1=Gildea, Spike |editor2=Queixalós, Francesc |title=Ergativity in Amazonia |pages=235–284}}</ref> The absolutive argument (i.e. the subject of intransitive verbs and the object of transitive verbs) is unmarked for case, and usually appears following the verb phrase.
+
+{{interlinear|indent=2
+|tyuku '''wa:pa'''
+|die dog
+|'The dog died.'}}
+
+{{interlinear|indent=2
+|no-ti '''paiko'''
+|2.SG.GEN-kill grandfather
+|'You killed grandfather.'}}
+
+If the absolutive argument is a pronoun it is represented by its free from.
+
+{{interlinear|indent=2
+|ki:tan '''idi:k'''
+|sleep 2.SG
+|'You slept.'}}
+
+The ergative argument (i.e. the agent of transitive verbs) is marked for genitive case. If the agent is a pronoun, it is represented by a genitive prefix (as in '''''no'''-ti paiko'' 'you killed grandfather' above). If the agent is a full noun, it is linked to the verb with the case marker ''na'', which phonologically attaches to the verb:
+
+{{interlinear|indent=2
+|'''pi:da''' '''na'''&#61;ti paiko
+|jaguar GEN&#61;kill grandfather
+|'The jaguar killed grandfather.'}}
+
+==References==
+{{reflist}}
+*Queixalós, Francesc 2012. The Katukina-Kanamari antipassive. In: Gilles Authier and Katharina Haude (eds). Ergativity, Valency and Voice. Berlin: De Gruyter Mouton. (pp.&nbsp;227–258)
+
+==External links==
+*[https://ids.clld.org/contributions/278 Catuquina] ([[Intercontinental Dictionary Series]])
+
+{{Languages of Brazil}}
+
+{{DEFAULTSORT:Kanamari language}}
+[[Category:Languages of Brazil]]
+[[Category:Katukinan languages]]
+[[Category:Indigenous languages of Western Amazonia]]

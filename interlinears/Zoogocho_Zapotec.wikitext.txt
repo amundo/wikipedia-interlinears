@@ -1,0 +1,663 @@
+{{Infobox language
+|name=Zoogocho Zapotec
+|altname=(San Bartolomé Zoogocho)
+|nativename=''Diža'xon''
+|pronunciation={{IPA-oax|diʒaʔˈʐon|}}
+|state=[[Mexico]]
+|region=Northern [[Oaxaca]]
+|speakers=1,400
+|dateprefix=ca.&nbsp;
+|date=1991
+|ref=e18
+|speakers2=(1,000 in Mexico)<ref name=e18/>
+|familycolor=American
+|fam1=[[Oto-Manguean]]
+|fam2=[[Zapotecan languages|Zapotecan]]
+|fam3=[[Zapotec languages|Zapotec]]
+|fam4=Sierra Norte
+|fam5=Zoogochoan
+|dia1=Zoogocho
+|dia2=Yalina
+|dia3=Tabehua
+|iso3=zpq
+|glotto=zoog1238
+|glottorefname=Zoogocho Zapotec
+}}
+
+'''Zoogocho Zapotec''', or ''Diža'xon,''<ref>Long & Cruz (1999)</ref> is a [[Zapotec language]] of [[Oaxaca]], [[Mexico]].
+
+It is spoken in [[San Bartolomé Zoogocho]], [[Oaxaca]], [[Santa María Yalina]], Tabehua, and [[Oaxaca City]].<ref name=e18/>
+
+As of 2013, about 1,500 "Zoogochenses" live in [[Los Angeles]], [[California]]. Classes are held in the MacArthur Park neighborhood to preserve the Zoogocho Zapotec language.<ref>{{Cite web
+| title = Los Angeles immigrant community pushes to keep Zapotec language alive
+| work = PRI, [[Public Radio International]]
+| access-date = 2013-08-20
+| date = 2013-08-09
+| url = http://www.pri.org/stories/politics-society/los-angeles-immigrant-community-pushes-to-keep-zapotec-language-alive-14648.html
+}}</ref>
+
+The language is also known as Tabehua, Yalina, Zapoteco de San Bartolomé Zoogocho, and Zoogocho.<ref>{{Cite web
+| title = OLAC resources in and about the Zoogocho Zapotec language
+| access-date = 2013-09-17
+| url = http://www.language-archives.org/language/zpq
+}}</ref>
+
+== Phonology ==
+=== Vowels ===
+{| class="wikitable" style=text-align:center
+|-
+! !! [[Front vowel|Front]] 
+![[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+|i
+|(u)
+|-
+![[Mid vowel|Mid]]
+|e
+|o
+|-
+![[Open vowel|Open]]
+| colspan="2" |a
+|}
+There are a total of five vowels in  [[San Bartolomé Zoogocho]] Zapotec.<ref name=":0">{{Cite book|title=A descriptive grammar of San Bartolomé Zoogocho Zapotec|last=Sonnenschein|first=Aaron|publisher=Lincom Europa|year=2005|isbn=9783895868030}}</ref> The /u/ sound is used in loanwords.<ref name=":0" /> Phonation types include: VV, VhV, V'. VV stands for double vowels that produce a creaky voice, vowels which include an h in between them produce a breathy sounds such as in the word yáhà, and vowels such as V' are [[Checked and free vowels|checked vowels]]. <ref name=":0" /> 
+
+=== Tones ===
+Tones include high, mid, low, rising and falling. <ref name=":0" /> Lower tonal qualities are seen more commonly in breathy tones, while [[checked vowels]] have a higher tone quality. <ref name=":0" /> Although it's common for breathy to have a lower tones and checked vowels commonly have higher tones, this is considered a distinct phenomenon and tone can't be predicted based on phonation types. <ref name=":0" />
+
+Example: yáhà'weapon’
+
+=== Stress ===
+In Zoogocho Zapotec, [[Stress (linguistics)|stress]] is most commonly found on the penultimate syllable of a [[Stemming|stem]]. <ref name=":0" /> Stress is not found in words that are made of more than one root, in this situation, the stress(accent) will fall on the second root. <ref name=":0" />
+
+Example: '''''Ni'''ihe 'nixtamal' ; '''Ye'''ten 'the tortilla'<nowiki/>'' 
+
+=== Syllable Structure ===
+(C)CV(V)(C)(C), there are no restrictions on phonation type on the vowels in this type of syllable set up. <ref name=":0" /><br />
+=== Consonants ===
+{| class="wikitable" style=text-align:center
+! colspan="2" |
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Retroflex consonant|Retroflex]]
+![[Velar consonant|Velar]]
+![[Labial-velar consonant|Labio-<br>velar]]
+![[Uvular consonant|Uvular]]
+![[Glottal consonant|Glottal]]
+|- align="center"
+! rowspan="2" |[[Stop consonant|Plosive]]
+!<small>voiceless</small>
+|p
+|t
+|
+|
+|k
+|kʷ
+|
+|ʔ
+|-
+!<small>voiced</small>
+|b
+|d
+|
+|
+|ɡ
+|
+|
+|
+|-
+! rowspan="2" |[[Affricate consonant|Affricate]]
+!<small>voiceless</small>
+|
+|
+|tʃ
+|
+|
+|
+|
+|
+|-
+!<small>voiced</small>
+|
+|
+|dʒ
+|
+|
+|
+|
+|
+|- align="center"
+! rowspan="2" |[[Fricative consonant|Fricative]]
+!<small>voiceless</small>
+|
+|s
+|ʃ
+|ʂ
+|
+|
+|
+|
+|-
+!<small>voiced</small>
+|
+|z
+|ʒ
+|ʐ
+|
+|
+|ʁ
+|
+|- align="center"
+! rowspan="2" |[[Nasal consonant|Nasal]]
+!<small>voiced</small>
+|m
+|n
+|
+|
+|
+|
+|
+|
+|-
+!<small>voiceless</small>
+|
+|n̥
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" |[[Rhotic consonant|Rhotic]]
+|
+|(ɾ)
+|
+|
+|
+|
+|
+|
+|-
+! rowspan="2" |[[Lateral consonant|Lateral]]
+!<small>voiced</small>
+|
+|l
+|
+|
+|
+|
+|
+|
+|-
+!<small>voiceless</small>
+|
+|l̥
+|
+|
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Approximant consonant|Approximant]]
+|
+|
+|j
+|
+|
+|w
+|
+|
+|}
+A few sounds also occur in loanwords from Spanish: /f/, /ɾ/, /r/, /ɲ/, /x/, /rr/[r], /ñ/[ɳ], and /j/ [x]. <ref name=":0" />
+
+== Morphology ==
+
+=== Nominal Morphology ===
+
+Nominal means to be categorized in a group of nouns and adjectives, the morphology occurs in a noun phrase.   
+
+{{interlinear|number=(1)
+| x-migw{{=}}a’
+| POSS-friend{{=}}1SG
+| ‘my friend’}}
+
+{{interlinear|number=(2)
+| x-kuzh lalo
+| POSS-pig lalo
+| ‘Lalo’s pig’}}
+
+{{interlinear|number=(3)
+|top= xtaobe’
+| x-dao{{=}}be’
+| POSS-corn.tassel{{=}}3SG.INF
+| ‘his corn tassel’<ref name=":0" />}}
+
+==== Possession ====
+Possession is indicated by placing the possessor or possessive pronoun after the item possessed (Inherent possession is the items being possessed) which is marked prenominally with prefix x- , the possessed nominal then is developed by a pronominal clitic or noun phrase. <ref name=":0" /> 
+
+==== Pronominal Clitic ====
+Or noun phrase is pronounced like an affix. Clitics play a syntactic role at the phrase level. 
+
+=== Verbal Morphology ===
+No tense in this language. Zoogocho Zapotec relies on 'temporal particles' ''za, ba, na, gxe'', or ''neghe''. 
+
+==== Primary Aspect ====
+Events that are still occurring, occurred, or will occur over a period of time. The '''continuative aspect''' of the examples is ''dx''- .
+
+{{interlinear|number=(13)
+| '''dx-e-ban-e’''' yogo zhaha
+| CONT-FREQ-wake{{=}}3F every day
+| ‘She wakes up every day.’}}
+
+{{interlinear|number= (14)
+| bi '''dx-aog''' zxoana
+| what CONT-eat Juan
+| ‘What is Juan eating?’<ref name=":0" />}}
+
+The '''completive aspect''' is usually marked as ''b-, gw-, gud-,'' or ''g-''. This aspect reflects the completion of the event occurred.
+
+{{interlinear|number=(18)
+| '''b-e-ban{{=}}e’'''
+| COMP-FREQ-wake{{=}}3F
+| ‘She used to wake up.’}}
+
+{{interlinear|number=(19)
+| ga '''gud-ao{{=}}be’''' yet
+| where COMP-eat{{=}}3SG.INF tortilla
+| ‘Where did he eat the tortilla?’<ref name=":0" />}}
+
+The '''potential aspect''' refers to an event that has not yet happened or an event that has not been specified. This aspect is marked by ''gu-'' or ''gw-.''
+
+{{interlinear|number=(22)
+| g'''w-e-ban{{=}}e’'''
+| POT-FREQ-wake{{=}}3F
+| ‘She will wake up.’}}
+
+{{interlinear|number=(23)
+| dx-bez{{=}}a’ '''w-aow''' bidao yeth
+| CONT-hope{{=}}1SG POT-eat child tortilla
+| ‘I hope the kid eats the tortilla.’}}
+
+{{interlinear|number=(24)
+| bate’ '''y-egh{{=}}o’''' nis
+| when POT-drink{{=}}2S water
+| ‘When are you going to drink water?’<ref name=":0" />}}
+
+The '''stative aspect''' is referred to as the prefix ''n-'' or by nothing at all. This aspect has multiple uses, such as, expressing the states and conditions and habitual meaning.
+
+{{interlinear|number=(28)
+| '''m'''-ban{{=}}a’
+| '''STAT'''-live{{=}}1SG
+| ‘I am alive.’}}
+
+{{interlinear|number=(29)
+| kuzh la n-dxe{{=}}be’ ke?
+| pig FOC STAT-carry{{=}}3SG.INF no
+| ‘He’s carrying a pig, right?’}}
+
+{{interlinear|number=(30)
+| nake gud-itgh{{=}}le kate '''n-ak{{=}}le''' bidao{{=}}na’
+| how COMP-play{{=}}2PL when STAT-be{{=}}2PL child{{=}}DET
+| ‘How did you all use to play when you were children?’}}
+
+{{interlinear|number=(31)
+| Maria n-ak-dx{{=}}e’ benhe zxen ka xoan
+| Maria HAB-be-more{{=}}3F person large than Juan
+| ‘Maria is larger than Juan.’<ref name=":0" />}}
+
+{| class="wikitable"
+|+Table 4.1 Conjugation in gw-
+!
+!Conjugation in '''gw-  '''
+|-
+|Potential 
+|gw- 
+|-
+|Completive
+|b-    
+|-
+|Continuative
+|dx-
+|-
+|Stative 
+|n- 
+|}
+
+== Orthography ==
+
+=== Dillawalhall Zapotec Alphabet ===
+a, b, ch, chh, d, e, f, g, i, j, k, l, ll, lh, m, n, nh, o, p, r, rh, s, sh, t, u, w, x, xh, y, z. <ref name=":0" />
+
+=== Vowels ===
+{| class="wikitable mw-collapsible"
+|+
+!A/a, E/e, I/i, O/o
+!A’/a’, E’/e’, I’/i’, O’/o’
+!A’A, a’a, E’E, e’e, I’I, i’i O’O/u’u
+|-
+|Ba: Tumba 
+
+De: ceniza 
+
+Bi: No, negación 
+
+Do: mecate (con u para nuevas generaciones)
+|La’: Oaxaca 
+
+Ye’: enfermedad de la piel 
+
+Li’: aguijón 
+
+Yo’: casa
+|Za’a: elote 
+
+Ze’e: pared 
+
+Zi’i: está pesado
+
+Yo’o: vamos
+|-
+| colspan="3" |
+|}
+<ref name=":0" />
+
+=== Consonants ===
+{| class="wikitable"
+|+
+|B/b
+
+Beb: ceniza
+
+Bid: chinche
+|CH/ch 
+
+chop: dos 
+
+Bach: ya
+|CHH/chh 
+
+Chhak: algo que se está haciendo 
+
+Nhachh: entonces
+
+Chho’: tos
+|D/d 
+
+Da: ven 
+
+De: ceniza 
+
+Déd: lejos 
+
+Dé: hay 
+
+dud
+|-
+|F/f 
+
+Yej fre: floripondio
+|G/g 
+
+Ga: 9 
+
+Bgab: escalera 
+
+Go: camote 
+
+Nhaga’: mi oreja
+|J/j 
+Jed: gallina 
+
+Bej: pozo 
+
+Jia: gallo 
+
+Yetj: caña
+|K/j 
+Ka’: así 
+
+Beko’: perro 
+
+Ki: así 
+
+Nhake’: es 
+
+Nhaka’: soy
+|-
+|L/l 
+
+Lao: lazo de penca de maguey 
+
+Bel: culebra Bél: pescado 
+
+Lí: cierto, verdadero
+|LL/ll 
+
+Lli’: abajo, al sur 
+
+Lla: día 
+
+Bell: tigre 
+
+Yill: cicatriz
+|LH/lh
+Lhao (rhao): tu nombre
+
+Lhillo’ (rhillo’): tu casa 
+
+Lhe’ (rhe’): tú 
+
+Zilh (zirh): por la mañana
+|M/m (hay pocas palabras)
+
+Mechho: dinero 
+
+Llome (llom): canasta 
+
+Dam: tecolote
+|-
+|N/n 
+Na’: hoy, ahora 
+
+Ne’: ten 
+
+Bene’: persona
+|NH/nh 
+
+Nhi: aquí 
+
+Nhile: nixtamal 
+
+Nha’: ahí 
+
+Nholhe: mujer 
+
+Bnha’: lávate 
+
+Benhi’: claridad
+|P/p (pocas palabras) 
+
+Padioxh: saludo 
+
+Tap: 4
+
+Pita’: arcoiris
+<br />
+|R/r (pocas palabras, se usa 
+
+para escribir préstamos del 
+
+español) 
+
+Rob: arroba 
+
+Ros: rosa, arroz 
+
+Rós: Rosa
+|-
+|RH/rh (Existen pocas palabras. 
+
+Niños y jóvenes actualmente la usan en lugar de LH/lh. 
+
+Por lo que lo pueden escribir con esta letra aunque lo pronuncien con RH) 
+
+Rhiz: pequeño Rhito: Margarita
+|S/s 
+
+Sib: alto, refiriéndose a casa, pared, árbol. 
+
+Se usa también chhá’ (arriba)
+
+Sa’o: pedazos de vidrio
+
+Bes: riega (objetos) 
+
+Bsa’: raspa o pon en movimiento algo
+
+Nhis: agua
+|SH/sh 
+
+Shi: 10 
+
+Sha’: cazuela 
+
+Shod (shud): zopilote 
+
+Gash: Amarillo 
+
+Bsha’: cambia
+|T/t 
+
+Tap: 4
+
+To: 1 
+
+Bat: cuándo 
+
+Btao: maíz aposcahuado
+|-
+|W/w 
+
+Wí: naranja 
+
+Wag: leña 
+
+Wekoell: Músico 
+
+Weya’: Danza 
+
+Tawa’: mi abuela 
+
+Wenllin: trabajador
+|X/x 
+
+Xjollo’: Zoogocho 
+
+Xao: tu papá 
+
+Xop: 6 
+
+Bex: tomate 
+
+Bxin: aura 
+
+Bxide’: estropajo
+|XH/xh
+
+Xhiko’: Tu perro 
+
+Xhis: barañas
+
+Bxhidw: beso
+
+Xhiga’: jícara 
+
+Xop: 6
+|Y/y 
+
+Ya: fierro 
+
+Yag: árbol 
+
+Beye’: hielo 
+
+Laya’: mi diente Yade: Yaté
+|-
+|Z/z 
+
+Za: frijol 
+
+Beza’: zorra 
+
+Nhez: camino 
+
+Bzinha’: ratón
+|
+|
+|
+|}
+
+=== <ref name=":0" /> ===
+
+== Syntax ==
+
+=== Sentence Structure ===
+Zoogocho Zapotech uses Verb Subject Object sentence structure. It is possible to use Object Verb Subject, and Subject Verb Object but they only occur in special situations. 
+{| class="wikitable"
+|+Sentence Structure
+!Verb Subject Object 
+(VSO)
+!Object Verb Subject 
+(OVS)
+!Subject Verb Object 
+(SVO)
+|-
+|{{interlinear|dx-aogo be’ko’ yet|CONT-eat dog tortilla|‘The dog is eating tortillas.’}}
+|{{interlinear|yet dx-aogo be’ko’|tortilla CONT-eat dog|‘Tortillas, the dog is eating.’}}
+|{{interlinear|be’ko’{{=}}n’ dx-aogo yet|dog{{=}}DET CONT-eat tortilla|‘It’s the dog that’s eating tortillas.’}}
+|}
+
+==== Noun Phrases ====
+Adjective-Noun Order: The ordering of adjectives and nouns.
+
+When asked to cite adjectives in isolations native speakers will invariably put ''da'' the inanimate classifier in front of the adjective.
+
+''Da'' is used as an inanimate classifier, ''bi'' is a classifier for small things and ''be'' is an animate classifier. These three classifiers can be used in sentences when agreeing with the head noun. The reason behind the conditioning for this remains undetermined.
+
+==== Plural Markers ====
+Not always present in plural noun phrases, and plurality is either recovered from context or from verbal marking. ''Ka'' is used to mark a plural noun 
+
+==== Demonstratives ====
+Demonstratives follow their nouns, and either appear by themselves as in or with a classifier as in.
+
+==== Determiners ====
+The determiner is a clitic which has three main variants; one which occurs following a non-nasal consonant as in is =en’, one which occurs with words ending in n or nh is =na’, as in , and, finally, the one which occurs after a vowel is =n  or =na’ in free variation as in . Determiners occur at the end of a noun phrase.
+<br /><br />
+
+=== References ===
+{{Reflist}}
+
+*{{Cite book
+| publisher = Lincom Europa
+| isbn =  9783895868030
+| last = Sonnenschein
+| first = Aaron Huey
+| title = A descriptive grammar of San Bartolomé Zoogocho Zapotec
+| location = Munich
+| year = 2005
+}}
+
+== External links ==
+* Long C., Rebecca & Sofronio Cruz M., compilers. 1999. [http://www.sil.org/mexico/zapoteca/zoogocho/S038a-Diccionario-ZPQ.htm Diccionario Zapoteco de San Bartolomé Zoogocho Oaxaca]. Coyoacán D.F.: Instituto Lingüístico de Verano.
+*[http://www-01.sil.org/mexico/SQL-Buscar/00i-MX_View_Pub.htm?id=zpq&Lang=eng&LNe=Zapoteco%20de%20Zoogocho&LNi=Zoogocho%20Zapotec&BCe=zapoteca&BCi=Zapotecan&BCLink=zapoteca/00i-zapoteca.htm&Link=0 Zoogocho Zapotec language resources]
+*[http://www.language-archives.org/language/zpq OLAC resources in and about the Zoogocho Zapotec language]
+
+{{Zapotec languages}}
+{{Oto-Manguean languages}}
+
+[[Category:Zapotec languages]]
+
+{{Oto-Manguean-lang-stub}}

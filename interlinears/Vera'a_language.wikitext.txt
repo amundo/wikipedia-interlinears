@@ -1,0 +1,377 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Vera'a
+|altname=Vatrata
+|states=[[Vanuatu]]
+|region=[[Vanua Lava]]
+|speakers=500
+|date=2012
+|ref=<ref>[[#AF-diversity|François (2012)]]: 88).</ref>
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=Vanuatu
+|fam6=[[North Vanuatu languages|North Vanuatu]]
+|fam7=[[Torres–Banks languages|Torres–Banks]]
+|iso3=vra
+|glotto=vera1241
+|glottorefname=Vera'a
+}}
+
+'''Vera'a''' {{IPA-all|feraʔa|}}, formerly known by its [[Mota language|Mota]] name ''Vatrata'', is an [[Oceanic language]] spoken on the western coast of [[Vanua Lava]] Island, in the [[Banks Islands]] of northern [[Vanuatu]].
+
+Vera'a was described in 2011 by linguist Stefan Schnell.<ref name="grammar">[[#Schnell|Schnell (2011)]].</ref>
+
+== Name ==
+The language ''Vera'a'' is named after the village where it is spoken. This village is known locally as ''Vera'a'' {{IPA-all|feraʔa|}}, even though foreigners often call it ''Vetrat'' (after its name in [[Vurës language|Vurës]]), ''Vera''' (after its name in [[Lemerig language|Lemerig]]), or ''Vatrata'' (after its name in [[Mota language|Mota]]). All these names ultimately reflect a protoform *''βaturata'' in [[Proto-Torres-Banks language|Proto-Torres-Banks]], literally "flat stone" (*''βatu'' "stone" < [[Proto-Oceanic language|POc]] *[[:wikt:Reconstruction:Proto-Oceanic/patu|patu]] + *''rata'' "flat").
+
+== Recent history ==
+According to recently recorded oral local history, [[Vanua Lava]] was struck by a major earthquake and landslide in 1945 that devastated gardens and hamlets on its north-west coast, as a result of which the Vera'a community abandoned its previous settlements and resettled to its current main center of residence, the village of Vera'a (Vatrata). Vera'a is located about 4&nbsp;km from the village of Vetuboso, the largest settlement on [[Vanua Lava]] that is inhabited mainly by speakers of the closely related language [[Vurës language|Vurës]].
+
+Together with speakers of Vera'a, speakers of the now moribund language [[Lemerig language|Lemerig]] moved to the village of Vera'a. [[Lemerig language|Lemerig]] is remembered by many residents of Vera'a, but is no longer used in everyday communication. It is likely that the now ''de facto'' loss of the Lemerig language is the result of natural disaster and subsequent resettlement movements.
+
+==Phonology==
+Vera'a has 7 [[phoneme|phonemic]] vowels, which are all short [[monophthong]]s:<ref>{{Harvcoltxt|François|2005|p=445}}; {{Harvcoltxt|François|2011|p=194}}.</ref>
+
+{|class="wikitable" style="text-align:center;"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+| {{IPAlink|i}}
+| {{IPAlink|u}}
+|-
+![[Near-close vowel|Near-close]]
+| {{IPAlink|ɪ}}
+| {{IPAlink|ʊ}}
+|-
+![[Open-mid vowel|Open-mid]]
+| {{IPAlink|ɛ}}
+| {{IPAlink|ɔ}}
+|-
+![[Open vowel|Open]]
+| colspan="2" | {{IPAlink|a}}
+|}
+
+== Possession ==
+In Vera'a there are two types of possessive constructions recorded, that of direct possessive constructions and indirect possessive constructions.<ref name="grammar" />{{rp|119}} Similar to other [[Oceanic languages]], the distinctions between directly and indirectly possessed nouns in Vera'a appear to generally correspond to the semantic distinctions seen between [[Inalienable possession|inalienable]] and alienable possession.
+
+In both direct and indirect possessive constructions there are a further three construction sub-types based on the expression of the possessor. The three types of possessor constructions are as follows:
+
+# possessor as a pronoun expressed by a possessive suffix
+# possessor as a personal NP
+# possessor as a common noun
+
+In order to express the possessor as a pronoun, possessive suffixes are used. Stefan Schnell reports that they “are considered pronominal in nature because they have specific, definite referents and inflect for the same categories as personal pronouns.”<ref name="grammar" />{{rp|121}}
+
+{| class="wikitable"
+|+Possessive suffixes in Vera'a
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Trial
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | -k
+| -madu(ō)
+| -mam'ōl
+| -mam
+|-
+! inclusive
+| -du(ō)
+| 
+| -de
+|-
+! colspan="2" | 2nd person
+| -m
+| -mru(ō)
+| -m'ōl
+| -mi
+|-
+! colspan="2" | 3rd person
+| -gi
+| -ru(ō)
+| -r'ōl
+| -re
+|}
+
+=== Direct Possession ===
+In Vera'a, direct possession primarily expresses inalienable or inherently given relationships.<ref name="grammar" />{{rp|121}}
+
+These types of relationships can be seen through expression of:<ref name="grammar" />{{rp|57–58}}
+
+* kinship relations
+* body parts 
+* other types of part/whole relations (often parts of plants) 
+* certain concepts that only occur in association with another concept (name of an entity) 
+* spatial relations (incl. temporal relations expressed in analogy to spatial relations)
+
+==== Direct Possessive Construction ====
+Direct possessive constructions consist of the possessum, that of which is being possessed, and the possessor. This structure tends to follow a possessum-possessor order. The possessum is expressed as a bound noun while the possessor can be expressed as either:<ref name="grammar" />{{rp|121}}
+
+# a pronoun (expressed by a possessive suffix)
+# a personal NP linked to the possessum by the linking suffix ''-n ''
+# as a common noun adjacently following the possessum noun
+
+The bound noun possessum will take one of these three possessor constructions as shown below:<ref name="grammar" />{{rp|119}}
+
+;(1)   Direct possessive construction with a pronominal possessor
+
+{{interlinear|number=(a)
+|n gunu-'''m'''
+|ART spouse-2SG
+|'your wife / husband'}}
+
+{{interlinear|number=(b)
+|n kolo-'''k'''
+|ART back-1SG
+|'my back'}}
+
+;(2)   Direct possessive construction with a personal NP possessor
+
+{{interlinear|number=(c)
+|n vono-'''n''' '''e''' '''Qo’'''
+|ART home-LK ART person.name
+|'Qo's home'}}
+
+{{interlinear|number=(d)
+|e gunu-'''n''' '''e''' '''Noleen'''
+|ART spouse-LK ART person.name
+|'Noleen's husband'}}
+
+;(3) Direct possessive construction with a common NP possessor
+
+{{interlinear|number=(e)
+|ēn neln̄o- '''’an̄sara'''
+|ART voice- person
+|'voice of a person, i.e. a human voice'}}
+
+{{interlinear|number=(f)
+|ēn deln̄o- '''’ama’'''
+|ART ear- devil
+|'ears of a devil / devil ears'}}
+
+In summary the constructions can be described as follows:
+{| class="wikitable"
+|+Direct Possessive Constructions
+!Possessor type
+!Structure
+|-
+|(1) Pronoun
+|[possessum NP-possessive suffix]
+|-
+|(2) Personal NP
+|[possessum NP-''n''] + [personal NP]
+|-
+|(3) Common NP
+|[possessum NP] + [common NP]
+|}
+
+=== Indirect possession ===
+Indirect possessive constructions primarily express alienable possession, that is a possession that is more easily terminated. The possessor is not directly expressed on the possessum noun, rather the possessor is expressed on a possessive classifier. This construction results in the possessum and the possessor being less morphologically dependent on one another. Consequently, this construction allows for the possessor to appear in different positions syntactically and for the possessor to be able to form a standalone NP with the possessum NP being omitted from speech.<ref name="grammar" />{{rp|133}}
+
+Indirect possessive constructions are divided further into two types, labelled Indirect Possessive Construction Type 1 and Type 2 respectively. In addition to both types, indirect possessive constructions also have several different functions, those being the anaphoric/generic use of a classifier (elided NP), the adnominal recipient construction and recipient / beneficiary construction.<ref name="grammar" />{{rp|133}} The different functions of indirect possessive constructions are further explained in Stefan Schnell's ''A Grammar of Vera'a: an Oceanic language of North Vanuatu'', chapter 6.<ref name="grammar" />{{rp|136–138}}
+
+==== Indirect Possessive Construction ====
+In an indirect possessive construction, the possessum is a free noun and the possessor is hosted by a possessive classifier which mediates the syntactic relation between the possessed and possessor.<ref name="grammar" />{{rp|134}} There are eight possessive classifiers that each express their own respective function and the types of relations that indirect possessive constructions express.
+
+{| class="wikitable"
+|+Possessive Classifiers<ref name="grammar" />{{rp|120}}
+!Possessive Classifier
+!Function
+|-
+|''go-''
+|'s.th. to eat'
+|-
+|''mo-''
+|'s.th. to drink'
+|-
+|''ko-''
+|'s.th. to use as vessel'
+|-
+|''m̄o-''
+|'s.th. use as house'
+|-
+|''bolo-''
+|'s.th. of customary value'
+|-
+|''nō-''
+|'s.th. personally owned'
+|-
+|''qo-''
+|'s.th. used to sleep, rest'
+|-
+|''mu-''
+|'s.th. owned' / other
+|}
+
+===== Indirect Possessive Construction Type 1 =====
+In the Indirect Possessive Construction Type 1, the possessive classifier is expressed as a bound morpheme with the possessor being expressed as either:<ref name="grammar" />{{rp|134}}
+
+# a possessive suffix attached to the classifier
+# a personal NP linked to the possessive classifier with the ''-n'' suffix
+# as a common noun adjacently following the possessive classifier.
+
+The possessive classifier will take one of these three possessor constructions as shown below:<ref name="grammar" />{{rp|120–121}}
+
+;(1)   Indirect possessive construction Type 1 with a pronominal possessor
+
+{{interlinear|number=(g)
+|n qe'an go-'''ruō'''
+|ART ground POSS.CLF-3D
+|'their (two) ground to eat from'}}
+
+{{interlinear|number=(h)
+|n nak ko-'''k'''
+|ART canoe POSS.CLF-1SG
+|'my knife'}}
+
+;(2)   Indirect possessive construction Type 1 with a personal NP possessor
+
+{{interlinear|number=(i)
+|n nak mu-n '''e''' '''Qo’'''
+|ART canoe POSS>CLF-LK ART person.name
+|'Qoʻ’s canoe'}}
+
+{{interlinear|number=(j)
+|ēn gie mo-n '''e''' '''’uvusm̄ēl'''
+|ART kava POSS.CLF-LK ART high.chief
+|'the kava of the high chief (to drink)'}}
+
+;(3)   Indirect possessive construction Type 1 with a common NP possessor
+
+{{interlinear|number=(k)
+|n gie mo '''’uvusm̄ēl'''
+|ART kava POSS.CLF high.chief
+|'the kava of a high chief (to drink)'}}
+
+{{interlinear|number=(l)
+|n laklak mu '''’ama’'''
+|ART dance POSS.CLF devil
+|'a dance of ghosts / a ghost dance'}}
+
+In summary the constructions are as follows:
+{| class="wikitable"
+|+Indirect Possessive Construction (Type 1)
+|-
+!Possessor type
+!Structure
+|-
+|(1) Pronoun
+|[possessum NP] + [possessive classifier-possessive suffix]
+|-
+|(2) Personal NP
+|[possessum NP] + [possessive classifier-''n''] + [personal NP]
+|-
+|(3) Common NP
+|[possessum NP] + [possessive classifier] + [common NP]
+|}
+
+===== Indirect Possessive Construction Type 2 =====
+In an Indirect Possessive Construction of Type 2, the possessive classifier precedes the possessed noun. The result of this, is that the possessive classifier and the possessum form a complex NP. The possessor is exclusively expressed by a pronominal possessive suffix.<ref name="grammar" />{{rp|135–136}}
+
+;Indirect Possessive Construction Type 2
+
+{{interlinear|number=(m)
+|maranaga '''go-dē''' '''{{=}}n''' '''kēl-''' '''bigbig''' rōwē
+|chief POSS.CLF-1PL.INCL {{=}}ART bog- 'meat' down.at.the.sea
+|'Chief, a big 'meat' for us (to eat) is down at the sea.'}}
+
+In summary the construction is as follows:
+{| class="wikitable"
+|+Indirect Possessive Construction (Type 2)
+!''Possessor type''
+!''Structure''
+|-
+|(1) Pronoun
+|[possessive classifier-possessive suffix] + [possessum NP]
+|}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+===Main reference===
+*{{cite book 
+|title= A grammar of Vera'a
+|last= Schnell
+|first=Stefan 
+|year=2011 
+|publisher=Kiel University 
+|location=Kiel 
+|url= https://www.academia.edu/2317752
+|access-date= 3 Nov 2018
+|ref=grammar}}
+
+===Other references===
+*{{citation
+|doi=10.1353/ol.2005.0034
+|last=François
+|first=Alexandre
+|year=2005
+|title=Unraveling the history of the vowels of seventeen northern Vanuatu languages
+|journal=Oceanic Linguistics
+|volume=44
+|issue=2
+|pages=443–504
+|s2cid=131668754
+|url=http://alex.francois.online.fr/data/AlexFrancois_VowelsNorthernVanuatu_OL44-2.pdf
+}}
+* {{citation
+|last=François
+|first=Alexandre
+|year=2011
+|title=Social ecology and language history in the northern Vanuatu linkage: A tale of divergence and convergence
+|journal=Journal of Historical Linguistics
+|volume=1
+|issue=2
+|pages=175–246
+|doi=10.1075/jhl.1.2.03fra
+|url=http://alex.francois.online.fr/data/AlexFrancois_2011_JHL1-2_Social-ecology_Vanuatu.pdf
+|hdl=1885/29283
+|hdl-access=free
+}}
+*{{citation
+|last=François
+|first=Alexandre
+|year=2012
+|title=The dynamics of linguistic diversity: Egalitarian multilingualism and power imbalance among northern Vanuatu languages
+|journal=International Journal of the Sociology of Language
+|volume=2012
+|issue=214
+|doi=10.1515/ijsl-2012-0022
+|pages=85–110
+|s2cid=145208588
+|url=http://alex.francois.online.fr/data/AlexFrancois_2012_NorthVanuatuSocioling_IJSL.pdf
+|ref=AF-diversity
+}}
+*{{citation
+|last= Schnell
+|first=Stefan
+|year=2012
+|title=Referential Hierarchies in Three-Participant Constructions in Vera'a
+|journal=Linguistic Discovery
+|volume=10
+|issue=3
+|doi=10.1349/PS1.1537-0852.A.419
+|url=https://journals.dartmouth.edu/cgi-bin/WebObjects/Journals.woa/1/xmlpage/1/article/419
+|access-date= 3 Nov 2018
+|doi-access=free
+}}
+
+==External links==
+* [https://pangloss.cnrs.fr/corpus/Vera'a?lang=en&mode=pro Audio recordings in the Vera'a language], in open access, by linguist [[Alexandre François|A. François]] <small>(source: ''[[Pangloss Collection]]'')</small>.
+* [https://lac.uni-koeln.de/collection/11341/00-0000-0000-0000-1E3B-B Audio recordings in the Vera'a language], in open access, by linguist S. Schnell <small>(source: ''[[Language Archive Cologne]]'')</small>.
+* Vorēs, Makson & Stefan Schnell. 2012. [https://www.academia.edu/6384357/ ''N'erē kakaka 'a Vera'a'' – Ol storian blong Vera'a – Stories from the village of Vera'a (Vanua Lava, TorBa)], in open access, by Stefan Schnell and Makson Vorēs.
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Banks–Torres languages]]
+[[Category:Languages of Vanuatu]]

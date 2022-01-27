@@ -1,0 +1,157 @@
+{{short description|Cariban language}}
+{{Infobox language
+|name=Panare
+|nativename=''E’ñapa Woromaipu''
+|states=[[Venezuela]]
+|region=just south of the Orinoco River, [[Bolivar State|Estado Bolívar]]
+|ethnicity={{sigfig|4,270|2}} [[Panare people]] (2001 census)<ref name=e18/>
+|speakers={{sigfig|3540|2}}
+|date=2001 census
+|ref=e18
+|speakers2=2,480 monolinguals (mostly women)<ref name=e18/>
+|familycolor=American
+|fam1=[[Cariban languages|Cariban]]
+|fam2   = Venezuelan Carib
+|fam3   = Pemóng–Panare 
+|iso3=pbh
+|glotto=enap1235
+|glottorefname=Panare
+}}
+'''Panare''' is a [[Cariban]] language, spoken by approximately 3,000–4,000 people in [[Bolivar State]] in southern [[Venezuela]]. Their main area is South of the town of Caicara del Orinoco, south of the [[Orinoco River]]. There are several subdialects of the language. The autonym for this language and people is  ''eñapa'', which has various senses depending on context, including 'people', 'indigenous-people', and 'Panare-people'.  The term "Panare" itself is a Tupí word that means "friend."<ref>Payne, Thomas E. (1997). [https://books.google.com/books?id=LC3DfjWfCiwC&printsec=frontcover#v=onepage&q&f=false Describing morphosyntax: A guide for field linguists]. Cambridge: Cambridge University Press. p. 13.</ref> It is unusual in having [[object–verb–agent]] as one of its main word orders, the other being the more common [[verb–agent–object]]. It also displays the typologically "uncommon" property of an ergative–absolutive alignment in the present and a nominative–accusative alignment in the past.
+
+==Classification==
+Panare is a member of the [[Cariban languages|Cariban language family]], though its sub-grouping within the family is a matter of contention. The first decades of attempted classifications were largely rejected by linguists, a uniform classification of all proposed members of the Cariban family was introduced by [[Terrence Kaufman]] (1994).<ref>Campbell, 1997: 202-203</ref> This grouping, still widely used by linguists, classifies Panare as a member of the Southern Amazonian branch, with no cousin languages. However, Spike Gildea has criticized this grouping as relying on faulty data used for earlier classifications by Durbin and Loukotka that have been since rejected. In 2012, Gildea put forth his own classification, which groups Panare as a member of the Venezuelan Carib branch, and in turn, part of the low-level [[Pemon language|Pemóng-Panare]] branch.<ref>Gildea, 2012.</ref> This classification has been considered an improvement by linguists such as [[Lyle Campbell]] and Doris & Thomas Payne, but it has yet to replace the Kaufman grouping, largely due to its relative youth.
+
+==Phonology==
+Panare contains approximately 14 contrasting consonant phonemes, with variation depending on dialect and origins of certain lexical items (see: Notes).
+
+{| class="wikitable" style="text-align:center;"
+|+ Consonants
+!
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Alveolo-palatal consonant|Alveo-<br>palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]<ref>Payne & Payne, 2013: 41-42</ref>
+|-
+![[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|{{IPA link|ɲ}}
+|({{IPA link|ŋ}})
+|
+|-
+![[Plosive]]
+|{{IPA link|p}}
+|{{IPA link|t}}
+|{{IPA link|t͡ɕ}}
+|{{IPA link|k}}
+|{{IPA link|ʔ}}
+|-
+![[Fricative]]
+|
+|{{IPA link|s}}
+|
+|
+|{{IPA link|h}}
+|-
+![[Glide (linguistics)|Glide]]
+|{{IPA link|w}}
+|
+|{{IPA link|j}}
+|
+|
+|-
+![[Flap consonant|Flap]]
+|
+|{{IPA link|ɾ}}
+|
+|
+|
+|}
+
+Panare contains 7 contrasting vowel phonemes.
+
+{| class="wikitable" style="text-align:center;"
+|+ Vowels
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+|{{IPA link|i}}
+|{{IPA link|ɨ}}
+|{{IPA link|u}}
+|-
+![[Mid vowels|Mid]]
+|{{IPA link|e}}
+|{{IPA link|ə}}
+|{{IPA link|o}}
+|-
+![[Low vowel|Low]]
+|
+|{{IPA link|a}}
+|
+|}
+
+'''Notes'''
+
+/n/ = [ŋ]/_#, _C[-alveolar]/[n] elsewhere; /ɲ/ has phonemic status in loanwords from Spanish, and is an allophone in native words; Payne & Payne (2013) consider /ʔ/ and /h/ to be different allophones of an “underlying pharyngeal approximate,” that releases differently depending on environment. There are also records of these two phones occurring in free variation, which may be attributed to once-distinct dialects being merged into communities of speakers with idiolectical contrasts.<ref>Payne & Payne, 2013: 55</ref>
+
+==Morphology==
+Panare is best classified as a heavy-[[agglutinating language]] that verges on [[polysynthetic language|polysynthesis]]. Many of its [[morpheme|morphemes]] can be clearly identified by [[root (linguistics)|roots]] that remain isolated across inflectional processes, and [[inflection]] by multiple [[affixes]] is usually light. Words can grow long and complicated, but they can usually be rooted in one firm idea, rather than something akin to a process-based sentence.<ref>Payne & Payne, 2013: 67-72</ref>
+
+However, elements of polysynthesis appear in how roots are initially inflected. Essentially, most roots (that are not complements) are [[bound morphemes]] in some way, and require at least one inflectional morpheme until they can be used as units in a sentence. For example:
+*'-uwaatï' roughly correlates to 'burn,' but is a [[bound morpheme]]
+*'yuwaatï' means, 'it’s going to burn.' 'Yuwaatïjtepe' means, 'it wants to burn.' They are both complete words.<ref>Payne & Payne, 2013: 49</ref>
+
+==Syntax==
+Panare sentence structure does not follow a strict [[word order]], but a flexible one. In most studies, it is classified as an [[object-verb-subject|object-initial language]].<ref>Campbell, 2012: 273</ref><ref>Gildea, 1989</ref> However, [[subject-object-verb]] and [[subject-verb-object]] are known to appear frequently as well.<ref>Payne & Payne, 2013: 313-320</ref> This kind of "object-initial tendency" is quite common in Amazonia, where sentence structure is often more consistently arranged through clause construction type than word order.<ref>Derbyshire, 1987: 313-315</ref> As a result, Panare and its neighboring languages often use [[grammatical case|case markings]] as a way of ordering how [[constituent (linguistics)|constituents]] of a sentence affect each other.<ref>Payne & Payne, 2013</ref><ref>Derbyshire, 1987</ref>
+
+Future, desiderative, and nonspecific aspect clauses in Panare instantiate the cross-linguistically rare [[nominative–absolutive alignment]]. An example is given below.<ref name="G-CA-2010">{{cite journal |last1=Gildea |first1=Spike |last2=Castro Alves |first2=Flávia de |title=Nominative-absolutive: Counter-universal split ergativity in Jê and Cariban |journal=Typological Studies in Language |date=2010 |volume=89 |pages=159–200 |doi=10.1075/tsl.89.07gil |url=https://amerindias.github.io/curso2015/referencias/gilque10ergativityamazonia.pdf |access-date=8 August 2020}}</ref>{{rp|162}}
+
+{{interlinear|indent=3|italics2=yes|glossing4=yes|glossing=link
+|Yutësejpa (këj) kën.
+|/j-u-tə-sehpa (kəh) kən/
+|s-V s.{{gcl|AUX||Auxiliary verb}} S
+|3-{{gcl|S<sub>A</sub>||Unergative verb}}-go-FUT 3.ANIM.COP 3.ANIM.{{gcl|DIST||Deixis}}
+|‘S/he will go.’}}
+
+{{interlinear|indent=3|italics2=yes|glossing4=yes|glossing=link
+|Yamasejpa (këj) kën.
+|/j-ama-sehpa (kəh) kən/
+|p-V a.{{gcl|AUX||Auxiliary verb}} A
+|3-{{gcl|S<sub>A</sub>||Unergative verb}}-throw.away-FUT 3.ANIM.COP 3.ANIM.{{gcl|DIST||Deixis}}
+|‘S/he will throw away it/him/her.’}}
+
+In Panare nominative–absolutive clauses, the [[Nominative case|nominative]] and [[Absolutive case|absolutive]] are distinguished as follows. The unmarked [[Nominative case|nominative]] (pro)noun (if it occurs explicitly) always follows the predicate (''kën'' in the example above), with [[Nominative case|nominative]] agreement in the auxiliary if there is one (''këj'' in the example above). In contrast, the [[Absolutive case|absolutive]] arguments are indexed by means of verbal prefixes (''y-'' in the example above) or by absolutive nouns phrases (not shown above), which are in a [[complimentary distribution]] with the absolutive person prefixes.
+
+==Distribution==
+The speakers of Panare (called E'ñepa (lit. "people") in their own language) live in [[Bolívar (state)|Bolívar]], Venezuela, west of the [[Cuchivero River|Cuchivero basin]] of the [[Orinoco]] River.<ref>Ethnologue</ref> Up until the 21st Century, the Panare had few contacts with non-indigenous peoples (the few being explorers and anthropologists). However, increasing interactions with Venezuelans has led to widespread [[bilingualism]] with [[Spanish language|Spanish]].<ref>Crevels, 2012: 217</ref>
+
+==Bibliography==
+* Campbell, Lyle. 1997. American Indian Languages: the Historical Linguistics of Native America. New York: Oxford University Press.
+* Campbell, Lyle. 2012. “Typological characteristics of South American indigenous languages.” In: Lyle Campbell, Verónica Grondona (eds.), The Indigenous Languages of South America: A Comprehensive Guide, 259-330: Berlin: Walter de Gruyter
+* Crevels, Mily. 2012. "Language endangerment in South America: The clock is ticking." In: Lyle Campbell, Verónica Grondona (eds.), The Indigenous Languages of South America: A Comprehensive Guide, 167-234: Berlin: Walter de Gruyter
+* Derbyshire, Desmond C. 1987. “Morphosyntactic Areal Characteristics of Amazonian Languages.” In: International Journal of American Linguistics Vol. 53(3): 311-326
+* “E’ñapa Woromaipu.” Ethnologue. https://www.ethnologue.com/language/pbh/19 Accessed February, 2016
+* Gildea, Spike. 1989. Simple and relative clauses in Panare, University of Oregon Master's Thesis
+* Gildea, Spike. 2012. “Linguistic studies in the Cariban family.” In: Lyle Campbell, Verónica Grondona (eds.), The Indigenous Languages of South America: A Comprehensive Guide, 441-494: Berlin: Walter de Gruyter.
+* Payne, Thomas E., & Doris L. 2013. A Typological Grammar of Panare: A Cariban Language of Venezuela. Koninklijke Brill NV, Leiden, The Netherlands.
+
+==References==
+{{reflist}}
+
+== External links ==
+*[https://web.archive.org/web/20070311025343/http://www.revele.com.ve/programas/indice/ria.php?rev=boletin_de_linguistica&id=11753 Abstract (in Spanish and English) of a paper on constituent order in Panare] - ''LAS CORRELACIONES DE ORDEN EN PANARE, LENGUA OVS''
+*[https://ids.clld.org/contributions/172 Panare] ([[Intercontinental Dictionary Series]])
+
+*Audio resources exist for this language at the University of Oregon Library. Thomas E. Payne and Doris L.Payne. 1989. Panare language sound recordings. [http://hdl.handle.net/1794/4126]
+
+{{Languages of Venezuela}}
+{{Cariban languages}}
+
+[[Category:Indigenous languages of the South American Northwest]]
+[[Category:Cariban languages]]
+[[Category:Languages of Venezuela]]

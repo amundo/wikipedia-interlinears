@@ -1,0 +1,486 @@
+{{Infobox language
+|name=Mekeo
+|states=[[Papua New Guinea]]
+|region=[[Central Province (Papua New Guinea)|Central Province]]
+|coordinates = {{coords|-8.24|146.59}}
+|pushpin_map = Papua New Guinea
+|speakers= 19,000
+|date=2003
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Western Oceanic languages|Western Oceanic]]
+|fam5=[[Papuan Tip languages|Papuan Tip]]
+|fam6=[[Central Papuan Tip languages|Central Papuan Tip]]
+|fam7=[[Nuclear West Central Papuan Tip languages|Nuclear West Central]]
+|iso3=mek
+|glotto=meke1243
+|glottorefname=Mekeo
+|notice=IPA
+}}
+'''Mekeo''' is a language spoken in [[Papua New Guinea]] and had 19,000 speakers in 2003. It is an [[Oceanic language]] of the [[Papuan Tip languages|Papuan Tip Linkage]].<ref>Lewis 2009</ref> The two major villages that the language is spoken in are located in the [[Central Province (Papua New Guinea)|Central Province]] of Papua New Guinea. These are named Ongofoina and Inauaisa.{{r|sil2004}} The language is also broken up into four [[dialect]]s: East Mekeo; North West Mekeo; West Mekeo and North Mekeo. The [[standard dialect]] is East Mekeo.{{r|chung1995}} This main dialect is addressed throughout the article. In addition, there are at least two Mekeo-based [[pidgin]]s.
+
+==Phonology==
+Mekeo employs a relatively simple system of phonology which consists of 10 consonants and 5 vowels. The following tables identify both the consonants and vowels present in Mekeo.
+
+===Consonants===
+{| class="wikitable" style="text-align:center;"
+|-
+! !! [[Labial consonant|Labial]] !! [[Alveolar consonant|Alveolar]] !! [[Velar consonant|Velar]] !! [[Glottal consonant|Glottal]]  
+|-
+! [[Nasal stop|Nasal]]
+| {{IPA|m}} || {{IPA|n}} || {{IPA|ŋ}} ||
+|-
+! [[Plosive]]
+| {{IPA|p}} || {{IPA|t}} || {{IPA|k}} || {{IPA|Ɂ}}
+|-
+! [[Fricative]]
+| {{IPA|f}} || {{IPA|s}} || ||
+|-
+! [[Lateral consonant|Lateral]]
+| || {{IPA|l}} || ||
+|}
+
+Note that the table above displays the range of consonants used in East Mekeo which is classified as the standard dialect. North West Mekeo, West Mekeo and North Mekeo each have slightly different consonants included in their dialects.{{r|1=jones1998|p1=559|2=chung1995|p2=9}}
+
+===Vowels===
+Mekeo has five vowels, shown on the table below:
+
+{| class="wikitable" style="text-align:center;"
+|-
+! !! [[Front vowel|Front]], [[Roundedness|Unrounded]] !! [[Central vowel|Central]], Unrounded !! [[Back vowel|Back]], Rounded
+|-
+! [[Close vowel|Close]]
+| {{IPA|i}}  ||  || {{IPA|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e}} ||  || {{IPA|o}}
+|-
+! [[Open vowel|Open]]
+|  || {{IPA|a}} ||  
+|}
+
+==Morphology==
+
+===Pronouns and Person Markers===
+In Mekeo, [[personal pronouns]] primarily refer to humans, however the [[Grammatical person|third person]] forms can also be used for animals and other objects as well. Mekeo uses a range of different pronouns for different situations. The following table shows all the main personal pronouns for East Mekeo. This includes [[Markedness|unmarked]], emphatic and [[Reflexive pronoun|reflexive]] personal pronouns. Note, that the emphatic pronouns are not common in East Mekeo as they compete with another more common [[Topicalisation|topicaliser]], ''au-ŋa''. For example, the preferred form for the first person singular would be ''lau- au-ŋa''.{{r|jones1998|pp=148}}
+In the following table, 1, 2 and 3 indicate the person, SG and PL indicate whether the example is [[Grammatical number|singular or plural]] and I and E stand for [[Clusivity|inclusive and exclusive]].
+
+{| class="wikitable" style="text-align:center;"
+|-
+! !! Unmarked !! Emphatic !! Reflexive
+|-
+! 1SG
+| lau  || lau-ŋa || Ɂifo-u
+|-
+! 2SG
+| oi || oi-ŋa || Ɂifo-mu/Ɂifō
+|-
+! 3SG
+|isa || isa-ŋa || Ɂifo-ŋa/Ɂifo-ŋa-mo
+|-
+! 1PL.I
+| iɁa/isa || iɁ-ŋa/isa-ŋa || Ɂifo-Ɂa
+|-
+! 1PL.E
+| lai || lai-ŋa || Ɂifo-mai
+|-
+! 2PL
+| oi || oi-ŋa || Ɂifo-mi
+|-
+! 3PL
+| isa || isa-ŋa || Ɂifo-i/Ɂifo-Ɂi
+|}
+
+====Examples====
+
+The following examples demonstrate the use of some of the above personal pronouns in context.{{r|jones1998|pp=149, 155}}
+
+{{Interlinear |lang=mek |box=yes |number=1 |c1=(East Mekeo)
+|E-Ɂifo
+|3SG-self
+|S/he is one of a kind.}}
+
+{{Interlinear |lang=mek |box=yes |number=2 |c1=(East Mekeo)
+|Maa-mu umu koà lopia-ŋa
+|Eye-2SG charcoal likeness beautiful
+|Your eyes are beautiful, like charcoal.}}
+
+{{Interlinear |lang=mek |box=yes |number=3 |c1=(East Mekeo)
+|Oi, nao koa, ioi-mu
+|2SG European likeness same-2SG
+|You are like a European.}}
+
+{{Interlinear |lang=mek |box=yes |number=4 |c1=(East Mekeo)
+|ia e-lao afu ioi-na e-lao
+|elsewhere 3SG-go place different-3SG 3SG-go
+|He has gone elsewhere.}}
+
+==Grammar==
+
+===Possessive Constructions===
+
+Possession in Mekeo has two morpho-syntactic distinctions: direct or indirect constructions. Direct possession concerns kinship relations and ‘part of a whole relations’ and these kind of relations are cultural in origin. Indirect possession covers a more general possession of alienable property.
+
+====Direct Possession====
+
+Direct possession relies on relational terms that often form closed subsystems such as kinship terms. In Mekeo, the two relation terms involved in each equation are joined by another term that operates like a transitive verb. The third term is the ‘relator’ and must be marked for agreement with one of the other terms in the equation. The relator follows the subject and/or the object. The relator is marked for the person and number of the second term or the object.{{r|jones1998|p=195}}
+
+{{Interlinear |lang=mek |box=yes |abbreviations=SUBJECT:subject:Subject (grammar); OBJECT:object:Object (grammar); RELATOR:relator |number=5 |glossing1=link |glossing2=no |glossing3=link |glossing4=no |c1=(East Mekeo)
+|SUBJECT OBJECT RELATOR
+|Isa lau ama-u
+|s/he I father-1SG
+|He is my father.
+}}
+
+====Indirect Possession====
+
+Expressing alienable possession in Mekeo requires the prefix ''E-'' and its various realisations (including zero). This morpheme is then optionally preceded by a free or bound pronoun and then the compulsory suffixed by a pronominal suffix which indicates the person and number of the possessor.{{r|jones1998|p=208-210}}
+
+{{Interlinear |lang=mek |box=yes |number=6 |glossing=link |c1=(East Mekeo)
+|Eŋaʔi-na lau e-u foʔama
+|that I POSS-1SG food
+|That is my (vegetable) food.
+}}
+
+The negative is expressed with negators maini, aibaia and laa'i:
+
+{{Interlinear |lang=mek |box=yes |number=7 |glossing=link |c1=(East Mekeo)
+|E-u foʔama laa'i
+|POSS-1SG food not
+|I have no food}}
+
+The following is an example of an alternation of the cliticisation process:
+
+{{Interlinear |lang=mek |box=yes |number=8 |abbreviations=TOPIC:topic; I:inclusive |glossing=link |c1=(East Mekeo) 
+|Inaʔina auŋa iʔa ʔa eʔa
+|this TOPIC we.I POSS.1PL.I house
+|This one is our house}}
+
+Another morpheme to express possession is the location pronoun KE- (realised as ke or ʔe). This pronoun expresses location or place:
+
+{{Interlinear |lang=mek |box=yes |number=9 |glossing=link |c1=(West Mekeo)
+|Ke-u-ai pokama mako
+|LOC-1SG-OBL food much
+|I have lots of food.}}
+
+===Negation===
+
+Mekeo expresses [[Negation (linguistics)|negation]] in three ways:{{r|jones1998|pp=219,234}}
+
+* through the negative [[Grammatical particle|particle]] ''aʼi'', which negates nominal predicates; 
+* through existential negators, which differ between dialects; and 
+* through a negative verb prefix, which negates verbal predicates.
+
+This three-way functional distinction between different types of negation is typical of [[Oceanic languages]].{{r|mosel1999|pp=17}}
+
+====Nominal Negation====
+
+Nominal [[Predicate (grammar)|predicates]] (which consist of one or more [[Nominal (linguistics)|nominals]]) are negated in two ways — through either the negative particle or proclitic ''aʼi'', or through existential negator particles.
+
+The negative particle ''aʼi'' is found in all dialects of Mekeo, with ⟨ʼ⟩ pronounced as either a weak [[glottal stop]] or slight pause most dialects, or even not at all ({{IPA|/ai/}}) in East Mekeo.{{r|jones1998|p=175}}<ref group=note>Jones (1998) only attempts a rough phonemic transcription of this particle, but does record this variation between dialects.</ref> ''Aʼi'' negates a nominal predicate as seen in examples 10 and 11:
+
+{{Interlinear |lang=mek |box=yes |number=10 |glossing=link |c1=(West Mekeo)
+|A'i oʔo!
+|NEG fat
+|(It is) not fat!{{r|jones1998|p=175}}}}
+
+{{Interlinear |lang=mek |box=yes |number=11 |abbreviations=ASS:assertion/predication marker |glossing=link |c1=(East Mekeo)
+|Tsi aʼi mekia-ŋa
+|tea NEG sweet-ASS
+|The tea is unsweet!{{r|jones1998|p=219}}}}
+
+''Aʼi'' also occurs as a [[Clitic#Proclitic|proclitic]] particle before [[Nominal (linguistics)|nominals]], as seen in examples 12 and 13. In this case is functions similar to the English prefixes 'non-' or 'un-'.{{r|jones1998|p=175}}
+
+{{Interlinear |lang=mek |box=yes |number=12 |abbreviations=OBLG:obligative |glossing=link |c1=(East Mekeo)
+|Ai-ofu fa-mia
+|NEG-dirt OBLG.1SG-become
+|I would like to be spotless.{{r|jones1998|p=175}}}}
+
+{{Interlinear |lang=mek |box=yes |number=13 |glossing=link |c1=(East Mekeo)
+|E-mu ŋope a'i-fou-ŋa ŋa-mia
+|POSS-2SG fast NEG-public-3SG IMP.3SG-become
+|Don't let your fast be public knowledge.{{r|jones1998|p=175}}}}
+
+All four dialects of Mekeo have existential negators: ''maini'' in North-West Mekeo, ''aibaia'' or ''aibaida'' in West Mekeo, ''aibaia'' or ''aibaiza'' in North Mekeo, and ''laaʼi'' in East Mekeo. The existential negators are sentence-final [[Predicate (grammar)|predicates]] — where a verb would otherwise be — and express denial of the existence, presence or identity of the preceding nominal predicate.<ref group=note>See Mosel (1999) for an explanation of the interpretation of the term 'denial' in this context.</ref> Examples 14 to 17 show the existential negator of each dialect.{{r|jones1998|p=175,220}}
+
+In both West Mekeo and Northern Mekeo, ''aibaia'' can be analyzed as a compound of  ''a'i'' 'not' and ''baia'' 'mere'. These two dialects also have an [[Epenthesis|intrusive consonant]], so ''aibaia'' is often [[Realization (linguistics)|realised]] as {{IPA|/aibaida/}} in West Mekeo and {{IPA|/aibaiza/}} in North Mekeo.{{r|jones1998|p=175}}
+
+{{Interlinear |lang=mek |box=yes |number=14 |glossing=link |c1=(North-West Mekeo)
+|Agaoā maini
+|spouse.3SG not
+|He has no wife. (lit. Wife.his not.){{r|jones1998|p=175}}}}
+
+{{Interlinear |lang=mek |box=yes |number=15 |glossing=link |c1=(West Mekeo)
+|Gaba-alaka aibaia
+|thing-one not
+|It doesn't matter. (lit. There is nothing.){{r|jones1998|p=175}}}}
+
+{{Interlinear |lang=mek |box=yes |number=16 |glossing=link |c1=(North Mekeo)
+|Tsuga aibaiza
+|sugar not
+|There is no sugar.{{r|jones1998|p=175}}}}
+
+{{Interlinear |lang=mek |box=yes |number=17 |glossing=link |c1=(East Mekeo)
+|Ava laa'i.
+|some(-thing) not
+|It doesn't matter. (lit. It is nothing.){{r|jones1998|p=175}}}}
+
+The existential negators can also function similarly to ''aʼi'', so examples 14 and 16 above could alternatively be read as "She is not his wife" (or "He is not her husband") and "This is not sugar" respectively.{{r|jones1998|p=176}}
+
+====Verbal Negation====
+
+Verbal predicates (which consist of a verb word<ref group=note>Jones (1998) notes that while a Mekeo verb and its various affixes have traditionally been referred to as a 'verb phrase', this construction is more accurately called a "verb word".</ref> and its arguments) in Mekeo are negated by a negator [[prefix]] attached to the predicate's verb word. Within the verb word, the negator prefix is found between tense-aspect-mood prefixes and the subject marker, with an [[Epenthesis|intrusive consonant]] before the subject marker in some dialects. This negator prefix negates the entire verbal predicate.{{r|jones1998|p=225-226,234-235}} The position of the negator prefix between the tense-aspect-mood prefixes and the verb base is generally common in Oceanic languages.{{r|crowley2001|pp=51}}
+
+Example 18 shows the position of the negator prefix in the North Mekeo expression ''Fázobálifúa!'' "Don't spill it!":
+
+{{Interlinear |lang=mek |box=yes |number=18 |abbreviations=OBLG:obligative; B:buffer consonant:Epenthesis; CA:causative:Causative; TH:thematic consonant; PF:perfect-perfective:Perfective aspect |glossing=link |c1=(North Mekeo)
+|top=Fázobálifúa!
+|F- ai- z- o- ba- lifu -Ø- -Ø- -a
+|OBLG- NEG- B- 2SG- CA- wrong TH -PF -3SG
+|Don't spill it!{{r|jones1998|p=226}}}}
+
+Examples 19 to 22 show the negator prefix in all four Mekeo dialects. Jones tentatively reconstructs the negator prefix in Proto-Mekeo as {{IPA|*/aʔi/}}, cognate with [[Motu language|Motu]] ''asi'' and both descended from Proto-Central-Papuan {{IPA|*/ati/}}.{{r|jones1998|pp=234,235}}
+
+{{Interlinear |lang=mek |box=yes |number=19 |glossing=link |c1=(North-West Mekeo)
+|A-e-io.
+|NEG-3SG-go
+|(S)he has not gone.{{r|jones1998|p=235}}}}
+
+{{Interlinear |lang=mek |box=yes |number=20 |abbreviations=B:buffer consonant:Epenthesis |glossing=link |c1=(West Mekeo)
+|Ai-j-i-ao.
+|NEG-B-3SG-go
+|(S)he has not gone.{{r|jones1998|p=235}}}}
+
+{{Interlinear |lang=mek |box=yes |number=21 |abbreviations=B:buffer consonant:Epenthesis |glossing=link |c1=(East Mekeo)
+|Ai-z-e-ao.
+|NEG-B-3SG-go
+|(S)he has not gone.{{r|jones1998|p=235}}}}
+
+{{Interlinear |lang=mek |box=yes |number=22 |glossing=link |c1=(North Mekeo)
+|A-e-lao.
+|NEG-3SG-go
+|(S)he has not gone.{{r|jones1998|p=235}}}}
+
+In North-West Mekeo, the existential negator ''maini'' (see example 14) also occurs before some verbs to negate them in either the [[past tense]] or in the [[Imperative mood#Syntax and negation|prohibitive]] mood.{{r|jones1998|pp=175}} This occurs in addition to the regular negative prefix ''ae-'', creating a [[double negative]], as seen in example 23. Jones suggests that this may be to reduce ambiguity where the prefix ''ae-'' has otherwise [[Assimilation (phonology)|assimilated]] with the verb stem; other dialects have an [[Epenthesis|intrusive consonant]] between the negator prefix and verb stem, as shown in example 24 from West Mekeo.{{r|jones1998|pp=574,578}}
+
+{{Interlinear |lang=mek |box=yes |number=23 |glossing=link |c1=(North-West Mekeo)
+|maini ae-a-io
+|not NEG-1SG-go
+|I didn't go.{{r|jones1998|p=574}}}}
+
+{{Interlinear |lang=mek |box=yes |number=24 |abbreviations=B:buffer consonant:Epenthesis |glossing=link |c1=(West Mekeo)
+|ai-d-ao
+|NEG-B-1SG.go
+|I didn't go.{{r|jones1998|p=578}}}}
+
+== Demonstratives and Spatial Deictics ==
+
+=== List of Abbreviations used for examples in this section ===
+{| class="wikitable"
+!Abbreviation
+!Meaning
+|-
+|ASS
+|Assertion/Predication Marker
+|-
+|B
+|Buffer Consonant
+|-
+|CNT
+|Continuative Aspect Marker
+|-
+|DX
+|Deictic Particle
+|-
+|PF
+|Perfect-Perfective Aspect
+|-
+|OBL
+|Oblique Function
+|-
+|SG
+|Singular
+|}
+
+=== Demonstrative Sentence Structure ===
+According to World Atlas of Language Structure (WALS) writer Matthew S. Dryer, Mekeo is a mixed language type, meaning it does not follow a demonstrative-noun, or noun-demonstrative sentence structure, but has both.<ref>{{Cite web|last=Dryer|first=Matthew S|date=2013|title=Order of Demonstrative and Noun|url=https://wals.info/chapter/88|url-status=live|access-date=28 March 2020 |website=World Atlas of Language Structures Online}}</ref>
+
+Mekeo is spoken in the central province of Papua New Guinea. Kaki Ae is a neighbouring language of Mekeo. It is spoken to the North-East of where Mekeo is spoken. Kaki Ae has a demonstrative-noun sentence structure. Clifton describes Kaki Ae’s noun phrase structure as Demonstrative-Place-Noun-Adjective-Numeral-Limiter, where the demonstrative precedes the noun, which is in accordance with the data on WALS.<ref>{{Cite book|last=Clifton|first=John M.|title=The Kaki Ae Language|publisher=Pacific Linguistics|year=1997|pages=30}}</ref>
+
+According to Maino, Aufo and Bullock, Mekeo follows the following noun phrase structure: Demonstrative-Possessive/Noun/Adjective-Numeral/Quantifier.<ref name="Aufo2015"/>{{rp|18}}
+
+=== Proximal Demonstratives in the Four Dialects of Mekeo ===
+According to Jones, in Mekeo, there are three “degrees of proximity… represented in three of the four dialects”.<ref name="jones1998"/>{{rp|156}} These four dialects are NWMek (North West Mekeo), WMek (West Mekeo), NMek (North Mekeo) and EMek (East Mekeo).
+{| class="wikitable"
+!Location
+!NWMek
+!WMek
+!NMek
+!EMek
+|-
+!Here
+|i-ke
+|Namo
+|Namo
+|i-na
+|-
+!There
+|e-ke
+|Na-ba/e-ŋa
+|E-ŋa
+|e-ŋa
+|-
+!Yonder
+|u-ke
+|e-ŋa-ke-ŋa-ina
+|e-ŋa-ke-ŋa-i-na
+|e-ŋa-Ɂe-ŋa-i-na
+|}
+<ref name="jones1998"/>{{rp|158}}
+
+According to Maino, Aufu and Bullock, there are two demonstratives 'egaina' and 'inaina/l’ina'. “These can refer to singular or plural, near or far”, and is represented in the Tentative Grammar Description with the following table.<ref name="Aufo2015"/>{{rp|20}}
+{| class="wikitable"
+!inaia
+|This, These
+|-
+!I’ina
+|This, Those
+|-
+!Ega’ina
+|That, Those
+|}
+These can be represented through the following examples, provided by Jones.
+
+Ike         auke                     NWMek
+
+Inaia      auke-ŋa                WMek
+
+Naimo   auke-ŋa                 WMek
+
+Inaina   amuɁe-ŋa              EMek
+
+this       dog-3SG.ASS
+
+This (is a) dog.<ref name="jones1998"/>{{rp|213}}
+
+This noun phrase can be expanded by adding a suffix that marks the person and number of the deictic pronoun.
+
+{{Interlinear |lang=mek |box=yes |number=25 |abbreviations= |glossing=link |c1=(East Mekeo)
+|AmuɁe eɁle, la-isa
+|Dog-3SG small 1SG-see
+|The small dog, I saw it}}
+
+'Inaina' has been dropped as the ''this'' has been changed to ''the'', and 'eɁle' (small) has been added.
+
+There can also be a second modifier, attached before the adjective:
+
+{{Interlinear |lang=mek |box=yes |number=26 |abbreviations= |glossing=link |c1=(East Mekeo)
+|Eŋaina amuɁe-ŋa eɁele-ŋa, la-isa
+|that dog-3SG small-3SG 1SG-see
+|That dog, the small one, I saw it}}<ref name="jones1998"/>{{rp|76}}
+
+The demonstrative ''that'' (Eŋaina is evident here, along with the 3rd person singular noun dog and adjective. The second modifier ‘-ŋa’ has been attached to ‘eɁele’ (small).
+
+==== Deictic Particles ====
+There also exists deictic particles (DX) in Mekeo, illustrated in the West Mekeo example below:
+
+{{Interlinear |lang=mek |box=yes |number=27 |abbreviations=CNT:Continuative Aspect Marker; DX:Deictic Particle |glossing=link |c1=(West Mekeo)
+|Nga-e katsia-ŋa-ai
+|DX-CNT soil-3SG-OBL
+|'in that place'<ref name="jones1998"/>{{rp|86}}
+}}
+
+=== Anaphoric and Exophoric Use of Demonstratives ===
+Mekeo uses both anaphoric and exophoric use of demonstratives, and clear anaphors are rare in Mekeo.<ref name="jones1998"/>{{rp|531}} Anaphoric strategies are not always effective in their identification according to Jones. Jones utilises the phrase “deictic reinforcement” for Mekeos use of personal pronouns or demonstrative pronouns to refer back to what has just been mentioned.<ref name="jones1998"/>{{rp|532}} Demonstrative pronouns are used for four reasons: to announce a new topic, to return to a previously mentioned topic, to announce a new topic specifically so as to not confuse with already established topics, and to “emphasise the presumed accessibility of a referent to the hearer”.<ref name="jones1998"/>{{rp|533}}
+
+An example of anaphoric demonstrative is shown in East Mekeo:{{Interlinear |lang=mek |box=yes |number=28 |abbreviations= |glossing=link |c1=(East Mekeo)
+|Eŋa’ina amuɁe!
+|That dog-3SG
+|That is a dog!}}According to Jones, the comma represents the “actual or potential pause” within the sentence.<ref name="jones1998"/>{{rp|49}}
+
+==== Exophoric Use of Demonstratives ====
+An example of exophoric use of demonstratives is highlighted by Jones:  {{Interlinear |lang=mek |box=yes |number=29 |abbreviations=B:buffer consonant:Epenthesis |glossing=link |c1=(West Mekeo)
+|ini, bani-na
+|bird wing-3SG
+|As for the bird, its wing!}}According to Jones, this sentence “translates to “As for the bird, its wing!”, that is as for the bird, it is its wing that is here important/salient/relevant”.
+
+Jones points out that there is an “implicit deictic argument it/that”. For exophoric topics, when kin terms are used the topic is always a personal pronoun.<ref name="jones1998"/>{{rp|123}}
+{{Interlinear |lang=mek |box=yes |number=30 |abbreviations= |glossing=link |c1=(East Mekeo)
+|Isa, lau ama-u
+|he I father-1SG
+|He is my father OR he/him, my father}}The personal pronoun ‘isa’ is used.<ref name="jones1998"/>{{rp|123}}
+
+==== Deictic Predicates ====
+Deictic predicates occur when the reference is not given. For example, the following response would be given to the question “Which dog do you mean?” <ref name="jones1998"/>{{rp|212}}{{Interlinear |lang=mek |box=yes |number=31 |abbreviations= |glossing=link |c1=(East Mekeo)
+|AmuɁe eŋaɁi-na
+|dog that-3SG
+|That's the dog (The dog is the one)}}The demonstrative eŋaɁi-na is used in the example above.
+
+There is variation among the four dialects: 
+{{interlinear |lang=mek |number=32 |glossing5=yes|italics2=yes|italics3=yes|italics4=yes|box=yes
+|Ike auke| c1 = (NWMek)
+|Inaia auke-ŋa| c2 = (WMek)
+|Namo auke-ŋa| c3= (WMek)
+|Inaina amuɁe-ŋa| c4= (EMek)
+|this dog-3SG.ASS
+|'This (is a) dog.'<ref name="jones1998"/>{{rp|213}}     }}
+
+{{Interlinear |lang=mek |number=33 |abbreviations=PF: Perfect-Perfective Aspect; B: buffer consonant |glossing=link |c1=(East Mekeo)
+|Papie aŋa’o la-isa au-ŋa fe’a e-pua-i-s-a
+|woman one 1SG-see one-3SG basket 3SG-carry-PF-B-3SG
+|I saw a woman (who was) carrying a basket}}The placement of commas in important in the Mekeo language. Jones highlights that if a comma had been placed after Papie   aŋa’o, then the translation would shift to “a woman who was carrying a basket”.<ref name="jones1998"/>{{rp|509}}
+
+==Trade language==
+
+{{Infobox language
+|name=Imunga Trade Language
+|speakers=none
+|familycolor=Pidgin
+|family=Mekeo-based pidgin
+|iso3=none
+|glotto3=imun1234
+|glottorefname3=Imunga Trade Language
+}}
+
+{{Infobox language
+|name=Ioi Trade Jargon
+|speakers=none
+|familycolor=Pidgin
+|family=Mekeo-based pidgin
+|iso3=none
+|glotto2=ioit1234
+|glottorefname2=Ioi Trade Jargon
+}}
+Jones (1996) reports two forms of pidgin Mekeo used for trade: the ''Imunga Trade Language'' and the ''Ioi Trade Jargon''.{{r|jones1996}}
+
+==Notes==
+{{reflist|group=note}}
+
+==External links==
+* [[OLAC]] has [http://www.language-archives.org/language/mek a list of resources in and about the Mekeo language]
+* [[Paradisec]] has [http://catalog.paradisec.org.au/collections/search?language_code=mek a number of collections that include Mekeo language materials]
+
+==References==
+{{reflist|refs=
+<ref name="chung1995">{{Cite web |last=Chung |first=Je-Soon |url=https://www.sil.org/system/files/reapdata/85/18/22/85182270354894383687614289697637233664/Mekeo_Orthography.pdf |title=Orthography paper for Mekeo language in Central Province of Papua New Guinea |publisher=[[SIL International]] |date=1995 |format=PDF}}</ref>
+<ref name="jones1996">{{Cite encyclopedia |last=Jones |first=Alan A. |editor1-last=Wurm |editor1-first=Stephen Adolphe |editor1-link=Stephen Wurm |editor2-last=Mühlhäusler |editor2-first=Peter |editor3-last=Tryon |editor3-first=Darrell T. |editor3-link=Darrell Tryon |encyclopedia=Atlas of languages of intercultural communication in the Pacific, Asia and the Americas |title=Privately owned Mekeo-based trade languages |date=1996 |publisher=Mouton de Gruyter |publication-place=Berlin |pages=219–224 |isbn=3110134179}}</ref>
+<ref name="jones1998">{{Cite book |title=Towards a lexicogrammar of Mekeo (an Austronesian language of Western Central Papua) |last=Jones |first=Alan A. |date=1998 |publisher=Pacific Linguistics |isbn=0-85883-472-3 |series=Pacific Linguistics |volume=Series C-138 |location=Canberra |doi=10.15144/PL-C138 |hdl=1885/146186}}</ref>
+<ref name="mosel1999">{{Cite encyclopedia |last=Mosel |first=Ulrike |author-link=Ulrike Mosel |editor1-last=Hovdhaugen |editor1-first=Even |editor1-link=Even Hovdhaugen |editor2-last=Mosel |editor2-first=Ulrike |editor2-link=Ulrike Mosel |encyclopedia=Negation in Oceanic Languages: typological studies |title=Towards a typology of negation in Oceanic languages |date=1999 |publisher=LINCOM EUROPA |publication-place=München |series=LINCOM studies in Austronesian linguistics |volume=2 |isbn=3-89586-602-4 |pages=1–19}}</ref>
+<ref name="crowley2001">{{Cite book |date=2001-12-21 |last1=Crowley |first1=Terry |author1-link=Terry Crowley (linguist) |last2=Lynch |first2=John |author2-link=John Lynch (linguist) |last3=Ross |first3=Malcolm |author3-link=Malcolm Ross (linguist) |title=The Oceanic Languages |publisher=Routledge |series=Routledge Language Family Series |isbn=9781136749858}}</ref>
+<ref name="sil2004">Organised Phonology Data: Mekeo Language. (2004). SIL International, 1-3.</ref>
+<ref name="Aufo2015">{{Cite book| last1 = Aufo| first1 = Rose| last2=Maino | first2 = Rock| last3 = Bullock| first3 = Juliann |title=Tentative Grammar Description for the Mekeo Language |publisher=SIL |year=2015 | url = https://pnglanguages.sil.org/resources/archives/65281| location=Papua New Guinea}}</ref>
+}}
+
+== Further reading ==
+* {{Cite book| last1 = Amala| first1 = Arthur| last2 = Magaiva| first2 = Alphonse| last3 = Deelen| first3 = Leanie van |title=Tentative Grammar Description for the Mekeo Language |publisher=SIL |year=2015 | url = https://pnglanguages.sil.org/resources/archives/65282| location=Papua New Guinea}}
+
+{{Incubator|code=mek}}
+
+{{Papuan Tip languages}}
+{{Austronesian languages}}
+{{Languages of Papua New Guinea}}
+
+[[Category:Languages of Papua New Guinea]]
+[[Category:Central Papuan Tip languages]]

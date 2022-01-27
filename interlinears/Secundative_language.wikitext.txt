@@ -1,0 +1,94 @@
+{{linguistic typology topics}}
+A '''secundative language''' is a language in which the recipients of [[ditransitive verb]]s (which takes a subject and two objects: a ''theme'' and a ''recipient'') are treated like the [[Patient (grammar)|patients]] (targets) of [[monotransitive verb]]s (verbs that take only one object),  and the themes get distinct marking. Secundative languages contrast with ''[[indirective language]]s'', where the recipient is treated in a special way.
+
+While English is mostly not a secundative language, there are some examples. The sentence ''John gave Mary the ball'' uses this construction, where ''the ball'' is the theme and ''Mary'' is the recipient.
+
+The alternative wording ''John presented Mary with the ball'' is essentially analogous to the structure found in secundative languages; ''the ball'' is not the direct object here, but basically a secondary object marked by the preposition ''with''. In German, the prefix ''be-'' (which is sometimes likened to an [[applicative voice]]) can be used to change the [[Valency (linguistics)|valency]] of verbs in a similar way: In ''John schenkte Mary den Ball'', the theme ''Ball'' is the direct object and the recipient ''Mary'' the indirect object (in the dative case); in ''John beschenkte Mary mit dem Ball'', the recipient ''Mary'' is now the direct object and the theme ''Ball'' is now an [[Argument (linguistics)|oblique argument]] (an [[Dative shift|oblique dative]]) marked by the preposition ''mit''.
+
+== Terminology ==
+This language type was called '''dechticaetiative''' in an article by Edward L. Blansitt, Jr.<ref>Blansitt 1984.</ref> (from Greek ''dekhomai'' 'take, receive' and an obscure second element, unlikely ''kaitoi'' 'and indeed'), but that term did not catch on. They have also been called '''anti-ergative''' languages<ref>Comrie 1975, LaPolla 1992.</ref> and '''primary object''' languages.<ref>Dryer 1986.</ref>
+
+== Usage ==
+Ditransitive verbs have two arguments other than the subject: a '''theme''' that undergoes the action and a '''recipient''' that receives the theme (see [[thematic relation]]). In a secundative language, the recipient of a ditransitive verb is treated in the same way as the single object of a monotransitive verb, and this syntactic category is called '''primary object''', which is equivalent to the [[indirect object]] in English. The theme of a ditransitive verb is treated separately and called '''secondary object''', which is equivalent to the [[direct object]].
+
+English is not a true secundative language, as neither the theme nor recipient is primary, or either can be primary depending on context.
+
+A true secundative construction is found in [[West Greenlandic]], the direct object of a monotransitive verb appears in the [[absolutive case]]:<ref>Fortescue 1984:130, cited by Malchukov, et al. 2010.</ref>
+
+{{interlinear|indent=3
+|Piita-p takornartaq toqup-paa
+|Peter-ERG.SG stranger.ABS.SG kill-INT.3S/3S
+|'Did Peter kill the stranger?'}}
+
+In a ditransitive sentence, the recipient appears in absolutive case and the theme is marked with the [[instrumental case]]:
+
+{{interlinear|indent=3
+|(Uuma) Niisi aningaasa-nik tuni-vaa.
+|(that.ERG) Nisi money-INSTR.PL give-IND.3S/3S
+|'He gave Nisi money.'}}
+
+Similarly, in [[Lahu language|Lahu]], both the patient of a monotransitive verb and the recipient of a ditransitive verb are marked with the postposition ''thàʔ'':<ref>Matisoff 1973:156, cited by Dryer 1986.</ref>
+
+{{interlinear|indent=3
+|ŋà thàʔ tâ dɔ̂ʔ
+|1SG OBJ NEG.IMP hit
+|'Don't hit me.'}}
+
+{{interlinear|indent=3
+|lìʔ chi ŋà thàʔ pîʔ
+|book that 1SG OBJ give
+|'Give me that book.'}}
+
+In secundative languages with [[passive voice|passive]] constructions, passivation promotes the primary object to subject.  For example, in [[Swahili language|Swahili]]:<ref>Vitale 1981:130, cited by Malchukov, et al. 2010.</ref>
+
+{{interlinear|indent=3
+|Halima a-li-m-pa zawadi Fatuma.
+|Halima she-PAST-her-give gift Fatuma
+|'Halima gave a gift to Fatuma.'}}
+
+{{interlinear|indent=3
+|Fatuma a-li-p-ew-a zawadi na Halima.
+|Fatuma she-PAST-give-PASS gift by Halima
+|'Fatuma was given a gift by Halima.'}}
+
+the recipient ''Fatuma'' is promoted to subject and not the theme ''zawadi'' 'gift'.
+
+==Use in English==
+Many languages show mixed indirective/secundative behavior. [[English language|English]], which is primarily indirective, arguably contains secundative constructions, traditionally referred to as [[dative shift]]. For example, the passive of the sentence
+
+:John gave Mary the ball.
+
+is
+
+:Mary was given the ball by John.
+
+in which the recipient rather than the theme is promoted to subject.  This is complicated by the fact that some dialects of English may promote either the recipient (''Mary'') or the theme (''the ball'') argument to subject status, and for these dialects '
+
+:The ball was given Mary by John.
+
+(meaning that the ball was given to Mary) is also well-formed.{{Citation needed|date=November 2016}}  In addition, the argument structure of verbs like ''provide'' is essentially secundative: in
+
+:The project provides young people with work.
+
+the recipient argument is treated like a monotransitive direct object.
+
+== Notes ==
+{{reflist}}
+
+== See also ==
+* [[Object (grammar)]]
+* [[Dative]]
+* [[Ergative–absolutive language|Ergativity]]
+* [[Ditransitive verb]]
+* [[Morphosyntactic alignment]]
+
+== References ==
+* Blansitt, E.L. Jr. (1984). "Dechticaetiative and dative". In ''Objects,'' F. Plank (Ed.), 127–150. London: Academic Press.
+* Comrie, Bernard (1975). "Antiergative." ''Papers from the 11th Regional Meeting of the Chicago Linguistic Society'', R. E. Grossman, L. J. San, & T. J. Vance (eds.), 112-121.
+* Dryer, Matthew S. (1986). "[https://www.jstor.org/stable/415173 Primary objects, secondary objects, and antidative]." ''Language'' 62:808-845.
+* Haspelmath, Martin (2013). "Ditransitive Constructions: The Verb 'Give'." In: Dryer, Matthew S. & Haspelmath, Martin (eds.)  ''The World Atlas of Language Structures Online.'' Leipzig: Max Planck Institute for Evolutionary Anthropology.  (Available online at [http://wals.info/chapter/105], Accessed on 2014-03-02.) 
+* LaPolla, Randy (1992). "Anti-ergative Marking in Tibeto-Burman.” ''Linguistics of the Tibeto-Burman Area'' 15.1(1992):1-9.
+* Malchukov, Andrej & Haspelmath, Martin & Comrie, Bernard (eds.) (2010). ''Studies in ditransitive constructions.'' Berlin: De Gruyter Mouton.
+* Trask, R. L. (1993). ''A Dictionary of Grammatical Terms in Linguistics'' Routledge, {{ISBN|0-415-08628-0}}
+
+[[Category:Linguistic typology]]

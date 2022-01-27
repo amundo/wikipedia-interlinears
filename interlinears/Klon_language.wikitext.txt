@@ -1,0 +1,309 @@
+{{Infobox language
+|name=Kelon
+|nativename=Klon
+|states=[[Indonesia]]
+|region=[[Alor Island]], [[East Nusa Tenggara]]
+|speakers=5,000
+|date=2008
+|ref=<ref name="Baird">{{Cite book |title=A grammar of Klon: a non-Austronesian language of Alor, Indonesia |last=Baird |first=Louise |date=2008 |publisher=Pacific Linguistics |series=Pacific Linguistics 596 |doi=10.15144/PL-596 |doi-access=free |hdl=1885/146748 |hdl-access=free |isbn=9780858835986 |location=Canberra |doi-broken-date=31 October 2021 |oclc=1075848434 }}</ref>
+|familycolor=Papuan
+|fam1=[[Trans–New Guinea]] ?
+|fam2=[[West Bomberai languages|West Bomberai]] ?
+|fam3=[[Timor–Alor–Pantar languages|Timor–Alor–Pantar]]
+|fam4=[[Alor–Pantar languages|Alor–Pantar]]
+|fam5=[[Alor languages|Alor]]
+|fam6=West
+|iso3=kyo
+|glotto=kelo1247
+|glottorefname=Klon
+}}
+'''Kelon''', or '''Klon''', (pronounced [kəlon]) is a [[Papuan language]] of the western tip of [[Alor Island]] in the [[Alor archipelago]] of [[East Nusa Tenggara]], [[Indonesia]].<ref name="Baird" />
+
+==Classification==
+Klon is a member of the [[Alor–Pantar languages]], within the [[Timor–Alor–Pantar languages|Timor–Alor–Pantar language family]].<ref name="Holton_Robinson">{{cite book|author1=Holton, Gary|author2=Robinson, Laura C.|editor1-last=Klamer|editor1-first=Marian|contribution=The internal history of the Alor-Pantar language family|title=Alor Pantar languages: History and Typology|date=2014|publisher=Language Sciences Press|location=Berlin|pages=155–98|doi=10.17169/langsci.b22.44}}</ref> Klon is part of the Alor subgroup along with [[Abui language|Abui]], [[Adang language|Adang]], [[Blagar]], [[Woisika language|Kamang]], [[Kui language (Indonesia)|Kui]], [[Sawila language|Sawila]], and [[Wersing language|Wersing]].<ref name="Holton_Robinson" />
+
+Klon is closely related to the [[Adang language]], spoken across [[Kalabahi Bay]] to the north.<ref>{{Cite journal |last1=Robinson |first1=Laura C. |last2=Holton |first2=Gary |date=2012 |title=Internal classification of the Alor-Pantar language family using computational methods applied to the lexicon |journal=Language Dynamics and Change |volume=2 |issue=2 |pages=123–149 |doi=10.1163/22105832-20120201 |hdl-access=free |hdl=11122/1052}}</ref>
+
+==Phonology==
+All the information in this section is from Louise Baird's grammar.<ref name="Baird" /> Klon has 17 consonant phonemes and 13 vowel phonemes.
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+! colspan="2"| &nbsp;
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2"| [[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|
+|{{IPA link|ŋ}}
+|
+|-
+! rowspan="2"| [[Plosive]]
+!{{Small|voiceless}}
+|{{IPA link|p}}
+|{{IPA link|t}}
+|
+|{{IPA link|k}}
+|rowspan=2|{{IPA link|ʔ}}
+|-
+!{{Small|[[Voice (phonetics)|voiced]]}}
+|{{IPA link|b}}
+|{{IPA link|d}}
+|{{IPA link|ɟ}}
+|{{IPA link|g}}
+|-
+! colspan="2"| [[Fricative]]
+|
+|{{IPA link|s}}
+|
+|
+|{{IPA link|h}}
+|-
+! colspan="2"| [[Trill consonant|Trill]]
+|
+|{{IPA link|r}}
+|
+|
+|
+|-
+! colspan="2"| [[Approximant]]
+|
+|{{IPA link|l}}
+|{{IPA link|j}}
+|{{IPA link|w}}
+|
+|}
+
+Aspiration is sometimes produced with voiceless stops. The voiced labio-velar approximant /w/ is infrequently produced as a voiced bilabial fricative [β] by some speakers.
+
+Some of the consonants have a limited distribution. The voiced velar stop /g/ only occurs syllable initially. The voiced velar nasal /ŋ/ only occurs syllable finally. The voiced palatal stop /ɟ/, which only occurs word-finally, in a limited number of words. Some older speakers use the voiced alveolar stop [d] for /ɟ/. The rhotic trill /r/ and the voiceless alveolar fricative /s/ occur both syllable finally and syllable initially. They occur word initially in only a few lexical items each. Some of these lexical items are clearly borrowings. The voiced labio-velar approximant /w/ and the voiced palatal approximant /j/ do not occur syllable-finally.
+
+===Vowels===
+
+====Monophthongs====
+{| class="wikitable" style="text-align:center;"
+|+ [[Monophthong]] phonemes
+! &nbsp;
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}} • {{IPA link|iː}}
+| &nbsp;
+| {{IPA link|u}} • {{IPA link|uː}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPA link|e}}
+| &nbsp;
+| {{IPA link|o}} • {{IPA link|oː}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| {{IPA link|ɛ}} • {{IPA link|ɛː}}
+| {{IPA link|ə}}
+| {{IPA link|ɔ}}
+|-
+! [[Open vowel|Open]]
+| &nbsp;
+| {{IPA link|a}} • {{IPA link|aː}}
+| &nbsp;
+|}
+
+The mid-front unrounded vowel /e/ and the open mid back rounded vowel /ɔ/ occur infrequently. Schwa only occurs in unstressed syllables.
+
+====Diphthongs====
+{| class="wikitable" style="text-align:center;"
+|+'''[[Diphthong]] phonemes'''
+! &nbsp;
+! Closer component<br />is front
+! Closer component<br />is back
+|-
+! Opener component is [[roundedness|unrounded]]
+| {{IPA|aɪ}} • {{IPA|ɛi}}
+| &nbsp;
+|-
+! Opener component is rounded
+| &nbsp;
+| {{IPA|oɪ}} • {{IPA|ui}}
+|}
+
+Diphthongs occur in both open and closed syllables.
+
+==Grammar==
+
+===[[Grammatical relation]]s===
+
+Klon has split-S alignment.<ref name="Klamer">{{Cite journal |last=Klamer |first=Marian |date=2008 |title=Split S in the Indonesian area: forms, semantics, geography |journal=Studies in Philippine Languages and Cultures |volume=17 |pages=98–120}}</ref> The alignment can be considered agentive.<ref name="Baird" /> In Klon, the only argument of an intransitive clause (S) is sometimes treated the same as an agent-like argument of a transitive clause (S<sub>A</sub>=A), and sometimes treated the same as a patient-like argument of a transitive clause (S<sub>O</sub>=O).
+
+Whether S patterns with A or with O depends on the properties of the S argument, as well as the lexical class of the verb. In one class of verbs, S is coded like A, in another class of verbs S is treated as O, and in the third class of verbs, S can align with A or O, depending on the agentive properties of the S argument. The first verb class, the one which invariably aligns S as A, is the largest class. Only the third class of verbs exhibits fluid S alignment.
+
+For the third verb class, when S has characteristics of an Actor, it patterns like A. When it has characteristics of an Undergoer, (more specifically, when S is an affected participant, but not a volitional and controlling participant) it patterns like O.
+
+The argument of an intransitive may be realized in several ways. A full NP can be used alone, a full NP can be used in combination with a pronoun, or only a pronoun can be used. In all cases the free pronoun is only used with S<sub>A</sub> arguments, and the bound pronoun with S<sub>O</sub> arguments. Grammatical relations are not morphologically indicated when arguments are full NPs. Klon has multiple pronominal paradigms. Free pronouns mark A and S<sub>A</sub> arguments, while bound pronouns indicate O and S<sub>O</sub> arguments.
+
+In example 1 below, the A argument is indicated by the free pronoun ''ini'', while the O argument instead has the bound pronoun ''g-''.
+
+{{interlinear|number=(1)
+|Koh ini awa g- eh nang.<ref name="Baird" />{{rp|31}}
+|finish 3NSG again 3UND<sub>1</sub>- feed NEG
+|After (that was finished) they didn't feed her any more.}}
+
+In example 2, the S<sub>O</sub> argument is indicated with the bound pronoun ''n-'', and the A argument is represented by the free pronoun ''na''.
+
+{{interlinear|number=(2)
+|Uruut béq ma, n- edan, na ete hil agai.<ref name="Baird" />{{rp|31}}
+|deer pig come 1SG.UND<sub>1</sub>- scared lSG.ACT tree climb go
+|Deer and pig came, I was scared, I climbed a tree.}}
+
+In example 3, S<sub>A</sub> is indicated by the free pronoun ''ini''.
+
+{{interlinear|number=(3)
+|Nang, ini hok waa nang.<ref name="Baird" />{{rp|31}}
+|NEG 3NSG IRR go NEG
+|No, they didn't go.}}
+
+'''Anaphoric co-reference'''
+
+When co-referring A and S<sub>A</sub> arguments occur in paratactically conjoined clauses, the argument in the second clause can be either reduced to a pronoun or deleted.
+
+{{interlinear|number=(4)
+|A ne- uur, koh bo ∅ u- agar.<ref name="Baird" />{{rp|36}}
+|2SG.ACT 1SG.UND<sub>4</sub>- see finish SEQ ∅ VI- laugh
+|A O V ∅ V
+|You saw me then (you) laughed.}}
+
+Similarly, co-referring O and S<sub>O</sub> arguments which occur in paratactically conjoined clauses allow reduction or deletion of the argument in the second clause.
+
+{{interlinear|number=(5)
+|Joni Peter gin{{=}} tendang, koh ho Louise awa gin{{=}} kob.<ref name="Baird" />{{rp|38}}
+|Joni Peter 3UND<sub>3</sub>{{=}} kick finish SIM Louise again 3UND<sub>3</sub>{{=}} hit
+|A O O V A O V
+|Joni kicked Peter then Louise hit him (Peter) again.}}
+
+'''Word order'''
+
+The word order of intransitives is SV.
+
+Transitive clauses can have AOV, OAV, or AVO word order. AOV word order disambiguates the A and O arguments when their animacy is equivalent and which argument is which is not otherwise inferrable from context.
+
+===[[Voice (grammar)|Voice]]===
+
+Papuan languages generally lack active-passive voice distinctions.<ref name="Foley">{{cite book | first = William A. | last = Foley | author-link = William A. Foley | year = 1986 | title = The Papuan Languages of New Guinea | location = Cambridge | publisher = Cambridge University Press | isbn = 0-521-28621-2 | oclc = 13004531 }}</ref> Due to the absence of mention of this topic in Baird's grammar, it is assumed that Klon is a typical Papuan language in this regard.
+
+===[[Valency (linguistics)|Valence]]===
+
+Most verbs can occur in intransitive and transitive constructions. Klon speakers seldom use ditransitive clauses. Only the verb ''en'' 'to give' is always ditransitive (trivalent). In ''en'' constructions, the Primary Undergoer, the recipient, is indicated by a pronominal prefix on the verb; the Secondary Undergoer, the theme, occurs as a full NP.
+
+{{interlinear|number=ex:
+|Bapak ak n- en na kde.<ref name="Baird" />{{rp|35}}
+|father part lSG.UND<sub>1</sub>- give lSG.ACT eat
+|Dad give me some to eat ({{lit}} I eat).}}
+
+'''Valency-decreasing operations'''
+
+The reciprocal marker ''t-/to-/tin-/te-'' indicates that the Actor and Undergoer within a clause are the same referent. Thus, it makes a divalent verb monovalent. The reciprocal marker can only occur with non-singular Actors.
+
+{{interlinear|number=ex:
+|Gi- man ong kantor mi kreyang,<ref name="Baird" />{{rp|106}}
+|3.POSS<sub>2</sub>- father this office be.at work
+|The father worked in an office,}}
+
+{{interlinear|number=ex:
+|ini t- riyang t- muinpuin ma, ho g- ooi i ebeer.
+|3NSG RECP- take.care.of RECP- care.for come SIM 3.POSS<sub>1</sub>- mother DUR die
+|they took care of each other, until their mother died.}}
+
+Noun incorporation also decreases valency in Klon.
+
+'''Valency-increasing operations'''
+
+The verbal prefix ''u-'' increases valency by adding an Undergoer argument. The possible role of the Undergoer includes those of Patient, Theme, Recipient, or Goal.
+
+In the following example, ''ebeer'' 'die' has a single Undergoer NP argument ''doqom'' 'grandfather'.
+
+{{interlinear|number=(1)
+|Karel aan di ma, de bo na o- tuub abang Karel ong di ge dat, aan qada hok yeh nang, bo i- doqom ebeer.
+|Karel 2SG.ACT also come CONJ SEQ 1SG.ACT 2SG.UND<sub>2</sub>- show say Karel this also 3.POSS<sub>F</sub> grandchild 2SG.ACT IPFV IRR CON NEG SEQ 2sG.POSS<sub>2</sub>- grandfather die
+|Karel you also come so that I show you saying Karel here is also his grandchild, you didn't exist yet when your grandfather died<ref name="Baird" />{{rp|96}}}}
+
+In the next example, the Undergoer argument associated with the verb ''ebeer'' 'die' is indicated by a third person pronoun verbal prefix, as well as with a full NP ''Labgei ong'' 'this Labgei'.
+
+{{interlinear|number=(2)
+|Wed usong unu her, nok de, na wo o- tmein, de mde, de uiliik, de Labgei ong pi g- ebeer.
+|now seven market descend good CONJ 1SG.ACT that 2SG.UND<sub>2</sub>- order CONJ ascend CONJ sell CONJ Labgei this 1NSG.INCL.ACT 3UND<sub>1</sub>- die
+|Next week descend to the market and I'll order you to go up and sell so that we can kill this Labegai.<ref name="Baird" />{{rp|96}}}}
+
+Example 3 is similar to example 2, except now only the pronominal prefix is used to indicate the Undergoer.
+
+{{interlinear|number=(3)
+|Nuk mde g- ebeer g- ebeer go- agai man leer g- en.
+|one ascend 3UND<sub>1</sub>- die 3UND<sub>1</sub>- die 3UND<sub>2</sub>- go Mr ruler 3UND<sub>1</sub>- give
+|One ascended killing them and killing them bringing them and giving them to the ruler.<ref name="Baird" />{{rp|96}}}}
+
+Example 4 is in reference to a story about a grandfather beating his grandchildren if they did not get out of bed early in the morning. The speaker uses the inanimate Undergoer argument ''haib'' 'danger', as the reason for dying. ''Hok'' 'some', refers to the people who die. The ''u-'' prefix is used so that ''ebeer'' can take the additional argument ''haib''.
+
+{{interlinear|number=(4)
+|Ho wed a ini gin{{=}} tolong ongo hok haib u- ebeer u- ihin {{=}}e nang?
+|SIM now 2SG.ACT 3NSG 3UND<sub>3</sub>{{=}} help this some danger VI- die VI- lost {{=}}FOC NEG
+|So now you help them like this, do any die from danger or not?<ref name="Baird" />{{rp|97}}}}
+
+The applicative verbal prefix ''mi-'' allows an added Undergoer argument as well, but this Undergoer can only be an Instrument.
+
+{{interlinear|number=(5)
+|Na lam.
+|1SG.ACT walk
+|I'm walking.<ref name="Baird" />{{rp|40}}}}
+
+{{interlinear|number=(6)
+|Na doob mi- lam.
+|1SG.ACT stick APPL- walk
+|I use a stick to walk.<ref name="Baird" />{{rp|40}}}}
+
+These two valency-increasing prefixes cannot co-occur on the same verb.
+
+==Writing system==
+
+The consonant phonemes are written as follows:
+
+* /ʔ/ q
+* /ɟ/ j
+* /ŋ/ ng
+* /j/ y
+
+All other consonants use the same graphemes as IPA.
+
+The short vowel phonemes are written as follows:
+
+* /i/ i
+* /e/ é
+* /ɛ/ e
+* /ə/ ∅ (not written)
+* /o/ o
+* /ɔ/ ò
+* /a/ a
+
+The long vowels are written as double graphemes such as "ee" for /ɛː/.
+
+==References==
+{{Reflist}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+SIM:simultaneous conjunction
+1UND:first person undergoer
+2UND:second person undergoer
+3UND:third person undergoer
+</div><section end="list-of-glossing-abbreviations"/>
+
+== External links ==
+*[http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\tnw\alo&limit=-1 Kelon basic lexicon at the Global Lexicostatistical Database]
+{{Portal|Indonesia|Language}}
+{{West Trans–New Guinea languages}}
+{{Authority control}}
+
+[[Category:Alor–Pantar languages]]
+[[Category:Languages of Indonesia]]

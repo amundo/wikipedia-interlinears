@@ -1,0 +1,524 @@
+{{cleanup lang|date=May 2019}}
+{{Infobox language
+|name=Qʼanjobʼal
+|nativename=''Kanjobal''
+|states=[[Guatemala]]
+|region=[[Huehuetenango Department|Huehuetenango]]
+|ethnicity=  208,000 [[Qʼanjobʼal people|Qʼanjobʼal]] in Guatemala (2019 census)
+|speakers= 180,000: {{sigfig|166,000|2}} in Guatemala
+|date=2015 &ndash; 2019 census
+|ref=e24
+|speakers2={{sigfig|10851|1}} in Mexico (2020 census)<ref name=inegi2020>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+|familycolor=American
+|fam1=[[Mayan languages|Mayan]]
+|fam2=Western Mayan
+|fam3=[[Qʼanjobalan languages|Qʼanjobalan]]
+|fam4=Qʼanjobalan
+|fam5=Kanjobal–Jacaltec
+|iso3=kjb
+|glotto=qanj1241
+|glottorefname=Qʼanjobʼal
+}}
+
+'''Qʼanjobʼal''' ({{IPA-myn|qʼanxoɓal|IPA}}), (also '''Kanjobal''')<ref>Other variant names include ''Santa Eulalia Kanjobal'', ''Kanhobal'', ''Qanjobal'', ''Conob'', and ''Eastern Kanjobal''.</ref> is a [[Mayan language]] spoken primarily in [[Guatemala]] and part of [[Mexico]]. According to 1998 estimates compiled by [[SIL International]] in ''[[Ethnologue]]'', there were approximately 77,700 native speakers, primarily in the [[Huehuetenango Department|Huehuetenango]] Department of Guatemala.<ref>Centered around the ''municipio'' of [[Santa Eulalia, Huehuetenango|Santa Eulalia]]; owing to recent emigrations there are communities of Qʼanjobʼal speakers in the United States (see Gordon (2005).</ref> Municipalities where the Qʼanjobʼal language is spoken include [[San Juan Ixcoy]] (''Yich Kʼox''), [[San Pedro Soloma]] (''Tzʼulumaʼ ''), [[Santa Eulalia, Huehuetenango|Santa Eulalia]] (''Jolom Konobʼ ''), [[Santa Cruz Barillas]] (''Yalmotx''), [[San Rafael La Independencia]], and [[San Miguel Acatán]] (Pedro Mateo Pedro 2010). Qʼanjobʼal is taught in public schools through [[Intercultural bilingual education in Guatemala|Guatemala's intercultural bilingual education programs]].
+
+==Classification==
+Qʼanjobʼal is a member of the Qʼanjobʼalan branch of the Mayan language family. The Mayan language family includes 31 languages, two of which are now extinct. The Qʼanjobʼalan branch includes not only Qʼanjobʼal itself but also [[Chuj language|Chuj]], [[Akatek language|Akatek]], and [[Jakaltek language|Jakaltek]], also spoken in Guatemala. The Qʼanjobʼalan languages are noted for being among the most conservative of the Mayan language family, although they do include some interesting innovations.<ref>Robertson (1992), p.154.</ref>
+
+==Phonology==
+Qʼanjobʼal consists of 26 consonant sounds and 5 vowel sounds. The letters of the alphabet are as follows: 
+<center>a, bʼ, ch, chʼ, e, h, i, j, k, kʼ, l, m, n, o, p, q, qʼ, r, s, t, tʼ, tx, txʼ, tz, tzʼ, u, w, x, xh, y, and ʼ ([[glottal stop]]).</center>
+The <code>ʼ</code> in chʼ, kʼ, qʼ, tʼ, txʼ, and tzʼ represents an ejective or glottalic egressive, i.e., the consonant is accompanied by a puff of air from the glottis.  The letter ''r'' in Qʼanjobʼal has a limited distribution.  It is used mostly in borrowings, primarily in words borrowed from Spanish, such as ''roxax'', rose, from Spanish ''rosa''. It is also used in affect and positional words like ''kʼarari'' 'noise of an old engine or the like', ''jeran'' 'to be in a broken position/form'. The letters ''tx'' and ''x'' represent [[retroflex consonant]]s, pronounced with the tongue curled backward in the mouth. It is believed such retroflection in Qʼanjobʼal is an influence from the [[Mam language|Mamean Mayan languages]].<ref>Robertson (1992), p.58.</ref>{{not in source|date=December 2021}}
+
+{|class="wikitable" style="text-align: center"
+|+Vowels
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+|colspan=2| {{IPA link|a}}
+|}
+
+{|class="wikitable" style="text-align: center"
+|+ Consonants{{sfn|Acker|2016|p=12}}
+!colspan=2|
+! [[Bilabial consonant|Bilabial]]
+!colspan=2| [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Post-<br>alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Velar consonant|Velar]]
+! [[Uvular consonant|Uvular]]
+! [[Glottal consonant|Glottal]]
+|-
+!colspan=2| [[Nasal consonant|Nasal]]
+| {{angbr|m}} {{IPA link|m}}
+|colspan=2| {{angbr|n}} {{IPA link|n}}
+|
+|
+|
+|
+|
+|-
+! rowspan="3" | [[Plosive]]/<br>[[Affricate]]
+! <small>plain</small>
+| {{angbr|p}} {{IPA link|pʰ}}
+| {{angbr|t}} {{IPA link|tʰ}}
+| {{angbr|tz}} {{IPA link|tsʰ}}
+| {{angbr|ch}} {{IPA link|tʃʰ}}
+| {{angbr|tx}} {{IPA link|ʈʂʰ}}
+| {{angbr|k}} {{IPA link|kʰ}}
+| {{angbr|q}} {{IPA link|qʰ}}
+| {{angbr|ʼ}} {{IPA link|ʔ}}
+|-
+! <small>[[Ejective consonant|ejective]]</small>
+|
+| {{angbr|tʼ}} {{IPA link|tʼ}}
+| {{angbr|tzʼ}} {{IPA link|tsʼ}}
+| {{angbr|chʼ}} {{IPA link|tʃʼ}}
+| {{angbr|txʼ}} {{IPA link|ʈʂʼ}}
+| {{angbr|kʼ}} {{IPA link|kʼ}}
+| {{angbr|qʼ}} {{IPA link|qʼ}}
+|
+|-
+!<small>[[Implosive consonant|implosive]]</small>
+|{{angbr|bʼ}} {{IPA link|ɓ}}
+| colspan="2" |
+|
+|
+|
+|
+|
+|-
+!colspan=2| [[Fricative]]
+|
+|colspan=2| {{angbr|s}} {{IPA link|s}}
+| {{angbr|xh}} {{IPA link|ʃ}}
+| {{angbr|x}} {{IPA link|ʂ}}
+| {{angbr|j}} {{IPA link|x}}
+|
+|
+|-
+!colspan=2| [[Approximant]]
+| {{angbr|w}} {{IPA link|v}}
+|colspan=2| {{angbr|l}} {{IPA link|l}}
+| {{angbr|y}} {{IPA link|j}}
+|
+| {{angbr|w}} {{IPA link|w}}
+|
+|
+|-
+!colspan=2| [[Flap consonant|Flap]]
+|
+|colspan=2| {{angbr|r}} {{IPA link|ɾ}}
+|
+|
+|
+|
+|
+|}
+
+===Stress===
+Primary stress in Qʼanjobʼal is fairly simple. Words in isolation and in final phrase boundaries bear stress on the last syllable. However, words within a phrasal unit (not in final phrase boundary) bear stress on their first syllable.
+
+==Morphology and syntax==
+===Verbs===
+As in all Mayan languages, Qʼanjobʼal classifies all [[verb]]s as either inherently ''intransitive'' (calling up only one argument) or as inherently ''transitive'' (calling up two arguments).<ref>Robertson (1992), p.50.</ref> Qʼanjobʼal is an [[ergative–absolutive language]], in which the [[Subject (grammar)|subject]] of a [[transitive verb]] takes an ergative affix, while the subject of an [[intransitive verb]], as well as the [[Object (grammar)|object]] of a transitive verb, takes an absolutive affix.
+
+There are two sets of [[affix]]es for ergative: the first set is used for those verbal roots beginning with a consonant, and the second set is used for those beginning with a vowel.
+
+{| class="wikitable"
+|+ Ergative prefixes
+|-
+|
+| colspan="2" | verbal roots beginning with a consonant
+| colspan="2" | verbal roots beginning with a vowel
+|-
+!
+! Singular || Plural
+! Singular || Plural
+|-
+! 1st person
+| hin-
+| ko-
+| w-
+| j-
+|-
+! 2nd person
+| ha-
+| he-
+| h-
+| hey-
+|-
+! 3rd person
+| s-/Ø-
+| s-/Ø-
+| y-
+| y-
+|}
+
+{{interlinear|number=ex:
+|X-Ø-inmaqʼ naq winaq. 
+|COMP-A3S-E1S-hit CL:masc man
+|'I hit the man.' (Mateo 2008: p.c.)}}
+
+Ergative affixes are also used for [[possession (grammar)|possession]].
+
+{{interlinear|number=ex:
+|'''w-'''aqan
+|E1S-foot
+|'my foot'}}
+
+{{interlinear|number=ex:
+|'''s-'''qʼab
+|E3S-hand
+|'his/her hand'}}
+
+There is only one set of absolutive affixes with two variations: pronounced like free words or attached to something else. Note that the third person absolutive affix is Ø, i.e., unmarked or empty.
+
+{| class="wikitable"
+|+ Absolutive affixes
+|-
+| 
+| colspan="2" | when attached to preceding sounds
+| colspan="2" | not attached to a preceding sound
+|-
+!
+! Singular || Plural
+! Singular || Plural
+|-
+! 1st person
+| -in
+| -on
+| hin
+| hon
+|-
+! 2nd person
+| -ach
+| -ex
+| hach
+| hex
+|-
+! 3rd person
+| -Ø
+| -Ø...(hebʼ)
+| Ø
+| Ø...(hebʼ)
+|}
+
+{{interlinear|number=ex:
+|X-'''in''' way-i. 
+|COMP-A1S sleep-STAT
+|'I slept.' (Mateo 2008: p.c.)}}
+
+However, while verbs are classified as either ergative or absolutive and take their own respective sets of pronoun affixes, this rule is altered in certain cases, such as when a verb becomes progressive:
+
+{{interlinear|number=ex:
+|Ch'''-in''' kuy-w-i.
+|INC-A1S study-SFX-STAT
+|'I study'.<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.76.</ref>}}
+
+but,
+
+{{interlinear|number=ex:
+|Ipan '''hin'''-kuy-w-i.
+|PROG E1S-study-SFX-STAT
+|'I am studying'.<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.76.</ref>}}
+
+===Aspect===
+In Qʼanjobʼal, [[Grammatical aspect|aspect]] (whether an action has been completed or not) is more important than [[Grammatical tense|tense]]. Thus, in most utterances, one will indicate whether the action is incompletive, or whether it is completed, or may happen in the future, in which case it is considered 'unreal', or of [[irrealis mood]], the event still only in the realm of thought or imagination.
+
+====Incompletive====
+''Ch(i)'' is used to indicate that an event is incomplete or ongoing at some time:
+
+{{interlinear|number=ex:
+|'''Chi'''-Ø toj naq unin bʼay y-atut-al kuy-oj.
+|INC-A3S go CL:masc child to E3S-house-ABS study-NZR
+|'The boy goes to school'.<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.154.</ref>}}
+
+====Completive====
+''Max'' or ''x-'' (both forms are used in free variation) are used to indicate that an event is complete:
+
+{{interlinear|number=ex:
+|'''Max'''-ex mulnaj-i.
+|COM-A2P work-STAT
+|'You (pl.) worked.'<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.78.</ref>}}
+
+{{interlinear|number=ex:
+|'''X'''-Ø way-i.
+|COM-A3S sleep-STAT
+|'He/she slept.'<ref>OKMA (2000), p.77.</ref>}}
+
+====Future/Irrealis====
+The prefix ''hoq-'' with the suffix ''-oq'' are used to indicate that the event spoken of has not yet happened, but remains only in the realm of the 'unreal' with only the potential for occurrence in the future:
+
+{{interlinear|number=ex:
+|'''Hoq'''-Ø saqch-oq heb'.
+|IRR-A3 play-IRR A3P
+|'They will play.'<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.76.</ref>}}
+
+====Negative====
+Negative particles include ''kʼam'' and ''manaq'':
+
+{{interlinear|number=ex:
+|'''Kʼam''' chi-Ø y-oche-j.
+|NEG INC-A3S E3S-want-SFX
+|'He/she doesn't want it.'<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.205.</ref>}}
+
+{{interlinear|number=ex:
+|'''Manaq''' ix chi-Ø toj kuy-oj.
+|NEG she INC-A3S go study-NOM
+|'It is not she who goes to study.'<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.203.</ref>}}
+
+====Interrogative====
+Questions can be formed simply by using rising intonation with declarative syntax:
+
+{{interlinear|number=ex:
+|Ch-Ø-oche-j cha-ch kanal-w-i w-etoq?
+|INC-A3S-E2S-SFX INC-A2S dance-SFX-STAT E1S-with
+|'Do you want to dance with me?'<ref>Comunidad Lingüística Qʼanjobʼal (2005), p.202.</ref>}}
+
+There is also a question particle, ''mi'':
+
+{{interlinear|number=ex:
+|Watxʼ '''mi''' ha-kul?
+|good INTER E2S-stomach
+|'Is your stomach good?'}}
+
+(Used as common form of greeting, like English 'How are you?')
+
+===Affixation===
+Many different affixes are used in Qʼanjobʼal, both prefixes and suffixes. Among these are aj-, used to denote the doer or leader of an action: ''ajtzʼibʼ'', ʼwriterʼ (< ''tzʼibʼ'' 'write'), ''ajbʼe'', 'spiritual guide' (< ''bʼe'' 'road'); ''-bʼal'', used to indicate the location where something happens: ''tzombʼal'' 'market' (< ''tzon'' 'buy'); ''-al'', ''-alil'', ''-il'', used to derive abstract nouns from adjectives, adverbs, numerals, transitive verb roots, and nouns: ''syalixhal'' 'his/her smallness' (< ''yalixh'' 'small'); ''swinaqil'' 'husband' (< ''winaq'' 'man'); ''-kʼulal'', to derive nouns from intransitive verbs, adjectives, other nouns, etc.: ''watxkʼulal'' 'friendliness'; ''-oj'', nominalizer, turning verbs into nouns: ''kuyoj'' 'studying' (< ''kuy'' 'study').
+
+===Word order===
+Qʼanjobʼal has a fixed [[word order]]. It follows a [[verb–subject–object]] (VSO) word order.  All changes to this word order are driven by pragmatic or syntactic factors like focus, negation, interrogation, relativization, etc.  These are subject to an ergative–absolutive pattern where arguments cross-referenced by ergative affixes must become absolutives prior to their fronting (focus, negation, etc.).  This results in some possible subject–verb (SV), [[object–verb–subject]] (OVS) orders.  However SVO, SOV and OSV are not possible (or, at least, not attested in any known corpus). The apparent exception is in reflexives and reflexive possessives, where the reflexive phrase ERG-bʼa (noun) or reflexive possessive ERG-noun appears directly following the verb.<ref>{{Cite book|title = The Family of Complex Predicates in Qʼanjobʼal (Maya); Their Syntax and Meaning|last = Mateo Toledo|first = Eladio|year = 2008}}</ref>
+
+===Classifiers===
+Some Qʼanjobʼal nouns require that certain classifiers be used with them.  Among these are ''no''' (animals), ''te'' (trees/wood), ''ix'' (female), ''naq'' (male), ''chʼen'' (stone/metal), ''xim'' (corn), and ''an'' (plants).
+
+{{interlinear|indent=3
+|'''noʼ''' jun chej
+|CL:animal one horse
+|'the horse'}}
+
+{{interlinear|indent=3
+|'''teʼ''' na
+|CL:wood house
+|'the house'}}
+
+{{interlinear|indent=3
+|'''ix''' unin
+|CL:fem child
+|'the girl'}}
+
+{{interlinear|indent=3
+|'''naq''' unin
+|CL:masc child
+|'the boy'}}
+
+{{interlinear|indent=3
+|'''chʼen''' tumin
+|CL:metal money
+|'the money'}}
+
+{{interlinear|indent=3
+|'''an''' kaq
+|CL:plant flower
+|'the flower'}}
+
+===Reduplication===
+Reduplication, or duplication of a root word, is a minor process in the formation of Qʼanjobʼal vocabulary, as in the following:
+
+{{interlinear|indent=3
+|pux-pux
+|'belly of animal'}}
+
+{{interlinear|indent=3
+|txʼa-txʼa
+|'chewing gum'}}
+
+==Vocabulary==
+Qʼanjobʼal consists of groups of [[root]]s that can take affixes. Words are traditionally classified as [[nouns]], [[adjectives]], [[adverbs]], [[intransitive verb|intransitive]] and [[transitive verb|transitive]] [[verb]]s, [[Grammatical particle|particle]]s, and positionals. Positionals are a group of roots which cannot function as words on their own; in combination with affixes they are used to describe relationships of position and location. Particles are words that do not take affixes; they mostly function in adverbial roles, and include such things as [[interrogative particle]]s, affirmative/negative words, markers of time and location, [[Grammatical conjunction|conjunctions]], [[preposition]]s and [[demonstrative]]s.
+
+[[Locative]]s are often formed by placing a noun after a possessed body-part term: ''s-ti bʼe'', 'edge of the road' < 'its-mouth road' and ''s-jolom witz'', 'mountaintop' or 'summit' < 'its-head mountain'. Similarly, compound nouns may be formed by placing a noun after another possessed noun: ''y-atutal kuyoj'', 'school' < 'its-house studying'.
+
+===Numbers===
+{{col-begin|width=auto}}
+{{col-break}}
+* 1. jun
+* 2. kabʼ
+* 3. oxebʼ
+* 4. kanebʼ
+* 5. oyebʼ
+* 6. waqebʼ
+* 7. uqebʼ
+* 8. waxaqebʼ
+* 9. bʼalonebʼ
+* 10. lajonebʼ
+* 11. uslukʼebʼ 
+* 12. kabʼlajonebʼ
+* 13. oxlajonebʼ
+* 14. kanlajonebʼ
+* 15. holajonebʼ
+* 16. waqlajonebʼ
+* 17. uqlajonebʼ
+* 18. waxaqlajonebʼ
+* 19. balonlajonebʼ
+* 20. junkʼal 
+{{col-break|gap=2em}}
+* 21. jun skakʼal
+* 22. kabʼ skakʼal
+* 23. oxebʼ skakʼal
+* 24. kanebʼ skakʼal
+* 25. oyeb skakʼal
+* 26. waqebʼ skakʼal
+* 27. uqebʼ skakʼal
+* 28. waxaqebʼ skakʼal
+* 29. bʼalonebʼ skakʼal
+* 30. lajonebʼ skakʼal
+* 31. uslukʼebʼ skakʼal 
+* 32. kabʼlajonebʼ skakʼal
+* 33. oxlajunebʼ skakʼal
+* 34. kanlajonebʼ skakʼal
+* 35. holajonebʼ skakʼal
+* 36. waqlajonebʼ skakʼal
+* 37. uqlajonebʼ skakʼal
+* 38. waxaqlajonebʼ skakʼal
+* 39. balonlajunebʼ skakʼal
+* 40. kakʼal 
+{{col-break|gap=2em}}
+* 60. oxkʼal ''3x20''
+* 80. kankʼal
+* 100. okʼal
+* 120. waqkʼal
+* 140. uqkʼal
+* 160. waxaqkʼal
+* 180. balonlajonkʼal 
+* 200. lajunkʼal 
+* 400. junkʼalwinaq
+* 800. kakʼalwinaq
+* 2000. okʼalwinaq 
+{{col-end}}
+
+===Common words===
+{| class="wikitable"
+|-
+| anima || person
+|-
+| chʼenej || rock/stone
+|-
+| aʼ ej || water/river
+|-
+| ix || woman
+|-
+| chikay || grandmother
+|-
+| mamin || grandfather
+|-
+| ixim || corn
+|-
+| kaq || red
+|-
+| kʼu || sun/day
+|-
+| mam || father
+|-
+| mis || cat
+|-
+| na || house (also ''atut'')
+|-
+| patej || tortilla
+|-
+| sat kan || sky (''lit''. snake's eye)
+|-
+| son || marimba
+|-
+| te' || tree
+|-
+| txʼi' || dog
+|-
+| txʼotxʼej || land
+|-
+| txʼutx' || mother
+|-
+| unin || child
+|-
+| waykan || star
+|-
+| winaq || man
+|-
+| witz || mountain
+|-
+| xajaw || moon/month
+|-
+| yibʼan qʼinal || Earth/world
+|-
+| xumak || flower
+|}
+
+==Abbreviations used==
+ABS abstractivizer<br />
+CL  classifier<br />
+COM complete<br />
+INC incomplete<br />
+INT interrogative<br />
+IRR irrealis<br />
+NEG negative<br />
+NZR nominalizer<br />
+PL plural<br />
+PROG progressive<br />
+SFX suffix<br />
+STAT status
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+COMPL:completive
+COM:Completive
+A3S:Third-person singular absolutive
+E1S:First-person singular ergative
+A1S:First-person singular absolutive
+E3S:Third-person singular ergative
+SFX:Status suffix
+INC:Incompletive
+A2S: Second-person singular absolutive
+E2S: Second-person singular ergative
+A3: Third-person absolutive
+INTER:Interrogative
+A2P: Second-person plural absolutive
+A3P: Third-person plural absolutive
+NZR:Nominalizer
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin|indent=yes}}<!--BEGIN biblio format. --> 
+* {{cite thesis |last=Acker |first=An Michelle |year=2016 |title=Voice and Valence in Qʼanjobʼal |type=PhD dissertation |location=Los Angeles |publisher=University of California |url=https://escholarship.org/uc/item/4mk3j9sr |accessdate=28 December 2021}}
+* {{cite book|author=Comunidad Lingüística Qʼanjobʼal|year=2005|title=Gramática descriptiva qʼanjobʼal = Yaqʼbʼanil stxolilal tiʼ qʼanjobʼal|publisher=[[Academia de Lenguas Mayas de Guatemala]] (ALMG), Comunidad Lingüística Qʼanjobʼal|location=Guatemala City|oclc=70631325|language=es}}
+* {{cite book|author=Oxlajuuj Keej Mayaʼ Ajtzʼiibʼ [OKMA]|author-link=Oxlajuuj Keej Mayaʼ Ajtzʼiibʼ|year=2000|title=Variación dialectal en qʼanjobʼal = Skʼexkixhtaqil yallay koqʼanej|others=Saaqjumay [Sonia Raymundo González], Adán Francisco Pascual, Pedro Mateo Pedro, and Bʼalam Qʼuqʼ [Eladio Mateo Toledo] (authors/contribs.), [[Nora C. England]] (advisor), Guisela Ascensio Lueg (Spanish revision)|series=Informes de variación dialectal series|location=Guatemala City|publisher=[[Cholsamaj]]|isbn=99922-53-08-8|oclc=49332799|language=es}}
+*Lichtman, Karen (2010). [https://www.ideals.illinois.edu/bitstream/handle/2142/17090/SLS2010-01Lichtmanetal.pdf ''IPA illustration of Q’anjob’al'']. University of Illinois at Urbana-Champaign.
+*Mateo Pedro, Pedro (2010). ''The acquisition of verb inflection in Qʼanjobʼal Maya: a longitudinal study''. Ph.D. dissertation, University of Kansas.
+* {{cite book|author=Robertson, John S.|year=1992|title=The History of Tense/Aspect/Mood/Voice in the Mayan Verbal Complex|publisher=[[University of Texas Press]]|location=Austin|isbn=0-292-72075-0|oclc=26160695|url-access=registration|url=https://archive.org/details/historyoftenseas00robe}}
+{{refend}} <!-- END biblio format style -->
+
+==External links==
+* [http://www.almg.org.gt/UserFiles/File/index.htm Comunidad Lingüística Qʼanjobʼal], community/sub-committee for Qʼanjobʼal at Academia de Lenguas Mayas de Guatemala [ALMG]
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0226 Qʼanjobʼal (Maya)]
+
+{{Languages of Guatemala}}
+{{Mayan languages}}
+
+[[Category:Agglutinative languages]]
+[[Category:Languages of Guatemala]]
+[[Category:Huehuetenango Department]]
+[[Category:Mayan languages]]
+[[Category:Mesoamerican languages]]
+[[Category:Articles citing INALI]]
+[[Category:Verb–object–subject languages]]

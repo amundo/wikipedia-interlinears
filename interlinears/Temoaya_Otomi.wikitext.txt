@@ -1,0 +1,272 @@
+{{Infobox language
+|name=Temoaya Otomi
+|altname=Toluca Otomí<br>Otomi de San Andrés Cuexcontitlan 
+|nativename= ''Ñatho''
+|region=[[Mexico]]:[[Mexico (state)|Mexico state]]
+|speakers= 37,000
+|date=1990 census
+|ref=e18
+|familycolor=American
+|fam1=[[Otomanguean languages|Oto-Manguean]]
+|fam2=[[Oto-Pamean languages|Oto-Pamean]]
+|fam3=[[Otomian]]
+|fam4=Southwestern
+|agency=[[Secretaría de Educación Pública]]
+|iso3=ott
+|glotto=temo1245
+|glottorefname=Temoaya Otomi
+|dia1=Temoaya
+|dia2=Toluca
+}}
+
+'''Temoaya Otomi''', also known as '''Toluca Otomi''' or '''Otomi of San Andrés Cuexcontitlan''', is a variety of the [[Otomi language]] spoken in [[Mexico]] by ca. 37,000 people in and around the municipality of [[Temoaya]], and in three communities within the municipality of [[Toluca]]: San Andrés Cuexcontitlán, San Pablo Autopan and San Cristobal Huichochitlan. The two varieties are quite different. The speakers themselves call the language ''Ñatho''.<ref>Lastra (2006:57)</ref> Lastra (2001) classifies it as a southwestern dialect along with the dialects of Mexico state. Lastra also notes that the endangered Otomí dialect of San Felipe in eastern [[Michoacán]] is most similar to the Otomí spoken in San Andrés Cuexcontitlan.
+
+==Grammar==
+
+===Pronominal system===
+The pronominal system of Toluca Otomi distinguish four persons: 1st inclusive and exclusive, second and third and three numbers singular, dual and plural.<ref>Lastra (1992:19)</ref>
+
+{| class="wikitable"
+!  !! Singular!! Dual!! Plural
+|-
+! 1st person Incl.
+|*
+|''nugó-bé'' <br> "you and I"
+|''nugó-hé'' <br> "I and you guys"
+|-
+! 1st Person Excl.
+|''nugó'' <br> "I"
+|''nugó-wí'' <br> "we two (not you)"
+|''nugó-hɨ´'' <br> "We all (not you)"
+|-
+! 2nd Person
+|''nukʔígé'' <br> "you"
+|''nukʔígé-wí'' <br> "you two"
+|''nukʔígé-gɨ´'' <br> "you guys"
+|-
+! 3rd Person
+|''gégé'' <br> "she/he/it"
+|''nugégé-wí'' <br> "the two of them"
+|''nugégé-hɨ´'' <br> "they"
+|}
+
+===Nouns===
+Otomi nouns are inflected for possession. The particular pattern of possessive inflection is widespread throughout the [[Mesoamerican Linguistic Area]]. A possessed noun is prefixed with a morpheme agreeing in person with the possessor. If the possessor is plural or dual the nouns is also marked with a suffix agreeing with the possessor's number. Below is given the inflectional paradigm for the word /''ngų''´/ "house".<ref>Lastra (1992:18-19)</ref>
+
+{| class="wikitable"
+!  !! Singular!! Dual!! Plural
+|-
+! 1st person Excl.
+|*
+|''mą-ngų´-bé'' <br> "Our house (me and him/her)"
+|''mą-ngų´-hé'' <br> "Our house (me and them)"
+|-
+! 1st Person Incl.
+|''mą-ngų´'' <br> "my house"
+|''mą-ngų´-wí'' <br> "Our house (me and you)"
+|''mą-ngų´-hɨ´'' <br> "Our house (me and you and them)"
+|-
+! 2nd Person
+|''ri-ngų´'' <br> "your house"
+|''ri-ngų´-wí'' <br> "you two's house"
+|''ri-ngų´-hɨ´'' <br> "you guys' house"
+|-
+! 3rd Person
+|''rʌ-ngų´'' <br> "her/his/its house"
+|''yʌ-ngų´-wí'' <br> "the house of the two of them"
+|''yʌ-ngų´-hɨ´'' <br> "their house"
+|}
+
+====Articles====
+Plurality of nouns is expressed with articles preceding the noun, ''rʌ'' "the (singular)" or ''yʌ'' "the (dual/plural)":
+
+{| class="wikitable"
+!Singular!! Dual!! Plural
+|-
+|''rʌ ngų´'' <br> "the house"
+|''yʌ yóho ngų´'' <br> "the two houses"
+|''yʌ ngų´'' <br> "the houses"
+|}
+
+===Verbs===
+On verbs all of the categories of person of subject, tense, aspect and mood are marked by the means of a single prefix on each verb. The categories distinguished are [[Present tense|Present]], [[Preterit]], [[perfect (grammar)|Perfect]], [[Imperfect]], [[Future tense|Future]], [[Pluperfect]], two different [[Subjunctive]]s, present and past [[Progressive aspect|Continuative]] and [[Imperative mood|Imperative]]. On transitive verbs Person of object is inflected by a suffix. If either subject or object is dual or plural it is shown with a plural suffix following the object suffix.
+
+The structure of the Otomi verb is as follows:
+{|class="wikitable" style="text-align:center; width:75%; height:50px" border="1"
+|-
+|Person of Subject/T/A/M
+|Misc. prefix (e.g. adverbial)
+|Root
+|Object suffix
+|Plural/Dual suffix
+|}
+
+====Person, Number, Tense, Aspect and Mood====
+The present tense prefixes are di- (1st person), gi- (2nd person), i- (3rd person).
+
+{| class="wikitable"
+!  !! Singular!! Dual!! Plural
+|-
+! 1st person Excl.
+|*
+|''di-nú-bé'' <br> "we see (me and him/her)"
+|''di-nú-hé'' <br> "we see (me and them)"
+|-
+! 1st Person Incl.
+|''di-nú'' <br> "I see"
+|''di-nú-wí'' <br> "We see(me and you)"
+|''mdi-nú-hɨ´'' <br> "We see (me and you and them)"
+|-
+! 2nd Person
+|''gi-nú'' <br> "you see"
+|''gi-nú-wí'' <br> "You two see"
+|''gi-nú-hɨ´'' <br> "You guys see"
+|-
+! 3rd Person
+|''gi-nú'' <br> "she/he/it sees"
+|''gi-nú-wí'' <br> "the two of them see"
+|''gi-nú-hɨ´'' <br> "they see"
+|}
+
+The [[preterite]] uses the prefixes ''do''-, ''go''- and ''bi''-, perfect uses ''to''-, ''ko''-, ''ʃi''-, imperfect uses ''dimá'', ''gimá'', ''mi'', future uses ''go''-, ''gi''- and ''da''- and pluperfect ''tamą''-, ''kimą''-, ''kamą''-. All tenses use the same suffixes for dual and plural numbers and clusivity as the present tense, from here on only the singular forms will be given. The difference between preterit and imperfect is similar to the distinction between the [[Spanish grammar|preterit]] in [[Spanish language|Spanish]] ''habló'' "he spoke (punctual)" and the imperfect ''hablaba'' "he spoke/He used to speak/he was speaking (non-punctual)".
+
+{| class="wikitable"
+!  !!Preterite!! Perfect!! Imperfect!! Future Tense!! Pluperfect
+|-
+!1st Person singular
+|''do-nú'' <br> "I saw (punctual)"
+|''to-nú'' <br> "I have seen"
+|''dimá-nú'' <br> "I saw (non-punctual)"
+|''go-nú'' <br> "I will see"
+|''tamą-nú'' <br> "I had seen"
+|-
+! 2nd Person singular
+|''go-nú'' <br> "you saw (punctual)"
+|''ko-nú'' <br> "you have seen"
+|''gimá-nú'' <br> "you saw (non-punctual)"
+|''gi-nú'' <br> "you will see"
+|''kimą-nú'' <br> "you had seen"
+|-
+! 3rd Person Singular
+|''bi-nú'' <br> "she/he/it saw (punctual)"
+|''ʃi-nú'' <br> "she/he/it has seen"
+|''mi-nú'' <br> "you saw (non-punctual)"
+|''da-nú'' <br> "She/he/it will see"
+|''kamą-nú'' <br> "she/he/it had seen"
+|}
+
+In Toluca Otomi the semantic difference between the two subjunctive forms (A and B) are not easily defined according to Lastra sometimes Subjunctive B has a meaning that is more recent in time than Subjunctive A. Both have the meaning of something counterfactual. The past and present progressive are similar in meaning to English was and is X-ing respectively. The imperative is for issuing direct orders.
+
+{| class="wikitable"
+!  !!Subjunctive A!! Subjunctive B!! Present progressive!! Past Progressive!! Imperative
+|-
+!1st Person singular
+|''(n)gwa-nú'' <br> "I would have seen"
+|''kwa-nú'' <br> "I would have seen"
+|''drʌ-nú'' <br> "I am seeing"
+|''ndrʌ-nú'' <br> "I was seeing"
+|*
+|-
+! 2nd Person singular
+|''(n)gwi-nú'' <br> "you would have seen"
+|''kwi-nú'' <br> "you would have seen"
+|''grʌ-nú'' <br> "you are seeing"
+|''dgrʌ-nú'' <br> "you were seeing"
+|''nú'' <br> "See!"
+|-
+! 3rd Person Singular
+|''(n)di-nú'' <br> "she/he/it would have seen"
+|''trʌ-nú'' <br> "she/he/it would have seen"
+|''rʌ-nú'' <br> "she/he/it is seeing"
+|''mbrʌ-nú'' <br> "She(he/it was seeing"
+|*
+|}
+
+Verbs expressing movement towards the speaker such as ''ʔįhį'' "come" use a different set of prefixes for marking person/T/A/M. These prefixes can also be used with other verbs to express "to do something while coming this way". In Toluca Otomi ''mba''- is the third person singular imperfect prefix for movement verbs.
+
+{{interlinear|indent=3
+|mba-tųhų
+|3/MVMT/IMPERF-sing
+|"he came singing"<ref name="Lastra 1992:24">Lastra (1992:24)</ref>}}
+
+To form [[Predicate (grammar)|predicates]] from nouns the subject prefixes are simply added to the noun root:
+
+{{interlinear|indent=3
+|drʌ-môkhá
+|I/PRES/{{gcl|CONT|continuative}}-priest
+|"I am a priest"<ref name="Lastra 1992:24"/>}}
+
+====Transitivity and stative verbs====
+Transitive verbs are inflected for agreement with their objects by means of suffixes, while using the same agent prefixes as the intransitive verbs to agree with their arguments. However in all dialects a few intransitive verbs take the object suffix instead of the agent prefix, usually these intransitive verbs are stative, i.e. describing a state. This has led to the interpretation that in Otomi [[morphosyntactic alignment]] is split between [[active–stative]] and [[accusative]] systems.<ref name="Palancar">Palancar (2008)</ref>
+
+In Toluca Otomi the object suffixes are -''gí'' (1st person), -''kʔí'' (2nd person) and -''bi'' (3rd person), but the vowel /i/ may [[Vowel harmony|harmonize]] to /e/ when suffix to a root containing /e/. The first person suffix has is realized as ''-kí'' after [[sibilant]]s and after certain verb roots, and -''hkí'' when used with certain other verbs. The 2nd person object suffix may sometimes [[Metathesis (linguistics)|metathesis]]e to -''ʔkí''.The third person suffix also has the [[allomorph]]s -''hpí/-hpé'', -''pí'', -''bí'', and sometimes 3rd person objects is marked with a [[zero morpheme]].
+
+{| class="wikitable"
+! 1st person object!! 2nd person object!! 3rd person object
+|-
+|{{interlinear|bi-ñús-kí|he/PAST-write-me|"he wrote me"}}
+|{{interlinear|bi-ñús-kʔí|he/PAST-write-you|"he wrote you"}}
+|{{interlinear|bi-kré-bi|he/PAST-believe-it|"he believed it"}}
+|-
+|{{interlinear|bi-nú-gí|he/PAST-see-me|"he saw me"}}
+|{{interlinear|bi-nú-kʔí|he/PAST-see-you|"he saw you"}}
+|{{interlinear|bi-hkwáhti-bí|he/she/PAST-hit-him/her|"she/he hit him/her"}}
+|}
+
+Plural and dual number of object is marked by the same suffixes as the subject, in some cases leading to ambiguity about the respective numbers of subject and object. With object suffixes of the first or second person some times the verbal root changes, often dropping final vowels.
+
+{| class="wikitable"
+! dual object/subject!! plural object/subject
+|-
+|{{interlinear|bi-ñaʃ-kʔí-wí|he/PAST-cut.hair-you-DU|"the two of them cut your hair" or "he cut the hair of the two of you"}}
+|{{interlinear|bi-ñaʃ-kí-hɨ´|he/PAST-cut.hair-you-PL|"they cut my hair" or "he cut our hair"}}
+|}
+
+A class of words that describe properties or states have been described either as adjectives<ref name="Lastra">Lastra (1992)</ref> or as [[stative verb]]s.<ref>Palancar (2006, 2008)</ref> This wordclass consists of words with a meaning of attributing a property to an entity, e.g. "the man is tall", "the house is old". Within this class some roots use the normal subject/T/A/M prefixes, while others always use the object suffixes to encode the person of the patient/subject. The fact that they use the same suffixes that are used to encode the patient/objects of transitive verbs to encode the patient/subject of the predicate has been interpreted as a trait of [[Active–stative language|Split intransitivity]].<ref name="Palancar" /> This phenomenon occurs in all dialects, but which Stative verbs the object prefixes, and how many take, vary between dialects. In Toluca Otomi most stative verbs are conjugated using a set of suffixes similar to the object/patient suffixes and a third person subject prefix, while only a few use the present continuative subject prefixes. The following examples of the two kinds of stative verb conjugation in Toluca Otomi.<ref name="Lastra" />
+
+{| class="wikitable"
+! with patient/object suffix!! with subject/agent prefix
+|-
+|{{interlinear|rʌ-nô-hkʔí|it/PRES-fat-me|"I am fat"}}
+|{{interlinear|drʌ-dôtʔî|I/PRES/{{gcl|CONT|continuative}}-short|"I am short"}}
+|}
+
+====Other affixes====
+Temoaya Otomi also allow different kinds of [[adverb]]ial meanings to be inflected on the verb.
+
+From Toluca Otomi examples of adverbial affixes are:
+*''bí''- An [[Evidentiality|evidential]] prefix used about progressive events being witnessed by the speaker (It only exists in third person singular):
+{{interlinear|indent=3
+|kʔʌ rʌ ʃùa ya bì-pɛphí
+|IND the Juán now ''bí''-work
+|"Juan is working now (I see)"}}
+*''ga''- A prefix expressing two simultaneous events or one event immediately preceding another. Also has the second person ''ngo''-:
+{{interlinear|indent=3
+|bɨ ga-thô rʌ-tá mbrʌ-mí-thó
+|when ''ga''-pass.by {} 3/PAST/{{gcl|CONT|continuative}}-sit-COMPL
+|"When his father came by he was already sitting"}}
+*''ndɨ''- A prefix expressing that something was done well or a lot:
+{{interlinear|indent=3
+|do-ndɨ-chú
+|1/PERF-''ndɨ''-scared
+|"I got really scared"}}
+
+Other affixes express [[inchoative]] aspect, [[instrumental]] function or purpose. There is also a suffix with the meaning of "mean while"<ref name="Lastra" />
+
+==Notes==
+<references />
+
+==References==
+{{refbegin|indent=yes}}
+*{{cite journal|doi=10.1086/464047|author=Andrews, Henrietta   |year=1949|title=Phonemes and Morphophonemes of Temoayan Otomi|journal=International Journal of American Linguistics|volume=15|issue=4|pages=213–222 |s2cid=143776150 }}
+* {{cite book |author=Collin Harguindeguy, Laura   |year=2006 |title=El caso de los exitosos otomíes de Temoaya |url=http://www.coltlax.edu.mx/sintegral/comun/pdf/libros/otomies.pdf |format=PDF, online text reproduction|location=Tlaxcala, México |publisher=[[El Colegio de Tlaxcala]] |isbn=970-9871-12-9 |oclc=182581564}}
+*{{cite book|author=Lastra, Yolanda  |author-link=Yolanda Lastra|year=2001|title=Unidad y diversidad de la lengua. Relatos otomíes|publisher=Universidad Nacional Autonoma de México, Instituto de investigaciones Antropológicas|isbn=968-36-9509-4|language=es}}
+*{{cite book|author=Lastra, Yolanda  |author-link=Yolanda Lastra|year=2006|title=Los Otomies - Su lengua y su historia|publisher=Universidad Nacional Autonoma de México, Instituto de investigaciones Antropológicas|isbn=978-970-32-3388-5|language=es}}
+*{{cite book|author=Lastra, Yolanda  |author-link=Yolanda Lastra|year=1992|title=El Otomí de Toluca|publisher=Universidad Nacional Autonoma de México, Instituto de investigaciones Antropológicas|isbn=968-36-2260-7|language=es}}
+*{{cite book|author=Lastra, Yolanda  |author-link=Yolanda Lastra|year=1989|title=Otomi de San Andrés Cuexcontitlan, Estado de México|publisher=Archivo de Lenguas Indígenas|url=http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED378799|format=PDF|isbn=968-12-0411-5|language=es}}
+{{refend}}
+
+{{Oto-Pamean languages}}
+{{Oto-Manguean languages}}
+
+[[Category:Otomi language]]

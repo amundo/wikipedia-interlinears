@@ -1,0 +1,1459 @@
+{{Short description|Austroasiatic language originating in Vietnam}}
+{{Infobox language
+| name             = Vietnamese
+| nativename       = {{lang|vi|Tiếng Việt}}
+| ethnicity        = [[Vietnamese people]]
+| pronunciation    = {{IPA-vi|tǐəŋ vìəˀt|}} (Northern)<br/>{{IPA-vi|tǐəŋ jìək|}} (Southern)
+| states           = [[Vietnam]]<br/>[[China]] <small>([[Dongxing, Guangxi]])</small>
+| speakers         = 76 million
+| date             = 2009
+| ref              = e22
+| familycolor      = Austroasiatic
+| fam2             = [[Vietic languages|Vietic]]
+| fam3             = [[Viet–Muong]]
+| ancestor         = [[Viet–Muong]]
+| ancestor2        = [[#History|Old Vietnamese]]
+| ancestor3        = [[Middle Vietnamese]]
+| script           = [[Latin script|Latin]] ([[Vietnamese alphabet]])<br/>[[Vietnamese Braille]]<br/>[[Chữ Hán]] (historic)<br/>[[Chữ Nôm]] (historic)</small>
+| nation           = {{Flag|Vietnam}}
+----
+{{Flag|ASEAN}}<ref>{{cite web|url=http://asean.org/asean/asean-member-states|title=Languages of ASEAN|access-date=7 August 2017}}</ref>
+| minority         = {{Flag icon|Czech Republic}} [[Vietnamese people in the Czech Republic|Czech Republic]]
+<br />
+<!-- |ethnicity=[[Vietnamese people|Kinh]]-->| agency           = 
+| iso1             = vi
+| iso2             = vie
+| iso3             = vie
+| lingua           = 46-EBA<!-- https://web.archive.org/web/20060102201830/http://www.linguasphere.org/major.pdf -->
+| map              = Natively Vietnamese-speaking areas.png
+| mapcaption       = Natively Vietnamese-speaking (non-minority) areas of Vietnam<ref>From ''Ethnologue'' (2009, 2013)</ref>
+| notice           = IPA
+| glotto           = viet1252
+| glottorefname    = Vietnamese Language
+| image            = Tiếng Việt.jpg
+| imagecaption     = Tiếng Việt (Vietnamese Language) with various Vietnamese words, in [[Latin script]]
+}}
+{{Contains special characters|Vietnamese}}
+{{Contains special characters|Chữ Hán}}
+{{Contains special characters|Chữ Nôm}}
+
+'''Vietnamese''' ({{lang-vi|tiếng Việt|links=no}}) is an [[Austroasiatic languages|Austroasiatic language]] that originated in [[Vietnam]], where it is the [[national language|national]] and [[official language]]. Vietnamese is spoken natively by over 70 million people, several times as many as the rest of the Austroasiatic family combined.<ref>{{cite book|last=Driem|first=George van|author-link=George van Driem|title=Languages of the Himalayas, Volume One|url=https://books.google.com/books?id=fiavPYCz4dYC&pg=PA264|year=2001|publisher=BRILL|isbn=90-04-12062-9|page=264|quote=Of the approximately 90 millions speakers of Austroasiatic languages, over 70 million speak Vietnamese, nearly ten million speak Khmer and roughly five million speak Santali.}}</ref> It is the [[native language]] of the [[Vietnamese people|Vietnamese (Kinh) people]], as well as a [[second language|second]] language or [[First language|first]] language for [[List of ethnic groups in Vietnam|other ethnic groups in Vietnam]]. As a result of [[overseas Vietnamese|emigration]], Vietnamese speakers are also found in other parts of Southeast Asia, East Asia, North America, Europe, and Australia. Vietnamese has also been officially recognized as a minority language in the [[Czech Republic]].{{efn|1=Citizens belonging to minorities, which traditionally and on long-term basis live within the territory of the Czech Republic, enjoy the right to use their language in communication with authorities and in front of the courts of law (for the list of recognized minorities see [http://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/ National Minorities Policy of the Government of the Czech Republic], Belorussian and Vietnamese since 4 July 2013, see [http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj Česko má nové oficiální národnostní menšiny. Vietnamce a Bělorusy]). The article 25 of the Czech [[Charter of Fundamental Rights and Basic Freedoms]] ensures right of the national and ethnic minorities for education and communication with authorities in their own language. Act No. 500/2004 Coll. (''The Administrative Rule'') in its paragraph 16 (4) (''Procedural Language'') ensures, that a citizen of the Czech Republic, who belongs to a national or an ethnic minority, which traditionally and on long-term basis lives within the territory of the Czech Republic, have right to address an administrative agency and proceed before it in the language of the minority. In the case that the administrative agency doesn't have an employee with knowledge of the language, the agency is bound to obtain a translator at the agency's own expense. According to Act No. 273/2001 (''About The Rights of Members of Minorities'') paragraph 9 (''The right to use language of a national minority in dealing with authorities and in front of the courts of law'') the same applies for the members of national minorities also in front of the courts of law.}}
+
+Like many other languages in [[Southeast Asia]] and [[East Asia]], Vietnamese is an [[analytic language]] with phonemic [[tone (linguistics)|tone]]. It has [[head-initial]] directionality, with [[subject–verb–object]] order and modifiers following the words they modify. It also uses noun [[classifier (linguistics)|classifier]]s. Its vocabulary has had significant influence from [[Chinese language|Chinese]] and [[French language|French]].
+
+Vietnamese was historically written using {{lang|vi|[[Chữ Nôm]]}}, a [[logographic]] script using [[Chinese characters]] ({{lang|vi|[[Chữ Hán]]}}) to represent [[Sino-Vietnamese vocabulary]] and some native Vietnamese words, together with many locally-invented characters to represent other words.<ref>{{Cite web|url=https://www.britannica.com/art/Vietnamese-literature|title=Vietnamese literature|website=Encyclopedia Britannica|language=en|access-date=2019-04-13}}</ref><ref>{{cite book| last = Li | first = Yu | title = The Chinese Writing System in Asia: An Interdisciplinary Perspective | publisher = Routledge | year=2020 | isbn = 978-1-00-069906-7 | pages = 102–103 }}</ref> [[French Indochina|French colonial rule of Vietnam]] led to the official adoption of the [[Vietnamese alphabet]] ({{lang|vi|Chữ Quốc ngữ}}) which is based on [[Latin script]]. It uses [[Digraph (orthography)|digraphs]] and [[diacritic]]s to mark [[Tone (linguistics)|tone]]s and some phonemes.
+
+==Classification==
+Early [[Comparative method|linguistic work]] some 150 years ago<ref>{{cite web
+  | title = Mon–Khmer languages: The Vietic branch
+  | publisher = SEAlang Projects
+  | url = http://sealang.net/mk/vietic-intro.htm
+  | access-date =November 8, 2006
+}}</ref> classified Vietnamese as belonging to the [[Mon–Khmer languages|Mon–Khmer]] branch of the [[Austroasiatic languages|Austroasiatic language family]] (which also includes the [[Khmer language|Khmer]] language spoken in [[Cambodia]], as well as various smaller and/or [[regional language]]s, such as the [[Munda languages|Munda]] and [[Khasi language|Khasi]] languages spoken in eastern India, and others in [[Laos]], southern China and parts of Thailand). Later, [[Muong language|Muong]] was found to be more closely related to Vietnamese than other Mon–Khmer languages, and a Viet–Muong subgrouping was established, also including [[Thavung language|Thavung]], [[Chut language|Chut]], [[Cuoi language|Cuoi]], etc.<ref>Ferlus, Michel. 1996. Langues et peuples viet-muong. Mon-Khmer Studies 26. 7–28.</ref> The term "Vietic" was proposed by Hayes (1992),<ref name = "Hayes">{{cite journal | last1 = Hayes | first1 = La Vaughn H | year = 1992 | title = Vietic and Việt-Mường: a new subgrouping in Mon-Khmer | journal = Mon-Khmer Studies | volume = 21 | pages = 211–228 }}</ref> who proposed to redefine Viet–Muong as referring to a subbranch of Vietic containing only Vietnamese and [[Muong language|Muong]]. The term "[[Vietic languages|Vietic]]" is used, among others, by [[Gérard Diffloth]], with a slightly different proposal on subclassification, within which the term "Viet–Muong" refers to a lower subgrouping (within an eastern Vietic branch) consisting of Vietnamese dialects, Muong dialects, and [[Nguồn language|Nguồn]] (of [[Quảng Bình Province]]).<ref>Diffloth, Gérard. (1992). "Vietnamese as a Mon-Khmer language". ''Papers from the First Annual Meeting of the Southeast Asian Linguistics Society'', 125–128. Tempe, Arizona: Program for Southeast Asian Studies.</ref>
+
+==History==
+Vietnamese belongs to the Northern (Viet–Muong) clusters of the [[Vietic languages|Vietic]] branch, spoken by the [[Vietic peoples]]. 
+
+In the distant past, Vietnamese shared more characteristics common to other languages in South East Asia and with the Austroasiatic family, such as an inflectional [[morphology (linguistics)|morphology]] and a richer set of [[consonant cluster]]s, which have subsequently disappeared from the language under Chinese influence. Vietnamese is heavily influenced by its location in the [[Mainland Southeast Asia linguistic area]], with the result that it has acquired or converged toward characteristics such as isolating morphology and phonemically distinctive tones, through processes of [[tonogenesis]]. These characteristics have become part of many of the genetically unrelated languages of Southeast Asia; for example, [[Tsat language|Tsat]] (a member of the [[Malayo-Polynesian languages|Malayo-Polynesian]] group within [[Austronesian languages|Austronesian]]), and Vietnamese each developed tones as a phonemic feature.  The ancestor of the Vietnamese language is usually believed to have been originally based in the area of the [[Red River Delta]] in what is now northern Vietnam.<ref name="Sagart 2008">{{citation|last= Sagart|first = Laurent|title= Past human migrations in East Asia: matching archaeology, linguistics and genetics|chapter= The expansion of Setaria farmers in East Asia|chapter-url=https://www.academia.edu/3077307|year= 2008|pages= 141–145}}</ref><ref name="Ferlus 2009">{{cite journal|last1=Ferlus|first1=Michael|title=A Layer of Dongsonian Vocabulary in Vietnamese|journal=Journal of the Southeast Asian Linguistics Society|date=2009|volume=1|page=105|url=https://halshs.archives-ouvertes.fr/halshs-00932218v3/document}}</ref><ref>{{Cite journal|last=Alves|first=Mark|date=2019-05-10|title=Data from Multiple Disciplines Connecting Vietic with the Dong Son Culture|url=https://www.researchgate.net/publication/333720204}}</ref>
+
+Distinctive tonal variations emerged during the subsequent expansion of the Vietnamese language and people into what is now central and southern Vietnam through conquest of the ancient nation of [[Champa]] and the [[Khmer people]] of the [[Mekong Delta]] in the vicinity of present-day [[Ho Chi Minh City]], also known as Saigon.
+
+Vietnamese was primarily influenced by Chinese, which came to predominate politically in the 2nd century BC.  After Vietnam achieved independence in the 10th century, the ruling class adopted [[Classical Chinese]] as the formal medium of government, scholarship and literature.  With the dominance of Chinese came radical importation of Chinese vocabulary and grammatical influence.  A portion of the Vietnamese lexicon in all realms consists of [[Sino-Vietnamese vocabulary|Sino-Vietnamese words]] (They are about a third of the Vietnamese lexicon, and may account for as much as 60% of the vocabulary used in formal texts.{{sfnp|DeFrancis|1977|p=8}})
+
+When France invaded Vietnam in the late 19th century, French gradually replaced Chinese as the official language in education and government. Vietnamese adopted many French terms, such as ''đầm'' (dame, from ''madame''), ''ga'' (train station, from ''gare''), ''sơ mi'' (shirt, from ''chemise''), and ''búp bê'' (doll, from ''poupée'').
+
+[[Henri Maspero]] described six periods of the Vietnamese language:<ref>{{cite journal|title=Études sur la phonétique historique de la langue annamite|trans-title=Studies on the phonetic history of the Annamite language|first=Henri|last=Maspero|journal=Bulletin de l'École française d'Extrême-Orient|year=1912|volume=12|issue=1|page=10|doi=10.3406/befeo.1912.2713|url=http://www.persee.fr/doc/befeo_0336-1519_1912_num_12_1_2713|language=fr}}</ref><ref>{{citation
+| first = Đình-Hoà | last = Nguyễn | chapter = Vietnamese | pages = 677–692
+| title = The World's Major Languages | editor-first = Bernard | editor-last = Comrie
+| publisher = Routledge | edition = 2nd | year = 2009 | isbn = 978-0-415-35339-7
+| postscript = .
+}}</ref>
+#'''Proto-Viet–Muong''', also known as ''Pre-Vietnamese'' or ''Proto-Vietnamuong'', the ancestor of Vietnamese and the related [[Muong language]] (before 7th century AD).
+#'''Proto-Vietnamese''', the oldest reconstructable version of Vietnamese, dated to just before the entry of massive amounts of [[Sino-Vietnamese vocabulary]] into the language, c. 7th to 9th century AD. At this state, the language had three tones.
+#'''Archaic Vietnamese''', the state of the language upon adoption of the [[Sino-Vietnamese vocabulary]] and the beginning of creation of the Vietnamese characters during the Ngô Dynasty, c. 10th century AD.
+#'''Ancient Vietnamese''', the language represented by [[Chữ Nôm]] (c. 15th century), widely used during the Lê and the Chinese–Vietnamese, and the Ming glossary "Annanguo Yiyu" 安南國譯語 (c. 15th century) by the Bureau of Interpreters 会同馆 (from the series ''Huáyí Yìyǔ'' ({{zh|华夷译语}}).  By this point, a [[tone split]] had happened in the language, leading to six tones but a loss of contrastive voicing among consonants.
+#'''Middle Vietnamese''', the language of the ''[[Dictionarium Annamiticum Lusitanum et Latinum]]'' of the Jesuit missionary [[Alexandre de Rhodes]] (c. 17th century); the dictionary was published in Rome in 1651. Another famous dictionary of this period was written by P. J. Pigneau de Behaine in 1773 and published by Jean-Louis Taberd in 1838.
+#'''Modern Vietnamese''', from the 19th century.
+
+===Proto-Viet–Muong{{anchor|Proto-Vietnamese}}===
+The following diagram shows the phonology of Proto-Viet–Muong (the nearest ancestor of Vietnamese and the closely related [[Muong language]]), along with the outcomes in the modern language:<ref name="ferlus1992">
+{{citation
+|last=Ferlus
+|first=Michel
+|title=Histoire abrégée de l'évolution des consonnes initiales du Vietnamien et du Sino-Vietnamien
+|url=https://halshs.archives-ouvertes.fr/halshs-00923038
+|year=1992
+|journal=Mon–Khmer Studies
+|volume=20
+|pages=111–125}}.
+</ref><ref name="ferlus2009">
+{{citation
+|last=Ferlus
+|first=Michel
+|title=A layer of Dongsonian vocabulary in Vietnamese
+|year=2009
+|journal=Journal of the Southeast Asian Linguistics Society
+|volume=1
+|url=https://halshs.archives-ouvertes.fr/halshs-00932218
+|pages=95–109}}.
+</ref><ref name="ferlus1982">
+{{citation
+|last=Ferlus
+|first=Michel
+|title=Spirantisation des obstruantes médiales et formation du système consonantique du vietnamien 
+|url=https://halshs.archives-ouvertes.fr/halshs-01063845
+|year=1982
+|journal=Cahiers de Linguistique Asie Orientale
+|volume=11
+|issue=1
+|pages=83–106
+|doi=10.3406/clao.1982.1105}}.
+</ref><ref name="thompson1976">
+{{citation
+|last=Thompson
+|first=Laurence C.
+|title=Proto-Viet–Muong Phonology
+|journal=Oceanic Linguistics Special Publications
+|volume=13
+|series=Austroasiatic Studies Part II
+|year=1976
+|issue=13
+|pages=1113–1203
+|publisher=University of Hawai'i Press
+|jstor=20019198
+}}.</ref>
+
+:{| class="wikitable"
+|-
+! colspan="2" |
+! [[labial consonant|Labial]]
+! colspan="2" | [[Dental consonant|Dental]]/[[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[glottal consonant|Glottal]]
+|-
+! rowspan="4" | [[Stop consonant|Stop]]
+| style="background: #efefef;" | <small>tenuis</small>
+| *{{IPA|p}} > ''b''
+| *{{IPA|t}} > ''đ''
+|
+| *{{IPA|c}} > ''ch''
+| *{{IPA|k}} > ''k/c/q''
+| *{{IPA|ʔ}} > ''#''
+|-
+| style="background: #efefef;" | <small>voiced</small>
+| *{{IPA|b}} > ''b''
+| *{{IPA|d}} > ''đ''
+|
+| *{{IPA|ɟ}} > ''ch''
+| *{{IPA|ɡ}} > ''k/c/q''
+|
+|-
+| style="background: #efefef;" | <small>aspirated</small>
+| *{{IPA|pʰ}} > ''ph''
+| *{{IPA|tʰ}} > ''th''
+|
+|
+| *{{IPA|kʰ}} > ''kh''
+|
+|-
+| style="background: #efefef;" | <small>implosive</small>
+| *{{IPA|ɓ}} > ''m''
+| *{{IPA|ɗ}} > ''n''
+|
+| *{{IPA|ʄ}} > ''nh'' {{ref|newsounds|1}}
+|
+|
+|-
+! colspan="2" | [[Nasal stop|Nasal]]
+| *{{IPA|m}} > ''m''
+| *{{IPA|n}} > ''n''
+|
+| *{{IPA|ɲ}} > ''nh''
+| *{{IPA|ŋ}} > ''ng/ngh''
+|
+|-
+! colspan="2" | [[Affricate consonant|Affricate]]
+|
+|
+|
+| *{{IPA|tʃ}} > ''x'' {{ref|newsounds|1}}
+|
+|
+|-
+! rowspan="2" | [[Fricative]]
+| style="background: #efefef;" | <small>voiceless</small>
+|
+|
+| *{{IPA|s}} > ''t''
+|
+|
+| *{{IPA|h}} > ''h''
+|-
+| style="background: #efefef;" | <small>voiced</small> {{ref|fricative|2}}
+| *{{IPA|(β)}} > ''v'' {{ref|v|3}}
+| *{{IPA|(ð)}} > ''d''
+| *{{IPA|(r̝)}} > ''r'' {{ref|sigma|4}}
+| *{{IPA|(ʝ)}} > ''gi''
+| *{{IPA|(ɣ)}} > ''g/gh''
+|
+|-
+! colspan="2" | [[Approximant]]
+| *{{IPA|w}} > ''v''
+| *{{IPA|l}} > ''l''
+| *{{IPA|r}} > ''r''
+| *{{IPA|j}} > ''d''
+|
+|
+|}
+
+{{note|newsounds|1}} According to Ferlus, *{{IPA|/tʃ/}} and *{{IPA|/ʄ/}} are not accepted by all researchers.  Ferlus 1992<ref name="ferlus1992"/> also had additional phonemes *{{IPA|/dʒ/}} and *{{IPA|/ɕ/}}.
+
+{{note|fricative|2}} The fricatives indicated above in parentheses developed as allophones of stop consonants occurring between vowels (i.e. when a [[minor syllable]] occurred).  These fricatives were not present in Proto-Viet–Muong, as indicated by their absence in Muong, but were evidently present in the later Proto-Vietnamese stage.  Subsequent loss of the minor-syllable prefixes phonemicized the fricatives.  Ferlus 1992<ref name="ferlus1992"/> proposes that originally there were both voiced and voiceless fricatives, corresponding to original voiced or voiceless stops, but Ferlus 2009<ref name="ferlus2009"/> appears to have abandoned that hypothesis, suggesting that stops were softened and voiced at approximately the same time, according to the following pattern:
+*{{IPA|*p, *b}} > {{IPA|/β/}}
+*{{IPA|*t, *d}} > {{IPA|/ð/}}
+*{{IPA|*s}} > {{IPA|/r̝/}}
+*{{IPA|*c, *ɟ, *tʃ}} > {{IPA|/ʝ/}}
+*{{IPA|*k, *ɡ}} > {{IPA|/ɣ/}}
+
+{{note|v|3}} In [[Middle Vietnamese]], the outcome of these sounds was written with a hooked ''b'' (ꞗ), representing a {{IPA|/β/}} that was still distinct from ''v'' (then pronounced {{IPA|/w/}}).  See below.
+
+{{note|sigma|4}} It is unclear what this sound was.  According to Ferlus 1992,<ref name="ferlus1992"/> in the Archaic Vietnamese period (c. 10th century AD, when [[Sino-Vietnamese vocabulary]] was borrowed) it was *{{IPA|r̝}}, distinct at that time from *{{IPA|r}}.
+
+The following initial clusters occurred, with outcomes indicated:
+* *pr, *br, *tr, *dr, *kr, *gr > {{IPA|/kʰr/}} > {{IPA|/kʂ/}} > ''s''
+* *pl, *bl > MV ''bl'' > Northern ''gi'', Southern ''tr''
+* *kl, *gl > MV ''tl'' > ''tr''
+* *ml > MV ''ml'' > ''mnh'' > ''nh''
+* *kj > ''gi''
+
+A large number of words were borrowed from [[Middle Chinese]], forming part of the [[Sino-Vietnamese vocabulary]].  These caused the original introduction of the retroflex sounds {{IPA|/ʂ/}} and {{IPA|/ʈ/}} (modern ''s'', ''tr'') into the language.
+
+===Origin of the tones===
+
+Proto-Viet–Muong had no tones to speak of.  The tones later developed in some of the daughter languages from distinctions in the initial and final consonants.  Vietnamese tones developed as follows:
+
+:{| class="wikitable" style="text-align:center;"
+|-
+! [[Register (phonology)|Register]]
+! Initial consonant
+! Smooth ending
+! Glottal ending
+! Fricative ending
+|-
+! High (first) register
+| Voiceless
+| A1 ''ngang'' "level"
+| B1 ''sắc'' "sharp"
+| C1 ''ngã'' "tumbling"
+|-
+! Low (second) register
+| Voiced
+| A2 ''huyền'' "deep"
+| B2 ''nặng'' "heavy"
+| C2 ''hỏi'' "asking"
+|}
+
+Glottal-ending syllables ended with a glottal stop {{IPA|/ʔ/}}, while fricative-ending syllables ended with {{IPA|/s/}} or {{IPA|/h/}}.  Both types of syllables could co-occur with a resonant (e.g. {{IPA|/m/}} or {{IPA|/n/}}).
+
+At some point, a [[tone split]] occurred, as in many other [[Southeast Asian languages]].  Essentially, an [[allophonic]] distinction developed in the tones, whereby the tones in syllables with voiced initials were pronounced differently from those with voiceless initials. (Approximately speaking, the voiced [[allotone]]s were pronounced with additional [[breathy voice]] or [[creaky voice]] and with lowered pitch.  The quality difference predominates in today's northern varieties, e.g. in [[Hanoi]], while in the southern varieties the pitch difference predominates, as in [[Ho Chi Minh City]].) Subsequent to this, the plain-voiced stops became voiceless and the allotones became new phonemic tones.  Note that the implosive stops were unaffected, and in fact developed tonally as if they were unvoiced. (This behavior is common to all East Asian languages with implosive stops.)
+
+As noted above, Proto-Viet–Muong had [[sesquisyllabic]] words with an initial [[minor syllable]] (in addition to, and independent of, initial clusters in the main syllable).  When a minor syllable occurred, the main syllable's initial consonant was [[intervocalic]] and as a result suffered [[lenition]], becoming a voiced fricative.  The minor syllables were eventually lost, but not until the tone split had occurred.  As a result, words in modern Vietnamese with voiced fricatives occur in all six tones, and the tonal register reflects the voicing of the minor-syllable prefix and not the voicing of the main-syllable stop in Proto-Viet–Muong that produced the fricative.  For similar reasons, words beginning with {{IPA|/l/}} and {{IPA|/ŋ/}} occur in both registers. (Thompson 1976<ref name="thompson1976"/> reconstructed voiceless resonants to account for outcomes where resonants occur with a first-register tone, but this is no longer considered necessary, at least by Ferlus.)
+
+===Old Vietnamese===
+:{| class="wikitable" style=text-align:center
+|+'''Old Vietnamese Phonology{{sfn|Maasaki|2015|p=143–155}}'''
+|-
+! colspan="2" |
+! [[labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| ''m'' ({{IPAlink|m}})
+| ''n'' ({{IPAlink|n}})
+| ''nh'' ({{IPAlink|ɲ}})
+| ''ng/ngh'' ({{IPAlink|ŋ}})
+| 
+|-
+! rowspan="3" | [[Stop consonant|Stop]]
+| style="background: #f2f2f2;" | <small>[[Tenuis consonant|tenuis]]</small>
+| ''b/v'' ({{IPA|[p b]}})
+| ''d/đ'' ({{IPA|[t ɗ]}})
+| ''ch/gi'' ({{IPAlink|c}})
+| ''c/k/q'' ({{IPA|[k ɡ]}})
+| ''#'' ({{IPAlink|ʔ}})
+|-
+| style="background: #f2f2f2;" | <small>[[Aspirated consonant|aspirated]]</small>
+| ''ph'' ({{IPAlink|pʰ}})
+| ''th'' ({{IPAlink|tʰ}})
+| ''t/r'' ({{IPAlink|s}})
+| ''kh'' ({{IPAlink|kʰ}})
+| ''h'' ({{IPAlink|h}})
+|-
+| style="background: #f2f2f2;" | <small>[[Implosive consonant|Implosive stop]]</small>
+| ''m'' ({{IPAlink|ɓ}})
+| ''n'' ({{IPAlink|ɗ}})
+| ''nh'' ({{IPAlink|ʄ}})
+|
+|
+|-
+! rowspan="1" | [[Fricative consonant|Fricative]]
+| style="background: #f2f2f2;" | <small>voiced</small>
+| ''v'' ({{IPAlink|v}})
+| 
+| ''d'' ({{IPAlink|j}})
+| 
+|
+|-
+! colspan="2" | [[Affricate]]
+| 
+| 
+| ''x'' ({{IPAlink|tʃ}})
+| 
+|
+|-
+! colspan="2" | [[Liquid consonant|Liquid]]
+| ''r'' {{IPA|[r]}}
+| ''l'' {{IPA|[l]}}
+| 
+|
+|
+|}
+
+Old Vietnamese/Ancient Vietnamese was a Vietic language which was separated from Viet–Muong around 9th century, and evolved to Middle Vietnamese by 16th century. The sources for the reconstruction of Old Vietnamese are [[Chu Nom|Nom]] texts, such as the 12th-century/1486 Buddhist scripture ''Phật thuyết Đại báo phụ mẫu ân trọng kinh'' ("Sūtra explained by the Buddha on the Great Repayment of the Heavy Debt to Parents"),{{sfn|Gong|2019|p=60}} old inscriptions, and late 13th-century (possibly 1293) ''[https://ctext.org/wiki.pl?if=gb&chapter=224481&remap=gb Annan Jishi]'' glossary by Chinese diplomat [[:zh:陈孚|Chen Fu]] (c. 1259 – 1309).{{sfn|Nguyen|2018|p=162}} Old Vietnamese used Chinese characters phonetically where each word, monosyllabic in Modern Vietnamese, is written with two Chinese characters or in a composite character made of two different characters.{{sfn|Gong|2019|p=58–59}}
+
+For examples, the modern Vietnamese word "trời" (heaven) was read as ''*plời'' in Old/Ancient Vietnamese.
+
+===Middle Vietnamese===
+The writing system used for Vietnamese is based closely on the system developed by [[Alexandre de Rhodes]] for his 1651 ''[[Dictionarium Annamiticum Lusitanum et Latinum]]''. It reflects the pronunciation of the Vietnamese of Hanoi at that time, a stage commonly termed ''Middle Vietnamese'' ({{lang|vi|tiếng Việt trung đại}}).  The pronunciation of the "rime" of the syllable, i.e. all parts other than the initial consonant (optional {{IPA|/w/}} glide, vowel nucleus, tone and final consonant), appears nearly identical between Middle Vietnamese and modern Hanoi pronunciation.  On the other hand, the Middle Vietnamese pronunciation of the initial consonant differs greatly from all modern dialects, and in fact is significantly closer to the modern Saigon dialect than the modern Hanoi dialect.
+
+The following diagram shows the orthography and pronunciation of Middle Vietnamese:
+
+:{| class="wikitable" style=text-align:center
+|-
+! colspan="2" |
+! [[labial consonant|Labial]]
+! [[Dental consonant|Dental]]/<br />[[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| ''m'' {{IPA|[m]}}
+| ''n'' {{IPA|[n]}}
+|
+| ''nh'' {{IPA|[ɲ]}}
+| ''ng/ngh'' {{IPA|[ŋ]}}
+|
+|-
+! rowspan="3" | [[Stop consonant|Stop]]
+| style="background: #f2f2f2;" | <small>tenuis</small>
+| ''p'' {{IPA|[p]}}{{ref|p|1}}
+| ''t'' {{IPA|[t]}}
+| ''tr'' {{IPA|[ʈ]}}
+| ''ch'' {{IPA|[c]}}
+| ''c/k'' {{IPA|[k]}}
+|
+|-
+| style="background: #f2f2f2;" | <small>aspirated</small>
+| ''ph'' {{IPA|[pʰ]}}
+| ''th'' {{IPA|[tʰ]}}
+|
+|
+| ''kh'' {{IPA|[kʰ]}}
+|
+|-
+| style="background: #f2f2f2;" | <small>implosive</small>
+| ''b'' {{IPA|[ɓ]}}
+| ''đ'' {{IPA|[ɗ]}}
+|
+|
+|
+|
+|-
+! rowspan="2" | [[Fricative consonant|Fricative]]
+| style="background: #f2f2f2;" | <small>voiceless</small>
+|
+|
+| ''s/ſ'' {{IPA|[ʂ]}}
+| ''x'' {{IPA|[ɕ]}}
+|
+| ''h'' {{IPA|[h]}}
+|-
+| style="background: #f2f2f2;" | <small>voiced</small>
+| ''ꞗ'' {{IPA|[β]}}{{ref|hookb|2}}
+| ''d'' {{IPA|[ð]}}
+|
+| ''gi'' {{IPA|[ʝ]}}
+| ''g/gh'' {{IPA|[ɣ]}}
+|
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+| ''v/u/o'' {{IPA|[w]}}
+| ''l'' {{IPA|[l]}}
+|
+| ''y/i/ĕ'' {{IPA|[j]}}{{ref|yod|3}}
+|
+|
+|-
+! colspan="2" | [[Rhotic consonant|Rhotic]]
+|
+| colspan="2" | ''r'' {{IPA|[r]}}
+|
+|
+|
+|}
+
+[[File:Dictionarium Annamiticum Lusitanum et Latinum (Bayerische Staatsbibliothek).pdf|thumb|right|upright|page=43|The first page of the [[B with flourish|ꞗ]] section in [[Alexandre de Rhodes]]'s {{lang|la|[[Dictionarium Annamiticum Lusitanum et Latinum]]}} (''Vietnamese–Portuguese–Latin dictionary'')]]
+{{note|p|1}} {{IPA|[p]}} occurs only at the end of a syllable.<br />
+{{note|hookb|2}} This symbol, "Latin small letter [[B with flourish]]", looks like: [[File:B with flourish.svg|10px|alt=ȸ|b with flourish]]. It has a rounded hook that starts halfway up the left side (where the top of the curved part of the b meets the vertical, straight part) and curves about 180 degrees counterclockwise, ending below the bottom-left corner.<br />
+{{note|yod|3}} {{IPA|[j]}} does not occur at the beginning of a syllable, but can occur at the end of a syllable, where it is notated ''i'' or ''y'' (with the difference between the two often indicating differences in the quality or length of the preceding vowel), and after {{IPA|/ð/}} and {{IPA|/β/}}, where it is notated ''ĕ''.  This ''ĕ'', and the {{IPA|/j/}} it notated, have disappeared from the modern language.
+
+Note that ''b'' {{IPA|[ɓ]}} and ''p'' {{IPA|[p]}} never contrast in any position, suggesting that they are allophones.
+
+The language also has three clusters at the beginning of syllables, which have since disappeared:
+
+*''tl'' {{IPA|/tl/}} > modern ''tr''
+*''bl'' {{IPA|/ɓl/}} > modern ''gi'' (Northern), ''tr'' (Southern)
+*''ml'' {{IPA|/ml/}} > ''mnh'' {{IPA|/mɲ/}} > modern ''nh''
+
+Most of the unusual correspondences between spelling and modern pronunciation are explained by Middle Vietnamese.  Note in particular:
+*de Rhodes' system has two different b letters, a regular b and a "hooked" b in which the upper section of the curved part of the b extends leftward past the vertical bar and curls down again in a semicircle.  This apparently represented a [[voiced bilabial fricative]] {{IPA|/β/}}.  Within a century or so, both {{IPA|/β/}} and {{IPA|/w/}} had merged as {{IPA|/v/}}, spelled as ''v''.
+*de Rhodes' system has a second medial glide {{IPA|/j/}} that is written ''ĕ'' and appears in some words with initial ''d'' and hooked ''b''.  These later disappear.
+*''đ'' {{IPA|/ɗ/}} was (and still is) [[alveolar consonant|alveolar]], whereas ''d'' {{IPA|/ð/}} was dental.  The choice of symbols was based on the dental rather than alveolar nature of {{IPA|/d/}} and its [[allophone]] {{IPA|[ð]}} in Spanish and other Romance languages.  The inconsistency with the symbols assigned to {{IPA|/ɓ/}} vs. {{IPA|/β/}} was based on the lack of any such place distinction between the two, with the result that the [[stop consonant]] {{IPA|/ɓ/}} appeared more "normal" than the fricative {{IPA|/β/}}.  In both cases, the [[implosive consonant|implosive]] nature of the stops does not appear to have had any role in the choice of symbol.
+*''x'' was the [[alveolo-palatal fricative]] {{IPA|/ɕ/}} rather than the [[voiceless dental sibilant fricative|dental]] {{IPA|/s/}} of the modern language.  In 17th-century [[Portuguese language|Portuguese]], the common language of the Jesuits, ''s'' was the [[voiceless alveolar fricative|apico-alveolar sibilant]] {{IPA|/s̺/}} (as still in much of Spain and some parts of Portugal), while ''x'' was a [[Palato-alveolar consonant|palatoalveolar]] {{IPA|/ʃ/}}.  The similarity of apicoalveolar {{IPA|/s̺/}} to the Vietnamese [[retroflex consonant|retroflex]] {{IPA|/ʂ/}} led to the assignment of ''s'' and ''x'' as above.
+
+[[File:Dictionarium Annamiticum Lusitanum et Latinum, breve acute apex.png|thumb|right|de Rhodes's entry for {{lang|vi|dĕóu᷄}} shows distinct [[breve]]s, [[acute accent|acutes]] and [[apex (diacritic)|apices]].]]
+De Rhodes's orthography also made use of an [[apex (diacritic)|apex]] diacritic, as in ''o᷄'' and ''u᷄'', to indicate a final [[labial-velar nasal]] {{IPA|/ŋ͡m/}}, an allophone of {{IPA|/ŋ/}} that is peculiar to the Hanoi dialect to the present day. This diacritic is often mistaken for a tilde in modern reproductions of early Vietnamese writing.
+
+==Geographic distribution==
+[[File:Color-coded Vietnamese language distribution world map counting from 10,000 user or above vector.svg|thumb|Global distribution of speakers]]
+
+As the national language, Vietnamese is the ''[[lingua franca]]'' in Vietnam. It is also spoken by the [[Gin people|Gin]] traditionally residing on three islands (now joined to the mainland) off [[Dongxing, Guangxi|Dongxing]] in southern [[Guangxi|Guangxi Province]], [[China]].<ref>{{cite book |title=Language Power and Hierarchy: Multilingual Education in China |given=Linda |surname=Tsung |publisher=Bloomsbury |year=2014 |isbn=978-1-4411-4235-1 |page=188 }}</ref> A large number of Vietnamese speakers also reside in neighboring countries of [[Vietnamese Cambodians|Cambodia]] and [[Vietnamese people in Laos|Laos]].
+
+In the United States, Vietnamese is the fifth most spoken language, with over 1.5 million speakers, who are concentrated in a handful of states. It is the third most spoken language in Texas and Washington; fourth in Georgia, Louisiana, and Virginia; and fifth in Arkansas and California.<ref name="Language Map Data Center">{{Citation| url=https://apps.mla.org/map_data| title=MLA Language Map Data Center| publisher=Modern Language Association|access-date=2018-01-20}}</ref> Vietnamese is the seventh most spoken language in Australia.<ref>{{Cite web|url=https://www.cia.gov/library/publications/the-world-factbook/fields/2098.html#as|title=CIA World factbook}}</ref> In France, it is the most spoken Asian language and the eighth most spoken immigrant language at home.<ref>[http://www.ined.fr/fichier/t_publication/65/publi_pdf1_pop_et_soc_francais_376.pdf La dynamique des langues en France au fil du XXe siècle] Insee, enquête Famille 1999. (in French)</ref>
+
+===Official status===
+Vietnamese is the sole official and national language of Vietnam. It is the first language of the majority of the Vietnamese population, as well as a first or second language for the country's [[ethnic groups in Vietnam|ethnic minority groups]].<ref name="Vietnamese language">{{cite encyclopedia
+|encyclopedia= Britannica
+|title= Vietnamese language
+|url=https://www.britannica.com/topic/Vietnamese-language
+}}</ref>
+
+In the [[Czech Republic]], Vietnamese has been recognized as one of 14 minority languages, on the basis of communities that have resided in the country either traditionally or on a long-term basis. This status grants the [[Vietnamese people in the Czech Republic|Vietnamese community in the country]] a representative on the Government Council for Nationalities, an advisory body of the Czech Government for matters of policy towards national minorities and their members. It also grants the community the right to use Vietnamese with public authorities and in courts anywhere in the country.<ref>{{Cite web|url=https://www.vlada.cz/en/pracovni-a-poradni-organy-vlady/rnm/historie-a-soucasnost-rady-en-16666/|title=National Minorities &#124; Government of the Czech Republic|website=www.vlada.cz}}</ref><ref>[http://zpravy.idnes.cz/vietnamci-oficialni-narodnostni-mensinou-fiq-/domaci.aspx?c=A130703_133019_domaci_jj Česko má nové oficiální národnostní menšiny. Vietnamce a Bělorusy] (in Czech)</ref>
+
+===As a foreign language===
+Vietnamese is increasingly being taught in schools and institutions outside of Vietnam, a large part which is contributed by its [[Overseas Vietnamese|large diaspora]]. In countries with strongly established Vietnamese-speaking communities such as the United States, France, Australia, Canada, Germany, and the Czech Republic, Vietnamese language education largely serves as a cultural role to link descendants of Vietnamese immigrants to their ancestral culture. Meanwhile, in countries near Vietnam such as Cambodia, Laos, and Thailand, the increased role of Vietnamese in foreign language education is largely due to the recent recovery of the Vietnamese economy.<ref>[http://thailand.prd.go.th/view_news.php?id=7197&a=3 More Thai Students Interested in Learning ASEAN Languages] {{Webarchive|url=https://web.archive.org/web/20150110064409/http://thailand.prd.go.th/view_news.php?id=7197&a=3 |date=2015-01-10 }}. April 16, 2014. The Government Public Relations Department. Retrieved 2015-01-10.</ref><ref>{{Cite web|url=https://vietnamtimes.org.vn/more-and-more-foreigners-have-need-to-learn-vietnamese-20847.html|title=More and more foreigners have need to learn Vietnamese|first=Vietnam|last=Times|date=May 30, 2020|website=Vietnam Times}}</ref>
+
+Since the 1980s, Vietnamese language schools ({{lang|vi|trường Việt ngữ/ trường ngôn ngữ Tiếng Việt}}) have been established for youth in many Vietnamese-speaking communities around the world, notably [[Vietnamese Americans|in the United States]].<ref>{{cite web|title=Vietnamese in the United States|editor1-first=Angie|editor1-last=Nguyen|editor2-first=Lien|editor2-last=Dao|publisher=[[California State Library]]|date=May 18, 2007|page=82|access-date=January 10, 2015|url=http://www.library.ca.gov/services/docs/vietnamese.pdf|archive-url=https://web.archive.org/web/20160304200121/http://www.library.ca.gov/services/docs/vietnamese.pdf|archive-date=March 4, 2016|url-status=dead|df=mdy-all}}</ref><ref>{{cite encyclopedia|title=Vietnamese Immigration|first=Ha|last=Lam|encyclopedia=Encyclopedia of Bilingual Education|editor-first=Josué M.|editor-last=González|location=Thousand Oaks, California|publisher=[[Sage Publications]]|year=2008|pages=884–887|isbn=978-1-4129-3720-7|url=https://books.google.com/books?id=c_5yAwAAQBAJ&pg=PT933}}</ref>
+
+Similarly, since the late 1980s, the [[Vietnamese people in Germany|Vietnamese-German]] community has enlisted the support of city governments to bring Vietnamese into high school curriculum for the purpose of teaching and reminding Vietnamese German students of their mother-tongue. Furthermore, there has also been a number of Germans studying Vietnamese due to increased economic investments and business.<ref name="vietteachlearnoverwhelminggermany" >[http://www.vietnambreakingnews.com/2013/09/vietnamese-teaching-and-learning-overwhelming-germany/ Vietnamese teaching and learning overwhelming Germany]. Retrieved 2015-06-13.</ref><ref>[https://web.archive.org/web/20120502004731/http://news.chaobuoisang.net/school-in-berlin-maintains-vietnamese-language-197390.htm School in Berlin maintains Vietnamese language]. Retrieved 2015-06-13.</ref>
+
+Historic and stronger trade and diplomatic relations with Vietnam and a growing interest among the [[Vietnamese people in France|French Vietnamese]] population (one of France's most established non-European ethnic groups) of their ancestral culture have also led to an increasing number of institutions in France, including universities, to offer formal courses in the language.<ref>{{Citation|last=Blanc|first=Marie-Eve|contribution=Vietnamese in France|editor-last=Ember|editor-first=Carol|title=Encyclopedia of Diasporas: Immigrant and Refugee Cultures Around the World|pages=1162|publisher=Springer|date=2004|contribution-url=https://books.google.com/books?id=7QEjPVyd9YMC&pg=PA1162|isbn=978-0-306-48321-9}}</ref>
+
+==Phonology==
+{{Main|Vietnamese phonology}}
+
+===Vowels===
+Vietnamese has a large number of [[vowel]]s. Below is a [[vowel diagram]] of Vietnamese from Hanoi (including [[centering diphthong]]s):
+
+:{| class="wikitable" style="text-align: center;"
+|-
+! &nbsp;
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Centering diphthong|Centering]]
+| ia/iê {{IPA|[iə̯]}}
+| ưa/ươ {{IPA|[ɨə̯]}}
+| ua/uô {{IPA|[uə̯]}}
+|-
+! [[Close vowel|Close]]
+| i/y {{IPA|[i]}}
+| ư {{IPA|[ɨ]}}
+| u {{IPA|[u]}}
+|-
+! [[Close-mid vowel|Close-mid]]/<br />[[Mid vowel|Mid]]
+| ê {{IPA|[e]}}
+| ơ {{IPA|[əː]}}<br />â {{IPA|[ə]}} 
+| ô {{IPA|[o]}}
+|-
+! [[Open-mid vowel|Open-mid]]/<br />[[Open vowel|Open]]
+|e {{IPA|[ɛ]}}
+| a {{IPA|[aː]}}<br />ă {{IPA|[a]}}
+| o {{IPA|[ɔ]}}
+|}
+
+Front and central vowels (i, ê, e, ư, â, ơ, ă, a) are [[Roundedness|unrounded]], whereas the back vowels (u, ô, o) are rounded. The vowels â {{IPA|[ə]}} and ă {{IPA|[a]}} are pronounced very short, much shorter than the other vowels. Thus, ơ and â are basically pronounced the same except that ơ {{IPA|[əː]}} is of normal length while â {{IPA|[ə]}} is short – the same applies to the vowels long a {{IPA|[aː]}} and short ă {{IPA|[a]}}.<ref group="lower-alpha">There are different descriptions of Hanoi vowels. Another common description is that of {{harv|Thompson|1991}}:
+
+:{| class="wikitable" style="text-align: center;"
+|-
+! rowspan="2" |
+! rowspan="2" | [[Front vowel|Front]]
+! rowspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! unrounded
+! rounded
+|-
+! [[Centering diphthong|Centering]]
+| ia~iê {{IPA|[iə̯]}}
+|
+| ưa~ươ {{IPA|[ɯə̯]}}
+| ua~uô {{IPA|[uə̯]}}
+|-
+! [[Close vowel|Close]]
+| i {{IPA|[i]}}
+|
+| ư {{IPA|[ɯ]}}
+| u {{IPA|[u]}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| ê {{IPA|[e]}}
+|
+| ơ {{IPA|[ɤ]}}
+| ô {{IPA|[o]}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| e {{IPA|[ɛ]}}
+| ă {{IPA|[ɐ]}}
+| â {{IPA|[ʌ]}}
+| o {{IPA|[ɔ]}}
+|-
+! [[Open vowel|Open]]
+|
+| a {{IPA|[a]}}
+| colspan="2" |
+|}
+
+This description distinguishes four degrees of vowel height and a rounding contrast (rounded vs. unrounded) between back vowels. The relative shortness of ''ă'' and ''â'' would then be a secondary feature. Thompson describes the vowel ''ă'' {{IPA|[ɐ]}} as being slightly higher ([[Near-open vowel|upper low]]) than ''a'' {{IPA|[a]}}.</ref>
+
+The centering diphthongs are formed with only the three high vowels (i, ư, u). They are generally spelled as ia, ưa, ua when they end a word and are spelled iê, ươ, uô, respectively, when they are followed by a consonant.
+
+In addition to single vowels (or [[monophthong]]s) and centering diphthongs, Vietnamese has closing [[diphthong]]s{{efn|In Vietnamese, diphthongs are ''âm đôi''.}} and [[triphthong]]s. The closing diphthongs and triphthongs consist of a main vowel component followed by a shorter semivowel [[offglide]] {{IPA|/j/}} or {{IPA|/w/}}.<ref group="lower-alpha">The closing diphthongs and triphthongs as described by Thompson can be compared with the description above:
+
+:{| class="wikitable" style="text-align: center;"
+|-
+!&nbsp;
+! colspan="2"| {{IPA|/w/}} offglide
+! colspan="2"| {{IPA|/j/}} offglide
+|-
+! [[Centering diphthong|Centering]]
+| iêu {{IPA|[iə̯w]}}
+| ươu {{IPA|[ɯə̯w]}}
+| ươi {{IPA|[ɯə̯j]}}
+| uôi {{IPA|[uə̯j]}}
+|-
+! [[Close vowel|Close]]
+| iu {{IPA|[iw]}}
+| ưu {{IPA|[ɯw]}}
+| ưi {{IPA|[ɯj]}}
+| ui {{IPA|[uj]}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| êu {{IPA|[ew]}}
+| rowspan="2"|  –<br />âu {{IPA|[ʌw]}}
+| rowspan="2"| ơi {{IPA|[ɤj]}}<br />ây {{IPA|[ʌj]}}
+| ôi {{IPA|[oj]}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| eo {{IPA|[ɛw]}}
+| oi {{IPA|[ɔj]}}
+|-
+! [[Open vowel|Open]]
+| &nbsp;
+| ao {{IPA|[aw]}}<br />au {{IPA|[ɐw]}}
+| ai {{IPA|[aj]}}<br />ay {{IPA|[ɐj]}}
+| &nbsp;
+|}
+</ref> There are restrictions on the high offglides: {{IPA|/j/}} cannot occur after a front vowel (i, ê, e) nucleus and {{IPA|/w/}} cannot occur after a back vowel (u, ô, o) nucleus.{{efn|The lack of diphthong consisting of a ''ơ'' + back offglide (i.e., {{IPA|[əːw]}}) is an apparent gap.}}
+
+:{| class="wikitable" style="text-align: center;"
+|-
+! rowspan="2"|&nbsp;
+! colspan="2"| {{IPA|/w/}} offglide
+! colspan="2"| {{IPA|/j/}} offglide
+|-
+! [[Front vowel|Front]]
+! colspan="2"| [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Centering diphthong|Centering]]
+| iêu {{IPA|[iə̯w]}}
+| ươu {{IPA|[ɨə̯w]}}
+| ươi {{IPA|[ɨə̯j]}}
+| uôi {{IPA|[uə̯j]}}
+|-
+! [[Close vowel|Close]]
+| iu {{IPA|[iw]}}
+| ưu {{IPA|[ɨw]}}
+| ưi {{IPA|[ɨj]}}
+| ui {{IPA|[uj]}}
+|-
+! [[Close-mid vowel|Close-mid]]/<br />[[Mid vowel|Mid]]
+| êu {{IPA|[ew]}}
+|  –<br />âu{{IPA|[əw]}}
+| ơi {{IPA|[əːj]}}<br />ây {{IPA|[əj]}}
+| ôi {{IPA|[oj]}}
+|-
+! [[Open-mid vowel|Open-mid]]/<br />[[Open vowel|Open]]
+| eo {{IPA|[ɛw]}}
+| ao {{IPA|[aːw]}}<br />au {{IPA|[aw]}}
+| ai {{IPA|[aːj]}}<br />ay {{IPA|[aj]}}
+| oi {{IPA|[ɔj]}}
+|}
+
+The correspondence between the orthography and pronunciation is complicated. For example, the offglide {{IPA|/j/}} is usually written as ''i''; however, it may also be represented with ''y''. In addition, in the diphthongs {{IPA|[āj]}} and {{IPA|[āːj]}} the letters ''y'' and ''i'' also indicate the pronunciation of the main vowel: ay = ă + {{IPA|/j/}}, ai = a + {{IPA|/j/}}. Thus, ''tay'' "hand" is {{IPA|[tāj]}} while ''tai'' "ear" is {{IPA|[tāːj]}}. Similarly, u and o indicate different pronunciations of the main vowel: au = ă + {{IPA|/w/}}, ao = a + {{IPA|/w/}}. Thus, ''thau'' "brass" is {{IPA|[tʰāw]}} while ''thao'' "raw silk" is {{IPA|[tʰāːw]}}.
+
+===Consonants===
+The consonants that occur in Vietnamese are listed below in the [[Vietnamese orthography]] with the phonetic pronunciation to the right.
+
+:{| class=wikitable style=text-align:center
+|-
+! colspan=2|
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]/<br />[[Alveolar consonant|Alveolar]]
+! [[Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan=2| [[Nasal stop|Nasal]]
+| m {{IPA|[m]}}
+| n {{IPA|[n]}}
+|
+| nh {{IPA|[ɲ]}}
+| ng/ngh {{IPA|[ŋ]}}
+|
+|-
+! rowspan=3| [[Stop consonant|Stop]]
+! <small>[[tenuis consonant|tenuis]]</small>
+| p {{IPA|[p]}}
+| t {{IPA|[t]}}
+| tr {{IPA|[ʈ]}}
+| ch {{IPA|[c]}}
+| c/k/q {{IPA|[k]}}
+|
+|-
+! <small>[[Aspirated consonant|aspirated]]</small>
+|
+| th {{IPA|[tʰ]}}
+|
+|
+|
+|
+|-
+! <small>[[Implosive consonant|implosive]]</small>
+| b [[Voiced bilabial implosive| {{IPA|[ɓ]}}]]
+| đ [[Voiced alveolar implosive| {{IPA|[ɗ]}}]]
+|
+|
+|
+|
+|-
+! rowspan=2| [[Fricative]]
+! <small>[[Voicelessness|voiceless]]</small>
+| ph {{IPA|[f]}}
+| x {{IPA|[s]}}
+| s {{IPA|[ʂ~s]}}
+|
+| kh {{IPA|[x~kʰ]}}
+| h {{IPA|[h]}}
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+| v {{IPA|[v]}}
+| d/gi {{IPA|[z~j]}}
+|
+|
+| g/gh {{IPA|[ɣ]}}
+|
+|-
+! colspan=2| [[Approximant]]
+|
+| l {{IPA|[l]}}
+|
+| y/i {{IPA|[j]}}
+| u/o {{IPA|[w]}}
+|
+|-
+! colspan=2| [[Rhotic consonant|Rhotic]]
+|
+| colspan=2| r {{IPA|[r]}}
+|
+|
+|
+|}
+
+Some consonant sounds are written with only one letter (like "p"), other consonant sounds are written with a [[Digraph (orthography)|digraph]] (like "ph"), and others are written with more than one letter or digraph (the velar stop is written variously as "c", "k", or "q").
+
+Not all dialects of Vietnamese have the same consonant in a given word (although all dialects use the same spelling in the written language). See the [[#Language variation|language variation section]] for further elaboration.
+
+The analysis of syllable-final orthographic ''ch'' and ''nh'' in Vietnamese has had different analyses. One analysis has final ''ch'', ''nh'' as being phonemes {{IPA|/c/, /ɲ/}} contrasting with syllable-final ''t'', ''c'' {{IPA|/t/, /k/}} and ''n'', ''ng'' {{IPA|/n/, /ŋ/}} and identifies final ''ch'' with the syllable-initial ''ch'' {{IPA|/c/}}. The other analysis has final ''ch'' and ''nh'' as predictable [[allophonic]] variants of the velar phonemes {{IPA|/k/}} and {{IPA|/ŋ/}} that occur after the upper front vowels ''i'' {{IPA|/i/}} and ''ê'' {{IPA|/e/}}; although they also occur after ''a'', but in such cases are believed to have resulted from an earlier ''e'' {{IPA|/ɛ/}} which diphthongized to ''ai'' (cf. ''ach'' from ''aic'', ''anh'' from ''aing''). (See [[Vietnamese phonology#Analysis of final ch.2C nh|Vietnamese phonology: Analysis of final ''ch'', ''nh'']] for further details.)
+
+===Tones===
+[[File:VietnameseToneNorthern.png|thumb|upright=1.6|Pitch contours and duration of the six Northern Vietnamese tones as spoken by a male speaker (not from Hanoi). [[Fundamental frequency]] is plotted over time. From Nguyễn & Edmondson (1998).]]
+
+Each Vietnamese syllable is pronounced with one of six inherent [[Tone (linguistics)|tone]]s,{{efn|Tone is called {{lang|vi|thanh điệu}} or {{lang|vi|thanh}} in Vietnamese. Tonal language in Vietnamese translates to {{lang|vi|ngôn ngữ âm sắc}}.}} centered on the main vowel or group of vowels. Tones differ in:
+* length (duration)
+* [[pitch contour]] (i.e. pitch melody)
+* pitch height
+* [[phonation]]
+
+Tone is indicated by diacritics written above or below the vowel (most of the tone diacritics appear above the vowel; however, the ''nặng'' tone dot diacritic goes below the vowel).{{efn|Note that the name of each tone has the corresponding tonal diacritic on the vowel.}} The six tones in the northern varieties (including Hanoi), with their self-referential Vietnamese names, are:
+
+{| class="wikitable"
+|-
+! Name
+! Description
+!Contour
+! Diacritic
+! Example
+! Sample vowel
+|-
+| '''ngang''' &nbsp; 'level'
+| mid level
+|˧
+| align="center" | <small>(no mark)</small>
+| ''ma'' &nbsp;'ghost'
+| align="center" | {{Audio|Vi ngang tone.ogg|a}}
+|-
+| '''huyền''' &nbsp; 'deep'
+| low falling (often breathy)
+|˨˩
+| align="center" | {{IPA|◌̀}} ([[grave accent]])
+| ''mà'' &nbsp;'but'
+| align="center" | {{Audio|Vi huyen tone.ogg|à}}
+|-
+| '''sắc''' &nbsp; 'sharp'
+| high rising
+|˧˥
+| align="center" | {{IPA|◌́}} ([[acute accent]])
+| ''má'' &nbsp;'cheek, mother (southern)'
+| align="center" | {{Audio|Vi sac tone.ogg|á}}
+|-
+| '''hỏi''' &nbsp; 'questioning'
+| mid dipping-rising
+|˧˩˧
+| align="center" | {{IPA|◌̉}} ([[hook above]])
+| ''mả'' &nbsp;'tomb, grave'
+| align="center" | {{Audio|Vi hoi tone.ogg|ả}}
+|-
+| '''ngã''' &nbsp; 'tumbling'
+| creaky high breaking-rising
+|˧ˀ˦˥
+| align="center" | {{IPA|◌̃}} ([[tilde]])
+| ''mã'' &nbsp;'horse (Sino-Vietnamese), code'
+| align="center" | {{Audio|Vi nga tone.ogg|ã}}
+|-
+| '''nặng''' &nbsp; 'heavy'
+| creaky low falling constricted (short length)
+|˨˩ˀ
+| align="center" | {{IPA|◌̣}} ([[dot (diacritic)|dot below]])
+| ''mạ'' &nbsp;'rice seedling'
+| align="center" | {{Audio|Vi nang tone.ogg|ạ}}
+|}
+
+Other dialects of Vietnamese may have fewer tones (typically only five).
+
+{| class="wikitable"
+|+ Tonal differences of three speakers as reported in Hwa-Froelich & Hodson (2002).<ref>Deborah, H.-F., W., H. B., & T., E. H. (2002). Characteristics of Vietnamese Phonology. American Journal of Speech-Language Pathology, 11(3), 264–273. https://doi.org/10.1044/1058-0360(2002/031)</ref> The curves represent temporal pitch variation while two sloped lines (//) indicates a [[glottal stop]].
+|-
+! Tone !! Northern dialect !! Southern dialect !! Central dialect
+|-
+| Ngang (a) || [[File:Vietnamese-tone-ngang-northern.png|30px]] || [[File:Vietnamese-tone-ngang-southern.png|30px]] || [[File:Vietnamese-tone-ngang-central.png|32px]]
+|-
+| Huyền (à) || [[File:Vietnamese-tone-huyen-northern.png|30px]] || [[File:Vietnamese-tone-huyen-southern.png|30px]] || [[File:Vietnamese-tone-huyen-central.png|30px]]
+|-
+| Sắc (á) || [[File:Vietnamese-tone-sac-northern.png|x30px]] || [[File:Vietnamese-tone-sac-southern.png|x30px]] || [[File:Vietnamese-tone-sac-central.png|x20px]]
+|-
+| Hỏi (ả) || [[File:Vietnamese-tone-hoi-northern.png|60px]] || [[File:Vietnamese-tone-hoi-southern.png|60px]] || [[File:Vietnamese-tone-hoi-central.png|30px]]
+|-
+| Ngã (ã) || [[File:Vietnamese-tone-nga-northern.png|50px]] || [[File:Vietnamese-tone-nga-southern.png|60px]] || [[File:Vietnamese-tone-nga-central.png|30px]]
+|-
+| Nặng (ạ) || [[File:Vietnamese-tone-nang-northern.png|30px]] || [[File:Vietnamese-tone-nang-southern.png|35px]] || [[File:Vietnamese-tone-nang-central.png|30px]]
+|}
+
+In Vietnamese poetry, tones are classed into two groups: ([[tone pattern]])
+
+{| class="wikitable"
+! Tone group
+! Tones within tone group
+|-
+| ''bằng'' "level, flat"
+| ''ngang'' and ''huyền''
+|-
+| ''trắc'' "oblique, sharp"
+| ''sắc'', ''hỏi'', ''ngã'', and ''nặng''
+|}
+
+Words with tones belonging to a particular tone group must occur in certain positions within the poetic verse.
+
+[[Catholic Church in Vietnam|Vietnamese Catholics]] practice a distinctive style of prayer recitation called {{lang|vi|[[đọc kinh]]}}, in which each tone is assigned a specific note or sequence of notes.
+
+==Grammar==
+{{Main|Vietnamese grammar|Vietnamese morphology}}
+
+Vietnamese, like Chinese and many languages in Southeast Asia, is an [[analytic language]]. Vietnamese does not use [[morphology (linguistics)|morphological]] marking of [[Grammatical case|case]], [[grammatical gender|gender]], [[grammatical number|number]] or [[grammatical tense|tense]] (and, as a result, has no [[finite verb|finite]]/[[Non-finite verb|nonfinite]] distinction).{{efn|Comparison note: As such its grammar relies on word order and sentence structure rather than morphology (in which word changes through [[inflection]]). Whereas European languages tend to use morphology to express tense, Vietnamese uses [[grammatical particles]] or syntactic constructions.}} Also like other languages in the region, Vietnamese syntax conforms to [[subject–verb–object]] [[word order]], is [[head-initial]] (displaying modified-[[Grammatical modifier|modifier]] ordering), and has a noun [[Classifier (linguistics)|classifier]] system. Additionally, it is [[pro-drop]], [[wh-in-situ]], and allows [[verb serialization]].
+
+Some Vietnamese sentences with English word [[Interlinear gloss|glosses]] and translations are provided below.
+
+{{interlinear|indent=2|lang=vi
+|Minh là {giáo viên}
+|Minh BE teacher.
+|"Minh is a teacher."}}
+
+{{interlinear|indent=2|lang=vi
+|Trí 13 tuổi
+|Trí 13 age
+|"Trí is 13 years old,"}}
+
+{{interlinear|indent=2|lang=vi
+|Mai {có vẻ} là {sinh viên} hoặc {học sinh}.
+|Mai seem BE {student (college)} or {student (under-college)}
+|"Mai seems to be a college or high school student."}}
+
+{{interlinear|indent=2|lang=vi
+|Tài đang nói.
+|Tài PRES.CONT talk
+|"Tài is talking."}}
+
+{{interlinear|indent=2|lang=vi
+|Giáp rất cao.
+|Giáp INT tall
+|"Giáp is very tall."}}
+
+{{interlinear|indent=2|lang=vi
+|Người đó là anh của nó.
+|person that.DET BE {older brother} POSS 3.PRO
+|"That person is his/her brother."}}
+
+{{interlinear|indent=2|lang=vi
+|Con chó này chẳng {bao giờ} sủa cả.
+|CL dog DET NEG ever bark all
+|"This dog never barks at all."}}
+
+{{interlinear|indent=2|lang=vi
+|Nó chỉ ăn cơm {Việt Nam} thôi.
+|3.PRO just eat rice.FAM Vietnam only
+|"He/she/it only eats Vietnamese rice (or food, especially spoken by the elderly)."}}
+
+{{interlinear|indent=2|lang=vi
+|Tôi thích con ngựa đen.
+|1.PRO like CL horse black
+|"I like the black horse."}}
+
+{{interlinear|indent=2|lang=vi
+|Tôi thích cái con ngựa đen đó.
+|1.PRO like FOC CL horse black DET
+|"I like that black horse."}}
+
+{{interlinear|indent=2|lang=vi
+|Hãy {ở lại} đây ít phút {cho tới} khi tôi quay lại.
+|HORT stay here few minute until when 1.PRO turn come
+|"Please stay here for a few minutes until I come back."}}
+
+==Lexicon==
+[[File:Nom Character V04-5055.svg|thumb|Old Nôm character for rice noodle soup "phở". The character [[⽶|米]] on the left means "rice" whilst the  character on the right "頗" was used to indicate the sound of the word (''phở''). |98x98px]]
+
+=== Ancient Chinese contact ===
+Although Vietnamese roots are classified as Austroasiatic, Vietic and Viet-Muong, the result of [[language contact]] with Chinese heavily influenced the Vietnamese language, causing it to diverge from [[Viet-Muong]] into Vietnamese. For instance, the Vietnamese word ''quản lý,'' meaning management (noun) or manage (verb) is likely descended from the same word as ''guǎnlǐ'' ({{lang|zh|管理}}) in Chinese, ''kanri'' ({{lang|ja|管理}}, {{lang|ja|かんり}}) in Japanese, and ''gwanli'' ({{lang|ko|관리}}, {{lang|ko|管理}}) in Korean. Besides English and French which have made some contributions to Vietnamese language, Japanese loanwords into Vietnamese are also a more recently studied phenomenon. 
+
+Modern linguists describe modern Vietnamese having lost many [[Proto-Mon–Khmer language|Proto-Austroasiatic]] phonological and morphological features that original Vietnamese had.<ref>{{Cite journal|last=LaPolla|first=Randy J.|date=2010|title="Language Contact and Language Change in the History of the Sinitic Languages."|url=|journal=Procedia - Social and Behavioral Sciences|volume=2|issue=5|pages=6858–6868|doi=10.1016/j.sbspro.2010.05.036}}</ref> The Chinese influence on Vietnamese corresponds to various periods when Vietnam was under [[Vietnam under Chinese rule|Chinese rule]], and subsequent influence after Vietnam became independent. Early linguists thought that this meant Vietnamese lexicon then received only two layers of Chinese words, one stemming from the period under actual Chinese rule and a second layer from afterwards. These words are grouped together as [[Sino-Vietnamese vocabulary]].
+
+However, according to linguist John Phan, “Annamese Middle Chinese” was already used and spoken in the [[Red River (Asia)|Red River]] Valley by the 1st century CE, and its vocabulary significantly fused with the co-existing Proto-Viet-Muong language, the immediate ancestor of Vietnamese. He lists three major classes of Sino-Vietnamese borrowings:<ref>{{Cite journal|last=Phan|first=John|date=2013-01-28|title=Lacquered Words: The Evolution Of Vietnamese Under Sinitic Influences From The 1St Century Bce Through The 17Th Century Ce|url=https://ecommons.cornell.edu/handle/1813/33867|language=en-US}}</ref><ref>{{Cite web|last=Phan, John D. & de Sousa, Hilário|date=2016|title=(Paper presented at the International workshop on the history of Colloquial Chinese – written and spoken, Rutgers University, New Brunswick NJ, 11–12 March 2016.)|url=http://hilario.bambooradical.com/downloadables/Phan-de-Sousa-2016-03-11-Rutgers-Southwester-Middle-Chinese.pptx.pdf|url-status=live|archive-url=|archive-date=|access-date=|website=}}</ref><ref>{{Cite journal|last=Phan|first=John|date=2010|title="Re-Imagining 'Annam': A New Analysis of Sino–Viet–Muong Linguistic Contact"|url=|journal=Chinese Southern Diaspora Studies|volume=4|pages=3–24|via=}}</ref> Early [[Sino-Vietnamese vocabulary|Sino-Vietnamese]] ([[Han Dynasty]] (ca. 1st century CE) and [[Eastern Jin|Jin Dynasty]] (ca. 4th century CE), Late Sino-Vietnamese ([[Tang Dynasty]]), Recent Sino-Vietnamese ([[Ming Dynasty]] and afterwards)
+
+=== French colonial era ===
+Additionally, the [[French assistance to Nguyễn Ánh|French presence in Vietnam]] from 1777 to the [[1954 Geneva Conference|Geneva Accords]] of 1954 resulted in significant influence from [[French language in Vietnam|French]] into eastern Mainland Southeast Asia (Laos, Cambodia, Vietnam ). 'Cà phê' in Vietnamese was derived from French ''café'' (coffee). Yogurt in Vietnamese is "''sữa chua''", but also calqued from French (''yaourt'') into Vietnamese (''da ua -'' /j/a ua). ''Phô mai'' meaning cheese is also derived from French:''fromage''. [[Musical note]] was also borrowed into Vietnamese as "''nốt or nốt nhạc" (musical notes)''" from French (''note de musique'').   
+
+=== English ===
+Some English words were incorporated into Vietnamese as [[loan words]], such as "TV" borrowed as "tivi", but still officially called ''truyền hình''.  Some other borrowings are [[calque]]s, translated into Viet, for example, 'software' is translated into '''phần mềm''<nowiki/>' (literally meaning "soft part"). Some scientific terms such as "biological cell" were derived from Chữ Hán, ( 细胞 - tế bào), whilst other scientific names such as "acetylcholine" are unaltered. Words like "peptide", may be seen as ''peptit''.
+
+=== Japanese ===
+Japanese loanwords are a more recently studied phenomenon, with a paper by Nguyen & Le (2020) classifying three layers of Japanese loanwords, where the third layer was used by Vietnamese who studied Japanese and the first two layers being the main layers of borrowings that were derived from Japanese.<ref name=":0">{{Cite journal|last=Nguyen & Le|date=2020|title=Japanese Loanwords Adopted into the Vietnamese Language|url=http://repository.tufs.ac.jp/bitstream/10108/94521/1/AALL014010.pdf|journal=Asian and African Languages and Linguistics|volume=14|pages=21}}</ref> The first layer consisted of Kanji words created by Japanese to represent Western concepts that were not readily available in Chinese or Japanese, where by the end of the 19th century they were imported to other Asian languages.<ref>{{Cite journal|last=Chung|date=2001|title=Some returned loans, Japanese loanwords in Taiwan Mandarin|journal=Language Change in East Asia|pages=161–179}}</ref> This first layer was called Sino-Vietnamese words of Japanese-origins. For example, the Vietnamese term for "association club", ''câu lạc bộ,'' which was borrowed from Chinese (俱乐部; Mandarin pinyin - jùlèbù; Cantonese jyutping - keoi1 lok6 bou6), which was borrowed from Japanese (kanji - 倶楽部; katakana - クラブ; rōmaji - kurabu) which came from English ("''club"''), resulting in indirect borrowing from Japanese.  
+
+The second layer was from brief Japanese occupation of Vietnam from 1940 until 1945. However, Japanese cultural influence in Vietnam started significantly from the 1980s. This new, second layer of Japan-origin loanwords is distinctive from Sino-Vietnamese words of Japanese-origin in that they were borrowed directly from Japanese. This vocabulary included words representative of Japanese culture, such as ''kimono'', ''sumo'', ''samurai'', and ''bonsai'' from modified [[Hepburn romanization|Hepburn]] romanisation. These loanwords are coined as "new Japanese loanwords". A significant number of new Japanese loanwords were also of Chinese origin. Sometimes, the same concept can be described using both Sino-Vietnamese words of Japanese origin (first layer) and new Japanese loanwords (second layer). For example, judo can be referred to as both ''judo'' and ''nhu đạo'', the Vietnamese reading of 柔道.<ref name=":0" />
+
+=== Pure Vietnamese words ===
+Other words, like ''muôn thuở'' meaning ''forever'' are seen to be purely Vietnamese invention, which used to be scribed Nôm characters, which were compounded Chinese characters, which are now written in romanized script. 
+
+=== Slang ===
+Vietnamese [[slang]] (tiếng lóng) has changed over time. Vietnamese slang consists of pure Vietnamese words as well as words borrowed from other languages such as [[Mandarin Chinese|Mandarin]] or [[Indo-European languages]].<ref name=":02">{{Cite web|title=Tiếng lóng trên các phương tiện truyền thông hiện nay|url=http://khoavanhoc-ngonngu.edu.vn/en/uncategorised/4251-ting-long-tren-cac-phng-tin-truyn-thong-hin-nay.html|url-status=live|website=khoavanhoc-ngonngu.edu.vn}}</ref> It is estimated that Vietnamese slang that originated from Mandarin accounts for a tiny proportion of all Vietnamese slang (4.6% of surveyed data in newspapers).<ref name=":02" /> On the other hand, slang that originated from Indo-European languages accounts for a more significant proportion (12%) and is much more common in today's uses.<ref name=":02" /> Slang borrowed from these languages can be either [[transliteration]] or [[vernacular]].<ref name=":02" /> Some examples:
+{| class="wikitable"
+|+
+!Word
+![[International Phonetic Alphabet|IPA]]
+!Description
+|-
+|Ex
+|/ɛk̚/, /ejk̚/
+|a word borrowed from English used to describe ex-lover, usually pronounced similarly to ''ếch'' ("frog"). This is an example of vernacular slang.<ref name=":02" />
+|-
+|Sô
+|<big>/ʂoː/</big>
+|a word derived from the English's word "show''"'' which has the same meaning, usually pair with the word ''chạy'' ("to run") to make the phrase ''chạy sô'', which translates in English to "running shows", but its everyday use has the same connotation as "having to do a lot of tasks within a short amount of time". This is an example of transliteration slang.<ref name=":02" />
+|}
+With the rise of the Internet, new slang is generated and popularized through [[social media]]. This more modern slang is commonly used among the younger generation in Vietnam. This more recent slang is mostly pure Vietnamese, and almost all the words are [[homonym]]s or some form of [[Word play|wordplay]]. Some examples:
+{| class="wikitable"
+|+
+!Word
+!IPA
+!Description
+|-
+|vãi
+|/vǎːj/
+|One of the most popular slang in Vietnamese. Vãi can be a noun, or a verb depends on the context. It refers to a female [[pagoda]]-goer in its noun form and refers to spilling something over in its verb form. Nowadays, it's commonly used to emphasize an adjective or a verb. For example, ''ngon vãi''  ("so delicious"), ''sợ vãi'' ("so scary").<ref>{{Cite web|date=2020-07-18|title=Vãi là gì? Tại sao các bạn trẻ lại hay sử dụng từ này?|url=https://tbtvn.org/vai-la-gi-tai-sao-cac-ban-tre-lai-hay-su-dung-tu-nay/|url-status=live|website=tbtvn.org}}</ref> Similar uses to expletive, [[bloody]].
+|-
+|trẻ trâu
+|/ʈɛ̌ːʈəw/
+|A noun whose literal translation is "young buffalo". It is usually used to describe younger children or people who behave like a child, like putting on airs, and act foolishly to attract other people's attention (with negative actions, words, and thoughts).<ref name=":22">{{Cite web|date=2016-06-25|title=10 từ lóng thường dùng của giới trẻ ngày nay|url=https://vnexpress.net/10-tu-long-thuong-dung-cua-gioi-tre-ngay-nay-3425491-p2.html|url-status=live|website=vnexpress.net}}</ref>
+|-
+|gấu
+|<big>/ɣə̆́w/</big>
+|A noun meaning "bear". It is also commonly used to refer to someone's lover.<ref name=":12">{{Cite web|date=2016-06-25|title=10 từ lóng thường dùng của giới trẻ ngày nay|url=https://vnexpress.net/10-tu-long-thuong-dung-cua-gioi-tre-ngay-nay-3425491.html|url-status=live|website=vnexpress.net}}</ref>
+|-
+|gà
+|<big>/ɣàː/</big>
+|A noun meaning "chicken". It is also commonly used to refer to someone's lack of ability to complete or compete in a task.<ref name=":22" />
+|-
+|cá sấu
+|<big>/káːʂə́w/</big>
+|A noun meaning "crocodile". It is also commonly used to refer to someone's lack of beauty. The word ''sấu'' can be pronounced similar to ''xấu'' (ugly).<ref name=":12" />
+|-
+|thả thính
+|/tʰǎːtʰí<big>ŋ̟/</big>
+|A verb used to describe the action of dropping roasted [[bran]] as bait for fish. Nowadays, it is also used to describe the act of dropping hints to another person that one is attracted to.<ref name=":12" />
+|-
+|nha (and other variants)
+|/ɲaː/
+|Similar to other particles: nhé, nghe, nhỉ, nhá. It can be used to end sentences. "Rửa chén, nhỉ" can mean "Wash the dishes... yeah?" <ref>{{Cite web|title=What is the difference between "nhé" and "nha, nghe, nhà, nhỉ" ? "nhé" vs "nha, nghe, nhà, nhỉ" ?|url=https://hinative.com/en-US/questions/5240316|access-date=2021-03-14|website=hinative.com|language=en}}</ref>
+|-
+|dzô
+|/zoː/,/jow/
+|[[Eye dialect]] of the word vô, meaning "in". The letter "z" which is not usually present in the Vietnamese alphabet, can be used for emphasis or for slang terms.<ref>{{Cite web|title=Vã mồ hôi "giải mã" tiếng lóng tuổi teen - Xã hội - VietNamNet|url=https://vietnamnet.vn/xahoi/201005/Va-mo-hoi-giai-ma-tieng-long-tuoi-teen-911455/index.htm?mode=mobile|access-date=2021-04-06|website=vietnamnet.vn}}</ref>
+|}
+There are debates on the prevalence of uses of slang among young people in Vietnam, as certain teen speak conversations become difficult to understand for older generations. Many critics believed that incorporating teenspeak or internet slang into daily conversation among teenagers would affect the formality and cadence of speech.<ref>{{Cite web|date=2018-12-07|title=Lo ngại thực trạng sử dụng ngôn ngữ mạng trong học sinh|url=https://baoninhbinh.org.vn/lo-ngai-thuc-trang-su-dung-ngon-ngu-mang-trong-hoc-sinh/d20181207091625582.htm|url-status=live|website=baoninhbinh.org.vn}}</ref> Others argue that it is not the slang that is the problem but rather the lack of communication techniques for the instant internet messaging era. They believe slang should not be dismissed, but instead, youth should be informed enough to know when to use them and when it is appropriate.<ref>{{Cite web|date=2013-10-17|title=Lạm dụng tiếng lóng trong giới trẻ - Thực trạng đáng báo động|url=http://hanoimoi.com.vn/Tin-tuc/Giaoduc/627107/lam-dung-tieng-long-trong-gioi-tre--thuc-trang-dang-bao-dong|url-status=live|website=hanoimoi.com.vn}}</ref>
+
+==Writing systems==
+{{Main|History of writing in Vietnam|Vietnamese Braille}}
+[[File:Tale of Kieu parallel text.svg|thumb|right|upright=1.5|The first two lines of the classic Vietnamese epic poem ''[[The Tale of Kieu]]'', written in the Nôm script and the modern Vietnamese alphabet. Chinese characters representing Sino-Vietnamese words are shown in {{color|#1b9e77|green}}, characters borrowed for similar-sounding native Vietnamese words in {{color|#7570b3|purple}}, and invented characters in {{color|#d95f02|brown}}.]]
+[[File:Nhật dụng thường đàm, p. 38.jpg|thumb|In the [[bilingual]] dictionary ''Nhật dụng thường đàm'' (1851), Chinese characters ({{lang|vi|chữ Nho}}) are explained in {{lang|vi|chữ Nôm}}.]]
+[[File:Taberd dictionary.jpg|thumb|[[Jean-Louis Taberd]]'s dictionary ''Dictionarium anamitico-latinum'' (1838) represents Vietnamese (then Annamese) words in the Latin alphabet and {{lang|vi|chữ Nôm}}.]]
+[[File:HoaloHaNoi070720091321.jpg|thumb|A sign at the [[Hỏa Lò Prison]] museum in Hanoi lists rules for visitors in both Vietnamese and English.]]
+
+After ending a millennium of [[Vietnam under Chinese rule|Chinese rule]] in 938, the Vietnamese state adopted [[Literary Chinese]] (called {{lang|vi|văn ngôn}} {{linktext|lang=zh|文言}} or {{lang|vi|Hán văn}} {{linktext|lang=zh|漢文}} in Vietnamese) for official purposes.<ref>{{cite book | title = Asia's Orthographic Dilemma | surname = Hannas | given = Wm. C. | publisher = University of Hawaii Press | year = 1997 | isbn = 978-0-8248-1892-0 | pages = 78–79, 82 }}</ref>
+Up to the late 19th century (except for two brief interludes), all formal writing, including government business, scholarship and formal literature, was done in Literary Chinese, written with [[Chinese characters]] ({{lang|vi|[[chữ Hán]]}}).{{sfn|Marr|1984|p=141}}
+
+=== Chữ Nôm ===
+{{main|Chữ Nôm}}
+From around the 13th century, Vietnamese scholars used their knowledge of the Chinese script to develop the {{lang|vi|chữ Nôm}} ({{literal translation|Southern characters}}) script to record folk literature in Vietnamese. The script used Chinese characters to represent both borrowed [[Sino-Vietnamese vocabulary]] and native words with similar pronunciation or meaning. In addition, thousands of new compound characters were created to write Vietnamese words using a variety of methods, including [[phono-semantic compound]]s.{{sfn|DeFrancis|1977|p=24–26}}
+For example, in the opening lines of the classic poem ''[[The Tale of Kieu]]'',
+* the Sino-Vietnamese word {{lang|vi|mệnh}} 'destiny' was written with its original character {{linktext|lang=zh|命}};
+* the native Vietnamese word {{lang|vi|ta}} 'our' was written with the character {{linktext|lang=zh|些}} of the homophonous Sino-Vietnamese word {{lang|vi|ta}} 'little, few; rather, somewhat';
+* the native Vietnamese word {{lang|vi|năm}} 'year' was written with a new character compounded from {{linktext|lang=zh|南}} {{lang|vi|nam}} and {{linktext|lang=zh|年}} 'year'.
+{{lang|vi|Nôm}} writing reached its zenith in the 18th century when many Vietnamese writers and poets composed their works in {{lang|vi|Nôm}}, most notably [[Nguyễn Du]] and [[Hồ Xuân Hương]] (dubbed "the Queen of Nôm poetry"). However, it was only used for official purposes during the brief [[Hồ dynasty|Hồ]] and [[Tây Sơn dynasty|Tây Sơn]] dynasties.{{sfn|DeFrancis|1977|pp=32, 38}}
+
+A [[Catholic Church in Vietnam|Vietnamese Catholic]], [[Nguyễn Trường Tộ]], unsuccessfully petitioned the Court suggesting the adoption of a script for Vietnamese based on Chinese characters.{{sfn|DeFrancis|1977|pp=101–105}} The French colonial administration sought to eliminate the Chinese writing system, Confucianism, and other Chinese influences from Vietnam by getting rid of Nôm.{{sfn|Marr|1984|p=145}}
+
+=== Vietnamese alphabet ===
+{{main|Vietnamese alphabet}}
+A [[romanization]] of Vietnamese was codified in the 17th century by the Avignonese [[Society of Jesus|Jesuit]] missionary [[Alexandre de Rhodes]] (1591–1660), based on works of earlier [[Portuguese discoveries|Portuguese missionaries]], particularly [[Francisco de Pina]], Gaspar do Amaral and Antonio Barbosa.<ref name="Jacques 2002">{{cite book|last1=Jacques|first1=Roland|title=Portuguese Pioneers of Vietnamese Linguistics Prior to 1650 – Pionniers Portugais de la Linguistique Vietnamienne Jusqu'en 1650|date=2002|publisher=Orchid Press|location=Bangkok, Thailand|isbn=974-8304-77-9|language=en, fr}}</ref><ref name="Tran 2019">{{cite conference |url = https://www.academia.edu/41197889 |title = Từ Nước Mặn đến Roma: Những đóng góp của các giáo sĩ Dòng Tên trong quá trình La tinh hoá tiếng Việt ở thế kỷ 17 |last1 = Trần | first1 = Quốc Anh| last2 = Phạm | first2 = Thị Kiều Ly | date = October 2019 |publisher = Committee on Culture, [[Catholic Bishops' Conference of Vietnam]] |conference= Conference ''400 năm hình thành và phát triển chữ Quốc ngữ trong lịch sử loan báo Tin Mừng tại Việt Nam'' |location = Hochiminh City}}</ref> Still, {{lang|vi|chữ Nôm}} was the dominant script in [[Catholic Church in Vietnam|Vietnamese Catholic]] literature for more than 200 years.<ref>{{cite book |last=Ostrowski |first=Brian Eugene |editor-last=Wilcox |editor-first=Wynn |title=Vietnam and the West: New Approaches |date=2010 |publisher=[[Cornell Southeast Asia Program#SEAP Publications|SEAP Publications]], Cornell University Press |location=Ithaca, New York |isbn=9780877277828 |chapter= The Rise of Christian Nôm Literature in Seventeenth-Century Vietnam: Fusing European Content and Local Expression |pages=23, 38 }}</ref> Starting from the late 19th century, the [[Vietnamese alphabet]] ({{lang|vi|chữ Quốc ngữ}} or "national language script") was gradually expanded from its initial usage in Christian writing to become more popular among the general public.
+
+The Vietnamese alphabet contains 29 letters, including one [[Digraph (orthography)|digraph]] (''[[D with stroke|đ]]'') and nine with [[diacritic]]s, five of which are used to designate [[Tonal language|tone]] (i.e. ''à'', ''á'', ''ả'', ''ã'', and ''ạ'') and the other four used for separate letters of the Vietnamese alphabet (''ă'', ''â/ê/ô'', ''ơ'', ''ư'').<ref>{{Cite web|last=admin|date=2014-02-05|title=Vietnamese Language History|url=https://www.vietnam-culture.com/vietnamese-language-history.aspx|access-date=2021-01-30|website=Vietnamese Culture and Tradition|language=en-US}}</ref>
+
+This Romanized script became predominant over the course of the early 20th century, when education became widespread and a simpler writing system was found to be more expedient for teaching and communication with the general population. Under [[French Indochina|French colonial rule]], French superseded Chinese in administration. Vietnamese written with the alphabet became required for all public documents in 1910 by issue of a decree by the French Résident Supérieur of the protectorate of Tonkin. In turn, Vietnamese reformists and nationalists themselves encouraged and popularized the use of {{lang|vi|chữ Quốc ngữ}}. By the middle of the 20th century, most writing was done in {{lang|vi|chữ Quốc ngữ}}, which became the official script on independence.
+
+Nevertheless, {{lang|vi|chữ Hán}} was still in use during the French colonial period and as late as World War II was still featured on banknotes,<ref>{{cite web |url=http://art-hanoi.com/collection/icpaper/p83.html |title=French Indochina 500 Piastres 1951 |website=art-hanoi.com}}</ref><ref>{{cite web |url=http://art-hanoi.com/collection/vnpaper/ho5d.html |title=North Vietnam 5 Dong 1946 |website=art-hanoi.com}}</ref> but fell out of official and mainstream use shortly thereafter. The education reform by [[North Vietnam]] in 1950 eliminated the use of '{{lang|vi|chữ Hán}} and {{lang|vi|chữ Nôm}}.<ref>Vũ Thế Khôi (2009). [https://web.archive.org/web/20160914180432/http://www.vusta.vn/vi/news/Thong-tin-Su-kien-Thanh-tuu-KH-CN/Ai-buc-tu-chu-Han-Nom-31759.html "Ai “bức tử” chữ Hán-Nôm?"].</ref> Today, only a few scholars and some extremely elderly people are able to read {{lang|vi|chữ Nôm}} or use it in [[Vietnamese calligraphy]]. Priests of the [[Gin people|Gin]] minority in China (descendants of 16th-century migrants from Vietnam) use songbooks and scriptures written in {{lang|vi|chữ Nôm}} in their ceremonies.<ref>{{cite book |title=Encyclopedia of World Cultures, volume 6: Russia and Eurasia / China |editor1-given=Paul |editor1-surname=Friedrich |editor2-given=Norma |editor2-surname=Diamond |chapter=Jing |page=454 | publisher=G.K. Hall |location=New York |year=1994 |isbn=0-8161-1810-8 }}</ref>
+
+{{lang|vi|Chữ Quốc ngữ}} reflects a "Middle Vietnamese" dialect that combines vowels and final consonants most similar to northern dialects with initial consonants most similar to southern dialects. This Middle Vietnamese is presumably close to the Hanoi variety as spoken sometime after 1600 but before the present. (This is not unlike how [[English orthography]] is based on the Chancery Standard of [[Middle English#Late Middle English|Late Middle English]], with many spellings retained even after the [[Great Vowel Shift]].)
+
+===Computer support===
+{{main|Vietnamese language and computers}}
+
+The [[Unicode]] character set contains all Vietnamese characters and the Vietnamese currency symbol. On systems that do not support Unicode, many 8-bit Vietnamese [[code page]]s are available such as [[Vietnamese Standard Code for Information Interchange]] (VSCII) or [[Windows-1258]]. Where [[ASCII]] must be used, Vietnamese letters are often typed using the [[Vietnamese Quoted-Readable|VIQR]] convention, though this is largely unnecessary with the increasing ubiquity of Unicode. There are many software tools that help type Roman-script Vietnamese on English keyboards, such as [http://winvnkey.sf.net WinVNKey] and [https://www.unikey.org/ Unikey] on Windows, or [http://macvnkey.sf.net MacVNKey] on Macintosh, with popular methods of [https://tipsmake.com/encoding-of-vietnamese-typing-methods-telex-vni-and-viqr-on-unikey encoding] Vietnamese using Telex, VNI or VIQR input methods. [[Telex (input method)|Telex]] input method is often set as the default for many devices.
+
+===Dates and numbers writing formats===
+Vietnamese speak date in the format "[[day]] [[month]] [[year]]". Each month's name is just the ordinal of that month appended after the word ''tháng'', which means "month". Traditional Vietnamese however assigns other names to some months; these names are mostly used in the [[lunar calendar]] and in poetry.
+
+{| class="wikitable"
+|-
+! rowspan="2" | English month name !! colspan="2" | Vietnamese month name
+|-
+! Normal !! Traditional
+|-
+| January || Tháng Một || Tháng Giêng
+|-
+| February || colspan="2" | Tháng Hai
+|-
+| March || colspan="2" | Tháng Ba
+|-
+| April || colspan="2" | Tháng Tư
+|-
+| May || colspan="2" | Tháng Năm
+|-
+| June || colspan="2" | Tháng Sáu
+|-
+| July || colspan="2" | Tháng Bảy
+|-
+| August || colspan="2" | Tháng Tám
+|-
+| September || colspan="2" | Tháng Chín
+|-
+| October || colspan="2" | Tháng Mười
+|-
+| November || colspan="2" | Tháng Mười Một
+|-
+| December || Tháng Mười Hai || Tháng Chạp
+|}
+
+When written in the short form, "DD/MM/YYYY" is preferred.
+
+''Example:''
+*'''English:''' 28 March 2018
+*'''Vietnamese long form:''' Ngày 28 tháng 3 năm 2018
+*'''Vietnamese short form:''' 28/3/2018
+
+The Vietnamese prefer writing numbers with a [[comma]] as the decimal separator in lieu of dots, and either spaces or dots to group the digits. An example is 1 629,15 (one thousand six hundred twenty-nine point fifteen). Because a comma is used as the decimal separator, a [[semicolon]] is used to separate two numbers instead.
+
+==Literature==
+{{main|Vietnamese literature}} 
+''[[The Tale of Kieu]]'' is an epic narrative poem by the celebrated poet [[Nguyễn Du]], ({{vi-nom|{{linktext|阮|攸}}}}), which is often considered the most significant work of [[Vietnamese literature]]. It was originally written in Chữ Nôm (titled {{lang|vi|Đoạn Trường Tân Thanh}} {{vi-nom|{{linktext|斷腸|新|聲}}}}) and is widely taught in Vietnam (in ''chữ quốc ngữ'' transliteration).
+
+==Language variation==
+{{Original research section|date=April 2021}}
+The Vietnamese language has several [[mutual intelligibility|mutually intelligible]] regional varieties:{{efn|Sources on Vietnamese variation include: Alves (forthcoming), Alves & Nguyễn (2007), Emeneau (1947), Hoàng (1989), Honda (2006), Nguyễn, Đ.-H. (1995), Pham (2005), Thompson (1991[1965]), Vũ (1982), Vương (1981).}}
+
+{| class="wikitable"
+! Dialect region
+! Localities
+|-
+| Northern
+| [[Hà Nội]], [[Hải Phòng]], [[Red River Delta]], [[Northwest (Vietnam)|Northwest]] and [[Northeast (Vietnam)|Northeast]]
+|-
+| North-Central (Area IV)
+| [[Thanh Hóa Province|Thanh Hoá]], [[Nghệ An Province|Vinh]], [[Hà Tĩnh Province|Hà Tĩnh]]
+|-
+| Mid-Central
+| [[Quảng Bình Province|Quảng Bình]], [[Quảng Trị Province|Quảng Trị]], [[Huế]], [[Thừa Thiên-Huế Province|Thừa Thiên]]
+|-
+| South-Central (Area V)
+| [[Đà Nẵng]], [[Quảng Nam Province|Quảng Nam]], [[Quảng Ngãi Province|Quảng Ngãi]], [[Bình Định Province|Bình Định]], [[Phú Yên Province|Phú Yên]], [[Nha Trang]]
+|-
+| Southern
+| [[Ho Chi Minh City|Hồ Chí Minh]], [[Lâm Đồng Province|Lâm Đồng]], [[Mekong Delta|Mê Kông]], [[Southeast (Vietnam)|Southeast]] 
+|}
+
+Vietnamese has traditionally been divided into three dialect regions: North, Central, and South. [[Michel Ferlus]] and Nguyễn Tài Cẩn also proved that there was a separate North-Central dialect for Vietnamese as well. The term ''Haut-Annam'' refers to dialects spoken from the northern Nghệ An Province to the southern (former) Thừa Thiên Province that preserve archaic features (like consonant clusters and undiphthongized vowels) that have been lost in other modern dialects.
+
+These dialect regions differ mostly in their sound systems (see below), but also in vocabulary (including basic vocabulary, non-basic vocabulary, and grammatical words) and grammar.{{efn|Some differences in [[grammatical word]]s are noted in [[Vietnamese grammar#Demonstratives|Vietnamese grammar: Demonstratives]], [[Vietnamese grammar#Pronouns|Vietnamese grammar: Pronouns]].}} The North-central and Central regional varieties, which have a significant number of vocabulary differences, are generally less [[mutually intelligible]] to Northern and Southern speakers. There is less internal variation within the Southern region than the other regions due to its relatively late settlement by Vietnamese speakers (around the end of the 15th century). The North-central region is particularly conservative; its pronunciation has diverged less from Vietnamese orthography than the other varieties, which tend to merge certain sounds. Along the coastal areas, regional variation has been neutralized to a certain extent, while more mountainous regions preserve more variation. As for [[sociolinguistic]] attitudes, the North-central varieties are often felt to be "peculiar" or "difficult to understand" by speakers of other dialects, despite the fact that their pronunciation fits the written language the most closely; this is typically because of various words in their vocabulary which are unfamiliar to other speakers (see the example vocabulary table below).
+{{Listen
+| header      = 
+| type        = speech
+| filename    = Universal declaration of human rights VN.ogg
+| title       = The first article of the Universal Declaration of Human Rights 
+| description = The first article of the Universal Declaration of Human Rights spoken by Nghiem Mai Phuong, native speaker of a northern variety.
+}}
+
+The large movements of people between North and South beginning in the mid-20th century and continuing to this day have resulted in a sizable number of Southern residents speaking in the Northern accent/dialect and, to a greater extent, Northern residents speaking in the Southern accent/dialect. Following the [[Geneva Conference (1954)|Geneva Accords of 1954]] that called for the [[Geneva Conference (1954)|temporary division of the country]], about a million northerners (mainly from Hanoi, [[Haiphong]] and the surrounding Red River Delta areas) moved south (mainly to Saigon and heavily to [[Biên Hòa]] and [[Vũng Tàu]], and the surrounding areas) as part of [[Operation Passage to Freedom]]. About 18% (~180,000) of that number of people made the move in the reverse direction (''Tập kết ra Bắc'', literally "go to the North".)
+
+Following the [[Fall of Saigon|reunification of Vietnam]] in 1975, Northern and North-Central speakers from the densely populated Red River Delta and the traditionally poorer provinces of Nghệ An, Hà Tĩnh, and Quảng Bình have continued to move South to look for better economic opportunities, beginning with the new government's "New Economic Zones program" which lasted from 1975 to 1985.<ref name=Desbarats>{{cite web|last=Desbarats|first=Jacqueline|title=Repression in the Socialist Republic of Vietnam: Executions and Population Relocation|url=http://jim.com/repression.htm|work=Indochina report; no. 11|publisher=Executive Publications, Singapore 1987|access-date=28 November 2013}}</ref> The first half of the program (1975–80), resulted in 1.3 million people sent to the New Economic Zones (NEZs), majority of which were relocated to the southern half of the country in previously uninhabited areas, of which 550,000 were Northerners.<ref name=Desbarats /> The second half (1981–85) saw almost 1 million Northerners relocated to the NEZs.<ref name=Desbarats /> Government and military personnel from Northern and North-central Vietnam are also posted to various locations throughout the country, often away from their home regions. More recently, the growth of the free market system has resulted in increased interregional movement and relations between distant parts of Vietnam through business and travel. These movements have also resulted in some blending of dialects, but more significantly, have made the Northern dialect more easily understood in the South and vice versa. Most Southerners, when singing modern/old popular Vietnamese songs or addressing the public, do so in the standardized accent if possible (which is Northern pronunciation). This is true in Vietnam as well as in overseas Vietnamese communities.
+
+Modern Standard Vietnamese is based on the Hanoi dialect. Nevertheless, the major dialects are still predominant in their respective areas and have also evolved over time with influences from other areas. Historically, accents have been distinguished by how each region pronounces the letters ''d'' ([z] in the Northern dialect and [j] in the Central and Southern dialect) and ''r'' ([z] in the Northern dialect, [r] in the Central and Southern dialects). Thus, the Central and Southern dialects can be said to have retained a pronunciation closer to Vietnamese orthography and resemble how Middle Vietnamese sounded in contrast to the modern Northern (Hanoi) dialect which underwent shifts. 
+<!-- Do not delete this paragraph as it effectively explains basic differences in evolution of phonology (via English phonetics) without complicated tables and graphs. Also, accents may change over time as some pronunciations get casted into antiquity in favour of more agreeable Vietnamese speech.    -->
+
+===Vocabulary===
+{| class="wikitable" style="text-align: center;"
+|+ {{Anchor|Examples of regional variation in grammatical words}}Regional variation in vocabulary<ref>Table data from {{harvtxt|Hoàng|1989}}.</ref>
+! Northern !! Central !! Southern !! English gloss
+|-
+| ''vâng'' || ''dạ'', ''dạ vâng'' || ''dạ'', ''dạ vâng'' || "yes"
+|-
+| ''này'' || ''ni'', ''nì'' || ''nè'' || "this"
+|-
+| ''thế này'', ''như này'' || ''như ri'' || ''như vầy'' || "thus, this way"
+|-
+| ''đấy'' || ''nớ'', ''tê''  || ''đó'' || "that"
+|-
+| ''thế'', ''thế ấy'', ''thế đấy'' || ''rứa'', ''rứa tê'' || ''vậy'', ''vậy đó'' || "thus, so, that way"
+|-
+| ''kia'', ''kìa'' || ''tê'', ''tề'' || ''đó'' || "that yonder"
+|-
+| ''đâu'' || ''mô'' || ''đâu'' || "where"
+|-
+| ''nào'' || ''mồ'' || ''nào'' || "which"
+|-
+| ''tại sao'' || ''răng'' || ''tại sao'' || "why"
+|-
+| ''thế nào'', ''như nào'' || ''răng'', ''làm răng'' || ''làm sao'' || "how" 
+|-
+| ''tôi, tui'' || ''tui'' || ''tui'' || "I, me (polite)"
+|-
+| ''tao'' || ''tau'' || ''tao'' || "I, me (informal, familiar)"
+|-
+| ''chúng tao'', ''bọn tao'', ''chúng tôi'', ''bọn tôi'' || ''choa'', ''bọn choa'' || ''tụi tao'', ''tụi tui'', ''bọn tui'' || "we, us (but not you, colloquial, familiar)"
+|-
+| ''mày'' || ''mi'' || ''mày'' || "you (informal, familiar)"
+|-
+| ''chúng mày'', ''bọn mày'' || ''bây'', ''bọn bây'' || ''tụi mầy'', ''tụi bây'', ''bọn mày'' || "you guys (informal, familiar)"
+|-
+|''nó''
+|''hắn''
+|''nó''
+|"he/she/it (informal, familiar)"
+|-
+| ''chúng nó'', ''bọn nó'' || ''bọn nớ'' || ''tụi nó'' || "they/them (informal, familiar)"
+|-
+| ''ông ấy'' || ''ông nớ'' || ''ổng'' || "he/him, that gentleman, sir"
+|-
+| ''bà ấy'' || ''bà nớ'' || ''bả''|| "she/her, that lady, madam"
+|-
+| ''anh ấy'' || ''anh nớ'' || ''ảnh'' || "he/him, that young man (of equal status)"
+|-
+| ''ruộng'' || ''nương'' || ''ruộng'',''rẫy'' || "field"
+|-
+| ''bát'' || ''đọi'' || ''chén'' || "rice bowl" 
+|-
+| ''muôi'', ''môi'' || ''môi'' || ''vá'' || "ladle" 
+|-
+| ''đầu'' || ''trốc'' || ''đầu'' || "head" 
+|-
+| ''ô tô'' || ''ô tô'' || ''xe hơi'' ''(ô tô)'' || "car" 
+|-
+| ''thìa'' || ''thìa'' || ''muỗng'' || "spoon" 
+|}
+Although regional variations developed over time, most of these words can be used interchangeably and be understood well, albeit, with more or less frequency then others or with slightly different but often discernible word choices and pronunciations.
+
+===Consonants===
+
+The [[syllable]]-initial ''ch'' and ''tr'' digraphs are pronounced distinctly in North-Central, Central, and Southern varieties, but are merged in Northern varieties (i.e. they are both pronounced the same way). Many North-Central varieties preserve three distinct pronunciations for ''d'', ''gi'', and ''r'' whereas the North has a three-way merger and the Central and South have a merger of ''d'' and ''gi'' while keeping ''r'' distinct. At the end of syllables, palatals ''ch'' and ''nh'' have merged with alveolars ''t'' and ''n'', which, in turn, have also partially merged with velars ''c'' and ''ng'' in Central and Southern varieties.
+
+{| class="wikitable" style="text-align: center;"
+|+ Regional consonant correspondences{{Anchor|Regional consonant correspondences}}
+! Syllable position !! Orthography !! Northern !! North-central !! Central !! Southern
+|-
+! rowspan=8 | syllable-initial
+! ''x''
+| rowspan=2 | {{IPA|[s]}}
+| colspan=3 | {{IPA|[s]}}
+|-
+! ''s''
+| colspan=2 | {{IPA|[ʂ]}} || {{IPA|[s, ʂ]}}{{efn|name="retroflex"|In southern dialects, ''ch'' and ''tr'' are increasingly being merged as {{IPA|[c]}}. Similarly, ''x'' and ''s'' are increasingly being merged as {{IPA|[s]}}.}}
+|-
+! ''ch''
+| rowspan=2 | {{IPA|[t͡ɕ]}}
+| colspan=3 | {{IPA|[c]}}
+|-
+! ''tr''
+| colspan=2 | {{IPA|[ʈ]}} || {{IPA|[c, ʈ]}}{{efn|name="retroflex"}}
+|-
+! ''r''
+| rowspan=3 | {{IPA|[z]}}
+| colspan=3 | {{IPA|[r]}}
+|-
+! ''d''
+| {{varies}}
+| rowspan=2 colspan=3 | {{IPA|[j]}}
+|-
+! ''gi''
+| {{varies}}
+|-
+! ''v''
+| colspan=3 | {{IPA|[v]}}
+| {{IPA|[v, j]}}{{efn|In southern dialects, ''v'' is increasingly being pronounced {{IPA|[v]}} among educated speakers. Less educated speakers have {{IPA|[j]}} more consistently throughout their speech.}}
+|-
+! rowspan=12 | syllable-final
+! ''t''
+| colspan=2 | {{IPA|[t]}}
+| rowspan=2 colspan=2 | {{IPA|[k]}}
+|-
+! ''c''
+| colspan=2 | {{IPA|[k]}}
+|-
+! style="line-height: 1em;" | ''t'' <br /><span style="font-weight: normal; font-size: small;">after ''i'', ''ê''</span>
+| colspan=2 | {{IPA|[t]}}
+| rowspan=2 colspan=2 | {{IPA|[t]}}
+|-
+! ''ch''
+| colspan=2 | {{IPA|[k̟]}}
+|-
+! style="line-height: 1em;" | ''t'' <br /><span style="font-weight: normal; font-size: small;">after ''u'', ''ô''</span>
+| colspan=2 | {{IPA|[t]}}
+| rowspan=2 colspan=2 | {{IPA|[kp]}}
+|-
+! style="line-height: 1em;" | ''c'' <br /><span style="font-weight: normal; font-size: small;">after ''u'', ''ô'', ''o''</span>
+| colspan=2 | {{IPA|[kp]}}
+|-
+! ''n''
+| colspan=2 | {{IPA|[n]}}
+| rowspan=2 colspan=2 | {{IPA|[ŋ]}}
+|-
+! ''ng''
+| colspan=2 | {{IPA|[ŋ]}}
+|-
+! style="line-height: 1em;" | ''n'' <br /><span style="font-weight: normal; font-size: small;">after ''i'', ''ê''</span>
+| colspan=2 | {{IPA|[n]}}
+| rowspan=2 colspan=2 | {{IPA|[n]}}
+|-
+! ''nh''
+| colspan=2 | {{IPA|[ŋ̟]}}
+|-
+! style="line-height: 1em;" | ''n'' <br /><span style="font-weight: normal; font-size: small;">after ''u'', ''ô''</span>
+| colspan=2 | {{IPA|[n]}}
+| rowspan=2 colspan=2 | {{IPA|[ŋm]}}
+|-
+! style="line-height: 1em;" | ''ng'' <br /><span style="font-weight: normal; font-size: small;">after ''u'', ''ô'', ''o''</span>
+| colspan=2 | {{IPA|[ŋm]}}
+|}
+
+In addition to the regional variation described above, there is a merger of ''l'' and ''n'' in certain rural varieties in the North:{{sfnp|Kirby|2011|p=382}}
+
+{| class="wikitable" style="text-align: center;"
+|+ ''l'', ''n'' variation
+! Orthography
+! "Mainstream" varieties
+! Rural varieties
+|-
+! ''n''
+| {{IPA|[n]}}
+| rowspan="2" | {{IPA|[l]}}
+|-
+! ''l''
+| {{IPA|[l]}}
+|}
+
+Variation between ''l'' and ''n'' can be found even in mainstream Vietnamese in certain words. For example, the numeral "five" appears as ''năm'' by itself and in compound numerals like ''năm mươi'' "fifty" but appears as {{lang|vi|lăm}} in {{lang|vi|mười lăm}} "fifteen" (see [[Vietnamese grammar#Cardinal]]). In some northern varieties, this numeral appears with an initial ''nh'' instead of ''l'': {{lang|vi|hai mươi nhăm}} "twenty-five", instead of mainstream {{lang|vi|hai mươi lăm}}.{{efn|Gregerson (1981) notes that this variation was present in de Rhodes's time in some initial consonant clusters: ''mlẽ'' ~ ''mnhẽ'' "reason" (cf. modern Vietnamese ''lẽ'' "reason").}}
+
+There is also a merger of ''r'' and ''g'' in certain rural varieties in the South:
+
+{| class="wikitable" style="text-align: center;"
+|+ ''r'', ''g'' variation
+! Orthography
+! "Mainstream" varieties
+! Rural varieties
+|-
+! ''r''
+| {{IPA|[r]}}
+| rowspan="2" | {{IPA|[ɣ]}}
+|-
+! ''g''
+| {{IPA|[ɣ]}}
+|}
+
+The consonant clusters that were originally present in Middle Vietnamese (of the 17th century) have been lost in almost all modern Vietnamese varieties (but retained in other closely related [[Vietic languages]]). However, some speech communities have preserved some of these archaic clusters: "sky" is {{lang|vi|blời}} with a cluster in Hảo Nho ([[Yên Mô District|Yên Mô]], [[Ninh Bình Province]]) but ''trời'' in Southern Vietnamese and {{lang|vi|giời}} in Hanoi Vietnamese (initial single consonants {{IPA|/ʈ/, /z/}}, respectively).
+
+===Tones===
+Although there are six tones in Vietnamese, some tones may slightly{{clarify|reason = Merged or not? Perhaps only in certain words, i.e. there's been either a tone split or a mass borrowing?|date=June 2021}} "merge", but are still highly distinguishable due to the context of the speech.{{clarify|reason = Is this supposed to mean "They are pronounced alike, but the number of the resulting homophones doesn't hamper communication" or "They are still pronounced differently, but on the verge of merging"?|date=June 2021}} The ''hỏi'' and ''ngã'' tones are distinct in North and some North-central varieties (although often with different [[pitch contour]]s) but have somewhat{{clarify|reason = Merged or not?|date=June 2021}} <!-- It sounds like saying "I'm somewhat pregnant, about 35% so". --> merged in Central, Southern, and some North-Central varieties (also with different pitch contours). Some North-Central varieties (such as {{lang|vi|Hà Tĩnh}} Vietnamese) have a slight{{clarify|reason = Merged or not?|date=June 2021}} merger of the ''ngã'' and ''nặng'' tones while keeping the ''hỏi'' tone distinct. Still, other North-Central varieties have a three-way merger of ''hỏi'', ''ngã'', and ''nặng'' resulting in a four-tone system. In addition, there are several phonetic differences (mostly in pitch contour and [[phonation]] type) in the tones among dialects.
+
+{| class="wikitable" style="text-align: center;"
+|+ Regional tone correspondences{{Anchor|Regional tone correspondences}}
+! rowspan="2" | Tone
+! rowspan="2" | Northern
+! colspan="3" | North-central
+! rowspan="2" | Central
+! rowspan="2" | Southern
+|- style="font-size: small; line-height: 1.1em;"
+! ''&nbsp;Vinh&nbsp;'' !! ''Thanh<br />Chương'' !! ''Hà Tĩnh''
+|-
+! style="text-align: left;" | ''ngang''
+| {{IPA|˧ 33}} || {{IPA|˧˥ 35}} || {{IPA|˧˥ 35}} ||{{IPA|˧˥ 35, ˧˥˧ 353}} ||{{IPA|˧˥ 35}} ||{{IPA|˧ 33}}
+|-
+! style="text-align: left;" | ''huyền''
+|{{IPA|˨˩̤ 21̤}} ||{{IPA|˧ 33}} ||{{IPA|˧ 33}} ||{{IPA|˧ 33}} ||{{IPA|˧ 33}} ||{{IPA|˨˩ 21}}
+|-
+! style="text-align: left;" | ''sắc''
+|{{IPA|˧˥ 35}} ||{{IPA|˩ 11}} ||{{IPA|˩ 11, ˩˧̰ 13̰}} || {{IPA|˩˧̰ 13̰}} || {{IPA|˩˧̰ 13̰}} || {{IPA|˧˥ 35}}
+|-
+! style="text-align: left;" | ''hỏi''
+| {{IPA|˧˩˧̰ 31̰3}} ||{{IPA|˧˩ 31}}
+| rowspan="2" | {{IPA|˧˩ 31}}
+| {{IPA|˧˩̰ʔ 31̰ʔ}}
+| rowspan="2" |{{IPA|˧˩˨ 312}}
+| rowspan="2" |{{IPA|˨˩˦ 214}}
+|-
+! style="text-align: left;" | ''ngã''
+|{{IPA|˧ʔ˥ 3ʔ5}} ||{{IPA|˩˧̰ 13̰}}
+| rowspan="2" |{{IPA|˨̰ 22̰}}
+|-
+! style="text-align: left;" | ''nặng''
+| {{IPA|˨˩̰ʔ 21̰ʔ}} ||{{IPA|˨ 22}} ||{{IPA|˨̰ 22̰}} || {{IPA|˨̰ 22̰}} ||{{IPA|˨˩˨ 212}}
+|}
+
+The table above shows the pitch contour of each tone using [[Tone (linguistics)#Asia|Chao tone number notation]] (where 1 represents the lowest pitch, and 5 the highest); [[glottalization]] ([[creaky voice|creaky]], [[stiff voice|stiff]], [[harsh voice|harsh]]) is indicated with the {{angbr IPA|◌̰}} symbol; [[murmured voice]] with {{angbr IPA|◌̤}}; [[glottal stop]] with {{angbr IPA|ʔ}}; sub-dialectal variants are separated with commas. (See also the [[#Tones|tone section]] below.)
+
+==Word play==
+A [[language game]] known as ''[[nói lái]]'' is used by Vietnamese speakers.{{sfn|Nguyễn|1997|pp=28–29}} ''Nói lái'' involves switching/adding/removing the tones in a pair of words and also the order of the two words or the first consonant and [[Syllable rime|rime]] of each word; the resulting ''nói lái'' pair preserves the original sequence of tones. Some examples:
+
+:{| class="wikitable"
+! Original phrase !! !! Phrase after ''nói lái'' transformation !! Structural change
+|-
+| ''đái dầm'' "(child) pee" || → || ''dấm đài'' (literal translation "vinegar stage") || word order and tone switch
+|-
+| ''chửa hoang'' "pregnancy out of wedlock" || → || ''hoảng chưa'' "scared yet?" || word order and tone switch
+|-
+| ''bầy tôi'' "all the king's subjects" || → || ''bồi tây'' "west waiter " || initial consonant, rime, and tone switch
+|-
+| ''bí mật'' "secrets" || → || ''bật mí'' "revealing secrets"|| initial consonant and rime switch
+|-
+| ''Tây Ban Nha'' "Spain" || → || ''Tây Bán Nhà'' "Westerner selling home"|| initial consonant, rime, and tone switch
+|}
+
+The resulting transformed phrase often has a different meaning but sometimes may just be a nonsensical word pair. ''Nói lái'' can be used to obscure the original meaning and thus soften the discussion of a socially sensitive issue, as with ''dấm đài'' and ''hoảng chưa'' (above), or when implied (and not overtly spoken), to deliver a hidden subtextual message, as with ''bồi tây''.{{efn|{{harvnb|Nguyễn|1997|p=29}} gives the following context: "... a collaborator under the French administration was presented with a congratulatory panel featuring the two Chinese characters ''quần thần''. This Sino-Vietnamese expression could be defined as ''bầy tôi'' meaning 'all the king's subjects'. But those two syllables, when undergoing commutation of rhyme and tone, would generate ''bồi tây'' meaning 'servant in a French household'."}} Naturally, ''nói lái'' can be used for a humorous effect.<ref>[http://www.users.bigpond.com/doanviettrung/noilai.html www.users.bigpond.com/doanviettrung/noilai.html] {{Webarchive|url=https://web.archive.org/web/20080222075952/http://www.users.bigpond.com/doanviettrung/noilai.html |date=2008-02-22 }}, Language Log's [http://itre.cis.upenn.edu/~myl/languagelog/archives/001788.html itre.cis.upenn.edu/~myl/languagelog/archives/001788.html], and [http://tphcm.blogspot.com/2005/01/ni-li.html tphcm.blogspot.com/2005/01/ni-li.html] for more examples.</ref>
+
+Another word game somewhat reminiscent of [[pig latin]] is played by children. Here a nonsense syllable (chosen by the child) is prefixed onto a target word's syllables, then their initial consonants and rimes are switched with the tone of the original word remaining on the new switched rime.
+
+:{| class="wikitable"
+! Nonsense syllable !! Target word !! !! Intermediate form with prefixed syllable !! !! Resulting "secret" word
+|-
+| ''la'' || ''phở'' "beef or chicken noodle soup" || → || ''la phở'' || → || ''lơ phả''
+|-
+| ''la'' || ''ăn'' "to eat" || → || ''la ăn'' || → || ''lăn a''
+|-
+| ''la'' || ''hoàn cảnh'' "situation" || → || ''la hoàn la cảnh'' || → || ''loan hà lanh cả''
+|-
+| ''chim'' || ''hoàn cảnh'' "situation" || → || ''chim hoàn chim cảnh'' || → || ''choan hìm chanh kỉm''
+|}
+
+This language game is often used as a "secret" or "coded" language useful for obscuring messages from adult comprehension.
+
+==See also==
+{{Portal|Vietnam|Language}}
+* [[Vietnamese Wikipedia]]
+*[[Vietnamese calligraphy]]
+*[[Vietnamese pronouns]]
+* [[Vietnamese studies]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+
+===General===
+* Dương, Quảng-Hàm. (1941). ''Việt-nam văn-học sử-yếu'' [Outline history of Vietnamese literature]. Saigon: Bộ Quốc gia Giáo dục.
+* {{cite journal | surname = Emeneau | given = M. B. | author-link = Murray Barnson Emeneau | year = 1947 | title = Homonyms and puns in Annamese | journal = Language | volume = 23 | issue = 3| pages = 239–244 | doi = 10.2307/409878 | jstor = 409878 }}
+* {{cite book | surname = Emeneau | given = M. B. | author-mask = 3 | year = 1951 | title = Studies in Vietnamese (Annamese) grammar | series = University of California publications in linguistics | volume = 8 | location = Berkeley | publisher = University of California Press }}
+* {{cite journal | surname = Hashimoto | given = Mantaro | author-link = Hashimoto Mantaro | title = Current developments in Sino-Vietnamese studies | journal = Journal of Chinese Linguistics | volume = 6 | issue = 1 | pages = 1–26 | year = 1978 | jstor = 23752818 }}
+* {{cite book | surname = Marr | given = David G. | title = Vietnamese Tradition on Trial, 1920–1945 | publisher = University of California Press | year = 1984 | isbn = 978-0-520-90744-7 }}
+* {{cite book | surname = Nguyễn | given = Đình-Hoà | title = NTC's Vietnamese–English dictionary | edition = updated | location = Lincolnwood, Illinois | publisher = NTC | year = 1995 | isbn = 0-8442-8357-6 }}
+* {{cite book | surname = Nguyễn | given = Đình-Hoà | author-mask = 3 | title = Vietnamese: Tiếng Việt không son phấn | location = Amsterdam | publisher = John Benjamins | year = 1997 | isbn = 90-272-3809-X }}
+* {{cite book|last=Nguyen|first=Dinh Tham|title=Studies on Vietnamese Language and Literature: A Preliminary Bibliography|year=2018|publisher=Cornell University Press|isbn=978-1-501-71882-3}}
+* {{cite book|last=Rhodes|first=Alexandre de|editor1=L. Thanh|editor2=X. V. Hoàng|editor3=Q. C. Đỗ|title=[[Dictionarium Annamiticum Lusitanum et Latinum]]|year=1991|publisher=Khoa học Xã hội|location=Hanoi}}
+* {{cite book | surname = Thompson | given = Laurence C. | title = A Vietnamese reference grammar | location = Honolulu | publisher = University of Hawaii Press | year = 1991 | orig-year = 1965 | isbn = 0-8248-1117-8 | url = http://www.sealang.net/archives/mks/THOMPSONLaurenceC.htm }}
+* Uỷ ban Khoa học Xã hội Việt Nam. (1983). ''Ngữ-pháp tiếng Việt'' [Vietnamese grammar]. Hanoi: Khoa học Xã hội.
+
+===Sound system===
+*{{cite journal | last1 = Brunelle | first1 = Marc | year = 2009 | title = Tone perception in Northern and Southern Vietnamese | journal = Journal of Phonetics | volume = 37 | issue = 1| pages = 79–96 | doi = 10.1016/j.wocn.2008.09.003 }}
+*{{cite journal | last1 = Brunelle | first1 = Marc | year = 2009 | title = Northern and Southern Vietnamese Tone Coarticulation: A Comparative Case Study | url = http://www.jseals.org/JSEALS-1.pdf#page=55 | archive-url = https://web.archive.org/web/20181113080707/http://www.jseals.org/JSEALS-1.pdf#page=55 | url-status = dead | archive-date = 2018-11-13 | journal = Journal of Southeast Asian Linguistics | volume = 1 | pages = 49–62 }}
+* {{cite journal |title=Vietnamese (Hanoi Vietnamese) |first=James P. |last=Kirby |journal=Journal of the International Phonetic Association |year=2011 |volume=41 |issue=3 |pages=381–392 |doi=10.1017/S0025100311000181 |s2cid=144227569 |url=http://www.lel.ed.ac.uk/~jkirby/docs/kirby2011vietnamese.pdf }}
+* {{cite journal | last1 = Michaud | first1 = Alexis | year = 2004 | title = Final consonants and glottalization: New perspectives from Hanoi Vietnamese | url = http://hal.archives-ouvertes.fr/hal-00130119/en/ | journal = Phonetica | volume = 61 | issue = 2–3| pages = 119–146 | doi = 10.1159/000082560 | pmid = 15662108 | s2cid = 462578 }}
+* {{cite journal | last1 = Nguyễn | first1 = Văn Lợi | last2 = Edmondson | first2 = Jerold A | year = 1998 | title = Tones and voice quality in modern northern Vietnamese: Instrumental case studies | url = http://www.sealang.net/archives/mks/NGUYNVnLoi.htm | journal = Mon–Khmer Studies | volume = 28 | pages = 1–18 }}
+* {{cite journal | last1 = Thompson | first1 = Laurence E | year = 1959 | title = Saigon phonemics | journal = Language | volume = 35 | issue = 3| pages = 454–476 | doi = 10.2307/411232 | jstor = 411232 }}
+
+===Language variation===
+* Alves, Mark J. 2007. [http://sealang.net/sala/archives/pdf8/alves2002look.pdf "A Look At North-Central Vietnamese"] In ''SEALS XII Papers from the 12th Annual Meeting of the Southeast Asian Linguistics Society 2002'', edited by Ratree Wayland et al. Canberra, Australia, 1–7. Pacific Linguistics, Research School of Pacific and Asian Studies, The Australian National University
+* Alves, Mark J.; & Nguyễn, Duy Hương. (2007). [https://web.archive.org/web/20080216015159/http://pacling.anu.edu.au/catalogue/SEALSVIII_final.pdf  "Notes on Thanh-Chương Vietnamese in Nghệ-An province"]. In M. Alves, M. Sidwell, & D. Gil (Eds.), ''SEALS VIII: Papers from the 8th annual meeting of the Southeast Asian Linguistics Society 1998'' (pp.&nbsp;1–9). Canberra: Pacific Linguistics, The Australian National University, Research School of Pacific and Asian Studies
+* {{cite book | surname = Hoàng | given = Thị Châu | year = 1989 | title = Tiếng Việt trên các miền đất nước: Phương ngữ học | trans-title = Vietnamese in different areas of the country: Dialectology | location = Hanoi | publisher = Khoa học xã hội }}
+* Honda, Koichi. (2006). [https://assta.org/proceedings/sst/2006/sst2006-119.pdf "F0 and phonation types in Nghe Tinh Vietnamese tones"]. In P. Warren & C. I. Watson (Eds.), ''Proceedings of the 11th Australasian International Conference on Speech Science and Technology'' (pp.&nbsp;454–459). Auckland, New Zealand: University of Auckland.
+* Machaud, Alexis; Ferlus, Michel; & Nguyễn, Minh-Châu. (2015). [https://www.researchgate.net/publication/280959628_Strata_of_standardization_The_Phong_Nha_dialect_of_Vietnamese_Quang_Binh_Province_in_historical_perspective "Strata of standardization: the Phong Nha dialect of Vietnamese (Quảng Bình Province)] in historical perspective". ''Linguistics of the Tibeto-Burman Area'', Dept. of Linguistics, University of California, 2015, 38 (1), pp.124-162.
+* Pham, Andrea Hoa. (2005). [https://web.archive.org/web/20080216015159/http://r1.chass.utoronto.ca/twpl/pdfs/twpl24/Pham_TWPL24.pdf "Vietnamese tonal system in Nghi Loc: A preliminary report"]. In C. Frigeni, M. Hirayama, & S. Mackenzie (Eds.), ''Toronto working papers in linguistics: Special issue on similarity in phonology'' (Vol. 24, pp.&nbsp;183–459). Auckland, New Zealand: University of Auckland.
+* Vũ, Thanh Phương. (1982). "Phonetic properties of Vietnamese tones across dialects". In D. Bradley (Ed.), ''Papers in Southeast Asian linguistics: Tonation'' (Vol. 8, pp.&nbsp;55–75). Sydney: Pacific Linguistics, The Australian National University.
+* Vương, Hữu Lễ. (1981). "Vài nhận xét về đặc diểm của vần trong thổ âm Quảng Nam ở Hội An" [Some notes on special qualities of the rhyme in local Quảng Nam speech in Hội An]. In ''Một Số Vấn Ðề Ngôn Ngữ Học Việt Nam'' [Some linguistics issues in Vietnam] (pp.&nbsp;311–320). Hà Nội: Nhà Xuất Bản Ðại Học và Trung Học Chuyên Nghiệp.
+
+===Pragmatics===
+* Luong, Hy Van. (1987). "Plural markers and personal pronouns in Vietnamese person reference: An analysis of pragmatic ambiguity and negative models". ''Anthropological Linguistics'', '''29'''(1), 49–70. {{JSTOR|30028089}}
+* {{cite journal | last1 = Sophana | first1 = Srichampa | year = 2004 | title = Politeness strategies in Hanoi Vietnamese speech | url = http://www.sealang.net/archives/mks/SOPHANASrichampa.htm | journal = Mon–Khmer Studies | volume = 34 | pages = 137–157 }}
+* {{cite journal | last1 = Sophana | first1 = Srichampa | year = 2005 | title = Comparison of greetings in the Vietnamese dialects of Ha Noi and Ho Chi Minh City | url = http://www.sealang.net/archives/mks/SOPHANASrichampa.htm | journal = Mon–Khmer Studies | volume = 35 | pages = 83–99 }}
+
+===Historical and comparative===
+* {{cite book | given = Mark J. | surname = Alves | chapter = What's So Chinese About Vietnamese? | pages = 221–242 | chapter-url = http://sealang.net/sala/archives/pdf8/alves2001what.pdf | title = Papers from the Ninth Annual Meeting of the Southeast Asian Linguistics Society | editor-given = Graham W. | editor-surname = Thurgood | publisher = Arizona State University, Program for Southeast Asian Studies | year = 2001 | isbn = 978-1-881044-27-7 }}
+* {{citation| surname1 =Chamberlain | given1 = James | chapter =Vanishing Nomads: Languages and Peoples of Nakai, Laos, and Adjacent Areas| pages = 1589–1606| title = Handbook of the Changing World Language Map| editor-given1 = Stanley | editor-surname1 = Brunn| editor-given2 = Roland | editor-surname2 = Kehrein | location = Vientiane | publisher = Springer International Publishing| year = 2019|isbn=978-3-03002-437-6}}
+* Cooke, Joseph R. (1968). ''Pronominal reference in Thai, Burmese, and Vietnamese''. University of California publications in linguistics (No. 52). Berkeley: University of California Press.
+* {{cite journal|last1=Ferlus|first1=Michael|title=A Layer of Dongsonian Vocabulary in Vietnamese|journal=Journal of the Southeast Asian Linguistics Society|date=2009|volume=1|pages=95–108|url=https://halshs.archives-ouvertes.fr/halshs-00932218v3 }} 
+* {{cite journal | last1 = Gong | first1 = Xun | year = 2019 | title = Chinese loans in Old Vietnamese with a sesquisyllabic phonology. | journal = Journal of Language Relationship | volume = 17 | issue = 1–2| pages = 55–72 | doi = 10.31826/jlr-2019-171-209 | doi-access = free | s2cid = 212689052 }}
+* Gregerson, Kenneth J. (1969). "A study of Middle Vietnamese phonology". ''Bulletin de la Société des Etudes Indochinoises'', '''44''', 135–193. (Reprinted in 1981).
+* {{cite journal | last1 = Maasaki | first1 = Shimizu | year = 2015 | title = A Reconstruction of Ancient Vietnamese Initials Using Chữ Nôm Materials | journal = NINJAL Research Papers | volume = 9 | issue = 1–2 | pages = 135–158 | doi = 10.15084/00000465 | doi-access = free }}
+* {{cite journal | title = Etudes sur la phonétique historique de la langue annamite. Les initiales | given = Henri | surname = Maspero | journal = Bulletin de l'École française d'Extrême-Orient | year = 1912 | volume = 12 | number = 1 | pages = 1–124 | doi = 10.3406/befeo.1912.2713 | doi-access = free }}
+* {{cite journal | last1 = Nguyễn | first1 = Đình-Hoà | year = 1986 | title = Alexandre de Rhodes' dictionary | journal = Papers in Linguistics | volume = 19 | pages = 1–18 | doi = 10.1080/08351818609389247 }}
+* {{citation
+  | title = Past human migrations in East Asia: matching archaeology, linguistics and genetics
+  | editor-first1= Alicia | editor-last1= Sanchez-Mazas
+  | editor-first2= Roger | editor-last2= Blench
+  | editor-first3= Malcolm D. | editor-last3= Ross
+  | editor-first4= Peiros | editor-last4= Ilia
+  | editor-first5= Marie | editor-last5= Lin
+  | publisher = Routledge
+  | given1 = Laurent | surname1 = Sagart
+  | chapter = The expansion of Setaria farmers in East Asia
+  |chapter-url=https://www.academia.edu/3077307
+  | year = 2008
+  | pages = 133–157
+  | isbn = 978-0-415-39923-4
+  }}
+* Shorto, Harry L. edited by Sidwell, Paul, Cooper, Doug and Bauer, Christian (2006). ''A Mon–Khmer comparative dictionary''. Canberra: Australian National University. Pacific Linguistics. ISBN
+* {{cite journal | last1 = Thompson | first1 = Laurence E | year = 1967 | title = The history of Vietnamese final palatals | journal = Language | volume = 43 | issue = 1| pages = 362–371 | doi = 10.2307/411402 | jstor = 411402}}
+
+===Orthography===
+* {{cite book | surname = DeFrancis | given = John | author-link = John DeFrancis | title = Colonialism and language policy in Viet Nam | publisher = Mouton | year = 1977 | isbn = 978-90-279-7643-7 }}
+*{{Cite journal | last1 = Haudricourt | first1 = André-Georges | year = 1949 | title = Origine des particularités de l'alphabet vietnamien | journal = Dân Việt-Nam | volume = 3 | pages = 61–68 }}
+** English translation: {{Cite journal | title = The origin of the peculiarities of the Vietnamese alphabet | first1 = Alexis | last1 = Michaud | first2 = André-Georges | last2 = Haudricourt | journal = Mon-Khmer Studies | volume = 39 | year = 2010 | pages = 89–104 | url =https://www.academia.edu/2571111 }}
+* Nguyễn, Đình-Hoà. (1955). ''Quốc-ngữ: The modern writing system in Vietnam''. Washington, DC: Author.
+* {{cite journal | last1 = Nguyễn | first1 = Đình-Hoà | year = 1990 | title = Graphemic borrowing from Chinese: The case of ''chữ nôm'', Vietnam's demotic script | journal = Bulletin of the Institute of History and Philology, Academia Sinica | volume = 61 | pages = 383–432 }}
+* Nguyễn, Đình-Hoà. (1996). Vietnamese. In P. T. Daniels, & W. Bright (Eds.), ''The world's writing systems'', (pp.&nbsp;691–699). New York: Oxford University Press. {{ISBN|978-0-19-507993-7}}.
+
+===Pedagogical===
+* Nguyen, Bich Thuan. (1997). ''Contemporary Vietnamese: An intermediate text''. Southeast Asian language series. Northern Illinois University, Center for Southeast Asian Studies.
+* Healy, Dana. (2004). ''Teach Yourself Vietnamese''. Teach Yourself. Chicago: McGraw-Hill. ISBN
+* Hoang, Thinh; Nguyen, Xuan Thu; Trinh, Quynh-Tram; (2000). ''Vietnamese phrasebook'', (3rd ed.). Hawthorn, Vic.: Lonely Planet. ISBN
+* Moore, John. (1994). ''Colloquial Vietnamese: A complete language course''. London: Routledge.
+* Nguyễn, Đình-Hoà. (1967). ''Read Vietnamese: A graded course in written Vietnamese''. Rutland, Vermont: C.E. Tuttle.
+* Lâm, Lý-duc; Emeneau, M. B.; von den Steinen, Diether. (1944). ''An Annamese reader''. Berkeley: University of California, Berkeley.
+* Nguyễn, Đăng Liêm. (1970). ''Vietnamese pronunciation''. PALI language texts: Southeast Asia. Honolulu: University of Hawaii Press.
+
+== External links ==
+{{InterWiki|code=vi}}
+{{Wikibooks|Vietnamese}}
+{{Commons category|Vietnamese language}}
+; Online lessons
+* [http://www.seasite.niu.edu/vietnamese/VNLanguage/SupportNS/tableofcontent.htm Online Vietnamese lessons] from [[Northern Illinois University]]
+
+; Vocabulary
+{{wikivoyage|Vietnamese phrasebook|Vietnamese|a phrasebook}}
+* [http://wold.clld.org/vocabulary/24 Vietnamese Vocabulary List] (from the World Loanword Database)
+* [http://en.wiktionary.org/wiki/Appendix:Vietnamese_Swadesh_list Swadesh list of Vietnamese basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+
+; Language tools
+* [http://just.nicepeople.free.fr/kbd/ The Vietnamese keyboard] its layout is compared with US, UK, Canada, France, and Germany's keyboards.
+* [https://web.archive.org/web/20181013093753/http://www.informatik.uni-leipzig.de/~duc/Dict/index.html The Free Vietnamese Dictionary Project]
+'''Research projects and data resources'''
+* [http://projekt.ht.lu.se/rwaai rwaai | Projects] RWAAI (Repository and Workspace for Austroasiatic Intangible Heritage)
+* [[hdl:10050/00-0000-0000-0003-93ED-5@view|http://hdl.handle.net/10050/00-0000-0000-0003-93ED-5@view]] Vietnamese in RWAAI Digital Archive
+
+{{navboxes|
+|list=
+{{Languages of Vietnam}}
+{{Languages of Cambodia}}
+{{Languages of China}}
+{{Languages of the Czech Republic}}
+{{Austro-Asiatic languages}}
+}}
+{{Vietnam topics}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Vietnamese Language}}
+[[Category:Vietnamese language| ]]
+[[Category:Analytic languages]]
+[[Category:Isolating languages]]
+[[Category:Languages of Vietnam]]
+[[Category:Languages of Cambodia]]
+[[Category:Languages of China]]
+[[Category:Languages of the Czech Republic]]
+[[Category:Subject–verb–object languages]]
+[[Category:Vietic languages]]
+[[Category:Tonal languages in non-tonal families]]

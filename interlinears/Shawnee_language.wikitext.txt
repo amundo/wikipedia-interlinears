@@ -1,0 +1,639 @@
+{{Short description|Language}}
+{{Infobox language
+| name = Shawnee
+| nativename = {{lang|sjw|Sawanwa, Savannah, Sewanee, Shawano}}
+| states = [[United States]]
+| region = Central and Northeast [[Oklahoma]]
+| ethnicity = [[Shawnee]]<ref name=e18/>
+| speakers = 260 and decreasing
+| date = 2015
+| ref = e18
+| familycolor = Algic
+| fam1 = [[Algic languages|Algic]]
+| fam2 = [[Algonquian languages|Algonquian]]
+| iso3 = sjw
+| glotto = shaw1249
+| glottorefname = Shawnee
+| map = Shawnee lang.png
+| mapcaption = Distribution of the Shawnee language around 1650
+| notice = IPA
+| script = [[Latin script]]
+}}
+
+The '''Shawnee language''' is a Central [[Algonquian languages|Algonquian language]] spoken in parts of central and northeastern [[Oklahoma]] by the [[Shawnee]] people. It was originally spoken by these people in a broad territory throughout the Eastern United States, mostly north of the Ohio River. They occupied territory in [[Ohio]], [[West Virginia]], [[Kentucky]], and [[Pennsylvania]].
+
+Shawnee is closely related to other Algonquian languages, such as [[Fox language|Mesquakie-Sauk]] (Sac and Fox) and [[Kickapoo people#Language|Kickapoo]]. It has 260 speakers, according to a 2015 census,<ref name="e18" /> although the number is decreasing. It is a polysynthetic language with rather free word ordering.<ref name=":0" />
+
+== Status ==
+Shawnee is severely threatened, as many speakers have shifted to English. The approximately 200 remaining speakers are older adults.<ref name=e18/> Some of the decline in usage of Shawnee is the result of the assimilation program carried out by [[Indian boarding schools]], which abused, starved, and beat children who spoke their native language. This treatment often extended to the family of those children as well.
+
+Of the 2,000 members of the [[Absentee Shawnee Tribe]] around the city of [[Shawnee, Oklahoma|Shawnee]], more than 100 are speakers; of the 1,500 members of the [[Eastern Shawnee Tribe]] in [[Ottawa County, Oklahoma|Ottawa County]], only a few elders are speakers; of the 8,000 members of the [[Loyal Shawnee]] in the [[Cherokee]] region of [[Oklahoma]] around Whiteoak, there are fewer than 12 speakers.<ref name="e18"/> Because of such low figures and the percentage of elderly speakers, Shawnee is classified as an [[endangered language]]. Additionally, development outside of the home has been limited. Apart from a dictionary and portions of the [[Bible]] translated from 1842 to 1929,<ref name="e18"/> there is little literature or technology support for Shawnee.
+
+===Language revitalization===
+
+[[Absentee-Shawnee Tribe of Indians|Absentee-Shawnee]] Elder George Blanchard, Sr, former governor of his tribe, teaches classes to Headstart and elementary school children, as well as evening classes for adults, at the Cultural Preservation Center in Seneca, Missouri. His work was profiled on the PBS show ''The [[American Experience]]'' in 2009.<ref>{{Cite episode
+| publisher =  American Experience (in association with [[Native American Public Telecommunications|NAPT]])
+| network = PBS
+| title = Shawnee: A Matter of Funding
+| series = We Shall Remain
+| access-date = 2013-04-26
+| date = 2009-04-13
+| url = https://www.pbs.org/wgbh/amex/weshallremain/native_now/language_shawnee
+}}</ref> The classes are intended to encourage use of Shawnee among families at home. The [[Eastern Shawnee Tribe of Oklahoma|Eastern Shawnee]] have also taught language classes.<ref>
+{{Cite web
+| title = Shawnee Language Classes
+| work = Eastern Shawnee of Oklahoma
+| access-date = 2013-04-26
+| url = http://www.estoo-nsn.gov/events/shawnee-language-classes/
+| archive-url = https://web.archive.org/web/20160520014828/https://www.estoo-nsn.gov/events/shawnee-language-classes/
+| archive-date = 2016-05-20
+| url-status = dead
+}}
+</ref>
+
+Conversational Shawnee booklets and CDs, and a Learn Shawnee Language website are available.<ref>{{Cite web
+| title = Say it in Shawnee!
+| access-date = 2013-04-26
+| url = http://shawneelanguage.homestead.com/
+}}</ref><ref>{{Cite web
+| title = Learn Shawnee - Learn Shawnee Language
+| access-date = 2013-04-26
+| url = http://learnshawnee.com/
+}}</ref>
+
+==Phonology==
+
+===Vowels===
+
+Shawnee has six vowels,<ref name=":0">Andrew, Kenneth Ralph. Shawnee Grammar. ProQuest ''Dissertations and Theses;'' 1994</ref> three of which are high, and three are low.<br />
+{| class="wikitable"
+! 
+! Front
+! Central
+! Back
+|-
+! Close
+| i {{angle bracket|i}} iː {{angle bracket|ii}}
+| 
+| 
+|-
+! Mid
+| e {{angle bracket|e}}
+| 
+| o {{angle bracket|o}}
+|-
+! Open
+| 
+| a {{angle bracket|a}} aː {{angle bracket|aa}}
+| 
+|}
+In Shawnee, /i/ tends to be realized as [ɪ], and /e/ tended to be pronounced [ɛ].<ref name=":0" />
+
+In (1) and (2), a near minimal pair has been found for Shawnee /i/ and /ii/. In (3) and (4), a minimal pair has been found for Shawnee /a/ and /aa/.
+
+(1) ho-wiisi'-ta 'he was in charge'
+
+(2) wi 'si 'dog'
+
+(3) caaki yaama 'all this'
+
+(4) caki 'small' <ref name=":0" />
+
+However, no quantitative contrasts have been found in the vowels /e/ and /o/.
+
+===Consonants===
+
+Shawnee consonants are shown in the chart below.
+
+{| class="wikitable"
+!
+! align="center"|[[labial consonant|Labial]]
+! align="center"|[[Alveolar consonant|Alveolar]]
+! align="center"|[[Palatal]]
+! align="center"|[[Velar consonant|Velar]]
+! align="center"|[[glottal consonant|Glottal]]
+|-
+! [[Plosive]]
+| align="center"|{{IPA|p}} {{angle bracket|p}}
+| align="center"|{{IPA|t}} {{angle bracket|t}}
+| align="center"|{{IPA|tʃ}} {{angle bracket|ch}}
+| align="center"|{{IPA|k}} {{angle bracket|k}} k:
+| align="center"|{{IPA|ʔ}} {{angle bracket|ʔ}}
+|-
+! [[Fricative]]
+|
+| align="center"|{{IPA|θ}} {{angle bracket|th}}
+| align="center"|{{IPA|ʃ}} {{angle bracket|sh}}
+|
+| align="center"|{{IPA|h}} {{angle bracket|h}}
+|-
+! [[Lateral consonant|Lateral]]
+|
+| align="center"|{{IPA|l}} {{angle bracket|l}}
+|
+|
+|
+|-
+! [[Nasal stop|Nasal]]
+| align="center"|{{IPA|m}} {{angle bracket|m}}
+| align="center"|{{IPA|n}} {{angle bracket|n}}
+|
+|
+|
+|-
+! [[Semivowel]]
+| align="center"|{{IPA|w}} {{angle bracket|w}}
+|
+| align="center"|{{IPA|j}} {{angle bracket|y}}
+|
+|
+|}
+
+/k/ and /kk/ contrast in the verbal affixes ''-ki'' (which marks third person singular animate objects) and ''-kki'' (which marks third person plural animate objects).
+
+The Shawnee /θ/ is most often derived from [[Proto-Algonquian]] *s.<ref name="mithun2001">{{cite book | last = Mithun | first = Marianne | title = The Languages of Native North America | publisher = Cambridge University Press | location = Cambridge | year = 2001| isbn = 978-0-521-29875-9 }}</ref>{{rp|16}}
+
+Some speakers of Shawnee pronounce /ʃ/ more like an alveolar [s]. This pronunciation is especially common among [[Loyal Band Shawnee]] speakers near [[Vinita, Oklahoma|Vinita]], Oklahoma.
+
+/{{IPA|ʔ}}/ and /h/ are allophones of the same phoneme: /{{IPA|ʔ}}/ occurs in syllable final position, while /h/ occurs at the beginning of a syllable.<ref name=":0" />
+
+=== Stress ===
+Stress in Shawnee falls on the final syllable (ultima) of a word.
+
+;Consonant length<ref name=":0" />
+In Shawnee phonology, consonant length is contrastive. Words may not begin with vowels, and between a morpheme ending with a vowel and one starting with a vowel, a [y] is inserted. Shawnee does not allow word-final consonants and long vowels.
+:/k/ and /kk/ contrast in the following verbal affixes
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|ye- kkil -a -ki
+|SUB- hide -DIR -3sAO
+|when (I) hide him}}
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|ye- kkil -a -kki
+|SUB- hide -DIR -3pAO
+|when (I) hide them}}
+
+''These affixes (-ki, -kki) are object markers in the transitive animate subordinate mode. The subject is understood.''
+
+'''[h] Insertion'''<ref name=":0" />
+
+∅→[h]/#____V<br />
+A word may not begin with a vowel. Instead, an on-glide [h] is added. For example:<br />
+There are two variants of the article "-oci", meaning ''from.'' It can attach to nouns to form prepositional phrases, or it can also be a preverb. When it attaches to a noun, it is "-ooci," and when attached to a preverb it is "-hoci."
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|naamin-ooci
+|Norman-from
+|from Norman}}
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|oklahooma niila hoci-lenawe
+|Oklahoma 1 from-live
+|I'm from Oklahoma}}
+
+'''/y/ Insertion'''<ref name=":0" />
+
+∅→[y]/V(:)_____ V(:)
+
+When one of the vowels is long, Shawnee allows for the insertion of [y].
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|ni-[t]aay-a
+|I-REDUP-go
+|'I went (repeatedly)'}}
+
+'''Word-final Consonant Deletion'''<ref name=":0" />
+
+C# → 0
+
+A consonant is deleted at the end of a word.
+
+In (a), a noun ends in a consonant when a locative suffix follows, but in (b), the consonant is deleted at word end.
+
+{{interlinear|lang=sjw|number=(a)|glossing=no abbr
+|wiikiw55p -ski
+|house -LOC
+|'in the house'}}
+
+{{interlinear|lang=sjw|number=(b)|glossing=no abbr
+|wiikiwa ho- staa -ekw -a -li kapenalee -li
+|house 3- build -INV -DIR -3sOBV governor -3sOBV
+|'The governor (obviative) built (him)}}
+
+'''Word-final Vowel Shortening'''<ref name=":0" />
+
+V:# → V#
+
+A long vowel is shortened at the end of a word.
+
+==Morphology==
+
+===Morpho-phonology<ref name=":0" />===
+
+====Rule 1====
+
+t/V____V<br />
+[t] is inserted between two vowels at morpheme boundary.<br />
+As we know from the phonological rule stated above, a word may not begin with a vowel in Shawnee. From the morphophonological rule above, we can assume that [h]~[t].<br />
+'''''example'''''<br />
+"-eecini(i)" meaning ''Indian agent'' appears as "hina heecini" or ''that Indian agent,'' and as "ho-[t]eecinii-ma-waa-li, meaning ''he was their Indian agent.'' The [t] of "ho-[t]-" fills the open slot that would otherwise have to be filled with [h].
+
+====Rule 2====
+
+V1-V2-----> V2<br />
+A short vowel preceding another short vowel at a morpheme boundary is deleted.
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|hina + -ene|c1=( > hinene)
+|that + -Xtimes
+|at that time period, then}}
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|melo'kami -eke|c1=( > melo'kameke)
+|spring -LOC
+|in spring}}
+
+====Rule 3====
+
+V:V------> V:<br />
+When a long vowel and a short vowel come together at a morpheme boundary, the short vowel is deleted.
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|ho- staa -ekw -a -li|c1=( > ho-staa-koo-li)
+|3- build -INV -DIR -3sOBV
+|he built (him) (a house)}}
+
+{{interlinear|lang=sjw|indent=3|glossing=no abbr
+|kaa- ki- noot-en -aa -maa -ekw -a|c1=( > kaakinootenaamaakwa)
+|REDUP- PERF- hear-by.hand -TI -TA -INV -DIR
+|(he) signed by hand (to me) (repeatedly)}}
+
+Shawnee shares many grammatical features with other Algonquian languages. There are two third persons, [[Grammatical person#Additional persons|proximate]] and [[obviative]], and two [[noun class]]es (or genders), [[animacy|animate]] and [[animacy|inanimate]]. It is primarily [[agglutination|agglutinating]] [[linguistic typology|typologically]], and is [[polysynthesis|polysynthetic]], resulting in a great deal of information being encoded on the verb. The most common [[word order]] is Verb-Subject.
+
+===Affixes===
+
+stem-(instrumental affix)-transitivizing affix-object affix <br />
+The instrumental affix is not obligatory, but if it is present, it determines the type of transitivizing affix that can follow it, (see numbering scheme below) or by the last stem in the theme. <br />
+Instrumental affixes are as follows
+
+<!-- -->
+{| class="tg" 
+! class="tg-s6z2" | Instrumental suffix
+! class="tg-031e" |
+|- 
+| class="tg-031e" | pw 'by mouth'
+| class="tg-031e" |
+|- 
+| class="tg-031e" | n 'by hand'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | h(0) 'by heat'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | hh 'by mechanical instrument'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | l 'by projectile'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | (h)t 'by vocal noise'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | šk 'by feet in locomotion'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | hšk 'by feet as agent'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | lhk 'by legs'
+| class="tg-031e" | 
+|- 
+| class="tg-031e" | 
+| class="tg-031e" | 
+|}
+
+===Possessive paradigm: animate nouns===
+
+<!-- -->
+{| class="tg" -- 
+! class="tg-s6z2" | Possessor
+! class="tg-031e" | Singular noun
+! class="tg-031e" | Plural noun
+|--- 
+| class="tg-031e" | 1s
+| class="tg-031e" | ni- + ROOT
+| class="tg-031e" | ni- + ROOT + ki
+|--- 
+| class="tg-031e" | 2s
+| class="tg-031e" | ki- + ROOT
+| class="tg-031e" | ki- + ROOT + ki
+|--- 
+| class="tg-031e" | 3s
+| class="tg-031e" | ho- + ROOT
+| class="tg-031e" | ho- + ROOT + ki
+|--- 
+| class="tg-031e" | 4s
+| class="tg-031e" | ho- + ROOT + li
+| class="tg-031e" | ho- + ROOT + waa + li
+|--- 
+| class="tg-031e" | 1p (excl)
+| class="tg-031e" | ni- + ROOT + na
+| class="tg-031e" | ni- + ROOT + naa + ki
+|--- 
+| class="tg-031e" | 2+1 (incl)
+| class="tg-031e" | ki- + ROOT + na
+| class="tg-031e" | ki- + ROOT + naa + ki
+|--- 
+| class="tg-031e" | 2p
+| class="tg-031e" | ki- + ROOT + wa
+| class="tg-031e" | ki- + ROOT + waa + ki
+|--- 
+| class="tg-031e" | 4p
+| class="tg-031e" | ho- + ROOT + hi
+| class="tg-031e" | ho- + ROOT + waa + hi
+|}
+
+===Possessive paradigm: inanimate nouns===
+
+-tθani (w)- 'bed'
+
+<!-- -->
+{| class="tg" -- 
+! class="tg-s6z2" | Possessor
+! class="tg-031e" | Singular noun
+! class="tg-031e" | Plural noun
+|--- 
+| class="tg-031e" | 1s
+| class="tg-031e" | ni- + t0ani
+| class="tg-031e" | ni- + t0aniw+ali
+|--- 
+| class="tg-031e" | 2s
+| class="tg-031e" | ki- + t0ani
+| class="tg-031e" | ki- + t0aniw+ali
+|--- 
+| class="tg-031e" | 3s
+| class="tg-031e" | ho- + t0ani
+| class="tg-031e" | ho- + t0aniw+ali
+|--- 
+| class="tg-031e" | 1p (excl)
+| class="tg-031e" | ni- + t0ane+na
+| class="tg-031e" | ni- + t0ane+na
+|--- 
+| class="tg-031e" | 2+1 (incl)
+| class="tg-031e" | ki- + t0ane+na
+| class="tg-031e" | ki- + t0ane+na
+|--- 
+| class="tg-031e" | 2p
+| class="tg-031e" | ki- + t0ani+wa
+| class="tg-031e" | ki- + t0ani+wa
+|--- 
+| class="tg-031e" | 3p
+| class="tg-031e" | ho- + t0ani+wa
+| class="tg-031e" | ho- + t0ani+wa
+|--- 
+| class="tg-031e" | Locative
+| class="tg-031e" | t0an + eki
+| class="tg-031e" | (unattested)
+|--- 
+| class="tg-031e" | Diminutive
+| class="tg-031e" | t0an + ehi
+| class="tg-031e" | 
+|}
+
+==Grammar and syntax<ref name=":0" />==
+
+===Word order===
+Shawnee has a fairly free word order, with VSO being the most common:
+
+{{interlinear|indent=3|glossing=no abbr
+|teki koos -i -ma
+|NEG run.from -IMPER -AO
+|'run you from him' (in the negative) 'you mustn't run away from him'}}
+
+SOV, SVO, VOS, and OVS are also plausible.
+
+===Grammatical categories===
+Parts of speech in the Algonquian languages, Shawnee included, show a basic division between inflecting forms (nouns, verbs and pronouns), and non-inflecting invariant forms (also known as particles). Directional particles ("piyeci" meaning "towards") incorporate into the verb itself. Although particles are invariant in form, they have different distributions and meanings that correspond to adverbs ("[hi]noki" meaning "now", "waapaki" meaning "today", "lakokwe" meaning "so, certainly", "mata" meaning "not") postpositions ("heta'koθaki wayeeci" meaning "towards the east") and interjections ("ce" meaning "so!").
+
+===Case===
+Examples (1) and (2) below show the grammatical interaction of obviation and inverse. The narrative begins in (1) in which grandfather is the grammatical subject [+AGENT] in discourse-focus [+PROXIMATE]. In (2), grandfather remains in discourse-focus [+PROXIMATE], but he is now the grammatical object [+OBJECT]. To align grammatical relations properly in (2), the inverse marker /-ekw-/ is used in the verb stem to signal that the governor is affecting grandfather. (The prefix /ho-/ on 'ho-stakooli' refers to grandfather).<ref name="e18" />
+
+{{interlinear|number=(1)|glossing=no abbr
+|he- meci- naat-aw'ky -aa -ci hina ni-me'soom' -θa
+|SUB- COMPLETED- much-land -TA -3SUB that 1-grandfather -PERSON
+|'afterwards my grandfather received land'}}
+
+{{interlinear|number=(2)|glossing=no abbr
+|wiikiwa ho- staa -ekw -a -li kapenalee -li
+|house 3- build -INV -DIR -3sOBV governor -3sOBV
+|'the governor built (him) a house' (/-li/ is the obviative marker)}}
+
+Since the person building the house (the governor) is disjoint from the person who the house is being built for (the grandfather), this disjunction is marked by placing one participant in the obviative. Since grandfather is the focus in this narrative, the governor is assigned the obviative marking. Grammatically, 'kapenal-ee' (-ee- < -ile- < -ileni- 'person') is the subject who is not in discourse-focus (marked by /-li/ 3sOBVIATIVE), showing that grammatical relations and obviation are independent categories.
+
+Similar interactions of inverse and obviation are found below. In Shawnee, third person animate beings participate in obviation, including grammatically animate nouns that are semantically inanimate.
+
+{{interlinear|indent=3|glossing=no abbr
+|we ni- cis -h -ekw -a hina weepikwa
+|then 1- fear -CAUSE -INV -DIR- that spider
+|'then that spider scared me'}}
+
+{{interlinear|indent=3|glossing=no abbr
+|ho- waap -am -aa -li kisa'θwa -li
+|3- look -TA -DIR -3sOBV sun -3sOBV
+|'he looked at the sun'}}
+
+====Locative affix /-eki/====
+The Shawnee /-eki/ meaning "in" can be used with either gender. This locative affix cliticizes onto the preceding noun, and thus it appears to be a case ending.
+
+{{interlinear|indent=3
+|tekwakhwikan -eki
+|box -in
+|'in a box'}}
+
+{{interlinear|indent=3
+|msi-wikiwaap -eki
+|big-house -in
+|'in a big house'}}
+
+{{interlinear|indent=3
+|tθene melo'kami -eki
+|every spring -in
+|'every spring'}}
+
+===Modality===
+The independent and imperative orders are used in independent clauses. The imperative order involves an understood second person affecting first or third persons.
+
+{{interlinear|indent=3|glossing=no abbr
+|teke ki- e'- memekw -i
+|NEG 2- FUT- run -IMPER
+|'you mustn't run'}}
+
+{{interlinear|indent=3|glossing=no abbr
+|teki- koos -i -ma
+|NEG run.from -IMPER -AO
+|'you mustn't run away from him'}}
+
+{{interlinear|indent=3|glossing=no abbr
+|teke- wi'θen -i kola'-waapaki
+|NEG eat -IMPER early-morning
+|'you mustn't eat early in the morning'}}
+
+Independent Mode: <br />
+Inanimate Intransitive (II): <br />
+3s---> /-i/ ---> skwaaw-i 'it is red' <br />
+3p---> /-a/ ---> kinwaaw-a 'those are long'
+
+===Demonstrative pronouns===
+Refer to the examples below. 'Yaama' meaning 'this' in examples 1 and 2 refers to someone in front of the speaker. The repetition of 'yaama' in example 1 emphasizes the location of the referent in the immediate presence of the speaker.
+
+{{interlinear|number=(1)|glossing=no abbr
+|yaama- kookwe- nee -θa -yaama
+|this- strange- appearing -PERSON -this
+|'this stranger (the one right in front of me)'}}
+
+{{interlinear|number=(2)|glossing=no abbr
+|mata- yaama- ha'- pa-skoolii -wi   ni-oosθe' -0a
+|not this TIME- go-school -AI       1-grandchild -PERSON
+|'this grandchild of mine does not go to school'}}
+
+Refer to the examples below. 'Hina' functions as a third-person singular pronoun.
+
+{{interlinear|indent=3|glossing=no abbr
+|hina- ha'θepati ni-[t]e-si-naa-pe
+|3 racoon 1-call-thus-IN.OBJ-1p
+|'we called him (the Indian Agent) racoon'}}
+
+{{interlinear|indent=3|glossing=no abbr
+|we ha'θepati -si -θo -hina
+|now raccoon name -PASSIVE 3
+|'then he (the Indian Agent) was named raccoon'}}
+
+{{interlinear|indent=3|glossing=no abbr
+|howe-si taakteli -hina
+|good-AI doctor 3
+|'he was a good doctor'}}
+
+Refer to the examples below. 'Hini' fulfills the same functions as above for inanimate nouns. Locational and third-person singular pronominal uses are found in the following examples.
+
+{{interlinear|indent=3|glossing=no abbr
+|na'θaapi ni-[t]aay-a hini
+|even 1-REDUP-go that
+|'I would even go there'}}
+
+{{interlinear|indent=3|glossing=no abbr
+|hini- h-i-si-ci-howe
+|that [h]-say-thus-3-now
+|'(when) he said that (to me)'}}
+
+==Person, number, and gender==
+
+===Person===
+
+The choice of person affix may depend on the relative position of agent and object on the animacy hierarchy. According to Dixon <ref>Dixon 1979:85-6</ref> the animacy hierarchy extends from first person pronoun, second person pronoun, third person pronoun, proper nouns, human common nouns, animate common nouns, and inanimate common nouns.
+
+The affixes in the verb will reflect whether an animate agent is acting on someone or something lower in the animacy scale, or whether he is being acted upon by someone or something lower in the animacy scale.
+
+=== Number ===
+Shawnee nouns can be singular or plural. Inflectional affixes in the verb stem that cross-reference objects are often omitted if inanimate objects are involved. Even if an inflectional affix for the inanimate object is present, it usually does not distinguish number. For example, in the TI paradigm (animate›inanimate) when there is a second or third person plural subject, object markers are present in the verb stem, but they are number-indifferent. Overt object markers are omitted for most other subjects. In the inverse situation, (animate‹inanimate) the inanimate participants are not cross-referenced morphologically.<ref>Andrew, Kenneth Ralph. ProQuest Dissertations and Theses; 1994.</ref>
+
+===Gender===
+
+The basic distinction for gender in Shawnee is between animate actors and inanimate objects. Nouns are in two gender classes, inanimate and animate; the latter includes all persons, animals, spirits, and large trees, and some other objects such as tobacco, maize, apple, raspberry (but not strawberry), calf of leg (but not thigh), stomach, spittle, feather, bird's tail, horn, kettle, pipe for smoking, snowshoe.<ref>Bloomfield 1946:449-50; punctuation as in the original</ref>
+
+Grammatical gender in Shawnee is more accurately signaled by the ''phonology'', not the semantics.<br />
+Nouns ending in /-a/ are animate, while nouns ending in /-i/ are inanimate.<ref>Chrisley 1992:9</ref> This phonological criterion is not absolute. Modification by a demonstrative ("hina" being animate and "hini" being inanimate, meaning ''that'') and pluralization are conclusive tests.<br />
+<br />
+In the singular, Shawnee animate nouns end in /-a/, and the obviative singular morpheme is /-li/.<br />
+Shawnee inanimate nouns are usually pluralized with stem +/-ali/. <br />
+This causes '''animate obviative singular''' and '''inanimate plural''' to look alike on the surface.
+
+<br />
+'''''example'''''<br />
+<br />
+animate obviative singular<br />
+wiskilo'θa-'''li'''<br />
+bird<br />
+<br />
+inanimate plural<br />
+niipit-'''ali'''<br />
+my teeth
+
+==Orthography==
+
+During the 19th century a short-lived Roman-based alphabet was designed for Shawnee by the missionary [[Jotham Meeker]]. It was never widely used.<ref name="mithun2001" />{{rp|36}} Later, native Shawnee speaker [[Thomas 'Wildcat' Alford]] devised a highly phonemic and accurate orthography for his 1929 Shawnee translation of the four gospels of the New Testament, but it, too, never attained wide usage.
+
+== Vocabulary ==
+{| class="wikitable"
+!English
+!Shawnee
+|-
+|beard
+|''Kwenaloonaroll''
+|-
+|general greeting (in the northeastern dialect)
+|''Hatito''
+|-
+|general greeting (in the southern dialect)
+|''Ho''
+|-
+|greetings
+|''Bezon'' (general greeting)
+''Bezon nikanaki'' (general greeting spoken to a friend)
+
+''Howisakisiki'' (daytime greeting)
+
+''Howisiwapani'' (morning greeting)
+
+''Wasekiseki'' (morning greeting)
+|-
+|how are you?
+|''Hakiwisilaasamamo'' ''Waswasimamo''
+|-
+|reply to ''Hakiwisilaasamamo'' and ''Waswasimamo''
+|''Niwisilasimamo''
+|}
+
+==Notes==
+{{Reflist}}
+
+==Further reading==
+{{Refbegin}}
+*Alford, Thomas Wildcat. 1929. ''The Four Gospels of Our Lord Jesus Christ in Shawnee Indian Language''. Xenia, Ohio: Dr. W. A. Galloway.
+*Andrews, Kenneth. 1994. ''Shawnee Grammar''. Unpublished Dissertation, University of South Carolina, Columbia.
+*Costa, David J. 2001. ''Shawnee Noun Plurals''. Anthropological Linguistics 43: 255-287.
+*Costa, David J. 2002. ''Preverb Usage in Shawnee Narratives''. In H. C. Wolfart, ed., Papers of the 33rd Algonquian Conference, 120-161. Winnipeg: University of Manitoba.
+*{{Cite web
+| last = Gatschet
+| first = Albert S.
+| author-link = Albert Samuel Gatschet
+| title = Shawnee words, phrases, sentences and texts 1890-1892
+| access-date = 2013-04-26
+| url = http://siris-archives.si.edu/ipac20/ipac.jsp?uri=full=3100001~!84976!0
+}}
+*Voegelin, Carl F. 1935. ''Shawnee Phonemes''. Language 11: 23-37.
+*Voegelin, Carl F. 1936. ''Productive Paradigms in Shawnee''. [[Robert H. Lowie]], ed., Essays in Anthropology presented to A. L. Kroeber 391-403. Berkeley: University of California Press.
+*Voegelin, Carl F. 1938-40. ''Shawnee Stems and the Jacob P. Dunn Miami Dictionary''. Indiana Historical Society Prehistory Research Series 1: 63-108, 135-167, 289-323, 345-406, 409-478 (1938–1940). Indianapolis.
+{{Refend}}
+
+==External links==
+{{Portal|Languages|United States}}
+*{{Cite web
+| title = Shawnee Orthography, from: An Introduction to the Shawnee Language, by Chrisley, Ronald J.
+| access-date = 2013-04-26
+| date = 1992
+| url = https://archive.org/details/rosettaproject_sjw_ortho-1
+}}
+*[https://web.archive.org/web/20060714031351/http://www.shawnee-bluejacket.com/shawnee/Gatschet_Shawnee_MS_615.htm Albert Gatschet's notes on the Shawnee language]
+*[http://www.language-archives.org/language/sjw OLAC resources in and about the Shawnee language]
+*[https://web.archive.org/web/20130502054932/http://reocities.com/SouthBeach/Cove/8286/speach.html Shawnee language vocabulary]
+
+{{Languages of Oklahoma}}
+{{Algonquian languages}}
+
+{{DEFAULTSORT:Shawnee Language}}
+[[Category:Algonquian languages]]
+[[Category:Indigenous languages of Oklahoma]]
+[[Category:Indigenous languages of the North American eastern woodlands]]
+[[Category:Shawnee tribe]]
+[[Category:Endangered indigenous languages of the Americas]]

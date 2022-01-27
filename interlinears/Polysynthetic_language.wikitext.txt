@@ -1,0 +1,259 @@
+{{Short description|Highly inflected language with many morphemes per word}}
+{{Linguistic typology topics}}
+In [[morphological typology|linguistic typology]], '''polysynthetic languages''', formerly '''holophrastic languages''',<ref>Mario Pei, Frank Gaynor, ''Dictionary of Linguistics'', 1954, p. 92</ref> are highly [[synthetic language]]s, i.e. languages in which [[word (linguistics)|words]] are composed of many [[morpheme]]s (word parts that have independent meaning but may or may not be able to stand alone). They are very highly [[Inflection|inflected]] languages.  Polysynthetic languages typically have long "sentence-words" such as the [[Yupik language|Yupik]] word {{lang|ypk|tuntussuqatarniksaitengqiggtuq}}.
+
+{{interlinear|lang=ypk|indent=2
+|top={{lang|ypk|tuntussuqatarniksaitengqiggtuq}}
+|tuntu -ssur -qatar -ni -ksaite -ngqiggte -uq
+|reindeer -hunt -FUT -say -NEG -again -3SG.IND
+|"He had not yet said again that he was going to hunt reindeer."}}
+
+Except for the morpheme {{lang|ypk|tuntu}} "reindeer", none of the other morphemes can appear in isolation.{{Efn|In this example, the subject "he" [[pro-drop language|has been dropped]].}}
+
+Whereas [[isolating language]]s have a low morpheme-to-word ratio, polysynthetic languages have a very high ratio. There is no generally agreed upon definition of polysynthesis. Generally polysynthetic languages have [[polypersonal agreement]] although some [[Agglutinative language|agglutinative]] languages that are not polysynthetic also have it, such as [[Basque language|Basque]], [[Hungarian language|Hungarian]] and [[Georgian language|Georgian]]. Some authors apply the term polysynthetic to languages with high morpheme-to-word ratios, but others use it for languages that are highly [[Head-marking language|head-marking]], or those that frequently use [[noun incorporation]].{{Citation needed|date=July 2019}}
+
+Polysynthetic languages can be [[Agglutinative language|agglutinative]] or [[Fusional language|fusional]] depending on whether they encode one or multiple grammatical categories per [[affix]].
+
+At the same time, the question of whether to call a particular language polysynthetic is complicated by the fact that morpheme and word boundaries are not always clear cut, and languages may be highly synthetic in one area but less synthetic in other areas (e.g., verbs and nouns in [[Southern Athabaskan languages]] or [[Inuit languages]]). Many polysynthetic languages display complex [[evidentiality]] and/or [[mirativity]] systems in their [[verbs]].{{Citation needed|date=July 2019}}
+
+The term was invented by [[Peter Stephen Du Ponceau]], who considered polysynthesis, as characterized by sentence words and noun incorporation, a defining feature of all [[indigenous languages of the Americas]]. This characterization was shown to be wrong, since many indigenous American languages are not polysynthetic,{{sfn|Campbell|1997|p=39}} but it is a fact that polysynthetic languages are not evenly distributed throughout the world, but more frequent in the [[Americas]], [[Australia]], [[Siberia]], and [[New Guinea]]; however, there are also examples in other areas. The concept became part of linguistic typology with the work of [[Edward Sapir]], who used it as one of his basic typological categories. Recently, [[Mark Baker (linguist)|Mark C. Baker]] has suggested formally defining polysynthesis as a macro-parameter within [[Noam Chomsky]]'s [[principles and parameters]] theory of grammar. Other linguists question the basic utility of the concept for typology since it covers many separate morphological types that have little else in common.{{sfn|Evans|Sasse|2002}}
+
+==Meaning==
+{{More citations needed section|date=July 2019}}
+The word "polysynthesis" is composed of the Greek roots ''poly'' meaning "many" and ''synthesis'' meaning "placing together".
+
+In linguistics a [[word]] is defined as a unit of meaning that can stand alone in a sentence, and which can be uttered in isolation. Words may be simple, consisting of a single unit of meaning, or they can be complex, formed by combining many small units of meaning, called [[morpheme]]s. In a general non-theoretical sense polysynthetic languages are those languages that have a high degree of morphological synthesis, and which tend to form long complex words containing long strings of [[morpheme]]s, including derivational and inflectional morphemes. A language then is "synthetic" or "synthesizing" if it tends to have more than one morpheme per word, and a polysynthetic language is a language that has "many" morphemes per word. The concept was originally used only to describe those languages that can form long words that correspond to an entire sentence in English or other [[Indo-European languages]], and the word is still most frequently used to refer to such "sentence words".
+
+Often polysynthesis is achieved when languages have extensive [[Agreement (linguistics)|agreement]] between elements verbs and their arguments so that the verb is marked for agreement with the grammatical subject and object. In this way a single word can encode information about all the elements in a transitive clause. In Indo-European languages the verb is usually only marked for agreement with the subject (e.g. Spanish ''{{lang|es|hablo}}'' "I speak" where the -o ending marks agreement with the first person singular subject), but in many languages verbs also agree with the object (e.g. the [[Swahili language|Kiswahili]] word ''{{lang|sw|nakupenda}}'' "I love you" where the ''{{lang|sw|n-}}'' prefix marks agreement with the first person singular subject and the ''{{lang|sw|ku-}}'' prefix marks agreement with a second person singular object).
+
+Many polysynthetic languages combine these two strategies, and also have ways of inflecting verbs for concepts normally encoded by adverbs or adjectives in Indo-European languages. In this way highly complex words can be formed, for example the [[Yupik language|Yupik]] word ''{{lang|ypk|tuntussuqatarniksaitengqiggtuq}}'' which means "He had not yet said again that he was going to hunt reindeer." The word consists of the morphemes ''{{lang|ypk|tuntu-ssur-qatar-ni-ksaite-ngqiggte-uq}}'' with the meanings, reindeer-hunt-future-say-negation-again-third.person.singular.indicative, and except for the morpheme ''{{lang|ypk|tuntu}}'' "reindeer", none of the other morphemes can appear in isolation.<ref>{{harvcoltxt|Payne|1997|pp=28–29}}</ref>
+
+Another way to achieve a high degree of synthesis is when languages can form compound words by [[incorporation (linguistics)|incorporation]] of nouns, so that entire words can be incorporated into the verb word, as ''baby'' is incorporated in the English verb ''babysit''.
+
+Another common feature of polysynthetic languages is a tendency to use [[head-marking language|head marking]] as a means of syntactic cohesion. This means that many polysynthetic languages mark grammatical relations between verbs and their constituents by indexing the constituents on the verb with agreement morphemes, and the relation between noun phrases and their constituents by marking the head noun with agreement morphemes. There are some [[dependent-marking language]]s that may be considered to be polysynthetic because they use [[case stacking]] to achieve similar effects, and very long words.
+
+===Examples===
+An example from [[Chukchi language|Chukchi]], a polysynthetic, [[Incorporation (linguistics)|incorporating]], and [[Agglutinative language|agglutinating language]] of Russia which also has [[grammatical case]]s unlike the majority of incorporating polysynthetic languages:
+
+{{interlinear|lang=ckt|indent=2
+|top={{lang|ckt|Təmeyŋəlevtpəγtərkən}}.
+|t-ə-meyŋ-ə-levt-pəγt-ə-rkən
+|1SG.SUBJ-great-head-hurt-PRES.1
+|'I have a fierce headache.' {{sfn|Skorik|1961|p=102}}}}
+
+From Classical [[Ainu language|Ainu]] of Japan, another polysynthetic, incorporating, and agglutinating language:
+
+{{fs interlinear|lang=ain|indent=2
+|ウサオプㇲペ アエヤィコツ゚ィマシラㇺスィパ
+|Usaopuspe aeyaykotuymasiramsuypa|}}
+{{interlinear|lang=ain|indent=2
+|usa- opuspe {} a- e- yay- ko- tuyma- si- ram- suy- pa
+|various- rumors {} 1SG- APL- REFL- APL- far- REFL- heart- sway- ITER
+|'I wonder about various rumors.' <small>({{lit}} 'I keep swaying my heart afar and toward myself over various rumors'.)</small>{{sfn|Shibatani|1990|p=72}}}}
+
+The Mexican language [[Nahuatl]] is also considered to be polysynthetic, incorporating and agglutinating. The following [[verb]] shows how the verb is marked for [[Subject (grammar)|subject]], [[Patient (grammar)|patient]], [[Object (grammar)|object]], and indirect object:
+
+{{interlinear|lang=nah|indent=2
+|top={{lang|nah|Nimitztētlamaquiltīz}}
+|ni- mits- teː- tla- maki- ltiː- s
+|I- you- someone- something- give- CAUS- FUT
+|"I shall make somebody give something to you"{{sfn|Suárez|1983|p=61}}}}
+
+The [[Australian Aboriginal languages|Australian language]] [[Tiwi language|Tiwi]] is also considered highly polysynthetic:
+
+{{interlinear|lang=tiw|indent=2
+|top={{lang|tiw|Pitiwuliyondjirrurlimpirrani}}
+|Pi- ti- wuliyondji- rrurlimpirr- ani.
+|3PL- 3SG.FEM- dead.wallaby- carry.on.shoulders- PST.HAB
+|"They would carry the dead wallaby on their shoulders."{{sfn|Blake|2006|p=591}}}}
+
+And the [[Iroquoian languages|Iroquoian language]] [[Mohawk language|Mohawk]]:
+
+{{interlinear|lang=moh|indent=2
+|top={{lang|moh|Sahonwanhotónkwahse}}
+|sa- honwa- nhoton- kw- a- hse
+|again- PAST- she/him- opendoor- reversive- un- for(PERF form)
+|"she opened the door for him again"{{sfn|Rowicka|2006|p=194}}}}
+
+An example from Western [[Greenlandic language|Greenlandic]], an exclusively suffixing polysynthetic language:
+
+{{interlinear|lang=kl|indent=2
+|top={{lang|kl|Aliikkusersuillammassuaanerartassagaluarpaalli}}
+|aliikku- sersu- i- llammas- sua- a- nerar- ta- ssa- galuar- paal- li
+|entertainment- provide- {{gcl|SEMITRANS||Transitive verb}}- one.good.at- COP- say.that- REP- FUT- sure.but- 3PL.SUBJ/3SG.{{gcl|OBJ|object}}- but
+|'However, they will say that he is a great entertainer, but ...'{{sfn|Evans|Sasse|2002|p=3}}}}
+
+==History of the concept==
+
+===Peter Stephen Du Ponceau on Native American languages===
+The term "polysynthesis" was first used by [[Peter Stephen DuPonceau]] (a.k.a. Pierre Étienne Du Ponceau) in 1819 as a term to describe the structural characteristics of American languages:{{sfn|Duponceau|1819}}
+
+{{quote|Three principal results have forcibly struck my mind... They are the following:
+# That the American languages in general are rich in grammatical forms, and that in their complicated construction, the greatest order, method and regularity prevail
+# That these complicated forms, which I call ''polysynthesis'', appear to exist in all those languages, from [[Greenland]] to [[Cape Horn]].
+# That these forms appear to differ essentially from those of the ancient and modern languages of the old hemisphere.|(Duponceau 1819: xxii–xxiii)}}
+
+{{quote|The manner in which words are compounded in that particular mode of speech, the great number and variety of ideas which it has the power of expressing in one single word; particularly by means of the verbs; all these stamp its character for abundance, strength, and comprehensiveness of expression, in such a manner, that those accidents must be considered as included in the general descriptive term ''polysynthetic''.|(Duponceau 1819:xxvii)}}
+
+{{quote|I have explained elsewhere what I mean by a ''polysynthetic'' or ''syntactic'' construction of language.... It is that in which the greatest number of ideas are comprised in the fewest words. This is done principally in two ways. 1. By a mode of compounding locutions which is not confined to joining two words together, as in the Greek, or varying the inflection or termination of a radical word as in the most European languages, but by interweaving together the most significant sounds or syllables of each simple word, so as to form a compound that will awaken in the mind at once all the ideas singly expressed by the words from which they are taken. 2. By an analogous combination of various parts of speech, particularly by means of the verb, so that its various forms and inflections will express not only the principal action, but the greatest possible number of the moral ideas and physical objects connected with it, and will combine itself to the greatest extent with those conceptions which are the subject of other parts of speech, and in other languages require to be expressed by separate and distinct words.... Their most remarkable external appearance is that of long polysyllabic words, which being compounded in the manner I have stated, express much at once.|(Duponceau 1819: xxx–xxxi)}}
+
+The term was made popular in a posthumously published work by [[Wilhelm von Humboldt]] (1836),{{sfn|Campbell|1997|p=39}} and it was long considered that all the indigenous languages of the Americas were of the same type. Humboldt considered language structure to be an expression of the psychological stage of evolution of a people, and since Native Americans were considered uncivilized, polysynthesis came to be seen as the lowest stage of grammatical evolution, characterized by a lack of rigorous rules and clear organization known in European languages. Duponceau himself had argued that the complex polysynthetic nature of American languages was a relic of a more civilized past, and that this suggested that the Indians of his time had degenerated from a previous advanced stage. Duponceau's colleague [[Albert Gallatin]] contradicted this theory, arguing rather that synthesis was a sign of a lower cultural level, and that while the Greek and Latin languages were somewhat synthetic, Native American languages were much more so – and consequently polysynthesis was the hallmark of the lowest level of intellectual evolution.{{sfn|Bieder|1986|pp=29-34}}
+
+This view was still prevalent when linguist [[William Dwight Whitney]] wrote in 1875. He considered polysynthesis to be a general characteristic of American languages, but he did qualify the statement by mentioning that certain languages such as [[Otomi language|Otomi]] and the [[Tupi-Guarani languages]] had been claimed to be basically analytic.{{sfn|Whitney|1908|pp=258–262}}
+
+===D. G. Brinton ===
+
+The ethnologist [[Daniel Garrison Brinton]], the first professor of anthropology in the US, followed Duponceau, Gallatin and Humboldt in seeing polysynthesis, which he distinguished from incorporation, as a defining feature of all the languages of the Americas.{{sfn|Brinton|1885|p=41}} He defined polysynthesis in this way:{{sfn|Brinton|1885|pp=14-15}}
+
+{{quote|Polysynthesis is a method of word-building, applicable either to nominals or verbals, which not only employs juxtaposition, with [[Apheresis (linguistics)|aphaeresis]], [[Syncope (phonology)|syncope]],
+[[apocope]], etc., but also words, forms of words, and significant phonetic elements which have no separate existence apart from such compounds. This latter peculiarity marks it off altogether from the processes of [[agglutination]] and [[collocation]].|Brinton, 1885:14,15)}}
+
+{{quote|Their absence has not been demonstrated in any [language] of which we have sufficient and authentic material on which to base a decision. The opinion of Du Ponceau and Humboldt, therefore, that these processes belong to the ground-plan of American languages, and are their leading characteristics, must be regarded as still uncontroverted in any instance.|Brinton 1885:41}}
+
+In the 1890s the question of whether polysynthesis could be considered a general characteristic of Native American languages became a hotly contested issue as Brinton debated the question with [[John Napoleon Brinton Hewitt|John Hewitt]]. Brinton, who had never done fieldwork with any indigenous group continued to defend Humboldt and Duponceau's view of the exceptional nature of American languages against the claim of Hewitt, who was half [[Tuscarora people|Tuscarora]] and had studied the Iroquoian languages, that languages such as the Iroquois had grammatical rules and verbs just like European languages.
+
+===Edward Sapir's morphological types===
+[[Edward Sapir]] reacted to the prevailing view in Americanist linguistics which considered the languages of the Americas to belong to a single basic polysynthetic type, arguing instead that American indigenous languages were highly diverse and encompassed all known morphological types.{{sfn|Campbell|1997|p=39}} He also built on the work of [[Leonard Bloomfield]] who in his 1914 work "language" dismissed morphological typology, stating specifically that the term polysynthetic had never been clearly defined.{{sfn|Bloomfield|1995|p=208}}
+
+In Sapir's 1921 book also titled "Language", he argued that instead of using the morphological types as a strict classification scheme it made more sense to classify languages as relatively more or less synthetic or analytic, with the isolating and polysynthetic languages in each of the extremes of that spectrum. He also argued that languages were rarely purely of one morphological type, but used different morphological strategies in different parts of the grammar. {{sfn|Sapir|1921}}
+
+{{quote| Hence has arisen the still popular classification of languages into an “isolating” group, an “agglutinative” group, and an “inflective” group. Sometimes the languages of the American Indians are made to straggle along as an uncomfortable “polysynthetic” rear-guard to the agglutinative languages. There is justification for the use of all of these terms, though not perhaps in quite the spirit in which they are commonly employed. In any case it is very difficult to assign all known languages to one or other of these groups, the more so as they are not mutually exclusive. A language may be both agglutinative and inflective, or inflective and polysynthetic, or even polysynthetic and isolating, as we shall see a little later on.|Sapir, 1921}}
+
+{{quote|An analytic language is one that either does not combine concepts into single words at all (Chinese) or does so economically (English, French). In an analytic language the sentence is always of prime importance, the word is of minor interest. In a synthetic language (Latin, Arabic, Finnish) the concepts cluster more thickly, the words are more richly chambered, but there is a tendency, on the whole, to keep the range of concrete significance in the single word down to a moderate compass. A polysynthetic language, as its name implies, is more than ordinarily synthetic. The elaboration of the word is extreme. Concepts which we should never dream of treating in a subordinate fashion are symbolized by derivational affixes or “symbolic” changes in the radical element, while the more abstract notions, including the syntactic relations, may also be conveyed by the word. A polysynthetic language illustrates no principles that are not already exemplified in the more familiar synthetic languages. It is related to them very much as a synthetic language is related to our own analytic English. The three terms are purely quantitative—and relative, that is, a language may be “analytic” from one standpoint, “synthetic” from another. I believe the terms are more useful in defining certain drifts than as absolute counters. It is often illuminating to point out that a language has been becoming more and more analytic in the course of its history or that it shows signs of having crystallized from a simple analytic base into a highly synthetic form.|Sapir, 1921}}
+
+Sapir introduced a number of other distinctions according to which languages could be morphologically classified, and proposed combining them to form more complex classifications. He proposed classifying languages both by the degree of synthesis, classifying languages as either analytic, synthetic or polysynthetic, and by the technique used to achieve synthesis, classifying languages as agglutinative, fusional, or symbolic. Among the examples of polysynthetic languages he gave was [[Haida language|Haida]] which he considered to use the agglutinative-isolating technique, [[Yana language|Yana]] and [[Nootka language|Nootka]] both of which he considered agglutinative, [[Chinook language|Chinook]] and [[Algonkin language|Algonkin]] which he considered fusional. The [[Siouan languages]] he considered "mildly polysynthetic" and agglutinative-fusional.{{sfn|Sapir|1921|pp=150–51}}
+
+Following Sapir's understanding of Polysynthesis, his student [[Benjamin Lee Whorf]] proposed a distinction between [[oligosynthetic]] and polysynthetic languages, where the former term was applied to languages with a very small number of morphemes of which all other lexical units are composed. No language has been shown to fit the description of an oligosynthetic language and the concept is not in general use in linguistics.
+
+==Contemporary approaches==
+
+===Generative approaches===
+The sentence structure of polysynthetic languages has been taken as a challenge for linguists working within [[Noam Chomsky]]'s [[Generative linguistics|generative]] theoretical framework that operates with the assumption that all the world's languages share a set of basic syntactic principles.
+
+====Non-configurationality and the pronominal argument hypothesis====
+[[Eloise Jelinek]], having worked with [[Salishan languages|Salishan]] and [[Athabascan languages]], proposed an analysis of polysynthetic languages in which the morphemes that agree with the arguments of the verb are not just considered indexes of the arguments, but in fact constitute the primary expression of the arguments within the sentence.{{sfn|Jelinek|1984}} Because this theory posits that the pronominal agreement morphemes are the true syntactic arguments of the sentence, Jelinek's hypothesis was called the [[pronominal argument hypothesis]]. If the hypothesis were correct, it would mean that free standing nouns in such languages did not constitute syntactical arguments, but simply adjoined specifiers or adjuncts. This in turn explained why many polysynthetic languages seem to be [[non-configurational languages|non-configurational]], i.e. they have no strict rules for word order and seemingly violate many of the basic rules for syntactic structures posited within the generative framework.{{sfn|Hale|2003}}
+
+====Mark C. Baker's polysynthesis parameter====
+In 1996 [[Mark Baker (linguist)|Mark C. Baker]] proposed a definition of polysynthesis as a syntactic macroparameter within [[Noam Chomsky]]'s "[[principles and parameters]]" program. He defines polysynthetic languages as languages that conform to the syntactic rule that he calls the "polysynthesis parameter", and that as a result show a special set of morphological and syntactic properties. The polysynthesis parameter states that all phrasal heads must be marked with either agreement morphemes of their direct argument or else [[incorporation (linguistics)|incorporate]] these arguments in that head.{{sfn|Baker|1996}} This definition of polysynthesis leaves out some languages that are commonly stated as examples of polysynthetic languages (such as [[Inuktitut language|Inuktitut]]), but can be seen as the reason for certain common structural properties in others, such as [[Mohawk language|Mohawk]] and [[Nahuatl language|Nahuatl]]. Baker's definition, probably because of its heavy dependence on generative theory, has not been accepted{{Citation needed|date=July 2014}} as a general definition of polysynthesis.
+
+===Johanna Mattissen's affixal and compositional subtypes===
+[[Johanna Mattissen]] suggests that polysynthetic languages can be fundamentally divided into two typological categories, which differ in the way morphemes are organised to form words. She calls the two types for affixal and compositional polysynthesis respectively.
+
+====Affixal====
+Affixally polysynthetic languages, as the name suggests, are those that use only non-root-[[bound morpheme]]s to express concepts that in less synthetic languages are expressed by separate words such as [[adjective]]s and [[adverb]]s. They also use these bound morphemes to make other [[noun]]s and [[verb]]s from a basic root, which can lead to very complex word forms without non-lexical suffixes. These bound morphemes often relate to body parts, other essential items of the culture of the language's speakers or features of the landscape where the language is spoken. Deictics and other spatial and temporal relations are also very common among these bound morphemes in affixally polysynthetic languages.{{sfn|Mattissen|2003|p=281}}
+
+Affixally polysynthetic languages do not use noun incorporation or verb serialisation, since this violates the rule concerning the number of roots allowable per word. Many make a weak distinction between nouns and verbs, which allows using affixes to translate these parts of speech.{{sfn|Mattissen|2003|p=315}}
+
+Affixally polysynthetic languages may have a word structure that is either
+* '''templatic''', with a fixed number of slots for different elements, which are fixed in their position and order relative to each other;{{sfn|Mattissen|2003|p=286}} or
+* '''scope ordered''', with forms not restricted in complexity and length. The components are fixed in their relative ''scope'' and are thus ordered according to the intended meaning. Usually in this case a few components ''are'' actually fixed, such as the root in [[Eskimo–Aleut languages]].{{sfn|Mattissen|2003|p=287}}
+
+Examples of affixally polysynthetic languages include [[Inuktitut]], [[Cherokee language|Cherokee]], [[Athabaskan languages]], the [[Chimakuan languages]] ([[Quileute language|Quileute]]) and the [[Wakashan languages]].<ref>Andronis, Mary; Chicago Linguistic Society #38; p. 386. {{ISBN|0-914203-63-0}}</ref>
+
+====Compositional====
+In compositionally polysynthetic languages, there usually can be more than one [[free morpheme]] per word, which gives rise to noun incorporation and [[verb serialisation]] to create extremely long words.{{sfn|Mattissen|2003|pp=281–290}}  Bound affixes, though less important in compositionally polysynthetic languages than in affixally polysynthetic languages, tend to be equally abundant in both types.
+
+It is believed that all affixally polysynthetic languages evolved from compositionally polysynthetic ones via the conversion of morphemes that could stand on their own into affixes.<ref>See Mattissen: "On the Ontology and Diachronisis of Polysynthesis"; in Wunderlich (editor): ''Advances in the theory of the lexicon'', p. 337</ref>
+
+Because they possess a greater number of free morphemes, compositionally polysynthetic languages are much more prone than affixally polysynthetic ones to evolve into simpler languages with less complex words. On the other hand, they are generally easier to distinguish from non-polysynthetic languages than affixally polysynthetic languages.{{Citation needed|date=July 2009}}
+
+Examples of compositionally polysynthetic languages include Classical [[Ainu language|Ainu]]{{Dubious|date=December 2014}} , [[Sora language|Sora]], [[Chukchi language|Chukchi]], [[Tonkawa language|Tonkawa]], and most [[Amazonian languages]].{{sfn|Mattissen|2003|pp=281–290}}
+
+==Distribution==
+{{more citations needed section|date=April 2013}}
+
+===Eurasia===
+* [[Chukotko-Kamchatkan languages]]<ref name="Spencer 1995">{{Cite journal|last=Spencer|first=Andrew|date=1995|title=Incorporation in Chukchi|journal=Language|volume=71|issue=3|pages=439–489|doi=10.2307/416217|jstor=416217}}</ref>
+* [[Ket language|Ket]] (possible)
+* [[Nivkh language|Nivkh]] (possible){{sfn|Mattissen|2003}}
+*[[Ainu language|Ainu]]
+*[[Rgyalrongic languages|Jiarongic languages]]
+* [[Munda languages]]
+*[[Northwest Caucasian languages]]
+
+===North America===
+
+*[[Algonquian languages]]{{sfn|Pentland|2006|p=163}}
+*[[Caddoan languages]]
+*[[Eskimo–Aleut languages]]
+*[[Iroquoian languages]]
+*[[Na-Dene languages]]
+*[[Salishan languages]]
+*[[Siouan languages]]
+*[[Uto-Aztecan languages]]
+*[[Wakashan languages]]<ref>{{Cite book|last1=Fortescue|first1=Michael|url=https://books.google.com/books?id=d4c0DwAAQBAJ|title=The Oxford Handbook of Polysynthesis|last2=Fortescue|first2=Michael D.|last3=Mithun|first3=Marianne|last4=Evans|first4=Nicholas|date=2017|publisher=Oxford University Press|isbn=978-0-19-968320-8|language=en}}</ref>
+*[[Yana language|Yana]]/[[Yahi language|Yahi]] and other [[Hokan languages]]
+
+===Mesoamerica===
+
+*[[Mayan languages]]
+*[[Totonacan languages]]
+*[[Mixe-Zoquean languages]]
+*[[Purépecha language]]
+*[[Tequistlatecan languages]]
+*[[Huave language]]
+
+===South America===
+
+*[[Aymaran languages]]
+*[[Quechuan languages]]
+*[[Tupi–Guarani languages|Tupi–Guaraní languages]]
+*[[Arawakan languages]]
+* Many [[Amazonian languages]]
+*[[Mapuche language|Mapudungun]]
+
+===Oceania===
+* many [[Papuan languages]] (e.g. [[Awtuw language|Awtuw]], [[Yimas language|Yimas]])
+* northern [[Australian Aboriginal languages|Australian languages]] (e.g. [[Macro-Gunwinyguan languages|Macro-Gunwinyguan]], [[Murrinh-patha language|Murrinh-patha]], [[Tiwi language|classical Tiwi]], [[Enindhilyagwa language|Enindhilyagwa]])
+
+== Notes ==
+{{Notelist}}
+
+==References==
+
+=== Citations ===
+{{reflist|2}}
+
+===Works===
+{{refbegin|2}}
+* Pentland, David H. (2006). "Algonquian and Ritwan Languages", in Keith Brown, ed., ''Encyclopedia of Languages and Linguistics'' (2nd ed.), pp.&nbsp;161–6. Amsterdam: Elsevier.
+* Baker, Mark. (1988). ''Incorporation: A theory of grammatical function changing''.
+* {{Cite book|last=Baker|first=Mark C.|author-link=Mark Baker (linguist)|year=1996|title=The Polysynthesis Parameter|series=Oxford Studies in Comparative Syntax|location=New York|publisher=[[Oxford University Press]] |isbn=0-19-509308-9|oclc=31045692}}
+*{{Cite book|first=Robert E. |last=Bieder|title=Science Encounters the Indian, 1820-1880: The Early Years of American Ethnology|publisher=University of Oklahoma Press|year=1986}}
+*{{cite book|last1=Bickel|first1=Balthasar|last2=Nichols|first2=Johanna|year=2011|chapter= Chapter 22. Inflectional Synthesis of the Verb|editor-last=Dryer|editor-first=Matthew S.|editor2-last=Haspelmath|editor2-first=Martin|title=The World Atlas of Language Structures |location=Munich |publisher=Max Planck Digital Library |url=http://wals.info/chapter/22|access-date=2013-01-14}}
+* Boas, Franz. (1911). ''Handbook of American Indian languages'' (Part 1).
+* 
+*{{cite book|first=B. J.|last=Blake|chapter=Australian Languages|editor-last=Brown|editor-first=Keith|author-link=Keith Brown (linguist)|title=Encyclopedia of Language & Linguistics|publisher=Elsevier Science|year=2006|isbn=978-0-08-044854-1|edition=Second}}
+*{{cite book|first=Leonard|last=Bloomfield|title=Language|year=1995|orig-year=1914|publisher=Motilal Banarsidass Publishers}}
+* {{cite book|author-link=Daniel Garrison Brinton|last=Brinton| first=D. G.|year=1885|title=Polysynthesis and incorporation as characteristics of American languages.|publisher=American Philosophical Society}}
+*{{Cite book |last=Campbell|first=Lyle|author-link=Lyle Campbell |year=1997 |title=American Indian Languages: The Historical Linguistics of Native America (Oxford Studies in Anthropological Linguistics, 4) |publisher=[[Oxford University Press]]|location= New York |isbn=0-19-509427-1}}
+* Comrie, Bernard.  (1989).  ''Language universals and linguistic typology'' (2nd ed.).  Chicago: The University of Chicago Press.
+* {{Cite book |last=Duponceau|first=Peter S.|year=1819|chapter=Report of the corresponding secretary to the committee, of his progress in the investigation committed to him of the general character and forms of the languages of the American Indians: Read, 12th Jan. 1819.|title=''Transactions of the Historical & Literary Committee of the American Philosophical Society, held at Philadelphia, for promoting useful knowledge''|volume=1|pages=xvii–xlvi}}
+* {{Cite book|last1=Evans|first1=Nicholas|last2=Sasse|first2=Hans-Jürgen|year=2002|title=Problems of polysynthesis|location=Berlin|publisher=Akademie Verlag|isbn= 3-05-003732-6}}
+* Fortescue, Michael. (1983). ''A comparative manual of affixes for the Inuit dialects of Greenland, Canada, and Alaska''. Meddelelser om Grønland, Man & society (No. 4). Copenhagen: Nyt Nordisk Forlag.
+* Fortescue, Michael. (1994). Morphology, polysynthetic. In R. E. Asher & J. M. Y. Simpson (Eds.), ''The Encyclopedia of language and linguistics''.
+*{{Cite book|title=The Oxford handbook of polysynthesis|last1=Fortescue|first1=Michael|last2=Mithun|first2=Marianne|last3=Evans|first3=Nicholas|publisher=Oxford University Press|year=2017|isbn=9780199683208|location=Oxford, United Kingdom|oclc=967828955}}
+*{{cite book|first=Kenneth L. |last=Hale|author-link=Kenneth L. Hale|year=2003|chapter=On the significance of Eloise Jelinek’s Pronominal Argument Hypothesis |publisher=Massachusetts Institute of Technology|editor-last=Carnie|editor-first=Andrew|editor2-first=Heidi|editor2-last=Harley|editor3-first=MaryAnn|editor3-last=Willie|title=Formal Approaches to Function in Grammar: In honor of Eloise Jelinek|pages=11–43}}
+* Hewitt, John N. B. (1893). Polysynthesis in the languages of the American Indians. ''American Anthropologist'', ''6'', 381–407.
+* von Humboldt, Wilhelm. (1836). ''Über die Verschiedenheit des menschichen Sprachbaues und ihren Einfluß auf die geistige Entwicklung des Menschengeschlechts''. Berlin: Königliche Akadamie der Wissenschaften.
+* Jacobson, Steven A. (1977). ''A grammatical sketch of Siberian Yupik Eskimo'' (pp.&nbsp;2–3). Fairbanks: Alaska Native Languages Center, University of Alaska.
+* {{cite journal|author-link=Eloise Jelinek|last=Jelinek|first=Eloise|year=1984|title=Empty categories, case, and configurationality|journal=Natural Language and Linguistic Theory 	|volume=2|pages=39–76|doi=10.1007/BF00233713|s2cid=170296224}}
+*{{cite book|last1=Mahieu|first1=Marc-Antoine|first2=Nicole|last2=Tersis|year=2009|title=Variations on polysynthesis: the Eskaleut languages|publisher=John Benjamins |series= Typological studies in language, '''86'''|isbn=978-90-272-0667-1}}
+*{{cite book|last=Mattissen|first=Johanna|title=Dependent-head synthesis in Nivkh: a contribution to a typology of polysynthesis|year=2003|isbn=1-58811-476-7|publisher=John Benjamins Publishers}}
+*Mithun, Marianne. 1983. [http://www.linguistics.ucsb.edu/faculty/mithun/pdfs/1983%20Genius%20of%20Polysynthesis.pdf The genius of polysynthesis]. North American Indians: Humanistic Perspectives. James S. Thayer, ed. University of Oklahoma Papers in Anthropology 24(2): 221–242.
+*{{cite book |last= Payne |first= Thomas Edward |title= Describing morphosyntax: a guide for field linguists |publisher= Cambridge University Press |year= 1997 |pages= 238–241 |isbn= 9780521588058 |url= https://books.google.com/books?id=LC3DfjWfCiwC&q=%22perfect+aspect%22+%22perfective+aspect%22&pg=PA239}}
+* de Reuse, Willem J. Central Siberian Yupik as a polysynthetic language.
+*{{cite book|first=G. J.|last=Rowicka|chapter=Canada: Language Situation|editor-last=Brown|editor-first=Keith|author-link=Keith Brown (linguist)|title=Encyclopedia of Language & Linguistics|publisher=Elsevier Science|year=2006|isbn=978-0-08-044854-1|edition=Second}}
+* Sapir, Edward. (1911). Problem of noun incorporation in American Indian languages. ''American Anthropologist'', ''13'', 250–282.
+* Osborne, C.R., 1974. The Tiwi language. Canberra: AIAS
+* {{cite book| last= Sapir| first = Edward| title      = Language: An introduction to the study of speech| publisher  = Harcourt, Brace and company| year= 1921| location   = New York| url= https://www.gutenberg.org/ebooks/12629| id = ASIN: B000NGWX8I | isbn = 0-246-11074-0}}
+* {{cite book|last=Shibatani|first=Masayoshi|year=1990|title=The languages of Japan|location=Cambridge|publisher=Cambridge University Press}}
+* Shopen, Timothy.  (1985).  ''Language typology and syntactic description: Grammatical categories and the lexicon'' (Vol. 3).  Cambridge: Cambridge University Press.
+*{{Cite book |last=Skorik|first=P. Ja.|year=1961|title=Grammatika čukotskogo jazyka: Fonetika i morfologija imennyx častej reči|volume=1|location=Leningrad |publisher=[[Nauka (publisher)|Nauka]]}}
+*{{Cite book|last=Suárez|first=Jorge A.|year=1983|title=The Mesoamerican Indian Languages|series=Cambridge Language Surveys|publisher=Cambridge University Press|isbn=0-521-22834-4|oclc=8034800|url-access=registration|url=https://archive.org/details/mesoamericanindi0009suar}}
+* {{Cite book|last=Whitney|first=William Dwight|year=1908|orig-year=1875|title=The life and growth of language|publisher=D. Appleton & Company|location=New York}}
+{{refend}}
+
+{{DEFAULTSORT:Polysynthetic Language}}
+[[Category:Linguistic typology]]
+[[Category:Grammar]]

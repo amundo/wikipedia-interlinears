@@ -1,0 +1,448 @@
+{{Short description|Variety of Arabic spoken in the Najd region of Saudi Arabia}}{{Infobox language
+|name=Najdi Arabic
+|states=[[Saudi Arabia]], [[Jordan]], [[Kuwait]], [[Iraq]], [[Syria]]
+|speakers=4.05 million
+|date=2011-2015
+|ref=<ref>{{Cite news|url=https://www.ethnologue.com/language/ars|title=Arabic, Najdi Spoken|work=Ethnologue|access-date=2018-08-08|language=en}}</ref>
+|familycolor=Afro-Asiatic
+|fam2=[[Semitic languages|Semitic]]
+|fam3=[[Central Semitic languages|Central Semitic]]
+|fam4=[[Arabic languages|Arabic]]
+|fam5=[[Peninsular Arabic|Peninsular]]
+|script=[[Arabic alphabet]]
+|iso3=ars
+|glotto=najd1235
+|glottorefname=Najdi Arabic
+|map=Árabe najdí.png
+}}
+'''Najdi Arabic''' ({{lang-ar|اللهجة النجدية}}) is the group of [[Varieties of Arabic|Arabic varieties]] originating from the [[Najd]] region of [[Saudi Arabia]]. The group includes the majority of [[bedouin]] tribes historically residing in deserts surrounding Najd, and as a result several regions surrounding Najd, including [[Eastern Province, Saudi Arabia|the Eastern Province]], [[Al Jawf Region|Al Jawf]], [[Najran Region|Najran]], and [[Northern Borders Region]]s are now mostly Najdi-speaking.{{Citation needed|date=March 2021}} Outside of Saudi Arabia, it is also the main Arabic variety spoken in the [[Syrian Desert]] of [[Iraq]], [[Jordan]], and [[Syria]] (with the exception of [[Palmyra]] oasis and settlements dotting the [[Euphrates]], where [[Mesopotamian Arabic]] is spoken) as well as the westernmost part of [[Kuwait]]. 
+
+Najdi Arabic can be divided into four region-based groups:
+#Northern Najdi, spoken by the tribe of [[Shammar]] and surrounding tribes in [[Ha'il Region]] in Najd and the Syrian Desert.{{sfnp|Ingham|1986|p=274}}{{sfnp|Al Motairi|2015|p=4}}
+#Mixed northern-central Najdi of [[Al-Qassim]], and the tribe of [[Al-Dhafeer|Dhafeer]] around [[Kuwait]].{{sfnp|Al Motairi|2015|p=4}}{{sfnp|Ingham|1994|p=5}}
+#Central Najdi (Urban Najdi), spoken in the city of [[Riyadh]] and surrounding towns and farming communities, and by the tribe of [[Anazah]] in the Syrian Desert.{{sfnp|Al Motairi|2015|p=4}}{{sfnp|Ingham|1986|p=274}}
+#Southern Najdi, spoken by the tribes of [[Qahtan (tribe)|Qahtan]] and [[Banu Yam]], including in the [[Rub' al-Khali]] and [[Najran]], as well as the branches of Banu Yam, [[Ajman (tribe)|Ajman]] and [[Al Murrah]] in Eastern Arabia.{{sfnp|Al Motairi|2015|p=4}}{{sfnp|Ingham|1994|p=5}}
+
+==Phonology==
+===Consonants===
+Here is a table of the consonant sounds of Najdi Arabic. The phones {{IPA|[p]}} ⟨{{lang|ar|پ}}⟩ and {{IPA|[v]}} ⟨{{lang|ar|ڤ}}⟩ (not used by all speakers) are not considered to be part of the phonemic inventory, as they exist only in foreign words and can be pronounced as {{IPA|/b/}} and {{IPA|/f/}} respectively depending on the speaker.{{sfnp|Al Motairi|2015|p=5}}
+
+{| class="wikitable" style="text-align:center"
+|+Consonants{{sfnp|Ingham|1994|p=14}}{{sfnp|Al Motairi|2015|p=6}}
+! colspan="2" rowspan="2" |
+! rowspan="2" |[[Labial consonant|Labial]]
+! rowspan="2" |[[Interdental consonant|Inter-<br>Dental]]
+! colspan="2" |[[Denti-alveolar consonant|Denti-alveolar]]
+! rowspan="2" |[[Palatal consonant|Palatal]]
+! rowspan="2" |[[Velar consonant|Velar]]
+! rowspan="2" |[[Pharyngeal consonant|Pharyngeal]]
+! rowspan="2" |[[Glottal consonant|Glottal]]
+|- style="font-size: 80%;"
+!&nbsp;plain&nbsp;
+![[Emphatic consonant|emphatic]]
+|-
+! colspan="2" style="text-align: left;" |[[Nasal stop|Nasal]]
+|{{IPA link|m}}
+|
+|{{IPA link|n}}
+|
+|
+|
+|
+|
+|-
+! rowspan="2" style="text-align: left;" |[[Stop consonant|Stop]]
+! style="text-align: left; font-size: 80%;" |[[Voiceless consonant|voiceless]]
+|({{IPA link|p}})
+|
+|{{IPA link|t̪|t}}
+|{{IPA link|tˤ}}
+|
+|{{IPA link|k}}
+|
+|{{IPA link|ʔ}}
+|-
+! style="text-align: left; font-size: 80%;" |[[Voiced consonant|voiced]]
+|{{IPA link|b}}
+|
+|{{IPA link|d̪|d}}
+|
+|{{IPA link|d͡ʒ}}
+|{{IPA link|ɡ}}
+|
+|
+|-
+! rowspan="2" style="text-align: left;" |[[Fricative]]
+! style="text-align: left; font-size: 80%;" |[[Voiceless consonant|voiceless]]
+|{{IPA link|f}}
+|{{IPA link|θ}}
+|{{IPA link|s̪|s}}
+|{{IPA link|sˤ}}
+|{{IPA link|ʃ}}
+|{{IPA link|x}}~{{IPA link|χ}}
+|{{IPA link|ħ}}
+|{{IPA link|h}}
+|-
+! style="text-align: left; font-size: 80%;" |[[Voiced consonant|voiced]]
+|({{IPA link|v}})
+|{{IPA link|ð}}
+|{{IPA link|z̪|z}}
+|{{IPA link|ðˤ}}
+|
+|{{IPA link|ɣ}}~{{IPA link|ʁ}}
+|{{IPA link|ʕ}}
+|
+|-
+! colspan="2" style="text-align: left;" |[[Trill consonant|Trill]]
+|
+|
+|{{IPA link|r}}
+|
+|
+|
+|
+|
+|-
+! colspan="2" style="text-align: left;" |[[Approximant]]
+|
+|
+|{{IPA link|l}}
+|
+|{{IPA link|j}}
+|{{IPA link|w}}
+|
+|
+|}
+
+Phonetic notes:
+* {{IPA|/ɡ/}} is the modern reflex of Classical {{IPA|/q/}} {{angbr|{{lang|ar|ق}}}}, though {{IPA|/q/}} can appear in a few loanwords from [[Modern Standard Arabic]] and proper names, as in {{lang|ar|القرآن}} {{IPA|[alqurˈʔaːn]}} ('Quran') and {{lang|ar|قانون}} {{IPA|[qaːnuːn]}} ('law').{{sfnp|Al Motairi|2015|p=6}}
+* The distinction between the [[Classical Arabic]] {{angbr|{{lang|ar|ﺽ}}}} and {{angbr|{{lang|ar|ظ}}}} was completely lost in Najdi Arabic, and both are realised as {{IPA|[ðˤ]}}.{{sfnp|Al Motairi|2015|p=7}} {{IPA|/tˤ/}} is sometimes voiced.{{sfnp|Ingham|1994|p=14}}
+* The phonemes {{IPA|/ɣ/}} {{angbr|{{lang|ar|غ}}}} and {{IPA|/x/}} {{angbr|{{lang|ar|خ}}}} can be realised as uvular fricatives {{IPAblink|ʁ}} and {{IPAblink|χ}} respectively.
+* Northern and central dialects feature affricates {{IPA|[t͡s]}} and {{IPA|[d͡z]}} as allophonic variants of the velar stops {{IPA|/k/}} and {{IPA|/ɡ/}}, respectively, particularly in the context of front vowels e.g. {{lang|ar|كَلْب}} {{IPA|[t͡salb]}} ('dog').{{sfnp|Ingham|1986|p=274, 278}}{{sfnp|Al Motairi|2015|p=7}}{{sfnp|Al-Rojaie|2013|p=46}} Dialect leveling as a result of influence from the Riyadh-based prestige varieties has led to the affricate allophones becoming increasingly less common among younger speakers.{{sfnp|Al-Rojaie|2013|p=46}}
+* Historically, {{IPA|/ʔ/}} was deleted. It now appears only in borrowings from Classical Arabic; word-medially, this deletion comes along with the lengthening of short vowels.{{sfnp|Ingham|1994|p=13}}
+
+===Vowels===
+{| class="wikitable" style="text-align: center;"
+|+ Vowels of Najdi Arabic{{sfnp|Ingham|1994|p=15}}{{sfnp|Al Motairi|2015|p=8}}
+! rowspan="2" |
+! colspan="2" | [[Front vowel|Front]]
+! colspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! {{small|short}}
+! {{small|long}}
+! {{small|short}}
+! {{small|long}}
+! {{small|short}}
+! {{small|long}}
+|-
+! [[Close vowel|Close]]
+| {{IPA link|ɪ}}
+| {{IPA link|iː}}
+|
+|
+| {{IPA link|ʊ}}
+| {{IPA link|uː}}
+|-
+! [[Mid vowel|Mid]]
+|
+| {{IPA link|eː}}
+|
+|
+|
+| {{IPA link|oː}}
+|-
+! [[Open vowel|Open]]
+|
+|
+| {{IPA link|ɐ|a}}
+| {{IPA link|aː}}
+|
+|
+|}
+
+Unless adjacent to {{IPA|/ɣ x h ħ ʕ/}}, {{IPA|/a/}} is raised in open syllables to {{IPA|[i]}}, {{IPA|[ɨ]}}, or {{IPA|[u]}}, depending on neighboring sounds.<ref>{{Harvcoltxt|McCarthy|2007|pp=177, 178}}, citing {{Harvcoltxt|Al-Mozainy|1981|p=64ff}}</ref> Remaining {{IPA|/a/}} may become fronted to {{IPA|[æ~ɛ]}} in the context of front sounds, as well as adjacent to the pharyngeals {{IPA|/ħ ʕ/}}.{{sfnp|Ingham|1994|p=15}}
+
+Najdi Arabic exhibits the so-called gahawa syndrome, insertion of epenthetic /a/ after ({{IPA|/h x, ɣ ħ, ʕ/}}). For example, [gahwah] > [gahawah].
+
+When short {{IPA|/a/}} appears in an open syllable that is followed by a nonfinal light syllable, it is deleted. For example, {{IPA|/saħab-at/}} is realized as {{IPA|[sˈħa.bat]}}.{{sfnp|McCarthy|2007|pp=181}} This, combined with the gahawa syndrome can make underlying sequence of {{IPA|/a/}} and a following guttural consonant ({{IPA|/h x, ɣ ħ, ʕ/}}) to appear [[metathesis (linguistics)|metathesized]], e.g. {{IPA|/ʕistaʕʒal/}} ('got in a hurry') {{IPA|[ʕistˈʕaʒal]}}.{{sfnp|McCarthy|2007|pp=205}} 
+
+Short high vowels are deleted in non-final open syllables, such as {{IPA|/tirsil-uːn/}} ('you [m. sg.] send') {{IPA|[tirsˈluːn]}}.{{sfnp|McCarthy|2007|pp=187}}
+
+There is both limited distributional overlap and free variation between {{IPA|[i]}} and {{IPA|[u]}}, with the latter being more likely in the environment of bilabials, pharyngealized consonants, and {{IPA|/r/}}.{{sfnp|Ingham|1994|p=14}}
+
+The mid vowels {{IPA|/eː oː/}} are typically monophthongs, though they can be pronounced as diphthongs when preceding a plosive, e.g. {{IPA|/beːt/}} ('house') {{IPA|[beit]}}.{{sfnp|Ingham|1994|p=15}} {{IPA|[ei]}}
+
+==Grammar==
+===Morphology===
+Najdi Arabic sentence structure can have the word order VSO and SVO, however, VSO usually occurs more often.{{sfnp|Ingham|1994|pp=37-44}} NA morphology is distinguished by three categories which are: nouns ''ism'', verb ''fial'', and particle ''harf''. ''Ism'' means name in Arabic and it corresponds to nouns and adjectives in English. ''Fial'' means action in Arabic and it corresponds to verbs. ''Harf'' means letter and corresponds to pronouns, demonstratives, prepositions, conjunctions and articles. 
+
+Verbs are inflected for number, gender, person, tense, aspect and transitives. Nouns show number (singular and plural) and gender (masculine and feminine).{{sfnp|Alothman|2012|p=96–121}}
+
+Complementizers in NA have three different classes which are: relative particle, declarative particle, and interrogative particles. The three different complementizers that are used in Najdi Arabic are: ''illi'', ''in'', ''itha''.{{sfnp|Lewis Jr.|2013|p=22}} 
+
+===Negation===
+{{main|Negation in Arabic}}
+Two particles are used in negation, which are: ''ma'' and ''la''. These particles come before the verb in verbal sentences.{{sfnp|Ingham|1994|pp=37-44}} ''ma'' is used with all verbal sentences but ''la'' is used with imperative verb forms indicating present and future tense.{{sfnp|Alothman|2012|p=96–121}}
+
+===Tense/Aspect System===
+Najdi Arabic exhibits a number of discourse particles whose main function is to mark different tenses and aspects, including the perfective, imperfective, and progressive aspects. These speech particles "form a link between the time of occurrence of the verb and a point of reference not concurrent with it".{{sfnp|Ingham|1994|p=107}} {{sfnp|Ingham|1994}} cites six "relative time markers":{{sfnp|Ingham|1994|p=107}}
+*{{IPA|[dʒid]}} ('already')
+*{{IPA|[ʕaːd]}} ('still, anymore')
+*{{IPA|[maː ʕaːd]}} ('no longer, no more')
+*{{IPA|[baʕad]}} ('still')
+*{{IPA|[maː baʕad]}} ('not yet')
+*{{IPA|[taww-]}} ('just')
+
+Most of these discourse particles are preverbal, yet a few of them can show up in non-verbal sentences.{{sfnp|Ingham|1994|p=107}} These discourse particles have a number of features when they show up in speech:{{sfnp|Ingham|1994|pp=107–8}}
+#The particle {{IPA|[taww]}} occurs with the perfective and active particle and is almost always followed by a personal pronoun suffix.
+#A few of these particles are not pre-verbal, i.e, they can show up with non-verbal sentences.
+# Their function is similar, "setting the time of occurrence of the situation referred to by the sentence in relation to a point of reference".{{sfnp|Ingham|1994|p=107}}
+#The particles {{IPA|[ʕaːd]}} and {{IPA|[baʕad]}} can sometimes have a suffix in the affirmative.
+#The particle {{IPA|[maː ʕaːd]}} occurs with the perfective and imperfective.
+#The particles {{IPA|[ʕaːd]}} and {{IPA|[baʕad]}} occur with the imperfective and the active participle.
+#The particle {{IPA|[maː baʕad]}} occurs with the perfective.
+
+The following examples illustrate the use of these discourse particles in Najdi Arabic:{{sfnp|Ingham|1994|pp=108–9}}
+
+* {{IPA|[ʕaːd]}}
+{{interlinear|indent=2|ipaN=yes
+| '''ʕaːd'''-ik bduwi
+| '''still'''.2SG bedouin
+|'you are still a bedouin'
+}}
+
+{{interlinear|indent=2|ipaN=yes
+|ħaːmid '''ʕaːd''' ʃiftih
+|Hamid '''still''' see.PERF.3SG
+|'have you seen Hamid any more?'
+}}
+
+* {{IPA|[maʕaːd]}} 
+{{interlinear|indent=2|ipaN=yes
+|leːn sˤirt '''maː''' '''ʕaːd''' aħiss biʔajj farɡ    
+|until become.PERF.1SG '''NEG''' '''longer''' 1SG-feel-IMPERF any difference     
+|'until I could no longer feel any difference'
+}}
+{{interlinear|indent=2|ipaN=yes
+|'''maː''' '''ʕaːd''' ʃiftih
+|'''NEG''' '''longer''' see.PERF.3SG
+|'I have not seen him anymore'
+}}
+
+* {{IPA|[baʕad]}}
+{{interlinear|indent=2|ipaN=yes
+|'''baʕad'''-hum jsulifuːn
+|'''still'''-3PL talk.IMPERF.3PL
+|'they are still talking'
+}}
+{{interlinear|indent=2|ipaN=yes
+|'''baʕad'''-hum hnaj'ja
+|'''still'''.3PL here
+|'they are still here'
+}}
+
+* {{IPA|[maː baʕad]}}
+{{interlinear|indent=2|ipaN=yes
+|'''maː''' '''baʕad''' ligeːt aħdin jwasˤsˤilha
+|'''NEG''' '''yet''' find.PERF.1SG anyone send.IMPERF.3SG
+|'I have not yet found anyone to send it'
+}}
+{{interlinear|indent=2|ipaN=yes
+|ila l-ħiːn '''maː''' ''''baʕad''' garrart ʃajj
+|to now '''NEG''' '''yet''' decide.PERF.3SG thing
+|'up till now I have not yet decided anything'
+}}
+* {{IPA|[taww]}}
+{{interlinear|indent=2|ipaN=yes
+|'''taww''' nuːrah hnajja
+|'''just''' Nurah here
+|'Nurah was just here'
+}}
+{{interlinear|indent=2|ipaN=yes
+|'''taww'''-ih dʒaːj
+|'''just'''.3SG arrive.IMPERF.3SG
+|'he has just arrived'
+}}
+
+In addition to these, {{IPA|[dʒid]}} ('already') may occur before the main verb{{sfnp|Alshammari|Alshammari|2020}}{{pn|date=December 2021}} to convey that something has been done but is no longer the case (equivalent to the [[experiential perfect]] in English).{{sfnp|Ingham|1994|p=104}} There are a number of meanings of {{IPA|[dʒid]}} depending on context:
+* 'had done' when occurring with a past reference point
+* 'has done' when occurring with a present reference point
+* 'already' when the action has actually occurred previously to the time of utterance
+* 'never' with a negative sentence that has a present reference point
+* 'ever' with an interrogative sentence with a present reference point. 
+
+The following examples illustrate the use of the particle {{IPA|[dʒid]}}:{{sfnp|Ingham|1994|p=104–5}}
+{{interlinear|indent=2|ipaN=yes
+|hu '''dʒid''' ritsib
+|he '''EXP''' ride.PERF.3SG
+|'He has ridden' 
+}}
+{{interlinear|indent=2|ipaN=yes
+|int '''dʒid''' dʒiː-ta-hum gabul
+|you '''already''' come.PERF.2SG.3PL before
+|'You have visited them before' (I think)'
+}}
+{{interlinear|indent=2|ipaN=yes
+|maː  '''dʒid''' ʃif-t-ih
+|NEG '''EXP''' see.PERF.1SG-3SG
+|'I have never seen him'
+}}
+{{interlinear|indent=2|ipaN=yes
+|ana laħaɡ-t-kum laːkin '''dʒid''' taʕaddeː-tu l-kullijjah
+|I follow.PERF-1SG-2PL but '''EXP''' pass.PER-.2PL DEF-college
+|'I came after you, but you had already turned the corner of the college'
+}}
+
+In addition, the progressive aspect is marked by the particle {{IPA|[qaʕid]}} ('to sit').{{sfnp|Al Aloula|2021}}{{pn|date=December 2021}}<ref>This is particle is also a feature of nearby Arabic dialects, including other dialects of Saudi Arabia, as well as Kuwait, Bahrain, Qatar, United Arab Emirates, and Oman {{Harv|Holes|1990}}{{pn|date=December 2021}}</ref> The particle {{IPA|[qaʕid]}} surfaces with a verb in the imperfective aspect but cannot surface with a verb in the perfective aspect, as shown in the following two sentences:{{sfnp|Lewis Jr|2013|p=14}}
+{{interlinear|indent=2|ipaN=yes
+|ɡaʔid ja-ɡra al-kitaab
+|AUX 3SG.MASC-read.IMPERF DEF.book
+|'he is reading the book'
+}}
+{{interlinear|indent=2|ipaN=yes
+|*ɡaʔid ɡara al-kitaab
+|AUX read.PERF.3SG DEF-book
+|'he is reading the book'
+}}
+
+The progressive aspect in Najdi Arabic (as well as other dialects is expressed by the imperfective form of the verb, often preceded by the active particle {{IPA|[qaʕid]}}.{{Harvcoltxt|Holes|1990}}{{pn|date=December 2021}}  The following examples to illustrate the use of {{IPA|[qaʕid]}} to express the progressive aspect:{{sfnp|Al Aloula|2021|p=3}}
+{{interlinear|indent=2|ipaN=yes
+|qaʕid aːlʕab kuːrah
+|sit.ACT.PTCP.3SG.M play.IPFV.3SG.M soccer
+|'I am playing soccer'
+}}
+{{interlinear|indent=2|ipaN=yes
+|qaʕid ʔamʃiː
+|sit.ACT.PTCP.3SG.M walk.IPFV.3SG.M
+|'I am walking' 
+}}
+
+== See also ==
+* [[Varieties of Arabic]]
+* [[Peninsular Arabic]]
+
+==Footnotes==
+{{reflist}}
+
+==Bibliography==
+*{{citation
+|last=Al Aloula
+|first=Meshael
+|year=2021
+|title=The Emergence of a Progressive Aspect in Najdi Arabic
+|publisher=George Mason Universit
+}}
+* {{citation
+|last=Al-Rojaie
+|first=Y.
+|year=2013
+|title=Regional dialect leveling in Najdi Arabic: The case of the deaffrication of [k] in the Qaṣīmī dialect
+|journal=Language Variation and Change
+|volume=25
+|issue=1
+|pages=43–63
+|doi=10.1017/s0954394512000245
+|s2cid=145173628
+}}
+* {{citation
+|last=Al Motairi
+|first=Sarah Soror
+|year=2015
+|title=An Optimality-Theoretic Analysis of Syllable Structure in Qassimi Arabic
+|url=http://commons.emich.edu/cgi/viewcontent.cgi?article=1991&context=theses
+}}
+* {{citation
+|last=Alothman
+|first=Ebtesam
+|year=2012
+|title=Digital Vernaculars: An Investigation of Najdi Arabic in Multilingual Synchronous Computer-Mediated Communication
+|url=https://www.research.manchester.ac.uk/portal/files/54526343/FULL_TEXT.PDF
+|publisher=University of Manchester
+|pages=96–121
+}}
+* {{Citation
+|last1=Alshammari
+|first1=Ahmad
+|last2=Alshammari
+|first2=Wafi Fhaid
+|year=2020
+|title=The Word gid in Najdi Arabic: An Evidentiality Head
+|journal=Linguistic Forum - A Journal of Linguistics
+|volume=2
+|issue=4
+|pages=33–41
+|doi=10.53057/linfo/2020.2.4.5
+|s2cid=236846500
+|issn=2707-5273
+}}
+*{{citation
+|last=Holes
+|first=Clive
+|year=1990
+|title=Gulf Arabic
+|place=London
+|publisher=Routledge
+}}
+* {{citation
+|last=Ingham
+|first=Bruce
+|year=1986
+|title=Notes on the Dialect of the Āl Murra of Eastern and Southern Arabia
+|journal=Bulletin of the School of Oriental and African Studies, University of London
+|volume=49
+|issue=2
+|pages=271–291
+|doi=10.1017/s0041977x00024162
+}}
+* {{citation
+|last=Ingham
+|first=Bruce
+|year=1994
+|title=Najdi Arabic: Central Arabian
+|place=Amsterdam
+|publisher=John Benjamins
+|isbn=9789027238016
+}}
+* {{citation
+|last=Lewis Jr.
+|first=Robert
+|date=2013
+|title=Complementizer Agreement in Najdi Arabic
+|url=http://home.uchicago.edu/~robertlewis/writings/thesis.pdf
+|publisher=University of Kansas
+}}
+* {{citation
+|last=McCarthy
+|first=John J.
+|year=2007
+|title=Hidden Generalizations: Phonological Opacity in Optimality Theory
+|place=London
+|publisher=Equinox Publishing Ltd.
+|isbn=9781845530518
+}}
+
+==Further reading==
+* P.F. Abboud.  1964. "The Syntax of Najdi Arabic", University of Texas PhD dissertation.
+* {{cite dissertation
+|last=Al-Mozainy
+|first=Hamza Q
+|year=1981
+|title=Vowel Alternations in a Bedouin Hijazi Arabic Dialect: Abstractness and Stress
+|place=Austin, Texas
+|publisher=University of Texas, Austin
+}}
+*Al-Sudais, M. S. ''A critical and comparative study of modern Najdi Arabic Proverbs.'' PhD diss., University of Leeds, 1976.
+
+{{Languages of Iraq}}
+{{Languages of Syria}}
+{{Languages of Saudi Arabia}}
+{{Varieties of Arabic|state=collapsed}}
+
+[[Category:Arabic languages]]
+[[Category:Mashriqi Arabic]]
+[[Category:Languages of Saudi Arabia]]
+[[Category:Languages of Jordan]]
+[[Category:Languages of Iraq]]
+[[Category:Languages of Syria]]
+[[Category:Peninsular Arabic]]

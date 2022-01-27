@@ -1,0 +1,957 @@
+{{redirect|Cambodian language|other languages spoken in Cambodia|Demographics of Cambodia#Languages}}
+{{Short description|Austroasiatic language of Cambodia}}
+{{good article}}
+{{Infobox language
+| name             = Khmer
+| altname          = Cambodian
+| nativename       = ភាសាខ្មែរ / ខេមរភាសា
+| image            = PhiesaKhmae.svg
+| imagecaption     = ''Phéasa Khmêr'' ("Khmer language") written in Khmer script
+| pronunciation    = {{IPA-km|pʰiəsaː kʰmae|}}<br />{{IPA-km|kʰeːmarapʰiəsaː|}}
+| states           = [[Cambodia]]<br />[[Thailand]] ([[Eastern Thailand|East]] and [[Isan]])<br />[[Vietnam]] ([[Mekong Delta]] and [[Southeast (Vietnam)|Southeast]])
+| ethnicity        = [[Khmer people|Khmers]]
+| speakers         = {{sigfig|15.8|2}} million<!--figure of 1 million L2 speakers is spurious:  it's derived from an estimate of 8 million speakers total in 1999 per Ethn.14-->
+| date             = 2007
+| ref              = ne2007
+| familycolor      = Austroasiatic
+| fam1             = [[Austroasiatic languages|Austroasiatic]]
+| fam2             = Khmeric
+| ancestor         = [[Proto-Khmeric language|Proto-Khmeric]]
+| ancestor2        = [[Old Khmer]]
+| ancestor3        = [[Middle Khmer]]
+| script           = [[Khmer script]]<br />[[Khmer Braille]]
+| nation           = {{flag|Cambodia}}
+----
+{{flag|ASEAN}}<ref>{{cite web|url=http://asean.org/asean/asean-member-states|title=Languages of ASEAN|access-date=7 August 2017}}</ref><br/>
+| minority         = {{Flag|Thailand}}<br />{{Flag|Vietnam}}
+| iso1             = km
+| iso1comment      = Central Khmer
+| iso2             = khm
+| iso2comment      = Central Khmer
+| lc1              = khm
+| ld1              = Khmer
+| lc2              = kxm
+| ld2              = [[Northern Khmer dialect|Northern Khmer]]
+| lingua           = 46-FBA-a
+| glotto           = khme1253
+| glottoname       = Khmeric
+| glotto2          = cent1989
+| glottoname2      = Central Khmer
+| map2             = Austroasiatic-en.svg
+| mapcaption2      = {{legend|#61FFBD|Khmer}}
+}}
+{{Contains special characters|Khmer}}
+[[File:WIKITONGUES- Michael speaking Khmer.webm|thumb|A Khmer speaker.]]
+'''<span lang="en" dir="ltr">Khmer</span>''' ({{IPAc-en|k|m|ɛər|,_|k|ə|ˈ|m|ɛər}};<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> {{lang|km|ខ្មែរ}}, {{lang|km-Latn|Khmêr}} {{IPA-km|kʰmae|}}) is an [[Austroasiatic languages|Austroasiatic language]] spoken by the [[Khmer people]], and the [[Official language|official]] and [[national language]] of Cambodia. Khmer has been influenced considerably by [[Sanskrit]] and [[Pāli|Pali]], especially in the royal and religious [[Register (sociolinguistics)|registers]], through [[Hinduism and Buddhism]]. It is also the earliest recorded and earliest written language of the [[Mon–Khmer]] family, predating [[Mon language|Mon]] and [[Vietnamese Language|Vietnamese]],<ref name ="cl">{{cite book|title=Cambodian Linguistics, Literature and History: Collected Articles |author= [[David A. Smyth]], Judith Margaret Jacob|year=1993|publisher=Routledge (UK)|url=https://books.google.com/books?id=fRyungEACAAJ|isbn=978-0-7286-0218-2}}</ref> due to Old Khmer being the language of the historical empires of [[Chenla]], [[Angkorian Empire|Angkor]] and, presumably, their earlier predecessor state, [[Funan]].
+
+The vast majority of Khmer speakers speak '''Central Khmer''', the dialect of the central plain where the Khmer are most heavily concentrated. Within Cambodia, regional accents exist in remote areas but these are regarded as varieties of Central Khmer. Two exceptions are the speech of the capital, [[Phnom Penh]], and that of the [[Khmer Khe]] in [[Stung Treng province]], both of which differ sufficiently enough from Central Khmer to be considered separate dialects of Khmer. 
+
+Outside of Cambodia, three distinct dialects are spoken by ethnic Khmers native to areas that were historically part of the [[Khmer Empire]]. The [[Northern Khmer dialect]] is spoken by over a million Khmers in the southern regions of [[Isan|Northeast Thailand]] and is treated by some linguists as a separate language. Khmer Krom, or Southern Khmer, is the first language of the [[Khmer Krom|Khmer of Vietnam]], while the Khmer living in the remote [[Cardamom Mountains]] speak a very conservative dialect that still displays features of the [[Middle Khmer]] language.
+
+Khmer is primarily an [[analytic language|analytic]], [[isolating language]]. There are no [[inflection]]s, [[conjugation (grammar)|conjugations]] or [[grammatical case|case]] endings. Instead, [[Grammatical particle|particles]] and auxiliary words are used to indicate [[Grammar|grammatical]] relationships. General word order is [[subject–verb–object]], and [[modifier (grammar)|modifiers]] follow the word they modify. [[Classifier (linguistics)|Classifiers]] appear after numbers when used to count nouns, though not always so consistently as in languages like [[Chinese language|Chinese]]. In spoken Khmer, [[topic-comment]] structure is common, and the perceived social relation between participants determines which sets of vocabulary, such as pronouns and honorifics, are proper.
+
+Khmer differs from neighboring languages such as [[Burmese language|Burmese]], [[Thai language|Thai]], [[Lao language|Lao]], and [[Vietnamese Language|Vietnamese]] in that it is not a [[tonal language]]. Words are [[stress (linguistics)|stressed]] on the final syllable, hence many words conform to the typical Mon–Khmer pattern of a stressed syllable preceded by a [[minor syllable]]. The language has been written in the [[Khmer script]], an [[abugida]] descended from the [[Brahmi script]] via the southern Indian [[Pallava script]], since at least the 7th century. The script's form and use has evolved over the centuries; its modern features include subscripted versions of consonants used to write [[consonant cluster|clusters]] and a division of consonants into two series with different [[inherent vowel]]s.
+
+==Classification==
+{{Main|Austroasiatic languages}}
+
+Khmer is a member of the [[Austroasiatic languages|Austroasiatic]] language family, the autochthonous family in an area that stretches from the Malay Peninsula through Southeast Asia to East India.<ref name=DiffZide>Diffloth, Gerard & Zide, Norman. [http://emile.uni-graz.at/pub/05s/2005-05-0219.PDF ''Austroasiatic Languages''] {{webarchive|url=https://web.archive.org/web/20120425153023/http://emile.uni-graz.at/pub/05s/2005-05-0219.PDF |date=2012-04-25 }}.</ref> Austroasiatic, which also includes [[Mon language|Mon]], [[Vietnamese language|Vietnamese]] and [[Munda language|Munda]], has been studied since 1856 and was first proposed as a language family in 1907.<ref>{{cite journal |last1=Thomas |first1=David |year=1964 |title=A survey of Austroasiatic and Mon-Khmer comparative studies |journal=The Mon-Khmer Studies Journal |volume=1 |pages=149–163 |url=http://www.mksjournal.org/ |access-date=19 June 2012 }}</ref> Despite the amount of research, there is still doubt about the internal relationship of the languages of Austroasiatic.<ref name=SidwellNew>Sidwell, Paul (2009a). [http://www.jolr.ru/files/%2851%29jlr2010-4%28117-134%29.pdf The Austroasiatic Central Riverine Hypothesis]. Keynote address, SEALS, XIX.</ref> 
+
+Diffloth places Khmer in an eastern branch of the [[Mon-Khmer languages]].<ref name=Diffloth05>Diffloth, Gérard (2005). "The contribution of linguistic palaeontology and Austroasiatic". in Laurent Sagart, Roger Blench and Alicia Sanchez-Mazas, eds. ''The Peopling of East Asia: Putting Together Archaeology, Linguistics and Genetics.'' 77–80. London: Routledge Curzon.</ref> In these classification schemes Khmer's closest genetic relatives are the [[Bahnaric languages|Bahnaric]] and [[Pearic languages]].<ref name="Shorto">Shorto, Harry L. edited by Sidwell, Paul, Cooper, Doug and Bauer, Christian (2006). ''A Mon–Khmer comparative dictionary''. Canberra: Australian National University. Pacific Linguistics. {{ISBN|0-85883-570-3}}</ref> More recent classifications doubt the validity of the Mon-Khmer sub-grouping and place the Khmer language as its own branch of Austroasiatic equidistant from the other 12 branches of the family.<ref name=SidwellNew />
+
+==Geographic distribution and dialects==
+[[File:Approximate Location of Khmer Dialects.png|thumb|280px|The approximate locations where various dialects of Khmer are spoken]]
+Khmer is spoken by some 13 million people in [[Cambodia]], where it is the official language. It is also a second language for most of the minority groups and indigenous hill tribes there. Additionally there are a million speakers of Khmer native to southern [[Vietnam]] (1999 census)<ref>{{e18|khm|Central Khmer}}</ref> and 1.4 million in northeast [[Thailand]] (2006).<ref>{{e18|kxm|Northern Khmer}}</ref>
+
+Khmer [[dialect]]s, although mutually intelligible, are sometimes quite marked. Notable variations are found in speakers from [[Phnom Penh]] (Cambodia's capital city), the rural [[Battambang Province|Battambang]] area, the areas of Northeast Thailand adjacent to Cambodia such as [[Surin province]], the [[Cardamom Mountains]], and southern Vietnam.<ref name="SIDWELL">{{cite web|last1=Sidwell|first1=Paul|title=Khmer/Cambodian|website=Mon-Khmer.com|publisher=Australian National University|access-date=6 February 2016|archive-url=https://web.archive.org/web/20110119044006/http://people.anu.edu.au/~u9907217/languages/Khmer-Cambodian.html|archive-date=2011|format=lecture|url=http://people.anu.edu.au/~u9907217/languages/Khmer-Cambodian.html|date=2006}}</ref><ref>{{cite book|title=Khmer American: Identity and Moral Education in a Diasporic Community |author= Nancy Joan Smith-Hefner|year=1999|publisher=University of California|isbn=978-0-520-21349-4}}</ref><ref name="JoP">{{cite journal|last1=Wayland|first1=Ratree|last2=Jongman|first2=Allard|title=Acoustic correlates of breathy and clear vowels: the case of Khmer|journal=Journal of Phonetics|date=2003|volume=31|issue=2|pages=181–201|url=https://kuppl.ku.edu/sites/kuppl.drupal.ku.edu/files/images/general/jongman/Wayland%20%26%20Jongman%2003.pdf|access-date=6 February 2016|doi=10.1016/s0095-4470(02)00086-4}}</ref> The dialects form a [[dialect continuum|continuum]] running roughly north to south. Standard Cambodian Khmer is mutually intelligible with the others but a [[Khmer Krom]] speaker from Vietnam, for instance, may have great difficulty communicating with a Khmer native of [[Sisaket Province]] in Thailand.
+
+The following is a classification scheme showing the development of the modern Khmer dialects.<ref name="Sidwell2009">Sidwell, Paul (2009). ''Classifying the Austroasiatic languages: history and state of the art''. LINCOM studies in Asian linguistics, 76. Munich: Lincom Europa.</ref><ref>{{cite journal | last1 = Ferlus | first1 = Michel | year = 1992 | title = Essai de phonétique historique du khmer (du milieu du premier millénaire de notre ère à l'époque actuelle) | journal = Mon–Khmer Studies | volume = 2 | issue = 6| pages = 7–28 |url = https://halshs.archives-ouvertes.fr/halshs-00927221v2/document}}</ref>
+* [[Middle Khmer]]
+** Cardamom (Western) Khmer
+** Central Khmer
+*** Surin (Northern) Khmer
+*** Standard Khmer and related dialects (including Khmer Krom)
+
+'''Standard Khmer''', or '''Central Khmer''', the language as taught in Cambodian schools and used by the media, is based on the dialect spoken throughout the [[Geography of Cambodia#Central plain|Central Plain]],<ref name="HUFF" /> a region encompassed by the northwest and central provinces.
+
+'''[[Northern Khmer dialect|Northern Khmer]]''' (called {{transl|km|Khmer Surin}} in Khmer) refers to the dialects spoken by many in several border provinces of present-day northeast Thailand. After the fall of the Khmer Empire in the early 15th century, the Dongrek Mountains served as a natural border leaving the Khmer north of the mountains under the sphere of influence of the Kingdom of [[Lan Xang]]. The conquests of Cambodia by [[Naresuan]] the Great for [[Ayutthaya Kingdom|Ayutthaya]] furthered their political and economic isolation from Cambodia proper, leading to a dialect that developed relatively independently from the midpoint of the Middle Khmer period.<ref name="Bernon">{{cite journal|last1=Olivier|first1=Bernon de|editor1-last=Cholticha|editor1-first=Bamroongraks|editor2-last=Wilaiwan|editor2-first=Khanittanan|editor3-last=Laddawan|editor3-first=Permch|title=Khmer of Surin: Lexical Remarks|journal=The International Symposium on Language and Linguistics|date=1988|pages=258–262|url=http://sealang.net/sala/archives/pdf8/bernon1988khmer.pdf|access-date=6 February 2016|location=Bangkok, Thailand: Thammasat University}}</ref> 
+
+This has resulted in a distinct accent influenced by the surrounding tonal languages [[Isan language|Lao]] and [[Thai language|Thai]], lexical differences, and phonemic differences in both vowels and distribution of consonants. Syllable-final {{IPA|/r/}}, which has become silent in other dialects of Khmer, is still pronounced in Northern Khmer. Some linguists classify Northern Khmer as a separate but closely related language rather than a dialect.<ref name=Thomas>{{cite journal | last1 = Thomas | first1 = David | year = 1990 | title = On the 'language' status of Northern Khmer | journal = JLC | volume = 9 | issue = 1| pages = 98–106 }}</ref><ref name=SUW>[http://www.sealang.net/archives/mks/pdf/24:1-26.pdf Phonetic variation of final trill and final palatals in Khmer dialects of Thailand] Suwilai, Premsrirat; Mahidol University; Mon-Khmer Studies 24:1–26; pg 1</ref>
+
+'''[[Western Khmer]]''', also called Cardamom Khmer or Chanthaburi Khmer, is spoken by a very small, isolated population in the [[Cardamom Mountains|Cardamom mountain]] range extending from western Cambodia into eastern [[Central Thailand]]. Although little studied, this variety is unique in that it maintains a definite system of [[Register (phonology)|vocal register]] that has all but disappeared in other dialects of modern Khmer.<ref name="DiffZide" />
+
+'''Phnom Penh Khmer''' is spoken in the capital and surrounding areas. This dialect is characterized by merging or complete [[elision]] of syllables, which speakers from other regions consider a "relaxed" pronunciation. For instance, "Phnom Penh" is sometimes shortened to "m'Penh". Another characteristic of Phnom Penh speech is observed in words with an "r" either as an initial consonant or as the second member of a [[consonant cluster]] (as in the English word "bread"). The "r", [[Alveolar trill|trilled]] or [[Alveolar tap|flapped]] in other dialects, is either pronounced as a [[uvular trill]] or not pronounced at all.<ref name="Smalley">{{cite book|title=Linguistic Diversity and National Unity: Language Ecology in Thailand |author= William Allen A. Smalley|year=1994|publisher=University of Chicago|isbn=978-0-226-76288-3}}</ref>
+
+This alters the quality of any preceding consonant, causing a harder, more emphasized pronunciation. Another unique result is that the syllable is spoken with a low-rising or "dipping" [[Tone (linguistics)|tone]] much like the "hỏi" tone in [[Vietnamese language|Vietnamese]]. For example, some people pronounce {{IPA|/trəj/}} ('fish') as {{IPA|[təj]}}: the {{IPA|/r/}} is dropped and the vowel begins by dipping much lower in tone than standard speech and then rises, effectively doubling its length. Another example is the word {{IPA|/riən/}} ('study'), which is pronounced {{IPA|[ʀiən]}}, with the uvular "r" and the same intonation described above.<ref name="Smalley" />
+
+'''[[Khmer Krom]]''' or '''Southern Khmer''' is spoken by the indigenous Khmer population of the [[Mekong Delta]], formerly controlled by the Khmer Empire but part of Vietnam since 1698. Khmers are persecuted by the Vietnamese government for using their native language and, since the 1950s, have been forced to take Vietnamese names.<ref name=UNPC>Unrepresented Peoples and Nations Organization [http://www.unpo.org/members/7887 Khmer Krom Profile] Retrieved 19 June 2012</ref> Consequently, very little research has been published regarding this dialect. It has been generally influenced by Vietnamese for three centuries and accordingly displays a pronounced accent, tendency toward monosyllabic words and lexical differences from Standard Khmer.<ref>Thach, Ngoc Minh. [https://web.archive.org/web/20120621002017/http://ip-173-201-189-182.ip.secureserver.net/archives/mks/pdf/29:81-95.pdf Monosyllablization in Kiengiang Khmer]. University of Ho Chi Minh City.</ref>
+
+'''[[Khmer Khe language|Khmer Khe]]''' is spoken in the [[Tonlé San|Se San]], [[Srepok River|Srepok]] and [[Kong River|Sekong]] river valleys of [[Sesan District|Sesan]] and [[Siem Pang District|Siem Pang]] districts in [[Stung Treng Province]]. Following the decline of Angkor, the Khmer abandoned their northern territories, which the Lao then settled. In the 17th century, Chey Chetha XI led a Khmer force into Stung Treng to retake the area. The Khmer Khe living in this area of Stung Treng in modern times are presumed to be the descendants of this group. Their dialect is thought to resemble that of pre-modern Siem Reap.<ref>{{cite journal|last1=Try|first1=Tuon|last2=Chambers|first2=Marcus|title=Situation Analysis|journal=Stung Treng Province Cambodia, IUCN, MRC, UNDP|date=2006|pages=45–46|url=http://cmsdata.iucn.org.iucn.vm.iway.ch/downloads/cambodia_situation_analysis_stung_treng_province_camboida_english_pdf_1.pdf|access-date=20 January 2016}}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+==Historical periods==
+{{further|Old Khmer|Middle Khmer}}
+[[File:AncientKhmerScript.jpg|thumb|320px|A stone carved in Old Khmer]]
+[[Linguistics|Linguistic]] study of the Khmer language divides its history into four periods one of which, the Old Khmer period, is subdivided into pre-Angkorian and Angkorian.<ref name="Sak">Sak-Humphry, Channy. [http://sealang.net/sala/archives/pdf4/sak-humphry1993syntax.pdf ''The Syntax of Nouns and Noun Phrases in Dated Pre-Angkorian Inscriptions'']. Mon Khmer Studies 22: 1–26.</ref> Pre-Angkorian Khmer is the Old Khmer language from 600 CE through 800. Angkorian Khmer is the language as it was spoken in the [[Khmer Empire]] from the 9th century until the 13th century.<ref name="Jacobs">{{Cite web|last=Jacobs|first=Judith|date=1993|title=The deliberate use of foreign vocabulary by the Khmer: changing fashions, methods, and sources|url=http://sealang.net/sala/archives/pdf8/jacob1993deliberate.pdf|url-status=live|archive-url=|archive-date=|access-date=|website=}}</ref>
+
+The following centuries saw changes in [[Morphology (linguistics)|morphology]], [[phonology]] and [[lexicon]]. The language of this transition period, from about the 14th to 18th centuries, is referred to as Middle Khmer and saw borrowings from Thai in the literary register.<ref name="Jacobs" /> Modern Khmer is dated from the 19th century to today.<ref name="Sak" />
+
+The following table shows the conventionally accepted historical stages of Khmer.<ref name="Sidwell2009" />
+
+{| class="wikitable"
+|+ Historical Stages of Khmer
+! c=01| Historical stage
+! c=02| Date
+|-
+| c=01| Pre- or [[Proto-Khmeric language|Proto-Khmer]]
+| c=02| Before 600 CE
+|-
+| c=01| Pre-Angkorian Old Khmer
+| c=02| 600–800
+|-
+| c=01| Angkorian Old Khmer
+| c=02| 800 to mid-14th century
+|-
+| c=01| [[Middle Khmer]]
+| c=02| Mid-14th century to 18th century
+|-
+| c=01| Modern Khmer
+| c=02| 1800–present
+|}
+
+Just as modern Khmer was emerging from the transitional period represented by Middle Khmer, Cambodia fell under the [[French protectorate of Cambodia|influence]] of [[France|French]] [[French colonial empire|colonialism]].<ref name=CBHP>{{cite book
+ | last = Harris | first = Ian | title = Cambodian Buddhism: History and Practice | publisher = University of Hawaii Press | year = 2008 | location = Hawaii | isbn = 978-0-8248-3298-8}}</ref>  Thailand, which had for centuries claimed suzerainty over Cambodia and controlled succession to the Cambodian throne, began losing its influence on the language.<ref name="Candler1">{{cite book|last1=Chandler|first1=David P.|title=A history of Cambodia|date=1992|publisher=Westview Press|isbn=978-0813309262|edition=2, illustrated|url-access=registration|url=https://archive.org/details/historyofcambodi00chan}}</ref> In 1887 Cambodia was fully integrated into [[French Indochina]], which brought in a [[French language|French]]-speaking aristocracy. This led to French becoming the language of higher education and the intellectual class. By 1907, the French had wrested over half of modern-day Cambodia, including the north and northwest where Thai had been the prestige language, back from Thai control and reintegrated it into the country.<ref name="Candler1" />
+
+Many native scholars in the early 20th century, led by a monk named [[Chuon Nath]], resisted the French and Thai influences on their language. Forming the government sponsored Cultural Committee to define and standardize the modern language, they championed Khmerization, purging of foreign elements, reviving affixation, and the use of Old Khmer roots and historical Pali and Sanskrit to coin new words for modern ideas.<ref name=CBHP /><ref name="coinage">{{cite journal|last1=Sasagawa|first1=Hideo|title=The Establishment of the National Language in Twentieth-Century Cambodia: Debates on Orthography and Coinage|journal=Southeast Asian Studies|date=2015|volume=4|issue=1|url=http://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/197740/1/sas_4_1_5_sasagawa.pdf|access-date=6 February 2016}}</ref> Opponents, led by [[Keng Vannsak]], who embraced "total Khmerization" by denouncing the reversion to classical languages and favoring the use of contemporary colloquial Khmer for neologisms, and [[Ieu Koeus]], who favored borrowing from Thai, were also influential.<ref name="coinage" /> 
+
+Koeus later joined the Cultural Committee and supported Nath. Nath's views and prolific work won out and he is credited with cultivating modern Khmer-language identity and culture, overseeing the translation of the entire Pali Buddhist canon into Khmer. He also created the modern Khmer language dictionary that is still in use today, helping preserve Khmer during the French colonial period.<ref name=CBHP />
+
+==Phonology==
+{{Khmer language}}
+The phonological system described here is the inventory of sounds of the standard spoken language,<ref name="HUFF">Huffman, Franklin. 1970. ''[http://www.pratyeka.org/csw/hlp-csw.pdf Cambodian System of Writing and Beginning Reader]''. Yale University Press. {{ISBN|0-300-01314-0}}</ref> represented using the [[International Phonetic Alphabet]] (IPA).
+
+===Consonants===
+{| class="wikitable" style="text-align:center;"
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ɲ}}
+| {{IPA link|ŋ}}
+|
+|-
+! rowspan="2" | [[Plosive]]
+! {{small|voiceless}}
+| {{IPA link|p}} (pʰ)
+| {{IPA link|t}} (tʰ)
+| {{IPA link|c}} (cʰ)
+| {{IPA link|k}} (kʰ)
+| rowspan="2"| {{IPA link|ʔ}}
+|-
+! {{small|voiced}}
+| {{IPA link|ɓ}} ~ {{IPA link|b}}
+| {{IPA link|ɗ}} ~ {{IPA link|d}}
+|
+|
+|-
+! colspan="2" | [[Fricative]]
+|
+| {{IPA link|s}}
+| ({{IPA link|ç}})
+|
+| {{IPA link|h}}
+|-
+! rowspan="2" | [[Liquid consonant|Liquid]]
+! {{small|[[Rhotic consonant|rhotic]]}}
+|
+| {{IPA link|r}}
+|
+|
+|
+|-
+! {{small|[[Lateral consonant|lateral]]}}
+|
+| {{IPA link|l}}
+|
+|
+|
+|-
+! colspan="2" | [[Approximant]]
+| {{IPA link|ʋ}} ~ {{IPA link|w}}
+|
+| {{IPA link|j}}
+|
+|
+|}
+
+The voiceless plosives {{IPA|/p/, /t/, /c/, /k/}} may occur with or without [[aspiration (phonetics)|aspiration]] (as {{IPA|[p]}} vs. {{IPA|[pʰ]}}, etc.); this difference is contrastive before a vowel. However, the aspirated sounds in that position may be analyzed as sequences of two [[phoneme]]s: {{IPA|/ph/, /th/, /ch/, /kh/}}. This analysis is supported by the fact that [[infix]]es can be inserted between the stop and the aspiration; for example {{IPA|[tʰom]}} ('big') becomes {{IPA|[tumhum]}} ('size') with a nominalizing infix. When one of these plosives occurs initially before another consonant, aspiration is no longer contrastive and can be regarded as mere phonetic detail:<ref name="ELL">{{cite book|last=Minegishi|first=M|title=Encyclopedia of Language and Linguistics|editor=Keith Brown|publisher=Elsevier|year=2006|edition=2|pages=4981–4984|chapter=Khmer}}</ref><ref name=SOAS>{{cite book|last=Jacob|first=JM|title=Classical Civilizations of South-East Asia: Key Papers from SOAS|editor=VI Braginskiĭ|publisher=Routledge|year=2002|chapter=The Structure of the Word in Old Khmer}}</ref> slight aspiration is expected when the following consonant is not one of {{IPA|/ʔ/, /b/, /d/, /r/, /s/, /h/}} (or {{IPA|/ŋ/}} if the initial plosive is {{IPA|/k/}}).
+
+The voiced plosives are pronounced as [[implosive consonant|implosives]] {{IPA|[ɓ, ɗ]}} by most speakers, but this feature is weak in educated speech, where they become {{IPA|[b, d]}}.<ref>''International Encyclopedia of Linguistics'', OUP 2003, p. 356.</ref>
+
+In syllable-final position, {{IPA|/h/}} and {{IPA|/ʋ/}} approach {{IPA|[ç]}} and {{IPA|[w]}} respectively.  The stops {{IPA|/p/, /t/, /c/, /k/}} are unaspirated and have [[no audible release]] when occurring as syllable finals.<ref name="HUFF" />
+
+In addition, the consonants {{IPA|/ɡ/}}, {{IPA|/f/}}, {{IPA|/ʃ/}} and {{IPA|/z/}} occur occasionally in recent [[loan word]]s in the speech of Cambodians familiar with French and other languages.
+
+===Vowels===
+Various authors have proposed slightly different analyses of the Khmer vowel system. This may be in part because of the wide degree of variation in pronunciation between individual speakers, even within a dialectal region.<ref>{{cite web| url=http://repository.tufs.ac.jp/bitstream/10108/21736/1/jaas031010.pdf| title= On Takeo Dialects of Khmer: Phonology and World List| first=Makoto| last=Minegishi| year=1986| access-date=2008-12-04}}</ref> The description below follows Huffman (1970).<ref name="HUFF" /> The number of vowel nuclei and their values vary between dialects; differences exist even between the Standard Khmer system and that of the Battambang dialect on which the standard is based.<ref name=Accoustic>Wayland, Ratree. [http://sealang.net/sala/archives/pdf8/wayland1998acoustic.pdf "An Acoustic Study of Battambang Khmer Vowels."] The Mon-Khmer Studies Journal. 28. (1998): 43–62.</ref>
+
+{| class="wikitable" style=text-align:center
+|+ Monophthongs of Khmer<ref name="HUFF" />
+! rowspan=2 | 
+! colspan=2 | [[Front vowel|Front]]
+! colspan=2 | [[Central vowel|Central]]
+! colspan=2 | [[Back vowel|Back]]
+|- class=small
+! [[Short vowel|short]]
+! [[Long vowel|long]]
+! short
+! long
+! short
+! long
+|-
+! [[Close vowel|Close]]
+| {{IPA|i}}
+| {{IPA|iː}}
+| {{IPA|ɨ}}
+| {{IPA|ɨː}}
+| {{IPA|u}}
+| {{IPA|uː}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPA|e}}
+| {{IPA|eː}}
+| {{IPA|ə}}
+| {{IPA|əː}}
+| {{IPA|o}}
+| {{IPA|oː}}
+|-
+! [[Open-mid vowel|Open-mid]]
+|
+| {{IPA|ɛː}}
+| colspan=2 |
+|
+| {{IPA|ɔː}}
+|-
+! [[Open vowel|Open]]
+| colspan=2 |
+| {{IPA|a}}
+| {{IPA|aː}}
+| {{IPA|ɑ}}
+| {{IPA|ɑː}}
+|}
+
+{| class="wikitable" style=text-align:center
+|+ [[Diphthongs]] of Khmer<ref name="HUFF" />
+! colspan="2" |
+! Front
+! Central
+! Back vowel
+|-
+! Short
+!centering
+| {{IPA|ĕə}}
+| 
+| {{IPA|ŏə, ŭə}}
+|-
+! rowspan="3" | Long 
+!centering
+| {{IPA|iə}}
+| {{IPA|ɨə}}
+| {{IPA|ɔə}}, {{IPA|uə}}
+|-
+!mid closing
+| {{IPA|ei}}
+| {{IPA|əɨ}}
+| {{IPA|ou}}
+|-
+!open closing
+| {{IPA|ae}}
+| {{IPA|aə}}
+| {{IPA|ao}}
+|}
+
+In addition, some diphthongs and triphthongs are analyzed as a vowel nucleus plus a [[semivowel]] ({{IPA|/j/}} or {{IPA|/w/}}) coda because they cannot be followed by a final consonant. These include: (with short monophthongs) {{IPA|/ɨw/}}, {{IPA|/əw/}}, {{IPA|/aj/}}, {{IPA|/aw/}}, {{IPA|/uj/}}; (with long monophthongs) {{IPA|/əːj/}}, {{IPA|/aːj/}}; (with long diphthongs) {{IPA|/iəj/}}, {{IPA|/iəw/}}, {{IPA|/ɨəj/}}, {{IPA|/aoj/}}, {{IPA|/aəj/}} and {{IPA|/uəj/}}.<ref>{{cite journal|last1=Jacob|first1=Judith M|title=An Examination of the Vowels and final Consonants in Correspondences between pre-Angkor and modern Khmer|journal=Pacific Linguistics|date=1976|volume=42|issue=19|pages=27–34|url=http://sealang.net/sala/archives/pdf8/jacob1976examination.pdf|access-date=27 January 2016}}</ref>
+
+===Syllable structure===
+A Khmer [[syllable]] begins with a single consonant, or else with a [[consonant cluster|cluster]] of two, or rarely three, consonants. The only possible clusters of three consonants at the start of a syllable are {{IPA|/str/, /skr/}},<ref name=ppak>{{Cite web |url=http://www.panl10n.net/english/Outputs%20Phase%202/CCs/Cambodia/ITC/Papers/2007/0701/phonetic-and-phonological-analysis.pdf |title=Phonetic and Phonological Analysis of Khmer |access-date=2012-02-21 |archive-date=2012-06-19 |archive-url=https://web.archive.org/web/20120619070329/http://www.panl10n.net/english/Outputs%20Phase%202/CCs/Cambodia/ITC/Papers/2007/0701/phonetic-and-phonological-analysis.pdf |url-status=dead }}</ref> and (with aspirated consonants analyzed as two-consonant sequences) {{IPA|/sth/, /lkh/}}. There are 85 possible two-consonant clusters (including [pʰ] etc. analyzed as /ph/ etc.). All the clusters are shown in the following table, phonetically, i.e. superscript ʰ can mark either contrastive or non-contrastive aspiration (see [[#Consonants|above]]).
+
+{| class="wikitable"
+! | || {{IPA|p}} || {{IPA|ɓ}} || {{IPA|t}} || {{IPA|ɗ}} || {{IPA|c}} || {{IPA|k}} || {{IPA|ʔ}} || {{IPA|m}} || {{IPA|n}} || {{IPA|ɲ}} || {{IPA|ŋ}} || {{IPA|j}} || {{IPA|l}} || {{IPA|r}} || {{IPA|s}} || {{IPA|h}} || {{IPA|ʋ}} || t+h || k+h || t+r || k+r
+|-
+! {{IPA|p}}
+| || || {{IPA|pʰt}}- || {{IPA|pɗ}}- || {{IPA|pʰc}}- || {{IPA|pʰk}}- || {{IPA|pʔ}}- || || {{IPA|pʰn}}- || {{IPA|pʰɲ}}- || {{IPA|pʰŋ}}- || {{IPA|pʰj}}- || {{IPA|pʰl}}- || {{IPA|pr}}- || {{IPA|ps}}- || {{IPA|pʰ}}- || || || || ||
+|-
+! {{IPA|t}}
+| {{IPA|tʰp}}- || {{IPA|tɓ}}- || || || || {{IPA|tʰk}}- || {{IPA|tʔ}}- || {{IPA|tʰm}}- || {{IPA|tʰn}}- || || {{IPA|tʰŋ}}- || {{IPA|tʰj}}- || {{IPA|tʰl}}- || {{IPA|tr}}- || || {{IPA|tʰ}}- || {{IPA|tʰʋ}}- || || || ||
+|-
+! {{IPA|c}}
+| {{IPA|cʰp}}- || {{IPA|cɓ}}- || || {{IPA|cɗ}}- || || {{IPA|cʰk}}- || {{IPA|cʔ}}- || {{IPA|cʰm}}- || {{IPA|cʰn}}- || || {{IPA|cʰŋ}}- || || {{IPA|cʰl}}- || {{IPA|cr}}- || || {{IPA|cʰ}}- || {{IPA|cʰʋ}}- || || || ||
+|-
+! {{IPA|k}}
+| {{IPA|kʰp}}- || {{IPA|kɓ}}- || {{IPA|kʰt}}- || {{IPA|kɗ}}- || {{IPA|kʰc}}- || || {{IPA|kʔ}}- || {{IPA|kʰm}}- || {{IPA|kʰn}}- || {{IPA|kʰɲ}}- || {{IPA|kŋ}}- || {{IPA|kʰj}}- || {{IPA|kʰl}}- || {{IPA|kr}}- || {{IPA|ks}}- || {{IPA|kʰ}}- || {{IPA|kʰʋ}}- || || || ||
+|-
+! {{IPA|s}}
+| {{IPA|sp}}- || {{IPA|sɓ}}- || {{IPA|st}}- || {{IPA|sɗ}}- || || {{IPA|sk}}- || {{IPA|sʔ}}- || {{IPA|sm}}- || {{IPA|sn}}- || {{IPA|sɲ}}- || {{IPA|sŋ}}- || || {{IPA|sl}}- || {{IPA|sr}}- || || || {{IPA|sʋ}}- || {{IPA|stʰ}}- || || str- || skr-
+|-
+! {{IPA|ʔ}}
+| || || || || || || || || || || || || || || || || {{IPA|ʔʋ}}- || || || ||
+|-
+! {{IPA|m}}
+| || || {{IPA|mt}}- || {{IPA|mɗ}}- || {{IPA|mc}}- || || {{IPA|mʔ}}- || || {{IPA|mn}}- || {{IPA|mɲ}}- || || || {{IPA|ml}}- || {{IPA|mr}}- || {{IPA|ms}}- || {{IPA|mh}}- || || || || ||
+|-
+! {{IPA|l}}
+| {{IPA|lp}}- || {{IPA|lɓ}}- || || || || {{IPA|lk}}- || {{IPA|lʔ}}- || {{IPA|lm}}- || || || {{IPA|lŋ}}- || || || || || {{IPA|lh}}- || {{IPA|lʋ}}- || || {{IPA|lkʰ}}- || ||
+|}
+
+Slight vowel [[epenthesis]] occurs in the clusters consisting of a plosive followed by {{IPA|/ʔ/, /b/, /d/}}, in those beginning {{IPA|/ʔ/, /m/, /l/}}, and in the cluster {{IPA|/kŋ-/}}.<ref name=ModSpok />{{rp|8–9}}
+
+After the initial consonant or consonant cluster comes the syllabic [[nucleus (syllable)|nucleus]], which is one of the [[#Vowels|vowels]] listed above. This vowel may end the syllable or may be followed by a [[syllable coda|coda]], which is a single consonant. If the syllable is stressed and the vowel is short, there must be a final consonant. All consonant sounds except {{IPA|/b/, /d/, /r/, /s/}} and the aspirates can appear as the coda (although final /r/ is heard in some dialects, most notably in [[Northern Khmer dialect|Northern Khmer]]).<ref>{{cite journal|last1=Nacaskul|first1=Karnchana|title=The syllabic and morphological structure of Cambodian words|journal=Mon-Khmer Studies Journal|date=1978|volume=7|page=187|url=https://sealang.net/archives/mks/pdf/7:183-200.pdf|access-date=24 January 2016|url-status=dead|archive-url=https://web.archive.org/web/20171011131733/https://sealang.net/archives/mks/pdf/7:183-200.pdf|archive-date=11 October 2017}}</ref>
+
+A [[minor syllable]] (unstressed syllable preceding the main syllable of a word) has a structure of CV-, CrV-, CVN- or CrVN- (where C is a consonant, V a vowel, and N a nasal consonant). The vowels in such syllables are usually short; in conversation they may be [[vowel reduction|reduced]] to {{IPA|[ə]}}, although in careful or formal speech, including on television and radio, they are clearly articulated. An example of such a word is {{lang|km|មនុស្ស}} ''mɔnuh, mɔnɨh, mĕəʾnuh'' ('person'), pronounced {{IPA|[mɔˈnuh]}}, or more casually {{IPA|[məˈnuh]}}.<ref name=ModSpok>{{cite book|last1=Huffman|first1=Franklin|title=Modern Spoken Cambodian|date=1970|publisher=Cornell Southeast Asia Program Publications|location=Ithaca, NY|isbn=978-0877275213|edition=1998}}</ref>{{rp|10}}
+
+===Stress===
+[[Stress (linguistics)|Stress]] in Khmer falls on the final syllable of a word.<ref name="Schiller">{{cite web| url=http://sealang.net/sala/archives/pdf4/schiller1994khmer.pdf | title= Khmer Nominalizing and Causitivizing Infixes| year=1994 | first=Eric| last= Schiller | publisher=University of Chicago| access-date =2008-12-04}}</ref> Because of this predictable pattern, stress is non-[[phoneme|phonemic]] in Khmer (it does not distinguish different meanings).
+
+Most Khmer words consist of either one or two syllables. In most native disyllabic words, the first syllable is a [[minor syllable|minor]] (fully unstressed) syllable. Such words have been described as ''sesquisyllabic'' (i.e. as having one-and-a-half syllables). There are also some disyllabic words in which the first syllable does not behave as a minor syllable, but takes [[secondary stress]]. Most such words are [[Compound (linguistics)|compounds]], but some are single [[morpheme]]s (generally loanwords). An example is {{lang|km|ភាសា}} ('language'), pronounced {{IPA|[ˌpʰiəˈsaː]}}.<ref name=ModSpok />{{rp|10}}
+
+Words with three or more syllables, if they are not compounds, are mostly loanwords, usually derived from Pali, Sanskrit, or more recently, French. They are nonetheless adapted to Khmer stress patterns.<ref name=KhDict>Headley, Robert K.; Chhor, Kylin; Lim, Lam Kheng; Kheang, Lim Hak; Chun, Chen. 1977. ''Cambodian-English Dictionary''. Bureau of Special Research in Modern Languages. The Catholic University of America Press. Washington, D.C. {{ISBN|0-8132-0509-3}}</ref> Primary stress falls on the final syllable, with [[secondary stress]] on every second syllable from the end. Thus in a three-syllable word, the first syllable has secondary stress; in a four-syllable word, the second syllable has secondary stress; in a five-syllable word, the first and third syllables have secondary stress, and so on.<ref name=ModSpok />{{rp|10–11}} Long polysyllables are not often used in conversation.<ref name="HUFF" />{{rp|12}}
+
+Compounds, however, preserve the stress patterns of the constituent words. Thus {{lang|km|សំបុកចាប}}, the name of a kind of cookie (literally 'bird's nest'), is pronounced {{IPA|[sɑmˌbok ˈcaːp]}}, with secondary stress on the second rather than the first syllable, because it is composed of the words {{IPA|[sɑmˈbok]}} ('nest') and {{IPA|[caːp]}} ('bird').<ref name=KhDict />
+
+===Phonation and tone===
+{{See also|Tonogenesis}}
+Khmer once had a [[phonation]] distinction in its vowels, but this now survives only in the most archaic dialect ([[Western Khmer dialect|Western Khmer]]).<ref name=DiffZide /> The distinction arose historically when vowels after Old Khmer voiced consonants became [[breathy voice]]d and diphthongized; for example {{IPA|*kaa, *ɡaa}} became {{IPA|*kaa, *ɡe̤a}}. When consonant voicing was lost, the distinction was maintained by the vowel ({{IPA|*kaa, *ke̤a}}); later the phonation disappeared as well ({{IPA|[kaː], [kiə]}}).<ref name=ELL /> These processes explain the origin of what are now called a-series and o-series consonants in the [[Khmer script]].
+
+Although most Cambodian dialects are not [[tonal language|tonal]], the colloquial Phnom Penh dialect has developed a tonal contrast (level versus peaking tone) as a by-product of the [[elision]] of {{IPA|/r/}}.<ref name=ELL />
+
+===Intonation===
+[[Intonation (linguistics)|Intonation]] often conveys [[semantic]] context in Khmer, as in distinguishing [[declarative sentence|declarative statements]], questions and exclamations. The available grammatical means of making such distinctions are not always used, or may be ambiguous; for example, the final [[interrogative particle]] {{lang|km|ទេ}} {{IPA|/teː/}} can also serve as an emphasizing (or in some cases negating) particle.<ref name=CamParts>{{cite journal|last1=Jacob|first1=Judith M|title=A Diachronic Survey of some Khmer particles (7th to 17th centuries)|journal=Essays in Honour of HL Shorto|date=1991|volume=1991|page=193|url=http://sealang.net/sala/archives/pdf4/jacob1991diachronic.pdf|access-date=24 January 2016}}</ref>
+
+The intonation pattern of a typical Khmer declarative phrase is a steady rise throughout followed by an abrupt drop on the last syllable.<ref name=ppak />
+:{{lang|km|ខ្ញុំមិនចង់បានទេ}}&nbsp;&nbsp;&nbsp;{{IPA|[↗kʰɲom mɨn cɒŋ baːn <nowiki>|</nowiki> ↘teː]}}&nbsp;&nbsp;&nbsp; ('I don't want it')<ref name=ppak />
+
+Other intonation contours signify a different type of phrase such as the "full doubt" interrogative, similar to [[yes-no question]]s in English. Full doubt interrogatives remain fairly even in tone throughout, but rise sharply towards the end.
+:{{lang|km|អ្នកចង់ទៅលេងសៀមរាបទេ}}&nbsp;&nbsp;&nbsp;{{IPA|[↗neaʔ caŋ <nowiki>|</nowiki> ↗tɨw leːŋ siəm riəp <nowiki>|</nowiki> ꜛteː]}}&nbsp;&nbsp;&nbsp; ('do you want to go to Siem Reap?')<ref name=ppak />
+
+Exclamatory phrases follow the typical steadily rising pattern, but rise sharply on the last syllable instead of falling.<ref name=ppak />
+:{{lang|km|សៀវភៅនេះថ្លៃណាស់}}&nbsp;&nbsp;&nbsp;{{IPA|[↗siəw pʰɨw nih <nowiki>|</nowiki> ↗tʰlaj <nowiki>|</nowiki> ꜛnah]}}&nbsp;&nbsp;&nbsp; ('this book is expensive!')<ref name=ppak />
+
+==Grammar==
+{{Main|Khmer grammar}}
+
+Khmer is primarily an [[analytic language]] with no [[inflection]]. Syntactic relations are mainly determined by word order. Old and [[Middle Khmer]] used particles to mark [[grammatical categories]] and many of these have survived in Modern Khmer but are used sparingly, mostly in literary or formal language.<ref name=CamParts /> Khmer makes extensive use of [[auxiliary verbs]], "directionals" and [[serial verb construction]]. Colloquial Khmer is a [[zero copula]] language, instead preferring predicative adjectives (and even predicative nouns) unless using a copula for emphasis or to avoid ambiguity in more complex sentences. Basic word order is [[subject–verb–object]] (SVO), although subjects are often [[Null-subject language|dropped]]; [[prepositions]] are used rather than postpositions.<ref>Huffman, Franklin. 1967. ''An outline of Cambodian Grammar''. PhD thesis, Cornell University.</ref> 
+
+[[Topic-prominent language|Topic-Comment]] constructions are common and the language is generally [[head-initial]] (modifiers follow the words they modify). Some grammatical processes are still not fully understood by western scholars. For example, it is not clear if certain features of Khmer grammar, such as [[Agent (grammar)|actor nominalization]], should be treated as a morphological process or a purely syntactic device,<ref name=Haiman />{{rp|46, 74}} and some derivational morphology seems "purely decorative" and performs no known syntactic work.<ref name=Haiman />{{rp|53}}
+
+[[Lexical category|Lexical categories]] have been hard to define in Khmer.<ref name=Haiman>{{cite book|last1=Haiman|first1=John|title=Cambodian: Khmer (London Oriental and African Language Library, Book 16)|date=2011|publisher=John Benjamins Publishing Company|isbn=978-9027238160|url=https://vk.com/doc12620867_132512378?hash=3e9bd161bfa4a9372d&dl=f1cfca7e3360435207|access-date=27 January 2016}}</ref>{{rp|360}} [[Henri Maspero]], an early scholar of Khmer, claimed the language had no parts of speech,<ref name=Haiman /> while a later scholar, Judith Jacob, posited four parts of speech and innumerable particles.<ref name=Jacob68>{{cite book|last1=Jacob|first1=Judith|title=Introduction to Cambodian (School of Oriental and African Studies)|date=1968|publisher=Oxford University Press|isbn=978-0197135563}}</ref>{{rp|331}} [[John Haiman]], on the other hand, identifies "a couple dozen" parts of speech in Khmer with the caveat that Khmer words have the freedom to perform a variety of syntactic functions depending on such factors as word order, relevant particles, location within a clause, intonation and context.<ref name=Haiman /> Some of the more important lexical categories and their function are demonstrated in the following example sentence taken from a hospital brochure:<ref name=Haiman />{{rp|378}}
+
+{{interlinear|indent=3| ipa1 = yes | italics = no | glossing = no abbr
+| /loːk nĕəʔ pʰɗɑl cʰiəm teaŋ ʔɑh trəw tae tɔtuəl nəw kaː pinɨt riəŋ kaːj nɨŋ pʰɗɑl nəw prɑʋɔət sokʰapʰiəp ciə mun ciə sən/
+| PRONOUN PRONOUN VERB NOUN PARTICLE ADJECTIVE AUXILIARY&nbsp;VERB INTENSIFIER VERB OBJECT&nbsp;MARKER NOMINALIZER VERB NOUN NOUN CONJUNCTION VERB OBJECT&nbsp;MARKER NOUN ADJECTIVE COPULA ADVERB COPULA ADVERB
+| you[{{gcl|RESP|respectful}}] you[{{gcl|FAM|familiar}}] provide blood every all must have&nbsp;to receive {} {}  examine shape body and provide {} history health be before be first
+|'All blood donors must pass a physical examination and provide a health history first (before they can give blood).'}}
+
+===Morphology===
+Modern Khmer is an [[isolating language]], which means that it uses little [[Productivity (linguistics)|productive]] [[morphology (linguistics)|morphology]]. There is some [[Morphological derivation|derivation]] by means of [[prefixes]] and [[infixes]], but this is a remnant of Old Khmer and not always productive in the modern language.<ref name="cc">{{cite book|title=Colloquial Cambodian: A Complete Language Course |author= [[David A. Smyth|David Smyth]]|year=1995|publisher=Routledge (UK)|isbn=978-0-415-10006-9}}</ref> Khmer morphology is evidence of a historical process through which  the language was, at some point in the past, changed from being an [[agglutinative language]] to adopting an isolating typology.<ref>{{cite journal|last1=Karnchana|first1=Nacaskul|title=The syllabic and morphological structure of Cambodian words|journal=Mon-Khmer Studies Journal|date=1978|volume=3|pages=183–200|url=https://sealang.net/archives/mks/pdf/7:183-200.pdf|access-date=6 February 2016|url-status=dead|archive-url=https://web.archive.org/web/20171011131733/https://sealang.net/archives/mks/pdf/7:183-200.pdf|archive-date=11 October 2017}}</ref> Affixed forms are [[Lexicalization|lexicalized]] and cannot be used productively to form new words.<ref name=ModSpok />{{rp|311}} Below are some of the most common affixes with examples as given by Huffman.<ref name=ModSpok />{{rp|312–316}}
+{| class="wikitable"
+|-
+! Affix !! Function !! Word !! Meaning !! Affixed Word !! Meaning
+|-
+| prefixed {{IPA|[pʰ]}} || causation || {{IPA|[ɗac]}}<br /> {{IPA|[ɗaəm]}} || "broke, torn"<br />"origin" || {{IPA|[pʰɗac]}}<br />{{IPA|[pʰɗaəm]}} || "to tear apart"<br />"to originate (trans.)"
+|-
+| prefixed {{IPA|[rɔː]}} || derives adjectives<br />nominalization || {{IPA|[lut]}}<br />{{IPA|[ɓaŋ]}} || "to extinguish"<br />"to hide" || {{IPA|[rɔːlut]}}<br />{{IPA|[rɔːɓaŋ]}} || "extinguished"<br />"a screen, shade"
+|-
+| prefixed {{IPA|[prɑː]}} || reciprocity || {{IPA|[kʰam]}}<br />{{IPA|[ɗouc]}} || "to bite"<br />"similar" || {{IPA|[prɑːkʰam]}}<br />{{IPA|[prɑːɗouc]}} || "to bite each other"<br />"to compare"
+|-
+| prefixed {{IPA|[ɓɑm]}}, {{IPA|[ɓɑn]}}, {{IPA|[ɓɑŋ]}} || causation || {{IPA|[ɓaek]}}<br />{{IPA|[ɗaə]}}<br />{{IPA|[riən]}} || "to break (intrans.)"<br />"to walk"<br />"to study, learn" || {{IPA|[ɓɑmɓaek]}}<br />{{IPA|[ɓɑnɗaə]}}<br />{{IPA|[ɓɑŋriən]}}  || "to cause to break"<br />"to take for a walk"<br />"to teach"
+|-
+| infixed {{IPA|[ɑm]}} || causation || {{IPA|[sʔaːt]}}<br />{{IPA|[slap]}} || "to be clean"<br />"to die" || {{IPA|[sɑmʔaːt]}}<br />{{IPA|[sɑmlap]}} || "to clean"<br />"to kill"
+|-
+| infixed {{IPA|[ɑm(n)]}}, {{IPA|[um(n)]}} || nominalization || {{IPA|[ɗaə]}}<br />{{IPA|[ɗəŋ]}}<br />{{IPA|[cɨə]}} || "to walk"<br />"to know (something)"<br />"to believe" || {{IPA|[ɗɑmnaə]}}<br />{{IPA|[ɗɑmnəŋ]}}<br />{{IPA|[cumnɨə]}} || "a trip"<br />"information"<br />"belief"
+|}
+
+[[Compound (linguistics)|Compounding]] in Khmer is a common derivational process that takes two forms, coordinate compounds and repetitive compounds. Coordinate compounds join two [[Bound and unbound morphemes|unbound morphemes]] (independent words) of similar meaning to form a compound signifying a concept more general than either word alone.<ref name=ModSpok />{{rp|296}} Coordinate compounds join either two nouns or two verbs. Repetitive compounds, one of the most productive derivational features of Khmer, use [[reduplication]] of an entire word to derive words whose meaning depends on the class of the reduplicated word.<ref name=ModSpok />{{rp|185}} A repetitive compound of a noun indicates plurality or generality while that of an adjectival verb could mean either an intensification or plurality.
+
+Coordinate compounds:<ref name=ModSpok />{{rp|296–297}}
+:{| style="width:25%; height:50px"
+| {{IPA|[ʔɨwpuk]}} || + || {{IPA|[mɗaːj]}} || ⇒ || {{IPA|[ʔɨwpuk.mɗaːj]}}
+|-
+| "father" || || "mother" || ⇒ || "parents"
+|}
+:{| style="width:25%; height:50px"
+| {{IPA|[ɗək]}} || + || {{IPA|[nɔəm]}} || ⇒ || {{IPA|[ɗəknŏəm]}}
+|-
+| "to transport" || || "to bring" || ⇒ || "to lead"
+|}
+
+Repetitive compounds:<ref name=ModSpok />{{rp|185-185}}
+:{| style="width:40%; height:50px"
+| {{IPA|[cʰap]}} || ⇒ || {{IPA|[cʰapcʰap]}} ||  || {{IPA|[srəj]}} || ⇒ || {{IPA|[srəjsrəj]}}
+|-
+| "fast" || || "very fast, quickly" ||  || "women" || || "women, women in general"
+|}
+
+====Nouns and pronouns====
+Khmer [[noun]]s do not inflect for [[grammatical gender]] or [[grammatical number|singular/plural]]. There are no [[Article (grammar)|articles]], but indefiniteness is often expressed by the word for "one" ({{lang|km|មួយ}} {{IPA|[muəj]}}) following the noun as in {{lang|km|ឆ្កែមួយ}} ({{IPA|[cʰkae muəj]}} "a dog").  Plurality can be marked by [[postnominal]] particles, numerals, or reduplication of a following adjective, which, although similar to intensification, is usually not ambiguous due to context.<ref name=msc />
+
+:{|
+| {{interlinear|[cʰkae craən]|dog many|"many dogs"}}
+|style="width:20%; text-align: center"| or
+| {{interlinear|[cʰkae piː]|dog two|"two dogs"}}
+|style="width:20%; text-align: center"| or
+| {{interlinear|[cʰkae tʰom tʰom]|dog large large|'large dogs'}}
+|}
+
+[[Classifier (linguistics)|Classifying particles]] are used after numerals, but are not always obligatory as they are in [[Thai grammar|Thai]] or [[Chinese classifier|Chinese]], for example, and are often dropped in colloquial speech. Khmer nouns are divided into two groups: mass nouns, which take classifiers; and specific, nouns, which do not. The overwhelming majority are mass nouns.<ref name=ModSpok />{{rp|67–68}}
+
+{{interlinear|indent=3
+|[kʰmawɗaj piː ɗaəm]
+|pencil two {CLF [long cylindrical object]}
+|"two pencils"}}
+
+Possession is colloquially expressed by word order. The possessor is placed after the thing that is possessed.<ref name=Haiman />{{rp|160}} Alternatively, in more complex sentences or when emphasis is required, a possessive construction using the word {{lang|km|របស់}} ({{IPA|[rɔːbɑh] ~ [lə.bɑh]}}, "property, object") may be employed. In formal and literary contexts, the possessive particle {{lang|km|នៃ}} ({{IPA|[nɨj]}}) is used:<ref name=ModSpok />{{rp|358}}
+
+:{|
+| {{interlinear|[puəʔmaːʔ kʰɲom]|friend I|"my friend"}}
+| style="width:20%; text-align: center" | or
+| {{interlinear|[puəʔmaːʔ rɔːɓɑh kʰɲom]|friend property I|"my friend"}}
+| style="width:20%; text-align: center" | or
+| {{interlinear|[puəʔmaːʔ nɨj kʰɲom]|friend of I|"my friend"}}
+|}
+
+[[Pronoun]]s are subject to a complicated system of social register, the choice of pronoun depending on the perceived relationships between speaker, audience and referent (see [[#Social registers|Social registers]] below). Khmer exhibits [[pronoun avoidance]], so kinship terms, nicknames and proper names are often used instead of pronouns (including for the first person) among intimates. Subject pronouns are frequently [[null-subject language|dropped]] in colloquial conversation.<ref name=msc />
+
+Adjectives, verbs and verb phrases may be made into nouns by the use of [[nominalization]] particles. Three of the more common particles used to create nouns are {{IPA|[kaː]}}, {{IPA|[seckdəj]}}, and {{IPA|[pʰiəp]}}.<ref name=Haiman />{{rp|45–48}} These particles are prefixed most often to verbs to form abstract nouns. The latter, derived from Sanskrit, also occurs as a suffix in fixed forms borrowed from Sanskrit and Pali such as {{IPA|[sokʰapʰiəp]}} ("health") from {{IPA|[sok]}} ("to be healthy").<ref name=KhDict />
+
+:{|
+| {{interlinear|[kaː rŭəhnɨw]|NMLZ {to live}|'life'}}
+| style="width:20%; text-align: center" |
+| {{interlinear|[sec {kdəj deik}]|NMLZ {to lie down}|'[the act of] lying down'}}
+| style="width:20%; text-align: center" |
+| {{interlinear|[pʰiəp {sɑːm rum'}]|NMLZ appropriate|'appropriateness'<ref name=Haiman />}}
+|}
+
+====Adjectives and adverbs====
+[[Adjective]]s, [[demonstrative]]s and [[numeral (linguistics)|numerals]] follow the noun they modify. Adverbs likewise follow the verb. Morphologically, adjectives and adverbs are not distinguished, with many words often serving either function. Adjectives are also employed as verbs as Khmer sentences rarely use a [[Copula (linguistics)|copula]].<ref name=ModSpok />
+
+[[Comparison (grammar)|Degrees of comparison]] are constructed syntactically. [[Comparative]]s are expressed using the word {{lang|km|ជាង}} {{IPA|/ciəŋ/}}: "A X {{IPA|/ciəŋ/}} [B]" (A is more X [than B]).  The most common way to express [[superlative]]s is with {{lang|km|ជាងគេ}} {{IPA|/ciəŋ keː/}}: "A X {{IPA|/ciəŋ keː/}}" (A is the most X).<ref name=msc>Huffman, F. E., Promchan, C., & Lambert, C.-R. T. (1970). ''Modern spoken Cambodian''. New Haven: Yale University Press. {{ISBN|0-300-01315-9}}</ref> Intensity is also expressed syntactically, similar to other languages of the region, by [[reduplication]] or with the use of [[intensifier]]s.<ref name=msc />
+
+:{|
+| {{interlinear|/srəj nuh sʔaːt/|girl DEM pretty|'That girl is pretty.'}}
+| style="width:15%; text-align: center" |
+| {{interlinear|/srəj nuh sʔaːt sʔaːt/|girl DEM pretty pretty|'That girl is very pretty.'}}
+| style="width:15%; text-align: center" |
+| {{interlinear|/srəj nuh sʔaːt nah/|girl DEM pretty very|'That girl is very pretty.'}}
+|}
+
+====Verbs====
+As is typical of most East Asian languages,<ref>[http://fds.oup.com/www.oup.co.uk/pdf/0-19-927311-1.pdf East and Southeast Asian Languages: A First Look] {{webarchive|url=https://web.archive.org/web/20121120111832/http://fds.oup.com/www.oup.co.uk/pdf/0-19-927311-1.pdf |date=2012-11-20 }} at Oxford University Press Online</ref> Khmer verbs do not inflect at all; [[grammatical tense|tense]], [[grammatical aspect|aspect]] and [[Linguistic modality|mood]] can be expressed using auxiliary verbs, particles (such as {{lang|km|កំពុង}} {{IPA|/kəmpuŋ/}}, placed before a verb to express [[continuous aspect]]) and adverbs (such as "yesterday", "earlier", "tomorrow"), or may be understood from context. [[Serial verb construction]] is quite common.<ref name=Haiman />{{rp|253}}
+
+Khmer verbs are a relatively [[open class (linguistics)|open class]] and can be divided into two types, main verbs and auxiliary verbs.<ref name=Haiman />{{rp|254}} Huffman defined a Khmer verb as "any word that can be (negated)",<ref name=ModSpok />{{rp|56}} and further divided main verbs into three classes.
+
+[[Transitive verb]]s are verbs that may be followed by a [[direct object]]:
+
+:{|
+| {{interlinear|/kʰɲom ɲam ɓaj/|I eat rice|"I eat rice."}}
+| style="width:20%; text-align: center" |
+| {{interlinear|/kʰɲom tɨɲ ɓaːrəj/|I buy cigarettes|"I buy cigarettes."}}
+|}
+
+[[Intransitive verb]]s are verbs that can not be followed by an object:
+
+:{|
+| {{interlinear|/kʰɲom ɗaə tɨw pʰsaː/|I walk {{gcl|DIR|directional}} market|"I walk to the market."}}
+| style="width:20%; text-align: center" |
+| {{interlinear|/ʔaɲcəɲ ʔɑŋkuj/|{to invite} {to sit}|"Please sit."}}
+|}
+
+Adjectival verbs are a word class that has no equivalent in English. When modifying a noun or verb, they function as adjectives or adverbs, respectively, but they may also be used as main verbs equivalent to English "be + ''adjective''".
+
+:{|
+! {{smallcaps|Adjective:}}
+| style="width:20%; text-align: center" |
+! {{smallcaps|Adverb:}}
+| style="width:20%; text-align: center" |
+! {{smallcaps|Verb:}}
+|-
+| {{interlinear|/proh <u>sɑŋ.haː</u>/|boy <u>handsome</u>|"handsome boy"}}
+|
+| {{interlinear|/proh nuh {tʰʋəː kaː} <u>lʔɑː</u>/|boy DEM {to work} <u>good</u>|"That boy works well."}}
+|
+| {{interlinear|/proh nuh <u>sɑŋ.haː</u>/|boy DEM <u>handsome</u>|"That boy is handsome."<ref name=ModSpok />{{rp|56}}}}
+|}
+
+===Syntax===
+[[Syntax]] is the rules and processes that describe how sentences are formed in a particular language, how words relate to each other within clauses or phrases and how those phrases relate to each other within a sentence to convey meaning.<ref>{{cite book|last1=Moravcsik|first1=Edith M.|editor1-last=Mushira|editor1-first=Eid|editor2-last=Iverson|editor2-first=Gregory|title=Principles and Prediction: The analysis of natural language. Papers in honor of Gerald Sanders (Volume 98 of ''Current Issues in Linguistic Theory'')|date=1993|publisher=John Benjamins Publishing|isbn=978-9027276971|pages=73–74|chapter=Why is Syntax Complicated}}</ref> Khmer syntax is very [[analytic language|analytic]]. Relationships between words and phrases are signified primarily by word order supplemented with auxiliary verbs and, particularly in formal and literary registers, grammatical marking particles.<ref name=Haiman /> Grammatical phenomena such as [[Affirmative and negative|negation]] and [[Grammatical aspect|aspect]] are marked by particles while [[interrogative]] sentences are marked either by particles or [[interrogative word]]s equivalent to English "wh-words".
+
+A complete Khmer sentence consists of four basic elements—an optional topic, an optional subject, an obligatory predicate, and various adverbials and particles.<ref name=FSI>{{cite book|last1=Ehrman|first1=Madeline Elizabeth|last2=Kem|first2=Sos|last3=Lim|first3=Hak Kheang|title=Contemporary Cambodian: Grammatical Sketch|date=1974|publisher=Foreign Service Institute, US Department of State}}</ref> The topic and subject are [[noun phrase]]s, predicates are [[verb phrase]]s and another noun phrase acting as an [[Object (grammar)|object]] or verbal attribute often follows the predicate.<ref name=FSI />
+
+====Basic constituent order====
+When combining these noun and verb phrases into a sentence the order is typically SVO:
+
+:{| style="width:25%; height:50px"
+| {{IPA|/kʰɲom}} || {{IPA|ʔaoj}} || {{IPA|ceik}} || {{IPA|muəj}} || {{IPA|cɑmnuən/}}
+|-
+| {{abbr|{{smallcaps|sbj}}|subject}} || {{smallcaps|verb}}|| {{abbr|{{smallcaps|obj}}|object}} ||
+|-
+| I || give || banana || one || bunch[{{abbr|{{smallcaps|clf}}|classifier}}]
+|-
+| colspan=5 | 'I gave a bunch of bananas.'
+|}
+
+When both a [[direct object]] and [[indirect object]] are present without any grammatical markers, the preferred order is SV(DO)(IO). In such a case, if the direct object phrase contains multiple components, the indirect object immediately follows the noun of the direct object phrase and the direct object's modifiers follow the indirect object:
+
+:{| style="width:25%; height:50px"
+| {{IPA|/kʰɲom}} || {{IPA|ʔaoj}} || {{IPA|ceik}} || {{IPA|cruːk}} || {{IPA|muəj}} || {{IPA|cɑmnuən/}}
+|-
+| {{abbr|{{smallcaps|sbj}}|subject}} || {{smallcaps|verb}}|| {{abbr|{{smallcaps|dir&nbsp;obj}}|direct object}}|| {{abbr|{{smallcaps|ind&nbsp;obj}}|indirect object}} ||
+|-
+| I || give || banana || pig || one || bunch[{{abbr|{{smallcaps|clf}}|classifier}}]
+|-
+| colspan=6 | 'I gave the pig a bunch of bananas.'<ref name=Haiman />{{rp|207}}
+|}
+
+This ordering of objects can be changed and the meaning clarified with the inclusion of particles. The word {{IPA|/dɑl/}}, which normally means "to arrive" or "towards", can be used as a preposition meaning "to":
+:{| style="width:25%; height:50px"
+| {{IPA|/kʰɲom}} || {{IPA|ʔaoj}} || {{IPA|ceik}} || {{IPA|muəj}} || {{IPA|cɑmnuən}} || {{IPA|dɑl}} || {{IPA|cruːk/}}
+|-
+| I ||  give ||  banana ||  one || bunch[{{abbr|{{smallcaps|clf}}|classifier}}] || toward || pig
+|-
+| colspan=7 | 'I gave a bunch of bananas to the pigs.'<ref name=Haiman />{{rp|207}}
+|}
+
+Alternatively, the indirect object could precede the direct object if the object-marking preposition {{IPA|/nəw/}} were used:
+:{| style="width:25%; height:50px"
+| {{IPA|/kʰɲom}} || {{IPA|ʔaoj}} || {{IPA|cruːk}} || {{IPA|nəw}} || {{IPA|ceik}} || {{IPA|muəj}} || {{IPA|cɑmnuən/}}
+|-
+| I ||  give ||  pig || {{abbr|{{smallcaps|obj&nbsp;marker}}|object marker}} || banana || one || bunch[{{abbr|{{smallcaps|clf}}|classifier}}]
+|-
+| colspan=7 | 'I gave the pig a bunch of bananas.'<ref name=Haiman />{{rp|207}}
+|}
+
+However, in spoken discourse OSV is possible when emphasizing the object in a [[topic–comment]]-like structure.<ref name=Haiman />{{rp|211}}
+:{| style="width:25%; height:50px"
+| {{IPA|/tuːk}} || {{IPA|muəj}} || {{IPA|kɔŋ}} || {{IPA|pram}} || {{IPA|ʔɑŋ/}}
+|-
+| boat || one || to sit || five || monk[{{abbr|{{smallcaps|clf}}|classifier}}]
+|-
+| colspan=5 | 'In a boat sit five monks.'<ref name=Haiman />{{rp|148}}
+|}
+:{| style="width:25%; height:50px"
+| {{IPA|/ʋɪʔciə}} || {{IPA|cao}} || {{IPA|luəc}} || {{IPA|mɨn}} || {{IPA|baːn/}}
+|-
+| science || thief || to steal || {{abbr|{{smallcaps|neg}}|negative}} || {{abbr|{{smallcaps|compl}}|complement}}
+|-
+| colspan=5 | 'Science, a thief can not steal.'<ref name=Haiman />{{rp|211}}
+|}
+
+====Noun phrase====
+The noun phrase in Khmer typically has the following structure:<ref name=ModSpok />{{rp|50–51}}<ref name=Jacob68 />{{rp|83}}
+:{{smallcaps|Noun Phrase}} = ({{smallcaps|Honorific}}) {{smallcaps|Noun}} ({{smallcaps|Adjectival modifiers}}) ({{smallcaps|Numeral}}) ({{smallcaps|Classifier}}) ({{smallcaps|[[Demonstrative]]}})
+The elements in parentheses are optional. [[Honorific]]s are a class of words that serve to index the social status of the referent. Honorifics can be kinship terms or personal names, both of which are often used as first and second person pronouns, or specialized words such as {{IPA|/preah/}} ('god') before royal and religious objects.<ref name=Haiman />{{rp|155}} The most common demonstratives are {{IPA|/nih/}} ('this, these') and {{IPA|/nuh/}} ('that, those'). The word {{IPA|/ae nuh/}} ('those over there') has a more distal or vague connotation.<ref name=KhDict /> 
+
+If the noun phrase contains a possessive adjective, it follows the noun and precedes the numeral. If a descriptive attribute co-occurs with a possessive, the possessive construction ({{IPA|/rɔbɑh/}}) is expected.<ref name=ModSpok />{{rp|73}}
+
+Some examples of typical Khmer noun phrases are:
+:{| class="wikitable"
+|-
+! Khmer text !! IPA !! [[Interlinear gloss|gloss]] !! translation
+|-
+| {{lang|km|ផ្ទះស្កឹមស្កៃបីបួនខ្នងនេះ}} || {{IPA|/ptĕəh skəm.skaj bəj buən kʰnɑːŋ nih/}} || house high three four spine[{{abbr|{{smallcaps|clf}}|classifier}}] these<br />{{smallcaps|noun}} {{abbr|{{smallcaps|adj}}|adjective}} {{abbr|{{smallcaps|num}}|numeral}} {{abbr|{{smallcaps|num}}|numeral}} {{smallcaps|classifier}} {{abbr|{{smallcaps|dem}}|demonstrative}} || 'these three or four high houses'<ref name=Haiman />{{rp|142}}
+|-
+| {{lang|km|ចេកទុំពីរស្និតនេះ}} || {{IPA|/ceːk tum piː snət nih/}} || banana ripe two bunches[{{abbr|{{smallcaps|clf}}|classifier}}] these<br />{{smallcaps|noun}} {{abbr|{{smallcaps|adj}}|adjective}} {{abbr|{{smallcaps|num}}|numeral}} {{smallcaps|classifier}} {{abbr|{{smallcaps|dem}}|demonstrative}} || these two bunches of ripe bananas
+|-
+| {{lang|km|ពួកម៉ាកខ្ញុំពីរនាក់នេះ}} || {{IPA|/puəʔmaʔ kʰɲom piː nĕə nih/}} || friend I two person[{{abbr|{{smallcaps|clf}}|classifier}}] these<br />{{smallcaps|noun}} {{abbr|{{smallcaps|poss}}|possessive}} {{abbr|{{smallcaps|num}}|numeral}} {{smallcaps|classifier}} {{abbr|{{smallcaps|dem}}|demonstrative}} || these two friends of mine
+|-
+| {{lang|km|ពួកម៉ាកតូចរបស់ខ្ញុំពីរនាក់នេះ}} || {{IPA|/puəʔmaʔ touc rɔbɑh kʰɲom piː nĕə nih/}} || friend small of I two person[{{abbr|{{smallcaps|clf}}|classifier}}] these<br />{{smallcaps|noun}} {{abbr|{{smallcaps|adj}}|adjective}} {{abbr|{{smallcaps|poss}}|possessive}} {{abbr|{{smallcaps|num}}|numeral}} {{smallcaps|classifier}} {{abbr|{{smallcaps|dem}}|demonstrative}} || these two small friends of mine<ref name=ModSpok />{{rp|73}}
+|}
+
+The Khmer particle {{IPA|/dɑː/}} marked attributes in Old Khmer noun phrases and is used in formal and literary language to signify that what precedes is the noun and what follows is the attribute. Modern usage may carry the connotation of mild intensity.<ref name=Haiman />{{rp|163}}
+
+:{| style="width:25%; height:50px"
+| {{IPA|/ʋiəl}} || {{IPA|srae}} || {{IPA|dɑː}} || {{IPA|lʋɨŋ lʋəːj/}}
+|-
+| field || paddy || {{abbr|{{smallcaps|adj marker}}|adjective marker}} || vast
+|-
+| colspan=4 | '(very) expansive fields and paddies'
+|}
+
+====Verb phrase====
+Khmer verbs are completely uninflected, and once a subject or topic has been introduced or is clear from context the noun phrase may be dropped. Thus, the simplest possible sentence in Khmer consists of a single verb. For example, {{IPA|/tɨw/}} 'to go' on its own can mean "I'm going.", "He went.", "They've gone.", "Let's go.", etc.<ref name=ModSpok />{{rp|17}} This also results in long strings of verbs such as:
+:{| style="width:25%; height:50px"
+| {{IPA|/kʰɲom}} || {{IPA|cɑng}} || {{IPA|tɨw}} || {{IPA|daə}} || {{IPA|leːng/}}
+|-
+| I || to want || to go || to walk || to play
+|-
+| colspan=5 | 'I want to go for a stroll.'<ref name=ModSpok />{{rp|187}}
+|}
+
+Khmer uses three verbs for what translates into English as the copula. The general copula is {{IPA|/ciə/}}; it is used to convey identity with nominal predicates.<ref name=Haiman />{{rp|212}} For locative predicates, the copula is {{IPA|/nɨw/}}.<ref name=Haiman />{{rp|212}} The verb {{IPA|/miən/}} is the "existential" copula meaning "there is" or "there exists".<ref name=Haiman />{{rp|208}}
+:{| style="width:35%; height:50px"
+| {{IPA|/piəsaː}} || {{IPA|ciə}} || {{IPA|kaː}} || {{IPA|sɑmdaeŋ}} || {{IPA|cət}} || {{IPA|kumnɨt}} || {{IPA|krŏəp}} || {{IPA|jaːŋ/}}
+|-
+| language || {{smallcaps|copula}} || {{abbr|{{smallcaps|nmlz}}|nominalizer}} || to&nbsp;express || heart || thought || all || kind
+|-
+| colspan=8 | 'Language is the expression of all emotions and ideas'
+|}
+:{| style="text-align: left;"
+| {{IPA|/ʋiə}} || {{IPA|nɨw}} || {{IPA|cɪt}} || {{IPA|ʋŏət/}} || ''style="width:30%; text-align: center" | &nbsp; || {{IPA|/miən}} || {{IPA|pʰaen kaː/}}
+|-
+| he || {{smallcaps|copula}} || close || temple || style="width:30%; text-align: center" | &nbsp;  || to exist || plan
+|-
+| colspan=4 | 'He is close to the temple.' || style="width:30%; text-align: center" | &nbsp;  || colspan=2 | 'There is a plan.'
+|}
+
+[[Negation]] is achieved by putting {{lang|km|មិន}} {{IPA|/mɨn/}} before the verb and the particle {{lang|km|ទេ}} {{IPA|/teː/}} at the end of the sentence or clause. In colloquial speech, verbs can also be negated without the need for a final particle, by placing {{lang|km|ឥត}} {{IPA|/ʔɑt/~/ʔət/}} before them.<ref name=msc />
+:{| style="text-align: left;"
+| {{IPA|/kʰɲom}} || {{IPA|cɨə/}} || ''style="width:15%; text-align: center" | &nbsp; || {{IPA|/kʰɲom}} || {{IPA|mɨn}} || {{IPA|cɨə}} || {{IPA|teː/}} || ''style="width:15%; text-align: center" | &nbsp; || {{IPA|/kʰɲom}} || {{IPA|ʔɑt}} || {{IPA|cɨə/}}
+|-
+| I || to believe || style="width:15%; text-align: center" | &nbsp; || I || {{abbr|{{smallcaps|neg}}|negative}} || to believe || {{abbr|{{smallcaps|neg}}|negative}} || style="width:15%; text-align: center" | &nbsp; || I || {{abbr|{{smallcaps|neg}}|negative}} || to believe
+|-
+| colspan=2 | 'I believe.' || style="width:15%; text-align: center" | &nbsp;  || colspan=4 | 'I don't believe.' || style="width:15%; text-align: center" | &nbsp;  || colspan=3 | 'I don't believe.'
+|}
+
+Past tense can be conveyed by adverbs, such as "yesterday" or by the use of perfective particles such as {{IPA|/haəj/}}
+:{| style="text-align: left;"
+| {{IPA|/kŏət}} || {{IPA|tɨw}} || {{IPA|msəlmɨɲ/}} || ''style="width:30%; text-align: center" | &nbsp; || {{IPA|/kŏət}} || {{IPA|tɨw}} || {{IPA|haəj/}}
+|-
+| he || to go || yesterday || style="width:30%; text-align: center" | &nbsp;  || he || to go || {{abbr|{{smallcaps|pfv}}|perfective}}
+|-
+| colspan=3 | 'He went yesterday.' || style="width:30%; text-align: center" | &nbsp;  || colspan=3 | 'He left.' or 'He's already gone.'<ref name=ModSpok />{{rp|22}}
+|}
+
+Different senses of future action can also be expressed by the use of adverbs like "tomorrow" or by the future tense marker {{IPA|/nɨŋ/}}, which is placed immediately before the verb, or both:
+:{| style="width:35%; height:50px"
+| {{IPA|/sʔaek}} || {{IPA|kʰɲom}} || {{IPA|nɨŋ}} || {{IPA|tɨw}} || {{IPA|saːlaː riən/}}
+|-
+| tomorrow || I || {{abbr|{{smallcaps|fut}}|future}} || to go || school
+|-
+| colspan=5 | 'Tomorrow, I will go to school.'<ref name=KhDict />
+|}
+
+[[Imperative mood|Imperatives]] are often unmarked.<ref name=Haiman />{{rp|240}} For example, in addition to the meanings given above, the "sentence" {{IPA|/tɨw/}} can also mean "Go!". Various words and particles may be added to the verb to soften the command to varying degrees, including to the point of politeness ([[Jussive mood|jussives]]):<ref name=Haiman />{{rp|240}}
+:{| style="text-align: left;"
+| {{IPA|/cou}} || {{IPA|saːk}} || {{IPA|lbɑːŋ}} || {{IPA|kʰluən}} || {{IPA|aeŋ}} || {{IPA|coh/}} || ''style="width:30%; text-align: center" | &nbsp; || {{IPA|/soum}} || {{IPA|tʰʋəː}} || {{IPA|taːm}} || {{IPA|bɑndam}} || {{IPA|kŏət}} || {{IPA|tɨw/}}
+|-
+| {{abbr|{{smallcaps|imp}}|imperative}} || try || try || you || {{abbr|{{smallcaps|refl}}|reflexive}} || {{abbr|{{smallcaps|imp}}|imperative}} || style="width:30%; text-align: center" | &nbsp;  || please || do || follow || instruction || he || {{abbr|{{smallcaps|imp}}|imperative}}
+|-
+| colspan=6 | 'Go ahead and try it yourself.' || style="width:30%; text-align: center" | &nbsp;  || colspan=6 | 'Please follow his instructions.'
+|}
+
+Prohibitives take the form "{{IPA|/kom/}} + {{smallcaps|verb}}" and also are often softened by the addition of the particle {{IPA|/ʔəj/}} to the end of the phrase.<ref name=Haiman />{{rp|242}}
+:{| style="width:35%; height:50px"
+| {{IPA|/kom}} || {{IPA|nɨw}} || {{IPA|tiː}} || {{IPA|nih}} || {{IPA|ʔəj/}}
+|-
+| {{abbr|{{smallcaps|proh}}|prohibitive}} || to be || place || {{abbr|{{smallcaps|dem}}|demonstrative}} || {{smallcaps|cohortative}}
+|-
+| colspan=5 | 'Don't stay in this place.'
+|}
+
+====Questions====
+There are three basic types of questions in Khmer.<ref name=ModSpok />{{rp|46}} Questions requesting specific information use [[question words]]. [[Yes–no question|Polar questions]] are indicated with interrogative particles, most commonly {{IPA|/teː/}}, a homonym of the negation particle. [[Tag questions]] are indicated with various particles and rising inflection.<ref name=ModSpok />{{rp|57}} The SVO word order is generally not [[Inversion (linguistics)|inverted]] for questions.
+
+:{| style="text-align: left;"
+| {{IPA|/loːk}} || {{IPA|tɨw}} || {{IPA|naː/}} || style="width:10%; text-align: center" | &nbsp; || {{IPA|/loːk}} || {{IPA|sdap}} || {{IPA|baːn}} || {{IPA|teː/}} || style="width:10%; text-align: center" | &nbsp; || {{IPA|/loːk}} || {{IPA|tɨw}} || {{IPA|psaː}} || {{IPA|haəj}} || {{IPA|rɨː}} || {{IPA|nɨw/}}
+|-
+| you || to go || where || style="width:10%; text-align: center" | &nbsp;  || you || understand || {{smallcaps|modal}} || {{abbr|{{smallcaps|q}}|question}} || style="width:10%; text-align: center" | &nbsp;  || you || to go || market || {{abbr|{{smallcaps|prf}}|perfect}} || or || yet
+|-
+| colspan=3 | 'Where are you going?' || style="width:10%; text-align: center" | &nbsp;  || colspan=4 | 'Can you understand?' || style="width:10%; text-align: center" | &nbsp;  || colspan=7 | 'Have you gone to the store yet?'
+|}
+
+In more formal contexts and in polite speech, questions are also marked at their beginning by the particle {{IPA|/taə/}}.
+
+:{| style="width:25%; height:50px"
+| {{IPA|/taə}} || {{IPA|loːk}} || {{IPA|ʔɑɲcəːɲ}} || {{IPA|tɨw}} || {{IPA|naː/}}
+|-
+| {{abbr|{{smallcaps|q}}|question}} || you || to invite || to go || where
+|-
+| colspan=5 | 'Where are you going, sir?'<ref name=ModSpok />{{rp|302}}
+|}
+
+====Passive voice====
+Khmer does not have a passive voice,<ref name=CamParts /> but there is a construction utilizing the main verb {{IPA|/trəw/}} ("to hit", "to be correct", "to affect") as an auxiliary verb meaning "to be subject to" or "to undergo"—which results in sentences that are translated to English using the passive voice.<ref name=Haiman />{{rp|286–288}}
+:{| style="width:25%; height:50px"
+| {{IPA|/piː}} || {{IPA|msəlmɨɲ}} || {{IPA|kʰɲom}} || {{IPA|trəw}} || {{IPA|cʰkae}} || {{IPA|kʰam/}}
+|-
+| from || yesterday || I || to&nbsp;undergo || dog || to&nbsp;bite
+|-
+| colspan=6 | 'Yesterday I was bitten by a dog.'<ref name=ModSpok />{{rp|302}}
+|}
+
+====Clause syntax====
+Complex sentences are formed in Khmer by the addition of one or more [[clause]]s to the main clause. The various types of clauses in Khmer include the [[coordinate clause]], the [[relative clause]] and the [[subordinate clause]]. Word order in clauses is the same for that of the basic sentences described above.<ref name=Haiman /> Coordinate clauses do not necessarily have to be marked; they can simply follow one another. When explicitly marked, they are joined by words similar to English conjunctions such as {{IPA|/nɨŋ/}} ("and") and {{IPA|/haəj/}} ("and then") or by clause-final conjunction-like adverbs {{IPA|/dae/}} and {{IPA|/pʰɑːŋ/}}, both of which can mean "also" or "and also"; disjunction is indicated by {{IPA|/rɨː/}} ("or").<ref name=Haiman />{{rp|217–218}}<ref>{{cite journal|last1=Mori|first1=K.|editor1-last=Soichi|editor1-first=I.|title=Khmer final particles ''phɔɔŋ'' & ''dae''|journal=SEALS XIII Papers from the 13th Annual Meeting of the Southeast Asian Linguistics Society 2003|date=2007|pages=139–149–6|url=http://sealang.net/sala/archives/pdf8/mori2007khmer.pdf|access-date=6 February 2016|publisher=Pacific Linguistics, Research School of Pacific and Asian Studies, The Australian National University|location=Canberra, ACT}}</ref> 
+
+Relative clauses can be introduced by {{IPA|/dael/}} ("that") but, similar to coordinate clauses, often simply follow the main clause. For example, both phrases below can mean "the hospital bed that has wheels".<ref name=Haiman />{{rp|313}}
+:{| style="text-align: left;"
+| {{IPA|/krɛː}} || {{IPA|pɛːt}} || {{IPA|miən}} || {{IPA|kɑŋ}} || {{IPA|ruɲ/}} || style="width:20%; text-align: center" | &nbsp; || {{IPA|/krɛː}} || {{IPA|pɛːt}} || {{IPA|dael}} || {{IPA|miən}} || {{IPA|kɑŋ}} || {{IPA|ruɲ/}}
+|-
+| bed || hospital || have || wheel || to push || style="width:20%; text-align: center" | &nbsp;  || bed || hospital || {{abbr|{{smallcaps|rel}}|relative}} || have || wheel || to push
+|}
+
+Relative clauses are more likely to be introduced with {{IPA|/dael/}} if they do not immediately follow the head noun.<ref name=Haiman />{{rp|314}} Khmer subordinate conjunctions always precede a subordinate clause.<ref name=Haiman />{{rp|366}} Subordinate conjunctions include words such as {{IPA|/prŭəh/}} ("because"), {{IPA|/hak bəj/}} ("seems as if") and {{IPA|/daəmbəj/}} ("in order to").<ref name=ModSpok />{{rp|251}}<ref name=Haiman />
+
+==Numerals==
+{{Main|Khmer numerals}}
+Counting in Khmer is based on a [[biquinary]] system (the numbers from 6 to 9 have the form "five one", "five two", etc.) However, the words for multiples of ten from 30 to 90 are not related to the basic Khmer numbers, but are probably borrowed from Thai. [[Khmer numerals]], which were inherited from Indian numerals, are used more widely than [[Western Arabic numerals]].
+
+The principal number words are listed in the following table, which gives Western and Khmer digits, Khmer spelling and IPA transcription.<ref name="cc" />
+
+{| class="wikitable"
+| 0
+| {{lang|km|០}}
+| {{lang|km|សូន្យ}}
+| {{IPA|/soun/}}
+|
+|
+|
+|
+|-
+| 1
+| {{lang|km|១}}
+| {{lang|km|មួយ}}
+| {{IPA|/muəj/}}
+|
+|
+|
+|
+|-
+| 2
+| {{lang|km|២}}
+| {{lang|km|ពីរ}}
+| {{IPA|/piː/}}
+| 20
+| {{lang|km|២០}}
+| {{lang|km|ម្ភៃ}}
+| {{IPA|/məˈphɨj/}}
+|-
+| 3
+| {{lang|km|៣}}
+| {{lang|km|បី}}
+| {{IPA|/ɓəj/}}
+| 30
+| ៣០
+| {{lang|km|សាមសិប}}
+| {{IPA|/saːm.səp/}}
+|-
+| 4
+| {{lang|km|៤}}
+| {{lang|km|បួន}}
+| {{IPA|/ɓuən/}}
+| 40
+| {{lang|km|៤០}}
+| {{lang|km|សែសិប}}
+| {{IPA|/sae.səp/}}
+|-
+| 5
+| {{lang|km|៥}}
+| {{lang|km|ប្រាំ}}
+| {{IPA|/pram/}}
+| 50
+| {{lang|km|៥០}}
+| {{lang|km|ហាសិប}}
+| {{IPA|/haː.səp/}}
+|-
+| 6
+| {{lang|km|៦}}
+| {{lang|km|ប្រាំមូយ}}
+| {{IPA|/pram.muəj/}}
+| 60
+| {{lang|km|៦០}}
+| {{lang|km|ហុកសិប}}
+| {{IPA|/hok.səp/}}
+|-
+| 7
+| {{lang|km|៧}}
+| {{lang|km|ប្រាំពីរ}}
+| {{IPA|/pram.piː/}}, {{IPA|/pram.pɨl/}}
+| 70
+| {{lang|km|៧០}}
+| {{lang|km|ចិតសិប}}
+| {{IPA|/cət.səp/}}
+|-
+| 8
+| {{lang|km|៨}}
+| {{lang|km|ប្រាំបី}}
+| {{IPA|/pram.ɓəj/}}
+| 80
+| {{lang|km|៨០}}
+| {{lang|km|ប៉ែតសិប}}
+| {{IPA|/paet.səp/}}
+|-
+| 9
+| {{lang|km|៩}}
+| {{lang|km|ប្រាំបួន}}
+| {{IPA|/pram.ɓuən/}}
+| 90
+| {{lang|km|៩០}}
+| {{lang|km|កៅសិប}}
+| {{IPA|/kaw.səp/}}
+|-
+| 10
+| {{lang|km|១០}}
+| {{lang|km|ដប់}}
+| {{IPA|/ɗɑp/}}
+| 100
+| {{lang|km|១០០}}
+| {{lang|km|មួយរយ}}
+| {{IPA|/muəj.rɔːj/}}
+|}
+
+Intermediate numbers are formed by compounding the above elements. Powers of ten are denoted by loan words: {{lang|km|រយ}} {{IPA|/rɔːj/}} (100), {{lang|km|ពាន់}} {{IPA|/pŏən/}} (1,000), {{lang|km|ម៉ឺន}} {{IPA|/məɨn/}} (10,000), {{lang|km|សែន}} {{IPA|/saen/}} (100,000) and {{lang|km|លាន}} {{IPA|/liən/}} (1,000,000) from Thai and {{lang|km|កោដិ}} {{IPA|/kaot/}} (10,000,000) from Sanskrit.<ref name=JacobNotes>{{cite journal|last1=Jacob|first1=Judith M|title=Notes on the numerals and numeral coefficients on Old, Middle, and Modern Khmer|journal=Lingua|date=1965|volume=15|page=144|doi=10.1016/0024-3841(65)90011-2}}</ref>
+
+[[Ordinal number]]s are formed by placing the particle {{lang|km|ទី}} {{IPA|/tiː/}} before the corresponding cardinal number.<ref name=KhDict />
+
+==Social registers==
+Khmer employs a system of [[Register (sociolinguistics)|registers]] in which the speaker must always be conscious of the social status of the person spoken to. The different registers, which include those used for common speech, polite speech, speaking to or about royals and speaking to or about monks, employ alternate verbs, names of body parts and pronouns. As an example, the word for "to eat" used between intimates or in reference to animals is {{IPA|/siː/}}. Used in polite reference to commoners, it is {{IPA|/ɲam/}}. When used of those of higher social status, it is {{IPA|/pisa/}} or {{IPA|/tɔtuəl tiən/}}. For monks the word is {{IPA|/cʰan/}} and for royals, {{IPA|/saoj/}}.<ref name ="cl" /> Another result is that the pronominal system is complex and full of honorific variations, just a few of which are shown in the table below.<ref name=KhDict />
+
+{| class="wikitable"
+|-
+! Situational usage
+! colspan=2 | I/me
+! colspan=2 | you
+! colspan=2 | he/she/it
+|-
+| Intimate or addressing an inferior
+| {{lang|km|អញ}}
+| {{IPA|[ʔaɲ]}}
+| {{lang|km|ឯង}}
+| {{IPA|[ʔaɛ̯ŋ]}}
+| {{lang|km|វា}}
+| {{IPA|[ʋiə̯]}}
+|-
+| neutral
+| {{lang|km|ខ្ញុំ}}
+| {{IPA|[kʰɲom]}}
+| {{lang|km|អ្នក}}
+| {{IPA|[neə̯̆ʔ]}}
+| {{lang|km|គេ}}
+| {{IPA|[keː]}}
+|-
+| Formal
+| {{lang|km|យើងខ្ញុំ}} or<br />{{lang|km|ខ្ញុំបាទ}}
+| {{IPA|[jəːŋ kʰɲom]}}<br />{{IPA|[kʰɲom baːt]}}
+| {{lang|km|លោក}}<br />(or kinship term, title or rank)
+| {{IPA|[loːk]}}
+| {{lang|km|គាត់}}
+| {{IPA|[kɔə̯t]}}
+|-
+| Layperson to/about Buddhist clergy
+| {{lang|km|ខ្ញុំព្រះករុណា}}
+| {{IPA|[kʰɲom preə̯̆h kaʔruʔnaː]}}
+| {{lang|km|ព្រះតេជព្រះគុណ}}
+| {{IPA|[preə̯̆h daɛ̯c preə̯̆h kun]}}
+| {{lang|km|ព្រះអង្គ}}
+| {{IPA|[preə̯̆h ɑŋ]}}
+|-
+| Buddhist clergy to layperson
+| {{lang|km|អាត្មា}} or<br />{{lang|km|អាចក្តី}}
+| {{IPA|[aːttma]}}<br />{{IPA|[aːckdəj]}}
+| {{lang|km|ញោមស្រី}} (to female) <br /> {{lang|km|ញោមប្រុស}} (to male)
+| {{IPA|[ɲoːm srəj]}}<br />{{IPA|[ɲoːm proh]}}
+| {{lang|km|ឧបាសក}} (to male) <br /> {{lang|km|ឧបាសិកា}} (to female)
+| {{IPA|[ʔuʔbaːsaʔ]}} <br /> {{IPA|[ʔuʔbaːsiʔkaː]}}
+|-
+| when addressing royalty
+| {{lang|km|ខ្ញុំព្រះបាទអម្ចាស់}} or {{lang|km|ទូលបង្គុំ}} (male), {{lang|km|ខ្ញុំម្ចាស់}} (female)
+| {{IPA|[kʰɲom preə̯̆h baːt aʔmcah]}}
+| {{lang|km|ព្រះករុណា}}
+| {{IPA|[preə̯̆h kaʔruʔnaː]}}
+| {{lang|km|ទ្រង់}}
+| {{IPA|[truə̯̆ŋ]}}
+|}
+
+==Writing system==
+{{Main|Khmer script}}
+<!-- Deleted image removed: [[File:khmer mul.jpg|frame|right|Example of Khmer script]] -->
+[[File:Be Cambodian Embassy 03.jpg|thumb|right|180px|An example of modern Khmer script at the Cambodian Embassy in [[Berlin]]]]
+Khmer is written with the Khmer script, an [[abugida]] developed from the [[Pallava script]] of India before the 7th century when the first known inscription appeared.<ref name="OMNI">{{Cite web |url=http://www.omniglot.com/writing/khmer.htm |title=Khmer Alphabet at Omniglot.com |access-date=2007-02-13 |archive-url=https://web.archive.org/web/20120213191456/http://www.omniglot.com/writing/khmer.htm |archive-date=2012-02-13 |url-status=dead }}</ref> Written left-to-right with vowel signs that can be placed after, before, above or below the consonant they follow, the Khmer script is similar in appearance and usage to [[Thai script|Thai]] and [[Lao script|Lao]], both of which were based on the Khmer system. The Khmer script is also distantly related to the [[Mon script]], the ancestor of the modern [[Burmese script]].<ref name="OMNI" /> Within Cambodia, literacy in the Khmer alphabet is estimated at 77.6%.<ref name=UNCel>{{Cite web |url=http://www.un.org.kh/index.php?option=com_content&view=article&id=469:celebration-of-international-literacy-day-2011-supporting-cambodias-development-efforts&catid=43:latest-press-releases&Itemid=76 |title=United Nations in Cambodia "Celebration of International Literacy Day, 2011" |access-date=2012-02-20 |archive-url=https://web.archive.org/web/20111027202954/http://www.un.org.kh/index.php?option=com_content&view=article&id=469:celebration-of-international-literacy-day-2011-supporting-cambodias-development-efforts&catid=43:latest-press-releases&Itemid=76 |archive-date=2011-10-27 |url-status=dead }}</ref>
+
+Consonant symbols in Khmer are divided into two groups, or series. The first series carries the inherent vowel {{IPA|[ɑː]}} while the second series carries the inherent vowel {{IPA|[ɔː]}}. The Khmer names of the series, {{IPA|[akʰoːsaʔ]}} ('voiceless') and {{IPA|[kʰoːsaʔ]}} ('voiced'), respectively, indicate that the second series consonants were used to represent the voiced phonemes of Old Khmer.  As the voicing of stops was lost, however, the contrast shifted to the phonation of the attached vowels, which, in turn, evolved into a simple difference of vowel quality, often by [[Vowel breaking|diphthongization]].<ref name=ELL />  This process has resulted in the Khmer alphabet having two symbols for most consonant phonemes and each vowel symbol having two possible readings, depending on the series of the initial consonant:<ref name="HUFF" />
+{|
+|-
+| {{lang|km|ត}} + {{lang|km| ា}}
+| = {{lang|km|តា}}
+| {{IPA|[taː]}}
+| 'grandfather'
+|-
+| {{lang|km|ទ}} + {{lang|km| ា}}
+| = {{lang|km|ទា}}
+| {{IPA|[tiə]}}
+| 'duck'
+|}
+
+==Examples==
+[[File:Universal Declaration of Human Rights Khmer.ogg|thumb|Reading the first article of the Universal Declaration of Human Rights in Khmer.]]
+The following text is from Article 1 of the [[Universal Declaration of Human Rights]].
+{| class="wikitable"
+! Khmer
+|  {{lang|km|មនុស្សទាំងអស់កើតមកមានសេរីភាពនិងភាពស្មើៗគ្នាក្នុងសិទ្ធិ និងសេចក្ដីថ្លៃថ្នូរ ។ មនុស្សគ្រប់រូបសុទ្ធតែមានវិចារណញ្ញាណនិងសតិសម្បជញ្ញៈ ហើយត្រូវប្រព្រឹត្ដចំពោះគ្នាទៅវិញទៅមកក្នុងស្មារតីរាប់អានគ្នាជាបងប្អូន ។}}
+|-
+! IPA<br />Transcription
+| {{IPA|/mɔnuh tĕaŋ ɑh kaət mɔːk miən seːrəjpʰiəp nɨŋ pʰiəp smaəsmaə kniə knoŋ sət nɨŋ seːckɗəj tʰlaj tʰnou. mɔnuh krup ruːp sot tae miən vicaːranaɲiən nɨŋ satəsampacŏəɲɲeaʔ haəj trouʋ prɑprɨt cɑmpŭəh kniə tɨw ʋɨɲ tɨw mɔːk knoŋ smaːrɔːɗəj rŏəp ʔaːn kniə ciə ɓɑːŋ pʔoun/}}.
+|}
+
+==See also==
+{{Portal|Cambodia|Languages}}
+* [[Khmer literature]]
+* [[Romanization of Khmer]]
+
+==References and notes==
+{{Reflist|30em}}
+
+==Further reading==
+{{refbegin}}
+* Ferlus, Michel. (1992). ''Essai de phonétique historique du khmer'' (Du milieu du premier millénaire de notre ère à l'époque actuelle)", Mon–Khmer Studies XXI: 57–89)
+* Headley, Robert and others. (1977). ''Cambodian-English Dictionary''. Washington, Catholic University Press. {{ISBN|0-8132-0509-3}}
+* Herington, Jennifer and Amy Ryan. (2013). [http://li.payap.ac.th/images/stories/survey/khmer_khes_report.pdf Sociolinguistic Survey of the Khmer Khe in Cambodia] {{Webarchive|url=https://web.archive.org/web/20210310154051/https://li.payap.ac.th/images/stories/survey/khmer_khes_report.pdf |date=2021-03-10 }}. Chiang Mai: Linguistics Institute, Payap University.
+* Huffman, F. E., Promchan, C., & Lambert, C.-R. T. (1970). ''Modern spoken Cambodian''. New Haven: Yale University Press. {{ISBN|0-300-01315-9}}
+* Huffman, F. E., Lambert, C.-R. T., & Im Proum. (1970). ''Cambodian system of writing and beginning reader with drills and glossary''. Yale linguistic series. New Haven: Yale University Press. {{ISBN|0-300-01199-7}}
+* Jacob, Judith. (1966). ‘Some features of Khmer versification’, in C. E. Bazell, J. C. Catford, M. A. K. Halliday, and R. H. Robins, eds., In Memory of J. R Firth, 227–41. London: Longman. [Includes discussion of the two series of syllables and their places in Khmer shymes]
+* Jacob, Judith. (1974). ''A Concise Cambodian-English Dictionary''. London, Oxford University Press. {{ISBN|0-19-713574-9}}
+* Jacob, J. M. (1996). ''The traditional literature of Cambodia: a preliminary guide''. London oriental series, v. 40. New York: Oxford University Press. {{ISBN|0-19-713612-5}}
+* Jacob, J. M., & [[David A. Smyth|Smyth, D.]] (1993). ''Cambodian linguistics, literature and history: collected articles''. London: School of Oriental and African Studies, University of London. {{ISBN|0-7286-0218-0}}
+* Keesee, A. P. K. (1996). ''An English-spoken Khmer dictionary: with romanized writing system, usage, and indioms, and notes on Khmer speech and grammar''. London: Kegan Paul International. {{ISBN|0-7103-0514-1}}
+* Meechan, M. (1992). ''Register in Khmer the laryngeal specification of pharyngeal expansion''. Ottawa: National Library of Canada = Bibliothèque nationale du Canada. {{ISBN|0-315-75016-2}}
+* Sak-Humphry, C. (2002). ''Communicating in Khmer: an interactive intermediate level Khmer course''. Manoa, Hawai'i: Center for Southeast Asian Studies, School of Hawaiian, Asian and Pacific Studies, University of Hawai'i at Manoa. OCLC: 56840636
+* [[David A. Smyth|Smyth, D.]] (1995). ''Colloquial Cambodian: a complete language course''. London: Routledge. {{ISBN|0-415-10006-2}}
+* Stewart, F., & May, S. (2004). ''In the shadow of Angkor: contemporary writing from Cambodia''. Honolulu: University of Hawai'i Press. {{ISBN|0-8248-2849-6}}
+* Tonkin, D. (1991). ''The Cambodian alphabet: how to write the Khmer language''. Bangkok: Trasvin Publications. {{ISBN|974-88670-2-1}}
+{{refend}}
+
+==External links==
+{{InterWiki|code=km}}
+{{Commons category}}
+{{Wikivoyage|Khmer phrasebook|Khmer|a phrasebook}}
+* [http://kheng.info/ Kheng.info]—An online audio dictionary for learning Khmer, with thousands of native speaker recordings and [http://kheng.info/word_segmentation/ text segmentation software].
+* [http://sealang.net/mk/khmeric.htm SEAlang Project: Mon–Khmer languages. The Khmeric Branch]
+* [http://en.wiktionary.org/wiki/Appendix:Khmer_Swadesh_list Khmer Swadesh vocabulary list] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+* [https://code.google.com/p/khmer-dictionary-tools/ Dictionary and SpellChecker] open sourced and collaborative project based on [[Chuon Nath]] Khmer Dictionary
+* [http://www.sbbic.org/lang/en-us/2010/07/15/how-to-install-khmer-unicode-on-windows-7/ How to install Khmer script on a Windows 7 computer]
+* [http://www.sbbic.org/lang/en-us/2010/03/27/how-to-install-khmer-unicode-on-your-windows-xp-computer How to install Khmer script on a Windows XP computer]
+* ''[https://web.archive.org/web/20101230070221/http://www.lmp.ucla.edu/Profile.aspx?menu=004&LangID=75 Khmer]'' at [https://web.archive.org/web/20060720065425/http://www.pavelicpapers.com/documents/odpor/index.html UCLA Language Materials project]
+* [https://web.archive.org/web/20110821053921/http://dict.ant.com.kh/dictionaries/ Online Khmer & English dictionary]
+* [http://dictionary.tovnah.com/ Khmer Online Dictionaries]
+* [[wikiotics:km/Khmer lessons|Khmer audio lessons at Wikiotics]]
+* http://unicode-table.com/en/sections/khmer/
+* http://unicode-table.com/en/sections/khmer-symbols/
+
+{{Languages of Cambodia}}
+{{Languages of Thailand}}
+{{Languages of Vietnam}}
+{{Austroasiatic languages}}
+
+{{Authority control}}
+
+[[Category:Khmer language| ]]
+[[Category:Languages attested from the 9th century]]
+[[Category:Analytic languages]]
+[[Category:Isolating languages]]
+[[Category:Languages of Cambodia]]
+[[Category:Languages of Thailand]]
+[[Category:Languages of Vietnam]]
+[[Category:Subject–verb–object languages]]

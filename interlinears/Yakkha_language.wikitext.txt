@@ -1,0 +1,297 @@
+{{Short description|Kiranti language spoken in Nepal and India}}
+{{Infobox language
+|name=Yakkha
+|nativename=याक्खा
+|region=[[Nepal]], [[Sikkim]]
+|speakers={{sigfig|20410|2}}
+|date=2011 census
+|ref=e18
+|familycolor=Sino-Tibetan
+|fam2=[[Kiranti languages|Kiranti]]
+|fam3=Eastern
+|fam4=Greater Yakkha
+|script= [[Devanagari]]
+|iso3=ybh
+|lc1=lmh|ld1=Lambichhong (duplicate code)
+|lc2=phw|ld2=Phangduwali (duplicate code)
+|lc3=luu|ld3=Lumba-Yakkha (duplicate code)<ref>Hammarström (2015) Ethnologue 16/17/18th editions: a comprehensive review: online appendices</ref>
+|glotto=yakk1236
+|glottorefname=Yakkha
+|notice=IPA
+}}
+
+'''Yakkha''' (also erroneously spelled as '''Yakha''') is a language spoken in parts of [[Nepal]], [[Darjeeling district]] and [[Sikkim]]. The Yakkha-speaking villages are located to the East of the Arun river, in the southern part of the [[Sankhuwasabha district]] and in the northern part of the [[Dhankuta district]] of Nepal. About 14,000 people still speak the language, out of 17,003 ethnic Yakkha in Nepal.<ref>Toba, Sueyoshi, Ingrid Toba and Novel Kishore Rai (2005): ''Diversity and Endangerment of Languages in Nepal'', UNESCO Kathmandu Series of Monographs and Working Papers: No 7, Kathmandu: United Nations Educational, Scientific and Cultural Organization, Kathmandu Office.</ref> Genealogically, Yakkha belongs to the Eastern Kiranti languages and is in one subgroup with several [[Limbu language|Limbu]] languages, e.g. [[Belhare language|Belhare]], [[Athpare language|Athpare]], [[Chintang language|Chintang]] and [[Chulung language|Chulung]]. Ethnically however, the [[Yakkha people]] perceive themselves as distinct from the other Kiranti groups such as [[Limbu people|Limbu]]. <ref>Linkha, Magman and Bam Dewan (2005 (VS 2064)): ''Yakkha Ce’ya Sikla – Prarambhik Yakkha
+Sabda Samgraha'', Kirant Yakkha Chumma, Indigenous Peoples Yakkha Organization, Sunsari.</ref><ref>Jimi, Indira, Visvakaji Kongren and Manita Jimi (2009): ''Engka Yakkha Cheptap'', Siksa tatha Khelkud Mantralaya, Sanothimi, Bhaktapur.</ref>
+
+==Geographical distribution==
+'''Mugali''' is spoken between Mugakhola and Sinuwakhola on the eastern banks of the [[Arun River, China-Nepal|Arun River]] in [[Dhankuta District]], [[Province No. 1]], Nepal, in the villages (VDC's) of [[Muga, Nepal|Muga]], [[Pakhribas]], and [[Phalate]].<ref name=e18/>
+
+'''Phangduwali''' is spoken above the Mugakhola headwaters in [[Pakhribas]] VDC, [[Dhankuta District]], [[Province No. 1]], Nepal.
+
+'''Lumba-Yakkha''' is spoken in [[Arkhaule Jitpur]] and [[Marek Katahare]] VDC's, northern [[Dhankuta District]], [[Province No. 1]], Nepal.
+
+==Phonology==
+
+===Vowels===
+Yakkha has the five vowels {{IPA|[a], [e], [i], [o], [u]}}. There are no centralized vowels as in other Kiranti languages. Variation between short and long vowels is possible, but this is not a phonemic contrast, because no minimal pairs can be found. Diphthongs such as {{IPA|[oi̯], [ui̯], [ai̯]}} can be found in some words such as ''uimalaŋ'' "steep descent", or the interjection ''hoiʔ'' "Enough!".
+
+{|class="wikitable" style="text-align: center;"
+|+Yakkha vowel phonemes
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+|{{IPA link|a}}
+|
+|}
+
+===Consonants===
+The consonants are shown in the table below. The voiced consonants in brackets have doubtful status. They are not phonemes, because no minimal pairs can be established. But they are also not motivated by a phonological rule. Furthermore, the voiced consonants occur only in a few words, and some of them are [[Nepali language|Nepali]] loans. Examples with initial voiced consonants are ''gogoba'' (an insect/worm), ''gʱak'' "all", ''jeppa'' "really", ''ɖaŋgak'' "stick".
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2" | 
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan="2" | [[Plosive consonant|Plosive]]
+! <small>unaspirated</small>
+| {{IPA|p}} ({{IPA|b}} )
+| {{IPA|t}} ({{IPA|d}} )
+|
+| {{IPA|ʈ}} ({{IPA|ɖ}} )
+|  
+| {{IPA|k}} ({{IPA|ɡ}} )
+| {{IPA|ʔ}}
+|-
+! <small>aspirated</small>
+| {{IPA|pʰ}} ({{IPA|bʱ}})
+| {{IPA|tʰ}} ({{IPA|dʱ}})
+|
+| {{IPA|ʈʰ}} ({{IPA|ɖʱ}})
+|  
+| {{IPA|kʰ}} ({{IPA|ɡʱ}})
+| 
+|-
+! rowspan="2" | [[Affricate consonant|Affricate]]
+! <small>unaspirated</small>
+| 
+| {{IPA|t͡s}}
+| ({{IPA|d͡ʒ}})
+| 
+| 
+| 
+| 
+|-
+! <small>aspirated</small>
+| 
+| {{IPA|t͡sʰ}} 
+|  
+| 
+| 
+| 
+| 
+|-
+! colspan="2"|[[Fricative consonant|Fricative]]
+| 
+| {{IPA|s}}
+|
+| 
+| 
+| 
+| {{IPA|h}}
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA|m}}
+| {{IPA|n}}
+|
+| 
+|  
+| {{IPA|ŋ}}
+| 
+|-
+! rowspan="2"|[[Approximant consonant|Approximant]]
+! <small>unaspirated</small>
+| {{IPA|w}}
+|
+| 
+| 
+| {{IPA|j}}
+| 
+|
+|-
+! <small>aspirated</small>
+| {{IPA|wʱ}}
+|
+| 
+| 
+|  
+| 
+|
+|-
+!  colspan="2"|[[Trill consonant|Trill]]
+|
+| {{IPA|r}}
+| 
+| 
+| 
+|  
+|
+|-
+!  colspan="2"|[[Lateral consonant|Lateral]]
+|
+| {{IPA|l}}
+| 
+| 
+| 
+| 
+| 
+|}
+
+Notes:
+*A typical feature of Eastern Kiranti languages is the merger of voiced and voiceless obstruents, and also Yakkha exhibits this feature. Voicing occurs however optionally between vowels and after nasals. Unaspirated obstruents undergo this voicing rule more regularly than aspirated obstruents. Voiced consonants that are not motivated by  a phonological rule exist, but they are rare.
+*Another feature of the Yakkha sound system is the change of proto */r/ and */R/ to /y/, e.g. the word for salt is ''yum'' in Yakkha, but ''rum'' in Puma (Central Kiranti), and ''rɨm'' in Dumi (Western Kiranti).
+*The rhotic [r] is not found word-initially, but in [Cr] clusters and in intervocalic position, as in ''makhruna'' "black" and ''tarokma'' "start".
+*Several morphophonological processes operate in Yakkha, so that the underlying forms are not easy to establish. Many of these  processes have to do with substitution by a nasal, e.g. in compound verbs like ''suncama'' "itch", the underlying verb stems are /sut/ and /ca/. To take an example from inflection, the verb ''sapthakma'' "like" is inflected ''sapthaŋmecuna'' "they (dual) like him". Other examples of morphophonological processes are the change of underlying ''et-se'' to [esse] (meaning "in order to hunt fish").
+*Underspecified [[Nasal consonant|Nasal]] [[prefix]]es assimilate in the place of articulation to the stem-initial consonant, e.g. ''m-baŋ'' "your-house", but ''n-chem'' "your-song".
+"aka"my
+
+==Morphology==
+Yakkha has rich nominal and verbal morphology. Nouns inflect for case and number. Verbs inflect for person, number (singular, dual, plural/nonsingular), negation, several categories in the domain of tense, aspect and mood. In transitive verbs, both actor and undergoer are coreferenced on the verb. The category of [[Clusivity|inclusive/exclusive]] is found in the verbal morphology and in the possessive pronouns and prefixes.
+
+===Pronouns===
+Yakkha pronouns distinguish between singular, dual and plural [[grammatical number|number]], and the possessive pronouns additionally distinguish between the [[Clusivity|inclusion]] and the [[Clusivity|exclusion]] of the addressee. The third person only has singular and nonsingular forms. The possessive pronouns have developed from the personal pronouns and the [[Genitive case|genitive]] marker ''-ka''. The possessive prefixes obviously are [[Grammaticalisation|grammaticalised]] possessive pronouns. They can be used instead of the possessive pronouns, e.g. one could say ''akka paŋ'' or ''a-paŋ'', both meaning "my house". Sounds represented by /N/ in the table are underspecified nasals. 
+ 
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2"|
+! [[Personal pronoun]]
+! [[Possessive pronoun]]
+! [[Possessive prefix]]
+|-
+! rowspan="5"| 1st person
+! singular
+| ''ka''
+| ''akka''
+| ''a-''
+|-
+! dual, excl
+| ''kanciŋ''
+| ''anciŋga''
+| ''anciŋ-''
+|-
+! dual, incl
+| ''kanciŋ''
+| ''enciŋga''
+| ''enciŋ-''
+|-
+! plural, excl
+| ''kaniŋ''
+| ''aniŋga''
+| ''aniŋ-''
+|-
+! plural, incl
+| ''kaniŋ''
+| ''eŋga''
+| ''eN-''
+|-
+! rowspan="3"| 2nd person
+! singular
+| ''nda''
+| ''ŋga''
+| ''N-''
+|-
+! dual
+| ''njiŋda''
+| ''njiŋga''
+| ''njiŋ-''
+|-
+! plural
+| ''nniŋda''
+| ''nniŋga''
+| ''nniŋ-''
+|-
+! rowspan="2"| 3rd person
+! singular
+| ''uŋ''
+| ''ukka''
+| ''u-''
+|-
+! nonsingular
+| ''uŋci''
+| ''uŋciga''
+| ''uŋci-''
+|}
+
+===Interrogatives and indefinite reference===
+Yakkha has the following [[interrogative word|interrogative pronouns and other interrogatives]]: ''isa'' "who", ''i/ina'' "what", ''iya'' "what" (if many items or uncountables are asked for), ''hetna'' "which", ''imin'' "how", ''ijaŋ'' "why", ''hetne'' "where", ''hetniŋ'' "when". 
+If a certain item is asked for, ''ina'' will be used, but if an event is in question, the root ''i'' occurs without further morphology, e.g. ''i leksa?'' "What happened?". Reduplication of the pronouns may result in indefinite reference, e.g.  ''hetniŋ hetniŋ'' "some time".
+
+===Case system===
+Yakkha distinguishes the unmarked [[absolutive case]], the [[Ergative case|ergative]] ''-ŋa'', the [[Genitive case|genitive]] ''-ka/-ga'', the [[Locative case|locative]] ''-pe/-be'', the [[Ablative case|ablative]] case ''-bhaŋ'' and the [[comitative case]] ''-nuŋ'', and the [[Instrumental case|instrumental]] case ''-ŋa''.
+
+* The absolutive marks subjects of intransitive verbs and objects of transitive verbs. In some verb classes (in the sense of valency classes), objects are marked with a locative or an instrumental. The ergative marks the agents of transitive verbs except for first and second person pronouns, which are in the unmarked nominative. Examples for absolutive and ergative case (overt arguments are often omitted in natural discourse, but the examples contain them to illustrate the case):
+{{interlinear|indent=3|ka khemeŋna|"I go"}}
+{{interlinear|indent=3|uŋ-'''ŋa''' uŋ tundwana|"he understands him"}}
+
+* As in many other [[Kiranti languages]], there is an ergative-instrumental [[Syncretism (linguistics)|syncretism]], as both cases are marked by ''-ŋa''. The instrumental is used to mark instruments in a broad sense, and also for temporal reference:
+{{interlinear|indent=3|luŋkhwak-'''ŋa'''|stone-INS|"with/by means of a stone"}}
+{{interlinear|indent=3|khiŋ-belaʔ-'''ŋa'''|this-time-INS|"thesedays"}}
+
+* The genitive, marked by ''-ka/-ga'' marks the possessed item in possessive constructions, and materials:
+{{interlinear|indent=3|ak-'''ka''' niŋ|I-GEN (prefix-)name|"my name"}}
+{{interlinear|indent=3|siŋ-'''ga''' saŋghoŋ|wood-GEN stool|"wooden stool"}}
+
+* The locative marks locations and goals of movement and transfer:
+{{interlinear|indent=3|khorek-'''pe''' cuwa|bowl-LOC beer|"(There is) beer in a/the bowl."}}
+
+* The comitative marks the accompaniment by someone or something. Also adverbials and adverbial clauses can be built with the comitative.
+{{interlinear|indent=3|nda-'''nuŋ'''|"with you"}}
+{{interlinear|indent=3|suha-'''nuŋ'''|"sour" (in adverbial use, e.g. taste sour)}}
+
+===Verbal morphology===
+*The verbal morphology is very complex, which is a typical feature of Kiranti languages. The outline given here necessarily provides a simplified picture. The verbal morphology is predominantly represented by suffixes, but one prefix slot exists, that is filled with an underspecified nasal that codes either third person plural or negation.
+*Person and number of both actor and undergoer are indicated on the verb, and these affixes may differ according to the semantic role of their referent. For instance, the suffix ''-ka/-ga'' codes second person ("you"), regardless of the [[Thematic relation|semantic role]], while the suffix ''-m'' codes only (first and second person) agents, and the suffix ''-u'' only codes third person undergoer. There are syncretisms, for instance the already mentioned suffix ''-m'', that stands for both agreement with first and second person plural (agent). Some relations are coded by a [[Portmanteau|portmanteau morpheme]], e.g. the first person acting on the second is coded by '-nen' (i.e. "I understand/call/kiss etc. YOU"), supplemented by number suffixes if necessary. 
+*Another feature typical for Kiranti verbal morphology is the copying of nasals into syllable codas in the suffix string of a finite verb. For instance, the negated form of ''tum-me-ŋ-c-u-ŋ-ci-ŋa'' "we (dual, excl) understand them" is ''n-dum-me-'''n'''-c-u-'''n'''-ci-ŋa-'''n'''-na'', where the negation marker ''-n'' is copied several times.
+*As for tense, the nonpast is overtly marked by ''-meʔ'' or ''-wa''. Both suffixes have their origin in grammaticalized lexical verbs ("do" and "be/exist" respectively). They occupy different slots in the verbal suffix template. The past is marked by the suffix ''-a'', which is often elided to avoid hiatus in underlying vowel sequences. The perfect tense is built by the addition of the suffixes ''-ma'' or ''-uks'' to the past morpheme, and the past perfect tense is built by further addition of the suffix ''-sa'' to this suffix string.
+*As for mood, the imperative is also coded by the suffix ''-a'', e.g. ''ab-a'' "Come!" In transitive verbs with a third person patient, the overt suffix is ''-u'', and the imperative suffix is not overtly realised. The subjunctive mood has no dedicated marker, it is marked precisely by the absence of anything but the agreement morphology, e.g. ''ciya hops-u-m?'' "Shall we have tea?" (tea sip-3P-1A). The subjunctive mood also expresses warnings, suggestions and potential situations in some subordinate clause types.
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Driem, George van (1990), ''The fall and rise of the phoneme /r/ in Eastern Kiranti: sound change in Tibeto-Burman''. Bulletin of the School of Oriental and African Studies 53, 83 – 86.
+*Driem, George van (1994): ''The Yakkha verb: interpretation and analysis of the Omruwa material (a Kiranti language of Eastern Nepal)''. Bulletin of the School of Oriental and African Studies 57, 347 – 355.
+*Driem, George van (2004): ''Newaric and Mahakiranti''. In: Saxena, Anju: Himalayan Languages – past and present. Mouton de Gruyter, Berlin.
+*Grierson, George A. (1909): ''Tibeto-Burman family, Part I, General Introduction, specimens of the Tibetan dialects, the Himalayan dialects and the North Assam group.'', Vol. III of Linguistic Survey of India, Superintendent of Government Printing, India, Calcutta.
+*Kongren, Ramji (2007a): ''Yakkha Jatiko Samskar ra Samskriti (Yakkha Indigenous People’s Tradition and Culture)''. Kirat Yakkha Chumma (Indigenous Peoples Yakkha Organization), Kathmandu.
+*Kongren, Ramji (2007b): ''Yakkha–Nepali–English Dictionary''. Kirant Yakkha Chumma (Indigenous Peoples Yakkha Organization), Kathmandu.
+* {{Cite thesis |last=Schackow |first=Diana |title=A grammar of Yakkha |date=2014 |degree=phd |publisher=University of Zurich |doi=10.5167/uzh-109528}}
+* {{Cite book  <!-- Citation bot bypass--> |url=http://langsci-press.org/catalog/book/66 |title=A Grammar of Yakkha |last=Schackow |first=Diana |date=2015 |publisher=[[Language Science Press]] |series=Studies in Diversity Linguistics 7 |location=Berlin |doi=10.17169/langsci.b66.12}} - published and revised from 2014 thesis
+*Winter, Werner, Gerd Hansson, Alfons Weidert and Bikram Ingwaba Subba (1996): ''A Synoptic Glossary of Athpare, Belhare and Yakkha''. Lincom Europa, München.
+
+==External links== 
+*[http://elar.soas.ac.uk/deposit/0293 ELAR archive of Documentation and grammatical description of Yakkha, Nepal]
+
+{{Sino-Tibetan languages}}
+{{Kiranti languages}}
+{{Languages of Northeast India}}
+{{Languages of Nepal}}
+
+[[Category:Kiranti languages]]
+[[Category:Languages of Nepal]]
+[[Category:Languages of Sikkim]]

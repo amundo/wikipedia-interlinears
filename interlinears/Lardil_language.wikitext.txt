@@ -1,0 +1,421 @@
+{{short description|Australian Aboriginal language}}
+{{Use dmy dates|date=August 2020}}
+{{Use Australian English|date=November 2011}}
+{{Cleanup lang|article|date=June 2020}}
+{{Infobox language
+|name=Lardil
+|nativename={{lang|lbz|Leerdil}}
+|pronunciation = {{IPA-all|leːɖɪl|}}
+|region=[[South Wellesley Islands|Bentinck Island]], north west [[Mornington Island]], [[Queensland]]
+|ethnicity   = [[Lardil people]]
+|speakers    = 65
+|date        = 2016 census
+|ref         = <ref>{{Cite web|url=http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_C16_T09_SA|title=Census 2016, Language spoken at home by Sex (SA2+)|website=Stat.data.abs.gov.au|language=en-au|publisher=Australian Bureau of Statistics|access-date=2017-10-29}}</ref>
+|familycolor=Australian
+|fam1= [[Macro-Pama–Nyungan languages|Macro-Pama–Nyungan]] ?
+|fam2=[[Tangkic languages|Tangkic]]
+|dia1=[[Damin]]
+|iso3=lbz
+|glotto=lard1243
+|glottorefname=Lardil
+|aiatsis=G38
+|map=Wellesley Islands locator map.jpg
+|mapcaption=Location of Wellesley Islands, the area traditionally associated with Lardil
+}}
+
+'''Lardil''', also spelled '''Leerdil''' or '''Leertil''', is a [[moribund language]] spoken by the [[Lardil people]] on [[Mornington Island]] (Kunhanha), in the [[Wellesley Islands]] of [[Queensland]] in northern Australia.<ref>McKnight 1999, 3</ref> Lardil is unusual among [[Aboriginal Australian languages]] in that it features a ceremonial [[register (sociolinguistics)|register]], called [[Damin]] (also Demiin). Damin is regarded by Lardil-speakers as a separate language and has the only phonological system outside Africa to use [[click consonants]].<ref name="McKnight 1999, 26">McKnight 1999, 26</ref>
+
+==Associated languages==
+Lardil is a member of the [[Tangkic languages|Tangkic]] family of Non-Pama–Nyungan [[Australian Aboriginal languages|Australian languages]], along with [[Kayardild language|Kayardild]] and [[Yukulta language|Yukulta]], which are close enough to be mutually intelligible.<ref>McKnight 1999, 3-6</ref> Though Lardil is not mutually intelligible with either of these,<ref>McKnight 1999, 4</ref> it is likely that many Lardil speakers were historically bilingual in Yangkaal (a close relative of Kayardild), since the Lardil people have long been in contact with the neighboring Yangkaal tribe and trading, marriage and conflict between them seem to have been common.<ref>McKnight 1999, 5</ref> There was also limited contact with mainland tribes including the [[Yanyuwa language|Yanyuwa]], of [[Borroloola]]; and the [[Garawa language|Garawa]] and Wanyi, which groups ranged as far east as [[Burketown, Queensland|Burketown]].<ref>McKnight 1999, 3-5</ref> Members of the [[Kaiadilt]] tribe (i.e. speakers of Kayardild) also settled on nearby [[South Wellesley Islands|Bentinck Island]] in 1947.<ref>McKnight 1999, 3-4</ref>
+
+==Outlook==
+The number of Lardil speakers has diminished dramatically since [[Kenneth L. Hale|Kenneth Hale]]'s study of the language in the late 1960s. Hale worked with a few dozen speakers of Lardil, some of these fluent older speakers, and others younger members of the community who had only a working or passive understanding.<ref>Hale 1997, 54</ref><ref name=wright2003>{{cite web | last=Wright | first=Sarah H. | title=Professor brings Aboriginal language to life | website=MIT News |publisher= [[Massachusetts Institute of Technology]] | date=22 Oct 2003 | url=https://news.mit.edu/2003/richards-1022|accessdate=13 October 2020}}</ref> When Norvin Richards, a student of Hale's, returned to Mornington Island to continue work on Lardil in the 1990s, he found Lardil children had no understanding of the language and that only a handful of aging speakers remained; Richards has stated that "Lardil was deliberately destroyed"<ref name=wright2003/> by assimilation and relocation programs in the years of the "[[Stolen Generation]]". A dictionary and grammatical sketch of the language were compiled and published by the Mornington Shire Council in 1997,<ref>Leman 1997, 2</ref> and the Mornington Island State School has implemented a government-funded cultural education program incorporating the Lardil language.<ref>[http://mornislass.eq.edu.au/wcmss/ Mornington Island State School] {{webarchive|url=https://web.archive.org/web/20101010012807/http://mornislass.eq.edu.au/wcmss/ |date=10 October 2010 }}</ref> The last fluent speaker of so-called Old Lardil died in 2007,<ref>{{cite web|url=http://www.ogmios.org/ogmios_files/338.htm|title=Foundation For Endangered Languages Issue 33.|website=Ogmios.org|access-date=3 October 2018}}</ref> though a few speakers of a grammatically distinct New variety remain.<ref name=wright2003/>
+
+==Kinship terms==
+Lardil has an intensely complex system of [[kinship terms]] reflecting the centrality of kin-relations to Lardil society; all members of the community are addressed by the terms as well as by given names.<ref>McKnight 1999, 33</ref> This system also features a few [[dyadic kinship term]]s, i.e. titles for pairs rather than individuals, such as {{lang|lbz|kangkariwarr}} 'pair of people, one of whom is the paternal great uncle/aunt or grandparent of the other'.<ref name="Leman 1997">Leman 1997</ref>
+
+{| class="wikitable"
+|+Lardil kinship terms
+|-
+! Title !! Relation(s)
+|-
+| {{lang|lbz|kangkar}} || FaFa, FaFaBr, FaFaSi
+|-
+| {{lang|lbz|kantha}} || Fa, FaBr
+|-
+| {{lang|lbz|babe}} || FaMo, FaMoSi, FaMoBr
+|-
+| {{lang|lbz|jembe}} || MoFa, MoFaBr, MoFaSi
+|-
+| {{lang|lbz|nyerre}} || MoMo, MoMoBro, MoMoBrSoCh
+|-
+| {{lang|lbz|merrka}} || FaSi
+|-
+| {{lang|lbz|wuyinjin}} || WiFa, HuFa, FaFaSiSo, FaMoBrSo
+|-
+| {{lang|lbz|ngama}} || Mo, MoSi, SoWi, BrSoWi
+|-
+| {{lang|lbz|kunawun}} || WiMo, WiMoBr
+|-
+| {{lang|lbz|yaku}} || MoBrDaDa, sister (male ego), elder sister (female ego)
+|-
+| {{lang|lbz|kambin}} || Ch, BrCh (both male ego)
+|-
+| {{lang|lbz|karda}} || Ch, SiCh, WiFaSi, MoMoMo(and siblings) (all female ego)
+|-
+| {{lang|lbz|kernde}} || Wi, WiSi, 'second cross-cousin'
+|-
+| {{lang|lbz|kangkur}} || SoSo, SoDa (both male ego); BrSoSo, BrSoDa (both female ego)
+|-
+| {{lang|lbz|nginngin}} || SoCh (female ego), SiSoCh (male ego)
+|-
+| {{lang|lbz|benyin}} || DaSo, DaDa
+|}
+
+==Initiate languages==
+Traditionally, the Lardil community held two initiation ceremonies for young men. ''Luruku'', which involved circumcision, was undergone by all men following the appearance of facial hair;<ref>McKnight 1999, 22</ref> ''warama'', the second initiation, was purely voluntary and culminated in a [[Penile subincision|subincision]] ceremony.<ref>McKnight 1999, 25</ref>
+
+''Luruku'' initiates took a year-long oath of silence and were taught a sign language known as ''marlda kangka'' (literally, 'hand language'), which, though limited in its semantic scope, was fairly complex.<ref>McKnight 1999, 24 and 157</ref> Anthropologist David McKnight's research in the 1990s suggests that ''marlda kangka'' classifies animals somewhat differently from Lardil, having, for example, a class containing all shellfish (which Lardil lacks) and lacking an inclusive sign for 'dugong+turtle' (Lardil ''dilmirrur'').<ref name="Leman 1997"/> In addition to its use by ''luruku'' initiates, ''marlda kangka'' had practical applications in hunting and warfare.<ref name="McKnight 1999, 158">McKnight 1999, 158</ref>
+
+While ''marlda kangka'' was essentially a male language, the non-initiated were not forbidden to speak it.<ref name="McKnight 1999, 158"/> Damin, on the other hand, was (at least nominally) a secret language spoken only by ''warama'' initiates and those preparing for second initiation,<ref name="McKnight 1999, 26"/> though many community members seem to have understood it.<ref name="Round 2011">Round 2011</ref> Damin, like ''marlda kangka'', was phonologically, lexically and semantically distinct from Lardil, though its syntax and morphology seem to be analogous.<ref>McKnight 1999, 26 and Round 2011</ref> Research into the language has proved controversial, since the Lardil community regards it as cultural property and no explicit permission was given to make Damin words public.<ref name="Round 2011"/>
+
+==Necronyms==
+Death in Lardil tends to be treated euphemistically; it is common, for example, to use the phrase {{lang|lbz|wurdal yarburr}} 'meat' when referring to a deceased person (or corpse).<ref name="Leman 1997"/> {{lang|lbz|Yuur-kirnee yarburr}} (literally, 'The meat/animal has died') has the sense 'You-know-who has died', and is preferable to a more direct treatment.<ref name="Leman 1997"/> It is taboo to speak the name of a deceased person, even (for a year or so) when referring to living people with the same name; these people are addressed as {{lang|lbz|thamarrka}}.<ref name="McKnight 1999, 68">McKnight 1999, 68</ref> The deceased is often known by the name of his/her death or burial place plus the necronym suffix {{lang|lbz|-ngalin}}, as in {{lang|lbz|Wurdungalin}} 'one who died at Wurdu'.<ref name="McKnight 1999, 68"/> Sometimes other strategies are used to refer to the dead, such as circumlocution via kinship terms.<ref name="McKnight 1999, 68"/>
+
+==Phonology==
+
+===Consonants===
+The consonant inventory is as follows, with the practical orthography in parentheses.
+{| class="IPA wikitable"
+!rowspan=2|
+!colspan=2| [[Peripheral consonant|Peripheral]]
+!colspan=2| [[Laminal consonant|Laminal]]
+!colspan=2| [[Apical consonant|Apical]]
+|-
+! [[bilabial consonant|Bilabial]]
+! [[velar consonant|Velar]]
+! [[palatal consonant|Palatal]]
+! [[dental consonant|Dental]]
+! [[alveolar consonant|Alveolar]]
+! [[retroflex consonant|Retroflex]]
+|- style="text-align: center;"
+! [[Plosive consonant|Plosive]]
+| p (b)
+| k (k)
+| tʲ (j)
+| t̪ (th)
+| t (d)
+| ʈ (rd)
+|- style="text-align: center;"
+! [[Nasal consonant|Nasal]]
+| m (m)
+| ŋ (ng)
+| ɲ (ny)
+| n̪ (nh)
+| n (n)
+| ɳ (rn)
+|- style="text-align: center;"
+! [[Trill consonant|Trill or flap]]
+| colspan=2|
+|
+|
+| r (rr)
+|
+|- style="text-align: center;"
+! [[Lateral consonant|Lateral]]
+| colspan=2|
+| ʎ (ly)
+|
+| l (l)
+| ɭ (rl)
+|- style="text-align: center;"
+! [[Approximant]]
+|colspan=2| w (w)
+| j (y)
+|
+| colspan=2| ɻ (r)
+|}
+
+Lardil's consonant inventory is fairly typical with respect to Australian phonology; it does not distinguish between [[Stop consonant|voiced]] and [[Stop consonant|unvoiced stops]] (such as b/p and g/k), and features a full set of stops and [[nasal stop|nasals]] at six [[Place of articulation|places of articulation]]<ref>Klokeid 1976, 16</ref> The distinction between 'apical' and 'laminal' consonants lies in whether the tip (apex) of the tongue or its flattened blade makes contact with the place of articulation.<ref name="Round 2011"/> Hale's 1997 practical orthography has  'k' for {{IPA|/k ~ ɡ/}} in order to disambiguate nasal+velar clusters (as in ''wanka'' 'arm'<ref name="Leman 1999">Leman 1999</ref>) from instances of the [[Velar consonant|velar]] nasal phoneme {{IPA|/ŋ/}} (as in ''wangal'' ‘[[boomerang]]’<ref name="Leman 1999"/>) and to avoid suggesting {{IPA|/ɡ/}}-[[gemination]] in {{IPA|/ŋ + k~ɡ/}} [[Consonant cluster|clusters]] (as in ''ngangkirr'' 'together'<ref name="Leman 1999"/>). The sounds represented by the [[Digraph (orthography)|digraphs]] 'nh' and 'ly' are not common in Lardil, but speakers perceive them as distinct, respectively, from {{IPA|/n/}} and {{IPA|/l/}}, and they do occur in some words (e.g. ''minhal'' 'burnt ground', ''balyarriny'' [title of a social subsection]).<ref>Hale 1997, 15, 16</ref>
+
+===Vowels===
+{| class="IPA wikitable"
+|+ Vowel phonemes
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|- style="text-align: center;"
+! [[Close vowel|High]]
+| i iː (ii)
+|
+| u uː (uu)
+|- style="text-align: center;"
+! [[Mid vowel|Mid]]
+| rowspan=2 | e eː (ee)
+|
+|
+|- style="text-align: center;"
+! [[Open vowel|Low]]
+| a  aː (aa)
+|
+|}
+
+Lardil has eight phonemically distinct vowels, differentiated by [[Vowel length|short]] and [[Vowel length|long variants]] at each of four [[Place of articulation|places of articulation]].<ref name="Hale 1997, 18">Hale 1997, 18</ref> Phonemic vowel length is an important feature of many Australian languages; [[minimal pair]]s in Lardil with a vowel length distinction include ''waaka/waka'' 'crow'/'armpit' and ''thaldi/thaldii'' 'come here!’/'to stand up'.<ref name="Leman 1999"/> Long vowels are roughly twice as long as their short counterparts.<ref name="Hale 1997, 18"/> Some sources describe /e eː/ as low vowels, closer to /æ æː/.
+
+===Stress===
+Primary word stress in Lardil falls on the initial syllable, and primary phrase stress on the final word in the phrase.<ref>Klokeid 1976, 29</ref> These stress rules have some exceptions, notably compounds containing ''tangka'' 'man' as a head noun modified by a demonstrative or another nominal; these expressions, and other compound phrases, have phrase-initial stress.<ref>Klokeid 1976, 29-30</ref>
+
+===Phonotactics===
+
+====Common alternations (consonants)====
+* /rr ~ d/, _#
+:The distinction between /rr/ and /d/ is lost word-finally, as in ''yarburr''  'bird/snake', which may be realized as [jaɻpurr] or [yaɻpud], depending on the instance.<ref name="Hale 1997, 17">Hale 1997, 17</ref>
+* /d ~ n, j ~ ny/, _N
+:/d/ and /j/ may assimilate to a following nasal, as in ''bidngen'' > ''binngen'' 'woman', or ''yuujmen'' > ''yuunymen'' 'oldtime'.<ref name="Hale 1997, 17"/>
+* /r ~ l/, #_
+:Word-initial /r/ is often expressed as /l/; as with /rr ~ d/, either (e.g.) [leman] or [reman] may be heard for 'mouth'.<ref name="Hale 1997, 17"/>
+
+====Word-final phonology====
+In addition to the common phonological alterations noted above, Lardil features some complex word-final phonology which is affected by both [[Morphology (linguistics)|morphological]] and [[Lexicon|lexical]] factors.<ref name="Round forthc. 2011">Round forthc. 2011</ref>
+
+Augmentation acts on many [[Mora (linguistics)|monomoraic]] forms, producing, for example,  /ʈera/ 'thigh' from underlying ''*ter''.<ref name="Round forthc. 2011"/>
+
+[[Close vowel|High vowels]] tend to undergo lowering at the end of [[Mora (linguistics)|bimoraic]] forms, as in ''*penki'' > ''penke'' 'lagoon'.<ref name="Round forthc. 2011"/> In several historical locative/ergatives, lowering does not occur.<ref name="Round forthc. 2011"/> It does occur in at least one long, u-final stem, and it coexists with the raising of certain stem-final /a/s.<ref name="Round forthc. 2011"/>
+
+In some trimoraic (or longer) forms, final, underlying short vowels undergo [[apocope]] (deletion), as in ''*jalulu'' > ''jalul'' 'fire'.<ref name="Round forthc. 2011"/> Front-vowel apocope fails to occur in [[Locative case|locatives]], verbal negatives, many historical locative/[[Ergative case|ergatives]], and a number of i-final stems such as ''wan̪t̪alŋi'' 'a species of fish'.<ref name="Round forthc. 2011"/> Back-vowel apocope also has lexically-governed exceptions.<ref name="Round 2011"/>
+
+Cluster reduction simplifies underlying word-final consonant clusters, as in ''*makark'' > ''makar'' 'anthill'.<ref name="Round forthc. 2011"/> This process is "fed" in a sense by apocope, since some forms that would otherwise end in a short vowel arise as cluster-final after apocope (e.g. ''*jukarpa'' > ''*jukarp'' > ''jukar'' 'husband').<ref name="Round forthc. 2011"/>
+
+Non-apical truncation results in forms like ''ŋalu'' from underlying ''*ŋaluk'', in which the underlying form would end in a non-apical consonant (i.e. one not produced with the tip of the tongue).<ref name="Round forthc. 2011"/> This process is also fed by apocope, and seems to be lexically governed to an extent, since Lardil words can end in a laminal; compare ''kakawuɲ'' 'a species of bird', ''kulkic'' 'a species of shark'.<ref name="Round forthc. 2011"/>
+
+In addition to the dropping of non-apicals, a process of apicalization is at work, giving forms such as ''ŋawit'' from underlying laminal-final ''*ŋawic''. It has been proposed that the process responsible for some of these forms is better described as laminalization (i.e. ''nawit'' is underlying and ''nawic'' occurs in inflected forms), but apicalization explains the variation between alveolar /t/ and dental /t̪/ (contrastive but both apical) in surface forms with an underlying non-apical, and does not predict/generate as many invalid forms as does the laminalization model.<ref name="Round forthc. 2011"/>
+
+==Grammar==
+
+===Parts of speech===
+
+====Verbs====
+The first major [[Part of speech|lexical class]] in Lardil is its [[verb]]s, which may be subclassified as [[Intransitive verb|intransitive]], [[Transitive verb|transitive]], and intransitive- and transitive [[Complement (linguistics)|complemented]].<ref name="Hale 1997, 51">Hale 1997, 51</ref> Verbs are both semantically and (as discussed below), morphologically distinct from [[nominal (word)|nominal]]s.<ref name="Hale 1997">Hale 1997</ref>
+
+====Nominals====
+[[Nominal (word)|Nominal]]s are a semantically and functionally diverse group of [[Inflection|inflected]] items in Lardil. Some of them are 'canonical nouns' which refer to items, people or concepts;<ref name="Hale 1997, 51"/> but many, the stative or attributive nominals, are semantically more like adjectives or other predicates.<ref name="Hale 1997, 51"/> {{lang|lbz|Kurndakurn}} 'dry', {{lang|lbz|durde}} 'weak', and other lexical items with adjectival meanings inflect exactly like other nominals<ref>.Hale 1997, 52</ref> Determiners (e.g. {{lang|lbz|nganikin}} 'that', {{lang|lbz|baldu(u)rr}} 'that (distant) west'<ref name="Leman 1997"/>), are also morphological nominals, as are inherently temporal and spatial [[adverb]]s<ref name="Hale 1997"/> (e.g. {{lang|lbz|dilanthaarr}} 'long ago', {{lang|lbz|bada}} 'in the west'<ref name="Leman 1997"/>).
+
+====Pronouns====
+Lardil has a rich [[Pronoun|pronominal]] system featuring an [[Clusivity|inclusive-exclusive]] plurality distinction, a dual number and generational harmony.<ref>Hale 1997, 53 and Klokeid 1976 108-110</ref>
+
+A 'harmonic' relationship exists between individuals of alternate generations (e.g. grandparent /grandchild); a 'disharmonic' relation is between individuals of consecutive or odd-numbered generations (e.g. parent/child, great-grandparent/great-grandchild).<ref>McKnight 1999, 41-43</ref>
+
+{|class="wikitable" style="text-align: center" width="400"
+|+Lardil pronouns (nominative)<ref>Hale 1997 and Klokeid 1976</ref>
+|-
+!
+! Harmonic
+! Disharmonic
+|-
+| 1
+| {{lang|lbz|ngada}}
+|
+|-
+| 2
+| {{lang|lbz|nyingki}}
+|
+|-
+| 3
+| {{lang|lbz|niya}}
+|
+|-
+| 1du exc. (11)
+| {{lang|lbz|nyarri}}
+| {{lang|lbz|nyaan}}
+|-
+| 1du inc. (12)
+| {{lang|lbz|ngakurri}}
+| {{lang|lbz|ngakuni}}
+|-
+| 2du (22)
+| {{lang|lbz|kirri}}
+| {{lang|lbz|nyiinki}}
+|-
+| 3du (33)
+| {{lang|lbz|birri}}
+| {{lang|lbz|nyiinki}}
+|-
+| 1P exc. (111)
+| {{lang|lbz|nyali}}
+| {{lang|lbz|nyalmu}}
+|-
+| 1P inc. (122)
+| {{lang|lbz|ngakuli}}
+| {{lang|lbz|ngakulmu}}
+|-
+| 2P (222)
+| {{lang|lbz|kili}}
+| {{lang|lbz|kilmu}}
+|-
+| 3P (333)
+| {{lang|lbz|bili}}
+| {{lang|lbz|bilmu}}
+|}
+
+====Uninflected elements====
+[[Uninflected word|Uninflected]] elements in Lardil include:
+* '''Particles''', such as ''nyingkeni'' 'completely gone' or ''niimi'' 'thus, therefore'.<ref name="Leman 1997"/><ref name="Hale 1997, 52">Hale 1997, 52</ref>
+* '''Exclamations''', such as ''may'' (a guilty plea, roughly) and ''bardu'' 'Gotcha!’ (said when something is offered and then snatched away).<ref name="Leman 1997"/><ref name="Hale 1997, 52"/>
+* '''Preverbs''', such as ''bilaa-'' 'tomorrow', and other coverbs.<ref name="Leman 1997"/><ref name="Hale 1997, 52"/>
+* '''Enclitics''', such as ''-kili'', an [[Optative mood|optative]] suffix, as in ''Manme-kili barnjibarn'' 'dry+OPT hat' = "Let (your hat dry)".<ref name="Leman 1997"/><ref name="Hale 1997, 52"/>
+
+===Morphology===
+
+====Verbal morphology====
+Nine basic inflectional endings appear on verbs in Lardil:
+
+The future marker (''-thur'') indicates anticipation/expectation of an event, or, when combined with the particle ''mara'', either the proposed outcome of a hypothetical (If you had done X, I would have Y’ed) or an unachieved intention; it also marks embedded verbs in [[Jussive mood|jussive]] clauses.<ref>Hale 1997, 24</ref>
+
+The (marked) non-future is used primarily in [[dependent clause]]s to indicate a temporal limit to an action.<ref>Hale 1997, 25</ref>
+
+The contemporaneous ending marks a verb in a subordinate clause when that verb's referent action is contemporaneous with the action described in the main clause.<ref>Hale 1997, 27</ref>
+
+The evitative ending, which appears as ''-nymerra'' in objective ([[Oblique case|oblique]]) case, marks a verb whose event or process is undesirable or to be avoided, as in ''niya merrinymerr'' 'He might hear' (and we don't want him to); it is somewhat analogous to English 'lest', though more productive.<ref>Hale 1997, 27-28</ref>
+
+When one imperative follows another closely, the second verb is marked with a Sequential Imperative ending.<ref name="Hale 1997, 29">Hale 1997, 29</ref>
+
+Negation is semantically straightforward, but is expressed with a complex set of affixes; which is used depends on other properties of the verb.<ref>Hale 1997, 28</ref>
+
+Other processes, which may be characterized as [[Derivational morphology|derivational]] rather than [[inflection]]al, express duration/repetition, passivity/[[Reflexive verb|reflexivity]], reciprocality, and [[Causative|causativity]] on the verb.<ref>Hale 1997, 29-31</ref> Likewise, nouns may be derived from verbs by adding the suffix (''-n ~ -Vn''), as in ''werne-kebe-n'' 'food-gatherer' or ''werne-la-an'' 'food-spearer'; the negative counterpart of this is (''-jarr''), as in ''dangka-be-jarr'' (man+bite+neg) 'non-biter-of-people'.<ref>Hale 1997, 31</ref>
+
+====Nominal morphology====
+Lardil nominals are inflected for objective, [[Locative case|locative]] and [[Genitive case|genitive]] cases, as well as future and non-future; these are expressed via endings that attach to the base forms of nominals.
+
+=====Nominative case=====
+The nominative case, which is used with sentence subjects and objects of simple imperatives (such as ''yarraman'' 'horse' in ''Kurri yarraman'' ‘(You) Look at the horse.') is not explicitly marked; uninflected nouns carry nominative case by default.<ref name="Hale 1997, 34">Hale 1997, 34</ref>
+
+=====Objective (oblique) case=====
+The objective case (-n ~ -in) has five general functions, marking:
+
+# the object of a verb in plain (i.e. unmarked non-future) form
+# the agent of a passive verb in plain form
+# the subject of a contemporaneous dependent clause (i.e. a 'while'/'when' clause)
+# the locative complement of a verb in the plain negative or negative [[Imperative mood|imperative]]
+# the object of the sequential imperative (see section on verb morphology above).<ref name="Hale 1997"/> Lardil displays some irregularities in object-marking morphology.<ref name="Hale 1997, 34"/>
+
+=====Locative case=====
+The locative marker (-nge ~ -e ~ -Vː) appears on the locative complement of a verb in plain form.<ref name="Hale 1997, 41-43">Hale 1997, 41-43</ref> The objective case serves this purpose with negative verbs.<ref name="Hale 1997, 41-43"/> Locative case is formed by lengthening the final vowel in instances of vowel-final base forms such as ''barnga'' 'stone' (LOC ''barngaa'').<ref name="Hale 1997, 41-43"/> While the Locative case can denote a variety of locative relations (such as those expressed in English by at, on, in, along, etc.), such relations may be specified using inherently locative nominals (e.g. ''minda'' 'near', ''nyirriri'' 'under') that do not themselves inflect for this case. Nominals corresponding to animate beings tend not to be marked with Locative case; Genitive is preferred for such constructions as ''yarramangan'' 'on the horse' (lit. 'of the horse'). On pronouns, for which case-marking is irregular, Locative case is realized via 'double-expression' of Genitive case: ''ngada'' 'I' > ''ngithun'' 'I(gen) = my' > ''ngithunngan'' 'I(gen)+gen = on me'.<ref name="Hale 1997, 41-43"/>
+
+=====Genitive case=====
+The genitive morpheme (-kan ~ -ngan) marks
+
+# a [[Possession (linguistics)|possessor nominal]]
+# the [[Agent (linguistics)|agent]] of a passive verb in the future, non-future or evitative
+# the pronominal agent of any passive verb
+# the subject of a [[relative clause]], if it is a non-subject in the sentence
+# the subject of a [[Cleft sentence|cleft]] construction in which the [[topic–comment|topic]] is a non-subject (e.g. ''Diin '''wangal''', ngithun thabuji-kan kubaritharrku'' 'This '''boomerang''', my brother made.').<ref>Hale 1997, 43</ref>
+
+=====Future=====
+The object of a verb in future tense (either negative or affirmative) is marked for futurity<ref>Hale 1997, 36</ref> by a suffix (-kur ~ -ur ~ -r), as in the sentence below:
+
+{{interlinear|number=(1)
+|Ngada bulethur yakur.
+|1SG(NOM) catch+FUT fish+FUT
+|'I will catch a fish.'}}
+
+The future marker also has four other functions. It marks:
+# the locative complement ('into the house', 'on the stone') of a future verb
+# the object of a verb in contemporaneous form
+# the object of a verb in the evitative form (often translated as 'be liable to V', 'might V')
+# the [[Dative case|dative]] complement of certain verbs (e.g. ''ngukur'' 'for-water' in ''Lewurda ngukur'' 'Ask him for water').
+
+The instrumental case inflection is [[Homophone|homophonous]] with the future marker, but both may appear on the same nominal in certain instances.<ref>Hale 1997, 36-39</ref>
+
+=====Non-future=====
+The object of a verb in the (negative or affirmative) marked non-future also inflects for non-futurity. The non-future marking (-ngarr ~ -nga ~ -arr ~ -a) is also used to mark time adverbials in non-future clauses as well as the locative complement of a non-future verb.<ref>Hale 1997, 39-41</ref>
+
+=====Verbal case=====
+In addition to these inflectional endings, Lardil features several morphologically verbal affixes that are semantically similar to case markers ("[[verbal case]]") and, like case endings, mark noun phrases rather than individual nouns. [[Allative case|Allative]] and [[Ablative case|ablative]] meanings (i.e. movement to or from) are expressed with these endings; as are the desiderative and a second type of evitave; [[Comitative case|comitative]], proprietive and [[Abessive case|privative]].<ref>Hale 1997, 46-50</ref>
+
+=====Verbalizing suffixes=====
+Lardil nominals may also take one of two derivational (verbalizing) suffixes: the Inchoative (-e ~ -a ~ -ya), which has the sense 'become X', and the Causative (-ri ~ -iri), which has the sense 'make X Y'; other verbalizing suffixes exist in Lardil but are far less productive than these two.<ref>Hale 1997, 50-51</ref>
+
+====Reduplication====
+[[Reduplication]] is productive in verbal morphology, giving a non-future durative with the pattern ''V-tharr V'' (where V is a verb), having the sense 'keep on V-ing', and a future durative with ''V-thururr V-thur''.<ref name="Hale 1997, 29"/>
+
+In some instances nominal roots may be reduplicated, in their entirety, to indicate plurality, but Lardil nominals are not generally marked for number and this form is fairly rare.<ref>Klokeid 1976, 66</ref>
+
+==Syntax==
+Given the rich morphology of Lardil, it is not surprising that its [[word order]] is somewhat flexible; however, the basic sentence order has been described as SVO, with [[Object (grammar)|direct object]] either following or preceding [[Object (grammar)|indirect object]] and other dependents following these.<ref name="Klokeid 1976, 9">Klokeid 1976, 9</ref> Clitics appear clause-second and/or on either side of the verb.<ref name="Klokeid 1976, 9"/>
+
+===Syntax and case assignment===
+Unlike most other Australian Aboriginal languages, Lardil is a non-[[Ergative–absolutive language|ergative]] language.<ref name="Klokeid 1976, 9"/> In an ergative language, the subject of an intransitive verb takes nominative case while the subject of a transitive verb takes ergative case (the object of this verb takes nominative case). In Lardil, subjects of both verb types are inflected for nominative case, and both indirect and direct objects marked for accusative<ref name="Klokeid 1976, 9"/> as in the following sentences:
+
+{{interlinear|number=(1)
+|Ngada kudi kun yaramanin
+|1SG(NOM) see EV horse+AC
+|'I saw a horse.'<ref name="Klokeid 1976, 9"/>}}
+
+{{interlinear|number=(2)
+|Pidngen wutha kun ngimpeen tiin midithinin
+|woman+NOM give EV 2SG(AC) this+AC medicine+AC
+|'The woman gave you this medicine.'<ref name="Klokeid 1976, 9"/>}}
+
+''Kun'', glossed as 'EV', is an '''eventive marker''', marking a verb referring to something that actually occurred or is occurring.
+
+Subjects (i.e. [[Theta role|patients]]) of passive verbs also take nominative case, and their objects (i.e. agents), take accusative,<ref name="Klokeid 1976, 274">Klokeid 1976, 274</ref> as in:
+
+{{interlinear|number=(3)
+|Ngithun wangal yuud wuungii tangan
+|1SG(AC) boomerang+AC PERF steal+R man+AC
+|'My boomerang was stolen by a man.'<ref name="Klokeid 1976, 274"/>}}
+
+Here, R is a maker of reflexivity.
+
+===Part-whole compounds===
+Though part-whole relations are sometimes expressed using the genitive case as in (1) below, it is more common to mark both part and whole with the same case, placing the 'part' nominal immediately after its possessor nominal, as in (2).<ref name="Hale 1997, 45">Hale 1997, 45</ref>
+
+{{interlinear|number=(1)
+|bidngenngan lelka
+|woman+GEN head(NOM)
+|'the woman's head'<ref name="Hale 1997, 45"/>}}
+
+{{interlinear|number=(2)
+|Ngada yuud-latha karnjinin lelkin
+|1SG(NOM) PERF+spear wallaby+OBJ head+OBJ
+|'I speared the wallaby in the head.' (lit. 'I speared the wallaby head')<ref name="Hale 1997, 45"/>}}
+
+==New Lardil==
+While very few speakers of Lardil in its traditional form remain, Norvin Richards and [[Kenneth L. Hale|Kenneth Hale]] both worked with some speakers of a "New Lardil" in the 1990s which displays significant morphological [[Language death|attrition]] compared to the Old variety.<ref name="Hale 1997, 54-56 appendix">Hale 1997, 54-56 (appendix)</ref><ref name=wright2003/> Previously minor sentence forms in which the object of a verb takes nominative case have become generalized, even in instances where the verb is in future tense (objects of future verbs historically inflected for futurity).<ref name="Hale 1997, 54-56 appendix"/> One of a number of negation patterns has become generalized, and the augmented forms of monosyllabic verb roots reinterpreted as base forms.<ref>Hale 1997, 56 (appendix)</ref>
+
+==See also==
+* [[Language death]]
+* [[Stolen generations]]
+* [[Grammatical case]]
+
+==References==
+{{Reflist}}
+
+==Sources==
+* Bowern, Claire and Erich Round. Lectures on Australian Aboriginal languages. Spring 2011. Yale University.
+* Hale, Kenneth L. and D. Nash. 1997. ''Damin and Lardil Phonotactics''.
+* Klokeid, Terry J. 1976. ''Topics in Lardil Grammar''.
+* McKnight, D. 1999. ''People, Countries and the Rainbow Serpent''.
+* Ngakulmungan Kangka Leman and K.L. Hale. 1997. ''Lardil dictionary : a vocabulary of the language of the Lardil people, Mornington Island, Gulf of Carpentaria, Queensland: with English-Lardil finder list.'' Gununa, Qld, Mornington Shire Council. {{ISBN|0-646-29052-5}}
+* Richards, Norvin. ''Leerdil Yuujmen bana Yanangarr (Old and New Lardil)''. MIT, 1997.
+* Round, Erich. Lecture on Kayardild and related languages. 4/7/2011, Yale University.
+* Round, Erich R. 2011 (forthcoming). ''Word final phonology in Lardil: Implications of an expanded data set.'' Australian Journal of Linguistics.
+
+==Further reading==
+*{{Cite thesis |url=https://researchonline.jcu.edu.au/971/2/02whole.pdf |title='We're the mob you should be listening to': Aboriginal Elders talk about community-school relationships on Mornington Island |first=Hilary|last=Bond|date=March 2004|type=PhD|publisher= [[James Cook University]] }}
+* Dixon, R. M. W. 1980. ''The Languages of Australia''.
+* Evans, Nicholas (with [[Paul Memmott]] and Robin Horsman). 1990. Chapter 16: Travel and communication. In P. Memmott & R. Horsman, A changing culture. The Lardil Aborigines of Mornington Island. Social Sciences Press, Wentworth Falls, NSW.
+* Hale, Kenneth L.  1966. ''Kinship Reflections in Syntax: Some Australian Languages'' WORD, 22:1–3, 318–324,
+* Hale, Kenneth L.  1967. ''Some Productive Rules in Lardil'' (Mornington Island) Syntax, pp.&nbsp;63–73 in ''Papers in Australian Linguistics'' No. 2, ed. by C.G. von Brandenstein, A. Capell, and K. Hale. Pacific Linguistics Series A, No. 11.
+* Hale, Kenneth L. . 1973. ''Deep-Surface Canonical Disparities in Relation to Analysis and Change''.
+* Memmott, P., N. Evans and R. Robinsi ''Understanding Isolation and Change in Island Human Population though a study of Indigenous Cultural Patterns in the Gulf of Carpentaria''.
+* Truckenbrodt, Hubert. 2005. "Lardil syllable structure and stray erasure".
+
+{{Pama–Nyungan languages|Macro}}
+{{Australian Aboriginal languages}}
+
+{{DEFAULTSORT:Lardil Language}}
+[[Category:Tangkic languages]]
+[[Category:North West Queensland]]
+[[Category:Endangered indigenous Australian languages in Queensland]]

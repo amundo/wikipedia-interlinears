@@ -1,0 +1,232 @@
+{{Short description|Songhay language of southwestern Niger}}
+{{Infobox language
+| name             = Zarma
+| altname          = Djerma
+| nativename       = ''zarma ciine''
+| region           = southwestern [[Niger]]
+| ethnicity        = [[Zarma people]]
+| speakers         = 3.6 million
+| date             = 
+| ref              = <ref>{{Cite news|url=https://www.ethnologue.com/language/dje|title=Zarma|work=Ethnologue|access-date=2018-04-16|language=en}}</ref>
+| familycolor      = Nilo-Saharan
+| fam2             = [[Songhay languages|Songhay]]
+| fam3             = [[Southern Songhay languages|Southern]]
+| dia1             = [[Songhoyboro Ciine]]
+| iso3             = dje
+| glotto           = zarm1239
+| glottoname       = Zarma-[[Songhoyboro Ciine]]
+| glottorefname    = Zarma-Songhoyboro Ciine
+| notice           = IPA
+| map              = Songhay languages.svg
+| mapcaption       = Location of [[Songhay languages]]<ref>This map is based on classification from Glottolog and data from Ethnologue.</ref><br />
+'''Northwest Songhay:'''
+{{legend|#002b00|[[Korandje language|Korandje]]}}
+{{legend|#008000|[[Koyra Chiini language|Koyra Chiini]]}}
+{{legend|#00ff00|[[Tadaksahak]]}}
+{{legend|#55ff55|[[Tasawaq language|Tasawaq]]}}
+{{legend|#aaffaa|[[Gadal language|Tagdal]]}}
+'''Eastern Songhay:'''
+{{legend|#2b0000|[[Tondi Songway Kiini]]}}
+{{legend|#800000|[[Humburi Senni language|Humburi Senni]]}}
+{{legend|#d40000|[[Koyraboro Senni]]}}
+{{legend|#ff5555|Zarma language}}
+{{legend| #ffff00|[[Songhoyboro Ciine]]}}
+{{legend|#ffaaaa|[[Dendi language|Dendi]]}}
+}}
+
+'''Zarma''' (also spelled '''Djerma''', '''Dyabarma''', '''Dyarma''', '''Dyerma''', '''Adzerma''', '''Zabarma''', '''Zarbarma''', '''Zarmaci''' or '''Zerma''') is one of the [[Songhay languages]]. It is the leading indigenous language of the southwestern lobe of the [[West African]] nation of [[Niger]], where the [[Niger River]] flows and the capital city, [[Niamey]], is located. Zarma is the second-most common language in the country, after [[Hausa language|Hausa]], which is spoken in south-central Niger. With over 2 million speakers, Zarma is easily the most widely spoken Songhay language.
+
+In earlier decades, Zarma was rendered ''Djerma'', using French orthography, but it is usually now 'Zarma', the form that the [[Zarma people]] use in their language.
+
+== Orthography ==
+The Zarma alphabet uses the following letters: [[a]], [[b]], [[c]], [[d]], [[e]], [[f]], [[g]], [[h]], [[i]], [[j]], [[k]], [[l]], [[m]], [[n]], [[ɲ]], [[ŋ]], [[o]], [[p]], [[r]], [[s]], [[t]], [[u]], [[w]], [[y]], [[z]]. Nasal vowels are written with a tilde or a following {{angbr|n}} or {{angbr|ŋ}}. Officially, the tilde should go under the vowel (''so̰ho̰''), but many current works write the tilde over the vowel (''sõhõ'').<ref name=arrete1999>{{cite web |url=http://www.songhay.org/fr/documents/grammaire/Guide_Niger.pdf |title=Arrêté n°0215/MEN/SP-CNRE du 19 octobre 1999 fixant l'orthographe de la langue soŋay-zarma |last=Hamidou |first= Seydou Hanafiou |date= 19 October 1999 |publisher=Département de linguistique et des langues nationales, Institut de Recherches en Sciences Humaines, Université Abdou Moumouni de Niamey |access-date=22 August 2019}}</ref> Also, [[v]] may be used in a few words of foreign origin, but many Zarma cannot pronounce it.
+
+Most of the letters are pronounced with the same values as the [[International Phonetic Alphabet|International Phonetic Alphabet (IPA)]], the exceptions being {{angbr|j}} {{IPAblink|ɟ}} (approximately English ''j'' but more palatalized), {{angbr|y}} {{IPAblink|j}}, {{angbr|r}} {{IPAblink|ɾ}} (a flap). The letter {{IPAalink|c}} is approximately like English ''ch'' but more palatalized. The palatal nasal {{IPAalink|ɲ}} is spelled {{angbr|ny}} in older works.
+
+Long consonants are written with double letters; {{angbr|rr}} is a trilled {{IPAblink|r}}. Long vowels are sometimes but inconsistently written with double letter. In older works, {{IPA|/c/}} was spelled {{angbr|ky}} or {{angbr|ty}}. Both {{angbr|n}} and {{angbr|m}} are pronounced as a labiodental nasal {{IPAblink|ɱ}} before {{angbr|f}}.
+
+[[Tone (linguistics)|Tone]] is not written unless the word is ambiguous. Then, the standard IPA diacritics are used: ''bá'' ("to be a lot": high tone), ''bà'' ("to share": low tone), ''bâ'' ("to want" or "even": falling tone) and ''bǎ'' ("to be better": rising tone). However, the meaning is almost always unambiguous in the context so the words are usually all written ''ba''.
+
+==Phonology==
+=== Vowels ===
+
+There are ten vowels: the five oral vowels ({{IPA|/a/}}, {{IPA|/e/}}, {{IPA|/i/}}, {{IPA|/o/}}, {{IPA|/u/}}) and their [[nasal vowel|nasalized]] counterparts. There is slight variation, both allophonic and dialectal. [[Vowel length]] is phonemically distinctive. There are a number of combinations of a vowel with a semivowel {{IPA|/w/}} or {{IPA|/j/}},  the semivowel being initial or final.
+
+===Consonants===
+{| class="wikitable IPA" style="text-align: center"
+!colspan="2"|
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+!colspan="2"| [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ɲ}}
+| {{IPAlink|ŋ}}
+|
+|-
+!rowspan="2"| [[Stop consonant|Stop]]
+! {{small|[[Voicelessness|voiceless]]}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|c}}
+| {{IPAlink|k}}
+|
+|-
+! {{small|[[Voice (phonetics)|voiced]]}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+|'''j''' /{{IPAlink|ɟ}}/
+| {{IPAlink|g}}
+|
+|-
+!rowspan="2"| [[Fricative consonant|Fricative]]
+! {{small|voiceless}}
+| {{IPAlink|f}}
+| {{IPAlink|s}}
+| ||
+| {{IPAlink|h}}
+|-
+! {{small|voiced}}
+|
+| {{IPAlink|z}}
+| || ||
+|-
+!colspan="2"| [[Approximant consonant|Approximant]]
+| {{IPAlink|w}}
+| {{IPAlink|l}}
+|'''y''' /{{IPAlink|j}}/
+| ||
+|-
+!colspan="2"| [[Flap consonant|Flap]]
+|
+|'''r''' /{{IPAlink|ɾ}}/
+| || ||
+|-
+!colspan="2"| [[Trill consonant|Trill]]
+|
+|'''rr''' /{{IPAlink|r}}/
+| || ||
+|}
+
+The combinations {{IPA|/ɡe/, /ɡi/, /ke/}} and {{IPA|/ki/}} usually have some palatal quality to them and may even be interchangeable with {{IPA|/ɟe/, /ɟi/, /ce/}} and {{IPA|/ci/}} in the speech of many people.
+
+All consonants may be short, and all consonants except /c/, /h/, /f/ and /z/ may be long. (In some dialects, long /f/ exists in the word ''goffo''.)
+
+===Lexical tone and stress===
+Zarma is a tonal language with four tones: high, low, fall and rise. In Dosso, some linguists (such as Tersis) have observed a dipping (falling-rising) tone for certain words: ''ma'' ("the name").
+
+[[Stress (linguistics)|Stress]] is generally unimportant in Zarma. According to Abdou Hamani (1980), two-syllable words are stressed on their first syllable unless that syllable is just a short vowel: a-, i- or u-. Three-syllable words have stress on their second syllable. The first consonant of a stressed syllable is pronounced a bit more strongly, and the vowel in the preceding syllable is weakened. Only emphasized words have a stressed syllable. There is no change of tone for a stressed syllable.
+
+==Morphology==
+=== General ===
+There are many suffixes in Zarma. There are very few prefixes, and only one (''a-/i-'' before adjectives and numbers) is common.
+
+====Nouns====
+Nouns may be singular or plural. There are also three "forms" that indicate whether the noun is indefinite, definite or demonstrative. "Form" and number are indicated conjointly by an [[clitic|enclitic]] on the noun phrase. The singular definite enclitic is -ǒ or -ǎ. Some authors always write the ending with a rising tone mark even if it is not ambiguous and even if it is not truly a rising tone. The other endings are in the table below. The definite and the demonstrative endings replace any final vowel. See Hamani (1980) for a discussion on when to add -ǒ or -ǎ as well as other irregularities. See Tersis (1981) for a discussion of the complex changes in tone that may occur.
+{| class="wikitable"
+|-
+!
+! Indefinite
+! Definite
+! Demonstrative
+|-
+| Singular
+| -∅
+| -ǒ or -ǎ
+| -ô
+|-
+| Plural
+| -yáŋ
+| -ěy
+| -êy
+|}
+
+For example, ''súsúbày'' means "morning" (indefinite singular); ''súsúbǎ'' means "the morning" (definite singular); and ''súsúbô'' means "this morning" (demonstrative singular).
+
+The indefinite plural -yáŋ ending is often used like English "some". ''Ay no leemuyaŋ'' means "Give me some oranges." Usually, the singular forms are used if the plurality is indicated by a number or other contextual clue, especially for the indefinite form: ''Soboro ga ba'' ("There are a lot of mosquitoes"); ''ay zanka hinkǎ'' ("my two children"); ''hasaraw hinko kulu ra'' ("in both of these catastrophes").
+
+There is no gender or case in Zarma so the third-person singular pronoun ''a'' can mean "he", "she", "it", "her", "him", "his", "hers", "its", "one" or "one's", according to the context and its position in the sentence.
+
+===Verbs===
+Verbs do not have tenses and are not conjugated. There are at least three [[grammatical aspect|aspects]] for verbs that are indicated by a modal word before the verb and any object nouns. The aspects are the completive (''daahir gasu''), the incompletive (''daahir gasu si'') and the subjunctive (''afiri ŋwaaray nufa''). (Beginning grammars for foreigners sometimes inaccurately call the first two "past and present tenses".) There is also an imperative and a continuing or progressive construction. Lack of a modal marker indicates either the affirmative completive aspect (if there is a subject and no object) or the singular affirmative imperative (if there is no subject). There is a special modal marker, ''ka'' or ''ga'', according to the dialect, to indicate the completive aspect with emphasis on the subject. Different markers are used to indicate a negative sentence.
+{| class="wikitable" style="text-align:center"
+|+ Modal Markers
+!
+! Affirmative
+! Negative
+|-
+|Completive
+| ∅  ''or''  nà || mǎn  ''or'' màná
+|-
+| Emphasized completive
+|  ka ''or'' ga || mǎn  ''or'' màná
+|-
+| Incompletive
+| ga || sí
+|-
+| Subjunctive
+| mà || mà sí
+|-
+| Progressive
+| go ga || si ga
+|-
+| Singular Imperative
+|  ∅  ||  sí
+|-
+| Plural Imperative
+| wà ||  wà sí
+|}
+
+Linguists do not agree on the tone for ''ga''. Some say that it is high before a low tone and low before a high tone.
+
+There are several words in Zarma to translate the English "to be". The defective verb ''tí'' is used to equate two noun phrases, with the emphasized completive ''ka/ga'', as in ''Ay ma ka ti Yakuba'' ("My name is Yakuba"). The existential ''gǒ'' (negative ''sí'') is not a verb (White-Kaba, 1994, calls it a "verboid") and has no aspect; it means "exist" and usually links a noun phrase to a descriptive term, such as a place, a price or a participle: ''A go fuwo ra'' ("She's in the house"). The predicative ''nô'' means "it is", "they are", etc. and is one of the most common words in Zarma. It has no aspect or negative form and is placed after a noun phrase, sometimes for emphasis: ''Ni do no ay ga koy'' ("It's to your house I'm going"). Other words, such as ''gòró'', ''cíyà'', ''tíyà'' and ''bárà'' are much rarer and usually express ideas, such as the subjunctive, which ''gǒ'' and ''tí'' cannot handle.
+
+Participles can be formed with the suffix ''-ànté'', which is similar in meaning to the past participle in English. It can also be added to quantities to form ordinal numbers and to some nouns to form adjectives. A sort of gerund can be formed by adding ''-yàŋ'', which transforms the verb into a noun. There are many other suffixes that can make nouns out of verbs, but only ''-yàŋ'' works with all verbs.
+
+Two verbs can be related with the word ''ká''. (In many dialects it is ''gá'', not to be confused with the incompletive aspect marker or the emphasized completive marker.) The connector ''ká'' implies that the second verb is a result of the first or that the first is the reason or cause of the second: ''ka ga ŋwa'', "come (in order to) eat." A large number of idiomatic expressions are expressed with it: ''sintin ga ...'' or ''sintin ka'' means "to begin to ...", ''ban ga ...'' means "to have already ...", ''ba ga ...'' means "to be about to ..., ''gay ga ...'' means "it's been awhile since ...", ''haw ga ...'' means "to purposely ..." and so on.
+
+==Syntax==
+Zarma's normal word order is [[subject–object–verb]]. The object is normally placed before the verb but may be placed after the verb for emphasis, and a few common verbs require the object after them. Unlike English, which places prepositions before a noun, Zarma has [[postpositions]], which are placed after the noun: ''fuwo ra'' (in the house), ''fuwo jine'' (in front of the house).
+
+When two nouns are placed together, the first noun modifies the second, showing possession, purpose or description: ''Fati tirǎ'' (Fati's book), ''haŋyaŋ hari'' (drinking water), ''fu meeyo'' (the door of a house). The same construction occurs with a pronoun before a noun: ''ni baaba'' ("your father"). All other modifiers of a noun (adjectives, articles, numbers, demonstratives etc.) are placed after the noun: ''Ay baaba wura muusu boŋey'' ("My father’s gold lion heads", Tersis, 1981).
+
+Here is a proverb in Zarma:
+
+{{interlinear|indent=3
+|top= ''Da curo fo hẽ, afo mana hẽ, i si jinde kaana bay.''
+|da curo fo hẽ, a-fo mana hẽ, i si jinde kaan-a bay
+|if bird one cry, {{gcl|NFP|noun-forming prefix}}-one NEG.COMPL cry, they NEG.{{gcl|INCOMPL|incompletive aspect}} voice good-DEF know
+|"If one bird sings, and another doesn't sing, they won't know which voice is sweetest."}}
+
+That means that "you need to hear both sides of the story".
+
+==References==
+{{reflist}}
+
+==Bibliography==
+*Bernard, Yves & White-Kaba, Mary. (1994) ''Dictionnaire zarma-français (République du Niger)''. Paris: Agence de coopération culturelle et technique
+*Hamani, Abdou. (1980) ''La structure grammaticale du zarma: Essai de systématisation''. 2 volumes. Université de Paris VII. Dissertation.
+*Hamani, Abdou. (1982) ''De l’oralité à l’écriture: le zarma s’écrit aussi''. Niamey: INDRAP
+*Tersis, Nicole. (1981) ''Economie d’un système: unités et relations syntaxiques en zarma (Niger)''. Paris: SURUGUE.
+
+==External links==
+{{wikivoyage|Zarma phrasebook|Zarma|a phrasebook}}
+* [http://www.djerma.nl Cawyan Zarma sanni, an instructional course in Zarma, in English, in progress]
+* [https://web.archive.org/web/20090402153224/http://www.isp.msu.edu/AfrLang/Songhai_root.html Songhai / Zarma Language Page, ''Handbook of African languages'']
+* [http://www.bisharat.net/Zarma/ Peace Corps – Niger: Zarma Dictionary]
+* [http://www.djerma.nl/ Zarma language and culture]
+* [https://web.archive.org/web/20070930205458/http://www.websters-online-dictionary.org/translation/Zarma/ Zarma Dictionary]
+* [http://www.websters-online-dictionary.org Webster's Dictionary]
+* [https://web.archive.org/web/20110721060959/http://multimedia.peacecorps.gov/multimedia/audio/languagelessons/niger/NE_Zarma_Language_Lessons.pdf Zarma language lessons, and MP3]
+
+{{Languages of Niger}}
+{{Songhay languages}}
+
+{{Authority control}}
+
+[[Category:Languages of Niger]]
+[[Category:Songhay languages]]

@@ -1,0 +1,2546 @@
+{{Short description|Grammatical rules of the Lithuanian language}}
+{{More citations needed|date=January 2009}}
+'''Lithuanian grammar''' retains many archaic features from [[Proto-Balto-Slavic]] that have been lost in other [[Balto-Slavic languages]], and is consequently very complex.
+
+==Properties and morphological categories==
+
+===Grammatical terminology===
+The following is a list of Lithuanian terms for properties and morphological categories, with their English translations or equivalents:
+:{| class="wikitable"
+|-
+!rowspan="2" scope="col" | Category 
+!colspan="2" scope="col" | Language 
+|-
+! Lithuanian 
+! English
+|-
+!rowspan="11" scope="row" | [[Lexical category|Parts of speech]]
+| daiktavardis || [[noun]]
+|-
+| būdvardis || [[adjective]]
+|-
+| veiksmažodis || [[verb]]
+|-
+| skaitvardis || [[Numeral (linguistics)|numeral]]
+|-
+| įvardis || [[pronoun]]
+|-
+| prieveiksmis || [[adverb]]
+|-
+| dalelytė || [[Grammatical particle|particle]]
+|-
+| prielinksnis || [[preposition]]
+|-
+| jungtukas || [[Grammatical conjunction|conjunction]]
+|-
+| jaustukas || [[interjection]]
+|-
+| ištiktukas || [[verbal interjection]]
+|-
+!rowspan="7" scope="row" | Main [[Grammatical case|cases]] (liñksniai)
+| vardininkas || [[Nominative case|nominative]]
+|-
+| kilmininkas || [[Genitive case|genitive]]
+|-
+| naudininkas || [[Dative case|dative]]
+|-
+| galininkas || [[Accusative case|accusative]]
+|-
+| įnagininkas || [[Instrumental case|instrumental]]
+|-
+| vietininkas || [[Inessive case|inessive]]
+|-
+| šauksmininkas || [[Vocative case|vocative]]
+|-
+!rowspan="3" scope="row" | Locative cases
+| iliatyvas, kryptininkas || [[Illative case|illative]]
+|-
+| aliatyvas || [[Allative case|allative]]
+|-
+| adesyvas || [[Adessive case|adessive]]
+|-
+!rowspan="3" scope="row" | [[Grammatical number|Number]] (skaĩčiai)
+| vienaskaita || singular
+|-
+| dviskaita || dual
+|-
+| daugiskaita || plural
+|-
+!rowspan="3" scope="row" | [[Degrees of comparison]] (láipsniai)
+| nelyginamasis || positive
+|-
+| aukštesnysis || comparative
+|-
+| aukščiausiasis || superlative
+|-
+!rowspan="2" scope="row" | [[Grammatical gender|Genders]] (gìminės)
+| vyriškoji || masculine
+|-
+| moteriškoji || feminine
+|-
+!rowspan="4" scope="row" | [[Grammatical tense|Tenses]] (laikaĩ)
+| esamasis || present
+|-
+| būtasis kartinis || past
+|-
+| būtasis dažninis || past iterative
+|-
+| būsimasis || future
+|-
+!rowspan="4" scope="row" | [[Grammatical moods|Moods]] (núosakos)
+| tiesioginė || indicative
+|-
+| netiesioginė || indirect
+|-
+| tariamoji || conditional (subjunctive)
+|-
+| liepiamoji || imperative
+|-
+!rowspan="2" scope="row" | [[Grammatical voice|Voices]] (rū́šys)
+| veikiamoji || active
+|-
+| neveikiamoji || passive
+|-
+!rowspan="2" scope="row" | [[Grammatical aspect|Aspects]] (veikslaĩ)
+| įvykio || perfective
+|-
+| eigos || continuous, progressive
+|}
+
+===Gender===
+
+Lithuanian nouns are classified into one of two [[gender (linguistics)|gender]]s:
+*[[masculine gender|masculine]]
+*[[feminine gender|feminine]]
+
+Lithuanian adjectives, numerals, pronouns and participles are classified into one of three [[gender (linguistics)|gender]]s:
+
+*[[masculine gender|masculine]]
+*[[feminine gender|feminine]]
+*[[neutral gender|neuter]]
+
+Since no noun can have a neutral gender, it is used with [[Subject (grammar)|subjects]] of neutral or undefined gender:
+
+*Ji ({{abbr|fem.|feminine}}) yra graži ({{abbr|fem.|feminine}}) – She is beautiful.
+*Mokytojas ({{abbr|masc.|masculine}}) bus pasirengęs ({{abbr|masc.|masculine}}) – The teacher will be ready.
+*Skaityti buvo įdomu (''neuter'') – Reading was interesting.
+
+The gender of a pronoun '''kas''' – 'who? what?', personal pronouns '''aš''' / '''mes''' – 'I' / 'we', '''tu''' / '''jūs''' – 'you (singular) / you (plural)' and a [[reflexive pronoun]] '''savęs''' is indefinite, it means any of the genders. The word ''kas'' uses masculine inflections, the other pronouns have their own specific paradigm. The nouns of the indefinite gender have feminine form inflections.
+
+The masculine gender is also the [[gender (linguistics)#Contextual determination of gender|indeterminate gender]] as in many other Indo-European languages. This means that for an entire mixed group of objects belonging to masculine and feminine genders, the masculine gender is used.<ref>In some languages like [[Icelandic language|Icelandic]] neuter is used in such cases.</ref> The masculine as the indeterminate gender differs from the indefinite gender, which allows treatment of the word in two ways.
+
+Note that there are many nouns that use masculine or feminine genders without any reason of [[gender|biological gender]], for instance, words that denote inanimate objects. The masculine or feminine usage of these words is stable (with few exceptions) and doesn't depend on the will of a speaker.
+
+Lithuanian grammatical genders are similar to, for instance, Latin:
+:{| class="wikitable" style="line-height: 1.4em;"
+|- valign=top
+| ''nominative&nbsp;&nbsp;&nbsp;<br /><br />genitive'' || vilkas<br /><small>wolf</small><br />vilko || kalba<br /><small>language</small><br />kalbos || prekė<br /><small>commodity</small><br />prekės<br /> || pilis<br /><small>castle</small><br />pilies || viršus<br /><small>top</small><br />viršaus<br /> || akmuo<br /><small>stone</small><br />akmens || girdė́tas, girdė́ta, girdė́ta<br /><small>heard; gender sequence: {{abbr|m.|masculine}}, {{abbr|f.|feminine}}, {{abbr|n.|neuter}}</small><br />girdė́to, girdė́tos<br /><small>from girdė́ti – to hear (continuing, imperfective action)</small> || ìšgirstas, išgirstà, ìšgirsta<br /><small>heard</small><br />ìšgirsto, išgirstõs<br /><small>from išgir̃sti – to hear (one-time, perfective action)</small>
+|- valign=top
+| ''nominative&nbsp;&nbsp;&nbsp;<br /><br />genitive'' || lupus<br /><small>wolf</small><br />lupī || lingua<br /><small>language</small><br />linguae || rēs<br /><small>thing</small><br />reī || turris<br /><small>tower</small><br />turris|| frūctus<br /><small>fruit</small><br />frūctūs || acūmen&nbsp;{{abbr|n.|neuter}}<br /><small>sharp point</small><br />acūminis<br /> || audītus, audīta, audītum<br /><small>heard, listened; from audīre [http://en.wiktionary.org/wiki/audio#Latin] – to hear, listen</small><br />audītī, audītae, audīta
+|}
+
+===Grammatical number===
+
+The Lithuanian language has two main [[grammatical number|numbers]], [[singular number|singular]] and [[plural number|plural]]. It has also a [[dual (grammatical number)|dual number]], which is used in certain dialects, such as [[Samogitian dialect|Samogitian]]. Some words in the standard language retain their dual forms (for example ''du'' ("two") and ''abu'' ("both"), an indefinite number and super-plural words (''dauginiai žodžiai'' in Lithuanian). Dual forms of pronouns used in the standard language are also optional.
+
+The singular number indicates that the denoted thing is one or indivisible (as in méilė – love, smė̃lis – sand, píenas – milk). The plural number, when it can be in contrast with the singular, indicates that there are many of the things denoted by the word. But sometimes, when a word doesn't have the singular number, being a [[plurale tantum]] noun, the plural form doesn't indicate real singularity or plurality of the denoted object(s).
+
+Adjectives and numerals also have the singular-plural distinction. Their number depends on that of the noun they are attributed to.
+
+The dual number indicates a pair of things. Historically, the dual number has been a full grammatical number, participating as the third element in singular-dual – plural distinction. During the last century,{{Clarify|date=March 2018}} the dual was used more or less sporadically in Lithuanian, sometimes reaching the status of a full number for agreement purposes, meaning the dual of noun required dual agreement in its adjectives or the dual of the subject required the dual of the verb. But in many more cases the dual was reduced to a nominal category explicitly indicating a pair of things, but not requiring dual agreement of adjectives or verbs. Presently, the dual is mostly used as a declension paradigm for numbers du – two, abu – both (and a variant abudu – idem) and with personal pronouns aš – I, mùdu {{abbr|du.|dual}} – we two (mẽs {{abbr|pl.|plural}} – we) and tu {{abbr|sg.|singular}} – you, jùdu {{abbr|du.|dual}} – you two (jū̃s {{abbr|pl.|plural}} – you).
+
+:{|
+|-
+| colspan=4| dual || || colspan=4| plural
+|-
+| ''present'' || ''past'' || ''future'' || ''imperative'' || || ''present'' || ''past'' || ''future'' || ''imperative''
+|-
+| eĩnava – we two are going; we two go || ė̃jova || eĩsiva || eĩkiva – let us two go || || eĩname || ė̃jome || eĩsime || eĩkime – let us go
+|-
+| eĩnata – you two are going; you two go || ė̃jota || eĩsita || eĩkita – you two go || || eĩnate || ė̃jote || eĩsite || eĩkite
+|-
+| colspan=4| || || colspan=4| singular
+|-
+| colspan=4 rowspan=2| || || einù || ėjaũ || eĩsiu ||
+|-
+| || einì || ėjaĩ || eĩsi || eĩk – go
+|}
+
+The indefinite number indicates that the same form of the word can be understood singular or plural, depending both on situation and on other words in the sentence. There are only few words that demonstrate indefinite number, and the indefinite number doesn't have its own forms in Lithuanian. These words are pronouns ''kas'' – 'who? what?', ''kažkas'' – 'something, somebody' and [[reflexive pronoun]] ''savęs''. All of them use inflections of the singular.
+
+The super-plural words are a few numbers and pronouns that indicate a counting not of separate things, but of groups of things.
+
+:keleri – 'several (groups of)'
+:abeji – 'both (groups of)'
+:(vieneri – 'one (group of)')
+:dveji – 'two (groups of)'
+:treji – 'three (groups of)'
+:ketveri – 'four (groups of)'
+:penkeri – 'five (groups of)'
+:šešeri – 'six (groups of)'
+:septyneri – 'seven (groups of)'
+:aštuoneri – 'eight (groups of)'
+:devyneri – 'nine (groups of)'
+
+These words are also used with plurale tantum nouns instead of plural words (''keli'', ''abu'', ''du'', ''trys'' and so on), in which case they indicate not the plural of groups, but just the semantic plural or singular (a word ''vieneri'' – 'one' only) of the noun.
+
+===Cases of declined words===
+{{main|Lithuanian declension}}
+
+* [[Nominative]] – vardininkas
+* [[Genitive]] – kilmininkas; it also functions similarly to the [[ablative]] case in other languages.
+* [[Dative case|Dative]] – naudininkas
+* [[Accusative case|Accusative]] – galininkas
+* [[Instrumental case|Instrumental]] – įnagininkas
+* [[Locative case|Locative cases:]]
+:* [[Locative]] (inessive) – vietininkas
+:* [[Illative]] – (iliatyvas, sometimes referred as kryptininkas); dialectal, without clear status in the standard Lithuanian
+:* [[Allative]]; obsolete, the singular is reduced to adverbs
+:* [[Adessive]]; extinct
+* [[Vocative]] – šauksmininkas
+
+Examples of the locative cases:
+*[[inessive]] is fully used locative case (and the only one of Indo-European origin, the following three being borrowed to Uralic). An example: nãmas – a house, namè – in a house, vyruose – in men. It is also used for a temporal meaning in some words: vakarè {{IPA|[vɐkɐrʲˈɛ]}} – in the evening (vãkaras {{IPA|[ˈväːkɐrɐs̪]}} {{abbr|nom.|nominative}} 'an evening'). But more verbs are used in accusative for the latter meaning: vãsarą – in summer, rùdenį – in autumn, trẽčią vãlandą – in three o'clock. This accusative form also means duration: trečią dieną kepina {{IPA|[ˈtʲrʲæːt͡ʃʲæː ˈdʲiən̪äː ˈkʲæːpʲɪn̪ɐ]}} (kepina is idiomatic or slang in such meaning) – it is the third day when it (sun) sizzles (its heat). Plural forms for temporal "locatives" are expressed by instrumental: vakaraĩs – in / by evening, vãsaromis – in / by summer.
+*[[illative]] is used sparingly. Some terms are normal, for example, in law: patráukti baudžiamõjon atsakomýbėn – to prosecute; literally: to draw, pull, move to penal amenability (not į (''to'')  baudžiamają atsakomybę {{abbr|acc.|accusative}}, not (''for'') baudžiamajai atsakomybei ''dative''). Other examples: singular káiman – to(wards) the village, miškañ – to(wards) a forest, and forms of the common language į káimą, į mìšką; plural káimuos-na, miškúos-na and common forms į káimus, į miškùs;
+*[[allative]]. Examples: namop – up to the home. Today it is used only in a few idiomic expressions like vakaróp – about nightfall, velnióp – to hell with smth.; šuniop – down the drain (about dog, to a dog); galóp – ultimately; nuteisti myriop – to send to the scaffold;
+*[[adessive]]. Examples: laukíe-p {{abbr|sg.|singular}} – beside the field, at the field, namíe-p {{abbr|sg.|singular}}. It is a historical or dialectal case, extinct in modern standard Lithuanian, but it is preserved in the adverbs: namie – at home, netoli(e) – far, toli(e) – Not far, arti(e) – nearby, vienaip ar kitaip – anyway, savaip – in one's own fashion/way, tavaip – in your ({{abbr|sg.|singular}}) fashion/way, visaip – diversely. etc.
+
+The later three locatives are adverb-forming cases.
+
+==Nouns==
+{{see also|Lithuanian declension}}
+
+Lithuanian grammar makes a distinction between [[Noun#Proper nouns and common nouns|proper]] and [[Noun#Proper nouns and common nouns|common noun]]s. Only proper nouns are capitalized. Some nouns, for example sun and moon, can be both proper and common. There are no articles in Lithuanian.
+
+The genders of nouns are [[masculine gender|masculine]] and [[feminine gender|feminine]]. A rough rule of thumb is that almost all masculine nouns in nominative case end in ''-s'' and most feminine – in ''-(i)a'' or ''-ė''. There are no strict rules governing the gender. For example, upė – river, is feminine, but upelis – rivulet, is masculine. There is no neuter gender ("[[It (pronoun)|it]] gender"), but there are a few words that can be applied to both genders equally. They mostly describe people, have negative connotations, and end in ''-a'', for example vė́pla – dummy, el̃geta – beggar, naktìbalda – night-lumberer, a person who does not sleep at night, but mėmė̃ – gawk.
+
+There are no separate declension paradigms for animate and inanimate nouns in Lithuanian.
+
+===Number===
+Most nouns have [[Grammatical number|singular]] and [[plural|plural numbers]]. There are some words that have only singular (e.g., pienas – ''milk'', auksas – ''gold'', gripas – ''flu'', laimė – ''happiness'') or only plural (e.g., lubos – ''ceiling'', miltai – ''flour'', kelnės – ''trousers'') forms. Most such words are abstract (i.e., represent concepts like ''luck'' or ''love'' and not tangible things such as ''table'' or ''house''), describe material or name a disease. However, in some instances, for example poetic language, it is possible to use singular nouns in plural form.
+
+====Noun modification by numeral====
+In Lithuanian, unlike in Romance / Germanic languages, and like Slavic languages but in a different way, the form of a [[count noun]] depends on ''final digits'' of the number.
+
+:{| class="wikitable"
+! Number ends with
+! Form
+! Example
+|-
+| 1 (excluding 11)
+| Singular
+| 31 [[Lithuanian litas|litas]]
+|-
+| 2–9 (excluding 12–19)
+| Plural
+| 25 litai
+|- valign=top
+| 0 or 11–19
+| '''Special case:''' <!-- definitely not "paucal": without quantifier, meaning would be lost --><br />Singular + noun<br /> in plural genitive
+| 110 litų
+111 litų
+|}
+
+Note: Plural or singular without the case means that the word or words can be declined in any case in plural or singular respectively, but Plural genitive means, that the second word remains undeclined.
+
+===Declension===
+{{main|Lithuanian declension}}
+
+Nouns in Lithuanian language have 12 declension paradigms, in scholar grammar corresponding to five [[declension]]s which are defined by the [[inflection]] in singular nominative and genitive cases. Only few borrowed words, like taksì – taxi, kupė – compartment (in a train), coupe, are not subject to declension rules.
+:{| class=wikitable style="text-align: left;"
+|- valign=top style="background: #efefef;"
+| rowspan=2| &nbsp; || colspan=2| Inflection in singular cases || colspan=3 width="300px" | Examples || rowspan=2| Notes
+|- style="background: #efefef;"
+| width="80px"| Nominative || width="80px"| Genitive || width="80px"| Nominative || width="80px"| Genitive || width="160px"| Meaning
+|- valign=top
+|I || -as, -is, -ys || -o || výras<br />mẽdis<br />traukinỹs<br />kẽlias || výro<br />mẽdžio<br />tráukinio<br />kẽlio || man, male; husband<br />tree<br />train<br />road || Main pattern for masculine nouns.
+|- valign=top
+|II || -a, -i<sup>1</sup>, -ė || -os, -ės || žmonà<br />šviesà<br />várna<br />pradžià<br />sáulė || žmonõs<br />šviesõs<br />várnos<br />pradžiõs<br />sáulės || wife<br />light<br />crow<br />beginning<br />sun || Main pattern for feminine nouns; few masculine exceptions.
+|- valign=top
+|III || -is<sup>2</sup> || -ies || móteris<sup>3</sup> {{abbr|f.|feminine}}<br />pilìs {{abbr|f.|feminine}}<br />avìs {{abbr|f.|feminine}}<br />dantìs {{abbr|m.|masculine}} || móteries<br />piliẽs<br />aviẽs<br />dantiẽs || woman, female<br />castle<br />sheep<br />tooth || Rarer; feminine nouns; fewer masculine exceptions.
+|- valign=top
+|IV || -us || -aus || žmogùs<br />sūnùs<br />medùs<br />skaĩčius || žmogaũs<br />sūnaũs<br />medaũs<br />skaĩčiaus || man (human being)<br />son<br />honey<br />number || Rare; masculine nouns.
+|- valign=top
+| V || -uo, -ė<sup>3</sup> || -en-s, -er-s {{abbr|f.|feminine}}  || vanduõ<br />akmuõ<br />skaitmuõ<br />sesuõ<br />duktė̃ || vandeñs<br />akmeñs<br />skaitmeñs<br />seser̃s<br />dukter̃s || water<br />stone<br />digit<br />sister<br />daughter || Very rare; masculine nouns; four<sup>3</sup> feminine; all are suffixed by -en- {{abbr|m.|masculine}} and -er- {{abbr|f.|feminine}}.
+|}
+{{ref begin}}
+# There are only two nouns ending in -i: pati 'wife' and marti 'daughter-in-law'. Their declension is the same to the second adjective feminine declension and similar to a second feminine noun palatalized declension. The noun pati is the same to a pronoun pati 'herself; myself {{abbr|f.|feminine}}; itself (for feminine nouns)'
+# Exception: petys {{abbr|m.|masculine}} – shoulder, peties, etc., after this declensional pattern. The third declension is very similar to the fifth declension.
+# Duktė 'daughter' is the only word of the fifth declension, not having an ending uo. A word moteris 'woman, female' often has a genitive móters; the plural genitive of moteris is moterų (not palatalized -ių); it is the only normal form for the fifth declension and one of the two (the main is -ių) for the third. The more two words, obelis {{abbr|f.|feminine}} – apple tree and dieveris {{abbr|m.|masculine}} – (older) brother-in-law, are the same declensional case as moteris, but dieveris, being masculine possibly has a {{abbr|sg.|singular}} {{abbr|inst.|instrumental}} -iu. Dieveris is also the only -er- masculine case.
+{{ref end}}
+
+===Typology===
+In the table below the numbers of nouns, received by the statistical analysis of the data in the Dictionary of contemporary Lithuanian language (Dabartinės Lietuvių kalbos žodynas; the fourth issue, 2000), are given grouped by the patterns of declension and accentuation.<ref name="Types">{{Citation | title = Naujas požiūris į lietuvių kalbos linksniavimo tipus […]  | url = http://www.ceeol.com/aspx/getdocument.aspx?logid=5&id=87195CA9-97D7-11DA-8299-005022B04780 | journal = Acta Linguistica Lithuanica | pages = 3, 6–7, 10–16, 17–18; 16 | year = 2004 |language=lt}}</ref> The data does not include verbal abstracts ending in -imas, -ymas, -umas (for instance, metimas 'a throwing; a throw' from mesti 'to throw'); 18,700 in numbers (12,000 of the first accentuation paradigm, 6,000 of the second), because they can be made from any verb. There may be some inaccuracies due to some specific features, for instance, there are homonyms, which differ only in an accent: síetas 1 – sieve (related to sijóti – to sieve), siẽtas 2 – tether, leash (related to siẽti – to tie, bond; saĩtas – bond; leash), and the possibility exists that in some of such cases the two words were taken as one.
+
+Words with a suffix -men-, are attributed to the third declensional pattern in these tables, but they are of the fifth, the singular (can be used for all, but is not usual for all) {{abbr|nom.|nominative}} is -uo: for example, ãšmenys {{abbr|pl.|plural}} 3b – blade, sė́dmenys {{abbr|pl.|plural}} 3a – buttocks, nates, sėdmuõ {{abbr|sg.|singular}}, nẽšmenys {{abbr|pl.|plural}} 3b – silts, sediments carried by a water stream. The singular instrumental is -imi, like in the third declension, while for masculine words of the fifth declension the proper ending is chosen to be -iu; but -imi can also be chosen for the words of the fifth declension.
+
+{{col-begin|width=auto}}
+{{col-break}}
+:{| class="wikitable" style="line-height: 1.1em; text-align: right; background: #FFFFFF;"
+|-
+| width=50| || || width=30| 1 || width=30| 2 || width=30| 3 || width=30| 3a || width=30| 3b || width=30| 34a || width=30| 34b || width=30| 4 || width=30| alt. || width=30| all
+|-
+| align=left| -as || rowspan=5| || 1907 || 3499 || 90 || 35 || 393 || 48 || 5 || 340 || 94 || 6411
+|- valign=top
+| align=left| -j-as || rowspan=2| 921 || rowspan=2| 16 || || rowspan=2| || rowspan=2| || rowspan=2| || rowspan=2| || 4 || rowspan=2| || rowspan=2| 944
+|-
+| align=left| -ias || 1 || 2
+|-
+| align=left| -is || 3085 || 2188 || || || || || || || 22 || 5295
+|-
+| align=left| -ys || || || 16 || 192 || 581 || 48 || 25 || 282 || 102 || 1246
+|- valign=top
+| rowspan=3 align=left| -a || align=left| {{abbr|f.|feminine}} || 1571 ||635 ||19 ||58 ||369 ||16 ||1 ||405 ||26 ||3100
+|-
+| align=left| {{abbr|m.|masculine}} || 1 || 11 || || || || || || || || 12
+|-
+| align=left| c ||207 ||32 ||3 ||1 ||6 || || ||16 || 1 || 266
+|- valign=top
+| align=left| -j-a || rowspan=2| || rowspan=2| 1821 || rowspan=2| 114 || rowspan=2| || rowspan=2| || rowspan=2| 22 || rowspan=2| || rowspan=2| || rowspan=2| 43 || rowspan=2| 5 || rowspan=2| 2005
+|-
+| align=left| -ia
+|- valign=top
+| rowspan=3 align=left| -ė || align=left| {{abbr|f.|feminine}} || 2668 || 2895 || 14 || 30 || 125 || 14 || 1 || 202 || 59 || 6008
+|-
+| align=left| {{abbr|m.|masculine}} || || 4 || || || || || || || || 4
+|-
+| align=left| c || 2 || 6 || || || 7 || || || 4 || || 19
+|- valign=top
+| align=left rowspan=3| -is || align=left| {{abbr|f.|feminine}} || 50 || 2 || 7 || 10 || 76 || 1 || || 99 || 10 || 255
+|-
+| align=left| {{abbr|m.|masculine}} || 1 || 1 || 2 || 6 || 10 || || 1 || 3 || 3 || 27
+|-
+| align=left| c || || || || || 3 || || 1 || 1 || 3 || 8
+|-
+| align=left| -us || rowspan=3| || || 7 || 2 || || || || || 10 || || 19
+|- valign=top
+| align=left| -j-us || 184 || rowspan=2| 314 || rowspan=2| || rowspan=2| || rowspan=2| || rowspan=2| || rowspan=2| || rowspan=2| || rowspan=2| 1 || rowspan=2| 504
+|-
+| align=left| -ius || 2
+|-
+| align=left| -uo || || || || || 23 || 38 || 1 || || || 1 || 63
+|}
+{{col-break|gap=2em}}
+The numbers in the upper row mean [[Lithuanian accentuation#Nouns|accentuation types]]. For the third type the additional information is given in dictionaries. The mark 3 without the letter added, is for words, stressed in the next-to-last syllable. The letter after is for polysyllabic words and says what type of stress the syllable has in those cases where the stress falls on the stem (other cases receive it on the ending) and how distant from the ending the syllable stressed is. The letter ''a'' is for a start-firm (tvirtapradė priegaidė) accent and the letter ''b'' – for an end-firm (tvirtagalė priegaidė) and short stressed vowel. The single digit with a letter means that the stress falls on the third syllable from the ending; if the stress falls on the fourth syllable from the ending, the mark is 34a or 34b, there are also nouns having stress in the fifth (35a, 35b) and sixth (36b) syllable from the ending. Here are a few examples of the nouns of the third accentuation pattern, the singular nominative and the plural dative and accusative cases: akmuõ, akmenìms, ãkmenis; áugalas, augaláms, áugalus; žándas, žandáms, žándus. The first declension also includes nouns stressed in the more distant from the ending syllable than the next-to-last, but their stress is steady through the cases and is always clear from the nominative singular.
+{{col-end}}
+In the left column the nominative singular endings of words, grouped by declensional paradigms, are written: -as, -is, -ys, -ias (masculine gender) – the first; -a (-ia), -ė (feminine gender; some other) – II; -is (feminine, some other) – III; -us (-ius) (masculine) – IV; -uo (masculine; two feminine) – V. The palatalized variants of -as, -a, -us types, that is, -ias, -ia, -ius, are counted together with those having -j- before the inflectional ending: -j-as, -j-a, -j-us.
+
+The letters {{abbr|f.|feminine}}, {{abbr|m.|masculine}}, {{abbr|c.|common}} mean gender: {{abbr|f.|feminine}} – feminine, {{abbr|m.|masculine}} – masculine, {{abbr|c.|common}} – common (is understood as either of the genders). The column under the abbreviation alt. is for alternative forms, for instance, a word grobuonis 2, 3a {{abbr|c.|common}} – predator (of the third declension), can be accentuated in two types: (2) grobuõnis, grobuõnies, grobuõniui; (3a) grobuonìs, grobuoniẽs, gróbuoniui.
+
+:{| class="wikitable" style="background: #FFFFFF;"
+|-
+| || width=200| '''-as''' || width=140| '''-j-as''' || width=180| '''-is''' || width=130| '''-ys''' || width=100| '''-ias'''
+|- valign=top
+| 1. || výras – man, male, pienas – milk, skruostas – cheek || vė́jas – wind, šilójas – heather, ling; veikė́jas – agent, actor, vartótojas – consumer || brólis – brother, sotis – satiety, gruodis – December, kūjis – hammer, dilbis – forearm, jautis – bull, ox, pojūtis – sense, sensation || &nbsp;– || élnias – deer (also accented el̃nias 2)
+|- valign=top
+| 2. || sõdas – garden, metas – specific time (to do smth, for smth), padas – sole, metatarsus, ginklas – weapon, varžtas – screw, kuras – fuel || galvijas – cow (cattle); yahoo, šalavijas – salvia, sage || žõdis – word, skonis – taste, lygis – level, kelis – knee, medis – tree, valgis – dish, meal, karštis – heat || &nbsp;– ||
+|- valign=top
+| 3. || stógas – roof, óras – weather, žándas – face part down from cheekbone, kalnas – mountain, beržas – birch, aidas – echo, augalas – plant || &nbsp;– || &nbsp;– || arklỹs – horse, pavyzdỹs – example, obuolỹs – apple || (1) vélnias – devil
+|- valign=top
+| 4. || krãštas – region; edge, strazdas – trush, ledas – ice, penas – food, pabulum, sniegas – snow, vardas – name, kulnas – heel, laikas – time, dugnas – bottom || (4) kraũjas – blood, pelėjaĩ {{abbr|pl.|plural}} – molds (fungi), kapojaĩ {{abbr|pl.|plural}} – chaffed fodder, klijaĩ {{abbr|pl.|plural}} – glue || &nbsp;– || kepsnỹs – roast, fry, genỹs – woodpecker, vabzdỹs – insect || (2) kẽlias – road, svẽčias – guest
+|}
+
+:{| class="wikitable" style="background: #FFFFFF;"
+|-
+| || width=380| '''-a (-ia)''' || width=390| '''-ė'''
+|- valign=top
+| 1. || vė́tra – windstorm, scud, pė́da 3 – foot, lova – bed, lūpa – lip, líepa – linden, July; duona – bread, spurga – doughnut, kaina – price, koja – leg, pérėja – crosswalk, vartótoja – user || dróbė – linen, dìldė – rasp, kárvė – cow, pagálvė – pillow, vaivórykštė – rainbow, daržóvė – vegetable
+|- valign=top
+| 2. || rankà – hand, arm, putà – froth, vietà – place, valià – will, galià – power || brãškė – strawberry, žẽmė – earth, prẽkė – commodity, piẽnė – sowthistle, vìrvė – rope, raidė (3, 4) – letter, ùpė – river, bìtė – bee, pùsė – side, half, striùkė – jacket
+|- valign=top
+| 3. || galvà – head, burnà – mouth, pėdà 1 – foot, apačià – bottom, underpart || versmė̃ – fount, spring, varškė̃ – curd, aikštė̃ – square, plaza
+|- valign=top
+| 4. || vėsà – chill, dienà – day, lentà – board, wood cut, dainà – song, pradžià – beginning || srovė̃ – stream, kėdė̃ – chair, dėžė̃ – box, vertė̃ – value, erdvė̃ – space, eilė̃ – queue, row
+|}
+
+:{| class="wikitable" style="background: #FFFFFF;"
+|-
+| || width=150px| '''-is''' || width=150px| '''-uo''' || width=150px| '''-us''' || width=150px| '''-ius''' || width=150px| '''-j-us'''
+|- valign=top
+| 1. || nósis – nose, krósnis; ''masculine'': (1) gẽležuonys {{abbr|pl.|plural}} – adenitis equorum, strangle || rė́muo 1 (also rėmuo 3a) – waterbrash || there is one proper word: Jė́zus – Jesus || (2) ámžius – age, stálčius – drawer (furniture); there is also one proper word: Vìlnius || rytójus – tomorrow, kritèrijus – criterion
+|-  valign=top
+| 2. || dùrys {{abbr|pl.|plural}} – door, gaĩštis – dallying; ''masculine'': (1) pirmuõnys {{abbr|pl.|plural}} (also deguõnis – oxygen; deguonis 3b is a rarer variant) || &nbsp;– || (7) Tur̃gus – market place, cùkrus – sugar || sõdžius – village, vaĩsius – fruit, bal̃džius – furniture maker || pavõjus – danger
+|- valign=top
+| 3. || širdìs – heart, obelìs – apple tree, smegenys {{abbr|pl.|plural}} – brain; ''masculine'': (19) debesìs – cloud, žvėrìs – beast || akmuõ – stone 3b, vanduõ – water 3a || (2) sūnùs – son, lietùs – rain || &nbsp;– || &nbsp;–
+|- valign=top
+| 4. || naktìs – night, žuvìs – fish, sritìs – area, district, vinìs – nail, spike, pirtìs -, šalìs, griñdys – floor, flooring; ''masculine'': (3) dantìs – tooth, petỹs – shoulder, ropuonìs – reptile (used word is roplỹs 4) || (1) šuõ – dog || (10) medùs, alùs, viršùs, vidùs, piẽtūs {{abbr|pl.|plural}} – dinner; the south || &nbsp;– || &nbsp;–
+|}
+
+;The first declension, -as, -is, -ys, -ias.
+*Names of -as type have vocative -ai instead of -e of common nouns: Jõnas – Jõnai, Tòmas – Tòmai. Common nouns sometimes have this ending, it is usual for a word tė́vas: tė́vai and tė́ve.
+*Words having -j- before the ending -as (vė́jas – wind, naudótojas – user) have two differences of declensional cases from other -as words; -j- is soft sound and the locative for these words is like in soft -is / -ys / -ias type (mẽdyje, kepsnyjè, kelyjè), but with a vowel changed where needed for an easier pronunciation: vė́jyje, but naudótojuje. Vocative is also different: vėjau, naudótojau (naudotoje would sound the same to naudótoja, which is feminine (nominative and vocative) form of the same word. The vocative is similar for -as {{abbr|m.|masculine}} and -ė {{abbr|f.|feminine}} words: ą́žuolas – oak : ą́žuole and ẽglė – spruce : ẽgle). This form is sometimes present in other cases: {{abbr|nom.|nominative}} brólis : voc. bróli and brolaũ, vélnias : vélniau. Many of these -j- words are made with an actors (personal, not for things) suffix -ėjas {{abbr|m.|masculine}}, -ėja {{abbr|f.|feminine}}, -t-ojas {{abbr|m.|masculine}}, -t-oja {{abbr|f.|feminine}}: veĩkti 'to act, affect; operate' – veikė́jas 'actor, character'; naudóti 'to use' – naudótojas 'user'.
+*There are only a few -ias words, they are declined like -ys words, except some cases: nominative for kẽlias, nominative and vocative for elnias – elni, and vélnias – vélniau.
+*-is and -ys words differ in that, that -is words (with the short i sound) are stressed on the stem (I, II accentuation patterns) and -ys words (with the same, but long sound) are stressed on the ending (III, IV accentuation patterns). In -is type almost half of the nouns has consonants t, d in the ending of a stem (these consonants change when palatalized: mẽdis {{abbr|nom.|nominative}} – mẽdžio {{abbr|gen.|genitive}} etc.; in -as type paradigm, for example, there are no cases with palatalization: vardas – vardo etc.). In -ys type about 12% of nouns have t, d ending stem.
+
+;The second, -a (-ia), -ė ({{abbr|gen.|genitive}} {{abbr|sg.|singular}} -ės)
+*a type; twelve nouns are of masculine gender: viršilà 2 – warrant-officer, sergeant, barzdylà 2 – bearded one (person) ({{abbr|gen.|genitive}} barzdỹlos; it can also be heard barzdýla 1, barzdýlos; this is either a mistake and outcome of nivellation of accents or a type of word formation without changing an accent, compare adjectives, for example, ausýlas {{abbr|m.|masculine}}, -a {{abbr|f.|feminine}} 'sharp-eard'), vaivadà – voivode (historical office) (it is attributed to be of the 2 accentuation type in vocabularies, but it is of 3 or 1 if used in language: vaivadà 3, {{abbr|dat.|dative}} vaĩvadai or vaĩvada 1), maršálka 1 – historical office: mareschalus, marshal. 265 – of common gender: mušeikà 2 (1) – scrapper, bruiser, personà 2 – personage, nebrendilà 2 – immaturely behaving person (in language can also be heard nebrendýla 1, nebrendylà 2), nekláužada 1 – tinker (kid), namìsėda 1 – home-keeping, who sits at home. Two words have -i ending: martì 4 – daughter-in-law, patì 4 – wife (more like older).
+*ė type; four nouns are masculine: dė̃dė 2 – uncle, tė̃tė 2 (more used or equal variant is tė̃tis 2) – dad, dailìdė 2 – carpenter, woodworker and ciùcė 2 – doggy (in kid speech). 19 words are of common gender: garsenýbė 1 – renowned (person, thing), tauškalỹnė 2 – wind-bag, gasser, mėmė̃ 4 – gawk, spiegėlė̃ 3b – who shrieks too much (the latter word, for example, is not very likely to be heard, a word spieglỹs, -ė̃ 4 would probably occur). The t, d stems in -ė are present in the following percentage through the four accentuation paradigms: I – 15%, II – 35%, III – 23%, IV – 12%.
+
+;The third, -is
+*There were 245 feminine and 24 masculine nouns in this class. 6 nouns have common gender: (the first three can also be attributed to masculine gender<ref name="Types"/>) palikuõnis 2, 34b 'progeny, offspring', grobuõnis 2, 3a 'predator', žiniuõnis 2, 4 'knower; witchdoctor', delsuonìs 3b 'who is dallying', giežuonìs 3b 'tiresome, sour (person)', vagìs 4 'thief'. Some other -uonis words are attributed to a masculine gender, for example, geluonìs 3b (2) – sting, deguõnis 2 (3b) (here in the table given as 3b, while 2 accentuation pattern is probably more used) – oxygen. A word vinìs {{abbr|f.|feminine}}, {{abbr|c.|common}} 4 'nail, spike' is also sometimes understood as of common gender. The singular dative is -iui for the common gender, like in masculine nouns. The biggest part of these words have -t- stem. The second accentuation pattern is the rarest, among its examples are: durys {{abbr|pl.|plural}} 2 'door', slistis 2 (4) 'simulation', gaištis 2, 4 'dallying' (the two latter can also be accentuated in the fourth paradigm), masculine: pirmuõnys {{abbr|pl.|plural}} – protozoa, deguõnis (3b) – oxygen. Words with a suffix -men-, for example, ãšmenys {{abbr|pl.|plural}} 3b – blade, sė́dmenys {{abbr|pl.|plural}} 3a – buttocks, nates, nẽšmenys {{abbr|pl.|plural}} 3b – silts, sediments carried by a water stream, are attributed to the third declensional pattern here, but they are of the fifth: the singular (can be used for all, but is not usual for all) {{abbr|nom.|nominative}} is -uo: sėdmuõ – buttock. The singular instrumental is -imi, like in the third declension, while for masculine words of the fifth declension the proper ending is given to be -iu; but -imi can also be and is chosen for the words of the fifth declension.
+
+;The fourth, -us, -ius
+*There are only 19 words with a non-palatalized ending, and more -j-us, and -ius words.
+
+;The fifth, -uo, -ė ({{abbr|gen.|genitive}} {{abbr|sg.|singular}} -ers) 
+*The number of words of this class is small. The words are of the third accentuation pattern; one word, šuõ – dog, is of the fourth and has {{abbr|sg.|singular}} {{abbr|inst.|instrumental}} -imì. One, or maybe even some more, word is of the first accentuation pattern, rė́muo – waterbrash (it can also be accentuated in the third pattern).
+
+About 45% of all nouns are feminine, 55% – masculine.
+
+====Grouping by a syllable nucleus of a pre-desinential syllable====
+In the tables below the possibilities of syllable nucleus of the next-to-last syllable and their accent is shown. The different sound of a next-to-last syllable makes no grammatical distinction, for example, words nóras – wish and kū́nas – body, are of the same declensional and accentuation patterns. But there are a few certain differences in the accentuation features of the nucleus sounds of the next-to-last syllable. Most of the vocals and diphthongs can have either of the accents: a start-firm or an end-firm. Short a, e sounds, when they are in a stem of a word and stressed, lengthen and have always an end-firm accent; i, u are short and there is no accentual differentiation in their stress. Mixed diphthongs (a, e) + (l, m, n, r) have the first element lengthened when stressed in a start-firm accent, when in (i, u) + (l, m, n, r) and a diphthong ui the first element remains short in the same case. The words having ą, ę in a pre-desinential syllable are not included here because of the lack of declensional types. Some examples: rą̃stas 2 – balk, timber; žąsìs 4 – goose; ąsà 4 – handle; kę́sas 3 – hassock.
+
+The four different accentuation patterns are distinguished by two different colors in the rows of the table, their sequence is from the top to the bottom – I, II, III, IV. The words of each accentuation type are given in the following sequence of the declensional types:
+*The first declension (masculine)
+:*-as,
+:*-is (I–II accentuational pattern) / -ys (III–IV accentuational patterns) and a few -ias words. Their genitive singular is -io.
+*The second declension (feminine)
+:*-a (-ia)
+:*-ė
+*The third declension (mostly feminine, few masculine): -is; genitive singular is -ies
+*The fourth declension (masculine): -us (-ius)
+
+Some spaces of the tables are not filled, but this does not mean that there are no words which would fit. The sounds a, e (end-firm when stressed) and i, u (short) can not be start-firm and consequently the word having them in the next-to-last stressed syllable can not be of the first and the third accentuation pattern. Some of the declensional types include few words, for example there are only two words of the third accentuation pattern in the fifth declension: sūnùs and lietùs. The number of words (Dictionary of contemporary Lithuanian language / Dabartinės Lietuvių kalbos žodynas; the fourth issue, 2000) of the declensional patterns can be checked in the section above.
+
+The numbers are written after some of the words in the tables. They mean an alternative existent accentuation pattern and are given only for some of the words, which have an alternative accentuation in a language. Notice that the type of accentuation of a word is shown by the place in the table and the number added means only an alternative accentuation type, which is not necessarily the main one. Some of the alternative accentuation patterns of a word are used equally (then they are given not in brackets here), some are known from dialects, not preferred (then they are given in brackets).
+
+Here are some illustrations of the alternative accentuation: a word nykštỹs 3 is also commonly said nýkštis 1; zýlė 1 is also known as zylė̃ 3 in some dialects, but this form is used more narrowly and not shown here. Similarly, a word rýkštė 1 is also known as rykštė̃ 4; this is shown in the table. In a case of šálmas 3 – helmet, the variant šal̃mas 4 is also very common. The alternative forms are most usually present between the 1-3 and 2-4 accentuation patterns, same in the type of an accent. But there are also different cases, for example, rýkštė 1 and rykštė̃ 4. The fourth accentuation paradigm can be result of a shift of the third paradigm. The shift can happen following nivellation of the two accents, a loss of accentual contrast. In a case of nivellation of the start-firm and end-firm accents the distinction between the 3-4 and 1-2 loses its ground, because in a place of the stress the 1 with the 2, the 3 with the 4 acentuation groups differ only in a few cases.
+
+Among the words given in the table, some are older, for example, ver̃pstė 2 – distaff, sker̃džius 2 – chief cowherd, butcher, and some other. Some words are borrowings: bánkas 1 – bank, tánkas 1 – tank, dùrpės – peat, turf and some other. Old borrowings: vỹnas 2 (4) – wine, blỹnas 2 – pancake, rõžė 2 – rose, rūtà 2 (4) – rue, slyvà 2 (4) – plum, vyšnià 2 (1) – cherry, and some other.
+
+:{| class="wikitable" style="margin: 1em 1em 1em 0; line-height: 1.3em;"
+|-
+| o || ė || y || ū || i.e. || uo
+|- valign=top
+| nóras – wish<br />plótas – area, stretch<br />sóstas – throne, stool || vė́jas – wind || výras – man, male<br />týrai {{abbr|pl.|plural}} – large empty stretches<br />sývai {{abbr|pl.|plural}} – liquid part of smth. || kū́nas – body<br />liū́nas – bog || píenas <small>({{abbr|pl.|plural}} 1, 3)</small> – milk<br />svíestas (3) – butter || púodas – pot<br />šúoras – gust, air-blast<br />skrúostas – cheek
+|- valign=top
+| brólis – brother<br />sótis – satiety<br />klónis – dene, hollow<br />mólis – clay || pavė́sis – cooler place <br />in a shade || blýksnis – flash<br />nýkštis 3 – thumb || sū́ris – cheese<br />kū́jis – hammer<br />kū́gis – cone <small>(geometry)</small> || kíetis – artemisia <small>(plants)</small> || šúolis – jump<br />slúoksnis – layer<br />súopis – buzzard<br />rúonis – seal <small>(animal)</small><br />úošvis – father-in-law
+|- valign=top
+| kója – leg<br />lóva – bed || vė́tra&nbsp;-&nbsp;windstorm,&nbsp;scud<br />lė́šos {{abbr|pl.|plural}} – fund, means<br />pė́da 3 – foot || gýsla – thread, vas<br />ýda – defect, vice || lū́pa – lip<br />kū́dra – pond, mere || líepa – linden<br />píeva – meadow<br />síena – wall || úoga – berry<br />dúona – bread<br />kúosa – jackdaw
+|-  valign=top
+| dróbė – linen, cloth<br />rópė – turnip || || zýlė – tit <small>(birds)</small><br />rýkštė (4) – rod, switch<br />lýsvė – bed <small>(agriculture)</small> || || kíelė (3) – wagtail || úošvė – mother-in-law
+|- valign=top
+| nósis – nose<br />krósnis – stove, furnace<br />tóšis – upper layer<br /> of birch bark || klė́tis – barn, granary || nýtys {{abbr|pl.|plural}} – harness for <br />warp || lū́šis – lynx<br />rū́šis (3) – sort; species<br />kliū́tis (4) – obstacle; hurdle || íetis – spear, javelin ||
+|- valign=top style="background: #F0F2F5"
+| sõdas – garden<br />skrõblas – hornbeam || dė̃klas&nbsp;-&nbsp;encasement<br />kė̃nis – fir (abies) || sklỹpas 4 – plot, parcel<br />vỹnas – wine<br />blỹnas – pancake || bū̃das – mode; nature || || luõtas (1) – dugout, cockleshell
+|- valign=top style="background: #F0F2F5"
+| žõdis – word<br />skõnis – taste<br />lõbis – treasure || vė̃sis – cool<br />bė̃giai – metal, railing<br />smė̃lis – sand || lỹgis – level<br />skỹstis – liquid, fluid; liquidity || bū̃vis – state, existence<br />dū̃ris – prick<br />smū̃gis&nbsp;-&nbsp;punch;&nbsp;thwack<br />rū̃gštis – sourness || kiẽtis – hardness<br />viẽnis – oneness<br />miẽžis – barley<br />sriẽgis – screw thread || guõlis – lying place;<br /> bearing <small>(mechanical)</small>
+|- valign=top  style="background: #F0F2F5"
+| kopà – dune || || vyšnià – cherry<br />slyvà – plum || rūtà – rue (plant) || vietà – place ||
+|- valign=top  style="background: #F0F2F5"
+| rõžė – rose || nė̃gė – lamprey (fish) || || lū̃gnė – nuphar || piẽnė – sowthistle ||
+|- valign=top  style="background: #F0F2F5"
+| || || || (krū̃tis)&nbsp;<small>4</small>&nbsp;-&nbsp;breast&nbsp;<small>(womans')</small> || ||
+|- valign=top  style="background: #F0F2F5"
+| sõdžius – village<br />rõjus – paradise || || skỹrius – departament; chapter || || spiẽčius – close cluster, swarm <br /><small>(often for insects)</small> ||
+|- valign=top
+| stógas – roof<br />kótas – shaft, handle<br />óras – air; weather || krė́slas 1 – easy chair<br />pė́das – sheaf || rýtas – morning || grū́das – grain || stíebas – stipe<br />dríežas – lizzard || lúobas – thick peel<br />úodas – mosquito
+|- valign=top
+| lokỹs – bear || vėžỹs (4) – crayfish || nykštỹs (1) – thumb || || ||
+|- valign=top
+| || pėdà 1 – foot || || || skiedrà (4) – sliver, shingle || (kuopà) 1 – company (military)
+|- valign=top
+| || brėkšmė̃ – dusk, break <br /><small>(around sunset or before sunrise)</small> || || || ||
+|- valign=top
+| || || || rūgštìs (1) – acid<br />(rūšìs) 1 – sort; species || ||
+|-  valign=top
+| || || || sūnùs – son || lietùs – rain
+|- valign=top  style="background: #F0F2F5"
+| lõpas – patch || || || rū̃kas – fog || sniẽgas – snow<br />kiẽmas – yard<br />šiẽnas – hay || kuõlas – stake, picket
+|- valign=top  style="background: #F0F2F5"
+| lovỹs – trough, chamfer<br />korỹs – honeycomb || vėžlỹs – turtle || ryšỹs – link, bond<br />plyšỹs – interstice, opening || būrỹs – squad; huddle<br />rūsỹs – cellar, vault || kvietỹs 3 – wheat ||
+|- valign=top  style="background: #F0F2F5"
+| žmonà – wife<br />tvorà – fence<br />vorà – queue, file || vėsà – cool<br />bėdà – trouble, grief<br />mėsà – meat || bylà – lawsuit, cause<br />tylà – silence || pūgà – blizzard<br />stūmà – repulsion <small>(physics)</small> || dienà – day<br />šviesà – light<br />liepsnà – flame || puotà – feast; beanfeast<br />uolà – rock
+|- valign=top  style="background: #F0F2F5"
+| srovė̃ – current, stream || gėlė̃ – flower<br />kėdė̃ – chair<br />dėžė̃ – box || skylė̃ – hole, slot || žūklė̃ – fishing || miẽlės {{abbr|pl.|plural}} – yeast<br />rievė̃ – notch, groove || duobė̃ (3) – pit, hollow<br />uoslė̃ – smell; scent
+|- valign=top  style="background: #F0F2F5"
+| || || lytìs – sex, gender<br />vytìs – switch, rod || krūtìs <small>(2)</small> – breast <small>(womans')</small><br />griūtìs&nbsp;-&nbsp;avalanche,&nbsp;fall || ||
+|- valign=top  style="background: #F0F2F5"
+| žmogùs – man (human) || || || || piẽtūs {{abbr|pl.|plural}} – dinner; south ||
+|}
+
+:{| class="wikitable" style="margin: 1em 1em 1em 0; line-height: 1.3em;"
+|-
+| au || ai || ei || a || e || i || u
+|- valign=top
+| šáukštas – spoon || káimas – village, countryside || véidas – face || colspan="4" rowspan="4"|
+|- valign=top
+| jáutis – bull, ox || stáibis 2 – <small>dial.</small> shin; forearm<br />for birds: tarsus ||
+|- valign=top
+| sáuja – palmfull || káina – price ||
+|- valign=top
+| sáulė – sun<br />kriáušė – pear || váišė – regale<br />láimė – luck, happines<br />báimė – fear || méilė – love
+|- valign=top  style="background: #F0F2F5"
+| gaũbtas – hood<br />skliaũtas 4 – vault <small>(architecture)</small><br />aũlas 4 – bootleg; <small>sheatheable thing</small> || saĩtas 4 – bond; leash<br />žaĩzdras 4 – forge, hearth || pleĩštas 1 – wedge, shim<br />reĩdas – raid || pãdas – sole, metatarsus<br />žãbas – switch, stick<br />lãbas – good, welfare || mẽtas – specific time <br /><small>(to do smth.; of smth.)</small> || sprìgtas – flip, flick || bùtas – flat<br />kùras – fuel
+|- valign=top  style="background: #F0F2F5"
+| paũkštis – bird<br />plaũtis – lung<br />kriaũšis <small>(4m, 4f)</small> – steep slope || raĩštis – band, tie<br />kaĩštis – spile, plug || peĩlis – knife || vãris – copper || kẽlis – knee<br />mẽdis – tree<br />sẽnis – old || ||
+|- valign=top  style="background: #F0F2F5"
+| || || || balà – puddle || || girià – forest (large) || putà – froth
+|- valign=top  style="background: #F0F2F5"
+| raũdė – rudd<br />kiaũlė – pig<br />(kriaũšė) – steep slope || raĩdė 4 – letter<br />skaĩdrė (4) – slide, transparency || kreĩvė (4) – curve, graph || brãškė – strawberry || žẽmė – earth, ground<br />prẽkė – commodity, item<br />kẽkė – raceme, cluster || bìtė – bee || ùpė – river<br />pùsė – half, side<br />striùkė – jacket
+|- valign=top  style="background: #F0F2F5"
+| || gaĩštis 4 – dallying, waste of time || || || || slìstis (4) – simulation || dùrys {{abbr|pl.|plural}} – door
+|- valign=top  style="background: #F0F2F5"
+| || vaĩsius – fruit; growth<br />skaĩčius – number; digit || || || || || cùkrus – sugar
+|- valign=top
+| šiáudas – straw<br />máuras – slime, algae || dáiktas – thing (material)<br />láiškas – letter (message)<br />áidas – echo || méistras – master <small>(artist)</small>; craftsman || colspan="4" rowspan="2"|
+|- valign=top
+| || aikštė̃ – square, field ||
+|- valign=top  style="background: #F0F2F5"
+| sraũtas – flow, torrent<br />laukas – field; outside<br />džiaugsmas – joy<br />kraũjas – blood || maĩstas – food<br />žaĩbas – thunder<br />žaĩslas – toy<br />laĩkas – time<br />laĩdas – cable, lead || veĩksmas – act, action || krãštas – edge; country<br />smãkras – chin<br />kãras – war || lẽdas – ice<br />pẽnas – pabulum<br />kẽras – plant sinuous<br /> ramification || klijaĩ {{abbr|pl.|plural}} – glue || dùgnas – floor, bottom
+|- valign=top  style="background: #F0F2F5"
+| šaulỹs – rifleman, shooter<br />straublỹs – trunk, proboscis<br />(kriaušỹs <small>2m 4f</small>) – steep slope || gaidỹs – rooster || || dagỹs – thistle<br />vabzdỹs – insect || kepsnỹs – roast, fry<br />krepšỹs – basket, bag<br />genỹs&nbsp;-&nbsp;woodpecker<br />kẽlias – road<br />svẽčias – guest || || drugỹs – butterfly, moth; shake, shiver
+|- valign=top  style="background: #F0F2F5"
+| briaunà – edge, brow<br />klausà – hearing (sense) || dainà – song<br />gaivà – fresh || šeimà – family || || || girà – kvass ||
+|- valign=top  style="background: #F0F2F5"
+| šaulė̃ – shooter<br />raukšlė̃ – pucker || raidė̃ 2 – slide, transparency || eilė̃ – row || katė̃ – cat || || || skruzdė̃ – ant
+|- valign=top  style="background: #F0F2F5"
+| ausìs – ear<br />šlaunìs – thigh<br />(kriaušìs <small>2m 4m</small>) – steep slope || gaištìs 2 – dallying, waste of time || || naktìs – night<br />šalìs – country || || sritìs – area<br />vinìs – nail, spike || ugnìs – fire<br />pusnìs – snowdrift<br />žuvìs – fish
+|- valign=top  style="background: #F0F2F5"
+| || || || alùs – beer || medùs – honey || vidùs – inside<br />midùs – mead (drink) ||
+|}
+
+:{| class="wikitable" style="margin: 1em 1em 1em 0; line-height: 1.2em;"
+|-
+| al || el || am || em || an || en
+|- valign=top
+| káltas – chisel, boaster || kéltas – ferryboat<br />méldas – bulrush || || || bánkas – bank<br />tánkas – tank || lénkas – Pole
+|- valign=top
+| || || sámtis – ladle (spoon) || || ||
+|- valign=top
+| málka – firewood billet<br />dálba – pole, stick || gélda – trough, tub || bámba – navel<br />támsta – address to a person (formal) || lémpa – lamp || ||
+|- valign=top
+| kálvė – smithery, forge || kélnės {{abbr|pl.|plural}} – trousers<br />pélkė – swamp || || pémpė&nbsp;-&nbsp;lapwing || || néndrė – reed<br />ménkė – cod
+|- valign=top
+| váltis – boat || || || || pántis – tether<br />ántis – duck<br />ánkštis – pod, pulse || péntis – thick side of a sharp implement
+|- valign=top
+| stálčius – drawer (furniture) || || ámžius – age || || ||
+|- valign=top style="background: #F0F2F5"
+| bal̃dai {{abbr|pl.|plural}} – furniture || || || || gañdras 4 – stork || beñdras – confederate,<br /> companion; accomplice
+|- valign=top style="background: #F0F2F5"
+| val̃gis – meal, dish, food<br />al̃ksnis – alder<br />dal̃gis – scythe || || kam̃štis – plug, cork<br />sam̃tis – ladling <small>(action)</small> || || skrañdis – stomach<br />añtis – slash of garment at the bosom; place inside it to the girdle<br />añkštis – lack of space || sleñkstis – threshold
+|- valign=top  style="background: #F0F2F5"
+| valkà – draught (air) || || || || rankà – hand; arm ||
+|- valign=top  style="background: #F0F2F5"
+| pal̃vė – flat place in terrene side behind shore dunes || || || || || šveñtė – feast, celebration<br />skleñdė 4 – latch<br />beñdrė – see bendras
+|- valign=top  style="background: #F0F2F5"
+| bal̃džius – furniture maker (person) || || || || ||
+|- valign=top
+| kálnas – mountain<br />šálmas 4 – helmet || délnas – palm, flat of a hand<br />kélmas – stump, stool || || kémsas – hassock || žándas – face side below a cheekbone<br />lángas – window ||
+|- valign=top
+| galvà – head || || || || ||
+|- valign=top  style="background: #F0F2F5"
+| bal̃nas – saddle<br />val̃ksmas – haul of a fishing net; <br />track of lumber dragging || pel̃nas – profit || kam̃pas – angle; corner || || lañkas – bow (weapon)<br />gañdas – hearsay, rumour<br />krañtas <small>(dial. 2, 1)</small> – waterside, shore ||
+|- valign=top  style="background: #F0F2F5"
+| žaltỹs (3) – grass snake; colubrid || || kamblỹs – stipe; squat ending<br />dramblys – elephant || kremblỹs – gnarly tree || ||
+|- valign=top  style="background: #F0F2F5"
+| kalbà – language<br />spalvà – colour<br />algà – salary<br />valkà – puddle || || || || lankà – meadow, hollow<br />dangà – covering<br />bandà – herd; loaf (food) || lentà – board; wood cut
+|- valign=top  style="background: #F0F2F5"
+| kaltė̃ – guilt; fault || || || templė̃ – elastic string <small>(of a bow etc.)</small> || tankmė̃ – thicket || sklendė̃ (2) – valve; latch
+|- valign=top  style="background: #F0F2F5"
+| || || || || dantìs – tooth ||
+|- valign=top  style="background: #F0F2F5"
+| || || || || dangùs – sky ||
+|}
+
+:{| class="wikitable" style="margin: 1em 1em 1em 0; line-height: 1.2em;"
+|-
+| ar || er || ir || ur
+|- valign=top
+| tárpas – gap<br />tvártas – cattle-shed<br />žárdas <small>(3 2)</small> – rack from poles || || ìrklas – oar, paddle || dùrklas – dagger
+|- valign=top
+| || || žvìrblis – sparrow<br />vìržis – heather, ling<br />žìrnis – pea || gùrkšnis – swallow, gulp<br />kùrmis – mole (animal)
+|- valign=top
+| várna – crow<br />žárna 3 – bowel; hose || || stìrna – roe, hind<br />gìrna – millstone || spùrga – doughnut
+|- valign=top
+| kárvė – cow || šnérvė 4 – nostril<br />kérpė – lichen<br />šérpė – burr, tear off || || dùrpės – peat
+|- valign=top
+| kártis – long slender pole || || kìrkšnis 3 (4) – groin<br />svìrtis (4, 3, 2) – lever; shaduf ||
+|- valign=top style="background: #F0F2F5"
+| var̃žtas – screw<br />var̃tai {{abbr|pl.|plural}} – gate<br />kar̃tas – time (instance <br />or occurrence) || ner̃štas – spawning<br />sver̃tas – lever; ''fig.'' leverage || skir̃pstas – field elm || Tur̃tas – wealth, property<br />pur̃slas 4 (1) – spatter, spray
+|- valign=top style="background: #F0F2F5"
+| kar̃štis – heat<br />kar̃šis – bream || ver̃šis – calf || tvir̃tis – strength of material, toughness ||
+|- valign=top  style="background: #F0F2F5"
+| || || virkščià – stem of some <br />gramineous plants (pea, potato)<br /> pirkià (4) – <small>dial.</small> house, cottage (traditional) ||
+|- valign=top  style="background: #F0F2F5"
+| gar̃dė – barrier wood cut <br />in a side of a horse carriage || ver̃pstė – distaff || vir̃vė – rope ||
+|- valign=top  style="background: #F0F2F5"
+| || der̃lius – yield, harvest<br />sker̃džius – chief cowherd; butcher || || Tur̃gus – market, mart
+|- valign=top
+| dárbas – work || bérnas – boy, lad; <br /><small>(older)</small> hind, hired hand<br />béržas – birch<br />šérnas (4) – wild boar || spìrgas – crackling (food)<br />žìrgas (4) – riding horse || spùrgas – hop cone; bud; catkin<br />ùrvas – cave; burrow
+|- valign=top
+| arklỹs – horse || || ||
+|- valign=top
+| || || || burnà – mouth
+|- valign=top
+| varškė̃ – curd || versmė̃ – fount, spring || ||
+|- valign=top
+| || || širdìs – heart<br />kirkšnìs 1 (4) – groin ||
+|- valign=top  style="background: #F0F2F5"
+| var̃das – name<br />gar̃sas – sound<br />kar̃klas 2 – willow, osier<br />gar̃das – animal stall || šer̃kšnas – hoarfrost, rime<br />ver̃slas – trade, enterprice, business<br />ver̃ksmas – cry || vir̃bas – rod, switch<br />dir̃žas – belt (clothing); strap<br />pir̃štas – finger || pur̃vas – mud, dirt
+|- valign=top  style="background: #F0F2F5"
+| || || || siurblỹs – pump; (dulkių siurblys) vacuum cleaner<br />čiurlỹs – swift
+|- valign=top  style="background: #F0F2F5"
+| varžà – resistance; impedance (physics)<br />barzdà – beard || skerlà – sliver, shiver || || purkšnà – mizzle, spraying
+|- valign=top  style="background: #F0F2F5"
+| tarmė̃ – dialect<br />dermė̃ – tone, fitness<br />varlė̃ – frog || vertė̃ – value<br />erdvė̃ – space<br />veržlė̃ – nut (hardware) || ||
+|- valign=top  style="background: #F0F2F5"
+| tartìs – pronunciation, utterance || šerdìs (3 1) – core || pirtìs – steambath ||
+|- valign=top  style="background: #F0F2F5"
+| || || viršùs – top ||
+|}
+
+:{| class="wikitable" style="margin: 1em 1em 1em 0; line-height: 1.2em;"
+|-
+| il || ul || im || um || in || un
+|- valign=top
+| tìltas – bridge<br />miltai {{abbr|pl.|plural}} – flour || || || || || tùntas 4 – swarm, flock
+|- valign=top
+| dìlbis – forearm<br />ìltis – fang || mùlkis – ninny, gull, noodle<br />stùlgis – <small>(older)</small> dagger<br />kùlšis – haunch, thigh <small>(mostly used for chicken meat)</small> || || kùmštis – fist || vìngis (2) – winding, curve<br />lìnkis – bend, curvature ||
+|- valign=top
+| smìlga – bentgrass<br />vìlna – wool || || tìmpa – elastic string<br />drìmba 2 – ponderous person (derisive) || || vìnkšna – elm (ulmus laevis)<br />spìnta – cabinet <small>(furniture)</small><br />kìnka – rare side of a leg about a knee level || plùnksna – feather
+|- valign=top
+| dìldė – rasp || tùlpė – tulip<br />dùlkė – particle of dust, mote<br />bùlvė – potato || || dùmplės {{abbr|pl.|plural}} – bellows || pìnklės {{abbr|pl.|plural}} (2) – trap, gin ||
+|- valign=top
+| skìltis (3) – segment<br /> of a fruit, vegetable;<br />section&nbsp;in&nbsp;a&nbsp;recurring<br /> print || || || || pìntis – amadou ||
+|- valign=top  style="background: #F0F2F5"
+| || dul̃ksmas 4 – dust rise || || stum̃bras – wisent<br />dum̃blas 4 – silt || iñdas – dishware, utensil<br />tiñklas – net<br />giñklas – weapon ||
+|- valign=top  style="background: #F0F2F5"
+| skil̃vis – gizzard || || || kum̃pis – ham || skliñdis – pancake<br />liñksnis – (case) inflection, case (grammar) || suñkis – gravitation
+|- valign=top  style="background: #F0F2F5"
+| || || || || rinkà – market || sunkà – strained juice
+|- valign=top  style="background: #F0F2F5"
+| || gul̃bė – swan || || drum̃zlė 4 – sediment || bliñdė (4) – great willow ||
+|- valign=top  style="background: #F0F2F5"
+| vil̃nis 4 – wave || || || || ||
+|- valign=top
+| skiltìs 1 – (see 1) || || || || ||
+|- valign=top  style="background: #F0F2F5"
+| vil̃kas – wolf<br />pil̃vas – belly || stul̃pas – pole, shaft, pillar<br />kul̃nas – heel<br />pul̃kas – regiment; swarm || rim̃bas – knout; whip || gum̃bas – knag; lumb || || tuñtas 1 – swarm, flock
+|- valign=top  style="background: #F0F2F5"
+| skilvỹs 2 – gizzard || stulgỹs – great snipe || || krumplỹs (2) – knuckle; cog || ||
+|- valign=top  style="background: #F0F2F5"
+| || dulksnà – drizzle || || || || sunkà 2 – strained juice
+|- valign=top  style="background: #F0F2F5"
+| || || || drumzlė̃&nbsp;2&nbsp;-&nbsp;sediment || ||
+|- valign=top  style="background: #F0F2F5"
+| vilnìs 2 – wave || kulkšnìs (1) – ankle || || || ||
+|}
+
+== Adjectives ==
+
+===Declension===
+{{main|Lithuanian declension}}
+In Lithuanian language adjectives have three declensions determined by the singular and plural nominative case inflections. Adjectives are matched with nouns in terms of numbers, genders, and cases. Unlike nouns, which have two genders – masculine and feminine, adjectives have three (except -is, -ė adjectives), but the neuter adjectives (the third example in the table) have only one form and are not inflected. The neuter gender is formed simply by eliminating the last consonant '''-s''' from the masculine gender forms.
+
+:{| class="wikitable" style="text-align: left;"
+|-valign=top style="background: #efefef;"
+|rowspan=2| Declension
+|colspan=2| Singular {{abbr|nom.|nominative}} inflection
+|colspan=2| Plural {{abbr|nom.|nominative}} inflection
+|rowspan=2| Examples
+|- style="background: #efefef;"
+|Masculine || Feminine || Masculine || Feminine
+|-
+| I || -(i)as || -(i)a || -i || -(i)os || šáltas, šaltà, (šálta) – cold; šlápias, šlapià, (šlápia) – wet, soppy;
+|-
+| II || -us || -i || -ūs || -ios || gražùs, gražì, (gražù) – pretty, beautiful; malonùs, malonì, (malonù) – pleasant;
+|-
+|rowspan=2| III || -is || -ė || -iai || -ės || varìnis, varìnė – copper; laukìnis, laukìnė – wild;
+|-
+| -is || -ė || -i || -ės || dìdelis, dìdelė – big; dešinỹs, dešinė̃ – right; kairỹs, kairė̃ – left.
+|}
+
+All the adjectives (except most '''-inis''' type adjectives) can have pronominal (definite) forms that cannot acquire the neuter form:
+
+:{| class="wikitable" style="text-align: left;"
+|-valign=top style="background: #efefef;"
+|rowspan=2| Declension
+|colspan=2| Singular {{abbr|nom.|nominative}} inflection
+|colspan=2| Plural {{abbr|nom.|nominative}} inflection
+|rowspan=2| Examples
+|- style="background: #efefef;"
+|Masculine || Feminine || Masculine || Feminine
+|-
+| I || -(i)asis || -(i)oji || -ieji || -(i)osios || šaltàsis, šaltóji  – the cold; šlapiàsis, šlapióji – the wet;
+|-
+| II || -usis || -ioji || -ieji || -iosios || gražùsis, gražióji – the pretty, the beautiful; malonùsis, malonióji – the pleasant;
+|-
+|rowspan=2| III || -is || -ė || -iai || -ės || ―
+|-
+| -ysis || -ioji || -ieji || -iosios || didỹsis, didžióji – the big, the great; dešinỹsis, dešinióji – the right; kairỹsis, kairióji – the left.
+|}
+
+The pronominal adjectives historically have developed from the combination of the simple adjectives and the respective pronominal forms '''jis, ji''' (he, she), that is, '''gẽras''' + '''jìs''' = '''geràsis'''; an example in locative case (feminine gender): '''gražiosè''' + '''josè''' = '''gražiósiose'''. They have their own separate declension paradigms.
+
+Pronominal adjectives have a variety of purposes in modern Lithuanian. One of them is the definitiveness, that is, these adjectives can sometimes act like an equivalent of the definite article in English: ''Suvalgiau raudoną obuolį'' – ''I’ve eaten a red apple''; ''Suvalgiau raudoną'''jį''' obuolį'' – ''I’ve eaten '''the''' red apple''. But they are rarely used this way, as demonstrative pronouns serve better for this purpose. Pronominal adjectives often indicate something unique, thus they are usually used with proper names: [[Black Sea|Juodoji jūra]], [[Vytautas|Vytautas Didysis]], [[New Zealand|Naujoji Zelandija]]. Another use (and a very common) is scientific terminology: [[Marjoram|kvapusis mairūnas]], [[Spotted owl|dėmėtoji pelėda]], [[Hard disk drive|standusis diskas]] etc. In almost all of these cases, a simple adjective can be used, but it will mean a completely different thing: ''juoda jūra'' (instead of ''Juodoji jūra'') means any sea that is black (not necessarily the particular sea in Eastern Europe); ''dėmėta pelėda'' (instead of ''dėmėtoji pelėda'') means any owl that has dots on its plumage (not necessarily an owl of the ''Strix occidentalis'' species) etc.
+
+{{ref begin}}
+*Most of the first type adjectives of the third declension are with the suffix -in-. These are easily made from other parts of speech by adding the suffix -in-. When made from verbs, they are mostly made from a past passive participle: vìrti – to boil, vìrtas – boiled, virtìnis – which is boiled, made by boiling. Consequently, the suffix is -t-in- for such adjectives. Such variants of verbal derivation easily become nouns (declined in noun declension paradigm), in this case it is a noun [[kalduny|virtìnis]] – dumpling (with mushrooms; curd; etc.; but dumplings with meat are called koldūnai).
+* Two adjectives of the third declension have long -ys: dešinỹs – right, kairỹs – left; plural nominative is dešinì, kairì; plural dative: dešiníems, kairíems. A short form of dìdelis, dìdelė is dìdis, didì (similar to pats, pati). Dešinys, kairys, didis have neuter gender of the u pattern: dešinu, kairu, didu. Pronominal forms: didỹsis, didžióji, dešinỹsis, dešinióji. An adjective didelis, didelė hasn't pronominal forms. The word didis has more mingled forms: nominative is sometimes didus; genitive {{abbr|masc.|masculine}}: didžio / didaus; accusative: didį (/ didų); plural {{abbr|masc.|masculine}} {{abbr|nom.|nominative}} didūs; other forms are of the regular pattern.
+*Some other forms having variations in a standard language: pė́sčias, pėsčià, pė́sčia – pedestrian, afoot; pėsčiàsis, pėsčióji and pėstỹsis, pėsčióji (adjectival and substantival meanings).
+{{ref end}}
+
+In the following examples of [[Lithuanian declension#Table of noun declension endings|noun]] and [[Lithuanian declension#Table of adjective declension endings|adjective]] matching, gatvė – street and kelias – road are matched with tiesus – straight:
+* Ties'''i''' gatv'''ė''' vs. ties'''ios''' gatv'''ės''' (singular vs. plural)
+* Ties'''i''' gatv'''ė''' vs. ties'''us''' kel'''ias''' (feminine vs. masculine)
+* Ties'''i''' gatv'''ė''' vs. ties'''ią''' gatv'''ę''' (nominative vs. accusative case)
+
+This does not apply in case of the neuter gender adjectives because nouns do not have neuter gender. Such adjectives are used in combination with other parts of speech having no gender (infinitive, some pronouns) or in zero subject sentences and tend to describe a general environment. For example, ''rūsyje buvo '''vėsu''''' (zero subject sentence) – it was cool in the cellar; '''''gera''' tave matyti'' (the gender neutral infinitive (''matyti'') is the subject) – it's good to see you. Moreover, adjectives in neuter can be used as an object (and in some cases – as a subject) as well (a rough equivalent of English "that what is" + adjective): ''jis matė '''šilta''' ir '''šalta''''' – he saw [that what is] cold and hot (he went through fire and water). Adjectives that end in ''-is'' do not have the neuter gender. Most of the time neuter gender adjectives are written just like feminine adjectives. However, vocally, neuter gender is distinct by different [[Stress (linguistics)|stressing]]. Also neuter gender does not have any numbers or cases, and it is mostly used for [[predicative (adjectival or nominal)|predicatives]]. Usage in the role of object (like in "jis matė šilta ir šalta") is rare.
+
+===Degrees of comparison===
+The Lithuanian language has five [[three degrees of comparison|degrees of comparison]]. The three main degrees are the same as in English language. Note that there are no irregular adjectives and all adjectives have the same [[suffix]]es. All such adjectives still need to match the nouns in terms of case, number, and gender. Neuter gender comparative degree is the same as adjective comparative degree.
+:{| class=wikitable
+! Language !! Gender !! positive
+!colspan=2| comparative
+!colspan=2| superlative
+|-
+|rowspan=3| Lithuanian || Masculine || Gẽr'''as''' || Ger'''ėlèsnis''' || Ger'''èsnis''' || Ger'''iáusias''' || Pàts/visų̃ ger'''iáusias'''
+|-
+|Feminine || Ger'''à''' || Ger'''ėlèsnė''' || Ger'''èsnė''' || Ger'''iáusia''' || Patì/visų̃ ger'''iáusia'''
+|-
+| Neuter || Gẽr'''a''' || Ger'''ėliaũ''' || Ger'''iaũ''' || Ger'''iáusia''' || Visų̃ ger'''iáusia'''
+|-
+| English || || Good || A tiny bit better || Better || Best || The very best
+|-
+| rowspan=3| Lithuanian || Masculine || Graž'''ùs''' || Graž'''ėlèsnis''' || Graž'''èsnis''' || Graž'''iáusias''' || Pats/visų graž'''iáusias'''
+|-
+| Feminine || Graž'''ì''' || Graž'''ėlèsnė''' || Graž'''èsnė''' || Graž'''iáusia''' || Patì/visų̃ graž'''iáusia'''
+|-
+| Neuter || Graž'''ù''' || Graž'''ėliaũ''' || Graž'''iaũ''' || Graž'''iáusia''' || Visų̃ graž'''iáusia'''
+|-
+| English || || Beautiful || A tiny bit more beautiful || More beautiful || Most beautiful || The most beautiful
+|}
+
+Adjectives of different degrees can also have their pronominal forms:
+
+:{| class=wikitable
+! Language !! Gender !! positive
+!comparative
+!superlative
+|-
+|rowspan=3| Lithuanian || Masculine || Ger'''àsis''' || Ger'''esnỹsis''' || Ger'''iáusiasis'''
+|-
+|Feminine || Ger'''óji''' || Ger'''esnióji''' || Ger'''iáusioji'''
+|-
+| Neuter || – || – || –
+|-
+| English || || The good || The better || The very best
+|-
+| rowspan=3| Lithuanian || Masculine || Graž'''ùsis''' || Graž'''esnỹsis''' || Graž'''iáusiasis'''
+|-
+| Feminine || Graž'''ióji''' || Graž'''esnióji''' || Graž'''iáusioji'''
+|-
+| Neuter || – || – || –
+|-
+| English || || The beautiful || The more beautiful || The most beautiful
+|}
+
+== Pronouns ==
+{{see also|Lithuanian declension#Pronouns}}
+
+Lithuanian has no grammatical category of [[animacy]]. Pronouns (including personal ones ''jis, ji, jie, jos'' (he, she, they)) replace any noun, regardless if it is not animate (people, animals, objects etc.). '''''Whom''' did you see?'' and '''''What''' did you see?'' both translate as '''''Ką''' tu matei?''; '''''Something''' is there'' and '''''Somebody''' is there'' both translate as ''Ten '''kažkas''' yra''.
+
+=== Personal pronouns ===
+Personal pronouns ''aš'' (I), ''tu'' (you) ''jis'' (he, it), ''ji'' (she, it) are declined as follows:
+
+:{| class="wikitable"
+|-
+! colspan=3 |  !! Nominative !! Genitive !! Dative !! Accusative !! Instrumental !! Locative
+|-
+! rowspan=4 | Singular !! colspan=2 | 1st person
+| aš || manęs || man || mane || manimi || manyje
+|-
+! colspan=2 | 2nd person
+| tu || tavęs || tau || tave || tavimi || tavyje
+|-
+! rowspan=2 | 3rd person !! Masculine
+| jis || jo || jam || jį || juo || jame
+|-
+! Feminine
+| ji || jos || jai || ją || ja || joje
+|-
+!
+! colspan=2 | Reflexive pronoun
+|  –  || savęs || sau || save || savimi || savyje
+|-
+! rowspan=4 | Plural
+! colspan=2 | 1st person
+| mes || mūsų || mums || mus || mumis || mumyse
+|-
+! colspan=2 | 2nd person
+| jūs || jūsų || jums || jus || jumis || jumyse
+|-
+! rowspan=2 | 3rd person !! Masculine
+| jie || jų || jiems || juos || jais || juose
+|-
+! Feminine
+| jos || jų || joms || jas || jomis || jose
+|}
+
+===Reflexive pronoun===
+
+The [[reflexive pronoun]] ''savęs'' is declined like ''tu'' (''savęs'' – ''sau'' – ''save'' ...), but it does  not have the singular nominative and plural cases.
+
+== Verbs ==
+
+Every Lithuanian verb belongs to one of three different conjugations:
+
+*The first conjugation is the most commonly found in Lithuanian, encompassing those verbs whose infinite form ends in '''-ati''', '''-oti''', '''-auti''', '''-uoti''' or '''a consonant followed by -ti''' (e.g. '''dirbti'''). This conjugation also has the highest occurrence of irregularity of all the Lithuanian verb cases.
+*The second conjugation refers to those verbs whose infinitive form ends in '''-ėti'''. There are hardly any instances of irregularity for this conjugation. An exception: verbs that have '''-ėja''' in the Present Tense (like did'''ėti''' / did'''ėja''' / did'''ėjo''' 'to increase') belong to the first conjugation.
+*The third conjugation consists of those verbs whose infinitive form ends in '''-yti'''. An exception: verbs that have '''-ija''' in the Present Tense (like rūd'''yti''' / rūd'''ija''' / rūd'''ijo''' 'to rust') belong to the first conjugation.
+
+In Lithuanian every single verbal form can be derived from three stems: infinitive, 3rd person present tense and 3rd person past tense.
+
+Lithuanian verbs belong to one of the following stem types:
+
+*primary (verbs without suffixes: ''pykti, pyksta, pyko'' ʽto be angry’). This group encompasses most of the verbs with irregular or unpredictable forms;
+*mixed (verbs with suffixes in certain forms: ''myl'''ė'''ti, myli, myl'''ė'''jo'' ʽto love’);
+*suffixal (verbs with suffixes in all forms: ''did'''ė'''ti, did'''ė'''ja, did'''ė'''jo'' ʽto increase’).
+
+The 3rd person of every '''conjugatable''' verbal form in Lithuanian has no distinction between numbers: all the singular, dual and plural forms have merged into one single form. ''Declinable'' forms (such as compound tenses and passive structures), however, must match according to gender and number. This is a shared feature with its closest relative, the [[Latvian language]].
+
+Modern Lithuanian grammarians no longer consider the 3rd person as having an ending, instead it is now called the "final stem vowel" to which a personal ending is attached in order to make the 1st and the 2nd persons:
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=2| Simple
+! colspan=2| Reflexive
+|-
+!&nbsp;
+! colspan=1| Singular
+! colspan=1| Plural
+! colspan=1| Singular
+! colspan=1| Plural
+|-
+|align="center"|1st
+|align="center"|u
+|align="center"|me
+|align="center"|uosi
+|align="center"|mės
+|-
+|align="center"|2nd
+|align="center"|i
+|align="center"|te
+|align="center"|iesi
+|align="center"|tės
+|-
+|align="center"|3rd
+|colspan=2 style="text-align: center;"|∅
+|colspan=2 style="text-align: center;"|∅ + si
+|}
+
+In reality, however, the attachment of the respective ending to the 3rd person stem is not straightforward and requires additional conversion, e. g. if the 3rd person stem ends in ''-a'', the attachment of the ending ''-u'' to make the 1st person form produces ''-u'' instead of the expected ''-au''. Moreover, certain notable forms have dropped the final vowel in the 3rd person (future tense, [[conditional mood]]), however, the forms for other persons are still composed having the stem vowel in mind (dirbti ''to work'' → dirbs ''he will work'' → dirbs'''i'''me ''we will work''). Each one of these conversions are being represented in the following conjugation tables.
+
+=== Active voice ===
+
+The active voice in Lithuanian has four moods:
+
+*Indicative
+*Indirect
+*Imperative
+*Conditional
+
+==== Indicative mood ====
+
+In the active voice, the indicative mood contains 4 simple and 7 compound tenses.
+
+In each tense five examples are given: three belonging to each conjugation group ('''dirbti, norėti, skaityti'''), one reflexive ('''praustis''') and '''būti''' – the only auxiliary verb in Lithuanian.
+
+===== Present tense =====
+
+This is the basic tense in Lithuanian which describes present or ongoing actions or, sometimes, actions without definite tense. Its forms and stress patterns are always derived from the 3rd person of the Present tense.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| dìrbti – to work
+! colspan=1| norė́ti – to want
+! colspan=1| skaitýti – to read
+! colspan=1| praũstis – to wash oneself
+! colspan=1| bū́ti – to be (''es-'' stem)
+! colspan=1| bū́ti – to be (''būn-'' stem)
+! colspan=1| bū́ti – to be (''būv-'' stem)
+|-
+|align="right"|'''I'''
+|dìrb'''u'''
+|nór'''iu'''
+|skait'''aũ'''
+|praus'''iúosi'''
+|es'''ù'''
+|būn'''ù'''
+|būv'''ù'''
+|-
+|align="right"|'''You (singular)'''
+|dìrb'''i'''
+|nór'''i'''
+|skait'''aĩ'''
+|praus'''íesi'''
+|es'''ì'''
+|būn'''ì'''
+|būv'''ì'''
+|-
+|align="right"|'''He/She/It'''
+|dìrb'''a'''
+|nór'''i'''
+|skaĩt'''o'''
+|praũs'''iasi'''
+|yr'''à''' / ẽs'''ti'''
+|bū̃n'''a'''
+|bū̃v'''a'''
+|-
+|align="right"|'''We'''
+|dìrb'''ame'''
+|nór'''ime'''
+|skaĩt'''ome'''
+|praũs'''iamės'''
+|ẽs'''ame'''
+|bū̃n'''ame'''
+|bū̃v'''ame'''
+|-
+|align="right"|'''You (plural)'''
+|dìrb'''ate'''
+|nór'''ite'''
+|skaĩt'''ote'''
+|praũs'''iatės'''
+|ẽs'''ate'''
+|bū̃n'''ate'''
+|bū̃v'''ate'''
+|-
+|align="right"|'''They'''
+|dìrb'''a'''
+|nór'''i'''
+|skaĩt'''o'''
+|praũs'''iasi'''
+|yr'''à''' / ẽs'''ti'''
+|bū̃n'''a'''
+|bū̃v'''a'''
+|}
+
+E.g. '''dirbu''' = 'I work', (tu) '''nori''' = 'You want', '''skaitome''' = 'We read' (present tense).
+
+The auxiliary verb '''bū́ti''' has two conjugations in the Present tense: an irregular one (based on ''es-''/''yr-'' stems) and a regular one (based on the ''būn-'' / ''būv-'' stem). The difference is that the stem '''bū̃n-'''/'''bū̃v-''' has an iterative meaning (to be frequently): ''Mokiniaĩ yrà pasiruõšę'' – ''The pupils are ready''; ''Mokiniaĩ bū̃na pasiruõšę'' – ''The pupils are often ready''. The 3rd person form ''ẽsti'' is semantically equivalent to ''bū̃na'' or ''bū̃va'', but is rarely used in modern Lithuanian. The ''bū̃v-'' stem is very rare in modern Lithuanian.
+
+In the ''-i'' conjugation type, the 1st person of singular loses the final stem vowel ''-i'', but the last stem consonant becomes palatalized (the sound [ɪ] is absent in ''nóriu'' [n̪ôːrʲʊ], the letter ''i'' merely denotes palatalization). If the stem ends with a consonant ''-d'', it becomes ''-dž'': ''girdėti'' to hear → ''girdi'' he hears → ''girdžiu'' I hear.
+
+The accentuation of all persons always corresponds to the accentuation of the 3rd person. The only exception is when its accented syllable is penultimate (excluding the reflexive formant '''-si''') and has a short vowel ('''bìjo''' – he is afraid) or a rising tone ('''skaĩto''' – he reads, '''praũsiasi''' – he washes himself): in that case the '''1st and the 2nd persons of singular''' move the stress to the ending: '''bijaũ, bijaĩ; skaitaũ, skaitaĩ; prausiúosi, prausíesi'''.
+
+===== Past tense =====
+
+This is the basic tense in Lithuanian which describes past actions (ongoing or complete). Its forms and stress patterns are always derived from the 3rd person of the Past tense.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| dìrbti – to work
+! colspan=1| norė́ti – to want
+! colspan=1| skaitýti – to read
+! colspan=1| praũstis – to wash oneself
+! colspan=1| bū́ti – to be
+|-
+|align="right"|'''I'''
+|dìrb'''au'''
+|nor'''ė́jau'''
+|skaič'''iaũ'''
+|praus'''iaũsi'''
+|buv'''aũ'''
+|-
+|align="right"|'''You (singular)'''
+|dìrb'''ai'''
+|nor'''ė́jai'''
+|skait'''eĩ'''
+|praus'''eĩsi'''
+|buv'''aĩ'''
+|-
+|align="right"|'''He/She/It'''
+|dìrb'''o'''
+|nor'''ė́jo'''
+|skaĩt'''ė'''
+|praũs'''ėsi'''
+|bùv'''o'''
+|-
+|align="right"|'''We'''
+|dìrb'''ome'''
+|nor'''ė́jome'''
+|skaĩt'''ėme'''
+|praũs'''ėmės'''
+|bùv'''ome'''
+|-
+|align="right"|'''You (plural)'''
+|dìrb'''ote'''
+|nor'''ė́jote'''
+|skaĩt'''ėte'''
+|praũs'''ėtės'''
+|bùv'''ote'''
+|-
+|align="right"|'''They'''
+|dìrb'''o'''
+|nor'''ė́jo'''
+|skaĩt'''ė'''
+|praũs'''ėsi'''
+|bùv'''o'''
+|}
+
+E.g. '''dirbau''' = 'I worked', '''norėjai''' = 'You wanted', '''skaitėme''' = 'We read' (past tense)
+
+In the ''-ė'' conjugation type, the last stem consonant becomes palatalized. If the stem ends with a consonant ''-t'' or ''-d'', in the 1st person of singular it becomes ''-č'' or ''-dž'' respectively: ''kęsti'' to suffer → ''kentė'' he suffered → ''kenčiau'' I suffered; ''melsti'' to beg → ''meldė'' he begged → ''meldžiau'' I begged.
+
+The accentuation of all persons always corresponds to the accentuation of the 3rd person. The only exception is when its accented syllable is penultimate (excluding the reflexive formant '''-si''') and has a short vowel ('''bùvo''' – he was) or a rising tone ('''skaĩtė''' – he read, '''praũsėsi''' – he washed himself): in that case the '''1st and the 2nd persons of singular''' move the stress to the ending: '''buvaũ, buvaĩ; skaičiaũ, skaiteĩ; prausiaũsi, prauseĩsi'''.
+
+===== Past iterative tense =====
+
+The basic meaning of this tense translates as "used to" in English. Its construction is simple:
+
+* Remove the infinitive ending '''-ti''' (the stress pattern is always the same as the infinitive).
+* Add the suffix '''-dav-''' to the stem.
+* Finally, add the corresponding ending of the past tense for the first conjugation.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| dìrbti – to work
+! colspan=1| norė́ti – to want
+! colspan=1| skaitýti – to read
+! colspan=1| praũstis – to wash oneself
+! colspan=1| bū́ti – to be
+|-
+|align="right"|'''I'''
+|dìrb'''davau'''
+|norė́'''davau'''
+|skaitý'''davau'''
+|praũs'''davausi'''
+|bū́'''davau'''
+|-
+|align="right"|'''You (singular)'''
+|dìrb'''davai'''
+|norė́'''davai'''
+|skaitý'''davai'''
+|praũs'''davaisi'''
+|bū́'''davai'''
+|-
+|align="right"|'''He/She/It'''
+|dìrb'''davo'''
+|norė́'''davo'''
+|skaitý'''davo'''
+|praũs'''davosi'''
+|bū́'''davo'''
+|-
+|align="right"|'''We'''
+|dìrb'''davome'''
+|norė́'''davome'''
+|skaitý'''davome'''
+|praũs'''davomės'''
+|bū́'''davome'''
+|-
+|align="right"|'''You (plural)'''
+|dìrb'''davote'''
+|norė́'''davote'''
+|skaitý'''davote'''
+|praũs'''davotės'''
+|bū́'''davote'''
+|-
+|align="right"|'''They'''
+|dìrb'''davo'''
+|norė́'''davo'''
+|skaitý'''davo'''
+|praũs'''davosi'''
+|bū́'''davo'''
+|}
+
+E.g. '''dirbdavau''' = 'I used to work', '''norėdavai''' = 'You used to want', '''skaitydavome''' = 'We used to read'
+
+===== Future tense =====
+
+This tense basically describes what will happen in the future. It is relatively simple to form:
+
+* Remove the '''-ti''' ending from the infinitive form of the verb.
+* Add the '''-s-''' suffix which is used to form the Future Tense. Note, that '''...š''' or '''...ž''' + '''-s-''' assimilates to '''š''' without the final ''s'' (the infinitive '''vežti''' 'to transport' gives ve'''šiu''', ve'''ši''', ve'''š''' etc. in the Future Tense). In case the stem itself ends with a final '''...s''', it is eliminated as well: '''kąsti''' (to bite) → '''kąs'''.
+* Add the appropriate ending.
+* All the persons in this tense are completely regular (and retain the stress position and intonation of the infinitive), except for the 3rd one. The latter of this tense changes depending on several rules:
+
+:*If the 3rd person's form is stressed in the final or the only syllable with a falling tone (without the inclusion of the reflexive formant '''-is'''), it is systematically replaced with a rising tone ('''kalbė́ti''' (to speak) → '''kalbė̃s''', '''pramogáuti''' (to entertain oneself) → '''pramogaũs'''; '''aukótis''' (to sacrifice oneself) → '''aukõsis''' (the reflexive formant does not count)). This rule does not apply to cases when there the last syllable is not stressed ('''sáugoti''' (to protect) → '''sáugos''').
+
+:*Primary verbs acquire a short vowel '''i''' or '''u''' (instead of long '''y''' or '''ū''') when the infinitive and the present tense has a long vowel, but the past tense has a short vowel: ('''lýti''' (to rain): '''lỹja''', '''lìjo''' → '''lìs'''; '''pū́ti''' (to rot): '''pū̃va''', '''pùvo''' → '''pùs''', most importantly: '''bū́ti''' (to be): '''bū̃na''', '''bùvo''' → '''bùs''').
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| dìrbti – to work
+! colspan=1| norė́ti – to want
+! colspan=1| skaitýti – to read
+! colspan=1| praũstis – to wash oneself
+! colspan=1| bū́ti – to be
+|-
+|align="right"|'''I'''
+|dìrb'''siu'''
+|norė́'''siu'''
+|skaitý'''siu'''
+|praũ'''siuosi'''
+|bū́'''siu'''
+|-
+|align="right"|'''You (singular)'''
+|dìrb'''si'''
+|norė́'''si'''
+|skaitý'''si'''
+|praũ'''siesi'''
+|bū́'''si'''
+|-
+|align="right"|'''He/She/It'''
+|dir̃b'''s'''
+|norė̃'''s'''
+|skaitỹ'''s'''
+|praũ'''sis'''
+|bù'''s'''
+|-
+|align="right"|'''We'''
+|dìrb'''sime'''
+|norė́'''sime'''
+|skaitý'''sime'''
+|praũ'''simės'''
+|bū́'''sime'''
+|-
+|align="right"|'''You (plural)'''
+|dìrb'''site'''
+|norė́'''site'''
+|skaitý'''site'''
+|praũ'''sitės'''
+|bū́'''site'''
+|-
+|align="right"|'''They'''
+|dir̃b'''s'''
+|norė̃'''s'''
+|skaitỹ'''s'''
+|praũ'''sis'''
+|bù'''s'''
+|}
+
+E.g. '''dirbsiu''' = 'I shall work', '''norėsi''' = 'You will want', '''skaitysime''' = 'We shall read'
+
+===== Compound tenses =====
+
+Compound tenses are periphrastic structures having temporal meanings usually relative to actions indicated by other verbs. Two groups of such tenses exist in modern Lithuanian: Perfect and Inchoative. All of them require an auxiliary verb '''būti''' (to be) in its respective form and an active voice participle.
+
+====== Perfect tenses ======
+
+There are four perfect tenses in Lithuanian (present, past, past iterative and future) which are all formed using the verb '''būti''' in its respective tense and person as well as the active '''past simple''' participle in its respective number and gender:
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| Present perfect
+! colspan=1| Past perfect
+! colspan=1| Past iterative perfect
+! colspan=1| Future perfect
+|-
+|align="right"|'''I'''
+|esu skaĩtęs / skaĩčiusi
+|buvau skaitęs / skaičiusi
+|būdavau skaitęs / skaičiusi
+|būsiu skaitęs / skaičiusi
+|-
+|align="right"|'''You (singular)'''
+|esi skaitęs / skaičiusi
+|buvai skaitęs / skaičiusi
+|būdavai skaitęs / skaičiusi
+|būsi skaitęs / skaičiusi
+|-
+|align="right"|'''He/She/It'''
+|yra skaitęs / skaičiusi
+|buvo skaitęs / skaičiusi
+|būdavo skaitęs / skaičiusi
+|bus skaitęs / skaičiusi
+|-
+|align="right"|'''We'''
+|esame skaĩtę / skaĩčiusios
+|buvome skaitę / skaičiusios
+|būdavome skaitę / skaičiusios
+|būsime skaitę / skaičiusios
+|-
+|align="right"|'''You (plural)'''
+|esate skaitę / skaičiusios
+|buvote skaitę / skaičiusios
+|būdavote skaitę / skaičiusios
+|būsite skaitę / skaičiusios
+|-
+|align="right"|'''They'''
+|yra skaitę / skaičiusios
+|buvo skaitę / skaičiusios
+|būdavo skaitę / skaičiusios
+|bus skaitę / skaičiusios
+|}
+
+These tenses (except for present perfect) correspond roughly to equivalent English perfect tenses (I had read / I will have read). They are used in various contexts for very different meanings, but they usually indicate an action that happened before another action said with another verb, noun or similar: ''Tos knygos neėmiau, nes jau ją '''buvau skaitęs''''' – ''I didn't take that book because I '''had already read''' it''; ''Po kelionės vaikai '''bus labai pasiilgę''' tėvų'' – ''After the trip the children '''will have badly missed''' their parents''.
+
+They are also used for a generalized meaning not associated with a specific event (equivalent of English "Have you ever done it?"): ''Ar esi buvęs Paryžiuje?'' – ''Have you ever been to Paris [any time in your life]?''; ''Esu skaitęs, kad vaistai nuo peršalimo nepadeda'' – ''I read [some time ago] that pharmaceuticals are useless against common cold''.
+
+Compare phrases: ''Ar buvai Paryžiuje?'' – ''Were you in Paris [that day]?''; ''Skaičiau, kad vaistai nuo peršalimo nepadeda'' – ''I read [that day, at a specific moment in my life] that pharmaceuticals are useless against common cold''.
+
+The perfect tenses are a common feature of the Lithuanian language and are often used in all types of spoken and written speech.
+
+====== Inchoative tenses ======
+
+There are three inchoative tenses in Lithuanian (past, past iterative and future) which are all formed using the verb '''būti''' in its respective tense and person, as well as the active '''present''' simple participle in its respective number and gender, complemented with the prefix '''be-'''. Note the absence of the present inchoative tense.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| Past inchoative
+! colspan=1| Past iterative inchoative
+! colspan=1| Future inchoative
+|-
+|align="right"|'''I'''
+|buvau beskaitąs / beskaitanti
+|būdavau beskaitąs / beskaitanti
+|būsiu beskaitąs / beskaitanti
+|-
+|align="right"|'''You (singular)'''
+|buvai beskaitąs / beskaitanti
+|būdavai beskaitąs / beskaitanti
+|būsi beskaitąs / beskaitanti
+|-
+|align="right"|'''He/She/It'''
+|buvo beskaitąs / beskaitanti
+|būdavo beskaitąs / beskaitanti
+|bus beskaitąs / beskaitanti
+|-
+|align="right"|'''We'''
+|buvome beskaitą / beskaitančios
+|būdavome beskaitą / beskaitančios
+|būsime beskaitą / beskaitančios
+|-
+|align="right"|'''You (plural)'''
+|buvote beskaitą / beskaitančios
+|būdavote beskaitą / beskaitančios
+|būsite beskaitą / beskaitančios
+|-
+|align="right"|'''They'''
+|buvo beskaitą / beskaitančios
+|būdavo beskaitą / beskaitančios
+|bus beskaitą / beskaitančios
+|}
+
+These tenses mostly indicate an action that was interrupted by another action said with another verb. They correspond roughly to English "...was about to do something, when": ''Tėvas '''buvo beskaitąs''' laikraštį, bet kažkas paskambino'' – ''The father '''was about to read''' a newspaper, but someone called''.
+
+They can also indicate an action that have started and is still going on during another action (equivalent of English continuous tenses), but they are almost never used in such a way: ''Kai grįši namo, motina '''bus bemieganti''''' – ''When you will get back home, the mother '''will be sleeping'''''.
+
+Inchoative tenses are not a part of common Lithuanian speech, their use is limited to literary language and even there only past inchoative tense is ever used.
+
+==== Indirect mood ====
+
+The indirect mood in Lithuanian has all and the same tenses (including compound tenses) as the indicative mood, but is not conjugated. Instead of being composed of a conjugatable verb, they are made of pure active participle in nominative case, thus they must match the gender and number of the subject.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| Singular
+! colspan=1| Plural
+|-
+!Present
+|skaitą̃s, skaĩtanti
+|skaitą̃, skaitančios
+|-
+!Past
+|skaĩtęs, skaĩčiusi
+|skaĩtę, skaĩčiusios
+|-
+!Past iterative
+|skaitýdavęs, skaitýdavusi
+|skaitýdavę, skaitýdavusios
+|-
+!Future
+|skaitýsiąs, skaitýsianti
+|skaitýsią, skaitýsiančios
+|-
+!Present perfect
+|esą̃s skaĩtęs, ẽsanti skaĩčiusi
+|esą̃ skaĩtę, ẽsančios skaĩčiusios
+|-
+!Past perfect
+|bùvęs skaitęs, bùvusi skaĩčiusi
+|bùvę skaitę, bùvusios skaĩčiusios
+|-
+!Past iterative perfect
+|bū́davęs skaĩtęs, bū́davusi skaĩčiusi
+|bū́davę skaĩtę, bū́davusios skaĩčiusios
+|-
+!Future perfect
+|bū́siąs skaĩtęs, bū́sianti skaĩčiusi
+|bū́sią skaĩtę, bū́siančios skaĩčiusios
+|-
+!Past inchoative
+|bùvęs beskaitą̃s, bùvusi beskaĩtanti
+|bùvę beskaitą̃, bùvusios beskaĩtančios
+|-
+!Past iterative inchoative
+|bū́davęs beskaitą̃s, bū́davusi beskaĩtanti
+|bū́davę beskaitą̃, bū́davusios beskaĩtančios
+|-
+!Future inchoative
+|bū́siąs beskaitą̃s, bū́sianti beskaĩtanti
+|bū́sią beskaitą̃, bū́siančios beskaĩtančios
+|}
+
+The indirect mood, sometimes called "participle speech", has multiple uses, but primarily denote actions not experienced directly by the speaker and bearing a high degree of uncertainty: ''Čia kažkada '''stovėjusi''' tvirtovė'' – [I'm not really sure, it seems like] some time ago there '''stood''' a fortress here.
+
+Another widely known use of the indirect mood is describing actions in fictional literature (especially folklore) (could be considered as an equivalent of French [[Passé simple]], except that in Lithuanian it is not limited to the past): ''Kartą '''gyvenęs''' kalvis, kuris '''turėjęs''' du sūnus'' – Once there '''lived''' a smith who '''had''' two sons.
+
+In modern Lithuanian this mood is not very widely used, because other ways of expressing uncertainty and fictional events exist.
+
+==== Imperative mood ====
+
+The [[imperative mood]] has three forms or tenses (simple, perfect and inchoative). The simple form of the 2nd person of singular, the 1st and the 2nd persons of plural is very regular:
+
+*Remove the infinitive ending -ti (the stress pattern is always the same as the infinitive).
+*Add the suffix -k- to the stem.
+*Finally, add the corresponding ending.
+
+The 3rd person imperative is sometimes called the "optative mood" and has numerous equivalent forms:
+
+*By adding a simple grammatical prefix '''te-''' to the 3rd person of the present tense ('''tedìrba''' – let him work). Used moderately often.
+*By adding a simple grammatical prefix '''te-''' to the 3rd person of the present tense and replacing the ending with '''-ie''' or '''-ai''' ('''tedirbiẽ''' – let him work, '''teskaĩtai''' – let him read). Obsolete / rare.
+*By adding one of the particles '''tè, tegùl, tegù, laĩ''' before the 3rd person of the present tense (or sometimes the future tense): '''tegùl dìrba''' – let him work, '''laĩ skaĩto''' – let him read. Used very often.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| dìrbti – to work
+! colspan=1| norė́ti – to want
+! colspan=1| skaitýti – to read
+! colspan=1| praũstis – to wash oneself
+! colspan=1| bū́ti – to be
+|-
+|align="right"|'''I'''
+|colspan=5|—
+|-
+|align="right"|'''You (singular)'''
+|dìrb'''k'''(i)
+|norė́'''k'''(i)
+|skaitý'''k'''(i)
+|praũs'''kis'''
+|bū'''k'''(i)
+|-
+|align="right"|'''He/She/It'''
+|'''te'''dirb'''iẽ''' / '''te'''dìrb'''a'''
+|'''te'''nor'''iẽ''' / '''te'''nór'''i'''
+|'''te'''skaĩt'''ai''' / '''te'''skaĩt'''o'''
+|'''te'''sipraus'''iẽ''' / '''te'''sipraũs'''ia'''
+|'''te'''es'''iẽ''' / '''te'''būn'''iẽ''' / '''te'''bùs
+|-
+|align="right"|'''We'''
+|dìrb'''kime'''
+|norė́'''kime'''
+|skaitý'''kime'''
+|praũs'''kimės'''
+|bū́'''kime'''
+|-
+|align="right"|'''You (plural)'''
+|dìrb'''kite'''
+|norė́'''kite'''
+|skaitý'''kite'''
+|praũs'''kitės'''
+|bū́'''kite'''
+|-
+|align="right"|'''They'''
+|'''te'''dirb'''iẽ''' / '''te'''dìrb'''a'''
+|'''te'''nor'''iẽ''' / '''te'''nór'''i'''
+|'''te'''skaĩt'''ai''' / '''te'''skaĩt'''o'''
+|'''te'''sipraus'''iẽ''' / '''te'''sipraũs'''ia'''
+|'''te'''es'''iẽ''' / '''te'''būn'''iẽ''' / '''te'''bùs
+|}
+
+The imperative mood is used to describe an action that the speaker wants another person to do: '''''Duok''' pinigų!'' – Give me some money! ''Iš pradžių '''įleiskime''' svečius.'' – '''Let us''' at first '''invite''' the guests in. This mood is actively used in modern Lithuanian.
+
+The 2nd person of singular has its ending '''-i''' only in poetry / fictional literature. The usage of this ending is usually an indication of poetic style.
+
+The perfect and inchoative forms are composed of the auxiliary verb '''būti''' in its simple imperative form and of an active participle of the main verb, matched according to gender and number of the person:
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| Perfect
+! colspan=1| Inchoative
+|-
+|align="right"|'''I'''
+|colspan=5|—
+|-
+|align="right"|'''You (singular)'''
+|būk skaitęs / skaičiusi
+|būk beskaitąs / beskaitainti
+|-
+|align="right"|'''He/She/It'''
+|tebūnie skaitęs / skaičiusi
+|tebūnie beskaitąs / beskaitainti
+|-
+|align="right"|'''We'''
+|būkime skaitę / skaičiusios
+|būkime beskaitą / beskaitainčios
+|-
+|align="right"|'''You (plural)'''
+|būkite skaitę / skaičiusios
+|būkite beskaitą / beskaitainčios
+|-
+|align="right"|'''They'''
+|tebūnie skaitę / skaičiusios
+|tebūnie beskaitą / beskaitančios
+|}
+
+Imperative perfect means an instruction of the speaker that has to be completed before some other event: ''Pirmadienį jau '''būkite apsisprendę''''' – Please '''already have''' your decision '''made''' by Monday. This form is actively used in modern Lithuanian.
+
+Imperative inchoative means an instruction of the speaker that has to be started before some other event and continued afterwards: ''Kai grįšiu, '''būkite bedirbą''''' – When I'll come back, please '''be working'''. This form is obsolete.
+
+==== Conditional mood ====
+
+The conditional mood has three forms or tenses (simple, perfect and inchoative). It is very regular to form:
+
+*Remove the infinitive suffix -ti (the stress pattern is always the same as the infinitive).
+*Add the respective suffix and ending.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| dìrbti – to work
+! colspan=1| norė́ti – to want
+! colspan=1| skaitýti – to read
+! colspan=1| praũstis – to wash oneself
+! colspan=1| bū́ti – to be
+|-
+|align="right"|'''I'''
+|dìrb'''čiau'''
+|norė́'''čiau'''
+|skaitý'''čiau'''
+|praũs'''čiausi'''
+|bū́'''čiau'''
+|-
+|align="right"|'''You (singular)'''<sup>1</sup>
+|dìrb'''tum(ei)'''
+|norė́'''tum(ei)'''
+|skaitý'''tum(ei)'''
+|praũs'''tumeisi'''
+|bū́'''tum(ei)'''
+|-
+|align="right"|'''He/She/It'''
+|dìrb'''tų'''
+|norė́'''tų'''
+|skaitý'''tų'''
+|praũs'''tųsi'''
+|bū́'''tų'''
+|-
+|align="right"|'''We'''<sup>2</sup>
+|dìrb'''tu(mė)me'''
+|norė́'''tu(mė)me'''
+|skaitý'''tu(mė)me'''
+|praũs'''tu(mė)mės'''
+|bū́'''tu(mė)me'''
+|-
+|align="right"|'''You (plural)'''<sup>2,3</sup>
+|dìrb'''tu(mė)te'''
+|norė́'''tu(mė)te'''
+|skaitý'''tu(mė)te'''
+|praũs'''tu(mė)tės'''
+|bū́'''tu(mė)te'''
+|-
+|align="right"|'''They'''
+|dìrb'''tų'''
+|norė́'''tų'''
+|skaitý'''tų'''
+|praũs'''tųsi'''
+|bū́'''tų'''
+|}
+
+:*<sup>1</sup>The longer form with the ending '''-ei''' is used very rarely in modern Lithuanian.
+
+:*<sup>2</sup>In modern colloquial speech the shorter forms actually retain the '''-mė-''' syllable, but remove the final '''-e''' (except for reflexive verbs): '''dirbtumėm, skaitytumėt'''.
+
+:*<sup>3</sup>A shorter form without '''-mė-''' does exist, but is used very rarely.
+
+This mood is actively used in modern Lithuanian and one of its functions corresponds to the English conditional mood. The conditional mood is used to describe a hypothetical action that could take place if certain conditions were met (hence the name) or a desired action in present or in future: ''Panaikinus muitus, '''sumažėtų''' prekių kainos'' – Having eliminated customs duties, prices '''would go''' down. Conditional mood is used in conditional (''if'') sentences; this usage requires conditional mood in subordinate and main clauses if both actions are perceived as hypothetical: ''Visi '''laimėtų''', jeigu '''priimtumėte''' šį pasiūlymą.'' – There '''would be''' a win-win situation for everyone if you '''accepted''' this offer.
+
+Another very important function of conditional mood is the expression of purpose in [[final clause]]s (corresponds to [[Subjunctive mood]] in English): ''Dirbu viršvalandžius, kad '''uždirbčiau''' daugiau.'' – I work extra hours so that I '''earn''' more.
+
+The third function of conditional mood is the expression of politeness: '''''Siūlyčiau''' panagrinėti šią temą kitu kampu.'' – '''I would like to suggest''' to examine this topic from a different angle.
+
+The perfect and inchoative forms are composed of the auxiliary verb '''būti''' in its simple conditional form and of an active participle of the main verb, matched according to gender and number of the person:
+
+:{| class="wikitable"
+|-
+!&nbsp;
+! colspan=1| Perfect
+! colspan=1| Inchoative
+|-
+|align="right"|'''I'''
+|būčiau skaitęs / skaičiusi
+|būčiau beskaitąs / beskaitainti
+|-
+|align="right"|'''You (singular)'''
+|būtum skaitęs / skaičiusi
+|būtum beskaitąs / beskaitainti
+|-
+|align="right"|'''He/She/It'''
+|būtų skaitęs / skaičiusi
+|būtų beskaitąs / beskaitainti
+|-
+|align="right"|'''We'''
+|būtume skaitę / skaičiusios
+|būtume beskaitą / beskaitainčios
+|-
+|align="right"|'''You (plural)'''
+|būtumėte skaitę / skaičiusios
+|būtumėte beskaitą / beskaitainčios
+|-
+|align="right"|'''They'''
+|būtų skaitę / skaičiusios
+|būtų beskaitą / beskaitančios
+|}
+
+Conditional perfect is actively used in modern Lithuanian. It means a hypothetical action in the past that would have taken place if certain conditions had been met (corresponds to the semantically equivalent [[Conditional perfect#English|form in English]]): ''Vadovas '''būtų pritaręs''' renginiui, bet niekas nerodė iniciatyvos.'' – The leader '''would have approved''' the event, but nobody showed initiative.
+
+Inchoative conditional means an action that could have started in the past and continued until present if certain conditions were met: ''Jei jis būtų paklaũsęs mano patarimo, šiandien '''būtų besimáudąs''' turtuose.'' – If he had listened to my advice, today he '''would be rolling''' in money. This form is obsolete.
+
+===Passive voice===
+
+In Lithuanian passive voice is always analytical and structured differently than the active voice. Passive voice has no perfect and no inchoative tenses, because similar semantic relationships can be expressed by the present / past passive participle dichotomy.
+
+Passive voice is always composed of the auxiliary verb '''būti''' in its respective tense / person and either a '''present passive participle''' or a '''past passive participle''' that must match the gender and number of the subject. Sometimes the necessity participle can be used as well. In order to avoid redundancy, the following table only includes the third (masculine) person of singular.
+
+:{| class="wikitable"
+|-
+!&nbsp;
+!&nbsp;
+! colspan=1| Present passive
+! colspan=1| Past passive
+|-
+!rowspan=4|Indicative mood
+!Present
+|yra baigiamas
+|yra baigtas
+|-
+!Past
+|bùvo baĩgiamas
+|buvo baigtas<sup>1</sup>
+|-
+!Past iterative
+|bū́davo baigiamas
+|būdavo baigtas
+|-
+!Future
+|bùs baigiamas
+|bus baigtas
+|-
+!rowspan=4|Indirect mood
+!Present
+|esą̃s baigiamas
+|esąs baigtas
+|-
+!Past
+|bùvęs baigiamas
+|buvęs baigtas<sup>1</sup>
+|-
+!Past iterative
+|bū́davęs baigiamas
+|būdavęs baigtas
+|-
+!Future
+|bū́siąs baigiamas
+|būsiąs baigtas
+|-
+!colspan=2|Imperative mood
+|tebūnie baigiamas
+|tebūnie baigtas
+|-
+!colspan=2|Conditional mood
+|būtų baigiamas
+|būtų baigtas
+|}
+
+:*<sup>1</sup>This form for all persons can expressed using the passive (invariable) neuter gender participle '''bū́ta''' instead of the active participle '''bùvęs''', usually for intransitive verbs: ''Prieš tai mes '''buvome [buvę] apsilankę''' muziejuje → Prieš tai mūsų '''būta apsilankyta''' muziejuje.'' – Before that we '''had gone''' to a museum → Before that '''it had been gone''' by us to a museum. This structure is rarely used in modern Lithuanian.
+
+The subject of the active voice is converted to the passive voice using its '''possessive''' genitive form (hence '''aš, tu''' (I, you) converts not into '''manęs, tavęs''', but '''mano, tavo'''): ''Vaikus pagimdei '''tu''', bet užauginau '''aš''' → Vaikai buvo '''tavo''' pagimdyti, bet '''mano''' užauginti.'' – '''You''' gave birth to the children, but '''I''' raised them → The children were given birth by '''you''', but raised by '''me'''. The possessive adjectives are indeclinable.<ref>{{Cite book|title=Beginner's Lithuanian|last=Dambriūnas, Leonardas, 1906-1976.|date=1999|publisher=Hippocrene Books|others=Klimas, Antanas, 1924-, Schmalstieg, William R.|isbn=0-7818-0678-X|location=New York, N.Y.|pages=27|chapter=2.3|oclc=40553239|orig-year=1966}}</ref>
+
+Passive voice structures with '''present''' participle are the passive equivalents of active voice '''simple''' tenses: ''Mokslininkai atranda tolimas planetas → Tolimos planetos yra mokslininkų atrandamos'' – Scientists discover distant planets → Distant planets are being discovered by scientists. ''Kaime bijodavo vilkų → Kaime būdavo bijoma vilkų'' – Village [people] used to fear wolves → Wolves used to be feared by village [people].
+
+Passive voice structures with '''past''' participle are the passive equivalents of active voice '''perfect''' tenses: ''Siuntinį paštas bus pristatęs iki Kalėdų → Siuntys bus pašto pristatytas iki Kalėdų'' – The post office will have delivered the parcel until Christmas → The parcel will have been delivered by the post office until Christmas. ''Už tokį poelgį tave būtų pagerbę → Už tokį poelgį būtum pagerbtas'' – One would have praised you for such a behaviour → You would have been praised for such a behaviour.
+
+Because of the flexibility offered by the neuter gender, in Lithuanian most active voice structures can be converted into passive voice, including intransitive, reflexive and even impersonal verbs. A transitive example (some or most of the English translations are literal, do not make sense in English and are shown only to give an idea):
+
+*''Tinginys valgo duoną → Duona yra tinginio valgoma'' – A lazy one is eating bread → Bread is being eaten by a lazy one.
+*An intransitive example: ''Vaikai smagiai pažais ir nueis miegoti → Vaikų bus smagiai pažaista ir nueita miegoti'' – Children will play pleasantly and then go to sleep → It we be played pleasantly and then gone to sleep by children.
+*A reflexive example: ''Šeimos pykdavosi dėl menkniekių → Šeimose būdavo pykstamasi dėl menkniekių'' – The families used to quarrel for nothing → It used to be quarrelled in the families for nothing.
+*An impersonal example: ''Po vakarykštės audros daug prilijo → Po vakarykštės audros daug prilyta'' – There is a lot of rain water after yesterday's storm – It has been a lot of rain water after yesterday's storm.
+
+Generally in modern Lithuanian absence of the subject has a very limited use (except for impersonal verbs). In cases where an active voice structure would have no subject or there is no need for it (except for impersonal verbs), a passive voice equivalent is used instead: ''Čia nerūko! → Čia nerūkoma!'' – [Nobody] smokes here! → No smoking here! (The subject would be too broad). ''Skubiai išnuomoja dviejų kambarių butą. → Skubiai išnuomojamas dviejų kambarių butas.'' [Someone] is urgently renting a two-room apartment. → A two-room apartment is urgently for rent. (The subject is not necessary).
+
+The opposite case is true as well. If a passive voice structure has an agent expressed in the genitive case, an active voice structure is preferred: ''Pilietinė visuomenė turi būti skatinama vyriausybės.'' → (more common) ''Vyriausybė turi skatinti pilietinę visuomenę.'' – A civil society should be promoted by the government. → The government should promote a civil society.
+
+=== Participles ===
+
+Lithuanian retains a rich system of participles, fourteen in total. In contrast English contains just two: the present participle ("the eating cow") and the past participle ("the eaten cow").
+
+Adjectival participles decline as adjectives, while adverbial participles are not declined.[http://www.lituanus.org/1984_3/84_3_05.htm].
+
+In Lithuanian participles are very important part of every type of speech. All of them have their own function, but not all are used equally often.
+
+==== Adjectival participles ====
+
+Adjectival participles have all the adjectival characteristics: three genders (masculine, feminine, neuter), pronominal forms, mostly identical declension and sometimes even degrees of comparison. Their primary function is to describe a nominal part of speech (usually a noun), like any adjective would in their position, hence they are matched by gender, case and number with the noun they are describing.
+
+They can be '''active''' or '''passive'''. In the following tables only nominative case forms are given.
+
+The verb used is '''baĩgti''' (to finish).
+
+'''Active''' (non pronominal forms):
+
+::{| class="wikitable"
+!!!colspan="3"|Simple
+!colspan="3"|Reflexive
+|-
+!!!Masculine||Feminine||Neuter||Masculine||Feminine||Neuter
+|-
+!Present
+|baigią̃s / baĩgiantis||baĩgianti||baigią̃||besibaigią̃s / besibaĩgiantis / baĩgiąsis||besibaĩgianti / baĩgiantis||besibaigią̃ / baigią̃si
+|-
+!Past
+|baĩgęs||baĩgusi||baĩgę||baĩgęsis||baĩgusis||baĩgęsi
+|-
+!Past iterative
+|baĩgdavęs||baĩgdavusi||baĩgdavę||baĩgdavęsis||baĩgdavusis||baĩgdavęsi
+|-
+!Future
+|baigsią̃s / baĩgsiantis||baĩgsianti||baigsią̃||baĩgsiąsis||baĩgsiantis||baĩgsiąsi
+|}
+
+'''Active''' (pronominal counterparts):
+
+:{| class="wikitable"
+!!!colspan="3"|Simple
+!colspan="3"|Reflexive
+|-
+!!!Masculine||Feminine||Neuter||Masculine||Feminine||Neuter
+|-
+!Present
+|baigiantỹsis||baigiančióji||–||besibaigiantỹsis||besibaigiančióji||–
+|-
+!Past
+|baigusỹsis||baigusióji||–||(pa)sibaigusỹsis<sup>1</sup>||(pa)sibaigusióji<sup>1</sup>||–
+|-
+!Past iterative
+|–||–||–||–||–||–
+|-
+!Future
+|baigsiantỹsis||baigsiančióji||–||(pa)sibaigsiantỹsis<sup>1</sup>||(pa)sibaigsiančióji<sup>1</sup>||–
+|}
+
+:*<sup>1</sup>This form only exists for verbs with prefixes (except for '''be-''').
+
+*One of the main functions of active participles is to describe a characteristic of a noun related to some ongoing, past or future action in which the said noun is the agent: ''migruojantys paukščiai'' – migrating birds, ''nepatyręs vairuotojas'' – inexperienced driver, ''pablogėsiančios darbo sąlygos'' – working conditions that will worsen. Only present, past simple and future active participles can fulfill this function.
+*Another function of active participles is to describe a '''secondary action''' performed by the '''sentence subject''' before the main action: '''''Atidariusi''' langą mergina grožėjosi tekančia saule.'' – Having opened the window, the girl admired the sunrise. This function is limited to the past simple participle and is one of its most common uses. If there is a need to describe a secondary action performed '''by the sentence subject''' '''at the same time''' as the main action, the ''pusdalyvis'' must be used instead (present active participle does not have this function): '''''Atidarydama''' langą mergina grožėjosi tekančia saule.'' – While opening the window, the girl admired the sunrise. See "Adverbial participles" for further explanation.
+*The third, a somewhat rarer, function is to explain (precise) another verb by indicating a secondary action of which the subject is the agent: ''Kaltinamasis prisipažįsta '''padaręs''' nusikaltimą ir labai dėl to gailisi.'' – The defendant confesses '''having committed''' the crime and sincerely regrets it. If the subject is not the agent '''expressed in the nominative case of a noun or a pronoun''', an adverbial participle must be used instead.
+
+'''Passive''' (non pronominal forms):
+
+:{| class="wikitable"
+!!!colspan="3"|Simple
+!colspan="3"|Reflexive
+|-
+!!!Masculine||Feminine||Neuter||Masculine||Feminine||Neuter
+|-
+!Present
+|baĩgiamas||baigiamà||baĩgiama||(už)sibaĩgiamas<sup>2</sup>||(už)sibaigiamà<sup>2</sup>||baĩgiamasi
+|-
+!Past
+|baĩgtas||baigtà||baĩgta||(už)sìbaigtas<sup>2</sup>||(už)sibaigtà<sup>2</sup>||baĩgtasi
+|-
+!Past iterative
+|colspan="6" style="text-align: center;"| —
+|-
+!Future
+|baĩgsimas||baigsimà||baĩgsima||(už)sibaĩgsimas<sup>2</sup>||(už)sibaigsimà<sup>2</sup>||baĩgsimasi
+|-
+!Necessity
+|baĩgtinas||baigtinà||baĩgtina||(už)sibaĩgtinas<sup>2</sup>||(už)sibaigtinà<sup>2</sup>||baĩgtinasi
+|}
+
+'''Passive''' (pronominal counterparts):
+
+:{| class="wikitable"
+!!!colspan="3"|Simple
+!colspan="3"|Reflexive
+|-
+!!!Masculine||Feminine||Neuter||Masculine||Feminine||Neuter
+|-
+!Present
+|baigiamàsis||baigiamóji||–||(už)sibaigiamàsis<sup>2</sup>||(už)sibaigiamóji<sup>2</sup>||–
+|-
+!Past
+|baigtàsis||baigtóji||–||(už)sibaigtàsis<sup>2</sup>||(už)sibaigtóji<sup>2</sup>||–
+|-
+!Past iterative
+|colspan="6" style="text-align: center;"| —
+|-
+!Future
+|baigsimàsis||baigsimóji||–||(už)sibaigsimàsis<sup>2</sup>||(už)sibaigsimóji<sup>2</sup>||–
+|-
+!Necessity
+|baigtinàsis||baigtinóji||–||(už)sibaigtinàsis<sup>2</sup>||(už)sibaigtinóji<sup>2</sup>||–
+|}
+
+:*<sup>2</sup>This form only exists for transitive verbs with prefixes (except for '''be-'''). In Lithuanian reflexive verbs can be transitive: ''susipinti plaukus'' – to plait one's hair [to oneself].
+
+Passive voice present participles and the necessity participles can acquire degrees of comparison if their meaning allows it: '''mėgti''' (to like) → '''liked''' (favourite), '''mėgstamesnis''' (more liked), '''mėgstamiausias''' (most liked/favorite); '''būti''' (to be) → '''būtinas''' (necessary), '''būtinesnis''' (more necessary), '''būtiniausias''' (the most necessary).
+
+The necessity participles are used to describe something that has to be done: '''''Įsidėmėtinos''' rašybos atvejis'' – A spelling case '''one has to pay special attention to'''. '''''Abejotina''', ar mums pavyks'' – '''It is to be doubted''' if we succeed. Mostly limited to official styles, but certain participles are actively used in colloquial speech as well, some of them being considered more adjectives than verbs: ''Jis suimtas už '''pasibaisėtiną''' elgesį su gyvūnais'' – He was arrested for an '''appalling''' behaviour with animals. (Pasibaisėtinas = one that has to be detested).
+
+Main passive participles mainly denote actions that have impact upon nouns they describe: ''statomas namas'' – a house that is being built, ''iškeltas klausimas'' – a question that has been raised, ''vykdysimas įsakymas'' – an order that will be obeyed. Future passive participles are rare in modern speech.
+
+Present passive participles very often have an active meaning, especially if the verb is intransitive, and are one of the terminology building tools: ''kuliamoji mašina'' – a [[threshing machine]], ''taupomasis bankas'' – a [[savings bank]], ''grįžtamasis ryšys'' – a [[feedback]]. If the verb is transitive, it can be used in its intransitive meaning in form of a present passive participle: ''gydomasis vanduo'' – healing water. Compare: ''geriamasis vanduo'' – drinking water. The difference in those cases is only semantic (water cannot be ''healed'', thus it is accepted that ''gydomasis vanduo'' denotes ''water having healing properties'', but not ''water being healed'').
+
+==== Adverbial participles ====
+
+As the name suggests, adverbial participles have the characteristics of an adverb and are used to describe the verb instead of the subject. There are three types of such participles: ''padalyvis'' ("sub-participle"), ''pusdalyvis'' ("half-participle") and ''būdinys'' ("descriptive participle"). These forms are not conjugatable, although the ''pusdalyvis'' has feminine and masculine genders for both singular and plural. These forms do not have equivalents in English or other languages (except Latvian), the given translations of these names are ''ad hoc''.
+
+:{| class="wikitable"
+!!!Simple
+!Reflexive
+|-
+!Present ''padalyvis''
+|baĩgiant||baĩgiantis
+|-
+!Past ''padalyvis''
+|baĩgus||baĩgusis
+|-
+!Past iterative ''padalyvis''
+|baĩgdavus||baĩgdavusis
+|-
+!Future ''padalyvis''
+|baĩgsiant||baĩgsiantis
+|-
+!rowspan="2"|''Pusdalyvis''
+|baĩgdamas ({{abbr|m.|masculine}} {{abbr|sg.|singular}}), baigdamà ({{abbr|f.|feminine}} {{abbr|sg.|singular}})||baĩgdamasis ({{abbr|m.|masculine}} {{abbr|sg.|singular}}), baĩgdamasi ({{abbr|f.|feminine}} {{abbr|sg.|singular}})
+|-
+|baigdamì ({{abbr|m.|masculine}} {{abbr|pl.|plural}}), baĩgdamos ({{abbr|f.|feminine}} {{abbr|pl.|plural}})||baĩgdamiesi ({{abbr|m.|masculine}} {{abbr|pl.|plural}}), baĩgdomosi ({{abbr|f.|feminine}} {{abbr|pl.|plural}})
+|-
+!''Būdinys'' (I)
+|baigtè||–
+|-
+!''Būdinys'' (II)
+|baigtinaĩ||–
+|}
+
+*The primary function of the ''padalyvis'' is to indicate an action that is happening at the same time (present ''padalyvis'') or before (past ''padalyvis'') the event said with the main verb, '''of which the sentence subject is not the agent''': ''Lauko darbus mes dirbome saulei '''šviečiant''''' (present ''padalyvis'') – We were doing the field works '''the sun shining'''; ''Skaniai '''pavalgius''' malonu pamiegoti'' (past ''padalyvis'') – '''''Having eaten''' a delicious meal, it is pleasant to take a nap''.
+*The primary function of the ''pusdalyvis'' is to indicate a simultaneous, but secondary action '''done by the sentence subject''' in nominative case (it must be matched according to gender and number with the said subject): ''Lauko darbus '''mes''' dirbome '''dainuodami''''' – We were doing the field works '''while singing'''. In this case the present ''padalyvis'' participle can be used as well: ''Lauko darbus '''mes''' dirbome '''dainuojant''''', but this time the sentence will mean: We were doing the field works '''while someone else was singing'''. A secondary action done previously '''by the sentence subject''' can be expressed with adjectival past simple participle: ''Lauko darbus '''mes''' dirbome '''padainavę''''' – We were doing the field works '''having sung'''. When used with the preposition ''prieš'' (''before''), ''pusdalyvis'' and ''padalyvis'' denote a secondary action in future: ''Lauko darbus '''mes''' dirbome '''prieš dainuodami'''''. – We were doing the field works '''before singing'''. ''Lauko darbus '''mes''' dirbome '''prieš dainuojant'''''. – We were doing the field works '''before someone else started to sing'''.
+
+This table shows the participle usage in temporal [[adverbial phrase]]s:
+
+:{| class="wikitable"
+!!!Past action
+!Simultaneous action
+!Future action
+|-
+!Sentence subject is the agent
+|Past simple adjectival participle
+|''Pusdalyvis''
+|Prieš + ''pusdalyvis''
+|-
+!Sentence subject is not the agent
+|Past ''padalyvis''
+|Present ''padalyvis''
+|Prieš + ''padalyvis''
+|}
+
+*Another function of the ''padalyvis'' is to explain (precise) another verb by indicating a secondary action '''of which the subject is not the agent''': ''Vartydamas seną albumą, prisiminiau mus šiame ežere '''maudydavusis''''' – While seing an old photo album, I remembered us '''having used to swim''' in this lake. If the subject ''is the agent'', an adjectival participle must be used instead.
+
+This table shows the participle usage as an [[Object (grammar)|object]].{{clarify|date=October 2018}}:
+
+:{| class="wikitable"
+!!!Simultaneous action
+!Past action
+!Multiple actions in the past
+!Future action
+|-
+!Sentence subject is the agent
+|Present adjectival active participle
+|Past simple adjectival active participle
+|Past iterative adjectival active participle
+|Future adjectival active participle
+|-
+!Sentence subject is not the agent
+|Present ''padalyvis''
+|Past ''padalyvis''
+|Past iterative ''padalyvis''
+|Future ''padalyvis''
+|}
+
+*The ''būdinys'' (the descriptive or intensifying participle) reinforces the meaning of the verb being described: '''''Šaukte''' šaukiausi pagalbos, niekas neatsiliepė'' – I was shouting '''loudly''' for help, nobody answered. Type I ''būdinys'' is used relatively often in some written and colloquial speech. Type II ''būdinys'' is very rare and can only be found in literary language. Their primary function is the same. In some grammars they are not considered verbs, but adverbs derived from verbs.
+
+=== Grammatical aspect ===
+
+All Lithuanian verbs can be characterized by their [[Grammatical aspect|aspect]] which can be either perfective or imperfective. Nevertheless, this important dichotomy is semantical, rather than expressed by purely grammatical means.<ref>Dabartinės lietuvių kalbos gramatika. Vilnius, 1997, page 288–289</ref> Formally distinguishing an imperfective verb from its perfective counterpart is not possible, since those forms are not mutually exclusive or interdependent. Moreover, certain grammatical categories (like past iterative tense) automatically negate any perfectiveness a certain verb might have in infinitive or in other tenses. The opposite is true as well: a different tense (like an inchoative or perfect tense) of an otherwise imperfective verb automatically grants a perfective meaning. Contrary to [[Slavonic languages|modern Slavonic languages]], each and every Lithuanian verb, in spite of its aspect, has all tenses and forms described in previous chapters of this article.
+
+Nevertheless, certain very general rules can be laid down to detect the aspect of a verb in Lithuanian.
+
+The '''imperfective aspect''' of a verb means the continuity of an action or a repetitiveness of a completed action. The imperfective aspect can sometimes be implied by:
+
+*The absence of a prefix for certain verbs: '''dìrbti''' – to be working, '''šaũkti''' – to be shouting, '''krìsti''' – to be falling.
+*The presence of a suffix (except for ''-er(ė)ti'', ''-el(ė)ti'') combined with the absence of a prefix for certain verbs: '''maldáuti''' – to be begging, '''mė́tyti''' – to be throwing [multiple times], '''šokinė́ti''' – to be jumping [constantly, multiple times].
+*The impossibility for certain verbs to be used without a prefix: '''užgaulióti''' – to be bullying, '''pãsakoti''' – to be telling a story.
+*The complete or partial change of meaning for certain prefixed verbs: '''priklausýti''' – to be in possession (from '''klausýti''' – to listen), '''pakę̃sti''' – to tolerate (from '''kę̃sti''' – to suffer), '''atsidúoti''' – to be stinking (from '''dúoti''' – to give).
+*For some prefixed verbs that merely indicate the ability to do something: '''panèšti''' – to be able to carry, '''nusėdė́ti''' – to be able to sit.
+
+The '''perfective aspect''' of a verb means the completeness of an action. The perfective aspect can sometimes be implied by:
+
+*The presence of a prefix for certain verbs: '''padìrbti''' – to work for a certain amount of time, '''pašaũkti''' – to call, '''nukrìsti''' – to fall. There are very few perfective prefixed verbs that would distinguish themselves from their imperfective unprefixed counterparts only by their perfective meaning, since any prefix almost always has a semantical nuance.
+*The presence of the suffix ''-er(ė)ti'' or ''-el(ė)ti'': '''dìrsterėti''' – to take a glimpse, '''kúoktelėti''' – to become insane.
+
+In other cases the aspect is contextual. This might sometimes be implied by:
+
+*The absence of a suffix and a prefix for certain verbs:
+
+:– '''mèsti''' – to throw:
+
+::''Vakar mečiau darbą'' – I quit my job yesterday. (perfective)
+
+::''Visas senas knygas jis metė į šiukšlių dėžę'' – He was throwing all the old books to the trash bin. (imperfective)
+
+:– '''grį̃žti''' – to come back:
+
+::''Grįžęs namo, virtuvėje rasi sriubos.'' – Having come back home, you’ll find some soup in the kitchen. (perfective)
+
+::''Grįžtu namo, kol saulė dar nenusileido'' – I’m going home as the sun is not yet down. (imperfective)
+
+*A specific tense in some other cases:
+
+:– '''laimė́ti''' – to win:
+
+::''Kol kas mūsų komanda laimi'' – For the meantime our team is winning. (present tense, imperfective)
+
+::''mūsų komanda laimėjo dideliu skirtumu'' – Our team [has] won by a big difference. (past simple tense, perfective)
+
+=== Verb prefixes ===
+
+==== General usage notes ====
+Prefixes are added to verbs to make new verbs that have different color of the primary verb's meaning. The new verb and the primary verb are considered different words, taking different positions in vocabularies. However their meanings are related, often showing similarity to being forms of a single verb. In many instances a prefixed verb has no apparent semantical relationship with the primary verb. Prefixes have mostly restrictive sense, so they restrict the meaning of the primary not prefixed verb to certain direction, amount or limit of time.
+
+* '''ap-''' round (direction, perfective)
+* ''api-'' is a variant of ''ap-'' before ''b'' or ''p''
+* '''at-''' from, from somewhere (direction; place, perfective)
+* ''ati-'' is a variant of ''at-'' before ''d'' or ''t''
+* '''į-''' in (direction, perfective), be able to (imperfective)
+* '''iš-''' out (direction, perfective)
+* '''nu-''' away (direction), from the start place (action with some direction, perfective)
+* '''pa-''' a bit, slightly, some time (time or amount, imperfective), till end (for single actions, cf ''su-'', time or amount, perfective), under (direction, perfective)
+*'''par-''' similar to English ([[Latin language|Latin]]) ''re-'' (with some differences; perfective)
+* '''per-''' through (place, perfective), thoroughly, completely (perfective)
+* '''pra-''' by (direction, perfective), starting (time, perfective rarely)
+* '''pri-''' up, to (direction or place, perfective), to the place (of the action) (place, perfective), much, many (amount, sometimes perfective)
+* '''su-''' from everywhere (direction), together (place, perfective), till end (time, perfective), completely (long or complex action, perfective)
+* '''už-''' behind (direction, perfective), in (for limited time, cf ''į-'') (direction and time, perfective), suddenly, unexpectedly (time, perfective)
+* '''už-''' on, over (direction or place), completely (short action, cf. ''su-'', perfective)
+
+There are also three special modifying prefixes that can be used with other prefixed or unprefixed (including reflexive) verbs. They define different forms of the same verb, rather than a new verb:
+
+*''ne-'' is a prefix that makes [[negative mood|negative form]] of a verb: '''turiù''' – I have, '''neturiù''' – I haven't.
+*''be-'' says that an action of a verb:
+
+:– takes an undefined amount of time: ''Šitaip bedirbant galima susigadinti sveikatą'' – Working [for a long time] like that one can damage one’s health. This function allows ''be-'' to be used as a dummy prefix for reflexive present tense participles. In that case the reflexive formant moves right after the prefix, thus avoiding the formation of a complex reflexive ending: ''džiaũgtis'' – to rejoice → ''džiaũgiantisis'' – the one ({{abbr|masc.|masculine}}, {{abbr|sg.|singular}} nominative) who rejoices, but more commonly: ''besidžiaũgiantis''. Other forms besides nominative (''džiaũgiančiasis'' – the ones ({{abbr|fem.|feminine}}, {{abbr|pl.|plural}} accusative) who rejoice) are not used at all in favour of ''besidžiaũgiančias'' etc.
+
+:– may be interrupted (see "[[Lithuanian grammar#Inchoative tenses|Inchoative tenses]]");
+
+:– is restrictive (a combination of English "only" and "still"): ''Ligoninėje jį motina beaplanko'' – Only his mother still visits him to the hospital.
+
+*''te-'' indicates:
+
+:– that an action of a verb is restrictive (equivalent of English "only"): ''Ligoninėje jį motina teaplanko'' – Only his mother visits him to the hospital;
+
+:– the 3rd person of the imperative mood (see "[[Lithuanian grammar#Imperative mood|Imperative mood]]").
+
+*''tebe-'' indicates that an action of a verb is still ongoing (equivalent of English "still"): ''Ligoninėje jį motina tebeaplanko'' – His mother still visits him to the hospital.
+*''nebe-'' indicates that an action of a verb is no longer ongoing (equivalent of English "no longer"): ''Ligoninėje jo motina nebeaplanko'' – His mother no longer visits him to the hospital.
+* A verb cannot acquire more than one prefix, except for ''ne-'', ''te-'', ''be-'', ''nebe-'' or ''tebe-''. Only very few words are exception from this.
+* The indicator of [[reflexive verb|reflexion]] ''-si'' is used between the prefix and the root if the verb is prefixed, e. g. 
+<blockquote><poem>
+ ''nẽšasi'' but ''nusìneša'',  ''atsìneša''
+ ''laikýtis'' but ''susilaikýti'', ''pasilaikýti''
+ ''teiráutis'' but ''pasiteiráuti''</poem></blockquote>
+*The same rule is applied, when ''ne-'', ''be-'', ''nebe-'', ''te-'' or ''tebe-'' is added:
+<blockquote><poem>
+ ''nẽšasi'' but ''nesìneša'', ''nebesìneša'', also ''nenusìneša'', ''neatsìneša'', ''tebeatsìneša''
+ ''laikýtis'', but ''nesilaikýti'', also ''nesusilaikýti'', ''nepasilaikýti''
+ ''teiráutis'' but ''nesiteiráuti'', also ''nepasiteiráuti''</poem></blockquote>
+
+==== Stress retraction ====
+
+Certain Lithuanian verbs have the ability to move their stress to the last prefixed element they acquire. General stress retraction principles are laid down below.
+
+All prefixes (including ''ne-'' type, but not including the prefix ''per-'') acquire the stress only in:
+
+*'''past simple''' tense forms of '''primary (monosyllabic stem) verbs'''. This always happens when the 3rd person has an ''-ė'' ending, its stress would normally fall on its penultimate syllable and this syllable has a short vowel or a rising tone:
+
+:''baũsti'' (to punish, monosyllabic stem verb) → ''baũdė'' (stress on the penultimate, rising tone) → '''''nù'''baudė'', '''''nebenù'''baudė'' etc.
+:''vìrti'' (to boil, monosyllabic stem verb) → ''vìrė'' (stress on the penultimate, short vowel) → '''''ìš'''virė'', ''nebeiš'''sì'''virė'' etc.
+:''kláusti'' (to ask, monosyllabic stem verb) → ''kláusė'' (stress on the penultimate, '''falling tone, the rule does not apply''') → ''pakláusė''
+:''darýti'' (to ask, '''suffixal verb, the rule does not apply''') → ''dãrė'' (stress on the penultimate, rising tone) → ''padãrė''
+
+*Some '''present tense''' forms (primary or mixed stem), but only if the stress of the 3rd person falls on its penultimate syllable, this syllable '''is not a suffix''' and has a short vowel or a rising tone:
+
+:''kalbė́ti'' (to speak, suffixal verb) → ''kal̃ba'' (stress on the penultimate, no suffix, rising tone) → '''''sù'''kalba'', '''''tebesì'''kalba'' etc.
+:''sukti'' (to turn, primary verb) → ''sùka'' (stress on the penultimate, no suffix, short vowel) → '''''pà'''suka'', '''''nè'''suka'' etc.
+
+*Past simple accent retraction is regular, present tense accent retraction is sporadic. If a particular verb retracts its accent in one tense, it does not mean that the other tense will follow suit.
+*The accent retraction does not depend on a particular prefix (except for ''per-'') and will systematically happen with every other prefixed structure (a prefix, a ''ne-'' type prefix or a reflexive formant). It means that even if dictionaries never include ''ne-'' type prefixes, the stress retraction can be deduced from other prefixed forms that dictionaries do include:
+
+:''plaũkti'' (to swim) → ''išplaũkti'' (to swim out) → ''išplaũkia'' (no retraction, hence: ''neišplaũkia'', ''teišplaũkia'' etc.)
+:''riñkti'' (to gather) → ''suriñkti'' (to gather them all) → ''sùrenka'' (retraction does happen, hence: ''nèrenka'', ''tèrenka'' etc.)
+
+*The latter rule has two exceptions:
+
+:''turė́ti'' (to have) → ''suturė́ti'' (to restrain) → ''sùturi'' (retraction does happen, but not for ''ne-'' type prefixes of the non-prefixed verbs: ''netùri'', ''tetùri'' etc.)
+:''galė́ti'' (to be able) → ''išgalė́ti'' (to afford) → ''ìšgali'' (retraction does happen, but not for ''ne-'' type prefixes of the non-prefixed verbs: ''negãli'', ''begãli'' etc.)
+
+*The prefix ''pér-'' always has the falling tone and takes the stress in all parts of speech of that word, ignoring all the other accentuation rules: ''pérduoti'' – to transmit, ''nebepérsivalgymas'' – the inability to overeat.
+
+=== Stem classes ===
+The below given tables are not a full collection of types of conjugation, there can be types in language not included here.
+
+Consonants d, t become s before t in any case in language. In verbs this occurs before a desinence -ti of the infinitive, desinence with -t- of the past passive participle.
+
+==== Non-suffixed ====
+:{| class="wikitable" style="line-height: 1.2em; background: #FFFFFF;"
+|- valign=top
+| rowspan=2| infinitive || colspan=3| present tense || colspan=3| past tense || rowspan=2| meaning
+|-
+| {{abbr|1p.|first person}} {{abbr|sg.|singular}} || {{abbr|2p.|second person}} {{abbr|sg.|singular}} || {{abbr|3p.|third person}} {{abbr|sg.|singular}}, {{abbr|pl.|plural}} || {{abbr|1p.|first person}} {{abbr|sg.|singular}} || {{abbr|2p.|second person}} {{abbr|sg.|singular}} || {{abbr|3p.|third person}} {{abbr|sg.|singular}}, {{abbr|pl.|plural}}
+|-
+| style="padding:15px;" colspan=8 | '''Consonantal non-palatalized stems''' (it is palatalized in the form of the present {{abbr|2p.|second person}}, but not in the remaining forms). Sounds of a stem do not change in conjugation, except a common pre-desinential alternation between historically nasal vowels (in the infinitive) and nasal diphthongs.
+|-
+| áugti || áugu || áugi || áuga || áugau || áugai || augo || to grow
+|-
+| bė́gti || bė́gu || bė́gi || bė́ga || bė́gau || bė́gai || bė́go || to run
+|-
+| šókti || šóku || šóki || šóka || šókau || šókai || šóko || to jump, spring, leap; hop in, out; dance
+|-
+| dìrbti || dìrbu || dìrbi || dìrba || dìrbau || dìrbai || dìrbo || to work
+|- valign=top
+| sė́sti || sė́du || sė́di || sė́da || sė́dau || sė́dai || sė́do || to sit down, sit up; mount, get on (car, plain etc.)
+|-
+| grū́sti || grū́du || grū́di || grū́da || grū́dau || grū́dai || grū́do || to thrust; hustle; pestle; tamp
+|-
+| žį́sti || žìndu || žìndi || žìnda || žìndau || žìndai || žìndo || to suck, nurse (at)
+|-
+| ką́sti || kándu || kándi || kánda || kándau<!-->was kándo, but seems wrong<--> || kándai || kándo || to bite
+|-
+| galą́sti || galándu || galandi || galánda || galándau || galandai || galándo || to sharpen, hone
+|-
+| lìpti || lipù || lipì || lìpa || lipaũ || lipaĩ || lìpo || to mount; tread (on); scale, climb
+|-
+| kìšti || kišù || kišì || kìša || kišaũ || kišaĩ || kìšo || to put, slip, poke, stick in
+|-
+| rìsti || ritù || ritì || rìta || ritaũ || ritaĩ || rìto || to roll, bowl
+|-
+| sukti || suku || suki || suka || sukau || sukai || suko || to turn; bear (to); spin; wrap
+|-
+| supti || supu || supi || supa || supau || supai || supo || to swing, sway, rock
+|-
+| lupti || lupu || lupi || lupa || lupau || lupai || lupo || to peel; flay; swinge, thrash
+|-
+| skùsti || skutù || skutì || skùta || skutaũ || skutaĩ || skùto || to shave; scale, peel, scrape; run fast
+|-
+| style="padding:15px;" colspan=10 | There is a frequent verb with a consonant of an end of a stem palatalized in the present tense.
+|-
+| léisti || léidžiu || leidi || leidžia || leidau || leidai || leido || to let, allow; spend
+|-
+| style="padding:15px;" colspan=8 | Alternation between pre-desinential e of the present tense and i of the other forms. Maybe only when the syllable contains a mixed diphthong (a, e, i, u + sonorant) and it is stressed in the end-firm accent.
+|-
+| sir̃gti || sergù || sergì || ser̃ga || sirgaũ || sirgaĩ || sir̃go || to be ill
+|- valign=top
+| kirsti || kertu || kerti || kerta || kirtau || kirtai || kirto || to cut, fell (by axe); cross, traverse; strike, smite; pitch in (food)
+|-
+| vilkti || velku || velki || velka || vilkau || vilkai || vilko || to pull, trail, drag
+|- valign=top
+| tilpti || telpu || telpi || telpa || tilpau || tilpai || tilpo || to get / have enough of space for oneself: be contained, go into
+|-
+| rinkti || renku || renki || renka || rinkau || rinkai || rinko || to pick; collect
+|- valign=top
+| lįsti || lendu || lendi || lenda || lindau || lindai || lindo || to be getting into / through smth.; make a pass at, intrude, molest, cavil, meddle
+|-
+| style="padding:15px;" colspan=8 | A numerous part of the verbs having any of a short vowel – a, e, i, u – in a pre-desinential syllable in infinitive receive n, m (the latter when before p, b) after these vowels in the present.
+|-
+| tàpti || tampù || tampì || tam̃pa || tapaũ || tapaĩ || tãpo || to become
+|-
+| rasti || randu || randi || rañda || radau || radai || rãdo || to find
+|-
+| gesti || gendu || gendi || genda || gedau || gedai || gedo || to deteriorate; decay; spoil; corrupt
+|-
+| tikti || tinku || tinki || tinka || tikau || tikai || tiko || to fit
+|-
+| apnikti || apninku || apninki || apninka || apnikau || apnikai || apniko || to obsess, crowd in
+|-
+| migti || mingu || mingi || minga || migau || migai || migo || to be / start falling asleep
+|-
+| lipti || limpu || limpi || limpa || lipau || lipai || lipo || to stick, cling
+|-
+| plisti || plintu || plinti || plinta || plitau || plitai || plito || to spread, proliferate, circulate
+|-
+| misti || mintu || minti || minta || mitau || mitai || mito || to feed on, fare, live on
+|-
+| kisti || kintu || kinti || kinta || kitau || kitai || kito || to mutate; vary
+|-
+| blukti || blunku || blunki || blunka || blukau || blukai || bluko || to fade
+|-
+| klupti || klumpu || klumpi || klumpa || klupau || klupai || klupo || to stumble
+|-
+| justi || juntu || junti || junta || jutau || jutai || juto || to sense, feel
+|-
+| style="padding:15px;" colspan=8 | A small group of verbs has to be written with a [[ogonek|nosinė]] in the present.
+|-
+| balti || bąlu || bąli || bąla || balau || balai || balo || to become white, to whiten
+|-
+| šalti || šąla || šąli || šąla || šalau || šalai || šalo || to freeze; to cool; to feel cold
+|-
+| karti || kąra || kąri || kąra || karau || karai || karo || to incline, bow down (hung things, boughs)
+|-
+| style="padding:15px;" colspan=8 | For the verbs, that have start-firm accented mixed diphthongs -il-, -ir- in the pre-desinential syllable in the infinitive, the vowel i lengthens and receives the end-firm accent in the present tense, if the syllabe becomes open.
+|-
+| kìlti || kylù || kyli || kỹla || kilau || kilai || kilo || to rise; emerge (e.g. question)
+|-
+| dilti || dylu || dyli || dyla || dilau || dilai || dilo || to fray, decay, become dull
+|-
+| birti || byru || byri || byra || birau || birai || biro || to crumble; fall down (for particles)
+|-
+| irti || yru / irstu || yri || yra || irau || irai || iro || to disintegrate, decay, crumble
+|-
+| style="padding:15px;" colspan=8 | Cases of alternation between a pre-desinential e of the present tense and i of the other forms in verbs which receive n, m in the present forms. A word likti has i.e. / i alternation. A word kristi can be conjugated both with -en- / -in- in the present tense.
+|-
+| skristi || skrendù || skrendi || skrenda || skridau || skridai || skrido || to fly
+|-
+| bristi || brendu || brendi || brenda || bridau || bridai || brido || to wade, go on foot through water, grass etc.
+|-
+| kristi || krentu&nbsp;/krintu || krenti || krinta || kritau || kritai || krito || to fall
+|-
+| likti || lieku || lieki || lieka || likau || likai || liko || to remain
+|-
+| style="padding:15px;" colspan=8 | '''Stems that are palatalized in the past tense.'''
+|-
+| ėsti || ė́du || ėdi || ėda || ė́džiau || ėdei || ėdė || to eat (for animals); eat like an animal; erode
+|- valign=top
+| vesti || vedù || vedi || veda || vedžiaũ || vedei || vedė || to lead, take smb. to somewhere; marry (for a man; for a woman a word is tekėti, teka, tekėjo)
+|-
+| mèsti || metù || meti || meta || mečiau || metei || metė || to throw
+|-
+| vežti || vežu || veži || veža || vežiau || vežei || vežė || to carry by means of conveyance, by vehicle
+|-
+| nešti || nešu || neši || neša || nešiau || nešei || nešė || to carry (going on foot)
+|-
+| kasti || kasu || kasi || kasa || kasiau || kasei || kasė || to dig
+|-
+| lesti || lesu || lesi || lesa || lesiau || lesei || lesė || to peck
+|-
+| sekti || seku || seki || seka || sekiau || sekei || sekė || to follow; spy (on, upon); tell a tail
+|-
+| kepti || kepu || kepi || kepa || kepiau || kepei || kepė || to bake
+|-
+| degti || degu || degi || dega || degiau || degei || degė || to be on fire, burn; kiln
+|-
+| megzti || mezgu || mezgi || mezga || mezgiau || mezgei || mezgė || to knit
+|-
+| zùiti || zujù || zuji || zuja || zujau || zujai || zujo || to pop in and out
+|-
+| kálti || kalù || kali || kala || kaliau || kalei || kalė || to hammer, smith, batter; mint; chisel; hit
+|-
+| málti || malu || Mali || mala || maliau || malei || malė || to grind, mill
+|-
+| bár̃ti || barù || bari || bara || bariau || barei || barė || to scold, trim
+|-
+| style="padding:15px;" colspan=8 | A verb pulti has alternation between u in the infinitive and uo in the present and past tenses. Verbs gimti, mirti have the suffix -st- in the present.
+|-
+| pùlti || púolu || puoli || puola || púoliau || puolei || puolė || to attack; fling, throw oneself, make a dive
+|-
+| gìmti || gìmstu || gimsti || gimsta || gimiaũ || gimei || gimė || to be born, arrive
+|-
+| mir̃ti || mìrštu || miršti || miršta || miriaũ || mirei || mirė || to die, stop living
+|-
+| style="padding:15px;" colspan=8 | For the verbs of this group that have start-firm accented mixed diphthongs starting in i – im, in, il, ir – in a pre-desinential syllable in the infinitive, the syllable becomes open and a vowel i lengthens (the accent remains start-firm) in the past tense.
+|-
+| pìlti || pilù || pili || pila || pýliau || pylei || pylė || to pour (any non solid material); tip
+|-
+| tirti || tiriu || tiri || tiria || tyriau || tyrei || tyrė || to investigate; analyse; research
+|-
+| skinti || skinu || skini || skina || skyniau || skynei || skynė || to pluck (fruits, flowers etc.)
+|-
+| pinti || pinu || pini || pina || pyniau || pynei || pynė || to plait; weave; pleach
+|-
+| trinti || trinu || trini || trina || tryniau || trynei || trynė || to rub
+|-
+| minti || minu || mini || mina || myniau || mynei || mynė || to step, tread (on); trample; treadle
+|-
+| ginti || ginu || gini || gina || gyniau || gynei || gynė || to defend
+|-
+| im̃ti || imù || imi || ima || ėmiaũ || ėmeĩ || ė̃mė || to take
+|-
+| style="padding:15px;" colspan=8 | There are some verbs having mixed diphthongs in a pre-desinential syllable that have alternation between pre-desinential e of the present tense and i of the other forms. A sound i of a pre-desinential syllable is not lengthened in the past tense. A verb virti has d insterted after -er- in the present tense.
+|-
+| atsimiñti || atsìmenu || atsimeni || atsimena || atsìminiau || atsiminei || atsiminė || to remember, recollect
+|-
+| miñti || menù || meni || mena || miniaũ || minei || minė || to riddle, ask a riddle
+|-
+| giñti || genù || geni || gena || giniau || ginei || ginė || to herd, goad, drive
+|-
+| vìrti || vérdu || verdi || verda || viriaũ || vireĩ || vìrė || to boil ({{abbr|figur.|figurative}} as well); cook (by boiling)
+|-
+| style="padding:15px;" colspan=8 | '''Consonantal non-palatalized stems that have suffix -st- in the present.''' There are many verbs in this group. When the suffix is preceded by d, t of a stem, these consonants merge with s and s remains, when it is preceded by ž, š of a stem, the remaining are stem-ending consonants ž, š.
+|-
+| sprógti || sprógstu || sprogsti || sprógsta || sprógau || sprogai || sprogo || to explode, burst; eat (get stomach filled)
+|-
+| plýšti || plýštu || plyšti || plyšta || plyšau || plyšai || plyšo || to tear, rip, split; ({{abbr|coll.|colloquial}}) get drunk
+|-
+| klysti || klystu || klysti || klysta || klydau || klydai || klydo || to mistake, err, be under misapprehension
+|-
+| rūgti || rūgstu || rūgsti || rūgsta || rūgau || rūgai || rūgo || to sour, become turned
+|-
+| tolti || tolstu || tolsti || tolsta || tolau || tolai || tolo || to become remote, distant, to recede
+|-
+| alkti || alkstu || alksti || alksta || alkau || alkai || alko || to become, be hungry; to be short of food
+|- valign=top
+| pažìnti || rowspan=2| pažį́stu || rowspan=2| pažįsti || rowspan=2| pažįsta || pažinaũ || pažinai || pažino || to become familiar, to explore; recognize
+|-
+| pažinoti || pažinojau || pažinojai || pažinojo || to know smb., be acquaintance with smb.
+|-
+| pỹkti || pykstù || pyksti || pỹksta || pykaũ || pykai || pyko || to be angry, annoyed
+|-
+| nykti || nykstu || nyksti || nyksta || nykau || nykai || nyko || to dwindle, wither away, vanish, disappear
+|-
+| rausti || raustu || rausti || rausta || raudau || raudai || raudo || to become red, to redden; to blush
+|-
+| brangti || brangstu || brangsti || brangsta || brangau || brangai || brango || to become expensive
+|-
+| išsigąsti || išsigąstu || išsigąsti || išsigąsta || išsigando || išsigandai || išsigando || to get a scare, fright; to lose courage
+|- valgin=top
+| vargti || vargstu || vargsti || vargsta || vargau || vargai || vargo || to have difficulties doing; be in hardship
+|-
+| širsti || širstu || širsti || širsta || širdau || širdai || širdo || to be angry (širdis – heart)
+|-
+| dingti || dingstu || dingsti || dingsta || dingau || dingai || dingo || to disappear
+|-
+| klimpti || klimpstu || klimpsti || klimpsta || klimpau || klimpai || klimpo || to sink (to viscous material)
+|-
+| drįsti || drįstu || drįsti || drįsta || drįsau || drįsai || drįso || to dare
+|-
+| grįžti || grįžtu || grįžti || grįžta || grįžau || grįžai || grįžo || to come back, return
+|-
+| style="padding:15px;" colspan=8 | A small group of stems ending in ž, š, has to be written with an ogonek in the present.
+|- valign=top
+| gesti || gęstu || gęsti || gęsta || gesau || gesai || geso || to be stopping (intransitive) shining, burning, working (for light, fire; life; motor)
+|-
+| težti || tęžtu || tęžti || tęžta || težau || težai || težo || to become squidgy; wimp out
+|-
+| style="padding:15px;" colspan=8 | For a few stems that have short i, u in a pre-desinential syllable, maybe only when it ends in ž, š, the vowels lengthen in the present. For tikšti the forms tykšta and tyška are used in the present tense.
+|-
+| dùžti || || || dū̃žta || || || dùžo || to smash, chip
+|-
+| gižti || || || gyžta || || || gižo || to sour, become turned ({{abbr|figur.|figurative}} as well)
+|-
+| tikšti || || || tykšta || || || tiško || to splash on smth., smb.
+|-
+| tižti || || || tyžta || || || tižo || to become squidgy; wimp out
+|-
+| ižti || || || yžta || || || ižo || to crack (usual for ice)
+|-
+| nižti || || || nyžta || || || nižo || to start itching, to itch
+|-
+| style="padding:15px;" colspan=8 | '''Vocalic stems.''' A consonant n (or j in dialects) is inserted before desinences after a pre-desinential au. The diphthong becomes ov in the past, when start-firm accented. Consonant v is palatalized.
+|-
+| eĩti || einù || eini || eĩna || ėjaũ || ėjai || ė̃jo || to go
+|-
+| aũti || aunù || auni || aũna || aviaũ || avei || ãvė || to boot, shoe
+|-
+| máuti || máunu || máuni || máuna || móviau || {{not a typo|movei}} || movė || to put on, glove, shoe
+|-
+| rauti || raunu || rauni || rauna || roviau || rovei || rovė || to tear up
+|-
+| šauti || šaunu || šauni || šauna || šoviau || šovei || šovė || to shoot
+|-
+| brautis || braunuosi || brauniesi || braunasi || broviausi || broveisi || brovėsi || to intrude; thrust one's way; be breaking in
+|- valign=top
+| liautis || liaujuosi || liaujiesi || liaujasi || lioviausi || lioveisi || liovėsi || to cease, desist
+|-
+| griauti || griaunu || griauni || griauna || grioviau || griovei || griovė || to ruin, demolish; unsettle
+|-
+| style="padding:15px;" colspan=8 | Consonant v / n is inserted after ū.
+|-
+| griū̃ti || griūvù /-nù || griūni || griū̃va || griuvaũ || griuvai || griùvo || to tumble down, fall down; collapse
+|-
+| žūti || žūnu /-vu || žūni || žūva || žuvau || žuvai || žuvo || to perish
+|-
+| pūti || pūvu /-nu || pūni || pūva || puvau || puvai || puvo || to rot
+|-
+| siūti || siuvu /siūnu || siuvi || siuva || siuvau || siuvai || siuvo || to sew, stitch
+|-
+| gáuti || gáunu || gauni || gauna || gavaũ || gavai || gãvo || to get
+|-
+| style="padding:15px;" colspan=8 | A consonant j is inserted before desinences after other pre-desinential vowels, diphthong i.e.
+|-
+| móti || móju || moji || moja || mójau || mojai || mojo || to motion, wave, sweep
+|-
+| ploti || ploju || ploji || ploja || plojau || plojai || plojo || to clap, applaud; flatten; swat
+|-
+| joti || joju || joji || joja || jojau || jojai || jojo || to ride on horse
+|-
+| goti || goju || goji || goja || gojau || gojai || gojo || ({{abbr|dial.|dialectal}}) to go in a hurry
+|- valign=top
+| kloti || kloju || kloji || kloja || klojau || klojai || klojo || to lay, pave; to tell, report, retail; to make a bed (lovą);
+|-
+| groti || groju || groji || groja || grojau || grojai || grojo || to play (musical instrument)
+|-
+| sėti || sėju || sėji || sėja || sėjau || sėjai || sėjo || to sow, seed; disseminate
+|-
+| sieti || sieju || sieji || sieja || siejau || siejai || siejo || to tie, associate, bond
+|-
+| lieti || lieju || lieji || lieja || liejau || liejai || liejo || to pour (liquid); water (plants)
+|-
+| lýti || || || lỹja || || || lijo || to rain
+|-
+| gýti || gyjù || gyji || gỹja || gijaũ || gijai || gijo || to heal, recover
+|-
+| rýti || ryjù || ryji || ryja || rijau || rijai || rijo || to swallow; guttle
+|-
+| výti || vejù || veji || veja || vijau || vijai || vijo || to strand, twist; chase
+|-
+| style="padding:15px;" colspan=8 | Two verbs have d insterted before the desinences in the present forms.
+|-
+| dúoti || dúodu || duodi || dúoda || daviaũ || davei || davė || to give
+|-
+| dė́ti || dedù || dedi || dẽda || dėjau || dė́jai || dėjo || to put, lay, set; place
+|-
+| style="padding:15px;" colspan=8 | '''Palatalized consonantal stems.''' Maybe the most numerous group of non-suffixed verbs.
+|-
+| siẽkti || siekiù || sieki || siẽkia || siekiaũ || siekei || siekė || to seek, aim (at, for)
+|-
+| griebti || griebiu || griebi || griebia || griebiau || griebei || griebė || to grab; snatch
+|-
+| keisti || keičiu || keiti || keičia || keičiau || keitei || keitė || to change
+|-
+| braukti || braukiu || brauki || braukia || braukiau || braukei || braukė || to wipe, sweep across; line through
+|-
+| rausti || rausiu || rausi || rausia || rausiau || rausei || rausė || to trench, burrow
+|-
+| kaupti || kaupiu || kaupi || kaupia || kaupiau || kaupei || kaupė || to save up, gather, amass
+|-
+| mer̃kti || merkiù || merkì || mer̃kia || merkiaũ || merkeĩ || mer̃kė || to soak, dip
+|-
+| dengti || dengiu || dengi || dengia || dengiau || dengei || dengė || to cover
+|-
+| švęsti || švenčiu || šventi || švenčia || švenčiau || šventei || šventė || to celebrate
+|-
+| tęsti || tęsiu || tęsi || tęsia || tęsiau || tęsei || tęsė || to continue, proceed; drag, carry
+|-
+| čiulpti || čiulpiu || čiulpi || čiulpia || čiulpiau || čiulpei || čiulpė || to suck
+|-
+| siųsti || siunčiu || siunti || siunčia || siunčiau || siuntei || siuntė || to send
+|-
+| láužti || láužiu || lauži || laužia || láužiau || laužei || laužė || to break (transitive)
+|-
+| grėbti || grėbiu || grėbi || grėbia || grėbiau || grėbei || grėbė || to rake
+|-
+| grobti || grobiu || grobi || grobia || grobiau || grobei || grobė || to plunder; kidnap; usurp, hog
+|-
+| mérkti || mérkiu || mérki || mérkia || mérkiau || mérkei || mérkė || to give a wink; to close eyes
+|-
+| melžti || melžiu || melži || melžia || melžiau || melžei || melžė || to milk
+|-
+| jùngti || jùngiu || jungi || jungia || jungiau || jungei || jungė || to connect, join
+|-
+| skų́sti || skùndžiu || skundi || skundžia || skundžiau || skundei || skundė || to tell on; tattle; appeal (against)
+|-
+| style="padding:15px;" colspan=8 | When a pre-desinential syllable having mixed diphthong becomes open in the past, its vowel receive a start-firm accent and lengthens (for a, e, besides lengthening, those vowels are of different quality, o, ė) if stressed.
+|-
+| gérti || geriu || geri || geria || gė́riau || gėrei || gėrė || to drink
+|-
+| pér̃ti || periu || peri || peria || pė́riaũ || pėrei || pėrė || to beat with a leafy, wet birch bunch (in sauna)
+|-
+| kélti || keliu || keli || kelia || kėliau || kėlei || kėlė || to raise
+|-
+| rem̃ti || remiu || remi || remia || rėmiau || rėmei || rėmė || to prop, bear up; support
+|-
+| kùlti || kuliu || kuli || kulia || kū́liau || kūlei || kūlė || to flail
+|-
+| dùrti || duriu || duri || duria || dūriau || dūrei || dūrė || to prick, stick
+|-
+| stùmti || stumiu || stumi || stumia || stūmiau || stūmei || stūmė || to push, move; thrust, shove; ({{abbr|coll.|colloquial}}) grudge
+|-
+| ìrti || iriu || iri || iria || ýriau || yrei || yrė || to row, oar
+|-
+| spìrti || spiriu || spiri || spiria || spyriau || spyrei || spyrė || to kick; spring back; press (for), push
+|-
+| kárti || kariù || kari || kãria || kóriau || korei || korė || to hang over; execute
+|-
+| árti || ariù || ari || ãria || ariaũ || areĩ || ãrė || to plough
+|-
+| tar̃ti || tariù || tari || tãria || tariaũ || tarei || tarė || to pronounce; assume
+|-
+| style="padding:15px;" colspan=8 | Alternation between u, e, a in the present and respectively ū, ė, o (long vowels, historically: ū, ē, ā) in the past. A vowel u is short both in stressed and unstressed position, e, a lengthen and are end-firm accented in stressed position in stem (not in desinence).
+|-
+| pū̃sti || pučiù || puti || pùčia || pūčiau || pūtei || pū̃tė || to blow; toot
+|-
+| tū̃pti || tupiu || tupi || tupia || tūpiau || tūpei || tūpė || to squat; hunker
+|- valign=top
+| drė̃bti || drebiu || drebi || drẽbia || drėbiau || drėbei || drė̃bė || to make fall on (for viscous, thick material); sleet; plonk
+|-
+| krė̃sti || krečiu || kreti || krečia || krėčiau || krėtei || krėtė || to shake down
+|-
+| plė̃sti || plečiu || pleti || plečia || plėčiau || plėtei || plėtė || to expand, widen, amplify
+|-
+| lė̃kti || lekiu || leki || lekia || lėkiau || lėkei || lėkė || to scurry, rip along, fly; fly; fall out, fly away
+|-
+| skė̃sti || skečiu || sketi || skečia || skėčiau || skėtei || skėtė || to spread, open out (e.g. arms, legs, umbrella)
+|-
+| tė̃kšti || teškiu || teški || teškia || tėškiau || tėškei || tėškė || to splash onto; slap; slam
+|-
+| võgti || vagiu || vagi || vãgia || vogiau || vogei || vogė || to steal
+|}
+
+==== Suffixed ====
+:{| class=wikitable style="line-height: 1.2em; background: #FFFFFF;"
+|-
+| style="padding:15px;" colspan=10 | '''-o- suffixed stems.''' Shorter present tense. A consonant j is iserted between a vocalic stem and a desinence to make pronunciation easier. Historically it is most probably the same type as the full is, there are verbs that are conjugated in both types, for example, saugoti, saugau / saugoju (< saugā(j)u). A verb pažinoti – to know (person), has the same to pažinti – to know, become familiar, -st- suffixed present forms.
+|-
+| žinóti || žinaũ || žinai || žino || žinójau || žinojai || žinojo || to know, be aware (of; that)
+|-
+| šypsótis || šỹpsaũsi || šypsaisi || šỹpsosi || šypsójausi || šypsojaisi || šypsojosi || to smile
+|-
+| sáugoti || sáugau || saugai || saugo || sáugojau || saugojai || saugojo || to protect; keep, save
+|-
+| style="padding:15px;" colspan=10 | Full type of -o- suffixed stems (the suffix is kept the same in conjugation)
+|-
+| naudóti || naudóju || naudoji || naudoja || naudójau || naudojai || naudojo || to use
+|-
+| putóti || putoju || putoji || putoja || putojau || putojai || putojo || to foam
+|-
+| býlóti || byloju || byloji || byloja || bylojau || bylojai || byloja || to speak, purport
+|-
+| sáugoti || sáugoju || saugoji || saugoja || saugojau || saugojai || saugojo || to protect; keep, save
+|- valign=top
+| šakótis || šakojuosi || šakojiesi || šakojasi || šakojausi || šakojaisi || šakojosi || to spread boughs: ramify; ({{abbr|coll.|colloquial}}) conflict, put one's own condition over smb.; fork, [[divaricate]]
+|-
+| vilióti || vilioju || vilioji || vilioja || viliojau || viliojai || viliojo || to attract, seduce, bait
+|-
+| galióti || || || galioja || || || galiojo || to stand, hold good, be valid
+|-
+| style="padding:15px;" colspan=10 | Stems that do not have -o- suffix in the present tense.
+|-
+| miegóti || miegù || miegi || miẽga || miegójau || miegojai || miegojo || to sleep
+|-
+| raudóti || ráudu || raudi || ráuda || raudójau || raudojai || raudojo || to weep, mourn
+|-
+| giedóti || gíedu || giedi || gieda || giedójau || giedojai || giedojo || to chant (religious); warble, crow
+|-
+| style="padding:15px;" colspan=10 | '''-y- suffixed stems.''' The present is of the -o- suffixed type. The past forms are historically possibly the same to the full -y- suffixed type, there are verbs that are conjugated in the both types, for example, pelnyti, (past) pelniau / pelnijau, pelnė (< pelnē < (possibly) pelni(j)ā) / pelnijo (< pelnijā) (an after a soft consonant is e).
+|-
+| sakýti || sakaũ || sakai || sãko || sakiaũ || sakei || sãkė || to say
+|-
+| klausýti || klausau || klausai || klauso || klausiau || klausė || klausei || to listen
+|-
+| darýti || darau || darai || daro || dariau || darei || darė || to do
+|-
+| matýti || matau || matai || mato || mačiau || matei || matė || to see
+|- valign=top
+| mė́tyti || mė́tau || mėtai || mė́to || mė́čiau || mėtei || mė́tė || to throw (one-time: mesti, metu, mečiau)
+|- valign=top
+| gáudyti || gaudau || gaudai || gaudo || gaudžiau || gaudei || gaudė || to catch (one-time: su/pagauti, -gaunu, -gavau)
+|-
+| ródyti || rodau || rodai || rodo || rodžiau || rodei || rodė || to show
+|-
+| pelnýti || pelnaũ || pelnai || pel̃no || pelniau || pelnei || pelnė || to earn
+|-
+| style="padding:15px;" colspan=10 | Full type of -y- suffixed stems. The suffix is shortened in conjugation if not stressed and is long or short (both variants are apt) in the present if stressed.
+|-
+| pel̃nyti || pel̃niju || pelniji || pelnija || pelnijau || pelnijai || pelnijo || (obsolete) to earn
+|-
+| mū́ryti || mū́riju || mūriji || mūrija || mūrijau || mūrijai || mūrijo || to lay bricks, set
+|-
+| nuõdyti || nuõdiju || nuodiji || nuodija || nuodijau || nuodijai || nuodijo || to poison
+|-
+| trūnýti || || || trūnỹja || || || trūnijo || to rot, putrefy
+|-
+| style="padding:15px;" colspan=10 | '''-ė- suffixed stems.''' Shorter present tense, palatalized ending consonant of a stem. It is possible that historically it would be the same type as the full one, there are words that are conjugated in the both of the types, for example, ryšė́ti – to wear something tied on oneself (rišti – to tie), ryšiù / ryšė́ju. For a verb vertėti the mainly used form is subjunctive, {{abbr|3p.|third person}} (present) vertė́tų – it would be worth, for the present tense it is mostly said in a neuter adjective: ver̃ta – it is worth (doing), for the past tense it is said either buvo verta or vertėjo – it was worth (doing).
+|-
+| mylė́ti || mýliu || mýli || mýli || mylė́jau || mylė́jai || mylė́jo || to love
+|-
+| norė́ti || nóriu || nori || nori || norėjau || norėjai || norėjo || to want
+|-
+| blyksė́ti || blýksiu || blyksi || blyksi || blyksėjau || blyksėjai || blyksėjo || to twinkle, blink
+|-
+| galė́ti || galiù || galì || gãli || galė́jau || galėjai || galėjo || to be able
+|-
+| girdė́ti || girdžiù || girdi || girdi || girdėjau || girdėjai || girdėjo || to hear
+|-
+| rūpė́ti || rūpiù || rūpi || rūpi || rūpėjau || rūpėjai || rūpėjo || to concern, be interesting to smb.
+|-
+| nyrė́ti || nyriù || nyri || nyri || nyrėjau || nyrėjai || nyrėjo || to be submerged and still
+|-
+| tikė́ti || tikiù || tiki || tiki || tikėjau || tikėjai || tikėjo || to believe
+|-
+| vertė́ti || || || (verti) || || || vertėjo || to be worth for being done / to be done
+|-
+| style="padding:15px;" colspan=10 | Full type of -ė- suffixed stems (the suffix is kept the same in conjugation)
+|- valign=top
+| ryškė́ti || ryškė́ju || ryškėji || ryškėja || ryškė́jau || ryškėjai || ryškėjo || to become more clear, bold, bright, glowing
+|-
+| tvirtė́ti || tvirtėju || tvirtėji || tvirtėji || tvirtėjau || tvirtėjai || tvirtėjo || to stiffen, strengthen, firm up
+|-
+| raudonė́ti || raudonėju || raudonėji || raudonėja || raudonėjau || raudonėjai || raudonėjo || to become red, to redden
+|-
+| púoselėti || púoselėju || puoselėji || puoselėja || púoselėjau || puoselėjai || puoselėjo || to foster; cherish
+|-
+| style="padding:15px;" colspan=10 | The stems having the suffix -in-ė-, which is used to make iterative or progressive meaning, are of this type. Varaũ į darbą – I am driving / going to work (or "I am going to drive / go to work", if said before the action happens). Varinėju po miestą – I am driving / going in the town / city here and there. Varau per miestą – I am driving / going through a town / city. Atidarinėju tą dėžutę – I am opening / I am trying to open that can (at the moment) ("atidarau" is also possible as "I am opening"). Lengvai atidarau – I open it easily.
+|- valign=top
+| varinė́ti || varinė́ju || varinėji || varinėja || varinė́jau || varinėjai || varinėjo || to drive, direct; drive, go (on foot, by train, etc.); propel, power (not repeated: varyti, varau, variau)
+|- valign=top
+| pardavinėti || pardavinėju || pardavinėji || pardavinėja || pardavinėjau || pardavinėjai || pardavinėjo || to sell, market (one-time: parduoti, -duodu, -daviau)
+|- valign=top
+| klausinėti || klausinėju || klausinėji || klausinėja || klausinėjau || klausinėji || klausinėjo || to ask (not repeated: klausti, klausiu, klausiau)
+|-
+| style="padding:15px;" colspan=10 | Stems that have neither -ė- suffix nor palatalization in the present tense.
+|-
+| kalbė́ti || kalbù || kalbi || kal̃ba || kalbė́jau || kalbėjai || kalbėjo || to speak; talk
+|-
+| judė́ti || judu || judi || juda || judėjau || judėjai || judėjo || to move, be in motion
+|-
+| žibė́ti || žibu || žibi || žiba || žibėjau || žibėjai || žibėjo || to glitter, glint, star
+|-
+| bambė́ti || || bámbì || bám̃ba || || bambėjai || bambėjo || to grouse, be on smb's case
+|-
+| skambė́ti || || || skamba || || || skambėjo || to tune; sound
+|-
+| skaudė́ti || || || skauda || || || skaudėjo || to hurt, ache
+|- valign=top
+| byrė́ti || || || byra || || || byrėjo || to crumble; fall (small particles, petals)
+|-
+| style="padding:15px;" colspan=10 | -au-, -uo- suffixed stems, the suffix is -av- in the past. Verbs of this group are made from nouns, adjectives, etc. Verbs made from borrowings from other languages receive a suffix -uo-, for example, sportuoti – to go in for sports.
+|- valign=top
+| bendráuti || bendráuju || bendrauji || bendrauja || bendravaũ || bendravai || bendravo || to associate (with), communicate (with)
+|-
+| kariáuti || kariauju || kariauji || kariauja || kariavau || kariavai || kariavo || to be at war, wage war
+|-
+| matúoti || matúoju || matuoji || matuoja || matavaũ || matavai || matavo || to measure
+|-
+| dainúoti || dainuoju || dainuoji || dainuoja || dainavau || dainavai || dainavo || to sing
+|- valign=top
+| sapnúoti || sapnuoju || sapnuoji || sapnuoja || sapnavau || sapnavai || sapnavo || to dream (sleeping); (coll.) to speak about smth. lacking orientation in it
+|-
+| vėlúoti || vėluoju || vėluoji || vėluoja || vėlavau || vėlavai || vėlavo || to be late, to fall behind schedule
+|- valign=top
+| raudonúoti || raudonuoju || raudonuoji || raudonuoja || raudonavau || raudonavai || raudonavo || to blush; to attract attention by being red
+|-
+| sūpúoti || sūpuoju || sūpuoji || sūpuoja || sūpavau || sūpavai || sūpavo || to swing, sway, rock
+|-
+| kopijúoti || kopijuoju || kopijuoji || kopijuoja || kopijavau || kopijavai || kopijavo || to copy
+|-
+| style="padding:15px;" colspan=10 | Some other suffixes, for example, transitivity-forming suffix -in-. A suffix -en- can have a meaning of moderate intensity of action. The suffix -in- is usual for making verbs from foreign words, e.g., ({{abbr|coll.|colloquial}}) kòpinti – to copy, which is used besides longer standard kopijuoti.
+|-
+| rū́pintis || rū́pinuosi || rūpiniesi || rūpinasi || rū́pinausi || rūpinasi || rūpinosi || to take care
+|-
+| grãžinti || grãžinu || gražini || gražina || grãžinau || gražinai || gražino || to beautify
+|-
+| grąžìnti || grąžinù || grąžini || grąžìna || grąžinaũ || gražinai || grąžino || to give back, return
+|-
+| jùdinti || jùdinu || judini || judina || jùdinau || judinai || judino || to move, make smth. move
+|- valign=top
+| lýginti || lýginu || lygini || lygina || lýginau || lyginai || lygino || to compare; to level, make level; make smooth; to iron (clothes); to equate
+|-
+| srovénti || || || srovẽna || || || srovẽno || to stream tranquilly, in small ripple
+|-
+| kuténti || kutenù || kuteni || kutẽna || kutenaũ || kutenai || kutẽno || to tickle, titillate
+|-
+| gabenti || gabenu || gabeni || gabena || gabenau || gabenai || gabeno || to convey, carry
+|-
+| kūrenti || kūrenu || kūreni || kūrena || kūrenau || kūrenai || kūreno || to fire furnace, heater
+|-
+| ridenti || ridenu || rideni || ridena || ridenau || ridenai || rideno || to trundle, wheel, roll, make roll; bowl
+|}
+
+== Syntax ==
+
+=== Word order ===
+
+Lithuanian has an SVO (subject–verb–object) as the main word order:
+<!-- Lithuanian isn't a SVO language in the precise sense of this term -->
+:Adjunct(s)(temporal, locative, causal) + Subject +  Adjunct(s)(other) + Verb +  Object(s) + Infinitive  + other parts.
+
+At the same time Lithuanian as a highly declined language is often considered to have the free word order.  This idea is partially true, and a sentence such as "Today I saw a beautiful girl at the movies" could be said or written in many ways:
+
+{{interlinear|indent=3|
+Šiandien kin'''e''' aš mač'''iau''' gražią mergaitę.|c1=(the main order)
+|Today {at the movies} I saw beautiful girl|}}
+:Aš mačiau gražią mergaitę kine šiandien.
+:Šiandien aš mačiau gražią mergaitę kine.
+:Gražią mergaitę mačiau aš kine šiandien.
+:Gražią mergaitę aš šiandien mačiau kine.
+:Kine šiandien aš mačiau gražią mergaitę.
+:Kine gražią mergaitę aš mačiau šiandien.
+
+However word order isn't a subject of intonation only. Different word orders often have different meanings in Lithuanian. There are also some strict rules and some tendencies in using different word placing. For example, a word that provides new information ([[topic–comment|rheme, or comment]]) has tendency to be postponed after other words, but not always to the end of the sentence. Adjectives precede nouns like they do in [[English language|English]], but order of adjectives in an adjective group is different from in English. If the main word order is followed, a temporal, locative or causal [[Adjunct (grammar)|adjunct]] is put at the beginning of the sentence, while adjuncts of other types go directly before the verb and its objects (see the SVO rule above).
+
+The word order in Lithuanian can also be described, using concepts of [[topic (linguistics)|theme]] and [[topic–comment|rheme]]. Looking from this point of view, the structure of a sentence is following:
+
+: Initial complementary words or clauses + theme + middle words or clauses + rheme + final complementary words or clauses
+
+The middle words or clauses are more significant words or word groups other than the theme or the rheme, but complementary words or clauses (both the initial and the final) are less significant or secondary. Local, causal or temporal [[Adjunct (grammar)|adjuncts]] are typical parts of the initial complementary words group, while other complementary words are  put to the final group. If an adjunct is more significant in a sentence, it should be put to the middle group or even used as  theme or as rheme.   The same is true, considering any other part of sentence, but the Subject and the Verb aren't complementary words typically, and they often serve  as the theme and as the rheme respectively. Note, that a sentence can lack any part of the structure, except the rheme.
+
+=== Prepositions ===
+Prepositions tell us where an object is or what direction it is going. Some cases of nouns, such as the genitive, accusative and instrumental, take prepositions. Some cases never take prepositions (such as locative and nominative). Certain prepositions are used with certain cases. Below is a list of some common prepositions used in Lithuanian.
+
+====Used with genitive form of noun====
+* '''iš''' – from, out of
+* '''ant''' – on
+* '''iki''' – until
+* '''po''' – after, past, succeeding
+* '''prie''' – near, at
+* '''už''' – behind
+
+====Used with instrumental form of noun====
+* '''po''' – under
+* '''su''' – with
+* '''sulig''' – up to
+* '''ties''' – by, over
+
+====Used with accusative form of noun====
+* '''į''' – in
+* '''pas''' – to, at
+* '''per''' – across, by, over, through, during, via
+* '''pro''' – through, past, by
+* '''apie''' – about
+
+=== Conjunctions ===
+Conjunctions are used to link together clauses in a sentence, for example "I thought it would be a nice day '''but''' it was raining." Some common conjunctions in Lithuanian are:
+* '''ir''' – and
+* '''bet''' – but
+* '''ar''' – used to start a question, but can also mean "or"
+* '''jei''' – if
+* '''kad''' – that (not the demonstrative pronoun)
+* '''kol''' – until
+* '''arba''' – or/but
+* '''nes''' – because
+* '''tačiau''' – however
+
+==References==
+{{reflist}}
+
+==External links==
+{{wikibooks|Lithuanian}}
+* [http://www.debeselis.net/grammar.php Lithuanian grammar: categories, conjugation, declension]
+* [http://babaev.tripod.com/archive/grammar11.html The Historical Grammar of Lithuanian language]
+* {{in lang|lt}} [http://ualgiman.dtiltas.lt/bendrieji_kalbos_dalykai.html Web page on Lithuanian grammar]; there are accentuation (kirčiavimas) patterns given here.
+* [http://www.lituanus.org/1984_3/84_3_05.htm Some Unique Features of Lithuanian] on [http://www.Lituanus.org Lituanus.org]
+* [http://www.lituanus.org/1984_1/84_1_04.htm Some Unsolved Riddles of Lithuanian Linguistics] on Lituanus.org
+* [http://www.verbix.com/languages/lithuanian.shtml Lithuanian verb conjugation]
+* [http://webapp.lt/lit/ Lithuanian verbs training]
+* [http://webapp.lt/lit/test.php Lithuanian verbs test]
+
+== Bibliography ==
+* {{Cite book|title=Beginner's Lithuanian|last=Dambriūnas, Leonardas, 1906-1976.|date=1999|publisher=Hippocrene Books|others=Klimas, Antanas, 1924-, Schmalstieg, William R.|isbn=0-7818-0678-X|location=New York, N.Y.|pages=27|chapter=2.3|oclc=40553239|orig-year=1966}}
+* ''Lithuanian Grammar'', edited by Vytautas Ambrazas. Institute of the Lithuanian Language, 1997. [http://lukashevichus.info/knigi/ambrazas_lithuanian_grammar.pdf]
+
+{{Language grammars}}
+
+{{DEFAULTSORT:Lithuanian Grammar}}
+[[Category:Lithuanian grammar| ]]
+[[Category:Lithuanian language|Grammar]]

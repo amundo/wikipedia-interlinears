@@ -1,0 +1,428 @@
+{{Short description|Tupian language spoken in Brazil}}
+{{Infobox language
+|name=Karitiâna
+|region=[[Brazil]]
+|ethnicity= [[Karitiâna people|Karitiâna]]
+|speakers=210
+|date=2006
+|ref=e18
+|familycolor=American
+|fam1=[[Tupian languages|Tupian]]
+|fam2=[[Arikem languages|Arikem]]
+|iso3=ktn
+|glotto=kari1311
+|glottorefname=Karitiâna
+|notice=IPA
+}}
+
+'''Karitiana''', otherwise known as '''Caritiana''' or '''Yjxa''', is a [[Tupian languages|Tupian language]] spoken in the [[Rondônia|State of Rondônia]], Brazil, by 210 out of 320 [[Karitiana|Karitiana people]], or 400 according to Cláudio Karitiana, in the Karitiana reserve 95 kilometres south of [[Porto Velho]]. The language belongs to the [[Arikem languages|Arikém language]] family from the Tupi stock. It is the only surviving language in the family after the other two members, [[Kabixiana language|Kabixiâna]] and [[Arikem language|Arikém]], became extinct.<ref name="Landin1984">[http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.583.4814&rep=rep1&type=pdf Landin, David J. “An Outline of the Syntactic Structure of Karitiâna Sentences”]. MA Thesis. University College London, 1984</ref>
+
+==History==
+
+Although the first Western contacts with the Karitiana people are believed to have begun in the 17th century, the first recorded contact dates to 1907 when a survey conducted by Cândio Rondon indicated that they were already working for [[Bolivia]]n [[Amazon rubber boom|rubber tappers]]. Systematic contact between the Karitiana people and Caucasians, nevertheless began in the 1950s with the intervention of ISA and [[Salesians of Don Bosco|Roman Catholic Salesian missionaries]]. As a result of the missionaries' visit, a list of words and phrases were compiled, allowing Professor [[Aryon Rodrigues]], who was working at the [[University of Campinas]] at the time, to classify the language as a member of the Arikém Family by comparing the language to existing materials on the Arikém language.<ref name="Landin1984" />
+
+Many of the Karitiana people are bilingual in Karitiana and [[Portuguese language|Portuguese]], and despite the population growth in recent years and the language's high level of transmission,<ref name=":2">{{Cite journal|last=Rocha|first=Ivan|date=April 2014|title=Processos de causativização na língua Karitiana|journal=Boletim do Museu Paraense Emílio Goeldi. Ciências Humanas|volume=9|issue=1|pages=183–197|doi=10.1590/S1981-81222014000100012|issn=1981-8122|doi-access=free}}</ref> the language is listed as [[endangered language|vulnerable]] by [[UNESCO]] due to the low number of speakers and the proximity to the city of [[Porto Velho]].<ref>{{Cite web|url=http://www.unesco.org/languages-atlas/en/atlasmap/language-id-614.html|title=UNESCO Atlas of the World's Languages in danger|website=www.unesco.org|access-date=2018-12-08}}</ref> A literacy project in the 1990s resulted in 24 students being made literate, and written documentation of the culture, as well as audio recordings were created. As of 2005, indigenous teachers have been holding lessons in the villages. However, the literacy project ended in 1997 due to a lack of permanent funding.<ref>{{Cite web|url=https://pib.socioambiental.org/en/Povo:Karitiana|title=Karitiana - Indigenous Peoples in Brazil|website=pib.socioambiental.org|access-date=2018-12-08}}</ref>
+
+==Literature on Karitiana==
+
+Some of the earliest works on the language date to the 1970s by missionary David Landin, who spent time in the Karitiana village between 1972 and 1977, through a partnership between [[FUNAI]] (Fundação Nacional do Índio) and [[Summer Institute of Linguistics|SIL International]] (Summer Institute of Linguistics) (Landin, 2005). He has mainly studied syntax (1984), but has also compiled lexicon that has resulted in the creation of a Karitiana dictionary (2005). Another early researcher is Gloria Kindell, also from the SIL, who has analyzed phonological and syntactic aspects of Karitiana (1981).
+
+The first substantial [[Linguistic description|grammar]] of Karitiana, however, was published by Luciana Storto (1999),<ref name=":0" /> describing topics on the [[phonology]], [[morphology (linguistics)|morphology]] and [[syntax]], and since then she has published a number of papers on Karitana [[syntax]] (2003, 2008, 2012, 2013, 2014). Subsequently, a number of studies on the language has continued to be published, covering a wide array of topics. Ana Müller, for example has published papers on Karitiana [[semantics]] (2006, 2009, 2010, 2012). Ivan Rocha da Silva has produced a variety of works on Karitiana syntax (Rocha 2014), including two extensive descriptions on syntactical topics (2011, 2016). [[ethnography|Ethnographically]], Felipe Ferreira Vander Velden has documented a number of social aspects of the Karitiana people, specifically researching about the relations between indigenous peoples and animals. He has published a book about domestic animals among the Kartitiana (2012).
+
+==Phonology==
+===Vowels===
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}} {{IPA link|ĩ}}
+| {{IPA link|ɨ}} {{IPA link|ɨ̃}}
+|
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}} {{IPA link|ẽ}}
+|
+| {{IPA link|o}} {{IPA link|õ}}
+|-
+! [[Low vowel|Low]]
+|
+| {{IPA link|a}} {{IPA link|ã}}
+|
+|}
+Karitiana vowels can be distinguished by the [[Distinctive feature|features]] [high], [back], and [round], and can be [[Vowel length|short]], [[Vowel length|long]], [[Vowel#Nasalization|oral]] or [[Vowel#Nasalization|nasal]].<ref name=":0" />
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+!
+! [[Bilabial consonant|Bilabial]]
+! [[Coronal consonant|Coronal]] <!-- alveolar or dental? -->
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ɲ}}
+| {{IPA link|ŋ}}
+|
+|-
+! [[Plosive]]
+| {{IPA link|p}}
+| {{IPA link|t}}
+|
+| {{IPA link|k}}
+|
+|-
+! [[Fricative]]
+|
+| {{IPA link|s}}
+|
+|
+| {{IPA link|h}}
+|-
+! [[Rhotic consonant|Rhotic]]
+|
+| {{IPA link|ɾ}}
+|
+|
+|
+|-
+! [[Semivowel]]
+|
+|
+| {{IPA link|j}}
+| {{IPA link|w}}
+|
+|}
+
+Karitiana also presents [͡tʃ] and [ʔ], but according to Luciana Storto (1999),<ref name=":0" /> the occurrence of the [[glottal stop]] is predictable, and [͡tʃ] is extremely rare, though it occurs in Karitiana's [[personal pronouns]]. The nasals {{IPA|/m n ɲ/}} are [[prestopped nasal consonant|prestopped]] {{IPA|[ᵇm ᵈn ᶡɲ]}} if they are preceded by an oral vowel, and [[prenasalized consonant|poststopped]] {{IPA|[mᵇ nᵈ ɲᶡ]}} if they are followed by one. The [[velar nasal]] {{IPA|/ŋ/}} is denasalized to {{IPA|[ɡ]}} before oral vowels in unstressed syllables, poststopped to {{IPA|[ŋᶢ]}} before oral vowels in stressed syllables, and prestopped {{IPA|[ᶢŋ]}} after oral vowels.
+
+{{IPA|/h r j w/}} are [[nasalization|nasalized]] {{IPA|[h̃ r̃ w̃  ȷ̃]}} when surrounded by nasal vowels.
+
+==Morphology==
+
+In his PhD thesis, Caleb Everett (2006)<ref name=":3" /> listed six [[word class]]es for Karitiana. In general, Karitiana follows the general trend in Tupi languages of presenting little dependent-marking or nominal morphology, though it has a robust system of [[agglutination|agglutinative]] verbal affixes. Valence-related verbal prefixes occur closer to the verb root than other prefixes, and according to Everett, the most crucial valency distinction in Karitiana is the distinction between semantically [[Valency (linguistics)|monovalent and polyvalent verbs]] as this plays an important role in verbal inflections and clausal constructions, such as the formation of [[imperative mood|imperative]], [[interrogative]] and negative clauses, as well as in the establishment of grammatical relations. Karitiana presents a binary future/non-future tense suffix system and a number of aspect suffixes. It also presents desiderative inflection, an optional evidentiality suffix, a verb-focus system among other constructions. Karitiana presents a nominalizer suffix that is attached to verbs in order to derive nouns. In general, nouns serving as core arguments for a verb are left unmarked for case, but non-core arguments can receive allative and oblique case markers.
+
+===Pronouns===
+Only [[epicene]] pronouns exist in Karitiana. This means that no distinction is made between male vs. female (as "he" or "she" in English).<ref>{{cite journal |last=Everett |first=Careb |year=2011 |title=Gender, pronouns and thought: The ligature between epicene pronouns and a more neutral gender perception |journal=Gender and Language |volume=5 |issue=1 |pages=133–152 |doi=10.1558/genl.v5i1.133 }}</ref> There are free pronouns and pronominal prefixes, the latter of which serves to cross-reference the [[Absolutive case|absolutive]] [[noun|nominal]] of a given [[clause]], and also functions as [[possession (linguistics)|possessors]] when attached to nouns. It is also worth to mention that the third person pronoun ''i'' is the only free pronoun that can be used to express possession.
+
+{| class="wikitable" 
+|-
+! rowspan="2" colspan="2" | 
+! colspan="2" | Free pronouns
+! colspan="2" | Pronominal prefixes
+|-
+! Singular || Plural
+! Singular || Plural
+|-
+! rowspan="2" | 1st<br />person
+! Exclusive
+| rowspan="2" | ɨ̃
+| ɨta
+| rowspan="2" | ɨ-
+| ɨta-
+|-
+! Inclusive
+| ɨːtʃa
+| ɨj-
+|-
+! colspan="2" | 2nd person
+| ãn
+| aːtʃa
+| a-
+| aj-
+|-
+! colspan="2" | 3rd person
+| i
+| --
+| ø-
+| --
+|}
+
+Examples of free pronouns and pronominal prefixes:
+
+{{interlinear|number=1a)
+| ɨ-ɲõŋõ
+| 1S.GEN-arm
+| My arm}}
+
+{{interlinear|number=1b)
+| ɨj-hadni-pa
+| 1P.GEN-speak-NOM
+| Our cellphone}}
+
+{{interlinear|number=1b)
+| a-soːjt
+| 2S.GEN-wife
+| Your wife}}
+
+{{interlinear|number=1c)
+| i soːjt
+| 3S.GEN wife
+| His wife}}
+
+Karitiana has at least six [[demonstrative pronouns]]. 'Ka' refers to manner, 'ho' is proximal, 'onɨ̃' is distal, 'ɲã' refers to things that are close and seated, 'hɨp' refers to things that are close and supine, and 'hoːɾi' refers to things that are out of sight.
+
+{{interlinear|number=2a)
+| mõɾ̃ãmõn ka
+| WH+ DEM.MAN
+| What is this? (something in hand)}}
+
+{{interlinear|number=2b)
+| mõɾ̃ãmõn ho
+| WH+ DEM.PROX
+| What is that? (something close)}}
+
+{{interlinear|number=2c)
+| mõɾ̃ãmõn onɨ̃
+| WH+ DEM.PROX
+| What is that (over there)}}
+
+{{interlinear|number=2d)
+| hoɾi naka-atɨka-t pikom ep okɨp
+| DEM.ONSEEN NSAP-be.t-NFUT wooly.monkey tree.on
+| There is a woolly monkey in some tree over there (Not sure which tree.)}}
+
+===Causativization===
+Karitiana expresses [[causative|causation]] by the prefix 'm-' or the periphrastic 'tɨpõŋ' (Rocha, 2014), inferring that one participant is causing another to act in a certain manner.<ref name=":3" /> The prefix 'm-' is used to add an argument to [[intransitive verbs]], and 'tɨpõŋ' is used to add a third argument to a [[transitive verb]], and the former agent receives the [[oblique case|oblique]] suffix '-tɨ'.<ref name=":2" />
+
+{{interlinear|number=1a)
+| ɨ̃n i-pɨtʔɨ-t
+| 1S INT-eat-NFUT
+| I ate}}
+
+{{interlinear|number=2b)
+| ɨ̃n na-m-pɨtɨ-t i-tɨ
+| 1S NSAP-CAUS-eat-NFUT 3-OBL
+| I fed him'/'I gave him food}}
+
+{{interlinear|number=2c)
+| ɨ̃n a-taka-mĩː-t tɨpõŋ i-tɨ
+| 1S 2S.ABS-SAP-hit-NFUT cause(?) 3-OBL
+| I made you hit him}}
+
+===Nominalization===
+The [[suffix]] '-pa' can be attached to [[non-finite verb]]s, in general, resulting in a noun that is related to the given verb.<ref name=":3" /> The meaning of the resulting noun is quite flexible and it varies according to the context. For example:
+
+{{interlinear|indent=3
+| taɾɨka + -pa ⟹ taɾɨkipa
+| walk {} NOM ⟹ {'thing related to walking/going'}
+|}}
+
+In certain contexts 'taɾɨkipa' can be used to refer to canoe, car, airplane, as well as a friend's house that one frequently visits, or make-up and nice clothing, as these are associated, for some Karitiana, to going out in the city.
+
+Verbs associated with '-pa' can also be preceded by a noun in order to reduce the scope of the '-pa' nominal:
+
+{{interlinear|indent=3
+| mɨhõɾõn + -pa ⟹ mɨhõɾõnpa
+| clean {} NOM ⟹ {'thing related to cleaning'}
+|}}
+
+{{interlinear|indent=3
+| mɨhõɾõn + -pa ⟹ mɨhõɾõnpa
+| clean {} NOM ⟹ {'thing related to cleaning'}
+|}}
+
+{{interlinear|indent=3
+| osop + mɨhõɾõn + -pa ⟹ {osop mɨhõɾõnpa}
+| hair {} clean + NOM ⟹ {'thing related to cleaning'}
+|}}
+
+In some cases, ’-pa' can also be attached to nouns to derive other nouns. For instance, when attached to nouns representing animals, the result is the animal's habitat or a trail used by it.
+
+==Syntax==
+===Case and agreement===
+Karitiana displays an [[ergative-absolutive language|ergative]] pattern of agreement, where the subject agrees with the intransitive verb, and the object agrees with the transitive verb,<ref name=":0">{{Cite thesis |last=Storto |first=Luciana |title=Aspects of a Karitiana grammar |date=1999 |degree=phd |publisher=Massachusetts Institute of Technology |hdl=1721.1/9702 |hdl-access=free}}</ref> as is shown in examples 1a to 1f. This pattern surfaces in all [[matrix clause]]s and is evident from person agreement morphology on verbs<ref>{{Cite journal|last=Storto|first=Luciana|date=2005|title=Caso e Concordância nas Línguas Tupi|url=http://linguistica.fflch.usp.br/sites/linguistica.fflch.usp.br/files/01%20Storto%202004%20-%20Case%20and%20Agreement%20in%20Tupi.pdf|journal=Revista Estudos Lingüísticos|volume=XXXIV|pages=59–72}}</ref><!-- Everett (2006) disagrees with Storto (1999) on this subject, maintaining that Karitiana does not display agreement for person, and that the person prefixes that attach to verbs are cliticized pronouns (Storto, 2014). -->, and is true for both declarative and non-declarative sentences. An exception is the object [[focus (linguistics)|focus]] construction, where the transitive verb eccentrically agrees with the ergative argument<ref name=":0" /> as shown in examples 2a and 2b. This construction does not involve intransitivization, and the eccentric agreement is a product of object focus morphology.
+
+{{interlinear|number=1a)
+| Yn a-ta-oky-j an
+| 1S 2S-DECL-kill/hurt-IRR 2S
+| I will hurt you}}
+
+{{interlinear|number=1b)
+| An y-ta-oky-t yn
+| 2S 1S-DECL-kill/hurt-NFUT 1S
+| You will hurt me}}
+
+{{interlinear|number=1c)
+| Yjxa ø-na-ahee-t iso
+| 1P 3-DECL-blow-NFUT fire
+| We-incl. blew fire}}
+
+{{interlinear|number=1d)
+| Y-ta-opiso-t yn
+| 1S-DECL-listen-NFUT 1S
+| I listened}}
+
+{{interlinear|number=1e)
+| A-ta-opiso-t an
+| 2S-DECL-listen-NFUT 2S
+| You listened}}
+
+{{interlinear|number=1f)
+| Aj-taka-tar-i ajxa
+| 2P-DECL-leave-IRR 2P
+| You-PL will leave}}
+
+{{interlinear|number=1g)
+| ø-Naka-hỹrỹja-t i/taso
+| 3-DECL-sing-NFUT 2S/man
+| He/the man sang}}
+
+{{interlinear|number=2a)
+| 'Ep aj-ti-pasagngã-t ajxa
+| trees trees 2P-OFC-count-NFUT 2P
+| Trees, you-PL are counting}}
+
+{{interlinear|number=2b)
+| Sepa y-ti-m-'a ty-j̃a-t
+| basket lps-OFC-caus.-do imperfve.sitting-NFUT
+| A basket, I am weaving}}
+
+According to Everett (2006),<ref name=":3">{{Cite thesis|last=Everett|first=Caleb|title=Patterns in Karitiana: Articulation, perception, and grammar|date=2007|degree=Thesis|hdl=1911/20600}}</ref> many phenomena in Karitiana follow a nominative pattern generally due to the pragmatic status of arguments. The author argues that the grammatical relations of Karitiana suggest a system where syntactic phenomena often tend to display nominative-accusative patterns, and morphological phenomena tend to display ergative-absolutive patterns.
+
+==Semantics==
+===Quantification===
+[[Noun phrase]]s (NPs) in Karitiana surface as [[bare nouns]], without any functional operator, such as [[inflection]] to [[grammatical number|mark number]] or [[definiteness]].<ref name=":1">{{Cite journal|last=Müller|first=A.|last2=Storto|first2=Luciana|last3=Coutinho-Silva|first3=T.|date=2006|title=Number And The Mass-Count Distinction In Karitiana|url=http://linguistica.fflch.usp.br/sites/linguistica.fflch.usp.br/files/01%20Muller,%20Storto%20&%20Coutinho-Silva-final.pdf|journal=UBCWPL 19: Proceedings of the Eleventh Workshop on Structure and Constituency in Languages of the Americas|pages=122–135|access-date=2020-02-13|archive-url=https://web.archive.org/web/20181209123847/http://linguistica.fflch.usp.br/sites/linguistica.fflch.usp.br/files/01%20Muller%2C%20Storto%20%26%20Coutinho-Silva-final.pdf|archive-date=2018-12-09|url-status=dead}}</ref> Bare nouns can refer to one or more entities, definite or indefinite, and these are determined by the context in which they occur.
+
+{{interlinear|number=1a)
+|top= Maria akam’at gooj
+| Maria naka-m-’a-t gooj
+| Maria DECL-CAUS-make-NFUT canoe
+| Maria built the/a/some canoe(s)}}
+
+{{interlinear|number=1b)
+|top= Taso naka’yt  boroja
+| taso naka-’y-t boroja
+| man DECL-eat-NFUT snake
+| A/the/some man/men ate a/the/some snake(s)}}
+
+Karitiana does not require [[numeral classifier]]s, thus numerals receive the oblique suffix -t and are directly linked to common nouns. The numeral system consists of units from 1 to 5, and larger numbers are expressed with a combination of these units.<ref name=":1" />
+
+{{interlinear|number=2a)
+|top= Yn naka’yt myhint pikom
+| yn naka-’y-t myhin-t pikom 
+| 1S DECL-eat-NFUT one-OBL monkey
+| I ate one monkey}}
+
+{{interlinear|number=2b)
+|top= Yn naka’yt sypomp pikom
+| yn naka-’y-t sypom+t pikom 
+| 1S DECL-eat-NFUT two-OBL monkey
+| I ate two monkeys}}
+
+Karitiana makes a lexical distinction between [[mass noun|mass]] and [[count noun|count]] nouns. Count nouns can be counted directly, while mass nouns require a system of measurement.
+
+{{interlinear|number=3a)
+|top= *Myhint ouro naakat i’orot
+| myhin-t ouro na-aka-t i-’ot-<o>t 
+| three gold DECL-AUX-NFUT part-fall-REDUP-NFUT
+| Three golds fell}}
+
+{{interlinear|number=3b)
+|top= Myhint kilot ouro naakat i’orot
+| myhin-t kilo-t ouro na-aka-t i-’ot-<o>t 
+| three kilogram-OBL gold DECL-AUX-NFUT part-fall-REDUP-NFUT
+| One kilogram of gold fell}}
+
+{{interlinear|number=3c)
+|top= *J̃onso nakaot sypomp ese
+| j̃onso naka-ot-Ø sypom+t ese
+| woman DECL-bring-NFUT two-OBL water
+| The woman brought two waters}}
+
+{{interlinear|number=3d)
+|top= *J̃onso nakaot sypomp bytypip ese
+| j̃onso naka-ot-Ø sypom+t byt-ypip ese
+| woman DECL-bring-NFUT two-OBL bowl-in water
+| The woman brought two bowls of waters}}
+
+Quantifying expressions can behave like adverbs or nouns. The word ''si’ĩrimat'' is used to mean nobody or never, and the word ''kandat'' is used to express quantification of nouns and verbs.<ref name=":1" />
+
+{{interlinear|number=4a)
+|top= Isemboko padni si’ĩrimat eremby
+| i-semboko padni si’ĩrimat eremby
+| 3-get.wet NEG ever hammock
+| Hammocks never get wet}}
+
+{{interlinear|number=4b)
+|top= Iaokooto padni si’ĩrimat y’it
+| i-a-okooto padni si’ĩrimat y-‘it
+| 3-PASS-bite NEG ever 1S-son
+| Nobody bit my son}}
+
+{{interlinear|number=4c)
+|top= Kandat nakahori dibm taso
+| kandat naka-hot-i dibm taso
+| a.lot DECL-go-FUT tomorrow man
+| Many men will go tomorrow}}
+
+{{interlinear|number=4d)
+|top= Pyrykiidn j̃onso pytim’adn kandat tyym
+| pyry-kiid-n j̃onso pytim’adn kandat tyym
+| assert-exist-NFUT woman a.lot SUB
+| There are many women that work a lot}}
+
+Universal quantification is conveyed by the expression ''(ta)akatyym'', where ''-ta'' is a third person anaphora, ''aka'' is the verb to be, and ''tyym'' is the SUBordinate particle. This expression roughly means those who are. Anaphoric ''ta'' is used when the quantifying expression is not adjacent to the noun it modifies, and is not necessary when it is adjacent to the noun.<ref name=":1" />
+
+{{interlinear|number=5a)
+|top= Taakatyym naponpon João sojxaaty kyn
+| ta-aka-tyym na-pon-pon-Ø João sojxaaty kyn
+| a3anaph-be-SUB DECL-shoot-REDUP-NFUT João wild.boar at
+| João shot at every wild boar (literally: João shot at wild boar that be)}}
+
+{{interlinear|number=5b)
+|top= Taakatyym naponpon taso sojxaaty kyn
+| ta-aka-tyym na-pon-pon-Ø taso sojxaaty kyn
+| a3anaph-be-SUB DECL-shoot-REDUP-NFUT taso wild.boar at
+| All the men shot at the boar (literally: Men that be shot at wild boar)}}
+
+{{interlinear|number=5c)
+|top= Sojxaaty akatyym naponpon João
+| sojxaaty aka-tyym na-pon-pon-Ø João
+| wild.boar be-SUB DECL-shot-REDUP-NFUT João
+| João shot at all the wild boars’ (literally: João shot at the wild boars that are)}}
+
+==References==
+{{reflist}}
+== Further reading ==
+*{{cite journal |last=Landin |first=David J. |year=1988 |title=As orações karitiâna |journal=Série Lingüística |volume=9 |issue=2 |pages=30–50 |url=http://www.sil.org/americas/brasil/PUBLCNS/LING/KTOrac.pdf |language=pt}}
+*{{cite book |last=Landin |first=David J. |orig-year=1983 |year=2005 |title=Dicionário e léxico karitiâna/português |location=Brasília |publisher=Summer Institute of Linguistics |url=http://www.sil.org/americas/brasil/PUBLCNS/DICTGRAM/KTDic.pdf |language=pt}}
+*{{cite journal |last=Landin |first=Rachel M. |year=1987 |title=Conjunções karitiâna de nivel superior |journal=Série Lingüística |volume=9 |issue=1 |pages=199–206 |url=http://www.sil.org/americas/brasil/PUBLCNS/LING/KTConj.pdf |language=pt}}
+*{{cite journal |last=Everett |first=Caleb |year=2011 |title=Gender, pronouns and thought: The ligature between epicene pronouns and a more neutral gender perception |journal=Gender and Language |volume=5 |issue=1 |pages=133–152 |url=https://www.researchgate.net/publication/273082883|doi=10.1558/genl.v5i1.133 }}
+
+*“Karitiâna”. ''Ethnologue'', SIL International, www.ethnologue.com/18/language/ktn/.
+*Kindell, Gloria E. 1981. “Descrição preliminaria da estrutura fonológica da língua Karitiâna”. G.E. Kindell, ''Guia de análise fonológica'', SIL, pp.&nbsp;196–226
+*Landin, David J. ''Dicionário e Léxico Karitiana/Português''. Summer Institute of Linguistics, 2005
+*Muller, Ana. “Distributividade: o caso dos numerais reduplicados em karitiana”. ''Cadernos de Estudos Linguísticos''. UNICAMP, vol. 54, pp.&nbsp;225–243, 2012.
+*Muller, Ana; Sanchez-Mendes, L. "O Significado da Pluracionalidade em Karitiana". ''Cadernos de Estudos Lingüísticos''. UNICAMP, vol. 52, pp.&nbsp;215–231, 2010.
+*Muller, Ana. “Variação semântica: individuação e número na língua Karitiana”. ''Estudos Lingüísticos''. Universiadade de São Paulo, vol. 38, pp.&nbsp;295–308, 2009.
+*Rocha, Ivan. Não-Finitude em Karitiana: subordinação versus nominalização. Ph.D. Thesis. University of São Paulo, 2016
+*Rocha, Ivan. A estrutura argumental da língua Karitiana. MA Thesis. University of São Paulo, 2011
+*Storto, L. R. “Subordination in Karitina”. "Amérindia", vol. 35, pp.&nbsp;219–237, 2012
+*Storto, L. R. “Paralelos Estruturais entre a Quantificação Universal e as Orações Adverbiais em Karitiana”. ''Estudos Linguísticos'' (São Paulo. 1978), vol. 42, pp.&nbsp;174–181, 2013
+*Storto, L & I. Rocha (2014). "Estrutura Argumental na Língua Karitiana". ''Sintaxe e Semântica do Verbo em Línguas Indígenas do Brasil''. Campinas: Mercado de Letras. pp.&nbsp;17–42.
+*Storto, L. & I. Rocha. (2014). "Strategies of Valence Change in Karitiana". ''Incremento de Valencia en las Lenguas Amazónicas''. Francesc Queixalos, Stella Telles & Ana Carla Bruno (resps.). Universidad Nacional de Colombia & Instituto Caro Y Cuervo. Bogotá. 51-69.
+*Storto, L. (2014). ''Reduplication in Karitiana''. In ''Reduplication in the Indigenous languages of South America''. Gale Goodwin Gómez & Hein van der Voort (eds.). Brill's Studies in the Indigenous Languages of the Americas. Brill. 401-426.
+*Storto, L. (2014). "Information Structure and Constituent Order in Karitiana Clauses". Information ''Structure and Reference Tracking in Complex Sentences''. Rik van Gijn, Jeremy Hannond, Dejan Matic, Saskia van Putten & Ana Vilcay Galucio (eds.). Amsterdam/Philadelphia: John Benjamins Publishing Company. 163-191.
+*Storto, L. R. “Marcação de Concordância Absolutiva em Algumas Construções Sintáticas em Karitiana”. ''Amérindia'', vol. 32, pp.&nbsp;183–203, 2008
+*Storto, L. R. “Interactions Between Verb Movement and Agreement in Karitiana (Tupi Stock)”. ''Revista Letras'', vol. 60, pp.&nbsp;411–433, 2003
+*Storto, L. R., and Vander Velden, F. F. “Karitiana”. ''Povos Indígenas no Brasil'', Instituto SocioAmbiental, 19 September 2018, <nowiki>https://pib.socioambiental.org/pt/Povo:Karitiana</nowiki>
+*Vander Velden, F. F. “De volta para o passado: territorialização e ‘contraterritorialização’ na história karitiana”, ''Sociedade e Cultura'', vol. 13, no. 1, 2010, pp. 55-65 
+*Vander Velden, F. F. ''Inquietas companhias: sobre os animais de criação entre os Karitiana''. São Paulo, Alameda Casa Editorial, 2012. vol. 1
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+PROX:proximal
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Tupian languages}}
+{{Languages of Brazil}}
+
+{{DEFAULTSORT:Karitiana Language}}
+[[Category:Tupian languages]]
+[[Category:Languages of Brazil]]
+[[Category:Mamoré–Guaporé linguistic area]]

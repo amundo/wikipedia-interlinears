@@ -1,0 +1,746 @@
+{{short description|Extinct language}}
+{{Infobox language
+|name=Wichita
+|nativename= KirikirɁi:s|
+|states=[[United States]]
+|region=West-central [[Oklahoma]]
+|ethnicity=2,100 [[Wichita people]] (2007)
+|extinct =30 August 2016
+|ref=<ref>{{cite web|last1=Poolaw|first1=Rhiannon|title=Last Wichita Speaker Passes Away|url=http://www.kswo.com/story/32940602/last-wichita-speaker-passes-away|website=ABC News 7|publisher=KSWO|access-date=1 September 2016|date=31 August 2016}}</ref>
+|speakers2=with the death of [[Doris McLemore]].
+|familycolor=American
+|fam1=[[Caddoan languages|Caddoan]]
+|fam2=Northern
+|iso3=wic
+|lingua=64-BAC > 64-BAC-a
+|map=Oklahoma Indian Languages.png
+|mapcaption=Distribution of [[Indigenous languages of the Americas|Native American languages]] in [[Oklahoma]]
+|notice=IPA
+|glotto=wich1260
+|glottorefname=Wichita
+}}
+
+'''Wichita''' is an [[extinct language|extinct]] [[Caddoan languages|Caddoan]] language once spoken in [[Oklahoma]] by the [[Wichita and Affiliated Tribes]]. The last fluent heritage speaker, [[Doris Lamar-McLemore]], died in 2016,<ref name="urlThe Last Living Speaker of Wichita : NPR">{{cite web
+|url=https://www.npr.org/templates/story/story.php?storyId=18532656
+|title=The Last Living Speaker of Wichita : NPR
+|format=Audio interview
+}}</ref> although in 2007 there were three first-language speakers alive.<ref name="Rood, 2008, p. 395-405">Rood, 2008, p. 395-405</ref> This has rendered Wichita functionally [[extinct language|extinct]]; however, the tribe offers classes to revitalize the language<ref name=wt>[http://www.wichitatribe.com/language_class.htm Wichita Language Class.] {{webarchive|url=http://www.wichitatribe.com/culture/wichita-language-class.aspx |date=2010-07-02 }} ''Wichita and Affiliated Tribes.'' 18 Feb 2009 (retrieved 14 Nov 2019)</ref> and works in partnership with the Wichita Documentation Project of the [[University of Colorado, Boulder]].<ref name=ucb>[http://www.colorado.edu/linguistics/faculty/rood-old/Wichita/aboutproj.html "Wichita: About the Project."] ''Department of Linguistics, University of Colorado, Boulder.'' (retrieved 17 July 2010)</ref>
+
+==Dialects==
+When the Europeans began to settle North America, Wichita separated into three dialects; Waco, Tawakoni, and Kirikir{{IPA|Ɂ}}i:s (aka, Wichita Proper).<ref name="Rood, 2008, p. 395-405"/> However, when the language was threatened and the number of speakers decreased, dialect differences largely disappeared.<ref name="Taylor, 1967, p.113-131">Taylor, 1967, p.113-131</ref>
+
+==Status==
+As late as 2007 there were three living native speakers,<ref name="Rood, 1975, p. 315-337">Rood, 1975, p. 315-337</ref> but the last known fluent native speaker, [[Doris Lamar-McLemore]], died on 30 August 2016. This is a sharp decline from the 500 speakers estimated by Paul L. Garvin in 1950.<ref name="Garvin, 1950, p. 179-184">Garvin, 1950, p. 179-184</ref>
+
+==Classification==
+Wichita is a member of the Caddoan language family, along with modern Caddo, Pawnee, Arikara, and Kitsai.<ref name="Rood, 2008, p. 395-405"/>
+
+==Phonology==
+The phonology of Wichita is unusual, with no pure labial consonants (though there are two [[Labialized velar consonant|labiovelars]] /kʷ/ and /w/. There is only one nasal (depending on conflicting theory one or more nasal sounds may appear, but all theories seem to agree that they are allophones of the same phoneme, at best), and possibly a three vowel system using only height for contrast.<ref name="Rood, 1975, p. 315-337"/>
+
+===Consonants===
+
+Wichita has 10 [[consonant]]s. In the [[Americanist phonetic notation|Americanist]] orthography generally used when describing Wichita, {{IPA|/t͡s/}} is spelled {{angle bracket|c}}, and {{IPA|/j/}} is {{angle bracket|y}}.
+
+{| class="wikitable IPA" style=text-align:center
+|-
+! rowspan="2" |
+! rowspan="2" |[[Alveolar consonant|Alveolar]]
+! colspan="2" | [[Dorsal consonant|Dorsal]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! <small>plain</small>
+! <small>[[Labialization|labial.]]</small>
+|-
+! [[Plosive]]
+| {{IPAlink|t}}
+| {{IPAlink|k}}
+| {{IPAlink|kʷ}}
+| {{IPAlink|ʔ}}
+|-
+! [[Affricate]]
+| {{IPAlink|t͡s}}
+|
+|
+|
+|-
+! [[Fricative]]
+| {{IPAlink|s}}
+|
+|
+| {{IPAlink|h}}
+|-
+! [[Sonorant]]
+| {{IPAlink|ɾ}} ~ {{IPAlink|n}}
+|
+|
+|
+|-
+! [[Semivowel]]
+|
+| {{IPAlink|j}}
+| {{IPAlink|w}}
+| 
+|}
+
+Though neither Rood nor Garvin include nasals in their respective consonant charts for Wichita, Rood's later inclusion of nasals in phonetic transcription for his 2008 paper ("Some Wichita Recollections: Aspects of Culture Reflected in Language") support the appearance of at least {{IPA|/n/}}.<ref name="Rood, 2008, p. 395-405"/>
+* [[labial consonant|Labials]] are generally absent, occurring in only two roots: '''kammac''' ''to grind corn'' and '''camma:ci''' ''to hoe, to cultivate'' (⟨c⟩ = {{IPA|/t͡s/}}).
+* Apart from the {{IPA|/m/}} in these two verbs, [[Nasal stop|Nasals]] are allophonic. The allophones {{IPA|[ɾ]}} and {{IPA|[n]}} are in [[complementary distribution]]: It is {{IPA|[n]}} before alveolars ({{IPA|/t, ts, s/}} and in geminate {{IPA|[nn]}}) and initially before a vowel, and {{IPA|[ɾ]}} elsewhere. Thus its initial consonant clusters are {{IPA|[n]}} and {{IPA|[ɾ̥h]}}, and its medial & final clusters are {{IPA|[nts], [nt], [ns], [nn], [ɾʔ], [ɾh]}}.
+* Final ''r'' and ''w'' are voiceless: {{IPA|[ɾ̥], [w̥]}}
+* Glottalized final consonants: One aspect of Wichita phonetics is the occurrence of glottalized final consonants. Taylor asserts that when a long vowel precedes a glottal stop (Ɂ), there is no change to the pronunciation. However, when the glottal stop is preceded by a short vowel, the vowel is eliminated. If the short vowel was preceded by a consonant, then the consonant is glottalized. Taylor hypothesizes that these glottalized final consonants show that the consonant was not originally a final consonant, that the proto form (an earlier language from which Wichita split off, that Taylor was aiming to reconstruct in his paper) ended in a glottal stop, and that a vowel has been lost between the consonant and glottal stop.<ref name="Taylor, 1967, p.113-131"/>
+
+{| class="wikitable" style="text-align:center"
+|-
+! Original word ending
+! Change
+! Result
+! Wichita example
+|-
+| {{IPA|[VːɁ#]}}
+| No change
+| {{IPA|[VːɁ#]}}
+|
+|-
+| {{IPA|[VːVɁ#]}}
+| -{{IPA|[V]}}
+| {{IPA|[VːɁ#]}}
+| {{IPA|[hijaːɁ]}} (snow)
+|-
+| {{IPA|[CVɁ#]}}
+| -{{IPA|[V]}}
+| {{IPA|[CɁ#]}}
+| {{IPA|[kiːsɁ]}} (bone)
+|}
+
+: {{IPA|Vː}} - long vowel
+: V - short vowel
+: C - consonant
+: # - preceding sound ends word
+* Taylor also finds that previous phonetic transcriptions have recorded the phoneme {{IPA|/ts/}} (aka {{angbr|c}}), as occurring after {{IPA|/i/}}, while {{IPA|/s/}} is recorded when preceded by {{IPA|/a/}}.<ref name="Taylor, 1967, p.113-131"/>
+* The {{IPA|*kʷ, *w, *p}} merger; or Why Wichita Has No {{IPA|/p/}}:
+** In Wichita the sounds {{IPA|/kʷ/}} and {{IPA|/w/}} are not differentiated when they begin a word, and word-initial *p has become {{IPA|/w/}}. This is unusual, in that the majority of Caddoan languages pronounce words that used to begin with *w with {{IPA|/p/}}. In Wichita, the three sounds were also merged when preceded by a consonant. Wichita shifted consonant initial *p to {{IPA|/kʷ/}} with other medial occurrences of *p. {{IPA|/kʷ/}} and {{IPA|/w/}} remain distinct following a vowel. For example, the word for 'man' is {{IPA|/wiːt͡s/}} in Wichita, but {{IPA|/piːta/}} in South Band Pawnee and {{IPA|/pita/}} in Skiri Pawnee.<ref name="Taylor, 1967, p.113-131"/>
+
+===Phonological rules<ref>Rood, David S. "The Implications of Wichita Phonology" Language 51.2 (1975): 315-337. Web. 30 Jan 2014.</ref>===
+* The coalescence of morpheme-final {{IPA|/ɾ/}} and subsequent morpheme-initial {{IPA|/t/}} or {{IPA|/s/}} to {{IPA|/t͡s/}}:
+{{interlinear|indent=3|ti-r-tar-s|c1= → ''ticac''|IND-PL-cut-IMPERF|'he cut them'}}
+{{interlinear|indent=3|a:ra-r-tar|c1= → ''a:racar''|PERF-PL-cut|'he has cut them'}}
+{{interlinear|indent=3|a:ra-tar|c1= → ''a:ratar''|PERF-cut|'he has cut it'}}
+* {{IPA|/w/}} changes to {{IPA|/kʷ/}} whenever it follows a consonantal segment which is not {{IPA|/k/}} or {{IPA|/kʷ/}}:
+{{interlinear|indent=3|i-s-wa|c1= → ''iskwa''|IMP-you-go|'go!'}}
+{{interlinear|indent=3|i-t-wa|c1= → ''ickwa''|IMP-I-go|'let me go!'}}
+* {{IPA|/ɾ/}} changes to {{IPA|/h/}} before {{IPA|/k/}} or {{IPA|/kʷ/}}. The most numerous examples involve the collective-plural prefix ''r-'' before a morpheme beginning with {{IPA|/k/}}:
+{{interlinear|indent=3|ti-r-kita-re:sʔi|c1= → ''tihkitare:sʔi''|IND-COL-top-lie.INAN|'they are lying on top'}}
+* {{IPA|/t/}} with a following {{IPA|/s/}} or {{IPA|/ɾ/}} to give {{IPA|/t͡s/}}:
+{{interlinear|indent=3|keʔe-t-rika:s-ti:kwi|c1= → ''keʔecika:sti:kwi''|FUT-I-head-hit|'I will hit him on the head'}}
+* {{IPA|/t/}} changes to {{IPA|/t͡s/}} before {{IPA|/i/}} or any non-vowel:
+{{interlinear|indent=3|ta-t-r-taʔas|c1= → ''taccaʔas''|IND-I-COL-bite|'I bit them'}}
+* {{IPA|/k/}} changes to {{IPA|/s/}} before {{IPA|/t/}}:
+{{interlinear|indent=3|ti-ʔak-tariyar-ic|c1= → ''taʔastariyaric''|IND-PL-cut.randomly-repeatedly|'he butchered them'}}
+* {{IPA|/ɾ/}}, {{IPA|/j/}}, and {{IPA|/h/}} change to {{IPA|/s/}} after {{IPA|/s/}} or {{IPA|/t͡s/}}:
+{{interlinear|indent=3|ichiris-ye:ckeʔe:kʔa|c1= → ''ichirisse:ckeʔe:kʔa''|bird-ember|'redbird'}}
+
+===Vowels===
+
+Wichita has either three or four vowels, depending on analysis:<ref name="Taylor, 1967, p.113-131"/><ref name="Rood, 1975, p. 315-337"/><ref name="Garvin, 1950, p. 179-184"/>
+
+{| class="wikitable IPA" style=text-align:center
+|-
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|High]]
+| ɪ ~ i ~ e
+|
+|-
+! [[Mid vowel|Mid]]
+| ɛ ~ æ
+| (o/u)
+|-
+! [[Open vowel|Low]]
+|
+| ɒ ~ a
+|}
+
+These are transcribed as {{angbr|i, e, a, o/u}}.
+
+Word-final vowels are [[phonation|devoiced]].
+
+Though Rood employs the letter {{angbr|o}} in his transcriptions,<ref name="Rood, 2008, p. 395-405"/> Garvin instead uses {{angbr|u}}, and asserts that {{IPA|/u/}} is a separate phoneme.<ref name="Garvin, 1950, p. 179-184"/> However, considering the imprecision in vowel sound articulation, what is likely important about these transcriptions is that they attest to a back vowel that is not low.
+
+Taylor uses Garvin's transcription in his analysis, but theorizes a shift of *u to {{IPA|/i/}} medially in Wichita, but does not have enough examples to fully analyze all the possible environments. He also discusses a potential shift from *a to {{IPA|/i/}}, but again, does not have enough examples to develop a definitive hypothesis. Taylor finds {{IPA|/ɛ/}} only occurs with intervocalic glottal stops.<ref name="Taylor, 1967, p.113-131"/><ref name="Garvin, 1950, p. 179-184"/>
+
+Rood argues that {{IPA|[o]}} is not phonemic, as it is often equivalent to any vowel + {{IPA|/w/}} + any vowel. For example, {{IPA|/awa/}} is frequently contracted to {{IPA|[óː]}} (the high tone is an effect of the elided consonant). There are ''relatively'' few cases where speakers will not accept a substitution of vowel + {{IPA|/w/}} + vowel for {{IPA|[o]}}; one of them is {{IPA|[kóːs]}} 'eagle'.{{clarify|reason=Is this saying that [kóːs] would NOT be understood to mean "eagle"?|date=June 2021}}
+
+Rood also proposes that, with three vowels that are arguably high, mid, and low, the front-back distinction is not phonemic, and that one may therefore speak of a '[[vertical vowel system|vertical]]' vowel inventory (see below). This also has been claimed for relatively few languages, such as the [[Northwest Caucasian languages]] and the [[Ndu languages]] of [[Papua New Guinea]].
+
+There is clearly at least a two-way contrast in [[vowel length]]. Rood proposes that there is a three-way contrast, which is quite rare among the world's languages, although well attested for [[Mixe language|Mixe]], and probably present in [[Estonian language|Estonian]]. However, in Wichita, for each of the three to four vowels qualities, one of the three lengths is rare, and in addition the extra-long vowels frequently involve either an extra [[morpheme]], or suggest that [[prosody (linguistics)|prosody]] may be at work. For example,
+
+::{{IPA|nɪːt͡s.híːːʔɪh}} 'the strong one'
+::{{IPA|nɪːːt͡s.híːːʔɪh}} 'the strong one'''s''''
+
+::{{IPA|hɛːhɪɾʔíːɾas}} 'let him find you'
+::{{IPA|hɛːːhɪɾʔíːɾas}} 'let him find '''it''' for you'
+
+::{{IPA|háɾah}} 'there'
+::{{IPA|háːɾɪh}} 'here it is' (said when handing something over)
+::{{IPA|háːːɾɪh}} 'that one'
+
+(Note that it is common in many languages to use prosodic lengthening with demonstratives such as 'there' or 'that'.)<ref name="Rood, 1975, p. 315-337"/>
+
+This contrasts with Mixe, where it is easy to find a three-way length contrast without the addition of morphemes.<ref name="Rood, 1975, p. 315-337"/>
+
+Under Rood's analysis, then, Wichita has 9 phonemic vowels:<ref name="Rood, 1975, p. 315-337"/>
+
+{| class="wikitable IPA" style=text-align:center
+|-
+!
+! [[Vowel length|Short]]
+! [[Vowel length|Long]]
+! [[Vowel length|Overlong]]
+|-
+! [[Close vowel|High]]
+| ɪ
+| ɪˑ
+| ɪː
+|-
+! [[Close-mid vowel|Mid]]
+| ɛ
+| ɛˑ
+| ɛː
+|-
+! [[Open vowel|Low]]
+| a
+| aˑ
+| aː
+|}
+
+===Tone===
+
+There is also a contrastive high [[tone (linguistics)|tone]], indicated here by an acute accent.
+
+===Syllable and phonotactics===
+
+While vowel clusters are uncommon (unless the extra-long vowels are clusters), [[consonant cluster]]s are ubiquitous in Wichita. Words may begin with clusters such as {{IPA|[kskh]}} ({{IPA|kskhaːɾʔa}}) and {{IPA|[ɾ̥h]}} ({{IPA|ɾ̥hintsʔa}}). The longest cluster noted in Wichita is five consonants long, counting {{IPA|[ts]}} as a single consonant {{IPA|/c/}}: {{IPA|/nahiʔinckskih/}} 'while sleeping'. However, Wichita [[syllable]]s are more commonly CV or CVC.
+
+==Grammar and morphology==
+
+Wichita is an agglutinative, polysynthetic language, meaning words have a root verb basis to which information is added; that is, morphemes (affixes) are added to verb roots. These words may contain subjects, objects, indirect objects, and possibly indicate possession. Thus, surprisingly complex ideas can be communicated with as little as one word. For example, {{IPA|/kijaʔaːt͡ssthirʔaːt͡s/}} means "one makes himself a fire".<ref name="Rood, 2008, p. 395-405"/>
+
+Nouns do not distinguish between singular and plural, as this information is specified as part of the verb. Wichita also does not distinguish between genders, which can be problematic for English language translation.<ref name="Rood, 2008, p. 395-405"/>
+
+Sentence structure is much more fluid than in English, with words being organized according to importance or novelty. Often the subject{{clarify|reason=slSee example and next use of the word "subject" after the example.|date=June 2021}} of the sentence is placed initially. Linguist David S. Rood, who has written many papers concerning the Wichita language, recorded this example, as spoken by Bertha Provost (a native speaker, now deceased) in the late 1960s.<ref name="Rood, 2008, p. 395-405"/>
+
+{{interlinear|indent=3
+|hiɾaːwisɁihaːs kijariːt͡seːhiɾeːweɁe hikaɁat͡saːkikaɁakɁit͡saki hiɾaːɾɁ tiɁi naːkiɾih
+|Old.time.people God When.he.made.us.dwell Earth This Where.it.is.located
+|"When God put our ancestors on this earth."}}
+
+The subject{{clarify|reason=It looks like "subject" is being used to refer to something pragmatic like topic, or possibly to an absolutive-case-like role, rather than to the nominative-case-like role the word "subject" usually refers to in linguistics.|date=June 2021}} of the sentence is ancestors, and thus the sentence begins with it, instead of God, or creation (when.he.made.us.dwell). This leads one to conclude Wichita has a largely free word-order, where parts of the sentence do not need to be located next to each other to be related.<ref name="Rood, 2008, p. 395-405"/>
+
+The perfective tense demonstrates that an act has been completed; on the other hand, the intentive tense indicates that a subject plans or planned to carry out a certain act. The habitual aspect indicates a habitual activity, for example: "he smokes" but not "he is smoking." Durative tense describes an activity, which is coextensive with something else.
+
+Wichita has no indirect speech or passive voice. When using past tense, speakers must indicate if this knowledge of the past is based in hearsay or personal knowledge. Wichita speakers also use a morpheme which amounts to two versions of "we"; one that includes the listener, and one that does not. Wichita also differentiates between singular, dual and plural number, instead of the simpler singular or plural designations commonly found.<ref name="Rood, 2008, p. 395-405"/>
+
+===Affixes===
+Some Wichita affixes are:<ref>http ||//www.colorado.edu/linguistics/faculty/rood-old/Wichita/SketchofWichita.pdf</ref>
+
+{| class="wikitable IPA"
+|-
+! colspan=2| Prefixes
+|-
+| aorist || a ... ki-{{clarify|date=February 2014}}
+|-
+| aorist quotative || aːɁa ... ki-{{clarify|date=February 2014}}
+|-
+| future || keɁe-
+|-
+| future quotative || eheː-
+|-
+| perfect || aɾa-
+|-
+| perfect quotative || aːɾa-
+|-
+| indicative || ta/ti-
+|-
+| exclamatory || iskiri-
+|-
+| durative || a/i-
+|-
+| imperative || hi/i-
+|-
+| future imperative || kiɁi-
+|-
+| optative || kaɁa-
+|-
+| debetative || kaɾa-
+|}
+
+{| class="wikitable IPA"
+|-
+! colspan=2| Suffixes
+|-
+| perfective || Ø
+|-
+| imperfective || -s
+|-
+| intentive || -staɾis
+|-
+| habitual || -ːss
+|-
+| too late || -iːhiːɁ
+|}
+
+:{{IPA|/ehèːʔáɾasis/}}
+:imperfective.future.quotative
+:'I heard she'll be cooking it.'
+
+===Instrumental suffixes===
+<ref name="Rood, David S. 1976">Rood, David S. ''Wichita Grammar''. New York: Garland Publishing, 1976. Print.</ref>
+The suffix is Rá:hir, added to the base. Another means of expressing instrument, used only for body parts, is a characteristic position of incorporation in the verb complex.
+# '''ha:rhiwi:cá:hir'''     'using a bowl' (ha:rhiwi:c 'bowl')
+# '''ika:rá:hir'''          'with a rock' (ika:Ɂa 'rock')
+# '''kirikirɁi:sá:hir'''    'in Wichita (the language)' (kirikirɁi:s 'Wichita)
+# '''iskiɁo:rɁeh'''         'hold me in your arms' (iskiɁ 'imperative 2nd subject, 1st object'; a 'reflexive possessor'; Ɂawir 'arm'; Ɂahi 'hold').
+# '''keɁese:cɁíriyari'''    'you will shake your head' (keɁes 'future 2nd subject'; a 'reflexive possessor'; ic 'face'; Ɂiriyari 'go around'. Literally: 'you will go around, using your face').
+
+===Tense and aspect===
+One of these [[tense-aspect-mood|tense-aspect prefixes]] must occur in any complete verb form.<ref name="Rood, David S. 1976"/>
+{| class="wikitable IPA"
+|-
+| durative; directive || a / i
+|-
+| aorist (general past tense) || a...ki
+|-
+| perfect; recent past || ara
+|-
+| future quotative || eheː
+|-
+| subjunctive || ha...ki
+|-
+| exclamatory; immediate present || iskiri
+|-
+| ought || kara
+|-
+| optative || kaɁa
+|-
+| future || keɁe
+|-
+| future imperative || kiɁi
+|-
+| participle || na
+|-
+| interrogative indicative || ra
+|-
+| indicative || ta
+|-
+| negative indicative || Ɂa
+|}
+Note: kara (ought), alone, always means 'subject should', but in complex constructions it is used for hypothetical action, as in 'what would you do if...')
+
+The [[aspect (linguistics)|aspect]]-marking suffixes are:
+{| class="wikitable IPA"
+|-
+| perfective || Ø
+|-
+| imperfective || s
+|-
+| intentive || staris
+|-
+| generic || ːss
+|-
+|}
+
+Other prefixes and suffixes are as follows:
+* The '''exclamatory''' inflection indicates excitement. 
+* The '''imperative''' is used as the command form.
+* The '''directive''' inflection is used in giving directions in sequences, such as describing how one makes something.
+** This occurs only with 2nd or 3rd person subject pronouns and only in the singular.
+* The '''optative''' is usually translated 'I wish' or 'subject should'.
+* Although '''ought''' seems to imply that the action is the duty of the subject, it is frequently used for hypothetical statements in complex constructions.
+* The unit '''durative''' suggests that the beginning and ending of the event are unimportant, or that the event is coextensive with something else.
+* '''Indicative''' is the name of the most commonly used Wichita inflection translating English sentences out of context. It marks predication as a simple assertion. The time is always non-future, the event described is factual, and the situation is usually one of everyday conversation.
+** The prefix is ti- with 3rd persons and ta- otherwise
+* The '''aorist''' is used in narratives, stories, and in situations where something that happened or might have happened relatively far in the past is meant.
+* The '''future''' may be interpreted in the traditional way. It is obligatory for any event in the future, no matter how imminent, unless the event is stated to be part of someone's plans, in which case '''intentive''' is used instead.
+* The '''perfect''' implies recently completed.
+** It makes the fact of completion of activity definite, and specifies an event in the recent past.
+* The '''aorist intentive''' means 'I heard they were going to ... but they didn't.'
+* The '''indicative intentive''' means 'They are going to ... ' without implying anything about the evidence on which the statement is based, nor about the probability of completion.
+* The optional inflection '''quotative''' occurs with the aorist, future, or perfect tenses.
+** If it occurs, it specifies that the speaker's information is from some source other than personal observation or knowledge.
+*** 'I heard that ... ' or 'I didn't know, but ... '
+** If it does not occur, the form unambiguously implies that evidence for the report is personal observation.
+
+Examples:
+Ɂarasi 'cook'
+{| class="wikitable IPA"
+|-
+| á:kaɁarásis || quotative aorist imperfective || I heard she was cooking it
+|-
+| kiyakaɁarásis || quotative aorist imperfective || I heard she was cooking it
+|-
+| á:kaɁarásiki || quotative aorist perfective || I heard she was cooking it
+|-
+| á:kaɁarásistaris || quotative aorist intentive || I heard she was planning on cooking it
+|-
+| kiyakaɁarásistaris || quotative aorist intentive || I heard she was planning on cooking it
+|-
+| á:kaɁarásiki:ss || quotative aorist generic || I heard she always cooked it
+|-
+| kiyakaɁarásiki:ss || quotative aorist generic || I heard she always cooked it
+|-
+| ákaɁárasis || aorist imperfective || I know myself she was cooking it
+|-
+| ákaɁárasiki || aorist perfective || I know myself she cooked it
+|-
+| ákaɁarásistaris || aorist intentive || I know myself she was going to cook it
+|-
+| ákaɁaraásiki:ss || aorist generic || I know myself she always cooked it
+|-
+| keɁárasiki || future perfective || She will cook it
+|-
+| keɁárasis || future imperfective || She will be cooking it
+|-
+| keɁárasiki:ss|| future generic || She will always cook it
+|-
+| ehéɁárasiki || quotative future perfective || I heard she will cook it
+|-
+| ehéɁárasis || quotative future imperfective || I heard she will be cooking it
+|-
+| eheɁárasiki:ss || quotative future generic || I heard she will always be the one to cook it
+|-
+| taɁarásis || indicative imperfective || She is cooking it; She cooked it
+|-
+| taɁarásistaris || indicative intentive || She's planning to cook it
+|-
+| taɁarásiki::s || indicative generic || She always cooks it
+|-
+| ískirá:rásis || exclamatory || There she goes, cooking it!
+|-
+| aɁarásis || directive imperfective || Then you cook it
+|-
+| haɁarásiki || imperative imperfective || Let her cook it
+|-
+| ki:Ɂárasiki || future imperative perfective || Let her cook it later
+|-
+| ki:Ɂárasiki:ss || future imperative generic || You must always let her cook it
+|-
+| á:raɁarásiki || quotative perfect perfective || I heard she cooked it
+|-
+| á:raɁarásistaris || quotative perfect intentive || I heard she was going to cook it
+|-
+| áraɁárasiki || perfect perfective || I know she cooked it
+|-
+| keɁeɁárasis || optative imperfective || I wish she'd be cooking it
+|-
+| keɁeɁárasiki || optative perfective || I wish she'd cook it
+|-
+| keɁeɁárasistaris || optative intentive || I wish she would plan to cook it
+|-
+| keɁeɁárasiki:ss || optative generic || I wish she'd always cook it
+|-
+| keɁeɁárasiki:hi:Ɂ || optative too late || I wish she had cooked it
+|-
+| karaɁárasis || ought imperfective || She ought to be cooking it
+|-
+| karaɁarásiki:ss || ought generic || She should always cook it
+|-
+| karaɁárasiski:hiɁ || ought too late || She ought to have cooked it
+|-
+|}
+
+===Modifiers===
+{| class="wikitable IPA"
+|-
+| assé:hah || all
+|-
+| ta:wɁic || few
+|-
+| tiɁih || this
+|-
+| ha:rí:h || that
+|-
+| hi:hánthirih || tomorrow
+|-
+| tiɁikhánthirisɁih || yesterday
+|-
+| chih á:kiɁí:rakhárisɁí:h || suddenly
+|-
+| ti:Ɂ || at once
+|-
+| wah || already
+|-
+| chah || still
+|-
+| chih || continues
+|-
+| tiɁrih || here
+|-
+| harah || there
+|-
+| hí:raka:h || way off
+|-
+| hita || edge
+|-
+| kata || on the side
+|-
+| (i)wac || outside
+|-
+| ha || in water
+|-
+| ka || in a topless enclosure
+|-
+| ka: || in a completely enclosed space
+|-
+| kataska ||in an open area
+|-
+| Ɂir || in a direction
+|-
+| kataskeɁer || through the yard
+|-
+| kataskeɁero:c || out the other way from the yard
+|}
+<ref>http://www.colorado.edu/linguistics/faculty/rood-old/Wichita/SketchofWichita.pdf</ref>
+
+===Case===
+<ref name="Rood, David S. 1976"/>
+In the Wichita language, there are only case markings for obliques. Here are some examples:
+
+====Instrumental case====
+* The suffix Rá:hir, added to the base
+* Another means of expressing instrument, used only for body parts, is a characteristic position of incorporation in the verb complex
+** '''ha:rhiwi:cá:hir'''     'using a bowl' (ha:rhiwi:c 'bowl')
+** '''ika:rá:hir'''          'with a rock' (ika:Ɂa 'rock')
+
+====Locative case====
+Most nouns take a locative suffix kiyah:
+{{interlinear|lang=wic|indent=3
+|top= ika:kíyah
+|ika:Ɂa -kiyah
+|rock LOC
+|'where the rock is'}}
+
+But a few take the verbal {{transl|wic|italic=no|-hirih}}:
+{{interlinear|lang=wic|indent=3
+|top= hánnhirh
+|hir-ahrɁa -hirih
+|ground LOC
+|'on the ground'}}
+
+Any verbal participle (i.e. any sentence) can be converted to a locative clause by the suffix {{transl|wic|italic=no|-hirih}}
+* '''{{transl|wic|italic=no|tihe:ha}}'''     'it is a creek'
+* '''{{transl|wic|italic=no|nahe:hárih}}'''  'where the creek is'
+
+===Predicates and arguments===
+Wichita is a polysynthetic language. Almost all the information in any simple sentence is expressed by means of bound morphemes in the verb complex. The only exception to this are (1) noun stems, specifically those functioning as agents of transitive verbs but sometimes those in other functions as well, and (2) specific modifying particles. A typical sentence from a story is the following:<ref>[http://www.colorado.edu/linguistics/faculty/rood-old/Wichita/SketchofWichita.pdf]</ref>
+
+'''wá:cɁarɁa kiya:kíriwa:cɁárasarikìtàɁahí:rikss niya:hkʷírih'''
+
+''wa:cɁarɁa'' 'squirrel'
+
+''kiya'' 'quotative' + ''a...ki'' 'aorist' + ''a'' 'preverb' + ''Riwa:c'' 'big (quantity) + ''Ɂaras'' 'meat' + ''Ra'' 'collective' + ''ri'' 'portative' + ''kita'' 'top' + ''Ɂa'' 'come' + ''hi:riks'' 'repetitive' + ''s'' 'imperfective'
+
+na 'participle' + ya:k 'wood' + r 'collective' + wi 'be upright' + hrih 'locative'
+
+''''The squirrel, by making many trips, carried the large quantity of meat up into the top of the tree, they say.''''
+
+Note that ''squirrel'' is the agent and occurs by itself with no morphemes indicating number or anything else. The verb, in addition to the verbal units of quotative, aorist, repetitive, and imperfective, also contain morphemes that indicate the agent is singular, the patient is collective, the direction of the action is to the top, and all the lexical information about the whole patient noun phrase, "big quantity of meat."
+
+==Gender==
+In the Wichita language, there is no gender distinction (WALS).
+
+==Person and possession==
+{| class="wikitable"
+|-
+!
+! Subjective
+! Objective
+|-
+| 1st person
+| -t-
+| -ki-
+|-
+| 2nd person
+| -s-
+| -a:-
+|-
+| 3rd person
+| -i-
+| Ø
+|-
+| inclusive
+| -ciy-
+| -ca:ki-
+|}
+
+The verb 'have, possess' in Wichita is /uR ... Ɂi/, a combination of the preverb 'possessive' and the root 'be'. Possession of a noun can be expressed by incorporating that noun in this verb and indicating the person of the possessor by the subject pronoun:<ref>Rood, David S. "Agent and object in Wichita." ''Lingua'' 28 (1971-1972): 100. Web. 14 Feb. 2014</ref><ref name="ReferenceA">Rood, David S. "Sketch of Wichita, a Caddoan Language"</ref>
+
+{{interlinear|indent=3
+|top= natí:ɁakɁih
+|na- t- uR- Ɂak- Ɂi- h
+|PTCP 1.SBJ POSS wife be SUBORD
+|'my wife'}}
+
+{{interlinear|indent=3
+|top= niye:s natí:kih
+|niye:s na- t- uR- Ɂiki- h
+|child PTCP 1.SBJ- POSS be.PL SUBORD
+|'my children'}}
+
+==Number marking==
+Nouns can be divided into those that are countable and those that are not. In general, this correlates with the possibility for plural marking: Countable nouns can be marked for dual or plural; if not so marked, they are assumed to be singular. Uncountable nouns cannot be pluralized.
+
+Those incountable nouns that are also liquids are marked as such by a special morpheme, ''kir''.
+
+{{interlinear|indent=3
+|top= ta:tí:sa:skinnaɁas
+|ta i a: ti:sa:s  kir ri Ɂa s
+|IND 3.SBJ PVB medicine liquid PORT come IPFV
+|'He is bringing (liquid) medicine'}}
+
+Those incountable nouns that are not liquid are not otherwise marked in Wichita. This feature is labeled dry mass. Forms such as ''ye:c'' 'fire', ''kirɁi:c'' 'bread', and ''ka:hi:c'' 'salt' are included in this category.
+
+{{interlinear|indent=3
+|top= tà:yè:csàɁas
+|ta i a: ya:c ri Ɂa s
+|IND 3.SBJ PVB fire PORT come IPFV
+|'He is bringing fire.'}}
+
+{{interlinear|indent=3
+|top= ta:ká:hi:csaɁas
+|ta i a: ka:hi:c ri Ɂa s
+|IND 3.SBJ PVB salt PORT come IPFV
+|'He is bringing salt.'}}
+
+Wichita countable nouns are divided into those that are collective and those that are not. The collective category includes most materials, such as wood; anything that normally comes in pieces, such as meat, corn, or flour; and any containers such as pots, bowls, or sacks when they are filled with pieces of something.
+
+{{interlinear|indent=3
+|top= ta:rássaraɁas
+|ta i a: aɁas ra ri Ɂa s
+|IND 3.SBJ PVB meat COL PORT come IPFV
+|'He is bringing meat.'}}
+
+{{interlinear|indent=3
+|top= ta:rássaɁas
+|ta i a: aɁas ri Ɂa s
+|IND 3.SBJ PVB meat PORT come IPFV
+|'He is bringing (one piece of) meat.'}}
+
+Some of the noncollective nominals are also marked for other selectional restrictions. In particular, with some verbs, animate nouns (including first and second person pronouns) require special treatment when they are patients in the sentence. Whenever there is an animate patient or object of certain verbs such as ''u...raɁa'' 'bring' or ''irasi'' 'find', the morpheme |hiɁri|(/hirɁ/, /hiɁr/, /hirɁi/) also occurs with the verb. The use of this morpheme is not predictable by rule and must be specified for each verb in the language that requires it.
+
+{{interlinear|indent=3
+|top= tí:rass
+|ta i irasi s
+|IND 3.SBJ find IPFV
+|'He found it (inanimate).'}}
+
+{{interlinear|indent=3
+|top= tihirɁí:rass
+|ta i hirɁi irasi s
+|IND 3.SBJ {patient is animate} find IPFV
+|'He found it (animate).'}}
+
+Like ''hiɁri'' 'patient is animate', the morpheme ''wakhahr'', means 'patient is an activity'.
+
+Countable nouns that are neither animate nor activities, such as chairs, apples, rocks, or body parts, do not require any semantic class agreement morphemes in the surface grammar of Wichita.
+
+The morpheme |ra:k| marks any or all non-third persons in the sentence as plural.
+
+The morpheme for 'collective' or 'patient is not singular'. The shape of this varies from verb to verb, but the collective is usually |ru|, |ra|, or |r|.
+
+The noncollective plural is usually |Ɂak|. Instead of a morpheme here, some roots change form to mark plural. Examples include:
+{| class="wikitable"
+|-
+! Word
+! Singular
+! Plural
+|-
+| cook
+| Ɂarasi
+| wa:rasɁi:rɁ
+|-
+| eat
+| kaɁac
+| Ɂa
+|-
+| kill
+| ki
+| Ɂessa
+|}
+
+A surface structure object in the non-third-person category can be clearly marked as singular, dual, or plural. The morpheme ''ra:k'' marks plurality; a combination oh ''hi'' and ''Ɂak'' marks dual. Singular is marked by zero.
+
+If both agent and patient are third person, a few intransitive verbs permit the same distinctions for patients as are possible for non-third objects: singular, dual, and plural. These verbs (such as 'come' and 'sit') allow the morpheme ''wa'' to mark 'dual patient'. In all other cases the morphemes ''ru'', ''ra'', ''r'', or ''Ɂak'' means 'patient is plural'.
+* |hi| subject is nonsingular
+* |Ɂak| third person patient is nonsingular
+* |ra:k| non-third-person is plural. If both the subject and object are non-third person, reference is to the object only.
+* |hi ... Ɂak| non-third-person is dual
+* |ra:kɁak| combine meanings of ''ra:k'' and ''Ɂak''
+* zero singular
+<ref name="ReferenceA"/>
+
+==Endangerment==
+According to the Ethnologue Languages of the World website, the Wichita language is "dormant", meaning that no one has more than symbolic proficiency.<ref name="Ethnologue">{{cite web |title=Wichita |url=https://www.ethnologue.com/language/WIC |website=Ethnologue |access-date=29 January 2020 |language=en}}</ref> The last native speaker of the Wichita language, Doris Jean Lamar McLemore, died in 2016. The reason for the language's decline is because the speakers of the Wichita language switched to speaking English. Thus, children were not being taught Wichita and only the elders knew the language. "Extensive efforts to document and preserve the language" are in effect through the Wichita Documentation Project.
+
+==Revitalization efforts==
+The Wichita and Affiliated Tribes offered language classes, taught by Doris McLemore and Shirley Davilla.<ref name=wt/> The tribe created an immersion class for children and a class for adults. Linguist David Rood has collaborated with Wichita speakers to create a dictionary and language CDs.<ref>Ruckman, S. E. [http://www.tulsaworld.com/news/article.aspx?articleID=071126_1_A1_ahref16518 "Tribal language fading away."] ''Tulsa World.'' 26 Nov 2007 (retrieved 3 Oct 2009)</ref> The tribe is collaborating with Rood of the [[University of Colorado, Boulder]] to document and teach the language through the Wichita Documentation Project.<ref name=ucb/>
+
+==Notes==
+{{reflist}}
+
+==References==
+* Rood, David S. ''Wichita grammar''. New York: Garland, 1976. {{ISBN|978-0-8240-1972-3}}.
+* Garvin, Paul L., "Wichita I: Phonemics. International Journal of American Linguistics, 16, 179-184.
+* Rood, David S. "The Implications of Wichita Phonology." Language, 51, 315–337.
+* Rood, David S. "Some Wichita Recollections: Aspects of Culture Reflected in Language."Plains Anthropologist, 53, 395-405.
+* Taylor, Allan R., "Comparative Caddoan." International Journal of American Linguistics, 29, 113–131.
+
+==Further reading==
+* Garvin, Paul. (1950). Wichita I: Phonemics. ''International Journal of American Linguistics'', ''16'', 179–184.
+* Marcy. (1853). (pp.&nbsp;307–308).
+* Rood, David S. (1971). Agent and object in Wichita. ''[[Lingua (journal)|Lingua]]'', ''28'', 100–107.
+* Rood, David S. (1971). Wichita: An unusual phonology system. ''Colorado Research in Linguistiscs'', ''1'', R1-R24. (?)
+* Rood, David S. (1973). Aspects of [[subordination (linguistics)|subordination]] in Lakhota and Wichita. CLSs, 71–88.
+* Rood, David S. (1975). Implications of Wichita phonology. ''Language'', ''51'', 315–337.
+* Rood, David S. (1975). Wichita verb structure: Inflectional categories. In Crawford (Ed.), (pp.&nbsp;121–134).
+* Rood, David S. (1976). ''Wichita grammar''. New York: Garland.
+* Rood, David S. (1977). Wichita texts. ''International Journal of American Linguistics''-NATS 2.1, 91–128.
+* Rood, David S. (1996). Sketch of Wichita, a Caddoan language. In ''[[Handbook of North American Indians]]'' (Vol. 17, pp.&nbsp;580–608).
+* Rood, David S. (1998). 'To be' in Wichita. In Hinton & Munro (Eds.), (pp.&nbsp;190–196).
+* Schmitt. (1950).
+* Schmitt, Karl; & Schmitt, Iva Osanai. (1952). ''Wichita kinship past and present''. Norman, OK: U. Book Exchange.
+* Schoolcraft, Henry. (1851–1857). ''Historical and statistical information respecting the history, condition, and prospects of the Indian tribes of the US''. Philadelphia: Lippincott, Grambo.
+* Schoolcraft, Henry. (1953). (pp.&nbsp;709–711).
+* Spier, Leslie. (1924). Wichita and Caddo relationship terms. ''American Anthropologist'', ''26'', 258–263.
+* Vincent, Nigel. (1978). A note on natural classes and the Wichita consonant system. ''International Journal of American Linguistics'', ''44'', 230–232.
+* Whipple. (1856). ''Reports of explorations and surveys to ascertain the most practicable and economic route for a railroad from the Mississippi River to the Pacific Ocean'' (pp.&nbsp;65–68). Washington: War Department. Information on the [[Waco people|Waco]] dialect].
+
+==External links==
+* [https://web.archive.org/web/20111116085917/https://www.colorado.edu/linguistics/faculty/rood-old/Wichita/SketchofWichita.pdf Sketch of Wichita, a Caddoan language]
+* [https://web.archive.org/web/20100702224745/http://www.wichitatribe.com/language_class.htm Wichita and Affiliated Tribes Language Class], with sample vocabulary
+* [http://www.colorado.edu/linguistics/faculty/rood-old/Wichita/ Wichita Language Documentation Project]
+* [http://www.native-languages.org/wichita.htm Wichita Indian Language (Witchita)]
+* [http://www.tulsaworld.com/webextra/content/2007/slideshows/wichitaspeaker/index.html Slideshow of Doris Jean Lamar McLemore telling the Wichita creation story in Wichita]
+* [https://web.archive.org/web/20060329165243/http://texashistory.unt.edu/permalink/meta-pth-6105 ''Exploration of the Red River of Louisiana, in the year 1852 / by Randolph B. Marcy ; assisted by George B. McClellan.''] hosted by the [http://texashistory.unt.edu/ Portal to Texas History.] See [http://texashistory.unt.edu/widgets/pager.php?object_id=meta-pth-6105&recno=289&path=/data/UNT/Books/meta-pth-6105.tkl Appendix H], which compares the English, Comanche, and Wichita languages.
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+PVB:preverb
+PORT:portative (changes motion verb to carry verb)}}
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Caddoan languages}}
+{{Languages of Oklahoma}}
+{{Native American Tribes in Texas}}
+{{authority control}}
+
+{{DEFAULTSORT:Wichita Language}}
+[[Category:Caddoan languages]]
+[[Category:Indigenous languages of the North American Plains]]
+[[Category:Endangered Caddoan languages]]
+[[Category:Wichita tribe| ]]
+[[Category:Indigenous languages of Oklahoma]]
+[[Category:Indigenous languages of Texas]]
+[[Category:Endangered indigenous languages of the Americas]]
+[[Category:Languages extinct in the 2010s]]
+[[Category:Vertical vowel systems]]

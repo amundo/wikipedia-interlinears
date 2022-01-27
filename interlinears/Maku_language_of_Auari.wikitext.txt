@@ -1,0 +1,592 @@
+{{Short description|Extinct language of South America}}
+{{redirect|Máku language}}
+{{Infobox language
+|name=Máku
+|altname=Maku-Auari
+|nativename=Jukude
+|states=[[Roraima]], Brazil
+|region=Brazilian–Venezuelan border
+|ethnicity=Jukudeitse
+|extinct=2000
+|ref=<ref name=Rogers/>
+|familycolor=American
+|family= (unclassified, potentially [[Kalianan]], [[Macro-Puinavean]] or [[language isolate]])
+|iso3=xak
+|glotto=maku1246
+|glottorefname=Máku
+|notice=IPA
+}}
+
+'''Máku''' {{IPA|['mako]}}{{R|Rogers}}, also spelled ''Mako'' (Spanish ''Macú''),<ref name=Rogers>{{Cite book |last=Rogers |first=Chris |title=Máku: A Comprehensive Grammar |publisher=Taylor & Francis |year=2020}}</ref> and in the language itself '''Jukude''', is an [[unclassified language]] and likely [[language isolate]] once spoken on the [[Brazil]]–[[Venezuela]] border in [[Roraima]] along the upper [[Uraricoera River|Uraricoera]] and lower [[Auari River|Auari]] rivers, west of [[Boa Vista, Roraima|Boa Vista]], by the ''Jukudeitse''. 300 years ago, the Jukude territory was between the [[Padamo River|Padamo]] and [[Cunucunuma River|Cunucunuma]] rivers to the southwest.
+
+The last speaker, Sinfrônio, died in 2000. There are currently no speakers or rememberers of Máku and no-one identifies as Jukude any longer. [[Aryon Rodrigues]] and Ernesto Migliazza, as well as Iraguacema Lima Maciel, worked on the language, and the data was collected into a grammar by Chris Rogers published in 2020.<ref name=Rogers/>
+
+==Name==
+The people called themselves ''jukude-itse'' {{IPA|[zokudeitse]}}{{R|Rogers|p=3}} (person-PL) 'people'. When speaking to outsiders, they referred to themselves as {{IPA|[ˈmaku]}} or {{IPA|[ˈmako]}}. ''Maku'' ~ ''Mako'' (in Spanish orthography ''Macu'' or ''Maco'') is an Arawakan term for unintelligible languages and people held in servitude in the Orinoco region. (See [[Maku people (disambiguation)|Maku people]] for a partial list.) While the stress of the word in other languages called 'Maku' may be on either the first or final syllable, as ''Máku''/''Mácu'' or ''Makú''/''Macú'' (Migliazza, Fabré), the word was pronounced with initial stress by the ''jukudeitse'' and so the name is often written with stress on the first syllable: ''Máku'' (Dixon & Aikhenvald (1999), Maciel (1991), and Rogers (2020)) or ''Máko'' (Campbell 2012),<ref name="Campbell-SAmerica">{{cite book |last=Campbell |first=Lyle |author-link=Lyle Campbell |editor1-last=Grondona |editor1-first=Verónica |editor2-last=Campbell |editor2-first=Lyle |date=2012 |title=The Indigenous Languages of South America |chapter=Classification of the indigenous languages of South America |series=The World of Linguistics |volume=2 |location=Berlin |publisher=De Gruyter Mouton |pages=59–166 |isbn=9783110255133}}</ref> though also ''Makú'' or simply ''Maku'' (Migliazza). The disambiguator ''Maku-Auari'' has also been used.<ref>{{Cite journal |last=Hammarström |first=Harald |date=2011 |title=A Note on the Maco [wpc] (Piaroan) Language of the Lower Ventuari, Venezuela |url=http://www.etnolinguistica.org/issue:vol3n1 |journal=Cadernos de Etnolingüística |volume=3 |issue=1}}</ref>
+
+==Genetic relations==
+Suggested genetic relations involving Máku include:
+
+* with [[Arawakan]]
+* with [[Warao language|Warao]]
+* within a [[Kalianan]] grouping with [[Arutani–Sape languages|Arutani–Sape]] (a.k.a. Makú)
+* within a [[Macro-Puinavean]] grouping with [[Nadahup languages|Nadahup]] (a.k.a. Makú), [[Katukinan languages|Katukinan]], and [[Arutani–Sape]]
+
+Kaufman (1990) finds the Kalianan proposal "promising", though he is now dated.
+
+==Language contact==
+Jolkesky (2016) notes that there are lexical similarities with the [[Sape language|Sape]], [[Arutani language|Arutani]], and [[Warao language|Warao]] languages, as well as the [[Saliba-Hodi languages|Saliba-Hodi]], [[Tikuna-Yuri languages|Tikuna-Yuri]], [[Katukina-Katawixi languages|Katukina-Katawixi]], and [[Arawa languages|Arawa]] language families due to contact.<ref name="Jolkesky-2016">{{Cite thesis |last=Jolkesky |first=Marcelo Pinho de Valhery |title=Estudo arqueo-ecolinguístico das terras tropicais sul-americanas |date=2017 |publisher=University of Brasília |url=http://www.etnolinguistica.org/tese:jolkesky-2016-arqueoecolinguistica |language=pt |orig-date=original version 2016 |trans-title=Archeo-ecolinguistic study of South American tropical lands |type=Ph.D. dissertation |location=Brasília |edition=2}}</ref>
+
+==Phonology==
+The Máku syllable structure is (C)(C)V(V)(C).{{R|Rogers|p=36}}
+
+{| class="wikitable IPA" style="text-align:center"
+|+Consonants{{R|Rogers|p=17-18}}
+! colspan="2" |
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan="2" |[[Plosive|Stop]]
+![[Voice (phonetics)|<small>voiceless</small>]]
+|{{IPA link|p}}
+|{{IPA link|t}}
+|
+|{{IPA link|k}}
+|{{IPA link|ʔ}}
+|-
+![[Voice (phonetics)|<small>voiced</small>]]
+|{{IPA link|b}}
+|{{IPA link|d}}
+|
+|
+|
+|-
+! colspan="2" |[[Affricate]]
+|
+|{{IPA link|t͡s}}
+|
+|
+|
+|-
+! colspan="2" |[[Fricative]]
+|{{IPA link|ɸ}}
+|{{IPA link|s}}
+|
+|
+|{{IPA link|h}}
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|
+|
+|
+|-
+! colspan="2" |[[Approximant]]
+|{{IPA link|w}}
+|{{IPA link|l}}
+|{{IPA link|j}}
+|
+|
+|}
+
+/k/ is voiced to {{IPAblink|g}} intervocalically and can occasionally be realized as [g] in other environments too.
+
+/j/ is sometimes realized as {{IPAblink|ʑ}} word-initially before /a u/ or word-medially, as in /jukude/ [ʑokude̞] 'person'. It can occasionally be fronted to {{IPAblink|ð}} or {{IPAblink|z}}.
+
+Nasals assimilate to the place of articulation of the stop they precede.
+
+/w/ is realized as {{IPAblink|ʋ}} before /i e/. It is realized as [ʋ] or {{IPAblink|ɥ}} before /y/ (a sequence which only occurs in the word /lymywy/ 'take'). Rogers (2020) does not state that /w/ is realized as [ʋ] before /ɨ/, but provides the example /wɨtsɨ/ [ʋɨtsɨ] 'mouth'.
+
+/d/ is realized as laminal before [u] – in some words this is in free variation with [d].
+
+/s, ts, n, k/ are palatalized to [ʃ, tʃ, ɲ, c] before /i, y/, while /t, d, l/ become [tʲ, dʲ, lʲ].{{R|Rogers|p=20-26}}
+
+{| class="wikitable IPA" style="text-align:center"
+|+Vowels{{R|Rogers|p=28}}
+! rowspan="2" |
+! colspan="2" | [[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+! [[Unrounded vowel|{{small|unrounded}}]] || [[Rounded vowel|{{small|rounded}}]]
+! [[Unrounded vowel|{{small|unrounded}}]] || [[Rounded vowel|{{small|rounded}}]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}}
+| {{IPA link|y}}
+| {{IPA link|ɨ}}
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+|
+|
+| ({{IPA link|o}})
+|-
+! [[Low vowel|Low]]
+|
+|
+| {{IPA link|a}}
+|
+|}
+
+Although there exist minimal pairs between /o/ and /u/, some words show free variation between /u/ and /o/, and [o] is an allophone of /u/ in some environments. Rogers (2020) hypothesizes that these patterns are a result of a diachronic sound change in progress and that /o u/ do not represent separate phonemes synchronically. 
+
+Apart from the sequences [eo], [au~ao] and [ia], as well as /ai oi/ [aj oj] within a word stem, vowel-vowel sequences are resolved by deleting the first vowel of the sequence, e.g. /teana/ [tana] 'I smell (it)'. The first vowel in a stem may also be deleted in fast speech.
+
+/a/ and /e/ are realized as {{IPAblink|ə}} when unstressed. 
+
+High and mid vowels are lowered word-finally.
+
+Vowels are nasalized following a nasal consonant, /ʔ/ or /h/.{{R|Rogers|p=32-35}}
+
+==Grammar==
+Máku nouns and verbs inflect for person - either the person of the possessor, on nouns, expressed by a prefix, or of the subject and object, on verbs, which may be prefixes, [[infix|infixes]] or suffixes, depending on the verb. There are also suffixes which express plurality of a possessor or subject. The language marks [[clusivity]] by distinguishing first person singular from first + second person (inclusive), first + third person (exclusive) and first + second + third person ('unified'). Nouns also inflect for number and case via suffixes. Verbs also inflect for [[Grammatical tense|tense]], [[Grammatical aspect|aspect]], [[Grammatical mood|mood]], [[evidentiality]] and [[Affirmation and negation|negation]] via suffixes.
+
+Noun phrases exhibit the word order possessor possessor-possessed, or noun-modifier. [[Demonstrative|Demonstratives]] and numerals typically occur before the nouns they modify. There are [[Postposition|postpositions]] which follow nouns.
+
+Intransitive clause word order is typically subject-verb, and transitive clause word order is most commonly [[Subject-object-verb|SOV]]. Indirect objects are typically placed after the verb. Phrases which represent new, [[Focus (linguistics)|focused]] referents may be fronted to the start of a clause or sentence. Any phrase in focus, both nominal and verbal, can take the focus [[enclitic]] ''=ke''.
+
+Máku has motion-complement [[Serial verb construction|serial verb constructions]], with subject-verbal complement-motion verb order.
+
+[[Coordination (linguistics)|Coordination]] is accomplished via [[juxtaposition]], at the phrase and clause levels.{{R|Rogers|p=98-127}}
+
+===Nouns===
+Máku nouns decline for number, case and possession. Possession is expressed by a prefix, with certain nonsingular possessors adding a separate suffix. Nonsingular number and case are expressed as suffixes. The Máku noun template is {{Smallcaps|poss}}-stem-{{Smallcaps|poss}}.{{Smallcaps|nsg}}-{{Smallcaps|nsg}}-case, as demonstrated by the following examples.{{R|Rogers|p=41-47}}
+
+{{interlinear|number=(1)
+| ene e- tsimala Ø- uba -nuʔu -itse
+| 2 2- arrow 3SG- tree -SAP.PL -NOM.PL
+| 'your [pl.] bows'}}
+
+{{interlinear|number=(2)
+| uʔsi -itse -daj
+| other -PL -COM.PL
+| 'with others'}}
+
+====Possession====
+The following sample paradigms illustrate the possessive morphemes – note the three-way [[clusivity]] distinction, differentiating both 1+2 (inclusive) and 1+3 (exclusive) as well as the case where the speaker, listener and other(s) are included (1+2+3), which Rogers (2020) refers to as 'unified'. The alienable and [[Inalienable_possession|inalienable]] possessive paradigms only differ in the expression of the {{Smallcaps|3sg}} morpheme. The 1st person inclusive and 3rd person nonsingular forms are formally identical.
+
+{| class="wikitable" style="text-align:center"
+|-
+! Possessor
+! 'house' (alienable)
+! 'mouth' (inalienable)
+|-
+!1{{Smallcaps|sg}}
+| ''te-mine''
+| ''te-wɨtsi''
+|-
+!1+2
+| ''tse-mine''
+| ''tse-wɨtsi''
+|-
+! 1+2+3
+| ''tse-mine-nuʔu''
+| ''tse-wɨtsi-nuʔu''
+|-
+! 1+3
+| ''teke-mine''
+| ''teke-wɨtsi''
+|-
+! 2{{Smallcaps|sg}}
+| ''e-mine''
+| ''e-wɨtsi''
+|-
+! 2{{Smallcaps|nsg}}
+| ''e-mine''
+| ''e-wɨtsi(-nuʔu)''
+|-
+! 3{{Smallcaps|sg}}
+| ''e-mine''
+| ''Ø-watsi''
+|-
+! 3{{Smallcaps|nsg}}
+| ''tse-mine''
+| ''tse-wɨtsi''
+|}
+
+The stem change on 'mouth' in the non-3{{Smallcaps|sg}} possessed forms is one example of an inalienably possessed noun exhibiting a suppletive stem with overt possessive prefixes, of which there are others in Máku.
+
+Note also the following, as an example of an alienably possessed noun with ''-nuʔu'' in the 2{{Smallcaps|nsg}} possessed form.{{R|Rogers|p=45-47}}
+
+{{interlinear|number=(3)
+| e- meʔkasa -nuʔu
+| 2 fish PL
+| 'your [nsg.] fish'}}
+
+====Number====
+Number is marked by a nonsingular suffix ''-itse'', which does not depend on animacy. This suffix is not realized for semantically plural referents when the noun is treated as a [[Collective noun|collective]] group, or if the noun is modified by a numeral or quantifier.{{R|Rogers|p=42}}
+
+====Case====
+There are nine attested case suffixes in Máku:{{R|Rogers|p=42-43}}
+
+{| class="wikitable"
+|-
+! Case
+! Suffix
+! Example
+|-
+! [[Comitative case|Comitative]] singular
+| ''-siky''
+| {{interlinear|Ø-eneʔmu-'''siky''' Ø-lukia|3SG-brother-'''COM.SG''' 3SG.SUBJ-be.old|'with his older brother'}}
+|-
+! [[Comitative case|Comitative]] plural
+| ''-daj''
+| {{interlinear|uʔsi-itse-'''daj'''|other-PL-'''COM.PL'''|'with others'}}
+|-
+! [[Dative case|Dative]], [[Allative case|allative]]
+| ''-le''
+| {{interlinear|adiata-'''le'''|place.below-'''LAT'''|'downwards'}}
+|-
+! [[Terminative case|Terminative]]
+| ''-ky''
+| {{interlinear|waʔpite-'''ky'''|sky-'''TERM'''|'up to the sky'}}
+|-
+! [[Ablative case|Ablative]]
+| ''-leʔni''
+| {{interlinear|waʔpite-'''leʔni'''|sky-'''ABL'''|'from the sky'}}
+|-
+! [[Elative case|Elative]], [[Prolative case|prolative]]
+| ''-waʔni''
+| {{interlinear|na-'''waʔni'''|water-'''ELA'''|'on the water'}}
+|-
+! [[Locative case|Locative]], [[Instrumental case|instrumental]]
+| ''-ʔsa''
+| {{interlinear|waʔpite-'''ʔsa'''|sky-'''LOC'''|'in the sky'}}
+|-
+! [[Inessive case|Inessive]]
+| ''-wa''
+| {{interlinear|tse-watsi-'''wa'''|1+2-mouth-'''INE'''|'in our [incl.] mouth'}}
+|-
+! [[Temporal case|Temporal]]
+| ''-de''
+| {{interlinear|desembru-'''de'''|December-'''TEMP'''|'in December'}}
+|}
+
+===Pronouns===
+Máku pronouns mark person, number and clusivity.
+
+{|class="wikitable" style="text-align:center"
+|+ [[Personal pronouns]]
+!rowspan="1" colspan="1"|[[Grammatical person|Person]] !!colspan="1"| Singular !!colspan="1"| [[Dual (grammatical number)|Dual]] !!colspan="1"| [[Plural]] 
+|-
+!1
+|''tene'' ||colspan="2"|–
+|-
+!1+2
+|– || ''tsene'' || ''tsenenuʔu''
+|-
+!1+3
+|– || ''tekene'' || ''tekenenuʔu''
+|-
+!1+2+3
+|colspan="2"|–  || ''tenenuʔu''
+|-
+!2
+|''ene'' || colspan="2"|''enenuʔu''
+|-
+!3
+| ''oje'' || colspan="2" | ''ojtse''
+|}
+
+There are at least two demonstrative pronouns ''ki'' 'this' and ''(a)kwa'' 'that' - these can take the locative, lative and inessive cases to form demonstrative adverbs.{{R|Rogers|p=50-53}}
+
+===Quantifiers===
+Numerals may take the classifiers ''-sy'' 'period of time' and ''-ʔnte'' 'body part', but these appear to be optional.
+
+{{interlinear|number=(4)
+| nukuja -sy keʔl-ia
+| one -CLF:time sun-moon
+| 'one day'}}
+
+The numerals one to four and ''peʔtaka'' 'all' are attested to agree in person with nouns they modify if the person is 1{{Smallcaps|sg}}, 1{{Smallcaps|exc}} or 2{{Smallcaps|sg}}.{{R|Rogers|p=59-61}}
+
+{{interlinear|number=(5)
+| tekene teke- synialʔa te- luke -na
+| 1+3 1+3- three 1- tall HAB
+| 'We [excl.] three are tall.'}}
+
+===Verbs===
+Máku verbs inflect for subject and direct object as well as [[Grammatical tense|tense]], [[Grammatical aspect|aspect]], [[Grammatical mood|mood]], [[evidentiality]] and [[Affirmation and negation|negation]]. Subject agreement can be marked via prefixes, [[Infix|infixes]] or suffixes, depending on the verb in question, and plural subjects add a suffix. Tense, aspect, mood, evidentiality and negation are expressed through suffixes. Object agreement precedes subject agreement, but is not well known due to lack of data. The relative ordering of the TAME morphemes is also not well known due to lack of documentation, although tense and aspect suffixes are mutually exclusive.{{R|Rogers|p=65,71,80}}
+
+====Subject agreement====
+{| class="wikitable" style="text-align:center"
+|+ Subject agreement{{R|Rogers|p=66-67}}
+! rowspan="2" |Subject
+! rowspan="2" |Form
+! colspan="5" |Examples
+|-
+! ''leme'' 'be red'
+! ''inene'' 'be afraid'
+! ''kaj'' 'stand (transitive)'
+! ''kuntsi'' 'wash'
+! ''ku'' 'see'
+|-
+!1{{Smallcaps|sg}}
+| ''te''
+| ''te-leme''
+| ''i<te>nene''
+| ''te-kaj''
+| ''ku<te>tsi''
+| ''ku-te''
+|-
+!1+2{{Smallcaps|du}}
+| ''tse''
+| ''tse-leme''
+| –
+| –
+| ku<tsi>tsi
+| –
+|-
+!1+2{{Smallcaps|pl}}
+| ''tse-nuʔu''
+| ''tse-leme-nuʔu''
+| ''i<tse>nene-nuʔu''
+| ''tse-kaj-nuʔu''
+| –
+| ''ku-tse-nuʔu''
+|-
+! 1+3
+| ''teke''
+| ''teke-leme''
+| ''i<teke>nene''
+| ''teke-kaj''
+| ''ku<teki>tsi''
+| ''ku-teke''
+|-
+! 1+2+3
+| ''te-nuʔu''
+| –
+| ''i<te>nene-nuʔu''
+| ''te-kaj-nuʔu''
+| ''ku<te>tsi-nu''
+| –
+|-
+! 2{{Smallcaps|sg}}
+| ''ke''
+| ''e-leme''
+| ''i<ke>nene''
+| ''ke-kaj''
+| –
+| ''ku-seke''
+|-
+! 2{{Smallcaps|nsg}}
+| ''ke-nuʔu''
+| ''e-leme-nuʔu''
+| ''i<ke>nene-nuʔu''
+| ''ke-kaj-nuʔu''
+| –
+| –
+|-
+! 3{{Smallcaps|sg}}
+| ''Ø''
+| ''Ø-leme''
+| ''i<Ø>nene''
+| ''Ø-kaj''
+| ''kun<Ø>tsi''
+| ''ku-seke''
+|-
+! 3{{Smallcaps|nsg}}
+| ''tse(-pu)''
+| ''tse-leme-pu''
+| ''i<tse>nene''
+| ''tse-kaj-pu''
+| ''ku<tsi>tsi''
+| ''kula-Ø''
+|}
+
+The ''-pu'' in the 3{{Smallcaps|pl}} subject marker is optional and indicates collectivity of an action.{{R|Rogers|p=66}}
+
+====Tense====
+There are five tense morphemes in Máku: distant past, recent past, present, near future, and distant future. While the tense boundaries are relative and not absolute, distant past is used just for mythological stories, and generally the distant future refers to events after the current day while the near future refers to events later in the day.{{R|Rogers|p=71-74}}
+
+{| class="wikitable" style="text-align:center"
+|+ Tense suffixes
+! Tense
+! Suffix
+|-
+! Distant past
+| ''-mutsa''
+|-
+! Near past
+| ''-nka''
+|-
+! Present
+| ''-Ø''
+|-
+! Near future
+| ''-ba''
+|-
+! Distant future
+| ''-diba''
+|}
+
+====Aspect====
+
+Máku has six aspect morphemes.
+
+{| class="wikitable" style="text-align:center"
+|+ Aspect suffixes
+! Aspect
+! Suffix
+|-
+! Permanent
+| ''-na''
+|-
+! Temporary
+| ''-sia''
+|-
+! [[Imperfective]]
+| ''-dbena''
+|-
+! [[Perfective]]
+| ''-dia''
+|-
+! Permanent [[progressive aspect|progressive]]
+| ''-dkina''
+|-
+! Temporary [[progressive aspect|progressive]]
+| ''-dkisia''
+|}
+
+The permanent aspect suffix ''-na'' is used only with stative verbs and marks permanent and inherent properties.
+
+The temporary aspect suffix ''-sia'' indicates temporary properties when used with stative verbs, and unfinished action with active verbs.
+
+The progressive aspect suffixes are present tense in meaning.{{R|Rogers|p=74-76}}
+
+====Mood====
+
+{| class="wikitable" style="text-align:center"
+|+ Mood suffixes
+! Mood
+! Suffix
+|-
+! [[Indicative mood|Indicative]]
+| ''-Ø''
+|-
+! [[Imperative mood|Imperative]]
+| ''-kɨ(se)''
+|-
+! [[Hortative]]
+| ''-kada''
+|-
+! [[Conditional mood|Conditional]]
+| ''-wake''
+|-
+! Purposive
+| ''-bana''
+|-
+|}
+
+Verbs marked for the imperative do not have an explicit subject marker. However the hortative does agree with subject.
+
+The conditional mood only occurs in multiclause constructions. However, the purposive can occur both in multiclause and monoclausal sentences, as shown in the below examples.{{R|Rogers|p=76-77}}
+
+{{interlinear|number=(6)
+| oja-ke Ø-ja-dia Ø-we-bana
+| 3-FOC 3-lay.down-PFV 3-sleep-PURP
+| 'He lays down to sleep.'}}
+
+{{interlinear|number=(7)
+| te- we -bana
+| 1SG- sleep -PURP
+| 'I will sleep.'}}
+
+====Evidentiality====
+
+{| class="wikitable" style="text-align:center"
+|+ Evidentiality suffixes
+! Evidentiality
+! Suffix
+|-
+! Firsthand
+| ''-tsa''
+|-
+! Non-firsthand
+| ''-nia''
+|}
+
+The evidentiality suffixes are only used with past tense and are not obligatory.{{R|Rogers|p=78-80}}
+
+====Negation====
+
+Negation is signified by ''-ʔV'', where the value of the vowel is the vowel before the suffix, unless followed by ''-bala'', in which case it is /a/.{{R|Rogers|p=80-83}}
+
+Transitive active verbs can optionally take the additional negative suffix ''-bala'' following ''-ʔV''.
+
+''-ʔV'' can also be used as a prohibitive marker, as in 
+
+{{interlinear|number=(8)
+| ke- we -ʔe
+| 2- sleep -NEG
+| 'Don't sleep!'}}
+
+The negative suffix appears to precede the evidential suffixes, which appear to precede the tense suffixes, as in the following:
+
+{{interlinear|number=(9)
+| nyhe Ø- la -ʔa -tsa -mutsa asajtse -ke
+| fire 3SG- do -NEG -{{gcl|FIRSTH|firsthand evidentiality}} -{{gcl|DIST|distant}}.PST long.time.ago -FOC
+| 'There was no fire a long time ago.'}}
+
+==Vocabulary==
+[[Čestmír Loukotka|Loukotka]] (1968) lists the following basic vocabulary items for Máku.<ref name="Loukotka">{{cite book |last=Loukotka |first=Čestmír |author-link=Čestmír Loukotka |title=Classification of South American Indian languages |url=https://archive.org/details/classificationof0007louk |url-access=registration |publisher=UCLA Latin American Center |year=1968 |location=Los Angeles}}</ref>
+
+:{| class="wikitable sortable"
+! gloss !! Máku
+|-
+| one || nukuzamuké
+|-
+| two || bãtá
+|-
+| three || shünãlyá
+|-
+| head || tsi-gáte
+|-
+| eye || tsis-kóte
+|-
+| tooth || tse-um
+|-
+| man || lásepa
+|-
+| water || náme
+|-
+| fire || níheː
+|-
+| sun || kélé
+|-
+| maize || lükü
+|-
+| jaguar || zówi
+|}
+
+== References ==
+{{reflist}}
+
+==Bibliography==
+* {{Cite book |last=Campbell |first=Lyle  |title=American Indian Languages: The Historical Linguistics of Native America |publisher=Oxford University Press |year=1997 |isbn=0-19-509427-1 |location=New York}}
+* {{Cite book |title=The Indigenous Languages of South America: A Comprehensive Guide |date=2012 |publisher=De Gruyter Mouton |editor-last=Campbell |editor-first=Lyle |location=Berlin |editor-last2=Grondona |editor-first2=Verónica}}
+*Dixon & Aikhenvald (1999). "Máku", in ''The Amazonian Languages'' (pp.&nbsp;361–362)
+* {{Citation |last=Fabre |first=Alain |title=Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos: Makú |date=2005 |url=http://www.ling.fi/Entradas%20diccionario/Dic=Maku.pdf |trans-title=Ethnolinguistic dictionary and bibliographic guide of the South American indigenous peoples: Makú |language=es}}
+* {{Cite book |last=Kaufman |first=Terrence |title=Amazonian Linguistics: Studies in Lowland South American Languages |publisher=University of Texas Press |date=1990 |isbn=0-292-70414-3 |editor-last=Payne |editor-first=D. L. |location=Austin |pages=13–67 |chapter=Language History in South America: What We Know and How to Know More}}
+* {{Cite book |last=Kaufman |first=Terrence |title=Atlas of the World's Languages |date=1994 |publisher=Routledge |editor-last=Mosley |editor-first=C. |location=London |pages=46–76 |chapter=The Native Languages of South America |author-mask=3 |editor-last2=Asher |editor-first2=R. E.}}
+* {{Cite book |last=Koch-Grünberg |first=Theodor |title=Festschrift Eduard Seler |date=1922 |publisher=Strecker und Schröder |editor-last=Lehmannn |editor-first=Walter |location=Stuttgart |pages=205–266 |language=de |chapter=Die Volkgruppierung Zwischen Rio Branco, Orinoco, Rio Negro und Yapurá |trans-chapter=The Ethnic Group Between Rio Branco, Orinoco, Rio Negro and Yapurá}}
+* {{Cite thesis |last=Maciel |first=Iraguacema |title=Alguns aspectos fonológicos e morfológicos da língua Máku |date=1991 |publisher=Universidade de Brasília |language=pt |trans-title=Some phonological and morphological aspects of the Máku language}}
+* Migliazza, Ernesto (1965). "Fonología Makú", ''Boletim do MPEG. Antropología'' 25:1–17.
+*———— (1966). "Esbôço sintático de um corpus da língua Makú", ''Boletim do MPEG. Antropología'' 32:1–38.
+*———— (1978). "Makú, Sapé and Uruak languages. Current status and basic lexicon", ''AL'' 20/3:133–140.
+* Rogers, Chris (2020). ''Máku: A Comprehensive Grammar''. Taylor & Francis.
+
+{{Languages of Venezuela}}
+{{South American languages}}
+
+[[Category:Language isolates of South America]]
+[[Category:Indigenous languages of Western Amazonia]]
+[[Category:Languages of Venezuela]]
+[[Category:Languages extinct in the 2000s]]
+[[Category:Macro-Puinavean languages]]

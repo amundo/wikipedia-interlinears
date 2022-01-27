@@ -1,0 +1,338 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=North Ambrym
+|states=[[Vanuatu]]
+|region=[[Ambrym Island]]
+|speakers={{sigfig|5,250|2}}
+|date=2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Northern Vanuatu languages|Northern Vanuatu]]
+|fam6=[[East Vanuatu languages|East Vanuatu]]
+|fam7=[[Paama–Ambrym languages|Paama–Ambrym]]
+|iso3=mmg
+|glotto=nort2839
+|glottorefname=North Ambrym
+}}
+
+'''North Ambrym''' is a language of [[Ambrym Island]], Vanuatu.
+
+== Dialects ==
+Today there are two main [[Dialect|dialects]] of North Ambrym, levelled from a previous five or six due to population movements towards the coast. The Western dialect (spoken in Lonhali district) is better documented than the North-Eastern dialect (spoken in Wowan district).<ref name=":0">Franjieh, Michael (2012) ''Possessive Classifiers in North Ambrym, a Language of Vanuatu: Explorations in Semantic Classification''. PhD thesis. University of London: School of Oriental and African Studies.</ref>
+
+==Phonology==
+=== Consonants ===
+{| class="wikitable" style="text-align:center"
+! colspan="2" rowspan="2" |
+! colspan="3" |[[Bilabial consonant|Bilabial]]
+! colspan="3" |[[Labiodental consonant|Labio-<br>dental]]
+! colspan="2" |[[Alveolar consonant|Alveolar]]
+! rowspan="2" |[[Postalveolar consonant|Post-alv.]]/<br>[[Palatal consonant|Palatal]]
+! rowspan="2" |[[Velar consonant|Velar]]
+! rowspan="2" |[[Glottal consonant|Glottal]]
+|-
+!<small>plain</small>
+!<small>lab.</small>
+!<small>pal.</small>
+!<small>plain</small>
+!<small>lab.</small>
+!<small>pal.</small>
+!<small>plain</small>
+!<small>pal.</small>
+|-
+! colspan="2" |[[Stop consonant|Plosive]]
+|{{IPA link|b}}
+|bʷ
+|bʲ
+|
+|
+|
+| colspan="2" |{{IPA link|t}}
+|
+|{{IPA link|k}}
+|
+|-
+! colspan="2" |[[Affricate consonant|Affricate]]
+|
+|
+|
+|
+|
+|
+| colspan="2" |
+|{{IPA link|tʃ}}
+|
+|
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|mʷ
+|
+|
+|
+|
+|{{IPA link|n}}
+|nʲ
+|
+|{{IPA link|ŋ}}
+|
+|-
+! rowspan="2" |[[Rhotic consonant|Rhotic]]
+!<small>[[Trill consonant|trill]]</small>
+|
+|
+|
+|
+|
+|
+| colspan="2" |{{IPA link|r}}
+|
+|
+|
+|-
+!<small>[[Tap consonant|tap]]</small>
+|
+|
+|
+|
+|
+|
+| colspan="2" |{{IPA link|ɾ}}
+|
+|
+|
+|-
+! colspan="2" |[[Fricative consonant|Fricative]]
+|{{IPA link|β}}
+|
+|βʲ
+|{{IPA link|f}}
+|fʷ
+|fʲ
+| colspan="2" |{{IPA link|s}}
+|
+|{{IPA link|ɣ}}
+|{{IPA link|h}}
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|{{IPA link|w}}
+|
+|
+|
+|
+|
+| colspan="2" |{{IPA link|l}}
+|{{IPA link|j}}
+|
+|
+|}
+
+* /r/ can have an allophone of [d̚] in free variation in word-final position.
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+!
+![[Front vowel|Front]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPA link|i}}
+|{{IPA link|u}}
+|-
+![[Near-close vowel|Near-close]]
+|
+|{{IPA link|ʊ}}
+|-
+![[Mid vowel|Mid]]
+|{{IPA link|e}}
+|{{IPA link|o}}
+|-
+![[Near-open vowel|Near-open]]
+|{{IPA link|æ}}
+|
+|-
+![[Open vowel|Open]]
+|{{IPA link|a}}
+|
+|}
+
+* Sounds /i, e/ are heard as [ɪ, ɛ] in closed syllables.<ref name=":0" />
+
+== Grammar ==
+
+=== Noun Phrases ===
+There are two classes of [[nouns]] – free nouns that occur independently or bound nouns that require a possessor, either a pronominal [[suffix]] or a possessor [[noun phrase]]. Some nouns alternate between free and bound classes.<ref name=":0" />
+
+Nouns can also be derived from verbs using two [[Clitic|clitics]]: instruments are derived with ''a='' and abstract nouns are derived with ''=an''.<ref name=":0" />
+
+Free pronouns distinguish between singular, dual, [[paucal]] and plural numbers, and distinguish [[Clusivity|inclusive]] and exclusive first person.<ref name=":0" />
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | ni
+| kerong
+| kesul, kensul
+| ken
+|-
+! exclusive
+| gemaro
+| gemasul
+| gema
+|-
+! colspan="2" | 2nd person
+| neng
+| gomoro
+| gomosul
+| gimi
+|-
+! colspan="2" | 3rd person
+| nge
+| nyero
+| nyesul
+| nyer
+|}
+
+Non-singular pronouns in third person pronouns can be used to quantify nominals, and paucal and plural third person pronouns can be used to quantify over proper names, signifying a group containing that person.<ref name=":0" />
+
+Nominal modifiers (such as [[Adjective|adjectives]], possessor nominals, [[Quantifiers (linguistics)|quantifiers]], [[Numeral (linguistics)|numerals]], relative clauses) generally follow the head nominal. There are four [[Deixis|deictic]] [[demonstratives]] (two proximal, one medial and one distal) which must be introduced by either the subordinate clause marker ''ge'' or the topic marker ''nge''. The numeral ''hu'' 'one' can appear directly after the head nominal to indicate as specific indefinite, and non-specific indefinites are marked ''te hu'' and only occur in negative or irrealis clauses. ''Te hu'' can also function as a pronominal meaning 'no-one'.<ref name=":0" />
+
+Noun phrases can be coordinated with the verb ''kirine'' 'be with' or the third person dual free pronoun ''nyero'', or with disjunctive ''o'' which is also used to coordinate clauses.<ref name=":0" />
+
+=== Verb phrases ===
+The verbal complex can contain the following elements, with optional elements in brackets:<ref name=":0" />
+{| class="wikitable"
+!(potential)
+!subject indexing particle
+!(tense/mood/negation)
+!(aspect)
+!verb
+!(compound)
+!(-valence increasing suffix)
+|}
+In addition the subject indexing particle can take [[Tense–aspect–mood|tense]] prefixes and tense or mood suffixes.<ref name=":0" />
+
+Verbs can be transitive or intransitive.
+
+[[Dynamic verb|Dynamic]] intransitive verbs can take preposition phrases as [[Argument (linguistics)|oblique]] arguments and a subset can have their valency changed by the applicative suffix ''Ci-''. [[Stative verb|Stative]]/[[Inchoative aspect|inchoative]] intransitive verbs select a [[Thematic relation|patient]] subject, and are interpreted as stative or inchoative depending on the [[Aspect (linguistics)|aspect]] marking. When marked with the non-recent past tense marker, these are interpreted as perfective stative verbs, while the recent past marker is interpreted as imperfective and inchoative. A subset of stative/inchoative verbs can be transitivised with the transitive suffix ''-ne'', which also makes the subject the agent. ''m''-initial stative/inchoative verbs begin with /m/ and are derived from the [[Proto-Oceanic language|Proto-Oceanic]] stative verb prefix ''*ma-'', though only one has a non-stative equivalent remaining.<ref name=":0" />
+
+While there is a small group of morphologically simple transitive verbs, a large group are derived from semitransitive verbs with the transitive suffix ''-ne''. Semitransitive verbs have a transitive meaning and a derived transitive form but only allow restricted objects.<ref name=":0" />
+
+Non-verbal [[predicate (grammar)|predicate]]s are also possible in [[Topic and comment|topic-comment]] constructions, and have to include the topic marker ''nge''.<ref name=":0" />
+
+=== Possession ===
+In North Ambrym there are two main possessive constructions – direct and indirect possession. Direct possession patterns predominantly with [[inalienable possession]] where the relationship between possessor and possessed is more permanent, such as kinship terms, body parts and parts of wholes. Indirect possession patterns predominantly with [[alienable possession]] where the relationship between possessor and possessed is less permanent, and more easily removed from the possessor.
+
+==== Direct Possession ====
+
+Direct possessive constructions are so called as a pronominal possessor can be directly suffixed to the possessed noun: <ref name=":0" /><sup>:<small>219</small></sup>
+
+{{interlinear|number=1)
+|rahe-ng
+|mother-1SG
+|‘my mother’}}
+
+When the possessor is a personal noun, such as a proper name, the possessor is juxtaposed to the directly possessed noun: <ref name=":0" /><sup>:219</sup>
+
+{{interlinear|number=2)
+|rahe John
+|mother john
+|‘John’s mother’}}
+
+When the possessor is a common noun, the possessed noun is suffixed by a linking morpheme known as a construct suffix, which is then followed by the possessor noun: <ref name=":1">Franjieh, Michael (2015) The construct suffix in North Ambrym. In A. François; S. Lacrampe, M. Franjieh, S. Schnell (eds.) The Languages of Vanuatu: Unity and Diversity. Studies in the Languages of Island Melanesia, 5. Canberra: Asia-Pacific Linguistics Open Access. Pp.91-116.</ref><sup>:102</sup>
+
+{{interlinear|number=3)
+|ye-n vanten
+|leg-CST person
+|‘the person’s leg’}}
+
+Direct possessive constructions cover the following semantic relationships: <ref name=":0" /><sup>:225-231</sup>
+
+* Kinship terms, such as ''rahen'' ‘his/her mother’ and ''taalan'' ‘his/her brother’.
+* External body parts, such as ''woulun'' ‘his/her hair’ and ''veran'' ‘his/her hand’.
+* Non-human external body parts, such as ''lengate'' ‘its scales’ and ''byúte'' ‘its wing’.
+* Some body by-products, such as ''mihun'' ‘his/her urine’ and ''túlúte'' ‘its egg’.
+* Intrinsic and intimate possessions, such as ''tolon'' ‘his/her voice’ and ''towon'' ‘his penis-sheath’.
+* Parts of wholes, such as ''kilite'' ‘its meat’, ''tangvate'' ‘its broken piece’.
+
+==== Indirect Possession ====
+In indirect possessive constructions a pronominal possessor is not able to suffix directly to the possessed noun, but instead attaches to one of a set of possessive classifiers: <ref name=":0" /><sup>:232</sup>
+
+{{interlinear|number=4)
+|a-n to
+|POSS.CL-3SG chicken
+|‘his/her chicken’}}
+
+When the possessor is a lexical noun phrase, there is a word order change, with the possessed noun occurring before the possessive classifier. When the possessor is a personal noun, such as a proper name, the possessor phrase follows the possessive classifier, with no intervening morphology: <ref name=":0" /><sup>:232</sup>
+
+{{interlinear|number=5)
+|barrbarr a Massing
+|pig POSS.CL Massing
+|‘Massing’s pig’}}
+
+When the possessor is a common noun, the possessive classifier noun is suffixed by the linking construct suffix, which is then followed by the possessor noun: <ref name=":1" /><sup>:96</sup>
+
+{{interlinear|number=6)
+|meyee a-n vanten
+|food POSS.CL-CST person
+|‘a/the person’s food’}}
+
+There are five different possessive classifiers in North Ambrym that are used with different types of possessions: <ref name=":0" /><sup>:239-243;</sup> <ref name=":2">Franjieh, Michael (2016) Indirect Possessive Hosts in North Ambrym: Evidence for Gender. Oceanic Linguistics 55:87-115</ref><sup>:97</sup>
+
+* The ''ye-/a-'' classifier covers the semantic domains of food, such as ''meyee'' ‘food’; animals, such as ''bwehel'' ‘bird’; tools, such as ''ayi'' ‘machete’; units of time, such as ''huwo'' ‘year’; fruit (and the trees that bear them), such as ''beta'' ‘breadfruit’; and some kinship terms, such as ''ina'' ‘paternal auntie’.
+* The ''mwe-/ma-'' classifier covers liquids, such as ''we'' ‘water’; containers of liquids, such as ''bwelaye'' ‘container (i.e. cup/bottle)’; buildings, such as ''im'' ‘house’; holes, such as ''tuye'' ‘tree hollow’; and mats, such as ''hul'' ‘mat’.
+* The ''bo-'' classifier covers fire related items, such as ''fyang'' ‘fire’ and ''yem'' ‘firewood’.
+* The ''to-'' classifier covers different types of baskets, such as ''arrbol'' ‘basket’.
+* The ''mwene-/mwena-'' classifier is the general or residual classifier and covers items not included with the other classifiers. This includes items such as derived nominals ''mese''=an ‘sickness’; and some kinship terms, such as ''metahal'' ‘sister’.
+
+==== Overlap ====
+Overlap or fluidity is when a possessed noun can occur in different possessive constructions.<ref>Lynch, John (1973) Verbal aspects of possession in Melanesian languages. Oceanic Linguistics 12:69-102</ref> <ref name=":3">Lichtenberk, Frantisek (2009) Attributive possessive constructions in Oceanic. In William B. McGregor (ed.) The expression of possession, 249–92. Berlin and New York: Mouton de Gruyter</ref> Lichtenberk, Frantisek (2009). In many Oceanic languages, nouns that are directly possessed can be indirectly possessed, and nouns that are indirectly possessed by one classifier can occur with different classifiers, depending upon the interaction between the possessor and possessed. <ref name=":3" /> However in North Ambrym, directly possessed nouns are unable to occur in indirect possessive constructions. Furthermore, there is a lack of overlap or fluidity between nouns that occur in indirect possession.<ref name=":2" /> <ref name=":4">Franjieh, Michael (2017) North Ambrym possessive classifiers from the perspective of canonical gender. In S. Fedden, J. Audring and G. Corbett (eds.) Non-canonical gender systems. Oxford: OUP.</ref>For example, the noun ''we'' ‘water’ only occurs with the classifier for liquids, ''mwe-/ma-'', and never with the general or residual classifier, ''mwene-/mwena-'':<ref name=":2" /><sup>:95</sup>
+
+'''Grammatical''':
+
+{{interlinear|number=7)
+|mwe-ng we
+|POSS.CL-1SG water
+|‘my water (for drinking, washing etc.)’}}
+
+'''Ungrammatical''':
+
+{{interlinear|number=8)
+|*Mwene-ng we
+|POSS.CL-1SG water
+|Intendend: ‘my water’}}
+
+This more rigid collocatation between noun and classifier has been described as non-canonical grammatical gender, as rigid assignment between a noun and a gender marker is a feature of grammatical gender rather than of classifiers.<ref name=":4" /> The North Ambrym classifier system is a potential emergent stage towards the [https://www.smg.surrey.ac.uk/projects/optimal-categorisation/ development of a grammatical gender system.]
+
+== References ==
+<references />
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+CST:construct suffix
+</div><section end="list-of-glossing-abbreviations"/>
+
+== External links ==
+* [[Paradisec|PARADISEC]] archive of [http://catalog.paradisec.org.au/collections/MP1 North Ambrym recordings]
+*[[Endangered Languages Archive|ELAR]] archived materials for [https://www.elararchive.org/dk01310387/ North Ambrym]
+*[[Economic and Social Research Council|ESRC]] funded project on [https://www.smg.surrey.ac.uk/projects/optimal-categorisation/ Optimal Categorisation] at the [[University of Surrey]], which includes the North Ambrym language
+
+{{DEFAULTSORT:Ambrym, North}}
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Penama languages]]
+[[Category:Languages of Vanuatu]]
+
+{{SOceanic-lang-stub}}
+{{Vanuatu-stub}}

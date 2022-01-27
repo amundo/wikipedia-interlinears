@@ -1,0 +1,215 @@
+{{Short description|Austronesian language family of Borneo and the Philippines}}
+{{redirect|Sama languages|other languages called Sama|Sama language (disambiguation)}}
+{{Infobox language family
+|name=Sama–Bajaw
+|altname=
+|region=[[Sulu Archipelago]] and [[Biliran]], between the Philippines and Borneo
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=([[Barito languages|Barito]])
+|protoname=Proto-Sama-Bajaw
+|glotto=sama1302
+|glottorefname=Sama–Bajaw
+}}
+
+The '''Sama–Bajaw languages''' are a well established group of languages spoken by the [[Sama-Bajau peoples]] of the [[Philippines]], [[Indonesia]] and [[Malaysia]]. They are mainly spoken on [[Borneo]] and the [[Sulu Archipelago]] between Borneo and [[Mindanao]].
+
+==Languages==
+Grimes (2003) identifies nine Sama–Bajaw languages. 
+#[[Balangingi language|Balangingi]] (Bangingi'; Northern Sama)
+#Central [[Sama language|Sama]] (Siasa Sama)
+#Southern Sama (Sinama)
+#[[Pangutaran Sama language|Pangutaran Sama]]
+#[[Mapun language|Mapun]] (Kagayan)
+#[[Yakan language|Yakan]]
+#[[Abaknon language|Abaknon]] (Inabaknon)
+#[[Indonesian Bajau language|Indonesian Bajau]]
+#[[West Coast Bajau language|West Coast Bajau]]
+
+The first six are spoken in the Sulu region of the Southern Philippines. Indonesian Bajaw is spoken mainly in [[Sulawesi]] and West Coast Bajaw in [[Sabah]], Borneo. Several dialects of the languages can be identified.<ref name="Miller 2007">{{Cite thesis |last=Miller |first=Mark Turner |title=A Grammar of West Coast Bajau |date=2007 |degree=Ph.D. |publisher=University of Texas at Arlington |hdl=10106/577 |hdl-access=free }}</ref>
+
+Blust (2006)<ref>{{Cite book |title=Current Issues in Philippine Linguistics and Anthropology |last=Blust |first=Robert |publisher=Linguistic Society of the Philippines and SIL Philippines |year=2006 |editor-last=Liao |editor-first=Hsiu-chuan |location=Manila |pages=31–68 |chapter=The Linguistic Macrohistory of the Philippines: Some Speculations |editor-last2=Rubino |editor-first2=Carl R. Galvez |chapter-url=https://www.sil.org/system/files/reapdata/86/84/43/86844389952365766047394359699729955999/Blust.pdf}}</ref> states that lexical evidence indicates that Sama–Bajaw originated in the [[Barito River|Barito]] region of southeast Borneo, though not from any established group of [[Barito languages]]. ''Ethnologue'' has followed, calling the resulting group 'Greater Barito'.
+
+==Classification==
+Pallesen (1985:18) classifies the Sama-Bajaw languages as follows.
+
+*'''Sama-Bajaw'''
+**''[[Abaknon language|Abaknon]]''
+**''[[Yakan language|Yakan]]'': Northern Yakan, Southern Yakan
+**Sibuguey (''[[Sama language|Sama]] Batuan'')
+**Sulu-Borneo
+***''Western Sulu'': [[Sama language|Sama]] Pangutaran, Sama Ubian
+***Inner Sulu
+****''Northern Sulu'': Tagtabun Balangingiq, Tongquil Balangingiq, Linungan, Panigayan Balangingiq, Landang-Guaq, Mati, [[Sama language|Sama]] Daongdong, Kawit Balangingiq, Karundung, Pilas
+****''Central Sulu'': [[Sama language|Sama]] Kaulungan, Sama Dilaut, Sama Kabingan, Sama Musuq, Sama Laminusa, Sama Balimbing, Sama Bannaran, Sama Bangaw-Bangaw, South Ubian
+****''Southern Sulu'': [[Sama language|Sama]] Tanduq-baas, Sama Simunul, Sama Pahut, Sama Sibutuq, Sama Sampulnaq
+****''[[Sama language|Sama]] Lutangan'', ''[[Sama language|Sama]] Sibukuq''
+***Borneo Coast
+****''Jama [[Mapun language|Mapun]]''
+****''Sabah Land [[Bajaw language|Bajaw]]'': Kota Belud Bajaw, Kawang Bajaw, Papar Bajaw, Banggi Bajaw, Putatan Bajaw
+****''[[Indonesian Bajau language|Indonesian Bajaw]]'': Sulamu, Kajoa, Roti, Jaya Bakti, Poso, Togian 1, Wallace, Togian 2, Minahasa
+
+== Grammar ==
+
+=== Voice ===
+Western Austronesian languages are characterised by symmetrical [[Voice (grammar)|voice]] alternations. These differ from asymmetrical voice alternations, such as active and passive, since the voices can be considered equally transitive.<ref>Himmelmann, Nikolaus P. 2005. The Austronesian Languages of Asia and Madagascar: Typological Charactersistics. In A. Adelaar and N. P. Himmelmann (eds.) ''The Austronesian Languages of Asia and Madagascar'', 110-181. London: Routledge.</ref> Hence, the terms Actor Voice and Undergoer Voice are sometimes used. 
+* Actor Voice (AV) refers to the construction in which the actor or agent-like argument is mapped to subject. 
+* Undergoer Voice (UV) refers to the construction in which the undergoer or patient-like argument is mapped to subject. 
+The voice construction is signalled through morphological marking on the verb.
+
+Western Austronesian languages are typically subdivided into Philippine-type and Indonesian-type languages on the basis of the voice system:<ref>{{Cite book|title = The many faces of Austronesian voice systems: some new empirical studies|last = Arka|first = I. Wayan|publisher = Pacific Linguistics|year = 2005|isbn = 0-85883-556-8|last2 = Ross|first2 = Malcolm}}</ref>
+{| class="wikitable"
+!Philippine-type
+!Indonesian-type
+|-
+|Multiple Undergoer Voices that map different [[Thematic relation|semantic roles]] to [[Subject (grammar)|subject]]
+|Two symmetrical voices: Actor Voice and Undergoer Voice
+|-
+|AV has lower transitivity
+|True [[Passive voice|passive]] construction
+|-
+|[[Case marking]] of nominal arguments
+|[[Applicative voice|Applicative]] suffixes
+|}
+The voice alternations in Sama–Bajaw languages have some characteristics of Philippine-type languages and some characteristics of Indonesian-type languages.<ref name="Miller 2007" />
+
+Miller (2014) says that there are three main voice alternations in Sama-Bajaw:<ref name=":0">Miller, Mark. 2014. 'A comparative look at the major voice oppositions in Sama-Bajau languages and Indonesian/Malay. In Wayan Arka and N. L. K. Mas Indrawati (eds.) ''Argument realisations and related constructions in Austronesian languages'', 303-312. Canberra: Asia-Pacific Linguistics.</ref>
+* An Actor Voice (AV) construction marked with a nasal prefix
+* A transitive non-AV construction with the bare verb
+* Another non-AV construction with morphological marking on the verb and case marking on the agent
+In many Philippine languages, the UV construction is said to be basic. This has led people to analyse the languages as [[Ergative–absolutive language|syntactically ergative]].<ref>{{Cite thesis |last=Aldridge |first=Edith |title=Ergativity and Word Order in Austronesian Languages |date=2004 |degree=Ph.D |publisher=Cornell University |url=https://faculty.washington.edu/aldr/pdf/phd1.pdf}}</ref> This analysis has been proposed for Sama Southern (Trick 2006);<ref>Trick, Douglas. 2006. ‘Ergative control of syntactic processes in Sama Southern’. Paper presented at Tenth International Conference on Austronesian Linguistics. January 2006. Puerto Princesa City, Palawan, Philippines</ref> Yakan (Brainard & Behrens 2002);<ref>Brainard, Sherri and Dietlinde Behrens. 2002. ''A Grammar of Yakan''. Manila: Linguistic Society of the Philippines, No. 40, Vol. 1</ref> Sama Bangingi’ (Gault 1999)<ref>Gault, JoAnn Marie. 1999. An ergative description of Sama Bangingi’. Manila: Linguistic Society of the Philippines.</ref> and Sama Pangutaran (Walton 1986).<ref>Walton, Charles. 1986. ''Sama verbal semantics: classification, derivation and inflection''. Manila: Linguistic Society of the Philippines</ref> These languages are said to have Philippine-type voice systems.
+
+West Coast Bajau, however, is said to have an Indonesian-type voice system because there are two [[Transitive verb|transitive]] voices; a true passive construction (''-in-'') and an applicative suffix (''-an'').<ref name="Miller 2007" /> This makes West Coast Bajau more similar to the languages of [[Sarawak]] and [[Kalimantan]] than the other languages of Sabah.<ref>Clayre, Beatrice. 1996. The changing face of focus in the languages of Borneo. In H. Steinhauer (ed.) ''Papers in Austronesian Linguistics'' No. 3, 51-88. Canberra: Pacific Linguistics.</ref>
+
+Indonesian Bajau also has an Indonesian-type voice system as illustrated below:<ref>{{Cite journal|jstor = 416102|title = Bajau: A Symmetrical Austronesian Language|journal = Language|volume = 72|issue = 4|pages = 782–793|last1 = Donohue|first1 = Mark|year = 1996|doi = 10.2307/416102}}</ref>
+
+{{interlinear|indent=3
+|top= '''Actor Voice'''
+|ng-ita uggo' aku
+|AV-see pig 1SG
+|'I saw the pig'}}
+
+{{interlinear|indent=3
+|top= '''Bare Undergoer Voice'''
+|kita-ku uggo'
+|see-1SG pig
+|'I saw the pig'}}
+
+{{interlinear|indent=3
+|top= '''Passive'''
+|di-kita-ku uggo'
+|PASS-see-1SG pig
+|'The pig was seen by me'}}
+
+{{interlinear|indent=3
+|top= '''Accidental Passive'''
+|ta-kita uggo' ma aku
+|ACC.PASS-see pig OBL 1SG
+|'The pig was accidentally seen by me'}}
+
+In some Sama-Bajau languages there are restrictions on how the non-AV actor is realised. For example, in Sama Bangingi’ the non-AV actor is typically a pronominal [[clitic]] in first or second person.<ref name=":0" />
+
+The voice alternations in Sama-Bajau languages can also be accompanied by a change in the [[Case marking|case-marking]] of pronouns and a change in [[Word order|word-order]].<ref name="Miller 2007" />
+
+=== Case Marking ===
+Sama-Bajau languages do not have case-marking on nominal arguments.
+
+Nonetheless, pronouns have different forms depending on their [[grammatical function]]. Like the languages of Sarawak,<ref>Clayre, Beatrice. 2014. ‘A preliminary typology of the languages of Middle Borneo’. In Peter Sercombe, Michael Boutin & Adrian Clynes (eds.) ''Advances in research on cultural and linguistic practices in Borneo,'' 123-151. Phillips, Maine USA: Borneo Research Council.</ref> West Coast Bajau has two different pronoun sets<ref name="Miller 2007" />
+* '''Set 1:''' non-subject actors
+* '''Set 2:''' all other pronouns
+In contrast, most of the languages of Sabah have three sets of pronouns:<ref name="Miller 2007" />
+* '''Set 1:''' non-subject actors
+* '''Set 2:''' subjects
+* '''Set 3:''' non-subject, non-actors
+In West Coast Bajau, the non-subject undergoer can be optionally realised using both the Set 1 and the Set 2 pronouns.<ref name="Miller 2007" />
+
+[[Zero anaphora]] is possible for highly topical arguments, except the UV actor, which cannot be deleted.<ref name="Miller 2007" /> This is common across Western Austronesian languages.<ref>{{Cite journal |last=Himmelmann |first=Nikolaus |date=1999 |title=The Lack of Zero Anaphora and Incipient Person Marking in Tagalog |journal=Oceanic Linguistics |volume=38 |issue=2 |pages=231–269 |doi=10.1353/ol.1999.0010}}</ref>
+
+=== Word Order ===
+Like the languages of the Philippines, the Sama–Bajaw languages in the Sulu tend to be [[Verb-initial word order|verb-initial]].<ref name=":0" /> However, in most languages word order is flexible and depends on the voice construction. In the Sulu, SVO is only found in the context of preposed [[Affirmative and negative|negatives]] and [[Aspect (linguistics)|aspect markers]]. In West Coast Bajau, on the other hand, SVO word-order is also found in pragmatically neutral contexts.<ref name=":0" /> This, again, makes West Coast Bajau more similar to the languages of Sarawak than the other languages of the Sama-Bajaw group.
+
+Verheijen (1986) suggests that the Bajau language spoken in the [[Lesser Sunda Islands]] has no fixed position of the subject but is fixed VO. The language has several properties that are said to correlate with VO word-order:<ref>{{Cite book|title = The Sama/Bajau Language in the Lesser Sunda Islands|last = Verheijen|first = Jilis|publisher = Pacific Linguistics|year = 1986}}</ref> 
+* Prepositions
+* Noun‑Genitive
+* Noun-Relative
+* Noun-Adjective
+* Noun-Demonstrative
+* Preverbal negatives
+* Initial subordinators
+The preferred word-orders for five Sama-Bajau languages are shown below. The word order is represented in terms of the semantic roles: actor (A) and undergoer (U).<ref name=":0" />
+{| class="wikitable"
+!
+!AV Word Order
+!Zero UV Word Order
+!Affixed Non-AV Word Order
+|-
+|Sama Bangingi'
+|V A U
+|
+|
+|-
+|Central Sama
+|V A U (if A = pronoun)
+V U A (if A = full noun)
+|V A U
+|V U A or V A U
+|-
+|Southern Sama
+|V A U (if A = pronoun)
+V U A (if A = full noun)
+|V A U
+|V U A (V A U also possible)
+|-
+|Pangutaran Sama
+|V A U
+|V A U
+|V A U or V U A
+|-
+|West Coast Bajau
+|A V U
+|V A U or U V A
+|U V A (less often V A U)
+|}
+In all Sama-Bajau languages, the position of the actor is fixed, directly following the verb in the zero UV construction. Elsewhere, the order of actor and undergoer depends on the [[animacy]] of the arguments.<ref name=":0" /> This could be seen to follow the Philippine tendency to place actors first in the clause.<ref>Billings, Loren. 2005. Ordering clitics and postverbal R-expressions in Tagalog: a unified  analysis? In Andrew Carnie, Heidi Harley & Sheila Ann Dooley (eds.) ''Verb First: on the syntax of verb-initial languages'', 303-339. Amsterdam: John Benjamins.</ref>
+
+If we rephrase these orders in terms of grammatical function, a number of Sama-Bajau languages could be said to be VOS languages. S is equivalent to the actor in AV and the undergoer in UV. O is equivalent to the non-subject core argument.
+
+==== Word Order and Information Structure ====
+Variant word-orders are permitted in Sama-Bajau languages. The different word-orders have different [[information structure]] interpretations. This differs depending on the voice of the clause.
+
+Miller (2007) suggests that verb-initial order in West Coast Bajau UV clauses strongly correlates with foregrounding.<ref name="Miller 2007" /> He argues that this is the basic word order given that the undergoer in final position does not have a specific pragmatic status. In contrast, fronted undergoers are highly active and accessible.<ref name="Miller 2007" /> Both SVO and VOS orders occur with equal frequency in narrative texts, though VOS is highly preferred in foregrounded clauses.<ref name="Miller 2007" />
+
+AV clauses are predominantly subject-initial regardless of grounding.<ref name="Miller 2007" /> In fact, SVO is the only word-order permitted in subordinate clauses. Where verb-initial clauses in AV do occur, however, they typically represent key sequences of action in the storyline.<ref name="Miller 2007" />
+
+There are also [[Specificity (linguistics)|specificity]] effects in AV verb-initial word order. VOS is acceptable when the non-subject undergoer is non-specific, but sometimes considered unacceptable if the undergoer is specific.<ref name="Miller 2007" /> The same is true for [[Definiteness|definite]] undergoers.<ref name="Miller 2007" /> However, the effects are not found when the word-order is VSO and the undergoer is in final position. In this case, the structure is grammatical regardless of whether the undergoer is definite/specific or not.
+
+==== Topic and Focus ====
+In West Coast Bajau, it is possible for subjects, obliques and adjuncts to appear pre-verbally. Only non-subject arguments cannot appear in this position. Miller (2007: 193) suggests that there are two positions pre-verbally: [[Topic (linguistics)|topic]] and [[Focus (linguistics)|focus]]. Topic represents presupposed information whilst focus represents new information. In both AV and UV clauses, the preverbal subjects can be either topic or focus. Obliques, on the other hand, are always focus.
+
+Consequently, Miller (2007: 211) analyses the clause structure of West Coast Bajau as follows:<ref name="Miller 2007" />
+
+'''Pragmatic Structure of West Coast Bajau'''
+{| class="wikitable"
+!FOCUS
+!TOPIC
+!PRED
+|}
+The preverbal focus position can be followed by focus particles such as ''no.''<ref name="Miller 2007" />
+
+==Reconstruction==
+Proto-Sama-Bajaw is reconstructed in Pallesen (1985). Pallesen (1985) considers the homeland of Proto-Sama-Bajaw to be in the [[Basilan Strait]] area, around 800 AD.
+
+==References==
+{{Reflist}}
+*Blench, Roger. 2016. [https://www.academia.edu/25632266/The_linguistic_background_to_SE_Asian_sea_nomadism The linguistic background to SE Asian sea nomadism]. In ''Sea nomads of SE Asia past and present''. Bérénice Bellina, Roger M. Blench & Jean-Christophe Galipaud eds. Singapore: NUS Press.
+*Pallesen, A. Kemp. 1985. Culture contact and language convergence. Philippine journal of linguistics: special monograph issue, 24. Manila: Linguistic Society of the Philippines.
+
+{{Bornean languages}}
+{{Austronesian languages}}
+{{Languages of Malaysia}}
+
+{{DEFAULTSORT:Sama-Bajaw languages}}
+[[Category:Sama–Bajaw languages| ]]
+[[Category:Barito languages]]
+[[Category:Languages of Indonesia]]
+[[Category:Languages of the Philippines]]

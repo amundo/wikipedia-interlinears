@@ -1,0 +1,845 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{refimprove|date=July 2012}}
+{{Infobox language
+|name=Paamese
+|altname=Paama
+|states=[[Vanuatu]]
+|speakers=6,000
+|date=1996
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Central Vanuatu languages|Central Vanuatu]]
+|fam6=[[Paama–Ambrym languages|Paama–Ambrym]]
+|iso3=pma
+|glotto=paam1238
+|glottorefname=Paama
+}}
+
+'''Paamese''', or '''Paama''', is the language of the island of [[Paama]] in Northern [[Vanuatu]]. There is no indigenous term for the language; however linguists have adopted the term ''Paamese'' to refer to it. Both a grammar and a dictionary of Paamese have been produced by [[Terry Crowley (linguist)|Terry Crowley]].
+
+==Classification==
+Paamese is an [[Austronesian language]] of Vanuatu. It is most closely related to [[Southeast Ambrym language|the language]] of Southeastern [[Ambrym]]. The two languages, while sharing 60-70% of the lexical [[cognate]], are not [[mutually intelligible]].
+
+==Geographic distribution==
+[[File:Paamamap.png|thumb|250px|Paama, neighbouring islands and main centres]]
+Paama itself is a small island in the [[Malampa Province]]. The island is no more than {{cvt|5|km|0}} wide and {{cvt|8|km|0}} long. There is no running water on the island except after heavy storms.
+
+In the 1999 census in Vanuatu, 7,000 people identified as Paamese, with 2,000 on the island itself and others through the urban hubs of Vanuatu, particularly [[Port Vila]].
+
+===Dialects/Varieties===
+Paamese spoken in different parts of the island (and then those on other islands) does differ slightly phonologically and morphologically but not enough to determine definite 'dialects splits'. Even in the extreme north and extreme south, places with the biggest difference, both groups can still communicate fully. There is no question of mutual intelligibility being impaired.
+
+==Phonology==
+
+===Consonants===
+:{| class="wikitable" style="text-align:center"
+|-
+!colspan="2"|
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]/[[Glottal consonant|Glottal]]
+|-
+!colspan="2"| [[Nasal stop|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ŋ}}
+|-
+!rowspan="2"| [[Stop consonant|Stop]]
+! [[Voicelessness|Voiceless]]
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|k}}
+|-
+! [[Prenasalized consonant|Prenasalized]]
+| {{IPA|ᵐb}}
+| {{IPA|ⁿd}}
+| {{IPA|ᵑɡ}}
+|-
+!colspan="2"|[[Fricative consonant|Fricative]]
+| {{IPA link|v}}
+| {{IPA link|s}}
+| {{IPA link|h}}
+|-
+!colspan="2"|[[Lateral consonant|Lateral]]
+|
+| {{IPA link|l}}
+|
+|-
+!colspan="2"|[[Trill consonant|Trill]]
+|
+| {{IPA link|r}}
+|
+|-
+!colspan="2"|[[Glide consonant|Glide]]
+| 
+| {{IPA link|j}}
+| {{IPA link|w}}
+|}
+
+===Vowels===
+:{| class="wikitable" style="text-align:center"
+! 
+! [[Front vowel|front]]
+! [[Central vowel|central]]
+! [[Back vowel|back]]
+|-
+! [[High vowel|high]]
+| {{IPA link|i}} {{IPA link|iː}}
+| 
+| {{IPA link|u}} {{IPA link|uː}}
+|-
+! [[Mid vowel|mid]]
+| {{IPA link|e}} {{IPA link|eː}}
+| 
+| {{IPA link|o}} {{IPA link|oː}}
+|-
+! [[Low vowel|low]]
+| 
+| {{IPA link|a}} {{IPA link|aː}}
+| 
+|}
+
+Stress is phonologically distinctive in Paamese.
+
+===Writing system===
+There is a Paamese [[orthography]] which has been in use for over 75 years which accurately represents almost all of the consonant phonemes. The only point of difference is the labial fricative, which, although voiceless in most environments, is written {{angle bracket|v}}. The [[velar nasal]] is written with the digraph {{angle bracket|ng}}. A long vowel is written with a macron over the vowel: {{angle bracket|ā, ē, ī, ō, ū}}.
+
+==Grammar==
+
+===Nominal phrases===
+In Paamese nominals can occur in four environments:
+* as verbal subjects with cross-reference on the verb for person and number
+* as verbal objects with cross-reference on the verb for properness
+* as prepositional objects
+* as heads of nominal phrases with associated adjuncts
+
+There are four major classes of nominals:
+* Pronouns
+* Indefinites
+* Possessives
+* Nouns
+
+====Pronouns====
+Free pronouns in Paamese:
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | inau
+| komalu
+| komaitelu
+| komai
+|-
+! inclusive
+| ialue
+| iatelu
+| iire
+|-
+! colspan="2" | 2nd person
+| kaiko
+| kamilu
+| kamiitelu
+| kamii
+|-
+! colspan="2" | 3rd person
+| kaie
+| kailue
+| kaitelu
+| kaile
+|}
+
+The [[paucal]] is generally used for numbers in the range of about three to six, and the plural is generally used for numbers greater than twelve. In the range of six to twelve, whether a speaker of Paamese uses paucal or plural is dependent on what the thing being spoken about is contrasted with. For example, one's patrilineage will be referred to paucally when it is contrasted with that of the whole village, but plurally when it is contrasted with just the nuclear family. The paucal is also sometimes used even when it is referring to a very large number if it is contrasted with an even bigger number; for example comparing the population of Paama with that of Vanuatu as a whole. However, using the paucal with numbers above twelve is rare.
+
+====Indefinites====
+Unlike other nominals, indefinites can occur not only as nominal phrase heads, but also as adjuncts to other heads. There are two types of indefinites. The first are numerals. When Crowley was writing in 1982 he stated that the numeral system of Paamese was not used by anyone under the age of 30 and only rarely by those older than 30. It is unlikely, therefore, that many speakers use it today.
+
+The following is a list of the seven non-numeral indefinites in Paamese:
+* sav - another (sg)
+* {{lang|pma|savosav|italic=no}} - other (non-sg)
+* tetāi - any; {{lang|pma|koa(n)|italic=no}}, some
+* tei - some of it/them
+* haulu - many/much
+* musav - many/much (archaic)
+
+====Possessives====
+All nouns fall into one of two subclasses using different constructions for [[possession (linguistics)|possession]]. Categories can roughly be defined semantically into [[inalienable possession|alienable and inalienable possession]]. Inalienability, semantically can be described as the relationship held between an animate possessor and an aspect of this possessor which can't exist independently of that being.
+
+Body parts are the most common inalienable possession, but not all body parts are treated as inalienable; internal body parts are largely seen as alienable unless they are perceived to be central to emotions, individuality or maintenance of life itself. This can be explained through the experience of butchering or cooking of animals in which the internal organs are removed and thus alienated from the body. Extrusions that are expelled in normal bodily functions are regarded as inalienable while those that are periodically expelled or as a result of sickness are regarded as alienable. As such, bodily fluids such as urine, saliva, blood and excrement are treated as inalienable while sweat, blood clots and ear wax are alienable. An exception to this rule is vomit, however, which is treated as inalienable. Inalienability also extends to relations between people with blood relations being expressed in the alienable possessive construction.
+
+Inalienable and alienable possessions are marked using different possessive constructions. Inalienable possessions are marked with a possessive suffix attaching directly onto the noun.
+
+; NOUN-SUFFIX 
+{{interlinear|indent=2
+|vatu-k 
+|head-1SG 
+|'my head'}}
+
+While alienable possessions are marked with a possessive constituent to which the possessive suffix attaches.
+
+; NOUN POSS-SUFFIX 
+{{interlinear|indent=2
+|vakili ona-k 
+|canoe POSS-1SG 
+|'my canoe'}}
+
+The possessive suffix in both subclasses, however, is the same.
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | -k
+| -mal
+| -maitel
+| -mai
+|-
+! inclusive
+| -ralu
+| -ratel
+| -r
+|-
+! colspan="2" | 2nd person
+| -m
+| -mil
+| -mitel
+| -mi
+|-
+! rowspan="3" | 3rd person
+! after -e
+| rowspan="3" | -n
+| -alu
+| -atel
+| ø
+|-
+! after -a/-o
+| -ialu
+| -iatel
+| -i
+|-
+! after -i/-u
+| -ialu
+| -latel
+| -l
+|}
+
+These classes are quite rigid and if an inalienable noun, semantically, can be alienated it would still have to be expressed using the inalienable construction.
+
+Alienable possessions can be split into further subclasses represented by the different possessive constituent that the noun takes. These also have a semantic correspondence indicating the relationship between the possessed noun and the possessor.
+
+*A-n 'his/her/its (to eat); 'intended specially for him/her/it'; 'specially characteristic of him/her/it'
+*Emo-n 'his/her/its (to drink, to wear, to use domestically)'
+*Ese-n 'his/her (owned as something that one has planted, as an animal one has reared, or as something kept on one's own land)'
+*One-n 'his/her/its (in all other kinds of possession)'
+
+These subclasses are not as rigid and a noun can be used with different possessive constituent according to its use.
+
+When the possessed noun isn't a pronoun, the third person singular possessive suffix is attached to the possessed noun, which is then followed by the possessor noun.
+
+{{interlinear|indent=2
+|Ani emo-n ehon
+|coconut POSS:POT-3SG child 
+|'child's drinking coconut'}}
+
+If the possessed noun is inalienable, the third person singular suffix attaches directly to the noun with the possessor noun following.
+
+{{interlinear|indent=2
+|Vati-n ehon
+|head-3SG child 
+|'child's head'}}
+
+No morpheme of any kind can intervene between a possessive suffix and the possessed noun in this construction.
+
+====Nouns====
+There are five subtypes of nouns in Paamese. The first are individual names of people or animals, that is of some particular person or animal. For example, Schnookims or Fido rather than cat or dog. Individual names are cross-referenced on the verb in object position with the same suffix used for pronouns (-e/-ie), rather than the suffix used for non-proper objects (-nV).
+
+=====Location nouns=====
+There are two kinds of location nouns: relative and absolute. The relative nouns are a closed class of ten words with meanings such as above or nearby. The absolute nouns are an open class and refer to some specific location. Location nouns generally occur in the spatial case. Unlike all other nouns, in this case they take a zero marking rather than the preposition 'eni'. Relative location nouns are distinguished grammatically from the absolute location nouns on the basis that they can freely enter into prepositionally linked complex nominal phrases while the absolute nouns cannot.
+
+=====Time nouns=====
+Time nouns are distinguished from other nouns grammatically on the basis that they can only be in the oblique or relative case. Like location nouns, they come in two types. The first can only receive a zero marking in the oblique case, while the second can marked with either a zero marking or with the prepositions eni or teni.
+
+=====Descriptive nouns=====
+Descriptive nouns are marginal members of the noun category. Semantically, they describe some property or quality attributed to something, and grammatically they usually behave like adjectives, that is they occur as adjuncts in a copular verb phrase. However unlike adjectives they do occasionally appear in distinctly nominal slots such as in the subject or object position to a verb. Further, unlike an adjective, they cannot simply follow a head noun as an adjunct.
+
+=====Common nouns=====
+Common nouns include nouns that do not fit into any of the above noun categories. They are characterized grammatically as not having any of the special grammatical restrictions that apply to the other nouns, and also by the verb taking the non-proper suffix (-nV) when a common noun is in the object position. Semantically, they include anything that can be considered alienable or inalienable.
+
+===Verb phrases===
+
+Paamese demonstrates extensive [[inflectional morphology]] on verbs, distinguishing between a number of different [[linguistic modality|modal categories]] that are expressed as prefixes. Verb phrases in Paamese are distinguishable as they have as their head as member of the class of verbs followed by its associated verbal adjuncts and modifiers.
+
+====Verb roots====
+The verb root form is bounded on the left by subject-mood prefixes and on the right by inflectional suffixes. The root itself differs in form according to the nature of the environment it occurs in. Verb roots fall into one of six different classes according to the ways that the initial segment inflects. This inflection is demonstrated in the following table.
+		
+{| class="wikitable"
+|-
+! Class
+! A !! B !! C !! D
+|-
+! I
+| t- || t- || r- || d-
+|-
+! II
+| k- || k- || k- || g-
+|-
+! III
+| k- || Ø- || k- || g-
+|-
+! IV
+| h- || h- || v- || v-
+|-
+! V
+| Ø- || Ø- || Ø- || mu-
+|-
+! VI
+| Ø- || Ø- || Ø- || Ø-
+|}
+
+Each of the four root forms denotes a specific set of morpho-syntactic environments;
+*A
+**as the second part of a compound noun
+*B
+**in all affirmative [[Irrealis mood|irrealis moods]] of the verb
+**when there is some preceding derivational morpheme
+**when there is no preceding morpheme and the verb carries the nominalizer –ene
+*C
+**as an adjunct to a verb phrase head
+*D
+**in the [[realis mood]] of the verb
+**in the negative form of the verb
+
+A verb is entered into the lexicon in its A-form.
+
+Transitive verbs can be further subdivided into classes according to the variation of the final segment of the root:
+
+{| class="wikitable"
+|-
+! Class
+! X
+! Y
+! Z
+|-
+! 1
+| -e
+| -a
+| -aa
+|-
+! 2
+| -o
+| -a
+| -aa
+|-
+! 3
+| -a
+| -a
+| -aa
+|-
+! 4
+| -V
+| -V
+| -V
+|}
+
+*X
+**word finally
+**before the common object cross reference suffix –nV
+**before a reduplicated part of a word
+*Y
+**before bound object pronouns
+**before the common object cross-reference suffix –e/-ie
+*Z
+**before the partitive suffix –tei
+**before the nominalizing suffix –ene
+
+====Inflectional prefixes====
+Inflectional prefixes attach onto the verb phrase head in the following order:
+
+*Subject marker + mood marker + negative marker + stem
+
+The syntactic position of the verb phrase head can be defined by the fact that is the only obligatorily filled slot in the phrase.
+
+The subject and mood prefixes are normally clearly distinguishable morphologically, however there is morphological fusion in some conjunctions of categories producing portmanteau morphemes that mark both subject and mood.
+
+=====Subject prefixes=====
+The subject constituent cross-references for the person and number of the subject and also expresses the mood.
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | na-
+| malu-
+| matu-
+| ma-
+|-
+! inclusive
+| lo-
+| to-
+| ro-
+|-
+! colspan="2" | 2nd person
+| ko-
+| mulu-
+| mutu-
+| mu-
+|-
+! colspan="2" | 3rd person
+| ø
+| lu-
+| telu-
+| a-
+|}
+
+=====Mood prefixes=====
+*Realis: ø
+*Immediate: va-
+*Distant: portmanteau
+*Potential: na-
+*Prohibitive: potential +partitive suffix -tei
+*Imperative: portmanteau
+
+{| class="wikitable"
+|+ Distant portmanteau subject-mood prefixes
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | ni-
+| male-
+| mate-
+| mahe-
+|-
+! inclusive
+| lehe-
+| tehe-
+| rehe-
+|-
+! colspan="2" | 2nd person
+| ki-
+| mele-
+| mete-
+| mehe-
+|-
+! colspan="2" | 3rd person
+| he-
+| lehe-
+| tele-
+| i-
+|}
+
+Imperative portmanteau subject-mood prefixes are as follows:
+
+*Sg: ø-
+*Dl: lu-
+*Pcl: telu-
+*Pl: alu-
+
+=====Negation=====
+Negation in Paamese is marked by the [[prefix]] -ro, which is added between subject markers and the root form of the [[verb]], affirmative constructions are marked by the absence of a [[morpheme]] in this position. Semantically, the negative construction can be used with both [[realis]] and [[irrealis]] verbs; the former is used to express that the speaker denies the fact that an event is real and the latter expresses that the speaker does not expect the event to become real. Because of this, the negative in Paamese is incompatible with [[imperative mood|imperative]], prohibitive and potential moods. This is due to the fact that these moods, despite being irrealis, do not express any form of expectation that the event will become real from the speaker. There are two distinct constructions of negation: the [[partitive]] and the non-partitive. These constructions differ in that the partitive takes the partitive suffix -tei obligatorily, while non-partitive constructions only take this suffix optionally.
+====== Partitive negative ======
+The partitive negative is the most common form of negation in everyday speech. It is used as the negative forms of:
+
+; Transitive verbs with non-generic objects
+{{interlinear|indent=2
+|Kai rongadei veta 
+|3SG 3SG.real.neg.eat.PTV breadfruit
+|He didn't eat the breadfruit}}
+
+The use of the partitive in these examples expresses that a non-generic object is entirely unaffected by an event, rather than being only partially unaffected (the example above describes the breadfruit being entirely uneaten, as opposed to only some remaining uneaten).
+
+; Any intransitive verb
+{{interlinear|indent=2
+|Inau naromesaitei
+|1SG 1SG.REAL.NEG.sick.PTV
+|I am not sick}}
+
+Using the partitive to express intransitive verbs acts to express that the state or event is completely unachieved rather than being partially achieved.
+
+====== Non-partitive negative ======
+The non-partitive negative is used to as a negator of transitive verbs with generic objects such as:
+
+{{interlinear|indent=2
+|Letau kail aropipile pi
+|woman PL 3PL.real.neg.REDUP.play marbles
+|Women never play marbles}}
+
+{{interlinear|indent=2
+|Lohon kail naromumuas kail
+|child PL 1SG.REAL.NEG.REDUP.hit 3PL
+|I never hit children}}
+
+The above examples are also able to be expressed using the partitive negative construction as seen in the below example:
+
+{{interlinear|indent=2
+|Lohon kail naromumuastei kail
+|child PL 1SG.REAL.NEG.REDUP.hit.PTV 3PL
+|I never hit children}}
+
+However, this construction has no apparent change in meaning to non-partitive constructions.
+
+====Inflectional suffixes====
+There are three sets of inflectional suffixes: those expressing bound pronominal objects, those expressing the common-proper marking of a free form object, and that which marks the verb as being partitive.
+
+=====Bound pronominal objects=====
+A singular pronominal object can be expressed as a suffix. There are two sets of bound object markers.
+
+{| class="wikitable"
+|-
+! 
+! I
+! II
+|-
+! 1st person
+| -nau
+| -inau
+|-
+! 2nd person
+| -ko
+| -iko
+|-
+! 3rd person
+| -e
+| -ie
+|}
+
+The first set is used with the greatest number of verbs, the second set is used only with roots ending in –e and those belonging to Class IV (see above). Class I verbs cannot take the first person singular bound object, although they can take the second and third person objects.
+
+=====Common-proper objects=====
+When a transitive verb is followed by a free form object, this is cross-referenced on the verb according to whether it is common or proper with certain phonological categories of verb stems. When the object is a name or a pronoun, this is marked on certain verbs by the suffix –i/-ie. When the verb has a common object, this is cross-referenced with the suffix –nV
+
+====Reduplication====
+[[Reduplication]] has a fairly wide range of semantic functions in Paamese and can in some cases even change the class which a form belongs. When a verb is reduplicated, the new verb can differ semantically from its corresponding un-reduplicated form in that it describes an event that is not seen as having a spatial or temporal setting or a single specific patient. When a numeral verb is reduplicated, the meaning is that of distribution. Reduplication can occur in a number of ways: it can reduplicate just the initial syllable, the initial two syllables, or the final two syllables with no consistent semantic difference between these three types.
+
+====Adjuncts====
+A verb phrase can contain one or more adjuncts that always follow the head of the verb phrase. All of the inflectional suffixes above attach onto the last filler of the adjunct slot and, if there is no adjunct, onto the verb phrase head. There are two different types of adjuncts: tightly bound and loosely bound. A tightly bound adjunct must always be followed by the inflectional suffixes, as no constituent can intervene between it, and the verb phrase head. Tightly bound adjuncts include prepositional and verbal adjuncts and adjectival adjuncts to a non-copula verb phrase head. A loosely bound adjunct can have inflectional suffixes attached to either the final adjunct or the verb phrase head. All adjuncts to the copula verb, nominal adjuncts in the 'cognate object' construction, and modifiers are loosely bound. The 'cognate object' construction is one in which there is an intransitive verb in the position of the head and a loosely bound nominal phrase adjunct following the head. The transitivity of the final adjunct determines the transitivity of the entire verb phrase.
+
+=====Serial verb construction=====
+
+By far the most common adjunct is a verb stem itself; this construction is called a [[serial verb construction]]. In this construction, prefixes attach to the head and suffixes to the final constituent of the adjunct slot, thus marking this a tightly bound adjunct. It is not often possible to predict the meanings of serial verbs in Paamese and there are a large number of verbal adjuncts which do not occur as heads themselves.
+
+===Clauses===
+
+====Declarative clauses====
+There are three types of morphosyntactic relationship between phrase-level constituents:
+* '''(NP)(VP)''' A clause may contain one or more NP. The NPs may be subjects, objects, prepositional objects, or a bound complement.
+* '''(NP)(NP)''' NPs may relate to each other as part of a prepositional construction or the bond complement construction.
+* There is also a third type that holds between modifiers and other constituents.
+
+====Yes/no questions====
+There are four types of yes/no questions.
+
+=====Intonation questions=====
+This takes the syntactic form of a declarative. However, while a declarative typically ends in falling intonation, a rise-fall turns the clause into a question.
+
+=====Opposite polarity questions=====
+This takes the form of a semantically negative declarative clause. This is used as a polite way of asking permission for something.
+
+=====Tag questions=====
+This takes the form of a declarative clause with the tag "aa" placed at the end. This takes a sharply rising intonation.
+
+=====Opposite polarity tag questions=====
+There are two different types of opposite polarity tag, "vuoli" and "mukavee". There is no appreciable difference in meaning between these two forms.
+
+====Content questions====
+These take the form of a declarative clause, but insert one of the following words into the syntactic slot that information is being requested about:
+*'''asaa''' when asking about nouns with non-human reference
+*'''isei''' when asking about nouns with human reference
+*{{lang|pma|'''kavee'''|italic=no}} when asking about location nouns, or which of a number on non-human nouns
+*'''nengaise''' when asking about time nouns
+
+== Demonstratives and spatial deictics ==
+There are many different ways to express the spatial deictics of Paamese. This is done through the use of morphemes affixed to words in order to express meaning. However, in some cases the morphemes are free and unbound from the words.
+
+One interesting feature in Paamese is the morpheme ''-ke'', a proximate function.<ref name=":0">{{Cite book|last=1954-2005.|first=Crowley, Terry|url=http://worldcat.org/oclc/781582733|title=The Paamese language of Vanuatu|date=1982|publisher=Department of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0-85883-279-8|pages=222–229|oclc=781582733}}</ref> In some cases, the proximate ''-ke'' is deleted when something follows it over. This applies only grammatically and not lexically.
+
+However, the demonstrative function ''-ke'' has not undergone this deletion, indicating that it is distinct in both meaning and function to the ''-ke'' which has been deleted.
+
+It is important to note that when considering the deleted ''-ke'' in the Paamese language, the deletion must be considered as a rule before the proximate ''-ke'', so as not to subsequently de-syllabify the proximate ''-ke''.<ref name=":1">{{Cite book|last=1954-2005.|first=Crowley, Terry|url=http://worldcat.org/oclc/781582733|title=The Paamese language of Vanuatu|date=1982|publisher=Department of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0-85883-279-8|pages=41|oclc=781582733}}</ref>
+
+This process does not seem to have occurred with any other morphemes relating to demonstratives.
+
+=== Demonstrative pronouns ===
+
+==== Ke and Neke ====
+''-ke'' is a proximate deictic, the function of which is to locate an activity or participant in some event in the spatial proximity of the speaker or in temporal space at the moment of speaking.<ref name=":0" />
+
+In the following example, ''-ke'' is used to convey spatial proximity.<ref name=":0" />
+
+{{interlinear|indent=2|abbreviations=PROX:proximal
+|top= Asāk?
+|Asaa{{=}}ke
+|What.PROX
+|What's this?}}
+
+It can also be used to convey temporal immediacy;<ref name=":0" />
+
+{{interlinear|indent=2|abbreviations=PROX:proximal; CONST:construct suffix
+|top= Redemien onen ulumatu kemul mūmoni kailek
+|Re+demi+ene One+nV ulumatue Ke+mule Muumo+ni+e Kaile{{=}}ke
+|REDUP.think.NOM POSS.man.CONST {old man} SUB.3SG.REAL.exist 3SG.REAL.do.TR.3SG PL.PROX
+|These were the ideas of the old man who was doing it.}}
+
+The clitic ''-neke'' is in the opposite position to ''-ke'' and expresses distance rather than proximity. -''neke'' marks an activity or someone engaging in an activity that is not within spatial proximity to the speaker.<ref name=":0" />
+
+For example;<ref name=":0" />
+
+{{interlinear|indent=2
+|top= Asānek?
+|Asaa{{=}}neke
+|What.DIST
+|What's that?}}
+
+==== Muko ====
+''-ke'' and ''-neke'' also have an exceptional relationship with the verb ''muko''. This verb an exception because it requires an association with either ''-ke'' or ''-neke''. Muko becomes a deictic verb and expresses how an event is perceived.<ref name=":0" />
+
+For example;<ref name=":0" />
+{{interlinear|indent=2|abbreviations=ADD:additional
+|top= Kosa romukteimunenek
+|Kosaa Ro+muko+tei{{=}}mune{{=}}neke
+|Now 3SG.REAL.thus.PTV.ADD.DIST
+|It's not like that anymore}}
+
+This can be reinterpreted as 'now, it is not thus'. The ''muko'' meaning thus/thusly, but only when in contact with the clitics ''-ke'' and ''-neke''.
+
+=== Demonstrative modifiers ===
+
+==== Eni ====
+The spatial case is marked by a preposition ''-eni'', with some exceptions explained below. ''-eni'' represents a number of different semantic roles relating to the orientation of something in its space.<ref name=":2">{{Cite book|last=1954-2005.|first=Crowley, Terry|url=http://worldcat.org/oclc/781582733|title=The Paamese language of Vanuatu|date=1982|publisher=Department of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0-85883-279-8|pages=205–207|oclc=781582733}}</ref> When relating a noun phrase to a verb phrase these are;
+
+# Where an event takes place<ref name=":2" />
+# The place to where a motion occurs<ref name=":2" />
+# The location a motion comes from<ref name=":2" />
+# The group from which something is referred to<ref name=":2" />
+
+An example of the last one;<ref name=":2" />
+{{interlinear|indent=2|abbreviations=PROX:proximal; SP:spatial case
+|top= Alesi tēsav en vakili kailek
+|A+lesi+e teesavo eni vakilii Kaile{{=}}ke
+|3PL.REAL.see.3SG 3SG.REAL.different SP Canoe PL.PROX
+|It looked different from these canoes}}
+
+==== Ke and Neke ====
+The deictic modifier ''-ke'' can also be used with demonstrative modifiers, not just pronouns.
+
+For example;<ref name=":0" />
+{{interlinear|indent=2|abbreviations=PROX:proximal
+|top= Aimok onak
+|Aimo{{=}}ke Ona+ku
+|House.PROX POSS.man.1SG
+|This house is mine}}
+
+The ''-ke'' is used in the same fashion as when it is connected with a modifier, in this case with ''aimo'' (house). It once again has the ability to indicates the speaker's proximity to that which the utterance is about.
+
+''-ke'' marks proximity as well as time and space, when seen in discourse.<ref name=":0" /> The ''-ke'' is the marker for the noun phrase in discussion.
+
+For example;<ref name=":0" />
+{{interlinear|indent=2|abbreviations=PROX:proximal; ADD:additional; PCL:paucal; 3PCL:third person, paucal
+|top= Asuv kailtekul teluvāsuk telules tiser tāmun mita
+|Asuvo Kaitelu{{=}}ke Telu+vaa{{=}}suko Telu+lesi Tiisere Taa+mune miitaa
+|chief PCL.PROX 3PCL.REAL.go.SUB 3PCL.REAL.see Teacher one.ADD {3SG.REAL.come down}
+|then these chiefs went and saw another teacher who had come}}
+
+The suffix ''-neke'' functions for modifiers the same as is does for pronouns seen above, referring to distance rather than proximity.
+
+For example;<ref name=":0" />
+{{interlinear|indent=2
+|top= Molatin kailenek
+|Molatine Kaile{{=}}neke
+|Person PL.DIST
+|Those people}}
+
+=== Demonstrative adverbs ===
+
+==== Eni- ====
+The spatial case in Paamese is marked by the preposition ''eni-''.<ref name=":3">{{Cite book|last=1954-2005.|first=Crowley, Terry|url=http://worldcat.org/oclc/781582733|title=The Paamese language of Vanuatu|date=1982|publisher=Department of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0-85883-279-8|pages=183–184|oclc=781582733}}</ref> However, when a case-marked noun phrase is deleted or shifted, the spatial becomes marked by the suffix ''-ene'' and attaches to whatever constituent comes before the now-changed noun phrase.
+
+Such as;<ref name=":3" />
+{{interlinear|indent=2|abbreviations=SP:spatial case
+|top= Aut keatahas vaen kai mūsil kati lūvā nautenek
+|aute ke+atahasu vaa+ene kaie muusili kati+e luu+vaa n+aute{{=}}neke
+|Place SUB.sow 3SG.REAL.go.SP 3SG 3SG.REAL.follow intense.3SG 3DU.REAL.go LOC.place.DIST
+|Wherever the sow went, he followed her there}}
+
+As analyzed by Terry Crowley, ''eni-'' has a large range of syntactic functions and abilities. It can mark the referential, oblique, spatial, purposive and causal cases. From ''eni'', the clitics ''-ni'' and ''-tei'', which have the same function, can be derived.<ref>{{Cite book|last=1954-2005.|first=Crowley, Terry|url=http://worldcat.org/oclc/781582733|title=The Paamese language of Vanuatu|date=1982|publisher=Department of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0-85883-279-8|pages=192|oclc=781582733}}</ref>
+
+The spatial case marker ''eni'' is also used for place adverbs to express a spatial relationship to something else.<ref name=":2" /> ''Eni'', in this instance, is an unbound and free morpheme that does not affix in any way to the word it is marking, but instead follows the word in order to mark it as an adverb. 
+
+For example;<ref name=":2" />
+{{interlinear|indent=2|abbreviations=SP:spatial case
+|top= naim en sukul
+|naimo eni sukulu
+|inside SP church
+|Inside the church}}
+
+{{interlinear|indent=2|abbreviations=SP:spatial case
+|top= nesa en hau
+|nesaa eni hauo
+|above SP hill
+|On top of the hill}}
+
+==== Place adverbs ====
+Some examples of place adverbs in Paamese are;<ref>{{Cite book|last=1954-2005.|first=Crowley, Terry|url=http://worldcat.org/oclc/781582733|title=The Paamese language of Vanuatu|date=1982|publisher=Department of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0-85883-279-8|pages=61|oclc=781582733}}</ref>
+{| class="wikitable"
+!Paamese
+!English
+|-
+|Naimo
+|Inside
+|-
+|Nesaa
+|Up/above/on top
+|-
+|Netano/dano
+|Down/below
+|-
+|Halee
+|Outside
+|}
+
+===== N(a)- =====
+The prefix {{lang|pma|N(a)-|italic=no}} is in some cases used to change a noun into a place adverb;<ref name=":4">{{Cite book|last=1954-2005.|first=Crowley, Terry|url=http://worldcat.org/oclc/781582733|title=The Paamese language of Vanuatu|date=1982|publisher=Department of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0-85883-279-8|pages=84|oclc=781582733}}</ref>
+{| class="wikitable"
+!Adverb
+!Surface Form
+!English
+!Noun Stem
+!English
+|-
+|Naimo 
+|Naim
+|Inside
+|Aim/aimo
+|House 
+|}
+This is not always the case in Paamese. {{lang|pma|N(a)-|italic=no}} can also combine to create phrases with entirely new meaning giving information about location in relation to a specific place, usually directionally.<ref name=":4" />
+
+Some further examples are;<ref name=":4" />
+{| class="wikitable"
+!Location
+!English
+!Noun Stem
+!English
+|-
+|Naveien
+|One the beach
+|Veien/veiene
+|Beach
+|-
+|Natas/das
+|In the sea
+|Atas/atasi
+|Sea
+|}
+
+==Vocabulary==
+Kinship Terms:
+
+*'''Tamen''' - father
+*'''Latin''' - mother
+*'''Auve''' - grandparent
+*'''Natin''' - son/daughter
+*'''Tuak''' - brother of a man, sister of a woman
+*'''Monali''' - brother of a woman
+*'''Ahinali''' - sister of a man
+*'''Uan''' - brother/sister in law
+
+[[Bislama]] contributes to the vocabulary of Paamese, especially for new kinds of technology, items foreign to local Paamese, and for the slang of the younger generation. Some examples of these follow:
+
+{| class="wikitable"
+|-
+! Bislama
+! Paamese
+! Gloss
+|-
+| Busi (Fr. Bougie)
+| Busi
+| Spark plug
+|-
+| Botel (E. Bottle)
+| Votel
+| Bottle
+|-
+|Kalsong (Fr. Caleçon)
+|Kalsong
+|Men's underpants
+|}
+
+==Examples==
+*{{lang|pma|More tuo! Kovahāve?|italic=no}} - Hello friend! Where are you going?
+*{{lang|pma|Keik komuni nanganeh kovī aek vasī vāsi vārei.|italic=no}} - You were drunk out of your mind when you were drinking yesterday.
+
+==References==
+{{Reflist}}
+
+*{{Cite book
+| last = Crowley
+| first = Terry
+| title = The Paamese language of Vanuatu
+| publisher = Pacific linguistics
+| year = 1982
+| location = Canberra, Australia
+| isbn = 0-85883-279-8
+}}
+
+*{{cite book
+| last=Crowley
+| first=Terry
+| editor1-first=Hilary
+| editor1-last=Chappell
+| editor2-first=William
+| editor2-last=McGregor
+| title= The Grammar of Inalienability - A Typological Perspective on Body Part Terms and the Part-Whole Relation
+|publisher=Mouton de Gruyter
+|year=1996
+|pages=383–432
+|chapter= Inalienable possession in Paamese grammar
+|isbn=3-11-012804-7
+}}
+
+*{{cite book
+| last=Crowley
+| first=Terry
+| title=A dictionary of Paamese
+| publisher=Pacific Linguistics
+| year=1992
+| location=Canberra, Australia
+| isbn=0-85883-412-X
+}}
+
+==External links==
+* [http://www.cedarcorp.co.nz/paama/step1.html Cedarcorp Paama information]
+* Materials on Karnai are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]].
+* [http://catalog.paradisec.org.au/collections/TC1 An open access collection of Paamese recordings] made by [[Terry Crowley (linguist)|Terry Crowley]] are available through [[Paradisec]]
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Paama–Ambrym languages]]
+[[Category:Languages of Vanuatu]]

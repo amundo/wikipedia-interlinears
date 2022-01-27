@@ -1,0 +1,89 @@
+{{Infobox language
+|name     = Serui Malay
+|altname  = 
+|region   = [[Yapen Islands Regency]], [[Waropen Regency]]
+|speakers = 
+|date     = 
+|ref      =
+|coordinates  = {{coord|2|S|136|E||display=inline}}
+|pushpin_map  = Southeast Asia
+|familycolor  = Creole<!--?-->
+|fam1         = [[Malay trade and creole languages|Malay Creole]]
+|fam2         = [[East Indonesian Malay]]
+|fam3         = [[Papuan Malay]]
+|iso3         =
+|isoexception = dialect
+}} 
+'''Serui Malay''' is a variety of the [[Papuan Malay]] language native to parts of the Indonesian province of [[Papua (province)|Papua]]. It is spoken in the city of [[Serui]] and other places on the [[Yapen Islands]], as well as in nearby coastal areas of the New Guinea mainland.
+
+Though it is likely that Malay was used to an extent in previous centuries, its  widespread use and its current form date to the 20th century. Serui Malay is generally referred to as ''Bahasa Indonesia'' by its speakers, but it diverges from Standard [[Indonesian language|Indonesian]] in a number of ways.{{sfn|van Velzen|1995|p=313}} It has similarities to [[Ambon Malay]],{{sfn|Kluge|2014|p=21}} but van Velzen considers it to be more closely related to [[Ternate Malay]].{{sfn|van Velzen|1995|p=315}}
+
+== History ==
+A large number of local languages are spoken in the area, and the need for a common [[lingua franca]] has been underlined by the centuries-old traditions of inter-group interaction in the form of slave-hunting, adoption, and intermarriage.{{sfn|van Velzen|1995|p=312}}<!--not sure if the link is made explicitly in the source-->
+It is likely that Malay was first introduced by the {{link-interwiki|Biak people|ru|Биак (народ)|lt=Biak}}, who had contacts with the [[Sultanate of Tidore]], and later, in the 19th century, by traders from China and [[South Sulawesi]]. However, Malay was probably not widespread until the adoption of the language by the Dutch missionaries who arrived in the early 20th century and were then followed in this practice by the Dutch administrators.{{sfn|van Velzen|1995|p=314}} The spread of Malay into the more distant areas was further facilitated by the {{lang|nl|Opleiding tot Dorpsonderwizer}} ('Education for village teacher') programme; it tended to attract a lot of Waropen men, which has led to the influence of the [[Waropen language]] on the local Malay varieties.{{sfn|van Velzen|1995|p=313}}
+
+== Phonology ==
+People from West [[Yapen]] (Woi, Ansus, Pom) neutralise word-final nasals to [{{IPA-link|ŋ}}]. Those from other ethnic groups do not have {{IPA|[ŋ]}} because the phoneme is absent from their native languages. The distinction between /r/ and /l/ is clearer in the speech of educated people. The palatal stops of Indonesian are not often distinguished by uneducated speakers, who substitute {{IPA|/d͡ʒ/}} with {{IPA|/di/}}, and {{IPA|/t͡ʃ/}} with {{IPA|/ti/}}, {{IPA|/si/}} or {{IPA|/t/}} (Indonesian {{IPA|/ɡəred͡ʒa/}} -> {{IPA|/geredia/}}; {{IPA|t͡ʃəŋkeh}} -> {{IPA|/sieŋge/}} or {{IPA|/sieŋke/}}).{{sfn|van Velzen|1995|p=316}} Word-finally, voiceless stops and {{IPA|/h/}} are dropped: {{IPA|/sudah/}} -> {{IPA|/suda/}}, {{IPA|/takut/}} -> {{IPA|/tako/}}; {{IPA|/k/}} may or may not be dropped: {{IPA|/balik/}} -> {{IPA|/bale/}}, {{IPA|/sibuk/}} -> {{IPA|/sibuk/}}. {{IPA|/f/}} is consistently distinguished, unlike in many other varieties of Papuan Malay.{{sfn|van Velzen|1995|pp=317–18}}
+
+Indonesian schwa /{{IPA-link|ə}}/ has various realisations, sometimes accompanied by a change in the position of stress: as {{IPA|/i/}} ({{IPA|/pərˈɡi/}} -> {{IPA|/ˈpiɡi/}}), as {{IPA|/a/}} ({{IPA|/səˈnaŋ/}} -> {{IPA|/saˈnaŋ/}}), as {{IPA|/o/}} ({{IPA|/pəlˈuk/}} -> {{IPA|/ˈpolo/}}), as {{IPA|/e/}} ({{IPA|/t͡ʃəˈpat/}} -> {{IPA|/t͡ʃeˈpat/}}), or dropped altogether ({{IPA|/təˈrus/}} -> {{IPA|/ˈtrus/}}).{{sfn|van Velzen|1995|pp=319–20}} Indonesian {{IPA|/ai/}} and {{IPA|/au/}} correspond to {{IPA|/e/}} and {{IPA|/o/}} respectively: {{IPA|/pakai/}} -> {{IPA|/pake/}}, {{IPA|/pulau/}} -> {{IPA|/pulo/}}.{{sfn|van Velzen|1995|pp=318–19}}
+
+== Grammar ==
+
+The morphology is more limited than in standard Indonesian. For example, [[passive voice]] or [[object focus]] are not marked on the verb, and verb bases are generally used without [[affix]]es.{{sfn|van Velzen|1995|pp=321–23}} A smaller number of derivational affixes are used than in Indonesian. The productive verbal prefixes are the following:{{sfn|van Velzen|1995|pp=321, 323–325}}
+*{{lang|pmy|ba-/bar-}} (corresponding to Indonesian {{lang|id|ber-}}): {{lang|pmy|isi}} 'contents' -> {{lang|pmy|baisi}} 'contain', {{lang|pmy|ana}} 'child' -> {{lang|pmy|barana}} 'have children';
+*{{lang|pmy|ta-/tar-}} (corresponding to Indonesian {{lang|id|ter-}}): {{lang|pmy|toki}} 'beat' -> {{lang|pmy|tatoki}} 'beaten'
+*{{lang|pmy|maN-}} (Indonesian {{lang|id|meN-}}). Used rarely: {{lang|pmy|lawan}} 'versus' -> {{lang|pmy|malawan}} 'be opposed to'
+*{{lang|pmy|baku-}} (absent from Standard Indonesian, but available in Ambonese, Ternatan and Manadonese Malay). It has a reciprocal meaning: {{lang|pmy|pukul}} 'beat' -> {{lang|pmy|bakupukul}} 'beat each other', {{lang|pmy|mayari}} 'seduce' -> {{lang|pmy|bakumayari}} 'seduce each other';
+*{{lang|pmy|paN-}}, derives intransitive verbs: {{lang|pmy|malas}} 'unwilling' -> {{lang|pmy|pamalas}} 'not feel like'.
+Reduplication is also used, with several meanings, both with nouns and with verbs: {{lang|pmy|tatawa}} 'laugh' -> {{lang|pmy|tatawa-tatawa}} 'laugh repeatedly', {{lang|pmy|ronda}} 'stroll' -> {{lang|pmy|ronda-ronda}} 'stroll around', {{lang|pmy|ana}} 'child' -> {{lang|pmy|ana-ana}} 'children', {{lang|pmy|lap}} 'swab' -> {{lang|pmy|lap-lap}} 'cleaning rag'.{{sfn|van Velzen|1995|pp=321, 322, 325}}
+
+Most speakers do not distinguish between [[Clusivity|inclusive and exclusive]] first person ({{lang|id|kami}} and {{lang|id|kita}} in Standard Indonesian), even though this distinction is present in most regional languages of the area.{{sfn|van Velzen|1995|p=326}}
+
+Possession is expressed using {{lang|pmy|punya}} (or its shortened form {{lang|pmy|pu}}):{{sfn|van Velzen|1995|pp=327–28}}
+{{interlinear|indent=3|lang=pmy
+|sa pu spatu
+|I {{gcl|POSS|possessive}} shoe
+|'my shoe(s)'}}
+
+== Vocabulary ==
+Serui Malay diverges in a number of ways from Indonesian in its vocabulary. There are words that have extended or otherwise changed their meaning in comparison with Indonesian:{{sfn|van Velzen|1995|pp=328–30}}
+*{{lang|id|kumis}} means "moustache" in Standard Indonesian, but in Serui Malay it has developed a wider range of meanings: "moustache, beard, chest hair, sideboards"
+*{{lang|id|motor}} ("motor, motorcycle" in Indonesian) has similarly developed the meanings "motor, motor canoe, motorcycle, lungfish"
+*Indonesian {{lang|id|bunuh}} 'kill' corresponds to Serui Malay {{lang|pmy|bunu}}, which has developed the additional meaning "switch off"
+*{{lang|id|penngayu}} 'oar' is a noun in Indonesian, but in Serui Malay {{lang|pmy|panggayu}} it is a verb meaning 'paddle, row'; the very opposite change has occurred with the Indonesian verb {{lang|id|dayung}} 'row', which has become the noun {{lang|pmy|dayung}} 'oar'.
+
+There are many words in Serui Malay not found in Standard Indonesian:{{sfn|van Velzen|1995|pp=330–33}}
+*{{lang|pmy|bia}} 'shell' (cf. Indonesian {{lang|id|kerang}})
+*{{lang|pmy|tete}} 'grandfarther' (cf. Indonesian {{lang|id|kakek}})
+*{{lang|pmy|soa-soa}} 'iguana' (cf. Indonesian {{lang|id|biawak}})
+*{{lang|pmy|caparuni}} 'messy' (a loan from Ambonese Malay, differs from Standard Indonesian {{lang|id|berantakan}})
+*{{lang|pmy|rica}} 'chili pepper' (cf. Indonesian {{lang|id|lombok}})
+*{{lang|pmy|kaskado}} 'scabies' (cf. Indonesian {{lang|id|kudis}})
+*{{lang|pmy|lolaro/olaro}} 'mangrove trees' (cf. Indonesian {{lang|id|pohon bakau}})
+*{{lang|pmy|duri babi}} 'sea urchin' (cf. Indonesian {{lang|id|bulu babi}})
+*{{lang|pmy|molo}} 'skin diving'
+*{{lang|pmy|sema}} 'black magician'
+*{{lang|pmy|koming}} 'Papuan'<!--in source: 'reference term for all indigenous Irianese')-->
+*{{lang|pmy|tai yakis}} 'exclamation of resistance'
+*{{lang|pmy|mayari}} 'seduce'
+*{{lang|pmy|bilolo}} 'hermit crab'.
+
+Serui Malay has borrowed vocabulary from Dutch, Portuguese, other Malay varieties and regional languages:
+*{{lang|pmy|testa}} 'head' (from Portuguese {{lang|pt|testa}})
+*{{lang|pmy|kadera}} 'chair' (from Portuguese {{lang|pt|cadera}})
+*{{lang|pmy|spir}} 'muscle' (from Dutch {{lang|nl|spier}})
+*{{lang|pmy|firkan}} 'square' (from Dutch {{lang|nl|vierkant}})
+*{{lang|pmy|spok}} 'give someone a hard time' (from Dutch {{lang|nl|spook}})
+*{{lang|pmy|boswesen}} 'department of forestry' (from Dutch {{lang|nl|boswezen}}).
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+*{{cite thesis|last = Kluge| first = Angela Johanna Helene| year = 2014| title = A grammar of Papuan Malay|type = PhD|institution = Leiden University|series = LOT Dissertation Series 361| hdl = 1887/25849}}
+*{{cite book|last = Velzen| first = Paul van| chapter = Sone notes on the variety of Malay used in Serui and vicinity| pages = 311–43| title = Tales from a concave world : liber amicorum Bert Voorhoeve|editor1= Connie Baak |editor2=Mary Bakker |editor3=Dick van der Maij| year = 1995| isbn = 9073006066| publisher = Department of Languages and Cultures of South-East Asia and Oceania, Leiden University| ref = {{harvid|van Velzen|1995}} }}
+
+[[Category:Malay-based pidgins and creoles]]
+[[Category:Languages of Indonesia]]
+[[Category:Papua (province) culture]]
+[[Category:Yapen Islands]]

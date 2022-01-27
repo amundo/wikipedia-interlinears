@@ -1,0 +1,392 @@
+{{short description|Oceanic language of New Caledonia}}
+{{Infobox language
+  |name=Tîrî
+  |altname=Méa
+  |region=[[La Foa, New Caledonia]]
+  |speakers=600
+  |date = 2009 census
+  |ref = e18
+  |familycolor=Austronesian
+  |fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+  |fam3=[[Oceanic languages|Oceanic]]
+  |fam4=[[Southern Oceanic languages|Southern Oceanic]]
+  |fam5=New Caledonian – Loyalties 
+  |fam6=[[New Caledonian languages|New Caledonian]]
+  |fam7=[[Southern New Caledonian languages|Southern]]
+  |fam8=[[South Southern New Caledonian languages|South Southern]]
+  |fam9=Zire–Tiri
+  |iso3=cir
+|glotto=tiri1258
+|glottorefname=Tiri-Mea
+}}
+
+'''Tiri''' (Ciri, Tĩrĩ), or '''Mea''' (''Ha Mea''), is an [[Oceanic languages|Oceanic language]] of [[New Caledonia]].
+
+==Grammar==
+
+===Pronouns and person marking===
+Tîrî has two types of [[pronoun]]s: personal pronouns, which make reference to [[Grammatical person|person]], [[Grammatical number|number]] and [[Grammatical case|case]], and impersonal pronouns, which only have one respective form and are more restricted in their use (Osumi, 1995, p.&nbsp;38).
+
+Like all other [[Nominal (linguistics)|nominals]] in Tîrî, pronouns can occupy various positions throughout the [[Clause (grammar)|clause]] (Osumi, 1995, p.&nbsp;37). They may appear as the nominal [[Subject (linguistics)|subject]] of the verb, marked by the subject marker ''nrâ'' and [[Agreement (linguistics)|agreeing]] in person and number with the subject pronoun in the [[Predicate (grammar)|predicate]]; the [[Object (grammar)|object]] of a verb; the object of a preposition; or the [[Head (linguistics)|head]] of a predicate (Osumi, 1995, pp.&nbsp;37–38).
+
+When they appear within the verb [[phrase]], personal pronouns show agreement in person and number with the nominal subject that optionally follows the predicate (Osumi, 1995, p.&nbsp;38).
+
+{| class="wikitable"
+|+ Tîrî personal pronouns (Osumi, 1995, p.&nbsp;40)
+|-
+! colspan="3" | 
+! Free
+! Subject
+! Object/possessive
+|-
+! rowspan="3" | singular
+! colspan="2" | 1st person
+| nrô
+| u
+| rô
+|-
+! colspan="2" | 2nd person
+| nrü
+| ke
+| nrü
+|-
+! colspan="2" | 3rd person
+| nrî
+| nrâ
+| nrî
+|-
+! rowspan="4" | dual
+! rowspan="2" | 1st person
+! inclusive
+| haru
+| ru
+| ru
+|-
+! exclusive
+| komu
+| komu
+| komu
+|-
+! colspan="2" | 2nd person
+| kou
+| kou
+| kou
+|-
+! colspan="2" | 3rd person
+| nrorru
+| rru
+| rru
+|-
+! rowspan="4" | plural
+! rowspan="2" | 1st person
+! inclusive
+| hari
+| ri
+| ri
+|-
+! exclusive
+| kevi
+| kevi
+| kevi
+|-
+! colspan="2" | 2nd person
+| wiri
+| wiri
+| wiri
+|-
+! colspan="2" | 3rd person
+| nrorri
+| rri
+| rri
+|}
+
+Personal pronouns in Tîrî also mark listener [[clusivity]] in the first person non-singular, and are generally used for human referents (Osumi, 1995, p.&nbsp;39). The below example shows appropriate usage of the third person singular '''nrâ''' (not to be confused with the latter '''nrâ''', which is acting as a subject marker for the optional nominal subject '''toni''').
+
+{{interlinear|number=(1)
+|'''nrâ''' fi wai nrâ toni
+|3SG go already SM Tony
+|'Tony has gone.' (Osumi, 1995, p. 39)}}
+
+Although the third person pronoun can be used for non-human entities (while the first and second person pronouns generally only refer to humans), speakers tend to use it in its singular form even when there is more than one referent, as seen below (Osumi, 1995, p.&nbsp;39).
+
+{{interlinear|number=(2)
+|'''nrâ''' hô nrâ mêwe
+|3SG sing SM bird
+|'A bird (or birds) sang.' (Osumi, 1995, p. 39)}}
+
+As indicated in the table above, Tîrî pronouns change form depending on whether they are being used as subjective, objective or free forms, the latter encompassing a variety of other pronoun usages, such as pronouns that have been [[Topicalization|topicalized]] and occur sentence-initially, as seen below (Osumi, 1995, pp.&nbsp;39–40).
+
+{{interlinear|number=(3)
+|'''nrô''' u ta nrî u ta ô-nrî
+|1SG 1SG hit 3SG 1SG hit head-3SG
+|'Me, I hit him; I hit his head.' (Osumi, 1995, p. 40)}}
+
+While they are classified as pronouns as they fill the subject pronoun slot, Tîrî's two impersonal pronouns show less flexibility than personal pronouns. They do not show any distinction for person or number and occur only in their respective forms of ''hêrrê'' and ''va'', are unable to appear anywhere other than the subject pronoun position (the first element in the verb phrase), and are never followed by a nominal subject (Osumi, 1995, p.&nbsp;41).
+
+Speakers use ''hêrrê'' to refer to any number of unspecified entities when they do not wish to or are not concerned with specifying a referent as the [[Agent (linguistics)|agent]] of an action (Osumi, 1995, p.&nbsp;41), as in the example below.
+
+{{interlinear|number=(4)
+|'''hêrrê''' hôdrô mwâ
+|IMPN burn hut
+|'Someone burned the hut./The hut burned.' (Osumi, 1995, p. 41)}}
+
+This contrasts with the below example, which is more likely to be used by a speaker who wishes to imply that a particular person has committed the same act (Osumi, 1995, p.&nbsp;42).
+
+{{interlinear|number=(5)
+|nrâ hôdrô mwâ
+|3SG burn hut
+|'He burned the hut.' (Osumi, 1995, p. 42)}}
+
+While ''hêrrê'' is typically used to refer to humans, the impersonal pronoun ''va'' is used similarly to refer to non-human referents, though this is not always the case (Osumi, 1995, p.&nbsp;43). ''Va'' behaves much as the English pronouns ''it'' and ''that'' insofar as they can refer to both particular things (e.g. ''Did it bite you?''; ''What's that over there?'') as well as propositions (e.g. ''It's the truth.''; ''That's a lie.''), as demonstrated below (Osumi, 1995, p.&nbsp;43).
+
+{{interlinear|number=(6)
+|'''va''' re radio
+|IMPN ASS radio
+|'That must be a radio.' (Osumi, 1995, p. 43)}}
+
+{{interlinear|number=(7)
+|'''va''' see êrrê-havari
+|IMPN NEG contents-true
+|'It is not true.' (Osumi, 1995, p. 43)}}
+
+Subject pronouns may be used in conjunction with the [[Grammatical tense|tense]]-[[Grammatical aspect|aspect]] markers ''ei'' 'future' and ''a'' 'perfect, actual, definite', in which case a number of pronouns may change their phonological form (see the below example, in which the second person singular ''ke'' has been combined with ''a'') (Osumi, 1995, p.&nbsp;170).
+
+{{interlinear|number=(7)
+|'''ka''' hara (nraasi) wai
+|2SG.PERF eat (rice) already
+|'You have already eaten (rice).' (Osumi, 1995, p. 173)}}
+
+=== Possession ===
+Tîrî, like most [[Oceanic languages]], exhibits many types of [[possessive]] constructions, including possessive [[Preposition and postposition|prepositions]], possessive [[Classifier (linguistics)|classifier]]s and [[Bound form|bound-form]] [[noun]]s (Osumi, 1995, pp.&nbsp;144). Classic possessive constructions involve two [[Nominal sentence|nominals]] that indicate the [[referent]] of one is possessed by the other. Tîrî has two types of possessive relationships, [[inalienable possession]] and [[alienable possession]] (Osumi, 1995, pp.&nbsp;145). Inalienable possession describes an inherent relationship between two referents such as [[kinship]], while alienable possession describes a non-inherent relationship such as temporary ownership or voluntary association (Osumi, 1995, pp.&nbsp;145).
+
+{| class="wikitable"
+|+ Summary of Possession in Tîrî (Osumi, 1995, pp.&nbsp;155)
+|-
+! colspan="4" |Poessive morpheme
+|-
+| colspan="2" |Alienable Possession
+| colspan="2" |Inalienable Possession
+|-
+|Possessive Prepositions 
+|Possessive Classifiers
+|Bound/ location/ poss.classifier
+|Link                                  
+|}
+
+==== Alienable possession ====
+In Tîrî, alienable possession can occur in two ways. The first is when the noun possessed is followed by a possessive preposition and then by a [[pronominal]] or nominal processor (Osumi, 1995, pp.&nbsp;145). The second is when the [[noun]] possessed occurs in [[apposition]] with a possessive classifier (Osumi, 1995, pp.&nbsp;145).
+
+===== Possessive prepositions =====
+Prepositions are included in a closed set of grammatical words that are placed immediately before a [[noun phrase]] and express a [[syntactic]] relationship between the noun phrase and a predicate or another noun phrase (Osumi, 1995, pp.&nbsp;145).
+
+There are three possessive prepositional markers in Tiri: ''nrâ'', ''rre/rrê'', and ''ò'' and they occur between two nominals in the following structure.
+
+NP<sub>(possessed)</sub>       nrâ, rre/rrê, ò          NP<sub>(possessor)</sub> (Osumi, 1995, p.&nbsp;145).
+
+{| class="wikitable"
+|+ Tîrî Possessive prepositional morphemes (Osumi, 1995, p.&nbsp;145)
+|-
+!Possessive prepositional    
+!Meaning
+|-
+|nrâ    
+|[[Subject (grammar)|Subject]]/[[possessive]] [[Marker (linguistics)|marker]], ‘of’
+
+Temporary ownership or voluntary relationship
+|-
+|rre/rrê    
+|Variants of the same [[morpheme]], possessive marker, ‘of’ 
+Express personal possession
+|-
+|ò    
+|Possessive marker, ‘of’
+
+The use of fire for warming or cooking purposes  
+|}
+
+''nrâ'' functions as both a [[Subject (grammar)|subject]] and possessive marker when it precedes a noun phrase. As a possessive marker, it links the possessor to the preceding noun phrase, suggesting temporary possession (Osumi, 1995, p.&nbsp;145). In Tîrî, the majority of nouns can occur with ''nrâ.''
+
+{{interlinear|number=(9)
+|peci '''nrâ''' nrî
+|Paper POSS 3SG
+|‘his paper’ (Osumi, 1995, p. 145)}}
+
+The possessive marker variants ''rre/rrê'' are restricted to the nouns, ''mwâ'' ‘hut’, ''wâ'' ‘boat’ and ''ò'' ‘pot’ (Osumi, 1995, p.&nbsp;146).
+
+{{interlinear|number=(10)
+|mwâ '''rrê''' kevi
+|Hut POSS 1PL.EX
+|‘our (not including you) hut’ (Osumi, 1995, p. 146)}}
+
+The possessed noun phrases that can occur with prepositions ''ò'' are limited to ''nre'' ‘fire, firewood’ or [[Compound (linguistics)|compounds]] with ''nre'': ''mee-nre'' ‘habitation’, ''pwò-nre'' ‘touch’, and ''mwârrâ-nre'' ‘fire flame’ (Osumi, 1995, p.&nbsp;147). The possessive relationship expressed by ò is related to fire, with the purpose of warming oneself or cooking something.
+
+{{interlinear|number=(11)
+|nre '''ò''' nrü
+|Fire POSS 2SG
+|‘your fire’ (Osumi, 1995, p. 147)}}
+
+In these examples, the possessive prepositions, ''nrâ'', ''rrê'' and ''ò'' are between two nominals, as in the structure above.
+
+===== Possessive Classifiers =====
+Another type of alienability is in constructions where the possessed nouns occur in apposition with a possessive classifier. Possessive classifiers are always either bound to pronominal or nominal possessors and they function to determine the nature of possession rather than to classify it (Osumi, 1995, p.&nbsp;49). In Tîrî, unlike other languages, any noun can occur with a possessive classifier. They consist of the following: ''e-,'' ''ere-'', ''hwee-'', ''odho-'', ''hwiie-'', ''êê-'' and ''hêê-'' (Osumi, 1995, p.&nbsp;49).
+
+{| class="wikitable"
+|+ Table 3: Tîrî Possessive classifiers morphemes (Osumi, 1995, p.&nbsp;50)
+|-
+!'''Possessive classifiers'''     
+!'''Meanings'''    
+|-
+|''e-''    
+|Generally starches, to be eaten 
+|-
+|''ere- ''
+|Generally fruit, to be eaten 
+|-
+|''hwee-''    
+|General meat or egg, to be eaten
+|-
+|''odho-''    
+|Things to be drunk
+|-
+|''hwiie-''    
+|Things to be chewed
+|-
+|''êê-''    
+|Plants growing on possessor’s land, or to be planted 
+|-
+|''hêê-''    
+|Refers to something that belongs to the possessor by law or custom
+|}
+
+In Tîrî, the possessive classifier can be placed before or after the noun possessed, as seen below (Osumi, 1995, p.&nbsp;149).
+
+NP <sub>(possessed)</sub>        POSS.CLASSIFIER  NP <sub>(possessor)</sub>
+
+OR,
+
+POSS.CLASSIFIER NP <sub>(possessor)         </sub>             NP <sub>(possessed)</sub>
+
+Examples of the possessive classifier in between two NPs:
+
+{{interlinear|number=(12)
+|ppka '''hwee'''-nrî
+|pig meat-3SG
+|‘his pork’ (Osumi, 1995, p. 149)}}
+
+{{interlinear|number=(13)
+|arròò '''odho'''-beb
+|watch drink-baby
+|‘baby’s water’ (Osumi, 1995, p. 149)}}
+
+Examples of the possessive classifier preceding two NPs:
+
+{{interlinear|number=(14)
+|'''e'''-nrü u
+|food 2SG
+|‘your (food) yam’ (Osumi, 1995, p. 149)}}
+
+{{interlinear|number=(15)
+|'''ere'''-moo madre
+|fruit-man oranges
+|‘man’s oranges’ (Osumi, 1995, p. 149)}}
+
+==== Inalienable possession ====
+Nouns that occur with inalienable possession are generally ones whose referents have no independent existence but are related to an entity (Osumi, 1995, p. 152). In Tiri, inalienable possession is the [[juxtaposition]] of two nouns in the following structure:
+
+NP <sub>(possessed)</sub> – NP <sub>(possessor)</sub> (Osumi, 1995, p. 152).
+
+===== Bound-form nouns =====
+There are two types of bound-form nouns, bound nouns and link nouns. This class is inalienable as that the referents of the nouns are possessed in some inextricable way, for example, kinship and body parts.  In most cases, the possessor has no control over the possession.
+
+====== Bound nouns ======
+Bound nouns are those that either has possessive [[pronoun]] [[suffix]]es or are bound to a nominal possessor (Osumi, 1995, p. 59). They include nouns referring to kinship, body or plants or other inanimate parts, secretions or of the body or plant, personal attributes or properties and the effects or origins of human affairs (Osumi, 1995, p. 153).
+
+They can also be bound to another [[Root (linguistics)|root]] either noun or [[verb]], in compound constructions (Osumi, 1995, p. 59). For example of ''afiraa''  'wife', where it is bound to the [[Third-person singular|third person singular]] possessive ''nrî'':
+
+{{interlinear|number=(16)
+|toni nrâ sùveharru '''afiraa'''-nrî
+|Tony 3SG love wife-3SG
+|‘Tony loves his wife’ (Osumi, 1995, p. 59)}}
+
+{| class="wikitable"
+|+ Examples of Bound nouns (Osumi, 1995, p.&nbsp;60)
+! colspan="2" |External body parts of animals or humans     
+! colspan="2" |Secretions or body products of animals or humans      
+|-
+|ô    
+|Head 
+|tufârrî    
+|Saliva    
+|-
+|nrîfò    
+|Mouth 
+|fwîî    
+|Excrement      
+|-
+|hi 
+|Leg 
+|koo    
+|Vomit 
+|}
+
+''An example of the body part mouth with the [[First-person singular|first person singular]] rò:''
+
+{{interlinear|number=(17)
+|'''nrîfò'''-rò
+|Mouth-1SG
+|my mouth’ (Osumi, 1995, p. 59)}}
+
+====== Link nouns ======
+Link nouns referents belong to similar categories of bound nouns such as kinship and body or plants or other inanimate parts. They are obligatorily linked to a pronoun or head of a pronominal phrase, where the possessive relationship is demonstrated by a link morpheme ''-nrâ-'' (Osumi, 1995, p.&nbsp;62)''.'' The construction has this following form:
+
+NP <sub>(possessed)</sub> – nrâ <sub>(link)</sub> – NP <sub>(possessor)</sub> (Osumi, 1995, p.&nbsp;154).
+
+When the possessor is the first person singular, the link morpheme ''-nrâ-'' is often omitted as seen below.
+
+{{interlinear|number=(18)
+|'''panrea'''-rò
+|aunt-1SG
+|'my aunt' (Osumi, 1995, p.&nbsp;62)}}
+
+''-nrâ-''  is also identical in form to the general possessive prepositions. Therefore, link nouns are alike to free [[Proper noun|common nouns]] that are followed by the possessive ''nrâ.'' Both constructions are difficult to differentiate, the link nouns depict inalienable possession and cannot be separated from their possessor by an element (Osumi, 1995, p.&nbsp;154).
+
+This subclass of nouns includes some from the words in the following list.
+
+{| class="wikitable"
+|+ Examples of Link nouns (Osumi, 1995, p.&nbsp;60).
+|-
+! colspan="2" |External body parts of animals or humans    
+! colspan="2" |Secretions or body products of animals or humans       
+|-
+|ao    
+|Cheek 
+|kòfio    
+|Perspiration      
+|-
+|ôfaò    
+|Horn (of cow)     
+|nruâ    
+|Dirt (of the body)      
+|-
+|jawe 
+|Tail 
+|tòghòrrò    
+|Boil        
+|}
+
+There can also be morphological complex link nouns, which involve a bound noun or a location noun in the first position, with the link noun in the second (Osumi, 1995, p.&nbsp;64).
+
+Although the examples represented are not comprehensive for both bound and link nouns, they show that there is no structural distinction between the two subclasses. Analysis of a Tîrî [[Corpus linguistics|corpus]] by Midori Osumi (1995, p.&nbsp;65) found that there were thirty-three bound nouns referring to external body parts compared to only five link nouns. This indicates that there are semantic differences between subclasses. For example, among the five link nouns is ''ao-'' ‘cheek’ is the only one that refers to external human body parts while others refer to external animal and insect parts (Osumi, 1995, p.&nbsp;65). This shows that all external human body parts are bound nouns, except for ''ao-'' in Tîrî (Osumi, 1995, p.&nbsp;65).
+
+==References==
+*Osumi, M. (1995). ''Tinrin Grammar''. Honolulu: University of Hawai'i Press.
+
+== Notes ==
+<references />
+{{Languages of New Caledonia}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+{{DEFAULTSORT:Tiri language}}
+[[Category:New Caledonian languages]]
+[[Category:Languages of New Caledonia]]

@@ -1,0 +1,578 @@
+{{Linguistics}}
+{{main|Principles and parameters}}
+In [[linguistics]], '''head directionality ''' is a proposed [[Principles and parameters|parameter]] that classifies languages according to whether they are '''head-initial''' (the [[head (linguistics)|head]] of a [[phrase]] precedes its  [[Complement (linguistics)|complements]]) or '''head-final''' (the head follows its complements). The [[Head (linguistics)|head]] is the element that determines the category of a phrase: for example, in a [[verb phrase]], the head is a verb. Therefore, head initial would be "VO" languages and head final would be "OV" languages.<ref name="Bloomsbury Academic">{{Cite book|url=http://www.bloomsburycollections.com/book/contemporary-linguistic-parameters-contemporary-studies-in-linguistics|title=Contemporary Linguistic Parameters : Contemporary Studies in Linguistics|date=2015|publisher=Bloomsbury Academic|isbn=978-1-4725-3393-7|doi=10.5040/9781474219549.ch-004}}</ref>
+
+Some languages are consistently head-initial or head-final at all phrasal levels. [[English grammar|English]] is considered to be strongly head-initial, while [[Japanese language|Japanese]] is an example of a language that is consistently head-final. In certain other languages, such as [[German language|German]] and [[Gbe languages|Gbe]], examples of both types of head direction occur. Various theories have been proposed to explain such variation.
+
+Head directionality is connected with the type of [[branching (linguistics)|branching]] that predominates in a language: head-initial structures are ''right-branching'', while head-final structures are ''left-branching''.{{sfn|Dryer|2009}}On the basis of these criteria, languages can be divided into head-final (rigid and non-rigid) and head-initial types. The identification of headedness is based on the following: <ref>{{cite journal |last1=Polinsky |first1=Maria |last2=Magyar |first2=Lilla |title=Headedness and the Lexicon: The Case of Verb-to-Noun Ratios |journal=Languages |date=March 2020 |volume=5 |issue=1 |page=5 |doi=10.3390/languages5010009}}</ref>
+# the order of subject, object, and verb 
+# the relationship between the order of the object and verb 
+# the order of an [[adposition]] and its [[Complement (linguistics)|complement]] 
+# the order of [[relative clause]] and head noun.
+
+== Types of phrase ==
+In some cases, particularly with noun and adjective phrases, it is not always clear which dependents are to be classed as complements, and which as [[adjunct (grammar)|adjunct]]s. Although in principle the head-directionality parameter concerns the order of heads and complements only, considerations of head-initiality and head-finality sometimes take account of the position of the head in the phrase as a whole, including adjuncts. The structure of the various types of phrase is analyzed below in relation to specific languages, with a focus on the ordering of head and complement. In some cases (such as English and Japanese) this ordering is found to be the same in practically all types of phrase, whereas in others (such as German and Gbe) the pattern is less consistent. Different theoretical explanations of these inconsistencies are discussed later in the article. There are various types of phrase in which the ordering of head and complement(s) may be considered when attempting to determine the head directionality of a language, including:
+
+* '''Verb Phrase''': the head of [[verb phrase]] (VP) is a [[verb]], and the complement(s) are most commonly [[object (grammar)|object]]s of various types. The ordering here is related to one of the chief questions in the [[word order]] typology of languages, namely the normal order of [[subject (grammar)|subject]], verb and object within a [[clause (grammar)|clause]] (languages are classed on this basis as [[Subject–verb–object|SVO]], [[Subject-object-verb|SOV]], [[Verb-subject-object|VSO]], etc.).
+
+[[File:VPsyntactictree.png|thumb|right|140px|head-initial and head-final constructions]]
+
+* '''Noun Phrase''': the head of a [[noun phrase]] (NP) is a [[noun]]; various kinds of complementizer phrases (CPs) and adpositional phrases (PPs) can be complements.
+
+[[File:NPsyntactictree.png|thumb|right|140px|head-initial and head-final constructions]]
+
+* '''Adjective Phrase''': the head of an [[adjective phrase]] (AP) is an adjective, which can take as a complement, for example, an [[adverbial phrase]] or adpositional phrase (PP).
+
+[[File:APsyntactictree.png|thumb|right|140px|Head-initial and head-final constructions]]
+
+* '''Adpositional Phrase''': the head of an [[adpositional phrase]] (PP) as an apposition. Such phrases are called prepositional phrases if they are head-initial (i.e. headed by a preposition), or postpositional phrases if they are head-final (i.e. headed by a postposition). For more on these, see [[Preposition and postposition]]. The complement is a determiner phrase (or noun phrase, depending on analytical scheme followed).
+
+[[File:PPsyntactictree.png|thumb|right|140px|head-initial and head-final constructions]]
+
+* '''Determiner Phrase''': the head of a [[determiner phrase]] (DP) is a [[determiner]]. DPs were proposed under generative syntax;{{sfn|Szabolcsi|1983}} not all theories of syntax agree that they exist.{{sfn|Van Langendonck|1994}}
+
+* '''Complementizer Phrase''': the head of a [[complementizer phrase]] (CP) is a [[complementizer]], like ''that'' in English. In some cases the C head is [[covert (linguistics)|covert]] (not overtly present). The complement of C is generally agreed to be a tense phrase (TP).
+
+[[File:CPsyntactictree.png|thumb|right|140px|head-initial and head-final constructions]]
+
+* '''Tense Phrase''': the head of a [[tense phrase]] (TP) is tense; these are phrases in which the head is an abstract [[syntactic category|category]] representing [[grammatical tense|tense]]; the complement is a verb phrase.
+
+* '''Aspect Phrase''': the head of an [[aspect phrase]] (AspP) is aspect; these are phrases in which the head is an abstract syntactic category representing [[grammatical aspect|aspect]]. In more traditional analysis the entire phrase (including any elements denoting tense or aspect) is considered to be simply a verb phrase.
+
+==Head-initial languages==
+
+===English===
+[[English grammar|English]] is a strongly{{Citation needed|date=December 2021|reason=i am sure english is partially head-final, because adjectives are usually subordinate (ie not head) but have initial position, while nouns described by them are heads and have final position. also, adverbs that describe adjectives. i doubt that this was said "strongly" in the book referenced in next sentence. there is also a discussion topic about this: [[Talk:Head-directionality_parameter#AN]] }} head-initial language. In a typical verb phrase, for example, the verb precedes its complements, as in the following example:{{sfn|Fukui|1994|p=4}}
+[[File:VP English.png|framed|right|English VP structure]]
+:''eat an apple''
+:[<sub>VP</sub> [<sub>'''V'''</sub> '''eat'''] [<sub>DP</sub> an apple]]
+
+The head of the phrase (the verb ''eat'') precedes its complement (the determiner phrase ''an apple''). Switching the order to "[<sub>VP</sub> [<sub>DP</sub> an apple] [<sub>V</sub> eat]]" would be ungrammatical.
+
+Nouns also tend to precede any complements, as in the following example, where the [[relative clause]] (or [[complementizer phrase]]) that follows the noun may be considered to be a complement:{{sfn|Smith|1964|p=6}}
+[[File:NP English.png|thumb|English NP structure]]
+:''He married a girl who is from Texas.''
+:[<sub>NP</sub> [<sub>'''N'''</sub> '''girl'''] [<sub>CP</sub> who is from Texas]]
+
+Nouns do not necessarily begin their phrase; they may be preceded by [[attributive adjective]]s, but these are regarded as [[adjunct (grammar)|adjunct]]s rather than complements. (For preceding [[determiner]]s, see below.) Adjectives themselves may be preceded by adjuncts, namely [[adverb]]s, as in ''extremely happy''.{{sfn|Sadler & Arnold|1994|pp=28–34}} However, when an adjective phrase contains a true complement, such as a prepositional phrase, the head adjective precedes it:{{sfn|Sadler & Arnold|1994|pp=28}}
+:''a person happy about her work''
+:[<sub>AP</sub> [<sub>'''A'''</sub> '''happy'''] [<sub>PP</sub> about her work]]
+
+English adpositional phrases are also head-initial; that is, English has [[preposition]]s rather than postpositions:{{sfn|Gillion|1992|p=15}}
+[[File:PP English.png|framed|right|English PP structure]]
+:''a majority of eligible voters''
+:[<sub>PP</sub> [<sub>'''P'''</sub> '''of'''] [<sub>DP</sub> eligible voters]]
+
+On the [[determiner phrase]] (DP) view, where a [[determiner]] is taken to be the head of its phrase (rather than the associated noun), English can be seen to be head-initial in this type of phrase too. In the following example{{sfn|Takahashi|2002|p=2}} the head is taken to be the determiner ''any'', and the complement is the noun (phrase) ''book'':
+
+[[File:DP English.png|framed|right|English DP structure]]
+:''any book''
+:[<sub>DP</sub> [<sub>'''D'''</sub> '''any'''] [<sub>NP</sub> book]]
+
+English also has head-initial [[complementizer phrase]]s, as in this example{{sfn|Sells|1995|p=4}} where the complementizer ''that'' precedes its complement, the tense phrase ''Mary did not swim'':
+:''We saw that Mary did not swim''
+:[<sub>CP</sub> [<sub>'''C'''</sub> '''that'''] [<sub>TP</sub> Mary did not swim]]
+
+Grammatical words marking tense and aspect generally precede the semantic verb. This indicates that, if finite verb phrases are analyzed as [[tense phrase]]s or aspect phrases, these are again head-initial in English. In the example above, ''did'' is considered a ([[past tense|past]]) tense marker, and precedes its complement, the verb phrase ''not swim''. In the following, ''has'' is a ([[perfect aspect|perfect]]) aspect marker;{{sfn|Lin|2003|p=2}} again it appears before the verb (phrase) which is its complement.
+[[File:AsP English.png|thumb|right|English AspP Structure]]
+:''John has arrived''
+:[<sub>AspP</sub> [<sub>Asp</sub> '''has'''] [<sub>VP</sub> arrived]]
+
+The following example shows a sequence of nested phrases in which each head precedes its complement.{{sfn|Sportiche|Koopman|Stabler|2014}} In the [[complementizer phrase]] (CP) in (a), the complementizer (C) precedes its tense phrase (TP) complement. In the [[tense phrase]] in (b), the [[grammatical tense|tense]]-marking element (T) precedes its verb phrase (VP) complement. (The subject of the tense phrase, ''the girl'', is a [[Specifier (linguistics)|specifier]], which does not need to be considered when analyzing the ordering of head and complement.) In the [[verb phrase]] in (c), the verb (V) precedes its two complements, namely the determiner phrase (DP) ''the book'' and the prepositional phrase (PP) ''on the table''. In (d), where ''a picture'' is analyzed as a determiner phrase, the determiner (D) ''a'' precedes its noun phrase (NP) complement, while in (e), the [[preposition]] (P) ''on'' precedes its DP complement ''your desk''.
+:''You know that the girl will put a picture on your desk.''
+:a. CP: [<sub>CP</sub> [<sub>C</sub> '''''that''''' ]  [<sub>TP</sub> ''the girl will put a picture on your desk'' ] ]
+:b. TP: [<sub>TP</sub> [<sub>T</sub> '''''will''''' ]  [<sub>VP</sub> ''put a picture on your desk'' ] ]
+:c. VP: [<sub>VP</sub> [<sub>V</sub> '''''put''''' ]   [<sub>DP</sub> ''a picture'' ] [<sub>PP</sub> ''on your desk'' ] ]
+:d. DP: [<sub>DP</sub> [<sub>D</sub> '''''a''''' ]     [<sub>NP</sub> ''picture'' ] ]
+:e. PP: [<sub>PP</sub> [<sub>P</sub> '''''on''''' ]    [<sub>DP</sub> ''your desk'' ] ]
+
+===Indonesian===
+[[Indonesian language|Indonesian]] is an example of an SVO head-initial language.<ref name="Bloomsbury Academic"/><ref>{{Cite book|last=Graf|first=T|url=https://scholar.harvard.edu/files/mpolinsky/files/keenan_paper.online.pdf|title=Theories of Everything. In Honour of Ed Keenan|last2=Paperno|first2=D|last3=Szabolcsi|first3=A|last4=Tellings|first4=J|publisher=UCLA Working Papers in Linguistics|year=2012|pages=348–359}}</ref> The characteristic of it being a head-initial language can be examined through a dependency perspective or through a word order perspective. Both approaches lead to the conclusion that Indonesian is a head-initial language.  
+
+==== Dependency perspective ====
+[[File:Dependencytype.jpg|thumb|300px|Governor-Dependent relationship in SVO Head-initial languages]]
+When examining Indonesian through a dependency perspective, it is considered head initial as the [[Government (linguistics)|governor]] of both constituents are positioned before the [[Dependent-marking language|dependent]].<ref name="Ansari 171–177">{{Cite journal|last=Ansari|first=Lalitia|last2=Suhardiianto|first2=Totok|date=November 2018|title=Where is the Head Positioned in Indonesian Language?: A Corpus Study of Head Directionality from a Dependency Perspective|url=https://ieeexplore.ieee.org/document/8629214/|journal=2018 International Conference on Asian Language Processing (IALP)|location=Bandung, Indonesia|publisher=IEEE|pages=171–177|doi=10.1109/IALP.2018.8629214|isbn=978-1-7281-1175-9}}</ref> 
+
+Placing the head before a dependent minimizes the overall dependency distance, which is the distance between the two [[Constituent (linguistics)|constituents]].<ref name="Ansari 171–177"/> Minimizing dependency distance allows for less cognitive demand as a head-final dependency requires the constituents in the dependent clause to be stored in working memory until the head is realized.<ref name="Ansari 171–177"/>
+[[File:Dependency2.png|thumb|right|300px|Dependency distance between constituents in Indonesian]]
+
+In Indonesian, the number of constituencies affects the dependency direction. When there are 6 constituents — which is a relatively short sentence — there is a preference for head initial relation.<ref name="Ansari 171–177"/> However, when there are 11-30 constituents, there appears to be a balance of head-initial and head-final dependencies.<ref name="Ansari 171–177"/> Regardless, Indonesian displays an overall head-initial preference on all levels of dependency structure as it consistently attempts to position the head as early on in the sentence even though it produces a longer dependency distance rather than placing the head after its dependents.<ref name="Ansari 171–177"/> Furthermore, Indonesian has an overall preference towards head-initial when comparing head-initial and head-final relation on all levels of constituent length for both spoken and written data.<ref name="Ansari 171–177"/>
+
+==== Word order perspective ====
+The subject of the sentence followed by the verb, representing SVO order. <ref name="Sneddon, 2010">{{cite book |last1=Sneddon |first1=James N |title=Indonesian: A Comprehensive Grammar |date=15 April 2010 |publisher=Routledge |location=London |isbn=9780203720882 |pages=131-147 |url=https://doi.org/10.4324/9780203720882 |access-date=10 December 2021}}</ref> The following examples demonstrate head-initial directionality in [[Indonesian language|Indonesian]]
+
+[[File:Verbphrase2.png|thumb|right|150px|Indonesian head-initial word order in VP]]
+{{interlinear|indent=2
+|Perdana menteri sudah pulang
+|Prime minister already home
+|"The Prime minister has returned home"}}
+{{indent|4}}[<sub>CP</sub> [<sub>DP</sub> Perdana menteri] [<sub>VP</sub> sudah pulang]]
+
+[[Grammatical number|Classifiers]] and [[Partitive|partitives]] can function as the head nouns of '''noun phrases'''. Below is an example of the internal structure of a noun phrase and its head-initial word order.
+
+{{interlinear|indent=2
+|Botol ini retak
+|Bottle DET-this crack
+|“This bottle is cracked”}}
+{{indent|4}}[<sub>CP</sub>[<sub>DP</sub> botol ini][<sub>VP</sub> retak]]
+
+Head-initial word order is seen in the internal structure of the '''verb phrase''' in the following example where the V is in the head position of the verb phrase and thus appears before its complement:
+
+[[File:Verbphrase.png|thumb|right|150px|Indonesian head-initial word order in VP]]
+{{interlinear|indent=2
+|Dokter memeriksa mata saya
+|Doctor checks eye PN-my
+|"The doctor checked my eyes"}}
+{{indent|4}}[<sub>CP</sub>[<sub>DP</sub>Dokter][<sub>VP</sub>[<sub>V</sub> memeriksa][<sub>DP</sub>mata says]]]
+
+In [[Indonesian language|Indonesian]] a noun can be followed by another [[modifiers|modifying noun]] whose primary function is to provide more specific information about the preceding head noun, such as indicating what the head noun is made of, gender, locative sense, and what the head noun does, etc. However, no other word is able to intervene between a head noun and its following modifying noun. If a word follows the modifying noun, then it provides reference to the '''head noun''' and not the modifying noun. <ref name="Sneddon, 2010">{{cite book |last1=Sneddon |first1=James N |title=Indonesian: A Comprehensive Grammar |date=15 April 2010 |publisher=Routledge |location=London |isbn=9780203720882 |pages=131-147 |url=https://doi.org/10.4324/9780203720882 |access-date=10 December 2021}}</ref>
+* Head noun: [<sub>N</sub> ''guru''] + Modifying noun: [<sub>N</sub> ''bahasa''] 
+{{interlinear|indent=4
+|guru bahasa
+|teacher language
+|"language teacher"}}
+
+* Head noun: [<sub>N</sub> ''guru''] + Modifying noun: [<sub>N</sub> ''sekolah''] + Determiner [<sub>D</sub> ''itu'']
+{{interlinear|indent=4
+|guru sekolah itu
+|teacher school DET-that
+|"that schoolteacher"}}
+
+* Head noun: [<sub>N</sub>''toko''] + Modifying noun: [<sub>N</sub> ''buku''] 
+{{interlinear|indent=4
+|toko buku
+|shop book
+|"Bookshop"}}
+
+* Head noun: [<sub>N</sub>''toko''] + Modifying noun: [<sub>N</sub> ''buku''] + Determiner phrase [<sub>DP</sub>''yang besar'']
+{{interlinear|indent=4
+|toko buku yang besar
+|shop book DET-a big
+|a big bookshop}}
+
+* Head noun: [<sub>N</sub> ''sate''] + Modifying noun: [<sub>N</sub> ''ayam'']
+{{interlinear|indent=4
+|sate ayam
+|satay chicken
+|"chicken satay"}}
+
+== Head-final languages ==
+
+===Japonic: Japanese===
+[[Japanese language|Japanese]] is an example of a strongly head-final language. This can be seen in verb phrases and tense phrases: the verb (''tabe'' in the example) comes after its complement, while the tense marker (''ru'') comes after the whole verb phrase which is its complement.{{sfn|Fukui|1994|p=4}}
+
+[[File:VP Japanese.png|framed|right|Japanese VP structure]]
+{{fs interlinear|indent=2
+|リンゴを 食べる
+|ringo-o   tabe-ru
+|apple-ACC eat-NPAST
+|"eat an apple"}}
+{{indent|4}}[<sub>TP</sub> [<sub>VP</sub> [<sub>DP</sub> ringo-o] [<sub>V</sub> '''tabe''']] [<sub>T</sub> '''ru''']]
+
+Nouns also typically come after any complements, as in the following example where the PP ''New York-de-no'' may be regarded as a complement:{{sfn|Naoki|1993|pp=15–16}}
+
+[[File:NP Japanese.png|thumb|right|Japanese NP structure]]
+{{fs interlinear|indent=2
+|ジョンの 昨日の ニューヨークでの 講義
+|John-no  kinoo-no      {New York-de-no}  koogi
+|John-GEN yesterday-GEN {New York-in-GEN} lecture
+|"John's lecture in New York yesterday"}}
+{{indent|4}}[<sub>NP</sub> [<sub>PP</sub> New York-de-no] [<sub>N</sub> '''koogi''']]
+
+Adjectives also follow any complements they may have. In this example the complement of quantity, ''ni-juu-meetoru'' ("twenty meters"), precedes the head adjective ''takai'' ("tall"):{{sfn|Watanabe|2011|pp=9–10}}
+
+{{fs interlinear|indent=2
+|この ビルは 20メートル 高い
+|Kono biru-wa      ni-juu-meetoru takai
+|this building-TOP two-ten-meter  tall
+|"This building is twenty meters taller."}}
+{{indent|4}}[<sub>AP</sub> [<sub>Q</sub> ni-juu-meetoru] [<sub>A</sub> '''takai''']]
+
+Japanese uses postpositions rather than prepositions, so its adpositional phrases are again head-final:{{sfn|Vinka|2009|p=4}}
+
+[[File:PP Japanese.png|thumb|right|Japanese PP structure]]
+{{fs interlinear|indent=2
+|僕が 高須村に 住んでいる
+|Boku-ga Takasu-mura-ni    sunde-iru
+|I-NOM   Takasu-village-in live-PRES
+|"I live in Takasu village."}}
+{{indent|4}}[<sub>PP</sub> [<sub>DP</sub> Takasu-mura] [<sub>P</sub> '''ni''']]
+
+Determiner phrases are head-final as well:{{sfn|Takahashi|2002|p=2}}
+
+[[File:DP Japanese.png|framed|right|Japanese DP structure]]
+{{fs interlinear|indent=2
+|誰 も
+|dare mo
+|person any
+|"anyone"}}
+{{indent|4}}[<sub>DP</sub> [<sub>NP</sub> dare] [<sub>D</sub> '''mo''']]
+
+A complementizer (here ''to'', equivalent to English "that") comes after its complement (here a tense phrase meaning "Mary did not swim"), thus Japanese complementizer phrases are head-final:{{sfn|Sells|1995|p=4}} 
+
+{{fs interlinear|indent=2
+|メリーが 泳がなかったこと
+|Mary-ga  oyog-ana-katta-koto
+|Mary-NOM swim-NEG-PAST-that
+|"that Mary did not swim"}}
+{{indent|4}}[<sub>CP</sub> [<sub>TP</sub> Mary-ga oyog-ana-katta] [<sub>C</sub> '''to''']]
+
+===Turkic: Turkish===
+
+[[Turkish language|Turkish]] is an agglutinative, head-final, and left-branching language that uses a [[Subject–object–verb|SOV]] word order.<ref name="Turkish Intransitives">{{cite journal |last1=Arik |first1=Engin |title=An Experimental Approach to Basic Word Order in Turkish Intransitives |journal=Psychology of Language and Communication |date=October 2019 |volume=20 |issue=1 |pages=73–91 |doi=10.1515/plc-2016-0004}}</ref> As such, Turkish complements and adjuncts typically precede their head under neutral prosody, and [[Preposition and postposition|adpositions]] are postpositional. Turkish employs a case marking system<ref>{{cite book |last1=van Schaaik |first1=Gerjan |title=The Oxford Turkish Grammar |date=September 2020 |publisher=Oxford University Press |isbn=9780198851509}}</ref> which [[Affix|affixes]] to the right boundary of the word it is modifying. As such, all case markings in Turkish are suffixes. For example, the set of [[Accusative case|accusative]] case marking suffixes ''-(y)ı-, -(y)i-, -(y)u-, -(y)ü-'' in Turkish indicate that it is the direct object of a verb. Additionally, while some kinds of definite determiners and [[Preposition and postposition|postpositions]] in Turkish can be marked by case, other types also exist as free morphemes.<ref>{{cite book |last1=van Schaaik |first1=Gerjan |title=The Oxford Turkish Grammar |date=September 2020 |publisher=Oxford University Press |isbn=9780198851509}}</ref> In the following examples, Turkish case marker suffixes are analyzed as complements to the head.
+
+====Head-final Tense Phrase====
+[[File:Tense phrase - turkish.png|thumb|Turkish TP structure]]
+In Turkish, tense is denoted by a case marking suffix on the verb.<ref name="Turkish-Jaklin">{{cite book |last1=Kornfilt |first1=Jaklin |title=Turkish |date=2013 |publisher=Routledge |location=London |isbn=9781315823652 |pages=1-211}}</ref> 
+
+{{interlinear|indent=2|glossing = link| lang = lez
+|Ahmet anne-sin-i ziyaret et-ti 
+|Ahmet mother-3SG-ACC visit do-PAST
+|'Ahmet visited his mother.'}}
+{{indent|4}}[<sub>TP</sub> [<sub>VP</sub> et][<sub>T</sub> -ti]]
+
+====Head-final Verb Phrase====
+[[File:Turkish Verb Phrase.png|thumb|Turkish VP structure]]
+In neutral prosody, Turkish verb phrases are primarily head-final, as the verb comes after its complement. Variation in object-verb ordering is not strictly rigid. However, constructions where the verb precedes the object are less common.<ref name="Turkish an Essential Grammar">{{cite book |last1=Göksel |first1=Aslı |last2=Kerslake |first2=Celia |title=Turkish an Essential Grammar |date=2011 |publisher=Routledge |isbn=9780415462693 |pages=368}}</ref>
+
+{{interlinear|indent=2|glossing = link| lang = lez
+|Çocuk-lar çikolata sever
+|child-PL chocolate like
+|'Children like chocolate.'}}
+{{indent|4}}[<sub>VP</sub> [<sub>DP</sub> çikolata][<sub>V</sub> sever]]
+
+====Head-final Determiner Phrase====
+[[File:Turkish phrase structure tree DP.png|thumb|Turkish DP structure]]
+In Turkish, definite determiners may be marked with a case marker suffix on the noun, such as when the noun is the direct object of a verb. They may also exist as free morphemes that attach to a head-initial determiner phrase, such as when the determiner is a demonstrative. Like other case markers in Turkish, when the morpheme carrying the demonstrative meaning is a case marker, they attach at the end of the word. As such, the head of the phrase, in this case the determiner, follows its complement like in the example below:<ref>{{cite book |last1=van Schaaik |first1=Gerjan |title=The Oxford Turkish Grammar |date=September 2020 |publisher=Oxford University Press |isbn=9780198851509}}</ref>
+
+{{interlinear|indent=2|glossing = link| lang = lez
+|Dün çok garip kitap-lar-ı oku-du-m  
+|yesteray very strange book-PL-ACC read-PAST-1SG
+|'Yesterday I read the very strange books.'}}
+{{indent|4}}[<sub>DP</sub> [<sub>NP</sub> kitap-lar][<sub>D</sub> -ı]]
+
+====Head-final Postpositional Phrase====
+[[File:Turkish Phrase Structure Tree for PP.png|thumb|Turkish PP Structure]]
+Turkish adpositions are postpositions that can affix as a case marker at the end of a word. They can also be a separate word that attaches to the head-final postpositional phrase, as is the case in the example below:<ref name="Turkish an Essential Grammar" />
+
+{{interlinear|indent=2|glossing = link| lang = lez
+|Bu kitab-ı Ahmet için al-dı-m
+|This book-ACC Ahmet for buy-PAST-1SG
+|'I bought this book for Ahmet.'}}
+{{indent|4}}[<sub>PP</sub> [<sub>DP</sub> Ahmet][<sub>P</sub> için]]
+
+====Word order variation in matrix clauses====
+
+Turkish employs a [[Grammatical case|case marking]] system that allows some constituents in Turkish clauses to participate in permutations of its canonical SOV word order, thereby in some ways exhibiting a 'free' word order. Specifically, constituents of an [[independent clause]] can be moved around and constituents of phrasal categories can occur outside of the [[Projection principle|projections]] they are elements of. As a result, it is possible for the major case-marked constituents of a clause in Turkish to appear in all possible orders in a sentence, such that SOV, SVO, OSV, OVS, VSO, and VOS word orders are acceptable.<ref name="Turkish Word Order">{{cite book|last1=Özsoy|first1=Sumru|title=Word Order in Turkish|date=2019|publisher=Springer International Publishing AG|isbn=9783030113841|location=Cham, Switzerland|page=313}}</ref>
+
+This free word order allows for the verbal phrase to occur in any position in an independent clause, unlike other head-final languages (such as [[Japanese language|Japanese]] and [[Korean language|Korean]], in which any variation in word order must occur in the preverbal domain and the verb remains at the end of the clause {{See above|{{section link||Japonic: Japanese}}, above}}). Because of this relatively high degree of variation in word order in Turkish, its status as a head-final language is generally considered to be less strict and not absolute like Japanese or Korean, since while embedded clauses must remain verb-final, matrix clauses can show variability in word order.<ref name="Turkish Word Order" />
+
+In the canonical word order of Turkish, as is typical in a head-final language, subjects come at the beginning of the sentence, then objects, with verbs coming in last:[[File:Turkish SOV Tree Updated.png|thumb|Canonical SOV word order in Turkish]]
+
+'''1. Subject-Object-Verb (SOV, canonical word order)'''
+{{interlinear|indent=2|glossing = link| lang = lez
+|Yazar makale-yi bitir-di
+|author article-ACC finish-PAST
+|'The author finished the article.'}}
+
+However, several variations on this order can occur on matrix clauses, such that the subject, object, and verb can occupy all different positions within a sentence. Because Turkish uses a case-marking system to denote how each word functions in a sentence in relation to the rest, case-marked elements can be moved around without a loss in meaning. These variations, also called permutations,<ref>{{cite book |last1=Taylan |first1=Eser Erguvanlı |title=The Function of Word Order in Turkish Grammar |date=1984 |publisher=University of California Press |location=Berkeley |isbn=0520099559 |pages=179}}</ref><ref name="Turkish Word Order" /> can change the discourse focus of the constituents in the sentence:
+
+'''2. Object-Subject-Verb (OSV)'''
+{{interlinear|indent=2|glossing = link| lang = lez
+|Makale-yi yazar bitir-di
+|article-ACC author finish-PAST 
+|'The author finished the article.'}}
+
+In this variation, the object moves to the beginning of the sentence, the subject follows, and the verb remains in final position.
+
+'''3. Object-Verb-Subject (OVS)'''
+{{interlinear|indent=2|glossing = link| lang = lez
+|Makale-yi bitir-di yazar 
+|article-ACC finish-PAST author
+|'The author finished the article.'}}
+
+In this variation, the subject moves to end of the sentence. This is an example of how verbs in Turkish can move to other positions in the clause, even though other head-final languages, such as Japanese and Korean, typically see verbs coming only at the end of the sentence.
+
+'''4. Subject-Verb-Object (SVO)'''
+{{interlinear|indent=2|glossing = link| lang = lez
+|Yazar bitir-di makale-yi   
+|author finish-PAST article-ACC  
+|'The author finished the article.'}}
+
+In this variation, the object  moves to the end of the sentence and the verb phrase now directly precedes the subject, which remains at the beginning of the sentence. This word order is akin to [[English language|English]] word order.
+
+'''5. Verb-Subject-Object (VSO)'''
+{{interlinear|indent=2|glossing = link| lang = lez
+|Bitir-di yazar makale-yi   
+|finish-PAST author article-ACC  
+|'The author finished the article.'}}
+
+In this variation, the verb phrase moves from the end of the sentence to the beginning of the sentence.
+
+'''6. Verb-Object-Subject (VOS)'''
+{{interlinear|indent=2|glossing = link| lang = lez
+|Bitir-di makale-yi yazar  
+|finish-PAST article-ACC author 
+|'The author finished the article.'}}
+
+In this variation, the verb phrase moves to the beginning of the sentence, the object moves so that it directly following the verb, and the subject is at the end of the sentence.
+
+== Mixed word-order languages==
+
+=== Indo-European: German ===
+{{cleanup|section|reason=See talk page, section "Mistakes..."|date=January 2019}}
+
+[[German grammar|German]], while being predominantly head-initial, is less conclusively so than in the case of English. German also features certain head-final structures. For example, in a [[nonfinite verb|nonfinite]] verb phrase the verb is final. In a finite verb phrase (or tense/aspect phrase) the verb (tense/aspect) is initial, although it may move to final position in a [[subordinate clause]]. In the following example,{{sfn|Dopke|1998|p=6}}  the non-finite verb phrase ''es finden'' is head-final, whereas in the tensed main clause ''ich werde es finden'' (headed by the [[auxiliary verb]] ''werde'' indicating [[future tense]]), the finite auxiliary precedes its complement (as an instance of a [[verb-second]] construction; in the example below, this V2-position is called "T").
+
+[[File:VP Head Final German.png|thumb|right|German VP structure]]
+{{interlinear|indent=2
+|Ich werde es finden
+|I   will  it find
+|"I will find it."}}
+:[<sub>TP</sub> [<sub>DP</sub> Ich] [<sub>T</sub> '''werde'''] [<sub>VP</sub> [<sub>DP</sub> es] [<sub>'''V'''</sub> '''finden''']]]
+
+Noun phrases containing complements are head-initial; in this example{{sfn|Berthold|2005|p=6}} the complement, the CP ''der den Befehl überbrachte'', follows the head noun ''Boten''.
+
+{{interlinear|indent=2
+|Man beschimpfte den Boten,    der den Befehl  überbrachte
+|one insulted    the messenger who the command delivered
+|"The messenger, who delivered the command, was insulted."}}
+:[<sub>NP</sub> [<sub>N</sub> '''Boten'''] [<sub>CP</sub> der den Befehl überbrachte]]
+
+Adjective phrases may be head-final or head-initial. In the next example the adjective (''stolze'') follows its complement (''auf seine Kinder'').{{sfn|Hinterhölzl|2010|p=4}}
+
+[[File:AP Final German.png|thumb|right|German head-final AP Structure]]
+{{interlinear|indent=2
+|der auf seine Kinder stolze Vater
+|the of his children proud father
+|"the father (who is) proud of his children"}}
+:[<sub>AP</sub> [<sub>PP</sub> auf seine Kinder] [<sub>A</sub> '''stolze''']]
+
+However, when essentially the same adjective phrase is used [[predicative adjective|predicatively]] rather than attributively, it can also be head-initial:{{sfn|Hinterhölzl|2010|p=5}}
+
+[[File:AP Initial German.png|thumb|right|German head-initial AP Structure]]
+{{interlinear|indent=2
+|weil er stolz auf seine Kinder ist
+|since he proud of his children is
+|"since he is proud of his children"}}
+:[<sub>AP</sub> [<sub>A</sub> '''stolz'''] [<sub>PP</sub> auf seine Kinder]]
+
+Most adpositional phrases are head-initial (as German has mostly prepositions rather than postpositions), as in the following example, where ''auf'' comes before its complement ''den Tisch'':{{sfn|Van Riemsdijk|2007|p=3}}
+
+[[File:PP Initial German.png|thumb|right|German head-initial PP structure]]
+{{interlinear|indent=2
+|Peter legt das Buch auf den Tisch
+|Peter puts the book on the.ACC table
+|"Peter puts the book on the table."}}
+:[<sub>PP</sub> [<sub>P</sub> '''auf'''] [<sub>DP</sub> den Tisch]]
+
+German also has some [[postposition]]s, however (such as ''gegenüber'' "opposite"), and so adpositional phrases can also sometimes be head-final. Another example is provided by the analysis of the following sentence:{{sfn|Van Riemsdijk|2007|p=1}}
+
+{{interlinear|indent=2
+|Die Schnecke kroch das Dach hinauf
+|the snail crept the roof up
+|"The snail crept up the roof"}}
+:[<sub>PP</sub> [<sub>DP</sub> das Dach] [<sub>P</sub> '''hinauf''']]
+
+Like in English, determiner phrases and complementizer phrases in German are head-initial. The next example is of a determiner phrase, headed by the article ''der'':{{sfn|Bianchi|1999|p=251}}
+
+[[File:CP German.png|thumb|right|German CP Structure]]
+{{interlinear|indent=2
+|der Mann
+|the man
+|"the man"}}
+:[<sub>DP</sub> [<sub>D</sub> '''der'''] [<sub>NP</sub> Mann]]
+
+In the following example, the complementizer ''dass'' precedes the tense phrase which serves as its complement:{{sfn|Kathol|2001|p=1}}
+
+{{interlinear|indent=2
+|dass Lisa eine Blume gepflanzt hat
+|that Lisa a flower planted has
+|"that Lisa planted a flower"}}
+:[<sub>CP</sub> [<sub>C</sub> '''dass'''] [<sub>TP</sub> Lisa eine Blume gepflanzt hat]]
+
+===Sino-Tibetan: Chinese===
+[[Standard Chinese]] (whose syntax is typical of [[varieties of Chinese|Chinese varieties]] generally) features a mixture of head-final and head-initial structures. Noun phrases are head-final. Modifiers virtually always precede the noun they modify. For examples of this involving relative clauses, see {{Section link|Relative clause|Mandarin}}.
+
+In the case of strict head/complement ordering, however, Chinese appears to be head-initial. Verbs normally precede their objects. Both prepositions and postpositions are reported, but the postpositions can be analyzed as a type of noun (the prepositions are often called [[coverb]]s). For more details and examples of the relevant structures, see [[Chinese grammar]]. For a head-direction analysis of Chinese aspect phrases, see the theoretical section below.
+
+===Niger-Congo: Gbe===
+In [[Gbe languages|Gbe]], a mixture of head-initial and head-final structures is found. For example, a verb may appear after or before its complement, which means that both head-initial and head-final verb phrases occur.{{sfn|Aboh|2001|pp=1–2}} In the first example the verb for "use" appears after its complement:
+
+{{interlinear|indent=2
+|Kɔ̀jó tó àmí lɔ́ zân
+|Kojo IMPERF oil DET use
+|"Kojo is using the oil."}}
+:[<sub>VP</sub> [<sub>DP</sub> àmí lɔ́] [<sub>V</sub> '''zân''']]
+
+In the second example the verb precedes the complement:
+{{interlinear|indent=2
+|Kɔ̀jó nɔ̀ zán àmí lɔ́
+|Kojo HAB use-PERF oil DET
+|"Kojo habitually used the oil/Kojo habitually uses the oil."}}
+:[<sub>VP</sub> [<sub>V</sub> '''zán'''] [<sub>DP</sub> àmí lɔ́]]
+
+It has been debated whether the first example is due to object [[syntactic movement|movement]] to the left side of the verb {{sfn|Aboh|2001|p=2}} or whether the lexical entry of the verb simply allows head-initial and head-final structures.{{sfn|Kinyalolo|1992|pp=1–16}}
+
+Tense phrases and aspect phrases are head-initial since aspect markers (such as ''tó'' and ''nɔ̀ '' above) and tense markers (such as the future marker ''ná'' in the following example, but that does not apply to tense markers shown by verb [[inflection]]) come before the verb phrase.{{sfn|Aboh|2001|p=34}}
+
+{{interlinear|indent=2
+|dàwé lɔ̀ ná xɔ̀ kɛ̀kɛ́
+|man DET FUT buy bicycle
+|"The man will buy a bicycle."}}
+:[<sub>TP</sub> [<sub>T</sub> '''ná'''] [<sub>VP</sub> xɔ̀ kɛ̀kɛ́]]
+
+Gbe noun phrases are typically head-final, as in this example:{{sfn|Brousseau & Lumsden|1992|p=4}}
+
+[[File:NP Gbe.png|thumb|right|Gbe NP structure]]
+{{interlinear|indent=2
+|Kɔ̀kú sín ɖìdè lɛ̀
+|Koku-CASE sketch-PL
+|"sketches of Koku"}}
+:[<sub>NP</sub> [<sub>KP</sub> Kɔ̀kú sín] [<sub>N</sub> '''ɖìdè''']]
+
+In the following example of an adjective phrase, Gbe follows a head-initial pattern, as the head ''yù'' precedes the [[intensifier]] ''tàùú''.{{sfn|Aboh|2004}}
+
+[[File:AP Gbe.png|thumb|right|Gbe AP structure]]
+{{interlinear|indent=2
+|àǔn yù tàùú
+|dog black INT
+|"really black dogs"}}
+:[<sub>AP</sub> [<sub>A</sub> '''yù'''] [<sub>Int</sub> tàùú]]
+
+Gbe adpositional phrases are head-initial, with prepositions preceding their complement:{{sfn|Aboh|2001|p=117}}
+{{interlinear|indent=2
+|Kòfi zé kwɛ́ xlán Àsíbá
+|Kofi take-PERF money to Asiba
+|"Kofi sent money to Asiba."}}
+:[<sub>PP</sub> [<sub>P</sub> '''xlán'''] [<sub>DP</sub> Àsíbá]]
+
+Determiner phrases, however, are head-final:{{sfn|Aboh|2001|p=100}}
+
+[[File:CP Gbe.png|thumb|right|Gbe CP structure]]
+{{interlinear|indent=2
+|Asíbá xɔ̀ àvɔ̀ àmàmú màtàn-màtàn ɖé
+|Asiba buy-PERF cloth green odd DEF
+|"Asiba bought a specific ugly green cloth"}}
+:[<sub>DP</sub> [<sub>NP</sub> àvɔ̀ àmàmú màtàn-màtàn] [<sub>D</sub> '''ɖé''']]
+
+Complementizer phrases are head-initial:{{sfn|Aboh|2001|p=348}}
+
+{{interlinear|indent=2
+|ɖé Dòsà gbá xwé ɔ̀ ɔ̀
+|that Dosa build-PERF house DEF DET
+|"that Dosa built the house"}}
+:[<sub>CP</sub> [<sub>C</sub> '''ɖé'''] [<sub>TP</sub> Dòsà gb xwé ɔ̀ ɔ̀]]
+
+==Theoretical views==
+
+===Tesnière (1959): dependency grammar===
+The idea that syntactic structures reduce to binary relations was introduced by [[Lucien Tesnière]] within the framework of [[dependency grammar|dependency theory]], which was developed during the 1960s. Tesnière distinguished two structures that differ in the placement of the structurally governing element ([[head (grammar)|head]]):{{sfn|Graffi|2001|pp=197–198}} '''centripetal structures''', in which heads precede their [[dependent (grammar)|dependent]]s, and '''centrifugal structures''', in which heads follow their dependents. Dependents here may include [[complement (grammar)|complement]]s, [[Adjunct (grammar)|adjuncts]], and [[Specifier (linguistics)|specifier]]s.
+
+===Greeberg: typology===
+
+[[Joseph Greenberg]], who worked in the field of [[language typology]], put forward an implicational theory of [[word order]], whereby:{{sfn|Elordieta|2014|p=2}}
+*If a language has VO (verb-before-object) ordering, then it will also have [[preposition]]s (rather than postpositions), and genitives and adjectives will be placed after the noun they modify.
+*If a language has OV ordering, then it will also have postpositions, and genitives and adjectives will be placed before the noun they modify.
+The first set of properties make heads come at the start of their phrases, while the second set make heads come at the end. However, it has been claimed that many languages (such as [[Basque language|Basque]]) do not fulfill the above conditions, and that Greenberg's theory fails to predict the exceptions.{{sfn|Elordieta|2014|p=5}}
+
+===Chomsky: principles and parameters===
+
+[[Noam Chomsky]]'s [[Principles and Parameters theory]] in the 1980s{{sfn|Chomsky|1981}} introduced the idea that a small number of innate principles are common to every human language (e.g. phrases are oriented around heads), and that these general principles are subject to parametric variation (e.g. the order of heads and other phrasal components may differ). In this theory, the dependency relation between heads, complements, specifiers, and adjuncts is regulated by [[X-bar theory]], proposed by Jackendoff{{sfn|Jackendoff|1977}} in the 1970s. The complement is sister to the head, and they can be ordered in one of two ways. A head-complement order is called a '''head-initial structure''', while a complement-head order is called a '''head-final structure'''. These are special cases of Tesnière's centripetal and centrifugal structures, since here only complements are considered, whereas Tesnière considered all types of dependents.
+
+In the principles and parameters theory, a head-directionality parameter is proposed as a way of [[linguistic typology|classifying languages]]. A language which has head-initial structures is considered to be a '''head-initial language''', and one which has head-final structures is considered to be a '''head-final language'''. It is found, however, that very few, if any, languages are entirely one direction or the other. Linguists have come up with a number of theories to explain the inconsistencies, sometimes positing a more consistent [[underlying representation|underlying]] order, with the phenomenon of phrasal [[syntactic movement|movement]] being used to explain the surface deviations.
+
+===Kayne: antisymmetry===
+
+According to the [[Antisymmetry]] theory proposed by [[Richard S. Kayne]], there is no head-directionality parameter as such: it is claimed that at an underlying level, all languages are head-initial. In fact, it is argued that all languages have the underlying order Specifier-Head-Complement. Deviations from this order are accounted for by different [[syntactic movement]]s applied by languages. Kayne argues that a theory that allows both directionalities would imply an absence of [[asymmetry|asymmetries]] between languages, whereas in fact languages fail to be symmetrical in many respects. Kayne argues using the concept of a probe-goal search (based on the ideas of the [[Minimalist program]]), whereby a [[Head (linguistics)|head]] acts as a probe and looks for a goal, namely its [[Complement (linguistics)|complement]]. Kayne proposes that the direction of the probe-goal search must share the direction of language [[parsing]] and production.{{sfn|Kayne|2011|p=12}} Parsing and production proceed in a left-to-right direction: the beginning of sentence is heard or spoken first, and the end of the sentence is heard or spoken last. This implies (according to the theory) an ordering whereby probe comes before goal, i.e. head precedes complement.
+
+Some linguists have rejected the conclusions of the Antisymmetry approach. Some have pointed out that in predominantly head-final languages such as [[Japanese grammar|Japanese]] and [[Basque grammar|Basque]], the change from an underlying head-initial form to a largely head-final surface form would involve complex and massive leftward movement, which is not in accordance with the ideal of grammatical simplicity.{{sfn|Elordieta|2014|p=5}} Some take a "surface true" viewpoint: that analysis of head direction must take place at the level of [[surface form|surface derivations]], or even the [[Phonetic Form]] (PF), i.e. the order in which sentences are pronounced in natural speech. This rejects the idea of an underlying ordering which is then subject to movement, as posited in Antisymmetry and in certain other approaches. It has been argued that a head parameter must only reside at PF, as it is unmaintainable in its original form as a structural parameter.{{sfn|Richards|2008|p=283}}
+
+Some linguists have provided evidence which may be taken to support Kayne's scheme, such as Lin,{{sfn|Lin|2006}} who considered Standard Chinese sentences with the [[Chinese grammar#Particles|sentence-final particle]] ''le''. Certain restrictions on movement from within verb phrases preceding such a particle are found (if various other assumptions from the literature are accepted) to be consistent with the idea that the verb phrase has moved from its underlying position after its head (the particle ''le'' here being taken as the head of an [[aspect phrase]]). However, Takita (2009) observes that similar restrictions do not apply in Japanese, in spite of its surface head-final character, concluding that if Lin's assumptions are correct, then Japanese must be considered to be a true head-final language, contrary to the main tenet of Antisymmetry.{{sfn|Takita|2009|pp=59}} More details about these arguments can be found in the [[Antisymmetry]] article.
+
+===Gradient classification===
+Some scholars, such as Tesnière, argue that there are no absolute head-initial or head-final languages. According to this approach, it is true that some languages have more head-initial or head-final elements than other languages do, but almost any language contains both head-initial and head-final elements.  Therefore, rather than being classifiable into fixed categories, languages can be arranged on a [[Continuum (measurement)|continuum]] with head-initial and head-final as the extremes, based on the frequency distribution of their [[Dependency grammar|dependency]] directions. This view was supported in a study by Haitao Liu (2010), who investigated 20 languages using a dependency [[treebank]]-based method.{{sfn|Liu|2010|pp=1567–1578}} For instance, Japanese is close to the head-final end of the continuum, while English and German, which have mixed head-initial and head-final dependencies, are plotted in relatively intermediate positions on the continuum.
+
+Polinsky (2012) identified the following five head-directionality sub-types:
+* Rigid head-final languages, including [[Japanese language|Japanese]], [[Korean language|Korean]] and [[Tamil language|Tamil]];
+* Non-rigid head-final languages, including [[Latin]], [[German language|German]], [[Persian language|Persian]], [[Basque language|Basque]], [[Tsez language|Tsez]] and [[Avar language|Avar]];
+* Clearly head-initial languages, including [[Irish language|Irish]], [[Malagasy language|Malagasy]], [[Tongan language|Tongan]] and most [[Mayan languages]];
+* "SVO/head-initial" languages, including [[Indonesian language|Indonesian]] and [[Yucatec Mayan]];
+* "SVO sundry", including [[English language|English]], [[Russian language|Russian]], the [[Romance languages]] and [[Bantu languages]].
+
+She identified a strong correlation between the head-directionality type of a language and the ratio of verbs to nouns in the lexical inventory. Languages with a scarcity of simple verbs tend to be rigidly head-final, as in the case of Japanese, whereas verb-rich languages tend to be head-initial languages.{{sfn|Polinsky|2012|pp=348-359}}
+
+== See also ==
+{{div col|colwidth=20em}}
+*[[Dependency grammar]]
+*[[Dependent-marking language]]
+*[[Double-marking language]]
+*[[Government (linguistics)]]
+*[[Government and binding theory]]
+*[[Head (linguistics)]]
+*[[Head-driven phrase structure grammar]]
+*[[Head-marking language]]
+*[[Minimalist grammar]]
+*[[Transformational grammar]]
+*[[Word order]]
+*[[Zero-marking language]]
+*[[Polish notation]]
+{{div col end}}
+
+==Notes==
+{{Reflist|30em}}
+
+==Bibliography==
+{{Refbegin|colwidth=30em}}
+* {{cite journal|last1=Aboh|first1=Enoch|title=Object shift and verb movement in Gbe|journal=Generative Grammar in Geneva|date=2001|volume=2|pages=1–13|url=http://www.unige.ch/lettres/linge/syntaxe/journal/2/1.pdf|access-date=29 October 2014}}
+* {{cite book|last1=Aboh|first1=Enoch|title=The morphosyntax of complement-head sequences: Clause structure and word order patterns in kwa|date=2004|publisher=Oxford University Press|location=New York}}
+* {{cite book|last1=Bianchi|first1=Valentina|title=Consequences of antisymmetry: Headed relative clauses.|date=1999|publisher=Walter de Gruyter}}
+* {{cite book|last1=Broekhuis|first1=H|title=Syntax of Dutch: Adjectives and Adjective Phrases|date=2013|publisher=Amsterdam University Press|location=Amsterdam}}
+*{{cite journal | last1 = Brousseau | first1 = Anne-Marie | last2 = Lumsden | first2 = John S | year = 1992 | title = Nominal structures in Fongbe | journal = Journal of West African Languages | volume = 22 | issue = 1| pages = 1–22 }}
+*[[Noam Chomsky|Chomsky, Noam]]. (1981). ''[[Lectures on Government and Binding]]''. Foris Publications.
+* {{cite journal | last1 = Comrie | first1 = Bernard | author-link = Bernard Comrie | year = 2008 | title = Pronominal relative clauses in verb-object languages | url = http://www.ling.sinica.edu.tw/files/publication/j2008_4_02_7177.pdf | journal = Language and Linguistics | volume = 9 | issue = 4| pages = 723–733 }}
+* {{cite book|author1=Courtney, Ellen H.|title=Acquisition of Relative Clauses : Processing, typology and function|date=2011|publisher=John Benjamins Publishing Company|isbn=9789027283405|pages=141–172|chapter-url=http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10511250&p00=acquisition%20relative%20clauses%20processing%2C%20typology%20function|access-date=13 November 2014|chapter=Learning to produce Quechua relative clauses}}
+* {{cite journal|last1=Crysmann|first1=Berthold|title=Relative Clause Extraposition in German: an efficient and portable implementation|journal=Research on Language and Computation|date=2005|volume=3|issue=1|pages=61–82|doi=10.1007/s11168-005-1287-z}}
+* {{cite journal|last1=Dopke|first1=Susanne|title=Competing language structures: the acquisition of verb placement by bilingual German-English children|journal=Journal of Child Language|date=1998|volume=22|issue=3|pages=555–584|doi=10.1017/S0305000998003584|pmid=10095325}}
+* [[Matthew Dryer|Dryer, Matthew S]]. (2009). The Branching Direction Theory of Word Order Correlations Revisited. In S. Scalise, E. Magni, & A. Bisetto (Eds.), ''Universals of Language Today'' (pp.&nbsp;185–207). Rotterdam, Netherlands: Springer.
+* {{cite book|last=Elordieta|first=Arantzazu|title=On the relevance of the Head Parameter in a mixed OV language|journal=Theoretical Approaches to Disharmonic Word Order|editor-last1=Biberauer, T.|editor-last2=Sheehan, M.|date=2014|publisher=Oxford Scholarship Online|doi=10.1093/acprof:oso/9780199684359.003.0011|pages=306–329|isbn=9780199684359}}<!--|access-date=29 October 2014-->
+* {{cite journal|last=Fukui|first=Naoki|title=Parameters and optionality|journal=Linguistic Inquiry|year=1993|volume=24|issue=3|pages=399–420|jstor=4178821}}
+* {{cite journal|last1=Gillion|first1=Brendan|title=Towards a Common Semantics for English Count and Mass Nouns|journal=Linguistics and Philosophy|date=1992|volume=15|issue=6|pages=597–639|doi=10.1007/BF00628112}}
+* {{cite book|last1=Graffi|first1=Giorgio|title=200 Years of Syntax: A critical survey|date=2001|publisher=John Benjamins Publishing}}
+* {{cite journal|last1=Hinterhölzl|first1=Roland|title=Collapsing the Head Final Filter and the Head Complement Parameter|journal=Linguistics|date=2010|volume=20|pages=35–66}}
+* {{cite book|last1=Hinterhölzl|first1=Roland|last2=Svetlana|first2=Petrova|title=Information structure and language change: New approaches to word order variation in Germanic|year=2009|publisher=Mouton de Gruyter}}
+* {{cite journal|last1=Huang|first1=C-T. J.|title=Logical relations in Chinese and the theory of grammar|journal=PHD Dissertation, MIT|date=1982}}
+* [[Ray Jackendoff|Jackendoff, Ray]]. (1977). X Syntax: A Study of Phrase Structure. Cambridge: MIT Press.
+* {{cite journal|last1=Kathol|first1=Andreas|title=Positional Effects in a Monostratal Grammar of German|journal=Journal of Linguistics|date=2001|volume=37|issue=1|pages=35–66|doi=10.1017/s0022226701008805}}
+* {{cite journal|last1=Kayne|first1=Richard S.|title=Antisymmetry and Japanese|journal=English Linguistics|date=2003|volume=20|pages=1–40|doi=10.9793/elsj1984.20.1|doi-access=free}}
+* {{cite book|last1=Kayne|first1=Richard S.|title=Proceedings of the 28th West Coast Conference on Formal Linguistics|date=2011|publisher=Cascadilla Press|location=Somerville|pages=1–23|chapter-url=http://www.lingref.com/cpp/wccfl/28/paper2431.pdf|chapter=Why Are There No Directionality Parameters?|access-date=13 November 2014}}
+* {{cite journal|last1=Kinyalolo|first1=Kasangati|title=A note on word order in the progressive and prospective in Fon|journal=Journal of West African Languages|date=1992|volume=22|issue=1|pages=37–51|url=http://www.journalofwestafricanlanguages.org/jwal1/index.php/downloads/summary/116-volume-22-number-1/302-a-note-on-word-order-in-the-progressive-and-prospective-in-fon|access-date=29 October 2014}}
+* {{cite journal|last1=Kratzer|first1=Angelika|title=More structural analogies between pronouns and tenses|journal=Proceedings of SALT|volume=8|issue=92–110}}
+* {{cite journal|last1=Kroch|first1=Anthony|title=Morphosyntactic Variation|journal=Proceedings of the Thirtieth Annual Meeting of the Chicago Linguistics Society|volume=2|pages=180–210}}
+* {{cite journal|last1=Lasnik|first1=Howard|title=Government-binding/principles and parameters theory|journal=Wiley Interdisciplinary Reviews: Cognitive Science|date=2010|volume=1|issue=1|pages=40–50|doi=10.1002/wcs.35|pmid=26272837}}
+* {{cite journal|last1=Lin|first1=Chienjer|title=Aspect is result: Mandarin resultative constructions and aspect incorporation|journal=Proceedings of the West Coast Conference on Linguistics (WECOL)|date=2003}}
+* {{cite journal|last1=Lin|first1=Tzong-Hong J.|title=Complement-to-specifier movement in Mandarin Chinese|journal=Ms., National Tsing Hua University}}
+* {{cite journal|last1=Liu|first1=Haitao|title=Dependency direction as a means of word-order typology: A method based on dependency treebanks|journal=Lingua|date=2010|issue=6|pages=1567–1578|doi=10.1016/j.lingua.2009.10.001|volume=120}}   
+* {{cite book|last1=Nolda|first1=Andreas|title=Topics Detached to the Left: On 'Left Dislocation', 'Hanging Topic', and Related Constructions in German|date=2004|publisher=ZAS Papers in Linguistics|location=Berlin|pages=423–448|url=http://www.zas.gwz-berlin.de/fileadmin/material/ZASPiL_Volltexte/zp35/zaspil35-nolda.pdf|access-date=13 November 2014}}
+* {{cite journal|last1=Onozuka|first1=Hiromi|title=On the Resultative Reading of the Imperfective Aspect in English|journal=Australian Journal of Linguistics|date=2008|volume=28|issue=1|pages=1–16|doi=10.1080/07268600701877465}}
+* {{cite book|author1=Ozeki, Hiromi|title=Acquisition of Relative Clauses : Processing, typology and function|date=2011|publisher=John Benjamins Publishing Company|isbn=9789027283405|pages=173–196|chapter-url=http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10511250&p00=acquisition%20relative%20clauses%20processing%2C%20typology%20function|access-date=13 November 2014|chapter=The acquisition of relative clauses in Japanese}}
+* {{cite book|author1=Ozeki, Hiromi|title=Acquisition of Relative Clauses : Processing, typology and function|date=2011|publisher=John Benjamins Publishing Company|isbn=9789027283405|pages=173–196|chapter-url=http://site.ebrary.com/lib/alltitles/docDetail.action?docID=10511250&p00=acquisition%20relative%20clauses%20processing%2C%20typology%20function|access-date=13 November 2014|chapter=The acquisition of relative clauses in Japanese}}
+* {{cite journal | last1 = Polinsky | first1 = Maria | author-link = Maria Polinsky | year = 2012 | title = Headness, again | url = http://www.linguistics.ucla.edu/faciliti/wpl/issues/wpl17/papers/40_polinsky.pdf | journal = UCLA Working Papers in Linguistics | volume = 17 | pages = 348–359 }}
+* {{cite journal|last=Richards|first=Marc D.|title=Desymmetrization: Parametric variation at the PF-Interface|journal=The Canadian Journal of Linguistics|date=2008|volume=53|issue=2–3|pages=275–300|doi=10.1353/cjl.0.0024|id={{ProQuest|85703588}}}}
+* {{cite journal|last1=Sadler|first1=Louisa|last2=Arnold|first2=Douglas|title=Prenominal adjectives and the phrase/lexical distinction|journal=Journal of Linguistics|date=1994|volume=30|issue=1|pages=187–226|jstor=4176260|doi=10.1017/s0022226700016224}}
+* {{cite journal|last=Sells|first=Peter|title=Korean and Japanese morphology from a lexical perspective|journal=Linguistic Inquiry|date=1995|volume=26|issue=2|pages=277–325|jstor=4178898}}
+* {{cite journal|last1=Shirai|first1=Yasuhiro|last2=Kurono|first2=Atsuko|title=The acquisition of tense-aspect marking in Japanese as a second language|journal=Language Learning |date=1998|volume=48|issue=2|pages=245–279|url=http://www.pitt.edu/~yshirai/Shirai_Kurono(1998)LL.pdf|access-date=26 October 2014|doi=10.1111/1467-9922.00041}}
+* {{cite book|author1=Dominique Sportiche|author2=Hilda Koopman|author3=Edward Stabler|title=An Introduction to Syntactic Analysis and Theory|date=2014|publisher=Wiley Blackwell|location=Chichester}}
+* {{cite journal|last1=Szabolcsi|first1=Anna|title=The possessor that ran away from home|journal=The Linguistic Review|date=1983|volume=3|issue=1|pages=89–102|doi=10.1515/tlir.1983.3.1.89}}
+* {{cite journal|last1=Takahashi|first1=Daiko|title=Determiner raising and scope shift|journal=Linguistic Inquiry|date=2002|volume=33|issue=4|pages=575–615|doi=10.1162/002438902762731772}}
+* {{cite journal|last=Takita|first=Kensuke|title=If Chinese is head-initial, Japanese cannot be|journal=Journal of East Asian Linguistics|date=2009|volume=18|issue=1|pages=41–61|jstor=40345242|doi=10.1007/s10831-009-9038-z}}<!--|access-date=12 November 2014-->
+* {{cite journal|last1=Tokizaki|first1=Hisao|title=The nature of linear information in the morphosyntax-PF interface|journal= English Linguistics|date=2011|volume=28|issue=2|pages=227–257|doi=10.9793/elsj.28.2_227|doi-access=free}}
+* {{cite journal|last1=Van Langendonck|first1=Willy|title=Determiners as heads?|journal=Cognitive Linguistics|date=1994|volume=5|issue=1|pages=243–260|doi=10.1515/cogl.1994.5.3.243}}
+* {{cite journal|last1=Van Riemsdijk|first1=Henk|title=Case in spatial adpositional phrases: The dative-accusative alternation in German|journal=Pitar Mos: A Building with a View. Festschrift for Alexandra Cornilescu|date=2007|pages=1–23}}
+* {{cite journal|last1=Vinka|first1=Mikael|title=The syntax of three Japanese postpositions|journal=Lund Working Papers in Linguistics|date=2009|volume=40|pages=229–250}}
+* {{cite journal|last1=Watanabe|first1=Akira|title=Adjectival inflection and the position of measure phrases|journal=Linguistic Inquiry|date=2011|volume=42|issue=3|pages=490–507|doi=10.1162/ling_a_00055}}
+{{Refend}}
+
+[[Category:Linguistic typology]]
+[[Category:Word order]]
+[[Category:Generative syntax]]

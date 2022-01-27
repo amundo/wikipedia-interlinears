@@ -1,0 +1,97 @@
+{{Infobox language
+|name=Wayoró
+|altname=Wayoro, Ajurú, Wajuru
+|nativename=wayoro emẽto 
+|pronunciation={{IPA|[βajoˈɾo ɛmɛ̃ˈto]}}
+|region=[[Rondônia]] ([[Brazil]])
+|ethnicity=[[Wayoró people|Wajuru]] (ethnic population ~250, FUNASA/SESAI 2016)<ref name="N19"/>{{rp|3}}
+|speakers=3 (+ 11 semispeakers)
+|date=2019
+|ref=<ref name="N19">{{cite thesis |last1=Nogueira |first1=Antônia Fernanda de Souza |url=http://etnolinguistica.wdfiles.com/local--files/tese%3Anogueira-2019/2019_AntoniaFernandaDeSouzaNogueira_VCorr.pdf |title=Predicação na língua Wayoro (Tupi): propriedades de finitude |location=São Paulo |publisher=Universidade de São Paulo |date=2019}}</ref>{{rp|3}}
+|familycolor=American
+|fam1=[[Tupian languages|Tupian]]
+|fam2=[[Tuparí languages|Tuparí]]
+|iso3=wyr
+|dia1=Ngwayoroiat (Wayoroiat)
+|dia2=Kupndiiriat
+|glotto=wayo1238
+|glottorefname=Wayoró
+}}
+
+'''Wayoró''' (also '''Wayoro''', '''Ajurú''', '''Wajuru'''; Wayoró: ''wayoro emẽto'' {{IPA|[βajoˈɾo ɛmɛ̃ˈto]}}) is a moribund [[Tuparian languages|Tuparian]] language ([[Tupian languages|Tupian]] family), which is spoken in the state of [[Rondônia]], in the Amazon region of [[Brazil]]. As of 2019, there were reported to be 3 speakers (all above 70 years old) and 11 semispeakers out of the ethnic population of approximately 250.<ref name="N19"/>{{rp|3}}
+
+==Dialects==
+The Wajuru people is subdivided into three subgroups: the Ngwayoroiat (‘those from the Stone’), the Ngwãkũyãian (‘the [[Agouti]] ones’), and the Kupndiiriat (‘the Forest ones’). Some lexical and phonological differences have been reported between the varieties spoken by the Ngwayoroiat (Wayoroiat) and by the Kupndiiriat.
+
+==Phonology==
+===Consonants===
+The consonantal inventory of Wayoró is as follows.<ref name="N19"/>{{rp|8}} The graphemes which correspond to each phoneme are given in [[Chevron (insignia)|chevrons]].
+{| class="wikitable"
+! !! [[Labial consonant|labial]] !! [[Alveolar consonant|alveolar]] !! [[Postalveolar consonant|postalveolar]]/[[Palatal consonant|palatal]] !! [[Velar consonant|velar]] !! [[Labialized velar consonant|labiovelar]]
+|-
+! [[Voiceless consonant|voiceless]] [[obstruent]]s
+| p ‹p› || t ‹t› || tʃ ‹tx› || k ‹k› || kʷ ‹kw›
+|-
+! [[Nasal consonant|nasals]]
+| m ‹m, mb› || n ‹n, nd› || ɲ ‹y, dj› || ŋ ‹ng, g› || ŋʷ ‹ngw, gw›
+|-
+! [[Oral consonant|oral]] [[sonorant]]s
+| β ‹w› || ɾ ‹r› || || || 
+|}
+
+Underlying nasal consonants may be partially or fully oralized in oral environments. Nogueira (2019) describes the following allophones:
+* /m/ → [m] ‹m›, [mb] ‹mb›
+* /n/ → [n] ‹n›, [nd] ‹nd›
+* /ɲ/ → [ɲ, j, j̃, j<sup>t</sup>] ‹y›, [ndʒ, dʒ] ‹dj›
+* /ŋ/ → [ŋ, ŋg] ‹ng›, [g] ‹g›
+* /ŋʷ/ → [ŋʷ, ŋgʷ] ‹ngw›, [gʷ] ‹gw›
+
+The phonological status of the [[glottal stop]] [ʔ], which occurs in the onset position only (e.g. ''o’uwa'' [oʔʉβa] ‘my pot’, ''o’ega'' [oʔɛga] ‘my hiccup’, ''apa’a'' [apaʔa] ‘to weave a hammock horizontally’), is given as uncertain by Nogueira (2019).<ref name="N19"/>{{rp|11}}
+
+===Vowels===
+The vowel inventory of Wayoró is as follows.<ref name="N19"/>{{rp|9}}
+
+{| class="wikitable"
+! !! [[Front vowel|front]] [[Unrounded vowel|unrounded]] !! [[Central vowel|central]] [[Rounded vowel|rounded]] !! [[Central vowel|central]] [[Unrounded vowel|unrounded]] !! [[Back vowel|back]] [[Rounded vowel|rounded]]
+|-
+! [[High vowel|high]]
+| i iː ĩ ĩː ‹i ii ĩ ĩi› || ʉ ʉː ʉ̃ ʉ̃ː ‹u uu ũ ũu› || ||
+|-
+! [[High-mid vowel|high-mid]]
+| || || || o oː õ õː ‹o oo õ õo›
+|-
+! [[Open-mid vowel|open-mid]]
+| ɛ ɛː ɛ̃ ɛ̃ː ‹e ee ẽ ẽe› || || ||
+|-
+! [[Low vowel|low]]
+| || || a aː ã ãː ‹a aa ã ãa› ||
+|}
+
+==Syntax==
+As in other [[Tuparian languages|Tuparian]] languages, the main clauses of Wayoró follow the cross-linguistically rare [[Nominative–absolutive alignment|nominative–absolutive]] pattern. Person prefixes on the verb are [[Absolutive case|absolutive]], i.e., they index the sole [[Argument (linguistics)|argument]] of an [[intransitive verb]] (S) and the [[Patient (linguistics)|patient]] argument ('direct object') of a transitive verb (P). Person pronouns, which follow the verb (either cliticizing to it or not) are [[Nominative case|nominative]]: they may encode the sole [[Argument (linguistics)|argument]] of an [[intransitive verb]] (S) or the [[Agent (linguistics)|agent]] argument of a [[transitive verb]] (A), but not the patient of a transitive verb (P). This is exemplified below.<ref name="GN-2018">{{cite journal |last1=Galucio |first1=Ana Vilacy |last2=de Souza Nogueira |first2=Antônia Fernanda |title=From object nominalization to object focus: The innovative A-alignment in the Tuparian languages (Tupian family) |journal=Journal of Historical Linguistics |date=20 July 2018 |volume=8 |issue=1 |pages=95–127 |doi=10.1075/jhl.16025.gal}}</ref>{{rp|99}}
+
+{{interlinear|indent=3|glossing2=no|glossing4=yes|glossing=link
+|Eamõjãn (en).
+|s-V (S)
+|/e-amõc-a-t (ẽt)/
+|2-dance-{{gcl|TH|thematic vowel|thematic vowel}}-NFUT (2.NOM)
+|‘You danced.’}}
+
+{{interlinear|indent=3|glossing2=no|glossing4=yes|glossing=link
+|Etopkwap nã on.
+|p-V {} A
+|/e-top-kʷ-a-p nã õt/
+|2-see-{{gcl|PL|pluractionality|pluractionality}}-{{gcl|TH|thematic vowel|thematic vowel}}-''p'' FUT 1.NOM
+|‘I’ll see you every day.’}}
+
+==References==
+{{reflist}}
+
+== External links ==
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0233 Documentation of Urgently Endangered Tupian Languages (including Ajuru)]
+* [http://tular.clld.org TuLaR (Tupian Languages Resources)]
+{{Tupian languages}}
+{{DEFAULTSORT:Wayoro language}}
+[[Category:Tupian languages]]
+[[Category:Languages of South America]]
+[[Category:Mamoré–Guaporé linguistic area]]

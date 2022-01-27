@@ -1,0 +1,351 @@
+{{Short description|North American aboriginal language}}
+{{distinguish|Kiowa language}}
+{{Infobox language
+| name = Plains Apache
+| altname = Kiowa Apache
+| states = [[United States]]
+| region = [[Caddo County]], [[Oklahoma]]
+| ethnicity = [[Plains Apache]]
+| extinct = 2008
+| familycolor = Dené-Yeniseian
+| fam2 = [[Na-Dene languages|Na-Dene]]
+| fam3 = [[Athabaskan languages|Athabaskan]]
+| fam4 = [[Southern Athabaskan languages|Southern Athabaskan]]
+| map = Southern_Athabaskan_languages.svg
+| mapcaption = Historical distribution of Southern Athabaskan languages. Plains Apache (labeled Kiowa Apache) is located in northwestern Oklahoma.
+| iso3 = apk
+| glotto = kiow1264
+| glottorefname = Kiowa Apache
+| notice = IPA
+}}
+
+The '''Plains Apache''' language (or '''Kiowa Apache''' language) was a [[Southern Athabaskan languages|Southern Athabaskan language]] formerly spoken by the [[Plains Apache]], organized as the [[Apache Tribe of Oklahoma]], living primarily around [[Anadarko, Oklahoma|Anadarko]] in southwest [[Oklahoma]].<ref>{{cite web |last1=Everett |first1=Dianna |title=Apache Tribe of Oklahoma |url=https://www.okhistory.org/publications/enc/entry.php?entry=AP002 |website=The Encyclopedia of Oklahoma History and Culture |publisher=Oklahoma Historical Society |access-date=20 January 2020}}</ref> The language is [[extinct language|extinct]] as of 2008, when Alfred Chalepah, Jr., the last native speaker, died.<ref>Morgan, J. L. (2012). ''Classificatory Verbs in Plains Apache'' (Doctoral dissertation, University of Oklahoma).</ref>
+
+Plains Apache is the most divergent member of the Southern Athabaskan languages, a family which also includes [[Navajo language|Navajo]], [[Chiricahua language|Chiricahua Apache]], [[Mescalero language|Mescalero Apache]], [[Lipan Apache language|Lipan Apache]], [[Western Apache language|Western Apache]], and [[Jicarilla Apache language|Jicarilla Apache]]. As a member of the broader Athabaskan family, it has an extremely complex system of verbal morphology, often enabling entire sentences to be constructed with only a verb.
+
+==Phonology==
+This article follows the orthography of Bittle (1963); where this differs from the [[International Phonetic Alphabet|IPA]], IPA is given between slashes.
+===Consonants===
+Plains Apache has a large consonant inventory resembling that of its close relatives Navajo and Western Apache.
+{| class="wikitable" style="text-align: center;"
+! colspan="2" rowspan="2" |
+! rowspan="2" | [[Bilabial consonant|Bilabial]]
+! colspan="3" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" |[[Postalveolar consonant|Post-<br>alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! rowspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-style="font-size: x-small;"
+! plain
+! [[lateral consonant|lateral]]
+! [[affricate consonant|fricated]]
+|-
+! rowspan="3" | [[Stop consonant|Stop]]
+! <small>[[tenuis consonant|unaspirated]]</small>
+| {{IPAlink|p}} {{angbr|b}}
+| {{IPAlink|t}} {{angbr|d}}
+| {{IPAlink|tɬ}} {{angbr|dl}}
+| {{IPAlink|ts}} {{angbr|dz}}
+| {{IPAlink|tʃ}} {{angbr|dž}}
+|
+| {{IPAlink|k}} {{angbr|g}}
+|
+|-
+! <small>[[aspiration (phonetics)|aspirated]]</small>
+|
+|
+| {{IPA|tɬʰ}} {{angbr|tł}}
+| {{IPA|tsʰ}} {{angbr|ts}}
+| {{IPA|tʃʰ}} {{angbr|tš}}
+|
+| {{IPA|kʰ}} {{angbr|k}}
+|
+|-
+! <small>[[Glottalized consonant|glottalized]]</small>
+|
+| {{IPAlink|tʼ}}
+| {{IPAlink|tɬʼ}} {{angbr|tłʼ}}
+| {{IPAlink|tsʼ}}
+| {{IPAlink|tʃʼ}} {{angbr|tšʼ}}
+|
+| {{IPAlink|kʼ}}
+| {{IPAlink|ʔ}}
+|-
+! rowspan="2" | [[Continuant]]
+! <small>[[voiceless]]</small>
+|
+|
+| {{IPAlink|ɬ}} {{angbr|ł}}
+| {{IPAlink|s}} 
+| {{IPAlink|ʃ}} {{angbr|š}}
+|
+| {{IPAlink|x}} 
+| {{IPAlink|h}}
+|-
+! <small>[[voiced]]</small>
+|
+|
+| {{IPAlink|l}}
+| {{IPAlink|z}}
+| {{IPAlink|ʒ}} {{angbr|ž}}
+|
+| {{IPAlink|ɣ}}
+|
+|-
+! rowspan="2" |[[Nasal stop|Nasal]]
+!<small>[[Stop consonant|stop]]</small>
+|
+| {{IPA|ⁿd}}
+|
+|
+|
+|
+|
+|
+|-
+!<small>[[continuant]]</small>
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" | [[Approximant consonant|Glide]]
+|
+|
+|
+|
+|
+| {{IPAlink|j}} {{angbr|y}}
+|
+|
+|}
+
+The phoneme {{IPA|/ⁿd/}} is only found in prefixes and does not occur before {{IPA|/o/}}. {{IPA|/h/}} is in free variation with {{IPA|/x/}} preceding {{IPA|/a/}} and also does not occur before {{IPA|/o/}}. The fricated alveolar and postalveolar series are tend to be realized as slightly retroflex preceding {{IPA|/i/}} and {{IPA|/e/}}, though these variants are in free variation with the unretroflexed realizations. The plain alveolar and velar series are slightly fronted preceding {{IPA|/i/}} and {{IPA|/e/}}, and slightly backed and rounded preceding {{IPA|/o/}}.
+
+===Vowels===
+Plains Apache distinguishes four vowel qualities, much like the other Southern Athabaskan languages.
+{| class="wikitable" style="text-align: center"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|High]]
+| {{IPAlink|i}}
+| rowspan="2" | {{IPAlink|o}}
+|-
+! [[Open-mid vowel|Mid]]
+| {{IPAlink|ɛ}} {{angbr|e}}
+|-
+! [[Open vowel|Low]]
+| colspan="2" | {{IPAlink|a}}
+|}
+Additionally, all vowels may be either short or long and nasal or oral. Length is indicated in the orthography by writing the vowel twice (e.g. ''kóó'', "water"); nasalization is indicated with an [[ogonek]] (e.g. ''nǫ̀ǫ̀'', "earth"). When long, the realization of {{IPA|/i/}} tends to be closer to {{IPA|[i]}}, and when short, closer to {{IPA|[ɪ]}}. An analogous alternation is true of {{IPA|/o/}} {{IPA|[u~o]}}, although this variation is more free, and is lexicalized by some speakers in certain words.
+
+===Syllable Structure===
+The Plains Apache syllable is maximally CCV:C, e.g. ''stłèèh'' "pants", though initial clusters are rare and must co-occur with a long vowel, making most syllables (C)V(:)(C), e.g. ''xòòš'' "cactus" and ''séé'' "dust". All consonants may appear in the syllable onset, although {{IPA|/l/}} and a null onset are not permitted word-initially; only {{IPA|/d, g, ʔ, s, z, ʃ, ʒ, h, l/}} and {{IPA|/ɬ/}} may appear in the syllable coda, whether word-final or not.
+
+=== Tone ===
+Plains Apache has a [[register tone]] system with two levels, low and high. Low is written with a grave accent (e.g. ''bìs'', "bank"), and high is written with an acute accent (e.g. ''šéł'', "kindness"). Syllables with short vowels bear a single toneme, but those with long vowels have one toneme for each [[Mora (linguistics)|mora]] of the vowel, making for a total of four contours:
+
+* high-high, ''tʼǫ́ǫ́š'', "bark"
+* high-low, ''béè-lą̀ą̀ʔ'', "point"
+* low-high, ''gòóʔ'', "snake"
+* low-low, ''gààd'', "spread of cedars"
+
+== Morphology ==
+
+=== Nouns ===
+Almost every noun in Plains Apache can optionally take a pronominal prefix to indicate its possessor. These prefixes are as follows (some of the prefixes have multiple forms in free variation; in these cases, the more common variant is listed first).
+{| class="wikitable" style="text-align: center;"
+!
+![[Grammatical person|First<br>person]]
+![[Grammatical person|Second<br>person]]
+![[Grammatical person|Third<br>person]]
+!Third person<br>[[Indefinite pronoun|indefinite]]
+![[Fourth person|Fourth<br>person]]
+|-
+![[Singular number|Singular]]
+|ší-
+|dí-
+| rowspan="2" |bí-
+~ mí-
+| rowspan="2" |ʔí-
+| rowspan="2" |góó-
+~ gó-
+|-
+![[Plural]]
+| colspan="2" |dàxí- ~ dá-
+|}
+Some of these forms require further explanation. The indefinite third person may be used when the possessor is unknown, and is similar in meaning to "someone's" (e.g. ''ʔí-bą̀ą̀s'' "a hoop owned by some unknown person"). The fourth person is reserved for possessors who are deemed to be in some way remote from the speaker, usually socially; compare ''bí-bą̀ą̀s'', which would refer to a hoop belonging to someone who the speaker is familiar with and interacts with frequently and informally, and ''góó-bą̀ą̀s'', used for someone who the speaker has a purely formal relationship with and does not know well.
+
+The noun bases to which these prefixes can be added are of one of three classes: primary, compound, and nominalized. Primary noun bases are mostly monosyllabic stems such as ''t'èèš'' "charcoal," though a few of them seem to consist of an unidentified prefix and a stem (e.g. ''dèè-éh'' "antelope"), and some others are simply unanalyzable polysyllables, perhaps originally onomatopoeic (e.g. ''ʔą̀ą̀ʔą̀ʔ'' "magpie"). Many of the stem nouns have different forms depending on their morphological context, with an absolute form when unpossessed, an inflected form when possessed, and a combining form in compounds or nominalized phrases. The formation of these is generally irregular, although certain patterns do exist, such as initial ''x'', ''s'', and ''ł'' becoming ''ɣ'', ''z'', and ''l'' when inflected (e.g. ''sàà'' > ''bí-zàà'' "his language") and a final V:h becoming Vʔ (e.g. ''t'ààh'' > ''bí-t'áʔ'' "his feather").
+
+Some stem nouns, especially those referring to body parts, are [[Inalienably possessed noun|inalienably possessed]], i.e. they cannot occur without a possessor prefix (e.g. ''bí-dààh'' "his lips," but not *''dààh''). In these cases the indefinite prefix must be used if one wishes to talk about the object without specifying the possessor (''ʔí-dààh'' "lips"). In order to indicate [[alienable possession]] of these nouns, an additional possessor prefix can be attached before the indefinite prefix, yielding forms like ''bí-ʔí-k'àʔ''  "his fat (which comes from the body of something or someone else, but is now in his possession)" contrasting with ''bí-k'àʔ'' "his fat (which is a part of his own body)." Some of these nouns may change their meaning when preceded by ''ʔí-'', such as ''ʔí-bèʔ'' "milk" versus ''bí-bèʔ'' "her breast". Lastly, some can only take the indefinite prefix, effectively turning them into regular alienably possessed nouns starting with ''ʔí-'' (e.g. ''ʔí-dààh'' "enemy," but ''bí-ʔí-dààh'' "his enemy," not *''bí-dààh'').
+
+The second kind of noun bases are compounds, which are formed from two noun stems and sometimes an enclitic of obscure meaning (e.g. ''bí-déé-kòò'' "his tears," from ''déé'', combining form of "eye," and ''kòò'', combining form of "water"). The third kind of noun bases are nominalized verbs or phrases, which may or may not include some kind of a relative enclitic. Examples include ''dáł-ts'ààh'' "zebra, tiger," from the identical verb meaning "marks are on it," and ''hà-ts'í-ɣą̀ą̀s-é'' "badger," from the verb ''hà-ts'í-ɣą̀ą̀s'' "he scratches out" plus the relative enclitic ''-é'' "he who."
+
+=== Verbs ===
+Like those of most other Athabaskan languages, Plains Apache verbs are highly morphologically complex, exhibiting [[polypersonal agreement]], rich [[Grammatical aspect|aspect]] marking, and the characteristic Athabaskan classifier system (a set of four mandatory [[Valency (linguistics)|valence]]-changing prefixes found throughout the family). Bittle (1963) identifies 14 positions in the verb template, divided into the verbal base (which defines the lexical meaning of the verb) and [[Inflectional paradigm|paradigmatic]] prefixes (which inflect the verb for person, number, tense, aspect, mood, and voice). The following verb template table is reproduced from Bittle:
+{| class="wikitable" style="text-align: center;"
+! rowspan="2" |Position
+! colspan="2" |Verbal base
+! rowspan="2" |Paradigmatic prefixes
+|-
+!Theme
+!Adverbial prefixes
+|-
+!1
+|
+|
+|Indirect object
+|-
+!2
+|
+|Postposition
+|
+|-
+!3
+|
+|Adverbial prefixes
+|
+|-
+!4
+|Theme prefix
+|
+|
+|-
+!5
+|
+|
+|Iterative mode
+|-
+!6
+|
+|
+|Number prefix
+|-
+!7
+|
+|
+|Direct object
+|-
+!8
+|
+|
+|Deictic prefixes
+|-
+!9
+|
+|Adverbial prefixes
+|
+|-
+!10
+|
+|
+|Tense prefix
+|-
+!11
+|
+|
+|Modal prefixes
+|-
+!12
+|
+|
+|Subject pronoun
+|-
+!13
+|
+|
+|Classifier
+|-
+!14
+|Stem
+|
+|
+|}
+
+However, a verb in Plains Apache never has an affix in each position. A typical verb might be inflected as follows:
+
+{{interlinear|indent=2| lang = apk
+|top= Šàyédíʔą̀ą̀
+|ši- a- yi- dí- ∅- ∅- ʔą̀ą̀
+|1SG.OBJ- PP- 3OBJ- PFV- 3SBJ- CLF- give
+|'He gives it to me'}}
+
+In this case, ''ši''- is the indirect object prefix in slot 1, -''a''- is the postposition in slot 2, -''yi''- is the direct object prefix in slot 7, -''dí''- is the modal prefix in slot 11, slots 12 and 13 are occupied by zero morphemes, and ''ʔą̀ą̀'' is the stem in slot 14. All other slots are empty.
+
+The above example displays the zero classifier. Following is an example of a fully inflected verb with the ''ł''- classifier prefix:
+
+{{interlinear|indent=2| lang = apk
+|top= Šìgółbèèš
+|ši- go- ∅- ∅- ł- bèèš
+|1SG.OBJ- NUM- IPFV- 3SBJ- CLF- boil
+|'They two are boiling me'}}
+
+== Syntax ==
+{{Main|Southern Athabascan grammar#Typological overview}}
+Like other Southern Athabaskan languages, Plains Apache has strongly head-final tendencies, with a predominant word order of [[Subject–object–verb|subject-object-verb]] and [[postpositions]] rather than prepositions. This is illustrated in the following example sentences:
+
+{{interlinear|indent=2| lang = apk
+|top= Dèènáá kóó ʔíłbééš
+|dèènáá kóó ʔí- ł- bééš
+|man water INDEF- CLF- boil
+|'The man boils water'}}
+
+{{interlinear|indent=2| lang = apk
+|top= Séé míídžǫ́ʔdą́ʔ dàyìɣínííł
+|séé mi- džǫ́ʔ- dą́ʔ dà- yi- ɣí- ø- ø- nííł
+|dirt 3SG- back- PP ADV- 3OBJ- PROG- 3SUBJ- CLF- throw
+|'He threw dirt on his back'}}
+
+However, due to the morphological complexity of Plains Apache verb inflection, it is often possible for a sentence to consist of a single verb, e.g.
+
+{{interlinear|indent=2| lang = apk
+|top= Dàdį̀į̀mą̀ą̀s
+|da- di- ∅- į̀į̀d- ∅- mą̀ą̀s
+|NUM- THM- IPFV- 1DUPL.SBJ- CLF- {go to war}
+|'Each one of us is starting off to war'}}
+
+Noun phrases always contain only a noun, as Plains Apache has no determiners or adjectives; the equivalent of adjectival modification is achieved by the use of compound and nominalized nouns discussed above.
+
+==See also==
+* [[Apache]]
+* [[Southern Athabaskan languages]]
+* [[Kiowa]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin|30em}}
+* Bittle, William E. (n.d.). Plains Apache field notes.  (Unpublished manuscript).
+* Bittle, William E. (1956). ''The position of Kiowa-Apache in the Apachean group''. (Doctoral dissertation, University of California, Los Angeles).
+* Bittle, William E. (1963). Kiowa-Apache.  In H. Hoijer (Ed.), ''Studies in the Athapaskan languages'' (pp.&nbsp;76–101). University of California publications in linguistics (No. 29). Berkeley: University of California Press.
+* Bittle, William E. (1967). Kiowa-Apache. In H. Hoijer (Ed.), ''Studies in Southwestern ethnolinguistics: meaning and history in the languages of the American Southwest.'' Berkeley: University of California Press.
+* Bittle, William E. (1971). A brief history of the Kiowa-Apache. Oklahoma Papers in Anthropology 12(1): 1-34.
+* Bittle, William E. (1979). Kiowa Apache Raiding Behavior. Oklahoma Papers in Anthropology 20(2): 33-47.
+* Collins, Melanie Ruth. (1983). Plains Apache: Strength Relations Among the Phonological Elements in a Dying Language. MA thesis, University of Oklahoma.
+* Gatschet, Albert S. (1884). Na-isha Band, Apache (Kiowa Apache). Vocabulary and brief texts with interlinear translation November - December, 1884. Manuscript 62, National Anthropological Archives, Smithsonian Institution. Washington, DC.
+* Goddard, Pliny Earle. (1911). Field notes in California Athabascan languages. American Council of Learned Societies Committee on Native American Languages, American Philosophical Society. Philadelphia, PA.
+* Hoijer, Harry. (1971). The Position of the Apachean Languages in the Athapaskan Stock. Apachean Culture History and Ethnology, ed. by Keith H. Basso and Morris E. Opler. Anthropological Papers of the University of Arizona 21.3-6.
+*Morgan, J. L. (2012). ''Classificatory Verbs in Plains Apache'' (Doctoral dissertation, University of Oklahoma).
+{{Refend}}
+
+{{Athabaskan languages}}
+{{Languages of Oklahoma}}
+
+[[Category:Indigenous languages of the North American Plains]]
+[[Category:Indigenous languages of Oklahoma]]
+[[Category:Southern Athabaskan languages]]
+[[Category:Apache culture]]
+[[Category:Endangered Dené–Yeniseian languages]]
+[[Category:Extinct languages of North America]]
+[[Category:Languages extinct in the 2000s]]
+
+
+{{indigenousAmerican-lang-stub}}

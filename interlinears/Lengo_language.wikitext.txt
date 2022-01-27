@@ -1,0 +1,680 @@
+{{short description|Austronesian language spoken in the Solomon Islands}}
+{{Infobox language
+|name=Lengo
+|states=[[Solomon Islands]]
+|region=[[Guadalcanal]]
+|speakers=14,000
+|date=1999
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southeast Solomonic languages|Southeast Solomonic]]
+|fam5=[[Gela–Guadalcanal languages|Gela–Guadalcanal]]
+|fam6=[[Gela languages|Gelic]]
+|iso3=lgr
+|glotto=leng1259
+|glottorefname=Lengo
+}}
+
+'''Lengo''' is a [[Southeast Solomonic languages|Southeast Solomonic]] language of [[Guadalcanal]].
+
+==Phonology==
+
+===Vowels===
+
+Lengo has 6 [[vowel]]s.{{sfn|Unger|2008|p=5}}
+
+{|class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Close-mid vowel|Close-Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Open-mid vowel|Open-Mid]]
+| {{IPA link|ɛ}}
+|
+|-
+! [[Open vowel|Open]]
+|
+| {{IPA link|ɑ}}
+|}
+
+[[Diphthong|Vowel sequences]] occur commonly for all combinations of these vowels, with the exception of {{IPA|/uo/}}. The front open-mid vowel {{IPA|/ɛ/}} never occurs in sequence.
+
+===Consonants===
+
+Lengo has 15 [[consonant]]s.{{sfn|Unger|2008|p=4}}
+
+{|class=wikitable style=text-align:center
+!
+![[Labial consonant|Labial]]
+![[Coronal consonant|Coronal]]
+![[Velar consonant|Velar]]
+|-
+![[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|{{IPA link|ŋ}}
+|-
+!rowspan=2|<small>([[prenasalized consonant|prenasalized]])</small><br>[[Plosive consonant|Plosive]]
+|{{IPA|ᵐb}}
+|{{IPA|ⁿd}}
+|{{IPA|ᵑɡ}}
+|-
+|{{IPA link|p}}
+|{{IPA link|t}} 
+|{{IPA link|k}}
+|-
+![[Spirant]]
+|{{IPA link|v}}
+|{{IPA link|ð}}
+|{{IPA link|ɣ}}
+|-
+![[Sibilant]]
+|
+|{{IPA link|s}}
+|
+|-
+![[Trill consonant|Trill]]
+| 
+|{{IPA link|r}}
+|
+|-
+![[Lateral consonant|Lateral]]
+| 
+|{{IPA link|l}}
+| 
+|}
+
+[[Voice (phonetics)|Voiced]] stops are [[Prenasalized consonant|prenasalized]]. Two instances of regional variation in these phonemes have been observed. These are {{IPA|/v/}} becoming {{IPAslink|β}}, and {{IPA|/ð/}} becoming {{IPAslink|z}}.
+
+==Morphology==
+
+===Pronominal systems===
+Lengo has five sets of [[Pronouns|pronominal forms]]. These are emphatic, subject reference, object, direct possessor, and indirect possessor. These distinguish maximally between four [[Grammatical person|persons]] (first person inclusive and exclusive, second, and third person), and four [[Grammatical number|numbers]] (singular, plural, dual, and paucal). There is no [[grammatical gender]] distinction, but there is an [[animacy]] distinction in the object paradigm. Two further uses of these pronominal forms occur - a [[reflexive pronoun]], and a set of [[Interrogative word|interrogative pronouns]].{{sfn|Unger|2008|pp=27-29}}
+
+The dual and paucal forms are derived from the plural forms by the addition of '''ko-''' and '''tu-''' respectively.
+The dual forms are used only to indicate ''''two and only two'''', whilst the plural and paucal forms mean ''''two or more'''' and ''''three or more'''' respectively. First person exclusive excludes the addresse(s).
+
+====Emphatic pronouns====
+The emphatic pronoun in Lengo is optional, and can occur in combination with obligatory pronouns that may occur with subject or object function. It can also appear without other pronouns. It is used to emphasize the semantic role of a noun in a clause.{{sfn|Unger|2008|p=29}}
+ 
+{| class="wikitable" style="text-align: center;"
+|+ {{sfn|Unger|2008|p=29}}
+! colspan="2" |
+! [[Singular number#Singular versus plural|Singular]]
+! [[Plural]]
+! [[Dual (grammatical number)|Dual]]
+! [[Singular number#Paucal|Paucal]]
+|-
+! rowspan="2" | 1st
+! {{small|exclusive}}
+| rowspan="2" | inau
+| ighami
+| i-ko-ghami
+| i-tu-ghami
+|-
+! {{small|inclusive}}
+| ighita
+| i-ko-ghita
+| i-tu-ghita
+|-
+! colspan="2" | 2nd
+| ighoe
+| ighami
+| i-ko-ghamu
+| i-tu-ghamu
+|-
+! colspan="2" | 3rd
+| igeia
+| igeira
+| i-ko-ira
+| i-tu-ira
+|}
+
+'''Examples:'''
+{{interlinear|number=(1)
+|ara gito-a t-i m-ara lavi dea-a na kei-gu '''inau'''
+|3PL steal-o:3SG REAL-LOC CONJ-3PL take go-o:3SG ART basket-PS:1SG EP:1SG 
+|"They stole it and they took it away my basket - mine."{{sfn|Unger|2008|p=32}}}}
+
+{{interlinear|number=(2)
+|ara-ko gara iti-a na thinaghe '''i-ko-ira''' m-u ghe tapa '''inau'''
+|3PL-DU pull up-o:3SG ART canoe DU.EP:3PL CONJ-1SG continue run EP:1SG
+|"they two pulled up the canoe and I continued to run."{{sfn|Unger|2008|p=30}}}}
+
+====Subject reference pronouns====
+The subject reference pronoun appears as the first element in a verb phrase. It is obligatory in any main clause, but can be excepted in subordinate clauses. It is optional in imperative sentences.{{sfn|Unger|2008|p=34}}
+
+{| class="wikitable" style="text-align: center;"
+|+ {{sfn|Unger|2008|p=37}}
+! colspan="2" |
+! [[Singular number#Singular versus plural|Singular]]
+! [[Plural]]
+! [[Dual (grammatical number)|Dual]]
+! [[Singular number#Paucal|Paucal]]
+|-
+! rowspan="2" | 1st
+! {{small|exclusive}}
+| rowspan="2" | u
+| ami
+| ami-ko
+| ami-tu
+|-
+! {{small|inclusive}}
+| a
+| a-ko
+| a-tu
+|-
+! colspan="2" | 2nd
+| o
+| amu
+| amu-ko
+| amu-tu
+|-
+! colspan="2" | 3rd
+| e
+| ara
+| ara-ko
+| ara-tu
+|}
+
+'''Example:'''
+{{interlinear|number=(3)
+|i-ko-ghami a P. '''ami-ko''' dea i nughu.
+|DU:EP:1PL.EXCL ART P. 1PL.EXCL-DU go LOC river
+|"We two, P. and I, we two went to the river."{{sfn|Unger|2008|p=37}}}}
+
+====Object pronouns====
+The object form in Lengo is identified using a set of pronominal suffixes, which index the object arguments on the verb. In instances where a verb takes both a direct and indirect object, only the indirect object is marked. The third person plural object form is marked for animate or inanimate objects.{{sfn|Unger|2008|p=39}}
+
+{| class="wikitable" style="text-align: center;"
+|+ {{sfn|Unger|2008|p=39}}
+! colspan="2" |
+! [[Singular number#Singular versus plural|Singular]]
+! [[Plural]]
+! [[Dual (grammatical number)|Dual]]
+! [[Singular number#Paucal|Paucal]]
+|-
+! rowspan="2" | 1st
+! {{small|exclusive}}
+| rowspan="2" | -u
+| -ghami
+| -ko-ghami
+| -tu-ghami
+|-
+! {{small|inclusive}}
+| -ghita
+| -ko-ghita
+| -tu-ghita
+|-
+! colspan="2" | 2nd
+| -gho
+| -ghamu
+| -ko-ghamu
+| -tu-ghamu
+|-
+! colspan="2" | 3rd
+| -a
+| -ra (animate), -i (inanimate)
+| -ko-ira
+| -tu-ira
+|}
+
+'''Example:'''
+{{interlinear|number=(4)
+|ara pitu-'''u'''
+|3PL wait-o:1SG
+|"They await me."{{sfn|Unger|2008|p=39}}}}
+
+====Direct possessor pronouns====
+The direct possessor form is used for [[Inalienable possession|inalienably possessed]] nouns. It is a suffix on the possessed noun that indicates the possessor. In the case of the dual and paucal forms, number is indicated as a prefix on the noun, and the plural form of the possessive suffix is used.{{sfn|Unger|2008|p=42}}
+
+{| class="wikitable" style="text-align: center;"
+|+ {{sfn|Unger|2008|p=41}}
+! colspan="2" |
+! [[Singular number#Singular versus plural|Singular]]
+! [[Plural]]
+! [[Dual (grammatical number)|Dual]]
+! [[Singular number#Paucal|Paucal]]
+|-
+! rowspan="2" | 1st
+! {{small|exclusive}}
+| rowspan="2" | -gu
+| -mami
+| ko- -mami
+| tu- -mami
+|-
+! {{small|inclusive}}
+| -da
+| ko- -da
+| tu- -da
+|-
+! colspan="2" | 2nd
+| -mu
+| -mu
+| ko- -miu
+| tu- -miu
+|-
+! colspan="2" | 3rd
+| -a, -na
+| -dira
+| ko- -dira
+| tu- -dira
+|}
+
+The third person singular direct possessor appears in two forms, with '-a' being more prevalent than '-na'.{{sfn|Unger|2008|p=41}}
+
+'''Examples:'''
+
+{{interlinear|number=(5)
+|na vae-'''gu'''
+|ART house-PS:1SG
+|"My house."{{sfn|Unger|2008|p=42}}}}
+
+{{interlinear|number=(6)
+|A '''ko'''-dae-'''mami''' e belo
+|ART DU-child-PL:1PL.EXCL 3SG ring.bell
+|"our two's child is ringing the bell."{{sfn|Unger|2008|p=49}}}}
+
+====Indirect possessor pronouns====
+The indirect possessor form is used for [[alienable possession|alienably possessed]] nouns. It occurs as a free morpheme preceding the possessed noun. There are two categories distinguished - 'oral consumable' and 'general'. The oral consumable category includes items that are able to be eaten, drunk, or consumed via the mouth, such as tobacco.{{sfn|Unger|2008|p=42}}
+
+{| class="wikitable" style="text-align: center;"
+!{{sfn|Unger|2008|p=42}}
+!colspan="4"| General
+!colspan="4"| Oral consumable
+|- 
+!
+! [[Grammatical person|1st Inclusive]]
+! 1st Exclusive
+! 2nd
+! 3rd
+! 1st Inclusive
+! 1st Exclusive
+! 2nd
+! 3rd
+|-
+! [[Singular number#Singular versus plural|Singular]]
+|colspan="2"| ni-gu-a
+| ni-mo-a
+| ne
+|colspan="2"| gha-gu-a
+| gha-mo-a
+| ghe
+|-
+! [[Plural]]
+| no-da
+| ni-mami
+| ni-miu
+| no-dira
+| gha-da
+| gha-mami
+| gha-miu
+| gha-dira
+|-
+! [[Dual (grammatical number)|Dual]]
+| ko-no-da
+| ko-ni-mami
+| ko-ni-miu
+| ko-no-dira
+| ko-gha-da
+| ko-gha-mami
+| ko-gha-miu
+| ko-gha-dira
+|-
+! [[Singular number#Paucal|Paucal]]
+| tu-no-da
+| tu-ni-mami
+| tu-ni-miu
+| tu-no-dira
+| tu-gha-da
+| tu-gha-mami
+| tu-gha-miu
+| tu-gha-dira
+|}
+
+'''Oral consumable form:'''
+{{interlinear|number=(7)
+|'''gha-mu-a''' na vudi lepa
+|oral.CLF-PS:2SG-O:3SG ART banana ripe
+|"[Here is a] ripe banana for you to eat."{{sfn|Unger|2008|p=44}}}}
+
+'''General form:'''
+{{interlinear|number=(8)
+|'''ne''' na be O.
+|PS:3SG ART pig O
+|"O's pig."{{sfn|Unger|2008|p=43}}}}
+
+====Reflexive pronouns====
+A [[reflexive pronoun]] is composed when a direct possessor suffix is added to the stem ''''tibo''''. This results in a [[valency (linguistics)|valency]] decrease of the verb.{{sfn|Unger|2008|p=44}}
+
+'''Examples:'''
+{{interlinear|number=(9)
+|u toka '''tibo-gu.'''
+|1SG cut REFL-PS:1SG
+|"I cut myself."{{sfn|Unger|2008|p=45}}}}
+
+{{interlinear|number=(10)
+|u toka na ghai
+|1SG cut ART tree
+|"I cut the tree."}}
+
+====Interrogative and relative pronouns====
+Lengo has two pronouns that have [[interrogative word|interrogative]] or [[relative pronoun|relative]] uses. ''''thi'''' is used if the reference is human, and ''''tha'''' if the reference is non-human.{{sfn|Unger|2008|p=45}}
+
+'''Relative use:'''
+{{interlinear|number=(11)
+|na tinoni ketha a '''thi''' ga deni ba k-e mai lau-a pile-a na vanga de
+|ART person different ART REL there DEM FUT IRR-3SG come take-o:3SG little.bit-o:3SG ART food DEM 
+|"a different person who is over there will come take a bit of this food."{{sfn|Unger|2008|p=45}}}}
+
+'''Interrogative use:'''
+{{interlinear|number=(12)
+|na '''tha''' t-o goni-a?
+|ART INT REAL-3SG do-o:3SG
+|"What are you doing?"{{sfn|Unger|2008|p=46}}}}
+
+==Negation==
+There are several ways to indicate negation in Lengo.
+
+There is the discontinuous morpheme ''mo'' '<small>NEG</small>', which surrounds the verb being negated. There are three modals which can appear in the serial verb construction and are negative (''teigha''), prohibitive (''tabu'') or non-volitive (''kou''). Lastly, there is the auxiliary ''boro'' 'impossible <small>FUT</small>', which is sometimes glossed as '<small>NEG</small>' and can negate the verb.
+
+The ''mo ... mo'' '<small>NEG ... NEG</small>' structure can also be combined with ''teigha'' '<small>NEG</small>' to create a double negative, which carries the meaning of a strong affirmative.{{sfn|Unger|2008|p=137}}
+
+===Discontinuous morpheme ''mo ... mo''===
+The grammatical negator, the ''mo ... mo'' '<small>NEG ... NEG</small>' structure, is the only instance of a 'discontinuous' morpheme in Lengo. The morpheme ''mo'' appears both before and after the verb being negated.{{sfn|Unger|2008|p=137}} The basic structure of this construction is ''mo V mo'', as seen in (13) and (14):
+
+{{interlinear|number=(13)
+|'''Mo''' ole '''mo'''.
+|NEG walk NEG
+|'Don't walk.'{{sfn|Unger|2008|p=138}}}}
+
+{{interlinear|number=(14)
+|'''Mo''' thaghata leo '''mo'''.
+|NEG bad inside NEG
+|'Don't worry.'{{sfn|Unger|2008|p=138}}}}
+
+A variant of this construction is ''mo ... mo'''a''''', as seen in (15).
+
+{{interlinear|number=(15)
+|ko '''mo''' lubathia '''moa''' pe dea
+|2SG NEG let.3SG NEG or.3SG go
+|'Don't let it out (release it) or it will run away.'{{sfn|Unger|2008|p=201}}}}
+
+Note that although all examples presented by Unger show ''mo ... mo'' '<small>NEG ... NEG</small>' used for a negative imperative, it should not be assumed that this construction is exclusive to a particular sentence structure. More examples are needed for a satisfactory conclusion.
+
+Regardless, ''mo ... mo'' is an uncommon negator in Lengo. Much more frequently used is the modal ''teigha'' '<small>NEG</small>'.
+
+===Modals===
+Lengo has a 'serial verb construction'. The various types of serial verb construction identified are directional, sequential, causative, manner, ambient, comitative, dative, instrumental and modal.{{sfn|Unger|2008|p=141}} The basic structure of a modal serial verb construction is as follows:
+
+:V + ''na'' V(-O){{sfn|Unger|2008|p=141}}
+
+The first verb is the modal verb, and the second verb follows an article (always ''na''). This second verb is treated somewhat like an infinitive.{{sfn|Unger|2008|p=159}} Lengo has five modal verbs; of these, three are used to create negative constructions. These three are:{{sfn|Unger|2008|p=158}}
+
+{| class="wikitable" style="text-align: center;"
+! Modal
+! Meaning
+|-
+| ''teigha''
+| negative
+|-
+| ''tabu''
+| prohibitive
+|-
+| ''kou''
+| non-volitive
+|}
+
+====Negative ''teigha''====
+Of all the ways to express negation in Lengo, the modal ''teigha'' '<small>NEG</small>' is the most versatile and often used.{{sfn|Unger|2008|p=161}} It can be used to negate verbs in statements, like in (16):
+
+{{interlinear|number=(16)
+|ami-ko '''teigha''' na ta~tavu thai-a na kei
+|1PL.EXCL-DU NEG ART REDUP~find 'arrive.at'-o:3SG ART basket
+|'we couldn't find the basket'{{sfn|Unger|2008|p=161}}}}
+
+In (17) and (18), ''teigha'' appears at the very beginning of the serial verb construction, and the realis locative ''t-i'' appears between the negator and the article ''na''. The entire serial verb construction is negated by ''teigha''.
+
+{{interlinear|number=(17)
+|Ba k-u '''teigha''' t-i na mono varongo i vanua.
+|FUT IRR-1SG NEG REAL-LOC ART stay quiet LOC village
+|'I really won't be sitting around in the village.'{{sfn|Unger|2008|p=151}}}}
+
+{{interlinear|number=(18)
+|E '''teigha''' t-i na mono varongo!
+|3SG NEG REAL-LOC ART stay quiet
+|'He simply cannot be still!'{{sfn|Unger|2008|p=161}}}}
+
+Sometimes the construction ''teigha na'' undergoes elision and is shortened to ''tena'', like in (19):
+
+{{interlinear|number=(19)|glossing3=yes
+|"gami '''tena''' {} agri ighami," gi gea ena
+|g-ami teigha na agri ighami g-i gea ena
+|PFV-1PL.EXCL NEG ART agree EP:1PL.EXCL PFV-LOC EP:3SG 3SG:stay
+|'"we don't agree," they said'{{sfn|Unger|2008|p=161}}}}
+
+It is important to note that this shortened form ''tena'' '<small>NEG</small>' should not be confused with ''tena'' '<small>LOC</small>'. Refer to example (20), which shows both homophones in use: the first being the locative and the second (bolded) being the combined modal and article.
+
+{{interlinear|number=(20)|glossing3=yes
+|tangomana tugua tena bona deni. E. '''tena''' {} tuaghai. Geia po. Taigu.
+|tangomana tugu-a tena bona deni e teigha na tuaghai geia po taigu
+|possible story-o:3SG LOC time DEM 3SG NEG ART long EP:3SG LIM thank.you
+|'That just the story I am able to tell at this time. It's not long. That's it. Thank you.'{{sfn|Unger|2008|p=230}}}}
+
+''Teigha'' is flexible and can be used to create negative polar questions and answer polar questions, as in examples (21), (22) and (23).
+
+Example (21) is a negative polar question which can be answered with either ''eo'' 'yes' or ''teigha'' 'no'. Answering with ''eo'' would mean 'yes, I have '''not''' seen your basket', whereas answering with ''teigha'' would mean 'no, I have seen it'.{{sfn|Unger|2008|p=189}}
+
+In example (22), ''teigha'' is used to answer a polar question in the negative. In (23), ''teigha'' is modified by an adverbial, ''vata'' 'continue'.
+
+{{interlinear|number=(21)
+|o '''teigha''' na bere na kei-gu?
+|2SG NEG ART see ART basket-PS:1SG
+|'you haven't seen my basket?'{{sfn|Unger|2008|p=189}}}}
+
+{{interlinear|number=(22)
+|O bo dea i leghai? '''Teigha.'''
+|2SG IPFV go LOC garden NEG
+|'Are you going to the garden?' 'No.'{{sfn|Unger|2008|p=162}}}}
+
+{{interlinear|number=(23)
+|A P. t-e mai? '''Teigha''' vata.
+|ART P REAL-3SG come NEG continue
+|'Has P. come?' 'Not yet.'{{sfn|Unger|2008|p=163}}}}
+
+In (24), ''o teigha'' 'or <small>NEG</small>' is added to the end of the sentence to create an alternative question.
+
+{{interlinear|number=(24)
+|Ba k-o dea o '''teigha'''?
+|FUT IRR-2SG go or NEG
+|'Are you going or not?'{{sfn|Unger|2008|p=162}}}}
+
+A content question can also be answered with ''teigha'', as in (25).
+
+{{interlinear|number=(25)
+|E ngitha na igha t-o lavi? '''Teigha.'''
+|3SG how.many ART fish REAL-2SG take NEG
+|'How many fish did you catch?' 'None.'{{sfn|Unger|2008|p=162}}}}
+
+====Prohibitive ''tabu''====
+The word ''tabu'' 'prohibitive (with consequences); forbidden' is another common way of forming a negative. It is often used by parents who are correcting their children.{{sfn|Unger|2008|p=163}} As with ''teigha'' 'no/none', a clause could consist of the single word ''Tabu!'' 'Don't!'{{sfn|Unger|2008|p=76}} The basic structure is the same as with other modals: the first verb is the modal, and it is followed by the article ''na'' and the second verb.
+
+In (26), the consequence of disobeying is explicitly addressed. In (27), the article ''na'' is omitted, and the consequence of 'or else ...' is implied.
+
+{{interlinear|number=(26)
+|'''Tabu''' na lavi-a na ghau: b-e ghado-gho
+|NEG ART grab-o:3SG ART knife APPR-3SG pierce-o:2SG
+|'Don't grab the knife: no good it cuts you!'{{sfn|Unger|2008|p=163}}}}
+
+{{interlinear|number=(27)
+|'''Tabu''' le~leu!
+|NEG REDUP~fight
+|'Don't fight!'{{sfn|Unger|2008|p=164}}}}
+
+====Non-volitive ''kou''====
+The third and last negative modal is ''kou'' 'unwilling', which is used to indicate non-volition. It appears in the same place as ''teigha'' and ''tabu'', but carries a more specific meaning.
+
+In example (28), if the more general ''teigha'' '<small>NEG</small>' had been used instead of ''kou'', it would simply mean that the fish do not eat the bait. However, in (28), the fish not only ''do'' not eat the bait, but they ''will'' not.{{sfn|Unger|2008|p=164}}
+
+Example (29) has the words ''laka'' 'also' and ''t-i'' '<small>REAL</small>-<small>LOC</small>' in between the negator and the article ''na''.
+
+{{interlinear|number=(28)
+|'''Kou''' na vanga na igha.
+|NEG ART eat ART fish
+|'The fish are unwilling to eat [the bait].'{{sfn|Unger|2008|p=164}}}}
+
+{{interlinear|number=(29)
+|Ma na tha laka e '''kou''' laka t-i na lighu-ni-a ghini-a igha deni m-e ghe laka po t-i tena maone.
+|CONJ ART REL also 3SG NEG also REAL-LOC ART pass-TR-o:3SG INST-o:3SG fish DEM CONJ-3SG continue also LIM REAL-LOC LOC sand
+|'And what's more, he [the fish] was unwilling to be passed by him [the turtle] so this fish also just continued onto the sand.'{{sfn|Unger|2008|p=164}}}}
+
+===Auxiliary ''boro''===
+In Lengo, tense auxiliaries appear before the subject reference pronoun and verb. There are two tense auxiliaries: ''bo'' '<small>FUT</small>' and ''boro'' 'impossible <small>FUT</small>'. While ''boro'' is perhaps not a straightforward example of negation, it nevertheless does carry a meaning of 'negation for a reason'. If ''tabu'' is specifically prohibitive and ''kou'' is specifically non-volitive, then ''boro'' can be presented as a negator denoting impossibility. Furthermore, it is sometimes glossed as <small>NEG</small>, as in (30):
+
+{{interlinear|number=(30)
+|'''Boro''' k-e ghe dea tena group sakai, '''boro''' tena group ruka, ba k-e masi ba oli ba tena nimiu na thara tibo-miu t-i ighamu na K.
+|NEG IRR-3SG continue go LOC group one NEG LOC group two FUT IRR-3SG must FUT return FUT LOC PS:2PL ART feast.row REFL-PS:2PL REAL-LOC EP:2PL ART K
+|'It cannot go to group one, it cannot go to group two; it must return to your feast row—yourselves [group] K.'{{sfn|Unger|2008|p=135}}}}
+
+Example (31) shows ''boro'' glossed as 'impossible'. However, it still has the effect of negating the verb.
+
+{{interlinear|number=(31)
+|pukua na thara deni '''boro''' k-a tovothi thudu
+|because ART feast DEM impossible IRR-1PL.INCL separate sit
+|'because at this feast it will be impossible for us to sit separate'{{sfn|Unger|2008|p=111}}}}
+
+===Double negative construction===
+The modal ''teigha'' '<small>NEG</small> can be combined with the ''mo ... mo'' '<small>NEG ... NEG</small>' structure to create a double negative, which carries the meaning of a strong affirmative, as in (32). However, this construction (meaning 'must') is rarely used. Instead, the Pijin form ''masi'' 'must', a borrowing from English, is much more common.{{sfn|Unger|2008|p=138}}
+
+Example (33) shows the same sentence as (32), but without either of the negation structures. This example is a simple imperative.
+
+{{interlinear|number=(32)
+|k-o '''mo''' ghe '''teigha''' '''mo''' na mai
+|IRR-2SG NEG continue NEG NEG ART come
+|'you must come' ({{lit}} 'you must not not continue to come'){{sfn|Unger|2008|p=138}}}}
+
+{{interlinear|number=(33)
+|k-o ghe mai
+|IRR-2SG continue come
+|'you, continue coming'{{sfn|Unger|2008|p=139}}}}
+
+==Abbreviations==
+The following is a list of all the abbreviations used in this article.
+{|
+| 1
+| first person
+|-
+| 2
+| second person
+|-
+| 3
+| third person
+|-
+| <small>APPR</small>
+| apprehensive
+|-
+| <small>ART</small>
+| article
+|-
+| <small>CLF</small>
+| classifier
+|-
+| <small>CONJ</small>
+| conjunction
+|-
+| <small>DEM</small>
+| demonstrative
+|-
+| <small>DU</small>
+| dual
+|-
+| <small>EP</small>
+| emphatic pronoun
+|-
+| <small>EX</small>
+| exclusive
+|-
+| <small>FUT</small>
+| future
+|-
+| <small>IPFV</small>
+| imperfective
+|-
+| <small>INST</small>
+| instrumental
+|-
+| <small>INT</small>
+| interrogative
+|-
+| <small>IRR</small>
+| irrealis
+|-
+| <small>LIM</small>
+| limiter
+|-
+| <small>LOC</small>
+| locative
+|-
+| o/O
+| object
+|-
+| <small>PFV</small>
+| perfective
+|-
+| <small>PL</small>
+| plural
+|-
+| <small>PS</small>
+| possessor pronoun / person
+|-
+| <small>REDUP</small>
+| reduplication
+|-
+| <small>REAL</small>
+| realis
+|-
+| <small>REFL</small>
+| reflexive
+|-
+| <small>REL</small>
+| relative pronoun
+|-
+| <small>SG</small>
+| singular
+|-
+| <small>TR</small>
+| transitivitiser
+|}
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+O:object
+PS:possessor pronoun / person
+EP:emphatic pronoun
+LIM:limiter
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Citations==
+{{reflist|30em}}
+
+==References==
+{{refbegin}}
+{{cite thesis |last= Unger|first= Paul|date= 2008|title= Aspects of Lengo grammar|publisher= Trinity Western University}}
+{{refend}}
+
+== External links ==
+* Materials on Karnai are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]]
+
+{{Languages of the Solomon Islands}}
+{{Austronesian languages}}
+
+[[Category:Gela-Guadalcanal languages]]
+[[Category:Languages of the Solomon Islands]]

@@ -1,0 +1,376 @@
+{{short description|Language of French Polynesia}}
+{{External links|date=January 2022}}
+{{cleanup lang|iso=ty|date=June 2021}}
+{{Infobox language
+|name=Tahitian 
+|nativename={{lang|ty|Reo Tahiti}}<br />{{lang|ty|Reo Mā{{saltillo}}ohi}}
+|states=[[French Polynesia]]
+|ethnicity=185,000 [[Tahitians]]
+|speakers=68,260, 37% of ethnic population
+|date=2007 census
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Polynesian languages|Polynesian]]
+|fam5=<span style="white-space: nowrap">[[Eastern Polynesian languages|Eastern Polynesian]]</span>
+|fam6=[[Tahitic languages|Tahitic]]
+|minority={{flag|French Polynesia}}
+|iso1=ty
+|iso2=tah
+|iso3=tah
+|notice=IPA
+|glotto=tahi1242
+|glottorefname=Tahitian
+}}
+
+'''Tahitian''' (Tahitian: {{lang|ty|Reo Tahiti}}, part of {{lang|ty|Reo Mā{{saltillo}}ohi}}, languages of French Polynesia)<ref name="maohi">{{lang|ty|Reo Mā{{saltillo}}ohi}} correspond to "languages of natives from French Polynesia," and may in principle designate any of the seven indigenous languages spoken in French Polynesia. The Tahitian language specifically is called {{lang|ty|Reo Tahiti}} (See [[#atlas|Charpentier & François 2015]]: 106).</ref> is a [[Polynesian languages|Polynesian language]], spoken mainly on the [[Society Islands]] in [[French Polynesia]]. It belongs to the [[Eastern Polynesian languages|Eastern Polynesian group]].
+
+As Tahitian had no written tradition before the arrival of the Western colonists, the spoken language was first transcribed by missionaries of the [[London Missionary Society]] in the early 19th century.
+
+==Context==
+Tahitian is the most prominent of the indigenous Polynesian languages spoken in French Polynesia (''reo mā{{saltillo}}ohi'').<ref name="maohi" /><ref>{{cite web |url=http://www.farevanaa.pf/arbre.php|title=Les Langues Polynésiennes |work=Académie Tahitienne |access-date=1 August 2010}}</ref> The latter also include:<ref>See [[#atlas|Charpentier & François (2015)]].</ref>
+*[[Marquesan language|Marquesan]], spoken by about 8,000 people in the [[Marquesas Islands]], with two sub-divisions, North-Western (''{{saltillo}}eo {{saltillo}}enana'') and South-Eastern (''{{saltillo}}eo {{saltillo}}enata'')
+*[[Tuamotuan language|Pa{{saltillo}}umotu]] (''reo pa{{saltillo}}umotu''), spoken by about 4,000 people in the [[Tuamotus|Tuamotu Islands]]
+*[[Austral language|Austral]], spoken by about 3,000 people in the [[Austral Islands]]
+*[[Rapa language|Rapa]], spoken by about 400 people on [[Rapa Iti]]
+*[[Raivavae|Ra{{saltillo}}ivavae]], spoken by about 900 people in the [[Austral Islands]]
+*[[Mangareva language|Mangareva]], spoken by about 600 people in the [[Gambier Islands]]
+
+==History==
+When Europeans first arrived in Tahiti at the end of the 18th century, there was no writing system and Tahitian was only a spoken language. Reports by some early European explorers including [[Pedro Fernandes de Queirós|Quirós]]<ref>{{cite book |last=Thompson |first=Christina |date=5 March 2020 |title=Sea People: In Search of the Ancient Navigators of the Pacific |location=Glasgow, Scotland |publisher=William Collins |page=33 |isbn=978-0-00-833905-0}}</ref> include attempts to trascribe notable Tahitian words heard during initial interactions with the indigenous people of [[Marquesas Islands|Marquesa]]. Aboard [[HMS Endeavour|the Endeavour]], [[James Cook|Lt. James Cook]] and the ship's master, Robert Molyneux, transcribed the names of 72 and 55 islands respectively as recited by the Tahitian [[arioi]], [[Tupaia (navigator)|Tupaia]]. Many of these were "non-geographic" or "ghost islands" of [[Polynesian narrative|Polynesian mythology]] and all were transcribed using [[Phonetic transcription|phonetic]] [[English (language)|English]] [[spelling]].<ref>{{cite book |last=Thompson |first=Christina |date=5 March 2020 |title=Sea People: In Search of the Ancient Navigators of the Pacific |location=Glasgow, Scotland |publisher=William Collins |page=83 |isbn=978-0-00-833905-0}}</ref> In 1797, [[Protestant]] missionaries arrived in Tahiti on a British ship called [[Duff (1794 ship)|''Duff'']], captained by [[James Wilson (explorer)|James Wilson]]. Among the missionaries was [[Henry Nott]] (1774–1844) who learned the Tahitian language and worked with [[Pomare II|Pōmare II]], a Tahitian king, and the Welsh missionary, [[John Davies (missionary)|John Davies]] (1772-1855), to translate the [[Bible]] into Tahitian. A system of five [[vowels]] and nine [[consonants]] was adopted for the Tahitian Bible, which would become the key text by which many Polynesians would learn to read and write. John Davies's spelling book (1810) was the first book to be printed in the Tahitian language. He also published a grammar and a dictionary of that language.
+
+== Phonology ==
+Tahitian features a very small number of [[phoneme]]s: five vowels and nine consonants, not counting the lengthened vowels and [[diphthong]]s. Notably, the consonant inventory lacks any sort of [[dorsal consonant]]s.
+
+{|class="wikitable"
+|+Tahitian consonants
+!!![[Labial consonant|Labial]]!![[Alveolar consonant|Alveolar]]!![[Glottal consonant|Glottal]]
+|- align=center
+![[Stop consonant|Plosive]]
+||{{IPAlink|p}}|||{{IPAlink|t}}||{{IPAlink|ʔ}}
+|- align=center
+![[Nasal consonant|Nasal]]
+|{{IPAlink|m}}|||{{IPAlink|n}}||
+|- align=center
+![[Fricative consonant|Fricative]]
+||{{IPAlink|f}} {{IPAlink|v}}||||{{IPAlink|h}}
+|- align=center
+![[Trill consonant|Trill]]
+||||{{IPAlink|r}}||
+|- align=center
+|}
+
+There is a five vowel inventory with vowel length:
+{| class="wikitable" style="text-align:center"
+|+Tahitian vowels
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|- align="center"
+! [[Close vowel|Close]]
+| {{IPA link|i}} {{IPA link|iː}}
+|
+| {{IPA link|u}} {{IPA link|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}} {{IPA link|eː}}
+|
+| {{IPA link|o}} {{IPA link|oː}}
+|- align="center"
+! [[Open vowel|Open]]
+|
+| {{IPA link|a}} {{IPA link|aː}}
+|
+|}
+
+Next follows a table with all phonemes in more detail.
+
+{| class="wikitable"
+|+Tahitian phonemes
+! align="center" rowspan="2"|letter
+! align="center" rowspan="2"|name
+! align="center" colspan="2"|pronunciation
+! align="center" rowspan="2"|notes
+|- align=center
+! |[[International Phonetic Alphabet|IPA]]
+! English<br />approximation
+|- align="center"
+| '''a'''
+| {{saltillo}}ā
+| {{IPA|/a/, /aː~ɑː/}}
+| '''a''': ''o''pera, '''ā''': f''a''ther
+| 
+|- align=center
+| '''e'''
+| {{saltillo}}ē
+| {{IPA|/e/, /eː/}}
+| '''e''': l''a''te, '''ē''': same but longer
+| 
+|- align=center
+| '''f'''
+| fā
+| {{IPA|/f/}}
+| ''f''riend
+| becomes bilabial {{IPA|[ɸ]}} after '''o''' and '''u'''
+|- align=center
+| '''h'''
+| hē
+| {{IPA|/h/}}
+| ''h''ouse
+| becomes {{IPA|[ʃ]}} (as in English ''sh''oe) after '''i''' and before '''o''' or '''u'''
+|- align=center
+| '''i'''
+| {{saltillo}}ī
+| {{IPA|/i/, /iː/}}
+| as in mach''i''ne
+| may become diphthong ''ai'' in some words like ''rahi''
+|- align=center
+| '''m'''
+| mō
+| {{IPA|/m/}}
+| ''m''ouse
+| 
+|- align=center
+| '''n'''
+| nū
+| {{IPA|/n/}}
+| ''n''ap
+| 
+|- align=center
+| '''o'''
+| {{saltillo}}ō
+| {{IPA|/o~ɔ/, /oː/}}
+| '''o''': n''ough''t, '''ō''': same but longer
+| 
+|- align=center
+| '''p'''
+| pī
+| {{IPA|/p/}}
+| s''p''onge (not aspirated)
+| 
+|- align=center
+| '''r'''
+| rō
+| {{IPA|/r/}}
+| -
+| [[alveolar trill]], may also be heard as a flap {{IPA|[ɾ]}}
+|- align=center
+| '''t'''
+| tī
+| {{IPA|/t/}}
+| s''t''and (not aspirated)
+| 
+|- align=center
+| '''u'''
+| |{{saltillo}}ū
+| {{IPA|/u/, /uː/}}
+| '''u''': f''oo''t, '''ū''': m''oo''
+| strong lip rounding
+|- align=center
+| '''v'''
+| vī
+| {{IPA|/v/}}
+| ''v''ine
+| becomes bilabial ({{IPA|[β]}}) after '''o''' and '''u'''
+|- align=center
+| '''{{saltillo}}'''
+| {{saltillo}}eta
+| {{IPA|/ʔ/}}
+| uh''-''oh
+| [[glottal stop]] beginning each syllable
+|}
+
+The [[glottal stop]] or ''{{saltillo}}eta'' is a genuine consonant. This is typical of [[Polynesian languages]] (compare to the Hawaiian [[ʻOkina|{{okina}}okina]] and others). See [[#Typography|Typography]] below.
+
+Tahitian makes a phonemic distinction between long and short vowels; long vowels are marked with [[Macron (diacritic)|macron]] or ''tārava''. For example, ''pāto'', meaning "to pick, to pluck" and ''pato'', "to break out", are distinguished solely by their [[vowel length]]. However, macrons are seldom written among older people because Tahitian writing was never taught at school until 1981.<ref>{{cite journal |url=https://halshs.archives-ouvertes.fr/halshs-01137595/document |title=Multilingual primary education initiative in French Polynesia |last1=Gabillon |first1=Zehra |last2=Alincai |first2=Rodica |journal= Procedia - Social and Behavioral Sciences  |volume=174 |date=2015 |page=3597 |access-date=19 August 2021}}</ref>
+
+Finally there is a ''toro {{saltillo}}a{{saltillo}}ï'', a [[Umlaut (diacritic)|trema]] put on the '''i''', but only used in ''ïa'' when used as a [[reflexive pronoun]]. It does not indicate a different pronunciation. Usage of this diacritic was promoted by academics but has now virtually disappeared, mostly due to the fact that there is no difference in the quality of the vowel when the trema is used and when the macron is used.
+
+Tahitian syllables are entirely [[Syllable#open syllable|open]], as is usual in Polynesian languages. In its [[Morphology (linguistics)|morphology]], Tahitian relies on the use of "helper words" (such as [[preposition]]s, [[article (grammar)|article]]s, and [[grammatical particle|particle]]s) to encode grammatical relationships, rather than on inflection, as would be typical of European languages. It is a very [[analytic language]], except when it comes to the [[personal pronoun]]s, which have separate forms for [[Grammatical number|singular]], [[plural]] and [[dual grammatical number|dual number]]s.
+
+== Typography ==
+{|align="right" width="300" class="wikitable" style="float:right;border:1px solid #999999;border-collapse:collapse;background:#F7F8FF;font-size:87%;text-align:center;margin:10px;"
+|-
+! colspan="2" style="background:#ccc; color:#000;"| {{saltillo}}Eta letter forms
+|-
+|[[File:Tahitian 'eta.png|150px|Tahitian {{okina}}eta]]
+|The {{lang|ty|{{okina}}eta}} (currently encoded as the [[{{okina}}okina]]), as it appears in the ''Lucida Sans'' font.
+|}
+
+In former practice, the glottal stop used to be seldom written, but today it is commonly spelled out, although often as a [[saltillo (linguistics)|straight apostrophe]] ('''{{saltillo}}'''{{Citation needed|date=January 2022}}, see below) instead of the turned curly apostrophe used in Hawaiian. Alphabetical word ordering in dictionaries used to ignore the existence of glottal stops. However, academics and scholars now publish text content with due use of glottal stops.
+
+Although the use of ''{{saltillo}}eta'' and ''tārava'' is equal to the usage of such symbols in other Polynesian languages, it is promoted by the ''Académie tahitienne'' and adopted by the territorial government. There are at least a dozen other ways of applying accents. Some methods are historical and no longer used.<ref>{{cite web|url=http://www.farevanaa.pf/theme_detail.php?id=5|archive-url=https://web.archive.org/web/20031105183046/http://www.farevanaa.pf/theme_detail.php?id=5|archive-date=2003-11-05|lang=fr|title=Graphie et graphies de la langue tahitienne|website=Académie tahitienne|date=2003-01-06}}</ref> At this moment, the Académie tahitienne seems to have not made a final decision yet whether the {{saltillo}}eta should appear as a normal letter apostrophe ({{unichar|02BC|modifier letter apostrophe}}) or a turned letter apostrophe ({{unichar|02BB|modifier letter turned comma}}, called [[ʻokina]] in Hawaiian).
+
+As the ASCII apostrophe ({{unichar|0027|apostrophe}}) is the character output when hitting the apostrophe key on a usual French AZERTY keyboard, it has become natural for writers to use the punctuation mark for glottal stops, although to avoid the complications caused by substituting punctuation characters for letters in digital documents, the [[Saltillo (linguistics)|saltillo]] ({{unichar|A78C|latin small letter saltillo}}) may be used instead.{{Citation needed|date=January 2022}}
+
+Today, macronized vowels and {{saltillo}}eta are also available on mobile devices, either by default or after installing an application to input vowels with macron as well as the {{saltillo}}eta.
+
+== Grammar ==
+
+===Personal pronouns===
+Like many [[Austronesian languages|Austronesian]] languages, Tahitian has separate words for [[Clusivity|inclusive and exclusive we]], and distinguishes [[Grammatical number|singular]], [[dual (grammatical number)|dual]], and [[plural]].
+
+==== Singular ====
+* ''Au'' (''Vau'' after "a", "o" or "u")[http://www.farevanaa.pf/dictionnaire.php] I, me: ''{{saltillo}}Ua {{saltillo}}amu '''vau''' i te i{{saltillo}}a'' I have eaten the fish; ''E haere '''au''' i te farehaapi{{saltillo}}ira ānānahi'' I will go to school tomorrow.
+* ''{{saltillo}}Oe'' you: ''{{saltillo}}Ua {{saltillo}}amu '''{{saltillo}}oe''' i te i{{saltillo}}a'' You have eaten the fish; ''{{saltillo}}Ua tu{{saltillo}}ino '''{{saltillo}}oe''' i tō mātou pere{{saltillo}}o{{saltillo}}o''[http://www.farevanaa.pf/dictionnaire.php] You damaged our car.
+* ''{{saltillo}}Ōna/{{saltillo}}oia'' he, she: ''{{saltillo}}Ua {{saltillo}}amu '''{{saltillo}}ōna''' i te i{{saltillo}}a'' He/she ate the fish; ''E aha '''{{saltillo}}ōna''' i haere mai ai?'' Why is she here/why did she come here?; ''{{saltillo}}Aita '''{{saltillo}}ōna''' i {{saltillo}}ō nei'' He/she is not here.
+
+==== Dual ====
+* ''Tāua'' (inclusive) we/us two: ''{{saltillo}}Ua {{saltillo}}amu '''tāua''' i te i{{saltillo}}a'' We (us two) have eaten the fish; ''E haere '''tāua'''''[http://www.farevanaa.pf/dictionnaire] Let's go (literally 'go us two'); ''{{saltillo}}O tō '''tāua''' hoa tēi tae mai''[http://www.farevanaa.pf/dictionnaire] Our friend has arrived.
+* ''Māua'' (exclusive) we/us two: ''{{saltillo}}Ua {{saltillo}}amu '''māua''' i te i{{saltillo}}a'' We have eaten the fish; ''E ho{{saltillo}}i '''māua''' {{saltillo}}o Titaua i te fare''[http://www.farevanaa.pf/dictionnaire] Titaua and I will return/go home; ''Nō '''māua''' tera fare'' That is our house.[http://www.farevanaa.pf/dictionnaire.]
+* ''{{saltillo}}Ōrua'' you two: ''{{saltillo}}Ua {{saltillo}}amu '''{{saltillo}}ōrua''' i te i{{saltillo}}a'' You two ate the fish; ''A haere '''{{saltillo}}ōrua'''''[http://www.farevanaa.pf/dictionnaire] You (two) go; ''Nā '''{{saltillo}}ōrua''' teie puta'' This book belongs to both of you.
+* ''Rāua'' they two: ''{{saltillo}}Ua {{saltillo}}amu '''rāua''' i te i{{saltillo}}a'' They (they two) have eaten the fish; ''Nō hea mai '''rāua'''?'' Where are they (they two) from?;[http://www.farevanaa.pf/dictionnaire.] ''{{saltillo}}O '''rāua''' {{saltillo}}o Pā tei fa{{saltillo}}aea i te fare''[http://www.farevanaa.pf/dictionnaire.] He/she and Pa stayed home.
+
+==== Plural ====
+* ''Tātou'' (inclusive) we: ''{{saltillo}}O vai tā '''tātou''' e tīa{{saltillo}}i nei?'' Who are we waiting for/expecting?,[http://www.farevanaa.pf/dictionnaire.] ''E {{saltillo}}ore tā '''tātou''' mā{{saltillo}}a e toe'' There won't be any of our food more left.
+* ''Mātou'' (exclusive) we, they and I: ''{{saltillo}}O '''mātou''' {{saltillo}}o Herenui tei haere mai''[http://www.farevanaa.pf/dictionnaire.][http://www.farevanaa.pf/dictionnaire.] We came with Herenui; ''{{saltillo}}Ua {{saltillo}}ite mai {{saltillo}}oe ia '''mātou''''' You saw us/you have seen us.
+*''{{saltillo}}Outou'' you (plural): ''{{saltillo}}A haere atu '''{{saltillo}}outou''', e pe{{saltillo}}e atu vau'' You (all) go, I will follow;[http://www.farevanaa.pf/dictionnaire.] ''{{saltillo}}O '''{{saltillo}}outou''' {{saltillo}}o vai mā tei haere i te tautai?''[http://www.farevanaa.pf/dictionnaire.] Who went fishing with you (all)?
+* ''Rātou'' they/them: ''{{saltillo}}Ua mārō '''rātou''' ia Teina''[http://www.farevanaa.pf/dictionnaire.][http://www.farevanaa.pf/dictionnaire.] They have quarrelled with Teina; ''Nō '''rātou''' te pupu pūai a{{saltillo}}e''[http://www.farevanaa.pf/dictionnaire.] They have the strongest team.
+
+===Word order===
+Typologically, Tahitian [[word order]] is [[verb–subject–object|VSO]] (verb–subject–object), which is typical of Polynesian languages. Some examples of word order from <ref name=tyron/> are:
+
+{{interlinear|indent=3
+|tē tāmāꞌa nei au
+|PRS.CONT eat PRS.CONT I
+|"I am eating"}}
+
+{{interlinear|indent=3
+|ꞌua tāpū vau ꞌi te vahie
+|PFV chop I {{gcl|O|object marker}} the wood
+|"I chopped the wood"}}
+
+{{interlinear|indent=3
+|ꞌua hohoni hia ꞌoia e te ꞌūrī
+|PFV bite PAS he by the dog
+|"He was bitten by the dog"}}
+
+[*''e mea marō te ha{{saltillo}}ari'' – "Are thing dry the coconut", "The coconuts are dry"]
+[*''e ta{{saltillo}}ata pūai {{saltillo}}oia'' – "Is man strong he", "He is a strong man"]
+
+===Articles===
+
+====Definite article====
+The article '''''te''''' is the [[definite article]] and means ''the''. In conversation it is also used as an [[indefinite article]] for ''a'' or ''an''.<ref name=tyron>{{cite book |title=Conversational Tahitian |last=Tryon |first=Darrell T. |year=1970|publisher=University of California Press |isbn=9780520016002 |url=https://archive.org/details/conversationalta0000tryo |url-access=registration |quote=Tahitian language. |access-date=1 August 2010}}</ref>{{rp|p.9}} ‒ for example:
+*''te fare'' – the house; ''te tāne'' – the man
+
+The plural of the definite article ''te'' is '''''te mau''''' ‒ for example:
+*''te mau fare'' – the houses; ''te mau tāne'' – the men
+
+'''''te''''' alone (with no plural marking) can also encode an unspecified, generic number ‒ for example:
+
+*''te ta{{saltillo}}ata'' – “the person” <small>[specific singular]</small> or “people” <small>[generic singular in Tahitian, generic plural in English]</small>
+vs.
+*''te ''mau'' ta{{saltillo}}ata'' – “the people” <small>[specific plural]</small>
+
+====Indefinite article====
+
+====''E''====
+
+The [[indefinite article]] is ''e''
+
+For example;
+* ''e ta{{saltillo}}ata'' - ''a person'' [http://www.farevanaa.pf/dictionnaire.]
+
+The article '''''e''''' also introduces an indefinite common noun.
+
+For example;
+*''e ta{{saltillo}}ata'' – a person
+*''e vahine'' – a woman
+*''e mau vahine'' – (many) women
+
+In contrast, ''te hō{{saltillo}}ē'' means ''a certain''. [http://www.farevanaa.pf/dictionnaire.]
+
+For example;
+*''te hō{{saltillo}}ē fare'' – a certain house
+
+====''{{saltillo}}O''====
+The article '''''{{saltillo}}o''''' is used with [[proper nouns]] and [[pronouns]] and implies ''it is''.
+
+For example;
+*''{{saltillo}}O Tahiti'' – (It is) Tahiti
+*''{{saltillo}}O rātou'' – (It is) they
+
+===Aspect and modality markers===
+
+Verbal [[aspect (grammar)|aspect]] and [[Linguistic modality|modality]] are important parts of Tahitian grammar, and are indicated with markers preceding and/or following the invariant verb. Important examples are:
+
+*''e'': expresses an unfinished action or state.
+::''E hīmene Mere i teie pō'': [http://www.farevanaa.pf/dictionnaire.] ""Will sing Mary tonight", "Mary will sing tonight"
+
+*''{{saltillo}}ua'': expresses a finished action, a state different from a preceding state. [http://www.farevanaa.pf/dictionnaire.] [''{{saltillo}}ua'' does not indicate surprise]
+
+::''{{saltillo}}Ua riri au '': "Angry I", "I am angry" [http://www.farevanaa.pf/dictionnaire.php]
+
+*''tē ... nei'': indicates progressive aspect.
+::''Tē tanu nei au i te taro'': "planting I [dir. obj. marker] the taro", "I am planting the taro"
+
+[http://www.farevanaa.pf/dictionnaire.]
+
+:: ''E tāere ana {{saltillo}}ōna'' "Always is late he", "He is always late"
+*''i ... nei'' indicates a finished action or a past state.
+::''{{saltillo}}Ua fānau hia {{saltillo}}oia i Tahiti nei'' "Was born she in Tahiti", "She was born in Tahiti"
+*''i ... iho nei'' indicates an action finished in the immediate past.
+::''I tae mai iho nei {{saltillo}}ōna'' "He just came"
+*''{{saltillo}}ia'' indicates a wish, desire, supposition, or condition.
+::''{{saltillo}}Ia vave mai!'' "Hurry up!"
+*''{{saltillo}}a'' indicates a command or obligation.
+::''{{saltillo}}A pi{{saltillo}}o {{saltillo}}oe i raro!'' "Bend down!"
+*''{{saltillo}}eiaha'' indicates negative imperative.
+::''{{saltillo}}Eiaha e parau!'' "Do not speak"
+*''{{saltillo}}Āhiri, {{saltillo}}ahani'' indicates a condition or hypothetical supposition.
+::''{{saltillo}}Āhiri te pahī i ta{{saltillo}}ahuri, {{saltillo}}ua pohe pau roa īa tātou'' "If the boat had capsized, we would all be dead"
+*''{{saltillo}}aita'' expresses negation.
+::''{{saltillo}}Aita vau e ho{{saltillo}}i mai'' "I will not return"
+
+== Taboo names – ''pi{{saltillo}}i'' ==
+In many parts of Polynesia the name of an important leader was (and sometimes still is) considered sacred (''[[tapu (Polynesian culture)|tapu]]'') and was therefore accorded appropriate respect (''[[mana]]''). In order to avoid offense, all words resembling such a name were suppressed and replaced by another term of related meaning until the personage died. If, however, the leader should happen to live to a very great age this temporary substitution could become permanent.
+
+In the rest of Polynesia ''tū'' means to stand, but in Tahitian it became ''ti{{saltillo}}a'', because the word was included in the name of king [[Pomare I|Tū-nui-{{saltillo}}ē{{saltillo}}a-i-te-atua]]. Likewise ''fetū'' (star) has become in Tahiti ''feti{{saltillo}}a'' and ''aratū'' (pillar) became ''arati{{saltillo}}a''. Although ''nui'' (big) still occurs in some compounds, like Tahiti-nui, the usual word is ''rahi'' (which is a common word in  [[Polynesian languages]] for 'large'). The term ''{{saltillo}}ē{{saltillo}}a'' fell in disuse, replaced by ''purūmu'' or ''porōmu''. Currently ''{{saltillo}}ē{{saltillo}}a'' means 'path' while ''purūmu'' means 'road'.
+
+Tū also had a nickname, Pō-mare (literally means 'night coughing'), under which his [[List of Rulers of Tahiti|dynasty]] has become best known. By consequence ''pō'' (night) became ''ru{{saltillo}}i'' (currently only used in the [[Bible]], ''pō'' having become the word commonly in use once again), but ''mare'' (literally cough) has irreversibly been replaced by ''hota''.
+
+Other examples include;
+*''vai'' (water) became ''pape'' as in the names of Papeari, Papeno{{saltillo}}o, Pape{{saltillo}}ete
+*''moe'' (sleep) became ''ta{{saltillo}}oto'' (the original meaning of which was 'to lie down').
+
+Some of the old words are still used on the [[Leeward Islands (Society Islands)|Leewards]].
+
+==See also==
+{{Portal|Languages}}
+* [[Lord Monboddo]]
+* [[wikt:Appendix:Tahitian Swadesh list|Swadesh list of Tahitian words]]
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book |last1=Charpentier |first1=Jean-Michel |first2=Alexandre |last2=François |author-link2=Alexandre François (linguist) |year=2015 |title=Atlas Linguistique de Polynésie Française — Linguistic Atlas of French Polynesia |language=fr, en |publisher=Mouton de Gruyter & Université de la Polynésie Française |isbn=978-3-11-026035-9 |ref=atlas |url=http://alex.francois.free.fr/AF-Atlas-blurbs_e.htm }}
+*Y. Lemaître, ''Lexique du tahitien contemporain'', 1973. {{ISBN|2-7099-0228-1}}
+* same; 2nd, reviewed edition, 1995. {{ISBN|2-7099-1247-3}}
+*T. Henry, ''Ancient Tahiti – Tahiti aux temps anciens''
+*[[Darrell Tryon]], ''Conversational Tahitian''; ANU 1970
+
+==External links==
+*[https://archive.org/stream/tahitianenglishd00davirich#page/n15 1851 Tahitian–English dictionary]
+*[https://archive.org/stream/grammaireetdict00jausgoog#page/n9 1898 Tahitian-French dictionary]
+*[http://en.wiktionary.org/wiki/Appendix:Tahitian_Swadesh_list Tahitian Swadesh list of basic vocabulary words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+*[http://www.farevanaa.pf/ Académie Tahitienne – Fare Vāna{{saltillo}}a]
+*[https://web.archive.org/web/20070326105133/http://www.punareo.pf/web/index.php?lang=fp Puna Reo – Cultural Association, English section too]
+*Index cards of [[hdl:10125/33154|plant]] and [[hdl:10125/33153|animal]] names from the 1960s archived with Kaipuleohone
+
+{{interwiki|code=ty}}
+{{Polynesian languages}}
+{{Austronesian languages}}
+{{Languages of French Polynesia}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tahitian Language}}
+[[Category:Society Islands]]
+[[Category:Tahitic languages]]
+[[Category:Endangered Austronesian languages]]
+[[Category:Languages of French Polynesia]]
+[[Category:Verb–subject–object languages]]

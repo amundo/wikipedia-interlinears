@@ -1,0 +1,706 @@
+{{Short description|Eastern Polynesian language spoken on the island of Rapa Nui, also known as Easter Island}}
+{{Distinguish|Rapa language}}
+{{Use dmy dates|date=December 2020}}
+{{Infobox language
+|name = Rapa Nui 
+|nativename = ''Vānaŋa Rapa Nui''
+|pronunciation = {{IPA-poly|ˈɾapa ˈnu.i|}}
+|states = [[Chile]]
+|region = [[Easter Island]]
+|ethnicity = [[Rapa Nui people|Rapa Nui]]
+|speakers = 1,000<ref>[https://omniglot.com/writing/rapanui.htm Rapa Nui (Vananga rapa nui)]</ref>
+|date = 2016
+|ref = e18
+|familycolor = Austronesian
+|fam2 = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3 = [[Oceanic languages|Oceanic]]
+|fam4 = [[Polynesian languages|Polynesian]]
+|fam5 = [[Polynesian languages|Eastern Polynesian]]
+|script = [[Latin script]], possibly formerly [[rongorongo]]
+|nation = {{flag|Easter Island}} ([[Chile]])
+|iso2 = rap
+|iso3 = rap
+|glotto = rapa1244
+|glottorefname = Rapanui
+|notice = IPA
+}}
+
+'''Rapa Nui''' or '''Rapanui''' ({{IPAc-en|lang|ˌ|r|æ|p|ə|ˈ|n|uː|i}}),<ref>Laurie Bauer (2007), ''The Linguistics Student's Handbook'', Edinburgh</ref> also known as '''Pascuan''' ({{IPAc-en|ˈ|p|æ|s|k|j|u|ə|n}}) or '''''Pascuense''''', is an [[Polynesian languages|Eastern Polynesian language]] of the [[Austronesian languages|Austronesian language]] family. It is spoken on the island of [[Easter Island|Rapa Nui]], also known as ''Easter Island''.
+
+The [[Easter Island|island]] is home to a population of just under 6,000 and is a special territory of [[Chile]]. According to census data,<ref>[https://www.censo2017.cl/wp-content/uploads/2018/05/presentacion_de_la_segunda_entrega_de_resultados_censo2017.pdf 2017 Chilean census data].</ref> there are 9,399 people (on both the island and the Chilean mainland) who identify as ethnically Rapa Nui. Census data does not exist on the primary known and spoken languages among these people. In 2008, the number of fluent speakers was reported as low as 800.<ref>{{harvnb|Fischer|2008|page=149}}</ref> Rapa Nui is a minority language and many of its adult speakers also speak [[Spanish language|Spanish]]. Most Rapa Nui children now grow up speaking Spanish and those who do learn Rapa Nui begin learning it later in life.<ref>Makihara 2005a: p.728</ref>
+
+==History==
+The Rapa Nui language is isolated within Eastern Polynesian, which also includes the [[Marquesic languages|Marquesic]] and [[Tahitic languages]]. Within Eastern Polynesian, it is closest to Marquesan morphologically, although its phonology has more in common with [[Māori language|New Zealand Māori]], as both languages are relatively conservative in retaining consonants lost in other Eastern Polynesian languages.
+
+Like all Polynesian languages, Rapa Nui has relatively few consonants. Uniquely for an Eastern Polynesian language, Rapa Nui has preserved the original [[glottal stop]] of Proto-Polynesian. It is, or until recently was, a [[verb–subject–object|verb-initial]] language.
+
+One of the most important recent books written about the language of Rapa Nui is Verónica du Feu's ''Rapanui (Descriptive Grammar)'' ({{ISBN|0-415-00011-4}}).
+
+Very little is known about the Rapa Nui language prior to European contact. The majority of Rapa Nui vocabulary is inherited directly from Proto–Eastern Polynesian. Due to extensive borrowing from Tahitian there now often exist two forms for what was the same word in the early language. For example, Rapa Nui has Tahitian {{wikt-lang|ty|{{okina}}ite}} alongside original {{wikt-lang|rap|tike{{saltillo}}a}} for 'to see', both derived from Proto-Eastern Polynesian *kite{{okina}}a. There are also hybridized forms of words such as {{wikt-lang|rap|haka{{saltillo}}ite}} 'to teach', from native {{wikt-lang|rap|haka}} (causative prefix) and Tahitian {{wikt-lang|ty|{{okina}}ite}}.
+
+===Language notes from 1770 and 1774===
+Spanish notes from a 1770 visit to the island record 94 words and terms. Many are clearly Polynesian, but several are not easily recognizable.<ref name=heyerdahl>Heyerdahl, Thor. 1989. ''Easter Island – The Mystery Solved''. Random House, New York.</ref> For example, the numbers from one to ten seemingly have no relation to any known language. They are compared with contemporary Rapa Nui words, in parenthesis:
+
+# cojàna ({{wikt-lang|rap|ka}} {{wikt-lang|rap|tahi}})
+# corena ({{wikt-lang|rap|ka}} {{wikt-lang|rap|rua}})
+# cogojù ({{wikt-lang|rap|ka}} {{wikt-lang|rap|toru}})
+# quirote ({{wikt-lang|rap|ka}} {{wikt-lang|rap|hā}})
+# majanà ({{wikt-lang|rap|ka}} {{wikt-lang|rap|rima}})
+# teùto ({{wikt-lang|rap|ka}} {{wikt-lang|rap|ono}})
+# tejèa ({{wikt-lang|rap|ka}} {{wikt-lang|rap|hitu}})
+# moroqui ({{wikt-lang|rap|ka}} {{wikt-lang|rap|va{{saltillo}}u}})
+# vijoviri ({{wikt-lang|rap|ka}} {{wikt-lang|rap|iva}})
+# queromata-paùpaca quacaxixiva ({{wikt-lang|rap|ka}} {{wikt-lang|rap|{{saltillo}}aŋahuru}})
+
+It may be that the list is a misunderstanding, and the words not related to numbers at all. The Spanish may have shown Arabic numerals to the islanders who did not understand their meaning, and likened them to some other abstraction. For example, the "moroqui" for number eight would have actually been {{wikt-lang|rap|moroki}}, a small fish that is used as a bait, since "8" can look like a simple drawing of a fish.<ref>See ''Revista Española del Pacífico''. Asociación Española de Estudios del Pacífico (A.E.E.P.). N.º3. Año III. Enero-Diciembre 1993. See also [http://www.cervantesvirtual.com/servlet/SirveObras/01471738877136039754480/p0000001.htm online version].</ref>
+
+[[Captain James Cook]] visited the island four years later, and had a [[Tahiti]]an interpreter with him, who, while recognizing some Polynesian words (up to 17 were written down), was not able to converse with the islanders in general. The British also attempted to record the numerals and were able to record the correct Polynesian words.<ref name=heyerdahl/>
+
+===Post-Peruvian enslavement===
+In the 1860s the Peruvian slave raids began, as Peruvians were experiencing labor shortages and came to regard the Pacific as a vast source of free labor. Slavers raided islands as far away as Micronesia, but Rapa Nui was much closer and became a prime target.
+
+In December 1862 eight Peruvian ships landed their crewmen and between bribery and outright violence they captured some 1,000 Rapanui, including the king, his son, and the ritual priests (one of the reasons for so many gaps in knowledge of the ancient ways). It has been estimated that 2,000 Rapanui were captured over a period of years. Those who survived to arrive in Peru were poorly treated, overworked, and exposed to diseases. Ninety percent of the Rapa Nui died within one or two years of capture.
+
+Eventually the Bishop of Tahiti caused a public outcry and an embarrassed Peru rounded up the few survivors to return them. A shipload headed to Rapa Nui, but smallpox broke out en route and only 15 arrived at the island. They were put ashore. The resulting smallpox epidemic nearly wiped out the remaining population.
+
+In the aftermath of the Peruvian slave deportations in the 1860s, Rapa Nui came under extensive outside influence from neighbouring Polynesian languages such as Tahitian. While the majority of the population that was taken to work as slaves in the Peruvian mines died of diseases and bad treatment in the 1860s, hundreds of other Islanders who left for [[Mangareva]] in the 1870s and 1880s to work as servants or labourers adopted the local form of Tahitian-Pidgin. Fischer argues that this pidgin became the basis for the modern Rapa Nui language when the surviving part of the Rapa Nui immigrants on Mangareva returned to their almost deserted home island.{{Citation needed|date=October 2008}}
+
+===Language notes from 1886===
+William J. Thomson, paymaster on the [[USS Mohican (1883)|USS ''Mohican'']], spent twelve days on Rapa Nui from 19 to 30 December 1886. Among the data Thomson collected was the [[Rapa Nui calendar]].
+
+===Language notes from the twentieth century===
+Father [[Sebastian Englert]],<ref>[http://www.mnsu.edu/emuseum/information/biography/abcde/englert_sebastian.html Online biography of Sebastian Englert] {{webarchive|url=https://web.archive.org/web/20090628165214/http://www.mnsu.edu/emuseum/information/biography/abcde/englert_sebastian.html |date=28 June 2009 }} as hosted by Minnesota State University.</ref> a German missionary living on Easter Island during 1935–1969, published a partial Rapa Nui–Spanish dictionary in his ''La Tierra de Hotu Matu{{saltillo}}a'' in 1948, trying to save what was left of the old language. Despite the many typographical mistakes, the dictionary is valuable, because it provides a wealth of examples which all appear drawn from a real corpus, part oral traditions and legends, part actual conversations.<ref>[http://www.rongorongo.org/vanaga/index.html Englert's online dictionary] with Spanish translated to English.</ref>
+
+Englert recorded [[vowel length]], stress, and glottal stop, but was not always consistent, or perhaps the misprints make it seem so. He indicated vowel length with a [[circumflex]], and stress with an [[acute accent]], but only when it does not occur where expected. The [[glottal stop]] {{IPA|/ʔ/}} is written as an apostrophe, but is often omitted. The [[velar nasal]] {{IPA|/ŋ/}} is sometimes transcribed with a {{angbr|g}}, but sometimes with a Greek eta, {{angbr|η}}, as a graphic approximation of {{angbr IPA|ŋ}}.
+
+===Rongorongo===
+[[File:Rongorongo Gr4.jpg|thumb|Part of a line of rongorongo script.]]
+It is assumed that [[rongorongo]], the undeciphered script of Rapa Nui, represents the old Rapa Nui language.<ref>[http://www.rongorongo.org/theories/nature.html Rongorongo connections to Rapa Nui].</ref>
+
+==Hispanisation==
+The island is under the jurisdiction of Chile and is now home to a number of Chilean continentals. The influence of the Spanish language is noticeable in modern Rapa Nui speech. As fewer children learn to speak Rapa Nui at an early age, their superior knowledge of Spanish affects the 'passive knowledge' they have of Rapa Nui. A version of Rapanui interspersed with Spanish nouns, verbs and adjectives has become a popular form of casual speech.<ref>Makihara 2005a</ref><ref>Makihara 2005b</ref> The most well integrated borrowings are the Spanish conjunctions {{wikt-lang|rap|o}} (or), {{wikt-lang|rap|pero}} (but) and ''y'' (and).<ref group="DF">{{harvnb|Du Feu|1996|pages=84–88}}</ref> Spanish words such as ''problema'' (problem), which was once rendered as ''poroborema'', are now often integrated with minimal or no change.<ref>Pagel 2008: p. 175</ref>
+
+Spanish words are still often used within Rapanui grammatical rules, though some word order changes are occurring and it is argued that Rapanui may be undergoing a shift from VSO to the Spanish [[subject-verb-object|SVO]]. This example sentence was recorded first in 1948 and again in 2001 and its expression has changed from VSO to SVO.<ref>Pagel 2008: p. 176</ref>
+
+::'They both suffer and weep'
+:'''1948''': he {{saltillo}}aroha, he tatagi ararua
+:'''2001''': ararua he {{saltillo}}aroha he tatagi
+
+Rapa Nui's indigenous Rapanui [[toponymy]] has survived with few Spanish additions or replacements, a fact that has been attributed in part to the survival of the Rapa Nui language.<ref>Latorre 2001: p. 129</ref> This contrasts with the toponymy of [[Tricontinental Chile|continental Chile]], which has lost most of its indigenous names.
+
+==Phonology==
+Rapa Nui has ten consonants and five vowels.
+
+===Consonants===
+{|class="wikitable" style=text-align:center
+|-
+!
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} {{angle|m}}
+| {{IPAlink|n}} {{angle|n}}
+| {{IPAlink|ŋ}} {{angle|ŋ}}
+|
+|-
+! [[Stop consonant|Stop]]
+| {{IPAlink|p}} {{angle|p}}
+| {{IPAlink|t}} {{angle|t}}
+| {{IPAlink|k}} {{angle|k}}
+| {{IPAlink|ʔ}} {{angle|{{saltillo}}}}
+|-
+! [[Fricative consonant|Fricative]]
+| {{IPAlink|v}} {{angle|v}}
+|
+|
+| {{IPAlink|h}} {{angle|h}}
+|-
+! [[Flap consonant|Flap]]
+|
+| {{IPAlink|ɾ}} {{angle|r}}
+|
+|
+|}
+
+As present generation Rapa Nui speak Spanish as their first language in younger years and learn Rapa Nui later in life, flap {{IPAslink|ɾ}} in word-initial position can be pronounced [[alveolar trill]] {{IPAblink|r}}.
+
+===Vowels===
+:{| class="wikitable" style="text-align: center;"
+|-
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPAlink|i}}
+|
+| {{IPAlink|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPAlink|e}}
+|
+| {{IPAlink|o}}
+|-
+! [[Low vowel|Low]]
+|
+| {{IPAlink|a}}
+|
+|}
+
+All vowels can be either long or short and are always long when they are stressed in the final position of a word.<ref group="DF">{{harvnb|Du Feu|1996|pages=184}}</ref> Most vowel sequences are present, with the exception of ''*uo''. The only sequence of three identical vowels is {{wikt-lang|rap|eee}}, also spelled {{wikt-lang|rap|{{saltillo}}ēē}} ('yes').<ref group="DF" name="duf">{{harvnb|Du Feu|1996|pages=185–186}}</ref>
+
+==Orthography==
+Written Rapanui uses the [[Latin script]]. The Latin alphabet for Rapanui consists of 20 letters:
+
+: A, Ā, E, Ē, H, I, Ī, K, M, N, Ŋ, O, Ō, P, R, T, U, Ū, V, {{saltillo}}
+
+The nasal velar consonant {{IPA|/ŋ/}} is generally written with the Latin letter {{angbr|g}}, but occasionally as {{angbr|ng}}. In electronic texts, the glottal plosive {{IPA|/ʔ/}} may be written with a (always lower-case) [[Saltillo (letter)|saltillo]] {{angbr|{{saltillo}}}} to avoid the problems of using the punctuation mark {{angbr|'}}.<ref group="PK" name="Kieviet">{{Cite book|last=Kieviet|first=Paulus|url=https://langsci-press.org/catalog/book/124|title=A Grammar of Rapa Nui|date=2016-12-12|publisher=Language Science Press|series=Studies in Diversity Linguistics|location=Berlin|pages=75}} [[File:CC-BY icon.svg|50px]] Text was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].</ref> A special letter, {{angbr|ġ}}, is sometimes used to distinguish the [[Spanish language|Spanish]] {{IPA|/ɡ/}}, occurring in introduced terms, from the Rapa Nui {{IPA|/ŋ/}}.<ref group="DF">{{harvnb|Du Feu|1996|pages=4}}</ref> Similarly, {{IPA|/ŋ/}} has been written {{angbr|g̈}} to distinguish it from Spanish ''g''. The IPA letter {{angbr|ŋ}} is now also coming into use.<ref group="PK" name=Kieviet/>
+
+==Morphology==
+
+===Syllable structure===
+Syllables in Rapa Nui are CV (consonant-vowel) or V (vowel). There are no [[consonant clusters]] or word-final consonants.<ref group="DF" name="duf" />
+
+===Reduplication===
+The [[reduplication]] of whole nouns or syllable parts performs a variety of different functions within Rapa Nui.<ref group="DF">{{harvnb|Du Feu|1996|pages=176–177, 192–193}}</ref> To describe colours for which there is not a predefined word, the noun for an object of a like colour is duplicated to form an adjective. For example:
+
+:* {{wikt-lang|rap|{{saltillo}}ehu}} (mist) → {{wikt-lang|rap|{{saltillo}}ehu {{saltillo}}ehu}} (dark grey)
+:* {{wikt-lang|rap|tea}} (dawn) → {{wikt-lang|rap|tea tea}} (white)
+
+Besides forming adjectives from nouns, the reduplication of whole words can indicate a multiple or intensified action. For example:
+
+:* {{wikt-lang|rap|hatu}} (weave) → {{wikt-lang|rap|hatuhatu}} (fold)
+:* {{wikt-lang|rap|kume}} (undo) → {{wikt-lang|rap|kumekume}} (take to pieces)
+:* {{wikt-lang|rap|ruku}} (dive) → {{wikt-lang|rap|rukuruku}} (go diving)
+
+There are some apparent duplicate forms for which the original form has been lost. For example:
+:* {{wikt-lang|rap|rohirohi}} (tired)
+
+The reduplication of the initial syllable in verbs can indicate plurality of subject or object. In this example the bolded section represents the reduplication of a syllable which indicates the plurality of the subject of a transitive verb:
+: {{wikt-lang|rap|{{saltillo}}ori}} (dance):
+:: {{lang|rap|E {{saltillo}}ori ro {{saltillo}}a}} (he/she/they is/are dancing)
+:: {{lang|rap|E '''{{saltillo}}o{{saltillo}}ori ro''' {{saltillo}}a}} (they are all dancing)
+
+The reduplication of the final two syllables of a verb indicates plurality or intensity. In this example the bolded section represents the reduplication of two final syllables, indicating intensity or emphasis:
+
+: {{wikt-lang|rap|hā{{saltillo}}aki}} (tell):
+:: {{lang|rap|Ka ha{{saltillo}}aki}} (Tell the story)
+:: {{lang|rap|Ka '''ha{{saltillo}}aki{{saltillo}}aki'''}} (Tell the whole story)
+
+===Loanwords===
+
+Rapa Nui incorporates a number of [[loanwords]] in which constructions such as consonant clusters or word-final consonants occur, though they do not occur naturally in the language. Historically, the practice was to transliterate unfamiliar consonants, [[epenthesis|insert vowels between clustered consonants and append word-final vowels]] where necessary.
+
+:e.g.: '''Britain''' ''(English loanword)'' → '''Peretane''' ''(Rapa Nui rendering)''
+
+More recently, loanwords – which come primarily from Spanish – retain their consonant clusters. For example, "''litro''" (litre).<ref group="DF">{{harvnb|Du Feu|1996|pages=185}}</ref>
+
+===Word Classes===
+Rapa Nui can be said to have a basic two-way distinction in its words, much like other Polynesian languages. That is between full words, and particles.<ref name="Kieviet" group="PK" /> Full words occur in the head of the phrase and are mostly open classes (exceptions like locationals exist). Particles occur in fixed positions before or after the head, and have a high frequency. There also exists an intermediate category, Pro-Forms, which occur in the head of a phrase, and can be preceded or followed by a particle. Unlike full words, they do not have lexical meaning, and like particles, form a closed class. Pro-forms include personal, possessive and benefactive pronouns, as well as interrogative words.Additionally, two other intermediate categories are the negator (''{{saltillo}}ina'') and the numerals. While both of them form a closed class, they are able to function as phrase nuclei.<ref name="Kieviet" group="PK" />
+
+==== Demonstratives ====
+Rapa Nui doesn't have one class of demonstratives, instead it has four classes of particles with demonstrative functions. Each class is made up of three particles of different degrees of distance; proximal, medial, or distal. This is a three-way distinction, similar to [[Samoan language|Samoan]] and [[Māori language|Māori]], two closely related languages from the same language family. [[Tongan language|Tongan]], by contrast, has a two-way contrast.<ref>Holger Diessel. 2013. Distance Contrasts in Demonstratives.
+
+In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
+
+The World Atlas of Language Structures Online.
+
+Leipzig: Max Planck Institute for Evolutionary Anthropology.
+
+(Available online at <nowiki>http://wals.info/chapter/41</nowiki>, Accessed on 2021-03-29.)</ref>
+
+Rapa Nui speakers hence distinguish between entities that are close to the speaker (proximal), something at a medium distance or close to the hearer (medial), and something far away, removed from both the speaker and hearer (distal). This is called a person-oriented system, in which one of the demonstratives denotes a referent in proximity of the hearer.<ref>{{Cite book|last=Anderson|first=John|title=Deixis|last2=Keenan|first2=Edward|publisher=Cambridge University Press.|year=1985|pages=259–308}}</ref> For Rapa Nui speakers, that is the medial distinction, ''{{wikt-lang|rap|nei}}/{{wikt-lang|rap|ena}}/{{wikt-lang|rap|era}}''. This system of spatial contrasts and directions is known as spatial [[deixis]], and Rapa Nui is full of ways to express this, be it through locationals, postverbal or postnominal demonstratives, or directionals.
+
+These four classes that function as demonstratives are similar in form, but differ in syntactic status and have certain differences in functions.
+
+{| class="wikitable"
+|+ Classes of Demonstratives<ref group="PK">{{harvnb|Kieviet|2017|pages=194}}</ref>
+! Distance\Demonstrative
+! Demonstrative Determiners
+! Postnuclear Demonstratives
+! Deictic Locationals
+! Demonstrative Pronouns
+|-
+! Proximal
+|nei, nī
+|{{wikt-lang|rap|nei}}
+|nei
+|nei
+|-
+! Medial
+|nā
+|{{wikt-lang|rap|ena}}
+|nā
+|nā
+|-
+! Distal
+|rā
+|{{wikt-lang|rap|era}}
+|rā
+|rā
+|-
+! Neutral
+|tau/tou/tū, hū
+|
+|ira
+|}
+
+===== Postnominal Demonstratives =====
+The postnominal demonstratives are used to indicate different degrees of distance. They always occur on the right periphery of the noun phrase.<ref name=":0" group="PK" />
+
+Postnominal demonstratives are obligatory when following a t-demonstrative (''tau/tou/tū'') unless the noun phrase contains the identity marker ''{{saltillo}}ā/ {{saltillo}}ana''. They can also co-occur with other determiners, like articles in this example:
+
+{{interlinear|lang=rap|number=ex:
+|te kona hare era
+|ART place house DIST
+|'home' [R210.021]<ref name=":0" group="PK" />}}
+
+Postnominal demonstratives can be used deictically or anophorically. As deictic markers they are used to point at something visible, while as anaphoric markers they refer to entities in discourse context (entities which have been discussed before or are known by other means). In practice, the anaphoric use is much more common.<ref group="PK" name=":0">{{harvnb|Kieviet|2017|pages=196}}</ref>
+
+====== Distal/Neutral era ======
+{{wikt-lang|rap|era}} is used deictically to point to something at a distance from both speaker and hearer.
+
+{{interlinear|lang=rap|number=ex:
+|¿Hē te haraoa o te poki era?
+|WH.Q ART bread of ART child DIST
+|'Where is the bread of that child (over there)?' from [R245.041]<ref name=":0" group="PK" />}}
+
+However, it's more common to see {{wikt-lang|rap|era}} used anaphorically, as a general purpose demonstrative. {{wikt-lang|rap|era}} is often found co-occurring with the neutral t-demonstrative determiner, as the general form ''tau/tou/tū (N) era'', and this combination doubles as a common strategy to refer to a participant mentioned earlier in the discourse. So common, that ''era'' is the seventh most common word overall in the text corpus.<ref group="PK" name=":8">{{harvnb|Kieviet|2017|pages=197}}</ref>
+
+For example, the two main characters in this story are simply referred to as ''tau taŋata era'' 'that man' and ''tau vi {{saltillo}}e era'' 'that woman'.
+
+{{interlinear|lang=rap|number=ex:
+|He moe rō ꞌavai tau taŋata era. He koromaki ki tau viꞌe era toꞌo era e tōꞌona matuꞌa.
+|NTR {lie down} EMPH certainly DEM man DIST NTR miss to DEM woman DIST take DIST AG POSS.3SG.INAL parent
+|"The man slept. He longed for the woman that had been taken back by her father." [Mtx-5-02.057-060]<ref name=":8" group="PK" />}}
+
+''era'' is also used in combination anaphorically with ''te'', a more conventional determiner instead of a demonstrative determiner. Rapa Nui uses this combination to refer to something which is known to both speaker and hearer, regardless of whether it has been mentioned in the discourse. This means the "''te N era''" construction (Where N is a noun), indicates [[definiteness]], making it the closest equivalent to English (or Spanish) definite article, rather than a demonstrative.<ref group="PK" name=":9">{{harvnb|Kieviet|2017|pages=198}}</ref>
+
+''Te N era'' can also be used to refer to entities which are generally known, or presumed to be present in context. In the example, the cliffs refer to the cliffs in general, which can be presumed to be known by all Rapa Nui speakers on Rapa Nui with the coastline being a familiar feature. No specific cliff is meant.
+
+{{interlinear|lang=rap|number=ex:
+|I naꞌa era a {ꞌOho Takatore} i tū kūpeŋa era, he oho mai ki te kona ꞌōpata era.
+|PFV hide DIST PROP {Oho Takatore} ACC DEM net DIST NTR go hither to ART place cliff DIST
+|"When Oho Takatore had hidden that net, he went to the cliffs (lit. the cliffplace)." [R304.110]<ref name=":9" group="PK" />}}
+
+===== Deictic Locationals =====
+Deictic locationals utilize the same form as demonstrative determiners (''nei, nā'' and ''rā''). They can be the head of a phrase as they are locationals, and like other locationals they can be preceded by a preposition, but not by a determiner.<ref group="PK">{{harvnb|Kieviet|2017|pages=204}}</ref> They indicate distance with respect to the [[Origo (pragmatics)|origo]], which is either the speaker or the discourse situation.<ref group="PK" name=":7">{{harvnb|Kieviet|2017|pages=121}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|E vaꞌu mahana i noho ai ꞌi nei.
+|IPFV eight day PFV stay {{gcl|PVP|postverbal particle}} at PROX
+|'He stayed here ({{=}}on Rapa Nui) for eight days.' [R374.005]<ref name=":7" group="PK" />}}
+
+====Pronouns====
+Pronouns are usually marked for number: in Rapa Nui there are markers for first, second and third personal singular and plural; however, there is only a marker for [[dual (grammatical number)|dual]] in the first person. The first person dual and plural can mark for [[clusivity|exclusive and inclusive]]. The pronouns are always ahead of the person singular (PRS) ''a'' and relational particle (RLT) ''i'' or dative (DAT) ''ki''. However, in some examples, they do not have PRS, RLT and DAT.<ref group="DF">{{harvnb|Du Feu|1996|pages=110}}</ref>
+
+There is only one paradigm of pronouns for Rapa Nui. They function the same in both subject and object cases.
+
+Here is the table for the pronoun forms in Rapa Nui:<ref group="DF">{{harvnb|Du Feu|1996|pages=6}}</ref><ref group="PK">{{harvnb|Kieviet|2017|pages=140}}</ref>
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st-person
+! exclusive
+| rowspan="2" | {{wikt-lang|rap|au}}
+| {{wikt-lang|rap|maua}}
+| {{wikt-lang|rap|matou}}
+|-
+! inclusive
+| {{wikt-lang|rap|taua}}
+| {{wikt-lang|rap|tatou}}
+|-
+! colspan="2" | 2nd-person
+| {{wikt-lang|rap|koe}}
+| colspan="2" | {{wikt-lang|rap|korua}}
+|-
+! colspan="2" | 3rd-person
+| {{wikt-lang|rap|ia}}
+| colspan="2" | {{wikt-lang|rap|raua}}
+|}
+
+{{interlinear|number=(1)
+|Ko  '''au'''  e  noho  mai  ena  hokotahi  no
+|PRF '''1sg'''  STA  stay  TOW  PPD  alone  LIM
+|'I live here all alone'<ref group="DF">Du Feu 1996</ref>}}
+
+{{interlinear|number=(2)
+|He  haka  ai  i  a  '''ia'''  he  suerkao
+|ACT  CAUS  EXIST  RLT  PRS  '''3sg'''  {{gcl|±SPE|+/- specific}}  governor
+|'They made him governor'<ref group="DF" name=":0">Du Feu 1996 pp.123</ref>}}
+
+===Questions===
+Yes/no questions are distinguished from statements chiefly by a particular pattern of intonation. Where there is no expectation of a particular answer, the form remains the same as a statement. A question expecting an agreement is preceded by {{wikt-lang|rap|hoki}}.<ref group="DF" name="dufeu2">{{harvnb|Du Feu|1996|pages=84}}</ref>
+
+===Conjunction===
+Original Rapa Nui has no conjunctive particles. Copulative, adversative and disjunctive notions are typically communicated by context or clause order. Modern Rapa Nui has almost completely adopted Spanish conjunctions rather than rely on this.<ref group="DF" name="dufeu">{{harvnb|Du Feu|1996|pages=3}}</ref>
+
+===Possession===
+
+====Alienable and inalienable possession ====
+
+In the Rapa Nui, there are alienable and inalienable possession. Lichtemberk described alienable possession as the possessed noun being contingently associated with the possessor, and on the other hand inalienable possession as the possessed noun being necessarily associated with the possessor. The distinction is marked by a possessive suffix{{huh|date=July 2021}}{{fix|text=why does it come in front if it's a suffix?}} inserted before the relevant pronoun.
+Possessive particles:
+* {{wikt-lang|rap|a}} (alienable) expresses dominant possession
+Alienable possession is used to refer to a person's spouse, children, food, books, work, all animals (except horses), all tools and gadgets (including refrigerators), and some illnesses.<ref group="DF">{{harvnb|Du Feu|1996|pages=102}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|E tunu au i te kai mo '''ꞌaku''' ga poki ko maruaki ꞌa
+|STA cook 1sg RLT {{gcl|+SPE|+ specific}} food BEN '''POS.1sg.ALIEN''' GRP child PRF hungry RES
+|'I must cook dinner for '''my children''' who are hungry'<ref group="DF">{{harvnb|Du Feu|1996|pages=160}}</ref>}}
+
+{{wikt-lang|rap|poki}} (children) is an alienable possession therefore ''{{saltillo}}a'' is used to indicate that in this sentence, therefore the possessive pronoun ''{{saltillo}}a{{saltillo}}''{{huh|date=July 2021}}{{fix|text=the original was not possible Rapa Nui, but this doesn't match the example}} is used instead of ''{{saltillo}}o{{saltillo}}oku''.
+
+* {{wikt-lang|rap|o}} (inalienable) expresses the subordinate possession
+It is used with parents, siblings, house, furniture, transports (including carts, cars, scooters, boats, airplanes), clothes, feeling, native land, parts of the body (including mind), horses, and their bridles.
+
+{{interlinear|lang=rap|number=ex:
+|He agi na boꞌi he '''taina''' '''ꞌoꞌoku'''
+|STA true LIM EMP {{gcl|-SPE|- specific}} '''sibling''' '''POS.1sg.INAL.'''
+|'It is true apparently, he is my brother.'<ref group="DF">{{harvnb|Du Feu|1996|pages=102–103}}</ref>}}
+ 
+Inalienable possession ''o'' is used in this example, therefore ''{{saltillo}}o{{saltillo}}oku'' instead of ''{{saltillo}}a{{saltillo}}aku'' is used. It is talking about the speaker's brother, which is an inalienable relation.
+
+There are no markers to distinguish between temporary or permanent possession; the nature of objects possessed; or between past, present or future possession.
+
+====A and O possession ====
+A and O possession refer to alienable and inalienable possession in Rapa Nui. {{wikt-lang|rap|a}} marks for alienable possession and {{wikt-lang|rap|o}} marks for inalienable possession. ''a ''and ''o'' are marked as suffixes of the possessive pronouns; however, they are only marked when the possessive pronoun is in the first, second or third person singular. In (2) above, ''taina'' 'sibling' is inalienable and the possessor is first person singular ''{{saltillo}}o{{saltillo}}oku'' 'my'. However, for all the other situations, a and o are not marked as a suffix of the possessor. 
+ 
+{{interlinear|lang=rap|number=ex:
+|He vanaga maua o te meꞌe era
+|ACT talk 1DU.EX POS {{gcl|+SPE|+ specific}} thing PPD
+|'We'll talk about those matters.'<ref group="DF" name=":0" />}}
+
+In the above example, the possessor ''me{{saltillo}}e'' 'those' is not a possessive pronoun of the first, second or third person singular. Therefore, ''o'' is marked not as a suffix of the possessor but a separate word in the sentence.
+
+====Classifiers====
+There are no classifiers in the Rapa Nui language.
+
+===Exclamation===
+''Ko'' and ''ka'' are exclamatory indicators.<ref group="DF">{{harvnb|Du Feu|1996|pages=110}}</ref>
+:{{wikt-lang|rap|ko}} suggests a personal reaction:
+::Ko te aroha (Poor thing!)
+:{{wikt-lang|rap|ka}} suggests judgement on external events:
+::Ka ha{{saltillo}}aki{{saltillo}}aki (Tell the whole story!)
+
+===Compound words===
+Terms which did not exist in original Rapa Nui were created via compounding:<ref group="DF">{{harvnb|Du Feu|1996|pages=180}}</ref>
+:{{wikt-lang|rap|pātia ika}} = ('spear fish') = harpoon
+:{{wikt-lang|rap|pātia kai}} = ('spear food') = fork
+:{{wikt-lang|rap|kiri va{{saltillo}}e}} = ('skin foot') = shoe
+:{{wikt-lang|rap|manupātia|manu pātia}} = ('bird spear') = wasp
+:{{wikt-lang|rap|pepe hoi}} = ('stool horse') = saddle
+:{{wikt-lang|rap|pepe noho}} = ('stool stay') = chair
+
+=== Negation ===
+In Rapa Nui, [[Affirmation and negation|negation]] is indicated by free standing morphemes.<ref group="PK">{{harvnb|Kieviet|2017|pages=12}}</ref> Rapa Nui has four main negators:
+
+:''{{saltillo}}ina'' (neutral)
+:''kai'' (perfective)
+:''(e)ko'' (imperfective)
+:''ta{{saltillo}}e'' (constituent negator)
+
+Additionally there are also two additional particles/ morphemes which also contribute to negation in Rapa Nui:
+
+:''kore'' (Existential/noun negator)
+:''hia'' / ''ia'' (verb phrase particle which occurs in combination with different negators to form the meaning 'not yet')
+
+Negation occurs as preverbal particles in the verb phrase,<ref group="PK">{{harvnb|Kieviet|2017|pages=462}}</ref> with the clausal negator ''kai'' and ''(e)ko'' occurring in first position in the verbal phrase, while the constituent negator (''ta{{saltillo}}e'') occurs in second position in the verbal phrase. Clausal negators occur in the same position as [[Grammatical aspect|aspect]] markers and subordinators—this means it is impossible for these elements to co-occur.<ref group="PK">{{harvnb|Kieviet|2017|pages=314}}</ref> As a result, negative clauses tend to have fewer aspectual distinctions.<ref group="PK" name="Kieviet 2017 493">{{harvnb|Kieviet|2017|pages=493}}</ref> ''Hia'' occurs in eighth position as a post-verbal marker. Verbal negators precede adjectives.<ref group="PK">{{harvnb|Kieviet|2017|pages=116}}</ref> The table below roughly depicts the positions of negators in the Verb Phrase:
+
+==== Position in the verb phrase ====
+{| class="wikitable"
+|'''1'''
+|'''2'''
+|'''VERB'''
+|'''8'''
+|-
+|{{abbr|NEG|Negation}} (''kai'' / ''eko'')
+|determiner
+|
+|''hia''
+|-
+|Aspect marker
+|{{abbr|CONNEG|Constituent Negator}} (''ta{{saltillo}}e'')
+|
+|
+|-
+|subordinator
+|numeral
+|
+|
+|}
+
+==== Clausal negators ====
+
+===== ''{{saltillo}}Ina'' =====
+''{{saltillo}}Ina'' is the neutral negator (regarding aspect).<ref group="PK" name=":1">{{harvnb|Kieviet|2017|pages=494}}</ref> It has the widest range of use in a variety of contexts.<ref group="PK">{{harvnb|Kieviet|2017|pages=493, 494}}</ref> It usually occurs in [[Imperfective aspect|imperfective]] contexts, as well as habitual clauses and narrative contexts, and is used to negate actions and states.<ref group="PK" name=":1" /> It almost always occurs clause initially and is always followed by the neutral aspectual ''he'' + noun or ''he'' + verb.<ref group="PK">{{harvnb|Kieviet|2017|pages=316}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|'''ꞌIna''' '''he''' '''maꞌeha''' mo uꞌi iga i te kai
+|NEG {{abbr|PRED|Predicate marker}} light for see NMLZ ACC ART food
+|'There was no light to see the food.' [R352.070]<ref group="PK">{{harvnb|Kieviet|2017|pages=93}}</ref>}}
+
+In the example above ''{{saltillo}}ina'' is followed by the combination of ''he''+ ''ma{{saltillo}}eha'' (noun)
+
+{{interlinear|lang=rap|number=ex:
+|'''ꞌIna''' '''he''' '''takeꞌa''' rahi i te tagata
+|NEG NTR see many/much ACC ART man
+|'He did not see many people.' [R459.003]<ref group="PK">{{harvnb|Kieviet|2017|pages=170}}</ref>}}
+
+In this example, ''{{saltillo}}ina'' is followed by ''he'' + ''take{{saltillo}}a'' (verb)
+
+In addition to negating verbal and nominal clauses, it also functions as the term ꞌnoꞌas shown below:<ref group="PK" name="Kieviet 2017 498">{{harvnb|Kieviet|2017|pages=498}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|¿'''ꞌIna''' he pepe?...
+|NEG PRED chair...
+|'There were '''no''' chairs?...' [R413.635]<ref group="PK">{{harvnb|Kieviet|2017|pages=482}}</ref>}}
+
+Unlike the other two clausal negators (which are preverbal particles), ''{{saltillo}}ina'' is a phrase [[Head (linguistics)|head]],<ref group="PK" name="Kieviet 2017 493" /> thus it can form a constituent of its own.<ref group="PK">{{harvnb|Kieviet|2017|pages=499}}</ref>
+
+===== ''Kai'' =====
+''Kai'' negates clauses with [[Perfective aspect|perfective]] aspects.<ref group="PK" name=":2">{{harvnb|Kieviet|2017|pages=500}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|'''kai''' ꞌite a au ko ai a ia
+|NEG.PFV know PROP 1SG {{gcl|PROM|prominence marker}} who PROP 3SG
+|'I don't know who she is.' [R413.356]<ref group="PK">{{harvnb|Kieviet|2017|pages=490}}</ref>}}
+
+It is used to negate past events and narrative events, and is usually combined with ''{{saltillo}}ina''.<ref group="PK" name=":2" /> It is also used to negate [[Stative verb|stative]] verbs, and a verb phrase marked with ''kai'' may contain various post-verbal particles such as the continuity marker ''{{saltillo}}â'' / ''{{saltillo}}ana''. This marker occurs when the clause has perfect aspect (often obligatory with the perfect marker ''ko''). When combined with ''kai'', it indicates that the negative state continues.<ref group="PK" name=":2" />
+
+{{interlinear|lang=rap|number=ex:
+|'''Kai''' haꞌamata a au '''kai''' paꞌo '''ꞌā''' e tahi miro
+|NEG.PFV begin PROP 1SG NEG.PFV chop CONT {{gcl|NUM|numeral marker}} one tree
+|'I haven't yet started to chop down a tree.' [R363.091]<ref group="PK">{{harvnb|Kieviet|2017|pages=520}}</ref>}}
+
+===== ''(E)ko'' =====
+''(E)ko'' is the imperfective negator, which (like ''kai'') replaces the aspectual marker in front of the verb, and which can occur with the negator ''{{saltillo}}ina''.<ref group="PK" name=":2" />
+
+{{interlinear|lang=rap|number=ex:
+|'''ꞌIna''' '''e''' '''ko''' kai i te kahi o tôꞌona vaka
+|NEG IPFV NEG.IPFV eat ACC ART tuna of POSS.3SG.INAL boat
+|'(The fisherman) would not eat the tune (caught with) his boat.' [Ley-5-27.013]<ref group="PK" name=":3">{{harvnb|Kieviet|2017|pages=497}}</ref>}}
+
+It marks negative commands in [[Imperative sentence|imperatives]] (usually with ''{{saltillo}}ina'') with the ''e'' often excluded in imperatives.<ref group="PK" name=":4">{{harvnb|Kieviet|2017|pages=503}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|'''ꞌIna''' '''ko''' kai i te kai mata
+|NEG NEG.IPFV eat ACC ART food raw
+|'Don't eat raw food.' (Weber 2003b:610)<ref group="PK">{{harvnb|Kieviet|2017|pages=241}}</ref>}}
+
+In other contexts, especially when ''{{saltillo}}ina'' is absent, the ''e'' is obligatory.<ref group="PK" name=":4" />
+
+{{interlinear|lang=rap|number=ex:
+|¿'''E''' '''ko''' haga ꞌô koe mo ꞌori o Tâua?
+|NEG.IPFV NEG.IPFV want really 2SG for dance of 1DU.INCL
+|'Don't you want to dance with me (lit. us to dance)?' [R315.115]<ref group="PK" name=":4" />}}
+
+==== Constituent negator ====
+
+===== ''Ta{{saltillo}}e'' =====
+''Ta{{saltillo}}e'' is a constituent negator used to negate anything other than a [[Independent clause|main]] clause.<ref group="PK" name="Kieviet 2017 498" /> This can be subordinate clauses, prepositional phrases, possessive predicates and other non-verbal clauses.<ref group="PK">{{harvnb|Kieviet|2017|pages=504}}</ref> It also negates nominalised verbs and sub-constituents such as adjectives and quantifiers.<ref group="PK" name="Kieviet 2017 506">{{harvnb|Kieviet|2017|pages=506}}</ref> It does not negate nouns (this is done by the noun negator ''kore''). It is also used to negate [[Locative adverb|locative]] phrases, actor emphasis constructions, and is also used to reinforce the preposition ''mai''.<ref group="PK">{{harvnb|Kieviet|2017|pages=554}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|ꞌI au he oho rô ꞌai '''mai''' '''taꞌe''' pô
+|IMM 1SG NTR go EMPH SUBS from CONNEG night
+|'I'm going now, before it gets dark.' [R153.042]<ref group="PK">{{harvnb|Kieviet|2017|pages=184}}</ref>}}
+
+''Ta{{saltillo}}e'' is an indicator for subordinate clauses, as it can also negate subordinate clauses without subordinate markers (in which case it usually occurs with an aspect marker).<ref group="PK" name="Kieviet 2017 506" />
+
+{{interlinear|lang=rap|number=ex:
+|ꞌI te '''taꞌe''' hakarogo, he garo rô atu ꞌai
+|at ART CONNEG listen NTR lost EMPH away SUBS
+|'Because (the sheep) did not listen, it got lost.' [R490.005]<ref group="PK">{{harvnb|Kieviet|2017|pages=88}}</ref>}}
+
+It also occurs in main clauses with main clause negators and aspect markers ''i'' and ''e'', when the clause has a feature of a subordinate clause such as [[Oblique argument|oblique]] constituents<ref group="PK" name=":5">{{harvnb|Kieviet|2017|pages=507}}</ref>
+
+==== Noun negator: ''kore'' ====
+''kore'' is a verb meaning 'the absence or lack of something'.<ref group="PK" name=":6">{{harvnb|Kieviet|2017|pages=508}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|He uꞌi ku '''kore''' ꞌâ te tagi
+|NTR look PRF lack CONT ART cry
+|'He looked (at his wife); the crying was over.' [Ley-9-55.076]<ref group="PK" name=":6" />}}
+
+It immediately follows the noun in the adjective position, and is used to indicate that the entity expressed by the noun or noun modifier does not exist or is lacking in the given context.<ref group="PK" name=":6" />
+
+{{interlinear|lang=rap|number=ex:
+|Te ꞌati he matariki '''kore''' mo oro o râ hora
+|ART problem PRED file lack for grate of DIST time
+|'The problem was the lack of files to sharpen (the fishhooks) at the time.' [R539-1.335]<ref group="PK" name=":6" />}}
+
+==== ''Hia'' / ''ia'' ====
+''Hia'' / ''ia'' is a morpheme used immediately after negated verbs and co-occurs with a negator to indicate actions or events which are interrupted or are yet to happen.<ref group="PK">{{harvnb|Kieviet|2017|pages=509}}</ref>
+
+{{interlinear|lang=rap|number=ex:
+|'''kai''' oromatuꞌa '''hia''' i oho rô mai era ki nei
+|NEG.PFV priest yet PFV go EMPH hither DIST to PROX
+|'When he had not yet become a priest, he came here.' [R423.004]<ref group="PK">{{harvnb|Kieviet|2017|pages=99}}</ref>}}
+
+==== Double negation ====
+In Rapa Nui, double negation is more frequent than single negation (with the negator ''{{saltillo}}ina'' often co-occurring with another clause negator most of the time).<ref group="PK">{{harvnb|Kieviet|2017|pages=496}}</ref> It is often used as a slight reinforcement or emphasis.<ref group="PK" name=":3" />
+
+''{{saltillo}}Ina'' can be combined with negators kai and ''(e)ko''- both of these are main clause negators.
+
+{{interlinear|lang=rap|number=ex:
+|¡''Ka'' rua ꞌô mahana '''ꞌina''' '''kai''' tuꞌu mai!
+|{{gcl|CNTG|contiguity marker}} two really day NEG NEG.PFV arrive hither
+|'She hasn't come for two days.' [R229.132]<ref group="PK">{{harvnb|Kieviet|2017|pages=155}}</ref>}}
+
+In the example above we see the negator ''{{saltillo}}ina'' co-occurring with the perfective negator ''kai''.
+
+When ''ta{{saltillo}}e'' occurs in double negation, if the other negator is ''kai'' or ''(e)ko'', the negative polarity is cancelled out.<ref group="PK" name=":5" />
+
+{{interlinear|lang=rap|number=ex:
+|'''kai''' '''taꞌe''' haka ꞌite ko ai a ia hai meꞌe rivariva aga
+|NEG.PFV CONNEG CAUS know {{gcl|PROM|prominence marker}} who PROP 3SG INS thing good:REDUP do
+|'(God) did not fail to make known who he is, by the good things he did.' (Acts 14:17)<ref group="PK" name=":5" />}}
+
+''{{saltillo}}Ina'' only negates main clauses so it never combines with the negator ''ta{{saltillo}}e'', which is a subordinate clause negator. When occurring with ''{{saltillo}}ina'', negation may be reinforced.<ref group="PK" name=":5" />
+
+{{interlinear|lang=rap|number=ex:
+|.... '''ꞌina''' e ko '''taꞌe''' ravaꞌa te ika
+|{} NEG IPFV NEG.IPFV CONNEG obtain ART fish
+|'(if the mother does not eat the fish caught by her firstborn son), he will not fail to catch fish.' [Ley-5-27.008]<ref group="PK" name=":6" />}}
+
+Double negation occurs very frequently in imperatives in particular.<ref group="PK" name=":3" />
+
+{{interlinear|lang=rap|number=ex:
+|'''ꞌIna''' '''ko''' oho ki te têtahi kona
+|NEG NEG.IPFV go to ART some/other place
+|'Don't go to another place.' [R161.027]<ref group="PK">{{harvnb|Kieviet|2017|pages=166}}</ref>}}
+
+===Numerals===
+There is a system for the numerals 1–10 in both Rapa Nui and Tahitian, both of which are used, though all numbers higher than ten are expressed in Tahitian. When counting, all numerals whether Tahitian or Rapanui are preceded by ''ka''. This is not used however, when using a number in a sentence.<ref group="DF">{{harvnb|Du Feu|1996|pages=79–82}}</ref>
+
+{| class="wikitable"
+|+ Rapa Nui Numerals 1–10:
+|-
+!
+! Cardinal
+! Counting
+|-
+| 1 || {{wikt-lang|rap|tahi}} || {{wikt-lang|ka|tahi}} {{lang|rap|tahi}}
+|-
+| 2 || {{wikt-lang|rap|rua}} || {{lang|rap|ka rua}}
+|-
+| 3 || {{wikt-lang|rap|toru}} || {{lang|rap|ka toru}}
+|-
+| 4 || {{wikt-lang|rap|hā}} || {{lang|rap|ka hā}}
+|-
+| 5 || {{wikt-lang|rap|rima}} || {{lang|rap|ka rima}}
+|-
+| 6 || {{wikt-lang|rap|ono}} || {{lang|rap|ka ono}}
+|-
+| 7 || {{wikt-lang|rap|hitu}} || {{lang|rap|ka hitu}}
+|-
+| 8 || {{wikt-lang|rap|va{{saltillo}}u}} || {{lang|rap|ka va{{saltillo}}u}}
+|-
+| 9 || {{wikt-lang|rap|iva}} || {{lang|rap|ka iva}}
+|-
+| 10 || {{wikt-lang|rap|{{saltillo}}aŋahuru}} || {{lang|rap|ka {{saltillo}}aŋahuru}}
+|}
+
+== Syntax ==
+
+=== Word order ===
+Rapa Nui is a [[verb–subject–object|VSO]] (verb–subject–object) language.<ref group="DF">{{harvnb|Du Feu|1996|pages=9–10}}</ref> Except where verbs of [[Sense#Senses|sensing]] are used, the object of a verb is marked by the relational particle {{wikt-lang|rap|i}}.
+
+:e.g.: He hakahu koe '''i''' te '''rama''' (''the relational particle and object are bolded'')
+::"You light the torch"
+
+Where a verb of sensing is used, the subject is marked by the agentive particle {{wikt-lang|rap|e}}.
+:e.g.: He tikea '''e au''' te poki (''the agentive particle and subject are bolded'')
+::"I can see the child"
+
+=== Directionals ===
+Spatial deictics is also present in Rapa Nui, in the form of two directionals: ''mai'' and ''atu''. They indicate direction with respect to a specific deictic centre or locus.
+
+* {{wikt-lang|rap|mai}} indicates movement towards the deictic centre, hence the gloss ''hither''.
+* ''atu'' indicates movement away from the deictic centre, and is as such glossed as ''away''.<ref group="PK">{{harvnb|Kieviet|2017|pages=348}}</ref> They are both reflexes of a larger system in Proto-Polynesian.<ref>{{Cite book|last=Clark|first=Ross|title=Aspects of Proto-Polynesian syntax|publisher=Linguistic Society of New Zealand|year=1976|location=Auckland|pages=34}}</ref>
+
+=== Postverbal Demonstratives ===
+The postverbal demonstratives (PVDs) have the same form as the postnominal demonstratives, and they have the same meaning:
+
+* {{wikt-lang|rap|nei}}: proximity, close to the speaker
+* {{wikt-lang|rap|ena}}: medial distance, close to the hearer
+* {{wikt-lang|rap|era}}: default PVD; farther distance, removed from both speaker and hearer.
+
+How they differ from postnominal demonstratives is their function/where they can appear, as it is quite limited. They can only appear in certain syntactic contexts, listed here:
+
+* PVDs are common after imperfective e to express a progressive or habitual action.
+* The contiguous marker ''ka'' is often followed by a PVD, both in main and subordinate clauses.
+* With the perfect ko V {{saltillo}}ā, era is occasionally used to express an action which is well and truly finished.
+* PVDs also appear in relative clauses
+
+Overall, their main function is to provide nuance to the aspectual marker they are being used alongside.<ref group="PK">{{harvnb|Kieviet|2017|pages=362–363}}</ref>
+
+==References==
+;From '''[[#DF|Du Feu, Veronica (1996). ''Rapanui'']].'''
+{{Reflist|group=DF|16em}}
+
+;From [[#PK|Kieviet, Paulus (2017). ''A Grammar of Rapa Nui'']].
+{{Reflist|group=PK|16em}}
+
+;Other footnotes
+{{Reflist|24em}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+ACT:action
+LIM:limitative
+PPD:postpositive determinant
+PRS:person singular
+RLT:relational particle
+STA:state (verbal)
+TOW:towards subject
+EMP:emphasis
+GRP:group plural
+RES:resultative
+PROX:proximal demonstrative
+PRED:predicate marker
+NTR:neutral aspect
+PROP:proper article
+SUBS:subsequent
+CONNEG:constituent negator
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Bibliography==
+*{{cite book |last=Du Feu |first=Veronica |date=1996 |title=Rapanui |location=London |publisher=Routledge }}
+*{{cite book |last=Fischer |first=S.R. |date=2008 |chapter=Reversing Hispanisation on Rapa Nui (Easter Island) |editor=T. Stolz |editor2=D. Bakker |editor3=R.S. Palomo |title=Hispanisation: The Impact of Spanish on the Lexicon and Grammar of the Indigenous Languages of Austronesia and the Americas |location=Berlin |publisher=Mouton de Gruyter |pages=149–165 }}
+*{{cite journal |last=Latorre |first=Guillermo |date=2001 |title=Chilean toponymy: "the far-away possession" |url=http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0071-17132001003600009 |journal=[[Estudios Filológicos]] |publisher=[[Austral University of Chile]]|language=es |volume=36 |pages=129–142 |access-date=10 January 2014}}
+*{{cite book |last=Kieviet |first=Paulus |date=2017 |title=A Grammar of Rapa Nui |series=Studies in Diversity Linguistics 12 |location=Berlin |publisher=Language Science Press |url=http://langsci-press.org/catalog/view/124/303/581-1 |isbn=978-3-946234-75-3 |doi=10.17169/langsci.b124.303 }} [[File:CC-BY icon.svg|50px]] Text was copied from this source, which is available under a [https://creativecommons.org/licenses/by/4.0/ Creative Commons Attribution 4.0 International License].
+*{{Cite journal |last=Makihara |first=Miki |date=2005a |title=Rapa Nui ways of speaking Spanish: Language shift and socialization on Easter Island |journal=Language in Society |volume=34 |issue=5 |pages=727–762 |doi=10.1017/S004740450505027X }}
+*{{Cite journal |last=Makihara |first=Miki |date=2005b |title=Being Rapa Nui, speaking Spanish: Children's voices on Easter Island |journal=Anthropological Theory |volume=5 |issue=2 |pages=117–134 |doi=10.1177/1463499605053995 }}
+*Pagel, S., 2008. The old, the new, the in-between: Comparative aspects of Hispanisation on the Marianas and Easter Island (Rapa Nui). In T. Stolz, D. Bakker, R.S. Palomo (eds) ''Hispanisation: The Impact of Spanish on the Lexicon and Grammar of the Indigenous Languages of Austronesia and the Americas''. Berlin: Mouton de Gruyter, pp.&nbsp;167–201.
+
+==External links==
+{{Incubator|code=rap}}
+{{Portal|Chile|Oceania|Languages}}
+*Englert's ''Rapa Nui dictionary'': [https://web.archive.org/web/20071016043210/http://www.rongorongo.org/vanaga/a.html Internet Archive version from 2007-10-16]
+*[http://kohaumotu.org/Rongorongo/Dictionary/dictionary_complete.html Mirror of Englert's ''Rapa Nui dictionary'']
+*[https://web.archive.org/web/20121113145613/http://en.wiktionary.org/wiki/Appendix:Araucanian_Swadesh_lists Rapa Nui Swadesh vocabulary list] (Wiktionary)
+*[http://language.psy.auckland.ac.nz/austronesian/language.php?id=264 Rapa Nui words from the ''Austronesian Basic Vocabulary Database'']
+*[https://web.archive.org/web/20060915112902/http://qcpages.qc.cuny.edu/ANTHRO/makihara/makihara.html Miki Makihara (Queens College), has several papers on contemporary Rapa Nui language and language revival efforts]
+
+{{Languages of Chile}}
+{{Polynesian languages}}
+{{Austronesian languages}}
+{{Authority control}}
+
+[[Category:Analytic languages]]
+[[Category:Easter Island]]
+[[Category:Isolating languages]]
+[[Category:East Polynesian languages]]
+[[Category:Languages of Chile]]
+[[Category:Verb–subject–object languages]]
+[[Category:Endangered Austronesian languages]]
+[[Category:Endangered languages of Oceania]]

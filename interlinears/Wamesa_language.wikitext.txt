@@ -1,0 +1,604 @@
+{{Short description|Austronesian language of West Papua, Indonesia}}
+{{Infobox language
+| name = Wamesa
+| altname = Wandamen
+| states = [[Indonesia]]
+| region = [[Cenderawasih Bay]]
+| pushpin_map = Indonesia Western New Guinea#Indonesia
+| coordinates = {{coord|-2.26|134.00|region:ID-PB}}
+| ethnicity   = [[Wamesa people|Wamesa]]
+| speakers = 5,000
+| date = 1993
+| ref = e18
+| familycolor = Austronesian
+| fam2 = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+| fam3 = [[Central–Eastern Malayo-Polynesian languages|Central–Eastern Malayo-Polynesian]]
+| fam4 = [[Eastern Malayo-Polynesian languages|Eastern Malayo-Polynesian]]
+| fam5 = [[South Halmahera–West New Guinea languages|South Halmahera–West New Guinea]]
+| fam6 = [[Yapen languages (Austronesian)|Yapen]]
+| fam7 = Central–Western
+| dia1 = Windesi, Bintuni, Wandamen
+| iso3 = wad
+| glotto = wand1267
+| glottorefname = Wandamen
+}}
+
+'''Wamesa''' is an [[Austronesian language]] of [[Indonesia]]n New Guinea, spoken across the neck of the [[Doberai Peninsula]] or Bird's Head. There are currently 5,000–8,000 speakers.{{cn|date=January 2021}} While it was historically used as a [[lingua franca]], it is currently considered to under-documented, [[endangered language]]. This means that fewer and fewer children have an active command of Wamesa. Instead, [[Papuan Malay]] has become increasingly dominant in the area.
+
+==Name==
+The language is often called '''Wandamen''' in the literature; however, several speakers of the Windesi dialect have stated that 'Wandamen' and 'Wondama' refer to a dialect spoken around the Wondama Bay, studied by early missionaries and linguists from [[SIL International|SIL]]. They affirm that the language as a whole is called 'Wamesa', the dialects of which are Windesi, Bintuni, and Wandamen.<ref name="Gasser 2014" /> While Wamesa is spoken in [[West Papua (province)|West Papua]], Wamesa is not a [[Papuan languages|Papuan language]] but rather a [[South Halmahera–West New Guinea languages|SHWNG]] language.
+
+== Distribution ==
+Locations:<ref name="Ronsumbre-2020">{{cite book |last=Ronsumbre |first=Adolof |year=2020 |title=Ensiklopedia Suku Bangsa di Provinsi Papua Barat |location=Yogyakarta |publisher=Penerbit Kepel Press |isbn=978-602-356-318-0}}</ref>
+
+*[[Teluk Bintuni Regency]]
+*[[Teluk Wondama Regency]]
+**Windesi District: Windesi, Wamesa Tengah, Sombokoro, Wamesa Timur (Yopmeos), and Sandey villages
+**Sougb Jaya District: Kaprus village
+
+== Phonology ==
+
+=== Vowels ===
+There are five contrastive vowels in Wamesa, as is typical of Austronesian languages.<ref name="Gasser 2014">{{Cite thesis |last=Gasser |first=Emily A. |title=Windesi Wamesa Morphophonology |date=2014 |degree=PhD |publisher=Yale University |url=http://elischolar.library.yale.edu/ling_graduate/1}}</ref> These vowels are shown in the tables below.
+{| class="wikitable"
+|+Wamesa vowel phonemes<ref name="Gasser 2014" />
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+!'''[[High vowel|High]]'''
+|[[Close front unrounded vowel|i]]
+|
+|[[Close back rounded vowel|u]]
+|-
+!'''[[Mid vowel|Mid]]'''
+|[[Close-mid front unrounded vowel|e]]
+|
+|[[Close-mid back rounded vowel|o]]
+|-
+!'''[[Low vowel|Low]]'''
+|
+|[[Open central unrounded vowel|a]]
+|
+|}
+{| class="wikitable"
+|+(Near) Minimal pairs for Wamesa vowel phonemes<ref name="Gasser 2014" />
+!Wamesa
+Word
+!English
+Gloss
+|-
+|ra
+|go
+|-
+|re
+|eye
+|-
+|ri
+|type of traditional dance
+|-
+|ron
+|ironwood tree
+|-
+|ru
+|head
+|}
+
+Five [[diphthong]]s appear in Wamesa: /au/, /ai/, /ei/, /oi/, and /ui/. Two-vowel and three-vowel clusters are also common in Wamesa. Almost all VV-clusters contain at least one [[high vowel]], and no two non-high vowels may be adjacent in larger clusters. 
+{| class="wikitable"
+!3-Vowel
+Cluster
+!Wamesa
+Word(s)
+!English
+Gloss
+|-
+|iau
+|niau
+|cat
+|-
+|ioi
+|nioi
+|knife
+|-
+|iai
+|ai kiai dire
+|toenail
+|-
+|iou
+|ariou
+|flower
+|-
+|iui
+|βiui
+|3sg-write
+|}
+
+=== Consonants ===
+There are 14 consonants in Wamesa, three of which are marginal (shown in parentheses in the table below). 
+{| class="wikitable"
+|+Wamesa Consonants<ref name="Gasser 2014" />
+!
+![[Bilabial consonant|Bilabial]]
+![[Coronal consonant|Coronal]]
+![[Velar consonant|Velar]]
+|-
+![[Nasal consonant|Nasal]]
+|m
+|n
+|ŋ
+|-
+![[Stop consonant|Plosive]]
+|p  b
+|t   d
+|k (g)
+|-
+![[Fricative consonant|Fricative]]
+|β
+|s
+|
+|-
+![[Affricate consonant|Affricate]]
+|
+|(d͡ʒ)
+|
+|-
+![[Tap consonant|Tap]]/[[Trill consonant|Trill]]
+|
+|r/ɾ
+|
+|-
+![[Lateral consonant|Lateral]]
+|
+|(l)
+|
+|}
+
+Labial, coronal and velar places of articulation are contrastive in Wamesa. Coronal plosives sound relatively dental and may therefore be referred to as alveolar or alveo-dental until palatography can be executed to corroborate this.<ref name="Gasser 2014" /><ref>Gasser, Emily (2015). ''Wamesa Talking Dictionary, pilot version.'' Living Tongues Institute for Endangered Languages. <nowiki>http://www.talkingdictionary.org/wamesa</nowiki></ref> Lateral /l/ and affricate /d͡ʒ/ appear only in loanwords, while all other sounds occur in native Wamesa words. The voiced velar fricative /g/ is a marginal phoneme because it only appears following /ŋ/.
+
+The coronal tap and trill are in free variation, though the trill tends to occur more in word-initial or word-final position and in careful speech.
+
+Place and manner contrasts as described above are supported by the minimal and near-minimal pairs found in the following table. Where possible, Wamesa words have been selected to show native (non-loan) phonemes in the environment /C<sub>[labial]</sub>a_a/.
+
+ {| class="wikitable"
+|+(Near) Minimal Pairs for Wamesa Consonant Phonemes<ref name="Gasser 2014" />
+!Phoneme
+!Wamesa (IPA)
+!English Gloss
+|-
+|p
+|mapar
+|valley
+|-
+|b
+|baba
+|big
+|-
+|t
+|βata
+|good, true
+|-
+|d
+|padamara
+|lamp
+|-
+|k
+|makarabat
+|eel
+|-
+|g
+|maŋgar
+|yell
+|-
+|m
+|mamara
+|clear
+|-
+|n
+|manau
+|already
+|-
+|ŋ
+|waŋgar
+|rat
+|-
+|β
+|βaβa
+|under
+|-
+|s
+|masabu
+|broken, cracked
+|-
+|r
+|marapa rau
+|paddy oat leaf
+|}
+
+=== Phonotactics ===
+Velar plosive [g] only appears following [ŋ], and [ŋ] can only appear without a following [g] if it is stem-initial.
+
+==== Glide Phonotactics ====
+There are no underlying glides in Wamesa, [j] and [w] are [[allophone]]s of the vowel phonemes /i/ and /u/. This phonetic alternation is obligatory, permitted, or prohibited, depending upon the environment.
+{| class="wikitable"
+!Vowel surfaces as Glide
+!Env. 1
+!Env. 2
+!Env. 3
+|-
+|Obligatorily
+|#_V
+|V_V
+|
+|-
+|Optionally
+|C_V
+|V_C
+|V_#
+|-
+|Never
+|C_C
+|#_C
+|C_#
+|}
+High vowels ''must'' become glides word-initially preceding a vowel or intervocalically. They ''may'' optionally become glides when adjacent to a single vowel. Finally, high vowels ''never'' become glides between two consonants, depriving the syllable of a nucleus. Nor do glides appear word-initially preceding a consonant or word-finally following a consonant, in which case the syllable structure would be at odds with the [[Sonority Sequencing Principle]].
+[[File:Flow Chart of Consonant Cluster Phonotactics.png|thumb|267x267px|Flow Chart of Consonant Cluster Phonotactics]]
+
+==== Consonant cluster reduction ====
+Complex [[Onset (linguistics)|onsets]] and [[Coda (linguistics)|codas]] are not permitted in Wamesa, and consonant clusters across syllable boundaries are usually reduced, such that /C<sub>1</sub>C<sub>2</sub>/ surfaces as [C<sub>2</sub>]. However, there are three exceptions to this; clusters of [[Homorganic consonants|homorganic]] nasals and voiced plosives are permitted to surface, as are consonant-[[Glide (linguistics)|glide]] clusters that form through the morphophonological processes described above. Additionally, an underlying cluster of a consonant followed by /β/ /r/ or /k/ does not reduce but surfaces as a nasal followed by a homorganic voiced plosive, both of which derive their place features from underlying /C<sub>2</sub>/.
+
+Data from related languages of the [[Yapen languages (Austronesian)|Yapen]] and [[Biakic languages|Biakic]] groups suggests that [[Historical linguistics|historically]], /β/ /r/ and /k/ were *b *d and *g in Proto-Eastern Malayo-Polynesian. In this case, these phones would have formed a [[natural class]] of voiced plosives to which [[phonological rule]]s could uniformly apply.<ref name="Gasser 2014" />
+
+=== Stress ===
+Wamesa is a bounded language with a 3-syllable, right-aligned stress window, meaning that stress alternates and [[Stress (linguistics)|primary stress]] falls on the final, penultimate, or antepenultimate syllable of the [[Prosodic word|Pword]]. However, the distribution is not even; in a random sampling test of 105 audio clips, 66 tokens had primary stress on the penultimate syllable. With the addition of [[Clitic|enclitics]], primary stress sometimes shifts towards the end of the word to stay within the stress window, but since Wamesa [[Optimality theory|prefers]] its metrical feet to be [[trochee]]s, stress usually jumps from the head of one foot to the next, rather than jumping single syllables.
+
+Note that stress in Wamesa is not predictable, meaning there is no rule for where primary stress will occur. Therefore, stress is specified in the underlying form of words. However, as mentioned earlier, stress shift may occur in certain words in order to create a better phonological structure (i.e. create alternation while avoiding clash and lapse).
+
+Secondary stresses are apparent in words of more than two syllables and, in cases of shifting stress, can be added at the beginnings of words to reduce lapses (several adjacent syllables without any stress). In the example below, the addition of the enclitic [[determiner]] ''=pai'' causes primary stress to shift to the right by two syllables (a single foot), and a secondary stress is added to the left in order to fill the lapse.
+
+{{interlinear|indent=3
+|ma.rá.ri.a → ma.rà.ri.á{{=}}pai
+|child     {}      child{{=}}DET
+|"the child"}}
+
+However, secondary stress always precedes primary stress and clitics are never able to carry stress in Wamesa. These two factors mean that the addition of multiple enclitics sometimes causes large lapses at the ends of words. For example, the construction below has a 5-syllable lapse at the end.
+
+{{interlinear|indent=3
+|ma.né.ta{{=}}pa-ta.ta{{=}}ma
+|friend{{=}}DET-1PL.INCL{{=}}FOC
+|"we friends"}}
+
+This would appear to be a violation of the 3-syllable stress window, but the fact that clitics never carry stress indicates that they may combine with their hosts at the level of the Pphrase rather than at Pword, where the stress window is relevant. Additionally, lapse is evaluated at the level of the Pword, meaning that stress in the following word never shifts to compensate. That is to say, stress in a word following the above construction would never shift leftwards for the purpose of reducing the lapse between words. This is in contrast to clash, (adjacent stressed syllables) which is evaluated at the level of the phonological phrase. Thus, to avoid clash, stress can shift within a word to compensate for the presence of a stressed syllable across a word boundary. For example, the word ''ka.tú'' 'small' typically has a stressed final syllable. However, when followed by ''yá.na'' 'there' as in the phrase below, stress within ''ka.tú'' shifts to avoid two adjacent stressed syllables.
+
+{{interlinear|indent=3
+|{ma.rá.ri.a ka.tú yá.na} → {ma.rá.ri.a ká.tu yá.na}
+|child    {}     {small there}
+|"small child there"}}
+
+In summary, lapse avoidance can only occur at the level of Pword, while clash avoidance is relevant at the level of Pphrase.<ref name="Gasser 2014" />
+
+== Orthography ==
+In much of the literature on Wamesa an orthography is used which is based on the orthographic system of [[Indonesian language|Indonesian]]. This orthography diverges from IPA notation in the following cases:
+
+* /β/ is notated ⟨v⟩
+* /d͡ʒ/ is notated ⟨j⟩
+* /j/ is notated ⟨y⟩
+* /ŋ/ is notated ⟨ng⟩ – clusters of /ŋg/ therefore appear as ⟨ngg⟩
+
+== Syntax ==
+Wamesa includes the following parts of speech: noun, pronoun, verb, adverb, adjective, determiner, preposition, complementizer, conjunction, numeral, interrogative, imperative, locative, demonstrative, particle, interjection, and adposition.
+
+=== Word Order ===
+Wamesa is an [[Subject–verb–object|SVO]] (subject, verb, object) language. Wamesa has NADQ (noun, adjective, demonstrative, quantifier) order, which is rare in the world's languages.<ref>{{Cite journal |last=Cinque |first=Guglielmo |date=2005 |title=Deriving Greenberg's Universal 20 and Its Exceptions |url=https://www.researchgate.net/publication/240677903 |journal=Linguistic Inquiry |language=en |volume=36 |issue=3 |pages=315–332 |doi=10.1162/0024389054396917|s2cid=12613830 }}</ref>
+
+When a sentence involves an applicative, the word order is as follows: (subject) instrument verb (object), with the items in parentheses as optional.
+
+==== Adjectives  ====
+Adjectives always follow nouns. Unlike verbs, they cannot take the applicative prefix.
+
+==== Verbs ====
+With regard to verbs, phrases must adhere to the following rules:
+
+# Subject agreement (person and number) must be marked on each verb and only on verbs.
+# If direction is involved in the sentence, it must be marked on the verb.
+# If there is an essive, it must attach to the verb that is describing a trait of the subject.
+# The applicative must attach to the verb, not the instrument.
+
+==== Adverbs ====
+There are only two manner adverbs in Wamesa: ''saira'' ‘quickly’ and ''nanaria'' ‘slowly.’ Reduplication is used for emphasis: (e.g. ''sasaira'' ‘very quickly’).
+
+==== Prepositions  ====
+Prepositions are non-stackable, meaning they must not appear directly next to a location word nor another preposition. Additionally, they require an NP (noun phrase) complement.
+
+=== Serial Verb Construction ===
+Wamesa does not have an infinitive construction, but it does have [[serial verb construction]]s (SVC's). This means that a sequence of multiple verbs may be used to describe a single event. SVC's in Wamesa include the following serializations: same subject, switch subject, multiple object, ambient, and conjoined participant.<ref>{{Cite book |last=Senft |first=Gunter |title=Complex Predicates in Oceanic Languages |date=2004 |publisher=Mouton de Gruyter |editor-last=Bril |editor-first=I. |location=Berlin |pages=49–64 |chapter=What Do We Really Know about Serial Verb Constructions in Austronesian and Papuan Languages? |editor-last2=Ozanne-Rivierre |editor-first2=F. |chapter-url=https://pure.mpg.de/rest/items/item_59414_3/component/file_468455/content}}</ref>
+
+=== Passive Construction ===
+Wamesa does not have a true passive since subject agreement is always marked on the verb. However, when the subject is omitted and the object is moved to the beginning of the sentence and [[Topicalization|topicalized]], a sort of passive construction results.
+
+=== Possession ===
+Wamesa distinguishes between [[Alienable and inalienable possession|alienable and inalienable]] nouns. Inalienable nouns in Wamesa include human body parts and kinship terms, while alienable nouns in Wamesa include ‘name’, ‘shadow,’ and everything else. Inalienable nouns in Wamesa can also be used with the alienable possessive construction, but alienable nouns can only be used with the alienable construction. In the dual and plural constructions of possessed nouns, the possessed root gets a prefix that agrees with the possessor in person, number, and animacy.
+
+=== Question Formation ===
+Wamesa primarily has [[Wh in situ|WH-in-situ]], which means that the WH word does not move to the beginning of a sentence in question form and it instead takes the original place of the thing in question. In contrast, English primarily has WH-raising. That said, Wamesa has WH-raising with ''otopi'' ‘why’. Basic polar (yes/no) questions are created by inserting ''te'' after a sentence that would otherwise be a declarative sentence. Tag questions are formed by inserting ''ei'' after the original sentence.
+
+== Morphology ==
+
+=== Nominal Morphology ===
+A noun phrase (NP) in Wamesa may contain the following: noun, determiner, adjective, number, gender, class (human or nonhuman), relative clause, and quantifier. However, Wamesa does not have case, specificity, and tense. The marker for number goes on the determiner, not the noun. Number cannot be marked twice: it must either be marked explicitly on the determiner or implicitly with a quantifier. When constructing a sentence, there is a wide range of agreement options for human nouns but not for nonhuman nouns.
+
+=== Affixes and Clitics ===
+Wamesa has an applicative (''it''), causative (''on''), and essive (''ve''-). Additional [[affix]]es include markers for plural (-''si'' ), singular (''-i'' ), and 3rd plural human (''-sia''). Wamesa's [[clitic]]s include the topicalizer ''=ma'', focus ''=ya'', ''=ye'', ''=e''; and the proximal (''=ne''), default/medial (''=pa''), and distal (''=wa'') definite determiners. Note that Wamesa clitics are only phonological and not syntactic.
+
+Certain verbs involve the use of the supplemental morpheme ''-i''. For example, the verb ''maso'' ‘sit’ requires a location, which can either be explicitly stated or represented by the morpheme ''-i''.
+
+{{interlinear|indent=3
+|Imasoi
+|1sg-sit-location
+|‘I sit’}}
+
+When the verb ''sera'' ‘see’ involves an object, it can either be explicitly stated or represented by the morpheme ''-i''.
+
+{{interlinear|indent=3
+|Yau iserai.
+|I 1sg-see-object
+|‘I see (something).’}}
+
+==== Subject Agreement ====
+<nowiki>*</nowiki>The information presented below uses orthography rather than [[International Phonetic Alphabet|IPA]].
+{| class="wikitable"
+|+Subject Agreement Chart 
+|
+|Prefix
+|''ase'' 'to swim'
+|''pera'' 'to cut'
+|''ra'' 'to go'
+|-
+! colspan="5" |Singular
+|-
+|1sg
+|/i-/
+|''y-ase''
+|''i-pera''
+|''i-ra''
+|-
+|2sg
+|/bu-/
+|''bu-ase''
+|''p<nowiki><u>uera</nowiki>''
+|''r<nowiki><u>a</nowiki>''
+|-
+|3sg
+|/di-/
+|''di-ase''
+|''p<nowiki><i>era</nowiki>''
+|''r<nowiki><i>a</nowiki>''
+|-
+! colspan="5" |Dual
+|-
+|1du incl
+|/tur-/
+|''tur-ase''
+|''tu-pera''
+|''tun-da''
+|-
+|1du excl
+|/amur-/
+|''amur-ase''
+|''amu-pera''
+|''amun-da''
+|-
+|2du
+|/mur-/
+|''mur-ase''
+|''mu-pera''
+|''mun-da''
+|-
+|3du
+|/sur-/
+|''sur-ase''
+|''su-pera''
+|''sun-da''
+|-
+! colspan="5" |Plural
+|-
+|1pl incl
+|/tat-/
+|''tat-ase''
+|''ta-pera''
+|''tan-da''
+|-
+|1pl excl
+|/amat-/
+|''amat-ase''
+|''ama-pera''
+|''aman-da''
+|-
+|2pl
+|/met-/
+|''met-ase''
+|''me-pera''
+|''men-da''
+|-
+|3pl hum
+|/set-/
+|''set-ase''
+|''se-pera''
+|''sen-da''
+|-
+|3pl NH
+|/si-/
+|''si-ase''
+|''si-pera''
+|''si-ra''
+|}
+Note that with 2sg and 3sg, the agreement is [[infix]]ed.
+
+Usually, [[infix]]ation is used to improve [[Syllable|syllable structure]] by making a word CVCV (consonant vowel alternation). However, in the case of Wamesa, perceptual metathesis results in the opposite effect.
+
+==== Negation ====
+The clitic ''=va'' is used to indicate negation, but when it is attached at the end of a sentence, the result is [[Syntactic ambiguity|structurally ambiguous]], as the clitic may be negating any one of the words in the sentence.
+
+==== Applicative ====
+The applicative ''it-'' may function as instrumental or intensifier. Additionally, the applicative prefix in Wamesa can also give aspectual meaning, which is unusual for applicatives. Regarding the use of the applicative as an instrumental, the instrument must not be human nor a human body part, and the applicative verb must agree with the subject, not the instrument. Aspectual information includes the indication that an action is either sudden or completed.
+
+==== Essive ====
+The essive ''ve-'' functions as a verbalizer, ordinal, [[relativizer]], or indicator of inherent properties, depending on the context in which it appears.
+
+==== Locatives ====
+Wamesa has a number of locatives, including ones that act like nouns syntactically. Clitics include ''=ra'' (to.there), ''=ma'' (to.here), ''=wa'' (down), and ''=re'' (in progress).
+
+Direction depends on geography and the “salient area” rather than cardinal directions. Direction is specified with regard to land, sea, and elevation.
+
+''Ira ma re'' ‘I’m going to shore’
+
+''Ira ra ye'' ‘I’m going over there (uphill/inland)’
+
+''ma'' ‘to here’
+
+''ra'' ‘to there’
+
+== Lexicon ==
+Wamesa includes a number of loanwords and influences, particularly from Indonesian and Dutch.
+
+=== Pronouns ===
+{| class="wikitable"
+|+Pronoun Chart
+!
+!Wamesa
+!English
+|-
+|1sg
+|''yao''
+|'I'
+|-
+|2sg
+|''au''
+|'you'
+|-
+|3sg
+|''andi''
+|'she/he/it'
+|}
+
+=== Determiners ===
+Determiners can indicate distance, and their meaning is context dependent. The meaning can either be literal or metaphorical. For example, figurative distance can indicate salience or importance.
+
+=== Kinship System ===
+Wamesa's kinship system is an elaboration of the [[Iroquois kinship|Iroquois kinship system]].<ref>Flaming, Rachel. Wandamen Kinship Terminology. Reprinted in: Merrifield, William R.; Gregerson, Marilyn; Ajamiseba, Daniel C., Editors. Gods, Heroes, Kinsmen: Ethnographic Studies from Irian Jaya, Indonesia. Jayapura and Dallas: Cenderawasih University and the International Museum of Cultures; 1983: 244-253.</ref> However, as a result of Indonesian influence, over time, Wamesa has lost and collapsed distinctions such as mother's vs. father's side, sex, and parallel vs. cross-cousins. Wamesa does distinguish based on age (e.g. if a cousin is older or younger).
+
+=== Numerals ===
+Wamesa uses a quinary decimal system with bases 5, 10, and 20. Atomic numerals include 1–5, 10, 20, and 100 ({{transl|wad|siaran}}). Wamesa's number system is both additive and multiplicative. For example, {{transl|wad|sinitue siri}} ‘20 and 1’ is 21. {{transl|wad|Sinitu muandu}} ‘20 2’ is 40. The word for 20 is also the word for person, likely because a person has 10 fingers and 10 toes.
+{| class="wikitable"
+|+Numeral Chart
+|-
+|1
+|''siri''
+|11
+|''surai siri''
+|21
+|''sinitue siri''
+|
+|
+|-
+|2
+|''muandu''
+|12
+|''surai muandu''
+|
+|
+|
+|
+|-
+|3
+|''toru''
+|13
+|''surai toru''
+|
+|
+|
+|
+|-
+|4
+|''at''
+|14
+|''surai at''
+|
+|
+|
+|
+|-
+|5
+|''rim''
+|15
+|''surai rim''
+|
+|
+|
+|
+|-
+|6
+|''rime siri''
+|16
+|''surai rime siri''
+|
+|
+|
+|
+|-
+|7
+|''rime muandu''
+|17
+|''surai rime muandu''
+|
+|
+|
+|
+|-
+|8
+|''rime toru''
+|18
+|''surai rime toru''
+|
+|
+|
+|
+|-
+|9
+|''rime at''
+|19
+|''surai rime at''
+|
+|
+|
+|
+|-
+|10
+|''sura''
+|20
+|''sinitu ~ utin''
+|30
+|''sinitue sura''
+|40
+|''sinitu muandu''
+|}
+
+== Ethics of Fieldwork in the Wamesa Community ==
+In general, Wamesa community members are very proud of their language and view it as a gift to be shared with everyone. Thus, they promote research, encourage the publication and sharing of results, and request that the linguistic data be freely accessible. Additionally, community members believe that the spreading of knowledge of the Wamesa language can bring them social prestige and spiritual benefits. While monetary compensation may be desired or accepted by some members of the community, gift-giving may often be more culturally appropriate and significant.<ref>{{Cite journal |last=Gasser |first=Emily |date=2017 |title=The Right to Say Yes: Language Documentation in West Papua |journal=Australian Journal of Linguistics |language=en |volume=37 |issue=4 |pages=502–526 |doi=10.1080/07268602.2017.1350131|s2cid=148821732 }}</ref>
+
+==References==
+{{Reflist}}
+
+== External links ==
+
+* [http://talkingdictionary.swarthmore.edu/wamesa/ Wamesa Talking Dictionary] (multilingual in English and Bahasa Indonesia)
+* Student Projects, [https://emilygasser.wordpress.com/teaching/wads16/ 2016] and [https://emilygasser.wordpress.com/teaching/f17-student-projects/ 2017]
+
+{{Halmahera–Cenderawasih languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:South Halmahera–West New Guinea languages]]
+[[Category:Languages of western New Guinea]]
+[[Category:Papua (province) culture]]

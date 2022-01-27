@@ -1,0 +1,266 @@
+The traditional '''counting system used in the [[Welsh language]]''' is [[vigesimal]], i.e. based on twenties as in the [[French_language#Numerals|French numerals]] for 60-99, where numbers from 11–14 are "''x'' on ten", 16–19 are "''x'' on fifteen" (though 18 is more usually "two nines"); numbers from 21–39 are "1–19 on twenty", 40 is "two twenty", 60 is "three twenty", etc.
+
+There is also a decimal counting system, where numbers are "''x'' ten ''y''" unit(s), e.g. thirty-five in decimal is ''{{lang|cy|tri deg pump}}'' (three ten five) while in vigesimal it is ''{{lang|cy|pymtheg ar hugain}}'' (fifteen – itself "five-ten" – on twenty).
+
+==Numerals==
+{|class="wikitable"
+! Number
+! Vigesimal system
+! Decimal system
+|-
+| align=right| 0
+| colspan="2" style="text-align: left;" | {{lang|cy|sero/dim}}
+|-
+| align=right| 1
+| colspan="2" style="text-align: left;" | {{lang|cy|un}}
+|-
+| align=right| 2
+| colspan="2" style="text-align: left;" | {{lang|cy|dau}} (m), {{lang|cy|dwy}} (f)
+|-
+| align=right| 3
+| colspan="2" style="text-align: left;" | {{lang|cy|tri}} (m), {{lang|cy|tair}} (f)
+|-
+| align=right| 4
+| colspan="2" style="text-align: left;" | {{lang|cy|pedwar}} (m), {{lang|cy|pedair}} (f)
+|-
+| align=right| 5
+| colspan="2" style="text-align: left;" | {{lang|cy|pum(p)}}
+|-
+| align=right| 6
+| colspan="2" style="text-align: left;" | {{lang|cy|chwe(ch)}}
+|-
+| align=right| 7
+| colspan="2" style="text-align: left;" | {{lang|cy|saith}}
+|-
+| align=right| 8
+| colspan="2" style="text-align: left;" | {{lang|cy|wyth}}
+|-
+| align=right| 9
+| colspan="2" style="text-align: left;" | {{lang|cy|naw}}
+|-
+| align=right| 10
+| colspan="2" style="text-align: left;" | {{lang|cy|deg}}, {{lang|cy|deng}}
+|-
+| align=right| 11
+| {{lang|cy|un ar ddeg}}<br/>("one on ten")
+| {{lang|cy|un deg un}}
+|-
+| align=right| 12
+| {{lang|cy|deuddeg}}, {{lang|cy|deuddeng}}
+| {{lang|cy|un deg dau/dwy}}
+|-
+| align=right| 13
+| {{lang|cy|tri/tair ar ddeg}}
+| {{lang|cy|un deg tri/tair}}
+|-
+| align=right| 14
+| {{lang|cy|pedwar/pedair ar ddeg}}
+| {{lang|cy|un deg pedwar/pedair}}
+|-
+| align=right| 15
+| {{lang|cy|pymtheg}}, {{lang|cy|pymtheng}}
+| {{lang|cy|un deg pump}}
+|-
+| align=right| 16
+| {{lang|cy|un ar bymtheg}}<br/>("one on five-ten")
+| {{lang|cy|un deg chwech}}
+|-
+| align=right| 17
+| {{lang|cy|dau/dwy ar bymtheg}}
+| {{lang|cy|un deg saith}}
+|-
+| align=right| 18
+| {{lang|cy|deunaw}}<br/>("two nine")
+| {{lang|cy|un deg wyth}}
+|-
+| align=right| 19
+| {{lang|cy|pedwar/pedair ar bymtheg}}
+| {{lang|cy|un deg naw}}
+|-
+| align=right| 20
+| {{lang|cy|ugain}}
+| {{lang|cy|dau ddeg}}
+|-
+| align=right| 21
+| {{lang|cy|un ar hugain}}<br/>("one on twenty")
+| {{lang|cy|dau ddeg un}}
+|-
+| align=right| 22
+| {{lang|cy|dau/dwy ar hugain}}
+| {{lang|cy|dau ddeg dau/dwy}}
+|-
+| align=right| 23
+| {{lang|cy|tri/tair ar hugain}}
+| {{lang|cy|dau ddeg tri/tair}}
+|-
+| align=right| 24
+| {{lang|cy|pedwar/pedair ar hugain}}
+| {{lang|cy|dau ddeg pedwar/pedair}}
+|-
+| align=right| 25
+| {{lang|cy|pump ar hugain}}
+| {{lang|cy|dau ddeg pump}}
+|-
+| align=right| 26
+| {{lang|cy|chwech ar hugain}}
+| {{lang|cy|dau ddeg chwech}}
+|-
+| align=right| 27
+| {{lang|cy|saith ar hugain}}
+| {{lang|cy|dau ddeg saith}}
+|-
+| align=right| 28
+| {{lang|cy|wyth ar hugain}}
+| {{lang|cy|dau ddeg wyth}}
+|-
+| align=right| 29
+| {{lang|cy|naw ar hugain }}
+| {{lang|cy|dau ddeg naw}}
+|-
+| align=right| 30
+| {{lang|cy|deg ar hugain}}<br/>("ten on twenty")
+| {{lang|cy|tri deg}}
+|-
+| align=right| 31
+| {{lang|cy|un ar ddeg ar hugain}}
+| {{lang|cy|tri deg un}}
+|-
+| align=right| 32
+| {{lang|cy|deuddeg ar hugain}}
+| {{lang|cy|tri deg dau}}
+|-
+| colspan="3" align=center | etc.
+|-
+| align=right| 40
+| {{lang|cy|deugain}}<br/>("two twenty")
+| {{lang|cy|pedwar deg}}
+|-
+| align=right| 41
+| {{lang|cy|deugain ac un}}<br/>("two twenty and one")
+| {{lang|cy|pedwar deg un}}
+|-
+| align=right| 50
+| {{lang|cy|hanner cant}}<br/>("half a hundred")
+| {{lang|cy|pum deg}}
+|-
+| align=right| 51
+| {{lang|cy|hanner cant ac un}}
+| {{lang|cy|pum deg un}}
+|-
+| align=right| 60
+| {{lang|cy|trigain}}<br/>("three twenty")
+| {{lang|cy|chwe deg}}
+|-
+| align=right| 61
+| {{lang|cy|trigain ac un}}
+| {{lang|cy|chwe deg un}}
+|-
+| align=right| 70
+| {{lang|cy|deg a thrigain}}<br/>("ten and three twenty")
+| saith deg
+|-
+| align=right| 71
+| {{lang|cy|un ar ddeg a thrigain}}<br/>("one on ten on three twenty")
+| {{lang|cy|saith deg un}}
+|-
+| align=right| 80
+| {{lang|cy|pedwar ugain}}<br/>("four twenty")
+| {{lang|cy|wyth deg}}
+|-
+| align=right| 81
+| {{lang|cy|pedwar ugain ac un}}
+| {{lang|cy|wyth deg un}}
+|-
+| align=right| 90
+| {{lang|cy|deg a phedwar ugain}}<br/>("ten and four twenty")
+| {{lang|cy|naw deg}}
+|-
+| align=right| 91
+| {{lang|cy|un ar ddeg a phedwar ugain}}<br/>("one on ten and four twenty")
+| {{lang|cy|naw deg un}}
+|-
+| align=right| 100
+| colspan="2" style="text-align: left;" | {{lang|cy|can(t)}}
+|-
+| align=right| 200
+| colspan="2" style="text-align: left;" | {{lang|cy|dau gant}}
+|-
+| align=right| 300
+| colspan="2" style="text-align: left;" | {{lang|cy|tri chant}}
+|-
+| align=right| 400
+| colspan="2" style="text-align: left;" | {{lang|cy|pedwar cant}}
+|-
+| align=right| 500
+| colspan="2" style="text-align: left;" | {{lang|cy|pum cant}}
+|-
+| align=right| 600
+| colspan="2" style="text-align: left;" | {{lang|cy|chwe chant}}
+|-
+| align=right| 1000
+| colspan="2" style="text-align: left;" | {{lang|cy|mil}}
+|-
+| align=right| 2000
+| colspan="2" style="text-align: left;" | {{lang|cy|dwy fil}}
+|-
+| align=right| 1,000,000
+| colspan="2" style="text-align: left;" | {{lang|cy|miliwn}}
+|-
+| align=right| 1,000,000,000
+| colspan="2" style="text-align: left" | {{lang|cy|biliwn}}
+|}
+
+==Variation in form==
+There is some syntactically and phonologically triggered variation in the form of numerals. There are, for example, masculine and feminine forms of the numbers "two" (''{{lang|cy|dau}}'' and ''{{lang|cy|dwy}}''), "three" (''{{lang|cy|tri}}'' and ''{{lang|cy|tair}}'') and "four" (''{{lang|cy|pedwar}}'' and ''{{lang|cy|pedair}}''), which must agree with the [[grammatical gender]] of the objects being counted. The numerals for "five", "six" and "hundred" (''{{lang|cy|pump}}'', ''{{lang|cy|chwech}}'' and ''{{lang|cy|cant}}'') also have reduced forms (''{{lang|cy|pum}}'', ''{{lang|cy|chwe}}'', ''{{lang|cy|can}}'') when they precede the object they are counting. The words for "ten", "twelve", and "fifteen" (''{{lang|cy|deg}}'', ''{{lang|cy|deuddeg}}'', ''{{lang|cy|pymtheg}}'') have the alternative forms ''{{lang|cy|deng}}'', ''{{lang|cy|deuddeng}}'', ''{{lang|cy|pymtheng}}'' used before nasals (which may be the result of mutation) and, occasionally, vowels; these forms are becoming less common.<ref>{{cite web
+  | title = Deng
+  | work = On-line Welsh Grammar Guide
+  | publisher = University of Wales, Lampeter
+  | url = http://www.geiriadur.net/gramadeg/index.php?section=deng
+  | access-date = 30 July 2009}} {{Dead link|date=October 2010|bot=H3llBot}}
+</ref> Numerals change as expected according to normal rules of [[consonant mutation]]; some also trigger mutation in some following words (see below for details).<ref>{{cite web
+  | title = Deng
+  | work = On-line Welsh Grammar Guide
+  | publisher = University of Wales, Lampeter
+  | url = http://www.geiriadur.net/gramadeg/index.php?section=deng
+  | access-date = 30 July 2009}} {{Dead link|date=October 2010|bot=H3llBot}},{{cite web
+  | title = Pump
+  | work = On-line Welsh Grammar Guide
+  | publisher = University of Wales, Lampeter
+  | url = http://www.geiriadur.net/gramadeg/index.php?section=pump
+  | access-date = 30 July 2009}} {{Dead link|date=October 2010|bot=H3llBot}}</ref>
+
+==Use of the decimal system==
+The decimal system is widely used, but is rather uncommon for dates and ages. Larger numbers, however, tend to be expressed in this system e.g. 1,965 ''{{lang|cy|mil, naw cant chwe deg pump}}''. In referring to years, on the other hand, the number of thousands is stated, followed by the individual digits, e.g. 1965 ''{{lang|cy|mil naw chwe(ch) pump}}''. This system appears to have broken down for years after 2000, e.g. whereas 1905 is ''{{lang|cy|mil naw dim pump}}'', 2005 is ''{{lang|cy|dwy fil a phump}}''.
+
+The Welsh decimal counting system was devised by 19th-century [[Patagonian Welsh]] businessmen in Argentina for accountancy purposes. It was recommended to teachers for use in the first Welsh language schools in Patagonia by [[Richard Jones Berwyn]] in a book published in 1878. The system was later adopted in Wales in the late 1940s with the beginning of [[Welsh-medium education]].<ref>{{cite book |last=Roberts |first=Gareth Ffowc |date=2016 |title=Count Us In: How to Make Maths Real for All of Us |url=https://books.google.com/books?id=ackmDAAAQBAJ&pg=PT112 |location=Llandysul, Wales |publisher=Gomer Press |isbn=978-1-78316798-2 }}</ref>
+
+==Use with nouns==
+{{Cleanup lang|date=November 2020}}
+
+The singular form of the noun is used with numbers, but for larger numbers an alternative form is permitted, where ''{{lang|cy|o}}'' ("of") with the plural noun follows the number.  Except where using this plural form, the noun is placed directly after the number but before any parts of the number that are added using ''{{lang|cy|ar}}'' ("on") in the traditional system.
+
+Nouns are also mutated following many numbers.  ''{{lang|cy|Un}}'' triggers the [[Welsh morphology|soft mutation]] (''{{lang|cy|treiglad meddal}}'') of feminine nouns, other than those beginning with "ll" and "rh", but not masculine nouns.  ''{{lang|cy|Dau}}'' and ''{{lang|cy|dwy}}'' both trigger the soft mutation (''ll'' and ''rh'' included). ''{{lang|cy|Tri}}'' (but not ''{{lang|cy|tair}}'') and ''{{lang|cy|chwe}}'' trigger the aspirate mutation.  Several higher numbers (''{{lang|cy|pum}}'', ''{{lang|cy|saith}}'', ''{{lang|cy|wyth}}'', ''{{lang|cy|deng}}'', ''{{lang|cy|deuddeng}}'', and ''{{lang|cy|pymtheng}}'') trigger the nasal mutation when used with ''{{lang|cy|blynedd}}'' ("year(s)").  The part of the number immediately preceding the noun will determine any mutation of the noun.  In the plural form with ''{{lang|cy|o}}'', the soft mutation is used as is normal after ''{{lang|cy|o}}''.
+
+The following example illustrates several of these points:
+
+{| class="wikitable"
+|-
+! English
+| Thirty-six dogs
+|-
+! rowspan="2" | Traditional<br/>system
+|{{interlinear|lang=cy|Un ci ar bymtheg ar hugain|One dog on fifteen on twenty|}}
+|-
+|{{interlinear|lang=cy|Un ar bymtheg ar hugain o gŵn|One on fifteen on twenty of dogs|}}
+|-
+! rowspan="2" | Decimal<br/>system
+|{{interlinear|lang=cy|Tri deg chwe chi|Three ten six dog|}}
+|-
+|{{interlinear|lang=cy|Tri deg chwech o gŵn|Three ten six of dogs|}}
+|}
+
+==Notes==
+{{Reflist}}
+{{Welsh linguistics}}
+[[Category:Welsh language]]
+[[Category:Numerals]]

@@ -1,0 +1,60 @@
+{{short description|Austronesian language spoken on Sulawesi, Indonesia}}
+{{Infobox language
+|name=Totoli
+|states=parts of Central Sulawesi, Indonesia
+|speakers=25,000
+|date=2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] (MP)
+|fam3=[[Celebic languages|Celebic]]
+|fam4=[[Tomini–Tolitoli languages|Tomini–Tolitoli]] ?
+|fam5=Tolitoli
+|iso3=txe
+|glotto=toto1304
+|glottorefname=Totoli
+}}
+
+'''Totoli''' (also known as '''Tolitoli''') is a [[Celebic languages|Sulawesi]] language of the [[Austronesian languages|Austronesian language]] family spoken by 25,000 people of [[Central Sulawesi]], [[Indonesia]].
+
+==Grammar==
+
+===Voice===
+
+Totoli has a [[Austronesian alignment|symmetrical voice]] system.<ref name="Riesberg">{{cite book |last1=Riesberg |first1=Sonja |title=Symmetrical voice and linking in Western Austronesian languages |publisher=Walter de Gruyter |date=2014}}</ref> In the examples below, ''i Winarno mongusut kunji motorna'' is an actor voice construction, while ''kunji itu kusuti i Winarno.'' is an undergoer voice construction.
+
+{{interlinear|indent=3
+|I Winaro moN-kusut kunji motor{{=}}na
+|HON PN AV-look.for key scooter{{=}}3S.GEN
+|'Winarno is looking for the keys of his scooter.'<ref name="Riesberg" />{{rp|1}}}}
+
+{{interlinear|indent=3
+|kunji itu kusut-i i Winaro
+|key DIST look.for-UV2 HON PN
+|'The keys are being looked for by Winarno.'<ref name="Riesberg" />{{rp|1}}}}
+
+The syntactic pivot can be placed before the predicate, as shown:
+
+{{interlinear|indent=3
+|gaukan no-gutu ponguman itu
+|king AV.RLS-make story DIST
+|'The king made this announcement.'<ref name="AdelaarHimmelmann">{{cite book |editor1-last=Adelaar |editor1-first=K. Alexander |editor2-last=Himmelmann |editor2-first=Nikolaus |title=The Austronesian languages of Asia and Madagascar |date=2005}}</ref>{{rp|142}}}}
+
+{{interlinear|indent=3
+|kopi ia ni-pogutu i Andris
+|coffee PRX RLS(UG)-make PN Andrew
+|'Andrew made this coffee.'<ref name="AdelaarHimmelmann" />{{rp|143}}}}
+
+==References==
+{{Reflist}}
+
+{{Celebic languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Tomini–Tolitoli languages]]
+[[Category:Languages of Sulawesi]]
+
+
+{{Indonesia-stub}}
+{{Celebic-lang-stub}}

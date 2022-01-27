@@ -1,0 +1,1481 @@
+{{Short description|Extinct Language}}
+{{Infobox language
+|name=Nottoway
+|states=[[United States]]
+|region=[[Virginia]]
+|ethnicity=[[Nottoway people]]
+|extinct=ca. 1838, with the death of Edith Turner
+|familycolor=American
+|fam1=[[Iroquoian languages|Iroquoian]]
+|fam2=[[Northern Iroquoian languages|Northern]]
+|fam3=Lake Iroquoian
+|fam4=Tuscarora–Nottoway
+|lc1=ntw|ld1=Nottoway
+|lc2=nwy|ld2=Nottoway-Meherrin
+|linglist=nwy|lingname=Nottoway-Meherrin
+|glotto=nott1246
+|glottoname=Nottoway
+|glotto2=mehe1242
+|glottoname2=Meherrin
+}}
+'''Nottoway''' {{IPAc-en|ˈ|n|ɒ|t|ə|ˌ|w|eɪ}}, also called ''Cheroenhaka'', was a language spoken by the [[Nottoway people]]. Nottoway is closely related to [[Tuscarora language|Tuscarora]] within the [[Iroquoian languages|Iroquoian language family]]. Two tribes of Nottoway are recognized by the state of [[Virginia]]: the Nottoway Indian Tribe of Virginia and the Cheroenhaka (Nottoway) Indian Tribe. Other Nottoway descendants live in [[Wisconsin]] and [[Canada]], where some of their ancestors fled in the 18th century. The last known speaker, [[Edith Turner]], died in 1838. The Nottoway people are undertaking work for language revival.<ref>{{cite web|url=http://www.ethnologue.com/show_language.asp?code=ntw|title=Nottoway|date=2009|publisher=Ethnologue|access-date=January 18, 2013}}</ref>
+
+Knowledge of Nottoway comes primarily from a word list collected on March 4, 1820. Former President [[Thomas Jefferson]]’s handwritten letter to [[Peter Stephen Du Ponceau|Peter S. Du Ponceau]], on July 7, 1820, states that a Nottoway Indian vocabulary was obtained on March 4th, 1820 from Edith Turner, styled as their “Queen,” by [[John Wood (professor)|John Wood]], a former Professor of Mathematics at the [[College of William and Mary]].<ref>[http://www.cheroenhaka-nottoway.org/about-nottoway-tribe/nottoway-language.htm Thomas Jefferson to Peter S. Du Ponceau, July 7, 1820]</ref> Du Ponceau recognized the language immediately as Iroquoian, writing that he was "struck as well as astonished at its decided Iroquois Physiognomy."<ref name=":1">[http://www.encyclopediavirginia.org/Letter_from_Peter_S_DuPonceau_to_Thomas_Jefferson_1820 Peter S. DuPonceau to Thomas Jefferson, July 12, 1820], ''The Thomas Jefferson Papers'', Series 1, The Library of Congress.</ref> [[Blair A. Rudes]] (1981) concluded that Nottoway is a distinct language from Tuscarora, but closest to Tuscarora within Iroquoian.<ref name=":0">{{Cite journal|last=Rudes|first=Blair|date=1981|title=A Sketch of the Nottoway Language from a Historical-Comparative Perspective|journal=International Journal of American Linguistics|volume=47|pages=27–49|doi=10.1086/465672|s2cid=145679705}}</ref>
+
+In addition to the vocabulary collected by John Wood, a few additional words were gathered by [[James Trezvant]].<ref>[http://www.encyclopediavirginia.org/Languages_and_Interpreters_in_Early_Virginia_Indian_Society#start_entry Encyclopedia Virginia]</ref>
+[[File:Nottoway Pre-Contact Map.gif|thumb|Pre-contact distribution of the Nottoway language]]
+
+== Phonology ==
+=== Vowels ===
+
+By comparing words in Wood’s vocabulary with cognates in other Iroquoian languages, Blair Rudes (1981) was able to reconstruct the phonemes of Nottoway. According to Rudes, Nottoway has five vowel [[phoneme]]s as seen in the following table.<ref name=":0"/>{{rp|46}} These symbols, which Rudes uses in his transcriptions, are consistent with the International Phonetic Alphabet ([[International Phonetic Alphabet|IPA]]). Note that the mid central vowel is [[Nasal vowel|nasalized]]. 
+
+{| class="wikitable" style="text-align:center;"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+|{{IPAlink|i}}
+|
+|
+|-
+![[Mid vowel|Mid]]
+|{{IPAlink|e}}
+|{{IPAlink|ə̃}}
+|{{IPAlink|o}}
+|-
+![[Low vowel|Low]]
+|
+|{{IPAlink|a}}
+|
+|}
+
+Examples of these vowels are shown in the following table (from the Wood vocabulary).<ref name=":0"/>{{rp|31}} Wood's spelling of Nottoway was based on English and was therefore not systematic. A comparison to Tuscarora [[cognate]]s in the rightmost column, however, provides evidence of Wood's intended vowel sound. 
+{| class="wikitable"
+| rowspan="4" |/i/
+|''tar'''i'''ha''
+|‘hot’
+|cf. Tuscarora ''yuʔnarihə̃''
+|-
+|''wh'''i'''sk''
+|‘five’ 
+|cf. Tuscarora ''wísk''
+|-
+|''ah'''ee'''ta''
+|‘sun’
+|cf. Tuscarora ''híhtæʔ''
+|-
+|''k'''ee'''nu''
+|‘swamp’
+|cf. Tuscarora ''kí:nə̃ʔ''
+|-
+| rowspan="3" |/e/
+|''ow'''e'''na''
+|‘iron’
+|cf. Tuscarora ''uwǽ:nə̃h''
+|-
+|''ot'''e'''r''
+|‘sand’
+|cf. Tuscarora ''uʔtǽhæh''
+|-
+|''d'''e'''kanee''
+|‘two’ 
+|cf. Tuscarora ''nǽ:kti:''
+|-
+| rowspan="2" |/a/
+|''oy'''a'''g''
+|‘six’
+|cf. Tuscarora ''úhyaʔk''
+|-
+|''g'''a'''tkum''
+|‘blood’
+|cf. Tuscarora ''kátkə̃ʔ''
+|-
+| rowspan="3" |/o/
+|'''''o'''wena''
+|‘iron’
+|cf. Tuscarora ''uwǽ:nə̃h''
+|-
+|'''''o'''wees''
+|‘ice’
+|cf. Tuscarora ''uwí:sæh''
+|-
+|''ak'''u'''hor''
+|‘old man’
+|cf. Tuscarora ''rúhuhr, akúhuhr'' ‘one’s old man’
+|-
+| rowspan="4" |/ə̃/
+|''hahen'''ū'''''
+|‘thunder’
+|cf. Tuscarora ''haʔ híʔnə̃ʔ''
+|-
+|''deesh'''ū'''''
+|‘stars’  
+|cf. Wyandot ''tíšɔ̃h''
+|-
+|''dekr'''a'''''
+|‘eight’
+|cf. Tuscarora ''nǽ:krə̃ʔ''
+|-
+|''auw'''a'''''
+|'water’
+|cf. Tuscarora ''á:wə̃ʔ''
+|}
+
+=== Consonants ===
+Nottoway has ten consonant phonemes, listed in the table below. Like the vowels, these consonant phonemes were reconstructed by Rudes using John Wood's vocabulary and knowledge of related languages.<ref name=":0" /> Most of the symbols that Rudes uses are the same as the IPA symbols. Where they differ, the IPA symbol is included in square brackets. The three labial consonants are in parentheses because these phonemes are only present in five words of the language, none of which are of Iroquoian descent. The letter ‘m’ also sometimes occurs at the end of a word after a vowel, but this is to indicate nasalization of the previous vowel, not the presence of the phoneme /m/.<ref name=":0"/>{{rp|29}}
+
+{| class="wikitable" style="text-align:center;"
+!
+![[Labial consonant|Labial]]
+![[Dental consonant|Dental]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+![[Plosive]]
+|({{IPAlink|p}})
+|{{IPAlink|t}}
+|
+|{{IPAlink|k}}
+|{{IPAlink|ʔ}}
+|-
+![[Nasal consonant|Nasal]]
+|({{IPAlink|m}})
+|{{IPAlink|n}}
+|
+|
+|
+|-
+![[Affricate]]
+|
+|
+|{{IPAlink|t͡ʃ}} {{grapheme|č}}
+|
+|
+|-
+![[Fricative]]
+|({{IPAlink|f}})
+|{{IPAlink|s}}
+|
+|
+|{{IPAlink|h}}
+|-
+![[Approximant]]
+|
+|{{IPAlink|r}}
+|{{IPAlink|j}} {{grapheme|y}}
+|{{IPAlink|w}}
+|
+|}
+
+The following table shows example words with each of these consonants (also from the Wood vocabulary).<ref name=":0"/>{{rp|31}}  Comparison to related languages (primarily Tuscarora) allowed Rudes to reconstruct some of the consonant phonemes (in bold). 
+{| class="wikitable"
+| rowspan="7" |/t/
+|''ahee'''t'''a''
+|'sun'
+|cf. Tuscarora ''híhtæʔ''
+|-
+|''o'''t'''kum''
+|'devil'
+|cf. Tuscarora ''úʔtkə̃h''
+|-
+|''o'''t'''er''
+|'sand'
+|cf. Tuscarora ''uʔtǽhæh''
+|-
+|''o'''t'''eusag''
+|'nose'
+|cf. Tuscarora ''uʔtyə̃́hsæh''
+|-
+|'''''d'''ekra''
+|'eight'
+|cf. Tuscarora ''nǽ:krə̃ʔ''
+|-
+|'''''d'''eeshū''
+|'stars'
+|cf. Wyandot ''tíšɔ̃h''
+|-
+|'''''d'''ekanee''
+|'two'
+|cf. Mohawk ''tékeni''
+|-
+| rowspan="8" |/k/
+|'''''k'''eenu''
+|'swamp'
+|cf. Tuscarora ''ki:nə̃ʔ''
+|-
+|'''''k'''aintu''
+|'fish'
+|cf. Tuscarora ''kə̃́:čə̃h''
+|-
+|''e'''k'''unsquare''
+|'cheeks'
+|cf. Tuscarora ''ukə̃́skaræh''
+|-
+|''un'''k'''oharae''
+|'eyes'
+|cf. Tuscarora ''ukáhræh''
+|-
+|''wa'''q'''uast''
+|'good'
+|cf. Tuscarora ''wákwahst''
+|-
+|''a'''q'''uia''
+|'deer'
+|cf. Tuscarora ''á:kwæh''
+|-
+|'''''g'''atkum''
+|'blood'
+|cf. Tuscarora ''kátkə̃ʔ''
+|-
+|''oya'''g'''''
+|'six'
+|cf. Tuscarora ''úhyaʔk''
+|-
+|/ʔ/
+|''onusha'''g'''''
+|'house'
+|cf. Mohawk ''kanṹ''
+|-
+| rowspan="6" |/č/
+|'''''ch'''eer''
+|'dog'
+|cf. Tuscarora ''číhr''
+|-
+|'''''g'''eekquam''
+|'gold'
+|cf. Tuscarora ''učitkwáhnæh''
+|-
+|''un'''tch'''ore''
+|'to eat'
+|cf. Tuscarora ''ə̃čú:riʔ'' ‘it ate’
+|-
+|''yauta'''tch'''''
+|'air'
+|cf. Tuscarora ''úʔna:č'' ‘wind’
+|-
+|''un'''t'''e''
+|'one'
+|cf. Tuscarora ''ə̃́:či''
+|-
+|''kain'''t'''u''
+|'fish'
+|cf. Tuscarora ''kə̃́:čə̃h''
+|-
+|/s/
+|''whi'''s'''k''
+|'five'
+|cf. Tuscarora ''wísk''
+|-
+|/h/
+|''o'''h'''onag'' 
+|'skin'
+|cf. Mohawk ''óhnaʔ''
+|-
+|/n/
+|''hahe'''n'''ū''
+|'thunder'
+|cf. Tuscarora ''haʔ híʔnə̃ʔ''
+|-
+| rowspan="6" |/r/
+|''chee'''r'''''
+|'dog'
+|cf. Tuscarora ''číhr''
+|-
+|''que'''r'''ū''
+|'rabbit'
+|cf. Tuscarora ''kwǽ:ruh''
+|-
+|o'''''r'''wisag''
+|‘tail’
+|cf. Tuscarora ''uʔrhwə̃́:θæh''
+|-
+|''dek'''r'''a''
+|'eight'
+|cf. Tuscarora ''nǽ:krə̃ʔ''
+|-
+|''quaha'''rr'''ag''
+|'apple'
+|cf. Tuscarora ''kwáhrak''
+|-
+|''waska'''rr'''ow''
+|'hog'
+|cf. Tuscarora ''waθkwá:ræh''
+|-
+| rowspan="8" |/w/
+|''o'''w'''ees'' 
+|'ice'
+|cf. Tuscarora ''uwí:sæh''
+|-
+|''au'''w'''a''
+|'water'
+|cf. Tuscarora ''á:wə̃ʔ''
+|-
+|''o'''w'''ena''
+|'iron'
+|cf. Tuscarora ''uwǽ:nə̃h''
+|-
+|''or'''wi'''sag''
+|'tail'
+|cf Tuscarora ''uʔrhwə̃́:θæh''
+|-
+|''waq'''u'''ast''
+|'good'
+|cf. Tuscarora ''wákwahst''
+|-
+|''aq'''u'''ia''
+|'deer'
+|cf. Tuscarora ''á:kwæh''
+|-
+|k''osq'''u'''enna''
+|'mouse'
+|cf. Tuscarora ''ruskwǽ:nə̃h''
+|-
+|''q'''u'''erū''
+|'rabbit'
+|cf. Tuscarora ''kwǽ:ruh''
+|-
+| rowspan="3" |/y/
+|''o'''y'''entu''
+|'rat'
+|cf. Tuscarora ''ruyə̃́ʔtuh''
+|-
+|g''ot'''y'''akum''
+|'husband'
+|cf. Tuscarora ''katyá:kə̃h''
+|-
+|''ot'''e'''usag''
+|'nose'
+|cf. Tuscarora ''uʔtyə̃́hsæh''
+|}
+
+=== Syllable structure ===
+The English-based spelling Wood used makes it difficult to determine syllable structure. Most words, however, are consistent with the [[Syllable#Typical model|syllable structure]] (C)V(C)(C):
+{| class="wikitable"
+!Syllable shape
+!Wood's Nottoway spelling
+!
+|-
+|V
+|'''o'''tosag
+|'tooth'
+|-
+|CV
+|'''ga'''kuhar
+|'to wash'
+|-
+|CVC
+|orwi'''sag'''
+|'tail'
+|-
+|CVCC
+|wak'''wast'''
+|'good'
+|-
+|VC
+|'''or'''wisag
+|'tail'
+|}
+An exception is words that begin with /kw/ (which may have been a complex segment):
+{| class="wikitable"
+|-
+|A Rabbit
+|'''Qu'''erū
+|cf. Tuscarora kwǽ:ruh
+|}
+There is also limited evidence that words could end in three consonants:
+{| class="wikitable"
+|-
+|A Squirrel
+|osa'''rst'''
+|
+|}
+Consonant clusters must include /w/ or /s/, and possibly /n/. /w/ is the most common, but /s/ is still regularly seen in words like ''Whisk'' 'five'. The status of /n/ is uncertain since Wood used {{angbr|n}} to represent [[nasal vowel]]s.
+
+Aside from ''Whisk'' 'five', most content words are multisyllabic.
+
+== Grammar ==
+=== Possessive prefixes ===
+Rudes (1981) notes that Nottoway has two series of pronominal prefixes used for [[Inalienable possession|inalienable]] and alienable possession. Inalienable nouns, such as body parts, are possessed with the prefix ''ge''- 'my': '''''ge'''-snunke'' 'my hand', '''''ge'''-tunke'' 'my belly'. Alienable nouns are possessed with the prefix ''ak''- 'my': '''''ak'''-uhor'' '(my) old man', '''''aqu'''-eianha'' '(my) boy'. These two series of pronominal prefixes are also used on verbs, where they indicate the agent and patient, respectively. The full set of prefixes is listed in the table below.<ref name=":0"/>{{rp|38-39}}
+{| class="wikitable"
+! colspan="3" |Possessive prefixes
+|-
+| colspan="3" |'''First singular inalienable possessive (my; I)'''
+|-
+| rowspan="2" |''ge-''
+|''ge-snunke''
+|‘my hand’ (recorded as ‘your hand’)
+|-
+|''ge-tunke''
+|'my belly' (recorded as 'your belly')
+|-
+| colspan="3" |'''Second singular inalienable possessive (your; you)'''
+|-
+| rowspan="2" |''se-/s-''
+|''se-tunke''
+|‘your belly’ (recorded as ‘my belly’)
+|-
+|''se-tarakē''
+|‘the head (your head)’
+|-
+| colspan="3" |'''Feminine/zoic inalienable possessive (her/one's; she)'''
+|-
+| rowspan="2" |''ye-/e-''
+|''ye-tunke''
+|'(one's) nails'
+|-
+|''e-skaharant''
+|'(one's) mouth'
+|-
+| colspan="3" |'''First-person singular alienable possessive (my; I/me)'''
+|-
+| rowspan="2" |''ak-/aqu-''
+|''ak-uhor''
+|‘(my) old man’
+|-
+|''aqu-eianha''
+|‘(my) boy’
+|-
+| colspan="3" |'''Second-person singular alienable possessive (your; you)'''
+|-
+| rowspan="2" |''sa-''
+|''sa-ttaak''
+|'(your) bed'
+|-
+|''sa-tuntatag''
+|'(you) listen'
+|-
+| colspan="3" |'''Feminine/zoic kinship possessive (her/one's; she/it/one)’'''
+|-
+| rowspan="2" |''go-''
+|''go-tyāg''
+|‘(one’s) marriage’
+|-
+|''go-tyakum''
+|‘(her) husband’
+|}
+
+=== Other affixes ===
+In addition to the possessive prefixes, Rudes identifies a number of other affixes appearing in the Wood vocabulary.<ref name=":0"/>{{rp|37-42}} They are as follows:
+{| class="wikitable"
+! colspan="3" |[[Partitive]] (indicates part of a whole; also used to form multiples of ten)
+|-
+| rowspan="2" |''ne(e)-''
+|''newisha''
+|‘short’
+|-
+|''arsaneewarsa''
+|'thirty'
+|-
+! colspan="3" |Dualic
+|-
+| rowspan="2" |''de-, to-, te-''
+|''towatgeheterise''
+|‘lightning’
+|-
+|''dewartha''
+|‘twenty’
+|-
+! colspan="3" |[[Aorist]]
+|-
+| rowspan="2" |''wa-, un-''
+|''untchore''
+|'to eat'
+|-
+|''wasweke''
+|'to speak'
+|-
+! colspan="3" |Semireflexive
+|-
+| rowspan="2" |''at-, t-, ate-''
+|''satuntatag''
+|'(you) listen'
+|-
+|''untoreesweg''
+|'(it) drown(ed)'
+|-
+! colspan="3" |[[Reflexive verb|Reflexive]] (action done to oneself)
+|-
+| rowspan="2" |''tat-''
+|''untatren''
+|‘(it) cut’
+|-
+|''untatreeyou''
+|‘(it) kill(ed)’
+|-
+! colspan="3" |Simple Noun
+|-
+| rowspan="2" |''-ag''
+|''ototorag''
+|'door'
+|-
+|''onushag''
+|'house'
+|-
+! colspan="3" |Internal [[locative]] (“in,” “under”)
+|-
+| rowspan="1" |''-coon''
+|''oraracoon''
+|‘the woods’
+|-
+! colspan="3" |External locative (usually means “on,” or “at,” but loses its locative meaning when attached to a body part)
+|-
+| rowspan="2" |''-ke''
+|''setunke''
+|‘your belly’
+|-
+|''skeshunke''
+|‘your flesh’
+|-
+! colspan="3" |Characterizer (person who is part of a group)
+|-
+| rowspan="1" |''-hoka, -hakaʔ''
+|''tcherohakaʔ''
+|‘Cheroenhaka people’
+|-
+! colspan="3" |“Teen” (as in “thirteen,” “fourteen,” etc.)
+|-
+| rowspan="2" |''-ahr''
+|''arsaskahr''
+|‘thirteen’
+|-
+|''dekraskahr''
+|‘eighteen’
+|}
+
+=== Word order ===
+
+Most of the written Nottoway materials are vocabularies rather than texts, so scholars can only make limited assumptions about the syntactic structure of the language. However, Rudes (1981) explains three syntactic characteristics that are supported by recorded Nottoway evidence:
+
+1. The definite article precedes a noun, as in Tuscarora.
+{{interlinear|indent=3
+|'''Ha'''henũ
+|'the thunder' (cf. Tuscarora '''''haʔ''' híʔnə̃ʔ'')}}
+
+2. Of two adjacent nouns, the first noun modifies the second.
+{{interlinear|indent=3
+|Acquia ohonag
+|deer skin
+|'deer skin'}}
+
+3. An adjective follows the noun it modifies, and most likely could also precede it.
+{{interlinear|indent=3
+|Unksawa wokenhu
+|{} year
+|'the new year'}}
+
+Rudes tentatively reconstructs noun incorporation based on these examples:
+
+{| class="wikitable"
+|-
+! Nottoway ''yuhtaquaahkum'' 'shoemaker' (lit. 'one makes shoes')
+|-
+| ''yu-''              'neuter patient prefix'
+|-
+| ''-htaqua-''     'shoe' (cf. Tuscarora ''uhnáhkwaʔ,'' Seneca ''ahtáhkwaʔ'')
+|-
+| ''-ahkum''       'to assemble' (cf. Tuscarora ''-ahk'' 'to pick up')
+|}
+
+{| class="wikitable"
+|-
+! Nottoway ''satuntatag'' 'to listen' (lit. 'you stand up your ears')
+|-
+| ''s-'' 'second singular agent prefix'
+|-
+| ''-at-'' 'reciprocal'
+|-
+| ''-unta-'' 'ear' (cf. Tuscarora ''uhə̃́hnæh,'' Onondaga ''ohə̃́htaʔ'')
+|-
+| ''-tag'' 'to stand + '(?) descriptive aspect' (cf. Onondaga ''iktaʔ'' 'I'm standing,' Seneca ''iːkeːt'')
+|}
+
+== Vocabulary ==
+The following vocabulary is from Wood as cited in Rudes from the version Jefferson sent to Du Ponceau.<ref name=":0"/>{{rp|30-31, 46-48}}
+
+=== Nouns of the Universe  ===
+{| class="wikitable"
+|'''Wood's English'''
+|'''Wood's Nottoway spelling'''
+|'''Cognates'''
+|-
+|The Sun
+|Aheeta
+|cf. Tuscarora híhtæʔ
+|-
+|The Moon
+|Tethrāke
+|
+|-
+|The Stars
+|Deeshū
+|cf. Wyandot tíšɔ̃h
+|-
+|The Clouds
+|Uraseque
+|
+|-
+|Thunder
+|Hahenū
+|cf. Tuscarora haʔ híʔnə̃ʔ
+|-
+|Lightning
+|Towatgeheterise
+|cf. Tuscarora næwatkarǽʔnari:ks
+|-
+|Air
+|Yautatch
+|
+|-
+|God
+|Quakerhuntè
+|
+|-
+|Devil
+|Otkum
+|cf. Tuscarora útkə̃h
+|-
+|Rain
+|Yountoutch
+|cf. Tuscarora wə̃́:tu:č
+|-
+|Snow
+|Kankaus
+|
+|-
+|Ice
+|Owees
+|cf. Tuscarora uwí:sæh
+|-
+|Fire
+|Auteur
+|
+|-
+|Water
+|Auwa 
+|cf. Tuscarora á:wə̃ʔ
+|-
+|a river
+|Joke
+|
+|-
+|a great river
+|Onoschioke
+|
+|-
+|The Ocean
+|Owan Fetchota
+|cf. Tuscarora á:wə̃ʔ ‘water’
+|-
+|a mountain
+|Yenuntenunte
+|cf. Tuscarora unə̃́ʔnæh
+|-
+|The Woods
+|Oraracoon
+|
+|-
+|Rocks
+|Oruntag
+|
+|-
+|Light
+|Youhanhū
+|
+|-
+|Darkness
+|Asuntā
+|cf. Tuscarora uhθə̃́:ʔnæh
+|-
+|a Swamp 
+|Keenu
+|cf. Tuscarora kí:nə̃ʔ
+|-
+|Sand
+|Oter
+|cf. Tuscarora uʔtǽhæh
+|-
+|Gold or Copper
+|Geekquan
+|
+|-
+|Silver 
+|Wanee
+|
+|-
+|Iron 
+|Owena 
+|cf. Tuscarora uwǽ:nə̃h
+|-
+|Heaven 
+|Quakeruntika
+|
+|}
+
+=== Of the Human Species ===
+{| class="wikitable"
+!Wood's English
+!Wood's Nottoway Spelling
+!Cognates
+|-
+|Man
+|Enihā
+|cf. Tuscarora raʔníhə̃h ‘he’s male’
+|-
+|An old man
+|Akuhor
+|cf. Tuscarora rúhuhr, akúhuhr ‘one’s old man’
+|-
+|A young man
+|Aquatio
+|
+|-
+|A boy
+|Aqueianha
+|
+|-
+|A woman
+|Ekening
+|
+|-
+|An old woman
+|Aquasuari
+|
+|-
+|A young woman
+|Chewasrisha
+|
+|-
+|Death
+|Anseehe
+|
+|-
+|A dead body
+|Wahehun
+|
+|-
+|The head 
+|Setarakē
+|
+|-
+|Marriage
+|Gotyāg
+|
+|-
+|A husband
+|Gotyakum
+|cf. Tuscarora katyá:kə̃h
+|-
+|A wife
+|Dekes
+|
+|-
+|A son
+|Wakatonta
+|
+|-
+|A daughter
+|Eruhā
+|
+|-
+|A King
+|Tirer
+|
+|-
+|The belly
+|Unkē
+|
+|-
+|My belly
+|Setunke
+|cf. Tuscarora sætkwə̃́ʔkyæ ‘your stomach’
+|-
+|Your belly
+|Getunke
+|
+|-
+|The hand or fingers
+|Nunke
+|
+|-
+|My hand
+|Sesnunke
+|cf. Mohawk sesnṹhsaʔke ‘your hand’
+|-
+|Your hand
+|Gesnunke
+|cf. Mohawk kesnṹhsaʔke ‘my hand’
+|-
+|The right hand
+|Panunkee
+|
+|-
+|The left hand
+|Matapanunkee
+|
+|-
+|The thigh
+|Otitchag
+|
+|-
+|The knee
+|Sunsheke
+|
+|-
+|The leg
+|Franseke
+|
+|-
+|The foot
+|Saseeke
+|
+|-
+|The hair
+|Howerac
+|
+|-
+|The eyes
+|Unkoharae
+|cf. Tuscarora ukáhræh
+|-
+|The mouth
+|Eskaharant
+|
+|-
+|The ears
+|Suntunke
+|cf. Tuscarora shə̃hnə̃́ʔkyæ ‘your ears’
+|-
+|The tongue
+|Darsunke
+|
+|-
+|The teeth
+|Otosag
+|cf. Tuscarora utú:ʔθæh
+|-
+|The neck
+|Steereke
+|
+|-
+|The nose
+|Oteusag
+|cf. Tuscarora uʔtyə̃́hsæh
+|-
+|The lips
+|Oarāg
+|
+|-
+|The chin
+|Ochag
+|
+|-
+|The toes
+|Seeke
+|
+|-
+|Blood
+|Gatkum
+|cf. Tuscarora kátkə̃ʔ
+|-
+|Skin
+|Ohonag
+|cf. Mohawk óhnaʔ
+|-
+|Flesh
+|Skeshunke
+|
+|-
+|Nails
+|Yetunke
+|
+|-
+|Heart
+|Sunke
+|
+|-
+|The cheeks
+|Ekunsquare
+|cf. Tuscarora ukə̃́skaræh
+|-
+|The breath
+|Untures
+|
+|-
+|The Eye brows
+|Eskarunke
+|
+|-
+|A shoemaker
+|Yuntaquaankum (Yuhtaquaahkum)
+|
+|}
+
+=== Of Animals ===
+{| class="wikitable"
+!Wood's English
+!Wood's Nottoway spelling
+!Cognates
+|-
+|A Cow
+|Tosherung
+|
+|-
+|A dog
+|Cheer 
+|cf. Tuscarora číhr
+|-
+|A hog
+|Waskarrow
+|cf. Tuscarora waθkwá:ræh
+|-
+|A boar
+|Garhusung
+|
+|-
+|A deer
+|Aquia
+|cf. Tuscarora á:kwæh
+|-
+|A mouse
+|Kosquenna
+|cf. Tuscarora ruskwǽ:nə̃h
+|-
+|A rat
+|Oyentu 
+|cf. Tuscarora ruyə̃́ʔtuh
+|-
+|A bull frog
+|Drakon
+|
+|-
+|Fish
+|Kaintu
+|cf. Tuscarora kə̃́:čə̃h
+|-
+|A Shad or Herring
+|Kohan
+|
+|-
+|An Eel
+|Kunte
+|
+|-
+|A crab
+|Sosune
+|
+|-
+|A snake 
+|Antatum
+|
+|-
+|A bird
+|Cheeta
+|cf. Tuscarora číʔnə̃ʔ
+|-
+|A turkey
+|Kunum
+|
+|-
+|A Hen
+|Tawrettig
+|cf. Tuscarora tahurǽ:tik
+|-
+|A Fox
+|Skeyu
+|
+|-
+|A Wolf 
+|Huse
+|
+|-
+|A Squirrel
+|Osarst
+|
+|-
+|A Rabbit
+|Querū
+|cf. Tuscarora kwǽ:ruh
+|-
+|A house fly
+|Deēsrere
+|
+|-
+|A Bee
+|Ronuquam
+|
+|-
+|A Shell
+|Odersag
+|
+|-
+|A Deer Skin
+|Aquia ohonag
+|cf. Tuscarora á:kwæh; cf. Mohawk óhnaʔ
+|-
+|A Wing
+|Ohuwistāg
+|cf. Tuscarora uyə̃hwí:θnæh
+|-
+|A Feather
+|Awenkrāg
+|
+|-
+|Wool
+|Ostoharag
+|
+|-
+|The tail
+|Orwisag
+|cf. Tuscarora uʔrhwə̃́:θæh
+|-
+|Horns
+|Osherag
+|
+|}
+
+=== Division of Time ===
+{| class="wikitable"
+!Wood's English
+!Wood's Nottoway spelling
+!Cognates
+|-
+| A year ||  Wokenhu
+|
+|-
+| The new year ||  Unksawa-Wokenhu
+|
+|-
+| The new moon ||  Dotratung
+|
+|-
+| Spring ||  Shantaroswache
+|
+|-
+| Summer ||  Genheke
+|
+|-
+| Autumn ||  Basheke
+|
+|-
+| Winter ||  Goshera
+|
+|-
+| Morning ||  Suntetung
+|
+|-
+| Day-time ||  Antyeke
+|
+|-
+| Mid-day ||  Anteneekal
+|
+|-
+| Evening ||  Gensake
+|
+|-
+| Night-time ||  Asunta
+|
+|}
+
+=== Domestic Articles ===
+{| class="wikitable"
+!Wood's English
+!Wood's Nottoway Spelling
+!Cognates
+|-
+| A House ||  Onushag ||  cf. Tuscarora unə̃́hsæh
+|-
+| The house of some individual ||  Weynushag
+|-
+| A door ||  Ototorag
+|
+|-
+| A chimney  ||  Odeshag
+|
+|-
+| A Knife  ||  Osakenta
+|
+|-
+| A Stick  ||  Ocherura
+|
+|-
+| A Gun ||  Ata
+|
+|-
+| A Bed ||  Sattaak
+|
+|-
+| Milk  ||  Canu
+|
+|-
+| Spirits ||  Anuqua
+|cf. Tuscarora uhnǽ:kyæh 'liquor, spirits'
+|-
+| Clothes ||   Aquast
+|
+|-
+| Smoke ||  Okyer
+|
+|-
+| Shoes ||  Otagwāg ||  cf. Tuscarora uhnáhkwaʔ
+|-
+| Stockings ||  Orisrāg
+|
+|-
+| Leather  ||  Totierhiā
+|
+|-
+| Linen ||  Nikanrārā
+|
+|-
+| Fat meat ||  Oskaharag
+|
+|-
+| Lean meat  ||  Oharag
+|
+|-
+| A Fiddle  ||  Eruskarintita
+|
+|-
+| A Bottle  ||  Chewak ||  cf. Tuscarora učhǽʔwæh
+|-
+| Paper ||  Orirag
+|
+|}
+
+=== Adjectives ===
+{| class="wikitable"
+!Wood's English
+!Wood's Nottoway Spelling
+!Cognates
+|-
+| White ||  Owheryakum
+|-
+| Black ||  Gehuntee ||  cf. Tuscarora kahə̃́sči:
+|-
+| Red ||  Ganuntquare
+|
+|-
+| Green ||  Sekatequantin
+|
+|-
+| Weak ||  Genuheha
+|
+|-
+| Dry ||  Yourha ||  cf. Onondaga óhɛ̃h
+|-
+| Wet ||  Yaorā
+|
+|-
+| Ugly ||  Yesaxa
+|
+|-
+| Beautiful ||  Yesquast
+|
+|-
+| Good ||  Waquast ||  cf. Tuscarora wákwahst
+|-
+| Bad ||  Wassa
+|-
+| Hot ||  Tariha ||  cf. Tuscarora yuʔnaríhə̃:
+|-
+| Cold ||  Watorae ||  cf. Tuscarora á’thuʔ
+|-
+| Angry ||  Thatcharore ||  cf. Tuscarora θačaʔrú:rih ‘you’re angry’
+|-
+| Happy ||  Thatchanunte
+|
+|-
+| Unhappy ||  Dodoitchewakeraksa
+|
+|-
+| Old ||  Onahahe
+|
+|-
+| Young ||  Osae
+|
+|-
+| Long ||  Ewis
+|
+|-
+| Short ||  Newisha ||  cf. Tuscarora tiwæ:θʔáh
+|-
+| Great ||  Tatchanawihiē
+|-
+| Little ||  Newisha ||  cf. Tuscarora tiwaʔθʔáh
+|-
+| Deep ||  Tatchanuwiras
+|
+|-
+| Sharp ||  Watchoka
+|
+|-
+| Round ||  Tatowerente
+|
+|-
+| Smooth ||  Chuwatee
+|
+|-
+| Rough ||  Genuaquast
+|
+|-
+| Hard ||  Wokoste
+|
+|-
+| Strong ||  Wakoste ||  cf. Tuscarora wakáθnæh ‘I’m strong’
+|}
+
+=== Numerals ===
+{| class="wikitable"
+!Wood's English
+!Wood's Nottoway Spelling
+!Cognates
+|-
+| One ||  Unte ||  cf. Tuscarora ə̃́:či
+|-
+| Two ||  Dekanee ||  cf. Tuscarora nǽ:kti:
+|-
+| Three ||  Arsa
+|-
+| Four ||  Hentag ||  cf. Tuscarora hə̃́ʔtahk
+|-
+| Five ||  Whisk ||  cf. Tuscarora wísk
+|-
+| Six ||  Oyag ||  cf. Tuscarora úhyaʔk
+|-
+| Seven ||  Ohatag (Chatag) ||  cf. Tuscarora čá:ʔnak
+|-
+| Eight ||  Dekra ||  cf. Tuscarora nǽ:krə̃ʔ
+|-
+| Nine ||  Deheerunk ||  cf. Tuscarora níhrə̃ʔ
+|-
+| Ten ||  Washa
+|
+|-
+| Eleven ||  Urteskahr (Unteskahr)
+|
+|-
+| Twelve ||  Dekaneskahr
+|
+|-
+| Thirteen ||  Arsaskahr
+|
+|-
+| Fourteen ||  Hentagskahr
+|
+|-
+| Fifteen ||  Whiskahr
+|
+|-
+| Sixteen ||  Oyagskahr
+|
+|-
+| Seventeen ||  Ohatagskahr (Chatagskahr)
+|
+|-
+| Eighteen ||  Dekraskahr
+|
+|-
+| Nineteen ||  Deheerunkskahr
+|
+|-
+| Twenty ||  Dewarthaunteskahr (Dewartha)
+|cf. Tuscarora næwáhθhə̃h
+|-
+| Thirty ||  Arseneewarsa
+|cf. Tuscarora áhsə̃ tiwáhθhə̃h
+|-
+| Forty ||  Hentagneewarsa
+|cf. Tuscarora hə̃́ʔtahk tiwáhθhə̃h
+|-
+| Fifty ||  Wiskaneewarsa
+|cf. Tuscarora wísk tiwáhθhə̃h
+|-
+| Sixty ||  Oyagneewarsa
+|
+|-
+| Seventy ||  Getaganeewarsa
+|
+|-
+| Eighty ||  Dekranee warsa
+|
+|-
+| Ninety ||  Deheerunknee warsa
+|
+|-
+| A hundred ||  Kahorsthree
+|
+|-
+| A thousand ||  Unteyoasthree (yoasthree)
+|
+|}
+
+=== Verbs ===
+{| class="wikitable"
+!Wood's English
+!Wood's Nottoway Spelling
+!Cognates
+|-
+| To walk ||  Jā
+|
+|-
+| To ride ||  Unksatā
+|
+|-
+| To fly ||  Getya
+|
+|-
+| To swim ||  Orerunte
+|
+|-
+| To drink ||  Ararher
+|
+|-
+| To eat ||  Untchore ||  cf. ə̃čú:riʔ ‘it ate’
+|-
+| To throw ||  Esungwisatoee
+|
+|-
+| To cry ||  Tehesuhard
+|cf. Tuscarora næká:θnə̃hr ‘I cry’
+|-
+| To sleep ||  Kertus (Kentus) ||  cf. Tuscarora kə̃́:tʔuhs ‘it sleeps’
+|-
+| To fight ||  Wauntrehu
+|
+|-
+| To wound ||  Yahterund
+|
+|-
+| To kill ||  Urtatreeyou (Untatreeyou) ||  cf. Tuscarora ə̃ʔnarí:yuʔ 'it killed itself'
+|-
+| To hear ||  Thrahurta (Thrahunta)
+|
+|-
+| To see ||  Waskehee
+|cf. Tuscarora wáhskə̃ʔ ‘you saw it’
+|-
+| To smell ||  Saharantoo
+|
+|-
+| To touch ||  Swarore
+|
+|-
+| To speak ||  Wasweke
+|cf. Tuscarora wáhswæʔ ‘you spoke’
+|-
+| To hunt ||  Kunun
+|
+|-
+| To fish ||  Watchunund
+|
+|-
+| To love ||  Tatchadanuste
+|
+|-
+| To hate ||  Dotautche
+|
+|-
+| To pray ||  Durtanhara
+|
+|-
+| To stab ||  Untequara
+|
+|-
+| To cut ||  Untatren
+|cf. Tuscarora ə̃ʔnáthræʔn ‘it cut itself’
+|-
+| To break ||  Wayetcherorag
+|
+|-
+| To drown ||  Untoreesweg
+|
+|-
+| To hang ||  Waharee
+|cf. Tuscarora waʔká:rə̃ʔ ‘I hung it up’
+|-
+| To strike ||  Untateuheerug (Untatenheerug) ||  cf. Tuscarora ə̃ʔnatkə̃́hruk ‘it struck itself’
+|-
+| To shoot ||  Untatchag
+|
+|-
+| To listen ||  Satuntatag
+|
+|-
+| To wash ||  Gakuhar ||  cf. Tuscarora ktú:har ‘I wash’
+|-
+| To run ||  Sarioka
+|
+|-
+| To leap ||  Deunti
+|
+|}
+
+=== Other Words===
+Rudes attributes the following words to a vocabulary by [[John Napoleon Brinton Hewitt|J. N. B. Hewitt]].<ref>Hewitt, J. N. B. n.d. Nottoway-Anonymous. BAE ms., National Anthropological Archives catalog no. 3603. Washington, D.C.</ref><ref name=":0"/>{{rp|48}} It may be a later version of the one gathered by Trezvant.
+{| class="wikitable"
+!English
+!Nottoway Spelling
+!Cognates
+|-
+| No ||  roh (H)
+|
+|-
+| Yes ||  hokeh (H)
+|
+|-
+| Bark ||  ohseroch (H)
+|
+|-
+| Corn, maize ||  ohnehahk (H) ||  
+|-
+| Infant, child ||  nahkasehkeh (H) ||  
+|-
+| Father ||  akroh (H)
+|
+|-
+| Mother ||  ena (H)
+|
+|-
+| Sow ||  wakatouta (H)
+|
+|-
+| Brother ||  kahtahtekeh (H)
+|
+|-
+| Sister ||  ahkahchee (H)
+|
+|-
+| Arm ||  ohnunchahk (H) ||  cf. Tuscarora unə̃́čhæh
+|-
+| Belly ||  ohtequahk (H)
+|
+|-
+| Chief ||  etesheh (H)
+|
+|-
+| Arrow ||  aruntquaserauk (H)
+|
+|-
+| Earth, land ||  ahonroch (H) ||  
+|-
+| Lake ||  kahahtahia (H)
+|-
+| Mountain ||  newntehs (H) ||  cf. Tuscarora unə̃́ʔnæh
+|-
+| I ||  ee (H)
+|
+|-
+| Nottoways ||  Cherohaka (H)
+|
+|}
+
+==References==
+{{reflist}}
+
+{{Iroquoian languages}}
+[[Category:Northern Iroquoian languages]]
+[[Category:Extinct languages of North America]]

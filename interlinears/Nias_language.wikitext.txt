@@ -1,0 +1,416 @@
+{{Short description|Austronesian language spoken in Indonesia}}
+{{Infobox language
+|name        = Nias
+|nativename  = ''Li Niha''
+|states      = [[Indonesia]]
+|region      = [[Nias]] and [[Batu Islands]], [[North Sumatra]]
+|ethnicity   = [[Nias people]]
+|speakers    = 770,000
+|date=2000 census
+|ref=e18
+|familycolor = Austronesian
+|fam2        = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3        = [[Northwest Sumatra–Barrier Islands languages|Northwest Sumatra–Barrier Islands]]
+|fam4        = Northern Barrier Islands
+|fam5        = Nias–Sikule
+|script      = [[Latin script|Latin]]
+|iso2        = nia
+|iso3        = nia
+|glotto=nias1242
+|glottorefname=Nias
+|notice=IPA
+}}
+[[File:WIKITONGUES- Anugrah speaking Li Niha.webm|thumb|A video of spoken Nias]]
+
+The '''Nias language''' is an [[Austronesian language]] spoken on [[Nias]] Island and the [[Batu Islands]] off the west coast of [[Sumatra]] in [[Indonesia]]. It is known as Li Niha by its native speakers. It belongs to the [[Northwest Sumatra–Barrier Islands languages|Northwest Sumatra–Barrier Islands]] subgroup which also includes [[Mentawai language|Mentawai]] and the [[Batak languages]].<ref name=e18/> It had about 770,000 speakers in 2000.<ref name=e18/> There are three main [[dialect]]s: northern, central and southern.{{sfn|Brown|1997|p=395}} It is an [[Syllable#open_syllable|open-syllable]] language, which means there are no syllable-final consonants.
+
+==Dialects==
+[[File:Languages of Northern Sumatra en.svg|thumb|A map of major languages spoken in northern Sumatra; Nias is represented by the blue shade and its ISO 639-3 code "nia"]]
+
+Nias is typically considered to have three dialects.<ref name="Ethnologue">Ethnologue</ref>{{sfn|Brown|2001|p=7}}
+*'''Northern''' dialect: particularly the [[Gunungsitoli]] variety, Alasa and Lahewa area.<ref name="Ethnologue" />
+*'''South''' dialect: [[South Nias Regency|South Nias]], Gomo Area, [[Teluk Dalam|Telukdalam]] Area and [[Batu Islands]].<ref name="Ethnologue" />
+*'''Central''' dialect: [[West Nias Regency|West Nias]], particularly in [[Kecamatan Sirombu|Sirombu]] and [[Kecamatan Mandrehe|Mandrehe]] areas.<ref name="Ethnologue" />
+
+Cognate percentage among the dialects of Nias is about 80%.{{sfn|Nothofer|1986|p=95}}
+
+The northern variant is considered the prestige dialect. The only complete Bible translation is written in the northern dialect and is used by speakers of all dialects.{{sfn|Brown|2001|p=8}}
+
+==Phonology==
+Nias has the following [[phoneme]]s (sounds only found in the northern dialect are given in {{color|#00C000|green}}, southern-only sounds are in {{color|#E00000|red}}):{{sfn|Sundermann|1913|pp=5–6}}{{sfn|Brown|2005|p=564}}
+
+{| class="wikitable" style="text-align:center"
+|+Vowels
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+|  | {{IPA|i}}
+|  |
+|  | {{IPA|u}}
+|-
+! [[Mid vowel|Mid]]
+|  | {{IPA|e}}
+|  | {{IPA|ɤ}} {{angle bracket|ö}}
+|  | {{IPA|o}}
+|-
+! [[Open vowel|Open]]
+|
+||{{IPA|a}}
+|
+|-
+|}
+
+{| class="wikitable" style="text-align:center"
+|+Consonants
+!colspan=2|
+![[Labial consonant|Labial]]
+![[Dental consonant|Dental]]/<br />[[Alveolar consonant|Alveolar]]
+![[Palatoalveolar consonant|Palato-<br />alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan=3|[[Stop consonant|Stop]]/<br/>[[Affricate consonant|Affricate]]
+! [[voicelessness|voiceless]]
+|
+| {{IPA|t}}
+| {{color|#E00000|{{IPA|tʃ}}&nbsp;{{angle bracket|c}}}}
+|
+| {{IPA|k}}
+| {{IPA|ʔ}}&nbsp;{{angle bracket|'}}
+|-
+! [[Voice (phonetics)|voiced]]
+| {{IPA|b}}
+| {{IPA|d}}
+| {{color|#E00000|{{IPA|dʒ}}&nbsp;{{angle bracket|z}}}}
+|
+| {{IPA|ɡ}}
+|
+|-
+! <small>[[Prenasalized consonant|prenasalized]]&nbsp;/&nbsp;[[Trilled affricate|trilled]]</small>
+| {{angle bracket|mb}}&nbsp;{{IPA|[ʙ]}}
+| {{angle bracket|ndr}}&nbsp;{{IPA|[dʳ]}}
+|
+|
+|
+|
+|-
+! rowspan=2|[[Fricative consonant|Fricative]]
+! [[voicelessness|voiceless]]
+| {{IPA|f}}
+| {{IPA|s}}
+|
+|
+| {{IPA|x}}&nbsp;{{angle bracket|kh}}
+| {{IPA|h}}
+|-
+! [[Voice (phonetics)|voiced]]
+| {{color|#E00000|{{IPA|v}}&nbsp;{{angle bracket|w}}}}
+| {{color|#00C000|{{IPA|z}}}}
+|
+|
+|
+|
+|-
+! colspan=2|[[Nasal consonant|Nasal]]
+| {{IPA|m}}
+| {{IPA|n}}
+|
+|
+| {{color|#00C000|{{IPA|ŋ}}&nbsp;{{angle bracket|ng}}}}
+|
+|-
+! colspan=2|[[Approximant consonant|Approximant]]
+| {{IPA|ʋ}}&nbsp;{{angle bracket|ß}}
+| {{IPA|l}}
+|
+| {{IPA|j}}&nbsp;{{angle bracket|y}}
+| {{IPA|w}}&nbsp;{{angle bracket|ŵ}}
+|
+|-
+! colspan=2|[[Trill consonant|Trill]]
+|
+| {{IPA|r}}
+|
+|
+|
+|
+|}
+
+Phonetic descriptions of the sounds traditionally written as {{angbr|mb}} and {{angbr|ndr}} greatly vary. Sundermann (1913) and Halawa et al. (1983) describe them as prenasalized stop {{IPA|[ᵐb]}} and prenasalized trilled stop {{IPA|[ⁿdʳ]}} for the northern dialect,{{sfn|Sundermann|1913|p=6}}{{sfn|Halawa|Harefa|Silitonga|1983|p=19, 21}} while Brown (2005) records them as trill {{IPA|[ʙ]}} and trilled stop {{IPA|[dʳ]}} for the southern dialect.{{sfn|Brown|2005|p=564}} In an acoustic study of Nias dialects from three locations, Yoder (2010) shows a complex pattern of four phonetic realizations of {{angbr|mb}} and {{angbr|ndr}}: plain stop, prenasalized stop, stop with trilled release, stop with fricated release.{{sfn|Yoder|2010|p=1}}{{efn|"It seems that the variable character of the two phonemes is the only consistent feature that distinguishes them from the regular stops in the same places of articulation, and from the regular alveolar trill." {{harv|Yoder|2010|p=1}}}}
+
+The status of initial {{IPA|[ʔ]}} is not determined; there are no phonetic vowel-initial words in Nias.
+
+The contrast between {{IPA|[v]}} and {{IPA|[ʋ]}} (both written {{angle bracket|w}} in common spelling) is only observed in the southern dialect. Here, the fricative {{IPA|[v]}} only occurs in initial position in the mutated form (see [[Nias_language#Noun_case_marking_(mutation)|§Noun case marking (mutation)]]) of nouns beginning with ''f'', e.g. {{lang|nia|fakhe}} ~ {{lang|nia|wakhe}} {{IPA|[vaxe]}}.
+The approximant {{IPA|[ʋ]}} can appear in initial and medial position, and is in free variation with {{IPA|[v]}} for many speakers of the southern dialect.{{sfn|Brown|2001|pp=27; 36–39}} For the northern dialect, only fricative approximant {{IPA|[ʋ]}} is reported, corresponding to both sounds of southern Nias.{{sfn|Halawa|Harefa|Silitonga|1983|p=23}} The semivowel {{IPA|[w]}} is a distinct phoneme and is written {{angle bracket|ŵ}} in common spelling.{{sfn|Halawa|Harefa|Silitonga|1983|p=39}}
+
+==Grammar==
+Nias has an [[ergative–absolutive]] alignment.{{sfn|Brown|1997|pp=398–399}} It is the only known ergative–absolutive language in the world that has a "marked absolutive", which means that absolutive case is marked, whereas ergative case is unmarked.{{sfn|Comrie|2013}}{{sfn|Donohue|2008|p=27}}
+
+There are no [[adjective]]s in Nias, words with that function are taken by verbs.{{sfn|Brown|2005|p=566}}
+
+===Pronouns===
+
+The following table lists the free and bound pronouns of Nias ({{color|#00C000|green}} = only used in the northern dialect, {{color|#E00000|red}} = only used in the southern dialect):{{sfn|Brown|1997|p=400}}{{sfn|Brown|2001|pp=123–124}}{{sfn|Sundermann|1913|pp=40–45, 65–66}}
+
+{| class="wikitable"
+|- style="background: #efefef;"
+|+Pronouns and pronominal affixes
+| &nbsp;
+! independent
+! absolutive
+! genitive
+! ergative<br/>realis
+! S = A<br/>irrealis
+|-
+| 1.sg.
+| ya'o&nbsp;/&nbsp;{{color|#00C000|ya'odo}}&nbsp;/&nbsp;{{color|#E00000|ya'oto}}
+| {{color|#00C000|ndra'o(do)}}&nbsp;/&nbsp;{{color|#00C000|‑do}}&nbsp;/&nbsp;{{color|#E00000|ndrao(to)}}
+| -gu
+| u-
+| {{color|#E00000|gu-}}
+|-
+| 2.sg.
+| ya'ugö
+| {{color|#00C000|ndra'ugö}}&nbsp;/&nbsp;{{color|#00C000|‑ö}}&nbsp;/&nbsp;{{color|#E00000|ndraugö}}
+| -u&nbsp;/&nbsp;{{color|#00C000|‑mö}}
+| ö-
+| {{color|#E00000|gö-}}
+|-
+| 3.sg.
+| ya'ia
+| {{color|#00C000|ia}}&nbsp;/&nbsp;{{color|#E00000|ya}}
+| -nia
+| i-
+| ya-
+|-
+| 1.pl.incl.
+| ya'ita
+| ita
+| -da
+| ta-
+| {{color|#E00000|da-}}
+|-
+| 1.sg.excl.
+| ya'aga
+| ndra'aga&nbsp;/&nbsp;{{color|#00C000|‑ga}}
+| -ma
+| ma-
+| {{color|#E00000|ga-}}
+|-
+| 2.pl.
+| ya'ami
+| {{color|#00C000|ami}}&nbsp;/&nbsp;{{color|#E00000|-mi}}
+| -mi
+| mi-
+| {{color|#E00000|gi-}}
+|-
+| 3.pl.
+| ya'ira
+| ira
+| -ra
+| la-
+| ndra-
+|}
+
+'''Independent''' pronouns are used:
+*as the predicate in [[Nominal sentence|nominal clauses]]
+{{interlinear|indent=4|abbreviations=MUT:mutated; IND:independent
+|'''Ya'o''' zia'a
+|1SG.IND first.born:MUT
+|'I am the first-born.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=358}}}}
+*as the P argument{{efn|The terminology used here follows the [[Morphosyntactic alignment#Terminology|conventions]] commonly used in linguistic typology: '''S''' for the subject of intransitive verbs; '''A''' for the subject of transitive verbs;  '''P''' for the object of transitive verbs.}} of transitive verbs in dependent (including relative and nominalized) clauses
+{{interlinear|indent=4|abbreviations=MUT:mutated; IND:independent
+|Andrehe'e nasu si-usu '''ya'o'''
+|DIST dog:MUT REL-bite 1SG.IND
+|'That's the dog that bit me.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=413}}}}
+*following certain prepositions and ''ha'' "only"
+*in fronted (topicalized) position
+
+'''Absolutive''' pronouns are used:
+*as the S argument of independent intransitive and nominal clauses (in the southern dialect, only in realis mood)
+{{interlinear|indent=4
+|Mofökhö '''ndra'o'''
+|sick 1SG.ABS
+|'I am sick.'
+|c1 = (northern dialect){{sfn|Sundermann|1913|p=108}}}}
+*as the P argument of transitive verbs in independent clauses
+{{interlinear|indent=4
+|I-tegu '''ndra'o''' ama-gu
+|3SG.ERG-scold 1SG.ABS father-1SG.GEN
+|'My father scolds me.'
+|c1 = (northern dialect){{sfn|Sundermann|1913|p=97}}}}
+*as the stimulus with intransitive verbs expressing emotions or states of mind
+{{interlinear|indent=4|abbreviations=MUT:mutated;
+|Ata'u nasu '''ndrao'''
+|afraid dog:MUT 1SG.ABS
+|'The dog is afraid of me.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=578}}}}
+
+'''Genitive''' pronouns are used:
+*as possessor, e.g. ''ama-gu'' "my father"
+*following certain prepositions, e.g. ''khö-gu'' "to me"
+*as the S argument in nominalized intransitive clauses
+{{interlinear|indent=4|abbreviations=MUT:mutated; NR:nominalizer
+|Löna ahono ve-mörö-'''nia'''
+|not calm NR:MUT-sleep-3SG.GEN
+|'Her sleep was not restful.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=315}}}}
+*as the A argument in nominalized transitive clauses
+{{interlinear|indent=4|abbreviations=MUT:mutated; NR:nominalizer; IPF:imperfective
+|La-faigi vamaoso-'''ra'''
+|3PL.ERG-see NR:MUT:IPF:raise-3PL.GEN
+|'They watched them raise [it].'
+|c1 = (southern dialect){{sfn|Brown|2001|p=314}}}}
+*as the A argument in relative clauses with the P argument of a transitive verb as head
+{{interlinear|indent=4|abbreviations=MUT:mutated; PASS:passive
+|U-fake zekhula ni-rökhi-'''nia'''
+|1SG.ERG-use coconut:MUT PASS-grate-3SG.GEN
+|'I used the coconut which she grated.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=420}}}}
+
+'''Ergative''' (realis) pronouns are used:
+*as the A argument in independent transitive clauses (in the southern dialect, only in realis mood)
+{{interlinear|indent=4|abbreviations=MUT:mutated
+|'''I'''-tataba geu
+|3SG.ERG-cut wood:MUT
+|'He cut up the wood.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=529}}}}
+
+'''Irrealis''' pronouns are used in the southern dialect:
+*as the S argument in independent intransitive clauses in irrealis mood
+{{interlinear|indent=4
+|'''Gu'''-möi ba fasa mahemolu
+|1SG.IRR-go LOC market tomorrow
+|'I want to go to the market tomorrow.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=153}}}}
+*as the A argument in independent transitive clauses in irrealis mood
+{{interlinear|indent=4
+|'''Gu'''-moturagö ndraugö khö-ra
+|1SG.IRR-IRR:tell.about 2SG.ABS DAT-3PL.GEN
+|'I'm going to tell them about you.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=549}}}}
+
+In the northern dialect, the irrealis pronouns are restricted to third person, and are employed in what Sundermann (1913) calls "jussive" mood.
+{{interlinear|indent=4|abbreviations=JUSS:jussive mood
+|'''Ya'''-mu-'ohe
+|3SG.JUSS-JUSS-bring
+|'He shall bring it.'
+|c1 = (northern dialect){{sfn|Sundermann|1913|p=81}}}}
+
+===Noun case marking (mutation)===
+[[grammatical case|Case marking]] of [[noun]]s is indicated in Nias by [[consonant mutation|mutation]] of the initial consonant. Several consonants are subject to mutation as shown in the table below. Where a word begins in a vowel, either ''n'' or ''g'' is added before the vowel; the choice of ''n'' or ''g'' is lexically conditioned. (For example, ''öri ~ nöri'' is 'village federation', ''öri ~ göri'' is 'bracelet'.){{sfn|Brown|2005|p=567}}
+
+{| class="wikitable" 
+|- 
+|+Initial mutations
+! scope="col" | Unmutated form
+! scope="col" | Mutated form
+|-
+|align=center|''f''
+|align=center|''v''
+|-
+|align=center|''t''
+|align=center|''d''
+|-
+|align=center|''s''
+|align=center rowspan=2|''z''
+|-
+|align=center|''c''
+|-
+|align=center|''k''
+|align=center|''g''
+|-
+|align=center|''b''
+|align=center|''mb''
+|-
+|align=center|''d''
+|align=center|''ndr''
+|-
+|align=center|vowel
+|align=center|''n'' + vowel<br />''g'' + vowel
+|}
+Other consonants do not change. 
+
+====Unmutated case====
+The unmutated case form is used in citation. It further appears in all functions described above for independent pronouns:
+*as the predicate in nominal clauses
+*as the P argument of transitive verbs in dependent (including relative and nominalized) clauses
+*following certain prepositions and ''ha'' "only"
+*in fronted (topicalized) position
+
+Additionally, A arguments in independent transitive clauses appear in unmutated case, cross-referenced by the corresponding ergative or irrealis pronoun.
+{{interlinear|indent=4|abbreviations=MUT:mutated
+|I-rino vakhe '''ina-gu'''
+|3SG.ERG rice:MUT mother-1SG.GEN
+|'My mother cooked rice.'
+|c1 = (southern dialect){{sfn|Brown|2001|p=537}}}}
+
+====Mutated case====
+The mutated case form of the noun corresponds in function to both the absolutive and the genitive pronouns:
+*as the S argument of independent intransitive and nominal clauses
+{{interlinear|indent=4|abbreviations=MUT:mutated
+|Mate '''zibaya-nia''' meneßi
+|die uncle:MUT-3SG.GEN yesterday
+|'His uncle died yesterday.'
+|c1 = (southern dialect; unmutated: ''sibaya''){{sfn|Brown|2001|p=559}}}}
+*as the P argument of transitive verbs in independent clauses
+{{interlinear|indent=4|abbreviations=MUT:mutated
+|I-rino '''vakhe''' ina-gu
+|3SG.ERG rice:MUT mother-1SG.GEN
+|'My mother cooked rice.'
+|c1 = (southern dialect; unmutated: ''fakhe''){{sfn|Brown|2001|p=537}}}}
+*as the stimulus with intransitive verbs expressing emotions or states of mind
+*as possessor
+{{interlinear|indent=4|abbreviations=MUT:mutated
+|omo '''ga'a-gu'''
+|house older.sibling:MUT-1SG.GEN
+|'my brother's house'
+|c1 = (southern dialect; unmutated: ''ka'a''){{sfn|Brown|2001|p=348}}}}
+
+*following certain prepositions
+*as the S argument in nominalized intransitive clauses
+*as the A argument in nominalized transitive clauses
+*as the A argument in relative clauses with the P argument of a transitive verb as head
+
+==Notes==
+{{notelist}}
+
+==References==
+===Citations===
+{{reflist|25em}}
+
+===Bibliography===
+{{refbegin}}
+*{{cite book |last=Brown |first=Lea |year=1997 |chapter-url=https://books.google.com/books?id=iyGd2N1KwO4C&pg=PA395 |chapter=Nominal Mutation in Nias |editor1=Odé, Cecilia |editor2=Wim Stokhof |title=Proceedings of the Seventh International Conference on Austronesian Linguistics |publisher=Rodopi |location=Amsterdam |isbn=90-420-0253-0 |language=en |via=books.google.com}}
+*{{cite thesis |last=Brown |first=Lea |year=2001 |title=Grammar of Nias Selatan |type=PhD Thesis |publisher=University of Sidney: Department of Linguistics |hdl=2123/12669 |hdl-access=free |language=en}}
+*{{cite book |last=Brown |first=Lea |year=2005 |chapter=Nias |editor1=Adelaar, Alexander |editor2=Himmelmann, Nikolaus P. |chapter-url=https://books.google.com/books?id=BAShwSYLbUYC&pg=PA562 |title=The Austronesian Languages of Asia and Madagascar |location=London |publisher=Routledge |isbn=0-7007-1286-0 |language=en |via=books.google.com}}
+*{{citation |last=Comrie |first=Bernard |year=2013 |chapter=Alignment of Case Marking of Full Noun Phrases |editor1=Dryer, Matthew S. |editor2=Haspelmath, Martin |title=The World Atlas of Language Structures Online |publisher=Leipzig: Max Planck Institute for Evolutionary Anthropology |chapter-url=http://wals.info/chapter/98 |access-date=6 Jun 2019 |language=en}}
+*{{cite book |last=Donohue |first=Mark |year=2008 |chapter=Semantic alignment systems: what's what, and what's not |editor1=Donohue, Mark |editor2=Søren Wichmann |title=The Typology of Semantic Alignment |location=Oxford |publisher=Oxford University Press |language=en}}
+*{{Cite book |last=Halawa |first=T. |url=http://repositori.kemdikbud.go.id/3607/1/Struktur%20bahasa%20nias.pdf |title=Struktur Bahasa Nias |last2=Harefa |first2=A. |last3=Silitonga |first3=M. |publisher=Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan |year=1983 |location=Jakarta |language=id |trans-title=Nias Language Structure |access-date=11 December 2021 |via=repositori.kemdikbud.go.id}}
+*{{cite book |last=Nothofer |first=Bernd |year=1986 |chapter=The Barrier island languages in the Austronesian language family |editor1=Paul Geraghty |editor2=Lois Carrington |editor3=Stephen A. Wurm |title=FOCAL II: Papers from the Fourth International Conference on Austronesian Linguistics |pages=89–107 |location=Canberra |publisher=Research School of Pacific and Asian Studies, Australian National University |doi=10.15144/PL-C94.87 |doi-access=free}}
+*{{Cite book |last=Sundermann |first=Heinrich |url=https://books.google.com/books?id=xkGuBgAAQBAJ |title=Niassische Sprachlehre |publisher=Martinus Nijhoff |year=1913 |location='s-Gravenhage |language=de |trans-title=Nias Grammar |via=books.google.com}}
+*{{Cite journal |last=Yoder |first=Brendon |year=2010 |title=Prenasalization and trilled release of two consonants in Nias |journal=Work Papers of the Summer Institute of Linguistics, University of North Dakota Session |language=en |volume=50 |doi=10.31356/silwp.vol50.03 |doi-access=free}}
+{{refend}}
+
+==External links==
+{{InterWiki|code=nia}}
+* [https://abvd.shh.mpg.de/austronesian/language.php?id=104 Nias wordlist], Austronesian Basic Vocabulary Database
+* [http://www.niasisland.com/dict/dict.php Online dictionary of Nias]
+* [http://niasonline.net/category/kamus-dict-nina/ Kamus Nias-Indonesia (Nias-Indonesian Dictionary)]
+* [http://niasonline.net/category/artikel/bahasa-nias/ Articles on Nias Language (in Indonesian)]
+
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nias Language}}
+[[Category:Northwest Sumatra–Barrier Islands languages]]
+[[Category:Languages of Indonesia]]
+[[Category:North Sumatra]]

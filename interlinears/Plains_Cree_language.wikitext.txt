@@ -1,0 +1,818 @@
+{{Short description|Algonquian language spoken in North America}}
+{{about|the dialect|history of the ethnic group which speaks it|Iron Confederacy}}
+{{Infobox language
+|name=Plains Cree
+|nativename={{lang|crk|ᓀᐦᐃᔭᐍᐏᐣ}} {{lang|crk-Latn|nēhiyawēwin}}
+|states=[[Canada]], [[United States]]
+|region=[[Manitoba]], [[Saskatchewan]], [[Alberta]], [[Montana]]
+|ethnicity=53,000 (no date)<ref name=e15>{{e15|crk}}</ref>
+|speakers=34,000
+|date=1982
+|ref=e18
+|nation=[[Northwest Territories]] ([[Canada]]), as "Cree"<ref>[http://www.nwtlanguagescommissioner.ca/pdf/Official_Languages_Map.pdf Official Languages of the Northwest Territories] {{webarchive|url=https://web.archive.org/web/20131206035354/http://www.nwtlanguagescommissioner.ca/pdf/Official_Languages_Map.pdf |date=2013-12-06 }} (map)</ref>
+|familycolor=Algic
+|fam1=[[Algic languages|Algic]]
+|fam2=[[Algonquian languages|Algonquian]]
+|fam3=[[Central Algonquian languages|Central Algonquian]]
+|fam4=[[Cree language|Cree]]
+|iso3=crk
+|glotto=plai1258
+|glottorefname=Plains Cree
+|lingua=62-ADA-aa
+|map=
+|mapcaption=A rough map of Cree dialect areas
+|notice=IPA
+}}
+
+[[File:Poundmaker.png|thumb|right|200px|[[Poundmaker]] (c.&nbsp;1842–1886), a leader of the Plains Cree and adopted by Crowfoot, chief of one of the [[Blackfoot]]<ref name="esask" /> Nations]]
+
+'''Plains Cree''' ([[endonym]]: {{lang|crk|ᓀᐦᐃᔭᐍᐏᐣ}} {{lang|crk-Latn|nēhiyawēwin}}) is a dialect of the [[Algonquian languages|Algonquian language]], [[Cree language|Cree]], which is the most populous [[Indigenous languages of Canada|Canadian indigenous language]]. Plains Cree is considered a dialect of the Cree-Montagnais language or a dialect of the Cree language that is distinct from the Montagnais language. Plains Cree is one of five main dialects of Cree in this second sense, along with Woods Cree, Swampy Cree, Moose Cree, and Atikamekw. Although no single [[dialect]] of Cree is favored over another, Plains Cree is the one that is the most widely used. Out of the 116,500 speakers of the Cree language, the Plains Cree dialect is spoken by about 34,000 people primarily in [[Saskatchewan]] and [[Alberta]] but also in [[Manitoba]] and [[Montana]].
+
+The number of people who can speak an Aboriginal language, such as Plains Cree, has increased. For example, in the 2016 census, 263,840 people could speak an Aboriginal language well enough to conduct a conversation. From 1996 to 2016, the total number of people who were able to speak an Aboriginal language went up by 8%. The number of Plains Cree speakers similarly has increased along with population increases over the past 20 years.<ref>[https://www150.statcan.gc.ca/n1/pub/75-006-x/2018001/article/54981-eng.htm *Stats Canada]</ref>
+
+==Phonology==
+===Consonants===
+The [[consonant]] inventory of Plains Cree contains 10 or 11 sounds.<ref name="Wolfart (1973)"/><ref name="Wolfart (1973b)"/><ref name="Bloomfield (1934)"/>  This includes the [[semi-vowel]]s {{IPA|/w/}} and {{IPA|/j/}}, which are [[semivowel|glides]] that act like and often follow consonants.
+
+The consonants of Plains Cree in the two standard [[#Writing_systems|writing systems]], Cree syllabics and the Cree Latin alphabet, are listed in the following table (with [[International Phonetic Alphabet|IPA]] [[phoneme|phonemic]] notation within slashes).  Note that the Cree syllabics symbols chosen for this table all represent [[syllable coda]]s, as in ᐁᐤ ''ēw'', ᐁᑊ ''ēp'', ᐁᐟ ''ēt'', etc.  The consonants are represented differently when they comprise or are a component of a [[syllable onset]], as in ᐍ ''wē'', ᐯ ''pē'', ᐻ ''pwē'', ᑌ ''tē'', etc.  The exception is ᐦ ''h'', which always has the same representation, as in ᐁᐦ ''ēh'' or ᐦᐁ ''hē''.
+
+{|class="wikitable" style="text-align:center;"
+|-
+!
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal stop|Nasal]]
+| ᒼ '''m''' &nbsp;{{IPAslink|m}}
+| ᐣ '''n''' &nbsp;{{IPAslink|n}}
+|
+|
+|
+|-
+! [[Stop consonant|Stop]]
+| ᑊ '''p''' &nbsp;{{IPAslink|p}}
+| ᐟ '''t''' &nbsp;{{IPAslink|t}}
+|
+| ᐠ '''k''' &nbsp;{{IPAslink|k}}
+| &nbsp;({{IPAslink|ʔ}})
+|-
+! [[Affricate consonant|Affricate]]
+|
+| colspan=2 align="center"| ᐨ '''c''' &nbsp;{{IPAslink|t͡s}}
+|
+|
+|-
+! [[Fricative consonant|Fricative]]
+|
+| colspan=2 | ᐢ '''s''' &nbsp;{{IPAslink|s}}
+|
+| ᐦ '''h''' &nbsp;{{IPAslink|h}}
+|-
+! [[Approximant consonant|Approximant]]
+| ᐤ '''w''' &nbsp;{{IPAslink|w}}
+|
+| ᐩ (ᐝ)'''y'''/'''i'''/'''ý''' {{IPAblink|j}}
+|
+|
+|}
+
+The status of the [[glottal stop]], {{IPA|/ʔ/}}, as a phoneme in Plains Cree is uncertain.  It was recorded in the word ''ēhaʔ'' “yes" (transcribed ''ähaʔ'') by [[Leonard Bloomfield]], who stated that the sound occurred only in this word.<ref name="Bloomfield (1934)"/>  In a collaborative online dictionary, Cree speakers have contributed several variants of this word, including ᐁᐦᐊ ''ēha'' (written ''eha'' and ''êha''), ᐁᐦᐁ ''ēhē'' (written ''êhê''), and ᐄᐦᐃ ''īhi'' (written ''îhi'').<ref name="OCD"/>  None of these forms includes a final glottal stop.  However, there is no way of writing a glottal stop in the standard Latin alphabet or in Cree syllabics. [[H.C. Wolfart|Wolfart]]'s grammar<ref name="Wolfart (1973b)"/> contains a text sample which includes this word without a glottal stop, and in his synopsis of Plains Cree sounds no mention of this sound is made.  The same word also occurs in [[Michif language|Michif]], a language derived in part from Plains Cree.  There it appears with a final consonant (and nasalized vowels), as ''aenhenk'' “yes".<ref name="Laverdure"/>
+
+There is a degree of variation in the sounds ᐨ ''c'' {{IPA|/t͡s/}} and ᐢ ''s'' {{IPA|/s/}}.  On the Sweetgrass Reserve in Saskatchewan in 1925, ᐨ ''c'' {{IPA|/t͡s/}} was either alveolar {{IPA|[t͡s]}} or palatoalveolar {{IPA|[t͡ʃ]}}, but ᐢ ''s'' {{IPA|/s/}} was normally alveolar {{IPA|[s]}}, and only abnormally palatoalveolar {{IPA|[ʃ]}}.<ref name="Bloomfield (1934)"/>  In contrast to this, Michif words of Plains Cree origin at Turtle Mountain, North Dakota, invariably have palatoalveolar pronunciation for both of these sounds.<ref name="Laverdure"/>
+
+Voicing of the stops and the affricate is not contrastive in Plain Cree, which is to say that the phonemes ᑊ ''p'' {{IPA|/p/}}, ᐟ ''t'' {{IPA|/t/}}, ᐠ ''k'' {{IPA|/k/}}, ᐨ ''c'' {{IPA|/t͡s/}} have [[voiceless]] [[allophone]]s {{IPA|[p]}}, {{IPA|[t]}}, {{IPA|[k]}}, {{IPA|[t͡s, t͡ʃ]}} and [[voiced]] allophones {{IPA|[b]}}, {{IPA|[d]}}, {{IPA|[ɡ]}}, {{IPA|[d͡z, d͡ʒ]}}.  According to [[H.C. Wolfart|Wolfart]] and Carroll,<ref name="Wolfart (1973)"/> the distribution of voiceless and voiced allophones is complementary:  voiceless allophones occur in unvoiced phonological contexts; voiced allophones occur in voiced contexts.  The context limit is word boundary, not phrase boundary.  So voiceless variants occur at the beginning of a word, at the end of a word, and after ᐦ ''h'' {{IPA|/h/}} or ᐢ ''s'' {{IPA|/s/}}.  The voiced variants occur in all other situations.  However, other distributions of voiceless versus voiced sounds are possible.  Bloomfield reported the same voicing pattern as a possibility for the phoneme ᐠ ''k'' /k/, but did not mentioned it for ᑊ ''p'' /p/, ᐟ ''t'' /t/, or ᐨ ''c'' /t͡s/.<ref name="Bloomfield (1934)"/>  The Plains Cree component of Michif shows a different pattern with respect to voicing.<ref name="Laverdure"/>  Plains Cree ᑊ ''p'' {{IPA|/p/}}, ᐟ ''t'' {{IPA|/t/}}, ᐠ ''k'' {{IPA|/k/}}, ᐨ ''c'' {{IPA|/t͡s/}}, and also ᐢ ''s'' {{IPA|/s/}} normally correspond to the Michif sounds ''p'' {{IPA|/p/}}, ''t'' {{IPA|/t/}}, ''k'' {{IPA|/k/}}, ''ch'' {{IPA|/t͡ʃ/}}, and ''sh'' {{IPA|/ʃ/}}, which in Michif do not have voiced allophones.  Michif has voiced sounds ''b'' {{IPA|/b/}}, ''d'' {{IPA|/d/}}, ''g'' {{IPA|/ɡ/}}, ''j'' {{IPA|/d͡ʒ/}}, and ''zh'' {{IPA|/ʒ/}} which are distinct phonemes, and in some cases the Plains Cree sounds correspond to these.  These cases all involve [[syncope (phonetics)|syncope]] of vowel ''i'' {{IPA|/i/}} that results in a cluster of nasal consonant plus stop, affricate or [[sibilant consonant|sibilant]].  At the beginning of a word, the nasal consonant is subsequently lost.  Unlike the stops and the affricate, ''sh'' {{IPA|/ʃ/}} becomes voiced only at the beginning of a word.
+
+{| class="wikitable"
+|+ Voicing variation in Plains Cree and Michif – examples
+|-
+!
+! Plains Cree proper
+! Plains Cree words in Michif
+|-
+| “in the mean time"
+| align="center"| &nbsp; ᒣᒁᐨ ''mēkwāc'' &nbsp;{{IPA|[meːɡwɑːt͡s, meːkwɑːt͡s]}}
+| align="center"| &nbsp; ''maykwawt'', ''maenkwawt'' &nbsp;{{IPA|[mẽːkwɑːt]}}
+|-
+| “run!"
+| align="center"| &nbsp; ᐱᒥᐸᐦᑖ ''pimipahtā'' &nbsp;{{IPA|[pɪmɪbahtɑː, pɪmɪpahtɑː]}}
+| align="center"| &nbsp; ''pimbahtaw, pimbastaw'' &nbsp;{{IPA|[pɪmbahtɑː, pɪmbastɑː]}}
+|-
+| “how?"
+| align="center"| &nbsp; ᑖᓂᓯ ''tānisi'' &nbsp;{{IPA|[tɑːnɪsɪ, tɑːnɪʃɪ]}}
+| align="center"| &nbsp; ''tawnshi'' &nbsp;{{IPA|[tɑ̃ːʃɪ]}}
+|-
+| “he/she is loved"
+| align="center"| &nbsp; ᓵᑭᐦᐋᐤ ''sākihāw'' &nbsp;{{IPA|[sɑːɡɪhɑːw, sɑːkɪhɑːw]}}
+| align="center"| &nbsp; ''shawkihow'' &nbsp;{{IPA|[ʃɑːkɪhɑːw]}}
+|-
+| “I love him/her"
+| align="center"| &nbsp; ᓂᓵᑭᐦᐋᐤ ''nisākihāw'' &nbsp;{{IPA|[nɪsɑːɡɪhɑːw, nɪsɑːkɪhɑːw]}}
+| align="center"| &nbsp; ''zhawkihow'' &nbsp;{{IPA|[ʒɑːkɪhɑːw]}}
+|}
+
+Plains Cree has pre-aspirated stops and a pre-aspirated affricate which are actually clusters of {{IPA|/h/}} plus a following stop or affricate; these are not separate phonemes.  Pre-aspiration can uniquely distinguish words.  For example, compare the simple ᐠ ''k'' and cluster ᕽ ''hk'' in ᐑᒋᐦᐃᐠ ''wīcihik'' "help me!" and ᐑᒋᐦᐃᕽ ''wīcihihk'' "help him!".<ref name="Wolfart (1973)"/>
+
+===Vowels===
+Plains Cree is often described as having seven contrastive vowels, three short and four long.<ref name="Wolfart (1973)"/><ref name="Wolfart (1973b)"/><ref name="Silver and Miller (1997)"/><ref name="Bloomfield (1934)"/>  However, northern Plains Cree has only three long vowels.<ref name="Wolfart (1973)"/>
+
+These vowels in the standard writing systems are listed in the following table (with IPA phonemic notation within slashes).  Note that the Cree syllabics symbols chosen for this table all represent [[Syllable nucleus|syllable nuclei]] which have no syllable onset.  The vowels are represented differently with non-null onset, as for example with ''n''-onset in ᓀ ''nē'', ᓂ ''ni'', ᓃ ''nī'', etc.
+
+{|class="wikitable" style="text-align:center;"
+! rowspan=2 | 
+! colspan=2 | [[Vowel length|Short]]
+! colspan=2 | [[Vowel length|Long]]
+|-
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]] (close)
+| ᐃ '''i''' &nbsp;{{IPAslink|i}}
+| ᐅ '''o''' &nbsp;{{IPAslink|u}}
+| ᐄ '''ī''' &nbsp;{{IPAslink|iː}}
+| rowspan=2 | ᐆ '''ō''' &nbsp;{{IPAslink|o|oː}}
+|-
+! [[Close-mid vowel|Close-mid]]
+|
+|
+| ᐁ '''ē''' &nbsp;{{IPAslink|e|eː}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| rowspan=2 colspan=2 | ᐊ '''a''' &nbsp;{{IPAslink|a}}
+|
+|
+|-
+! [[Low vowel|Low]] (open)
+| colspan=2 | ᐋ '''ā''' &nbsp;{{IPAslink|a|aː}}
+|}
+
+A distinction not indicated in the table is between back rounded and back unrounded.  The back vowels ᐅ ''o'' and ᐆ ''ō'' are rounded, whereas the sometimes back vowels ᐊ ''a'' and ᐋ ''ā'' are not.
+
+Within these phonemes there is a degree of allophonic variation.<ref name="Bloomfield (1934)"/>  The short close vowels ᐃ ''i'' {{IPA|/i/}} and ᐅ ''o'' {{IPA|/u/}} are typically near close {{IPA|[ɪ]}} and {{IPA|[ʊ]}}, but range to close {{IPA|[i]}} and {{IPA|[u]}}.  The short open vowel ᐊ ''a'' {{IPA|/a/}} is typically open, ranging from front {{IPA|[a]}} to back {{IPA|[ɑ]}}, but its range extends to front open-mid {{IPA|[ɛ]}} and back open-mid {{IPA|[ʌ]}}.  The long front close vowel ᐄ ''ī'' {{IPA|/iː/}} is {{IPA|[iː]}}; ᐁ ''ē'' {{IPA|/eː/}} is close-mid {{IPA|[eː]}}; ᐆ ''ō'' {{IPA|/oː/}} is typically close-mid {{IPA|[oː]}} but its range includes close {{IPA|[uː]}}; and ᐋ ''ā'' {{IPA|/aː/}} ranges from front open {{IPA|[aː]}} to back open {{IPA|[ɑː]}}.
+
+The description of ᐁ ''ē'' {{IPA|/eː/}} must be further qualified to account for geographic variation.  Although this sound is {{IPA|[eː]}} in southern Plains Cree, it becomes closer farther north, becoming {{IPA|[iː]}} and merging with {{IPA|/iː/}} in northern Plains Cree,<ref name="Wolfart (1973)"/> as it has done also in neighbouring Woods Cree.<ref name="Language Geek"/>
+
+Contrast in vowel length can be seen in such pairs as:<ref name="Wolfart (1973)"/>
+
+{{fs interlinear|lang=crk|indent=3
+|ᓴᑲᐦᐃᑲᐣ {vs} ᓵᑲᐦᐃᑲᐣ
+|sakahikan {} sākahikan
+|nail {} lake
+|}}
+{{fs interlinear|lang=crk|indent=3
+|ᓂᐱᐩ {vs} ᓃᐱᐩ
+|nipiy {} nīpiy
+|water {} leaf
+|}}
+
+===Phonological processes===
+
+====Consonant sequences====
+The vowel {{IPA|/i/}} is inserted when [[morpheme]]s with non-syllabic endings are followed by morpheme-initial consonants, such as when the [[transitivity (grammatical category)|transitive]] [[grammatical gender|animate]] conjunct ending -''at'' is followed by the third person plural marker -''k''.  The result is not ''atk'' but rather ''acik''.  Note the [[Palatalization (sound change)|palatalization]] of the /t-i/ sequence.  This insertion does not occur before semivowels such as {{IPA|/w/}} or in certain specific combinations.  Because Plains Cree does not accept the phonological sequence {{IPA|/ww/}}, however, one {{IPA|/w/}} is dropped.  When the morpheme {{IPA|/ahkw/}}, a marker for the [[Clusivity|inclusive]] plural in the conjunct order, is followed by {{IPA|/waːw/}}, the third person plural marker, the word is realized as {{IPA|/ahkwaːw/}}.<ref name="Wolfart (1973b)"/>
+
+====Vowel sequences====
+The [[semivowel|glide]] {{IPA|/j/}} is inserted between two [[vowel length|long vowels]], which is why the combination of ''kīsikā'' "be day" and ''āpan'' "be dawn" forms ''kīsikāyāpan'' "it is day-break".  Also, the combination of a [[vowel length|long vowel]] and a [[vowel length|short vowel]] deletes the [[vowel length|short vowel]].  Therefore, ''nīpā'' "in the dark" and ''ohtē'' "walk" form ''nīpāhtēw'' "he walks in the dark".  This [[deletion (phonology)|deletion]] is true whether the [[vowel length|short vowel]] occurs before or after the [[vowel length|long vowel]].  When two [[vowel length|short vowels]] occur in sequence, however, it is the second that deletes.  For instance, the [[word stem|stem]] ''ositiyi'' "his foot/feet" combines with the [[locative case|locative]] [[suffix]] /ehk/ to produce ''ositiyihk'' "on his foot/feet".  Normal patterns of [[vowel]] combination and [[deletion (phonology)|deletion]], however, are set aside during [[prefix]]ation, a process in which a {{IPA|[t]}} is [[epenthesis|inserted]] between [[vowel]]s when the personal [[prefix]]es ''ki-'', ''ni-'', ''o-'', and ''mi-'' precede a stem-initial vowel.  As a result, when the personal prefix for "I" ''ni-'' is [[affix]]ed to the [[word stem|stem]] for "sit" ''apin'', the word is realized as ''nitapin'' instead of ''nipin''.  In isolated cases, {{IPA|/h/}} or {{IPA|/w/}} is sometimes [[epenthesis|inserted]] instead of {{IPA|[t]}}, such as the word ''nihayān'' "I have it".<ref name="Wolfart (1973b)"/>
+
+====Palatalization====
+[[Palatalization (sound change)|Palatalization]] of the sounds {{IPA|/θ/}} and {{IPA|/t/}} to {{IPA|/s/}} and {{IPA|/t͡s/}} respectively occurs before the vowels {{IPA|/i/}} and {{IPA|/iː/}} as well as the consonant {{IPA|/j/}}.  For example, the [[Word stem|stem]] {{IPA|/naːθ/}} "fetch" becomes ''kināsin'' "you fetch me" before the [[suffix|ending]] {{IPA|/in/}}  and ''kinātitin'' "I fetch you" where it is not palatalized before the [[suffix|ending]] {{IPA|/etin/}}.  This pattern includes several important exceptions, including that of the [[word stem|stem]] ''wāt-'' "hole".  Before the [[grammatical gender|inanimate]] [[grammatical person|proximate]] singular [[suffix]] {{IPA|/i/}}, one would expect the {{IPA|/t/}} to become either {{IPA|/s/}} or {{IPA|/t͡s/}} but it does not. [[Palatalization (sound change)|Palatalization]] is also found in [[diminutive]]s, where all instances of {{IPA|/t/}} in a word are replaced by {{IPA|[c]}} before the [[diminutive|diminutive suffixes]] {{IPA|/es/}}, {{IPA|/esis/}}, etc.  Thus, ''nitēm'' "my horse" would become ''nicēmisis'' "my little horse" and ''atimw-'' {{IPA|/aθemw/}} "dog" would realize as ''acimosis'' "little dog". [[Palatalization (sound change)|Palatalization]] to indicate [[diminutive|diminution]] extends even to internal changes within the [[word stem|stem]].  This is why the statement ''yōtin'' "it is windy" can change to ''yōcin'' to say that "it is a little windy".<ref name="Wolfart (1973b)"/>
+
+====Apocopation====
+Word-final [[vowel length|short vowels]] tend to be subject to [[apocope]] except for when the [[word stem|stem]] is [[syllable|syllabic]].  That is, the word {{IPA|/sīsīp-a/}} would become ''sīsīp'' "duck" but {{IPA|/nisk-a/}} remains ''niska'' "goose" because the [[word stem|stem]] is composed of only a single [[syllable]].  Similarly, post-consonantal word-final {{IPA|/w/}} is lost.  In the case of the Plains Cree word for "dog" {{IPA|/atimwa/}}, the {{IPA|/w/}} is only lost after the [[vowel length|short vowel]] {{IPA|/a/}} is dropped when the plural [[suffix]] -''k'' is added.  Thus, the word is realized ''atim'' while its plural form is ''atimwak''.<ref name="Wolfart (1973b)"/>
+
+====Surface variations====
+In normal, everyday spoken Plains Cree, several phonological contractions are observed.  For instance, final [[vowel]]s can merge with the initial [[vowel]] of the following word.  This is how the phrase ''nāpēw mīna atim'' is reduced to ''nāpēw mīn ātim'' "a man and a dog".  In this case, the [[contraction (grammar)|contraction]] involved the same [[vowel]]; the first [[vowel]] is taken and included in the second word in its long form.  When the contraction involves different [[vowel]]s, the first [[vowel]] is deleted and the second is lengthened: ''nāpēw mīna iskwēw'' "a man and a woman" is reduced to ''nāpēw mīn īskwēw''.  Contraction does not always occur, and the [[word#Word boundaries|word boundary]] may also be distinguished by the [[epenthesis|insertion]] of the {{IPA|/h/}} sound: ''mīna iskwēw'' and ''mīna(h) iskwēw'' respectively.  Within words, [[vowel length|short vowels]] may also disappear when they are [[stress (linguistics)|unstressed]], especially between {{IPA|[s]}} and {{IPA|[t]}} or {{IPA|[n]}} and {{IPA|[s]}}.  In normal speech, for example, the greeting ''tānisi'' "hello" is reduced to ''tānsi''.<ref name="Wolfart (1973)"/>
+
+===Syllable structure and stress===
+The [[stress (linguistics)|stress pattern]] of Plains Cree is dependent on the number of [[syllable]]s rather than on [[vowel length]].  For instance, in [[syllable|disyllabic]] words, it is the last [[syllable]] that receives primary [[stress (linguistics)|stress]], as in the word /is'kwe:w/ ''iskwēw'' "woman" or /mih'ti/ ''mihti'' "piece of firewood".  Words of three [[syllable]]s or more exhibit primary [[stress (linguistics)|stress]] on the third [[syllable]] from the end.  In this case, [[stress (linguistics)|secondary stress]] falls on alternate [[syllable]]s from the [[antepenult]].  One may observe, for instance, that the word ''pasakwāpisimowin'' "Shut-Eye Dance"  is pronounced /'pasa'kwa:pi'simo'win/.  This rule holds even in cases where the penultimate [[syllable]] is long.
+
+====Phonotactics====
+
+The [[syllable]] itself consists of an optional [[syllable onset|onset]], a peak obligatory [[vowel]] and an optional [[syllable coda|coda]].  The [[syllable onset|onset]] can be non-syllabic or a [[consonant]], sometimes followed by a ''w''.  Although any [[vowel]] can occur in any position in the word, the long vowels {{IPA|/iː/, /eː/,}} and {{IPA|/oː/}} are found only rarely in initial and final positions.  Plains Cree does not permit [[vowel cluster]]s; clusters of identical non-syllabics; or [[fricative]]s followed by a [[fricative]], [[nasal stop|nasal]], or ''y''.  The [[Syllable coda|coda]], when it occurs, is either {{IPA|[s] or [h]}} but many Plains Cree words end in a [[vowel]].<ref name="Wolfart (1996)"/>
+
+The following table describes the phonotactics of Plains Cree by the distribution of consonants and semivowels with relation to the obligatory vowel. Parentheses indicate optional components.<ref name="Wolfart (1996)" />
+
+{| class="wikitable"
+|-
+! Word-initial (#_V) !! Word-medial (V_V) !! Word-final (V_#)
+|-
+| p(w) || (h,s)p(w) || (h,s)p
+|-
+| t(w) || (h,s)t(w) || (h,s)t
+|-
+| c(w) || (h,s)c(w) || (h,s)c
+|-
+| k(w) || (h,s)k(w) || (h,s)k
+|-
+|      ||      h(w) ||
+|-
+| s    ||      s(w) ||      s
+|-
+| m(w) ||      m(w) ||      m
+|-
+| n    ||      n(w) ||      n
+|-
+| w    ||      w    ||      w
+|-
+| y    ||      y(w) ||      y
+|-
+|      ||     hy    ||
+|}
+
+==Morphology==
+Plains Cree is classified as a [[polysynthetic language|polysynthetic]] [[fusional language]] as a result of the complexity of its [[affix]] combinations.  Apart from four personal [[prefix]]es, Plains Cree utilizes [[suffix]]es exclusively.<ref name="Wolfart (1996)"/>
+
+===Nouns===
+Because almost all grammatical information is stored within the [[verb]], [[noun]]s in Plains Cree are relatively simple. [[Noun]]s can be marked with possessive [[prefix]]es, which are paired with [[suffix]]es for [[plural]] [[possessive pronouns]] like that for our (excl.) ''ni(t)-...-inān''. [[morphology (linguistics)|Nominal morphology]], like the [[language]] in general, is nevertheless dominated by [[suffix]]es.  This includes the [[diminutive suffix]], plural number [[suffix]]es -''ak'' and -''a'', and the [[locative]] [[suffix]] -''ihk''.  These forms each have predictable [[allomorph]]s.  Additional [[suffix]]es include those to mark [[obviative|obviation]].<ref name="Wolfart (1973)"/><ref name="Bakker (2006)"/>
+
+{| class="wikitable" 
+|+ Personal Prefixes (excl. third persons)
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st Person
+! exclusive
+| rowspan="2" | /ni-/
+| /ni(t)-...-ina:n/
+|-
+! inclusive
+| /ki(t)-...-inaw/
+|-
+! colspan="2" | 2nd Person
+| /ki(t)-/
+| /ki(t)-...-iwa:w/
+|-
+! rowspan="2" | 3rd Person
+! proximate
+| /o(t)-/
+| rowspan="2" | /o(t)-...-iwa:w/
+|-
+! obviative
+| /o(t)-...iyiw/
+|}
+
+===Verbs===
+
+====Position classes====
+Bakker (2006) provides several position class templates for the [[morpheme]]s in the [[verb]]s of Plains Cree, the following of which is the most derived.
+
+* Preverbs
+** A – Person [or conjunct]
+** B – Tense
+** C – Mood
+** D – Aspect 1
+** E – Aspect 2
+** F – Aspect 3
+** G – Aktionsart (Lexical Aspect)
+* Stem
+* Suffixes
+** I – Possessed object (Obviation)
+** II – Direction/Theme
+** III – Valency
+** IV – Voice
+** V – Possessed subject (Obviation)
+** VI – Person
+** VII – Plural
+** VIII – Conditional
+
+Bakker (2006) observes that this model does contain contradictions relating to the ordering of [[preverb]]s and that this is likely due to the multiple functions of some [[preverb]]s.  That is, identical forms with distinct meanings can occur at different positions in the [[verb]] complex.<ref name="Bakker (2006)"/>
+
+Wolfart (1973b) identifies two [[preverb]] position classes, position 1 and 2.  The [[preverb]]s of position 1 are few and mutually exclusive while those of position 2 make up an open class of particles, of which several may occur in succession.  The [[preverb]]s of position 1 include subordinating particles like /e:/ or /ka:/ and the [[preverb]]s /ka/ and /kita/, which indicate subsequence or futurity.  Position 2 [[preverb]]s are arranged [[semantics|semantically]] along a scale from [[abstract object|abstract]] to concrete.  Abstract [[preverb]]s include /a:ta/ "although, in vain", in ''ē-āta-kitōtāt'' "although he spoke to him", and /wi:/ "will, intend to", as in ''wī-mēscihāwak'' "they will all be killed".  An example of a concrete [[preverb]] can be found in /ka:mwa:ci/ "quietly", in ''kī-kāmwāci-pimātisiwak '', or /ne:wo/ "four" in ''ē-kī-nēwo-tipiskāyik'' "when the fourth night passed".<ref name="Wolfart (1973b)"/>  Bakker (2006) classes [[grammatical tense|tense]] as a position 1 [[preverb]] but the following [[grammatical mood|mood]] as both a position 1 and position 2 [[preverb]]. [[grammatical aspect|Aspect]] 1 and the [[lexical aspect|Aktionsart]] are also classified as position 2 [[preverb]]s.  The difference between [[grammatical aspect|Aspect]] 2 and 3 seems to be that of length, with 2 being [[durative]] and 3 being iterative.<ref name="Bakker (2006)"/>
+
+====Reduplication====
+Two types of [[reduplication]] occur to [[verb]]s and particle roots to denote continuity, repetition or intensity.  The first type changes the [[Word stem|stem]] during the process and is not predictable, common, or productive.  For example, the root ''pim''- "along" becomes ''papām''- "about".  The productive type of [[reduplication]] places the [[reduplication|reduplicated]] [[syllable]] in front of the [[Word stem|root]].  The [[reduplication|reduplicated]] [[syllable]] is formed from the first [[consonant]] of the word and an {{IPA|/aː/}}.  The final form looks like {{IPA|/kaːkiːpa/}} "over and over".  In words beginning with a [[vowel]], the [[reduplication]] is marked by {{IPA|/ay-/}}, as evidenced by the word {{IPA|/ayaːtotam/}} "he tells it over and over".<ref name="Wolfart (1973b)"/>
+
+==Syntax==
+
+===Word order===
+The basic [[transitivity (grammar)|transitive]] [[sentence (linguistics)|sentence]] is of the form SVO, such as ''awāsisak nipahēwak sīsīpa'' "the children killed some ducks", but the other forms (SOV, VSO, VOS, OVS, and OSV) are also possible. [[Subject (grammar)|Subject]] and object [[noun phrase]]s both may be omitted. Thus "the children killed some ducks" may also be expressed ''nipahēwak sīsīpa'' "they killed some ducks", ''awāsisak nipahēwak'' "the children killed them" or ''nipahēwak'' "they killed them".<ref name="Wolfart (1996)"/>
+
+It is uncommon in conversation for the [[subject (grammar)|subject]] and object of a [[verb]] to be realized by full [[noun phrase]]s.  Most often, the highly marked parallel [[noun phrase]]s are used to indicate emphasis. In [[narrative|narration]], [[sentence (linguistics)|sentences]] with full parallel [[noun phrase]]s often mark the beginning or end of discourse, indicate [[peripeteia]] in [[narrative]], or introduce new information.  Sentences of the OSV form with two full [[noun]]s occur extremely infrequently.<ref name="Wolfart (1996)"/>
+
+===Direction and obviation===
+[[direct–inverse language|Direction]], or the [[semantics|semantic]] designation of the actor-goal relationship, is [[morphology (linguistics)|morphologically]] expressed through theme signs that also show agreement between the [[verb]] and its nominal complements.  In Plains Cree, direction is dependent on [[direct–inverse language|person hierarchy]], or the order of person-marking [[morpheme]]s in the verb.  The [[direct–inverse language|person hierarchy]] in Plains Cree is:  {{nowrap|2 > 1 > 3 > 3'}}.  Note that 3' refers to the [[obviative]] [[grammatical person|third person]].  Derivational [[suffix]]es mark whether the [[semantics|semantic]] roles of persons follow this [[direct–inverse language|person hierarchy]] or invert it, called direct or inverse form respectively.  The following examples place the second person marker first linearly but the [[direct–inverse language|direct]] and [[direct–inverse language|inverse]] [[suffix]]es change the [[semantics|semantic]] roles.  The direct marker /-i-/ in the sentence ''ki-wāpam-i-n'' indicates that it should be read "you see me".  The reading is reversed to "I see you" in the sentence ''ki-wāpam-iti-n'' because of the inverse marker /-iti-/.<ref name="Bakker (2006)"/>  Compare the difference in meaning between the two directions in the following tables.<ref name="Wolfart (1973b)"/>
+
+{| class="wikitable"
+|+ Direct Set
+! (2-1)
+! (1-3)
+! (3-(3'))
+! (3'-(3'))
+|-
+| {{interlinear|'''kit'''asam'''in'''|you feed me}}
+| {{interlinear|'''nit'''asam'''āw'''|I feed him}}
+| {{interlinear|asam'''ēw'''|He feeds him}}
+| {{interlinear|asam'''ēyiwa'''|He feeds him}}
+|}
+
+{| class="wikitable"
+|+ Inverse Set
+! (1-2)
+! (3-1)
+! ((3')-3)
+! ((3')-3')
+|-
+| {{interlinear|'''kit'''asam'''itin'''|I feed you}}
+| {{interlinear|'''nit'''asam'''ik'''|He feeds me}}
+| {{interlinear|asam'''ik'''|He feeds him}}
+| {{interlinear|asam'''ikoyiwa'''|He feeds him}}
+|}
+
+Note that the situation is made more complicated when both referents are [[grammatical person|third persons]] because Plains Cree implements [[obviative|obviation]].  For example, we have the sentence ''sēkihēw nāpēw atimwa''.  The [[verb]] ''sēkihēw'' "scare" contains the direct-set marker /-e:w-/, indicating that the [[Grammatical person|proximate third person]] is acting on the [[obviative]].  The [[noun]] ''nāpēw'' "man" is marked as [[grammatical person|proximate]] through the absence of a [[suffix]] while the [[noun]] ''atimwa'' "dog" contains the [[obviative]] [[suffix]] /-wa/.  Thus the [[sentence (linguistics)|sentence]] reads "the man scares the dog", with special emphasis on the [[grammatical person|proximate]] "man".  This is contrasted by the [[sentence (linguistics)|sentence]] ''sēkihik nāpēw atimwa'', where the markers for [[obviative|obviation]] are the same but the direction marker is now the inverse-set /-ik/ representing action of the [[obviative]] [[grammatical person|third person]] on the [[Grammatical person|proximate third]].  Therefore, the [[sentence (linguistics)|sentence]] becomes "the dog scares the man" and the emphasis still lies with the [[grammatical person|proximate]] "man".  Of course, the [[sentence (linguistics)|sentence]] may require that the dog ''atim'' be the [[grammatical person|proximate]] [[noun]], in which case the sentence would be either ''sēkihēw nāpēwa atim'' "the dog (3) scares(3-(3')) the man (3')" or ''sēkihik nāpēwa atim'' "the man (3') scares ((3')-3) the dog (3)". [[direct–inverse language|Direction]] and [[obviative|obviation]] are not versions of the [[passive voice|passive]], which is formed separately in Plains Cree.<ref name="Wolfart (1973b)"/>
+
+===Locative suffix===
+Because Plains Cree does not have a true [[grammatical case|case marking system]], it has to instead rely on [[direct–inverse language|direction]], [[obviative|obviation]], and the locative [[suffix]].  This [[suffix]], /ehk/ or its variant /ena:hk/, has the basic meanings of ''at'', ''in'', ''on'', etc.  The simple locative [[suffix]] /ehk/ can be used with [[word stem|stems]] or possessed themes, such as the [[word stem|stem]] ''skāt'' "leg".  The [[personal pronoun]] /ni-/ can be added to the [[word stem|stem]] to make ''niskāt'' "my leg" and the addition of the plural [[suffix]] /-a/ makes ''niskāta'' "my legs".  On top of these changes, the simple locative [[suffix]] is affixed to produce ''niskātihk'' "on my leg(s)".  The distributive locative [[suffix]] /ena:hk/ is used with [[noun]]s that reference humans or animals.  In this way, ''ayīsiyiniw-'' "human being" becomes ''ayīsiyinināk'' "among humans" or "in this world".  Similarly, the [[noun]] ''sāsīw'' "Sarci Indian" changes to "at Sarci Reserve" ''sāsīnāhk''.<ref name="Wolfart (1973b)"/>
+
+===Noun incorporation===
+According to Denny (1978), Wolfart identifies [[intransitive verb]]s with transitive stems as clear examples of [[incorporation (linguistics)|noun incorporation]] because they can be reworded with the medial replaced by independent [[noun]]s.  The example ''nōcihiskwēwēw'' "he chases women" is given to illustrate the inclusion of the [[noun]] woman ''iskwēw'' within the [[verb]] complex, which can be paraphrased as ''iskwēwa nōcihēw'' "he pursues a woman".  Denny (1978) contends that these [[sentence (linguistics)|sentences]] have an importance [[semantics|semantic]] difference in that the meaning of the incorporative form is narrower and denotes habitual action.  He argues that the medial, or [[noun]] classifier, has taken on an adverbial meaning in this context.  This is illustrated in the Plains Cree sentence ''wanihastimwēw'' "he loses his horse" or, literally, "he horse-loses".<ref name="Denny (1978)"/>
+
+==Vocabulary==
+
+Plains Cree is one of several dialects of Cree-Montagnais.  The following tables show words in Plains Cree and corresponding words in a selection of other Cree dialects.  A number of similarities and some differences can be seen.  In some cases the differences are only in orthography.  Plains Cree has some regular sound correspondences with other [[Cree language#Dialect criteria|Cree-Montagnais dialects]], and in some cases the differences between Plains Cree and other dialects exemplify these regular correspondences.  Note that in terms of linguistic classification, the East Cree dialect which appears in these tables is a dialect of Montagnais.
+
+In the following table, each noun is given in its singular form.  All forms are either specifically proximate, or can be either proximate or obviate.  If a noun is possessed, the possessor is first person singular.
+
+{| class="wikitable"
+|+ Some Plains Cree nouns and their counterparts in other Cree-Montagnais dialects
+|-
+! 
+! Plains Cree
+! Woods Cree
+! Swampy Cree, eastern
+! East Cree, southern inland
+|-
+| "axe"
+| ᒌᑲᐦᐃᑲᐣ ''cīkahikan''
+| ᒉᑲᐦᐃᑲᐣ ''cīkahikan''
+| ᒌᑲᐦᐃᑲᐣ ''cīkahikan''
+| ᐅᓯᑖᔅᒄ ''usitaaskw''
+|-
+| "bear"
+| ᒪᐢᑿ ''maskwa''
+| ᒪᐢᑿ ''maskwa''
+| ᒪᐢᑾ (western ᒪᐢᑿ) ''maskwa''
+| ᒪᔅᒄ ''maskw'' (but also ᒋᔐᔮᒄ ''chisheyaakw'', ᑳᑰᔥ ''kaakuush'')
+|-
+| "book"
+| ᒪᓯᓇᐦᐃᑲᐣ ''masinahikan''
+| ᒪᓯᓇᐦᐃᑲᐣ ''masinahikan''
+| ᒪᓯᓇᐦᐃᑲᐣ ''masinahikan''
+| ᒪᓯᓇᐦᐄᑲᓂᔥ ''masinahiikan''
+|-
+| "car"
+| ᓭᐦᑫᐤ ''sēhkēw''
+| ᐅᑖᐹᓈᐢᐠ ''otāpānāsk''
+| 
+| ᐅᑖᐹᓐ ''utaapaan''
+|-
+| "clock"
+| ᐲᓯᒧᐦᑳᐣ ''pīsimohkān''
+| ᐯᓯᒧᐦᑳᐣ ''pīsimohkān''
+| 
+| ᐲᓯᒧᐦᑳᓐ ''piisimuhkaan''
+|-
+| "dog"
+| ᐊᑎᒼ ''atim''
+| ᐊᑎᒼ ''atim''
+| ᐊᑎᒼ ''atim''
+| ᐊᑎᒽ ''atimw''
+|-
+| "fire"
+| ᐃᐢᑯᑌᐤ ''iskotēw''
+| ᐃᐢᑯᑌᐤ ''iskotīw''
+| ᐃᐡᑯᑌᐤ ''iškotew''
+| ᐃᔥᑯᑌᐤ ''ishkuteu''
+|-
+| "fish"
+| ᑭᓄᓭᐤ ''kinosēw''
+| ᑭᓄᓭᐤ ''kinosīw''
+| 
+| ᓇᒣᔅ ''names''
+|-
+| "gun"
+| ᐹᐢᑭᓯᑲᐣ ''pāskisikan''
+| ᐹᐢᑭᓯᑲᐣ ''pāskisikan''
+| ᐹᐢᑭᓯᑲᐣ ''pāskisikan''
+| ᐹᔅᒋᓯᑲᓐ ''paaschisikan''
+|-
+| "horse"
+| ᒥᐢᑕᑎᒼ ''mistatim''
+| ᒥᐢᑕᑎᒼ ''mistatim'', ᒥᓴᑎᒼ ''misatim''
+| (western ᒥᓴᑎᒼ ''misatim'')
+| ᑳᐸᓚᑯᔥᑴᐤ ''kaapalakushkweu'', ᐊᐦᐋᔅ ''ahâs''
+|-
+| "hospital"
+| ᐋᐦᑯᓰᐏᑲᒥᐠ ''āhkosīwikamik''
+| ᐋᐦᑯᓭᐏᑲᒥᐠ ''āhkosīwikamik''
+| ᐋᐦᑯᓰᐎᑲᒥᐠ ''āhkosīwikamik''
+| ᐋᐦᑯᓰᐅᑲᒥᒄ ''aahkusiiukamikw''
+|-
+| "knife"
+| ᒨᐦᑯᒫᐣ ''mōhkomān''
+| ᒧᐦᑯᒫᐣ ''mohkomān''
+| ᒨᐦᑯᒫᐣ ''mōhkomān''
+| ᒨᐦᑯᒫᓐ ''muuhkomaan''
+|-
+| "man (male adult)"
+| ᓈᐯᐤ ''nāpēw''
+| ᓈᐯᐤ ''nāpīw''
+| ᓈᐯᐤ ''nāpew''
+| ᓈᐯᐤ ''naapeu''
+|-
+| "money"
+| ᓲᓂᔮᐤ ''sōniyāw''
+| 
+| ᔔᓂᔮᐤ ''šōniyāw''
+| ᔔᓕᔮᐤ ''shuuliyaau''
+|-
+| "moose"
+| ᒨᔁ ''mōswa''
+| ᒨᔁ ''mōswa''
+| ᒨᐢ ''mōs'' (western ᒨᔁ ''mōswa'')
+| ᒨᔅ ''muus''
+|-
+| "my father"
+| ᓅᐦᑖᐏᕀ (ᓅᐦᑖᐃ'''᛬''') ''nōhtāwiy'', ᓂᐹᐹ ''nipāpā''
+| ᓂᐹᐹ ''nipāpā'', ᓄᐦᑖᐏᕀ ''nōhtāwiy''
+| ᓅᐦᑖᐎᕀ (western ᓅᐦᑖᐏᕀ) ''nōhtāwiy''
+| ᓅᐦᑖᐐ ''nuuhtaawii''
+|-
+| "my mother"
+| ᓂᑳᐏᕀ (ᓂᑳᐃ'''᛬''') ''nikāwiy'', ᓂᐹᐹ ''nimāmā''
+| ᓂᒫᒫ ''nimāmā'', ᓂᑳᐏᕀ ''nikāwiy''
+| (western ᓂᑳᐏᕀ ''nikāwiy'')
+| ᓂᑳᐐ ''nikaawii''
+|-
+| "my older brother"
+| ᓂᐢᑌᐢ ''nistēs''
+| ᓂᐢᑌᐢ ''nistīs''
+| ᓂᐢᑌᐢ ''nistes'' (western ''nistēs'')
+| ᓂᔅᑌᔅ ''nistes''
+|-
+| "my older sister"
+| ᓂᒥᐢ ''nimis''
+| ᓂᒥᐢ ''nimis''
+| ᓂᒥᐢ ''nimis'' (also western)
+| ᓂᒥᔅ ''nimis''
+|-
+| "my younger brother/sister"
+| ᓂᓰᒥᐢ ''nisīmis''
+| ᓂᓭᒥᐢ ''nisīmis''
+| (western ᓂᓰᒥᐢ ''nisīmis'')
+| ᓂᔒᒻ ''nishiim''
+|-
+| "shoe"
+| ᒪᐢᑭᓯᐣ ''maskisin''
+| ᒪᐢᑭᓯᐣ ''maskisin''
+| ᒪᐢᑭᓯᐣ ''maskisin''
+| ᒪᔅᒋᓯᓐ ''maschisin''
+|-
+| "sugar"
+| ᓲᑳᐤ ''sōkāw'', ᓰᐏᓂᑲᐣ ''sīwinikan''
+| ᓲᑳᐤ ''sōkāw''
+| 
+| ᔔᑳᐤ ''shuukaau''
+|-
+| "town"
+| ᐆᑌᓈᐤ ''ōtēnāw''
+| 
+| ᐃᐦᑖᐎᐣ ''ihtāwin''
+| ᐃᐦᑖᐎᓐ ''ihtaawin'', ᐅᑌᓇᐤ ''utenau''
+|-
+| "tree"
+| ᒥᐢᑎᐠ ''mistik''
+| ᒥᐢᑎᐠ ''mistik''
+| ᒥᐢᑎᐠ ''mistik''
+| ᒥᔥᑎᒄ ''mishtikw''
+|-
+| "woman"
+| ᐃᐢᑵᐤ ''iskwēw''
+| ᐃᐢᑵᐤ ''iskwīw''
+| ᐃᐢᑶᐤ ''iskwew''
+| ᐃᔅᑶᐤ ''iskweu''
+|}
+
+In the following table, each verb is given with a third person singular subject, and if a verb is transitive, with a third person object or objects (primary and secondary).  The pronouns used in the English translations are imprecise due to an imprecise correspondence of Cree categories with English categories.  “He/she" in a subject and “him/her" in an object refer to Cree animate gender even when “it" might be a better English translation.  So for example the verb “he/she kills him/her/them", might describe a bear killing a moose, in which case "it kills it" would be a better English translation.  In the table, “it" in a subject or an object refers to Cree inanimate gender.  The presence of “they" or “them" indicates that the subject or object could be either singular or plural.  And finally, the designation “him/her/it/them" indicates that the object could be either animate or inanimate and either singular or plural.
+
+{| class="wikitable"
+|+ Some Plains Cree verbs and their counterparts in other Cree-Montagnais dialects
+|-
+! 
+! Plains Cree
+! Woods Cree
+! Swampy Cree, eastern
+! East Cree, southern inland
+|-
+| "he/she arrives"
+| ᑕᑯᓯᐣ ''takosin''
+| 
+| ᑕᑯᔑᐣ ''takošin''
+| ᑕᑯᔑᓐ ''takushin''
+|-
+| "he/she can see enough of it/them"
+| ᑌᐹᐸᐦᑕᒼ ''tēpāpahtam''
+| 
+| ᑌᐹᐸᐦᑕᒼ ''tepāpahtam''
+| ᑌᐹᐸᐦᑕᒻ ''tepaapahtam''
+|-
+| "he/she coughs"
+| ᐅᐢᑐᐢᑐᑕᒼ ''ostostotam''
+| 
+| ᐅᐢᑐᐢᑐᑕᒼ ''ostostotam''
+| ᐅᔥᑐᑕᒻ ''ushtutam''
+|-
+| "he/she dies, ceases to live"
+| ᓂᐱᐤ ''nipiw'', ᐴᓂᐱᒫᑎᓯᐤ ''pōnipimātisiw''
+| 
+| ᓂᐱᐤ ''nipiw''
+| ᐴᓂᐱᒫᑎᓰᐤ ''puunipimaatisiiu''
+|-
+| "he/she embarks"
+| ᐴᓯᐤ ''pōsiw''
+| 
+| ᐴᓯᐤ ''pōsiw''
+| ᐴᓲ ''puusuu''
+|-
+| "he/she gives him/her/it/them to him/her/them"
+| ᒥᔦᐤ ''miyēw''
+| ᒣᖧᐤ ''mīthīw''
+| ᒦᓀᐤ ''mīnew''
+| ᒦᔦᐤ ''miiyeu''
+|-
+| "he/she is sleeping"
+| ᓂᐹᐤ ''nipāw''
+| 
+| ᓂᐹᐤ ''nipāw''
+| ᓂᐹᐤ ''nipaau''
+|-
+| "he/she kills him/her/them"
+| ᓂᐸᐦᐁᐤ ''nipahēw''
+| 
+| ᓂᐸᐦᐁᐤ ''nipahew''
+| ᓂᐸᐦᐁᐤ ''nipaheu''
+|-
+| "he/she knows him/her/them"
+| ᑭᐢᑫᔨᒣᐤ ''kiskēyimēw''
+| 
+| ᑭᐢᑫᓂᒣᐤ ''kiskenimew''
+| ᒋᔅᒉᔨᒣᐤ ''chischeyimeu''
+|-
+| "he/she laughs"
+| ᐹᐦᐱᐤ ''pāhpiw''
+| ᐹᐦᐱᐤ ''pāhpiw''
+| ᐹᐦᐱᐤ ''pāhpiw''
+| ᐹᐦᐴ ''paahpuu''
+|-
+| "he/she lives"
+| ᐱᒫᑎᓯᐤ ''pimātisiw''
+| 
+| ᐱᒫᑎᓯᐤ ''pimātisiw''
+| ᐱᒫᑎᓰᐤ ''pimaatisiiu''
+|-
+| "he/she plays"
+| ᒣᑕᐍᐤ ''mētawēw''
+| ᒣᑕᐍᐤ ''mītawīw''
+| 
+| ᒣᑕᐌᐤ ''metaweu''
+|-
+| "he/she sees him/her/them"
+| ᐚᐸᒣᐤ ''wāpamēw''
+| ᐚᐸᒣᐤ ''wāpamīw''
+| ᐙᐸᒣᐤ ''wāpamew''
+| ᐙᐸᒣᐤ ''waapameu''
+|-
+| "he/she sees it/them"
+| ᐚᐸᐦᑕᒼ ''wāpahtam''
+| ᐚᐸᐦᑕᒼ ''wāpahtam''
+| ᐙᐸᐦᑕᒼ ''wāpahtam''
+| ᐙᐸᐦᑕᒼ ''waapahtam''
+|-
+| "he/she shoots him/her/them"
+| ᐹᐢᑭᓷᐤ ''pāskiswēw''
+| ᐹᐢᑭᓷᐤ ''pāskiswīw''
+| 
+| ᐹᔅᒋᓷᐤ ''paaschisweu''
+|-
+| "he/she shoots it/them"
+| ᐹᐢᑭᓴᒼ ''pāskisam''
+| 
+| ᐹᐢᑭᓴᒼ ''pāskisam''
+| ᐹᔅᒋᓴᒻ ''paaschisam''
+|-
+| "he/she shoots"
+| ᐹᐢᑭᓯᑫᐤ ''pāskisikew''
+| 
+| ᐹᐢᑭᓯᑫᐤ ''pāskisikew''
+| ᐹᔅᒋᓯᒉᐤ ''paaschisicheu''
+|-
+| "he/she walks"
+| ᐱᒧᐦᑌᐤ ''pimohtēw''
+| ᐱᒧᐦᑌᐤ ''pimohtīw''
+| ᐱᒧᐦᑌᐤ ''pimohtew''
+| ᐱᒧᐦᑌᐤ ''pimuhteu''
+|-
+| "he/she works"
+| ᐊᑐᐢᑫᐤ ''atoskēw''
+| ᐊᑐᐢᑫᐤ ''atoskīw''
+| ᐊᑐᐢᑫᐤ ''atoskew''
+| ᐊᑐᔅᒉᐤ ''atuscheu''
+|-
+| "it is big"
+| ᒥᓵᐤ ''misāw''
+| 
+| ᒥᔖᐤ ''mišāw''
+| ᒥᔖᐤ ''mishaau''
+|-
+| "it is nice"
+| ᒥᔼᓯᐣ ''miywāsin''
+| 
+| ᒥᓍᔑᐣ ''minwāšin''
+| ᒥᔻᔔ ''miywaashuu''
+|-
+| "it is raining"
+| ᑭᒧᐘᐣ ''kimowan''
+| ᑭᒧᐘᐣ ''kimowan''
+| ᑭᒧᐗᐣ ''kimowan''
+| ᒋᒧᐎᓐ ''chimuwin''
+|-
+| "it is snowing"
+| ᒥᐢᐳᐣ ''mispon''
+| ᒥᐢᐳᐣ ''mispon''
+| ᒥᐢᐳᐣ ''mispon''
+| ᒥᔅᐳᓐ ''mispun''
+|-
+| "it is windy"
+| ᔫᑎᐣ ''yōtin''
+| ᖫᑎᐣ ''thōtin''
+| ᓅᑎᐣ ''nōtin''
+| ᔫᑎᓐ ''yuutin''
+|-
+| "it tastes good"
+| ᒥᔪᐢᐸᑿᐣ ''miyospakwan''
+| 
+| ᒥᓄᐢᐸᑾᐣ ''minospakwan''
+| ᒥᔪᔅᐳᑯᓐ ''miyuspukun''
+|}
+
+{| class="wikitable"
+|+ Some Plains Cree particles and their counterparts in other Cree-Montagnais dialects
+|-
+! 
+! Plains Cree
+! Woods Cree
+! Swampy Cree, western
+! East Cree, southern inland
+|-
+| "in the morning"
+| ᑫᑭᓭᑊ ''kēkisēp'', ᑮᑭᓭᑊ ''kīkisēp''
+| 
+| (eastern ᑫᑭᔐᑊ ''kekišep'')
+| ᒉᒋᔐᑉ ''chechishep''
+|-
+| "outside"
+| ᐘᔭᐑᑎᒥᕽ ''wayawītimihk''
+| ᐘᖬᐍᑎᒥᕽ ''wathawītimihk''
+| (eastern ᐗᓇᐐᑎᒥᕽ ''wanawītimihk'')
+| ᐐᐐᑎᒥᐦᒡ ''wiiwiitimihch''
+|-
+| "one"
+| ᐯᔭᐠ ''pēyak''
+| ᐯᔭᐠ ''pīyak''
+| ᐯᔭᐠ ''pēyak'' (eastern ''peyak'')
+| ᐯᔭᒄ ''peyakw''
+|-
+| "two"
+| ᓃᓱ ''nīso''
+| ᓀᓱ ''nīso''
+| ᓃᓱ ''nīso'' (eastern ᓃᔓ ''nīšo'')
+| ᓃᔓ ''niishu''
+|-
+| "three"
+| ᓂᐢᑐ ''nisto''
+| ᓂᐢᑐ ''nisto''
+| ᓂᐢᑐ ''nisto''
+| ᓂᔥᑐ ''nishtu''
+|-
+| "four"
+| ᓀᐓ ''nēwo''
+| ᓀᔪ ''nīyo''
+| ᓀᐓ ''nēwo''
+| ᓀᐅ ''neu''
+|-
+| "five"
+| ᓂᔮᓇᐣ ''niyānan''
+| ᓂᔮᓇᐣ ''niyānan''
+| ᓂᔮᓇᐣ ''niyānan''
+| ᓂᔮᔨᓐ ''niyaayin''
+|-
+| "six"
+| ᓂᑯᑤᓯᐠ ''nikotwāsik''
+| ᓂᑯᑤᓯᐠ ''nikotwāsik''
+| ᓂᑯᑤᓯᐠ ''nikotwāsik''
+| ᓂᑯᑣᔥᒡ ''nikutwaashch''
+|-
+| "seven"
+| ᑌᐸᑯᐦᑊ ''tēpakohp''
+| ᑌᐸᑯᐦᑊ ''tīpakohp''
+| ᑌᐸᑯᐦᑊ ''tēpakohp''
+| ᓃᔣᔥᒡ ''niishwaashch''
+|-
+| "eight"
+| ᐊᔨᓈᓀᐤ ''ayinānēw''
+| ᐊᔨᓈᓀᐤ ''ayinānīw''
+| ᐊᔨᓈᓀᐤ ''ayinānēw''
+| ᓂᔮᓈᓀᐤ ''niyaanaaneu''
+|-
+| "nine"
+| ᑫᑲ ᒥᑖᑕᐦᐟ ''kēka-mitātaht''
+| ᑫᑲ ᒥᑖᑕᐦᐟ ''kīka-mitātaht''
+| ᑫᑲ ᒥᑖᑕᐦᐟ ''kēka-mitātaht''
+| ᐯᔭᑯᔥᑌᐤ ''peyakushteu''
+|-
+| "ten"
+| ᒥᑖᑕᐦᐟ ''mitātaht''
+| ᒥᑖᑕᐦᐟ ''mitātaht''
+| ᒥᑖᑕᐦᐟ ''mitātaht''
+| ᒥᑖᐦᑦ ''mitaaht''
+|}
+
+Words sources for these tables are:  Plains Cree, the Online Cree Dictionary website;<ref name="OCD"/> Woods Cree, the Gift of Language and Culture website<ref name="GLCW"/> and the Saskatchewan Indian Languages website,<ref name="SIL"/> western Swampy Cree, the Saskatchewan Indian Languages website;<ref name="SIL"/> eastern Swampy Cree, Ontario Ministry of Education (2002),<ref name="OME"/> and East Cree, the Eastern James Bay Cree Language website.<ref name="EJBC"/>  Note that where a table entry is blank, it is because the word was not found in these listed sources; without additional information this should not be interpreted to imply that the word does not exist for the dialect in question.
+
+==Writing systems==
+Two [[orthography|writing systems]] are used for Plains Cree: [[Cree syllabics|Syllabics]] and [[Latin script]].
+
+===Cree Syllabics===
+Plains Cree follows the [[Western Cree syllabics|western Cree usage]] of [[Canadian Aboriginal syllabics]].<ref name="Language Geek"/>  The distinguishing features of western Cree syllabics are the position of the ''w''-dot and the use of western finals.  The western ''w''-dot is placed after its syllabic, as in ᒷ ''mwa'' (eastern ᒶ ''mwa'').  The form of a western final is unrelated to the corresponding syllabic with ''a''-nucleus, whereas an eastern final is like superscript version of the corresponding syllabic with ''a''-nucleus; thus the western final ᐟ ''t'' bears no resemblance to ᑕ ''ta'' (eastern final ᑦ ''t''), and western final ᒼ ''m'' is not like ᒪ ''ma'' (eastern final ᒻ ''m'').
+
+Some Plains Cree communities use a final for ''y'' which is different from the usual western final.  This is a superposed dot ᐝ, instead of the usual ᐩ, as in ᓰᐱᐩ (ᓰᐱᐝ) ''sīpiy'' “river".  When the dot ''y''-final is placed after a syllabic which has a ''w''-dot, the two dots combine to form a colon-like symbol, as in ᓅᐦᑖᐏᐩ (ᓅᐦᑖᐃ'''᛬''') ''nōhtāwiy'' “my father".
+
+Writing style in syllabics can differ with respect to [[Canadian Aboriginal syllabics#Points and pointing|''pointing'']].  In the Online Cree Dictionary, examples can be found of words with vowel length not distinguished due to lack of pointing.<ref name="OCD"/>
+
+===Standard Roman Orthography===
+{{See also|Cree language#Romanization}}
+Plains Cree's Standard Roman Orthography (SRO) uses fourteen letters of the [[ISO basic Latin alphabet]] to denote the dialect's ten consonants (''p'', ''t'', ''c'', ''k'', ''s'', ''m'', ''n'', ''w'', ''y'' and ''h'') and seven vowels (''a'', ''i'', ''o'', ''ā'', ''ī'', ''ō'' and ''ē''). [[Letter case|Upper case]] letters are not used.<ref name="How to Spell it in Cree">{{cite book | last1=Okimāsis | first1=Jean | last2=Wolvengrey | first2=Arok | name-list-style=amp | title=How to Spell it in Cree (The Standard Roman Orthography) | publisher=Houghton Boston | location=Saskatoon, Saskatchewan | year=2008 | isbn=978-0-9784935-0-9}}</ref>{{RP|5}}
+
+The stops, ''p'', ''t'', ''k'', and the affricate, ''c'', can be pronounced either voiced or unvoiced, but the symbols used for writing these sounds all correspond to the unvoiced pronunciation, e.g. ''p'' not ''b'', ''t'' not ''d'', etc.  The phoneme /t͡s/ is represented by ''c'', as it is in various [[letter c|other languages]].
+
+Long vowels are denoted with either a [[Macron (diacritic)|macron]], as in ''ā'', or a [[circumflex]], as in ''â''.<ref name="Language Geek"/><ref name="How to Spell it in Cree" />{{rp|4, 7–8}} Use of either the macron or circumflex is acceptable, but usage should be consistent within a work. The vowel ''ē'' /eː/, used in southern Plains Cree, is always long and the grapheme ''e'' is never used (in northern Plains Cree the sound has merged with ''ī'', thus ''ē'' isn't used at all).<ref name="How to Spell it in Cree"/>{{RP|8}}
+
+The use of unmarked ''o'' and marked ''ō'' for the phonemes /u/ and /oː/ emphasizes the relationship that can exist between these two vowels.  There are situations where ''o'' can be lengthened to ''ō'', as for example in ᓂᑲᒧ! ''nikamo!'' “sing (now)!" and ᓂᑲᒨᐦᑲᐣ! ''nikamōhkan!'' “sing (later)!".
+
+An acute accent is sometimes used on ''y'' for the sake of mutual intelligibility with speakers of Woods Cree and Swampy Cree, where ''ý'' would be replaced by ''ð'' or ''n'' respectively. E.g. {{lang|crk-Latn|kīýa}} ('you') vs. {{lang|cwd-Latn|kīða}} or {{lang|csw-Latn|kīna}}.<ref name="How to Spell it in Cree" />{{RP|7}}
+
+==References==
+<references>
+<!-- It is easier to maintain a reference list in alphabetical and date order -->
+<ref name="Bakker (2006)">Bakker, P.  2006.  Algonquian Verb Structure:  Plains Cree, in "What's in a Verb", ed. by Grazyna Rowicka and Eithne Carlin.</ref>
+<ref name="Bloomfield (1934)">Bloomfield, L.  (1934).  ''Plains Cree Texts''. New York: AMS Press, 1974 (reprinted). {{ISBN|0-404-58166-8}}</ref>
+<ref name="Denny (1978)">Denny, Peter J.  1978.  "The Semantic Roles of Medials within Algonquian Verbs".  International Journal of American Linguistics 44.2:  153-155.</ref>
+<ref name="EJBC">[http://www.eastcree.org/cree/en/ Eastern James Bay Cree Language website]</ref>
+<ref name="esask">[http://esask.uregina.ca/entry/poundmaker_c_1842-86.html Poundmaker (c. 1842-86)] {{Webarchive|url=https://web.archive.org/web/20111129005114/http://esask.uregina.ca/entry/poundmaker_c_1842-86.html |date=2011-11-29 }} Encyclopedia of Saskatchewan</ref>
+<ref name="GLCW">{{Cite web |url=http://www.giftoflanguageandculture.ca/index.html |title=Gift of Language and Culture website |access-date=2010-10-26 |archive-url=https://web.archive.org/web/20150817120219/http://www.giftoflanguageandculture.ca/index.html |archive-date=2015-08-17 |url-status=dead }}</ref>
+<ref name="Language Geek">{{Cite web |url=http://www.languagegeek.com/algon/cree/nehiyawewin.html |title=Language Geek: Cree |access-date=2006-01-08 |archive-url=https://web.archive.org/web/20120204041554/http://www.languagegeek.com/algon/cree/nehiyawewin.html |archive-date=2012-02-04 |url-status=dead }}</ref>
+<ref name="Laverdure">Laverdure, P. and I.R. Allard.  1983.  ''The Michif Dictionary: Turtle Mountain Chippewa Cree''.  Pemmican Publications. Winnipeg.</ref>
+<ref name="OCD">[http://www.creedictionary.com nehiyaw masinahikan / ᓀᐦᐃᔭᐤ ᒪᓯᓇᐦᐃᑲᐣ / Online Cree Dictionary]</ref>
+<ref name="OME">Ontario Ministry of Education (2002), [http://www.edu.gov.on.ca/eng/document/curricul/ojibwe.pdf Resource Guide, The Ontario Curriculum Grades 1 to 12, Native Languages, A Support Document for the Teaching of Language Patterns, Ojibwe and Cree]</ref>
+<ref name="SIL">[http://www.sicc.sk.ca/heritage/sils/ourlanguages/index.html Saskatchewan Indian Languages website] {{webarchive|url=https://web.archive.org/web/20110927052049/http://www.sicc.sk.ca/heritage/sils/ourlanguages/index.html |date=2011-09-27 }}</ref>
+<ref name="Silver and Miller (1997)">Silver, S. and Wick R. Miller.  (1997).  ''American Indian Languages:  Cultural and social contexts''.  Tucson:  The University of Arizona Press.</ref>
+<ref name="Wolfart (1973)">Wolfart, H. Christoph and Janet F. Carroll. (1973). ''Meet Cree:  A guide to the Cree language''.  Edmonton:  University of Alberta Press.</ref>
+<ref name="Wolfart (1973b)">Wolfart, H. Christoph. (1973). ''Plains Cree: a Grammatical Study''. American Philosophical Society Transactions n.s. 63, pt. 5. Philadelphia.</ref>
+<ref name="Wolfart (1996)">Wolfart, H. Christoph. 1996. Sketch of Cree, an Algonquian language. In ''Handbook of North American Indians'', ed. by Ives Goddard, Vol. 17: 390-439.</ref>
+</references>
+
+==Bibliography==
+{{refbegin}}
+
+* Dahlstrom, Amy. ''[http://escholarship.org/uc/item/7g81p0mw Plains Cree Morphosyntax]''. Outstanding dissertations in linguistics. New York: Garland Pub, 1991. {{ISBN|0-8153-0172-3}}
+* Hirose, Tomio. ''[http://worldcatlibraries.org/wcpa/oclc/52127595?page=frame&url=http%3A%2F%2Fwww.loc.gov%2Fcatdir%2Fenhancements%2Ffy0651%2F2003008584-d.html&title=&linktype=digitalObject&detail= Origins of predicates evidence from Plains Cree]''. Outstanding dissertations in linguistics. New York: Routledge, 2003. {{ISBN|0-415-96779-1}}
+* McIlwraith, Naomi Lynne.  2007.  "Nitohta anohc. Nakatohke. Now listen. Listen hard: A creative study of Nehiyawewin, the Plains Cree language, and the reasons for its preservation," University of Alberta MA thesis.
+*{{cite book | author=Wolfart, H. Christoph and Freda Ahenakew| title=The Student's Dictionary of Literary Plains Cree, Based on Contemporary Texts | publisher=Algonquian and Iroquoian Linguistics Memoirs 15. [[Winnipeg, Manitoba|Winnipeg]]: [[University of Manitoba]] Linguistics Department | year=1998 | isbn=0-921064-15-2}}
+* Wolvengrey, Arok. ''nēhiýawēwin: itwēwina''. Canadian Plains Research Centre. Regina: 2001. {{ISBN|0-88977-127-8}}
+
+{{refend}}
+
+==External links==
+*[https://web.archive.org/web/20150514215943/http://www.giftoflanguageandculture.ca/Plains%20Cree%20learning.htm Plains Cree – Y dialect]
+* Bakker, Peter. [https://web.archive.org/web/20110724171851/http://lotos.library.uu.nl/publish/articles/000151/bookpart.pdf Algonquian verb structure: Plains Cree] in ''What’s in a verb?'' (LOT Occasional Series 5). Landelijke Onderzoekschool Taalwetenschap (Utrecht: 2006). {{ISBN|90-76864-94-2}} {{ISBN|978-90-76864-94-5}}
+*[http://www.language-archives.org/language/crk OLAC resources in and about the Plains Cree language]
+*[http://giellatekno.uit.no/cgi/index.crk.eng.html Plains Cree language tools: Morphological and syntactic analysis of running text, latin/syllabic conversion, inflecting dictionary, ICALL language learning program]
+*[https://dictionary.plainscree.atlas-ling.ca/#/help Plains Cree Dictionary]
+*[http://www.creedictionary.com/ Online Cree Dictionary]
+
+{{Cree language}}
+{{First Nations in Alberta}}
+{{Languages of Canada}}
+{{Languages of British Columbia}}
+{{Languages of Montana}}
+
+[[Category:Cree language]]
+[[Category:Central Algonquian languages]]
+[[Category:Indigenous languages of the North American Plains]]
+[[Category:First Nations languages in Canada]]
+[[Category:Indigenous languages of Montana]]
+[[Category:Culture of Alberta]]

@@ -1,0 +1,579 @@
+{{Infobox language
+| name = Sierra Popoluca
+| altname = Soteapanec
+| nativename = ''Nuntajɨyi''
+| states = [[Mexico]]
+| region = [[Veracruz]]
+| speakers = {{sigfig|36113|2}}
+| date=2020 census
+| ref=<ref>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+| familycolor = American
+| fam1 = [[Mixe–Zoquean languages|Mixe–Zoquean]]
+| fam2 = [[Zoque languages|Zoquean]]
+| fam3 = Gulf Zoquean
+| iso3 = poi
+| agency = [[Instituto Nacional de Lenguas Indígenas|INALI]]
+| glotto = high1276
+| glottorefname = Highland Popoluca
+| notice = IPA
+| lingua = 69-HAB-aa
+}}
+
+'''Sierra Popoluca''', also known as '''Soteapanec''', '''Soteapan Zoque''', or '''Highland Popoluca''', is a developing [[Mixe–Zoque languages|Mixe-Zoquean language]] of the [[Zoque languages|Zoquean]] branch.<ref>{{Cite web|url=https://www.ethnologue.com/language/poi|title=Popoluca, Highland|website=Ethnologue|language=en|access-date=2019-04-19}}</ref> It has 35,050 speakers (INALI, 2009)<ref name=":40">INALI (2009). [http://www.endangeredlanguages.com/lang/6169/samples/7846 ''Catálogo de las Lenguas Indígenas Nacionales: Variantes Lingüísticas de México con sus autodenominaciones y referencias geoestadísticas.''] México.</ref> who live in the southern part of [[Veracruz]], [[Mexico]]. Sierra Popoluca has two sister languages, [[Texistepec language|Texistepec]] and [[Ayapa Zoque|Ayapanec]], both of which are severely endangered.<ref name=":0">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=7}}</ref>
+
+The word ''[[popoluca]]'' means "gibberish” in [[Nahuatl]], and the name Sierra Popoluca comes from the language being labelled as such at the time of conquest. To avoid the derogatory connotations of ''popoluca'', some researchers have adopted the name Soteapanec for the language instead (named after the largest municipality it is spoken in). However, modern speakers do not seem to be concerned with the history of the word and simply see it as the name of their language.<ref name=":1">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=4}}</ref> Natively, speakers refer to the language as ''Nuntajɨyi'', which means "true word," and themselves as ''Nundajɨypappɨc''.{{Citation needed|date=May 2019}}
+
+== Distribution ==
+Sierra Popoluca is spoken in the following municipalities:<ref name=":41">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=3}}</ref>
+
+* [[Soteapan]]
+* [[Tatahuicapan]]
+* [[Hueyapan de Ocampo]]
+
+Other communities where it is spoken include Catemaco, Piedra Labrada, and Santa Rosa Cintepec. [[Nahuatl]] and [[Spanish language|Spanish]] are also spoken in nearby areas, and have influenced Sierra Popoluca through language contact.<ref name=":51">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=6-8}}</ref>
+
+==Phonology==
+
+=== Vowels ===
+Sierra Popoluca has twelve vowel phonemes: six distinct [[Short vowel|short vowels]] (front vowels /i/ and /ɛ/, central vowels /ɘ/ and /a/, and back vowels /u/ and /ɔ/) with a corresponding [[long vowel]] for each.<ref name=":2">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=20-21}}</ref>
+
+{| class="wikitable" style="text-align:center"
+|+Vowel Phonemes
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]][[Back vowel|-Back]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|High]]
+|{{IPAlink|i}} iː
+|
+|{{IPAlink|u}} uː
+|-
+![[Close-mid vowel|High-mid]]
+|
+|{{IPAlink|ɘ}} ɘː
+|
+|-
+![[Mid vowel|Mid]]
+|{{IPAlink|ɛ}} ɛː
+|
+|{{IPAlink|ɔ}} ɔː
+|-
+![[Open vowel|Low]]
+|
+|{{IPAlink|a}} aː
+|
+|}
+
+=== Consonants ===
+Sierra Popoluca's consonant inventory consists of thirteen consonants.<ref name=":2" />
+
+{| class="wikitable" style="text-align:center"
+|+Consonant Phonemes
+!
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+![[Nasal consonant|Nasal]]
+|{{IPAlink|m}}
+|{{IPAlink|n}}
+|
+|{{IPAlink|ŋ}}
+|
+|-
+![[Plosive]]
+|{{IPAlink|p}}
+|{{IPAlink|t}}
+|
+|{{IPAlink|k}}
+|{{IPAlink|ʔ}}
+|-
+![[Affricate]]
+|
+|{{IPAlink|ts}}
+|
+|
+|
+|-
+![[Fricative]]
+|
+|{{IPAlink|s}}
+|
+|
+|{{IPAlink|h}}
+|-
+![[Approximant]]
+|{{IPAlink|w}}
+|
+|{{IPAlink|j}}
+|
+|
+|-
+!Unspecified segment
+|
+|
+|
+|
+|H
+|}
+
+Some words in Sierra Popoluca contain "an unspecified underlying segment, identified as the segment /H/."<ref name=":52">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=41}}</ref> Depending on the environment it appears in, /H/ can alternate in three different ways, as described by the rules below:<ref name=":52" />
+{|
+|+'''/H/ Alternation Rules'''
+|&nbsp;(1)
+|&nbsp;&nbsp;&nbsp;&nbsp;H
+|&nbsp;&nbsp;&nbsp;&nbsp;→ː
+|&nbsp;&nbsp;&nbsp;&nbsp;/
+|&nbsp;&nbsp;&nbsp;&nbsp;V__C
+|-
+|&nbsp;(2)
+|&nbsp;&nbsp;&nbsp;&nbsp;H
+|&nbsp;&nbsp;&nbsp;&nbsp;→ːh
+|&nbsp;&nbsp;&nbsp;&nbsp;/
+|&nbsp;&nbsp;&nbsp;&nbsp;V__#
+|-
+|&nbsp;(3)
+|&nbsp;&nbsp;&nbsp;&nbsp;H
+|&nbsp;&nbsp;&nbsp;&nbsp;→Ø
+|&nbsp;&nbsp;&nbsp;&nbsp;/
+|&nbsp;&nbsp;&nbsp;&nbsp;V__wɘm
+|}
+In addition to its main consonant inventory, Sierra Popoluca also has a restricted phoneme inventory consisting of eleven consonants. These consonants are considered "restricted" because the only words they appear in are either [[Ideophone|ideophones]], Spanish borrowings, or stylistic alterations.<ref name=":2" />
+{| class="wikitable"
+|+Restricted Phonemes
+!
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Alveolo-palatal consonant|Alveo-palatal]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+|- style="text-align:center"
+![[Stop consonant|Stop]]
+|b
+|d
+|tʲ, dʲ
+|
+|g
+|- style="text-align:center"
+![[Affricate consonant|Affricate]]
+|
+|
+|tʃ
+|
+|
+|- style="text-align:center"
+![[Fricative consonant|Fricative]]
+|
+|
+|ʃ
+|
+|
+|- style="text-align:center"
+![[Nasal consonant|Nasal]]
+|
+|
+|
+|ɲ
+|
+|- style="text-align:center"
+![[Liquid consonant|Liquid]]
+|
+|l
+|
+|
+|
+|- style="text-align:center"
+![[Flap consonant|Flap]]
+|
+|ɾ
+|
+|
+|
+|- style="text-align:center"
+![[Trill consonant|Trill]]
+|
+|r
+|
+|
+|
+|}
+
+=== Syllable structure ===
+Sierra Popoluca's syllabic template is (C)CV(ː)(ʔ)(C)(C). Words containing examples of each syllable structure are given in the table below:<ref name=":3">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=49-50}}</ref>
+{| class="wikitable"
+|+Syllables
+!Structure
+!Word
+!Translation
+|-
+|CV
+|[ku.'tʲuːm]
+|'alone'
+|-
+|CVː
+|['kɘː.piʰ]
+|'firewood'
+|-
+|CVC
+|['pakʰ]
+|'bone'
+|-
+|CVːC
+|['huːtʲʰ]
+|'where'
+|-
+|CVʔC
+|['kaʔn.puˀ]
+|'egg'
+|-
+|CVʔCC
+|[ʔa.'sɔʔps.paˀ]
+|'it tires me'
+|-
+|CCVC
+|['traj.tʲiˀ]
+|'kid, adolescent male'
+|-
+|CCVCC
+|['kruʔj.tʲiˀ]
+|'quail'
+|}
+Sierra Popoluca has [[Phonotactics|phonotactic]] restrictions on both onset and coda clusters. For onsets, only the clusters /tr/, /kr/, and /kw/ are allowed. For codas, all two consonant clusters must begin with one of /p, k, ʔ/, and three consonant clusters are restricted to only /ʔps/ and /ʔks/.<ref name=":17">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=51-53}}</ref>
+
+=== Stress ===
+There are three degrees of stress in Sierra Popoluca: primary stress (which may fall on the penultimate or ultimate syllable), secondary stress (which is assigned to the leftmost syllable that is not a clitic), and tertiary stress (which falls on the heaviest syllable preceding primary stress). Words containing examples of each stress paradigm are given in the table below:<ref name=":4">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=59}}</ref>
+{| class="wikitable"
+|+Stress Paradigms
+!Paradigm
+!Word
+!Translation
+|-
+|Primary
+|nümnéʔ
+|'He had said.'
+|-
+|Secondary
+|nǜmneʔyájpa
+|'They have said.'
+|-
+|Tertiary
+|nǜmmàʔyyajtáabam
+|'They are told.'
+|}
+
+==Morphology==
+Sierra Popoluca is an [[Agglutinative language|agglutinating]], [[Polysynthetic language|polysynthetic]] language whose morpheme inventory is primarily inflectional and consists of roughly an equal number of clitics and suffixes, with no prefixes. The morphological processes reduplication and compounding are also observed in Sierra Popoluca.<ref name=":18">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=81}}</ref>
+
+Sierra Popoluca has three major word classes: nouns, verbs, and adjectives.<ref name=":18" />
+
+=== Suffixes ===
+Sierra Popoluca has 28 suffixes, all of which can be categorized as either [[Derivational morpheme|derivational]], [[Inflectional morphemes|inflectional]], or [[Valency (linguistics)|valency]] adjusting. Nouns only take derivational suffixes whereas verbs take suffixes from all three categories.<ref name=":19">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=84}}</ref> Examples of each suffix type are given in the table below:
+{| class="wikitable"
+|+Suffix Examples
+!Suffix
+!Type
+!Function
+!Word
+!Gloss
+!Translation
+|-
+|''-i''
+|Derivational
+|Nominalizer
+|wiʔk-i
+|eat-NOM
+|'food'<ref name=":5">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=133}}</ref>
+|-
+|''-ü''
+|Inflectional
+|Imperative
+|koony-ü
+|sit-IMP
+|'sit' (command)<ref name=":6">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=346}}</ref>
+|-
+|''-ʔüʔy''
+|Derivational
+|Provisory
+|jawanh-ʔüʔy
+|fever-PROV
+|'have a fever'<ref name=":7">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=143}}</ref>
+|-
+|''-ʔiny''
+|Inflectional
+|Optative
+|matonh-ʔiny
+|listen-OPT
+|'should listen'<ref name=":6" />
+|-
+|''-taH''
+|Valency adjusting
+|Passive
+|suy-taH
+|lasso-PASS
+|'be lassoed'<ref name=":8">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=359}}</ref>
+|}
+
+=== Proclitics ===
+There are 17 proclitics in Sierra Popoluca. Out of these, ten are used for person marking, three are used for valency adjusting, two are derivational, and the final two have other, unique functions. Verbs in Sierra Popoluca can take all proclitic types while nouns can take all but valency adjusting proclitics.<ref name=":20">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=90-93}}</ref> Examples of various proclitics are given in the table below:
+{| class="wikitable"
+|+Proclitic Examples
+!Proclitic
+!Type
+!Function
+!Word
+!Gloss
+!Translation
+|-
+|''ʔan+''
+|Person marking
+|1st person possessive,
+exclusive
+|ʔan+ʔakʔanh
+|1POSS:EXCL+griddle
+|'my griddle'<ref name=":9">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=114}}</ref>
+|-
+|''ʔiga+''
+|Other
+|Complementizer
+|ʔiga+Ø+teeny-W
+|COMP+3ABS+stand-CMP
+|'that [he] was standing up'<ref name=":10">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=599}}</ref>
+|-
+|''tan+''
+|Person marking
+|1st person ergative,
+inclusive
+|tan+juy
+|1ERG:INCL+buy
+|'we buy'<ref name=":11">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=119}}</ref>
+|-
+|''ʔak+''
+|Valency adjusting
+|Causative
+|ʔak+kuʔt
+|CAUS+eat
+|'feed'<ref name=":12">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=393}}</ref>
+|-
+|''ʔagi+''
+|Other
+|Intensifier
+|ʔagi+wej
+|INTENS+cry
+|'cry a lot'<ref name=":13">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=94}}</ref>
+|}
+
+=== Enclitics ===
+Sierra Popoluca has nine enclitics, six of which are adverbial, two of which are inflectional, and one of which is a relativizer. Nouns can take all three types of enclitic whereas verbs can only take adverbial enclitics. Examples of each enclitic type are given in the table below:<ref name=":14">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=94-99}}</ref>
+{| class="wikitable"
+|+Enclitic Examples
+!Enclitic
+!Type
+!Function
+!Word
+!Gloss
+!Translation
+|-
+|''+yaj''
+|Inflectional
+|3rd/nonhuman plural
+|tzaʔ+yaj
+|rock+NHPL
+|'rocks'
+|-
+|''+tyi''
+|Adverbial
+|"just"
+|yüʔüm+tyi
+|here+just
+|'just over here'
+|-
+|''+tam''
+|Inflectional
+|1st/2nd human plural
+|yoomo+tam
+|woman+HPL
+|'women'
+|-
+|''+püʔk''
+|Relativizer
+|Relativizer
+|tum puktuuku yagatz+püʔk
+|one cloth large+REL
+|'a cloth that's large'
+|-
+|''+nam''
+|Adverbial
+|"still"
+|tzüüxi+nam
+|small+still
+|'still small'
+|}
+
+=== Reduplication ===
+Reduplication of the root (full reduplication) is observed with both nouns and verbs in Sierra Popoluca, and can be inflectional or derivational.<ref name=":21">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=414-415}}</ref> Though generally used to convey intensity or frequency, reduplication can also express "a sense of wandering around repeating an action"<ref name=":21" /> when paired with the ambulative suffix ''-ʔoʔy''.<ref name=":222">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=256}}</ref> Various examples of reduplication are given in the table below:
+{| class="wikitable"
+|+Reduplication Examples
+!Function
+!Word
+!Gloss
+!Translation
+|-
+|Derivational
+|looko~looko
+|sound~REDUP
+|'shout'<ref name=":222" />
+|-
+|Frequency, intensity
+|ʔaʔm~ʔaʔm
+|look~REDUP
+|'watch'<ref name=":15">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=335}}</ref>
+|-
+|Ambulative
+|monh~monh-ʔoʔy
+|sleep~REDUP-AMBUL
+|'sleep from place to place'<ref name=":15" />
+|-
+|Frequency, intensity
+|was~was
+|bite~REDUP
+|'bite repeatedly'<ref name=":16">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=521}}</ref>
+|-
+|Intensity
+|ʔuk~ʔuk
+|drink~REDUP
+|'drink all'<ref name=":16" />
+|}
+
+=== Compounding ===
+Compounding is observed in all word classes in Sierra Popoluca and is highly productive.<ref name=":232">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=140}}</ref> Various examples of compound words are given in the table below:
+{| class="wikitable"
+|+Compounding Examples
+!Structure
+!Word
+!Gloss
+!Translation
+|-
+|N=N
+|mok=yooya
+|corn=pig
+|'peccary'<ref name=":232" />
+|-
+|N=V
+|pooy=ʔix
+|moon=see
+|'menstruate'<ref name=":25">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=487}}</ref>
+|-
+|N=N
+|tzuj-i=nüʔ
+|spit-NOM=water
+|'saliva'<ref name=":232" />
+|-
+|ADJ=N
+|müj=pak
+|big=bone
+|'waist'<ref name=":24">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=167}}</ref>
+|-
+|N=V
+|manük=wat
+|child=make
+|'impregnate'<ref name=":25" />
+|}
+
+== Syntax ==
+Sierra Popoluca is an [[Ergative–absolutive language|ergative-absolutive]], [[Head-marking language|head-marking]] language. At minimum, the basic clause can consist of just a predicate, as shown below:<ref name=":26">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=433}}</ref>{{interlinear|ʔa+seet-pa|1ABS:EXCL+return-INC|'I return.'|abbreviations=INC:incompletive; 1ABS:first person absolutive|indent=3|italics1=no}}At maximum, it can include an inflected complex predicate and up to three modified arguments:<ref name=":26" />{{interlinear|ʔan+jaatunh ʔi+maʔy{{=}}chiʔ-W tunh.gak püüxiny jeʔm ʔan+yooya|1POSS:EXCL+father 3ERG+sell{{=}}give-COMPL one.another man that 1POSS:EXCL+pig|'My father sold another man my pig.'|abbreviations=1POSS:first person possessive; 3ERG:third person ergative|indent=3|italics1=no}}
+
+=== Basic word order ===
+Word order in Sierra Popoluca is pragmatically determined for the most part. In transitive sentences, all six possible word orders are attested, as shown below:<ref name=":27">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=434-435}}</ref>
+
+&nbsp;&nbsp;&nbsp; '''VSO'''{{Interlinear|ʔokmü ʔi+ma?y-W ʔan+tüüwü jeʔm potro|after 3ERG+sell-COMPL 1POSS:EXCL+brother that colt|'Afterward, my brother sold the mare.'|indent=2|abbreviations=1POSS:first person possessive; 3ERG:third person ergative|italics1=no}}
+&nbsp;&nbsp;&nbsp; '''VOS'''{{Interlinear|ʔi+ʔix-W kaʔnpu jeʔm choomo nüʔ-küʔ.mü|3ERG+see-COMPL egg that grandmother water-at/during|'The old woman saw the egg in the water.'|indent=2|abbreviations=3ERG:third person ergative|italics1=no}}
+&nbsp;&nbsp;&nbsp; '''SVO'''{{Interlinear|jeʔm yoomo ʔagi+ʔi+ʔaʔm-W jeʔm tzuʔukiny|that woman INT+3ERG+look-COMPL that worm|'The woman looked intensely at the worm.'|indent=2|abbreviations=3ERG:third person ergative|italics1=no}}
+&nbsp;&nbsp;&nbsp; '''SOV'''{{Interlinear|jay{{=}}tzüüx+tyam+yaj woonyi+tyam ʔi+mük.ʔüʔy.ʔaʔy-yaj-pa|boy{{=}}child+HPL+NHPL girls+HPL 3ERG+lie.ANTIP.BEN-3PL-INC|'The boys cheat the girls.'|indent=2|abbreviations=HPL:human plural; NHPL:nonhuman plural; INC:incompletive; 3ERG:third person ergative|italics1=no}}
+&nbsp;&nbsp;&nbsp; '''OVS'''{{Interlinear|yüʔp many{{=}}mok ʔi+na+miny-W+ʔam ʔin+müʔüt|this young{{=}}corn 3ERG+ASS+come-COMPL+IAM 2ERG+son.in.law|'Your son in law brought this corn.'|indent=2|abbreviations=3ERG:third person ergative; 2ERG:second person ergative; IAM:iamative|italics1=no}}
+&nbsp;&nbsp;&nbsp; '''OSV'''{{Interlinear|mich ʔin+choomo dya jeʔm+püʔk mi+toy-taʔm-pa|2PRO 2POSS+grandmother NEG that+REL 2ABS+love-{{gcl|1:2PL|speech act participant plural}}-INC|'Your grandmother doesn't love you.'|indent=2|abbreviations=2POSS:second person possessive; 2PRO:second person pronoun; 2ABS:second person absolutive; INC:incompletive|italics1=no}}
+
+In intransitive sentences, both possible word orders are attested:<ref name=":28">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=440}}</ref>
+
+&nbsp;&nbsp;&nbsp; '''SV'''{{Interlinear|jeʔm toro tzaʔ-küʔüm Ø+nuʔk-pa|the bull stone-at/during 3ABS+arrive-INC|'The bull arrives at the rock.'|indent=2|abbreviations=3ABS:third person absolutive; INC:incompletive|italics1=no}}&nbsp;&nbsp;&nbsp; '''VS'''{{Interlinear|Ø+nuʔk-W+ʔam jeʔm yoomo|3ABS+arrive-COMPL-IAM that woman|'The woman arrives.'|indent=2|abbreviations=3ABS:third person absolutive; IAM:iamative|italics1=no}}However, not all word orders are used with equal frequency; an analysis of over 4,000 clauses from various texts found the following distribution of word orders in transitive and intransitive sentences:<ref name=":29">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=438-440}}</ref>
+
+'''Distribution of Word Orders by Transitivity'''
+
+{| class="wikitable" style="display: inline-table; margin-top: 0;"
+|+Transitive
+|-
+!Order
+!Frequency
+|-
+|SVO
+|72.37%
+|-
+|VSO
+|5.26%
+|-
+|VOS
+|7.89%
+|-
+|OVS
+|6.58%
+|-
+|OSV
+|2.63%
+|-
+|SOV
+|5.26%
+|}
+{| class="wikitable" style="display: inline-table; margin-top: 0;"
+|+Intransitive
+|-
+!Order
+!Frequency
+|-
+|SV
+|34.86%
+|-
+|VS
+|65.14%
+|}
+
+=== Relative word order ===
+In terms of relative word order, Sierra Popoluca exhibits some structural features common to VO (verb initial) languages and some common to OV (verb final) languages. A few examples of these structures are given below:<ref name=":30">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=435-436}}</ref>
+
+* Possessor precedes possessum (common to OV languages)
+{{Interlinear|diablo ʔi+jos|devil 3POSS+hole|‘devil's hole (hell)’|indent=3|abbreviations=3POSS:third person possessive|italics1=no}}
+
+* Auxiliary verb precedes main verb (common to VO languages)
+{{Interlinear|püüxiny moj-W Ø+wej-i|man begin-COMPL 3ABS+cry-DEP|‘The man began to cry.’|indent=3|abbreviations=3ABS:third person absolutive|italics1=no}}
+
+* Complementizer precedes complement clause (common to VO languages)
+{{Interlinear|ʔi+ʔix-W+tyi+ʔam ʔiga+ʔüch dya ʔan+joʔy-kaʔ-W|3ERG+see-COMPL+just+IAM COMP+1PRO NEG 1ERG:EXCL+be.angry-INSTR-COMPL|‘He saw that I wasn't angry.’|indent=3|abbreviations=IAM:iamative; 1ERG:first person ergative; 3ERG:third person ergative; COMP:complementizer; 1PRO:first person pronoun|italics1=no}}
+
+=== Order of nominal modifiers ===
+Nouns in Sierra Popoluca can be modified by determiners, adjectives, quantifiers, possessors, and relative clauses.<ref name=":31">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=147}}</ref> Whether a modifier precedes or follows the noun it is modifying depends on the modifier, as illustrated below:
+* Demonstratives precede the nouns they modify<ref name=":32">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=151-153}}</ref>
+{{Interlinear|ʔoy-taʔm-W yüʔp kootzük|go.and.return-{{gcl|1:2PL|speech act participant plural}}-COMPL this hill|‘We went to these hills.’|indent=3|italics1=no}}
+* Adjectives precede the nouns they modify<ref name=":33">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=168-169}}</ref>
+{{Interlinear|ʔi+na+miny-wü puro muja kuy|3ERG+ASS+come-COMPL pure wet tree|‘He brought pure wet wood.’|indent=3|abbreviations=3ERG:third person ergative|italics1=no}}
+* Relative clauses may either precede or follow the nouns they modify<ref name=":34">{{Cite book|title=A Grammar of Sierra Popoluca|last=Boudreault|first=Lynda|publisher=Walter de Gruyter GmbH|year=2018|isbn=978-3-11-041167-6|location=Boston,Berlin|pages=184-186}}</ref>
+{{Interlinear|jeʔm ʔi+na+ʔity-yaj-W Ø+müjtam+püʔk tük|that 3ERG+ASS+be-3PL-COMPL 3ABS+big+REL house|‘They have houses that are big.’|indent=3|abbreviations=3ERG:third person ergative; 3ABS:third person absolutive|italics1=no}}
+{{Interlinear|süʔüp na+miny-ü tuum puktuuku Ø+yagatz+püʔk|now ASS+come-IMP one cloth 3ABS+long+REL|‘Now, bring a cloth that's long.’|indent=3|abbreviations=3ABS:third person absolutive|italics1=no}}
+
+== Recordings ==
+*[https://www.ailla.utexas.org/islandora/object/ailla%3A124386 Sierra Popoluca Collection of Lynda Boudreault] from the [[Archive of the Indigenous Languages of Latin America]]. Contains 148 archival files, including audio recordings and transcripts from a wide range of genres.
+
+==Further reading==
+*Kaufman, Terrence. 2016a. ''[https://www.albany.edu/ims/pdlma/2016%20Additions/Kaufman-1995-2016ms-Soteapan%20Gulf%20Sokean%20ethnobotany.pdf Soteapan Gulf Sokean Ethnobotanical Terminology]''. [https://www.albany.edu/ims/PDLMA_publications_new.html Project for the Documentation of the Languages of Mesoamerica].
+*Kaufman, Terrence. 2016b. ''[https://www.albany.edu/ims/pdlma/2016%20Additions/Kaufman-1995-2016ms-Soteapan%20Gulf%20Sokean%20ethnozoology.pdf Soteapan Gulf Sokean Ethnozoological Terminology]''. [https://www.albany.edu/ims/PDLMA_publications_new.html Project for the Documentation of the Languages of Mesoamerica].
+
+==References==
+{{reflist}}
+{{Mixe-Zoque languages}}
+{{Indigenous people of Oaxaca}}
+
+[[Category:Indigenous languages of Mexico]]
+[[Category:Mesoamerican languages]]
+[[Category:Mixe–Zoque languages]]
+
+[[Category:Languages of Mexico]]

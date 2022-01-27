@@ -1,0 +1,201 @@
+{{Short description|Extinct Siouan language of United States}}
+{{more footnotes|date=April 2014}}
+{{Infobox language
+  |name=Ofo
+  |states=[[United States]]
+  |region=[[Mississippi]]
+  |ethnicity=[[Mosopelea]]
+  |extinct=early 20th century
+  |familycolor=American
+  |fam1=[[Siouan languages|Siouan]]
+  |fam2=[[Western Siouan languages|Western Siouan]]
+  |fam3=[[Ohio Valley Siouan languages|Ohio Valley Siouan]]
+  |fam4=Ofo–Biloxi
+  |iso3=ofo
+  |glotto=ofoo1242
+  |glottorefname=Ofo
+  |map=Ofo lang.png
+  |mapcaption=
+}}
+
+The '''Ofo language''' was a language spoken by the [[Mosopelea]] tribe until c. 1673 in what is now [[Ohio]], along the [[Ohio River]]. The tribe moved down the [[Mississippi River]] to [[Mississippi]], near the [[Natchez people]], and then to [[Louisiana]], settling near the [[Tunica-Biloxi|Tunica]].
+
+In the 18th century, the Mosopelea were known under the names ''Oufé'' and ''Offogoula''.{{cn|date=August 2018}} On the basis of the presence of the phoneme /f/ in these names, it was once suspected that Ofo was a [[Muskogean language]]. However, anthropologist [[John R. Swanton]] discovered an aged female speaker of Ofo, Rosa Pierrette in 1908 while he was conducting fieldwork among the Tunica, he was then able to confirm that the language was Siouan and was similar to [[Biloxi language|Biloxi]]. Pierrette had spoken Ofo as a child but Swanton says she told him that the rest of her tribe "had killed each other off" when she was 17.<ref>{{Cite book|url=https://catalog.hathitrust.org/Record/100348200|title=A new Siouan dialect|last=Swanton|first=John Reed|date=1909|publisher=The Torch Press|location=Cedar Rapids, Iowa|pages=483}}</ref>
+
+==Phonology==
+Ofo follows a process similar to [[Grassmann's Law]], with {{IPA|/h/}} counting as an aspirated consonant: {{IPA|/oskʰa/}} 'crane' + {{IPA|/afʰã/}} 'white' > {{IPA|/oskəfʰa/}} 'white egret' and {{IPA|/apʰeti/}} 'fire' + either {{IPA|/təsʰihi/}} 'to burn' or {{IPA|/təsʰihi/}} 'to breathe' > {{IPA|/apesʰihi/}} 'smoke'.<ref>{{Cite journal|last=de Reuse|first=Willem J.|date=1981|title=Grassmann's Law in Ofo|journal=International Journal of American Linguistics|language=en|volume=47|issue=3|pages=243–244|doi=10.1086/465693|s2cid=224809424}}</ref>
+
+The inventory is as follows:<ref name=Rankin>Rankin, Robert. [http://lavis.as.ua.edu/handouts/rankin.pdf "The Ofo Language of Louisiana: Philological Recovery of Grammar and Typology"]. ''LAVIS III: Language Variety in the South: Historical and Contemporary Perspectives''. University of Alabama, 2004. PDF file.</ref>
+
+:{| class="wikitable" style=text-align:center
+|- 
+! colspan=2| 
+! [[Bilabial consonant|Labial]]
+! [[Alveolar consonant|Dental]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|- 
+! rowspan=2| [[Plosive consonant|Plosive]]
+! <small>tenuis</small>
+|  {{IPA|p}} || {{IPA|t}} || {{IPA|t͡ʃ}} || {{IPA|k}} ||
+|- 
+! <small>[[Aspiration (phonetics)|aspirated]]</small>
+|  {{IPA|pʰ}} || {{IPA|tʰ}} || {{IPA|t͡ʃʰ}} || {{IPA|kʰ}} ||
+|- 
+! rowspan=2| [[Fricative consonant|Fricative]]
+! <small>tenuis</small>
+| {{IPA|f}} || {{IPA|s}} || {{IPA|ʃ}} || {{IPA|x}} || {{IPA|h}}
+|- 
+! <small>aspirated</small>
+| {{IPA|fʰ}} || {{IPA|sʰ}} || || ||
+|- 
+! colspan=2 rowspan=2 | [[Sonorant]]
+| {{IPA|w}} || {{IPA|l}} || {{IPA|j}} || ||
+|- 
+| {{IPA|b}}{{clarify|date=May 2014}} || {{IPA|d}}{{clarify|date=May 2014}} || || ||
+|- 
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA|m}} || {{IPA|n}} || || ||
+|}
+
+===Vowels===
+{| class="wikitable" style="text-align:center"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA|i, iː<br>ĩ, ĩː }}
+|
+| {{IPA|u, uː<br>ũ, ũː }}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e, eː}} 
+| {{IPA|ə}}
+| {{IPA|o, oː}} 
+|-
+! [[Low vowel|Low]]
+|
+| {{IPA|a, aː<br>ã, ãː}}
+|
+|}
+
+All vowels, including {{IPA|/ə/}}, may bear stress.
+
+==Morphology==
+Ofo is considered to be a mildly-[[polysynthetic language]].<ref name=Rankin/>
+
+===Possession===
+Ofo distinguishes between alienable and inalienable possession by the use of a prefix for first-, second-, and third-person singular as well as first-person dual. That can be abbreviated to 1sg, 2sg, 3sg, and 1du, respectively. The alienable possessions include the following: 1sg {ba-, aba-}, 2sg {č-, ača-}, 3sg {}, 1du {ã-}. The inalienable possessions include the following: 1sg {mi-}, 2sg {čĩ-}, 3sg {ĩ-}, 1du {ã-}.
+
+===Negation===
+Ofo uses the enclitic suffix ''-ni'', to demonstrate negation. That enclitic is usually after the predicate.
+
+===Pluralization===
+Ofo uses the enclitic suffix -''tu'' to pluralize the subject, the object, or both.
+
+===Instrumental prefixes===
+Instrumental prefixes describe the manner in which an action is carried out. Some instrumental prefixes are below:
+
+*atə- 'by extreme temperature'
+*tu-, du- 'by pulling/hand'
+*ta- 'by mouth'
+*pa- 'by pushing'
+*la- 'by foot'
+*ka- 'by striking'
+*pú- 'by pressure'
+*po- 'by blowing/shooting'
+
+===Person===
+{| class="wikitable"
+|+ Ofo pronouns
+| "'''mí̃ti, mí̃*te'''" 'I, me'
+| "'''čí̃*ti"''' 'you'
+|-
+| "'''í̃*ti'''" 'he'
+| "'''á̃ti, á̃*ti'''" 'we'
+|}
+
+===Gender===
+Ofo appears to have no grammatical gender.
+
+===Space, time, and modality===
+'''Irrealis mood''' consists of the suffix '''-abe'''. It is the equivalent to the future in English:
+
+*óktat-,<u>abe</u>, 'he will kill you'
+*tcóktat-<u>abĕ</u>, 'you will work'
+*atcikthé-be, 'I will kill you'
+
+'''Continuative aspect''' is formed using the word '''nóñki'''.
+
+'''Iterative aspect''' is created by [[reduplication]]:
+
+*è-'''te'''-'''te''', 'sick, keep on suffering'
+*'''šni'''-'''šni'''-we, 'itch, keep on itching'
+*tó-'''fku'''-'''fku'''-pi, 'wink, blink, keep on winking or blinking'
+
+==Syntax==
+The documentation of Ofo does not provide enough information to develop a complete syntax of the language. However, structures also found in related languages have been found.<ref name=Rankin/>
+
+Ofo appears to have a [[head-dependent]] ordering in sentences, which gives it an [[object-verb]] word order. The order of verbs may be described as being clause-final. Many cases appear to support that. An example can be seen below:
+
+{{interlinear|indent=3
+|b-aphú̂ska a-tci-tp-ábe
+|my-fist      I-you-hit-IRR
+|'I will hit you with my fist'}}
+
+===Case===
+Only some forms are known because of a lack of documentation.
+
+[[Dative]] case appears in Ofo and can be interpreted as resembling an [[accusative]] [[pronoun]] in English.
+
+{{interlinear|indent=3
+|tcilétci '''ó̃'''tcĭku
+|your.tongue '''me'''.you.give
+|'hold your tongue!'}}
+
+{{interlinear|indent=3
+|athé '''ã'''tcókpe
+|dress {'''me'''.you.put on}
+|'you help me dress'}}
+
+===Complements and causatives===
+There is no information in the Ofo data to support Ofo having explicit complement clauses. However, it is apparent that embedded clauses precede the main clause.
+
+{{interlinear|indent=3
+|'''détõ-ni''' 			á-kiu-bĕ
+|'''(he).go-COND'''	I-come-IRR
+|'if he goes, I will come'}}
+
+The causative is marked by the [[enclitic]] ''-we''.
+
+{{interlinear|indent=3
+|'''ifphé-we'''
+|'''teach-CAUS'''
+|'to teach'}}
+
+==Sources==
+[[File:A Dictionary of the Biloxi and Ofo Languages.djvu|thumb|A Dictionary of the Biloxi and Ofo Languages]]
+* Holmer, Nils, M., ''An Ofo Phonetic Law'', International Journal of American Linguistics, 13:1, 1947.
+* Moseley, Christopher and R. E. Asher, ed. ''Atlas of the Worlds Languages'' (New York:Routelege, 1994) Map 5
+* Dorsey, J. Owen, and John R. Swanton. 1912. "A Dictionary of the Biloxi and Ofo Languages". Bureau of American
+Ethnology Bulletin 47. Washington, D. C.: Government Printing Office.
+* Swanton, John R. c.1908 [Ofo-English dictionary], Typed and Autographed Document, 613 cards. National
+Anthropological Archives, 2455-OFO, Smithsonian Institution, Washington, DC.
+* Swanton, John R. 1909. A New Siouan Dialect. "Putnam Anniversary Volume: Anthropological Essays Presented to Prederic Ward Putnam in Honor of His Seventieth Birthday", pp.&nbsp;477–86. New York: G. E. Stechert.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.native-languages.org/ofo.htm Ofo on Native Languages]
+
+{{Siouan languages}}
+
+{{DEFAULTSORT:Ofo Language}}
+[[Category:Extinct languages of North America]]
+[[Category:Western Siouan languages]]
+[[Category:Languages of the United States]]
+[[Category:Languages extinct in the 1990s]]

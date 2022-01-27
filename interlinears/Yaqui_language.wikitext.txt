@@ -1,0 +1,405 @@
+{{Infobox language
+| name = Yaqui
+| nativename = ''Yoem Noki''
+| pronunciation = {{IPA-azc|joʔem noki|}}
+| states = [[Mexico]], [[United States|U.S.]]
+| region = [[Sonora]], [[Arizona]]
+| ethnicity = [[Yaqui people]]
+| speakers = {{sigfig|19376|1}} in Mexico
+| date=2020 census
+| ref=<ref name=inegi2020>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+| speakers2=640 in the USA (2015 census)
+| familycolor = Uto-Aztecan
+| fam1 = [[Uto-Aztecan languages|Uto-Aztecan]]
+| fam2 = [[Cahitan languages|Cahitan]]
+| iso3 = yaq
+| glotto = yaqu1251
+| glottorefname = Yaqui
+| notice = IPA
+}}
+
+'''Yaqui''' (or '''Hiaki'''), locally known as '''Yoeme''' or '''Yoem Noki''', is a [[Indigenous people of the Americas|Native American]] language of the [[Uto-Aztecan]] family. It is spoken by about 20,000 [[Yaqui people]], in the [[Mexican state]] of [[Sonora]] and across the border in [[Arizona]] in the [[United States]]. It is partially intelligible with the [[Mayo language]], also spoken in Sonora, and together they are called [[Cahitan languages]].
+
+==Phonology==
+{{unreferenced section|date=December 2013}}
+The remarks below use the [[orthography]] used by the [[Pascua Yaqui Tribe]] in the United States. There are also several orthographic systems used in [[Mexico]] differing slightly, mainly in using [[Spanish language|Spanish]] values for several consonants and Spanish spelling rules: "rohikte" would be written "rojicte". There are minor differences in the sounds of Mexican and American dialects, the latter tending to exclude an intervocalic "r" and final "k".
+
+===Vowels===
+Yaqui vowel sounds are similar to those of Spanish:
+
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}} || || {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}} ~ {{IPA link|ɛ}} || || {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+| || {{IPA link|a}} ||
+|}
+
+Vowels may be either short or [[long vowel|long]] in duration. Often, long vowels are shortened when the word they are used in is used constructively: 'maaso' ('deer') is shortened to 'maso' in 'maso bwikam' ('deer songs'). Long vowels are written by doubling the vowel. Long vowels may change [[tone (linguistics)|tone]], but that is not represented in the written language. Yaqui has often been described as being a tonal or "pitch accent" language,<ref>{{cite book |last1=Dedrick |first1=Eugene |last2=Casad |first2=John |title=Sonoran Yaqui Language Structures |date=1999 |publisher=University of Arizona Press |location=Tucson, AZ}}</ref> but the modern forms of the language do not show any widespread and significant use of [[tonemes]].
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+! colspan="2" |
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Postalveolar consonant|Post-<br /> alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan="2" |[[Stop consonant|Plosive]]
+!<small>voiceless</small>
+|{{IPA link|p}}
+|{{IPA link|t}}
+|
+|
+|{{IPA link|k}}
+|{{IPA link|ʔ}}
+|-
+!<small>voiced</small>
+|{{IPA link|b}}, {{IPA link|bʷ}}
+|
+|
+|
+|
+|
+|-
+! colspan="2" |[[Affricate consonant|Affricate]]
+|
+|
+|{{IPA link|t͡ʃ}}
+|
+|{{IPA|k͡t}}
+|
+|-
+! colspan="2" |[[Fricative consonant|Fricative]]
+|{{IPA link|β}}
+|{{IPA link|s}}
+|
+|
+|
+|{{IPA link|h}}
+|-
+! colspan="2" |[[Tap consonant|Tap]]
+|
+|{{IPA link|ɾ}}
+|
+|
+|
+|
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|
+|
+|
+|
+|-
+! colspan="2" |[[Lateral consonant|Lateral]]
+|
+|{{IPA link|l}}
+|
+|
+|
+|
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|{{IPA link|w}}
+|
+|
+|{{IPA link|j}}
+|
+|
+|}
+
+The following consonantal sounds are present in Yaqui: b, ch, (d), (f), (g), h, k, l, m, n, p, r, s, t, v, w, y, and one or two [[glottal stop]]s (IPA {{IPA|/ʔ/}}), represented by an [[apostrophe]]. Except for the glottal stops, most of them are pronounced nearly the same as they are in [[English language|English]], but "p", "t", and "k" are not [[aspiration (phonetics)|aspirated]]. In the IPA, they are respectively {{IPA|/b t͡ʃ (d) (f) (ɡ) h k l m n p ɾ s t β w j/}}.
+
+Many Yaqui-speakers pronounce b and v exactly the same, as {{IPA|/β/}}. That appears to be intrinsic to Yaqui, rather than from the influence of Spanish, which has a similar feature. Additionally, there are two consonants written as clusters: "bw" (IPA {{IPA|/bʷ/}}) and "kt" (IPA {{IPA|/k͡t/}}), "bw" being a rounded "b" ('bwikam') and "kt" a simultaneous articulation of "k" and "t" ('rohikte'). The "kt" sound is found in many other Uto-Aztecan languages. Pronunciation of the rounded "b" as "b"+"w" and the "kt" as "k"+"t" is acceptable but non-native.
+
+Also, "d", "f", and "g" are present only in [[English language|English]] and [[Spanish language|Spanish]] [[loanword]]s and are substituted with the native sounds "t"/"r"/"l", "p", and "w"/"k", respectively.
+
+In [[Mexico]], many speakers substitute "g" for syllable-initial "w". That is largely because Spanish lacks a /w/ [[phoneme]]. The [[Phone (phonetics)|phone]] [w] is present in Spanish not as an independent consonantal phoneme but as a variant of the vowel /u/ and the consonant /g/ when it is before a /u/ or /o/. The use of "g" in place of "w" is considered by Yaqui speakers as an influence from [[Mexican Spanish|Spanish]] and not standard Yaqui usage, even in Mexico.
+
+====Glottal stops====
+There is at least one glottal stop, which is [[phonemic]]. There also appears to be a "fainter" glottal stop that is sometimes used between vowels but with apparently little predictability. Whether it is phonemic or not is still unclear.
+
+===Sound symbolism===
+[[Sound symbolism]] is present in Yaqui.{{Citation needed|date=March 2015}} For example, a word with the phoneme /l/ in it may be pronounced normally, to denote approval from the speaker, or with /r/ replacing the /l/, to denote disapproval or disfavor on the part of the speaker. Either form is correct.
+
+===Devoicing===
+[[Consonant voicing and devoicing|Devoicing]] occurs at the ends of phrases. That is especially notable with the phoneme /m/ and with vowels. Yaqui speech often sounds "breathy" to English-speakers.
+
+===Gestures===
+One word, ''laute'', has two contradictory meanings in translation into English: "quickly" and "slowly". (Incidentally, English has similar words of contrasting meanings: ''mercurial'', which can mean either "unhesitating" or "scatter-brained", and ''quite'' which can mean "very" or "a little".)
+
+''Laute'' is often accompanied with a quick or slow open-handed movement to indicate the meaning, or it could be translated as "at a different speed" and requires a hand gesture to indicate the nature of the difference when that is needed for clarification.)
+
+==Grammar==
+
+===Syntax===
+Yaqui word order is generally [[subject–object–verb]].
+
+The object of a sentence is suffixed with "-ta".
+
+{{interlinear|number=ex:
+|Inepo hamut'''ta''' vichu
+|I woman {look at}
+|"I am looking at the woman."
+}}
+
+===Word order structures===
+====Subject object<ref name="Yaqui">John M. Dedrick, Eugene H. Casad (1999). Sonora Yaqui Language Structures. Tucson, AZ: University of Arizona Press.</ref>====
+The following sentences display a variation of the language's structure and the forms allowed. In the following example, we can see an S and an O. This structure of SO is allowable due to a common feature among languages— the verb/ copula to be. 'He' is the subject in this example and since 'he' shows no variation in positioning in the sentence, there will not be further explanation for it. The object in this example 'child' has the possessor 'him' preceding to show ownership, but what is being possessed by 'him' is the child. Therefore, 'child' has a nominalizer for being the object of the sentence and a possession marker on it for being possessed. Having the nominalizer on the 'child' allows the subject 'he' to imply a state of being on the 'child'. This structure SO uses the ''to be'' verb/ copula, when information is being stated that x is y.
+
+{{interlinear|number=ex:
+|ʹáapo ʹáʹa Yoém-ia-k
+|{He (SUBJ)} Him {Child-NZ-POS (OBJ)}
+|He is his child.
+}}
+
+====Subject verb object<ref name="Yaqui" />====
+In the following example, we can see an example of where the primary word order SOV, deviates to become SVO. Note the pronoun 'I' doesn't have any case marking active and is in pronoun form (see Cases on Pronouns). Next, on the first or main verb 'able', there isn't any specification for the type of verb. When the main verb is followed by another verb, it seems the second verb becomes intransitivized. On the object of the sentence 'axe', there are multiple cases active: accusative case (the direct object of the verb), a plural suffix, and an instrumental case (the means by how or with what something gets done) on the noun.
+
+{{interlinear|number=ex:
+|née ʹáa Hi-máʹako Tépwa-m-mea
+|I(SUBJ) able INTR-chop Axe-ACC:PL-INST(OBJ)
+|I am able to chop with an axe.
+}}
+
+====Object subject verb<ref name="Yaqui" />====
+The following is an additional example that shows variant in word order than previously seen— OSV. In this structure, a suffix called connective is used to show that two constituents are being connected; simply, they function as a conjunction. Although this is a simple function, it is worth mentioning in understanding the way Yaqui functions as a system. The subject comes after the object in the correct subject pronoun form. Following is the verb 'remember', which may be a trigger to the word order. Perhaps this word order implies the topic should be ''who/what'' is being remembered.
+
+{{interlinear|number=ex:
+|ʹin malá-be-u ne wáate
+|My mother-CONN-to(OBJ) I(SUBJ) remember(V)
+|I remember my mother.}}
+
+===Case===
+Yaqui is a "[[noun-heavy]]" [[agglutinative]] language.
+
+For example, the first person singular pronoun "in" or "ne" (which varies by dialect), is more often used in the form "inepo", which can be translated "within me". The "-(e)po" ending is quite common and seems to denote much more than simple physical inclusion.
+
+Cases are marked on the nouns with suffixes. The following is a list of all the cases that are marked in the language.<ref name="Yaqui" /> 
+{| class="wikitable"
+|-
+! Case !! Function
+|-
+| Ablative|| Movement away/ out of the noun it's attached to. 
+|-
+| Absolutive|| Core argument of the verb in the sentence; with intransitive verbs it acts as the subject of the verb, in transitive verbs it acts as the object of the verb.
+|-
+| Dative|| The noun of which something is given, used with ditransitive verbs as the indirect object of the verb.
+|-
+| Instrumental || Conveys the means of accomplishment of the action expressed by the verb.
+|-
+| Locative|| Attaches to the noun to indicate the location of the phrase.
+|-
+| Nominative|| Used for the subjects in clauses, or when there is only one noun in the clause. It is marked on the subject when in clauses with Absolutive case marking on the object.
+|-
+| Possessor<br>(part of Genitive function)|| Used to show possession on nouns.
+|}
+
+===Nouns===
+Plural nouns are formed by adding the suffix "-im", or "-m" if the noun ends in a vowel. If the noun ends in a "t", it changes to "ch" when "-im" is added.
+
+:* ''Tekil'' - Job
+:* ''Tekilim'' - Jobs
+
+If a plural noun is the object of a sentence, the suffixation of "-t" or "-ta" is not used.
+
+{{interlinear|number=ex:
+|Inepo haamuchim vichu
+|I women {look at}|}}
+
+===Verbs===
+Usually, adding the suffix "-k" to a verb indicates past tense, though there are many exceptions. If a verb ends in a diphthong, "-kan" is added. If a verb ends in "-i", "-akan" is added. If a verb ends in "-o" or "-u", "-ekan" is added, and if a verb ends in "-a", "-ikan" is added. If a verb ends in "-k", "-an" is added.
+
+Regularly, "-ne" indicates the future.
+
+====Tense and aspect<ref name="Yaqui" />====
+Yaqui possess a "prior state" or 'used to be, now deceased' suffix. It is -tu-káꞋu. This specific suffix attaches to a nominal noun to indicate a prior existence, but can also attach as a verb to reflect the state of a human noun (not only animate). For example, (suffixed as a verb) to the right.
+
+The following is a table on the various tense markers that act more as aspectual values and epistemic states.
+{| class="wikitable"
+|-
+! Tense/ Aspect !! Suffix !! Meaning/Use
+|-
+| Future tense marker|| -nee
+| To convey some future effect of an action, probability or possibility
+|-
+| Future passive|| -naa
+| Communicating a temporary future possibility relative to the time of being spoken.
+|-
+| Perfective aspect|| -k; –ka as an allomorph with a specific set of words.
+| An action is happening at a point of time, NOT continuation or procession (unmarked form).
+|-
+| Imperfect particle|| -ka
+| Emphasizing an action of duration and progressing, and when backgrounding another action in main clause.
+|-
+| Remote stative|| -i; -ka + -i
+|| Emphasizes a preceding action when accompanying another verb in a complex sentence. Can be paired with imperfective particle -ka.
+|-
+| Past continuative|| -n; -ka + -n
+|| General past continuative, used with –ka.
+|-
+| Inceptive aspect|| -taite (SG); -hapte (PL)
+|| To begin doing something or commence doing something
+|-
+| Cessative aspect|| -yaáte
+| Means 'to cease' or 'to stop' as a stand-alone verb but combines as a Verb + Verb compound to indicate a completed action.
+|}
+
+===Adjectives===
+In Yaqui, adjectives very often act as verbs (in [[Afro-Asiatic]] linguistics, they would be called ''[[stative]] verbs''). For instance, "''vemela''" or "new", would most often be used to mean "is new". Adjectives have tenses, the same as verbs.
+
+===Reduplication===
+<!--[[Yaqui music]] links directly here.-->
+[[Reduplication]] is present in Yaqui. 
+Reduplicating the first syllable of a verb indicates habitual action:
+
+:* ''eta'' - shuts
+:* ''e'eta'' - usually shuts
+
+Primary reduplication is also used to pluralize adjectives.
+
+Reduplicating the second consonant of a verb is used to show that an action is performed rarely.
+
+==Sample words and phrases==
+:* ''o'ow'' - man
+:* ''hamut'' - woman
+:* ''tu'i hiapsek'' - kind (lit. "good hearted")
+:* ''halla'i'' - friend
+:* ''maaso'' - deer
+:* ''aamu'' - to hunt
+
+:* ''aman ne tevote em yevihnewi'' - "I extend my greetings"
+
+Greetings often are very formal. The following formula of four phrases is often used even among close friends:
+:* ''Lios em chania'' - "Greetings!" (to one person, to more than one: ''Lios em chaniavu'') (lit. "God preserves you!", ''Lios'' [sometimes pronounced ''Lioh''] is a very early borrowing of the Spanish "Dios")
+:* ''Lios em chiokoe'' - (the reply to the above, lit. "God pardons you!")
+:* ''Empo allea'' - "May you rejoice!" (lit. "In you happy", 'allea' is said to be from the Spanish 'alegre', meaning 'happy')
+:* ''Kettu'i'' - "How kind!"
+
+===Kinship terminology===
+{| class="wikitable"
+|+ Immediate family
+! !! Male !! Female
+|-
+|Mother              || Malam     || Ae
+|-
+|Father              || Achai    || Hapchi
+|-
+|Older Brother       || Sai      || Avachi
+|-
+|Younger Brother     || Saila    || Wai
+|-
+|Older Sister        || Ako      || Ako
+|-
+|Younger Sister      || Wai      || Wai
+|}
+
+{| class="wikitable"
+|+ Extended family
+! !! Father's !! Mother's
+|-
+| Grandmother        || Namuli       || Namuli
+|-
+| Grandfather        || Hamuli       || Hamuli
+|-
+| Mother             || Haaka        || Asu
+|-
+| Father             || Havoi        || Apa
+|-
+| Older Brother      || Haavi        || Kumui
+|-
+| Younger Brother    || Samai        || Taata
+|-
+| Older Sister       || Ne'esa       || Chi'ila 
+|-
+| Younger Sister     || Nana         || Mamai
+|}<ref name = "pascuayaquitribe">{{Cite web
+| title = Language
+| work = Pascua Yaqui Tribe
+| access-date = 2012-09-29
+| url = http://www.pascuayaqui-nsn.gov/index.php?option=com_content&view=article&id=32&Itemid=16
+}}</ref>
+
+== Language revitalization and teaching ==
+In 2009, the Pascua Yaqui Tribal Council and the [[University of Arizona]] collaborated on a program in which tribal elders teach the Yaqui language to families.<ref>{{Cite news
+| last = Corey Schubert
+| title = Tribal council selects ASU project for use in schools - ICTMN.com
+| work = Indian Country Today Media Network
+| access-date = 2012-09-29
+| date = 2009-02-27
+| url = http://indiancountrytodaymedianetwork.com/ictarchives/2009/02/27/tribal-council-selects-asu-project-for-use-in-schools-82782
+}}</ref> As of 2010, a revitalization project was underway at the University, "using 30 year old audio tapes recorded by tribal member Maria Leyva."<ref>{{Cite news
+| title = Saving the Yaqui language
+| work = KVOA.com
+| location = Tucson, Arizona
+| access-date = 2012-09-29
+| date = 2010-06-15
+| url = http://www.kvoa.com/news/saving-the-yaqui-language/
+}}</ref> As of 2012, "Any teaching materials, tools, lessons, audio lessons, etc.," on the website of the [[Pascua Yaqui Tribe]] were "restricted to 'Tribally enrolled Members' only."<ref name = "pascuayaquitribe" />
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+
+{{More footnotes|date=September 2012}}
+
+*{{Cite book
+| publisher = University of Arizona Press
+| isbn = 9780816519811
+| last = John M. Dedrick, Eugene H. Casad
+| title = Sonora Yaqui Language Structures
+| location = Tucson, AZ
+| access-date = 2012-09-29
+| year = 1999
+| url = http://www.uapress.arizona.edu/Books/bid1283.htm
+}}
+*Estrada Fernández, Zarina (2004). ''Diccionario yaqui-español y textos: Obra de preservación lingüística''. Sonora, México: Universidad de Sonora/Plaza y Valdés Editores
+* [[Jean Basset Johnson|Johnson, Jean Bassett]] (1962, posthumous). ''El Idioma Yaqui''. Mexico DF: Instituto Nacional de Antropologia e Historia.
+* Shaul, David L. (1999). ''Yoeme-English English-Yoeme Standard Dictionary''. [[New York City|New York]]: Hippocrene Books. {{ISBN|0-7818-0633-X}}
+* {{Cite web
+| last = Spicer
+| first = Edward H
+| author-link = Edward H. Spicer
+| title = Inventory of the Edward H. and Rosamond B. Spicer Papers, 1911-2000 (bulk 1937-1988); Series VIII: Yaqui Files, 1935-1995 (Bulk 1939-1988)
+| work = Arizona Archives Online
+| access-date = 2012-09-29
+| url = http://www.azarchivesonline.org/xtf/view?docId=ead/asm/MS5.xml&doc.view=content&brand=default&anchor.id=0#series8
+}}
+
+==External links==
+{{Incubator|code=yaq}}
+*[http://wold.livingsources.org/vocabulary/32 Yaqui Vocabulary List], from the World Loanword Database
+*[http://en.wiktionary.org/wiki/Appendix:Swadesh_lists_for_Uto-Aztecan_languages Yaqui Swadesh vocabulary list] from Wiktionary
+*[http://www.native-languages.org/yaqui.htm Yaqui Indian Language (Yoeme)]
+*[http://www.language-archives.org/language/yaq OLAC resources in and about the Yaqui language]
+*[http://site.inali.gob.mx/pdf/Yaqui.pdf Constitution of Mexico in Yaqui]
+
+{{Uto-Aztecan languages}}
+{{Languages of Mexico}}
+{{Languages of Arizona}}
+
+{{DEFAULTSORT:Yaqui Language}}
+[[Category:Agglutinative languages]]
+[[Category:Southern Uto-Aztecan languages]]
+[[Category:Indigenous languages of Mexico]]
+[[Category:Languages of the United States]]
+[[Category:Native American language revitalization]]
+[[Category:Indigenous languages of Arizona]]
+[[Category:Indigenous languages of the Southwestern United States]]
+[[Category:Indigenous languages of the North American Southwest]]
+[[Category:Yaqui culture]]
+[[Category:Subject–object–verb languages]]

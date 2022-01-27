@@ -1,0 +1,421 @@
+{{short description|Austronesian language spoken in Flores, Indonesia}}
+{{Infobox language
+|name=Kéo
+|altname=Nage-Keo
+|states=[[Indonesia]]
+|region=Central [[Flores]]
+|ethnicity=[[Nage]], [[Kéo people|Kéo]]
+|speakers={{sigfig|100,000|2}}
+|date=1993
+|ref=e22
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Central–Eastern Malayo-Polynesian languages|Central–Eastern MP]]
+|fam4=[[Sumba–Flores languages|Sumba–Flores]]
+|fam5=Ende–Manggarai
+|fam6=[[Central Flores languages|Central Flores]]
+|script=
+|lc1=xxk |ld1=Ke’o
+|lc2=nxe |ld2=Nage
+|glotto=nage1238
+|glottorefname=Nage-Keo
+}}
+
+'''Kéo''' or '''Nagé-Kéo''' is a [[Malayo-Polynesian languages|Malayo-Polynesian]] [[dialect cluster]] spoken by the Kéo and Nage people (‘ata Kéo 'Kéo people') that reside in an area southeast of the Ebu Lobo volcano in the south-central part of [[Nusa Tenggara Timur]] Province on the island of [[Flores]], eastern [[Indonesia]].
+
+Kéo belongs to the [[Malayo-Polynesian]], Central-Eastern Malayo-Polynesian, Bima-Lembata subgroups of the Austronesian language family and there are approximately 40,000 speakers.<ref>{{cite web
+| title =Ke'o
+| url = https://www.ethnologue.com/language/xxk
+| website = [[Ethnologue]]
+| date = 6 May 2015
+| access-date = 6 May 2015 }}</ref>
+
+Kéo is sometimes referred to as [[Nage]]-Kéo, the Nage being the name of a neighbouring ethnic group that is generally considered culturally distinct from Kéo, however whether or not the two languages are separate entities is ambivalent.{{sfnp|Baird|2002a|pp=2, 21}}
+
+Uncommon to Austronesian languages, Kéo is a highly [[isolating language]] that lacks [[inflectional morphology]] or clear morphological derivation. Instead it relies more heavily on [[Lexical (semiotics)|lexical]] and [[syntactic]] grammatical processes.{{sfnp|Baird|2002a|p=30}}
+
+==Sociolinguistic situation==
+
+Kéo (referred to locally as sara kita ‘our language’ or sara ndai ‘the language here’ as well as Bahasa Bajawa ‘The Bajawa Language’ by people not from central Flores) has distinct dialectal variation between villages. Kéo speakers are able to determine where someone is from based on pronunciation and word use.{{sfnp|Baird|2002a|pp=9, 28}}
+
+Overall, the attitude towards Kéo by its speakers is unfavourable. It is considered more economically beneficial to speak Indonesian or English. Despite this sentiment, a sense of respect for the language remains through its oral traditions.{{sfnp|Baird|2002a|p=9}}
+
+==Phonology ==
+[[File:Ke'o vowel chart.svg|right|250px|thumb|Ke'o vowel chart, from {{Harvcoltxt|Baird|2002b|p=94}}]]
+=== Consonants ===
+The Kéo spoken in the village of Udiworowatu (where the majority of data has been collected on the language) has a phonemic inventory of 23 [[consonants]].
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! [[Labial consonant|Labial]]
+! [[alveolar consonant|Alveolar Apical]]
+! [[palatal consonant|Palatal Laminal]]
+! [[Velar consonant|Velar Dorsal]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan="4" | [[Stop consonant|Stop]]
+! <small>voiceless</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|tʃ}}
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+! <small>voiced</small>
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|dʒ}}
+| {{IPAlink|g}}
+| 
+|-
+! <small>preglottalised</small>
+| {{IPAlink|ˀb}}
+| {{IPAlink|ˀd}}
+| || || 
+|-
+! <small>prenasalised</small>
+| {{IPAlink|ᵐb}}
+| {{IPAlink|ⁿd}}
+| 
+| {{IPAlink|ᵑɡ}}
+| 
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| 
+| {{IPAlink|ŋ}}
+| 
+|-
+! colspan="2" | [[Fricative]]
+| {{IPAlink|f}}
+| {{IPAlink|s}}
+| 
+| {{IPAlink|x}}
+| 
+|-
+! colspan="2" | [[Rhotic consonant|Rhotic]]
+| 
+| {{IPAlink|r}}
+| || || 
+|-
+! colspan="2" | [[Lateral consonant|Lateral]]
+| 
+| {{IPAlink|l}}
+|  ||  || 
+|-
+! colspan="2" | [[Approximant]]
+| {{IPAlink|w}}
+| || || || 
+|}
+
+*There is a four-way [[plosive consonant|stop]] distinction for [[manner of articulation]]: voiceless (unaspirated), voiced, preglottalised and prenasalised. This is atypical for an Austronesian language.{{sfnp|Baird|2002a|p=29}}
+*Kéo does not have a contrastive distinction between [[bilabial]]  and [[labio-dental]] , hence the term ‘labial’ has been used for the [[place of articulation]].{{sfnp|Baird|2002a|p=34}}
+
+=== Vowels ===
+Kéo has 6 vowel phonemes.<ref>{{harvp|Baird|2002a|page=48}}</ref>
+{| class="wikitable" style="text-align:center"
+|-
+! !! [[Front vowel|Front]] !! [[central vowel|Central]]!! [[Back vowel|Back]]
+|-
+! [[Close vowel|High]]
+| {{IPAlink|i}} ||  || {{IPAlink|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPAlink|e}} || {{IPAlink|ə}} || {{IPAlink|o}}
+|-
+! [[Open vowel|Low]]
+|  || {{IPAlink|a}} || 
+|}
+
+==Morphology I==
+
+===Pronouns===
+
+In Kéo there are 7 standard [[pronoun]] forms that form a [[closed word class]].{{sfnp|Baird|2002a|p=108}}
+
+{| class="wikitable"
+|- Kéo
+! 'Standard' Pronoun Form !! Person and Number
+|-
+| ''nga’o'' || 1st person singular
+|-
+| ''kau'' || 2nd person singular
+|-
+| '''imu'' || 3rd person singular
+|-
+| ''kita'' || 1st personal plural inclusive
+|-
+| ''kami'' || 1st person plural exclusive
+|-
+| ''miu'' || 2nd person plural
+|-
+| '''imi-ko'o'' || 3rd person plural
+|}
+
+Kéo pronouns have the same form irrespective of their syntactic behaviour. They can function as independent pronouns, as subjects, objects or as  [[Possession (linguistics)|possessors]]. There are also no [[grammatical gender]] distinctions.{{sfnp|Baird|2002a|p=108}}
+
+In the examples below we can see the 1st singular pronoun ''nga’o'' used across four different scenarios: as the subject of an [[intransitive verb]] (1), as the subject of a [[transitive verb]] (2), as an object, (3) and in the possessor slot of a possessive construction (4).
+
+'''Examples:'''{{sfnp|Baird|2002a|p=110}}
+
+{{interlinear|number=(1)
+|'''Nga’o''' mbana.
+|1sg walk
+|I’m walking.}}
+
+{{interlinear|number=(2)
+|'''Nga’o''' bhobha ‘imu.
+|1sg hit 3sg
+|I hit him.}}
+
+{{interlinear|number=(3)
+|Kepa kiki '''nga’o'''.
+|mosquito bit me
+|A mosquito bit me.}}
+
+{{interlinear|number=(4)
+|Dima '''nga’o''' lo.
+|arm 1sg hurt
+|My arm hurts.}}
+
+===Alternate pronoun forms===
+
+The alternate pronoun forms in Kéo are ''ja’o'', ''miu'', ''kita'' and ''sira''. Their usage can depend on dialectal variants, politeness and [[taboo]] avoidance rules and specificity with quantity of people involved in the utterance.{{sfnp|Baird|2002a|p=111}}
+
+====''ja’o''====
+
+''J’ao'' is an alternate pronoun for ''nga’o'' in the first person singular. In the past, the two terms were used as a dialect-identifying feature for the Kéo speaking areas. Nowadays, both pronouns are used and personal preference appears to dictate usage. It has also been noted that a child will apply the term that is used by their mother.{{sfnp|Baird|2002a|p=111}}
+
+In an example from a Kéo storyteller, both first person pronoun forms are used stylistically to distinguish the main characters during a passage of direct speech, Wodo Bako ''nga’o'' and the sorcerer ''ja’o''. This distinction can reflect the storyteller’s partiality towards a character depending on which form they themselves identify with.{{sfnp|Baird|2002a|p=112}}
+
+'''Examples:'''{{sfnp|Baird|2002a|p=112}}
+
+{{interlinear|number=(5)
+|Négha ké {Wodo Bako} simba si’I, “Ata podo kau kema wado ‘ari '''nga’o'''.”
+|already that {Wodo Bako} then say person sorcerer 2sg work return {younger sibling} 1st
+|After that Wodo Bako then said, “Sorcerer you bring back my younger brother.”}}
+
+{{interlinear|number=(6)
+|‘Ata podo si’I, “Modo '''''ja’o''''' kema wado”
+|person sorcerer say ok 1sg work {to return}
+|The sorcerer said, “Ok I’ll bring him back.”}}
+
+====''miu''====
+
+''Miu'' as shown in the ‘standard’ pronoun form table above is used to address more than one person, yet it can also be used to show a level of respect and politeness when speaking to someone.
+
+'''Example:'''{{sfnp|Baird|2002a|p=113}}
+
+{{interlinear|number=(7)
+|‘Iné '''miu''' ta ndia.
+|ma’am 2pl REL here.
+|Ma’am, you stay here (while I go).}}
+
+====''kita''====
+
+''Kita'' is the pronoun used for first person plural [[clusivity|inclusive]]. In some cases ''kita'' is used to replace ''kami'' (first personal plural [[clusivity|exclusive]]) when talking about belongings or possession. This switch in pronoun to include all addressees makes the speaker appear more community-minded and generous opposed to being arrogant or selfish.{{sfnp|Baird|2002a|p=113}}
+
+'''Example:'''{{sfnp|Baird|2002a|p=113}}
+
+{{interlinear|number=(8)
+|kamba ko’o sai? Kamba '''kita'''.
+|buffalo POSS who buffalo 1PL.INCL
+|Whose buffalo are these? Our water buffalo.}}
+
+====''sira''====
+
+''Sira'' is the archaic third person pronoun plural form that can replace the standard second and third person pronouns ''kay'' and ''‘imi''. ''Sira'' is used to avoid certain taboos in Kéo culture that include addressing parents-in-law or people held in high regard. Sira is also used when addressing a large group of people.{{sfnp|Baird|2002a|p=114}}
+
+===Pronoun + Numeral===
+
+Kéo pronouns can be followed by numerals to indicate the exact number of referents. The pronoun-numeral sequence is the only time a number can be used without a  [[classifier (linguistics)|classifier]]. The most common numeral used is ''rua'' ‘two’ (9) to create [[Dual (grammatical number)|dual pronouns]],{{sfnp|Baird|2002a|p=114}} yet it also acceptable to use any other numeral (10).
+
+'''Examples:'''{{sfnp|Baird|2002a|p=114}}
+
+{{interlinear|number=(9)
+|Mama né’e bapa ko’o Henri itu tungga '''kami''' rua weta nala.
+|mum and dad POSS Henri that only 1PL.EXCL two sister brother
+|Me and Henri’s dad, only us two were siblings.}}
+
+{{interlinear|number=(10)
+|Rembu '''miu''' dima mbana.
+|All 2PL five go
+|All five of you go.}}
+
+== Morphology II ==
+
+=== Pronouns and person marking ===
+
+[[Personal pronouns]] replace [[proper nouns]] or other nouns, and form a [[closed word class]]. They are highly dependent on context, and are used to indicate if one is referring to the speaker, listener, etc. (Baird, 2002, pp.&nbsp;108).<ref name=":0">{{harvp|Baird|2002a}}</ref>
+
+There are five subclasses of nouns; 1) [[common nouns]], 2) kin terms, 3) place names, 4) personal names and 5) personal pronouns (Baird, 2002, pp.&nbsp;101–102).<ref name=":0" /> Thus, unlike [[English language|English]], where [[pronouns]] are an independent part of the language, personal pronouns are included under the noun class in Kéo (Baird, 2002, pp.&nbsp;97).<ref name=":0" /> Furthermore, all five of these subclasses, including personal pronouns, may be used as nominal [[predicate (grammar)|predicate]]s (Baird, 2002, pp.&nbsp;101).<ref name=":0" />
+
+==== Personal pronouns ====
+===== Standard forms =====
+
+In Kéo, there is no change in the personal pronoun, even if they are independent pronouns, [[subject (grammar)|subject]]s, [[object (grammar)|object]]s, [http://www-01.sil.org/linguistics/GlossaryOfLinguisticTerms/WhatIsAPossessivePronoun.htm possessors], etc. (Baird, 2002, pp.&nbsp;108).<ref name=":0" /> However, first, second, third, (and [[singular homology|singular]] and [[plural]] forms) have differences, and the first person plural pronoun has an inclusive and exclusive form. Apart from the first and second person singular pronoun, pronouns may be followed by numbers to quantify the pronoun. Gender is also not differentiated in Kéo pronouns (Baird, 2002, pp.&nbsp;109).<ref name=":0" />
+
+{| class="wikitable"
+|+ Overview of Standard Personal Pronouns (Baird, 2002, pp.&nbsp;110):<ref name=":0" /> 
+|-
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st
+! exclusive
+| rowspan="2" | nga'o
+| kami
+|-
+! inclusive
+| kita
+|-
+! colspan="2" | 2nd
+| kau
+| miu
+|-
+! colspan="2" | 3rd
+| ’imu
+| ’imu ko'o
+|}
+
+* '''First person [[pronouns]]'''
+The standard forms of 1st person singular [[pronouns]] are ''nga'o;'' which is 1st singular, ''kita;'' 1st person plural inclusive, and ''kami;'' 1st person [[plural]] exclusive. This can be used to express I, me, my, etc. (Baird, 2002, pp.&nbsp;110).<ref name=":0" /> For example:
+
+{{interlinear|number=(1)
+|'''Nga’o''' mbana.
+|1SG walk
+|I'm walking. (Baird, 2002, pp.&nbsp;110)<ref name=":0" />}}
+
+{{interlinear|indent=3
+|Kepa kiki '''nga’o'''.
+|Mosquito bite 1SG
+|A mosquito bit me. (Baird, 2002, pp.&nbsp;110)<ref name=":0" />}}
+
+* '''Second person [[pronouns]]'''
+The standard forms of 2nd person singular [[pronouns]] are ''kau;'' which is 2nd person [[singular homology|singular]] and ''miu;'' 2nd person [[plural]]. This can be used to express you, your, etc. (Baird, 2002, pp.&nbsp;110).<ref name=":0" /> For example:
+
+{{interlinear|indent=3
+|Tuka '''kau''' bhu.
+|stomach 2SG bloated
+|Your stomach is bloated. (Baird, 2002, pp.&nbsp;119).<ref name=":0" />}}
+
+* '''Third person [[pronouns]]'''
+The standard forms of 3rd person [[singular homology|singular]] [[pronouns]] are ''’imu;'' which is 3rd person [[singular homology|singular]] and ''’imu ko'o;'' 3rd person [[plural]]. This can be used as he, her, etc. (Baird, 2002, pp.&nbsp;110).<ref name=":0" /> For example:
+
+{{interlinear|indent=3
+|'''’Imu''' mbhana.
+|3SG go
+|He went. (Baird, 2002, pp.&nbsp;116).<ref name=":0" />}}
+
+{{interlinear|indent=3
+|’Ana '''’imu''' bhugé ré’é-ré’é
+|children 3SG fat very
+|Her children are very fat. (Baird, 2002, pp.&nbsp;119).<ref name=":0" />}}
+
+A sentence can also be made to be less ambiguous by using ''’imu'' possessively. (Baird, 2002, pp.&nbsp;328).<ref name=":0" /> In other words, using a pronoun in this way can make the meaning of a sentence clearer to the listener:
+
+{{interlinear|number=(1)
+|Nambu wado Australia Peter ongga dhoa kumi,
+|When {go home} Australia Peter shave lose beard
+|When Peter went home to Australia he shaved off a beard.<ref name=":0" />}}
+
+{{interlinear|number=(2)
+|Nambu wado Australia Peter ongga dhoa kumi '''’imu'''.
+|When {go home} Australia Peter shave lose beard 3sg
+|When Peter returned home to Australia he shaved off his beard.<ref name=":0" />}}
+
+As seen in the examples (Baird, 2002, pp.&nbsp;328)<ref name=":0" /> above, 2) clarifies the meaning of 1) with the addition of ''’imu,'' as it shows the beard is Peter’s beard.
+
+Below is an example of both a 1st singular pronoun and a 3rd singular pronoun being used in the same sentence:
+
+{{interlinear|indent=3
+|'''Nga’o''' mbhana.
+|1sg hit 3sg
+|I hit him. (Baird, 2002, pp.&nbsp;110).<ref name=":0" />}}
+
+===== Alternate forms =====
+
+There are also alternate forms of personal pronouns, which are used for different reasons. There are three main reasons as to why alternate [[pronouns]] are used. Firstly, alternate pronouns may be used to indicate politeness, or to avoid social taboo. Secondly, they may be used based on dialect variations. Lastly, certain pronouns are used to identify the exact number of people there are in the situation being described or talked about (Baird, 2002, pp.&nbsp;111).<ref name=":0" /> Baird (2002)<ref name=":0" /> highlighted four alternate forms of personal pronouns used in Kéo; ''ja'o, miu, kita,'' and ''sira'' (Baird, 2002, pp.&nbsp;111–114).<ref name=":0" />
+
+The first alternate form, ''ja'o,'' is an alternate form of the first person singular pronoun, ''nga'o'' (standard form). Initially'','' each dialect group used either one exclusively, and was a way to identify which Kéo -speaking area one was from. However, the use of the standard and alternate form of the pronoun no longer has this ability to establish one’s dialect group (Baird, 2002, pp.&nbsp;111).<ref name=":0" /> This will be further discussed below in ''Regional Varieties.''
+
+The second alternate form is ''miu.'' It is often used in reference to more than one person, but can also be used to address one person as an [[honorific]]. (Baird, 2002, pp.&nbsp;112).<ref name=":0" /> For example:
+
+{{interlinear|indent=3
+|’Iné '''miu''' ta ndia.
+|ma’am 2.pl REL here
+|Ma’am, you stay here (while I go). (Baird, 2002, pp. 112).<ref name=":0" />}}
+
+The third alternate form is ''kita'' (Baird, 2002, pp. 113).<ref name=":0" /> As mentioned above, first person plural pronouns have an exclusive and inclusive form in Kéo (Baird, 2002, pp. 110).<ref name=":0" /> However, the alternate and inclusive form, ''kita,'' frequently replaces ''kami'' (the exclusive form). Using the inclusive form (''kita'') instead of the exclusive form (''kami'') helps the speaker to seem more generous and selfless, as they are including the listener in their speech. Especially when discussing property and personal possessions, the speaker can sound less arrogant by using the inclusive term instead of the exclusive term.  (Baird, 2002, pp. 113).<ref name=":0" /> For example:
+
+{{interlinear|indent=3
+|Kamba ko’o sai? Kaba '''kita.'''
+|Bufffalo POSS who buffalo 1PL.INCL
+|Whose water buffalo are these? Our water buffalo. (Baird, 2002, pp. 113).<ref name=":0" />}}
+
+Another example which shows the importance of inclusivity in Kéo is where Kéo is often referred to as “our language” (''sara kita)'' instead of just “Kéo”. (Baird, 2002, pp. 9).<ref name=":0" />
+
+The last alternate form of personal pronouns highlighted by Baird (2002) is ''sira.'' This pronoun may be used instead of 2nd and 3rd person pronouns. The main reason ''sira'' is used would be as an [[honorific]]. It is often used to greet people, and to refer to in-laws or others as a sign of respect. Thus, one would use ''sira'' instead of ''’imu-ko’o'' (Baird, 2002, pp. 114).<ref name=":0" /> Kin terms, which is what identifies the relationship between speakers (Baird, 2002, pp. 105),<ref name=":0" /> are also preferred when addressing in-laws, to establish a close relationship. Thus, ''sira'' would be used more often than more polite pronouns such as ''miu'' (Baird, 2002, pp.&nbsp;113–114).<ref name=":0" />
+
+* '''Regional varieties''' 
+Pronouns help to differentiate dialects. In the past, the difference in the first person singular pronoun ''ja’o'' and ''nga’o'' helped to establish this difference. However, in present times intermarriages between different dialect groups have dissolved these boundaries. Instead, which first person singular pronoun is used is up to personal preference (Baird, 2002, pp.&nbsp;28).<ref name=":0" /> Apart from personal preference, many Kéo speakers have the tendency to follow the form that their mother uses, (Baird, 2002, pp.&nbsp;111)<ref name=":0" /> while some adopt the form that their in-laws use after marriage (Baird, 2002, pp.&nbsp;112).<ref name=":0" />
+
+==Syntax==
+=== Possession ===
+
+==== Adnominal possession<ref name=":0" /> ====
+* There are two types
+*# possessive particle is used to link noun phrases. (Eg. ''<nowiki/>'Aé ko'o kami'' <u>(water-POSS-1st plural exclusive)</u> (our water))
+*# possessor can either be a noun phrase or a pronoun. (Eg. ''Bapa kami'' <u>(father-1st plural exclusive)</u> (our father))
+
+=== Negation<ref name=":0" /> ===
+* Two negators in Kéo. 
+*# ''mona''
+*# nggedhé
+* These negators are synonymous.
+* Negators can:
+*# Precede the predicate.
+*# Be predicates themselves.
+*# Be interjections.
+	
+==References==
+{{Reflist|30em}}
+
+==Bibliography==
+{{Refbegin}}
+* {{cite thesis
+|last=Baird
+|first=Louise
+|year=2002a
+|title=A Grammar of Kéo: An Austronesian Language of East Nusantara
+|type=Ph.D.
+|place=Canberra
+|publisher=Department of Linguistics, The Research School of Pacific and Asian Studies at The Australian National University
+|url=https://openresearch-repository.anu.edu.au/handle/1885/9446
+|hdl=1885/9446
+|hdl-access=free
+}}
+* {{cite journal
+|last=Baird
+|first=Louise
+|year=2002b
+|title=Kéo
+|journal=Journal of the International Phonetic Association
+|volume=32
+|issue=1
+|pages=93–97
+|doi=10.1017/S0025100302000178
+|doi-access=free
+}}
+{{Refend}}
+
+{{Central Malayo-Polynesian languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Sumba languages]]
+[[Category:Languages of Indonesia]]
+[[Category:Isolating languages]]

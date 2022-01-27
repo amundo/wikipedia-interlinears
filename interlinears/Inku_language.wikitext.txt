@@ -1,0 +1,68 @@
+{{Distinguish|Hindko}}
+{{Redirect-distinguish2|Jakati language|languages known as ''[[Jataki language|Jataki]]''}}
+{{Infobox language
+|name=Inku
+|altname=
+|states=[[Afghanistan]]
+|ref={{sfn|Eberhard|Simons|Fennig|2019}}
+|extinct=apparently since the 1990s
+|speakers2=
+|familycolor=Indo-European
+|fam2=[[Indo-Iranian languages|Indo-Iranian]]
+|fam3=[[Indo-Aryan languages|Indo-Aryan]]
+|fam4=[[North-Western Zone|Northwestern]]
+|fam5=[[Punjabic languages|Punjabi]]
+|fam6=[[Lahnda]]
+|iso3=jat
+|glotto=jaka1245
+|glottorefname=Inku
+}}
+'''Inku''' was an [[Indo-Aryan language]] formerly spoken throughout [[Languages of Afghanistan|Afghanistan]] by four of the country's [[Peripatetic groups of Afghanistan|itinerant communities]]: the Jalali, the Pikraj, the Shadibaz and the Vangawala. Itinerant communities in Afghanistan, whether Inku-speaking or not, are locally known as "Jats" (not to be confused with the [[Jat people|Jats of India and Pakistan]]), a term which is not a self-designation of the groups but rather a collective, often pejorative name given by outsiders.{{sfn|Hanifi|2012}} It is presumably for this reason that the language is called '''Jakati''' in the [[Ethnologue]] encyclopedia.
+
+Each of the four groups speaks a variety with slight differences compared to the others.{{sfn|Rao|1995|p=82}} According to their local tradition, their ancestors migrated in the 19th century from the [[Dera Ismail Khan District|Dera Ismail Khan]] and [[Dera Ghazi Khan District|Dera Ghazi Khan]] regions of present-day Pakistan.{{sfn|Rao|1986|p=266}} Such an origin suggests that Inku may be related to the [[Saraiki language]] spoken there,{{sfn|Rao|1986|p=267}} though nothing is conclusively known.{{sfn|Rao|1995}} 
+
+The total population of the four Inku-speaking groups was estimated to be 7,000 as of the end of the 1970s.{{sfn|Rao|1986|pp=267–71}} There is no reliable information about their present state, though it is unlikely that many have survived the subsequent upheavals in the country,{{sfn|Hanifi|2012}} and [[Ethnologue]] states, though without citing a source, that Inku's last speakers "probably survived into the 1990s".{{sfn|Eberhard|Simons|Fennig|2019}}
+
+Linguistic materials about the varieties spoken by the Shadibaz, Vangawala and Pikraj were collected by [[Aparna Rao]] in the 1970s, but they have not been published or analysed yet.{{sfn|Rao|1995|p=82}}
+
+== Example text ==
+The following is an extract of a text narrated in 1978 by a man of the Chenarkhel subgroup of the Vangawala:{{sfn|Rao|1995|p=85}}
+{{interlinear|indent=2
+|asona dyana.
+|listen(?) attention|}}
+
+{{interlinear|indent=2
+|asāñ ta bewatan te bezamīñ bejedad eñ.
+|we then countryless and landless propertyless are|}}
+
+{{interlinear|indent=2
+|as sāṛe ḍāḍe is vatan kono āeñ Balučistān koloñ.
+|our {} ancestors this country to came Baluchistan from|}}
+
+{{interlinear|indent=2
+|as sāṛe ḍāḍe Balučistān koloñ āeñ.
+|our {} ancestors Baluchistan from came|}}
+
+{{interlinear|indent=2
+|te is vatan vič asāñ taqriban sō {ḍiḍ sō} varā thi gaiñ.
+|and this country in we about 100 150 years has/have become|}}
+
+{{interlinear|indent=2
+|sō {ḍiḍ sō} warā thi gayā asā bejedād bezamīn vadiyeñ.
+|100 150 years has/have become we propertyless landless {are in trouble}|}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* {{cite book|editor-last1 = Eberhard| editor-first1 = David M.| editor-last2 = Simons| editor-first2 = Gary F.| editor-last3 =  Fennig| editor-first3 = Charles D.| year=2019|chapter = Jakati|title=Ethnologue: Languages of the World|edition=22nd|publisher=SIL International|chapter-url=https://www.ethnologue.com/language/jat}}
+* {{cite book|last = Hanifi | first = M. Jamil | year = 2012| chapter = Jāt| title=Encyclopædia Iranica|chapter-url=http://www.iranicaonline.org/articles/jat}}
+*{{cite book|last1=Kieffer|first1=Charles|title=Encyclopædia Iranica|date=1983|volume=I|pages=501–516|chapter-url=http://www.iranicaonline.org/articles/afghanistan-v-languages|chapter=Afghanistan: V. Languages}}
+* {{cite book|last = Rao| first = Aparna | year = 1986| chapter = Peripatetic Minorities in Afghanistan: Image and Identity| pages = 254–83| title = Die ethnischen Gruppen Afghanistans| editor-last = Orywal| editor-first = Erwin| place = Wiesbaden| publisher = L. Reichert.|isbn=3-88226-360-1}}
+* {{cite journal|last = Rao | first = Aparna | year = 1995 | title = Marginality and language use: the example of peripatetics in Afghanistan | journal = Journal of the Gypsy Lore Society | volume = 5 | issue = 2 | pages = 69–95|url=http://babel.hathitrust.org/cgi/pt?id=mdp.39015077550260;view=1up;seq=11}}
+
+{{Punjabi varieties}}
+{{Indo-Aryan languages}}
+
+[[Category:Indo-Aryan languages]]
+[[Category:Languages of Afghanistan]]

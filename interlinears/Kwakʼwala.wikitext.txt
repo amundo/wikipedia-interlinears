@@ -1,0 +1,773 @@
+{{Short description|Wakashan language}}{{multiple issues|
+{{More citations needed|date=November 2009}}
+{{cleanup lang|date=June 2021}}<!-- IPA transcriptions need template and brackets or slashes -->
+}}
+{{Infobox language
+| name             = Kwakʼwala
+| altname          = 
+| region           = along the [[Queen Charlotte Strait]]
+| state            = [[Canada]]
+| ethnicity        = 3,665 [[Kwakwakaʼwakw]]
+| speakers         = 450
+| date             = 2016 census
+| ref              = <ref>{{Cite web|url=http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/dt-td/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=1&PID=112132&PRID=10&PTYPE=109445&S=0&SHOWALL=0&SUB=0&Temporal=2017&THEME=122&VID=0&VNAMEE=&VNAMEF=|title=Aboriginal Mother Tongue (90)|last=Canada|first=Government of Canada, Statistics|website=www12.statcan.gc.ca|date=28 March 2018|language=en|access-date=2018-05-21}}</ref>
+| familycolor      = American
+| fam1             = [[Wakashan languages|Wakashan]]
+| fam2             = Northern
+| iso3             = kwk
+| glotto           = kwak1269
+| glottorefname    = Kwakʼwala
+| notice           = IPA
+| map              = Kwakʼwala map.svg
+| mapcaption       = Dialects of Kwakʼwala
+| dia1             = T̓łat̓łasik̓wala
+| dia2             = G̱uc̓ala
+| dia3             = Nak̕wala
+| dia4             = [[Liq'wala|Liq̓ʷala]]
+| image            = Kwakiutl Vancouver Art Museum.jpg
+| imagecaption     = Marianne Nicolson's The House of the Ghosts, 2008. 
+Text in Kwakʼwala and English at the  Vancouver Art Gallery
+| nativename       = Kwak̓wala
+}}
+
+'''Kwakʼwala''' ({{IPAc-en|k|w|ɑː|ˈ|k|w|ɑː|l|ə}}),<ref>Laurie Bauer, 2007, ''The Linguistics Student's Handbook'', Edinburgh</ref> or '''Kwak̓wala,''' previously known as '''Kwakiutl''' ({{IPAc-en|ˈ|k|w|ɑː|k|j|ʊ|t|əl}}),<ref>{{OED|Kwakiutl}}</ref> is the [[Indigenous peoples of the Pacific Northwest Coast|Indigenous]] language spoken by the [[Kwakwakaʼwakw]] (which means "those who speak Kwakʼwala") in Western Canada. Kwakʼwala belongs to the [[Wakashan]] language family. There are fewer than 200 fluent Kwakʼwala speakers today, which amounts to 3% of the Kwakwakaʼwakw population. Because of the small number of speakers, most of whom are elders, as well as the fact that very few if any children learn Kwakʼwala as a first language, its long-term viability is in question. However, interest from many Kwakwakaʼwakw in preserving their language and a number of revitalization projects are countervailing pressures which may extend the viability of the language.
+
+==Dialects==
+
+The [[ethnonym]] ''Kwakwakaʼwakw'' means "speakers of Kwakʼwala", effectively defining an ethnic connection between different tribes by reference to a shared language. However, the Kwakʼwala spoken by each tribe exhibits dialectal differences, which may be quite significant in some cases. There are four major unambiguous dialects of Kwakʼwala: Kwak̓wala, ʼNak̓wala, G̱uc̓ala and T̓łat̓łasik̓wala.<ref>[http://www.languagegeek.com/wakashan/kwakwakawakw_communities.html Kwakwa̱ka̱'wakw/Kʷakʷəkəw̓akʷ Communities<!-- Bot generated title -->]</ref>
+
+In addition to those dialects, there are also Kwakwakaʼwakw tribes that speak [[Liqʼwala]]. Liqʼwala has sometimes been considered to be a dialect of Kwakʼwala and sometimes a separate language. The standard orthography for Liqʼwala is quite different from the most widely used orthography for Kwakʼwala, which tends to widen the apparent differences between Liqʼwala and Kwakʼwala.
+
+==Phonology==
+
+{| 
+|colspan="10"|
+|-
+|||''Note: Kwakʼwala text in this section is written in [[International Phonetic Alphabet|IPA]] transcription. For the difference between this and other transcription systems used for Kwakʼwala, see the following section. Vowel length and stress are not marked in all forms in this section.''||
+|-
+|}
+
+Kwakʼwala phonology exhibits many traits of the [[Indigenous peoples of the Pacific Northwest Coast|Northwest Coast]] [[Sprachbund]] of which it is a part. They include a large phonemic inventory with a very rich array of consonantal contrasts and relatively few vowels, frequent use of a reduced vowel ({{IPA|ə}}), contrastively glottalized sonorant consonants, the existence of ejectives at all places of articulation, and the existence of lateral affricates.
+
+The vowels of Kwakʼwala are ''a, e, i, o, u, ə''. There is a phonemic length distinction as well; however, not all vowels exist in both long and short versions. The phonemic status of some of the vowels in question is relatively unclear, as especially evident in the case of ''a'' and ''ə''. They often interchange in different instances of the same stem or suffix, depending on the phonological content. {{Harvtxt|Grubb|1969}} presents some cases of [[complementary distribution]] between ''a'' and ''ə'' but concludes that those vowels must be underlyingly distinct in some other cases.
+
+{{Harvtxt|Bach|1975}} analyzes all vowels other than ''ə'' and ''a'' as derived rather than underlying: ''i'' from {{IPA|/əj/}}; ''u'' from {{IPA|/əw/}}; ''e'' from {{IPA|/əja/}}; and ''o'' from {{IPA|/əwa/}}.
+
+The consonantal inventory of Kwakʼwala includes a three-way contrast in plosives (plain (voiceless), voiced, and ejective). There is an extensive series of distinctions between rounded and non-rounded consonants in the dorsal region. Notably, there are no velar consonants without secondary articulation: they are all either palatalized or labialized. The consonants are shown in the following table.
+
+{| class="wikitable IPA" style="text-align:center"
+|-
+|+ [[Consonant]]s
+! colspan="2" rowspan="2" | 
+! rowspan="2" | [[Bilabial consonant|Bilabial]]
+! colspan="3" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! colspan="2" | [[Uvular consonant|Uvular]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! <small>[[Central consonant|central]]</small> || <small>[[Sibilant consonant|sibilant]]</small> || <small>[[Lateral consonant|lateral]]</small>
+! <small>[[Palatalization (phonetics)|pal.]]</small> || <small>[[Labialization|lab.]]</small>
+! <small>plain</small> || <small>lab.</small>
+|-
+! rowspan="3" | [[Plosive]]/<br />[[Affricate]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|ts}}
+| {{IPAlink|tɬ}}
+|
+| {{IPA|kʲ}}
+| {{IPA|kʷ}}
+| {{IPAlink|q}}
+| {{IPA|qʷ}}
+| {{IPAlink|ʔ}}
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|dz}}
+| {{IPAlink|dɮ}}
+|
+| {{IPA|ɡʲ}}
+| {{IPA|ɡʷ}}
+| {{IPAlink|ɢ}}
+| {{IPA|ɢʷ}}
+|
+|-
+! <small>[[Ejective consonant|ejective]]</small>
+| {{IPAlink|pʼ}}
+| {{IPAlink|tʼ}}
+| {{IPAlink|tsʼ}}
+| {{IPAlink|tɬʼ}}
+|
+| {{IPA|kʲʼ}}
+| {{IPA|kʷʼ}}
+| {{IPAlink|qʼ}}
+| {{IPA|qʷʼ}}
+|
+|-
+! colspan="2" | [[Fricative]]
+|
+|
+| {{IPAlink|s}}
+| {{IPAlink|ɬ}}
+|
+| {{IPA|xʲ}}
+| {{IPA|xʷ}}
+| {{IPAlink|χ}}
+| {{IPA|χʷ}}
+| {{IPAlink|h}}
+|-
+! rowspan="2" | [[Sonorant]]
+! <small>plain</small>
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+| {{IPAlink|l}}
+| {{IPAlink|j}}
+|
+| {{IPAlink|w}}
+|
+|
+| 
+|-
+! <small>[[Glottalization|glottalized]]</small>
+| {{IPA|mˀ}}
+| {{IPA|nˀ}}
+|
+| {{IPA|lˀ}}
+| {{IPA|jˀ}}
+|
+| {{IPA|wˀ}}
+|
+|
+|
+|}
+
+Stress placement depends on syllable weight. A syllable is heavy if it has a long vowel or a [[Mora (linguistics)|moraic]] [[Syllable coda|coda]]; otherwise it is light. A moraic coda is a non-glottalized sonorant. Thus, ''pən'' is a heavy syllable, while ''pət'' is light {{Harv | Zec | 1994}}. If a word has any heavy syllables, primary stress falls on the leftmost heavy syllable. Otherwise, primary stress falls on the rightmost syllable.
+
+Secondary stress also occurs, but its distribution is less well understood. According to {{Harvtxt | Wilson | 1986}}, secondary stress falls on the second syllable following the primary stress and iteratively thereafter on every second syllable. This statement may be amended to take into account the observation of {{Harvtxt| Boas | 1947}} that epenthetic vowels never bear stress, including secondary stress, and they seem to be invisible when syllables are counted for the assignment of secondary stress.
+
+Kwakʼwala appears to have an otherwise unattested pattern of repair strategies for coda condition violations. Underlyingly voiced consonants are devoiced word-finally but surface faithfully with following epenthesis when they are word-internal. Glottalized consonants remain glottalized when word-final but surface with a following epenthetic vowel when they are word-internal {{Harv | Davenport | 2007}}.
+
+===Morphophonology===
+
+Kwakʼwala has a rich morphological system which, like other Wakashan languages, is entirely [[suffix]]ing (except for [[reduplication]]). Like other Wakashan languages, Kwakʼwala morphology is notable for the complex effects that certain suffixes trigger or correlate with in the stems to which they affix. There are two basic categories of changes associated with suffixes: [[fortition]] or [[lenition]] of a stem-final consonant and expansion of stem material through vowel lengthening or reduplication.
+
+====Hardening and weakening====
+
+Suffixes fall into three classes according to their behaviour: neutral, weakening, and hardening. Following the Boasian orthographic tradition, the suffix types are indicated by a symbol preceding the suffix: '-', '=' or '-!', respectively. Weakening and hardening suffixes alter the stem to which they attach by changing the features of the stem-final consonant.
+
+Weakening suffixes trigger a kind of [[lenition]]. Plain voiceless stops and affricates are changed to their voiced equivalent. The behaviour of fricatives is somewhat more erratic. {{IPA|/s/}} weakens to {{IPA|[dz]}} or {{IPA|[j]}}, depending on the root, a classification apparently arbitrary. {{IPA|/xʲ/}} weakens to {{IPA|[n]}}. Both {{IPA|/xʷ/}} and {{IPA|/χʷ/}} weaken to {{IPA|[w]}}, but {{IPA|/χ/}} does not change in a weakening context. {{IPA|/ɬ/}} voices when weakened, surfacing as {{IPA|[l]}}. Sonorants weaken by becoming glottalized.
+
+In addition to the somewhat unpredictable set of changes, the patterns involved in weakening are further complicated by the fact that some suffixes weaken stops but do not affect fricatives. Boas lists 11 suffixes weakening stops and affricates but not fricatives; these suffixes are indicated by the notation (=) as seen in the following list: (=){{IPA|əs}} "continuously"; (=){{IPA|əχsta}} "mouth, opening, to talk about"; (=){{IPA|əxʲsa}} "away"; (=){{IPA|təwiʔ}} or (=){{IPA|toʔji}} "to do something while doing something else" – weakens {{IPA|/s/}}; (=){{IPA|ɡʲəɬ}} "continuing motion in a definite direction" – weakens {{IPA|/k}}, {{IPA|q}}, {{IPA|s/}}; (=){{IPA|ɡʲətɬəla}} "to go attend, to be on the way"; (=){{IPA|χəkʷ}} "place where there are many (plants etc.)" – does not weaken {{IPA|/s/}}; (=){{IPA|χs}} "canoe"; (=){{IPA|χsikʲa}} "in front of house, body, mountain"; (=){{IPA|χtɬəjˀa}} "by force"; (=){{IPA|tɬiʔ}} "moving on water".
+
+Hardening suffixes trigger a kind of [[fortition]]. Stem-final plain stops or affricates or sonorants become glottalized. As with weakening suffixes, the hardening patterns of fricatives are less predictable. {{IPA|/s/}} hardens to {{IPA|[ts]}} or {{IPA|[jˀ]}}. (The classification is apparently arbitrary and not necessarily consistent with the weakening behavior of a given stem; a stem in which {{IPA|/s/}} becomes {{IPA|[dz]}} when weakened may become either {{IPA|[ts]}} or {{IPA|[jˀ]}} when it is hardened, etc.) {{IPA|/xʲ/}} hardens to {{IPA|[nˀ]}}. Both {{IPA|/xʷ/}} and {{IPA|/χʷ/}} harden to {{IPA|[wˀ]}}, while {{IPA|/χ/}} in a hardening context surfaces with an additional following glottal stop: {{IPA|[χʔ]}}. {{IPA|/ɬ/}} hardens to {{IPA|[lˀ]}}.
+
+In keeping with the avoidance of laryngeally marked non-final codas, weakening and hardening often trigger epenthesis, yielding a schwa between the stem and suffix.
+
+The table below illustrates how various roots weaken and harden.
+
+{| class=wikitable
+!Root
+!Weakening
+!Hardening
+!Meaning
+|-
+|{{IPA|ʔiːp}} || {{IPA|ʔiːbaju}} || {{IPA|ʔiːpʼid}} || ?
+|-
+|{{IPA|wat}} || {{IPA|waːdəkʷ}} || {{IPA|watʼiːniʔ}}
+|-
+|{{IPA|ɢəkʲ}} || {{IPA|ɢəɡʲad}} || {{IPA|ɢaːɢəkʼʲa}}
+|-
+|{{IPA|bəkʷ}} || {{IPA|bəɡʷiːs}} || {{IPA|bəkʼʷəs}}
+|-
+|{{IPA|wənq}} || {{IPA|wənɢiɬ}} || {{IPA|wənqʼa}}
+|-
+|{{IPA|jaqʷ}} || {{IPA|jaːɢʷis}} || {{IPA|jaːqʼʷəs}}
+|-
+|{{IPA|kʼʲəmtɬ}} || {{IPA|kʼʲəmdləkʷ}} || {{IPA|kʼʲəmtɬʼala}}
+|-
+|{{IPA|pʼəs}} || {{IPA|pʼəjaːju}} || {{IPA|pʼaːpʼətsʼa}}
+|-
+|{{IPA|məxʲ}} || {{IPA|mənatsʼi}} || {{IPA|maːmanˀa}}
+|-
+|{{IPA|dlaχʷ}} || {{IPA|dlaːwaju}} || {{IPA|dlaːwˀa}}
+|-
+|{{IPA|tsʼuːɬ}} || {{IPA|tsʼuːlatu}} || {{IPA|tsʼulˀəmja}}
+|-
+|{{IPA|siːχʷ}} || {{IPA|siːwaju}} || {{IPA|siːwˀala}}
+|-
+|}
+
+Some stems with underlying final voiced stops or glottalized segments are attested with hardening and weakening suffixes. However, they are too infrequent to give generalizations for how they behave in those contexts.
+
+====Stem expansion====
+
+In addition to fortition and lengthening, suffixes may also be associated with lengthening or reduplication effects on the stems which precede them. {{Harv | Boas | 1947}} distinguishes seven classes of suffix (with many subclasses), which all have different effects on some of the twenty possible root shapes which he identifies:
+
+{| class=wikitable
+!
+!Root
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!Suffix
+!
+!
+!
+!
+!
+!
+!
+!
+!
+|-
+|Class || Shape || e.g. || 1 || 1a || 2 || 3a || 3b || 3c || 3d || 3e || 3f || 3g || 3h || 4 || 5 || 6a || 6b || 6c || 6d || 7
+|-  
+|A1. || CəT || {{IPA|nəp}} || = || = || – || – or V+= || – || – || {{IPA|ˈa}} or +{{IPA|ə}} || {{IPA|ˈa}} || – || – or ˘+= || {{IPA|ˈa}} or CVC*a || ˘+= || {{IPA|aː}}+{{IPA|a}}  || – || – || {{IPA|ˈa}} || – || {{IPA|eː}}+v
+|-
+|A2. || CəR || {{IPA|kən}} || = || – || – || – || – || -+= || = or ˘+= || ˘+= || – or ˘+= || || ˘+= || ˘+= || {{IPA|aː}}+=|| -+˘ or – || -+˘ || -+˘ || -+˘ || -+˘
+|-
+|A3. || CəY || {{IPA|dəy}} || = || – || – || – || – or V+= || ˘+= or -" || – or ˘+= || ˘+= || ˘+= || -" or ˘+= || ˘+= ||  ||  || -+˘ || -+˘ || -+˘ || -+˘ || -+˘
+|-
+|A4. || CəD || {{IPA|wˀəd}} || = || = || – || – || – || – || ˈ- || – || – || – || – ||  ||  || – || = (?) || – ||  || {{IPA|eː}}+˘
+|-
+|A5. || CəTʼ || {{IPA|χəkʲʼ}} || = || = || – || – || – || – || ˈ- || – || – ||  || = || ˘+=  || {{IPA|aː}}+= || – || – ||  ||  || {{IPA|eː}}+˘
+|-
+|A6. || CəRˀ || {{IPA|tsʼəmˀ}} || = || = || – || – ||  || = || ˈ- || ˈ- ||  ||  ||  ||  || ˘+= || ˘+= || ˘+= || – || – || {{IPA|eː}}+˘
+|-
+|B1. || CVT || {{IPA|ɡʲuːkʷ}} || = || = || = || – or -+˘ || -" or ˘+= || ˘+= or -" or CajaC || -" or ˘+= || -" or ˘+= || -" or ˘+= || -" or -+= || ˘+= || ˘+= || {{IPA|aː}}+= || -+˘ or -+{{IPA|aː}} || -+v || – or -+{{IPA|a}} || -+{{IPA|a}} || -+˘
+|-
+|B2. || CVR || {{IPA|qʼuːm}} || = || = || = ||  ||  ||  ||  ||  || ˘+= ||  ||  ||  ||  || ˘+- or {{IPA|əm}} || -+˘ ||  ||  || 
+|-
+|B3. || CVY || – || = || = || = ||  ||  ||  || -" or ˘+= ||  ||  ||  ||  ||  ||  || ˘+- ||  ||  ||  || 
+|-
+|B4. || CVD || {{IPA|jˀuːɡʷ}} || = || = || = ||  ||  || ˘+= or ˈ- ||  ||  || -" or ˘+= || ˘+= ||  ||  ||  ||  ||  ||  ||  ||
+|-
+|B5. || CVTʼ || {{IPA|siːqʼ}} || = || = || = || = ||  || ˘+=(a) || – or ˘+= ||  || ˘+= || v+= ||  ||  ||  || ˘+- || -+˘ || – or ˘+- ||  ||
+|-
+|B6. || CVRˀ || {{IPA|waːnˀ}} || = || = || = || = ||  || ˘+= ||  ||  || ˘+= ||  ||  ||  ||  || – ||  ||  ||  ||
+|-
+|C1. || CVRT || {{IPA|qəns}} || = || = || = || – or -+˘ or CaRaC || – or ˘+= or CaRaC || ˘+= or CaRaC || – or ˘+= || ˘+= or CaRaC || ˘+= or – || – or ˘+= || ˘+= || ˘+= || {{IPA|aː}}+= || -+˘ || -+= || -+=˘ || -+˘ || -+=
+|-
+|C2. || – || – ||  ||  || || || || || || || || || || || || || || || || 
+|-
+|C3. || – || – ||  ||  || || || || || || || || || || || || || || || || 
+|-
+|C4. || CəRD || {{IPA|məndz}} || = || = || || || || v+= || – or ˘+= || || || v+= || || || || || || ˘+- || || 
+|-
+|C5. || CəRTʼ || {{IPA|jəŋkʲʼ}} || = || = || || = || || ˘+= || – or ˘+= || ˘+= || || v+= || || || || || || ˘+- || || 
+|-
+|C6. || CəRˀT || {{IPA|ɡʲəmˀxʲ}} || = || = || || = || || – || || || || || || || || || || || || 
+|-
+|D. || CəTT || {{IPA|tsʼəɬkʲ}} || = || = || || || || ˘+= || -" or ˘+= || ˘+= || ˘+= || ˘+= || || || {{IPA|aː}}+? || {{IPA|aː}}+˘ || || || || -+˘ 
+|}
+
+''Key:'' The chart follows the one given in {{Harv | Boas | 1947 | p=235 }}, with a few alterations. Root shapes refer to an initial consonant C, a nucleus ''{{IPA|ə}}'' or a full vowel V, and final consonants including plain voiceless obstruents (T), voiced obstruents (D), glides (Y), other sonorants (R) and glottalized versions of each of T and R (Tʼ and Rˀ). Cells show the effect of suffixes belonging to the various classes (columns) on roots or stems of various shapes (rows). = indicates that the suffix leaves the stem unchanged. – indicates that the suffix triggers vowel lengthening in the stem (often causing {{IPA|ə}} to turn into {{IPA|aː}}). A cell with a vowel ({{IPA|a}} or {{IPA|e}}) indicates that the stem vowel is replaced with the vowel in the cell. Several symbols occurring together with + in the middle indicates that reduplication occurs; the symbols on each side of + indicate the shape of each syllable of the reduplicative stem.
+
+For example, class 7 suffixes added to C1 roots trigger reduplication on the pattern -+= which means that the reduplicative stem has two syllables, with the first syllable long and the second syllable preserving the length of the original stem. ˘ indicates a short copy; thus a 6a suffix on a D root will produce a reduplicative stem, with the second syllable being short and the first syllable having a nucleus {{IPA|a}}. C refers to one of the stem consonants. Stress marks show the location of primary stress in the suffixed form. In non-reduplicative forms, they indicate that the stem itself bears stress. In reduplicative forms, stress marks indicate which stem syllable bears stress. When no stress mark is included, stress assignment follows the regular pattern for Kwakʼwala stress. Cells with multiple options are given as in the original chart; it is not clear whether the optionality is systematic in any way.
+
+A few symbols whose meaning is unclear have been retained directly, as given in Boas. These include V and v. The symbol -" corresponds to a special symbol in the original chart (a [[dash]] with [[trema (diacritic)|trema]]); its meaning is also unclear. A few corrections to the original chart are made in the version above. Class 2 suffixes are listed in this chart as "all -", i.e. lengthening all stems. However, all the class 2 suffixes described by Boas which productively apply to roots of type B or C leave stems unchanged rather than triggering lengthening. This also adheres to the phonotactics of Kwakʼwala, which do not allow super-heavy syllables of the type which would be created by lengthening these stems.
+
+Therefore, the chart above treats class 2 suffixes as causing no change in roots of these types. Additionally, several forms in the original chart have "-" in place of "+" in reduplicative forms. They are taken as errors here, and corrected in the chart above. Root classes C2 and C3 are included in this chart as they are included in his chart even though there are no known roots belonging to these classes (which would presumably have the shapes CəRR and CəRY). Root class B3 is included with the changes noted in the original chart although {{Harv | Boas | 1947 | p=217 }} states that there are no known roots of this type.
+
+An example of a suffix that triggers stem changes is -!{{IPA|əm}} "exclusively; real, really; just only; common," which belongs to class 3f. Its effect on roots of various shapes is shown in the following table.
+
+{| class=wikitable
+!Root class
+!Root
+!Suffixed form
+!Gloss
+|-
+|A1 || {{IPA|məxʲ}} || {{IPA|maːnˀəm}} || "hit with fist and nothing else"
+|-
+|A2 || {{IPA|kʲən}} || {{IPA|kʲəkʲənˀəmxʲʔid}} || "to get really loose"
+|-
+|A3 || {{IPA|qʼəj}} || {{IPA|qʼaqʼajˀəm}} || "really many"
+|-
+|A4 || {{IPA|wˀəd}} || {{IPA|wˀadaʔəm}} || "really cold"
+|-
+|A5 || {{IPA|χəkʲʼ}} || {{IPA|χaːkʲʼaʔəm}} || "really to stay away"
+|-
+|A6 || {{IPA|ɬəlˀ}} || {{IPA|ɬaːlaʔəm}} || "really dead"
+|-
+|B1 || {{IPA|ɡʲuːkʷ}} || {{IPA|ɡʲəɡʲuːkʷʼəm}} || "a house and nothing else"
+|-
+|B2 || {{IPA|ɡʲaːl}} || {{IPA|ɡʲəɡʲaːlaʔəm}} || "very first"
+|-
+|B4 || {{IPA|juːɡʷ}} || {{IPA|jˀəjˀuːɡʷamˀ}} or {{IPA|jˀuːɡʷamˀ}} || "really rain"
+|-
+|B5 || {{IPA|χanˀ}} || {{IPA|χəχaːnˀaʔəm}} || "really naked"
+|-
+|C1 || {{IPA|ləmχʷ}} || {{IPA|lələmwˀəm}} || "really dry"
+|-
+|D || {{IPA|pʼədəkʲ}} || {{IPA|pʼaːdəkʲʼəmxʲʔid}} || "it gets really dark"
+|}
+
+====Other word-formation processes====
+
+In addition to suffix-driven reduplication, word formation may also involve reduplication not tied to any suffix. There are at least two reduplication patterns.
+
+==Morphosyntax==
+
+Expansion of stems through suffixation is a central feature of the language, which transforms a relatively small lexicon of roots into a large and precise vocabulary. Different linguistic analyses have grouped these suffixes into classes in various ways, including "formative" vs. "incremental" and "governing" vs. "restrictive". {{Harv | Boas | 1947 }} rejects these morphosyntactic classifications and divides suffixes into various classes based mainly on semantic criteria. Nevertheless, there are morphosyntactic facts that distinguish classes of suffixes, including suffix ordering and the existence of paradigms for certain suffix types. At a minimum, there is sufficient evidence from syntax and phonology to distinguish between stem-forming suffixes and inflectional suffixes. The classes are comparable to the distinction between [[derivation (linguistics)|derivational]] and [[inflection]]al morphology although they are not necessarily homologous with them.
+
+===Stem-forming suffixes===
+
+The suffixes in Kwakʼwala can be grouped into at least nineteen different classes, principally on semantic grounds. {{Harv | Boas | 1947 | p=237}} In the order given by Boas, the classes correspond generally but not completely to the order in which these suffixes appear within a word:
+
+# General locatives: e.g. ''={{IPA|axʲsa}}'' "away" (''{{IPA|maːxtsʼaxʲsa}}'' "to go away for shame"); ''={{IPA|ʔdzu}}'' "on a flat object" (''{{IPA|ʔaleːwədzəweʔ}}'' "sea hunter on flat, i.e. Orion").
+# Special locatives: e.g. ''-{{IPA|ʔstu}}'' "round opening, eye, door" (''{{IPA|t͡ɬeːχʼʷstu}}'' "to miss a round place"); ''={{IPA|is}}'' "open space, bottom of sea, world, beach, in body" (''{{IPA|mˀəɡʷiːs}}'' "round thing in stomach").
+# Special locatives referring to body parts: e.g. ''-!{{IPA|pəla}}'' "throat" (''{{IPA|teːkʼʷəpəla}}'' "to have hanging on chest"); ''-!{{IPA|iq}}'' "in mind" (''{{IPA|nˀeːnˀkʼʲiχʼid}}'' "to begin to say in mind").
+# Limitations of form: Generally used with numerals, e.g. ''={{IPA|ukʷ}}' "human beings" (''{{IPA|malˀuːkʷ}}'' "two persons"); ''-{{IPA|tsʼaq}}'' "long" (''{{IPA|nˀəmpˈinatsʼaxsta}}'' "only once along street of village").
+# Temporal suffixes: e.g. ''-{{IPA|xʲid}}'' "recent past" (''{{IPA|qaːsaxʲid}}'' "he went (about a week ago)"); ''-{{IPA|ajadzəwˀaɬ}}'' "used to be, to do" (''{{IPA|t͡ɬiːqˈinuχajadzəwˀaɬ}}'' "used to be a canoe-builder").
+# Suffixes creating a transitive verb: e.g. ''-{{IPA|a}}'', which turns a static or intransitive verb or a noun into a transitive verb: cf. ''{{IPA|ʔamχ}}'' "water-tight" and ''{{IPA|ʔamχa}}'' "to make water-tight"; and ''{{IPA|jaːsikʷ}}'' "tallow" and ''{{IPA|jaːsikʷa}}'' "to put tallow on".
+# Aspect: e.g. ''-{{IPA|(ə)s}}'' "continuously" (''-!{{IPA|məmiːχəs}}'' "to sleep continuously, all the time"); ''-{{IPA|aːɬa}}'' "to be in the position of performing an act" (''{{IPA|xʲuːsaɬa}}'' "to be at rest").
+# Plurality (human): i.e. ''-{{IPA|xʲdaʔχʷ}}'' (''{{IPA|ʔaχiːdəxʲdaʔχʷ}}'' "they took").
+# Mode: e.g. ''-{{IPA|uʔ}}'' "hypothetical" (''{{IPA|qasuʔ wət͡ɬasuʔt͡ɬuʔ}}'' "if you should be asked"); ''-{{IPA|xʲ}}'' "exhortative" (''{{IPA|ɢʷalaxʲənts}}'' "do not let us do so!")
+# Passive: e.g. ''={{IPA|əm}}'' "passive of verbs with instrumental" (''{{IPA|halaːɢimaχa maːmajuɬtsila}}'' "it is paid to the midwife"); ''-{{IPA|ɬ}}'' "passive of verbs expressing sensations and mental actions; also sensations produced by outer actions" (''{{IPA|ʔamdəɬ}}'' "to be affected by a furuncle").
+# Restriction of subject: e.g. ''-{{IPA|(xʲ)sanala}}'' "some" (''{{IPA|(huːχʷsanalaɡʲəliɬ}}'' "some of them vomit in house"); ''-{{IPA|amənqʷəla}}'' "some" (''{{IPA|kʲˈəlxʲamənqʷəla}}'' "some are unripe").
+# Nominal suffixes: e.g. ''-!{{IPA|ənχ}}'' "season" (''{{IPA|xʲaːmˀaʔənχ}}'' "season of scarcity of food"); ''={{IPA|id}}'' "the one by whom one is owned as" (''{{IPA|qʼaːɡʷid}}'' "master (i.e. the one by whom one is owned as a slave)").
+# Verbal suffixes: e.g. ''={{IPA|alisəm}}'' "to die of inner troubles" (''{{IPA|xʷəljalisəm}}'' "to die of longing"); ''-{{IPA|buɬa}}'' "to pretend" (''{{IPA|qʼʷaːsabuɬa}}'' "to pretend to cry").
+# Adverbal/adjectival suffixes: e.g. ''-{{IPA|kʲas}}'' "real, really" (''{{IPA|nənwalakʼʷinikʲasus}}'' "your real supernatural power"); ''-{{IPA|dzi}}'' "large" (''{{IPA|qʼaːsadzikʲas}}'' "a great number of sea otters").
+# Source of information: e.g. ''-{{IPA|lˀ(a)}}'' "it is said" (''{{IPA|χənt͡ɬəlalˀ}}'' "very much, it is said"); ''-{{IPA|ʔəŋɡʲa}}'' "in a dream" (''{{IPA|laʔəŋɡʲa}}'' "in a dream it was seen that he went").
+# Degree of certainty: e.g. ''-{{IPA|ɡʲanəm}}'' "perhaps" (''{{IPA|suːɡʲanəm}}'' "you perhaps"); ''-{{IPA|dza}}'' "emphatic certainty" (''{{IPA|ladzat͡ɬən}}'' "I am going to go").
+# Conjunctions: e.g. ''-{{IPA|mˀ}}'' "referring to a previous subject of conversation or narrative"; ''-{{IPA|tˈa}}'' "but, on his part".
+# Emotional attitudes: e.g. ''-{{IPA|id͡l}}'' "astonishing!" (''{{IPA|saʔid͡la}}'' "is that you?!"); ''-{{IPA|niʔsd͡l}}'' "oh if!" (''-{{IPA|ɡʲaːχniʔsd͡liʔ}}'' "oh, if he would come!").
+# Auxiliary suffixes: e.g. ''-{{IPA|ɡʲəɬ}}'' "motion without cessation, away" (''{{IPA|uːχt͡ɬəɡʲəɬəχsa}}'' "to lift a load out of a canoe"); ''-{{IPA|əm}}'' "plural of locative suffixes" (''{{IPA|jəpəmliɬ}}'' "to stand in a row in the house").
+
+===Inflectional suffixes===
+
+There are two major types of inflectional suffixes in Kwakʼwala: verbal suffixes that modify a [[Predicate (grammar)|predicate]]; and nominal [[clitic]]s, which may agree with a noun present in the sentence, or may be entirely [[pronoun|pronominal]].
+
+===Verbal inflection===
+
+A [[Linguistic typology|typologically]] notable feature of Kwakʼwala is the distinction made in verbal conjugation between visible and invisible subjects. A distinction is also made between subjects that are near the listener and those that are far. The verb paradigm for ''{{IPA|la}}'' "to go" (classified as a Paradigm 2 verb) illustrates these properties {{Harv | Boas | 1947 | p=261}}:
+
+{| class=wikitable
+!
+!Indicative
+!Interrogative
+|-
+|1sg. || {{IPA|lən}} || {{IPA|laːʔən}}
+|-  
+|1pl. || {{IPA|lekʲ}} || ---
+|-
+|2sg./pl. || {{IPA|las}} || {{IPA|laːsa}}
+|-
+|3sg. near-me visible || {{IPA|lakʲ}} || {{IPA|laːʔəkʲ}}
+|-
+|3sg. near-me invisible || {{IPA|laɡʲaʔ}} || {{IPA|laːʔəɡʲaʔ}}
+|-
+|3pl. near-you visible || {{IPA|laχ}} || {{IPA|laːʔuχʷ}}
+|-
+|3pl. near-you invisible || {{IPA|laʔ}} || {{IPA|laːʔuʔ}}
+|-
+|3pl. elsewhere visible || {{IPA|la}} || {{IPA|laːʔiʔ}}
+|-
+|3pl. elsewhere invisible || {{IPA|laːʔ}} || {{IPA|laːʔijˀa}}
+|}
+
+===Nominal inflection===
+
+An entity can be present in a sentence in one of three ways: as a full overt noun, as a pronoun, or without any overt exponent. In each case, the entity will also be represented by an agreement clitic. If the entity takes the form of a noun or pronoun, the clitic will be from the prenominal set; if the entity has no overt exponent, a pronominal clitic will be used. Clitics always precede the nominal with which they agree, which violates the generalization that Kwakʼwala affixes are always suffixing. However, the clitic always forms a phonological word with the preceding word rather than the nominal, with the result that the suffixing generalization is always true as far as the phonology is concerned.
+
+Verbal suffixes are shown in the following table:
+
+{| class="wikitable" 
+|-
+! rowspan="2" |
+! colspan="3" | Pronominal
+! colspan="3" | Prenominal
+|-
+! Subject || Object || Instrumental
+! Subject || Object || Instrumental
+|-
+! 1sg.
+| -{{IPA|ən(t͡ɬ)}} || – || -{{IPA|ən(t͡ɬ)}} || ||  ||
+|-  
+! [[Inclusive and exclusive we|1pl. inclusive]]
+| -{{IPA|ənts}} || – || -{{IPA|ənts}} || ||  ||
+|-
+! [[Inclusive and exclusive we|1pl. exclusive]]
+| -{{IPA|əntsuxʼʷ}} || – || -{{IPA|əntsuxʼʷ}} || ||  ||
+|-
+! 2sg./pl.
+| -{{IPA|əs}} || -{{IPA|ut͡ɬ}} || -{{IPA|us}} || ||  ||
+|-
+! 3sg./pl.
+| – || -{{IPA|q}} || -{{IPA|s}} || -{{IPA|e}} || -{{IPA|χ}} || -{{IPA|s}}
+|}
+
+Because first and second person entities are always [[deixis|deictically]] accessible, there is no distinction between demonstrative and non-demonstrative clitics. However, third person clitics are distinguished in this way. As with verbal inflection, agreement clitics distinguish entities that are near and far and entities that are visible and invisible. Pronominal demonstrative clitics are shown in the following table (1 indicates an entity near the speaker; 2 indicates an entity near the hearer; 3 indicates an entity distant from both hearer and speaker):
+
+{| class=wikitable
+! colspan="2" |
+!Subject
+!Object
+!Instrumental
+|-
+!rowspan=2| 1
+! visible
+| -{{IPA|kʲ}} || -{{IPA|qəkʲ}} || -{{IPA|səkʲ}}
+|-  
+! invisible
+| -{{IPA|ɡʲaʔ}} || -{{IPA|χɡʲaʔ}} || -{{IPA|sɡʲaʔ}}
+|-
+!rowspan=2| 2
+! visible
+| -{{IPA|uχ}} || -{{IPA|qʷ}} || -{{IPA|suχ}}
+|-
+! invisible
+| -{{IPA|uʔ}} || -{{IPA|qʼʷ}}; -{{IPA|quʔ}} || -{{IPA|suʔ}}
+|-
+!rowspan=2|3
+! visible
+| -{{IPA|iq}} || -{{IPA|q}} || -{{IPA|s}}
+|-
+! invisible
+| -{{IPA|iʔ}} || -{{IPA|qi}} || -{{IPA|si}}
+|}
+
+Prenominal demonstrative clitics do not distinguish between visible and invisible entities. They are divided into two classes: ''consonantal'' forms (which precede proper names, indefinite nouns, and third person possessive forms whose possessor is not the subject of the sentence) and ''vocalic'' forms (which precede all other nouns and pronouns):
+
+{| class="wikitable" 
+|-
+! rowspan="2" |
+! colspan="2" | Subject
+! colspan="2" | Object
+! colspan="2" | Instrumental
+|-
+! Consonantal || Vocalic || Consonantal
+! Vocalic || Consonantal || Vocalic
+|-
+!1
+| -{{IPA|ɡʲa}} || -{{IPA|ɡʲada}}
+| -{{IPA|χɡʲa}} || -{{IPA|χɡʲada}}
+| -{{IPA|sɡʲa}} || -{{IPA|sɡʲada}}
+|-  
+!2
+| -{{IPA|uχ}} || -{{IPA|uχda}}
+| -{{IPA|χuχ}}; -{{IPA|χʷ}} || -{{IPA|χuχda}}; -{{IPA|χʷa}}
+| -{{IPA|suχ}}; -{{IPA|sa}} || -{{IPA|suχda}}; -{{IPA|sa}}
+|-
+!3
+| -{{IPA|i}} || -{{IPA|ida}}; -{{IPA|ida}}
+| -{{IPA|χ}} || -{{IPA|χa}}
+| -{{IPA|s}} || -{{IPA|sa}}
+|}
+
+Another set of suffixes is used to simultaneously indicate the subject and object/instrument, as shown in the following tables. (When the [[extension (semantics)|extension]] of the subject and object/instrument overlap, no suffix is available. Another construction must be used to express this kind of [[reflexive verb|reflexive]] relation.)
+
+{| class=wikitable
+!Subject
+!
+!
+!Object
+!
+!
+|-
+| || 1sg. || 1pl. inclusive || 1pl. exclusive || 2-sg./pl. || 3sg./pl.
+|---
+|1sg. || – || – || – || -{{IPA|ənt͡ɬut͡ɬ}} || -{{IPA|ənt͡ɬaq}}
+|-  
+|1pl. inclusive || – || – || – || – || -{{IPA|əntsaq}}
+|-
+|1pl. exclusive || – || – || – || -{{IPA|ənuxʼʷut͡ɬ}} || -{{IPA|ənuxʼʷaq}}
+|-
+|2sg./pl. || {{IPA|ɡʲaχən}} || – || {{IPA|ɡʲaχənuxʼʷ}} || – || -{{IPA|siq}}
+|-
+|3sg./pl. || {{IPA|ɡʲaχən}} || {{IPA|ɡʲaχənts}} || {{IPA|ɡʲaχənuxʼʷ}} || -{{IPA|ut͡ɬ}} || -{{IPA|q}}
+|}
+
+In the preceding table, forms with a first person object do not use a verbal suffix. Rather, they use a [[periphrastic]] auxiliary form of the verb ''{{IPA|ɡʲaχ}}'' "to come". The auxiliary precedes the main verb in the sentence.
+
+{| class=wikitable
+!Subject
+!
+!
+!Instrumental
+!
+!
+|-
+| || 1sg. || 1pl. inclusive || 1pl. exclusive || 2-sg./pl. || 3sg./pl.
+|---
+|1sg. || – || – || – || -{{IPA|ənt͡ɬus}} || -{{IPA|ənt͡ɬas}}
+|-  
+|1pl. inclusive || – || – || – || – || -{{IPA|əntsas}}
+|-
+|1pl. exclusive || – || – || – || -{{IPA|ənuxʼʷus}} || -{{IPA|ənuxʼʷas}}
+|-
+|2sg./pl. || -{{IPA|setsən}} || – || -{{IPA|setsənuxʼʷ}} || – || -{{IPA|sis}}
+|-
+|3sg./pl. || -{{IPA|ən}} || -{{IPA|ənts}} || -{{IPA|ənuxʼʷ}} || -{{IPA|us}} || -{{IPA|s}}
+|}
+
+Suffixation is also used for [[genitive]] constructions. These suffixes can be either prenominal/pronominal or postnominal. First person genitives allow either form. Third person genitives observe a robust differentiation between those cases in which the subject and possessor are the same entity and those in which they are not. In the former case, the instrumental suffix ''-{{IPA|s}}'' is added to the prenominal genitive marker, and the possessed noun take the postnominal demonstrative genitive ending. In the latter case, the instrumental ''-{{IPA|s}}'' attaches to the postnominal genitive ending on the possessed noun, and the prenominal suffix remains unchanged. {{Harv | Boas | 1947 | p=254}}
+
+The following table shows genitive suffixes for first and second person possessors. Prenominal forms include a distinction between first and second person while the distinction in postnominal forms is made by adding the pronominal verbal inflection for the appropriate person.
+
+{| class=wikitable
+!colspan=2|
+!Prenominal:<br />1st person
+!Prenominal:<br />2nd person
+!Postnominal
+|-
+!rowspan=2| near-me
+! visible
+| -{{IPA|ɡʲin}}, -{{IPA|ɡʲints}} || -{{IPA|ɡʲas}} || -{{IPA|ɡʲ}}-
+|-
+! invisible
+| -{{IPA|ɡʲinuxʼʷ}} || -{{IPA|ɡʲas}} || -{{IPA|ɡʲa}}-
+|-  
+!rowspan=2| near-you
+! visible
+| -{{IPA|ən}}, -{{IPA|ənts}} || -{{IPA|us}}, -{{IPA|χs}} || -{{IPA|(a)q}}-<ref name="genitivevowels">The presence of an underlying vowel in these forms is uncertain.</ref><!-- Misused – It is a note, not a reference ~~~~ -->
+|-
+! invisible
+| -{{IPA|ən}}, -{{IPA|ənts}} || -{{IPA|uχs}} || -{{IPA|(a)qʼ}}-<ref name="genitivevowels" /><!-- Misused – It is a note, not a reference ~~~~ -->
+|-
+!rowspan=2| elsewhere
+! visible
+| -{{IPA|ənuxʼʷ}} || -{{IPA|is}} || -{{IPA|(i)}}-<ref name="genitivevowels" /><!-- Misused – It is a note, not a reference ~~~~ -->
+|-
+! invisible
+| -{{IPA|ənuxʼʷ}} || -{{IPA|is}} || -{{IPA|a}}-
+|}
+
+Genitive suffixes with a third-person possessor are shown in the following table:
+
+{| class=wikitable
+!colspan=2 rowspan=2|
+!colspan=2| Possessor is subject
+!colspan=2| Possessor is not subject
+|-
+! Prenominal || Postnominal
+! Prenominal || Postnominal
+|-
+!rowspan=2| near-me
+! visible
+| -{{IPA|ɡʲas}} || -{{IPA|kʲ}}
+| -{{IPA|ɡʲa}} || -{{IPA|ɡʲas}}
+|-
+! invisible
+| -{{IPA|ɡʲas}} || -{{IPA|ɡʲaʔ}}
+| -{{IPA|ɡʲa}} || -{{IPA|ɡʲaʔəs}}
+|-  
+!rowspan=2| near-you
+! visible
+| -{{IPA|us}} || -{{IPA|q}}
+| -{{IPA|uχ}} || -{{IPA|(a)χs}}
+|-
+! invisible
+| -{{IPA|us}} || -{{IPA|qʼ}}
+| -{{IPA|uχ}} || -{{IPA|qʼəs}}
+|-
+!rowspan=2| elsewhere
+! visible
+| -{{IPA|is}} || – |
+| -{{IPA|i}} || -{{IPA|s}}
+|-
+! invisible
+| -{{IPA|is}} || -{{IPA|a}}
+| -{{IPA|i}} || -{{IPA|as}}
+|}
+
+Prenominal forms for the objective and instrumental are formed by suffixing the prenominal forms given above to ''-{{IPA|χ}}'' or ''{{IPA|s}}'', respectively.
+
+Independent pronouns also exist in Kwakʼwala. Pronouns have verbal and nominal forms. Verbal forms inflect like other verbs. Nominal forms occur in subject, object, and instrumental forms. The full set of pronouns is shown in the following table:
+
+{| class="wikitable" 
+|-
+! rowspan="2" colspan="2" | 
+! rowspan="2" | Verbal forms
+! colspan="3" | Nominal forms
+|-
+! Subject || Object || Instrumental
+|-
+! colspan="2" | 1sg.
+| {{IPA|nuːɡʷa}} || {{IPA|jən}} || {{IPA|ɡʲaχən}} || {{IPA|jən}}
+|-
+! rowspan="2" | 1pl.
+! inclusive
+| {{IPA|nuːɡʷənts}} || {{IPA|jənts}} || {{IPA|ɡʲaχənts}} || {{IPA|jənts}}
+|-
+! exclusive
+| {{IPA|nuːɡʷənuxʼʷ}} || {{IPA|jənuxʼʷ}} || {{IPA|ɡʲaχənuxʼʷ}} || {{IPA|jənuxʼʷ}}
+|-
+! colspan="2" | 2sg./pl.
+| {{IPA|su}} || {{IPA|jut͡ɬ}} || {{IPA|lat͡ɬ}} || {{IPA|jut͡ɬ}}
+|-
+! rowspan="3" | 3sg./pl.
+! near-me
+| {{IPA|ɡʲa}} || {{IPA|jəχɡʲa}} || {{IPA|laχɡʲa}} || {{IPA|jəsɡʲa}}
+|-
+! near-you
+| {{IPA|ju}} || {{IPA|jəχuχ}} || {{IPA|laχuχ}} || {{IPA|jəsuχ}}
+|-
+! elsewhere
+| {{IPA|hi}} || {{IPA|jəχ}} || {{IPA|laq}} || {{IPA|jəs}}
+|}
+
+Object forms are clearly related to ''{{IPA|ɡaχ}}'' "to come" (in the first person) and ''{{IPA|la}}'' "to go" (in the second and third person).
+
+===Syntax===
+
+Kwakʼwala formally distinguishes only three classes of words: predicates/substantives, particles, and exclamatory forms. Nouns and verbs are distinguished mainly by syntactic context. Thus, the bare form ''{{IPA|kʼʷasʼ}}'' "sit" is a verb; combined with an article-like particle, it serves as a noun: ''{{IPA|jəχa kʼʷasʼ}}'' "the one who sits" {{Harv | Boas | 1947}}.
+
+A minimal sentence consists of a predicate. Although that is syntactically simple, it is not necessarily semantically impoverished. The rich morphological system of Kwakʼwala allows the expression of many features in a single predicate: ''{{IPA|ɢaɢakʼʲənt͡ɬut͡ɬ}}'' "I shall try to get you to be my wife"; ''{{IPA|ɬawadənt͡ɬasəkʲ}}'' "I have this one for my husband (lit. I am husband owner of him)" {{Harv | Boas | 1947 | p=281}}.
+
+In sentences with greater syntactic complexity, word order is identical to the order in which inflectional morphemes are added to a stem, stem/predicate-subject-direct object-instrument-direct object:
+
+{{interlinear|indent=3
+|top=kʷixidida bəɡʷanəmaχa qʼasasis tʼəlwaɢaju
+|kʷixid -ida bəɡʷanəm -a -χa qʼasa -s -is tʼəlwaɢaju
+|clubbed -the man -OBJ -the {sea otter} -INSTR -his club
+|The man clubbed the sea-otter with his club. {{Harv | Boas | 1947 | p=282}}, {{Harv | Anderson | 1984 }} }}
+
+A number of [[clitic]]s are used to mark agreement with nouns, including clitics for [[definiteness]]/[[deixis]] and [[grammatical case|case]] (including [[accusative case|accusative]] and [[instrumental case]]). Clitics are positioned at the left edge of the noun they agree with but lean phonologically to their left. The result is a systematic mismatch between syntactic and phonological constituent structure such that on the surface, each prenominal word appears to be inflected to agree with the following noun.
+
+That can be seen in the preceding example: the sentence-initial predicate ''{{IPA|kʷixidida}}'' includes a clitic /''-ida''/, which belongs together with the nominal ''{{IPA|bəɡʷanəmaχa}}'' in terms of syntactical constituency. That nominal, in turn, includes a clitic /''-χa''/, syntactically connected to the following noun, and so on.
+
+==Orthography==
+
+Word lists and some documentation of Kwakʼwala were created from the early period of contact with Europeans in the 18th century.  The first systematic work to record the language was done by Rev Alfred James Hall (1853-1918) who was an English missionary with the Anglican [[Church Mission Society]] (CMS) North Pacific Mission in British Columbia. He arrived at Fort Rupert in 1881 and worked amongst the Kwakuitl people at Fort Rupert and Alert Bay. He learnt the Kwak'wala language, and created an orthography for the language based upon the Latin alphabet used by English. He produced portions of the Book of Common Prayer in 1888 which was published by the [[Society for Promoting Christian Knowledge]] (SPCK). This was expanded in 1900. He produced a Grammar of the language in 1889. He translated some books of the New Testament which were published by the [[British and Foreign Bible Society]] in London. He produced the Gospel of Matthew in 1882, the Gospel of John in 1884, the Gospel of Mark in 1890, the Gospel of Luke in 1894 and then the Book of Acts in 1897.<ref>{{Cite web|url=https://kwakwala.global.bible/bible/ebaaec3f76ecd580-01/info|title=Global.Bible}}</ref>
+
+Another attempt to record the language was made by [[Franz Boas]] in the late 19th and early 20th century. However, Boas was not solely responsible for the data collection of the Kwakʼwala language; [[George Hunt (ethnologist)|George Hunt]] provided tens of thousands of pages of the language in which he worked with Boas to officially document. Through this data collection, Boas and Hunt developed a systematic orthography for documentation of Kwakʼwala, which captured almost all of the important distinctions in the language (although some features, such as vowel length and stress, were not recorded systematically).<ref>{{Cite journal|last=Berman|first=Judith|date=1994|title=George Hunt and the Kwakʼwala Texts|jstor=30028391|journal=Anthropological Linguistics|volume=36|issue=4|pages=482–514}}</ref>
+
+Although the Boasian orthography was able to capture almost all of the important features of Kwakʼwala, it was difficult for Kwakʼwala speakers to use: it was impossible to write with a standard typewriter due to its abundant use of special symbols, and it used some standard letters very differently from English orthography, which was familiar to many Kwakwakaʼwakw. A practical orthography, developed by the Kwakwakaʼwakw linguist [[David Grubb]], became the standard system for writing Kwakʼwala.
+
+Practical writing of Kwakʼwala today is typically done in the orthography promoted by the [[U'mista Cultural Society]],<ref>For example, {{cite web|title=Kwakʼwala Alphabet Poster|url=http://www.umista.ca/giftshop/item.php?item=362|website=U'mista Cultural Society: Language Education Products|access-date=4 August 2015|archive-url=https://web.archive.org/web/20110828210619/http://www.umista.ca/giftshop/item.php?item=362|archive-date=2011-08-28}}</ref> which largely resembles the Grubb orthography. Variants of this orthography allow for easier computer typesetting. For example, instead of marking ejective consonants with an apostrophe printed above the consonant, the apostrophe may be printed as a separate character following the consonant. Linguistic works on Kwakʼwala typically use an [[International Phonetic Alphabet|IPA]] or [[Americanist phonetic notation|Americanist]] transcription.
+
+=== U'mista Cultural Society alphabet ===
+
+{| class="wikitable" style="text-align: center"
+|+ Uʼmista alphabet{{sfn|School District 85|p=E-4}}{{Citation not found|date=July 2021}}
+|-
+! scope="row" | Uppercase
+| [[A (letter)|A]] || [[A̱]] || [[B (letter)|B]] || [[D (letter)|D]] || [[Dƚ (digraph)|Dƚ]]
+| [[Dz (digraph)|Dz]] || [[E (letter)|E]] || [[G (letter)|G]] || [[Gw (digraph)|Gw]] || [[Ǥ]]
+| [[Ǥw (digraph)|Ǥw]] || [[H (letter)|H]] || [[I (letter)|I]] || [[K (letter)|K]] || [[Kw (digraph)|Kw]]
+|-
+! scope="row" | Lowercase
+| a || a̱ || b || d || dƚ
+| dz || e || g || gw || ǥ
+| ǥw || h || i || k || kw
+|-
+| colspan=16 |
+|-
+! scope="row" | Uppercase
+| [[K̓]] || [[K̓w (digraph)|K̓w]] || [[Ḵ]] || [[Ḵw (digraph)|Ḵw]] || [[Ḵ̓]]
+| [[Ḵ̓w (digraph)|Ḵ̓w]] || [[L (letter)|L]] || [[Ƚ]] || [[M (letter)|M]] || [[N (letter)|N]]
+| [[O (letter)|O]] || [[P (letter)|P]] || [[P̓]] || [[S (letter)|S]] || [[T (letter)|T]]
+|-
+! scope="row" | Lowercase
+| k̓ || k̓w || ḵ || ḵw || ḵ̓
+| ḵ̓w || l || ƚ || m || n
+| o || p || p̓ || s || t
+|-
+| colspan=16 |
+|-
+! scope="row" | Uppercase
+| [[T̓]] || [[Ts (digraph)|Ts]] || [[T̓s (digraph)|T̓s]] || [[Tƚ (digraph)|Tƚ]]
+| [[T̓ƚ (digraph)|T̓ƚ]] || [[U (letter)|U]] || [[W (letter)|W]] || [[X (letter)|X]] || [[Xw (digraph)|Xw]]
+| [[X̱]] || [[X̱w (digraph)|X̱w]] || [[Y (letter)|Y]] || [[apostrophe|ʼ]]
+|-
+! scope="row" | Lowercase
+| t̓ || ts || t̓s || tƚ
+| t̓ƚ || u || w || x || xw
+| x̱ || x̱w || y || ʼ
+|}
+
+{| class=wikitable
+! || "that will be" || "and so first I throw" || "six kinds" || "raven dancer"
+|-
+!IPA
+| {{IPA|hiʔəmt͡ɬi}} || {{IPA|ɡʲəɬmˀisən}} || {{IPA|qʼat͡ɬʼəxʲidaɬa}} || {{IPA|ɢʷəɢʷaːχʷəlaɬ}}
+|-
+!Boas
+| heʼᵋᴇmʟe || g̣ᴇłᵋmisᴇn || qǃăʟǃxꞏᵋiʼdała || g̣wᴇg̣wāẋwᴇlał
+|-
+!Grubb
+| hi7emtli || gelhʼmisehn || ḵʼat̕lhexidalha || g̱weg̱wax̱welalh
+|-
+!Uʼmista
+| hiʼa̠mtli || ga̠łʼmisa̠n || k̠̓at̓ła̱xidała || g̱wa̱g̱wax̱wa̱lał
+|}
+
+==History and revitalization efforts==
+[[File:T'lisalagi'lakw bus.jpg|thumb|240px|The T'lisalagi'lakw School near Alert Bay has made efforts to restore Kwakʼwala.<ref>{{cite web |url=http://www.fpcf.ca/pdfs/Alert_Bay_Report.pdf |title=Kwakʼwala Language Retention and Renewal: A Review with Recommendations |first1=Robert J. |last1=Anthony |first2=Henry |last2=Davis |first3=J.V. |last3=Powell |work=[[First Peoples' Cultural Foundation]] |year=2003 |access-date=20 May 2011 |url-status=dead |archive-url=https://web.archive.org/web/20110928235115/http://www.fpcf.ca/pdfs/Alert_Bay_Report.pdf |archive-date=28 September 2011 }}</ref>]]
+The use of Kwakʼwala declined significantly in the nineteenth and twentieth centuries, mainly due to the [[assimilationist]] policies of the Canadian government, and above all the mandatory attendance of Kwakwa'wakw children at [[Canadian Indian residential school system|residential school]]s. Although Kwakʼwala and Kwakwakaʼwakw culture have been well-studied by linguists and anthropologists, the efforts did not reverse the trends leading to language loss. According to Guy Buchholtzer, "The anthropological discourse had too often become a long monologue, in which the Kwakwakaʼwakw had nothing to say."<ref name="sfu.ca">[https://www.sfu.ca/sfunews/sfu_news/archives/sfunews07070512.shtml SFU News Online – Native language centre planned – July 07, 2005<!-- Bot generated title -->]</ref> As a result of these pressures, there are relatively few Kwakʼwala speakers today, and most remaining speakers are past the age of child-raising, which is considered crucial for language transmission. As with many other indigenous languages, there are significant barriers to language revitalization.
+
+However, a number of revitalization efforts have recently attempted to reverse language loss for Kwakʼwala. A proposal to build a Kwakwakaʼwakw First Nations Centre for Language Culture has gained wide support.<ref name="sfu.ca"/> A review of revitalization efforts in the 1990s shows that the potential to fully revitalize Kwakʼwala still remains, but serious hurdles also exist.<ref>[http://jan.ucc.nau.edu/%7Ejar/RIL_4.html Reversing Language Shift: Can Kwakʼwala Be Revived?]</ref> The language is taught at The U'mista Cultural Center in [[Alert Bay, British Columbia]].<ref>{{Cite web
+| title = Reliable Prosperity: Cultural Preservation
+| access-date = 2012-12-02
+| url = http://www.reliableprosperity.net/cultural_preservation.html
+}}</ref> In 2012, the Nuyumbalees Cultural Centre on [[Quadra Island]] received funding for shelving to display its collection of First Nations books for the benefit of Kwakʼwala speakers.<ref>{{Cite news
+| last = Brian Kieran
+| title = Preserving a language one shelf at a time
+| work = Campbell River Mirror
+| access-date = 2012-12-02
+| date = 2012-11-15
+| url = http://www.campbellrivermirror.com/news/179563181.html
+}}</ref>
+
+== Kwakʼwala mobile app and portal ==
+A Kwakʼwala [[iPhone]] app was released in December 2011.<ref>{{Cite web
+| title = FirstVoices Apps
+| work = FirstVoices
+| access-date = 2012-10-04
+| url = http://www.firstvoices.com/en/apps
+}}</ref> An online dictionary, phrasebook, and language learning portal is available at the [[First Voices]] Kwakʼwala Community Portal.<ref>{{Cite web
+| title = FirstVoices: Kwakʼwala Community Portal
+| access-date = 2012-10-04
+| url = http://www.firstvoices.com/en/Kwakwala
+}}</ref>  The [https://kwakwala.global.bible/bible/ebaaec3f76ecd580-01/MAT.1 Kwakwala Bible Portions] were put online by the Canadian Bible Society in 2020.
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{Refbegin}}
+*{{cite journal |last=Anderson |first=Stephen |author-link=Stephen R. Anderson |year=1984 |title=Kwakwala Syntax and the Government-binding Theory |journal=Syntax and Semantics |volume=16 }}
+*{{cite journal |last=Bach |first=Emmon |author-link=Emmon Bach |year=1975 |title=Long Vowels and Stress in Kwakiutl |journal=Texas Linguistic Forum |volume=2 |pages=9–19 }}
+*{{cite journal |last=Boas |first=Franz |author-link=Franz Boas |year=1893 |title=Vocabulary of the Kwakiutl language |journal=Proceedings of the American Philosophical Society |volume=31 |issue=140 |pages=34–82}}
+*{{cite journal |last=Boas |first=Franz |author-link=Franz Boas |year=1900 |title=Sketch of the Kwakiutl language |journal=American Anthropologist |volume=2 |issue=4 |pages=708–721 |doi=10.1525/aa.1900.2.4.02a00080|doi-access=free }}
+*{{cite journal |last=Boas |first=Franz |author-link=Franz Boas |year=1924 |title=A Revised List of Kwakiutl Suffixes |journal=International Journal of American Linguistics |volume=3 |issue=1 |pages=117–131 |doi=10.1086/463753|s2cid=143653837 }}
+*{{cite journal |last=Boas |first=Franz |author-link=Franz Boas |year=1931 |title=Notes on the Kwakiutl Vocabulary |journal=International Journal of American Linguistics |volume=6 |issue=3/4 |pages=163–178 |doi=10.1086/463790|s2cid=144062209 }}
+*{{cite journal |last=Boas |first=Franz |author-link=Franz Boas |year=1932 |title=Notes on Some Recent Changes in the Kwakiutl language |journal=International Journal of American Linguistics |volume=7 |issue=1/2 |pages=90–93 |doi=10.1086/463797|s2cid=143779471 }}
+*{{cite journal |last=Boas |first=Franz |author-link=Franz Boas |year=1947 |title=Kwakiutl Grammar (With a Glossary of the Suffixes) |journal=Transactions of the American Philosophical Society |volume=37 |issue=3 |pages=201–377 |doi=10.2307/1005538 |others=Edited by Helene Boas Yampolsky, with the collaboration of Zellig S. Harris |publisher=American Philosophical Society |jstor=1005538 }}
+*{{cite book |last=Davenport |first=Tristan |author-link=Tristan Davenport |year=2007 |title=Alternations in Place and Laryngeality: On the Coda Condition of Kwakwʼala |publisher=University of California, Santa Cruz |location=Manuscript }}
+*{{cite book |last=Grubb |first=David |author-link=David Grubb |year=1969 |title=A Kwakiutl Phonology |publisher=University of Victoria |location=MA thesis }}
+*{{cite book |last=Grubb |first=David |author-link=David Grubb |year=1977 |title=A Practical Writing System and Short Dictionary of Kwakw'ala (Kwakiutl) |publisher=National Museum of Man |location=Ottawa}}
+* {{cite book |last=Struijke |first=Caro |author-link=Caro Struijke |title=Existential Faithfulness: A Study of Reduplicative TETU, Feature Movement, and Dissimilation |location=PhD dissertation |publisher=University of Maryland |year=2000}}
+*{{cite journal |last=Wilson |first=Stephen |author-link=Stephen Wilson (linguist) |year=1986 |title=Metrical Structure in Wakashan Phonology |journal=Proceedings of the Twelfth Annual Meeting of the Berkeley Linguistics Society |volume=12 |pages=283–291 |doi=10.3765/bls.v12i0.1857 |doi-access=free }}
+*{{cite book |last=Zec |first=Draga |author-link=Draga Zec |year=1994 |title=Sonority Constraints on Prosodic Structure |publisher=Garland Publishing }}
+{{Refend}}
+
+==External links==
+*[https://kwakwala.global.bible/ Kwakwala Bible Portions] 
+*[http://www.firstvoices.com/en/Kwakwala FirstVoices Kwak̓wala Portal]
+*[http://www.languagegeek.com/nwc/nwc_keyboards.html Northwest Coast keyboard maps]
+*[http://justus.anglican.org/resources/bcp/Canada/kwakwala.htm Portions of the Book of Common Prayer in Kwakʼwala]
+*[http://jan.ucc.nau.edu/%7Ejar/RIL_4.html Reversing Language Shift: Can Kwakʼwala Be Revived?]
+*[https://www.umista.ca/ U'mista Cultural Society]. ([https://web.archive.org/web/20150316094139/http://www.umista.org/ Archive copy])
+*[http://fpcf.ca/ First Peoples' Cultural Foundation]
+
+{{Clear}}
+{{Kwakwaka'wakw}}
+{{Languages of Canada}}
+{{Authority control}}
+
+[[Category:Wakashan languages]]
+[[Category:Indigenous languages of the Pacific Northwest Coast]]
+[[Category:First Nations languages in Canada]]
+[[Category:Endangered Wakashan languages]]

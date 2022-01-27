@@ -1,0 +1,709 @@
+{{Short description|Language of the Nahuan branch of the Uto-Aztecan language family}}
+{{Use dmy dates|date=February 2021}}
+{{Infobox language
+| name             = Nahuatl
+| altname          = Aztec, Mexicano
+| nativename       = Nāhuatl, Nāhuatlahtōlli, Mēxihcatlahtōlli, Mācēhuallahtōlli
+| states           = [[Mexico]]
+| region           = [[State of Mexico]], [[Puebla]], [[San Luis Potosi]], [[Veracruz]], [[Hidalgo (state)|Hidalgo]], [[Guerrero]], [[Morelos]], [[Tlaxcala]], [[Oaxaca]], [[Michoacán]], [[Chihuahua (state)|Chihuahua]], [[Durango]],<br /> and [[Nahuatl language in the United States|communities in United States]], [[El Salvador]], [[Guatemala]], and [[Canada]]
+| ethnicity        = [[Nahuas|Nahua peoples]]
+|speakers = {{sigfig|1.652|2}} million in Mexico
+|date=2020 census
+|ref=<ref>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+| familycolor      = Uto-Aztecan
+| fam1             = [[Uto-Aztecan languages|Uto-Aztecan]]
+| fam2             = [[Southern Uto-Aztecan languages|Southern Uto-Aztecan]]
+| fam3             = [[Nahuan languages|Nahuan]]
+| dia1             = [[Western Peripheral Nahuatl]]
+| dia2             = [[Eastern Peripheral Nahuatl]]
+| dia3             = [[Huasteca Nahuatl]]
+| dia4             = [[Central Nahuatl languages]]
+| nation           = Mexico (through the General Law of Linguistic Rights of Indigenous Peoples)<ref>{{cite web|url=http://www.diputados.gob.mx/LeyesBiblio/pdf/257.pdf |title=General Law of Linguistic Rights of Indigenous Peoples |language=es |url-status=dead |archive-url=https://web.archive.org/web/20080611011220/http://www.diputados.gob.mx/LeyesBiblio/pdf/257.pdf |archive-date=11 June 2008 }}</ref>
+| agency           = [[Instituto Nacional de Lenguas Indígenas]]<ref>{{cite web |url=http://www.inali.gob.mx/ |title=Instituto Nacional de Lenguas Indígenas homepage}}</ref>
+| iso2             = nah
+| iso3             = nci
+| iso3comment      = [[Classical Nahuatl language|Classical Nahuatl]]<br />For modern varieties, see [[Nahuan languages]]
+| image            = Historia general de las cosas de nueva España page 406 2.png
+| imagesize        = 
+| imagecaption     = Nahua man from the ''[[Florentine Codex]]''. The [[speech scroll]]s indicate speech or song.
+| notice           = IPA
+| protoname        = [[Proto-Nahuan language|Proto-Nahuan]]
+| glotto           = azte1234
+| glottoname       = Aztec
+| map              = Nahuatl_precontact_and_modern.svg
+| mapcaption       = Pre-contact (green) and current (red) extent of Nahuatl as a dominant language in Mexico
+|script=[[Latin alphabet|Latin]]<br>[[Aztec script]] (up to 16th century)
+}}
+
+'''Nahuatl''' ({{IPAc-en|lang|ˈ|n|ɑː|w|ɑː|t|əl}};<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> {{IPA-nah|ˈnaːwatɬ|-|nawatl.ogg}}),<ref group=cn>The Classical Nahuatl word {{lang|nah|nāhuatl}} (noun stem '''''nāhua''''', + absolutive '''''-tl''''' ) is thought to mean "a good, clear sound" {{harvcoltxt|Andrews|2003|pages=578,364,398}} This language name has several spellings, among them náhuatl (the standard spelling in the Spanish language),({{cite web|url=http://dle.rae.es/?id=QDH6uCQ|title=Náhuatl|publisher=rae.es|language=es|access-date=6 July 2012}}) Naoatl, Nauatl, Nahuatl, Nawatl. In a back formation from the name of the language, the ethnic group of Nahuatl speakers are called ''Nahua''.</ref> '''Aztec''' or '''Mexicano'''<ref>{{Cite web|title=Nahuatl Family {{!}} SIL Mexico|url=https://mexico.sil.org/language_culture/aztec|access-date=2021-02-22|website=mexico.sil.org}}</ref> is a language or, by some definitions, a group of languages of the [[Uto-Aztecan languages|Uto-Aztecan language family]]. Varieties of Nahuatl are spoken by about {{nowrap|1.7 million}} [[Nahuas|Nahua peoples]], most of whom live mainly in Central [[Mexico]] as well as a small number who [[Nahuatl language in the United States|live in the United States]].
+
+Nahuatl has been spoken in central Mexico since at least the seventh century CE.<ref name="Suárez 1983:149">{{harvcoltxt|Suárez|1983|page=149}}</ref> It was the language of the [[Aztecs|Aztec]]/[[Mexica]], who dominated what is now central Mexico during the Late Postclassic period of [[Mesoamerican chronology|Mesoamerican history]]. During the centuries preceding the [[Spanish conquest of the Aztec Empire|Spanish and Tlaxcalan conquest of the Aztec Empire]], the Aztecs had expanded to incorporate a large part of central Mexico. Their influence caused the variety of Nahuatl spoken by the residents of [[Tenochtitlan]] to become a [[prestige dialect|prestige language]] in Mesoamerica.
+
+After the conquest, when Spanish colonists and missionaries introduced the [[Latin alphabet]], Nahuatl also became a [[literary language]]. Many [[chronicle]]s, [[grammar]]s, works of [[poetry]], administrative [[document]]s and [[Aztec codices|codices]] were written in it during the 16th and 17th centuries.{{sfn|Canger|1980|page=13}} This early literary language based on the Tenochtitlan variety has been labeled [[Classical Nahuatl language|Classical Nahuatl]]. It is among the most studied and best-documented languages of the Americas.{{sfn|Canger|2002|page=195}}
+
+Today, [[Nahuan languages]] are spoken in scattered communities, mostly in rural areas throughout central Mexico and along the coastline. There are considerable differences among varieties, and some are not [[Mutual intelligibility|mutually intelligible]]. [[Huasteca Nahuatl]], with over one&nbsp;million speakers, is the most-spoken variety. All varieties have been subject to varying degrees of [[language contact|influence]] from Spanish. No modern Nahuan languages are identical to Classical Nahuatl, but those spoken in and around the [[Valley of Mexico]] are generally more closely related to it than those on the periphery.{{sfn|Canger|1988}} Under Mexico's ''[[Ley General de Derechos Lingüísticos de los Pueblos Indígenas|General Law of Linguistic Rights of the Indigenous Peoples]],'' promulgated in 2003,<ref>{{Cite web|date=2003-03-13 |title=Ley General de Derechos Lingüísticos de los Pueblos Indígenas |url= http://www.diputados.gob.mx/LeyesBiblio/pdf/257.pdf |work=Diario Oficial de la Federación |publisher=Issued by the [[Chamber of Deputies (Mexico)|Cámara de Diputados del H. Congreso de la Unión]] |language=es |url-status=dead |archive-url= https://web.archive.org/web/20080611011220/http://www.diputados.gob.mx/LeyesBiblio/pdf/257.pdf |archive-date=11 June 2008 }}.</ref> Nahuatl and the other 63 indigenous [[languages of Mexico]] are recognized as {{Lang|es|lenguas nacionales}} ('national languages') in the regions where they are spoken. They are given the same status as Spanish within their respective regions.<ref group=cn>By the provisions of Article IV: ''Las lenguas indígenas...y el español son lenguas nacionales...y tienen la misma validez en su territorio, localización y contexto en que se hablen.'' ("The indigenous languages ... and Spanish are national languages ... and have the same validity in their territory, location and context in which they are spoken.")</ref>
+
+Nahuan languages exhibit a complex [[Morphology (linguistics)|morphology]], or system of word formation, characterized by [[polysynthetic language|polysynthesis]] and [[agglutination]]. This means that morphemes – words or fragments of words that each contain their own separate meaning – are often strung together to make longer complex words. 
+
+Through a very long period of development alongside other indigenous [[Mesoamerican languages]], they have absorbed many influences, coming to form part of the [[Mesoamerican language area]]. Many words from Nahuatl were absorbed into Spanish and, from there, were diffused into hundreds of other languages in the region. Most of these loanwords denote things indigenous to central Mexico, which the Spanish heard mentioned for the first time by their Nahuatl names. English has also absorbed words of [[List of English words from indigenous languages of the Americas#Words from Nahuatl|Nahuatl origin]], including [[avocado|''avocado'']], [[chayote|''chayote'']], [[chili pepper|''chili'']], [[chipotle|''chipotle'']], [[chocolate|''chocolate'']], [[spear-thrower|''atlatl'']], [[coyote|''coyote'']], [[peyote|''peyote'']], [[axolotl|''axolotl'']] and [[tomato|''tomato'']].
+
+==Classification==
+{{Main|Nahuan languages}}
+[[File:Nahuatl per Kaufman (2001).svg|thumb|Tree diagram of the relation between the Nahuan languages and the rest of the Uto-Aztecan language family, based on the internal classification of Nahuan given by Terrence {{harvcoltxt|Kaufman|2001}}]]
+As a language label, the term ''Nahuatl'' encompasses a group of closely related languages or divergent dialects within the Nahuan branch of the Uto-Aztecan language family. The Mexican [[Instituto Nacional de Lenguas Indígenas]] (National Institute of Indigenous Languages) recognizes 30 individual varieties within the "language group" labeled Nahuatl. The [[Ethnologue]] recognizes 28 varieties with separate ISO codes. Sometimes Nahuatl is also applied to the [[Pipil language]] (''Nawat'') of [[El Salvador]] and [[Nicaragua]]. Regardless of whether ''Nahuatl'' is considered to refer to a dialect continuum or a group of separate languages, the varieties form a single branch within the Uto-Aztecan family, descended from a single [[Proto-Nahuan language]]. Within Mexico, the question of whether to consider individual varieties to be languages or dialects of a single language is highly political.{{sfn |Pharao Hansen |2013}} This article focuses on describing the general history of the group and on giving an overview of the diversity it encompasses. For details on individual varieties or subgroups, see the individual articles.
+
+In the past, the branch of Uto-Aztecan to which Nahuatl belongs has been called ''Aztecan''. From the 1990s onward, the alternative designation ''Nahuan'' has been frequently used instead, especially in Spanish-language publications. The Nahuan (Aztecan) branch of Uto-Aztecan is widely accepted as having two divisions: General Aztec and Pochutec.<ref>{{harvcoltxt |Canger |1988 |pages=42–43}}, {{harvcoltxt |Dakin |1982 |page=202}}, {{harvcoltxt |INALI |2008 |page=63}}, {{harvcoltxt |Suárez |1983 |page=149}}</ref>
+
+General Aztec encompasses the Nahuatl and Pipil languages.<ref group=cn>"General Aztec is a generally accepted term referring to the most shallow common stage, reconstructed for all present-day Nahuatl varieties; it does not include the Pochutec dialect {{harvcoltxt |Campbell |Langacker |1978}}." {{harvcoltxt |Canger |2000 |page=385(Note 4)}}</ref> [[Pochutec language|Pochutec]] is a scantily attested language, which became extinct in the 20th century,{{sfn|Boas|1917}}{{sfn|Knab|1980}} and which Campbell and Langacker classify as being outside general Aztec. Other researchers have argued that Pochutec should be considered a divergent variant of the western periphery.<ref>{{harvcoltxt |Canger |Dakin |1985 |page=360}}, {{harvcoltxt |Dakin |2001 |pages=21–22}}</ref>
+
+''Nahuatl'' denotes at least Classical Nahuatl, together with related modern languages spoken in Mexico. The inclusion of Pipil in this group is debated among linguists. Lyle {{harvcoltxt|Campbell|1997}} classified Pipil as separate from the Nahuatl branch within general Aztecan, whereas dialectologists such as [[Una Canger]], Karen Dakin, [[Yolanda Lastra]], and Terrence Kaufman have preferred to include Pipil within the General Aztecan branch, citing close historical ties with the eastern peripheral dialects of General Aztec.<ref>{{harvcoltxt |Dakin |2001 |pages=21–22}}, {{harvcoltxt |Kaufman |2001}}</ref>
+
+Current subclassification of Nahuatl rests on research by {{harvcoltxt|Canger|1980}}, {{harvcoltxt|Canger|1988}} and {{harvcoltxt|Lastra de Suárez|1986}}. Canger introduced the scheme of a Central grouping and two Peripheral groups, and Lastra confirmed this notion, differing in some details. {{harvcoltxt|Canger|Dakin|1985}} demonstrated a basic split between Eastern and Western branches of Nahuan, considered to reflect the oldest division of the proto-Nahuan speech community. Canger originally considered the central dialect area to be an innovative subarea within the Western branch, but in 2011, she suggested that it arose as an urban [[koiné language]] with features from both Western and Eastern dialect areas. {{harvcoltxt|Canger|1988}} tentatively included dialects of [[La Huasteca]] in the Central group, while {{harvcoltxt|Lastra de Suárez|1986}} places them in the Eastern Periphery, which was followed by {{harvcoltxt|Kaufman|2001}}.
+
+===Terminology===
+The terminology used to describe varieties of spoken Nahuatl is inconsistently applied. Many terms are used with multiple denotations, or a single dialect grouping goes under several names. Sometimes, older terms are substituted with newer ones or with the speakers' own name for their specific variety. The word ''Nahuatl'' is itself a Nahuatl word, probably derived from the word {{Lang|nah|nāhuatlahtōlli}} {{IPA-nah|naːwat͡laʔˈtoːlli|}} ('clear language'). The language was formerly called Aztec because it was spoken by the Central Mexican peoples known as [[Aztec]]s {{IPA-nah|asˈteːkah}}. During the period of the Aztec empire centered in Mexico-[[Tenochtitlan]] the language came to be identified with the politically dominant {{Lang|nah|mēxihcah}} {{IPA-nah|meːˈʃiʔkaʔ|}} ethnic group, and consequently the Nahuatl language was often described as {{Lang|nah|mēxihcacopa}} {{IPA-nah|meːʃiʔkaˈkopa|}} (literally 'in the manner of Mexicas'){{sfn|Launey|1992|p=116}} or ''mēxihcatlahtolli'' 'Mexica language'. Now, the term ''Aztec'' is rarely used for modern Nahuan languages, but linguists' traditional name of ''Aztecan'' for the branch of Uto-Aztecan that comprises Nahuatl, Pipil, and Pochutec is still in use (although some linguists prefer ''Nahuan''). Since 1978, the term ''General Aztec'' has been adopted by linguists to refer to the languages of the Aztecan branch excluding the [[Pochutec language]].{{sfn|Canger|2001|page=385}}
+
+The speakers of Nahuatl themselves often refer to their language as either ''Mexicano''{{sfn|Hill|Hill|1986}} or some word derived from ''[[Macehualtin|mācēhualli]]'', the Nahuatl word for 'commoner'. One example of the latter is the case for Nahuatl spoken in [[Tetelcingo]], whose speakers call their language {{Lang|es|mösiehuali}}.<ref name="Tuggy 1979:page#">{{harvcoltxt|Tuggy|1979}}</ref> The [[Pipil people]] of El Salvador do not call their own language Pipil, as most linguists do, but rather {{Lang|nah|nāwat}}.<ref name="Campbell 1985"/> The Nahuas of [[Durango]] call their language ''Mexicanero''.{{sfn|Canger|2001}} Speakers of Nahuatl of the [[Isthmus of Tehuantepec]] call their language {{Lang|nah|mela'tajtol}} ('the straight language').{{sfn|Wolgemuth|2002}} Some speech communities use ''Nahuatl'' as the name for their language, although it seems to be a recent innovation. Linguists commonly identify localized dialects of Nahuatl by adding as a qualifier the name of the village or area where that variety is spoken.{{sfn|Suárez|1983|page=20}}
+
+==History==
+
+=== Pre-Columbian period ===
+On the issue of geographic origin, the consensus of linguists during the 20th century was that the Uto-Aztecan language family originated in the [[southwestern United States]].<ref>{{harvcoltxt|Canger|1980|page=12}}, {{harvcoltxt|Kaufman|2001|page=1}}</ref> Evidence from archaeology and ethnohistory supports the thesis of a southward diffusion across the North American continent, specifically that speakers of early Nahuan languages migrated from [[Aridoamerica]] into central Mexico in several waves. But recently, the traditional assessment has been challenged by [[Jane H. Hill]], who proposes instead that the Uto-Aztecan language family originated in central Mexico and spread northwards at a very early date.{{sfn|Hill|2001}} This hypothesis and the analyses of data that it rests upon have received serious criticism.{{sfn|Merrill|Hard|Mabry|Fritz|2010}}{{sfn|Kaufman|Justeson|2009}}
+
+The proposed migration of speakers of the Proto-Nahuan language into the [[Mesoamerican region]] has been placed at sometime around AD 500, towards the end of the Early Classic period in [[Mesoamerican chronology]].{{sfn|Justeson|Norman|Campbell|Kaufman|1985|page=passim}}{{sfn|Kaufman|2001|pages=3–6,12}}{{sfn|Kaufman|Justeson|2007}} Before reaching the [[Mexican Plateau]], pre-Nahuan groups probably spent a period of time in contact with the [[Corachol languages]] [[Cora language|Cora]] and [[Huichol language|Huichol]] of northwestern Mexico (which are also Uto-Aztecan).{{sfn|Kaufman|2001|pages=6,12}}
+
+The major political and cultural center of Mesoamerica in the Early Classic period was [[Teotihuacan]]. The identity of the language(s) spoken by Teotihuacan's founders has long been debated, with the relationship of Nahuatl to Teotihuacan being prominent in that enquiry.<ref>{{harvcoltxt|Cowgill|1992|pages=240–242}}; {{harvcoltxt|Pasztory|1993}}</ref> While in the 19th and early 20th centuries it was presumed that Teotihuacan had been founded by speakers of Nahuatl, later linguistic and archaeological research tended to disconfirm this view. Instead, the timing of the Nahuatl influx was seen to coincide more closely with Teotihuacan's fall than its rise, and other candidates such as [[Totonacan languages|Totonacan]] identified as more likely.<ref>{{harvcoltxt|Campbell|1997|page=161}}, {{harvcoltxt|Justeson|Norman|Campbell|Kaufman|1985}}; {{harvcoltxt|Kaufman|2001|pages=3–6,12}}</ref> But recently, evidence from Mayan [[epigraphy]] of possible Nahuatl loanwords in Mayan languages has been interpreted as demonstrating that other Mesoamerican languages may have been borrowing words from Proto-Nahuan (or its early descendants) significantly earlier than previously thought, bolstering the possibility of a significant Nahuatl presence at Teotihuacan.<ref>{{harvcoltxt|Dakin| Wichmann|2000}}, {{harvcoltxt|Macri|2005}}, {{harvcoltxt|Macri|Looper|2003}}, {{harvcoltxt|Cowgill|2003|page=335}}, {{harvcoltxt|Pasztory|1993}}</ref>
+
+In Mesoamerica the [[Mayan languages|Mayan]], [[Oto-Manguean languages|Oto-Manguean]] and [[Mixe–Zoque languages]] had coexisted for millennia. This had given rise to the [[Mesoamerican language area]] (''language area'' refers to a set of language traits have become common among the area's languages by diffusion and not by evolution within a set of languages belonging to a common genetic subgrouping). After the Nahuas migrated into the Mesoamerican cultural zone, their language too adopted some of the traits defining the Mesoamerican Linguistic Area.<ref>{{harvcoltxt|Dakin|1994}}; {{harvcoltxt|Kaufman|2001}}</ref> Examples of such adopted traits are the use of [[relational noun]]s, the appearance of [[calque]]s, or loan translations, and a form of possessive construction typical of Mesoamerican languages.
+
+A language which was the ancestor of Pochutec split from Proto-Nahuan (or Proto-Aztecan) possibly as early as AD 400, arriving in Mesoamerica a few centuries earlier than the bulk of speakers of Nahuan languages.<ref name="Suárez 1983:149"/> Some Nahuan groups migrated south along the [[Central America]]n isthmus, reaching as far as [[Nicaragua]]. The critically endangered Pipil language of El Salvador is the only living descendant of the variety of Nahuatl once spoken south of present-day Mexico.<ref>{{harvcoltxt|Fowler|1985|page=38}}; {{harvcoltxt|Kaufman|2001}}</ref>
+
+Beginning in the 7th century, Nahuan speakers rose to power in central Mexico. The people of the [[Toltec]] culture of [[Tula (Mesoamerican site)|Tula]], which was active in central Mexico around the 10th century, are thought to have been Nahuatl speakers. By the 11th century, Nahuatl speakers were dominant in the [[Valley of Mexico]] and far beyond, with settlements including [[Azcapotzalco]], [[Colhuacan (altepetl)|Colhuacan]] and [[Cholula (Mesoamerican site)|Cholula]] rising to prominence. Nahua migrations into the region from the north continued into the [[Mesoamerican chronology|Postclassic period]]. One of the last of these migrations to arrive in the Valley of Mexico settled on an island in the [[Lake Texcoco]] and proceeded to subjugate the surrounding tribes. This group was the [[Mexica]], who over the course of the next three centuries founded an empire named [[Tenochtitlan]]. Their political and linguistic influence came to extend into Central America and Nahuatl became a [[lingua franca]] among merchants and elites in Mesoamerica, e.g., among the Maya [[K'iche' people]].{{sfn|Carmack|1981|pages=142–143}} As Tenochtitlan grew to become the largest urban center in Central America and one of the largest in the world at the time,<ref>{{cite book |title=Conquistador: Hernán Cortés, King Montezuma, and the Last Stand of the Aztecs |last=Levy |first=Buddy |year=2008 |publisher=Bantam Books |isbn=978-0553384710 |page=106}}</ref> it attracted speakers of Nahuatl from diverse areas giving birth to an urban form of Nahuatl with traits from many dialects. This urbanized variety of Tenochtitlan is what came to be known as Classical Nahuatl as documented in colonial times.{{sfn|Canger|2011}}
+
+===Colonial period===
+With the arrival of the [[Spanish Empire|Spanish]] in 1519, Nahuatl was displaced as the dominant regional language, but remained important in Nahua communities under Spanish rule. There is extensive colonial-era documentation in Nahuatl for [[Tlaxcala]], Cuernavaca, Culhuacan, Coyoacan, Toluca and other locations in the Valley of Mexico and beyond. Starting in the 1970s, scholars of [[Mesoamerica]]n [[ethnohistory]] have analyzed local-level texts in Nahuatl and other indigenous languages to gain insight into cultural change in the colonial era via linguistic changes, known at present as the [[New Philology]].{{sfn|Lockhart|1992}} A number of these texts have been translated and published in part or in their entirety. The types of documentation include censuses, especially a very early set from the Cuernavaca region,{{sfn|Hinz|1983}}{{sfn|Cline|1993}} town council records from Tlaxcala,{{sfn|Lockhart|Berdan|Anderson|1986}} and testaments of individual Nahuas.{{sfn|Cline|León-Portilla|1984}}
+
+Since the Spanish made alliances with first the Nahuatl speakers from [[Tlaxcala (Nahua state)|Tlaxcala]] and later with the conquered Mexica of Tenochtitlan (Aztecs), the Nahuatl continued spreading throughout Mesoamerica in the decades after the conquest. Spanish expeditions with thousands of Nahua soldiers marched north and south to conquer new territories. [[Society of Jesus]] missions in northern Mexico and the [[Southwestern United States]] often included a ''[[barrio]]'' of Tlaxcaltec soldiers who remained to guard the mission.{{sfn|Jackson|2000}} For example, some fourteen years after the northeastern city of [[Saltillo]] was founded in 1577, a Tlaxcaltec community was resettled in a separate nearby village, [[San Esteban de Nueva Tlaxcala]], to cultivate the land and aid colonization efforts that had stalled in the face of local hostility to the Spanish settlement.<ref>{{cite encyclopedia|year=2005 |title=Saltillo, Coahuila |encyclopedia=Enciclopedia de los Municipios de México |url= http://www.e-local.gob.mx/work/templates/enciclo/coahuila/mpios/05030a.htm |author=INAFED (Instituto Nacional para el Federalismo y el Desarrollo Municipal) |publisher=[[INAFED]], [[Secretaría de Gobernación]] |edition=online version at E-Local |access-date=2008-03-28 |language=es |url-status=dead |archive-url= https://web.archive.org/web/20070520133556/http://www.e-local.gob.mx/work/templates/enciclo/coahuila/mpios/05030a.htm |archive-date=20 May 2007 }}. The Tlaxcaltec community remained legally separate until the 19th century.</ref> As for the conquest of modern-day Central America, [[Pedro de Alvarado]] conquered Guatemala with the help of tens of thousands of Tlaxcaltec allies, who then settled outside of modern-day [[Antigua Guatemala]].{{sfn|Matthew|2012}}
+
+[[File:Codex florentino 51 9.jpg|upright=1.36|thumb|Page 51 of Book IX from the [[Florentine Codex]]. The text is in Nahuatl written in the Latin alphabet.|alt=]]
+
+As a part of their missionary efforts, members of various [[religious order]]s (principally [[Franciscan]] and [[Dominican Order|Dominican]] friars and Jesuits) introduced the [[Latin alphabet]] to the Nahuas. Within the first twenty years after the Spanish arrival, texts were being prepared in the Nahuatl language written in Latin characters.<ref>{{harvcoltxt|Lockhart|1991|page=12}}; {{harvcoltxt|Lockhart|1992|pages=330–331}}</ref> Simultaneously, schools were founded, such as the [[Colegio de Santa Cruz de Tlatelolco]] in 1536, which taught both indigenous and classical European languages to both Native Americans and [[priest]]s. Missionary grammarians undertook the writing of [[grammar]]s, also called ''artes'', of indigenous languages for use by priests. The first Nahuatl grammar, written by [[Andrés de Olmos]], was published in 1547—three years before the first [[French language|French]] grammar. By 1645, four more had been published, authored respectively by [[Alonso de Molina]] (1571), [[Antonio del Rincón]] (1595),{{sfn|Rincón|1885}} [[Diego de Galdo Guzmán]] (1642), and [[Horacio Carochi]] (1645).{{sfn|Carochi|1645}} Carochi's is today considered the most important of the colonial-era grammars of Nahuatl.{{sfn|Canger|1980|page=14}} Carochi has been particularly important for scholars working in the New Philology, such that there is a 2001 English translation of Carochi's 1645 grammar by [[James Lockhart (historian)|James Lockhart]].{{sfn|Carochi|2001}} Through contact with Spanish the Nahuatl language adopted many loan words, and as bilingualism intensified, changes in the grammatical structure of Nahuatl followed.{{sfn|Olko|Sullivan|2013}}
+[[File:Arte rudimentos leng mexicana.pdf|page=5|thumb|Text about the language by Fray Joseph de Carranza, second half of the 18th century (click to read)]]
+
+In 1570, King [[Philip II of Spain]] decreed that Nahuatl should become the official language of the colonies of [[New Spain]] in order to facilitate communication between the Spanish and natives of the colonies.<ref name="Suárez 1983:165">{{harvcoltxt|Suárez|1983|page=165}}</ref> This led to Spanish missionaries teaching Nahuatl to Indians living as far south as [[Honduras]] and [[El Salvador]]. During the 16th and 17th centuries, Classical Nahuatl was used as a literary language, and a large corpus of texts from that period exists today. They include histories, chronicles, poetry, theatrical works, Christian canonical works, ethnographic descriptions, and administrative documents. The Spanish permitted a great deal of autonomy in the local administration of indigenous towns during this period, and in many Nahuatl-speaking towns the language was the de facto administrative language both in writing and speech. A large body of [[#Literature|Nahuatl literature]] was composed during this period, including the ''[[Florentine Codex]]'', a twelve-volume compendium of Aztec culture compiled by Franciscan [[Bernardino de Sahagún]]; ''[[Crónica Mexicayotl]]'', a chronicle of the royal lineage of Tenochtitlan by [[Fernando Alvarado Tezozómoc]]; ''[[Cantares Mexicanos]]'', a collection of songs in Nahuatl; a Nahuatl-Spanish/Spanish-Nahuatl dictionary compiled by [[Alonso de Molina]]; and the ''[[Huei tlamahuiçoltica]]'', a description in Nahuatl of the apparition of [[Our Lady of Guadalupe]].{{sfn|Suárez|1983|pages=140–41}}
+
+Grammars and dictionaries of indigenous languages were composed throughout the colonial period, but their quality was highest in the initial period.{{sfn|Suárez|1983|page=5}} The friars found that learning all the indigenous languages was impossible in practice, so they concentrated on Nahuatl. For a time, the linguistic situation in Mesoamerica remained relatively stable, but in 1696, [[Charles II of Spain]] issued a [[decree]] banning the use of any language other than Spanish throughout the [[Spanish Empire]]. In 1770, another decree, calling for the elimination of the indigenous languages, did away with Classical Nahuatl as a literary language.<ref name="Suárez 1983:165"/> Until [[Mexican War of Independence|Mexican Independence]] in 1821, the Spanish courts admitted Nahuatl testimony and documentation as evidence in lawsuits, with court translators rendering it in Spanish.{{sfn|Cline|Adams|MacLeod|2000}}
+
+===Modern period===
+
+Throughout the modern period the situation of indigenous languages has grown increasingly precarious in Mexico, and the numbers of speakers of virtually all indigenous languages have dwindled. Although the absolute number of Nahuatl speakers has actually risen over the past century, indigenous populations have become increasingly marginalized in Mexican society. In 1895, Nahuatl was spoken by over 5% of the population. By 2000, this proportion had fallen to 1.49%. Given the process of marginalization combined with the trend of migration to urban areas and to the [[United States]], some linguists are warning of impending [[language death]].{{sfn|Rolstad|2002|page=''passim.''}} At present Nahuatl is mostly spoken in rural areas by an impoverished class of indigenous subsistence agriculturists. According to the Mexican national statistics institute, [[National Institute of Statistics and Geography (Mexico)|INEGI]], 51% of Nahuatl speakers are involved in the farming sector and 6 in 10 receive no wages or less than the minimum wage.{{sfn|INEGI|2005|pages=63–73}}
+
+From the early 20th century to at least the mid-1980s, educational policies in Mexico focused on the [[Hispanicization]] ({{Lang|es|castellanización}}) of indigenous communities, teaching only Spanish and discouraging the use of indigenous languages.{{sfn|Suárez|1983|page=167}} As a result, today there is no group of Nahuatl speakers having attained general literacy in Nahuatl,{{sfn|Suárez|1983|page=168}} while their literacy rate in Spanish also remains much lower than the national average.{{sfn|INEGI|2005|page=49}} Even so, Nahuatl is still spoken by well over a million people, of whom around 10% are [[monolingualism|monolingual]]. The survival of Nahuatl as a whole is not imminently endangered, but the survival of certain dialects is, and some dialects have already become extinct within the last few decades of the 20th century.<ref>{{harvcoltxt|Lastra de Suárez|1986}}, {{harvcoltxt|Rolstad|2002|page=passim}}</ref>
+
+The 1990s saw the onset of a radical change in official Mexican government policies towards indigenous and linguistic rights. Developments of accords in the international rights arena<ref group=cn>Such as the 1996 adoption at a world linguistics conference in Barcelona of the [[Universal Declaration of Linguistic Rights]], a declaration which "became a general reference point for the evolution and discussion of linguistic rights in Mexico" {{harvcoltxt|Pellicer|Cifuentes|Herrera|2006|page=132}}</ref> combined with domestic pressures (such as social and political agitation by the [[Zapatista Army of National Liberation]] and indigenous social movements) led to legislative reforms and the creation of decentralized government agencies like the [[National Commission for the Development of Indigenous Peoples]] (CDI) and the [[Instituto Nacional de Lenguas Indígenas]] (INALI) with responsibilities for the promotion and protection of indigenous communities and languages.{{sfn|Pellicer|Cifuentes|Herrera|2006|pages=132–137}} In particular, the federal ''[[Ley General de Derechos Lingüísticos de los Pueblos Indígenas]]'' ['General Law on the Language Rights of the Indigenous Peoples', promulgated 13 March 2003] recognizes all the country's indigenous languages, including Nahuatl, as [[national language]]s and gives indigenous people the right to use them in all spheres of public and private life. In Article 11, it grants access to compulsory, [[Intercultural bilingual education|bilingual and intercultural education]].<ref>{{Cite web|author=INALI [Instituto Nacional de Lenguas Indígenas] |year=n.d. |title=Presentación de la Ley General de Derechos Lingüísticos |url= http://www.inali.gob.mx/ind-leyes.html |work =Difusión de INALI|publisher=INALI, [[Secretariat of Public Education (Mexico)|Secretaría de Educación Pública]]|access-date=2008-03-31|archive-url= https://web.archive.org/web/20080317120048/http://www.inali.gob.mx/ind-leyes.html |archive-date = 17 March 2008|url-status=dead|language=es}}</ref> Nonetheless, progress towards institutionalizing Nahuatl and securing linguistic rights for its speakers has been slow.{{sfn|Olko|Sullivan|2013}}
+
+==Demography and distribution==
+{{Main|Nahuan languages|Nahua peoples}}
+{| class="wikitable sortable" style="float:right; margin:0 0 0.5em 1em;"
+|-
+|+Nahuatl speakers over 5 years of age in the ten states with most speakers ([[Censo General de Población y Vivienda 2000|2000 census data]]). Absolute and relative numbers. Percentages given are in comparison to the total population of the corresponding state. <small>{{harvcoltxt|INEGI|2005|page=4}}</small>
+|-
+!Region
+!Totals
+!Percentages
+|-
+|[[Federal District (Mexico)|Federal District]]
+|align="right"|37,450
+|align="right"|0.44%
+|-
+|[[Guerrero]]
+|align="right"|136,681
+|align="right"|4.44%
+|-
+|[[Hidalgo (state)|Hidalgo]]
+|align="right"|221,684
+|align="right"|9.92%
+|-
+|[[State of Mexico]]
+|align="right"|55,802
+|align="right"|0.43%
+|-
+|[[Morelos]]
+|align="right"|18,656
+|align="right"|1.20%
+|-
+|[[Oaxaca]]
+|align="right"|10,979
+|align="right"|0.32%
+|-
+|[[Puebla]]
+|align="right"|416,968
+|align="right"|8.21%
+|-
+|[[San Luis Potosí]]
+|align="right"|138,523
+|align="right"|6.02%
+|-
+|[[Tlaxcala]]
+|align="right"|23,737
+|align="right"|2.47%
+|-
+|[[Veracruz]]
+|align="right"|338,324
+|align="right"|4.90%
+|-
+|Rest of Mexico
+|align="right"|50,132
+|align="right"|0.10%
+|- class="sortbottom" style="background-color:#F2F2F2;"
+|'''''Total:'''''
+|align="right"|1,448,937
+|align="right"|1.49%
+|}
+[[File:Nahuatl_map_labeled.svg|left|thumb|Map showing the areas of [[Mesoamerica]] where Nahuatl is spoken today]]
+Today, a spectrum of [[Nahuan languages]] are spoken in scattered areas stretching from the northern state of [[Durango]] to [[Tabasco]] in the southeast. Pipil,<ref name="Campbell 1985">{{harvcoltxt|Campbell|1985}}</ref> the southernmost Nahuan language, is spoken in [[El Salvador]] by a small number of speakers. According to IRIN-International, the Nawat Language Recovery Initiative project, there are no reliable figures for the contemporary numbers of speakers of Pipil. Numbers may range anywhere from "perhaps a few hundred people, perhaps only a few dozen".{{sfn|IRIN|2004}}
+
+According to the 2000 census by INEGI, Nahuatl is spoken by an estimated 1.45&nbsp;million people, some 198,000 (14.9%) of whom are monolingual.{{sfn|INEGI|2005|page=35}} There are many more female than male monolinguals, and women represent nearly two-thirds of the total number. The states of Guerrero and Hidalgo have the highest rates of monolingual Nahuatl speakers relative to the total Nahuatl speaking population, at 24.2% and 22.6%, respectively. For most other states the percentage of monolinguals among the speakers is less than 5%. This means that in most states more than 95% of the Nahuatl speaking population are bilingual in Spanish.{{sfn|INEGI|2005}}
+
+The largest concentrations of Nahuatl speakers are found in the states of [[Puebla]], [[Veracruz]], [[Hidalgo (state)|Hidalgo]], [[San Luis Potosí]], and [[Guerrero]]. Significant populations are also found in the [[State of Mexico]], [[Morelos]], and the [[Mexican Federal District|Federal District]], with smaller communities in [[Michoacán]] and [[Durango]]. Nahuatl became extinct in the states of [[Jalisco]] and [[Colima]] during the 20th century. As a result of internal migration within the country, Nahuatl speaking communities exist in all states in Mexico. The modern influx of Mexican workers and families into the [[United States]] has resulted in the establishment of a few small [[Nahuatl language in the United States|Nahuatl speaking communities in the U.S.]], particularly in [[California]], [[New York (state)|New York]], [[Texas]], [[New Mexico]] and [[Arizona]].{{sfn|Flores Farfán|2002|page=229}}
+
+==Phonology==
+Nahuan languages are defined as a subgroup of Uto-Aztecan by having undergone a number of shared changes from the [[Uto-Aztecan languages#Proto-Uto-Aztecan|Uto-Aztecan protolanguage]] (PUA). The table below shows the [[Phoneme|phonemic]] inventory of Classical Nahuatl as an example of a typical Nahuan language. In some dialects, the {{IPA|/t͡ɬ/}} phoneme, which was common in Classical Nahuatl, has changed into either {{IPA|/t/}}, as in [[Isthmus Nahuatl]], [[Mexicanero language|Mexicanero]] and [[Pipil language|Pipil]], or into {{IPA|/l/}}, as in Nahuatl of [[Pómaro]], [[Michoacán]].{{sfn|Sischo|1979|page=''passim''}} Many dialects no longer distinguish between short and long [[vowel]]s. Some have introduced completely new vowel qualities to compensate, as is the case for [[Tetelcingo Nahuatl]].<ref name="Tuggy 1979:page#"/> Others have developed a [[pitch accent]], such as Nahuatl of [[Oapan]], [[Guerrero]].{{sfn|Amith|1989}} Many modern dialects have also borrowed phonemes from Spanish, such as {{IPA|/b, d, ɡ, f/}}.<ref name="Flores Farfán 1999">{{harvcoltxt|Flores Farfán|1999}}</ref>
+
+=== Phonemes ===
+{{col-begin}}
+{{col-2}}
+{|class=wikitable style="text-align: center"
+|+Classical Nahuatl Consonants
+!rowspan=2| 
+!rowspan=2|[[Labial consonant|Labial]]
+!colspan=2|[[Alveolar consonant|Alveolar]]
+!rowspan=2|[[Palatal consonant|Palatal]]
+!colspan=2|[[Velar consonant|Velar]]
+!rowspan=2|[[Glottal consonant|Glottal]]
+|-style="font-size: x-small;"
+![[Central consonant|central]]
+![[Lateral consonant|lateral]]
+!plain
+![[Labialized velar consonant|labialized]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPA link|m}}||{{IPA link|n}}|| || || || ||
+|-
+! [[Stop consonant|Plosive]]
+| {{IPA link|p}}||{{IPA link|t}}|| || ||{{IPA link|k}}||{{IPA link|kʷ}}||{{IPA link|ʔ}}
+|-
+! [[Affricate consonant|Affricate]]
+| ||{{IPA link|ts}}||{{IPA link|tɬ}}||{{IPA link|tʃ}}|| || ||
+|-
+! [[Continuant]]
+| ||{{IPA link|s}}||{{IPA link|l}}||{{IPA link|ʃ}}|| || ||({{IPA link|h}})*
+|-
+! [[Semivowel]]
+| || || ||{{IPA link|j}}|| ||{{IPA link|w}}||
+|}
+
+{|class=wikitable style="text-align: center"
+|+Classical Nahuatl Vowels
+! rowspan=2|
+! colspan=2|[[Front vowel|Front]]
+! colspan=2|[[Central vowel|Central]]
+! colspan=2|[[Back vowel|Back]]
+|- class=small
+!long||short||long||short||long||short
+|-
+![[Close vowel|Close]]
+|{{IPA link|iː}}||{{IPA link|i}}|| || ||rowspan="2"|{{IPA link|oː}}~{{IPA link|uː}}||rowspan="2"|{{IPA link|o}}~{{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+|{{IPA link|eː}}||{{IPA link|e}}|| ||
+|-
+! [[Open vowel|Open]]
+| || ||{{IPA link|aː}}||{{IPA link|a}}|| ||
+|}
+
+{{col-end}}
+*<nowiki>*</nowiki> The glottal phoneme, called the [[Saltillo (linguistics)|''saltillo'']], occurs only after vowels. In many modern dialects it is realized as an {{IPA|[h]}}, but in others, as in Classical Nahuatl, it is a glottal stop {{IPA|[ʔ]}}.{{sfn|Pury-Toumi|1980}}
+
+In many Nahuatl dialects vowel length contrast is vague, and in others it has become lost entirely. The dialect of Tetelcingo (nhg) developed the vowel length into a difference in quality:<ref>Pittman, R. S. (1961). [https://www.sil.org/system/files/reapdata/12/51/01/125101723596609868748824645947858422472/nhg_Phonemes.pdf ''The Phonemes of Tetelcingo (Morelos) Nahuatl'']. In B. F. Elson & J. Comas (Eds.), ''A William Cameron Townsend en el vigésimoquinto aniversario del Instituto Lingüístico de Verano'' (pp. 643-651). Instituto Lingüístico de Verano.</ref>
+{| class="wikitable"
+!
+! colspan="4" |Long vowels
+! colspan="4" |Short vowels
+|-
+!Classical Nahuatl
+|{{IPA|/iː/}}
+|{{IPA|/eː/}}
+|{{IPA|/aː/}}
+|{{IPA|/oː/}}
+|{{IPA|/i/}}
+|{{IPA|/e/}}
+|{{IPA|/a/}}
+|{{IPA|/o/}}
+|-
+!Tetelcingo dialect
+|{{IPA|/i/}}
+|{{IPA|/i̯e/}}
+|{{IPA|/ɔ/}}
+|{{IPA|/u/}}
+|{{IPA|/ɪ/}}
+|{{IPA|/e/}}
+|{{IPA|/a/}}
+|{{IPA|/o/}}
+|}
+
+===Allophony===
+Most varieties have relatively simple patterns of [[Allophone|sound alternation (allophony)]]. In many dialects, the voiced consonants are devoiced in word-final position and in consonant clusters: {{IPA|/j/}} devoices to a [[voiceless palato-alveolar sibilant]] {{IPA|/ʃ/}},{{sfn|Launey|1992|p=16}} {{IPA|/w/}} devoices to a [[voiceless glottal fricative]] {{IPA|[h]}} or to a [[voiceless labialized velar approximant]] {{IPA|[ʍ]}}, and {{IPA|/l/}} devoices to [[Voiceless dental and alveolar lateral fricatives|voiceless alveolar lateral fricative]] {{IPA|[ɬ]}}. In some dialects, the first consonant in almost any consonant cluster becomes {{IPA|[h]}}. Some dialects have productive [[lenition]] of [[voicelessness|voiceless consonants]] into their voiced counterparts between vowels. The [[Nasal consonant|nasals]] are normally [[Assimilation (phonology)|assimilated]] to the place of articulation of a following consonant. The [[voiceless alveolar lateral affricate]] {{IPA|[t͡ɬ]}} is assimilated after {{IPA|/l/}} and pronounced {{IPA|[l]}}.{{sfn|Launey|1992|page=26}}
+
+===Phonotactics===
+Classical Nahuatl and most of the modern varieties have fairly simple phonological systems. They allow only syllables with maximally one initial and one final consonant.<ref>{{Harvnb|Aguilar|2013}}, citing {{Harvnb|Andrews|2003}}, {{Harvnb|Bedell|2011}}, {{Harvnb|Brockway|1963}}, and {{Harvnb|Goller|Goller|Waterhouse|1974}}</ref>
+Consonant clusters occur only word-medially and over syllable boundaries. Some [[morpheme]]s have two alternating forms: one with a vowel ''i'' to prevent consonant clusters and one without it. For example, the [[absolutive]] [[suffix]] has the variant forms ''-tli'' (used after consonants) and ''-tl'' (used after vowels).{{sfn|Launey|1992|pages=19–22}} Some modern varieties, however, have formed complex clusters from vowel loss. Others have contracted syllable sequences, causing accents to shift or vowels to become long.<ref group=cn>{{harvcoltxt|Sischo|1979|page=312}} and {{harvcoltxt|Canger|2000}} for a brief description of these phenomena in Nahual of Michoacán and Durango respectively</ref>
+
+=== Stress ===
+Most Nahuatl dialects have stress on the penultimate syllable of a word. In Mexicanero from Durango, many unstressed syllables have disappeared from words, and the placement of syllable stress has become phonemic.{{sfn|Canger|2001|page=29}}
+
+==Morphology and syntax==
+{{for|details|Classical Nahuatl grammar}}
+
+The Nahuatl languages are [[Agglutinative language|agglutinative]], [[Polysynthetic language|polysynthetic]] languages that make extensive use of compounding, incorporation and derivation. That is, they can add many different [[Prefix (linguistics)|prefixes]] and [[suffix]]es to a [[Root (linguistics)|root]] until very long words are formed, and a single word can constitute an entire sentence.{{sfn|Launey|1999}}
+
+The following [[verb]] shows how the verb is marked for [[Subject (grammar)|subject]], [[Patient (grammar)|patient]], [[Object (grammar)|object]], and indirect object:
+
+{{interlinear|indent=3
+|ni- mits- teː- tla- makiː -lti -s
+|I- you- someone- something- give -CAUS -FUT
+|"I shall make somebody give something to you"<ref group=cn>All examples given in this section and these subsections are from {{harvcoltxt|Suárez|1983|pages=61–63}} unless otherwise noted. Glosses have been standardized.</ref> (Classical Nahuatl)}}
+
+===Nouns===
+The Nahuatl noun has a relatively complex structure. The only obligatory inflections are for [[Grammatical number|number]] (singular and plural) and possession (whether the noun is possessed, as is indicated by a prefix meaning 'my', 'your', etc.). Nahuatl has neither [[Grammatical case|case]] nor [[grammatical gender|gender]], but Classical Nahuatl and some modern dialects distinguish between [[Animacy|animate]] and inanimate nouns. In Classical Nahuatl the animacy distinction manifested with respect to pluralization, as only animate nouns could take a plural form, and all inanimate nouns were uncountable (as the words ''bread'' and ''money'' are uncountable in English). Now, many speakers do not maintain this distinction and all nouns may take the plural inflection.{{sfn|Hill|Hill|1980}} One dialect, that of the Eastern Huasteca, has a distinction between two different plural suffixes for animate and inanimate nouns.{{sfn|Kimball|1990}}
+
+In most varieties of Nahuatl, nouns in the unpossessed singular form generally take an absolutive suffix. The most common forms of the absolutive are ''-tl'' after vowels, ''-tli'' after consonants other than ''l'', and ''-li'' after ''l''. Nouns that take the plural usually form the plural by adding one of the plural absolutive suffixes -''tin'' or -''meh'', but some plural forms are irregular or formed by [[reduplication]]. Some nouns have competing plural forms.{{sfn|Launey|1992|pages=27–28}}
+
+{{col-begin}}
+{{col-3}}
+Singular noun:
+{{interlinear|indent=3|kojo -tl|coyote -ABS|"coyote" (Classical Nahuatl)}}
+{{col-2}}
+Plural animate noun:
+{{interlinear|indent=3|kojo -meʔ|coyote -PL|"coyotes" (Classical Nahuatl)}}
+{{col-end}}
+
+Plural animate noun w. reduplication:
+{{interlinear|indent=3|/koː~kojo-ʔ/|PL~coyote-PL|"coyotes" (Classical Nahuatl)}}
+
+Nahuatl distinguishes between possessed and unpossessed forms of nouns. The absolutive suffix is not used on possessed nouns. In all dialects, possessed nouns take a prefix agreeing with number and person of its possessor. Possessed plural nouns take the ending ''-{{IPA|/waːn/}}''.{{sfn|Launey|1992|pages=88–89}}
+
+{{col-begin}}
+{{col-2}}
+Absolutive noun:
+{{interlinear|indent=3|kal -li|house -ABS|"house" (Classical Nahuatl)}}
+{{col-2}}
+Possessed noun:
+{{interlinear|indent=3|no- kal|my- house|"my house" (Classical Nahuatl)}}
+{{col-end}}
+
+Possessed plural: 
+{{interlinear|indent=3|no- kal -waːn|my- house -PL|"my houses" (Classical Nahuatl)}}
+
+Nahuatl does not have [[grammatical case]] but uses what is sometimes called a [[relational noun]] to describe spatial (and other) relations. These [[morpheme]]s cannot appear alone but must occur after a noun or a possessive prefix. They are also often called [[postposition]]s<ref>{{harvcoltxt|Hill|Hill|1986}} re Malinche Nahuatl</ref> or locative suffixes.<ref>{{harvcoltxt|Launey|1992}} Chapter 13 re classical Nahuatl</ref> In some ways these locative constructions resemble and can be thought of as locative case constructions. Most modern dialects have incorporated [[prepositions]] from Spanish that are competing with or that have completely replaced relational nouns.{{sfn|Suárez|1977|pages=''passim''}}
+{{col-begin}}
+{{col-2}}
+
+Uses of relational noun/postposition/locative ''-pan'' with a possessive prefix:
+{{interlinear|indent=3|no-pan|my-in/on|"in/on me" (Classical Nahuatl)}}
+{{interlinear|indent=3|iː-pan|its-in/on|"in/on it" (Classical Nahuatl)}}
+{{interlinear|indent=3|iː-pan kal-li|its-in house-ABS|"in the house" (Classical Nahuatl)}}
+
+{{col-2}}
+Use with a preceding noun stem:
+{{interlinear|indent=3|kal-pan|house-in|"in the house" (Classical Nahuatl)}}
+{{col-end}}
+
+Noun compounds are commonly formed by combining two or more nominal stems or combining a nominal stem with an adjectival or verbal stem.{{sfn|Launey|1999|page=''passim''}}
+
+===Pronouns===
+Nahuatl generally distinguishes three persons, both in the singular and plural numbers. In at least one modern dialect, the [[Isthmus-Mecayapan Nahuatl|Isthmus-Mecayapan]] variety, there has come to be a distinction between [[Clusivity|inclusive]] (I/we and you) and [[Clusivity|exclusive]] (we but not you) forms of the first person plural:{{sfn|Wolgemuth|2002}}
+
+{{col-begin}}
+{{col-2}}
+First person plural pronoun in Classical Nahuatl:
+*''{{IPA|tehwaːntin}}'' "we"
+{{col-2}}
+First person plural pronouns in Isthmus-Mecayapan Nahuat:
+*''nejamēn'' ({{IPA|[nehameːn]}}) "We, but not you" (= me & them)
+*''tejamēn'' ({{IPA|[tehameːn]}}) "We along with you" (= me & you & them){{sfn|Wolgemuth|2002|page=35}}
+{{col-end}}
+
+Much more common is an honorific/non-honorific distinction, usually applied to second and third persons but not first.
+
+{{col-begin}}
+{{col-2}}
+Non-honorific forms:
+*''{{IPA|tehwaːtl}}'' "you sg."
+*''{{IPA|amehwaːntin}}'' "you pl."
+*''{{IPA|yehwatl}}'' "he/she/it"
+{{col-2}}
+Honorific forms
+*''{{IPA|tehwaːtzin}}'' "you sg. honorific"
+*''{{IPA|amehwaːntzitzin}}'' "you pl. honorific"
+*''{{IPA|yehwaːtzin}}'' "he/she honorific"
+{{col-end}}
+
+===Numerals===
+
+Nahuatl has a [[vigesimal]] (base-20) numbering system. The base values are {{lang|nah|cempoalli}} (1 × 20), {{lang|nah|centzontli}} (1 × 400), {{lang|nah|cenxiquipilli}} (1 × 8,000), {{lang|nah|cempoalxiquipilli}} (1 × 20 × 8,000 = 160,000), {{lang|nah|centzonxiquipilli}} (1 × 400 × 8,000 = 3,200,000) and {{lang|nah|cempoaltzonxiquipilli}} (1 × 20 × 400 × 8,000 = 64,000,000). Note that the {{lang|nah|ce(n/m)}} prefix at the beginning means 'one' (as in 'one hundred' and 'one thousand') and is replaced with the corresponding number to get the names of other multiples of the power. For example, {{lang|nah|ome}} (2) × {{lang|nah|poalli}} (20) = {{lang|nah|ompoalli}} (40), {{lang|nah|ome}} (2) × {{lang|nah|tzontli}} (400) = {{lang|nah|ontzontli}} (800). The {{lang|nah|-li}} in {{lang|nah|poal'''li'''}} (and {{lang|nah|xiquipil'''li'''}}) and the {{lang|nah|-tli}} in {{lang|nah|tzon'''tli'''}} are grammatical noun suffixes that are appended only at the end of the word; thus {{lang|nah|poalli}}, {{lang|nah|tzontli}} and {{lang|nah|xiquipilli}} compound together as {{lang|nah|poaltzonxiquipilli}}.
+
+===Verbs===
+The Nahuatl verb is quite complex and inflects for many grammatical categories. The verb is composed of a root, [[prefix]]es, and [[suffix]]es. The prefixes indicate the person of the [[Subject (grammar)|subject]], and person and number of the [[Object (grammar)|object]] and indirect object, whereas the suffixes indicate [[Tense (grammar)|tense]], [[Aspect (grammar)|aspect]], [[Mood (grammar)|mood]] and subject number.{{sfn|Suárez|1983|page=61}}
+
+Most Nahuatl dialects distinguish three tenses: present, past, and future, and two aspects: [[Perfective aspect|perfective]] and [[imperfective aspect|imperfective]]. Some varieties add [[Continuous and progressive aspects|progressive]] or habitual aspects. Many dialects distinguish at least the indicative and imperative moods, and some also have [[Optative mood|optative]] and [[Prohibitive mood|vetative/prohibitive moods]].
+
+Most Nahuatl varieties have a number of ways to alter the [[Valency (linguistics)|valency]] of a verb. Classical Nahuatl had a [[grammatical voice|passive voice]] (also sometimes defined as an impersonal voice{{sfn|Canger|1996}}), but this is not found in most modern varieties. However the [[Applicative voice|applicative]] and [[causative voice]]s are found in many modern dialects.{{sfn|Suárez|1983|page=81}} Many Nahuatl varieties also allow forming verbal compounds with two or more verbal roots.<ref name="Suarez 1983:62">{{harvcoltxt|Suárez|1983|page=62}}</ref>
+
+The following verbal form has two verbal roots and is inflected for causative voice and both a direct and indirect object:
+{{interlinear|indent=3|ni- kin- tla- kwa- ltiː- s- neki|I- them- something- eat- CAUS- FUT- want|"I want to feed them" (Classical Nahuatl)}}
+
+Some Nahuatl varieties, notably Classical Nahuatl, can inflect the verb to show the direction of the verbal action going away from or towards the speaker. Some also have specific inflectional categories showing purpose and direction and such complex notions as "to go in order to" or "to come in order to", "go, do and return", "do while going", "do while coming", "do upon arrival", or "go around doing".<ref name="Suarez 1983:62"/>{{sfn|Launey|1992|pages=207–210}}
+
+Classical Nahuatl and many modern dialects have grammaticalised ways to express politeness towards addressees or even towards people or things that are being mentioned, by using special verb forms and special "honorific suffixes".{{sfn|Suárez|1977|page=61}}
+
+{{col-begin}}
+{{col-2}}
+Familiar verbal form:
+{{interlinear|indent=3|ti-mo-tlaːlo-a|you-yourself-run-PRS|"you run" (Classical Nahuatl)}}
+{{col-2}}
+Honorific verbal form:
+{{interlinear|indent=3|ti-mo-tlaːlo-tsino-a|you-yourself-run-HON-PRS|"You run" (said with respect) (Classical Nahuatl)}}
+{{col-end}}
+
+===Reduplication===
+Many varieties of Nahuatl have [[Productivity (linguistics)|productive]] [[reduplication]]. By reduplicating the first syllable of a [[Root (linguistics)|root]] a new word is formed. In nouns this is often used to form plurals, e.g. {{IPA|/tlaːkatl/}} 'man' → {{IPA|/tlaːtlaːkah/}} 'men', but also in some varieties to form [[diminutive]]s, [[honorific]]s, or for [[derivation (linguistics)|derivations]].{{sfn|Launey|1992|page=27}} In verbs reduplication is often used to form a reiterative meaning (i.e. expressing repetition), for example in Nahuatl of Tezcoco: 
+*/''{{IPA|wetsi}}''/ 'he/she falls'
+*/''{{IPA|we:-wetsi}}''/ 'he/she falls several times'
+*/''{{IPA|weʔ-wetsi-ʔ}}''/ 'they fall (many people)'{{sfn|Peralta Ramírez|1991}}
+
+===Syntax===
+Some linguists have argued that Nahuatl displays the properties of a [[non-configurational language]], meaning that word order in Nahuatl is basically free.{{sfn|Baker|1996|page=''passim.''}}<ref name="Pharao Hansen 2010">{{harvcoltxt|Pharao Hansen|2010}}</ref> Nahuatl allows all possible orderings of the three basic sentence constituents. It is prolifically a [[pro-drop]] language: it allows sentences with omission of all noun phrases or independent pronouns, not just of noun phrases or pronouns whose function is the sentence subject. In most varieties independent [[pronoun]]s are used only for emphasis. It allows certain kinds of syntactically discontinuous expressions.<ref name="Pharao Hansen 2010"/>
+
+Michel Launey argues that Classical Nahuatl had a verb-initial basic word order with extensive freedom for variation, which was then used to encode [[pragmatics|pragmatic]] functions such as [[Focus (linguistics)|focus]] and [[Topic (linguistics)|topicality]].{{sfn|Launey|1992|pages=36–37}} The same has been argued for some contemporary varieties.<ref name="Pharao Hansen 2010"/>
+
+{{interlinear|indent=3
+|newal no-nobia
+|I my-fiancée
+|"'''My''' fiancée" (and not anyone else's) (Michoacán Nahual)<ref name="Sischo 1979:314">{{harvcoltxt|Sischo|1979|page=314}}</ref>}}
+
+It has been argued{{By whom|date=September 2021}} that Classical Nahuatl syntax is best characterised by "omnipredicativity", meaning that any noun or verb in the language is in fact a full predicative sentence.<ref>{{harvcoltxt|Launey|1994}}; {{harvcoltxt|Andrews|2003}}.</ref> A radical interpretation of Nahuatl syntactic typology, this nonetheless seems to account for some of the language's peculiarities, for example, why nouns must also carry the same agreement prefixes as verbs, and why predicates do not require any noun phrases to function as their arguments. For example, the verbal form {{Lang|nah|tzahtzi}} means 'he/she/it shouts', and with the second person prefix {{Lang|nah|titzahtzi}} it means 'you shout'. Nouns are inflected in the same way: the noun {{Lang|nah|conētl}} means not just 'child', but also 'it is a child', and {{Lang|nah|ticonētl}} means 'you are a child'. This prompts the omnipredicative interpretation, which posits that all nouns are also predicates. According to this interpretation, a phrase such as {{Lang|nah|tzahtzi in conētl}} should not be interpreted as meaning just 'the child screams' but, rather, 'it screams, (the one that) is a child'.<ref>{{harvcoltxt|Launey|1994}}, {{harvcoltxt|Launey|1999|pages=116–18}}</ref>
+
+==Contact phenomena==
+Nearly 500 years of [[Nahuatl–Spanish contact|intense contact between speakers of Nahuatl and speakers of Spanish]], combined with the minority status of Nahuatl and the higher prestige associated with Spanish has caused many changes in modern Nahuatl varieties, with large numbers of words borrowed from Spanish into Nahuatl, and the introduction of new syntactic constructions and grammatical categories.<ref name="Canger & Jensen 2007">{{harvcoltxt|Canger|Jensen|2007}}</ref>
+
+For example, a construction like the following, with several borrowed words and particles, is common in many modern varieties (Spanish loanwords in boldface):
+
+{{interlinear|indent=3
+|'''pero''' āmo tēch'''entender'''oa '''lo''' '''que''' tlen tictoah '''en''' '''mexicano'''<ref group=cn>The words ''pero'', ''entender'', ''lo que'', and ''en'' are all from Spanish. The use of the suffix -oa on a Spanish infinitive like ''entender'', enabling the use of other Nahuatl verbal affixes, is standard. The sequence ''lo que tlen'' combines Spanish ''lo que'' 'what' with Nahuatl ''tlen'' (also meaning 'what') to mean (what else) 'what'. ''en'' is a preposition and heads a prepositional phrase; traditionally Nahuatl had postpositions or relational nouns rather than prepositions. The stem ''mexihka'', related to the name ''mexihko'', 'Mexico', is of Nahuatl origin, but the suffix ''-ano'' is from Spanish, and it is probable that the whole word ''mexicano'' is a re-borrowing from Spanish back into Nahuatl.</ref>
+|but not they-us-understand-PL that which what we-it-say in Nahuatl
+|"But they don't understand what we say in Nahuatl" (Malinche Nahuatl){{sfn|Hill|Hill|1986|page=317}}}}
+
+In some modern dialects basic word order has become a fixed [[subject–verb–object]], probably under influence from Spanish.<ref>Hill and Hill 1986:page#</ref> Other changes in the syntax of modern Nahuatl include the use of Spanish prepositions instead of native postpositions or relational nouns and the reinterpretation of original postpositions/relational nouns into prepositions.<ref name="Flores Farfán 1999"/><ref name="Canger & Jensen 2007"/>{{sfn|Suárez|1977}} In the following example, from Michoacán Nahual, the postposition -''ka'' meaning 'with' appears used as a preposition, with no preceding object:
+
+{{interlinear|indent=3
+|ti-ya ti-k-wika ka tel
+|you-go you-it-carry with you
+|"are you going to carry it with you?" (Michoacán Nahual)<ref name="Sischo 1979:314"/>}}
+
+In this example from [[Mexicanero]] Nahuatl, of [[Durango]], the original postposition/relational noun -''pin'' 'in/on' is used as a preposition. Also, {{Lang|es|porque}}, a conjunction borrowed from Spanish, occurs in the sentence.
+
+{{interlinear|indent=3
+|amo wel kalaki-yá pin kal porke ʣakwa-tiká im pwerta
+|not can he-enter-PAST in house because it-closed-was the door
+|"He couldn't enter the house because the door was closed" (Mexicanero Nahuat){{sfn|Canger|2001|page=116}}}}
+
+Many dialects have also undergone a degree of simplification of their morphology that has caused some scholars to consider them to have ceased to be [[polysynthesis|polysynthetic]].{{sfn|Hill|Hill|1986|pages=249–340}}
+
+==Vocabulary==
+{{See also|Words of Nahuatl origin}}[[File:Tomatillo.jpg|upright=0.9|right|thumb|The Aztecs called (red) tomatoes {{lang|nah|xitōmatl}}, whereas the green [[tomatillo]] was called {{lang|nah|tōmatl}}; the latter is the source for the English word ''tomato''.]]
+
+Many Nahuatl words have been [[loanword|borrowed]] into the [[Spanish language]], most of which are terms designating things indigenous to the Americas. Some of these loans are restricted to Mexican or Central American Spanish, but others have entered all the varieties of Spanish in the world. A number of them, such as ''chocolate'', ''tomato'' and ''avocado'' have made their way into many other languages via Spanish.{{sfn|Haugen|2009}}
+
+For instance, in English, two of the most prominent are undoubtedly ''[[chocolate]]''<ref group="cn">While there is no real doubt that the word ''chocolate'' comes from Nahuatl, the commonly given Nahuatl etymology {{IPA|/ʃokolaːtl/}} 'bitter water' no longer seems to be tenable. {{harvcoltxt|Dakin|Wichmann|2000}} suggest the correct etymology to be {{IPA|/tʃikolaːtl/}} – a word found in several modern Nahuatl dialects.</ref> and ''[[tomato]]'' (from Nahuatl {{lang|nah|tomatl}}). Other common words are ''[[coyote]]'' (from Nahuatl {{lang|nah|coyotl}}), ''[[avocado]]'' (from Nahuatl {{lang|nah|ahuacatl}}) and [[chili pepper|''chile'' or ''chili'']] (from Nahuatl {{lang|nah|chilli}}). The word ''[[chicle]]'' is also derived from Nahuatl {{lang|nah|tzictli}} 'sticky stuff, chicle'. Some other English words from Nahuatl are: ''[[Aztec]]'' (from {{lang|nah|aztecatl}}); ''[[cocoa bean|cacao]]'' (from Nahuatl {{lang|nah|cacahuatl}} 'shell, rind');<ref>{{harvcoltxt|Dakin|Wichmann|2000}}</ref> ''[[ocelot]]'' (from {{lang|nah|ocelotl}}).<ref>{{cite encyclopedia |editor=Joseph P. Pickett |year=2000 |url=https://archive.org/details/americanheritage0000unse_a1o7 |format=online version |title=ocelot |encyclopedia=The American Heritage Dictionary of the English Language |edition=4th |location=Boston, MA |publisher=[[Houghton Mifflin]] |isbn=978-0-395-82517-4 |oclc=43499541 |display-editors=etal |url-status=dead |access-date=7 August 2019 |archive-url=https://web.archive.org/web/20070824200546/http://www.bartleby.com/61/21/D0422100.html |archive-date=24 August 2007 }}</ref> In Mexico many words for common everyday concepts attest to the close contact between Spanish and Nahuatl — so many in fact that entire dictionaries of {{lang|es|mexicanismos}} (words particular to Mexican Spanish) have been published tracing Nahuatl etymologies, as well as Spanish words with origins in other indigenous languages. Many well known [[toponymy|toponyms]] also come from Nahuatl, including ''Mexico'' (from the Nahuatl word for the Aztec capital {{lang|nah|mexihco}}) and ''[[Guatemala]]'' (from the word {{lang|nah|cuauhtēmallan}}).<ref group="cn">The Mexica used the word for the [[Kaqchikel people|Kaqchikel]] capital [[Iximche]] in central Guatemala, but the word was extended to the entire zone in colonial times; see {{harvcoltxt|Carmack|1981|page=143}}.</ref>
+
+==Writing and literature==
+
+=== Writing ===
+{{Main|Nahuatl orthography}}
+{{See also|Aztec writing|Aztec codices}}
+
+[[File:Aztecwriting.jpg|100px|right|thumb|The place names {{Lang|nah|Mapachtepec}} ('Raccoon Hill'), {{Lang|nah|Mazatlan}} ('Deer Place') and {{Lang|nah|Huitztlan}} ('Thorn Place') written in the Aztec writing system, from the [[Codex Mendoza]]]]
+Traditionally, Pre-Columbian Aztec writing has not been considered a true writing system, since it did not represent the full vocabulary of a spoken language in the way that the writing systems of the Old World or the [[Maya Script]] did. Therefore, generally Aztec writing was not meant to be read, but to be told. The elaborate codices were essentially pictographic aids for memorizing texts, which include genealogies, astronomical information, and tribute lists. Three kinds of signs were used in the system: pictures used as [[mnemonic]]s (which do not represent particular words), [[logogram]]s which represent whole words (instead of [[phoneme]]s or [[syllable]]s), and logograms used only for their sound values (i.e. used according to the [[rebus]] principle).{{sfn|Lockhart|1992|pages=327–329}} However, epigrapher [[Alfonso Lacadena]] has argued that by the eve of the Spanish invasion, one school of Nahua scribes, those of Tetzcoco, had developed a fully [[syllabary|syllabic script]] which could represent spoken language phonetically in the same way that the [[Maya script]] did.{{sfn|Lacadena|2008}} Some other epigraphers have questioned the claim, arguing that although the syllabicity was clearly extant in some early colonial manuscripts (hardly any pre-Columbian manuscripts have survived), this could be interpreted as a local innovation inspired by Spanish literacy rather than a continuation of a pre-Columbian practice.{{sfn|Whittaker|2009}}
+
+The Spanish introduced the [[Latin script]], which was used to record a large body of Aztec prose, poetry and mundane documentation such as testaments, administrative documents, legal letters, etc. In a matter of decades pictorial writing was completely replaced with the Latin alphabet.{{sfn|Lockhart|1992|pages=330–335}} No standardized Latin orthography has been developed for Nahuatl, and no general consensus has arisen for the representation of many sounds in Nahuatl that are lacking in Spanish, such as long vowels and the [[glottal stop]].<ref name="Canger 2002:200–204">{{harvcoltxt|Canger|2002|pages=200–204}}</ref> The orthography most accurately representing the phonemes of Nahuatl was developed in the 17th century by the [[Jesuit]] [[Horacio Carochi]], building on the insights of another Jesuit, [[Antonio del Rincon]].{{sfn|Smith-Stark|2005}} Carochi's orthography used two different diacritics: a [[Macron (diacritic)|macron]] to represent long vowels and a [[grave accent|grave]] for the {{Lang|es|saltillo}}, and sometimes an acute accent for short vowels.{{sfn|Whorf|Karttunen|Campbell|1993}} This orthography did not achieve a wide following outside of the Jesuit community.{{sfn|McDonough|2014|page=148}}{{sfn|Bierhorst|1985|page=xii}}
+
+When Nahuatl became the subject of focused linguistic studies in the 20th century, linguists acknowledged the need to represent all the phonemes of the language. Several practical orthographies were developed to transcribe the language, many using the [[Americanist phonetic notation|Americanist transcription]] system. With the establishment of Mexico's [[Instituto Nacional de Lenguas Indígenas]] in 2004, new attempts to create standardized orthographies for the different dialects were resumed; however to this day there is no single official orthography for Nahuatl.<ref name="Canger 2002:200–204"/> Apart from dialectal differences, major issues in transcribing Nahuatl include:
+* whether to follow Spanish orthographic practice and write {{IPA|/k/}} with ''c'' and ''qu'', {{IPA|/kʷ/}} with ''cu'' and ''uc'', {{IPA|/s/}} with ''c'' and ''z'', or ''s'', and {{IPA|/w/}} with ''hu'' and ''uh'', or ''u''.<ref name="Canger 2002:200–204"/>
+* how to write the [[Saltillo (linguistics)|''saltillo'']] phoneme (in some dialects pronounced as a [[glottal stop]] {{IPA|[ʔ]}} and in others as an {{IPA|[h]}}), which has been spelled with ''j'', ''h'', ' (apostrophe), or a grave accent on the preceding vowel, but which traditionally has often been omitted in writing.<ref name="Canger 2002:200–204"/>
+* whether and how to represent vowel length, e.g. by double vowels or by the use of macrons.<ref name="Canger 2002:200–204"/>
+
+===Literature===
+{{indigenous|date=September 2020}}
+{{Main|Mesoamerican literature}}
+Among the [[indigenous languages of the Americas]], the extensive corpus of surviving literature in Nahuatl dating as far back as the 16th century may be considered unique.{{sfn|Canger|2002|page=300}} Nahuatl literature encompasses a diverse array of genres and styles, the documents themselves composed under many different circumstances. It appears that the preconquest Nahua had a distinction much like the European distinction between "[[prose]]" and "[[poetry]]", the first called {{Lang|nah|tlahtolli}} 'speech' and the second {{Lang|nah|cuicatl}} 'song'.{{sfn|León-Portilla|1985|page=12}}{{sfn|Karttunen|Lockhart|1980}}
+
+Nahuatl {{Lang|nah|tlahtolli}} prose has been preserved in different forms. Annals and chronicles recount history, normally written from the perspective of a particular ''[[altepetl]]'' (locally based [[polity]]) and often combining mythical accounts with real events. Important works in this genre include those from [[Chalco (altépetl)|Chalco]] written by [[Chimalpahin]], from [[History of Tlaxcala|Tlaxcala]] by [[Diego Muñoz Camargo]], from Mexico-Tenochtitlan by [[Fernando Alvarado Tezozomoc]] and those of Texcoco by [[Fernando de Alva Cortés Ixtlilxochitl|Fernando Alva Ixtlilxochitl]]. Many annals recount history year-by-year and are normally written by anonymous authors. These works are sometimes evidently based on pre-Columbian pictorial year counts that existed, such as the [[Cuautitlán|Cuauhtitlan]] annals and the [[Anales de Tlatelolco]]. Purely mythological narratives are also found, like the "Legend of the [[Five Suns]]", the Aztec [[creation myth]] recounted in Codex Chimalpopoca.{{sfn|Bierhorst|1998}}
+
+One of the most important works of prose written in Nahuatl is the twelve-volume compilation generally known as the ''[[Florentine Codex]]'', authored in the mid-16th century by the [[Franciscan]] missionary [[Bernardino de Sahagún]] and a number of Nahua speakers.<ref>{{Cite web|url=https://www.wdl.org/es/item/10096/view/1/1/|title=Historia general de las cosas de Nueva España por el fray Bernardino de Sahagún: el Códice Florentino – Visor – Biblioteca Digital Mundial|website=www.wdl.org|access-date=2020-02-01}}</ref> With this work Sahagún bestowed an enormous ethnographic description of the Nahua, written in side-by-side translations of Nahuatl and Spanish and illustrated throughout by color plates drawn by indigenous painters. Its volumes cover a diverse range of topics: Aztec history, material culture, social organization, religious and ceremonial life, rhetorical style and metaphors. The twelfth volume provides an indigenous perspective on the conquest itself. Sahagún also made a point of trying to document the richness of the Nahuatl language, stating:
+
+{{quote|This work is like a dragnet to bring to light all the words of this language with their exact and metaphorical meanings, and all their ways of speaking, and most of their practices good and evil.{{sfn|Sahagún|1950–82|pages=part I:47}}}}
+
+Nahuatl poetry is preserved in principally two sources: the ''[[Cantares Mexicanos]]'' and the ''[[Romances de los señores de Nueva España]]'', both collections of Aztec songs written down in the 16th and 17th centuries. Some songs may have been preserved through oral tradition from pre-conquest times until the time of their writing, for example the songs attributed to the poet-king of Texcoco, [[Nezahualcoyotl (tlatoani)|Nezahualcoyotl]]. {{harvcoltxt|Karttunen|Lockhart|1980}} identify more than four distinct styles of songs, e.g. the {{Lang|nah|icnocuicatl}} ('sad song'), the {{Lang|nah|xopancuicatl}} ('song of spring'), {{Lang|nah|melahuaccuicatl}} ('plain song') and {{Lang|nah|yaocuicatl}} ('song of war'), each with distinct stylistic traits. Aztec poetry makes rich use of metaphoric imagery and themes and are lamentation of the brevity of human existence, the celebration of valiant warriors who die in battle, and the appreciation of the beauty of life.{{sfn|León-Portilla|1985|pages=12–20}}
+
+===Stylistics===
+The Aztecs distinguished between at least two social registers of language: the language of commoners ({{Lang|nah|macehuallahtolli}}) and the language of the nobility ({{Lang|nah|tecpillahtolli}}). The latter was marked by the use of a distinct rhetorical style. Since literacy was confined mainly to these higher social classes, most of the existing prose and poetical documents were written in this style. An important feature of this high rhetorical style of formal oratory was the use of [[Parallelism (rhetoric)|parallelism]],{{sfn|Bright|1990|page=''passim.''}} whereby the orator structured their speech in [[couplet]]s consisting of two parallel phrases. For example:
+*{{Lang|nah|ye maca timiquican}}
+*'May we not die'
+*{{Lang|nah|ye maca tipolihuican}}
+*'May we not perish'{{sfn|Bright|1990|page=440}}
+
+Another kind of parallelism used is referred to by modern linguists as ''[[difrasismo]]'', in which two phrases are symbolically combined to give a [[metaphor]]ical reading. Classical Nahuatl was rich in such diphrasal metaphors, many of which are explicated by Sahagún in the Florentine Codex and by [[Andrés de Olmos]] in his ''Arte''.{{sfn|Olmos|1993}} Such {{Lang|es|difrasismos}} include:<ref>Examples given are from Sahagún 1950–82, vol. VI, ff. 202V-211V</ref>
+*{{Lang|nah|in xochitl, in cuicatl}}
+*'The flower, the song' – meaning 'poetry'
+*{{Lang|nah|in cuitlapilli, in atlapalli}}
+*'the tail, the wing' – meaning 'the common people'
+*{{Lang|nah|in toptli, in petlacalli}}
+*'the chest, the box' – meaning 'something secret'
+*{{Lang|nah|in yollohtli, in eztli}}
+*'the heart, the blood' – meaning 'cacao'
+*{{Lang|nah|in iztlactli, in tencualactli}}
+*'the drool, the spittle' – meaning 'lies'
+
+==Sample text==
+The sample text below is an excerpt from a statement issued in Nahuatl by [[Emiliano Zapata]] in 1918 in order to convince the Nahua towns in the area of Tlaxcala to join the [[Mexican Revolution|Revolution]] against the regime of [[Venustiano Carranza]].<ref>Text as reproduced in León-Portilla 1978:78–80</ref> The orthography employed in the letter is improvised, and does not distinguish long vowels and only sporadically marks {{lang|es|saltillo}} (with both {{angle bracket|h}} and acute accent).{{sfn|León-Portilla|1978}}
+
+{{verse translation|lang=nah|'''Tlanahuatil Panoloani'''
+
+An Altepeme de non cate itech nin tlalpan 
+de netehuiloya den tlanahuatiani Arenas.
+
+Axcan cuan nonques tlalticpacchanéhque 
+de non altepeme tlami quitzetzeloa
+neca tliltic amo cuali nemiliz Carrancista,
+noyolo pahpaqui
+ihuan itech nin mahuiztica,
+intoca netehuiloanime-tlatzintlaneca,
+ihuan nanmechtitlanilia 
+ze páhpaquilizticatlápaloli 
+ihuan ica nochi noyolo 
+niquinyolehua nonques altepeme 
+aquihque cate qui chihuazque netehuiliztle 
+ipampa meláhqui tlanahuatil 
+ihuan amo nen motenecahuilia 
+quitlahtlaczazque
+in anmocualinemiliz. 
+tiquintlahpaloa nonques netehuiloanime 
+tlen mocuepan ican nin yolopaquilizticatequi, 
+ihuan quixnamiqui in nexicoaliztle 
+ipan non huei tehuile 
+tlen aic hueliti tlami nian aic tlamiz 
+zeme ica nitlamiliz in tliltic oquichtlanahuatiani,
+de neca moxicoani, teca mocaya
+de non zemihcac teixcuepa 
+tlen itoca Venustiano Carranza 
+que quimahuizquixtia in netehuiliztle 
+ihuan quipinahtia to tlalticpac-nantzi "Mexico" 
+zeme quimahuizpolóhtica.
+
+|'''Message to be passed around'''
+
+To the towns that are located in the area 
+that fought under General Arenas.
+
+Now, that the dwellers of this earth, 
+of those towns, finish shaking out
+that black, evil life of the Carrancismo
+my heart is very happy 
+and with the dignity 
+in the name of those who fight in the ranks,
+and to you all I send
+a happy greeting 
+and with all of my heart 
+I invite those towns,
+those who are there, to join the fight 
+for a righteous mandate 
+to not vainly issue statements, 
+to not allow to be done away with 
+your good way of life. 
+We salute those fighters
+who turn towards this joyous labour 
+and confront the greed 
+in this great war, 
+which can never end, nor will ever end 
+until the end of the black tyrant
+of that glutton, who mocks 
+and always cheat people 
+and whose name is Venustiano Carranza,
+who takes the glory out of war
+and who shames our motherland, Mexico 
+completely dishonouring it.}}
+
+==See also==
+* ''[[Vocabulario manual de las lenguas castellana y mexicana]]'' (a Spanish-Nahuatl dictionary)
+* ''[[Vocabulario trilingüe]]'' (dictionary of Spanish, Latin, and Nahuatl)
+
+==Notes==
+===Content notes===
+{{reflist|group="cn"|3}}
+
+===Citations===
+{{reflist|20em}}
+
+==Bibliography==
+{{Refbegin|indent=yes|colwidth=30em}}
+* {{cite thesis |last=Aguilar |first=Andrés Ehecatl |date=2013 |title= Phonological description of Huasteca Nahuatl from Chicontepec, Veracruz |type= |chapter= |publisher=California State University, Northridge |docket= |hdl=10211.2/3997 |page=25 }}
+*{{cite conference|last=Amith |first=Jonathan D. |year=1989 |title= Acento en el nahuatl de Oapan|conference=Presentation to the Seminario de Lenguas Indígenas, Instituto de Investigaciones Filológicas-UNAM |publisher=[[Universidad Nacional Autónoma de México]]|location=México D.F.|language=es}}
+* {{Cite book|last=Andrews|first=J. Richard |year=2003 |title=Introduction to Classical Nahuatl |edition=revised |location=Norman |publisher=[[University of Oklahoma Press]] |isbn=978-0-8061-3452-9 |oclc=50090230}}
+*{{Cite book|last=Baker|first=Mark C. |author-link=Mark Baker (linguist)|year=1996|title=The Polysynthesis Parameter|url=https://archive.org/details/polysynthesispar0000bake|url-access=registration|series=Oxford Studies in Comparative Syntax|location=New York|publisher=[[Oxford University Press]] |isbn=978-0-19-509308-7|oclc=31045692}}
+* {{cite journal |last1=Bedell |first1=George |date=2011 |title=The Nahuatl Language |url=http://languageinindia.com/nov2011/bedellnawatorugo.pdf |journal=Language in India |volume=11 |access-date=October 5, 2021}}
+* {{Cite book|last1=Beller|first1=Richard |first2=Patricia|last2=Beller |year=1979 |chapter=Huasteca Nahuatl |editor=Ronald Langacker |editor-link=Ronald Langacker |title=Studies in Uto-Aztecan Grammar 2: Modern Aztec Grammatical Sketches |series=Summer Institute of Linguistics Publications in Linguistics, 56 |location=Dallas, TX |publisher=[[Summer Institute of Linguistics]] and the [[University of Texas at Arlington]] |pages=199–306 |isbn=978-0-88312-072-9 |oclc=6086368}}
+* {{cite journal |last1=Brockway |first1=Earl |title=The Phonemes of North Puebla Nahuatl |journal=Anthropological Linguistics |date=1963 |volume=5 |issue=2 |pages=14–18 |jstor=30022406 |url=https://www.jstor.org/stable/30022406 |issn=0003-5483}}
+* {{cite book|last=Bierhorst|first=J. |year=1985|title=Cantares mexicanos: Songs of the Aztecs|publisher=Stanford University Press}}
+* {{cite book|last=Bierhorst|first=J. |year=1998|title=History and Mythology of the Aztecs: The Codex Chimalpopoca|publisher=University of Arizona Press|isbn=978-0-8165-1886-9}}
+* {{Cite journal|last=Boas|first=Franz |author-link=Franz Boas |year=1917 |title=El dialecto mexicano de Pochutla, Oaxaca |journal=[[International Journal of American Linguistics]] |volume=1 |issue=1|pages=9–44 |doi=10.1086/463709 |s2cid=145443094 |oclc=56221629|language=es|url=https://zenodo.org/record/1431423 }}
+* {{Cite journal|last=Bright|first=William |author-link=William Bright |year=1990 |title='With One Lip, with Two Lips': Parallelism in Nahuatl|journal=[[Language (journal)|Language]]|volume= 66|issue=3|pages=437–452|doi=10.2307/414607 |oclc=93070246|jstor=414607}}
+* {{Cite book|last=Campbell|first=Lyle |author-link=Lyle Campbell |year=1985 |title=The Pipil Language of El Salvador |series=Mouton Grammar Library, no. 1 |location=Berlin |publisher=[[Mouton de Gruyter]] |isbn=978-3-11-010344-1 |oclc=13433705}}
+* {{Cite book|last=Campbell|first=Lyle |author-link=Lyle Campbell |year=1997 |title=American Indian Languages: The Historical Linguistics of Native America |series=Oxford Studies in Anthropological Linguistics, 4 |publisher=[[Oxford University Press]]|location=London and New York |isbn=978-0-19-509427-5 |oclc=32923907}}
+* {{Cite journal|last1=Campbell|first1=Lyle |author-link=Lyle Campbell |last2=Langacker|first2=ronald|author-link2=Ronald Langacker |title=Proto-Aztecan vowels: Part I|year=1978 |journal=[[International Journal of American Linguistics]]|volume=44 |issue=2 |pages=85–102|doi=10.1086/465526 |s2cid=143091460 |oclc=1753556}}
+* {{Cite book|last=Canger|first=Una |author-link=Una Canger |year=1980 |title=Five Studies Inspired by Náhuatl Verbs in -oa |series=Travaux du Cercle Linguistique de Copenhague, Vol. XIX |location=Copenhagen |publisher=The Linguistic Circle of Copenhagen; distributed by C.A. Reitzels Boghandel |isbn=978-87-7421-254-6 |oclc=7276374}}
+* {{Cite journal|last=Canger|first=Una |author-link=Una Canger|year=1988 |title=Nahuatl dialectology: A survey and some suggestions |journal=[[International Journal of American Linguistics]] |volume=54 |issue=1 |pages=28–72 |doi=10.1086/466074 |s2cid=144210796 |oclc=1753556}}
+* {{Cite book|last=Canger|first=Una |author-link=Una Canger|year=1996|chapter=Is there a passive in nahuatl|title=Content, expression and structure: studies in Danish functional grammar|url=https://archive.org/details/contentexpressio00engb|url-access=limited|pages=[https://archive.org/details/contentexpressio00engb/page/n17 1]–15|editor=Engberg-Pedersen, Elisabeth|publisher=John Benjamin's Publishing Co.|location=Amsterdam|isbn=9781556193811 |display-editors=etal}}
+* {{Cite book|last=Canger|first=Una |author-link=Una Canger|year=2000 |chapter=Stress in Nahuatl of Durango: whose stress?|editor=Eugene H. Casad|editor2=Thomas L. Willett |title=Uto-Aztecan: Structural, Temporal, and Geographic Perspectives: Papers in Memory of Wick R. Miller by the Friends of Uto-Aztecan |location=Hermosillo, Sonora |publisher=[[Universidad de Sonora]] División de Humanidades y Bellas Artes, Editorial UniSon |pages=373–386 |isbn=978-970-689-030-6 |oclc=50091799}}
+* {{Cite book|last=Canger|first=Una |author-link=Una Canger|year=2001 |title=Mexicanero de la Sierra Madre Occidental |series=Archivo de Lenguas Indígenas de México, #24 |publisher=[[El Colegio de México]] |location=México D.F. |isbn=978-968-12-1041-0|oclc=49212643|language=es}}
+* {{Cite book|last=Canger|first= Una |author-link=Una Canger|year=2002 |chapter=An interactive dictionary and text corpus|editor=William Frawley|editor2=Pamela Munro|editor2-link=Pamela Munro|editor3=Kenneth C. Hill |title=Making dictionaries: Preserving Indigenous Languages of the Americas |pages=195–218 |location=Berkeley, CA |publisher=[[University of California Press]] |isbn=978-0-520-22995-2 |oclc=47863283}}
+*{{Cite journal|last=Canger|first=Una |author-link=Una Canger|year=2011|title=El nauatl urbano de Tlatelolco/Tenochtitlan, resultado de convergencia entre dialectos, con un esbozo brevísimo de la historia de los dialectos|journal=Estudios de Cultura Náhuatl|url=https://www.academia.edu/attachments/10258752/download_file?request_id=15724dc6b|pages=243–258}}
+* {{cite journal|last1=Canger|first1=Una|last2=Dakin|first2=Karen |year=1985|title=An inconspicuous basic split in Nahuatl|journal=International Journal of American Linguistics|volume=51|issue=4|pages=358–361|doi=10.1086/465892|s2cid=143084964}}
+* {{Cite book|last1=Canger|first1=Una |first2=Anne|last2=Jensen|year= 2007|chapter=Grammatical borrowing in Nahuatl|editor=Yaron Matras|editor2=J Sakel|title=Grammatical Borrowing in Cross-Linguistic Perspective Empirical Approaches to Language Typology|volume= 38|publisher=Mouton de Gruyter|location=Berlin|pages=403–418}}
+* {{Cite book|last=Carmack|first=Robert M.|year=1981|title=The Quiché Mayas of Utatlán: The Evolution of a Highland Guatemala Kingdom|series=Civilization of the American Indian series, no. 155|location=Norman|publisher=[[University of Oklahoma Press]]|isbn=978-0-8061-1546-7|oclc=6555814|url=https://archive.org/details/quichemayasofuta0000carm}}
+* {{Cite book|last=Carochi|first=Horacio |author-link=Horacio Carochi |year=1645 |title=Arte de la lengua mexicana con la declaracion de los adverbios della. Al Illustrisso. y Reuerendisso. |location=Mexico |publisher=Juan Ruyz |oclc=7483654|title-link=Arte de la lengua mexicana con la declaración de los adverbios della }} {{in lang|es|nah}}
+* {{Cite book|last=Carochi|first=Horacio |author-link=Horacio Carochi|year= 2001 |title=Grammar of the Mexican Language: With an Explanation of Its Adverbs (1645), by Horacio Carochi|others=[[James Lockhart (historian)|James Lockhart]] (trans., ed., and notes)|location=Stanford and Los Angeles|publisher=[[Stanford University Press]], UCLA Latin American Center Publications |isbn=978-0-8047-4281-8 |oclc=46858462}}
+* {{cite book|editor-last=Cline|editor-first=Sarah|year=1993|title=The Book of Tributes|place=Los Angeles|publisher=UCLA Latin American Center Publications, Nahuatl Studies Series|isbn=978-0-87903-082-7|url-access=registration|url=https://archive.org/details/bookoftributesea0000unse}}
+* {{cite book|editor-first=Sarah |editor-last=Cline|chapter=Native Peoples of Colonial Central Mexico|title=The Cambridge History of the Native Peoples of the Americas: Volume II, Mesoamerica, Part 2.|editor-first2=Richard E.W. |editor-last2=Adams|editor-first3=Murdo J. |editor-last3=MacLeod|location=New York|publisher=Cambridge University Press |year=2000 |pages=187–222}}
+* {{cite book|editor1-last=Cline|editor1-first=Sarah |editor-last2=León-Portilla|editor-first2=Miguel |year=1984|title=The Testaments of Culhuacan|place=Los Angeles|publisher=UCLA Latin American Center Publications|isbn=978-0-87903-502-0}}
+* {{Cite book|last=Cowgill|first=George L. |author-link=George Cowgill |year=1992 |chapter=Teotihuacan Glyphs and Imagery in the Light of Some Early Colonial Texts |title=Art, Ideology, and the City of Teotihuacan: A Symposium at Dumbarton Oaks, 8th and 9th October 1988 |editor=Janet Catherine Berlo |editor-link=Janet Catherine Berlo |location=Washington, DC |publisher=[[Dumbarton Oaks Research Library and Collection]] |pages=231–246 |isbn=978-0-88402-205-3 |oclc=25547129}}
+* {{Cite book|last=Cowgill|first=George L. |author-link=George Cowgill |year=2003 |chapter=Teotihuacan and Early Classic Interaction: A Perspective from Outside the Maya Region |title=The Maya and Teotihuacan: Reinterpreting Early Classic Interaction |url=https://archive.org/details/mayateotihuacanr00bras_314|url-access=limited|editor=Geoffrey E. Braswell |location=Austin |publisher=[[University of Texas Press]] |pages=[https://archive.org/details/mayateotihuacanr00bras_314/page/n333 315]–336|isbn=978-0-292-70587-6 |oclc=49936017}}
+* {{Cite book|last=Dakin|first=Karen |year=1982 |url=https://www.academia.edu/6893686|title=La evolución fonológica del Protonáhuatl |publisher=[[Universidad Nacional Autónoma de México]], Instituto de Investigaciones Filológicas |location=México D.F. |isbn=978-968-5802-92-5 |oclc=10216962|language=es}}
+* {{Cite book|last=Dakin|first=Karen |year=1994|chapter=El náhuatl en el yutoazteca sureño: algunas isoglosas gramaticales y fonológicas|title=Investigaciones lingüísticas en Mesoamérica |series=Estudios sobre Lenguas Americanas, no. 1|editor=Carolyn MacKay|editor2=Verónica Vázquez|publisher=[[Universidad Nacional Autónoma de México]], Instituto de Investigaciones Filológicas, Seminario de Lenguas Indígenas|location=México D.F.|pages=3–86 |isbn=978-968-36-4055-0 |oclc=34716589|language=es}}
+*{{Cite journal|last1=Dakin|first1=Karen|last2=Wichmann|first2=Søren|year=2000|title=Cacao and Chocolate: A Uto-Aztecan Perspective|url=http://email.eva.mpg.de/~wichmann/CacaoChocolate.pdf|format=[[Portable Document Format|PDF]] online reprint|journal=Ancient Mesoamerica|volume=11|issue=1|pages=55–75|oclc=88396015|doi=10.1017/S0956536100111058|s2cid=162616811|url-status=dead|archive-url=https://web.archive.org/web/20080408235509/http://email.eva.mpg.de/~wichmann/CacaoChocolate.pdf|archive-date=8 April 2008}}
+*{{Cite book|last=Dakin|first=Karen |chapter= Estudios sobre el náhuatl|year=2001|title=Avances y balances de lenguas yutoaztecas|publisher=Instituto Nacional de Antropología e Historia, [[UNAM]]|location=Mexico|isbn=978-970-18-6966-6}}
+* {{Cite book|last=Flores Farfán|first=José Antonio |year=1999 |title=Cuatreros Somos y Toindioma Hablamos. Contactos y Conflictos entre el Náhuatl y el Español en el Sur de México |location=Tlalpán D.F. |publisher=Centro de Investigaciones y Estudios Superiores en Antropología Social |isbn=978-968-496-344-3 |oclc=42476969|language=es}}
+* {{cite book|last=Flores Farfán|first=José Antonio |year=2002|contribution=The Use of Multimedia and the Arts in Language Revitalization, Maintenance, and Development: The Case of the Balsas Nahuas of Guerrero, Mexico |url=http://jan.ucc.nau.edu/~jar/ILAC/ILAC_24.pdf |series=Proceedings of the Annual Conference on Stabilizing Indigenous Languages (7th, Toronto, Ontario, Canada, 11–14 May 2000) |title=Indigenous Languages across the Community |editor=Barbara Jane Burnaby |editor2=John Allan Reyhner |location=Flagstaff, AZ |publisher=Center for Excellence in Education, [[Northern Arizona University]] |pages=225–236 |isbn=978-0-9670554-2-8 |oclc=95062129}}
+* {{Cite book|last=Flores Farfán|first=José Antonio |year=2006 |chapter=Intervention in indigenous education. Culturally-sensitive materials for bilingual Nahuatl speakers |title=Mexican Indigenous Languages at the Dawn of the Twenty-first Century |url=https://archive.org/details/mexicanindigenou00hida|url-access=limited|editor=Margarita G. Hidalgo |series=Contributions to the sociology of language, no. 91|location=Berlin |publisher=[[Mouton de Gruyter]] |pages=[https://archive.org/details/mexicanindigenou00hida/page/n312 301]–324 |isbn=978-3-11-018597-3 |oclc=62090844}}
+* {{Cite journal|last=Fowler|first=William R. Jr. |year=1985 |title=Ethnohistoric Sources on the Pipil Nicarao: A Critical Analysis |journal=Ethnohistory |volume=32 |issue=1 |pages=37–62 |oclc=62217753 |doi=10.2307/482092|jstor=482092}}
+*{{cite journal|last=Francis|first=Norbert |year=2016|title=Prospects for indigenous language bilingualism in Mexico: A reassessment|journal=Language Problems and Language Planning|volume=40|pages=269–286|doi=10.1075/lplp.40.3.04fra }}[http://jan.ucc.nau.edu/nf4/BilingualismMexico.pdf pdf]
+* {{cite journal |last1=Goller |first1=Theodore R. |last2=Goller |first2=Patricia L. |last3=Waterhouse |first3=Viola G. |date=1974 |title= The Phonemes of Orizaba Nahuatl |url= |journal=International Journal of American Linguistics |volume=40 |issue=2 |pages=126–131 |doi= 10.1086/465295|s2cid=142992381 |access-date=}}
+*{{cite journal|last=Haugen|first=J. D. |year=2009|title=Borrowed borrowings: Nahuatl loan words in English|journal=Lexis: e-Journal in English Lexicology|volume=3|pages=63–106|url=http://lexis.revues.org/638}}
+*{{cite journal|last1=Hill|first1= J. H.|last2=Hill|first2=K. C. |year=1980|title=Mixed grammar, purist grammar, and language attitudes in modern Nahuatl|journal=Language in Society|volume=9|issue=3|pages=321–348|doi= 10.1017/S0047404500008241}}
+* {{Cite journal|last=Hill|first=Jane H. |year=2001|title=Proto-Uto-Aztecan: A Community of Cultivators in Central Mexico? |journal=[[American Anthropologist]] |volume=103 |issue=4 |pages=913–934 |doi=10.1525/aa.2001.103.4.913 |oclc=192932283}}
+* {{Cite book|last1=Hill|first1=Jane H. |first2=Kenneth C.|last2= Hill |year=1986 |title=Speaking Mexicano: Dynamics of Syncretic Language in Central Mexico |location=Tucson |publisher=[[University of Arizona Press]] |isbn=978-0-8165-0898-3 |oclc=13126530}}
+*{{ cite book|editor-last=Hinz |editor-first=Eike |year=1983|title=Azteckischer Zensus, Zur indianischen Wirtschaft und Gesellschaft im Marquesado um 1540: Aus dem "Libro de Tributos" (Col. Ant. Ms. 551) im Archivo Histórico|place=Hanover}}
+* {{Cite journal|last=INALI|first=[Instituto Nacional de Lenguas Indígenas] |author-link=Instituto Nacional de Lenguas Indígenas |date=14 January 2008 |title=Catálogo de las lenguas indígenas nacionales: Variantes lingüísticas de México con sus autodenominaciones y referencias geoestadísticas |url=http://www.inali.gob.mx/pdf/CLIN_completo.pdf |format=[[Portable Document Format|PDF]] online facsimile|journal=[[Diario Oficial de la Federación]] |volume=652 |issue=9 |pages=22–78 (first section),1–96 (second section),1–112 (third section) |oclc=46461036|language=es}}
+* {{Cite book|last=INEGI |first=[Instituto Nacional de Estadísticas, Geografia e Informática] |author-link=Instituto Nacional de Estadística, Geografía e Informática |year=2005 |title=Perfil sociodemográfica de la populación hablante de náhuatl |url=http://www.inegi.gob.mx/prod_serv/contenidos/espanol/bvinegi/productos/censos/poblacion/poblacion_indigena/Hablantes_Nahuatl.pdf |series=XII [[Censo General de Población y Vivienda 2000]] |edition=Publicación única |publisher=INEGI |location=Aguascalientes, Mex. |isbn=978-970-13-4491-0 |access-date=2008-12-02 |language=es|url-status=dead |archive-url=https://web.archive.org/web/20081002122317/http://www.inegi.gob.mx/prod_serv/contenidos/espanol/bvinegi/productos/censos/poblacion/poblacion_indigena/Hablantes_Nahuatl.pdf |archive-date=2 October 2008 }}
+* {{Cite web |last=IRIN |first=[Iniciativa para la Recuperación del Idioma Náhuat] |year=2004 |title=IRIN-International homepage |url=http://www.compapp.dcu.ie/~mward/irin/index.htm |work=The Nawat Language Recovery Initiative |publisher=IRIN |access-date=2008-03-31|url-status=dead |archive-url=https://web.archive.org/web/20100520015837/http://www.compapp.dcu.ie/~mward/irin/index.htm |archive-date=20 May 2010}}
+*{{Cite book|last=Jackson|first=Robert H. |year=2000 |title=From Savages to Subjects: Missions in the History of the American Southwest |series=Latin American Realities hardcover series|location=Armonk, NY|publisher=M.E. Sharpe|isbn=978-0-7656-0597-9 |oclc=49415084}}
+*{{Cite book|last1=Justeson|first1=John S.|first2=William M.|last2=Norman|first3=Lyle|last3=Campbell|first4=Terrence|last4=Kaufman|year=1985|title=The Foreign Impact on Lowland Mayan Language and Script|series=Middle American Research Institute Publications, no. 53|location=New Orleans, LA|publisher=Middle American Research Institute, [[Tulane University]]|isbn=978-0-939238-82-8|oclc=12444550|url-access=registration|url=https://archive.org/details/foreignimpactonl0000unse}}
+* {{Cite journal|last1=Karttunen|first1=Frances |author-link=Frances Karttunen|first2=James|last2=Lockhart |author-link2=James Lockhart (historian) |year=1980|title=La estructura de la poesía nahuatl vista por sus variantes|journal=Estudios de Cultura Nahuatl|volume=14|pages=15–64 |issn=0071-1675 |oclc=1568281|language=es}}
+* {{Cite journal|doi=10.1017/S0956536109990113|last1=Kaufman|first1=Terrence |author-link=Terrence Kaufman |year=2009|last2=Justeson|first2=John|title=Historical linguistics and pre-columbian Mesoamerica|journal=Ancient Mesoamerica|volume=20|pages=221–231|issue=2|s2cid=163094506}}
+* {{Cite journal|last1=Kaufman|first1=Terrence |author-link=Terrence Kaufman |year=2007|last2=Justeson|first2=John|title=Writing the history of the word for cacao in ancient Mesoamerica |journal=Ancient Mesoamerica|volume=18|issue=2 |pages=193–237 |doi=10.1017/s0956536107000211|s2cid=163097273 }}
+* {{Cite web|last=Kaufman|first=Terrence |author-link=Terrence Kaufman |year=2001|title=The history of the Nawa language group from the earliest times to the sixteenth century: some initial results |url=http://www.albany.edu/anthro/maldp/Nawa.pdf |version=Revised March 2001|work=Project for the Documentation of the Languages of Mesoamerica |access-date=2007-10-07}}
+* {{cite journal|last=Kimball|first=G. |year=1990|title=Noun pluralization in Eastern Huasteca Nahuatl|journal=International Journal of American Linguistics|volume=56 |issue=2 |pages=196–216|doi=10.1086/466150 |s2cid=145224238 }}
+* {{Cite journal|last=Knab|first=Tim |year=1980 |title=When Is a Language Really Dead: The Case of Pochutec|journal=[[International Journal of American Linguistics]] |volume=46 |issue=3 |pages=230–233 |doi=10.1086/465658 |s2cid=145202849 |oclc=1753556}}
+* {{cite journal|last=Lacadena|first=Alfonso |year=2008|title=Regional scribal traditions: Methodological implications for the decipherment of Nahuatl writing|url=http://mesoweb.com/pari/publications/journal/804/PARI0804.pdf|journal=The PARI Journal|volume=8|issue=4|pages=1–23}}
+* {{Cite book|last=Langacker|first=Ronald W |author-link=Ronald W. Langacker |year=1977 |title=Studies in Uto-Aztecan Grammar 1: An Overview of Uto-Aztecan Grammar |series=Summer Institute of Linguistics publications in linguistics, publication no. 56 |publisher=[[Summer Institute of Linguistics]] and [[University of Texas at Arlington]] |location=Dallas |isbn=978-0-88312-070-5 |oclc=6087919}}
+* {{Cite book|last=Lastra de Suárez|first=Yolanda |author-link=Yolanda Lastra|year=1986|title=Las áreas dialectales del náhuatl moderno |series=Serie antropológica, no. 62 |location=Ciudad Universitaria, México, D.F. |publisher=[[Universidad Nacional Autónoma de México]], Instituto de Investigaciones Antropológicas|isbn=978-968-837-744-4 |oclc=19632019|language=es}}
+* {{Cite book|last=Launey|first=Michel |year=1979 |title=Introduction à la langue et à la littérature aztèques, vol. 1: Grammaire |series=Série ethnolinguistique amérindienne|location=Paris |publisher=L'Harmattan |isbn=978-2-85802-107-9|language=fr}}
+* {{Cite book|last=Launey|first=Michel |year=1980 |title=Introduction à la langue et à la littérature aztèques, vol. 2: Littérature|series=Série ethnolinguistique amérindienne|location=Paris |publisher=L'Harmattan |isbn=978-2-85802-155-0}} {{in lang|fr|nah}}
+* {{Cite book|last=Launey|first=Michel |year=1992 |title=Introducción a la lengua y a la literatura náhuatl |location=México D.F.|publisher=[[National Autonomous University of Mexico]], Instituto de Investigaciones Antropológicas |isbn=978-968-36-1944-0 |oclc=29376295 |language=es}}
+* {{Cite book|last=Launey|first=Michel |year=1994|title=Une grammaire omniprédicative: Essai sur la morphosyntaxe du nahuatl classique|location=Paris |publisher=[[CNRS Editions]] |isbn=978-2-271-05072-4|oclc=30738298|language=fr}}
+* {{cite journal|last=Launey|first= M.|year=1999|title=Compound nouns vs. incorporation in classical Nahuatl|journal=STUF - Language Typology and Universals|volume=52|issue=3–4|pages=347–364|doi= 10.1524/stuf.1999.52.34.347|s2cid= 170339984}}
+* {{Cite book|last=Launey|first=Michel |others=Christopher Mackay (trans.)|year=2011|title=An Introduction to Classical Nahuatl|location=Cambridge|publisher=Cambridge University Press |isbn=978-0-521-73229-1}}
+* {{Cite book|last=León-Portilla|first=Miguel|author-link=Miguel León-Portilla|year=1978|title=Los manifiestos en náhuatl de Emiliano Zapata. |location=Cuernavaca, Mex.|publisher=[[Universidad Nacional Autónoma de México]], Instituto de Investigaciones Antropológicas |oclc=4977935|language=es}}
+* {{Cite book|last=León-Portilla|first=Miguel |author-link=Miguel León-Portilla|year=1985 |chapter=Nahuatl literature |pages=7–43 |title=Supplement to the Handbook of Middle American Indians, Vol. 3: Literatures |editor=[[Munro S. Edmonson]] (Volume ed.), with Patricia A. Andrews |others=Victoria Reifler Bricker (General ed.) |publisher=[[University of Texas Press]] |location=Austin |isbn=978-0-292-77577-0 |oclc=11785568}}
+* {{Cite book|last=Lockhart|first=James |author-link=James Lockhart (historian) |year=1991 |title=Nahuas and Spaniards: Postconquest Mexican History and Philology |series=UCLA Latin American studies vol. 76, Nahuatl studies series no. 3|publisher=[[Stanford University Press]] and UCLA Latin American Center Publications|location= Stanford and Los Angeles, CA |isbn=978-0-8047-1953-7 |oclc=23286637}}
+* {{Cite book|last=Lockhart|first=James |author-link=James Lockhart (historian) |year=1992 |title=The Nahuas After the Conquest: A Social and Cultural History of the Indians of Central Mexico, Sixteenth Through Eighteenth Centuries |location=Stanford, CA |publisher=[[Stanford University Press]] |isbn=978-0-8047-1927-8 |oclc=24283718}}
+*{{cite book|last1=Lockhart|first1=James|last2=Berdan|first2=Frances F.|last3=Anderson|first3=Arthur J.O.|year=1986|title=The Tlaxcalan Actas: A Compendium of the Records of the Cabildo of Tlaxcala, 1545-1627|publisher=University of Utah Press|isbn=978-0-874-80253-5}}: {{cite journal|last=Macri|first= Martha J. | year=2005 |title=Nahua loan words from the early classic period: Words for cacao preparation on a Río Azul ceramic vessel|journal=Ancient Mesoamerica|volume=16 |issue=2 |pages=321–326|doi=10.1017/S0956536105050200 |s2cid= 162422341 |oclc=87656385}}
+*{{Cite journal|last1=Macri|first1=Martha J. |first2=Matthew G. |last2=Looper |year=2003 |title=Nahua in ancient Mesoamerica: Evidence from Maya inscriptions|journal=Ancient Mesoamerica|volume=14 |issue=2 |pages=285–297 |oclc=89805456 |doi=10.1017/S0956536103142046|s2cid=162601312 }}
+* {{cite book|first=Laura E. |last=Matthew |year=2012|title=Memories of conquest: Becoming Mexicano in colonial Guatemala|publisher=University of North Carolina Press}}
+* {{cite book|last=McDonough|first=K. S. |year=2014|title=The Learned Ones: Nahua Intellectuals in Postconquest Mexico|publisher=University of Arizona Press}}
+*{{Cite journal|doi=10.1073/pnas.1000923107|last1=Merrill|first1= W. L.|last2=Hard|first2=R. J.|last3=Mabry|first3=J. B.|last4=Fritz|first4=G. J.|last5=Adams|first5=K. R.|last6=Roney|first6=J. R.|last7=Macwilliams|first7=A. C. |title=Reply to Hill and Brown: Maize and Uto-Aztecan cultural history|journal=[[Proceedings of the National Academy of Sciences]]|volume=107|issue=11|pages=E35–E36|year=2010|pmc=2841871|bibcode=2010PNAS..107E..35M|doi-access=free}}
+* {{Cite book|last=Olmos|first=Fray Andrés de |author-link=Andrés de Olmos |year=1993 |orig-year=1547 MS. |title=Arte de la lengua mexicana: concluido en el Convento de San Andrés de Ueytlalpan, en la provincia de la Totonacapan que es en la Nueva España, el 1<sup>o</sup>. de enero de 1547, 2 vols. |others=Ascensión León-Portilla and [[Miguel León-Portilla]] (introd., transliteration, and notes) |type=Facsimile edition of original MS. |location=Madrid |publisher=Ediciones de Cultura Hispánica, Instituto de Cooperación Iberoamericana |isbn=978-84-7232-684-2 |oclc=165270583|title-link=Arte para aprender la lengua mexicana |language=es}}
+*{{cite journal|last1=Olko|first1=J.|last2=Sullivan|first2=J. |year=2013|title=Empire, Colony, and Globalization. A Brief History of the Nahuatl Language|journal=Colloquia Humanistica|issue=2|pages=181–216}}
+* {{Cite book|last=Pasztory|first=Esther |year=1993 |chapter=An Image Is Worth a Thousand Words: Teotihuacan and the Meanings of Style in Classic Mesoamerica |title=Latin American horizons: a symposium at Dumbarton Oaks, 11th and 12th October 1986 |editor=Don Stephen Rice |location=Washington DC |publisher=[[Dumbarton Oaks]] Research Library and Collection, Trustees for [[Harvard University]] |pages=113–146 |isbn=978-0-88402-207-7 |oclc=25872400}}
+* {{Cite book|last1=Pellicer|first1=Dora |first2=Bábara|last2=Cifuentes |first3=Carmen|last3=Herrera |year=2006 |chapter=Legislating diversity in twenty-first century Mexico |title=Mexican Indigenous Languages at the Dawn of the Twenty-first Century |url=https://archive.org/details/mexicanindigenou00hida|url-access=limited|editor=Margarita G. Hidalgo |series=Contributions to the Sociology of Language, no. 91|location=Berlin |publisher=[[Mouton de Gruyter]] |pages=[https://archive.org/details/mexicanindigenou00hida/page/n138 127]–168|isbn=978-3-11-018597-3 |oclc=62090844}}
+* {{cite journal|last=Peralta Ramírez|first=Valentin |year=1991|title=La reduplicación en el náhuatl de Tezcoco y sus funciones sociales|journal=Amerindia|volume=16|pages=20–36}}
+* {{Cite journal|last=Pharao Hansen|first= Magnus |year=2010|title=Polysynthesis in Hueyapan Nahuatl: The Status of Noun Phrases, Basic Word Order, and Other Concerns|journal=Anthropological Linguistics |volume=52|issue=3|pages=274–299|doi=10.1353/anl.2010.0017|s2cid= 145563657 |url= https://curis.ku.dk/ws/files/164113523/hansen2010.pdf }}
+* {{cite conference |title=Nahuatl in the Plural: Dialectology and Activism in Mexico|first=Magnus |last=Pharao Hansen|conference=The Annual Meeting of the American Anthropological Association |year=2013 |url=https://www.academia.edu/5174860}}
+*{{cite journal|last=Pury-Toumi|first=S. D. |year=1980|title=Le saltillo en nahuatl|journal=Amerindia. Revue d'Ethnolinguistique Amérindienne Paris|volume=5|pages=31–45}}
+* {{Cite book|last=Rincón|first=Antonio del |author-link=Antonio del Rincón |year=1885 |orig-year=1595 |title=Arte mexicana compuesta por el padre Antonio Del Rincón de la compañia de Jesus: Dirigido al illustrissimo y reverendissimo s. Don Diego Romano obispo de Tlaxcallan, y del consejo de su magestad, &c. En Mexico en casa de Pedro, Balli. 1595 |url=http://storage.lib.uchicago.edu/pres/2005/pres2005-033.pdf |edition=Reprinted 1885 under the care of Dr. Antonio Peñafiel |format=[[Portable Document Format|PDF]] facsimile, University of Chicago Library digital collections|location=México D.F. |publisher=Oficina tip. de la Secretaría de fomento |oclc=162761360 |language=es}}
+*{{Cite journal|last=Rolstad|first=Kellie |year=2002|title=Language death in Central Mexico: The decline of Spanish-Nahuatl bilingualism and the new bilingual maintenance programs|journal=[[The Bilingual Review/La revista bilingüe]]|volume=26|issue=1 |pages=3–18 |issn=0094-5366 |oclc=1084374}}
+* {{Cite book|last=Sahagún|first=Bernardino de |author-link=Bernardino de Sahagún |year=1950–82 |orig-year=ca. 1540–85 |title=Florentine Codex: General History of the Things of New Spain, 13 vols. |edition=translation of ''Historia General de las Cosas de la Nueva España'' |others=[[Charles E. Dibble]] and [[Arthur J. O. Anderson|Arthur J.O. Anderson]] (eds., trans., notes and illus.) |series=vols. I-XII |location=Santa Fe, NM and Salt Lake City |publisher=[[School of American Research]] and the [[University of Utah Press]] |isbn=978-0-87480-082-1 |oclc=276351|title-link=Florentine Codex}}
+* {{Cite book|last=Sahagún|first=Bernardino de |author-link=Bernardino de Sahagún |year=1997 |orig-year=ca.1558–61 |title=Primeros Memoriales |others=Thelma D. Sullivan (English trans. and paleography of Nahuatl text), with [[H.B. Nicholson]], [[Arthur J.O. Anderson]], [[Charles E. Dibble]], [[Eloise Quiñones Keber]], and Wayne Ruwet (completion, revisions, and ed.) |series=The Civilization of the American Indians Series vol. 200, part 2 |location=Norman |publisher=[[University of Oklahoma Press]] |isbn=978-0-8061-2909-9 |oclc=35848992|title-link=Primeros Memoriales}}
+* {{Cite book|last=Sischo|first=William R. |year=1979 |chapter=Michoacán Nahual |editor=Ronald W. Langacker |editor-link=Ronald W. Langacker |title=Studies in Uto-Aztecan Grammar 2: Modern Aztec Grammatical Sketches |pages=307–380 |series=Summer Institute of Linguistics Publications in Linguistics, no. 56 |location=Dallas, TX |publisher=[[Summer Institute of Linguistics]] and the [[University of Texas at Arlington]]|isbn=978-0-88312-072-9 |oclc=6086368}}
+* {{cite book|last=Smith-Stark|first=T. C. |year=2005|chapter=Phonological description in New Spain|editor=Zwartjes, O.|editor2=Altman, C.|title=Missionary Linguistics II/Lingüística misionera II: Orthography and Phonology. Selected papers from the Second International Conference on Missionary Linguistics|volume=109|publisher=John Benjamins Publishing}}
+* {{Cite journal|last=Suárez|first=Jorge A. |year=1977|title=La influencia del español en la estructura gramatical del náhuatl |journal=Anuario de Letras. Revista de la Facultad de Filosofía y Letras |volume=15 |pages=115–164 |issn=0185-1373 |oclc=48341068|language=es}}
+* {{Cite book |last=Suárez |first=Jorge A. |year=1983 |title=The Mesoamerian Indian Languages |series=Cambridge Language Surveys |publisher=[[Cambridge University Press]] |location=Cambridge and New York |isbn=978-0-521-22834-3 |oclc=8034800|url=https://archive.org/details/mesoamericanindi0009suar }}
+* {{Cite book|last=Sullivan|first=Thelma D. |year=1988 |title=Compendium of Náhuatl Grammar |translator=Thelma D. Sullivan & Neville Stiles |editor=Wick R. Miller |editor2=Karen Dakin |edition=English translation of ''Compendio de la gramática náhuatl'' |location=Salt Lake City |publisher=[[University of Utah Press]] |isbn=978-0-87480-282-5 |oclc=17982711}}
+* {{Cite book|last=Tuggy|first=David H. |year=1979 |chapter=Tetelcingo Náhuatl |editor=Ronald Langacker |editor-link=Ronald Langacker |title=Studies in Uto-Aztecan Grammar 2: Modern Aztec Grammatical Sketches |pages=1–140 |series=Summer Institute of Linguistics Publications in Linguistics, no. 56 |location=Dallas, TX |publisher=[[Summer Institute of Linguistics]] and the [[University of Texas at Arlington]]|isbn=978-0-88312-072-9 |oclc=6086368}}
+* {{Cite book|last=Voegelin|first=Charles F. |author2=Florence M. Voegelin|author3=Kenneth L. Hale|author3-link=Kenneth L. Hale |year=1962 |title=Typological and Comparative Grammar of Uto-Aztecan I: Phonology |type=Supplement to International Journal of American Linguistics, vol. 28, no. 1 |series=Indiana University publications in anthropology and linguistics, Memoir 17 |location=Baltimore MD |publisher=Waverly Press |oclc=55576894}}
+* {{cite journal|last=Whittaker|first=G. |year=2009|title=The Principles of Nahuatl Writing|journal=Göttinger Beiträge zur Sprachwissenschaft|volume= 16|pages=47–81|url=http://whp.uoregon.edu/dictionaries/nahuatl/whittakernahuatlwriting.pdf}}
+* {{Cite journal|last1=Whorf|first1=Benjamin Lee |author-link=Benjamin Whorf|last2=Karttunen|first2=Frances|first3=Lyle|last3= Campbell|year=1993 |title=Pitch Tone and the 'Saltillo' in Modern and Ancient Nahuatl |journal=[[International Journal of American Linguistics]] |volume=59 |issue=2 |pages=165–223 |doi=10.1086/466194 |s2cid=144639961 |oclc=1753556}}
+* {{Cite web|last=Wimmer|first=Alexis |year=2006 |url=http://sites.estvideo.net/malinal/nahuatl.page.html |title=Dictionnaire de la langue nahuatl classique |format=online version, incorporating reproductions from ''Dictionnaire de la langue nahuatl ou mexicaine'' [1885], by [[Rémi Siméon]]|access-date=2008-02-04}} {{in lang|fr|nah}}
+* {{Cite book |last=Wolgemuth |first=Carl |year=2002 |title=Gramática Náhuatl (melaʼtájto̱l): de los municipios de Mecayapan y Tatahuicapan de Juárez, Veracruz |url=http://www.sil.org/mexico/nahuatl/istmo/G027a-GramNahIst-nhx.htm |format=[[Portable Document Format|PDF]] online edition |edition=2nd |others=Sharon Stark and Albert Bickford (online eds.) |location=México D.F. |publisher=[[Instituto Lingüístico de Verano (Mexico)|Instituto Lingüístico de Verano]] |isbn=978-968-31-0315-4 |oclc=51555383 |archive-url=https://web.archive.org/web/20080419090734/http://www.sil.org/mexico/nahuatl/istmo/G027a-GramNahIst-nhx.htm |archive-date=19 April 2008 |url-status=dead}}
+{{Refend}} <!--close biblio/reference style options -->
+
+==Further reading==
+===Dictionaries of Classical Nahuatl===
+* de Molina, Fray Alonso: ''Vocabulario en Lengua Castellana y Mexicana y Mexicana y Castellana''. [1555] Reprint: Porrúa México 1992
+* Karttunen, Frances, ''An analytical dictionary of Náhuatl''. Univ. of Oklahoma Press, Norman 1992
+* [[Rémi Siméon|Siméon, Rémi]]: ''Diccionario de la Lengua Náhuatl o Mexicana''. [Paris 1885] Reprint: México 2001
+
+===Grammars of Classical Nahuatl===
+* Carochi, Horacio. ''Grammar of the Mexican Language: With an Explanation of its Adverbs (1645)'' Translated by James Lockhart. Stanford University Press. 2001.
+* Lockhart, James: ''Nahuatl as written: lessons in older written Nahuatl, with copious examples and texts'', Stanford 2001
+* Sullivan, Thelma: ''Compendium of Nahuatl Grammar'', Univ. of Utah Press, 1988.
+* Campbell, Joe and Frances Karttunen, ''Foundation course in Náhuatl grammar''. Austin 1989
+* Launey, Michel. ''Introducción a la lengua y a la literatura Náhuatl''. México D.F.: UNAM. 1992 (Spanish); ''An Introduction to Classical Nahuatl'' [English translation/adaptation by Christopher Mackay], 2011, Cambridge University Press.
+* Andrews, J. Richard. ''Introduction to Classical Nahuatl'' University of Oklahoma Press: 2003 (revised edition)
+
+===Modern dialects===
+* Ronald W. Langacker (ed.): ''Studies in Uto-Aztecan Grammar 2: Modern Aztec Grammatical Sketches'', Summer Institute of Linguistics Publications in Linguistics, 56. Dallas, TX: Summer Institute of Linguistics and the University of Texas at Arlington, pp.&nbsp;1–140. {{ISBN|0-88312-072-0}}. OCLC 6086368. 1979. (Contains studies of Nahuatl from Michoacan, Tetelcingo, Huasteca and North Puebla)
+* Canger, Una. ''Mexicanero de la Sierra Madre Occidental'', Archivo de Lenguas Indígenas de México, #24. México D.F.: El Colegio de México. {{ISBN|968-12-1041-7}}. OCLC 49212643. 2001 (Spanish)
+* Campbell, Lyle. ''The Pipil Language of El Salvador'', Mouton Grammar Library (No. 1). Berlin: Mouton Publishers. 1985. {{ISBN|0-89925-040-8}}. OCLC 13433705.
+* Wolgemuth, Carl. [https://web.archive.org/web/20080419090734/http://www.sil.org/mexico/nahuatl/istmo/G027a-GramNahIst-nhx.htm ''Gramática Náhuatl (melaʼtájto̱l) de los municipios de Mecayapan y Tatahuicapan de Juárez, Veracruz''], 2nd edition. 2002. {{in lang|es}}
+
+===Miscellaneous===
+* ''The Nahua Newsletter'': edited by the Center for Latin American and Caribbean Studies of the Indiana University (Chief Editor Alan Sandstrom)
+* ''Estudios de Cultura Náhuatl'': special interest-yearbook of the Instituto de Investigaciones Históricas (IIH) of the Universidad Autónoma de México (UNAM), Ed.: Miguel León Portilla
+* [http://www.indiana.edu/~liblilly/etexts/nahuatl/index.shtml A Catalogue of Pre-1840 Nahuatl Works Held by The Lilly Library] from ''The Indiana University Bookman'' No. 11. November, 1973: 69–88.
+* [https://web.archive.org/web/20160505135614/http://www.ailla.utexas.org/search/collection.html?c_id=158 Collection of Nahuatl of the Sierra Nororiental de Puebla, Mexico of Jonathan Amith], containing recordings in Nahuatl by native speakers and transcriptions, from the [[Archive of the Indigenous Languages of Latin America|Archive of Indigenous Languages of Latin America]].
+*[[Willis Barnstone|Barnstone, Willis]] (2003). [[Literatures of Latin America (anthology)|Literatures of Latin America: From Antiquity to Present.]] Princeton: Prentice Hall.
+
+==External links==
+{{InterWiki|code=nah}}
+{{Incubator|nci|language=Classical Nahuatl}}
+{{Incubator|nch|language=Central Huastec Nahuatl}}
+{{Incubator|nhn|language=Central Nahuatl}}
+{{Incubator|ppl|language=Pipil}}
+{{Incubator|nlv|language=Orizaba Nahuatl}}
+{{Wiktionary|nahuatl}}
+*[https://nahuatl.uoregon.edu/ Online Nahuatl Dictionary - Wired Humanities Projects, University of Oregon]
+
+{{Languages of Mexico}}
+{{Uto-Aztecan languages}}
+{{Authority control}}
+{{Featured article}}
+
+<!--Categories-->
+[[Category:Nahuatl| ]]
+[[Category:Indigenous languages of Mexico]]
+[[Category:Agglutinative languages]]
+[[Category:Mesoamerican languages]]
+[[Category:Polysynthetic languages]]
+[[Category:Uto-Aztecan languages]]
+[[Category:Verb–subject–object languages]]

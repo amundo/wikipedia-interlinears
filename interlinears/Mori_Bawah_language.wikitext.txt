@@ -1,0 +1,200 @@
+{{short description|Austronesian language spoken in Sulawesi, Indonesia}}
+{{Infobox language
+|name=Mori Bawah
+|states=[[Indonesia]]
+|region=[[Sulawesi]]
+|speakers=28,000 with [[Mori Atas]]
+|date=1988
+|ref = e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Celebic languages|Celebic]]
+|fam4=[[Bungku–Tolaki languages|Bungku–Tolaki]]
+|fam6=Eastern
+|fam7=East Coast
+|iso3=xmz
+|glotto=mori1268
+|glottorefname=Mori Bawah
+}}
+
+'''Mori Bawah''', also known as '''Lower Mori''' or '''East Mori''', is an [[Austronesian languages|Austronesian language]] of the [[Celebic languages|Celebic]] branch.  It is one of the principal languages of the [[Morowali Regency]] in [[Central Sulawesi]].
+
+== Classification ==
+Mori Bawah is classified as a member of the [[Bungku-Tolaki languages|Bungku-Tolaki]] group of languages, and shares its closest affinities with [[Bungku language|Bungku]] and other languages of the eastern seaboard of Sulawesi, such as [[Wawonii language|Wawonii]] and [[Kulisusu language|Kulisusu]].<ref>Mead, David. 1998. Proto-Bungku-Tolaki: Reconstruction of its phonology and aspects of its morphosyntax. (PhD dissertation, Rice University, 1998), p. 117.</ref>  Together, Mori Bawah and the [[Mori Atas language|Mori Atas]] language are sometimes referred to collectively by the cover term ‘[[Mori language|Mori]]’.
+
+== Dialects ==
+Mori Bawah comprises several dialects.  Following Esser, five dialects can be regarded as principal.<ref>Esser, S. J. [http://www.sil.org/silepubs/abstract.asp?id=928474543176 ''Phonology and Morphology of Mori''], translated from the Dutch version of 1927-1933 (Dallas: SIL, 2011), pp. 2 ff.</ref>
+* Tinompo
+* Tiu
+* Moiki
+* Watu
+* Karunsi’e
+The Tinompo dialect is highest in prestige.  Tinompo was the dialect spoken by the indigenous royal class, and in the first half of the twentieth century it was further promoted by colonial authorities as a standard throughout the Mori area, including for Mori Atas and [[Padoe language|Padoe]].
+
+== Phonology ==
+Mori Bawah has the following sound inventory:<ref name=Mead2005>{{cite book |last=Mead |first=David |year=2005 |chapter=Mori Bawah |editor1=Adelaar, K. Alexander |editor2=Himmelmann, Nikolaus |title=The Austronesian languages of Asia and Madagascar |pages=683–708 |place=London |publisher=Routledge}}</ref>{{rp|684}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Consonants
+! colspan="3" |
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="3" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ŋ}}
+|
+|-
+! rowspan="4" | [[Plosive]]
+! rowspan="2" | {{small|plain}}
+! {{small|voiceless}}
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! {{small|voiced}}
+| {{IPA link|b}}
+| {{IPA link|d}}
+| {{IPA link|g}}
+|
+|-
+! rowspan="2" | {{small|[[Prenasalized consonant|prenasalized]]}}
+! {{small|voiceless}}
+| {{IPA link|ᵐp}}
+| {{IPA link|ⁿt}}
+| {{IPA link|ᵑk}}
+|
+|-
+! {{small|voiced}}
+| {{IPA link|ᵐb}}
+| {{IPA link|ⁿd}}
+| {{IPA link|ᵑg}}
+|
+|-
+! rowspan="2" | [[Fricative]]
+! colspan="2" | {{small|plain}}
+| {{IPA link|β}}
+| {{IPA link|s}}
+|
+| {{IPA link|h}}
+|-
+! colspan="2" | {{small|[[Prenasalized consonant|prenasalized]]}}
+|
+| {{IPA link|ⁿs}}
+|
+|
+|-
+! colspan="3" | [[Trill consonant|Trill]]
+|
+| {{IPA link|r}}
+|
+|
+|-
+! colspan="3" | [[Lateral consonant|Lateral]]
+|
+| {{IPA link|l}}
+|
+|
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Vowels
+|-
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Close-mid vowel|Close-Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+| colspan="2" | {{IPA link|a}}
+|}
+
+Only open syllables of the shape V, CV are allowed. Consequently, Mori Bawah is a strictly vowel final-language.
+
+== Grammar ==
+=== Pronouns ===
+Mori Bawah has seven sets of bound and free pronouns:<ref name=Mead2005/>{{rp|686;704}}
+{| class="wikitable"
+|-
+! rowspan=2|
+! colspan=2| nominative
+! colspan=2| absolutive
+! rowspan=2| possessive
+! rowspan=2| independent
+! rowspan=2| additive
+|-
+! non-future
+! future
+! direct
+! applicative
+|-
+! 1.sg.
+| ''ku'' || ''aku'' || ''aku'' || ''akune'' || ''ku'' || ''ongkue'' || ''ngkuda('a)''
+|-
+! 2.sg.
+| ''u'' || ''(i)ko'' || ''ko'' || ''akomu'' || ''mu'' || ''omue'' || ''muda('a)''
+|-
+! 3.sg.
+| ''i'' || ''ta'' || ''o'' || ''akono'' || ''no'' || ''onoe'' || ''nada('a)''
+|-
+! 1.pl.in.
+| ''to'' || ''kita'' || ''kita'' || ''akita'' || ''to'' || ''otae'' || ''ntada('a)''
+|-
+! 1.pl.ex.
+| ''ki'' || ''kami'' || ''kami'' || ''akami'' || ''mami'' || ''omami'' || ''mamida('a)''
+|-
+! 2.pl.
+| ''i'' || ''(i)komiu'' || ''komiu'' || ''akomiu'' || ''miu'' || ''omiu'' || ''mida('a)''
+|-
+! 3.pl.
+| ''do'' || ''ira'' || ''ira'' || ''ako'ira'' || ''do'' || ''ondae'' || ''ndada('a)''
+|}
+
+=== Agreement ===
+Core [[Argument (linguistics)|arguments]] ('''A''': subject of transitive verbs;  '''O''': object of transitive verbs, '''S''': subject of intransitive verbs) are not marked for [[Grammatical case|case]], but are obligatorily indexed by a pronominal [[Agreement (linguistics)|agreement]] marker on the verb.<ref name=Mead2005/>{{rp|689–691}}
+
+With transitive verbs, '''A''' is always indexed by a nominative pronoun, and '''O''' by an absolutive pronoun.
+
+{{interlinear|indent=3|abbreviations=PRV:perfective; PN: personal name
+|'''I<sub>A</sub>'''-pe'ata-''''ira<sub>O</sub>'''-mo [i Ana Wulaa]<sub>A</sub> [mia atuu-do]<sub>O</sub>
+|3.SG.NOM-enslave-3.PL.ABS-PRV PN Child Gold person DIST-3.PL.POSS
+|'Gold child took those people as slaves.'}}
+
+The indexing of the single argument of intransitive verbs shows [[Split ergativity|split-ergative]] alignment: '''S''' is always indexed by a nominative pronoun in future clauses, and also in imperative, negative and certain other dependent types of non-future clauses. In all other cases, '''S''' is indexed by an absolutive pronoun.
+
+=== Voice ===
+Mori Bawah has two [[Valency (linguistics)#Valency-reducing|valency-reducing]] voice types, [[passive voice]] and [[antipassive voice]].<ref name=Mead2005/>{{rp|698}}
+
+If a transitive verb is marked for passive voice with the infix ''&lt;in&gt;'', it becomes formally intransitive, and '''O''' (the "object") becomes the '''S'''-argument. The original '''A'''-argument cannot be mentioned at all.
+{{interlinear|indent=3|abbreviations=PRV:future nominative
+|Ta p&lt;in&gt;epate
+|3.SG.FUT PASS:kill
+|'He will be killed.'}}
+
+In antipassive voice, the verb takes the prefix ''poN-''. The object can be omitted, or overtly expressed if indefinite; it is however not indexed by a person-indexing pronoun. The original subject of the transitive verb becomes the '''S'''-argument in a formally intransitive antipassive clause.
+
+{{interlinear|indent=3|abbreviations=PRV:future nominative
+|ka-i pom-pepate singa
+|ka-3.SG.NOM AP-kill lion
+|'...and he killed a lion.'}}
+
+== References ==
+{{reflist}}
+
+{{Celebic languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Bungku–Tolaki languages]]
+[[Category:Languages of Sulawesi]]

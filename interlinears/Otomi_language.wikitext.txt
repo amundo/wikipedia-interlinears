@@ -1,0 +1,820 @@
+{{Short description|Oto-Pamean language family spoken by the Otomi people of south-central Mexico}}
+{{Infobox language
+| name = Otomi
+| nativename = 
+| image = 
+| imagesize = 
+| imagecaption = 
+| region = Mexico: [[México (state)]], [[Puebla (state)|Puebla]], [[Veracruz]], [[Hidalgo (state)|Hidalgo]], [[Guanajuato]], [[Querétaro]], [[Tlaxcala]], [[Michoacán]]
+| ethnicity = [[Otomi people|Otomi]]
+| speakers = {{sigfig|298861|2}}
+| date=2020 census
+| ref=<ref>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+| nation = In Mexico through the [http://www.diputados.gob.mx/LeyesBiblio/pdf/257.pdf General Law of Linguistic Rights of Indigenous Peoples] (in Spanish).
+| familycolor = American
+| fam1 = [[Otomanguean languages|Oto-Manguean]]
+| fam2 = [[Oto-Pamean languages|Oto-Pamean]]
+| fam3 = Otomian
+| agency = [[Instituto Nacional de Lenguas Indígenas]] [http://www.inali.gob.mx/]
+| iso2 = oto
+| lc1 = ote
+| ld1 = [[Mezquital Otomi]]
+| lc2 = otl
+| ld2 = [[Tilapa Otomi]]
+| lc3 = otm
+| ld3 = [[Highland Otomi]]
+| lc4 = otn
+| ld4 = [[Tenango Otomi]]
+| lc5 = otq
+| ld5 = [[Querétaro Otomi]]
+| lc6 = ots
+| ld6 = [[Estado de México Otomi]]
+| lc7 = ott
+| ld7 = [[Temoaya Otomi]]
+| lc8 = otx
+| ld8 = [[Texcatepec Otomi]]
+| lc9 = otz
+| ld9 = [[Ixtenco Otomi]]
+| glotto = otom1300
+| glottoname = Otomi
+| glotto2 = sout3168
+| glottoname2 = Southwestern Otomi
+| map = Otomi speakers.png
+| mapcaption = Otomi-speaking areas in Mexico
+| notice = IPA
+| map2 = Otomanguean Languages.png
+| mapcaption2 = The Otomi languages within [[Oto-Manguean]], number 3 (bright blue), north
+}}
+
+'''Otomi''' ({{IPAc-en|ˌ|oʊ|t|ə|ˈ|m|iː}}; {{Lang-es|Otomí}} {{IPA-es|otoˈmi|}}) is an [[Oto-Pamean languages|Oto-Pamean language family]] spoken by approximately 240,000 indigenous [[Otomi people]] in the [[Mexican Plateau|central ''altiplano'']] region of Mexico.<ref name="INEGI 2009">{{harvcoltxt|INEGI|2009|p=69}}</ref> Otomi consists of several closely related languages, many of which are not [[mutually intelligible]]. The word ''Hñähñu'' {{IPA-oax|hɲɑ̃hɲṹ|}} has been proposed as an [[endonym]], but since it represents the usage of a single dialect, it has not gained wide currency. Linguists have classified the modern dialects into three dialect areas: the Northwestern dialects are spoken in [[Querétaro]], [[Hidalgo (state)|Hidalgo]] and [[Guanajuato]]; the Southwestern dialects are spoken in the [[Mexico (state)|State of Mexico]]; and the Eastern dialects are spoken in the highlands of [[Veracruz]], [[Puebla]], and eastern Hidalgo and villages in [[Tlaxcala]] and Mexico states.
+
+Like all other [[Oto-Manguean languages]], Otomi is a [[tonal language]], and most varieties distinguish three tones. Nouns are marked only for possessor; the plural number is marked with a definite article and a verbal suffix, and some dialects keep dual number marking. There is no case marking. Verb morphology is either [[Morphological typology|fusional or agglutinating]] depending on the analysis.<ref group=cn name="Palancar200914">{{harvcoltxt|Palancar|2009|p=14}}: "Desde un punto de vista de la tipología morfológica clásica greenbergiana el otomí es una lengua fusional que se convertiría, por otro lado en aglutinante si todos los clíticos se reanalizaran como afijos (From the point of view of the classic Greenbergian morphological typologogy, Otomí is a fusional language which would however turn into an agglutinating one if all the clitics were reanalyzed as affixes)"</ref> In verb inflection, infixation, consonant mutation, and apocope are prominent processes. The number of irregular verbs is large. A class of [[morpheme]]s cross-references the [[Subject (grammar)|grammatical subject]] in a sentence. These morphemes can be analysed as either [[proclitic]]s or [[prefix]]es and marks for [[grammatical tense|tense]], [[grammatical aspect|aspect]] and [[grammatical mood|mood]]. Verbs are inflected for either direct object or dative object (but not for both simultaneously) by suffixes. Grammar also distinguishes between [[clusivity|inclusive 'we' and exclusive 'we']].
+
+After the Spanish conquest, Otomi became a written language when friars taught the Otomi to write the language using the [[Latin script]]; colonial period's written language is often called [[Classical Otomi]]. Several [[Codex|codices]] and grammars were composed in Classical Otomi. A negative stereotype of the Otomi promoted by the [[Nahua peoples|Nahuas]] and perpetuated by the Spanish resulted in a loss of status for the Otomi, who began to abandon their language in favor of Spanish. The attitude of the larger world toward the Otomi language started to change in 2003 when Otomi was granted recognition as a national language under Mexican law together with 61 other indigenous languages.
+
+==Name==
+''Otomi'' comes from the [[Nahuatl]] word ''otomitl'', which in turn possibly derived from an older word, ''totomitl'' "shooter of birds."<ref name="lastra5658">{{harvcoltxt|Lastra|2006|pp=56–58}}</ref> It is an [[exonym]]; the Otomi refer to their language as ''Hñähñú, Hñähño, Hñotho, Hñähü, Hñätho, Hyųhų, Yųhmų, Ñųhų, Ñǫthǫ,'' or ''Ñañhų'', depending on the dialect.<ref name="lastra5658"/><ref name=wa>{{harvcoltxt|Wright Carr|2005a}}</ref><ref group=cn>See the individual articles for the forms used in each dialect.</ref> Most of those forms are composed of two [[morpheme]]s, meaning "speak" and "well" respectively.<ref name="Hekking436">{{harvcoltxt|Hekking|Bakker|2007|p=436}}</ref>
+
+The word ''Otomi'' entered the Spanish language through Nahuatl and describes the larger Otomi [[Ethnicity#Ethnicity and race|macroethnic]] group and the dialect continuum. From Spanish, the word ''Otomi'' has become entrenched in the linguistic and anthropological literature. Among linguists, the suggestion has been made to change the academic designation from ''Otomi'' to ''Hñähñú'', the [[endonym]] used by the Otomi of the [[Mezquital Valley]]; however, no common endonym exists for all dialects of the language.<ref name="lastra5658"/><ref name=wa /><ref>{{harvcoltxt|Palancar|2008|p=357}}</ref>
+
+==History==
+
+===Proto-Otomi period and later precolonial period===
+The Oto-Pamean languages are thought to have split from the other Oto-Manguean languages around 3500 BC. Within the Otomian branch, Proto-Otomi seems to have split from Proto-Mazahua ca. 500 AD. Around 1000 AD, Proto-Otomi began diversifying into the modern Otomi varieties.<ref name="lastra33">{{harvcoltxt|Lastra|2006|p=33}}</ref> Much of central Mexico was inhabited by speakers of the Oto-Pamean languages before the arrival of Nahuatl speakers; beyond this, the geographical distribution of the ancestral stages of most modern indigenous languages of Mexico, and their associations with various civilizations remain undetermined. It has been proposed that Proto-Otomi-Mazahua most likely was one of the languages spoken in [[Teotihuacan]], the greatest Mesoamerican ceremonial center of the Classic period, the demise of which occurred ca. 600 AD.<ref name="WrightCarr2005b">{{harvcoltxt|Wright Carr|2005b}}</ref>
+
+The [[pre-Columbian|Precolumbian]] Otomi people did not have a fully developed [[writing system]].  However, [[Aztec writing]], largely ideographic, could be read in Otomi as well as Nahuatl.<ref name="WrightCarr2005b"/> The Otomi often translated names of places or rulers into Otomi rather than using the Nahuatl names. For example, the Nahuatl place name ''Tenochtitlān'', "place of Opuntia cactus", was rendered as ''{{IPA|*ʔmpôndo}}'' in proto-Otomi, with the same meaning.<ref group=cn>In most modern varieties of Otomi the name for "Mexico" has changed to ''{{IPA|ʔmôndo}}'' (in Ixtenco Otomi) or ''{{IPA|ʔmóndá}}'' (in Mezquital Otomi). In some varieties of Highland Otomi it is ''mbôndo''. Only Tilapa Otomi and Acazulco Otomi preserve the original pronunciation (Lastra, 2006:47).</ref>
+
+=== Colonial period and Classical Otomi ===
+[[File:Códice de Huichapan.jpg|150px|right|thumb|Page written in 16th century Otomi from the Codex Huichapan|alt=Folio of a handwritten codex. The upper page has manuscript text, the lower a drawing of a man brandishing a club walking towards a seated woman in front of a stylized mountain with a bird on top. Below are two glyphic signs.]]
+
+At the time of the Spanish conquest of central Mexico, Otomi had a much wider distribution than now, with sizeable Otomi speaking areas existing in the modern states of [[Jalisco]] and [[Michoacán]].{{sfn|Lastra|2006|p=26}} After the conquest, the Otomi people experienced a period of geographical expansion as the Spaniards employed Otomi warriors in their expeditions of conquest into northern Mexico. During and after the [[Mixtón rebellion]], in which Otomi warriors fought for the Spanish, Otomis settled areas in [[Querétaro]] (where they founded the [[Querétaro, Querétaro|city of Querétaro]]) and [[Guanajuato]] which previously had been inhabited by nomadic [[Chichimec]]s.{{sfn|Lastra|2006|p=132}} Because Spanish colonial historians such as [[Bernardino de Sahagún]] used primarily Nahua speakers primarily as sources for their histories of the colony, the Nahuas' negative image of the Otomi people was perpetuated throughout the colonial period. This tendency towards devaluing and stigmatizing the Otomi cultural identity relative to other Indigenous groups gave impetus to the process of [[endangered language|language loss]] and [[mestizaje]], as many Otomies opted to adopt the Spanish language and customs in search of social mobility.{{sfn|Lastra|2006|pp=143–146}}
+
+"[[Classical Otomi]]" is the term used to define the Otomi spoken in the early centuries of colonial rule. This historical stage of the language was given Latin orthography and documented by Spanish friars who learned it in order to proselytize among the Otomi. Text in Classical Otomi is not readily comprehensible since the Spanish-speaking friars failed to differentiate the varied vowel and consonant [[phoneme]]s used in Otomi.<ref name="Hekking436"/> Friars and monks from the Spanish [[mendicant orders]] such as the [[Franciscan]]s wrote Otomi grammars, the earliest of which is Friar Pedro de Cárceres's ''Arte de la lengua othomí'' {{sic}}, written perhaps as early as 1580, but not published until 1907.{{sfn|Cárceres|1907}}{{sfn|Lope Blanch|2004|p=57}}<ref name="lastra3741">{{harvcoltxt|Lastra|2006|pp=37–41}}</ref> In 1605, Alonso de Urbano wrote a trilingual Spanish-[[Nahuatl]]-Otomi dictionary, which included a small set of grammatical notes about Otomi. The grammarian of Nahuatl, [[Horacio Carochi]], has written a grammar of Otomi, but no copies have survived. He is the author of an anonymous dictionary of Otomi (manuscript 1640). In the latter half of the eighteenth century, an anonymous [[Society of Jesus|Jesuit]] priest wrote the grammar ''Luces del Otomi'' (which is, strictly speaking, not a grammar but a report on research about Otomi <ref>{{harvcoltxt|Zimmermann|2012}}</ref>). Neve y Molina wrote a dictionary and a grammar.{{sfn|Neve y Molina|2005}} <ref>cf. in general Zimmermann 1997</ref>
+
+During the colonial period, many Otomis learned to read and write their language. Consequently, a significant number of Otomi documents exist from the period, both secular and religious, the most well-known of which are the Codices of Huichapan and Jilotepec.<ref group=cn>The Huichapan Codex is reproduced and translated in {{harvcoltxt|Ecker|2001}}.</ref> In the late colonial period and after independence, indigenous groups no longer had separate status. At that time, Otomi lost its status as a language of education, ending Classical Otomi period as a literary language.<ref name="Hekking436"/> This led to a declining numbers of speakers of indigenous languages, as Indigenous groups throughout Mexico adopted the Spanish language and Mestizo cultural identities. Coupled with a policy of ''castellanización'' this led to a rapid decline of speakers of all indigenous languages including Otomi, during the early 20th century.<ref name="Suarez167"/>
+
+===Contemporary status===
+
+{| class="wikitable sortable" align="right" style="margin:0 0 0.5em 1em;"
+|-
+|+Speakers of Otomi over 5 years of age in the ten Mexican states with most speakers (2005 census) <ref name="INEGI 2009"/>
+|-
+!<small>Region</small>
+!<small>Count</small>
+!<small>Percentage</small><ref group=cn>Percentages given are in comparison to the total Otomi speaking population.</ref>
+|-
+|[[Mexico City]]
+|12,460
+|5.2%
+|-
+|[[Querétaro]]
+|18,933
+|8.0%
+|-
+|[[Hidalgo (state)|Hidalgo]]
+|95,057
+|39.7%
+|-
+|[[Mexico State|Mexico (state)]]
+|83,362
+|34.9%
+|-
+|[[Jalisco]]
+|1,089
+|0.5%
+|-
+|[[Guanajuato]]
+|721
+|0.32%
+|-
+|[[Puebla]]
+|7,253
+|3.0%
+|-
+|[[Michoacán]]
+|480
+|0.2%
+|-
+|[[Nuevo León]]
+|1,126
+|0.5%
+|-
+|[[Veracruz]]
+|16,822
+|7.0%
+|-
+|Rest of Mexico
+|2,537
+|1.20%
+|-
+|'''''Total:'''''
+|239,850
+|100%
+|}
+During the 1990s, however, the Mexican government made a reversal in policies towards indigenous and linguistic rights, prompted by the 1996 adoption of the [[Universal Declaration of Linguistic Rights]]<ref group=cn>Adopted at a world linguistics conference in Barcelona, it "became a general reference point for the evolution and discussion of linguistic rights in Mexico" {{harvcoltxt|Pellicer|Cifuentes|Herrera|2006|p=132}}</ref> and domestic social and political agitation by various groups such as social and political agitation by the [[EZLN]] and indigenous social movements. Decentralized government agencies were created and charged with promoting and protecting indigenous communities and languages; these include the [[Comisión Nacional para el Desarrollo de los Pueblos Indígenas|National Commission for the Development of Indigenous Peoples (CDI)]] and the [[Instituto Nacional de Lenguas Indígenas|National Institute of Indigenous Languages (INALI)]].{{sfn|Pellicer|Cifuentes|Herrera|2006|pp=132-137}} In particular, the federal ''[[Ley General de Derechos Lingüísticos de los Pueblos Indígenas]]'' ("General Law on the Language Rights of the Indigenous Peoples"), promulgated on 13 March 2003, recognizes all of Mexico's indigenous languages, including Otomi, as "[[national languages]]", and gave indigenous people the right to speak them in every sphere of public and private life.<ref>{{cite web |author=INALI [Instituto Nacional de Lenguas Indígenas] |year=n.d. |title=Presentación de la Ley General de Derechos Lingüísticos |url=http://www.inali.gob.mx/ind-leyes.html |work=Difusión de INALI |publisher=INALI, [[Secretaría de Educación Pública]] |access-date=2008-03-31 |language=es |archive-url=https://web.archive.org/web/20080317120048/http://www.inali.gob.mx/ind-leyes.html |archive-date=2008-03-17 |url-status=dead }}</ref>
+
+===Current speaker demography and vitality===
+Currently, Otomi dialects are spoken by circa 239,000 speakers—some 5 to 6 percent of whom are [[monolingual]]—in widely scattered districts (see map).<ref name="INEGI 2009"/> The highest concentration of speakers is found in the Valle de Mezquital region of [[Hidalgo (state)|Hidalgo]] and the southern portion of [[Querétaro]]. Some municipalities have concentrations of Otomi speakers as high as 60–70%.<ref name=lastra1925 /> Because of recent migratory patterns, small populations of Otomi speakers can be found in new locations throughout Mexico and the United States. In the second half of the 20th century, speaker populations began to increase again, although at a slower pace than the general population. While absolute numbers of Otomi speakers continue to rise, their numbers relative to the Mexican population are falling.<ref>{{cite web |url=http://mexico.cnn.com/nacional/2011/03/30/inegi-cada-vez-mas-mexicanos-hablan-una-lengua-indigena |title=INEGI: Cada vez más mexicanos hablan una lengua indígena - Nacional - CNNMéxico.com |publisher=Mexico.cnn.com |date=2011-03-30 |access-date=2011-12-10 |url-status=dead |archive-url=https://web.archive.org/web/20111206133901/http://mexico.cnn.com/nacional/2011/03/30/inegi-cada-vez-mas-mexicanos-hablan-una-lengua-indigena |archive-date=2011-12-06 }}</ref>
+
+Although Otomi is vigorous in some areas, with children acquiring the language through natural transmission (e.g. in the Mezquital valley and in the Highlands), it is an [[endangered language]].{{sfn|Lastra|2000}} Three dialects in particular have reached [[Moribund language|moribund]] status: those of Ixtenco ([[Tlaxcala]] state), Santiago Tilapa ([[Mexico state]]), and Cruz del Palmar ([[Guanajuato]] state).<ref name=lastra1925>{{harvcoltxt|Lastra|2001|pp=19–25}}</ref> On the other hand, the level of monolingualism in Otomi is as high as 22.3% in [[Huehuetla Municipality, Hidalgo|Huehuetla]], Hidalgo, and 13.1% in [[Texcatepec]], Veracruz). Monolingualism is usually significantly higher among women than among men.{{sfn|INEGI|2009|p=70}} Due to the politics from the 1920s to the 1980s that encouraged the "Hispanification" of indigenous communities and made Spanish the only language used in schools,<ref name="Suarez167">{{harvcoltxt|Suárez|1983|p=167}}</ref> no group of Otomi speakers today has general literacy in Otomi,{{sfn|Suárez|1983|p=168}} while their literacy rate in Spanish remains far below the national average.<ref group=cn>33.5% of Otomi speakers are illiterate compared with national average of 8.5% {{harvcoltxt|INEGI|2009|p=74}}</ref>
+
+==Classification==
+{{Main|Oto-Manguean languages}}
+[[File:Otomi speakers.png|thumb|right|400px|Otomi-speaking areas in Mexico.|alt=Areas with significant Otomi speaking populations extend from the area west of Mexico city around the city of Toluca northwards to central Hidalgo and northeast into the borderlands between the states of Hidalgo, Puebla and Vera Cruz. The areas with the highest concentration of speakers are northwest Mexico state, southern Querétaro, central Hidalgo and northwest Veracruz.]]
+
+The Otomi language belongs to the [[Oto-Pamean languages|Oto-Pamean]] branch of the [[Oto-Manguean languages]]. Within Oto-Pamean, it is part of the Otomian subgroup, which also includes [[Mazahua language|Mazahua]].{{sfn|Lastra|2006| pp=32–36}}{{sfn|Campbell|2000}}
+
+Otomi has traditionally been described as a single language, although its many dialects are not all mutually intelligible. SIL International's ''[[Ethnologue]]'' considers nine separate Otomi languages based on literature needs and the degree of mutual intelligibility between varieties. It assigns an [[International Organization for Standardization|ISO]] code to each of these nine.<ref>{{harvcoltxt|Gordon|2013}} [http://www.ethnologue.com/subgroups/otomi] (a computer-generated list of Otomi varieties)</ref> [[INALI]], the Mexican National Institute of Indigenous Languages, avoids the problem of assigning dialect or language status to Otomian varieties by defining "Otomi" as a "linguistic group" with nine different "linguistic varieties".<ref group=cn>"A linguistic variety is defined as ‘a variety of speech (i) which has structural and lexical differences in comparison with other varieties within the same linguistic group, and (ii) which has a distinct sociolinguistic mark of identity for their users, different from the sociolinguistic identity born by speakers of other varieties'"(translation by E. Palancar in {{harvcoltxt|Palancar|2011|p=247}}. Originaltext in {{harvcoltxt|CLIN|2008|p=37}}</ref> Still, for official purposes, each variety is considered a separate language.{{sfn|Palancar|2011}} Other linguists, however, consider Otomi to be a [[dialect continuum]] that is clearly demarcated from its closest relative, [[Mazahua language|Mazahua]].<ref name="lastra33"/> For this article, the latter approach will be followed.
+
+===Dialectology===
+Dialectologists tend to group the languages into three main groups that reflect historical relationships among the dialects: Northwestern Otomi spoken in the Mezquital Valley and surrounding areas of Hidalgo, Queretaro and Northern Mexico State, Southwestern Otomi spoken in the valley of Toluca, and Eastern Otomi spoken in the Highlands of Northern Puebla, Veracruz and Hidalgo, in Tlaxcala and two towns in the Toluca Valley, [[Acazulco Otomi|San Jerónimo Acazulco]] and [[Tilapa Otomi|Santiago Tilapa]]. The Northwestern varieties are characterized by an innovative phonology and grammar, whereas the Eastern varieties are more conservative.{{sfn|Lastra|2001}}{{sfn|Lastra|2006}}{{sfn|Palancar |2011}}
+
+The assignment of dialects to the three groups is as follows:<ref group=cn>The classification follows Lastra except in regard to the Amealco dialect which follows {{harvcoltxt|Palancar|2009}}</ref>
+
+*The Eastern group, including all dialects spoken east of the Valle del Mezquital in the center of the State of Hidalgo plus two village dialects from the State of Mexico; specifically: the Highland dialects (the Ethnologue's [[Highland Otomi]], [[Texcatepec Otomi]], and [[Tenango Otomi]]), [[Otomi of Santa Ana Hueytlalpan]], as well as three dialects geographically distant from the preceding: the dialects of [[Tilapa Otomi|Tilapa]] and [[Acazulco Otomi|Acazulco]] in the state of Mexico, and finally the dialect of [[Ixtenco Otomi|Ixtenco]] (Tlaxcala).
+*The Northwestern area, comprising the dialects of [[Mezquital Otomi|Mezquital]], [[Querétaro Otomi|Querétaro]], and [[Guanajuato Otomi|Guanajuato]].
+*The Southwestern group, including the so called [[State of Mexico Otomi|State of Mexico dialect]], [[Otomi of Chapa de Mota]], [[Otomi of Jilotepec]], [[Toluca Otomi]], and [[Otomi of San Felipe los Alzatí]], Michoacán. (In point of fact, all the foregoing, except of course for Alzatí, are spoken in the northern half of western lobe of the State of Mexico.)
+
+{| class="wikitable collapsible collapsed" style="width:100%;"
+! colspan=5 | Approximate number of speakers of all varieties of Otomí: ~212,000
+|- 
+! Otomi language !! Where spoken !! Own name !! [[ISO 639-3]] !! Number of speakers
+|- 
+| [[Highland Otomi language]] || [[Hidalgo (Mexico)|Hidalgo]], [[Puebla]], [[Veracruz]] || Yųhų<ref name="r1">{{harvcoltxt|Lastra|2006|p= 57}}; {{harvcoltxt|Wright Carr|2005a}}</ref> || {{Ethnolink|otm}} || 20,000 
+|- 
+| [[Mezquital Otomi]] || [[Hidalgo (Mexico)|Hidalgo]] Mezquital Valley, and 100 in [[North Carolina]], 230 in [[Oklahoma]] and 270 in [[Texas]] United States || Hñahñu<ref name="r1" /> || {{Ethnolink|ote}} || 100,000
+|- 
+| [[Otomi del Estado de Mexico]] || N [[Mexico (state)|México (state)]]: [[San Felipe Santiago]] || [[Hñatho, Hñotho]]<ref name="r1" /> || {{Ethnolink|ots}} || 10,000
+|- 
+| [[Otomi de Tlaxcala]] || [[Tlaxcala]]: [[San Juan Bautista Ixtenco]] || Yųhmų<ref name="r2">{{harvcoltxt|Lastra|2006|p=58}}</ref> || {{Ethnolink|otz}} || 736
+|- 
+| [[Otomi de Texcatepec]] || Northwestern [[Veracruz]]: Texcatepec, Ayotuxtla, Zontecomatlán Municipio: Hueytepec, Amajac, Tzicatlán. || Ñųhų<ref name="r2" /> || {{Ethnolink|otx}} || 12,000
+|- 
+| [[Otomí de Queretaro]]
+|| [[Querétaro]]: Amealco Municipio: towns of San Ildefonso, Santiago Mexquititlán; Acambay Municipio; Tolimán Municipio. Also small numbers in [[Guanajuato]]. || Hñohño, Ñañhų, Hñąñho, Ñǫthǫ <ref name="r3">{{harvcoltxt|Lastra|2006|p=57}}</ref> || {{Ethnolink|otq}} || 33,000
+|- 
+| [[Otomi de Tenango]] || [[Hidalgo (Mexico)|Hidalgo]], [[Puebla]]: [[San Nicolás Tenango]] || Ñųhų<ref name="r3" /> || {{Ethnolink|otn}} || 10,000
+|- 
+| [[Otomí de Tilapa]] || Santiago Tilapa town between [[Mexican Federal District|D.F.]] and [[Toluca]], [[Mexico (state)|State of México]] || Ñųhų<ref name="r3" /> || {{Ethnolink|otl}} || 100
+|- 
+| [[Temoaya Otomi]] || Temoaya Municipio, [[Mexico (state)|State of México]] || Ñatho<ref name="r3" /> || {{Ethnolink|ott}} || 37,000
+|}
+
+===Mutual intelligibility===
+{| class=wikitable align="right" style="margin:0 0 0.5em 1em;"
+|-
+!70% !!Egland & Bartholomew !!''Ethnologue'' 16
+|-
+|rowspan=3|*|| Tolimán (less Tecozautla) || [[Querétaro Otomi|Querétaro]] (incl. Mexquititlán)
+|-
+| Anaya (+ Zozea, Tecozautla) || [[Mezquital Otomi|Mezquital]]
+|-
+| San Felipe || (N: San Felipe) [[State of Mexico Otomi|State of Mexico]]; (S: Jiquipilco) [[Temoaya Otomi|Temoaya]]
+|-
+|* || — || [[Tilapa Otomi|Tilapa]]
+|-
+|rowspan=3|*|| Texcatepec || [[Texcatepec Otomi|Texcatepec]]
+|-
+| San Antonio – San Gregorio || [[Eastern Highland Otomi|Eastern Highland]]
+|-
+| San Nicolás || [[Tenango Otomi|Tenango]]
+|-
+|* || Ixtenco || [[Ixtenco Otomi|Ixtenco]]
+|}
+
+{{harvcoltxt|Egland|Bartholomew|Cruz Ramos|1983}} conducted [[mutual intelligibility]] tests in which they concluded that eight varieties of Otomi could be considered separate languages in regards to mutual intelligibility, with 80% intelligibility being needed for varieties to be considered part of the same language. They concluded that Texcatepec, [[Eastern Highland Otomi]], and Tenango may be considered the same language at a lower threshold of 70% intelligibility. ''Ethnologue'' finds a similar lower level of 70% intelligibility between Querétaro, Mezquital, and Mexico State Otomi. The Ethnologue Temaoya Otomi is split off from Mexico State Otomi, and introduce Tilapa Otomi as a separate language; while Egland's poorly tested Zozea Otomi is subsumed under Anaya/Mezquital.
+
+{{clear}}
+
+==Phonology==
+
+=== Phoneme inventory ===
+The following phonological description is that of the dialect of San Ildefonso Tultepec, Querétaro, similar to the system found in the Valle del Mezquital variety, which is the most widely spoken Otomian variety.<ref group=cn>The phonology as described by {{harvcoltxt|Palancar|2009|p=2}}. The Tultepec dialect is chosen here because it is the dialect for which the most complete phonological description is available. Other descriptions exist for Temoaya Otomi {{harvcoltxt|Andrews|1949}}, and several different analyses of Mezquital phonology {{harvcoltxt|Wallis|1968}}, {{harvcoltxt|Bernard|1973}}, {{harvcoltxt|Bernard|1967}}, {{harvcoltxt|Bartholomew|1968}}.</ref>
+
+{| class="wikitable" style="text-align:center;"
+! colspan=2 |
+! [[Bilabial consonant|Bilabial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan=3 | [[Stop consonant|Stop]]
+! <small>[[Ejective consonant|ejective]]</small>
+|
+| {{IPAlink|tʼ}}
+| {{IPAlink|tsʼ}}
+| {{IPAlink|tʃʼ}}
+| {{IPAlink|kʼ}}
+|
+|-
+! <small>[[Stop consonant#Aspiration|unaspirated]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|t͡s}}
+| {{IPAlink|t͡ʃ}}
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+|
+|
+| {{IPAlink|ɡ}}
+|
+|-
+! rowspan=2 | [[Fricative consonant|Fricative]]
+! <small>[[Voicelessness|voiceless]]</small>
+| {{IPAlink|ɸ}}
+| {{IPAlink|θ}}
+| {{IPAlink|s}}
+| {{IPAlink|ʃ}}
+| {{IPAlink|x}}
+| {{IPAlink|h}}
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+|
+|
+|{{IPAlink|z}}
+|
+|
+|
+|-
+! colspan=2 | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+| {{IPAlink|ɲ}}
+|
+|
+|-
+! rowspan=2 | [[Liquid consonant|Liquid]]
+! <small>[[Rhotic consonant|rhotic]]</small>
+|
+|
+| {{IPAlink|r}}~{{IPAlink|ɾ}}
+|
+|
+|
+|-
+! <small>[[Lateral consonant|lateral]]</small>
+|
+|
+| {{IPAlink|l}}
+|
+|
+|
+|-
+! colspan=2 | [[Semivowel]]
+| {{IPAlink|w}}
+|
+|
+| {{IPAlink|j}}
+|
+|
+|}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2" |
+! colspan="2" | [[Front vowel|Front]]
+! colspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! <small>oral</small> || <small>[[Nasal vowel|nasal]]</small>
+! <small>oral</small> || <small>[[Nasal vowel|nasal]]</small>
+! <small>oral</small> || <small>[[Nasal vowel|nasal]]</small>
+|-
+! [[Close vowel|Close]]
+| {{IPAlink|i}}
+| {{IPAlink|ĩ}}
+| {{IPAlink|ɨ}}
+|
+| {{IPAlink|u}}
+| {{IPAlink|ũ}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPAlink|e}}
+|
+| {{IPAlink|ə}}
+|
+| {{IPAlink|o}}
+| {{IPAlink|õ}}
+|-
+! [[Near-open vowel|Near-open]] <!-- with regards to these two levels of mid vowels and nasal vowels, are we sure that the nasal vowels aren't both mid-low instead of being asymmetric? -->
+| {{IPAlink|ɛ}}
+| {{IPAlink|ɛ̃}}
+|
+|
+| {{IPAlink|ɔ}}
+|
+|-
+! [[Open vowel|Open]]
+|
+|
+| {{IPAlink|a}}
+| {{IPAlink|ã}}
+|
+|
+|}
+
+The phoneme inventory of the Proto-Otomi language from which all modern varieties have descended has been [[Historical linguistics|reconstructed]] as {{IPA|/p t k (kʷ) ʔ b d ɡ t͡s ʃ h z m n w j/}}, the oral vowels {{IPA|/i ɨ u e ø o ɛ a ɔ/}}, and the nasal vowels {{IPA|/ĩ ũ ẽ ɑ̃/}}.{{sfn|Newman|Weitlaner|1950a}}{{sfn|Newman|Weitlaner|1950b}}{{sfn|Bartholomew|1960}}
+
+===Phonological diversity of the modern dialects===
+
+Modern dialects have undergone various changes from the common historic phonemic inventory. Most have [[Voice (phonetics)|voiced]] the reconstructed Proto-Otomian voiceless nonaspirate stops {{IPA|/p t k/}} and now have only the voiced series {{IPA|/b d ɡ/}}. The only dialects to retain all the original voiceless nonaspirate stops are Otomi of Tilapa and Acazulco and the eastern dialect of [[San Pablito, Puebla|San Pablito Pahuatlan]] in the Sierra Norte de Puebla, and Otomi of Santa Ana Hueytlalpan.<ref name="Lastra 2006 48">{{harvcoltxt|Lastra|2006|p=48}}</ref> A voiceless aspirate stop series {{IPA|/pʰ tʰ kʰ/}}, derived from earlier clusters of stop + {{IPA|[h]}}, occurs in most dialects, but it has turned into the fricatives {{IPA|/ɸ θ x/}} in most Western dialects. Some dialects have innovated a palatal nasal {{IPA|/ɲ/}} from earlier sequences of {{IPA|*j}} and a nasal vowel.<ref name=lastra1925 /> In several dialects, the Proto-Otomi clusters {{IPA|*ʔm}} and {{IPA|*ʔn}} before oral vowels have become {{IPA|/ʔb/}} and {{IPA|/ʔd/}}, respectively.<ref name=lastra3741 /> In most dialects {{IPA|*n}} has become {{IPA|/ɾ/}}, as in the singular determiner and the second person possessive marker. The only dialects to preserve {{IPA|/n/}} in these words are the Eastern dialects, and in Tilapa these instances of {{IPA|*n}} have become {{IPA|/d/}}.<ref name="Lastra 2006 48"/>
+[[File:Mezquitaltones.png|right|150px|thumb|alt=A schema showing two horizontal layers. A straight black line in the upper layer shows the high tone numbered one, a straight line in the lower layer shows the low tone numbered two, and to the right a line starting in the low layer ut rising to the high layer shows the rising tone numbered 12.|The tone system of Mezquital Otomi; most other dialects have similar systems]]
+Many dialects have merged the vowels {{IPA|*ɔ}} and {{IPA|*a}} into {{IPA|/a/}} as in Mezquital Otomi, whereas others such as Ixtenco Otomi have merged {{IPA|*ɔ}} with {{IPA|*o}}. The different dialects have between three and five nasal vowels. In addition to the four nasal vowels of proto-Otomi, some dialects have {{IPA|/õ/}}. Ixtenco Otomi has only {{IPA|/ẽ ũ ɑ̃/}}, whereas Toluca Otomi has {{IPA|/ĩ ũ ɑ̃/}}. In the Otomi of Cruz del Palmar, Guanjuato, the nasal vowels are {{IPA|/ĩ ũ õ/}}, the former {{IPA|*ɑ̃}} having changed to {{IPA|/õ/}}.<ref group=cn>In the late 20th century, Mezquital Otomi was reported to be on the verge of losing the distinction between nasal and oral vowels. Bernard noted that {{IPA|*ɑ̃}} had become {{IPA|/ɔ/}}, that {{IPA|/ĩ ~ i/}} and {{IPA|/ũ ~ u/}} were in [[free variation]], and that the only nasal vowel that continued to be distinct from its oral counterpart was {{IPA|/ẽ/}}.{{harvcoltxt|Bernard|1967}}{{Harvcoltxt|Bernard|1970}}</ref> Modern Otomi has borrowed many words from Spanish, in addition to new phonemes that occur only in loan words, such as {{IPA|/l/}} that appears in some Otomi dialects instead of the Spanish trilled {{IPA|[r]}}, and {{IPA|/s/}}, which is not present in native Otomi vocabulary either.<ref name="ReferenceA">{{harvcoltxt|Lastra|1998b}}</ref>{{sfn|Hekking|Bakker|2007}}
+
+===Tone and stress===
+All Otomi languages are [[tonal language|tonal]], and most varieties have three tones, high, low and rising.<ref name=lastra3741/><ref group=cn>During the mid-twentieth century, linguists differed regarding the analysis of tones in Otomi. [[Kenneth Pike]] {{harvcoltxt|Sinclair|Pike|1948}}, [[Doris Bartholomew]] {{harvcoltxt|Bartholomew|1968}};{{harvcoltxt|Bartholomew|1979}} and {{harvcoltxt|Blight|Pike|1976}} preferred an analysis including three tones, but {{harvcoltxt|Leon|Swadesh|1949}}and {{harvcoltxt|Bernard|1966}}, {{harvcoltxt|Bernard|1974}} preferred an analysis with only two tones, in which the rising tone was analyzed as two consecutive tones on one long vowel. In fact, Bernard didn't believe that Otomi should be analyzed as being tonal, as he believed instead that tone in Otomi was not lexical, but rather predictable from other phonetic elements. This analysis was rejected as untenable by the thorough analysis of Wallis (1968) and the three tone analysis became the standard.</ref> One variety of the Sierra dialect, that of San Gregorio, has been analyzed as having a fourth, falling tone.<ref name="Voigtlander 1985">{{harvcoltxt|Voigtlander|Echegoyen|1985}}</ref> In Mezquital Otomi, suffixes are never specified for tone,<ref name="Bartholomew 1979">{{harvcoltxt|Bartholomew|1979}}</ref> while in Tenango Otomi, the only syllables not specified for tone are prepause syllables and the last syllable of polysyllabic words.
+
+Stress in Otomi is not phonemic but rather falls predictably on every other syllable, with the first syllable of a root always being stressed.{{sfn|Blight|Pike|1976}}
+
+==Orthography==
+In this article, the orthography of Lastra (various, including 1996, 2006) is employed which marks syllabic tone. The low tone is unmarked (''a''), the high level tone is marked with the acute accent (''á''), and the rising tone with the [[caron]] (''ǎ''). Nasal vowels are marked with a rightward curving hook ([[ogonek]]) at the bottom of the vowel letter: ''į, ę, ą, ų.'' The letter ''c'' denotes {{IPA|[t͡s]}}, ''y'' denotes {{IPA|[j]}}, the palatal sibilant {{IPA|[ʃ]}} is written with the letter ''š'', and the palatal nasal {{IPA|[ɲ]}} is written ''ñ''. The remaining symbols are from the [[International Phonetic Alphabet|IPA]] with their standard values.
+
+===Classical Otomi===
+Colonial documents in Classical Otomi do not generally capture all the phonological contrasts of the Otomi language. Since the friars who alphabetized the Otomi populations were Spanish speakers, it was difficult for them to perceive contrasts that were present in Otomi but absent in Spanish, such as nasalisation, tone, the large vowel inventory as well as aspirated and glottal consonants. Even when they recognized that there were additional phonemic contrasts in Otomi they often had difficulties choosing how to transcribe them and with doing so consistently. No colonial documents include information on tone. The existence of nasalization is noted by Cárceres, but he does not transcribe it. Cárceres used the letter ''æ'' for the low central unrounded vowel {{IPA|[ʌ]}} and ''æ'' with [[cedille]] for the high central unrounded vowel {{IPA|ɨ}}.<ref name="Smith-Stark32">{{harvcoltxt|Smith-Stark|2005|p=32}}</ref> He also transcribed glottalized consonants as [[geminate]]s e.g. ''ttz'' for {{IPA|[t͡sʔ]}}.<ref name="Smith-Stark32" /> Cárceres used grave-accented vowels ''è'' and ''ò'' for {{IPA|[ɛ]}} and {{IPA|[ɔ]}}. In the 18th century Neve y Molina used vowels with [[Macron (diacritic)|macron]] ''ē'' and ''ō'' for these two vowels and invented extra letters (an ''e'' with a tail and a hook and an ''u'' with a tail) to represent the central vowels.{{sfn|Smith-Stark|2005|p=20}}
+
+===Practical orthography for modern dialects===
+{{multiple image|align=right|direction=vertical|width=280
+|image1= Bienvenidos a Ixmiquilpan.jpg
+|image2= Bienvenidos a Ixmiquilpan - Hogä ehe Ntsʼu̲tkʼani.jpg
+|footer= Sign written in Otomi and Spanish in the [[Mezquital Valley]]:{{center|BIENVENIDOS A IXMIQUILPAN<br /><small>HOGÄ EHE NTS'U&#818;TK'ANI<br /></small>{{H:title|CORAZÓN ''sic''|CORAZON}} DEL VALLE DEL MEZQUITAL}} }}
+
+[[Orthography|Orthographies]] used to write modern Otomi have been a focus of controversy among field linguists for many years. Particularly contentious is the issue of whether or not to mark tone, and how, in orthographies to be used by native speakers. Many practical orthographies used by Otomi speakers do not include tone marking. Bartholomew<ref name="Bartholomew1968">{{harvcoltxt|Bartholomew|1968}}</ref> has been a leading advocate for the marking of tone, arguing that because tone is an integrated element of the language's grammatical and lexical systems, the failure to indicate it would lead to ambiguity. {{harvcoltxt|Bernard|1980}} on the other hand, has argued that native speakers prefer a toneless orthography because they can almost always disambiguate using context, and because they are often unaware of the significance of tone in their language, and consequently have difficulty learning to apply the tone diacritics correctly. For Mezquital Otomi, Bernard accordingly created an orthography in which tone was indicated only when necessary to disambiguate between two words and in which the only symbols used were those available on a standard Spanish language typewriter (employing for example the letter ''c'' for {{IPA|[ɔ]}}, ''v'' for {{IPA|[ʌ]}}, and the symbol ''+'' for {{IPA|[ɨ]}}). Bernard's orthography has not been influential and in used only in the works published by himself and the Otomi author Jesus Salinas Pedraza.{{sfn|Bernard|Salinas Pedraza|1976}}{{sfn|Salinas Pedraza|1978}}
+
+Practical orthographies used to promote Otomi literacy have been designed and published by the [[Instituto Lingüístico de Verano (Mexico)|Instituto Lingüístico de Verano]]<ref group=cn>The ILV is the affiliate body of [[SIL International]] in Mexico.</ref> and later by the national institute for indigenous languages ([[INALI]]). Generally they use diareses ''ë'' and ''ö'' to distinguish the low mid vowels {{IPA|[ɛ]}} and {{IPA|[ɔ]}} from the high mid vowels ''e'' and ''o.'' High central vowel {{IPA|[ɨ]}} is generally written ''ʉ'' or ''u̱,'' and front mid rounded vowel {{IPA|[ø]}} is written ''ø'' or ''o̱''. Letter ''a'' with [[trema (diacritic)|trema]], ''ä,'' is sometimes used for both the nasal vowel {{IPA|[ã]}} and the low back unrounded vowel {{IPA|[ʌ]}}. Glottalized consonants are written with apostrophe (e.g. ''tz''' for {{IPA|[t͡sʔ]}}) and palatal sibilant {{IPA|[ʃ]}} is written with ''x.''{{sfn|Chávez|Lanier Murray|2001}} This orthography has been adopted as official by the Otomi Language Academy centered in Ixmiquilpan, Hidalgo and is used on road signs in the Mezquital region and in publications in the Mezquital variety, such as the large 2004 SIL dictionary published by {{harvcoltxt|Hernández Cruz|Victoria Torquemada|Sinclair Crawford|2004}}. A slightly modified version is used by Enrique Palancar in his grammar of the San Ildefonso Tultepec variety.{{sfn|Palancar|2009}}
+
+==Grammar==
+{{Main|Otomi grammar}}
+
+The [[morphosyntax|morphosyntactic]] [[linguistic typology|typology]] of Otomi displays a mixture of synthetic and analytic structures. The phrase level morphology is synthetic, and the sentence level is analytic.{{sfn|Hekking|Bakker|2007}} Simultaneously, the language is [[head-marking language|head-marking]] in terms of its verbal morphology, and its nominal morphology is more analytic.
+
+According to the most common analysis, Otomi has two kinds of bound morphemes, pro[[clitic]]s and [[affix]]es. Proclitics differ from affixes mainly in their phonological characteristics; they are marked for tone and block [[nasal harmony]]. {{sfn|Palancar|2009|p=64}} Some authors consider proclitics to be better analyzed as prefixes.{{sfn|Soustelle|1993|p=143-5}}{{sfn|Andrews|1993}} The standard orthography writes proclitics as separate words, whereas affixes are written joined to their host root. Most affixes are [[suffixes]] and with few exceptions occur only on verbs, whereas the proclitics occur both in nominal and verbal paradigms. Proclitics mark the categories of definiteness and number, person, negation, tense and aspect - often fused in a single proclitic. Suffixes mark [[direct object|direct]] and [[indirect object]]s as well as [[clusivity]] (the distinction between inclusive and exclusive "we"), number, location and affective emphasis. Historically, as in other Oto-Manguean languages, the basic word order is [[Verb Subject Object]], but some dialects tend towards [[Subject Verb Object]] word order, probably under the influence of Spanish.{{sfn|Hekking|Bakker|2007}} [[Possession (linguistics)|Possessive constructions]] use the order ''possessed-possessor'', but modificational constructions use ''[[grammatical modifier|modifier]]-head'' order.
+
+From the variety of Santiago Mexquititlan, Queretaro, here is an example of a complex verb phrase with four suffixes and a proclitic:
+
+{{interlinear|lang=oto|indent=3
+|Bi{{=}}hon-ga-wi-tho-wa
+|"He/she looks for us only (around) here"{{sfn|Hekking|1995}}}}
+
+The initial proclitic ''bi'' marks the present tense and the third person singular, the verb root ''hon'' means "to look for", the -''ga''- suffix marks a first person object, the -''wi''- suffix marks dual number, and ''tho'' marks the sense of "only" or "just" whereas the -''wa''- suffix marks the locative sense of "here".
+
+===Pronominal system: Person and Number===
+Originally, all dialects distinguished singular, dual and plural numbers, but some of the more innovative dialects, such as those of Querétaro and of the Mezquital area, distinguish only singular and plural numbers, sometimes using the previous dual forms as a [[paucal]] number.<ref>{{harvcoltxt|Lastra|2006|pp=54–55}}</ref> The Ixtenco dialect distinguishes singular, plural, and mass plural numbers.{{sfn|Lastra|1997}}{{sfn|Lastra|1998b}} The personal prefixes distinguish four persons, making for a total of eleven categories of grammatical person in most dialects.<ref name="lastra1925" /> The grammatical number of nouns is indicated by the use of [[Article (grammar)|articles]]; the nouns themselves are unmarked for number.
+
+In most dialects, the pronominal system distinguishes four persons (first person [[Clusivity|inclusive and exclusive]], second person and third person) and three numbers (singular, dual and plural). The system below is from the Toluca dialect.<ref name=lastra1819>{{harvcoltxt|Lastra|1992|pp=18–19}}</ref>
+
+{| style="width:85%; height:100px"
+! &nbsp; !! Singular!! Dual!! Plural
+|-
+! 1st person Incl.
+|*
+|''nugóbé'' 'you and I'
+|''nugóhé'' 'I and you guys'
+|-
+! 1st Person Excl.
+|''nugó'' 'I'
+|''nugówí'' 'we two (not you)'
+|''nugóhɨ́'' 'We all (not you)'
+|-
+! 2nd Person
+|''nukʔígé'' 'you'
+|''nukʔígéwí'' 'you two'
+|''nukʔígégɨ́'' 'you guys'
+|-
+! 3rd Person
+|''gégé'' 'she/he/it'
+|''nugégéwí'' 'the two of them'
+|''nugégéhɨ́'' 'they'
+|}
+
+The following atypical pronominal system from Tilapa Otomi lacks the inclusive/exclusive distinction in the first person plural and the dual/plural distinction in the second person.{{sfn|Lastra|2001|p=88}}
+
+{|  style="width:85%; height:100px"
+! &nbsp;!! Singular!! Dual!! Plural
+|-
+! 1st person Excl.
+|*
+|''nyugambe'' 'we two (not you)'
+|''nyugahɨ́'' 'we all (both incl and excl.)'
+|-
+! 1st Person Incl.
+|''nyugá'' 'I'
+|''nugawi'' 'you and I'
+|*
+|-
+! 2nd Person
+|''nyukʔe'' 'you'
+|''nyukʔewi'' 'you two'
+|''nyukʔehɨ́'' 'you guys'
+|-
+! 3rd Person
+|''nyuaní'' 'she/he/it'
+|*
+|''nyuyí'' 'they' (both dual and plural)
+|}
+
+===Nouns===
+Otomi nouns are marked only for their possessor; [[plural]]ity is expressed via [[Otomi language#Pronominal system|pronouns]] and [[Otomi language#Articles|articles]]. There is no case marking. The particular pattern of possessive inflection is a widespread trait in the [[Mesoamerican Linguistic Area|Mesoamerican linguistic area]]: there is a prefix agreeing in person with the possessor, and if the possessor is plural or dual, then the noun is also marked with a suffix that agrees in number with the possessor. Demonstrated below is the inflectional paradigm for the word ''ngų''́ "house" in the dialect of Toluca.<ref name=lastra1819 />
+
+{|  style="width:85%; height:100px"
+! &nbsp;!! Singular!! Dual!! Plural
+|-
+! 1st person Excl.
+|*
+|''mą-ngų́-bé'' 'our house (me and him/her)'
+|''mą-ngų́-hé'' 'our house (me and them)'
+|-
+! 1st Person Incl.
+|''mą-ngų́'' 'my house'
+|''mą-ngų́-wí'' 'our house (me and you)'
+|''mą-ngų́-hɨ́'' 'our house (me and you and them)'
+|-
+! 2nd Person
+|''ri-ngų́'' 'your house'
+|''ri-ngų́-wí'' 'the house of the two of you'
+|''ri-ngų́-hɨ́'' 'the house of you guys'
+|-
+! 3rd Person
+|''rʌ-ngų́'' 'her/his/its house'
+|''yʌ-ngų́-wí'' 'the house of the two of them'
+|''yʌ-ngų́-hɨ́'' 'their house'
+|}
+
+====Articles====
+Definite articles preceding the noun are used to express plurality in nominal elements, since the nouns themselves are invariant for grammatical number. Most dialects have ''rʌ'' 'the (singular)' and ''yʌ'' 'the (dual/plural)'. Example noun phrases:
+
+{| style="width:85%; height:100px"
+!Singular!! Dual!! Plural
+|-
+|''rʌ ngų́'' 'the house'
+|''yʌ yóho ngų́'' 'the two houses'
+|''yʌ ngų́'' 'the houses'
+|}
+
+Classical Otomi, as described by Cárceres, distinguished neutral, honorific, and pejorative definite articles: ''ąn'', neutral singular; ''o'', honorific singular; ''nø̌'', pejorative singular; ''e'', neutral and honorific plural; and ''yo'', pejorative plural.<ref name=lastra3741 />
+
+:''ąn ngų́'' 'the house'
+
+:''o ngų́'' 'the honored house'
+
+:''nø̌ ngų́'' 'the damn house'
+
+===Verbs===
+Verb morphology is synthetic and has elements of both [[Morphological typology|fusion]] and agglutination.<ref group=cn name="Palancar200914"/><ref name="Wallis 1964">{{harvcoltxt|Wallis|1964}}</ref>
+
+Verb stems are inflected through a number of different processes: the initial consonant of the verb root changes according to a [[morphophonemic]] pattern of [[consonant mutation]]s to mark present vs. non-present, and active vs. passive.{{sfn|Palancar|2009}}{{sfn|Voigtlander|Echegoyen|1985}} Verbal roots may take a formative syllable or not depending on syntactic and prosodic factors.{{sfn|Palancar|2004b}} A nasal prefix may be added to the root to express reciprocality or [[Voice (grammar)#Middle|middle voice]].{{sfn|Palancar|2006a}} Some dialects, notably the eastern ones, have a system of verb classes that take different series of prefixes. These conjugational categories have been lost in the Western dialects, although they existed in the Western areas in the colonial period as can be seen from Cárceres's grammar.{{sfn|Palancar|2011}}
+
+Verbs are inflected for either direct object or indirect object (but not for both simultaneously) by suffixes. The categories of person of subject, [[tense, aspect, and mood]] are marked simultaneously with a formative which is either a verbal prefix or a proclitic depending on analysis.{{sfn|Hekking|Bakker|2007}}{{sfn|Palancar|2006b|p=332}} These proclitics can also precede nonverbal predicates.<ref name="Voigtlander 1985"/><ref name="palancar2008">{{harvcoltxt|Palancar|2008}}</ref> The dialects of Toluca and Ixtenco distinguish the [[Present tense|present]], [[preterit]], [[perfect (grammar)|perfect]], [[imperfect]], [[Future tense|future]], [[pluperfect]], [[Progressive aspect|continuative]], [[Imperative mood|imperative]], and two [[subjunctive]]s. Mezquital Otomi has additional moods.<ref name=l96-3>{{harvcoltxt|Lastra|1996|p=3}}</ref> On transitive verbs, the person of the object is marked by a suffix. If either subject or object is dual or plural, it is shown with a plural suffix following the object suffix. So the structure of the Otomi verb is as follows:
+{|class="wikitable" style="text-align:center; width:75%; height:50px" border="1"
+|-
+|Person of Subject/[[Tense–Aspect–Mood|TAM]] (proclitic)
+|Prefixes (e.g. voice, adverbial modification)
+|Root
+|formative
+|Object suffix
+|1st person emphatic suffix
+|Plural/Dual suffix
+|}
+
+====Person, number, tense, aspect and mood====
+The present tense prefixes are ''di''- (1st person), ''gi''- (2nd person), ''i''- (3rd person).
+
+{|  style="width:85%; height:100px"
+! &nbsp;!! Singular!! Dual!! Plural
+|-
+! 1st person Excl.
+|*
+|''di-nú-bé'' 'we see (me and him/her)'
+|''di-nú-hé'' 'we see (me and them)'
+|-
+! 1st Person Incl.
+|''di-nú'' 'I see'
+|''di-nú-wí'' 'we see (me and you)'
+|''mdi-nú-hɨ́'' 'we see (me and you and them)'
+|-
+! 2nd Person
+|''gi-nú'' 'you see'
+|''gi-nú-wí'' 'you two see'
+|''gi-nú-hɨ́'' 'you guys see'
+|-
+! 3rd Person
+|''i-nú'' 'she/he/it sees'
+|''i-nú-wí'' 'the two of them see'
+|''i-nú-hɨ́'' 'they see'
+|}
+
+The Preterite is marked by the prefixes ''do-, ɡo-,'' and ''bi-'', the Perfect by ''to-, ko-, ʃi-'', the Imperfect by''dimá, ɡimá, mi'', the Future by ''ɡo-, ɡi-,'' and ''da-'', and the Pluperfect by ''tamą-, kimą-, kamą-.'' All tenses use the same suffixes as the Present tense for dual and plural numbers and clusivity. The difference between Preterite and Imperfect is similar to the distinction between the Spanish [[Spanish grammar|Preterite]] ''habló'' 'he spoke (punctual)' and the Spanish Imperfect  ''hablaba'' 'he spoke/he used to speak/he was speaking (non-punctual)'.
+
+In Toluca Otomi, the semantic difference between the two subjunctive forms (A and B) has not yet been clearly understood in the linguistic literature. Sometimes subjunctive B implicates that is more recent in time than subjunctive A. Both indicate something counterfactual. In other Otomi dialects, such as Otomi of Ixtenco Tlaxcala, the distinction between the two forms is one of [[subjunctive]] as opposed to [[irrealis]].<ref name=l96-3/>{{sfn|Lastra|1998a}} The Past and Present Progressive are similar in meaning to English 'was' and 'is X-ing', respectively. The Imperative is used for issuing direct orders.
+
+Verbs expressing movement towards the speaker such as ''ʔįhį'' 'come' use a different set of prefixes for marking person/[[Tense–Aspect–Mood|TAM]]. These prefixes can also be used with other verbs to express 'to do something while coming this way'. In Toluca Otomi ''mba''- is the third person singular Imperfect prefix for movement verbs.
+
+{{interlinear|lang=oto|indent=3
+|mba-tųhų
+|3/MVMT/IMPERF-sing
+|'he came singing'<ref name=l92-24>{{harvcoltxt|Lastra|1992|p=24}}</ref>}}
+
+When using nouns [[Predicate (grammar)|predicatively]], the subject prefixes are simply added to the noun root:
+
+{{interlinear|lang=oto|indent=3
+|drʌ-mǒkhá
+|1SG/PRES/{{gcl|CONT|continuative}}-priest
+|'I am a priest'<ref name=l92-24/>}}
+
+====Transitivity and stative verbs====
+Transitive verbs are inflected for agreement with their objects by means of suffixes, while using the same subject prefixes as the intransitive verbs to agree with their agents. However, in all dialects a few intransitive verbs take the object suffix instead of the subject prefix. Often such intransitive verbs are stative, i.e. describing a state, which has prompted the interpretation that [[morphosyntactic alignment]] in Otomi is split between [[active–stative]] and [[accusative]] systems.<ref name="palancar2008"/>
+
+In Toluca Otomi the object suffixes are -''gí'' (first person), -''kʔí'' (second person) and -''bi'' (third person), but the vowel /i/ may [[Vowel harmony|harmonize]] to /e/ when suffixed to a root containing /e/. The first person suffix is realized as ''-kí'' after [[sibilant]]s and after certain verb roots, and as -''hkí'' when used with certain other verbs. The second person object suffix may sometimes [[Metathesis (linguistics)|metathesis]]e to -''ʔkí''. The third person suffix also has the [[allomorph]]s -''hpí/-hpé'', -''pí'', -''bí'' as well as a [[zero morpheme]] in certain contexts.{{sfn|Lastra|1992|pp=226-225}}
+
+{|  style="width:85%; height:100px"
+! 1st person object!! 2nd person object!! 3rd person object
+|-
+|{{interlinear|lang=oto|bi-ñús-kí|he/PAST-write-me|'he wrote me'}}
+|{{interlinear|lang=oto|bi-ñús-kʔí|he/PAST-write-you|'he wrote you'}}
+|{{interlinear|lang=oto|bi-kré-bi|he/PAST-believe-it|'he believed it'}}
+|-
+|{{interlinear|lang=oto|bi-nú-gí|he/PAST-see-me|'he saw me'}}
+|{{interlinear|lang=oto|bi-nú-kʔí|he/PAST-see-you|'he saw you'}}
+|{{interlinear|lang=oto|bi-hkwáhti-bí|he/she/PAST-hit-him/her|'she/he hit him/her'}}
+|}
+
+Object number (dual or plural) is marked by the same suffixes that are used for the subject, which can lead to ambiguity about the respective numbers of subject and object. With object suffixes of the first or second person, the verbal root sometimes changes, often by the deletion of the final vowel. For example:{{sfn|Lastra|1992|p=34}}
+
+{|  style="width:60%; height:100px"
+! dual object/subject!! plural object/subject
+|-
+|{{interlinear|lang=oto|bi-ñaš-kʔí-wí|he/PAST-cut.hair-you-DU|'the two of them cut your hair' or {{br}}'he cut the hair of the two of you'}}
+|{{interlinear|lang=oto|bi-ñaš-kí-hɨ́|he/PAST-cut.hair-you-PL|'they cut my hair' or 'he cut our hair'}}
+|}
+
+A word class that refers to properties or states has been described either as adjectives{{sfn|Lastra|1992|p=20}} or as [[stative verb]]s.<ref name="palancar2008"/>{{sfn|Palancar|2006b}} The members of this class ascribe a property to an entity, e.g. "the man is tall", "the house is old". Within this class some roots use the normal subject/T/A/M prefixes, while others always use the object suffixes to encode the person of the patient/subject. The fact that roots in the latter group encode the patient/subject of the predicate using the same suffixes as transitive verbs use to encode the patient/object has been interpreted as a trait of [[Active–stative language|Split intransitivity]],<ref name="palancar2008"/> and is apparent in all Otomi dialects; but which specific stative verbs take the object prefixes and the number of prefixes they take varies between dialects. In Toluca Otomi, most stative verbs are conjugated using a set of suffixes similar to the object/patient suffixes and a third person subject prefix, while only a few use the Present Continuative subject prefixes. The following are examples of the two kinds of stative verb conjugation in Toluca Otomi:{{sfn|Lastra|1992|p=21}}
+
+{|  style="width:60%; height:100px"
+! with patient/object suffix!! with subject/agent prefix
+|-
+|{{interlinear|lang=oto|rʌ-nǒ-hkʔí|it/PRES-fat-me|'I am fat'}}
+|{{interlinear|lang=oto|drʌ-dǒtʔî|I/PRES/{{gcl|CONT|continuative}}-short|'I am short'}}
+|}
+
+===Syntax===
+Otomi has the [[Morphosyntactic alignment|nominative–accusative alignment]], but by one analysis there are traces of an emergent [[active–stative]] alignment.<ref name="palancar2008"/>
+
+==== Word order ====
+Some dialects have SVO as the most frequent word order, for example Otomi of Toluca{{sfn|Lastra|1992|p=56}} and of San Ildefonso, Querétaro,{{sfn|Palancar|2008|p=358}} while VSO word order is basic to other dialects such as Mezquital Otomi.{{sfn|Hess|1968|pp=79, 84–85}} Proto-Otomi is also thought to have had VSO order as verb-initial order is the most frequent basic word order in other Oto-Manguean languages. It has been suggested that some Otomi dialects are shifting from a verb-initial to a subject-initial basic word order under the influence of Spanish.{{sfn|Hekking|Bakker|2007|p=439}}
+
+====Clause types====
+{{harvcoltxt|Lastra|1997|pp=49–69}} describes the clause types in Ixtenco Otomi. The four basic clause types are indicative, negative, interrogative and imperative. These four types can either be simple, conjunct or complex (with a subordinate clause). Predicative clauses can be verbal or non-verbal. Non-verbal predicative clauses are usually equational or ascriptive (with the meaning 'X is Y'). In a non-vebal predicative clause the subject precedes the predicate, except in [[Focus (linguistics)|focus]] constructions where the order is reversed. The negation particle precedes the predicate.
+
+{{interlinear|lang=oto|indent=3
+|ni-ngú ndɨ^té
+|your-house big
+|'your house is big'}}
+
+{{interlinear|lang=oto|indent=3
+|thɛ̌ngɨ ʔnį́ 
+|red pepper
+|'its red, the pepper'  (focus)}}
+
+Equational clauses can also be complex:
+
+{{interlinear|lang=oto|indent=3
+|títa habɨ ditá yɨ khą́ ʔí
+|sweathouse where bathe the people
+|'the sweat house is where people bathe'}}
+
+Clauses with a verb can be intransitive or transitive. In Ixtenco Otomi, if a transitive verb has two arguments represented as free noun phrases, the subject usually precedes the verb and the object follows it.
+
+{{interlinear|lang=oto|indent=3
+|ngé rʌ ñôhɨ šʌ-hió rʌ ʔyo
+|so the man killed the dog
+|"the man killed the dog"}}
+
+This order is also the norm in clauses where only one constituent is expressed as a free noun phrase. In Ixtenco Otomi verb-final word order is used to express focus on the object, and verb-initial word order is used to put focus on the predicate.
+
+{{interlinear|lang=oto|indent=3
+|ngɨ^bo di-pho-mi ma-ʔya-wi
+|brains we-have-them our-heads-PL
+|"our brains, we have them in our heads" (focus on object)}}
+
+Subordinate clauses usually begin with one of the subordinators such as ''khandi'' 'in order to', ''habɨ'' 'where', ''khati'' 'even though', ''mba'' 'when', ''ngege'' 'because'. Frequently the future tense is used in these subordinate clause. Relative clauses are normally expressed by simple juxtaposition without any relative pronoun. Different negation particles are used for the verbs "to have", "to be (in a place)" and for imperative clauses.
+
+:''hingi pá che '''ngege''' po na chú'' "(s)he doesn't go alone '''because''' (s)he's afraid"
+
+Interrogative clauses are usually expressed by intonation, but there is also a question particle ''ši''. Content questions use an interrogative pronoun before the predicate.
+
+{{interlinear|lang=oto|indent=3
+|té bi-khá-nɨ́
+|what it-is
+|what's that?'}}
+
+===Numerals===
+Like all other languages of the [[Mesoamerican Linguistic Area|Mesoamerican linguistic area]], Otomi has a [[vigesimal]] number system. The following numerals are from Classical Otomi as described by Cárceres. The ''e'' prefixed to all numerals except one is the plural nominal determiner (the ''a'' associated with ''-nʔda'' being the singular determiner).<ref name=lastra3741 />
+{{columns-list|colwidth=10em|
+*1 ''anʔda''
+*2 ''eyoho''
+*3 ''ehių''
+*4 ''ekoho''
+*5 ''ekɨtʔa''
+*6 ''eʔdata''
+*7 ''eyoto''
+*8 ''ehyąto''
+*9 ''ekɨto''
+*10 ''eʔdɛta''
+*11 ''eʔdɛta ma ʔda''
+*20 ''eʔdote''
+*40 ''eyote''
+*60 ''ehyąte''
+}}
+
+==Vocabulary==
+There are also considerable lexical differences between the Otomi dialects. Often terms will be shared between the eastern and southwestern dialects, while the northwestern dialects tend toward more innovative forms.<ref group="cn">The table below is based on data from Lastra (2006: 43–62).</ref>
+{|  style="width:95%; height:100px; text-align: center;"
+!&nbsp; !!Gundhó <br>(Mezquital)!! San Ildefonso,<br>Amealco!! Toluca!! Tilapa!! Ixtenco!! Huehuetla <br>(Highland)
+|-
+!paper
+|''hɛ̌ʔmí''
+|''hɛ̌ʔmi''
+|''cųhkwá''
+|''cɨ̌hkó''
+|''cuhkwá''
+|''cø̌hkwą́''
+|-
+! mother
+|''ną́ną́''
+|''nóno''
+|''mé''
+|''mbé''
+|''ną́ną́''
+|''mbé''
+|-
+! metal
+|''bɛkhá''<ref group=cn>Here ''tʔɛɡí'' means 'bell'.</ref> 
+|''bøkhǫ́'' 
+|''tʔéɡí''
+|''tʔɛ̌ɡi''
+|''tʔɛɡi''
+|''tʔɛ̌ki''
+|-
+! money
+|''bokhą́''
+|''bokhǫ́''
+|''domi''<ref group=cn>Borrowed from colonial Spanish ''tomín'' 'silver coin used in parts of colonial Spanish America'.</ref>
+|''mbɛhti''
+|''tʔophó''
+|''tʔophó''<ref group=cn>Other highland dialects use ''mbɛhti'' (Tutotepec, Hidalgo) and ''menyu'' (Hueytlalpan).</ref>
+|-
+!much/a lot
+|''ndųnthį́''
+|''nzɛya''
+|''dúnthí''
+|''pongí''
+|''chú''
+|''ʃøngų́''
+|}
+
+===Loan words===
+Otomi languages have borrowed words from both Spanish and Nahuatl. The phonological structure of loanwords is assimilated to Otomi phonology. Since Otomi lacks the trill /r/, this sound is normally altered to {{IPA|[l]}}, as in ''lódá'' from Spanish ''ruda'' '[[rue]] (medicinal herb)',  while Spanish /l/ can be borrowed as the tap {{IPA|/ɾ/}} as in ''baromaʃi'' 'dove' from Spanish 'paloma'. The Spanish voiceless stops /p, t, k/ are usually borrowed as their voiced counterparts as in ''bádú'' 'duck' from Spanish ''pato'' 'duck'. Loanwords from Spanish with stress on the first syllable are usually borrowed with high tone on all syllables as in: ''sábáná'' 'blanket' from Spanish ''sábana'' 'bedsheet'. Nahuatl loanwords include ''ndɛ̌nt͡su'' 'goat' from Nahuatl ''teːnt͡soneʔ'' 'goat' (literally "beard possessor"), and different forms for the Nahuatl word for 'pig', ''pitso:tɬ''. Both of these loans have obviously entered Otomi in the colonial period after the Spanish introduced those domestic animals.<ref name="ReferenceA"/> In the period before Spanish contact it appears that borrowing between Nahuatl and Otomi was sparse whereas there are numerous instances of [[calques|loan translations]] from that period, probably due to widespread bilingualism.{{sfn|Wright Carr|2005b}}
+
+==Poetry==
+Among the [[Aztec]]s the Otomi were well known for their songs, and a specific genre of [[Nahuatl]] songs called ''otoncuicatl'' "Otomi Song" are believed to be translations or reinterpretations of songs originally composed in Otomi.{{sfn|Lastra|2006|p=69}}{{sfn|Garibay|1971|p=231}} None of the songs written in Otomi during the colonial period have survived; however, beginning in the early 20th century, anthropologists have collected songs performed by modern Otomi singers. Anthropologists Roberto Weitlaner and [[Jacques Soustelle]] collected Otomi songs during the 1930s, and a study of Otomi musical styles was conducted by Vicente T. Mendoza.{{sfn|Lastra|2006|p=64}} Mendoza found two distinct musical traditions: a religious, and a profane. The religious tradition of songs, with Spanish lyrics, dates to the 16th century, when missionaries such as [[Pedro de Gante]] taught Indians how to construct European style instruments to be used for singing hymns. The profane tradition, with Otomi lyrics, possibly dates to pre-Columbian times, and consists of lullabies, joking songs, songs of romance or ballads, and songs involving animals. As in the traditions of other Mesoamerican languages, a common poetic instrument is the use of [[parallelism (rhetoric)|parallelism]], [[couplet]]s, [[difrasismo]]s (Mesoamerican couplet metaphors, similar to [[kenning]]s) and repetition.{{sfn|Bartholomew|1995}}  In the 21st century a number of Otomi literary works have been published, including the work ''ra hua ra hiä'' by [[Adela Calva Reyes]]. The following example of an Otomi song about the brevity of life was recollected by [[Ángel María Garibay K.]] in the mid-twentieth century:<ref group=cn>Originally published in {{harvcoltxt|Garibay|1971|p=238}}, republished in phonemic transcription in {{harvcoltxt|Lastra|2006|pp=69–70}}</ref>
+
+{{col-begin}}
+{{col-2}}
+:''Dąthé thogi thogi''
+:''hínkhąbɨ thege''
+:''Ndąhi thogi thogi''
+:''hínkhąbɨ thege''
+:''Mʔbɨ́ y thogi...''
+:''hínkhąbɨ pɛ̌ngi''
+{{col-2}}
+:The river passes, passes
+:it never stops
+:The wind passes, passes
+:it never stops
+:Life passes...
+:it never comes back
+{{col-end}}
+[[File:Sermonario leng otomi.pdf|thumb|Collection of sermons in the Otomi language from the 16th century|page=5]]
+{{commons category|Otomi languages}}
+
+==Notes==
+{{reflist|group="cn"}}
+
+==Citations==
+{{reflist}}
+
+==References==
+{{refbegin|indent=yes}}
+* {{cite journal|last=Andrews|first=Henrietta|date=October 1949|title=Phonemes and Morphophonemes of Temoayan Otomi|journal=[[International Journal of American Linguistics]] |volume=15|issue=4|pages=213–222 |doi=10.1086/464047 |jstor=1263147|s2cid=143776150}}
+* {{cite book|last=Andrews|first=Henrietta|year=1993|title=The Function of Verb Prefixes in Southwestern Otomí|series=Summer Institute of Linguistics and the University of Texas at Arlington publications in linguistics |issue=115 |location=Dallas |publisher=Summer Institute of Linguistics |isbn=978-0-88312-605-9}}
+* {{cite journal |last=Bartholomew|first=Doris|author-link=Doris Bartholomew |date=October 1960 |title=Some revisions of Proto-Otomi consonants |journal=International Journal of American Linguistics |volume=26 |issue=4 |pages=317–329 |jstor=1263552|doi=10.1086/464591|s2cid=144874022}}
+* {{cite journal |last=Bartholomew|first=Doris|author-link=Doris Bartholomew  |date=July 1968|title=Concerning the Elimination of Nasalized Vowels in Mezquital Otomi |journal=International Journal of American Linguistics |volume=34 |issue=3 |pages=215–217 |doi=10.1086/465017 |jstor=1263568|s2cid=143848950}}
+* {{cite journal|last=Bartholomew|first=Doris|author-link=Doris Bartholomew |date=January 1979|title=''Otomi Parables, Folktales, and Jokes'' [Book review]|journal=International Journal of American Linguistics  |volume=45|issue=1|pages=94–97 |doi=10.1086/465579 |jstor=1264981}}
+* {{cite conference |last=Bartholomew|first=Doris|author-link=Doris Bartholomew |year=1995 |title=Difrasismo en la narración otomi|editor=Ramón Arzápalo |editor2=Yolanda Lastra de Suárez | book-title=Vitalidad e influencia de las lenguas indígenas en Latinoamérica |conference=Segundo Coloquio Mauricio Swadesh|publisher= Instituto de Investigaciones Antropológicas, [[National Autonomous University of Mexico|UNAM]]|pages= 449–464 |isbn=978-968-36-3312-5}}
+* {{cite journal|last=Bernard|first=H Russell|date=December 1966|title=Otomi Tones |journal=[[Anthropological Linguistics (journal)|Anthropological Linguistics]] |volume=8|issue=9|pages=15–19 |jstor=30029194}}
+* {{cite journal |last=Bernard|first=H Russell|date=July 1967|title=The Vowels of Mezquital Otomi |journal= International Journal of American Linguistics |volume=33 |issue=3 |pages=247–48 |doi=10.1086/464969 |jstor=1264219|s2cid=143569805}}
+* {{cite journal |last=Bernard|first=H Russell|date=January 1970|title=More on Nasalized Vowels and Morphophonemics in Mezquital Otomi: A Rejoinder to Bartholomew |journal=International Journal of American Linguistics |volume=36 |issue=1 |pages=60–63|doi=10.1086/465093|jstor=1264486|s2cid=143548278}}
+* {{cite journal |last=Bernard|first=H. Russell|date=July 1973|title=Otomi Phonology and Orthography |journal= International Journal of American Linguistics |volume=39 |issue=3 |pages=180–184 |jstor= 1264569 |doi=10.1086/465262|s2cid=143961988}}
+* {{cite journal |last=Bernard|first=H Russell |date=April 1974 |title=Otomi Tones in Discourse |journal=International Journal of American Linguistics |volume=40 |issue=2 |pages=141–150|doi=10.1086/465300 |jstor=1264352|s2cid=144848859 }}
+* {{cite book|last1=Bernard|first1=H. Russel|last2=Salinas Pedraza|first2=Jesús|title=Otomí Parables, Folk Tales and Jokes |year=1976|series=Native American Text Series |volume=1 |number=2 |issn=0361-3399 |location=Chicago |publisher=University of Chicago Press}}
+* {{cite journal |last=Bernard|first=H Russell|date=April 1980 |title=Orthography for Whom? |journal=International Journal of American Linguistics |volume=46 |issue=2 |pages=133–136 |doi=10.1086/465642 |jstor=1265019|s2cid=144793780}}
+* {{cite journal|last1=Blight|first1=Richard C.|first2=Eunice V.|last2=Pike|date=January 1976|title=The Phonology of Tenango Otomi|journal=International Journal of American Linguistics |volume=42|issue=1|pages=51–57 |doi=10.1086/465386 |jstor=1264808|s2cid=144527966}}
+* {{cite book |last=Campbell|first=Lyle|author-link=Lyle Campbell |year=2000 |orig-year=1997 |title=American Indian Languages: The Historical Linguistics of Native America |edition=OUP pbk|series=Oxford Studies in Anthropological Linguistics |issue=4 |location=Oxford|publisher=Oxford University Press |isbn=978-0-19-509427-5}}
+* {{cite journal|last=Cárceres|first=Pedro de|year=1907|orig-year=ca. 1550–1600|title=Arte de la lengua othomí|editor=Nicolás León |journal=Boletín del Instituto Bibliográfico Mexicano|volume=6|pages=39–155}}
+* {{cite web|last1=Chávez|first1= Evaristo Bernabé|first2=Nancy |last2=Lanier Murray|year=2001 |title=Notas históricas sobre las variaciones de los alfabetos otomíes|url=http://www.sil.org/mexico/otopame/L002-AlfabetosOtomies.htm|format=PDF |work=Publicaciones impresas |publisher=Instituto Lingüístico de Verano |access-date=2009-08-29}}
+* {{cite book|last=CLIN|first=Catalogo de las lenguas indígenas nacionales, 2008|year=2008|title=Variantes Lingüísticas de México con sus autodenominaciones y referencias geoestadísticas|publisher=Diario de la Nación (14 Jan.)|location= Mexico City.|url=http://www.inali.gob.mx/pdf/CLIN_completo.pdf}}
+* {{cite book |translator-last=Ecker|translator-first= Lawrence |year=2001 |title=Códice de Huichapan: paleografía y traducción |editor-first=Yolanda |editor-last=Lastra |editor2-first=Doris |editor2-last=Bartholomew |location=México, D.F.|publisher=Instituto de Investigaciones Antropológicas, UNAM |isbn=978-968-36-9005-0 |version=(in Otomi and Spanish)}}
+* {{cite book|last1=Egland| first1=Steven|first2=Doris|last2=Bartholomew|first3=Saúl|last3=Cruz Ramos|year=1983|title=La inteligibilidad interdialectal en México: Resultados de algunos sondeos|location= México, D.F|publisher=Instituto Lingüístico de Verano}}
+* {{cite book|last=Garibay|first=Ángel María|author-link=Ángel María Garibay K.|year=1971|chapter=Poemas otomíes|title=Historia de la literature náhuatl. Primera parte: Etapa autonoma: de c. 1430 a 1521|publisher=Hnos. Porrúa |location=Mexico |pages=231–273 |edition=2nd|series= Bibliotheca Porrúa |issue=1}}
+* {{cite book|last=Hekking|first=Ewald|year=1995|title= El Otomí de Santiago Mexquititlan: desplazamiento linguïstico, préstamos y cambios grammaticales|location=Amsterdam|publisher=IFOTT}}
+* {{cite book|last1=Hekking|first1=Ewald|first2=Dik|last2=Bakker|chapter=The Case of Otomí: A contribution to grammatical borrowing in crosslinguistic perspective|editor=Yaron Matras |editor2=Jeanette Sakel |title=Grammatical Borrowing in Cross-Linguistic Perspective |series=Empirical Approaches to Language Typology |issue=38 |year=2007 |location=Berlin |publisher=Mouton de Gruyter |pages=435–464 |doi=10.1515/9783110199192.435 |isbn=978-3-11-019628-3 }}
+* {{cite book|last1=Hernández Cruz|first1=Luis|first2=Moisés|last2=Victoria Torquemada|first3=Donaldo|last3=Sinclair Crawford|year=2004 |title=Diccionario del hñähñu (otomí) del Valle del Mezquital, estado de Hidalgo|series=Serie de vocabularios y diccionarios indígenas "Mariano Silva y Aceves" |issue=45 |location=Tlalpan, D.F. |url=http://www.sil.org/mexico/otopame/mezquital/S045b-DicOtomiMezq-ote.pdf|publisher=Instituto Lingüístico de Verano |isbn=978-968-31-0313-0 |language=es}}
+* {{cite book|last=Hess |first=H. Harwood|year=1968|title=The Syntactic Structure of Mezquital Otomi |series=Janua Linguarum. Series practica |issue=43 |location=The Hague|publisher=[[Mouton de Gruyter|Mouton]] |isbn=9783112026465|oclc=438991}}
+* {{cite book|last=INEGI|first=[Instituto Nacional de Estadística y Geografia]|title=Perfil sociodemográfico de la población que habla lengua indígena |year=2009|url=http://www.inegi.org.mx/prod_serv/contenidos/espanol/bvinegi/productos/censos/poblacion/poblacion_indigena/leng_indi/PHLI.pdf|publisher=INEGI|access-date=2009-08-17|language=es}}
+* {{cite book|last=Lastra|first=Yolanda|author-link=Yolanda Lastra|year=1992|title=El Otomí de Toluca |location=México, D.F.|publisher=Instituto de Investigaciones Antropológicas, UNAM|isbn=978-968-36-2260-0 |version=(in Otomi and Spanish)}}
+* {{cite journal |last=Lastra |first=Yolanda |author-link=Yolanda Lastra |year=1996 |title=Verbal Morphology of Ixtenco Otomi |url=http://celia.cnrs.fr/FichExt/Am/A_21_06.pdf |journal=Amérindia |volume=21 |pages=93–100 |issn=0221-8852 |access-date=2009-08-05 |archive-url=https://web.archive.org/web/20110718094223/http://celia.cnrs.fr/FichExt/Am/A_21_06.pdf |archive-date=2011-07-18 |url-status=dead }} (PDF has a different pagination from the original publication)
+* {{cite book |last=Lastra|first=Yolanda|author-link=Yolanda Lastra|year=1997 |title=El Otomí de Ixtenco |location=México, D.F.|publisher=Instituto de Investigaciones Antropológicas, UNAM|isbn=978-968-36-6000-8 |version=(in Otomi and Spanish)}}
+* {{cite book|last=Lastra|first=Yolanda|author-link=Yolanda Lastra |year=1998a|title=Ixtenco Otomí |series=Languages of the world/Materials series |issue=19 |location=München |publisher=LINCOM Europa|isbn=978-3-929075-15-1}}
+* {{cite book|last=Lastra|first=Yolanda|author-link=Yolanda Lastra|year=1998b|chapter=Otomí loans and creations |editor=Jane H. Hill |editor2=P. J. Mistry |editor3=[[Lyle Campbell]] |title=The Life of Language: Papers in Linguistics in Honor of William Bright|series=Trends in linguistics series. Studies and Monographs |issue=108 |location=Berlin |publisher=Mouton de Gruyter|pages=59–101|isbn=978-3-11-015633-1}}
+* {{cite book|last=Lastra|first=Yolanda|author-link=Yolanda Lastra|year=2000|chapter=Otomí language shift and some recent efforts to reverse it|title=Can threatened languages be saved? Reversing Language Shift, Revisited: A 21st Century Perspective|publisher=Multilingual Matters|editor=[[Joshua Fishman]]|isbn=978-1-85359-492-2}}
+* {{cite book|last=Lastra|first=Yolanda|author-link=Yolanda Lastra|year=2001|title=Unidad y diversidad de la lengua. Relatos otomíes|publisher=Instituto de Investigaciones Antropológicas, UNAM|isbn=978-968-36-9509-3 |language=es}}
+* {{cite book|last=Lastra|first=Yolanda|author-link=Yolanda Lastra|year=2006|title=Los Otomies – Su lengua y su historia|publisher=Instituto de Investigaciones Antropológicas, UNAM|isbn=978-970-32-3388-5 |language=es}}
+* {{cite journal|last1=Leon|first1=Frances|last2=Swadesh|first2=Morris|author-link2=Morris Swadesh|title=Two views of Otomi prosody |year=1949 |journal=International Journal of American Linguistics|volume=15|issue=2|pages=100–105 |doi= 10.1086/464028 |jstor=1262769|s2cid=144006207}}
+* {{cite book|last=Lope Blanch|first=Juan M.|year=2004|title=Cuestiones de filología mexicana |series=Publicaciones del Centro de Lingüística Hispánica |issue=52 |location=México, D.F.|publisher=Instituto de Investigaciones Filológicas, UNAM |isbn=978-970-32-0976-7 |language=es}}
+* {{cite book |last=Neve y Molina|first=Luis de|year=2005 |orig-year=1767 |title=Reglas de Orthographia, Diccionario, y Arte del Idioma Othomi |url=http://www.famsi.org/research/boot/neve_y_molina_1767/ |format=PDF |editor=Erik Boot |publisher=Foundation for the Advancement of Mesoamerican Studies|access-date=2006-11-25|language=es}}
+* {{cite journal|last1=Newman|first1=Stanley|first2=Roberto|last2=Weitlaner|title=Central Otomian I:Proto-Otomian reconstructions|journal=International Journal of American Linguistics|volume=16|issue=1|year=1950a|pages=1–19 |doi=10.1086/464056 |jstor=1262748|s2cid=144486505}}
+* {{cite journal|last1=Newman|first1=Stanley|last2=Weitlaner|first2=Roberto|title=Central Otomian II:Primitive central otomian reconstructions|journal=International Journal of American Linguistics|volume=16|issue=2|year=1950b|pages=73–81 |doi= 10.1086/464067 |jstor=1262851|s2cid=143618683}}
+* {{cite journal |last=Palancar |first=Enrique L. |title=Datividad en Otomi |url=http://ojs.unam.mx/index.php/eco/article/download/19104/18131 |journal=Estudios de Cultura Otopame |year=2004a |volume=4 |pages=171–196 }}
+* {{cite journal|last=Palancar|first=Enrique L.|title=Verbal Morphology and Prosody in Otomi|journal=International Journal of American Linguistics|volume=70|issue=3 |year=2004b |pages=251–78 |jstor=3652030 |doi= 10.1086/425601 |s2cid=143924185}}
+* {{cite journal|last=Palancar|first=Enrique L.|title=Intransitivity and the origins of middle voice in Otomi |year=2006a |journal=Linguistics|volume=44|issue=3|pages=613–643 |doi=10.1515/LING.2006.020|s2cid=144073740}}
+* {{cite journal|last=Palancar|first=Enrique L.|title=Property in Otomi: a language with no adjectives|journal=International Journal of American Linguistics|year=2006b|volume=72|issue=3|pages=325–66 |doi=10.1086/509489|s2cid=144634622}}
+* {{cite book|last=Palancar|first=Enrique L.|chapter=Emergence of Active/Stative alignment in Otomi|title= The Typology of Semantic Alignment|editor= Mark Donohue |editor2=[[Søren Wichmann]] |publisher=Oxford University Press |location=New York |year=2008 |isbn=978-0-19-923838-5}}
+* {{cite book|last=Palancar|first=Enrique L.|title=Gramática y textos del hñöñhö Otomí de San Ildefonso Tultepec, Querétaro. Vol 1|year=2009|location=Universidad Autónoma de Querétaro|url=https://www.academia.edu/860683|publisher=Plaza y Valdés|isbn=978-607-402-146-2}}
+* {{cite journal|last=Palancar|first=Enrique L.|year=2011|title=The conjugations of Colonial Otomi|journal= Transactions of the Philological Society|volume=109|issue=3|pages=246–264|doi=10.1111/j.1467-968x.2011.01275.x}}
+* {{cite book |last1=Pellicer|first1=Dora|first2=Bábara|last2=Cifuentes|first3=Carmen|last3=Herrera|year=2006 |chapter=Legislating diversity in twenty-first century Mexico |title=Mexican Indigenous Languages at the Dawn of the Twenty-first Century |editor=Margarita G. Hidalgo |series=Contributions to the Sociology of Language |issue=91|location=Berlin |publisher=Mouton de Gruyter |pages=127–168|isbn=978-3-11-018597-3}}
+* {{cite book|last=Salinas Pedraza|first=Jesús|title=Rc Hnychnyu = The Otomí|year=1978|location=Albuquerque, N.M.|publisher= University of New Mexico Press |isbn=978-0-8263-0484-1}}
+* {{cite journal|last1=Sinclair|first1=Donald|last2=Pike|first2=Kenneth|year=1948|title=Tonemes of Mesquital Otomi|journal=International Journal of American Linguistics|volume=14|issue=1|pages=91–98 |doi=10.1086/463988 |jstor=1263233|s2cid=143650900}}
+* {{cite conference|last=Smith-Stark|first=Thomas|year=2005|title=Phonological Description in New Spain|book-title=Missionary Linguistics II = Lingüística misionera II: Orthography and Phonology| conference= Second International Conference on Missionary Linguistics, São Paulo, 10–13 March 2004|editor=Otto Zwartjes |editor2=Maria Cristina Salles Altman |series=Amsterdam studies in the theory and history of linguistic science. Series&nbsp;III: Studies in the history of the language sciences |issue=109 |location=Amsterdam |publisher=John Benjamins Publishing |pages=3–64|isbn=978-90-272-4600-4}}
+* {{cite book |last=Soustelle|first=Jacques|author-link=Jacques Soustelle|year=1993 |orig-year=1937 |title=La familia Otomí-Pame del México central |edition=Translation of: "La famille Otomí-Pame du Mexique central", doctoral thesis |others=Nilda Mercado Baigorria (trans.) |series=Sección de Obras de Historia |location=México, D.F.|publisher=Centro de Estudios Mexicanos y Centroamericanos, Fondo de Cultura Económica |isbn=978-968-16-4116-0|language=es}}
+* {{cite book |last=Suárez |first=Jorge A. |year=1983 |title=The Mesoamerian Indian Languages |series=Cambridge Language Surveys |location=Cambridge |publisher=Cambridge University Press |isbn=978-0-521-22834-3 |url-access=registration |url=https://archive.org/details/mesoamericanindi0009suar }}
+* {{cite book |last1=Voigtlander|first1=Katherine|last2=Echegoyen|first2=Artemisa|year=1985 |orig-year=1979 |title=Luces Contemporaneas del Otomi: Grámatica del Otomi de la Sierra |series= Serie gramáticas de lenguas indígenas de México |issue=1 |publisher=Instituto Lingüístico de Verano |location=Mexico, D.F. |isbn=978-968-31-0045-0|language=es}}
+* {{cite journal|last=Wallis|first=Ethel E.|title=Mezquital Otomi Verb Fusion |journal=Language |volume=40 |issue=1 |year=1964 |pages=75–82 |doi=10.2307/411926|jstor=411926|publisher=Language, Vol. 40, No. 1}}
+* {{cite journal|last=Wallis|first=Ethel E.|title=The Word and the Phonological Hierarchy of Mezquital Otomi|journal=Language |volume=44|issue=1|year=1968|pages=76–90 |doi=10.2307/411465|jstor=411465|publisher=Language, Vol. 44, No. 1}}
+* {{cite journal|last=Wright Carr |first=David Charles |year=2005a |title=Precisiones sobre el término "otomí" |url=http://www.arqueomex.com/PDFs/S8N5PALABRAotomi.pdf |journal=[[Arqueología Mexicana]] |volume=13 |issue=73 |pages=19 |access-date=2006-12-06 |url-status=dead |archive-url=https://web.archive.org/web/20080509083910/http://www.arqueomex.com/PDFs/S8N5PALABRAotomi.pdf |archive-date=May 9, 2008 |language=es}}
+* {{cite journal|last=Wright Carr|first=David Charles|year=2005b|title=Lengua, cultura e historia de los otomíes|url=http://www.arqueomex.com/S2N3nLosOtomies73.html|journal=Arqueología Mexicana|volume=13|issue=73|pages=26–2|language=es|url-status=dead|archive-url=https://web.archive.org/web/20110226215022/http://www.arqueomex.com/S2N3nLosOtomies73.html|archive-date=2011-02-26}}
+* {{cite book|last=Zimmermann|first=Klaus|chapter= La descripción del otomí/hñahñu en la época colonial: lucha y éxito |year=1997 |editor-last=Zimmermann |editor-first=Klaus |title=La descripción de las lenguas amerindias en la época colonial |location=Frankfurt am Main |publisher=Vervuert/Madrid: Iberoamericana 1997|pages=113–132}}
+* {{cite book|last=Zimmermann|first=Klaus|chapter= El autor anónimo de ’Luces del otomí’ (manuscrito del siglo XVIII): ¿El primer historiógrafo de la lingüística misionera?|year=2012|editor1=Alfaro Lagorio Consuelo |editor2=Rosa, Maria Carlota |editor3=Freire, José Ribamar Bessa |title=Políticas de línguas no Novo Mundo|location=Rio de Janeiro|publisher=Editora da UERJ|pages=13–39}}
+* {{Cite web|url=https://site.inali.gob.mx/Micrositios/estadistica_basica/estadisticas2015/V_familia_oto_mangue.html|title=Estadística básica de la población hablante de lenguas indígenas nacionales 2015|website=site.inali.gob.mx|access-date=2019-10-26}}</ref>
+{{refend}}
+
+==Further reading==
+{{refbegin|indent=yes}}
+* {{cite journal |author=Bartholomew, Doris   |year=1963|title=El limosnero y otros cuentos en otomí|journal=Tlalocan |volume=4 |issue=2|pages=120–124 |doi=10.19130/iifl.tlalocan.1963.315|issn=0185-0989 |language=es|doi-access=free}}
+* {{cite journal|author=Hensey, Fritz G.  |title=Otomi Phonology and Spelling Reform with Reference to Learning Problems |journal=International Journal of American Linguistics|volume=38|issue=2|year=1972|pages=93–95 |jstor=1265043 |doi=10.1086/465191|s2cid=144890785 }}
+* {{cite book|author=Lastra, Yolanda  |year=1989|title=Otomi de San Andrés Cuexcontitlan, Estado de México |series=Archivo de Lenguas Indígenas de México |issue=13|url=http://www.eric.ed.gov/ERICWebPortal/contentdelivery/servlet/ERICServlet?accno=ED378799 |format=PDF |location=México D.F.|publisher=[[El Colegio de México]] |isbn=978-968-12-0411-2|language=es}}
+* {{cite journal|author=Palancar, Enrique L.  |title=Cutting and breaking verbs in Otomi: An example of lexical specification |year=2007|journal=Cognitive Linguistics|volume=18|issue=2|pages=307–317 |doi=10.1515/COG.2007.018|s2cid=145122834 }}
+* {{cite journal|author=Palancar, Enrique L.  |title=Juxtaposed Adjunct Clauses in Otomi: Expressing Both Depictive and Adverbial Semantics|year=2008|journal=International Journal of American Linguistics|volume=74|issue=3|pages= 365–392 |doi=10.1086/590086|s2cid=144994029}}
+* {{cite journal|author=Wallis, Ethel E.  |title=Simulfixation in Aspect Markers of Mezquital Otomi|journal=Language |volume=32 |issue=3 |year=1956 |pages=453–59 |doi=10.2307/410566|jstor=410566}}
+{{refend}}
+
+==External links==
+{{Incubator|code= ote/Ndänxi}}
+{{sister project |project=wiktionary |text=[[Wiktionary]] has a list of reconstructed forms at '''''[[Wiktionary:Appendix:Proto-Otomi reconstructions|Appendix:Proto-Otomi reconstructions]]'''''}}
+* [http://wold.clld.org/vocabulary/35 Otomi Vocabulary List] (from the World Loanword Database)
+* [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists_for_Oto-Manguean_languages Comparative Otomi Swadesh vocabulary list] (from Wiktionary)
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0214 Otomi language documentation materials]
+
+{{Oto-Pamean languages}}
+{{Oto-Manguean languages}}
+{{Languages of Mexico}}
+
+{{DEFAULTSORT:Otomi Language}}
+[[Category:Otomi language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Endangered languages]]

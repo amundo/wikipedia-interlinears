@@ -1,0 +1,49 @@
+{{Short description|Kalenjin language spoken in Kenya and Uganda}}
+{{Infobox language
+|name=Sabaot
+|nativename=Sebei
+|states=[[Kenya]]/[[Uganda]]
+|region=[[Mount Elgon]]
+|ethnicity=[[Sabaot people]]/[[Sebei people]]
+|speakers={{sigfig|241,000|2}}
+|date=2009 census
+|ref=e18
+|familycolor=Nilo-Saharan
+|fam2=[[Eastern Sudanic languages|Eastern Sudanic]]
+|fam3=[[Nilotic languages|Nilotic]]
+|fam4=[[Southern Nilotic languages|Southern Nilotic]]
+|fam5=[[Kalenjin languages|Kalenjin]]
+|fam6=[[Elgon languages|Elgon]]
+|dia1=Bong’omeek (Bong’om)
+|dia2=Koony (Kony)
+|dia3=Book (Pok)
+|iso3=spy
+|glotto=saba1262
+|glottorefname=Sabaot
+}}
+
+'''Sabaot''' (''Sebei'') is a [[Kalenjin language]] of [[Kenya]]. The [[Sabaot people]] live around [[Mount Elgon]] in both Kenya and [[Uganda]]. The hills of their homeland gradually rise from an elevation of 5,000 to 14,000 feet. The [[Kenya]]–[[Uganda]] border goes straight through the mountain-top, cutting the Sabaot homeland into two halves.<ref>https://joshuaproject.net/assets/media/profiles/text/t14623_ke.pdf</ref>
+
+==Grammar==
+Typical of [[Nilotic languages]], Sabaot uses [[Advanced tongue root|advanced tongue root (ATR)]] to express some morphological operations:
+
+{{interlinear|indent=2
+|top=kɔ̀ɔmnyɔɔnɔɔté
+|ka- a- mnyaan -aa -tɛ -ATR
+|PAST- 1SG- be.sick -STAT -DIR -IMPERF
+|"I went being sick (but I am not sick now)."}}
+
+{{interlinear|indent=2
+|top=káámnyáánáátɛ́
+|ka- a- mnyaan -aa -tɛ
+|PAST- 1SG- be.sick -STAT -DIR
+|"I became sick while going away (and I'm still sick).<ref>Payne, Thomas E. (1997). ''[https://books.google.com/books?id=LC3DfjWfCiwC&printsec=frontcover#v=onepage&q=Sabaot&f=false Describing morphosyntax: A guide for field linguists]''. Cambridge: Cambridge University Press. p. 29</ref>}}
+
+==References==
+Sabaot SIDO Website:<ref>http://www.sabaots.com</ref>
+{{Reflist}}
+
+{{Eastern Sudanic languages}}
+{{Authority control}}
+
+[[Category:Kalenjin languages]]

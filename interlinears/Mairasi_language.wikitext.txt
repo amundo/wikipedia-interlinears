@@ -1,0 +1,163 @@
+{{Short description|Papuan language spoken in Indonesia}}
+{{Infobox language
+|name=Mairasi
+|region=[[Bomberai Peninsula]]
+|states=[[West Papua (province)|West Papua]], [[Indonesia]]
+|speakers=3,300
+|date=1996
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Mairasi languages|Mairasi]]
+|iso3=zrs
+|glotto=nucl1594
+|glottorefname=Mairasi
+}}
+
+'''Mairasi''' ({{a.k.a.}} '''Faranyao''' and '''Kaniran''') is a [[Papuan languages|Papuan language]] of the [[Bomberai Peninsula]] of [[West Papua (Indonesian province)|West Papua]], [[Indonesia]].
+
+The Northeastern dialect may be a distinct language.
+
+==Distribution==
+Locations:<ref name="Ronsumbre-2020">{{cite book |last=Ronsumbre |first=Adolof |year=2020 |title=Ensiklopedia Suku Bangsa di Provinsi Papua Barat |location=Yogyakarta |publisher=Penerbit Kepel Press |isbn=978-602-356-318-0}}</ref>
+
+*[[Kaimana Regency]]
+**Interior villages: Umbran, Jamna Fata, Matna, Tarwata, Sara, Kasira, Orai, Wangatnau, Faranyau, and Sarifan
+**Coastal villages: Sisir, Foroma Jaya, Warasi, Lobo, Lomira, Morona, Nanggwaromi, Omay (May may), and Warika
+*[[Teluk Wondama Regency]]
+**Naikere District villages: Sararti, Oya, Yabore, Wosimo, Undurara, and Inyora
+
+==Phonology==
+{| class="wikitable" style="text-align:center;"
+|+ Consonants<ref name="Foley-NWNG"/>
+!colspan=2|
+! Bilabial
+! Alveolar
+! Post-<br>alveolar
+! Velar
+! Glottal
+|-
+!colspan=2| Nasal
+| {{IPAlink|m}} || {{IPAlink|n}} ||  ||  || 
+|-
+!rowspan=2| Plosive
+! {{small|voiceless}}
+|  || {{IPAlink|t}} ||  ||  || {{IPAlink|ʔ}}
+|-
+! {{small|voiced}}
+| {{IPAlink|b}} || {{IPAlink|d}} || {{IPAlink|ʤ}} || {{IPAlink|ɡ}} || 
+|-
+!rowspan=2| Fricative
+! {{small|voiceless}}
+| {{IPAlink|ɸ}} || {{IPAlink|s}} ||  ||  || 
+|-
+! {{small|voiced}}
+| {{IPAlink|β}} ||  ||  ||  || 
+|-
+!colspan=2| Liquid
+|  || {{IPAlink|r}} ||  ||  || 
+|-
+!colspan=2| Semivowel
+| {{IPAlink|w}} ||  ||  ||  || 
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+ Vowels<ref name="Foley-NWNG"/>
+! !! Front !! Back
+|-
+! Close
+| {{IPAlink|i}} || {{IPAlink|u}}
+|-
+! Mid
+| {{IPAlink|e}} || {{IPAlink|o}}
+|-
+! Back
+| {{IPAlink|a}} || 
+|}
+
+==Pronouns==
+Mairasi possessor prefixes are:<ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433–568 |isbn=978-3-11-028642-7}}</ref>
+:{| {{table}}
+!  !! sg !! pl
+|-
+! 1
+| o- || ee-
+|-
+! 2
+| ne- || e-
+|-
+! 3
+| na- || ne-
+|}
+
+==Morphology==
+===Case markers===
+Noun phrase [[case marker]]s in Mairasi:<ref name="Foley-NWNG"/>{{rp|546}}
+*instrumental suffix -''t''
+*locative postposition ''ar''
+*[[allative]] postposition ''ev(i)''
+
+Some examples:
+{{interlinear|number=ex:|ovuru-'''t'''|machete-INSTR|‘with a machete’}}
+{{interlinear|number=ex:|weso '''ar'''|house LOC|‘in the house’}}
+{{interlinear|number=ex:|mundu '''evi'''|village ALL|‘to the village’}}
+
+===Possessors===
+Mairasi possessor prefixes:<ref name="Foley-NWNG"/>{{rp|546}}
+:{| {{table}}
+!  !! sg !! pl
+|-
+! 1
+| o- || ee-
+|-
+! 2
+| ne- || e-
+|-
+! 3
+| na- || ne-
+|}
+
+Examples of [[inalienable possession|inalienable possessors]]:
+{{interlinear|number=ex:|'''ee'''-rovo|1PL.POSS-hand|‘our hands’}}
+{{interlinear|number=ex:|'''na'''-iambi|3SG.POSS-skin|‘his skin’}}
+
+===Directionals===
+Mairasi has two directional suffixes, which are only used with movement verbs.<ref name="Foley-NWNG"/>{{rp|549}}
+*''-aʔi'' ‘up, inland’
+*''-ari'' ‘down, seaward’
+
+Examples of directional suffixes in use:
+{{interlinear|number=ex:|o-is-'''aʔi'''|1SG.SBJ-stand-up|‘I stand up’}}
+{{interlinear|number=ex:|o-fon-'''ari'''|1SG.SBJ-sit-down|‘I sit down’}}
+
+===Animacy===
+[[Animacy]] is marked by the adjective modifier ''n''-, as exemplified by the contrast in the following two noun phrases.<ref name="Foley-NWNG"/>{{rp|546}}
+
+{{interlinear|number=ex:
+|fariri Ø-avwer
+|word INAN-big
+|‘a big word’}}
+
+{{interlinear|number=ex:
+|fariri '''n'''-avwer
+|word ANIM-big
+|‘a long-winded person’}}
+
+Vowel changes can modify the number of animate nouns:<ref name="Foley-NWNG"/>{{rp|546}}
+
+{{interlinear|number=ex:
+|uratu n-avwer
+|fish ANIM-big.SG
+|‘a big fish’}}
+
+{{interlinear|number=ex:
+|uratu n-'''e'''vwer
+|fish ANIM-big.PL
+|‘big fishes’}}
+
+==References==
+{{Reflist}}
+
+{{Languages of Indonesia}}
+
+[[Category:Languages of western New Guinea]]
+[[Category:Mairasi languages]]

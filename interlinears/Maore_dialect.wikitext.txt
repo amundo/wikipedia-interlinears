@@ -1,0 +1,294 @@
+{{Short description|Comorian dialect spoken in Mayotte}}
+{{Distinguish|Māori language}}
+{{Infobox language
+|name=Maore
+|nativename=''Shimaore''
+|states=[[Mayotte]], [[Madagascar]]
+|speakers=152,000
+|date=2012
+|ref=<ref>{{Cite news|url=https://www.ethnologue.com/language/swb|title=Comorian, Maore|work=Ethnologue|access-date=2018-08-03|language=en}}</ref>
+|familycolor=Niger-Congo
+|fam2=[[Atlantic–Congo languages|Atlantic–Congo]]
+|fam3=[[Benue–Congo languages|Benue–Congo]]
+|fam4=[[Bantoid languages|Bantoid]]
+|fam5=[[Bantu languages|Bantu]]
+|fam6=[[Northeast Coast Bantu]]
+|fam7=[[Sabaki languages|Sabaki]]
+|fam8=[[Comorian language|Comorian]]
+|iso3=swb
+|glotto=maor1244
+|glottorefname=Maore Comorian
+|guthrie=G.44d
+|notice=IPA
+}}
+
+'''Maore Comorian''', or '''''Shimaore''''' ([[French language|French]] ''Mahorais''), is one of the two indigenous languages spoken in the [[France|French]]-ruled [[Comoro Islands|Comorian]] islands of [[Mayotte]]; Shimaore being a dialect of the [[Comorian language]], while [[Bushi language|ShiBushi]] is an unrelated [[Malayo-Polynesian languages|Malayo-Polynesian language]] originally from [[Madagascar]].  Historically, Shimaore- and ShiBushi-speaking villages on Mayotte have been clearly identified, but Shimaore tends to be the ''de facto'' indigenous ''[[lingua franca]]'' in everyday life, because of the larger Shimaore-speaking population.  Only Shimaore is represented on the local television news program by [[Réseau France Outre-mer|RFO]].  The 2002 census references 80,140 speakers of Shimaore in Mayotte itself, to which one would have to add people living outside the island, mostly in metropolitan France.  There are also 20,000 speakers of Comorian in Madagascar, of which 3,000 are Shimaore speakers.
+
+The same 2002 census indicates that 37,840 persons responded as knowing how to read or write Shimaore.  However this number has to be taken with caution, since it was a few years after this census was taken that a standard writing system was introduced.
+
+From a [[sociolinguistics|sociolinguistic]] perspective, [[French language|French]] tends to be regarded by many Shimaore speakers as the language of higher education and prestige, and there is a temptation by native Mahorans to provide an all-French education to their children.  This puts a lot of pressure on Shimaore and the language may become endangered in the near future if nothing is done.{{Citation needed|date=November 2009}}
+
+Although French remains the official language in Mayotte, Shimaore will probably be taught in Mahoran schools starting in the next few years,{{when|date=February 2020}} and a pilot project began in fall 2004.  As in many parts of France where local languages are introduced in the school system, this has led to tensions between partisans of a French-centered education system and administrations, versus those promoting a more diversified approach.{{Citation needed|date=November 2009}}  Shimaore's position in this regard is however different from other French regions (such as [[Brittany]]), since the language is locally spoken by a majority of the population.  The project in Mayotte has been inspired by similar projects involving [[Swahili language|Swahili]] in eastern Africa countries.
+
+Mayotte is a geographically small territory, but frequent exchanges between villages only began in the last quarter of the twentieth century.  As of 2004, linguistic differences between the east and west part of the island, and between the main city of Mamoudzou and the remote villages, are still noticeable, especially when it comes to phonological differences.  One typical example is the word ''u-la'' (to eat), notably pronounced this way in the city due to the influence of a brand of yogurt bearing the same name, but pronounced ''u-dja'' in other parts of the island.
+
+==Orthography and phonology==
+Shimaore was traditionally written with an informal [[French alphabet|French]]-based [[Latin script|Latin]] alphabet.  On 22 February 2006, the ''Conseil de la Culture, de l'Education et de l'Environnement de Mayotte'' introduced an official alphabet developed by ''Association ShiMé'' that utilizes the basic Latin alphabet without c, q, and x and adds three letters: ɓ, ɗ, and v̄.<ref>[http://shime.free.fr/linguist_04.htm Alphabet du Shimaore] {{webarchive|url=https://web.archive.org/web/20110720225949/http://shime.free.fr/linguist_04.htm |date=2011-07-20 }} {{in lang|fr}}</ref> On March 3, 2020, the Conseil départemental de Mayotte announced the adoption of official orthographies in both Latin and Arabic scripts for Shimaore.<ref>https://cg976.fr/ressources/raa/2020/?file=bulletinofficiel_30032020</ref><ref>https://cg976.fr/ressources/dcp/?file=alphabets-langues-mahoraises</ref>
+
+{| class="wikitable" style="text-align:center"
+|+'''Shimaore alphabet<br>''Alifuɓe ya Shimaore'''''
+|-
+! [[Letter (alphabet)|Letter]] || '''A a''' || '''B b''' || '''Ɓ ɓ'''<br>''<small>[[implosive consonant|Implosive]]</small>'' || '''D d''' || '''Ɗ ɗ'''<br>''<small>[[implosive consonant|Implosive]]</small>'' || '''E e''' || '''F f''' || '''G g''' || '''H h''' || '''I i''' || '''J j''' || '''K k''' || '''L l''' || '''M m''' || '''N n''' || '''O o''' || '''P p''' || '''R r''' || '''S s''' || '''T t''' || '''U u''' || '''V v''' || '''V̄ v̄''' || '''W w''' || '''Y y''' || '''Z z'''
+|- 
+| [[International Phonetic Alphabet|IPA Value]] || {{IPA|/a/}} || {{IPA|/b/}} || '''{{IPAslink|ɓ}}''' || {{IPA|/d/}} || '''{{IPAslink|ɗ}}''' || {{IPA|/e/}} || {{IPA|/f/}} || {{IPA|/ɡ/}} || {{IPA|/h/}} || {{IPA|/i/}} || {{IPAslink|ʒ}} || {{IPA|/k/}} || {{IPA|/l/}} || {{IPA|/m/}} || {{IPA|/n/}} || {{IPA|/o/}} || {{IPA|/p/}} || {{IPA|/r/}} || {{IPA|/s/}} || {{IPA|/t/}} || {{IPA|/u/}} || {{IPA|/v/}} || {{IPAslink|β}} || {{IPA|/w/}} || {{IPAslink|j}} || {{IPA|/z/}}
+|}
+{| class="wikitable" style="text-align:center"
+|+Digraphs/Trigraphs
+![[Letter (alphabet)|Letter]]
+!Dh, dh
+!Dj, dj
+!Dr, dr
+!Dz, dz
+!Mb, mb
+!Mp, mp
+!Nd, nd
+!Ndj, ndj
+!Ndr, ndr
+!Ndz, ndz
+!Ng, ng
+!Nts, nts
+!Ny, ny
+!Sh, sh
+!Th, th
+!Tr, tr
+!Ts, ts
+!Tsh, tsh
+|-
+|[[International Phonetic Alphabet|IPA Value]]
+|{{IPA|/ð/}}
+|{{IPA|/d͡ʒ/}}
+|{{IPA|/ɖ/}}
+|{{IPA|/d͡z/}}
+|{{IPA|/mb/}}
+|{{IPA|/mp/}}
+|{{IPA|/nd/}}
+|{{IPA|/nd͡ʒ/}}
+|{{IPA|/nɖ/}}
+|{{IPA|/nd͡z/}}
+|{{IPA|/ŋɡ/}}
+|{{IPA|/nt͡s/}}
+|{{IPA|/ɲ/}}
+|{{IPA|/ʃ/}}
+|{{IPA|/θ/}}
+|{{IPA|/ʈ/}}
+|{{IPA|/t͡s/}}
+|{{IPA|/t͡ʃ/}}
+|}
+
+===Phonology===
+====Consonants====
+
+{| class="wikitable"
+! colspan="2" |
+! Labial
+!Labio-<br>dental
+! Dental
+! Alveolar
+! Retroflex 
+! Palatal
+! Velar
+! Glottal
+|- align="center"
+! colspan="2" |Nasal
+| {{IPA|m}}
+|
+| 
+| {{IPA|n}}
+|
+| {{IPA|ɲ}}
+|
+|
+|- align="center"
+! rowspan="4" |Plosive
+! <small>voiceless</small>
+| {{IPA|p}}
+|
+|
+| {{IPA|t}}
+| {{IPA|ʈ}}
+|
+| {{IPA|k}}
+|
+|- align="center" 
+! <small>voiced</small>
+| {{IPA|b}}
+|
+|
+| {{IPA|d}}
+| {{IPA|ɖ}}
+|
+| {{IPA|ɡ}}
+|
+|- align="center"
+! <small>implosive</small>
+| {{IPA|ɓ}}
+|
+|
+| {{IPA|ɗ}}
+|
+|
+|
+|
+|- align="center" 
+! <small>prenasal</small>
+| {{IPA|ᵐp, ᵐb}}
+|
+|
+| {{IPA|ⁿd}}
+| {{IPA|ᶯɖ}}
+|
+| {{IPA|ᵑɡ}}
+|
+|- align="center"
+! rowspan="3" |Affricate
+!<small>voiceless</small>
+|
+|
+|
+|{{IPA|ts}}
+|
+|{{IPA|tʃ}}
+|
+|
+|- align="center"
+!<small>voiced</small>
+|
+|
+|
+|{{IPA|dz}}
+|
+|{{IPA|dʒ}}
+|
+|
+|- align="center"
+!<small>prenasal</small>
+|
+|
+|
+|{{IPA|ⁿts, ⁿdz}}
+|
+|{{IPA|ᶮdʒ}}
+|
+|
+|- align="center"
+! rowspan="2" |Fricative
+! <small>voiceless</small>
+|
+| {{IPA|f}}
+| {{IPA|θ}}
+| {{IPA|s}}
+|
+|{{IPA|ʃ}}
+|
+| {{IPA|h}}
+|- align="center"
+!<small>voiced</small>
+|{{IPA|β}}
+|{{IPA|v}}
+|{{IPA|ð}}
+|{{IPA|z}}
+|
+|{{IPA|ʒ}}
+|
+|
+|- align="center"
+! colspan="2" |Rhotic
+|
+|
+|
+|{{IPA|r}}
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |Approximant
+|
+|
+|
+| {{IPA|l}}
+|
+| {{IPA|j}}
+| {{IPA|w}}
+|
+|}
+
+This language features an unusual contrast between {{IPA|/β/}} and {{IPA|/v/}}.
+
+====Vowels====
+{| class="wikitable"
+!
+! Front
+! Central
+! Back
+|- align="center"
+! High
+| {{IPA|i}}
+|
+| {{IPA|u}}
+|- align="center"
+! Mid
+| {{IPA|e}}
+|
+| {{IPA|o}}
+|- align="center"
+! Low
+|
+| {{IPA|a}}
+|
+|}
+
+This is a basic five-vowel system similar to that of languages like [[Spanish language|Spanish]].
+
+==Grammar==
+===Noun classes===
+{{interlinear|indent=3
+|'''zi'''-mbuzi '''z'''-angu '''z'''-endr-e ɓazari
+|'''CL10'''.DEF-goat '''CL10'''-AGR-my '''CL10'''.{{gcl|SM|subject marker}}-go-{{gcl|VH|vowel harmony}}.RET market
+|'My goats went to the market.'}}
+
+{{interlinear|indent=3
+|'''wa'''-ntru-washe '''wa'''-raru '''wa'''-ngu
+|'''CL2'''-person-female '''CL2'''.AGR-three '''CL2'''.AGR-my
+|'my three wives' (Rombi 1983: 123)}}
+
+<ref>''The Clause Structure Of The Shimaore Dialect Of Comorian (Bantu)'' by Aimee Johansen Alnet, p. 58</ref>
+
+==See also==
+*[[Abdou Baco]]
+
+==Notes==
+{{Reflist|1}}
+
+==See also==
+*[[Mayotte#Languages|Mayotte: Languages]]
+
+==Bibliography==
+* Blanchy, Sophie (1987). ''L'interprète. Dictionnaire Mahorais - Français et Français - Mahorais''. CMAC, Mayotte. L'Harmattan, Paris.
+* Cornice, Abdillahi D. (1999). ''Manuel grammatical de shimaore''. Mamoudzou, Mayotte: L'Association SHIME - Le SHImaorais MEthodique.
+* Johansen Alnet, Aimee (2009). ''The clause structure of the Shimaore dialect of Comorian (Bantu)''. Ph.D thesis. University of Illinois at Urbana-Champaign, Urbana, Illinois.
+* Kordji, Chamsidine, Martine Jaquin, et alia (1999). ''Narifundrihe shimaore - Apprenons le shimaore''. Association SHIME, Mamoudzou.
+* Maandhui, Ousseni (1996). ''Parlons Shimaore''. Editions du Baobab, Mamoudzou.
+* Rombi, Marie-Françoise (1983). ''Le Shimaore (Île de Mayotte, Comores): Première approche d'un parler de la langue comorienne''. Paris: Société d'Etudes Linguistiques et Anthropologiques de France (SELAF).
+
+==External links==
+*[http://ylangue.free.fr/ Ylangue]
+*[http://shime.free.fr/ SHIME]
+*[http://perso.telecom-bretagne.eu/aimeejohansen/data/Publications/Aimee_Johansen_Alnet_thesis.pdf Johansen Alnet's Thesis]
+
+{{Languages of Comoros}}
+{{Mayotte topics}}
+{{Authority control}}
+
+[[Category:Languages of the Comoros]]
+[[Category:Mahoran culture]]

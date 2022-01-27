@@ -1,0 +1,66 @@
+{{Short description|Khoe language spoken in Botswana}}
+{{Infobox language
+|name=Shua
+|nativename=
+|states=[[Botswana]]
+|speakers=2,000
+|date=2013
+|ref=<ref>{{Cite news|url=https://www.ethnologue.com/language/shg|title=Shua|work=Ethnologue|access-date=2018-05-22|language=en}}</ref>
+|familycolor=Khoisan
+|fam1=[[Khoisan languages|Khoisan]] (Umbrella term)
+|fam2=[[Khoe languages|Khoe]]
+|fam3=Kalahari (Tshu–Khwe)
+|fam4=East
+|iso3=shg
+|glotto=shua1254
+|glottorefname=Shua
+}}
+
+'''Shua''' {{IPAc-en|ˈ|ʃ|uː|ə}}, or ''Shwakhwe'', is a [[Khoe languages|Khoe language]] of [[Botswana]].  It is spoken in central Botswana (in [[Nata, Botswana|Nata]] and its surroundings), and in parts of the Chobe District in the extreme north of Botswana.  There are approximately 6,000 speakers (Cook 2004).  The term ''Shwakhwe'' means people (''khwe'') from the salty area (''shwa'').
+
+==Syntax==
+Unlike most Khoisan languages, but like [[Nama language|Nama]], the most neutral word order is SOV, though word order is relatively free. As with most Khoisan languages, there are postpositions. There is a tense-aspect marker ''ke'' which often appears in second position in affirmative sentences in the present tense, giving X Aux S O V order (e.g. S Aux O V).
+
+{{interlinear|number=ex:
+|Kʼarokwa ke <nowiki>ǀ</nowiki>ʼuizi ʼa gam
+|boys ASP rock-PL OBL throw
+|"The boys are throwing rocks"}}
+
+{{interlinear|number=ex:
+|<nowiki>ǀ</nowiki>ʼui-zi ʼa ke kʼarokwa gam
+|rock-PL OBL ASP boys throw
+|"The boys are throwing rocks"}}
+
+This marker appears first in certain subordinate clauses in a manner reminiscent of V2 languages such as German, where a clause-initial complementizer is in complementary distribution with a second position phenomenon (in German, it would be the finite verb which appears in second position).
+
+==Dialects==
+Shua is a [[dialect cluster]]. 
+*Deti (10 or fewer speakers)<ref>{{Cite book|url=https://books.google.com/books?id=sl_dDVctycgC&pg=RA1-PA362|title=International Encyclopedia of Linguistics: AAVE-Esperanto. Vol. 1|date=2003|publisher=Oxford University Press|isbn=9780195139778|language=en}}</ref>
+*Ganádi
+*Shwa-khwe
+*Nǀoo-khwe
+*Kǀoree-khoe ''or'' ǀOree-khwe
+*ǁʼAiye ''or'' ǀAaye
+*ǀXaise ''or'' ǀTaise
+*Tshidi-khwe ''or'' Tcaiti ''or'' Sili ''or'' Shete Tsere
+*Danisi ''or'' Demisa ''or'' Madenasse ''or'' Madinnisane
+*Cara
+*ǁGoro ''or'' ǀXaio
+
+The term Hietshware (Hietʃware, Hietʃo) is used for varieties of both Shua and its sister-language [[Tshwa language|Tshwa]].
+
+[[Tsʼixa]] (200 speakers) is evidently a distinct language.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\ckh\kho&limit=-1 Shua basic lexicon at the Global Lexicostatistical Database]
+{{Khoisan}}
+{{Languages of Botswana}}
+
+[[Category:Khoe languages]]
+[[Category:Languages of Botswana]]
+
+
+{{lang-stub}}

@@ -1,0 +1,952 @@
+{{short description|Austronesian language spoken in the Solomon Islands}}
+{{Infobox language
+|name        = Kokota 
+|nativename  = ''Ooe Kokota''
+|states      = [[Solomon Islands]]
+|region      = 3 villages on the Island [[Santa Isabel Island|Santa Isabel]]: Goveo, Sisiḡa, Honiara
+|ethnicity   = [[Kokota (people)|Kokota]]
+|speakers    = 1,200
+|date        = 2009
+|ref         = <ref name="Kokota Grammar">{{cite book |last1=Palmer |first1=Bill |title=Kokota Grammar |date=2009 |publisher=University of Hawaiʻi Press |location=Honolulu |isbn=9780824832513}}</ref>
+|familycolor = Austronesian
+|fam2        = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3        = [[Oceanic languages|Oceanic]]
+|fam4        = [[Western Oceanic languages]]
+|fam5        = [[Meso-Melanesian languages|Meso-Melanesian]]
+|fam6        = New Ireland network
+|fam7        = South New Ireland/ Northwest Solomonic network
+|fam8        = [[Santa Isabel languages|Santa Isabel]]
+|fam9        = [[Central Santa Isabel languages|Central Santa Isabel]]
+|iso3        = kkk
+|glotto      = koko1269
+|glottorefname=Kokota
+|notice = IPA
+}}
+
+{{Location map+ |Solomon Islands
+|relief = 1
+|width      = 300
+|float      = right
+|caption    = Location of Santa Isabel in Solomon Island Chain
+|places = 
+ {{Location map~ | Solomon Islands
+ | label      = Santa Isabel
+ | position   = right
+ | mark       = Cyan pog.svg
+ | lat_deg = 7 | lat_min = 66 | lat_dir = S
+ | lon_deg = 158 | lon_min = 62 | lon_dir = E
+ }}
+}}
+
+'''Kokota''' (also known as '''Ooe Kokota''') is spoken on [[Santa Isabel Island]], which is located in the [[Solomon Islands|Solomon Island]] chain in the Pacific Ocean. Santa Isabel is one of the larger islands in the chain, but it has a very low population density. Kokota is the main language of three villages: Goveo and Sisigā on the North coast, and Hurepelo on the South coast, though there are a few speakers who reside in the capital, Honiara, and elsewhere. The language is classified as a 6b (threatened) on the [[Graded Intergenerational Disruption Scale]] (GIDS). To contextualize '6b', the language is not in immediate danger of extinction since children in the villages are still taught Kokota and speak it at home despite English being the language of the school system. However, Kokota is threatened by another language, [[Cheke Holo language|Cheke Holo]], as speakers of this language move, from the west of the island, closer to the Kokota-speaking villages. Kokota is one of 37 languages in the Northwestern Solomon Group, and as with other Oceanic languages, it had limited morphological complexity.<ref name="Kokota Grammar" />{{Rp|3}}
+
+Kokota uses little affixation and instead relies heavily on cliticization, full and partial reduplication, and compounding. Phonologically, Kokota has a diverse array of vowels and consonants and makes interesting use of stress assignment. Regarding its basic syntax, Kokota is consistently head-initial. The sections below expand on each of these topics to give an overview of the Kokota language.
+
+==Phonology==
+The phonemic inventory of Kokota consists of 22 consonants and 5 vowels.<ref name="Kokota Grammar" />{{Rp|5, 14}}
+
+===Vowels===
+Kokota has five vowel phonemes as shown in the [[International Phonetic Alphabet]] (IPA) chart below and uses no phonemic diphthongs.<ref name="Kokota Grammar" />{{Rp|14}} There are two front vowels, /i/ and /e/, one central vowel, /a/, and two back vowels: a maximally rounded /u/ and a slightly rounded /o/.<ref name="Kokota Grammar" />{{Rp|14}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Vowel Phonemes
+! &nbsp; || [[Front vowel|Front]]|| [[Central vowel|Central]]|| [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| i {{IPAslink|i}} || &nbsp; || u {{IPAslink|u}}
+|-
+! [[Mid vowel|Mid]]
+| e {{IPAslink|e}} || &nbsp; || o {{IPAslink|o}}
+|-
+! [[Low vowel|Low]]
+| &nbsp; || a {{IPAslink|a}} || &nbsp;
+|}
+
+Kokota does not contain any phonemic diphthongs; however they do occur in normal speech. Only certain vowel sequences are eligible for diphthonisation. Sequences may only diphthongise if the second vowel present is higher than the first. Front-back and back-front movements are not eligible to become diphthongs. This leaves six diphthongs able to occur {{harvcol|Palmer|1999|pp= 21–22}}: /ae/, /ai/, /ao/, /au/, /ei/ and /ou/. Diphthongisation is also not restricted by morpheme boundaries. Thus, any sequence of eligible vowels may diphthongise.
+
+===Consonants===
+Kokota orthography is heavily influenced by that of Cheke Holo. For instance, glottal stops are not phonemic in Kokota but are often written with an apostrophe (as in Cheke Holo) when they occur in certain nondistinctive environments, such as to mark morpheme boundaries between neighboring vowels. Similarly, Cheke Holo distinguishes ''j'' and ''z'' but Kokota does not. Nevertheless, Kokota speakers tend to use either letter to write phonemic /z/. The [[Macron (diacritic)|macron]] is used to write the [[voiced velar plosive]] {{IPA|/ɡ/}} and the [[velar nasal]] {{IPA|/ŋ/}}.
+
+Most consonants distinguish [[Voice (phonetics)|voiceless and voiced]] versions (left and right respectively in each cell in the table). Kokota presents a rather uncommon set of consonant phonemes in that each and every phoneme exists in a pair with its voiced or voiceless opposite. There are 22 consonant phonemes in total – 11 place and manner pairs of voiced and voiceless {{harvcol|Palmer|1999|p= 12}} and five contrastive manners.<ref name="Kokota Grammar" />{{Rp|5}} Two are obstruent classes which are fricative and plosive and three are sonorant classes which are lateral, nasal, and rhotic.<ref name="Palmer2"/> Its six fricative phonemes make Kokota a relative outlier in Oceanic, where 2-3 fricatives are usual.<ref name=":0" />
+The amount of voiced and voiceless consonants and vowels is nearly equal with the percentage being 52% voiced and 48% voiceless.<ref name="Palmer2">{{cite web|url=http://site.ebrary.com.eres.library.manoa.hawaii.edu/lib/uhmanoa/reader.action?docID=10388444|title=Kokota Grammar|website=ProQuest ebrary|publisher=University of Hawaii Press|last1=Palmer|first1=Bill|access-date=12 September 2016}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Consonant Phonemes
+! 
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan="2" | [[Nasal consonant|Nasal]]
+| mh {{IPAslink|m̥}} || nh {{IPAslink|n̥}} || n̄h {{IPAslink|ŋ̊}} || 
+|-
+| m {{IPAslink|m}} || n {{IPAslink|n}} || n̄ {{IPAslink|ŋ}} || 
+|-
+! rowspan="2" | [[Plosive]]
+| p {{IPAslink|p}} || t {{IPAslink|t}} || k {{IPAslink|k}} || 
+|-
+| b {{IPAslink|b}} || d {{IPAslink|d}} || ḡ {{IPAslink|g}} || 
+|-
+! rowspan="2" | [[Fricative]]
+| f {{IPAslink|f}} || s {{IPAslink|s}} || || h {{IPAslink|h}}
+|-
+| v {{IPAslink|v}} || z {{IPAslink|z}} || g {{IPAslink|ɣ}} || 
+|-
+! rowspan="2" | [[Rhotic consonant|Rhotic]] ([[Tap and flap consonants|Tap]])
+| || rh {{IPAslink|ɾ̥}} || || 
+|-
+| || r {{IPAslink|ɾ}} || || 
+|-
+! rowspan="2" | [[Lateral consonant|Lateral]]
+| || lh {{IPAslink|l̥}} || || 
+|-
+| || l {{IPAslink|l}} || || 
+|}
+
+=== Syllable structure ===
+
+Kokota uses three types of syllable structure for the most part: V, CV, and CCV. Most (88% of 746 syllables examined) are CV (V and CCV each represent 6%). However, there are also rare cases where a CCVV or CVV syllable may occur. Thus, Kokota structure is: (C)(C)V(V).<ref name="Kokota Grammar" />{{Rp|20}} Final consonant codas usually occur only in words borrowed from another language.<ref name="Kokota Grammar" />{{Rp|20}} The CCVV structure is extremely rare as Kokota does not use phonemic 'diphthongs' and the term simply refers to 2 vowels occurring in sequence in a single syllable.<ref name="Kokota Grammar" />{{Rp|14}} In CC initial syllables, the first consonant (C1) must be an obstruent or fricative, specifically: the labial plosives /p/, /b/, velar plosives /k/, /g/, labial fricatives /f/, /v/, or coronal fricatives /s/, /z/. The second consonant (C2) must be a voiced coronal sonorant ( /ɾ/, /l/, or /n/). The table below illustrates the possible CC onset cluster pairings.<ref name="Kokota Grammar" />{{Rp|21}}
+
+{| class="wikitable"
+|-
+!  !! p !! b !! k !! g !! f !! v !! s !! z
+|-
+! ɾ
+| pɾ || bɾ || kɾ || gɾ || fɾ || vɾ || ?sɾ || zɾ
+|-
+! l
+| pl || bl || kl || gl || fl || - || - || -
+|-
+! n
+| - || bn || kn || - || fn || - || sn || zn
+|}
+
+The table below contains representations of the basic, productive syllable structures in Kokota.
+
+{| class="wikitable"
+|+
+!Template
+!Instantiation
+!Translation
+|-
+|V
+|/'''i'''a/<ref name="Kokota Grammar" />{{Rp|49}}
+|'the' singular
+|-
+|CV
+|/'''na'''.snu.ɾi/<ref name="Kokota Grammar" />{{Rp|21}}
+|'sea urchin'
+|-
+|CCV
+|/'''sna'''.kɾe/<ref name="Kokota Grammar" />{{Rp|21}}
+|'allow'
+|-
+|CVV
+|/'''dou'''/<ref name="Kokota Grammar" />{{Rp|25}}
+|'be.big'
+|}
+
+=== Stress ===
+Kokota uses trochaic stress patterns (stressed-unstressed in sequence, counting from the left edge of a word). Stress in the language varies widely among speakers, but there are patterns to the variation. Three main factors contribute to this variability: the limited morphology of Kokota, the fact some words are irregular by nature, and finally because of the present transition in stress assignment. The language is currently in a period of transition as it moves from relying on stress assignment based on moras and moves to stress assignment by syllable. The age of the speaker is a defining factor in stress use as members of older generations assign stress based on weight while younger generations assign stress based on syllables, placing main stress on the leftmost syllable of the word.<ref name="Kokota Grammar" />{{Rp|30}}
+
+==== Example 1 ====
+Words can be divided into syllables (σ) and feet (φ) and syllables may be divided further into moras (μ). Two moras grouped together comprise a foot. An important restriction on foot formation in Kokota is that their construction cannot split moras of the same syllable. For example, a word that has three syllables ''CV.CV.CVV'' has four moras '''CV, CV, CV, V'''. These moras are split into two feet: ['''CV.CV'''] and ['''CVV'''].<ref name="Kokota Grammar" />{{Rp|31}}
+
+Assigning ''stress'' based on mora uses bimoraic feet to determine where a word receives stress. In CVV.CV words like /bae.su/ ('shark') the syllables are split as ''bae'' and ''su''. The word subdivides into three moras: '''''ba, e, su'''''. The first two moras '''''ba''''' and '''''e''''' become Foot 1 and '''''su''''' is a 'left-over' mora. The first mora is stressed (''ba''), though in speech the whole syllable receives stress so '''''bae''''' is stressed in this word (see below where the stressed syllable is bolded).<ref name="Kokota Grammar" />{{Rp|33}}
+
+                                      ''baesu''
+                                      φ: ''bae'',         -
+                                      σ: ''bae'',         ''su''
+                                      μ: '''''ba''''', '''''e''''',       ''su''
+
+In contrast, a younger speaker of Kokota would assign stress based on bisyllabic feet. Following the syllable structure above, '''''bae''''' is again the stressed syllable but this is simply coincidental as stress is assigned to the first syllable (of the two: ''bae.su''). This coincidence will not always be the case as demonstrated in the next example, below.
+
+==== Example 2 ====
+CV.CVV words like ''/ka.lae/'' ('reef') show more complex stress assignment. ''''ka.lae'''' has three moras: ''ka, la, e'' and two syllables: ''ka, lae''. For older speakers, the feet are assigned differently than in ''bae.su'' because ordinary foot assignment would take the first two moras and thus would split the ''lae'' syllable. Since this is impossible, foot assignment begins with the second mora and thus the first foot is ''lae'' and stress falls on the first mora of that foot (and the rest of the syllable).<ref name="Kokota Grammar" />{{Rp|33}}
+
+                                      ''kalae''
+                                      φ: - ,     ''la'' ''e''
+                                      σ: ''ka'',     ''la'' ''e''
+                                      μ: ''ka'',     '''''la''''',  '''''e'''''
+
+A younger speaker uses the simpler, syllable-based foot parsing: stress thus falls on the first syllable '''''ka''''' while the second syllable ''lae'' is unstressed.
+
+=== Verb Complex ===
+In the Kokota language there are two layers to the verb complex: an inner layer and an outer layer. The inner layer is the verb core which is transparent to any sentence modifiers. The outer layer can alter the verb core all together. Constituent modifiers can modify the verb complex in a sentence in addition to the inner and outer layers of verb complexes.<ref name="Palmer2"/>
+
+=== Verb Compounding ===
+Compound verbs stem from multiple verbs. The left-hand root is the verb and the right-hand can be a noun, verb, or adjective. The phrase all together acts as a verb phrase.<ref name="Palmer2"/>
+{| class="wikitable"
+!
+!Compound Verbs
+!verb, noun, or adjective root
+|-
+|a.
+|do~dou-n̄hau
+|'be a glutton' (lit. 'R.D-be.big-eat')
+|-
+|b.
+|lehe-n̄hau
+|'be hungry' (lit. 'die-eat')
+|-
+|c.
+|gato-ḡonu
+|'forget' (lit. 'think-be.insensible')
+|-
+|d.
+|foḡra-dou
+|'be very sick' (lit. 'be.sick-be.big')
+|-
+|e.
+|dia-tini
+|'be unwell' (lit. 'be.bad-body')
+|-
+|f.
+|turi-tove
+|'tell custom stories' (lit. 'narrate-old')
+|}
+Table retrieved from, Kokota Grammar by Bill Palmer, Honolulu, US: University of Hawaii Press, 2008.<ref name="Palmer2" />
+
+=== Reduplication ===
+Kokota shows full and partial reduplication of disyllabic roots.<ref name="Palmer2" />
+
+==== Partial Reduplication ====
+In some cases partial reduplication shows the change of a noun to a verb; nouns from verbs; slight noun from noun differentiation; slight verb from verb differentiation; derived form of a habitual, ongoing, or diminutive event.
+{| class="wikitable"
+! colspan="3" | verb from noun
+|-
+|a.
+|/fiolo/ 'penis'
+|/fi~fiolo/ 'masturbate (of males)'
+|-
+|b.
+|/piha/ 'small parcel'
+|/pi~piha/ 'make a piha parcel'
+|-
+|c.
+|/puki/ 'round lump of s.th.'
+|/pu~puki/ 'be round'
+|}
+{| class="wikitable"
+! colspan="3" |noun from verbs
+|-
+|a.
+|/siko/ 'steal'
+|/si~siko/ 'thief'
+|-
+|b.
+|/lase/ 'know'
+|/la~Iase/ 'knowledge, cleverness' 
+|-
+|c.
+|/maku/ 'be hard'
+|/ma~maku/ 'Ieatherjacket (fish w. tough skin)'
+|}
+{| class="wikitable"
+! colspan="3" |slight noun from noun differentiation
+|-
+|a.
+|/baɣi/ 'wing'
+|/ba~bayi/ 'side roof of porch'
+|-
+|b.
+|/buli/ 'cowrie'
+|/bu~buli/ 'clam sp.'
+|-
+|c.
+|/tahi/ 'sea'
+|/ta~tahi/ 'stingray'
+|}
+{| class="wikitable"
+! colspan="3" |slight verb from verb differentiation
+|-
+|a.
+|/ŋau/ 'eat'
+|/ŋa~ŋau/ 'be biting (of fish)'
+|-
+|b.
+|/pɾosa/ 'slap self w. flipper (turtles)'
+|/po~pɾosa/ 'wash clothes'
+|-
+|c.
+|/maɾ̥i/ 'be in pain'
+|/ma~maɾ̥a/ 'be in labor'
+|}
+{| class="wikitable"
+! colspan="3" |habitual, ongoing, or diminutive event
+|-
+|a.
+|/m̥aɣu/ 'be afraid'
+|/m̥a~m̥aɣu/ 'be habitually fearful'
+|-
+|b.
+|/safɾa/ 'miss' 
+|/sa~safɾa/ 'always miss' 
+|-
+|c.
+|/seha/ 'climb'
+|/se~seha/ 'climb all about'
+|}
+
+Tables retrieved from, Kokota Grammar by Bill Palmer, Honolulu, US: University of Hawaii Press, 2008.<ref name="Palmer2" />
+
+==== Full Reduplication ====
+There is only a small number of full reduplication of disyllabic roots in the Kokota language. Below are examples of full reduplication where the relationship is idiosyncratic:
+{| class="wikitable"
+|a.
+|/seku/ 'tail'
+|/seku~seku/ 'black trevally'
+|-
+|b.
+|/ɣano/ 'smell/taste good'
+|/fa ɣano~ɣano/ ʻbe very goodʻ
+|-
+|c.
+|/mane/ "man, maleʻ
+|/fa mane~mane/ ʻbe dressed up (man or woman)ʻ
+|-
+|d.
+|/ɣase/ ʻgirl, femaleʻ
+|/fa ɣase~ɣase/ ʻbe dressed up to show off (woman only)ʻ
+|}
+Tables retrieved from, Kokota Grammar by Bill Palmer, Honolulu, US: University of Hawaii Press, 2008.<ref name="Palmer2" />
+
+One example shows full reduplication deriving verbs from transitive roots, and nouns from verbs:
+{| class="wikitable"
+|a.
+|/izu/ ʻread s.th.ʻ
+|/izu~izu/ ʻbe reading; a readingʻ
+|}
+Tables retrieved from, Kokota Grammar by Bill Palmer, Honolulu, US: University of Hawaii Press, 2008.<ref name="Palmer2" />
+
+== Clause Structure (Syntax) ==
+Syntax in Kokota follows the basic sequential order: '''Subject''' -> '''Verb''' -> '''Object'''.
+
+An example is shown below.<ref name="Kokota Grammar" />{{Rp|190}}
+
+{{interlinear|lang=jig|indent=2
+|ia koilo n-e zogu ka kokorako
+|the.SG coconut {{gcl|RL-3S|realis_3rd_person_subject}} drop LOC chicken
+|'The coconut fell on the chicken.'}}
+
+'''Subject:''' ia koilo n-e      '''Verb:''' zogu      '''Object:''' ka kokorako
+
+=== Equative Clauses ===
+Equative clauses represent a characteristic of the subject in the sentence. In the Kokota language moods are unmarked. In equatives, the subject agreement component in verb clauses are excluded.<ref name="Palmer2"/>
+
+=== Telling the Time ===
+When telling the time; time is the subject. Telling time smaller than an hour is expressed by a NP that expresses the minutes numerically attached to a possessor that expresses the hour. Using the terms like ‘half past’ or ‘quarter to’ cannot be determined in Kokota language.<ref name="Palmer2"/>
+{| class="wikitable"
+!A. tanhi [nihau] time how.much  
+!B. tanhi [fitu-gu] time seven-CRD
+!tanhi [nabata-ai gaha miniti kenu//egu=na time ten-plus five minute frontlbehind=3SGP 
+|-
+|'What's the time?' 
+|'The time is seven o'clock.' 
+|'The time is fifteen minutes to/past seven.' fitu-gu] seven-CRD
+|}
+Table retrieved from, Kokota Grammar by Bill Palmer, Honolulu, US: University of Hawaii Press, 2008.<ref name="Palmer2" />
+
+=== Topicalization ===
+The topicalized subject in Kokota language is in the preverbal position. Any subject can be topicalized but rarely in natural conversation.<ref name="Palmer2"/>
+{| class="wikitable"
+|{{interlinear|number=a.|ago n-o fa-lehe{{=}}au ara|you.SG RL-2S Cs-die{{=}}ISGO I|'You are killing me.'}}
+|-
+|{{interlinear|number=b.|ia tara{{=}}n̄a n-e mai{{=}}ne|the.SG enemy{{=}}IMM RL-3S come{{=}}thisR|'The enemy has come.'}}
+|-
+|{{interlinear|number=c.|tito tomoko n-e au{{=}}re zelu|three war.canoe RL-3S exist{{=}}thoseN PNLOC|'Three war canoes are at Zelu.'}}
+|-
+|{{interlinear|number=d.|manei e beha n̄hen̄he|he 3S NSP be.separate|'He is different.'}}
+|}
+Table retrieved from, Kokota Grammar by Bill Palmer, Honolulu, US: University of Hawaii Press, 2008.<ref name="Palmer2" />
+
+Below is a table of the breakdown position occurrence of the first 100 verbal clauses in a normal text:
+{| class="wikitable"
+!
+!Preverbal topicalized arguments
+!Focused arguments
+!Arguments in unmarked position
+!Total
+|-
+|A
+|2 (28.5%)
+|0
+|5 (71.5%)
+|7 (100%)
+|-
+|S
+|8 (15.5%) 
+|2 (4.0%)
+|41 (80.5%)
+|51 (100%)
+|-
+|O
+|1 (5.5%)
+|0
+|17 (94.5%)
+|18 (100%)
+|}
+Table retrieved from, Kokota Grammar by Bill Palmer, Honolulu, US: University of Hawaii Press, 2008.<ref name="Palmer2" />
+
+== Morphology ==
+
+===Nouns===
+==== Cliticization ====
+By adding two clitics on to the root noun /''dadara''/, Kokota specifies who possesses it as well as its proximity, as shown in the gloss below.<ref name="Kokota Grammar" />{{Rp|85}}
+
+The gloss of /''dadaraḡuine''/ is:
+{{interlinear|lang=jig|indent=2
+|dadara '''{{=}}ḡu{{=}}ine'''
+|blood '''{{=}}1SG.POS{{=}}thisR'''
+|''''this''' blood '''of mine''''}}
+
+/''Dadara''/ is the root meaning 'blood'; /''gu''/ indicates 1st person singular possessive ("my").<ref name="Kokota Grammar" />{{Rp|85}}
+
+A more complex form of cliticization occurs in the example sentence below:<ref name="Kokota Grammar" />{{Rp|68}}
+
+{{interlinear|lang=jig|indent=2
+|gure foro '''ḡ-e{{=}}u{{=}}gu''' ade titili'''{{=}}o'''
+|nut.paste coconut.paste '''{{gcl|NT|Neutral Modality}}-3S{{=}}be.thus{{=}}CONT''' here titili'''{{=}}that{{gcl|NV|not visible}}'''
+|''''They made''' nut and coconut paste here at '''those''' standing stones.'}}
+
+(Notes: the standing stones 'titili' have spiritual significance; NT is the indicator of neutral modality; CNT is continuous; NV refers to something that is not visible)<ref name="Kokota Grammar" />{{Rp|xxi}}
+
+==== Partial Reduplication ====
+Partial reduplication in Kokota generally derives nouns from verbs. Below are two examples:<ref name="Kokota Grammar" />{{Rp|26}}
+
+{| class="wikitable"
+|-
+! Example 1 !! Example 2
+|-
+| {{interlinear|/siko/ → /si~siko/|"steal" {} "thief"|}}
+| {{interlinear|/lase/ → /la~lase/|"know" {} "knowledge"|}}
+|}
+
+=== Compounding (nouns) ===
+Both endocentric and exocentric compounding occur.
+
+==== Endocentric Compounding ====
+Endocentric compounding in Kokota results in words that serve the grammatical purpose that one of its constituent words does. There are three examples below.
+
+{| class="wikitable"
+|-
+! Example 1 !! Example 2 !! Example 3
+|-
+| {{interlinear
+  |Noun + Noun {{=}} Noun
+  |/hiba/ + /mautu/ {{=}} /hibamautu/
+  |"eye" + {"right side"} {{=}} {right eye}<ref name="Kokota Grammar" />{{Rp|63}}
+  |}}
+| {{interlinear
+  |Noun + {Active Verb} {{=}} Noun
+  |/vaka/ + /flalo/ {{=}} /vakaflalo/
+  |"ship" + "fly" {{=}} aircraft<ref name="Kokota Grammar" />{{Rp|63}}
+  |}}
+| {{interlinear
+  |Noun + {Stative Verb} {{=}} Noun
+  |/mane/ + /dou/ {{=}} /manedou/
+  |"man" + {"be big"} {{=}} {important man}<ref name="Kokota Grammar" />{{Rp|63}}
+  |}}
+|}
+
+==== Exocentric Compounding ====
+Exocentric compounding in Kokota results in words that do not serve the grammatical purpose that any of the constituent words do. There are two examples below.
+
+{| class="wikitable"
+|-
+! Example 1 !! Example 2
+|-
+| {{interlinear
+  |{Active Verb} + Noun {{=}} {Proper Noun}
+  |/siko/ + /ḡia/ {{=}} /sikogia/
+  |"steal" + "lime" {{=}} {bird (specific species)}<ref name="Kokota Grammar" />{{Rp|64}}
+  |}}
+| {{interlinear
+  |{Active Verb} + {Stative Verb} {{=}} Noun
+  |/ika/ + /blahi/ {{=}} /ikablahi/
+  |"wash" + {"be sacred"} {{=}} baptism<ref name="Kokota Grammar" />{{Rp|64}}
+  |}}
+|}
+
+===Pronouns===
+There exist four sets of pronominal forms: preverbal subject indexed auxiliaries, post verbal object indexing, possessor indexing and independent pronouns {{harvcol|Palmer|1999|pp= 65}}. Complying with typical Oceanic features, Kokota distinguishes between four person categories: first person inclusive, first person exclusive, second person, and third person. The preverbal subject indexing auxiliaries do not differentiate between singular and plural, whereas possessor and postverbal object indexing do – except in first person inclusive, where no singular is possible {{harvcol|Palmer|1999|p= 65}}.
+
+====Non-Independent: Subject pronouns====
+The preverbal subject-indexing pronouns do not distinguish number {{harvcol|Palmer|1999|p= 65}}.
+
+{| class="wikitable" style="text-align:center;"
+! colspan="2" |
+! Singular=Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| a
+|-
+! inclusive
+| da
+|-
+! colspan="2" | 2nd person
+| o
+|-
+! colspan="2" | 3rd person
+| e
+|}
+
+====Non-Independent: Object pronouns====
+The object-indexing pronouns are postverbal clitics {{harvcol|Palmer|1999|p= 65}}.
+
+{| class="wikitable" style="text-align:center;"
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | =(n)au
+| =ḡai
+|-
+! inclusive
+| =gita
+|-
+! colspan="2" | 2nd person
+| =(n)igo
+| =ḡau
+|-
+! colspan="2" | 3rd person
+| =(n)i ~ Ø (null)
+| =di ~ ri
+|}
+
+====Non-Independent: Possessor pronouns====
+The possessor-indexing pronouns are suffixed to nouns {{harvcol|Palmer|1999|p= 65}}.
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | -ḡu
+| -mai
+|-
+! inclusive
+| -da
+|-
+! colspan="2" | 2nd person
+| -(m)u
+| -mi
+|-
+! colspan="2" | 3rd person
+| -na
+| -di
+|}
+
+====Independent: Focal pronouns====
+The independent pronouns, however, go one step further and differentiate between singular, dual, trial and plural numbers {{harvcol|Palmer|1999|p= 65}}.
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" | 
+! Singular
+! Plural
+! Dual
+! Trial
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | ara
+| gai (+NUM)
+| gai-palu
+| gai-tilo ~ gai+NUM
+|-
+! inclusive
+| gita (+NUM)
+| gita-palu
+| gita-tilo ~ gita+NUM
+|-
+! colspan="2" | 2nd person
+| ago
+| gau (+NUM)
+| gau-palu
+| gau-tilo ~ gau+NUM
+|-
+! colspan="2" | 3rd person
+| manei / nai
+| maneri ~ rei+NUM
+| rei-palu
+| rei-tilo ~ rei+NUM
+|}
+
+===Possessive Constructions===
+Similarly to many Oceanic languages, Kokota makes the distinction between alienable possession and inalienable possession.
+
+====Inalienable====
+Inalienable possession consists of possessor indexing enclitics attaching to the nominal core of the possessed noun phrase as follows {{harvcol|Palmer|1999|p= 121}}:
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | -ḡu
+| -mai
+|-
+! inclusive
+| -da
+|-
+! colspan="2" | 2nd person
+| -mu
+| -mi
+|-
+! colspan="2" | 3rd person
+| -na
+| -di
+|}
+
+====Alienable====
+Alienable possession is formed with a possessive base that is indexed to the possessor. This entire unit precedes the possessed noun phrase. Alienable possession is further broken down into two categories, consumable, whose base is ''ge-'',  and non-consumable, whose base is ''no-'' {{harvcol|Palmer|1999|p= 121}}.
+
+{| class="wikitable" style="text-align: center;"
+|+ consumable
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | ge-ḡu
+| ge-mai
+|-
+! inclusive
+| ge-da
+|-
+! colspan="2" | 2nd person
+| ge-u
+| ge-mi
+|-
+! colspan="2" | 3rd person
+| ge-na
+| ge-di
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ non-consumable
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | no-ḡu
+| no-mai
+|-
+! inclusive
+| no-da
+|-
+! colspan="2" | 2nd person
+| no-u
+| no-mi
+|-
+! colspan="2" | 3rd person
+| no-na
+| no-di
+|}
+
+=== Negation ===
+In Kokota negative construction is expressed in two ways.<ref name=":1">Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. 246. [http://www.smg.surrey.ac.uk/media/1126/ch9.pdf]</ref> One way is through the use of the negative particle ''ti'' and the other way is by the means of the subordinating construction that involves the negative existential verb ''teo'' meaning ‘not exist’/ ‘be.not’.<ref name=":1" />
+
+==== Negative particle ''ti''====
+Negation is constructed when an auxiliary verb is suffixed with the negative participle ''ti''.<ref name=":2">Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. 247.  [http://www.smg.surrey.ac.uk/media/1126/ch9.pdf]</ref> When the negative particle ''ti'' is suffixed onto the auxiliary, it creates a single complex auxiliary as the particle ''ti'' also combines with other tense and aspect particles.<ref name=":2" /> Depending on the clause type the negative particle ''ti'' can occur with or without the subordinating construction to instigate negation in a clause.<ref name=":2" />
+
+The negative particle ''ti'' can be used to express negation in many types of clauses including the ‘be thus’ clause, nominal clauses and with equative predicates.<ref name=":2" />
+
+===== Negation in 'be thus' clause =====
+When the negative particle ''ti'' is situated in a ‘be thus’ clause the particle ''ti'' suffixes itself onto the auxiliary in the verb complex of the ‘be thus’ clause.<ref name=":2" /> The verb complex within the ‘be thus’ clause consist of the single worded verb ''-u'' ‘be thus’, the auxiliary, tense and aspect particles.<ref name=":2" /> Below is an example that shows how it is done. 
+
+{{interlinear|number=1<ref name=":2" />
+|o-ti ḡela an-lau o-ti-u ago
+|2.SBJ-NEG resemble thatN-SPC 2.SBJ.NEG-be.thus you.SG
+|Don’t be like that. Don’t be like that you.}}
+
+This example shows how the negative particle ''ti'' is suffixed onto the irrealis auxiliary ''o'' and also attached to the ‘be thus’ verb ''-u'' to negate the verb complex.
+
+===== Negation in nominalised clause =====
+When the negative particle ''ti'' expresses negation is it usually suffixed onto the auxiliary verb in the nominalised clause.<ref name=":2" /> Below is an example of ''ti'' in a nominalised clause.
+
+{{interlinear|number=2<ref name=":2" />
+|ka-ia ti mai-na-o-n̵̄a velepuhi kokota n-e-ke au-re keha-re…
+|LOC-the.SG NEG come-3SGP-thatNV-IMM right.way PNLOC RL-3.SBJ-PRF exist-thoseN NSP-thoseN
+|At that non-coming of Christianity [ig. When Christianity had not yet come] some lived in Kokota}}
+
+In this example, the particle ''ti'' is not suffixed onto an auxiliary. This is because the auxiliary is an irrealis as this is discussing the past.<ref>Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. 198. [http://www.smg.surrey.ac.uk/media/1124/ch8.pdf]</ref> Irrealis auxiliaries are omittable parts of Kokota speech when there is no ambiguity.<ref>Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. 202. [http://www.smg.surrey.ac.uk/media/1124/ch8.pdf]</ref>  As this example is not ambiguous, the irrealis auxiliary is omitted.
+
+===== Negation in equative predicate =====
+The formation of a negative equatives predicates is similar to the ‘be thus’ clause and nominalised clause where the negative particle is suffixed onto the auxiliary of the verb complex. This is demonstrated below.
+
+{{interlinear|number=3 <ref name=":2" />
+|n-e-ti ḡazu hogo-na
+|RL-3.SBJ-NEG wood be.true-3.SGP
+|They’re not true sticks}}
+
+===== Negation in imperative clause =====
+Negation in imperative clauses can be expressed by the negative particle ''ti'' or the subordinating construction.<ref name=":2" /> However, it is more common to use the negative particle ''ti'' to construct negation in an imperative clause as is the most frequently used and preferred strategy.<ref name=":3">Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. 248. [http://www.smg.surrey.ac.uk/media/1126/ch9.pdf]</ref> Below is an example of how it is done.
+
+{{interlinear|number=4<ref name=":2" />
+|o-ti fa doli-ni gilia au batari foforu ago
+|2SBJ.NEG CS live-3SGO until exist battery new 2SG
+|Don’t turn it on until you have new batteries.}}
+
+==== Subordinating construction ====
+Negation is expressed through the subordinating construction involves the negative existential verb ''teo.'' <ref name=":3" /> This subordinating construction is commonly used to negate declarative clauses.<ref name=":3" />
+
+===== Negative existential verb ''teo'' =====
+The negative existential verb ''teo'' expresses ‘not exist’/ ‘be.not’ and it is the antonym of the positive existential verb ''au'', meaning ‘exist’.<ref name=":4">Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. 179. [http://www.smg.surrey.ac.uk/media/1125/ch7.pdf]</ref> Unlike the positive existential verb ''au'' that has both locative and existential functions, ''teo'' can only function in an existential sense.<ref name=":4" /> Below are examples of negation using the negative existential verb ''teo:''
+
+{{interlinear|number=5<ref name=":4" />
+|teo manhari
+|be.not fish
+|There are no fish}}
+
+{{interlinear|number=6<ref name=":4" />
+|teo ihei mane ta torai mao reregi-ni-na ia vetula-na ḡavana ka-ia ḡilu-na nau gai
+|be.not whoever man SB definitely come look.after-3S.GO-thatN the.SG rule-3S.GP government LOC-the.SG inside-3S.GP village we.EXCL
+|There isn’t anyone who actually looks after the government’s law in our village}}
+
+In the example above, there is a locative adjunct present. However, it does not modify ''teo'' as it is a part of a relative clause.<ref name=":4" /> The more literal translation of the example would be ‘Someone who looks after the Government’s law in our village does not exist’.<ref name=":4" /> So, the main clause expresses that absence of the subject's as an entity, rather than the subject not being in the location of the village.<ref name=":4" />
+
+The negative existential verb ''teo'' is unlike the ''au'' as it does not have a locative function.<ref name=":4" /> To express that an entity has no presence in a location involves the subordinating construction.<ref name=":4" /> Below are two examples. Example 7 exhibits how ''au'' functions when in a locative sense. Whereas, Example 8 exhibits the subordinating construction involving ''teo'' to show non-presence in a location.
+
+{{interlinear|number=7<ref name=":4" />
+|n-e au buala
+|RL-3.SBJ exist PNLOC
+|He is in Buala}}
+
+{{interlinear|number=8<ref name=":4" />
+|n-e-ge teo ḡ-e au buala
+|RL-3.SBJ-PRS be.not NT-3.SBJ exist PNLOC
+|He isn’t in Buala ({{Lit}} His being in Buala is not.)}}
+
+===== Negation in declarative clause =====
+Negation is expressed in a declarative clause through subordinating construction.<ref name=":3" /> Through this process the declarative clause becomes a subordinated positive declarative clause which complements the negative existential verb ''teo.''<ref name=":3" /> Below is an example of a negatived declarative clause. 
+
+{{interlinear|number=9<ref name=":5">Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. 249. [http://www.smg.surrey.ac.uk/media/1126/ch9.pdf]</ref>
+|Gai teo [ḡ-a mai-u k-ago]
+|we.EXCL be.not NT-1.SBJ come-PRG LOC-you.SG
+|We will not be coming to you. ({{Lit}} We are not that we are coming to you)}}
+
+In this example the subordinated positive declarative clause has been bracketed to show its placement in the main clause in relation to the negative existential verb ''teo.'' <ref name=":5" />
+
+== Phrases ==
+Below are phrases spoken in Kokota by a native speaker named Nathaniel Boiliana as he reminisced about World War II:<ref name="Palmer2" />
+
+{{interlinear|indent=2
+|n-e-ge tor-i b{{=}}ana manei goi
+|RL-3SGS-PRS open-TR ALT{{=}}thatN s/he VOC
+|'Has he opened it [i.e., started the tape recorder]?'}}
+
+{{interlinear|indent=2
+|au bla n-a-ke{{=}}u [goveo] banesokeo
+|exist LMT RL-IEXCS-PF{{=}}vbe.thus PNLOC PNLOC
+|'I was living in [Goveo] Banesokeo,'}}
+
+{{interlinear|indent=2
+|tana aḡe ira mane ta zuke leba
+|then go thePL man SBO seek labor
+|'then the men came to look for labor.'}}
+
+{{interlinear|indent=2
+|ḡ-e-la ara-hi ka vaka kabani-na amerika
+|NT-3s-go I-EMPH LOC ship company-3sGP PNLOC
+|'So I was on an American company ship'}}
+
+{{interlinear|indent=2
+|aḡe hod-i{{=}}au banesokeo
+|go take-TR{{=}}ISGO PNLOC
+|'that took me from Banesokeo,'}}
+
+{{interlinear|indent=2
+|rauru raasalo, kepmasi
+|go.seaward PNLOC PNLOC
+|'[we] went seaward to Russell, to Cape Masi.'}}
+
+{{interlinear|indent=2
+|n-e la au{{=}}nau sare. au bla ge au
+|RL-3s go exist{{=}}lsGO therep exist LMT SEQ exist
+|'I went and stayed there. Staying and staying'}}
+
+{{interlinear|indent=2
+|ka frin̄he{{=}}na mane amerika{{=}}re maḡra maneri
+|LOC work{{=}}thatN man PNLOC{{=}}thoseN fight they
+|'in the work of those American men in the fight.'}}
+
+{{interlinear|indent=2
+|gu ḡ-au-gu rasalo e{{=}}u
+|be.thus NT-exist-CNT PNLOC 3s{{=}}be.thus
+|'Like that, living on Russell.'}}
+
+== Numerals ==
+The numeral system of Kokota has many typologically odd features and shows significant lexical replacement. In the numbers up to 10, only "7" ''fitu'' (< *'''pitu''') is a clear Proto-Oceanic reflex. The higher numerals also alternate between multiples of 10 (e.g. ''tulufulu'' "30" from POc *'''tolu-puluq''' "3 x 10") and 20 (''tilotutu'' "60" or "3 x ''tutu''"), including two distinct morphemes with the meanings "10" (''-fulu'' from Proto-Oceanic and ''-salai'', used only on numbers above 60 and likely from a substrate) and "20" (''varedake'' "20" and ''-tutu'', also likely from a substrate'')''. Ross describes it as one of the most bizarre numeral systems attested for an Oceanic language.<ref name=":0">{{Cite journal|last=Blust|first=Robert|date=2005-01-01|title=Review of The Oceanic Languages|journal=Oceanic Linguistics|volume=44|issue=2|pages=544–558|doi=10.1353/ol.2005.0030|jstor=3623354|s2cid=145690910}}</ref>
+{| class="wikitable"
+!1
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+|''kaike''
+''palu''
+
+''tilo''
+
+''fnoto''
+
+''ɣaha''
+
+''nablo''
+
+''fitu''
+
+''hana''
+
+''nheva''
+!10
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+|''naboto''
+''varedake''
+
+''tulufulu''
+
+''palututu''
+
+''limafulu''
+
+''tilotutu''
+
+''fitusalai''
+
+''hanasalai''
+
+''nhevasalai''
+!100
+1000
+|''ɣobi''
+''toga''
+|}
+
+== Abbreviations<ref>Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' PhD dissertation, University of Sydney, Australia. p. xx. [http://www.smg.surrey.ac.uk/media/1113/abbr.pdf]</ref> ==
+{|
+| -             || separates morphemes
+|-
+| 1             || first person exclusive
+|-
+| 2             || second person
+|-
+| 3             || third person
+|-
+| 3SGO          || third person ‘object’
+|-
+| 3SGP          || third person possessor
+|-
+| CS            || causative particle
+|-
+| EXC           || exclusive
+|-
+| IMM           || immediacy marker
+|-
+| LOC           || locative preposition
+|-
+| NEG           || negative particle
+|-
+| NSP           || non-specific referent
+|-
+| NT            || neutral modality
+|-
+| PRG           || progressive aspect
+|-
+| PNLOC         || location name
+|-
+| PRF           || perfective aspect
+|-
+| PRS           || present tense
+|-
+| RL            || realis modality
+|-
+| RL-3S         || realis 3rd person subject
+|-
+| SB            || subordinator
+|-
+| SBJ           || subject indexing
+|-
+| SG            || singular
+|-
+| SPC           || specific referent suffix
+|-
+| that/thoseN   || nearby category
+|-
+| that/thoseNV  || not visible category
+|}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+3SGO:third person ‘object’
+3SGP:third person possessor
+CS:causative particle
+EXC:exclusive
+IMM:immediacy marker
+LOC:locative preposition
+NEG:negative particle
+NSP:non-specific referent
+NT:neutral modality
+PRG:progressive aspect
+PNLOC:location name
+PRF:perfective aspect
+PRS:present tense
+RL:realis modality
+RL-3S:realis 3rd person subject
+SB:subordinator
+SBJ:subject indexing
+SPC:specific referent suffix
+</div><section end="list-of-glossing-abbreviations"/>
+
+== Notes ==
+{{Reflist}}
+
+== References ==
+* {{cite book| last= Palmer | first= Bill |year= 1999 | title= Grammar of the Kokota language, Santa Isabel, Solomon Islands | url= http://www.surrey.ac.uk/lcts/bill.palmer/NWS_site/Kok/gram.htm }}
+*Palmer, B. (1999). ''Kokota Grammar, Santa Isabel, Solomon Islands.'' (PhD dissertation, University of Sydney, Australia). Retrieved from <nowiki>http://www.smg.surrey.ac.uk/languages/northwest-solomonic/kokota/kokota-grammar/</nowiki> 
+* {{cite book| last= Palmer | first= Bill | year= 2009 | title= Kokota Grammar | series= Oceanic Linguistics Special Publication No. 35. | location= Honolulu | publisher= [[University of Hawaii Press]] | isbn= 978-0-8248-3251-3 }}
+* Palmer, B. (2008). Kokota Grammar. Honolulu, US: University of Hawaii Press. Retrieved from <nowiki>http://www.ebrary.com</nowiki>
+* {{cite book |last1=Palmer |first1=Bill |title=Kokota Grammar |date=2009 |publisher=University of Hawai'i Press |isbn=9780824832513}}
+
+{{Languages of the Solomon Islands}}
+{{Meso-Melanesian languages}}
+{{Austronesian languages}}
+
+[[Category:Ysabel languages]]
+[[Category:Languages of the Solomon Islands]]

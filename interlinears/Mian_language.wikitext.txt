@@ -1,0 +1,217 @@
+{{Short description|Trans–New Guinea language spoken in Papua New Guinea}}
+{{Infobox language
+|name        = Mian
+|states      = [[Papua New Guinea]]
+|region      = [[Sandaun Province|Sandaun province]],<br>[[Telefomin|Telefomin district]]
+|ethnicity   = [[Mian people|Mianmin]]
+|speakers    = from 1,400 
+|date        = 2000 census
+|ref         = e18
+|speakers2   = to 3,500 (2007)<ref name="agom">{{Cite thesis |last=Fedden |first=Olcher Sebastian |title=A Grammar of Mian, a Papuan Language of New Guinea |date=2007 |degree=PhD |publisher=University of Melbourne |url=http://epubs.surrey.ac.uk/792225/ |hdl=11343/39327 |hdl-access=free}}</ref>
+|familycolor = Papuan
+|fam1        = [[Trans–New Guinea languages|Trans–New Guinea]]
+|fam2=[[Central and South New Guinea languages|Central & South New Guinea]] ?
+|fam3        = [[Ok languages|Ok]]
+|fam4        = Mountain
+|iso3        = mpt
+|lc1 = sug |ld1 = Suganga
+|glotto=mian1255
+|glottorefname=Mianic
+|ELP2=10676
+|ELPname2=Suganga
+|notice      = IPA
+}}
+
+'''Mian''' is an [[Ok languages|Ok language]] spoken in the [[Telefomin|Telefomin district]] of the [[Sandaun Province|Sandaun province]] in [[Papua New Guinea]] by the [[Mian people]]. It has some 3,500 speakers spread across two [[dialect]]s: ''West Mian'' (a.k.a. ''Suganga''), with approximately 1,000 speakers in around [[Yapsiei]], and ''East Mian'', with approximately 2,500 speakers in and around [[Timeilmin]], [[Temsakmin]], [[Sokamin]], [[Gubil]], [[Fiak]] and [[Hotmin]].<ref name="agom" />
+
+== Phonology ==
+[[Phonology|Phonologically]], Mian is very similar to other [[Papuan languages]] in the size of its [[Phonology#Phoneme inventories|phoneme inventory]], but it nevertheless has some peculiarities, such as its contrast between a plain [a] and a [[pharyngealization|pharyngealized]] [aˤ]. It is also a [[tonal language]].
+
+=== Vowels ===
+Mian has six [[vowel]]s, including the [[pharyngealization|pharyngealized]] open front vowel.
+
+{| class="wikitable"
+|+Mian vowels
+|- align=center
+! rowspan="2" |
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|- align=center
+! <small>Unrounded</small>
+! <small>Rounded</small>
+|- align=center
+! [[Close vowel|Close]]
+| '''i''' {{IPA|/i/}}
+| '''u''' {{IPA|/u/}}
+|- align=center
+! [[Close-mid vowel|Close-mid]]
+| 
+| '''o''' {{IPA|/o/}}
+|- align=center
+! [[Open-mid vowel|Open-mid]]
+| '''e''' {{IPA|/ɛ/}}
+| 
+|- align=center
+! [[Open vowel|Open]]
+| '''a''' {{IPA|/a/}}<br>'''aa''' {{IPA|/aˤ/}}
+|
+|}
+
+Mian also has four [[diphthong]]s:
+
+{|class="wikitable" style="text-align: center;"
+|+Mian diphthongs
+! Ending with {{IPA|/i/}}
+! Ending with {{IPA|/u/}}
+|-
+| '''ai''' {{IPA|/a͡i/}}
+| '''au''' {{IPA|/a͡u/}}
+|-
+| '''ei''' {{IPA|/ɛ͡i/}}
+| '''ou''' {{IPA|/o͡u/}}
+|}
+
+/ɛ/ is realized as [ə] in word-initial low-tone syllables, [ɛ] elsewhere.
+
+/a/ is realized as [ɐ] in unaccented syllables, [ə] in word-initial low-tone syllables beginning with a consonant, [a] elsewhere.
+
+/o/ is realized as [ɔ] in word-initial low-tone syllables and in syllables ending in a voiceless [[plosive consonant|plosive]] or [ŋ], [o] elsewhere.
+
+/u/ is realized as [ʊ] in word-initial low-tone syllables, [u] elsewhere.
+
+=== Consonants ===
+Mian has 16 [[consonant]]s:
+
+{| class="wikitable" style="text-align:center"
+|+Mian consonants 
+|-
+! colspan="2" rowspan="2" |
+! rowspan="2" | [[Labial consonant|Labial]]
+! rowspan="2" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! <small>Plain</small>
+! <small>[[Labialisation|Labialized]]</small>
+|-
+! rowspan="2" | [[Plosive consonant|Plosive]]
+! <small>[[Voiceless consonant|Voiceless]]</small>
+| 
+| {{IPAlink|t}} {{grapheme|t}}
+| 
+| {{IPAlink|k}} {{grapheme|k}}
+| {{IPAlink|kʷ}} {{grapheme|kw}}
+| 
+|-
+! <small>[[Voiced consonant|Voiced]]</small>
+| {{IPAlink|b}} {{grapheme|b}}
+| {{IPAlink|d}} {{grapheme|d}}
+| 
+| {{IPAlink|ɡ}} {{grapheme|g}}
+| {{IPAlink|ɡʷ}} {{grapheme|gw}}
+| 
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} {{grapheme|m}}
+| {{IPAlink|n}} {{grapheme|n}}
+| 
+| {{IPAlink|ŋ}} {{grapheme|ng}}
+| 
+| 
+|-
+! colspan="2" | [[Fricative]]
+| {{IPAlink|f}} {{grapheme|f}}
+| {{IPAlink|s}} {{grapheme|s}}
+| 
+| 
+| 
+| {{IPAlink|h}} {{grapheme|h}}
+|-
+! colspan="2" | [[Approximant]]
+| 
+| {{IPAlink|l}} {{grapheme|l}}
+| {{IPAlink|j}} {{grapheme|y}}
+| 
+| {{IPAlink|w}} {{grapheme|w}}
+| 
+|}
+
+{{IPA|/b/}} is realized as {{IPA|[ᵐb]}} word-initially, {{IPA|[pʰ]}} or [p̚] syllable-finally, [b] elsewhere.
+: Examples: '''banǒn''' [ᵐbànǒn] ''lower arm'', '''mǎab''' [mǎˤːp̚] ''frog'', '''teběl''' [tʰɛ̀bɛ̌l] ''ant''
+
+/t/ is realized as [tʰ] before vowels, [tʰ] or [t̚] syllable-finally.
+: Examples: '''tam''' [tʰàm] ''temple'', '''mát''' [mát̚] ''gall bladder''
+
+/k/ is realized as [kʰ] before vowels, [kʰ] or [k̚] syllable-finally, sometimes [x] between vowels, [qʰ] before [aˤ].
+: Examples: '''kemin''' [kʰèmìn] ''to do'', '''manggěk''' [màŋgɛ̌k̚] ''bee'', '''okok''' [òxòk̚] ''work'', '''kaawá''' [qʰàˤwá] ''steel axe''
+
+/ɡ/ is realized as [ᵑɡ] word-initially, [ɡ] elsewhere.
+: Examples: '''gát''' [ᵑɡát̚] ''mole'', '''manggěk''' [màŋɡɛ̌k̚] ''bee''
+
+/ɡʷ/ is realized as [ᵑɡʷ] word-initially, [ɡʷ] elsewhere.
+: Examples: '''gwaán''' [ᵑɡʷàán] ''spider'', '''gwalgwal''' [ᵑɡʷàlɡʷàl] ''twins''
+
+=== Tones ===
+Mian has five [[Tone (linguistics)|tonemes]]:
+
+{| class="wikitable"
+|+Mian tones
+|- align=center
+! Tone
+! Example
+|-
+| Low
+| '''am''' [àm] ''house''
+|-
+| High
+| '''án''' [án] ''arrow''
+|-
+| Low-High
+| '''ǎam''' [ǎˤːm] ''[[Pandanus|Pandanus species]]''
+|-
+| High-Low
+| '''hâs''' [hâs] ''hat''
+|-
+| Low-High-Low
+| '''aam''' [àˤːm̂] ''older sister''
+|}
+
+The tones of Mian are very complex, as they are subject to various [[phonology|phonological]] processes, and furthermore, they can be used for indicating various [[grammar|grammatical]] aspects, especially in connection with verbs, where the tones are crucial for understanding.
+
+Consider the two verb forms below, being [[hodiernal tense|non-hodiernal]] and [[imperfective aspect|imperfective]] respectively:
+: '''dolâbībe''' [dòlábíbè] ''I wrote''
+: '''dolâbibe''' [dòlábìbè] ''I am writing''
+
+==Nouns==
+Large objects in Mianmin are feminine, while small objects are masculine.<ref name="Foley-Typology">{{cite book |last=Foley |first=William A. |author-link=William A. Foley |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The morphosyntactic typology of Papuan languages |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=895-938 |isbn=978-3-11-028642-7}}</ref>
+
+{{interlinear|number=(1)
+|imen-'''e'''
+|taro-'''M'''
+|‘small/one taro’}}
+
+{{interlinear|number=(2)
+|imen-'''o'''
+|taro-'''F'''
+|‘large taro/large quantity of taro’}}
+
+== References ==
+{{reflist}}
+
+== Further reading ==
+{{refbegin}}
+* {{Cite book |last=Fedden |first=Sebastian |url=https://books.google.com/books?id=TGr8hBMh3vMC |title=A Grammar of Mian |date=2011 |publisher=Walter de Gruyter |isbn=978-3-11-026419-7 |series=Mouton Grammar Library 55 |location=Berlin/Boston |language=en}}
+{{refend}}
+
+== Digital resources ==
+* {{cite book |last1=Fedden |first1= Sebastian |author2=Timothy Feist |author3=Matthew Baerman |author4=Greville G. Corbett |author5=Gunter Senft |title=Mian and Kilivila Collection |year=2015  |publisher= University of Surrey |url= http://www.smg.surrey.ac.uk/collection |doi= 10.15126/SMG.30/1}}
+
+{{Min peoples}}
+{{Central and South New Guinea languages}}
+{{Languages of Papua New Guinea}}
+
+[[Category:Languages of Sandaun Province]]
+[[Category:Languages of East Sepik Province]]
+[[Category:Ok languages]]
+[[Category:Tonal languages]]

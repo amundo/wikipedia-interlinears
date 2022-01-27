@@ -1,0 +1,49 @@
+{{short description|Papuan language}}
+{{Infobox language
+|name=Kemberano
+|altname=Weriagar, Barau
+|states=[[Province of West Papua|West Papua]], Indonesia
+|region=[[Bird's Head Peninsula]]
+|speakers=2,500 including [[Dombano language|Dombano]] (possibly double counting)
+|date=1987
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Trans–New Guinea languages|Trans–New Guinea]]?
+|fam2=[[Berau Gulf languages|Berau Gulf]]
+|fam3=[[South Bird's Head languages|South Bird's Head]]
+|fam4=[[Nuclear South Bird's Head languages|Nuclear/East]]
+|fam5=Kokoda–Arandai
+|fam6=[[Arandai languages|Arandai]]
+|iso3=bzp
+|glotto=kemb1235
+|glottorefname=Kemberano
+|coordinates = {{coords|-2.24|132.99|region:ID|display=inline}}
+|pushpin_map = Indonesia_Western New Guinea#Indonesia#Southeast Asia
+}}
+
+'''Kemberano''' is a [[Papuan language]] of the [[Bird's Head Peninsula]] of [[West Papua (region)|West Papua]], Indonesia.<ref name="Holton-Birds-Head">{{cite book |last1=Holton |first1=Gary |last2=Klamer |first2=Marian |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The Papuan languages of East Nusantara and the Bird’s Head |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=569–640 |isbn=978-3-11-028642-7}}</ref>
+
+==Morphology==
+Kemberano nouns are required to have the following concord suffixes:<ref name="Holton-Birds-Head">{{cite book |last1=Holton |first1=Gary |last2=Klamer |first2=Marian |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The Papuan languages of East Nusantara and the Bird’s Head |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=569–640 |isbn=978-3-11-028642-7}}</ref>
+*–''i'' (masculine nouns)
+*–''o'' (feminine nouns)
+
+Examples (from Berry and Berry 1987: 86):
+{{interlinear|indent=3
+|pogi enat-'''i'''
+|pig one-'''M'''
+|‘one pig’}}
+
+{{interlinear|indent=3
+|uroko enat-'''o'''
+|stone one-'''F'''
+|‘one stone’}}
+
+==References==
+{{Reflist}}
+
+{{South Bird's Head languages}}
+[[Category:Nuclear South Bird's Head languages]]
+
+
+{{TNG-lang-stub}}

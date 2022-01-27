@@ -1,0 +1,2224 @@
+{{Short description|Tibeto-Burman language}}{{Infobox language
+| name = Hyolmo
+| nativename = ''Hyolmo''
+| altname = Helambu Sherpa
+| states = [[Nepal]]
+| ethnicity = [[Hyolmo people|Hyolmo]]
+| speakers = {{sigfig|10,200|2}}
+| date = 2011 census
+| ref = e18
+| familycolor = Sino-Tibetan
+| fam2 = [[Tibeto-Kanauri languages|Tibeto-Kanauri]] ?
+| fam3 = [[Bodish languages|Bodish]]
+| fam4 = [[Tibetic languages|Tibetic]]
+| fam5 = [[Kyirong-Kagate language|Kyirong-Kagate]]
+| dia1 = Eastern Yolmo (Sermathang, Chhimi)
+| dia2 = Western Yolmo (Nuwakot District)
+| dia3 = Lamjung Yolmo
+| dia4 = Ilam Yolmo
+| iso3 = scp
+| map = Yolmo Map 2016.png
+| glotto = hela1238
+| glottorefname = Lamjung-Melamchi Yolmo
+}}
+
+'''Yolmo''' (Hyolmo) or '''Helambu Sherpa''', is a [[w:Tibeto-Burman languages|Tibeto-Burman language]] of the [[w:Yolmo people|Hyolmo people]] of [[Nepal]] (ISO 639-3: [[iso639-3:scp|scp]], GlottoCode:<ref>{{Cite web|url=https://glottolog.org/resource/languoid/id/yolm1234|title=Helambu Sherpa|date=2017|editor-last=Hammarström|editor-first=Harald; Forkel, Robert; Haspelmath, Martin|website=Glottolog 3.0|publisher=Max Planck Institute for the Science of Human History.|location=Jena, Germany|language=en|access-date=2018-08-22}}</ref> [https://glottolog.org/resource/languoid/id/yolm1234 yolm1234]). Yolmo is spoken predominantly in the [[w:Helambu|Helambu]] and [[w:Melamchi|Melamchi]] valleys in northern [[w:Nuwakot District|Nuwakot District]] and northwestern [[w:Sindhupalchowk District|Sindhupalchowk District]]. Dialects are also spoken by smaller populations in [[w:Lamjung District|Lamjung District]] and [[w:Ilam District|Ilam District]] and also in [[w:Ramechhap District|Ramecchap District]] (where it is known as [[w:Kagate language|Syuba]]). It is very similar to [[w:Kyirong language|Kyirong Tibetan]]<ref name=":10" /> and less similar to [[w:Standard Tibetan|Standard Tibetan]] and [[w:Sherpa language|Sherpa]].<ref name=":15" /> There are approximately 10,000 Yolmo speakers,<ref>{{Cite news|url=https://www.ethnologue.com/18/language/scp/index.html|title=Helambu Sherpa|work=Ethnologue: Languages of the World (18th Edition)|access-date=2018-08-22|publisher=SIL International|year=2015|editor-last=Paul|editor-first=Lewis, M., Gary F. Simons & Charles D. Fennig|location=Dallas, Texas|language=en}}</ref> although some dialects have larger populations than others.
+
+{{TOC limit|2}}
+
+== Language name ==
+Yolmo is both the name of the language ([[w:glottonym|glottonym]]), and the ethnic group of [[w:Yolmo people|people who speak the language]] ([[w:ethnonym|ethnonym]]). Yolmo is also written ''Hyolmo, Yholmo'' or ''Yohlmo''. The 'h' in all of these spellings marks that the word has [[w:Yolmo language#Tone|low tone]].<ref name="Gawne" /> Sometimes the language is referred to as ''Yolmo Tam'', ''tam'' is the Yolmo word for 'language'.<ref name=":3">{{cite book|title=Yolmo-Nepali-English Dictionary|last=Hari|first=Anne Marie|author2=Lama, C.|publisher=Central Dept. of Linguistics, Tribhnvan University|year=2004|location=Kathmandu}}</ref>
+
+The language is also referred to as Helambu Sherpa. This usage was common in the 1970s (see, for example, Clarke's work from the early 1980s).<ref name=":4" /> This name appears to have been an attempt by Yolmo speakers to align themselves with the widely recognised and prosperous [[w:Sherpa people|Sherpas]] of the [[w:Solukhumbu District|Solu-Khumbu]] district. While there are many cultural affinities between the two groups, the [[w:Sherpa language|Sherpa language]] is not mutually intelligible with Yolmo.<ref name=":15">{{Cite book|title=Yohlmo grammar sketch|last=Hari|first=Anna Maria|date=2010|publisher=Ekta Books|others=SIL International.|isbn=9789937101080|location=Kathmandu|pages=4|oclc=707486953}}</ref> With a growing recognition of Nepal's ethnic minorities ([[w:Adivasi|Janajati]]), Yolmo people have moved away from associating themselves with the Sherpas in recent decades.<ref name=":2">{{Cite book|title=Sensory biographies : lives and deaths among Nepal's Yolmo Buddhists|last=Desjarlais|first=Robert|publisher=University of California Press|year=2003|isbn=9780520936744|location=Berkeley, CA.|pages=8|oclc=52872722}}</ref>
+
+== Language family ==
+Yolmo is part of the family of languages called [[w:Kyirong–Kagate languages|Kyirong-Kagate]].<ref name=":12">{{cite journal|last1=Tournadre|first1= Nicholas|date=2005|title= L'aire linguistique tibétaine et ses divers dialectes|journal=Lalies|volume= 25|pages=7–56|url= http://www.nicolas-tournadre.net/wp-content/uploads/multimedia/2005-aire.pdf|language=fr}}</ref> The languages of this family are located along the Himalayan hills and mountains mostly on the Nepal side of the border, although Kyirong is in the [[w:Tibet Autonomous Region|Tibet Antonymous Region]]. Along with Yolmo, [[w:Kyirong language|Kyirong]] and [[w:Kagate language|Syuba]], other languages in the family include [[w:Tsum language|Tsum]], [[w:Nubri language|Nubri]] and [[w:Gyalsumdo language|Gyalsumdo]].
+
+The language family is better considered be Kyirong-Yolmo.<ref name="Gawne" /> Yolmo has far more speakers (at least 10,000) than Kagate (Syuba) (1,500), Yolmo speakers are found in multiple districts, including Melamchi, Lamjung and Ilam, while Kagate speakers are based in Ramechhap. Also, ''Kagate'' is an [[w:Exonym and endonym|exonym]], and speakers now prefer the [[w:Exonym and endonym|endonym]] ''Syuba'', which carries less pejorative stigma than the [[w:caste|caste]]-associated term ''Kagate'' ('papermaker').
+
+This is part of a larger cluster of [[w:Tibetic languages|Tibetic languages]], which all have their roots in the language that was the basis for [[w:Classical Tibetan|Classical Tibetan]].<ref>{{cite book|title=Trans-Himalayan Linguistics: Historical and Descriptive Linguistics of the Himalayan Area|surname=Tournadre|given=Nicolas|publisher=De Gruyter|year=2014|isbn=978-3-11-031074-0|editor1-surname=Owen-Smith|editor1-given=Thomas|pages=103–129|chapter=The Tibetic languages and their classification|editor2-surname=Hill|editor2-given=Nathan W.}} ([http://www.nicolas-tournadre.net/wp-content/uploads/multimedia/2014-The_Tibetic_languages.pdf preprint])</ref>
+
+== History ==
+Yolmo speakers traditionally reside in the [[w:Helambu|Helambu]] and Melamchi Valley regions in the [[w:Nuwakot District|Nuwakot]] and [[w:Sindhupalchowk District|Sindhupalchowk]] districts of Nepal. Yolmo speakers migrated to the area, across the [[w:Himalayas|Himalaya]], from the [[w:Gyirong County|Kyriong]], in what is now Southwest Tibet, over 300 years ago.<ref name=":4">{{Cite journal|last=Clarke|first=Graham E.|date=1980|title=A Helambu History|journal=Journal of the Nepal Research Centre|volume=4|pages=1–38}}</ref> This migration appears to have occurred slowly over multiple generations, rather than one large migration event.<ref>{{Cite journal|last=Pokharel|first=Binod|date=2005|title=Adaptation and identity of Yolmo|journal=Occasional Papers in Sociology and Anthropology|language=en|volume=9|pages=91–119|doi=10.3126/opsa.v9i0.1137|issn=2091-0312|doi-access=free}}</ref> Main villages where Yolmo speakers reside include Melamchi Ghyang, Tarke Ghyang, Nakote, Kangyul, [[w:Sermathang|Sermathang]], Norbugoun, Timbu, and Kutumsang.
+
+Yolmo speakers are [[w:Buddhism|Buddhist]], with the role of head Lama [[w:Patrilineality|patrilineal]].<ref name=":4" /> Yolmo Lamas are called upon to perform religious rituals for the [[w:Tamang people|Tamang]]-speaking communities that live in villages below the Yolmo-inhabited areas. This has created a strong socio-cultural link between the two groups that is reflected in traditional marriage practice where Tamang women marry into Yolmo villages.<ref name=":18">{{Cite book|title=Tibetan Studies in honor of Hugh Richardson|last=Clarke|first=Graham E.|publisher=Phillip|year=1980|editor-last=Richardson|editor-first=Hugh|location=Warminster|pages=79–86|chapter=Lama and Tamang in Yolmo|editor-last2=Aris & Phillip|editor-first2=Michael|editor-last3=Aung San Suu Kyi}}</ref> There is also a distinct local tradition of ''pòmbo'' (often referred to as 'shamanism' in the literature on this topic<ref name=":2" /><ref>{{cite journal|last1=Torri|first1=Davide|date= 2016|title= To Kill or not to Kill? Helambu valley as a no kill zone, the issue of blood sacrifice and the transformation of ritual patterns in Hyolmo shamanism|journal= European Bulletin of Himalayan Research|volume= 47|pages= 15–39}}</ref>). The ''pòmbo'' tradition, passed from father to son, is focused on healing, particularly with regard to 'soul loss'.<ref name=":2" /> This practice appears to be evolving fit with the modern focus on Buddhism among Yolmo people. For example, ''pòmbo'' blood sacrifices are no longer performed as commonly.<ref>{{Cite book|title=Il Lama e il Bombo : sciamanismo e buddhismo tra gli Hyolmo del Nepal|last=Torri|first=Davide|publisher=Sapienza Sciamanica|isbn=9788868123536|location=Rome|oclc=903903900|date = 2015-01-12}}</ref> While there are similarities, including a shared etymology, these local practitioners are not formally associated with the [[wikipedia:Bon|Bon]] of Tibet.
+
+Traditionally Yolmo people were yak herders and traders.<ref>{{Cite journal|last=Bishop|first=Naomi H.|date=1989|title=From zomo to yak: Change in a Sherpa village|journal=Human Ecology|volume=17|issue=2|pages=177–204|doi=10.1007/BF00889712|s2cid=154399059}}</ref> They currently practice a combination of mixed agriculture involving livestock herding, hotel management, restaurants, and trading. Although outward migrants would often return to village life,<ref>{{Cite journal|last=Bishop|first=Naomi H.|date=1993|title=Circular migration and families: A Hyolmo Sherpa example|journal=[[South Asia Bulletin]]|volume=13|issue=1/2|pages=59–66|doi=10.1215/07323867-13-1_and_2-59}}</ref> speakers of Yolmo are increasing settling in Kathmandu, or moving overseas, which has an effect on transmission of the language as speakers move towards dominant languages of formal education such as Nepal and English.<ref>{{Cite book|title=Yolmo-Nepali-English Dictionary|last1=Hari|first1=Anna Maria|last2=Lama|first2=Chhegu|publisher=Central Dept. of Linguistics, Tribhnvan University|year=2004|location=Kathmandu|pages=702}}</ref>
+
+For more on the history of Yolmo speakers, see the [[w:Yolmo people|Yolmo people]] page.
+
+== Dialects ==
+There are a number of [[wikipedia:Dialect|dialects]] of Yolmo, spread throughout Nepal, thanks to migration in recent centuries, including in Lamjung<ref name=":5">{{harvp|Gawne|2016}}</ref> and Ilam.<ref name=":7">{{Cite journal|last=Thokar|first=Rajendra|date=2009|title=Linguistic fieldwork in Jhapa and Ilam districts|journal=Paper Presented at the Linguistics Society of Nepal Annual Conference, Kathmandu, Nepal}}</ref> There are also closely related languages that should be considered when discussing Yolmo, including [[w:Kagate language|Kagate (Syuba)]] and Langtang. Some of these varieties have been documented in more detail than others. Some of the dialects also have more [[w:Mutual intelligibility|mutual intelligibility]], which means it is easier for the speakers to understand each other. Below is a list of established dialects, including what is known about each.
+
+=== Melamchi Valley Yolmo ===
+[[File:IMG_3726_Sermathang.jpg|thumb|Sermathang Village, Melamchi Valley, Nepal]]
+The variety of Yolmo documented by Anna Marie Hari is mostly spoken in the Melamchi Valley area. Hari documented the variety of Yolmo mostly spoken around the villages of [[w:Sermathang|Sermathang]] and Chhimi. Hari also encountered speakers from other areas in the Melamchi and Helambu valleys, and suggested there are two dialects across this area. mostly distinguished by vocabulary. The two dialects are the 'western' dialect, mostly in [[w:Nuwakot District|Nuwakot]] district and the 'eastern' dialect, which Hari's work focuses on.<ref name=":15" /> While discussing these dialects Hari also observes that the variety spoken around Tarkeghyang is different again, suggesting there may be more than two dialects spoken in the area.
+
+Hari produced a Yolmo-Nepali-English dictionary of the language with Chhegu Lama,<ref name=":3" /> and a sketch grammar.<ref name=":15" /> Hari also translated the [[w:New Testament|New Testament]] of the [[w:Bible|Bible]] into Yolmo.<ref>{{Cite book|title=Good news, the New Testament in Helambu Sherpa|last=Hari|first=Anna Maria|publisher=Samdan Publishers|year=2000|location=Kathmandu}}</ref> Original cassette recordings of her work have been digitised and archived with [[w:Paradisec|PARADISEC]].<ref>{{Cite journal|url=http://catalog.paradisec.org.au/collections/AH1|title=Hyolmo songs, stories and grammar drills|last=Hari|first=Anna Maria|date=1980|website=Digital collection managed by PARADISEC.|doi=10.4225/72/56E9795C3C78B}}</ref> Unless otherwise stated, all discussion of the grammar of Yolmo on this page is drawn from the work on Melamchi Valley Yolmo.
+
+=== Langtang ===
+Northwest of the Yolmo-speaking areas in the Langtang valley of the [[w:Rasuwa District|Rasuwa District]] are three villages that speak a language that is mutually intelligible with Yolmo.<ref name=":8">{{Cite journal|last1=Kvicalova|first1=Radka|last2=Slade|first2=Rebekha|last3=Gawne|first3=Lauren|date=2017|title=BOLD documentation of the Langtang language (Rasuwa).|journal=Nepalese Linguistics|volume=32|pages=33–39}}</ref> This language also shares features with [[w:Kyirong language|Kyirong]] and is likely part of a [[w:dialect continuum|dialect continuum]] between Yolmo and Kyirong.
+
+=== Lamjung Yolmo ===
+[[File:LG1-PICS-9025.jpg|thumb|Nayagaun, Lamjung, Nepal]]
+[[File:Gawne2016-YolmoGrammar.pdf|thumb|Gawne 2016]]
+Lamjung Yolmo is spoken by around 700 people in five villages of the [[w:Lamjung District|Lamjung District]] of Nepal.<ref name=":5" /> Yolmo speakers have been residing in this area for over a century.<ref name="Gawne" /> Gawne has written a sketch grammar<ref name=":5" /> and a Lamjung Yolmo-Nepali-English dictionary.<ref name=":1">{{cite book|title=Lamjung Yolmo - Nepali - English Dictionary|last=Gawne|first=Lauren|publisher=Custom Book Centre, The University of Melbourne|year=2011|location=Melbourne}}</ref> There is also a digital archive of Lamjung Yolmo recordings archived with [[w:Paradisec|PARADISEC]].<ref>{{Cite journal|url=http://catalog.paradisec.org.au/collections/LG1|title=Yolmo (also known as Helambu Sherpa, Nepal)|last=Gawne|first=Lauren|date=2009–2016|website=Paradisec|publisher=Digital collection managed by PARADISEC|doi=10.4225/72/56E825B0B80EA}}</ref>
+
+=== Ilam Yolmo ===
+A dialect of Yolmo is reportedly spoken in the [[w:Ilam District|Ilam District]] of far east Nepal.<ref name=":7" /> There is very little documentation of this variety, but it is mutually intelligible with Syuba.<ref name=":6" /> Recordings from the dialect are available as a subset of an online collection of Syuba materials archived with [[w:Paradisec|PARADISEC]].<ref name=":0" />
+
+=== Syuba (Kagate) ===
+Although [[w:Kagate language|Syuba]] has a distinct name, and a separate [[w:ISO 639 code list|ISO 639-3 code]] (SYW), linguistically it can be considered a dialect of Yolmo.<ref name=":6">{{Cite journal|last=Gawne|first=Lauren|date=2017|title=Syuba (Kagate)|url=http://www.elpublishing.org/itempage/147|journal=Language Documentation and Description|volume=13|pages=65–93}}</ref> Syuba speakers say their families migrated to the area more than a century ago.<ref name=":6" /> Hari, who worked on both Yolmo<ref name=":15" /> and Syuba<ref name=":9">{{Cite book|title=Kagate phonemic summary|last1=Höhlig|first1=Monika|last2=Hari|first2=Anna Maria|publisher=Summer Institute of Linguistics Institute of Nepal and Asian Studies|year=1976|location=Kathmandu}}</ref> observes that "to quite a large extent they are mutually intelligible dialects".<ref name=":15" /> The lexical similarity between Syuba and Melamchi Valley Yolmo is at least 79%, with the similarity between Syuba and Lamjung Yolmo even higher (88%). There is a higher level of similarity between Yolmo and Syuba than there is between either of these languages and Kyirong.<ref name=":10">{{Cite book|title=An investigation of the relationship between the Kyirong, Yòlmo, and Standard Spoken Tibetan speech varieties (unpublished MA thesis)|last=Hedlin|first=Matthew|publisher=Payap University|year=2011|location=Chiang Mai, Thailand}}</ref> This all suggests that the separated dialects may have more in common with each other than with the main dialect area.<ref>{{Cite journal|last=Gawne|first=Lauren|date=2010|title=Lamjung Yolmo: a dialect of Yolmo, also known as Helambu Sherpa|journal=Nepalese Linguistics|volume=25|pages=34–41}}</ref> In 2016 the Syuba community published a Syuba-Nepali-English dictionary.<ref name=":03">{{Cite book|title=Syuba-Nepali-English Dictionary|last=SIL International and HIS Nepal|publisher=Himalayan Indigenous Society Nepal|year=2015|location=Kathmandu}}</ref>
+
+Three open access collections of Syuba, [http://catalog.paradisec.org.au/collections/MH1 MH1] digitised from Monika Hölig's 1970s recordings,<ref>{{Cite journal|url=http://catalog.paradisec.org.au/collections/SUY1|title=Kagate (Nepal)|last=Hölig|first=Monika|date=1972|website=catalog.paradisec.org.au|publisher=Digital collection managed by PARADISEC.|doi=10.4225/72/5a2aa8fa3fde0|access-date=2018-08-21}}</ref> [http://catalog.paradisec.org.au/collections/SUY1 SUY1] documentation by Lauren Gawne (2009-2016),<ref name=":0">{{Cite journal|url=http://catalog.paradisec.org.au/collections/SUY1|title=Kagate (Nepal)|last=Gawne|first=Lauren|date=2009|website=catalog.paradisec.org.au|publisher=Digital collection managed by PARADISEC|doi=10.4225/72/56E976A071650|access-date=2018-08-21}}</ref> [http://catalog.paradisec.org.au/collections/MTC1 MTC1] a 2013 BOLD documentation by the Mother Tongue Centre Nepal.<ref>{{Cite journal|url=http://catalog.paradisec.org.au/collections/MTC1|title=Syuba audio recordings from the Mother Tongue Centre Nepal (MTCN)|last=Mother Tongue Centre Nepal|date=2013|website=catalog.paradisec.org.au|publisher=Digital collection managed by PARADISEC|doi=10.4225/72/5a2aa8fe9880e|access-date=2018-08-21}}</ref>
+
+== Language vitality ==
+Using the [[w:Ethnologue|Expanded Graded Intergenerational Disruption Scale]] (EGIDS), Ethnologue gives Yolmo a vitality rating of 6a 'Vigorous', but does not cite a source for this claim.<ref name=":17">{{Cite web|url=http://www.ethnologue.com/|title=Ethnologue: Languages of the World|last1=Simons|first1=Gary F.|last2=Fennig|first2=Charles D.|website=Ethnologue|publisher=SIL International|location=Dallas, Texas|language=en|access-date=2018-11-14|edition=Twenty-first}}</ref> The vitality of the language varies depending on the location. In the Melamchi Valley area the language is spoken mostly by older adults. The younger generations having largely shifted to Nepali, though the language is being maintained for religious practices.<ref name=":15" /> The shift towards Nepali for younger speakers has also been observed in Lamjung, as this is the language used in schools.<ref name=":11">{{harvp|Gawne|2016|pages=5–6}}</ref> The Syuba variety in Ramechhap is currently still spoken across all generations, including children. Mitchell & Eichentopf give it an EGIDS rating of 6a 'Vigorous', which is the likely reference for the Ethnologue rating.<ref name=":17" /><ref name=":022">{{Cite book|title=Sociolinguistic survey of Kagate: Language vitality and community desires.|last=Mitchell, Jessica R. & Stephanie R. Eichentopf|publisher=Central Department of Linguistics Tribhuvan University, Nepal and SIL International|year=2013|location=Kathmandu}}</ref> This is a recent survey with primary data presented, and is in concord with the first author's own observations of this community. There is insufficient data on the Ilam or Langtang variety to assess their vitality at this stage.
+
+== Language contact ==
+The majority of Yolmo speakers are minimally bilingual in the national language Nepali. For older speakers Nepali was mostly used for interaction with people outside their community, and they may be less proficient, while younger speakers are likely to have attended school in Nepali and are proficient.
+
+While there is relatively little influence of Nepali on basic vocabulary (such as the Swadesh list below), Nepali words are commonly adopted into Yolmo. In Hari & Lama's dictionary of over 4000 entries there are over 200 entries marked with some kind of Nepali influence.<ref name=":3" /> The extent to which Nepali words have been reconfigured to Yolmo phonology has not been systematically studied. One observation is that Nepali verbs take a suffix ''-ti'' before any tense or aspect marking. This suffix is not voiced in any environment, unlike the [[w:Perfective aspect|perfective aspect]] marker ''-ti''.<ref name=":5" />
+
+In the Helambu area Tamang women would marry into the villages, but they appeared to move to Yolmo-speaking when they married in<ref name=":18" /> (although contact with Tamang may account for some features of Yolmo, such as the general fact evidential, below).<ref>Lauren Gawne & Thomas Owen-Smith. 2016. The ‘General Fact’ copula in Yolmo and the influence of Tamang. ''2016 Annual Meeting of the Linguistics Association of Great Britain (LAGB)''. University of York''':''' September 6–9.</ref>
+
+Individuals may also have other languages in their personal repertoire, through marriage to someone from a different language group, international work or engagement with tourists from different countries. English is increasingly common as a language of education.
+
+== Orthography ==
+Hyolmo does not have a written tradition although there are attempts to develop an orthography based on [[w:Devanagari|Devanagari]], the script used to write the national language [[w:Nepali language|Nepali]], as seen in the publication of two dictionaries.<ref name=":3" /><ref name=":1" /> Syuba speakers also settled on a Devanagari orthography for their dictionary.<ref name=":03"/>  All of these dictionaries also present the languages in [[w:Romanization|Roman]] orthographies.
+
+=== Devanagari ===
+The modifications to [[w:Devanagari|Devanagari]] are minor, and are intended to ensure that all sounds in the language can be represented. None of the orthographies use the '[[w:Devanagari#Principle|inherent schwa vowel]]', meaning that a consonant without an overt vowel is not treated as having an implied vowel. Consonants remain the same as in the existing Devanagari tradition, with the use of joined [[w:Digraph (orthography)|digraphs]] to represent additional sounds in the language, such as the combination of क (k) and य (y) for the palatal stop क्य ([c] 'kh'), स (s) and य (y) for the palatal fricative स्य ([ʃ] 'sh'), र and ह for the voiceless liquid र्ह ([r̥] 'rh'), and ल and ह for the voiceless lateral ल्ह ([l̥] 'lh') ह्य ('hy').
+
+Vowel length is unmarked in the Syuba dictionary, in the two Yolmo dictionaries the standard Devanagari length distinctions are made, with the addition of a small diacritic below the 'a' vowel ( ा) to indicate a longer vowel. The Hari & Lama<ref name=":3" /> and Gawne<ref name=":1" /> dictionaries both use ह (h) after the vowel to mark low tone (e.g. टाह ''ʈà'' 'pheasant'), while in (the Syuba orthography a [[wikipedia:Visarga|visarga]] represents the low tone (टाः ''ʈà'' 'pheasant'). High tone is left unmarked.
+
+=== Roman ===
+All three dictionaries also make use of variations on a Romanised orthography, although this does not appear to be used or preferred by Hyolmo speakers, and is intended for the English-literate audience of the dictionaries. Consonants predominantly take their form from the [[w:International Phonetic Alphabet|International Phonetic Alphabet]], with some exception where there is a more common preference in English, such as digraphs for the palatal stops ([c] 'ky', [c<sup>h</sup>] 'khy', [ɟ] 'gy') and non-superscript for aspiration (e.g. ''phá'' 'pig'). This is represented in the [[w:Hyolmo language#Consonants|consonant chart]] in the Phonology section.
+
+The vowels in Hyolmo follow the [[w:International Phonetic Alphabet|International Phonetic Alphabet]], except for [ɔ] which uses 'o' for ease of typing. Long vowels are represented by double characters, e.g. [ɲíː] 'two' is represented as ''ɲíi'', except in the Syuba dictionary<ref name=":03" /> where vowel length is not indicated in either the Devanagari or Roman scripts. For tone Hari<ref name=":15" /><ref name=":3" /> uses a 'h' after the vowel to represent low tone, (e.g. ''toh'' 'stone') with high tone unmarked (e.g. ''to'' 'rice'), Gawne<ref name=":1" /> uses the [[w:International Phonetic Alphabet|International Phonetic Alphabet]] convention of using accents over the vowel to mark high and low tone (e.g. ''tó'' 'rice' and ''tò'' 'stone'), while the Syuba dictionary uses a superscript <sup>L</sup> at the start of the syllable to mark low tone (e.g. ''<sup>L</sup>to'' 'stone') with high tone unmarked.<ref name=":03" />
+
+On this page the orthography mostly follows Hari's transcription,<ref name=":15" /><ref name=":3" /> as outlined in the phonology. Unlike Hari, representation of tone follows the [[w:International Phonetic Alphabet|International Phonetic Alphabet]], with accents to mark high and low tone (e.g. ''tó'' 'rice' and ''tò'' 'stone' respectively). This avoids Hari's use of 'h' to represent both low tone and the sound [h].<ref name=":11" />
+
+== Grammatical overview ==
+The sections below contain an overview of the key features of the grammar of Hyolmo. Information is mostly drawn from Hari's grammar of the language,<ref name=":15" /> supplemented by the Yohlmo-Nepali-English dictionary she co-wrote with Chhegu Lama.<ref name=":3" /> Differences between this variety and other documented dialects are indicated where relevant. Links to other related languages will also be made where relevant.
+
+All example sentences are presented with an interlinear gloss. This breaks down the words on a [[w:morpheme|morpheme]] level, giving information about the meaning of each morpheme using a standard set of [[w:List of glossing abbreviations|glossing abbreviations]]. All examples are cited back to the original publication they are drawn from. Some glossing has been regularised, or added where it was not included in the original.
+
+==Phonology==
+
+=== Consonants ===
+There are 36 consonants in Yolmo, which are summarized in the table below. The form is given in IPA and then to the right in brackets is given the form used in this article, if different.<ref name=":15" />
+
+:{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Postalveolar consonant|Post-<br>alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan="3" | [[Plosive]]
+! style="font-size:x-small" | voiceless
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| 
+| {{IPAlink|ʈ}}
+| {{IPAlink|c}} {{angbr|ky}}
+| {{IPAlink|k}}
+| 
+|-
+! style="font-size:x-small" | aspirated
+| {{IPAlink|pʰ}} {{angbr|ph}}
+| {{IPAlink|tʰ}} {{angbr|th}}
+| 
+| {{IPAlink|ʈʰ}} {{angbr|ʈh}}
+| {{IPAlink|cʰ}} {{angbr|khy}}
+| {{IPAlink|kʰ}} {{angbr|kh}}
+| 
+|-
+! style="font-size:x-small" | voiced
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| 
+| {{IPAlink|ɖ}}
+| {{IPAlink|ɟ}} {{angbr|gy}}
+| {{IPAlink|ɡ}}
+| 
+|-
+! rowspan="2" | [[Fricative]]
+! style="font-size:x-small" | voiceless
+| 
+| {{IPAlink|s}}
+| {{IPAlink|ɕ}}
+| 
+| 
+| 
+| {{IPAlink|h}}
+|-
+! style="font-size:x-small" | voiced
+| 
+| {{IPAlink|z}}
+| {{IPAlink|ʑ}}
+| 
+| 
+| 
+| 
+|-
+! rowspan="3" | [[Affricate]]
+! style="font-size:x-small" | voiceless
+| 
+| {{IPAlink|ts}}
+| {{IPAlink|tɕ}}
+| 
+| 
+| 
+| 
+|-
+! style="font-size:x-small" | aspirated
+| 
+| {{IPAlink|tsʰ}} {{angbr|tsh}}
+| {{IPAlink|tɕʰ}} {{angbr|tɕh}}
+| 
+| 
+| 
+| 
+|-
+! style="font-size:x-small" | voiced
+| 
+| {{IPAlink|dz}}
+| {{IPAlink|dʑ}}
+| 
+| 
+| 
+| 
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| 
+| 
+| {{IPAlink|ɲ}}
+| {{IPAlink|ŋ}}
+| 
+|-
+! rowspan="2" | [[Rhotic consonant|Rhotic]]
+! style="font-size:x-small" | voiceless
+| 
+| {{IPAlink|r̥}} {{angbr|rh}}
+| 
+| 
+| 
+| 
+| 
+|-
+! style="font-size:x-small" | voiced
+| 
+| {{IPAlink|r}}
+| 
+| 
+| 
+| 
+| 
+|-
+! rowspan="2" | [[Lateral consonant|Lateral]]
+! style="font-size:x-small" | voiceless
+| 
+| {{IPAlink|l̥}} {{angbr|lh}}
+| 
+| 
+| 
+| 
+| 
+|-
+! style="font-size:x-small" | voiced
+| 
+| {{IPAlink|l}}
+| 
+| 
+| 
+| 
+| 
+|-
+! colspan="2" | [[Semivowel]]
+| {{IPAlink|w}}
+| 
+| 
+| 
+| {{IPAlink|j}} {{angbr|y}}
+| 
+| 
+|}
+
+Not all consonants are equally frequent. In particular [h], [r̥] and [l̥] are not particularly frequent, nor are vowel-initial words.
+
+=== Vowels ===
+There are five places of articulation for vowels. There is a length distinction at each place of articulation. The form of each vowel is given in IPA and then to the right in brackets is given the form used in this article, if different.
+
+:{| class="wikitable" style="text-align:center;"
+!
+![[Front vowel|Front]]
+![[Mid vowel|Mid]]
+![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+|{{IPA link|i}} &nbsp; {{IPA link|iː}} {{angbr|ii}}
+|
+|{{IPA link|u}} &nbsp; {{IPA link|uː}} {{angbr|uu}}
+|-
+![[Mid vowel|Mid]]
+|{{IPA link|e}} &nbsp; {{IPA link|eː}} {{angbr|ee}}
+|
+|{{IPA link|ɔ}} {{angbr|o}} &nbsp; {{IPA link|ɔː}} {{angbr|oo}}
+|-
+![[Low vowel|Low]]
+|
+|{{IPA link|a}} &nbsp; {{IPA link|aː}} {{angbr|aa}} 
+|
+|}
+
+Below are some minimal pairs that demonstrate the vowel length distinction. The diacritic above the vowel is the tone marker, the acute accent indicates that all of these examples are high tone. This is explained in more detail in the section on [[WikiJournal Preprints/A grammatical overview of Yolmo (Tibeto-Burman)#Tone|tone]].
+
+:{|
+|-
+|''tɕí''
+|'one'
+|-
+|''tɕíi''
+|'what'
+|-
+|''tó''
+|‘rice (cooked)'
+|-
+|''tóo''
+|'be hungry'
+|}
+
+Vowel-length distinctions are not common across Tibetic language, but they are also attested in Syuba<ref name=":9" /> (although Syuba speakers do not consider them salient enough to encode in the orthography<ref name=":03" />) and in Kyirong for open syllables.<ref name=":16">{{Cite book|title=The Tibetan dialect of Lende (Kyirong) : a grammatical description with historical annotations|last=Huber|first=Brigitte|date=2005|publisher=VGH Wissenschaftsverlag|isbn=3882800690|location=Bonn|pages=20–21|oclc=60613565}}</ref>
+
+Unlike many other Tibetic languages, including [[w:Kyirong language|Kyirong]], and [[w:Standard Tibetan|Standard Tibetan]], Yolmo does not have a [[w:Front rounded vowel|front rounded]] [y]. This is true for all dialects of Yolmo documented to date, including Syuba. Langtang, however, does have this vowel.<ref name=":8" />
+
+=== Tone ===
+Like other Tibetic languages, Yolmo has tone, which is located on the first vowel of a word.<ref>Hildebrandt, Kristine A. and Amos B. Teo (2016). Tibeto-Burman Tone Typology. ''International Workshop on the Typological Profiles of Language Families of South Asia''. Uppsala, Sweden, September 16, 2016.</ref> Hari presents a four tone contrast of Melamchi Valley Yolmo; high level, high falling, low level and low falling.<ref name=":15" /> Acoustic evidence from Lamjung Yolmo and Kagate indicates that there is only acoustic evidence for a contrast between two tones; low and high.<ref name=":1"/> Below are some examples of tone minimal pairs:
+
+:{|
+|-
+|''pú'' 
+| 'body hair' 
+|-
+|''pù''
+|‘son’
+|-
+|''kómba''
+|‘thirsty’
+|-
+|''kòmba''
+|‘temple’
+|}
+
+Low tone words can be marked with [[w:breathy voice|breathy voice]], but this is not always the case. The practice of indicating low tone with a 'h' following the vowel in [[w:Yolmo language#Orthography|some orthographies]] is related to this breathy property of low-tone vowels. The high tone, which uses [[w:modal voice|modal voice]], is left unmarked.
+
+Tone is predictable in some environments. It is always high following [[w:Aspirated consonant|aspirated]] [[w:Stop consonant|stops]], aspirated [[w:Affricate consonant|affricates]] and [[w:Voicelessness|voiceless]] [[w:Liquid consonant|liquids]] (which speakers treat as equivalent to aspirated). Examples of all of these include:
+
+:{|
+|-
+|''pháa''
+| 'pig' 
+|-
+|''thí''
+|'ruler (for measuring)'
+|-
+|''ʈháa''
+|'blood'
+|-
+|''khyá''
+|'you, plural'
+|-
+|''khá''
+|'mouth'
+|-
+|''tshá''
+|'salt'
+|-
+|''tɕhá''
+|'pair'
+|-
+|''rhílmu''
+|'round'
+|-
+|''lhá''
+|'god'
+|}
+Tone is always low following [[w:Voice (phonetics)|voiced]] stops, voiced fricatives and voiced affricates. Examples of all of these include:
+:{|
+|-
+|''bù''
+| 'insect' 
+|-
+|''dà''
+|'arrow'
+|-
+|''ɖù''
+|'grain'
+|-
+|''gyàa''
+|'place'
+|-
+|''gùri''
+|'cat'
+|-
+|''dzàdi''
+|'nutmeg'
+|-
+|''dʑùbu''
+|'huge/much'
+|-
+|''zà''
+|'rainbow'
+|-
+|''ʑèe''
+|'udder'
+|}
+
+On words with more than one syllable the tone is marked on the initial syllable. Subsequent syllables eventually level off. Tone on all words is influenced by prosody, and may become more or less neutralised in running speech.<ref>{{cite journal |last1=Teo |first1=Amos |first2=Lauren |last2=Gawne |first3=Melissa |last3=Baese-Berk |title=Tone and intonation: A case study in two Tibetic languages |journal=Proceedings of the 18th International Conference on Phonetic Sciences |location=Glasgow, UK |publisher=University of Glasgow |isbn=978-0-85261-941-4 |id=Paper number 0893 |url= http://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0893.pdf}}</ref>
+
+The only prefixes in the language are the [[w:Yolmo language#Negation|negator]] prefixes ''mà-'' and ''mè-''. Both have low tone, however if the following root has high tone it will not change tone because of the preceding low suffix.<ref name=":15" />
+
+There are no morpho-phonemic variations discussed for the language. The only related feature are a small set of verb minimal pairs where transitivity is distinguished by tone:
+:{|
+|-
+|''làŋ''
+|'to rise'
+|-
+|''láŋ''
+|'to raise'
+|-
+|''tàp''
+|'to fall'
+|-
+|''táp''
+|'to be scattered'
+|-
+|''ròp''
+|'to break'
+|-
+|''róp''
+|'to break something'
+|}
+
+=== Syllable structure ===
+Yolmo has the [[w:syllable structure|syllable structure]] (C)(C)V(C).<ref name=":5" /> This means that the minimum a syllable needs is a [[w:vowel|vowel]]. Syllables can also have up to two consonants before the vowel and one after the vowel. 
+:{|
+|-
+|V
+|''òo''
+|'there'
+|-
+|VC
+|''ùr''
+|'fly'
+|-
+|CV
+|''pù''
+|'son'
+|-
+|CVC
+|''pùp''
+|'keep warm'
+|-
+|CCV
+|''prù''
+|'write'
+|-
+|CCVC
+|''prùl''
+|'snake'
+|}
+All consonants and vowels can occur word-initial, with a restricted set able to occur in the second syllable. The set of syllable initial consonant clusters includes /pr, br, kr, py, phy, sw, kw, thw, rw/.
+
+All vowels can occur syllable-final, and final consonants include voiceless unaspirated bilabial /b/ and velar stops /k/, voiced liquids /l,r/, the voiced labio-velar /w/ and all nasals except the palatal /m, n, ng/.
+
+=== Morphophonemic processes ===
+There is a regular process by which the suffixes undergo a change depending on the nature of the verb that they are attached to. Suffixes that begin with a [[w:Voicelessness|voiceless]] [[w:Stop consonant|stop]], such as the [[w:Yolmo language#Non-past Tense|non-past ''-ke'']], the [[w:Yolmo language#Imperative|imperative ''-toŋ'']] or the [[w:Yolmo language#Hortative|hortative ''-ka'']]'','' all undergo regular morphophonological processes. If they occur after a syllable with a final sound that is voiced they will also be voiced, if they occur after an unvoiced final sound, or an /r/ the start of the suffix will be unvoiced. The examples below are with the [[w:Yolmo language#Non-past Tense|non-past ''-ke'']]'':'' 
+:{|
+|-
+|''tá-ge''
+| watch-{{Smallcaps|non.pst}}
+|-
+|''tén-ge''
+|show-{{Smallcaps|non.pst}}
+|-
+|''zàp-ke''
+|dress.up-{{Smallcaps|non.pst}}
+|-
+|''mùr-ke''
+|chew-{{Smallcaps|non.pst}}
+|}
+The only forms that cannot be predicted by this process is if the suffix is after /i/ or /e/, both of which are [[w:Vowel|high front vowels]]. The voicing cannot be predicted in this context, and the suffix is sometimes voiced and sometimes unvoiced. Below are examples of verbs with both /i/ and /e/: 
+:{|
+|-
+|''pí-ge''
+| pull.out-{{Smallcaps|non.pst}}
+|-
+|''ɕí-ge''
+|die-{{Smallcaps|non.pst}}
+|-
+|''ɕé-ke''
+|tell-{{Smallcaps|non.pst}}
+|-
+|''kyé-ke''
+|give.birth-{{Smallcaps|non.pst}}
+|}
+
+There is also a tendency for suffixes that begin with -k/ -g to omit the initial sound after a vowel. This is not as regular a process as the voicing alterations described above. Below are some examples of this process:
+
+:{| class="wikitable"
+|{{interlinear|ŋà{{=}}i|1{{=}}SG{{=}}GEN|'my'}}
+|{{interlinear|ɖò-en|go-NPST|'go'}}
+|}
+
+== Word order ==
+Yolmo has the basic word order of [[w:Subject–object–verb|Subject-Object-Verb]]. This is common in the [[w:Tibeto-Burman languages|Tibeto-Burman family]].
+
+{{interlinear|indent=3
+|ŋà{{=}}ki tó sà-sin
+|1SG{{=}}ERG rice.cooked eat-PST
+|'I ate rice' (Gawne 2016: 69)}}
+
+== Nouns/nominals ==
+The [[w:noun phrase|noun phrase]] in Yolmo includes either a [[w:noun|noun]] or a [[w:pronoun|pronoun]]. The noun phrase with a noun can also include a [[w:determiner|determiner]], [[w:adjective|adjective]] and [[w:Numeral classifier|number marker]], while the options are more limited with a pronoun or [[w:proper noun|proper noun]]. Noun suffixes include [[w:Case marker|case markers]], [[w:Plural|plural marker]] and numeral classifiers.
+
+The order of the noun phrase is (Determiner) '''Noun'''=Plural(-Focus Marker)(=Case) (Numeral Classifier) (Number) (Adjective).<ref name=":5" />
+
+=== Determiners ===
+The Yolmo [[w:Definiteness|definite]] [[w:determiner|determiner]] is ''dì'' the same as the third person inanimate pronoun 'it/this'. It occurs before the noun:
+
+{{interlinear|indent=3
+|'''dì''' pèza
+|'''DET''' child 
+|'The child' (Hari 2010: 31)}}
+
+The [[w:Definiteness|indefinite]] is marked using the numeral ''tɕíi'' 'one', which comes after the noun, like other numbers:
+
+{{interlinear|indent=3
+|mì '''tɕíi'''
+|person '''one'''
+|'A person' (Hari 2010: 91)}}
+
+=== Pronouns ===
+Yolmo pronouns are presented in the table below. There is an [[w:Clusivity|inclusive/exclusive]] distinction for first person plural pronouns, a [[w:Grammatical gender|gender]] distinction for third person singular and an [[w:animacy|animacy]] distinction for third person.
+
+:{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | ŋà
+| ɲì
+|-
+! inclusive
+| òraŋ/ùu
+|-
+! colspan="2" | 2nd person
+| khyé
+| khyá
+|-
+! rowspan="3" | 3rd Person
+! masc.
+| khó
+| rowspan="2" | khúŋ
+|-
+! fem.
+| mò
+|-
+! inanimate
+| dì
+| dìya
+|-
+! colspan="2" | Reflexive
+| ràŋ
+| 
+|}
+
+The first person plural ''òraŋ'' is more commonly found in the Western dialects of Melamchi and Helambu Valley Yolmo, as well as Lamjung Yolmo, while ''ùu'' is more common in the Eastern dialects. It is possible to create a dual form by adding ''ɲíi'' to the plural form (e.g. ''khyá ɲíi'' 'you two'), although this is optional.
+
+The third person plural ''khúŋ'' can also be used as a polite form for a single third person.
+
+Pronouns do not take determiners, number, or adjectives.
+
+==== Interrogative pronouns ====
+[[w:Interrogative word|Interrogative pronouns]] are used to form questions. Yolmo has the following attested interrogative pronouns:  
+:{|
+|-
+|''sú''||'who'
+|-
+|''nàm''|| 'when' 
+|-
+|''kàla''
+|'where'
+|-
+|''tɕípe, tɕíle, tɕí mée''
+|'why'
+|-
+|''tɕí''
+|'what'
+|-
+|''kàndi''
+|'which one'
+|-
+|''súgi''
+|'whose'
+|-
+|''súla''
+|'whom'
+|-
+|''kànɖu, kànmu''
+|'how'
+|}
+Hari gives both ''kà'' and ''kàla (kà'' with the dative suffix) as forms for 'where' in Melamchi Valley Yolmo, but only ''kàla'' is attested in Lamjung Yolmo.<ref name=":1" /> There are also a number of forms for 'why', ''tɕípe'' and ''tɕíle'' are attested in both Melamchi Valley Yolmo and Lamjung Yolmo, but only ''tɕí mée'' in Melamchi Valley Yolmo. This is because it uses the verb ''mée'' 'say' as part of the construction, which is not in Lamjung Yolmo (see the section on [[w:Yolmo language#Reported speech|reported speech]], as well as the [[w:Yolmo language#100 Word Swadesh List|word list]]). The ''kànmu'' form of 'how' is attested in Lamjung Yolmo, while ''kànɖu'' is used in Melamchi Valley Yolmo, with an optional ''-mu'' suffix to make ''kànɖu-mu.'' Hari and Lama also note the form ''kànɖu-bar'' in the Western regions.<ref name=":13">{{Cite book|title=Yohlmo-Nepali-English Dictionary|last1=Hari|first1=Anna Maria|last2=Lama|first2=Chhegu|publisher=Central Department of Linguistics|year=2004|location=Kathmandu|pages=710}}</ref>
+
+Note that the words ''súgi'' and ''súla'' are complex forms, ''súgi'' is ''sú'' 'who' with the genitive case suffix, and ''súla'' is ''sú'' with the dative case suffix.
+
+For more on the structure of interrogative clauses, see the section on [[w:Yolmo language#Question formation|question formation]].
+
+=== Proper nouns ===
+Proper nouns include people's names, place names and the names of deities. They do not take determiners, number, or adjectives.
+
+=== Plural ===
+The [[w:plural|plural]] marker in Melamchi and Lamjung Yolmo is ''=ya''.The plural is treated as a [[w:clitic|clitic]] as it occurs after an [[w:adjective|adjective]] if there is one, rather than always attaching directly to the noun: 
+
+{{interlinear|indent=3
+|kháŋba tɕímbu tɕhímbu{{=}}'''ya'''
+|house big big{{=}}'''PL'''
+|'The big houses' (Hari 2010: 28)}}
+
+Plural marking is optional if an overt number is used with the noun, or if the number is clear from context:
+
+{{interlinear|indent=3
+|pèmpiʑa '''súm''' dù
+|women '''three''' COP.PE
+|'There are three women' (Gawne 2016: 55)}}
+
+The plural form in Syuba is =''kya'',<ref name=":9" /> which is more similar to the Kyirong form,<ref name=":16" /> suggesting the Yolmo ''=ya'' is an innovation.
+
+=== Focus marker ===
+Yolmo has a nominal focus marker ''-ti''. The focus marker gives prominence to the noun it is attached to. In the example below, the older brother is singled out, contrasted with other relatives who perhaps did not obtain such wealth:
+
+{{interlinear|indent=3
+|áda-'''di''' ɲìma ɲèdzen tɕhúkpu kàl-di oŋ-sin dù
+|older.brother-'''FOC''' day every rich went-PFV come-PST AUX.PE
+|'The older brother became richer every day.' (Hari & Lama 2004: 271)}}
+
+Hari also notes for Melamchi Valley Yolmo that there is a focus marker ''-ka'', which is used specifically to mark something as contrary to expectation. 
+
+{{interlinear|indent=3
+|kháŋba tɕhímbu tɕhímbu{{=}}ya-la-'''ga''' tè-ku dù
+|house big big{{=}}PL-LOC-'''FOC''' reside-IPFV AUX.PE
+|'I realize that they are living in big houses.' (Hari 2010: 27)}}
+
+Nouns can also take the emphatic suffixes ''-ni'' and ''-raŋ'', which are also used for other parts of speech (see section on [[w:Yolmo language#Lexical emphasis|lexical emphasis]]).
+
+=== Case marking ===
+Yolmo uses [[w:Postpositional case|post-positional]] suffixes to mark the [[w:Case marking|case]] of nouns. Similar to other [[w:Tibetic languages|Tibetic]] languages, Yolmo uses a single case form for multiple functions. Case marking is treated as a [[w:clitic|clitic]], as clitics come at the end of the whole noun phrase, rather than directly attaching to only the noun. Below the cases are listed with their functions.
+:{| class="wikitable"
+!Case marker
+!Function
+|-
+|=ki
+|[[w:Genitive case|genitive]], [[w:Ergative case|ergative]], [[w:Instrumental case|instrumental]]
+|-
+|=la
+|[[w:Locative case|locative]], [[w:Allative case|allative]], [[w:Dative case|dative]]
+|-
+|=le(gi)
+|[[w:Ablative case|ablative]]
+|}
+The case markers are phonologically bound, with the =''ki'' form becoming voiced in some environments, it is also reduced to =''i'' in some environments. See the section on [[w:Yolmo language#Morphophonemic processes|morphophonemic processes]] for more on this.
+
+Where there is also a plural the case marker comes after the plural, as in the example below:
+
+{{interlinear|indent=3
+|tɕàmu{{=}}ya{{=}}'''gi''' kòŋa tɕú thál kyée dù
+|hen{{=}}PL{{=}}'''ERG''' egg ten NUM.CLF lay COP.PE
+|'The hens laid ten eggs' (Hari 2010: 23)}}
+
+==== Ergative case ====
+Yolmo has optional [[w:Ergative case|ergative]] case-marking. Ergative marking means that [[w:Grammatical subject|subjects]] of [[w:Intransitive verb|intransitive verbs]] are unmarked, the same as [[w:Object (grammar)|objects]] of [[w:Transitive verb|transitive verbs]]. Subjects of transitive verbs are distinguished from both of these with the ''=ki'' marker (in contrast to [[w:Nominative–accusative language|nominative-accusative]] languages like English, where the subjects of both intransitive and transitive verbs are marked in contrast with objects of transitive verbs).
+
+Below is an intransitive sentence, with the subject ''ŋà'' taking no marking:
+
+{{interlinear|indent=3
+|ŋà ŋù-sin
+|1SG cry-PST
+|'I cried'}}
+
+In contrast with this ergative-marked transitive, where the subject ''ŋà'' is marked with the ergative:
+
+{{interlinear|indent=3
+|ŋà{{=}}'''gi''' ɕò úp-sin
+|1SG{{=}}'''ERG''' yoghurt cover-PST
+|'I covered the yoghurt' (Hari 2010: 39)}}
+
+Speakers do not always use the ergative case, which is why it is considered 'optional':
+
+{{interlinear|indent=3
+|ŋà tó sà-ke
+|1SG rice.cooked eat-NPST
+|'I eat rice' (Gawne 2016: 69)}}
+
+Ergative marking is more common for [[w:past tense|past tense]], and non-[[w:Habitual aspect|habitual]] actions. There also appears to be some effect of animacy, and the ergative appears to be used as a strategy in discourse to mark [[w:Agent (grammar)|agentivity]].<ref>{{harvp|Gawne|2016|pages=66–68}}</ref> This form of optional ergativity is common across the Tibeto-Burman family.<ref>{{Cite journal|last1=Chelliah|first1=Shobhana L.|last2=Hyslop|first2=Gwendolyn|date=2011|title=Introduction to Special Issue on Optional Case Marking in Tibeto-Burman|journal=Linguistics of the Tibeto-Burman Area|volume=34|issue=2|pages=1–7|doi=10.15144/LTBA-34.2.1}}</ref>
+
+==== Dative case ====
+[[w:Dative case|Dative case]] is typically used to indicate, broadly, the noun to which something is given. The Yolmo dative has this function, but it also has a function in 'dative subject' constructions. The dative subject occurs with a small set of [[w:Intransitive verb|intransitive verbs]], and denote personal, and usually internal, states.
+
+{{interlinear|indent=3
+|ŋà{{=}}'''la''' hé kà-en
+|1SG{{=}}'''DAT''' potatoes like-NPST
+|'I like potatoes.' (Hari 2010: 42)}}
+
+The use of dative subjects is common in languages of this area, and is also [[w:Dative construction|attested more broadly]].
+
+=== Number ===
+Yolmo has a base-20 counting system.<ref name=":13" /> As can be seen in the examples above, [[w:Cardinal number (linguistics)|cardinal numbers]] can be used in noun phrases.
+
+The Yolmo number system is very similar to that of Standard Tibetan and other Tibetan varieties. In the table below is the Yolmo number, taken from Hari's dictionary.<ref name=":3" /> 
+{| class="wikitable"
+!Yolmo 
+!English
+!
+!Yolmo
+!English
+!
+!Yolmo
+!English
+|-
+|tɕíi
+|1
+|
+|khál tɕíi tɕíi
+|21
+|
+|ʑìpkha
+|400
+|-
+|ɲíi
+|2
+|
+|khál tɕíi ɲíi
+|22
+|
+|ŋápkya
+|500
+|-
+|súm
+|3
+|
+|khál tɕíi súm
+|23
+|
+|ʈùpkya
+|600
+|-
+|ʑì
+|4
+|
+|khál tɕíi ʑì
+|24
+|
+|tìngya
+|700
+|-
+|ŋá
+|5
+|
+|khál tɕíi ŋá
+|25
+|
+|kyèkya
+|800
+|-
+|ʈùu
+|6
+|
+|khál tɕíi ʈúu
+|26
+|
+|kùpkya
+|900
+|-
+|tìn
+|7
+|
+|kál tɕíi tìn
+|27
+|
+|tóŋra
+|1000
+|-
+|kyèe
+|8
+|
+|khál tɕíi kyèe
+|28
+|
+|
+|
+|-
+|kù
+|9
+|
+|khál tɕíi kù
+|29
+|
+|
+|
+|-
+|tɕú
+|10
+|
+|khál tɕíi tɕú
+|30
+|
+|
+|
+|-
+|tɕúuʑi
+|11
+|
+|khál ɲíi
+|40
+|
+|
+|
+|-
+|tɕíŋii
+|12
+|
+|khál tɕú
+|50
+|
+|
+|
+|-
+|tɕúusum
+|13
+|
+|khál súm
+|60
+|
+|
+|
+|-
+|tɕúpɕi
+|14
+|
+|khál súm tɕú
+|70
+|
+|
+|
+|-
+|tɕéeŋa
+|15
+|
+|khál ʑì
+|80
+|
+|
+|
+|-
+|tɕíiru
+|16
+|
+|khál ʑì tɕú
+|90
+|
+|
+|
+|-
+|tɕúptin
+|17
+|
+|khál ŋá
+|100
+|
+|
+|
+|-
+|tɕápkye
+|18
+|
+|khál tìn tɕú
+|150
+|
+|
+|
+|-
+|tɕúrku
+|19
+|
+|khál tɕú
+|200
+|
+|
+|
+|-
+|khál ɕíi
+|20
+|
+|khál tɕéeŋa
+|300
+|
+|
+|
+|}In Lamjung Yolmo, the base-20 system is only used by a small number of older speakers, with others using a base-10 system. For example, 'twenty' is ''ɲídʑu'', 'thirty' is ''súmdʑu'', 'forty' is ''ɕíptɕu'', etc. Even then, once people reach 20 the usually switch to counting in Nepali.<ref name=":5" />
+
+Ordinal numbers are formed by addition of the suffix ''-pa'', or alternatively with the suffix ''-pu'' for ordinals relating to people, in Melamchi Yolmo. Ordinals are typically only formed up to 20.
+
+==== Numeral classifiers ====
+Yolmo also has an optional [[w:Classifier (linguistics)|numeral classifier]] ''thál''. This is used to emphasise number. In the example in the [[w:Yolmo language#Case marking|section on case marking]] above, the speaker is emphasising that the hens laid a large number of eggs.
+
+Lamjung Yolmo also has the classifier ''mènda'' which can only be used with humans.<ref name=":5" />
+
+=== Adjectives ===
+[[w:Adjective|Adjectives]] occur within the [[w:noun phrase|noun phrase]]. Adjectives usually come after the noun so 'small child' would be ''pìʑa tɕháme'' (lit. 'child small'). Adjectives can also occur before the noun, especially in casual speech.<ref name=":5" /> Many adjectives are derived from verb forms, and often end with ''-pu, -po, -pa'' or ''-mu'', but they do not act as verbs, as we see in languages like Magar and Manage.<ref>Genetti, C. and K.A. Hildebrandt. 2004. The two adjective classes in Manange. In R.M.W. Dixon and A.Y. Aikhenvald (eds.) Adjective Classes: A Cross-Linguistic Typology. 74-97. Oxford University Press.</ref> Hari also notes that there are some adjectives that appear to not have a known verbal origin.<ref name=":04" /> Adjectives can occur as the head of a noun phrase, but this is very uncommon. 
+{| class="wikitable"
+|-
+|''tɕhómbo''
+|'big'
+|-
+|''rìŋbu''
+|'long'
+|-
+|''màrmu, màrpu''
+|'red'
+|-
+|''kárpu, kármu''
+|'white'
+|-
+|''dzìba''
+|'afraid'
+|-
+|''ʈòmbo''
+|'warm'
+|}
+It is possible to create a new adjective from a verb, using the ''-pa'' [[WikiJournal Preprints/A grammatical overview of Yolmo (Tibeto-Burman)#Nominalisation|nominalising]] suffix. The verb stem is often reduplicated; ''rùl-'' 'to rot' becomes ''rùl rùlba'' 'rotten' and ''pàŋ-'' 'to be wet' becomes ''pàŋ pàŋba'' 'wet'.<ref name=":5" />
+
+== Verbs ==
+There are three main types of verbs in Yolmo, [[w:Lexical verb|lexical verbs]], [[w:Auxiliary verb|auxiliary verbs]] and [[w:Copula (linguistics)|copula verbs]]. The lexical verbs inflect for [[w:Grammatical tense|tense]], [[w:Grammatical aspect|aspect]], [[w:Grammatical mood|mood]] and [[w:Evidentiality|evidence]] and can take [[w:Negation (grammar)|negation]]. The [[w:infinitive|infinitive]] form of verbs takes the suffix -''tɕe.'' The infinitive is used in a number of constructions, including the [[w:Yolmo language#Habitual|habitual]] and [[w:Yolmo language#Complementation|complementation]].
+
+=== Copula verbs ===
+The copula verbs and their functions are given in the table below. Copulas are not inflected for person, number or politeness level and many do not distinguish tense:<ref name=":15" /><ref name="Gawne">{{cite journal|last1=Gawne|first1=Lauren|title=Report on the relationship between Yolmo and Kagate|journal=Himalayan Linguistics|date=2013|volume= 12 |issue= 2|pages=1–27|url=http://www.linguistics.ucsb.edu/HimalayanLinguistics/articles/2013/PDF/HLJ1202A.pdf|doi=10.5070/h912223716}}</ref>
+::{| class="wikitable"
+!
+!Egophoric
+!Dubitative
+!Perceptual
+!General Fact
+|-
+!Equation
+|''yìn/yìngen/yìmba''
+|''yìnɖo''
+| rowspan="2" |''dù''
+
+''dùba''
+|
+|-
+!Existential
+|''yè/yèba''
+
+''yèken/yèba'' (past tense)
+|''yèʈo''
+|''òŋgen/òŋge''
+|}
+
+Equation copulas are used to link two noun phrases, while existential copulas are used for functions of existence, location, attribution and possession.<ref name="Gawne"/> Hari describes the forms that end in ''-pa'' (voiced in this environment so they become ''-ba)'' as more emphatic, unlike lexical verbs with a ''-pa'' suffix they do not indicate [[w:Yolmo language#Past Tense|past tense]], and are not used exclusively in [[w:Yolmo language#Question formation|question structures]].<ref name=":15" />
+
+Some copula verbs can also be used as verbal auxiliaries, particularly in constructions [[w:Yolmo language#Aspect|marked for aspect]], where they contribute evidential, tense or epistemic information. The negative forms of each copula are given in the section on [[w:Yolmo language#Negation|negation]].
+
+Below the different [[w:Evidentiality|evidential]] and [[w:Epistemic modality|epistemic]] functions of each copula type are discussed.
+
+==== Egophoric ====
+The egophoric, or personal,<ref>{{Cite journal|last=Gawne|first=Lauren|date=2017-01-24|editor-last=Gawne|editor-first=Lauren|editor2-last=Hill|editor2-first=Nathan W|title=Egophoric evidentiality in Bodish languages|journal=Evidential Systems of Tibetan Languages|language=en|pages=61–94|doi=10.1515/9783110473742|isbn=9783110473742}}</ref> is used to indicate that the speaker has personal knowledge about the information. In the example below, the speaker would not be reading the name of the book, but already know the name as they show it to someone else:
+
+{{interlinear|indent=3
+|òo tɕhée{{=}}gi mìn gyàldzen tsému púŋgyen má-ẽ '''yìmba'''
+|that book{{=}}GEN name gyaldzen tsemu puŋgyen say-NPST '''COP.EGO'''
+|'This book is called 'Gyaldzen Tsemu Punggyen.' (Hari 2010: 66)}}
+
+Unlike in Standard Tibetan,<ref>{{cite book |last=Tournadre |first=N. |year=2008 |chapter=Arguments against the Concept of ‘Conjunct’/‘Disjunct’ in Tibetan |title=Chomolangma, Demawend und Kasbek. Festschrift für Roland Bielmeier zu seinem 65. Geburtstag |editor1=B. Huber |editor2=M. Volkart |editor3=P. Widmer |editor4=P. Schwieger |volume=1 |pages=281–308 |chapter-url=http://tournadre.nicolas.free.fr/fichiers/2008-Conjunct.pdf |archive-url=https://web.archive.org/web/20110720224934/http://tournadre.nicolas.free.fr/fichiers/2008-Conjunct.pdf |archive-date=2011-07-20 |url-status=dead}}</ref> the speaker does not need to be personally close to an individual to use the egophoric while talking about them.
+
+Different varieties of Yolmo prefer different forms of the egophoric as the default; In Helambu they prefer ''yìn'', in Lamjung ''yìmba'' and Ilam ''yìŋge''. ''yèken'' is past tense forms of the existential (''yèke'' in Lamjung), with the form ''yèba'' also often used in past tense structures, as well as questions. The past form cannot be further decomposed, as the form ''-ken/-ke'' is the [[w:Yolmo language#Non-past Tense|non-past tense suffix]] for lexical verbs.
+
+There are some structures where the egophoric is used as the default, such as [[w:Yolmo language#Conditional|conditionals]].
+
+==== Dubitative ====
+Unlike the other copulas, which mark evidential distinctions, the dubitative copulas are epistemic forms used for reduced certainty. They are related to the [[w:Yolmo language#Dubitative|''-ʈo'' dubitative suffixes]] for lexical verbs. In the example below, the speaker does not have any direct evidence that Rijan is in the house, but thinks that is where he might be:
+
+{{interlinear|indent=3
+|rídʑan khím{{=}}la '''yèʈo'''
+|Rijan house{{=}}DAT '''COP.DUB'''
+|'Rijan is probably in the house.' (Gawne 2016: 88)}}
+
+==== Perceptual ====
+The perceptual, or sensory, evidential is used to mark information acquired through direct sensory evidence, either through sight, one of the other [[w:Sense|senses]], or internal state (such as feeling an ache).   
+
+{{interlinear|indent=3
+|dèla ʈháa '''dù'''
+|here blood '''COP.PE'''
+|'I see there is some blood here.' (Hari 2010: 60)}}
+
+Hari calls the perceptual forms [[w:mirative|mirative]], as indicating knowledge through sense often occurs for information recently acquired. Only the ''dùba'' form, with the emphatic suffix ''-pa'', appears to indicate some amount of surprise or counter-expectation.
+
+==== General fact ====
+The general fact form is used for uncontroversial and universally known facts. This verb is used in functions of existence, location, attribution and possession, and is not used in equational structures.  
+
+{{interlinear|indent=3
+|ɲì yùl{{=}}gi hé ɕìmbu '''òŋgen'''
+|2PL.EX village{{=}}GEN potato tasty '''COP.DUB'''
+|'The potatoes of our village are tasty.' (Hari 2010: 52)}}
+
+The form is ''òŋgen'' in Melamchi Valley Yolmo and ''òŋge'' in Lamjung Yolmo, demonstrating a link with the [[w:Yolmo language#Non-past Tense|non-past tense suffix]]. The verb itself is from the lexical verb ''òŋ-'' 'come'. It cannot be used for facts about the past. This copula is not attested in [[w:Standard Tibetan|Standard Tibetan]] or any other Tibetic language outside of Yolmo.
+
+=== Lexical verb stems ===
+The Melamchi Valley variety of Yolmo exhibit verb stem alterations in the context of some verb structures.
+
+Verb stems with short front vowels have their vowels lengthened (e.g. /i/→/ii/), short back vowels are fronted and lengthened (e.g. /o/ and /a/→/ee/, /u/→/i/). These changes occur mostly with [[w:Perfective aspect|perfective]] structures and [[w:Imperative mood|imperatives]]. Below are some examples of this alternation using the verb ''má-'' 'say':
+
+{{interlinear|indent=3
+|ŋà '''má'''-ke
+|1SG '''say'''-NPST
+|'I say' (Hari 2010: 35)}}
+
+{{interlinear|indent=3
+|ŋà '''mée'''-di yè
+|1SG '''say'''-PFV AUX.EGO
+|'I have said' (Hari 2010: 35)}}
+
+{{interlinear|indent=3
+|'''mée'''-doŋ
+|'''say'''-IMP
+|'say it!' (Hari 2010: 35)}}
+
+When these structures are negated, the negative prefix is lengthened rather than the verb stem, which maintains the vowel change (this does not occur in the imperative).
+
+{{interlinear|indent=3
+|ŋà '''màa'''-mé yè
+|1SG say-PFV AUX.EGO
+|'I have not said' (Hari 2010: 35)}}
+
+These alterations do not occur in Lamjung Yolmo<ref name=":5" /> or Syuba.<ref name="Gawne" />
+
+=== Auxiliary verbs ===
+There is a small set of auxiliary verbs in Yolmo. The auxiliary ''tè''- is the same as the lexical verb ''tè''- 'sit' and is used to add imperfective aspect:<ref name=":15" />
+
+{{interlinear|indent=3
+|mò sà '''tè'''-ku dù
+|she eat '''AUX'''-IPFV AUX.PE
+|'she is eating'}}
+
+A subset of the copulas can also be used as verbal auxiliaries; ''yìn, yè, yèken ''and'' dù''. These contribute evidential information and for ''yè/yèken'' also some tense information. As you can see in the example above the ''dù'' copula is being used as an auxiliary, so they can co-occur with the other auxiliaries.
+
+=== Tense ===
+Yolmo has a major tense distinction between past and non-past. These are marked with suffixes on the lexical verb, ''-sin ''is the past tense marker and -''ke'' or -''ken ''is the non-past marker.<ref name=":15" />
+
+==== Past tense ====
+The past tense form is ''-sin.''
+
+{{interlinear|indent=3
+|ŋà{{=}}gi ɕò úp-'''sin'''.
+|1SG{{=}}ERG yoghurt cover-'''PST'''
+|'I covered up the yoghurt.' (Hari 2010: 23)}}
+
+The past tense form ''-sin'' can also occur with the [[w:Yolmo language#Perceptual|perceptual evidential]] ''dú'' in an auxiliary position. This is not possible with the non-past tense suffix, nor can any other copula be used as an auxiliary with the past tense suffix. Hari suggests this structure is inferential, in that the speaker did not have to witness the event,<ref name=":15" /> Gawne describes it as 'narrative past'.<ref name=":5" />
+
+{{interlinear|indent=3
+|tɕhú-kúla tshúr gyùr-'''sin''' '''dù'''
+|{water channel} this.side change-'''PST''' '''AUX.PE'''
+|'I see, the water channel has changed course to this side.' (Hari 2010: 45)}}
+
+Melamchi Valley Yolmo also has a past tense form ''-kyo'' that Hari refers to as the 'main-point past/ telling past’,<ref name=":15" /> this form is not found in Lamjung Yolmo.
+
+There is also the form ''-pa'', which Hari says is always used in [[w:Yolmo language#Question formation|question structures]]. In Lamjung Yolmo there are some examples where it is used in declaratives rather than questions, with a past-tense meaning.
+
+{{interlinear|indent=3
+|ŋà tɕhám-'''pa'''
+|1SG dance-'''PST'''
+|'I danced.' (Gawne 2016: 107)}}
+
+==== Non-past tense ====
+The non-past tense is used for both present and future constructions. Hari gives the forms ''-ke'' and -''ken ''for Melamchi Valley Yolmo, but only ''-ke'' is attested in Lamjung Yolmo. 
+
+{{interlinear|indent=3
+|ŋà{{=}}'''la''' hé kà-'''en'''
+|1SG{{=}}'''DAT''' potatoes like-'''NPST'''
+|'I like potatoes.' (Hari 2010: 42)}}
+
+Hari refers to this form as the 'intentional present' but it can also be used in future constructions:
+
+{{interlinear|indent=3
+|dì kyée-di ɲì-ti pèza ɕi ɖò-'''en'''
+|this be.born-PERF 2PL-EMPH child four go-'''NPST'''
+|'After this one is born we will have four children.' (Hari 2010: 53)}}
+
+=== Aspect ===
+There are a number of verb suffixes that are used to mark aspect, these broadly fall into categories of [[w:Imperfective aspect|imperfective]] and [[w:Perfective aspect|perfective]], as well as [[w:Habitual aspect|habitual]]. When an aspect form is used, a [[w:Yolmo language#Copula verbs|copula verb]] is also used.
+
+==== Imperfective ====
+The imperfective is used for events that are ongoing or not complete. The ''-ku'' suffix is attested in both Melamchi Valley and Lamjung Yolmo. It can only be used with the ''dù'' [[w:Yolmo language#Copula verbs|copula verb]].
+
+{{interlinear|indent=3
+|tìriŋ {kháwa là} thóŋ-'''gu''' dù
+|today {snow mountains} be.seen-IPFV AUX.PE
+|'Today the snow mountains can be seen.' (Hari 2010: 43)}}
+
+The imperfective form -''teraŋ'' can be used with either the ''dù'' or ''yè'' [[w:Yolmo language#Copula verbs|copula verb]]. In Lumjung Yolmo some speakers pronounce it as ''-tiraŋ.''<ref name=":5" /> Hari refers to the -''teraŋ'' construction as the 'perfect continuous aspect', because it can be used to refer to something that was ongoing until a particular point, as per this first example:
+
+{{interlinear|indent=3
+|tànda sámma-ni ɖìbu tér-'''teraŋ''' yè
+|now until-FOC money give-'''IPFV''' AUX.EGO
+|'Up to now he has been giving money.' (Hari & Lama 2004: 278)}}
+
+Gawne describes it as an imperfective, as it does not appear to have this perfect aspect function in Lamjung Yolmo, as per this example:
+
+{{interlinear|indent=3
+|mò kòlela tè-'''teraŋ''' dù
+|3SG.F slowly sit-'''IPFV''' AUX.PE
+|'She is slowly sitting down.' (Gawne 2016: 109)}}
+
+The [[w:Yolmo language#Auxiliary verbs|auxiliary verb ''tè'']] can also be used to mark an imperfective construction. Neither ''-ku'' nor -''teraŋ'' are used if the negative prefix is on the main verb. The auxiliary verb can be used in negative constructions, and takes the negative prefix, rather than the main verb. In the example below, the -''teraŋ'' imperfective is used as the negative prefix is on the auxiliary:
+
+{{interlinear|indent=3
+|ŋà lèn-'''diraŋ''' mà-tè yè
+|1SG sing-'''IPFV''' NEG.PST-AUX AUX.EGO
+|'I was not singing.' (Gawne 2016: 111)}}
+
+==== Perfective ====
+The [[w:perfective aspect|perfective aspect]] suffix is used for events that can be described as whole, without reference to the duration like the imperfective. The perfective form in Yolmo is ''-ti.''
+
+{{interlinear|indent=3
+|mèŋgaŋ-la-ni thóola tɕhám tɕhímbu káp-'''ti''' yè
+|cooking.shed-LOC-FOC above board large cover-'''PFV''' AUX.EGO
+|'The cooking shed was covered with large boards.' (Hari & Lama 2004: 270)}}
+
+Multiple verbs with perfective aspect can be used together to create a [[w:Yolmo language#Clause chaining|clause chaining]] structure. It is distinct from the [[w:Yolmo language#Focus marker|nominal focus suffix]] ''-ti.''
+
+==== Habitual ====
+[[w:Habitual aspect|Habitual aspect]] marks that an event is usual, customary or frequent. There is no specific habitual aspect suffix for Yolmo. Speakers will either use a verb with an infinitive, or with no suffix.
+
+{{interlinear|indent=3
+|ŋà ɲìma ʈàŋmaraŋ khúra sà yè
+|1SG day every bread eat AUX.EGO
+|'I eat bread every day.' (Gawne 2016: 112)}}
+
+=== Mood ===
+Mood is marked in Yolmo with a set of verb suffixes. The main mood suffixes are given in the table below
+:{| class="wikitable"
+!Particle
+!Function
+|-
+| -''toŋ''
+|[[w:Imperative mood|Imperative]]
+|-
+|''-ka ''or ''-tɕo/tɕu''
+|[[w:Hortative|Hortative]]
+|-
+|''-ɲi''
+|[[w:Optative mood|Optative]]
+|-
+|''-ʈo''
+|[[w:Dubitative mood|Dubitative]]
+|}
+
+==== Imperative ====
+The polite imperative suffix is -''toŋ'' (voiced as ''-doŋ'' after voiced codas and some vowels). An overt subject is not used, and the same imperative form is used regardless of person or number:
+
+{{interlinear|indent=3
+|mée-'''doŋ'''!
+|speak-'''IMP'''
+|'Speak!' (Hari 2010: 46)}}
+
+The less polite form of the imperative consists of an unmarked verb stem: 
+
+{{interlinear|indent=3
+|mée!
+|speak.IMP
+|'Speak!' (Hari 2010: 46)}}
+
+There are also a small number of irregular imperatives that are formed without the imperative suffix, particularly ''sò'' 'eat!', from ''sà''- 'eat'.
+
+If there is an honorific form of the verb it can be used, unmarked, as the most polite form of the imperative: 
+
+{{interlinear|indent=3
+|ɕè
+|eat.HON
+|'Please eat' (Hari 2010: 113)}}
+
+The negative form of the imperative (the [[w:prohibitive|prohibitive]]) uses the ''mà-'' form of the [[w:Yolmo language#Negation|negator prefix]] with the verb stem. The imperative suffix is not included.
+
+{{interlinear|indent=3
+|'''mà'''-má!
+|'''NEG'''-speak
+|'Don't speak!' (Hari 2010: 46)}}
+
+==== Hortative ====
+Gawne notes two verbal suffix forms for the hortative in Lamjung Yolmo, a ''-ka'' and a ''-tɕo.''
+
+The ''-ka'' form is used with all persons except first person singular.
+
+{{interlinear|indent=3
+|òraŋ sà-'''ka'''
+|1PL.INCL eat-'''HORT'''
+|‘Let's eat!’ (Gawne 2016: 114)}}
+
+The suffix remains in negated horatitves:
+
+{{interlinear|indent=3
+|ɲì '''mà'''-tɕhám-'''ka'''
+|1PL.EXCL '''NEG'''-dance-'''HORT'''
+|‘Let's not dance!’ (Gawne 2016: 114)}}
+
+The ''-tɕo'' form is used with first person singular, as well as with other persons. It also remains in negative constructions. 
+
+{{interlinear|indent=3
+|ŋà khím{{=}}ki lè pè-'''tɕo'''
+|1PL.EXCL house{{=}}GEN work do-'''HORT'''
+|‘Let me do the house work!’ (Gawne 2016: 114)}}
+
+''-tɕo'' appears to be less strong, and tends to be used more frequently. Hari gives the form as ''-tɕo'' (she also calls it an optative, but it appears to be a hortative) 
+
+{{interlinear|indent=3
+|tìriŋ khó dèla-raŋ tè-'''tɕo'''
+|today 3SG.M here-EMPH sit-'''HORT'''
+|‘Let him stay here today.’ (Hari & Lama 2004: 174)}}
+
+==== Optative ====
+Hari does not list an [[w:Optative mood|optative]] suffix.<ref name=":15" /> Gawne gives the optative -''ɲi'' in Lamjung Yolmo.<ref name=":5" />
+
+{{interlinear|indent=3
+|ŋà ɲàl-'''ɲi''' tè-ku dù
+|1SG sleep{{=}}'''OPT''' AUX-IPFV AUX.PE
+|‘I want to sleep.’ (Gawne 2016: 115)}}
+
+Hari & Lama (2004: 146) list ''ɲi-'' as a verb that expresses a 'strong wish’, clearly linking to the Lamjung Yolmo optative form.
+
+==== Dubitative ====
+Hari describes the [[w:Dubitative mood|dubitative]] as 'probable future',<ref name=":15" /> indicating the sense of decreased certainty that the dubitative mood marks. The forms ''-ʈo, -ɖo'' and ''-ro'' are found in Melamchi Valley Yolmo as part of the [[w:Yolmo language#Morphophonemic processes|morphophonemic voicing process]], but the ''-ro'' form is not found in Lamjung Yolmo.<ref name=":5" />
+
+{{interlinear|indent=3
+|khúŋ-gi sèn sà-'''ro'''
+|3PL-ERG corn.mash eat-'''DUB'''
+|'they will probably eat corn mash’ (Hari & Lama 2004: 237)}}
+
+This verb suffix is related to the dubitative form of the copula.
+
+=== Negation ===
+Negation is marked on lexical verbs by [[w:prefix|prefix]]. There are two prefix forms, ''mè-'' is for negation in [[w:Nonpast tense|non-past tense]] (present and future), while ''mà''- is used for past tense, as well as negation of imperatives (''mà-tàp!'' 'don't fall'!). 
+
+{{interlinear|indent=3
+|ŋà '''mè'''-tàp
+|1sg '''NEG.NPST'''-fill
+|'I do not/will not fall.' (Hari 2010: 132)}}
+
+{{interlinear|indent=3
+|ŋà '''mà'''-tàp
+|1sg '''NEG.PST'''-fill
+|'I did not fall.' (Hari 2010: 132)}}
+
+The negated forms of copulas are slightly irregular. They are listed in the table below in brackets underneath the regular forms:
+:{| class="wikitable"
+!
+!Egophoric
+!Dubitative
+!Perceptual
+!General Fact
+|-
+!Equation
+|''yìn/yìngen/yìmba''
+
+''(mìn/mìngen/mìmba)''
+|''yìnɖo''
+
+''(mìnɖo)''
+|
+|
+|-
+!Existential
+|''yè/yèba''
+
+''(mè/mèba)''
+
+''yèken/yèba'' (past tense)
+
+''(mèke/méba)'' (past tense)
+|''yèʈo''
+
+''(mèʈo)''
+|''dù''
+
+''(mìndu)''
+
+''dùba''
+
+''(mìnduba)''
+|''òŋge''
+
+''(mèoŋge)''
+|}
+
+=== Verb paradigm ===
+Below are verb paradigms for two verbs, the first is the intransitive verb ''ŋù'' 'cry' and the second is the transitive verb ''sà'' 'eat'. Both are given mostly with third person subject, although this is not particularly important as subject person does not affect the form of the verb. For both verbs you can see the change in verb stem. For dialect specific variation, click on the link back to each specific form. 
+{| class="wikitable"
+|+
+!Form
+!Syuba
+!English 
+!
+!Syuba
+!English
+|-
+|[[Yolmo language#Verbs|Infinitive]]
+|''ŋù-dʑe''
+|'to cry'
+|
+|''sà-tɕe''
+|'to eat'
+|-
+|[[Yolmo language#Tense|Simple non-past]]
+|''khó ŋù-en''
+|'he cries'
+|
+|''khói tó sà-en''
+|'he eats rice'
+|-
+|[[Yolmo language#Tense|Simple past]]
+|''khó ŋù-sin''
+|'he cried'
+|
+|''khói tó sà-sin''
+|'he ate rice'
+|-
+|[[Yolmo language#Tense|'Telling' past]]
+|''khó ŋù-gyo''
+|'he cried'
+|
+|''khói tó sà-gyo''
+|'he ate rice'
+|-
+|[[Yolmo language#Tense|Past/question form]]
+|''khó ŋìi-ba''
+|'did he cry?'/'he cried'
+|
+|''khói tó sèe-ba''
+|'did he eat rice?'/'he ate rice'
+|-
+|[[Yolmo language#Aspect|Imperfective]]
+|''khó ŋù-gu dù''
+|'he is crying'
+|
+|''khói tó sà-gu dù''
+|'he is eating rice
+|-
+|[[Yolmo language#Aspect|Imperfective]]
+|''khó ŋìi-deraŋ yè''
+|'he is crying'
+|
+|''khói tó sèe-deraŋ yè''
+|'he is eating rice
+|-
+|[[Yolmo language#Auxiliary verbs|Imperfective (Aux)]]
+|khó ŋìi tè-ku dù
+|'he is crying'
+|
+|khói tó sèe tè-ku dù
+|'he is eating rice
+|-
+|[[Yolmo language#Aspect|Perfective]]
+|''khó ŋìi-deraŋ yè''
+|'he has cried'
+|
+|''khói tó sèe-di yè''
+|'he has eaten rice'
+|-
+|[[Yolmo language#Aspect|Habitual]]
+|''khó ŋù yè''
+|'he cries (every day)'
+|
+|''khói tó sà yè''
+|'he eats rice (every day)'
+|-
+|[[Yolmo language#Mood|Imperative]]
+|''ŋíi''
+|'cry!'
+|
+|''tó sò''
+|'eat the rice!'
+|-
+|[[Yolmo language#Mood|Hortative]]
+|''ŋù-ka / ŋù-tɕo''
+|'let's cry!'
+|
+|''sà-ka / sà-tɕo''
+|'let's eat!'
+|-
+|[[Yolmo language#Mood|Optative]]
+|''ŋù-ɲi''
+|'I want to cry'
+|
+|''sa-ɲi''
+|'I want to eat'
+|-
+|[[Yolmo language#Mood|Dubitative]]
+|''khó ŋù-ʈo''
+|'he is probably crying'
+|
+|''khói tó sà-ro''
+|'he is probably eating rice'
+|-
+|[[Yolmo language#Negation|Negative, non-past]]
+|''khó mà-ŋì''
+|'he is not crying'
+|
+|''khói tó mè-sà''
+|'he is not eating rice'
+|-
+|[[Yolmo language#Negation|Negative, past]]
+|''khó mà-ŋì''
+|'he did not cry'
+|
+|''khói tó mà-sèe''
+|'he did not eat rice'
+|}
+
+== Clause structure ==
+This section outlines some of the main features of the structure of [[w:Sentence clause structure|clauses]] in Yolmo.
+
+=== Nominalisation ===
+[[w:Nominalization|Nominalisation]] is the process by which words undergo a change that allows them to act as nouns. While nominalisation is common process, it is particularly pervasive in [[w:Bodic languages|Bodic languages]], where it can be used for a variety of functions, including the formation of [[w:Complement clause|complement clauses]] and [[w:Relative clause|relative clauses]].<ref>{{Citation|last=Noonan|first=Michael|chapter=Nominalizations in Bodic languages|date=2008|pages=219–237|publisher=John Benjamins Publishing Company|language=en|doi=10.1075/tsl.76.11noo|isbn=9789027229885|title=Rethinking Grammaticalization|volume=76|series=Typological Studies in Language|chapter-url=http://crossasia-repository.ub.uni-heidelberg.de/216/1/Nominalizations_Bodic_Languages.pdf}}<!--http://crossasia-repository.ub.uni-heidelberg.de/216/1/Nominalizations_Bodic_Languages.pdf--></ref> The common Bodic nominaliser ''-pa <ref>{{Cite journal|last=De Lancey|first=Scott|date=2002|title=Relativization and Nominalization in Bodic|journal=Proceedings of the Twenty-Eighth Annual Meeting of the Berkeley Linguistics Society: Special Session on Tibeto-Burman and Southeast Asian Linguistics|pages=55–72}}</ref>'' productively functions in Yolmo as a suffix that can mark [[w:Yolmo language#Past Tense|past tense]], [[w:Yolmo language#Question formation|question structures]] or [[w:Yolmo language#Copula verbs|emphasis]]. There are other nominalising forms in Yolmo.
+
+Hari describes a number of nominalisers in Melamchi Valley Yolmo. The first is the nominalising suffix ''-ka'': 
+
+{{interlinear|indent=3
+|dì saudʑi kár-'''ka''' yàabu tér-ku dù
+|this shopkeeper weight-'''NMLZ''' good give-IPFV AUX.PE
+|‘This shop keeper gives good weight.’ (Hari 2010: 30)}}
+
+A number of other nominalising suffixes that attach to verbs have more specific functions:
+:{| class="wikitable"
+!Suffix
+!Function
+|-
+|''-naŋ''
+|appearance of state or action
+|-
+|''-taŋ''
+|displaying a forceful show
+|-
+|''-luŋ''
+|have time for an activity 
+|-
+|''-lu''
+|way of doing something
+|}
+In Lamjung Yolmo the most productive nominaliser is ''-kandi''.<ref name=":5" /> None of the others described above have been attested. This form is not attested in Hari's description of Melamchi Valley Yolmo, but is probably related to the ''-ka'' form described above.
+
+{{interlinear|indent=3
+|ŋà{{=}}ki ʈìlbu yúŋ-'''kandi''' thé-ku dù
+|1SG{{=}}ERG bell ring-'''NMLZ''' hear-IPFV AUX.PE
+|‘I hear the ringing of bells.’ (Gawne 2016: 132)}}
+
+There is also a locative nominaliser ''-sa'', which creates a noun that denotes location:
+
+{{interlinear|indent=3
+|ŋà dzàra sà-'''sa'''{{=}}la ɖò-en
+|1SG snack eat-'''NMLZ.LOC'''{{=}}LOC go-NPST
+|‘I want to go to the snack place.’ (Hari 2010: 33)}}
+
+=== Adverbials ===
+An [[w:Adverbial|adverbial structure]] modifies the verb in some way.
+
+==== Temporal adverbial subordination ====
+Temporal adverbs can create subordinated clauses.
+
+{{interlinear|indent=3
+|sà-kandi '''tòŋla''' ŋà làkpa ʈhú-ke
+|eat-NMLZ '''before''' 1SG hand wash-NPST
+|‘I wash my hands before eating.’ (Gawne 2016: 130)}}
+
+Below is the list of temporal adverbs observed in Yolmo to date, some are independent words, and others are verbal suffixes:
+:{| class="wikitable"
+!Adverb
+!Translation
+!Additional information
+|-
+|''nàm''
+|'when'
+|
+|-
+|''gàrila'' 
+|'at the time'
+|Nepali loanword
+|-
+|''bèlala''
+|'at the time'
+|Nepali loanword
+|-
+| -''kamu'' 
+|'at the time'
+|only attested in Lamjung Yolmo
+|-
+|''tòŋla'' 
+|'before'
+|
+|-
+|''tíŋla'' 
+|'after'
+|
+|-
+|''-tile'' 
+|'after'
+|
+|-
+|''-timaraŋ'' 
+|'after'
+|
+|-
+|''yìndʑu''
+|'since'
+|only attested in Melamchi Valley Yolmo
+|}
+
+==== Manner adverbs ====
+Manner adverbs create a subordinated clause that expresses the manner of an action. The manner adverb is ''lèemu'' (''lìmu'' in Lamjung).
+
+{{interlinear|indent=3
+|khúŋ tábu '''límu''' gyùbu tɕóŋ-ku dù
+|3PL house '''like''' fast run-NMLZ AUX.PE
+|‘He runs fast like a horse.’ (Gawne 2016: 129)}}
+
+The forms ''tíle'' and ''dènmu'' are also found in Lamjung Yolmo,<ref name=":5" /> but not yet attested in other varieties.
+
+=== Conditional ===
+[[w:Conditional sentence|Conditional constructions]] are formed through the use of the suffix ''-na'' on the verb in the [[w:Protasis (linguistics)|protasis]] clause (the 'if' clause). Speakers will either use the ''-na'' suffix directly on the verb, or leave the verb unmarked at attach the ''-na'' suffix to the verb meaning ‘say’ (''mée'' in Melamchi Valley Yolmo, ''làp'' in Lamjung Yolmo). 
+
+{{interlinear|indent=3
+|nám mà-kyàp làp-'''na''' ŋà phíla ɖò-ke
+|rain NEG.PST-fall say-'''COND''' 1SG outside go-NPST
+|‘If it doesn't rain I will go outside.’ (Gawne 2016: 130)}}
+
+=== Complementation ===
+A [[w:complement clause|complement clause]] is a clause that functions as an argument of another clause. In Yolmo the embedded complement clause takes the infinitive suffix ''-tɕe''. 
+
+{{interlinear|indent=3
+|ɲì{{=}}la yìgi prù-'''tɕe''' {ʈèmba sàl-toŋ}
+|1PL.EXCL{{=}}DAT letter write-'''INF''' remember-IMP
+|‘Remember to write us a letter!’ (Gawne 2016: 134)}}
+
+The [[w:Yolmo language#Optative|optative mood suffix ''-ɲi'']] in Yolmo can also be said to be acting as a complementiser.
+
+=== Relativisation ===
+A [[w:relative clause|relative clause]] is depended on a main clause. Different relativising strategies are used in the two described varieties of Yolmo. In Melamchi Valley Yolmo the non-past tense form ''-ken(-gi)'' is used for non-past constructions, and the past tense form ''-kyo(-gi)'' is used for past tense constructions (for each the ''-gi'' is optional). Similarly, in Lamjung Yolmo, ''-ke-ki'' can be used for non-past relativised clauses and -''pa-ki f''or past relativised clauses. This difference reflects the fact that the past tense form [[w:Yolmo language#Past Tense|-''kyo'' is not found]] in Lamjung Yolmo.
+
+{{interlinear|indent=3
+|òze bèle aʑi{{=}}gi gòo thóo{{=}}la tɕáŋ-'''gyo-gi''' làawor phók táŋ-sin dù ló
+|that time sister{{=}}GEN head above{{=}}LOC hang-'''REL''' mill.stone INT send-PST AUX.PE RS
+|'At that moment (the monster) swiftly loosened the mill stone which was hanging just above the head of the elder sister.' (Hari 2010: 76)}}
+
+{{interlinear|indent=3
+|khyá{{=}}ki prù-prù-'''pa-ki''' yìgi
+|2PL{{=}}GEN write-write-'''REL''' letter
+|'The letter that you wrote.' (Gawne 2016: 134)}}
+
+In Lamjung Yolmo, the nominaliser ''-kandi'' can be used to make a relative clause:
+
+{{interlinear|indent=3
+|khím sáŋma pè-'''kandi''' mì nà-sin dù
+|house clean do{{=}}'''NMLZ''' person ill-PST AUX.PE
+|'The person who cleans the house is ill.' (Gawne 2016: 135)}}
+
+=== Clause chaining ===
+The [[w:Yolmo language#Perfective|perfective suffix ''-ti'']] is used to chain clauses together. Multiple verbs with this suffix can be stacked to create a complex series of events.
+
+{{interlinear|indent=3
+|tɕádzuŋma tɕíi òŋ-'''ti''' ʈúu-'''ti''' khér-sin
+|bird one come-'''PFV''' pick.up-'''PFV''' carry.away-PST
+|'A bird came, picked up (a fish) and took (it) away.' (Gawne 2016: 136)}}
+
+=== Question formation ===
+Word order does not change to form questions in Yolmo. Rising intonation at the end of the utterance can indicate it is a question. [[w:Yolmo language#Interrogative pronouns|A set of interrogative pronouns]] are used for open content questions.
+
+The ''-pa'' suffix, which was introduced in the section on [[w:Yolmo language#Past Tense|past tense]] is used in question structures.
+
+{{interlinear|indent=3
+|khé tó sà-'''pa'''
+|2SG rice.cooked eat-'''Q'''
+|‘Did you eat cooked rice?’ (Gawne 2016: 139)}}
+
+The reply would be with the regular past tense, and not the ''-pa'' suffix:
+
+{{interlinear|indent=3
+|ŋà tó sà-'''sin'''
+|1SG rice.cooked eat-'''PST'''
+|‘I ate rice.’ (Gawne 2016: 139)}}
+
+The [[w:Yolmo language#Copula verbs|copula form]] used in a question matches the form the question-asked anticipates the question-answerer will use in their answer. That is, if they anticipate the answer will use the perceptual evidential ''dù'', this is the form they will use in asking the question.<ref>{{Cite journal|last=Gawne|first=Lauren|date=2016a|title=Questions and answers in Lamjung Yolmo|journal=Journal of Pragmatics|volume=101|pages=31–53|doi=10.1016/j.pragma.2016.04.002|issn=0378-2166|url=https://eprints.soas.ac.uk/23716/1/questions-answers-lamjung-yolmo-gawne.pdf}}</ref>
+
+=== Reported speech ===
+Yolmo has two strategies for reporting speech, the first is using the lexical verb ''má'' or ''làp'' 'say', the second is using the [[w:Yolmo language#Clause final particles|clause final evidential particle]] ''ló.''<ref name=":14">{{Cite journal|last=Gawne|first=Lauren|date=2015|title=The reported speech evidential particle in Lamjung Yolmo|journal=Linguistics of the Tibeto-Burman Area|language=en|volume=38|issue=2|pages=292–318|doi=10.1075/ltba.38.2.09gaw|issn=0731-3500|url=https://eprints.soas.ac.uk/22695/1/Gawne%202015%20RSTB.pdf}}</ref>
+
+==== Lexical verb ====
+In Melamchi Valley Yolmo the main lexical verb of saying is ''má,'' in Lamjung Yolmo it is ''làp''. Hari and Lama note that ''làp'' is found in Melamchi Valley Yolmo, but in restricted use.<ref name=":3" /> If the speaker, and the person the speech is directed at are overtly marked, these usually proceed the reported content (although they are frequently not overt in natural speech). The 'say' verb prototypically occurs after the reported content, although if the reported content is quite long the verb may occasionally come before it.<ref name=":14" />
+
+{{interlinear|indent=3
+|khó-ni níŋdʑi ɕóŋ-gen-gi pèza-raŋ mìmba áma-gi mì pò-la '''má'''-en
+|3SG-FOC love feel child-EMPH COP.NEG.EMPH mother-ERG people near-DAT '''say'''-NPST
+|'Mother says to people nearby, "He is not a lovable child!"' (Hari & Lama 2004: 383)}}
+
+The lexical verb 'say' is also used in a number of other constructions, including [[w:Yolmo language#Conditional|conditionals]].
+
+==== Reported speech evidential ====
+The reported speech particle also indicates that the speaker is reporting a prior utterance, but has a different focus. The reported speech particle does not account for who the speaker way, but instead primarily serves to focus on the fact the information is reported, and not directly witnessed by the speaker. In the example below from Syuba, it is not made explicit if the report comes from Maila, or another person. The reported speech evidential occurs frequently in narratives.  
+
+{{interlinear|indent=3
+|tíriŋ Maila tóm phré-si ló
+|today Maila bear meet-PST RS
+|‘Today Maila met a bear.’ (Höhlig 1978: 22)<ref>{{Cite journal|last=Höhlig|first=Monika|date=1978|editor-last=Grimes|editor-first=Joseph E|title=Speaker orientation in Syuwa (Kagate)|journal=Papers on Discourse|location=Kathmandu|publisher=Summer Institute of Linguistics|volume=50|pages=19–24}}</ref>}}
+
+This is part of the wider evidential system of Yolmo, which is also found in the [[w:Yolmo language#Copula verbs|copula verbs]] above.
+
+=== Lexical emphasis ===
+There are two emphatic suffixes that can be used with a number of word classes. This is in contrast to the [[w:Yolmo language#Focus marker|emphatic form ''-ti'']], which is only used with nouns. The first is ''-ni, and'' the second is ''-raŋ'', which Hari & Lama note is a frequently used emphatic marker in informal speech.<ref name=":3" /> The distinction between all of these forms is unclear, although Hari refers to the ''-ni'' form as used for 'moderate focus',<ref name=":04">{{cite book|title=Yolmo Sketch Grammar|last=Hari|first=Anne Marie|publisher=Ekta Books|year=2010|location=Kathmandu}}</ref> so it is perhaps less emphatic for nouns than the ''-ti'' suffix.
+
+=== Clause final particles ===
+Yolmo has a series of sentence final [[w:Grammatical particle|particles]] that can be used to achieve a range of effects. The table below gives some of the particles in Yolmo and a brief description of their function.<ref name=":15" /><ref name="Gawne"/>
+::{| class="wikitable"
+!Particle
+!Function
+|-
+|''ló''
+|reported speech
+|-
+|''nà''
+|emphasis/insistence
+|-
+|''yàŋ''
+|emphasis/focus
+|-
+|''làa''
+|polite
+|-
+|''lé''
+|pleading
+|-
+|''lò''
+|friendly/encouraging
+|-
+|''óo''
+|invoking/encouraging
+|}
+The reported speech marker ''ló ''is an [[w:Evidentiality|evidential]] form, as it indicates the source of the information as someone else. This structure is described in the section on [[w:Yolmo language#Reported speech|reported speech]].
+
+== Honorifics ==
+Yolmo has a subset of [[w:Honorifics (linguistics)|honorific]] vocabulary which is used when talking to, or about, people of higher social status, particularly [[w:Buddhism|Buddhist]] [[w:Lama|Lamas]]. Honorific lexicon includes nouns, verbs and adjectives. The table below gives some examples, including the regular word, the honorific form, and the English translation.<ref name=":15" />
+
+:{| class="wikitable"
+!Regular form
+!Honorific form
+!English
+|-
+|''tér''
+|''nàŋ''
+|'give'
+|-
+|''ɲí lòo''
+|''zìm''
+|'sleep'
+|-
+|''sà''
+|''ɕè'' 
+|'eat'
+|-
+|''ába''
+|''yàp''
+|'father'
+|-
+|''áma''
+|''yùm''
+|'mother'
+|-
+|''káŋba''
+|''ɕàp''
+|'foot/leg'
+|-
+|''gòo''
+|''ú''
+|'head'
+|-
+|''ɕìmbu''
+|''ɲéebu''
+|'tasty'
+|}
+
+The use of honorifics in Syuba and Lamjung Yolmo is not as common, although some speakers still recognise and use these forms.<ref name="Gawne"/>
+
+== 100 word Swadesh list ==
+Below is a 100 word [[w:Swadesh list|Swadesh list]] in Yolmo. The Yolmo forms are taken from Hari and Lama,<ref name=":3" /> who note some variation between the Eastern (E) and Western (W) varieties in the Melamchi and Helambu Valley area. Where the form is different in other varieties this is indicated in the right-hand column of the table. This variation shows that the Lamjung variety and Syuba have more in common with each other lexically than they do with the Melamchi Valley variety.
+
+:{| class="wikitable"
+!Swadesh 
+item
+!English
+!Yolmo
+!Variation
+|-
+|1.
+|I 
+|''ŋà''
+|
+|-
+|2.
+|thou 
+|''khyá''
+|
+|-
+|3.
+|we 
+|''ɲì''
+|
+|-
+|4.
+|this 
+|''dì''
+|
+|-
+|5.
+|that 
+|''òo''
+|''òodi'' in Lamjung Yolmo and Syuba
+|-
+|6.
+|who? 
+|''sú''
+|
+|-
+|7.
+|what? 
+|''tɕí''
+|
+|-
+|8.
+|not 
+|''mè-, mì-''
+|
+|-
+|9.
+|all 
+|''thámdʑi''
+|''dzàmma'' in Lamjung Yolmo, ''t<sup>h</sup>ámdze'' in Syuba
+|-
+|10.
+|many 
+|''màŋbu''
+|
+|-
+|11.
+|one 
+|''tɕíi''
+|
+|-
+|12.
+|two 
+|''ŋyíi''
+|
+|-
+|13.
+|a
+|''tɕhímbu, tɕhómbo''
+|only ''tɕ<sup>h</sup>ómbo'' reported in Lamjung Yolmo and Syuba
+|-
+|14.
+|long 
+|''rìŋbu''
+|
+|-
+|15.
+|small 
+|''tɕhéemu''
+|''tɕéemi'' in Lamjung YOlmo
+|-
+|16.
+|woman 
+|''pìihmi'' 
+|''pèmpiʑa'' in Lamjung Yolmo and Syuba [ pèmpiʑa' occurs in Melamchi Hyolmo where it means woman collectively whereas pìihmi refers to woman ]
+
+|-
+|17.
+|man 
+|''khyówa''
+|''k<sup>h</sup>yópiʑa'' in Lamjung Yolmo and Syuba [ Khyopiza occurs in Melamchi Hyolmo where it means men collectively, whereas khyowa refers to husband]
+[Source/ I speak the language]
+|-
+|18.
+|person 
+|''mì''
+|
+|-
+|19.
+|fish 
+|''ɲà''
+|
+|-
+|20.
+|bird 
+|''tɕà-tɕìwa''
+|''tɕádzuŋma'' in Lamjung Yolmo and Syuba
+|-
+|21.
+|dog 
+|''kyíbu, khyí''
+|''khí'' in Lamjung Yolmo and Syuba
+|-
+|22.
+|louse 
+|''kiɕíkpa, kyíɕi''
+|''ɕí'' in Lamjung Yolmo and Syuba
+|-
+|23.
+|tree 
+|''tòŋbo, tùŋbu''
+|only ''tòŋbo'' reported in Lamjung Yolmo and Syuba
+|-
+|24.
+|seed 
+|''sén''
+|
+|-
+|25.
+|leaf 
+|''làpti, lòma''
+|
+|-
+|26.
+|root 
+|''tsárkyi, tsárŋyi, tsárnɲe''
+|
+|-
+|27.
+|bark 
+|''páko, phíko, kóldaŋ''
+|''phába'' in Lamjung Yolmo
+|-
+|28.
+|skin 
+|''páaba'' (E)'', páko'' (W)
+|''gòoba'' in Lamjung Yolmo and Syuba
+|-
+|29.
+|lesh 
+|''ɕá''
+|
+|-
+|30.
+|blood 
+|''ʈháa''
+|
+|-
+|31.
+|bone 
+|''rèko, rìiba'' (E)
+|''ròko'' in Lamjung Yolmo and Syuba
+|-
+|32.
+|grease
+|''khyákpa tɕháa''
+|
+|-
+|33.
+|egg 
+|''tɕàmu kòŋa''
+|
+|-
+|34.
+|horn 
+|''ròwa''
+|''rùwa'' in Syuba
+|-
+|35.
+|tail 
+|''ŋáma,  ŋéma''
+|''ŋámaŋ'' in Lamjung Yolmo
+|-
+|36.
+|feather
+|''ʈò'' (E), ''ʈòo'' (W)
+|''ɕókpa'' in Lamjung Yolmo
+|-
+|37.
+|hair 
+|''ʈá''
+|
+|-
+|38.
+|head 
+|''gòo''
+|
+|-
+|39.
+|ear 
+|''námdʑo''
+|
+|-
+|40.
+|eye 
+|''míi''
+|
+|-
+|41.
+|nose 
+|''náasum'' (E), ''nárko'' (W)
+|only ''náasum'' reported in Lamjung Yolmo and Syuba
+|-
+|42.
+|mouth 
+|''khá''
+|
+|-
+|43.
+|tooth 
+|''só''
+|
+|-
+|44.
+|tongue 
+|''tɕéle''
+|''tɕé'' in Lamjung Yolmo and Syuba
+|-
+|45.
+|fingernail 
+|''sému''
+|
+|-
+|46.
+|foot 
+|''káŋba''
+|
+|-
+|47.
+|knee 
+|''káŋba-tshíi''
+|''tshíiŋgor'' in Lamjung Yolmo, pìmu in Syuba
+|-
+|48.
+|hand 
+|''làkpa''
+|
+|-
+|49.
+|belly 
+|''ʈèpa''
+|
+|-
+|50.
+|neck 
+|''dzìŋba''
+|
+|-
+|51.
+|breast
+|''òma''
+|
+|-
+|52.
+|heart 
+|''níŋ''
+|
+|-
+|53.
+|liver
+|''tɕìmba''
+|
+|-
+|54.
+|drink 
+|''thúŋ-''
+|
+|-
+|55.
+|eat 
+|''sà-''
+|
+|-
+|56.
+|bite 
+|''kàp-,  áa táp-''
+|
+|-
+|57.
+|see 
+|''tá,  thóŋ-''
+|
+|-
+|58.
+|hear
+|''thée-, ɲìn-''
+|''thée-, ɲèn'' in Lamjung Yolmo and Syuba
+|-
+|59.
+|know 
+|''ɕée-''
+|
+|-
+|60.
+|sleep
+|''ɲí lòo-''
+|''ɲàl-'' in Lamjung Yolmo and Syuba
+|-
+|61.
+|die 
+|''ɕí-''
+|
+|-
+|62.
+|kill 
+|''sé-''
+|
+|-
+|63.
+|swim 
+|''tɕál kyàp-''
+|
+|-
+|64.
+|fly 
+|''ùr-''
+|
+|-
+|65.
+|walk 
+|''ɖò-''
+|
+|-
+|66.
+|come 
+|''òŋ-''
+|
+|-
+|67.
+|lie 
+|''ɲàl-''
+|
+|-
+|68.
+|sit 
+|''tè-''
+|
+|-
+|69.
+|stand 
+|''làŋ-di  té-''
+|
+|-
+|70.
+|give 
+|''tér-''
+|
+|-
+|71.
+|say 
+|''má-,  làp-''
+|only ''làp-'' in Lamjung Yolmo and Syuba
+|-
+|72.
+|sun 
+|''ɲìma''
+|
+|-
+|73.
+|moon 
+|''dàwa, dàyum''
+|''dàgarmu'' in Lamjung Yolmo and Syuba
+|-
+|74.
+|star 
+|''kárma''
+|
+|-
+|75.
+|water 
+|''tɕhú''
+|
+|-
+|76.
+|rain
+|''nám kyàp-''
+|
+|-
+|77.
+|stone 
+|''tò''
+|
+|-
+|78.
+|sand 
+|''pèma''
+|
+|-
+|79.
+|earth 
+|''sása, thása, sáʑa, sáptɕi''
+|''sébi'' in Syuba
+|-
+|80.
+|cloud 
+|''múkpa''
+|
+|-
+|81. 
+|smoke 
+|''tìpa, tèpa''
+|only ''tìpa'' reported in Lamjung Yolmo and Syuba
+|-
+|82.
+|fire 
+|''mè''
+|
+|-
+|83.
+|ash 
+|''thála''
+|
+|-
+|84.
+|burn 
+|''tìi-,  bàr-, tshíi-''
+|
+|-
+|85.
+|path 
+|''làm''
+|
+|-
+|86.
+|mountain 
+|''kàŋ''
+|
+|-
+|87.
+|red 
+|''màrmu, màrpu''
+|
+|-
+|88.
+|green 
+|''ŋòmbo, ŋùmbu''
+|
+|-
+|89.
+|yellow 
+|''sérpu''
+|
+|-
+|90.
+|white 
+|''kárpu, kármu''
+|
+|-
+|91.
+|black 
+|''nàkpu''
+|
+|-
+|92.
+|night 
+|''kùŋmu''
+|
+|-
+|93.
+|hot 
+|''ʈòmo''
+|''ʈòmbo'' in Lamjung Yolmo and Syuba
+|-
+|94.
+|cold 
+|''ʈàŋmu''
+|
+|-
+|95.
+|full 
+|''kàŋ''
+|
+|-
+|96.
+|new 
+|''sámba''
+|
+|-
+|97.
+|good 
+|''yàabu''
+|
+|-
+|98.
+|round 
+|''kòrmu'' (circular), ''rhílmu'' (spherical)
+|
+|-
+|99.
+|dry 
+|''kámbu''
+|
+|-
+|100.
+|name 
+|''mìn''
+|Unlike almost all other Tibetic languages, this word is ''mìn'' and not ''mìŋ''
+|}
+
+:
+
+== See also ==
+* [[Kyirong–Kagate languages]]
+* [[Kyirong language]]
+* [[Kagate language]]
+* [[Tibetic languages]]
+
+== External resources ==
+
+* Open access digital collection of Anna Marie Hari's [http://catalog.paradisec.org.au/collections/AH1 cassette recordings of Melamchi Valley Yolmo] from the 1970s and 1980s at [[Paradisec|PARADISEC]].
+* Digital collection of Lauren Gawne's [http://catalog.paradisec.org.au/collections/LG1 documentation of Lamjung Yolmo] (2009-2016) at [[Paradisec|PARADISEC]] (partly open access)
+* Three open access collections of Syuba, a dialect closely related to Yolmo, [http://catalog.paradisec.org.au/collections/MH1 MH1] digitised from 1970s recordings, [http://catalog.paradisec.org.au/collections/SUY1 SUY1] documentation by Lauren Gawne (2009-2016), [[Catalog.paradisec.org.au/collections/MTC1|MTC1]] a 2013 [[Basic oral language documentation|BOLD]] documentation by the Mother Tongue Centre Nepal.
+
+== Key references ==
+
+* {{cite journal|ref=none |last1=Clarke|first1=Graham E.|year=1980|title=A Helambu History|journal=Journal of the Nepal Research Centre|volume=4|pages=1–38}}
+* Clarke, Graham E. (1980). "Lama and Tamang in Yolmo." ''Tibetan Studies in honor of Hugh Richardson''. M. Aris and A. S. S. Kyi (eds). Warminster, Aris and Phillips: 79-86.
+* Gawne, Lauren (2011). ''Lamjung Yolmo-Nepali-English dictionary.'' Melbourne, Custom Book Centre; The University of Melbourne.
+* {{Cite book |title=A Sketch Grammar of Lamjung Yolmo |last=Gawne |first=Lauren |publisher=Asia Pacific Linguistics |year=2016 |isbn=9781922185341 |location=Canberra |hdl=1885/110258 |oclc=961180469 |hdl-access=free }}
+* Hari, Anna Maria & Chhegu Lama (2004). ''Dictionary Yolhmo-Nepali-English''. Kathmandu: Central Department of Linguistics, Tribhuvan University.
+* Hari, Anna Maria (2010). ''Yohlmo Sketch Grammar''. Kathmandu: Ekta books.
+* Hedlin, Matthew (2011). ''An Investigation of the relationship between the Kyirong, Yòlmo, and Standard Spoken Tibetan speech varieties''. Masters thesis, Payap University, Chiang Mai
+
+==References==
+{{Academic peer reviewed|Q71424678}}
+{{Reflist}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+EGO:egophoric
+PE:perceptual
+RS:reported speech marker
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Sino-Tibetan languages}}
+{{Bodic languages}}
+{{Languages of Northeast India}}
+{{Languages of Nepal}}
+
+[[Category:Languages of Nepal]]
+[[Category:South Bodish languages]]
+[[Category:Languages of Sikkim]]
+[[Category:Languages of Tibet]]

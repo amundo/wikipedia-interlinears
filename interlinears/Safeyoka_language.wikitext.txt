@@ -1,0 +1,178 @@
+{{Short description|Angan language spoken in Papua New Guinea}}
+{{Infobox language
+|name=Safeyoka
+|nativename=''Ampale''
+|states=[[Papua New Guinea]]
+|region=[[Morobe Province]]
+|speakers=2,390
+|date=1980 census
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Trans–New Guinea languages|Trans–New Guinea]]
+|fam2=[[Angan languages|Angan]]
+|fam3=Northeast
+|iso3=apz
+|glotto=safe1240
+|glottorefname=Safeyoka
+}}
+
+'''Safeyoka''', or '''Ampale''', is an [[Angan language]] of [[Papua New Guinea]]. Other names of this language include Ambari, Ampeeli, Ampeeli-Wojokeso, and Ampele.<ref name=":0">{{Cite web|url=https://www.ethnologue.com/language/apz|title=Safeyoka|website=Ethnologue|language=en|access-date=2019-10-08}}</ref> According to a 1980 census, there were around 2,390 native speakers.<ref name=":0" /> Commonly known as Ampale, the dialect is called Wojokeso. Speakers of Ampale range from the Waffa River to the Banir River, which is located in the northern part of [[Papua New Guinea]].<ref name=":2">{{Cite book|url=https://archive.org/details/linguisticsituat1973fran|title=The linguistic situation in the Gulf District and adjacent areas, Papua New Guinea|last=Franklin, Karl J. (Karl James)|date=1973|publisher=Dept. of Linguistics, Research School of Pacific Studies, Australian National University|isbn=0858831007|location=Canberra|oclc=1288732|url-access=registration}}</ref> The Wojokeso dialect is spoken by people who live in five villages where multiple districts, the Kaiapit, Mumeng and Menyama come together in the [[Morobe Province]].<ref name=":3">{{Cite book|title=Angan languages are different : four phonologies|date=1981|publisher=Summer Institute of Linguistics|others=Healey, Phyllis M.|isbn=088312212X|location=Huntington Beach, Calif.|oclc=8619473}}</ref>
+
+== Grammar ==
+
+=== Subject Personal Pronouns ===
+In the term stem of Ampale outlines, the object person affixes are included in them. Class 2 verb roots, /''put/'' and ''/kill/,'' they occur immediately following the root. Other verb roots immediately come before the root.<ref name=":2" /> Object person affixes include:
+
+{| class="wikitable" 
+|+ <ref name=":2" />
+! 
+! Singualr
+! Dual
+! Plural
+|-
+! 1st Person
+| nɨ-
+| e-
+| naa-/ne-
+|-
+! 2nd Person
+| kɨ-
+| ze-
+| ze-
+|-
+! 3rd Person
+| u-
+| u-
+| u-
+|}
+
+=== Sentence Structure ===
+The Ampale language classifies with the Wojokeso dialect of the Angan language stock.<ref name=":1">{{Cite book|url=https://archive.org/details/wojokesosentence0000west|title=Wojokeso : sentence, paragraph, and discourse analysis|last=West, Dorothy.|date=1973|publisher=Dept. of Linguistics, Research School of Pacific Studies, The Australian National University|isbn=0858830892|location=Canberra|oclc=1220916|url-access=registration}}</ref> According to B.A Hooley and K.A. McElhanon, the language is referred to as the "Languages of the [[Morobe Province|Morobe]] District - [[New Guinea]]". The sentence types of the Wojokeso are pattern types. On non-final verbs, the Wojokeso links clauses together by the means of affixes or clitics.<ref name=":1" />
+
+==== Simple ====
+The simple sentence formula is "+ Base: General Clause/Elliptical Clause + Terminal: Final Intonation." The sentence is explained by a single base and final intonation. In other words, the single base is expounded by the general clause. Single base moods include: Indicative, Interrogative, Dubitative, Information interrogative, Avolitional, and Exclamatory.<ref name=":1" />
+{| class="wikitable"
+!Single Bases
+!Example
+|-
+| rowspan="2" |General Clause 1 = Indicative
+|{{interlinear|top='''Indicative'''|Hofɨko pmmalofo-foho|they came|'They came'}}
+|-
+|{{interlinear|top='''Negative Indicative'''|mmalofo'maho|come|'They didn't come.'}}
+|-
+| rowspan="2" |General Clause 2 = Interrogative
+|{{interlinear|top='''Interrogative'''|Nto pmmalofotaho|already came|'Did they already come?'}}
+|-
+|{{interlinear|top='''Negative Interrogative'''|Mapɨ'njitaho|NEG-come'|'Didn't they come?'}}
+|-
+| rowspan="2" |General Clause 3 = Dubitative
+|{{interlinear|top='''Dubitative'''|Pmmalofotɨkeno|come-they|'Maybe they came'}}
+|-
+|{{interlinear|top='''Negative Dubitative'''|Mapɨ'njitɨkeno|come-maybe|'Maybe they didn't come'}}
+|-
+| rowspan="2" |General Clause 4 = Information Interrogative
+|{{interlinear|top='''Information Interrogative'''|Tɨhwo pmmalofoto|who came|'Who came?'}}
+|-
+|{{interlinear|top='''Negative Information Interrogative'''|Tɨhwo mapɨ'njito|who NEG-came|'Who didn't come?'}}
+|-
+|General Clause 5 = Avolitional
+|{{interlinear|top='''Avolitional'''|Pɨfɨtnnoho|come-they|'It's not good that they come.'}}
+{{interlinear|Poyo imo'ntnnoho|dead become-you|'It's not good that you die.'}}
+|-
+|General Clause 6 = Exclamatory
+|{{interlinear|top='''Exclamatory'''|Yahufohi|pig|'It's a pig!'}}
+{{interlinear|Peho'no pohinopu|why come-you|'Shame on you for coming!'}}
+|-
+| colspan="2" |<ref name=":1" />
+|}
+
+=== Series ===
+The '''series sentence''' indicates multiple actions a person does. There is no grammatical distinction between temporal succession and temporal overlap. Usually used to explain actions which are performed by a dual or plural subject. However, actions with this partial change in subject may also be classified as a sequence sentence.<ref name=":3" />
+
+=== Sequence ===
+The '''sequence sentence''' indicates an order of actions being completed by a subject, where base 1 differs from base 2. The action of the first base is usually completed before the action of the second base even begins. The deep structure of this sentence type is that it is purely based on succession.<ref name=":3" />
+
+Example:
+
+"''S[[ɨ]]<nowiki/>kuno nomeHON[[Ɨ]]NGKI sukwo'miyomo hofantiso toho nelofAHON[[Ɨ]]NGKI"''
+
+This translates into "Darkness came and night mosquitoes bit us". This expresses temporal succession.<ref name=":3" />
+
+=== Tense ===
+{| class="wikitable"
+! colspan="3" |Future
+|-
+!
+!Wojokeso
+!English
+|-
+|Subjective
+|y-ont[[ɨ]]<nowiki/>fitnne
+|They would, they will do
+|-
+|Unrealized Subjective
+|y-ont[[ɨ]]<nowiki/>tinnesohilo
+|Would have done
+|-
+|[[Near future tense|Near Future]]
+|u-y-on [[ɨ]]<nowiki/>tfeho
+|They will do
+|-
+|Hortative-Imperative
+|u-y-[[ɨ]]<nowiki/>fe
+|Let them do it
+|-
+| colspan="3" |<ref name=":3" />
+|}
+{| class="wikitable"
+! colspan="3" |Non-Future
+|-
+!
+!Wojokeso
+!English
+|-
+|Present Incomplete
+|y-alowofo
+|They are doing it
+|-
+|Present Complete
+|y-ohofo
+|They did it
+|-
+|Narrative Past
+|humi-y-ohofi
+|They did it
+|-
+|Near Past
+|i-malofo
+|They did it
+|-
+|Far Past
+|i-mentohofo
+|They did it a long time ago
+|-
+|Habitual Past
+|i-motofo
+|They used to do it regularly
+|-
+| colspan="3" |<ref name=":3" />
+|}
+
+== Phonology ==
+
+=== Consonants ===
+The Wojokeso has fifteen simple and six complex consonant phonemes. The points of articulation include bilabial, alveolar, alveopalatal and velar. The bilabial fricative phoneme is /p/, alveolar resonant phoneme /I/, alveopalatal stop phoneme /j/ and velar fricative phoneme /h/.<ref name=":3" />
+
+=== Vowels ===
+The Wojokeso contains five vowel phonemes, /i, u, e, [[Turned v|ʌ]], a/. However, there was said to be seven vowels of the Wojokeso /i, e, [[æ]]''',''' [[ɨ]]''',''' [[Turned v|ʌ]], a, u/ although there were no clear cut contrasts.<ref name=":3" />
+
+==== Vowel Clusters ====
+When two vowels occur contiguously, they are considered separate segments. Non-suspect sequences such as /ea/, /ae/, occur and sequences /ai/, /ia/ and /[[Turned v|ʌ]]<nowiki/>u/, /u[[Turned v|ʌ]]/. The syllabic and pitch accent of these vowels consider the syllables to be separate. In the words of /hasamj[[Turned v|ʌ]]<nowiki/>hw[[Turned v|ʌ]]/ ~ /hasa[[Glottal stop|ʔ]]<nowiki/>emj[[Turned v|ʌ]]<nowiki/>hw[[Turned v|ʌ]]/ 'dragonfly'. /[[Glottal stop|ʔ]]/ is optional between two vowels.<ref name=":3" />
+
+==References==
+{{Reflist}}
+
+{{Languages of Papua New Guinea}}
+
+[[Category:Languages of Morobe Province]]
+[[Category:Angan languages]]

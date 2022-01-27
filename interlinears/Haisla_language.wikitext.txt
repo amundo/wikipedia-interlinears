@@ -1,0 +1,343 @@
+{{Short description|Wakashan language}}{{Infobox language
+|name=Haisla
+|nativename=''X̄a’islak̓ala'', ''X̌àh̓isl̩ak̓ala''
+|region=Central [[British Columbia]] coast inlet, [[Douglas Channel]] head, near [[Kitimat, British Columbia|Kitimat]]
+|ethnicity=1,680 [[Haisla people]] (2014, [[First Peoples' Cultural Council|FPCC]])<ref name=e18/>
+|speakers=240
+|date=2014, [[First Peoples' Cultural Council|FPCC]]
+|ref=e18
+|familycolor=American
+|fam1=[[Wakashan languages|Wakashan]]
+|fam2=Northern
+|dia1=Kitamaat
+|dia2=Kitlope
+|iso3=has
+|glotto=hais1244
+|glottorefname=Haisla
+}}
+The '''Haisla language''', ''X̄a’islak̓ala'' or ''X̌àh̓isl̩ak̓ala'', is a [[First Nations]] language spoken by the [[Haisla people]] of the [[British Columbia Coast|North Coast]] region of the [[Canadian province]] of [[British Columbia]], who are based in the village of Kitamaat 10&nbsp;km from the town of [[Kitimat, British Columbia|Kitimat]] at the head of the [[Douglas Channel]], a 120&nbsp;km fjord that serves as a waterway for the Haisla as well as for the [[aluminum]] smelter and accompanying port of the town of Kitimat. The Haisla and their language, along with that of the neighbouring [[Heiltsuk people|Heiltsuk]] and [[Wuikinuxv people|Wuikinuxv]] peoples, were in the past incorrectly called "Northern Kwakiutl".
+
+The name ''Haisla'' is derived from the Haisla word ''x&#803;àʼisla'' or ''x&#803;àʼisəla'', meaning 'dwellers downriver'.
+
+Haisla is a [[Wakashan languages|Northern Wakashan]] language spoken by several hundred people. Haisla is geographically the northernmost Wakashan language. Its nearest Wakashan neighbor is [[Oowekyala dialect|Oowekyala]].
+
+==Dialects==
+
+The present-day population of Kitamaat developed from multiple sources, meaning there are language differences that go with these different sources. The two most prominent are Kitimaat (''X̅aʼislakʼala'') and Kitlope (''X̅enaksialakʼala''). Pronunciation, grammar, and word choice depend on which dialect is being spoken.
+
+Haisla is still used to refer to the language as a whole, similar to how English encompasses multiple dialects.
+
+==Phonology==
+
+Haisla is closely related to the other North Wakashan languages, [[Oowekyala dialect|Oowekyala]], [[Heiltsuk dialect|Heiltsuk]], [[Kwak'wala language|Kwak'wala]], and to a lesser extent Nuuchahnulth (Nootka), Nitinat, and Makah. Typical of languages spoken on the Northwest Coast, these languages consist of multiple consonants with limited allophonic variation.  The phonological inventory is familiar to other Northern Wakashan languages.
+
+{| class="wikitable" style="text-align:center"
+|+[[Consonant]]s<ref>{{Cite book|title=Phonology, dictionary and listing of roots and lexical derivatives of the Haisla language of Kitlope and Kitimaat, B. C. Vol.1.|last=Lincoln & Rath|first=Neville J., John C.|publisher=Ottawa: National Museums of Canada.|year=1986}}</ref>
+|-
+! rowspan="2" colspan="2" | 
+! rowspan="2" | [[Bilabial consonant|Bilabial]]
+! colspan="3" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! colspan="2" | [[Uvular consonant|Uvular]]
+! rowspan="2" | [[Glottalic consonant|Glottal]]
+|-
+! <small>[[Central consonant|central]]</small> || <small>[[Sibilant consonant|sibilant]]</small> || <small>[[Lateral consonant|lateral]]</small>
+! <small>plain</small> || <small>[[Labialization|lab.]]</small>
+! <small>plain</small> || <small>lab.</small>
+|-
+! rowspan="3" | [[Plosive]]/<br>[[Affricate]]
+! <small>voiceless</small>
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|ts}}
+| {{IPA link|tɬ}}
+| 
+| {{IPA link|k}}
+| {{IPA link|kʷ}}
+| {{IPA link|q}}
+| {{IPA link|qʷ}}
+| {{IPA link|ʔ}}
+|-
+! <small>aspirated</small>
+| {{IPA link|pʰ}}
+| {{IPA link|tʰ}}
+| {{IPA link|tsʰ}}
+| {{IPA link|tɬʰ}}
+| 
+| {{IPA link|kʰ}}
+| {{IPA link|kʷʰ}}
+| {{IPA link|qʰ}}
+| {{IPA link|qʷʰ}}
+| 
+|-
+! <small>ejective</small>
+| {{IPA link|pʼ}}
+| {{IPA link|tʼ}}
+| {{IPA link|tsʼ}}
+| {{IPA link|tɬʼ}}
+| 
+| {{IPA link|kʼ}}
+| {{IPA link|kʷʼ}}
+| {{IPA link|qʼ}}
+| {{IPA link|qʷʼ}}
+| 
+|-
+! rowspan="2" | [[Fricative]]
+! <small>plain</small>
+| 
+| 
+| {{IPA link|s}}
+| {{IPA link|ɬ}}
+| 
+| {{IPA link|x}}
+| {{IPA link|xʷ}}
+| {{IPA link|χ}}
+| {{IPA link|χʷ}}
+| {{IPA link|h}}
+|-
+! <small>glottalized</small>
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| {{IPA link|hˀ}}
+|-
+! rowspan="2" | [[Sonorant]]
+! <small>plain</small>
+| {{IPA link|m}}
+| {{IPA link|n}}
+| 
+| {{IPA link|l}}
+| {{IPA link|j}}
+| 
+| {{IPA link|w}}
+| 
+| 
+| 
+|-
+! <small>glottalized</small>
+| {{IPA link|mˀ}}
+| {{IPA link|nˀ}}
+| 
+| {{IPA link|lˀ}}
+| {{IPA link|jˀ}}
+| 
+| {{IPA link|wˀ}}
+| 
+| 
+| 
+|}
+
+Haisla has a wide range of consonants, with the plain plosives being either voiced or voiceless. Similar to the other Wakashan languages, Haisla does not have large vowel systems. The vowels seen in the language are {{IPA|/i/, /a/, /u/, /o/, /e/}} and {{IPA|/ə/. /ə/}} also exists in Kwakwala, and absent from Southern Wakashan languages. The two languages are also characterized by their open {{IPA|/i u/}}.
+
+Dorsals can either be front {{IPA|/k ɡ x/}} or back, {{IPA|/q ɢ χ/}}, and can also be rounded. Plosives can be further altered by aspiration, glottalization, and voicing. Resonants also experience further augmentation through glottalization. Fricatives and plain plosives are generally aspirated within Northern Wakashan languages, whereas the voiced plosives can be either phonetically voiced or voiceless un-aspirated.
+
+Voicing and glottalization are active components, seen in consonant mutations, while aspiration is not. Aspirated plosives, alongside fricatives, have  
+All aspirated and glottalized plosives in Haisla are voiceless. All fricatives are voiceless as well.
+
+==Morphology==
+
+Haisla is a [[verb–subject–object|VSO (verb-initial) language]], with "highly polysynthetic, suffixing, [and] possibly with no (lexical) N–V distinction".<ref name="A Note on Quantification and Blankets in Haisla">{{cite journal|last=Emmon|first=Bach|author2=E. Jelinek |author3=A. Kratzer |title=A Note on Quantification and Blankets in Haisla|journal=Quantification in Natural Languages|year=1995|volume=2|pages=13–20|publisher=Kluwer Academic Publishers|doi=10.1007/978-94-011-0321-3_2|series=Studies in Linguistics and Philosophy|isbn=978-94-010-4142-3}}</ref> Words that correspond to verbs and helping words come first in a sentence. Like the other Wakashan languages, Haisla is made up of multifaceted words made up out of a single root and extended through multiple expansions or reduplication. These can further be altered by lexical or grammatical suffixes, and modal clitics.<ref>{{cite journal|last=Emmon|first=Bach|title=On The Surface Verb q'ay'ai{{!}} qela|journal=Linguistics and Philosophy|date=December 2002|volume=25|issue=5–6|pages=531–544|doi=10.1023/A:1020826425563|s2cid=170722908}}</ref> One example can be seen with the Haisla word for 'condition', ''ḡʷailas''. The word can be modified to mean 'your condition' or 'my condition' as ''ḡʷailas-us'' and ''ḡʷailas-genc'' respectively.<ref name="Bach">{{cite web|last=Bach|first=Emmon|title=Making Sentences|url=http://people.umass.edu/ebach/ehgrammr.htm|url-status=dead|archive-url=https://web.archive.org/web/20140223010605/http://people.umass.edu/ebach/ehgrammr.htm|archive-date=2014-02-23}}</ref>
+
+Emmon Bach, in 'One The Surface Verb q’ay’ai{{!}} qela', cited the following points as the structure for building words:
+
+A. Stem = [Ext](Root)(-LexSuf)*(-GramSuf)*
+
+B. Word = Stem(Ending)*
+
+The majority of roots cannot function as independent words; those that can often take on different meanings. One example of this can be seen with the root ''bekʷ'', when combined with the stems ''-es'' or ''-ala'', mean either 'Sasquatch' or 'talk', respectively.
+
+Seen in all Wakashan languages, Haisla has a variety of common, clause-level clitics which contain inflection-like semantics. Seen also in Sapir in Swadesh where they are identified as "incremental suffixes", these contain markers of tense, aspect, and modality. These clitics are non-obligatory outside of the perfective vs. imperfective aspect, and do not form paradigms, while having a set order.<ref>{{cite journal|last=Fortescue|first=Michael|title=Drift and the Grammaticalization Divide between Northern and Southern Wakashan|journal=International Journal of American Linguistics|date=July 2006|volume=72|issue=3|pages=295–324|doi=10.1086/509488|s2cid=143670989}}<!--|access-date=February 6, 2014--></ref>
+
+Haisla has a wide range of classificatory roots, something shared with its fellow Northern Wakashan languages. These roots are always preceded either by a locative lexical suffix or a transitivizing suffix.<ref>{{cite journal|last=Fortescue|first=Michael|title=The Origins of the Wakashan Classificatory Verbs of Location and Handling|journal=Anthropological Linguistics|volume=48|issue=3|pages=266–287}}</ref>
+
+==Number and person==
+Haisla has a 1st, 2nd, and 3rd person, as well as their plurals. Haisla does not have a large focus on number, with the word for ''begʷánem'' standing for both 'people' and 'person' depending on its context. Haisla also has inclusive and exclusive endings, in reference to if "we" or "us" includes the person being spoken to. Haisla has gender-neutral pronouns, with no distinction between 'him' and 'her'.
+
+All Northern Wakashan languages display elaborate systems of third-person pronominal clitics. These usually include distinct case forms for object, subject, and instrument or possessor. Unlike Kwakw'ala, Haisla and the other Northern Wakashan languages  lack prenominal elements. Haisla, however, does make use of the independent demonstrative forms ''qi'', ''qu'', etc., which serve as optional yet frequently occurring first elements in nominal groups.
+
+The subject endings can be seen in the two charts below.
+
+{| class="wikitable"
+|-
+! Abbreviation<ref name="Haisla Grammar and Grammatical Endings">{{cite web|last=Bach|first=Emmon|title=MAKING SENTENCES|url=http://people.umass.edu/ebach/ehgrammr.htm|access-date=15 February 2014|url-status=dead|archive-url=https://web.archive.org/web/20140223010605/http://people.umass.edu/ebach/ehgrammr.htm|archive-date=23 February 2014}}</ref>  !! Form !! Meaning
+|-
+| 1sg. || -nugʷ(a)/ -n (-en)|| I
+|-
+| 2sg. || -su || you
+|-
+| 2pl. || -su + reduplication of verb || you plural
+|-
+| 1pl. incl. || -nis || we including you
+|-
+| 1pl. excl.|| -nuxʷ || we excluding you
+|-
+| 3-1 || -ix || he/she/it near me
+|-
+| 3-1 || -ix with reduplication|| they near me
+|-
+|}
+
+{| class="wikitable"
+|-
+! Abbreviation !! Form !! Meaning
+|-
+| 3-2|| -u || he/she/it near you
+|-
+| 3-3 || -i || he/she/it remote
+|-
+| 3-gone || -ki/-gi || he/she/it just gone
+|-
+| 3-1 inv. || -ixc || he/she/it near me invisible
+|-
+| 3-2 inv. || -uc || he/she/it near you invisible	
+|-
+| 3-3 || -ic || he/she/it remote invisible
+|}
+
+Direct-object endings:
+{| class="wikitable"
+|-
+! Abb. !! Form !! Meaning
+|-
+| 1sg. || -entl(a) || me
+|-
+| 2sg. || -utl(a) || you (singular or plural)
+|-
+| 1pl. incl. || -entlanis || us including you
+|-
+| 1pl. excl.|| -entlanuxʷ || us excluding you
+|-
+| 3-1 || -ʼix / -ʼex̄g || him/her/it/them near me
+|-
+| 3-2 || -ʼu || him/her/it/them near you
+|-
+| 3-3 || -ʼi || him/her/it/them remote
+|-
+| 3-gone || -ʼex̄gi || him/her/it/them just gone
+|-
+| 3-1 || ??-ʼixc*<ref name="Bach"/>  || him/her/it/them near me invisible
+|}
+
+The '*' denotes how there is a lack of clarity in determining how many of these "invisible" forms are still used.
+
+==Syntax==
+As an VSO language, words that correspond to verbs and helping words occur first. For example, the sentence "The chief sees the grizzly", literally translates as "see the chief the grizzly". When expressing negation in Haisla, the helping verb ''k̕uus-/k̕uu-'' would occur at the beginning of the sentence. This root is then modified with the proper ending reflecting the subject of the verb, e.g. ''K̓un duqʷel qi sáakax̄i'' "I don't see the grizzly".
+
+==Possessives==
+When expressing possession in Haisla, endings that are used to indicated to the possessor are also used with objects of some special verbs. The majority of these verbs tend to express emotions or psychological states.
+
+Possessive endings in Haisla sometimes bear a resemblance to those used in English. ''-nis'' can be used similarly to the English "my" when placed before a possessed object. Outside of using separated words to express possession, endings can also be used on individual words, e.g. ''gúxʷgenc'' "my house here". The set of suffixes in Haisla that reflect possession is quite extensive. Haisla, however, does use the independent demonstrative forms ''qi'', ''qu'', etc., which serve as optional and frequently occurring first elements in nominal groups.
+
+Third Person Possessive Forms:
+Possessed things near me:
+
+{| class="wikitable sortable"
+|-
+! item !! (inv) !! inst !! owner !! (inv) !! categories !! example
+|-
+| -ga ||   || -s || -ix ||   || 1 vis 1 vis || ''k'adayugasix''
+|-
+| -ga || -c || -s || -ix ||  || 1 inv 1 vis || ''k'adayugacix''
+|-
+| -ga ||   || -s || -ix || -c || 1 vis 1 inv || ''k'adayugasixc''
+|-
+| -ga || -c || -s || -ix || -c || 1 inv 1 inv || ''k'adayugacixc''
+|-
+| -ga ||  || -s || -u ||  || 1 vis 2 vis || ''k'adayugasu''
+|-
+| -ga  || -c || -s || -u ||  || 1 inv 2 vis || ''k'adayugacu''
+|-
+| -ga ||   || -s || -u || -c || 1 vis 2 inv || ''k'adayugasuc''
+|-
+| -ga || -c || -s || -u || -c || 1 inv 2 inv || ''k'adayugacuc''
+|-
+| -ga ||  || -s  || -i ||   || 1 vis 3 vis || ''k'adayugasi''
+|-
+| -ga || -c  || -s  || -i ||  || 1 inv 3 vis || ''k'adayugaci''
+|-
+| -ga ||  || -s  || -i || -c || 1 vis 3 inv || ''k'adayugasic''
+|-
+| -ga || -c || -s || -i || -c || 1 inv 3 inv || ''k'adayugacic''
+|-
+| -ga  ||   || -s || -ki ||  || 1 vis gone vis || ''k'adayugasgi''
+|-
+| -ga || -c  || -s || -ki ||  || 1 inv gone vis || ''k'adayugacgi''
+|-
+| -ga ||  || -s || -ki || -c || 1 vis gone inv || ''k'adayugasgic''
+|-
+| -ga  || -c  || -s || -ki|| -c || 1 inv gone inv || ''k'adayugacgic''
+|}
+
+==Oblique Objects==
+Oblique objects follow up the object in Haisla. Similar to the use of 'of' in English, some verbs require their objects to be marked by either the expression 'his' or the ending '-s' on the previous word. Possession in Haisla is expressed through pronouns, making use of the same endings that are used for oblique objects.
+
+==Deixis==
+
+In Haisla, the location of a conversation directly impacts the use of the language. Depending if something occurred at the site of the conversation or far away, verb endings express where the action took place. There are four possible locations within the language: here (near the speaker), there (near you, the hearer), there (near neither the speaker nor the hearer), and just gone. These concepts help form the "spatial and tempora" aspects of Haisla.<ref name=Bach /> The language also distinguishes between things that are seen and known, which are classified as visible. Things that are not visible, instead being imagined or potential, are defined as invisible.
+
+Unique to Haisla is the addition of the optional demonstrative clitics ''qu'' and ''qi'', which help make the spatial explicitness of a clause more vivid.
+
+{| class="wikitable"
+|-
+! Demonstrative of !! Independent item !! Deictic clitic
+|-
+| 1 vis. || qix || -gaẍga
+|-
+| 1 inv.|| [qic(e)x] || [-gac(e)ẍga]
+|-
+| 2 vis.|| qu || -aẍu
+|-
+| 2 inv. || [quc] || [-acẍu]
+|-
+| 3 vis. || qi || -acẍi, -i
+|-
+| 3 inv. || qic || -acẍi, -ac*
+|-
+| gone || qiki || -tiẍga
+|}
+
+{{interlinear|number=ex:
+|Duqʷel John-di qi w̓ac̓i. acx̄i
+|see John-gone {{gcl|RVIS|remote visible}} dog {{gcl|RVIS|remote visible}}
+|"John saw the dog"}}
+
+==Sociolinguistics==
+Due to the large number of language groups on the Northwest Coast, there was a great deal of contact through trade and cultural exchange.  This excess of communication eventually led to the creation of a special "trade language".<ref>{{cite web|last=Bach|first=Emmon|title=5.4 Historical Note: Chinook Jargon|url=http://people.umass.edu/ebach/xles-5.htm|access-date=13 April 2014|archive-url=https://web.archive.org/web/20140414191849/http://people.umass.edu/ebach/xles-5.htm|archive-date=14 April 2014|url-status=dead|df=dmy-all}}</ref> Called Chinook Jargon, Haisla adopted multiple words from this language such as ''gʷasáu'', or pig. Other words, such as ''lepláit ~ lilepláit'', meaning 'minister, priest', reflect how contact with missionaries affected the language as a whole. The majority of adopted words were for 'new' objects, pre-existing words such as gewedén, or horse, were not overwritten.
+
+==Arguments==
+Within the Wakashan language family, "core arguments are identified only by pronominal enclitics attached to the initial predicate. Lexical nominals carry no case marking and constituent order does not distinguish grammatical role".<ref>{{cite journal|last=Mithun|first=M.|title=Integrating Approaches to Diversity: Argument Structure on the NW Coast. Diversity in Language: Perspectives and Implications|year=2007}}</ref>
+
+==Status and Revitalization==
+As with the other languages in the North Wakashan family, Haisla is currently endangered. 
+The indigenous languages of British Columbia were heavily influenced by residential schools, with up to 16 residential schools in the province during the 1930s.<ref>{{cite book|last=Miyaoka|first=Osahito|title=Vanishing Languages of the Pacific Rim.|publisher=Oxford University Press|location=Oxford|pages=424–428}}</ref> Speaker population after European arrival was drastically impacted by disease.
+
+Haisla does have programs for those interested in speaking. Kitamaat village provides lessons for those interested in learning the language. Eden Robinson, a Heiltsuk/Haisla author raised in British Columbia, has written and lectured on the subject of language revitalization.<ref>{{cite web|url=http://events.carleton.ca/munro-beattie-lecture-2013-2014-eden-robinson-my-white-accent-the-frontlines-of-language-revitalization/|title=Eden Robinson, My White Accent: The Frontlines of Language Revitalization}}</ref> Recently she hosted the annual Munro Beattie lecture at Carleton University.
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* Lincoln, Neville J. & Rath, John C. 1986. ''Phonology, dictionary and listing of roots and lexical derivatives of the Haisla language of Kitlope and Kitimaat, B.C.'' Vol.1. Ottawa: National Museums of Canada.
+* Mithun, Marianne. (1999). ''The languages of Native North America''. Cambridge: Cambridge University Press.
+
+==External links==
+* [http://www-unix.oit.umass.edu/~ebach/haisla.htm The Haisla Languages] <small>(Emmon Bach's page)</small>
+** [http://www-unix.oit.umass.edu/~ebach/dye.htm Haisla text: Dyeing (as told by Jeffrey L. Legaic)] <small>(includes .WAV sound file)</small>
+* [http://www.languagegeek.com/wakashan/xaislakala.html X̌àʼislakʼala / X̄a’islak’ala (Haisla)] <small>(Chris Harvey's Native Language, Font, & Keyboard)</small>
+** [http://www.languagegeek.com/wakashan/haislatext.html X̌àʼislakʼala / X̄a’islak’ala (Haisla) Example Text]
+* [http://www.ydli.org/biblios/haisbib.htm Bibliography of Materials on the Haisla Language] <small>(YDLI)</small>
+
+{{Languages of Canada}}
+
+[[Category:Haisla|+]]
+[[Category:Wakashan languages]]
+[[Category:Indigenous languages of the Pacific Northwest Coast]]
+[[Category:First Nations languages in Canada]]
+[[Category:Endangered Wakashan languages]]

@@ -1,0 +1,202 @@
+{{distinguish|Morphological typology}}
+{{Short description|Study of words, their formation, and their relationships in a word}}
+{{Linguistics|Subfields}}
+In [[linguistics]], '''morphology''' ({{IPAc-en|m|ɔr|ˈ|f|ɒ|l|ə|dʒ|i}}{{refn|{{Citation|last=Jones|first=Daniel|title=English Pronouncing Dictionary|editor=Peter Roach |editor2=James Hartmann |editor3=Jane Setter|place=Cambridge|publisher=Cambridge University Press|orig-year=1917|year=2003|isbn=3-12-539683-2}}}}) is the study of words, how they are formed, and their relationship to other words in the same language.<ref>{{cite book|chapter=Morphology|first=Stephen R. |last=Anderson|title=Encyclopedia of Cognitive Science |date=n.d.|publisher=Macmillan Reference, Ltd., Yale University|chapter-url=http://cowgill.ling.yale.edu/sra/morphology_ecs.htm |access-date=30 July 2016}}</ref><ref>{{cite book |title=What is Morphology? |first1=Mark |last1=Aronoff |first2=Kirsten |last2=Fudeman |date=n.d. |publisher=Blackwell Publishing |chapter=Morphology and Morphological Analysis |chapter-url=http://www.ucd.ie/artspgs/introling/Aronoffmorphology.pdf |access-date=30 July 2016}}</ref> It analyzes the structure of words and parts of words such as [[stem (linguistics)|stems]], [[root (linguistics)|root words]], [[prefix]]es, and [[suffix]]es. Morphology also looks at [[part of speech|parts of speech]], [[Intonation (linguistics)|intonation]] and [[Stress (linguistics)|stress]], and the ways [[Context (language use)|context]] can change a word's pronunciation and meaning. Morphology differs from [[morphological typology]], which is the classification of languages based on their use of words,<ref>{{cite encyclopedia |title=Morphological Typology |first=Dunstan |last=Brown |encyclopedia=The Oxford Handbook of Linguistic Typology |editor=Jae Jung Song| orig-year=2010 |date=December 2012 |pages=487–503 |doi=10.1093/oxfordhb/9780199281251.013.0023 |url=http://www.surrey.ac.uk/LIS/SMG/DBPapers/morphological%20typology-Brown.pdf |access-date=30 July 2016}}</ref> and [[lexicology]], which is the study of words and how they make up a language's vocabulary.<ref>{{cite book |title=A Course in Modern English Lexicology |edition=Revised and Enlarged, Second |first=A.A. |last=Sankin |editor-first1=R.S. |editor-last1=Ginzburg |editor-first2=S.S. |editor-last2=Khidekel |editor-first3=G. Y. |editor-last3=Knyazeva |editor-first4=A.A.  |editor-last4=Sankin |chapter=I. Introduction |page=7 |publisher={{lang|ru|VYSŠAJA ŠKOLA}} |orig-year=1966 |location=Moscow |year=1979 |chapter-url=http://www.bsu.by/Cache/pdf/229523.pdf|access-date=30 July 2016}}</ref>
+
+While words, along with [[clitic]]s, are generally accepted as being the smallest units of [[syntax]], in most languages, if not all, many words can be related to other words by rules that collectively describe the [[grammar]] for that language. For example, [[English language|English]] speakers recognize that the words ''dog'' and ''dogs'' are closely related, differentiated only by the [[plural]]ity [[morpheme]] "-s", only found [[Bound morpheme|bound]] to [[noun phrase]]s. Speakers of English, a [[fusional language]], recognize these relations from their innate knowledge of English's rules of [[word formation]]. They infer intuitively that ''dog'' is to ''dogs'' as ''cat'' is to ''cats''; and, in similar fashion, ''dog'' is to ''dog catcher'' as ''dish'' is to ''dishwasher''. By contrast, [[Classical Chinese]] has very little morphology, using almost exclusively unbound morphemes ("free" morphemes) and depending on [[word order]] to convey meaning. (Most words in modern [[Standard Chinese]] ["Mandarin"], however, are [[Compound (linguistics)|compounds]] and most [[Root (linguistics)|roots]] are bound.) These are understood as grammars that represent the morphology of the language. The rules understood by a speaker reflect specific patterns or regularities in the way words are formed from smaller units in the language they are using, and how those smaller units interact in speech. In this way, morphology is the branch of linguistics that studies patterns of word formation within and across languages and attempts to formulate rules that model the knowledge of the speakers of those languages.
+
+[[Phonological]] and [[orthography|orthographic]] modifications between a base word and its origin may be partial to [[literacy]] skills. Studies have indicated that the presence of modification in phonology and orthography makes morphologically complex words harder to understand and that the absence of modification between a base word and its origin makes morphologically complex words easier to understand. Morphologically complex words are easier to comprehend when they include a base word.<ref>{{Cite journal|last=Wilson-Fowler, E.B.|first=& Apel, K.|date=2015|title=Influence of Morphological Awareness on College Students' Literacy Skills: A path Analytic Approach|journal=Journal of Literacy Research|volume=47 |issue=3|pages=405–32|doi=10.1177/1086296x15619730|s2cid=142149285}}</ref>
+
+[[Polysynthetic language]]s, such as [[Chukchi language|Chukchi]], have words composed of many morphemes. For example, the Chukchi word "təmeyŋəlevtpəγtərkən", meaning "I have a fierce headache", is composed of eight morphemes ''t-ə-meyŋ-ə-levt-pəγt-ə-rkən'' that may be [[Gloss (annotation)|glossed]]. The morphology of such languages allows for each [[consonant]] and [[vowel]] to be understood as [[morphemes]], while the grammar of the language indicates the usage and understanding of each morpheme.
+
+The discipline that deals specifically with the sound changes occurring within morphemes is [[morphophonology]].
+
+==History==
+
+The history of morphological analysis dates back to the [[History of India|ancient Indian]] linguist [[Pāṇini]], who formulated the 3,959 rules of [[Sanskrit]] morphology in the text ''[[Ashtadhyayi|Aṣṭādhyāyī]]'' by using a [[constituency grammar]]. The Greco-Roman grammatical tradition also engaged in morphological analysis.<ref>{{cite book |last1=Beard |first1=Robert |title=Lexeme-Morpheme Base Morphology: A General Theory of Inflection and Word Formation |url=https://archive.org/details/lexememorphemeba00bear |url-access=limited |date=1995 |publisher=NY: State University of New York Press |location=Albany |isbn=0-7914-2471-5|pages=[https://archive.org/details/lexememorphemeba00bear/page/n18 2], 3}}</ref> Studies in Arabic morphology, conducted by Marāḥ al-arwāḥ and Aḥmad b. ‘alī Mas‘ūd, date back to at least 1200 CE.{{sfn|Åkesson|2001}}
+
+The linguistic term "morphology" was coined by [[August Schleicher]] in 1859.{{efn|''Für die lere von der wortform wäle ich das wort « morphologie», nach dem vorgange der naturwißenschaften<!--, weil --> [...]'' (Standard High German "Für die Lehre von der Wortform wähle ich das Wort „Morphologie“, nach dem Vorgange der Naturwissenschaften [...]", "For the science of word-formation, I choose the term "morphology"...."}}<ref>{{cite encyclopedia |first=August |last=Schleicher |title=Zur Morphologie der Sprache |encyclopedia=Mémoires de l'Académie Impériale des Sciences de St.-Pétersbourg |series=VII° |volume=I, N.7 |location=St. Petersburg |date=1859 |page=35}}</ref>
+
+==Fundamental concepts==
+
+===Lexemes and word forms===
+The term "word" has no well-defined meaning.{{sfn|Haspelmath|Sims|2002|page=15}} Instead, two related terms are used in morphology: [[lexeme]] and word-form. Generally, a lexeme is a set of inflected word-forms that is often represented with the [[citation form]] in [[Small caps|small capitals]].{{sfn|Haspelmath|Sims|2002|page=16}} For instance, the lexeme {{Smallcaps|eat}} contains the word-forms ''eat, eats, eaten,'' and ''ate''. ''Eat'' and ''eats'' are thus considered different word-forms belonging to the same lexeme {{Smallcaps|eat}}. ''Eat'' and ''Eater'', on the other hand, are different lexemes, as they refer to two different concepts.
+
+====Prosodic word vs. morphological word====
+Here are examples from other languages of the failure of a single phonological word to coincide with a single morphological word form. In [[Latin]], one way to express the concept of '<span style="font-variant:small-caps;text-transform:lowercase">NOUN-PHRASE</span><sub>1</sub> and <span style="font-variant:small-caps;text-transform:lowercase">NOUN-PHRASE</span><sub>2</sub>' (as in "apples and oranges") is to suffix '-que' to the second noun phrase: "apples oranges-and", as it were. An extreme level of this theoretical quandary posed by some phonological words is provided by the [[Kwak'wala]] language.{{efn|Formerly known as [[Kwakiutl]], Kwak'wala belongs to the Northern branch of the Wakashan language family. "Kwakiutl" is still used to refer to the tribe itself, along with other terms.}} In Kwak'wala, as in a great many other languages, meaning relations between nouns, including possession and "semantic case", are formulated by [[affix]]es instead of by independent "words". The three-word English phrase, "with his club", where 'with' identifies its dependent noun phrase as an instrument and 'his' denotes a possession relation, would consist of two words or even just one word in many languages. Unlike most languages, Kwak'wala semantic affixes phonologically attach not to the lexeme they pertain to semantically, but to the preceding lexeme. Consider the following example (in Kwak'wala, sentences begin with what corresponds to an English verb):{{efn|Example taken from {{harvtxt|Foley|1998}} using a modified transcription. This phenomenon of Kwak'wala was reported by Jacobsen as cited in {{harvtxt|van Valin|LaPolla|1997}}.}}
+
+{{interlinear|indent=3|glossing=no abbr
+|kwixʔid-i-da bəgwanəma<sub>i</sub>-χ-a q'asa-s-is<sub>i</sub> t'alwagwayu
+|clubbed-PIVOT-DETERMINER man-ACCUSATIVE-DETERMINER otter-INSTRUMENTAL-3SG-POSSESSIVE club
+|"the man clubbed the otter with his club."}}
+
+(Notation notes:
+
+# accusative case marks an entity that something is done to.
+# determiners are words such as "the", "this", "that".
+# the concept of "[[Syntactic pivot|pivot]]" is a theoretical construct that is not relevant to this discussion.)
+
+That is, to the speaker of Kwak'wala, the sentence does not contain the "words" 'him-the-otter' or 'with-his-club' Instead, the [[Descriptive marker|markers]] -''i-da'' (<span style="font-variant:small-caps;text-transform:lowercase">PIVOT</span>-'the'), referring to "man", attaches not to the noun ''bəgwanəma'' ("man") but to the verb; the markers -''χ-a'' (<span style="font-variant:small-caps;text-transform:lowercase">ACCUSATIVE</span>-'the'), referring to ''otter'', attach to ''bəgwanəma'' instead of to ''q'asa'' ('otter'), etc. In other words, a speaker of Kwak'wala does not perceive the sentence to consist of these phonological words:
+
+{{interlinear|indent=3|glossing=no abbr
+|kwixʔid i-da-bəgwanəma χ-a-q'asa s-is<sub>i</sub>-t'alwagwayu
+|clubbed PIVOT-the-man<sub>i</sub> hit-the-otter with-his<sub>i</sub>-club
+|}}
+
+A central publication on this topic is the volume edited by Dixon and Aikhenvald (2002), examining the mismatch between prosodic-phonological and grammatical definitions of "word" in various Amazonian, Australian Aboriginal, Caucasian, Eskimo, Indo-European, Native North American, West African, and sign languages. Apparently, a wide variety of languages make use of the hybrid linguistic unit [[clitic]], possessing the grammatical features of independent words but the [[Prosody (linguistics)|prosodic]]-phonological lack of freedom of [[bound morpheme]]s. The intermediate status of clitics poses a considerable challenge to linguistic theory.<ref>{{Cite book|url=https://www.worldcat.org/oclc/704513339|title=Word : a cross-linguistic typology|date=2002|publisher=Cambridge University Press|others=Robert M. W. Dixon, A. I︠U︡. Aĭkhenvalʹd|isbn=978-0-511-48624-1|location=Cambridge|oclc=704513339}}</ref>
+
+===Inflection vs. word formation===
+Given the notion of a lexeme, it is possible to distinguish two kinds of morphological rules. Some morphological rules relate to different forms of the same lexeme; while other rules relate to different lexemes. Rules of the first kind are [[Inflection|inflectional rules]], while those of the second kind are rules of [[word formation]].<ref>{{cite book |last1=Anderson |first1=Stephen R. |title=A-Morphous Morphology |year=1992 |url=https://archive.org/details/amorphousmorphol00ande |url-access=limited |publisher=Cambridge: Cambridge University Press |page=[https://archive.org/details/amorphousmorphol00ande/page/n87 74], 75|isbn=9780521378666 }}</ref> The generation of the English plural ''dogs'' from ''dog'' is an inflectional rule, while compound phrases and words like ''dog catcher'' or ''dishwasher'' are examples of word formation. Informally, word formation rules form "new" words (more accurately, new lexemes), while inflection rules yield variant forms of the "same" word (lexeme).
+
+The distinction between inflection and word formation is not at all clear cut. There are many examples where linguists fail to agree whether a given rule is inflection or word formation. The next section will attempt to clarify this distinction.
+
+Word formation is a process where one combines two complete words, whereas with inflection you can combine a suffix with some verb to change its form to subject of the sentence. For example: in the present indefinite, we use ‘go’ with subject I/we/you/they and plural nouns, whereas for third person singular pronouns (he/she/it) and singular nouns we use ‘goes’. So this ‘-es’ is an inflectional marker and is used to match with its subject. A further difference is that in word formation, the resultant word may differ from its source word's [[grammatical category]] whereas in the process of inflection the word never changes its grammatical category.
+
+===Types of word formation===
+{{main|Word formation}}
+There is a further distinction between two primary kinds of morphological word formation: [[Morphological derivation|derivation]] and [[Compound (linguistics)|compounding]]. Compounding is a process of word formation that involves combining complete word forms into a single compound form. ''Dog catcher'', therefore, is a compound, as both ''dog'' and ''catcher'' are complete word forms in their own right but are subsequently treated as parts of one form. Derivation involves [[affix]]ing bound (i.e. non-independent) forms to existing lexemes, whereby the addition of the affix derives a new lexeme. The word ''independent'', for example, is derived from the word ''dependent'' by using the prefix ''in-'', while ''dependent'' itself is derived from the verb ''depend''. There is also word formation in the processes of clipping in which a portion of a word is removed to create a new one, blending in which two parts of different words are blended into one, acronyms in which each letter of the new word represents a specific word in the representation i.e. NATO for North Atlantic Treaty Organization, borrowing in which words from one language are taken and used in another, and finally coinage in which a new word is created to represent a new object or concept.<ref>{{Cite web|url=http://catdir.loc.gov/catdir/samples/cam041/2003048479.pdf|title=Word Formation in English|last=Plag|first=Ingo|date=2003|website=Library of Congress |publisher=Cambridge|access-date=2016-11-30}}</ref>
+
+===Paradigms and morphosyntax===
+{{Linguistic typology topics}}
+A linguistic [[Inflection|paradigm]] is the complete set of related word forms associated with a given lexeme. The familiar examples of paradigms are the [[Grammatical conjugation|conjugations]] of verbs and the [[declension]]s of nouns. Also, arranging the word forms of a lexeme into tables, by classifying them according to shared inflectional categories such as [[Grammatical tense|tense]], [[Grammatical aspect|aspect]], [[Grammatical mood|mood]], [[Grammatical number|number]], [[Grammatical gender|gender]] or [[Grammatical case|case]], organizes such. For example, the [[English personal pronouns|personal pronouns in English]] can be organized into tables, using the categories of [[Grammatical person|person]] (first, second, third); number (singular vs. plural); gender (masculine, feminine, neuter); and case (nominative, oblique, genitive).
+
+The inflectional categories used to group word forms into paradigms cannot be chosen arbitrarily; they must be categories that are relevant to stating the [[Syntax|syntactic rules]] of the language. Person and number are categories that can be used to define paradigms in English, because English has [[Agreement (linguistics)|grammatical agreement]] rules that require the verb in a sentence to appear in an inflectional form that matches the person and number of the subject. Therefore, the syntactic rules of English care about the difference between ''dog'' and ''dogs'', because the choice between these two forms determines which form of the verb is used. However, there's no syntactic rule for the difference between ''dog'' and ''dog catcher'', or ''dependent'' and ''independent''. The first two are nouns and the second two are adjectives.
+
+An important difference between inflection and word formation is that inflected word forms of lexemes are organized into paradigms that are defined by the requirements of syntactic rules, and there are no corresponding syntactic rules for word formation. 
+
+The relationship between syntax and morphology, and the way in which they interact, is called "morphosyntax";<ref name="Dufter2017">
+Dufter and Stark (2017) ''[https://books.google.it/books?id=_VBKDwAAQBAJ&pg=PT29 Introduction - 2 Syntax and morphosyntax: some basic notions]'' in Dufter, Andreas, and Stark, Elisabeth (eds., 2017) ''[https://books.google.it/books?id=_VBKDwAAQBAJ&pg=PT29 Manual of Romance Morphosyntax and Syntax]'', Walter de Gruyter GmbH & Co KG</ref><ref>Emily M. Bender (2013) ''[https://books.google.it/books?id=XaheAQAAQBAJ&pg=PA35 Linguistic Fundamentals for Natural Language Processing: 100 Essentials from Morphology and Syntax]'', ch.4 ''Morphosyntax'', p.35, Morgan & Claypool Publishers</ref> this term is also used to underline the fact that syntax and morphology are interrelated.<ref name="VanValin1997">Van Valin, R. D., van Valin Jr, R. D., van Valin Jr, R. D., LaPolla, R. J., & LaPolla, R. J. (1997) ''[https://books.google.it/books?id=DxcrbgT1_oMC Syntax: Structure, meaning, and function]'', p.2, Cambridge University Press.</ref> The study of morphosyntax concerns itself with inflection and paradigms, and some approaches to morphosyntax exclude from its domain the phenomena of word formation, compounding and derivation.<ref name="Dufter2017"/> Within morphosyntax fall the study of [[Agreement (linguistics)|agreement]] and [[Government (linguistics)|government]].<ref name="Dufter2017"/>
+
+===Allomorphy===
+Above, morphological rules are described as [[Analogy|analogies]] between word forms: ''dog'' is to ''dogs'' as ''cat'' is to ''cats'' and as ''dish'' is to ''dishes''. In this case, the analogy applies both to the form of the words and to their meaning: in each pair, the first word means "one of X", while the second "two or more of X", and the difference is always the plural form ''-s'' (or ''-es'') affixed to the second word, signaling the key distinction between singular and plural entities.
+
+One of the largest sources of complexity in morphology is that this one-to-one correspondence between meaning and form scarcely applies to every case in the language. In English, there are word form pairs like ''ox/oxen'', ''goose/geese'', and ''sheep/sheep'', where the difference between the singular and the plural is signaled in a way that departs from the regular pattern, or is not signaled at all. Even cases regarded as regular, such as ''-s'', are not so simple; the ''-s'' in ''dogs'' is not pronounced the same way as the ''-s'' in ''cats''; and, in plurals such as ''dishes'', a vowel is added before the ''-s''. These cases, where the same distinction is effected by alternative forms of a "word",  constitute [[allomorph]]y.<ref>{{cite book |last1=Haspelmath |first1=Martin |last2=Sims |first2=Andrea D. |title=Understanding Morphology |date=2002 |publisher=Arnold |location=London |isbn=0-340-76026-5}}</ref>
+
+Phonological rules constrain which sounds can appear next to each other in a language, and morphological rules, when applied blindly, would often violate phonological rules, by resulting in sound sequences that are prohibited in the language in question. For example, to form the plural of ''dish'' by simply appending an ''-s'' to the end of the word would result in the form {{IPA|*[dɪʃs]}}, which is not permitted by the [[phonotactics]] of English. In order to "rescue" the word, a vowel sound is inserted between the root and the plural marker, and {{IPA|[dɪʃɪz]}} results. Similar rules apply to the pronunciation of the ''-s'' in ''dogs'' and ''cats'': it depends on the quality (voiced vs. unvoiced) of the final preceding [[phoneme]].
+
+===Lexical morphology===
+Lexical morphology is the branch of morphology that deals with the [[lexicon]], which, morphologically conceived, is the collection of [[lexeme]]s in a language. As such, it concerns itself primarily with word formation: derivation and compounding.
+
+==Models==
+
+There are three principal approaches to morphology and each tries to capture the distinctions above in different ways:
+* Morpheme-based morphology, which makes use of an item-and-arrangement approach.
+* Lexeme-based morphology, which normally makes use of an item-and-process approach.
+* Word-based morphology, which normally makes use of a word-and-paradigm approach.
+While the associations indicated between the concepts in each item in that list are very strong, they are not absolute.
+
+===Morpheme-based morphology===
+[[File:Independently morphology tree.png|200px|thumb|Morpheme-based morphology tree of the word "independently"]]
+In morpheme-based morphology, word forms are analyzed as arrangements of [[morpheme]]s. A morpheme is defined as the minimal meaningful unit of a language. In a word such as ''independently'', the morphemes are said to be ''in-'', ''de-'', ''pend'', ''-ent'', and ''-ly''; ''pend'' is the (bound) [[root (linguistics)|root]] and the other morphemes are, in this case, derivational affixes.{{efn|The existence of words like ''appendix'' and ''pending'' in English does not mean that the English word ''depend'' is analyzed into a derivational prefix ''de-'' and a root ''pend''. While all those were indeed once related to each other by morphological rules, that was only the case in Latin, not in English. English borrowed such words from French and Latin but not the morphological rules that allowed Latin speakers to combine ''de-'' and the verb ''pendere'' 'to hang' into the derivative ''dependere''.}} In words such as ''dogs'', ''dog'' is the root and the ''-s'' is an inflectional morpheme. In its simplest and most naïve form, this way of analyzing word forms, called "item-and-arrangement", treats words as if they were made of morphemes put after each other ("[[concatenation|concatenated]]") like beads on a string. More recent and sophisticated approaches, such as [[distributed morphology]], seek to maintain the idea of the morpheme while accommodating non-concatenated, analogical, and other processes that have proven problematic for item-and-arrangement theories and similar approaches.
+
+Morpheme-based morphology presumes three basic axioms:{{sfn|Beard|1995}}
+* [[Jan Baudouin de Courtenay|Baudouin]]’s "single morpheme" hypothesis: Roots and affixes have the same status as morphemes.
+* [[Leonard Bloomfield|Bloomfield]]’s "sign base" morpheme hypothesis: As morphemes, they are dualistic signs, since they have both (phonological) form and meaning.
+* Bloomfield's "lexical morpheme" hypothesis: morphemes, affixes and roots alike are stored in the lexicon.
+
+Morpheme-based morphology comes in two flavours, one Bloomfieldian{{sfn|Bloomfield|1993}} and one [[Charles F. Hockett|Hockettian]].{{sfn|Hockett|1947}} For Bloomfield, the morpheme was the minimal form with meaning, but did not have meaning itself.{{clarify|date=December 2013}} For Hockett, morphemes are "meaning elements", not "form elements". For him, there is a morpheme plural using allomorphs such as ''-s'', ''-en'' and ''-ren''. Within much morpheme-based morphological theory, the two views are mixed in unsystematic ways so a writer may refer to "the morpheme plural" and "the morpheme ''-s''" in the same sentence.
+
+===Lexeme-based morphology===
+Lexeme-based morphology usually takes what is called an item-and-process approach. Instead of analyzing a word form as a set of morphemes arranged in sequence, a word form is said to be the result of applying rules that alter a word-form or stem in order to produce a new one. An inflectional rule takes a stem, changes it as is required by the rule, and outputs a word form;<ref>{{cite book |last1=Bybee |first1=Joan L. |title=Morphology: A Study of the Relation Between Meaning and Form |url=https://archive.org/details/morphologystudyr00bybe |url-access=limited |date=1985 |publisher=John Benjamins |location=Amsterdam |pages=[https://archive.org/details/morphologystudyr00bybe/page/n22 11], 13}}</ref> a derivational rule takes a stem, changes it as per its own requirements, and outputs a derived stem; a compounding rule takes word forms, and similarly outputs a compound stem.
+
+===Word-based morphology===
+Word-based morphology is (usually) a word-and-paradigm approach. The theory takes paradigms as a central notion. Instead of stating rules to combine morphemes into word forms or to generate word forms from stems, word-based morphology states generalizations that hold between the forms of inflectional paradigms. The major point behind this approach is that many such generalizations are hard to state with either of the other approaches. Word-and-paradigm approaches are also well-suited to capturing purely morphological phenomena, such as [[Morphome_(linguistics)|morphomes]]. Examples to show the effectiveness of word-based approaches are usually drawn from [[fusional language]]s, where a given "piece" of a word, which a morpheme-based theory would call an inflectional morpheme, corresponds to a combination of grammatical categories, for example, "third-person plural". Morpheme-based theories usually have no problems with this situation since one says that a given morpheme has two categories. Item-and-process theories, on the other hand, often break down in cases like these because they all too often assume that there will be two separate rules here, one for third person, and the other for plural, but the distinction between them turns out to be artificial. The approaches treat these as whole words that are related to each other by analogical rules. Words can be categorized based on the pattern they fit into. This applies both to existing words and to new ones. Application of a pattern different from the one that has been used historically can give rise to a new word, such as ''older'' replacing ''elder'' (where ''older'' follows the normal pattern of [[adjective|adjectival]] [[superlative]]s) and ''cows'' replacing ''kine'' (where ''cows'' fits the regular pattern of plural formation).
+
+==Morphological typology==
+{{main|Morphological typology}}
+
+In the 19th century, philologists devised a now classic classification of languages according to their morphology. Some languages are [[Isolating language|isolating]], and have little to no morphology; others are [[Agglutinating language|agglutinative]] whose words tend to have many easily separable morphemes; others yet are inflectional or [[Fusional language|fusional]] because their inflectional morphemes are "fused" together. That leads to one bound morpheme conveying multiple pieces of information. A standard example of an isolating language is [[Chinese language|Chinese]]. An agglutinative language is [[Turkish language|Turkish]]. [[Latin language|Latin]] and [[Greek language|Greek]] are prototypical inflectional or fusional languages.
+
+It is clear that this classification is not at all clearcut, and many languages (Latin and Greek among them) do not neatly fit any one of these types, and some fit in more than one way. A continuum of complex morphology of language may be adopted.
+
+The three models of morphology stem from attempts to analyze languages that more or less match different categories in this typology. The item-and-arrangement approach fits very naturally with agglutinative languages. The item-and-process and word-and-paradigm approaches usually address fusional languages.
+
+As there is very little fusion involved in word formation, classical typology mostly applies to inflectional morphology. Depending on the preferred way of expressing non-inflectional notions, languages may be classified as synthetic (using word formation) or analytic (using syntactic phrases).
+
+==Examples==
+[[Pingelapese]] is a [[Micronesian language]] spoken on the Pingelap atoll and on two of the eastern Caroline Islands, called the high island of Pohnpei. Similar to other languages, words in Pingelapese can take different forms to add to or even change its meaning. Verbal suffixes are morphemes added at the end of a word to change its form. Prefixes are those that are added at the front. For example, the Pingelapese suffix –''kin'' means ‘with’ or 'at.’ It is added at the end of a verb.
+
+:''ius'' = to use → ''ius-kin'' = to use with
+:{{transl|pif|mwahu}} = to be good → {{transl|pif|mwahu-kin}} = to be good at
+
+''sa-'' is an example of a verbal prefix. It is added to the beginning of a word and means ‘not.’
+
+:{{transl|pif|pwung}} = to be correct → {{transl|pif|sa-pwung}} = to be incorrect
+
+There are also directional suffixes that when added to the root word give the listener a better idea of where the subject is headed. The verb ''alu'' means to walk. A directional suffix can be used to give more detail.
+
+:''-da'' = ‘up’ → ''aluh-da'' = to walk up
+:''-d''i = ‘down’ → ''aluh-di'' = to walk down
+:''-eng'' = ‘away from speaker and listener’ → ''aluh-eng'' = to walk away
+
+Directional suffixes are not limited to motion verbs. When added to non-motion verbs, their meanings are a figurative one. The following table gives some examples of directional suffixes and their possible meanings.<ref>{{Cite book|title=Preverbal Particles in Pingelapese|last=Hattori|first=Ryoko|year=2012|pages=31–33}}</ref>
+
+{| class="wikitable"
+!Directional suffix
+!Motion verb
+!Non-motion verb
+|-
+|''-da''
+|up
+|Onset of a state
+|-
+|''-di''
+|down
+|Action has been completed
+|-
+|''-la''
+|away from
+|Change has caused the start  of a new state
+|-
+|''-doa''
+|towards
+|Action continued to a certain  point in time
+|-
+|''-sang''
+|from
+|Comparative
+|}
+
+==See also==
+*[[Morphome (linguistics)]]
+
+==Footnotes==
+{{notelist}}
+
+==References==
+{{reflist}}
+
+==Further reading==
+{{refbegin|30em}}
+* {{cite book |last=Aronoff |first=Mark |date=1993 |url=https://books.google.com/books?id=PFMH1qg-Z5kC&q=morphology+by+itself&pg=PP1 |title=Morphology by Itself |location=Cambridge, MA |publisher=MIT Press |isbn=9780262510721 }}
+* {{cite journal |last=Aronoff |first=Mark |date=2009 |url=http://www.revel.inf.br/site2007/_pdf/14/entrevistas/revel_12_interview_aronoff.pdf |title=Morphology: an interview with Mark Aronoff |journal=ReVEL |volume=7 |number=12 |issn=1678-8931|archive-url=https://web.archive.org/web/20110706160604/http://www.revel.inf.br/site2007/_pdf/14/entrevistas/revel_12_interview_aronoff.pdf |archive-date=2011-07-06 }}.
+* {{cite book |last=Åkesson |first=Joyce |year=2001 |title=Arabic morphology and phonology: based on the Marāḥ al-arwāḥ by Aḥmad b. ʻAlī b. Masʻūd|isbn=9789004120280 |location=Leiden, The Netherlands |publisher=Brill }}
+* {{cite book |last=Bauer |first=Laurie |date=2003 |title=Introducing linguistic morphology |edition=2nd  |location=Washington, DC |publisher=SGeorgetown University Press |isbn=0-87840-343-4 }}
+* {{cite book |last=Bauer |first=Laurie |date=2004 |title=A glossary of morphology |location=Washington, DC |publisher=Georgetown University Press }}
+* {{cite book |last=Bloomfield |first=Leonard |date=1933 |title=Language''.  |location=New York |publisher=Henry Holt |oclc=760588323 }}
+* {{cite book |last=Bubenik |first=Vit |date=1999 |title=An introduction to the study of morphology''. LINCOM coursebooks in linguistics, 07.  |location=Muenchen |publisher=LINCOM Europa |isbn=3-89586-570-2 }}
+*  {{cite book |editor-last1=Dixon  |editor-first1=R. M. W.  |editor-last2=Aikhenvald |editor-first2=Alexandra Y. |date=2007 |title=Word: A cross-linguistic typology |location=Cambridge |publisher=Cambridge University Press }}
+* {{cite speech |last=Foley |first=William A |date=1998 |url=http://www.sultry.arts.usyd.edu.au/LFG98/austro/foley/frames/foley4.htm |archive-url=https://web.archive.org/web/20060925075737/http://www.sultry.arts.usyd.edu.au/LFG98/austro/foley/frames/foley4.htm |url-status=dead |archive-date=2006-09-25 |title=Symmetrical Voice Systems and Precategoriality in Philippine Languages |event=Voice and Grammatical Functions in Austronesian  |location=University of Sydney  }}
+* {{cite journal |last=Hockett |first=Charles F. |date=1947 |title=Problems of morphemic analysis |journal=Language |volume=23 |issue=4 |pages=321–343 |doi=10.2307/410295 |jstor=410295 }}
+* {{cite book |last1=Fabrega |first1=Antonio |first2=Sergio  |last2=Scalise |date=2012 |title=Morphology: from Data to Theory  |location=Edinburgh |publisher=Edinburgh University Press }}
+* {{cite book |last=Katamba |first=Francis |date=1993 |title=Morphology |location=New York |publisher=St. Martin's Press |isbn=0-312-10356-5 }}
+* {{cite encyclopedia |author-link=Andrey Korsakov|last=Korsakov |first=Andrey Konstantinovich |date=1969 |title=The use of tenses in English |editor-last1=Korsakov |editor-first1=Andrey Konstantinovich |encyclopedia=Structure of Modern English pt. 1. |url=http://www.language-archives.org/item/oai:gial.edu:26766 }}
+* {{cite speech |last1=Kishorjit |first1=N|last2=Vidya Raj  |first2=RK |last3=Nirmal  |first3=Y |last4=Sivaji  |first4=B. |date=December 2012 |url=http://aclweb.org/anthology//W/W12/W12-5008.pdf  |title=Manipuri Morpheme Identification |event=Proceedings of the 3rd Workshop on South and Southeast Asian Natural Language Processing (SANLP) |pages=95–108 |publisher=COLING |location=Mumbai }}
+* {{cite book |last=Matthews |first=Peter |date=1991 |title=Morphology'' (2nd ed.). |publisher=Cambridge University Press |isbn=0-521-42256-6 |url-access=registration |url=https://archive.org/details/morphology0000matt }}
+* {{cite book |last=Mel'čuk |first=Igor A |date=1993 |title=Cours de morphologie générale |language=fr  |location=Montreal |publisher=Presses de l'Université de Montréal. }}
+* {{cite book |last=Mel'čuk |first=Igor A |date=2006 |title=Aspects of the theory of morphology  |location=Berlin |publisher=Mouton }}
+* {{cite book |last=Scalise |first=Sergio |date=1983 |title=Generative Morphology  |location=Dordrecht |publisher=Foris }}
+* {{cite book |editor-last1=Singh |editor-first1=Rajendra |editor-first2=Stanley |editor-last2=Starosta |date=2003 |title=Explorations in Seamless Morphology |publisher=SAGE |isbn=0-7619-9594-3 }}
+* {{cite book |last=Spencer |first=Andrew |date=1991 |title=Morphological theory: an introduction to word structure in generative grammar |url=https://archive.org/details/morphologicalthe0000spen |url-access=registration |series=Blackwell textbooks in linguistics.  |location=Oxford |publisher=Blackwell  |isbn=0-631-16144-9 }}
+* {{cite book |editor-last1=Spencer |editor-first1=Andrew |editor-last2=Zwicky |editor-first2=Arnold M. |date=1998 |title=The handbook of morphology |series=Blackwell handbooks in linguistics  |location=Oxford |publisher=Blackwell |isbn=0-631-18544-5 }}
+* {{cite book |author-link=Gregory Stump |last=Stump |first=Gregory T. |date=2001 |title=Inflectional morphology: a theory of paradigm structure |series=Cambridge studies in linguistics |publisher=Cambridge University Press |isbn=0-521-78047-0 }}
+* {{cite book |last1=van Valin |first1=Robert D. |last2=LaPolla |first2=Randy |date=1997 |title=Syntax : Structure, Meaning And Function  |publisher=Cambridge University Press  }}
+{{refend}}
+
+<!--Disabled as morphology ≠ lexicography (see article's opening)..?: {{Lexicography}}-->
+{{Authority control}}
+
+[[Category:Linguistic morphology| ]]
+[[Category:Linguistic typology]]
+[[Category:Linguistics terminology]]
+[[Category:Grammar]]

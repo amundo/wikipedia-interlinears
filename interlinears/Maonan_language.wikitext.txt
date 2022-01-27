@@ -1,0 +1,92 @@
+{{cleanup lang|date=May 2021}}
+{{Infobox language
+|name=Maonan
+|states=[[China]]
+|region=Northern [[Guangxi]], Southern [[Guizhou]]<ref name="Lu" />{{rp|33}}
+|ethnicity=107,000 (2000)<ref name=e18/>
+|speakers=30,000
+|date=2005
+|ref=e18
+|familycolor=Kradai
+|fam2=[[Kam–Sui languages|Kam–Sui]]
+|iso3=mmd
+|glotto=maon1241
+|glottorefname=Maonan
+}}
+
+The '''Maonan language''' ({{zh|c=毛南语|p=Máonán yǔ}}) is a [[Kam–Sui language]] spoken mainly in [[China]] by the [[Maonan people]], specifically in northern [[Guangxi]] and southern [[Guizhou]].<ref name="Lu" />{{rp|33}}<ref name="gx"/> [[Huanjiang Maonan Autonomous County]], [[Hechi]], northern [[Guangxi]], holds a concentrated number of speakers.<ref name="Lu">Lu, Tian Qiao (2008). ''A Grammar of Maonan''. Boca Raton, Florida: Universal Publishers. {{ISBN|978-1-59942-971-7}}.</ref>
+
+==Demographics==
+Approximately half of all Maonan people are capable of speaking Maonan. In addition to this, many Maonan also speak [[Chinese language|Chinese]] or a [[Zhuang language]]. About 1/3 of all people who self-identify as Maonan are concentrated in the southern [[Guizhou]] province. They speak a mutually unintelligible dialect commonly called ''Yanghuang'', which is more common known as the [[Then language]] in Western literature. The Maonan do not have a writing system.
+
+Other than [[Huanjiang Maonan Autonomous County]] in [[Guangxi]], Maonan is also spoken in the following locations.<ref name="gx">Guangxi Minority Languages Orthography Committee. 2008. ''Vocabularies of Guangxi ethnic languages [广西民族语言方音词汇]''. Beijing: Nationalities Publishing House [民族出版社].</ref>
+
+*[[Nandan County]], [[Guangxi]]
+*[[Du'an Yao Autonomous County]], [[Guangxi]]
+*[[Yizhou District, Hechi|Yizhou]], [[Guangxi]]
+*[[Libo County]], [[Guizhou]]
+*[[Pingtang County]], [[Guizhou]]
+
+==Phonology==
+Maonan is a tonal language with 8 tones (Lu 2008:90–91),<ref name="Lu" /> featuring an SVO clause construction (Lu 2008:169).<ref name="Lu" /> (See [[Proto-Tai language#Tones]] for an explanation of the tone numbers.) For example:
+
+{{interlinear|lang=jig|number=ex:
+|man2 na4 kʰaːu3
+|  3SG eat wine
+|"S/He drinks wine."}}
+
+{{interlinear|lang=jig|number=ex:
+|man2 paːi1 hɯ1
+|  3SG go market
+|"S/He goes to the market."}}
+
+==Syntax==
+Maonan displays a head-first modification structure, i.e. the modifier occurring after the modifier (Lu 2008:170).<ref name="Lu" /> For example:
+
+{{interlinear|lang=jig|number=ex:
+|kʰaːu3 ɦu4ljaːŋ4 
+|wine broomcorn
+|"broomcorn wine"}}
+
+{{interlinear|lang=jig|number=ex:
+|mu5 laːu4 
+|pig big
+|"big pig"}}
+
+{{interlinear|lang=jig|number=ex:
+|nok7 vin1
+|bird fly
+|"flying bird" }}
+
+Occasionally, a head-final modification structure is also possible with the involvement of a possessive particle (P.P.) ''ti<sup>5</sup>''. For example:
+
+{{interlinear|lang=jig|number=ex:
+|jaːn1 ndaːu1 ti5 bo4 
+|house/family 1PL POSS.PTCL buffalo
+|"Our family's buffalo" }}
+(cf. the more common ''bo<sup>4</sup> jaːn<sup>1</sup> ndaːu<sup>1</sup>)'' (Lu 2008:173-174).<ref name="Lu" />
+
+==Writing system==
+The Maonan writing system was established in 2010. It is based on 26 Latin letters to facilitate standard keyboard input.<ref>Maonan website: http://maonan.org/wenzi/HagLeaMauhnanh.asp?boardid=24</ref> The letters ''z, j, x, s, h'' are attached to the end of each syllable as tonal markers, representing tones 2, 3, 4, 5, 6 respectively. The first tone is not written. Syllables ending in -b, -d, -g, -p, -t, -k do not distinguish tone either. The writing system is being used among a limited number of Maonan intellectuals.<ref>Maonan website: http://maonan.org/wenzi/shengdiao.asp</ref> For example:
+
+{{interlinear|number=ex:|lang=jig|glossing3=yes
+|'''{{noitalic|Writing}}''': Hez suen ngz nhieij hux gangs deih tuet mad
+|'''{{abbr|IPA|International Phonetic Alphabet}}''': ɦe² suːn¹ ŋ² ˀnjai³ ɦu⁴ kaːŋ⁵ dai⁶ tuːt⁷' maːt⁸'
+|'''Gloss:''' 1SG teach 2SG buy rice stitch bag {take off} sock
+|'''Meaning''': "I teach you (how) to buy rice, stitch bags and take off (your) socks."}}
+
+==See also==
+* [[Maonan people]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://web.archive.org/web/20110603171625/http://maonan.info/ Maonan.info by Lu Tianqiao]
+
+{{Languages of China}}
+{{Tai-Kadai languages}}
+
+[[Category:Languages of China]]
+[[Category:Kam–Sui languages]]
+[[Category:Guangxi]]

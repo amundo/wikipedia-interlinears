@@ -1,0 +1,361 @@
+{{Short description|Endangered language of Bolivia}}
+{{distinguish|Leko languages}}
+{{Infobox language
+| name = Leco
+| nativename = Leko, Rik’a
+| states = [[Bolivia]]
+| region = [[La Paz Department (Bolivia)]]: east of [[Lake Titicaca]]
+| ethnicity = 2,800 (2001)<ref name=e18/>
+| speakers = 20
+| date = 2001
+| ref = e18
+| familycolor = American
+| family = [[Language isolate]] ([[Puquina language|Puquina]]?<ref>{{Cite web|url=http://52ica.etnolinguistica.org/adelaar|title = The Puquina and Leko languages - Advances in Native South American Historical Linguistics}}</ref> or<br/>[[Sechura–Catacao languages|Sechura–Catacao]]?<ref name="Kaufman-1994"/>)
+| iso3 = lec
+| glotto = leco1242
+| glottorefname = Leco
+}}
+
+'''Leco''', also written as '''Leko''', is a [[language isolate]] that, though long reported to be extinct, is spoken by 20–40 individuals in areas east of [[Lake Titicaca]], [[Bolivia]].  The [[Leco people|Leco]] ethnic population was 13,527 in 2012.<ref name="Censo2012">{{cite web|url=http://inecloud.ine.gob.bo/owncloud/index.php/s/w2ZCFwI7qJrwTwD/download |title=Censo de Población y Vivienda 2012 Bolivia Características de la Población |page = 29 |website = Instituto Nacional de Estadística, República de Bolivia}}</ref>
+
+==Classification==
+Although Leco is generally considered to be a [[language isolate]], Kaufman (1994: 64) groups Leco together with the [[Sechura–Catacao languages]] as part of a proposed ''Macro-Lecoan'' family.<ref name="Kaufman-1994">Kaufman, Terrence. 1994. The native languages of South America. In: Christopher Moseley and R. E. Asher (eds.), ''Atlas of the World’s Languages'', 59–93. London: Routledge.</ref> It has, also, been, suggested that Leco might be grouped with the extinct [[Puquina language|Puquina languages]] spoken in the south shore of [[Lake Titicaca]].<ref>{{Cite web|url=http://52ica.etnolinguistica.org/adelaar|title = The Puquina and Leko languages - Advances in Native South American Historical Linguistics}}</ref><ref>{{cite web |url=http://52ica.etnolinguistica.org/adelaar |title=The Puquina and Leko languages |access-date=2007-09-19 |author=Willem Adelaar |author2=Simon van de Kerke |work=Symposium: Advances in Native South American Historical Linguistics, July 17-18, 2006, at the 52nd [[International Congress of Americanists]], Seville, Spain}}</ref>
+
+==Language contact==
+Jolkesky (2016) notes that there are lexical similarities with the [[Kulle language|Kulle]], [[Omurano language|Omurano]], [[Taushiro language|Taushiro]], [[Urarina language|Urarina]], [[Arawak languages|Arawak]], [[Cholon-Hibito languages|Cholon-Hibito]], [[Jaqi languages|Jaqi]], and [[Quechuan languages|Quechua]] language families due to contact.<ref name="Jolkesky-2016">{{cite thesis|last=Jolkesky |first=Marcelo Pinho de Valhery |date=2016 |url=http://www.etnolinguistica.org/tese:jolkesky-2016-arqueoecolinguistica |title=Estudo arqueo-ecolinguístico das terras tropicais sul-americanas |type=Ph.D. dissertation |location=Brasília |publisher=University of Brasília |edition=2}}</ref>
+
+==Background==
+
+===History===
+Apart from some brief lists of vocabulary, the main document for which Leco is known is a Christian doctrine compiled by the missionary Andrés Herrero at the beginning of the 19th century.  That doctrine was published in 1905 by Lafone Quevedo, who used it as a source to make a grammatical description of the language.  That work was virtually the only available document about Leco, until the linguist Simon van de Kerke (1994) located some speakers of the language and compiled some additional facts which enlarged the analysis of Quevedo.
+
+===Use and description===
+In Grimes (1988), Leco is classified as a [[language isolate]] and is considered extinct.  However, Montaño Aragón (1987) found some speakers of the language in the region of [[Atén]] and in [[Apolo, La Paz]], in [[Franz Tamayo Province]] in the [[Departments of Bolivia|Bolivian department]] of [[La Paz Department (Bolivia)|La Paz]], along Mapiri River <!-- not [[Mapiri River]] in Brazil --> in [[Larecaja Province]] (situated also in the department of La Paz).
+
+Some speakers were relocated by van de Kerke (1994–97).  These speakers, mostly men, were older than 50 years and had not habitually used the language since a long time before that.  Van de Kerke relates that the speakers do not feel sufficiently secure to conduct a conversation spontaneously in Leco.
+
+==Linguistic description==
+
+===Phonology===
+In regard to the phonology of Leco, one can point out the following (based on van de Kerke, 2009: 289–291).
+
+Leco has six vowel phonemes: /a/, /e/, /i/, /o/, /u/ and /è/.  The opposition among the first five vowels is distinguished in the data, but the opposition between /e/ and  /è/ is found only in a limited number of words, as for example ''pele'' 'balsa' <!-- [[es:Idioma leco]] has "balsa" and [[wikt:balsa#Spanish]] has 4 definitions --> and ''pèlè'' 'name of plant'.
+
+{| class="wikitable" style="text-align:center"
+|+Consonants
+! colspan="2" |
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Post-<br>alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+| {{IPAlink|ŋ}}
+|
+|-
+! rowspan="4" | [[Plosive]]
+! <small>voiceless</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+|
+|
+| {{IPAlink|k}}
+|
+|-
+! [[Voice (phonetics)|<small>voiced</small>]]
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+|
+|
+|
+|
+|-
+! [[Aspirated consonant|<small>aspirated</small>]]
+| {{IPAlink|pʰ}}
+| {{IPAlink|tʰ}}
+|
+|
+| {{IPAlink|kʰ}}
+|
+|-
+! [[Ejective consonant|<small>ejective</small>]]
+| {{IPAlink|pʼ}}
+| {{IPAlink|tʼ}}
+|
+|
+| {{IPAlink|kʼ}}
+|
+|-
+! rowspan="2" | [[Affricate]]
+! <small>voiceless</small>
+|
+| {{IPAlink|t͡s}}
+| {{IPAlink|t͡ʃ}}
+|
+|
+|
+|-
+! [[Ejective consonant|<small>ejective</small>]]
+|
+|
+| {{IPAlink|t͡ʃʼ}}
+|
+|
+|
+|-
+! rowspan="2" | [[Fricative]]
+! <small>voiceless</small>
+|
+| {{IPAlink|s}}
+|
+|
+|
+| {{IPAlink|h}}
+|-
+! [[Voice (phonetics)|<small>voiced</small>]]
+|
+| {{IPAlink|z}}
+|
+|
+|
+|
+|-
+! colspan="2" | [[Approximant]]
+|
+| {{IPAlink|l}}
+|
+| {{IPAlink|j}}
+| {{IPAlink|w}}
+|
+|-
+! colspan="2" | [[Flap consonant|Flap]]
+|
+| {{IPAlink|ɾ}}
+|
+|
+|
+|
+|}
+
+===Lexicon and classes of words===
+In regard to the lexicon and the classes of words in Leco, one can mention the following (van de Kerke, 2009: 293–297):
+
+*In Leco, four major categories of words are distinguished: noun, adjective, verb, and adverb.  Besides, the language has a group of minor categories: names of people, personal pronouns, deictic pronouns, numerals, interrogative pronouns, etc.
+*Nouns are characterized morphosyntactically by constituting the nucleus of a noun phrase and by allowing inflection of number and case.  Some nouns or substantives in Leco are ''won'' 'house' and ''phose'' 'daughter'. <!-- [[MOS:SUBSET]] -->
+*In regard to the pronouns, Leco distinguishes four types: personal pronouns, such as ''era'' 'I', ''iya'' 'you (singular)', ''kibi'' 'he/she'; demonstrative pronouns, such as ''hoo'' 'this, near the speaker', ''on'' 'that, new the addressee' and ''hino'' 'that, far from the speaker and the addressee'; interrogative pronouns, such as ''ha'' 'who', ''u'' 'what', ''nora'' 'where'; and indefinite pronouns, expressed by means of dubitative phrases, composed of an interrogative pronoun and the suffixes ''-as'' 'also' and ''-ka'' 'como'.
+*Leco has a large number of adjectival lexemes, which are characterized by expressing qualities of entities.  Thus we have, for example, ''lais'' 'bueno', ''suma'' 'small'.
+*Leco has a decimal numeral system, composed of the following units: ''her'' 'one', ''too'' 'two', ''chai'' 'three', ''dirai'' 'four', ''bercha'' 'five', ''berphahmo'' 'six', ''toiphahmo'' 'seven', ''ch'aiphahmo'' 'eight', ''beepila'' 'nine', and ''beriki'' 'ten'.  The numbers six to eight follow a system in base five, as in [[Aymara language|Aymara]]: 6 = 5 + 1, etc.
+*Leco has a limited number of adverbial lexemes, as, for example: ''kumte'' 'late', ''ch'eka'' 'yesterday', ''china'' 'very'.  Also, it has a group of postpositions, which express location and which are combined easily with the case markers, such as ''hekor'' 'afuera', ''apor'' 'near', ''haz'' 'down'.
+*In regard to the verbs, these are characterized by functioning as the nucleus of the verbal phrase and by receiving inflectional suffixes of time and person, besides having a series of derivational suffixes.  Apart from the auxiliaries ''neck'' and ''kach'', Leco has intransitive, transitive, and ditransitive verbs.  A typical characteristic of this language is that of giving much attention to the position of objects.  It manifests itself, for example, in the following verbs, which always combine a noun expressing a position with the auxiliary ''kach'' 'to be': ''chelkach'' 'to be laid halfway over an object', ''lewakach'' 'to be hanging', ''chakach'' 'to be sitting', etc.
+
+===Morphology===
+In regard to the morphological characteristics of Leco, one can point out the following (van de Kerke, 2009: 297–313).
+*Leco is a highly [[agglutinative language]] and it uses predominantly [[suffix]]es.
+*In regard to morphology of nouns, nouns have inflection for number, by means of the pluralizing suffix ''-aya'', as in ''choswai-tha-aya'' [woman-DIM-PL] 'little women', and inflection for case, as for example the genitive ''-moki'', which is used with alienable entities like ''kuchi'' 'perro' in ''yo-moki kuchi'' [1SG-GEN] 'mi perro'; the dative ''-(i)ki'', which indicates direction or goal, as in (1); the locative ''-ra'' or ''-te'', which marks a locative complement or a directional locative, as in (2); the ablative ''-rep / -bet'', which indicates the locativee origin, as in (3), etc.
+
+{{interlinear|number=(1)
+|seneng-'''ki''' hu-ku-ate dulsi
+|all-DAT 3PL-dar-PAS.1 candy
+|‘To all I gave a candy.’}}
+{{interlinear|number=(2)
+|u trabajo-'''ra''' chera abon-da-no-ne lamka-sich-ne
+|what work-LOC we find-FUT-NML-INT work-INF-TOP
+|‘In what work are we going to find work (in the town)?’}}
+{{interlinear|number=(3)
+|lilwo ubus-no-te {lal-'''rep'''/lal wara-'''rep'''}
+|grasshopper {come out-NML-DCL} {earth-ABL/earth interior-ABL}
+|‘The grasshopper comes out from the earth / from within the earth.’}}
+
+*Nouns can be combined, furthermore, with a set of derivative suffixes, as, for example, the diminutive ''-tha'', which besides being combined with substantivees, as in ''won-tha'' [house-DIM] 'little house', is combined also with adjectives, as is seen in (4).  Another derivative suffix which affects nouns is the 'delimitative' ''-beka'', which expresses the idea of 'no more', 'only', as is seen in (5).  Leco has also deverbative derivative suffixes (which derive nouns from verbs), as, for example, the infinitivizer ''-sich'' in (6), which derives an infinitive form which functions as the subject of a sentence; and the agentive ''-no'', which form derived nouns which express an agentive, such as ''lamas-no'' [work-AG] 'worker'.
+
+{{interlinear|number=(4)
+|wesra nos-'''tha'''-te
+|Guanay far-DIM-DCL
+|‘Guanay is a little far.’}}
+
+{{interlinear|number=(5)
+|yo-phos-'''beka''' ho-ra t’e-no-te
+|1SG-daughter-DEL this-LOC live-NML-DCL
+|‘My daughter no longer lives here.’}}
+
+{{interlinear|number=(6)
+|lamka-'''sich''' yu-gustas-in-te
+|work-INF 1.O-please-NEG-DCL
+|‘Working does not please me.’}}
+
+*In regard to verbal morphology, verbs have inflection of person, which is formed by means of suffixes which mark the person of the subject and prefixes which mark the object<!-- o el benefactivo/malefactivo -->, as is shown in (7).
+
+{{interlinear|number=(7)
+|ya-ache-ki yo-moki aycha yin-k’o-a-ka-te
+|1SG-father-GEN 1SG-GEN meat 1.BEN-eat-PF-AUX-DCL
+|‘My father has eaten the meat for me.’ (I was not able to eat any more)}}
+
+*As is seen in Figure 2, besides inflection for person, the verb in Leco can be combined with a series of inflectional suffixes (which mark, for example, distinctions of aspectual-temporal type).  By way of example, (8) shows the use of the suffix of indirect knowledge (CID) ''-mono'', which is combined with the verb ''moch'' 'say' from which it has been derived.
+
+{| class="wikitable"
+|+ Figure 2: Inflection of the verb
+! Verbal root || PROG || NEG || NML/N/ADJ || PL || CID || AUX || PAS || DCL/INT || Person
+|-
+|  ||  ||  ||  || ||  ||  ||  || || ''-o''
+|-
+|  ||  ||  || Adj/N ||  ||  ||  || || ''-t''|| ''-m/-n''
+|-
+| ||  ||  ||  || ''-aya'' || ''-mono'' || ''-ka'' || ''-taah'' ||  || 
+|-
+| V || ''-cha'' || ''-in'' || ''-no'' ||  ||  ||  ||  || ''-ne'' || ''-am/-an''
+|-
+|  ||  || ''-ir''|| ''-a'' ||  ||  || ||  ||  || ''-no(h)''
+|-
+|  ||  ||  || ''-ich''||  ||  ||  ||  ||  || ''-s''
+|}
+
+{{interlinear|number=(8)
+|era fuerza-hote-to: ya-ache-ki-ka mo-no-mono-taah-te
+|I strength-POS-PRS.1 1SG-father-GEN-COMP say-NML-CID-PAS-DCL
+|‘It is said that he said "I have strength like my father".’}}
+
+*In regard to the category of mood, in Leco one uses suffixes like ''-kama'' 'power', ''-bibi'' 'almost', among others, to indicate a possible event, as is seen in (9).  Leco has, besides, two forms of imperative of the second person, one directed to only one person and another directed to various persons, as is seen in (10a) and (10b).
+
+{{interlinear|number=(9)
+|chika es-cha-no-te lamkas-in-'''kama'''-te-am
+|very rain-PRS-NML-DCL work-NEG-work-DCL-PL.1
+|‘It is raining heavily; we can not work.’}}
+{{interlinear|number=(10a)
+|iya ta bal-'''a'''
+|{you (singular)} [[maize]] plant-IMP
+|‘Plant maize (corn)!’}}
+{{interlinear|number=(10b)
+|heka ta bal-'''noku'''
+|{you (singular)} maize plant-IMP.PL
+|‘(You [plural]) plant maize (corn)!’}}
+
+*Verbs in Leco can be combined, besides, with a set of derivational suffixes, related to aspect, as for example the completive ''-hi'' in (11), to distinctions of movement, as, for example, the modifying suffix of movement ''wari-'' in (12), and to valence, as for example the reciprocal suffix ''-mo'' in (13) and the causative ''-ki'' in (14).
+
+{{interlinear|number=(11)
+|yo-moki warsuch tiltil-'''hi'''-no-te
+|1-GEN trousers undone-CMPL-NML-DCL
+|‘My trousers have been completely broken.’}}
+
+{{interlinear|number=(12)
+|wotha wonon-'''wari'''-no-te
+|hill caminar-subir.por.tierra-NML-DCL
+|‘He/she is walking up the hill.’}}
+
+{{interlinear|number=(13)
+|yobas-aya yanapas-'''mo'''-no-aya-te dihwo bal-ich-ki
+|man-PL help-REC-NML-PL-DCL peanut plant-INF-DAT
+|‘The men are helping each other to plant peanuts.’}}
+
+{{interlinear|number=(14)
+|o-botha-tha-ki do-ko-'''ki'''-a
+|2-brother-DIM-DAT 3.O-take-CAUS-IMP
+|‘Make him take your (singular) little brother!’}}
+
+In Leco, one sees productive processes of reduplication.  With substantives, reduplication can be interpreted as 'a heap/much of', with adjectives, 'a high degree of'; with verbs the interpretation is very diverse and not always transparent; thus we have the reduplicate verb ''tiltilkach'' 'to be undone', derived from ''tiltil'' 'undone', which expresses a state or process, for which reason it is combined also with the auxiliary ''kach'' 'to be'.
+
+=== Speech ===
+In regard to the characteristics of spoken Leco, one can point out the following:
+*As van de Kerke (2009: 315) points out, the order of the constituents is not fixed, although, in general, the subject takes the first position, especially if it involves a topicalized element.  Besides, the object often precedes the verb, as is seen in (15):
+
+{{interlinear|number=(15)
+|hino yobas-ne '''palanta''' '''soh-cha-no-te''' moki-a choswai-ki
+|this man-TOP platano {look at-PR-NML-DCL} GEN-3 wife-DAT
+|‘This man is searching for platano for his wife (of another).’}}
+
+*Leco is a [[pro-drop language]]; this means that an explicit pronominal subject is not required, although this can appear as in (16) (''chera'' 'we'):
+
+{{interlinear|number=(16)
+|chera du-kama-tean Burua da-in-tean du-ch
+|we speak-can-1PL Leko want-NEG-1PL speak-INF
+|'We can speak Leco, but we do not want to speak it.}}
+
+*In Leco, one sees simple and compound speech (van de Kerke, 2009: 316–324).  In regard to simple speech, diverse types are distinguished, such as, for example: existential speech, as (17), declarative speech, as (18), interrogative speech, be it confirmative, as (19a), or informative, as (19b), among others.
+
+{{interlinear|number=(17)
+|aycha ne-no-te
+|meat exist-NML-DCL
+|‘There is meat!’}}
+
+{{interlinear|number=(18)
+|wesra nos na-in-tha-te
+|Guanay far be-NEG-DIM-DCL
+|‘Guanay is very near.’}}
+
+{{interlinear|number=(19a)
+|sok’och da-no-ne iya-n
+|food want-NML-INT you.SG-INT
+|‘Do you (singular) want to eat?’}}
+
+{{interlinear|number=(19b)
+|ha-ne busa-cha-no-n
+|who-INT arrive-PRS-NML-INT
+|‘Who is arriving?’}}
+
+*In regard to compound speech, diverse types are also distinguished: juxtaposed speech, as (20), coordinate speech, as (21), and subordinate speech (causal, concessive, temporal, conditional, consecutive), as (22):
+
+{{interlinear|number=(20)
+|on chelas-no yobas-ne k’o-in-te wet-ra-no-te
+|that {become sick-NML} man-TOP eat-NML-DCL die-FUT-DCL
+|‘That sick man is not eating; he is going to die.’}}
+
+{{interlinear|number=(21)
+|on chelas-no k’o-in-te '''no''' ko-in-te wet-ra-no-te
+|that {become sick-NML} eat-NML-DCL not drink-NML-DCL die-FUT-DCL
+|‘That sick man is neither eating nor drinking; he is going to die.’}}
+
+{{interlinear|number=(22)
+|ch’epe yin-soncho-a-ra katre-te bar-ka-cha-no-to:
+|ill {1.BEN-become sick-PF-LOC} cot-LOC lying-AUX-PRS-NML-PRS.1
+|‘Because I feel ill I am lying on a cot.’}}
+
+==Vocabulary==
+[[Čestmír Loukotka|Loukotka]] (1968) lists the following basic vocabulary items for Leco.<ref name="Loukotka">{{cite book |last=Loukotka |first=Čestmír |author-link=Čestmír Loukotka |title=Classification of South American Indian languages |url=https://archive.org/details/classificationof0007louk |url-access=registration |publisher=UCLA Latin American Center |year=1968 |location=Los Angeles}}</ref>
+
+:{| class="wikitable"
+! gloss !! Leco
+|-
+| one || ver
+|-
+| two || foi
+|-
+| three || chishai
+|-
+| head || barua
+|-
+| eye || bisiri
+|-
+| hand || bu-eú
+|-
+| woman || chusna
+|-
+| water || dua
+|-
+| sun || heno
+|-
+| maize || ta
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{sister project |project=wiktionary |text=[[Wiktionary]] has a word list at '''''[[Wiktionary:Appendix:Leco word list|Appendix:Leco word list]]'''''}}
+*[http://www.ling.fi/Entradas%20diccionario/Dic=Leko.pdf Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos: LEKO] Alain Fabre, 2005 {{in lang|es}}
+* [http://www.ru.nl/lenguasdebolivia/ Lenguas de Bolivia (online edition)] Provides information about a number of indigenous languages in Bolivia, such as Leko.
+*[https://www.academia.edu/33491350/Transcri%C3%A7a_o_de_grava%C3%A7o_es_em_Leco_l%C3%ADngua_isolada_Bol%C3%ADvia_ Leco transcriptions] of [http://globalrecordings.net/en/language/12825 GlobalRecordings audio files]
+
+{{Languages of Bolivia}}
+{{Language families}}
+{{South American languages}}
+
+{{DEFAULTSORT:Leco Language}}
+[[Category:Language isolates of South America]]
+[[Category:Languages of Bolivia]]
+[[Category:Endangered language isolates]]
+[[Category:Mamoré–Guaporé linguistic area]]

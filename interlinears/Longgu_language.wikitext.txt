@@ -1,0 +1,1023 @@
+{{short description|Southeast Solomonic language of Guadalcanal}}
+{{Infobox language
+|name=Longgu
+|states=[[Solomon Islands]]
+|region=[[Guadalcanal]]
+|speakers=1,500
+|date=2002
+|ref=e22
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southeast Solomonic languages|Southeast Solomonic]]
+|fam5=[[Malaita – San Cristobal languages|Malaita – San Cristobal]]
+|fam6=[[Malaita languages|Malaita]]?
+|iso3=lgu
+|glotto=long1395
+|glottorefname=Longgu
+}}
+
+'''Longgu''' (Logu) is a [[Southeast Solomonic languages|Southeast Solomonic]] language of [[Guadalcanal]], but originally from [[Malaita]].
+
+== Phonology ==
+Phonology is concerned with the ways in which languages make use of sounds to distinguish words from each other.<ref>Delahunty & Garvey, 1994, p. 89</ref> In Longgu, there are both [[consonant]]s and [[vowel]]s which make up its alphabet. Altogether, it has five distinct vowel articulations and nineteen consonant [[phoneme]]s.<ref name=":10">Hill, 2011, p. 4</ref> According to the usual custom in the languages of [[Guadalcanal]], the vowels are sounded out separately.<ref>Ivens, 1934, p. 604</ref>
+
+=== Consonants ===
+In Longgu, the consonant phonemes include:
+{| class="wikitable"
+!
+!Bilabial
+!Dental
+!Velar
+!Glottal
+|-
+|'''Voiceless stops'''
+|p
+|t
+|k
+|ʔ
+|-
+|'''Voiced stops'''
+|b
+|d
+|g
+|
+|-
+|'''Labial stops'''
+|bw
+|
+|
+|
+|-
+|'''Fricatives'''
+|β
+|s, z
+|
+|h
+|-
+|'''Nasals'''
+|
+|m
+|ŋ
+|
+|-
+|'''Labial nasals'''
+|mw
+|
+|
+|
+|-
+|'''Lateral'''
+|
+|l
+|
+|
+|-
+|'''Trill'''
+|
+|r
+|
+|
+|-
+|'''Glide'''
+|
+|w
+|
+|
+|}
+In Longgu, there are four [[voiceless stop]]s including [[glottal stop]]s. All of Longgu's voiceless stops are not aspirated, while its three voiced stops are pre-nasalised. [[Prenasalization]] <nowiki/>of [[voiced stop]]s is also recurrent in Longgu, whereby it is more audible intervocalically.<ref name=":10" /> Furthermore, the labial stop /bw/ is also recognised as a voiced stop /b/. For example:
+
+# '''''B'''abasu'' and '''''Bw'''abwasu'' (name of a town) are both acceptable.
+
+In this language, there are four fricatives, but in particular we can look at the [[dental fricative]] /z/ which has been recorded. Additionally, a voiceless interdental has been previously recorded for Longgu. An example of this is ''θae,'' meaning ‘liver' in English. Furthermore, when the consonants /s/ and /z/ are produced, the tip of the tongue is touching the back of the bottom teeth, with the blade touching the palate. Below shows a [[minimal pair]] which demonstrates these two different consonants:<ref name=":11">Hill, 2011, p. 5</ref>
+
+# ''bisi'' “place to go to the toilet”
+# ''bizi'' “so (as in ''se bizi'' “not so (much)”)
+
+In addition to consonants for Longgu, the labial consonants /bw/ and /mw/ are portrayed as individual phonemes as opposed to two separate phonemes, such as /b/ and /w/ or /m/ and /w/ as there are no other transformations of a consonant that is followed by a glide (i.e. */dw/ and */gw/). Therefore, it has been found that there are no [[consonant cluster]]s in Longgu, hence an analysis of two separate phonemes rather than a unit phoneme is required.<ref>Hill, 2011, p. 12</ref>
+
+=== Vowels ===
+The [[vowel]] phonemes in Longgu are:
+{| class="wikitable"
+!
+!Front
+!Back
+|-
+|'''High'''
+|i
+|u
+|-
+|'''Mid'''
+|e
+|o
+|-
+|'''Low'''
+|
+|a
+|}
+In Longgu, any pair of vowels may occur in a vowel sequence. Vowel sequences are treated as two separate vowels based on their behaviour in terms of stress rules and [[reduplication]]. Below are two examples of minimal pairs which demonstrate a contrast in vowel sequences:<ref>Hill, 2011, p. 10</ref>
+{| class="wikitable"
+|(1)
+|ae-ai
+|''ae''
+|'faeces'
+|-
+|
+|
+|''aiai''
+|'cassava'
+|}
+{| class="wikitable"
+|(2)
+|ae-au
+|''haehae''
+|'cockatoo'
+|-
+|
+|
+|''hauhau''
+|'small container'
+|}
+
+The high back vowel, which is in this case /u/ is interpreted as a glide[w] before /i/ or /a/.<ref name=":12">Hill, 2011, p. 7</ref> Furthermore, there appears to be no long vowels in Longgu, however all of its vowels may produce vowel sequences. In Longgu, a vowel sequence cannot be broken for the purposes of [[reduplication]].<ref name=":13">Hill, 2011, p.11</ref>
+
+=== Phonotactics ===
+The overall syllable structure of Longgu is (C)V(V), which means that the order of sentence structure will be; ''consonant, verb'' and then ''vowel.'' All of its consonants either occur before the word or in the middle, however a few of these consonants are known to occur in particular environments. For example, /z/ will tend to occur only before /a/ and /u/. This syllable structure does not apply to two independent pronouns, such as; ''ngaia'' 3rd person singular, and ''gaoa'' 1st person dual inclusive. The stress on both of these pronouns is on the first syllable (''nga-ia'' and ''ga-oa)''. Furthermore, voiced stops may only occur in the same [[morpheme]] as another voiced stop if both are identical or made at the same [[place of articulation]].<ref name=":13" /> For example:
+
+# ''dede-a'' ‘fill it’
+# ''gege'' ‘beside’
+
+It is important to note that this rule does not necessarily apply across all morphemic boundaries as, for example, a possessive suffix that is attached to a noun may include a voiced stop that is made at a different place of articulation. For example:<ref name=":13" />
+
+# ''gege-da'' ‘beside them’
+
+=== Reduplication ===
+Any vowel, including a [[geminate]] vowel (a reduplicated vowel which emphasises the meaning) can occur with any other vowel within the same syllable. In terms of consonants, labial consonants /pw/, /bw/ and /mw/ only occur before non-rounded vowels. See the examples below:<ref name=":14">Lynch, Ross, & Crowley, 2002, p. 539</ref>
+
+# ''bwabwa'' ‘hole, cave’
+# ''mwatawa'' ‘ocean’
+# ''pwakepwake'' ‘boar’
+
+There is both partial and full reduplication that is present in Longgu. In terms of partial reduplication, the first syllable of a word containing two syllables is reduplicated:<ref name=":15">Hill, 2011, p. 15</ref>
+
+# ''la-loto'' ‘swimming’
+# ''zua-zuala ‘''standing’
+# ''mau-mauru'' ‘sleeping’
+
+It is important to note here that words of two or more syllables are always partially reduplicated through the reduplication of the first two syllables:<ref name=":15" />
+
+# ''tavurake'' ‘to leave’
+# ''tavu-tavurake'' ‘leaving’
+
+=== Stress ===
+[[Stress (linguistics)|Stress]] occurs when a level of emphasis or prominence is given to a phonological word. Primary stress will be on the main syllable, whilst the secondary stress will be on every alternate preceding syllable. Stress in most oceanic languages will indeed fall on this penultimate syllable.<ref name=":14" /> A phonological word can consist of a base word, such as a noun or verb, and all of its affixes. For instance, the word ''zato'' “sunny” tends to be nominalised through a singular noun phrase [[clitic]]:<ref name=":12" />
+
+# ''záto'' “sunny”
+# ''záto-i'' “sun”
+
+=== Orthography ===
+In Longgu, certain [[orthography|orthographic]] conventions can be used. It is important to realise that the labialised bilabial phonemes in Longgu can essentially be written as ''pw, bw'' and ''mw,''<ref name=":14" /> the bilabial fricative / β/ as ''v,'' the glottal stop /ʔ/ as /’/ and the velar nasal /ŋ/ as digraph /ng/. Apart from these exceptions, all the other consonants are written in their phoneme form.<ref name=":11" />
+
+==Pronouns and Person Markers==
+
+There are four pronominal forms in Longgu:
+
+* independent pronouns
+* subject pronouns
+* possessive suffixes
+* object suffixes<ref>{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 90}}</ref>
+
+Independent pronouns and subject pronouns in Longgu are closed word classes.<ref name=":0">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 91}}</ref> Possessive suffixes are attached to nouns to form inalienable possessive constructions, and object suffixes are attached to transitive verbs.<ref name=":0" /> Four numbers are distinguished in pronominal forms: singular, dual, paucal, and plural, and non-singular first person pronouns are either inclusive (INCL) or exclusive (EXCL).<ref name=":0" />
+
+=== Independent pronouns ===
+
+Independent pronouns can act as subject pronouns for 1st and 2nd person non-singular.<ref name=":1">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 92}}</ref> They also mark agreement between the verbs and its object for 2nd and 3rd person non-singular object suffixes.<ref name=":2">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 94}}</ref> When an independent pronoun functions as the head of a noun phrase, the noun phrase may consist of the head alone (example 1), may include the pronominal article (example 2), the cardinal or ordinal numeral expressing "one", a post head modifier, or a noun phrase clitic.<ref>{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 201–202}}</ref> All third person pronouns can function as determiners, but the 3rd person plural pronoun ''gira'' and 3rd person singular pronoun ''ngaia'' are the ones that are most commonly used to fulfill this function.<ref>{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 205–206}}</ref>
+
+{{interlinear|number=(1)
+|girua aura lolo -'i -a mola na m -arua tole -a na vu asi ngaia mwela -geni -i
+|3DU 3DU catch -TRS -3SG just PERF CON -3DU lead -3SG PERF to sea 3sg child -woman -SG
+|"They both just caught her and they both took this girl to the sea."<ref name=":6">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 202}}</ref>}}
+
+{{interlinear|number=(2)
+|m -i ngaia 'ua i ei
+|CON -ART 3sg still LOC there
+|"But she was still there."<ref name=":6" />}}
+
+{| class="wikitable"
+|+Table 1. Independent pronouns<ref name=":0" />
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | nau/na
+| amerua
+| golu
+| gia
+|-
+! inclusive
+| gaoa/ ga
+| amelu
+| ami
+|-
+! colspan="2" | 2nd person
+| oe
+| amurua
+| amolu
+| amu
+|-
+! colspan="2" | 3rd person
+| ngaia
+| girua/ girarua
+| giraolu
+| gira
+|}
+
+The first person dual inclusive pronoun ''gaoa'' has the reduced form ''ga.'' The first person singular pronoun ''na i''s used instead of ''nau'' when placed before the irrealis particle ''ho''<ref name=":0" />''.''
+
+Independent pronouns have three functions:
+* Nominal argument of a clause
+{{interlinear|number=(3)
+|gira ara nana'i na
+|3PL 3PL {stay home} PERF
+|"They stayed home"<ref name=":0" />}}
+
+* Possessor in an alienable possessive construction
+{{interlinear|number=(4)
+|luma ami -gi
+|house 1PL.EX -PL
+|"Our houses"<ref>{{Cite book|title = Longgu Grammar|last = Hill|first = Ddeborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 91–92}}</ref>}}
+
+* Determiner in a noun phrase
+{{interlinear|number=(5)
+|gira tolo-gi ara ili -a 'ani-a "rau ni bolo"
+|3PL bush-PL 3PL tell -3SG INSTR-3SG "line LIG pig"
+|"Those bush (people) call it 'line of the pig'"<ref name=":1" />}}
+
+=== Subject pronouns ===
+
+The subject pronoun is also the first constituent of a verb phrase, and is used to cross-reference the number and person of the subject noun phrase.<ref name=":1" /> Lonngu does not have any 1st and 2nd person non-singular subject pronouns, as can be seen in Table 2. Third person non singular subject noun phrases are either fully cross-referenced for person and number by the subject pronoun (example 6), or by the 3rd person plural subject pronoun (example 7).<ref name=":3">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 130}}</ref>
+
+Using the 3rd person plural subject pronoun to cross-reference dual and paucal subject noun phrases is thought to be a simplifying device, and used when the number of the subject has already been established either by a subject noun phrase, an independent pronoun (example 7), or a subject pronoun in a previous clause (example 8).<ref name=":3" /> The third person plural subject pronoun can be used to cross reference both inanimate and animate subjects.<ref name=":4">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 131}}</ref>
+
+{{interlinear|number=(6)
+|rua mi gale -na arua la tete
+|two CON child -3SG 3DU go bridge
+|"A mother and her child walked on the reef"<ref name=":3" />}}
+
+{{interlinear|number=(7)
+|giraolu mola ara ho la mai
+|3PAU only 3PL IRR go hither
+|"Only they will come (not you)"<ref name=":4" />}}
+
+{{interlinear|number=(8)
+|m -arau goni pilu na, ara goni -a pilu -i liva'a -na pilu ni boo -i m -arua na'i -a i ei
+|CON -3DU build fence PERF, 3PL build -3SG fence -SG live -3SG fence LIG pig -SG CON -3DU put -3SG LOC there
+|"and they both built a fence, they built a fence like a pig fence and they both put it there"<ref name=":4" />}}
+
+The use of 3rd person plural subject pronoun as a cross-referencing device is often associated with the repetition of an event as seen in example 8.<ref name=":3" />
+
+Subject pronouns are given in Table 2, with independent pronouns functioning as subject pronouns placed in brackets.<ref>{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 92–93}}</ref>
+
+{| class="wikitable"
+|+Table 2. Subject pronouns
+! 
+! Singular
+! Dual
+! Pascal
+! Plural
+|-
+! 1st person
+| nu
+| (gaoa amerua)
+| (golu amelu)
+| (gia ami)
+|-
+! 2nd person
+| o
+| (amorua)
+| (amolu)
+| (amu)
+|-
+! 3rd person
+| e
+| arua/ ararua
+| aralu
+| ara
+|}
+
+=== Possessive suffixes ===
+Possessive suffixes are bound morphemes that are either attached to nouns or to the nominal preposition ''ta-,''.
+
+{| class="wikitable"
+|+Table 3. Possessive suffix<ref name=":5">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 93}}</ref>
+! colspan="2" | 
+! Singular
+! Dual
+! Pascal
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | -gu
+| -mamerua
+| -mamelu
+| -mami
+|-
+! inclusive
+| -garua
+| -gaolu
+| -ga
+|-
+! colspan="2" | 2nd person
+| -mu
+| -miurua
+| -miolu
+| -miu
+|-
+! colspan="2" | 3rd person
+| -na
+| -darua
+| -daolu
+| -da
+|}
+
+Possessive suffixes have five functions:
+
+* To signify the whole of a part/ whole relationship
+{{interlinear|number=(9) 
+|maa-na wai
+|eye-3SG water
+|"mouth/ eye of the river"<ref name=":5" />}}
+
+* To express the relationship between a local noun and the dependent common/ place noun
+{{interlinear|number=(10)
+|wai e 'oni gege -na komu -i
+|water 3SG located beside -3SG village -SG
+|"The river is located/ runs next to the village"<ref name=":2" />}}
+
+* To signify the possessor in an inalienable possessive construction
+{{interlinear|number=(11)
+|gale -na Ulunatena
+|child -3SG NAME
+|"Ulumatena's child"<ref name=":5" />}}
+
+* To signify the object of a nominal or dative preposition
+{{interlinear|number=(12)
+|Tolo e tali to'i ta -na haka -i
+|NAME 3SG want work LOC -3SG ship {}
+|"Tolo wants to work on a ship"<ref name=":2" />}}
+
+* To refer to the object of a small class of verbs
+{{interlinear|number=(13)
+|mamaa -na vonu -i
+|watch -3SG turtle -SG
+|"watch the turtle"<ref name=":2" />}}
+
+=== Object suffixes ===
+
+Object suffixes are attached to transitive verbs to cross-reference person and number of the object pronoun phrase argument in transitive clauses.<ref name=":2" /> The person and number of object noun phrases with animate references are fully marked by the object suffix on the verbs (example 14).<ref name=":7">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 136}}</ref> Object suffixes in Longgu make distinctions between inanimate and animate objects, as well as distinguishing between objects which are highly individuated, and those that have no special importance.<ref name=":7" />
+
+{{interlinear|number=(14)
+|bwa'ewai e gali -gali -rarua
+|shark 3SG circle -REDUP -3DU
+|"The shark kept circling them both"}}
+
+A list of object suffixes are shown in Table 3, and independent pronouns functioning as object suffixes are placed in brackets.<ref>{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 95}}</ref>
+{| class="wikitable"
+|+Table 4. Object suffixes
+!
+!1st
+!2nd
+!3rd
+|-
+!Singular
+| -u
+| -o
+| -a
+|-
+!Dual
+|(gaoa amerua)
+|(amorua)
+| -rarua
+|-
+!Pascal
+|(golu amelu)
+|(amolu)
+| -raolu
+|-
+!Plural
+|(gia ami)
+|(amu)
+| -ra
+-i
+|}
+For third person plural object suffixes, inanimate objects can be referred to using both -''ra'' and -''i'', but animate objects are referred to using only the object suffix -''ra''.<ref name=":2" />
+
+Singular objects are marked by 3rd person singular suffix -a.<ref name=":7" />
+
+{{interlinear|number=(15)
+|ara goni -a pilu -i
+|3PL build -3SG fence -SG
+|"They built a fence"<ref name=":8" />}}
+
+Non-singular objects can be marked by the 3rd person singular suffix -a, as well as the 3rd person plural suffix -ra and the 3rd person plural inanimate suffix -i. However, the 3rd person singular suffix can only be used when the object is not highly individuated (example 16).<ref name=":8">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 137}}</ref> The taro tops in example 16 refers to taro tops in general, not a specific group that the speaker had in mind.<ref name=":8" />
+
+{{interlinear|number=(16)
+|nau mola gu la va'i -ni -ra vua ngaia -gi ivu'i -ni -a savi golu -gi
+|1SG only IRR go COMIT -TRS -3PL grandparent 3SG -PL hoe -TRS -3SG {taro top} 1PAU.INC -PL
+|"Only I should go with his grandparents, hoeing our taro tops"<ref name=":8" />}}
+
+The 3rd person plural inanimate suffix -i cross references dual, paucal, or plural inanimate objects which are highly individuated.<ref name=":8" /> In example 17, the head noun is quantified, and food objects are also cross-referenced by the 3rd person plural inanimate suffix.<ref name=":9">{{Cite book|title = Longgu Grammar|last = Hill|first = Deborah|publisher = LINCOM GmbH|year = 2011|isbn = 9783862880959|location = Muenchen|pages = 138}}</ref>
+
+{{interlinear|number=(17)
+|e rua 'ai ni topuhu rua lodoi bua rua aba -aba ni ova girua arua wate -i
+|3SG two stick LIG pudding two fruit {betel nut} two leaf -REDUP LIG {betel nut leaf} 3DU 3DU give -3PL.IN
+|"(it was) two sticks of pudding, two betel nut fruits, two leaves of betel nut leaf, they gave (them)"<ref name=":9" />}}
+
+==Possession==
+[[Possession (linguistics)|Possession]] in grammar is a construction which expresses a relationship between a possessor and a possessum [what is possessed].<ref>{{cite book|last1=Hill|first1=Deborah|title=Longgu Grammar|date=2011|publisher=Lincom Europa|location=München|isbn=978-3-86288-095-9|pages=175}}</ref> There are two key [[Syntax|syntactic]] constructions for possession: alienable and inalienable. [[Inalienable possession]] refers to the relationship between a person/being and its inherent properties or parts, and which cannot be removed. In contrast, [[alienable possession]] refers to a relationship of possession where the possessum (thing being possessed) can be given away or lost by the possessor.  Both types of possessive construction may express kin relationships, part/whole relationships (body and its parts), objects, location and ownership but to varying degrees and with certain allowances and limitations.<ref>Ross, pg.511</ref><br />
+NB: All examples in Possession are taken from ''Longgu Grammar'' by Deborah Hill, 2011 unless otherwise stated.
+
+===Inalienable Possession===
+Inalienable possession in Longgu is expressed by a possessive pronoun. There are two sets of possessive pronouns within inalienable possession: those referring to food that is eaten or intended to be eaten; and those which express ownership of all other things.
+Inalienable possessive constructions are formed by directly suffixing a possessive [[suffix]] to a [[head noun]] [the possessum], followed by the dependent noun [possessor]. It can be a [[common noun]] (which can in turn be possessed) or an independent [[pronoun]].<ref>Hill, pg 175</ref> Some nouns in Longgu may only form the head of an inalienable possessive construction and not alienable. These include: Certain kin terms; local nouns; noun ve’ete- (‘self’); certain nouns referring to personal possessions; nouns expressing the relationship between a whole and its parts; nouns which refer to concepts that are inherently connected to a person (e.g. A person's name, shadow, ancestors); nominalised verbs.<ref>Hill, pg.178</ref>
+
+Inalienable possessive constructions express a number of different types of relations and they can be split into several sub-categories:
+
+# Possessive suffixes
+# Kin relationships
+# Body part relationships
+# Spatial relationships
+# Personal possession
+# Part/whole relationships
+# Possessive pronouns referring specifically to food and possessions
+
+==== Possessive Suffix ====
+
+{| class="wikitable"
+|-
+! Possessum !! Possessor
+|-
+| Head Noun + Poss. suffix || + independent noun (common noun/independent pronoun)
+|}
+
+{| class="wikitable"
+|+ Possessive Suffixes in Longgu<ref>Hill, pg. 93</ref>
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st
+! excl.
+| rowspan="2" | -gu
+| -mamerua
+| -mamelu
+| -mami
+|-
+! incl.
+| -garua
+| -gaolu
+| -ga
+|-
+! colspan="2" | 2nd
+| -mu
+| -miurua
+| -miolu
+| -miu
+|-
+! colspan="2" | 3rd
+| -na
+| -darua
+| -daolu
+| -da
+|}
+
+For example:
+
+{{interlinear|number=(1)
+|e se bweina ta’e tatala -na mwela -ne
+|3SG NEG big INTENS footprint-3SG child –DEIC
+|“This child’s footprint isn’t really big”}}
+
+{{interlinear|number=(2)
+|susu -na tia ngaia
+|{breast milk} -3SG mother 3SG
+|“her mother’s breast milk”}}
+
+Possessive constructions can also be recursive, meaning that up to three possessive noun phrases may be in the one sentence.<ref>Hill, pg.177</ref>
+
+{{interlinear|number=(3)
+|parapara ta’e bou –na gale –gu
+|hot INTENS head -3SG child -1SG
+|“my child’s head is really hot”}}
+
+[*head N + poss. suff. ... head N +poss  <br />
+bou(head) + na	...gale 	+ gu]
+
+==== Kin Relationships ====
+
+Only certain kinship terms may be inalienable in Longgu. These include bound nouns such as: Barunga-na (‘his/her spouse’), Si-na (‘his/her younger sibling’), iiva-na (‘his/her brother/sister in-law’); and Vavune-na  (‘his/her cross-sibling’), vungau-na  (‘his/her parent/child in-law’) which may both be used [[Vocative case|vocatively]].<br />
+Not strictly kinship terms, boro “old man” and mwaro “old woman” can formulate a semi-verbal predicate. The possessor (rather than possessum) is marked by a suffix (–na) so there is no need for a noun to follow.<ref>Hill, pg.179</ref>
+* Boro-na 	“his/her old man/ancestor”
+* Mwaro-na 	“his/her old woman/ancestor”
+
+{{interlinear|number=(4)
+|Su’e-a burunga-mu ge ili-a tia ngaia
+|Ask-3SG spouse -2SG OBL tell-3SG mother 3SG
+|“ask your spouse to tell of her mother”}}
+
+==== Body part relationships ====
+
+Most body part terms form the head of inalienable possessive constructions:<br />
+{|
+|-
+| Bou-na   ||   "his/her head"
+|-
+| Suli-na   ||   "his/her body"
+|-
+| Lima-gu   ||   "my arm/hand"
+|-
+| A’ae-mu   ||   “your leg/foot”
+|-
+| Kuli-na   ||   “his/her ear”
+|-
+| Kutu-mu   ||   “your belly”
+|-
+| Roa-gu   ||   “my shoulder”
+|-
+| Aloa-na	  ||   “his/her neck”
+|-
+| Maa-na   ||   “his/her eye/face”
+|-
+| Susu-na^   ||   “her breast milk, breast”
+|-
+| Mimi-na^   ||   “his/her urine, bladder”
+|-
+|}
+
+^may denote either the fluid or the body part.
+
+The inalienable possessive construction is the unmarked possessive construction for primary body parts (parts seen as belonging to the whole body, as opposed to non-primary body parts, which are seen as belonging to a section/part of the body).<ref>Hill, pg.180</ref> 
+Note: when the body parts become separated from the whole they are thus treated as alienable (see Alienable: kinship)
+
+{{interlinear|number=(5)
+|m–amolu ge zuala ga ‘ani-a e mae na a’ae-miu
+|CON-2pau OBL stand ANT INSTR-3SG 3SG dead PERF leg-2PL
+|“you (few) must stand for a while because your legs are stiff ({{lit}} dead) now”}}
+
+==== Spatial Relationships ====
+
+Local (denoting location) nouns can act as the head of an inalienable possessive construction but not an alienable. As well as denoting possession, local nouns can also appear in their bare form and/or in associative constructions. 
+
+{{interlinear|number=(6)
+|Gia ngaia boo-i –na isitava ubu -na luma –i –na
+|Go first 3SG pig-SG-DEIC go outside inside -3SG house-SG-DEIC
+|“that pig went ahead outside from inside that house”}}
+
+{{interlinear|number=(7)
+|m –e gale, ango mai gege -darua –i –na 
+|CON-3SG baby, crawl hither beside -3du -SG –DEIC
+|“and it was a baby [snake], [lit] crawled beside them”}}
+
+Places within the house are also place nouns and as such can form the head of inalienable possession:
+
+{{interlinear|number=(8)
+|Nu kue-kue–kue lae–lae mola ubu ni masu’u-gi-na ma bwarakumo -gi-i-na, ma maa–luma –gu-i-na
+|1SG squeal-REDUP-REDUP go-REDUP just inside LIG bush-PL-DEIC CON {back of house} -1SG-SG-DEIC, CON eye-house -1SG-SG-DEIC.
+|“I squealed (while) just walking in the bush ({{lit}} those bushes) and at the back of my house and my door”}}
+
+==== Personal Possession ====
+
+There are a select few common nouns which show personal possession in inalienable constructions but not alienable:
+* Vuli-na		‘his/her bed’
+* Nilau-na		‘his/her decoration’
+* Pitapita-na	‘his/her bracelet’
+* Va’ava’a-na	‘his/her necklace’
+This limited group suggests that there is a [[Semantics|semantic]] basis, that all these items are either worn or slept in. The treatment of these nouns (of personal decoration) as inalienable is consistent even when the possessor is not wearing them, in contrast to ‘clothes’.
+
+{{interlinear|number=(9)
+|Rabu –ta’ ini-a ta –na vuli-na vua nau –i
+|Beat –TRS -3SG LOC-3SG bed-3SG grandchild 1SG-SG
+|“beat [the plant] on my grandchild’s bed”}}
+
+Intangible things which aren’t transferable between people are treated as bound to a person.:
+* Zata-na ‘his/her name’
+* Nun-na ‘his/her shadow’
+* Walu-na ‘his/her voice’
+* Tatala-na ‘his/her footprint’
+* Anoa-na ‘his/her ancestor’s spirit’
+
+{{interlinear|number=(10)
+|Zata-na te uta’a –i a Sibiloko
+|Name-3SG one man -SG ART NAME
+|“the name of one man was Sibiloko”}}
+
+{{interlinear|number=(11)
+|e se bweina ta’e tatala –na mwela-ne
+|3SG NEG big INTENS footprint-3SG child-DEIC
+|“this child’s footprint isn’t really big”}}
+
+==== Part/Whole Relationships ====
+
+Parts/sections of man-made things, natural things such as rivers and hils, and patterns like dances are treated as inalienably possessed. These include:
+* Pilasu-na vugi		“banana sprouts (new shoots)”
+* Tina-na ‘ai			‘tree trunk’
+* Boru-na wai		‘river bed’
+* Boru-na iolai		‘underside of canoe’
+* Popopo-na mala’u’ui	‘top of the hill’
+* Maa-na wai		‘mouth (lit: eye) of the river’
+* Sulu-na niui		‘leaf of the coconut tree’
+* Uri-uri-na avai		‘dance steps’<ref>Hill, pg.186</ref>
+
+{{interlinear|number=(12)
+|Golu ge nau-nau-a awade uri-uri-na avai
+|1pau.inc OBL REDUP-try-3SG how step-REDUP-3SG dance
+|“we must practice how to do the dance steps”}}
+
+==== Possessive Pronouns referring to food and possession ====
+
+Inalienable possessive pronouns are divided into two categories:
+# referring to food that is eaten or intended to be eaten by the possessor,
+# relating to other possessions, typically found in nominal clauses (eg. That’s mine).
+
+For both sets a [[suffix]] a is attached to the [[First-person singular|1st]] and [[2nd person singular pronoun|2nd person singular]] possessive suffixes.
+
+(a) For referents to food that’s eaten or intended to be the possessive suffix is attached directly to the possessive particle ''a''.
+
+{| class="wikitable"
+|+ Possessive Pronouns relating to food<ref>Hill, pg.187</ref>
+|-
+!  !! 1st !! 2nd !! 3rd
+|-
+| '''Singular''' || Agua || Amua || Ana
+|-
+| '''Dual''' || Agarua || Amiurua || Adarua
+|-
+| '''Paucal''' || Agaola || Amiolu || Adaolu
+|-
+| '''Plural''' || Aga || Amiu || Ada
+|}
+
+(b) Other possessions, typically found in [[Nominal (linguistics)|nominal clauses]], are formed by an attachment of possessive suffixes to the [[Particle (linguistics)|particle]] ''na''
+
+{| class="wikitable"
+|+ Possessive pronouns relating to other possessions<ref>Hill, pg.188</ref>
+|-
+!  !! 1st !! 2nd !! 3rd
+|-
+| '''Singular''' || Nagua || Namua || Nana
+|-
+| '''Dual''' || Nagarua || Namiurua || Nadarua
+|-
+| '''Paucal''' || Nagaolu || Namiolu || Nadaolu
+|-
+| '''Plural''' || Naga || Namiu || Nada
+|}
+
+=== Alienable Possession ===
+[[Alienability (grammar)|Alienable]] possession refers to the possession of items (possessums) that may be transferred away or lost by the possessor. They are formed by a head noun and an independent pronoun, which denotes the possessor, and may be followed by a possessed or non-possessed dependent noun.
+
+:HEAD NOUN + INDEPENDENT PRONOUN + can be followed by a dependent noun (non-/possessed)
+
+Nouns that can take on an alienable construction include such categories as animals, foods, personal items, villages and some kinship terms.
+
+Longgu development of alienable constructions where the possessor is expressed by a disjunctive pronoun (like nau) is non-standard to the POC.<ref>Ross, pg.512</ref>
+
+==== Kinship Relations ====
+
+There is a small set of kinship terms which may be the head of an alienable possessive construction but not inalienable. These are:
+* Tia ngaia ‘his/her mother’
+* Mama ngaia ‘his/her father’
+* vua ngaia ‘his/her grandparent’grandchild’
+* sa’i ngaia ‘his sister’s child/his/her mother’s brother’
+
+{{interlinear|number=(13)
+|o susu -a vua nau, tike, mo go na’i-a wa -na mama ngaia
+|2SG breast feed -3SG grandchild 1SG, daughter, CON OBL leave-3SG DAT -3SG father 3SG
+|“you breast feed my grandchild, daughter, and you must leave him for his father”}}
+
+All of these kinship terms, excluding tia ngaia ‘his/her mother, mother’s sister’, represent reciprocal relationships. In POC, generally terms for mother and father are not included in inalienable possessive constructs, in this Longgu differs. Longgu also deviates from standard POC in that not all reciprocal kinship terms are included in inalienable possessive constructions.
+
+Terms for adopted child and friend are also alienably constructed:
+
+{{interlinear|number=(14)
+|Mwela kuti-kuti nau
+|Child feed-RED 1SG
+|“my adopted child”}}
+
+{{interlinear|number=(15)
+|m –e lae na udu ngaia nina
+|CON -3SG go PERF friend 3SG DEIC
+|“and his friend went then”}}
+
+==== Personal Possession ====
+
+Personal possession that can be transferred from one person to another, for example objects, as well as place, like villages.
+
+{{interlinear|number=(16)
+|E ade -a tuapasa ngaia -i
+3SG take -3SG spear 3SG -SG
+“he took his spear”}}
+
+{{interlinear|number=(17)
+|m –ara lahou ade –i na ivi gira –gi vata’u m –ara na’i –i ubu –na ei gira –gi
+|CON-3PL then take-3PL.in PERF clothes 3PL –PL away CON -3PL put -3PL.in inside-3PL basket 3PL –PL
+|“and then they took off their clothes and they put them into their baskets”}}
+
+{{interlinear|number=(18)
+|m -arua kao mai m –arua bere –ngi –a ‘ua komu girua –i
+|CON -3DU look back hither CON-3DU see –TRS -3SG CONT village 3DU –SG
+|“and they both looked back and they both still saw their village”}}
+
+As noted above, possessive pronouns may be used in inalienable constructions to talk about food that is being eaten/intended to be eaten by the possessor. In alienable constructions the food words themselves can form the head (of only alienable constructions). This includes food that may be intended for eating.<ref>Hill, pg.190</ref>
+
+{{interlinear|number=(19)
+|m–e lahou ade –a hou kabokabo ngaia
+|CON-3SG then take-3SG thither taro 3SG
+|“and then he took out his taro”}}
+
+=== Alienable/Inalienable Possession ===
+There are a number of nouns which may form either the head of an alienable or inalienable possessive construction, and this is dependent on the semantic relationship between the head and the dependent noun.<ref>Hill, pg.191</ref> Sub-categories include: [[Kinship terminology|kinship]] terms, body part terms, other common nouns.
+{| class="wikitable"
+|-
+!  !! Inalienable !! Alienable !! Gloss
+|-
+| Kinship terms || gale-na || gale-ngaia || "her child"
+|-
+|  || To' o-na || To' o ngaia || "her sister"
+|-
+| Body part terms || Kakasa-na || Kakasa ngaia || "her rib"
+|-
+|  || Mimi-na || Mimi ngaia || "its bladder"
+|-
+| Other (originated from possessor) || U'unu-na || U'unu ngaia || "her story"
+|-
+|  || Tala-na || Tala ngaia || "her path"
+|-
+|  || Zalu-na || Zalu ngaia || "her egg"
+|-
+|  || Totohale-na || Totohale ngaia || "her picture"
+|-
+| Other (occupied by possessor) || Luma-na || Luma ngaia || "her house"
+|-
+|  || iola-na || iola ngaia || "her canoe"
+|-
+|  || ivi-na || ivi ngaia || "her clothes"
+|}
+
+There are only two kinship terms which may form the head of both alienable and inalienable possessive constructions. For gale ‘child’, there is a semantic basis for which form it takes. This is whether the possessor of the child is human or animal. 
+* Gale-na mwane		‘the man’s child’
+* Gale ngaia ‘usul		‘the dog’s puppy’
+
+The inalienable possessive construction of body part terms is the unmarked variety, however when these become detached/dismembered they are treated as alienable. 
+* Kakasa-gu	‘my rib (inside my body)’
+* Kakasa nau	‘my rib (that I own, eg. A pig’s rib)’
+
+‘story’, ‘path’, ‘egg’, ‘picture’; ‘canoe’, ‘house’, ‘clothes’. Each have alienable and inalienable distinctions.
+
+Inalienable constructions of ‘story’, ‘path’, ‘egg’, ‘picture’ express that the possessor is the source of the possessum. For example, an egg laid (created) by someone compared with an egg which someone owns.
+
+{|
+|-
+! Possessor as source (inalienable) !! !! Ownership relation (alienable) !!  
+|-
+| U'unu-na || "his/her story about him/her" || U'unu ngaia || "his/her story told by him/her"
+|-
+| Tala-darua || "their path (the way they travelled)" || Tala gira || "their path (of their village)"
+|-
+| Zalu-na || "her egg (that she laid)" || Zalu ngaia || "his/her egg (that he/she owns)"
+|-
+| '''Possessor as occupier (inalienable)''' ||  || '''Owned by possessor but not occupied by possessor (alienable)''' ||
+|-
+| (a) Luma-gu || "my house (that I live in/occupy) || (a) Luma nau-i || "my house (that I own)"
+|-
+| (b) iola-da-i || "their canoe (possessed by the people inside it)" || (c) iola ngaia Teddy || "Teddy's canoe (Teddy owns the canoe)"
+|-
+| (d) ivi-na si-na-i || "the younger sibling's clothes" || (e) ivi ngaia Ara || "Ara's clothes"
+|}
+<ref>Hill, pp.192-194</ref>
+
+{{interlinear|number=a)
+|Luma ni niu –I e luma nau –I luma ni niu –I e se luma –gu
+|House LIG coconut-SG 3SG house 1SG-SG house LIG coconut-SG 3SG NEG house-1SG
+|“the coconut house (house for storing coconuts) is my house (‘that I own. Alienable), it is not my house (that I occupy. Inalienable)”}}
+
+{{interlinear|number=b)
+|‘inoni ara se lae –gi –na ara toro –vahini –a vu mwetawa iola –da –I
+|person 3PL Neg go –PL –DEIC 3PL push –TRS -3SG to ocean canoe -3PL –SG
+|“the people who are not going push their canoe out to sea”}}
+
+{{interlinear|number=c)
+|iola ngaia Teddy
+|canoe 3SG NAME
+|“Teddy’s canoe”}}
+
+{{interlinear|number=d)
+|m -e lahou ade -a na ivi -na si -na -I 
+|CON-3SG then take-3SG PERF clothes -3SG younger sibling-3SG -SG
+|“and then she took her younger sibling’s (sister’s) clothes”}}
+
+{{interlinear|number=e)
+|ivi ngaia Ara
+|clothes 3SG NAME
+|“Ara’s clothes”}}
+
+=== Associative ''ni'' Construction ===
+Not strictly a possessive construction, the associative ni construction is formed whereby the [[morpheme]] –ni is used to join two nouns into a possessive noun phrase. (N1 + ni + N2).<ref>Hill, pg.194</ref> <br />
+In Proto-Oceanic there were four distinct constructions for representing nouns possessed by a possessor noun phrase: inalienable/specific possessor; inalienable/non-specific possessor; alienable/specific possessor; alienable/non-specific possessor.<ref name="Ross, pg.514">Ross, pg.514</ref> Longgu, however, maintains only a three-way distinction, with the differentiation between the two non-specific possessor constructions being lost and ni now used for both.<ref name="Ross, pg.514"/>
+
+{| class="wikitable" 
+|-
+! 
+! Specific possessor
+! Non-specific possessor
+|-
+! Inalienable
+| {{interlinear|Tatala-na mwela-ne|Footprint-P:3s child-this|“this child’s footprint”}}
+| {{interlinear|Tatala ni ʔinoni|Footprint ni person|"human footprints"}}
+|-
+! Alienable
+| {{interlinear|Komu ŋaia tia ŋaia|Village D:3s mother D:3s|"his mother's house"}}
+| {{interlinear|raboʔo ni komu|bowl ni village|"wooden bowl ({{lit}} 'bowl of village')"}}
+|}
+
+== Negation ==
+
+=== Negative particle  ===
+A negative verb phrase is formed by the negative particle ''se'' and a predicate head.<ref name=":16">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=156|oclc=776146445}}</ref>
+
+{{interlinear|number=(1)
+|e se lae ‘ua
+|3SG NEG go CONT
+|he hasn't gone yet<ref name=":16" />}}
+
+{{interlinear|number=(2)
+|amurua se su’e-talivana-a
+|2du NEG {ask properly}-3SG
+|you two didn't ask her properly<ref name=":16" />}}
+
+{{interlinear|number=(3)
+|amerua ho se lae nina kote amerua violo
+|1DU.EX IRR NEG go DEIC in 1DU.EX hungry
+|we (two) won't go now in case we (get) hungry<ref name=":16" />}}
+
+The negative particle, ''se'', is a pre-head particle which negates verbal and semi-verbal clauses. The negative particle occurs after the subject pronoun in a verb phrase expressing realis mood, and after the irrealis particle ''ho'' (5) in a verb phrase (negative predicate) which expresses irrealis mood.<ref name=":17">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=100|oclc=776146445}}</ref>
+
+{{interlinear|number=(4)
+|o se salu-u, udu, e una, ho se po-rarua
+|2SG NEG lie-1SG, friend, 3SG say, IRR NEG hide-3DU
+|don't lie to me, friend, he said, you won't hide them<ref name=":17" />}}
+
+{{interlinear|number=(5)<ref>{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=140|oclc=776146445}}</ref>
+|amerua ho se LAE nina
+|1DU.EX IRR NEG go DEIC
+|we won't go now}}
+
+=== Negative Quantifiers ===
+Quantifiers function like numerals. Negative quantifiers include:<ref>{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=88|oclc=776146445}}</ref>
+{| class="wikitable"
+| width="164" valign="top" |bwala
+| width="164" valign="top" |“none, no, not”
+|-
+| width="164" valign="top" |bwalasaliu
+| width="164" valign="top" |“none at all, never”
+|}
+The quantifiers ''bwala'' “none” may be predicate heads as well as adnominal modifiers.<ref name=":18">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=90|oclc=776146445}}</ref>
+
+{{interlinear|number=(6)
+|e bwala mola
+|3SG none only
+|it's none<ref name=":18" />}}
+
+{{interlinear|number=(7)
+|bwala u’unu tewa-tewa
+|nonw story long-REDUP
+|not a very long story<ref name=":18" />}}
+
+All quantifiers modify a head noun. The quantifier ''bwala'' “none” quantifies nouns which are not marked by noun phrase clitics.<ref name=":19">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=217|oclc=776146445}}</ref>
+
+{{interlinear|number=(8)
+|bwala ‘inoni ge bweu {‘ani -o}
+|none person OBL doubt INSTR-2SG
+|nobody should doubt you ({{lit}} doubt  about you)<ref name=":19" />}}
+
+'''Note: '''''bwala'' is also a conjunction “or”, which is used to express the disjunctive meaning.<ref>{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=288|oclc=776146445}}</ref>
+
+=== Existential clauses ===
+Existential clauses in Longgu are formed by verbal, semi-verbal and nominal clauses.<ref name=":20">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=27|oclc=776146445}}</ref>
+
+Negative existential clauses are formed by either semi-verbal or nominal clauses. A semi-verbal negative existential clause consists of the quantifier ''bwala'' “none, not, no” and a noun as predicate head. It is recognizable as a semi-verbal clause because of the presence of a subject pronoun (9) and aspect particle (10).<ref name=":20" />
+
+{{interlinear|number=(9)
+|nau-i na bwala tia nau {m -e} bwala mama nau
+|1sg-SG PERF no mother 1sg CON-3sg no father 1sg
+|me, I have no mother and no father{{br}}
+(my mother does not exist and my father does not exist)<ref name=":21">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=28|oclc=776146445}}</ref>}}
+
+{{interlinear|number=(10)
+|bwala vonu na {ubu -na} {pilu -i}
+|no turtle PERF inside-3sg fence-SG
+|there was no turtle inside the fence<ref name=":21" />}}
+
+A nominal negative existential clause consists of one noun phrase – the predicate. The quantifier ''bwala'' “none, no, not” precedes the noun phrase head. Note that (11) is an inalienable possessive construction. The possessum is ''gale'' “child” and the dependent possessor is an associative noun phrase. The plural clitic refers to the head of the possessive construction.<ref name=":21" />
+
+{{interlinear|number=(11)
+|bwala gale-darua geni ni Bwabwasu -gi
+|no child-3du woman LIG PLACE -PL
+|the two women of Bwabwasu had no children{{br}}
+(the children of the Bwabwasu women did not exist)<ref name=":21" />}}
+
+=== General modifiers  ===
+There is also a small closed-class of general modifiers (i.e. those which function as both verbal modifiers (12) and nominal modifiers (13)). The negative general modifier include ''sodo'' “nothing”.<ref name=":22">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=81|oclc=776146445}}</ref>
+
+''Sodo'' “nothing” is a post-head modifier.
+
+{{interlinear|number=(12)
+|to’i sodo
+|work nothing
+|work for nothing<ref name=":22" />}}
+
+{{interlinear|number=(13)
+|‘inoni sodo
+|person nothing
+|good-for-nothing person<ref>{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=82|oclc=776146445}}</ref>}}
+
+=== Intensifiers  ===
+The intensifier ''tahou'' modifies only verbs.<ref>{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=163|oclc=776146445}}</ref> It can be used in comparisons, but it expresses the notion “at all” in negative sentences.<ref name=":23">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=164|oclc=776146445}}</ref>
+
+{{interlinear|number=(14)
+|i weita {m -i} weita golu se bere-ngi-a tahou
+|LOC before CON-LOC before 1pau.inc NEG see-TRS-3sg INTENS
+|a long time ago we couldn’t see it at all<ref name=":23" />}}
+
+=== Yes/no questions  ===
+Yes/no questions are structurally similar to declarative sentences. They differ from declarative sentences only by the intonation contour. In declarative sentences there is falling intonation across the sentence. In interrogative sentences the intonation rises and then falls on the last word.<ref name=":24">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=306|oclc=776146445}}</ref>
+
+Yes/no questions may include the directional particle ''hou'' “thither”. This particle functions to form a more clearly interrogative sentence than an interrogative sentence formed by intonation only.<ref name=":24" />
+
+{{interlinear|number=(15)
+|oe ho lae lou hou
+|2sg IRR go too thither
+|are you going too?<ref name=":25">{{Cite book|title=Longgu grammar|last=Hill, Deborah.|date=2011|publisher=Lincom Europa|isbn=9783862880959|location=München|pages=307|oclc=776146445}}</ref>}}
+
+Yes/no responses (with falling intonation) are:<ref name=":25" /> 
+{| class="wikitable"
+| width="65" valign="top" |ee
+| width="65" valign="top" |“yes” 
+|-
+| width="65" valign="top" |bwala
+| width="65" valign="top" |“no”
+|}
+To covey doubt about the answer, a speaker uses ''ii'' (with rising intonation).<ref name=":25" />
+
+To respond negatively to an identifying question the quantifier ''bwala'' “no” is used.<ref name=":25" />
+
+{{interlinear|number=(16)
+|i ngaia {gale -mu?} bwala
+|ART 3sg child-2sg no
+|is he your child? no<ref name=":25" />}}
+
+To respond negatively to a response to a question about a state, a verb phrase consisting of the quantifier ''bwala'' “no, none” and an aspect particle (either the continuative particle ''‘ua'' or the perfect aspect particle ''na''/''na’a'') is used (i.e. ''bwala ’ua'' “not yet”; ''bwala na'' “not now”).<ref name=":25" />
+
+{{interlinear|number=(17)
+|o taula’i oe? {bwala ‘ua}
+|2sg marry 2sg {no CONT}
+|are you married? not yet/ still not<ref name=":25" />}}
+
+A positive response to yes/no question asking about the identity of something is ''ee'' “yes”. A positive response to a yes/no question about the state of something will often repeat the question.<ref name=":25" />
+
+{{interlinear|number=(18)
+|meta na? ee, nu meta na
+|good PERF yes, 1sg good PERF
+|are you well now? yes, I am well now<ref name=":25" />}}
+
+== Footnotes ==
+{{reflist}}
+
+== References ==
+Delahunty, G.P. and Garvey, J.J., 1994. ''Language, grammar, and communication: A course for teachers of English''. McGraw-Hill College.
+
+Hill, D. 2011. ''Longgu grammar''. 1st ed. München: Lincom Europa.
+
+Ivens, W. G. 1934. A Grammar of the Language of Longgu, Guadalcanal, British Solomon Islands. ''Bulletin of the School of Oriental and African Studies'', 7, 601–621.
+
+Lynch, J., Ross, M. and Crowley, T., 2002. ''The oceanic languages'' (Vol. 1). Psychology Press.<br />
+<br />
+Ross, M. D. (2004). The morphosyntactic typology of Oceanic languages. ''LANGUAGE AND LINGUISTICS'', 5(2), 491–540.
+
+== External links ==
+* [http://elar.soas.ac.uk/deposit/0282 ELAR archive of Telling and Re-telling: documenting Longgu, an Oceanic language of the Solomon Islands]
+* Materials on Longgu are included in the open access [[Arthur Capell]] collection ([http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]].
+
+{{Languages of the Solomon Islands}}
+{{Austronesian languages}}
+
+[[Category:Malaita languages]]

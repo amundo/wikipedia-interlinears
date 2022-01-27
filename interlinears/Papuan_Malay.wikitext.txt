@@ -1,0 +1,460 @@
+{{Infobox language
+|name = Papuan Malay
+|altname = Irian Malay
+|states = [[Indonesia]]
+|region = [[West Papua (region)|West Papua]]
+|speakers = unknown; 500,000 combined L1 and L2 speakers
+|date= 2007
+|ref=e21
+|familycolor = Creole
+|fam1 = [[Malay-based creole|Malay Creole]]
+|fam2 = [[East Indonesian Malay]]|iso3 = pmy
+|glotto = papu1250
+|glottorefname = Papuan Malay
+}} 
+
+'''Papuan Malay''' or '''Irian Malay''' is a [[Malay-based creole|Malay-based creole language]] spoken in the Indonesian part of [[New Guinea]]. It emerged as a [[contact language]] among tribes in [[Indonesian New Guinea]] (now [[Papua (Indonesian province)|Papua]] and [[West Papua (province)|West Papua]] provinces) for trading and daily communication. Nowadays, it has a growing number of native speakers. More recently, the vernacular of Indonesian [[Papuans]] has been influenced by [[Indonesian language|Standard Indonesian]], the national [[standard language|standard dialect]]. It is mainly spoken in coastal areas of West Papua alongside 274 other languages spoken here.{{sfn|Kluge|2014|p=2}}
+
+Papuan Malay belongs to the Malayic sub-branch within the [[Western Malayo-Polynesian languages|Western-Malayo-Polynesian]] (WMP) branch of the Austronesian language family.{{sfn|Kluge|2014|p=16}}
+
+Some linguists have suggested that Papuan Malay has its roots in [[North Moluccan Malay]], as evidenced by the number of [[Ternate language|Ternate]] loanwords in its lexicon.<ref>{{Cite conference |last=Allen |first=Robert B. |last2=Hayami-Allen |first2=Rika |date=2002 |editor-last=Macken |editor-first=M. |title=Orientation in the Spice Islands |url=http://sealang.net/sala/archives/pdf4/allen2002orientation.pdf |conference=Papers from the Tenth Annual Meeting of the Southeast Asian Linguistics Society |location=Tempe, AZ |publisher=Program for Southeast Asian Studies, Arizona State University |page=21}}</ref> Others have proposed that it is derived from [[Ambonese Malay]].<ref name="ak">{{harvp|Kluge|2017|pp= 11, 47}}</ref>
+
+Four varieties of Papuan Malay can be identified.<ref name=ak/> A variety of Papuan Malay is spoken in [[Vanimo]], [[Papua New Guinea]] near the Indonesian border. 
+
+== Grammar ==
+
+=== Deictic Expressions ===
+[[Deixis|Deictic expressions]] are expressions that provide orientation to the hearer relative to the extralinguistic context of the utterance.{{sfn|"Deixis"|2015}}
+The context may include features of the speech situation such as: who is speaking; the time and place of discourse; gestures of the speaker; and the location of the discourse.{{sfn|"Deixis"|2015}}
+
+[[Demonstrative|Demonstratives]] and locatives are types of deictic expressions. In Papuan Malay there exists a two-term demonstrative system and a three-term locative system.{{sfn|Kluge|2014|p=341}}
+
+Both of these systems are distance-oriented. This means that the relative distance of the speaker in time and place ultimately defines the reference point to which the deictic expression refers.
+
+For example, the speaker in (1) is in conversation about people living in a house and the speaker uses the proximal demonstrative '''''ini''''' to illustrate that the person they are talking to 'lives here' in the house.
+
+{{interlinear|number=(1){{sfn|Kluge|2014|p=348}}
+|ko tinggal ini
+|2SG stay D.PROX
+|'you live here'}}
+
+As (1) illustrates, demonstratives and locatives function primarily to provide spatial orientation. However, there are a number of other functions that these classes of words serve. The following table outlines the different domains of use of demonstratives and locatives.
+{| class="wikitable"
+|+TABLE 1 - Demonstratives and locatives and their domains of use{{sfn|Kluge|2014|p=341-342}} 
+!Domains of Use
+!Function
+!<small>DEM</small>
+!<small>LOC</small>
+|-
+|Spatial
+|to provide spatial orientation to the hearer
+|X
+|X
+|-
+|Figurative locational
+|to signal a figurative locational endpoint
+|
+|X
+|-
+|Temporal
+|to indicate the temporal setting of the situation or event talked about
+|X
+|X
+|-
+|Psychological
+|to signal the speakers' psychological involvement with the situation or event talked about
+|X
+|X
+|-
+|Idenitficational
+|to aid in the identification of definite or identifiable referents
+|X
+|
+|-
+|Textual anaphoric
+|to keep track of a discourse antecedent
+|X
+|X
+|-
+|Textual discourse deictic
+|to establish an overt link between two prepositions
+|X
+|
+|-
+|Placeholder
+|to substitute for specific lexical items in the context of word-formulation trouble
+|X
+|
+|}
+
+==== Demonstratives ====
+Demonstratives are determiners that indicate the spatial, temporal or discourse location of a referent. 
+
+In Papuan Malay’s two-term demonstrative system, one is used to indicate proximity of the referent to the speaker and the other is used distally. 
+
+The demonstratives in Papuan Malay also have long and short forms, as illustrated in Table 2.{{sfn|Kluge|2014|p=341}}
+{| class="wikitable"
+|+TABLE 2 - Demonstratives in Papuan Malay
+!Papuan Malay <small>DEM</small>
+!Long form
+!Short form
+|-
+|proximal
+|{{interlinear|ini|D.PROX|'this'}}
+|{{interlinear|ni|D.PROX|'this'}}
+|-
+|distal
+|{{interlinear|itu|D.DIST|'that'}}
+|{{interlinear|tu|D.DIST|'that'}}
+|}
+The following examples show how Papuan Malay’s two demonstratives signal either proximity or distance. 
+
+The example above, (1), and the following example (2) illustrate how '''''ini/ni''''' is used to indicate spatial closeness, and (3) shows how '''''itu/tu''''' is used to indicate distance between the referent and speaker.
+
+{{interlinear|number=(2){{sfn|Kluge|2014|p=344}}
+|bawa mace '''ni''' ke ruma-sakit
+|bring woman D.PROX to hospital
+|'(I) brought (my) wife '''here''' to the hospital'}}
+
+{{interlinear|number=(3){{sfn|Kluge|2014|p=346}}
+|de ada '''tu'''
+|3SG exist D.DIST
+|'She is over '''there''''}}
+
+By drawing the hearer’s attention to specific objects or individuals in the discourse or surrounding context, the speaker is able to use demonstratives to provide spatial orientation whether the referent is perceived as being spatially close to the speaker, or further away.
+
+===== Long and Short Demonstrative Forms =====
+In (2) and (3), the short demonstrative form has been used.
+
+The short forms are largely a result of fast-speech phenomena and they serve the same syntactic function as the long forms.{{sfn|Kluge|2014|p=342}} 
+
+In terms of their domains of use, the short forms share all the same domains of use as the long forms except for identificational and placeholder uses where the short forms are not employed.{{sfn|Kluge|2014|p=344}}
+
+The following examples, (4) and (5), show how demonstratives may be used as placeholders. In these cases, only the long form may be used.
+
+{{interlinear|number=(4)
+|top= Placeholder for a proper noun{{sfn|Kluge|2014|p=361}}
+|saya ingat ini Ise
+|1SG remember D.PROX Ise
+|'I remembered, what's-her-name, Ise'}}
+
+{{interlinear|number=(5)
+|top= Placeholder for a verb{{sfn|Kluge|2014|p=361}}
+|skarang sa '''itu''' '''simpang''' sratus ribu
+|now 1SG D.DIST store one.hundred thousand
+|'Now I (already), '''what's-its-name, set aside''' one hundred thousand (rupiah)'}}
+
+==== Locatives ====
+Locatives are a class of words that signal distance, both spatial and non-spatial, and consequently provide orientation for the hearer in a speech situation.{{sfn|Kluge|2014|p=261}}
+
+Papuan Malay’s three-term locative system consists of the locatives as outlined in Table 4.{{sfn|Kluge|2014|p=341}}
+
+{| class="wikitable"
+|+TABLE 4 - Locatives in Papuan Malay
+! colspan="2" |Papuan Malay <small>LOC</small>
+|-
+|proximal
+|{{interlinear|sini|L.PROX|'here'}}
+|-
+|medial
+|{{interlinear|situ|L.MED|'there'}}
+|-
+|distal
+|{{interlinear|sana|L.DIST|'over there'}}
+|}
+
+The functions and uses of locatives include the following:
+
+* Spatial uses
+* Figurative locational uses
+* Temporal uses
+* Psychological uses
+* Textual uses
+
+===== Spatial Uses of Locatives =====
+Spatial locatives have the role of designating the location of an object or individual in terms of its relative position to the speaker, and they focus the attention of the hearer to the specified location.{{sfn|Kluge|2014|p=363}}
+
+In general, proximal '''''sini''''' indicates a referent’s closeness to the deictic centre and distal '''''sana''''' indicates distance from this reference point. For medial '''''situ''''', the distance signalled is somewhat mid-range. That is, the referent is further away from the speaker than the referent of '''''sini''''' but not as far as that of '''''sana'''''.
+
+In (6), '''''sini''''' is used to indicate the close location of an entity to the speaker, while (7) highlights the semantic distinctions between '''''sini''''' and '''''sana'''''. 
+
+{{interlinear|number=(6)
+|top= Spatial uses of ''sini'' <small>'L.PROX'</small>{{sfn|Kluge|2014|p=364}}
+|sa su taru di '''ember''' '''sini'''
+|1SG already put at bucket L.PROX
+|'I already put (the fish) in '''the bucket here'''<nowiki/>'}}
+
+{{interlinear|number=(7)
+|top= Spatial uses of ''sini'' and ''sana''{{sfn|Kluge|2014|p=364}}
+|dong juga duduk di '''sana''' tong juga duduk di '''sini'''
+|3PL also sit at L.DIST 1PL also sit at L.PROX
+|'They also sit (outside) '''over there''', we also sit (outside) '''here'''<nowiki/>'}}
+
+In context, the distances signalled by these terms are variable considering such distances are relative to the speaker. The use of these spatial deictics are also dependent on the speaker’s perception of how near or far a referent is.
+
+The following example, (8), demonstrates how the use of these spatial deictics are dependent on perception, using '''''situ''''' and '''''sana''''' to illustrate this. In (8), the speaker discusses the construction work that has reached the village of Warmer.
+
+{{interlinear|number=(8)
+|top= Spatial uses of ''situ'' and ''sana''{{sfn|Kluge|2014|p=365}}
+|yo. mulay menuju jembatang Warmer ...kalo dari situ ke '''sana'''
+|yes start aim.at bridge Warmer if from L.MED TO L.DIST
+|'Yes, (they) started working towards the Warmer bridge ... when (they'll work the stretch of street) from '''there''' to '''over there'''<nowiki/>'}}
+
+Syntactically, locatives in Papuan Malay only occur in [[prepositional phrases]]. These prepositional phrases can be peripheral adjuncts, prepositional predicates, or adnominal prepositional phrases.  
+
+The following examples – (9), (10), and (11) – demonstrate each of the prepositional phrases in which locatives can occur. In (10), the first clause shows how the locative can be embedded in a peripheral adjunct, whilst the second clause illustrates its occurrence in prepositional predicates.
+
+{{interlinear|number=(9)
+|top= Locatives in peripheral adjuncts{{sfn|Kluge|2014|p=262}}
+|kam datang ke '''sini''', kam biking kaco saja
+|2PL come to L.PROX 2PL make be.confused just
+|'You come '''here''', you're just stirring up trouble'}}
+
+{{interlinear|number=(10)
+|top= Locatives in peripheral adjuncts and prepositional predicates{{sfn|Kluge|2014|p=262}}
+|ko datang ke '''sini''' nanti bapa ke '''situ'''
+|2SG come to L.PROX very.soon father to L.MED
+|'You come '''here''', then I ('father') (go) '''there'''<nowiki/>'}}
+
+{{interlinear|number=(11)
+|top= Locatives in adnominal prepositional phrases{{sfn|Kluge|2014|p=262}}
+|orang dari '''sana''' '''itu''' ...dorang itu kerja sendiri
+|person from L.DIST D.DIST 3PL D.DIST work be.alone
+|'Those people '''''from over there''''', ... they work by themselves'}}
+
+===== History of Papuan Malay locative forms =====
+As with the demonstratives, the locative forms in Papuan Malay are present in some other languages in the Austronesian language family tree.
+
+For each of the locatives, the forms can be traced back to [[Proto-Western-Malayo-Polynesian]] (PWMP). 
+
+The proximal locative '''''sini''''' is reconstructed in PWMP as '''''*si-ni''''' and has retained the semantic function of indicating closeness. A number of other WMP languages also share the form and meaning of '''''sini''''' including: [[Aborlan Tagbanwa language|Aborlan Tagbanwa]], [[Sangil language|Sangil]], [[Kaian language|Kayan]], and [[Malay language|Malay]].
+
+Whilst the Papuan Malay medial and distal locatives, '''''situ''''' and '''''sana''''', share the same form as the reconstructed forms in PWMP, there are notable differences in terms of spatial reference when comparing cognates in other WMP languages.
+
+For medial '''''situ''''', the corresponding reflexes in [[Ifugao language|Ifugaw]] and [[Kenyah language|Kenyah]] both indicate closeness rather than medial distance. On the other hand, for the Malay language, '''''situ''''' is used distally rather than proximally or medially. The WMP language that is most similar to Papuan Malay in this regard is [[Aborlan Tagbanwa language|Aborlan Tagbanwa]] where both the form and designated spatial distance are shared.
+{| class="wikitable"
+|+TABLE 5 - Reflexes of ''situ'' in WMP languages{{sfn|"PWMP *si-tu"|2020}}
+!WMP Language
+!Reflex
+!Meaning
+|-
+|Ifugaw
+|hitú
+|here; this
+|-
+|Aborlan Tagbanwa
+|s-itu
+|there
+|-
+|Kenyah (Long San)
+|s-itew
+|here
+|-
+|Malay
+|situ
+|position over there
+|}
+For distal '''''sana''''', Papuan Malay shares the same form and meaning with a number of other WMP languages including [[Kankanaey language|Kankanaey]] and [[Malay language|Malay]]. It cannot be assumed, however, that this is the case for all WMP languages as [[Bontoc language|Bontok]] shares the form '''''sana''''' but is used to indicate proximity to the hearer rather than just distance from the speaker.
+{| class="wikitable"
+|+TABLE 6 - Reflexes of ''sana'' in WMP languages{{sfn|"PWMP *sana"|2020}}
+!WMP Language
+!Reflex
+!Meaning
+|-
+|Kankanaey
+|sána
+|that, there, thither
+|-
+|Malay
+|sana
+|yonder, over there, yon
+|-
+|Bontok
+|sana
+|that one, close to hearer; there, close to hearer
+|}
+
+==Morpho-syntax==
+
+===Possession===
+
+Possession is encoded by the general structure POSSESSOR-''punya''-POSSESSUM, where the 'possessum' is the 'thing' being possessed by the possessor - the unit preceding ''punya''). A typical example is shown below;<ref>{{harvp|Kluge|2014|p=393}}</ref>
+
+{{interlinear|number=(12)
+|nanti '''Hendro''' '''punya''' '''ade''' '''prempuang''' kawn...
+|eventually, Hendro POSS ySb woman marry.inofficially
+|'eventually, '''Hendro's younger sister''' would marry ...'}}
+
+In the canonical form, similar to (12), a lexical noun, personal pronoun or demonstrative pronoun form the POSSESSOR and POSSESSUM noun phrases. 
+
+A further example is presented below;
+
+{{interlinear|number=(13)
+|Fitri pu ini
+|Fitri POSS D.PROX
+|Fitri's (belongings,right.there)*}}
+
+<nowiki>*</nowiki>words in brackets indicate the understood referent of a personal pronoun or demonstrative, established from the context of the utterance
+
+As shown in (13), the long '''''punya''''' possessive marker can also be reduced to the short '''''pu''''', an alteration which appears to be independent of the syntactic or semantic properties of the possessor and possessum. 
+
+A further reduction to ='''''p''''' is possible, but only if the possessor noun phrase ends in a vowel, shown below;
+
+{{interlinear|number=(14)
+|sa bilang, i, '''sa{{=}}p''' '''kaka''' {} {} '''ko{{=}}p''' '''kaka'''
+|1SG say ugh! 1SG{{=}}POSS oSb 3SG say 2SG{{=}}POSS oSb
+|'I said 'ugh!, (that's) my older sister', she said, 'your older sister?''}}
+
+This is most common when the possessor is a singular personal pronoun (two instances of which are found in (14)), and provides an explanation for why '<nowiki/>''Hendro punya …'''
+
+is observed in (11), rather than the reduced theoretical possibility of '<nowiki/>''Hendro=p'''.
+
+A final canonical possibility is the total omission of the possessive marker (indicated with a ø symbol), but this is generally restricted to inalienable possession of body parts and
+
+kinship relations, the former seen in (4) below;
+
+{{interlinear|number=(15)
+|adu, '''bapa''' '''ø''' '''mulut''' jahat skali
+|oh.no! father {} mouth be.bad very
+|'oh no, '''father's language''' is very bad' ({{Lit}} ''''father's mouth'''')}}
+
+Other, less typical/more complex 'non-canonical' combinations are also possible, where the possessor and/or possessum can consist of verbs, quantifiers and prepositional phrases.
+
+Such constructions can denote ''locational (16), beneficiary (17), quantity-intensifying (18), verb-intensifying (19) and emphatic (20)'' possessive relations.
+
+{{interlinear|number=(16)
+|'''Jayapura''' '''pu''' '''dua''' '''blas''' '''orang''' yang lulus ka
+|Jayapura POSS two tens person REL pass(a.test) or
+|'aren't there '''twelve people from Jayapura''' who graduated?' ({{Lit}} ''''Jayapura's twelve people'''')}}
+
+In Papuan Malay, it can be seen from (16) that being in or at a location is expressed as being 'of' (in a possessive sense) the location itself (the syntactic possessor).
+
+The possessive marker can also direct attention to an action or object's beneficiary, where the benefiting party occupies the possessor position;
+
+{{interlinear|number=(17)
+|dong su bli '''de''' '''punya''' '''alat~alat''' '''ini'''
+|3PL already buy 3SG POSS REDUP~equipment D.PROX
+|'they already bought '''these utensils for him'''' ({{Lit}} ''''his utensils'''')}}
+
+In this instance, the possessive marker is an approximate substitute for the English equivalent  marker 'for ___'. This demonstrates that the construction doesn't have to describe a realised possession; the mere fact that the possessor is the intended beneficiary of ''something'' (the possessum) is sufficient in marking that ''something'' as possessed by the possessor, regardless of whether the possessum has actually been received, experienced or even seen by the possessor.
+
+Where the possessum slot is filled by a quantifier, the possessive construction elicits an intensified or exaggerated reading;
+
+{{interlinear|number=(18)
+|tete de minum air '''pu''' '''sedikit'''
+|grandfather 3SG drink water POSS few
+|'grandfather drinks '''very little water'''<nowiki/>' ({{Lit}} ''''few of'''<nowiki/>')}}
+
+However, this is restricted to ''few'' and ''many'' quantifiers, and numerals in the same possessum slot yield an ungrammatical result. As such, substituting ''sedikit'' with ''dua'' (two) in (18) would not be expected to be present in language data.
+
+Intensification using ''punya'' or ''pu'' is also applicable to verbs;
+
+{{interlinear|number=(19)
+|adu, dong dua '''pu''' '''mendrita'''
+|oh.no! 3PL two POSS mendrita
+|'oh no, the two of them were '''suffering so much'''<nowiki/>' ({{Lit}} ''''the suffering of'''<nowiki/>')}}
+
+Here, the verbal sense of the possessum is owned by the possessor. i.e., the ''two of them'' in (19) are the syntactic 'owners' of the ''suffering'', which ''semantically'' intensifies or exaggerates the quality of the verb ''suffering'', hence translated as ''so much'' for its English representation.
+
+Along similar lines to (19), a verbal possessum can also be taken by a ''verbal possessor,'' expressing an emphatic reading;
+
+{{interlinear|number=(20)
+|mama de '''masak''' '''punya''' '''enak'''
+|mother 3SG cook POSS be.pleasant
+|'mother '''really cooks very tastily'''<nowiki/>' ({{Lit}} ''''the being tasty of the cooking'''<nowiki/>')}}
+
+As indicated by the insertion of adverbials in the English translation otherwise syntactically absent in Papuan Malay (20), the verbal-possessor-''punya''-verbal-possessum construction elicits emphatic meaning and tone. The difference to (19) being that in (20), the verbal quality of the possessum constituent is being superimposed upon another verb element, rather than to a pronominal possessor, to encode emphasis or assertion.
+
+A final possibility in Papuan Malay possessive constructions is elision of the possessum, in situations where it can be easily established from context;
+
+{{interlinear|number=(21)
+|itu '''de''' '''punya''' '''ø'''
+|D.DIST 3SG POSS {}
+|'those are '''his''' (banana plants)'}}
+
+Unlike the general freedom of possessive marker form for both canonical and non-canonical constructions (11-20), the long ''punya'' form is almost exclusively used when a possessum is omitted, possibly as a means of more markedly sign-posting the possessum's elision.
+
+===Examples===
+Examples:
+* ''Ini tanah pemerintah punya, bukan ko punya!'' = It's governmental land, not yours!
+* ''Tong tra pernah bohong'' = We never lie.
+
+== List of abbreviations ==
+{| class="wikitable"
+|1<small>PL</small>
+|1st person plural
+|-
+|1<small>SG</small>
+|1st person singular
+|-
+|2<small>PL</small>
+|2nd person plural
+|-
+|2<small>SG</small>
+|2nd person singular
+|-
+|3<small>PL</small>
+|3rd person plural
+|-
+|3<small>SG</small>
+|3rd person singular
+|-
+|<small>D.DIST</small>
+|demonstrative, distal
+|-
+|<small>D.PROX</small>
+|demonstrative, proximal
+|-
+|<small>DEM</small>
+|demonstrative
+|-
+|<small>L.DIST</small>
+|locative, distal
+|-
+|<small>L.MED</small>
+|locative, medial
+|-
+|<small>L.PROX</small>
+|locative, proximal
+|-
+|<small>LOC</small>
+|locative
+|-
+|PWMP
+|Proto-Western-Malayo-Polynesian
+|-
+|WMP
+|Western-Malayo-Polynesian
+|}
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+D:demonstrative
+L:locative
+PROX:proximal
+MED:medial
+</div><section end="list-of-glossing-abbreviations"/>
+
+==See also==
+*[[Ambonese Malay]]
+*[[North Moluccan Malay]]
+*[[Serui Malay]]
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+*{{Cite book|date=2015-12-03|title=Deixis|url=https://glossary.sil.org/term/deixis|url-status=live|access-date=2021-03-28|website=Glossary of Linguistic Terms|ref={{SfnRef|"Deixis"|2015}}}}
+*{{Cite thesis|last=Kluge|first=Angela Johanna Helene|title=A Grammar of Papuan Malay|year=2014|type=PhD|institution=Leiden University|series=LOT Dissertation Series 361|hdl=1887/25849|hdl-access=free}}
+* {{Cite book|last=Kluge|first=Angela|url=http://langsci-press.org/catalog/book/78|title=A Grammar of Papuan Malay|date=2017|publisher=Language Science Press|isbn=978-3-944675-86-2|series=Studies in Diversity Linguistics 11|location=Berlin|doi=10.5281/zenodo.376415|doi-access=free}}
+*{{Cite web|date=2020-06-21|title=PAN *-i-Cu|url=http://ling.lll.hawaii.edu/dicts/ACD/acd-s_c2.htm#2172|url-status=live|access-date=2021-03-28|website=Austronesian Comparative Dictionary}}
+*{{Cite web|date=2020-06-21|title=PAN *-ni|url=http://ling.lll.hawaii.edu/dicts/ACD/acd-s_n1.htm#3677|url-status=live|access-date=2021-03-28|website=Austronesian Comparative Dictionary}}
+*{{Cite web|date=2020-06-21|title=PWMP *sana|url=http://ling.lll.hawaii.edu/dicts/ACD/acd-s_s1.htm#5012|url-status=live|access-date=2021-03-28|website=Austronesian Comparative Dictionary|ref={{SfnRef|"PWMP *sana"|2020}}}}
+*{{Cite web|date=2020-06-21|title=PWMP *si-tu|url=http://ling.lll.hawaii.edu/dicts/ACD/acd-s_c2.htm#2173|url-status=live|access-date=2021-03-28|website=Austronesian Comparative Dictionary|ref={{SfnRef|"PWMP *si-tu"|2020}}}}{{refend}}
+
+
+{{incubator|pmy|language=Papuan Malay}}
+{{Languages of Indonesia}}
+
+[[Category:Malay-based pidgins and creoles]]
+[[Category:Languages of Indonesia]]
+[[Category:Malay dialects]]

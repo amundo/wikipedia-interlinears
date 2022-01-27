@@ -1,0 +1,189 @@
+{{distinguish|ǂʼAmkoe language}}
+{{EngvarB|date=July 2016}}
+{{Use dmy dates|date=July 2016}}
+{{Infobox language
+|name=ǂAakhoe
+|altname=Haiǁom–ǂĀkhoe
+|region=[[Etosha pan]], [[Kavango Region|Kavango]], [[Mangetti National Park|Mangetti Dune]], [[Omatako Constituency|Omataku]], [[Grootfontein]], Baghani, [[Tsintsabis]] and Maroelaboom 
+|speakers=16,000–18,000
+|date=2013
+|ref=<ref>Reiner Vossen (2013) ''The Khoesan Languages''</ref>
+|familycolor=Khoisan
+|fam1=[[Khoe languages|Khoe]]
+|fam2=Khoekhoe
+|fam3=[[Khoekhoegowab]]
+|iso3=hgm
+|iso3comment=(Haiǁom)
+|notice=IPA
+|state=[[Namibia]], South Africa, [[Angola]] and [[Botswana]]
+|glotto=haio1238
+|glottorefname=Hai//om-Akhoe
+}}
+
+'''ǂAakhoe''' (ǂĀkhoe) and '''Haiǁom''' are part of the [[Khoekhoe language|Khoekhoe]] dialect continuum and are spoken mainly in [[Namibia]].<ref name=DOBES>[http://www.mpi.nl/DOBES/projects/akhoe DOBES documentation project on Haiǁom]</ref> In the sparsely available material on the subject, ǂAkhoe and Haiǁom have been considered a variant of the Khoekhoe language, as separate dialects (Haacke et al. 1997), as virtual synonyms of a single variant (Heikinnen, n.d.), or as "a way in which some Haiǁom speak their language in the northern part of Namibia" (Widlock, n.d.). ǂAkhoe especially is intermediate between the Khoekhoe and Kalahari branches of the [[Khoe languages|Khoe language family]].
+
+==The people==
+The Haiǁom are traditionally [[hunter-gatherer]]s, and many aspects of this traditional culture have been preserved in spite of the political, economic, and linguistic marginalisation of the group. Characteristical features of their culture include healing trance dances, hunting magic, intensive usage of wild plant and insect food, a unique kinship and naming system, frequent storytelling, and the use of a landscape-term system for spatial orientation.<ref name=DOBES/>
+
+The Haiǁom live in the savannah of northern Namibia, in an area stretching from the edges of Etosha salt pan and the northern white farming areas as far as the Angola border – and perhaps beyond – in the north and Kavango in the east. 
+According to ''Ethnologue'' there were 48,400 Haiǁom speakers in 2006, but as with all figures on people and languages of low reputation this count might not be very reliable.
+
+==Grammar==
+In theory ǂAkhoe possesses free word order, with the [[subject–object–verb]] order (SOV) being the dominant preference. In keeping with the typological profile of SOV languages, adjectives, demonstratives and numerals generally precede nouns. Nouns are marked by person–gender–number (PGN) markers.  Adjectives, demonstratives and numerals all agree with their head noun.
+
+{{interlinear|number=ex:|glossing=no abbr
+|Mãa <nowiki>|</nowiki>ũ-ba nde-ba?
+|what colour-3SGM this-3SGM
+|"What colour is this?"}}
+
+Mãa is an interrogative used freely in Haiǁom, the subject ''|ũ'' takes the suffix ''-ba'', which is a PGN marker denoting the 3rd person masculine singular. The indirect object ''nde'', a demonstrative, follows the noun, and is inflected in concord with the head noun.
+
+Compound structures are highly productive in ǂAkhoe and vary widely in the combination of word categories. The possibilities include: noun+noun, noun+adverb or vice versa, noun+adjective or vice versa, adjective+adjective, adjective+adverb or vice versa, adjective+suffix, or multiple combinations of the above.
+
+==Phonology==
+Comparing Heikinnen's<ref>Heikinnen, T. (n.d.), pp 15–30.</ref> and Widlock's<ref>Widlock, T. (n.d.), pp. 12–17</ref> contribution to ǂAkhoe phonology with the more general and theoretical phonological work of Peter Ladefoged (1996),<ref>Ladefoged, Peter & Maddieson, Ian (1996), pp. 246–260.</ref> ǂAkhoe can be said to have 47 phonemes. However, an in-depth phonological sketch of the language might show other results where the vowels are concerned.{{citation needed|date=October 2012}}
+
+=== Consonants===
+There are 34 consonants in ǂAkhoe, 20 of which are [[Click consonant|clicks]] produced with an ingressive airstream, and 14 of which are [[pulmonic consonant]]s produced with an egressive airstream.{{citation needed|date=October 2012}}
+
+{| class="wikitable" style="text-align:center"
+|+ Clicks
+|-
+! 
+! [[Dental click|Dental]]
+! [[Alveolar click|Alveolar]]
+! [[Palatal click|Palatal]]
+! [[Lateral click|Lateral]]
+|-
+! VL unaspirated
+| {{IPA link|kǀ}} {{angbr|ǀg}}
+| {{IPA link|kǂ}} {{angbr|ǂg}}
+| {{IPA link|kǃ}} {{angbr|ǃg}}
+| {{IPA link|kǁ}} {{angbr|ǁg}}
+|-
+! VL aspirated
+| {{IPA|ǀˣ}} {{angbr|ǀkh}}
+| {{IPA|ǂˣ}} {{angbr|ǂkh}}
+| {{IPA|ǃˣ}} {{angbr|!kh}}
+| {{IPA|ǁˣ}} {{angbr|ǁkh}}
+|-
+! VL nasalised
+| {{IPA link|ǀ}} {{angbr|ǀh}}
+| {{IPA|ǂˣ}} {{angbr|ǂh}}
+| {{IPA|ǃˣ}} {{angbr|ǃh}}
+| {{IPA|ǁˣ}} {{angbr|ǁh}}
+|-
+! VD nasalised
+| {{IPA|ŋǀʰ}} {{angbr|ǀn}}
+| {{IPA|ŋǂʰ}} {{angbr|ǂn}}
+| {{IPA|ŋ!ʰ}} {{angbr|ǃn}}
+| {{IPA|ŋǁʰ}} {{angbr|ǁn}}
+|-
+! Glottal closure
+| {{IPA|kǀʔ}} {{angbr|ǀ}}
+| {{IPA|kǂʔ}} {{angbr|ǂkh}}
+| {{IPA|kǃʔ}} {{angbr|ǃ}}
+| {{IPA|kǁʔ}} {{angbr|ǁ}}
+|}
+
+{| class="wikitable" style="text-align:center"
+|+ Pulmonic consonants
+|-
+! colspan="2" | 
+! [[Bilabial consonant|Bilabial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}} {{angbr|m}}
+| {{IPA link|n}} {{angbr|n}}
+| 
+| 
+| 
+|-
+! rowspan="2" | [[Stop consonant|Stop]]
+! <small>plain</small>
+| {{IPA link|p}} {{angbr|b}}
+| {{IPA link|t}} {{angbr|t}}
+| 
+| {{IPA link|k}} {{angbr|k}}
+| 
+|-
+! <small>prenasalized</small>
+| {{IPA link|ᵐb}} {{angbr|mb}}
+| {{IPA link|ⁿd}} {{angbr|nd}}
+| 
+| 
+| 
+|-
+! rowspan="2" | [[Affricate]]
+! <small>plain</small>
+| 
+| 
+| {{IPA link|tʃ}} {{angbr|tsh}}
+| {{IPA link|kx}} {{angbr|kh}}
+| 
+|-
+! <small>prenasalized</small>
+| 
+| 
+| {{IPA link|ⁿdʒ}} {{angbr|ndz}}
+| 
+| 
+|-
+! colspan="2" | [[Fricative]]
+| 
+| 
+| {{IPA link|s}} {{angbr|s}}
+| {{IPA link|x}} {{angbr|x}}
+| {{IPA link|ɦ}} {{angbr|h}}
+|-
+! colspan="2" | [[Tap and flap consonants|Flap]]
+| 
+| 
+| {{IPA link|ɾ}} {{angbr|r}}
+| 
+| 
+|}
+
+===Vowels===
+ǂAkhoe Haiǁom has a total of 12 vowel phonemes. These can be divided into monophthongs and diphthongs, with a further subdivision into oral and nasal pronunciation.
+
+;Monophthongs: {{IPA|/i e a o u/}} and {{IPA|/ĩ ã ũ/}}.
+
+;Diphthongs: {{IPA|/ai au/}} and {{IPA|/ãi ãu/}}.
+
+==See also==
+* [[Original People's Party of Namibia]], a political party in colonial Namibia led by Theophilus Soroseb, a member of the Haiǁom and [[Owambo people|Ovambo]] groups
+
+== References ==
+{{reflist}}
+
+==Bibliography==
+*Haacke, W. (1988) ''Nama|Damara I, Guide 2: Morphology and syntax'', mimeographed.
+*Haacke, W., E. Eiseb, L. Namaseb (1997) "Internal and External Relations of Khoekhoe Dialects, a Preliminary Survey", in W. Haacke and E. Elderkin (eds.), ''Namibian Languages: Reports and Papers'', Köln: Köppe.
+*Heikinnen, T. (n.d.), "A Description of the language of ≠Akhoen", unpublished manuscript.
+*Ladefoged, Peter & Maddieson, Ian (1996) ''The sounds of the world's languages'', Oxford: Blackwell.
+*Widlock, T. (n.d.) ''A Haiǁom sourcebook: The T. Heikinnen Papers'', unpublished manuscript.
+
+==External links==
+{{Incubator|naq}}
+* [https://books.google.com/books?id=7ePQlF_x4vYC&pg=PA308&lpg=PA308&dq=Theophilus+Soroseb&source=bl&ots=rSWsOGGJHb&sig=rgX91x9TUbRbsKQQHc-9g3js8rw&hl=en&ei=18lQTa_WA4KC8gaaoNGiCg&sa=X&oi=book_result&ct=result&resnum=1&ved=0CBMQ6AEwAA#v=onepage&q=Theophilus%20Soroseb&f=false Haiom in the Etosha region: a history of colonial settlement, ethnicity and Nature Conservation] via Google Books
+*[http://www.wimsanet.org/resources/downloads/20-undiscovered-or-overlooked-the-haiom-of-namibia Undiscovered or Overlooked: The Haiom of Namibia]
+
+{{Khoisan}}
+{{Languages of South Africa}}
+{{Languages of Botswana}}
+{{Languages of Namibia}}
+{{Ethnic groups in Namibia}}
+
+{{authority control}}
+
+{{DEFAULTSORT:ǂAakhoe Language}}
+[[Category:Khoe languages]]
+[[Category:Languages of South Africa]]
+[[Category:Languages of Botswana]]
+[[Category:Languages of Namibia]]
+[[Category:Ethnic groups in Namibia]]

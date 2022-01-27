@@ -1,0 +1,308 @@
+{{Short description|Cushitic language spoken in Tanzania}}
+{{distinguish|Iroquoian languages|Iraqi Arabic}}
+{{Infobox language
+| name             = Iraqw
+| nativename       = ''Kángw Iraqw''
+| states           = [[Tanzania]]
+| region           = [[Manyara Region]] [[Arusha Region]]
+| ethnicity        = [[Iraqw people|Iraqw]]
+| speakers         = {{sigfig|603,000|3}}
+| date             = 2009
+| ref              = <ref name="International">{{cite web | title=Iraqw | website=Ethnologue | url=https://www.ethnologue.com/language/irk | access-date=19 September 2018}}</ref>
+| familycolor      = Afro-Asiatic
+| fam2             = [[Cushitic languages|Cushitic]]
+| fam3             = [[South Cushitic languages|South]]
+| fam4             = Rift
+| fam5             = West Rift
+| fam6             = NW Rift
+| fam7             = Iraqwoid
+| iso3             = irk
+| glotto           = iraq1241
+| glottorefname    = Iraqw
+| notice           = IPA
+}}
+[[File:WIKITONGUES- Xwatsá and Basilisa speaking Iraqw.webm|thumb|Two Iraqw speakers, recorded in [[Tanzania]].]]
+'''Iraqw''' is a [[Cushitic language]] spoken in [[Tanzania]] in the [[Arusha Region|Arusha]] and [[Manyara Region|Manyara]] Regions. It is expanding in numbers as the [[Iraqw people]] absorb neighbouring ethnic groups. The language has many [[Datooga language|Datooga]] loanwords, especially in poetic language. The [[Gorowa language]] to the south shares numerous similarities and is sometimes considered a dialect.
+
+== Phonology ==
+
+===Vowels===
+Whiteley (1958) lists the following vowel phonemes for Iraqw. All of the vowels except /ə/ occur in both short and long versions:
+
+{| class="wikitable" style="text-align: center;"
+|-
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPA link|i}} {{IPA link|iː}} || || {{IPA link|u}} {{IPA link|uː}}
+|-
+![[Mid vowel|Mid]]
+|{{IPA link|e}} {{IPA link|eː}}|| || {{IPA link|o}} {{IPA link|oː}}
+|-
+![[Open vowel|Open]]
+| || {{IPA link|a}} {{IPA link|aː}}||
+|}
+{{IPAslink|o}} can be heard as {{IPAblink|ə}} within the environment of pharyngeal consonants.
+
+===Consonants===
+Whiteley (1958) and Mous (1993) list the following consonants:
+
+{| class="wikitable" style="text-align: center;"
+|+Iraqw consonant phonemes
+|-
+! rowspan="2" colspan="2" | &nbsp;
+! rowspan="2" | [[Labial consonant|Labial]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]] /<br/>[[Palato-alveolar consonant|Palato-<br>alveolar]]
+! colspan="2" | [[Velar consonant|Velar]]/[[Uvular consonant|Uvular]]
+! rowspan="2" | [[Pharyngeal consonant|Pharyngeal]]
+! rowspan="2" | [[Glottal consonant|Glottal]]
+|-
+! {{small|Central}} || {{small|Lateral}}
+! {{small|Plain}} || {{small|Labialized}}
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| ||({{IPA link|ɲ}} {{grapheme|ny}})
+| {{IPAlink|ŋ}} {{grapheme|ng}}
+| {{IPA|ŋʷ}}
+| ||
+|-
+! rowspan="3"| [[Plosive]]/<br>[[Affricate]]
+! {{small|Voiceless}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+|
+| ({{IPAlink|tʃ}} {{grapheme|ch}})
+| {{IPAlink|k}}
+| {{IPA|kʷ}}
+| ||
+|-
+! {{small|Voiced}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| ||({{IPA link|dʒ}} {{grapheme|j}})
+| {{IPAlink|ɡ}}
+| {{IPA|ɡʷ}}
+| ||
+|-
+! {{small|Laryngealized}}
+|
+| {{IPAlink|tsʼ}}
+| {{IPAlink|tɬʼ}} {{grapheme|tl}}
+|
+| {{IPAlink|qʼ}} ~ {{IPAlink|qχʼ}}
+| {{IPA|qʷʼ ~ qχʷʼ}}
+|
+| {{IPAlink|ʔ}} {{grapheme|'}}
+|-
+! rowspan="2"| [[Fricative]]
+! {{small|Voiceless}}
+| {{IPAlink|f}}
+| {{IPAlink|s}}
+| {{IPAlink|ɬ}} {{grapheme|sl}}
+| ({{IPAlink|ʃ}} {{grapheme|sh}})
+| {{IPAlink|x}}
+| {{IPA|xʷ}}
+| {{IPAlink|ħ}} {{grapheme|hh}}
+| {{IPAlink|h}}
+|-
+! {{small|Voiced}}
+| || || || || || || {{IPAlink|ʕ}} {{grapheme|/}}
+| 
+|-
+! colspan="2"| [[Trill consonant|Trill]]
+| 
+| {{IPAlink|r}}
+| || || || || ||
+|-
+! colspan="2"| [[Approximant consonant|Approximant]]
+| ||
+| {{IPAlink|l}}
+| {{IPAlink|j}} {{grapheme|y}}
+| 
+| {{IPAlink|w}}
+| ||
+|}
+
+In the popular orthography for Iraqw used in Lutheran and Catholic materials as well as in collections of traditional Iraqw stories<ref>{{Cite book|last=Berger, Paul Hrsg.|title=Iraqw texts|date=1998|publisher=Köppe|isbn=3-927620-34-3|oclc=722327455}}</ref> and academic literature (e.g. Nordbustad 1988,<ref>{{Cite journal|last1=Gilligan|first1=Gary|last2=Nordbustad|first2=Fro̵dis|last3=Nordbustad|first3=Frodis|date=June 1990|title=Iraqw Grammar: An Analytical Study of the Iraqw Language|journal=Language|volume=66|issue=2|pages=422|doi=10.2307/414919|jstor=414919|issn=0097-8507}}</ref> Mous 1993 <ref name=":0">{{Cite book|last=Mous, Maarten.|title=A grammar of Iraqw|date=1993|publisher=Buske|isbn=3-87548-057-0|oclc=243743981}}</ref>), the majority of the orthography follows the [[Swahili language|Swahili]] orthography with the addition of x and q. Other additions to the orthography are the sound {{IPA|ɬ}} is spelled {{angle bracket|sl}}, the {{IPA|tɬʼ}} is spelled {{angle bracket|tl}}, the {{IPA|ħ}} is spelled {{angle bracket|hh}}, and {{IPA|ʕ}} is spelled {{angle bracket|/}} (Mous 1993:16). Consonants /ɲ, tʃ, dʒ, ʃ/ mainly occur from loanwords of Swahili and Datooga (Mous 1993:19).
+
+==Morphology==
+
+===Noun morphology===
+
+====Gender====
+Nouns in Iraqw have three genders: masculine, feminine, and neuter.  The gender of a noun can be deduced from the type of agreement that it triggers on other elements in the sentence, but the agreement system is unusual, and obeys the following principle (Mous 1993:41):
+
+* Masculine nouns require the masculine form of the verb
+* Feminine nouns require the feminine form of the verb
+* Neuter nouns require the plural form of the verb
+
+The masculine, feminine, and plural forms of the verb are identified by the form the verb takes when the subject is pronoun which is a.) a third person masculine singular ('he'), b.) a third person feminine singular ('she'), or c.) a third person plural ('they').
+
+{| class='wikitable'
+!Masculine verb forms
+|-
+|{{interlinear|Daaqay i giilín|boys(MASC) S.3 fight:3.SG.M|'The boys are fighting'}}
+|{{interlinear|i giilín|S.3 fight:3.SG.M|'He is fighting'}}
+|}
+
+{| class='wikitable'
+!Feminine verb forms
+|-
+|{{interlinear|Hhayse i harweeriiríin|tails(FEM) S.3 make:circles:3.SG.F|'The tails are making circles'}}
+|{{interlinear|i harweeriiríin|S.3 make:circles:3.SG.F|'She is making circles'}}
+|}
+
+{| class='wikitable'
+!Neuter verb forms
+|-
+|{{interlinear|Hhayso i harweeriiríná'|tail(NEUT) S.3 make:circles:3.SG.PL|'The tail is making circles'}}
+|{{interlinear|i harweeriiríná'|S.3 make:circles:3.SG.PL|'They are making circles'}}
+|}
+
+There are several unusual things that are worth noting. One is that 'tail' is neuter in the singular and feminine in the plural; despite this, the plural verb form is used for 'tail', since it is neuter, and neuters use the plural verb form. This is why "plural" is often used as a label for this gender; plural gender is common in a number of Cushitic languages. Another is that the verbs do not agree with their subjects in number, so the masculine plural ''daaqay'' 'boys' takes the masculine form of the verb, not the plural form of the verb.
+
+====Number====
+
+Nouns typically have separate singular and plural forms, but there are many distinct plural suffixes. Mous (1993:44) reports that there are fourteen different plural suffixes. The lexical entry for a noun must specify the particular plural suffix it takes.
+
+The gender of a plural noun is usually different from the gender of the corresponding singular. Compare the following singular and plural nouns, with their genders:
+
+{| class='wikitable'
+!singular!!singular gender!!plural!!plural gender!!meaning
+|-
+|awu||m||awe||f||bull
+|-
+|bila'||m||bil'aawe||f|| cliff
+|-
+|nyaqot||m||nyaqootma'||f||colobus monkey
+|-
+|hhampa||m||hhampeeri||n||wing
+|-
+|tlanka||f||tlankadu||n||bridge
+|-
+|lama||f||lameemo||n||lie
+|-
+|slanú||m||slaneemo||n||python
+|-
+|xweera||n||xweer(a)du||n||night
+|}
+
+While it is not possible to predict the gender of a noun or which plural suffix it will take, the form of the plural suffix determines the gender of the plural noun. So, for example, all plural nouns with the /-eemo/ suffix are neuter (Mous 1993:58).
+
+===Construct case suffixes and gender linkers===
+
+The gender of a noun is important for predicting the construct case suffix and the gender linker that it will use. When a noun is directly followed by
+*an adjective
+*a possessive noun phrase
+*a numeral
+*a relative clause
+*a verb
+then a '''construct case suffix''' must appear after the noun. The construct case marker is /-ú/ or /-kú/ for masculine nouns; /-<sup>H</sup>r/ or /-tá/ for feminine nouns; and /-á/ for neuter nouns (Mous 1993:95-96):
+
+{{interlinear|indent=3
+|hhar-t'''á''' baabú-'ee'
+|stick-construct:'''FEM''' father-1SG.POSS
+|'the stick of my father'}}
+
+{{interlinear|indent=3
+|waahlá-'''r''' ur 
+|python-construct:'''FEM''' big
+|'big python'}}
+
+{{interlinear|indent=3
+|an-á hiim-'''ú''' urúux
+|1SG-S:1/2 rope-construct:'''MASC''' pull:1SG
+|'I pull the rope'}}
+
+The '''gender linkers''' are similar to the construct cases suffixes, but appear between the noun and other suffixes (such as the demonstrative, indefinite, and possessive suffixes).  The following example shows masculine, feminine, and neuter nouns before the 'their' possessive suffix and the demonstrative -qá' 'that (far, but visible)' (Mous 1993:90-92)
+
+{| class='wikitable'
+!masculine!!feminine!!neuter
+|-
+|gura' 'stomach'
+|hasam 'dilemma'
+|hhafeeto 'mats'
+|-
+|{{interlinear|gur'''u'''-'ín|stomach:M-3PL.POSS|'their stomach'}}
+|{{interlinear|hasam-'''ar'''-'ín|dilemma-F-3PL.POSS|'their dilemma'}}
+|{{interlinear|hhafeeto-'ín|mats:N-3PL.POSS|}}
+|-
+|{{interlinear|gur'''u'''-qá'|stomach:M-that|'that stomach'}}
+|{{interlinear|hasam-'''ar'''-qá'|dilemma-F-that|'that dilemma'}}
+|{{interlinear|hhafeeto-qá'|mats:N-that|'those mats'}}
+|}
+
+=== Adverbial case clitics ===
+Iraqw has four adverbial case clitics: the directive, the ablative, the instrumental and the reason case clitics. Adverbial case clitics occur in the position immediately before the verb and are cliticised to the preceding noun with the gender linker, or they might occur in a position after the verb, in which case they are obligatorily followed by a resumptive pronoun ''alé''. 
+{| class="wikitable"
+!Cases
+!Clitic
+!Example
+|-
+|Directive
+|i
+|{{interlinear|tlakway-í dahas-eek bará hhar-ti alé|sack-DEM1 put-IMP.SG.O in:CON stick-F1:DIR RESPRO|'Put this sack on a stick.'<ref name=":0" />}}
+|-
+|Ablative
+|wa
+|{{interlinear|naxés ba’ari ni-na bará sla/a-tá-wa ti’it|well bees PL-PST in:CON bush-F1-ABL appear:3SG.F|‘Then bees appeared from the bush.’<ref>{{Cite journal|last=Kruijt|first=Anne|date=2018-11-06|title=The use of the ablative clitic in locative phrases in Iraqw, a Cushitic language of Tanzania|url=http://www.degruyter.com/view/j/jall.2018.39.issue-2/jall-2018-0009/jall-2018-0009.xml|journal=Journal of African Languages and Linguistics|volume=39|issue=2|pages=241–265|doi=10.1515/jall-2018-0009|s2cid=149938579|issn=0167-6164}}</ref>}}
+|-
+|Instrumental
+|ar
+|{{interlinear|aná dab-ar fool-íit|1.SG-S.1/2 hands-INSTR dig-MIDDLE:1.SG|'I dig with my hands.' <ref name=":0" />}}
+|-
+|Reason
+|sa
+|{{interlinear|a ki/ima-wók-sa gurhamut-a?|S.1/2 return-2.SG.POSS-REAS regret:2.SG:INT-INF|'Do you regret your return?' <ref name=":0" />}}
+|}
+
+==Syntax==
+
+===Noun phrases===
+
+The noun comes first in the noun phrase, and precedes possessors, adjectives, numerals, and relative clauses.  An element called the construct case suffix appears between the noun and these modifiers, as discussed in the Morphology section above:
+
+{{interlinear|indent=3
+|hhar-'''tá''' baabú-'ee'
+|stick-construct:'''FEM''' father-1SG.POSS
+|'the stick of my father'}}
+
+{{interlinear|indent=3
+|waahlá-'''r''' ur
+|python-construct:'''FEM''' big
+|'big python'}}
+
+===Sentences===
+An Iraqw sentence contains a verb in final position, and an auxiliary-like element called the 'selector'.  Either the subject or the object of the sentence may precede the selector (Mous 2004:110), and the selector agrees with the preceding noun.  So in the first example below, ''iri'' shows agreement with ''/ameenirdá' '' 'that woman', and in the second example, ''uná'' shows agreement with ''gitladá' '':
+
+{{interlinear|indent=3
+|/ameeni-r-dá' i-ri tsuwa fa/á-r /agagiin.
+|woman-fem-that S.3-narrative:past for.sure food-construct:fem eat:impf:3s
+|'And that woman was surely eating.'}}
+
+{{interlinear|indent=3
+|('aníng) gitla-dá' 'u-na aahhiit
+|I man-that obj:masc-past hate:1sg
+|'I hate that man.'}}
+
+==References==
+{{Reflist}}
+* Mous, Maarten. 1993. ''A grammar of Iraqw''. Hamburg: Buske.
+* Mous, Maarten, Martha Qorro, Roland Kießling. 2002. ''Iraqw-English Dictionary. With an English and a Thesaurus Index''. Cushitic Language Studies Volume 18.
+* Whiteley, W.H. 1958. ''A short description of item categories in Iraqw''. Kampala:East African Institute of Social Research.
+
+==External links==
+* [https://wold.clld.org/vocabulary/2 Iraqw language topical vocabulary list] (from the [https://wold.clld.org/ World Loanword Database])
+
+{{Languages of Tanzania}}
+{{Cushitic languages}}
+{{Authority control}}
+
+[[Category:South Cushitic languages]]
+[[Category:Languages of Tanzania]]

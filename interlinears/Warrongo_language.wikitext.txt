@@ -1,0 +1,198 @@
+{{short description|Extinct Australian Aboriginal language}}
+{{Redirect-distinguish2|Warungu language|the [[Wurango language]]}}
+{{Use Australian English|date=November 2018}}
+{{Use dmy dates|date=November 2018}}
+{{Infobox language
+|name=Warrongo
+|altname=Northern Maric
+|states=[[Australia]]
+|region=[[Queensland]], west of Ingham and Abergowrie almost to Einasleigh
+|ethnicity=[[Warrongo people|Warrongo]], [[Gugu-Badhun]], [[Gudjal]]
+|extinct=1981
+|speakers2=with the death of [[Alf Palmer]]
+|familycolor = Australian
+|fam1        = [[Pama–Nyungan languages|Pama–Nyungan]]
+|fam2        = [[Maric languages|Maric]]
+|dia1=Warungu
+|dia2=Gugu-Badhun
+|dia3=Gudjal (Gudjala)
+|lc1=wrg|ld1=Warungu
+|lc2=gdc|ld2=Gugu-Badhun
+|aiatsis=Y133
+|aiatsisname=Warungu
+|aiatsis2=Y128
+|aiatsisname2=Gugu Badhun
+|glotto=nort2757
+|glottorefname=Northern Maric
+}}
+
+'''Warrongo''' (or '''War(r)ungu''') is an [[Australian Aboriginal languages|Australian Aboriginal language]], one of the dozen languages of the [[Maric languages|Maric]] branch of the [[Pama–Nyungan languages|Pama–Nyungan family]].<ref name=":1">{{Cite web|url=https://www.ethnologue.com/language/wrg |title=Warungu|website=Ethnologue|access-date=2019-05-30}}</ref> It was formerly spoken by the [[Warrongo people]] in the area around [[Townsville]], [[Queensland]], [[Australia]]. Its last native speaker was [[Alf Palmer]], who died in 1981.{{sfn|Tsunoda|2011|loc=preface}}
+
+Before his death, linguists [[Tasaku Tsunoda]] and [[Peter Sutton (anthropologist)|Peter Sutton]] worked together with Palmer to preserve the language (Warrungu proper); thanks to their efforts, the language is beginning to be revived.{{sfn|Tsunoda|2011|p={{pn|date=January 2021}}}}
+
+One of the notable feature of the language is its [[Syntax|syntactic]] [[Ergative-absolutive language|ergativity]].{{sfn|Tsunoda|2011|p=1}}
+
+As noted by Ethnologue, the language is currently dormant meaning that there are no native/proficient speakers left.<ref name=":1" />
+
+Alternative names for the language include ''Warrangu'', ''Warrango'', ''War(r)uŋu'', ''War-oong-oo'',{{sfn|Tsunoda|2011|p=2}} ''Gudjala'' and ''Gudjal''.<ref name=":1" /><!-- the last two are mentioned in Tsunoda's 2011 grammar-->
+
+The ''[[Warungu language|Warungu]]'' language region includes areas from the [[Upper Herbert River]] to [[Mount Garnet, Queensland|Mount Garnet]].{{sfn|State Library of Queensland}}
+
+==Sociolinguistic situation==
+Nowadays people identifying themselves as [[Warrongo people|Warrongo]] live both within traditional Warrongo territory ([[Mount Garnet, Queensland|Mount Garnet]]) and outside it ([[Palm Island, Queensland|Palm Island]], [[Townsville]], [[Ingham, Queensland|Ingham]], [[Cardwell, Queensland|Cardwell]], and [[Cairns]]).{{sfn|Tsunoda|2011|p=51}} The language has been extinct since the last speaker, [[Alf Palmer]], died in 1981. In the late 1990s or early 2000s a language revival movement started by a community of people, most of them grandchildren of the last speakers, {{sfn|Tsunoda|Tsunoda|2010|p=13}} the central figure being the granddaughter of Alf Palmer. The community had contacted Tsunoda, the linguist who worked with the last speakers in the 1970s, and between 2002 and 2006 he conducted 5 sessions of lessons, of 4–5 days each. As a result, the language seems to have acquired a limited set of symbolic functions. It has begun to be used in teasing between children, and as a source of personal names.{{sfn|Tsunoda|Tsunoda|2010|pp=15–16}}
+
+==Classification==
+There appear to have been at least two mutually intelligible dialects.{{sfn|Tsunoda|2011|p=3}} Warrongo belongs to the [[Pama-Nyungan]] (macro)family. The most closely related languages are [[Gugu Badhun]] (90% lexical sharing in terms of [[Kenneth L. Hale|Hale]]'s 99-item vocabulary) and [[Gujal language|Gujal]] (94% lexical sharing).{{sfn|Tsunoda|2011|p=8}} The intermediate level classification of this group seems uncertain: the evidence from phonological correspondences, pronouns and verb roots suggests it belongs to the [[Maric languages|Maric]] group (alongside [[Bidjara language|Bidjara]], [[Gungabula language|Gungabula]], [[Marrganj language|Marganj]], [[Gunja language|Gunja]], [[Biri language|Biri]] and [[Nyaygungu language|Nyaygungu]]), while the verbal [[inflection]]al morphology is akin to that of the [[Dyirbalic languages|Hebert River group]] (which includes [[Dyirbal language|Dyirbal]], [[Warrgamay language|Warrgamay]], [[Nyawaygi language|Nyawaygi]] and [[Manbarra language|Manbarra]]).{{sfn|Tsunoda|2011|pp=7, 14}} It has been suggested that the verbal inflectional suffixes might have been the result of massive borrowing. {{sfn|Tsunoda|2011|p=14}}
+
+==Phonology==
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+|+ style="font-weight: normal"|'''Warrongo consonants''' (spelling representation is in angle brackets)
+|-
+!
+![[bilabial]]
+![[Laminal consonant|lamino-dental]]{{nobold|<sup>1</sup>}}
+![[apico-alveolar]]
+![[retroflex]]
+![[lamino-palatal]]
+![[dorso-velar]]
+|-
+![[Stop consonant|stop]]
+|{{IPA link|b}} {{angle bracket|b}}
+|({{IPA link|d̪}} {{angle bracket|dh}})
+|{{IPA link|d}} {{angle bracket|d}}
+|
+|{{IPA link|ɟ}} {{angle bracket|j}}
+|{{IPA link|ɡ}} {{angle bracket|g}}
+|-
+![[Nasal consonant|nasal]]
+|{{IPA link|m}} {{angle bracket|m}}
+|({{IPA link|n̪}} {{angle bracket|nh}})
+|{{IPA link|n}} {{angle bracket|n}}
+|
+|{{IPA link|ɲ}} {{angle bracket|ny}}
+|{{IPA link|ŋ}} {{angle bracket|ng}}
+|-
+![[Rhotic consonant|rhotic]]
+|
+|
+|{{IPA link|ɾ}} {{angle bracket|rr}}
+|{{IPA link|ɻ}} {{angle bracket|r}}
+|
+|
+|-
+![[Lateral consonant|lateral]]
+|
+|
+|{{IPA link|l}} {{angle bracket|l}}
+|
+|
+|
+|-
+![[semivowel]]
+|
+|
+|
+|
+|{{IPA link|j}} {{angle bracket|y}}
+|{{IPA link|w}} {{angle bracket|w}}
+|}
+# Only in Gugu-Badhun.
+
+The sound {{IPA|[h]}} appears only in the interjection {{IPA|[hai]}} 'Hi!' and the exclamation of surprise {{IPA|[haha]}} (or {{IPA|[ha:ha:]}}) {{sfn|Tsunoda|2011|p=54}} Dentalized consonants tend to appear in the Gugu-Badhun dialect. An alveolar approximant {{IPA|[ɹ]}} is stated to appear in the Gugu-Badhun dialect as well.{{sfn|Sutton|1973|p=73}} The retroflex approximant {{IPA|/ɻ/}} in syllable-final position can infrequently be realised as a [[retroflex tap]] {{IPA|[ɽ]}}.&nbsp; The lamino-palatal stop is in most instances phonetically an [[affricate]] {{IPA|[tʃ]}} or {{IPA|[dʒ]}}.
+[[Voice (phonetics)|Voicing]] is not distinctive for stops .{{sfn|Tsunoda|2011|p=60}} The rules for voicing are fairly complex, but still it is impossible to predict it in all instances .{{sfn|Tsunoda|2011|p=74}} The factors involved are the [[place of articulation]] (the more front the stop, the more likely it is to be voiced), the phonetic environment, position with respect to word boundaries, and possibly also the length of the word, the number of syllables that follow the stop and the location of stress.
+
+===Vowels===
+There are three vowels: {{IPA|/a/}}, {{IPA|/i/}} and {{IPA|/u/}} (orthographically {{angle bracket|o}}). Length is distinctive only for {{IPA|/a/}}, its long counterpart is orthographically represented as {{angle bracket|aa}}. {{IPA|/u/}} has two [[allophone]]s: {{IPA|[u]}}, and {{IPA|[o]}} (neither of which involve significant [[lip rounding]]), depending on the preceding consonant. Both are possible after {{IPA|/b/}}, {{IPA|/m/}} and {{IPA|/j/}}, while after all other consonants only {{IPA|[o]}} appears. The allophony of {{IPA|/i/}} seems to be governed by more complex rules but generally,  {{IPA|[i]}} is the sole allophone after {{IPA|/ɟ/}}ˌ {{IPA|/ɲ/}}ˌ {{IPA|/ŋ/}} and {{IPA|/w/}}, while after almost all other consonants both {{IPA|[i]}} and {{IPA|[e]}} can be observed.
+
+==Word classes==
+Warrongo is analysed as having five [[word class]]es: [[noun]]s, (personal) [[pronoun]]s, [[adverb]]s, [[verb]]s and [[interjection]]s.{{sfn|Tsunoda|2011|p=156}} Most of these contain [[interrogative]] and [[demonstrative]] members; example of an interrogative noun is {{lang|wrg|ngani}} 'what', {{lang|wrg|ngoni}} 'there' is a demonstrative adverb, an interrogative verb is {{lang|wrg|ngani-nga-L}} 'to do what', and a demonstrative one is {{lang|wrg|yama-nga-L}} 'to do thus'. Almost all words belong exclusively to a word class, while change of word class is achieved through [[Derivation(linguistics)|derivational suffix]]es.{{sfn|Tsunoda|2011|p=163}} [[Adjective]]s do not form a separate class as they share the morphology and syntactic behaviour of nouns.{{sfn|Tsunoda|2011|p=157}} There are also about a dozen [[enclitic]]s, with a range of functions: emphasis, [[Focus (linguistics)|focus]], intensification, or meanings like 'only', 'enough', 'too', 'I don't know', '[[counterfactual]]'.{{sfn|Tsunoda|2011|pp=682–698}}
+
+==Nominal morphology==
+Nouns generally do not distinguish number or gender, while pronouns have different forms for [[Number (linguistics)|number]] (singular, dual and plural) and [[Grammatical person|person]] (first, second and third). All of them do, however, inflect for [[Grammatical case|case]]. The case suffixes have [[allomorph]]s according to the final phoneme of the stem, with some peculiarities exhibited by pronouns and by vowel-final proper and kin nouns .{{sfn|Tsunoda|2011|pp=164–175}} There are also a few irregular nouns.
+
+===Cases===
+Nouns have a single form, unmarked by a suffix, for the [[nominative case]] (used for the subject of an intransitive verb) and the [[accusative case]] (used for the object of a transitive verb), while the [[ergative case]] (used for the subject of a transitive verb) is marked by a suffix. In pronouns, on the other hand, the nominative and the ergative coincide in the bare stem form, while the accusative is marked by a suffix. Exceptionally, the third person dual and plural pronouns, as well as vowel-final [[Proper noun|proper]] and kin nouns, receive separate marking for each of these three cases. {{sfn|Tsunoda|2011|p=183}} The ergative, if used with inanimate nouns, may also mark an instrument.{{sfn|Tsunoda|2011|p=188}}
+
+The [[locative case]] describes path or destination of movement, location, duration in time, instrument (and means),  company ('together with'), and cause or reason. The [[dative case]] marks purpose, cause and reason, possession (rarely), goal and direction of movement, recipient, temporal duration or endpoint, a [[core argument]] in some syntactic constructions, and a [[Complement (linguistics)|complement]] of intransitives verbs or nouns like 'fond (of)', 'good (to)', 'know', 'forget'. The [[genitive]] is used only with animate nouns{{sfn|Tsunoda|2011|p=201}} and marks, besides the typical possessor and related functions, also a beneficiary, recipient, or complement of some verbs and nouns. The [[ablative]] most commonly marks reason or a temporal or spatial starting point. The [[comitative]] seems to have a wide range of meanings, some of them idiomatic, but the most typical seem to correspond to English 'with'.
+
+Genitive, ablative and comitative suffixes may be followed by other case suffixes.{{sfn|Tsunoda|2011|p=184}}
+Some adverbs can take case suffixes: locative (optionally for adverbs of place), dative (with the sense 'to', optionally for adverbs of place, obligatory for adverbs of time), or ablative (obligatory for both if the meaning is 'from, since').{{sfn|Tsunoda|2011|p=179}} Adverbs of manner cannot take case suffixes – this distinguishes them from nouns that express similar meanings (as these nouns must agree in case with the nouns they modify).{{sfn|Tsunoda|2011|p=182}}
+
+==Verbal morphology==
+Verbs belong to one of three [[Grammatical conjugation|conjugation]] classes,{{sfn|Tsunoda|2011|p=255}} which are characterised by the presence of a 'conjugational marker' (-l-, -y- or none) which appears in certain verb forms. Verbs take suffixes for change of [[Valency (linguistics)|valency]] or for [[Grammatical tense|tense]]/[[Grammatical mood|mood]] (future tense, between two and three non-future tenses, [[Imperative mood|imperatives]], [[Apprehensional mood|apprehensional]]). There are also purposive forms, which signal intention when used as the predicate of a non-subordinate clause,{{sfn|Tsunoda|2011|p=291}} or mark verbs in [[subordinate clauses]] for purpose, result or successive actions.{{sfn|Tsunoda|2011|p=413}}
+
+==Syntax==
+
+===Word order===
+[[Word order]] is free and does not seem to be governed by [[information structure]]. Constituents of a single phrase need not be contiguous.{{sfn|Tsunoda|2011|p=377}} There are however some tendencies. Numeral nouns usually follow the [[Head (linguistics)|head]] noun, while adjective-like [[Grammatical modifier|modifiers]] tend to precede it.{{sfn|Tsunoda|2011|p=374}} [[Argument (linguistics)|Arguments]] tend to precede verbs, while the agent-like argument of a transitive verb more often than not precedes the patient-like argument, although more frequently only one of them is expressed.{{sfn|Tsunoda|2011|p=376}}
+
+===Complex sentences and coreferentiality===
+The three most common means of joining [[clause]]s are sentence-sequence (juxtaposed clauses that have separate intonation contours),{{sfn|Tsunoda|2011|p=439}} [[Coordination (linguistics)|coordination]] (juxtaposed clauses with one intonation contour and sharing of conjugational categories such as tense){{sfn|Tsunoda|2011|p=438}} and [[Subordination (linguistics)|subordination]]. The most common type of subordination is the purposive.
+
+If there are shared arguments, they are more likely to be deleted from the second clause if it is subordinate, and least likely if it is sentence-sequence.{{sfn|Tsunoda|2011|p=443}} The restrictions on the [[syntactic function]] of the shared argument are typical of [[Syntactic ergativity|syntactically ergative]] languages. The shared argument has to have the same function in both clauses, or be an intransitive subject (S) in one and a transitive patient-like argument (O) in the other:{{sfn|Tsunoda|2011|loc=p. 418, table 4-13}}
+{{interlinear|indent=3
+|bama-nggo warrngo mayga-n yani-yal{{sfn|Tsunoda|2011|p=423}} 
+|man-ERG woman.ABS tell-NF go-PURP
+|"The man told the woman to go." (main clause O coreferential with deleted S of the subordinate clause)}}
+
+In case the shared argument is a transitive agent-like argument (A) in one of the clauses, [[Antipassive|antipassivisation]] will be involved. It is signalled by a verbal suffix and affects the case marking of the arguments of this verb. In comparison with the basic verb, which marks the A with ergative/nominative and the O with nominative/accusative, the antipassivised verb marks the A with nominative and the O with either ergative or dative.{{sfn|Tsunoda|2011|p=427}} The agent-like argument then becomes available to be coreferential with a patient of a transitive verb or a subject of an intransitive one:
+{{interlinear|indent=3
+|gorngga-do birgo mayga-n wajo-gali-yal{{sfn|Tsunoda|2011|p=446}} 
+|husband-ERG wife.ABS tell-NF cook-ANTIP-PURP
+|"[The] husband told [his] wife to cook." (main clause O coreferential with A of subordinate clause, therefore antipassive is necessary)}}
+
+==References==
+{{Reflist|20em}}
+
+==Bibliography==
+* {{cite book
+|last=Dixon
+|first=RMW
+|title=Australian Languages: Their Nature and Development
+|year=2002
+}}
+* {{Cite book|title=Gugu-Badhun and its neighbours|last=Sutton|first=Peter John|year=1973|pages=73–74}}
+* {{cite web
+|last1=Tsunoda
+|first1=Tasaku
+|title=Language Revitalization: Revival of Warrungu (Australia) and Maintenance of Maori (New Zealand)
+|year=2002
+|url=http://www.sgu.ac.jp/com/ksasaki/kaken/essay/essay-tsn.htm
+}}
+* {{cite book
+|last1=Tsunoda
+|first1=Tasaku
+|title=A Grammar of Warrongo
+|year=2011
+|series=Mouton Grammar Library 53
+|place=Berlin ; Boston
+|publisher=De Gruyter Mouton
+}}
+* {{cite book
+|last1=Tsunoda
+|first1=Tasaku
+|last2=Tsunoda
+|first2=Mie
+|contribution=The Revival Movement of the Warrongo Language of Northeast Australia
+|title=Linguapax Asia: A Retrospective Edition of Language and Human Rights Issues: Collected Proceedings of Linguapax Asia Symposia 2004–2009
+|year=2010
+|place=Tokyo
+|publisher=Linguapax Asia
+}}
+* {{Cite SLQ-CC-BY|ref={{sfnref|State Library of Queensland}} |author=|date=|title=Warungu |website=Queensland Aboriginal and Torres Strait Islander languages map |url=https://maps.slq.qld.gov.au/iyil/view/141 |access-date=5 February 2020}}
+
+==External links==
+* [http://www.dnathan.com/language/warrungu/ Stories from Alf Palmer]
+* [http://aiatsis.gov.au/sites/default/files/gugu_badhun.pdf Bibliography of Gugu Badhun people and language resources], at the [[Australian Institute of Aboriginal and Torres Strait Islander Studies]]
+* [http://www.tooyoo.l.u-tokyo.ac.jp/Australia/Warrungu.html Warrungu] (in Japanese)
+* [http://www.dnathan.com/language/warrungu/warrunguConc.htm Warrungu Stories and Concordance] (recorded sentences together with a transcription, an interlinear translation, and a smooth translation)
+* [http://aiatsis.gov.au/explore/culture/topic/language-map A map of Australia showing where various languages, including Warrungu, are spoken]
+* [http://www.rferl.org/features/2003/08/15082003160729.asp World: Dying Words -- Linguists Express Concern Over Fate Of Endangered Languages (Part 1)]
+
+{{Pama–Nyungan languages|East}}
+
+[[Category:Maric languages]]
+[[Category:Extinct languages of Queensland]]
+[[Category:Languages extinct in the 1980s]]

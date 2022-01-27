@@ -1,0 +1,202 @@
+{{short description|Austronesian language spoken in Sulawesi, Indonesia}}
+{{Infobox language
+|name=Moronene
+|states=[[Indonesia]]
+|region=[[Sulawesi]]
+|speakers=37,000
+|date=2000
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] (MP)
+|fam3=[[Celebic languages|Celebic]]
+|fam4=[[Bungku–Tolaki languages|Bungku–Tolaki]]
+|fam6=Eastern
+|dia1=Wita Ea (Rumbia, Poleang)
+|dia2=Tokotu’a (Kabaena)
+|iso3=mqn
+|glotto=moro1287
+|glottorefname=Moronene
+}}
+
+'''Moronene''' is an [[Austronesian language]] spoken in [[Bombana Regency]], [[Southeast Sulawesi]], [[Indonesia]]. It belongs to the [[Bungku–Tolaki languages|Bungku–Tolaki]] branch of the [[Celebic languages|Celebic]] subgroup.
+
+== Phonology ==
+Moronene has the following consonant inventory:<ref name=Andersen>{{citation |last=Andersen |first=T. David |year=1999 |chapter=Moronene phonology |editor=Wyn D. Laidig |title=Studies in Sulawesi linguistics, part VI |pages=1–45 |location=Jakarta |publisher=Universitas Katolik Indonesia Atma Jaya |chapter-url=http://sealang.net/archives/nusa/pdf/nusa-v46-p1-45.pdf }}.</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Consonants
+! colspan="3" |
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="3" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| 
+| {{IPAlink|ŋ}}
+| 
+|-
+! rowspan="4" | [[Plosive]]
+! rowspan="2" | {{small|voiceless}}
+! {{small|plain}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| 
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+! {{small|prenasalized}}
+| {{IPA|ᵐp}}
+| {{IPA|ⁿt}}
+| 
+| {{IPA|ᵑk}}
+| 
+|-
+! rowspan="2" | {{small|voiced}}
+! {{small|plain}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| 
+| {{IPAlink|g}}
+| 
+|-
+! {{small|prenasalized}}
+| {{IPA|ᵐb}}
+| {{IPA|ⁿd}}
+| 
+| {{IPA|ᵑg}}
+| 
+|-
+! colspan="3" | [[Fricative]]
+| {{IPAlink|β}}
+| {{IPAlink|s}}
+| 
+| 
+| {{IPAlink|h}}
+|-
+! colspan="3" | [[Flap consonant|Flap]]
+| 
+| {{IPAlink|r}}
+| {{IPAlink|ɽ}}
+| 
+| 
+|}
+
+The vowel phonemes are /a e i o u/. Sequences of two like vowels are pronounced as a long vowel, e.g. ''nee'' [ne:].<ref name=Andersen/>
+
+== Grammar ==
+
+=== Word Order ===
+Moronene has flexible word order. However, there is a high frequency of clause-initial verbs in "connected narrative discourse." Noun phrases are not marked for case.<ref name=":0">Andersen, Suree. 1999. When the Moronene say no. In David Mead (ed.), Studies in Sulawesi linguistics part V, 73-112. Jakarta, Indonesia: Universitas Katolik Indonesia Atma Jaya.</ref>  The language has prepositions. 
+
+=== Pronouns ===
+There are two forms of pronouns, free pronouns and absolutive clitics.<ref name="Andersen" /> There are singular and plural forms, there are no dual, trial or paucal forms. There is an inclusive/exclusive distinction in the first person plural forms. There is no gender, and there appears to be no present-day politeness distinction. 
+{| class="wikitable"
+|+Moronene Free Pronouns and Absolutive Clitics<ref name="Andersen" />
+!Person
+!Free
+!
+!Absolutive
+|-
+|1SG
+|[i'?aku] ['?aku]
+|
+|['aku] ~ [’?aku] ~ ['haku]
+|-
+|2SG
+|[i'tʃoʔo] ['tʃoʔo]
+|
+|[ko]
+|-
+|3SG
+|[i'a:]
+|
+|[o]~[?o]~[ho]
+|-
+|1PL (Inclusive)
+|[i'tʃita] ['tʃita]
+|
+|['kita]
+|-
+|1PL (Exclusive)
+|[i'tʃami] ['tʃami]
+|
+|['kami]
+|-
+|2PL
+|[itʃo'miu] [tʃo'miu]
+|
+|[ko'miu]
+|-
+|3PL
+|[i'ʔiɾa] ['ʔiɾa]
+|
+|['ʔiɾa]~['hiɾa]
+|}
+
+=== Genitive Pronouns ===
+There are two classes of genitive pronouns in Moronene which must be learned by speakers, which is unique among Bungku–Tolaki languages.<ref name=":1">Mead, David. 1998. ''Proto–Bungku-Tolaki: Reconstruction of its phonology and aspects of its morphosyntax''. PhD dissertation. Houston: Rice University.</ref> There are singular and plural forms, there are no dual, trial or paucal forms. There is an inclusive/exclusive distinction in the first person plural forms. Example (1) demonstrates the class 1 first person genitive pronoun in use with the noun 'hair'.<ref name=":1" />
+
+{{interlinear|number=(1)
+|wulu-ngku
+|hair-1SG.GEN
+|'My hair'}}
+
+{| class="wikitable"
+|+Moronene Genitive Pronouns<ref name=":1" />
+!Person
+!Class 1
+!Class 2
+|-
+|1SG
+| -ngku
+| -ku
+|-
+|2SG
+| -u, 
+| -'u
+|-
+|3SG
+| -no
+| -no
+|-
+|1PL (EX.)
+| -mami
+| -mami
+|-
+|1PL (IN)
+| -nto, 
+| -to
+|-
+|2PL
+| -miu
+| -miu
+|-
+|3PL
+| -ndo, 
+| -do
+|}
+
+=== Number ===
+Moronene has a decimal numeral system.<ref>Andersen, T. David. 1999. Moronene numbers. In David Mead (ed.), Studies in Sulawesi linguistics part V, 1-72. Jakarta, Indonesia: Universitas Katolik Indonesia Atma Jaya.</ref>
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Mead, David. 1998. ''Proto–Bungku-Tolaki: Reconstruction of its phonology and aspects of its morphosyntax''. PhD dissertation. Houston: Rice University.
+*Mead, David. 1999. ''The Bungku–Tolaki languages of south-eastern Sulawesi, Indonesia''. Series D-91. Canberra: Pacific Linguistics.
+*Andersen, T. David. 1999. Moronene numbers. In David Mead (ed.), Studies in Sulawesi linguistics part V, 1-72. Jakarta, Indonesia: Universitas Katolik Indonesia Atma Jaya.
+*Andersen, T. David. 2006. Topicality and functional voice in Hebrew and Moronene, with application to translation. (Doctoral dissertation, Fuller Theological Seminary; 346pp.)
+*Andersen, Suree. 1999. When the Moronene say no. In David Mead (ed.), Studies in Sulawesi linguistics part V, 73-112. Jakarta, Indonesia: Universitas Katolik Indonesia Atma Jaya.
+*Muthalib, Abdul and Johannes F. Pattiasina and Adnan Usmar and Rambe, {}. 1983. Struktur bahasa Moronene. Ujung Pandang: PPBSIDSS. vii+136pp.
+
+{{Celebic languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Bungku–Tolaki languages]]
+[[Category:Languages of Sulawesi]]

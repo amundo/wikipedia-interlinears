@@ -1,0 +1,771 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Mavea
+|states=[[Vanuatu]]
+|region=[[Mavea Island]]
+|speakers= 34
+|date=2008
+|ref=<ref group="G-2008" name="VG08 p2" />
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Northern Vanuatu languages|Northern Vanuatu]]
+|fam6=Northeast Vanuatu – Banks Islands
+|fam7=[[Nuclear Santo languages|Nuclear Santo]]
+|fam8=South Santo
+|iso3=mkv
+|glotto=mafe1237
+|glottorefname=Mafea
+|notice=IPA
+}}
+
+'''Mavea''' (also known as '''Mav̈ea''' or '''Mafea''' or '''Mavia''') is an [[Oceanic languages|Oceanic]] language spoken on [[Mavea Island]] in Vanuatu, off the eastern coast of [[Espiritu Santo]].  It belongs to the [[North and Central Vanuatu languages|North–Central Vanuatu]] linkage of [[Southern Oceanic languages|Southern Oceanic]].  The total population of the island is approximately 172, with only 34 fluent speakers of the Mavea language reported in 2008.<ref group="G-2008" name="VG08 p2">Guérin 2008, p. 2</ref>
+
+There are 94 languages in the North Vanuatu linkage, including Mavea. The closest linguistic relative to Mavea, sharing a little over 70% of cognates, is [[Tutuba language|Tutuba]]. Following Tutuba, [[Aore language|Aore]], South Malok, [[Araki language|Araki]], and [[Tangoa language|Tangoa]] are the next closest relatives.<ref group="G-2011" name=":0" />
+
+==Language endangerment==
+Mavea is a moribund language and there are many factors as to why this is.
+
+One factor would be the arrival and Christianization by the [[Seventh-day Adventist]] and [[Church of Christ]] missionaries in 1839. Only 16% of the population can speak Mavea. These native speakers of Mavea belong to Generation 1, 2, and 3{{explain|date=September 2016}} which ranges from the ages of 20–80 years old. Those born after 1980 ("Generation 4") are less fluent. Commonly, this generation is not taught the language, because the language is inactive and not used in any new domain.<ref group="G-2011" name=":0" />
+
+Mavea is not used very commonly outside of the home; in particular, it is not used in school, which reduces the younger speakers' exposure to the language. Most speakers do not feel concerned with the possible loss of the Mavea language.<ref group="G-2011" name=":0" />
+
+[[Bislama]], the national ''lingua franca'' of Vanuatu, is used more frequently. This creole is the first language for many people in Vanuatu who live in the city. It is used for business, religious sacraments, politics, and is seen as a way to move upward in society.<ref group="G-2011" name=":0" />
+
+==Phonology==
+Mavea has 15 consonants and 8 vowels.<ref group="G-2011" name=":0">Cf. [[#OL|Guérin 2011]].</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Consonants<ref group="G-2008" name="Guérin 2008: p. 30">Guérin 2008: p. 30</ref>
+|-
+!
+! [[Labial consonant|Labial]]
+! [[Linguolabial consonant|Linguolabial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Velar consonant|Velar]]
+|-
+! [[Nasal stop|Nasal]]
+| {{IPA link|m}} {{angbr|m}}
+| {{IPA link|n̼}} {{angbr|m̈}}
+|
+|{{IPA link|n}} {{angbr|n}}
+|
+|{{IPA link|ŋ}} {{angbr|n}}
+|-
+! [[Stop consonant|Stop]]
+| {{IPA link|p}} {{angbr|p}}
+| {{IPA link|t̼}} {{angbr|p̈}}
+|colspan=2| {{IPA link|t}} {{angbr|t}}
+| {{IPA link|ɖ}} {{angbr|d}}
+| {{IPA link|k}} {{angbr|k}}
+|-
+! [[Fricative consonant|Fricative]]
+| {{IPA link|v}} {{angbr|v}}
+| {{IPA link|ð̼}} {{angbr|v̈}}
+|
+| {{IPA link|s}} {{angbr|s}}
+|
+|
+|-
+! [[Trill consonant|Trill]]
+|
+|
+|
+| {{IPA link|r}} {{angbr|r}}
+|
+|
+|-
+! [[Approximant consonant|Approximant]]
+|
+|
+|
+| {{IPA link|l}} {{angbr|l}}
+|
+| {{IPA link|w}} {{angbr|w}}
+|}
+
+Plosives in Mavea are not aspirated.<ref group="G-2008">Guérin 2008: p. 12</ref>
+
+{| class="wikitable" style="text-align:center"
+|+ Vowels<ref group="G-2008" name="Guérin 2008: p. 30"/>
+|-
+! !! '''i''' !! '''e''' !! '''a''' !! '''o''' !! '''u'''
+|-
+! [[High vowel|High]]
+| +  ||  ||  ||   || +
+|-
+! [[Back vowel|Back]]
+| ||  || + || + || +
+|-
+! [[Low vowel|Low]]
+|  ||  || + ||  ||
+|-
+! [[Rounded vowel|Rounded]]
+|  ||  ||  || + || +
+|}
+
+===Orthography===
+[[Linguolabial consonant|Linguolabial]] consonants are represented using the corresponding labial consonant with a [[Diaeresis (diacritic)#On consonants|diaeresis diacritic]] on top: ''p̈'' {{IPA|[t̼]}}; ''v̈'' {{IPA|[ð̼]}}; ''m̈'' {{IPA|[n̼]}}.<ref>[http://elar.soas.ac.uk/deposit/guerin2007mavea Presentation of Mavea] {{webarchive|url=https://web.archive.org/web/20120425160505/http://elar.soas.ac.uk/deposit/guerin2007mavea |date=2012-04-25 }}.</ref>  The [[retroflex consonant|retroflex]] {{IPA|[ɖ]}} is represented in the orthography as ''d''.
+
+==Grammar==
+
+===Pronouns===
+There are both free and bound [[pronoun]]s. Free pronouns are common in many Pacific languages. These free pronouns do not change for gender, but shows numerical differences, including singular, plural, dual, or [[paucal]].<ref group="G-2011" name=":0" />
+
+For example:
+* /mo/ = he/she/it (third person singular subject)
+* He eats taro. = /mo-an pete/
+
+===Proper Nouns===
+[[Proper noun]]s includes personal names, [[Vocative case|vocatives]], relational terms, and [[Locative case|locatives]]. They do not proceed an [[Article (grammar)|article]] and can not be used with a [[determiner]]. To show gender distinction, males use the prefix /mol-/. For females, the prefix /vo-/ or /va-/ was added.<ref group="G-2011" name=":0" />
+
+===Common Nouns===
+Similar to the proper nouns, there are both bound and free [[common nouns]]. Both can be used in an argument, be quantified with a marker, be modified with a determiner, be the head of a relative clause, and be questioned with "who" or "what". Bound common nouns are separated into nouns of kinship, body parts, bodily functions, and whole part relations. Also shows [[Possessive determiner|possessives]].<ref group="G-2011" name=":0" />
+
+===Verbs===
+Verbal predicates are marked with a subject agreement prefix. There are [[intransitive verb]]s, [[transitive verb]]s, [[Ambitransitive verb|ambitransitive]], [[Ditransitive verb|ditransitive]], and [[Auxiliary verb|auxiliary]].
+
+Intransitive verbs are used when the subject has no direct object receiving the action.<ref group="G-2011" name=":0" />
+
+===Adverbs===
+There are two kinds of [[adverb]]s: phrasal adverbs and [[sentential adverb]]s. Sententail adverbs take up the entire sentence and appear after or before the verb's core argument. For example: to show frequency, /te pong/ meaning "sometimes" is used as a sentential adverb.
+
+Spatial adverbs are used to show the location of the speaker and the direction the speaker is speaking towards. For example: ''{{transl|mkv|konaro}}'' means "here, at speaker's location." This is common in many Pacific languages.<ref group="G-2011" name=":0" />
+
+===Reduplication===
+Mavea shows partial [[reduplication]] in its grammar. Reduplication is used to show emphasis. For example: ''sua'' means "to paddle" and ''suosua'' means "to paddle intensely". Sometimes when using reduplication, the vowels can change. Usually the "a" changes to "o" or "e".<ref group="G-2011" name=":0" />
+
+===Adjectives===
+[[Adjective]]s can only be used as [[noun modifier]]s. There both adjectives as independent lexical items and also adjectives pulled from transitive verbs by using reduplication. For example: ''{{transl|mkv|pulua}}'' is "paint" and "{{transl|mkv|ima pulpulu}}" means "painted house".<ref group="G-2011" name=":0" />
+
+===Prepositions===
+There are seven [[Preposition and postposition|prepositions]] in Mavea.
+
+{| class="wikitable"
+!to/from
+!valu
+|-
+|straight
+|domdomi
+|-
+|for
+|lape
+|-
+|to/for
+|suri
+|-
+|around
+|dal
+|-
+|with
+|tuan
+|-
+|in/at
+|na
+|}
+
+===Demonstratives===
+====Pronouns====
+There are four attested [[demonstrative]] pronouns in Mavea: ''aro'', ''nel(e), maro,'' and ''male''.<ref group="G-2011" name=":1">[[#OL|Guérin 2011]], p.66.</ref> ''Aro'' and ''nel(e)'' can also function as demonstrative [[determiner]]s, and ''aro'' specifically only rarely appears as a pronoun,<ref group="G-2011" name=":1" /> as in:
+
+{{interlinear|indent=3
+|Mo-ṽe mo-pal '''aro''' '''[ma''' mo-pailu]
+|3SG-make 3SG-like here COMP 3SG-bent
+|'He makes (it) like this one here that is bent'<ref group="G-2011" name=":1" />}}
+
+''Maro'' ('this one') is used to refer to something nearby the speaker, and has the [[plural]] form ''maror'',<ref group="G-2011" name=":1" /> which is formed by [[affix]]ing the plural [[suffix]] ''-re'':<ref group="G-2011" name=":2">[[#OL|Guérin 2011]], p.67.</ref>
+
+{{interlinear|indent=3
+|Or me ro ka-var sur '''maro''' ma matua{{=}}ku mo-adia
+|maybe FUT then 1SG.IRR-talk about this.one COMP right{{=}}1SG.POSS 3SG-first
+|'Maybe I will talk about this one that (is) on my right first'<ref group="G-2011" name=":2" />}}
+
+{{interlinear|indent=3
+|Ma pula-ira '''maror''' i ṽat.
+|COMP CLF-3PL these.ones LIG four
+|'(The ones) that (are) theirs (are) these four ones.'<ref group="G-2011" name=":2" />}}
+
+''Male'' ('that one') on the other hand is used when speaking of something that is distant to the speaker,<ref group="G-2011" name=":1" /> both literally, as in
+
+{{interlinear|indent=3
+|Male '''m̃atan''' me ra-lsu mate{{=}}i{{=}}o
+|that.one COMP FUT 3PL-hit dead{{=}}TR{{=}}2SG
+|'That one (was) for the purpose that they would kill you'<ref group="G-2011" name=":3">[[#OL|Guérin 2011]], p.285.</ref>}}
+
+And metaphorically, in order to distance the speaker from the [[referent]],<ref group="G-2011" name=":2" /> as in
+
+{{interlinear|indent=3
+|Na vatavata le mo-pelmel paingur, '''male''' me i-l-ṽe Tomy pelmel 
+|but woman DET 3SG-like.this stubborn that.one FUT 3SG.IRR-IMPF-make Tomy like.this
+|'But this woman is stubborn like this, that one will be making Tomy the same'<ref group="G-2011" name=":2" />}}
+
+''Malere'' is the plural form of ''male'',<ref group="G-2011" name=":1" /> and like ''maror'' is formed by affixing the plural ''-re'':<ref group="G-2011" name=":2" />
+
+{{interlinear|indent=3
+|'''Malere''' da-sops-varvara nira.
+|these.ones 1PL.INCL-NEG-talk 3PL
+|'These ones, we don't talk to them.'<ref group="G-2011" name=":2" />}}
+
+''Maro'' and ''male'' are both formed by combining the [[complementizer]] ''ma-'' and a locative [[adverbial]]; ''aro'' for the former, and ''ale'' for the latter.<ref group="G-2011" name=":2" />
+
+====Determiners====
+In addition to demonstrative pronouns, Mavea also has three demonstrative determiners: ''nele, (a)ro,'' and ''nor(o)'',<ref group="G-2011" name=":4">[[#OL|Guérin 2011]], p.152.</ref> although of these only ''nor(o)'' is not attested as a pronoun in addition to its role as a demonstrative determiner.<ref group="G-2011" name=":1" />
+
+{| class="wikitable"
+|+Demonstrative Determiners<ref group="G-2011" name=":4" />
+!
+!Singular
+!Plural
+|-
+!this
+|nel(e)
+|neler(e)
+|-
+!this here
+|(a)ro
+|ror
+|-
+!this here now
+|nor(o)
+|noror
+|}
+
+The three-way demonstrative system common to Oceanic Languages<ref name=":10">{{Cite book|last=Gunter|first=Senft|url=http://worldcat.org/oclc/902361921|title=Deixis and demonstratives in Oceanic languages|date=2004|publisher=Australian National University, Research School of Pacific and Asian Studies|isbn=0-85883-551-7|pages=179|oclc=902361921}}</ref> is not present in Mavean demonstrative determiners,<ref group="G-2011" name=":4" /> occurring instead in the locative adverbs of the language.<ref group="G-2011" name=":6">[[#OL|Guérin 2011]], p.84.</ref> The demonstrative determiners of Mavea encode both spatial and temporal proximity to either the speaker,<ref group="G-2011" name=":4" /> as in &nbsp;
+
+{{interlinear|indent=3
+|Ki-r-m̃a '''aro''' Maṽea.
+|1PL.EXCL-DL-come this.here Maṽea
+|'We came here, (to) Maṽea.'<ref group="G-2011" name=":5">[[#OL|Guérin 2011]], p.153.</ref>}}
+
+or to the discourse, as in
+
+{{interlinear|indent=3
+|Rau{{=}}n mo-sa mo-avtai '''nor''' aulu.
+|leaves{{=}}3SG.POSS 3SG-go.up 3SG-appear here.now above
+|'Its leaves go up and appear here on top.'<ref group="G-2011" name=":5" />}}
+
+The plural forms ''neler(e), ror,'' and ''noror'' are formed by affixing what is likely a reduced form of the plural word ''re''<ref group="G-2011" name=":5" />''.''
+
+''Nele'', along with its plural form ''neler(e),'' is formed in part by the specific definite [[Article (grammar)|article]] ''le''.<ref group="G-2011" name=":5" />
+
+''Nor(o)'', and its plural form ''noror'', is actually made up in part by a cut down form of the third demonstrative determiner, ''(a)ro'', while ''nele'' is not.<ref group="G-2011" name=":5" /> Interestingly, the two demonstrative determiners which contain ''aro'', that is ''nor(o)'' and ''(a)ro'' itself, are also the two demonstrative determiners which serve double duty as demonstrative pronouns,<ref group="G-2011" name=":1" /> in addition to being used as locational adverbs, a function never assigned to ''nel(e)(re)''.<ref group="G-2011" name=":5" />
+
+Additionally, one of the other demonstrative pronouns, ''maro'', also has ''aro'' as one of its constituents.<ref group="G-2011" name=":2" />
+
+Demonstrative determiners can refer to a location in both time and space, but the spatial location is often discourse-related, rather than speaker-related,<ref group="G-2011" name=":5" /> as in the following example, where ''aro'' is used to refer [[Anaphoric reference|anaphorically]] to a party (''anana'') that has previously been mentioned in the text:
+
+{{interlinear|indent=3
+|Re m̃asi nirev ra-ṽa na anan-a '''aro'''.
+|PL bird.fish everyone 3PL-go LOC eat-NMZ here
+|'All the birds went to this party.'<ref group="G-2011" name=":7">[[#OL|Guérin 2011]], p.154.</ref>}}
+
+This use is sometimes called the "tracking use".<ref group="G-2011" name=":5" /> ''Ror, nor(o)(r)'', and ''nelere'' all also have anaphoric uses, as displayed in the following examples, where the [[noun phrase]] referents occurring prior to the demonstrative have each been mentioned previously:<ref group="G-2011" name=":7" />
+
+{{interlinear|indent=3
+|Ro me ro tamlese '''ror''' i rua…
+|then FUT then old here.PL LIG two
+|'Then, these two men here…'}}
+
+{{interlinear|indent=3
+|Ra-l-an ineler '''nelere'''
+|3PL-IMPF-eat thing.PL these.PL
+|'They are eating these things here.'}}
+
+{{interlinear|indent=3
+|Inor '''nor''' me i-tuen nno
+|thing.PL here.now FUT 3SG.IRR-help 2SG
+|'These things here will help you.'}}
+
+The demonstrative determiners of Mavea follow the head noun when used [[adnominal]]ly, a pattern which is the norm in oceanic languages, though by no means universal.<ref name=":10" /> Examples of this include:
+
+{{interlinear|indent=3
+|Tam̃a-n navaisesea '''aro''' mo-m̃ata.
+|father-CSTR child this.here 3SG-dead
+|'The father of this child here is dead.'<ref group="G-2011" name=":5" />}}
+
+{{interlinear|indent=3
+|Ra-l-an ineler '''nelere'''.
+|3PL-IMPF-eat thing.PL these.PL
+|'They are eating these things here.'<ref group="G-2011" name=":7" />}}
+
+===Spatial Deictics===
+
+====Locative adverbs====
+Locative adverbs are a class of sentential adverb, modifying entire sentences, and as such occur either subsequent to the verb's core argument,<ref group="G-2011" name=":8">[[#OL|Guérin 2011]], p.83.</ref> as shown in:
+
+{{interlinear|indent=3
+|Ra-kuro '''koneine''' 'Ai sar' ro ra-sa '''konain''' 'Panpan.'
+|3PL-leave there ai sar then 3PL-go.up there panpan
+|'They left there, 'Ai sar', then they went up there, 'Panpan'.'<ref group="G-2011" name=":6" />}}
+
+Or more rarely prior to the verb's core argument, as shown in:
+
+{{interlinear|indent=3
+|Ṽisio-n '''maro''' mo-an nna.
+|meat{{=}}3SG.POSS this.one 3SG-eat 3SG
+|'His flesh, this one ate it.'<ref group="G-2011">[[#OL|Guérin 2011]], p.382.</ref>}}
+
+There are two sets of locative adverbs in Maṽea,<ref group="G-2011" name=":8" /> all members of which serve as spatial [[deictics]]. There is the A-set, so named because all of its members begin with [a], and the K-set, so named because each of its members begins with [ko]. They form a six-way system based on proximity to the hearer, and to the speaker, as well as relative direction (up, down, or across)<ref group="G-2011" name=":8" />
+
+{| class="wikitable"
+|+ Spatial adverbs<ref group="G-2011" name=":6" />
+|-
+|'''aro'''
+|~
+|'''kon(a)ro'''
+|'here, at speaker's location'
+|-
+|'''aine'''
+|~
+|'''konain(e)'''/'''koenine'''
+|'there, at hearer's location'
+|-
+|'''ale'''
+|~
+|'''konale'''
+|'there, away from both interlocutors, but closer to hearer than speaker'
+|-
+|'''atu'''
+|~
+|'''konatu'''
+|'over there, away from both interlocutors'
+|-
+|'''atisi(vo)'''
+|~
+|'''konatisi(vo)'''
+|'over there down, far away from both interlocutors'
+|-
+|'''atisa'''
+|~
+|'''konatisa'''
+|'over there up, far away from both interlocutors'
+|-
+|'''atiṽa'''
+|~
+|'''konatiṽa'''
+|'over there across, far away from both interlocutors'
+|}
+
+''Atisi(vo)'', ''atisa,'' and ''atiṽa,'' as well as their K-set equivalents ''konatisi(vo)'', ''konatisa'', and ''konatiṽa'', are likely derived from the form ''atu'' (or ''konatu'' for the K-set), compounded with a movement verb like ''si(vo)'' ('go down'), ''sa'' ('go up'), or ''ṽa'' ('go'):<ref group="G-2011" name=":6" />
+
+{{interlinear|indent=3
+|Nno ko-to '''aro''' nao ka-on ka-ṽa '''konatiṽa'''. Ka-val kil ṽa na vovono '''konatu'''.
+|2SG 2SG-stay here 1SG 1SG.IRR-look 1SG.IRR-go over.there 1SG.IRR-pass look go LOC REDbush over.there
+|'You stay here, I will go look over there. I will pass towards the bush over there.'}}
+
+{{interlinear|indent=3
+|Ra-kuro '''koneine''' 'Ai sar' ro ra-sa '''konain''' 'Panpan.'
+|3PL-leave there ai sar then 3PL-go.up there panpan
+|'They left there, 'Ai sar', then they went up there, 'Panpan'.'}}
+
+{{interlinear|indent=3
+|Na-rong mo-sopo p̃arav inaite mo-tikel palo=ku '''konaro'''.
+|1SG-feel 3SG-NEG long thing 3SG-reach leg=1SG.POSS here
+|'Soon after I felt something touching my leg here.'}}
+
+Speakers can emphasise the distance in the forms ''atisi(vo)'', ''atisa,'' and ''atiṽa,'' as well as their K-set forms ''konatisi(vo)'', ''konatisa'', and ''konatiṽa'' by producing them with a long [t], e.g.: [a.'t:i.si].<ref group="G-2011" name=":6" />
+
+There is no easily discernible [[Semantics|semantic]] difference between the A-set and the K-set, however some members of the A-set may also serve as demonstratives,<ref group="G-2011" name=":9">[[#OL|Guérin 2011]], p.85.</ref> as in:
+
+{{interlinear|indent=3
+|Mo-ṽe mo-pal '''aro''' '''[ma''' mo-pailu].
+|3SG-make 3SG-like here COMP 3SG-bent
+|'He makes (it) like (this one) here which is bent.'}}
+
+which is not attested in any member of the K-set.
+ 
+The spatial and temporal adverbs ''aro'', ''aine,'' and ''kon(a)ro'', as well as the demonstrative determiner ''nor(o),'' can be juxtaposed with a noun in order to form an adverbial predicate,<ref group="G-2011" name=":3" /> as in
+
+{{interlinear|indent=3
+|Ro, avona-n ululdunia '''aro'''.
+|then end-CONS story here.this
+|'Then the end of the story (is) here.' Or 'Then, this (is) the end of the story.'}}
+
+{{interlinear|indent=3
+|Nna ne '''aine'''.
+|3SG FOC there
+|'It (is) there.'}}
+
+{{interlinear|indent=3
+|Atoli{{=}}na '''nor''', aṽati=na '''konro'''.
+|third{{=}}3SG.POSS here.now fourth=3SG.POSS here
+|'The third one (is) here, the fourth one (is) here.'}}
+
+== Morphology ==
+Personal pronouns in Mavea do not inflect for [[Grammatical case|case]] or [[Grammatical gender|gender]], but do show [[Grammatical number|number]] (singular, dual, paucal, plural). First person non-singular has an [[clusivity|inclusive/exclusive]] distinction. Independent personal pronouns are not [[Pro-drop language|obligatory]], but are used for emphasis, contrast or focus.<ref group="G-2008">Guérin 2008: p. 76.</ref>
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|inclusive}}
+| rowspan="2" | na(o)
+| darua/ô
+| datol
+| (n)ida
+|-
+! {{small|exclusive}}
+| kam̋arua/o
+| kam̋atol
+| kam̋am
+|-
+! colspan="2" | 2nd person
+| nno
+| kamruo/a
+| kamtol
+| kam̋im
+|-
+! colspan="2" | 3rd person
+| nna
+| rarua/o
+| ratol
+| nira
+|}
+
+{{interlinear|indent=3
+|me ro nno me ko -l -suruv atano, na nao me ro ka suruv aul pere -n vuae
+|FUT then 2SG FUT 2SG -IMPF -sleep ground but 1SG FUT then 1SG.IRR -sleep above branch -CONS tree
+|"You, you will sleep on the ground, but I, I will sleep in the tree"}}
+
+===Bound Pronouns===
+[[Bound morpheme|Bound]] pronouns are obligatory at the beginning of a predicate phrase. Only 1SG and 3SG inflect for [[Grammatical mood|mood]].<ref group="G-2008" name="Guérin 2008: p. 77">Guérin 2008: p. 77</ref>
+
+{| class="wikitable"
+|+ Subject Agreement Markers<ref group="G-2008" name="Guérin 2008: p. 78">Guérin 2008: p. 78</ref>
+|-
+! rowspan="2" colspan="2" | 
+! colspan="2" | Singular
+! rowspan="2" | Dual
+! rowspan="2" | Paucal
+! rowspan="2" | Plural
+|-
+! [[Realis mood|''Realis'']]
+! [[Irrealis mood|''Irrealis'']]
+|-
+! rowspan="2" | 1st person
+! {{small|inclusive}}
+| rowspan="2" | na-
+| rowspan="2" | ka-
+| dar-
+| datol-
+| da-
+|-
+! {{small|exclusive}}
+| kir-
+| kitol-
+| ki-
+|-
+! colspan="2" | 2nd person
+| ko-
+| ko-
+| kir-
+| kitol-
+| ki-
+|-
+! colspan="2" | 3rd person
+| mo-
+| i-
+| rar-
+| ratol
+| ra-
+|}
+
+{| class="wikitable" 
+|+ Object Enclitics<ref group="G-2008" name="Guérin 2008: p. 78"/>
+|-
+! 
+! 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|inclusive}}
+| rowspan="2" | -ao
+| (i)da
+|-
+! {{small|exclusive}}
+|
+|-
+! colspan="2" | 2nd person
+| -o
+|
+|-
+! colspan="2" | 3rd person
+| -a
+| (i)ra
+|}
+
+{{interlinear|indent=3
+|Varua nno '''ko'''-kolai{{=}}'''ao'''
+|bird 2SG 2SG-lie{{=}}1SG
+|"Cardinal, you lied to me"<ref group="G-2008" name="Guérin 2008: p. 78"/>}}
+
+== Counting System ==
+The Mavea counting system is very similar to other Proto Oceanic languages, especially numbers 1 through 5, and 10.<ref group="G-2011" name=":0" />
+
+# tea
+# rua
+# tol(u)
+# vat(i)
+# lima
+# marava
+# rave rua
+# rattol(u)
+# rappat(i)
+# anavul(u)
+
+== Possession ==
+Mavea distinguishes direct and indirect possession. Direct possessive constructions nouns take a bound possessive [[clitic]]. On the other hand, indirect possession is expressed by the presence of a classifier to which a possessive clitic is suffixed.<ref group="G-2011" name="Guerin_2011_p168">[[#OL|Guérin 2011]], p.168.</ref>
+
+=== Direct possession ===
+Direct possession is expressed by a possessive clitic attached to the noun when the possessor is not expressed as a Noun Phrase (NP). Alternatively, if no suffix exists for the person and number of the possessor, the nouns are followed by an independent pronoun.<ref group="G-2011" name="Guerin_2011_p168"/>
+
+The semantic classes of nouns participating in direct possessive constructions, include, body parts, and bodily functions, kinship terms, articles of clothing, and household goods.<ref group="G-2011" name="Guerin_2011_p168"/>
+
+{| class="wikitable" 
+|+ Table of Possessive Clitics
+|-
+! colspan="2" |
+! Singular
+! Dual
+! Paucal/trial
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|inclusive}}
+| rowspan="2" | -ku
+| darua/o
+| datol
+| -(i)da
+|-
+! {{small|exclusive}}
+| -mamrua/o
+| -mamtol
+| -mam
+|-
+! colspan="2" | 2nd person
+| -m
+| -mrua/o
+| -mtol
+| -mim
+|-
+! colspan="2" | 3rd person
+| -n(a)
+| -rarua/o
+| ratol
+| -(i)ra
+|}
+
+A noun, which is directly possessed, takes a possessive clitic matching the possessor's features.<ref group="G-2011" name="Guerin_2011_p170">[[#OL|Guérin 2011]], p.170.</ref>
+
+For example:
+
+{{interlinear|indent=3
+|Ka-deo mo-adia ro me ko-on '''tae{{=}}ku.'''
+|1SG.IRR-defecate 3SG-first then FUT 2SG-look excrement{{=}}lSG.POSS
+|'I will defecate first, then you will look at my excrement.'}}
+
+and
+
+This third person singular possessive clitic, pronounced as [na], is suffixed to the noun 'Laloa' for 'saliva'.
+
+{{interlinear|indent=3
+|'''Lalao{{=}}na''' mo-si mo-va.
+|saliva{{=}}3SG.POSS 3SG-go.down 3SG-go
+|'Her saliva was hanging down.' <ref group="G-2011" name="Guerin_2011_p168"/>}}
+
+====Non-pronominal possessors====
+If a full NP expresses the possessor, the possessee takes the construct suffix –n, or can be pronounces [na], although this construct suffix is a homophony of the possessive clitic –n and –na the distribution is different as displayed in the following examples;<ref group="G-2011" name="Guerin_2011_p170"/>
+
+Note that the case of Full NP, the possessee precedes the possessor
+
+{{interlinear|indent=3
+|Ra-tau '''ese-n''' Piria.
+|3PL-put name-CONS wild.yam
+|'They named it Piria' <ref group="G-2011" name="Guerin_2011_p169">[[#OL|Guérin 2011]], p.169.</ref>}}
+
+''and''
+
+{{interlinear|indent=3
+|'''Natu-n''' vomae mo-sa mo-sakel na '''patu-n''' kou.
+|child-CONS dove 3SG-go.up 3SG-sit LOC head-CONS fowl
+|'Dove's child went up and sat on Fowl's head.<ref group="G-2011" name="Guerin_2011_p169"/>}}
+
+Possession is recursive, in the following example, the noun 'vulu' which is possessed by the noun 'vanatu' which in turn is possessed by John, therefore both nouns a suffixed with –[n].
+
+{{interlinear|indent=3
+|'''vulu-n''' '''vanatu-n''' John
+|hair-CONS daughter-CONS John
+|'John's daughter's hair' <ref group="G-2011" name="Guerin_2011_p170"/>}}
+
+=== Indirect possession ===
+Nouns in indirect possession constructions do not take a possessive clitic, they require a classifier to which a possessive clitic (or construct suffix) is attached.<ref group="G-2011" name="Guerin_2011_p170"/>
+
+There are six classifiers in Mavea:
+
+# a-       'to be eaten'
+# ma-     'to be drunk'
+# no-      'general possession, valuables'
+# pula-   'anima raised, vegetable planted'
+# sa-      'housing and land'
+# madoue- 'a dead man's possession' <ref group="G-2011">[[#OL|Guérin 2011]], p.171.</ref>
+
+classifier "a-" infers that the item is possessed is meant to be eaten
+
+{{interlinear|indent=3
+|Mo-vir '''loko''' '''a'''{{=}}na.
+|3sG-throw laplap CLF.eat{{=}}3SG.POSS
+|'She threw his laplap (to eat)' <ref group="G-2011" name="Guerin_2011_p172">[[#OL|Guérin 2011]], p.172.</ref>}}
+
+If the possessor is a full NP, the classifier is market with the construct -n
+
+{{interlinear|indent=3
+|Nira ra-ve inanan vaisesea '''a-n''' '''re''' '''famli.'''
+|3pl 3PL-make food small CLF.eat-CONS PL family
+|'They make a small party for the families (to eat)' <ref group="G-2011" name="Guerin_2011_p172"/>}}
+
+Summarised 
+{| class="wikitable"
+!Possession Type
+!Possessee
+!Possessor
+|-
+|Direct
+| rowspan="2" |N -n
+
+N CLF -n
+| rowspan="2" |Personal Noun
+
+Personal Noun
+|-
+|Indirect
+|-
+|Direct
+| rowspan="2" |N -n
+
+N CLF -n
+| rowspan="2" |Specific
+
+Specific
+|-
+|Indirect
+|-
+|Direct
+|N (+human) -n
+
+N (-human) -i
+|Non-specific
+|-
+|Indirect
+|N CLF -n
+|Non-specific
+|}
+<ref group="G-2011">[[#OL|Guérin 2011]], p.176.</ref>
+
+== Questions ==
+[[Intonation (linguistics)|Intonation]] is used to distinguish yes-no questions because there is no syntactic way to do so. There are also [[tag question]]s which uses the negative tag /te modere/ at the end. In English, /te modere/ means "or not".<ref group="G-2011" name=":0" />
+
+Some monoclausal content questions include:
+* ape = where
+* {{transl|mkv|ingese}} = when
+* ise = who
+* ivisa = how much/many
+* matai = for what reason
+* matan = why
+* sa = what
+* sava = which/what kind?
+* se = which
+* sur sa = about/for what
+
+== Negation ==
+Sentential negation is expressed with the bound prefix /sopo/ and appears right after the subject agreement prefix.<ref group="G-2011" name=":0" /> The order is subject ---> negation ---> verb.
+
+{{interlinear|indent=3
+|mo -sopo- rongo {{=}} a
+|3SG NEG see {{=}} 3SG
+|he didn't see him}}
+
+Sometimes /sopo/ can be shorten to /po/.
+
+{{interlinear|indent=3
+|na -po- sasa
+|1SG NEG work
+|I don't work.}}
+
+When the subject agreement marker is absent, the bare negation marker jumps to the front.
+
+{{interlinear|indent=3
+|Sopo te ta-mavea...
+|NEG some from-Mavea
+|There is not one Mavea man...}}
+
+To show the aspectual meaning "not yet", /lo/ is added to the negation marker /sopo/. This refers to events that have not happened yet but are likely to in the future. Added to the end of this form of negation is /pa/ which means "still" or "yet".
+
+{{interlinear|indent=3
+|{nno ko} sopo -l- on diu pa?
+|2SG NEG IMPF look crab yet?
+|you haven't seen a coconut crab yet?}} 
+
+When combined with /me/ the negation changes into "not anymore, no more".
+
+{{interlinear|indent=3
+|mo-sopo - me - l - suruv
+|3SG-NEG - IT - IMPF - sleep
+|She does not sleep anymore.}}
+
+Equative clauses are shown by adding the negative marker /sopo/ to the subject marker for third person singular /mo-/. ''Mosopo'' meaning " it is/was/not."
+
+{{interlinear|indent=3
+|Ko-v mo-sopo nno.
+|2SG-say 3SG-NEG 2SG
+|You said it wasn't you.}}
+
+Negative locational predicates are similar to equative clauses, by adding the locational marker /na/ to the equative clause /mosopo/.
+
+{{interlinear|indent=3
+|Mo-sopo na ono.
+|3SG-NEG LOC sand.
+|It is not on the sand.}}
+
+==Notes==
+* '''References from''' 
+* Guérin, Valérie (2008). ''Discovering Mavea: Grammar, texts, and lexicon''. Doctor of Philosophy in Linguistics, University of Hawai'i.
+{{Reflist|4|group="G-2008"}}
+
+* {{cite book
+ |title=A Grammar of Mavea: An Oceanic Language of Vanuatu
+ |last=Guérin
+ |first=Valérie
+ |year=2011
+ |publisher= University of Hawai'i press
+ |series=[[Oceanic Linguistics]] Special Publications, No. 39
+ |location=Honolulu
+ |isbn=978-0-8248-3639-9
+ |pages=424
+ |url=https://researchonline.jcu.edu.au/28163/1/28163_Guerin_2011.pdf
+ |access-date=12 April 2021
+ |ref=OL}}
+{{Reflist|4|group="G-2011"}}
+
+* '''Other sources'''
+{{Reflist|1}}
+
+==External links==
+* [http://sites.google.com/site/valerieguerin/research Presentation of Mavea] by Valérie Guérin.
+* [https://web.archive.org/web/20120425160505/http://elar.soas.ac.uk/deposit/guerin2007mavea Mavea resources]  at the [[Endangered Languages Archive (ELAR)]]
+* [https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B4EUpwPojbojZDQ5NjYzYTItZDkxZC00NTFjLWEwMWQtYjYyY2JjMDIwYzEz&hl=en_US Mavea-English-Bislama Dictionary]
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Espiritu Santo languages]]
+[[Category:Languages of Vanuatu]]

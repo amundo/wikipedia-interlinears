@@ -1,0 +1,490 @@
+{{Short description|Siouan language spoken predominently by the Sioux}}
+{{COI|date=December 2021}}
+{{Infobox language
+|name=Sioux
+|nativename=Dakota, Lakota
+|states=United States, Canada
+|region=Northern [[Nebraska]], southern [[Minnesota]], [[North Dakota]], [[South Dakota]], northeastern [[Montana]]; southern [[Manitoba]], southern [[Saskatchewan]]
+|speakers= 25,000<ref>UNESCO Atlas of the World's Languages in Danger</ref>
+|date=2015
+|ref=e18
+|familycolor=American
+|fam1=[[Siouan languages|Siouan]]
+|fam2=[[Western Siouan languages|Western Siouan]]
+|fam3=Mississippi Valley
+|fam4=Dakotan
+|nation               = {{flag|United States}}{{indent|5}}{{flag|South Dakota}}<ref name=SDlegislature_amd126ca />
+|iso2=dak
+|lc1=dak|ld1=[[Dakota language|Dakota]]
+|lc2=lkt|ld2=[[Lakota language|Lakota]]
+|lingua = 62-AAC-a Dakota
+|glotto=dako1258
+|glottoname=Dakota
+|glotto2=lako1247
+|glottoname2=Lakota
+}}
+
+'''Sioux''' is a [[Siouan language]] spoken by over 30,000 [[Sioux]] in the United States and Canada, making it the fifth most spoken [[Indigenous languages of the Americas|indigenous language]] in the United States or Canada, behind [[Navajo language|Navajo]], [[Cree language|Cree]], [[Inuit languages]], and [[Anishinaabe language|Ojibwe]].<ref name="indiglang">{{cite web| publisher=yourdictionary.com| title=Indigenous Languages Spoken in the United States (by Language)| author=Estes, James| date=1999| url=http://www.yourdictionary.com/elr/natlang.html| access-date=2020-05-24}}</ref><ref name="censusCanada">[http://www12.statcan.ca/english/census06/data/topics/RetrieveProductTable.cfm?ALEVEL=3&APATH=3&CATNO=&DETAIL=0&DIM=&DS=99&FL=0&FREE=0&GAL=0&GC=99&GK=NA&GRP=1&IPS=&METH=0&ORDER=1&PID=89189&PTYPE=88971&RL=0&S=1&ShowAll=No&StartRow=1&SUB=705&Temporal=2006&Theme=70&VID=0&VNAMEE=&VNAMEF= Statistics Canada: 2006 Census] {{webarchive|url=https://web.archive.org/web/20131016163022/http://www12.statcan.ca/english/census06/data/topics/RetrieveProductTable.cfm?ALEVEL=3&APATH=3&CATNO=&DETAIL=0&DIM=&DS=99&FL=0&FREE=0&GAL=0&GC=99&GK=NA&GRP=1&IPS=&METH=0&ORDER=1&PID=89189&PTYPE=88971&RL=0&S=1&ShowAll=No&StartRow=1&SUB=705&Temporal=2006&Theme=70&VID=0&VNAMEE=&VNAMEF= |date=2013-10-16 }}</ref>
+
+Since 2019, "the language of the [[Great Sioux Nation]], {{sic|comprised |hide=y|of}} three dialects, Dakota, Lakota, and Nakota" is the official indigenous language of [[South Dakota]].<ref>{{cite web| publisher=[[Argus Leader]]| title=South Dakota recognizes official indigenous language| author=Kaczke, Lisa| date=March 25, 2019| url=https://eu.argusleader.com/story/news/politics/2019/03/22/south-dakota-recognizes-official-indigenous-language-governor-noem/3245113002/ |access-date=2020-05-24}}</ref><ref name=SDlegislature_amd126ca>South Dakota Legislature (2019): [https://sdlegislature.gov/docs/legsession/2019/Amendments/amd126ca.htm Amendment for printed bill 126ca]</ref>
+
+==Regional variation==
+[[File:Houghton 1273.51 - Dictionary of Sioux Language, p. 3.jpg|thumb|Page from ''Dictionary of the Sioux Language'', 1866]]
+Sioux has three major regional [[Variety (linguistics)|varieties]], with other sub-varieties:
+
+# '''[[Lakota language|Lakota]]''' ({{a.k.a.}} Lakȟóta, Teton, Teton Sioux)
+# '''[[Dakota language|Western Dakota]]''' (a.k.a. Yankton-Yanktonai or Dakȟóta, and erroneously classified, for a very long time, as "[[Nakota]]"<ref>for a report on the long-established error of the Yankton and the Yanktonai as "Nakota", see the article [[Nakota]]</ref>)
+#* Yankton (Iháŋktȟuŋwaŋ)
+#* Yanktonai (Iháŋktȟuŋwaŋna)
+# '''[[Dakota language|Eastern Dakota]]''' (a.k.a. Santee-Sisseton or Dakhóta)
+#* Santee (Isáŋyáthi: Bdewákhathuŋwaŋ, Waȟpékhute)
+#* Sisseton (Sisíthuŋwaŋ, Waȟpéthuŋwaŋ)
+
+Yankton-Yanktonai (Western Dakota) stands between Santee-Sisseton (Eastern Dakota) and Lakota within the dialect continuum. It is phonetically closer to Santee-Sisseton but lexically and grammatically, it is much closer to Lakota. For this reason Lakota and Western Dakota are much more mutually intelligible than each is with Eastern Dakota. The assumed extent of mutual intelligibility is usually overestimated by speakers of the language. While Lakota and Yankton-Yanktonai speakers understand each other to a great extent, they each find it difficult to follow  Santee-Sisseton speakers.
+
+Closely related to the Sioux language are the [[Assiniboine language|Assiniboine]] and [[Stoney language|Stoney]] languages, whose speakers use the self-designation term (autonym) ''Nakhóta'' or ''Nakhóda''. 
+
+===Comparison of Sioux and Nakota languages and dialects===
+
+====Phonetic differences====
+
+The following table shows some of the main phonetic differences between the regional varieties of the Sioux language. The table also provides comparison with the two closely related Nakota languages (Assiniboine and Stoney).<ref name="PD">{{Cite journal|last=Parks|first=Douglas R.|last2=DeMallie|first2=Raymond J.|date=1992|title=Sioux, Assiniboine, and Stoney Dialects: A Classification|jstor=30028376|journal=Anthropological Linguistics|volume=34|issue=1-4|pages=233–255}}</ref>
+
+{| class="wikitable"
+! align="center" colspan="5" width="90"|[[Sioux]]
+! align="center" colspan="1" width="90"|[[Assiniboine language|Assiniboine]]
+! align="center" colspan="1" width="90"|[[Stoney Language|Stoney]]
+! align="center" colspan="1" width="90"|gloss
+|-
+! align="center" colspan="1" width="90"|[[Lakota language|Lakota]]
+! align="center" colspan="2" width="180"|Western Dakota
+! align="center" colspan="2" width="180"|Eastern Dakota
+! align="center" colspan="1" width="90"|
+! align="center" colspan="1" width="90"|
+! align="center" colspan="1" width="90"|
+|-
+! align="center"|
+! align="center"|Yanktonai
+! align="center"|Yankton
+! align="center"|Sisseton
+! align="center"|Santee
+! align="center"|
+! align="center"|
+! align="center"|
+|-
+| align="center"|Lakȟóta
+| align="center" colspan="2"|Dakȟóta
+| align="center" colspan="2"|Dakhóta
+| align="center"|Nakhóta
+| align="center"|Nakhóda
+| align="center"|self-designation
+|-
+| align="center"|lowáŋ
+| align="center" colspan="2"|dowáŋ
+| align="center" colspan="2"|dowáŋ
+| align="center" colspan="2"|nowáŋ
+| align="center"|to sing
+|-
+| align="center"|ló
+| align="center" colspan="2"|dó
+| align="center" colspan="2"|dó
+| align="center" colspan="2"|nó
+| align="center"|assertion
+|-
+| align="center"|čísčila
+| align="center" colspan="2"|čísčina
+| align="center" colspan="2"|čístina
+| align="center"|čúsina
+| align="center"|čúsin
+| align="center"|small
+|-
+| align="center"|hokšíla
+| align="center" colspan="2"|hokšína
+| align="center"|hokšína
+| align="center"|hokšída
+| align="center" |hokšína
+| align="center" |hokšín
+| align="center"|boy
+|-
+| align="center"|gnayáŋ
+| align="center"|gnayáŋ
+| align="center"|knayáŋ
+| align="center" colspan="2"|hnayáŋ
+| align="center" |knayáŋ
+| align="center" |hna
+| align="center"|to deceive
+|-
+| align="center"|glépa
+| align="center"|gdépa
+| align="center"|kdépa
+| align="center" colspan="2"|hdépa
+| align="center" |knépa
+| align="center" |hnéba
+| align="center"|to vomit
+|-
+| align="center"|kigná
+| align="center"|kigná
+| align="center"|kikná
+| align="center" colspan="2"|kihná
+| align="center" |kikná
+| align="center" |gihná
+| align="center"|to soothe
+|-
+| align="center"|slayá
+| align="center" colspan="2"|sdayá
+| align="center" colspan="2"|sdayá
+| align="center" |snayá
+| align="center" |snayá
+| align="center"|to grease
+|-
+| align="center"|wičháša
+| align="center" colspan="2"|wičháša
+| align="center" colspan="2"|wičhášta
+| align="center" |wičhášta
+| align="center" |wičhá
+| align="center"|man
+|-
+| align="center"|kibléza
+| align="center" colspan="2"|kibdéza
+| align="center" colspan="2"|kibdéza
+| align="center" |kimnéza
+| align="center" |gimnéza
+| align="center"|to sober up
+|-
+| align="center"|yatkáŋ
+| align="center" colspan="2"|yatkáŋ
+| align="center" colspan="2"|yatkáŋ
+| align="center" |yatkáŋ
+| align="center" |yatkáŋ
+| align="center"|to drink
+|-
+| align="center"|hé
+| align="center" colspan="2"|hé
+| align="center" colspan="2"|hé
+| align="center" |žé
+| align="center" |žé
+| align="center"|that
+|}
+
+====Lexical differences====
+
+{|class="wikitable"
+! align="center" width="100" rowspan="2"|English gloss
+! align="center" width="100" rowspan="2"|Santee-Sisseton
+! align="center" width="100" rowspan="2"|Yankton-Yanktonai
+! align="center" colspan="2" width="200"|Lakota
+|-
+! align="center"|Northern Lakota
+! align="center"|Southern Lakota
+|-
+| align="center"|''child''
+| align="center"|šičéča
+| align="center"|wakȟáŋyeža
+| align="center" colspan="2"|wakȟáŋyeža
+|-
+| align="center"|''knee''
+| align="center"|hupáhu
+| align="center"|čhaŋkpé
+| align="center" colspan="2"|čhaŋkpé
+|-
+| align="center"|''knife''
+| align="center"|isáŋ / mína
+| align="center"|mína
+| align="center" colspan="2"|míla
+|-
+| align="center"|''kidneys''
+| align="center"|phakšíŋ
+| align="center"|ažúŋtka
+| align="center" colspan="2"|ažúŋtka
+|-
+| align="center"|''hat''
+| align="center"|wapháha
+| align="center"|wapȟóštaŋ
+| align="center" colspan="2"|wapȟóštaŋ
+|-
+| align="center"|''still''
+| align="center"|hináȟ
+| align="center"|naháŋȟčiŋ
+| align="center" colspan="2"|naháŋȟčiŋ
+|-
+| align="center"|''man''
+| align="center"|wičhášta
+| align="center"|wičháša
+| align="center" colspan="2"|wičháša
+|-
+| align="center"|''hungry''
+| align="center"|wótehda
+| align="center"|dočhíŋ
+| align="center" colspan="2"|ločhíŋ
+|-
+| align="center"|''morning''
+| align="center"|haŋȟ’áŋna
+| align="center"|híŋhaŋna
+| align="center"|híŋhaŋna
+| align="center"|híŋhaŋni
+|-
+| align="center"|''to shave''
+| align="center"|kasáŋ
+| align="center"|kasáŋ
+| align="center"|kasáŋ
+| align="center"|glak’óǧa
+|}
+
+==Writing systems==
+{{cleanup lang|date=September 2021}}
+In 1827, [[John Marsh (pioneer)|John Marsh]] and his wife, Marguerite (who was half Sioux), wrote the first dictionary of the Sioux language.  They also wrote a "Grammar of the Sioux Language."<ref>Winkley, John W.  ''Dr. John Marsh: Wilderness Scout,'' pp. 22-3, 35, The Partnenon Press, Nashville, Tennessee, 1962.</ref><ref>Lyman, George D.  ''John Marsh, Pioneer: The Life Story of a Trail-blazer on Six Frontiers,'' pp. 79-80, The Chautauqua Press, Chautauqua, New York, 1931.</ref>
+
+Life for the Dakota changed significantly in the nineteenth century as the early years brought increased contact with white settlers, particularly [[Christianity|Christian]] [[missionary|missionaries]]. The goal of the missionaries was to introduce the Dakota to Christian beliefs. To achieve this, the missions began to transcribe the Dakota language. In 1836, brothers Samuel and Gideon Pond, Rev. [[Stephen Return Riggs]], and Dr. Thomas Williamson set out to begin translating hymns and [[Bible]] stories into Dakota. By 1852, Riggs and Williamson had completed a Dakota Grammar and Dictionary (Saskatchewan Indian Cultural Center). Eventually, the entire Bible was translated.
+
+Today, it is possible to find a variety of texts in Dakota. Traditional stories have been translated, children's books, even games such as [[Pictionary]] and [[Scrabble]]. Despite such progress, written Dakota is not without its difficulties. The Pond brothers, Rev. Riggs, and Dr. Williamson were not the only missionaries documenting the Dakota language. Around the same time, missionaries in other Dakota bands were developing their own versions of the written language. Since the 1900s, professional [[linguist]]s have been creating their own versions of the [[orthography]]. The Dakota have also been making modifications. "Having so many different writing systems is causing confusion, conflict between our [the Dakota] people, causing inconstancy in what is being taught to students, and making the sharing of instructional and other materials very difficult" (SICC).
+
+Prior to the introduction of the [[Latin alphabet]], the Dakota did have a writing system of their own: one of representational [[pictograph]]s. In pictographic writing, a drawing represents exactly what it means. For example, a drawing of a dog literally meant a dog. Palmer writes that,
+
+{{quote|As a written language, it [pictographs] was practical enough that it allowed the Lakota to keep a record of years in their winter counts which can still be understood today, and it was in such common usage that pictographs were recognized and accepted by census officials in the 1880s, who would receive boards or hides adorned with the head of the household’s name depicted graphically. (pg. 34){{full citation needed|date=January 2019}}}}
+
+For the missionaries, however, documenting the Bible through pictographs was impractical and presented significant challenges.
+
+
+{| class="wikitable IPA" style="text-align:center;"
+|+ Comparative table of Dakota and Lakota orthographies<ref>Riggs, p. 13</ref>
+|-
+![[International Phonetic Alphabet|IPA]] || Buechel &<br>Manhart<br><small>spelling<br>(pronunciation)</small> || Standard orthography<ref>Orthography of the New Lakota Dictionary </ref> || Brandon<br>University || Deloria<br>& Boas || Dakota<br>Mission || Rood &<br>Taylor || Riggs || Williamson || University<br>of<br>Minnesota || White Hat || Txakini<br>Practical<ref>{{cite web| url=http://sioux.saivus.org/lakotaarticleorthographies.html| publisher=Society to Advance Indigenous Vernaculars of the United States| date=2011| title=Lakota orthographies| access-date=2020-05-24}}</ref>
+|-
+| ʔ || ´ || ´ || ʾ || ´ || <small>none</small> || ʼ || ´ || ´ || ´ || <small>none</small> || '
+|-
+| a || a || a || a || a || a || a || a ||  a || a || a || a
+|-
+| aː || a (á) || á || a || a || a || a || a || a || a || a || 'a<ref group="note" name="note1">Marks a stressed initial syllable</ref>
+|-
+| ã || an, an' (aη) || aŋ || an̄ || ą || an || ą || aŋ || aŋ || aŋ || aη || an
+|-
+| p~b || b || b || b || b || b || b || b || b || b || b || b
+|-
+| tʃ || c || č || c || c || c || č || ć || c || c || c̄ || c
+|-
+| tʃʰ || c (c, c̔) || čh || ć || cʽ || c || čh || ć̣ || c̣ || c || ċ<ref group="note" name="note2">Saskatchewan uses c̀ for White Hat's ċ</ref> || ch
+|-
+| tʃʼ || c’ || č’ || c̦ || c’ || c || čʼ || ć || c || c’ || ċ’<ref group="note" name="note2"/> || c'
+|-
+| t~d || <small>none</small> || <small>none</small> || d || d || d || d || d || d || d || d || d
+|-
+| e~ɛ || e || e || e || e || e || e || e ||e  || e || e || e
+|-
+| eː~ɛː || e (é) || é || e || e || e || e || e || e || e || e || 'e<ref group="note" name="note1"/>
+|-
+| k~ɡ || g || g || g || g || g || g || g || g || g || g || g
+|-
+| ʁ~ɣ || g (ġ) || ǧ || ǥ || ġ || g || ǧ || ġ || ġ || g || ġ || gx
+|-
+| h || h || h || h || h || h || h || h || h || h || h || h
+|-
+| χ || h̔ || ȟ || ħ || ḣ || r || ȟ || ḣ || ḣ || ḣ || ḣ || x
+|-
+| χʔ~χʼ || h’ (h̔’) || ȟ’ || ħ̦ || ḣ’ || r || ȟʼ || ḣ || ḣ || ḣ’ || ḣ’ || x'
+|-
+| i || i || i || i || i || i || i || i || i || i || i || i
+|-
+| iː || i (í) || í || i || i || i || i || i || i || i || i || 'i<ref group="note" name="note1"/>
+|-
+| ĩ || in, in' (iη) || iŋ || in̄ || į || in || į || iŋ || iŋ || iŋ || iη || in
+|-
+| k || k (k, k̇) || k || k || k || k || k || k || k || k || k || k
+|-
+| kʰ~kˣ || k || kh || k̔ || k‘ || k || kh || k || k || ḳ || k || kh
+|-
+| qˣ~kˠ || k (k̔) || kȟ || k̔ || k‘ || k || kh || k || k || ḳ || k̇ || kx
+|-
+| kʼ || k’ || k’ || ķ || k’ || q || kʼ || ḳ || ḳ || k’ || k’ || k'
+|-
+| l || l || l || <small>none</small> || l || <small>none</small> || l || l || l || <small>none</small> || l || l
+|-
+| lː || l´ || <small>none</small> || <small>none</small> || <small>none</small> || <small>none</small> || <small>none</small> || <small>none</small> || <small>none</small> || <small>none</small> || <small>none</small> || <small>none</small> 
+|-
+| m || m || m || m || m || m || m || m || m || m || m || m
+|-
+| n || n || n || n || n || n || n || n || n || n || n || n
+|-
+| ŋ || n || n || n || n || n || ň || n || n || n || n || ng
+|-
+| o || o || o || o || o || o || o || o || o || o || o || o
+|-
+| oː || o (ó) || ó || o || o || o || o || o || o || o || o || 'o<ref group="note" name="note1"/>
+|-
+| õ~ũ || on, on' (oη) || uŋ || un̄ || ų || on || ų || oŋ || oŋ || uŋ || uη || un
+|-
+| p || ṗ (p, ṗ) || p || p || p || p || p || p || p || p || p̄ || p
+|-
+| pʰ || p || ph || p̔ || p‘ || p || ph || p || p || p̣ || p || ph
+|-
+| pˣ~pˠ || p (p̔) || pȟ || p̔ || p‘ || p || ph || p || p || p̣ || ṗ || px
+|-
+| pʼ || p’ || p’ || p̦ || p’ || p || pʼ || p̣ || p̣ || p’ || p’ || p'
+|-
+| s || s || s || s || s || s || s || s || s || s || s || s
+|-
+| sʼ || s’ || s’ || ș || s’ || s || sʼ || s’|| s’ || s’ || s’ || s'
+|-
+| ʃ || š || š || š || ṡ || x, ś || š || ś || ṡ || ṡ || ṡ<ref group="note" name="note3">Saskatchewan uses s̀ for White Hat's ṡ</ref> || sh
+|-
+| ʃʔ~ʃʼ || š’ || š’ || ș̌ || ṡ’ || x, ś || š || ś’ || ṡ’ || ṡ’ || ṡ’<ref group="note" name="note3"/> || sh'
+|-
+| t || t (t, ṫ) || t || t || t || t || t || t || t || t || t || t
+|-
+| tʰ || t || th || tʿ || tʽ || t || th || t || t || ṭ || t || th
+|-
+| tˣ~tˠ || t (t̔) || tȟ || tʿ || tʽ || t || th || t || t || ṭ || ṫ || tx
+|-
+| tʼ || t’ || t’ || ţ || t’ || t || tʼ || ṭ || ṭ || t’ || t’ || t'
+|-
+| u || u || u || u || u || u || u || u || u || u || u || u
+|-
+| uː || u (ú) || ú || u || u || u || u || u || u || u || u || 'u<ref group="note" name="note1"/>
+|-
+| õ~ũ || un, un' (uη) || uŋ || un̄ || ų || un || ų || uŋ || uŋ || uŋ || uη || un
+|-
+| w || w || w || w || w || w || w || w || w || w || w || w
+|-
+| j || y || y || y || y || y || y || y || y || y || y || y
+|-
+| z || z || z || z || z || z || z || z || z || z || z || z
+|-
+| ʒ || j || ž || ž || z || j || ž || ź || ż || ż || j || zh
+|}
+<references group="note"/>
+
+==Structure==
+
+=== Phonology ===
+
+See [[Lakota language#Phonology|Lakota language – Phonology]] and [[Dakota language#Phonology|Dakota language – Phonology]].
+
+===Morphology===
+Dakota is an agglutinating language. It features suffixes, prefixes, and infixes. Each affix has a specific rule in Dakota. For example, the suffix –pi is added to the verb to mark the plurality of an animate subject (Shaw, pg. 10). "With respect to number agreement for objects, only animate objects are marked, and these by the verbal prefix wicha-" (Shaw, p.&nbsp;11). Also, there is no gender agreement in Dakota.
+
+Example of the use of ''–pi'':
+
+{{interlinear|indent=3
+|ma-khata
+|I-hot
+|"I am hot"}}
+
+{{interlinear|indent=3
+|khata-pi
+|{{no gloss|0}}-hot-PL
+|"they are hot"}}
+
+Example of the use of ''wicha-''
+
+{{interlinear|indent=3
+|wa-kte
+|{{no gloss|0}}-I-kill
+|"I kill him"}}
+
+{{interlinear|indent=3
+|wicha-wa-kte
+|them-I-kill
+|"I kill them"}}
+
+(Shaw, pg. 12)
+
+Infixes are rare in Dakota, but do exist when a statement features predicates requiring two "patients".
+
+Example of infixing:
+
+{{interlinear|indent=3
+|iye-checa → iye-ni-ma-checa
+|{to resemble} {} {I resemble you}
+|"you resemble me"}}
+
+{{interlinear|indent=3
+|iskola → i-ni-ma-skola
+|{be as small as} {} {I am as small as you}
+|"you are as small as I"}}
+
+===Syntax===
+Dakota has subject/object/ verb (SOV) word order. Along the same line, the language also has postpositions.
+Examples of word order:
+
+{{interlinear|indent=3
+|wichasta-g wax aksica-g kte
+|man-DET bear-DET kill
+|"the man killed the bear"}}
+
+{{interlinear|indent=3
+|wax aksicas-g wichasta-g kte
+|bear-DET man-DET kill
+|"the bear killed the man"}}
+
+(Shaw, pg. 10)
+
+According to Shaw, word order exemplifies grammatical relations.
+
+In Dakota, the verb is the most important part of the sentence. There are many verb forms in Dakota, although they are "dichotomized into a stative-active classification, with the active verbs being further subcategorized as transitive or intransitive" (Shaw, p.&nbsp;11). Some examples of this are:
+
+# stative:
+#*ma-khata	"I am hot" (I-hot)
+#*ni-khata	"you are hot" (you-hot)
+#*khata		"he/she/it is hot" (0-hot)
+#*u-khata		"we (you and I) are hot" (we-hot)
+#*u-khata-pi	"we (excl. or pl) are hot" (we-hot-pl.)
+#*ni-khata-pi	"you (pl.) are hot" (you-hot-pl.)
+#*khata-pi	"they are hot" (0-hot-pl.)
+# active intransitive
+#*wa-hi		"I arrive (coming)" (I-arrive)
+#*ya-hi		"you arrive" (you-arrive)
+#*hi		"he arrives"
+#*u-hi		"we (you and I) arrive"
+#*u-hi-pi		"we (excl. or pl.) arrive"
+#*ya-hi-pi	"you (pl.) arrive"
+#*hi-pi		they arrive"
+# active transitive
+#*wa-kte		"I kill him" (0-I-kill)
+#*wicha-wa-kte	"I kill them" (them-I-kill)
+#*chi-kte	"I kill you" (I-you (portmanteau)- kill)
+#*ya-kte		"you kill him" (0-you-kill)
+#*wicha-ya-kte	"you kill them" (them- you-kill)
+#*wicha-ya-kte-pi	"you (pl.) kill them"
+#*ma-ya-kte	"you kill me" (me-you-kill)
+#*u-ya-kte-pi	"you kill us" (we-you-kill-pl.)
+#*ma-ktea	"he kills me" (0-me-kill-pl.)
+#*ni-kte-pi	"they kill you" (0-you-kill-pl.)
+#*u-ni-kte-pi	"we kill you" (we-you-kill-pl.)
+#*wicha-u-kte	"we (you and I) kill them" (them-we-kill)
+(Shaw, pp.&nbsp;11–12)
+
+The phonology, morphology, and syntax of Dakota are very complex. There are a number of broad rules that become more and more specific as they are more closely examined. The components of the language become somewhat confusing and more difficult to study as more sources are examined, as each scholar has a somewhat different opinion on the basic characteristics of the language.
+
+==Notes==
+{{Reflist}}
+
+==Bibliography==
+* ''Bismarck Tribune''. (2006, March 26). Scrabble helps keep Dakota language alive. Retrieved November 30, 2008, from [https://web.archive.org/web/20081021053923/http://www.bismarcktribune.com/articles/2006/03/26/news/state/112172.txt]
+* Catches, Violet (1999?). ''Txakini-iya Wowapi''.  Lakxota Kxoyag Language Preservation Project.
+* DeMallie, Raymond J. (2001). "The Sioux until 1850". In R. J. DeMallie (Ed.), ''Handbook of North American Indians: Plains'' (Vol. 13, Part 2, pp.&nbsp;718–760). W. C. Sturtevant (Gen. Ed.). Washington, D.C.: Smithsonian Institution. {{ISBN|0-16-050400-7}}.
+* de Reuse, Willem J. (1987). One hundred years of Lakota linguistics (1887–1987). ''Kansas Working Papers in Linguistics'', ''12'', 13–42. (Online version: https://kuscholarworks.ku.edu/dspace/handle/1808/509).
+* de Reuse, Willem J. (1990). A supplementary bibliography of Lakota languages and linguistics (1887–1990). ''Kansas Working Papers in Linguistics'', ''15'' (2), 146–165. (Studies in Native American languages 6). (Online version: https://kuscholarworks.ku.edu/dspace/handle/1808/441).
+*Eastman, M. H. (1995). ''Dahcotah or, life and legends of the Sioux around Fort Snelling''. Afton: Afton Historical Society Press.
+*Howard, J. H. (1966). ''Anthropological papers number 2: the Dakota or Sioux Indians: a study in human ecology''. Vermillion: Dakota Museum.
+*Hunhoff, B. (2005, November 30). "It's safely recorded in a book at last". ''South Dakota Magazine'': Editor's Notebook. Retrieved November 30, 2008, from [https://web.archive.org/web/20080923071846/http://www.southdakotamagazine.com/editors_notebook.php?m=200511]
+*McCrady, D.G. (2006). ''Living with strangers: the nineteenth-century Sioux and the Canadian-American borderlands''. Lincoln: University of Nebraska Press.
+*Palmer, J.D. (2008). ''The Dakota peoples: a history of the Dakota, Lakota, and Nakota through 1863''. Jefferson: McFarland & Company, Inc., Publishers.
+*Parks, D.R. & DeMallie, R.J. (1992). "Sioux, Assiniboine, and Stoney Dialects: A Classification". ''Anthropological Linguistics'' vol. 34, nos. 1-4
+* Parks, Douglas R.; & Rankin, Robert L. (2001). "The Siouan languages". In ''Handbook of North American Indians: Plains'' (Vol. 13, Part 1, pp.&nbsp;94–114). Washington, D.C.: Smithsonian Institution.
+*Riggs, S.R., & Dorsey, J.O. (Ed.). (1973). ''Dakota grammar, texts, and ethnography''. Minneapolis: Ross & Haines, Inc.
+*Robinson, D. (1956). ''A history of the Dakota or Sioux Indians: from their earliest traditions and first contact with white men to the final settlement of the last of 	them upon reservations and the consequent abandonment of the old tribal life''. Minneapolis: Ross & Haines, Inc.
+*Rood, David S.; & Taylor, Allan R. (1996). "Sketch of Lakhota, a Siouan language". In ''Handbook of North American Indians: Languages'' (Vol. 17, pp.&nbsp;440–482). Washington DC: Smithsonian Institution.
+*Saskatchewan Indian Cultural Center. ''Our languages: Dakota Lakota Nakota''. Retrieved November 30, 2008. Web site: [https://web.archive.org/web/20051218090725/http://www.sicc.sk.ca/heritage/sils/ourlanguages/dnl.html]
+*Shaw, P.A. (1980). ''Theoretical issues in Dakota phonology and morphology''. New York: Garland Publishing, Inc.
+*Utley, R.M. (1963). ''The last days of the Sioux nation''. New Haven: Yale University Press.
+
+==External links==
+*[https://lakotalanguagereclamationproject.com/ Lakota Language Reclamation Project] - "Open sourcing the People's language for all Lakota and Dakota people and our allies"
+* [https://web.archive.org/web/20051218090725/http://www.sicc.sk.ca/heritage/sils/ourlanguages/dnl.html Our Languages: Dakota, Nakota, Lakota] (Saskatchewan Indian Cultural Centre)
+* [http://www.lakotalanguageproject.org/resources.html Red Cloud Indian School Lakota Language Project]
+
+{{Siouan languages}}
+
+{{DEFAULTSORT:Sioux Language}}
+[[Category:Sioux culture]]
+[[Category:Western Siouan languages]]
+[[Category:Indigenous languages of Minnesota]]

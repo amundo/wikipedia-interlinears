@@ -1,0 +1,516 @@
+{{Short description|Indo-Aryan language native to Sri Lanka}}
+{{cleanup lang|date=March 2021}}
+{{EngvarB|date=October 2015}}
+{{Use dmy dates|date=March 2015}}
+{{Infobox language
+|name= Sinhala
+|image=සිංහල in Noto Serif Sinhala Black.svg
+|nativename={{lang|si|සිංහල|சிங்களம்}}<br>''Siṁhala''
+|pronunciation={{IPA-si|ˈsiŋɦələ|IPA}}
+|states = [[Sri Lanka]] 
+|ethnicity = [[Sinhalese people]]
+|speakers = {{sigfig|17|2}} million
+|date     = 2012
+|ref      =<ref name=ethnologuesinhala>{{Cite web|url=https://www.ethnologue.com/language/sin|title=Sinhala|work=Ethnologue|access-date=2017-04-06}}</ref>
+|speakers2=3 million [[L2 speakers]] (2012)<ref name=ethnologuesinhala/>
+|familycolor=Indo-European
+|fam2=[[Indo-Iranian languages|Indo-Iranian]]
+|fam3=[[Indo-Aryan languages|Indo-Aryan]]
+|fam4=[[Indo-Aryan languages#Southern Zone|Southern Zone]]
+|fam5=[[Indo-Aryan languages#Insular Indic|Insular Indic]]
+|ancestor=[[Elu]]
+|dia1=[[Vedda language|Vedda]] (perhaps a [[Creole language]])
+|script={{plainlist|
+*[[Sinhala script]]
+*[[Sinhala Braille]] ([[Bharati Braille]])}}
+|nation={{flag|Sri Lanka}}
+|iso1=si
+|iso2=sin
+|iso3=sin
+|lingua=59-ABB-a
+|glotto=sinh1246
+|glottorefname=Sinhala
+|notice=Indic
+|notice2=IPA
+}}
+
+<!-- The current decision is to call the language "Sinhala".. Do not change this without discussion and consensus on the talk page! -->
+'''Sinhala''' ({{IPAc-en|ˈ|s|ɪ|n|h|ə|l|ə|,_|ˈ|s|ɪ|ŋ|ə|l|ə}} {{respell|SIN|hə|lə|,_|SING|ə|lə}};<ref>{{cite LPD|3}}</ref> {{lang|si|සිංහල}}, ''siṁhala'', {{IPA-si|ˈsiŋɦələ|}}),<ref>Laurie Bauer, 2007, ''The Linguistics Student's Handbook''</ref> ({{IPAc-en|ˌ|s|ɪ|n|(|h|)|ə|ˈ|l|iː|z|,_|ˌ|s|ɪ|ŋ|(|ɡ|)|ə|-}}) is an [[Indo-Aryan languages|Indo-Aryan language]] primarily spoken by the [[Sinhalese people]] of [[Sri Lanka]], who make up the largest ethnic group on the island, numbering about 16 million.<ref>{{Cite web|url=http://www.statistics.gov.lk/PopHouSat/CPH2011/index.php?fileName=pop42&gp=Activities&tpl=3|title=Census of Population and Housing 2011|website=www.statistics.gov.lk|access-date=2017-04-06}}</ref><ref name="ethnologuesinhala"/> Sinhala is also spoken as the first language by other ethnic groups in Sri Lanka, totaling about 4 million people as of 2001.<ref>{{cite web|url=http://www.statistics.gov.lk/PopHouSat/PDF/Population/p9p11%20Speaking.pdf |title=Census of Population and Housing 2001 |publisher=Statistics.gov.lk |access-date=16 November 2013}}</ref> It is written using the [[Sinhala script]], which is one of the [[Brahmic scripts]]; a descendant of the ancient Indian [[Brahmi script]] closely related to the [[Kadamba script]].<ref name="auto2">{{Cite book|url=https://books.google.com/books?id=fcQSAAAAMAAJ|title=History of the Evolution of the Sinhala Alphabet|last=Jayarajan|first=Paul M.|date=1976-01-01|publisher=Colombo Apothecaries' Company, Limited|language=en}}</ref>
+
+Sinhala is one of the official and national languages of Sri Lanka. Along with [[Pali]], it played a major role in the development of [[Theravada|Theravada Buddhist]] literature.<ref name="ethnologuesinhala"/>
+
+The oldest [[Elu|Sinhala Prakrit]] inscriptions found are from the third to second century BCE following the [[Buddhism in Sri Lanka#Introduction of Buddhism to the island|arrival of Buddhism in Sri Lanka]],<ref>{{cite book|last=Danesh Jain, George Cardona|title=Indo-Aryan Languages|publisher=Routledge|page=847}}</ref> while the oldest extant literary works date from the ninth century. The closest relatives are the [[Vedda language]] (an endangered, indigenous creole still spoken by a minority of Sri Lankans, mixing Sinhala with an isolate of unknown origin and from which Old Sinhala borrowed various aspects into its main Indo-Aryan substrate), and the [[Maldivian language]].
+It has two main varieties, written and spoken, and is a conspicuous example of the linguistic phenomenon known as [[diglossia]].<ref>{{Cite journal|last=Paolillo|first=John C.|date=1997|title=Sinhala Diglossia: Discrete or Continuous Variation?|journal=Language in Society|volume=26|issue=2|pages=269–296|issn=0047-4045|jstor=4168764|doi=10.1017/S0047404500020935}}</ref><ref>{{Cite journal|last=Gair|first=James W.|date=1968|title=Sinhalese Diglossia|journal=Anthropological Linguistics|volume=10|issue=8|pages=1–15|issn=0003-5483|jstor=30029181}}</ref>
+
+[[File:New Sinhala Alphabet.jpg|thumb|Letters of the [[Sinhala script]].]]
+
+== Etymology ==
+{{main|Names of Sri Lanka#Sinhala}}
+''Sinhala'' ({{IAST|Siṃhala}}) is a [[Sanskrit]] term; the corresponding [[Middle Indo-Aryan languages|Middle Indo-Aryan]] ([[Elu|Eḷu]]) word is ''Sīhala''.
+The name is a derivation from ''{{IAST|[[:wikt:सिंह|siṃha]]}}'', the Sanskrit word for "lion".<ref>{{Cite journal| last=Caldwell | first=Robert | author-link=Robert Caldwell | title=A comparative grammar of the Dravidian or South-Indian Family of Languages | publisher=Trübner & Co. | place=London|year=1875|page=86}}</ref> ''{{IAST|Siṃhala}}'' is attested as a Sanskrit name of the island in the ''[[Bhagavata Purana]]''.{{citation needed|date=May 2020}} The name is sometimes glossed as "abode of lions", and attributed to a supposed former abundance of [[lion]]s on the island.<ref>{{cite journal|title=Chinese Account of Ceylon|journal=The Asiatic Journal and Monthly Register for British and Foreign India, China, and Australia|date=1836|volume=20|page=30}}</ref>
+
+== History ==
+According to the chronicle ''[[Mahavansa]]'', written in [[Pali]], Vanga kingdom's [[Prince Vijaya]] and his entourage merged with the [[Veddha|Yakkha]] and later settlers from the [[Pandya dynasty|Pandya kingdom]].<ref>{{cite web |url=http://mahavamsa.org/mahavamsa/original-version/06-coming-vijaya/ |title=The Coming of Vijaya |work=The Mahavamsa|date=8 October 2011 }}</ref><ref>{{Cite web|url=https://mahavamsa.org/mahavamsa/original-version/07-consecrating-vijaya/|title=The Consecrating of Vijaya - the island of Lanka - Kuvani|date=8 October 2011}}</ref><ref>Gananath Obeyesekere, “Buddhism, ethnicity and Identity: A problem of Buddhist History,” in “Journal of Buddhist Ethics”, 10, (2003): 46 https://blogs.dickinson.edu/buddhistethics/files/2010/04/Obeyesekere.pdf</ref> In the following centuries, there was substantial immigration from Eastern India ([[Vanga Kingdom]] (Bengal), [[Kalinga (historical kingdom)|Kalinga]], [[Magadha]])<ref>{{cite web|url=http://www.lankalibrary.com/books/sinhala_history.htm |title=WWW Virtual Library Sri Lanka : Sri Lanka: A Short History of Sinhala Language |publisher=Lankalibrary.com |access-date=16 November 2013}}</ref> which led to an admixture of features of Eastern Prakrits.{{Citation needed|date=April 2009}}
+
+=== Stages of historical development ===
+The development of Sinhala is divided into four periods:
+* [[Elu|Sinhala Prakrit]] (until 3rd century CE)
+* Proto-Sinhala (3rd–7th century CE)
+* Medieval Sinhala (7th–12th century CE)
+* Modern Sinhala (12th century – present)
+
+=== Phonetic development ===
+The most important phonetic developments of Sinhala include:
+* the loss of the [[aspirated consonant|aspiration]] distinction (e.g. ''kanavā'' "to eat" corresponds to Sanskrit ''khādati'', Hindustani ''khānā'')
+* the loss of a [[vowel length]] distinction; long vowels in the modern language are due to [[loanword]]s (e.g. {{Lang|si|vibāgaya}} "exam" < Sanskrit ''vibhāga'') and [[sandhi]], either after [[elision]] of [[Intervocalic consonant]]s (e.g. {{Lang|si|dānavā}} "to put" < ''damanavā'') or in originally [[Compound (linguistics)|compound]] words.
+* the simplification of [[consonant cluster]]s and [[Gemination|geminate consonants]] into geminates and single consonants respectively (e.g. Sanskrit ''viṣṭā'' "time" > Sinhalese Prakrit ''viṭṭa'' > Modern Sinhala ''viṭa'')
+* development of {{IPA|/j/}} to {{IPA|/d/}} (e.g. ''däla'' "web" corresponds to Sanskrit ''jāla'')
+
+=== Western vs. Eastern Prakrit features ===
+An example for a Western feature in Sinhala is the retention of initial {{IPA|/v/}} which developed into {{IPA|/b/}} in the Eastern languages (e.g. Sanskrit ''viṃśati'' "twenty", Sinhala ''visi-'', Hindi ''bīs''). An example of an Eastern feature is the ending -e for masculine nominative singular (instead of Western -o) in Sinhalese Prakrit. There are several cases of vocabulary [[Doublet (linguistics)|doublets]], e.g. the words ''mässā'' ("fly") and ''mäkkā'' ("flea"), which both correspond to Sanskrit ''makṣikā'' but stem from two regionally different Prakrit words ''macchiā'' and ''makkhikā'' (as in [[Pali]]).
+
+=== Pre-1815 Sinhalese literature ===
+<!-- The use of the word "Sinhalese" in this section is appropriate because the language was known as "Sinhalese" or "Singhalese" before the mid 20th century. -->
+In 1815 the island of Ceylon came under [[Sri Lanka#British rule|British rule]]. During the career of [[Christopher Reynolds (linguist)|Christopher Reynolds (1922–2015)]] as a Sinhalese lecturer at the [[SOAS, University of London]], he extensively researched the Sinhalese language and its pre-1815 literature: the Sri Lankan government awarded him the [[Sri Lanka Ranjana]] medal for this. He wrote the 377-page ''An anthology of Sinhalese literature up to 1815'', selected by the [[UNESCO]] National Commission of Ceylon<ref>{{cite journal|title=UNESCO Collection of Representative Works, Sinhalese Series|journal= Bulletin of the School of Oriental and African Studies|publisher= George Allen and Unwin Limited|location= London|date= 1970 |volume= 34|issue= 3|pages= 623–624|doi= 10.1017/S0041977X00128812|url=http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=4090792|last1= Gombrich|first1= Richard}}</ref>
+
+=== Substratum influence in Sinhala ===
+According to [[Wilhelm Geiger]], Sinhala has features that set it apart from other Indo-Aryan languages. Some of the differences can be explained by the substrate influence of the parent stock of the [[Vedda language]].<ref>{{Harvnb|Gair|1998|page=4}}</ref> Sinhala has many words that are only found in Sinhala, or shared between Sinhala and Vedda and not etymologically derivable from Middle or Old Indo-Aryan. Common examples are ''kola'' for leaf in Sinhala and Vedda, ''dola'' for pig in Vedda and offering in Sinhala. Other common words are ''rera'' for wild duck, and ''gala'' for stones (in [[toponyms]] used throughout the island).<ref name=v230>{{Harvnb|Van Driem|2002|page=230}}</ref> There are also high frequency words denoting body parts in Sinhala, such as ''olluva'' for head, ''kakula'' for leg, ''bella'' for neck and ''kalava'' for thighs, that are derived from pre-Sinhalese languages of Sri Lanka.<ref name=I45>{{Harvnb|Indrapala|2007|page=45}}</ref> The author of the oldest Sinhala grammar, ''Sidatsangarava'', written in the 13th century CE, recognised a category of words that exclusively belonged to early Sinhala. The grammar lists ''naramba'' (to see) and ''kolamba'' (fort or harbour) as belonging to an indigenous source. ''Kolamba'' is the source of the name of the commercial capital [[Colombo]].<ref>{{Harvnb|Indrapala|2007|page=70}}</ref><ref>{{Harvnb|Gair|1998|page=5}}</ref>
+
+=== Influences from neighbouring languages ===
+In addition to many [[List of Sinhala words of Tamil origin|Tamil loanwords]], several phonetic and grammatical features present in neighbouring [[Dravidian languages]], setting today's spoken Sinhala apart from its Northern Indo-Aryan siblings, bear witness to the close interactions with Dravidian speakers. Some of the features that may be traced to Dravidian influence are –
+* the distinction between short e, o and long ē, ō
+* the loss of aspiration
+* [[Branching (linguistics)|left-branching syntax]]
+* the use of the [[attributive verb]] of ''kiyana'' "to say" as a subordinating [[conjunction (grammar)|conjunction]] with the meanings "that" and "if", e.g.:
+
+{{interlinear|indent=4
+|top= {{Lang|si|ඒක අලුත් කියලා මම දන්නවා}}
+|ēka aḷut kiyalā mama dannavā
+| it new having-said I know
+|"I know that it is new."}}
+
+{{interlinear|indent=4
+|top= {{Lang|si|ඒක අලුත් ද කියලා මම දන්නේ නැහැ}}
+|ēka aḷut-da kiyalā mama dannē nähä
+|it new-? having-said I know-EMP not
+|"I do not know whether it is new."}}
+
+=== European influence ===
+As a result of centuries of colonial rule, interaction, settlement, intermarriage and assimilation, modern Sinhala contains many [[List of Portuguese words in Sinhala|Portuguese]], [[List of Dutch words in Sinhala|Dutch]] and [[List of Sinhala words of English origin|English loanwords]].
+
+=== Influences on other languages ===
+[[Macanese Patois]] or Macau Creole (known as ''Patuá'' to its speakers) is a [[creole language]] derived mainly from [[Malay language|Malay]], Sinhala, [[Cantonese]], and [[Portuguese language|Portuguese]], which was originally spoken by the [[Macanese people]] of the [[Kingdom of Portugal|Portuguese]] colony of [[Macau]]. It is now spoken by a few families in Macau and in the Macanese [[diaspora]].
+
+The language developed first mainly among the descendants of Portuguese settlers who often married women from [[Malacca]] and [[Sri Lanka]] rather than from neighbouring [[China]], so the language had strong Malay and Sinhala influence from the beginning.
+
+== Accents and dialects ==
+The Sinhala language has different types of variations which are commonly identified as 'dialects and accents'. Among those variations, '''<nowiki/>'regional variations'''<nowiki/>' are prominent. Some of the well-known regional variations of Sinhala language are:<ref name=":0">{{Cite book|title=Gove basa|last=Kahandgamage|first=Sandya|publisher=Sarasavi|year=2011|location=Nugegoda}}</ref>
+
+# The [[Uva Province]] variation (Monaragala, Badulla).
+# The southern variation (Matara, Galle).
+# The up-country variation (Kandy, Matale).
+# The Sabaragamu variation (Kegalle, Balangoda).
+
+===Uva regional variation in relation to grammar===
+People from Uva province also have a unique linguistic variation in relation to the pronunciation of words. In general, Sinhala singular words are pluralized by adding suffixes like '''O''', '''hu''', '''wal''' or '''waru'''. But when it comes to Monaragala, the situation is somewhat different as when nouns are pluralized a nasal sound is added.<ref name=":0" />
+
+{| class="wikitable"
+!General way of pluralizing Sinhala words
+!The way Uva people pluralize words
+|-
+|kàntawa                       kantàw'''ò'''
+
+(woman)                    (women)
+
+'''   ǝ                               ò'''
+|lindha                           lindha'''+n'''
+
+  (well)                          = lindh'''an''' (wells)                                                  
+|-
+|potǝ                              pot
+
+(book)                          (books)
+
+'''  ǝ                                        Ø'''
+|oya                                  oya+'''n'''
+
+                                       = oy'''an'''
+
+(stream)                          (streams)
+|-
+|lindhǝ                  lindhǝ+'''wal'''  (well)                              
+
+'''  ǝ                                     +  wal      '''   
+|
+|}
+                                                                                                        
+
+===Southern variation===
+The Kamath language (an indigenous language of paddy culture) used by the Southerners is somewhat different from the ‘Kamath language’ used in other parts (Uva, Kandy) of Sri Lanka as it is marked with a systematic variation; ‘boya’ at the end of the majority of nouns as the examples below show.<ref name=":0" />
+
+'''Crops:''' ‘Kurakkan '''boya'''’ (bran)
+
+            ‘Rambakan '''boya'''’ (banana)
+
+'''Tools:''' ‘Thattu '''boya’''' (bucket)
+
+'''Other words:''' ‘Nivahan boya’ (home)
+
+Here the particular word ‘boya’ means ‘a little’ in the Southern region and at the end of most of nouns, 'boya' is added regularly. This particular word 'boya' is added to most words by the Southern villages as a token of respect towards the things (those things can be crops, tools etc.) they are referring to.
+
+===Kandy, Kegalle and Galle people===
+{| class="wikitable"
+|+ The contrast among the regional variations used by Kandy, Kegalle and Galle people in relation to pronunciation<ref name=":0" />
+!The common Sinhala variation
+!Different regional variations of Sinhala language
+!Notes
+|-
+|Ayye heta wapuranna enwada?
+
+(Elder Brother, Are you coming to sow tomorrow?)
+|'''Ayya''' heta '''wapuranta''' enawada? (Kandy)
+
+'''Ayye''' heta '''wapuranda''' enawada? (Kegalle)
+
+'''Ayye''' heta wapuranna '''enawai'''? (Galle)
+|Here the Kandy people say ‘Ayya’ while the Kegalle and Galle people say ‘Ayye’.
+
+Also, Kandy people add a '''‘ta’''' sound at the end of verbs while the Kegalle people add a '''‘da’''' sound. But Galle people's regional variation is not visible in relation to this particular verb; ‘wapuranawa’ (to sow). Yet their unique regional variation is visible in relation to the second verb which is ‘enawai’ (coming) as they add ‘'''ai'''’ at the end of most verbs.
+|}
+Even though the Kandy, Kegalle and Galle people pronounce words with slight differences, the Sinhalese can understand the majority of the sentences.
+
+===Diglossia===
+In Sinhala there is distinctive [[diglossia]], as in many languages of South Asia. The [[literary language]] and the [[spoken language]] differ from each other in many aspects. The written language is used for all forms of [[Literature|literary texts]] but also orally at formal occasions (public speeches, TV and radio news broadcasts, etc.), whereas the spoken language is used as the language of communication in everyday life (see also [[Sinhala slang]] and [[colloquialism]]). As a rule the literary language uses more [[Sanskrit]]-based words.
+
+Sinhala diglossia can also be described in terms of informal and formal varieties. The variety used for formal purposes is closer to the written/literary variety, whereas the variety used for informal purposes is closer to the spoken variety. It is also used in some modern literature (e.g. Liyanage Amarakeerthi's ''Kurulu Hadawatha'').
+
+The most important difference between the two varieties is the lack of [[Inflection|inflected]] [[verb]] forms in the spoken language.
+
+The children are taught the written language at school almost like a [[foreign language]].
+
+Sinhala also has diverse [[slang]]. Most slang words and terms were regarded as taboo and most were frowned upon as non-scholarly. However, nowadays Sinhala slang words and terms, even the ones with sexual references, are commonly used among younger Sri Lankans.
+
+== Writing system ==
+{{Main|Sinhala script|Sinhala Braille}}[[File:ආයුබෝවන් in Noto Sans Sinhala.svg|thumb|{{Lang|si|ආයුබෝවන්}} (''āyubōvan'') means "welcome", literally wishing one a long life]]
+[[Sinhala script]], ''Sinhala hodiya'', is based on the ancient [[Brahmi script]], as are most Indian scripts. Sinhala script is closely related to [[South India]]n [[Grantha script]] and [[Khmer script]] taken the elements from the related [[Kadamba script]].<ref>{{Cite web|url=http://www.ancientscripts.com/sinhala.html|title=Ancient Scripts: Sinhala|website=www.ancientscripts.com|access-date=2016-04-07}}</ref><ref name="auto2"/>
+
+The writing system for Sinhala is an [[abugida]], where the consonants are written with letters while the vowels are indicated with [[diacritic]]s (''pilla'') on those consonants, unlike English where both consonants and vowels are full letters, or Urdu where vowels need not be written at all. Also, when a diacritic is not used, an "inherent vowel", either {{IPA|/a/}} or {{IPA|/ə/}}, is understood, depending on the position of the consonant within the word. For example, the letter ක ''k'' on its own indicates ''ka'', either {{IPA|/ka/}} or {{IPA|/kə/}}. The various vowels are written කා {{IPA|/kaː/}}, කැ {{IPA|/kæ/}}, කෑ {{IPA|/kæː/}} (after the consonant), කි {{IPA|/ki/}}, කී {{IPA|/kiː/}} (above the consonant), කු {{IPA|/ku/}}, කූ {{IPA|/kuː/}} (below the consonant), කෙ {{IPA|/ke/}}, කේ {{IPA|/keː/}} (before the consonant), කො {{IPA|/ko/}}, කෝ {{IPA|/koː/}} (surrounding the consonant). There are also a few diacritics for consonants, such as {{IPA|/r/}} in special circumstances, although the tendency nowadays is to spell words with the full letter ර {{IPA|/r/}}, plus either a preceding or following ''hal kirima''. One word that is still spelt with an "r" diacritic is ශ්‍රී, as in ශ්‍රී ලංකාව (Sri Lankāwa). The "r" diacritic is the curved line under the first letter ("ශ": "ශ්‍ර"). A second diacritic, this time for the vowel sound {{IPA|/iː/}} completes the word ("ශ්‍ර": "ශ්‍රීී"). For simple {{IPA|/k/}} without a vowel, a vowel-cancelling diacritic ([[virama]]) called හල් කිරීම {{IPA|/hal kiriːmə/}} is used: ක් {{IPA|/k/}}. Several of these diacritics occur in two forms, which depend on the shape of the consonant letter. Vowels also have independent letters but these are only used at the beginning of words where there is no preceding consonant to add a diacritic to.
+
+The complete script consists of about 60 letters, 18 for vowels and 42 for consonants. However, only 57 (16 vowels and 41 consonants) are required for writing colloquial spoken Sinhala (''suddha Sinhala''). The rest indicate sounds that have been merged in the course of linguistic change, such as the aspirates, and are restricted to [[Sanskrit]] and [[Pali]] loan words. One letter (ඦ), representing the sound /ⁿd͡ʒa/, is attested although no words using this letter are attested.
+
+Sinhala is written from left to right and Sinhala script is mainly used for Sinhala, as well as the liturgical languages [[Pali]] and [[Sanskrit]]. The alphabetic sequence is similar to those of other Brahmic scripts:
+
+{{block indent|''a/ā æ/ǣ i/ī u/ū [ŗ] e/ē [ai] o/ō [au] k [kh] g [gh] ṅ c [ch] j [jh] [ñ] ṭ [ṭh] ḍ [ḍh] [ṇ] t [th] d [dh] n p [ph] b [bh] m y r l v [ś ṣ] s h [ḷ] f''}}
+
+== Phonology ==
+[[File:Sinhalese vowel chart.svg|thumb|upright=1.13|Sinhala vowel chart, from {{Harvcoltxt|Perera|Jones|1919|p=5}}]]
+Sinhala has so-called [[prenasalized consonant]]s, or 'half nasal' consonants. A short [[Homorganic consonants|homorganic]] nasal occurs before a voiced stop, it is shorter than a sequence of nasal plus stop. The nasal is syllabified with the onset of the following syllable, which means that the [[mora (linguistics)|moraic weight]] of the preceding syllable is left unchanged. For example, ''tam̆ba'' 'copper' contrasts with ''tamba'' 'boil'.{{external media
+| float  = right
+| audio1 = [https://www.youtube.com/watch?v=QgOVg0hsGVM "The Sound of the Sinhala language" (ILoveLanguages!)] }}
+
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]/<br>[[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}} || {{IPA link|n}} || || {{IPA link|ɲ}}|| {{IPA link|ŋ}} ||
+|-
+! rowspan="3" | [[Stop consonant|Stop]]/<br>[[Affricate]] || <small>voiceless</small>
+| {{IPA link|p}} || {{IPA link|t̪|t}} || {{IPA link|ʈ}} || {{IPA link|tʃ}} || {{IPA link|k}} ||
+|-
+! <small>voiced</small>
+| {{IPA link|b}} || {{IPA link|d̪|d}} || {{IPA link|ɖ}} || {{IPA link|dʒ}} || {{IPA link|ɡ}} ||
+|-
+! <small>prenasalised</small>
+| {{IPA|ᵐb}} || {{IPA|ⁿd}} || {{IPA|ᶯɖ}} || || {{IPA|ᵑɡ}} ||
+|-
+! colspan="2" | [[Fricative consonant|Fricative]]
+| ({{IPA link|f}}~{{IPA link|ɸ}}) || {{IPA link|s}} || || ({{IPA link|ʃ}}) || || {{IPA link|h}}
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+| || {{IPA link|r}} || ||  || ||
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+| {{IPA link|ʋ}} || {{IPA link|l̪|l}} ||
+| {{IPA link|j}} || ||
+|}
+
+/f~ɸ/ and /ʃ/ are restricted to loans, typically English or Sanskrit. They are commonly replaced by /p/ and /s/ respectively in colloquial speech. Some speakers use the [[voiceless labiodental fricative]] [f], as in English, and some use the [[voiceless bilabial fricative]] [ɸ] due to its similarity to the native [[voiceless bilabial stop]] /p/.
+
+{|class="wikitable" style="text-align: center;"
+! rowspan="2" |
+! colspan="2" | [[Front vowel|Front]]
+! colspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! <small>short</small>
+! <small>long</small>
+! <small>short</small>
+! <small>long</small>
+! <small>short</small>
+! <small>long</small>
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i̞|i}}
+| {{IPA link|iː}}
+|
+|
+| {{IPA link|u̞|u}}
+| {{IPA link|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e̞|e}}
+| {{IPA link|e̞|eː}}
+| {{IPA link|ə}}
+| ({{IPA link|ə|əː}})
+| {{IPA link|o̞|o}}
+| {{IPA link|o̞|oː}}
+|-
+! [[Open vowel|Open]]
+| {{IPA link|æ}}
+| {{IPA link|æː}}
+| {{IPA link|a}}
+| {{IPA link|ä|aː}}
+|
+|
+|}
+
+Long /əː/ is restricted to English loans. /a/ and /ə/ are allophones in Sinhala and contrast with each other in stressed and unstressed syllables respectively. In writing, /a/ and /ə/ are both spelt without a vowel sign attached to the consonant letter, so the patterns of stress in the language must be used to determine the correct pronunciation. Most Sinhala syllables are of the form CV. The first syllable of each word is stressed, with the exception of the verb කරනවා /kərənəˈwaː/ ("to do") and all of its infected forms where the first syllable is unstressed. Syllables using long vowels are always stressed. The remainder of the syllables are unstressed if they use a short vowel, unless they are immediately followed by one of: a CCV syllable, final /j(i)/ (-යි), final /wu/ (-වු), or a final consonant without a following vowel. The sound /ha/ is always stressed in nouns, adjectives, and adverbs, and so is not pronounced /hə/ except in the word හතලිහ /ˈhat̪əlihə/ ("forty"), where the initial /ha/ is stressed and the final /hə/ is unstressed.<ref>{{Cite book|isbn=978-955-96926-0-7|title=Teach Yourself Sinhalese|date=2008|language=en|last1=Silva|first1=A.W.L.}}</ref>
+
+== Morphology ==
+
+=== Nominal morphology ===
+The main features marked on Sinhala nouns are case, number, definiteness and [[animacy]].
+
+==== Cases ====
+Sinhala distinguishes several cases. The five primary cases are the [[nominative]], [[accusative]], [[dative]], [[genitive]], and [[ablative]]. Some scholars also suggest that it has a [[locative case|locative]] and [[instrumental case|instrumental]] case. However, for inanimate nouns the locative and genitive, and instrumental and ablative, are identical. In addition, for animate nouns these cases formed by placing ''atiŋ'' ("with the hand") and ''laᵑgə'' ("near") directly after the nominative.
+
+The brackets with most of the vowel length symbols indicate the optional shortening of long vowels in certain [[Stress (linguistics)|unstressed]] syllables.
+
+{| class="wikitable" 
+|-
+! rowspan="2" | 
+! colspan="2" | animate
+! colspan="2" | inanimate
+|-
+! singular || plural
+! singular || plural
+|-
+! [[Nominative case|nominative]]
+| miniha(ː)
+| minissu
+| rowspan="2" | potə
+| rowspan="2" | pot
+|-
+! [[Accusative case|accusative]]
+| miniha(ː)və
+| minissu(nvə)
+|-
+! [[Dative case|dative]]
+| miniha(ː)ʈə
+| minissu(ɳ)ʈə
+| potəʈə
+| potvələʈə
+|-
+! [[Genitive case|genitive]]
+| miniha(ː)ge(ː)
+| minissu(ŋ)ge(ː)
+| rowspan="2" | pote(ː)
+| rowspan="2" | potvələ
+|-
+! [[Locative case|locative]]
+| miniha(ː) laᵑgə
+| minissu(n) laᵑgə
+|-
+! [[Ablative case|ablative]]
+| miniha(ː)geŋ
+| minissu(n)geŋ
+| rowspan="2" | poteŋ
+| rowspan="2" | potvaliŋ
+|-
+! [[Instrumental case|instrumental]]
+| miniha(ː) atiŋ
+| minissu(n) atiŋ
+|-
+! [[Vocative case|vocative]]
+| miniho(ː)
+| minissuneː
+| -
+| -
+|-
+! Gloss
+| ''man''
+| ''men''
+| ''book''
+| ''books''
+|}
+
+==== Number marking ====
+In Sinhala animate nouns, the plural is marked with ''-o(ː)'', a [[Gemination|long consonant]] plus ''-u'', or with ''-la(ː)''. Most inanimates mark the plural through [[disfix]]ation. [[Loanword]]s from English mark the singular with ''ekə'', and do not mark the plural. This can be interpreted as a [[singulative number]].
+
+{| class="wikitable"
+|-
+! SG
+| ammaː || deviyaː || horaː || pothə || reddə || kanthoːruvə || sathiyə || bus ekə || paːrə
+|-
+!PL
+| amməla(ː) || deviyo(ː) || horu || poth || redi || kanthoːru || sathi || bus || paːrəval
+|-
+!Gloss
+| ''mother(s)''|| ''god(s)''|| ''thie(f/ves)''|| ''book(s)''|| ''cloth(es)''|| ''office(s)''|| ''week(s)''|| ''bus(es)''||''street(s)''
+|}
+
+On the left hand side of the table, plurals are longer than singulars. On the right hand side, it is the other way round, with the exception of paːrə "street". Note that [+animate] lexemes are mostly in the classes on the left-hand side, while [-animate] lexemes are most often in the classes on the right hand.
+
+==== Indefinite article ====
+The indefinite article is ''-ek'' for animates and ''-ak'' for inanimates. The indefinite article exists only in the singular, where its absence marks definiteness. In the plural, (in)definiteness does not receive special marking.
+
+=== Verbal morphology ===
+Sinhala distinguishes three conjugation classes.
+Spoken Sinhala does not mark person, number or gender on the verb (literary Sinhala does). In other words, there is no subject–verb agreement.
+
+{| class="wikitable"
+|-
+!rowspan=2|
+!colspan=2| 1st class
+!colspan=2| 2nd class
+!colspan=2| 3rd class
+|-
+! verb
+! verbal adjective
+! verb
+! verbal adjective
+! verb
+! verbal adjective
+|-
+! present (future)
+| kanəvaː
+| kanə
+| arinəvaː
+| arinə
+| pipenəvaː
+| pipenə
+|-
+! past
+| kæːvaː
+| kæːvə
+| æriyaː
+| æriyə
+| pipunaː
+| pipunə
+|-
+! anterior
+| kaːlaː
+| kaːpu
+| ærəlaː
+| ærəpu
+| pipilaː
+| pipicca
+|-
+! simultaneous
+| kanə kanə / ka kaa(spoken)
+| 
+| arinə arinə / æra æra(spoken)
+| 
+| pipenə pipenə/ pipi pipi(spoken)
+| 
+|-
+! infinitive
+| kannə/kanḍə
+| 
+| arinnə/arinḍə
+| 
+| pipennə/pipenḍə
+| 
+|-
+! emphatic form
+| kanneː
+| 
+| arinneː
+| 
+| pipenneː
+| 
+|-
+! gloss
+| eat
+| 
+| open
+| 
+| blossom
+| 
+|}
+
+== Syntax ==
+* Left-branching language (see [[Branching (linguistics)|branching]]), which means that determining elements are usually put in front of what they determine (see example below).
+* An exception to this is formed by statements of quantity which usually stand behind what they define. Example: "the four flowers" translates to {{lang|si|මල් හතර}} {{IPA|/mal hatərə/}}, literally "flowers four". On the other hand, it can be argued that the numeral is the head in this construction, and the flowers the modifier, so that a more literal English rendering would be "a floral foursome"
+* SOV ([[subject–object–verb]]) [[word order]], common to most left-branching languages.
+* As is common in left-branching languages, it has no prepositions, only postpositions (see [[Adposition]]). Example: "under the book" translates to {{lang|si|පොත යට}} {{IPA|/potə jaʈə/}}, literally "book under".
+* Sinhala has no [[Copula (linguistics)|copula]]: "I am rich" translates to {{lang|si|මම පොහොසත්}} {{IPA|/mamə poːsat/}}, literally "I rich". There are two [[existential verb]]s, which are used for [[locative predication]]s, but these verbs are not used for predications of class-membership or property-assignment, unlike English ''is''.
+* There are almost no [[Conjunction (grammar)|conjunctions]] as English ''that'' or ''whether'', but only [[non-finite clause]]s that are formed by the means of [[participle]]s and [[verbal adjective]]s. Example: "The man who writes books" translates to {{lang|si|පොත් ලියන මිනිසා}} {{IPA|/pot liənə minisa/}}, literally "books writing man".
+
+== Semantics ==
+There is a four-way [[deictic]] system (which is rare): There are four demonstrative [[Word stem|stems]] (see [[demonstrative pronoun]]s) {{lang|si|මේ}} {{IPA|/meː/}} "here, close to the speaker", {{lang|si|ඕ}} {{IPA|/oː/}} "there, close to the person addressed", {{lang|si|අර}} {{IPA|/arə/}} "there, close to a third person, visible" and {{lang|si|ඒ}} {{IPA|/eː/}} "there, close to a third person, not visible".
+
+===Use of {{Lang|si|තුමා}} (''thuma)''===
+Sinhalese has an all-purpose odd suffix {{Lang|si|තුමා}} (''thuma)'' which when suffixed to a pronoun creates a formal and respectful tone in reference to a person. This is usually used in referring to politicians, nobles, and priests. <br>e.g. oba thuma (ඔබ තුමා) - you (vocative, when addressing a minister, high-ranking official, or generally showing respect in public etc.)
+
+janadhipathi thuma (ජනාධිපති තුමා) - the president (third person)
+
+'''<br>Discourse'''
+
+Sinhala is a [[pro-drop language]]: Arguments of a sentence can be omitted when they can be inferred from context. This is true for [[Subject (grammar)|subject]]—as in Italian, for instance—but also objects and other parts of the sentence can be "dropped" in Sinhala if they can be inferred. In that sense, Sinhala can be called a "super pro-drop language", like [[Japanese language|Japanese]].
+
+Example: The sentence {{lang|si|කොහෙද ගියේ}} {{IPA|[koɦedə ɡie]}}, literally "where went", can mean "where did I/you/he/she/we... go".
+
+== See also ==
+{{Portal|Sri Lanka|Languages}}
+* [[Sinhala honorifics]]
+* [[Sinhala idioms and proverbs]]
+* [[Sinhala keyboard]]
+* [[Sinhala numerals]]
+* [[Sinhala slang]]
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+* Gair, James: ''Sinhala and Other South Asian Languages'', New York 1998.
+*{{cite book | last = Indrapala | first = Karthigesu | title = The evolution of an ethnic identity: The Tamils in Sri Lanka C. 300 BCE to C. 1200 CE| publisher = Vijitha Yapa | year = 2007 | location = Colombo | isbn = 978-955-1266-72-1}}
+*{{cite book|last1=Perera|first1=H.S.|last2=Jones|first2=D.|year=1919|title=A colloquial Sinhalese reader in phonetic transcription|place=Manchester|publisher=Longmans, Green & Co|url=https://archive.org/stream/colloquialsinhal00pererich}}
+*{{cite book|last=Van Driem |first=George|title=Languages of the Himalayas: An Ethnolinguistic Handbook of the Greater Himalayan Region |publisher=Brill Academic Publishers |date=15 Jan 2002|isbn=978-90-04-10390-0}}
+
+== Further reading ==
+* {{cite book | last = Clough | first = B. | title = Sinhala English Dictionary | publisher = Asian Educational Services | location = New Delhi | edition = 2nd | year = 1997}}
+* {{cite book | last1 = Gair | first1 = James | last2 = Paolillo | first2 = John C. | title = Sinhala | publisher = München | location = Newcastle | year = 1997}}
+*{{cite book | last = Gair | first = James | title = Studies in South Asian Linguistics| publisher = Oxford University Press |year=1998 | location = [[New York City|New York]] | isbn = 978-0-19-509521-0}}
+* {{cite book | last = Geiger | first = Wilhelm | title = A Grammar of the Sinhalese Language | publisher = Colombo | year = 1938}}
+* {{cite book | last = Karunatillake | first = W.S. | title = An Introduction to Spoken Sinhala | publisher = Colombo | year = 1992}} [several new editions].
+* {{Cite journal |last=Zubair |first=Cala Ann |title=Sexual violence and the creation of an empowered female voice |journal=[[Gender and Language]] |volume=9 |issue=2 |pages=279&ndash;317 |doi=10.1558/genl.v9i2.17909 |year=2015 }} (''Article on the use of slang amongst Sinhalese Raggers.'')
+
+== External links ==
+{{Wiktionary|सिंहल|Sinhala}}
+{{InterWiki|code=si}}
+{{Wikivoyage|Sinhala phrasebook|Sinhala|a phrasebook}}
+* [[Charles Henry Carter]]. [https://dsal.uchicago.edu/dictionaries/carter/ A Sinhalese-English dictionary.] Colombo: The "Ceylon Observer" Printing Works; London: Probsthain & Co., 1924.
+* Simhala Sabdakosa Karyamsaya. [http://www.dictionary.gov.lk/ Sanksipta Simhala Sabdakosaya.] Kolamba : Samskrtika Katayutu Pilibanda Departamentuva, 2007–2009.
+* [http://www.maduraonline.com/ Madura Online English-Sinhala Dictionary and Language Translator]
+* [http://www.lanka.info/dictionary/EnglishToSinhala.jsp Kapruka Sinhala dictionary]
+
+{{Sinhala language}}
+{{Languages of Sri Lanka}}
+{{Indo-Aryan languages}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Sinhala Language}}
+[[Category:Sinhala language| ]]
+[[Category:Southern Indo-Aryan languages]]
+[[Category:Fusional languages]]
+[[Category:Languages of Sri Lanka]]
+[[Category:Subject–object–verb languages]]

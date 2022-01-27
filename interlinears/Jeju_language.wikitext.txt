@@ -1,0 +1,1464 @@
+{{Short description|Koreanic language of Jeju Island, South Korea}}
+{{Infobox language
+| name             = Jeju
+| altname          = Jejueo, Cheju
+| nativename       = 제줏말/제주말<br />''Jeju-mal''
+| image            = Jeju-language Greeting "Welcome".png
+| states           = [[South Korea]]
+| ethnicity        = [[Jeju people]] ([[Koreans]] of [[Jeju Island]])
+| region           = [[Jeju Province]]
+| speakers         = 5,000
+| date             = 2014
+| ref              = e18
+| familycolor      = altaic
+| fam1             = [[Koreanic languages|Koreanic]]
+| fam2             = [[Han languages|Han]]
+| script           = [[Hangul]]
+| iso3             = jje
+| map              = Jeju-teukbyeoljachi-do in South Korea.svg
+| glotto           = jeju1234
+| glottorefname    = Jejueo
+| notice           = IPA
+}}
+
+'''Jeju''' ({{lang-ko|제주어}} {{transl|ko|Jeju-eo}}, Korean and Jeju: {{lang|jje|제줏말}} {{transl|jje|Jejun-mal}} or {{lang|ko|제주말}} {{transl|jje|Jeju-mal}}{{sfn|Yang C.|Yang S.|O'Grady|2019|p=4}}), often called '''Jejueo'''<ref name=":0" /> or '''Jejuan'''<ref name=":1">{{Cite web|last=Kim|first=Soung-u|date=2018|title=A multi-modal documentation of Jejuan conversations|url=https://elar.soas.ac.uk/Collection/MPI971100|website=Endangered Languages Archive at SOAS University of London}}</ref> in English-language scholarship, is a [[Koreanic language]] traditionally spoken on [[Jeju Island]], [[South Korea]]. While often classified as a divergent '''Jeju dialect''' ({{lang-ko|제주방언}} {{transl|ko|Jeju bang'eon}}) of the Korean language, the [[language variety|variety]] is referred to as a language in local government and increasingly in both South Korean and foreign academia. Jeju is not [[mutually intelligible]] with the mainland dialects of South Korea.
+
+The consonants of Jeju are similar to those of Seoul Korean, but Jeju has a larger and more conservative vowel inventory. Jeju is a [[head-final]], [[agglutinative]], suffixing language like Korean. Nouns are followed by [[particle (linguistics)|particles]] that may function as [[case marker]]s. Verbs [[inflect]] for [[tense-aspect-mood|tense, aspect, mood]], [[evidentiality]], relative social status, formality, and other grammatical information. Korean and Jeju differ significantly in their verbal paradigms. For instance, the [[continuative aspect]] marker of Jeju{{sfn|Yang C.|Yang S.|O'Grady|2019|p=11}} and the [[grammatical mood|mood]] or [[grammatical aspect|aspect]] distinction of many Jeju connective suffixes are absent in Korean. While most of the Jeju lexicon is Koreanic, the language preserves many [[Middle Korean]] words now lost in Standard Korean. Jeju may also have a [[Japonic languages|Japonic]] substratum (see [[Peninsular Japonic]]).{{sfnp|Vovin|2010|p=24}}
+
+Jeju was already divergent from [[Seoul]] Korean by the fifteenth century, and was unintelligible to mainland Korean visitors by the sixteenth century. The language was severely undermined by the [[Jeju uprising]] of 1948, the [[Korean War]], and the [[Miracle on the Han River|modernization of South Korea]]. All fluent speakers remaining in Jeju Island are now over seventy years old. Most people in Jeju Island now speak a variety of Korean with a Jeju [[substratum (linguistics)|substratum]]. The language may be somewhat more vigorous in a diaspora community in [[Osaka]], [[Japan]], but even there, younger members of the community speak Japanese. Since 2010, [[UNESCO]] has designated the language as [[endangered language|critically endangered]], the highest level of language endangerment possible. [[Language revitalization|Revitalization]] efforts are ongoing.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=280–281}}
+
+== Nomenclature and relationship to Korean ==
+
+[[File:Jeju language vs. Jeju dialect in South Korean academic publications.png|423x255px|thumb]]
+
+Jeju is closely related to Korean. It was traditionally considered an unusually divergent [[dialect]] of Korean, and is still referred to as such by the [[National Institute of the Korean Language]] and the [[Ministry of Education (South Korea)|South Korean Ministry of Education]].{{sfn|Yang C.|Yang S.|O'Grady|2019|p=5}} While the term "Jeju language" ({{lang-ko|제주어}}, {{transl|ko|Jeju-eo}}) was first used in 1947, it was not until the mid-1990s that the term gained currency in South Korean academia. While "Jeju dialect" was still the preferred usage throughout the decade of the 2000s, the majority of South Korean academic publications had switched to the term "Jeju language" by the early 2010s.{{sfn|Cho T.-r.|2014|pp=123–126}} Since somewhat earlier, "Jeju language" has also been the term preferred in local law, such as the 2007 Language Act for the Preservation and Promotion of the Jeju Language ({{lang-ko|제주어 보전 및 육성 조례}} {{transl|ko|Jeju-eo bojeon mit yukseong jorye}}), and by non-governmental organizations working to preserve the language.{{sfn|Cho T.-r.|2014|pp=129–130}} The only English-language monograph on Jeju, published in 2019, consistently refers to it as a language as well.{{sfn|Yang C.|Yang S.|O'Grady|2019}} Among native speakers, the term ''Jeju-mal'' "Jeju speech" is most common.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=4}}
+
+Jeju is not [[mutual intelligibility|mutually intelligible]] with even the southernmost dialects of mainland Modern Korean. In a 2014 test for intelligibility, Korean speakers from three different dialect zones (Seoul, [[Busan]], and [[Yeosu]]) were exposed to one minute of spoken Jeju, with a [[control group]] of native Jeju speakers. On average, Korean native speakers from all three dialect zones answered less than 10% of the basic comprehension questions correctly, while native Jeju speakers answered over 89% of the questions correctly. These results are comparable to the results of an intelligibility test of [[Norwegian language|Norwegian]] for native [[Dutch language|Dutch]] speakers.{{sfn|Yang C.|O'Grady|Yang S.|Hilton|2019}} Diaspora Jeju speakers living in Japan also report that they find it difficult to understand South Korean news media, and resort to Japanese subtitles when watching South Korean TV shows.{{sfn|Kim B.|2014|p=120}}
+
+== Geographic distribution ==
+
+Jeju was traditionally spoken throughout [[Jeju Province]] except in the [[Chuja Islands]], halfway between Jeju Island and mainland Korea, where a variety of [[Jeolla dialect|Southwestern Korean]] is found.{{sfn|Choi M.|1998|p=16}} The language is also used by some of the [[immigrant generation|first- and second-generation]]{{efn|The term "first and second generations" as used here refers to Jeju speakers born in Jeju, though now living in Japan (the first generation), and to their children who were born in Japan (the second generation).}} members of the [[Zainichi Korean]] community in [[Ikuno-ku, Osaka|Ikuno-ku]], [[Osaka]], Japan.{{sfn|Kim B.|2014}}
+
+Compared to mainland Korean dialect groups, there is little internal variation within Jeju. A distinction between a northern and southern dialect with a geographic divide at [[Hallasan]] is sometimes posited, but an eastern-western dialectal divide cutting through [[Jeju City]] and [[Seogwipo]] may better explain the few dialectal differences that do exist.{{sfn|Choi M.|1998|p=25}}{{sfn|Ko J.|Song S.|Kim Jee-h.|Oh C.|2014|p=214}} A 2010 survey of regional variation in 305 word sets suggests that the north–south divide and the east–west divide coexist, resulting in four distinct dialect groups.{{sfn|Kim S.|2010}}
+
+<gallery mode="packed" heights="230px">
+
+File:Dialectal diversity in Jeju "lizard".png|An east–west divide is salient in the Jeju words for "lizard".<br>Eastern Seogwipo uses {{lang|jje|장쿨레비}} {{transl|jje|jangkullebi}} while western Seogwipo uses {{lang|jje|독다구리}} {{transl|jje|dokdaguri}}.{{sfn|Kim S.|2010|p=271}}
+
+File:Dialectal diversity in Jeju "crab".png|A north–south divide is more noticeable in the Jeju words for "crab".
+
+</gallery>
+
+== History and decline ==
+
+The Koreanic languages are likely not native to Jeju Island; it has been proposed that the family has its roots in Manchuria, a historical region in northeastern Asia. It is thought that Koreanic speakers migrated from southern Manchuria between the third and eighth centuries CE. Linguist [[Alexander Vovin]] suggests that the ancient kingdom of [[Tamna]], which ruled the island until the twelfth century, may have spoken a [[Peninsular Japonic|Japonic]] language that left a [[substratum|substrate]] influence on Jeju. When exactly this putative Japonic language may have been replaced by the Koreanic ancestor of Jeju remains unclear.{{sfn|Vovin|2013|pp=236–237}}
+
+Unlike mainland Korea, which was [[Goryeo under Mongol rule|ruled only indirectly by the Mongols]], Jeju was placed under direct [[Yuan dynasty|Yuan]] administration in the late thirteenth century. Significant numbers of Mongol soldiers migrated to the island during this period, and [[Middle Mongol|their language]] acted as a [[superstratum]] that may have accelerated local language change. Linguist Yang Changyong speculates that the formation of Jeju as a language independent of Korean was influenced by Mongol.{{sfn|Yang C.|2014|pp=1–2}} By the fifteenth century, when the invention of [[Hangul]] permits a detailed understanding of Korean phonology for the first time, Seoul Korean and Jeju were already divergent; the Seoul [[prestige dialect]] of fifteenth-century Middle Korean disallowed the diphthong {{IPA|/jʌ/}}, but Jeju does not.{{sfn|Lee K.|Ramsey|2011|pp=159–160}}
+
+Sixteenth- and seventeenth-century references to the language of Jeju by mainland Korean literati state that it was already unintelligible to mainland Koreans.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=6}} [[Kim Sang-heon]] (1570―1652), who served as pacification commissioner ({{lang-ko|안무어사}} {{transl|ko|anmueosa}}) on the island from 1601 to 1602, gives six words in the "provincial language" with clear cognates in modern Jeju and also writes:{{sfn|Yang C.|2014|pp=2–4}}
+
+<blockquote>
+{{lang|lzh|謫人 申長齡 乃譯官也 嘗曰 「比島語音 酷以中華 如驅牛馬之聲 尤不可分辯云云 盖風氣與華不隔而然耶 曾爲元朝所據置官於此故與華相雜而然耶」... 所謂俚語者 但高細不可曉}}
+
+"The exiled man Shin Jangnyeong was originally a [[Bureau of Interpreters#Interpreters|government interpreter]]. He said, 'The language of this island is most like Chinese, and the sounds they make while driving cattle and horses are yet more impossible to tell apart. Is this because the climate is not far from that of China, or because the Yuan dynasty once ruled and appointed officials here and the Chinese mingled with them?'... What is called the provincial language is but high and thin and cannot be understood."
+</blockquote>
+
+In 1629, the Korean government banned the emigration of Jeju Islanders to the mainland, further restricting linguistic contacts between Jeju and Korean.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=3}} At the same time, the island was also used throughout the [[Joseon]] era (1392―1910) as a place of exile for disgraced [[scholar-officials]]. These highly educated speakers of Seoul Korean often tutored the children of their Jeju neighbors during their exile and established a continuous and significant Seoul Korean superstratum in Jeju.{{sfn|Yang C.|2014|pp=2–4}}
+
+Jeju remained the dominant language of both private and public spheres under [[Korea under Japanese rule|Japanese colonial rule]] (1910―1945), although many Japanese loanwords entered the lexicon, and many speakers were [[monolingual]].{{sfn|Yang C.|2014|pp=4–5}} Large-scale migration of Jeju people to Japan began in 1911, and 38,000 Jeju Islanders lived in [[Osaka]] alone by 1934. Immigration to Japan continued even after Korean independence into the 1980s. Jeju is still spoken by older members of these diaspora communities, although younger individuals speak [[Japanese language|Japanese]] as their native language and are not fluent in Jeju.{{sfn|Kim B.|2014|pp=113–127}}
+
+[[File:Jeju Massacre.jpg|thumb|Jeju inhabitants awaiting execution in late 1948]]
+
+Severe disruption to the Jeju language community began after the end of Japanese rule in 1945. Following World War II, Korea was divided between an American-backed government in the South and a Soviet-backed government in the North.<ref>{{Cite news|last=Sang-Hun|first=Choe|date=2019-05-28|title=Memories of Massacres Were Long Suppressed Here. Tourists Now Retrace the Atrocities. (Published 2019)|language=en-US|work=The New York Times|url=https://www.nytimes.com/2019/05/28/world/asia/south-korea-jeju-massacres.html|access-date=2020-12-01|issn=0362-4331}}</ref> Popular opposition to the [[division of Korea]] and police brutality led to a [[Jeju uprising|rebellion]] against the [[United States Army Military Government in Korea|American military government]] on April 3, 1948. The [[Syngman Rhee]] regime, which succeeded the American administration in August 1948, suppressed the rebellion with mass killings of civilians. As many as sixty thousand Jeju Islanders, or a full fifth of the pre-rebellion population, were killed. Forty thousand more fled to Japan. Out of the four hundred villages of the island, only 170 remained.{{sfn|Cummings|2005|pp=219–221}} The devastating impact of the massacres on the Jeju language community was exacerbated by the outbreak of the [[Korean War]] in 1950. While Jeju was never occupied by the North Korean army, nearly 150,000 Korean-speaking refugees from the mainland fleeing North Korean invasion arrived in Jeju in the first year of the war. These events shattered the Jeju language's former dominance on the island,{{sfn|Yang C.|Yang S.|O'Grady|2019|p=12}} and Standard Korean was beginning to displace Jeju in the public sphere by the 1950s.{{sfn|Yang C.|2014|pp=5–7}}
+
+The decline of Jeju continued into the 1960s and 1970s. The [[Saemaeul Movement]], an ambitious rural modernization program launched by [[Park Chung-hee]], disrupted the traditional village community where Jeju had thrived. The language came to be perceived as an incorrect dialect of Korean, so that students were subject to corporal punishment if they used it in school,{{sfn|Brenzinger|Yang C.|2017}} and the use of Standard Korean even in the private sphere began to spread from Jeju City outwards.{{sfn|Yang C.|2014|pp=7–8}} The [[language ideology|language attitude]] of native Jeju speakers in this period was self-disparaging, and even Jeju people regarded the use of Jeju "with contempt."{{sfn|Brenzinger|Yang C.|2017}} A 1981 survey of language attitudes among high school and university students natively speaking Seoul Korean, [[Chungcheong dialect|Chungcheong Korean]], [[Jeolla dialect|Southwestern Korean]], [[Gyeongsang dialect|Southeastern Korean]], and Jeju showed that Jeju speakers were the most likely among the five groups to ascribe negative traits to their native variety.{{sfn|Lee J.|1981|pp=569–573}}
+
+A 1992 study of [[code-switching]] by native Jeju speakers shows that Jeju was by then in an unfavorable [[diglossic]] relationship with Korean, and was largely restricted to informal contexts even between Jeju natives.{{sfn|Kang Y.-h.|1994|pp=90–117}} Within a primarily Jeju-language conversation, speakers might spontaneously switch to Korean to emphasize the rationality or truth value of their statement, while switching to Jeju in a primarily Korean conversation signified that the speaker was making a subjective statement or being less serious.{{sfn|Kang Y.-h.|1994|pp=117–139}}
+
+{| class="wikitable"
+|+Code-switching rules in early 1990s Jeju{{sfn|Kang Y.-h.|1994|p=115}}
+|-
+! Participants !! Formality !! [[Intimacy]] !! [[Social status]] !! Preferred variety
+|-
+| Includes mainlander || colspan="3" | || rowspan="3" | '''Standard Korean'''
+|-
+| rowspan="4" | Only Jeju natives ||Formal || colspan="2" |
+|-
+| rowspan="3" | Informal || rowspan="2" | Participants are not emotionally intimate || Speaker is socially inferior to addressee
+|-
+| Speaker is socially superior to addressee || rowspan="2" | '''Jeju''' / '''Jeju Korean'''
+|-
+| Participants are emotionally intimate ||
+|}
+
+The same study notes that by 1992, even this variety restricted to the informal domain was usually a Korean dialect with a Jeju substratum, rather than the traditional Jeju language:
+
+<blockquote>
+{{lang|ko|현재 상용되는 제주말의 경우, 표준말과의 차이가 과거에 비해 크게 줄어들고 있는 상황으로써 특히 어미활용에서 표준말과의 차이가 극대화되며, 다른 부분에서는 상대적으로 표준말과의 차이가 극소화된다는 점이다. 따라서 제주사람들은 과거 사용되던 토박이 말에 가까운 것은 '진한 (심한) 제주말'로, 현재 사용되는 제주말은 '옅은 제주말' 또는 '(표준어와) 섞어진 말'로 표현하는 등, 제주말과 표준말이 일종의 방언 연속체를 형성하는 것으로 인식하고 있다.}}{{sfn|Kang Y.-h.|1994|pp=87–88}}
+
+"As for the Jeju language [{{lit|Jeju speech}}] in general use nowadays [as of 1992], the situation is that its differences from Standard Korean are greatly diminishing compared to the past. Its greatest differences with Standard Korean [now] lie especially in the suffix paradigm, and in other areas the differences are being minimized. The Jeju people accordingly understand that Jeju and Standard Korean are in a form of [[dialect continuum]], and refer to the native language formerly in use as "thick (or intense) Jeju language" and the Jeju language currently in use as "light Jeju language" or "mixed (with Korean) language."
+</blockquote>
+
+== Current status ==
+
+The official language of South Korea is Standard Korean. Nearly all residents of Jeju Island are bilingual in Standard Korean and Jeju, while many younger individuals are even more fluent in English than in Jeju. Standard Korean is most commonly used in the majority of public areas, while Jeju tends to be reserved for use at home and a few local markets.<ref name=":2">{{Cite web|last=Shields|first=Steven|date=2019-12-31|title=Studying Jeju Island's endangered language|url=http://www.koreatimes.co.kr/www/nation/2020/12/177_280951.html|access-date=2020-12-01|website=koreatimes|language=en}}</ref> All schools located on Jeju Island are required to teach Standard Korean and only offer Jeju as a non-mandatory extracurricular activity.<ref name=":3">{{Cite web|last=Yang|first=Sejung|date=2017-03-22|title=Teaching Jejueo on Jeju Island 제주어 교육 - Jejueo|url=https://sites.google.com/a/hawaii.edu/jejueo/jejueo-revitalization/teaching-jejueo|access-date=2020-12-01|website=sites.google.com}}</ref> As a result, there are currently no monolingual speakers of Jeju.
+
+As of 2018, fluent speakers in Jeju Island were all over seventy years of age, while [[passive speaker (language)|passive competence]] was found in some people in their forties and fifties. Younger Islanders speak Korean with Jeju substrate influence{{sfn|Brenzinger|Yang C.|2017}} found in residual elements of the Jeju verbal paradigm and in select vocabulary such as kinship terms.{{sfn|Saltzman|2014|pp=25–26}} The language is more vigorous in Osaka, where there may be fluent speakers born as late as the 1960s.<ref>"In Osaka... some fluent speakers are as young as 45" (p.9). {{harvnb|Saltzman|2014|pp=1–2, 9, 32–33, 39–40, 43–44, 53–54, 58–59, 67}}</ref> Since 2010,{{sfn|UNESCO|2010}} [[UNESCO]] has classified Jeju as a critically [[endangered language]], defined as one whose "youngest speakers are grandparents and older... [who] speak the language partially and infrequently."{{sfn|UNESCO|2017}}
+
+A 2008 survey of adult residents' knowledge of ninety Jeju cultural words showed that only twenty-one were understood by the majority of those surveyed.{{sfn|Kang Y.-b.|2008|pp=16–18}} Lack of [[heritage language|heritage knowledge]] of Jeju is even more severe among younger people. Four hundred Jeju teenagers were surveyed for their knowledge of 120 basic Jeju vocabulary items in 2010, but only nineteen words were recognized by the majority while forty-five words were understood by less than 10%.{{sfn|Kang Y.-b.|2010}} A 2018 study suggests that even the verbal paradigm, among the more resilient parts of the substratum, may be in danger; the average middle schooler was more competent in the verb system of English, a language "taught only a few hours a week in school and in private tutoring institutions," than of Jeju.{{sfn|Yang S.|2018|pp=111–113}}
+
+[[File:Jeju Language Preservation Society Textbook "Hawndi baeu-neun Jeju-eo".jpg|thumb|{{lang|jje|ᄒᆞᆫ디 배우는 제주어}} {{transl|jje|Hawndi Baeu-neun Jeju-eo}}, an introductory textbook published by the Jeju Language Preservation Society{{sfn|Kim J.-e.|2019}}]]
+
+[[Language revitalization|Revitalization efforts]] have recently been ongoing. On September 27, 2007, the [[Jeju Province|Jeju provincial]] government promulgated the Language Act for the Preservation and Promotion of the Jeju Language,{{sfn|Yang C.|Yang S.|O'Grady|2019|p=278}} which established five-year plans for state-backed language preservation.The Act encouraged public schools on Jeju Island to offer Jeju as an extracurricular activity, as well as to incorporate the language as a part of regular classes if relevant and feasible.<ref name=":3" /> In addition, multiple programs were provided for adults, as well. For example, adult language programs are offered every year at the Jeju National University and are all completely free of charge. There are also several local centres on Jeju Island that offer classes in Jeju Language specifically to marriage-based immigrants.<ref name=":3" /> However, it was not until UNESCO's 2010 designation of Jeju as critically endangered that the provincial government became proactive in Jeju preservation efforts.{{sfn|Jeju Province|2019a|pp=492–493}} In 2016, the provincial government allotted [[South Korean won|₩]]685,000,000 (US$565,592 in 2016) to revitalization programs,{{sfn|Jeju Province|2019b|pp=312–313}} and the government-funded [[Jeju Research Institute]] has compiled phrasebooks of the language.{{sfn|Jeju Province|2019a|pp=504–505}} The provincial Ministry of Education has also published Jeju textbooks for elementary and secondary schools, although some textbooks really teach Standard Korean interspersed with Jeju lexical items. Some public schools offer after-school programs for Jeju, but the short duration of these classes may be insufficient to promote more than "symbolic" use by students.{{sfn|Brenzinger|Yang C.|2017|p=192}} The linguistic competence of many teachers has also been challenged.{{sfn|Yang S.|2014|pp=7–8}}
+
+On August 12, 2011, the Research Centre for Jeju Studies was opened with the purpose of implementing projects for the revitalization and safeguarding of Jeju Language.<ref name=":4">{{Cite web|title=Concerted efforts for the revitalization of Jeju language {{!}} United Nations Educational, Scientific and Cultural Organization|url=http://www.unesco.org/new/en/culture/themes/endangered-languages/dynamic-content-single-view-meeting/news/concerted_efforts_for_the_revitalization_of_jeju_language/|access-date=2020-12-01|website=www.unesco.org}}</ref> The centre has implemented multiple projects and initiatives. The project encouraged the promotion of Jeju Language in schools by tasking the Education Bureau with introducing several revitalization initiatives, including a training program for teachers. The project also started a radio broadcast in Jeju Language, as well as a radio campaign for Jeju slang and an annual Jeju Language festival.<ref name=":4" /> An iPhone application was developed, including a glossary, as well as a collection of proverbs, poems, and quizzes in Jeju Language. Finally, an introductory conversation brochure was distributed to both citizens and visitors of Jeju Island in order to encourage the use of the language.<ref name=":4" />
+
+Other preservation and revitalization efforts are led by non-state bodies. The Jeju Language Preservation Society ({{lang-ko|제주어보존회}} {{transl|ko|Jeju-eo bojon-hoe}}), founded in December 2008, publishes ''Deongdeureong-makke'' ({{lang|jje|덩드렁마께}}), a bimonthly Jeju-language magazine, and holds Jeju teaching programs and speaking contests.{{sfn|Jeju Province|2019a|pp=505–506}} Literature in the language has recently been published, including children's books and a 2014 poetry anthology. Local bands and theater troupes have made Jeju-language performances.{{sfn|Jeju Province|2019a|pp=508–510}} Regional newspapers such as the ''Jemin Ilbo'' and the ''Halla Ilbo'' include Jeju-language sections, and local branches of [[Korean Broadcasting System|KBS]] and [[Munhwa Broadcasting Corporation|MBC]] have launched radio programs and a television series in Jeju.{{sfn|Jeju Province|2019b|pp=507–508}} Recent South Korean media with nationwide appeal, including the 2010 television series ''[[Life Is Beautiful (2010 TV series)|Life is Beautiful]]'' and ''[[The Great Merchant]]'', the 2012 drama film ''[[Jiseul]]'', and the 2015 television series ''[[Warm and Cozy]]'', have also featured spoken Jeju.{{sfn|Jeju Province|2019a|pp=508–510}} Outside of Korea, in 2018, the [[Endangered Languages Archive]] at [[SOAS University of London]] carried out a revitalization project aimed to build a collection of audio and video recordings of Jeju Language being spoken by native speakers. These recordings documented everyday conversations, as well as traditional songs and rituals.<ref name=":1" />
+
+In the past, negative attitudes and opinions towards Jeju were popular amongst Korean citizens. The Standard Korean language places a lot of emphasis on honorifics, as Korean culture is largely centred around being polite to elders. However, Jeju is often viewed to be less polite, due to the use of less honorifics and only four levels of politeness, in comparison to the seven levels in Standard Korean.<ref name=":2" /> The younger generation, particularly students, especially believe that Jeju is not respectful enough to use with teachers, whereas Standard Korean is more sophisticated. In addition, Jeju is often associated with the countryside, as the majority of speakers tend to have traditional occupations, including farming, fishing, and diving.<ref>{{Cite web|date=2011-10-14|title=Distinct dialect of Jeju threatened with extinction|url=http://www.koreatimes.co.kr/www/nation/2020/12/113_96644.html|access-date=2020-12-01|website=koreatimes|language=en}}</ref> As a result, many younger children express a disinterest in learning the language.
+
+However, recent surveys show changes favorable towards Jeju in prevailing language attitudes. In a [[National Institute of the Korean Language]] survey in 2005, only 9.4% of Jeju Islanders were very proud of the regional variety. When the same survey was reheld in 2015, 36.8% were very proud of the language,{{sfn|Kwak|You|2019|p=44}} and Jeju Islanders had become the most likely among South Korean dialect groups to have "very positive" opinions of the regional variety.{{sfn|NIKL|2015|p=98}} In a 2017 study of 240 Jeju Islanders, 82.8% of those sampled considered Jeju to be "nice to listen to,"<ref>{{lang|ko|듣기 좋다}} {{transl|ko|deutgi jota}}. {{harvnb|Kim S.|2019|pp=10–11}}</ref> and 74.9% hoped that their children would learn the language.{{sfn|Kim S.|2019|p=23}} But significant generational cleavages in language attitudes were also found. For instance, only 13.8% of Jeju Islanders between twenty and forty liked Jeju much more than Standard Korean, which 49.1% of those above eighty did.{{sfn|Kim S.|2019|pp=21–22}}
+
+In a 2013 survey of Jeju natives, 77.9% agreed with the statement that "[the Jeju language] has to be passed down as part of Jeju culture."{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=278–289}} But a 2015 study of approximately a thousand Jeju Islanders suggests that even though most Jeju Islanders believe the language to be an important part of the island's culture, the vast majority are skeptical of the language's long-term viability, and more people are unwilling than willing to actively participate in language preservation efforts.{{sfn|Yang C.|2016|pp=152–154}}
+
+== Orthography ==
+
+Jeju has historically had no [[written language]].{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=22–23}} Two recently devised standard [[orthography|orthographies]] are currently in use: a system created in 1991 by scholars of the Jeju Dialect Research Society ({{lang-ko|제주방언연구회}} {{transl|ko|Jeju bang'eon yeon'gu-hoe}}), and a system promulgated by the provincial government in 2014.{{sfn|Kang Y.-b.|2018|pp=12–14}} Both systems use the Korean alphabet [[Hangul]] with one additional letter {{lang|jje|ㆍ}}, which was used in the [[Middle Korean|Middle]] and [[Early Modern Korean]] scripts but is now defunct in written Korean. Similar to the modern Korean script, Jeju orthographies have [[morphophonemic]] tendencies, meaning that transcribing the underlying [[morphology (linguistics)|morphology]] generally takes precedence over the [[surface form]].{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=22–23}} The two orthographies differ largely because they are based on different morphological analyses of the language, especially of the verbal paradigm, as seen in the example below.{{sfn|Kang Y.-b.|2018|pp=19–27}}
+
+{| class="wikitable"
+|-
+! Orthography
+! colspan="3" | Underlying morphemes
+! Jeju word
+! Necessary analysis
+|-
+| style="background:#F2F2F2" | Research Society orthography
+| width="10%" | {{fs interlinear|나끄-|nakkeu-|"to fish"}}
+| width="10%" | {{fs interlinear|-엄시|-eomsi|CONT|}}
+| width="10%" | {{fs interlinear|-민|-min|COND|}}
+| {{fs interlinear|나껌시민|nakkeomsimin|"if [he] is fishing"}}
+| Stem-final vowel {{transl|jje|-eu}} is lost before vowel-initial suffix
+|-
+| style="background:#F2F2F2" | Government orthography
+| {{fs interlinear|낚-|nakk-|"to fish"}}
+| {{fs interlinear|-어ᇝ|-eoms|CONT|}}
+| {{fs interlinear|-민|-min|COND|}}
+| {{fs interlinear|낚어ᇝ이민|nakkeomsimin|"if [he] is fishing"}}
+| Conditional suffix {{transl|jje|-min}} requires [[epenthesis|epenthetical]] vowel {{transl|jje|-i-}} after consonant
+|}
+
+This article will use the government's orthography where the two differ.
+
+The [[transliteration]] scheme generally used in Korean linguistics, including when transcribing Jeju, is the [[Yale Romanization of Korean|Yale Romanization system]]. Yang C., Yang S., and O'Grady 2019 instead uses a variant of the [[Revised Romanization of Korean|Revised Romanization]] system with the addition of the sequence ''aw'' for {{lang|jje|ㆍ}} {{IPA|/ɒ/}}.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=15, 18}} This article also uses Revised Romanization with the addition of ''aw'', but without Yang C., Yang S., and O'Grady 2019's one-to-one correspondence between Hangul glyphs and the Latin alphabet.
+
+== Phonology ==
+
+=== Consonants ===
+
+The non-approximant consonants of Jeju correspond to the [[Korean phonology#Consonants|nineteen non-approximant consonants of Standard Korean]], and Jeju displays the three-way contrast between [[plosive|stops]] and [[affricates]] characteristic of Modern Korean. Whether the [[voiced glottal fricative]] {{IPA|/ɦ/}}, absent in Standard Korean, exists as a [[phoneme]] in Jeju or merely as an allophone of {{IPA|/h/}} remains disputed.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=16–18}} A 2000 acoustic and aerodynamic study of eight native Jeju speakers concludes that "the consonants of the two languages seem to be the same in every respect... the phonetic realization of all [Jeju] consonants are the same as those found in [Seoul] Korean."{{sfn|Cho T.-h.|Jun|Ladefoged|2000|p=137}}
+
+{| class="wikitable" style="text-align:center;"
+|+ Consonant phonemes
+! colspan="2" |
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Alveolo-palatal consonant|(Alveolo-)]]<br>[[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal stop|Nasal]]
+| {{IPAlink|m}} {{lang|jje|ㅁ}}
+| {{IPAlink|n}} {{lang|jje|ㄴ}}
+|
+|{{IPAlink|ŋ}} {{lang|jje|ㅇ}}{{efn|In syllable-final position only}}
+|
+|-
+! rowspan="3" | [[stop consonant|Stop]] <br /> and<br />[[affricate consonant|affricate]]
+! <small>lax</small>
+| {{IPAlink|p}} {{lang|jje|ㅂ}}
+| {{IPAlink|t}} {{lang|jje|ㄷ}}
+| {{IPAlink|tɕ}} {{lang|jje|ㅈ}}
+| {{IPAlink|k}} {{lang|jje|ㄱ}}
+|
+|-
+! <small>[[Tenseness|tense]]</small>
+| {{IPAlink|p͈}} {{lang|jje|ㅃ}}
+| {{IPAlink|t͈}} {{lang|jje|ㄸ}}
+| {{IPAlink|t͈ɕ}} {{lang|jje|ㅉ}}
+| {{IPAlink|k͈}} {{lang|jje|ㄲ}}
+|
+|-
+! <small>aspirated</small>
+| {{IPAlink|pʰ}} {{lang|jje|ㅍ}}
+| {{IPAlink|tʰ}} {{lang|jje|ㅌ}}
+| {{IPAlink|tɕʰ}} {{lang|jje|ㅊ}}
+| {{IPAlink|kʰ}} {{lang|jje|ㅋ}}
+|
+|-
+! rowspan="2" | [[Fricative consonant|Fricative]]
+! <small>lax/aspirated</small>
+|
+|{{IPAlink|s}} {{lang|jje|ㅅ}}
+|
+|
+|{{IPAlink|h}} {{lang|jje|ㅎ}} <br> ({{IPAlink|ɦ}} {{lang|jje|ㅇ}})
+|-
+! <small>tense</small>
+|
+|{{IPA|s͈}} {{lang|jje|ㅆ}}
+|
+|
+|
+|-
+! colspan="2" | [[Liquid consonant|Liquid]]
+|
+| {{IPAlink|l}}~{{IPAlink|ɾ}} {{lang|jje|ㄹ}}
+|
+|
+|
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+| {{IPAlink|w}}
+|
+| {{IPAlink|j}}
+| ({{IPAlink|ɰ}})
+|
+|}
+
+==== Consonantal phonological processes ====
+
+Jeju [[allophony]] involves a number of [[phonological process]]es also found in Seoul Korean. As in Korean, {{IPA|/l/}} surfaces as {{IPA|[ɾ]}} intervocally. Also as in Korean, lax stops and affricates have fully voiced allophones in medial position, all [[obstruents]] have [[no audible release|unreleased]] allophones in final position, and syllable-final sibilants surface as {{IPA|[t̚]}}.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=17, 24–25}} Whether non-lax stops and affricates{{efn|Other than {{IPA|/p͈/}}{{sfn|Ko J.|2011a|p=23}}}} can appear in final position is controversial. The morphological analysis necessary for the government's orthography permits them, while the analysis behind the Jeju Language Research Society's orthography forbids them.{{sfn|Ko J.|2011a|p=23}}{{sfn|Kang Y.-b.|2018|pp=23–25}}
+
+{| class="wikitable"
+|- style="text-align: center;"
+! Lax obstruent
+! {{lang|jje|ㄱ}}<br/>{{transl|jje|g}}
+! {{lang|jje|ㄷ}}<br/>{{transl|jje|d}}
+! {{lang|jje|ㅅ}}<br/>{{transl|jje|s}}
+! {{lang|jje|ㅈ}}<br/>{{transl|jje|j}}
+! {{lang|jje|ㅂ}}<br/>{{transl|jje|b}}
+|- style="text-align: center;"
+! Initial allophone
+| <!--ᄀ-->{{IPA|k}}~{{IPA|kʰ}}
+| <!--ᄃ-->{{IPA|t}}~{{IPA|tʰ}}
+| <!--ᄉ-->{{IPA|s}}
+| <!--ᄌ-->{{IPA|tɕ}}~{{IPA|tɕʰ}}
+| <!--ᄇ-->{{IPA|p}}~{{IPA|pʰ}}
+|- style="text-align: center;"
+! Medial allophone
+| <!--ᄀ-->{{IPA|ɡ}}
+| <!--ᄃ-->{{IPA|d}}
+| <!--ᄉ-->{{IPA|s~z}}
+| <!--ᄌ-->{{IPA|dʑ}}
+| <!--ᄇ-->{{IPA|b}}
+|- style="text-align: center;"
+! Final allophone
+| {{IPA|k̚}}
+| colspan="3" | {{IPA|t̚}}
+| {{IPA|p̚}}
+|}
+
+Most [[Korean phonology#Consonant assimilation|non-morphophonological consonant assimilation rules of Standard Korean]] are also found in Jeju. {{IPA|/s/}} and {{IPA|/s͈/}} are regularly [[Palatalization (phonetics)|palatalized]] to {{IPA|[ʃ]}} before {{IPA|/i/}} or {{IPA|/j/}}. Lax obstruents are tensed following another obstruent. {{IPA|/h/}} aspirates both the preceding and the subsequent lax obstruent. A nasal consonant nasalizes a preceding obstruent{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=25–27}} or {{IPA|/h/}}. {{IPA|/l/}} becomes {{IPA|[n]}} following all consonants except itself or {{IPA|/n/}}, and this {{IPA|[n]}} can itself nasalize the preceding obstruent so that the underlying sequence {{IPA|/pl/}} is realized as {{IPA|[mn]}}. On the other hand, underlying {{IPA|/ln/}} and {{IPA|/nl/}} both produce {{IPA|[ll]}}.{{sfn|Ko J.|2011a|pp=62–66}}
+
+{| class="wikitable"
+|+ Non-morphophonological consonant allophony{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=25–27}}{{sfn|Ko J.|2011a|pp=62–75}}
+|-
+! Jeju word !! Underlying phonemes !! Realization !!
+|-
+| {{lang|jje|심}} "strength" || {{IPA|/'''s'''im/}} || {{IPA|['''ʃ'''im]}} || Palatalization before high vowel {{IPA|/i/}}
+|-
+| {{lang|jje|역불}} "on purpose" || {{IPA|/jək'''p'''ul/}} || {{IPA|[jək̚'''p͈'''ul]}} || rowspan="2" | Lax obstruent tensed after another obstruent
+|-
+| {{lang|jje|밧갈쉐}} "ox" || {{IPA|/pas'''k'''alswe/}} || {{IPA|[pat̚'''k͈'''alswe]}}
+|-
+| {{lang|jje|흡헬귀}} "bloodsucker" || {{IPA|/hɨ'''ph'''elkwi/}} || {{IPA|[hɨ'''pʰ'''elgwi]}} || {{IPA|/h/}} aspirates surrounding obstruents
+|-
+| {{lang|jje|돗늬}} "pig's tooth" || {{IPA|/to'''s'''n(ɰ)i/}} || {{IPA|[to'''n'''ni]}} || rowspan="3" | Nasals nasalize preceding obstruent
+|-
+| {{lang|jje|녹낭}} "camphor tree" || {{IPA|/no'''k'''naŋ/}} || {{IPA|[no'''ŋ'''naŋ]}}
+|-
+| {{lang|jje|섭낭}} "firewood" || {{IPA|/sə'''p'''naŋ/}} || {{IPA|[sə'''m'''naŋ]}}
+|-
+| {{lang|jje|멩랑}} "cleverness" || {{IPA|/meŋ'''l'''aŋ/}} || {{IPA|[meŋ'''n'''aŋ]}} || rowspan="2" | {{IPA|/l/}} is realized as {{IPA|[n]}} after most consonants; underlying {{IPA|/l/}} will nasalize preceding obstruent
+|-
+| {{lang|jje|섭력}} "cooperation" || {{IPA|/sə'''pl'''jək/}} || {{IPA|[sə'''mn'''jək̚]}}
+|-
+| {{lang|jje|칼ᄂᆞᆯ}} "blade" || {{IPA|/kʰal'''n'''ɒl/}} || {{IPA|[kʰal'''l'''ɒl]}}  || rowspan="2" | {{IPA|/l/}} assimilates both preceding and subsequent {{IPA|/n/}}
+|-
+| {{lang|jje|곤란}} "difficulty" || {{IPA|/ko'''n'''lan/}} || {{IPA|[ko'''l'''lan]}}
+|-
+|}
+
+Jeju also has consonant allophones that appear only at [[morpheme]] boundaries. Some of these are found in Standard Korean, such as the insertion of {{IPA|[n]}} before {{IPA|i-}} or {{IPA|j-}} at most word-internal morpheme boundaries; the palatalization of {{IPA|/t/}} to {{IPA|[dʑ]}} before an affixal {{IPA|-i}}; and the tensing of obstruents following certain morpheme-final nasals. Other rules are absent in Standard Korean. For instance, a [[sonorant]]-final word or morpheme can trigger aspiration (for older speakers) or tensing (for younger speakers) in a subsequent lax consonant. In some cases this is due to [[#Underlying consonant clusters|an underlying consonant cluster]], but not all cases can be explained in this way. Other Jeju-specific processes include the doubling of a word-final consonant when followed by a vowel,  glide, or {{IPA|/h/}}, and the [[lenition]] of {{IPA|/p/}} to {{IPA|[w]}} at some word boundaries.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=27–31, 36}}
+
+{| class="wikitable"
+|+Consonant allophony at morpheme boundaries{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=27–36}}
+|-
+! Jeju word (morphemes hyphenated) !! Underlying phonemes !! Realization !!
+|-
+| {{lang|jje|쏙입}} {{transl|jje|ssog-ip}} "inner leaf" || {{IPA|/s͈o'''ki'''p/}} || {{IPA|[s͈o'''ŋn'''ip̚]}} || {{IPA|n}}-insertion before {{IPA|/i/}}
+|-
+| {{lang|jje|ᄆᆞᆮ이}} {{transl|jje|mawd-i}} "eldest child" || {{IPA|/mɒ'''t'''i/}} || {{IPA|[mɒ'''dʑ'''i]}} || {{IPA|/t/}} palatalized before {{IPA|/i/}}, devoiced in medial position
+|-
+| {{lang|jje|검수다}} {{transl|jje|keom-su-da}} "to be black" [honoring addressee] || {{IPA|/kəm'''s'''uta/}} || {{IPA|[kəm'''s͈'''uda]}} || Obstruent tensed after verb stem-final nasal
+|-
+| {{lang|jje|술벵}} {{transl|jje|sul-beng}} "alcohol bottle" || {{IPA|/sul'''p'''eŋ/ || {{IPA|[sul'''pʰ'''eŋ] ||rowspan="2"| Aspiration after sonorant (for older speakers)
+|-
+| {{lang|jje|빵집}} {{transl|jje|ppang-jip}} "bakery" || {{IPA|/p͈aŋ'''tɕ'''ip/}} || {{IPA|[p͈aŋ'''tɕʰ'''ip̚]}}
+|-
+| {{lang|jje|일월}} {{transl|jje|il-weol}} "January" || {{IPA|/i'''l'''wəl/}} || {{IPA|[i'''ll'''wəl]}} || rowspan="2"| Consonant doubling
+|-
+| {{lang|jje|지집아이}} {{transl|jje|jijib-ai}} "girl" || {{IPA|/tɕitɕi'''p'''ai/}} || {{IPA|[tɕidʑi'''p̚p͈'''ai]}}
+|-
+| {{lang|jje|대왓}} (from {{lang|jje|대+밧}} {{transl|jje|dae-bat}}) "bamboo field" || {{IPA|/tæ'''p'''at/}} || {{IPA|[tæ'''w'''at̚]}} || Lenition of {{IPA|/p/}}
+|-
+|}
+
+Verbal conjugation can also lead to consonantal changes. Verb stem-final {{IPA|/l/}} and {{IPA|/h/}} are lost before {{IPA|/n/}}. In the case of verb stems ending in {{IPA|-d}}, {{IPA|-p}}. {{IPA|-s}}, and {{IPA|-k}}, the final consonants are always preserved in so-called regular verbs, but in irregular verbs, {{IPA|-d}} and {{IPA|-p}} are [[lenition|lenited]] to {{IPA|[ɾ]}} and {{IPA|[u~w]}} respectively while {{IPA|-s}} and {{IPA|-k}} are lost when followed by a vowel.{{sfn|Ko J.|2011a|pp=170–179, 182–189}}
+
+{| class="wikitable"
+|+Final-consonant allomorphy in irregular verbs{{sfn|Ko J.|2011a|pp=170–179, 182–189}}
+|-
+! colspan="2" | Underlying morphemes !! Surface realization !! Regular verb
+|-
+| rowspan="2" | {{lang|jje|ᄃᆞᆮ-}} {{transl|jje|dawd-}} "to run" || {{lang|jje|-곡}} {{transl|jje|-gok}} {{interlinear|CONN}} || {{lang|jje|ᄃᆞᆮ곡}} {{transl|jje|daw'''t'''-gok}} "runs, and" || {{lang|jje|받곡}} {{transl|jje|ba'''t'''-gok}} "receives, and"
+|-
+| {{lang|jje|-아}} {{transl|jje|-a}} {{interlinear|SE}} || {{lang|jje|ᄃᆞᆯ아}} {{transl|jje|daw'''r'''-a}} "runs" || {{lang|jje|받아}} {{transl|jje|ba'''d'''-a}} "receives"
+|-
+| rowspan="2" | {{lang|jje|빕-}} {{transl|jje|bib-}} "to pour" || {{lang|jje|-곡}} {{transl|jje|-gok}} {{interlinear|CONN}} || {{lang|jje|빕곡}} {{transl|jje|bi'''p'''-gok}} "pours, and" || {{lang|jje|입곡}} {{transl|jje|i'''p'''-gok}} "wears, and"
+|-
+| {{lang|jje|-어}} {{transl|jje|-eo}} {{interlinear|SE}} || {{lang|jje|비워}} {{transl|jje|bi'''w'''-eo}} "pours" || {{lang|jje|입어}} {{transl|jje|i'''b'''-eo}} "wears"
+|-
+| rowspan="2" | {{lang|jje|짓-}} {{transl|jje|jis-}} "to compose writing" || {{lang|jje|-곡}} {{transl|jje|-gok}} {{interlinear|CONN}} || {{lang|jje|짓곡}} {{transl|jje|ji'''t'''-gok}} "composes writing, and" || {{lang|jje|짓곡}} {{transl|jje|ji'''t'''-gok}} "builds, and"
+|-
+| {{lang|jje|-어}} {{transl|jje|-eo}} {{interlinear|SE}} || {{lang|jje|지어}} {{transl|jje|ji-eo}} "composes writing" || {{lang|jje|짓어}} {{transl|jje|ji'''s'''-eo}} "builds"
+|-
+| rowspan="2" | {{lang|jje|눅-}} {{transl|jje|nug-}} "to lie down"{{efn|The only {{IPA|k}}-irregular verb}} || {{lang|jje|-곡}} {{transl|jje|-gok}} {{interlinear|CONN}} || {{lang|jje|눅곡}} {{transl|jje|nu'''k'''-gok}} "lies down, and" || {{lang|jje|먹곡}} {{transl|jje|meo'''k'''-gok}} "eats, and"
+|-
+| {{lang|jje|-어}} {{transl|jje|-eo}} {{interlinear|SE}} || {{lang|jje|누어}} {{transl|jje|nu-eo}} "lies down" || {{lang|jje|먹어}} {{transl|jje|meo'''g'''-eo}} "eats"
+|}
+
+==== Underlying consonant clusters ====
+
+While not permitted in the surface representation of Jeju, morpheme-final [[consonant clusters]] can exist in the underlying form. Many cases of post-sonorant aspiration involve morphemes whose [[Middle Korean]] cognates feature a final {{IPA|-h}}, suggesting that an underlying final {{IPA|-h}} after the sonorant should be posited in Jeju as well.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=29–30}} Besides these {{IPA|h}}-final clusters, Jeju permits a number of other final consonant clusters, including {{IPA|-lk}}, {{IPA|-lm}}, {{IPA|-mk~ŋk}}, {{IPA|-sk}},{{sfn|Ko J.|2011a|p=23}} and (in the analysis of the government's orthography) {{IPA|-ms}}.{{sfn|Kang Y.-b.|2018|pp=25–27}} These clusters surface as a single consonant in isolation or before a consonant, but are fully realized when followed by a vowel.
+
+{| class="wikitable"
+|+Realization of final consonant clusters{{sfn|Yang C.|Yang S.|O'Grady|2019|p=122}}{{sfn|Ko J.|2011a|pp=41–42, 46–48, 66–68}}
+|-
+! Underlying form !! Realization in isolation/before consonant !! Realization before vowel
+|-
+| {{fs interlinear| ᄇᆞᆰ- | /pɒ'''lk'''/ | "to be bright"}}
+| {{fs interlinear| ᄇᆞᆰ고 | [pɒ'''k̚k͈'''o] |}}
+| {{fs interlinear| ᄇᆞᆰ언 | [pɒ'''lg'''ən] |}}
+|-
+| {{fs interlinear| 삶 | /sa'''lm'''/ | "life"}}
+| {{fs interlinear| 삶 | [sa'''m'''] |}}
+| {{fs interlinear| 삶이 | [sa'''lm'''i] |}}
+|-
+| {{fs interlinear| 나ᇚ ~ 나ᇬ ~ 낭 | /na'''mk''' ~ na'''ŋk''' ~ naŋ/ | "tree"}}
+| {{fs interlinear| 남 ~ 낭 | [na'''m''' ~ na'''ŋ'''] |}}
+| {{fs interlinear| 남기 ~ 낭기 ~ 낭이 | [na'''mg'''i ~ na'''ŋg'''i ~ naŋi] |}}
+|-
+| {{fs interlinear| -어ᇝ | /əms/ | CONT |}}
+| {{fs interlinear| 데껴ᇝ가 | [tek͈jə'''m'''ga] |}}
+| {{fs interlinear| 데꼄서 | [tek͈jə'''ms'''ə] |}}
+|-
+| {{fs interlinear| 바ᇧ | /pa'''sk'''/ | "outside"}}
+| {{fs interlinear| 바ᇧ | [pa'''t̚'''] |}}
+| {{fs interlinear| 밧기 | [pa'''t̚k͈'''i] |}}
+|}
+
+=== Vowels ===
+
+Jeju traditionally has a nine-vowel system: the [[Korean phonology#Vowels|eight vowels of Korean]] with the addition of  ㆍ {{IPA|/ɒ/}},{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=18–19}} a Middle Korean phoneme lost in Seoul in the eighteenth century.{{sfn|Lee K.|Ramsey|2011|pp=262–264}}
+
+{| class="wikitable"
+|+ Vowel phonemes{{efn|As given in Yang C, Yang S., & O'Grady 2019{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=18–19}}}}
+|-
+!
+! colspan="2" | [[Front vowel|Front]]
+! colspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| style="border-right: 0;" | {{lang|jje|ㅣ}} {{transl|jje|i}} || style="border-left: 0;" | /{{IPAlink|i}}/
+| style="border-right: 0;" | {{lang|jje|ㅡ}} {{transl|jje|eu}} || style="border-left: 0;" | /{{IPAlink|ɨ}}/
+| style="border-right: 0;" | {{lang|jje|ㅜ}} {{transl|jje|u}} || style="border-left: 0;" |  /{{IPAlink|u}}/
+|-
+! [[Mid vowel|Mid]]
+| style="border-right: 0;" | {{lang|jje|ㅔ}} {{transl|jje|e}} || style="border-left: 0;" |  /{{IPAlink|e}}/
+| style="border-right: 0;" | {{lang|jje|ㅓ}} {{transl|jje|eo}} || style="border-left: 0;" |  /{{IPAlink|ə}}/
+| style="border-right: 0;" | {{lang|jje|ㅗ}}  {{transl|jje|o}} || style="border-left: 0;" |  /{{IPAlink|o}}/
+|-
+! [[Open vowel|Open]]
+| style="border-right: 0;" | {{lang|jje|ㅐ}}  {{transl|jje|ae}} || style="border-left: 0;" |  /{{IPAlink|æ}}/
+| style="border-right: 0;" | {{lang|jje|ㅏ}}  {{transl|jje|a}} || style="border-left: 0;" |  /{{IPAlink|a}}/
+| style="border-right: 0;" | {{lang|jje|ㆍ}}  {{transl|jje|aw}} || style="border-left: 0;" | /{{IPAlink|ɒ}}/
+|-
+|}
+
+The phonemic identity of {{lang|jje|ㆍ}} is controversial,{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=18–19}} but native speakers most commonly realize the phoneme as {{IPA|[ɔ]}}.{{sfn|Kim W.|2004}}{{sfn|Moon S.|Oh C.|Kim W.|Shin W.|2015|pp=65–66}} {{IPA|/æ/}} and {{IPA|/e/}} are only distinguished in the initial syllable.{{sfn|Moon S.|Oh C.|Kim W.|Shin W.|2015|pp=66–69}}
+
+Among younger and less fluent speakers, {{IPA|/æ/}} and {{IPA|/ɒ/}} have both [[raising (phonetics)|raised]] to {{IPA|/e/}} and {{IPA|/o/}} or {{IPA|/ə/}}{{efn|{{IPA|/ɒ/}} merges with {{IPA|/o/}} in the initial syllable and with {{IPA|/ə/}} in non-initial ones. An apparent fronting of {{IPA|/ɒ/}} to {{IPA|/a/}}, seen in heritage speakers born in the 1980s, is not a genuine Jeju development but simply interference from Standard Korean, where {{IPA|/a/}} is cognate to Jeju {{IPA|/ɒ/}}.{{sfn|Ko D.|2008}}}} respectively, resulting in a seven-vowel system identical to the vowel inventory of Seoul Korean.{{sfn|Ko D.|2008}}{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=19–20}} The raising of Jeju {{IPA|/æ/}} occurred before the raising of {{IPA|/ɒ/}},{{sfn|Ko D.|2008|p=65}} and may have predated Standard Korean's ongoing merger of {{IPA|/æ/}} and {{IPA|/e/}}. The subsequent loss of {{IPA|/ɒ/}} may have been motivated by a language-internal desire for symmetry in the vowel system.{{sfn|Cho T.-h.|Jun|Jung|Ladefoged|2000|p=10}} On the other hand, the vowel mergers are accelerated among Jeju speakers living in coastal communities more exposed to Standard Korean.{{sfn|Shin W.|Shin J.|2012|pp=83–87}}
+
+Jeju has two or three [[semivowel|glides]]: {{IPA|/j/}}, {{IPA|/w/}}, and possibly {{IPA|/ɰ/}}. {{IPA|/j/}} can occur with all vowels except {{IPA|/i/}} and {{IPA|/ɨ/}}. {{IPA|/jæ/}} and {{IPA|/je/}} have merged even among speakers who distinguish the [[monophthong]]s,{{sfn|Moon S.|Oh C.|Kim W.|Shin W.|2015|pp=82–83}} and many speakers who retain {{IPA|/ɒ/}} also merge {{IPA|/jɒ/}} with {{IPA|/jə/}}.{{sfn|Moon S.|Oh C.|Kim W.|Shin W.|2015|pp=80, 90}} {{IPA|/w/}} cannot occur with the three back vowels or with {{IPA|/ɨ/}}. {{IPA|/ɰ/}} occurs only with {{IPA|/i/}}, and the resulting diphthong {{IPA|/ɰi/}} is generally realized as {{IPA|[ɨ]}} word-initially and {{IPA|[i]}} otherwise.{{sfn|Kim W.|2005}}
+
+Glide-vowel sequences may be analyzed as [[diphthongs]], with the phonemic identities of {{IPA|[j]}}, {{IPA|[w]}}, and {{IPA|[ɰ]}} being {{IPA|/i/}}, {{IPA|/o~u/}}, and {{IPA|/ɨ/}} respectively.{{sfn|Ko J.|2011a|p=49}}
+
+{| class="wikitable"
+! [[International Phonetic Alphabet|IPA]] !! [[Hangul]] !! colspan="3" | Example{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=20–21}}{{sfn|Ko J.|2011a|p=84}}
+|-
+| {{IPA|/je/}} || {{lang|jje|ㅖ}}, {{lang|jje|ㅒ}}
+| style="border-right: 0;" | {{lang|jje|예숙제낄락}} {{transl|jje|'''ye'''sukjekkillak}} || style="border-left: 0;" | "quiz; riddle"
+|-
+| {{IPA|/ja/}} || {{lang|jje|ㅑ}}
+| style="border-right: 0;" | {{lang|jje|야개기}} {{transl|jje|'''ya'''gaegi}} || style="border-left: 0;" | "neck"
+|-
+| {{IPA|/jo/}} || {{lang|jje|ㅛ}}
+| style="border-right: 0;" | {{lang|jje|요레}} {{transl|jje|'''yo'''re}} || style="border-left: 0;" | "here; this place"
+|-
+| {{IPA|/ju/}} || {{lang|jje|ㅠ}}
+| style="border-right: 0;" | {{lang|jje|유ᄒᆞᆨ}} {{transl|jje|'''yu'''hawk}} || style="border-left: 0;" | "Confucianism"
+|-
+| {{IPA|/jə/}} || {{lang|jje|ㅕ}}
+| style="border-right: 0;" | {{lang|jje|역ᄉᆞ}} {{transl|jje|'''yeo'''ksaw}} || style="border-left: 0;" | "history"
+|-
+| {{IPA|/jɒ/}} || {{lang|jje|ᆢ}}
+| style="border-right: 0;" | {{lang|jje|ᄋᆢ라}} {{transl|jje|'''yaw'''ra}} || style="border-left: 0;" | "several"
+|- style="border-top: 2px solid #aaa;"
+| {{IPA|/wi/}} || {{lang|jje|ㅟ}}
+| style="border-right: 0;" | {{lang|jje|위염}} {{transl|jje|'''wi'''yeom}} || style="border-left: 0;" | "danger"
+|-
+| {{IPA|/we/}} || {{lang|jje|ㅞ}}, {{lang|jje|ㅙ}}, {{lang|jje|ㅚ}}
+| style="border-right: 0;" | {{lang|jje|웬착}} {{transl|jje|'''we'''nchak}} || style="border-left: 0;" | "left side"
+|-
+| {{IPA|/wa/}} || {{lang|jje|ㅘ}}
+| style="border-right: 0;" | {{lang|jje|와리다}} {{transl|jje|'''wa'''rida}} || style="border-left: 0;" | "to be in a hurry"
+|-
+| {{IPA|/wə/}} || {{lang|ko|ㅝ}}
+| style="border-right: 0;" | {{lang|jje|월력}} {{transl|jje|'''weo'''llyeok}} || style="border-left: 0;" | "calendar"
+|- style="border-top: 2px solid #aaa;"
+| {{IPA|/ɰi/}} || {{lang|jje|ㅢ}}
+| style="border-right: 0;" | {{lang|jje|의남}} {{transl|jje|'''ui'''nam}}~{{transl|jje|'''eu'''nam}} || style="border-left: 0;" | "fog"
+|}
+
+==== Vowel phonological processes ====
+
+Several phonological processes affect the surface realization of Jeju vowels. In one process shared with Standard Korean, a bisyllabic vowel sequence may be contracted to a monosyllabic polyphthong.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=28}}{{sfn|Ko J.|2011a|pp=96–97}}
+
+{| class="wikitable"
+|-
+! English !! Uncontracted Jeju form !! Contracted Jeju form
+|-
+| "it was caught" || {{lang|jje|젭히엇저}} {{transl|jje|jep'''ieo'''tjeo}} || {{lang|jje|젭혓저}} {{transl|jje|jep'''yeo'''tjeo}}
+|-
+| "cucumber" || {{lang|jje|오이}} {{transl|jje|'''oi'''}} || {{lang|jje|웨}} {{transl|jje|'''we'''}}
+|}
+
+Vowel-affecting processes are particularly numerous in the verbal paradigm. Verb stem-final {{transl|jje|-eu}} is lost before a vowel-initial suffix.{{sfn|Ko J.|2011a|pp=106–108}} Similar to Standard Korean, a stem-final {{IPA|-i}} diphthongizes a subsequent vowel by inserting the [[onglide]] {{IPA|[j]}}. Unlike in its sister language, Jeju {{IPA|j-}}insertion may occur even with an intervening consonant,{{sfn|Ko J.|2011a|pp=94–95}} and between a verb stem ending in {{transl|jje|-e}}, {{transl|jje|-ae}}, or {{transl|jje|-aw}} and a suffix with initial {{transl|jje|eo-}}.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=34}}
+
+Many of Jeju's consonant-initial verbal suffixes take an initial [[epenthesis|epenthetic]] vowel if the previous morpheme ends with a consonant.{{efn|Excluding the liquid consonant {{IPA|/l/}}{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|p=33}}}} The default epenthetic vowel is {{lang|jje|-으-}} {{transl|jje|-eu-}} {{IPA|/ɨ/}}, but the vowel surfaces as {{lang|jje|-이-}} {{transl|jje|-i-}} {{IPA|[i]}} following a sibilant and as {{lang|jje|-우-}} {{transl|jje|-u-}} {{IPA|[u]}} following an underlying labial.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=35–36}}
+
+{| class="wikitable"
+|+Vowel shifts in conjugated verbs{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=34–36}}{{sfn|Ko J.|2011a|pp=94–97, 106–108}}
+! English !! colspan="3" | Underlying morphemes !! Surface realization
+|-
+| "is sad, and" || {{lang|jje|슬프-}} {{transl|jje|seulpeu-}} "to be sad" || colspan="2" | {{lang|jje|-엉}} {{transl|jje|-eong}} {{interlinear|CONN}} || {{lang|jje|슬펑}} {{transl|jje|seulp-eong}}
+|-
+| "rests, and" || {{lang|jje|쉬-}} {{transl|jje|swi-}} "to rest" ||colspan="2" | {{lang|jje|-엉}} {{transl|jje|-eong}} {{interlinear|CONN}} || {{lang|jje|쉬영}} {{transl|jje|swi-'''y'''eong}}
+|-
+| "was fast" || {{lang|jje|제-}} {{transl|jje|je-}} "to be fast" || {{lang|jje|-엇}} {{transl|jje|-eos}} {{interlinear|PFV}} || {{lang|jje|-어}} {{transl|jje|-eo}} {{interlinear|SE}} || {{lang|jje|제엿어}} {{transl|jje|je-'''y'''eos-eo}}
+|-
+| "mixed with water" || {{lang|jje|개-}} {{transl|jje|gae-}} "to mix with water" || {{lang|jje|-엇}} {{transl|jje|-eos}} {{interlinear|PFV}} || {{lang|jje|-어}} {{transl|jje|-eo}} {{interlinear|SE}} || {{lang|jje|개엿어}} {{transl|jje|gae-'''y'''eos-eo}}
+|-
+|-
+| "did" || {{lang|jje|ᄒᆞ}} {{transl|jje|haw-}} "to do" || {{lang|jje|-엇}} {{transl|jje|-eos}} {{interlinear|PFV}} || {{lang|jje|-어}} {{transl|jje|-eo}} {{interlinear|SE}} || {{lang|jje|ᄒᆞ엿어}} {{transl|jje|haw-'''y'''eos-eo}}
+|-
+| "if [it] burns" || {{lang|jje|카-}} {{transl|jje|ka-}} "to burn" || rowspan="4"; colspan="2" | {{lang|jje|-민}} {{transl|jje|-min}} {{interlinear|COND}} || {{lang|jje|카민}} {{transl|jje|ka-min}}
+|-
+| "if [he] believes" || {{lang|jje|믿-}} {{transl|jje|mid-}} "to believe" || {{lang|jje|믿으민}} {{transl|jje|mid-'''eu'''min}}
+|-
+| "if [it] is bad" || {{lang|jje|줏-}} {{transl|jje|jus-}} "to pick" || {{lang|jje|줏이민}} {{transl|jje|jus-'''i'''min}}
+|-
+| "if [he] puts in the soup" || {{lang|jje|ᄌᆞᆷ-}} {{transl|jje|jawm-}} "to put into soup" || {{lang|jje|ᄌᆞᆷ우민}} {{transl|jje|jawm-'''u'''min}}
+|}
+
+Like Standard Korean but unlike Middle Korean, [[Korean phonology#Vowel harmony|Koreanic vowel harmony]] is no longer generally applicable in all native morphemes{{sfn|Ko D.|1997|pp=10–15, 22–27}} but remains productive in [[sound symbolism]] and certain verbal suffixes. Jeju has two harmonic classes, [[yin and yang]]. The neutral vowel {{IPA|/i/}} can occur with either class.{{sfn|Ko J.|2011a|p=49}}
+
+{| class="wikitable"
+|-
+! Harmonic class !! colspan="4" | Vowel correspondences !! Sound symbolism
+|-
+| Yin|| {{IPA|ə}} || {{IPA|u}} || {{IPA|e}} || {{IPA|ɨ}} || Dark; heavy; dull; negative
+|-
+| Yang || {{IPA|a}} || {{IPA|o}} || {{IPA|æ}} || {{IPA|ɒ}} || Bright; light; sharp; positive
+|-
+| Neutral || colspan="4" | <div class="center">{{IPA|i}}</div> || {{n/a}}
+|}
+
+For instance, the [[perfective aspect]] marker {{lang|jje|-엇}} {{transl|jje|-eos}} takes the vowel harmonic [[allomorph]] {{lang|jje|-앗}} {{transl|jje|-as}} after verb stems whose (final) vowel is yang:{{sfn|Yang C.|Yang S.|O'Grady|2019|p=32}}
+
+{| class="wikitable"
+|-
+! Yin-class allomorph !! Yang-class allomorph
+|-
+| {{lang|jje|먹엇어}} {{transl|jje|m'''eo'''g-'''eo'''s-eo}} "ate" || {{lang|jje|갈앗어}} {{transl|jje|g'''a'''r-'''a'''s-eo}} "plowed"
+|-
+| {{lang|jje|궂엇어}} {{transl|jje|g'''u'''j-'''eo'''s-eo}} "was bad" || {{lang|jje|곱앗어}} {{transl|jje|g'''o'''b-'''a'''s-eo}} "hid"
+|-
+| {{lang|jje|긋엇어}} {{transl|jje|g'''eu'''s-'''eo'''s-eo}} "drew a line" || {{lang|jje|ᄃᆞᆯ앗어}} {{transl|jje|d'''aw'''r-'''a'''s-eo}} "ran"
+|-
+| colspan="2" | <div class="center"> {{lang|jje|싯엇어}} {{transl|jje|s'''i'''s-'''eo'''s-eo}} "washed" </div>
+|}
+
+In certain cases, suffix allomorphs do not match the harmonic class of the previous vowel. Verb stems with final vowel {{IPA|/u/}} or {{IPA|/ɨ/}} take the yang allomorph if their Middle Korean forms were {{IPA|/ɒ/}}, thus conserving their original harmonic class while violating their current one. Disyllabic stems that end in {{IPA|-u}} also take the yang allomorph, but monosyllabic {{IPA|-u}} stems or disyllabic {{IPA|-uC}} stems do not.{{sfn|Ko D.|1997|pp=42–43}}
+
+=== Phonotactics ===
+
+Jeju syllable structure is (C)(G)V(C) with G being a glide.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=21}}
+
+{| class="wikitable"
+|-
+! Syllable structure !! Jeju{{sfn|Dictionary|2009}} !! IPA
+|-
+| V || {{lang|jje|이}} {{transl|jje|i}} "this" || {{IPA|[i]}}
+|-
+| CV || {{lang|jje|따}} {{transl|jje|tta}} "earth" || {{IPA|[t͈a]}}
+|-
+| GV (or VV) || {{lang|jje|웨}} {{transl|jje|we}} "cause; principle" || {{IPA|[we]}}
+|-
+| CGV (or CVV) || {{lang|jje|쉬}} {{transl|jje|swi}} "filling" [for dumplings, etc.] || {{IPA|[swi]}}
+|-
+| VC || {{lang|jje|알}} {{transl|jje|al}} "egg" || {{IPA|[al]}}
+|-
+| CVC || {{lang|jje|ᄀᆞᆺ}} {{transl|jje|kawt}} "edge" || {{IPA|[kɔt̚]}}
+|-
+| GVC (or VVC) || {{lang|jje|윳}} {{transl|jje|yut}} "neighbor" || {{IPA|[jut̚]}}
+|-
+| CGVC (or CVVC) || {{lang|jje|광}} {{transl|jje|kwang}} "lunatic" || {{IPA|[kwaŋ]}}
+|}
+
+As in Standard Korean, {{transl|jje|ng-}} {{IPA|/ŋ/}} cannot occur syllable-initially, and {{transl|jje|l-}} {{IPA|/l/}} does not occur word-initially in native words.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=17–18}}
+
+=== Prosody ===
+
+Jeju does not have phonemic [[vowel length]], [[stress (linguistics)|stress]], or [[tone (linguistics)|tone]]. Its [[phonological hierarchy]] is characterized by accentual phrases similar to those of Standard Korean, with a basic Low-High-Low-High tonal pattern varying according to [[sentence type]], but there are also important differences in the two languages' prosody.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=21–22}} Jeju has a weaker tonal distinction within the first half of the accentual phrase than Seoul Korean does, while its aspirate consonants do not produce as significant a high pitch as their Seoul equivalents.{{sfn|Lee S.|2014}} Jeju uses more [[tone contour|contour tones]], where the pitch shifts within a single syllable, than Seoul Korean.{{sfn|Shin W.|2015}} Unlike in Seoul Korean,  older and fluent speakers of Jeju will also lengthen the final vowel of both clauses in [[alternative question]]s.{{sfn|Ko M.|Kim W.|Byun G.|Kim Jo.-h.|2007|pp=37–38}}
+
+== Grammar ==
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+ORD: ordinal numeral
+INTR: interrogative
+MED: medial demonstrative
+SE: sentence ender
+CE: canonical ending
+REP : reportive
+NPST: nonpast
+</div><section end="list-of-glossing-abbreviations"/>
+
+Jeju is [[morphological typology|typologically]] similar to Korean, both being [[head-final]] [[agglutinative]] languages.{{sfn|Kim Jee-h.|2015|p=345, ''passim''}} However, the two languages show significant differences in the verbal paradigm, such as Jeju's use of a dedicated conditional suffix.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=11}}
+
+=== Nouns ===
+
+Jeju nouns may be a single [[morpheme]], a [[compound (linguistics)|compound]] of multiple nouns, or a base noun with a merged attributive verb, or form through [[morphological derivation|derivational]] affixes attached to nouns or verb stems.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=37, 42–45}}{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=45–63}} In compound nouns that include a native morpheme, the phoneme {{lang|jje|-s-}} may intervene between the two elements.{{sfn|Ko J.|2011a|pp=87–88, 240–241}} Because this "in-between ''{{IPA|s}}''" appears only after a vowel and before a consonant, it is never realized as {{IPA|[s]}} but almost always surfaces as {{IPA|[t̚]}}.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=48–49}}
+
+* Single-morpheme noun: {{lang|jje|쉐}} {{transl|jje|swe}} "cattle"
+* Noun compound:
+{{fs interlinear|lang=jje|indent=3
+| 쉐 + 궤기 → 쉐궤기
+| swe {} gwegi {} swe-gwegi
+| "cattle" {} "meat" {} "beef"|}}
+* Noun compound with ''{{IPA|-s-}}'':
+{{fs interlinear|lang=jje|indent=3
+| 다리 + 빙 → 다릿빙
+| dari {} bing {} dari-t-bing
+| "leg" {} "illness" {} {"leg illness"}|}}
+* Noun with merged attributive verb:
+{{fs interlinear|lang=jje|indent=3
+| 앚- + 일 → 앚인일
+| aj- {} il {} aj-in-il
+| {"to sit"} {} "work" {} {"work done while sitting"}|}}
+* Noun derived from noun through affix:
+{{fs interlinear|lang=jje|indent=3
+| ᄌᆞᆷ → ᄌᆞᆷ주시
+| jawm {} jawm-jusi
+| "sleep" {} "sleepyhead"|}}
+* Noun derived from verb through affix:
+{{fs interlinear|lang=jje|indent=3
+| 먹- → 먹쉬
+| meog- {} meog-swi
+| {"to eat"} {} "glutton"|}}
+* [[Verbal noun]]:
+{{fs interlinear|lang=jje|indent=3
+| ᄃᆞᆺ- → ᄃᆞᆺ임
+| daws- {} daws-im
+| {"to be warm"} {} "warmth"|}}
+
+(Examples from Yang C., Yang S, and O'Grady 2019 and Ko J. 2011a{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=37, 42–45}}{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=45–63}})
+
+Some Jeju nouns are bound nouns, meaning that they cannot appear independently without a noun phrase.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=45–46}} The example below features the bound noun {{lang|jje|침}} {{transl|jje|chim}} "worth" accompanied by the obligatory attributive verb.
+
+<blockquote>
+{{fs interlinear
+|볼 '''침''' 읏저
+|bo-l '''chim''' eus-jeo
+|see-FUT.ATTR '''worth''' not.be-DEC
+|"hardly worth seeing"{{sfn|Yang C.|Yang S.|O'Grady|2019|p=46}}}}
+</blockquote>
+
+Jeju has two suffixing plural markers, which are obligatory for plural nouns accompanied by [[determiners]] and optional otherwise. The plural marker {{lang|jje|-덜}} {{transl|jje|-deol}} can occur with all nouns and pronouns. The marker {{lang|jje|-네}} {{transl|jje|-ne}} is restricted for humans and pronouns, and can also have an associative meaning: e.g. {{lang|jje|만수네}} {{transl|jje|Mansu-ne}} "Mansu and his family" ({{literal translation|Mansu and his associates}}). The combined sequence {{lang|jje|-네덜}} {{transl|jje|-ne-deol}} is sometimes also used.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=46–48}}
+
+Nouns accompanied by [[numeral system|numerals]] usually take a variety of [[classifier (linguistics)|classifiers]], such as {{lang|jje|재}} {{transl|jje|jae}} for counting trees and {{lang|jje|곡지}} {{transl|jje|gokji}} for counting songs. Classifiers for [[cardinal numeral|cardinals]] are unmarked, but those for [[ordinal numeral|ordinals]] are followed by the ordinal-marking {{lang|jje|체}} {{transl|jje|che}}.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=74–78}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|낭 ᄒᆞᆫ '''재'''|nang hawn '''jae'''|tree one CLF|"one tree"}}
+{{Col-2}}
+{{fs interlinear|낭 두 '''재''' 체|nang du '''jae''' che|tree two CLF ORD|"the second tree"}}
+{{Col-end}}
+</blockquote>
+
+==== Noun particles ====
+
+Jeju marks [[noun case]] and other semantic relations through suffixing [[noun particles]].{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=50, 57}} Particles that mark the nominative, accusative, and genitive cases are very frequently omitted.{{sfn|Ko J.|2011a|p=373}} The table below is not exhaustive and lists only some of the most significant particles.
+
+{| class="wikitable"
+|-
+! Function !! style="width: 10%" | Particle{{efn|Parts in parentheses are omitted following vowels}} !! style="width: 20%" | [[Allomorphy]] and variants !! Example !! style="width: 33%"| Usage notes
+|-
+| [[Nominative case|Nominative]]{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=50–52}}{{sfn|Kim Jee-h.|2015|pp=37–39}}{{efn|Yang C., Yang S., and O'Grady 2019 also classifies {{transl|jje|-(i)seo}} and {{transl|jje|-ra/re}} as nominative particles, but Kim Jee-hong points out that they are restricted in use and can be topicalized, and should thus be seen as nominative constructions that rely on non-nominative morphemes.}}
+| <div class="center">{{lang|jje|이}} <br> {{transl|jje|italics=no|-i}}</div>
+| After vowel: {{lang|jje|가}} {{transl|jje|italics=no|-ga}}
+| {{fs interlinear|할망'''이''' ᄀᆞᆯ안야?|halmang-'''i''' gawr-an-ya|"Did grandmother say that?"}}
+|  Does not appear in the [[Korean grammar#Copulative and existential verbs|complement]], unlike in Standard Korean.{{sfn|Ko J.|2011a|p=142}} Cannot be topicalized.{{sfn|Kim Jee-h.|2015|pp=37–39}}
+|-
+| [[Accusative case|Accusative]]{{sfn|Yang C.|Yang S.|O'Grady|2019|p=53}}
+| <div class="center">{{lang|jje|을}} <br> {{transl|jje|italics=no|-(eu)l}}</div>
+| Rare, formal post-vowel form: {{lang|jje|를}} {{transl|jje|italics=no|-reul}}
+| {{fs interlinear|시리레 ᄀᆞ를 담으라.|siri-re gawreu-'''l''' dam-eura|"Put the flour into the steamer."}}
+| Unlike in Korean, can be followed by other particles, e.g. {{lang|jje|늘광}} {{transl|jje|neu-l-gwang}} {{interlinear|2SG-ACC-COM}} "with you".{{sfn|Kim Jee-h.|2015|pp=39–42}}
+|-
+| rowspan="2" | [[Genitive case|Genitive]]{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=49, 53}}
+| <div class="center">{{lang|jje|이/의}}<br>{{transl|jje|italics=no|-i}}</div>
+|rowspan=4 {{n/a}}
+| {{fs interlinear|집'''이''' 밧은 어디 잇어?|jib-'''i''' bas-eun eodui is-eo|"Where is your family''''s''' field?"}}
+| {{transl|jje|-i}} is rare, but required when the subsequent [[noun phrase]] begins with an adnominal clause.{{sfn|Kim Jee-h.|2015|p=65}}
+|-
+| <div class="center">{{lang|jje|ㅅ}}<br>{{transl|jje|italics=no|-s}}</div>
+| {{fs interlinear|산 읫 낭|san ui-'''t''' nang|"the trees on the mountain"}}
+| Called "pseudo-genitive" in Yang C., Yang S., and O'Grady 2019.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=48}} Appears in certain compounds, as mentioned above. May also follow a locative marker to attribute a noun.
+|-
+| rowspan="4" | [[Dative case|Dative]]{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=54–55}}
+| <div class="center">{{lang|jje|ᄀᆞ라}}<br>{{transl|jje|italics=no|-gawra}}</div>
+| {{fs interlinear|가의'''ᄀᆞ라''' 공븨ᄒᆞ렌 ᄒᆞᆸ서.|gaui-'''gawra''' gongbui-haw-ren haw-b-seo|"Please tell him to study."}}
+| Restricted to human addressees of verbs of speaking.
+|-
+| <div class="center">{{lang|jje|신디}}<br>{{transl|jje|italics=no|-sindi}}</div>
+| {{fs interlinear|그 사름'''신디''' ᄀᆞᆯ읍디가?|geu sareum-'''sindi''' gawr-eup-di-ga|"Did you talk '''to''' that person?"}}
+| rowspan="3"| May be used with the verb {{lang|jje|싯다}} {{transl|jje|sitda}} "to exist" to form possessive constructions, with the dative marking the possessor.
+
+May also be suffixed with the [[allative]] particle {{transl|jje|-re}} to give further emphasis and a connotation of movement, or with the locative particle {{transl|jje|-seo}} to express an [[ablative case|ablative]] meaning.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=61}}{{sfn|Moon S.|Kim W.|2017|pp=66–68}}
+|-
+| <div class="center">{{lang|jje|안티}}<br>{{transl|jje|italics=no|-anti}}</div>
+| Due to interference from Korean cognate {{lang|ko|한테}} {{transl|ko|italics=no|-hante}}: {{lang|jje|한티}} {{transl|jje|italics=no|-hanti}}, {{lang|jje|안테}} {{transl|jje|italics=no|-ante}}{{sfn|Saltzman|2014|pp=55–56}}
+| {{fs interlinear|느'''안티''' 주마.|neu-'''anti''' ju-ma|"I will give [it] '''to''' you."}}
+|-
+| <div class="center">{{lang|jje|아피}}<br>{{transl|jje|italics=no|-api}}</div>
+| {{n/a}}
+| {{fs interlinear|누게'''아피''' 줍디가?|nuge-'''api''' ju-p-di-ga|"'''To''' whom did you give [it]?"}}
+|-
+| rowspan="3" | [[Topic marker|Topic-marking]]{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=55–57}}{{sfn|Moon S.|2002|pp=75–76}}
+|  <div class="center">{{lang|jje|은}}<br>{{transl|jje|italics=no|-(eu)n}}</div>
+| Rarely, after vowel: {{lang|jje|는}} {{transl|jje|italics=no|-neun}}
+| {{fs interlinear|오널'''은''' 궹일날이우다.|oneor-'''eun''' gwengilnal-i-u-da|"Today is Sunday."}}
+| Either introduces a new topic or establishes a contrast. Must have a contrastive meaning sentence-internally.
+|-
+| <div class="center">{{lang|jje|(이)랑}}<br>{{transl|jje|italics=no|-(i)rang}}{{efn|name=SegmentLoss|Initial segment also lost after [[liquid consonant]] {{IPA|-l}}}}</div>
+| {{n/a}}
+| {{fs interlinear|하르방'''이랑''' 저레 앚입서.|hareubang-'''irang''' jeo-re aj-ib-seo|"Grandfather [and not anyone else], sit there."}}
+| rowspan="2" | Contrastive meaning only.
+|-
+| <div class="center">{{lang|jje|(이)라근}}<br>{{transl|jje|italics=no|-(i)rageun}}{{efn|name=SegmentLoss}}</div>
+| Also used: {{lang|jje|(이)라근에}} {{transl|jje|italics=no|-(i)rageune}}
+| {{fs interlinear|느'''라근''' 집이 가라.|neu-'''rageun''' jib-i ga-ra.|"You [and not anyone else], go home."}}
+|-
+| rowspan="4" | [[Locative case|Location-related]]{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=57–60}}{{sfn|Kim Jee-h.|2015|pp=42–47}}
+| <div class="center">{{lang|jje|이/의}}<br>{{transl|jje|italics=no|-i}}</div>
+|  After {{IPA|-i}} and possibly {{IPA|-l}}: {{lang|jje|에}} {{transl|jje|italics=no|-e}}
+
+Occasionally after any vowel: {{lang|jje|예}} {{transl|jje|italics=no|-ye}}
+| {{fs interlinear|성 바당'''의''' 셔?|seong badang-'''i''' sy-eo|"Is my older sibling '''at''' the sea?"}}
+| Refers to location for [[stative verbs]] and direction for [[dynamic verbs]]; may also refer to time.
+
+According to Kim Jee-hong 2015, {{transl|jje|-(y)e}} is not an allomorph but a different locative morpheme used for clearly [[Boundedness (linguistics)|bounded]] spaces, such as tables or containers.
+|-
+|  <div class="center">{{lang|jje|(이)서/(의)서}}<br>{{transl|jje|italics=no|-(i)seo}}</div> || Post-vowel form {{transl|jje|-seo}} sometimes occurs after consonant.
+| {{fs interlinear|ᄒᆞᆨ게'''서''' 공븨ᄒᆞ게.|hawkge-'''seo''' gongbui-haw-ge|"Let's study '''at''' school."}}
+| Refers to location for action verbs.
+|-
+| <div class="center">{{lang|jje|디, 디서}}<br>{{transl|jje|italics=no|-di, -diseo}}</div>
+| {{n/a}}
+| {{fs interlinear|밧'''디'''|bat-'''di'''|"'''In''' the field"}}
+| Variants of {{transl|jje|-i}}, {{transl|jje|-iseo}} used to emphasize the boundedness of the referent.
+
+Analyzed by Yang S., Yang C., and O'Grady 2019 not as a separate morpheme but as a bound noun meaning "place," juxtaposed with the locational noun.
+|-
+| <div class="center">{{lang|jje|(드)레}}<br>{{transl|jje|italics=no|-(deu)re}}{{efn|name=SegmentLoss}}</div>
+| After liquid consonant {{IPA|-l}} and sometimes after vowel: {{lang|jje|르레/러레}} {{transl|jje|italics=no|-leure/leore}}
+
+Initial syllable {{transl|jje|deu-}} also found as {{transl|jje|deo-}}, {{transl|jje|teu-}}, {{transl|jje|ti-}}, {{transl|jje|di-}}, {{transl|jje|de-}}, or {{transl|jje|ri-}}
+| {{fs interlinear|이착'''드레''' 비와불라.|i-chak-'''deure''' biw-a-bul-la|"Pour [it] '''to''' this side."}}
+| Denotes direction of movement, like English "to; into; toward."
+
+Moon S. and Kim W. 2017 analyzes {{lang|jje|레}} {{transl|jje|-re}} and {{lang|jje|드레}} {{transl|jje|-deure}} as distinct particles, with {{transl|jje|-re}} having a solely directional meaning while {{transl|jje|-deure}} simultaneously emphasizes both the direction and the location of the direction's destination.{{sfn|Moon S.|Kim W.|2017|pp=64–65}} Most sources treat the two as allomorphs, especially when appended to nouns.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=57}}{{sfn|Ko J.|2011a|p=147}}{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|p=110}}
+|-
+| rowspan="3" | [[Comitative case|Comitative]] and conjunctive{{sfn|Yang C.|Yang S.|O'Grady|2019|p=63}}
+| <div class="center">{{lang|jje|(이)영}}<br>{{transl|jje|italics=no|-(i)yeong}}</div
+| rowspan="2" {{n/a}}
+| {{fs interlinear|가읜 어멍이영 ᄉᆞ답ᄒᆞ염ㅅ우게.|gaui-n eomeong-'''iyeong''' sawdab-haw-yeoms-u-ge|"S/he is doing the laundry '''with''' his/her mom."}}
+| rowspan="3" | Kim Jee-hong 2015 notes:
+
+<blockquote>"These case markers only have differences of connotation, and may be interchangeably used without the least change in meaning."<ref>"이들 격조사는 오직 어감의 차이가 있을 뿐, 의미 차이가 전혀 없이 마음대로 바꿔 쓸 수 있다." {{harvnb|Kim Jee-h.|2015|p=58}}</ref>
+</blockquote>
+Like in Middle Korean but unlike in Modern Seoul Korean, comitative markers may occur on the final element being linked and also take other case markers.{{sfn|Kim Jee-h.|2015|p=62}}
+  {{fs interlinear|indent=2
+  |책광 가방'''광을''' 주다
+  |chaek-gwang gabang-'''gwang'''-'''eul''' ju-da
+  |book-COM bag-COM-ACC give-SE
+  |"Give books and bags"}}
+|-
+| <div class="center">{{lang|jje|왕/광}}<br>{{transl|jje|italics=no|-(g)wang}}{{efn|Some vowel-final stems take {{transl|jje|-gwang}}}}</div>
+| {{fs interlinear|지슬광 ᄃᆞᆨ세기|jiseul-'''gwang''' dawksegi|"potatoes '''and''' eggs"}}
+|-
+| <div class="center">{{lang|jje|ᄒᆞ곡}}<br>{{transl|jje|italics=no|-hawgok}}</div>
+| Also used: {{lang|jje|ᄒᆞ고}} {{transl|jje|italics=no|-hawgo}}
+| {{fs interlinear|낭ᄒᆞ고 고장 ᄒᆞᄊᆞᆯ 싱그라.|nang-'''hawgok''' gojang hawsseul singgeu-ra|"Please plant some trees '''and''' flowers."}}
+|}
+
+=== Verbs ===
+
+The Jeju verb consists of a root that is followed by suffixes that provide grammatical information such as [[voice (grammar)|voice]], [[Tense–aspect–mood|tense, aspect, mood]], [[evidentiality]], [[honorifics (linguistics)|relative social status]], and the formality of the utterance. Jeju verbs include not only action verbs familiar to English speakers such as {{lang|jje|먹다}} {{transl|jje|meokda}} "to eat" or {{lang|jje|베리다}} {{transl|jje|berida}} "to see," but also adjectival verbs such as {{lang|jje|버치다}} {{transl|jje|beochida}} "to be heavy" or {{lang|jje|훍다}} {{transl|jje|hultta}} "to be thick."{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=93–94}} Verbs can take [[derivation (linguistics)|derivational]] suffixes to form [[adverb]]s and nouns.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=44–45, 116}}
+
+* {{lang|jje|ᄇᆞ디-}} {{transl|jje|bawdi-}} "to be close"{{sfn|Dictionary|2009|p=475}} →  {{lang|jje|ᄇᆞ디'''게'''}} {{transl|jje|bawdi-'''ge'''}} "close'''ly'''"
+* {{lang|jje|궂-}} {{transl|jje|guj-}} "to be bad" →  {{lang|jje|궂'''임'''}} {{transl|jje|guj-'''im'''}} "bad'''ness'''"
+* {{lang|jje|입-}} {{transl|jje|ib-}} "to wear" →  {{lang|jje|입'''기'''}} {{transl|jje|ip-'''gi'''}} "wear'''ing'''"
+
+Especially for [[wh-question]]s and exclamations, Jeju speakers commonly use a verbal noun in place of a verb inflected for tense-aspect-mood.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=103–104}}
+
+<blockquote>
+{{fs interlinear
+|날도 영 ᄃᆞᆺ'''임'''광!
+|nal-do yeong daws-im-gwang
+|day-even like.this warm-NMLZ-COM
+|"What a warm day!" ({{literal translation|With the warmth of even the day like this!}})
+}}
+</blockquote>
+
+Verbs may also be given an [[attributive verb|attributive]] meaning through one of four adnominal suffixes.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=231}}
+
+* Adnominal suffix {{lang|jje|은}} {{transl|jje|-(eu)n}}:{{efn|name=Epenthetical|Initial vowel {{transl|jje|-eu-}} has [[#Vowel phonological processes|epenthetical vowel allomorphs]]}} Past event for action verbs, achieved state for adjectival verbs{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=231–232}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|나가 탄 미깡|na-ga ta-'''n''' mikkang|"The tangerine that I picked"}}
+{{Col-2}}
+{{fs interlinear|ᄃᆞᆺ'''인''' 구들|daws-'''in''' gudeul|"The [already] warm room"}}
+{{Col-end}}
+</blockquote>
+
+* Adnominal suffix {{lang|jje|단}} {{transl|jje|-dan}}: Habitual action in the past{{sfn|Yang C.|Yang S.|O'Grady|2019|p=232}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|뎅기'''단''' 웃드르|denggi-'''dan''' utdeureu|"The mountain villages that we used to go to"}}
+{{Col-2}}
+{{fs interlinear|ᄃᆞᆺ'''단''' 구들|daws-'''dan''' gudeul|"The room that used to be warm"}}
+{{Col-end}}
+</blockquote>
+
+* Adnominal suffix {{lang|jje|(으)는}} {{transl|jje|-(eu)neun}}:{{efn|name=Epenthetical}} Nonpast/present event or state, commonly [[habitual aspect|habitual]]; cannot occur with other suffixes and must combine directly with the bare verb stem;{{sfn|Yang C.|Yang S.|O'Grady|2019|p=233}} can occur with adjectival verbs, unlike in Korean{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|p=170}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|아'''는''' 예청|a-'''neun''' yecheong|"The woman who I know"}}
+{{Col-2}}
+{{fs interlinear|ᄃᆞᆺ'''이는''' 구들|daws-'''ineun''' gudeul|"The [usually] warm room"}}
+{{Col-end}}
+</blockquote>
+
+* Adnominal suffix {{lang|jje|을}} {{transl|jje|-(eu)l}}:{{efn|name=Epenthetical}} Future/conjectural event or state{{sfn|Yang C.|Yang S.|O'Grady|2019|p=234}}
+
+<blockquote>{{fs interlinear
+|ᄐᆞᆮ'''을''' ᄉᆞᆼ키
+|tawd-'''eul''' sawngki
+|"Vegetables that s/he will pluck"}}
+</blockquote>
+
+==== Pre-final suffixes ====
+
+Jeju has a number of pre-final verbal suffixes: [[tense-aspect-mood]] markers which follow the verb stem but cannot appear at the end of the inflected verb.{{sfn|Ko J.|2011b|pp=9–10}} The exact number of these suffixes is unclear because scholars disagree on the correct morphological [[segment (linguistics)|segmentation]]. One analysis of the suffix paradigm, as presented in Yang C., Yang S., and O'Grady 2019, is given below.
+
+[[File:Yang C., Yang S., and O'Grady 2019's Jeju verb.png|frameless|center|600x449px]]
+
+There is relatively widespread agreement on the existence of the following four discrete TAM morphemes, presented in the order they co-occur: the [[continuative aspect]] marker {{lang|jje|어ᇝ}} {{transl|jje|-eoms}}, the [[perfective aspect]] marker {{lang|jje|엇}} {{transl|jje|-eos}}, the [[irrealis mood|prospective mood]] marker {{lang|jje|읔}} {{transl|jje|-(eu)k}}, and the [[realis mood]] marker {{lang|jje|(으)느}} {{transl|jje|-(eu)neu}}.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=120}}{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=128–129}}{{sfn|Ko J.|Song S.|Kim Jee-h.|Oh C.|2014|pp=144–147, 164}} Depending on the analysis of the [[#Vowel phonological processes|aforementioned]] epenthetical vowels that precede many verbal suffixes, the base forms of the three morphemes may alternately be analyzed as {{lang|jje|엄시}} {{transl|jje|-eomsi}}, {{lang|jje|어시}} {{transl|jje|-eosi}}, {{lang|jje|크}} {{transl|jje|-keu}}, and {{lang|jje|느}} {{transl|jje|-neu}}.{{sfn|Ko J.|Song S.|Kim Jee-h.|Oh C.|2014|pp=168–176}}
+
+{{transl|jje|-eoms(i)}} is an [[imperfective aspect|imperfective]] or [[continuative aspect]] particle, referring to a process perceived as ongoing and similar to the English construction "be VERB-ing."{{sfn|Yang C.|Yang S.|O'Grady|2019|p=120}}{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=196–197}}{{sfn|Ko Y.|2008|p=125}} With an adjectival verb, it has an [[inchoative aspect|inchoative]] ("beginning to; become") meaning. A verb with {{transl|jje|-eoms(i)}} is interpreted as either present or future by default,{{sfn|Yang C.|Yang S.|O'Grady|2019|p=120}} and some analyses interpret the particle as also conveying the present tense for specific events and states.{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=184–187}}{{sfn|Hong C.|2001|pp=291–293}} The suffix has a vowel-harmonic variant {{transl|jje|-ams(i)}}, as well as allomorphs {{transl|jje|-yeoms(i)}}, {{transl|jje|-yams(i)}}, and {{transl|jje|-ms(i)}} when following certain vowels.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=120}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|ᄀᆞᆯ개비 ᄎᆞᆽ아ᇝ어.|gawlgaebi chawj-'''ams'''-eo|frog search-CONT-SE|"S/he is looking for the frog."}}
+{{Col-2}}
+{{fs interlinear|짚어ᇝ저.|jip-'''eoms'''-jeo|be.deep-CONT-SE|"It is becoming deep."}}
+{{Col-end}}
+</blockquote>
+
+Often characterized as a [[perfective aspect]] marker,{{sfn|Ko Y.|2008|pp=107–110}}{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=124–126}} {{transl|jje|-eos(i)}} has also been described as a [[present perfect]] marker{{sfn|Ko Y.|2008|p=115}} and as behaving as a perfective marker with some verbs and as a past tense marker with others.{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=175–176, 199–200}} {{transl|jje|-eos(i)}} can express non-past events in certain constructions that call for verbs "conceptualized in their entirety," such as a hypothetical future event. In adjectival verbs, it may also refer to a current state that contrasts with a past situation.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=124–126}} {{transl|jje|-eos(i)}} can also be doubled for a [[habitual aspect|habitual]] or a [[past perfect]] interpretation.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=144}} Also like {{transl|jje|-eoms}}, this suffix takes the vowel-harmonic variant {{transl|jje|-as(i)}} and has allomorphs {{transl|jje|-yeos(i)}}, {{transl|jje|-yas(i)}}, and {{transl|jje|-s(i)}} after certain vowels.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=124}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|지슬 팟저.|jiseul pa-'''t'''-jeo|potato dig-PFV-SE|"S/he dug potatoes."}}
+{{Col-2}}
+{{fs interlinear|날 막 얼엇저.|nal mak eor-'''eot'''-jeo|day very be.cold-PFV-SE|"It is very cold [compared to before]."}}
+{{Col-end}}
+</blockquote>
+
+The prospective mood marker {{lang|jje|읔/으크}} {{transl|jje|-(eu)k/(eu)keu}}{{efn|name=Epenthetical}} marks the subject's [[volition (linguistics)|intention]] in first-person-subject declarative sentences or second-person-subject interrogative sentences, and the speaker's conjecture otherwise. {{transl|jje|-(eu)k}} may also have a future-tense interpretation.{{sfn|Woo C.|2008|pp=71–72}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|ᄂᆞᆷ삐 데끼켜.|nawmppi dekki-'''k'''-yeo|radish throw-PROSP-SE|"I will throw away the radish."}}
+{{Col-2}}
+{{fs interlinear|가이 지레가 크클아.|gai jire-ga keu-'''k'''-eur-a{{efn|According to the segmentation of Yang C., Yang S., and O'Grady 2019. May also be segmented as <blockquote>{{interlinear|gai jire-ga keu-'''keu'''-ra|3SG height-NOM grow-PROSP-SE|}}</blockquote> See section [[#Tense-marking|Tense-marking]].}}|3SG height-NOM grow-PROSP-FUT-SE|"It seems that s/he will grow tall."}}
+{{Col-end}}
+</blockquote>
+
+{{transl|jje|-(eu)k}} can only be followed by a small number of suffixes in Yang C., Yang S., and O'Grady 2019's analysis.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=128}} Some analyses treat the initial vowel of the following suffix as part of an allomorph or nuanced variant of {{transl|jje|-(eu)k}}, so that {{lang|jje|가커라}} {{transl|jje|gakeora}} "[I] will go" may be segmented as {{transl|jje|ga-k-eora}} or {{transl|jje|ga-keo-ra}}.{{sfn|Kim Jee-h.|2015|pp=195–196}}
+
+The [[realis mood|realis]] or [[indicative mood]] marker {{lang|jje|(으)느}} {{transl|jje|-(eu)neu}}{{efn|name=Epenthetical}} indicates "a fact or habitual action in the nonpast"{{sfn|Yang C.|Yang S.|O'Grady|2019|p=128}} which the speaker perceives to be true in general, permanently, or over a longer duration of time, as demonstrated in the contrast below.{{sfn|Woo C.|2005|pp=399–400}}{{sfn|Ko J.|Song S.|Kim Jee-h.|Oh C.|2014|p=164}} The putative non-past-tense marker {{transl|jje|-(eu)n}} may also be analyzed as an allomorph of {{transl|jje|-(eu)neu}}.{{sfn|Woo C.|2005|p=387}} In this context, the morpheme {{transl|jje|-(eu)n(eu)}} has also been interpreted as a [[perfect (grammar)|perfect]] marker (not to be confused with the perfective marker).{{sfn|Ko Y.|2008|p=123}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|이 신 느안티 크냐?|i sin neu-anti keu-nya{{efn|In Yang C., Yang S., and O'Grady 2019's segmentation, {{transl|jje|-nya}} is two morphemes.}}|this shoe 2SG-DAT be.big-INTR|"Is this shoe [too] big for you [right now]?"}}
+{{Col-2}}
+{{fs interlinear|이 신 느안티 크느냐?|i sin neu-anti keu-'''neu'''-nya|this shoe 2SG-DAT be.big-IND-INTR|"Has this shoe [always] been [too] big for you?"}}
+{{Col-end}}
+</blockquote>
+
+The existence of the Korean subject-[[Honorifics (linguistics)|honorific]] marker {{lang|jje|(으)시}} {{transl|jje|-(eu)si}} is controversial for Jeju, with some scholars arguing that it was entirely absent and others that it was restricted to higher [[register (sociolinguistics)|registers]].{{sfn|Ko J.|Song S.|Kim Jee-h.|Oh C.|2014|p=154}} Ko J. 2011b notes that it was used only "by officials while referring to people of very high status and by the ''[[seonbi]]'' of the educated classes."<ref>"지체가 높은 사람을 대하는 관료층과 식자층의 선비들" {{harvnb|Ko J.|2011b|p=22}}</ref>
+
+==== Segmenting verb-final suffixes ====
+
+The segmentation of verb-final elements is controversial. The two recent extensive treatments of the topic, Yang C., Yang S., and O'Grady 2019<ref name=":0">{{harvnb|Yang C.|Yang S.|O'Grady|2019|pp=119–229}}, summarized with some variation (e.g. analysis of {{transl|jje|-neun}} as a single morpheme) in {{harvnb|Yang S.|2020}}</ref> and Kim Jee-hong 2015,<ref>{{harvnb|Kim Jee-h.|2015|pp=76–395}}, summarized in English with some variation in {{harvnb|Kim Jee-h.|2017}}</ref> give incompatible analyses of the suffix paradigm.
+
+Yang C., Yang S., and O'Grady 2019 includes a slot for [[grammatical tense|tense]] in the Jeju verb, with three dedicated markers.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=130–142}}
+
+* Non-past tense: {{lang|jje|은}} {{transl|jje|-(eu)n}}{{efn|name=Epenthetical}}
+* Past tense: {{lang|jje|언}} {{transl|jje|-eon}}, with vowel-harmonic allomorph {{lang|jje|안}} {{transl|jje|-an}}
+* Future tense: {{lang|jje|을}} {{transl|jje|-(eu)l}}{{efn|name=Epenthetical}}
+
+They further divide verb-final suffixes into three categories: Type 1, which cannot occur with tense markers; Type 2, which must occur with either a tense marker or the aspect marker {{transl|jje|-eoms}}, which loses its underlying {{IPA|-s}} before a Type 2 suffix; and a mixed type, which can occur with the non-past marker but not with the other two tense markers. The vast majority of suffixes are categorized as Tense 1 and thus cannot follow a tense marker.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=162–165, 230}} Uniquely among pre-final suffixes, the past tense marker {{transl|jje|-eon}} can also appear without a final suffix.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=138}}
+
+Examples of Yang C., Yang S., and O'Grady 2019's segmentation are given below.
+
+<blockquote>
+{|
+! width="50%" | Aspect + Type 1 sequence
+!
+! width="50%" | Tense + Type 2 sequence
+|- valign=top
+| {{fs interlinear|지슬 ᄆᆞᆫ 데꼇어라.|jiseul mawn dekky-eos-eora{{sfn|Yang C.|Yang S.|O'Grady|2019|p=170}}|potato all throw-PFV-SE|"[I noticed that he/she] had thrown away all the potatoes."}}
+|
+| {{fs interlinear|파치 잘 줏언게.|pachi jal jus-eon-ge{{sfn|Yang C.|Yang S.|O'Grady|2019|p=188}}|fallen.tangerines well pick-PST-SE|"[I saw him/her] pick tangerines well."}}
+|}
+</blockquote>
+
+In Kim Jee-hong's analysis, verb-final single morphemes are termed "canonical endings." Canonical endings are contrasted with a wide variety of "non-canonical endings," formed by the fusion of various grammatical elements such as multiple canonical endings, truncated conjunctive and embedded sentences, and bound nouns{{efn|Called "formative" by Kim Jee-hong}} connected to the verb stem or a canonical ending via an attributive or a nominalizer.{{sfn|Kim Jee-h.|2015|pp=106–109}}{{sfn|Kim Jee-h.|2017|pp=237–249}} The most common canonical component of these non-canonical endings is the suffix {{lang|jje|어}} {{transl|jje|-eo}} (vowel-harmonic allomorph {{lang|jje|아}} {{transl|jje|-a}}), which Kim calls the [[unmarked]] "default ending."{{sfn|Kim Jee-h.|2017|pp=239–240}}{{sfn|Kim Jee-h.|2015|p=128}}
+
+Since Yang C., Yang S., and O'Grady 2019's tenses align with the aforementioned attributive suffixes,{{sfn|Kim Jee-h.|2015|pp=172–175}} sentences they analyze as "Tense-Type 2 Suffix" sequences are often analyzed as non-canonical endings with a "Canonical ending-Attributive-Bound noun" composition by Kim Jee-hong. Many of Yang C., Yang S., and O'Grady 2019's Type 1 suffixes are also interpreted as polymorphemic non-canonical endings. Kim Jee-hong also segments some of Yang C., Yang S., and O'Grady 2019's mixed-type suffixes so that the base form of the suffix includes the {{transl|jje|-n}} of the latter's non-past tense marker.{{sfn|Kim Jee-h.|2015|pp=223, 349}}
+
+Examples from Kim Jee-hong 2015's analysis, directly corresponding to the examples above of Yang C., Yang S., and O'Grady 2019, are given below. The "default ender" {{transl|jje|-eo}} is bolded.
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|그 낭 다 컷어라.|geu nang da k-eos-'''eo'''-ra{{sfn|Kim Jee-h.|2015|p=147}}|MED tree all grow-PFV-CE-CE|"[I noticed that] that tree had fully grown."}}
+{{Col-2}}
+{{fs interlinear|지금도 고완게.|jigeum-do gow-'''a'''-n-ge{{sfn|Kim Jee-h.|2015|pp=147–148, 193–198}}|now-too be.pretty-CE-ATTR-thing|"[I saw that s/he] was still pretty."}}
+{{Col-end}}
+</blockquote>
+
+==== Sentence enders ====
+
+Jeju has a number of clause-final suffixes, called "sentence enders" in Yang C., Yang S., and O'Grady 2019{{sfn|Yang C.|Yang S.|O'Grady|2019|p=161}} and "terminal suffixes" ({{lang-ko|종결어미}} {{transl|ko|jonggyeol eomi}}) in Korean,{{sfn|Kim Jee-h.|2015|p=78}} that provide information such as degree of formality, social status, evidentality, and modality.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=161}} Sentence enders may consist of one or multiple morphemes.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=128}}{{sfn|Kim Jee-h.|2015|pp=106–109}} Kim Jee-hong argues for four [[Korean speech levels|speech levels]] in Jeju, defined by the degree of formality and deference their sentence enders connote: informal and plain (non-honorific); formal and plain; informal and honorific, marked by the morpheme {{lang|jje|우}} {{transl|jje|-u-}}, and formal and honorific, featuring the morpheme {{lang|jje|읍}} {{transl|jje|-eup}}.{{sfn|Kim Jee-h.|2015|pp=233–236}} An archaic speech level showing extreme deference is attested from shamanic chants.{{sfn|Kim Jee-h.|2015|pp=100–101}}
+
+As different segmentation hypotheses produce different sentence enders. the chart below will list only a small, illustrative sample of the dozens of suffixes that appear in Yang C., Yang S., and O'Grady 2019 and Kim Jee-h. 2015. The classification is based on Kim Jee-hong 2017,{{sfn|Kim Jee-h.|2017|pp=239–241, 245, 248}} which differs from Kim Jee-hong 2015.{{efn|Kim Jee-hong 2015 classifies all endings that can be followed by the deferential marker {{transl|jje|massim}} as informal, but Kim Jee-hong 2017 does so only for non-canonical endings.}}
+                                            <!-- Hidden text: Separate sources column greatly reduces clutter -->
+{| class="wikitable"
+|+Informal and plain
+|-
+! colspan="2" | Morpheme{{efn|name=AlwaysEpenthetical}} !! width="25%" | Example{{efn|name=Parenthesis|Parentheses mark differences in segmentation between Yang C., Yang S., and O'Grady 2019 and Kim Jee-hong. Notably, Kim Jee-hong does not analyze the vowel {{transl|jje|-i-}} following aspect markers as an epenthetical vowel but as a separate morpheme.{{sfn|Kim Jee-h.|2015|pp=181–186}}}} !! width="55%" | Usage !! Sources
+|-
+| style="border-right:0" | {{lang|jje|어/아}} ||style="border-left:0" | {{transl|jje|italics=no|-eo/a}}{{efn|name=VowelHarmony|Vowel harmony}}
+ || {{fs interlinear|가이 고와?|gai gow-'''a'''|"Is s/he pretty?"}}
+ || Kim Jee-hong considers {{transl|jje|-eo}} the [[unmarked]] sentence ender. Depending on [[suprasegmentals]], the suffix may be used in a plain statement, a question, a command, an exclamation, or a construction in which the speaker informs the addressee of information that the latter did not know and expects a confirmatory response. The suffix is also found in Standard Korean with a similar degree of versatility and widespread use.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=167–168}}{{sfn|Kim Jee-h.|2015|pp=128–131}}
+|-
+| style="border-right:0" | {{lang|jje|(으)주}} || style="border-left:0" | {{transl|jje|italics=no|-(eu)ju}}
+ || {{fs interlinear|만수 말 잘 ᄀᆞᆮ주.|Mansu mal jal gawd-'''ju'''|"Mansu talks well."}}
+ || According to Kim Jee-hong, {{transl|jje|-ju}} conveys a statement of presumption or assumption without direct supporting experience, and invites the addressee to confirm the statement's veracity. Kim also states that {{transl|jje|-ju}} may end a confirmatory question with the implication that the addressee should agree with the speaker.
+
+According to Yang C., Yang S., and O'Grady, {{transl|jje|-ju}} expresses a statement of intention or strong assertion with a first-person subject and a statement of judgement or assumption with a third-person subject, and may also convey regret or advice.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=180–182}}{{sfn|Kim Jee-h.|2015|pp=143–145}}
+|-
+| style="border-right:0" | {{lang|jje|(은)게}} || style="border-left:0" | {{transl|jje|italics=no|(-eun)-ge}}
+ || {{fs interlinear|날 우쳣인게.|nal uchy-eos-i(-)'''n-ge'''|"[I see that] the day was cloudy."}}
+ || {{transl|jje|(-eun)-ge}} generally conveys a statement of fact that the speaker has directly observed, or has inferred from a direct observation.
+
+In Yang C., Yang S., and O'Grady 2019, the suffix is given as {{transl|jje|-ge}}, a special Type 2 suffix which can only combine with the two tense markers ending in {{transl|jje|-n}}. Kim Jee-hong classifies it as a non-canonical ending composed of a fused attributive {{transl|jje|-eun}} and bound noun.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=187–188}}{{sfn|Kim Jee-h.|2015|pp=197–198}}
+|-
+| style="border-right:0" | {{lang|jje|(으)멘}} || style="border-left:0" | {{transl|jje|italics=no|(-eu)men}}
+ || {{fs interlinear|느 무시거 시치멘?|neu musigeo sichi-'''men'''|"What are you washing?"}}
+ || {{transl|jje|(-eu)men}} is used for both statements and questions, but only when the speaker and addressee are emotionally intimate. When the verb is inflected for aspect, {{transl|jje|(-eu)men}} is used to refer to a past event that was observed or inferred from observation. If uninflected, the suffix denotes an ongoing event.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=171–172}}{{sfn|Kim Jee-h.|2015|pp=219–221}}
+|}
+
+{| class="wikitable"
+|+Formal and plain
+|-
+! colspan="2" | Morpheme{{efn|name=AlwaysEpenthetical|Initial vowel {{transl|jje|-eu-}} is always [[#Vowel phonological processes|epenthetical]] in these examples.}} !! width="25%" | Example{{efn|name=Parenthesis}} !! width="55%" | Usage !! Sources
+|-
+| style="border-right:0" | {{lang|jje|다}} || style="border-left:0" | {{transl|jje|italics=no|-da}}
+ || {{fs interlinear|도새기 것 먹엇다.|dosaegi geot meog-eot-'''da'''|"The pig ate the fodder."}}
+ || Unmarked formal statement ender. Dictionary citation form.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=94}}
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=175–177}}{{sfn|Kim Jee-h.|2015|pp=113–116}}
+|-
+| style="border-right:0" | {{lang|jje|(으)저}} || style="border-left:0" | {{transl|jje|italics=no|-(eu)jeo}}
+ || {{fs interlinear|하르방 몸 ᄀᆞᆷ앗저.|hareubang mom gawm-at-'''jeo'''|"Grandfather took a bath."}}
+ || {{transl|jje|-jeo}} expresses a factual statement with the premise that the addressee is unaware of the fact, and may implicitly either urge the addressee to accept this new information or rebuke the addressee for not having known it. With a first-person subject, {{transl|jje|-jeo}} conveys the speaker's intention to do something. Whether these two uses of {{transl|jje|-jeo}} are connected uses of the same morpheme, or whether they are two different [[homophonous]] morphemes, is disputed.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=177–179}}{{sfn|Kim Jee-h.|2015|pp=116–121}}
+|-
+| style="border-right:0" | {{lang|jje|나}} || style="border-left:0" | {{transl|jje|italics=no|-na}}
+ || {{fs interlinear|이 풀 사름덜이 먹나.|i pul sareum-deor-i meong-'''na'''|this plant person-PL-NOM eat-'''''na'''''|"This plant is edible."}}
+ || Expresses a statement of fact with the implication that it is an intrinsic or permanent quality or state; commonly found with proverbs and aphorisms. {{transl|jje|-na}} is also used to ask questions about facts (including non-permanent facts), where it has a "somewhat authoritative tone." As with {{transl|jje|-jeo}}, whether these two uses reflect the same morpheme or two homophonous ones is disputed.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|p=174}}{{sfn|Kim Jee-h.|2015|pp=87–91, 263–264, 375–358}}
+|-
+| style="border-right:0" | {{lang|jje|고나}} || style="border-left:0" | {{transl|jje|italics=no|-gona}}
+ || {{fs interlinear|이디 물 새라낫고나!|i-di mul saer-a-na-t-'''gona'''|"The water had leaked here!"}}
+ || Expresses a statement of surprise or excitement.
+
+Yang C., Yang S., and O'Grady 2019 gives the suffix as {{lang|jje|구나}} {{transl|jje|-guna}} instead. Kim Jee-hong reports that the suffix can be shortened to a single syllable {{lang|jje|고}} {{transl|jje|-go}}.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|p=190}}{{sfn|Kim Jee-h.|2015|pp=368–371}}
+|-
+| style="border-right:0" | {{lang|jje|가<br>은가}} || style="border-left:0" | {{transl|jje|italics=no|-ga<br>(-eu)n-ga}}
+ || {{fs interlinear|그듸 무사 ᄃᆞᆺ앗인가?|geu-di musa daws-as-i(-)'''n-ga'''|"Why is that place warm?"}}
+ || Conveys a question directed to the addressee.
+
+Yang C., Yang S., and O'Grady 2019 analyzes the suffixes as Type 2 ender {{transl|jje|-ga}}, with {{transl|jje|-n-ga}} not a genuine ending but {{transl|jje|-ga}} following a tense marker ending in {{transl|jje|-n}}. Kim Jee-hong distinguishes the canonical ending {{transl|jje|-ga}} with the non-canonical {{transl|jje|-eun-ga}}, which is analyzed as having a fused attributive.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=194–196}}{{sfn|Kim Jee-h.|2015|pp=240–244, 275–278}}
+|-
+| style="border-right:0" | {{lang|jje|은고}} || style="border-left:0" | {{transl|jje|italics=no|(-eu)n-go}}
+ || {{fs interlinear|선싕 무시거 테왓인고?|seonsing musigeo tew-as-i(-)'''n-go'''|"I wonder what the teacher distributed."}}
+ || Has a conjectural connotation. Often used in questions addressed to oneself, and is less direct than {{transl|jje|-eun-ga}} when asked to the addressee.
+
+Yang C., Yang S., and O'Grady 2019 analyzes the suffix as mixed type ender {{transl|jje|-go}}, with {{transl|jje|-eun-go}} being {{transl|jje|-go}} preceded by the non-past tense marker (and gaining this conjectural meaning only in the presence of the non-past tense marker). Kim Jee-hong analyzes it as a non-canonical ending with a fused attributive.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=196–197}}{{sfn|Kim Jee-h.|2015|pp=275–278}}
+|-
+| style="border-right:0" | {{lang|jje|디아}} || style="border-left:0" | {{transl|jje|italics=no|-dia}}
+ || {{fs interlinear|는 무사 얼언디아?|neu-n musa eor-eo(-)n-'''dia'''|"Why are you cold?"}}
+ || Used to ask a question about which the addressee has direct relevant experience. In most cases the addressee is the subject of the verb, although third-person subjects have been attested. Appears in Kim Jee-hong's work in the contracted form {{lang|jje|댜}} {{transl|jje|-dya}}.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=193–194}}{{sfn|Kim Jee-h.|2015|pp=296–301}}
+|-
+| style="border-right:0" | {{lang|jje|(으)게}} || style="border-left:0" | {{transl|jje|italics=no|-(eu)ge}}
+ || {{fs interlinear|먹엇이게!|meog-eos-'''i(-)ge'''|"Let's get finished eating!"}}
+ || Used in propositions (not commands as in Standard Korean).
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=205–206}}{{sfn|Kim Jee-h.|2015|pp=389–390}}
+|-
+| style="border-right:0" | {{lang|jje|(으)라}} || style="border-left:0" | {{transl|jje|italics=no|-(eu)ra}}
+ || {{fs interlinear|먹으라!|meog-'''eura'''|"Eat!"}}
+ || Used to command immediate action.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=206–207}}{{sfn|Kim Jee-h.|2015|p=381}}
+|-
+| style="border-right:0" | {{lang|jje|(으)심}}<br>{{lang|jje|(으)순}} || style="border-left:0" | {{transl|jje|italics=no|-(eu)sim}}<br>{{transl|jje|italics=no|-(eu)sun}}
+ || {{fs interlinear|ᄌᆞ미나게 놀순!|jawmi-na-ge nol-'''sun'''|"Have fun!"}}
+ || Used by older women when talking to younger adults not old enough for honorifics and not young or emotionally close enough for informal speech. May convey statements, questions, requests, and proposals.
+ || {{sfn|Yang C.|Yang S.|O'Grady|2019|pp=207–208}}{{sfn|Kim Jee-h.|2015|pp=386–387}}{{sfn|Ko J.|2011b|pp=342–347, 379–385}}
+|}
+
+The honorific verbs, which show deference to the addressee, are formed by a special suffix that can be followed only by a small number of sentence enders.
+
+The informal honorific forms are marked by {{lang|jje|우}} {{transl|jje|-u-}} or {{lang|jje|(으)우}} {{transl|jje|-(eu)u-}}.{{efn|name=Epenthetical}} The former is used with the [[copula (linguistics)|copula]] verb {{lang|jje|이다}} {{transl|jje|ida}} and with all inflected verbs, and the latter is used with uninflected adjectival verbs. {{transl|jje|-u-}} and {{transl|jje|-(eu)u-}} may take the alternative form {{lang|jje|수}} {{transl|jje|-su-}} after a verb inflected for aspect and a non-liquid consonant, respectively.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=218–219}} The informal honorific form cannot occur with uninflected action verbs.{{sfn|Kim Jee-h.|2015|pp=97–99}} The two suffixes may only be followed by the sentence enders in the table below.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=217–226}}{{sfn|Kim Jee-h.|2015|pp=228–235}} Informal honorific requests cannot be formed morphologically.{{sfn|Kim Jee-h.|2015|pp=228–235}}
+
+{| class="wikitable"
+|-
+! Honorific !! Sentence ender !! Example !! width="55%" | Usage
+|-
+| rowspan="5"| {{lang|jje|(으)우}} {{transl|jje|italics=no|-(eu)u-}} || {{lang|jje|다}} {{transl|jje|italics=no|-da}}
+ || {{fs interlinear|물 질엇우다.|mul jil-eos-'''u-da'''|"S/he drew water."}}
+ || Used for statements.
+|-
+| {{lang|jje|게}} {{transl|jje|italics=no|-ge}}<br>{{lang|jje|궤}} {{transl|jje|italics=no|-gwe}}
+ || {{fs interlinear|ᄎᆞᆯ레 멩글앗우게.|chawlle menggeul-as-'''u-ge'''|"I have made side dishes."}}
+ || Used to report new information; restricted to inflected verbs.
+|-
+| {{lang|jje|꿰}} {{transl|jje|italics=no|-kkwe}}
+ || {{fs interlinear|짚우우꿰.|jip-'''uu-kkwe'''|"It is deep."}}
+ || Used to report new information or an opinion; restricted to uninflected verbs.
+|-
+| {{lang|jje|가/강}} {{transl|jje|italics=no|-ga(ng)}}{{sfn|Ko J.|2011b|p=321}}<br>{{lang|jje|과/광}} {{transl|jje|italics=no|-gwa(ng)}}<br>{{lang|jje|꽈/꽝}} {{transl|jje|italics=no|-kkwa(ng)}}
+ || {{fs interlinear|ᄃᆞᆨ세기 데끼쿠과?|dawk-segi dekki-k-'''u-gwa'''|"Will you throw away the eggs?"}}
+ || Used in questions. {{transl|jje|-gwa(ng)}} is generally restricted to inflected verbs. Due to [[#Sound symbolism|sound symbolism]], the tense endings are considered emphatic.{{sfn|Ko J.|2011b|p=321}}
+|}
+
+The formal honorific forms involve the honorific marker {{lang|jje|읍}} {{transl|jje|-(eu)p-}}{{efn|name=Epenthetical}} followed by one or two morphemes. Only the six following formal honorific forms are possible.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=208–217}}{{sfn|Kim Jee-h.|2015|pp=100–103}}
+
+{| class="wikitable"
+|-
+! Honorific !! Evidential !! Sentence ender !! Example{{efn|name=Parenthesis}} !! width="50%" | Usage
+|-
+| rowspan="6"| {{lang|jje|읍}} {{transl|jje|italics=no|-(eu)p-}} || rowspan="2" | {{lang|jje|네/니}} {{transl|jje|italics=no|-ne/ni}} || {{lang|jje|다}} {{transl|jje|italics=no|-da}}
+ || {{fs interlinear|그 신 만수신디 족읍네다.|geu sin Mansu-sindi jog-'''eup-ne-da'''|"[I know] those shoes must be small for Mansu."}}
+ || A formal statement founded on prior knowledge, e.g. of Mansu's foot size. Implies that the rationale for the statement continues in the present and may be shared or experienced by the addressee.
+|-
+| {{lang|jje|까/깡}} {{transl|jje|italics=no|-kka(ng)}}
+ || {{fs interlinear|나가 ᄆᆞᆫ처 앚입네까?|na-ga mawncheo aj-'''ip-ne-kka'''|"Should I sit first?"}}
+ || A formal question that the addressee is expected to be able to answer without direct observation.
+|-
+| rowspan="2" | {{lang|jje|데/디}} {{transl|jje|italics=no|-de/di}} || {{lang|jje|다}} {{transl|jje|italics=no|-da}}
+ || {{fs interlinear|그 신 만수신디 족읍데다.|geu sin Mansu-sindi jog-'''eup-de-da'''|"[I saw] those shoes were small for Mansu."}}
+ || A formal statement motivated by a direct, external past observation that cannot be experienced firsthand by the addressee. As the observation must be external, the first-person singular subject is prohibited except in highly atypical situations such as [[dissociation (psychology)|dissociation]].
+|-
+| {{lang|jje|가/강}} {{transl|jje|italics=no|-ga(ng)}}
+ || {{fs interlinear|날이 얼큽디가?|nal-i eol-k(-)'''eu(-)p-di-ga'''|"[Based on your observation,] will the day be cold?"}}
+ || A formal question that the addressee is expected to answer based on a past observation relating to a third party.
+|-
+| rowspan="2" {{n/a}} || {{lang|jje|서}} {{transl|jje|italics=no|-seo}}
+ || {{fs interlinear|이거 먹읍서.|i-geo meog-'''eup-seo'''|"Please eat this."}}
+ || A formal request.
+|-
+| {{lang|jje|주}} {{transl|jje|italics=no|-ju}}
+ || {{fs interlinear|지슬 줏입주.|jiseul jus-'''ip-ju'''|"Let's gather the potatoes."}}
+ || Expresses speaker's intention with a first-person subject and advice or judgment otherwise; widely used for suggestions and propositions.
+|}
+
+==== Connectives ====
+
+Jeju uses an array of verb-final connective suffixes to link clauses within sentences,{{sfn|Yang C.|Yang S.|O'Grady|2019|p=230}} much as English does with [[conjunction (grammar)|conjunctions]] such as ''and'', ''or'', ''that'', ''but'', and ''because''.
+
+Some Jeju connectives, such as the suffixes {{lang|jje|언/엉}} {{transl|jje|-eon/eong}} "and", occur in pairs with one variant ending in {{transl|jje|-n}} and the other in {{transl|jje|-ng}}. Hong Chong-rim and Song Sang-jo both note that the choice between {{transl|jje|-n}} and {{transl|jje|-ng}} is often determined by the inflections of the subsequent clause; certain pre-final suffixes and sentence enders require a {{transl|jje|n}}-connective in the previous clause, while others require a {{transl|jje|ng}}-connective.{{sfn|Hong C.|2001|pp=276–286}}{{sfn|Song S.|2011|pp=35–49}} Hong suggests that {{transl|jje|-n}} is used for specific and objective events and states, while {{transl|jje|-ng}} implies a general and subjective event or state.{{sfn|Hong C.|2001|pp=295–297}} Song argues that {{transl|jje|-n}} is used for completed or achieved verbs, and {{transl|jje|-ng}} for incomplete or unachieved verbs.{{sfn|Song S.|2011|pp=19–30}} The nuances below are thus possible.{{sfn|Song S.|2011|pp=6–9}}{{sfn|Hong C.|2001|p=299}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|먹'''언''' 가민|meog-'''eon''' ga-min||eat-CONN go-COND|"Having eaten, if [I] go"}}
+{{Col-2}}
+{{fs interlinear|먹'''엉''' 가민|meog-'''eong''' ga-min||eat-CONN go-COND|"If [I] eat and [then] go"}}
+{{Col-end}}
+
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|오늘 비 오'''란''' 일 못 ᄒᆞᆫ다|oneul bi o-'''ran''' il mot haw-n-da|today rain come-CONN work cannot do-NPST-SE|"It's raining, so [we] can't work"}}
+{{Col-2}}
+{{fs interlinear|오늘 비 오'''랑''' 일 못 ᄒᆞᆫ다|oneul bi o-'''rang''' il mot haw-n-da|today rain come-CONN work cannot do-NPST-SE|"[I presume that] it's raining/going to rain, so [we] can't work"}}
+{{Col-end}}
+</blockquote>
+
+The distinction between {{transl|jje|-n}} and {{transl|jje|-ng}} does not exist in mainland Korean [[language variety|varieties]].{{sfn|Hong C.|2001|pp=271–272}}{{sfn|Song S.|2011|pp=vi–vii}} Yang C., Yang S., and O'Grady 2019 reports that "the contrast between {{transl|jje|-eong}} and {{transl|jje|-eon}} appears to be disappearing, and the distinctions that remain are subtle and variable."{{sfn|Yang C.|Yang S.|O'Grady|2019|p=120}}
+
+An important class of connectives, used for reporting speech and thoughts, is formed by the suffix {{lang|jje|엔/엥}} {{transl|jje|-en/-eng}}, which fuses with sentence enders as in the example of {{transl|jje|-da}} below.{{sfn|Kim M.|2019|pp=35–39, 44–49}}
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{fs interlinear|"감ㅅ우'''다'''."{{efn|name=감}}|ga-ms-su-'''da'''|go-CONT-HON-SE|"'I am going.'"}}
+{{Col-2}}
+{{fs interlinear|감ㅅ'''덴''' ᄀᆞᆯ앗수다.{{efn|name=감|감/감수 instead of government-orthography 감ㅅ/감ㅅ우 in original source}}|ga-ms-'''den''' gawr-at-su-da|go-CONT-REP say-PFV-HON-SE|"[S/he] said that [s/he] was going."}}
+{{Col-end}}
+</blockquote>
+
+Similarly, informal honorific conjectural {{transl|jje|k-u-da}} becomes {{lang|jje|켄}} {{transl|jje|-ken}}; plain forms {{transl|jje|-ju}} and {{transl|jje|-jeo}} become {{lang|jje|젠}} {{transl|jje|-jen}}; question enders {{transl|jje|-ga}} and {{transl|jje|-go}} become {{lang|jje|겐}} {{transl|jje|-gen}} and {{lang|jje|곤}} {{transl|jje|-gon}}; honorific imperative {{transl|jje|-eup-seo}} becomes {{lang|jje|읍센}} {{transl|jje|-eup-sen}}; and so forth.{{sfn|Kim M.|2019|pp=35–39, 44–49}} These fused suffixes may be used for both [[quotative]] and [[indirect speech|reportive]] purposes. In Standard Korean, indirect speech is strictly distinguished from the quotative by the removal of addressee honorifics and the switching of pronouns. In Jeju, the lines between direct and indirect speech are more blurred. All four forms below—given in order of increasing indirectness—are in use, and have the same meaning, "He said [to a superior] that he was going home."{{sfn|Kim M.|2019|pp=39–43}}{{efn|name=감}}
+
+<blockquote>
+{{fs interlinear|c2= '''[direct quote]'''
+|"난 집이 감ㅅ우다"엔 ᄀᆞᆯ앗수다.
+|na-n jib-i ga-ms-u-da-en gawr-at-su-da
+|1SG-TOP house-LOC go-CONT-HON-SE-QUOT say-PFV-HON-SE|}}
+
+{{fs interlinear|c2= '''[quotative fused]'''
+|난 집이 감ㅅ우'''덴''' ᄀᆞᆯ앗수다.
+|na-n jib-i ga-ms-u-'''den''' gawr-at-su-da
+|1SG-TOP house-LOC go-CONT-HON-REP say-PFV-HON-SE|}}
+
+{{fs interlinear|c2= '''[pronouns changed]'''
+|'''진''' 집이 감ㅅ우덴 ᄀᆞᆯ앗수다.
+|'''ji'''-n jib-i ga-ms-u-den gawr-at-su-da
+|3SG-TOP house-LOC go-CONT-HON-REP say-PFV-HON-SE|}}
+
+{{fs interlinear|c2= '''[honorific neutralized]'''
+|진 집이 '''감ㅅ덴''' ᄀᆞᆯ앗수다.
+|ji-n jib-i '''ga-ms-den''' gawr-at-su-da
+|3SG-TOP house-LOC go-CONT-REP say-PFV-HON-SE|}}
+</blockquote>
+
+Other connectives include {{lang|jje|(으)민}} {{transl|jje|-(eu)min}} "if"; {{lang|jje|(으)난}} {{transl|jje|-(eu)nan}} "because"; and {{lang|jje|단/당}} {{transl|jje|-dan/dang}} "after".{{efn|name=AlwaysEpenthetical}}{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=255–256, 262–265}}
+
+==== Auxiliary and light verbs ====
+
+Jeju has many [[auxiliary verbs]] that are linked to the preceding main verb by the morpheme {{lang|jje|어/아}} {{transl|jje|-eo/a}}.{{efn|name=VowelHarmony}} These include {{lang|jje|안네다}} {{transl|jje|anneda}} "to give," for an action that benefits a superior; {{lang|jje|불다}} {{transl|jje|bulda}} "to throw away," for an action yielding a complete result; and {{lang|jje|지다}} {{transl|jje|jida}} "to become," for a change of state. {{transl|jje|Jida}} is also used to indicate ability.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=96–101}}
+
+<blockquote>
+{{fs interlinear
+|일 하영 헤노난 죽'''어지'''켜.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=99}}
+|il hayeong he-nonan jug-'''eo-ji'''-k-yeo
+|work a.lot do-because die-'''''eo''-become'''-PROSP-SE
+|"I will become close to dying because I work a lot."}}
+</blockquote>
+
+Jeju also uses [[light verb]]s, which have little semantic meaning but combine with nouns to form verbs. The most common light verb is {{lang|jje|ᄒᆞ다}} {{transl|jje|hawda}} "to do," e.g. {{lang|jje|부름씨}} {{transl|jje|bureumssi}} "errand" → {{lang|jje|부름씨ᄒᆞ다}} {{transl|jje|bureumssi-hawda}} "to run an errand".{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=101–103}} There is also a large inventory of [[periphrastic]] phrases that convey modality.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=153–160}}
+
+=== Post-phrasal particles ===
+
+Jeju has a small group of particles that commonly occur at the very end of phrases or sentences, many of which play important roles as [[discourse markers]]. The four principal ones are the formality marker {{lang|jje|마씀}} {{transl|jje|-masseum}} and the emphatic markers {{lang|jje|게}} {{transl|jje|-ge}}, {{lang|jje|이}} {{transl|jje|-i}}, and {{lang|jje|양}} {{transl|jje|-yang}}.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=227–229}}
+
+{{transl|jje|-masseum}} (variants {{lang|jje|마씸}} {{transl|jje|-massim}}, {{lang|jje|마씨}} {{transl|jje|-massi}}) may occur after subsentential phrases such as a bare or case-inflected noun, or attach to a small number of mostly plain sentence enders.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=227–228}} The particle shows the speaker's deference towards the addressee, but is considered more emotionally intimate than the verbally inflected honorifics. In certain contexts, {{transl|jje|-masseum}} may be used with an intention to snub the addressee.{{sfn|Moon S.|2005a|pp=3–7}}
+
+{{transl|jje|-ge}} is a discourse marker that attaches to adverbs, nouns and noun particles, and both sentence enders and connectives. It adds emphasis to the [[utterance]]{{sfn|Moon S.|2003|pp=72–80}} and is often used to agree with or confirm something the addressee has just said.{{sfn|Yang C.|Kim W.|2013|pp=157–160}} {{transl|jje|-i}} is used similarly to {{transl|jje|-ge}}, but is weaker in its emphasis.{{sfn|Moon S.|2003|pp=80–82}} Both cannot be used while addressing a social superior, and {{transl|jje|-i}} also cannot appear in formal speech.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=228–229}} Both particles can also appear in isolation: {{transl|jje|ge}} as a strong affirmation to a question, {{transl|jje|i}} as an indication that the speaker has not heard or does not believe what has been said.{{sfn|Moon S.|2003|pp=72, 80}}
+
+{{transl|jje|-yang}} shows deference, but is considered more informal than {{transl|jje|-masseum}}.{{sfn|Moon S.|2005a|p=11}} At the end of a sentence, it emphasizes the speaker's beliefs or attitudes. For example, a question becomes a rhetorical one when {{transl|jje|-yang}} is attached: {{lang|jje|이시카}} {{transl|jje|is-ik-a}} "Could there be?" → {{lang|jje|이시카'''양'''}} {{transl|jje|is-ik-a-'''yang'''}} "How could there be?"{{sfn|Yang C.|2009|pp=22–24}} The particle is also commonly used for sarcastic mock deference, such as by parents while scolding children.{{sfn|Moon S.|2005a|pp=9–10}} Sentence-initially or internally, the suffix may establish the preceding element as the topic of discourse.{{sfn|Yang C.|2009|pp=202–201}} {{transl|jje|Yang}} is also used in isolation as an [[interjection]] to get the attention of unfamiliar individuals, such as a shopkeeper, or to request the addressee to repeat what they have just said.{{sfn|Moon S.|2005b|pp=164–171}}
+
+In the example below from Yang C. 2009, three of the four particles discussed above are used.{{sfn|Yang C.|2009|p=21}}
+
+<blockquote>
+{|
+! style="vertical-align:top;" | Granddaughter:
+| {{fs interlinear
+  |할마니, 이디가 말로만 들어난 모슬포우꽈?
+  |halmani, idi-ga mal-loman deureo-nan Moseulpo-ukkwa?
+  |"Grandmother, is this place Moseulpo, which I've only heard of?"}}
+|-
+! style="vertical-align:top;" | Grandmother:
+| {{fs interlinear
+  |ᄋᆞ 맞다'''게''', 이디가 모슬포여.
+  |aw matda-'''ge''', idi-ga Moseulpo-yeo.
+  |"Yes, you're '''indeed''' correct, this place is Moseulpo."}}
+|-
+! style="vertical-align:top;" | Granddaughter:
+| {{fs interlinear
+  |모슬포'''양'''... 게민 어떵허연 모슬포옌 ᄒᆞ엿인신고'''마씸'''? ᄒᆞᆨ교에서 숙제 내연'''마씸'''.
+  |Moseulpo-'''yang'''... gemin eotteong-heoyeon Moseulpo-yen hawyeosinsingo-'''massim'''? hawkgyo-eseo sukje naeyeon-'''massim'''.
+  |"Moseulpo, '''right'''... So why do they call it Moseulpo, '''please'''? They gave us an assignment at school, '''please'''."}}
+|}
+</blockquote>
+
+Note the granddaughter's use of the verbally inflected honorific {{transl|jje|-u-}} and the deference-marking {{transl|jje|massim}} and {{transl|jje|yang}} while addressing the grandmother.
+
+=== Pronouns and deixis ===
+
+Jeju has the following basic personal pronouns.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=85–89}}
+
+{| class="wikitable"
+|-
+! !! Singular !! Plural !! Usage
+|-
+| 1st person || {{lang|jje|나/내}}  &ensp; {{transl|jje|italics=no|na/nae}}  &ensp; "I; me" || {{lang|jje|우리(덜)}} &ensp; {{transl|jje|italics=no|uri(-deol)}} &ensp; "we; us" ||
+|-
+| rowspan="3" | 2nd person || {{lang|jje|느/니}} &ensp; {{transl|jje|italics=no|neu/ni}} &ensp; "you (s.)" || {{lang|jje|느네(덜)}} &ensp; {{transl|jje|italics=no|neu-ne-(deol)}} &ensp; "you (pl.)" || For younger, emotionally intimate, or socially inferior individuals
+|-
+| {{lang|jje|지}} &ensp; {{transl|jje|italics=no|ji}} &ensp; "you (s.)" || {{lang|jje|지네(덜)}} &ensp; {{transl|jje|italics=no|ji-ne(-deol)}} &ensp; "you (pl.)" || For younger individuals, but more respectful than {{transl|jje|neu/ni}}
+|-
+| colspan="2" | No overt pronoun || For older individuals
+|-
+| 3rd person || colspan="3" | None ''per se''.
+
+Informally, demonstratives used before {{lang|jje|아의}} {{transl|jje|italics=no|ai}}: {{lang|jje|가이}} {{transl|jje|gai}} "him/her" ({{literal translation|that person}}), etc.
+|}
+
+According to Yang C., Yang S., and O'Grady 2019, there are four basic [[deictic]] [[demonstratives]] in Jeju.{{sfn|Yang C.|Yang S.|O'Grady|2019|p=83}} Most other sources mention three, which are identical to those of Standard Korean.{{sfn|Kim Jee-h.|2015|p=398}}{{sfn|Ko J.|2011a|pp=190–191}}{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=135–136}}
+
+* Proximal: {{lang|jje|이}} {{transl|jje|i}} "this"
+* Medial or absent: {{lang|jje|그}} {{transl|jje|geu}} "that"
+* Distal: {{lang|jje|저}} {{transl|jje|jeo}} "that"
+
+== Vocabulary ==
+
+Most of the Jeju lexicon is [[Koreanic languages|Koreanic]], and "a sizeable number" of words are identical with Korean.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=9–10}} There are [[false friends]] between the languages, such as Korean {{lang|ko|감다}} {{transl|ko|gamda}} "to wash hair" and Jeju {{lang|jje|ᄀᆞᆷ다}} {{transl|jje|gawmda}} "to wash the body."{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=9–10}} Jeju also preserves many [[Middle Korean]] terms now lost in Korean, such as {{lang|jje|갓}} {{transl|jje|gat}} "wife; woman" and {{lang|jje|어시}} {{transl|jje|eosi}} "parent."{{sfn|Ko J.|2011a|pp=259–270}} Like Korean, Jeju uses many [[Sino-Korean vocabulary|Sino-Korean]] words based on local readings of [[Classical Chinese]].{{sfn|Ko D.|Song S.|Oh C.|Moon S.|2015|pp=74–78}}
+
+Jeju Island was ruled by the Mongols in the late thirteenth century and some [[Middle Mongol]] terms still survive in the language, though the extent of Mongol influence is disputed. Popular claims of hundreds of Mongol loans in Jeju are linguistically unsound.{{sfn|Kwon S.|2017|pp=54–55}}{{sfn|Jeju Province|2019a|p=481}} Uncontroversial Mongol loans are most common in terms relating to animal husbandry.{{sfn|Kwon S.|2017|pp=55–62}}
+
+{| class="wikitable"
+! width="33%" | English !! width="33%" | Jeju !! Middle Mongol
+|-
+| bridle || {{lang|jje|가달}} {{transl|jje|gadal}} || {{transl|xng|qada'ar}}
+|-
+| halter || {{lang|jje|녹대}} {{transl|jje|nokdae}} || {{transl|xng|noγta}}
+|-
+| two-year-old cattle || {{lang|jje|다간}} {{transl|jje|dagan}} || {{transl|xng|daγaγan}} "two-year-old horse"
+|-
+| [[classifier (linguistics)|classifier]] for houses || {{lang|jje|거리}} {{transl|jje|geori}} || {{transl|xng|[[yurt|ger]]}} "house"
+|}
+
+Jeju may have loans from an ancient Japonic substratum.{{sfn|Vovin|2013|pp=236–237}} As the last fluent generation of Jeju speakers were born under or shortly after Japanese rule, remaining speakers also use many loans from Modern Japanese.{{sfn|Ko J.|2011a|pp=348–350}}
+
+{| class="wikitable"
+! width="33%" | English !! width="33%" | Jeju !! width="33%" | Japanese
+|-
+| noisy || {{lang|jje|우르사이}} {{transl|jje|ureusai}} || {{lang|ja|うるさい}} {{transl|ja|urusai}}
+|-
+| chopsticks || {{lang|jje|하시}} {{transl|jje|hasi}} || {{lang|ja|箸}} {{transl|ja|hashi}}
+|-
+| habit || {{lang|jje|쿠세}} {{transl|jje|kuse}} || {{lang|ja|癖}} {{transl|ja|kuse}}
+|}
+
+=== Sound symbolism ===
+
+Jeju has widespread [[sound symbolism]] in [[ideophones]].{{sfn|Kang S.|2008|p=2}} The use of sound symbolism to form emphatic variants of words is more common in Jeju than in Seoul Korean.{{sfn|Kang S.|2008|p=4}}
+
+Jeju sound symbolism operates with both consonants and vowels. The intensity of a Jeju word may be strengthened by using tense and especially aspirate obstruents.{{sfn|Ko J.|2011a|pp=251–252}}{{sfn|Kang S.|2008|pp=10–12}} The sound symbolism may also be emphasized through the addition of consonants,{{sfn|Kang S.|2008|pp=5–6}} by adding the sequence {{lang|jje|-락}} {{transl|jje|-rak}} to both reduplicated segments, and with [[fortition]] or [[lenition]].{{sfn|Kang S.|2008|pp=5, 7, 9}} The ''yang'' harmonic class of vowels has a bright, small connotation, and the ''yin'' vowel class gives a dark, large connotation.{{sfn|Ko J.|2011a|p=250}} Ko Jae-hwan also gives examples of three or four layers of vowel sound symbolism.{{sfn|Ko J.|2011|pp=255–258}}
+
+* Consonant sound symbolism:
+** {{lang|jje|고시롱}} {{transl|jje|'''g'''osirong}} "savory" → {{lang|jje|꼬시롱}} {{transl|jje|'''kk'''osirong}} "[very] savory" → {{lang|jje|코시롱}} {{transl|jje|'''k'''osirong}} "[extremely] savory"{{sfn|Ko J.|2011a|p=252}}
+** {{lang|jje|을강을강}} {{transl|jje|eulgang-eulgang}} "[small] sound of rat gnawing teeth" → {{lang|jje|글강글강}} {{transl|jje|'''g'''eulgang-'''g'''eulgang}} "[large] sound of rat gnawing teeth"{{sfn|Dictionary|2009|p=110}}
+** {{lang|jje|ᄇᆞᆯ착ᄇᆞᆯ착}} {{transl|jje|bawlchak-bawlchak}} "easily angered" → {{lang|jje|ᄇᆞᆯ치락ᄇᆞᆯ치락}} {{transl|jje|bawlchi'''rak'''-bawlchi'''rak'''}} "[very] easily angered}{{sfn|Dictionary|2009|p=478}}
+** {{lang|jje|크뜽크뜽}} {{transl|jje|keu'''tt'''eung-keu'''tt'''eung}} "neatly aligned" → {{lang|jje|코찡코찡}} {{transl|jje|ko'''jj'''ing-ko'''jj'''ing}} "[very] neatly aligned"{{efn|Given with {{lang|jje|크}} {{transl|jje|keu}}, {{lang|jje|코}} {{transl|jje|ko}} in Kang S. 2008,{{sfn|Kang S.|2008|p=7}} but both forms given with {{lang|jje|ᄏᆞ}} {{transl|jje|kaw}} in the 2009 ''Dictionary of the Jeju Language''{{sfn|Dictionary|2009|p=840}}}}
+* Vowel sound symbolism:
+** {{lang|jje|동골동골}} {{transl|jje|d'''o'''ngg'''o'''l-d'''o'''ngg'''o'''l}} "round [of a small object]" → {{lang|jje|둥굴둥굴}} {{transl|jje|d'''u'''ngg'''u'''l-d'''u'''ngg'''u'''l}} "round [of a large object]"{{sfn|Ko J.|2011a|p=250}}
+** {{lang|jje|ᄋᆞᆼ당ᄋᆞᆼ당}} {{transl|jje|'''aw'''ngdang-'''aw'''ngdang}} "[small and light] sound of muttered complaints" → {{lang|jje|옹당옹당}} {{transl|jje|'''o'''ngdang-'''o'''ngdang}} "[large and heavy] sound of muttered complaints" → {{lang|jje|웅당웅당}} {{transl|jje|'''u'''ngdang-'''u'''ngdang}} "[very large and very heavy] sound of muttered complaints"{{sfn|Ko J.|2011a|p=255}}
+** {{lang|jje|ᄆᆞᆫ들ᄆᆞᆫ들}} {{transl|jje|m'''aw'''ndeul-m'''aw'''ndeul}} "smooth to the touch [of a very small or dry object]" → {{lang|jje|맨들맨들}} {{transl|jje|m'''ae'''ndeul-m'''ae'''ndeul}} "smooth to the touch [of a somewhat small or dry object]" → {{lang|jje|문들문들}} {{transl|jje|m'''u'''ndeul-m'''u'''ndeul}} "slippery to the touch [of a somewhat large or wet object]" → {{lang|jje|민들민들}} {{transl|jje|m'''i'''ndeul-m'''i'''ndeul}} "slippery to the touch [of a very large or wet object]"{{sfn|Ko J.|2011a|p=258}}
+
+Multiple sound-symbolic strategies may combine in a single word. Kang S. 2008 gives eight sound symbolic variants of the ideophone {{lang|jje|ᄆᆞᆯ탁ᄆᆞᆯ탁}} {{transl|jje|mawltak-mawltak}} "the shape of many objects being blunt," each more intense than the other:{{sfn|Kang S.|2008|p=2}}
+
+<blockquote>
+{{lang|jje|ᄆᆞᆯ탁ᄆᆞᆯ탁}} {{transl|jje|mawltak-mawltak}} → {{lang|jje|ᄆᆞᆯ트락ᄆᆞᆯ트락}} {{transl|jje|mawlteu'''rak'''-mawlteu'''rak'''}} → {{lang|jje|ᄆᆞᆯ착ᄆᆞᆯ착}} {{transl|jje|mawl'''ch'''ak-mawl'''ch'''ak}} → {{lang|jje|ᄆᆞᆯ치락ᄆᆞᆯ치락}} {{transl|jje|mawlchi'''rak'''-mawlchi'''rak'''}} → {{lang|jje|뫁탁몰탁}} {{transl|jje|m'''o'''ltak-m'''o'''ltak}} →  {{lang|jje|몰착몰착}} {{transl|jje|mol'''ch'''ak-mol'''ch'''ak}} → {{lang|jje|몰트락몰트락}} {{transl|jje|mol'''teurak'''-mol'''teurak'''}} → {{lang|jje|몰치락몰치락}} {{transl|jje|mol'''chi'''rak-mol'''chi'''rak}}
+</blockquote>
+
+=== Kinship terminology ===
+
+The [[kinship terminology]] of Jeju has been the focus of particular attention.{{sfn|Jeju Province|2019a|p=481}} Jeju has a complex kinship system that distinguishes the gender of both the speaker and the relative. Gender distinctions are particularly noticeable in sibling terminology. The words {{lang|jje|성}} {{transl|jje|seong}} and {{lang|jje|아시}} {{transl|jje|asi}} refer to "older same-gender sibling" and "younger same-gender sibling" respectively, while {{lang|jje|오라방}} {{transl|jje|orabang}} and {{lang|jje|누이}} {{transl|jje|nui}} refer specifically to "brother of a female" and "sister of a male" respectively.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=38–39}} Female speakers also tend to refer to relatives with native compounds, whereas male speakers prefer Sino-Korean terms. For instance, the same cousin may be referred to by a man as {{lang|jje|ᄉᆞ춘}} {{transl|jje|sawchun}} "cousin" but by a woman as {{lang|jje|고모님 ᄄᆞᆯ}} {{transl|jje|gomo-nim ttawl}} "paternal aunt's daughter."{{sfn|Kim M.|2010|pp=40, 43}} A major distinction between Jeju and Korean kinship terms is that women do not use honorifics to refer to their in-laws, reflecting weaker historical influence from [[Confucian]] patriarchal norms.{{sfn|Kim M.|2010|pp=34, 40, 43}}
+
+Jeju also uses supplementary prefixes to clarify the type of kinship, equivalent to "step-" or "maternal" in English.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=40–42}} These include {{lang|jje|친-}} {{transl|jje|chin-}}, {{lang|jje|성-}} {{transl|jje|seong-}}, and {{lang|jje|당-}} {{transl|jje|dang-}} for paternal relations, {{lang|jje|웨-}} {{transl|jje|we-}} for maternal relations, {{lang|jje|다슴-}} {{transl|jje|daseum-}} for step-relations,{{sfn|Yang C.|Yang S.|O'Grady|2019|p=40}} {{lang|jje|처-}} {{transl|jje|cheo-}} and {{lang|jje|가시-}} {{transl|jje|gasi-}} for a male's in-laws, and {{lang|jje|시-}} {{transl|jje|si-}} for a woman's in-laws.{{sfn|Ko J.|2011a|p=274}} Five other prefixes, which may be combined, mark relative age: {{lang|jje|쳇-}} {{transl|jje|chet-}} or {{lang|jje|큰-}} {{transl|jje|keun-}} "eldest," {{lang|jje|셋-}} {{transl|jje|set-}} "second eldest of three or more," {{lang|jje|말젯-}} {{transl|jje|maljet-}} "third eldest of four or more," and {{lang|jje|족은-}} {{transl|jje|jogeun-}} "youngest." These are used to distinguish relatives of the same generation.{{sfn|Yang C.|Yang S.|O'Grady|2019|pp=41–42}}
+
+* {{lang|jje|하르방}} {{transl|jje|hareubang}} "grandfather"
+** {{lang|jje|큰하르방}} {{transl|jje|keun-hareubang}} "oldest brother of one's grandfather"
+** {{lang|jje|셋하르방}} {{transl|jje|set-hareubang}} "second brother of one's grandfather"
+** {{lang|jje|큰말젯하르방}} {{transl|jje|keun-maljet-hareubang}} "third brother of one's grandfather"
+** {{lang|jje|셋말젯하르방}} {{transl|jje|set-maljet-hareubang}} "fourth brother of one's grandfather"
+** {{lang|jje|족은말젯하르방}} {{transl|jje|jogeun-maljet-hareubang}} "fifth brother of one's grandfather"
+** {{lang|jje|족은하르방}} {{transl|jje|jogeun-hareubang}} "youngest brother of one's grandfather"{{sfn|Yang C.|Yang S.|O'Grady|2019|p=42}}{{sfn|Ko J.|2011a|pp=281–282}}
+
+Other prefixes include {{lang|jje|왕-}} {{transl|jje|wang-}}, used in {{lang|jje|왕하르방}} {{transl|jje|wang-hareubang}} "great-grandfather", and {{lang|jje|넛-}} {{transl|jje|neot-}}, used to refer to a sibling of one's grandparent generally.{{sfn|Kim M.|2010|pp=30–31}}
+
+== Sample text ==
+
+The following is an excerpt from a version of the ''[[Menggam bon-puri]]'', one of the epic chants recited by Jeju shamans. In this myth, the poacher Song Saman discovers an abandoned skull in the hills and cares for it [[Jesa|as if it were his own ancestor]]. The skull reciprocates by warning Song Saman of his early death and advising him on how to avoid the ''[[Chasa bon-puri#Etymology|chasa]]'', the three gods of death.{{sfn|Chin S.|1991|pp=169–175}}
+
+This version was transcribed between 1956 and 1963{{sfn|Chin S.|1991|p=39<!-- The version I have, the original version of 제주도무가본풀이사전 published on October 30, 1991, does not have page numbers for the introductory section about dates and such. Bizarrely, the first numbered page begins in p. 51, but there are only twenty-two physical pages between the cover and p. 51, even including intentionally blank pages. p.39 here means twelve pages before p. 51, essentially. -->}} from the recitation of the shaman Byeon Sin-saeng, born {{circa}} 1904.{{sfn|Chin S.|1991|p=175}} The transcription predates both standardized orthographies of Jeju. The transcriber openly notes that the orthography is inconsistent.<ref>"제주도의 발음으로서의 일률적인 통일 역시 이루지 않았고... 한 사람의 발음이 같은 뜻을 지니면서 다소 틀림이 있는 경우일지라도 이것 역시 발음 그대로를 표기했다." {{harvnb|Chin S.|1991|p=39}}</ref> No attempt was made in this article to standardize or update the orthography.
+
+{| class="wikitable"
+|-
+! Jeju original{{sfn|Chin S.|1991|pp=173–174}} !! Korean translation{{efn|Based on glosses and cognates of Jeju provided in Chin S. 1991; Chin gives one-to-one definitions or Standard Korean cognates of most Jeju terms not immediately identifiable by a Korean speaker, but does not actually translate the text into fluent Standard Korean}}
+|-
+| style="width:49%" | {{lang|jje|“느 송ᄉᆞ만이 전맹이 ᄀᆞᆺ 서른이 매기난, 서른 나는 해에 아무ᄃᆞᆯ 아무날은 맹이 매기니 느가 발 살앙 오몽ᄒᆞ여질 때, 나를 낭곳으로 ᄀᆞ져다 도라... 시 ᄆᆞ슬 강 심방 시 개 걷우우곡 마당이 큰대 세왕 두 일회 열나을 굿을 ᄒᆞ라...”
+
+맷딱 ᄎᆞᆯ려놓완 백보 밲겼딜로 간 절을 ᄒᆞ연, ᄀᆞ만이 꿀련 업더져두서 보난 삼체ᄉᆞ가 ᄂᆞ려오멍...
+
+“송ᄉᆞ만이네 집이서 정성을 아니드렴신가?”
+
+말자이 오는 체ᄉᆞᆫ “송ᄉᆞ만이네 집이 백년대강이를 모삼따. 그 백년대강이가 송ᄉᆞ만이 심으레 오람센 ᄀᆞᆯ아분 생이여... 받음은 받았주마는 심엉 오랜 ᄒᆞᆫ 시간이 시여부난 어떵흘코?”}}
+
+|| {{lang|ko|“너 송사만이는 겨우 서른이 수명의 끝이니, 서른 되는 해에는 아무 달 아무 날에 명이 끝날 테이므로 너가 발이 살아서 움직일 수 있을 때 나를 나무숲으로 데려다 달라... 마을 세 곳에 가서 무당 세 명을 모으고 마당에 큰 깃대 세워서 두 이레 열나흘 굿[제주 큰굿]을 하라...“
+
+다 차려놓은 체 백보 바깥으로 가 절하며 가만히 무릎 꿇고 업드리고 보니까, 삼차사가 내려오면서...
+
+“송사만이네 집에서 정성을 드리고 있는 것 아닌가?“
+
+나중에 오는 차사는, “송사만이네 집에서 백년 된 해골을 모시고 있다. 그 백년 된 해골이 송사만이 잡으러 오고 있다고 말해버린 모양이야... 준 건 받았지만 잡아 오라고 한 마감이 있는데 어떻게 할까?“}}
+|-
+! colspan="2" | Romanization{{efn|Nouns are hyphenated from their particles, and compounds are hyphenated between their components, but the verbal morphology is not hyphenated.}}
+|-
+| colspan="2" | {{transl|jje|italics=no|neu Song Sawman-i jeonmaeng-i gawt seoreun-i maeg-inan, seoreun naneun hae-e amu dawl amu nar-eun maeng-i maeg-ini neu-ga bal sarang omong-hawyeo-jil ttae, na-reul nang-gos-euro gawjyeoda dora... si mawseul gang simbang si gae geoduugok madang-i keun dae sewang du ilhwe yeol-naeul gus-eul hawra...<br/>maetttak chawllyeo-nowan baekbo baekgyeot-dillo gan jeor-eul hawyeon, gawmani kkulyeon eopdeojyeo-duseo bonan samchesaw-ga nawryeo-omeong...<br/>"Song Sawman-i-ne jib-iseo jeongseong-eul ani deuryeomsin'ga?"<br/>Maljai oneun chesaw-n "Song Sawman-i-ne jib-i baengnyeon-daegang'i-reul mosamtta. geu baengnyeon-daegang'i-ga Song Sawman-i simeure oramsen gawra-bun saeng-iyeo... badeum-eun badat-jumaneun simeong oraen hawn sigan-i siyeo-bunan eotteong-heulko?"}}
+|-
+! colspan="2" | English
+|-
+|colspan="2" | "You, Song Saman, your life will end at only thirty, and the year you turn thirty, your life will end at any day of any month, so take me to the wooded forest while your feet are still alive and you can move... Go to three villages and gather three shamans and raise a great flagstaff in the household hall, and hold the Great ''[[Gut (ritual)|Gut]]'' [{{literal translation|the ''gut'' of two weeks and fourteen days}}]..."
+
+Once they laid out everything, [Song Sawman and his wife] went back a hundred steps and prostrated themselves. Quietly kneeling and lying prone, they saw the three ''chasa'' descend...
+
+"Are they not doing devotional acts at Song Saman's household?"
+
+The ''chasa'' coming in last [responded], "At Song Saman's household, they are worshipping a hundred-year-old skull. It seems that the hundred-year-old skull told [them] that we were coming to capture Song Sawman...  We have partaken of the offerings [{{literal translation|received what is received}}], but there is a date that they told us to capture him by, so what should we do?"
+|}
+
+== See also ==
+
+* ''[[Bon-puri]]'', Jeju-language narrative poems explaining the origins of deities
+* Other languages endangered by closely related dominant language:
+** [[Ryukyuan languages]], Japan
+**[[Scots language]]. Scotland
+** [[Languages of Taiwan]], Republic of China
+
+== Notes ==
+
+{{notelist}}
+
+== References ==
+
+=== Citations ===
+
+{{reflist|3}}
+
+=== Bibliography ===
+
+==== English ====
+{{refbegin}}
+* {{cite book|last1=Brenzinger|first1=Matthias|last2=Yang|first2=Changyong|editor1-last=Seals|editor1-first=Corinne A.|editor2-last=Shah|editor2-first=Sheena|title=Heritage Language Policies around the World|url=https://books.google.com/books?id=3Cs2DwAAQBAJ|publisher=Routledge|date=September 2017|pages=185–199|chapter=Jejueo of South Korea|isbn=9781317274049|ref={{harvid|Brenzinger|Yang C.|2017}}}}
+* {{cite journal|last1=Cho|first1=Taehong|last2=Jun|first2=Sun-Ah|last3=Jung|first3=Seung-chul|last4=Ladefoged|first4=Peter|date=March 2000|title=The Vowels of Cheju|url=http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.552.4474&rep=rep1&type=pdf|journal=UCLA Working Papers in Phonetics|volume=98|pages=81–94|access-date=May 11, 2020|ref={{harvid|Cho T.-h.|Jun|Jung|Ladefoged|2000}}}}
+* {{cite journal|last1=Cho|first1=Taehong|last2=Jun|first2=Sun-Ah|last3=Ladefoged|first3=Peter|date=March 2000|title=An Acoustic and Aerodynamic Study of Consonants in Cheju|url=https://www.koreascience.or.kr/article/JAKO200015637238114.page|journal=Speech Sciences|volume=7|pages=109–137|access-date=May 8, 2020|ref={{harvid|Cho T.-h.|Jun|Ladefoged|2000}}}}
+* {{cite book|last=Cummings|first=Bruce|date=September 17, 2005|title=Korea's Place in the Sun: A Modern History (Updated Edition)|url=https://books.google.com/books?id=LR8svgdNOAYC|publisher=W. W. Norton & Company|isbn=9780393347531}}
+* {{cite journal|last=Kim|first=Jee-hong|date=2017|title=Non-canonical Ending Systems in Jeju Korean|url=https://www.researchgate.net/publication/322310150_Non-canonical_Ending_Systems_in_Jeju_Korean|journal=방언학|volume=26|pages=229–259|doi=10.19069/kordialect.2017.26.229|access-date=May 27, 2020|ref={{harvid|Kim Jee-h.|2017}}}}
+* {{cite journal|last1=Kwak|first1=Saebom|last2=You|first2=Seok-Hoon|date=February 2019|title=Analysis of Koreans' Overt and Covert Language Attitudes towards Jeju Dialect|url=https://www.earticle.net/Article/A363644|journal=Language Information|volume=29|pages=26–54|doi=10.35128/rili.2019.29.2|access-date=May 17, 2020}}
+* {{cite book|last1=Lee|first1=Ki-Moon|last2=Ramsey|first2=S. Robert|date=2011|title=A History of the Korean Language|url=https://books.google.com/books?id=2AmspKX3beoC|location=Cambridge, United Kingdom|publisher=Cambridge University Press|isbn=978-1-1394-9448-9|ref={{harvid|Lee K.|Ramsey|2011}}}}
+* {{cite thesis|type=MA|last=Saltzman|first=Moira|date=August 2014|title=Language Contact and Morphological Change in Jejueo|location=Detroit, Michigan|publisher=Wayne State University|url=https://www.academia.edu/9685787/Language_contact_and_morphological_change_in_Jejueo|access-date=May 20, 2020}}
+* {{Cite book|last=Vovin|first=Alexander|title=Koreo-Japonica: A Re-evaluation of Common Genetic Origin|publisher=University of Hawai'i Press|year=2010|isbn=978-0-8248-3278-0|location=Honolulu}}{{cite journal|last=Vovin|first=Alexander|date=2013|title=From Koguryo to Tamna: Slowly riding to the South with speakers of Proto-Korean|url=https://www.academia.edu/6360018/From_Koguryo_to_Tamna|journal=Korean Lingistics|volume=15|issue=2|pages=222–240|doi=10.1075/kl.15.2.03vov|access-date=May 16, 2020}}
+* {{cite book|last1=Yang|first1=Changyong|last2=Yang|first2=Sejung|last3=O'Grady|first3=William|date=October 2019|title=Jejueo: The Language of Korea's Jeju Island|url=https://uhpress.hawaii.edu/title/jejueo-the-language-of-koreas-jeju-island/|location=Honolulu, Hawaii|publisher=University of Hawaiʻi Press|isbn=9780824874438|ref={{harvid|Yang C.|Yang S.|O'Grady|2019}}}}
+* {{cite book|last1=Yang|first1=Changyong|last2=O'Grady|first2=William|last3=Yang|first3=Sejung|last4=Hilton|first4=Nanna Haug|last5=Kang|first5=Sang-gu|last6=Kim|first6=So-young|editor1-last=Brunn|editor1-first=Stanley D.|editor2-last=Kehrein|editor2-first=Roland|title=Handbook of the Changing World Language Map|url=https://books.google.com/books?id=pZGcuwEACAAJ|publisher=Springer International Publishing|date=2019|pages=215–230|chapter=Revising the Language Map of Korea|isbn=9783030024376|ref={{harvid|Yang C.|O'Grady|Yang S.|Hilton|2019}}}}
+* {{cite conference|url=http://congress.aks.ac.kr/korean/files/2_1413765942.pdf|title=Teaching Jejueo: Present Problems and Future Plans|last=Yang|first=Sejung|date=November 2014|location=Honolulu, Hawaii|conference=7th World Congress of Korean Studies|ref={{harvid|Yang S.|2014}}}}
+* {{cite thesis|type=PhD|author-mask=5|last=Yang|first=Sejung|date=December 2018|title=Assessing Language Knowledge in Jeju: Vocabulary and Verbal Patterns in Jejueo and English|location=Honolulu, Hawaii|publisher=University of Hawaiʻi Press|url=http://ling.hawaii.edu/wp-content/uploads/SejungYangFinal.pdf|access-date=May 16, 2020|ref={{harvid|Yang S.|2018}}}}
+* {{cite journal|last=Yang|first=Sejung|author-mask=5|date=2020|title=Resegmentation of Tense-Aspect Markers in Jejueo, the Traditional Language of Jeju Island|journal=The Linguistic Association of Korea Journal|volume=28|issue=1|pages=65–78|url=http://www.korling.or.kr/data/thesis/17093453161045.pdf|doi=10.24303/lakdoi.2020.28.1.65|access-date=May 27, 2020|ref={{harvid|Yang S.|2020}}}}
+* {{cite web|url=http://www.unesco.org/new/en/media-services/single-view/news/new_interactive_atlas_adds_two_more_endangered_languages/|url-status=live|date=December 8, 2010|title=New interactive atlas adds two more endangered languages|website=unesco.org|access-date=May 17, 2020|ref={{harvid|UNESCO|2010}}}}
+* {{cite web|url=http://www.unesco.org/languages-atlas/en/atlasmap/language-id-2724.html|url-status=live|date=June 11, 2017|title=Jeju, UNESCO Atlas of the World's Languages in Danger|website=unesco.org|access-date=May 16, 2020|ref={{harvid|UNESCO|2017}}}}
+{{refend}}
+
+==== Korean ====
+
+{{refbegin|30em|indent=yes}}
+* {{cite journal|author=강석한 (Kang Seok-han)|date=November 2008|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01156548|title=Jeju Hangug-eo-ui gangjo jungcheob-eo-e natanan jaeum eum-byeonhwa yangsang yeon'gu|script-title=ko:제주 한국어의 강조 중첩어에 나타난 자음 음변화 양상 연구|trans-title=The Consonant Change Pattern of Emphatic Reduplication in Cheju Korean|journal=언어학 연구|volume=13|pages=1–16|ref={{harvid|Kang S.|2008}}}}
+* {{cite report
+  |author=강영봉 (Kang Young-bong)
+  |date=2008
+  |title=Jeju jiyeog-eo saengtae jisu josa bogoseo
+  |script-title=ko:제주 지역어 생태 지수 조사 보고서
+  |trans-title=Report on the Vitality Quotient of the Jeju Regional Language
+  |publisher=[[National Institute of the Korean Language]]
+  |ref={{harvid|Kang Y.-b.|2008}}}}
+* {{cite report
+  |author=강영봉 (Kang Young-bong) | author-mask = 3
+  |date=2010
+  |title=Jeju-do-min-ui Jeju-eo sayong siltae josa bogoseo: jung·godeung-haksaeng-eul daesang-euro
+  |script-title=ko:제주도민의 제주어 사용 실태 조사 보고서: 중·고등학생을 대상으로
+  |trans-title=Report on the Use of the Jeju Language by Jeju Islanders: Focusing on Middle and High School Students
+  |publisher=제주대학교 국어문화원 (Center for Korean Language and Culture, [[Jeju National University]])
+  |ref={{harvid|Kang Y.-b.|2010}}}}
+* {{cite conference|url=http://www.jst.re.kr/upload/board/pdf/364_1551924777898.pdf|title=Jeju-eo pyogi-beob-e daehan dansang|script-title=ko:‘제주어 표기법’에 대한 단상|trans-title=Brief Thoughts on "Jeju Language Orthography"|last=강영봉 (Kang Young-bong)|author-mask=3|date=June 16, 2018|location=Jeju City, Jeju|conference=제주어 표기법 토론회 (Debate on the Orthography of the Jeju Language)|ref={{harvid|Kang Y.-b.|2018}}}}
+* {{cite journal|last=강윤희 (Kang Yoon-hee)|date=1994|title=Jeju sahoe-eseo du bang'eon sayong-e daehan minjok-ji-jeok yeon'gu|script-title=ko:제주사회에서의 두 방언 사용에 대한 민족지적 연구|trans-title=An Ethnographic Study on Bidialectalism in Cheju Society|journal=제주도연구|volume=11|pages=83–146|issn=1229-7569|ref={{harvid|Kang Y.-h.|1994}}}}
+* {{cite journal|last=고동호 (Ko Dong-ho)|date=December 1997|title=Jeju bang'eon-ui moeum johwa yeon'gu|script-title=ko:제주 방언의 모음 조화 연구|trans-title=Vowel harmony in the Cheju dialect|url=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02277047|journal=언어학|volume=21|pages=3–48|issn=1229-4039|access-date=May 12, 2020|ref={{harvid|Ko D.|1997}}}}
+* {{cite journal|last=고동호 (Ko Dong-ho)|author-mask=3|date=June 30, 2008|title=Jeju bang'eon 'arae-a'-ui sidae-byeol byeonhwa yangsang|script-title=ko:제주 방언 'ㆍ'의 세대별 변화 양상|trans-title=Changes of /ㆍ/ in the Jeju dialect in apparent time|url=http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010022020168#|journal=한국언어문학|volume=65|pages=55–74|access-date=May 11, 2020|issn=1229-1730|ref={{harvid|Ko D.|2008}}}}
+* {{cite book|last1=고동호 (Ko Dong-ho)|last2=송상조 (Song Sang-jo)|last3=오창명 (Oh Chang-myung)|last4=문순덕 (Moon Soon-deok)|last5=오승훈 (Oh Seung-hun)|date=December 2015|title=Jejut-mar-ui ihae|script-title=ko:제줏말의 이해|trans-title=Understanding the Jeju Language|location=Jeju City, Jeju|publisher=제주발전연구원|isbn=978-89-6010-440-2|ref={{harvid|Ko D.|Song S.|Oh C.|Moon S.|2015}}}}
+* {{cite journal|last1=고미숙 (Ko Mi-Sook)|last2=김원보 (Kim Won-bo)|last3=변길자 (Byun Giljia)|last4=김종훈 (Kim Jong-hoon)|last5=박순복 (Park Soon-bok)|last6=오창명 (Oh Chang-myung)|date=September 2007|title=Jeju bang'eon-ui yeollyeongdae-byeol eogyang-gu gyeonggye-seongjo yeon'gu|script-title=ko: 제주방언의 연령대별 억양구 경계성조 연구|trans-title=Age-related differences in the boundary tone patterns of intonational phrases in the Jeju dialect|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06607653|journal=언어과학연구|volume=42|pages=27–43|issn=1229-0343|access-date=May 14, 2020|ref={{harvid|Ko M.|Kim W.|Byun G.|Kim Jo.-h.|2007}}}}
+* {{cite journal|last=고영진 (Ko Young-jin)|date=June 2008|title=Jeju-do bang'eon-ui hyeongtaeron-jeok sang beomju-ui chegye-hwa-reul wihayeo|script-title=ko:제주도 방언의 형태론적 상 범주의 체계화를 위하여|trans-title=For the Study of the Morphological Aspect System in Cheju Dialect|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02352776|journal=한글|volume=280|pages=101–128|access-date=May 23, 2020|issn=1225-0449|ref={{harvid|Ko Y.|2008}}}}
+* {{cite book|last=고재환 (Ko Jae-hwan)|date=September 9, 2011|title=Jeju-eo gaeron sang|script-title=ko:제주어개론 상|trans-title=Introduction to Jeju, Volume I|location=Seongbuk-gu, Seoul|publisher=보고사|isbn=978-89-8433-934-7|ref={{harvid|Ko J.|2011a}}}}
+* {{cite book|last=고재환 (Ko Jae-hwan)|author-mask=3|date=September 9, 2011|title=Jeju-eo gaeron ha|script-title=ko:제주어개론 하|trans-title=Introduction to Jeju, Volume II|location=Seongbuk-gu, Seoul|publisher=보고사|isbn=978-89-8433-935-4|ref={{harvid|Ko J.|2011b}}}}
+* {{cite book|last1=고재환 (Ko Jae-hwan)|last2=송상조 (Song Sang-jo)|last3=김지홍 (Kim Jee-hong)|last4=오창명 (Oh Chang-myung)|last5=오승훈 (Oh Seung-hun)|last6=문순덕 (Moon Soon-deok)|date=November 2014|title=Jeju-eo pyogi-beop haeseol|script-title=ko:제주어 표기법 해설|trans-title=Exposition of the Orthography of the Jeju Language|url=https://books.google.com/books?id=dB6WswEACAAJ|location=Jeju City, Jeju|publisher=제주발전연구원|isbn=978-89-6010-387-0|ref={{harvid|Ko J.|Song S.|Kim Jee-h.|Oh C.|2014}}}}
+* {{cite journal|last=권성훈 (Kwon Seong-hun)|date=February 2017|title=Jeju bang'eon sog'eui Mongol-eo chayong-eo|script-title=ko:제주방언 속의 몽골어 차용어|trans-title=Mongol Loanwords in Jeju Dialect|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07134996|journal=동악어문학|volume=70|pages=53–67|issn=1229-4306|access-date=May 20, 2020|ref={{harvid|Kwon S.|2017}}}}
+* {{cite journal|last=김미진 (Kim Mi-jin)|date=August 2010|title=Jeju-do bang'eon-ui chinjog-eo yeon'gu―yeoseong hawaja-reul jungsim-euro|script-title=ko:제주도 방언의 친족어 연구―여성 화자를 중심으로|trans-title=Study on the Kinship terms of JeJu dialect― Focused on female speakers|url=https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART001469697|journal=영주어문|volume=20|pages=27–41|issn=1598-9011|access-date=May 20, 2020|ref={{harvid|Kim M.|2010}}}}
+* {{cite journal|last=김미진|author-mask=3|date=February 2019|title=Jeju bang'eon-ui inyong pyoji yeon'gu|script-title=ko:제주 방언의 인용 표지 연구|trans-title=A study on quotation marker of Jeju dialect|url=http://kiss.kstudy.com/thesis/thesis-view.asp?key=3660069|journal=영주어문|volume=41|pages=29–55|doi=10.30774/yjll.2019.02.41.29|issn=1598-9011|access-date=May 27, 2020|ref={{harvid|Kim M.|2019}}}}
+* {{cite journal|last=김보향 (Kim Bo-hyang)|date=August 2014|title=Osaka Ikuno-ku jiyeok jaeil-Jeju-in-ui Jeju bang'eon sayong siltae-e gwanhan yeon'gu|script-title=ko:오사카 이쿠노쿠 지역 재일제주인의 제주방언 사용 실태에 관한 연구|trans-title=A Study on the Jeju Dialect Used by Jeju People Living in Ikuno-ku, Osaka, Japan|url=https://yeongju.jams.or.kr/jams/download/KCI_FI001900784.pdf|journal=영주어문|volume=28|pages=111–136|issn=1598-9011|access-date=May 14, 2020|ref={{harvid|Kim B.|2014}}}}
+* {{cite thesis|type=PhD|last=김순자 (Kim Sun-ja)|date=December 2010|title=Jeju-do bang'eon-ui eoneo-jiri-hak-jeok yeon'gu|script-title=ko:제주도방언의 언어지리학적 연구|trans-title=A Geolinguistic Study on the Jeju Dialect|publisher=Jeju National University|ref={{harvid|Kim S.|2010}}}}
+* {{cite journal|last=김순자 (Kim Sun-ja)|author-mask=3|date=August 2019|title=Jeju-do bang'eon-e daehan bang'eon taedo chui yeon'gu|script-title=ko:제주도 방언에 대한 방언 태도 추이 연구|trans-title=A Study on Changes in Attitude to Jeju Dialect|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE0876988|journal=한국어학|volume=84|pages=1–34|issn=1226-9123|access-date=May 17, 2020|ref={{harvid|Kim S.|2019}}}}
+* {{cite journal|last=김원보 (Kim Won-bo)|date=May 2004|title=Jeju bang'eon-eseo arae-a eum-ui eumhyang-bunseok|script-title=ko:제주 방언에서 [ㆍ] 음의 음향분석|trans-title=On the Acoustic Analysis of the Vowel [ㆍ] in Jeju Dialect|url=https://www.earticle.net/Article/A178903|journal=언어학연구|volume=9|issue=1|pages=73–90|issn=1229-0343|access-date=May 11, 2020|ref={{harvid|Kim W.|2004}}}}
+* {{cite journal|last=김원보 (Kim Won-bo)|author-mask=3|date=December 2005|title=Jeju bang'eon ijung-moeum-ui eumhyang-bunseok|script-title=ko:제주방언 이중모음의 음향분석|trans-title=The Acoustic Analysis of the Diphthongs in Jeju Dialect|url=http://kmbase.medric.or.kr/Main.aspx?menu=01&d=KMBASE&m=VIEW&i=0917520050120020029|journal=음성과학|volume=12|issue=2|pages=29–41|issn=1226-5276|access-date=May 11, 2020|ref={{harvid|Kim W.|2005}}}}
+* {{cite news|last=김정은 (Kim Jeong-eun)|date=February 24, 2019|title=10년 성과 바탕…제주어 정립|url=http://www.jejunews.com/news/articleView.html?idxno=2132194|url-status=live|script-work=ko:제주신보|work=Jeju Sinbo|location=Jeju City, Jeju|access-date=May 17, 2020|ref={{harvid|Kim J.-e.|2019}}}}
+* {{cite book|last=김지홍 (Kim Jee-hong)|date=July 20, 2015|title=Jeju bang'eon-ui tongsa gisul-gwa seolmyeong: gibon-gumun-ui gineung-beomju bunseok|script-title=ko:제주 방언의 통사 기술과 설명: 기본구문의 기능범주 분석|trans-title=Explanation and Description of the Syntax of the Jeju Dialect: Analysis of the Functional Categories of the Basic Syntax|location=Gwangmyeong, Gyeonggi-do|publisher=도서출판 경진|isbn=978-89-5996-474-1|ref={{harvid|Kim Jee-h.|2015}}}}
+* {{cite journal|last=김지홍 (Kim Jee-hong)|author-mask=3|date=September 2016|title=Jeju bang'eon-ui seon-eomal-eomi-wa jonggyeol-eomi chegye|script-title=ko:제주 방언의 선어말어미와 종결어미 체계|trans-title=On Prefinal and Final Ending Systems in Jeju Korean|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07016483|journal=한글|volume=313|pages=109–171|access-date=May 23, 2020|issn=1225-0449|ref={{harvid|Kim Jee-h.|2016}}}}
+* {{cite journal|last=문순덕 (Moon Soon-deok)|date=2002|title=Jeju bang'eon-ui bojo-josa-ui damhwa gineung|script-title=ko:제주 방언 보조조사의 담화 기능|trans-title=The Discourse Functions of Auxiliary Noun Markers in the Jeju Dialect|url=http://www.papersearch.net/thesis/article.asp?KEY=2942169|volume=4|journal=영주어문|pages=71–84|issn=1598-9011|access-date=May 21, 2020|ref={{harvid|Moon S.|2002}}}}
+* {{cite journal|last=문순덕 (Moon Soon-deok)|author-mask=3|date=February 2003|title=Jeju bang'eon banmal-che cheomsa-ui damhwa gineung|script-title=ko:제주 방언 반말체 첨사의 담화 기능|trans-title=The Discourse Functions of Informal-style Particles in the Jeju Dialect|url=http://www.papersearch.net/thesis/article.asp?KEY=2942180|volume=5|journal=영주어문|pages=71–86|issn=1598-9011|access-date=May 27, 2020|ref={{harvid|Moon S.|2003}}}}
+* {{cite journal|last=문순덕 (Moon Soon-deok)|author-mask=3|date=February 2005|title=Jeju bang'eon nopim-mal cheomsa-ui damhwa gineung|script-title=ko:제주 방언 높임말 첨사의 담화 기능|trans-title=The Discourse Functions of Honorific-style Particles in the Jeju Dialect|url=http://kiss.kstudy.com/thesis/thesis-view.asp?key=2425156|volume=20|issue=3|journal=언어 연구|pages=1–17|issn=1225-4770|access-date=May 27, 2020|ref={{harvid|Moon S.|2005a}}}}
+* {{cite journal|last=문순덕 (Moon Soon-deok)|author-mask=3|date=September 2005|title=Jeju bang'eon-ui gantu pyohyeon|script-title=ko:제주 방언의 간투 표현|trans-title=Interjectional Expressions in Jeju Dialect|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02352691|volume=269|journal=한글|pages=161–188|issn=1225-0449|doi=10.22557/HG.2005.09.269.161|access-date=May 27, 2020|ref={{harvid|Moon S.|2005b}}}}
+* {{cite report
+  |author1=문순덕 (Moon Soon-deok)
+  |author2=오창명 (Oh Chang-myeong)
+  |author3=김원보 (Kim Won-bo)
+  |author4=신우봉 (Shin Woo-bong)
+  |date=2015
+  |title=Jeju-eo pyogi-beop jamo-ui silje bareum-gwa eumseong bunseok yeon'gu
+  |script-title=ko:'제주어 표기법’자모의 실제 발음과 음성 분석 연구
+  |trans-title=The Actual Pronunciations of Vowels and Consonants Acknowledged in the Transcription Regulation for the Jeju Language and their Phonetic Analysis Study
+  |publisher=Center for Jeju Studies, Jeju Development Institute, [[Jeju Special Self-Governing Province]]
+  |ref={{harvid|Moon S.|Oh C.|Kim W.|Shin W.|2015}}}}
+* {{cite journal|last1=문순덕 (Moon Soon-deok)|last2=김원보 (Kim Won-bo)|date=August 2017|title=Jeju bang'eon gyeok-josa-ui damhwa gineung|script-title=ko:제주 방언 격조사의 담화 기능|trans-title=The Discourse Functions of Noun Case Markers in the Jeju Dialect|url=https://www.earticle.net/Article/A307723|volume=22|issue=2|journal=언어학연구|pages=55–70|issn=1226-9859|doi=10.21291/jkals.2017.22.2.4|access-date=May 21, 2020|ref={{harvid|Moon S.|Kim W.|2017}}}}
+* {{cite book|last=송상조 (Song Sang-jo)|date=September 30, 2011|title=Jeju-mal-eseo ttae-garim-so '-ng, -n'-gwa ssi-kkeut-deul-ui hoeung|script-title=ko:제주말에서 때가림소 '-ㅇ, -ㄴ'과 씨끝들의 호응|trans-title=The Interaction between Tense-differentiating Morphemes "-ng, -n" and Enders|location=Seongdong-gu, Seoul|publisher=한국문화사|isbn=978-89-5726-906-0|ref={{harvid|Song S.|2011}}}}
+* {{cite journal|last=신우봉 (Shin Woo-bong)|date=October 2015|title=Jeju-bang'eon pyeongseo-mun-gwa uimun-mun-e natananeun eogyang yeon'gu: eomal-eomi '-an/-eon, -eumen'-eul jungsim-euro|script-title=ko:제주방언 평서문과 의문문에 나타나는 억양 연구: 어말어미 ‘-안/언, -으멘’을 중심으로|trans-title=Intonation study of predicate ending and interrogative ending in Jeju dialect: "-ʌn/ɑn, -ɯmɛn"|url=https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002047110|journal=영주어문|volume=31|pages=87–109|issn=1598-9011|access-date=May 14, 2020|ref={{harvid|Shin W.|2015}}}}
+* {{cite journal|last1=신우봉 (Shin Woo-bong)|last2=신지영 (Shin Ji-young)|date=August 2012|title=Jeju bang'eon dan-moeum-e daehan eumhyang-eumseong-hak-jeok yeon'gu|script-title=ko:제주 방언 단모음에 대한 음향음성학적 연구|trans-title=An Acoustic Phonetic Study on Monophthongs in Jeju Korean|url=https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06568905|journal=한국어학|volume=56|pages=63–90|issn=1226-9123|access-date=May 11, 2020|ref={{harvid|Shin W.|Shin J.|2012}}}}
+* {{cite journal|last=양창용 (Yang Changyong)|date=June 2009|title=Jeju-bang'eon yang-e daehan tongsa·damhwa-ron-jeok gochal|script-title=ko:제주방언 ‘양’에 대한 통사·담화론적 고찰|trans-title=A study on "yang" in Jeju dialect with a special reference to its distributions and some discourse functions|url=http://scholar.dkyobobook.co.kr/searchDetail.laf?barcode=4010022791952|journal=한국언어문학|volume=69|pages=5–28|issn=1229-1730|access-date=May 27, 2020|ref={{harvid|Yang C.|2009}}}}
+* {{cite conference|url=http://congress.aks.ac.kr/korean/files/2_1413765319.pdf|title=Jeju-eo: yeoksa geurigo taedo|script-title=ko:제주어: 역사 그리고 태도|trans-title=Jejueo: History and Attitudes|last=양창용 (Yang Changyong)|author-mask=3|date=November 2014|location=Honolulu, Hawaii|conference=7th World Congress of Korean Studies|ref={{harvid|Yang C.|2014}}}}
+* {{cite journal|last=양창용 (Yang Changyong)|author-mask=3|date=June 2016|title=Jeju-eo-ui yeon'gu hyeonhwang-gwa gwaje|script-title=ko:제주어의 연구 현황과 과제|trans-title=Understanding of Status Quo of Jejueo in Language Community of Jeju|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06716281|journal=동서인문학|volume=51|pages=131–159|issn=1738-9615|access-date=May 17, 2020|ref={{harvid|Yang C.|2016}}}}
+* {{cite journal|last1=양창용 (Yang Changyong)|last2=김원보 (Kim Won-bo)|date=May 2013|title=Jeju-eo ge-ui damhwa-jeok gineung-e daehan gochal|script-title=ko:제주어 ‘게’의 담화적 기능에 대한 고찰|trans-title=A study on the discourse functions of "key" in the Jeju language|journal=언어와 언어학|volume=59|pages=143–163|url=http://kiss.kstudy.com/thesis/thesis-view.asp?key=3348262|ref={{harvid|Yang C.|Kim W.|2013}}}}
+* {{cite journal|last=우창헌 (Woo Chang-hyun)|date=September 2005|title=Jeju bang'eon-ui '-neu-'-e daehayeo|script-title=ko:제주 방언의 '-느-'에 대하여|trans-title=On "-neu-" in the Jeju dialect|journal=형태론|volume=7|issue=2|pages=387–402|ref={{harvid|Woo C.|2005}}}}
+* {{cite journal|last=우창헌 (Woo Chang-hyun)|author-mask=3|date=June 2008|title=Bang'eon munbeop hyengtae yeon'gu bangbeop-Jeju-bang'eon seon-eomal-eomi '-keu-'-reul jungsim-euro|script-title=ko:방언 문법 형태 연구 방법-제주방언 선어말어미 '-크-'를 중심으로-|trans-title=On the Study Method of a Dialect Grammar Form|url=http://kiss.kstudy.com/thesis/thesis-view.asp?key=3721775|journal=방언학|volume=7|pages=57–74|issn=1738-8686|access-date=May 23, 2020|ref={{harvid|Woo C.|2008}}}}
+* {{cite journal|last=이숙향 (Lee Sook-hyang)|date=December 2014|title=Jeju-eo gangse-gu-ui eogyang|script-title=ko:제주어 강세구의 억양|trans-title=The intonation patterns of accentual phrase in Jeju dialect|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06070684|journal=말소리와 음성과학|volume=6|issue=4|pages=117–123|issn=2005-8063|access-date=May 14, 2020|ref={{harvid|Lee S.|2014}}}}
+* {{cite journal|last=이정민 (Lee Jeong-min)|date=December 1981|title=Hanguk-eo-ui pyojun-eo mit bang'eon-deul sai-ui sangho jeopchok-gwa taedo|script-title=ko:한국어의 표준어 및 방언들 사이의 상호 접촉과 태도|trans-title=Language attitude and contacts between Standard Korean and Korean dialects|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02350757|journal=한글|volume=173|pages=559–584|issn=1225-0449|access-date=May 16, 2020|ref={{harvid|Lee J.|1981}}}}
+* {{cite journal|last=조태린 (Cho Tae-rin)|date=December 2014|title=Jeju-eo-wa Jeju-bang'eon, ireum-ui jeongchi-eoneo-hak|script-title=ko:제주어와 제주방언, 이름의 정치언어학|trans-title=Jeju language and Jeju dialect, political linguistics of naming|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06073997|journal=어문학|volume=126|pages=117–135|issn=1225-3774|access-date=May 14, 2020|ref={{harvid|Cho T.-r.|2014}}}}
+* {{cite book|last=진성기 (Chin Song-gi)|date=October 30, 1991|title=Jeju-do muga bon-puri sajeon|script-title=ko:제주도 무가 본풀이 사전|trans-title=Encyclopedia of Jeju ''Bonpuri'' Shamanic Chants|location=Guro-gu, Seoul|publisher=민속원|isbn=978-89-5638-041-4|ref={{harvid|Chin S.|1991}}}}
+* {{cite journal|last=최명옥 (Choi Myung-ok)|date=April 1998|title=Gugeo-ui bang'eon guhoek|script-title=ko:국어의 방언 구획|trans-title=Dialectal Divisions of Korean|url=https://www.korean.go.kr/nkview/nklife/1998_4/1998_0401.pdf|journal=새국어생활|volume=8|issue=4|pages=5–29|issn=1225-7168|access-date=May 15, 2020|ref={{harvid|Choi M.|1998}}}}
+* {{cite journal|last=홍종림 (Hong Chong-rim)|date=December 2001|title=Jeju-bang'eon yeong'gyeol-eomi-ui '-n' '-ŋ'-e daehayeo|script-title=ko:제주방언 연결어미의 "-n" " -ŋ" 에 대하여|trans-title=On the Conjunctive Endings -n and -ŋ in the Cheju Dialect|url=http://kiss.kstudy.com/thesis/thesis-view.asp?key=1828967|journal=국어학|volume=38|pages=271–305|issn=1225-1933|access-date=May 23, 2020|ref={{harvid|Hong C.|2001}}}}
+* {{cite report
+  |chapter=Pyojun-eo-wa jiyeok-bang'eon
+  |script-chapter=ko:표준어와 지역방언
+  |trans-chapter=Standard Korean and Regional Dialects
+  |date=November 2015
+  |pages=93–116
+  |title=2015-nyeon gukmin-ui eoneo uisik josa
+  |script-title=ko:2015년 국민의 언어 의식 조사
+  |trans-title=Study of the Language Perceptions of Koreans, 2015
+  |publisher=[[National Institute of the Korean Language]]
+  |ref={{harvid|NIKL|2015}}}}
+* {{cite book|editor=제주문화예술재단 (Jeju Foundation for Arts and Culture)|date=December 1, 2009|title=Gaejeong·jeungbo Jeju-eo sajeon|script-title=ko:개정·증보 제주어사전|trans-title=Expanded and Revised Jeju Dictionary|url=http://www.jst.re.kr/upload/board/pdf/103_1531959325851.pdf|location=Jeju City, Jeju|publisher=[[Jeju Special Self-Governing Province]]|isbn=978-89-9625-725-7|ref={{harvid|Dictionary|2009}}}}
+* {{cite report
+  |chapter=Jeju-eo bojeon-gwa yukseong hwaldong
+  |script-chapter=ko:제주어 보전과 육성 활동
+  |trans-chapter=Jeju Language Preservation and Revitalization Efforts
+  |date=2019
+  |pages=491–512
+  |title=Jeju Teukbyeol Jachi-do-ji je-il-gwon
+  |script-title=ko:제주특별자치도지 제1권
+  |publisher=[[Jeju Special Self-Governing Province]]
+  |ref={{harvid|Jeju Province|2019a}}}}
+* {{cite report
+  |chapter=Jeju eoneo munhwa
+  |script-chapter=ko:제주 언어 문화
+  |trans-chapter=Jeju Language Culture
+  |date=2019
+  |pages=300–326
+  |title=Jeju Teukbyeol Jachi-do-ji je-sa-gwon
+  |script-title=ko:제주특별자치도지 제4권
+  |publisher=[[Jeju Special Self-Governing Province]]
+  |ref={{harvid|Jeju Province|2019b}}}}
+{{refend}}
+
+== External links ==
+
+{{incubator|jje}}
+{{wikisourcelang|ko|제주어 표기법|Orthography of the Jeju Language}}
+
+* [http://www.jejueo.com/ jejueo.com]: The official Korean-language website of the Jeju Language Preservation Society, the leading language revival organization.
+* [https://sites.google.com/a/hawaii.edu/jejueo/ Jejueo: The Language of Jeju Island]: An English-language website maintained by Yang Changyong, Yang Sejung, and William O'Grady, authors of the only English-language monograph on the language. The site includes an audio sample (found in the section "Jejueo Intelligibility Test") and a short Jeju-English dictionary.
+* [https://elar.soas.ac.uk/Collection/MPI971100 "A multi-modal documentation of Jejuan conversations"]: An annotated audio-video corpus of spoken Jeju, maintained by the [[Endangered Languages Archive]] at [[SOAS University of London]]
+
+{{Koreanic languages}}
+{{Korean language}}
+{{Korean dialects}}
+
+[[Category:Agglutinative languages]]
+[[Category:Endangered languages]]
+[[Category:Culture in Jeju Province]]
+[[Category:Languages of South Korea]]
+[[Category:Koreanic languages]]
+[[Category:Korean dialects]]
+[[Category:Subject–object–verb languages]]

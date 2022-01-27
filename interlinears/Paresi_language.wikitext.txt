@@ -1,0 +1,404 @@
+{{Short description|Arawaken language spoken in Brazin}}
+{{Infobox language
+| name = Paresi
+| altname = Arití
+| states = [[Brazil]]
+| region = [[Mato Grosso]]
+| speakers = 1800
+| date = 2014
+| ref = e18
+| familycolor = American
+| fam1 = [[Maipurean languages|Arawakan]]
+| fam2 = Southern ?
+| fam3 = [[Paresi–Waura languages|Paresí–Xingu]]
+| fam4 = Paresí languages
+| iso3 = pab
+| glotto = pare1272
+| glottorefname = Parecís
+}}
+
+'''Paresi''' (also called Haliti-Paresi or Paresi-Haliti by the speakers themselves) is an [[Arawakan languages|Arawakan language]] spoken in [[Brazil]]. There are approximately 2000 Paresi people, and around 1800 (~90% of the population) speak the language. The Paresi live in the state of [[Mato Grosso]], more specifically in nine indigenous territories: Rio Formoso, Utiariti, Estação Parecis, Estivadinho, Pareci, Juininha, Figueira, Ponte de Pedra, and Uirapuru. In terms of [[Endangered language|endangerment]], it is not in immediate danger. It is used in many everyday domains, but there is a lack of transmission to younger generations, as well as an evident language shift to [[Portuguese language|Portuguese]]. This is a result of Portuguese being used in education and healthcare, as well as the integration of Brazilian culture among the Paresi people, creating changes in their language and cultural practices.<ref>{{Cite thesis |last=Brandão |first=Ana Paula Barros |title=A reference grammar of Paresi-Haliti (Arawak) |date=2014 |degree=PhD |publisher=The University of Texas at Austin |pages=14–15 |hdl=2152/24847 |hdl-access=free}}</ref> 
+
+== Background information ==
+
+=== History ===
+Paresi speaking people were deeply affected by contact with Portuguese colonizers, whom they first encountered in 1718. For over 100 years, they were enslaved as miners in Mato Grosso. As Paresi speakers lived in rubber-dense areas, many were driven from their homes or taken as guides by prospective tappers in the late 19th century; this exploitation and aggression would drive them almost to extinction in the 20th century. Several Catholic missionaries of the Anchieta congregation forced Paresi children into boarding schools, where attempts were made to suppress their language, and also assumed control of the entire Utiariti area from the local Waimaré people.{{sfnp|Brandão|2014|p=11-12}}
+
+All of this disruption led to several subgroups of Paresis being lost either due to extinction or assimilation into other groups, as well as a shift in most groups towards speaking Brazilian Portuguese rather than Paresi. Some groups however are still making efforts to maintain Paresi traditional cultural practices as well as the language, such as the Kozarene who make traditional beer, and bread, and wear Paresi headdresses, and skirts.{{sfnp|Brandão|2014|p=12-13}}
+
+=== Language family and stock ===
+Paresi belongs to the Arawak language family, one of the largest and most widespread language families in South America. Payne (1991) used lexical retention to determine language classification, and placed Paresi in the Central branch. Aikhenvald (1999) and Ramirez (2001) group Paresi into the Paresi-Xingu branch.{{sfnp|Brandão|2014|p=5-7}}
+
+== Documentation ==
+There has been some documentation for Paresi. A sketch grammar served as a preliminary description of discourse, clause, and word structure (Rowan and Burgess 1969). A preliminary dictionary has been compiled based on the variety spoken in the Utiariti area (Rowan 1978). Phonology work has also been done (Rowan 1961, 1963, 1964a, 1964b, 1967, 1972, 1977), more specifically with the phonetics and phonology of the Waimaré dialect (Drude 1995), and a phonological description of major Paresi variants using [[feature geometry]] (Silva 2009). Brandão has written a verbal morphology description dealing with verb classes, tense, aspect, and modality (Brandão 2010). A morphosyntax description addressing functional morphemes with respect to negation, aspect, and mood has also been written (Silva 2013). There are other pedagogical materials available (Paresi & Januário 2011), in addition to student theses written by undergraduate Paresi speakers from the State University of Mato Grosso.
+
+The [[Museu do Índio]] has an ongoing language project for Paresi, coordinated by Glauber Romling. The goal of the project is to involve the indigenous community by offering basic archival and linguistic training to analyze speech data in the form of mythical tales and sociolinguistic interviews.
+
+== Phonology ==
+
+=== Consonants ===
+There are 17 contrastive consonant [[Phoneme|phonemes]] in Paresi, with three marginal phonemes that only appear in very restricted contexts. These marginal phonemes are analyzed to be their own phonemes, because unlike other palatalized consonant [[Allophone|allophones]] in the language, these phonemes can appear word-initially before /a/, which would not trigger [[Palatalization (phonetics)|palatalization]].
+
+{| class="wikitable" style="text-align:center;"
+|+ {{sfnp|Brandão|2014|p=29}} Adapted from Brandão (2014).
+! 
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palato-alveolar consonant|Palato-Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} {{grapheme|m}}
+|
+| {{IPAlink|n}} {{grapheme|n}}
+|
+|
+|
+|-
+! [[Plosive]]
+| {{IPAlink|b}} {{grapheme|b}}
+|
+| {{IPAlink|t}} {{grapheme|t}}
+| {{IPAlink|tʲ}} {{grapheme|ty}}
+| {{IPAlink|k}} {{grapheme|k}}
+|
+|-
+! [[Affricate]]
+|
+|
+| {{IPAlink|t͡s}} {{grapheme|ts}}
+| ({{IPAlink|t͡ʃ}}) {{grapheme|tx}}
+|
+|
+|-
+! [[Fricative]]
+| {{IPAlink|f}} {{grapheme|f}}
+| {{IPAlink|θ}} {{grapheme|z}}
+|
+| ({{IPAlink|ʃ}}) {{grapheme|x}}
+|
+| {{IPAlink|h}} {{grapheme|h}}
+|-
+! [[Tap and flap consonants|Flap]]
+|
+|
+| {{IPAlink|ɾ}} {{grapheme|r}}
+|
+|
+|
+|-
+! [[Lateral consonant|Lateral]]
+|
+|
+| {{IPAlink|l}} {{grapheme|l}}
+| ({{IPAlink|lʲ}}) {{grapheme|ly}}
+|
+|
+|-
+! [[Approximant]]
+| {{IPAlink|w}} {{grapheme|w}}
+|
+|
+| {{IPAlink|j}} {{grapheme|y}}
+|
+|
+|}
+
+=== Vowels ===
+There are 6 contrastive vowel phonemes in Paresi, although the nasalized vowels are restricted in the contexts in which they may occur and are occasionally emphatic allophones of their oral equivalents, the front nasal vowels are the only ones with distributions complementary to their respective oral vowels. Paresi exhibits a form of [[rhinoglottophilia]] in that vowels adjacent to a glottal fricative onset to a final syllable are nasalized and exhibit [[Murmured voice|breathy phonation]]. 
+{| class="wikitable" style="text-align: center"
+!
+![[Front vowel|Front]]
+![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+|/i/ ⟨i⟩, /ĩː/ ⟨ĩ⟩
+|
+|-
+![[Mid vowel|Mid]]
+|/e/ ⟨e⟩, /ẽː/ ⟨ẽ⟩
+|/o/ ⟨o⟩
+|-
+![[Low vowel|Low]]
+| colspan="2" |/a/ ⟨a⟩
+|}
+
+== Morphology ==
+Paresi is a [[polysynthetic language]], whose morpheme boundaries are clear-cut and easy to parse. Affixes are very productive in the language, with prefixes being attached mainly to verbs, and to some nouns to form stative predicates. Different sets of suffixes exist for nouns and verbs; nominal suffixes encode possession and plurals, and verbal suffixes encode aspect, [[Valency (linguistics)|valency]] changes, and number. Personal and clausal clitics are quite numerous, with personal clitics marking possession and the subject, and clausal enclitics signalling future, past, or [[Irrealis mood|irrealis]].{{sfnp|Brandão|2014|p=81}} Adnominal (appearing before nouns) and adverbial demonstratives are also extensive, with a 4-way split in adnominal demonstratives: proximal, medial, distal, and non-visual, as well as a distinction in number.
+
+=== Personal Pronouns ===
+{| class="wikitable" style="text-align: center"
+|+
+!Person
+!Singular
+!Plural  
+|-
+|1st
+|natyo
+|witso
+|-
+|2nd
+|hitso
+|xitso
+|-
+|3rd
+|hatyo, eze
+|hatyonae, ezenae
+|}
+
+The third person pronouns are identical to the proximal and medial demonstratives, eze and hatyo. Little syntactic distinction exists between the two save for the fact that hatyo may be cliticized to /ha-/ to reflect a third person singular reflexive, otherwise the third person personal pronouns are identical to demonstratives. 
+
+{{interlinear|number=(1)|lang=pab
+|hatyo-nae kakoa ali witso hoka wi-tyaona-ita
+|3sg-PL COM here 1pl {{gcl|CON|connective}} 1pl-live-{{gcl|IFV|imperfective}}
+|'We came with them to live here.'}}
+
+=== Pronominal Clitics ===
+{| class="wikitable" style="text-align: center"
+|+
+! rowspan="2" |Person
+! colspan="2" |Set A
+! colspan="2" |Set B
+|-
+|Singular
+|Plural
+|Singular 
+|Plural
+|-
+|First
+|na-
+|za-
+|no-
+|wi-
+|-
+|Second
+|ha-
+|wa-
+|hi-
+|xi-
+|-
+|Third
+|∅-
+|(V) -ha 
+
+(N) -ha/-nae
+| colspan="2" |(V) ∅- 
+
+(N) e-
+|}
+Pronominal clitics reflect subject agreement on verbs, with Set A marking subject agreement on agentive verbs, and Set B marking subject agreement on non-agentive verbs and possession on nouns. The suffix /-nae/ is a generic plural that is used with the third person plural, with /-ha/ being specific. Because these clitics are mandatory, Paresi is a strongly [[pro-drop language]] and subject pronouns are optional.<br />
+
+{{interlinear|number=(2)|lang=pab
+|(natyo) no-ka-nakaira-ene
+|(1sg) 1sg-ATTR-food-{{gcl|3OBJ|third person object}}
+|'I ate it.'}}
+
+=== Valency Change ===
+Paresi has three forms of valency decreasing for verbs morphologically: the inactive [[Inchoative aspect|inchoative]] /-oa/, the [[Reflexive verb|reflexive]] /-wi/, and the [[Reciprocal pronoun|reciprocal]] /-kakoa/. The suffix /-oa/ is used to express the [[Voice (grammar)|middle voice]] for some transitives, the reflexive for various verbs of changing the position of one’s body or taking care of one’s self, and the [[Passive voice|passive]] for several verbs of harm or detriment.
+
+{{interlinear|number=(3)|lang=pab
+|hati-kanatse ma-txihola-ty-oa
+|House-mouth NEG-door-{{gcl|TH|thematic suffix}}-{{gcl|MM|middle marker}}
+|‘The door of the house opened’}}
+
+{{interlinear|number=(4)|lang=pab
+|katxolo etolits-oa
+|Dog lie.down-{{gcl|MM|middle marker}}
+|‘The dog lays down (the dog lays itself down)’}}
+
+{{interlinear|number=(5)|lang=pab
+|hala-halo-ty-oa-heta
+|Paint-FEM-{{gcl|TH|thematic suffix}}-{{gcl|MM|middle marker}}-PERF
+|‘She painted herself’}}
+
+{{interlinear|number=(6)|lang=pab
+|tyalok-oa
+|Bite-{{gcl|MM|middle marker}}
+|‘Get bitten’}}
+
+The suffix /-wi/ is a much more straightforward reflexive, and is exclusively used with verbs that would normally have two very distinct arguments, unlike those made reflexive by /-oa/. The reciprocal /-kakoa/ may be used with doubled plural morphology to indicated multiple reciprocal pairs, and may also attach to a noun in addition to a verb to indicate the reciprocal participants making it a “discontinuous reciprocal”.
+
+Valency is increased by attaching either the [[causative]] prefix /a-/, or the causative suffix /-ki/, or both. Causatives may also be formed periphrastically with the verb /moka/.
+
+=== Verbal Modality ===
+Paresi modality and expression of verbal reality is intertwined with the [[evidentiality]] of said verbs. Paresi has three counterfactual modalities: the [[frustrative]] (an action that was unfortunately not achieved, or did not go as expected), the [[Dubitative mood|dubitative]] (an action may or may not be true), and the [[Desiderative mood|desiderative]] (the action is desired by the speaker). Of those three, the first two distinguish evidentiality and certainty.
+
+The frustrative marker /zaore~zakore/ is used to indicate that an action did not or could not be achieved or finished, and comes before the clause that expresses said action, or acts as a particle and indicates an undesirable outcome.
+
+{{interlinear|number=(7)|lang=pab
+|kazatya wi-tsere-hena zakore a-heka-e-tsa witso
+|Jacuba 1pl-drink-{{gcl|TRS|transitional}} {{gcl|FRUST|frustrative}} CAUS-be.drunk-CAUS-{{gcl|TH|thematic suffix}} 1pl
+|‘We were drinking jacuba, and unfortunately we got drunk.’}}
+
+The other frustrative marker /motya/ indicates that the verb contradicts one’s assumptions or expectations drawn from visual evidence. If one were to see that the sky was cloudy, and from that expected it to rain, but then it did not, they would utter the following:
+
+{{interlinear|number=(8)|lang=pab
+|motya atyo ite one-hena wi-hiye
+|{{gcl|FRUST|frustrative}} TOP FUT water-{{gcl|TRS|transitional}} 1pl-{{gcl|BEN|benefative}}
+|‘Apparently it was going to rain (but it did not).’}}
+
+The two dubitative markers, /zamani/ and /kala/ are different in levels of certainty, the formers marks something that the speaker is quite uncertain of, while the latter indicates a non-absolute, but high degree of certainty, the speaker may have even witnessed the event personally.
+
+{{interlinear|number=(9)|lang=pab
+|Sandro zamani Valeria kokoa ka-itsani aoka-ha
+|Sandro {{gcl|DUB|dubitative}} Valeria COM {{gcl|ATTR|attributive}}-child say-pl
+|‘They say Valeria is pregnant by Sandro (but I doubt it).’}}
+
+{{interlinear|number=(10)|lang=pab
+|Kala Enoharetse tyaona-ita eye ha-wawa-hare-nae
+|{{gcl|DUB|dubitative}} Enoharetse live-{{gcl|IFV|imperfective}} this 3s-be.alone-Masc-pl
+|‘Enoharetse was already living alone here (I think).’}}
+
+Finally, there is the desiderative marker /katsani/ indicating a first person wish.
+
+== Syntax ==
+Paresi is a nominative-accusative language, in that subjects of transitive and intransitive verbs are marked identically, and the object of a transitive differently. Paresi does not overtly mark case, but indicates subjects and objects primarily through word order: sentences where the object is not a pronoun are usually ordered Subject-Object-Verb, 
+
+{{interlinear|number=(11)|lang=pab
+|Paula iyakaniti hotikitsa
+|Paula pictures show
+|‘Paula showed pictures.’}}
+
+and sentences with a pronominal object are typically ordered Subject-Verb-Object.
+
+{{interlinear|number=(12)|lang=pab
+|Baba aotyaitsa natyo hoka
+|Father teach me then
+|‘Then my father taught me.’}}
+
+Since the person and number of subjects are always marked with verb prefixes, subjects that have already been introduced are mostly omitted. If the object is established and third person, then it is also usually dropped in favour of the object suffix ''-ene'', so sentences are frequently OV, SV, or simply V.
+
+{{interlinear|number=(13)|lang=pab
+|No-kanakair-ene
+|1sg-eat-{{gcl|3OBJ|third person object}}
+|‘I ate it.’}}
+
+However, as Paresi is a very topic-focused language, the most relevant information, be that object or subject, tends to be put first in a sentence, making OSV a very common word order in Paresi, leading to some ambiguity if the arguments are not of different persons or numbers.
+
+{{interlinear|number=(14)|lang=pab
+|Katxolohokotsetxoa<sub>O</sub> ala ani<sub>S</sub> xakatetya<sub>V</sub>
+|Small.dog FOC wasp sting
+|‘The wasp was stinging the dog.’}}
+
+These cases can be disambiguated with the topic marker ''atyo'', which marks a new conversational subject, or the focus marker ''ala'', which usually marks an object that has been moved to first position. These, however, are optional, so in subject and object must occasionally be discerned by context.<br />
+
+{{interlinear|number=(15)|lang=pab
+|Wi-halanatse<sub>O</sub> menetse<sub>S</sub> toka-olatya<sub>V</sub>
+|Our-dog anaconda hold-tie
+|‘An anaconda held and tied our dog.’}}
+
+Paresi sentences also very occasionally have OVS word order:
+
+{{interlinear|number=(16)|lang=pab
+|Kala koloho<sub>O</sub> miyatya<sub>V</sub> mahalitihare<sub>S</sub> hoka
+|{{gcl|DUB|dubitative}} forest destroy non-native then
+|‘Then the non-native destroyed the forest.’}}
+
+== Semantics ==
+
+=== Numerals ===
+The first four numbers in Paresi are lexical items (listed below), and anything above 4 is counted using base-5, using body parts (ie: fingers, toes, hands, feet) (Brandão, 2014).
+{| class="wikitable" style="text-align: center"
+|+
+!Numeral
+!Paresi
+|-
+|1
+|hatita
+|-
+|2
+|hinama
+|-
+|3
+|hanama
+|-
+|4
+|zalakakoa
+|}
+
+{{interlinear|number=(17)|lang=pab
+|hinama-li ala konare Ø-noloka
+|two-CLF:round FOC cará.fish 3sg-pull
+|‘She caught two cará fishes.’}}
+
+{{interlinear|number=(18)|lang=pab
+|kahi-ti halakoa kahe haiya, kahi-ti tyotya
+|hand-{{gcl|UNPOSS|unpossessed}} one.side hand {{gcl|IND2|one of two indefinite pronouns}} hand-{{gcl|UNPOSS|unpossessed}} everything/all
+|‘Sometimes five days (one hand), or ten days (all the hands).’}}
+=== Quantifiers ===
+Paresi has the following quantifiers: ''tyotya'' 'all', ''kahare'' 'many, a lot', ''inira'' 'few', and ''taita'' 'only’. The first three can appear independently as pronouns, and all four modify nouns. ''Tyotya'', ''kahare'', and ''inira'' can appear both before and after nouns, whereas ''inira'' can only appear before nouns. Unlike demonstratives, these quantifiers can also take personal clitics and aspect markers, which are normally only found on verbs (Brandão, 2014).
+
+{{interlinear|number=(19)|lang=pab
+|kozaka-ene ali-yere-nae tyotya Ø-zane
+|already-PST here-{{gcl|NMLZ|nominalizer}}-PL everything/all 3sg-go
+|‘The people from here, all of them were already gone.’}}
+
+{{interlinear|number=(20)|lang=pab
+|kozaka-ene ali-yere-nae tyotya Ø-zane
+|already-PST here-{{gcl|NMLZ|nominalizer}}-PL everything/all 3sg-go
+|‘The people from here, all of them were already gone.’}}
+
+{{interlinear|number=(21)|lang=pab
+|tyotya haliti Ø-tyaon-ita-ene
+|all Paresi.Indian 3sg-live-{{gcl|IFV|imperfective}}-PST
+|'All the Paresi people lived there.'}}
+
+''Kahare'' ‘many, a lot’ can take both countable nouns and uncountable nouns. Examples (24) and (25) show ''kahare'' taking clitics and aspect markers respectively.
+
+{{interlinear|number=(22)|lang=pab
+|hatyohiyeta kahare zoima Ø-tyaona-te hitiya
+|then many child 3sg-be.born-FUT again
+|‘Then, many children were born.’}}
+
+{{interlinear|number=(23)|lang=pab
+|oliti kahare Ø-aitsa-ha-ita-ha
+|game many 3sg-kill-PL-{{gcl|IFV|imperfective}}-PL
+|‘They killed a lot of game.’}}
+
+{{interlinear|number=(24)|lang=pab
+|wi-kahare
+|1pl-a.lot
+|'There were a lot of us.'}}
+
+{{interlinear|number=(25)|lang=pab
+|kahare-hena haiya haliti ena ohiro zoaha Ø-waiyore-ta
+|a.lot-{{gcl|TRS|transitional}} {{gcl|IND2|one of two indefinite pronouns}} person man woman and 3sg-know-{{gcl|IFV|imperfective}}
+|'Many Paresi people, men, and women, know.'}}
+
+''Inira'' appears before nouns and can also take the plural –''nae'', shown in Example (26).
+
+{{interlinear|number=(26)|lang=pab
+|waiye-hare Ø-bete-hena hoka  Ø-iya-h-ita-ha inira-nae atyo
+|good-MASC 3sg-sell-{{gcl|TRS|transitional}} {{gcl|CON|connector}} 3sg-buy-PL-{{gcl|IFV|imperfective}}-PL few-PL TOP
+|'They sold beautiful things, but they bought few things.'}}
+
+{{interlinear|number=(27)|lang=pab
+|no-zakaihaka-tya inira
+|1sg-tell.story-{{gcl|TH|thematic suffix}} few
+|'I will tell a little bit of the story.'}}
+
+''Taita'' can come before or after the noun, but does not appear as its own independent pronoun. In (29), ''taita'' is being used as a non-verbal predicate.
+
+{{interlinear|number=(28)|lang=pab
+|imoti taita ali tyaona
+|non-Indian only here COP
+|'Here there were only non-Indian people.'}}
+
+{{interlinear|number=(29)|lang=pab
+|hatyo taita
+|that only
+|'That is it.'}}
+
+==References==
+<references/>
+
+== External links ==
+* [http://elar.soas.ac.uk/deposit/0278 ELAR Documentation and description of Paresi-Haliti (Arawak)]
+{{Languages of Brazil}}
+{{Arawakan languages}}
+
+[[Category:Languages of Brazil]]
+[[Category:Arawakan languages]]
+[[Category:Mamoré–Guaporé linguistic area]]

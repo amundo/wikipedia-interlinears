@@ -1,0 +1,178 @@
+{{Infobox language
+|name=Woisika
+|nativename=''Kamang''
+|states=[[Indonesia]]
+|region=[[Alor Island]]
+|speakers=6,000
+|date=2014
+|ref=<ref>{{Cite web|url=http://www.unesco.org/culture/languages-atlas/en/atlasmap/language-id-2745.html|title=UNESCO Atlas of the World's Languages in danger|website=www.unesco.org|language=en|access-date=2018-06-06}}</ref>
+|familycolor=Papuan
+|fam1=[[Trans–New Guinea]] ?
+|fam2=[[West Bomberai languages|West Bomberai]] ?
+|fam3=[[Timor–Alor–Pantar languages|Timor–Alor–Pantar]]
+|fam4=[[Alor–Pantar languages|Alor–Pantar]]
+|fam5=[[Alor languages|Alor]]
+|iso3=woi
+|glotto=kama1365
+|glottorefname=Kamang
+}}
+'''Woisika''', also known as '''Kamang''', is a [[Papuan language]] of [[Alor Island]] of [[Indonesia]]. The three main dialects are Western Kamang, Lowland Kamang, and Upland Kamang. Dialects also include Lembur, Sibo, Kamang, Tiayai, Watang, Kamana-Kamang. They may constitute more than one language. Kamang is an [[endangered language]], since children usually only have passive competence of the language, and instead are shifting to [[Malay language|Malay]].<ref name="Schapper" />
+
+Speakers may prefer the term ''Kamang'' to refer to the speech community as a whole; ''Woisika'' is a village name.<ref>{{Cite book|url=http://ausil.org.au/sites/ausil/files/1997%20Grimes%20etal%20Nusa%20Teng%20Guide.pdf|title=A guide to the people and languages of Nusa Tenggara|last=Grimes|first=Charles|publisher=Artha Wacana Press|year=1997|location=Kupang}}</ref>
+
+==Phonology==
+
+===Consonants===
+{|class="wikitable" style=text-align:center
+|-
+|+Woisika consonant phonemes
+! colspan=2| 
+! [[Labial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan=2| [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| 
+| {{IPAlink|ŋ}} {{grapheme|ng}}
+|
+|-
+! rowspan=2| [[Plosive]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+|
+| {{IPAlink|k}}
+| ({{IPAlink|ʔ}}) {{grapheme|'}}
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+|
+| {{IPAlink|ɡ}}
+|
+|-
+! colspan=2| [[Fricative]]
+| {{IPAlink|ɸ}} {{grapheme|f}}
+| {{IPAlink|s}}
+|
+|
+| ({{IPAlink|h}})
+|-
+! colspan=2| [[Semivowel]]
+| {{IPAlink|w}}
+| 
+| {{IPAlink|j}} {{grapheme|y}}
+| 
+|
+|-
+! colspan=2| [[Lateral consonant|Lateral]]
+| 
+| {{IPAlink|l}}
+|
+| 
+|
+|}
+
+/h/ and /ʔ/ are marginal. /r/ is rare in initial and final position. Word-final /s/ is only in loan words.
+
+The consonant /ŋ/ is not found word-initially, and /f/ is not found word-finally.<ref name="Phonemics">{{cite book |last1=Stokhof |first1=W.A.L. |title=Woisika II Phonemics |date=1979 |publisher=Australian National University|url=https://openresearch-repository.anu.edu.au/bitstream/1885/146505/1/PL-B59.pdf}}</ref>
+
+===Vowels===
+{| class="wikitable" style="text-align:center;"
+|+ Woisika vowel phonemes
+|-
+!
+! colspan=2 | [[Front vowel|Front]]
+! colspan=2 | [[Central vowel|Central]]
+! colspan=2 | [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPAlink|i}}
+| {{IPAlink|iː}} {{grapheme|ii}}
+|colspan=2|
+| {{IPAlink|u}}
+| {{IPAlink|uː}} {{grapheme|uu}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPAlink|e}}
+| {{IPAlink|eː}} {{grapheme|ee}}
+|colspan=2|
+| {{IPAlink|o}}
+| {{IPAlink|oː}} {{grapheme|oo}}
+|-
+! [[Open vowel|Open]]
+|colspan=2|
+| {{IPAlink|a}}
+| {{IPAlink|aː}} {{grapheme|aa}}
+|colspan=2|
+|}
+
+==Grammar==
+
+===Serial verb constructions===
+
+Kamang has [[serial verb construction]]s.
+
+{{interlinear|indent=3
+|Mooi bong nok kok silang dii
+|banana tree one fall.down descend lie
+|'A banana tree came falling down.'<ref name="Schapper" />{{rp|345}}}}
+
+{{interlinear|indent=3|glossing3=yes
+|Afunaa yakii me noowaai.
+|a-funaa ga-kii me noo-waai. 
+|3.PAT-face 3.PAT-turn come 3.AST-face
+|'Turn and face me.'<ref name="Schapper" />{{rp|348}}}}
+
+===Valence===
+
+Examples with avalent, monovalent, bivalent, and trivalent verbs are shown below.<ref name="Schapper">{{cite book |author1=Schapper, Antoinette |editor1-last=Schapper |editor1-first=Antoinette |title=The Papuan Languages of Timor, Alor and Pantar: Volume 1: Sketch Grammars |date=2014 |publisher=Walter de Gruyter |pages=287–349 |chapter=Kamang}}</ref>
+
+Avalent
+
+{{interlinear|indent=3|glossing3=yes
+|Itunma
+|itun-ma
+|late.afternoon-PFV
+|'It's late afternoon.'<ref name="Schapper" />{{rp|300}}}}
+
+Monovalent
+
+{{interlinear|indent=3|glossing3=yes
+|Markus gamanteima
+|Markus ga-mantei-ma
+|Markus 3.PAT-thirst-PFV
+|'Markus is thirsty already.'<ref name="Schapper" />{{rp|301}}}}
+
+Bivalent
+
+{{interlinear|indent=3|glossing3=yes
+|Na Markus gatakma.
+|na Markus ga-tak-ma
+|1SG.AGT Markus 3.PAT-see-PFV
+|'I have seen Markus'<ref name="Schapper" />{{rp|301}}}}
+
+Trivalent
+
+{{interlinear|indent=3|glossing3=yes
+|Markus patei me dumma wotulen.
+|Markus patei me dum{{=}}a go-tulen
+|Markus corn TAKE child{{=}}SPEC 3.LOC-divide
+|'Markus divides corn amongst the children.'<ref name="Schapper" />{{rp|301}}}}
+
+==Riddles==
+Woisika riddles relate to animals, the human body, human artifacts, natural phenomena, crops and other foods, among others.<ref name="Riddles">{{cite book |last1=Stokhof |first1=W.A.L. |title=Woisika Riddles |date=1982 |publisher=Australian National University|url=https://openresearch-repository.anu.edu.au/bitstream/1885/145070/1/PL-D41.pdf}}</ref>
+
+==References==
+{{Reflist}}
+
+{{West Trans–New Guinea languages}}
+
+[[Category:Alor–Pantar languages]]
+[[Category:Languages of Indonesia]]
+
+{{TNG-lang-stub}}

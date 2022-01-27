@@ -1,0 +1,99 @@
+{{More citations needed|date=November 2008}}
+
+A '''topic-prominent language''' is a language that organizes its [[syntax]] to emphasize the [[topic–comment]] structure of the sentence. The term is best known in American linguistics from Charles N. Li and [[Sandra Thompson (linguist)|Sandra Thompson]], who distinguished '''topic-prominent''' languages, such as [[Korean language|Korean]] and [[Japanese language|Japanese]], from subject-prominent languages, such as [[English language|English]].
+
+In Li and Thompson's (1976) view, topic-prominent languages have morphology or syntax that highlights the distinction between the [[topic (linguistics)|topic]] and the comment (what is said about the topic). Topic–comment structure may be independent of the [[word order|syntactic ordering]] of [[subject (grammar)|subject]], [[verb]] and [[object (grammar)|object]].
+
+{{TOC limit|limit=2}}
+
+==Common features==
+{{More citations needed section|date=April 2009}}
+Many topic-prominent languages share several syntactic features that have arisen because the languages have sentences that are structured around topics, rather than subjects and objects:
+
+*They tend to downplay the role of the [[grammatical voice|passive voice]], if a passive construction exists at all, since the main idea of passivization is to turn an object into a subject in languages whose subject is understood to be the topic by default.
+*They rarely have expletives or "dummy subjects" ([[dummy pronoun|pleonastic pronoun]]s) like English ''it'' in ''It's raining''.
+*They often have sentences with so-called "double subjects", actually a topic plus a subject. For example, the following sentence patterns are common in topic-prominent languages:
+
+::[[Mandarin Chinese|Mandarin]]
+{{fs interlinear|indent=4|italics2=no|italics3=yes
+|這個 人 個子 很 高。|c1=(traditional)
+|这个 人 个子 很 高。|c2=(simplified)
+|zhège rén gèzi hěn gāo
+|"This person ''(topic)'' height ''(subject)'' very tall."}}
+
+::[[Japanese language|Japanese]]
+{{fs interlinear|indent=4
+|その ヤシは 葉っぱが 大きい。
+|sono yashi-wa happa-ga ookii
+|"That palm tree ''(topic)'' leaves ''(subject)'' are big."}}
+
+*They do not have [[article (grammar)|articles]], which are another way of indicating old vs. new information.
+*The distinction between subject and object is not reliably marked.
+
+The Lolo–Burmese language [[Lisu language|Lisu]] has been described as highly topic-prominent,<ref name="Li & Thompson">{{cite book |last1 = Li|first1 = Charles N.|last2 = Thompson|first2 = Sandra A.|chapter = Subject and Topic: A New Typology of Language|title = Subject and Topic|editor = Charles N. Li|location = New York|publisher = Academic Press|pages = 457–489|year = 1976|isbn = 978-0-12-447350-8}}</ref> and Sara Rosen has demonstrated that "while every clause has an identifiable topic, it is often impossible to distinguish subject from direct object or agent from patient. There are no diagnostics that reliably identify subjects (or objects) in Lisu."<ref name="Rosen">{{cite book | last=Rosen | first=Sara Thomas | editor=Ramchand & Reiss | title=The Oxford Handbook of Linguistic Interfaces | chapter = Structured Events, Structured Discourse | location=Oxford | publisher=Oxford University Press | year=2007 | isbn = 978-0-19-924745-5 }}</ref>  This ambiguity is demonstrated in the following example:<ref name="Li & Thompson"/>
+
+{{interlinear|indent=3
+|làthyu nya ánà khù -a
+|people TOP dog bite -DECL
+|a. "People, they bite dogs."<br>
+b. "People, dogs bite them."}}
+
+==Examples==
+Examples of topic-prominent languages include [[East Asian language]]s such as [[Chinese language|Chinese]], [[Japanese language|Japanese]], [[Korean language|Korean]], [[Vietnamese language|Vietnamese]], [[Malay language|Malay]], [[Indonesian language|Indonesian]], [[Singaporean English]] and [[Malaysian English]].  [[Turkish language|Turkish]],<ref>http://www.sjsu.edu/faculty/watkins/langtyp.htm  Typology of Language Grammars - San Jose State University</ref><ref>http://www.turkofoni.org/files/a_typological_approach_to_sentence_structure_in_turkish-yilmaz_kili_arslan_trakya_uni.pdf  A Typological Approach to Sentence Structure in Turkish - Yılmaz Kılıçaslan</ref> [[Hungarian language|Hungarian]],<ref name="KeneseiVago2002">{{cite book|last1=Kenesei|first1=Istvan |last2=Vago|first2=Robert M. |last3=Fenyvesi|first3=Anna |title=Hungarian|chapter-url=https://books.google.com/books?id=0wObPFCi2zYC&pg=PA172|date=2002|publisher=Routledge|isbn=978-1-134-97646-1|pages=172–181|chapter=1.12. Topic}}</ref> [[Somali language|Somali]], and [[Indigenous peoples of the Americas|Native American]] languages like the [[Siouan languages]] are also topic-prominent. Modern [[Linguistics|linguistic]] studies have shown that [[Brazilian Portuguese]] is a [[topic (linguistics)|topic]]-prominent or topic- and subject-prominent language<ref>Pontes, E. (1987). ''O tópico no português do Brasil''. Pontes Editores.</ref><ref>{{cite web|url=http://www.filologia.org.br/viiicnlf/anais/caderno05-07.html |title=As Construções De Tópico No Português Do Brasil: Uma Análise Sintático-Discursiva Em Tempo Real |publisher=Filologia.org.br |date= |accessdate=2012-12-24}}</ref> (see [[Brazilian Portuguese#Topic-prominent language]]). [[American Sign Language]] is also considered to be topic-prominent.<ref>{{cite book | title=Advances in the Sign Language Development of Deaf Children | last=Schick | first=Brenda Sue | page=36 | year=2006 | publisher=[[Oxford University Press]] | isbn=0-19-518094-1 | url=https://books.google.com/books?id=M2kmXbCfIWYC&q=ASL+topic-prominent&pg=PA36 | accessdate=2008-09-23}}</ref>
+
+===Mandarin Chinese===
+{{fs interlinear|indent=3
+| 張三 我 已經 見過 了。
+| {Zhāng Sān} wǒ yǐjing jiàn-guò le
+| {Zhang San} I already see-EXP RES
+| (As for) Zhang San, I've seen (him) already.}}
+
+{{fs interlinear|indent=3
+|top= Usual order*:
+| 我 已經 見過 張三 了。
+| wǒ yǐjing jiàn-guò {Zhāng Sān} le
+| I already see-EXP {Zhang San} RES
+| I've already seen Zhang San.}}
+
+<nowiki>*</nowiki>Remark: Mandarin Chinese sentences are predominantly [[subject-verb-object|SVO]], but the language allows the object to be promoted to the topic of the sentence, resulting in an apparently [[object-subject-verb|OSV]] word order.
+
+===Japanese===
+{{fs interlinear|indent=3
+| 魚は 鯛が おいしい。
+| sakana-wa tai-ga oishi-i
+| fish-TOP red.snapper-NOM delicious-NPST
+| When it comes to fish, red snapper is delicious. / Red snapper is a delicious fish.}}
+
+===Lakota===
+{{interlinear|indent=3
+| Miye ṡuŋkawaḱaŋ eya owiċabluspe yelo.
+| be-the-one-1SG horse DET.PL catch-3PL.UND-1SG.ACT-catch DECL.male
+| (As for) me, some horses: I caught them. → It was me who caught some horses. (I caught some horses.)}}
+
+===Turkish===
+{{interlinear|indent=3
+| Seni yarın yine göreceğim.
+| you-ACC tomorrow again see-FUT-1SG
+| You tomorrow again I'll see. → I'll see you again tomorrow.}}
+
+<!---
+===American Sign Language ===
+
+In [[American Sign Language]] (ASL), the topic of the sentence, that is the focus of the sentence, is put at the beginning.  For example, in translating the English phrase "We are going to the store tomorrow", some possible ASL sentences, literally translated, could be:
+*"WE GO STORE TOMORROW."
+*"TOMORROW, STORE WE GO." (Topicalization, TOMORROW is the focus) 
+*"*STORE, WE GO TOMORROW." (Topicalization, STORE is the focus)
+
+Proper ASL structure, though, uses the time indicator first, so the proper ASL form would be the second one:  "TOMORROW, STORE WE GO."
+--->
+
+==See also==
+*[[Topic marker]]
+*[[Topic–comment]]
+
+==References==
+{{reflist}}
+
+{{DEFAULTSORT:Topic-Prominent Language}}
+[[Category:Linguistic typology]]
+[[Category:Syntax]]

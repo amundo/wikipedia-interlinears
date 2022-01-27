@@ -1,0 +1,425 @@
+{{Short description|Nez Perce language}}
+
+{{Infobox language
+|name         = Nez Perce
+|nativename   = ''Niimiipuutímt''
+|states       = [[United States]]
+|region       = [[Idaho]]
+|ethnicity    = 610 [[Nez Perce people]] (2000 census)<ref name=e18>{{Ethnologue18|nez}}</ref>
+|speakers     = 20
+|date         = 2007
+|ref          = <ref>{{Cite web|url=http://www.unesco.org/culture/languages-atlas/en/atlasmap/language-id-824.html|title=UNESCO Atlas of the World's Languages in danger|website=www.unesco.org|language=en|access-date=2018-05-17}}</ref>
+|familycolor   = American
+|fam1          = [[Plateau Penutian languages|Plateau Penutian]]
+|fam2          = [[Sahaptian languages|Sahaptian]]
+|iso3          = nez
+|glotto        = nezp1238
+|glottorefname = Nez Perce
+}}
+[[Image:Plateau Penutian langs.png|thumb|240px|Pre-contact distribution of Plateau Penutian languages]]
+'''Nez Perce''', also spelled '''Nez Percé''' or called '''Nimipuutímt''' (alternatively spelled ''Nimiipuutímt'', ''Niimiipuutímt'', or ''Niimi'ipuutímt''), is a [[Sahaptian languages|Sahaptian]] language related to the several dialects of [[Sahaptin language|Sahaptin]] (note the spellings ''-ian'' vs. ''-in''). Nez Perce comes from the French phrase ''nez percé'', "pierced nose"; however, Nez Perce, who call themselves ''Nimiipuu'', meaning "the people", did not pierce their noses.<ref name=fun>{{Cite web|url=http://www.bigorrin.org/nez_kids.htm|title=Facts for Kids: Nez Perce Indians (Nez Perces)|website=www.bigorrin.org|access-date=2017-02-09}}</ref> This [[misnomer]] may have occurred as a result of confusion on the part of the French, as it was surrounding tribes who did so.<ref name=fun/>
+
+The Sahaptian sub-family is one of the branches of the [[Plateau Penutian languages|Plateau Penutian family]] (which, in turn, may be related to a larger [[Penutian languages|Penutian]] grouping). It is spoken by the [[Nez Perce people]] of the [[Northwestern United States]].
+
+Nez Perce is a highly [[endangered language]]. While sources differ on the exact number of fluent speakers, it is almost definitely under 100. The Nez Perce tribe is endeavoring to reintroduce the language into native usage through a [[language revitalization]] program, but (as of 2015) the future of the Nez Perce language is far from assured.<ref>{{Cite web| title = Nimi'ipuu Language Teaching and Family Learning| work = NILI Projects| access-date = 2017-08-10| url = http://pages.uoregon.edu/nwili/projects}}</ref>
+
+==Phonology==
+The [[phonology]] of Nez Perce includes [[vowel harmony]] (which was mentioned in [[Noam Chomsky]] & [[Morris Halle]]'s ''[[The Sound Pattern of English]]''), as well as a complex [[stress (linguistics)|stress]] system described by Crook (1999).
+
+===Consonants===
+
+{| class="wikitable" style="text-align: center;"
+|+ Consonant phonemes of Nez Perce<ref name=":0" />
+! colspan="2"  rowspan="2" |
+! rowspan="2" | [[bilabial consonant|Bilabial]]
+! colspan="3" | [[alveolar consonant|Alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[velar consonant|Velar]]
+! colspan="2" | [[uvular consonant|Uvular]]
+! rowspan="2" | [[glottal consonant|Glottal]]
+|-
+! <small>central</small>
+! <small>[[sibilant]]</small>
+! <small>[[lateral consonant|lateral]]</small>
+! <small>plain</small>
+! <small>[[labialisation|lab.]]</small>
+! <small>plain</small>
+! <small>lab.</small>
+|-
+! rowspan="2" | [[Plosive]]/<br />[[Affricate]]
+! <small>[[voicelessness|plain]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|ts}}
+|
+|
+| {{IPAlink|k}}
+| ({{IPAlink|kʷ}})
+| {{IPAlink|q}}
+| ({{IPAlink|qʷ}})
+| {{IPAlink|ʔ}}
+|-
+! <small>[[ejective consonant|ejective]]</small>
+| {{IPAlink|pʼ}}
+| {{IPAlink|tʼ}}
+| {{IPAlink|tsʼ}}
+| {{IPAlink|tɬʼ}}
+|
+| {{IPAlink|kʼ}}
+| ({{IPAlink|kʼʷ}})
+| {{IPAlink|qʼ}}
+| ({{IPAlink|qʼʷ}})
+|
+|-
+! colspan="2" | [[Fricative]]
+|
+|
+| {{IPAlink|s}}
+| {{IPAlink|ɬ}}
+| ( {{IPAlink|ʃ}} )
+| {{IPAlink|x}}
+|
+| {{IPAlink|χ}}
+|
+| {{IPAlink|h}}
+|-
+! rowspan="2" | [[Sonorant]]
+! <small>plain</small>
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+| {{IPAlink|l}}
+| {{IPAlink|j}}
+|
+| {{IPAlink|w}}
+|
+|
+|
+|-
+! <small>[[glottalized]]</small>
+| {{IPAlink|mʼ}}
+| {{IPAlink|nʼ}}
+|
+| {{IPAlink|lʼ}}
+| {{IPAlink|jʼ}}
+|
+| {{IPAlink|wʼ}}
+|
+|
+|
+|}
+
+The sounds {{IPA|kʷ}}, {{IPA|kʼʷ}}, {{IPA|qʷ}}, {{IPA|qʼʷ}} and {{IPA|ʃ}} only occur in the Downriver dialect.<ref name=":0" />
+
+=== Vowels ===
+Nez Perce has an average-sized inventory of five vowels, each marked for [[Vowel length|length]]. Unusually for a five-vowel system, however, it lacks a [[Mid front unrounded vowel|mid front vowel]] /{{IPA|e}}/, with low front /{{IPA|æ}}/ in its place. Such an asymmetrical configuration is found in less than five percent of the languages that distinguish exactly five vowels, and among those that do display an asymmetry, the "missing" vowel is overwhelmingly more likely to be a back vowel /{{IPA|u}}/ or /{{IPA|o}}/ than front /{{IPA|e}}/. Indeed, Nez Perce's lack of a mid front vowel within a five-vowel system appears unique, and contrary to basic tendencies toward triangularity in the allocation of vowel space. A potential reason for this peculiarity is discussed in the section on vowel harmony below.
+{| class="wikitable"
+|+ Vowel phonemes of Nez Perce<ref name=":0">{{Cite book|url=https://books.google.com/books?id=Z3X0q28uB7cC&q=nez+perce+dictionary|title=Nez Perce Dictionary|last=Haruo|first=Aoki|year=1994|isbn=9780520097636}}</ref>
+!
+! [[Front vowel|Front]]
+!  [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|- align="center"
+! [[Close vowel|High]]
+| {{IPA|i}} {{IPA|iː}}
+|
+| {{IPA|u}} {{IPA|uː}}
+|- align="center"
+! [[Mid vowel|Mid]]
+|
+|
+| {{IPA|o}} {{IPA|oː}}
+|- align="center"
+! [[Open vowel|Low]]
+| {{IPA|æ}} {{IPA|æː}} {{grapheme|e ee}}
+| {{IPA|a}} {{IPA|aː}}
+|
+|}
+Stress is marked with an acute accent (á, é, í, ó, ú).
+
+==== Diphthongs ====
+Nez Perce distinguishes seven [[Diphthong|diphthongs]], all with phonemic length:
+{| class="wikitable"
+!
+! [[Front vowel|Front]]
+!  [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|- align="center"
+! [[Close vowel|High]] (level)
+| {{IPA|iu̯}} {{IPA|iːu̯}}
+|
+| {{IPA|ui̯}} {{IPA|uːi̯}}
+|- align="center"
+! [[Mid vowel|Mid]] (rising)
+|
+|
+| {{IPA|oi̯}} {{IPA|oːi̯}}
+|- align="center"
+! [[Open vowel|Low]] (rising)
+| {{IPA|æu̯}} {{IPA|æːu̯}} {{IPA|æi̯}} {{IPA|æːi̯}}
+| {{IPA|au̯}} {{IPA|aːu̯}} {{IPA|ai̯}} {{IPA|aːi̯}}
+|
+|}
+
+==== Vowel harmony ====
+Nez Perce displays an extensive system of [[vowel harmony]]. Vowel qualities are divided into two opposing sets, "dominant" /{{IPA|i a o}}/ and "recessive" /{{IPA|i æ u}}/. The presence of a dominant vowel causes all recessive vowels within the same phonological word to assimilate to their dominant counterpart; hence /{{IPA|cǽːqæt}}/ {{Lang|nez|cé·qet}} "raspberry" becomes /{{IPA|cáːqat'ajn}}/ {{Lang|nez|cá·qat'ayn}} "for a raspberry" with the addition of the dominant-marked suffix /-{{IPA|ʔajn}}/.<ref>{{Cite journal|last=Aoki|first=Haruo|date=December 1966|title=Nez Perce Vowel Harmony and Proto-Sahaptian Vowels|journal=Language|volume=42|pages=759-767}}</ref> With very few exceptions, therefore, phonological words may contain only vowels of the dominant or recessive set. Despite occurring in both sets, /i/ is not neutral; instead, it is either dominant or recessive depending on the morpheme in which it occurs.
+
+This system presents a challenge to common concepts of vowel harmony, since it does not appear to be based on obvious considerations of backness, height, or [[Advanced and retracted tongue root|tongue root position]]. To account for this, Katherine Nelson (2013) proposes that the two sets be considered as distinct "triangles" of vowel space, each by themselves maximally dispersed, where the recessive set is somewhat retracted (further back) in comparison to the dominant:
+{| class="wikitable"
+!Recessive → dominant
+! Front
+!  Central
+! Back
+|- align="center"
+! High
+| {{IPA|i}} (→ i)
+|
+| rowspan="2" | {{IPA|u}} → o
+|- align="center"
+! Low
+| colspan="2" | {{IPA|æ}} → a
+|}
+This dual system would simultaneously explain two apparent phonological aberrances: the absence of a mid front vowel /{{IPA|e}}/, and the fact that phonemic /i/ can be marked either as dominant or recessive. Since the three vowels of a given set are placed with regard to the other vowels ''of the same set'', the low height of the front vowel /{{IPA|æ}}/ appears natural (that is, maximally dispersed) against its high counterparts /{{IPA|i u}}/, as in a three-vowel system such as those of [[Arabic phonology|Arabic]] and [[Quechuan languages|Quechua]]. The high front vowel /{{IPA|i}}/ meanwhile, is retracted much less in the transition from recessive to dominant - little enough that the distinction does not surface phonemically - and therefore can be placed near to the crux around which the triangle of vowel space is "tilted" by retraction.<ref>{{Cite journal|last=Nelson|first=Katherine|date=June 2013|title=The Nez Perce vowel system: A phonetic analysis|url=https://asa.scitation.org/doi/pdf/10.1121/1.4800241|journal=Proceedings of Meetings on Acoustics|volume=19}}</ref>
+
+==Writing system==
+There are several different ways of writing Nez Perce.
+{|class="wikitable" style="text-align: center;"
+|+ Nez Perce alphabet (Colville Confederated Tribes){{sfn|Colville Confederated Tribes Language Program|2017}}
+| a || a· || c || c’ || e
+| é· || h || i || í· || k
+| k’ || l || l’ || ł || ƛ
+| m || m’ || n || n’ || o
+|-
+| ó· || p || p’ || q || q’
+| s || t || t’ || u || ú·
+| w || w’ || x || x̂ || y
+| y’ || ʔ
+|}
+
+==Grammar==
+[[Image:Nez-perce-chiefs-1899-camas-prairie.jpg|right|thumb|Nez Perce chiefs]]
+
+As in many other [[indigenous languages of the Americas]], a Nez Perce verb can have the meaning of an entire sentence in English. This manner of providing a great deal of information in one [[Word (linguistics)|word]] is called [[polysynthetic language|polysynthesis]]. Verbal affixes provide information about the [[grammatical person|person]] and [[grammatical number|number]] of the [[Subject (grammar)|subject]] and [[Object (grammar)|object]], as well as [[grammatical tense|tense]] and [[grammatical aspect|aspect]] (e.g. whether or not an action has been completed).
+
+{{interlinear|indent=3
+|top= ʔaw̓líwaaʔinpqawtaca
+|ʔew - ʔilíw - wee - ʔinipí - qaw - tée - ce
+|1/2-3.OBJ - fire - fly - grab - straight.through - go.away - IMPERF.PRES.SG
+|'I go to scoop him up in the fire' (Cash Cash 2004:24)
+}}
+
+{{interlinear|indent=3
+|top= hitw̓alapáyna
+|hi - tiw̓ele - pááy - e
+|3.SUBJ - in.rain - come - PAST
+|'He arrived in the rain' (Aoki 1979)
+}}
+
+===History===
+[[Asa Bowen Smith]] developed the Nez Perce grammar by adapting the missionary alphabet used in Hawaiian missions, and adding the consonants s and t.<ref name="NPS">{{Cite web |title=Nez Perce National Historical Park |url=https://www.nps.gov/museum/exhibits/nepe/people.html |access-date=2021-11-04 |website=National Park Service}}</ref> In 1840, [[Asa Bowen Smith]] wrote the manuscript for the book ''Grammar of the Language of the Nez Perces Indians Formerly of Oregon, U.S.''.<ref>{{Cite web |last1=Smith |first1=Asa Bowen |last2=Tingley |first2=Sylvanus |date=1840 |title=Grammar of the Language of the Nez Perces Indians Formerly of Oregon, U.S.: From the manuscript of Rev. A.B. Smith dated Sept. 28, 1840. Now in archives of the American Board of Commissioners for Foreign Missions, Boston, Mass. Volume 138. |url=https://www.worldcat.org/title/grammar-of-the-language-of-the-nez-perces-indians-formerly-of-oregon-us-from-the-manuscript-of-rev-ab-smith-dated-sept-28-1840-now-in-archives-of-the-american-board-of-commissioners-for-foreign-missions-boston-mass-volume-138-1840-september-28/oclc/39088111 |access-date=2021-11-04 |website=WorldCat |oclc=39088111}}</ref> The [[grammar]] of Nez Perce has been described in a grammar {{harv|Aoki|1973}} and a dictionary {{harv|Aoki|1994}} with two dissertations (Rude 1985; Crook 1999).
+
+===Case===
+In Nez Perce, the subject of a sentence, and the object when there is one, can each be marked for [[grammatical case]], an affix that shows the function of the word (compare to English ''he'' vs. ''him'' vs. ''his'').  Nez Perce employs a three-way case-marking strategy: a transitive subject, a transitive object, and an intransitive subject are each marked differently. Nez Perce is thus an example of the very rare type of [[tripartite language]]s (see [[morphosyntactic alignment]]).
+
+Because of this case marking, the word order can be quite free. A specific word order tells the hearer what is new information (''focus'') versus old information (''[[topic (linguistics)|topic]]''), but it does not mark the subject and the object (in English, word order is fixed &mdash; [[subject–verb–object]]).
+
+Nouns in Nez Perce are marked based on how they relate to the transitivity of the verb. Subjects in a sentence with a transitive verb take the ergative suffix ''-nim'', objects in a sentence with a transitive verb take the accusative suffix ''-ne'', and subjects in sentences with an intransitive verb don’t take a suffix.
+
+{| class="wikitable"
+! Ergative
+! Accusative
+! Intransitive subject
+|-
+| suffix -nim
+| suffix -ne<br />(here subject to vowel harmony, resulting in surface form -na)
+|
+|-
+| {{interlinear
+|ᶍáᶍaas'''-nim''' hitwekǘxce
+|grizzly-ERG he.is.chasing
+|‘Grizzly is chasing me’}}
+| {{interlinear
+|ʔóykalo-m titóoqan-m páaqaʔancix ᶍáᶍaas'''-na'''
+|all-ERG people-ERG they.respect.him grizzly-ACC
+|‘All people respect Grizzly’}}
+| {{interlinear
+|ᶍáᶍaac  hiwéhyem
+|grizzly has.come
+|‘Grizzly has come’ (Mithun 1999)}}
+|}
+
+This system of marking allows for flexible word order in Nez Perce:
+
+'''Verb–subject–object word order'''
+{{interlinear|abbreviations=CSL:cislocative|indent=3
+|kii  pée-ten’we-m-e    qíiw-ne ’iceyéeye-nm
+|this 3→3-talk-CSL-PAST old.man-OBJ coyote-ERG
+|‘Now the coyote talked to the old man’}}
+
+'''Subject–verb–object word order''' 
+{{interlinear|abbreviations=CSL:cislocative|indent=3
+|Kaa háatya-nm páa-’nahna-m-a      ’iceyéeye-ne
+|and wind-ERG  3→3-carry-CSL-PAST  coyote-OBJ
+|‘And the wind carried coyote here’}}
+
+'''Subject–object–verb word order''' 
+{{interlinear|indent=3
+|Kawó’ kii    háama-pim    ’áayato-na   pée-’nehnen-e
+|then  this   husband-ERG  woman-OBJ    3→3-take.away-PAST
+|‘Now then the husband took the woman away’ (Rude 1992).}}
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* {{cite book|last=Aoki|first=Haruo|author-link=Haruo Aoki|title=Nez Perce Dictionary|url=https://books.google.com/books?id=Z3X0q28uB7cC|year=1994|publisher=University of California Press|isbn=978-0-520-09763-6}}
+* {{cite book|last=Aoki|first=Haruo|author-link=Haruo Aoki|title=Nez Perce Grammar|url=https://books.google.com/books?id=OqJSYEjWYuMC|year=1973|publisher=University of California Press|isbn=978-0-520-02524-0}}
+* Aoki, Haruo. (1979). ''[https://archive.org/details/rosettaproject_nez_vertxt-1 Nez Perce texts]''. University of California publications in linguistics (Vol. 90). Berkeley: University of California Press. {{ISBN|0-520-09593-6}}., [https://archive.org/details/rosettaproject_nez_detail-1 2], [https://archive.org/details/rosettaproject_nez_ortho-1 3]
+* Aoki, Haruo; & Whitman, Carmen. (1989). ''Titwáatit: (Nez Perce Stories)''. Anchorage: National Bilingual Materials Development Center, University of Alaska. {{ISBN|0-520-09593-6}}. (Material originally published in Aoki 1979).
+* Aoki, Haruo; & Walker, Deward E., Jr. (1989). ''Nez Perce oral narratives''. University of California publications in linguistics (Vol. 104). Berkeley: University of California Press. {{ISBN|0-520-09593-6}}.
+* Cash Cash, Phillip. (2004). [http://www.u.arizona.edu/~cashcash/Nez%20Perce%20Verb%20Morphology.pdf Nez Perce verb morphology]. (Unpublished manuscript, University of Arizona, Tucson).
+* Crook, Harold D. (1999). The phonology and morphology of Nez Perce stress. (Doctoral dissertation, University of California, Los Angeles).
+* [[Marianne Mithun|Mithun, Marianne]]. (1999). ''The languages of Native North America''. Cambridge: Cambridge University Press. {{ISBN|0-521-23228-7}} (hbk); {{ISBN|0-521-29875-X}}.
+* Rude, Noel E. (1985). Studies in Nez Perce grammar and discourse. (Doctoral dissertation, University of Oregon).
+* Rude, Noel. (1992). Word Order and Topicality in Nez Perce. ''Pragmatics of Word Order Flexibility, viii'', 193-208. John Benjamins Publishing.
+
+===Vowel harmony===
+* {{Cite journal | doi = 10.2307/411831 | author = Aoki, Haruo | year = 1966 | title = Nez Perce vowel harmony and proto-Sahaptian vowels| journal = Language | volume = 42 | issue = 4| pages = 759–767 | jstor = 411831 }}
+* {{Cite journal | doi = 10.1086/465006 | author = Aoki, Haruo | year = 1968 | title = Toward a typology of vowel harmony | journal = International Journal of American Linguistics | volume = 34 | issue = 2| pages = 142–145 | s2cid = 143700904 }}
+* [[Noam Chomsky|Chomsky, Noam]]; & [[Morris Halle|Halle, Morris]]. (1968). ''Sound pattern of English'' (pp.&nbsp;377–378). Studies in language. New York: Harper & Row.
+* Hall, Beatrice L.; & [[R. M. R. Hall|Hall, R. M. R.]] (1980). Nez Perce vowel harmony: An Africanist explanation and some theoretical consequences. In R. M. Vago (Ed.), ''Issues in vowel harmony'' (pp.&nbsp;201–236). Amsterdam: John Benjamins.
+* {{Cite journal | doi = 10.2307/411901 | author = Jacobsen, William | year = 1968 | title = On the prehistory of Nez Perce vowel harmony| journal = Language | volume = 44 | issue = 4| pages = 819–829 | jstor = 411901 }}
+* Kim, Chin (1978). 'Diagonal' vowel harmony?: Some implications for historical phonology. In J. Fisiak (Ed.), ''Recent developments in historical phonology'' (pp.&nbsp;221–236). The Hague: Mouton.
+* {{Cite journal | author = Lightner, Theodore | year = 1965 | title = On the description of vowel and consonant harmony | journal = Word | volume = 21 | issue = 2| pages = 244–250 | doi = 10.1080/00437956.1965.11435427 | doi-access = free }}
+* {{Cite journal | doi = 10.1086/464860 | author = Rigsby, Bruce | year = 1965 | title = Continuity and change in Sahaptian vowel systems | journal = International Journal of American Linguistics | volume = 31 | issue = 4| pages = 306–311 | s2cid = 144876511 }}
+* {{Cite journal | doi = 10.2307/411752 |author1=Rigsby, Bruce |author2-link=Michael Silverstein |author2=Silverstein, Michael | year = 1969 | title = Nez Perce vowels and proto-Sahaptian vowel harmony| journal = Language | volume = 45 | issue = 1| pages = 45–59 | jstor = 411752 }}
+* {{Cite journal | doi = 10.1086/464954 | author = Zimmer, Karl | year = 1967 | title = A note on vowel harmony | journal = International Journal of American Linguistics | volume = 33 | issue = 2| pages = 166–171 | s2cid = 144825775 }}
+* {{Cite journal | doi = 10.1086/465146 | author = Zwicky, Arnold | year = 1971 | title = More on Nez Perce: On alternative analyses | journal = International Journal of American Linguistics | volume = 37 | issue = 2| pages = 122–126 | author-link = Arnold Zwicky | hdl = 1811/85957 | s2cid = 96455877 | hdl-access = free }}
+
+== Language learning materials ==
+
+=== Dictionaries and vocabulary ===
+* Aoki, Haruo. (1994). ''Nez Perce dictionary''. University of California publications in linguistics (Vol. 112). Berkeley: University of California Press. {{ISBN|0-520-09763-7}}.
+*{{Cite web
+| title = Nez Perce Literature and vocabulary
+| work = Indigenous Peoples' Literature
+| access-date = 2013-09-21
+| url = http://www.indigenouspeople.net/nezperce.htm
+}}
+*{{Cite web
+| last = McBeth
+| first = Sue
+| title = Nez Perce-English Dictionary samples
+| access-date = 2013-09-21
+| url = http://www.lib.uidaho.edu/mcbeth/dictionary.htm
+}}
+*{{Cite web
+| title = Nez Perce-English Vocabulary
+| work = Nez Perce National Historical Park
+| access-date = 2013-09-21
+| url = http://www.nps.gov/museum/exhibits/nepe/NezPerceLanguage.pdf
+}}
+*{{Cite book
+| last = Morvillo
+| first = Anthony
+| title = A Dictionary of the Numípu Or Nez Perce Language
+| publisher = St. Ignatius' Mission Print, Montana
+| access-date = 2013-09-21
+| date = 1895
+| url = https://archive.org/details/dictionaryofnumi00morv
+}}
+*{{Cite web
+| title = Nez Perce Language and the Nez Perce Indian Tribe (Nimipu, Nee-me-poo, Chopunnish, Sahaptin)
+| work = native-languages.org
+| access-date = 2013-09-21
+| url = http://www.native-languages.org/nez.htm
+}}
+
+=== Grammar ===
+* Aoki, Haruo. (1965). [http://escholarship.org/uc/item/0fx0928s ''Nez Perce grammar'']. University of California, Berkeley.
+* Aoki, Haruo. (1970). ''Nez Perce grammar''. University of California publications in linguistics (Vol. 62). Berkeley: University of California Press. {{ISBN|0-520-09259-7}}. (Reprinted 1973, California Library Reprint series).
+*{{Cite book
+| publisher = Indian Boys' Press
+| last = Missionary in the Society of Jesus in the Rocky Mountains
+| title = A Numipu or Nez-Perce grammar
+| location = Desmet, Idaho
+| access-date = 2013-09-21
+| url = https://archive.org/details/cihm_17529
+}}
+
+=== Texts and courses ===
+*{{Cite web
+| title = Nimipuutimt Calendar and Nez Perce Tribe Language Program
+| access-date = 2013-09-21
+| url = http://www.nezperce.org/Official/languageprogram.htm
+| archive-url = https://web.archive.org/web/20130923082702/http://www.nezperce.org/Official/languageprogram.htm
+| archive-date = 2013-09-23
+| url-status = dead
+}}
+* Aoki, Haruo. (1979). ''[https://archive.org/details/rosettaproject_nez_vertxt-1 Nez Perce texts]''. University of California publications in linguistics (Vol. 90). Berkeley: University of California Press. {{ISBN|0-520-09593-6}}., [https://archive.org/details/rosettaproject_nez_detail-1 2], [https://archive.org/details/rosettaproject_nez_ortho-1 3]
+* Aoki, Haruo; & Whitman, Carmen. (1989). ''Titwáatit: (Nez Perce Stories)''. Anchorage: National Bilingual Materials Development Center, University of Alaska. {{ISBN|0-520-09593-6}}. (Material originally published in Aoki 1979).
+*{{Cite web
+| title = Nez Perce Language Courses
+| format = Department of Foreign Languages and Literatures and American Indian Studies Program, University of Idaho
+| access-date = 2013-09-21
+| url = http://www.webpages.uidaho.edu/~rfrey/NPLang.htm
+}}
+*{{Cite web
+| last = Rockliff
+| first = J. A.
+| title = The Life of Jesus Christ from the Four Gospels in the Nez Perce Language
+| access-date = 2013-09-21
+| date = 1915
+| url = https://archive.org/details/rosettaproject_nez_gen-1
+}}
+*{{Cite web
+| title = Nez Perce language - Audio Bible stories and lessons
+| work = Global Recordings Network
+| access-date = 2013-09-21
+| url = http://globalrecordings.net/en/language/229
+}}
+*{{Cite web
+| title = Nez Perce Language Courses
+| format = Department of Foreign Languages and Literatures and American Indian Studies Program, University of Idaho
+| access-date = 2013-09-21
+| url = http://www.webpages.uidaho.edu/~rfrey/NPLang.htm
+}}
+*{{Cite web
+| title = Nez Perce Literature and vocabulary
+| work = Indigenous Peoples' Literature
+| access-date = 2013-09-21
+| url = http://www.indigenouspeople.net/nezperce.htm
+}}
+* Watters, Mari. (1990). ''Nez Perce tapes and texts''. [5 audio cassettes & 1 booklet]. Moscow, Idaho: Mari Watters Productions, Upward Bound, College of Education, University of Idaho.
+
+==External links==
+*{{Cite web
+| title = Haruo Aoki Papers on the Nez Perce Language
+| work = California Language Archive
+| access-date = 2013-09-22
+| url = http://cla.berkeley.edu/collection/4
+}}
+*[https://www.youtube.com/playlist?list=PL94hr8ur6xv5MZ-L3r-ki2YkSJqcNNAmc Nez Perce language videos], YouTube
+* [http://www.u.arizona.edu/~cashcash/ Phillip Cash Cash website] (Nez Perce researcher)
+** [http://www.u.arizona.edu/~cashcash/sounds/nezperce_sounds.html Nez Perce sounds]
+**[http://www.u.arizona.edu/~cashcash/bighole/redthunder.html Joseph Red Thunder: Speech of August 6, 1989 at the Big Hole National Battlefield Commemorating our Nez Perce Ancestors] (has audio)
+** [http://www.u.arizona.edu/~cashcash/chief_joseph.mov Hinmatóowyalahtq'it: Speech of 1877 as retold by Jonah Hayes (ca. 1907)]{{dead link|date=February 2018 |bot=InternetArchiveBot |fix-attempted=yes }} (.mov)
+** [http://www.u.arizona.edu/~cashcash/fox.swf Fox narrative animation] (.swf)
+** [http://www.u.arizona.edu/~cashcash/Nez%20Perce%20Verb%20Morphology.pdf Nez Perce Verb Morphology] (.pdf)
+** [https://web.archive.org/web/20060903202835/http://www.u.arizona.edu/~cashcash/seize_with_the_mouth.pdf wéeyekweʔnipse ‘to sing one’s spirit song’: Performance and metaphor in Nez Perce spirit-singing] (.pdf)
+** [http://www.u.arizona.edu/~cashcash/Timnakni_Timat.pdf Tɨmnákni Tímat (Writing from the Heart): Sahaptin Discourse and Text in the Speaker Writing of X̣ílux̣in] (.pdf)
+*[http://titus.uni-frankfurt.de/didact/karten/amer/namerim.htm A map of American languages (TITUS project)]
+*[http://live/search/detailedlanguagerecord?ethnocode=nez Nez Percé] at the [[Rosetta Project]]
+*[http://www.language-archives.org/language/nez OLAC resources in and about the Nez Perce language]
+
+{{Penutian languages}}
+{{North American languages}}
+{{Languages of Idaho}}
+
+[[Category:Indigenous languages of Idaho]]
+[[Category:Nez Perce tribe]]
+[[Category:Sahaptian languages]]
+[[Category:Vowel-harmony languages]]
+[[Category:Endangered indigenous languages of the Americas]]
+[[Category:Native American language revitalization]]
+[[Category:Endangered languages of the United States]]

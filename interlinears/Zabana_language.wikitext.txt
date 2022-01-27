@@ -1,0 +1,395 @@
+{{short description|Austronesian language spoken in the Solomon Islands}}
+'''Zabana''' is an Oceanic language spoken almost exclusively in the Kia district on the northern part of [[Santa Isabel Island]] in the [[Solomon Islands]]. Zabana is considered a developing language (EGIDS 5) which means that the language is in vigorous use, with literature in a standardized form being used by some though this is not yet widespread or sustainable.<ref name=":0">{{Cite news|url=http://www.ethnologue.com/language/kji|title=Zabana|newspaper=Ethnologue|access-date=2016-10-21}}</ref> It is one of the most spoken languages on Santa Isabel Island, competing with [[Cheke Holo language|Cheke Holo]]. There is a 30% to 60% literacy rate in Zabana as a first language and a 25% to 50% literacy rate in Zabana as a second language.<ref name=":0" />  {{Infobox language
+|name=Zabana
+|altname=Kia
+|states=Central [[Solomon Islands]]
+|region=[[Santa Isabel Island]]
+|speakers=3,400
+|date=2003
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Northwest Solomonic languages|Northwest Solomonic]]
+|fam5=New Georgia – Ysabel
+|fam6=[[Ysabel languages|Ysabel]]
+|fam7=West Isabel
+|nation=Solomon Islands|iso3=kji
+|glotto=zaba1237
+|glottorefname=Zabana
+}}
+
+== Location ==
+Zabana is almost exclusively spoken on Santa Isabel Island which is the largest island in the Isabel provenience and the third largest island in the Solomon Island chain. Zabana is one of the eight different languages spoken on Santa Isabel island. Out of the other seven different languages spoken on the island, Zabana shares major similarities with [[Kokota language|Kokota]] and Cheke Holo (also known as [[Maringe language|Maringe]].) A combination dialect of Zabana and Cheke Holo is also developed and widely spoken within the area.<ref name=":1">{{Cite book|title=Zabana : a grammar of a Solomon Islands language|last=Fitzsimons|first=Matthew|year=1989}}</ref>
+
+== Phonology ==
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ŋ}}
+| 
+|-
+! rowspan="2" | [[Plosive]]
+! {{small|voiceless}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|k}}
+| 
+|-
+! {{small|voiced}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| 
+| 
+|-
+! rowspan="2" | [[Fricative]]
+! {{small|voiceless}}
+| {{IPAlink|f}}
+| {{IPAlink|s}}
+| 
+| {{IPAlink|h}}
+|-
+! {{small|voiced}}
+| {{IPAlink|v}}
+| {{IPAlink|z}}
+| {{IPAlink|ɣ}}
+| 
+|-
+! colspan="2" | [[Lateral consonant|Lateral]]
+| 
+| {{IPAlink|l}}
+| 
+| 
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+| 
+| {{IPAlink|ɾ}}
+| 
+| 
+|}
+
+Zabana only contains open syllables, since there are no [[Consonant cluster|consonant clusters]] and geminate vowels in the language. [[Stress (linguistics)|Vocal stress]] on a single phoneme does not exist in Zabana, instead certain syllables called penultimate syllables (the final syllable of a word that ends in a vowel) are stressed. When compared to the neighboring languages, Zabana has fewer phonemes than its neighbors, in particular [[Kokota language|Kokota]].<ref name=":1" />      
+{| class="wikitable sortable"
+|+Frequency of Consonant Occurrence  
+!Initial
+!Medial
+|-
+|k 17%
+|l 13%
+|-
+|p 12%
+|r 13%
+|-
+|t 10%
+|k 11%
+|-
+|s 10%
+|t 9%
+|-
+|m 8%
+|n 7%
+|-
+|b 7%
+|p 6%
+|-
+|l 6%
+|s 6%
+|-
+|r 5%
+|h 6%
+|-
+|n 4%
+|m 5%
+|-
+|h 4%
+|b 4%
+|-
+|d 3%
+|g 4%
+|-
+|v 3%
+|gh 4%
+|-
+|f 3%
+|d 3%
+|-
+|g 2%
+|v 3%
+|-
+|gh 2%
+|ng 3%
+|-
+|ng 2%
+|f 2%
+|-
+|z 1%
+|z 1%
+|}
+
+== Morphology  ==
+{| class="wikitable sortable"
+|+Verbs
+!English
+!Zabana
+|-
+|To see
+|Fifini
+|-
+|To drink
+|Ketuhu
+|-
+|To sleep
+|epu
+|-
+|To fall
+|riufu/zɔɣu
+|-
+|To eat
+|mahai
+|-
+|To stand
+|tetu
+|-
+|To sew
+|tena
+|-
+|To vomit
+|mumuti
+|-
+|To flow
+|ɔrɔ/kɔtɔrɔ
+|-
+|To dig
+|hara
+|}
+There are two types of verbs in Zabana, transitive and intransitive verbs.<ref name=":1" />  
+* [[Transitive verb|Transitive Verb]]: Can be attached with a suffix which indexes the direct or indirect object.<ref name=":1" /> 
+* [[Intransitive verb|Intransitive Verb]]: Verbs which convey motion of some sort.<ref name=":1" />  
+{| class="wikitable sortable"
+|+Nouns
+!English
+!Zabana
+|-
+|Mother
+|Uke
+|-
+|Father
+|mama
+|-
+|House
+|suga
+|-
+|Tooth
+|hiŋa-
+|-
+|Blood
+|busaka-
+|-
+|Eye
+|hiba-
+|-
+|Egg
+|tediri
+|-
+|Dog
+|meusu
+|-
+|Rat
+|pururudu
+|-
+|Fruit
+|fua-
+|-
+|Fish
+|namari
+|}
+In Zabana, possession is denoted syntactically by a possessive suffix attached to the noun such as ''no'' or ''ka''. Words such as "father", "mother", and "uncle" can never take on a possessive suffix.<ref name=":1" />
+{| class="wikitable sortable"
+|+Adjectives
+!English
+!Zabana
+|-
+|Rotten
+|bɔe
+|-
+|Cold
+|kapɔ
+|-
+|Warm
+|daŋava
+|-
+|Red
+|busaka
+|-
+|Yellow
+|hekɔ
+|-
+|Green
+|dɔdɔli
+|-
+|Black
+|sisibe
+|-
+|Good
+|<nowiki>veha|na</nowiki>
+|-
+|Bad/Evil
+|mukɔ
+|-
+|Heavy
+|tahu
+|-
+|Wet
+|bɔese
+|-
+|Dry
+|<nowiki>ka|raŋɔ</nowiki>
+|}
+{| class="wikitable sortable"
+|+Numbers
+!English
+!Zabana
+|-
+|One
+|kaike-ɣu
+|-
+|Two
+|palu-ɣu
+|-
+|Three
+|litɔ-ɣu
+|-
+|Four
+|rɔdana-ɣu
+|-
+|Five
+|gahaɣu
+|-
+|Six
+|ɔnɔmɔɣu
+|-
+|Seven 
+|vituɣu
+|-
+|Eight
+|hanaɣu
+|-
+|Nine
+|leɣahaɣu
+|-
+|Ten
+|tazo
+|-
+|One Hundred
+|kaike ɣɔbi
+|-
+|One Thousand
+|kaike tɔɤa
+|}
+Larger numbers are made by compounding "Cardinal Numbers" such as one through ten and the exponential factors of ten such as one hundred and one thousand.<ref name=":1" />  
+{| class="wikitable"
+!Base
+!Reduplicate
+|-
+|nohe "sit"
+|nonohe "seat form"
+|-
+|goto "to boil"
+|gotogoto "to sweat"
+|-
+|baolo "to name"
+|babaolo "name"
+|}
+Reduplication is used in Zabana to derive intransitive verbs from transitive terms and to derive nouns from verbs.<ref name=":1" />
+{| class="wikitable sortable"
+|+Interrogative Words
+!English
+!Zabana
+|-
+|Who
+|hei
+|-
+|What/Why
+|heve
+|-
+|Where/Which
+|hae
+|-
+|When/How Much/How Many
+|niha
+|}
+
+== Sentence Structure ==
+Zabana is a mainly a VSO (Verb, Subject, Object) language.
+
+=== Declarative ===
+Declarative sentences are denoted by a drop in intonation at the end of the sentence and the basic sentence structure or word ordering of a declarative sentence is shown below.<ref name=":1" />
+
+{{interlinear|number=ex:
+|Ghe manevaka ianimu neke
+|predicate subject {direct object} {oblique object}
+|"but whiteman there stay"}}
+
+=== Interrogative ===
+There are four basic types of question sentences in Zabana: polar questions (yes/no), content questions, alternative questions, dubitative questions (rhetorical).<ref name=":1" /> 
+* Polar Question: Denoted by a rise in intonation at the end of a sentence<ref name=":1" /> 
+* Content Questions: Denoted by the use of one of the four interrogative words and by a fall in intonation at the end of the question<ref name=":1" />
+* Alternative Questions: In Zabana they are usually request or open ended questions<ref name=":1" />
+
+=== Honorific Language ===
+There is a chiefly language form of Zabana which is used when addressing clan chiefs. 
+{| class="wikitable"
+!English 
+!Common Form
+!Chiefly Form
+|-
+|Child
+|rekaha
+|suli gitau
+|-
+|Eye
+|hiba
+|nahali
+|-
+|Sleep
+|epu
+|megho
+|-
+|Fall
+|riufu
+|neukete
+|}
+
+=== Complex Sentences ===
+Complex sentences in Zabana are formed when a conjoined clause is used in a sentence, by using one of the three different connectors: ''nia'', ''ga'', and ''ba'' which are "and", "or", and "but" respectively. The exception of this rule is the connecting particle ''ghe'' which is used to denote a conditional sentence or question and ''nia'' must be used to connect the pronoun and the proper noun together. ''ghe'' can also be used in a complex sentence to link together two different proper nouns.<ref name=":1" />
+
+=== Conditional Sentence ===
+In Zabana there are two different types of conditional sentences: simple and counterfactual sentences. Both sentences use the particle ''la'' to denote that they are conditional sentences.<ref name=":1" />
+* Simple Conditional: Denoted by the use of the particle ''to'' along with the particle ''la'', simple conditional sentences state a hypothetical situation in Zabana.<ref name=":1" /> <blockquote>
+Example: To nanarela ghatu e kotoro hofi ini
+"If it rains today, the roof will leak."
+
+* Counterfactual: States a situation where the condition is no fulfilled.<ref name=":1" /><blockquote>
+Example: Geke meha la ia vaka norao gela to lao ara kia
+"If the boat had come yesterday, I would have gone to Kia."
+
+== External links ==
+* [[Paradisec]] has [http://catalog.paradisec.org.au/collections/search?language_code=ksj multiple collection that include Zabana language materials.] 
+
+==References==
+{{reflist|refs=Fitzsimons, Matthew. Zabana: A Grammar of a Solomon Islands Language. N.p.: n.p., 1989. Print.}}
+
+{{Languages of the Solomon Islands}}
+{{Meso-Melanesian languages}}
+{{Austronesian languages}}
+
+[[Category:Languages of the Solomon Islands]]
+[[Category:Ysabel languages]]

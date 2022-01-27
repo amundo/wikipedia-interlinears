@@ -1,0 +1,488 @@
+{{Short description|Tupian language spoken in Brazil}}
+{{Infobox language
+| name = Kamayurá
+| states = [[Brazil]]
+| region = [[Mato Grosso]]: [[Xingu River|Upper Xingu]] region of the [[Xingu Indigenous Park]]
+| ethnicity = [[Kamayurá people]]
+| speakers = 600
+| date = 2014
+| ref = e18
+| familycolor = American
+| fam1 = [[Tupian languages|Tupian]]
+| fam2 = [[Tupi–Guarani languages|Tupi–Guaraní]]
+| iso3 = kay
+| notice = IPA
+| glotto = kama1373
+| glottorefname = Kamayurá
+}}
+
+The '''Kamayurá''' language ('''''Kamaiurá''''' in [[Portuguese language|Portuguese]]) belongs to the [[Tupi–Guarani languages|Tupi–Guarani family]], and is spoken by the [[Kamayurá people]] of [[Brazil]] – who numbered about 600 individuals in 2014.<ref>{{Cite web|url=https://pib.socioambiental.org/pt/povo/kamaiura/306|title=Localização e população > Kamaiurá|website=pib.socioambiental.org|access-date=2016-12-06}}</ref> There is speculation that as the indigenous peoples who spoke the Tupi languages mingled with other indigenous peoples, their languages gradually changed accordingly. This speculation is consistent with research done by linguists who study languages in different regions in order to find similarities and differences between languages.<ref>{{Cite book|title=Lessons from Documented Endangered Languages|last=Drude|first=Sebastian|publisher=John Benjamins Publishing Co.|year=2008|location=Philadelphia|pages=158–161}}</ref> The Kamayurá people live in the Mato Grosso region of Brazil, specifically in the Upper Xingu area.<ref>{{Cite book|title=Encyclopedia of the world's endangered languages.|last=Moseley|first=Christopher|publisher=Routledge Taylor & Francis Group|year=2007|location=London|pages=137}}</ref>
+
+The Kamayurá people do not have their own specific schools and rely on teaching each other the language, however, there have been a couple of youths, since the year 2000, that have participated in the Teacher Training Course. The Teacher Training Course strives to keep an indigenous language alive as well as educates individuals in the current national language of Brazil, in this case Portuguese.<ref>{{Cite web|url=https://pib.socioambiental.org/pt/povo/kamaiura/317|title=Educação indígena > Kamaiurá|website=pib.socioambiental.org|access-date=2016-12-06}}</ref>
+
+Currently, there are many transcribed works of the Kamayurá language as well as many grammatical concepts. Lucy Seki, is credited with the completion of a book detailing the grammar of the Kamayurá language In her book “Gramatica do Kamaiura” (“Grammar of the Kamaiura”) Lucy goes into detail on morphological structures and various phonological features of the Kamayurá language,<ref>{{harvp|Seki|2000}}</ref> however, Lucy’s work does not stop there, she is also responsible for having documented many works that were otherwise undocumented, this allows for the preservation of the Kamayurá as a language and as a culture.<ref>{{Cite web|url=http://www.etnolinguistica.org/colecao:lucy|title=Coleção Lucy Seki - Biblioteca Digital Curt Nimuendajú|website=www.etnolinguistica.org|access-date=2016-12-06}}</ref> Through her work with the Kamayurá she has also earned the status of an honorary member in the Linguistic Society of America. In an interview done by “Nova Raiz” in September 2011 it appears that Lucy Seki has retired, but continues to speak positively of her work with the Kamayurá.<ref>{{Citation|last=NOVA RAIZ.|title=TV. Raiz #9 - KAMAIURÁ - LUCY SEKI|date=2011-10-17|url=https://www.youtube.com/watch?v=cbkIbDjIpmM&t=328s |archive-url=https://ghostarchive.org/varchive/youtube/20211221/cbkIbDjIpmM |archive-date=2021-12-21 |url-status=live|access-date=2016-12-06}}{{cbignore}}</ref>
+
+==Phonology==
+
+===Vowels===
+{| class="wikitable"
+!
+! [[Front vowel|Front]]
+!colspan="2"| [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+|align="center"| {{IPA|i}}
+|align="center" colspan="2"| {{IPA|ɨ}}
+|align="center"| {{IPA|u}}
+|-
+! [[Mid vowel|Mid]]
+|align="center" colspan="2"| {{IPA|e}}
+|align="center" colspan="2"| {{IPA|o}}
+|-
+! [[Low vowel|Low]]
+|align="center" colspan="4"| {{IPA|a}}
+|}
+'''Vowel Phonemes'''<ref>{{harvp|Seki|2000|pages=415}}</ref>
+{| class="wikitable"
+! colspan="2" rowspan="2" |
+! rowspan="2" |Front
+! colspan="2" |Non-front
+|-
+!Non-Rounded
+!Rounded
+|-
+! rowspan="2" |High
+!Oral
+|i
+|<s>i</s>
+|u
+|-
+!Nasal
+|ĩ
+|<s>ĩ</s>
+|ũ
+|-
+! rowspan="2" |Low
+!Oral
+|e
+|a
+|o
+|-
+!Nasal
+|ẽ
+|ã
+|õ
+|}
+
+===Consonant ===
+{| class="wikitable"
+!rowspan="2"|
+!rowspan="2"| [[Bilabial consonant|Bilabial]]
+!rowspan="2"| [[Alveolar consonant|Alveolar]]
+!rowspan="2"| [[Palatal consonant|Palatal]]
+!colspan="2"| [[Velar consonant|Velar]]
+!colspan="2"| [[Glottal consonant|Glottal]]
+|-
+! Unrounded
+! [[Labialization|Rounded]]
+! Unrounded
+! Rounded
+|-
+! [[Stop consonant|Stop]]
+|align="center"| {{IPA|p}}
+|align="center"| {{IPA|t}}
+|
+|align="center"| {{IPA|k}}
+|align="center"| {{IPA|kʷ}}
+|align="center"| {{IPA|ʔ}}
+|
+|-
+! [[Affricate]]
+|
+|align="center"| {{IPA|ts}}
+|
+|
+|
+|
+|
+|-
+! [[Nasal stop|Nasal]]
+|align="center"| {{IPA|m}}
+|align="center"| {{IPA|n}}
+|
+|align="center"| {{IPA|ŋ}}
+|
+|
+|
+|-
+! [[Approximant]]
+|
+|
+|align="center"| {{IPA|j}}
+|
+|align="center"| {{IPA|w}}
+|align="center"| {{IPA|h}}
+|align="center"| {{IPA|hʷ}}
+|-
+! [[Flap consonant|Flap]]
+|
+|align="center"| {{IPA|ɾ}}
+|
+|
+|
+|
+|
+|}
+
+The "glottal approximants" {{IPA|/h/}} and {{IPA|/hʷ/}} assume the quality of the following vowel.
+
+'''Consonant Phonemes'''<ref>{{harvp|Seki|2000|pages=410}}</ref>
+{| class="wikitable"
+!
+!
+!Bilabial
+!Dental
+!Alveolar
+!Palatal
+!Velar
+!Glottal
+|-
+! rowspan="3" |Non-Sonorants
+!Occlusives
+|p
+|t
+|
+|
+|k  kʷ
+|?
+|-
+!Affricates
+|
+|
+|ts
+|
+|
+|
+|-
+!Fricatives
+|
+|
+|
+|
+|
+|h  hʷ
+|-
+! rowspan="3" |Sonorants
+!Nasals
+|m
+|n
+|
+|
+|ŋ
+|
+|-
+!Trills
+|
+|
+|r
+|
+|
+|
+|-
+!Semi-Consonants
+|w
+|
+|
+|j
+|
+|
+|}
+
+==Morphology==
+Kamayurá is one of the few languages in the world with two mechanisms for [[causative|causation]] that differ in how involved the causer is in the action. The prefix ''mo-'' indicates that the causer was ''not'' involved in the activity ("he stopped in the canoe when he was outside it") while the prefix ''(e)ro-'' expresses that it ''was'' involved ("he stopped in the canoe when he was inside it").<ref>Dixon, R.M.W. and Aikhenvald, A.Y. (1997). "A typology of argument-determined constructions." p. 83–4. In Bybee, J., Haiman, J., & Thompson, S.A., eds. (1997). ''Essays on language function and language type, dedicated to T. Givón.'' Amsterdam: John Benjamins.</ref> This is common in general in the languages of the Tupian stock, and both causatives have been posited to exist in Proto-Tupian.<ref>Rodrigues, Arion Dall’Igna & Ana Suelly Arruda Câmara Cabral. (2012). "Tupían." In L. Campbell & V. Grondona (Eds.), The Indigenous Languages of South America. A Comprehensive Guide. Berlin: De Gruyter Mouton. 495–574.</ref>
+
+In the Kamayurá language, affixes, clitics, order of constituents, postpositions, derivational processes and certain particles are all needed in order to express the syntactic and semantic functions of the noun. “Affixes: a set of casual suffixes that indicate the noun in a nuclear function, locative, attributive, and external, and a set of relational prefixes including prefixes which encode the specified and indefinite third-person, reflexive and non-reflexive as well as the subject and object of the third person. Clitics: there are a set of flexible clitics which indicates a person and the number of the possessor as well as the subject of the object of verbs and postpositions. Order of constituents: are relevant to distinguish “a” (feminine the) and “o” (masculine the) when both are expressed by nominal, both receive the same suffix [-a]. The basic order of the constituents are “AOV” in the transitive sentence and “SV” in the intransitive sentences, which vary in certain contexts. Postpositions: Postpositions are used to express a variety of syntactic and semantic functions. Derivational Processes: there are a series of derivational affixes which form complex nominal from verbs and adverbs and of which are used to indicate syntactic and semantics roles of the noun. Particles: Certain particles ae used to indicate semantic/syntactic roles of the noun. There are several relations that are expressed in Portuguese by nominal or postpositional phrases which in Kamayurá, are expressed by adverbs and other types of constructions.” <ref>{{harvp|Seki|2000|pages=351-352}}</ref>
+
+Personal Pronouns present certain characteristics which justify its treatment separately. It constitutes a closed class of elements, which unlike nouns, do not receive casual suffixes. There are two different pronouns with syntactic distribution consistently distinct, these are: the series of free pronouns and the series of clitic pronouns which are described below:<ref name=":0">{{harvp|Seki|2000|pages=62}}</ref>
+
+<u>Free personal pronouns:</u> these are accented and syntactically occur in the following functions, and do not occur in subordinate sentences and also not as the possessor with nouns or as object of postpositions. There are also restrictions of the use of these pronouns in copulative sentences:
+
+{{interlinear|number=i)
+|top= As a single constituent, whether or not accompanied by particles, in elliptical sentences:
+|A: kunu'um/ ne{{=}}upe a-'e
+|{} boy 2sg{{=}}Dat {lsg-to say}
+|"Hey boy, I am talking to you"
+{{interlinear|B: awa/ije|“Who, me?”}}}}
+
+{{interlinear|number=ii)
+|top= As the subject of sentences with a nominal predicate:
+|ije morerekwat
+|am boss
+|“I am boss”}}
+
+{{interlinear|number=iii)
+|top= As the emphatic subject or contrastive subject, in other types of independent sentences:
+|ije a-je’eŋ ene  ere-karãj
+|I 1sg-talk you 2sg-write
+|“I talk and you write”}}
+
+{{interlinear|indent=3
+|Ore t –oro-jomono
+|1Pe Ex-1 Pe-go
+|“we are who goes”}}
+
+{{interlinear|number=iv)
+|top= As a topicalized object, in independent sentences:
+|ene ruẽj oro-etsak
+|you NEG 1/2–see
+|“it is not you who I see”}}
+
+<u>Clitic Pronouns:</u> These are not used alone, but they always appear syntactically linked to other elements occurring in the following functions.<ref name=":0" />
+
+{{interlinear|number=i)
+|top= As a possessor with possessive nouns
+|je {{=}} r –ekowe
+|1sg {{=}} Rel –heart
+|“my heart”}}
+
+{{interlinear|number=ii)
+|top= As an object of postpositions:
+|je {{=}} r –ehe
+|1sg {{=}} Rel –because
+|“because of me”}}
+
+{{interlinear|number=iii)
+|top= as a subject with descriptive verbs
+|je {{=}} Ø –katu
+|1sg {{=}} Rel {–be good}
+|“I am good”}}
+
+{{interlinear|number=iv)
+|top= as an object, with transitive verbs:
+|je {{=}} r –etsak
+|1sg {{=}} VIS –see
+|“You see me”}}
+
+{{interlinear|number=v)
+|top= as a subject and an object, with certain verbal dependent forms:
+|je {{=}} tsaro {{=}} k   ne {{=}} mano-ramuẽ a’e {{=}} wa jyjryp-Ø
+|1sg {{=}} get {{=}} Vol  2s {{=}} die-subj  nint {{=}} Ms friend-NM
+|“Come get me when you die, friend!”}}
+
+As discussed above, in verbal morphology the verb receives affixes, clitics, constituents and particles. The affixes include prefixes and suffixes. The first are indicators of person, causes, reflexives and reciprocals. The suffixes indicate the mode, negation, and the causes of transitive. The clitics indicates person, negation, and the exhortative mode. The constituents and the particles signal distinctions in time, aspect and modality.<ref name=":1">{{harvp|Seki|2000|pages=371}}</ref> In Kamayurá, a derivation of elements of a category from others of the same or distinct categories occurs through the addition of affixes to radicals and through a combination of roots and radicals. Both the affixation and the derivation can be used in a morphological level and a syntactic level. A prefix is used in the derivation of nominals while a suffix is used in other cases. In the verbal derivation, prefixes are used. Below we will only look at the diminutive and the augmentative forms of words.<ref name=":1" />
+
+In the endocentric derivation of nouns, the following suffixes are used, all of them tonics:<ref>{{harvp|Seki|2000|pages=372}}</ref>
+
+# {-i} “diminutive” with two allomorphs: -i in oral context and – ĩ in nasal context:
+#:kap                  “moth”    à kawi “small moth”
+#:tukan               “toucan” à tukanĩ      “small toucan”
+# –pĩ “diminutive”:
+#:y’a                   “flower”  à y’apĩ “little flower”
+#:ywyrapat         “arch”     à ywyrapapĩ “little arch”
+# {-u} “augmentative”. This is –u in the oral condition and –ũ in the nasal condition:
+#:ipira     “fish”                 à  ipirau “big fish”
+#:wyra    “bird”                à wyrau   “big bird”
+# {-ete} augmentative corresponds as well with “true genuine”:
+#:-akaŋ   “head”              à -akaŋete  “big head”
+#:-op       “leaf”                à -owete    “big leaf”
+
+== Case and agreements ==
+The Kamayurá language is composed of combined aspects of the nominative-accusative, active-stative and the establishment of a final verb with initial interrogative words.<ref>{{harvp|Seki|2000|pages=18}}</ref> The Kamayurá language is also hierarchical, for example: The forms in series I with transitive verbs in the indicative and exhortative modes are used to codify A, the clitic pronouns to codify O and the prefixes of series IV to indicate A and O simultaneously.<ref>{{harvp|Seki|2000|pages=138}}</ref>
+
+'''Hierarchical references'''<ref>{{harvp|Seki|2000|pages=140}}</ref>
+{| class="wikitable"
+! rowspan="2" |
+! colspan="2" |Participant
+! colspan="3" |Indicated together with the verb by
+|-
+!A
+!O
+!Series I
+!Clitic
+!Series IV
+|-
+!1)
+|1, 2
+|3
+|A
+|
+|
+|-
+!2)
+|3
+|1, 2
+|
+|O
+|
+|-
+!3)
+|3
+|3
+|A
+|
+|
+|-
+!4)
+|2
+|1
+|
+|O
+|
+|-
+!5)
+|1excl
+|2sg
+|A
+|
+|
+|-
+!6)
+|1sg
+|2sg
+|
+|
+|A/O
+|-
+!7)
+|1
+|2pl
+|
+|
+|A/O
+|}
+It is important to note that the choice of the participant is being governed by the hierarchy of reference indicated in following which: a) the first person has precedence over the second person b) the second person has precedence over the third and c) A has precedence over O: a) 1>2>3 b)A>O. Depending on the hierarchy, given by both the A and O participants, the one higher hierarchical, will be expressed with the verb by the corresponding pronominal element. The following example explains lines 1 – 5 in the above hierarchical reference.<ref>{{harvp|Seki|2000|pages=140, 141}}</ref>
+
+: a –etsak          “I see him”                   (1sg Vs. 3)
+: ja-etsak          “We (incl) see him”      (1ip Vs. 3)
+: oro-tscak         “We (excl) see him”      (1ep Vs. 3)
+: ere-etsak         “You see him”             (2sg Vs. 3)
+: pe-etsak          “You all see him”         (2pl Vs. 3)
+: je = r-etsak      “He sees me”               (2Vs. 1sg)
+: jene = r-etsak    “He sees (1incl) us”    (3 Vs. 1ip)
+: ore = r-etsak     “He sees (1excl) us”   (3 Vs. 1ep)
+: ne = r-etsak      “He sees you”             (3 Vs. 2g)
+: pe = n-etsak      “He sees you all”        (3 Vs. 2pl)
+: o-etsak           “He sees you”            (3 Vs. 3)
+: je = r-etsak      “You see me”              (2sg Vs. 1sg)
+: ore = r-etsak     “You see (excl) us”     (2sg Vs. 1ep)
+: oro-etsak         “We (excl) see you”    (1ep Vs. 2sg)
+
+== Quantification ==
+The following distinct resources are used to express quantification in Kamayurá: 1) words for numbers and quantifiers which work as adverbials, 2) descriptive verb elements, 3) particles, 4) roots suffixed to the verb, 5) reduplication.<ref name=":2">{{harvp|Seki|2000|pages=319}}</ref>
+
+'''1)''' Words for numerals and quantifiers like “everyone” and “few” are understood as being associated with a countable item, and can be nominal in function of the subject, or of the object, or even an event, however, they do not occur as nominal determinants, but they present adverbial properties:<ref name=":2" />
+
+{{interlinear|indent=3
+|mokõj kunu'um-a o-yk
+|two boys-N 3-arrive
+|“two boys arrived”}}
+
+{{interlinear|indent=3
+|mo'apyt moytsowy-a r-iru-a a-mepy
+|Three beads-N Rel-packs-N 1sg-buy
+|"I bought three packs of beads"}}
+
+{{interlinear|indent=3
+|mojepete rak a-jot são paulo katy
+|one At 1sg-come N.pr. AI
+|"I have come to Sao Paulo once”}}
+
+'''2)''' There are two descriptive verb elements which occur as quantifiers “be very, very, many times” and –eta “be numerous”. The first only occurs with a third person indicator and, like other descriptive, can occur as an adverb:<ref>{{harvp|Seki|2000|pages=320}}</ref>
+
+{{interlinear|indent=3
+|'ajaT) i-karu -w
+|Quant 3-eat-Circ
+|"He ate a lot [many times]"}}
+
+{{interlinear|indent=3
+|i'ajaT) apykaw-a a -erut
+|Quant bench -N 1sg-bring
+|"I will bring many benches"}}
+
+'''3)''' Different from adverbs, particles do not occur isolated like a constituent and do not present adverbial characteristic properties. They are syntagmatically connected to the constituent which is or contains the element of which has scope. The particles can modify nominal, adverbial or the verb. This group of particles includes: tete “only”, meme “each”, atsã “little, small”, utsu “a lot”, a’ia’ip “much”. Below are examples of the “tete” particle:<ref>{{harvp|Seki|2000|pages=320, 321}}</ref>
+
+{{interlinear|indent=3
+|ene tete ere-ko
+|You Ptc 2sg-to be
+|"it is only you?"}}
+
+{{interlinear|indent=3
+|ka'aruk-amue tete a -ha 'y -p
+|afternoon -Subj Ptc 1sg-go water-Loc
+|"Only in the afternoon I’m going to bathe"}}
+
+'''4)''' In the verbal roots which are suffixed to the verb pointing out aspectual distinctions, the root –pap “end, finish, complete” expresses universal quantification associated to the subject aguments of the transitive verbs and the objects of transitive verbs. With the suffix –pap it is understood that the event/action covers the totality of the item, considered in its unit or the totality of the items. In the last case, in general, the indicator of number is present in construction:<ref>{{harvp|Seki|2000|pages=321}}</ref>
+
+{{interlinear|indent=3
+|ywyra o-kaj–pap
+|stick 3-burn-Compl
+|"the stick burned completely"}}
+
+{{interlinear|indent=3
+|o- jomono -pap {{=}}awa
+|3- {to go (P1)} -Comp1 {{=}}P1
+|"Everyone went"}}
+
+'''5)''' Reduplication is a recourse used to express distinctions of an aspect and other types of quantification. It can reduplicate radical nominals, adverbials and verbals, generally marked the iterative, distributive and intensive:<ref>{{harvp|Seki|2000|pages=322}}</ref>
+
+:jene rae-raem     "our screams [multiples]"
+:je='a-je'at            "my day to day, my everyday"
+:mojepetepete     "one by one"
+:i-kana-kana        “very crooked,  all crooked"
+:o-kytsi-kytsi         "he cut a lot, shredded"
+
+==Sample text==
+
+The following sample is taken from Seki (2000), p.&nbsp;438. It is a small excerpt of a folk take about hero [[Arawitará]], who is summoned by his deceased friend to help the [[soul]]s of the dead in their eternal war against the [[bird]]s.  Here Arawitará has returned to the world of the living, and his describing his journey to the friend's old mother.
+
+#''jererahame rake ko‘yt a‘ɳa rupi rak orohome ko‘yt''
+#''jene peuan ikatu a‘ia ko‘ypy''
+#''jawa‘ipaip ehe‘aɳ jajuw a‘e''
+#''te a‘ia‘iw a‘iwĩ jene retama ko‘ypy''
+#''jakatupe tete ne jene retama jaetsa ko‘ypy''
+#''nite ne jawa‘iawa ko‘ypy''
+#''kopiaip ehe‘aɳ jaju kwãj‘awan''
+#''petsakame te jene retama ko‘ywa''
+#''ipeiripyrera witene''
+#''ipeiripyrera wite a‘ia‘iwine jeneretama ko‘ypy''
+#''ojewunewunawa a‘iweru je wi kwãj''
+#'' okoj opiretepewewara ruri we''
+
+#"He [the deceased friend] took me [Araw.]. We went this way.
+#Our straight path(*) is very beautiful
+#Here we live among ugly weeds
+#Ah, how beautiful is our [otherworldly] village!
+#I saw the [otherworldly] village very clean(%),
+#There is not even a single weed there!
+#Here we live as in the path to the orchards($), folks!
+#You should see our [otherworldly] village!
+#It is like one which has been swept
+#it is like one which has been swept a lot, our village
+#The poor [souls] spat on the ground for my being there(#)
+#'Here comes someone who is still in his original skin.'"
+
+Notes:
+:(*) "The straight path" (''peu-'') is the path followed by the souls of the deceased to reach the other world.
+:(%) Kamayurá villages consist of a ring of houses surrounding a flat central plaza of packed dirt, which is kept clean and swept frequently. The village of the departed souls is impeccable in this regard.
+:($) The Kamayurá orchards are located at some distance from the village, and the path to them usually goes through the tropical the jungle.
+:(#) The souls spat on the ground because the nauseating smell of the hero's living flesh made them sick.
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+===Books===
+* {{Cite book |title=[[Gramática do Kamaiurá, Língua Tupi-Guarani do Alto Xingu]] |last=Seki |first=Lucy |date=2000 |publisher=Editora da Unicamp & Imprensa Oficial do Estado S.A. IMESP |isbn=85-268-0498-7 |location=Campinas, SP, Brasil }}.  This is a detailed, comprehensive, and readable description of the Kamayurá grammar, including a lexicon with ~1200 entries.
+
+===Papers===
+* [[Lucy Seki]], ''Kamaiurá (Tupi–Guarani) as an active–stative language.'' In [[D. L. Payne]] (ed.), ''Amazonian linguistics: Studies in Lowland South American languages,''  University of Texas Press (1990).
+*{{Cite journal |last=Saelzer |first=Meinke |year=1976 |title=Fonologia provisória da língua kamayurá |url=http://www.sil.org/americas/brasil/PUBLCNS/LING/KMFono.pdf}}
+
+{{Xingu}}
+{{Tupian languages}}
+{{Authority control}}
+
+{{DEFAULTSORT:Kamayura Language}}
+[[Category:Tupi–Guarani languages]]
+[[Category:Languages of Xingu Indigenous Park]]

@@ -1,0 +1,439 @@
+{{Short description|Samoyedic language}}
+{{Infobox language
+|name        = Tundra Nenets
+| altname    = Nenec, Nenetsy, Nentse, Yurak, Yurak Samoyed
+|states      = Northern [[Russia]]
+|ethnicity   = [[Nenets people|Nenets]]
+|speakers    = 21,900
+|date        = 2010
+|ref         = <ref>Daniel Abondolo, 1998. ''The Uralic Languages,'' p. 517.</ref>
+|familycolor = Uralic
+|fam2        = [[Samoyedic languages|Samoyedic]]
+|fam3        = (core)
+|fam4        = Enets–Nenets
+|fam5        = [[Nenets languages|Nenets]]
+|isoexception = dialect
+|script=[[Cyrillic script|Cyrillic]]
+|glotto=tund1255
+|glottorefname=Eastern Tundra Nenets<!-- Actual name of referenced Glottolog page -->
+|notice=IPA
+}}
+
+'''Tundra Nenets''' is a [[Uralic languages|Uralic language]] spoken in European [[Russia]] and North-Western [[Siberia]]. It is the largest and best-preserved language in the [[Samoyedic languages|Samoyedic group]].<ref name=":0">{{Cite book|title=A grammar of Tundra Nenets|last=Irina.|first=Nikolaeva|date=2014|publisher=De Gruyter Mouton|isbn=9783110320640|location=Berlin|oclc=958355161}}</ref>{{Rp|1–2}}
+
+Tundra Nenets is closely related to the [[Nganasan language|Nganasan]] and [[Enets language|Enets]] languages, and more distantly to [[Selkup language|Selkup]]. Tundra Nenets and its sister language, [[Forest Nenets language|Forest Nenets]], are sometimes considered dialects of a single Nenets language, though there is low [[mutual intelligibility]] between the two. In spite of the large area in which Tundra Nenets is spoken, the language is very uniform with few dialectal differences.<ref name=":1">{{Cite book|title=Tundra Nenets inflection|last=Salminen, Tapani.|date=1997|publisher=Suomalais-ugrilainen seura|isbn=952515002X|location=Helsinki|oclc=37350558}}</ref>{{Rp|13}}
+
+Geographically, the Tundra Nenets territory spans the Nenets District of the Arkhangelsk Province, as well as parts of the [[Komi Republic]], the Yamal-Nenets District in the Tyumen Province, and the Ust-Yeniseisk region of the Taimyr District in the Krasnoyarsk Region. This territory has been in constant growth over the past millennium, as Tundra Nenets settlers moved further east and engaged with other groups of [[Enets people|Enets]].<ref name=":0" />{{Rp|3}}
+
+A 2010 census reported 44,640 Nenets, 49% of whom were speakers of the Nenets language. However, while the population of Nenets has been growing in the past few decades, the language itself has been in a decline, as many children are now educated in Russian-language schools and many other ethnic groups have begun settling in Tundra Nenets territories.<ref name=":0" />{{Rp|5–6}} The language is classified as 6b (Threatened), indicating that it is still spoken by all age generations, but the number of speakers in decreasing.<ref>{{Cite web|url=https://www.ethnologue.com/language/yrk|title=Nenets|website=Ethnologue|language=en|access-date=2019-05-12}}</ref>
+
+Tundra Nenets is spoken primarily within family circles and in traditional economic activities, such as hunting and herding reindeer. The language has no official status within the Russian Federation. In the mid 1930s, an orthography based on the [[Cyrillic script]] was developed, which is taught in local schools. However, many Tundra Nenets speakers are primarily literate in [[Russian language|Russian]]. Nonetheless, there is a small amount of Tundra Nenets literature, as well as radio and television broadcasts.<ref name=":0" />{{Rp|7–8}}
+
+== Phonology ==
+The [[syllable]] structure of Tundra Nenets is generally [[consonant|C]][[vowel|V]]([[consonant|C]]), and syllables with initial, medial or final [[consonant cluster]]s of more than two consonants are not allowed. Words normally do not begin with a vowel, except in western dialects of the language, mostly due to the loss of {{IPA|/ŋ/}}, so the standard Tundra Nenets word ''ŋarka'' ('big') is found as ''arka'' in western varieties.{{sfn|Salminen|1997|pp=35–36}}
+
+=== Vowels ===
+The number of [[vowel]] [[phoneme]]s in Tundra Nenets is 10, which have 17 distinct [[allophone]]s governed by [[Palatalization (phonetics)|palatality]], which dominates whole sequences of vowels and consonants.{{sfn|Salminen|1997|pp=36–37}} Vowel [[Front vowel|frontness]] is not segmentally contrastive.
+
+[[Monophthong]] vowels are present in the chart below. [[Phoneme]]s are marked in bold, with their palatal (on the left) and non-palatal (on the right) allophones marked underneath using the [[International Phonetic Alphabet]].
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2"|
+! [[Unrounded vowel|Unrounded]]
+! [[Rounded vowel|Rounded]]
+|-
+! rowspan="2"| [[Close vowel|Close]]
+! <small>Long</small>
+| '''/í/'''<br />{{IPA|[(ʲ)iː], [ɨː]}}
+| '''/ú/'''<br />{{IPA|[(ʲ)ʉː], [uː]}}
+|-
+! <small>Short</small>
+| '''/i/'''<br />{{IPA|[(ʲ)i], [ɨ]}}
+| '''/u/'''<br />{{IPA|[(ʲ)ʉ], [u]}}
+|-
+! rowspan="2"| [[Mid vowel|Mid]]
+! <small>Tense</small>
+| '''/e/'''<br />{{IPA|[(ʲ)eː], [ɤː]}}
+| '''/o/'''<br />{{IPA|[(ʲ)ɵː], [oː]}}
+|-
+! <small>Lax</small>
+| '''/°/'''<br />{{IPA|[ə]}} 
+| 
+|-
+! rowspan="2"| [[Open vowel|Open]]
+! <small>Tense</small>
+| '''/a/'''<br />{{IPA|[(ʲ)aː], [ɑː]}}
+|
+|-
+! <small>Lax</small>
+| '''/ø/'''<br />{{IPA|[(ʲ)ɐ], [ʌ]}}
+|
+|}
+
+There is also a vowel {{angbr|æ}}, which is [[Free variation|interchangeably]] realized as {{IPA|[æ͡e̘]}} or {{IPA|[æː]}}. This and the long close vowels only occur in word-initial syllables.
+
+==== Vowel reduction ====
+In much of the literature on Tundra Nenets and its sister dialect, [[Forest Nenets language|Forest Nenets]], a so-called ''reduced vowel'' is mentioned. This reduced vowel was thought to have two distinct qualities depending on whether it was found in a [[stress (linguistics)|stressed]] or unstressed position. In stressed position it was transcribed as {{angbr|ø}} and represented a reduced variant of an underlying vowel, and in unstressed position it was transcribed as {{angbr|â}} and represented a reduced variant of {{IPA|/a/}}. Recently, however, it has become clear that the reduced vowels are in fact short vowels, counterparts to their respective long vowels. Today {{angbr|â}} should simply be replaced by {{angbr|a}}, while {{angbr|ø}} simply represents a short vowel, although it is not specified which short vowel in this orthography.<ref name="salminen1993">{{cite book | author = Salminen, Tapani | author-link = Tapani Salminen | publisher = [[Suomalais-Ugrilainen Seura]] | location = [[Helsinki]] | year = 1993 | title = On identifying basic vowel distinctions in Tundra Nenets | series = Finnisch-Ugrische Forschungen | volume = 51 | pages = 177–187}}</ref>
+
+=== Consonants ===
+The number of [[consonant]] [[phoneme]]s in Tundra Nenets is 27.{{sfn|Salminen|1997|pp=37–38}} All labial and coronal consonants have plain and [[Palatalization (phonetics)|palatalized]] counterparts.
+
+{| class="wikitable" style=text-align:center
+|-style="font-size: 90%;"
+!rowspan=2 colspan=2|
+!colspan=2| [[Bilabial consonant|Bilabial]]
+!colspan=2| [[Coronal consonant|Coronal]]
+!rowspan=2| [[Velar consonant|Velar]]
+!rowspan=2| [[Glottal consonant|Glottal]]
+|-
+! <small>Plain</small>
+! <small>[[Palatalization (phonetics)|Palzd]]</small>
+! <small>Plain</small>
+! <small>Pala.</small>
+|-
+!colspan=2| <small>[[Nasal consonant|Nasal]]</small>
+| style="background:#C0C0C0"| {{IPAlink|m}}
+| style="background:#C0C0C0"| mʲ
+| style="background:#C0C0C0"| {{IPAlink|n}}
+| style="background:#C0C0C0"| nʲ
+| style="background:#C0C0C0"| {{IPAlink|ŋ}}
+|
+|-
+!rowspan=2| <small>[[Stop consonant|Stop]]</small>
+! <small>[[Voice (phonetics)|Voiceless]]</small>
+| style="background:#C0C0C0"| {{IPAlink|p}}
+| style="background:#C0C0C0"| pʲ
+| style="background:#C0C0C0"| {{IPAlink|t}}
+| style="background:#C0C0C0"| tʲ
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+! <small>[[Voice (phonetics)|Voiced]]</small>
+| {{IPAlink|b}}
+| bʲ
+| {{IPAlink|d}}
+| dʲ
+|
+|
+|-
+! <small>[[Affricate consonant|Affricate]]</small>
+! <small>Voiceless</small>
+|
+|
+| {{IPAlink|ts}}
+| tsʲ
+|
+|
+|-
+! <small>[[Fricative consonant|Fricative]]</small>
+! <small>Voiceless</small>
+|
+|
+| style="background:#C0C0C0"| {{IPAlink|s}}
+| style="background:#C0C0C0"| sʲ
+| style="background:#C0C0C0"| {{IPAlink|x}}
+|
+|-
+!rowspan=2| [[Approximant consonant|Approximant]]
+!<small>[[Semivowel]]</small>
+|
+|
+|
+| style="background:#C0C0C0"| {{IPAlink|j}}
+| style="background:#C0C0C0"| {{IPAlink|w}}
+|
+|-
+!<small>[[Lateral consonant#approximant|Lateral]]</small>
+|
+|
+| style="background:#C0C0C0"| {{IPAlink|l}}
+| style="background:#C0C0C0"| lʲ
+|
+|
+|-
+!colspan=2| [[Trill consonant|Trill]]
+|
+|
+| {{IPAlink|r}}
+| rʲ
+|
+|
+|}
+
+The trill [r] may be uvular [ʀ] or a uvular fricative [ʁ] for some speakers.
+
+All consonants can be found word-internally between vowels, but their occurrence in other positions is strongly limited.{{sfn|Salminen|1997|pp=40–41}}
+
+* Only the 16 consonants shown on darker gray background may occur word-initially.
+* Syllable-finally, most consonant contrasts are not found, and only six consonants occur: /b/, /ʔ/, /m/, /n ~ ŋ/, /l/, /r/.
+
+====Sandhi====
+Tundra Nenets has a [[phonological process]] of [[sandhi]]: the simplification of [[consonant cluster]]s, both within words (in e.g. inflection) and between words. This allows considering some of the consonant phonemes secondarily derived from [[Underlying representation|underlying]] consonant clusters.{{sfn|Salminen|1997|pp=43–44}}
+* [[Fortition]] of fricatives: when preceded by a consonant, the fricatives {{IPA|/s/}}, {{IPA|/sʲ/}}, {{IPA|/x/}} become the affricates / stops {{IPA|/ts/}}, {{IPA|/tsʲ/}}, {{IPA|/k/}} respectively.
+* A syllable-final glottal stop {{IPA|/ʔ/}} is lost before any obstruent consonants.
+* A word-final non-labial nasal {{IPA|/n/}} is lost when followed by a sonorant, and becomes a glottal stop utterance finally. Within a word, the cluster {{IPA|/nj/}} may occur.
+
+As the [[citation form]] of a noun is the bare stem, a word ending in a glottal stop in isolation can thus underlyingly end either in a plain glottal stop, or in a nasal. The latter is sometimes called a "nasalizable glottal stop", and is in the orthography of the language written differently from the former.
+
+=== Syllable structure ===
+Tundra Nenets has a (C)V(C) syllable structure, and the minimal word is CV. Thus, there are no word initial or word final consonant clusters, nor are there any three-consonant clusters. Moreover, syllables with zero onset typically cannot occur word-initially, but in Western dialects, the word-initial ''ŋ'' is lost, giving some vowel-initial words. For example, the Eastern dialect ''ŋəno'' 'boat' becomes ''əno'' in the Western dialect.<ref name=":0" />{{Rp|27}} Word-internally, zero onset syllables only occur when ''ə'' or ° follow another vowel. For example, such vowel clusters can occur when forming the finite stem: ''me°''  'he takes (3SG)' gives ''meə-s'°'' 'he took (3SG.PST).'<ref name=":0" />{{Rp|27–28}}
+
+=== Stress ===
+Tundra Nenets displays bisyllabic [[Trochee|trochaic]] feet that are aligned to the left. [[Stress (linguistics)|Primary stress]] falls on the initial syllable. [[Stress (linguistics)|Secondary stress]] falls on subsequent odd syllables and on even-position syllables preceding a syllable with °, excluding the final syllable,<ref name=":0" />{{Rp|28}} as illustrated in the following examples where ´ indicates primary stress on a vowel and ` indicates secondary stress on the preceding vowel:
+
+{{interlinear|indent=3
+|méŋa-xə`yu-n°
+|take-DU.OBJ-1SG<ref name=":0" />{{Rp|28}}
+|}}
+{{interlinear|indent=3
+|méŋa-xə`yu-nə`-s'°
+|take-DU.OBJ-1SG-PAST<ref name=":0" />{{Rp|28}}
+|}}
+{{interlinear|indent=3
+|mé-nake`-x°yu`-n'ə-s'°
+|take-PROB-DU.OBJ-1SG-PAST<ref name=":0" />{{Rp|28}}
+|}}
+
+== Morphology ==
+Typical of the Uralic language family, Tundra Nenets has an [[Agglutinative language|agglutinating]] morphological structure with a wide variety of [[suffix]]es. There is no prefixation. The two primary word classes are [[noun]]s and [[verb]]s. Other word classes include adjectives, pronouns, numerals, adverbs, postpositions, conjunctions, particles, and interjections.<ref name=":0" />{{Rp|8–9}}
+
+A noun can contain up to five morphemes, including the root, a derivational suffix, a possessive suffix, a number suffix, and a case suffix. A verb can contain up to six or seven morphemes, including the root, one or two derivational suffixes, a tense suffix, a mood suffix, a subject agreement suffix, and an object agreement suffix. Although the morphology is predominately agglutinating, there are some suffixes that express multiple meanings, as well as periphrastic clausal negation and some [[auxiliary verb]]s.<ref name=":0" />{{Rp|8–9}}
+
+=== Derivational affixes ===
+Tundra Nenets contains a few nominal [[Morphological derivation|derivational]] affixes that can be used to denote a cause, express an instrument, or refer to a location of action. For example,  the noun ''xərwa-bco'' 'wish' can be derived from the verb ''xərwa-'' 'to want'.<ref name=":0" />{{Rp|31}} There are also several mixed categories of nouns that have a syntactic distribution of a different word-class, yet share other properties with nouns. For example, the proprietive suffix ''-sawey°'' can be used to derive nouns with the meaning 'with X, having X', as in ''yī-sawey°'' 'intelligent' (from ''yī'' 'mind').<ref name=":0" />{{Rp|32}}
+
+Tundra Nenets has two verbal [[Grammatical aspect|aspectual]] classes, perfective and imperfective. There are several derivational aspectual suffixes which can change the aspectual class of a verb. For example, imperfectivizing suffixes can be used to express durative, frequentative, multiplicative, and iterative meanings, such as in ''tola-bə'' 'to keep counting' (from ''tola-'' 'to count').<ref name=":0" />{{Rp|45}} There are also denominal verbs with the meaning 'to use as X, to have as X', which are formed from the accusative plural stem, such as in ''səb'i-q''' 'to use as a hat' (from ''səwa'' 'hat').<ref name=":0" />{{Rp|46}}
+
+=== Inflectional affixes ===
+Nouns are [[Inflection|inflected]] for [[Number (linguistics)|number]] (singular, dual, plural), [[Grammatical case|case]] (nominative, accusative, genitive, dative, locative, ablative, prolative), and possessive, which can indicate the person and number of the possessor.<ref name=":0" />{{Rp|9}} For example, the following noun is inflected for similative case and third person plural number.
+
+{{interlinear|indent=3|abbreviations=SIM:similative
+|numke-rəxa-q
+|star-SIM-3PL
+|'like stars'<ref name=":0" />{{Rp|73}}}}
+
+Verbs are inflected for [[Agreement (linguistics)|agreement]], tense, and mood. Present tense is unmarked, but Tundra Nenets distinguishes inflectionally the past, future, habitual, and future-in-the-past tenses. There are sixteen moods, which include the imperative, hortative, optative, conjunctive, necessitative, interrogative, probabilitative, obligative, potential, and inferential.<ref name=":0" />{{Rp|9}} For example, the verb below is inflected for subjunctive mood, first person singular agreement, and past tense.
+
+{{interlinear|indent=3|abbreviations=DP:discourse particle 
+|ŋod'°q s'it° məneq-yi-dəm-c'°
+|DP you.ACC see-SUBJ-1SG-PAST
+|'If only I could see you!'<ref name=":0" />{{Rp|89}} }}
+
+=== Clitics ===
+[[Clitic]]s undergo the same phonological processes and stress assignment as affixes. They can attach to an affirmative finite verb, a negative auxiliary, or a non-verbal final predicate, and follow any other inflection,<ref name=":0" />{{Rp|116}} as shown with the following exclamative clitic:<ref name=":0" />{{Rp|117}}
+
+{{interlinear|indent=3
+|pidər° tola-mp'i-n°{{=}}n'uq!
+|you read-DUR-2SG-EXCL
+|'It turns out you are reading!'<ref name=":0" />{{Rp|117}}}}
+
+=== Particles ===
+Particles are primarily used for discourse. Common particles include ''yekar°q'' 'it is unknown', ''ŋod'°q'' 'hardly', ''tǣr'i'' 'just, very', and ''məs'iq'' 'maybe, perhaps.'<ref name=":0" />{{Rp|53}} An example is given below:
+
+{{interlinear|indent=3|abbreviations=DP:'discorse particle'
+|yekar°q tūt-bə-ta{{=}}w°h
+|DP come.FUT-COND-3SG-DUB
+|'It's unlikely that he will come.'<ref name=":0" />{{Rp|53}}}}
+
+=== Compounding ===
+There are some lexical noun-noun [[Compound (linguistics)|compounds]] in Tundra Nenets. As shown in the following example, the first element in the compound can always be modified and take a number.<ref name=":0" />{{Rp|167}} 
+
+{{interlinear|indent=3
+|xasawa ŋǝcʹeki°-q
+|man child-PL 
+|‘boys’<ref name=":0" />{{Rp|167}}}}
+
+=== Suppletion ===
+A few irregular verbs show [[suppletion]]. The most frequent suppletive verbs are ''xǣ-'' ‘to go, to depart’, ''ŋǣ-'' ‘to be’, ''to-'' ‘to come’, ''ta-'' ‘to bring, to give’ and the negative auxiliary ''nʹi-''. Some common suppletive forms for these verbs are given in the table below.<ref name=":0" />{{Rp|25}}
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+{| class="wikitable"
+!
+!to go/depart
+!to be
+!to come
+!to bring, give
+!negative auxiliary
+|-
+|'''3SG'''
+|''xəya'' 
+|''ŋa'' 
+|''to°'' 
+|''ta°'' 
+|nʹī 
+|-
+|'''CONNEG'''
+|''xanʹ°q'' 
+|''ŋaq (~ŋǣq)'' 
+|''tuq'' 
+|''taq'' 
+| -
+|-
+|'''IMPF PART'''
+|''xǣn(ʹ)a'' 
+|''ŋǣda'' 
+|''tona'' 
+|''tada~tana'' 
+|''nʹinʹa'' 
+|-
+|'''IMP 2SG'''
+|''xanʹ°q'' 
+|''ŋaq'' 
+|''tuq'' 
+|''taq'' 
+|''nʹon°'' 
+|-
+|'''FUT 3SG'''
+|''xan°tə°'' 
+|''ŋǣŋu'' 
+|''tūtə°'' 
+|''tətə°'' 
+| -
+|}
+</div>
+
+== Syntax ==
+
+=== Basic word order ===
+
+Tundra Nenets is predominantly a head-final SOV language.<ref name=":0" />{{Rp|9}} Verb finality is the primary constraint on word order.<ref name=":0" />{{Rp|213}} Below are examples of the basic word order for a transitive and intransitive sentence.
+
+{{interlinear|indent=3|abbreviations=IMPF:imperfective; PART:participle
+|məy°mpə-da Wera Maša-m pad°ta°-da
+|cheerful-IMPF.PART Wera Masha-ACC   {draw-3SG > SG.OBJ}
+|‘Cheerful Wera drew Masha.’<ref name=":0" />{{Rp|197}}}}
+
+{{interlinear|indent=3
+|Wera-h teda yuxu
+|Wera-GEN reindeer.3SG get.lost
+|'Wera's reindeer got lost.'<ref name=":0"  />{{Rp|223}}}}
+
+However, although most simple sentences have SOV order, a more general trend is for the informationally new element to be immediately preverbal and to be preceded by the informationally old element. So, it is possible to have sentences where the direct object precedes the subject,<ref name=":0" />{{Rp|214}} as illustrated below:
+
+{{interlinear|indent=3
+|s’exari°-m sira toxora°-da
+|road-ACC snow   {cover-3SG > SG.OBJ}
+|‘Snow covered the road.’<ref name=":0" />{{Rp|214}}}}
+
+=== Possessee + possessor ===
+The possessor precedes the thing being possessed.<ref name=":0" />{{Rp|142}}
+
+{{interlinear|indent=3
+|noxa‐h tǣwa
+|polar.fox-GEN tail
+|‘polar fox’s tail’<ref name=":0" />{{Rp|142}}}}
+
+=== Adjective (comparative) + standard ===
+
+Comparative adjectives follow their standards, which take the ablative case.<ref name=":0" />{{Rp|174}}
+
+{{interlinear|indent=3
+|t’uku°   pəni°   taki°   pəne-xəd°   səwa(-rka)
+|This coat that coat-ABL good-COMP
+|‘This coat is better than that one.’<ref name=":0" />{{Rp|174}}}}
+
+=== Determiner + noun phrase ===
+
+The determiner precedes the noun phrase.<ref name=":0" />{{Rp|141–142}}
+
+{{interlinear|indent=3
+|tʹuku°   Wera-h ti
+|this Wera-GEN reindeer
+|‘this reindeer of Wera’s’<ref name=":0"/>{{Rp|143}}}}
+
+==Orthography==
+The [[alphabet]] of Tundra Nenets is based on [[Cyrillic script|Cyrillic]], with the addition of three letters: [[En with hook|Ӈ ӈ]], [[Modifier letter apostrophe|ʼ]], and [[Modifier letter double apostrophe|ˮ]].
+
+===Vowels===
+The [[Palatalization (phonetics)|palatalized]] and plain vowel allophones are distinguished in the original orthography<ref name=":1" />{{Rp|36–37}}
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+{| class="wikitable" style="text-align: center;"
+! colspan="2" |phonemic transcription
+!a
+!e
+!o
+!i
+!u
+!æ
+|-
+! rowspan="2" |Cyrillic
+!Plain
+|а
+|э
+|о
+|ы
+|у
+|э
+|-
+! [[Palatalization (phonetics)|Palatalized]]
+|я
+|е
+|ё
+|и
+|ю
+| 
+|}
+</div>
+The Cyrillic orthography does not distinguish the reduced vowel from ''a'', nor the long ''ī'' and ''ū'' from their short counterparts ''i'' and ''u''. ''ǣ'' is not found in a palatalized environment, and thus does not show up in the chart. The [[schwa]], {{IPA|[ə]}}, has no direct counterpart in the Cyrillic orthography and is in most cases not written. However, it may sometimes appear as {{angbr|а}}, {{angbr|я}}, {{angbr|ы}}, {{angbr|ӗ}} or {{angbr|ŏ}}. For example, ''{{IPA|xad°}}'', ('snowstorm') is written as ''хад'', and ''{{IPA|nix°}}'' ('power') is written as ''ныхы''.<ref name=":1" />{{Rp|34–35}}
+
+===Consonants===
+The consonants in the Cyrillic orthography can be seen in the chart below. Note that [[Palatalization (phonetics)|palatalized consonants]] are not included.<ref name=":1" />{{Rp|38}}
+<div class="center" style="width: auto; margin-left: auto; margin-right: auto;">
+{| class="wikitable" style="text-align: center;"
+!phonemic transcription
+|{{IPA|/m/}}
+|{{IPA|/p/}}
+|{{IPA|/b/}}
+|{{IPA|/w/}}
+|{{IPA|/n/}}
+|{{IPA|/t/}}
+|{{IPA|/d/}}
+|{{IPA|/ts/}}
+|{{IPA|/s/}}
+|{{IPA|/j/}}
+|{{IPA|/l/}}
+|{{IPA|/r/}}
+|{{IPA|/ŋ/}}
+|{{IPA|/k/}}
+|{{IPA|/x/}}
+|{{IPA|/ʔ/}}
+|{{IPA|/ʔ/}}
+|-
+!Cyrillic
+|м
+|п
+|б
+|в
+|н
+|т
+|д
+|ц
+|с
+|й
+|л
+|р
+|ӈ
+|к
+|х
+|ˮ
+|ʼ
+|}
+</div>
+The letter {{angbr|ˮ}} marks a "plain" glottal stop, while {{angbr|ʼ}} marks a glottal stop derived from a word-final ''n''. As in [[Russian language|Russian]], the consonants are palatalized using the soft sign, {{angbr|ь}}. For example, the palatalized consonant ''{{IPA|m'}}'' is represented with {{angbr|мь}} in Cyrillic unless it is followed by a palatalizing [[vowel]], such as {{angbr|ё}}, so that ''{{IPA|m'o}}'' is written as {{angbr|мё}}.<ref name=":1" />{{Rp|38}}
+
+===Sample text===
+''(Article 1 of the Universal Declaration of Human Rights)''
+
+{{fs interlinear|indent=3
+|Ет хибяри ненэць соямарианта хуркари правада тнява, ӈобой ненээя ниду нись токалба, ӈыбтамба илевату тара.
+|Et xibjari nenėc’ sojamarianta xurkari pravada tnjava, ṇoboj nenėėja nidu nis’ tokalba, ṇybtamba ilevatu tara.
+|All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood.<ref>[http://www.omniglot.com/writing/nenets.htm Nenets language, alphabet and pronunciation]</ref>}}
+
+== References ==
+{{incubator|code=yrk}}
+{{Reflist}}
+
+{{Uralic languages}}
+
+[[Category:Nenets languages]]
+[[Category:Northern Samoyedic languages]]

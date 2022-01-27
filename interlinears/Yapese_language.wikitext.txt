@@ -1,0 +1,280 @@
+{{Short description|Oceanic language}}
+{{Infobox language
+|name=Yapese
+|nativename=Thin nu Wa’ab
+|states=[[Federated States of Micronesia]]
+|region=Island of [[Yap]]
+|pushpin_map = Southeast Asia
+|coordinates = {{coord|9.56|138.12}}
+|ethnicity=[[Yapese people|Yapese]]
+|speakers=5,130
+|date=2005
+|ref={{r|Ethnologue}}
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Admiralty Islands languages|Admiralty Islands]]?
+|dia1=[[Nguluwan language|Nguluwan]]
+|script= [[Latin script]]
+|iso2=yap
+|iso3=yap
+|glotto=yape1248
+|glottorefname=Yapese
+}}
+
+'''Yapese''' is a language spoken by the people on the [[island]] of [[Yap]] ([[Federated States of Micronesia]]). It belongs to the [[Austronesian languages]], more specifically to the [[Oceanic languages|Oceanic]] branch of that family.  It has been difficult to classify it further, but Yapese may prove to be one of the [[Admiralty Islands languages]].{{r|Lynchetal2002}}
+
+==Orthography==
+[[File:Oceanic languages.svg|thumb|left|The branches of the [[Oceanic languages]]. Orange is the Admiralties languages and Yapese, yellow-orange is [[St Matthias languages|St. Matthias]], green is [[Western Oceanic languages|Western Oceanic]], violet is [[Temotu languages|Temotu]], and the rest are [[Central-Eastern Oceanic languages|Central-Eastern]]: dark red [[Southeast Solomonic languages|Southeast Solomons]], blue [[Southern Oceanic languages|Southern Oceanic]], pink [[Micronesian languages|Micronesian]], and ocher [[Central Pacific languages|Central Pacific linkage]].]]
+[[File:Book of Mormon - Yapese.jpg|thumb|Yapese version of the ''[[Book of Mormon]]'']]
+
+Written Yapese uses [[Latin script]]. In Yapese spelling as practiced until the 1970s, the glottal stop was not written with an explicit character. A word-final glottal stop was represented by doubling the final vowel letter. [[Glottalization]] of consonants was represented with an apostrophe. In the 1970s an orthography was created which uses double vowel letters to represent long vowels; and because of the ambiguity that would occur if the glottal stop was not written, the glottal stop was written with the letter ''q''. This new orthography using the letter ''q'' is not in universal use, but many works and maps about Yap write place names using the new q-orthography.
+
+==Phonology==
+
+Apart from a couple grammatical forms which are V, syllables are CV or CVC.
+
+===Consonants===
+
+Yapese is one of the relatively few languages in the world with [[ejective consonant|ejective]] [[fricative]]s.<ref>{{SOWL|178}}</ref> The Yapese ejective consonants are {{IPA|/pʼ tʼ kʼ fʼ θʼ/}}. There are also glottalised nasals {{IPA|/mˀ nˀ ŋˀ/}} and approximants {{IPA|/jˀ wˀ lˀ/}}.{{r|Jensen1977|p=30, 34-35}}
+
+In the table below, each [[phoneme]] is listed to the left of the [[grapheme]] that represents it in Yapese orthography.
+
+{| class="wikitable" style="text-align:center"
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan="2" | [[Nasal consonant|Nasal]]
+! <small>plain</small>
+| {{IPA link|m}} {{grapheme|m}}
+|
+| {{IPA link|n}} {{grapheme|n}}
+|
+| {{IPA link|ŋ}} {{grapheme|ng}}
+|
+|-
+! <small>[[Glottalization|glottalized]]</small>
+| {{IPA|mˀ}} {{grapheme|m'}}
+|
+| {{IPA|nˀ}} {{grapheme|n'}}
+|
+| {{IPA|ŋˀ}} {{grapheme|ng'}}
+|
+|-
+! rowspan="2" | [[Plosive]]
+! <small>plain</small>
+| {{IPA link|p}} {{grapheme|p}}
+|
+| {{IPA link|t}} {{grapheme|t}}
+|
+| {{IPA link|k}} {{grapheme|k}}
+| rowspan="2" | {{IPA link|ʔ}} {{grapheme|q/[']}}
+|-
+! <small>[[Ejective consonant|ejective]]</small>
+| {{IPA link|pʼ}} {{grapheme|p'}}
+|
+| {{IPA link|tʼ}} {{grapheme|t'}}
+|
+| {{IPA link|kʼ}} {{grapheme|k'}}
+|-
+! rowspan=3 | [[Fricative]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPA link|f}} {{grapheme|f}}
+| {{IPA link|θ}} {{grapheme|th}}
+| {{IPA link|s}} {{grapheme|s}}
+| {{IPA link|ʃ}} {{grapheme|ch}}
+| {{IPA link|x}} {{grapheme|g}}
+| ({{IPA link|h}}) {{grapheme|h}}
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA link|β}} {{grapheme|b}}
+| {{IPA link|ð}} {{grapheme|d}}
+|
+|
+|
+|
+|-
+! <small>[[ejective consonant|ejective]]</small>
+| {{IPA link|fʼ}} {{grapheme|f'}}<ref>p32, Ballantyne, Keira Gebbie. 2005. ''Textual Structure and Discourse Prominence in Yapese Narrative.'' Doctoral dissertation, University of Hawai'i.</ref>
+| {{IPA link|θʼ}} {{grapheme|th'}}
+|
+|
+|
+|
+|-
+! rowspan="2" | [[Approximant]]
+! <small>plain</small>
+|
+|
+| {{IPA link|l}} {{grapheme|l}}
+| {{IPA link|j}} {{grapheme|y/j}}
+| {{IPA link|w}} {{grapheme|w}}
+|
+|-
+! <small>glottalized</small>
+|
+|
+| {{IPA|lˀ}} {{grapheme|l'}}
+| {{IPA|jˀ}} {{grapheme|y'}}
+| {{IPA|wˀ}} {{grapheme|w'}}
+|
+|-
+! rowspan=3 | [[Trill consonant|Trill]]
+! <small>plain</small>
+|
+|
+| {{IPA link|r}} {{grapheme|r}}
+|
+|
+|
+|}
+
+{{IPA|/h/}} {{grapheme|h}} and {{IPA|/j/}} {{grapheme|j}} only occur in English and Japanese loans ({{IPA|/j/}} {{grapheme|y}} does occur in native words, however).
+
+===Vowels===
+
+In the table below, each phoneme is listed to the left of the grapheme that represents it in Yapese orthography.
+
+{| class="wikitable" style="text-align:center;"
+! rowspan="3" |
+! colspan="4" | [[Front vowel|Front]]
+! colspan="4" | [[Back vowel|Back]]
+|-
+! colspan="2" | <small>unrounded</small>
+! colspan="2" | <small>rounded</small>
+! colspan="2" | <small>unrounded</small>
+! colspan="2" | <small>rounded</small>
+|-
+! <small>short</small>
+! <small>long</small>
+! <small>short</small>
+! <small>long</small>
+! <small>short</small>
+! <small>long</small>
+! <small>short</small>
+! <small>long</small>
+|-
+! [[Close vowel|Close]]
+| {{IPA link|ɪ}} {{grapheme|i}}
+| {{IPA link|i}}ː {{grapheme|ii}}
+|
+|
+|
+|
+| {{IPA link|ʊ}} {{grapheme|u}}
+| {{IPA|ʊː}} {{grapheme|uu}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|ɛ}} {{grapheme|e}}
+| {{IPA link|e}}ː {{grapheme|ee}}
+| {{IPA link|œ}} {{grapheme|ö}}
+| {{IPA|œː}} {{grapheme|oe}}
+| {{IPA link|ʌ}} {{grapheme|a}}
+|
+| {{IPA link|ɔ}} {{grapheme|o}}
+| {{IPA|ɔː}} {{grapheme|oo}}
+|-
+! [[Near-open vowel|Near-open]]
+| {{IPA link|æ}} {{grapheme|ë}}
+| {{IPA|æː}} {{grapheme|ea}}
+|
+|
+|
+|
+|
+|
+|-
+! [[Open vowel|Open]]
+| {{IPA link|a}} {{grapheme|ä}}
+| {{IPA|aː}} {{grapheme|ae}}
+|
+|
+|
+| {{IPA link|ɑ}}ː {{grapheme|aa}}
+|
+|
+|}
+
+==Grammar==
+
+===Morphology===
+
+====Reduplication====
+Yapese makes use of [[reduplication]] for several morphological functions, including deriving [[stative]] adjectives from [[Inchoative aspect|inchoative]] adjectives, as in (1a–b), as well as to make [[Diminutive|diminutives]] of verbs, as in (2a-b):{{r|Jensen1977|p=112-114}}
+
+{|
+| {{interlinear| number = (1a) | roow | become.red | 'to become red'}}
+| {{interlinear| number = (1b) | roow~roow | STAT~red | 'to be red' }}
+|-
+| {{interlinear| number = (2a) | toey | chop | 'to chop' }}
+| {{interlinear| number = (2b) | si-toey~toey | DIM-DIM~chop | 'to chop a little' }}
+|}
+
+====Pronouns====
+Yapese distinguishes between three [[Grammatical number|numbers]] (singular, dual, and plural) and three [[Grammatical person|persons]] (first, second, and third), as well as [[Clusivity|clusivity]] in its personal pronouns.{{r|Jensen1977|p=134}}
+
+{| class="wikitable" style="text-align:center"
+|+ Independent personal pronouns
+|-
+!
+! Singular
+! Dual
+! Plural
+|-
+! {{gcl|1.EXCL|first person, exclusive}}
+|rowspan="2"| ''gaeg''
+| ''gamow''
+| ''gamaed''
+|-
+! {{gcl|1.INCL|first person, inclusive}}
+| ''gadow''
+| ''gadaed''
+|-
+! {{gcl|2}}
+| ''guur''
+| ''gimeew''
+| ''gimeed''
+|-
+! {{gcl|3}}
+| ''qiir''
+| ''yow''
+| ''yaed''
+|}
+
+A [http://talkingdictionary.swarthmore.edu/yapese/ Yapese Talking Dictionary] was produced by [https://livingtongues.org/ Living Tongues Institute for Endangered Languages].
+
+==References==
+{{Reflist|refs=
+<ref name=Ethnologue>{{Cite encyclopedia | url = https://www.ethnologue.com/language/yap | title = Yapese | encyclopedia=Ethnologue | date = 2018 | access-date = 2018-08-11  |language = en}}</ref>
+<ref name=Lynchetal2002>{{cite book | last = Lynch | first = John | authorlink = John Lynch (linguist) | author2 = [[Malcolm Ross (linguist)|Malcolm Ross]]; [[Terry Crowley (linguist)|Terry Crowley]] | year = 2002 | title = The Oceanic languages | location = Richmond, Surrey | publisher = Curzon | isbn = 978-0-7007-1128-4 | oclc = 48929366 }}</ref>
+<ref name=Jensen1977>{{cite book | last = Jensen | first = John Thayer | year = 1977 | title = Yapese Reference Grammar | location = Honolulu | publisher = University of Hawai‘i Press | isbn = 978-0-8248-0476-3 | oclc = 929721939}}</ref>
+}}
+
+==Bibliography==
+*Jensen, John Thayer. 1977. Yapese–English Dictionary. (PALI Language Texts: Micronesia.) Honolulu: University of Hawai‘i Press.
+
+==External links==
+{{Incubator|code=yap}}
+* [https://abvd.shh.mpg.de/austronesian/language.php?id=77 Yapese Wordlist at the Austronesian Basic Vocabulary Database]
+* [http://www.trussel2.com/yap/yap-b.htm Jensen Yapese Dictionary On-Line at www.trussel2.com]
+* [[hdl:10125/39972|Chepin yuu Waqab ('Events on Yap'). Yapese-language vernacular reader]]
+* [[hdl:10125/39969|Yaat nu Waqab ('Tales of Yap'). A Yapese-language vernacular reader]]
+* [[hdl:10125/39971|Thaaboeg (this title is a man's name). A Yapese-language vernacular reader]]
+* [[hdl:10125/39970|Written materials about Yapese plants and animals]] archived with Kaipuleohone 
+* [[hdl:10125/32622|Index cards of plant and animal names, labeled 'Carolines [animals].']] and [[hdl:10125/32623|index cards of plant and animal names, labeled 'Carolines [plants].']] 
+* Paradisec has two collections of [[Arthur Capell]]'s materials ([http://catalog.paradisec.org.au/collections/AC1 AC1], [http://catalog.paradisec.org.au/collections/AC2 AC2]), which include Yapese language materials 
+* Paradisec has [http://catalog.paradisec.org.au/collections/JTJ1 an open access collection of Yapese texts and a dictionary] from John Jensen  
+
+{{Languages of the Federated States of Micronesia}}
+{{Admiralty Islands languages}}
+{{Austronesian languages}}
+{{Oceania topic|Languages of}}
+
+[[Category:Yap]]
+[[Category:Oceanic languages]]
+[[Category:Languages of the Federated States of Micronesia]]

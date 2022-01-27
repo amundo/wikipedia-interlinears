@@ -1,0 +1,402 @@
+{{Infobox language
+|name=Tuscarora
+|nativename=''Ska꞉rù꞉ręʼ'' <br/> Skarò˙rə̨ˀ
+|familycolor=American
+|states=[[United States]]
+|region=[[Six Nations of the Grand River First Nation]] in southern [[Ontario]], [[Tuscarora Reservation, New York|Tuscarora Reservation]] in northwestern [[New York (state)|New York]], and eastern [[North Carolina]]
+|ethnicity=17,000 [[Tuscarora people]]<!--Ethn.16 specifies this as the US population, and it's still listed under the US, but the comment 'in the US' has been removed.  should verify, but unlikely Mithun would fail to count Canada.--> (1997)<ref name=e18>{{Ethnologue18|tus}}</ref>
+|extinct=2 December 2020
+|ref=
+|fam1=[[Iroquoian languages|Iroquoian]]
+|fam2=[[Northern Iroquoian languages|Northern]]
+|fam3=Lake Iroquoian
+|fam4=Tuscarora–Nottoway
+|iso3=tus
+|glotto=tusc1257
+|glottorefname=Tuscarora
+|map=Tuscarora lang.png|
+|mapcaption=Pre-contact distribution of Tuscarora
+|notice=IPA
+}}
+
+'''Tuscarora''', sometimes called '''{{Lang|tus|Skarò˙rə̨ˀ|italic=no}}''', was the [[Iroquoian languages|Iroquoian language]] of the [[Tuscarora (tribe)|Tuscarora people]], spoken in southern [[Ontario]], [[Canada]], North Carolina and northwestern [[New York (state)|New York]] around [[Niagara Falls]], in the [[United States]], before its extinction in late 2020.  The historic homeland of the Tuscarora was in eastern [[North Carolina]], in and around the [[Goldsboro, North Carolina|Goldsboro]], [[Kinston, North Carolina|Kinston]], and [[Smithfield, North Carolina|Smithfield]] areas.
+
+The name ''Tuscarora'' ({{IPAc-en|ˌ|t|ʌ|s|k|ə|ˈ|r|oʊr|ə}} {{respell|tus|kə|ROHR|ə}})<ref>{{OED|Tuscarora}}</ref> means "hemp people," after the [[Indian hemp]] or [[milkweed]], which they use in many aspects of their society. {{Lang|tus|Skarureh}} refers to the long shirt worn as part of the men's regalia, and so the name literally means "long shirt people."
+
+Tuscarora is recently [[extinct language|extinct]], the last fluent [[first language]] speaker having died in 2020. In the mid-1970s, 50 people spoke it on the [[Tuscarora Reservation, New York|Tuscarora Reservation]] ([[Lewiston, New York]]) and the [[Six Nations of the Grand River First Nation]] (near [[Brantford, Ontario]]). The [https://web.archive.org/web/20080210175746/http://www.nw.wnyric.org/tuscarora/tuscaroraschool/index.html Tuscarora School in Lewiston] has striven to keep Tuscarora alive as a [[heritage language]] by teaching children from pre-kindergarten to sixth grade. 
+
+The language can appear complex to those unfamiliar with it more in terms of its [[grammar]] than its sound system. Many ideas can be expressed in a single word.  Most words involve several components that must be considered. The language is written using mostly symbols from the [[Roman alphabet]], with some variations, additions, and [[diacritics]].
+
+==Phonology==
+===Vowels===
+
+Tuscarora has four oral vowels, one nasal vowel, and one diphthongc.  The vowels can be either short or long, which makes a total of eight [[oral vowel]]s, {{IPA|/i ɛ ɔ u iː ɛː ɔː uː/}}, and two [[nasal vowel]]s, {{IPA|/ə̃ ə̃ː/}}. Nasal vowels are indicated with an [[ogonek]], long vowels with either a following colon {{angbr| : }} or an [[interpunct]] {{angbr| · }}, and stressed vowels are marked with an [[acute accent]] {{angbr|ú}}. The pronunciation of unstressed short vowels varies between dialects, as shown in the following tables:
+{| class="wikitable" style=text-align:center
+|+ Eastern dialect
+|-
+! 
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| '''i''' {{IPA|/i/}} '''i:''' {{IPA|/iː/}}
+| 
+| '''u''' {{IPA|/u/}} '''u:''' {{IPA|/uː/}}
+|-
+! [[Close-mid vowel|Close-mid]]
+|
+| '''ę''' {{IPA|/ə̃/}} '''ę:''' {{IPA|/ə̃ː/}}
+|
+|-
+! [[Open-mid vowel|Open-mid]]
+| '''e''' {{IPA|/ɛ/}} '''e:''' {{IPA|/ɛː/}}
+|
+| '''a''' {{IPA|/ɔ/}} '''a:''' {{IPA|/ɔː/}}
+|}
+
+{| class="wikitable" style=text-align:center
+|+ Western dialect
+|-
+! 
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| '''i''' {{IPA|/ɪ/}} '''í''' {{IPA|/i/}} '''i:''' {{IPA|/iː/}}<br/> '''ę''' {{IPA|/ɪ̃/}}
+| 
+| '''ú''' {{IPA|/u/}} '''u:''' {{IPA|/uː/}}
+|-
+! [[Close-mid vowel|Close-mid]]
+|
+| '''ę́''' {{IPA|/ə̃/}} '''ę:''' {{IPA|/ə̃ː/}}
+| '''u''' {{IPA|/o/}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| '''e''' {{IPA|/ɛ/}} '''e:''' {{IPA|/ɛː/}}
+|
+| '''á''' {{IPA|/ɔ/}} '''a:''' {{IPA|/ɔː/}}
+|-
+! [[Open vowel|Open]]
+| '''é''' {{IPA|/æ/}}<br/> '''a''' {{IPA|/a/}}
+| 
+| 
+|}
+
+Thus in the official writing system of Tuscarora, the vowels are ''a e í u ę.''<ref>{{cite book |last1=Rudes |first1=Blair A. |title=Tuscarora-English/English-Tuscarora Dictionary |date=1999 |publisher=University of Toronto Press |isbn=0802043364 |pages=xxxvi-xxxvii |url=https://books.google.com/books?id=l-Kpy6WiOwoC&pg=PR36 |access-date=21 September 2019}}</ref> The marginal phonemes ''ą'' and ''o'' occur in loanwords.{{sfn|Rudes|1999|p=xxxv}}
+
+===Consonants===
+The Tuscarora language has ten symbols representing consonants, including three stops ({{IPA|/k/}}, {{IPA|/t/}}, and {{IPA|/ʔ/}}), three fricatives ({{IPA|/s/}}, {{IPA|/θ/}}, and {{IPA|/h/}}), a nasal ({{IPA|/n/}}), a rhotic ({{IPA|/ɾ/}}), and two glides ({{IPA|/w/}} and {{IPA|/j/}}).  These last four can be grouped together under the category of resonants. (Mithun Williams, 1976)  The range of sounds, though, is more extensive, with palatalization, aspiration, and other variants of the sounds, that usually come when two sounds are set next to each other.
+
+{| class="wikitable"
+|-
+!
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|- align=center
+! [[Nasal stop|Nasal]]
+|
+| '''n''' {{IPA|[n]}}
+|
+|
+|
+|- align=center
+! [[Stop consonant|Stop]]
+|
+| '''t''' {{IPA|[t]}}
+| ('''č''' {{IPA|t͡ʃ}})
+| '''k''' {{IPA|[k]}}
+| '''′/ʔ''' {{IPA|[ʔ]}}
+|- align=center
+! [[Fricative consonant|Fricative]]
+| '''θ''' {{IPA|[θ]}}
+| '''s''' {{IPA|[s]}}
+|
+|
+| '''h''' {{IPA|[h]}}
+|- align=center
+! [[Rhotic consonant|Rhotic]]
+|
+| '''r''' {{IPA|[ɾ]}}
+|
+|
+|
+|- align=center
+! [[Approximant consonant|Approximant]]
+|
+|
+| '''y''' {{IPA|[j]}}
+| '''w''' {{IPA|[w]}}
+|
+|}
+
+There may also be the phonemes {{IPA|/b/}} (written as ''p'') and {{IPA|/f/}} (written as ''f''), although they probably occur only in loan words<!--anyone know?-->. The phonemic consonant cluster {{IPA|/sj/}} is realized as a [[postalveolar]] fricative {{IPA|[ʃ]}}. The marginal phonemes ''l'' and ''m'' occur in loanwords.{{sfn|Rudes|1999|p=xxxv}}
+
+====Stops====
+Tuscarora has three stops: {{IPA|/t/}}, {{IPA|/k/}}, and {{IPA|/ʔ/}}; in their most basic forms: {{IPA|[t]}}, {{IPA|[k]}}, and {{IPA|[ʔ]}}.  {{IPA|[kʷ]}} could be considered separate, although it is very similar to {{IPA|/k/+/w/}}, and can be counted as a variant phonetic realization of these two sounds.  Each sound has specific changes that take place when situated in certain positions.  These are among the phonetic (automatic) rules listed below.  Since, in certain cases, the sounds {{IPA|[ɡ]}} and {{IPA|[d]}} are realized, a more extended list of the stops would be {{IPA|[t]}}, {{IPA|[d]}}, {{IPA|[k]}}, {{IPA|[ɡ]}}, and {{IPA|[ʔ]}}.  In the written system, however, only ''t, k,'' and'' ′ ''are used.  {{IPA|/k/}} is aspirated when it directly precedes another {{IPA|/k/}}.
+
+====Fricatives and affricates====
+The language has two or three fricatives: {{IPA|/s/}}, {{IPA|/θ/}}, and {{IPA|/h/}}.  {{IPA|/s/}} and {{IPA|/θ/}} are distinguished only in some dialects of Tuscarora.<ref>A Grammar of Tuscarora, by Marianne Mithun Williams, VI.C.1.b</ref> Both are pronounced {{IPA|[s]}}, but in some situations, {{IPA|/s/}} is pronounced {{IPA|[ʃ]}}. {{IPA|/h/}} is generally {{IPA|[h]}}. There is an affricate is {{IPA|/ts/}}.{{fix|text=is this the same as the {{IPA|t͡ʃ}}?}}
+
+====Resonants====
+Resonants are {{IPA|/n/}}, {{IPA|/ɾ/}}, {{IPA|/w/}}, {{IPA|/j/}}.  A rule (below) specifies pre-aspiration under certain circumstances.  The resonants can also become voiceless fricatives (as specified below).  A voiceless {{IPA|/n/}} is described as "a silent movement of the tongue accompanied by an audible escape of breath through the nose."<ref>A Grammar of Tuscarora, by Marianne Mithun Williams, VI.C.1.c</ref>  When {{IPA|/ɾ/}} becomes a voiceless fricative, it often sounds similar to {{IPA|/s/}}.
+
+===Automatic rules===
+*V = a vowel
+*C = a consonant
+*R = a resonant
+*<nowiki>#</nowiki> = the beginning or end of a word
+*Ø = sound is dropped
+
+{{IPA|/s/}} followed by {{IPA|/j/}} or sometimes {{IPA|/i/}} often becomes {{IPA|[ʃ]}}.
+
+Used here is a type of [[linguistics|linguistic]] notation.  Aloud, the first bullet point would read, "{{IPA|/s/}} becomes {{IPA|[ʃ]}} when preceded by {{IPA|/t/}}."
+
+*{{IPA|s → ʃ / t__ }}
+*{{IPA|θ → ts / __{j, i} }}
+*{{IPA|k → ɡ / __{w, j, ɾ, V} }}
+*{{IPA|t → d / __{w, j, ɾ, V} }}
+*{{IPA|{h, ʔ} → Ø / #__C }}
+*{{IPA|V → Vh / __# }}
+*{{IPA|k → kʰ / __k }}
+*{{IPA|k → kj / __e }}
+*{{IPA|i → j / __V{C, #} }}
+*{{IPA|{h+ʔ, ʔ+h} / h }}
+*{{IPA|R → hR / __{ʔ, h, #} }}
+*{{IPA|R → Rᶠ / __{h, ʔ, s, #} }}
+
+==Morphology==
+===Verbs===
+The basic construction of a [[verb]] consists of
+#prepronominal prefixes
+#pronominal prefixes
+#the verb base
+#aspect suffixes
+in that order.  All verbs contain at least a pronominal [[prefix]] and a verb base.
+
+====Prepronominal prefixes====
+These are the very first prefixes in a verb.  Prepronominal prefixes can indicate
+*[[Grammatical tense|tense]]
+*direction
+*location
+In addition, these can mark such distinctions as dualic, contrastive, partitive, and iterative.  According to [[Marianne Mithun|Marianne Mithun Williams]], it is possible to find some semantic similarities from the functions of prepronominal prefixes, but not such that each morpheme is completely explained in this way.
+
+====Pronominal prefixes====
+As it sounds, pronominal prefixes identify [[pronouns]] with regards to the verb, including person, number, and gender.  Since all [[verbs]] must have at least a subject, the pronominal prefixes identify the subject, and if the verb is [[transitive verb|transitive]], these prefixes also identify the object.  For example:
+
+Tuscarora word: {{Lang|tus|rà:weh}}<br>
+Translation: He is talking.<br>
+Breakdown: masculine + 'talk' + serial<br>
+The {{Lang|tus|rà}} is the masculine pronominal prefix, indicating that a male person is the subject of the sentence.
+
+On account of various changes in the evolution of the language, not all of the possible combinations of distinctions in person, number, and gender are made, and some pronominal prefixes or combinations thereof can represent several acceptable meanings.
+
+====Verb base====
+The verb base is, generally, exactly what it sounds like: it is the barest form of the verb.  This is a verb stem that consists solely of one verb root.
+
+Verb stems can be made of more than just a verb root.  More complex stems are formed by adding modifiers.  Roots might be combined with many different kinds of [[morphemes]] to create complicated stems.  Possibilities include reflexive, inchoative, reversive, intensifier, and distributive morphemes, instrumental, causative, or dative case markers, and also incorporated noun stems.  The base may be further complicated by ambulative or purposive morphemes.<ref name="ReferenceA">''Grammar Tuscarora'' by [[Marianne Mithun]] Williams</ref>
+
+====Aspect suffixes====
+Aspect suffixes are temporal indicators, and are used with all [[indicative]] verbs.  "Aspect" is with respect to duration or frequency; "tense" is with respect to the point in time at which the verb's action takes place.<ref name="ReferenceA"/>  Three different aspects can be distinguished, and each distinguished aspect can be furthermore inflected for three different tenses.  These are, respectively, punctual, serial, or perfective, and past, future, or indefinite.<ref name="ReferenceA"/><!-- Punctual, serial, and perfective mean.... -->
+
+===Nouns===
+[[Nouns]], like verbs, are composed of several parts.  These are, in this order:
+#the pronominal prefix
+#the noun stem
+#the nominal suffix
+
+Nouns can be divided two ways, formally and functionally, and four ways, into formal nouns, other functional nouns, possessive constructions, and attributive suffixes.
+
+====Formal nouns====
+=====Pronominal prefix and noun gender=====
+
+The pronominal prefix is very much like that in verbs.  It refers to who or what is being identified.  The prefixes vary according to the gender, number, and "humanness" of the noun.  Genders include:
+*neuter
+*masculine singular
+*feminine-indefinite human singular
+*indefinite human dual
+*indefinite human plural
+The prefixes are:
+*neuter
+**ò-
+**à:w-
+*masculine singular
+**ra-
+**r-
+*feminine-indefinite human singular
+**e-
+**ę́-
+*indefinite human dual nouns
+**neye-
+*indefinite human plural nouns
+**kaye-
+
+=====Noun stem=====
+Most stems are simple noun roots that are morphologically unanalyzable.  These can be referred to as "simplex stems."  More complex stems can be derived from verbs this is commonly done as: <br>
+(verb stem) + (nominalizing morpheme).<br>
+The process can be repeated multiple times, making more complex stems, but it is rarely the case that it is repeated too many times.
+
+=====Nominal suffix=====
+Most nouns end in the morpheme ''-eh''.  Some end in ''-aʔ'', ''-ęʔ'', or ''-ʔ''.
+
+====Other nominals====
+=====Other functional nominals=====
+
+In addition to the formal nouns mentioned above, clauses, verbs, and unanalyzable particles can also be classified as nominals.  Clausal nominals are such things as sentential subjects and compliments.  Verbal nominals usually describe their referents.
+
+Unanalyzable particles arise from three main sources which overlap somewhat.
+*[[onomatopoeia]]
+*onomatopoeia from other languages
+*other languages
+*verbal descriptions of referents
+Onomatopoeia, from Tuscarora or other languages, is less common than other words from other languages or verbal descriptions that turned to nominals.  In many cases a pronominal prefix has dropped off, so that only the minimal stem remains.
+
+=====Possessive constructions=====
+Ownership is divided into [[alienable and inalienable possession]], each of which type has its own construction.  An example of inalienable possession would be someone's body part—this cannot be disputed.  An example of alienable possession would be a piece of paper held by someone.
+
+=====Attributive suffixes=====
+Attributive suffixes come in many forms:
+*[[Adjective|adjectival]]
+*[[locative]]
+*characterizer
+*populative
+*customary
+*intensifier
+*decessive
+*[[diminutives]]
+*augmentives
+
+A [[diminutive]] indicates something smaller; an augmentive makes something bigger.  A simple example would be a diminutive suffix added to the word "cat" to form a word meaning "small cat."  A more abstract example would be the diminutive of "trumpet" forming "pipe."  Both diminutives and augmentives have suffixes that indicate both smallness and plurality.  A (certain) diminutive can be added to any functional nominal.  Augmentives usually combine with other morphemes, forming more specific stems.
+
+Attributive suffixes can be added to any word that functions as a nominal, even if it is a verb or particle.
+
+<!--
+===Unanalyzable particles===
+ -->
+
+==Syntax==
+===Word order===
+
+The basic word order in Tuscarora is [[Subject–verb–object|SVO]] (subject–verb–object), but this can vary somewhat and still form grammatical sentences, depending on who the agents and patients are. For example:<ref>''A Grammar of Tuscarora'' by Marianne Mithun (Williams)</ref>
+If two nouns of the same relative "status" are together in a sentence, the SVO word order is followed.  Such is the case, for example, in a noun-predicate-noun sentence in which both nouns are [[grammatical person|third person]] [[Zoic (linguistics)|zoic]] (non-human) singular.  If one is of a "superior" status, it can be indicated by a pronominal prefix, such as ''hra'', and as such SVO, VSO, ''and'' OSV are all grammatically correct.  The example given in ''Grammar Tuscarora'' is:
+*SVO
+{{interlinear
+|wí:rę:n wahrákęʔ tsi:r
+|William he-saw-it dog.|}}
+*VSO
+{{interlinear
+|wahrákęʔ wí:rę:n tsi:r
+|he-saw-it William dog.|}}
+*OSV
+{{interlinear
+|tsi:r wí:rę:n wahrákęʔ
+|dog William he-saw-it.|}}
+
+In all cases, the translation is "William saw a dog."  [[Marianne Mithun|Mithun]] writes:
+"[I]t is necessary but not sufficient to consider the syntactic [[case role]]s of major constituents.  In fact, the order of sentence elements is describable in terms of ''functional deviation from a syntactically defined basic order''." (Emphasis added.)
+
+A sentence that is ambiguous on basis of its containing too many ambiguous arguments is:
+{{interlinear
+|tsya:ts wahrá:nę:t kę:tsyęh
+|George he-fed-it fish
+|This could be translated either as "George fed the fish" or "George fed it fish."}}
+
+===Case===
+
+Tuscarora appears to be a [[nominative-accusative language]].
+Tuscarora has a [[Grammatical case|case]] system in which syntactic case is indicated in the verb.  The main verb of the sentence can indicate, for example, "[[aorist]]+[[Grammatical person|1st-person]]+objective+human+'[[Transitive verb|transitive-verb]]'+punctual+[[Dative case|dative]]."  (In this case, a sentence could be a single word long, as below in Noun Incorporation.) [[Objective case|Objective]] and [[Dative case|dative]] are indicated by [[morpheme]]s.
+
+===Noun incorporation===
+
+Tuscarora definitely incorporates nouns into verbs, as is evident from many examples on this page.  This is typical of a [[polysynthetic language]].  In Tuscarora, one long verb can be an entire sentence, including subject and object.  In fact, theoretically any number of arguments could be incorporated into a verb.  It is done by raising nominals realized as noun stems.  Datives are not incorporated.
+
+Examples are as follows:<ref name="ReferenceA"/>
+
+{{interlinear|number=a.|abbreviations=DUC:dualic
+|top= nękheyaʔtsiʔrá:’nihr
+|n + ę + k + h + ey + aʔ + tsiʔr + aʔn + ihr<br>
+|DUC + FUT + 1 + OBJ + HUM + REFL + 'fire' + 'set'<br>
+|"I'll set my fire on him." or "I'll sting him."}}
+
+{{interlinear|number=b.|abbreviations=PUNCT:punctual aspect
+|top= waʔkhetaʔnaratyáʔthahθ
+|waʔ + k + h + e + taʔnar + a + tyáʔt + hahθ
+|AOR + 1 + OBJ + HUM + 'bread' + joiner + 'buy' + DAT-PUNCT
+|"I bought her some bread."}}
+
+{{interlinear|number=c.
+|top= yoʔnaʔtshárhę
+|yo + ʔn-aʔ-tshár + h + ę
+|NHUM-OBJ + 'door' + 'cover' + PFV
+|"The door is closed."}}
+
+<!-- 
+===Switch reference===
+
+Tuscarora doesn't seem to have it.  If it does, please add a section or tell Lmelissa.
+ -->
+
+==Vocabulary examples==
+(From ''Grammar Tuscarora'' by [[Marianne Mithun Williams]].)
+
+{{Lang|tus|tswé:ʔn}}<br>
+{{IPA|[tʃwæʔṇ]}}<br>
+'hello'
+
+{{Lang|tus|stá:kwi:ʔ}}<br>
+{{IPA|[stɒ´ːkwiːʔ]}}<br>
+'high'
+
+{{Lang|tus|kè:rih}}<br>
+{{IPA|[kjæ´ːrih]}}<br>
+'I think'
+
+{{Lang|tus|ótkwareh}}<br>
+'blood'
+
+{{Lang|tus|otá:ʔnareh}}<br>
+'bread'
+
+==Relations==
+Tuscarora is a Northern Iroquoian language.  This branch of Iroquois includes [[Mohawk language|Mohawk]], [[Oneida language|Oneida]], [[Onondaga language|Onondaga]], [[Seneca language|Seneca]], and [[Cayuga language|Cayuga]] along with Tuscarora and its historic neighbor, [[Nottoway Tribe#Language|Nottoway]].   
+
+[[Wallace Chafe]] posits that a larger language, reconstructed as [[Proto-Northern-Iroquois]], broke off into [[Proto-Tuscarora-Cayuga]], and then broke off onto its own, having no further contact with Cayuga or any of the others.<ref>Chafe, Wallace. "How To Say They Drank In Iroquois". ''Extending the Rafters: Interdisciplinary Approaches To Iroquoian Studies'', ch. 17. State University of New York Press, 1984.</ref> 
+
+However, Lounsbury (1961:17) classed Tuscarora, along with Laurentian, Huron-Wyandot, and Cherokee as the "peripheral" Iroquoian languages—in distinction to the five "inner languages" of the Iroquois proper.  Blair Rudes, who did extensive scholarship on Tuscarora and wrote a Tuscarora dictionary, concurred with Lounsbury, adding Nottoway and Susquehannock (which Lounsbury ignored in his comparisons) to the list of "peripheral" Iroquoian languages.<ref>{{cite journal |last1=Rudes |first1=Blair A. |title=A Sketch of the Nottoway Language from a Historical-Comparative Perspective |journal=International Journal of American Linguistics |date=January 1981 |volume=47 |issue=1 |pages=27–49 |doi=10.1086/465672|s2cid=145679705 }}</ref>
+
+==Bibliography==
+*Rudes, Blair A. (1999). ''Tuscarora-English / English-Tuscarora Dictionary''. Toronto, Ontario, Canada: University of Toronto Press.
+*Rudes, Blair A., and Dorothy Crouse (1987). ''The Tuscarora Legacy of [[J. N. B. Hewitt]]: Materials for the Study of Tuscarora Language and Culture''. Canadian Museum of Civilization, Mercury Series, Canadian Ethnology Service Paper No. 108.
+*Williams, Marianne Mithun (1976). ''A Grammar of Tuscarora''.  Garland studies in American Indian Linguistics.
+
+==See also==
+*[[Tuscarora (tribe)]]
+
+==References==
+<references />
+
+==External links==
+*[https://web.archive.org/web/20080111040339/http://www.nw.wnyric.org/tuscarora/tuscaroraschool/tuscaror.htm Tuscarora Language] at the Tuscarora School
+*[http://www.languagegeek.com/rotinonhsonni/tuscarora.html Language Geek: Tuscarora]
+*[https://groups.yahoo.com/group/Tuscarora-Language/ Tuscarora Language Learning Yahoo! Group]
+*[https://web.archive.org/web/20130302035051/https://www.amphilsoc.org/exhibit/natamaudio/tuscarora Tuscarora Language Audio Clips], and list of collections
+
+{{Iroquoian languages}}
+{{Languages of Canada}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Tuscarora Language}}
+[[Category:Tuscarora|+]]
+[[Category:Northern Iroquoian languages]]
+[[Category:Indigenous languages of the North American eastern woodlands]]
+[[Category:Indigenous languages of the North American Southeast]]
+[[Category:First Nations languages in Canada]]
+[[Category:Languages of the United States]]
+[[Category:Endangered languages]]
+[[Category:Languages of New York (state)]]
+[[Category:Languages of North Carolina]]

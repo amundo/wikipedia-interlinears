@@ -1,0 +1,523 @@
+{{short description|Language in which certain pronouns may sometimes be omitted}}
+{{Multiple issues|
+{{original research|date=December 2016}}
+{{refimprove|date=December 2016}}
+}}
+
+{{Linguistic typology topics}}
+A '''pro-drop language''' (from "pronoun-dropping") is a [[language]] where certain classes of [[pronoun]]s may be omitted when they can be [[pragmatics|pragmatically]] or grammatically [[inference|inferable]]. The precise conditions vary from language to language, and can be quite intricate. The phenomenon of "pronoun-dropping" is part of the larger topic of [[zero (linguistics)|zero]] or null [[anaphora (linguistics)|anaphora]].<ref>{{Cite journal|last=Welo|first=Eirik|title=Null Anaphora|url=http://referenceworks.brillonline.com/entries/encyclopedia-of-ancient-greek-language-and-linguistics/*-COM_00000254|journal=Encyclopedia of Ancient Greek Language and Linguistics|language=en|doi=10.1163/2214-448x_eagll_com_00000254}}</ref> The connection between pro-drop languages, and null anaphora relates to the fact that a dropped pronoun has referential properties, and so is crucially not a null [[dummy pronoun]].
+
+Pro-drop is only licensed in languages that have a positive setting of the pro-drop parameter, which allows the null element to be identified by its governor.<ref>{{Cite book|title=Routledge Dictionary of Language and Linguistics|doi=10.4324/9780203980057|year=2006|last1=Bussmann|first1=Hadumod|isbn=9780203980057}}</ref>
+
+Pro-drop is a problem when translating to a non-pro-drop language such as English, which requires the pronoun to be picked up, especially noticeable in [[machine translation]].<ref name=":5">{{Cite journal|last=Wang|first=Longyue|last2=Tu|first2=Zhaopeng|last3=Zhang|first3=Xiaojun|last4=Liu|first4=Siyou|last5=Li|first5=Hang|last6=Way|first6=Andy|last7=Liu|first7=Qun|date=2017-06-01|title=A novel and robust approach for pro-drop language translation|url=https://doi.org/10.1007/s10590-016-9184-9|journal=Machine Translation|language=en|volume=31|issue=1|pages=65–87|doi=10.1007/s10590-016-9184-9|issn=1573-0573}}</ref> Amongst other reasons, it can also pose a problem with respect to transfer errors and second language acquisition.{{cn|date=December 2021}}
+
+Non-pro-drop is an [[areal feature]] of many northern European languages (see [[Standard Average European]]), including [[French language|French]], (standard) [[German language|German]], [[English language|English]]<ref>Martin Haspelmath, [http://www.anglistik.uni-freiburg.de/seminar/abteilungen/sprachwissenschaft/ls_kortmann/Courses/Kortmann/Variation/index_html/2008-05-27.8724094854 ''The European linguistic area: Standard Average European''], in Martin Haspelmath, ''et al.'', ''Language Typology and Language Universals'', vol. 2, 2001, pp. 1492-1510</ref> and [[Emilian language|Emilian]].<ref>Fabio Foresti, [http://www.treccani.it/enciclopedia/dialetti-emiliano-romagnoli_(Enciclopedia-dell%27Italiano)/ ''Dialetti emiliano-romagnoli''], Enciclopedia Treccani</ref> In contrast, [[Japanese language|Japanese]],<ref name=":6">{{Cite journal|last=Zushi|first=Mihoko|date=2003-04-01|title=Null arguments: the case of Japanese and Romance|url=https://www.sciencedirect.com/science/article/pii/S0024384102000852|journal=Lingua|series=Formal Japanese syntax and universal grammar: the past 20 years|language=en|volume=113|issue=4|pages=559–604|doi=10.1016/S0024-3841(02)00085-2|issn=0024-3841}}</ref> [[Mandarin language|Mandarin]], [[Slavic languages]],<ref>{{cite book |last=Kordić |first=Snježana |author-link=Snježana Kordić |language=de |title=Wörter im Grenzbereich von Lexikon und Grammatik im Serbokroatischen |trans-title=Serbo-Croatian Words on the Border Between Lexicon and Grammar |series=Studies in Slavic Linguistics ; 18 |location=Munich |publisher=Lincom Europa |year=2001 |pages=10–12 |isbn=978-3-89586-954-9 |lccn=2005530313 |oclc=47905097 |ol=2863539W |id={{CROSBI|426497}}}} [https://www.webcitation.org/6A80Mj8Bf?url=http://www.snjezana-kordic.de/Summary_Worter.pdf Summary].</ref> [[Finno-Ugric languages]] and [[Hebrew language|Hebrew]]<ref>{{Cite journal|last=Shlonsky|first=Ur|date=2009|title=Hebrew as a partial null-subject language*|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9582.2008.01156.x|journal=Studia Linguistica|language=en|volume=63|issue=1|pages=133–157|doi=10.1111/j.1467-9582.2008.01156.x|issn=1467-9582}}</ref> exhibit frequent pro-drop features. While [[Hindi]],<ref name=":2">{{Cite journal|last=Butt|first=Miriam|date=2001-01-01|title=Case, Agreement, Pronoun Incorporation and Pro-Drop in South Asian Languages|url=https://www.researchgate.net/publication/228599742_Case_Agreement_Pronoun_Incorporation_and_Pro-Drop_in_South_Asian_Languages}}</ref> [[Greek language|Greek]] and some Romance languages, such as [[Spanish language|Spanish]] and European Portuguese, have the ability to pro-drop any and all arguments.
+
+==History of the term==
+The term "pro-drop" stems from [[Noam Chomsky]]'s "Lectures on Government and Binding" from 1981 as a cluster of properties of which "[[null subject]]" was one (for the occurrence of ''pro'' as a [[Predicate (grammar)|predicate]] rather than a [[subject (grammar)|subject]] in sentences with the [[copula (linguistics)|copula]] see Moro 1997).{{cn|date=December 2017}} 
+
+Thus, a one-way correlation was suggested between [[agreement (linguistics)|inflectional agreement]] (AGR) and empty pronouns on the one hand and between no agreement and overt pronouns, on the other. In the classical version, languages which not only lack agreement morphology but also allow extensive dropping of pronouns—such as Japanese, Chinese, Korean, and Vietnamese—are not included, as is made clear in a footnote: "The principle suggested is fairly general, but does not apply to such languages as Japanese in which pronouns can be missing much more freely."<ref>{{Cite book|last=Chomsky|first=Noam|url=https://www.degruyter.com/document/doi/10.1515/9783110884166/html|title=Lectures on Government and Binding|date=2010-12-14|publisher=De Gruyter Mouton|isbn=978-3-11-088416-6|language=en|doi=10.1515/9783110884166/html}}</ref> (Chomsky 1981:284, fn 47).
+
+The term pro-drop is also used in other frameworks in [[generative grammar]], such as in [[lexical functional grammar]] (LFG), but in a more general sense: "Pro-drop is a widespread linguistic phenomenon in which, under certain conditions, a structural NP may be unexpressed, giving rise to a pronominal interpretation."<ref>{{Cite book|last=Bresnan|first=Joan|title=The Mental Representation of Grammatical Relations|publisher=[[MIT Press]]|year=1982|isbn=9780262021586|pages=384|language=English}}</ref> (Bresnan 1982:384).
+
+The [[empty category]] assumed (under [[government and binding theory]]) to be present in the vacant subject position left by pro-dropping is known as ''pro'', or as "[[little pro]]" (to distinguish it from "[[big PRO]]", an empty category associated with [[non-finite verb]] phrases).<ref>R.L. Trask, ''A Dictionary of Grammatical Terms in Linguistics'', Routledge 2013, p. 218.</ref>
+
+==Cross-linguistic variation==
+It has been observed that pro-drop languages are those with either rich inflection for person and number (Persian, Polish, Portuguese, etc.) or no such inflection at all (Japanese, Chinese, Korean, etc.), but languages that are intermediate (English, French, etc.) are non-pro-drop.
+
+While the mechanism by which overt pronouns are more "useful" in English than in Japanese is obscure, and there are exceptions to this observation, it still seems to have considerable descriptive validity. As Huang puts it, "Pro-drop is licensed to occur either where a language has full agreement, or where a language has no agreement, but not where a language has impoverished partial agreement."<ref>Huang, C.-T. James. "On the distribution and reference of empty pronouns". ''Linguistic Inquiry'' 15: 531-574. 1984.</ref>
+
+In pro-drop languages with a highly inflected verbal morphology, the expression of the subject pronoun is considered unnecessary because the verbal inflection indicates the person and number of the subject, thus the referent of the null subject can be inferred from the grammatical inflection on the verb. <ref name=":0">{{Cite journal|last=Flores-Ferrán|first=Nydia|date=2007-11-01|title=A Bend in the Road: Subject Personal Pronoun Expression in Spanish after 30 Years of Sociolinguistic Research|journal=Language and Linguistics Compass|language=en|volume=1|issue=6|pages=624–652|doi=10.1111/j.1749-818X.2007.00031.x|issn=1749-818X}}</ref>
+
+Barbosa defines these typological patterns as [[Null-subject language|null-subject languages]] (NSL), expressing that the term itself, pro-drop, can be subcategorized into categories such as: topic (discourse) pro-drop, partial NSL (partial pro-drop) and consistent NSL (full pro-drop).<ref>{{cite journal |last1=Barbosa |first1=Pilar P. |title=pro as a Minimal nP: Toward a Unified Approach to Pro-Drop |journal=Linguistic Inquiry |date=1 June 2019 |volume=50 |issue=3 |pages=487–526 |doi=10.1162/ling_a_00312doi.org/10.1162/ling_a_00312 |url=https://direct.mit.edu/ling/article-abstract/50/3/487/726/pro-as-a-Minimal-nP-Toward-a-Unified-Approach-to?redirectedFrom=fulltext |access-date=12 December 2021}}</ref>
+
+==Topic pro-drop languages==
+In everyday speech there are instances when who or what is being referred to — namely, the topic of the sentence — can be inferred from context. Languages which permit the pronoun to be inferred from contextual information are called topic-drop (also known as discourse pro-drop) languages: thus, topic pro-drop languages allow referential pronouns to be omitted, or be [[phonology|phonologically]] null. (In contrast, languages that lack topic pro-drop as a mechanism would still require the pronoun.)These dropped pronouns can be inferred from previous discourse, from the context of the conversation, or generally shared knowledge.<ref>{{Cite journal|last=Jung|first=Euen Hyuk (Sarah)|date=2004|title=Topic and Subject Prominence in Interlanguage Development|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9922.2004.00284.x|journal=Language Learning|language=en|volume=54|issue=4|pages=713–738|doi=10.1111/j.1467-9922.2004.00284.x|issn=1467-9922}}</ref>  Among major languages, some which might be called topic pro-drop languages are [[Japanese language|Japanese]],<ref name=":6" /><ref name=":4">{{Cite journal|last=O'Grady|first=William|last2=Yamashita|first2=Yoshie|last3=Cho|first3=Sookeun|date=2008|title=Object Drop in Japanese and Korean|url=https://www.jstor.org/stable/20462508|journal=Language Acquisition|volume=15|issue=1|pages=58–68|issn=1048-9223}}</ref> [[Korean language|Korean]],<ref name=":4" /> and [[Mandarin Chinese|Mandarin]].<ref>{{Cite journal|last=Li|first=Yen-Hui Audrey|date=2014-11-01|title=Born empty|url=https://www.sciencedirect.com/science/article/pii/S0024384113002301|journal=Lingua|series=Structural Approaches to Ellipsis|language=en|volume=151|pages=43–68|doi=10.1016/j.lingua.2013.10.013|issn=0024-3841}}</ref> [[Topic-prominent language|Topic prominent languages]] like Korean, Mandarin and Japanese have structures which focus more on topics and comments as opposed to English, a subject-prominent language.<ref>Li, Charles & Thompson, Sandra. (1976). Subject and Topic: A New Typology of Language. Subject and Topic. </ref> It is this topic-first nature that enables the inference of omitted pronouns from discourse.
+
+=== Korean ===
+The following example from Jung (2004:719) Korean shows the omission both pronouns in the subject and object position.
+
+{{fs interlinear|lang=kr|indent=3
+| 네   이것   필요하니?
+|ne ikes philyohani?
+|you this need
+|Do you need this?}}
+
+{{fs interlinear|indent=3
+|필요하니
+|philyohani.
+|need
+|('''I''') need ('''it''').<ref>{{Cite journal|last=Jung|first=Euen Hyuk (Sarah)|date=2004|title=Topic and Subject Prominence in Interlanguage Development|url=https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1467-9922.2004.00284.x|journal=Language Learning|language=en|volume=54|issue=4|pages=713–738|doi=10.1111/j.1467-9922.2004.00284.x|issn=1467-9922}}</ref>}}
+
+=== Japanese ===
+
+Consider the following examples from Japanese:<ref name=":5" />
+
+{{fs interlinear|lang=ja|indent=3
+|この ケーキ は 美味しい。 誰 が 焼いた の？
+|Kono kēki wa oishii. Dare ga yaita no?
+|This cake TOP tasty-PRS Who SUBJ bake-PAST Q
+|This cake is tasty. Who baked ('''it''')?}}
+
+{{fs interlinear|lang=ja|indent=3
+|知らない。 気に入った？
+|Shiranai. {Ki ni itta?}
+|know-NEG. like-PAST
+|('''I''') don't know. Did ('''you''') like ('''it''')?}}
+
+The words in parentheses and '''bold'''face in the English translations (''it'' in the first line; ''I'', ''you'', and ''it'' in the second) appear nowhere in the Japanese sentences but are understood from context. If nouns or pronouns were supplied, the resulting sentences would be grammatically correct but sound unnatural. Learners of Japanese as a second language, especially those whose first language is non-pro-drop like English or French, often supply personal pronouns where they are pragmatically inferable, an example of [[language transfer]].
+
+=== Mandarin ===
+
+The above-mentioned examples from Japanese are readily rendered into Mandarin:
+
+{{fs interlinear|lang=zh|indent=3|glossing=no abbr
+|这 块 蛋糕 很 好吃。 谁 烤 的?
+|Zhè kuài dàngāo hěn hǎochī. Sheí kǎo de?
+|This piece cake DEGREE tasty. Who bake MODIFY
+|This cake is tasty. Who baked ('''it''')?}}
+
+{{fs interlinear|lang=ja|indent=3
+|不 知道。 喜欢 吗?
+|Bù zhīdào. Xǐhuan ma?
+|Not know. like Q
+|('''I''') don't know. Do ('''you''') like ('''it''')?}}
+
+Unlike in Japanese, the inclusion of the dropped pronouns does not make the sentence sound unnatural.
+
+
+==Partial pro-drop languages==
+{{main article|Null-subject language}}
+Languages with partial pro-drop have both agreement and referential null subjects that are restricted with respect to their distribution.<ref>{{cite journal |last1=Barbosa |first1=Pilar P. |title=pro as a Minimal nP: Toward a Unified Approach to Pro-Drop |journal=Linguistic Inquiry |date=1 June 2019 |volume=50 |issue=3 |doi=10.1162/ling_a_00312doi.org/10.1162/ling_a_00312 |url=https://direct.mit.edu/ling/article-abstract/50/3/487/726/pro-as-a-Minimal-nP-Toward-a-Unified-Approach-to?redirectedFrom=fulltext |access-date=12 December 2021}}</ref> These partial [[Null-subject language|null-subject languages]] include most Balto-Slavic languages, which allow for the deletion of the subject pronoun. Colloquial and [[German dialects|dialectal German]], unlike the standard language, are also partially pro-drop; they typically allow deletion of the subject pronoun in [[main clause]]s without [[inversion (linguistics)|inversion]], but not otherwise. Hungarian allows deletion of both the subject and object pronouns.
+
+=== Slavic languages ===
+
+The following table provides examples of subject pro-drop in  [[Slavic languages]]. In each of these examples, the 3rd person masculine singular pronoun 'he' in the second sentence is inferred from context.
+{| class="wikitable"
+|+Subject pro-drop in Slavic languages
+!language
+!
+!
+|-
+|[[Belarusian language|Belarusian]]
+|''Бачу [яго].'' 
+|''Ідзе.''
+|-
+|[[Bulgarian language|Bulgarian]]
+|''Виждам го.''
+|''Идва.''
+|-
+|[[Croatian language|Croatian]]
+|''Vidim ga.''
+|''Dolazi.''
+|-
+|[[Romanian language|Czech]]
+|''Vidím ho.''
+|''Jde.''
+|-
+|[[Catalan language|Macedonian]]
+|''Го гледам.''
+|''Доаѓа.''
+|-
+|[[Polish language|Polish]]
+|''Widzę go.''
+|''Idzie.''
+|-
+|[[Russian language|Russian]] 
+|''Вижу [его].''
+| ''Идёт.''
+|-
+|[[Serbian language|Serbian]]
+|''Видим га.''
+| ''Долази.''
+|-
+|[[Slovene language|Slovene]]
+|''Vidim ga.''
+|''Prihaja.''
+|-
+|[[Ukrainian language|Ukrainian]]
+|''Бачу [його].''
+| ''Іде.''
+|-
+|
+|'''<nowiki/>'I''' see him.'
+|'('''He''') is coming.'
+|}
+In the East Slavic languages even the objective pronoun "'''его'''" can be omitted in the present and future tenses (both imperfect and perfective). In these languages, the missing pronoun is not inferred strictly from pragmatics, but partially indicated by the morphology of the verb (Виж'''у''', Виж'''дам''', Widz'''ę''', Vid'''im''', etc...).  However, the past tense of both imperfective and perfective in modern East Slavic languages inflects by gender and number rather than the person due to the fact that the present tense conjugations of the copula "to be" (Russian ''быть'', Ukrainian ''бути'', Belorussian ''быць'') have practically fallen out of use. As such, the pronoun is often included in these tenses, especially in writing.
+
+===Finno-Ugric languages===
+
+In [[Finnish language|Finnish]], the verb inflection replaces first and second person pronouns in simple sentences, e.g. ''menen'' "I go", ''menette'' "all of you go". Pronouns are typically left in place only when they need to be inflected, e.g. ''me'' "we", ''meiltä'' "from us".  There are [[possessive pronoun]]s, but [[possessive suffix]]es, e.g. ''-ni'' as in ''kissani'' "my cat", are also used, as in ''Kissani söi kalan'' ("my cat ate a fish"). A peculiarity of [[colloquial Finnish]] is that the pronoun ''me'' ("we") can be dropped if the verb is placed in the passive voice (e.g. ''haetaan'', standard "it is fetched", colloquial "we fetch"). In the [[Estonian language]], a close relative of Finnish, the tendency is less clear. It generally uses explicit personal pronouns in the literary language, but these are often omitted in colloquial Estonian.
+
+[[Hungarian language|Hungarian]] is also pro-drop, subject pronouns are used only for emphasis, as example ''(Én) mentem'' "I went", and because of the definite conjugation, object pronouns can be often elided as well; for example, the question ''(Ti) látjátok a macskát?'' "Do (you pl.) see the cat?" can be answered with just ''látjuk'' "(We) see (it)", because the definite conjugation renders the object pronoun superfluous.
+
+===Hebrew===
+
+Modern [[Hebrew]], like [[Biblical Hebrew]], is a "moderately" pro-drop language. In general, subject pronouns must be included in the present tense. Since Hebrew has no verb forms expressing the present tense, the present tense is formed using the present participle (somewhat like English ''I am '''guarding'''''). The participle in Hebrew, as is the case with other adjectives, declines only in grammatical gender and number (like the ''past'' tense in Russian), thus:
+
+:I (m.) guard (''ani shomer'') = {{Script/Hebrew|אני שומר}}
+
+:You (m.) guard (''ata shomer'') = {{Script/Hebrew|אתה שומר}}
+
+:He guards (''hu shomer'') = {{Script/Hebrew|הוא שומר}}
+
+:I (f.) guard (''ani shomeret'') = {{Script/Hebrew|אני שומרת}}
+
+:We (m.) guard (''anachnu shomrim'') = {{Script/Hebrew|אנחנו שומרים}}
+
+Since the forms used for the present tense lack the distinction between grammatical persons, explicit pronouns must be added in the majority of cases.
+
+In contrast, the past tense and the future tense the verb form is inflected for person, number, and gender. Therefore, the verb form itself indicates sufficient information about the subject. The subject pronoun is therefore normally dropped, except in third-person.<ref>{{Cite journal|last=Hacohen|first=Gonen|last2=Schegloff|first2=Emanuel A.|date=2006-08-01|title=On the preference for minimization in referring to persons: Evidence from Hebrew conversation|journal=Journal of Pragmatics|series=Focus-on Issue: Discourse and Conversation|volume=38|issue=8|pages=1305–1312|doi=10.1016/j.pragma.2006.04.004}}</ref>
+
+: I (m./f.) guarded (''shamarti'') = {{Script/Hebrew|שמרתי}}
+
+:You (m. pl.) guarded (''sh'martem'') = {{Script/Hebrew|שמרתם}}
+
+:I (m./f.) will guard (''eshmor'') = {{Script/Hebrew|אשמור}}
+
+:You (pl./m.) will guard (''tishm'ru'') = {{Script/Hebrew|תשמרו}}
+
+Many nouns can take suffixes to reflect the possessor, in which case the personal pronoun is dropped. In daily modern Hebrew usage, the inflection of nouns is common only for some nouns, and in most cases, inflected possessive pronouns are used. In Hebrew, possessive pronouns are treated mostly like adjectives and follow the nouns which they modify. In biblical Hebrew, inflection of more sophisticated nouns is more common than in modern usage.
+
+== Full pro-drop languages ==
+Full pro-drop languages, also known as consistent NSLs, are languages that are characterized by rich subject agreement morphology where subjects are freely dropped under the appropriate discourse conditions.<ref>{{cite journal |last1=Barbosa |first1=Pilar P. |title=pro as a Minimal nP: Toward a Unified Approach to Pro-Drop |journal=Linguistic Inquiry |date=1 June 2019 |volume=50 |issue=3 |pages=487–526 |doi=10.1162/ling_a_00312doi.org/10.1162/ling_a_00312 |url=https://direct.mit.edu/ling/article-abstract/50/3/487/726/pro-as-a-Minimal-nP-Toward-a-Unified-Approach-to?redirectedFrom=fulltext |access-date=12 December 2021}}</ref> In some contexts, pro-drop in these languages is mandatory and also occurs in contexts in which pro-drop cannot happen for partial pro-drop languages.<ref>{{cite journal |last1=Barbosa |first1=Pilar P. |title=pro as a Minimal nP: Toward a Unified Approach to Pro-Drop |journal=Linguistic Inquiry |date=1 June 2019 |volume=50 |issue=3 |pages=487–526 |doi=10.1162/ling_a_00312doi.org/10.1162/ling_a_00312 |url=https://direct.mit.edu/ling/article-abstract/50/3/487/726/pro-as-a-Minimal-nP-Toward-a-Unified-Approach-to?redirectedFrom=fulltext |access-date=12 December 2021}}</ref> The following languages exhibit full pro-drop in their own distinct ways.
+
+=== Hindi ===
+South Asian languages such as [[Hindi]], in general, have the ability to pro-drop any and all arguments.<ref name=":2">{{Cite journal|last=Butt|first=Miriam|date=2001-01-01|title=Case, Agreement, Pronoun Incorporation and Pro-Drop in South Asian Languages|url=https://www.researchgate.net/publication/228599742_Case_Agreement_Pronoun_Incorporation_and_Pro-Drop_in_South_Asian_Languages}}</ref> Hindi is a [[Split ergativity|split-ergative]] language and when the subject of the sentence is in the ergative case (also when the sentence involves the infinitive participle, which requires the subject to be in the dative case<ref name=":3">Bhatt, Rajesh (2003). Experiencer subjects. Handout from MIT course “Structure of the Modern Indo-Aryan Languages”.</ref>), the verb of the sentence agrees in gender and number with the object of the sentence, hence making it possible to drop the object since it can be contextually inferred from the gender of the verb. 
+
+In the example below, the subject is in the [[ergative case]] and the verb agrees in [[Grammatical number|number]] and [[Grammatical gender|gender]] with the direct object.
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+ {{fs interlinear|lang=hi|glossing=link
+ |तुमने {नाद्या को} खाना दिया?
+ |tumne {nādyā ko} khānā diyā?
+ |you.ERG nadya.DAT.FEM food.NOM.MASC give.PFV.PTCP.MASC.SG
+ |"Did you give the food to Nadya?"}}
+{{Col-2}}
+ {{fs interlinear|lang=hi|glossing=link
+ |हाँ दे दिया।|hā̃ de diyā.
+ |yes give give.PFV.PTCP.MASC.SG
+ |"yes, ('''I''')'' gave ''('''her food''')."}}
+{{Col-end}}
+</blockquote>
+
+In the example below, the subject is in the [[dative case]] and the verb agrees in [[Grammatical number|number]] and [[Grammatical gender|gender]] with the direct object.
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+ {{fs interlinear|lang=hi|glossing=link
+ |तुम्हें खानी हैं ये चीज़ें?
+ |tumhẽ khānī ha͠i ye chīzẽ?
+ |you.DAT eat.INF.PTCP.FEM.PL be.3PL these.NOM.PL things.NOM.FEM.PL
+ |"Do you want to eat these things?"}}
+{{Col-2}}
+ {{fs interlinear|lang=hi|glossing=link
+ |हाँ खानी हैं।|hā̃ khānī ha͠i.
+ |yes eat.INF.PTCP.FEM.PL be.3PL
+ |"yes, ('''I''') want to."}}
+{{Col-end}}
+</blockquote>
+
+In the example below, the subject is in the nominative case and the verb agrees in [[Grammatical number|number]], [[Grammatical gender|gender]], and also in [[Grammatical person|person]] with the subject.
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+ {{fs interlinear|lang=hi|glossing=link
+ |चलोगी देखने फ़िल्म?
+ |chalogī dekhne film?
+ |go.2SG.FUT.FEM watch.INF.OBL film.FEM
+ |"will ('''you'''.{{gcl|FEM|feminine gender}}) go watch a film ''(with '''me''')''?"}}
+{{Col-2}}
+ {{fs interlinear|lang=hi|glossing=link
+ |हाँ चलूँगी।
+ |hā̃ chalū̃gī.
+ |yes go.1SG.FUT.FEM
+ |"yes, ('''I'''.{{gcl|FEM|feminine gender}}) will go."}}
+{{Col-end}}
+</blockquote>
+
+=== Greek ===
+
+Subject pronouns are usually omitted in [[Greek language|Greek]], but the verb is inflected for the person and number of the subject. Example:
+
+{{interlinear|indent=3
+|Βλέπεις εκείνο το κούτσουρο; Θα ήταν καλό για τη φωτιά. Είναι τελείως ξερό.
+|see.2sg that the log? Would be.3sg good for the fire. be.pres.3sg completely dried
+|('''You''') see this log? ('''It''') would be good for the fire. ('''It''') has completely dried.}}
+
+=== Romance languages ===
+
+Like their parent [[Latin language]], most [[Romance language]]s (with the notable exception of French) are categorised as pro-drop as well, though generally only in the case of subject pronouns. Unlike in Japanese, however, the missing subject pronoun is not inferred strictly from pragmatics, but partially indicated by the [[morphology (linguistics)|morphology]] of the verb, which inflects for person and number of the subject. Spanish, Italian, Catalan, Occitan and Romanian can [[elision|elide]] subject pronouns only (Portuguese sometimes elides object pronouns as well), and they often do so even when the referent has not been mentioned. This is helped by person/number [[inflection]] on the verb. 
+
+====Spanish====
+In Spanish, the verb is inflected for both person and number, thus expression of the pronoun is unnecessary because it is grammatically redundant.<ref name=":0" /> In the following example, the inflection on the verb ''ver,'' 'see', signals informal 2nd person singular, thus the pronoun is dropped. Similarly, from both the context and verbal morphology, the listener can infer that the second two utterances are referring to the log, so the speaker omits the pronoun that would appear in English as "it." 
+ 
+{{interlinear|indent=3
+|¿Ves este tronco? Sería bueno para la fogata. Está completamente seco.
+|See this log? {Would be} good for the campfire. Is completely dry
+|(Do) ('''you''') see this log? ('''It''') would be good for the campfire. ('''It''') is completely dry}}
+
+Although Spanish is predominantly a pro-drop language, not all grammatical contexts allow for a null pronoun. There are some environments that require an overt pronoun. In contrast, there are also grammatical environments that require a null pronoun. According to the ''Real Academia Española'', the expression or elision of the subject pronoun is not random. Rather there are contexts in which an overt pronoun is abnormal, while in other cases the overt pronoun is possible or even required.<ref name=":1">{{Cite web|url=http://buscon.rae.es/dpd/srv/search?id=seEVswKc5D6y2K5WFZ|title=Pronombre Personales Tónicos|date=2005|website=Diccionario Panhispánico de Dudas|publisher=Real Academia Española}}</ref> Further, the examples below illustrate how overt pronouns in Spanish are not constrained by inflectional morphology. The pronoun ''nosotros'' can be either present or absent, depending on certain discourse conditions:<ref>{{Cite book|last=Camacho|first=Jose A.|url=http://ebooks.cambridge.org/ref/id/CBO9781139524407|title=Null Subjects|date=2013|publisher=Cambridge University Press|isbn=978-1-139-52440-7|location=Cambridge|doi=10.1017/cbo9781139524407}}</ref>
+
+{{interlinear|indent=3
+|Salimos
+|left
+|“We left.”}}
+
+{{interlinear|indent=3
+|Nosotros salimos.
+|We       left
+|“We left.”}}
+
+The third person pronouns (''él, ella, ellos'', ''ellas'') in most contexts can only refer to persons. Therefore, when referring to things (that are not people) an explicit pronoun is usually disallowed.<ref name=":1" />
+
+Subject pronouns can be made explicit when used for a contrastive function or when the subject is the focus of the sentence. In the following example, the first person explicit pronoun is used to emphasize the subject.
+
+{{interlinear|indent=3
+|Yo [y no tú u otra persona] creo que eso estuvo mal.
+|I [and not you or another person] think that that was wrong.
+|}}
+  
+Subject pronouns can also be made explicit in order to clarify ambiguities that arise due to verb forms that are homophonous in the first person and third person. For example, in the past imperfect, conditional, and the subjunctive, the verb forms are the same for first person singular and third person singular. In these situations, using the explicit pronoun ''yo'' (1st person singular) or ''él, ella'' (3rd person singular) clarifies who the subject is, since the verbal morphology is ambiguous.<ref name=":1" />
+
+====Italian====
+
+{{interlinear|indent=3
+|Vedi questo tronco? Andrebbe bene per bruciare. È completamente secco.
+|See this log? {Would go} well for burning. Is completely dry
+|Do ('''you''') see this log? ('''It''') would be fit for burning. ('''It''') is completely dry.}}
+
+Italian further demonstrates full pro-drop by allowing for the possibility of a salient, referential, definite subject of finite clauses. With respect to the [[Null subject parameter]] (NSP), this will be analyzed using the phrase 'She speaks Italian.'<ref>{{cite journal |last1=Sessarego |first1=Sandro |last2=Gutierrez-Rexach |first2=Javier |title=Revisiting the Null Subject Parameter: New Insights from Afro-Peruvian Spanish |journal=Open Journal of Romance Linguistics |date=2017 |volume=3 |issue=1 |pages=43-68 |doi=10.5565/rev/isogloss.26 |url=https://raco.cat/index.php/isogloss/article/view/v3-n1-sessarego-gutierrez |access-date=12 December 2021}}</ref>
+
+While Italian has a [+] value, illustrated by the following example:
+:''Parla italiano''. (Italian, +NSP) 
+
+A non pro-drop language, such as English, has a [-] value for NSP, and thus does not allow for this possibility:
+: *Speaks Italian. (English, -NSP)
+
+====Portuguese====
+Portuguese displays full pro-drop by allowing subjects of finite clauses to be phonetically null:<ref>{{cite journal |last1=Barbosa |first1=Pilar P. |title=Pro-drop and theories of pro in the minimalist program part 1: Consistent null subject languages and the pronominal-agr hypothesis |journal=Language and Linguistics Compass |date=2011 |volume=5 |issue=8 |page=551-570 |doi=10.1111/j.1749-818X.2011.00293.x}}</ref>
+
+{{interlinear|indent=3
+|Chegaram.
+|arrived-3PL
+|‘They have arrived.’}}
+
+Provided this example, it is important to note that variations of Portuguese can differ with respect to their pro-drop features. While European Portuguese (EP) is a full pro-drop language, Brazilian Portuguese (BP) exhibits partial pro-drop. The two are compared below, respectively: 
+
+Examples of omitted subject:
+
+{{interlinear|indent=3
+|Estás a ver este tronco? Seria bom para a fogueira. Secou completamente.|c1=(European Portuguese)
+|Are to see this log? {Would be} good for the campfire. Dried completely
+|(Do) ('''you''') see this log? ('''It''') would be good for the campfire. ('''It''') has completely dried.}}
+
+{{interlinear|indent=3
+|Está(s) vendo esse tronco? Seria bom pra fogueira. Secou completamente.|c1=(Brazilian Portuguese)
+|Are seeing this log? {Would be} good for-the campfire. Dried completely
+|(Do) ('''you''') see this log? ('''It''') would be good for the campfire. ('''It''') has completely dried. }}
+
+Omission of object pronouns is likewise possible when the referent is clear, especially in colloquial or informal language:
+
+{{interlinear|indent=3
+|Acho que ele vai rejeitar a proposta, mas pode aceitar.
+|Think that he goes (to-)reject the proposal, but may accept.
+|('''I''') think he is going to turn down the proposal, but ('''he''') may accept ('''it''').}}
+
+{{interlinear|indent=3
+|Ainda tem macarrão? Não, papai comeu.
+|Still {is there} pasta? No, daddy ate.
+|Is there pasta left? No, daddy ate ('''it''').}}
+
+The use of the object pronoun in these examples (''aceitá-la'',  ''comeu-o'') is the default everywhere but Brazil.
+
+{{interlinear|indent=3
+|Ela me procurou ontem e não achou.
+|She me sought yesterday and not found.
+|She looked for me yesterday and didn't find ('''me''').}}
+
+Here ''não me achou'' would also be possible.
+
+{{interlinear|indent=3
+|A: Eu te amo; você também me ama? B: Amo, sim.
+|{{no gloss|A}}: I you love; you too me love?  {{no gloss|B}}: Love-1sg, yes.
+|A: I love you; do you love me too? B: I do.}}
+
+Omission of the object pronoun is possible even when its referent has not been explicitly mentioned, so long as it can be inferred. The next  example might be heard at a store; the referent (a dress) is clear to the interlocutor. In both Brazilian and European Portuguese the pronoun is omitted.
+
+{{interlinear|indent=3
+|Viu que bonito? Não gosta? Pode comprar?|c1= (BP)
+|Saw how beautiful? Don't like? Can buy?|c2= (using polite 2nd person) (BP)
+|}}
+
+{{interlinear|indent=3
+|Viste que bonito? Não gostas? Podes comprar?|c1= (EP)
+|Saw how beautiful? Don't like? Can buy?|c2= (using informal 2nd person) (EP)
+|Have you seen how beautiful it is? Do you like it? Can you buy it?}}
+
+==== Pro-drop with locative and partitive ====
+''Modern'' Spanish and Portuguese are also notable amongst Romance languages because they have no specific pronouns for circumstantial [[Complement (linguistics)|complement]]s (arguments denoting circumstance, consequence, place or manner, modifying the verb but not directly involved in the action) or [[partitive]]s (words or phrases denoting a quantity of something).{{Clarify|date=March 2008}}<!-- I don't see what partitives have to do with anything. As for pronouns for circumstantial complements, you must be thinking of French and Italian (y, en, etc.), but as far as I know such pronouns are not common cross-linguistically. --> However, Medieval language had them, e.g. Portuguese ''hi'' and ''ende''.
+
+Compare the following examples in which Spanish, Portuguese, Galician, and Romanian have null pronouns for place and partitives, but Catalan, French, Occitan, and Italian have overt pronouns for place and partitive. 
+{| class="wikitable"
+|+Pro-drop with locative and partitive: Romance
+!language
+! colspan="2" |locative
+! colspan="2" |partitive
+|-
+|[[Spanish language|Spanish]]
+|
+|''¡Voy!''
+|
+|''Tengo cuatro.''
+|-
+|[[Portuguese language|Portuguese]]
+|
+|''Vou!''
+|
+|''Tenho quatro.''
+|-
+|[[Galician language|Galician]]
+|
+|''Vou!''
+|
+|''Teño catro.''
+|-
+|[[Romanian language|Romanian]]
+|
+|''Mă duc!''
+|
+|''Am patru.''
+|-
+|[[Catalan language|Catalan]] 
+|'''''Hi''''' 
+|''vaig!''
+|'''''En'''''
+|''tinc quatre.''
+|-
+|[[French language|French]]
+|''J'<nowiki/>'''y''''' 
+|''vais !''
+|''J'<nowiki/>'''en'''''
+|''ai quatre.''
+|-
+|[[Occitan language|Occitan]]
+|'''''I''''' 
+|''vau!''
+|'''''N'<nowiki/>'''ai''
+|''quatre.''
+|-
+|[[Italian language|Italian]]
+|'''''Ci'''''
+|''vado!''
+|'''''Ne'''''
+|''ho quattro.''
+|-
+|
+| colspan="2" |'I'm going ['''there''']!'
+| colspan="2" |'I have four ('''of them''').'
+|}
+[[Image:EuropeProDropLanguages.png|thumb|300px|Languages in Europe {{legend|darkblue|Non-pro-drop languages}} {{legend|blue|Pro-drop being displaced by a non-pro-drop language}}]]
+==Other examples==
+
+===Arabic===
+Arabic is considered a [[null-subject language]], as demonstrated by the following example:
+
+{{interlinear|indent=3
+|top= ساعد غيرك، يساعدك
+|sāʻid ghayrak, yusāʻiduk.
+|Help other, {help.PST.3SG you}
+|If ('''you''') help another, ('''he''') helps you.}}
+
+=== Turkish ===
+
+{{interlinear|lang=tr|indent=3
+|Sen-i gör-dü-'''m'''
+|2SG-ACC see-PAST-'''1SG'''
+|('''I''') saw you.}}
+
+The subject "I" above is easily inferable as the verb ''gör-mek'' "to see" is conjugated in the first person simple past tense form. The object is indicated by the pronoun ''seni'' in this case. Strictly speaking, pronominal objects are generally explicitly indicated, although frequently possessive suffixes indicate the equivalent of an object in English, as in the following sentence.
+
+{{interlinear|lang=tr|indent=3
+|Gel-diğ-'''im'''-i gör-dü-'''n''' mü?
+|come-NMLZ-POSS.1SG-ACC see-PAST-'''2SG''' Q
+|Did '''you''' see '''me''' coming?}}
+
+In this sentence, the object of the verb is actually the action of coming performed by the speaker (''geldiğimi'' "my coming"), but the object in the English sentence, "me", is indicated here by the possessive suffix '''''-im''''' "my" on the nominalised verb. Both pronouns can be explicitly indicated in the sentence for purposes of emphasis, as follows:
+
+{{interlinear|lang=tr|indent=3
+|'''Sen''' '''ben-im''' gel-diğ-im-i gör-dü-n mü?
+|'''2SG''' '''1SG-POSS''' come-"ing"-POSS.1SG-ACC see-PAST-'''2SG''' Q
+|Did '''''you''''' see '''''me''''' coming?}}
+
+=== Swahili ===
+In Swahili, both subject and object pronouns can be omitted as they are indicated by verbal prefixes.
+
+{{interlinear|indent=3
+|top= Ni-ta-ku-saidia.
+|'''Ni-''' -ta- '''-ku-''' -saidia.
+|'''SUBJ.1SG'''- -FUT- -'''OBJ.2SG'''- -help
+|('''I''') will help ('''you''').}}
+
+===English===
+{{Anchor|You understood}}
+
+While English is not a pro-drop language, subject pronouns are almost always dropped in imperative sentences (e.g., ''Come here!'' ''Do tell!'' ''Eat your vegetables!''), with the subject "you" understood or communicated non-verbally.<ref>Geoffrey K. Pullum, Rodney Huddleston, ''A Student's Introduction to English Grammar'', 2005, {{isbn|1139643800}}, p. 170</ref>
+
+In informal speech, the pronominal subject is sometimes dropped. This [[Ellipsis (linguistics)|ellipsis]] has been called "conversational deletion" and "left-edge deletion",<ref>{{cite web|first=Katy|last=Waldman|title=Why Do We Delete the Initial Pronoun From Our Sentences? Glad You Asked|work=Slate|url=https://slate.com/human-interest/2016/05/all-your-questions-about-pronoun-deletion-and-the-inexorable-death-of-the-universe-answered.html|date=May 4, 2016}}</ref><ref>Randolph H. Thrasher, ''Shouldn't ignore these strings: A study of conversational deletion'', PhD dissertation, 1974, University of Michigan, Ann Arbor (not seen)</ref><ref>Randolph H. Thrasher, "One way to say more by saying less: A study of so-called subjectless sentences", 1977, Kwansei Gakuin University Monograph Series '''11''' Tokyo: Eihosha (not seen)</ref> and is common in informal spoken English as well as certain [[linguistic register|registers]] of written English, notably diaries.<ref>Andrew Weir, "Left-edge deletion in English and subject omission in diaries", ''English Language & Linguistics'' '''16''':1:105-129 (March 2012) {{doi|10.1017/S136067431100030X}}</ref> Most commonly, it is the first person singular subject which is dropped.<ref>Susanne Wagner, "Never saw one – first-person null subjects in spoken English", ''English Language and Linguistics'' '''22''':1:1-34 (March 2018)</ref>
+
+Some other words, especially [[Copula (linguistics)|copulas]] and [[Auxiliary verb|auxiliaries]], can also be dropped.
+
+*''<nowiki>[Have you]</nowiki> ever been there?''
+*''<nowiki>[I'm]</nowiki> going shopping. <nowiki>[Do you]</nowiki> want to come?''
+*''[I] haven't been there yet. [I'm] going later.''
+*Seen on signs: ''<nowiki>[I am/We are]</nowiki> out to lunch; <nowiki>[I/we will be]</nowiki> back at 1:00 [P.M].''
+*''What do you think <nowiki>[of it]</nowiki>?'' – ''I like <nowiki>[it]</nowiki>!'' (the latter only in some dialects and registers)
+*''[Do you] want a piece of cake?''
+*''[You] are not!'' – ''[I] am too!'' This pattern is also common with other tenses (e.g., ''were'', ''will'') and verbs (e.g., ''do/did'', ''have/had'').
+
+In speech, when pronouns are not dropped, they are more often reduced than other words in an utterance.
+
+Relative pronouns, provided they are not the subject, are often dropped in short restrictive clauses: ''That's the man [whom] I saw.''
+
+The dropping of pronouns is generally restricted to very informal speech and certain fixed expressions, and the rules for their use are complex and vary among dialects and registers. A noted instance was the "lived the dream" section of [[George H. W. Bush]]'s speech at the [[1988 Republican National Convention]].<ref>{{cite web|url=http://www.presidency.ucsb.edu/ws/?pid=25955|title=Address Accepting the Presidential Nomination at the Republican National Convention in New Orleans|last=Bush|first=George H. W.|date=18 August 1988|work=American Presidency Project|publisher=University of California, Santa Barbara|access-date=22 July 2015|quote=Those were exciting days. Lived in a little shotgun house, one room for the three of us. Worked in the oil business, started my own. In time we had six children. Moved from the shotgun to a duplex apartment to a house. Lived the dream - high school football on Friday night, Little League, neighborhood barbecue.}}</ref><ref>{{cite journal |url=http://www.nybooks.com/articles/archives/1988/oct/27/insider-baseball/|title=Insider Baseball|last=Didion|first=Joan|date=27 October 1988|journal=[[The New York Review of Books]]|access-date=22 July 2015|quote=as Bush, or [[Peggy Noonan]], had put it in the celebrated no-subject-pronoun cadences of the "lived the dream" acceptance speech.}}</ref><ref>{{cite journal|last=Greenfield|first=Jeff|date=September 2008|title=Accepting the Inevitable: What McCain can learn from the acceptance speeches of Reagan, Bush, and Gore|journal=[[Slate (magazine)|Slate]]|page=2|quote=Note how, as he tells his story, the pronouns drop out, underscoring the idea that this was more a conversation than a speech|url=http://www.slate.com/articles/news_and_politics/politics/2008/09/accepting_the_inevitable.2.html}}</ref><ref>{{cite web|url=https://lelandq.wordpress.com/2006/12/21/when-the-going-gets-tough/|title=When the Going Gets Tough |last=Winant|first=Gabriel|date=21 December 2006|work=Leland Quarterly|quote=Bush projects an image as a forthright Westerner who has no truck with fancy language or personal pronouns.|access-date=23 July 2015}}</ref>
+
+==Other language families and linguistic regions==
+Among the Indo-European and [[Dravidian languages]] of India, pro-drop is the general rule though many Dravidian languages do not have overt verbal markers to indicate pronominal subjects. [[Mongolic languages]] are similar in this respect to Dravidian languages, and all [[Paleosiberian languages]] are rigidly pro-drop.
+
+Outside of northern Europe, most [[Niger–Congo languages]], [[Khoisan languages]] of [[Southern Africa]] and [[Austronesian languages]] of the Western Pacific, pro-drop is the usual pattern in almost all [[linguistic area|linguistic regions]] of the world. In many non-pro-drop Niger–Congo or Austronesian languages, like [[Igbo language|Igbo]],  [[Samoan language|Samoan]] and [[Fijian language|Fijian]], however, subject pronouns do not occur in the same position as a nominal subject and are obligatory, even when the latter is present. In more easterly Austronesian languages, like [[Rapa Nui language|Rapa Nui]] and [[Hawaiian language|Hawaiian]], subject pronouns are often omitted even though no other subject morphemes exist. [[Pama–Nyungan languages]] of Australia also typically omit subject pronouns even when there is no explicit expression of the subject.
+
+Many Pama–Nyungan languages, however, have [[clitic]]s, which often attach to nonverbal hosts to express subjects. The other languages of Northwestern Australia are all pro-drop, for all classes of pronoun. Also, [[Papuan languages]] of [[New Guinea]] and [[Nilo-Saharan languages]] of [[East Africa]] are pro-drop.
+
+Among the [[indigenous languages of the Americas]], pro-drop is almost universal, as would be expected from the generally [[polysynthetic language|polysynthetic]] and [[head-marking language|head-marking]] character of the languages. That generally allows eliding of all object pronouns as well as subject ones. Indeed, most reports on Native American languages show that even the emphatic use of pronouns is exceptionally rare. Only a few Native American languages, mostly [[language isolate]]s ([[Haida language|Haida]], [[Trumai language|Trumai]], [[Wappo language|Wappo]]) and the [[Oto-Manguean languages|Oto-Manguean]] family are known for normally using subject pronouns.
+
+Yahgan, a critically endangered language isolate from Tierra del Fuego, didn't have any Pro-drop when it was still spoken widely in the late 19th century, when it was first described grammatically and had texts translated into English and other languages (three biblical New Testament texts: Luke, John, and Acts of the Apostles). In fact, emphatic pronouns and cross-reference pronouns on the verb commonly appeared together.
+
+===Pragmatic inference===
+[[Classical Chinese]] exhibits extensive dropping not only of pronouns but also of any terms (subjects, verbs, objects, etc.) pragmatically inferable, giving a very compact character to the language. Note, however, that Classical Chinese was a written language, and such word dropping is not necessarily representative of the spoken language or even of the same linguistic phenomenon.
+
+==See also==
+*{{annotated link|Null-subject language}} (NSL)
+*{{annotated link|Null subject parameter}} (NSP) – The parameter which determines if languages are pro-drop, marking them as either positive (+) or negative (-) NSP.<ref>{{cite journal |last1=Sessarego |first1=Sandro |last2=Gutierrez-Rexach |first2=Javier |title=Revisiting the Null Subject Parameter: New Insights from Afro-Peruvian Spanish |journal=Isogloss |date=2017 |volume=3 |issue=1 |pages=43–68 |doi=10.5565/rev/isogloss.26}}</ref>
+*{{annotated link|Zero copula}}; many languages such as Arabic and Hebrew lack a "to be" verb which is implicit in the subject.
+
+==References==
+<references/>
+
+==Further reading==
+*Bresnan, Joan (ed.) (1982) The Mental Representation of Grammatical Relations, MIT Press, Cambridge, Massachusetts.
+*Chomsky, Noam (1981) Lectures on Government and Binding: The Pisa Lectures. Holland: Foris Publications. Reprint. 7th Edition. Berlin and New York: Mouton de Gruyter, 1993.
+*Graffi, Giorgio (2001) 200 Years of Syntax. A critical survey, John Benjamins, Amsterdam, The Netherlands.
+*Moro, Andrea (1997) The raising of predicates. Predicative noun phrases and the theory of clause structure, Cambridge Studies in Linguistics, Cambridge University Press, Cambridge, England.
+*Rizzi, Luigi (1982) Issues in Italian Syntax, Foris, Dordrecht.
+*Krivochen, Diego and Peter Kosta (2013) Eliminating Empty Categories. Frankfurt am Main: Peter Lang.
+*Jaeggli, Osvaldo, and Ken Safir (1989) The Null Subject Parameter. Dordrecht: Kluwer.
+
+==External links==
+* [http://homepage.ntlworld.com/vivian.c/Linguistics/Languageslist.htm List of languages] including pro-drop (PD) or non-pro-drop (NPD) status.
+
+[[Category:Linguistic typology]]

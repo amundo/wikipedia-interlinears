@@ -1,0 +1,143 @@
+{{Short description|Pauwasi language spoken in Indonesia}}
+{{Infobox language
+|name=Kimki
+|nativename=Sukubatom
+|states=[[Indonesia]]
+|region=[[Papua (province)|Papua]]: [[Pegunungan Bintang Regency]], [[:id:Batom, Pegunungan Bintang|Batom District]], near [[Sepik River]] entrance to Papua New Guinea
+|speakers=500 
+|date=2004
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Pauwasi languages|Pauwasi]]
+|fam2=Yetfa – South Pauwasi
+|fam3=[[South Pauwasi languages|South Pauwasi]]
+|iso3=sbt
+|glotto=kimk1238
+|glottorefname=Kimki
+}}
+
+'''Kimki''' (Aipki<ref name="Foley-NWNG"/>) or '''Sukubatom''' (Sukubatong) is a [[South Pauwasi language]] of [[:id:Batom, Pegunungan Bintang|Batom District]], [[Pegunungan Bintang Regency]], [[Papua (province)|Papua]], [[Indonesia]]. Foley classifies Kimki as a [[language isolate]], although he notes some similarities with [[Murkim language|Murkim]].<ref name="Foley-NWNG"/> Usher demonstrates a connection to the other South Pauwasi languages.
+
+An automated computational analysis ([[Automated Similarity Judgment Program|ASJP]] 4) by Müller et al. (2013)<ref name="ASJP-4">Müller, André, Viveka Velupillai, Søren Wichmann, Cecil H. Brown, Eric W. Holman, Sebastian Sauppe, Pamela Brown, Harald Hammarström, Oleg Belyaev, Johann-Mattis List, Dik Bakker, Dmitri Egorov, Matthias Urban, Robert Mailhammer, Matthew S. Dryer, Evgenia Korovina, David Beck, Helen Geyer, Pattie Epps, Anthony Grant, and Pilar Valenzuela. 2013. ''[https://asjp.clld.org/static/WorldLanguageTree-004.zip ASJP World Language Trees of Lexical Similarity: Version 4 (October 2013)]''.</ref> found lexical similarities with [[Pyu language (Papuan)|Pyu]]. However, since the analysis was automatically generated, the grouping could be either due to mutual lexical borrowing or genetic inheritance.
+
+Dialects include the varieties spoken in Batom and Sabi villages (Rumaropen 2004).<ref name=ngw>[https://sites.google.com/site/newguineaworld/families/pauwasi-river/yetfa-south-pauwasi-river/south-pauwasi-river New Guinea World, South Pauwasi River]</ref>
+
+==Pronouns==
+Pronouns are:<ref name="Foley-NWNG"/>
+:{| {{table}}
+|+ Kimki independent pronouns
+!  !! sg !! pl
+|-
+! 1
+| win || name
+|-
+! 2
+| fume || same
+|-
+! 3
+| colspan="2" style="text-align: center;" | mame
+|}
+
+==Basic vocabulary==
+Basic vocabulary of Kimki listed in [[William A. Foley|Foley]] (2018):<ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433-568 |isbn=978-3-11-028642-7}}</ref>
+
+:{| {{table}}
+|+ Kimki basic vocabulary
+! gloss !! Kimki
+|-
+| ‘bird’ || ã
+|-
+| ‘blood’ || afupla
+|-
+| ‘bone’ || kwal
+|-
+| ‘breast’ || mua
+|-
+| ‘ear’ || bwa
+|-
+| ‘eat’ || auko
+|-
+| ‘egg’ || im
+|-
+| ‘eye’ || ẽ
+|-
+| ‘fire’ || kamop
+|-
+| ‘give’ || an
+|-
+| ‘go’ || bi ~ kaik
+|-
+| ‘ground’ || nim
+|-
+| ‘hair’ || it
+|-
+| ‘hear’ || fas
+|-
+| ‘leg’ || up
+|-
+| ‘louse’ || nim
+|-
+| ‘man’ || ap
+|-
+| ‘moon’ || lokaya
+|-
+| ‘name’ || aip ~ mi
+|-
+| ‘one’ || amatri
+|-
+| ‘road, path’ || bagin
+|-
+| ‘see’ || weː
+|-
+| ‘sky’ || fim
+|-
+| ‘stone’ || kwil
+|-
+| ‘sun’ || bwakaya
+|-
+| ‘tongue’ || albak
+|-
+| ‘tooth’ || luː
+|-
+| ‘tree’ || maul
+|-
+| ‘two’ || alas
+|-
+| ‘water’ || dɪ
+|-
+| ‘woman’ || kiam
+|}
+
+==Sentences==
+Some example sentences in Kimki from Rumaropen (2004), as quoted in Foley (2018):<ref>Rumaropen, Benny. 2004. Sociolinguistic report on the varieties of the Kimki Language in the region southeast of Ji Mountain, Papua, Indonesia. (in Indonesian). Unpublished ms. Jayapura: SIL Indonesia.</ref><ref name="Foley-NWNG"/>
+
+{{interlinear|number=(1)
+|warime mame aik
+|yesterday 3 come
+|‘He came yesterday.’}}
+
+{{interlinear|number=(2)
+|mame mambak me bi
+|3 village OBL go
+|‘She went to the village.’}}
+
+{{interlinear|number=(3)
+|mame kaes augo
+|3 cooked.rice eat
+|‘She eats cooked rice.’}}
+
+{{interlinear|number=(4)
+|mame wambani wel-aba-me an
+|3 money 1SG.POSS?-father-OBL? give
+|‘She gave money to my father.’}}
+
+Only 12 sentence examples are given by Rumaropen (2004). Other than that, there are virtually no other sentences and texts available for Kimki.
+
+==References==
+{{Reflist}}
+
+{{Papuan languages}}
+{{Languages of Indonesia}}
+
+[[Category:Languages of western New Guinea]]
+[[Category:South Pauwasi languages]]

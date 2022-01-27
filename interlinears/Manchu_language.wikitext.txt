@@ -1,0 +1,504 @@
+{{short description|East Asian language}}
+{{redirect|Qingwen|the publisher|Chingwin Publishing Group}}
+{{Use dmy dates|date=May 2021}}
+{{Infobox language
+| name             = Manchu
+| nativename       = {{ManchuSibeUnicode|lang=mnc|ᠮᠠᠨᠵᡠ<br />ᡤᡳᠰᡠᠨ}}
+| image            = Manju gisun.svg
+| imagesize        = 45px
+| imagecaption     = {{transl|mnc|Manju gisun}} written in [[Manchu alphabet|Manchu script]]
+| states           = [[China]]
+| region           = [[Manchuria]]
+| ethnicity        = 10.7 million [[Manchu people|Manchus]]
+| speakers         = 20 native speakers<ref>https://web.archive.org/web/20170930050650</ref> <ref>{{Cite web|url=https://www.ethnologue.com/18/language/mnc/|title = Redirected|date = 19 November 2019}}</ref>
+| speakers2        = There are thousands of second language speakers<ref name="takungpao">{{cite news| url=http://news.takungpao.com/paper/q/2015/0426/2982819.html |script-title=zh:抢救满语振兴满族文化 | language=zh | date=26 April 2015 |access-date=14 May 2020 |archive-date=8 November 2017|archive-url=https://web.archive.org/web/20171108152605/http://news.takungpao.com/paper/q/2015/0426/2982819.html}}</ref><ref name="chinanews">[http://www.chinanews.com/cul/2012/03-06/3720158.shtml China News (originally Beijing Morning Post): Manchu Classes in Remin University (Simplified Chinese)]</ref><ref name="ifeng">[http://news.ifeng.com/gundong/detail_2011_12/12/11251077_0.shtml Phoenix Television: Jinbiao's 10-year Manchu Dreams]</ref>
+| date             = 2007<!--same date in E17-->
+| ref              = e18
+| familycolor      = Altaic
+| fam1             = [[Tungusic languages|Tungusic]]
+| fam2             = Southern
+| fam3             = Manchu group
+| script           = [[Manchu alphabet]]
+| nation           = {{CHN}}<br />Manchu-designated [[autonomous county|autonomous areas]]
+| iso2             = mnc
+| iso3             = mnc
+| glotto           = manc1252
+| glottorefname    = Manchu
+| notice           = IPA
+}}
+{{Contains special characters|Manchu}}
+'''Manchu''' (Manchu:{{ManchuSibeUnicode|lang=mnc|ᠮᠠᠨᠵᡠ<br />ᡤᡳᠰᡠᠨ}}, {{transl|mnc|manju gisun}}) is a critically [[endangered language|endangered]] [[Languages of East Asia|East Asian]] [[Tungusic languages|Tungusic language]] native to the historical region of [[Manchuria]] in [[Northeast China]]. As the traditional native language of the [[Manchu people|Manchus]], it was one of the official languages of the [[Qing dynasty]] (1636–1912) of China and in [[Qing dynasty in Inner Asia|Inner Asia]], though today the vast majority of Manchus now speak only [[Mandarin Chinese]]. Now, several thousand can speak Manchu as a second language through governmental primary education or free classes for adults in classrooms or online.<ref name="takungpao"/><ref name="chinanews"/><ref name="ifeng"/>
+
+The Manchu language enjoys high historical value for historians of China, especially for the Qing dynasty. Manchu-language texts supply information that is unavailable in Chinese and when both Manchu and Chinese versions of a given text exist they provide controls for understanding the Chinese.{{sfnb|Fletcher|1973|p=141}}
+
+Like most [[Siberia]]n languages, Manchu is an [[agglutinative language]] that demonstrates limited [[vowel harmony]]. It has been demonstrated that it is derived mainly from the [[Jurchen language]] though there are many [[loanword|loan words]] from [[Mongolian language|Mongolian]] and [[Chinese language|Chinese]]. Its script is vertically written and taken from the [[Mongolian script]] (which in turn derives from [[Aramaic alphabet|Aramaic]] via [[Old Uyghur alphabet|Uyghur]] and [[Sogdian alphabet|Sogdian]]).<!-- Manchu, like Russian, Hindi, etc. employs [[grammatical gender]] through the use of vowel inflections.{{Citation needed|date=October 2009}} --> Although Manchu does not have the kind of [[grammatical gender]] found in European languages, some gendered words in Manchu are distinguished by different stem vowels (vowel inflection), as in ''ama'', "father" and ''eme'', "mother".
+
+==Names==
+The Qing dynasty referred to the Manchu language in various Chinese titles such as "Qingwen" {{lang|zh-hant|清文}},<ref>{{cite book|title=Rethinking East Asian Languages, Vernaculars, and Literacies, 1000–1919|url=https://books.google.com/books?id=1Q6JBAAAQBAJ&pg=PA169|date=21 August 2014|publisher=BRILL|isbn=978-90-04-27927-8|page=169}}</ref> or "Qingyu" {{lang|zh-hant|清語}} ("Qing language") and [[Standard Chinese|Guoyu]] {{lang|zh-hant|國語}} ("national language"),<ref name="CrossleySiu2006">{{cite book|author1=Pamela Kyle Crossley|author2=Helen F. Siu|author3=Professor of Anthropology Helen F Siu|author4=Donald S. Sutton, Professor of History and Anthropology Donald S Sutton|title=Empire at the Margins: Culture, Ethnicity, and Frontier in Early Modern China|url=https://books.google.com/books?id=EtNVMUx9qIIC&pg=PA38|date=19 January 2006|publisher=University of California Press|isbn=978-0-520-23015-6|pages=38}}</ref> which was used by previous non-Han dynasties to refer to their languages. The term "national" was also applied to the Manchu writing as in ''Guowen'' {{lang|zh-hant|國文}} in addition to ''Guoyu'' {{lang|zh-hant|國語}}.<ref name="Rhoads2000">{{cite book|author=Edward J. M. Rhoads|title=Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928|url=https://books.google.com/books?id=QiM2pF5PDR8C&pg=PA109|year=2000|publisher=University of Washington Press|isbn=978-0-295-98040-9|page=109}}</ref> In the Manchu-language version of the [[Treaty of Nerchinsk]], the term "Chinese language" (''Dulimbai gurun i bithe'') referred to all three Chinese, Manchu, and Mongol languages, not just one language.<ref>{{cite journal|page=12 |url=http://mcx.sagepub.com/content/32/1/3.abstract |archive-date=25 March 2014 |archive-url=https://web.archive.org/web/20140325231543/https://webspace.utexas.edu/hl4958/perspectives/Zhao%20-%20reinventing%20china.pdf |jstor=20062627 |doi=10.1177/0097700405282349 |title=Reinventing China: Imperial Qing Ideology and the Rise of Modern Chinese National Identity in the Early Twentieth Century |last1=Zhao |first1=Gang |journal=Modern China |volume=32 |number=1 |date=January 2006 |publisher=Sage Publications |s2cid=144587815 |url-status=dead |access-date=23 May 2014 }}</ref> ''Guoyu'' now refers to [[Standard Chinese]].
+
+==History and significance==
+[[Image:Manchu chinese.jpg|thumb|right|Plaque at the [[Forbidden City]] in [[Beijing]], in both Chinese (left, {{zh|labels=no|t=乾清門|p=qián qīng mén}}) and Manchu (right, {{lang|mnc-Latn|kiyan cing men}})]]
+[[File:Dulimbai gurun.svg|thumb|right|upright=0.9|Official designation for China in Manchu, reads vertically to the next word to the right: {{lang|mnc-Latn|"Dulimbai gurun"}}.]]
+
+=== Historical linguistics ===
+Manchu is southern [[Tungusic languages|Tungusic]]. While Northern Tungus languages like [[Evenki language|Evenki]] retain traditional structure, the Chinese language is a source of major influence upon Manchu, altering its form and vocabulary.<ref name="Ramsey1987">{{cite book|author=S. Robert Ramsey|title=The Languages of China|url=https://books.google.com/books?id=2E_5nR0SoXoC&pg=PA213|year=1987|publisher=Princeton University Press|isbn=0-691-01468-X|pages=213–}}</ref>
+
+In 1635 [[Hong Taiji]] renamed the [[Jurchen people]] and [[Jurchen language]] as "Manchu". The Jurchen are the ancestors of the Manchu and ruled over the later [[Jin dynasty (1115–1234)]].
+
+=== Decline of use ===
+Manchu began as a primary language of the [[Qing dynasty]] Imperial court, but as Manchu officials became increasingly [[Sinicization|sinicized]], many started losing the language. Trying to preserve the Manchu identity, the imperial government instituted Manchu language classes and examinations for the [[Eight Banners|bannermen]], offering rewards to those who excelled in the language. Chinese classics and fiction were translated into Manchu, and a body of [[Manchu literature]] accumulated.{{sfnb|von Möllendorff|1890}} As the [[Yongzheng Emperor]] (reigned 1722–1735) explained, <blockquote>"If some special encouragement … is not offered, the ancestral language will not be passed on and learned."<ref name="rhoads">Edward J. M. Rhoads, ''Manchus & Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928.'' University of Washington Press, 2000. Pages 52–54. {{ISBN|0-295-98040-0}}. Partially available [https://books.google.com/books?id=QiM2pF5PDR8C on Google Books]</ref> </blockquote>Still, the use of the language among the bannermen declined throughout the 1700s. Historical records report that as early as 1776, the [[Qianlong Emperor]] was shocked to see a high Manchu official, [[Guo'ermin]], not understand what the emperor was telling him in Manchu, despite coming from the Manchu stronghold of Shengjing (now [[Shenyang]]).<ref>Yu Hsiao-jung, [http://lacito.vjf.cnrs.fr/colloque/diaporamas/yu2.pdf Manchu Rule over China and the Attrition of the Manchu Language] {{webarchive |url=https://web.archive.org/web/20130619102136/http://lacito.vjf.cnrs.fr/colloque/diaporamas/yu2.pdf |date=19 June 2013 }}</ref> By the 19th century even the imperial court had lost fluency in the language. The [[Jiaqing Emperor]] (reigned 1796–1820) complained that his officials were not proficient at understanding or writing Manchu.<ref name="rhoads" />
+
+By the end of the 19th century the language was so moribund that even at the office of the Shengjing general, the only documents written in Manchu (rather than Chinese) would be the memorials wishing the emperor long life; at the same time period, the archives of the [[Hulan District|Hulan]] banner detachment in Heilongjiang show that only 1% of the bannermen could read Manchu, and no more than 0.2% could speak it.<ref name="rhoads" /> Nonetheless, as late as 1906–1907 Qing education and military officials insisted that schools teach Manchu language, and that the officials testing soldiers' [[marksmanship]] continue to conduct an oral examination in Manchu.<ref>Rhoads (2000), p. 95.</ref>
+
+The use of the language for the official documents declined throughout the Qing history as well. Especially at the beginning of the dynasty, some documents on sensitive political and military issues were submitted in Manchu but not in Chinese.<ref>{{Cite news|url=https://www.nytimes.com/2007/03/17/world/asia/18manchu_side.html|title=Manchu Language Lives Mostly in Archives|last=Lague|first=David|date=17 March 2007|work=The New York Times|access-date=8 August 2019|language=en-US|issn=0362-4331}}</ref> Later on, some Imperial records in Manchu continued to be produced until the last years of the dynasty.<ref name="rhoads" /> In 1912 the Qing was overthrown, most Manchus could not speak their language, and the [[Beijing dialect]] replaced Manchu.<ref>{{cite book|url=https://books.google.com/books?id=93onvmXF1r0C&pg=PA209|title=Books in Numbers: Seventy-fifth Anniversary of the Harvard-Yenching Library : Conference Papers|date=2007|publisher=Chinese University Press|isbn=978-9629963316|editor-last=Idema|editor-first=Wilt L.|volume=Volume 8 of Harvard-Yenching Institute studies|page=209|issue=Issue 8 of Harvard–Yenching Library studies}}</ref>
+
+=== Use of Manchu ===
+A large number of Manchu documents remain in the archives, important for the study of Qing-era China. Today, written Manchu can still be seen on architecture inside the [[Forbidden City]], whose historical signs are written in both [[Chinese character|Chinese]] and Manchu. Another limited use of the language was for voice commands in the Qing army, attested as late as 1878.<ref name="rhoads" />
+
+Bilingual Chinese-Manchu inscriptions appeared on many things.<ref>{{cite book|url=https://books.google.com/books?id=bANasl7nayUC&pg=PA382|title=Peking: Temples and City Life, 1400–1900|last=Naquin|first=Susan|date=2000|publisher=University of California Press|isbn=0520923456|page=382}}</ref><ref>{{cite book|url=https://books.google.com/books?id=OXQkDwAAQBAJ&pg=PA61|title=Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861-1928|last=Rhoads|first=Edward J. M.|date=2017|publisher=University of Washington Press|isbn=978-0295997483|page=61}}</ref>
+
+===Manchu studies during the Qing Dynasty===
+A [[Jiangsu]] Han Chinese named [[Shen Qiliang]] wrote books on Manchu grammar like {{lang|zh-hant|清書指南}} (Guide to Qing Books, ''Manju bithe jy nan'') and {{lang|zh-hant|大清全書}} (Great Qing Encyclopedia, ''Daicing gurun-i yooni bithe''). He was born to a father who was a naval officer for the Qing, and his grandfather was an official of the Ming dynasty, before rebels murdered him. Shen Qiliang himself fought against the [[Three Feudatories]] as part of the Qing army. He then started learning Manchu and writing books on Manchu grammar from Bordered Yellow Manchu Bannermen in 1677 after relocating to Beijing. He translated the [[Hundred Family Names]] and [[Thousand Character Classic]] into Manchu and spent 25 years on the Manchu language. Shen wrote: "I am a Han. But all my life I have made a hobby of Manchu." Shen never had to learn Manchu as part of his job because he was never an official so he seems to have studied it of his own will. Most Han people were not interested in learning non-Han languages so it is not known why Shen was doing it.<ref>{{cite book |last=Adolphson |first=Mikael S. |editor-last=Hanan |editor-first=Patrick |date=2003 |title=Treasures of the Yenching: Seventy-fifth Anniversity of the Harvard-Yenching Library : Exhibition Catalogue |issue=Issue 1 of Harvard–Yenching Library studies |volume=Volume 1 of Harvard-Yenching Library studies: Harvard Yenching Library |url=https://books.google.com/books?id=OksPvlsQOZEC&pg=PA84 |publisher=Chinese University Press |page=84 |isbn=9629961024 }}</ref>
+
+A [[Hangzhou]] Han Chinese, [[Chen Mingyuan|Cheng Mingyuan]], helped edit the book {{lang|zh-hant|清文啟蒙}} (Introduction to the Qing language, ''Cing wen ki meng bithe''), which was co-written by a Manchu named Uge. Uge gave homeschooled Manchu language classes which were attended by his friend Cheng. Cheng arranged for its printing.<ref>{{cite book |last=Adolphson |first=Mikael S. |editor-last=Hanan |editor-first=Patrick |date=2003 |title=Treasures of the Yenching: Seventy-fifth Anniversity of the Harvard-Yenching Library : Exhibition Catalogue |issue=Issue 1 of Harvard–Yenching Library studies |volume=Volume 1 of Harvard-Yenching Library studies: Harvard Yenching Library |url=https://books.google.com/books?id=OksPvlsQOZEC&pg=PA85 |publisher=Chinese University Press |page=85 |isbn=9629961024 }}</ref>
+
+==== Hanlin ====
+Han Chinese at the [[Hanlin Academy]] studied the Manchu language in the Qing. The Han Chinese [[Hanlin Academy|Hanlin]] graduate [[Qi Yunshi]] knew the Manchu language and wrote a book in Chinese on the frontier regions of China by translating and using the [[Grand Secretariat]]'s archives Manchu-language sources.<ref>{{cite journal |last=Mosca |first=Mathew W. |date=December 2011 |journal=Late Imperial China |volume=32|issue=2|title= The Literati rewriting of China in The QianLong-Jiaqing Transition |url=https://www.academia.edu/6928995 |publisher=the Society for Qing Studies and The Johns Hopkins University Press |pages=106–107 |doi=10.1353/late.2011.0012 |s2cid=144227944 }}</ref> Hanlin Academy in 1740 expelled the Han Chinese [[Yuan Mei]] for not succeeding in his Manchus studies. Injišan, and Ortai, both Manchus, funded his work.<ref>{{cite journal |last=Mosca |first=Mathew W.|date=2010 |journal=[[Harvard Journal of Asiatic Studies]] |volume=70 |issue=1|title= Empire and the Circulation of Frontier Intelligence Qing Conceptions of the Ottomans |url=https://www.academia.edu/6928985 |publisher=The Harvard-Yenching Institute |page=181 |doi=10.1353/jas.0.0035|s2cid=161403630}}</ref> The Han Chinese [[Yan Changming]] had the ability to read [[Tibetic languages|Tibetan]], [[Oirat language|Oirat]], and Mongolian.<ref>{{cite journal |last=Mosca |first=Mathew W.|date=2010 |journal=Harvard Journal of Asiatic Studies |volume=70 |issue=1|title= Empire and the Circulation of Frontier Intelligence Qing Conceptions of the Ottomans |url=https://www.academia.edu/6928985 |publisher=The Harvard-Yenching Institute |page=182 |doi=10.1353/jas.0.0035|s2cid=161403630}}</ref> Han Chinese officials learned languages on the frontier regions and Manchu in order to be able to write and compile their writings on the region.<ref>{{cite journal |last=Mosca |first=Mathew W.|date=2010 |journal=Harvard Journal of Asiatic Studies |volume=70 |issue=1|title= Empire and the Circulation of Frontier Intelligence Qing Conceptions of the Otomans |url=https://www.academia.edu/6928985 |publisher=The Harvard-Yenching Institute |page=176 |doi=10.1353/jas.0.0035|s2cid=161403630}}</ref>
+
+A Manchu-language course over three years was required for the highest ranking Han degree holders from Hanlin but not all Han literati were required to study Manchu.<ref>{{cite book |last=Rhoads |first=Edward J. M. |date=2017 |title=Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928 |url=https://books.google.com/books?id=OXQkDwAAQBAJ&pg=PA62 |publisher=University of Washington Press |page=62 |isbn=978-0295997483 }}</ref> Towards the end of the Qing it was pointed out that a lot of Bannermen themselves did not know Manchu anymore and that Manchu was not able to be forced upon the people and minister of the country at the beginning of the Qing dynasty.<ref>{{cite book |last=Rhoads |first=Edward J. M. |date=2017 |title=Manchus and Han: Ethnic Relations and Political Power in Late Qing and Early Republican China, 1861–1928 |url=https://books.google.com/books?id=OXQkDwAAQBAJ&pg=PA109 |publisher=University of Washington Press |page=109 |isbn=978-0295997483 }}</ref>
+
+==== Translation between Chinese and Manchu ====
+Chinese fiction books were translated into Manchu.<ref>{{cite book|url=https://books.google.com/books?id=NkH2zGNRmkAC&pg=PA321|title=Printing and Book Culture in Late Imperial China|date=2005|publisher=University of California Press|isbn=0520927796|volume=Volume 27 of Studies on China|page=321}}</ref> Bannermen wrote fiction in the Chinese language.<ref>{{cite book|url=https://books.google.com/books?id=93onvmXF1r0C&pg=PA215|title=Books in Numbers: Seventy-fifth Anniversary of the Harvard-Yenching Library : Conference Papers|date=2007|publisher=Chinese University Press|isbn=978-9629963316|editor-last=Idema|editor-first=Wilt L.|volume=Volume 8 of Harvard-Yenching Institute studies|page=215|issue=Issue 8 of Harvard–Yenching Library studies}}</ref> [[Huang Taiji]] had Chinese books translated into Manchu.<ref>{{cite book |last= Kuo |first=Ping Wen |date=1915 |edition=2|title=The Chinese System of Public Education, Issue 64 |issue=Issue 64 of Contributions to education|volume=Volume 64 of Teachers College New York, NY: Contrib. to education |url=https://books.google.com/books?id=6TcdAAAAMAAJ&pg=PA58 |publisher=Teachers College, Columbia University |page=58 }}</ref><ref>{{cite book |date=1915 |title=Contributions to Education, Issue 64 |url=https://books.google.com/books?id=nIpCAQAAMAAJ&pg=PA58 |publisher=Bureau of Education, Teachers College, Columbia University. |page=58 }}</ref> Han Chinese and Manchus helped Jesuits write and translate books into Manchu and Chinese.<ref>{{cite book |last=Jami |first=Catherine|author-link=Cathérine Jami |edition=illustrated |date=2012 |title=The Emperor's New Mathematics: Western Learning and Imperial Authority During the Kangxi Reign (1662–1722) |url=https://books.google.com/books?id=z9oUDAAAQBAJ&pg=PA167 |publisher=Oxford University Press |page=167 |isbn=978-0199601400}}</ref> Manchu books were published in [[Beijing]].<ref>{{cite book|url=https://books.google.com/books?id=NkH2zGNRmkAC&pg=PA323|title=Printing and Book Culture in Late Imperial China|date=2005|publisher=University of California Press|isbn=0520927796|volume=Volume 27 of Studies on China|page=323}}</ref>
+
+The [[Qianlong Emperor]] commissioned projects such as new Manchu dictionaries, both monolingual and multilingual like the [[Pentaglot Dictionary|Pentaglot]]. Among his directives were to eliminate directly borrowed loanwords from Chinese and replace them with [[calque]] translations which were put into new Manchu dictionaries. This showed in the titles of Manchu translations of Chinese works during his reign which were direct translations contrasted with Manchu books translated during the [[Kangxi Emperor]]'s reign which were Manchu transliterations of the Chinese characters.
+
+The Pentaglot was based on the ''Yuzhi Siti Qing Wenjian'' {{lang|zh-hant|御製四體清文鑑}} ("Imperially-Published Four-Script Textual Mirror of Qing"), with [[Uyghur language|Uyghur]] added as fifth language.<ref>{{cite book|title=Chinese Lexicography : A History from 1046 BC to AD 1911: A History from 1046 BC to AD 1911|first1=Heming|last1=Yong|first2=Jing|last2=Peng|year=2008|publisher=Oxford University Press|url=https://books.google.com/books?id=NYFBtTUZFxEC&pg=PA398|page=398|isbn=978-0191561672|access-date=24 April 2014}}</ref> The four-language version of the dictionary with Tibetan was in turn based on an earlier three-language version with Manchu, Mongolian, and Chinese called the {{lang|zh-hant|御製滿珠蒙古漢字三合切音清文鑑}} ("Imperially-Published Manchu Mongol Chinese Three pronunciation explanation mirror of Qing"), which was in turn based on the {{lang|zh-hant|御製增訂清文鑑}} ("Imperially-Published Revised and Enlarged mirror of Qing") in Manchu and Chinese, which used both Manchu script to transcribe Chinese words and [[Transcription into Chinese characters|Chinese characters to transcribe]] Manchu words with [[fanqie]].<ref>{{cite book|title=Chinese Lexicography : A History from 1046 BC to AD 1911: A History from 1046 BC to AD 1911|first1=Heming|last1=Yong|first2=Jing|last2=Peng|year=2008|publisher=Oxford University Press|url=https://books.google.com/books?id=NYFBtTUZFxEC&pg=PA397|page=397|isbn=978-0191561672|access-date=24 April 2014}}</ref>
+
+====Studies by outsiders====
+A number of European scholars in the 18th century were frustrated by the difficulties in reading Chinese, with its "complicated" [[Hanzi|writing system]] and [[Classical Chinese|classical]] writing style. They considered Manchu translations, or parallel Manchu versions, of many Chinese documents and literary works very helpful for understanding the original Chinese. [[Joseph-Anna-Marie de Moyriac de Mailla|de Moyriac de Mailla]] (1669–1748) benefited from the existence of the parallel Manchu text when translating the historical compendium ''Tongjian Gangmu'' (''Tung-chien Kang-mu''; {{lang|zh-hant|[[:zh:资治通鉴纲目|《通鑒綱目》]]}}). [[Jean Joseph Marie Amiot|Amiot]] (1718–1793) consulted Manchu translations of Chinese works as well, and wrote that the Manchu language "would open an easy entrance to penetrate … into the labyrinth of Chinese literature of all ages."<ref name="repo1844">Anonymous, "Considerations on the language of communication between the Chinese and European governments", in ''The Chinese Repository'', vol XIII, June 1844, no. 6, pp. 281–300. [https://books.google.com/books?id=6wEMAAAAYAAJ Available on Google Books]. Modern reprint exists, {{ISBN|1-4021-5630-8}}</ref>
+
+[[File:Kangxi-Lugou-rebuilding-stele-text-fragment-3582.jpg|thumb|The [[Kangxi Emperor]]'s stele near [[Lugou Bridge]], with parallel Chinese and Manchu text]]
+Study of the Manchu language by Russian sinologists started in the early 18th century, soon after the founding of the [[Chinese Orthodox Church#Russian Mission|Russian Orthodox Mission]] in Beijing, to which most early Russian sinologists were connected.<ref name=gorelova>Liliya M. Gorelova, "Manchu Grammar." Brill, Leiden, 2002. {{ISBN|90-04-12307-5}}</ref> [[Illarion Kalinovich Rossokhin]] (died 1761) translated a number of Manchu works, such as ''The history of Kangxi's conquest of the Khalkha and Oirat nomads of the Great Tartary, in five parts'' (История о завоевании китайским ханом Канхием калкаского и элетского народа, кочующего в Великой Татарии, состоящая в пяти частях), as well as some legal treatises and a Manchu–Chinese dictionary. In the late 1830s, [[Georgy Morozov|Georgy M. Rozov]] translated from Manchu the ''History of the Jin (Jurchen) Dynasty''.<ref name=larichev>''История золотой империи''. (''The History of the Jin (Jurchen) Dynasty'') Russian Academy of Sciences, Siberian Branch. Novosibirsk, 1998. 2 {{ISBN|5-7803-0037-2}}. [http://www.vostlit.info/Texts/rus11/Zinschi/red.htm Editor's preface] {{in lang|ru}}</ref> A school to train Manchu language translators was started in [[Irkutsk]] in the 18th century, and existed for a fairly long period.<ref name=larichev/>
+
+An anonymous author remarked in 1844 that the transcription of Chinese words in Manchu alphabet, available in the contemporary Chinese–Manchu dictionaries, was more useful for learning the pronunciation of Chinese words than the inconsistent [[Romanization of Chinese|romanizations]] used at the time by the writers transcribing Chinese words in English or French books.<ref name=repo1844/>
+
+In 1930, the German sinologist [[Erich Auerbach|Eric Hauer]] argued forcibly that knowing Manchu allows the scholar to render Manchu personal and place names that have been "horribly mutilated" by their Chinese transliterations and to know the meanings of the names. He goes on that the Manchu translations of Chinese classics and fiction were done by experts familiar with their original meaning and with how best to express it in Manchu, such as in the Manchu translation of the ''[[Peiwen yunfu]]''. Because Manchu is not difficult to learn, it "enables the student of Sinology to use the Manchu versions of the classics […] in order to verify the meaning of the Chinese text".{{sfnb|Hauer|1930|p=162-163}}
+
+==Current situation==
+[[File:An Activity of Manchu Language by the Government and students in Changchun.jpg|thumb|left|upright=1.36|"Banjin Inenggi" and Manchu linguistic activity by the government and students in [[Changchun]], 2011]]
+Currently, several thousand people can speak Manchu as a second language through primary education or free classes for adults offered in China.<ref name="chinanews" /><ref name="ifeng" /> However very few native Manchu speakers remain. In what used to be [[Manchuria]] virtually no one speaks the language, the entire area having been completely [[sinicization|sinicized]]. As of 2007, the last native speakers of the language were thought to be 18 [[octogenarian]] residents of the village of [[Sanjiazi]] ({{manchu|m={{ManchuSibeUnicode|lang=mnc|ᡳᠯᠠᠨ<br />ᠪᠣᡠ᠋}}|v=ilan boo|a=ilan bou}}), in [[Fuyu County, Heilongjiang|Fuyu County]], in [[Qiqihar]], [[Heilongjiang]] Province.<ref>{{Cite news|url=https://www.nytimes.com/2007/03/18/world/asia/18manchu.html|title=Chinese Village Struggles to Save Dying Language|last=Lague|first=David|date=18 March 2007|work=The New York Times|access-date=8 August 2019|language=en-US|issn=0362-4331}}</ref> A few speakers also remain in [[Dawujia]] village in [[Aihui District]] of [[Heihe]] Prefecture.
+
+The [[Xibe people|Xibe]] (or Sibe) are often considered to be the modern custodians of the written Manchu language. The Xibe live in [[Qapqal Xibe Autonomous County]] near the [[Ili River|Ili]] valley in [[Xinjiang]], having been moved there by the [[Qianlong Emperor]] in 1764. Modern written Xibe is very close to Manchu, although there are slight differences in the writing system which reflect distinctive Xibe pronunciation. More significant differences exist in morphological and syntactic structure of the spoken Xibe language. For one example among many, there is a "[[converb]]" ending, -''mak'', that is very common in modern spoken Xibe but unknown in Manchu.
+
+=== Revitalization movements ===
+Recently, there have been increased efforts to revive the Manchu language. Revival movements are linked to the reconstruction of ethnic Manchu identity in the Han-dominated country. The Manchus mainly lead the revival efforts, with support from the [[China|PRC]] state, [[NGOs]] and international efforts.<ref name=":0">{{Cite journal|title=Identity reproducers beyond the grassroots: The middle class in the Manchu revival since 1980s|journal=Asian Ethnicity|volume=6}}</ref><ref name=":1">{{Cite journal|title=Facing the Decline of Minority Languages: The New Patterns of Education of Mongols and Manchus|journal=The Central European Journal of Social Sciences and Humanities}}</ref>
+
+Revivalism began in the post-[[Mao Zedong|Mao]] era when non-Han ethnic expression was allowed. By the 1980s, Manchus had become the second largest minority group in [[China]]. People began to reveal their ethnic identities that had been hidden due to 20th century unrests and the fall of the [[Qing dynasty|Qing Empire]].<ref name=":0" /><ref name=":1" />
+
+Language revival was one method the growing numbers of Manchus used in order to reconstruct their lost ethnic identity. Language represented them and set them apart from other minority groups in the "[[Ethnic minorities in China|plurality of ethnic cultures]] within one united culture". Another reason for revivalism lay in the archives of the Qing Empire–a way to translate and resolve historical conflicts between the Manchus and the state.<ref name=":0" /> Lastly, the people wanted to regain their language for the rituals and communication to their ancestors–many shamans do not understand the words they use.<ref name=":1" />
+
+Manchu associations can be found across the country, including [[Hong Kong]], as well as abroad, in [[Taiwan]]. Consisting of mostly Manchus and Mongols, they act as the link between the people, their ethnic leaders and the state.<ref name=":0" />
+
+NGOs provide large support through "Manchu classes". Manchu is now taught in certain primary schools as well as in universities.<ref name=":1" /> [[Heilongjiang University]] Manchu language research center in no.74, Xuefu Road, [[Harbin]], listed Manchu as an [[academic major]]. It is taught there as a tool for reading Qing-dynasty archival documents.<ref name=wsj>{{citation|url=https://www.wsj.com/articles/SB125452110732160485
+|date=5 October 2009|title=In China, the Forgotten Manchu Seek to Rekindle Their Glory
+|periodical=The Wall Street Journal|author= Ian Johnson|access-date=5 October 2009}}</ref> In 2009 ''[[The Wall Street Journal]]'' reported that the language is offered (as an elective) in one university, one public middle school, and a few private schools.<ref name=wsj/> There are also other Manchu volunteers in many places of China who freely teach Manchu in the desire to rescue the language.<ref>[http://www.mzb.com.cn/zgmzb/html/2011-07/29/content_78793.htm China Nationality Newspaper: the Rescue of Manchu Language (simplified Chinese)]</ref><ref>{{Cite web |url=http://big5.ifeng.com/gate/big5/news.ifeng.com/gundong/detail_2011_12/12/11251077_0.shtml |title=iFeng: Jin Biao's 10-Year Dream of Manchu Language (traditional Chinese) |access-date=10 November 2012 |archive-url=https://archive.today/20130125220202/http://big5.ifeng.com/gate/big5/news.ifeng.com/gundong/detail_2011_12/12/11251077_0.shtml |archive-date=25 January 2013 |url-status=dead }}</ref><ref>{{Cite web |url=http://i.syd.com.cn/content/2011-12/05/content_25882720.htm |title=Shenyang Daily: Young Man Teaches Manchu For Free To Rescue the Language (simplified Chinese) |access-date=10 November 2012 |archive-url=https://web.archive.org/web/20130513190300/http://i.syd.com.cn/content/2011-12/05/content_25882720.htm |archive-date=13 May 2013 |url-status=dead }}</ref><ref>{{Cite web|url=http://bjwb.bjd.com.cn/html/2012-03/03/node_17.htm|title=Beijing Evening News: the Worry of Manchu language (simplified Chinese)|date=13 May 2013|archive-url=https://web.archive.org/web/20130513105009/http://bjwb.bjd.com.cn/html/2012-03/03/node_17.htm|archive-date=13 May 2013|url-status=dead|access-date=8 August 2019}}</ref> Thousands of non-Manchu speakers have learned the language through these measures.<ref>[http://liaoning.nen.com.cn/liaoning/178/3607178.shtml Northeastern News: Don't let Manchu language and scripts become a sealed book (simplified Chinese)]</ref><ref>{{Cite web|url=http://bjwb.bjd.com.cn/html/2012-03/03/content_55839.htm|title=Beijing Evening News: 1980s Generation's Rescue Plan of Manchu Language (simplified Chinese)|date=13 May 2013|website=bjwb.bjd.com.cn|archive-url=https://web.archive.org/web/20130513094153/http://bjwb.bjd.com.cn/html/2012-03/03/content_55839.htm|archive-date=13 May 2013|url-status=dead|access-date=8 August 2019}}</ref> Despite the efforts of NGOs, they tend to lack support from high-level government and politics.<ref name=":1" />
+
+The state also runs programs to revive minority cultures and languages. [[Deng Xiaoping]] promoted bilingual education. However, many programs are not suited to the ethnic culture or to passing knowledge to the younger generations. If the programs were created via "top-down political processes" the locals tend to look at them with distrust. But if they were formed via specialized governmental organizations, they fare better. According to [[Katarzyna Golik]]:<ref name=":1" /><blockquote>In [[Mukden]], the historical Manchurian capital, there is a [[Shenyang Manchu Association]] ({{lang|zh-hans|沈阳市满族联谊会}}) which is active in promoting Manchurian culture. The Association publishes books about Manchurian folklore and history and its activities are run independently from the local government. Among the various classes of the Manchurian language and calligraphy some turned out to be a success. Beijing has the biggest and most wealthy Beijing Daxing Regency Manchu Association ({{lang|zh-hans|北京大兴御苑满族联谊会}}). (pp100-101)</blockquote>Other support can be found internationally and on the [[Internet]]. Post-[[Cultural Revolution]] reform allowed for international studies to be done in China. The dying language and ethnic culture of Manchus gained attention, providing local support.<ref name=":0" /> Websites facilitate communication of language classes or articles.<ref name=":1" /> Younger generations also spread and promote their unique identity through popular Internet media.<ref name=":0" />
+
+Despite the increased efforts to revive the Manchu language, there are many obstacles standing in the way. Even with increased awareness, many Manchus choose to give up their language, some opting to learn Mongolian instead. Manchu language is still thought of as a foreign language in a Han-dominated Chinese speaking country.<ref name=":1" /> Obstacles are also found when gaining recognition from the state. Resistance through censorship prevented the performing of [[Banjin festivals]], a festival in recognition of a new reconstructed Manchu identity, in Beijing.<ref name=":0" />
+
+==Dialects==
+Dialects of Manchu include a variety of its historical and remaining spoken forms throughout [[Manchuria]], and the city of [[Peking]] (the capital). Notable historical Manchu dialects include [[Peking]], [[Ningguta]], [[Acheng District|Alcuka]] and [[Mukden]] dialects.
+
+===Peking Manchu dialect===
+{{About|the dialect of Manchu spoken in Peking (now known as "Beijing")|the Northern Mandarin dialect spoken in Beijing|Beijing dialect|section=yes}}
+
+{{Quote box
+ |quote = Many of the Manchu words are now pronounced with some Chinese peculiarities of pronunciation, so k before i and e=ch', g before i and e=ch, h and s before i=hs, etc. H before a, o, u, ū, is the guttural Scotch or German ch.
+|source = ''A Manchu Grammar: With Analysed Texts'', ''[[Paul Georg von Möllendorff]]'', p. 1.<ref>{{cite book|title=A Manchu Grammar: With Analysed Texts|first=Paul Georg von|last=Möllendorff|year=1892|edition=reprint|location=Shanghai|publisher=American Presbyterian mission Press|url=https://archive.org/details/cu31924023341112|page=[https://archive.org/details/cu31924023341112/page/n38 1]}}[https://archive.org/details/cu31924023341112/page/n38]</ref>
+}}
+
+The [[Beijing dialect|Chinese Northern Mandarin dialect spoken in Peking]] had a major influence on the phonology of the dialect of Manchu spoken in that city, and because Manchu phonology was transcribed into Chinese and European sources based on the sinicized pronunciation of Manchus from Peking, the original authentic Manchu pronunciation is unknown to scholars.<ref>{{cite book|url=https://books.google.com/books?id=KHwPAAAAYAAJ|title=Manchu Grammar, Part 8|volume=7 |editor-first=Liliya M.|editor-last=Gorelova|year=2002|publisher=Brill|page=77|isbn=9004123075}}</ref><ref>{{cite book|url=https://books.google.com/books?id=30kHAQAAIAAJ|title=Cahiers de linguistique: Asie orientale, Volumes 31-32 |year=2002 |publisher=Ecole des hautes études en sciences sociales, Centre de recherches linguistiques sur l'Asie orientale |page=208}}</ref>
+
+The Manchus of Peking (Beijing) were influenced by the Chinese dialect spoken in the area to the point where pronouncing Manchu sounds was hard for them, and they pronounced Manchu according to Chinese phonetics, whereas the Manchus of [[Aigun]] (in Heilongjiang) could both pronounce Manchu sounds properly and mimic the sinicized pronunciation of Manchus in Peking (Beijing), because they learned the Pekinese (Beijing) pronunciation from either studying in Peking or from officials sent to Aigun from Beijing, and they could tell them apart, using the Chinese influenced Pekinese pronunciation when demonstrating that they were better educated or their superior stature in society.<ref>{{cite book|url=https://books.google.com/books?id=FpEyQ1tUYTkC|title=Archives polonaises d'etudes orientales, Volumes 8–10 |first=S. M. |last=Shirokogoroff |chapter=Reading and Transliteration of Manchu Lit. |year=1934 |publisher=Państwowe Wydawn. Naukowe. |page=122}}</ref><ref>{{cite book|url=https://books.google.com/books?id=JsQSAAAAIAAJ|title=Rocznik orientalistyczny, Volumes 9–10|first=S. M.|last=Shirokogoroff |chapter=Reading and Transliteration of Manchu Lit. |year=1934 |page=122 }}</ref>
+
+====Changes in vowels====
+Phonetically, there are some characteristics that differentiate the Peking accent from the standard spelling form of Manchu. 
+* There are some occasional vowel changes in a word. For example {{ManchuSibeUnicode|lang=mnc|ᠴᡳᠮᠠᡵᡳ}} (''cimari'' /t͡ʃʰimari/) is pronounced [t͡ʃʰumari], {{ManchuSibeUnicode|lang=mnc|ᠣᠵᠣᡵᠠᡴᡡ}} (''ojorakū'' /ot͡ʃoraqʰʊ/) is pronounced [ot͡ɕiraqʰʊ], and {{ManchuSibeUnicode|lang=mnc|ᡤᡳᠰᡠᠨ}} (''gisun'' /kisun/) is pronounced [kysun].
+** In particular, when the vowel /o/ or diphthong /oi/ appears at the beginning of a word, it is frequently pronounced [ə] and [əi] respectively in Peking accent. For example, {{ManchuSibeUnicode|lang=mnc|ᠣᠩᡤᠣᠯᠣ}} (''onggolo'' /oŋŋolo/) is pronounced [əŋŋolo], {{ManchuSibeUnicode|lang=mnc|ᠣᡳᠯᠣ}} (''oilo'' /oilo/) is pronounced [əilo].
+* [[Diphthongization]] of vowels. /ə/ becomes /əi/ (such as {{ManchuSibeUnicode|lang=mnc|ᡩᡝᡥᡳ}} ''dehi'' /təxi/ pronounced [təixi]), /a/ becomes [ai] (such as {{ManchuSibeUnicode|lang=mnc|ᡩᠠᡤᡳᠯᠠᠮᠪᡳ}} ''dagilambi'' /takilampi/ pronounced [taikilami]), and /i/ becomes [iu] (such as {{ManchuSibeUnicode|lang=mnc|ᠨᡳᡵᡠ}} ''niru'' /niru/ pronounced [niuru], and {{ManchuSibeUnicode|lang=mnc|ᠨᡳᠴᡠᡥᡝ}} ''nicuhe'' /nit͡ʃʰuxə/ pronounced [niut͡ʃʰuxə]).
+* /oi/ becomes [uai], especially after /q/ (g). For example, {{ManchuSibeUnicode|lang=mnc|ᡤᠣᡳ᠌ᠮᠪᡳ}} ''goimbi'' /koimpi/ becomes [kuaimi].
+* Loss of vowels under certain conditions. The vowel /i/ following consonant /t͡ʃʰ/ (c) or /t͡ʃ/ (j) usually disappears. For example, {{ManchuSibeUnicode|lang=mnc|ᡝᠴᡳᡴᡝ}} ''ecike'' /ət͡ʃʰikʰə/ is pronounced [ət͡ʃʰkʰə], and {{ManchuSibeUnicode|lang=mnc|ᡥᠣᠵᡳᡥᠣᠨ}} ''hojihon'' /χot͡ʃiχon/ is pronounced [χot͡ʃχon]. There are also other cases where a vowel disappears in Peking accent. For example, {{ManchuSibeUnicode|lang=mnc|ᡝᡴᡧᡝᠮᠪᡳ}} ''ekšembi'' /əkʰʃəmpi/ is pronounced [əkʰʃmi], and {{ManchuSibeUnicode|lang=mnc|ᠪᡠᡵᡠᠯᠠᠮᠪᡳ}} ''burulambi'' /purulampi/ is pronounced [purlami].
+
+
+====Changes in Consonants====
+
+This section is primarily based upon Aisin Gioro Yingsheng's ''Miscellaneous Knowledge of Manchu'' (满语杂识).<ref>{{Cite book|last=Aisin Gioro|first=Yingsheng|title=Miscellaneous Knowledge of Manchu [满语杂识]|publisher=Xueyuan Press|year=2004|isbn=7-80060-008-4|location=Beijing|pages=221–230|language=Chinese}}</ref> 
+
+* Systemic merger of /q/ and /χ/ into [ʁ], and /k/ and /x/ into [ɣ] between voiced phonemes. For example, {{ManchuSibeUnicode|lang=mnc|ᠰᠠᡵᡤᠠᠨ}} (''sargan'' /sɑrqɑn/) is pronounced as [sɑrʁɑn], and {{ManchuSibeUnicode|lang=mnc|ᡠᡵᡤᡠᠨ}} (''urgun'' /urkun/) is pronounced as [urɣun].
+* Conversely, /χ/ may be pronounced as [qʰ] at the beginning of a word. For example, {{ManchuSibeUnicode|lang=mnc|ᡥᠠᠮᡳᠮᠪᡳ}} (''hamimbi'' /χɑmimpi/) is pronounced as [qʰamimi].
+* Assmilation of alveolar and postalveolar stops after /n/. For example, {{ManchuSibeUnicode|lang=mnc|ᠪᠠᠨᠵᡳᠮᠪᡳ}} (''banjimbi'' /pɑnt͡ʃimpi/) is pronounced as [pɑnnimi], and {{ManchuSibeUnicode|lang=mnc|ᡥᡝᠨᡩᡠᠮᠪᡳ}} (''hendumbi'' /xəntumpi/) is pronounced as [xənnumi].
+* /si/ is pronounced as [ʃɨ] in the middle of a word. For example, {{ManchuSibeUnicode|lang=mnc|ᡠᠰᡳᡥᠠ}} (''usiha'' /usiχɑ/) is pronounced as [uʃɨʁɑ].
+
+==Grammar==
+
+===Syntax===
+Manchu phrases are all head-final. This means that the head-word of a phrase (e.g. the [[noun]] of a [[noun phrase]], or the [[verb]] of a [[verb phrase]]) always falls at the end of the phrase. Thus, adjectives and adjectival phrases always precede the noun they modify, and the arguments to the verb always precede the verb. As a result, Manchu sentence structure is [[subject–object–verb]] (SOV).
+
+Manchu uses a small number of [[case-marking particles]]{{Citation needed|date=December 2008}} that are similar to those found in [[Korean language|Korean]], but also has a separate class of true [[postpositions]]. Case-markers and postpositions can be used together, as in the following sentence:
+
+{{interlinear|indent=4
+|bi tere niyalma-i emgi gene-he
+|I that person-GEN with go-PST
+|I went with that person}}
+
+In this example, the postposition {{transl|mnc|''emgi''}}, "with", requires its nominal argument to have the genitive case, and so we have the genitive case-marker {{transl|mnc|''i''}} between the noun {{transl|mnc|''niyalma''}} and the postposition.
+
+Manchu also makes extensive use of [[converb]] structures, and has an inventory of converbial suffixes that indicate the relationship between the subordinate verb and the finite verb that follows it. For example, given the following two sentences (which have finite verbs):
+
+{{interlinear|indent=4
+|tere sargan boo ci tuci-ke
+|that woman house ABL {go out}-PST.FIN
+|That woman came out of the house.}}
+{{interlinear|indent=4
+|tere sargan hoton de gene-he
+|that woman town DAT go-PST.FIN
+|That woman went to town.}}
+
+These two sentences can be combined into a single sentence using converbs, which will relate the first action to the second. For example:
+
+{{interlinear|indent=4
+|tere sargan boo ci tuci-'''fi''', hoton de gene-he
+|that woman house ABL {go out}-'''PST.CVB''', town DAT go-PST.FIN
+|That woman, having come out of the house, went to town.}}
+{{interlinear|indent=4
+|tere sargan boo ci tuci-'''me''', hoton de gene-he
+|that woman house ABL {go out}-'''IMPERF.CVB''', town DAT go-PST.FIN
+|That woman, coming out of the house, went to town.}}
+{{interlinear|indent=4
+|tere sargan boo ci tuci-'''cibe''', hoton de gene-he
+|that woman house ABL {go out}-'''CONC.CVB''', town DAT go-PST.FIN
+|That woman, though she came out of the house, went to town.}}
+
+===Cases===
+Manchu has five [[Grammatical case|cases]]. The cases are marked by particles<ref name=":2">{{Cite book|title=Manchu grammar|last=Goreleva|first=Liliya|publisher=Brill|year=2002|location=Leiden|pages=163–193}}</ref> that can be written either with the noun to which they apply or separately. The particles do not obey the rule of vowel harmony, yet they are also not truly postpositions.
+
+====[[nominative case|nominative]]====
+one of the principal syntactic cases; used for the subject of a sentence, no overt marking<ref name=":2" />
+
+====[[accusative case|accusative]]====
+(''be'') – one of the principal syntactic cases; indicate participants/direct object of a sentence. Direct objects can sometimes also take the nominative. It is commonly felt that the marked accusative has a definite sense, like using a definite article in English. Written separate from the word it follows.<ref name=":2" /> Accusative can be used in the following ways:
+
+* nominative-accusative strategy – indicates opposition between syntactic roles (subject = nominative; object – accusative)
+{{interlinear|indent=4
+|i boo '''be''' weile-mbi
+|he house ACC build-IMPERF
+|"He builds a house"}}
+* transitive verbs
+{{interlinear|indent=4
+|fe kooli '''be''' dahame yabu-mbi
+|old regulations ACC according.to act-IMPERF
+|"(Someone) acts according to old regulations"}}
+* transitive verb (negative form)
+* indicate when agent is caused to perform an action
+* indicate motion that is happening<ref name=":2" />
+
+====[[genitive case|genitive]]====
+(''i'' or ''ni'') – one of the principal syntactic cases; used to indicate possession or means by which something is accomplished.<ref name=":2" />
+
+Its primary function is to indicate the possessive one.
+
+e.g. possessor of an object
+{{interlinear|indent=4
+|boo '''i''' ejen
+|house GEN master
+|"the master of the house"}}
+
+e.g. persons relationships
+{{interlinear|indent=4
+|han '''i''' jui
+|khan GEN child
+|"the khan’s child"}}
+
+Other functions of genitive are:
+* attributive – nouns followed by genitive marker indicates attributives; also used for participles and verbs 
+* adverb – the noun is repeated with the addition of the genitive marker (i)<ref name=":2" />
+
+====[[dative case|dative]]-[[locative case|locative]]====
+(''de'')– used to indicate location, time, place, or indirect object.<ref name=":2" />
+
+The primary function is to indicate semantic role of recipient:
+
+{{interlinear|indent=4
+|ere niyalma '''de''' bu-mbi
+|this man DAT give-IMPERF
+|"(Someone) gives to this man"}}
+
+Other functions:
+* agent of a passive verb
+* indicate person who is in possession of something
+* indicate sources of something
+* indicate instrument of action (verbs in past tense, talking about other's)<ref name=":2" />
+
+====[[ablative case|ablative]]====
+(''ci'') – used to indicate the origin of an action or the basis for a comparison.<ref name=":2" />
+
+e.g. starting point in space or time
+{{interlinear|indent=4
+|boo-'''ci''' tuci-ke
+|house-ABL go.away-PAST
+|"(Someone) went away from the house"}}
+
+e.g. comparison of objects
+{{interlinear|indent=4
+|''ere'' erin '''ci''' oyonggo ningge akū
+|this time ABL important SBSTR COP.NEG (there.is.not)
+|"There is no time more important than the present"}}
+
+''deri''-form – used in Classical Manchu; different scholars have specified different meanings:
+* in the place of ''ci''
+* comparisons
+{{interlinear|indent=4
+|encu hehe-ši {(ma. hehe-si)} '''deri''' fulu tua-mbi {(ma. tuwa-mbi)}
+|other woman-PL {} from better consider-IMPERF {}
+|"(He) began to consider her better than other women"<ref name=":2" />}}
+
+====Less used cases====
+{{Citation needed|date=December 2008}}
+* [[initiative case|initiative]] – used to indicate the starting point of an action. suffix ''-deri''
+* [[terminative case|terminative]] – used to indicate the ending point of an action. suffix ''-tala''/''-tele''/''-tolo''
+* [[indefinite allative case|indef. allative]] – used to indicate 'to a place, to a situation' when it is unknown whether the action reaches exactly to the place/situation or around/near it. suffix ''-si''
+* [[indefinite locative case|indef. locative]] – used to indicate 'at a place, in a situation' when it is unknown whether the action happens exactly at the place/situation or around/near it. suffix ''-la''/''-le''/''-lo''
+* [[indefinite ablative case|indef. ablative]] – used to indicate 'from a place, from a situation' when it is unknown whether the action is really from the exact place/situation or around/near it. suffix ''-tin''
+* [[distributive case|distributive]] – used to indicate every one of something. suffix ''-dari''
+* [[Essive-formal case|formal]] – used to indicate a simile ("as/like"). suffix ''-gese''
+* [[identical case|identical]] – used to indicate that something is the same as something else. suffix ''-ali''/''-eli''/''-oli'' (apparently derived from the word ''adali'', meaning "same")
+* [[orientative case|orientative]] – used to indicate "facing/toward" (something/an action), showing only position and tendency, not movement in. suffix ''-ru''
+* [[revertive case|revertive]] – used to indicate "backward" or "against (something)". From the root 'ca' (see ''cargi'', ''coro'', ''cashu-n'', etc.) suffix ''-ca''/''-ce''/''-co''
+* [[translative case|translative]] – used to indicate change in the quality/form of something. suffix ''-ri''
+* [[indefinite accusative case|in. accusative]] – used to indicate that the touch of the verb on the object is not surely complete. suffix ''-a''/''-e''/''-o''/''-ya''/''-ye''/''-yo''
+
+In addition, there were some suffixes, such as the primarily adjective-forming suffix ''-ngga''/''-ngge''/''-nggo'', that appear to have originally been case markers (in the case of ''-ngga'', a [[genitive case]] marker), but which had already lost their productivity and become fossilized in certain lexemes by the time of the earliest written records of the Manchu language: e.g. ''agangga'' "pertaining to rain" as in ''agangga sara'' (an umbrella), derived from Manchu ''aga'' (rain).
+
+==Phonology==
+{{More footnotes|date=December 2008}}
+Written Manchu was close to being called an "[[open syllable]]" language because the only consonant that came regularly at the end of native words was {{IPA|/n/}}, similar to [[Beijing dialect|Beijing Mandarin]], [[Northeastern Mandarin]], [[Jilu Mandarin]] and [[Japanese language|Japanese]]. This resulted in almost all native words ending in a vowel. In some words, there were vowels that were separated by consonant clusters, as in the words ''ilha'' ('flower') and ''abka'' ('heaven'); however, in most words, the vowels were separated from one another by only single consonants.
+
+This open syllable structure might not have been found in all varieties of spoken Manchu, but it was certainly found in the southern dialect that became the basis for the written language. It is also apparent that the open-syllable tendency of the Manchu language had been growing ever stronger for the several hundred years since written records of Manchu were first produced: consonant clusters that had appeared in older forms, such as ''abka'' and ''abtara-mbi'' ('to yell'), were gradually simplified, and the words began to be written as{{Citation needed|date=July 2011}} ''aga'' or ''aha'' (in this form meaning 'rain'){{Dubious|Should be separate words|date=July 2011}} and ''atara-mbi'' ('to cause a commotion').
+
+===Consonants===
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+| {{IPAlink|m}} {{angbr|m}}
+| {{IPAlink|n}} {{angbr|n}}
+| {{IPAlink|ɲ}} {{angbr|ni}}
+| {{IPAlink|ŋ}} {{angbr|ng}}
+|-
+! rowspan="2" |[[Plosive consonant|Plosive]] || <small>[[Aspiration (linguistics)|aspirated]]</small>
+| {{IPAlink|pʰ}} {{angbr|p}}
+| {{IPAlink|tʰ}} {{angbr|t}}
+| {{IPAlink|tʃʰ}} {{angbr|c}}{{efn|Or {{angbr|ch}}, {{angbr|q}}.}}
+| {{IPAlink|kʰ}} {{angbr|k}}
+|-
+! <small>unaspirated</small>
+| {{IPAlink|p}} {{angbr|b}}
+| {{IPAlink|t}} {{angbr|d}}
+| {{IPAlink|tʃ}} {{angbr|j}}
+| {{IPAlink|k}} {{angbr|g}}
+|-
+! colspan="2" |[[Fricative consonant|Fricative]]
+| {{IPAlink|f}} {{angbr|f}}
+| {{IPAlink|s}} {{angbr|s}}
+| {{IPAlink|ʃ}} {{angbr|š}}{{efn|Or {{angbr|sh}}, {{angbr|ś}}, {{angbr|x}}.}}
+| {{IPAlink|x}} {{angbr|h}}
+|-
+! colspan="2" |[[Rhotic consonant|Rhotic]]
+|
+| {{IPAlink|r}} {{angbr|r}}
+|
+|
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|
+| {{IPAlink|l}} {{angbr|l}}
+| {{IPAlink|j}} {{angbr|y}}
+| {{IPAlink|w}} {{angbr|w}}
+|}
+{{notelist}}
+ 
+Manchu has twenty consonants, shown in the table using each phoneme's representation in the [[International Phonetic Alphabet|IPA]], followed by its romanization in italics. {{IPA|/p/}} was rare and found mostly in loanwords and [[onomatopoeia]]e, such as ''pak pik'' ('pow pow'). Historically, {{IPA|/p/}} appears to have been common, but [[sound change|changed]] over time to {{IPA|/f/}}. {{IPA|/ŋ/}} was also found mostly in loanwords and onomatopoeiae and there was no single letter in the [[Manchu alphabet]] to represent it, but rather a digraph of the letters for {{IPA|/n/}} and {{IPA|/k/}}. {{IPA|[ɲ]}} is usually transcribed with a digraph ''ni'', and has thus often been considered a sequence of phonemes {{IPA|/nj/}} rather than a phoneme of its own, though work in Tungusic historical linguistics suggests that the Manchu palatal nasal has a very long history as a single [[segment (linguistics)|segment]], and so it is shown here as phonemic.
+
+Early Western descriptions of Manchu phonology labeled Manchu ''b'' as "soft p", Manchu ''d'' as "soft t", and Manchu ''g'' as "soft k", whereas Manchu ''p'' was "hard p", ''t'' was "hard t", and ''k'' was "hard k". This suggests that the phonological contrast between the so-called [[Voice (phonetics)|voiced]] series (''b, d, j, g'') and the voiceless series (''p, t, c, k'') in Manchu as it was spoken during the early modern era was actually one of [[Aspirated consonant|aspiration]] (as shown here) or [[tenseness]], as in [[Mandarin Chinese|Mandarin]].
+
+{{IPA|/s/}} was [[affricated]] to {{IPA|[ts]}} in some or all contexts. {{IPA|/tʃʰ/}}, {{IPA|/tʃ/}}, and {{IPA|/ʃ/}} together with {{IPA|/s/}} were palatalized before /i/ or /y/ to {{IPA|[tɕʰ]}}, {{IPA|[tɕ]}}, and {{IPA|[ɕ]}}, respectively. {{IPA|/kʰ/}} and {{IPA|/k/}} were backed before /a/, /ɔ/, or /ʊ/ to {{IPA|[qʰ]}} and {{IPA|[q]}}, respectively. Some scholars analyse these [[uvular]] realizations as belonging to phonemes separate from {{IPA|/kʰ/}} and {{IPA|/k/}}, and they were distinguished in the Manchu alphabet, but are not distinguished in the romanization.
+
+===Vowels===
+[[File:Manchu Vowel Chart.svg|thumb|Vowels of Manchu.<ref>Tawney, Brian. "Reading Jakdan's Poetry: An Exploration of Literary Manchu Phonology". MA Thesis (Harvard, RSEA).</ref>]]
+
+{|class="wikitable" style="margin:auto;width:30%;text-align:center;"
+|-
+! neutral
+! front
+! back
+|-
+| i /{{IPA|i}}/
+|
+| ū /{{IPA|ʊ}}/
+|-
+| u /{{IPA|u}}/
+|
+| o /{{IPA|ɔ}}/
+|-
+|
+| e /{{IPA|e}} ~ {{IPA|ɤ}}/
+| a /{{IPA|ɑ}}/
+|}
+
+In this vowel system, the "neutral" vowels (''i'' and ''u'') were free to occur in a word with any other vowel or vowels. The lone front vowel (''e'', but generally pronounced like [[Standard Chinese|Mandarin]] [ɤ] ) never occurred in a word with either of the regular back vowels (''o'' and ''a''), but because the rules of [[vowel harmony]] are not perceptible with diphthongs, the diphthong ''eo'' occurs in some words, i.e. ''deo'', "younger brother", ''geo'', "a mare", ''jeo'', "department", ''leole'', "to discuss", ''leose'', "building", and ''šeole'', "to embroider", "to collect".<ref name="Gorelova2002">{{cite book|author=Liliya M. Gorelova|title=Manchu Grammar|url=https://books.google.com/books?id=KHwPAAAAYAAJ|date=1 January 2002|publisher=Brill|isbn=978-90-04-12307-6}}</ref>
+
+''e'' is pronounced as /e/ after ''y'', as in niyengniyeri /ɲeŋɲeri/.
+
+Between ''n'' and ''y'', ''i'' is absorbed into both consonants as /ɲ/.
+
+The relatively rare vowel transcribed ''ū'' (pronounced {{IPA|[y]}}<ref name="Möllendorff1892">{{cite book|author=Paul Georg von Möllendorff|title=A Manchu Grammar: With Analysed Texts|url=https://archive.org/details/cu31924023341112|year=1892|publisher=Printed at the American Presbyterian mission Press|pages=[https://archive.org/details/cu31924023341112/page/n38 1]–}}</ref>) was usually found as a [[back vowel]]; however, in some cases, it was found occurring along with the front vowel ''e''. Much disputation exists over the exact pronunciation of ''ū''. [[:de:Erich Hauer|Erich Hauer]], a German sinologist and Manchurist, proposes that it was pronounced as a front rounded vowel initially, but a back unrounded vowel medially.<ref>Li (2000), p. 17.</ref> William Austin suggests that it was a mid-central rounded vowel.<ref>Austin, William M., "The Phonemics and Morphophonemes of Manchu", in ''American Studies in Altaic Linguistics'', p. 17, [[Nicholas Poppe]] (ed.), Indiana University Publications, Vol. 13 of the Uralic and Altaic Series, Bloomington IN 1962</ref> The modern [[Xibe language|Xibe]] pronounce it identically to ''u''.
+
+==== Diphthongs ====
+There are altogether eighteen [[diphthong]]s and six triphthongs. The diphthongs are ''ai'', ''ao'', ''ei'', ''eo'', ''ia'', ''ie'', ''ii'', ''io'', ''iu'', ''oi'', ''oo'', ''ua'', ''ue'', ''ui'', ''uo'', ''ūa'', ''ūe'', ''ūi'', and ''ūo''. The triphthongs are ''ioa'', ''ioo'' (which is pronounced as {{IPA|/joː/}}), ''io(w)an'', ''io(w)en'', ''ioi'' ({{IPA|/y/}}), and ''i(y)ao'', and they exist in Chinese loanwords.<ref name="Möllendorff1892" />
+
+The diphthong ''oo'' is pronounced as {{IPA|/oː/}}, and the diphthong ''eo'' is pronounced as {{IPA|/ɤo/}}.
+
+===Loanwords===
+Manchu absorbed a large number of non-native sounds into the language from Chinese. There were special symbols used to represent the vowels of Chinese loanwords. These sounds are believed to have been pronounced as such, as they never occurred in native words. Among these, was the symbol for the high unrounded vowel (customarily romanized with a ''y'', /ɨ/) found in words such as ''sy'' (Buddhist temple) and ''Sycuwan'' (Sichuan); and the triphthong ''ioi'' which is used for the Chinese ''ü'' sound. Chinese [[Affricate consonant|affricates]] were also represented with consonant symbols that were only used with loanwords such as in the case of ''dzengse'' (orange) (Chinese: ''chéngzi'') and ''tsun'' (inch) (Chinese: ''cùn''). In addition to the vocabulary that was borrowed from Chinese, the Manchu language also had a large amount of loanwords from other languages such as [[Mongolian language|Mongolian]], for example the words ''morin'' (horse) and ''temen'' (camel).
+
+===Vowel harmony===
+The [[vowel harmony]] found in the Manchu language was traditionally described in terms of the philosophy of the ''[[I Ching]]''. Syllables with front vowels were described as being as "[[Yin and yang|yin]]" syllables whereas syllables with back vowels were called "[[Yin and yang|yang]]" syllables. The reasoning behind this was that the language had a kind of sound symbolism where front vowels represented feminine objects or ideas and the back vowels represented masculine objects or ideas. As a result, there were a number of word pairs in the language in which changing the vowels also changed the gender of the word. For example, the difference between the words ''hehe'' (woman) and ''haha'' (man) or ''eme'' (mother) and ''ama'' (father) was essentially a contrast between the front vowel, [e], of the feminine and the back vowel, [a], of the masculine counterpart.
+
+==Writing system==
+{{Main|Manchu alphabet}}
+The Manchu language uses the [[Manchu alphabet|Manchu script]], which was derived from the traditional [[Mongolian writing systems|Mongol script]], which in turn was based on the vertically written pre-Islamic [[Old Uyghur alphabet|Uyghur script]]. Manchu is usually [[Romanization|romanized]] according to the system devised by [[Paul Georg von Möllendorff]] in his book on Manchu grammar. Its ancestor, [[Jurchen language|Jurchen]], used the [[Jurchen script]], which is derived from the [[Khitan large script|Khitan script]], which in turn was derived from [[Chinese characters]]. There is no relation between the [[Jurchen script]] and the [[Manchu alphabet|Manchu script]].
+
+[[Chinese characters]] can also be used to [[Transcription into Chinese characters|transliterate Manchu]].<ref>{{cite book
+|url=https://books.google.com/books?id=ebdAAQAAIAAJ&pg=PA197
+|title=Asiatic journal and monthly miscellany
+|publisher=Wm. H. Allen & Co.
+|location=London
+|page=197
+|date=May–August 1837
+}}</ref> All the Manchu vowels and the syllables commencing with a consonant are represented by single Chinese characters as are also the syllables terminating in ''i, n, ng'' and ''o''; but those ending in ''r, k, s, t, p, I, m'' are expressed by the union of the sounds of two characters, there being no Mandarin syllables terminating with these consonants. Thus the Manchu syllable ''am'' is expressed by the Chinese characters ''a-muh'' (8084, 7800) ({{lang|zh|阿木}}, ''a mù'') and the word ''Manchu'' is, in the [[Kangxi Dictionary]], spelled in the following manner: ''Ma'' (7467) ''-a'' (8084) ''gan'' (2834) ({{lang|zh|瑪阿安}}, ''mǎ ā ān'') —Man; ''—choo'' (1303) ''a'' (11767) ({{lang|zh|諸烏}}, ''zhū wū'') ''chu''; —Manchu.<ref>{{cite book
+|url=https://books.google.com/books?id=ebdAAQAAIAAJ&pg=PA198
+|title=Asiatic journal and monthly miscellany
+|publisher=Wm. H. Allen & Co.
+|location=London
+|page=198
+|date=May–August 1837
+}}</ref>
+
+===Teaching===
+Mongols learned their script as a [[syllabary]], dividing the syllables into twelve different classes,<ref>{{cite book|title=Translation of the Ts'ing wan k'e mung, a Chinese Grammar of the Manchu Tartar Language; with introductory notes on Manchu Literature: (translated by A. Wylie.)|url=https://books.google.com/books?id=v6k-AAAAcAAJ&pg=PR28|year=1855|publisher=Mission Press|pages=xxvii–}}</ref><ref name="Ko1855">{{cite book|author=Shou-p'ing Wu Ko|title=Translation (by A. Wylie) of the Ts'ing wan k'e mung, a Chinese grammar of the Manchu Tartar language (by Woo Kĭh Show-ping, revised and ed. by Ching Ming-yuen Pei-ho) with intr. notes on Manchu literature|url=https://books.google.com/books?id=fdAOAAAAQAAJ&pg=PR28|year=1855|pages=xxvii–}}</ref> based on the final phonemes of the syllables, all of which ended in vowels.<ref>Chinggeltei. (1963) ''A Grammar of the Mongol Language''. New York, Frederick Ungar Publishing Co. p. 15.</ref><ref>{{cite ECCP|title=Dahai}}</ref> The Manchus followed the same syllabic method when learning Manchu script, also with syllables divided into twelve different classes based on the finals phonemes of the syllables. Today, the opinion on whether it is alphabet or syllabic in nature is still split between different experts. In China, it is considered syllabic and Manchu is still taught in this manner. The alphabetic approach is used mainly by foreigners who want to learn the language. Studying Manchu script as a syllabary takes a longer time.<ref>{{cite book|url=https://books.google.com/books?id=6fqJL619dlgC|title=Manchu: a textbook for reading documents|year=2000|author=Gertraude Roth Li|publisher=University of Hawaii Press|isbn=0824822064|quote=Alphabet: Some scholars consider the Manchu script to be a syllabic one.|page=16|access-date=25 March 2012}}</ref><ref>{{cite book|url=https://books.google.com/books?id=1bArr1-E5mQC|title=Manchu: A Textbook for Reading Documents (Second Edition)|year=2010|author=Gertraude Roth Li|publisher=Natl Foreign Lg Resource Ctr|edition=2|isbn=978-0980045956|quote=Alphabet: Some scholars consider the Manchu script to be a syllabic one. Others see it as having an alphabet with individual letters, some of which differ according to their position within a word. Thus, whereas Denis Sinor argued in favor of a syllabic theory,30 Louis Ligeti preferred to consider the Manchu script and alphabetical one.31 |page=16|access-date=1 March 2012}}()</ref>
+
+Despite the alphabetic nature of its script, Manchu was not taught phoneme per letter like western languages are; Manchu children were taught to memorize all the syllables in the Manchu language separately as they learned to write, like Chinese characters. To paraphrase Meadows 1849,<ref name="Meadows1849">{{cite book|author=Thomas Taylor Meadows|title=Translations from the Manchu: with the original texts, prefaced by an essay on the language|url=https://archive.org/details/translationsfrom00meadrich|year=1849|publisher=Press of S.W. Williams|pages=[https://archive.org/details/translationsfrom00meadrich/page/3 3]–}}</ref><blockquote>Manchus when learning, instead of saying l, a—la; l, o—lo; &c., were taught at once to say la, lo, &c. Many more syllables than are contained in their syllabary might have been formed with their letters, but they were not accustomed to arrange them otherwise. They made, for instance, no such use of the consonants l, m, n, and r, as westerners do; hence if the Manchu letters s, m, a, r, t, are joined in that order a Manchu would not able to pronounce them as English speaking people pronounce the word 'smart'.</blockquote>However this was in 1849, and more research should be done on the current teaching methods used in the PRC.
+
+==Further reading==
+'''Learning texts of historical interest'''
+* {{cite book|url=https://archive.org/details/cu31924023341112|title=A Manchu grammar: with analysed texts|year=1892|author=Paul Georg von Möllendorff|publisher=Printed at the American Presbyterian mission press|pages=[https://archive.org/details/cu31924023341112/page/n63 52]|access-date=1 March 2012}}
+* {{cite book|url=https://books.google.com/books?id=v6k-AAAAcAAJ|title=Translation of the Ts'ing wan k'e mung, a Chinese Grammar of the Manchu Tartar Language; with introductory notes on Manchu Literature: (translated by A. Wylie.)|year=1855|author=A. Wylie|publisher=Mission Press|access-date=1 March 2012}}
+*{{cite book|url=https://archive.org/details/translationsfrom00meadrich|title=Translations from the Manchu: with the original texts, prefaced by an essay on the language|year=1849|author=Thomas Taylor Meadows|publisher=Press of S.W. Williams|location=Canton|pages=54http://www.endangeredlanguages.com/lang/1205/guide/6302|access-date=10 February 2012}}
+'''For readers of Chinese'''
+*{{Cite book|first1=Jingxian|last1=Liu|first2=Aping|last2=Zhao|first3=Jinchun|last3=Zhao|title=满语研究通论 (General Theory of Manchu Language Research)|publisher=Heilongjiang Korean Nationality Publishing House|year=1997|isbn=9787538907650|url=http://book.douban.com/subject/2072927/}}
+*{{Cite book|first=Yonghai|last=Ji|title=满语语法 (Manchu Grammar)|publisher=Minzu University of China Press|year=2011|isbn=9787811089677|url=http://book.douban.com/subject/6436261/}}
+*{{Cite book|first=Yingsheng|last=Aisin Gioro|title=满语杂识 (Divers Knowledges of Manchu language)|publisher=Wenyuan Publishing House |year=2004|isbn=7-80060-008-4|url=http://book.douban.com/subject/1520812/}}
+'''Literature'''
+*{{cite journal |journal=Journal of the China Branch of the Royal Asiatic Society for the Year ..., Volumes 24-25 |title=Essay on Manchu Literature |first=P. G. |last=von Möllendorff |year=1890 |publisher=The Branch |url=https://books.google.com/books?id=saJDAAAAYAAJ&pg=PA1 |pages=1–45 }}
+*{{cite book |title=A catalog of the Wade collection of Chinese and Manchu books in the library of the University of Cambridge |first=Thomas Francis |last=Wade |editor=Herbert Allen Giles |year=1898 |publisher=University Press |url=https://archive.org/details/catalogofwadecol00cambrich }}
+*{{cite book|title=A Catalogue of the Collection of Chinese and Manchu Books Given to the University of Cambridge|author=Cambridge University Library |year=1898 |publisher=The University Press |url=https://books.google.com/books?id=CEVDAAAAYAAJ }}
+*{{cite book |title=Descriptive catalogue of the Chinese, Japanese, and Manchu books |editor=James Summers |year=1872 |url=https://books.google.com/books?id=d5AuAAAAYAAJ }}
+*{{cite book |language=de |title=Verzeichniss der chinesischen und mandshuischen Bücher und Handschriften der K. Bibliothek zu Berlin |first=Heinrich Julius |last=Klaproth |year=1822 |location=Paris |publisher=In der Königlichen Drunerel |url=https://archive.org/details/bub_gb_D6ZFAAAAcAAJ}}
+
+== References ==
+=== Citations ===
+{{Reflist}}
+
+=== Sources ===
+{{refbegin}}
+* {{cite book |first = Liliya |last = Gorelova M. |chapter = |title = Manchu Grammar |location = Leiden; Boston; Köln. |publisher = Brill Academic Publishers |year = 2002 |url = https://theswissbay.ch/pdf/Books/Linguistics/Mega%20linguistics%20pack/Tungusic/Manchu%20Grammar%20%28Gorelova%29.pdf |isbn = 90-04-12307-5}}
+* {{cite journal
+|last = Elliott
+|first = Mark
+|title = Why Study Manchu?
+|journal = Manchu Studies Group
+|year = 2013
+|url = http://www.manchustudiesgroup.org/why-study-manchu/
+}}
+* {{citation |first = Joseph |last = Fletcher |chapter = Manchu Sources |title = Essays on the Sources for Chinese History |editor-last = Leslie Donald, Colin Mackerras and Wang Gungwu |location = Canberra |publisher = ANU Press |year = 1973 }}
+* Haenisch, Erich. 1961. ''Mandschu-Grammatik''. Leipzig: Veb Verlag Enzyklopädie&nbsp;{{in lang|de}}
+* {{cite journal
+|last = Hauer
+|first = Erich
+|title = Why the Sinologue Should Study Manchu
+|journal =Journal of the North China Branch of the Royal Asiatic Society
+|volume = 61
+|pages = 156–164
+|year = 1930
+|url = http://www.manchustudiesgroup.org/wp-content/uploads/2013/01/Hauer-Eric-Why-the-Sinologue-should-study-Manchu.pdf 
+}}
+* {{cite book |last = Li, Gertraude Roth |year = 2000 |title = Manchu: A Textbook for Reading Documents |publisher = University of Hawai`i Press| location = Honolulu, Hawaii |url = https://books.google.com/books?id=6fqJL619dlgC|isbn = 0824822064 }}
+* Erling von Mende. 2015. "In Defence of Nian Gengyao, Or: What to Do About Sources on Manchu Language Incompetence?". Central Asiatic Journal 58 (1-2). Harrassowitz Verlag: 59–87. https://www.jstor.org/stable/10.13173/centasiaj.58.1-2.0059.
+* Möllendorff, Paul Georg von. 1892. {{cite book|author=Paul Georg von Möllendorff|title=A Manchu Grammar: With Analysed Texts|url=https://archive.org/details/cu31924023341112|year=1892|publisher=Printed at the American Presbyterian mission Press}} Shanghai. {{Wikisource-inline|A Manchu Grammar|single=true}}
+* [[Jerry Norman (sinologist)|Norman, Jerry]]. 1974. "Structure of Sibe Morphology", ''Central Asian Journal''.
+* Norman, Jerry. 1978. ''A Concise Manchu–English Lexicon'', University of Washington Press, Seattle.
+* Norman, Jerry. 2013. ''A Comprehensive Manchu–English Dictionary'', Harvard University Press (Asia Center), Cambridge {{ISBN|9780674072138}}.
+* Ramsey, S. Robert. 1987. ''The Languages of China.'' Princeton University Press, Princeton New Jersey {{ISBN|0-691-06694-9}}
+* Tulisow, Jerzy. 2000. ''Język mandżurski''&nbsp;(« The Manchu language »), coll.&nbsp;« Języki Azjii i Afryki »&nbsp;(« The languages of Asia and Africa »), Dialog, Warsaw, 192&nbsp;p.&nbsp;{{ISBN|83-88238-53-1}}&nbsp;{{in lang|pl}}
+* Kane, Daniel. 1997. "Language Death and Language Revivalism the Case of Manchu". Central Asiatic Journal 41 (2). Harrassowitz Verlag: 231–49. https://www.jstor.org/stable/41928113.
+* {{cite web|last=Aiyar|first=Pallavi|url=http://www.atimes.com/atimes/China/ID26Ad01.html|title=Lament for a dying language|newspaper=[[Asia Times]]|date=26 April 2007|url-status=unfit|archive-url=https://web.archive.org/web/20070428091229/http://www.atimes.com/atimes/China/ID26Ad01.html|archive-date=28 April 2007}}
+{{refend}}
+
+== External links ==
+{{Incubator |code = mnc |language = Manchu }}
+{{Incubator|mnc|wiktionary |language = Manchu}}
+{{Incubator|mnc|wikiquote |language = Manchu}}
+{{Wiktionary pipe|Appendix:Altaic Swadesh lists|Manchu Swadesh vocabulary list}}
+{{Wikibooks|Manchu}}
+{{Wikisource|A Manchu Grammar|Wikisource copy of <br />'''"A Manchu Grammar with Analysed Texts" '''<br />by P.G. von Möllendorff, 1892}}
+{{Wikisourcelang| |Main Page/ᠮᠠᠨᠵᡠ ᡤᡳᠰᡠᠨ|{{ManchuSibeUnicode|lang=mnc|<big>'''ᠮᠠᠨᠵᡠ<br />ᡤᡳᠰᡠᠨ'''</big>}}|<br />(source texts in Manchu language)}}
+{{Wikivoyage|Manchu phrasebook|Manchu|a phrasebook}}
+* [[Wiktionary:Appendix:Altaic Swadesh lists|Manchu Swadesh vocabulary list of basic words]] (from Wiktionary's [[Wiktionary:Appendix:Swadesh lists|Swadesh-list appendix]])
+* [http://abkai.net/core/en/ Abkai — Unicode Manchu/Sibe/Daur Fonts and Keyboards]
+* [http://ccel.org/contrib/cn/orthodox/bible/manchu/02mk_manchu.pdf Manchu language Gospel of Mark]
+* [http://www.omniglot.com/writing/manchu.htm Manchu alphabet and language] at Omniglot
+* [https://web.archive.org/web/20061114114835/http://homepage.mac.com/thgewecke/Manchu.html Manchu Test Page]
+* [https://web.archive.org/web/20151016205944/http://www.anakv.com/Blog/index.php?job=art&articleid=a_20060818_221852 Manchu–Chinese–English Lexicon]
+* [https://web.archive.org/web/20121115224405/http://www.anakv.com/dict/ online Manchu–Chinese, Manchu–Japanese lexicon] {{in lang|zh}}
+* [https://web.archive.org/web/20121113221947/http://www.anakv.com/ Anaku Manchu Script Creator] {{in lang|zh}}
+* [https://web.archive.org/web/20071206060744/http://video.on.nytimes.com/index.jsp?fr_story=5091d9e27d5ca3a47f437739abdf216dcafaf3f9 A Dying Language]
+* [https://web.archive.org/web/20070205035727/http://www.chass.utoronto.ca/~dresher/ICMTSpub.pdf Contrast In Manchu Vowel Systems]
+* [http://www.enenggi.com Manchu Word Of The Day, Open Source Manchu–English dictionary]
+* [http://enenggi.googlecode.com/svn/trunk/source/Documents/Manchu-English%20Dictionary.txt Manju Nikan Inggiri Gisun i Buleku Bithe (Manchu–Chinese–English dictionary)] {{dead link|date=June 2014}}
+* [http://www.endangeredlanguages.com/lang/1205/guide/6302 Manchu language guide]
+* [http://www.manchustudiesgroup.org/ The Manchu Studies Group]
+* [http://www.manjurist.net/Thesis_Final.pdf Tawney, Brian. "Reading Jakdan's Poetry: An Exploration of Literary Manchu Phonology". AM Thesis (Harvard, RSEA)].
+* [http://www.confucius.cn.net/rdqw/95htm/H1_H106_9.htm 清代满族语言文字在东北的兴废与影响]
+
+{{Languages of China}}
+{{Tungusic languages}}
+
+{{Portal bar|China|History|Languages}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Manchu Language}}
+[[Category:Manchu language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Endangered languages]]
+[[Category:Languages of China]]
+[[Category:Tungusic languages]]
+[[Category:Subject–object–verb languages]]
+[[Category:Manchuria]]
+[[Category:Vowel-harmony languages]]

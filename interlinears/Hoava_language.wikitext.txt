@@ -1,0 +1,464 @@
+{{short description|Austronesian language spoken in the Solomon Islands}}
+{{Distinguish|text = the [[Huave language]] of Mexico}}
+{{Infobox language
+|name=Hoava
+|states=[[Solomon Islands]]
+|region=Marovo Lagoon (Nggerasi Lagoon), [[New Georgia Island]]
+|speakers=460
+|date=1999
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Northwest Solomonic languages|Northwest Solomonic]]
+|fam5=New Georgia – Ysabel
+|fam6=[[New Georgia languages|New Georgia]]
+|iso3=hoa
+|glotto=hoav1238
+|glottorefname=Hoava
+}}
+
+'''Hoava''' is an [[Oceanic languages|Oceanic language]] spoken by 1000–1500 people on [[New Georgia Island]], [[Solomon Islands]]. Speakers of Hoava are multilingual and usually also speak [[Roviana language|Roviana]], Marovo, SI Pijin, English.
+
+==Introduction==
+
+===History===
+Hoava is an [[Austronesian languages|Austronesian]] language that is spoken mostly on the island of [[New Georgia]]. [[New Georgia]] is a mountainous island, 85 kilometres long and 41 kilometres wide at its widest part, with a total area of 2,145 square kilometres, covered with dense rainforests (Davis 2003). The island of New Georgia was involved in WWII that was later named the [[New Georgia Campaign]] which lasted from June 20 to November 3.
+
+===Population===
+Hoava is an [[Austronesian languages|Austronesian]] language that is spoken in 3 known locations: [[Western Province (Solomon Islands)|Western Province]], [[New Georgia]] island, [[North Marovo lagoon]], but mainly New Georgia island of the Solomon Islands. According to a 1986 census there are about 2,360 speakers of the language, but language is spoken by 460 people in latest census that was taken in 1999 suggesting a huge drop off in the number of speakers.
+
+==Phonology==
+
+===Consonant Inventory===
+Hoava uses 16 consonants in its [[phoneme]] system, /p, t, b, d, s, β, m, n, r, l, dʒ, k, g, ɣ, ŋ, h/.
+
+===Vowel Inventory ===
+Hoava uses 5 vowels: /i, ɛ, a, ɔ, u/. There is no [[phonemic distinction]] of vowel length, although vowels can be lengthened when stressed (Davis 2003). The vowels can be combined into pairs with the weight of two syllables (Davis 2003).
+
+===Syllable Structure===
+Hoava has an [[open syllable structure]] of (C)V. Two vowels occurring together are counted as two syllables, since they function as such for transitive marking rules (Davis 2003). For many Oceanic languages of the [[Austronesian languages|Austronesian]] family group it is common that words do not end in consonant..
+
+==Syntax==
+
+===Basic Word Order===
+In traditional typology Hoava is a [[Verb–subject–object|VSO]] language. There are some modifications to this particular pattern for focusing and [[topicalization]] purposes (Davis 2003).
+
+== Morphology ==
+
+===Reduplication===
+[[Reduplication]] is frequently used in Hoava as a method of word formation, to express intensification, and to form the progressive aspect of a verb (Davis 2003). [[Reduplication]] is used to create words denoting entities related to the referent of the source word, either as part of the entity, or having a resemblance to it, or being a metaphorical extension"(Davis 2003). 
+* "bui", lost; "bu-bui", forgot
+* "yasa", jump; "yasa-yasa", jumping
+
+=== Pronouns ===
+
+==== Personal pronouns ====
+Information in the following sections is based on Davis 2003:45-109,<ref name=":0">{{harvnb|Davis|2003|pages=45–109}}</ref> unless otherwise stated. Subsequent references give only relevant page numbers and figures.
+
+Within the Language Hoava there exists three sets of characteristics in order to distinguish between which [[personal pronoun]] is to be used. This includes whether the pronoun is; first, second or third person. The Plurality needed, whether it is singular or plural and whether it is Inclusion or exclusion. 
+
+{| class="wikitable"
+|+Personal Pronouns in Hoava<br><sup>(pg 46, Figure 63)</sup> <ref name=":0" />
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | rao
+| gami
+|-
+! {{small|inclusive}}
+| gita
+|-
+! colspan="2" | 2nd person
+| goe
+| gamu
+|-
+! colspan="2" | 3rd person
+| i(sa)
+| ria
+|}
+
+There are a number of extra circumstances and exceptions which are also present when discussing the use of personal pronouns. One specific example of this is the third person singular form '''isa''' which is used as an emphatic (forcible) form or used to refer to a particular topic. Speakers of Hoava tend to use '''sa''' for a more general pronoun.
+
+The third person pronoun '''eri''' is used with a dual form created by using the number two ‘'''karu'''’ after a plural pronoun. A trial form is also created by using the number three prefix ‘ka-hike’. The dual forms are obligatory whereas trial forms can be replaced by a simple plural.
+
+Forms specific for four people are common when it is significant to know that four people were involved. The number four follows the pronoun with the number prefix added e.g. '''gita ka-made, gami ka-made'''. Other numbers can be substituted into a sentence in the same matter. When these dual or numerical forms are used, it is most commonly at the start of a narrative to add the names of the others in the group. This does not include the speaker themselves. These pronoun forms can come before a noun phrase in [[apposition]].
+
+{{interlinear|number=ex:
+|Sagele pale mae eri karu
+|Go.up return come PRO:3PL two
+|‘They (two) came back up.’
+<sup>(Pg 47, Figure 68)</sup> <ref name=":0" />}}
+
+Some other characteristics to note with the use of pronouns in Hoava is that pronouns can be followed by [[demonstrative]]s and by the restrictive particle '''qa,''' an example of this can be seen below.
+
+There exist some cases in Hoava in which it is not completely necessary for a pronoun to be present or where exceptions to the use of pronouns exist. Firstly; It is common for the pronoun to be dropped from a sentence completely once it has been made clear who is being referred to, or if it is clear who is being referred to by other information such as object markers. Also, the dropping of pronouns referring to animate objects is predominantly done with first person singular and plural and second person plural pronouns in object position, as the object marker on the verb is the same as the pronoun.
+
+Inanimate objects in Hoava do not often have a [[Pronoun|pronominal]] reference; a construction which resembles a pronoun to identify the object. However, it is possible to use a pronoun for an inanimate object even though it is rare.
+
+Within Hoava Language there exists no [[Reflexive pronoun|reflexive]] forms of the pronouns. In order to create the same meaning as a reflexive the verb '''pule''' (meaning return) is used. “There is no subject or object pronoun used, other than the object marker on the applicative suffix…in any of the sentences elicited with the pule used in this manner.” (pg.49) <ref name=":0" />
+
+{{interlinear|number=ex:
+|Vaquru teqe pule-ni-rao qa
+|New cut return-AP-1SG REST
+|‘I’ve just cut myself.’
+<sup>(Pg 49, Figure 78b)</sup> <ref name=":0" />}}
+
+As you can see in the example above '''pule''' has been used with the applicable [[suffix]] and the singular, exclusive first person, pronoun '''rao,''' to create the meaning of the reflexive form ‘I’ve’. Also, the pronoun is followed by the restrictive particle '''qa''' which is a characteristic that was mentioned earlier to sometimes occur with the use of pronouns.
+
+The morpheme '''tale-''' can also be used in the instances mentioned above but rather than performing a reflexive function it acts as an emphasis that no other people were involved apart from the speaker.
+
+{{interlinear|number=ex:
+|Vaquru teqe pulu-ni-a tale-na.
+|New cut return-AP-3SG alone-3SG
+|‘(She) has just cut herself.’
+<sup>(Pg. 49, Figure 79)</sup> <ref name=":0" />}}
+
+Within the [[lexicon]] of Hoava there exists some verbs which have an inherent reflexive meaning built into them and so therefore the use of an extra form which suggests that it is reflexive is not needed. These are verbs which automatically mean performing an action to oneself such as; '''hele''' ‘wash oneself’ or '''viraka''' ‘scratch (oneself)’
+
+==== Demonstrative pronouns ====
+In Hoava there exists a three-way spatial differentiation of [[deixis]]. This includes: proximal, close to the speaker; distal, close to the hearer; and remote, distant for the speaker and the hearer. Of the three sets of demonstratives in Hoava two sets concern the use of pronouns. A set of long forms that are used as both noun modifiers and as demonstrative pronouns and another set which is restricted to being used only as demonstrative pronouns. An extra set of ‘near to hearer’ long demonstratives is also used both as a noun modifier and demonstrative pronoun. These sets all have both singular and plural forms which can be used.
+
+{| class="wikitable"
+|+Long Demonstratives of Hoava<br><sup>(Pg. 81)</sup> <ref name=":0" />
+! 
+! Singular
+! Plural
+|-
+! proximal<br>{{small|(close to speaker)}}
+| heni
+| heri
+|-
+! distal<br>{{small|(close to hearer)}}
+| sani
+| sari
+|-
+! remote<br>{{small|(distant)}}
+| hunai
+| huari
+|}
+
+These long demonstratives can act as demonstrative pronouns at the beginning of a noun phrase.
+
+An example of the use of long demonstratives is as follows:
+
+{{interlinear|number=ex:
+|Heri ria nikana vihe.
+|PROX:PL ART:PL man choose
+|‘These are the chosen men.’
+<sup>(pg.85, figure 204d)</sup> <ref name=":0" />}}
+
+It is more common in Hoava for the [[morpheme]]s '''isana''' and '''tiara''' to be used in place as demonstrative pronouns in favour of the singular distal demonstratives '''sani''' and the plural '''sari.''' It is also not common for the remote demonstratives '''Huani''' and '''Huari''' to be used.
+
+Hoava has a set of short demonstratives, which are a group of particles found after the noun head of a noun phrase. They have the noun modifying function of adding a sense of definiteness and they may also signify tense. They can be used with common nouns, names, and pronouns. 
+
+{| class="wikitable"
+|+Short Demonstratives of Hoava<br><sup>(Pg 87. Figure 212)</sup> <ref name=":0" />
+!
+!Singular
+!Plural
+|-
+!Close
+|ni
+|ri
+|-
+!Distant
+|na
+|ra
+|-
+!Remote/past
+|so
+|ro
+|}
+
+For example, a short demonstrative follows a personal pronoun:
+
+{{interlinear|number=ex:
+|Kolo, na sa taveti-a gamu na?
+|Friend ART what do.TR-3SG POR:2PL DEM
+|‘Friend, what are you doing?’
+<sup>(pg.87, figure 213c)</sup> <ref name=":0" />}}
+
+The long demonstratives mentioned above cannot occur after the emphatic particles '''ba''' and '''ga''' as another set of emphatic demonstrative pronouns exist for that case. This other set is used also in questions or as an alternative to the long forms. 
+
+{| class="wikitable"
+|+Emphatic set of demonstratives<br><sup>(Pg. 93, Figure 232)</sup> <ref name=":0" />
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="3" | Visible
+! Near speaker
+| pi
+| piri
+|-
+! Near hearer
+| sana
+| sara
+|-
+! Distant
+| pu
+| puru
+|-
+! colspan="2" | Not visible
+| si
+| siri
+|}
+
+{{interlinear|number=ex:
+|Na sa heni? Na binu ba sana.
+|ART what PRO:SG ART lime EMPH DIST:SG
+|‘What is this?’ ‘That’s lime!’
+<sup>(pg.94. figure 237b)</sup> <ref name=":0" />}}
+
+==== Possessive pronouns ====
+Hoava has a set of possessive pronouns which are used at the head of a noun phrase before the item which is being possessed. They are used in cases of exclusive possession.
+
+{| class="wikitable"
+|+Possessive Pronouns in Hoava<br><sup>(Pg. 104, Figure 263)</sup> <ref name=":0" />
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! {{small|exclusive}}
+| rowspan="2" | qua
+| mami
+|-
+! {{small|inclusive}}
+| nada
+|-
+! colspan="2" | 2nd person
+| mua
+| mi
+|-
+! colspan="2" | 3rd person
+| nana
+| dia
+|}
+
+{{interlinear|number=ex:
+|Mami gugasu
+|POSS:1PL.EX village
+|‘our village’}}
+
+{{interlinear|number=ex:
+|Na dia sanu koe-di
+|ART POSS:3PL thing old-3PL
+|‘Their old things’
+<sup>(Pg. 104. Figure 264 a and c)</sup> <ref name=":0" />}}
+
+=== Person Marking ===
+Hoava has two optional articles '''E''' and '''se''' which, may or may not be used with personal names or personified animals and birds. These articles are used before the name and although '''Se''' is more likely to be used over '''E''' neither example is completely necessary and can be dropped.
+
+{{interlinear|number=ex:
+|{Samu Gobe} misianare tami gami
+|{Samu Gobe} teacher POSS:1PL.EX PRO:1PL.EX
+|‘Our teacher was Samu Gobe.’
+<sup>(Pg. 59, Figure114b)</sup> <ref name=":0" />}}
+
+== Negation ==
+Hoava consists of four types of sentential negation; '''kipu''''','' '''kae''', '''kahi''' and '''maki''.''''' All for of these negative particles are placed before the predicate. 
+
+=== The negator kipu ===
+The negator '''kipu''' expresses factual negation, whereby the speaker claims that what they are saying is correct. As shown in figure 1.1, '''kipu''' can be used in past and present events. These are asserted to be factual. However, in figure 1.2, '''kipu''' can also be used to indicate future events that are expected to be true. Note that '''kipu''' can both precede and follow the future particle. 
+
+Figure 1.1
+
+{{interlinear|indent=3
+|Kipu gilali rao vivine-di ria ra.
+|NEG know.TR:3PL PRO:1SG story-3PL PRO:3PL DEM
+|‘I don’t know the stories of them.’}}
+
+{{interlinear|indent=3
+|Saonae kipu pule sa loa-na. [KUS]
+|long.time NED return ART.SG spouse-3SG {}
+|‘Her husband did not return for a long time.’}}
+
+{{interlinear|indent=3
+|Kipu isa qa sa pakupaku.
+|NEG PRO:3SG REST ART:SG necklace 
+|‘It’s not the necklace.’
+<sup>(Pg. 243, Figure 68a, b and c)</sup> <ref name=":0" />}}
+
+Figure 1.2
+
+{{interlinear|indent=3
+|Pula ve, koni kipu ta-va-mate.
+|If like FUT NEG PASS-CAUSE-be.dead
+|‘If so, (he) will not be killed.’}}
+
+{{interlinear|indent=3
+|Kipu koni taveti ria ba sara.
+|NEG FUT make.TR:3PL PRO:3PL EMPH those
+|‘They will not make ''those''.’
+<sup>(Pg. 243, Figure 69a and b)</sup> <ref name=":0" />}}
+
+In figure 1.3, '''kipu''' is placed after the definite article of a nominal predicate:
+
+{{interlinear|number=1.3
+|Se Matakale sagi na kipu tu-na sa nikana so.
+|ART M. TOP ART NEG child-3SG ART:SG man PAST:SG
+|‘Matakale, he was not a son of man.’
+<sup>(Pg. 243, Figure 70)</sup> <ref name=":0" />}}
+
+In cases where a noun phrase is placed before the verb phrase or noun phrase predicate, '''''kipu''''' is not fronted.
+
+Figure 1.4 
+
+{{interlinear|indent=3
+|Ria pa Vareso, ria kipu nani sa.
+|PRO:3PL PRP V. PRO:3PL NEG eat.TR:3PL PRO:3SG
+|‘Those from Vareso, them he did not eat.’
+<sup>(Pg. 243, Figure 71)</sup> <ref name=":0" />}}
+
+{{interlinear|indent=3
+|Na koburu isana kipu tiqu-a hinaquru.
+|ART child that NEG tough-TR:3SG girl
+|‘That child, girls didn’t touch him.’
+<sup>(Pg. 243, Figure 72)</sup> <ref name=":0" />}}
+
+'''Kipu''' can also be found within imperative clauses:
+
+{{interlinear|number=1.5
+|Veko-a, kipu ilisoqo-a.
+|Leave-TR:3SG NEG hurt-TR:3SG
+|‘Leave him, don’t hurt him.’
+<sup>(Pg. 243, Figure 73)</sup> <ref name=":0" />}}
+
+=== The negator kae ===
+The negator '''kae''' is occasionally shortened in Kusaghe to '''ke'''. It is used to emphasise events and states that are not possible, not allowed or which run counter to the usual state of affairs. 
+
+'''Kae''' is used to mark events and states that are not possible due to some factor which prevents their occurrence.
+
+{{interlinear|number=2.1
+|Isa sa pu kae dugili-ni-a Pilipi.
+|PRO-3SG PRO:3SG REL NEG be.deaf-AP-3SG P.
+|‘That’s what stops Pilipi from being deaf.’ 
+<sup>(Pg. 244, Figure 74a)</sup> <ref name=":0" />}}
+
+Prohibitions can also use '''kae'''. Similar to '''kipu''' which can be used with imperatives, '''kae''' can also be used to display everyday imperatives which are generally used towards children.
+
+Figure 2.2 
+
+{{interlinear|indent=3
+|Kae kabo.
+|NEG cry
+|‘Don’t cry.’}}
+
+{{interlinear|indent=3
+|Kae do{{=}}dola la-ia nina goe se Maqiqo na.
+|NEG REDUP{{=}}stare go-TR:3SG possibly PRO:2SG ART Mangginggo DEM 
+|‘Don’t you go staring at the Mangginggo.’
+<sup>(Pg. 244, Figure 76a and b)</sup> <ref name=":0" />}}
+
+Another use of '''kae''' is when an event of state is not the expected on, such as an event that was expected to happen but did not. 
+
+{{interlinear|number=2.3
+|Kae atu velu ba rao so.
+|NEG go.to.you yesterday EMPH PRO:1SG PAST:SG
+|‘I did not come to you yesterday.’
+<sup>(Pg. 245, Figure 78)</sup> <ref name=":0" />}}
+
+'''Kae''' can also be used for hypothetical events that are not generally expected to occur. 
+
+{{interlinear|number=2.4
+|Pula vena kae ta-poka labete doluru kasitona heri, koni uke qa sa kabasa.
+|if SIM NEG PASS-be.nailed board all thing these FUT fall REST ART:SG house
+|“If boards, all these things, are not nailed, the house will fall.’
+<sup>(Pg. 245, Figure 80a)</sup> <ref name=":0" />}}
+
+Contradictory statements is often expressed using the phrase '''kae gua''', which means ‘not so, not as stated’. 
+
+{{interlinear|number=2.5
+|“Vegoa, solodia goe ni?” gua isa. “Kari, solodia kae gua.”
+|how soldier PRO:2SG DEM said PRO:3SG no soldier NEG said
+|“’What, are you a soldier?” he said. “no, (I’m) not a soldier.”’
+<sup>(Pg. 246, Figure 82a)</sup> <ref name=":0" />}}
+
+=== The negator kahi ===
+'''Kahi''' which means ‘not yet’ is a negator used to express the likelihood that an event or state will occur, despite not having taken place yet at the point in time referred to. '''Kahi''' like the other negative particles, can be seen to precede the verb phrase. 
+
+{{interlinear|number=3.1
+|Kipu hana nani pu kahi varavara, mi varavara paki tu tiqe nani qa.
+|NEG anyhow bite COND not.yet pray but pray first REST then bite REST
+|‘(You) don’t eat if have not yet prated, but pray first then eat.’
+<sup>(Pg. 247, Figure 84a)</sup> <ref name=":0" />}}
+
+=== The modal negator maki ===
+'''Maki''' is a modal negative particle which expresses the desire of the speaker that negative consequences of an event do not occur. It is placed immediately before the verb phrase.
+
+Figure 4.1 
+
+{{interlinear|indent=3
+|Maki ta-nani leboto.
+|NEG:WARN PASS-bite machete
+|‘Don’t be hurt by the machete.’}}
+
+{{interlinear|indent=3
+|Maki uke goe.
+|NEG:WARN fall PRO:2SG
+|‘Don’t you fall.’ 
+<sup>(Pg. 247, Figure 85)</sup> <ref name=":0" />}}
+
+==Numerals==
+Hoava has a [[Decimal|decimal system]] of numbering”(Davis 2003). 
+
+# "keke" one
+# "karua" two
+# "hike" three
+# "made" four
+# "lima" five
+# "onomo" six
+# "zuapa" seven
+# "vesu" eight
+# "sia" nine
+# "manege" ten
+
+==Lexicology==
+
+===Indigenous Vocabulary===
+* "hore" canoe 
+* "leboto" bushknife 
+* "igana" fish 
+* "inebara" feast 
+* "pirae" now 
+* "tavete" make 
+* "keke" one 
+* "mae" come 
+* "toka" follow 
+* "puta" sleep 
+* "gua" did 
+* "heleana" river 
+* "ko" be 
+* "tala" where 
+* "la" go 
+* "koburu" child 
+* "ome" see
+
+==Endangerment==
+
+===Materials===
+There are not many materials written in Hoava. The only material of outside world access is a guide to grammar by Karen Davis and a storybook. With it only beginning to fall out of use. There are translations of the bible and stories but not much else is known about surviving materials.
+
+===Vitality===
+According to [[Ethnologue]], Hoava has a 6b (Yellow) endangerment status. “Intergenerational transmission is in the process of being broken, but the childbearing generation can still use the language so it is possible that revitalization efforts could restore transmission of the language in the home”(Lewis 2013).Without intergenerational transfer, main outlet uses will soon be destroyed or fade away while other languages take its place. With the decrease of L1 speakers, the value of the language in the community will only drop, till it is no longer applicable to the community. Combined with the low number of speakers, if no action is to take place, Hoava will fade to away into disuse.
+
+==References==
+{{Reflist}}
+* {{Cite book |title=A Grammar of the Hoava language, Western Solomons |last=Davis |first=Karen |date=2003 |publisher=Pacific Linguistics |isbn=978-0-85883-502-3 |series=Pacific Linguistics 535 |location=Canberra |doi=10.15144/PL-535 |hdl=1885/146158 |doi-access=free |hdl-access=free }} 
+
+==Further reading==
+*Crystal, David. Language Death. Cambridge, UK: Cambridge UP, 2000. Print.
+*Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.). 2013. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International. Online version: http://www.ethnologue.com.
+
+{{Languages of the Solomon Islands}}
+{{Meso-Melanesian languages}}
+{{Austronesian languages}}
+
+[[Category:Northwest Solomonic languages]]
+[[Category:Languages of the Solomon Islands]]

@@ -1,0 +1,468 @@
+{{short description|Extinct Australian Aboriginal language}}
+{{cleanup lang|date=May 2019}}
+{{Infobox language
+|name=Warndarang
+|region=[[Arnhem Land]], [[Northern Territory]], [[Australia]]
+|ethnicity=[[Warndarang people]]
+|extinct=1974
+|familycolor=Australian
+|fam1=[[Arnhem languages|Arnhem]]?
+|fam2=[[Marran languages|Marran]]
+|iso3=wnd
+|glotto=wand1263
+|glottorefname=Wandarang
+|aiatsis=N120
+}}
+
+'''Warndarang''' (also spelled ''Wandarang'', ''Wandaran'') is an extinct [[indigenous Australian language|Aboriginal Australian language]] in the [[Arnhem languages|Arnhem]] family, formerly spoken by the [[Warndarang people]] in southern [[Arnhem Land]], along the [[Gulf of Carpentaria]]. The last speaker was Isaac Joshua, who died in 1974, while working with the linguist [[Jeffrey Heath]].
+
+Warndarang is characterized by an unusually simplified nominal case system but highly intricate pronominal and demonstrative systems. It is a primarily prefixing language with agglutinating verbal complexes and relatively straightforward syntax.
+
+Warndarang is closely related to [[Mara language (Australia)|Mara]], which was traditionally spoken to the south of Warndarang and today has a handful of speakers. The languages [[Alawa language|Alawa]] and [[Yugul language|Yugul]], spoken to the west of Warndarang and both apparently extinct, are also related.
+
+Heath's Warndarang grammar contains a 100-page grammatical description, a handful of texts, and a brief wordlist. A Warndarang story of the Hodgson Downs massacre is published separately, and both Margaret Sharpe and [[Arthur Capell]] collected material in the 1960s and 1940s, respectively, much of which is unpublished but was incorporated into Heath's grammar.
+
+==Language and speakers==
+
+Warndarang is a member of the [[Gunwinyguan]] family, the second-largest Australian language family after [[Pama–Nyungan languages|Pama–Nyungan]].<ref>Lewis, M.P. (2009)</ref> Warndarang is an [[extinct language]] — the last speaker died in 1974 — but was traditionally spoken along the [[Gulf of Carpentaria]], in [[Arnhem Land]] ([[Northern Territory]], [[Australia]]) near the mouths of the Roper, Phelp, and Rose Rivers.  The term ''ɳuŋguɭaŋur'', meaning "corroboree people," was used by Warndarang speakers to refer to the people in the [[Roper River]] area, though ''waɳʈaraŋ'' was used to refer to speakers of Warndarang specifically.<ref>Heath, J. (1980)</ref>
+
+Within the Gunwinyguan languages, Warndarang is most closely related to [[Mara language (Australia)|Mara]], a language today spoken by only a handful of people. Warndarang and Mara, together with [[Alawa language|Alawa]] and [[Yugul language|Yugul]], form what used to be known as the "Mara-Alawic family"<ref>Heath, J. (1980)</ref> and today is considered a subgrouping of the Gunwinyguan family.<ref>Lewis, M.P. (2009)</ref> Mara was traditionally spoken to the south of Warndarang, along the coast and the [[Limmen Bight River]], while Yugul and Alawa were spoken inland, to the west of Warndarang. Yugul and Alawa both appear to be extinct. Warndarang territory was bordered on the north by the languages [[Ngandi]] and [[Nunggubuyu language|Nunggubuyu]], with which Warndarang had significant contact.<ref>Heath, J. (1980)</ref> Ngandi is extinct, though many Nunggubuyu children are semi-speakers.<ref>Lewis, M.P. (2009)</ref>
+
+The Warndarang people classified themselves into four [[patrilineal]] [[Moiety (kinship)|semimoieties]] used in ritual settings: ''mambali'', ''muruŋun'', ''wuʈal'', and ''guyal'' (''wuyal''). ''Mambali'' and ''muruŋun'' were considered to be associated, as were ''wuʈal'' and ''guyal'', enough so that a person of one semimoiety learned and was permitted to sing the traditional songs of the associated semimoiety.<ref>Heath, J. (1980)</ref> Each semimoiety was associated with a particular watering hole and animal totems (for example, ''muruŋun'' had the totem ''ŋarugalin,'' "[[dugong]] [Dugong dugon]"), though anybody could drink from the watering holes and a person was permitted to consume his or her totem.<ref>Capell, A. (1960)</ref>  This structure is very similar to those of the Mara and Nunggubuyu people.<ref>Heath, J. (1980)</ref>
+
+	The majority of Warndarang material was collected by the linguist Jeffrey Heath in 1973 (two days) and 1974 (fifteen days) from a single informant, Isaac Joshua. Isaac was born in approximately 1904 in the Phelp River region, moving as a young man to work as a stockman with the Mara people. As such, he had spoken very little Warndarang in decades preceding Heath's arrival, speaking instead in Mara, English, [[Australian Kriol|Kriol]], or [[Nunggubuyu language|Nunggubuyu]], but proved to be a good informant, especially knowledgeable on flora-fauna and religiously significant terms. Brief work on Warndarang by Margaret Sharpe in the 1960s also used Isaac Joshua as the sole informant, though Arthur Capell's work in the 1940s used Isaac's brother, Joshua Joshua.  An elderly woman by the name of Elizabeth Joshua remembered a small amount of Warndarang, and Heath checked a few points with her after Isaac's death.<ref>Heath, J. (1980)</ref>
+
+==Grammar==
+''(All grammatical information from Heath 1980<ref>Heath, J. (1980)</ref> unless otherwise noted.)''
+
+===Phonetics===
+
+====Consonant inventory====
+Warndarang has a consonant inventory similar to that of many Australian languages. There are five main places of articulation – [[bilabial]], [[apico-alveolar]], [[retroflex]], [[lamino-alveolar]], and [[velar consonant|velar]] – with a [[stop consonant|stop]] and a [[nasal stop|nasal]] in each, with the addition of a rarely used [[interdental]] stop. There are also two [[lateral consonant|laterals]], two [[rhotic consonant|rhotics]], and two [[semi-vowel]]s. The presence of a [[glottal stop]] is debatable; the glottal stops that Heath heard were unstable and appeared to be optional.
+
+As there is no standard Warndarang [[orthography]], the following is used through this article. [[International Phonetic Alphabet|IPA]] symbols, when different from the presented orthography, are included in brackets.
+
+{| class="wikitable IPA"
+!rowspan=2|
+!colspan=2| [[Peripheral consonant|Peripheral]]
+!colspan=2| [[Laminal consonant|Laminal]]
+!colspan=2| [[Apical consonant|Apical]]
+|-
+! [[bilabial consonant|Bilabial]]
+! [[velar consonant|Velar]]
+! [[palatal consonant|Palatal]]
+! [[dental consonant|Dental]]
+! [[alveolar consonant|Alveolar]]
+! [[retroflex consonant|Retroflex]]
+|- align=center
+! Plosives
+|b [p]||g [k]||j [c]||d̪ [t̪]||d [t]||ʈ	
+|- align=center
+! Nasals
+| m||ŋ||ɲ|| ||n||ɳ	
+|- align=center
+! Laterals
+|colspan=2| || || ||l||ɭ 
+|- align=center
+! Tap
+|colspan=2| || || ||r [ɾ]|| 
+|- align=center
+! Approximants
+|colspan=2|w ||y [j]|| ||colspan=2| ɻ
+|}
+
+====Vowel inventory====
+Warndarang has three commonly used vowels: /a/, /i/, and /u/. A small number of words also contain an /e/, though there is some evidence that these are all [[loanwords]]. (Mara also has a very small quantity of lexical items containing an /e/, all of which are related to insect terminology.) Additionally, the vowel /o/ appears in exactly one Warndarang word: the interjection ''yo!'', meaning "yes, good!" and found in many nearby languages as well as in the local English-based creole. Heath observed no [[allophones]] within the five vowels.
+
+===Phonology===
+
+====Rules for consonant clusters====
+Word- or stem-final [[consonant cluster|clusters]] in Warndarang are formed by the combination of a lateral, rhotic, or semi-vowel (l, ɭ, r, ɻ, y, or w) and a velar or lamino-alveolar stop or nasal (g, ŋ, j, or ɲ). The only word- or stem-initial clusters are nasal-stop combinations in which the nasal is usually not pronounced.
+
+Medial (inter-word or inter-stem) double consonant clusters are common. Nasal + stop clusters, both [[homorganic]] (formed with phonemes from the same place of articulation) and non-homorganic, are frequent, as are nasal + nasal clusters. Stop + nasal clusters are rare, but they do occur. Liquids (laterals or rhotics) can be combined with stops or nasals, though (stop or nasal) + liquid are not found. [[Geminate]] clusters (in which the same consonant is repeated twice) are found only in reduplicated words such as {{lang|wnd|garaggarag}}, "[[Anhinga novaehollandiae|darter (Anhinga novaehollandiae)]]."
+
+Medial triple clusters are rare, though are seen in laterals or rhotics followed by homorganic (same place of articulation) nasal + stop clusters, as in {{lang|wnd|buɻŋgar}} "dirty water" (both /ŋ/ and /g/ are velar). A small number of reduplicated words display other consonant combinations, as in {{lang|wnd|guralgguralg}} "common koel (Eudynamys orientalis)".
+
+====Rules for vowel clusters====
+When two vowels come into contact across morphemes, the cluster is simplified to one vowel. Gemination, the repetition of the same vowel, results in that vowel. Any vowel followed by an /i/ will become an /i/. /u/ + /a/ will become an /u/, and /a/ + /u/ will become an /a/. Heath was not able to acquire enough data to determine a rule for /i/ + /a/ or /i/ + /u/, and only the underlying triple-vowel sequence /uai/, which becomes an /i/, was observed out of all possible three-vowel combinations.
+
+====Rules for word-initial phonemes====
+At the beginnings of words or stems, [[apico-alveolar]] and [[retroflex consonant|retroflexed]] consonants are not distinguished. When words are reduplicated or pronounced directly after a vowel, however, Heath was able to hear slight retroflexion, and so these words are typically analyzed to begin with a retroflex, with the exceptions of /nd/ versus /ɳʈ/, in which Heath found a contrast, and the single word ''daga'' meaning "sister," which was never heard as ''*ʈaga.''
+
+Nearly all Warndarang words begin with consonants; the few, chiefly adverbial, exceptions are posited by Heath as underlyingly beginning with a semivowel /w/ or /y/.
+
+====Rules for stops====
+Stops are typically voiced in all but syllable-final positions, where they are [[voiceless]], and nearly all stops are [[lenis]]. The interdental stop d̪, however, which occurs primarily in loans from Nunggubuyu, is [[fortis and lenis|fortis]] and voiceless no matter its position. Nasal-stop combinations can occur only at the beginning of prefixed noun stems, though in prefix-less nouns only the stop is pronounced, with the sole exception of the archaic reduplicated verb ''mbir-mbir'' "to make a nest".
+
+Stops occurring for the second time in words are frequently lenited: a second /b/ or /g/ will become a /w/ and a second /j/ a /y/. This pattern is usually observed in reduplicated words, as in ''gujirwujir'' "jellyfish" or ''jaɻi-yaɻi'' "to do continuously." Exceptions occur, however – for example, there is no lenition in the word ''buwa-buwa'' "to face punishment by spearing" and the noun ''mawaɻayimbirjimbir'' "hook spear" has the first j leniting, not the second.
+
+Stop nasalization occurs when a stop is followed by a nasal across a morpheme boundary, though such nasalization is optional: both ''giadmayi'' (underlying form) and ''gianmayi'' are acceptable forms of "they (two) went." Stop germination across morpheme boundaries almost always results in simplification to a single phoneme.
+
+====Reduplication====
+	[[Reduplication]] is found frequently in Warndarang. A reduplicated verb typically indicates that the action is repeated, done continuously, or performed by many people. For example, ''ala-biyi-wiyima'' means "they were all fighting" and ''waɻ-waɻŋawiɳʈima'' means "I saw him frequently." In nouns and adjectives, reduplication often but not always takes the meaning of plurality, often with humans, as in ''wulu-muna-munaɳa-ɲu'' "white people" or ''wu-ɭuɭga-ɭuɭga'' "islands."
+
+	Reduplication can be full (the entire word is repeated), monosyllabic (only one syllable of the word is repeated), or bisyllabic (two syllables of the word are repeated).
+
+===Nominal morphology===
+
+Nouns and adjectives can be distinguished in meaning only; they are treated identically grammatically. Therefore, when the word "noun" is used in this section, it refers to both nouns and adjectives.
+
+====Nominal classes====
+Nouns referring to humans fall into one of six classes, denoted by prefixes:
+
+{| class="wikitable"
+|-
+|ɳa- ||masculine singular
+|-
+|ŋi- ||feminine singular
+|-
+|yiri- ||dual (two of the noun)
+|-
+|yili- ||paucal (three, four, or five of the noun)
+|-
+|wulu- ||plural (more than five of the noun)
+|-
+|ɻa- ||indefinite
+|}
+
+``ɻa-'' is used for human nouns where the number or gender are either unknown, unimportant, or clear from context.
+
+There are also six [[noun classes]] for non-human nouns, also marked by prefixes. The assignment of nouns to a noun class is apparently arbitrary, though there are a few generalizations:
+{| class="wikitable"
+|-
+!Prefix !! Generalized usage
+|-
+|ɳa- ||place names
+|-
+|ŋi- ||animal terms
+|-
+|ɻa- ||large animals
+|-
+|wu- ||tree names
+|-
+|ma-|| plants with edible underground portions
+|-
+|yiri-|| dual (two of the noun)
+|}
+
+Some nouns were found to vary in their noun classes, alternating prefixes without any apparent change in meaning. Note that while there is a singular-dual distinction, there is no morphological way to distinguish non-human singular nouns from non-human plural nouns.
+
+====Case markings====
+Nouns in Warndarang can be marked with suffixes for one of six [[grammatical case|cases]]:
+{| class="wikitable"
+|-
+|	-ø 	||nominative	
+|-
+|	-wala 	||ablative	||from X or after X
+|-
+|	-miri 	||instrumental	||by means of X
+|-
+|	-ɲiyi 	||allative	||to or toward X
+|-
+|	-ni 	||purposive	||to obtain X
+|-
+|	-yaŋa 	||locative	||in, at, on, into, or onto X
+|}
+
+	The [[nominative case]] is used for the subjects of clauses are well as both direct and indirect objects and in some situations where the [[instrumental case|instrumental]] or [[purposive case|purposive]] might be more expected. Unlike in many other Australian languages, the subject–object distinction is marked on the verb and not on the noun.
+
+Additionally, there is also an [[absolutive case|absolutive]] suffix, which is added before the locative or the nominative marking and to most unmarked nouns. This suffix depends on the last phoneme of the stem:
+
+{| class="wikitable"
+|-
+| -yu||	/i/
+|-
+|-ɲu ||	/u/, /a/, /y/
+|-
+| -u 	||laterals or rhotics
+|-
+| -gu 	||nasals or stops
+|}
+
+There is also a rare [[diminutive]] suffix ''-gaɲa-.''
+
+====Articles====
+	In addition to the class markers, there are also [[article (grammar)|articles]] that mark the number and gender of the nouns. In human nouns, there are four such articles:
+
+{| class="wikitable"
+|-
+|	ɳa-nu 		||masculine singular
+|-
+|	ŋa-nu		||feminine singular
+|-
+|	wuru-nu 	||dual (two of the noun)
+|-
+|	wulu-nu||	plural (three or more of the noun)
+|}
+
+For non-human nouns, there are six options, corresponding to the non-human noun classes:
+
+{| class="wikitable"
+|	ɳa-nu		||ɳa-prefixed nouns
+|-
+|	ŋa-nu		||ŋi-prefixed nouns
+|-
+|	ɻa-nu		||ɻa-prefixed nouns
+|-
+|	wu-nu		||wu-prefixed nouns
+|-
+|	ma-nu		||ma-prefixed nouns
+|-
+|	wuru-nu	||dual (yiri-prefixed nouns)
+|}
+
+The ''–nu'' in these articles can be optionally omitted.
+
+====Kin terms====
+Typically, possession in Warndarang is simply marked with juxtaposition, in which a pronoun possessive and the possessor in the nominative case directly follows the possessed object. In [[kinship terminology|kinship terms]], however, possession is marked with special affixes. First person kinship possession is marked with ''ŋa-'', second person kinship possession is marked with ø-, and third person by a noun class prefix and the absolutive suffix. There is no distinction of number in the possessors. For example:
+
+{| class="wikitable"
+|	ŋa-baba	||my/our father
+|-
+|	ŋa-bujin||	my/our wife
+|-
+|	ø-baba	||	your father
+|-
+|	ø-bujin	||	your wife
+|-
+|	ɳa-baba-ɲu||	his/their father
+|-
+|	ŋi-bujin-gu||	his/their wife
+|}
+
+	Unfortunately, there is little data on kinship terminology; the semantic domains of each term within the system are unclear. Furthermore, the correct marker for plural kinship nouns, such as to say "his fathers," is unknown.
+
+====Vocatives====
+	[[vocative case|Vocatives]], nouns referring to the person being addressed, include kinship terms and nouns capturing the person's age, gender, or social status. Personal names were typically not used to directly address a person. Kinship vocatives typically included possessive prefixes but not articles; e.g., ''ŋa-baba'' would mean "my father" when the speaker addressed his or her father, while ''ɳa-nu ŋa-bana'' would mean "my father" when the speaker was referring to his or her father in the presence of a third party.
+	
+There are also vocative interjections, used for obtaining the attention of the addressee: ''ɳamaɻ'' "hey you" (singular), ''ŋudjuguɲay'' "hey you" (dual), and ''ŋuduguɲay'' "hey you" (plural).
+
+====Quantifiers====
+	In addition to the [[Classifier (linguistics)|classifiers]] and articles marking the singular/dual/paucal/plural distinction, Warndarang can also indicate the number of an object with [[Quantifier (linguistics)|quantifier]]s that precede the noun.
+
+{| class="wikitable"
+|	waŋgiɲ ||	one
+|-
+|	wudŋuy	||two
+|-
+|	mudŋuy	||two
+|-
+|	muluŋuy	||"a few" (three to five)
+|-
+|	wudŋuy ɳa-gayi||	"two another" (three)
+|-
+|	ɻa-waŋgin ɻa-murji||	"one hand" (five)
+|-
+|	ɻa-waŋgin ɻa-murji baʈa ɻa-gayi ɻa-murji	|| "one hand, then another hand" (ten)
+|}
+
+====Pronouns====
+	Independent Warndarang pronouns are distinguished by person (first, second, and third), number (singular, [[Dual (grammatical number)|dual]], and plural), gender (masculine versus feminine in the third-person singular) and [[clusivity|inclusivity]] (dual/plural first person including the addressee or dual/plural first person excluding the addressee). Nonhuman pronouns also mark noun class. Possessive pronouns mark for person, number, and inclusivity, but not for gender or for non-human noun class.
+
+	Pronouns are also marked as prefixes on transitive and intransitive verbs, with different prefixes for different transitive pronoun combination. For instance, a first-person singular subject and a third-person singular object would be marked by the prefix ŋa-, but a third-person singular subject and a first-person singular object would cause the marking ŋara-. Furthermore, the form of these prefixes can depend on the environment, as a few prefixes have different forms depending on whether they precede a vowel, a nasal, or a non-nasal consonant.
+
+====Demonstrative pronouns====
+	[[Demonstratives]] – pronouns that distinguish nouns using a particular frame of reference – in Warndarang are complex. The primary system describes where in space the object is, and is preceded by the noun-class prefix, here indicated by *.
+
+{| class="wikitable"
+|	*-niya	||	proximate
+|-
+|	a-*-ni	||	immediate
+|-
+|	*-wa, *-ni||	near-distant
+|-
+|	*-niɲi	||	distant
+|-
+|	*-nɲaya ||	anaphoric
+|}
+
+The "anaphoric" demonstrative is used when the demonstrative category is clear from context, often because it has recently been mentioned.
+
+The suffix ''–wala,'' usually considered to be the ablative marker, can be added to a demonstrative to mean that the noun is moving toward the center of the frame of reference, an affix also found in the languages [[Ngandi]] and [[Nunggubuyu language|Nunggubuyu]] to the north. Likewise, the locative marker ''–yaŋa,'' when added to a demonstrative, takes the meaning of motion in any direction except that towards the center of the frame of reference. There is also an unproductive ''a-*-niɲi'' demonstrative, used with the class ''wu,'' to mean "that one over there."
+
+====Demonstrative adverbs====
+Each of the demonstrative pronouns can be taken with the prefix ''wu-'' and used as adverbs to indicate overall location rather than the location of a specific object. Like the demonstrative pronouns, the adverbs can also take the ablative suffix ''–wala.'' In this case, ''-wala'' adds the meaning of "from," as in ''wu-niya-wala'' "from there, near-distant," or of time, with ''wu-niya-wala'' glossed as "after that." These meanings are apparently identical to that of the adverb ''wudjiwa'' to mean "after that" or "from there." Addition of the locative –yaŋa gives the adverb the meaning of "in that direction."
+
+Adverbs for the [[cardinal directions]] are found in the [[locative]], directional, and [[ablative]] cases, though their forms are fairly irregular:
+
+{| class="wikitable"
+!	!!Locative	!!Directional!!Ablative
+|-
+|East	||gaŋu	||yini-ɲi	||ana-yini
+|-
+|West	||argaɭi	||argaɭi-ɲi||	an-argaɭi
+|-
+|North	||guymi||	wuɲmi-ɲi	||ana-wuɲmi
+|-
+|South	||wagi	||wayburi	||ana-yiwayi
+|}
+
+If the adverb in the locative is reduplicated, it takes the meaning of "farther in that direction." There are three other Warndarang directional adverbs not yet mentioned: ''arwaɻ'' "region up from the coast," ''yaɭburi'' "downward," and ''wanga-ɲi'' "in another direction."
+
+===Verbal morphology===
+
+The most basic verb complex in Warndarang consists of a pronominal prefix (see above), an inflected verb stem, and a set of suffixes marking tense, mood, and aspect. There might be other prefixes in front of the pronominal prefix, such as the negative ''gu-'' or the potential ''u-.''
+In some constructions, there is a "main verb," which presents the basic idea, and then an [[inflection|inflectable]] "auxiliary verb" which refines the meaning of the main verb. If that is the case, the main verb becomes one of the prefixes to the auxiliary verb.
+
+Some Warndarang verbs can only serve as main verbs and some only as auxiliary verbs, though most can serve as either.
+
+====Verbal suffixes====
+	The suffix of a verbal complex can indicate one of the following eight categories: past actual [[Grammatical aspect|punctual]], past actual [[Continuous and progressive aspects|continuous]] or future positive continuous, past [[irrealis]], present actual, present irrealis, future positive punctual, future negative, or [[imperative mood|imperative]]. Positive and irrealis forms require the potential prefix u-.
+
+	The forms of this suffix depend on the verb to which they are added. For example:
+
+{| class="wikitable"
+|-
+! !!	-ba-!! -ida- (aux. verb)	!!-ilama-
+|-
+| || "to hit, to kill"|| "forcible manipulation of an object"	||"to cut up"
+|-
+|PaActPun||	-ba-ø||	-ida-ø||	-ilami-ø
+|-
+|PaActCon, FutPosCon	||-bu-ɻa	||-ida-ŋa-ø||	-ilama-ŋa-ø
+|-
+|PaIrr	||-bi-ni	||idi-ø	||-ilami-ø
+|-
+|PrAct	||-ba-ri||	-ida-ŋa-ni||	-ilama-ŋa-ni
+|-
+|PrIrr	||-ba-ri||	-ida-ŋa-ri||	-ilama-ŋa-ri
+|-
+|FutPosPun||	-b-iɲ||	-id-iɲu	||-ilam-iɲu-
+|-
+|FutNeg	||-bi-ø	||-ida-ø||	-ilami-ø
+|-
+|Imper	||-bi-ŋu||	-ida-ø||	?
+|}
+
+====Reflexive-reciprocal====
+	Reflexive/reciprocal markers are included within the inflected verb stem. The [[Reflexive pronoun|reflexive]] marker is ''–i-'' and indicates either "do to oneself" or a passive meaning. For example, ''ɭar-ŋa-g-i-ma-ø'' could either mean "I cut myself" or "I was cut," with the ''–g-i-'' the reflexive form of the root ''–ga-''. A few verb stems can take the reflexive to indicate that the object is unimportant, such as in the transitive verb-auxiliary pair ''war+ga'' meaning "to sing" (about something) in the form ''war-ŋa-g-i-ma-ø'' to mean "I was singing," with no object, rather than "I was singing about myself" or "a song about me was being sung."
+	
+The [[Reciprocal (grammar)|reciprocal]] marker is ''–yi-'' or occasionally ''–ji-'' in some older forms. Both the reflexive and reciprocal markers have cognates in Nunggubuyu and Ngandi.
+
+====Negation====
+	A verbal complex in the negative always begins with the prefix ''gu-''. In complexes where the pronominal prefix is either third person intransitive or third-to-third transitive, the prefix ''–yu-'' is also included, after the negative and after the main verb (if there is one) but before the pronominal prefix.
+
+====Other verbal prefixes====
+	After the negative ''gu-'' prefix comes the opportunity for the prefix ''-ɻaŋani-'' meaning "no one" and indicating that "no one" is the subject of the verbal complex. After this slot comes the [[benefactive]] ''–ma-'', which indicates that the pronominal prefix of a [[transitive verb]] is referring to the [[indirect object]] rather than to the [[direct object]] (the default assumption). After this slot comes the rare prefix ''–man-'', whose meaning Heath was unable to determine but appears to indicate the speaker's involvement in the verbal complex.
+
+	After these four possible prefixes would come the main verb, if there was one, and then the centripetal prefix ''-ya-'' to indicate that the action is directed towards the frame of reference rather than away from it. The word ''ŋa-gaya,'' for instance, means "I took it," but the addition of ''ya-'' to ''ya-ŋa-gaya'' shifts the meaning to "I brought it." After the centripetal prefix would come the third-person negation prefix (see above) and then finally the potential prefix ''–u-'' to indicate possibility, that something can, should, could have, or should have been done.
+
+====Compounding====
+	The process of verbal compounding is not as productive in Warndarang as it is in surrounding languages, though it does occur, usually when an adverb is added to the beginning of the main verb of the verbal complex. These are distinguished from simple juxtaposition (in which the adverb would not be part of the verbal complex) in that prefixes such as the negative gu- precede the adverb.
+
+====Interrogation====
+	To ask a yes/no question in Warndarang, an assertion is stated with a slight intonational difference (rise on the penultimate syllable, fall on the ultimate syllable, as opposed to a level tone falling off), though ''jabay'' "maybe" can be added to the end of the statement to underscore the questioning nature. The first would be the equivalent of the English "you're going to the store?" and the second of "you're going to the store, right?"
+
+	Other sorts of questions require interrogative particles, usually preceded by the noun classifier ''wu-''. The word meaning "what thing?" is ''wu-ngaŋa'', for example, which can be turned to "why?" by adding the purposive ''-ni'' to create ''wu-ngaŋa-ni'' or the purposive and the word ''aru'' "because," aru wu-ngaŋa-ni. The particle "when," however, is ''mala-wunga,'' probably from ''wunga'' meaning "to do what?" though ''mala-'' as a prefix is found nowhere else in Warndarang.
+
+===Syntax===
+Rather as in English, most Warndarang clauses are subject–verb (SV) for [[intransitive verb|intransitive]] clauses and [[agent–verb–object]] (AVO) for transitive clauses. Other orders are possible, however, with clauses rearranged in what is known as focusing.
+
+====Focusing====
+	To [[Focus (linguistics)|focus]] (emphasize) a component of a Warndarang sentence, the constituent is brought to the beginning of the clause, separated from the remaining words with the particle ''wu-nu.'' For example, the statement ''ɲala-ɲala wu-nu ŋabaɻu-ŋa-maɻi'' "I nearly died" focuses ''ɲala-ɲala,'' emphasizing that the speaker ''nearly'' died. In English, this is primarily done through tone; in German, this is done by placing the constituent in the first position within the phrase.
+
+	Focusing is often used to indicate clause subordination, though replacing ''wu-nu'' with an article that agrees with the head noun more formally indicates relative clauses. For example, the focused ''ɳa-jawulba-ɲu wu-nu ŋabaɻa-mi'' "the old man who died" could also be stated as ''ɳa-jawulba-ɲu ɳa-nu ŋabaɻa-mi,'' with the ''ɳa-nu'' referring to the masculine, singular state of ''ɳa-jawulba-ɲu,'' "the old man."
+
+====Nominalization====
+Nominalization, the transformation of a verb or member of another non-nominal syntactic class into a noun, is rare in Warndarang, with just a few, unproductive examples in the text. There is one recorded instance of ''–maŋgara'' being added to a verb to mean "the time at which the action occurred": mud- maŋgara, from mud "to break", follows the well-attested word ''ʈuʈul'' "right up to, all the way to" to mean "up to the point of breaking". Similarly, there is one record of ''wu-ŋgar-maɳjar-ni,'' from ''-ɳgar-'' "to dance", to mean "for dancing".
+
+====Conditional clauses====
+	Heath was unable to elicit or find any [[conditional clause|conditional constructions]] ("if X, then Y") during his study; the closest examples in the text use the word ''jabay'' "maybe" ("Maybe he will come, maybe I will kill him") or place both clauses within the past potential.
+
+	The word ''aru'' "because," however, was often used to construct clauses meaning "because of X, Y did Z."
+
+==Example sentences==
+
+The first two sentences are taken from Heath 1980.<ref>Heath, J. (1980)</ref>  The third sentence is from Heath 1984.<ref>Heath, J. (1984)</ref>  All were spoken by Isaac Joshua and published by Heath with his permission.
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+PROX:proximate demonstrative
+OBJ:object
+INTERJ:interjection
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{interlinear|number=1)
+|Wu-nu wu-niya ɻa-maɻawuriɳa, ɻa-maɻawuriɳa, wu-nu jaɻag-jaɻagara-bani, yo, wu-naya wu-nu ʈiwar-ija yo, mangarŋararu-ba.
+|NH.CL-ART NH.CL-PROX {NH.CL-magical poison} {NH.CL-magical poison} NH.CL-ART {make continuously-3P.SBJ>3S.OBJ-AUX} yes-INTERJ NH.CL-PROX NH.CL-ART {to throw-3P.SBJ>3S.OBJ-AUX} yes-INTERJ {throw on body-3P.SBJ>1S.OBJ-AUX}
+|Heath's translation: "This is magical poison. They always make poison. Someone threw it here, someone threw it on my body."}}
+
+* '''Wu-nu''': ''wu'' non-human noun classifier, ''nu'' article
+* '''wu-niya''': ''wu'' non-human noun classifier, proximate demonstrative ''niya''
+* '''ɻa-maɻawuriɳa''': ''ɻa'' non-human noun classifier, ''maɻawuriɳa'' "magical poison"
+* '''jaɻag-jaɻagara-bani''': ''jaɻag-jaɻag'' "make continuously" (reduplication of "make"), ''ara'' pronoun prefix (third person plural subject, third person singular object), ''bani'' auxiliary verb
+* '''yo''': interjection "yes" used frequently in narratives
+* '''wu-naya''': ''wu'' non-human noun classifier, ''naya'' from proximate demonstrative ''niya''
+* '''ʈiwar-ija''': ''ʈiw'' "to throw," ''ar'' from pronoun prefix ''ara'' (third person plural subject, third person singular object), ''ija'' auxiliary verb
+* '''mangarŋararu-ba''': ''magar'' "throw on body," ''ŋararu'' pronoun prefix (third person plural subject, first person singular object), ''ba'' auxiliary verb
+
+2) ''Gu-ɻaŋani-biŋju-ga, wu-yagu wu-njaɻi, ɻa-njaɻi ŋaldudga-jani ɻa-ŋuɳu-ɲu.''
+
+Heath's translation: "There were so many fish that no one could have caught them all."
+
+* '''Gu-ɻaŋani-biŋju-ga''': ''gu'' negative prefix, ''ɻaŋani'' no one, ''biŋ'' "finish," ''ju'' third person negation, zero marking  pronoun prefix (third person singular subject, third person singular object), ''ga'' auxiliary verb
+* '''wu-yagu''': ''wu'' non-human noun classifier, ''yagu'' "not"
+* '''wu-njaɻi''': ''wu'' non-human noun classifier, ''njaɻi'' "many"
+* '''ɻa-njaɻi''': ''ɻa'' non-human noun classifier, ''njaɻi'' "many"
+* '''ŋaldudga-jani''': ''ŋaldud'' "abundant," ''ga'' pronoun prefix (third person singular subject), ''jani'' auxiliary verb
+* '''ɻa-ŋuɳu-ɲu''': ''ɻa'' non-human noun classifier, ''ŋuɳu'' fish, ''ɲu'' absolutive suffix
+
+{{interlinear|number=2)
+| Gu-ɻaŋani-biŋju-ga, wu-yagu wu-njaɻi, ɻa-njaɻi ŋaldudga-jani ɻa-ŋuɳu-ɲu.
+| {NEG-no one-finish-3.NEG-AUX} NH.CL-not NH.CL-many NH.CL-many abundant-3SG.SUB-AUX NH.CL-fish-ABS
+| Heath's translation: "There were so many fish that no one could have caught them all."}}
+
+3) ''Wu-nɲaya, wiya ara-ŋama-ŋama ɻa-yaraman-gu wu-nɲya-wala wu-nu ʈuɳg-iŋa ʈuʈul wu-niɲi Roper Valley.''
+
+Heath's translation: "There they [Long Peter, the subject of the narrative, and companions] ate some of the horses. Then they left for Roper Valley."
+
+* '''Wu-nɲaya''': ''wu'' non-human noun classifier, ''nɲaya'' there (anaphoric form, refers to Hodgson Downs)
+* '''wiya''': "enough"
+* '''ara-ŋama-ŋama''': ''ara'' pronoun prefix (third person plural subject third person singular object), ''ŋama'' "ate" (reduplicated to mean "ate continuously or repeatedly")
+* '''ɻa-yaraman-gu''': ''ɻa'' non-human noun classifier ("large animals"), ''yaraman'' "horse," ''gu'' absolutive
+* '''wu-nɲya-wala''': ''wu-nɲya''  same as above, ''wala'' absolutive marker
+* '''wu-nu''': ''wu'' non-human noun classifier, ''nu'' article
+* '''ʈuɳg-iŋa''': ''ʈuɳ'' "set off" (i.e., leave, depart) main verb, ''g'' pronoun prefix (third person singular subject), ''iŋa'' auxiliary verb
+* '''ʈuʈul''': "all the way to"
+* '''wu-niɲi''': ''wu'' non-human noun classifier, ''niɲi'' demonstrative (distant)
+
+==Comparison of the Maran languages==
+Warndarang (a language extinct since 1974) and Mara (a language with only a small number of partial speakers) are each other's closest relatives. Together with Alawa (a language extinct since the early 1970s) and Yugul (a language attested by speakers of Warndarang, Mara, and Alawa but apparently extinct,<ref>Heath, J. (1980)</ref> though the community is still thriving<ref>http://www.yugulmangi.nt.gov.au/index.htm or http://www.dhlgrs.nt.gov.au/</ref>), these languages form the Maran subgroup of the Gunwinyguan language family. The three documented languages share much vocabulary and have many similar grammatical structures, though there are significant differences, and Warndarang has been heavily influenced by loanwords from Nunggubuyu and Ngandi to the north.<ref>Heath, J. (1980)</ref>
+
+===Verbal comparison===
+All three languages are prefixing, and their verbs consist of either a single inflected stem or an uninflected "main verb" preceding an inflected auxiliary verb.<ref>Sharpe, M. C. (1976)</ref> Such verbal particles are absent in the languages to the north.<ref>Heath, J. (1976)</ref>  The Maran languages also share verbal features such as particle reduplication within the verbal complex indicating a repeated or continuous action (a pattern common in Australian languages), and the negation of verbs is indicated by a particle immediately preceding the verb complex (''gu'' in both Warndarang and Mara but ''ŋayi'' in Alawa).<ref>Sharpe, M. C. (1976)</ref>
+
+Mara has a significantly more complex verbal inflection system than Warndarang (sixteen different tense/aspect/mood categories in Mara but only eight in Warndarang and apparently seven in Alawa), an unusually intricate system for Australian languages.<ref>Heath, J. (1981)</ref>  Both languages, however, have conjugation paradigms that are highly verb-specific.
+
+In addition to the similarities in the order of the verb complex, Mara and Warndarang also both use word-order to focus, or highlight, a particular item within the clause, though otherwise the word-order in Mara is far stricter than that in Warndarang.
+
+===Nominal comparison===
+Alawa divides its nouns into two genders (masculine and feminine)<ref>Sharpe, M. C. (1972)</ref>  while Mara has three classes (masculine, feminine, and neuter) and Warndarang six. All three languages distinguish between singular, dual, and plural, with Warndarang having an additional "paucal" (three to five) class for human nouns. The use of noun cases in Warndarang and Mara are nearly identical – Mara condenses the allative and locative cases and adds a pergressive case – though the only cognate across the paradigm is the purposive ''-ni''. The case marking system of Alawa is apparently not related.<ref>Sharpe, M.C. (1972)</ref>  The demonstratives in Warndarang and Mara cover approximately the same semantic categories (proximate, immediate, distant, and anaphoric, though Warndarang adds an intermediate near-distant), though the forms themselves have little similarity. In fact, the Mara demonstratives inflect for case, number, and gender, while Warndarang demonstratives engage a single basic form. Again, the Alawa demonstrative system is entirely separate, drawing only a single distance distinction ("this" versus "that") but with more nuanced anaphoric distinctions.
+
+The directional terminology between Warndarang and Mara shares many cognates, such as ''gargaɭi'' (Mara) and ''argaɭi'' (Warndarang) for "west" or ''guymi'' (both languages) for "north," though Mara again has a far more intricate and irregular morphological system to distinguish cases in these terms. Mara also has an up/down directional distinction that is absent in Warndarang. There is no Alawa data for cardinal directions.<ref>Sharpe, M.C. (1972)</ref>
+
+===Lexical comparison===
+Cultural terminology between the three languages is distinct. Mara has an extremely complex kinship terminology system, including a large number of dyadic terms;<ref>Heath, J. (1981)</ref> Warndarang's system appeared to be much simpler, though the linguist Jeffrey Heath was unable to elicit much kinship information before his informant died.<ref>Heath, J. (1980)</ref> Alawa has a morphologically irregular system similar to Mara's, but lacks the dyadic terms and shares few cognates (exceptions include ''baba'' for "older sibling"). A cursory analysis of the flora-fauna terms in the three languages also reveals few cognates. The semi-moieties in Warndarang and Mara have nearly identical names, however, though the groups were associated with different totems, songs, and rituals.<ref>Capell, A. (1960)</ref>
+
+==See also==
+*[[Non-Pama–Nyungan languages]]
+
+==Notes==
+{{Reflist|3}}
+
+==References==
+{{sister project |project=wiktionary |text=[[Wiktionary]] has a word list at '''''[[Wiktionary:Appendix:North Australian word lists|Appendix:North Australian word lists]]'''''}}
+* Capell, A. 1960. "The Wandarang and other tribal myths of the Yabuduruwa ritual." ''Oceania'' 30: 206–224.
+* Heath, J. 1976. "North-east Arnhem Land." In ''Grammatical Categories in Australian Languages'', ed. R. M. W. Dixon, 735–740. Canberra: Australian Institute of Aboriginal Studies.
+* Heath, J. 1980. ''Basic Materials in Warndarang: Grammar, Texts, and Dictionary.''  Canberra: Pacific Linguistics.
+* Heath, J. 1981. ''Basic Materials in Mara: Grammar, Texts, and Dictionary.'' Canberra: Pacific Linguistics.
+* Heath, J. 1984. "Massacre at Hodgson Downs." In ''This Is What Happened: Historical narratives by Aborigines'', ed. L. Hercus and P. Sutton, 177–181. Canberra: Australian Institute of Aboriginal Studies.
+* Sharpe, M. C. 1972. ''Alawa phonology and grammar''. Canberra: Australian Institute of Aboriginal Studies.
+* Sharpe, M. C. 1976. "Alawa, Mara and Warndarang." In ''Grammatical Categories in Australian Languages'', ed. R. M. W. Dixon, 708–729. Canberra: Australian Institute of Aboriginal Studies.
+
+{{Pama–Nyungan languages|Macro}}
+{{Australian Aboriginal languages}}
+
+{{DEFAULTSORT:Warndarang}}
+[[Category:Extinct languages of the Northern Territory]]
+[[Category:Indigenous Australian languages in the Northern Territory]]
+[[Category:Mangarrayi–Maran languages]]

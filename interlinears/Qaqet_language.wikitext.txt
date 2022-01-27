@@ -1,0 +1,232 @@
+{{Infobox language
+|name=Qaqet
+|nativename=''Baining''
+| pronunciation = {{IPA-all|ɣɑɣə̆t̚|}}
+|states=[[Papua New Guinea]]
+|region=[[New Britain]]
+|coordinates={{coord|-4.456156|151.784413|type:city_region:PG_source:enwiki|name=Raunsepna|display=inline,title}}
+|speakers=6,400
+|date=1988
+|ref = e18
+|familycolor=Papuan
+|fam1=[[Baining languages|Baining]]
+|iso3=byx
+|glotto=qaqe1238
+|glottorefname=Qaqet
+}}
+{{GeoGroupTemplate}}
+
+'''Qaqet''' (Kakat, Makakat, Maqaqet), or '''Baining''', is a [[Papuan language]]  spoken in [[East New Britain Province]] on the island of [[New Britain]], [[Papua New Guinea]].
+
+==Overview==
+Qaqet is spoken by some 15,000 people in the [[Gazelle Peninsula]] in the [[East New Britain Province]] of [[Papua New Guinea]]. Historically, the Qaqet used to lead highly mobile lives, subsisting of horticulture and hunting. Rather recently, colonial administrators have created permanent settlements.<ref name=":0">{{Cite book|last=Hellwig|first=Birgit|title=A Grammar of Qaqet|publisher=De Gruyter|year=2019|isbn=9783110613346|location=Berlin/Boston}}</ref> Today, villages with major Qaqet-speaking populations are:<ref name="Marley">Marley, Alexandra. 2013. ''Language Use amongst the Qaqet Baining: A sociolinguistic study of language choices in an ethnolinguistic minority in Papua New Guinea''. MA thesis, LaTrobe University.</ref>
+*Raunsepna ({{coord|-4.456156|151.784413|type:city_region:PG|name=Raunsepna}}) in [[Inland Baining Rural LLG]]
+*Kamanakam ({{coord|-4.284842|151.839181|type:city_region:PG|name=Kamanakam}}) in [[Inland Baining Rural LLG]]
+*Walmetki ({{coord|-4.370491|151.554196|type:city_region:PG|name=Watmetki}}) in [[Lassul Baining Rural LLG]]
+
+Raunsepna is located in the mountainous interior, while the other two villages are located near the coast. Raunsepna's relative remoteness has implications for Qaqet's sociolinguistic status: as there are few outsiders there, Qaqet remains the dominant language in everyday life, and children acquire it as their first language. Kamanakam, by contrast, has seen an influx of settlers from adjacent ethnic groups, making inter-ethnic marriages common. This has resulted in [[Tok Pisin]] becoming the dominant language of that village.<ref name=":0" />
+
+== Classification ==
+Qaqet is classified as a [[Papuan languages|Papuan language]]. This term is a negative categorization which includes all languages native to the island of Papua New Guinea and its surrounding islands which are not part of the [[Austronesian languages|Austronesian language family]]. Together with four (or five) other small languages, it is grouped into the [[Baining languages|Baining language family]]. The other members of that family are [[Mali language|Mali]], [[Kairak language|Qairaq]], [[Simbali language|Simbali]], [[Ura language (Papua New Guinea)|Ura]], and possibly [[Makolkol language|Makolkol]]. Makolkol is probably extinct, and the information available for it is insufficient for determining its genetic affiliation.<ref name=":0" />
+
+The Baining languages are grouped with the other non-Austronesian languages of the region into the [[East Papuan languages|East Papuan Languages]]. However, despite attempts at establishing East Papuan as a genetic unit,<ref>{{Cite book|last=Wurm|first=Stephen A|title=Papuan languages of Oceania|publisher=Narr|year=1982|series=Ars Linguistica, 7|location=Tübingen|pages=231–244}}</ref> the grouping remains purely geographical. Attempts at establishing relationships with neighbouring Papuan languages, such as [[Taulil language|Taulil]] or [[Butam language|Butam]], have so far not been successful.<ref name=":0" />
+
+== Phonology ==
+Qaqet has a moderately small phoneme inventory consisting of 16 consonantal and 4 vowel phonemes. The orthography used here follows Hellwig (2019), which is in turn based on the orthography developed by Parker & Parker (1974).<ref>{{Cite journal|last=Parker|first=James|last2=Parker|first2=Diana|date=1974|editor-last=Loving|editor-first=Richard|title=A tentative phonology of Baining (Kakat dialect)|journal=Workpapers in Papua New Guinea Languages|volume=4|pages=5–43}}</ref> Where different from the IPA notation, the orthographic representation is given in square brackets.
+
+=== Consonants ===
+{|class="wikitable"style="text-align:center"
+!colspan="2"|
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Retroflex consonant|Retroflex]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+|-
+!colspan="2"|[[Nasal consonant|Nasal]]
+|m
+|n
+|
+|ɲ ⟨ny⟩
+|ŋ ⟨ng⟩
+|-
+!rowspan="2"|[[Stop consonant|Stop]]
+!<small>voiceless</small>
+|p
+|t
+|
+|
+|k
+|-
+!<small>voiced</small>
+|ᵐb ⟨b⟩
+|ⁿd ⟨d⟩
+|
+|
+|ᵑg ⟨g⟩
+|-
+!colspan="2"|[[Fricative consonant|Fricative]]
+|β ⟨v⟩
+|s
+|
+| colspan="2" | ʝ~ɣ ⟨q⟩
+|-
+!colspan="2"|[[Rhotic consonant|Tap/Trill]]
+|
+|r
+|ɽ ⟨rl⟩
+|
+|
+|-
+!colspan="2"|[[Lateral consonant|Lateral]]
+|
+|l
+|
+|
+|
+|}
+
+The voiceless stops /p t k/ are often aspirated word-initially and unreleased word-finally. They have two other predictable allophones: voiced /b d g/ following a nasal, and lenited /v r q/ intervocalically. These last three phonemes probably arose historically out of their stop counterparts and are in the process of being phonemicized. While the alternation is still for the most part predictable, it has become contrastive for some aspectual verb stems. Also, loanwords don't undergo the lenition process: ''akar'' 'cars' (from Tok Pisin ''kar'').<ref name=":0" />
+
+The velar stop is almost always palatalized in the vicinity of the vowel /i/. This holds for its voiced and fricativized allophones as well. Hence: ''a=vadem-ki'' [aβaⁿdəm'''ɟ'''i] 'trap', ''vrli-ki'' [βɽi'''ʝ'''i] 'cousin'. However, there are a couple of counterexamples, where palatalization doesn't occur even though it would be expected. For instance, in the word [aɣiapki] 'chicken', the velar fricative is not palatalized, even though it is followed by /i/. This might be explained by an earlier form of the word containing the sequence /ai/. In fact, the alternative realization [aɣaiapki] is attested.<ref name=":0" />
+
+The voiced stops appear as allophones of voiceless stops (as explained above), but also as phonemes in their own right. They can occur initially, intervocalically as well as after consonants, but not at the end of a syllable. They are usually prenasalized.
+
+The voiceless fricative /s/ alternates with [h] in free variation. Speakers tend to associate [s] with the southern and [h] with the northern dialect, respectively. In practice, however, both variants seem to be used by speakers of all dialects, with no change in meaning.<ref name=":0" />
+
+=== Vowels ===
+Qaqet has four short vowel phonemes:
+{| class="wikitable"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+|i
+|
+|u
+|-
+! [[Mid vowel|Mid]]
+|
+|ə ⟨e⟩
+|
+|-
+! [[Open vowel|Open]]
+|
+|a
+|
+|}
+The close vowels are usually realized as lax [ɪ ʊ]. /i u/ can have allophones of semivowels [j w] when preceding other vowels. The open vowel /a/ undergoes assimilation to adjacent sounds: it is realized as back [ɑ] before [ɣ], but as front [æ] before palatal consonants, as well as front vowels in the next syllable. There is also variation across speakers between [a] and [ɐ]. The phoneme /ə/ is much shorter than the other vowels, especially in the vicinity of sonorants, where it is frequently elided, particularly in rapid speech. The vowel [o] only occurs in recent loanwords, such as ''botol'' 'bottle' (from Tok Pisin).<ref name=":0" />
+
+Vowel quantity is generally not contrastive in Qaqet, but long vowels do occur as the result of vowel sequences across morpheme boundaries. Sequences of /a/ and a high vowel become long monophthongs: ''a=ilany'' ['''eː'''læɲ] 'leg/foot', ''a=ulan'' ['''oː'''lan] 'eel'. The vowel /i/ generally does not have a long counterpart, but is realized as [eː]: [m'''eː'''] ~ [m'''iː'''] 'most'. The short vowel /ə/ does not have a long counterpart. There are a small number of roots with long vowels which cannot be explained as the result of underlying vowel sequences, e.g. ''laan'' 'type of bamboo' vs. ''lan'' 'bones'.<ref name=":0" />
+
+There are diphthongs /ia/, /iu/, /ui/, /ua/, which occur even within roots. The diphthongs /ai/ and /au/ do occur, but are more commonly realized as long vowels [eː] and [oː].<ref name=":0" />
+
+=== Phonotactics ===
+Qaqet's syllable structure can be summarized as {{transl|byx|italic=no|(C)(C)V(V)(C)}}. All consonants can occur at the onset of a syllable. Consonant clusters at the onset of a syllable usually consist of an obstruent followed by a sonorant, e.g. {{transl|byx|slep}} 'intensely', {{transl|byx|brasuqa}} 'eagle'; but there are also clusters of a nasal and a liquid, as in {{transl|byx|mrarlik}} 'cross'. In coda position, the plain stops /p t k/, the nasals /m n ɲ ŋ/, the fricative /s/ and the liquids /ɽ l/ can occur, but not the voiced stops /b d g/ or the lenited versions of the stops /β r ɣ/.<ref name=":0" />
+
+== Morphology & Syntax ==
+Word classes in Qaqet include nouns, adjectives, verbs, adverbs, and particles. As in many [[Indo-European languages]], adjectives share many properties with nouns, but they are still different enough to be considered their own word class. However, many roots can occur in different word classes without any derivational morphology. This process, known in linguistics as [[Conversion (word formation)|conversion]], is reminiscent of English (e.g. 'to walk' and 'a walk').
+
+The most striking feature of Qaqet nominal morphology is its [[noun class]] system: all nouns belong to one of eight classes, two of which are based on sex, the others on shape. Additionally, nouns are marked for [[Grammatical number|number]] (singular, dual, and plural). Typologically unusual, some nouns have an [[Singulative number|unmarked plural]], rather than singular form. Adjectives, demonstratives, pronouns and verbs agree with nouns with respect to noun class and number. Both nominal classification as well as the singular-dual-plural distinction are common in East Papuan Languages. Qaqet also has articles, but no [[Grammatical case|case]].
+
+Qaqet verbs distinguish [[Grammatical aspect|aspect]] by using different verbal stems, and [[Grammatical tense|tense]] by using different subject indexes. They can also encode the object. Qaqet uses [[Preposition and postposition|prepositions rather than postpositions]]. Just as in English, they can introduce arguments and adjuncts. They also frequently combine with verbs to form idiomatic meanings. There is also a dedicated class of [[Grammatical particle|particles]], which are never obligatory but convey important discourse information. This is similar to languages like German.
+
+Word order is generally [[Subject–verb–object|SVO]]. This fact, along with the use of prepositions, is rather unusual, since [[Papuan languages]] tend to be verb-final and postpositional. Those features might be attributed to influence from the neighboring Austronesian languages.
+
+=== Nouns ===
+Within the noun phrase, determiners (including possessor indexes, articles, indefinite pronouns and demonstratives) usually precede the head noun, while modifiers (adjectives, numerals, quantifiers, prepositional phrases, directionals) tend to follow it, although there are exceptions. In the following example, the noun is preceded by the demonstrative ''luqa'' and the article ''ama''-, while the adjective follows it:<ref name=":0" />
+{{Interlinear|mani ngutlu luqa amarluimga amatluqa|2=mani ngu=tlu lu-ka-a ama=rluim-ka ama=tlu-ka|3=recently 1SG.SBJ.NPST=see.CONT DEM-SG.M-DIST ART=child-SG.M ART=good-SG.M|4='yesterday I saw that nice boy'}}
+As can be seen from the example, adjectives agree with the noun they modify in noun class and number.
+
+Nouns are almost always preceded by some determining element: an article, a possessor index, a demonstrative or an indefinite pronoun, or combinations of these. The generic noun marker ''a'' contrasts with the articles ''ama'' and ''ma''. The former can be described as a Stage III article following Greenberg (1978):<ref>{{Cite book|last=Greenberg|first=Joseph|title=How does a language acquire gender markers?|publisher=Stanford University|year=1978|editor-last=Greenberg|editor-first=Joseph|series=Universals of human language (Vol. 3: Word structure)|location=Stanford|pages=47–82}}</ref> it probably evolved from a definite article, but has now lost all of those functions and merely marks nouns. It cannot occur with most proper names, nor in combination with possessor indexes. The articles ''ama'' and ''ma'' can occur even with proper names, and they have a more specific meaning than the general noun marker ''a''. Their main function is to mark a noun for referentiality. Moreover, ''ama'' can connect a qualifying adjective to a preceding noun, as can be seen in the example above. The difference between ''ama'' and ''ma'' is that the latter marks a noun as inherently identifiable. Hence, it frequently occurs with proper nouns.<ref name=":0" />
+
+=== Numerals ===
+Below is a list of Qaqet numerals (see Hellwig 2019: 90-91, Tab. 31).<ref name=":0" />
+{| class="wikitable"
+|+
+|1
+|''qunaska''
+|11
+|''malepka ngenaqa''
+|30
+|''malev amadepguas ~ depguas namamalep''
+|-
+|2
+|''qunasiam''
+|12
+|''malepka ngenaiam''
+|40
+|''malev amarlatpes ~ rlatpes namamalep''
+|-
+|3
+|''depguas''
+|13
+|''malepka ngenadepguas''
+|50
+|''malev amangariqit ~ ngariqit namamalep''
+|-
+|4
+|''rlatpes''
+|14
+|''malepka ngenarlatpes''
+|60
+|''malev amangariqit ngenaqa ~ ngariqit ngenaqa namamalep''
+|-
+|5
+|''ngariqit''
+|15
+|''malepka ngenangariqit''
+|70
+|''malev amangariqit ngenaiam ~ ngariqit ngenaiam namamalep''
+|-
+|6
+|''ngariqit ngenaqa''
+|16
+|''malepka ngenangariqit ngenaqa''
+|80
+|''malev amangariqit ngenadepguas ~ ngariqit ngenadepguas namamalep''
+|-
+|7
+|''ngariqit ngenaiam''
+|17
+|''malepka ngenangariqit ngenaiam''
+|90
+|''malev amangariqit ngenarlatpes ~ ngariqit ngenarlatpes namamalep''
+|-
+|8
+|''ngariqit ngenadepguas''
+|18
+|''malepka ngenangariqit ngenadepguas''
+|100
+|''malepka namamalep ~ ganemgi''
+|-
+|9
+|''ngariqit ngenarlatpes''
+|19
+|''malepka ngenangariqit ngenarlatpes''
+|1000
+|''ngerlnanngi''
+|-
+|10
+|''malepka''
+|20
+|''maleviam''
+|
+|
+|}
+Qaqet's number system is basically decimal, with base words for 10, 100, and 1000. However, 5 is used as an auxiliary base, such that the words for 6-9 are formed by adding the numerals for 1-4 to the number 5. The word for 1 consists of the root {{transl|byx|qunas}} and the noun class suffix ''-ka'', while the word for 2 uses the same root with the dual suffix ''-iam''. The same logic is applied to form the numerals for 10 and 20. Addition is expressed through the element ''ngena-'' 'plus, together with'. 
+
+There are two structures for forming higher multiples of ten. One puts {{transl|byx|malev}} 'ten' first, then adds the factor with the article ''ama-''. The other puts the factor first and inserts the preposition ''ne-'' 'from, with' (''nama-'' is a contraction of that preposition and the article ''ama-''). Both of these structures were obtained through elicitation. In practice, Qaqet speakers generally switch to Tok Pisin for numerals above 10.<ref name=":0" /> It is not known whether any of the higher numerals are used in natural speech.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0330 Language socialisation and the transmission of Qaqet Baining (Papua New Guinea)]
+* Materials on Qaqet are included in the open access [[Arthur Capell]] collection ([http://catalog.paradisec.org.au/collections/AC2 AC2]) and the Meinrad Scheller's field recordings ([http://catalog.paradisec.org.au/repository/MS2 MS2]) held by [[Paradisec]].
+{{Languages of Papua New Guinea}}
+
+[[Category:Languages of East New Britain Province]]
+[[Category:Baining languages]]

@@ -1,0 +1,730 @@
+{{Short description|Earliest attested form of the Korean language}}
+{{Infobox language
+| ancestor         = [[Proto-Koreanic language|Proto-Koreanic]]
+| altname          = Silla language
+| region           = Southern and central [[Korea]]
+| familycolor      = altaic
+| era              = Evolved into [[Middle Korean]] in the tenth or thirteenth century
+| fam1             = [[Koreanic languages|Koreanic]]
+| script           = [[Idu script|Idu]], [[Hyangchal]], [[Gugyeol]]
+| iso3             = oko
+| linglist         = oko
+| glotto           = sill1240
+| glottorefname    = Silla
+| module           = {{Infobox Korean name
+  | headercolor = {{Infobox language/family-color|Altaic}}
+  | child = yes
+  | hangul=고대 한국어
+  | hanja=古代韓國語
+  | rr=Godae hangugeo
+  | mr=Kodae han'gugŏ
+  | othername1=North Korean name
+  | hangul1=고대 조선어
+  | hanja1=古代朝鮮語
+  | rr1=Godae joseoneo
+  | mr1=Kodae chosŏnŏ
+  }}
+| name             = Old Korean
+}}
+
+'''Old Korean''' ({{Korean|hangul=고대 한국어, 고대 조선어|hanja=古代韓國語, 古代朝鮮語|rr=Godae Hangugeo, Godae Joseoneo|mr=Kodae Han'gugŏ, Kodae Chosŏnŏ}}) is the first historically documented stage of the [[Korean language]],{{sfn|Lee|Ramsey|2011|p=4}} typified by the language of the [[Unified Silla]] period (668–935).
+
+The boundaries of Old Korean periodization remain in dispute. Linguists sometimes classify the poorly understood languages of the [[Three Kingdoms of Korea]] as variants of Old Korean, while others reserve the term for the language of [[Silla]] alone. Old Korean traditionally ends with the fall of Silla in 935. This too has recently been challenged by South Korean linguists who argue for extending the Old Korean period to the mid-thirteenth century, although this new periodization is not yet fully accepted. This article itself focuses on the language of Silla before the tenth century.
+
+Old Korean is poorly attested. The only surviving literary works are a little more than a dozen vernacular poems called ''[[hyangga]]''. [[Hyangga]] use [[hyangchal]] writing. Other sources include inscriptions on steles and wooden tablets, glosses to Buddhist [[sutra]]s, and the transcription of personal and place names in works otherwise in Classical Chinese. All methods of Old Korean writing rely on logographic [[Hanja|Chinese characters]], used to either gloss the meaning or approximate the sound of the Korean words. The phonetic value of surviving Old Korean texts is thus opaque.
+
+Due to the paucity and poor quality of sources, modern linguists have "little more than a vague outline"{{sfn|Lee|Ramsey|2011|p=50}} of the characteristics of Old Korean. Its phoneme inventory seems to have included fewer consonants but more vowels than [[Middle Korean]]. In its typology, it was a [[subject-object-verb]], [[agglutinative language|agglutinative]] language, like both Middle and Modern Korean. However, Old Korean is thought to have differed from its descendants in certain typological features, including the existence of clausal nominalization and the ability of inflecting verb roots to appear in isolation.
+
+Despite attempts to link the language to the putative [[Altaic family]] and especially to the [[Japonic languages]], no links between Old Korean and any non-[[Koreanic languages|Koreanic language]] have been uncontroversially demonstrated.
+
+== History and periodization ==
+
+[[File:History of Korea-576.png|thumb|Three Kingdoms of Korea in 576]]
+
+{{See also|Goguryeo language|Baekje language|Sillan language}}
+
+Old Korean is generally defined as the ancient Koreanic language of the [[Silla]] state (BCE 57–CE 936),<ref>"The Silla language was the direct ancestor of Middle Korean, and for that reason is most properly called 'Old Korean.'" {{harvnb|Lee|Ramsey|2011|pp=47–48}}</ref> especially in its [[Later Silla|Unified period]] (668–936).{{sfn|Whitman|2015|p=421}}<ref name="Nam2003Periodization">"{{lang|ko|한편 삼국시대를 국어의 형성시대, 통일신라시대를 고대국어 시대, 고려시대를 전기중세국어 시대로 분류하는 방법이 오랜 동안 설득력을 가지고 통용되어 왔다.}}" (Meanwhile, the method of classifying the Three Kingdoms period as the formative period of Korean, the Unified Silla period as the Old Korean period, and the [[Goryeo]] period as the Early Middle Korean period has long been used convincingly.) {{harvnb|Nam|2003|p=2}}</ref> [[Proto-Koreanic language|Proto-Korean]], the hypothetical ancestor of the Koreanic languages understood largely through the [[internal reconstruction]] of later forms of Korean,{{sfn|Martin|1996}} is to be distinguished from the actually historically attested language of Old Korean.<ref>"{{lang|ko|후대의 한국어를 활용하여 재구한 가상적 한국어 즉 Proto-Korean...}}" ("Proto-Korean, that is, the hypothetical Korean reconstructed using the Korean of later times...") {{harvnb|Lee S.|2015|p=39}}</ref>
+
+Old Korean semantic influence may be present in even the oldest discovered Silla inscription, a Classical Chinese-language stele dated to 441 or 501.{{sfn|Choe|2016|pp=41–42}} Korean syntax and morphemes are visibly attested for the first time in Silla texts of the mid- to late-sixth century,{{sfn|Lee|Ramsey|2011|p=55}}{{sfn|Lee S.|2017|pp=183–191}} and the use of such vernacular elements becomes more extensive by the Unified period.<ref name="Nam1995To">"통일신라시대의 이두문은 토(吐)가 발달한 것이 특징이다." ("''Idu'' [vernacular] texts of the Unified Silla period are characterized by their developed ''to'' [explicit orthographic representation of Old Korean morphemes].") {{harvnb|Nam|1995}}</ref>
+
+Initially only one of the [[Three Kingdoms of Korea]], Silla rose to ascendancy in the sixth century under monarchs [[Beopheung of Silla|Beopheung]] and [[Jinheung of Silla|Jinheung]].{{sfn|Seth|2011|pp=38–39}} After another century of conflict, the kings of Silla allied with [[Tang dynasty|Tang China]] to destroy the other two kingdoms—[[Baekje]] in 660, and [[Goguryeo]] in 668—and to unite the southern two-thirds of the Korean Peninsula under their rule.{{sfn|Seth|2011|pp=42–46}} This political consolidation allowed the language of Silla to become the ''[[lingua franca]]'' of the peninsula and ultimately drove the languages of Baekje and Goguryeo to extinction, leaving the latter only as [[linguistic substratum|substrata]] in later Korean dialects.{{sfn|Lee|Ramsey|2011|pp=47–48}} Middle Korean, and hence Modern Korean, are thus direct descendants of the Old Korean language of Silla.{{sfn|Lee|Ramsey|2011|pp=77–79}}{{sfn|Sohn|2015|p=440}}{{efn|In 1995, on the basis of his phonological reconstruction of the ''hyangga'' texts, [[Alexander Vovin]] took the dissenting view that the language of Silla left no direct descendants.{{sfn|Vovin|1995|pp=232–233}} However, in 2003, Vovin refers to the Silla language as "roughly speaking, the ancestor of Middle and Modern Korean.{{sfn|Vovin|2002|pp=24–25}}}}
+
+Little data on the languages of the other two kingdoms survive,<ref>"Other than placenames...... with all of their problems of interpretation,  linguistic data on the languages of Koguryŏ and Paekche are vanishingly scarce." {{harvnb|Whitman|2015|p=423}}</ref> but most linguists agree that both were related to the language of Silla.<ref>"Koguryŏan, and especially Paekchean, appear to have borne close relationships to Sillan." {{harvnb|Lee|Ramsey|2011|p=48}}</ref><ref>"At least from a contemporary Chinese standpoint, the languages of the three kingdoms were similar." {{harvnb|Whitman|2015|p=423}}</ref>{{sfn|Vovin|2005}}{{efn|[[Christopher Beckwith]] contends that Goguryeo was related to Japanese but not Korean.{{sfn|Beckwith|2004}} Thomas Pellard points to serious methodological flaws in Beckwith's arguments, including idiosyncratic [[Middle Chinese]] reconstructions and "questionable or unrealistic semantics".{{sfn|Pellard|2005}}}} Opinion differs as to whether to classify the Goguryeo and Baekje languages as Old Korean variants, or as related but independent languages. Lee Ki-Moon and S. Roberts Ramsey argue in 2011 that evidence for mutual intelligibility is insufficient, and that linguists ought to "treat the fragments of the three languages as representing three separate corpora".{{sfn|Lee|Ramsey|2011|p=48}} Earlier in 2000, Ramsey and Iksop Lee note that the three languages are often grouped as Old Korean, but point to "obvious dissimilarities" and identify Sillan as Old Korean "in the truest sense".{{sfn|Lee I.|Ramsey|2000|pp=274, 276}} Nam Pung-hyun and [[Alexander Vovin]], on the other hand, classify the languages of all three kingdoms as regional dialects of Old Korean.{{sfn|Vovin|2005}}{{sfn|Nam|2012b|p=51}} Other linguists, such as Lee Seungjae, group the languages of Silla and Baekje together as Old Korean while excluding that of Goguryeo.{{sfn|Lee S.|2017|pp=18–19}} The [[LINGUIST List]] gives Silla as a synonym for Old Korean while acknowledging that the term is "often used to refer to three distinct languages".{{sfn|The LINGUIST List|2016}}
+
+[[File:Historical capitals of Korea since 668.png|407x342px|thumb|left|The historical capitals of Korea, including Gaegyeong and the Silla capital of [[Gyeongju]]]]
+
+Silla began a protracted decline in the late eighth century. By the early tenth century, the Korean Peninsula was [[Later Three Kingdoms|once more divided into three warring polities]]: the rump Silla state, and two new kingdoms founded by local magnates. [[Goryeo]], one of the latter, obtained the surrender of the Silla court in 935 and reunited the country the next year.{{sfn|Seth|2011|pp=69–74}} Korea's political and cultural center henceforth became the Goryeo capital of Gaegyeong (modern [[Gaeseong]]), located in central Korea. The [[prestige dialect]] of Korean also shifted from the language of Silla's southeastern heartland to the central dialect of Gaegyeong during this time.{{sfn|Lee|Ramsey|2011|pp=77–79}}{{sfn|Sohn|2015|p=440}} Following Lee Ki-Moon's work in the 1970s, the end of Old Korean is traditionally associated with this tenth-century change in the country's political center.<ref name="Nam2003Periodization" />{{sfn|Lee S.|2015|pp=40–41}}
+
+In 2003, South Korean linguist Nam Pung-hyun proposed that the Old Korean period should be extended into the mid-thirteenth century.{{sfn|Nam|2012b|p=51}} Nam's arguments center on Korean-language glosses to the Buddhist canon. He identifies grammatical commonalities between Silla-period texts and glosses from before the thirteenth century, which contrast with the structures of post-thirteenth century glosses and of fifteenth-century Middle Korean. Such thirteenth-century changes include the invention of dedicated [[conditional mood]] markers, the restriction of the former [[nominalization|nominalizing]] suffixes ''-n'' and ''-l'' to [[grammatical modifier|attributive]] functions alone, the erasing of distinctions between nominal and verbal negation, and the loss of the essentiality-marking suffix ''-ms''.{{sfn|Nam|2003|pp=18–19}}
+
+Nam's thesis has been increasingly influential in Korean academia.<ref name="Kim201242">"{{lang|ko|최근의 연구들에서는 13세기를 하한선으로 보려는 경향이 나타난다. 이러한 사실은 고대국어의 연구가 깊이를 더해가고 있음과 더불어 고려 건국 이전까지를 고대국어로 간주해 온 일반화된 국어사의 시대 구분에 대한 수정이 필요함을 생각하게 된다." {{harvnb|Kim Y. P.|2012|pp=42–43}}}}</ref><ref>"{{lang|ko|차자표기 자료의 연구가 진행될수록 고려시대의 언어 현상들은 중세국어 쪽이 아닌, 고대국어의 범주로 포함시키려는 경향이 강하다.}}" (The more the study of sources transcribed with Sinographic systems [''chaja''] progresses, the stronger the tendency to classify the linguistic phenomena of the Goryeo period within the framework of Old Korean, not Middle Korean.) {{harvnb|Kim J.|2019|pp=113–114}}</ref> In a 2012 review, Kim Yupum notes that "recent studies have a tendency to make the thirteenth century the end date [for Old Korean]... One thinks that the general periodization of Korean language history, in which [only the language] prior to the founding of Goryeo is considered Old Korean, is in need of revision."<ref name="Kim201242" /> The Russian-American linguist Alexander Vovin also considers twelfth-century data to be examples of "Late Old Korean".<ref>"The earliest attestation of the word in question is LOK [Late Old Korean] 菩薩 'rice' (Kyeyrim #183)." {{harvnb|Vovin|2015|pp=230–231}}</ref><ref>Vovin 2013. "Mongolian names for 'Korea' and 'Korean' and their significance for the history of the Korean language" in "STUDIES IN KOREAN LINGUISTICS AND LANGUAGE PEDAGOGY Festschrift for Ho-min Sohn".</ref> On the other hand, linguists such as Lee Seungjae and Hwang Seon-yeop{{sfn|Hwang|2018|pp=19–21}} continue to use the older periodization, as do major recent English-language sources such as the 2011 ''History of the Korean Language''{{sfn|Lee|Ramsey|2011|pp=77–79}} and the 2015 ''Blackwell Handbook of Korean Linguistics''.{{sfn|Whitman|2015|p=421}}
+
+== Sources of Old Korean ==
+
+=== ''Hyangga'' literature ===
+
+{{main article|Hyangga}}
+
+{{see also|Man'yōshū}}
+
+[[File:삼국유사.jpg|thumb|287x240px|The ''Samguk yusa'' contains most surviving Silla ''hyangga'']]
+
+The only Korean-language literature that survives from Silla are vernacular poems now called ''hyangga'' ({{korean|hangul=향가|hanja=鄕歌}}), literally "local songs".{{sfn|Lee|Ramsey|2011|pp=50–51, 57–58}}
+
+''Hyangga'' appears to have been a flourishing genre in the Silla period, with a royally commissioned anthology published in 888.{{sfn|Lee|Ramsey|2011|pp=50–51, 57–58}} That anthology is now lost, and only twenty-five works survive. Fourteen are recorded in the ''[[Samguk yusa]]'', a history compiled in the 1280s by the monk [[Iryeon]],{{sfn|Lee P.|2003|pp=134}} along with prose introductions that detail how the poem came to be composed.{{sfn|Hwang|2015|pp=43–65}} These introductions date the works to between 600 and 879. The majority of ''Samguk yusa'' poems, however, are from the eighth century.{{sfn|Lee|Ramsey|2011|pp=50–51, 57–58}} Eleven additional ''hyangga'', composed in the 960s by the Buddhist monk [[Gyunyeo]],{{sfn|Lee|Ramsey|2011|pp=50–51, 57–58}} are preserved in a 1075 biography of the master.{{sfn|Nam|2012a|pp=6–7}} Lee Ki-Moon and Ramsey consider Gyunyeo's ''hyangga'' to also represent "Silla poetry",{{sfn|Lee|Ramsey|2011|pp=50–51, 57–58}} although Nam Pung-hyun insists on significant grammatical differences between the works of the ''Samguk yusa'' and those of Gyunyeo.{{sfn|Nam|2012a}}
+
+Because centuries passed between the composition of ''hyangga'' works and the compilation of the works where they now survive, textual corruption may have occurred.{{sfn|Kim W.|1980|pp=34–52}}{{sfn|Handel|2019|p=79}} Some poems that Iryeon attributes to the Silla period are now believed to be [[Goryeo]]-era works.{{sfn|Nam|2012b|p=45}}{{sfn|Vovin|2013|p=202}} Nam Pung-hyun nevertheless considers most of the ''Samguk yusa'' poems to be reliable sources for Old Korean because Iryeon would have learned the Buddhist canon through a "very conservative" dialect and thus fully understood the Silla language.<ref>"고려시대의 석독구결이 매우 보수적이어서 이를 기초로 경전을 습득하였다면 一然은 신라시대의 언어에 대하여 정확한 이해를 하고 있었던 것으로 보아야 한다." (If the interpretive ''gugyeol'' of the Goryeo period was very conservative, and this was the basis of learning the canons, Iryeon should be seen as having accurately understood the language of the Silla period.) {{harvnb|Nam|2018|pp=2–3, 24–25}}</ref> Other scholars, such as Park Yongsik, point to thirteenth-century grammatical elements in the poems while acknowledging that the overall framework of the ''hyangga'' texts is Old Korean.{{sfn|Park Y.|2005}}
+
+The ''hyangga'' could no longer be read by the [[Joseon]] period (1392–1910).{{sfn|Miller|1987|pp=13–14}} The modern study of Old Korean poetry began with Japanese scholars during the [[Korea under Japanese rule|Japanese colonial period]] (1910–1945), with [[Shinpei Ogura]] pioneering the first reconstructions of all twenty-five ''hyangga'' in 1929.{{sfn|Lim|2008|pp=377–381}}{{sfn|Park J.|2018|pp=54–59}} The earliest reconstructions by a Korean scholar were made by Yang Chu-dong in 1942 and corrected many of Ogura's errors, for instance properly identifying {{lang|oko|只}} as a phonogram for *-k.{{sfn|Park J.|2018|pp=59–65}} The analyses of Kim Wan-jin in 1980 established many general principles of ''hyangga'' orthography.{{sfn|Kim W.|1980}}{{sfn|Park J.|2018|p=65}} Interpretations of ''hyangga'' after the 1990s, such as those of Nam Pung-hyun in the 2010s, draw on new understandings of early Korean grammar provided by newly discovered Goryeo texts.{{sfn|Nam|2010|p=63}}{{sfn|Nam|2019}}
+
+Nevertheless, many poems remain poorly understood, and their phonology is particularly unclear.<ref>"Interpretation of the ''hyangga'' remains a monumental task. We quite honestly do not know what some ''hyangga'' mean, much less what they sounded like." {{harvnb|Lee|Ramsey|2011|p=57}}</ref> Due to the opaqueness of data, it has been convention since the earliest Japanese researchers{{sfn|Lim|2008|pp=381–382}} for scholars to transcribe their ''hyangga'' reconstructions using the Middle Korean [[lexicon]], and some linguists continue to anachronistically project even non-lexical Middle Korean elements in their analyses.{{sfn|Handel|2019|pp=92–93}}
+
+=== Epigraphic sources ===
+
+Silla inscriptions also document Old Korean elements. Idiosyncratic Chinese vocabulary suggestive of vernacular influence is found even in the oldest surviving Silla inscription, a stele in [[Pohang]] dated to [[Sexagenary cycle|either 441 or 501]].{{sfn|Choe|2016|pp=41–42}} These early inscriptions, however, involved "little more than subtle alterations of Classical Chinese syntax".{{sfn|Lee|Ramsey|2011|p=55}}
+
+[[File:임신서기석.jpg|thumb|283x285 px|The Imsin Vow Stone of 552/612 uses Old Korean syntax.]]
+
+Inscriptions of the sixth and seventh centuries show more fully developed strategies of representing Korean with Chinese characters. Some inscriptions represent functional morphemes directly through semantic Chinese equivalents.{{sfn|Lee|Ramsey|2011|p=55}} Others use only Classical Chinese vocabulary, but reorder them fully according to Korean syntax. A 551 stele commemorating the construction of a fort in [[Gyeongju]], for instance, writes "begin to build" as {{lang|oko|作始}} (lit. "build begin") rather than the correct Classical Chinese, {{lang|lzh|始作}} (lit. "begin build"), reflecting the [[Subject-object-verb]] word order of Korean.{{sfn|Choe|2016|p=46}} The Imsin Vow Stone, raised in either 552 or 612,{{sfn|Lee|Ramsey|2011|p=55}} is also illustrative:
+
+{| class="wikitable"
+|-
+| '''English'''{{efn|From {{harvnb|Lee|Ramsey|2011|p=55}}. The titles of the Chinese classics are translated here for the sake of English readers' convenience.}} || We swear to learn in turn the ''[[Classic of Poetry]]'', the ''[[Book of Documents|Esteemed Documents]]'', the ''[[Book of Rites]]'', and the ''[[Zuo zhuan]]'' for three years.
+|-
+| '''Original text''' || {{lang|oko|詩尙書傳倫淂誓三年}}
+|-
+| '''Gloss''' || ''Poetry'' ''Esteemed Documents'' ''Rites'' ''Zhuan'' in-turn learn swear three years
+|-
+| '''Classical Chinese'''{{sfn|Choe|2016|p=52}} || {{lang|lzh|誓三年倫淂詩尙書傳}}
+|-
+| '''Gloss''' || swear three years in-turn learn ''Poetry'' ''Esteemed Documents'' ''Rites'' ''Zhuan''
+|}
+
+Other sixth-century epigraphs that arrange Chinese vocabulary using Korean syntax and employ Chinese semantic equivalents for certain Korean functional morphemes have been discovered, including stelae bearing royal edicts or celebrating public works and sixth-century rock inscriptions left at [[Ulju]] by royals on tour.{{sfn|Choe|2016|pp=45–49}}{{sfn|Nam|1995}} Some inscriptions of the Unified Silla period continue to use only words from Classical Chinese, even as they order them according to Korean grammar.{{sfn|Nam|2012b|pp=42–43}} However, most inscriptions of the period write Old Korean morphemes more explicitly, [[#Orthography|relying on Chinese semantic and phonetic equivalents.]]<ref name="Nam1995To" /> These Unified-era inscriptions are often Buddhist in nature and include material carved on Buddha statues, [[bonshō|temple bells]], and [[pagoda]]s.{{sfn|Nam|2012b|pp=42–43}}
+
+=== ''Mokgan'' sources ===
+
+{{see also|Bamboo and wooden slips|Mokkan}}
+
+[[File:Haman Mokgan.jpg|thumb|295x196 px|Sixth-century ''mokgan'' slips from [[Haman County|Haman]]]]
+
+Ancient Korean scribes often wrote on bamboo and wooden slips called ''mokgan''.{{sfn|Lee S.|2017|pp=17–20}} By 2016, archaeologists had discovered 647 ''mokgan'', out of which 431 slips were from Silla.{{sfn|Yoon|2016|pp=392–393}} ''Mokgan'' are valuable primary sources because they were largely written by and reflect the concerns of low-ranking officials, unlike other texts that are dominated by the high elite.{{sfn|Lee S.|2017|pp=17–20}} Since the majority of discovered texts are inventories of products, they also provide otherwise rare information about numerals, [[classifier (linguistics)|classifiers]], and common nouns.{{sfn|Lee S.|2017|pp=484–486}}
+
+Modern ''mokgan'' research began in 1975.{{sfn|Kim C.|2014|p=199}} With the development of [[infrared]] [[imaging science]] in the 1990s, it became possible to read many formerly indecipherable texts,{{sfn|Yoon|2016|p=389}} and a comprehensive catalog of hitherto discovered slips was published in 2004. Since its publication, scholars have actively relied on the ''mokgan'' data as an important primary source.{{sfn|Jeon|2012|p=168}}
+
+''Mokgan'' are classified into two general categories.{{sfn|Lee S.|2017|pp=208–209}} Most surviving slips are tag ''mokgan'',{{sfn|Lee S.|2017|pp=471, 477}} which were attached to goods during transport and contain quantitative data about the product in question.{{sfn|Lee S.|2017|pp=471, 477}} Document ''mokgan'', on the other hand, contain administrative reports by local officials.{{sfn|Lee S.|2017|pp=208–209}} Document ''mokgan'' of extended length were common prior to Silla's conquest of the other kingdoms, but ''mokgan'' of the Unified period are primarily tag ''mokgan''.{{sfn|Jung|2015|pp=37, 41, 62}} A small number of texts belong to neither group; these include a fragmentary ''hyangga'' poem discovered in 2000{{sfn|Lee S.|2017|pp=208–209}} and what may be a ritual text associated with [[Dragon King]] worship.{{sfn|Jung|2015|pp=66–77}}{{efn|This ''mokgan'' is addressed to the "Great Dragon King", but Lee Seungjae 2017 also suggests that this may be a document ''mokgan'' conferring the honorific "great dragon" to a human nobleman.{{sfn|Lee S.|2017|p=206}}}}
+
+The earliest direct attestation of Old Korean comes from a mid-sixth century document ''mokgan'' first deciphered in full by Lee Seungjae in 2017.{{sfn|Lee S.|2017|pp=183–191}} This slip, which contains a report by a village chieftain to a higher-ranking official,{{sfn|Lee S.|2017|pp=180–181}} is composed according to Korean syntax and includes four uncontroversial examples of Old Korean functional morphemes (given below in bold), as well as several potential content words.{{sfn|Lee S.|2017|pp=183–191}}
+
+{| class="wikitable"
+|-
+! Mokgan No. 221 !! Reconstruction (Lee S. 2017) !! Gloss (Lee S. 2017) !! Translation (Lee S. 2017){{sfn|Lee S.|2017|pp=489–490}}
+|-
+| {{lang|oko|丨彡從'''在'''}} || *tasəm 從-'''kje-n''' || {{interlinear|five hurry-HON-NMR}} || five planned to hurry
+|-
+| {{lang|oko|人'''此'''人鳴}} || *人-'''i''' 人 鳴 || {{interlinear|people-CONN people grieve}} || the people were all grieved
+|-
+| {{lang|oko|不行'''遣乙'''白}} || *不行-'''kje-n-ul''' 白 || {{interlinear|NEG go-HON-NMR-ACC report}} || "unable to go", [I] report
+|}
+
+=== Other textual sources ===
+
+Old Korean glosses have been discovered on eighth-century editions of Chinese-language Buddhist works.{{sfn|Nam|2012b|p=43}}{{sfn|Whitman|2011|p=105}} Similar to the Japanese ''[[kanbun]]'' tradition,{{sfn|Whitman|2014|pp=3–4}} these glosses provide Old Korean [[noun case]] markers, [[inflectional suffix]]es, and phonograms that would have helped Korean learners read out the Classical Chinese text in their own language.{{sfn|Nam|2013}} Examples of these three uses of glossing found in a 740 edition of the ''[[Avatamsaka Sutra]]'' (now preserved in [[Tōdai-ji]], Japan) are given below.{{sfn|Nam|2013}}
+
+[[File:National Treasure of South Korea 196 (Avatamsaka sutra in ink on white paper).jpg|thumb|left|309x400 px|Scroll of a Silla edition of the ''Avatamsaka Sutra'', written in 754–755]]
+
+{| class="wikitable"
+|-
+| Classical Chinese original || {{lang|lzh|尒時精進慧菩薩白法慧菩薩言}}
+|-
+| English gloss || that time Jingjinhui [[bodhisattva]] ask Fahui bodhisattva speech
+|-
+| Old Korean glossed text || 尒時精'''[[wiktionary:良|良]]'''進慧菩薩白法慧菩薩言
+|-
+| English gloss || that time{{interlinear|'''-LOC'''}} Jingjinhui bodhisattva ask Fahui bodhisattva speech
+|-
+| Translation || At that time, the Jingjinhui Bodhisattva asked the Fahui Bodhisattva...<ref>Translated from Nam 2013's Korean translation, "그 때 精進慧菩薩이 法慧菩薩에게 물었다" {{harvnb|Nam|2013|pp=60–61}}</ref>
+|}
+
+{| class="wikitable"
+|-
+| Classical Chinese original || {{lang|lzh|則爲不淨則爲可猒}}
+|-
+| English gloss || then be not clean then be can dislike
+|-
+| Old Korean glossed text || 則爲不淨'''[[wiktionary:厼|厼]]'''則爲可猒
+|-
+| English gloss || then be not clean{{interlinear|'''-CONN'''}} then be can dislike
+|-
+| Translation || [That] it is an unclean thing and [that] it is a disliked thing...<ref>Translated from Nam 2013's Korean translation, "부정한 것이며 싫은 것이며" {{harvnb|Nam|2013|pp=72–73}}</ref>
+|}
+
+{| class="wikitable"
+|-
+| Classical Chinese original || {{lang|lzh|无邊種種境界}}
+|-
+| English gloss || not.exist edge kind kind border boundary
+|-
+| Old Korean glossed text || 无邊種種'''[[wiktionary:叱|叱]]'''境界
+|-
+| Purpose of gloss || Shows that 種種 is to be read as a native Korean word with final *-s{{efn|cf. Middle Korean {{lang|okm|갓갓}} ''kaskas'' "many kind of"{{sfn|Nam|2013|pp=69–70}}}}
+|-
+| Translation || The many kinds of endless boundaries...<ref>Translated from Nam 2013's Korean translation, "끝없는 여러 가지 경계" {{harvnb|Nam|2013|pp=69–70}}</ref>
+|}
+
+Portions of a Silla census register with Old Korean elements, likely from 755 but [[Sexagenary cycle|possibly also 695, 815, or 875]], have also been discovered at Tōdai-ji.{{sfn|Lee Y.|2015|pp=65–66, 77–79}}
+
+Though in Classical Chinese, the Korean histories ''[[Samguk sagi]]'' and ''Samguk yusa'' offer Old Korean etymologies for certain native terms. The reliability of these etymologies remains in dispute.{{sfn|Lee|Ramsey|2011|pp=52–53}}
+
+Non-Korean texts also provide information on Old Korean. A passage of the ''[[Book of Liang]]'', a seventh-century Chinese history, transcribes seven Silla words: a term for "fortification", two terms for "village", and four clothing-related terms. Three of the clothing words have Middle Korean cognates, but the other four words remain "uninterpretable".{{sfn|Lee|Ramsey|2011|p=58}} The eighth-century Japanese history ''[[Nihon Shoki]]'' also preserves a single sentence in the Silla language, apparently some sort of oath, although its meaning can only be guessed from context.{{sfn|Miller|1979|p=42}}
+
+=== Proper nouns ===
+
+The ''Samguk sagi'', the ''Samguk yusa'', and Chinese and Japanese sources transcribe many proper nouns from Silla, including personal names, place names, and titles. These are often given in two variant forms: one that transcribes the Old Korean phonemes, using Chinese characters as [[phonogram (linguistics)|phonograms]], and one that translates the Old Korean morphemes, using Chinese characters as [[logogram]]s. This is especially true for place names; they were standardized by royal decree in 757, but the sources preserve forms from both before and after this date. By comparing the two, linguists can infer the value of many Old Korean morphemes.{{sfn|Lee|Ramsey|2011|pp=37–40, 51}}
+
+{| class="wikitable"
+|-
+! Period !! Place name !! Transliteration{{efn|name=fn1}} !! Gloss
+|-
+| Post-757|| {{lang|ko|永同郡}} || [[Yeongdong County|Yengtwong County]] || long same county
+|-
+| Pre-757|| {{lang|oko|吉同郡}} || Kiltwong County || auspicious same county
+|-
+| colspan="4" | 吉 is a phonogram for the Old Korean morpheme *kil- "long", represented after 757 by the logogram 永 and cognate to Middle Korean {{lang|okm|길}} ''kil-'' "id."{{sfn|Lee|Ramsey|2011|p=52}}
+|-
+| Post-757|| {{lang|oko|密城郡}} || [[Miryang|Milseng County]] || dense fortress county
+|-
+| Pre-757|| {{lang|oko|推火郡}} || Chwuhwoa County || push fire county
+|-
+| colspan="4" | 推 is a logogram for the Old Korean morpheme *mil- "push", represented after 757 by the phonogram 密 ''mil'' and cognate to Middle Korean {{lang|okm|밀}} ''mil-'' "id."{{sfn|Lee|Ramsey|2011|p=52}}
+|}
+
+=== Non-textual sources ===
+
+{{see also|Sino-Xenic pronunciations}}
+
+The modern Korean language has its own pronunciations for Chinese characters, called Sino-Korean.{{sfn|Sohn|2001|pp=123–124}} Although some Sino-Korean forms reflect [[Old Chinese]] or [[Early Mandarin]] pronunciations, the majority of modern linguists believe that the dominant layer of Sino-Korean descends from the [[Middle Chinese]] prestige dialect of [[Chang'an]] during the [[Tang dynasty]].{{sfn|Lee|Ramsey|2011|pp=68–70}}{{sfn|Wei|2017|pp=216–221}}{{sfn|Qian|2018|pp=13–15, 209–211}}{{efn|Some scholars hold that the dominant layer comes from the somewhat earlier Middle Chinese of the ''[[Qieyun]]'', or from the late Old Chinese of the [[Northern and Southern dynasties]].{{sfn|Qian|2018|pp=13–15}}}}
+
+As Sino-Korean originates in Old Korean speakers' perception of Middle Chinese [[phone (phonetics)|phones]],{{sfn|Wei|2017|pp=26–31}} elements of Old Korean phonology may be inferred from a comparison of Sino-Korean with Middle Chinese.{{sfn|Lee|Ramsey|2011|p=55}} For instance, Middle Chinese, Middle Korean, and Modern Korean all have a [[phoneme|phonemic]] distinction between the non-[[aspirated consonant|aspirated]] [[velar stop]] {{IPA|/k/}} and its aspirated equivalent, {{IPA|/kʰ/}}. However, both are regularly reflected in Sino-Korean as {{IPA|/k/}}. This suggests that {{IPA|/kʰ/}} was absent in Old Korean.{{sfn|Lee|Ramsey|2011|pp=64–65}}
+
+Old Korean phonology can also be examined via Old Korean loanwords in other languages, including [[Middle Mongol language|Middle Mongol]]{{sfn|Vovin|2013}} and especially [[Old Japanese]].{{sfn|Lee|Ramsey|2011|pp=58–59}}
+
+== Orthography ==
+
+{{see also|Man'yōgana}}
+
+All Old Korean was written with [[Chinese family of scripts|Sinographic systems]], where Chinese characters are borrowed for both their semantic and phonetic values to represent the vernacular language.{{sfn|Handel|2019|p=62}} The earliest texts with Old Korean elements use only Classical Chinese words, reordered to fit Korean syntax, and do not represent native morphemes directly.{{sfn|Lee|Ramsey|2011|p=55}} Eventually, Korean scribes developed four strategies to write their language with Chinese characters:
+
+[[File:Tenth line of Anminga analysis (Nam 2019).png|349x411px|thumb|Analysis of the tenth line of the 756 poem ''Anmin-ga''. Red represents SALs, blue PAPs, orange DALs, and green SAPs.]]
+
+* Directly-adapted logograms (DALs or ''eumdokja'' 音讀字), used for all morphemes loaned from Classical Chinese and perceived as such. A character adapted as a DAL retains both the semantic and phonetic values of the original Chinese.{{sfn|Handel|2019|p=98}}
+* Semantically-adapted logograms (SALs or ''hundokja'' 訓讀字), where native Korean morphemes, including loanwords perceived as native words, are written with Chinese semantic equivalents. A character adapted as a SAL retains only the semantic value of the original Chinese.{{sfn|Handel|2019|p=99}}
+* Phonetically-adapted phonograms (PAPs or ''eumgaja'' 音假字), where native Korean morphemes, typically grammatical or semi-grammatical elements, are written with Chinese phonological equivalents. A character adapted as a PAP retains only the phonetic value of the original Chinese.{{sfn|Handel|2019|p=100}}
+* Semantically-adapted phonograms (SAPs or ''hungaja'' 訓假字), where native Korean morphemes are written with a Chinese character whose Korean semantic equivalent is phonologically similar to the morpheme.{{sfn|Handel|2019|p=101}} A SAP retains neither the semantic nor the phonetic value of the Chinese.
+
+It is often difficult to discern which of the transcription methods a certain character in a given text is using.{{sfn|Lee|Ramsey|2011|p=59}} Following Nam 2019's interpretation, the final line of the 756 ''hyangga'' poem ''[[Anmin-ga]]'' contains all four strategies, as shown on right.{{sfn|Nam|2019|p=45}}
+
+In Old Korean, most [[content morpheme]]s are written with SALs, while PAPs are used for [[functional morpheme|functional suffixes]].{{sfn|Handel|2019|p=91}} In Korean scholarship, this practice is called ''hunju eumjong'' ({{korean|hangul=훈주음종|hanja=訓主音從}}), literally "logogram is principal, phonograms follow".{{sfn|Kim W.|1980|pp=12–17}} In the eighth-century poem ''[[Heonhwa-ga]]'' [[#Sample text|given below]], for instance, the inflected verb {{lang|oko|獻乎理音如}} {{interlinear|give-INTENT-PROSP-ESSEN-DEC}} begins with the SAL {{lang|oko|[[wiktionary:獻|獻]]}} "to give" and is followed by three PAPs and a final SAP that mark mood, aspect, and essentiality.{{sfn|Nam|2010}} ''Hunju eumjong'' is a defining characteristic of Silla orthography{{sfn|Lee S.|2017|pp=262–275}} and appears not to be found in Baekje ''mokgan''.{{sfn|Lee S.|2017|pp=275–283}}
+
+Another tendency of Old Korean writing is called ''mareum cheomgi'' ({{korean|hangul=말음첨기|hanja=末音添記}}), literally "final sounds transcribed in addition". A phonogram is used to mark the final syllable or [[Syllable#Coda|coda consonant]] of a Korean word already represented by a logogram.{{sfn|Shin|1998|pp=85–89}} Handel uses an analogy to "-st" in English ''1st'' for "first".{{sfn|Handel|2019|pp=103–105}} Because the final phonogram can represent a single consonant, Old Korean writing has [[alphabet]]ic properties.{{sfn|Handel|2019|pp=119–120}} Examples of ''mareum cheomgi'' are given below.
+
+{| class="wikitable"
+|-
+! English !! Old Korean !! Logogram !! Phonogram || Value of consonant phonogram{{sfn|Lee S.|2017|pp=379–280}} || Modern Sino-Korean reading{{efn|name=fn1|In [[Yale Romanization of Korean|Yale Romanization]], the standard for Korean linguistics}} || Middle Korean cognate{{efn|name=fn1}}
+|-
+| Night || {{lang|oko|夜音}} (''[[Mojukjirang-ga]]''){{sfn|Shin|1998|p=92}} || [[wiktionary:夜|夜]] || [[wiktionary:音|音]] || <center>*-m</center> || <center>야'''음''' ''ya '''um'''''</center> || {{lang|okm|밤}} ''pa'''m'''''
+|-
+| Road || {{lang|oko|道尸}} (''Mojukjirang-ga''){{sfn|Shin|1998|p=93}} || [[wiktionary:道|道]] || [[wiktionary:尸|尸]] || <center>*-l </center> || <center>도''시'' ''two '''si'''''</center> || {{lang|okm|길}} ''ki'''l'''''
+|-
+| Fortress || {{lang|oko|城叱}} (''[[Hyeseong-ga]]''){{sfn|Shin|1998|pp=93–94}} || [[wiktionary:城|城]] || [[wiktionary:叱|叱]] || <center>*-s</center> || <center>성'''질''' ''seng '''cil'''''</center> || {{lang|okm|잣}} ''ca'''s'''''
+|-
+| Thousand || {{lang|oko|千隱}} (''[[Docheonsugwaneum-ga]]''){{sfn|Shin|1998|p=94}} || [[wiktionary:千|千]] || [[wiktionary:隱|隱]] || <center>*-n</center> || <center>천'''은''' ''chen '''un'''''</center> || {{lang|okm|즈믄}} ''cumu'''n'''''
+|-
+| Only || {{lang|oko|唯只}} (''[[Ujeok-ga]]''){{sfn|Shin|1998|pp=94–95}} || [[wiktionary:唯|唯]] || [[wiktionary:只|只]] || <center>*-k</center> || <center>유'''지''' ''ywu '''ci'''''</center> || {{lang|okm|오직}} ''woci'''k'''''
+|-
+| Sixty (Chinese loan) || {{lang|oko|六十}}{{lang|oko|𢀳}} (Haman Seongsan Sanseong Mokgan No. 221){{sfn|Lee S.|2017|p=383}} || [[wiktionary:六十|六十]] || [[wiktionary:𢀳|𢀳]] || <center>*-p</center> || <center>육십'''읍''' ''ywuk sip '''up'''''</center> || {{lang|okm|륙십}} ''lywuksi'''p'''''
+|-
+| Stream || {{lang|oko|川理}} (''[[Chan'giparang-ga]]''){{sfn|Shin|1998|pp=85–89}} || [[wiktionary:川|川]] || [[wiktionary:理|理]] || <center>syllabic</center> || <center>천'''리''' ''chen '''li'''''</center>|| {{lang|okm|나리}} ''na'''li'''''
+|-
+| Rock || {{lang|oko|岩乎}} (''Heonhwa-ga''){{sfn|Shin|1998|pp=85–89}} || [[wiktionary:岩|岩]] || [[wiktionary:乎|乎]] || <center>syllabic</center> || <center>암'''호''' ''am '''hwo'''''</center> || {{lang|okm|바회}} ''pa'''hwoy'''''
+|}
+
+Unlike modern Sino-Korean, most of which descends from Middle Chinese, Old Korean phonograms were based on the [[Old Chinese]] pronunciation of characters. For instance, characters with Middle Chinese initial {{IPA|*j}} were used to transcribe an Old Korean [[liquid (linguistics)|liquid]], reflecting the fact that initial {{IPA|*j}} arose from Old Chinese {{IPA|*l}}. The characters {{lang|zh|所}} and {{lang|zh|朔}} had the same vowel in Old Korean orthography, which was true in Old Chinese where both had {{IPA|*a}}, but not in Middle Chinese, where the former had the diphthong {{IPA|*ɨʌ}} and the latter {{IPA|*ʌ}}.{{sfn|Wei|2017|pp=65–67}}
+
+Partly because of this archaism, some of the most common Old Korean phonograms are only partially connected to the Middle Chinese or Sino-Korean phonetic value of the character. Ki-Moon Lee and S. Robert Ramsey cites six notable examples of these "problematic phonograms", given below.{{sfn|Lee|Ramsey|2011|pp=60–62}}
+
+{| class="wikitable"
+|-
+! "Problematic phonogram" !! Old Korean{{efn|name=fn1}} !! Modern Sino-Korean{{efn|name=fn1}} !! Middle Chinese ([[Baxter's transcription for Middle Chinese|Baxter's transcription]]){{sfn|Baxter|Sagart|2014}} !! style="width: 15%"| Old Chinese ([[Reconstructions of Old Chinese#Baxter–Sagart (2014)|Baxter-Sagart 2014]]){{sfn|Baxter|Sagart|2014}}{{efn|In Baxter-Sagart's reconstruction, brackets refer to uncertain phonetic identity; for instance, coda [t] may actually have been /p/, both of which were reflected in Middle Chinese as /t/.}}!! Explanation
+|-
+| {{lang|oko|[[wiktionary:良|良]]}} || *a~e || ''lyang'' || ''ljang'' || *[r]aŋ || May have been read as *la~le instead,{{sfn|Cho|2009|pp=107–120}} although ''mokgan'' data supports *a.{{sfn|Kim Y. W.|2012|pp=36–39}} May also be a SAP.{{sfn|Kim Y. W.|2012|pp=36–39}}
+|-
+| {{lang|oko|[[wiktionary:旀|旀]]}} || *mye || ''mye'' || ''mjie'' || *m-nə[r] || Lee and Ramsey consider this phonogram problematic because MC ''mjie'' had lost its diphthong by the eighth century, and so the Korean reading reflects "an especially old pronunciation".{{sfn|Lee|Ramsey|2011|pp=60–62}}
+|-
+| {{lang|oko|[[wiktionary:遣|遣]]}} || *kwo || ''kyen'' || ''khjienX'' || *[k]ʰe[n]ʔ || May have been read as *kye or *kyen instead,{{sfn|Hwang|2002}}{{sfn|Jang|2005|pp=125–133}} but evidence for *kwo is quite strong.{{sfn|Nam|2018|pp=15–16}}
+|-
+| {{lang|oko|[[wiktionary:尸|尸]]}} || *-l || ''si'' || ''syij'' || *l̥[ə]j || Preserves the [[Old Chinese]] [[lateral consonant|lateral]]-initial pronunciation.{{sfn|Miyake|1998|pp=347–348}}{{sfn|Vovin|2013|pp=200–201}}
+|-
+| {{lang|oko|[[wiktionary:叱|叱]]}} || *-s || ''cil'' || N/A || N/A || "Probably"{{sfn|Handel|2019|p=94}} preserves an older reading of {{lang|zh|叱}} with initial *s-.{{sfn|Yang|2016}} Alternately, may be a Korean creation independent of the Chinese glyph {{lang|zh|叱}}, perhaps a simplification of {{lang|zh|時}} (MdSK ''si'').{{sfn|Kim W.|1985|pp=5–6}} May also be due to influence from Chinese Buddhist transcription systems for [[Sanskrit language|Sanskrit]].{{sfn|Wei|2014}}
+|-
+| {{lang|oko|[[wiktionary:只|只]]}} || *ki / *-k || ''ci'' || N/A || N/A || May preserve an Old Chinese pronunciation that included [[velar consonants|velars]].{{sfn|Wei|2013|pp=167–182}}
+|}
+
+Silla scribes also developed [[Hanja#Gukja|their own characters]] not found in China. These could be both logograms and phonograms, as seen in the examples below.{{sfn|Lee S.|2017|pp=329–342, 444–448}}
+
+{| class="wikitable"
+|-
+! Silla-developed character !! Use !! Origin
+|-
+| [[wiktionary:太|太]] || Logogram for "bean"{{efn|Unrelated to the Chinese character {{lang|zh|太}} identical in appearance and meaning "great"}} || [[Chinese characters#Compound ideograms|Compound ideogram]] of [[wiktionary:大|大]] "big" and [[wiktionary:豆|豆]] "bean"
+|-
+| [[wiktionary:椋|椋]] || Logogram for "grain storehouse"{{efn|Unrelated to the Chinese character {{lang|zh|椋}} identical in appearance and meaning "dogwood"}} || Compound ideogram of [[wiktionary:木|木]] "wood" and [[wiktionary:京|京]] "capital"
+|-
+| [[wiktionary:丨|丨]] || Phonogram for *ta{{efn|Unrelated to the very rare Chinese character {{lang|zh|丨}} meaning "to pierce"}} || Graphic simplification of [[wiktionary:如|如]], SAP for *ta
+|-
+| [[wiktionary:𢀳|𢀳]] || Phonogram for *-p || Graphic simplification of [[wiktionary:邑|邑]], PAP for *-p
+|}
+
+Korean Sinographic writing is traditionally classified into three major systems: ''[[Idu script|idu]]'', ''[[gugyeol]]'', and ''[[hyangchal]]''. The first, ''idu'', was used primarily for translation. In its completed form after the Old Korean period, it involved reordering Classical Chinese text into Korean syntax and adding Korean functional morphemes as necessary, with the result that "a highly Sinicized formal form of written Korean" was produced.{{sfn|Lee|Ramsey|2011|pp=53–56}}{{sfn|Handel|2019|pp=110–113}} The ''gugyeol'' system was created to aid the comprehension of Classical Chinese texts by providing Korean glosses.{{sfn|Handel|2019|pp=82–87}} It is divided into pre-thirteenth century interpretive ''gugyeol'', where the glosses provide enough information to read the Chinese text in the Korean vernacular, and later consecutive ''gugyeol'', which is insufficient for a full translation.{{sfn|Nam|2012b|p=46}} Finally, ''hyangchal'' refers to the system used to write purely Old Korean texts without a Classical Chinese reference.{{sfn|Lee|Ramsey|2011|p=57}} However, Lee Ki-Moon and S. Robert Ramsey note that in the Old Korean period, ''idu'' and ''hyangchal'' were "different in intent" but involved the "same transcription strategies".{{sfn|Lee|Ramsey|2011|p=57}} Suh Jong-hak's 2011 review of the Korean scholarship also suggests that most modern Korean linguists consider the three to involve the "same concepts" and the main differences between them to be purpose rather than any structural difference.<ref>"거의 대부분의 학자가 吏讀와 鄕札(口訣까지도)을 같은 개념으로 생각하고 있었다." (Almost all scholars were considering ''idu'' and ''hyangchal'' (even ''gugyeol'') to be the same concept.) {{harvnb|Suh|2011|pp=50–52}}</ref>
+
+== Phonology ==
+
+The phonological system of Old Korean cannot be established "with any certainty",{{sfn|Lee|Ramsey|2011|p=63}} and its study relies largely on tracing back elements of Middle Korean (MK) phonology.{{sfn|Nam|2012b|pp=56–57}}
+
+=== Prosody ===
+
+Fifteenth-century Middle Korean was a [[tone (linguistics)|tonal]] or [[pitch accent]] language whose orthography distinguished between three tones: high, rising, and low.{{sfn|Handel|2019|p=73}} The rising tone is analyzed as a low tone followed by a high tone within a [[mora (linguistics)|bimoraic]] syllable.{{sfn|Lee|Ramsey|2011|pp=163–165}}
+
+Middle Chinese was also a tonal language, with [[Four tones (Middle Chinese)|four tones]]: level, rising, departing, and entering. The tones of fifteenth-century Sino-Korean partially correspond to Middle Chinese ones. Chinese syllables with level tone have low tone in Middle Korean; those with rising or departing tones, rising tone; and those with entering tone, high tone. These correspondences suggest that Old Korean had some form of [[prosody (linguistics)|suprasegmentals]] consistent with those of Middle Chinese, perhaps a tonal system similar to that of Middle Korean.{{sfn|Whitman|2015|pp=432–433}} Phonetic glosses in Silla Buddhist texts show that as early as the eighth century, Sino-Korean involved three tonal categories and failed to distinguish rising and departing tones.{{sfn|Kwon|2014|p=152–155}}
+
+On the other hand, linguists such as Lee Ki-Moon and S. Roberts Ramsey argue that Old Korean originally had a simpler prosody than Middle Korean, and that influence from Chinese tones was among the reasons for Korean tonogenesis.{{sfn|Lee|Ramsey|2011|pp=168–169}} The hypothesis that Old Korean originally lacked phonemic tone is supported by the fact that most Middle Korean nouns conform to a tonal pattern,{{sfn|Lee|Ramsey|2011|pp=168–169}} the tendency for ancient Korean scribes to transcribe Old Korean proper nouns with Chinese level-tone characters,{{sfn|Kwon|2016|p=27}} and the accent marks on Korean proper nouns given by the Japanese history ''Nihon Shoki'', which suggest that ancient Koreans distinguished only the entering tone among the four Chinese tones.{{sfn|Kwon|2005|pp=340–342}}
+
+=== Syllable structure ===
+
+Middle Korean had a complex [[syllable structure]] that allowed clusters of up to three consonants in initial{{sfn|Lee|Ramsey|2011|pp=131–135}} and two consonants in terminal position,{{sfn|Lee|Ramsey|2011|p=155}} as well as vowel triphthongs.{{sfn|Lee|Ramsey|2011|p=161}} But many syllables with complex structures arose from the merger of multiple syllables, as seen below.
+
+{| class="wikitable"
+|-
+! Attestation and source language !! English !! Pre-Middle Korean form !! Reconstruction !! Fifteenth-century form{{efn|name=fn1}}
+|-
+| rowspan="2' | ''Hyangga'' texts{{sfn|Nam|2012b|p=63}} ||  old times || {{lang|oko|舊理}} || *niäri || {{lang|okm|녜}} ''nyey''
+|-
+| body || {{lang|oko|身萬}} || *muma || {{lang|okm|몸}} ''mwom''
+|-
+| Korean transcription of Early Middle Korean{{sfn|Lee|Ramsey|2011|p=89}} || arbor [[monkshood]] || {{lang|okm|五得浮得}} || *wotwokputuk || {{lang|okm|오독ᄠᅩ기}} ''wotwokptwoki''
+|-
+| rowspan="2' | [[Song dynasty|Song]] transcription of Early Middle Korean{{sfn|Vovin|2010|p=164}} || earth || {{lang|okm|轄希}} || *holki || {{lang|okm|ᄒᆞᆰ}} ''holk''
+|-
+| day || {{lang|okm|捻宰}} || *nacay || {{lang|okm|낮}} ''nac''
+|-
+| rowspan="3" | Japanese and Korean transcription of [[Baekje language|Baekje]]{{sfn|Bentley|2000}} || front || {{lang|pkc|アリヒシ}} || *arIpIsI || {{lang|okm|앒}} ''alp''
+|-
+| stone || {{lang|pkc|珍惡}} || *tərak || {{lang|okm|돓}} ''tolh''
+|-
+| belt || {{lang|pkc|シトロ}} || *sItOrO || {{lang|okm|ᄯᅴ}} ''stuy''
+|}
+
+Middle Korean [[closed syllable]]s with bimoraic "rising tone" reflect an originally bisyllabic CVCV form in which the final vowel was reduced,{{sfn|Lee S.|2017|p=363}} and some linguists propose that Old Korean or its precursor originally had a CV syllable structure like that of Japanese, with all clusters and coda consonants forming due to vowel reduction later on.{{sfn|Handel|2019|p=74}} However, there is strong evidence for the existence of coda consonants in even the earliest attestations of Korean, especially in ''mareum cheomgi'' orthography.{{sfn|Lee S.|2017|pp=364–384}}
+
+On the other hand, Middle Korean consonant clusters are believed not to have existed in Old Korean and to have formed after the twelfth century with the loss of intervening vowels.{{sfn|Lee|Ramsey|2011|p=89}} Old Korean thus had a simpler syllable structure than Middle Korean.
+
+=== Consonants ===
+
+The consonant inventory of fifteenth-century Middle Korean is given here to help readers understand the following sections on Old Korean consonants. These are not the consonants of ''Old'' Korean, but of its fifteenth-century descendant.
+
+<center>
+{| class="wikitable"
+|+Middle Korean consonant phonemes{{sfn|Lee|Ramsey|2011|pp=128–153}}
+! colspan="2" |
+! [[Bilabial consonant|Bilabial]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal stop|Nasal]]
+| {{IPA|m}} {{lang|okm|ㅁ}}
+| colspan="2" | {{IPA|n}} {{lang|okm|ㄴ}}
+| {{IPA|ŋ}} {{lang|okm|ㆁ}}
+|
+|-
+! rowspan="2" | [[stop consonant|Stop]] and [[Affricate consonant|affricate]]{{efn|The consonant clusters {{IPA|/sk/}}, {{IPA|/sp/}}, and {{IPA|/st/}} also had [[allophone|allophonic]] values {{IPA|[k͈]}}, {{IPA|[p͈]}}, and {{IPA|[t͈]}}.{{sfn|Lee|Ramsey|2011|p=128}}}}
+! <small>plain</small>
+| {{IPA|p}} {{lang|okm|ㅂ}}
+| {{IPA|t}} {{lang|okm|ㄷ}}
+| {{IPA|ts}} {{lang|okm|ㅈ}}
+| {{IPA|k}} {{lang|okm|ㄱ}}
+|
+|-
+! <small>aspirated</small>
+| {{IPA|pʰ}} {{lang|okm|ㅍ}}
+| {{IPA|tʰ}} {{lang|okm|ㅌ}}
+| {{IPA|tsʰ}} {{lang|okm|ㅊ}}
+| {{IPA|kʰ}} {{lang|okm|ㅋ}}
+|
+|-
+! colspan="2" | [[Voice (phonetics)|Voice]]d [[Fricative consonant|fricative]]
+| {{IPA|β}} {{lang|okm|ㅸ}}
+| colspan="2" | {{IPA|z}} {{lang|okm|ㅿ}}
+| {{IPA|ɣ}} {{lang|okm|ㅇ}}
+|
+|-
+! rowspan="2" | Voiceless fricative
+! <small>plain</small>
+|
+| colspan="2" | {{IPA|s}} {{lang|okm|ㅅ}}
+|
+|{{IPA|h}} {{lang|okm|ㅎ}}
+|-
+! <small>reinforced</small>
+|
+| colspan="2" | {{IPA|s͈}} {{lang|okm|ㅆ}}
+|
+|{{IPA|h͈}} {{lang|okm|ㆅ}}{{efn|{{IPA|/h͈/}} only occurred in a single verb root, ''hhye-'' "to pull".{{sfn|Lee|Ramsey|2011|p=130}}}}
+|-
+! colspan="2" | [[Liquid consonant|Liquid]]
+|
+| colspan="2" | {{IPA|l~ɾ}} {{lang|okm|ㄹ}}
+|
+|
+|}
+</center>
+
+Three of the nineteen Middle Korean consonants could not occur in word-initial position: {{IPA|/ŋ/}}, {{IPA|/β/}}, and {{IPA|/ɣ/}}.<ref>{{harvnb|Lee|Ramsey|2011|pp=143 ({{IPA|/β/}}), 146 ({{IPA|/ɣ/}}), 150 ({{IPA|/ŋ/}})}}</ref> Only nine consonants were permitted in the syllable coda. Aspiration was lost in coda position; coda {{IPA|/ts/}} merged with {{IPA|/s/}};{{sfn|Lee|Ramsey|2011|pp=153–154}} and {{IPA|/β/}}, {{IPA|/ɣ/}}, {{IPA|/h/}}, and the reinforced consonants could not occur as the coda.<ref>{{harvnb|Lee|Ramsey|2011|pp=129–130 (reinforced consonants), 143 ({{IPA|/β/}}), 146 ({{IPA|/ɣ/}})}}</ref> Coda {{IPA|/z/}} was preserved only word-internally and when followed by another voiced fricative; otherwise it merged with {{IPA|/s/}}.{{sfn|Lee|Ramsey|2011|pp=153–154}}
+
+==== Nasals ====
+
+Sino-Korean evidence suggests that there were no major differences between Old Korean and Middle Korean nasals.{{sfn|Wei|2017|pp=224–226}}
+
+Middle Chinese onset {{IPA|*ŋ}} is reflected in Sino-Korean as a null initial, while both Chinese and Korean transcriptions of Old Korean terms systematically avoid characters with onset {{IPA|*ŋ}}. Middle Korean [[phonotactics|phonotactic]] restrictions on {{IPA|/ŋ/}} thus seem to have held true for Old Korean as well.{{sfn|Wei|2017|pp=74–75}}
+
+The ''Samguk Sagi'' sometimes alternates between nasal-initial and liquid-initial characters in transcribing the same syllable of the same proper noun. This suggests that Old Korean may have had a [[sandhi]] rule in which nasals could become liquids, or vice versa, under certain circumstances.{{sfn|Miyake|2000|pp=8–9}}
+
+==== Aspirate consonants ====
+
+The Middle Korean series of [[aspiration (linguistics)|aspirated]] stops and affricates developed from mergers of consonant clusters involving /h/ or a [[velar consonant|velar]] [[obstruent]], which in turn had formed from the loss of intervening vowels.{{sfn|Ramsey|1991|pp=230–231}} To what extent this process had occurred in the Old Korean period is still debated.
+
+Middle Chinese had a phonemic distinction between aspirated and unaspirated stops. This is reflected somewhat irregularly in Sino-Korean.
+
+<center>
+{| class="wikitable sortable"
+|+Korean reflexes of Chinese aspiration{{sfn|Qian|2018|pp=62–63, 78, 88, 94}}
+|-
+! class=unsortable| Middle Chinese<br>phoneme !! class=unsortable| Middle Sino-Korean reflex !! class=unsortable| Frequency of reflexes !! Percentage
+|-
+| rowspan="3" style="background: #ccc;" | <center>'''{{IPA|*kʰ}}'''</center> || style="background: #ccc;" | '''{{IPA|/k/}}''' || style="background: #ccc;" | '''164''' || style="background: #ccc;" | '''88.6%'''
+|-
+| {{IPA|/kʰ/}} || 1 || 0.5%
+|-
+| Other || 20 || 10.8%
+|-
+| rowspan="2" style="background: #ccc;" | <center>'''{{IPA|*pʰ}}'''</center> || style="background: #ccc;" | '''{{IPA|/pʰ/}}''' || style="background: #ccc;" | '''34''' || style="background: #ccc;" | '''52.3%'''
+|-
+| {{IPA|/p/}} || 31 || 47.7%
+|-
+| rowspan="2" style="background: #ccc;" | <center>'''{{IPA|*tʰ}}'''</center> || style="background: #ccc;" | '''{{IPA|/tʰ/}}''' || style="background: #ccc;" | '''70''' || style="background: #ccc;" | '''73.6%'''
+|-
+| {{IPA|/t/}} || 25 || 26.4%
+|-
+| rowspan="3" style="background: #ccc;" | <center>'''{{IPA|*tsʰ}}'''</center> || style="background: #ccc;" | '''{{IPA|/tsʰ/}}''' || style="background: #ccc;" | '''81''' || style="background: #ccc;" | '''76.4%'''
+|-
+| {{IPA|/ts/}} || 23 || 21.7%
+|-
+| Other || 2 || 1.9%
+|}
+</center>
+
+Based on this variable reflection of Middle Chinese aspirates, Korean is thought to have developed the dental aspirates {{IPA|*tsʰ}} and {{IPA|*tʰ}} first, followed by {{IPA|*pʰ}} and finally {{IPA|*kʰ}}.{{sfn|Lee|Ramsey|2011|p=65}} {{IPA|*kʰ}} is often believed to have been absent when Sino-Korean was established.{{sfn|Lee|Ramsey|2011|p=65}}
+
+Silla scribes used the aspirate-initial characters only infrequently.{{sfn|Miyake|2000|pp=6–7}} When they did, the aspirates were often replaced with unaspirated equivalents. For instance, the 757 standardization of place names sometimes involved changing aspirated phonograms for unaspirated ones, or vice versa.{{sfn|Eom|1994|pp=409–410}} This suggests that aspiration of any sort may have been absent in Old Korean,{{sfn|Miyake|2000|pp=6–7}} or that aspirate stops may have existed in [[free variation]] with unaspirated ones but were not distinct phonemes.{{sfn|Eom|1994|pp=409–410}} On the other hand, Ki-Moon Lee and S. Roberts Ramsey argue that Silla orthography confirms the existence in Old Korean of at least the dental aspirates as phonemes.{{sfn|Lee|Ramsey|2011|p=65}}
+
+Meanwhile, Nam Pung-hyun believes that Old Korean had {{IPA|*kʰ}} and {{IPA|*tsʰ}} but may have lacked {{IPA|*pʰ}} and {{IPA|*tʰ}}, while noting that the [[functional load]] of the aspirates was "extremely low".{{sfn|Nam|2012b|pp=56–57}}
+
+==== Origin of MK /h/ ====
+
+Some characters with initial {{IPA|*k}} in Middle Chinese are reflected in Sino-Korean as {{IPA|/h/}}. Conversely, some instances of the Middle Chinese initial {{IPA|*ɣ~*ɦ}}, usually loaned as Sino-Korean {{IPA|/h/}}, are found as Sino-Korean {{IPA|/k/}}. This may be because Koreans mistakenly assigned the same initial consonant to characters which do share a phonetic [[Radical (Chinese characters)|radical]] but in practice had different Middle Chinese initials.{{sfn|Qian|2018|pp=63–64}} On the other hand, this may reflect a [[velar consonants|velar]] value for the Old Korean ancestor of Middle Korean {{IPA|/h/}}. Korean scholars often propose an Old Korean [[voiceless velar fricative|velar fricative]] {{IPA|*x}} as ancestral to Middle Korean {{IPA|/h/}}.{{sfn|Park D.|1995|p=244}}{{sfn|Park C.|2002|p=181}}
+
+Some orthographic alternations suggest that Silla writers did not distinguish between Middle Chinese initial {{IPA|*k}} and initial {{IPA|*ɣ~*ɦ}}, although linguist Marc Miyake is skeptical of the evidence,<ref>{{harnvb|Miyake|2000|p=11}}</ref> while some Middle Korean [[allomorphs]] alternate between {{IPA|/h/}} and a velar. Linguist Wei Guofeng suggests that the Old Korean phonemes {{IPA|*k}} and {{IPA|*h}} had overlapping distributions, with allophones such as {{IPA|*x}} being shared by both phonemes.{{sfn|Wei|2017|pp=241–251}} Alexander Vovin also argues via [[internal reconstruction]] that intervocalic {{IPA|*k}} in earlier Korean [[lenition|lenited]] to Middle Korean {{IPA|/h/}}.{{sfn|Vovin|2010|p=29}}
+
+==== Origin of MK lenited phonemes ====
+
+==== Sibilants ====
+
+In some pre-Unified Silla transcriptions of Korean proper nouns, Chinese [[affricate consonant|affricate]] and [[fricative consonant|fricative]] [[sibilant]]s appear interchangeable. This has been interpreted as some stage of Old Korean having lacked the Middle Korean distinction between {{IPA|/ts/}} and {{IPA|/s/}}. The ''hyangga'' poems, however, differentiate affricates and fricatives consistently, while the Chinese distinction between the two is faithfully preserved in Sino-Korean phonology. Koreans thus clearly distinguished {{IPA|/ts/}} from {{IPA|/s/}} by the eighth century, and Marc Miyake casts doubt on the notion that Korean ever had a stage where affricates and fricatives were not distinct.{{sfn|Miyake|2000|pp=9–11}}
+
+==== Liquids ====
+
+Middle Korean had only one [[liquid (linguistics)|liquid]] phoneme, which varied between {{IPA|[l]}} and {{IPA|[ɾ]}}. Old Korean, however, had two separate liquid phonemes. In Old Korean orthography, this first liquid phoneme was represented by the PAP {{lang|oko|尸}}, whose Old Chinese value was *l̥[ə]j, and the second phoneme by the PAP {{lang|oko|乙}}, whose Old Chinese value was *qrət.{{sfn|Baxter|Sagart|2014}}{{sfn|Lee|Ramsey|2011|pp=66–67}} Besides this orthographic variation, the distinction between the liquid phonemes is also suggested by the tonal behavior of Middle Korean verb stems ending in {{IPA|/l/}}.{{sfn|Ramsey|2004|pp=342–347}}
+
+According to Alexander Vovin, Lee Ki-Moon asserts that {{lang|oko|尸}} represented {{IPA|/r/}} and that {{lang|oko|乙}} represented {{IPA|/l/}}. Vovin considers this claim "unacceptable" and "counterintuitive", especially given the reconstructed Old Chinese pronunciations of both characters, and suggests instead that {{lang|oko|尸}} represented {{IPA|/l/}} while {{lang|oko|乙}} stood for a [[rhotic consonant|rhotic]].{{sfn|Vovin|2013|p=200}} Ramsey and Nam Pung-hyun both agree with Vovin's hypothesis.{{sfn|Ramsey|2004|pp=342–347}}{{sfn|Nam|2012b|p=57}}
+
+==== Coda consonants ====
+
+{{Expand section|date=May 2020}}
+
+=== Vowels ===
+
+{| class="wikitable"
+|+Middle Korean vowel phonemes
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPAlink|iː}}
+| {{IPAlink|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPAlink|e̞}}
+| {{IPAlink|o̞}}
+|-
+! [[Open vowel|Open]]
+| {{IPAlink|æ}}
+| {{IPAlink|ɒː}}
+|}
+
+== Grammar ==
+
+{{Expand section|date=May 2020}}
+
+The [[Marker (linguistics)|case markers]] in Old Korean are the following:
+:{| class="wikitable"
+|-
+|[[Nominative case]] || {{lang|ko-Hani|伊/是}} ({{IPA|-i}})
+|-
+|[[Genitive case]] || {{lang|ko-Hani|衣/矣}} ({{IPA|-ʌj}}), {{lang|ko-Hani|叱}} ({{IPA|-s}})
+|-
+|[[Accusative case]] || {{lang|ko-Hani|乙}} ({{IPA|-l}})
+|-
+|[[Dative case]] || {{lang|ko-Hani|中}}, {{lang|ko-Hani|良中}} ({{IPA|-aj/-ej}}, {{IPA|-hʌj/-ahʌj}} in [[Idu script]])
+|-
+|[[Instrumental case]] || {{lang|ko-Hani|留}} ({{IPA|-ro ~ -ʌro}})
+|-
+|[[Comitative case]] || {{lang|ko-Hani|果}} ({{IPA|-wa/-ɡwa}})
+|-
+|[[Vocative case]] || {{lang|ko-Hani|良}}, {{lang|ko-Hani|也}} ({{IPA|-a}}, {{IPA|-ja}}), {{lang|ko-Hani|下}} ({{IPA|-ha}})
+|}
+Other affixes are:
+:{| class="wikitable"
+|-
+|[[Topic marker]] || {{lang|ko-Hani|隱}} ({{IPA|-n ~ -nʌn ~ -ʌn}})
+|-
+|Additive || {{lang|ko-Hani|置}} ({{IPA|-do}})
+|-
+|Honorific || {{lang|ko-Hani|賜}} ({{IPA|-si-}})
+|-
+|Humble || {{lang|ko-Hani|白}} ({{IPA|-sʌv-}})
+|}
+The pronunciations written in parenthesis are from [[Middle Korean]] (中世國語, 중세국어). The letter ʌ is used to represent the pronunciation of "{{lang|ko|ㆍ}}" ([[:m:ko:ㆍ|arae-a]]), which is obsolete in Modern Korean.
+
+== Vocabulary ==
+
+=== Numerals ===
+
+Three Old Korean numerals are attested in the ''hyangga'' texts: those for one, two, and thousand. All three are found in the ''[[Docheonsugwaneum-ga]]'', while the word for one is also attested identically in the ''[[Jemangmae-ga]]''.{{sfn|Lee|Ramsey|2011|pp=73–74}} The ''[[Cheoyong-ga]]'' uses a somewhat different form for "two",{{sfn|Lee|Ramsey|2011|pp=73–74}} though it is unlikely to be authentically Silla.{{sfn|Nam|2012a|pp=8}} The ''mokgan'' data, discussed in Lee Seungjae 2017, suggests that multiples of ten may have been referred to with Chinese loanwords but that indigenous terms were used for single-digit numbers.{{sfn|Lee S.|2017|pp=188–189}} Lee's work on ''mokgan'' yields Silla words for four of the latter: one, three, four, and five.{{sfn|Lee S.|2017|pp=407–410, 453–454, 503–505}} The orthography of Old Korean numerals, in both ''hyangga'' and the ''mokgan'' texts, is marked by the ''hunju eumjong'' principle typical of Silla.{{sfn|Lee S.|2017|pp=285–286}}
+
+The Old Korean single-digit numerals are given with fifteenth-century and Modern Korean equivalents below. The Modern Korean terms used to refer to the ages of cattle, which Lee Seungjae considers more closely related to Old Korean forms, are also provided.{{sfn|Lee S.|2017|pp=88–89}}
+
+{| class="wikitable"
+|-
+! English !! Old Korean{{sfn|Lee|Ramsey|2011|pp=73–74}}{{sfn|Lee S.|2017|pp=407–410, 453–454, 503–505}} !! colspan="2" | Reconstruction{{sfn|Lee S.|2017|pp=407–410, 453–454, 503–505}} !! Middle Korean (15th c.){{sfn|Lee S.|2011|pp=175}}{{efn|name=fn1}} !! Modern Korean{{efn|name=fn1}} || Modern Korean for ages of cattle{{sfn|Lee S.|2017|pp=88–89}}{{efn|name=fn1}}
+|-
+| rowspan="2" | One || {{lang|oko|一等}} (''hyangga'' data)|| colspan="2" | *hədən || rowspan="2" | {{lang|okm|ᄒᆞ낳}} ''hʌnáh'' || rowspan="2" | {{lang|ko|하나}} ''hana'' || rowspan="2" | {{lang|ko|하릅}} ''halup''
+|-
+| <span style="font-family:Gentium Plus, Charis SIL, Doulos SIL, serif">{{lang|oko|一{{PUA|&#xf705;}}}}</span>  (''mokgan'' data) || *hədəp
+|-
+| rowspan="2" | Two || {{lang|oko|二尸}} (''Docheonsugwaneum-ga'') || rowspan="2" | *tubər || *twuɣul{{sfn|Vovin|2013|pp=201–202}} || rowspan="2" | {{lang|okm|둟}} ''tǔlh'' || rowspan="2" | {{lang|ko|둘}} ''tul'' || rowspan="2" | {{lang|ko|이듭}} ''itup''
+|-
+| {{lang|oko|二肹}} (''Cheoyong-ga'') || *twuɣur{{sfn|Vovin|2013|pp=201–202}}
+|-
+| Three || | <span style="font-family:Gentium Plus, Charis SIL, Doulos SIL, serif">{{lang|oko|三{{PUA|&#xf705;}}}}</span> || colspan="2" | *sadəp || {{lang|okm|셓}} ''sə̌jh'' || {{lang|ko|셋}} ''set'' || {{lang|ko|사릅}} ''salup''
+|-
+| Four || {{lang|oko|四刂}} || colspan="2" | *neri || {{lang|okm|넿}} ''nə̌jh'' || {{lang|ko|넷}} ''net'' || {{lang|ko|나릅}} ''nalup''
+|-
+| rowspan="2" | Five || {{lang|oko|丨彡}}|| colspan="2" | *tasəm || rowspan="2" | {{lang|okm|다ᄉᆞᆺ}} ''tasʌ́s'' || rowspan="2" | {{lang|ko|다섯}} ''tasʌt'' || rowspan="2" | {{lang|ko|다습}} ''tasup''
+|-
+| <span style="font-family:Gentium Plus, Charis SIL, Doulos SIL, serif">{{lang|oko|丨沙{{PUA|&#xf705;}}}}</span> || colspan="2" | *tasap
+|}
+
+== Relationship to other languages ==
+
+{{Expand section|date=May 2020}}
+
+Some linguists suggest that Old Korean may form part of the now discredited language-family proposal [[Altaic languages]], although this claim is controversial and not accepted by modern linguists.<ref>Kim (2004), p. 80.</ref> Another hypothesis says that Old Korean is related to the [[Japonic languages]],<ref>{{Cite web|url=http://www2.furman.edu/academics/asianstudies/meet-our-faculty/Pages/Alexander-Francis-Ratte.aspx|title=Alexander Francis-Ratte|website=www2.furman.edu|access-date=2019-03-26|archive-url=https://web.archive.org/web/20190326173749/http://www2.furman.edu/academics/asianstudies/meet-our-faculty/Pages/Alexander-Francis-Ratte.aspx|archive-date=2019-03-26|url-status=dead}}</ref> but this claim is generally not accepted, either.<ref>{{cite book |last1=Vovin |first1=Alexander |title=Oxford Research Encyclopedia of Linguistics |chapter=Origins of the Japanese Language |website=Oxford Research Encyclopedia of Linguistics |publisher=Oxford University Press |doi=10.1093/acrefore/9780199384655.013.277 |doi-access=free |date=26 September 2017|isbn=978-0-19-938465-5 }}</ref> A lesser known and obsolete hypothesis proposes a relationship to the [[Dravidian languages]] (see [[Dravido-Korean languages|Dravido-Korean]]).<ref>Kim, Chin-Wu (1974). ''The Making of the Korean Language''. Center of Korean Studies, University of Hawai'i.</ref>
+
+== Sample text ==
+
+The ''[[Heonhwa-ga]]'' is a four-line ''hyangga'' from the early eighth century, preserved in the ''Samguk yusa''. The ''Samguk yusa'' narrative recounts that Lady Suro, the beautiful wife of a local magistrate, once came upon a cliff a thousand ''[[zhàng|zhang]]'' high topped by [[azalea]] blooms. Lady Suro asked if any of her entourage would pick her some of the azaleas, but none were willing. Upon hearing her words, however, an old man who had been leading a cow beside the cliff presented the flowers to her while singing the ''Heonhwa-ga''.{{sfn|O'Rourke|2006|p=15}}{{sfn|Nam|2010|pp=63–64}} Nam Pung-hyun considers the song "of relatively easy interpretation" due to its short length, the context provided, and its consistent ''hunju eumjong'' orthography.{{sfn|Nam|2010|pp=63–64}}
+
+This article's reconstruction of the ''Heonhwa-ga'' follows the work of Nam 2010,{{sfn|Nam|2010}} partly translated into English by Nicolas Tranter in Nam 2012b.{{sfn|Nam|2012b|p=45}} Nam's decipherment reproduces the grammar of Old Korean, but with Middle Korean values for Old Korean morphemes.  Elements in bold are phonograms.{{sfn|Nam|2012b|p=45}}{{efn|The romanization given is in a variant of [[Yale Romanization of Korean|Yale romanization]], the standard system of Korean linguistics, but with <o> and <ó> instead of conventional <wo> and <o> for Middle Korean vowels {{IPA|/[[Close-mid back rounded vowel|o]]/}} and {{IPA|/[[Open-mid back unrounded vowel|ʌ]]/}}.}}
+
+{| summary="Heonhwa-ga"
+! style="text-align:left;" width="35%" | '''Old Korean original'''
+! style="text-align:left;" width="41%" | '''Modern [[Sino-Korean vocabulary|Sino-Korean]] reading'''
+! style="text-align:left;" width="30%" | '''Reconstruction (Nam 2010)'''
+|- valign=top
+|{{lang|oko|
+紫'''布'''岩'''乎'''邊'''希'''
+
+執'''音乎'''手母牛放'''敎遣'''
+
+吾'''肸'''不'''喩'''慚'''肸伊賜等'''
+
+花'''肸'''折'''叱可'''獻'''乎理音如'''
+}}
+
+|
+''ca '''pho''' am '''ho''' pyen '''huy'''''
+
+''cip '''um ho''' su mo wu pang '''kyo kyen'''''
+
+''o '''hil''' pwul '''ywu''' cham '''hil i sa tung'''''
+
+''hoa '''hil''' cel '''cil ka''' hen '''ho li um ye'''''
+
+|
+ᄃᆞᆯ뵈 바희 ᄀᆞᆺᄋᆡ
+
+잡ᄋᆞᆷ 혼 손 암쇼 놓이시고
+
+나ᄅᆞᆯ 안디 븟그리ᄉᆞᆫ ᄃᆞᆫ
+
+곶ᄋᆞᆯ 것거 받오림ㅅ다
+|}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+NMR: nominalizer
+INTENT: intentional mood
+ESSEN: essentiality
+</div><section end="list-of-glossing-abbreviations"/>
+{| summary="Heonhwa-ga Analysis"
+! style="text-align:left;" width="29%" | '''Romanization'''
+! style="text-align:left;" width="33%" | '''[[Interlinear gloss]]'''
+! style="text-align:left;" width="39%" | '''Translation (Nam 2012b)'''
+|- valign=top
+|
+''tól'''poy''' pah'''uy''' kós-'''óy'''''
+
+''cap-'''óm''' [ho]-'''n''' son amsyo noh-'''kisi-ko'''''
+
+''na-'''lól''' an'''ti''' pusk'''uli-só-n tó-n'''''
+
+''koc-'''ól''' ke'''sk-e''' pat-'''o-li-ms-ta'''''
+
+|
+{{interlinear|purple rock edge-LOC}}
+
+{{interlinear|hold-DUR [do]-NMR hand cow-ACC let.go-HON-CONJ}}
+
+{{interlinear| I-ACC NEG be.ashamed-HON-NMR fact-TOP}}
+
+{{interlinear| flower-ACC pick-INF give-INTENT-PROSP-ESSEN-DEC}}
+
+|
+Beside the purple rock [of azaleas]
+
+You made me let loose the cows [because of your beauty]
+
+And if you do not feel ashamed of me
+
+I shall pick a flower and give it to you.{{efn|In Nam 2010's analysis, the Modern Korean translation of the ''Heonhwa-ga'' is given as "진달래꽃(또는 철쭉꽃)이 흐드러지게 피어 붉게 뒤덮은 바위 가에 / (부인의 아름다움이 나로 하여금) 잡고 있던 손이 암소를 놓게 하시고 / 나를 안 부끄러워 하시는 것, 바로 그것이라면 / 꽃을 꺾어 반드시 바치겠습니다."{{sfn|Nam|2010|pp=74–75}}<br> A more literal translation than Nam 2012 of the Korean is "At the edge of the rock where azaleas have bloomed splendidly and mantled with red / [The lady's beauty] makes the hand that was holding let loose the cow / Not being ashamed of me, if indeed it is such / I will pick a flower and present it without fail."}}
+
+|}
+
+== Notes ==
+
+{{notelist}}
+
+== References ==
+
+=== Citations ===
+
+{{reflist|3}}
+
+=== Bibliography ===
+{{refbegin|2}}
+* {{cite web|last1=Baxter|first1=William H.|last2=Sagart|first2=Laurent|url=http://ocbaxtersagart.lsait.lsa.umich.edu/BaxterSagartOCbyMandarinMC2014-09-20.pdf |title=Baxter-Sagart Old Chinese reconstruction, version 1.1 |date=September 20, 2014 |website=The Baxter-Sagart reconstruction of Old Chinese, University of Michigan |access-date=August 23, 2019 }}
+* {{cite book|last=Beckwith |first=Christopher I.|title=Koguryo, the Language of Japan's Continental Relatives|url=https://books.google.com/books?id=FgaUF46o1UQC|year=2004|publisher=BRILL|isbn=978-90-04-13949-7 }}
+* {{cite journal |last=Bentley |first=John R. |date=June 2000 |title=New Look at Paekche and Korean: Data from ''Nihon Shoki'' |url=https://www.academia.edu/37594561 |journal=Language Research |volume=36 |issue=2 |pages=1–22 |access-date=August 19, 2019 }}
+* {{cite journal |last=Cho |first=Chae-Hyung |date=March 2009 |title=古代國語時期의 借字表記 '良'의 讀音 考察 (A Study for the sound of the reception of Chinese Character in the Ancient Korean period) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01154481 |journal=어문론집(The Journal of Language & Literature) |publisher=중앙어문학회 (The Society of Chung-Ang Language & Literature) |volume=40 |pages=101–123 |access-date=August 23, 2019 }}
+* {{cite journal |last=Choe |first=Yeon-shik |date=December 2016 |title=新羅의 變格漢文 (The Abnormal Chinese Expressions of Shilla Dynasty) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07097585 |journal=목간과 문자(Wooden Documents and Inscriptions Studies) |publisher=한국목간학회 (The Korea Society for The Study of Wooden Documents) |volume=17 |pages=39–59 |access-date=September 3, 2019 }}
+* {{cite book |last=Eom |first=Ik-sang |editor-last=Kim-Renaud |editor-first=Young-Key |title=Theoretical Issues in Korean Linguistics |url=https://books.google.com/books?id=pXEyw_G10zYC |publisher=Center for the Study of Language |date=1994 |pages=405–418 |chapter=Aspiration and Voicing in Old Sino-Korean Obstruents |isbn=978-1-881526-51-3 }}
+* {{cite book|last=Handel |first=Zev |date=2019 |title=Sinography: The Borrowing and Adaptation of the Chinese Script |url=https://books.google.com/books?id=wTCbDwAAQBAJ |publisher=BRILL |isbn=978-90-04-35222-3}}
+* {{cite journal |last=Hwang |first=Seon-yeop |date=June 2002 |title=향가에 나타나는 '遣'과 '古'에 대하여 (A Study on "gyeon" and "go" in ''Hyangga'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE00931824 |journal=국어학 (Journal of Korea Linguistics) |publisher=국어학회 (The Society of Korea Linguistics) |volume=39 |pages=3–25 |access-date=August 23, 2019 }}
+* {{cite journal |last=Hwang |first=Seon-yeop |date=August 2015 |title=향가와 배경 설화의 관련성 -怨歌를 중심으로- (The Relevance of Hyangga and Background Story Focusing on the ''Wonga'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE0651551 |journal=서강인문논총 |publisher=서강대학교 인문과학연구소 |volume=43 |pages=41–85 |access-date=August 24, 2019 }}
+* {{cite book|last=Hwang |first=Seon-yeop |editor=Park Young-goog |title=각필구결 초조대장경 『유가사지론』 권66 |chapter=국어사 연구와 석독구결 |publisher=National Hangeul Museum |location=Seoul |url=http://hangeul.go.kr/bbs/publicBbsView.do?bbs_id=4&bbs_no=58&curr_menu_cd=0105050000 |date=2018 |pages=12–28 |isbn=979-11-89438-12-8 }}
+* {{cite journal |last=Jang |first=Yoon-hee |date=February 2005 |title=고대국어 연결어미 '遣'과 그 변화 (A Study of Old Korean Conjunctive Ending "-遣" and Its Change) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01365594 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=14 |pages=123–146 |access-date=August 23, 2019 }}
+* {{cite journal |last=Jeon |first=Deog-jae |date=June 2012 |title=Materials and Trends in the Study of Ancient Korean Wooden Slips |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01880890 |journal=The Review of Korean Studies |publisher=한국학중앙연구원 (Academy of Korean Studies) |volume=15 |issue=1 |pages=167–197 |doi=10.25024/review.2012.15.1.005 |doi-access=free }}
+* {{cite journal |last=Jung |first=Hyun-sook |date=December 2015 |title=용도로 본 통일신라 목간의 서풍 (Calligraphic Style of the Wooden Tablets of the United Silla by Use) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06596687 |journal=Keimyung Korean Studies Journal |publisher=계명대학교 한국학연구원 |volume=61 |pages=37–84 |access-date=September 16, 2019 }}
+* {{cite journal |last=Kim |first=Chang-seok |date=June 2014 |title=Ancient Korean ''Mokkan'' (Wooden Slips): With a Special Focus on Their Features and Uses |url=https://www.researchgate.net/publication/279277783 |journal=Acta Koreana |volume=17 |issue=1 |pages=193–222 |doi=10.18399/acta.2014.17.1.008 |access-date=September 16, 2019 |ref={{harvid|Kim C.|2014}}|doi-access=free }}
+* {{cite journal |last=Kim |first=Ji-oh |date=February 2019 |title=고대국어 연결어미 연구의 현황과 과제 (The Present Conditions and Future Tasks of Old Korean Connective Suffix Research) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07614969 |journal=구결학회 학술대회 발표논문집 |publisher=구결학회 (Society of Kugyŏl) |volume=56 |pages=113–131 |access-date=August 22, 2019 |ref={{harvid|Kim J.|2019}}}}
+* {{cite book|last=Kim |first=Wan-jin |date=1980 |title=鄉歌解讀法硏究 |url=https://books.google.com/books?id=TTOFAAAAIAAJ |location=Seoul |publisher=Seoul National University Press |isbn=9788970960142 |ref={{harvid|Kim W.|1980}}}}
+* {{cite journal |last=Kim |first=Wan-jin |date=1985 |title=特異한 音讀字 및 訓讀字에 대한 硏究 (Study on Unusual Directly-Adopted Logograms and Semantically-Adaopted Logograms) |journal=동양학(Dongyang Hak) |publisher=단국대학교 동양학연구원 |volume=15 |pages=1–17 |ref={{harvid|Kim W.|1985}}}}
+* {{cite journal |last=Kim |first=Young-wook |date=February 2012 |title=古代國語의 處所格 '-良'에 對한 硏究 -八世紀의 金石文, 木簡, 角筆 資料를 中心으로 (On the Old Korean Locative Case Marker -a) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01809131 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=28 |pages=33–50 |access-date=August 23, 2019 |ref={{harvid|Kim Y. W.|2012}}}}
+* {{cite journal |last=Kim |first=Yupum |date=February 2012 |title=고대국어 문법 연구의 회고 (A Survey of the Studies on Ancient Korean Grammar) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06568891 |journal=한국어학 (Korean Linguistics) |publisher=한국어학회 (The Association For Korean Linguistics) |volume=55 |pages=41–64 |access-date=August 22, 2019 |ref={{harvid|Kim Y. P.|2012}}}}
+* {{cite journal |last=Kwon |first=In-han |date=2005 |title=암기본(岩崎本) 『일본서기』의 성점(聲點)에 대한 일고찰 - 한국계 고유명사 자료를 중심으로 (A Study on Tone Marks of the Iwasaki Manuscript of ''Nihon Shoki'' - Focusing on the Proper Nouns of Korean Origin) |url=http://www.riss.kr/link?id=A75419640 |journal=大東文化硏究 (Journal of Eastern Studies) |publisher=성균관대학교 대동문화연구원 |volume=52 |pages=317–345 |access-date=September 20, 2019 }}
+* {{cite journal |last=Kwon |first=In-han |date=August 2014 |title=東大寺圖書館藏 華嚴經의 각필로 본 신라한자음 (Silla Readings of Chinese Characters Seen From Stylus Marks on the ''Avatamsaka Sutra'' at the Tōdai-ji Library) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02503181 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=33 |pages=133–159 |access-date=September 17, 2019 }}
+* {{cite journal |last=Kwon |first=In-han |date=August 2016 |title=古代 韓國漢字音의 硏究(I) -최근 발굴된 角筆 聲點 資料를 중심으로- (A Study on the Old Sino-Korean - As Seen Through Recently Excavated Tone Mark Data of Unified Silla and Goryeo Dynasty -)|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07002194 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=37 |pages=5–38 |access-date=September 17, 2019 }}
+* {{cite book|last1=Lee|first1=Iksop|last2=Ramsey|first2=S. Robert|date=2000|title=The Korean Language |url=https://books.google.com/books?id=qcgI8AFhFgkC |location=Albany, New York |publisher=State University of New York Press |isbn=978-0-7914-9130-0 |ref={{harvid|Lee I.|Ramsey|2000}}}}
+* {{cite book|last1=Lee|first1=Ki-Moon|last2=Ramsey|first2=S. Robert|date=2011|title=A History of the Korean Language |url=https://books.google.com/books?id=2AmspKX3beoC |location=Cambridge, United Kingdom |publisher=Cambridge University Press |isbn=978-1-139-49448-9 }}
+* {{cite book |last=Lee |first=Peter H. |editor-last=Lee |editor-first=Peter H. |title=A History of Korean Literature |url=https://books.google.com/books?id=pfb2QHJtw54C |location=Cambridge, United Kingdom |publisher=Cambridge University Press |date=December 18, 2003 |pages=66–87 |chapter=Chapter 3: ''Hyangga'' |isbn=978-1-139-44086-8 |ref={{harvid|Lee P.|2003}}}}
+* {{cite journal |last=Lee |first=Seungjae |date=January 2015 |title=고대국어 2 |publisher=National Academy of Sciences, Republic of Korea |journal=학문연구의 동향과 쟁점 |volume=4 |pages=39–71 |ref={{harvid|Lee S.|2015}}}}
+* {{cite book|last=Lee |first=Seungjae |date=September 25, 2017 |title=木簡에 기록된 古代 韓國語 (The Old Korean Language Inscribed on Wooden Tablets) |url=https://books.google.com/books?id=RpBztAEACAAJ |location=Seoul |publisher=Ilchogak |isbn=978-89-337-0736-4|ref={{harvid|Lee S.|2017}}}}
+* {{cite journal |last=Lee |first=Yong |date=February 2015 |title=≪新羅村落文書≫'妻是子女子'의 해독에 관하여 (The Decipherment of Abstruse phrase in Idu) |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=34 |pages=65–81 |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE06339446 |ref={{harvid|Lee Y.|2015}}}}
+* {{cite journal|last=Lim |first=Kyounghwa |date=April 2008 |title=식민지기 일본인 연구자들의 향가 해독: 차용체(借用體)에서 국문으로 (Decipherment of ''Hyangga'' by Japanese Scholars in Colonial Korea : From Borrowed Script to the National Script) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE00996238 |journal=국어학 (Journal of Korea Linguistics) |publisher=국어학회 (The Society of Korea Linguistics) |volume=51 |pages=365–384 |access-date=August 24, 2019 }}
+* {{cite book|last=Martin |first=Samuel E. |date=1996 |title=Consonant Lenition in Korean and the Macro-Altaic Question |url=https://books.google.com/books?id=GmW6k8La7nkC |location=Honolulu, Hawaiʻi |publisher=University of Hawaiʻi Press |isbn=978-0-8248-1809-8}}
+* {{cite journal|last=Miller  |first=Roy Andrew|date=1979 |title=Old Korean and Altaic |journal=Ural-Altaische Jahrbücher |volume=51 |pages=1–54 }}
+* {{cite journal|last=Miller  |first=Roy Andrew|date=1987 |title=Chinese Script in Korea and Japan |journal=Asian & Pacific Quarterly |volume=19 |pages=1–18 }}
+* {{cite book |last=Miyake |first=Marc Hideo |editor1-last=Park |editor-first1=Byung-Soo |editor2-last=Yoon |editor-first2=James Hye Suk |title=Selected papers from the 11th International Conference on Korean Linguistics |location=Seoul |publisher=International Circle of Korean Linguistics|date=1998 |pages=346–355 |chapter=Hyangchal: A modern view of an ancient script |chapter-url=https://www.academia.edu/4154865 |isbn=978-89-7735-506-4 }}
+* {{cite conference |first=Miyake |last=Marc |title=Orthographic alternation evidence for the languages of the Three Kingdoms  |conference=Permanent International Altaistic Conference |pages=1–18 |date=2000 |location=Lanaken, Belgium |url=https://www.academia.edu/4154986|ref={{harvid|Miyake|2000}}}}
+* {{cite web|last=Nam|first=Pung-hyun |url=http://encykorea.aks.ac.kr/Contents/Item/E0044081 |title=이두(吏讀) |date=1995 |website=한국민족문화대백과사전 (Encyclopedia of Korean Culture) |access-date=September 2, 2019 }}
+* {{cite journal |last=Nam |first=Pung-hyun |date=August 2003 |title=古代國語의 時代 區分 (The Periodization of Old Korean) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01367409 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=11 |pages=1–22 |access-date=August 18, 2019 }}
+* {{cite journal |last=Nam |first=Pung-hyun |date=February 2010 |title=獻花歌의 解讀 (The Interpretation of the ''Heonhwa-ga'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01531452 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=24 |pages=63–75 |access-date=August 21, 2019 }}
+* {{cite journal |last=Nam |first=Pung-hyun |date=February 2012 |title=『三國遺事』의 鄕歌와 『均如傳』 鄕歌의 文法 比較 (A Grammatical Comparison of ''Samguk yusa'' Hyangga and ''Gunyeo jeon'' Hyangga) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01809130 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=28 |pages=5–32 |access-date=August 22, 2019 |ref={{harvid|Nam|2012a}}}}
+* {{cite book |last=Nam |first=Pung-hyun |editor-last=Tranter |editor-first=Nicolas |title=The Languages of Japan and Korea |url=https://books.google.com/books?id=I7PTXPq_nSAC |publisher=Routledge |date=May 17, 2012 |pages=41–73 |chapter=Chapter 3: Old Korean |isbn=978-0-415-46287-7 |ref={{harvid|Nam|2012b}}}}
+* {{cite journal |last=Nam |first=Pung-hyun |date=February 2013 |title=東大寺 所藏 新羅華嚴經寫經과 그 釋讀口訣에 대하여 (On the Silla Copy of the ''Avatamsaka Sutra'' at Tōdai-ji and its Interpretive Gugyeol) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02127034 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=30 |pages=53–79 |access-date=September 17, 2019 }}
+* {{cite journal |last=Nam |first=Pung-hyun |date=June 2018 |title=<兜率歌>와 <祭亡妹歌>의 새로운 解讀 (A New Interpretation of the ''Dosol-ga'' and ''Jemangmae-ga'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07470698 |journal=진단학보 (The Chin-Tan Hakpo) |publisher=진단학회 (The Chin-Tan Society) |volume=130 |pages=1–26 |doi=10.31735/CTH.2018.06.130.1 |s2cid=189625486 |access-date=August 23, 2019 }}
+* {{cite journal |last=Nam |first=Pung-hyun |date=February 2019 |title=안민가(安民歌)의 새로운 해독 (A New Interpretation of the ''Anmin-ga'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07626282 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=42 |pages=33–49 |access-date=August 22, 2019 }}
+* {{cite web |url=http://multitree.org/codes/oko |title=Old Korean |author=<!--Not stated--> |date=March 11, 2016 |website=The LINGUIST List |access-date=August 19, 2019 |ref={{harvid|The LINGUIST List|2016}}}}
+* {{cite book|last=O'Rourke|first=Kevin |date=2006|title=The Book of Korean Poetry: Songs of Shilla and Koryŏ |url=https://books.google.com/books?id=6yWCAAAAIAAJ |location=Iowa City, Iowa |publisher=Iowa University Press|isbn=978-1-58729-510-2 }}
+* {{cite book|last=Park|first=Chang-won |date=2002 |title=고대국어 음운 (1) |url=https://books.google.com/books?id=tgMVAQAAMAAJ |location=Paju, Gyeonggido|publisher=Taehaksa|isbn=978-89-7626-764-1 |ref={{harvid|Park C.|2002}}}}
+* {{cite book|last=Park|first=Dong-Gyu |date=1995 |title=고대국어 음운연구 I |url=https://books.google.com/books?id=suaiAAAACAAJ |location=Jeonju, Jeollabukdo|publisher=Jeonju University Press|isbn=978-89-85644-04-4 |ref={{harvid|Park D.|1995}}}}
+* {{cite journal|last=Park |first=Jae-Min |title=향가 해독 100년의 연구사 및 전망 -향찰 체계의 인식과 古語의 발굴 정도를 중심으로- (The Centennial History of Interpretation of ''Hyangga'': Addressing the Understanding of the ''Hyangchal'' System and the Discovery of Ancient Vocabulary) |journal=한국시가연구 (Korean Classical Poetry Studies) |publisher=한국시가학회 (Korean Classical Poetry Association)|date=2018|volume=45|url=https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002410823|pages=49–113|doi=10.32428/poetry.45..201812.49 |doi-access=free |ref={{harvid|Park J.|2018}}}}
+* {{cite journal|last=Park |first=Yongsik |title=삼국유사에 수록된 향가에 나타난 언어의 시대적 특징 고찰 (A Study on the Features of Linguistic Age of ''Hyangchal'' Contained in the ''Samguk yusa'') |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |date=February 2005|volume=14|url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01365596|pages=173–195|access-date=August 23, 2019 |ref={{harvid|Park Y.|2005}}}}
+* {{cite journal|last1=Pellard|first1=Thomas|title=Koguryo, the Language of Japan's Continental Relatives: An Introduction to the Historical-Comparative Study of the Japanese-Koguryoic Languages with a Preliminary Description of Archaic Northeastern Middle Chinese (review)|journal=Korean Studies|publisher=University of Hawaiʻi Press |date=2005|volume=29|pages=167–170|doi=10.1353/ks.2006.0008 |doi-access=free}}
+* {{cite book|last=Qian|first=Youyong|date=2018|title=A Study of Sino-Korean Phonology: Its Origin, Adaptation and Layers |url=https://books.google.com/books?id=ruE2DwAAQBAJ |publisher=Routledge|isbn=978-1-138-24164-0 }}
+* {{cite book |last=Ramsey |first=S. Robert |editor1-last=Boltz |editor1-first=William G. |editor2-last=Shapiro |editor2-first=Michael C. |title=Studies in the Historical Phonology of Asian Languages |url=https://books.google.com/books?id=j-hJB2279EAC |publisher=John Benjamins Publishing |date=January 1, 1991 |pages=215–239 |chapter=Proto-Korean and the Origin of Korean Accent  |isbn=978-90-272-3574-9 }}
+* {{cite journal |last=Ramsey |first=S. Robert |date=October 2004 |title=Accent, Liquids, and the Search for a Common Origin for Korean and Japanese
+ |doi=10.2307/4141294 |journal=Japanese Language and Literature |publisher=American Association of Teachers of Japanese |volume=38 |issue=2 |pages=339–350 |jstor=4141294 }}
+* {{cite book|last=Seth|first=Michael J.|date=2011|title=A History of Korea: From Antiquity to the Present |url=https://books.google.com/books?id=WJtMGXyGlUEC |location=Lanham, Maryland|publisher=Rowman & Littlefield Publishers|isbn=978-0-7425-6715-3 }}
+* {{cite journal |last=Shin |first=Joong-jin |date=August 1998 |title=말음첨기(末音添記)의 생성과 발달에 대하여 -음절말 자음 첨기를 중심으로- (On the Creation and Development of ''Mareum Cheomgi''—Centering on Coda Consonant Transcription) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01367379 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=4 |pages=85–114 |access-date=August 23, 2019 }}
+* {{cite book|last=Sohn|first=Ho-min|date=2001|title=The Korean Language |url=https://books.google.com/books?id=Sx6gdJIOcoQC |series=Cambridge Language Surveys |location=Cambridge, United Kingdom|publisher=Cambridge University Press|isbn=978-0-521-36943-5 }}
+* {{cite book |last=Sohn |first=Ho-min |editor1-last=Brown |editor1-first=Lucien |editor2-last=Yeon |editor2-first=Jaehoon |title=The Handbook of Korean Linguistics |url=https://books.google.com/books?id=Sol5DwAAQBAJ |publisher=John Wiley & Sons |date=2015 |pages=439–459 |chapter=Chapter 25: Middle Korean |isbn=978-1-119-01687-8 }}
+* {{cite journal |last=Suh |first=Jong-hak |date=August 2011 |title=吏讀의 개념과 성격 (The Concept and Character of ''Idu'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01688677 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=27 |pages=27–56 |access-date=August 23, 2019 }}
+* {{cite journal |last=Sung |first=Ho-kyung |date=September 2006 |title=<제망매가(祭亡妹歌)>의 시세계 (The Poetic World of ''Jemangmaega'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE00765733 |journal=국어국문학 (Korean Language and Literature) |publisher=국어국문학회 (Society of Korean Language and Literature) |volume=143 |pages=273–304 |access-date=September 1, 2019 }}
+* {{cite journal |last=Vovin |first=Alexander |date=1995 |title=Once Again on the Accusative Marker in Old Korean |url=https://www.academia.edu/1803992 |journal=Diachronica |volume=12 |issue=2 |pages=223–236 |doi=10.1075/dia.12.2.04vov |access-date=August 18, 2019 }}
+* {{cite book|last=Vovin|first=Alexander|date=2002|title=A Reference Grammar of Classical Japanese Prose |publisher=RoutledgeCurzon|isbn=978-0-7007-1716-3 }}
+* {{cite journal |last=Vovin |first=Alexander |date=2005 |title=Koguryǒ and Paekche: Different Languages or Dialects of Old Korean? The Evidence from Texts and Neighbors|url=http://www.historyfoundation.or.kr/Data/DataGarden/Journal%2802-2%29%282%29.pdf |journal=Journal of Inner and East Asian Studies |volume=2 |issue=2 |pages=108–140 |archive-url=https://web.archive.org/web/20090226195328/http://www.historyfoundation.or.kr/Data/DataGarden/Journal%2802-2%29%282%29.pdf |access-date=August 19, 2019 |archive-date=2009-02-26 }}
+* {{cite book|last=Vovin|first=Alexander|date=2010|title=Koreo-Japonica: A Re-evaluation of a Common Genetic Origin |series=Hawaiʻi Studies on Korea|location=Honolulu, Hawaiʻi |publisher=University of Hawaiʻi Press|url=https://books.google.com/books?id=um8O1bp-86EC |isbn=978-0-8248-3278-0 }}
+* {{cite book |last=Vovin |first=Alexander |editor1-last=Sohn |editor1-first=Sung-Ock |editor2-last=Cho |editor2-first=Sungdai |editor3-last=You |editor3-first=Seok-Hoon |title=Studies in Korean Linguistics and Language Pedagogy: Festschrift for Ho-min Sohn |url=https://www.academia.edu/5188421 |location=Seoul|publisher=Korea University Press |date=October 2013|pages=200–206 |chapter=Chapter 12: The Mongolian Names for ‘Korea’ and ‘Korean’ and Their Significance for the History of the Korean Language |isbn=978-89-7641-830-2 }}
+* {{cite journal |last=Vovin |first=Alexander |date=2015 |title=On The Etymology of Middle Korean psʌr 'rice' |url=https://www.academia.edu/24058277 |journal=Türk Dilleri Araştırmaları |location=Istanbul, Turkey| volume=25 |issue=2 |pages=229–238 |access-date=September 22, 2019 }}
+* {{cite journal |last=Wei |first=Guofeng |date=February 2014 |title='只'와 '支'의 음독에 대하여 (About the Phonetical Reading of '只' and '支') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02160957 |journal=국어학 (Journal of Korea Linguistics) |publisher=국어학회 (The Society of Korea Linguistics) |volume=66 |pages=165–196 |access-date=August 23, 2019 |ref={{harvid|Wei|2013}}}}
+* {{cite journal |last=Wei |first=Guofeng |date=February 2014 |title='叱'의 음독 유래에 대하여 (About the Origin of the Phonetical Reading of "叱") |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE02503077 |journal=구결연구 (Kugyŏl Studies) |publisher=구결학회 (Society of Kugyŏl) |volume=32 |pages=49–79 |access-date=August 23, 2019 }}
+* {{cite book|last=Wei|first=Guofeng |date=November 24, 2017|title=고대 한국어 음운체계 연구 -전승 한자음을 대상으로- |location=Paju, Gyeonggido|publisher=Taehaksa |url=https://books.google.com/books?id=ZvRNwgEACAAJ|isbn=978-89-5966-933-2 }}
+* {{cite journal |last=Whitman |first=John B. |date=September 2011 |title=The Ubiquity of the Gloss |url=http://pdfs.semanticscholar.org/5f57/484ccebc6c1414d4f94f2fdfc100b4c4d15a.pdf |archive-url=https://web.archive.org/web/20190225072106/http://pdfs.semanticscholar.org/5f57/484ccebc6c1414d4f94f2fdfc100b4c4d15a.pdf |url-status=dead |archive-date=2019-02-25 |journal=Scripta |publisher=The Hunmin jeongeum Society |volume=3 |pages=95–121 |s2cid=14896348 |access-date=September 17, 2019 }}
+* {{cite book |last=Whitman |first=John B. |editor1-last=Whitman |editor1-first=John B. |editor2-last=Cinato |editor2-first=Franck |title=Lecture vernaculaire des textes classique Chinois/Reading Classical texts in the Vernacular |chapter-url=http://htl.linguist.univ-paris-diderot.fr/_media/num7/whitman2014.pdf |location=Paris|publisher=Laboratoire Histoire des Théories Linguistiques (Université Paris Diderot) |date=2014 |pages=1–21 |chapter=Présentation du projet Reading Classical texts in the Vernacular |series=Histoire Epistémologie Langage 36 }}
+* {{cite book |last=Whitman |first=John B. |editor1-last=Brown |editor1-first=Lucien |editor2-last=Yeon |editor2-first=Jaehoon |title=The Handbook of Korean Linguistics |url=https://books.google.com/books?id=Sol5DwAAQBAJ |publisher=John Wiley & Sons |date=2015 |pages=421–439 |chapter=Chapter 24: Old Korean |isbn=978-1-119-01687-8 }}
+* {{cite journal |last=Yang |first=Hee-cheol |date=July 2016 |title=향찰 '叱'의 한자음과 속격 '-시' (Sound of Chinese Character 叱 and Genitive Case -''si'' in the ''Hyangchal'') |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE0672755 |journal=언어학연구 (Studies in Linguistics) |publisher=한국중원언어학회 (The Joongwon Linguistic Society of Korea) |volume=40 |pages=113–139 |doi=10.17002/sil..40.201607.113 |access-date=August 23, 2019 }}
+* {{cite journal |last=Yoon |first=Seon-tae |date=December 2016 |title=한국 고대목간의 연구현황과 과제 (Research and Perspective on the Wooden Documents of Ancient Korea) |url=http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE07085332 |journal=신라사학보 |publisher=신라사학회 (Society for the Studies of Silla History) |volume=38 |pages=387–421 |access-date=September 16, 2019 }}
+{{refend}}
+
+{{Altaic languages}}
+{{Koreanic languages}}
+{{Korean language}}
+{{Authority control}}
+
+[[Category:Languages attested from the 4th century]]
+[[Category:History of the Korean language]]
+[[Category:Goguryeo]]
+[[Category:Baekje]]
+[[Category:Silla]]
+[[Category:Vowel-harmony languages|Korean, Old]]

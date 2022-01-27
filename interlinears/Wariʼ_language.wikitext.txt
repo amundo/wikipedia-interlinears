@@ -1,0 +1,381 @@
+{{Short description|Chapacuran language of Brazil and Bolivia}}
+{{Infobox language
+| name = Wariʼ
+| nativename = 
+| states = [[Brazil]]
+| region = [[Rondônia]]
+| ethnicity = [[Wariʼ people]]
+| speakers = {{sigfig|2721|2}}
+| date = 2006
+| ref = e18
+| familycolor = American
+| fam1 = [[Chapacuran languages|Chapacuran]]
+| fam2 = Wari languages
+| iso3 = pav
+| glotto = wari1268
+| glottorefname = Wari<nowiki>'</nowiki>
+| notice = IPA
+| map = Chapakuran languages.png
+| mapcaption = Location of the Chapacuran Language family
+}}
+
+The '''Wariʼ '''language (also '''Orowari, Wari, Pacaá Novo, Pacaás Novos, Pakaa Nova, Pakaásnovos''') is the sole remaining vibrant language of the [[Chapacuran languages|Chapacuran language family]] of the Brazilian–Bolivian border region of the [[Amazon Rainforest|Amazon]]. It has about 2,700 speakers, also called [[Wariʼ]], who live along tributaries of the [[Pacaás Novos River|Pacaas Novos]] river in Western Brazil. The word ''wariʼ'' means "we!" in the Wariʼ language and is the term given to the language and tribe by its speakers.<ref>{{Cite web|url=http://www.native-languages.org/definitions/wari.htm|title=Wari|website=www.native-languages.org|access-date=2020-01-28}}</ref>
+
+Wariʼ is written in Latin script.
+
+== Dialects ==
+Wariʼ dialects listed by Angenot (1997):<ref name="Angenot-1997">Angenot, Geralda de Lima (1997). ''[http://www.periodicos.unir.br/index.php/linguaviva/article/view/714 Fonotática e Fonologia do Lexema Protochapacura]''. M.A. dissertation, [[Universidade Federal de Rondônia]].</ref>
+
+;Northern dialects
+*Wari’-Oro Waram
+*Wari’-Oro Mon
+*Wari’-Oro Waram Xijen
+
+;Southern dialects
+*Wari’-Oro Não
+*Wari’-Oro Eo
+*Wari’-Oro At
+*Wari’-Oro Jowin
+*Wari’-Oro Kao Oro Aje
+
+== Phonology ==
+
+None of the segments described below only occur in borrowed words or only in specific word classes. There are some sounds not listed which are only used in onomatopoeia and can violate the usual [[Phonotactics|phonotactic]] and phonological constraints.
+
+=== Consonants ===
+The Oro Nao dialect of Wariʼ as described by Everett & Kern (1997) has the following consonant [[phoneme]]s. It is a relatively large inventory by Lowland Amazonian standards. The angled brackets represent the spellings associated with each sound.
+
+{| class="wikitable" style="text-align:center"
+|-
+! rowspan="2" |
+! rowspan="2" |[[Bilabial consonant|Bilabial]]
+! rowspan="2" |[[Dental consonant|Dental]]
+! rowspan="2" |[[Postalveolar consonant|Post-<br />alveolar]]
+! colspan="2" |[[Velar consonant|Velar]]
+! colspan="2" |[[Glottal consonant|Glottal]]
+|- style="font-size: 80%;"
+! Plain || [[Labialization|Labial]]
+! Plain || Labial
+|-
+![[Nasal consonant|Nasal]]
+|{{IPA link|m}} {{grapheme|m}}
+|{{IPA link|n}} {{grapheme|n}}
+|
+|
+|
+|
+|
+|-
+![[Plosive]]
+|{{IPA link|p}} {{grapheme|p}}
+|{{IPA link|t}} {{grapheme|t}}
+|
+|{{IPA link|k}} {{grapheme|c, qu}}
+|{{IPA link|kʷ}} {{grapheme|cw}}
+|{{IPA link|ʔ}} {{grapheme|'}}
+|
+|-
+![[Affricate]]
+|colspan=2|{{IPA link|ʙ̥|t͡ʙ̥}}
+|{{IPA link|t͡ʃ}} {{grapheme|x}}
+|
+|
+|
+|
+|-
+![[Fricative]]
+|
+|
+|
+|
+|
+|{{IPA link|h}} {{grapheme|h}}
+|{{IPA link|hʷ}} {{grapheme|hw}}
+|-
+![[Approximant]]
+|
+|
+|{{IPA link|j}} {{grapheme|j}}
+|
+|{{IPA link|w}} {{grapheme|w}}
+|
+|
+|-
+![[Flap consonant|Flap]]
+|
+|{{IPA link|ɾ}} {{grapheme|r}}
+|
+|
+|
+|
+|
+|}
+
+{{IPA|/t͡ʙ̥/}} is a [[trilled affricate]] made up of a [[bilabial trill]] preceded by a [[Voiceless dental stop|dental stop]], and is only reported from four other languages. In Oro Nao, this has been analysed as an [[allophone]] of /t/ that only occurs before /o/ and /y/ which does not occur in every [[idiolect]]. In some dialects it is a separate phoneme; however, only about 24 words contain the sound, some of which are [[onomatopoeia|onomatopoeic]]. It also is used more by older speakers of the language.
+
+==== Consonant Alternations<ref name=":0">{{Cite book|last=Everett, Daniel L.|title=Wari : the Pacaas Novos Language of Western Brazil.|isbn=978-0-203-19332-7|oclc=1048248320}}</ref> ====
+
+* /t͡ʃ/ can become {{IPAblink|ʃ}}, with a tendency to surface as [ʃ] more before unrounded vowels than rounded ones: {{transl|pav|xaxi' na}} 'he is thin' can be [t͡ʃaˈt͡ʃiʔ na] or [ʃaˈʃiʔ na].
+* [m] can become {{IPAblink|mᵇ}} (a sequence of the bilabial nasal followed by the voiced bilabial stop) syllable initially, most frequently before /a/ but also before other vowels. The tendency to realise it as a sequence is greater if the syllable is stressed: ''its filth'' {{angbr|homiri}} can be [homiˈɾi] or [homᵇiˈɾi].
+* [n] can become {{IPAblink|nᵈ}} (a sequence of the voiced alveolar nasal followed the voiced alveolar stop) syllable initially, most frequently before /a/ but also before other vowels. The tendency to realise it as a sequence is greater if the syllable is stressed: ''my head'' {{angbr|wina}} can be [wiˈna] or [wiˈnᵈa].
+* [j] can become {{IPAblink|ʒ}} before /i/: ''let's go!'' {{angbr|maji}} can be [maˈji] or [maˈʒi].
+* [ʔj] can become [ʔd͡ʒ] word initially: ''I am afraid'' {{angbr|jin' 'ina}} can be [ˈʔjinʔ ʔiˌna] or [ˈʔd͡ʒinʔ ʔiˌna].
+
+=== Vowels ===
+Wariʼ has one of the world's most asymmetrical vowel systems.  Vowels are generally expected to be somewhat evenly distributed in the [[vowel space]], not bunched into a corner.  Additionally, vowels are expected to be [[rounded vowel|unrounded]] when front and rounded when back until "gaps" in the vowel system have been filled. Although Wariʼ has only six vowels, four of these are close/close-mid front vowels, of which two are rounded (although {{IPA|/ø/}} is uncommon). Non-native speakers have marked difficulty in distinguishing these front vowels, that contrast with only a single back vowel {{IPA|/o/}}.
+
+{| class="wikitable" style="text-align:center"
+! rowspan="2"|
+! colspan="2"|[[Front vowel|Front]]
+![[Back vowel|Back]]
+|- style="font-size:80%"
+! Unround || Round
+! Round
+|-
+! [[Close vowel|Close]] (High)
+|{{IPA link|i}} {{grapheme|i}}
+|{{IPA link|y}} {{grapheme|u}}
+|
+|-
+! [[Close-mid vowel|Close-mid]]
+|{{IPA link|e}} {{grapheme|e}}
+|{{IPA link|ø}} {{grapheme|ö}}
+|{{IPA link|o}} {{grapheme|o}}
+|-
+! [[Open vowel|Open]] (Low)
+|{{IPA link|a}} {{grapheme|a}}
+|
+|
+|}
+
+Vowel nasalisation occurs on diphthongs only; the few which are not nasalised all end in /i/. The following diphthongs occur in the Oro Nao dialect: [ẽĩ], [ãĩ], [aɪ], [õĩ], [oɪ], [ỹĩ], [ĩõ], [ẽõ], [ãõ].
+
+==== Vowel Alternations<ref name=":0" /> ====
+
+* {{IPAblink|i}} can become {{IPAblink|ɪ}} in unstressed syllables if the vowel in the vowel in the following syllable is {{IPAblink|i}}: ''it is rocking'' {{angbr|piquirim na}} can be [pikiˈɾim na] or [pɪkɪˈɾim na].
+* /e/ becomes {{IPAblink|ɛ}} before all stops other than [ʔ], and in unstressed syllables in harmony with /e/ becoming {{IPAblink|ɛ}} in the stressed syllable: ''day'' {{angbr|xec}} is [t͡ʃɛk] because of the [k], and ''they went out'' {{angbr|hwerehwet mama' nana}} is [hʷɛɾɛˌhʷɛt maˈmaʔ naˌna] because the [t] in the stressed syllable causes /e/ to become {{IPAblink|ɛ}} and the preceding ones change in harmony.
+* /e/ becomes {{IPAblink|ɪ}} before nasals, and in harmony with a /e/ becoming {{IPAblink|ɪ}} in the stressed syllable: ''it is numb'' {{angbr|teteren na}} is [tɪtɪˈɾɪn na].
+* {{IPAblink|o}} can become {{IPAblink|ʊ}} in unstressed syllables when the vowel in the stressed syllable is not {{IPAblink|o}}: ''its seed'' {{angbr|tocoi}} can be [toˈkʷi] or [tʊˈkʷi].
+* {{IPAblink|ø}} is a rare segment and for some speakers is evolving into {{IPAblink|e}} in open syllables and {{IPAblink|y}} in closed ones.
+
+=== Syllables ===
+The basic syllable in Wari' is CV(C), but suffixes can be of the form VC, VCVC or V. Only stops and nasals can occur in syllable [[Coda (syllable)|codas]]. Consonant clusters are rare: /n/ is the only first segment found, and /t/, /k/ and /t͡ʃ/ are the only second segments found in non-compound words.
+
+Wariʼ has words ending in the consonant clusters {{IPA|/mʔ/}} and {{IPA|/nʔ/}}. These have been analysed as single sounds, but apparently only to avoid complicating syllable structure. If these are separate phonemes, these clusters only occur word finally.
+
+In the Oro Nao dialect, many consonants alternate with [ʔC] at the beginning of monosyllabic words, and {{IPAblink|ʔ}} always precedes word initial semivowels ({{IPAblink|j}} and {{IPAblink|w}}), including in polysyllabic words. There is a correlation between words that begin [ʔC] in Oro Nao and words that begin [ʔaC] in other dialects. For example, 'water' is {{angbr|com}} [ʔkom] in Oro Nao and {{angbr|'acom}} [ʔaˈkom] in other dialects. Loss of this initial syllable is a potential explanation of why these words have variants that break the [[Phonotactics|phonotactic]] rules. However, these generalisations do not always hold; for instance 'thorn' {{angbr|pi}} [ʔpi] is pronounced the same in all dialects.
+
+=== Stress ===
+The final syllable of words in major lexical categories is stressed. The verb tends to take the primary stress, with secondary stress on the others. However, emphasis of a particular word can cause transfer of the primary stress.
+
+== Morphology ==
+Wariʼ is a largely [[analytic language]], which has almost no verbal inflection but many [[Morphological derivation|derivational processes]].
+
+=== Possession ===
+Wariʼ has two main classes of nouns, ''xiʼ'' nouns (named as such because their citation form ends with the suffix /-xiʼ/) and non-''xiʼ'' nouns. ''Xiʼ'' nouns are [[Inalienable possession|inalienably possessed]], and therefore have a [[Morphology (linguistics)|paradigm]] of possession marking suffixes.
+
+{| class="wikitable"
+|-
+! colspan="2" |
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! [[Clusivity|Exclusive]]
+| rowspan="2" | -Ø
+| -xut
+|-
+! Inclusive
+| -xiʼ
+|-
+! colspan="2" | 2nd person
+| -m
+| -huʼ
+|-
+! rowspan="3" | 3rd person
+! Masculine
+| -con
+| -cocon
+|-
+! Feminine
+| -cam
+| -camam
+|-
+! Neuter
+| colspan="2" | -in (only nouns referring to humans trigger number agreement)
+|}
+
+Some forms have [[allomorph]]s, especially when following stems that ends in the vowel [e], for instance ''-con'' becomes ''-cun'' and ''-cam'' becomes ''-quem''.
+
+There is also a paradigm of [[Nominal (linguistics)|nominal]] inflectional [[clitic]]s that inflect for person, number and third person gender. These are used to show possession of a non-''xiʼ'' noun.
+
+{| class="wikitable"
+|-
+! colspan="2" |
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! [[Clusivity|Exclusive]]
+| rowspan="2" | ne
+| nuxut
+|-
+! Inclusive
+| nexiʼ
+|-
+! colspan="2" | 2nd person
+| nem
+| nuhuʼ
+|-
+! rowspan="3" | 3rd person
+! Masculine
+| nucun
+| nucucun
+|-
+! Feminine
+| nequem
+| nequequem
+|-
+! Neuter
+| colspan="2" | nein
+|}
+
+Most xiʼ nouns have alternate forms which cannot be possessed. To signify possession of these forms, the inalienable ''xiʼ'' counterparts must be used. For example, to convey the meaning 'his bone or leg', the ''xiʼ'' form of the noun (''araxiʼ'') with the third person masculine singular ending must be used. The nonpossessed form of the noun (''<nowiki/>'at'') cannot be used with the third person masculine singular nominal inflectional clitic.
+
+{{Interlinear|indent=2|'aracon|bone-3S.M|'his bone or leg'}}
+{{Interlinear|indent=2|*'at nucun|bone POSS:3S.M|'his bone or leg'}}
+
+=== Reduplication ===
+
+==== Verbs ====
+There is no [[affixation]] at all on verbs, but [[reduplication]] is used to mark aspect. Plural forms are derived by partial reduplication of the CV from the [[Stress (linguistics)|stressed]] syllable. This can either be a CV(CV) pattern, (where the second is optional) usually for [[transitive verb]]s: ''wac'' 'cut', ''wawac'' 'cut' (plural); ''cao''<nowiki/>' 'eat', ''cacacao''' 'eat' (plural). A CVrV pattern is usually used for [[intransitive verb]]s: ''cat'' 'break' (intr), ''caracat'' 'break' (plural). About a third of plural forms are derived by each of these types of reduplication, and the final third by [[suppletion]].
+
+==== Nouns ====
+Reduplication of nouns can derive names or descriptive terms. Thus {{transl|pav|capija capija}} (mouth-1s) means 'talker', and {{transl|pav|towira towira}} (testicles-1s) means 'legendary character who has enlarged testicles'.
+
+=== Clitics ===
+Wariʼ has both verbal and nominal inflectional clitics, which are analysed as such and not affixes for a few reasons. Verbal inflectional clitics can occur as whole utterances as responses, as the referent is clear from the previous statement. They also do not undergo the phonological processes that is expected if they were suffixes to the main verb, for instance they do not take the primary stress, which the possessive suffixes do when they attach to xiʼ nouns.
+
+Verbal inflectional clitics are inflected for person, number, tense, third person gender (only if tenseless), voice, and contain both the subject and the object of the verb. Where there is more than one object, the clitic represents one object based on the [[semantic role]]s present in the following hierarchy:
+:<small>GOAL>CIRCUMSTANCE>THEME>BENEFACTIVE>COMITATIVE>LOCATION>TIME.</small>
+
+=== [[Morphophonology|Morphophonological]] Processes ===
+Wariʼ has three types of [[Assimilation (phonology)|assimilatory]] process – regressive (or anticipatory), progressive (or preservative) and [[Fusion (phonetics)|coalescent.]] This mainly occurs across word-initial morpheme boundaries.
+
+Regressive assimilation occurs at morpheme boundaries involving consonants, where the consonant of the suffix causes a change in the consonant of the stem. This happens when ''xiʼ'' nouns with stems that end in ''-ji'' inflect for third person masculine or feminine, as the /k/ in the suffix causes the /y/ in the stem to become /ts/: ''tara'''j'''i''- 'ear' + ''-'''c'''on'' '3sm' = ''tara'''x'''i'''c'''on'' 'his ear'
+
+Progressive assimilation occurs over morpheme boundaries between nasal consonants or diphthongs and voiceless stops. This type of assimilation is optional but common in normal speech, however does not seem to appear in careful speech: ''Mon te?'' 'Where is my father?' can be pronounced as either [mon'de] or [mon'te].
+
+Coalescence is the most common assimilatory process, which is often accompanied by regressive [[vowel harmony]]. There are three principles which guide the output of vowel coalescence.
+
+# If one of the two vowels is a back vowel, the output vowel will be a back vowel: ''xiri-'' 'house' + ''-u'' '1s' = ''xuru'' 'my house'
+# The output vowel will have the height of the highest vowel of the two input vowels: ''toco''- 'eye' + -''um'' '2s' = tucum 'their eyes'
+# If the input vowels are identical, the output vowel is identical (this only occurs with /i/+/i/ in the corpus collected by Everett and Kern (1997)).
+
+== Syntax ==
+Basic [[Word order|constituent order]] in Wariʼ is deemed to be VOS, although it is uncommon to have multiple expressed [[Constituent (linguistics)|constituents]]. Often [[Argument (linguistics)|arguments]] to the verb are indicated by the agreement affixes which form the verbal inflectional clitics, where the subject affix precedes the one for the object. A third person object or subject can either be overtly marked or just referenced in the inflectional clitic, first and second person can only be marked by the clitic. The conventions followed for glosses are those used by Everett & Kern (1997). In the examples given, the tense and mood is [[Realis mood|realis]] past/present, glossed as rp/p.
+
+{{Interlinear|indent=2|Mao na.|go:S 3S:RP/P|'He went.'}}
+{{Interlinear|indent=2|Mao na Orowao.|go:S 3S:RP/P M:name|'Orowao went.'}}
+{{Interlinear|indent=2|Mao 'ina.|go:S 1S:RP/P|'I went'}}
+{{Interlinear|indent=2|*Mao 'ina wata'.|go:S 1S:RP/P EMPH:1S|'I went.'}}
+
+A verb can have up to four arguments, but it is uncommon to express more than one at a time. Instances of three or more arguments being expressed usually only come from elicited examples.
+
+=== COMP sentences ===
+COMP sentences are referred to as such by Everett and Kern (1996) because their initial position is occupied by what they refer to as a COMP or [[complementizer]] word. These give the sentence – or a variable in the sentence – a particular interpretation.
+
+For a sentence to be a COMP sentence, it must have a COMP word in the initial position, an inflectional morpheme closely following which gives information about tense, mood, and sometimes gender, and a tenseless verbal inflectional clitic following the verb.
+
+Here is a list of the COMP words found in the Oro Nao dialect.
+{| class="wikitable"
+!COMP word
+!Morphological composition
+!Function
+!Example sentence
+|-
+|{{lang|pav|ma'}}
+|demonstrative 'that:prox:hearer'
+|interrogation
+|{{Interlinear|Ma' co tomi' na?|COMP INFL:M/frp/p speak 3s:rp/p|'Who is speaking?'}}
+|-
+|{{lang|pav|mon}}
+|''ma'''+''-on'' '3sm object'
+|interrogation (masculine)
+|{{Interlinear|Mon tarama' co mao nain Guajará?|COMP man INFL:m/frp/p go:s 3s:rp/p-3n place:name|'Which man went to Guajará?'}}
+|-
+|{{lang|pav|mam}}
+|''ma'''+-''m'' '3sf object'
+|interrogation (feminine)
+|{{Interlinear|Mam narima co xain na?|COMP woman INFL:m/frp/p hot 3srp/p|'Which woman has a fever?'}}
+|-
+|{{lang|pav|main}}
+|''ma'''+-''in'' '3n object'
+|interrogation (neuter)
+|{{Interlinear|Main ca mao ca?|COMP INFL:nrp/p go:s 3sm|'Where did he go?'}}
+|-
+|{{lang|pav|'om}}
+|verb 'to not exist'
+|negation
+|{{Interlinear|'Om ca mao ca.|COMP INFL:nrp/p go:s 3sm|'He did not go.'}}
+|-
+|{{lang|pav|mo}}
+|verb 'list presentation'
+|condition
+|{{Interlinear|Mo xi pi'am cacama.|COMP INFL:irr sleep 3pf|'If they slept.'}}
+|-
+|{{lang|pav|'ac}}
+|preverbal modifier 'like'
+|indication of resemblance
+|{{Interlinear|'Ac ca mao cama na.|COMP INFL:nrp/p go:s 3sf 3s:rp/p|'It seems like she went.'}}
+|-
+|{{lang|pav|je}}
+|emphatic pronoun '3n'
+|affirmation/interrogation
+|{{Interlinear|Je 'i ca' ca tomi' cocon Xijam.|COMP n this:n INFL:nrp/p speak 3sm-3pm m:name|'This is what Xijam said to them.'}}
+|-
+|{{lang|pav|'ane}}
+|verb 'to be different'
+|[https://glossary.sil.org/term/concession-relation contraexpectation]
+|{{Interlinear|'Ane ca wari' 'iri' ca' ne.|COMP INFL:nrp/p person 1pincl this:n rec:past|'But/because we are people.'}}
+|-
+|{{lang|pav|cain'}}
+|demonstrative 'that neuter distal'
+|interrogation
+|{{Interlinear|Cain' ca tomi' cama?|COMP INFL:nrp/p speak 3sf|'What did she say?'}}
+|-
+|{{lang|pav|pain}}
+|prepostition '3n'
+|[[Subordination (linguistics)|subordination]]
+|{{Interlinear|Tomi' xaxa' 'urut pain ca cono' cacama xuruxut pane.|speak distractedly 1pexcl:rp/p COMP INFL:nrp/p die:p 3pf siblings-1pexcl rem:past|'We are sad because our brothers died.'}}
+|}
+
+=== Copular Sentences ===
+Wariʼ does not have a [[Copula (linguistics)|copula]] verb, so sentences that would use this instead have what would be the adjective become the verb.
+
+{{Interlinear|indent=2|Tamara' na' pije'.|man 3s:rp/p child|'The baby is male.' (literally 'The baby mans.')}}
+{{Interlinear|indent=2|Wijimain na xirim.|smallness-3n 3s:rp/p house|'The house is small.' (literally 'The house smalls.')}}
+{{Interlinear|indent=2|Hwap na pije'.|fast:s 3s:rp/p child|'The child is fast.' (literally 'The child fasts.')}}
+
+=== Definiteness ===
+Wariʼ does not have any articles. [[Definiteness]] or indefiniteness can be expressed by either the use of [[demonstrative]]s or verbal inflectional clitics containing the object. However this latter option does not always distinguish definiteness, as indefinite objects can also be marked in the inflectional clitics.
+
+{{Interlinear|indent=2|Cao' 'ina hwam.|eat 1s:rp/p fish|'I ate fish.' (Indefinite)}}
+{{Interlinear|indent=2|Cao' 'inon hwam.|eat 1s:rp/p-3sm fish|'I ate (the) fish.' (Ambiguous)}}
+{{Interlinear|indent=2|Cao' 'inon hwam cwa'.|eat 1s:rp/p-3sm fish this:m/f|'I ate this fish.' (Definite)}}
+
+== References ==
+{{Reflist}}
+* Mily Crevels (2012). Language Endangerment in South America: The Clock is Ticking In Lyle Campbell & Verónica Grondona. (Eds.).''The indigenous languages of south america : A comprehensive guide''. (pp. 167-234).
+*[[Daniel Everett]] and Barbara Kern (1997). ''[http://ling.auf.net/lingbuzz/001707 Wariʼ: The Pacaas Novos language of western Brazil]''. London: Routledge.
+* [[Peter Ladefoged]] and Daniel Everett (1996). The status of phonetic rarities. ''Language'', ''72'' (4), 794-800.
+* Margaret MacEachern, Barbara Kern, Peter Ladefoged (1996). "Wariʼ phonetic structures". In ''UCLA Working Papers in Phonetics 93: Fieldwork Studies of Targeted Languages IV''.
+
+== External links ==
+*[https://ids.clld.org/contributions/286 Pacaas Novos] ([[Intercontinental Dictionary Series]])
+
+{{Chapacuran languages}}
+{{Languages of Brazil}}
+
+{{DEFAULTSORT:Wari' language}}
+[[Category:Chapacuran languages]]

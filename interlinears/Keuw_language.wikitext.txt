@@ -1,0 +1,217 @@
+{{Infobox language
+|name=Keuw
+|altname=Kehu
+|states=[[Papua (province)|Papua]]
+|region=[[Wapoga River]], in the foothills inland from [[Cenderawasih Bay]]: [[:id:Wapoga, Nabire|Wapoga District]], [[Nabire Regency]], [[Papua (province)|Papua]] province
+|speakers=200
+|date=2007
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Lakes Plain languages|Lakes Plain]]?
+|fam2=Wapoga
+|iso3=khh
+|glotto=kehu1238
+|glottorefname=Kehu
+}}
+
+'''Keuw''' (Keu, Kehu) is an [[Unclassified language|unclassified]] language of [[New Guinea]].
+
+Keuw is spoken in a swampy lowland region along the Poronai River in Keuw village (kampung) of [[:id:Wapoga, Nabire|Wapoga District]], [[Nabire Regency]], [[Papua (province)|Papua]] province, Indonesia. According to oral folklore, the Keuw were originally from Woisaru, and then moved to Sanawado, which may be locations in Wapoga District.<ref>Kamholz, David. 2012. ''[http://www.langlxmelanesia.com/8%20kamholz243-268.pdf The Keuw isolate: Preliminary materials and classification]''. In Harald Hammarström and Wilco van den Heuvel (eds.), History, contact, and classification of Papuan languages, 243–268. Special issue of Language and Linguistics in Melanesia. Port Moresby: Linguistic Society of Papua New Guinea.</ref>
+
+==Classification==
+Mark Donohue (2007) said that Kehu is "probably a [[Geelvink Bay language]], but no one knows enough about those languages, systematically, to say this with confidence for [any of them] beyond Barapasi, T(ar)unggare and Bauzi."<ref>[http://mailman.anu.edu.au/pipermail/papuanlanguages/2007-May/000142.html Donohue (2007)]</ref>
+
+Timothy Usher (2018) classifies it as a [[Lakes Plain language]], closest to [[Awera language|Awera]] and [[Rasawa language|Rasawa]]–[[Saponi language|Saponi]]. According to Foley, based on some lexical and phonological similarities, Keuw may possibly share a deep relationship with the Lakes Plain languages.<ref name="Foley-NWNG"/> Palmer (2018) treats Keuw as a [[language isolate]].<ref name="Palmer-LLNGA">{{cite book |last=Palmer |first=Bill |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=Language families of the New Guinea Area |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=1–20 |isbn=978-3-11-028642-7}}</ref>
+
+==Phonology==
+Phonology of Keuw from Kamholz (2012), quoted in [[William A. Foley|Foley]] (2018):<ref name="Kamholz, David 2012">Kamholz, David. 2012. The Keuw isolate: preliminary materials and classification. ''Language and Linguistics in Melanesia Special Issue: History, Contact and Classification of Papuan Languages'': 243–268.</ref><ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433–568 |isbn=978-3-11-028642-7}}</ref>
+
+===Consonants===
+Keuw has ten consonants.
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+! rowspan="2" | [[Plosive]]
+! {{small|voiceless}}
+| {{IPAlink|p}} || {{IPAlink|t}} ||  || {{IPAlink|k}}
+|-
+! {{small|voiced}}
+| {{IPAlink|b}} || {{IPAlink|d}} ||  || {{IPAlink|ɡ}}
+|-
+! colspan="2" | [[Fricative]]
+|  || {{IPAlink|s}} ||  || 
+|-
+! colspan="2" | [[Liquid consonant|Liquid]]
+|  || {{IPAlink|l}} ||  || 
+|-
+! colspan="2" | [[Semivowel]]
+| {{IPAlink|w}} ||  || {{IPAlink|j}} || 
+|}
+
+===Vowels===
+Keuw has five vowels.
+
+{| class="wikitable" style="text-align:center;"
+! || [[Front vowel|Front]]|| [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}} || {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}} || {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+| colspan="2" | {{IPA link|a}} 
+|}
+
+===Tone===
+Keuw has contrastive [[tone (linguistics)|tone]]. Some [[minimal pair]]s demonstrating phonemic tonal contrasts:
+*''áalìyò'' ‘tongue’, ''áalíyò'' ‘house’
+*''kíilyô'' ‘possum’, ''kíilyò'' ‘arrow’
+*''úukyò'' ‘grandfather’, ''úunyô'' ‘woman’
+
+==Syntax==
+Keuw has [[SOV word order]], as exemplified by the sentence below. The morphemic suffixes remain unglossed.<ref name="Foley-NWNG"/>
+
+{{interlinear|indent=3
+|kómúul-yò yúmséet-yò núu-nô
+|boar-? cassava-? eat-?
+|‘The boar ate the cassava.’}}
+
+==Basic vocabulary==
+Basic vocabulary of Keuw from Kamholz (2012), quoted in [[William A. Foley|Foley]] (2018):<ref name="Kamholz, David 2012"/><ref name="Foley-NWNG"/>
+
+:{| {{table}}
+|+ Keuw basic vocabulary
+! gloss !! Keuw
+|-
+| ‘bird’ || páupǝn
+|-
+| ‘blood’ || kpíi
+|-
+| ‘bone’ || ntyéns
+|-
+| ‘breast’ || túulí
+|-
+| ‘ear’ || téemé
+|-
+| ‘eat’ || núu
+|-
+| ‘egg’ || bléemí
+|-
+| ‘eye’ || mlúul
+|-
+| ‘fire’ || núup
+|-
+| ‘go’ || páwì
+|-
+| ‘ground’ || píi
+|-
+| ‘hair’ || plíikd
+|-
+| ‘head’ || kpúunt
+|-
+| ‘leg’ || páud
+|-
+| ‘louse (body)’ || máa
+|-
+| ‘louse (head)’ || bréen
+|-
+| ‘man’ || méeli
+|-
+| ‘moon’ || dyúutǝn
+|-
+| ‘one’ || bíisìp
+|-
+| ‘path, road’ || ngkéempúkə
+|-
+| ‘see’ || líyè, tíyè, kúntáb
+|-
+| ‘sky’ || tpáapí
+|-
+| ‘stone’ || tóotí
+|-
+| ‘sun’ || tandən
+|-
+| ‘tooth’ || mée
+|-
+| ‘tree’ || kúd
+|-
+| ‘two’ || páid
+|-
+| ‘water’ || yél
+|-
+| ‘woman’ || úun
+|}
+
+The following basic vocabulary words are from the Trans-New Guinea database:<ref>{{Cite web |url=http://transnewguinea.org/language/keuw |title=TransNewGuinea.org - database of the languages of New Guinea |last=Greenhill |first=Simon |date=2016 |access-date=2020-11-05}}</ref><ref name="Kamholz, David 2012"/>
+
+:{| class="wikitable sortable"
+! gloss !! Keuw
+|-
+| head || kpúunt-yô
+|-
+| ear || téemé-yô
+|-
+| eye || mlúul-yô
+|-
+| nose || klókəә̀n-yô
+|-
+| tooth || mée-yô
+|-
+| tongue || áalì-yò
+|-
+| pig || kómúul-yò
+|-
+| egg || bléemí-yò
+|-
+| blood || kpíi-yò
+|-
+| bone || ntyéns-yô
+|-
+| skin || mpáakəә́t-yô
+|-
+| breast || túulí-yò
+|-
+| tree || kúd-yô
+|-
+| sky || tpáapí-yò
+|-
+| sun || táadəә́n-yô
+|-
+| moon || dyúutəә́n-yò
+|-
+| water || yél-yò
+|-
+| fire || núup-yò; óopí-yò
+|-
+| stone || tóotí-yò
+|-
+| road, path || ŋkéempúkəә̀-yô
+|-
+| eat || kéep-yô; núu-nô
+|-
+| one || bíisìp-yò
+|-
+| two || páid-yô
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://lautgesetz.com/keuw/ Keuw field recordings]
+
+{{Papuan languages}}
+
+[[Category:Endangered languages]]
+[[Category:Language isolates of New Guinea]]
+[[Category:Endangered language isolates]]
+[[Category:Wapoga languages]]
+[[Category:Tonal languages]]

@@ -1,0 +1,126 @@
+{{Infobox language
+|name=Kembra
+|nativename=
+|states=[[Western New Guinea]]
+|region=Kiambra village, Kaisenar District, [[Keerom Regency]]
+|ethnicity=20–60% (2000?)<ref name=e15>{{e15|xkw}}</ref>
+|speakers=20 
+|date=2000
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Pauwasi languages|Pauwasi]]
+|fam2=Yetfa – South Pauwasi
+|fam3=[[South Pauwasi languages|South Pauwasi]]
+|fam4=Lepki–Murkim
+|iso3=xkw
+|glotto=kemb1250
+|glottorefname=Kembra
+}}
+
+'''Kembra''' is a [[South Pauwasi language]] spoken in [[Western New Guinea]] by some twenty persons in Kiambra village, Kaisenar District, [[Keerom Regency]]. It is used by between 20% and 60% of the ethnic population and is no longer passed down to children.
+
+==Classification==
+Initial documentation was carried out by Barnabas Konel and Roger Doriot. Kembra data remains unpublished in Konel's and Doriot's field notes.<ref>Konel, Barnabas. n.d. Wordlist of Kembra. Photocopy of handwritten ms.</ref><ref>Doriot, Roger E. 1991. 6-2-3-4 Trek, April-May, 1991. Ms.</ref>
+
+Foley (2018) notes that Kembra has some lexical forms resembling Lepki, but not Murkim, hinting at lexical borrowing between Kembra and  Lepki, but not Murkim. He allows the possibility of Kembra being related to [[Lepki–Murkim languages|Lepki–Murkim]], pending further evidence.<ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433-568 |isbn=978-3-11-028642-7}}</ref> With more data, Usher (2020) was able to verify the connection.
+
+==Phonology==
+Kembra is a [[tone (linguistics)|tonal]] language, as shown by the following [[minimal pair]].<ref name="Foley-NWNG"/>{{Rp|464}}
+*''yá'' ‘pig’
+*''yà'' ‘fire, tree’
+
+==Basic vocabulary==
+Basic vocabulary of Kembra listed in [[William A. Foley|Foley]] (2018):<ref name="Foley-Sepik">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The Languages of the Sepik-Ramu Basin and Environs |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=197-432 |isbn=978-3-11-028642-7}}</ref>
+
+:{| {{table}}
+|+ Kembra basic vocabulary
+! gloss !! Kembra
+|-
+| ‘bird’ || tra
+|-
+| ‘blood’ || nili
+|-
+| ‘bone’ || ka
+|-
+| ‘eat’ || ɲəm
+|-
+| ‘egg’ || traləl
+|-
+| ‘eye’ || yi
+|-
+| ‘fire’ || ya
+|-
+| ‘give’ || lokwes
+|-
+| ‘ground’ || to
+|-
+| ‘hair’ || iyet
+|-
+| ‘I’ || mu
+|-
+| ‘leg’ || kla
+|-
+| ‘louse’ || nim
+|-
+| ‘man’ || ratera
+|-
+| ‘name’ || kia
+|-
+| ‘one’ || kutina
+|-
+| ‘see’ || iyam
+|-
+| ‘stone’ || isi
+|-
+| ‘sun’ || ota
+|-
+| ‘tooth’ || pa
+|-
+| ‘tree’ || ya
+|-
+| ‘two’ || kais
+|-
+| ‘water’ || er
+|-
+| ‘we’ || utuas
+|-
+| ‘you (sg)’ || amagrei
+|-
+| ‘you (pl)’ || robkei
+|}
+
+==Sentences==
+Kembra has SOV word order, and also appears to have bipartite negation as in [[Abun language|Abun]] and French. Only several sentences have been elicited by Konel (n.d.), which are quoted below from Foley (2018).<ref name="Foley-NWNG"/>
+
+{{interlinear|number=(1)
+|pei yá por ɲəm
+|dog pig black eat
+|‘The dog ate the black pig.’}}
+
+{{interlinear|number=(2)
+|mu ipei ɲəm
+|1SG [[betelnut]] eat
+|‘I’m chewing betelnut.’}}
+
+{{interlinear|number=(3)
+|mu pei te-iya-mo
+|1SG dog ?-see-TNS
+|‘I see the dog.’}}
+
+{{interlinear|number=(4)
+|mu ipei abi-ɲi koto
+|1SG betelnut NEG-eat NEG
+|‘I didn’t eat betelnut.’}}
+
+{{interlinear|number=(5)
+|mu pei abi-(i)ya koto
+|1SG dog NEG-see NEG
+|‘I didn’t see the dog.’}}
+
+==References==
+{{Reflist}}
+
+{{Papuan languages}}
+[[Category:Endangered languages]]
+[[Category:Lepki–Murkim languages]]
+[[Category:Tonal languages]]

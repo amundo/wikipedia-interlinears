@@ -1,0 +1,788 @@
+{{Short description|Siouan language of US Midwest}}
+{{Infobox language
+|name=Winnebago
+|altname=Ho-Chunk
+|nativename=''Hoocą́k hoit'éra''
+|states= Midwestern United States
+|region=[[Wisconsin]], [[Nebraska]], [[Iowa]], [[South Dakota]], [[Illinois]], and [[Minnesota]]
+|ethnicity=1,650 [[Ho-Chunk]] (2000 census)<ref name=e18/>
+|speakers=250
+|date=2007
+|ref=e18
+|speakers2=Mainly older adults (no date)<ref name=e16>{{e16|win}}</ref>
+|familycolor=American
+|fam1=[[Siouan languages|Siouan]]
+|fam2=[[Western Siouan languages|Western Siouan]]
+|fam3=Mississippi Valley
+|fam4=Chiwere–Winnebago
+|script=[[Latin script|Latin]] (Ho-Chunk alphabet), <br/>[[Great Lakes Algonquian syllabics]]
+|iso3=win
+|notice=IPA
+|glotto=hoch1243
+|lingua=64-AAC-d
+|glottorefname=Ho-Chunk
+}}
+
+The '''Ho-Chunk language''' (''Hoocąk, Hocąk''), also known as '''Winnebago''', is the traditional language of the [[Ho-Chunk]] (or Winnebago) nation of [[Native Americans in the United States]]. The language is part of the [[Siouan languages|Siouan]] [[language family]], and is closely related to the languages of the [[Iowa tribe|Iowa]], [[Missouri tribe|Missouri]], and [[Oto tribe|Oto]].
+
+"Winnebago" is an [[Exonym and endonym|exonym]], an [[Anglicisation|Anglicization]] of the Sauk and Fox word ''Oinepegi''.<ref>{{Cite web|url=http://www.ho-chunknation.com/about.aspx|title=About {{!}} Ho-Chunk NationAbout Ho-Chunk Nation {{!}} Ho-Chunk Nation|last=YourName|website=www.ho-chunknation.com|access-date=2016-04-29|archive-url=https://web.archive.org/web/20150206174644/http://ho-chunknation.com/about.aspx|archive-date=2015-02-06|url-status=dead}}</ref><ref>{{Cite web|url=http://www.baraboopubliclibrary.org/files/local/wardvol1/05%20Ho-Chunk%20and%20Winnebgo%20Explained%20-%20About%20Section%20AA.pdf|title=Ho-Chunk and Winnebago Explained|last=Gilmary Shea|first=John|publisher=Wisconsin Historical Collections}}</ref> The anglicized form of the endonym is "Ho-Chunk".
+
+==Phonology==
+
+=== Phonemic Inventory ===
+Ho-Chunk's vowels are distinguished by nasality and length.  That is to say, the use of a [[nasal vowel]] or a [[long vowel]] affects a word's meaning.  This is evident in examples such as ''pąą'' 'bag' compared to ''paa'' 'nose,' and ''waruc'' 'to eat' compared to ''waaruc'' 'table.'<ref name=":02">{{Cite book|title=Hocak Teaching Materials, Volume 1|last=Helmbrecht|first=Christian|last2=Lehmann|first2=Christian|publisher=SUNY Press|year=2010|isbn=978-1-4384-3339-4}}</ref> All of Ho-Chunk's vowels show a short/long distinction, but only /i/ /a/ and /u/ have nasal counterparts. 
+
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2" | 
+! colspan="2" | [[Front vowel|Front]]
+! colspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! <small>[[Oral vowel|oral]]</small> || <small>[[Nasal vowel|nasal]]</small>
+! <small>oral</small> || <small>nasal</small>
+! <small>oral</small> || <small>nasal</small>
+|-
+! [[High vowel|High]]
+| {{IPAlink|i}} || {{IPAlink|ĩ}}
+| ||
+| {{IPAlink|u}} || {{IPAlink|ũ}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPAlink|e}} ||
+| ||
+| {{IPAlink|o}} ||
+|-
+! [[Low vowel|Low]]
+| ||
+| {{IPAlink|a}} || {{IPAlink|ã}}
+| ||
+|}
+
+Ho-Chunk's consonants are listed in the following table: 
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+|
+|
+|-
+! rowspan="3" | [[Plosive]]/<br>[[Affricate]]
+! {{small|[[Voicelessness|Voiceless]]}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|tʃ}}
+|
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+! {{small|[[Voice (phonetics)|Voiced]]}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|dʒ}}
+|
+| {{IPAlink|g}}
+|
+|-
+! {{small|[[Ejective consonant|Ejective]]}}
+| {{IPAlink|pʼ}}
+|
+|
+|
+| {{IPAlink|kʼ}}
+|
+|-
+! rowspan="3" | [[Fricative]]
+! {{small|[[Voicelessness|Voiceless]]}}
+|
+| {{IPAlink|s}}
+| {{IPAlink|ʃ}}
+|
+| {{IPAlink|x}}
+| {{IPAlink|h}}
+|-
+! {{small|[[Voice (phonetics)|Voiced]]}}
+|
+| {{IPAlink|z}}
+| {{IPAlink|ʒ}}
+|
+| {{IPAlink|ɣ}}
+|
+|-
+! {{small|[[Ejective consonant|Ejective]]}}
+|
+| {{IPAlink|sʼ}}
+| {{IPAlink|ʃʼ}}
+|
+| {{IPAlink|xʼ}}
+|
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+|
+| {{IPAlink|r}}
+|
+|
+|
+|
+|-
+! colspan="2" | [[Approximant]]
+| {{IPAlink|w}}
+|
+|
+| {{IPAlink|j}}
+| ({{IPAlink|w}})
+|
+|}
+
+Typical of Mississippi Valley Siouan languages, Ho-Chunk has aspirated /p/ and /k/ phonemes but no aspirated /t/.
+
+=== Nasalization Rules ===
+In Ho-Chunk, nasalizable vowels /a/, /i/, and /u/ are always nasalized when they occur after nasal consonants /m/ and /n/. The nasality spreads to an adjacent vowel if that vowel is nasalizable as well.<ref name=":02"/>  The spread operates across syllable or word boundaries and can move across consonants /h/ and /w/, but is blocked by all other consonants. Examples include ''nąįžą'' 'a tree' and ''ha'ųwį'' 'we (exclusive) do':
+
+{{interlinear|number=ex:
+|top= nąįžą
+|nąą hižą
+|tree one
+|'a tree'}}
+
+{{interlinear|number=ex:
+|top= ha'ųwį
+|ha- ųų -wi
+|1.EX.A- do -PL
+|'We (exclusive) do'}}
+
+Another frequently occurring nasalization rule is /r/ to [n] alternation: the /r/ consonant is pronounced as [n] when it immediately follows a nasal vowel. That is shown in the sentence ''Mąąhį haanįną juujuxšąną'' 'My knife is dull':
+
+{{interlinear|number=ex:
+|top= Mąąhį haanįną juujuxšąną
+|Mąąhį ha&lt;ha&gt;nį{{=}}ra juujux-šąną
+|knife &lt;1.EX.A&gt;have{{=}}DEF dull-DECL
+|'My knife is dull'}}
+
+=== Dorsey's Law (Vowel copying rule) ===
+There is a notable sound law in Ho-Chunk called Dorsey's Law<sup>[9]</sup> which dictates the following:
+* /ORS/ → [OSRS] 
+where O is a voiceless obstruent, R is a resonant, and S a syllabic sound. In other words, if there is an underlying voiceless obstruent (in Ho-Chunk, /p/, /c/, /k/, /s/, /š/, and /x/) followed by resonant (/r/, /n/, or /w/), the vowel following the resonant is copied into the proceeding consonant cluster. All Dorsey's Law sequences attested in the language are listed below, with V representing the copied vowel:<ref name=":1">{{Cite journal|last=Miner|last2=Dorsey|date=1979|title=Dorsey's Law in Winnebago-Chiwere and Winnebago Accent|journal=International Journal of American Linguistics|volume=45|pages=25–33|doi=10.1086/465571}}</ref> 
+* pVnV 
+* pVrV 
+* kVnV 
+* kVrV 
+* kVwV 
+* sVnV 
+* sVrV 
+* sVwV 
+* šVnV 
+* šVrV 
+* šVwV 
+* cVwV 
+* xVnV 
+* xVrV 
+* xVwV
+
+Multiple sources advocate that Dorsey's Law is a [[synchrony and diachrony|synchronic]] process in the language because of the way that things like stress assignment and the morphological process of [[reduplication]] are affected by it.<ref name=":1" /><ref>{{Cite journal|last=Miner|first=Kenneth L.|date=1989|title=Winnebago Accent: The Rest of the Data|journal=Anthropological Linguistics}}</ref><ref>{{Cite journal|last=Miner|first=Kenneth|date=1993|editor-last=Oliverio|editor-first=Giulia|editor2-last=Linn|editor2-first=Mary Sarah|title=On some theoretical implications of Winnebago phonology|journal=Kansas Working Papers in Linguistics|volume=18}}</ref>
+
+Dorsey's Law can apply within a single morpheme, as in /pra/ becoming [para] in the word ''paras'' '(be) wide, flat', or across morpheme boundaries, as in /šra/ becoming [šara] in the word ''šaraše'' 'you go there,' where ''š'' is the second person pronominal prefixing to the verb ''rahe'' 'to be going there.'
+
+=== Metrical structure ===
+Ho-Chunk is a [[Mora (linguistics)|mora]] counting, but syllable accenting language. The stress placement of words spoken in isolation is extremely regular. Single-syllable words always have a long vowel (two moras), and stress falls on the first mora (e.g. ''áa'' 'arm').  Two-syllable words have two moras, and primary stress falls on the second mora (e.g. ''wajé'' 'dress'). In words longer than two syllables, primary stress most often falls on the third syllable, with secondary stress on each even numbered vowel after the point of primary stress (e.g. ''waǧįǧį́ '' 'ball,' or ''hocįcį́k'' 'boy').<ref>{{Cite journal|last=Hale|first=Kenneth|last2=White Eagle|first2=Josie|date=1980|title=A preliminary metrical account of Winnebago accent|journal=International Journal of American Linguistics|publisher=University of Chicago Press|volume=46|issue=2|doi=10.1086/465641|pages=117–132}}</ref><ref name=":0">{{Cite book|title=Rara & rarissima: Documenting the fringes of linguistic diversity|last=Helmbrecht|first=Johannes|publisher=De Gruyer Mouton|year=2010|isbn=9783110228557|editor-last=Wohlgemuth|editor-first=Jan|location=Berlin|pages=117–143|chapter=The accentual system of Hocąk|editor-last2=Cysouw|editor-first2=Michael}}</ref> A few rare examples of words with primary stress not on the third syllable include ''booráxux'' 'you break something into pieces' and ''gikąnąhé'' 'to invite somebody.'  These and other exceptions are a result of syllable weight affecting stress location.<ref name=":0" />  As seen in ''booráxux'' 'you break something into pieces,' when one of the first two syllables of a multiple-syllable word is a heavy syllable, then the main stress falls on the second syllable
+
+Generally when words are spoken in sequence to form sentences, each retains its own stress domain.  However, when two or more words are [[Compound (linguistics)|compounded]], they are treated as a single word and form a new single stress domain in which the aforementioned patterns apply.  Examples include ''hąąbókahi'' 'every day' (a compound consisting of ''hąąp'' 'day' and ''hokahí'' 'every') and ''wąągwácek'' 'young man' (''wąąk'' 'man' and ''wacék'' 'young').<ref name=":0" />
+
+Ho-Chunk's stress system is substantially different from that of other Siouan languages, which have main stress on the second syllable or second mora.  It is theorized that Ho-Chunk underwent a stress shift one mora to the right at some point in its history.<ref name=":0" />
+
+== Orthography ==
+The official Ho-Chunk [[orthography]] derives from an [[Americanist phonetic notation|Americanist]] version of the [[International Phonetic Alphabet]] (IPA). As such, its graphemes broadly resemble those of IPA, and there is a close one-to-one correspondence between graphemes and phonemes. The orthography differs from IPA in that the nasal vowels are indicated using an [[ogonek]]. Thus, /ĩ/, /ũ/, and /ã/ are written as ''į'', ''ų'', and ''ą,'' respectively. In addition, the postalveolar and palatal consonants are written as ''c, j, š, ž,'' and ''y'' (in IPA: /tʃ/, /dʒ/, /ʃ/, /ʒ/ and /j/), the velar fricative /ɣ/ is written as ''ǧ,'' and the [[glottal stop]] is written as ''ʼ'' .
+
+The diacritic marks can be referred to in Ho-Chunk with the following terms: ''sįįc'' 'tail' for the ogonek, ''wookąnąk'' 'hat' for the haček, and ''hiyuša jikere'' 'sudden start/stop' for the glottal stop.
+
+For a short period of time in the mid to late 1800s, Ho-Chunk was written with an adaptation of the [[Great Lakes Algonquian syllabary|"Ba-Be-Bi-Bo" syllabics]] system. As of 1994, however, the official alphabet of the [[Ho-Chunk|Ho-Chunk Nation]] is an adaptation of the [[Latin script]].  The Ho-Chunk Nations of Wisconsin and Nebraska represent some sounds differently in the alphabets that they use, as the Wisconsin tribe write a double vowel to mark longer length, and the Nebraska tribe uses a macron over the vowel (compare ''oo'' with ''ō'' for IPA /o:/'').'' These differences, shown with example words, are demonstrated in the chart below.  In total, the Ho-Chunk writing system consists of 26 consonant and 16 vowel graphs/digraphs.[https://web.archive.org/web/20030423003555/http://www.hocak.info/]
+
+=== The sounds of Ho-Chunk with example words<ref name=":02"/> ===
+
+{| class="wikitable IPA" style="text-align:center;"
+!Ho-Chunk Nation 
+of Wisconsin
+!Ho-Chunk Nation
+of Nebraska
+![[International Phonetic Alphabet|IPA]]
+!Example word
+|-
+|'''a'''
+|'''a'''
+|a, ʌ
+|''c'''a'''š'' ′tapping sound′
+|-
+|'''aa'''
+|'''ā'''
+|aː
+|''c'''aa''''' / ''c'''ā''''' ′deer′
+|-
+|'''ą'''
+|'''ą'''
+|ã, ʌ̃
+|''nįįp'''ą'''n'''ą''''' ′soup′
+|-
+|'''ąą'''
+|'''ą̄'''
+|ã:
+|''p'''ąą''''' / ''p'''ą̄'''''''' ′bag′''
+|-
+|'''b'''
+|'''b'''
+|b
+|'''''b'''oojaš'' / '''''b'''ōjaš'' ′marbles′
+|-
+|'''c'''
+|'''c'''
+|tʃ
+|'''''c'''aa'' / '''''c'''ā'' ′deer′
+|-
+|'''e'''
+|'''e'''
+|e, ɛ
+|''s'''e'''r'''e'''c'' ′(be) long′
+|-
+|'''ee'''
+|'''ē'''
+|eː, ɛː
+|''s'''ee'''p'' / ''s'''ē'''p'' ′(be) black′
+|-
+|'''g'''
+|'''g'''
+|g
+|'''''g'''aa'''g'''a'' / '''''g'''ā'''g'''a ′''grandma′
+|-
+|'''ǧ'''
+|'''ǧ'''
+|ɣ
+|'''''ǧ'''aak'' / '''''ǧ'''āk ′''(to) cry′
+|-
+|'''h'''
+|'''h'''
+|h
+|'''''H'''oocąk'' / '''''H'''ōcąk''  ′Ho-Chunk′
+|-
+|'''i'''
+|'''i'''
+|i
+|''k'''i'''r'''i'''k'''i'''r'''i'''š'' ′(be) striped′
+|-
+|'''ii'''
+|'''ī'''
+|iː
+|''c'''ii'''nąk'' / ''c'''ī'''nąk ′''village, town′
+|-
+|'''į'''
+|'''į'''
+|ĩ
+|''hoc'''į'''c'''į''''' ′boy′
+|-
+|'''įį'''
+|'''į̄'''
+|ĩ:
+|''p'''įį''''' / ''p'''į̄''''' ′(be) good′
+|-
+|'''j'''
+|'''j'''
+|dʒ
+|'''''j'''aasge'' / '''''j'''āsge'' ′how′
+|-
+|'''k'''
+|'''k'''
+|k
+|'''''k'''eecą'''k''''' / ''''''''k''''''ēcą'''k''''' ′turtle′''
+|-
+|'''k''''
+|'''k''''
+|k'
+|'''''k''''ee'' / '''''k''''ē'' ′(to) dig′
+|-
+|'''m'''
+|'''m'''
+|m
+|'''''m'''įįnąk'' / '''''m'''į̄nąk'' ′(to) sit′
+|-
+|'''n'''
+|'''n'''
+|n
+|'''''n'''įį'' / '''''n'''''į̄' ′water′
+|-
+|'''o'''
+|'''o'''
+|o
+|''x'''o'''r'''o''''' ′(to) snore′
+|-
+|'''oo'''
+|'''ō'''
+|o:
+|''c'''oo''''' / c'''ō''' ′(be) blue, green′
+|-
+|'''p'''
+|'''p'''
+|p
+|'''''p'''ąą'' / '''''p'''ą̄'' ′bag′
+|-
+|'''p''''
+|'''p''''
+|p'
+|'''''p''''oo'''p''''oš'' / '''''p''''ō'''p''''oš'' ′(be) fluffy′
+|-
+|'''r'''
+|'''r'''
+|r
+|'''''r'''oohą'' / '''''r'''ōhą'' ′a lot′
+|-
+|'''s'''
+|'''s'''
+|s
+|'''''s'''ii'' / '''''s'''ī''  ′foot′
+|-
+|'''s''''
+|'''s''''
+|s'
+|''ru'''s''''į'''s''''į'' ′(to) shiver, shake′
+|-
+|'''š'''
+|'''š'''
+|ʃ
+|'''''š'''uuc'' / '''''š'''ūc'' ′(be) red′
+|-
+|'''š''''
+|'''š''''
+|ʃ'
+|''ru'''š''''a'''š''''a'' ′(to) tickle′
+|-
+|'''t'''
+|'''t'''
+|t
+|'''''t'''aanį'' / '''''t'''ānį'' ′three′
+|-
+|'''t''''
+|'''t''''
+|t'
+|'''''t''''ąą'' / '''''t''''''ą̄' ′(to) fly′
+|-
+|'''u'''
+|'''u'''
+|u
+|''war'''u'''c'' ′(to) eat, food′
+|-
+|'''uu'''
+|'''ū'''
+|u:
+|''h'''uu''''' / ''hū'' ′leg′
+|-
+|'''ų'''
+|'''ų'''
+|ũ
+|''gig'''ų'''s'' ′(to) teach′
+|-
+|'''ųų'''
+|'''ų̄'''
+|ũ:
+|''h'''ųų'''c'' / ''h'''ų̄'''c'' ′bear′
+|-
+|'''w'''
+|'''w'''
+|w
+|'''''w'''aa'' / ''wā'' ′snow′
+|-
+|'''x'''
+|'''x'''
+|x
+|'''''x'''ee'' / '''''x'''ē'' ′(to) bury, hill′
+|-
+|'''x''''
+|'''x''''
+|x'
+|'''''x''''ooke'' / '''''x''''ōke'' ′parents′
+|-
+|'''y'''
+|'''y'''
+|j
+|''ii'''y'''aara'' / ī'''y'''āra ′(to) yawn′
+|-
+|'''z'''
+|'''z'''
+|z
+|'''''z'''ii'' / '''''z'''ī'' ′(be) yellow, brown′
+|-
+|'''ž'''
+|'''ž'''
+|ʒ
+|'''''ž'''uura'' / '''''ž'''ūra'' ′money, dollar′
+|-
+| 
+| 
+|ʔ
+|''wa'''''''ų'' ′(to) be, do′
+|}
+
+== Morphology ==
+
+=== Verb structure ===
+Ho-Chunk is an [[Agglutinative language|agglutinating]] and somewhat [[Fusional language|fusional]] language.  Verbs contain several [[affix]]es to indicate things like person, number, tense, and mood.
+
+==== Prefix field ====
+Ho-Chunk uses prefixes on a verb stem to mark [[Grammatical person|person]], [[locative case]], [[instrumental case]], [[benefactive case]], [[Reflexive case|reflexivity]] (including possessive reflexivity), and [[Reciprocal pronoun|reciprocality]].<ref>{{Cite book|title=Lessons from Endangered Languages|last=Helmbrecht|first=Johannes|last2=Lehmann|first2=Christian|publisher=Benjamins|year=2008|editor-last=Harrison|editor-first=David|location=Amsterdam|pages=271–317|chapter=Hocank's challenge to morphological theory|editor-last2=Rood|editor-first2=David|editor-last3=Dwyer|editor-first3=Ariane}}</ref>
+
+===== Person prefixes =====
+Ho-Chunk verbs are inflected with eight pronominal categories marked for [[Grammatical person|person]] and [[clusivity]].<ref name=":02"/> Ho-Chunk is a [[pro-drop language]]; pronouns are used very infrequently, and information on grammatical person is found on the verb in the form of one or more [[prefix]]es.
+# First person singular (abbreviated 1SG)
+# Second person singular (abbreviated 2SG)
+# Third person singular (abbreviated 3SG)
+# First person dual inclusive (abbreviated 1IN.DU)
+# First person inclusive plural (abbreviated 1IN.PL)
+# First person exclusive plural (abbreviated 1EX.PL)
+# Second person plural (abbreviated 2PL)
+# Third person plural (abbreviated 3PL)
+
+====== Person marking in transitive verbs ======
+Ho-Chunk's [[Transitive verb|transitive]] verbs are inflected with [[Agent (grammar)|agent]] (actor) and [[Patient (grammar)|patient]] (undergoer) [[pronominal]]s. The generic paradigm of the pronominal prefixes in transitive verbs<ref name=":02"/> is outlined below. The letter V stands in the place of the [[verb stem]].:
+{| class="wikitable"
+|+Transitive verb pronominal prefixes
+!
+! colspan="9" |Patient
+|-
+! rowspan="9" |'''Actor'''
+|
+!1SG
+!2SG
+!3SG
+!1IN.DU
+!1IN.PL
+!1EX.PL
+!2PL
+!3PL
+|-
+!1SG
+|
+|nįį-V
+|∅-ha-V
+|
+|
+|
+|nįį-V-wi
+|wa-ha-V
+|-
+!2SG
+|hį-ra-V
+|
+|∅-ra-V
+|
+|
+|hį-ra-V-wi
+|
+|wa-ra-V
+|-
+!3SG
+|hį-∅-V
+|nį-∅-V
+|∅-∅-V
+|wąąga-∅-V
+|wąąga-∅-V-wi
+|hį-∅-V-wi
+|nį-∅-V-wi
+|wa-∅-V
+|-
+!1IN.DU
+|
+|
+|hį-∅-V
+|
+|
+|
+|
+|hį-wa-V
+|-
+!1IN.PL
+|
+|
+|hį-∅-V-wi
+|
+|
+|
+|
+|hį-wa-V-wi
+|-
+!1EX.PL
+|
+|nįį-V-wi
+|∅-ha-V-wi
+|
+|
+|
+|nįį-V-wi
+|wa-ha-V-wi
+|-
+!2PL
+|hį-ra-V-wi
+|
+|∅-ra-V-wi
+|
+|
+|hį-ra-V-wi
+|
+|wa-ra-V-wi
+|-
+!3PL
+|hį-V-ire
+|nį-V-ire
+|∅-V-ire
+|wąąga-V-ire
+|wąąga-V-ire-wi
+|hį-V-ire-wi
+|nį-V-ire-wi
+|wa-V-ire
+|}
+In this table, the null symbol (∅) is used to represent all third person singular actor and patient pronominals.  It indicates that there is no overt prefix for those pronominals (in other words, that they are [[null morpheme]]s).  Some cells are left blank because there are no pronominal affixes associated with that particular person/number combination.  In cases like these, the action is [[Reflexive verb|reflexive]] (i.e. I do something to myself, or you (plural) do something to yourselves).  Reflexivity in Ho-Chunk is indicated with another prefix, ''kii''-.
+
+The sounds in the prefixes run together in casual speech, often leading to the deletion of the /h/ consonant and thus a long vowel or [[diphthong]].  This is evident in the example ''waakere'' 'I put them (standing),' in which the third person plural patient prefix ''wa''- merges with the first person actor prefix ''ha''-, producing ''waa''-.
+
+====== Person marking in intransitive verbs ======
+Ho-Chunk's [[Intransitive verb|intransitive]] verbs fall into three main types: intransitive [[Active verb|active]] verbs, intransitive [[Stative verb|stative]] verbs, and intransitive 'third person-only' verbs.<ref name=":02"/>
+
+Intransitive active verbs are those which involve only human or animate agent(s). An example is ''šgaac'' 'play,' which is inflected for person and number as follows:
+{| class="wikitable"
+|+Person and number marking paradigm 
+for intransitive action verb ''šgaac''
+!
+!
+!Ho-Chunk verb
+!Translation
+|-
+! rowspan="8" |Agent
+!1SG
+|hašgac (ha-šgac)
+|'I play'
+|-
+!2SG
+|rašgac (ra-šgac)
+|'you play'
+|-
+!3SG
+|šgaac (∅-šgac)
+|'he or she plays'
+|-
+!1IN.DU
+|hįšgac (hį-šgac)
+|'you and I play'
+|-
+!1IN.PL
+|hįšgacwi (hį-šgac-wi)
+|'we (inclusive) play'
+|-
+!1EX.PL
+|hašgacwi (ha-šgac-wi)
+|'we (exclusive) play'
+|-
+!2PL
+|rašgacwi (ra-šgac-wi)
+|'you (plural) play'
+|-
+!3PL
+|šgaacire (šgaac-ire)
+|'they play'
+|}
+Intransitive stative verbs involve an action affecting a patient.  This is characteristic of the verb ''š'aak'' 'to be old':
+{| class="wikitable"
+|+Person and number marking paradigm
+for intransitive stative verb ''š'aak''
+!
+!
+!Ho-Chunk verb
+!Translation
+|-
+! rowspan="8" |Patient
+!1SG
+|hįš'ak (hį-š'ak)
+|'I am old'
+|-
+!2SG
+|nįš'ak (nį-š'ak)
+|'you are old'
+|-
+!3SG
+|š'aak (∅-š'aak)
+|'he or she is old'
+|-
+!1IN.DU
+|wąągaš'ak (wąąga-š'ak)
+|'you and I are old'
+|-
+!1IN.PL
+|wąągaš'akwi (wąąga-š'ak-wi)
+|'we (inclusive) are old'
+|-
+!1EX.PL
+|hįš'akwi (hį-š'ak-wi)
+|'we (exclusive) are old'
+|-
+!2PL
+|nįš'akwi (nį-š'ak-wi)
+|'you (plural) are old'
+|-
+!3PL
+|š'aakire (š'aak-ire)
+|'they are old'
+|}
+Intransitive third-person-only verbs designate states and properties of mostly inanimate things, such as "(to) be delicious" or "(to) be expensive."  They can only be inflected for third person singular or third person plural subjects (e.g. ''ceexi'' (∅-ceexi) 'it is expensive' or ''ceexire'' (ceexi-ire) 'they are expensive').
+
+===== Locative prefixes =====
+Ho-Chunk has two locative prefixes, ''ha-'' 'on' or 'onto,' and ''ho-'' 'in' or 'into.' These prefixes were first described by William Lipkind in his 1928 grammar of the language<sup>[11]</sup> . The prefixes are added to a verb stem as seen in the examples below:
+
+{{interlinear|indent=3
+|mįįk → '''ha'''mįk
+|{to lie (somewhere)} → {to lie on top of}|}}
+{{interlinear|indent=3
+|mįįk → '''ho'''mįk
+|{to lie (somewhere)} → {to lie in}|}}
+
+A locative prefix may derive a noun, a verb, or both.  This is true for ''homįk'', which can refer to a verb 'to lie in' or a noun 'bed.'  More recent learning materials refer to the ''ha-'' prefix as a [[Superessive case|superessive]] [[Applicative voice|applicative]] marker, and the ''ho-'' prefix as an [[Inessive case|inessive]] [[Applicative voice|applicative]] marker.<ref name=":02"/>
+
+===== Instrumental prefixes =====
+Ho-Chunk has a set of instrumental prefixes which indicate that an action is accomplished by means of some instrument, force, or special type of instrumental movement.  These prefixes are translated into English with such phrases as 'by foot,' 'by hand,' or 'by striking.' Some sources list eight instrumental prefixes in Ho-Chunk,<ref name=":02"/><ref>{{Cite web|url=http://content.wisconsinhistory.org/cdm/ref/collection/tp/id/28275|title=Winnebago Grammar :: Turning Points in Wisconsin History|website=content.wisconsinhistory.org|access-date=2016-04-29}}</ref> while others recognize a ninth ''nąą''- 'by internal force' (phonologically identical to ''nąą''- 'by foot').<ref>{{Cite book|title=Hoocąk Hit'ekjawi!|last=Garvin|first=Cecil|last2=Hartmann|first2=Iren|publisher=Ho-Chunk Nation|year=2006|location=Mauston, WI}}</ref><ref>Hartmann, Iren (2012). Valency classes in Hoocąk (Siouan). Max Planck Institute for Evolutionary Anthropology, Leipzing, Germany</ref> These prefixes are listed first with their English translation, then paired with a stem ''wax'' 'to break, cut or sever a string-like object':
+{| class="wikitable"
+|+Instrumental prefixes
+!
+!Instrumental prefix
+!English translation
+|-
+! rowspan="4" |Inner
+|''gi-''
+|'by striking'
+|-
+|''ra-''
+|'with the mouth, with the teeth'
+|-
+|''ru-''
+|'by hand'
+|-
+|''wa-''
+|'by pressure, by pushing'
+|-
+! rowspan="5" |Outer
+|''boo-''
+|'by shooting, by blowing, by force'
+|-
+|''mąą-''
+|'by cutting'
+|-
+|''nąą(1)-''
+|'by foot'
+|-
+|''nąą(2)-''
+|'by internal force'
+|-
+|''taa-''
+|'by extreme temperature'
+|}
+{| class="wikitable"
+|+Instrumental prefixes paired with stem ''wax''
+!Ho-Chunk verb
+!English translation
+|-
+|''giwax''
+|'break string in two by striking'
+|-
+|''rawax''
+|'bite string in two'
+|-
+|''ruwax''
+|'break string in two by pulling'
+|-
+|''wawax''
+|'break string by downward pressure'
+|-
+|''boowax''
+|'shoot string in two'
+|-
+|''mąąwax''
+|'cut string in two'
+|-
+|''nąąwax''
+|'break string in two by foot'
+|-
+|''nąąwax''
+|'string breaks of own accord'
+|-
+|''taawax''
+|'string is burned in two'
+|}
+The instrumental prefixes are identified as 'Inner' or 'Outer' due to their position relative to other prefixes attaching to the verb stem.  Inner prefixes are closer to the verb stem, while outer prefixes are farther away on the left edge of the word.  Instrumental prefixes are found in all Siouan languages,<ref>{{Cite web|url=http://csd.clld.org/|title=Comparative Siouan Dictionary -|website=csd.clld.org|access-date=2016-04-29}}</ref> and it is theorized that outer instrumentals originated as nouns or [[Nominalization|nominalized]] stems.<ref>Rankin, Robert L. 2008. Instrumental prefixes in the Siouan Languages. Paper presented at the 3rd Workshop on Comparative Siouan Syntax in conjunction with the 28th Siouan and Caddoan Languages Conference. Missouri Southern State University, Joplin MO.</ref>
+
+==== Suffix field ====
+Ho-Chunk's suffixes mark [[Grammatical number|number]], [[Grammatical tense|tense]], [[Grammatical mood|mood]], [[Negation (linguistics)|negation]], and [[Grammatical aspect|aspect]].
+
+== Syntax ==
+
+=== Basic word order ===
+Like other Siouan languages, Ho-Chunk's basic word order is [[Subject-Object-Verb]] (SOV).An example of a typical sentence is ''Hinųkra wažątirehižą ruwį'' 'The woman bought a car.'  In a sentence with two [[Object (grammar)|objects]], such as ''Hinųkiža hocįcįhižą wiiwagaxhižą hok'ų'' 'A girl gave a boy a pencil,' the canonical word order is Subject-Indirect Object-Direct Object-Verb.  Word order is relatively free in Ho-Chunk; however, while a word order such as ''Wažątirehižą, hinųkra ruwį'' 'The woman bought a car' is permissabie, the change from the basic neutral word order of SOV requires a prosodic pause indicated by a comma.<ref name=":2">Johnson, Meredith; Thompson Lockwood, Hunter; Rosen, Bryan; and Schuck, Mateja. 2012. ''A Preliminary Sketch of Hocąk Syntax''. Siouan and Caddoan Languages Conference, Lawrence, Kansas.</ref>  Without this pause, an interpretation 'A car bought the woman' is possible, though highly unlikely.
+
+=== Negation ===
+Negative phrases are expressed with a particle, such as ''hąąke'' 'not' or ''hąkaga'' 'never' paired with the suffix/[[enclitic]] -''nį'' 'not.'  Both elements are required in such phrases: the particle precedes the verb phrase, while -''nį'' is suffixed to the verb.  The following examples demonstrate this construction:<ref name=":2" />
+
+{{interlinear|number=ex:
+|top= Wąąkra hąąke heepšįnį <!-- Wąąkra heepšįnį  -->
+|wąąk-ra heepšį-nį
+|man-the sneeze-NEG
+|'The man did not sneeze.'}}
+
+{{interlinear|number=ex:
+|top= Hąkaga t'eehaanį wa'ųaje <!-- Hąkaga waką t'eehaanį wa'ųąje.-->
+|hąkaga t'ee-haa-nį wa'ų-ha-jee
+|never die-1.cause-NEG aux-1SG-POS.VERB
+|'I never kill snakes.'}}
+
+== Language revitalization ==
+Although the language is highly endangered, there are currently vigorous efforts underway to keep it alive in Ho-Chunk communities.  In Wisconsin, the [https://www.hoocak.org/ Hocąk Wazija Haci Language Division] runs several language classes, an immersion daycare, and a language apprentice program.<ref>{{Cite news
+| title = Video: Wisconsin Media Lab Releases Fifth Installment, Language Apprentice
+| work = Indian Country Today Media Network
+| access-date = 2013-05-07
+| date = 2013-04-27
+| url = https://indiancountrytodaymedianetwork.com/2013/04/27/video-wisconsin-media-lab-releases-fifth-installment-language-apprentice-149011
+}}</ref> In Nebraska, the Ho-Chunk Renaissance program teaches the language in local and reservation schools.  Both tribal governments recognize the importance of technology in language learning, and are active in Facebook and YouTube to reach the younger generation of learners.  A "Ho-Chunk (Hoocąk) Native American Language app" is available for [[iPhone]], [[iPad]], and other [[iOS]] devices.<ref>{{Cite web
+| title = App Shopper: Ho-Chunk (Hoocąk) Native American Language for iPhone/iPod Touch (Education)
+| access-date = 2012-09-12
+| url = http://appshopper.com/education/ho-chunk-hoocak-native-american-language-for-iphoneipod-touch
+}}</ref> Language is a crucial aspect of Ho-Chunk culture:
+
+<blockquote>"Within a lot of Native American cultures, language and culture go together," Lewis St. Cyr, [[language program director]] for the Ho-Chunk, said. "You can't have culture without language and you can't have language without culture. The importance of it is of who we are."<ref>{{Cite web|url=http://www.washingtontimes.com/news/2015/dec/5/ho-chunk-tribe-looks-to-revitalize-language/?page=all|title=Ho-Chunk Tribe looks to revitalize language}}</ref>
+</blockquote>
+
+==Notes==
+{{reflist}}
+
+==References==
+*''Hocąk Teaching Materials'' (2010). ''Volume 1: Elements of Grammar/Learner's Dictionary''. Helmbrecht, J., Lehmann, C., SUNY Press, {{ISBN|1-4384-3338-7}}.  ''Volume 2: Texts and Audio-CD'', Hartmann, I., Marschke, C.  SUNY Press, {{ISBN|1-4384-3336-0}}
+
+==External links==
+*[http://www.baraboopubliclibrary.org/files/local/wardvol1/05%20Ho-Chunk%20and%20Winnebgo%20Explained%20-%20About%20Section%20AA.pdf Ho-Chunk and Winnebago Explained]
+*[http://www.mpi.nl/DOBES/projects/hocank/ Hocank Language], Documentation of Endangered Languages website (DOBES in German)
+*[https://web.archive.org/web/20030423003555/http://www.hocak.info/ Hoocąk Waaziija Haci Language and Culture Division], Ho-Chunk Nation (of Wisconsin) website, extensive materials about Hoçak language and restoration efforts
+*[http://content.wisconsinhistory.org/cdm4/document.php?CISOROOT=/tp&CISOPTR=28275&CISOSHOW=28201 William Lipkind, "Winnebago Grammar"], Wisconsin History
+*[https://www.christianlehmann.eu/publ/ASSidUE21.pdf Hocąk-English/English-Hocąk Learner's Dictionary] , Second Edition, edited by Johannes Helmbrecht & Christian Lehmann, 2006, University of Erfurt 
+*[https://www.memrise.com/course/5450/beginning-hocak/ Beginning Hocąk on Memrise] , based on Wisconsin Hocąk; phrases and vocabulary
+
+{{Siouan languages}}
+{{Languages of Minnesota}}
+
+{{DEFAULTSORT:Winnebago Language}}
+[[Category:Ho-Chunk]]
+[[Category:Indigenous languages of Minnesota]]
+[[Category:Endangered Siouan-Catawban languages]]
+[[Category:Native American language revitalization]]
+[[Category:Western Siouan languages]]
+[[Category:Endangered indigenous languages of the Americas]]

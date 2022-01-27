@@ -1,0 +1,141 @@
+{{Infobox language
+|name=Obokuitai
+|nativename=''Aliki''
+|states=[[Indonesia]]
+|region=''Obogwi'' village in East Central Mambermano District, [[Mamberamo Raya Regency]], Papua
+|speakers=120
+|date=2000
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Lakes Plain languages|Lakes Plain]]
+|fam2=Central
+|fam3=Obokuitai–Eritai
+|iso3=afz
+|glotto=obok1239
+|glottorefname=Obokuitai
+}}
+
+'''Obokuitai''' (Obogwitai) is a [[Lakes Plain languages|Lakes Plain language]] of [[Papua (province)|Papua]], [[Indonesia]]. It is named after ''Obogwi'' village in East Central Mambermano District, [[Mamberamo Raya Regency]].<ref name="Ethnologue22-ID">{{cite web |url=https://www.ethnologue.com/country/ID/languages |title=Indonesia languages |work=[[Ethnologue]]: Languages of the World |edition=22nd |editor1-last=Eberhard |editor1-first=David M. |editor2-last=Simons |editor2-first=Gary F. |editor3-last=Fennig |editor3-first=Charles D. |date=2019 |location=Dallas |publisher=[[SIL International]]}}</ref>
+
+Obokuitai, [[Sikaritai language|Sikaritai]], and [[Eritai language|Eritai]] constitute a [[dialect cluster]].
+
+== Phonology ==
+The following discussion is based on Jenison & Jenison (1991).<ref>{{Cite journal|last=Jenison|first=Scott|last2=Jenison|first2=Priscilla|year=1991|title=Obokuitai phonology|journal=Workpapers in Indonesian languages and cultures|volume=9|pages=69–90}}</ref>
+
+Unusual phonological features of Obokuitai and other Lakes Plain languages are the complete lack of nasals, even allophones, and a series of extra high or fricativized vowels that developed from loss of a following stop consonant.<ref>{{Cite journal|last=Clouse|first=Duane|year=1997|title=Toward a reconstruction and reclassification of the Lakes Plain languages of Irian Jaya|journal=Papers in Papuan Linguistics|volume=2|pages=133–236}}</ref> Obokuitai has one of the smallest phonemic inventories in the world, equal to the [[Pirahã language|Pirahã]] and [[Rotokas]] languages. 
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center;"
+!
+!Labial
+!Coronal
+!Velar
+!Glottal
+|-
+!Stop
+|{{IPA link|b}}
+|{{IPA link|t}}   {{IPA link|d}}
+|{{IPA link|k}}
+|
+|-
+!Fricative
+|
+|{{IPA link|s}}
+|
+|{{IPA link|h}}
+|}
+
+The small consonant inventory is typical of Lakes Plain languages.
+
+Obokuitai does have some more sounds as allophones. 
+The voiced velar stop, [g], occurs syllable initial following a syllable final /k/. For example, /dikka/ -> [digga], 'husband of wife's sister'.
+
+The voiced alveolar tap or flap, [ɾ], occurs between vowels in the syllable initial position and also as the second member of a consonant cluster in the syllable initial position. For example, /bɛda/ -> [bɛɾa], 'kind of sweet potato'.<ref>Jenison, Scott; Jenison, Priscilla (1991). "Obokuitai phonology". Workpapers in Indonesian languages and cultures. 9: 69–90.</ref>
+
+=== Vowels ===
+Obokuitai has five vowels.
+
+{| class="wikitable" style="text-align:center;"
+!
+!Front
+!Back
+|-
+!High
+|{{IPA link|i}}
+|{{IPA link|u}}
+|-
+!Mid
+|{{IPA link|ɛ}}
+|{{IPA link|o}}
+|-
+!Low
+|colspan=2|{{IPA link|a}}
+|}
+
+=== Tone ===
+Like the other [[Lakes Plain languages|Lakes Plain]] languages, Obokuitai is [[Tone (linguistics)|tonal]]. L, H, and HL pitch contours occur on monosyllabic words. A phonological analysis of the tone system remains to be completed. However, the probable phonemic aspect of the tone is shown through the minimal triad ''kuik<sup>1</sup>'' 'rock', ''kuik<sup>2</sup>'' 'insect' (sp.) and ''kuik<sup>12</sup>'' 'lizard' (sp.).<ref>UC Berkeley Phonology Lab Annual Report (2009), ''The Representation of Tone'', Larry M. Hyman, University of California, Berkeley. Available online at http://linguistics.berkeley.edu/phonlab/documents/2009/Hyman_Representation_PLAR.pdf.</ref>
+
+==Pronouns==
+Possessive pronouns in Obokuitai are:<ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433-568 |isbn=978-3-11-028642-7}}</ref>
+
+{| class="wikitable"
+!  !! sg !! pl
+|-
+! 1
+| i ba || èdo
+|-
+! 2
+| do || deo
+|-
+! 3
+| colspan="2" style="text-align: center;" | o
+|}
+
+==Verbs==
+Obokuitai has three verbal prefixes, which are:<ref name="Foley-NWNG"/>{{rp|538}}
+*''ha''-: reciprocal
+*''ke''-: causative
+*''be''-: applicative
+
+Some examples of verbs with the prefixes, as compared to the verb roots without them:<ref name="Foley-NWNG"/>{{rp|538}}
+{{interlinear|indent=3|lang=afz
+|didde → '''ke'''-didde
+|run {} send|}}
+{{interlinear|indent=3|lang=afz
+|kúdde → '''be'''-kúdde
+|talk {} {talk to someone}|}}
+{{interlinear|indent=3|lang=afz
+|tokoidde → '''be'''-tokoidde
+|throw {} {throw directly at something}|}}
+{{interlinear|indent=3|lang=afz
+|kdidde → '''be'''-kdidde
+|pull {} {pinch and pull back a bowstring with tautness}|}}
+{{interlinear|indent=3|lang=afz
+|tdaid → '''be'''-tdaid
+|{cut with a machete} {} {poke, stab, inject}|}}
+
+There are two aspectual verbal suffixes:<ref name="Foley-NWNG"/>{{rp|538}}
+*-''kua'': imperfective
+*-''di'' ~ -''ei'' ~ ''Ø'': perfective
+
+These also have "background" forms, used with what Foley refers to as "backgrounded collateral clauses".<ref name="Foley-NWNG"/>{{rp|538}}
+*-''hoíd'': imperfective
+*-''hi'': perfective
+
+==Particles==
+Final particles in Obokuitai:<ref name="Foley-NWNG"/>{{rp|538-539}}
+*''ke'': exclamatory
+*''ia'': certainty
+*''te ~ toi'': imperative
+*''bi'': yes-no interrogative
+*''se'': information interrogative
+*''beid'': negative
+
+==References==
+{{Reflist}}
+
+{{Languages of Indonesia}}
+{{Lakes Plain languages}}
+
+[[Category:Lakes Plain languages]]
+[[Category:Languages of western New Guinea]]

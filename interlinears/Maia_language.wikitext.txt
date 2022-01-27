@@ -1,0 +1,391 @@
+{{Short description|Croisilles language spoken in Papua New Guinea}}
+{{distinguish|Maya language}}
+{{Infobox language
+  |name=Maia
+  |altname=Pila
+  |nativename=''Saki''
+  |ethnicity=
+  |region=[[Madang Province]], [[Papua New Guinea]]
+  |speakers={{sigfig|4350|2}} 
+|date=2000 census
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Trans–New Guinea languages|Trans–New Guinea]]?
+|fam2=[[Madang languages|Madang]]
+|fam3=[[Croisilles languages|Croisilles]]
+|fam4=Northwest Adelbert Range
+|fam5=[[Kaukombar languages|Kaukombar]]
+|iso3=sks
+|glotto=maia1254
+|glottorefname=Maia
+}}
+
+'''Maia''' (also spelled '''Maya''') is a [[Papuan languages|Papuan language]] spoken in the [[Madang Province]] of [[Papua New Guinea]], and is a member of the [[Trans–New Guinea languages|Trans-New Guinea]] language family.<ref name=":04">{{cite book|last1=Hardin|first1=Barbara|title=Maia Grammar Essentials|date=June 2002}}</ref> It has a language endangerment status of 6a, which means that it is a vigorous and sustainable language spoken by all generations. According to a 2000 census, there are approximately 4,500 living speakers of the language, who are split between twenty-two villages in the Almani district of the [[Bogia District|Bogia]] sub-district.<ref name=":1">{{Cite web|title=Maia|url=https://www.ethnologue.com/language/sks|access-date=2019-04-19|website=Ethnologue|language=en}}</ref>
+
+There are variations in the Maia spoken between villages, but they can be generally categorized into two primary dialects. Of these two dialects, the Main Dialect accounts for approximately three-fourths of speakers and the Southern Dialect accounts for the remaining one-fourth. Variations of the Main Dialect tend to be predictable with only minor variations in pronunciation. The information presented in this article is based on the Wagedav dialect, a sub-dialect of the Main Dialect spoken in the Wagedav village.<ref name=":04"/>
+
+Other names for the language are Banar, Pila, Saki, Suaro, Turutap, and Yakiba.
+
+== Phonology ==
+The phonemic inventory of Maia is fairly small, as is typical of languages from Papua New Guinea.
+
+In some cases, vowels and consonants are modified or deleted across morphemes in a word. These morphophonemic rules are detailed in this section.
+
+=== Consonants ===
+The following table details these consonant phonemes and allophones for each, if any.<ref name=":04"/>{{Rp|10}}
+{| class="wikitable"
+|+
+!
+!Bilabial
+!Dental
+!Alveolar
+!Palatal
+!Velar
+|-
+!Plosives: Voiceless
+
+Voiced
+|p
+[p, pʰ, p̚ ]
+
+b
+
+[b, p]
+|t̪
+[t̪, t̪ʰ, t̪̚ ]
+
+d̪
+
+[d̪, t̪ ]
+|
+|
+|k
+[k, kʰ, k̚ ]
+
+g
+
+[g, ɣ, k]
+|-
+!Nasal
+|m
+|
+|n̪
+|
+|(ŋ)
+|-
+!Flap
+|
+|
+|ɾ
+[r, ɾ, ɾ̻ ]
+|
+|
+|-
+!Fricative
+|β
+[β, ɸ]
+|s̪
+[s̪, ɕʷ ]
+|
+|
+|
+|-
+!Approximant
+|
+|
+|
+|j
+|
+|-
+!Lateral Approximant
+|
+|
+|l
+|
+|
+|}
+The voiced labiovelar approximant /w/ is the sole multi-place consonant in Maia.
+
+=== Vowels ===
+Maia contains the five basic vowel phonemes in the chart below:<ref name=":04"/>
+{| class="wikitable"
+|+
+!
+!Front
+!Central
+!Back
+|-
+!Close
+|i
+|
+|u
+|-
+!Mid
+|ɛ
+|
+|ɔ
+|-
+!Open
+|
+|a
+|
+|}
+
+=== Syllable Structure ===
+Possible syllable structures in Maia are illustrated in the chart below. Onsets in Maia can end with a vowel, while codas can end in either a vowel or consonant.<ref name=":04"/>
+{| class="wikitable"
+|+
+!Template
+!Example
+!Phonetic
+!Translation
+|-
+!V onset
+|enara (p.&nbsp;12)
+|/'''ɔ'''.n̪a.ɾa/
+|there
+|-
+!CV onset
+|waraba (p.&nbsp;26)
+|/'''wa'''.ɾa.βa/
+|edge
+|-
+!CCV onset
+|muira (p.&nbsp;15)
+|/'''mwi'''.ɾa/
+|boy
+|-
+!CVC
+|yag (p.&nbsp;23)
+|/'''jag'''/
+|water
+|-
+!CV coda
+|muata (p.&nbsp;19)
+|/mwa.'''t̪a'''/
+|custom
+|-
+!CVC coda
+|inavat (p.&nbsp;19)
+|/in.a.'''βat'''/
+|always
+|}
+
+=== Morphophonemic Rules ===
+
+==== Vowel Deletion ====
+There are two instantiations of this rule. The first instance applies to adjacent vowels in a verb: when two vowels are adjacent to each other at the junction of two morphemes within a verb, the first vowel is deleted. For example, 'he is eating' is not ''{{'}}nimɛ - a{{'}}'', as the 'ɛ' is deleted to give ''{{'}}nima{{'}}'' (p.&nbsp;11).<ref name=":04"/>
+
+The second instance is more general: when there are two identical vowels adjacent to each other at the junction of two morphemes within any word, one is deleted. For example, 'he worked' is not '<nowiki/>''malip-a-a' ,'' as one 'a' is deleted to give ''{{'}}malipa{{'}}'' (p.&nbsp;11).<ref name=":04"/>
+
+==== Vowel Harmony ====
+In words with two verb suffixes, the vowel in the final suffix is repeated in the penultimate suffix. For example, 'I heard' is not ''<nowiki/>'damɛ - mi'<nowiki/>'' but is instead ''<nowiki/>'damimi''' (p.&nbsp;12).<ref name=":04"/>
+
+==== Consonant Deletion ====
+The consonant deletion rule applies to a few select clitics: ''-gat, -di, -no, -waka.'' When these clitics are appended to the end of another word that ends in a consonant, the initial consonant of the clitic is deleted. For example, 'always' is not '''inaβ - gat'<nowiki/>'' but is ''<nowiki/>'inaβat'<nowiki/>'' (p. 12).<ref name=":04"/>
+
+== Morphology ==
+Maia is a [[Synthetic language|synthetic]] [[Fusional language|fusional]] language, in which word-building is accomplished primarily through clitics and derivational affixes.
+
+Maia does not have case markings, but does have agreement between nouns and their adjectives and between verbs and their objects.<ref name=":04"/>
+
+=== Clitics ===
+Clitics are an especially common means of word-building in Maia. Some clitics can be combined sequentially to produce a cumulative meaning, as in the case of combining the contrast marker clitic ''=(d)i'' and the topic marker ''=(n)o'' to indicate a topic that is in contrast with something else. The upper limit on the number of clitics that can be combined appears to be three.<ref name=":04"/>
+
+The following table summarizes the clitics in the Maia language. Consonants in parentheses are typically included only if the word to which the clitic is appended ends in a vowel.
+{| class="wikitable"
+|+
+!Clitic
+!Function
+!Examples
+|-
+|=(w)aka
+|
+# Limitation marker
+# Adverbializer
+|
+# Depending on the context it is placed in, can indicate limitations such s 'just', 'only', alone', 'exactly', 'completely', 'absolutely'.
+# The adverb 'lovaka' ('well') is derived from the noun 'lov' ('good').
+|-
+|=(g)at
+|
+# Comitative marker to indicate an association or possession
+# Adverbializer
+# Nominalizer
+|
+# Appending =(g)at to the end of a name indicates that something is with that named individual.
+# 'toromo' ('new'); 'toromogato' (firstly)
+# 'ukum' ('head'); 'ukumat' ('leader')
+|-
+|=yag
+|Collective marker
+|'bisibis' ('descendants'); 'bisibisyag' ('descendants' (collectively))
+|-
+|=mate
+|Manner marker to indicate similarity
+|''<nowiki/>'wageva onomate''' means 'like the cockatoo': 'wageva' means 'cockatoo', 'ono' indicates a reference to a third person singular object. So, 'onomate' means 'like the [insert object]' 
+|-
+|=ga
+|Specific locative marker to indicate a location, position, time frame, origin, or recipient. This can be both in the literal or abstract sense. In all of these cases, it refers to a defined object.
+|Literal example: 
+ya u-parar=<u>ga</u>
+
+water 3s-on.top.of=LOC1
+
+'<u>on top of</u> the water'
+
+Abstract example:
+
+no-nor viol lovavan ono u-podav=<u>ga</u>
+
+2s-INTP curse very.good D1 3s-under=LOC1
+
+'<u>under</u> your blessing'
+|-
+|=ra
+|
+# Non-specific locative marker to indicate an approximate or unspecific location, time, motion. In all of these cases, it refers to a more vague object.
+# Indicator of the addition of numbers, as Maia only has unique words for numbers one through five.
+|
+# 'muanigo' means 'today', and 'muanigora' means 'sometime today'.
+# anuv igur=ga kuvik=<u>ra</u> duwa=ga
+
+time five=LOC1 other.side=LOC2 one=LOC1
+
+'on the sixth day' (''lit'' 'on the five ''<u>plus</u>'' one day')
+|-
+|=(n)o
+|Topic marker to indicate referential information. This clitic frequently marks the subject of the clause.
+|Yo-nor awn winim=o Dasti
+1s=INTP dog name=TP Dasti
+
+'My dog's name is Dasti.'
+|-
+|=(d)i
+|Contrast marker to indicate a shift or contrast in the clause.
+|No=no ta kenai=di av-inek+an-ini di=no yo=no wabona=di avio...
+2s=TP DIR left=CT go-DES.s+say-IR.2s DS=TP 1s=TP right=CT go-IR.1s
+
+'If you want to go to the left, I'll go the right.'
+|-
+|=git
+|Contrafactual marker to indicate what did not or could not happen.
+|Ma-ne=mate=waka, wi-nor nada maia bu badaka u-dogo=waka lovavan onor=aka katu ilika-mo=git.
+E-do=MN=LIM 3p-INTP child PL AD1 all 3s-straight-LIM very.good INTS=LIM enough/able come.up-RL.1s/3p=CFT.
+
+'In view of that, all of their children too could have come up really good and straight (but they didn't).'
+|-
+|=ma
+|Emphatic marker used to emphasize a prominent person or situation in a clause.
+|''=ma'' can be appended to the end of a person's name to signal importance, as in the name Abram: 'Abramma'
+|-
+|=na
+|Attention marker used to signal to the audience that the next statement will be important. It can be used to indicate the turning point of a story, for example. It is placed at the end of the statement preceding the important one.
+|Avia-sa wae=ra ilika-mi bada imara-sa=<u>na</u> sae nam buas+u-simi
+go-SEQ garden=LOC2 come.up-RL.1p SS meet-SEQ=ATN garden tree cut+3s-give.RL.1p
+
+'We went and arrived in the garden, then we met (and) we cut garden trees for him.' (The cutting of the garden trees is a critical point in the story.)
+|}
+
+=== Derivational affixes ===
+Affixes in Maia are predominantly derivational suffixes.
+
+The nominalizing suffix -''arav'' can be used to create nouns from verb roots. For example, 'wadib' means 'to argue', but 'wadib-arav' means 'the arguing' (p.&nbsp;40).<ref name=":04"/>
+
+The verbalizing suffix ''-(n)a'' can be used to create verbs from nouns and adjectives, as in the case of the word for white, 'waia' (p.&nbsp;45):<ref name=":04"/>{{interlinear|waia-g-a|white-VR2-RL.3s|‘is/became clean’|lang=jig|indent=3|spacing=3|abbreviations=VR2:derived stative/process verbalizer; RL:realis mood}}
+
+There are four classes of derived causative verb suffixes, which may be affixed to the end of a preexisting verb root to emphasize a causal relationship. These suffixes are ''-tate, -te, -rate,'' and ''-de''. For example, 'ebe' ('wake up') is the progenitor of 'ebetate' ('to wake up (somebody)') (p.&nbsp;46).<ref name=":04"/>
+
+=== Non-derivational affixes ===
+The only class of non-derivational affixes in Maia are possessor prefixes. These prefixes are appended in front of an adjective to indicate the possessor of the noun, as summarized in the table below. The distinction between singularity and plurality is established with a difference in stress patterns.<ref name=":04"/>
+{| class="wikitable"
+|+
+!Person Prefix
+!Usage
+|-
+|''i-''
+|1st person singular
+|-
+|''ni-''
+|2nd person singular
+|-
+|''u-''
+|3rd person singular
+|-
+|''<nowiki/>' i-''
+|1st person plural
+|-
+|''<nowiki/>' ni-''
+|2nd person plural
+|-
+|''<nowiki/>' wi-''
+|3rd person plural
+|}
+These prefixes indicate that an adjective "belongs" to the object being described. In the following example, the prefix ''u-''indicates that the quality of being short belongs to the tree (p.&nbsp;59).<ref name=":04"/>{{interlinear|nanam u-kabu|tree 3s-short|'short tree'|lang=jig|indent=3|spacing=2}}These prefixes are also frequently, but not always, appended to verbs to indicate the recipient of an action. Transitive verbs with objects require the presence of such a prefix, while intransitive verbs are more variable. The following example illustrates this (p.&nbsp;43):<ref name=":04"/>{{interlinear|Muado ono-na-di wi-nor muata <u>u</u>-mias-a.|Man D1-ATN-CT 3p-INTP custom 3s-follow-RL.3s|'That man followed their custom.'|lang=jig|indent=3|spacing=2|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun}}
+
+=== Compounds ===
+There are a few words in Maia in which two existing nouns are combined to give rise to a new word. This includes compounds such as '<nowiki/>''muado nanum'<nowiki/>'': separately, '<nowiki/>''muado''<nowiki/>' means 'man' and '<nowiki/>''nanum''<nowiki/>' means 'woman', but compounding together gives rise to the new meaning of 'people' (p.&nbsp;41). Similarly, '<nowiki/>''kakape''<nowiki/>' ('bee') and '<nowiki/>''yag''<nowiki/>' ('water') together are the compound word '''kakapeyag''<nowiki/>' ('honey') (p.&nbsp;42).<ref name=":04"/>
+
+=== Reduplication ===
+Full or partial reduplication of nouns in Maia can indicate plurality, a diminutive form of the original word or alternatively, the derived adverb form of the word. The Maia word '<nowiki/>''kuvik''<nowiki/>' ('side') can be repeated as '<nowiki/>''kuvik kuvik''<nowiki/>' to mean 'each side' (p.&nbsp;41). The word for 'house' is '<nowiki/>''dawa''<nowiki/>' and the word for small house is '<nowiki/>''dawadawa''<nowiki/>' (p.&nbsp;41). Lastly, an example of the third case is '<nowiki/>''riwaro''<nowiki/>' ('nothing') partially reduplicated into '''ririwaro''<nowiki/>' to mean 'aimlessly' (p.&nbsp;41).<ref name=":04"/>
+
+Full or partial reduplication of verb roots indicates an augmentation of the action or indicates a repeated action. Typically reduplication occurs in two different forms: either repetition of only the first syllable or repetition of the entire root. For example, '<nowiki/>''gubue''<nowiki/>' means 'to fold' while '<nowiki/>''gugubue''<nowiki/>' means 'to fold repeatedly', and '<nowiki/>''ipua''<nowiki/>' means 'to peel' while '''ipuaipua''<nowiki/>' means 'to peel repeatedly' (p.&nbsp;49).<ref name=":04"/>
+
+Reduplication or partial reduplication of adjectives can serve three different purposes: to indicate augmentation, plurality, or diminishment. An example of reduplication used to express augmentation, repeating the Maia word for 'good' ('<nowiki/>''lov''<nowiki/>') changes the meaning to 'very good' (''<nowiki/>'lovlov''<nowiki/>'). Reduplication can also indicate plurality, as in the example of 'nanam kani' ('big tree') and 'nanam ''kanikani''<nowiki/>' ('big trees'), or '<nowiki/>''maia''<nowiki/>' ('thing') and '<nowiki/>''maiamaia''<nowiki/>' ('things'). Lastly, reduplication can signal the diminutive form of a word, as in the case of '<nowiki/>''isav''<nowiki/>' ('hot') and '''isisav''<nowiki/>' ('warm').<ref name=":04"/>
+
+Numeral quantifiers utilize a special case of reduplication. Complete reduplication of a number indicates something in succession ('<nowiki/>''iner''<nowiki/>' alone means 'two', but '<nowiki/>''ineriner''<nowiki/>' means 'two by two'), while partial reduplication of a number acts as a multiplier ('''ininer''<nowiki/>' means 'double').<ref name=":04"/>
+
+=== Stress ===
+Stress patterns are used to differentiate between 1st and 2nd person singular and plural inalienably possessed nouns. (Maia has some nouns that are inalienably possessed, which include body parts, kinship terms, and position nouns.) For example, ‘my skin’ is /i’ dia/, but ‘our skin’ is /’idia/ (p.&nbsp;13).<ref name=":04"/>
+
+=== Agreement ===
+In transitive clauses, the verb must agree in both person and number with the object. In the following example, the verb for 'divide' must include the third-person-singular marker 'a' to indicate that it applies to a singular object in the third person (the pig):<ref name=":04"/>{{interlinear|Di   yo-nor     i-banam   wat  ono  buase-sa   muaina-lav-a.|DS 1s-INTP  1s-uncle   pig   D1   cut.SEQ     divide-DIST-RL.3s|'My uncle butchered the pig and divided it up.' (p. 48)|lang=jig|indent=3|spacing=2|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix}}In intransitive clauses, the verb must agree in both person and number with the subject. The example below demonstrates that the verb for 'go' must be modified to indicate that it applies to a first-person plural subject:<ref name=":04"/>{{interlinear|... dumag   avia-mi.|... hunting   go-RL.1p|we went hunting. (p. 43)|lang=jig|indent=3|spacing=2|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix}}The non-derivational possessor affixes described above in this section also agree in person and number with the noun they describe.
+
+== Syntax ==
+
+=== Basic Word Order ===
+
+==== Transitive Clauses ====
+The basic word order of Maia is SOV for transitive clauses, as illustrated by the transitive sentence example below:<ref name=":04"/>{{interlinear|Ii-nor <u>awun</u>  maia{{=}}di <u>wat</u>  kani o-nor ono <u>dibo-mo</u>|1p-INTP <u>dog</u> PL{{=}}CT <u>pig</u> big 3s-INTP D1 <u>chase-RL.1s/3p</u>|Our dogs chased the/that very big pig. (p. 57)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker}}
+
+==== Intransitive Clauses ====
+The basic word order is SV for intransitive clauses:<ref name=":04" />{{interlinear|Aba             kerek+an-a.|Place/time  darkness+say-RL.3s|The place was/became dark. (p. 118)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker}}
+
+==== Ditransitive Clauses ====
+For clauses that have both an indirect object and a direct object, the indirect object typically comes before the direct object. The following example, in which 'Kunia' is the indirect object and 'plate' is the direct object, illustrates this:<ref name=":04" />{{interlinear|Kunia una u-s-a.|Kunia plate 3s-give-RL.3s|'He/she gave the plate to Kunia.' (p. 122)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker}}
+
+=== Core Phrase Types ===
+
+==== Verb + Object Phrase ====
+The verb phrase in the example above illustrates that the verb + object phrase in Maia is head final, as the verb 'chase' comes after the object 'pig'.<ref name=":04" />{{interlinear|Ii-nor <u>awun</u>  maia{{=}}di <u>wat</u>  kani o-nor ono <u>dibo-mo</u>|1p-INTP <u>dog</u> PL{{=}}CT <u>pig</u> big 3s-INTP D1 <u>chase-RL.1s/3p</u>|Our dogs chased the/that very big pig. (p. 57)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker}}
+
+==== Determiner + Noun Phrase ====
+The example above also demonstrates that the determiner+noun phrase is also head final, as the determiner ''{{'}}ono{{'}}'' ('that') comes after its complement ''{{'}}kani{{'}}'' ('pig').<ref name=":04" />
+
+==== Possessee + Possessor Phrase ====
+The possessee+possessor phrase is also head final, as the possessee 'garden' comes after the possessor 'Mamudia':<ref name=":04" />{{interlinear|Mamudia   wae{{=}}ra|Mamudia   garden{{=}}LOC2|'Mamudia's garden' (p. 80)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker; LOC2:non-specific locational marker}}
+
+==== Complementizer/Subordinator + Clause Phrase ====
+An exception is the complementizer/subordinator+clause phrase, which is head-initial. In the example below, <u>'me maianane'</u> translates to 'because'. This complementizer precedes the rest of the clause.<ref name=":04" />{{interlinear|No{{=}}no{{=}}ma  um-ini, <u>me</u>  <u>maia+nane</u> no{{=}}no <u>nanum</u> <u>ovo</u> <u>tav-ia</u>.|2s{{=}}TP{{=}}EM die-IR.2s NEG what+say 2s{{=}}TP woman PROX get-RL.2s|‘You will die, because you took this woman.’ (p. 149)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker; EM:emphatic marker; PROX:proximal demonstrative; TP:topic; IR:irrealis mood}}
+
+=== Modifiers ===
+
+==== Adverbials ====
+Adverbs are placed before the verb in adverbial phrases:<ref name=":04" />{{interlinear|Me+da         <u>rakrak</u>      no-de-re.|NEG+AD2   <u>crossly</u>   2s-tell-IMP.PF.p|'Don't tell him/her crossly.' (p. 64)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker; AD2:the additive adverb 'da'; IMP:imperative mood; PF: perfect aspect (+past)}}
+
+==== Adjectives ====
+Adjectives are placed immediately after the noun that they describe:<ref name=":04" />{{interlinear|Mela   <u>yana</u>.|Mela   <u>long</u>|Mela is tall. (p. 61)|lang=jig|indent=3|spacing=1|abbreviations=ATN:attention activator marker; CT:contrast marker; RL:realis mood; D1:distal-1 demonstrative; INTP:intensified pronoun; SEQ:sequential medial verb marker; DIST: distributive derivational suffix; PL:plural; CT:contrast marker}}
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www-01.sil.org/pacific/png/pubs/928474533766/Maia_dict_a4.pdf Maia - English - Tok Pisin Dictionary]
+
+{{Madang languages}}
+
+[[Category:Kaukombaran languages]]
+[[Category:Languages of Madang Province]]
+
+
+{{Madang-lang-stub}}

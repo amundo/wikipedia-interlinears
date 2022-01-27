@@ -1,0 +1,225 @@
+{{short description|Austroasiatic language spoken in Malaysia}}
+{{Infobox language
+| name = Mah Meri
+| altname = Besisi, Betise’
+| states = [[Malaysia]]
+| region = [[Peninsular Malaysia|Malay Peninsula]]
+| speakers = 3,675<ref name=Benjamin2012>Benjamin, Geoffrey (2012). [http://www.elpublishing.org/PID/131 The Aslian languages of Malaysia and Thailand: an assessment]. In Stuart McGill & Peter K.Austin (eds) ''Language Documentation and Description, vol 11''. London: SOAS. pp. 136-230</ref>
+| date = 2008
+| familycolor = Austroasiatic
+| fam2 = [[Aslian languages|Aslian]]
+| fam3 = [[Southern Aslian languages|Southern]]
+| iso3 = mhe
+| glotto = besi1244
+| glottorefname = Besisi
+| ethnicity = [[Mah Meri people|Mah Meri]]
+}}
+
+'''Mah Meri''', also known as '''Besisi''', '''Cellate''', '''Hma’ Btsisi’''', '''Ma’ Betisek''', and '''“Orang Sabat”''' (pejorative term),<ref name=EthnoMHE>{{cite web |title=Mah Meri |url=https://www.ethnologue.com/language/mhe |website=Ethnologue: Languages of the World |access-date=28 March 2020}}</ref> is an [[Austroasiatic languages|Austroasiatic language]] spoken in the [[Malay Peninsula]]. Along with [[Semaq Beri language|Semaq Beri]], [[Semelai language|Semelai]] and [[Temoq language|Temoq]], Mah Meri belongs to the [[Southern Aslian languages|Southern Aslian]] branch of the [[Aslian languages|Aslian]] languages.<ref name=Benjamin2012 /> Mah Meri is the only remaining [[Aslian]] language spoken in a coastal area (on the coasts of [[Negeri Sembilan]] and [[Selangor]]) and its speaker population is 3,675 as recorded at the [[Orang Asli Museum]] in [[Gombak District|Gombak]].<ref name=Benjamin2012 /> A dictionary of the Mah Meri language has been compiled by Nicole Kruspe.<ref>{{cite web |title=Nicole Kruspe |url=https://portal.research.lu.se/portal/en/persons/nicole-kruspe(78880aa9-091a-4528-98a0-fb515df7e813).html |website=Lund University Research Portal |access-date=28 March 2020}}</ref><ref name=KruspeDictionary> Kruspe, N., & Zainal, A. (2010). [http://www.jstor.org/stable/25822793 A Dictionary of Mah Meri as Spoken at Bukit Bangkong]. ''Oceanic Linguistics Special Publications'', (36), Iii-410. https://www.jstor.org/stable/25822793</ref>
+
+== Phonology ==
+=== Vowels<ref name=KruspeIPA> Kruspe, N., & Hajek, J. (2009). [https://www.cambridge.org/core/journals/journal-of-the-international-phonetic-association/article/mah-meri/9A24F080E4DB641337DD772CE0BC5F76 Mah Meri] ''Journal of the International Phonetic Association'', 39(2), 241-248. [https://doi.org/10.1017/S0025100309003946 doi:10.1017/S0025100309003946]</ref> ===
+{| class="wikitable" style=text-align:center
+|+ Register 1 vowels
+! rowspan=2 | 
+! rowspan=2 | [[Front vowel|Front]]
+! rowspan=2 | [[Central vowel|Central]]
+! colspan=2 | [[Back vowel|Back]]
+|- class=small
+! -round
+! +round
+|-
+! [[Close vowel|High]]
+| {{IPA link|i}} &nbsp; &nbsp; {{IPA link|ĩ}}
+| {{IPA link|ɨ̞}}
+| {{IPA link|ɯ}} &nbsp; &nbsp; {{IPA link|ɯ̃}}
+| {{IPA link|u}} &nbsp; &nbsp; {{IPA link|ũ}}
+|-
+! [[Close-mid vowel|Mid High]]
+| {{IPA link|e}} &nbsp; &nbsp; {{IPA link|ẽ}}
+| {{IPA link|ə}} &nbsp; &nbsp; {{IPA link|ә̃}}
+|
+| {{IPA link|o}} &nbsp; &nbsp; {{IPA link|õ}}
+|-
+! [[Open-mid vowel|Mid Low]]
+| {{IPA link|ɛ}} &nbsp; &nbsp; {{IPA link|ɛ̃}}
+| 
+|
+| {{IPA link|ɔ}} &nbsp; &nbsp; {{IPA link|ɔ̃}}
+|-
+! [[Open vowel|Low]]
+|
+| {{IPA link|a}} &nbsp; &nbsp; {{IPA link|ã}}
+|
+|
+|}
+
+{| class="wikitable" style=text-align:center
+|+ Register 2 vowels
+! rowspan=2 | 
+! rowspan=2 | [[Front vowel|Front]]
+! rowspan=2 | [[Central vowel|Central]]
+! colspan=2 | [[Back vowel|Back]]
+|- class=small
+! -round
+! +round
+|-
+! [[Close vowel|High]]
+| i̤
+| 
+| ɯ̤ 
+| ṳ
+|-
+! [[Close-mid vowel|Mid High]]
+| e̤
+| ə̤
+|
+| o̤
+|-
+! [[Open-mid vowel|Mid Low]]
+| ɛ̤
+| 
+|
+| ɔ̤
+|-
+! [[Open vowel|Low]]
+|
+| a̤
+|
+|
+|}
+
+=== Voice Register<ref name=KruspeIPA /> ===
+There are two [[vocal register|voice registers]] in Mah Meri: <br>
+'''Register 1:''' Register 1 vowels have a clear tense voice quality, shorter duration and lower [[pitch (music)|pitch]]. Register 1 vowels also have fewer [[phonotactics|phonotactic]] restrictions. <br>
+'''Register 2:''' Register 2 vowels are laxer, longer and higher in pitch. Register 2 vowels also have a slight [[breathy voice|breathy voicing]].
+
+=== Consonants<ref name=KruspeIPA /> ===
+{| class="wikitable" style=text-align:center
+! 
+! || [[Labial consonant|Labial]]|| [[Denti-alveolar consonant|Denti-<br>alveolar]] || [[Alveolar consonant|Alveolar]] || [[Palatal consonant|Palatal]] || [[Velar consonant|Velar]] || [[Glottal consonant|Glottal]] 
+|-
+! colspan="2" rowspan="2" | [[Stop consonant|Plosive]]
+| {{IPA link|p}} &nbsp; &nbsp; {{IPA link|b}} || {{IPA link|t}} &nbsp; &nbsp; &nbsp; || &nbsp; &nbsp; &nbsp; {{IPA link|d}} || || {{IPA link|k}} &nbsp; &nbsp; {{IPA link|g}} || {{IPA link|ʔ}}
+|-
+| {{IPA link|pʰ}} &nbsp; &nbsp; &nbsp; || {{IPA link|tʰ}} &nbsp; &nbsp; &nbsp; ||  || || {{IPA link|kʰ}} &nbsp; &nbsp; &nbsp; || 
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m̥}} &nbsp; &nbsp; {{IPA link|m}} || || {{IPA link|n̥}} &nbsp; &nbsp; {{IPA link|n}} || {{IPA link|ɲ̊}} &nbsp; &nbsp; {{IPA link|ɲ}}|| {{IPA link|ŋ̊}} &nbsp; &nbsp; {{IPA link|ŋ}} || 
+|-
+! colspan="2" | [[Tap and flap consonants|Tap]]
+| || || &nbsp; &nbsp; &nbsp; &nbsp; {{IPA link|ɾ}}  || ||  || 
+|-
+! colspan="2" | [[Fricative consonant|Fricative]]
+|  || || {{IPA link|s}} &nbsp; &nbsp; &nbsp; &nbsp; || ||  || {{IPA link|h}} &nbsp; &nbsp; &nbsp; &nbsp;
+|-
+! colspan="2" rowspan="2" | [[Affricate consonant|Affricate]]
+|  || ||  ||  [[Voiceless alveolo-palatal affricate|tɕ]]  [[Voiced alveolo-palatal affricate|dʑ]]|| || 
+|-
+|  || ||  ||  [[Aspirated consonant|tɕʰ]]|| || 
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+|  [[Voiceless labial–velar fricative|ʍ]]  [[Voiced labial–velar approximant|w]]|| ||  || {{IPA link|j}} || &nbsp; &nbsp; &nbsp; {{IPA link|ɰ}} || 
+|-
+! colspan="2" | [[Lateral consonant|Lateral]] [[Approximant consonant|Approximant]]
+|  || || {{IPA link|l̥}} &nbsp; &nbsp; {{IPA link|l}}  || ||  || 
+|}
+
+== Grammar ==
+===Syntax<ref name=KruspeDictionary />===
+In Mah Meri, [[grammatical modifier|modifiers]] and [[demonstrative|demonstratives]] occur after the head as shown in examples (1) and (2) while [[Preposition and postposition|prepositions]] occur before the head as shown in example (3).
+
+{{interlinear|lang= mhe |number=(1)
+|dṳk naleʔ
+|house old
+|'old house'}}
+
+{{interlinear|lang= mhe |number=(2)
+|lɘmɔl horoʔ ke
+|man old that
+|'that old man'}}
+
+{{interlinear|lang= mhe |number=(3)
+|haʔ mbɘri
+|LOC forest
+|'in the forest'}}
+
+For [[transitivity (grammar)|transitive]] clauses, Mah Meri generally follows an [[Agent (grammar)|Agent]]-[[Verb]]-[[Object (grammar)|Object]] (AVO) order as shown in example (4), but a Verb-Agent-Object (VAO) order is more common during natural discourse as shown in example (5).
+
+{{interlinear|lang= mhe |number=(4)
+|hŋkiʔ tomboʔ lɘmɔl ke
+|3 punch man that
+|'He punched that man.'}}
+
+{{interlinear|abbreviations=PROX:proximal demonstrative;|lang= mhe |number=(5)
+|lɘpas ke nɔŋ, ʔeʔə̤t kɘdeʔ, kaye hŋkiʔ ʔeʔə̤t
+|after that PST:PROX 1SG hide see 3 1SG
+|'After that, I hid, (lest) he see me.'}}
+
+For intransitive clauses in Mah Meri, both [[Subject (grammar)|Subject]]-Verb (SV) and Verb-Subject (VS) orders are possible as shown in examples (6) and (7) respectively.
+
+{{interlinear|abbreviations=PROX:proximal demonstrative;|lang= mhe |number=(6)
+|ʔeʔə̤t nimbol bawaw nɔŋ
+|lSG come.from sea PST:PROX
+|'I came from the sea just now.'}}
+
+{{interlinear|lang= mhe |number=(7)
+|lɛp do haʔ tə̤k
+|enter water LOC ear
+|'Water got into (my) ear.'}}
+
+===Morphology<ref name=KruspeDictionary />===
+Morphology in Mah Meri is exclusively through [[prefix|prefixation]] and [[infix|infixation]]. <br>
+====Semi-productive derivations====
+
+1. ''Detransitivizing N- 'DTR''' <br> 
+::The prefix ''n-'' is attached to monosyllabic verbs and the vowel from the final syllable is reduplicated into the vowel position. <br>
+::Example:  ''bɛ'' 'to do' → ''nɛ-bɛ'' 'doing, doer' <br>
+::For disyllabic verbs, the initial consonant is replaced by a [[homorganic consonant|homorganic]] nasal.
+::Example:  ''plɘt'' 'to extinguish' → ''m:ɘlɘt'' 'extinguishing' <br>
+
+2. ''Transitive focus ka- 'TR''' <br>
+::The prefix ''ka-'' only applies to indigenous monosyllabic verbs. <br>
+::Example: ''jɛt'' 'to follow' → ''ka-jɛt'' 'to follow someone or something', ''cɔʔ'' 'to go' → ''ka-cɔʔ'' 'to go to someone or a place' <br>
+
+3. ''Distributive <&thinsp;l&thinsp;> 'DISTR''' <br>
+::The infix ''<&thinsp;l&thinsp;>'' applies to disyllabic intransitive verbs of position or state and also some verbs of motion. <br>
+::The infix is inserted into the initial syllable and a schwa replaces to well to correct syllable structure. <br>
+::Example: ''kancɛw'' 'to be naked' → ''kɘlancɛw'' 'many naked (people)'.<br>
+::If the penultimate syllable CV is a palatal stop plus schwa, the ''<&thinsp;la&thinsp;>'' infix is applied instead. <br>
+::Example: ''jɘkɘʔ'' 'to sit motionless' → ''jɘ-la-kɘʔ'' 'many sitting motionless'
+
+====Regular productive derivations====
+1. ''Iterative sɘ-RDP-root 'ITER''' <br>
+:: The prefix ''sɘ'' is attached to the initial constituent of reduplicated bases to express [[iterative aspect|iteration]].
+:: Example: ''sɘ-nake-nake'' (<small>ITER</small>-<small>RDP</small>-that) 'that one over and over again'<br>
+
+2. ''Happenstance tɘ- 'happ''' <br>
+:: The prefix ''tɘ-'' expresses a) an inadvertent event and b) ability or inability when used in a negated clause. <br>
+:: Example: ''tɘ-ka-ca'' 'happen to eat' <br>
+
+3. '' Middle voice bɘ- 'MID''' <br>
+:: The prefix ''bɘ-'' is applied to either verbal or nominal roots to express an [[attributive]] or [[possessive]] function.
+:: Example:  bɘ-dṳk 'having a house'
+
+==Language Endangerment and Vitality==
+According to [[Ethnologue]],<ref name=EthnoMHE /> the language status of Mah Meri is '6b: Threatened', referring to the situation whereby the language is used for face-to-face communications within all generations, but is losing users. This status is based on Lewis and Smino's (2010)<ref>{{cite journal |last1=Lewis |first1=M. Paul |last2=Simons |first2=Gary F. |title=Assessing endangerment: Expanding Fishman's GIDS |journal=Revue roumaine de linguistique |date=2010 |volume=55 |issue=2 |pages=103–120 |url=https://www.lingv.ro/RRL-2010.html |access-date=28 March 2020}}</ref> [[Expanded Graded Intergenerational Disruption Scale (EGIDS)]].
+
+A study by Coluzzi, Riget & Wang (2017)<ref>{{cite journal |last1=Coluzzi |first1=Paolo |last2=Riget |first2=Patricia Nora |last3=Xiaomei |first3=Wang |title=Language vitality among the Orang Asli of Malaysia: the case of the Mah Meri on Telo' Gunjeng (Carey Island, Selangor) |journal=International Journal of the Sociology of Language |date=2017 |volume=2017 |issue=244 |pages=137–161 |doi=10.1515/ijsl-2016-0060 |url=https://www.researchgate.net/publication/313463745}}</ref> on language use and attitudes across 4 different Mah Meri villages on [[Carey Island]] suggests that while Mah Meri still holds a strong and positive status in the community, there is a possibility of a complete language shift towards [[Malay language|Malay]] in the future due to lesser usage of Mah Meri amongst the younger generation.
+
+==References==
+{{Reflist}}
+
+== External links ==
+* http://projekt.ht.lu.se/rwaai RWAAI (Repository and Workspace for Austroasiatic Intangible Heritage)
+* [[hdl:10050/00-0000-0000-0003-66E2-7@view|http://hdl.handle.net/10050/00-0000-0000-0003-66E2-7@view]] Mah Meri in RWAAI Digital Archive
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0208 Mah Meri (and Ceq Wong) language documentation materials]
+{{Languages of Malaysia}}
+{{Austro-Asiatic languages}}
+
+[[Category:Languages of Malaysia]]
+[[Category:Aslian languages]]
+
+
+{{malaysia-stub}}
+{{AustroAsiatic-lang-stub}}

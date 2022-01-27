@@ -1,0 +1,3614 @@
+{{Short description|Grassfields language of Cameroon}}
+{{cleanup lang|date=February 2021}}
+{{Infobox language
+|name=Medumba
+|altname=Bangangte
+|nativename=''Mə̀dʉ̂mbɑ̀''
+|region=[[Cameroon]]
+|ethnicity=[[Bamileke people|Bamileke]]
+|speakers=210,000 
+|date=1991
+|ref=e18
+|familycolor=Niger-Congo
+|fam2=[[Atlantic–Congo]]
+|fam3=[[Volta–Congo languages|Volta-Congo]]
+|fam4=[[Benue–Congo]]
+|fam5=[[Bantoid languages|Bantoid]]
+|fam6=[[Southern Bantoid]]
+|fam7=[[Grassfields languages|Grassfields]]
+|fam8=[[Eastern Grassfields languages|Eastern Grassfields]]
+|fam9=[[Mbam–Nkam languages|Mbam-Nkam]]
+|fam10=[[Bamileke languages|Bamileke]]
+|dia1=Batongtou
+|iso3=byv
+|glotto=medu1238
+|glottorefname=Medumba
+}}'''Medumba''' ({{lang|byv|Mə̀dʉ̂mbɑ̀}}; native pronunciation {{IPA|[mə̀ɟʝʉ̂ᵐbɑ̀]}}) is a [[Bamileke languages|Bamileke language]] of [[Cameroon]]. The people who speak it originate from the [[Ndé|Nde]] division of the [[West Region (Cameroon)|West Region]] of the country, with their main settlements in [[Bangangté]], Bakong, Bangoulap, Bahouoc, Bagnoun and Tonga. It is a major [[Bamileke language]], and is located in an area where [[sacred king]]ship played a pivotal role in government, justice, and diplomacy.<ref>{{Cite journal|last=Warnier|first=Jean-Pierre|date=2015|title=Review of "Nation of Outlaws, State of Violence: Nationalism, Grassfields Tradition, and State Building in Cameroon" by Meredith Terretta|url=https://muse.jhu.edu/article/592097/pdf|journal=African Studies Review|volume=58|issue=2|pages=255–257|doi=10.1017/asr.2015.56|s2cid=146494805}}</ref><ref>{{Cite journal|last=Feldman-Savelsberg|first=Pamela|date=1995|title=Cooking inside: Kinship and Gender in Bangangté Idioms of Marriage and Procreation|jstor=645968|journal=American Ethnologist|series=3|volume=22|issue=3|pages=483–501|doi=10.1525/ae.1995.22.3.02a00020}}</ref> The modern history of the Bamileke area, which was a German colony placed under French trusteeship by the League of Nations in 1919, is closely associated with the nationalist movement of the [[Union des populations du Cameroun|Union des Populations du Cameroun]] (UPC), which developed primarily in the coastal hinterland (Bassa) and the western highlands (Bamileke). From 1956 to the late 1960s, this area of Cameroon experienced a period of unrest;<ref>{{Cite book |title=Nation of Outlaws, State of Violence: Nationalism, Grassfields Tradition, and State Building in Cameroon |last=Terretta |first=Meredith |publisher=Ohio University Press |year=2014 |isbn=978-0821420690 |location=Athens|pages=xiv, 36}}</ref> this episode continues to shape Bamileke political culture, and has an impact on language identity<ref>{{Cite journal|last=Bandia|first=Paul F|date=1993|title=Translation as Culture Transfer: Evidence from African Creative Writing|journal= TTR: Traduction, Terminologie, Rédaction|volume=6|issue=2|pages=55–78|doi=10.7202/037151ar|doi-access=free}}</ref> and the [[linguistic landscape]].<ref>{{Cite journal|last=Ndjio|first=Basile|date=2009|title=Migration, Architecture, and the Transformation of the Landscape in the Bamileke Grassfields of West Cameroon|journal=African Diaspora|volume=2|pages=73–100|doi=10.1163/187254609X430777}}</ref>
+
+The Medumba-speaking area is famous for a bi-annual cultural festival — ''FESTAC: [[:fr:Festival des arts et de la culture medumba|Festival des arts et de la culture]]'' [[:fr:Festival des arts et de la culture medumba|''Medumba'']] (Medumba Arts and Crafts Festival) — that promotes the Medumba language, as well as dance, artwork and food styles of the 14 different villages of the locality.<ref>{{Cite book|url=http://www.theseus.fi/bitstream/handle/10024/80002/nana%20dorothy%20thesis.pdf?sequence=1&isAllowed=y|title=The impact of event tourism on host communities (Case, Northwest Region of Cameroon)|last=Chubo|first=Nana Dorothy|work=Master's Thesis, Centria University of Applied Sciences, Unit for Kokkola-Piertarsaari|year=2014}}</ref><ref>{{Cite book|url=https://books.google.com/books?id=2WvdPfMrrY0C&q=Medumba%20Arts%20and%20Crafts%20Festival&pg=PR2|title=Cameroon|last=West|first=Ben|publisher=Bradt Travel Guides Limited|year=2011|isbn=978-1-84162-353-5|location=IDC House, The Vale, Chalfont St Peter, Bucks, England|pages=18|edition=Third}}</ref><ref>{{Cite news|url=http://allafrica.com/stories/201607260437.html|title=Cameroon: Bangangté - Medumba Festival Ends On Thrilling Note|last=Fosong|first=David|date=25 July 2016|work=AllAfrica.com|access-date=14 March 2018}}</ref> The festival, which takes place over a 2-week period in early July, is hosted in Bangangte.
+
+== Language resources ==
+
+=== Scholarship on the Bamileke cluster ===
+Medumba is part of the Eastern Group of the [[Bamileke languages|Bamileke]] Cluster, which also include [[Fe'fe' language|Fe'fe']], [[Ghomala' language|Ghomálá']], [[Kwa' language|Kwa']], and [[Nda'nda' language|Nda'nda']]. The Bamileke cluster — along with Ngemba, Nkambe and Nun — is part of the [[Eastern Grassfields languages|Eastern Grassfields]] subgroup which, together with the [[Ring languages]] and the [[Southwest Grassfields languages|Southwest Grassfields]] languages, constitute the [[Grassfields languages|Grassfield language]] grouping. {{Grassfields Bantu languages}}
+Medumba figures prominently in linguistic research on the Bamileke cluster, partly because of the high quality of the work done by Jan Voorhoeve in the 1960s and 1970s, including work on (in chronological order):
+* morpheme structure constraints (Voorhoeve 1965<ref name=":8" />)
+* personal pronouns (Voorhoeve 1967<ref name=":9" />)
+* noun classes (Voorhoeve 1967<ref name=":4" /> and 1969<ref>{{Cite journal|last=Voorhoeve|first=Jan|date=1969|editor-last=Voorhoeve|editor-first=Jan|editor2-last=de Wolf|editor2-first=Paul|title=Benue-Congo noun class systems: Bangangte|location=West African Linguistic Society (Africka - Studiecentrum) Leiden|pages=17–19}}</ref>)
+* tone of nouns (Voorhoeve 1971<ref name=":0" />)
+* traditional Bamileke narratives (Voorhoeve 1976<ref>{{Cite book|title=Contes Bamileke|last=Voorhoeve|first=Jan|publisher=Musée Royal de L'Afrique Centrale|year=1976|series=Annales - Série In.8 - Sciences Humaine no. 89|location=Tervuren, Belgium}}</ref>)
+* general linguistic description of the Bangangte dialect (Voorhoeve 1977<ref>{{Cite book|title=Bamileke (Bangangte dialect)|last=Voorhoeve|first=Jan|work=West African Language Data Sheets (Volume 1)|publisher=West African Linguistic Society|year=1977|editor-last=Kropp Dakubu|editor-first=M. E.|pages=57–66}}</ref>)
+
+This work was pursued by L. Hyman in the 1980s, on the closely related language Fe'fe' (add refs). It was re-invigorated in the early 2010s by research groups at Boston University (lead by C. O'Connor) and at the University of British Columbia (lead by R.-M.  Déchaine). Some of these publications include:
+* [add refs]
+Also notable are the scholarly contributions of Medumba speaker-linguists, including (in chronological order):
+* Keupdjio 2011, MA thesis (University of Yaounde) on content questions<ref>{{Cite book|title=Les mouvements Qu et l'architecture propositionnelle en Medumba|last=Keupdjio|first=Hermann|publisher=The University of Yaounde 1 Master's Thesis|year=2011}}</ref>
+* Kouankem 2011, PhD dissertation (University of Yaounde) on nominal syntax<ref name=":6">{{Cite book|title=The syntax of the Medumba determiner phrase|last=Constantine|first=Kouankem|publisher=University of Yaounde 1 PhD Dissertation, 350 pp|year=2011}}</ref>
+* Kouankem 2013 on concord<ref>{{Cite journal|last=Kouankem|first=Constantine|date=2013|title=Determiner phrase structure and concord in Medumba|journal=South African Journal of African Languages|volume=33:1|pages=59–64|doi=10.2989/02572117.2013.793941|s2cid=120261204}}</ref>
+Recent work on Medumba is part of a more general push towards documenting the languages of Africa, in the face of rising levels of language endangerment.<ref>{{Cite book|title=Africa's endangered languages : documentary and theoretical approaches|others=[[Jason Kandybowicz]],, Torrence, Harold|isbn=9780190256340|location=New York, NY|oclc=973733564|last1 = Kandybowicz|first1 = Jason|last2=Torrence|first2=Harold|year=2017}}</ref> Cameroon — along with Nigeria, Sudan, and Ethiopia — is reported to have one of the highest language mortality rates in Africa.<ref>{{Cite journal|last=Okal|first=Bernad Odoyo|date=2014|title=Benefits of Multilingualism in Education |journal=Universal Journal of Educational Research|volume=2|issue=3 |page=228 |doi=10.13189/ujer.2014.020304|doi-access=free}}</ref><ref>{{Cite news|title=How Kenya Stands to Lose More than 10 Tribes|last=Opala|first=K.|date=6 March 2002|work=Daily Nation |publisher=Nation Media Group|location=Nairobi}}</ref>
+
+=== Literacy and orthography ===
+Efforts to develop a Medumba orthography date back to the beginning of the 20th century,<ref>{{Cite book|title=Swαndα Mə́dʉmbà: Lexique Français-Mə́dʉmbà (4500 mots) et 260 expression françaises-mə́dʉmbà|last=Tchana|first=Thomas|publisher=Comite de langue bamileke medujba, Production du CEPOM|year=2009|location=Bangangte, Cameroon}}</ref> and are associated with the following milestones:
+* '''1926''': Protestant missionaries develop an orthography for use in primary schools to facilitate the penetration of the Christian Bible in the region.
+* '''1957''': The French administration prohibits the use of local languages in the territories of the Union Française.
+* '''1973''', 20 December: CEPOM (''Comité de Langue pour l'Etude et la Production des Œuvres Bamiléké-Medumba'') is created; its mission is to promote research on Medumba and develop literacy materials.
+
+Currently, educational materials, literature and dictionaries for the language are produced by CEPOM, based in Bangangte. The combined output of missionary and CEPOM work has produced more that 80 publications on Medumba language and culture; these are published in French, English, and Medumba. Over time, publications in Medumba  have used six different orthographies:<ref>{{Cite journal|last=Bird|first=Stephen|date=2001|title=Orthography and identity in Cameroon|journal=Written Language & Literacy|volume=4|issue=2|pages=131–162|doi=10.1075/wll.4.2.02bir|citeseerx=10.1.1.49.9177}}</ref>
+* '''1926''': published in a collection of 12 songs
+* '''1945''': published in a book on religious history (''Nu Yawe Nsi'') and a syllabary
+* '''1967''': publication of the New Testament (''Kàn nswe'') and ''Tshô Pangante''
+* '''1973''': publication of ''Cam Medumba'' and ''zi'te nkite''.
+* '''1979''': publication of ''Mbwog NkUd MedUmbA'' and ''Tons, Textes''...
+* '''1985''', 2 February: adoption of the current orthography at the 4th CEPOM Council
+The current alphabet is given in Table 1.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="34" |'''Table 1. Alphabet'''
+|-
+|Uppercase
+|[[:fr:A (lettre)|A]]
+|[[:fr:Ɑ|Ɑ]]
+|[[:fr:B (lettre)|B]]
+|[[:fr:C (lettre)|C]]
+|[[:fr:D (lettre)|D]]
+|[[:fr:Ə|Ə]]
+|[[:fr:E (lettre)|E]]
+|[[:fr:Ɛ|Ɛ]]
+|[[:fr:F (lettre)|F]]
+|[[:fr:G (lettre)|G]]
+|[[:fr:Gh (digramme)|Gh]]
+|[[:fr:H (lettre)|H]]
+|[[:fr:I (lettre)|I]]
+|[[:fr:J (lettre)|J]]
+|[[:fr:K (lettre)|K]]
+|[[:fr:L (lettre)|L]]
+|[[:fr:M (lettre)|M]]
+|[[:fr:N (lettre)|N]]
+|[[:fr:Ŋ|Ŋ]]
+|[[:fr:O (lettre)|O]]
+|[[:fr:Ɔ|Ɔ]]
+|[[:fr:S (lettre)|S]]
+|[[:fr:Sh (digramme)|Sh]]
+|[[:fr:T (lettre)|T]]
+|[[:fr:Ts (digramme)|Ts]]
+|[[:fr:U (lettre)|U]]
+|[[:fr:Ʉ|Ʉ]]
+|[[:fr:V (lettre)|V]]
+|[[:fr:W (lettre)|W]]
+|[[:fr:Ny (digramme)|Ny]]
+|[[:fr:Y (lettre)|Y]]
+|[[:fr:Z (lettre)|Z]]
+|[[:fr:Apostrophe (typographie)|ʼ]]
+|-
+|Lowercase
+|a 
+|ɑ 
+|b 
+|c
+|d
+|ə 
+|e
+|ɛ
+|f 
+|g
+|gh
+|h 
+|i
+|j
+|k
+|l
+|m
+|n 
+|ŋ
+|o
+|ɔ 
+|s
+|sh
+|t 
+|ts
+|u
+|ʉ 
+|v
+|w
+|ny
+|y
+|z
+|ʼ
+|-
+|IPA symbol
+|a
+|ɑ
+|b
+|tʃ
+|d
+|ə
+|ɪ
+|ɛ
+|f
+|g
+|ɣ
+|x
+|i
+|ɟ
+|k
+|l
+|m
+|n
+|ŋ
+|o
+|ɔ 
+|s
+|ʃ
+|t
+|ʦ
+|u, ʊ
+|ʉ
+|v
+|w
+|ɲ
+|j
+|z
+|ʔ
+|}
+In addition to simplex consonants, Medumba has numerous complex consonants, and these are represented as [[Digraph (orthography)|digraphs]] or [[Trigraph (orthography)|trigraphs]]; see Table 2. Nasals, stops, and fricatives can be labialized; in the orthography this is represented as a CW digraph. [[Stop consonant|Stops]] and [[Fricative consonant|fricatives]] can be [[Prenasalized consonant|pre-nasalized]]; in the orthography this is represented as an NC digraph or an NCW trigraph.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="26" |Table 2. Orthographic conventions for complex consonants
+|-
+!
+! colspan="9" |Labialized consonants
+! colspan="16" |Pre-nasalized consonants
+|-
+! rowspan="2" |
+! colspan="2" rowspan="2" |nasals
+! colspan="5" |stops
+! colspan="2" rowspan="2" |fricatives
+! colspan="12" |stops
+! colspan="4" rowspan="2" |fricatives
+|-
+! colspan="3" |voiced
+! colspan="2" |voiceless 
+! colspan="7" |voiced
+! colspan="5" |voiceless
+|-
+|Uppercase
+|[[:fr:N (lettre)|N]]<nowiki/>w
+|[[:fr:Ŋ|Ŋ]]<nowiki/>w
+|[[:fr:B (lettre)|B]]<nowiki/>w
+|[[:fr:J (lettre)|J]]<nowiki/>w
+|[[:fr:G (lettre)|Gw]]
+|[[:fr:C (lettre)|C]]<nowiki/>w
+|[[:fr:K (lettre)|K]]<nowiki/>w
+|[[:fr:F (lettre)|F]]<nowiki/>w
+|[[:fr:S (lettre)|S]]<nowiki/>w
+|Mb
+|Mbw
+|Nd
+|Nj
+|Nj
+|[[:fr:Ŋ|Ŋ]]<nowiki/>g
+|[[:fr:Ŋ|Ŋ]]<nowiki/>gw
+|Nt
+|Nc
+|Ncw
+|[[:fr:Ŋ|Ŋ]]<nowiki/>kw
+|[[:fr:Ŋ|Ŋ]]<nowiki/>kw
+|Mf
+|Mfw
+|Ns
+|Nsw
+|-
+|Lowercase
+|nw 
+|ŋw
+|bw
+|jw 
+|gw
+|cw
+|kw
+|fw 
+|sw 
+|mb
+|mbw
+|nd
+|nj
+|njw
+|ŋg
+|ŋgw
+|nt
+|nc
+|ncw
+|ŋk
+|ŋkw
+|mf
+|mfw
+|ns
+|nsw
+|-
+|IPA symbol
+|ɲʷ
+|ŋʷ
+|bʰ
+|ɟʷ, ʒʷ
+|gʷ
+|tʃʷ
+|kʷ
+|fʷ
+|sʷ
+|ᵐb
+|ᵐbʰ
+|ⁿd
+|ᶮɟ,ⁿʒ
+|ᶮɟʷ,ⁿʒʷ
+|ᵑg
+|ᵑgᵂ
+|ⁿt
+|ᶮc
+|ᶮcᵂ
+|ᵑk
+|ᵑkᵂ
+|ᵐf
+|ᵐfᵂ
+|ⁿs
+|ⁿsᵂ
+|}
+Orthographic conventions for tone-marking are as follows:
+* High-tone is not marked
+* Low-tone is marked as a grave accent on the vowel, e.g. '''à'''
+* Rising Low-High is marked as a hatcheck on a single vowel, e.g. '''ɛˇ'''
+* Falling High-Low is marked as circumflex on a single vowel, e.g. '''ʉ̂''' 
+Recent developments in digital literacy have had an impact on Medumba. For example, a seven-language electronic calendar — in French, English, and the five national languages (Medumba, Ghomala, Yemba, Meta, Kom) — sends information on time and date to an LCD screen via a VGA controller. The calendar has been developed as a way of mitigating the impact of language competition, and with the specific goal of raising the profile and prestige of the national languages in a context of language endangerment.<ref>{{Cite journal|last1=Tchahou Tchendjeu|first1=A. E.|last2=Tchitnga|first2=R.|last3=Fotsin|first3=H. B.|date=July 2016|title=FPGA based seven-language electronic calendar for the revival of the cameroon culture|url=http://www.iut-douala.cm/sites/default/files/articles%20colloque/Tchahou%20Tchendjeu%20et%20al.Full.STD2016.pdf|journal=Sciences, Technologies et Développement (Edition Spéciale)|pages=197–202}}</ref>
+
+=== Medumba radio station ===
+Radio FM 100 Medumba was established in 2000 by ''Medumba Kum Ntsi''.<ref>{{Cite journal|date=2016-08-28|title=Festival des arts et de la culture medumba|url=https://fr.wikipedia.org/w/index.php?title=Festival_des_arts_et_de_la_culture_medumba&oldid=129065851|journal=Wikipédia|language=fr}}</ref>
+
+== Segments ==
+Initial research on the Medumba segment inventory was conducted by Voorhoeve in the early 1960s, and published in Voorhoeve (1965).<ref name=":8" /> He identified 15 [[vowel]]s and 40 [[consonant]]s. Not described by Voorhoeve (1965) are the plain and pre-nasalized bilabial trills /B/, /ᵐB/, which occur most often before central vowels /ʉ, ə/, which brings the total number of consonants to 42.<ref>{{Cite journal|last1=Olson|first1=Kenneth S.|last2=Meynadier|first2=Yohann|date=2015|title=On Medumba Bilabial Trills and Vowels|url=http://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2015/Papers/ICPHS0522.pdf|journal=Proceedings of the International Phonetic Association}}</ref>  The following two subsections survey the vowel and consonant inventory.
+
+=== Vowels: 15 vowels ===
+Medumba has a 10 simplex vowels, and 5 complex vowels ([[diphthong]]s).
+
+==== Simple vowels ====
+Table 3 gives the inventory of simple vowels, which include 5 [[Close vowel|closed]] (high) vowels /i, ʉ, u, ɪ, ʊ/ and 5 non-closed (non-high) /e, ə, o, a, ɑ/.  See (1-10) for examples.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="5" |Table 3. Simple vowels
+|-
+! colspan="2" |
+!Front
+!Central
+!Back
+|-
+| rowspan="2" |'''Closed'''
+(High)
+| '''+Advanced Tongue Root'''
+|'''i'''
+|'''ʉ'''
+|'''u'''
+|-
+| '''-Advanced Tongue Root'''
+|ɪ
+|
+|ʊ
+|-
+| rowspan="2" |'''Closed'''
+(Non-high)
+|'''Mid'''
+|e
+|'''ə'''
+|o
+|-
+|'''Low'''
+|'''a'''
+|
+|'''ɑ'''
+|-
+| colspan="5" |(adapted from Voorhoeve 1965:320, fn. 6)
+|}
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="5" |Examples of simple vowels: (1-10)
+!
+|-
+|(1) /i/
+|''f'''í'''də''
+[f'''í'''də] HH
+
+'to be arrogant'
+|(2) /ʉ/
+|''f'''ʉ'''də''
+[fʉdə] HH
+
+'to fly'
+|(3) /u/
+|''f'''u'''bə''
+[fubə] HH
+
+'bedding'
+|-
+|(4) /ɪ/
+|''f'''í'''də''
+[f'''ɪ'''də] HH
+
+'to peel'
+| colspan="2" |
+|(5) /ʊ/
+|''f'''u'''də''
+[fʊdə] HH
+
+'hunting, net'
+|-
+|(6) /e/
+|''f'''è'''nə''
+[f'''è'''nə] LH
+
+'to choke, suffocate'
+|(7) /ə/
+|''f'''ə'''t''
+[fət] L
+
+'wind'
+|(8) /o/
+|''f'''o'''gə''
+[fogə] HH
+
+'widowship'
+|-
+|(9) /a/
+|''f'''a'''t''
+[fat] L
+
+'head-protector pillow for load-carrying'
+| colspan="2" |
+|(10) /ɑ/
+|''f'''ɑ'''<nowiki/>'ɑ''
+[fɑʔɑ] HH
+
+'sort of tree'
+|-
+| colspan="6" |(adapted from Voorhoeve 1965:327;3.2.1)
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|}
+
+==== Diphthong vowels ====
+See Table 4 for the inventory of the five diphthongs, which include  /ia, iə, ʉa, ʉɑ, uɑ/. See (11-15) for examples.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="5" |Table 4. Diphthong vowels
+|-
+! colspan="2" rowspan="3" |
+! colspan="3" |V1
+|-
+!Front
+!Central
+!Back
+|-
+|'''i'''
+|'''ʉ'''
+|'''u'''
+|-
+| rowspan="3" |'''V2'''
+|'''a'''
+|ia
+|ʉa
+| --
+|-
+|'''ə'''
+|iə
+| --
+| --
+|-
+|'''ɑ'''
+| --
+|ʉɑ
+|uɑ
+|-
+| colspan="5" |(adapted from Voorhoeve 1965:320, fn. 6)
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="5" |Examples of diphthong vowels: (11-15)
+|-
+| colspan="2" |(11) /ia/
+|''f'''ya'''ŋə''
+[fiaŋə] HH
+
+'sort of tree'
+|(12) /uɑ/
+|''c'''wɑ'''də''
+[cuɑdə] HH
+
+'to sow, plant'
+|-
+| colspan="2" |(13) /ʉa/
+|''f'''ʉɑ'''gə''
+[fʉɑgə] HH
+
+'to blow'
+|(14) /ʉɑ/
+|''f'''ʉɑ'''gə''
+[fʉɑgə] HH
+
+'to be wild'
+|-
+| rowspan="5" |(15) /iə/
+|(a)
+| colspan="3" |''nzw'''ə'''ʔə''
+/<sup>'''ɲ'''</sup>'''j'''<sup>w</sup>iəʔə/➝[<sup>'''n'''</sup>'''z'''<sup>w</sup>əʔə] HH
+
+'sort of dance' 
+|-
+|(b)
+| colspan="3" |''v'''ə'''''
+/'''g<sup>w</sup>'''iə/➝['''v'''ə] L
+
+'architecture'
+|-
+|(c)
+|''ts'''ə'''<nowiki/>'tsə''
+/ciəʔ-tə/➝ [tsəʔtə]
+
+'to collect'
+|cf.
+|''c'''ə'<nowiki/>'''''
+[cəʔ] H
+
+'servant of chief'
+|-
+|(d)
+|''z'''ə'''''
+/'''j'''iə/➝ [zə] H
+
+'relative pronoun'
+|cf.
+|'''''y'''ən''
+[jen] H
+
+'demonstrative pronoun'
+|-
+|(e)
+|''mf'''ə'''''
+/<sup>m</sup>fiə/➝[<sup>m</sup>fə] H
+
+'oath'
+|cf.
+|''mv'''ə'''''
+/<sup>m</sup>fə/➝[<sup>m</sup>və] H
+
+'on'
+|-
+| colspan="5" |(adapted from Voorhoeve 1965:325;3.1.6-7 and 327;3.2.2)
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|}
+Diphthongs involve a combination of a '''closed''' (high) vowel (V1)  /i,ʉ,u/ with a '''non-closed''' (non-high) vowel (V2) /a,ə,ɑ/, as follows:
+* <u>[[Front vowel|front]]</u>  /i/ combines with <u>front</u> or <u>centre</u>  /a/ and /ə/ to form /'''ia'''/ and 
+** front /i/ does not combine with back /ɑ/, so */iɑ/ is not a possible diphthong
+* <u>[[Central vowel|central]]</u>  /ʉ/ combines with  <u>front</u> or <u>back</u>  /a/ and /ɑ/  to form /'''ʉa'''/ and /'''ʉɑ'''/
+** central /ʉ/ does not combine with central /ə/; so */ʉə/ is not a possible diphthong
+* <u>[[Back vowel|back]]</u>  /u/ combines with  <u>back</u>  /ɑ/ to form /'''uɑ'''/
+** back /u/ does not combine non-back vowels, so */'''ua'''/ and */'''uə'''/ are not possible diphthongs
+
+=== Consonants: 42 consonants ===
+The canonical morpheme in Medumba is a single [[syllable]], either an [[Open syllable|open CV syllable]] or a [[Syllable|closed CVC syllable]] (Voorhoeve 1965:319).<ref name=":8">{{Cite journal|last=Voorhoeve|first=Jan|year=1965|title=The Structure of the Morpheme in Bamileke (Bangangté dialect)|journal=Lingua|volume=13|pages=319–334|doi=10.1016/0024-3841(64)90034-8}}</ref> This morpheme structure constraint has consequences for the consonant inventory. Indeed, a notable property of Medumba is that the number of [[Contrastive distribution|contrastive]] consonants differs according to whether one considers consonants in [[Syllable|onset]] position (i.e., consonants that begin a '''C'''V or '''C'''VC syllable) or consonants in coda position (i.e. consonants that end a CV'''C''' syllable). Below, the consonant inventory is introduced, and the distributional differences between coda (C2) and onset (C1) consonants are described.
+
+Medumba has 42 consonants, of which 18 are simplex consonants and 24 are complex consonants.
+
+==== Simplex consonants ====
+Table 5 gives the inventory of the 18 simplex consonants (Voorhoeve 1965); they are displayed according to [[place of articulation]] ([[Labial consonant|labial]], [[Alveolar consonant|alveolar]], [[Palatal consonant|palatal]], [[Velar consonant|velar]], [[Glottal stop|glottal]]), and [[manner of articulation]] ([[Nasal consonant|nasal stop]], [[Stop consonant|oral stop]], [[Fricative consonant|fricative]]). There are 4 [[Nasal consonant|nasals]] [m, n], ɲ, ŋ], 4 voiced stops [b, d, j, g], 4 voiceless stops [t, c, k, ʔ]), and 2 voiced fricatives (v, z) and 3 voiceless fricatives (f, s, ʃ). Dashes (--) indicate gaps in the consonant inventory.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="9" |Table 5. Simplex consonants
+|-
+! colspan="4" rowspan="2" |
+! colspan="5" |Place of articulation
+|-
+!labial
+!alveolar
+!palatal
+!velar
+!glottal
+|-
+| rowspan="6" |'''Manner of'''
+'''articulation'''
+| rowspan="3" |'''stop'''
+| colspan="2" |'''nasal''' (n = 4)
+|m
+|n
+|ɲ
+|ŋ
+|
+|-
+| rowspan="2" |'''oral'''
+|'''voiced''' (n = 4)
+|b
+|d
+|'''ɟ'''
+|ɡ
+|
+|-
+|'''voiceless''' (n = 4)
+|<nowiki>--</nowiki>
+|'''t'''
+|'''c'''
+|'''k'''
+|'''''ʔ'''''
+|-
+| colspan="2" |'''trill'''
+|'''voiced''' (n=1)
+|B
+|
+|
+|
+|
+|-
+| colspan="2" rowspan="2" |'''fricative'''
+|'''voiced''' (n = 2)
+|('''v''')
+|('''z''')
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|
+|-
+|'''voiceless''' (n = 3)
+|'''f'''
+|'''s'''
+|('''ʃ''')
+|<nowiki>--</nowiki>
+|
+|-
+| colspan="9" |(adapted from Voorhoeve 1965:320, footnote 6; Voorhoeve uses /j/ as the symbol for a palatal stop; the [[International Phonetic Alphabet|IPA]] convention is /ɟ/.)
+'''Boldface''' symbols { '''ɟ''', '''t''', '''c''', '''k''', '''f''', '''s, v, z'''} occur only in onset position.
+
+'''''Boldface italic''''' symbols  '''''ʔ''''', occur only in coda position.
+
+Symbols in parentheses, namely ('''v'''), ('''z'''), and ('''ʃ'''), are extremely rare as phonemes.
+|}
+Note the absence of the following segments:
+* there is a voiced bilabial stop /b/, but no counterpart voiceless bilabial stop '''*/p/'''
+** but [p] occurs as an [[allophone]] of /b/
+* there is a voiceless palatal fricative /'''ʃ'''/ (with limited distribution), but no counterpart voiced palatal fricative '''*/ʒ/'''
+** but [ʒ] occurs as an allophone of /ɟ/
+* there are velar nasal and oral stops, but no counterpart velar fricatives */'''ɣ'''/ or */'''x'''/
+** but [ɣ] occurs as a release in the /ᵑg/~[ᵑgˠ] alternation, and [x] occurs as a release in the /ᵑk/~[ᵑk<sup>x</sup>] alternation
+
+==== Complex consonants ====
+Table 6 gives the inventory of the  24 [[Co-articulated consonant|complex consonants]] found in Medumba (Voorhoeve 1965:326, section 3.1.9); they are displayed according to the primary place of articulation (labial, alveolar, palatal and velar) and the nature of the [[secondary articulation]] (labialized, pre-nasalized, and pre-nasalized labialized). This includes 8 [[Labialization|labialized]] consonants ('''C<sup>W</sup>'''), 10 [[Prenasalized consonant|pre-nasalized]] consonants ('''<sup>N</sup>C'''), and 6 pre-nasalized labialized stops ('''<sup>N</sup>C<sup>W</sup>'''). Complex consonants only occur in onset position; see the next section for exemplification.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="7" |Table 6.  Complex consonants
+|-
+! colspan="3" rowspan="2" |
+! colspan="4" |Place of Primary Articulation
+|-
+!labial
+!alveolar
+!palatal
+!velar
+|-
+| rowspan="11" |'''Secondary'''
+'''Articulation'''
+| rowspan="4" |'''labialized'''
+'''C<sup>W</sup>''' (n = 8)
+|'''nasal'''
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|ɲ<sup>W</sup>
+|ŋ<sup>W</sup>
+|-
+|'''stop, voiced'''
+|b<sup>W</sup>
+|<nowiki>--</nowiki>
+|ɟ<sup>W</sup>
+|g<sup>W</sup>
+|-
+|'''stop, voiceless'''
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|c<sup>W</sup>
+|k<sup>W</sup>
+|-
+|'''fricative'''
+| --
+|s<sup>W</sup>
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|-
+| rowspan="4" |'''pre-nasalized'''
+'''<sup>N</sup>C''' (n = 10)
+|'''trill, voiced'''
+|<sup>m</sup>B
+|
+|
+|
+|-
+|'''plosive, voiced'''
+|<sup>m</sup>b
+|<sup>n</sup>d
+|ᶮɟ
+|ᵑg
+|-
+|'''plosive, voiceless'''
+|<nowiki>--</nowiki>
+|<sup>n</sup>t
+|ᶮc
+|ᵑk
+|-
+|'''fricative'''
+|<sup>m</sup>f
+|<sup>n</sup>s
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|-
+| rowspan="3" |'''pre-nasalized labialized'''
+'''<sup>N</sup>C<sup>W</sup>''' (n = 6)
+|'''plosive, voiced'''
+|<sup>m</sup>b<sup>W</sup>
+|<nowiki>--</nowiki>
+|ᶮɟ<sup>W</sup>
+|ᵑg<sup>W</sup>
+|-
+|'''plosive, voiced'''
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|ᶮc<sup>W</sup>
+|ᵑk<sup>W</sup>
+|-
+|'''fricative'''
+| --
+|<sup>n</sup>s<sup>W</sup>
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|-
+| colspan="7" |(adapted from Voorhoeve 1965:326)
+|}
+Note the following gaps in the inventory of complex consonants:
+* no labialized labial nasal or voiceless stop: */m<sup>W</sup>/, */p<sup>W</sup>/, */<sup>m</sup>p<sup>W</sup>/
+* no labialized alveolar (nasal or oral) stop: */n<sup>W</sup>/, */d<sup>W</sup>/, */<sup>n</sup>d<sup>W</sup>/,  */t<sup>W</sup>/, */<sup>n</sup>t<sup>W</sup>/
+* no labialized voiceless labial, palatal or velar fricative: */f<sup>W</sup>/, */<sup>m</sup>f<sup>W</sup>/, */ʃ<sup>W</sup>/, */ᶮʃ<sup>W</sup>/, */x<sup>W</sup>/, */ᵑx<sup>W</sup>/
+
+==== Final consonants ====
+Of the 40 consonants found in Medumba, only 7 can be coda consonants: the 3 nasal stops /m, n, ŋ/, the 3 counterpart voiced oral stops /b, d, ɡ/, and the glottal stop /ʔ/. See Table 7 for the list of coda consonants, ordered according to place of articulation (labial, alveolar, velar, glottal), and manner of articulation (nasal stop, oral stop). (16-18) present examples of nasals in coda posit. (19-22) present examples of oral stops in coda position, which display allophonic variation conditioned by the right-edge context.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="7" |Table 7. Final consonants and their allophones
+|-
+! colspan="3" rowspan="2" |
+! colspan="4" |Place of Articulation
+|-
+!labial
+!alveolar
+!velar
+!glottal
+|-
+| rowspan="3" |'''Manner of'''
+'''Articulation'''
+| colspan="2" |'''nasal stop''' (n = 3)
+|m
+|n
+|ŋ
+|
+|-
+| rowspan="2" |'''oral stop'''
+|'''voiced''' (n = 3)
+|b ~ p
+|d ~ l
+|ɡ ~ ʁ/k
+|
+|-
+|'''voiceless''' (n = 1)
+|
+|
+|
+|ʔ
+|-
+| colspan="7" |(adapted from Voorhoeve 1965:328, sn. 3.3.3)
+|}
+
+===== Final nasals =====
+Final nasals include bilabial /m/, alveolar /n/, and velar /ŋ/.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="3" |Examples of final nasals: (16-18)
+|-
+|'''labial'''
+|(16) /m/
+|''cù'''m'''''
+[cʊ'''m'''] L(H)
+
+'prune'
+|-
+|'''alveolar'''
+|(17) /n/
+|''tɑ'''n''' L''
+[tɑ'''n'''] L(H)
+
+'cricket'
+|-
+|'''velar'''
+|(18) /ŋ/
+|''fò'''ŋ'''mɑŋgəm LHL''
+[fo'''ŋ'''-mɑ-ᵑgəm] LHL(H)
+
+'sort of ant'
+|-
+| colspan="3" |(adapted from Voorhoeve 1965:328;3.3.3)
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|}
+
+===== Final stops =====
+Final stops includes bilabial /b/ (with allophone [p]), alveolar /d/ (with allophone [l,t]), velar /g/ (with allophone [ʁ, k]), and glottal /ʔ/.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="6" |Examples of final stops: (19-22)
+|-
+|'''labial'''
+|(19) /b/
+|[b]
+|''xxx''
+[yy'''b''']
+
+'zzz'
+|[p]
+|''cùu'''p'''nyɑm''
+[cʊʊ'''p'''-ny''ɑ''m]
+
+'wild cat'
+|-
+|'''alveolar'''
+|(20) /d/
+|[d]
+|''xxx''
+[yy'''d''']
+
+'zzz'
+|[l, t]
+|''mfə'''t'''ni''
+[<sup>m</sup>fə'''t'''-ni] HH
+
+'reconciliation ceremony'
+|-
+|'''velar'''
+|(21) /g/
+|[g]
+|''xxx''
+[yy'''g''']
+
+'zzz'
+|[ʁ, k]
+|''cia'''k'''tə''
+[cia'''k'''-tə] HH
+
+'hairstyle,cap'
+|-
+|'''glottal'''
+|(22) /ʔ/
+|[ʔ]
+|''xxx''
+[yy'''ʔ''']
+
+'zzz'
+| colspan="2" |
+|-
+| colspan="6" |(adapted from Voorhoeve 1965:328;3.3.3)
+for examples of consonant allophones, see Danis, Barnes & O'Connor 2012
+
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|}
+
+==== Initial consonants ====
+Table 8 presents the inventory of onset consonants and their allophones. The only consonant excluded from onset position is the glottal stop /ʔ/. All other consonants occur in onset position, so  there are 39 possible onset consonants. In onset position, nasals may be plain ('''C''') or labialized ('''C<sup>W</sup>'''). All other consonant types (voiced plosives, voiceless plosives, fricative) occur as plain ('''C'''),  labialized ('''C<sup>W</sup>'''), pre-nasalized ('''<sup>N</sup>C'''), or pre-nasalized and labialized ('''<sup>N</sup>C<sup>W</sup>'''). In addition, onset consonants display allophonic variation that is conditioned by the following vowel. Examples are given below, as follows:
+* onset '''labials'''; see (23-29)
+* onset '''alveolars'''; see (30-38)
+* onset '''palatals'''; see (39-49)
+* onset '''velars'''; see (50-59)
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="9" |Table 8. Onset consonants and their allophones
+|-
+! colspan="5" rowspan="2" |
+! colspan="4" |Place of articulation
+|-
+!labial
+!alveolar
+!palatal
+!velar
+|-
+| rowspan="14" |'''Manner of'''
+'''articulation'''
+| rowspan="10" |'''stop'''
+| colspan="2" rowspan="2" |'''nasal''' (n = 6)
+|  '''C'''
+|m
+|n
+|ɲ
+|ŋ
+|-
+|  '''C<sup>W</sup>'''
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|ɲ<sup>W</sup> 
+|ŋ<sup>W</sup>
+|-
+| rowspan="8" |'''oral''' 
+| rowspan="4" |'''voiced''' (n = 14)
+|  '''C'''
+|b ~ p
+|d ~ l
+|ɟ ~ y/z/ʒ
+|ɡ ~ ʁ
+|-
+|  '''C<sup>W</sup>'''
+|b<sup>W</sup> ~ b<sup>v</sup> 
+|<nowiki>--</nowiki>
+|ɟ<sup>W</sup> ~ y<sup>W</sup>/z<sup>W</sup>
+|g<sup>W</sup> ~ w/v
+|-
+|'''<sup>N</sup>C'''
+|<sup>m</sup>b
+|<sup>n</sup>d
+|ᶮɟ ~ <sup>n</sup>z/ᶮʒ
+|ᵑg ~ ᵑgˠ
+|-
+|'''<sup>N</sup>C<sup>W</sup>'''
+|<sup>m</sup>b<sup>W</sup>
+|<nowiki>--</nowiki>
+|ᶮɟ<sup>W</sup> ~ <sup>n</sup>z<sup>W</sup>
+|ᵑg<sup>W</sup>
+|-
+| rowspan="4" |'''voiceless''' (n = 10)
+|  '''C'''
+|<nowiki>--</nowiki>
+|t  ~ t<sup>h</sup>
+|c ~ ʦ/cʃ
+|k ~ k<sup>h</sup>/k<sup>x</sup>
+|-
+|  '''C<sup>W</sup>'''
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|c<sup>W</sup> ~ʦ<sup>W</sup>/ʃ
+|k<sup>W</sup>
+|-
+|'''<sup>N</sup>C'''
+|<nowiki>--</nowiki>
+|<sup>n</sup>t ~ <sup>n</sup>t<sup>h</sup>
+|ᶮc ~ <sup>n</sup>ʦ/ᶮcʃ
+|ᵑk ~ ᵑk<sup>h</sup>/ᵑk<sup>x</sup>
+|-
+|'''<sup>N</sup>C<sup>W</sup>'''
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|ᶮc<sup>W</sup> ~ ᶮʃ
+|ᵑk<sup>W</sup>
+|-
+| colspan="3" rowspan="4" |'''fricative''' (n = 6)
+|  '''C'''
+|f
+|s
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|-
+|  '''C<sup>W</sup>'''
+|<nowiki>--</nowiki>
+|s<sup>W</sup>
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|-
+|'''<sup>N</sup>C'''
+|<sup>m</sup>f ~ <sup>m</sup>v
+|<sup>n</sup>s ~ <sup>n</sup>z
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|-
+|'''<sup>N</sup>C<sup>W</sup>'''
+|<nowiki>--</nowiki>
+|<sup>n</sup>s<sup>W</sup>
+|<nowiki>--</nowiki>
+|<nowiki>--</nowiki>
+|-
+| colspan="9" |(adapted from Voorhoeve 1965:326)
+|}
+
+===== Initial labials =====
+Initial labials include:
+* plain consonants ('''C:''' /m/, /b/ (with allophone [p]), and /f/ (with allophone [<sup>m</sup>v])
+* labialized consonants ('''C<sup>w</sup>'''): /b<sup>w</sup>/ (with allophone [b<sup>v</sup>])
+* pre-nasalized consonants ('''<sup>N</sup>C'''): /<sup>m</sup>b/ and /<sup>m</sup>f/
+* pre-nasalized labialized consonants ('''<sup>N</sup>C<sup>w</sup>'''): /<sup>m</sup>b<sup>w</sup>/
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="7" |Examples of labial onsets: (23-29)
+|-
+| rowspan="3" |'''C'''
+|'''nasal'''
+|(23) /m/
+|[m]
+|'''''m'''ʉ'<nowiki/>''
+['''m'''ʉʔ] H
+
+'lake'(V323;3.1.2)
+|
+|
+|-
+|'''stop'''
+|(24) /b/
+|[b]
+|'''''b'''ɑb''  L
+['''b'''ɑb] L
+
+'wing' (V323;3.1.2)
+|[p]
+|''pxxx''
+['''p'''xxx]  /__[+Closed.V]
+
+'zzz'
+|-
+|'''fricative'''
+|(25) /f/
+|[f]
+|'''''f'''àm''
+['''f'''àm]
+
+'deserted homestead (V323;3.1.2)'
+|[ᵐv]
+|'''''mv'''xxx''
+['''ᵐv'''xx]  /__[-Closed.V]
+
+'zzz'
+|-
+|'''C<sup>w</sup>'''
+|'''stop'''
+|(26) /b<sup>w</sup>/
+|[b<sup>w</sup>]
+|'''''bw'''ə'ə''
+
+['''b<sup>w</sup>'''əʔə] ~ ['''b<sup>w</sup>'''əʔɑ] HH
+
+'owl' (V332;4.1)
+|[bᵛ]
+|'''''bv'''ə''
+
+['''bᵛ'''ə] H
+
+'there' (V324;3.1.4)
+|-
+| rowspan="2" |'''ᴺC'''
+|'''stop'''
+|(27) /ᵐb/
+|[ᵐb]
+| colspan="3" |'''''mb'''à''
+
+['''ᵐb'''aʔ] L(H)
+
+'nut' (V324;3.1.3)
+|-
+|'''fricative'''
+|(28) /ᵐf/
+|[ᵐf]
+| colspan="3" |'''''mf'''aŋ''
+['''ᵐf'''áŋ]
+
+'wound' (V324;3.1.3)
+|-
+|'''ᴺC<sup>w</sup>'''
+|'''stop'''
+|(29) /ᵐb<sup>w</sup>/
+|[ᵐb<sup>w</sup>]
+| colspan="3" |'''''mbw'''ə''
+
+['''ᵐb<sup>w</sup>'''ə] H
+
+'goat' (V325;3.1.5)
+|-
+| colspan="7" |(adapted from Voorhoeve 1965)
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|}
+
+===== Initial alveolars =====
+
+Initial alveolars include:
+* plain consonants ('''C'''): /n/, /d/ (with allophone [l]), /t/ (with allophone [t<sup>h</sup>]), and /s/
+* labialized consonants ('''C<sup>w</sup>'''): /s<sup>w</sup>/
+* pre-nasalized consonants ('''ᴺC'''): /<sup>n</sup>d/, /<sup>n</sup>t/ (with allophone [<sup>n</sup>t<sup>h</sup>]), and /<sup>n</sup>s/ (with allophone [<sup>n</sup>z])
+* pre-nasalized labialized consonants ('''ᴺC<sup>w</sup>'''): /<sup>n</sup>s<sup>w</sup>/
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="7" |Examples of alveolar onsets: (30-38)
+|-
+| rowspan="4" |'''C'''
+|'''nasal'''
+|(30) /n/
+|[n]
+|'''''n'''à<nowiki/><nowiki/>''
+['''n'''ɑ] L
+
+'field' (V323;3.1.2)
+|
+|
+|-
+|'''stop,'''
+'''voiced'''
+|(31) /d/
+|[d]
+|'''''d'''im''
+['''d'''ɪm] H
+
+'tongue' (V323;3.1.2)
+|[l]
+|'''''l'''xxx''
+['''l'''xxx]  /__[-Closed.V]
+
+'zzz'
+|-
+|'''stop,'''
+'''voiceless'''
+|(32) /t/]
+|[t]
+|'''''t'''u''
+['''t'''u] tone?
+
+'head'
+|[t<sup>h</sup>]
+|'''''t'''u''
+['''t'''ʰʊ] tone?
+
+'to pierce' (Voorhoeve 1966:323)
+|-
+|'''fricative'''
+|(33) /s/
+|[s]
+| colspan="3" |'''''s'''ògo''
+['''s'''ògó] LH
+
+'to wash' (V323;3.1.2)
+|-
+|'''C<sup>w</sup>'''
+|'''fricative'''
+|(34) /s<sup>w</sup>/
+|[s<sup>w</sup>]
+| colspan="3" |'''''sw'''á''
+
+['''s<sup>w</sup>'''á]
+
+'broom, tail' (V324;3.1.4)
+|-
+| rowspan="3" |'''ᴺC'''
+|'''stop,'''
+'''voiced'''
+|(35) /<sup>n</sup>d/
+|[<sup>n</sup>d]
+| colspan="3" |'''''nd'''əb L''
+
+['''ⁿd'''əb] L(H)
+
+'cotton' (V324;3.1.3)
+|-
+|'''stop,'''
+'''voiceless'''
+|(36) /<sup>n</sup>t/
+|[<sup>n</sup>t]
+|'''''nt'''ɑnə''
+
+[<sup>'''n'''</sup>'''t'''ɑn''ə''] HH
+
+'market, business' (V324;3.1.3)
+|[<sup>n</sup>t<sup>h</sup>]
+|'''''nt'''xx''
+
+[<sup>'''n'''</sup>'''t<sup>h</sup>'''yyy]/__[+Closed]
+
+'zzz'
+|-
+|'''fricative'''
+|(37) /<sup>n</sup>s/
+|[<sup>n</sup>s]
+|'''''ns'''indɑ''
+['''<sup>n</sup>s'''í-ⁿdɑ] H!H
+
+'floor' (V324;3.1.3)
+|[<sup>n</sup>z]
+|'''''nz'''xxx''
+
+['''<sup>n</sup>z'''yyyy] /__[-Closed]
+
+'zzz'
+|-
+|'''ᴺC<sup>w</sup>'''
+|'''fricative'''
+|(38) /<sup>n</sup>s<sup>w</sup>/
+|[<sup>n</sup>s<sup>w</sup>]
+| colspan="3" |'''''nsw'''ə''
+
+['''<sup>n</sup>s<sup>w</sup>'''ə] H
+
+'new' (V325;3.1.5)
+|-
+| colspan="7" |(adapted from Voorhoeve 1965)
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|}
+
+===== Initial palatals =====
+Initial palatals include:
+* plain consonants ('''C'''): /ɲ/, /ɟ/ (with allophones [j], [ʒ], [z]), /c/ (with allophones [ts] and [cʃ]), and /ʃ/
+* labialized consonants ('''C<sup>w</sup>'''): /ɲ<sup>w</sup>/, /ɟ<sup>w</sup>/ (with allophones [ʒ<sup>w</sup>],[z<sup>w</sup>]), and /c<sup>w</sup>/ (with allophones [ʃ] and [ts<sup>w</sup>])
+* pre-nasalized consonants ('''ᴺC'''): /ᶮɟ/ (with allophones [ᶮʒ], [<sup>n</sup>z]), and /ᶮc/ (with allophones [ᶮcʃ] and [<sup>n</sup>ts])
+* pre-nasalized labialized consonants ('''ᴺC<sup>w</sup>'''): /ᶮc<sup>w</sup>/ with allophone [ᶮʃ]
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="11" |Examples of palatal onsets: (39-49)
+|-
+| rowspan="4" |'''C'''
+|'''nasal'''
+|(39) /ɲ/
+|[ɲ]
+| colspan="7" |'''''ny'''àang''
+['''ɲ'''aaŋ] LH
+
+'to dance'
+
+(V323;3.1.2)
+|-
+|'''stop,'''
+'''voiced'''
+|(40) /ɟ/
+|[ɟ]
+|'''''j'''ənə''
+['''ɟ'''ənə] HH
+
+'to see'
+
+(V323;3.1.2)
+|[j]
+|'''''y'''xxx''
+['''j'''xxx]  /__[-Closed.V]
+
+'zzz'
+
+(ref)
+|[ʒ]
+|'''''j'''xx''
+['''ʒ'''xxx] __ /ʉ, u/
+
+'zzz'
+
+(ref)
+|[z]
+|'''''z'''ə''
+['''z'''ə] H __/i/
+
+'relative pronoun'
+
+V325; 3.1.6
+|-
+|'''stop,'''
+'''voiceless'''
+|(41) /c/
+|[c]
+|'''''t'''u''
+['''t'''u] tone?
+
+'head'
+
+(ref)
+|[ts]
+|'''''t'''u''
+['''t'''ʰʊ] tone?
+
+'to pierce'
+
+(Voorhoeve 1966:323)
+|[cʃ]
+|
+|
+|
+|-
+|'''fricative'''
+|(42) /ʃ/
+|[ʃ]
+| colspan="7" |'''''sh'''xx''
+['''ʃ'''bbb]
+
+'ccc'
+
+(ref)
+|-
+| rowspan="3" |'''C<sup>w</sup>'''
+|'''nasal'''
+|(43) /ɲ<sup>w</sup>/
+|[ɲ<sup>w</sup>]
+| colspan="7" |'''''nyw'''ìi''
+['''ɲ<sup>w</sup>'''iiʔ] LH
+
+'to spoil'
+
+(V324;3.1.4)
+|-
+|'''stop'''
+'''voiced'''
+|(44) /ɟ<sup>w</sup>/
+|[ɟ<sup>w</sup>]
+|'''''jw'''əde LH''
+
+['''ɟᵂ'''ədə] LH
+
+'to wet'
+
+(V324; 3.1.4)
+|[ʒ<sup>w</sup>]
+|'''''jw'''xxx''
+['''ʒ<sup>w</sup>'''yyy] /__[-Closed]
+
+'zzz'
+
+(ref)
+|[z<sup>w</sup>]
+| colspan="3" |'''''zw'''xxx''
+
+['''z<sup>w</sup>'''yyy]  __/i/
+
+'zzz'
+
+(ref)
+|-
+|'''stop,'''
+'''voiceless'''
+|(45) /c<sup>w</sup>/
+|[c<sup>w</sup>]
+|'''''cw'''i''
+
+['''c<sup>w</sup>'''ii] LH
+
+'to give a name'
+
+(V327,3.3.1)
+|[ʃ]
+|'''''sh'''ʉmə''
+
+/c<sup>w</sup>ʉmə/->[ʃʉmə] HH __ʉ,u
+
+'to swing'
+
+(V325;3.1.8)
+|[ts<sup>w</sup>]
+|'''''tsw'''xx''
+
+['''ts<sup>w</sup>'''bbb]
+
+'ccc'
+
+(ref)
+|
+|
+|-
+| rowspan="2" |'''ᴺC'''
+|'''stop,'''
+'''voiced'''
+|(46) /ᶮɟ/
+|[ᶮɟ]
+|'''''nyj'''iag''
+
+['''ᶮj'''iag] H
+
+'mane'
+
+(V324;3.1.3)
+|[ᶮʒ]
+|'''''sh'''xx''
+['''ᶮʒ'''bbb] __/ʉ, u/
+
+'ccc'
+
+(ref)
+|[<sup>n</sup>z]
+|''nzxx''
+
+[<sup>'''n'''</sup>'''z'''bbb] __/i/
+
+'ccc'
+
+(ref)
+|
+|
+|-
+|'''stop,'''
+'''voiceless'''
+|(47) /ᶮc/
+|[ᶮc]
+|'''''nt'''ɑnə''
+
+[<sup>'''n'''</sup>'''t'''ɑnə] HH
+
+'market, business'
+
+(V324;3.1.3)
+|[ᶮcʃ]
+|'''''nycsh'''xx''
+
+['''ᶮcʃ'''yyy]
+
+'zzz'
+
+(ref)
+|[<sup>n</sup>ts]
+|'''''nts'''xx''
+
+[<sup>'''n'''</sup>'''ts'''yyy]
+
+'zzz'
+
+(ref)
+|
+|
+|-
+|'''ᴺC<sup>w</sup>'''
+|'''stop,'''
+'''voiced'''
+|(48) /<sup>n</sup>s<sup>w</sup>/
+|[<sup>n</sup>s<sup>w</sup>]
+|'''''nyjw'''i''
+
+['''ᶮɟᵂ'''i] tone?
+
+'woman'
+
+(V325;3.1.5)
+|[<sup>n</sup>z<sup>w</sup>]
+|'''''nzw'''xx''
+[<sup>'''n'''</sup>'''z<sup>w</sup>'''yyy] __/i/
+
+'zzz'
+
+(ref)
+|
+|
+|
+|
+|-
+|
+|'''stop,'''
+'''voiceless'''
+|(49) /ᶮc<sup>w</sup>/
+|[ᶮc<sup>w</sup>]
+|xxxx
+[ᶮc<sup>w</sup>bbb]
+
+'zzz'
+
+(ref)
+|[ᶮʃ]
+|'''nsh'''xxx
+[ᶮʃbbb]
+
+'zzz'
+
+(ref)
+|
+|
+|
+|
+|-
+| colspan="7" |(adapted from Voorhoeve 1965)
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|
+|
+|
+|
+|}''<nowiki/><nowiki/><nowiki/><nowiki/><nowiki/><nowiki/>''
+
+===== Initial velars =====
+Initial velars include:
+* plain consonants ('''C'''): /ŋ/, /g/ (with allophone [ʁ]), /k/ (with allophones [k<sup>h</sup>] and [k<sup>x</sup>])
+* labialized consonants ('''C<sup>w</sup>'''): /ŋ<sup>w</sup>/ and /g<sup>w</sup>/ (with allophones [w] and [v])
+* pre-nasalized consonants ('''ᴺC'''): /ᵑg/ (with allophone [ᵑgˠ])and /ᵑk/ (with allophones [ᵑk<sup>h</sup>] and [ᵑk<sup>x</sup>])
+* pre-nasalized labialized consonants ('''ᴺC<sup>w</sup>'''): /ᵑg<sup>w</sup> /and /ᵑk<sup>w</sup>/
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="9" |Examples of velar onsets: (50-59)
+|-
+| rowspan="3" |'''C'''
+|'''nasal'''
+|(50) /ŋ/
+|[ŋ]
+| colspan="5" |'''ŋ'''à'ŋà'
+['''ŋ'''ɑʔ-ŋɑʔ] LL
+
+'mosquito' (V323;3.1.2)
+|-
+|'''stop,'''
+'''voiced'''
+|(51) /g/
+|[g]
+|'''''g'''ubtə''
+['''g'''ub-tə] HH
+
+'to linger on' (V323;3.1.2)
+|[ʁ]
+| colspan="3" |'''''r'''xxx''
+['''ʁ'''xxx]  /__[-Closed]
+
+'zzz'
+|-
+|'''stop,'''
+'''voiceless'''
+|(52) /t/]
+|[k]
+|'''''k'''xxxx''
+['''k'''yyyy]
+
+'zzzz' (ref)
+|[k<sup>h</sup>]
+|'''''k'''xxxx''
+['''k'''<sup>h</sup>yyyy]
+
+'zzz' (ref)
+|[k<sup>x</sup>]
+|'''''k'''xxxx''
+['''k'''<sup>x</sup>yyyy]
+
+'zzz' (ref)
+|-
+| rowspan="3" |'''C<sup>w</sup>'''
+|'''nasal'''
+|(53) /ŋ<sup>w</sup>/
+|[ŋ<sup>w</sup>]
+| colspan="5" |'''''ŋw'''ìnte'' LLH
+['''ŋ<sup>w</sup>'''in-tə] LLH
+
+'to grow thin'(V324;3.1.4)
+|-
+|'''stop,'''
+'''voiced'''
+|(54) /g<sup>w</sup>/
+|[g<sup>w</sup>]
+|'''''gw'''ə''
+
+['''gᵂ'''ə] H
+
+'who?' (V324; 3.1.4)
+|[w]
+|'''''w'''xx''
+
+['''w'''yy]  __[-Closed]
+
+'zzz' (ref)
+|[v]
+|'''''v'''xx''
+
+['''v'''yy]  __/ʉ, u/
+
+'zzz' (ref)
+|-
+|'''stop,'''
+'''voiced'''
+|(55) /k<sup>w</sup>/
+|[k<sup>w</sup>]
+| colspan="5" |'''''kw'''x''
+
+['''k<sup>w</sup>'''yyy]
+
+'xxx'
+|-
+| rowspan="2" |'''ᴺC'''
+|'''stop,'''
+'''voiced'''
+|(56) /ᵑg/
+|[ᵑg]
+| colspan="3" |'''''ŋg'''à''
+
+['''ᵑg'''ɑ] L(H)
+
+'root, vein' (V324;3.1.3)
+|[ᵑgˠ]
+|'''''ngh'''''...
+
+['''ᵑgˠ'''...] __/ʉ/
+
+'zzz' (ref)
+|-
+|'''stop,'''
+'''voiceless'''
+|(57) /ᵑk/
+|[ᵑk]
+|'''''ŋk'''ɑnə''
+
+[<sup>'''n'''</sup>'''t'''ɑn''ə''] HH
+
+'market, business' (V324;3.1.3)
+|[<sup>n</sup>k<sup>h</sup>]
+|'''''nt'''xx''
+
+[<sup>'''n'''</sup>'''t<sup>h</sup>'''yyy]/__[+Closed]
+
+'zzz'
+|[<sup>n</sup>k<sup>x</sup>]
+|
+|-
+|'''ᴺC<sup>w</sup>'''
+|'''stop,'''
+'''voiced'''
+|(58) /<sup>n</sup>g<sup>w</sup>/
+|[<sup>n</sup>g<sup>w</sup>]
+| colspan="5" |'''''ŋgw'''àn''
+
+['''ᵑg<sup>w</sup>'''an] L(H)
+
+'slave' (V325;3.1.5)
+|-
+|
+|'''stop,'''
+'''voiceless'''
+|(59) /<sup>n</sup>k<sup>w</sup>/
+|[<sup>n</sup>k<sup>w</sup>]
+|'''''ŋkw'''xx''
+
+[<sup>'''n'''</sup>'''k<sup>w</sup>'''yy]
+
+'zzz' (ref)
+|
+|
+|
+|
+|-
+| colspan="7" |(adapted from Voorhoeve 1965:323''ff''.) 
+row 1 = ''orthography;'' row 2 = [IPA]; row 3 = 'gloss'
+|
+|
+|}
+
+=== Phonological processes affecting segments ===
+
+==== Vowel insertion ====
+Consonant-final words — which are generally CVC because of the size constraint that favours CV or CVC words —are often augmented by a final vowel. This process of vowel insertion happens in one of two contexts: (i) before a pause; (ii) at the end of a sentence. The quality of the inserted vowel is conditioned by the final consonant: if the final C is a glottal stop, then the inserted vowel is schwa; elsewhere, the inserted vowel is a copy of the stem vowel. Examples illustrating vowel insertion are given in xx-yy.
+{| class="wikitable"
+|+
+|}
+
+ (1) a. ''koo''                          b.  ''cintEE''
+        ko-o                             cin-te-e
+        love-FV                          xx-yy-FV
+        'to want, to love'               'to urinated'
+        (adapted from Voorhoeve 1965:332)
+
+==== Consonant mutation ====
+Consonants in onset position surface with different variants. This consonant allophone, a form of consonant mutation, is conditioned by the following vowel. There are seven conditioning contexts, as follows:
+# the non-closed vowels
+# the closed vowels
+# the high front vowel /i/
+# the high non-front vowels /ʉ/ and /u/
+# the high central (non-front, non-back) vowel /ʉ/
+# the high back vowel /u/
+# the vowels /o/ and /ə/
+Table 9 lists these seven contexts, along with the set of segments and phonological class that they target, the effect that they have, and the allophonic alternation that they condition.
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="6" |Table 9. Conditioning contexts for consonant mutation
+|-
+! colspan="2" |Context
+!Segment Set
+!Class
+!Effect
+!Alternation
+|-
+| rowspan="2" |1.
+| rowspan="2" |__ V[-Closed]
+|{b, d, ɟ, g}
+|voiced stop
+|"devoicing"
+|/b/→[p]; /d/→[l]; /ɟ/→[y]; /ɟᵂ/→[yᵂ]; /g/→[ʁ]; /gᵂ/→[w]
+|-
+|{ᵐf, ⁿs}
+|nasalized fricative
+|voicing
+|/ᵐf/→[ᵐv]; /ⁿs/→[ⁿz] (except before /o/) 
+|-
+| rowspan="2" |2.
+| rowspan="2" |__ V[+Closed]
+|{t, ⁿt, k, ᵑk}
+|voiceless stop
+|aspiration
+|/t/→[tʰ]; /ⁿt/→[ⁿtʰ]; /k/→[kʰ/kˣ]; /ᵑk/→[ᵑkʰ/ᵑkˣ]
+|-
+|{b}
+|bilabial
+|devoicing
+|/b/→[p] (optional)
+|-
+|3.
+|__ /i/
+|{ɟ, ɟᵂ, ᶮɟ, ᶮɟᵂ, c, cᵂ}
+|palatal
+|fronting + spirantization
+|/ɟ/→[z]; /ɟᵂ/→[zᵂ]; /ᶮɟ/→[ⁿz]; /ᶮɟᵂ/→[ⁿzᵂ]; /c/ →[ʦ]; /cᵂ/ → [ʦᵂ]; /ᶮcᵂ/ →[ ᶮʃ]?
+|-
+| rowspan="2" |4.
+| rowspan="2" |__ /ʉ, u/
+|{ɟ, ᶮɟ, c, cᵂ}
+|palatal
+| rowspan="2" |spirantization
+|/ɟ/  →[ʒ]; /ᶮɟ/ → [ᶮʒ]; /c/ → [cʃ]; /cᵂ/ → [ʃ] (3.1.8, V1965)
+|-
+|{gᵂ}
+|labialized voiced velar
+|/gᵂ/→[v]
+|-
+|5.
+|__ /ʉ/
+|{g, ᵑg}
+|simplex & nasalized voiced velar
+|spirantization
+|/g/ → [ɣ]; /ᵑg/ → [ᵑgˠ]
+|-
+|6.
+|__ /u/
+|{g}
+|simplex voiced velar
+|retraction + spirantization
+|/g/ → [ʁ]
+|-
+|7.
+|__ /o, ə/
+|{bᵂ}
+|labialized bilabial
+|spirantization
+|/bᵂ/ → [bᵛ]
+|-
+| colspan="6" |(adapted from Voorhoeve 1965:xxx-zzz)
+|}
+
+== Tone ==
+Medumba is famous for the extent to which tone shapes grammar. Although having only a two-tone contrast, namely High (H) and Low (L), surface tone melodies are conditioned by a variety of lexical, morphological and syntactic factors:
+
+# lexically specified level Low (L) and High (H) tone
+# morphologically derived falling (HL) and rising (HL) contour tones
+# syntactically conditioned downstep, where H is produced at a lower pitch than a preceding H tone
+
+=== Two tones: high versus low ===
+Medumba is described  as a two-level tone system with low (L) and high (H) tones; examples are given in Table 16. Observe that the L/H contrast is found with all Lexical (open) class categories; this includes verbs, nouns and prepositions. Likewise, Functional (closed-class) categories show an L/H contrasts; this includes verbal F-categories (C, T, and Aspect) and nominal F-categories (Dem, Det, Pl). [Describe examples; also give minimal pairs]
+
+==== Tone contrasts with verbs ====
+Verb stems come in two shapes, CV and CVC, with each one contrasting Low and High tone. See (1-5) for examples of High/Low tone contrast with CV stems, and (6-6) for examples of High/Low tone contrast with CVC stems.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="8" |High/Low contrast with CV verb stems: (1-5)
+|-
+! rowspan="2" |
+! colspan="3" |Low tone
+! colspan="3" |High tone
+! rowspan="2" |Source
+|-
+!IPA
+!orthography
+!gloss
+!IPA
+!orthography
+!gloss
+|-
+|(1)
+|
+|''bɑ L''
+|'ecaillier'
+|
+|''bɑ''
+|'be crazy'
+|V1976:111
+|-
+|(2)
+|
+|''lò''
+|'stand up'
+|
+|''lo''
+|'leave'
+|V1976:123
+|-
+|(3)
+|
+|''nyì''
+|'defecate'
+|
+|''nyi''
+|'press'
+|V1976:125
+|-
+|(4)
+|
+|tà
+|'be strong, hard'
+|
+|ta
+|1. trade
+2. deny
+
+3. defend oneself
+|V1976:127
+|-
+|(5)
+|
+|''zwì''
+|'laugh'
+|
+|''zwi''
+|'kill'
+|V1976:131
+|}
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="8" |High/Low contrast with CVC verb stems: (6-16)
+|-
+! rowspan="2" |
+! colspan="3" |Low tone
+! colspan="3" |High tone
+! rowspan="2" |Source
+|-
+!IPA
+!orthography
+!gloss
+!IPA
+!orthography
+!gloss
+|-
+|(6)
+|
+|''fʉ̀əgə LH''
+|'be light'
+|
+|''fʉəgə H''
+|'blow'
+|V1976:117
+|-
+|(7)
+|
+|''kʉ̀a L''
+|'sharpen, limer'
+|
+|''kʉa H''
+|'reclame'
+|V1976:121
+|-
+|(8)
+|
+|''làdə LH''
+|'assemble'
+|
+|''ladə''
+|'lick'
+|V1976:122
+|-
+|(9)
+|
+|''lɑnə''
+|'cry, lament'
+|
+|''lɑnə''
+|'be clean, clear, healthy'
+|V1976:122
+|-
+|(10)
+|
+|''tagə''
+|'miss'
+|
+|''tagə''
+|'gather with full hands'
+|V1976:127
+|-
+|(11)
+|
+|''tamə'' LH
+|'mix, assemble'
+|
+|''tamə''
+|1. 'pull with thread'
+
+2. 'sew'
+
+3. 'withe' (crépir)
+|V1976:127
+|-
+|(12)
+|
+|''tɔgə LH''
+|'spit'
+|
+|''tɔgə''
+|'pass'
+|V1976:128
+|-
+|(13)
+|
+|''vɔgə LH''
+|'wake up with a start'
+|
+|''vɔgə''
+|'be short'
+|V1976:129
+|-
+|(14)
+|[jɑʔɑ] LH
+|''yɑʔ'ɑ'' LH
+|'cross'
+|[jɑʔɑ] HH
+|''yɑʔɑ''
+|'give credit'
+|V1976:130
+|-
+|(15)
+|
+|''yɔgə LH''
+|1. 'live'
+2. 'devore'
+|
+|''yɔgə''
+|1. 'warm onsself up'
+2. 'pass the day'
+|V1976:130
+|-
+|(16)
+|
+|''ywədə  LH''
+|'soak, wet'
+|
+|''ywədə''
+|1. 'be rested
+2. 'be full (from eating'
+|V1976:130
+|-
+| colspan="8" |(adapted from Voorhoeve 1976)
+|}
+
+==== Tone contrasts with nouns ====
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="10" |High/Low tone contrast with CV nouns stems: (17-22)
+|-
+! rowspan="2" |
+! colspan="4" |Low tone
+! colspan="4" |High tone
+! rowspan="2" |Source
+|-
+!
+!IPA
+!orthography
+!gloss
+!
+!IPA
+!orthography
+!gloss
+|-
+|(17)
+|L(H)
+|[mbà]
+|''m-bà''
+|'nut' (c2)
+|H(L)
+|[mbá]
+|''m-ba''
+|'pot, marmite'
+|V1976:111
+|-
+|(18)
+|L(L)
+|[cɔ]
+|''cɔ''
+|'news, story' (c1/4)
+|H(H)
+|[cɔ]
+|''cɔ''
+|'theft' (c3)
+|V1976:114
+|-
+|(19)
+|L(L)
+|[ndɔ]
+|''ndɔ''
+|'long solid unit'
+|H(L)
+|[ndɔ]
+|''ndɔ''
+|1. horn "corne"
+2. whistle
+|V1976:115
+|-
+|(20)
+|L(H)
+|
+|''fə''
+|1. 'feather' (c3/5)
+2.' leaf'
+|H(L)
+|
+|''fə''
+|'dead body'
+|V19`76:116
+|-
+|(21)
+|L(H)
+|
+|''sà''
+|'star'
+|H(L)
+|
+|''sa''
+|'game'
+|V1976:126
+|-
+|(22)
+|L(H)
+|
+|''n-zà''
+|'miracle' (c2/4)
+|H(L)
+|
+|''n-za''
+|'hill'
+|V1976:131
+|-
+| colspan="10" |(adapted from Voorhoeve 1976)
+|}
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="10" |High/Low tone contrast with CVC noun stems: (23-29)
+|-
+! rowspan="2" |
+! colspan="4" |Low tone
+! colspan="4" |High tone
+! rowspan="2" |Source
+|-
+!
+!IPA
+!orthography
+!gloss
+!
+!IPA
+!orthography
+!gloss
+|-
+|(23)
+|L(L)
+|[mbàn]
+|''m-bàn''
+|'rain' (c2)
+|H(L)
+|[mbán]
+|''m-ban''
+|'side, c?'
+|V1976:111
+|-
+|(24)
+|L(H)
+|[bùʔ]
+|''bù'''
+|'mushroom' (c3/5)
+|H(L)
+|[búʔ]
+|''bu'''
+|'package' (c3/6)
+|V1976:113
+|-
+|(25)
+|L(H)
+|[ɣəʔ]
+|''ghə'''
+|'cheek' (c3/5)
+|H(H)
+|
+|''ghə'''
+|'avarice' (c3)
+|V1976:117
+|-
+|(26)
+|L(L)
+|
+|''n-tɑn''
+|'string' (c1)
+|H(H)
+|
+|''n-tɑn''
+|'trade, commerce' (c1)
+|V1976:127
+|-
+|(27)
+|L(H)
+|
+|''ŋ-kùn''
+|'tail' (c2/4)
+|H(L)
+|
+|''ŋ-kun''
+|'rice, beans'
+|V1976:121
+|-
+|(28)
+|L(L)
+|
+|''kɑb''
+|'fence' (c1/4)
+|H(L)
+|
+|''ŋ-kɑb''
+|'money' (c1)
+|V1976:119
+|-
+|(29)
+|L(L)
+|
+|''kam''
+|'piece' (c3/5)
+|H(L)
+|
+|''ŋ-kam''
+|'noble' (c1/4)
+|V1976:119
+|-
+|(30)
+|L(H)
+|
+|''cwed''
+|'the bush'
+|L(H)
+|
+|''ncwed''
+|'chiefancy
+|
+|-
+| colspan="10" |(adapted from Voorhoeve 1976)
+|}
+In principle, given the possibility of a stem bearing associated with one of four tone melodies — namely L(L), L(H), H(L) and H(H) for nouns and L or H for verbs — one expects to find a four-way tone contrast for a given segmental base (either CV or CVC). No such examples are attested within a given word-class, but there is one instance elf a 4-way contrast across word-classes. In addition, there are a few three-way contrasts for a given noun base, and numerous many four-way tone contrasts with the same base, if one looks at tone melodies across word-classes.
+* CV ''tɔ,'' which has L(H), H(L) and H(H) stems
+* CVC ''m-vɛd'', which has L(L) 
+* CVC ''lɛn'', to, and mvdd.
+Examples are given in (1-3).
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="10" |Tone contrasts across word classes: L versus H
+|-
+! rowspan="2" |
+! colspan="4" |Low tone
+! colspan="4" |High tone
+! rowspan="2" |Source
+|-
+!
+!IPA
+!orthography
+!gloss
+!
+!IPA
+!orthography
+!gloss
+|-
+| rowspan="3" |(1)
+|'''L'''(L)
+| colspan="3" |—
+|'''H'''(L)
+|
+|''tɔ''
+|'N: neck, throat' (c2)
+| rowspan="2" |V1976:128
+|-
+|'''L'''(H)
+|
+|''tɔ''
+|N: 'nombril' (c3)
+|'''H'''(H)
+|
+|''tɔ''
+|'N: hole' (c3/5)
+|-
+|'''L'''
+|
+|''tɔ-ɔ LH''
+|1. V: 'govern'
+2. V: take/pay a debt
+|'''H'''
+| colspan="4" |—
+|-
+| colspan="10" |
+|-
+| rowspan="4" |(2)
+|'''L'''(L)
+|
+|''m-vɛd''
+|N: 'rope' (c1/4)
+| rowspan="2" |'''H'''(L)
+| rowspan="2" |
+| rowspan="2" |''m-vɛd''
+| rowspan="2" |'N: oil' (c5)
+| rowspan="4" |V1976:129
+|-
+|'''L'''-L(L)
+|
+|''m-vɛd-m-vɛd''
+|N: 'mosquito' (c4)
+|-
+|'''L'''(H)
+| colspan="3" |—
+|'''H'''(H)
+|
+|''m-vɛd''
+|'N: brother' (c1/4)
+|-
+|'''L'''
+|
+|''vɛd-ə'' LH
+|V: 'tremble'
+|'''H'''
+| colspan="3" |—
+|-
+| colspan="10" |
+|-
+| rowspan="3" |(3)
+|'''L'''(L)
+|
+|''lɛn''
+|N: 'sign' (c2/4)
+|'''H'''(L)
+|
+|''lɛn''
+|N: 'name' (c3/5)
+| rowspan="3" |V1976:123
+|-
+|'''L'''(H)
+|
+|''lɛn''
+|N: 'mark, quality, sort' (c2)
+|'''H'''(H)
+| colspan="3" |—
+|-
+|'''L'''
+|
+|''lɛn-ə LH''
+|V: know, recognize
+|'''H'''
+| colspan="3" |—
+|-
+| colspan="10" |
+|-
+|(4)
+|'''L'''(L)
+|
+|''bàg''
+|N: 'side' (c?)
+|'''H'''(L)
+| colspan="3" |—
+| rowspan="3" |V1976:111
+|-
+|
+|'''L'''(H)
+|
+|''bàg''
+|N: '1pl pronoun'
+|'''H'''(H)
+| colspan="3" |—
+|-
+|
+|'''L'''
+|
+|''bàg-ə LH''
+|V: 'split'
+|'''H'''
+|
+|''bag-ə HH''
+|V: 'lean'
+|-
+| colspan="10" |
+|-
+|(5)
+|'''L'''(L)
+|
+|''bàm''
+|N: 'belly" (c3/5)
+|'''H'''(L)
+| colspan="3" |—
+| rowspan="3" |V1976:111
+|-
+|
+|'''L'''(H)
+| colspan="3" |
+|'''H'''(H)
+| colspan="3" |—
+|-
+|
+|'''L'''
+|
+|''bàm-ə'' LH
+|V: 'wake up'
+|'''H'''
+|
+|''bam''
+|V: 'accept, believer, answer'
+|-
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+|(6)
+|'''L'''(L)
+|
+|
+|
+|'''H'''(L)
+|
+|
+|
+|
+|-
+|
+|'''L'''(H)
+|
+|bu'
+|N: 'mushroom' (c3/5)
+|'''H'''(H)
+|
+|bu'
+|N: package (c3/5)
+|
+|-
+|
+|'''L'''
+|
+|
+|
+|'''H'''
+|
+|bu'
+|V: 'play, sound out'
+|
+|-
+| colspan="10" |(adapted from Voorhoeve 1976)
+|}
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="10" |Noun classes
+|-
+! rowspan="2" |
+! colspan="4" |Low tone
+! colspan="4" |High tone
+! rowspan="2" |Source
+|-
+!
+!IPA
+!orthography
+!gloss
+!
+!IPA
+!orthography
+!gloss
+|-
+|(1)
+|L(L)
+|
+|''kà''
+|'sorcellery, magic (c3)
+|L(H)
+|
+|''ŋ-kà''
+|'rank' (c2)
+|V1976:119
+|-
+|(2)
+|L(L)
+|[kəʔ]
+|''kə'''
+|'tam-tam' (c3/5)
+|H(L)
+|
+|''ŋ-kə'''
+|'ball'
+|V1976:120
+|-
+|(3)
+|L(H)
+|
+|''kɔ''
+|'arrow" (c3/5)
+|L(H)
+|
+|''ŋ-kɔ''
+|'pilon' (c1/4)
+|V1976:121
+|-
+|(4)
+|H
+|
+|''shun''
+|'friendship (c1/4)
+|H(H)
+|
+|''n-shun''
+|'friend' (c1/4)
+|V1976:126
+|-
+|(5)
+|H(H)
+|
+|''tʉ''
+|1. 'tree' (c3/5)
+2. 'up above'
+|H(L)
+|
+|''n-tʉ''
+|'heart' (c/24)
+|V1976:129
+|-
+| colspan="10" |(adapted from Voorhoeve 1976)
+|}
+ (3)  Low-tone           '''''fù'''''                          (4) High-tone          '''''tʃə́ŋ'''''   
+                        [fù]                                                [tʃə́ŋ]
+                        'medicine'                                           'food'         
+ 
+ (From Kouankem 2013:60; Mucha 2017: 8)
+
+==== Tone contrasts with prepositions ====
+ (5)  Low-tone    (a)   '''''mbàŋ'''''                       (6) High-tone         '''''mʙə́'''''   
+                        [<sup>m</sup>bàŋ]                                           [<sup>m</sup>ʙə́]
+                        'next to'                                        'in front of'    
+ 
+                  (b)   '''''nùm'''''
+                        [nùm]
+                        'on'
+   
+                  (c)   '''''ɲàm'''''
+                        [ɲàm]
+                        'behind'
+ 
+ (from Hawkes et al. 2015:122)
+
+==== Tone contrasts with complementizers ====
+ (7)  Low-tone    (a)   '''''ndà'''''                        (8) High-tone         '''''mbʉ'''''   
+                        [<sup>n</sup>dà]                                           [<sup>m</sup>b''ʉ́'']
+                        'C'                                              'C'    
+ 
+ (From)
+
+==== Tone contrasts with demonstratives ====
+ (9)  Low-tone    (a)    s-ə̂n                     (10) High-tone         '''''N yə́n'''''   
+                        [s-ə̂n]                                           [N  yə́n]
+                        AGR-this                                          N    Dem.Dist
+                                                                        'that N'    
+ 
+ (Kouankem 2013:60)
+
+==== Tone contrasts with plural-marking ====
+ (11)  Low-tone    (a)   '''''bà   N'''''                    (12) High-tone        '''''ba N''''' 
+                        [bà]                                             [bá]
+                        'PL'                                            'PL'   
+ 
+ (Kouankem 2013:62)
+
+=== Falling and rising tones ===
+In addition to level high and low tones, Medumba exhibits falling (HL) and rising (LH) contour tones. These contour tones are morphologically derived from  floating H tones that occur as affixes preceding or following the stems they associate with. These floating tones make themselves known by docking to tone-bearing units (TBUs) associated with  L-tone, thus forming a tone contour. [DESCRIBE EXAMPLES; add LH examples]  
+ (13)  L-tone verb (put in sentence)
+       '''''ghʉ̀''''' 
+       [ɣʉ̀] 
+       do
+       'do’
+ 
+ 
+ (14)  Derived HL-tone verb (put in sentence)
+       '''''nghʉ̀''''' 
+       [N-ɣʉ̀] 
+       N-do
+       'do, consecutive’
+ 
+ (identify source)
+
+=== Downstep ===
+Medumba shows downstep, where H is produced at a lower pitch than an immediately preceding H tone; downstep is represented as (ꜜ). Downstep is viewed as resulting from a floating Low tone that shifts the pitch level of a following High tone one step lower than the preceding High tone.<ref name=":0">{{Cite journal|last=Voorhoeve|first=Jan|date=1971|title=Tonology of the Bamileke Noun|journal=Journal of African Languages|volume=10|pages=44–53}}</ref> Downstep is syntactically conditioned in that it occurs at phrasal boundaries:
+* Downstep occurs between Subject and following Verb,
+* Downstep occurs between Verb and following Complement
+* Downstep occurs between Noun and following Complement
+[GIVE EXAMPLES]
+
+== Morphology ==
+
+=== Affixation ===
+Medumba has several affixes including:
+* the suffix -''te'', which attaches to verbs to derive the counterpart iterative form ('to verb regularly or repetitively'). While many -te forms have a counterpart base to which the may or may not transparently related (1-10), many of them seem to be frozen forms, for which the underived no longer exists (11-22).
+* homorganic nasal prefixal N-, which is found in two contexts:
+** it  attaches to verbs to derive nouns
+** it attaches to verbs to derive non-initial verbs (e.g. after an auxiliary or the non-initial verb of serial verb construction)
+* suffixal H-tone
+* prefixal H-tone
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="8" |Examples of iterative ''-tə'': (1-10)
+|-
+!
+!IPA
+!orthography
+!gloss
+!IPA
+!orthography
+!gloss
+!source
+|-
+|(1)
+|
+|''bà L''
+|'be red'
+|
+|''bà-tə LL''
+|'change'
+|V1976:111
+|-
+|(2)
+|
+|''bɛd H''
+|'crever, pierce, explode' 
+|
+|''bɛd-tə HH''
+|'ask'
+|V1976:112
+|-
+|(3)
+|
+|''cwed'' H
+|'wipe'
+|
+|''cwed-tə'' HH
+|'pick up'
+|V1976:114
+|-
+|(4)
+|
+|''fàg'' L
+|'rip'
+|
+|''fàg-tə'' LL
+|1. 'rip'
+2. to separate from each other
+|V1976:116
+|-
+|(5)
+|
+|''ghub H''
+|'become quiet'
+|
+|''ghub-tə HH''
+|'be late'
+|V1976:118
+|-
+|(6)
+|
+|''kùb'' L
+|'be covered with écailles'
+|
+|''kùb-tə'' LL
+|'escroquer'
+|V1976:121
+|-
+|(7)
+|
+|''làb L''
+|'hit'
+|
+|''làb-tə LL''
+|1. 'hit with small hits'
+2. 'thank, pray'
+|V1976:26
+V1976:122
+|-
+|(8)
+|[lɑʔ]
+|''lɑ' L''
+|'to become angry'
+|
+|''lɑ'-tə LL''
+|'reveal, show'
+|V1976:122
+|-
+|(9)
+|
+|''mɑ' L''
+|1. throw
+2. project
+
+3. clothe again
+|
+|''mɑ'-tə LL''
+|'cotiser'
+|V1976:123
+|-
+|(10)
+|
+|''tɛn H''
+|'push
+|
+|''tɛn-tə HH''
+|'push with small shakes'
+|V1976:26
+|}
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="5" |Examples of iterative ''-tə'' (frozen forms): (11-22)
+|-
+!
+!IPA
+!orthography
+!gloss
+!source
+|-
+|(11)
+|
+|''ben-tə'' HH
+|'mend, pin up'
+|V1976:112
+|-
+|(12)
+|
+|''fɛd-tə'' LL
+|'pour, empty'
+|V1976:116
+|-
+|(13)
+|
+|''cwed-tə'' LL
+|'show'
+|V1976:114
+|-
+|(14)
+|
+|''kòm-tə'' LL
+|'be amusing, provoke laughter'
+|V1976:121
+|-
+|(15)
+|
+|''kwim-tə'' HH
+|'remember'
+|V1976:122
+|-
+|(16)
+|
+|''làg-tə'' LL
+|'forgive, forget'
+|V1976:122
+|-
+|(17)
+|
+|''lam-tə'' HH
+|'trick'
+|V1976:122
+|-
+|(18)
+|
+|''len-tə'' LL
+|'safeguard, fructify'
+|V1976:123
+|-
+|(19)
+|
+|''nyi'-tə'' LL
+|'shake'
+|V1976:125
+|-
+|(20)
+|
+|''sag-tə'' HH
+|1. 'be dirty
+2. 'realize'
+|V1976:126
+|-
+|(21)
+|[sɛʔ-tə]
+|''sɛ'-tə LL''
+|'rub'
+|V1976:126
+|-
+|(22)
+|
+|''tad-tə'' HH
+|'lie, mislead'
+|V1976:127
+|}
+
+===Tonal inflection ===
+
+==== Nominal tone classes: LL, HH, HL, LH ====
+Tone on Nouns: {LL, HH, HL, LH}: Voorhoeve introduced a non-segment tone in order to distinguish two different low tone noun groups and two different high tone noun groups. For instance, naʔ and mfən both bear a segment low tone, but their tonal realization is different in the context such as ''mə jən mfən ___''. For instance, naʔ in ''mə jən mfən '''naʔ''' (I saw the child of the cow)'' bears a non-low tone, whereas mfen in ''mə jən mfən'' '''''mfən''''' ''(I saw the child of the chief)'' bears a low tone. He proposed a four-way distinction, L(L), L(H), H(L), and H(H) to account for the nominal tone groups (Voorhoeve 1971:44-53). Examples are given in Table 10.  
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="5" |Table 10. Noun tone classes
+|-
+!Tone class
+!Surface tone
+!IPA
+!Orthography
+!Gloss
+|-
+|L(L)
+|L
+|[mfə̀n]
+|mfə̀n
+|'chief'
+|-
+|L(H)
+|L
+|[naʔ]
+|nà'
+|'cow'
+|-
+|H(L)
+|H
+|[mɛn]
+|mɛn
+|'child'
+|-
+|H(H)
+|H
+|[njwí]
+|nywi
+|'tree'
+|-
+| colspan="5" |Adapted from Voorhoeve 1971: 44-53
+|}
+
+==== Verbal tone classes: L, H ====
+Tone on Verbs: {L, H}: The radical of the verb has only one tonal contrast, which is a Low and High contrast.<ref name=":7">{{cite journal|last1=Voorhoeve|first1=Jan|date=1974|title=Locatives in Bangangte-Bamileke|journal=Studies in African Linguistics|volume=5|issue=2|page=205}}</ref><ref>{{Cite journal|last=Franich|first=Kathryn|date=2014|title=Contour Tones and Prosodic Structure in Medumba|url=https://journals.linguisticsociety.org/proceedings/index.php/BLS/article/viewFile/3135/2853|journal=Annual Meeting of the Berkeley Linguistics Society|volume=40|pages=102–124|doi=10.3765/bls.v40i0.3135|doi-access=free}}</ref> The tone of radical may be realized differently in different contexts. For instance, a low tone verb that has a nasal prefix has a different tone from its non-prenasalized counterpart. Examples are provided to illustrate this phenomenon. [Give examples of CV, CVC, CV-L and CVC-L)
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="9" |Table 11. Verb tone classes
+|-
+! colspan="2" rowspan="2" |Tone class
+! colspan="3" |Context 1: infinitve
+! colspan="3" |Context 2: consecutive
+!
+|-
+!Surface tone
+!IPA
+!Orthography
+!Surface tone
+!IPA
+!Orthography
+!Gloss
+|-
+| rowspan="2" |L-tone
+|CV
+|'''L'''-H
+|[kòó]
+|''kòo''
+|H-'''L'''
+|[ᵑkóò]
+|''ŋkoò''
+|like
+|-
+|CVC
+|'''L'''-H
+|[kùmə́]
+|''kùmə''
+|H-'''L'''
+|[ᵑkúmə̀]
+|''ŋkumə̀''
+|arrive
+|-
+| colspan="9" |
+|-
+| rowspan="2" |H-tone
+|CV
+|H
+|[ʒú]
+|''ju''
+|H
+|[ᶮʒú]
+|''nyju''
+|eat
+|-
+|CVC
+|H-H
+|[túmə́]
+|''tumə''
+|HH
+|[ⁿtúmə́]
+|''ntumə''
+|leave
+|-
+| colspan="9" |Adapted from Voorhoeve 1965: 319-334, Franich 2014: 102-124
+|}
+The examples above show that the Low tone radical is realized as a high tone if the verb is prenasalized, whereas it is realized as a low-mid tone if the verb is not prenasalized. The High tone radical is realized as mid tone regardless of prenasalization. This effect is also found in Bamileke-FeʔFeʔ.
+
+===  Noun classes  ===
+Voorhoeve identifies two characteristics of noun classes that surface in Medumba:<ref name=":4">{{Cite journal|last=Voorhoeve|first=Jan|year=1968|title=Noun Classes in Bamileke|journal=Lingua|volume=21|pages=584–593|doi=10.1016/0024-3841(68)90077-6}}</ref>
+* Systems of pairings between singular and plural prefixes
+* Concording nominal and prenominal prefixes
+Voorhoeve also assumes that pronominal prefixes exist within the noun class system, with these prefixes consisting of inherent tone morphemes such as the left-edge floating tone. The added prenominal tone creates a tonal difference between singular and plural noun class pairs, with generation of the plural form created by the singular.<ref name=":4" /><ref name=":5" />
+
+Noun classes can be detached by singular and plural pairs.<ref name=":3">{{Cite book|url=http://www.lingref.com/cpp/acal/44/paper3129.pdf|title=Interspeaker Variation in Noun Class Realization in Medumba, a Grassfields Language|last1=Goldman|first1=Nora|last2=Orman|first2=Will|last3=Paquette|first3=Elodie|last4=Franich|first4=Kathryn|last5=Hawkes|first5=Rachel|last6=Ngabeu|first6=Ariane|last7=O'Connor|first7=Catherine|work=Selected Proceedings of the 44th Annual Conference on African Linguistics|publisher=Cascadilla Proceedings Project|year=2015|editor-last=Kramer|editor-first=Ruth|location=Somerville, MA|pages=98–109}}</ref>
+
+Voorhoeve ascertains that the nasal prefix serves as a distinguishing factor between singular and plural noun pairs. As seen in Table 19, this nasal prefix does not surface in all constructions, especially with singular nouns that are already nasal word-initially.<ref name=":4" /><ref name=":3" /> 
+{| class="wikitable"
+|+Table 12. Noun Class Pairs
+!Class
+!IPA
+!Orthography
+!Gloss
+|-
+|Class 1
+|[mɛ́n]
+|mɛ́n
+|'child'
+|-
+|Class 2
+|[bʉ́n]
+|bʉ́n
+|'children'
+|-
+|Class 3
+|[báàʔ]
+|báaʔ
+|'house'
+|-
+|Class 4
+|[mbáàʔ]
+|báaʔ
+|'houses'
+|-
+|Class 5
+|[b<sup>h</sup>í]
+|b<sup>h</sup>í
+|'knife'
+|-
+|Class 4
+|[mb<sup>h</sup>í]
+|mb<sup>h</sup>í
+|'knives'
+|-
+| colspan="4" |(Adapted from Goldman et al. 2015:99 and
+Voorhoeve 1976:13-14)
+|}
+Other noun classes in Medumba, however, exhibit derivation from [[Proto-Bantu language|Proto-Bantu]] noun classes, which had a strict parallel between singular and plural classes.<ref name=":3" /> In comparing [[Agreement (linguistics)|agreement]] systems of Bamileke languages, Medumba behaves independently from the expected system. Compared to Proto-Bantu noun classes, there seems to be a noun class merger in Medumba.<ref name=":0" /> This merger occurs through the compression of various Proto-Bantu noun classes into a generalized noun class in Medumba. This can be seen in Table 13.
+
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="7" |Table 13. Comparing Proto-Bantu and Medumba Noun Classes
+|-
+! rowspan="2" |
+! rowspan="2" |Proto-Bantu Meanings
+! rowspan="2" |(Odden
+Forthc.)
+! rowspan="2" |Proto-Bantu
+Noun Class
+! rowspan="2" |Medumba
+Nouns Class
+! colspan="2" |Example
+|-
+!IPA
+!Gloss
+|-
+| rowspan="5" |'''singular'''
+|Humans, animate
+|''*mʊ-''
+|1
+| rowspan="2" |1
+|[mɛ́n]
+|'child'
+|-
+|Animals, inanimate
+|''*n-''
+|9
+|[mb<sup>h</sup>ʉ́]
+|'dog'
+|-
+|Plants, inanimate
+|''*mʊ-''
+|3
+| rowspan="2" |3
+|[tʃ<sup>h</sup>ʉ́]
+|'tree'
+|-
+|Various, diminutives, manner/way/language
+|''*kɪ-''
+|7
+|[báàʔ]
+|'house'
+|-
+|Various
+|''*di-''
+|5
+|5
+|[b<sup>h</sup>í]
+|'knife'
+|-
+| rowspan="5" |'''plural'''
+|Humans, animate (plural of class 1)
+|''*ba-''
+|2
+| rowspan="2" |2
+|[bʉ́n]
+|'children'
+|-
+|Animals, inanimate (plural of class 9)
+|''*n-''
+|10
+|[mb<sup>h</sup>ʉ́]
+|'dogs'
+|-
+|Plants, inanimate (plural of class 3)
+|''*mɪ-''
+|4
+| rowspan="3" |4
+|[ntʃ<sup>h</sup>ʉ́]
+|'trees'
+|-
+|Various, diminutives, manner/way/language (plural of class 7)
+|''*bi-''
+|8
+|[mbáàʔ]
+|'houses'
+|-
+|Various (plural of class 5), liquids ([[mass noun]]s)
+|''*ma-''
+|6
+|[mb<sup>h</sup>í]
+|'knives'
+|-
+| colspan="7" |(Adapted from Voorhoeve 1976:13-14)
+|}
+Proto-Bantu noun classes typically assign particular words to certain noun classes, but this is not exhibited in Medumba. This would imply the dissolution of strict noun classes like the ones found in Proto-Bantu, as the set noun classes are merging into one class, albeit still maintaining a noun class-like form.<ref name=":3" /> The flexibility of noun classes in Medumba could be correlated with inflectional morphemes acting as the noun class system, with these morphemes surfacing as left-edge floating tones.<ref name=":5">{{Cite journal|last=Anghelescu|first=Andrei|date=2010|title=Tonology of the Disyllabic Medumba Noun|url=https://linguistics.sites.olt.ubc.ca/files/2016/07/Andrei-Anghelescu-Tonology-of-the-Disyllabic-Medumba-Noun-April-9.pdf|journal=Boston University}}</ref>
+
+Loan words are normally inserted into unrestricted noun classes. /látr<s>í</s>/, the loan word for "light" from English, can either be viewed as a mass noun or not, depending on the speaker. In the case of Medumba, this allows for any noun class to take a loan word.<ref name=":3" />
+
+In looking at interspeaker variation on the addition of loan words in Medumba noun classes, the instability of a formal noun class allows flexibility with speakers of various dialects This could be due to disagreement on how to lexicalize a new loan word between the various dialects. One such example is the loan word for "light", /látr<s>í</s>/. While one speaker chose to pluralize /látr<s>í</s>/ as /ndátr<s>í</s>/, the other speaker refused to pluralize /látr<s>í</s>/ as they believed it was a mass noun.<ref name=":3" />
+
+Younger speakers of Medumba are beginning to use forms of words that do not account for noun class, such as the first person possessive form /jɔm/. The first person possessive form normally varies depending on the noun it is possessing, such as in /látr<s>í</s> -ɔm/ (my light) or /ndátr<s>í</s> -t͡ʃɔm/ (my lights). It is unknown as to how much younger speakers know about noun classes and agreement.<ref name=":3" />
+
+=== Pronouns: simplex, possessive, complex, reciprocal ===
+Bamileke distinguishes four sets of [[personal pronoun]]s: simplex, possessive, complex, and reciprocal.<ref name=":9">{{Cite journal|last=Voorhoeve|first=Jan|date=1967|title=Personal Pronouns in Bamileke|journal=Lingua|volume=17|issue=3–4|pages=421–430|doi=10.1016/0024-3841(67)90010-1}}</ref>
+
+==== Simplex pronouns ====
+Simplex pronouns are differentiated according to syntactic position: 
+* subject forms are V, CV, or CVC, and surface with Low tone or High tone 
+* object forms are V, CV, or CVC, and surface with Low toner or High tone 
+* elsewhere forms occur as indirect object, object of P, or in non-argument position (e.g. when topicalized by ''kí'' or focus-marked by ''á'') 
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="8" |Table 14. Singular pronouns
+|-
+! rowspan="2" |
+!
+! colspan="2" |Subject
+! colspan="2" |Object
+! colspan="2" |Elsewhere
+|-
+!
+!IPA
+!orthography
+!IPA
+!orthography
+!IPA
+!orthography
+|-
+| rowspan="2" |'''1sg'''
+|H
+|[mʉ́]
+|''mʉ''
+|[mʉ́]
+|''mʉ''
+|[ɑ́m]
+|''ɑm''
+|-
+|L
+|[mʉ̀]
+|''mʉ̀''
+|[mʉ̀]
+|''mʉ̀''
+|[ɑ̀m]
+|''ɑ̀m''
+|-
+| rowspan="2" |'''2sg'''
+|H
+|[ú]
+|''u''
+|[wʉ́]
+|u
+|[ú]
+|''u''
+|-
+|L
+|[ù]
+|''ù''
+|[wʉ̀]
+|''ù''
+|[ù]
+|''ù''
+|-
+| rowspan="2" |'''3sg'''
+|H
+|[á]
+|''a''
+|[jí]
+|''yi''
+|[í]
+|''i''
+|-
+|L
+|[à]
+|''à''
+|n/a
+|n/a
+|[ì]
+|''ì''
+|-
+| colspan="8" |(adapted from Voorhoeve 1967:422, Table 1, Columns I, II, II)
+|}
+Almost all plural pronouns often begin with ''b''-, which is a marker of plurality; see Table 15. The only exception to this is the 2pl pronoun ''jin'', which is the elsewhere form (i.e. it is used with indirect objects, objects of prepositions, and for topicalization and focalization).
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="8" |Table 15. Plural pronouns
+|-
+! rowspan="2" |
+!
+! colspan="2" |Subject
+! colspan="2" |Object
+! colspan="2" |Elsewhere
+|-
+!
+!IPA
+!orthography
+!IPA
+!orthography
+!IPA
+!orthography
+|-
+| rowspan="2" |'''1pl'''
+|H
+|n/a
+|n/a
+|[˚b-ág´]
+|''bag''
+|[˚jág-]
+|''yag''
+|-
+|L
+|[b-àg]
+|''bàg''
+|[˚b-àg´]
+|''bàg''
+|[˚jàg-]
+|''yàg''
+|-
+| rowspan="2" |'''1pl (inclusive)'''
+|H
+|[b-ə́]
+|''bə''
+|n/a
+|n/a
+|n/a
+|n/a
+|-
+|L
+|[b-ə̀]
+|''bə̀''
+|[b-ə̀n]
+|''bə̀n''
+|[b-ə̀n]
+|''bə̀n''
+|-
+| rowspan="2" |'''2pl'''
+|H
+|n/a
+|n/a
+|[˚b-ín´]
+|''bin''
+|[˚jín-]
+|''yin''
+|-
+|L
+|[b-ìn]
+|''bìn''
+|[˚b-ìn´]
+|''bìn''
+|[˚jìn-]
+|''yìn''
+|-
+| rowspan="2" |'''3pl'''
+|H
+|[b-ú]
+|''bu''
+|[b-ú]
+|''bu''
+|[˚júb-]
+|''yub''
+|-
+|L
+|[b-ù]
+|''bù''
+|n/a
+|n/a
+|[˚jùb-]
+|''yùb''
+|-
+| colspan="8" |(adapted from Voorhoeve 1967:422, Table 1, Columns I, II, II)
+|}
+
+The tone simplex pronouns depends on the following verb or auxiliary (for subject pronouns) or the preceding verb (for object pronouns). Examples of tone variation of pronoun in subject position (provide fuller description and edit examples). Example (1) illustrates 1st ''me;'' 2sg ''u'', 3sg o, and 3pl ''bu'' also behave as in (1). Example (2) illustrate 1pl  ''bag''; 2pl ''bin'' also behaves as in (2). [give orthography and IPA]
+
+: {|
+|style="vertical-align: top; text-align: right;"|(1) a.
+| {{interlinear|'''mə'''  kem men|1SG see child|'I saw the child'}}
+|style="vertical-align: top; text-align: right;"|(2) a.
+| {{interlinear|'''bag''' jen men|1PL see child|'We saw the child'}}
+|-
+|style="vertical-align: top; text-align: right;"|b.
+| {{interlinear|'''mə'''  ke? jen men|1SG NEG see child|'I did not see the child'}}
+|style="vertical-align: top; text-align: right;"|b.
+| {{interlinear|'''bag''' ke? jen men|1PL NEG see child|'We did not see the child'}}
+|-
+|style="vertical-align: top; text-align: right;"|c.
+| {{interlinear|'''mə''' do jen men|1SG PAST.REC see child|'I just saw the child'}}
+|style="vertical-align: top; text-align: right;"|c.
+| {{interlinear|'''bag''' do jen men|1PL PAST.REC see child|'We just saw the child'}}
+|-
+|style="vertical-align: top; text-align: right;"|d.
+| {{interlinear|'''mə''' ke njen men|1SG ?? see child|'It was me who saw the child'}}
+|style="vertical-align: top; text-align: right;"|d.
+| {{interlinear|'''bag''' ke njen men|1PL ?? see child|'It was us who saw the child'}}
+|-
+|colspan="100%"| (adapted from Voorhoeve 1967:423f.)
+|}
+
+Examples of tone variation of pronoun in object position ((provide fuller description, edit examples put both IPA and orthography). Example (3) illustrates 1sg ''am''; example (4) illustrates 1pl ''jag''(''e''). [give orthography and IPA
+
+: {|
+|style="vertical-align: top; text-align: right;"|(3) a.
+| {{interlinear|a dab '''am'''|3SG beat 1SG|'S/he beat me'}}
+|style="vertical-align: top; text-align: right;"|(4) a.
+| {{interlinear|a dab '''jage'''|3SG beat 1PL|'S/he beat us'}}
+|-
+|style="vertical-align: top; text-align: right;"|b.
+| {{interlinear|a na? ndab '''am'''|1 ?? N-beat 1SG|'S/he beat me a bit'}}
+|style="vertical-align: top; text-align: right;"|b.
+| {{interlinear|bag ke? jen men|1PL NEG see child|'S/he beat us a bit'}}
+|-
+|style="vertical-align: top; text-align: right;"|c.
+| {{interlinear|a ton '''am'''|3SG spy.on 1SG|'S/he spied on me'}}
+|style="vertical-align: top; text-align: right;"|c.
+| {{interlinear|a ton '''yage'''|3SG spy.on 1PL|'S/he spied on us'}}
+|-
+|style="vertical-align: top; text-align: right;"|d.
+| {{interlinear|a na? nton '''am'''|3SG ?? spy.on 1SG|'S/he spied on me a bit'}}
+|style="vertical-align: top; text-align: right;"|d.
+| {{interlinear|a na? nton '''yage'''|3SG ?? spy.on 1PL|'S/he spied on us a bit'}}
+|-
+|colspan="100%"| (adapted from Voorhoeve 1967:425)
+|}
+
+==== Possessive and appositional pronouns ====
+The tonal structure of possessive pronouns depends on the tonal structure of the preceding noun. 
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="12" |Table 16. Possessive and appositional pronouns
+|-
+! colspan="2" rowspan="3" |Specification
+! colspan="8" |Possessive
+! colspan="2" rowspan="2" |Appositional
+|-
+! colspan="4" |with SG Nouns: 'X's N'
+! colspan="4" |with PL Nouns: 'X's N-s'
+|-
+!IPA
+!Orthography 
+!IPA
+!Orthography
+!IPA
+!Orthography
+!IPA
+!Orthography
+!IPA
+!Orthography
+|-
+| rowspan="6" |'''singular'''
+| rowspan="2" |'''1sg'''
+|[ɑ́m]
+|''ɑm''
+|[s-ɑ́m]
+|''ɑm''
+|[c-ɑ́m]
+|''cɑm''
+|[m-ɑ́m]
+|''mɑm''
+|[c-ɑ́m]
+|''cɑm''
+|-
+|[ɑ̀m]
+|''ɑ̀m''
+|[s-ɑ̀m]
+|''ɑ̀m''
+|[c-ɑ̀m]
+|''cɑ̀m''
+|[m-ɑ̀m]
+|''mɑ̀m''
+|[c-ɑ̀m]
+|''cɑ̀m''
+|-
+| rowspan="2" |'''2sg'''
+|[ú]
+|''u''
+|[s-ú]
+|''su''
+|[c-ú]
+|''cú''
+|[m-ú]
+|''mú''
+|[c-ú]
+|''cu''
+|-
+|[ù]
+|''ù''
+|[s-ù]
+|''sù''
+|[c-ù]
+|''cù''
+|[m-ù]
+|''mù''
+|[c-ù]
+|''cù''
+|-
+| rowspan="2" |'''3sg'''
+|[˚í´]
+|''i''
+|[s-ə́]
+|''sə''
+|[c-iə́]
+|''ciə''
+|[m-í] 
+|''mi''
+|[c-iə́]
+|''ciə''
+|-
+|[˚ì´]
+|''ì''
+|[s-ə̀]
+|''sə̀''
+|[c-iə̀]
+|''ciə̀''
+|[m-ì]
+|''mì''
+|[c-iə̀]
+|''c-ə̀''
+|-
+| rowspan="8" |'''plural'''
+| rowspan="2" |'''1pl'''
+|[˚j-ág´]
+|''yag''
+|[˚s-ág-]
+|''sag''
+|[˚c-ág-]
+|''cag''
+|[˚m-ág-]
+|''mag''
+|[˚c-ag-]
+|''cag''
+|-
+|[˚j-àg´]
+|''yàg''
+|[˚s-àg-]
+|''sàg''
+|[˚c-àg-]
+|''càg''
+|[˚m-àg-]
+|''màg''
+|[˚c-ag-]
+|''càg''
+|-
+| rowspan="2" |'''1pl (inclusive)'''
+|[b-ə́n]
+|''bən''
+|[b-ə́n]
+|''bən''
+|[b-ə́n]
+|''bən''
+|[b-ə́n]
+|''bən''
+|[b-ə́n]
+|''bən''
+|-
+|[b-ə̀n]
+|''bən''
+|[b-ə̀n]
+|''bə̀n''
+|[b-ə̀n]
+|''bə̀n''
+|[b-ə̀n]
+|''bə̀n''
+|[b-ə̀n]
+|''bə̀n''
+|-
+| rowspan="2" |'''2pl'''
+|[˚j-ín´]
+|''yin''
+|[˚s-ín-]
+|''sin''
+|[˚c-ín-]
+|''cín''
+|[˚m-ín-]
+|''min''
+|[˚c-ín-]
+|''cin''
+|-
+|[˚j-ìn´]
+|''yìn''
+|[˚s-ìn-]
+|''sìn''
+|[˚c-ìn-]
+|''cìn''
+|[˚m-ìn-]
+|''mìn''
+|[˚c-ìn-]
+|''cìn''
+|-
+| rowspan="2" |'''3pl'''
+|[˚j-ób´]
+|''yub''
+|[˚s-ób-]
+|''sub''
+|[˚c-úb-]
+|''cúb''
+|[˚m-úb-]
+|''mub''
+|[˚c-úb-]
+|''cub''
+|-
+|[˚j-òb´]
+|''yùb''
+|[˚s-òb-]
+|''sùb''
+|[˚c-ùb-]
+|''cùb''
+|[˚m-ùb-]
+|''mùb''
+|[˚c-ùb-]
+|''cùb''
+|-
+| colspan="2" |morpheme breakdown:
+|Agr-Pronoun
+|
+|Agr-Pronoun
+|
+|Agr-Pronoun
+|
+|Agr-Pronoun
+|
+|Agr-Pronoun
+|
+|-
+| colspan="9" |(adapted from Voorhoeve 1967:422, Table 1, Columns IVa-b-c-d & V)
+|
+|
+|
+|}
+Provide examples (see Voorhoeve 1967:426); use template from subject and object pronouns above.
+
+==== Complex plural pronouns ====
+Complex plural pronouns specify the composition of the group of participants denoted by the pronoun. [Provide fuller description; give examples form Voorhoever 1967:428); regularize IPA transcription]
+
+: {|
+!1pl
+|{{interlinear|top=[báàg-jí]|baag-ɟi|1PL-3SG|'us: me+him'}}
+|{{interlinear|top=[bàág-ɑ̀-bu]|bǎg-à-bo|1PL-{{no gloss|LINK}}-3PL|'us: them/us+her/him/them'}}
+|{{interlinear|top=[báàg-wʉ]|bâg-uɨ|1PL-2SG|'us: me+you(sg)'}}
+|{{interlinear|top=[bág-ɑ̀-bìn']|bág-à-bìn´|1PL-{{no gloss|LINK}}-2PL|'us:me/us+you(pl)'}}
+|-
+!2pl
+|{{interlinear|top=[bíìn-jé]|bîn-jé|2PL-3SG|'you all:you(sg.)+him'}}
+|{{interlinear|top=[bín-ɑ̀-bu]|bín-à-bo|2PL-{{no gloss|LINK}}-3PL|{{=}} (i) 'you all: you(sg)+them<br>{{=}} (ii) 'you all: you(pl+her/him/them'}}
+|-
+!3pl
+|{{interlinear|top=[búù-jí]|bô-jé|3PL-3SG|'them:her/him+3her/him'}}
+|{{interlinear|top=[bú-ɑ̀-bu]|bó-à-bo|3PL-{{no gloss|LINK}}-3PL|{{=}} (i) 'them:her/him+them<br>{{=}} (ii) 'them: them+her/him/them'}}
+|-
+|
+|colspan="100%"| (adapted from Voorhoeve 1967:427)
+|}
+
+==== Reduplicated reciprocal pronouns ====
+[Provide description]  (say where there examples are from)
+
+{{interlinear|number= (1)
+|top= '''bǎgbàg'''
+|bǎg-bàg
+|1PL-1PL
+|'1PL, exclusive: 'us (us/me and them) between ourselves'}}
+
+{{interlinear|number= (2)
+|top= '''bənbən'''
+|bən-bən
+|1PL.IN-1PL.IN 
+|'1PL, inclusive: us (me and you) between ourselves'}}
+
+{{interlinear|number= (3)
+|top= '''binbìn'''
+|bin-bìn
+|2PL-2PL
+|'2PL: you all between yourselves'}}
+
+{{interlinear|number= (4)
+|top= '''bobo'''
+|bó-bó
+|3PL-3PL
+|'3PL: 'them between themselves'}}
+
+== Syntax ==
+
+=== CP: clausal syntax ===
+Medumba has a rich inventory of temporal and aspectual auxiliaries, and makes productive use of serial verb constructions. [Give examples]
+
+==== Tense-marking ====
+Medumba has finely articulated temporal contrasts, with up to 9 distinct past tense auxiliaries, and 5 distinct future tense auxiliaries.<ref>Mucha, Anne. 2016. Temporal interpretation and cross-linguistic variation. A formal semantic analysis of temporal and aspectual reference in Hausa and Medumba. PhD dissertation, Potsdam University, 249pp. https://ids-pub.bsz-bw.de/frontdoor/index/index/docId/5424</ref><ref>{{Cite journal|last=Mucha|first=Anne|date=2017|title=Past interpretation and graded tense in Medumba|journal=Natural Language Semantics|volume=25|pages=1–52|doi=10.1007/s11050-016-9128-1|s2cid=125741496}}</ref>
+
+==== Bracketed clause-typing ====
+Medumba makes use of numerous clause-typing particles that occur at the beginning or end of the sentence: they are used to mark yes/no questions, content questions, relative clauses, as well as embedded clauses. In addition, there are two forms of negation, according to whether negation has scope over  VP or CP: VP-scope negation is contrastive (e.g. He bought some books, but he did not sell pens); CP-scope negation denies the truth of a proposition ''p'' (e.g. NOT-p = it is not the case that ''p''). [Give examples]
+
+=== DP: nominal syntax ===
+
+==== Associative N of NP construction ====
+Associative noun constructions, which usually translated as 'Noun<sub>1</sub> of Noun<sub>2</sub>', as in ''bǎm'' ''mɛ́n'' (‘belly of the child’), are analyzed with a [[floating tone]] interposed between the two nouns. The  presence of this floating tone is reflected by the tone melodies borne by the nouns that precede or follow it.<ref name=":0" /><ref name=":1">{{Cite journal|last1=Danis|first1=Nick|last2=Barnes|first2=Jonathan|last3=O'Connor|first3=Catherine|date=2012|title=Downstep and Contour Formation in Medumba: A Prosodic Account|url=http://www.lingref.com/cpp/acal/42/paper2755.pdf|journal=Selected Proceedings of the 42nd Annual Conference on African Linguistics: African Languages in Context|pages=23–31}}</ref> This associative tone, first hypothesized by Jan Voorhoeve, may be high or low depending on the class and tone pattern of the preceding noun. The tone may lower the pitch-level of Noun<sub>2</sub> (a phenomenon called down step); or it may combine with the final vowel of Noun<sub>1</sub>, resulting in a (rising LH or falling HL) contour tone.
+
+For example, in (1), the first line represents the theorized underlying tonal melody of the two nouns, with the L tone associative marker in bold. The second line shows the two tones which are actually pronounced at the surface, with the pitch level shown in brackets (a very low pitch followed by a mid-range pitch). Likewise in (2), the first line shows the theoretical tonal melody of what at the surface are pronounced as a LH contour on Noun<sub>1</sub> and a down-stepped high tone on Noun<sub>2</sub>. Thus, in brackets we see a slash indicating a rise from low to high pitch, and a mid-level line indicating a mid-range pitch.
+
+ (1)    L-(H)  '''(L)''' (L)-H-(L))                    (2)    L-(L) ('''H''') (L)-H-(L)
+        L            H          [ _ – ]                 LH   '''↓'''  H          [ / – ]
+       '''''nzwi           mɛn                              bǎm           mɛn'''''
+       nzwí           mɛ́n                              bàám        '''↓'''   mɛ́n
+       woman    of    child                            belly   of      child
+      'the woman of the child'                        'the belly of the child'
+ 
+ <small>(adapted from Voorhoeve 1971:50)</small>
+
+Examples (3) to (6) illustrate the realization of the associative in contexts where Noun<sub>1</sub> is L-tone and Noun<sub>2</sub> is H-tone. Whether or not Noun<sub>1</sub> is theorized to be followed by a floating L or H tone has no effect on the surface form (i.e., the difference between (3) and (5), and (4) and (6)). What does have an effect is the tone of the associative marker—in (3) and (5) it is H, while in (4) and (6) it is L, resulting in an LH contour on Noun<sub>1</sub>.
+
+The effect that the associative tone has on either of the two nouns may be dependent on which floating tones accompany those nouns, which in turn is decided by their noun class. Examples (7) to (10) illustrate the realization of the associative in contexts where Noun<sub>1</sub> is H-tone and Noun<sub>2</sub> is H-tone. As with (3) to (6), in examples (7) and (9) we can see that the floating tone following the noun has no effect on the surface form—if the associative marker is H, then the surface form will always be two level H tones, or else an HL contour followed by an H tone, varying by speaker or dialect. In the case of (8) and (10), the floating tone which follows the noun does have a perceptible effect. In (8), the surface form is either an H tone followed by an L tone, or else an HL contour followed by a L tone (again, varying by speaker or dialect). However, in (10) the only available choice is a H tone followed by down-stepped H, demonstrating that the theorized underlying tones do have an effect on the pitch at which tones are actually pronounced.
+
+ <small>'''Resolution of associative tone: L-tone Noun<sub>1</sub> + H-tone Noun2'''</small>
+ <small>(tones in brackets () are floating)</small>
+ 
+ (3)    L-(L)  '''(L)''' (L)-H-(L)                  (4)    L-(L)  ('''H''')  (L)-H-(L)
+        L              H          [ _ – ]            L       H    '''↓'''  H           [ / – ]
+      '''''mfə̀n            mɛn'''''                            '''''bàm            mɛn'''''
+      <sup>m</sup>fə̀n            mɛ́n                            bàá          '''↓''' mɛ́n
+      1.chief   of    child                          5.belly of     child
+      'the chief of the child'                       'the belly of the child'     
+ 
+ (5)    L-(H)  '''(L)''' (L)-H-(L)                  (6)    L-(H)  '''(H)''' (L)-H-(L)   
+        L              H          [ _ – ]            L       H   '''↓'''  H            [ / – ]
+       '''''nà             mɛn                            kɔ̀              mɛn'''''
+       nà             mɛ́n                            kɔ̀O         ↓  mɛ́n
+       3.cow of       child                          5.spear of     child
+       'the cow of the child'                        'the spear of the child'
+      
+ <small>(adapted from Voorhoeve 1971:50)</small>
+
+ <small>'''Resolution of associative tone: H-tone Noun<sub>1</sub> + H-tone Noun<sub>3</sub>'''</small>
+ <small>(tones in brackets () are floating)</small>
+ 
+ (7)    H-(L)  '''(L)''' (L)-H-(L)                  (8)    H-(L)  '''(H)''' (L)-H-(L)    [TYPO?, check] 
+        H              H          [ ¯ ¯ ] or         H           L              [ ¯ _ ] or 
+        H       L      H          [ \ ¯ ]            H  L        L              [\ _ ]
+       '''''mɛn            mɛn                           ju          mɛn'''''
+       mɛ́(ɛ)n         mɛ́n                           ʒú(ù)       mɛ́n
+       1.child of     1.child                       3.thing of  1.child
+       'the child of the child'                     'the thing of the child'    
+ 
+ (9)    H-(H)  '''(L)''' (L)-H-(L)                  (10)    H-(H)  '''(H)''' (L)-H-(L)   
+        H              H          [ ¯ ¯ ]             H           '''↓'''  H            [ ¯ – ]
+        H       L      H          [ \ ¯ ]            '''''cʉ                 mɛn'''''
+       '''''nzwi           mɛn'''''                            tɨ́         ↓  mɛ́n
+       <sup>n</sup>ʒ<sup>w</sup>í(ì)        mɛ́n                            3.tree of     1.child
+       <sup>n</sup>z<sup>w</sup>í(ì)        mɛ́n                            'the tree of the child'
+       1.woman  of    1.child                                                 
+       'the woman of the child'                        
+      
+ <small>(adapted from Voorhoeve 1971:50)</small>
+
+==== Post-nominal and pre-nominal demonstratives ====
+Medumba [[demonstratives]] (the equivalent of English "this" or "that") include three elements:<ref name=":2">{{Cite journal|last=Kouankem|first=Constantine|year=2013|title=Determiner phrase structure and concord in Medumba|journal=South African Journal of African Languages|volume=33|issue=1|pages=59–64|doi=10.2989/02572117.2013.793941|s2cid=120261204}}</ref>
+* a noun (N); 
+* a demonstrative (Dem), which shows [[noun class]] with the noun; 
+* an obligatory "adverbial locative reinforcer" (Loc)
+The normal ([[Markedness|unmarked]]) order or demondtratives is postnominal, yieding [Noun-Dem-Loc]. Divergence from this canonical order is possible, so that [Dem-N-Loc] is also attested, and yields a [[Focus (linguistics)|contrastive focus]] reading, where the noun is contrasted with other deictic alternatives (''this'' man, as opposed to that man).<ref name=":2" />
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="7" |Table 17. Demonstrative concord
+|-
+!Noun class
+!Proximal
+(near speaker)
+!Example
+!Medial
+(near listener)
+!Example
+!Distal
+(far from listener
+
+& speaker)
+!Example
+|-
+|1
+|... yə̂n lì
+|mɛ́n yə̂n lì
+
+'this child'
+|... yə̂n lá
+|mɛ́n yə̂n lá
+
+'that child'
+|... yə̂n dín
+|mɛ́n yə̂n dín
+
+'that child (over there)'
+|-
+|3
+|... yə̂n lì
+|bú yə̂n lì
+'this hand'
+|... yə̂n lá
+|tə̂ntsə̀ yə̂n lá
+'that calabash'
+|... yə̂n dín
+|tə̂ntsə̀ yə̂n dín
+
+'that calabash (over there)'
+|-
+|4
+|... mə̂n lì
+|mìág mə̂n lì
+
+'these eyes'
+|... mə̂n lá
+|mìág mə̂n lá
+'those eyes'
+|... mə̂n dín
+|mìág mə̂n dín
+
+'those eyes (over there)'
+|-
+|5
+|... sə̂n lì
+|sɔ̀ sə̂n lì
+'this tooth'
+|... sə̂n lá
+|sɔ̀ sə̂n lá
+
+'that tooth'
+|... sə̂n dín
+|fù sə̂n dín
+'that medicine (over there)'
+|-
+|6
+|... cə̂n lì
+|bún cə̂n lì
+'these children'
+|... cə̂n lá
+|bún cə̂n lá
+
+'those children'
+|... cə̂n dín
+|bʉ́ cə̂n dín
+'those dogs (over there)'
+|-
+| colspan="7" |Adapted from Kouankem (2013:60)
+|}
+
+==== Combining Nouns with Adjectives, Numerals and Demonstratives ====
+Within the DP, there are 8 possible word order variations, taking into account the order of nouns, adjectives, demonstratives, and numerals. These are divided by Kouankem (2011) into post-nominal and pre-nominal variations.<ref>{{cite thesis|last=Kouankem|first=Constantine|title=On the Syntax of the Medumba Determiner Phrase|date=2011|degree=PhD|publisher=University of Yaounde I|place=Yaoundé}}</ref> The possible word orders are:
+
+; Post-nominal word order variation
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+N:noun
+A:adjective
+PRX:proximal
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (1)
+|'''bun''' sɛŋkɛ kua {cən li}
+|N A NUM DEM
+|children black four DEM.PRX
+|'these four black children'}}
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (2)
+|'''bun''' kua sɛŋkɛd {cən li}
+|N NUM A DEM
+|children four black DEM.PRX
+|'these four black children'}}
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (3)
+|'''bun''' sɛŋkɛd {cən li} kua
+|N A DEM Num
+|children black DEM.PRX four
+|'these four black children'}}
+
+: (adapted from Kouankem 2011:234-236; identify pp. & example nos.)
+
+; Pre-nominal word order variation
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (1)
+| mbwo '''bun''' kua {cən li}
+| A N NUM DEM
+| beautiful children four DEM.PRX
+| 'these four beautiful children'}}
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (2)
+| mbwo '''bun''' {cən li} kua
+| A N DEM NUM
+| beautiful children DEM.PRX four
+| 'these four beautiful children'}}
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (3)
+| cən mbwo '''bun''' kua li
+| DEM A N NUM {}
+| DEM.PRX beautiful children four ??
+| 'these four beautiful children'}}
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (4)
+| cən '''bun''' sɛŋkɛd kua li
+| DEM N A NUM {}
+| DEM.PRX children black four ??
+| 'these four black children'}}
+
+{{interlinear|glossing2=yes|glossing3=yes|number= (5)
+| cən '''bun''' kua sɛŋkɛd li
+| DEM N NUM A {}
+| DEM.PRX children four black ??
+| 'these four black children'}}
+
+: (adapted from Kouankem 2011:234-236; identify pp. & example nos.)
+
+=== AP: adjectival syntax ===
+There are three kinds of adjective classes in Medumba, which differ in their order relative to the noun they modify. [GIVE EXAMPLES] <ref name=":6" />
+
+==== Pure adjectives ====
+There are a limited number of pure adjectives.<ref name=":6" /> These are further divided into two classes. Class 1 pure adjectives always appear before their noun. Class 2 pure adjectives typically appear after the noun, but can appear before the noun in a contrastive context. [GIVE EXAMPLES]
+
+==== Nominal adjectives ====
+[GIVE EXAMPLES]
+
+==== Verbal adjectives ====
+[GIVE EXAMPLES]
+
+=== PP: Prepositional Syntax ===
+Medumba has four locative prepositions: ''mbàŋ'' (next to), ''mʙəә́'' (in front of), ''ɲàm'' (behind), and ''nùm'' (on).<ref>{{Cite book|title=Animacy Constraints on Prepositional Objects in Medumba, a Grassfields Language|last1=Hawkes|first1=Rachel|last2=Paquette|first2=Elodie|last3=Goldman|first3=Nora|last4=Ngabeu|first4=Ariane|last5=O'Connor|first5=Catherine|work=Selected Proceedings of the 44th Annual Conference on African Linguistics|publisher=Cascadilla Proceedings Project|year=2015|editor-last=Kramer|editor-first=Ruth|location=Somerville, MA|pages=122–129}}</ref>
+
+While there are several strategies for forming prepositional phrases  involving overt prepositions or “locative specifications”, there are no overt locative prefixes which correspond to the Bantu locative classes (16), (17), and (18) (pa-, ku-, and mu- respectively).<ref name=":7" /> However, there is a <nowiki>''covert''</nowiki> prefix in the form of a floating H tone whose presence may be detected in certain contexts by its effects on the pitch of surrounding tones, which Voorhoeve hypothesizes that it may be the remnant of those locative classes. The interpretation of a noun marked with this tone is variable and context dependent, generally corresponding to prepositions like on, at, or in. [Give examples]
+
+== Conventions for presenting Medumba language data ==
+The following conventions are used to present Medumba language data
+* symbols in square brackets [...] give the [[International Phonetic Alphabet|IPA]] form
+* examples in italic give the Medumba [[orthography]]
+* example sentences used the following format
+** line 1: orthography
+** line 2: IPA transcription
+** line 3: morpheme breakdown (called a "gloss" by linguists)
+** line 4: translation
+Thus, example (1) is presented as follows:
+
+: {|
+|style="vertical-align: top; text-align: right;"|(1) a.
+| {{interlinear|'''me''' kem men|1SG see child|'I saw the child'}}
+|style="vertical-align: top; text-align: right;"|(2) a.
+| {{interlinear|'''bag''' jen men|1PL see child|'We saw the child'}}
+|-
+|style="vertical-align: top; text-align: right;"|b.
+| {{interlinear|'''me''' ke? jen men|1SG NEG see child|'I did not see the child'}}
+|style="vertical-align: top; text-align: right;"|b.
+| {{interlinear|'''bag''' ke? jen men|1PL NEG see child|'We did not see the child'}}
+|-
+|style="vertical-align: top; text-align: right;"|c.
+| {{interlinear|'''me''' do jen men|1SG PAST.REC see child|'I just saw the child'}}
+|style="vertical-align: top; text-align: right;"|c.
+| {{interlinear|'''bag''' do jen men|1PL PAST.REC see child|'We just saw the child'}}
+|-
+|style="vertical-align: top; text-align: right;"|d.
+| {{interlinear|'''me''' ke njen men|1SG ?? see child|It was me who saw the child'}}
+|style="vertical-align: top; text-align: right;"|d.
+| {{interlinear|'''bag''' ke njen men|1PL ?? see child|It was us who saw the child'}}
+|-
+|colspan="100%"| (adapted from Voorhoeve 1967:423f.)
+|}
+
+==References==
+{{Reflist}}
+
+{{Incubator|code=byv}}
+{{Languages of Cameroon}}
+{{Authority control}}
+
+[[Category:Languages of Cameroon]]
+[[Category:Bamileke languages]]

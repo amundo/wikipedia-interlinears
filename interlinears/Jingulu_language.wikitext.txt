@@ -1,0 +1,565 @@
+{{Short description|Endangered Mirndi language spoken in Australia}}
+{{Use Australian English|date=August 2018}}
+{{Use dmy dates|date=August 2018}}
+{{Infobox language
+|name        = Jingulu
+|nativename  = Djingili
+|states      = [[Australia]]
+|region      = [[Barkly Tableland]], [[Northern Territory]]
+|ethnicity   = [[Jingili people|Jingili]]
+|speakers    = 23
+|date        = 2016 census
+|ref         = <ref>{{Cite web|url=http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_C16_T09_SA|title=Census 2016, Language spoken at home by Sex (SA2+)|publisher=ABS|website=stat.data.abs.gov.au|language=en-au|access-date=2017-10-30}}</ref>
+|familycolor = Australian
+|fam1        = [[Mirndi languages|Mirndi]]
+|fam2        = 
+|sign        = [[Djingili Sign Language]]
+|iso3        = jig
+|glotto=djin1251
+|glottorefname=Jingulu
+|aiatsis     = C22
+|notice=IPA
+}}
+
+'''Jingulu''' (Djingili) is an [[Australian Aboriginal languages|Australian language]] spoken by the [[Jingili people|Jingili]] in the [[Northern Territory]] of [[Australia]], historically around the township of [[Elliott District Community Government Council|Elliot]]. Other languages spoken in the West Barkly family include Wambaya, Gudanji, Binbinka, and Ngarnka. When the Mudbarra arrived to the region the Jingili live, a cultural fusion group arose named Kuwarrangu, while the Jingilu and Mudbarra cultures still remained separate. Based on geographical proximity, the Jingili and other ethnic groups have related languages with common vocabulary.{{sfn|Pensalfini|2003|p=1-4}}
+
+Jingulu has an ethnologue classification of moribound: it is an [[endangered language]] with only between 10 and 15 speakers in 1997,<sup>[[Jingulu language#cite note-ethnologue-4|[4]]]</sup> the youngest being in the fifties.<ref>{{Cite web|url=https://www.ethnologue.com/about/language-status|title=Language Status|last=Eberhard|first=David M.|website=Ethnologue: Languages of the World}}</ref> An additional 20 people had some command of it. However, it was not used in daily communication which instead was conducted in either [[English language|English]] or [[Australian Kriol language|Kriol]].{{sfn|Pensalfini|2003|p=10}}
+
+The Jingulu have (or had) a well-developed [[Manually coded language|signed form]] of their language.
+
+== Phonology ==
+
+=== Vowels ===
+Jingulu has three basic vowel [[Phonemes|phoneme]] qualities, given in IPA in the following table. There are two high vowels, /i/ and /u/, and one low vowel /a/. /i/, /a/ and /u/ are front, central, and back, respectively. /u/ is rounded while /a/ and /i/ are unrounded.{{sfn|Pensalfini|2003|p=20}}
+
+{| class="wikitable"
+|+Vowel Chart{{sfn|Pensalfini|2003|p=21}}
+!
+!Front
+!Central
+!Back
+|-
+!Close
+| i
+|
+| u
+|-
+!Open
+|
+| a
+|
+|}
+
+While there are only three phonemically-distinct vowel phoneme qualities in Jingulu, the variations in vowel sounds are greater than in grammars with larger vowel phoneme inventories. These three phonemes have a variety of phonetic outputs depending on the word. The [[close vowel]] /i/ may be realized as [i], [ɨ] or [e]; the [[close vowel]] /u/ most commonly as [u], but also [o] and [ɔ]; and the [[open vowel]] /a/ as [a], [ʌ], [æ] and [ə].{{sfn|Pensalfini|2003|p=21}}
+
+Jingulu has contrastive vowel length. The orthographic convention of long high vowels is a two-syllable nuclei with a homorganic glide in between.{{sfn|Pensalfini|2003|p=22}} In orthography, /aː/ appears as ⟨aa⟩, while the other two appear with a [[Homorganic consonants|homorganic consonant]], ⟨iyi⟩ and ⟨uwu⟩, respectively. diphthongs in Jingulu are realized as separate syllable nuclei, but not a single phoneme unit.{{sfn|Pensalfini|2003|p=21-22}}
+
+'''Vowel to long high vowel example:'''
+{{interlinear|lang=jig|indent=3|italics1=no|italics2=yes
+|vowel vs {long high vowel}
+|{jurd'''i'''ni} vs {jurd'''iyi'''ni}
+|'louse' vs 'tawny frogmouth/owl'{{sfn|Pensalfini|2003|p=22}}}}
+
+'''Vowel to long low vowel example:'''
+{{interlinear|lang=jig|indent=3|italics1=no|italics2=yes
+|vowel vs {long low vowel}
+|{b'''a'''j} vs {b'''aa'''j}
+|'track, follow' vs 'arrive, get in'{{sfn|Pensalfini|2003|p=22}}}}
+
+'''Diphthong example:'''
+{{interlinear|lang=jig|indent=3|italics1=no|italics2=yes
+|{diphthong example}
+|{jang'''ayi'''}
+|'yawn'{{sfn|Pensalfini|2003|p=22}}}}
+
+==== Vowel harmony ====
+An important feature of Jingulu's phonology is [[vowel harmony]]. Jingulu exhibits a regressive vowel harmony, which means that the vowels of [[Nominal (linguistics)|nominal]] or [[Verb|verbal]] [[Root (linguistics)|roots]] may be subject to change triggered by [[Suffix|suffixes]] that contain a [[close vowel]] and that are directly adjacent to the root. The vowel harmony affects [[Open vowel|open vowels]] in the roots, which become [[Close vowel|close]]. Due to Jingulu's small inventory of [[Vowel|vowels]], it will always be the [[open vowel]] /a/ that is subject to change, always becoming /i/.<sup>[[Jingulu language#cite note-pensalfini 1997 97-7|[7]]]</sup> However, if [[vowel harmony]] is triggered and the [[Root (linguistics)|root]] contains a [[close vowel]], none of the [[Open vowel|open vowels]] to the left of the [[close vowel]] will be subject to change.
+
+=== Consonants ===
+Jingulu has eighteen consonant phonemes, distributed across five places of articulation and five manners of articulation.
+{| class="wikitable"
+|+Consonant Chart{{sfn|Pensalfini|2003|p=23}}
+!
+!Bilabial
+!Alveolar
+!Retroflex
+!Palatal
+!Velar
+|-
+!Plosive
+|'''b'''
+|'''d'''
+|'''rd''' [ɖ]
+|'''j''' [ɟ]
+|k
+|-
+!Nasal
+|'''m'''
+|'''n'''
+|'''rn''' [ɳ]
+|'''ny''' [ɲ]
+|'''ng''' [ŋ]
+|-
+!Rhotic
+|
+|'''rr''' [r]
+|
+|
+|
+|-
+!Glide (Approximant)
+|
+|
+|'''r''' [ɻ]
+|'''y''' [j]
+|
+|-
+!Lateral Approximant
+|'''w'''
+|'''l'''
+|'''rl''' [ɭ]
+|'''ly''' [ʎ]
+|'''w'''
+|}
+
+Note: '''rr''' represents a flapped or trilled rhotic
+
+Noticeably, all places of articulation have a stop phoneme. The consonant inventory is typical of Australian languages, with a lack of phonologically distinct fricatives and affricates as well as absence of phonemic consonant germinates. One noteworthy aspect of Jingulu that is unusual for Australian grammars is that it does not have series of interdentals.
+
+There is no concrete evidence that voicing is contrastive.{{sfn|Pensalfini|2003|p=23}} There is only little evidence showing that the [[Retroflex consonant|retroflex consonants]] are contrastive. Most speakers of Jingulu do not make a distinction between the retroflex consonants and their [[Alveolar consonant|alveolar equivalents]]. Often they merely serve as [[Allophone|allophones]]. However, there are a number of [[minimal pairs]] where there indeed is a distinction, for instance dirnd- ''"shoot"'' and dind- ''"grind"''; mininmi''"[[Acacia victoriae]]"'' and mirnirnmi ''"fire drill"''; and walu ''"forehead"'' and warlu ''"burn scar."''
+
+The [[Glide (linguistics)|glides]], [w] and [j], may be dropped word-initially, which is also true for [ŋ]. The latter may also be replaced by a glide.<sup>[[Jingulu language#cite note-10|[10]]]</sup>
+
+: '''widij-''' ''"to tie"'' may be realized as /widij-/ or /idij-/
+: '''yidaangka''' ''"in a few days"'' may be realized as /jidaːŋka/ or /idaːŋka/
+
+: '''ngirrm-''' ''"to make"'' may be realized as /ŋirm-/, /irm-/ or /jirm-/
+: '''nguny-''' ''"to give"'' may be realized as /ŋuɲ-/, /uɲ-/ or /wuɲ-/
+
+=== Syllable structure ===
+According to the grammar:
+
+:'C' = Consonant
+:'V' = Vowel
+:'L' = Highly sonorous consonant (i.e. liquids and glides)
+
+The basic syllable structure in Jingulu is CV. CVC and CVLC are also permissible structures. The basic phonological unit is the open (CV) syllable when V is a long vowel, while the basic phonological unit is the closed (CVC) syllable when V is a short vowel. A phonotactic restriction of Jingulu is that '''rr''' and '''ly''' cannot be word-initial. The word-final phoneme is nearly always a vowel.{{sfn|Pensalfini|2003|p=31-32}}
+
+Consonant clusters are evidenced in the Jingulu syllable structure. Clusters may be word-final only if they consist of a sonorant and a [-nasal] plosive, in that order. The largest possible clusters are triconsonantal, consisting of a liquid, nasal, and stop, strictly in this order.  Furthermore, they must be placed word-internally.{{sfn|Pensalfini|2003|p=32}}
+{| class="wikitable"
+|+Syllabic Template{{sfn|Pensalfini|2003|p=32-33}}
+!Template
+!Instantiation
+!Translation
+|-
+|CV
+|/jinj.'''ku'''/
+|'wood-chip'
+|-
+|CVC
+|/minj.'''kuj'''.ku/
+|'egg yolk'
+|-
+|CVLC
+|/'''mulk'''.bul.ku/
+|'small swamp'
+|-
+|CVLC/CV
+(triconsonantal cluster)
+|/li'''rb.j'''u/
+|'egg yolk'
+|-
+|CVLC
+(word-final cluster)
+|/wa'''lk/'''
+|'open'
+|}
+
+=== Stress ===
+In Jingulu, only vowels can be stress bearing units (SBUs). For single morphemes, stress is predictable, landing on the penultimate SBU of a word. The final SBU is never stressed. This does not hold true for Jingulu words that come from the Pama-Nyungan languages of countries neighboring the Jingili. In general, however, Jingulu follows the following pattern:{{sfn|Pensalfini|2003|p=36-38}}
+
+* 2 SBUs → stress on initial SBU
+* 3 SBUs → generally stress on second SBU
+* 4 SBUs → generally primary stress on third SBU, secondary stress on initial SBU
+* 5 SBUs → primary stress on penultimate or antepenultimate SBU, secondary stress on initial SBU
+* 6 SBUs → primary stress on antepenultimate SBU, secondary stress on initial SBU.
+
+Long vowels and diphthongs have two SBUs, signifying that they do not exist as their own phoneme.{{sfn|Pensalfini|2003|p=36}}
+
+== Morphology ==
+Jingulu has both prefixes and suffixes. Morphemes can sometimes stand alone as a word, such as with pronouns and certain cases of demonstratives and adverbials, but the majority of roots must have [[Affixation|affixes]]. Both derivational and inflectional affixes can be found in the grammar.{{sfn|Pensalfini|2003|p=56}}
+
+=== Parts of speech ===
+Jingulu vocabulary can be split into three broad categories of parts of speech: nominal, verbal, and adverbial.
+
+==== Nominal ====
+Nominals are modified/affixed with case marking and morphological discourse markings.{{sfn|Pensalfini|2003|p=57}}
+
+{{interlinear|lang=jig|indent=3
+|winiyiki-rni [nayurni ngarrirnini]|c1=Note: Square brackets signify the case-marked argument.
+|foreign-F woman 1SG.GEN.F
+|'My wife is a foreigner'{{sfn|Pensalfini|2003|p=57}}}}
+
+==== Verbal ====
+The minimum words required to form an acceptable sentence in Jingulu is a light verb and either a subject or a coverbal root.{{sfn|Pensalfini|2003|p=58}}
+
+{{interlinear|lang=jig|indent=3
+|ngurru-wa.
+|1PL.INCL-will.go
+|'Let's go.'{{sfn|Pensalfini|2003|p=57}}}}
+
+{{interlinear|lang=jig|indent=3
+|nguka-ju.
+|cry-do
+|'It's crying' (coverbal root){{sfn|Pensalfini|2003|p=58}}}}
+
+==== Adverbial ====
+Aside from discourse markers, adverbs do not have affixation. In some cases, adverbs must exist immediately before coverbal roots.{{sfn|Pensalfini|2003|p=66}}
+
+{{interlinear|lang=jig|indent=3
+|kardarrukuji biba-marri.
+|all.night storm-DIST
+|'There was a storm all night.'{{sfn|Pensalfini|2003|p=65}}}}
+
+=== Derivation ===
+Jingulu has [[Morphological derivation|derivational affixes]] of the type nominalisation and adverbialisation.{{sfn|Pensalfini|2003|p=70}}
+
+==== Nominalisation ====
+Jingulu has three nominalising affixes: ''-ajka,'' -''ajkal'', and -''jbunji'', the latter being very rare.{{sfn|Pensalfini|2003|p=70-72}}
+
+''-ajka'' derives nouns from verbs, specifically a verb to the person who is undergoing the action denoted by the verb.{{sfn|Pensalfini|2003|p=71}}
+
+{{interlinear|lang=jig|indent=3
+|Bulungkurri-mbili duwa-ardi buliki-rna ngarnu darr-'''akja.'''
+|Bluebush-LOC rise-HAB cow-FOC 3SG.ACC.M eat.NOM(P)
+|'Where the bluebush grows is grazing country for cattle.'}}
+
+the action of eating     ''→''     that which is eaten{{sfn|Pensalfini|2003|p=71}}
+
+-''ajkal'' derives nouns from verbs, specifically verbs to represent someone or something that performs the verb.{{sfn|Pensalfini|2003|p=71}}
+
+{{interlinear|lang=jig|indent=3
+|BNgany-'''ajkal-'''irni nyamirna-rni nayu-wurli-rni.
+|sing-NOM(A)-F that(F)-ERG woman-PL-ERG
+|'Those women are singers.'}}
+
+the action of singing   ''→''   that which is singing{{sfn|Pensalfini|2003|p=71}}
+
+-''jbunji'' changes a root meaning to something that has the property associated with that root. This is a less used nominalising affix compared to the other two.{{sfn|Pensalfini|2003|p=72}}
+
+{{interlinear|lang=jig|indent=3
+|Kula-'''jbunji''' jami-rna abulda kurlukurla-ka.
+|speared-ADJ that(M)-FOC accidentally small(M)-PST.HAB
+|'That little chap there was accidentally speared.'}}
+
+the action of spearing   ''→''    that which has been speared{{sfn|Pensalfini|2003|p=72}}
+
+==== Adverbialisation ====
+Jingulu has two adverbialising affixes: -''kaji'' and -''nama''.{{sfn|Pensalfini|2003|p=73}}
+
+-''kaji'' is similar to 'really', 'right', or 'completely', indicating that the thing it is describing is done to its greatest extent.{{sfn|Pensalfini|2003|p=73}}
+
+{{interlinear|lang=jig|indent=3
+|Kurrubardu ngirrma-nga-yi mujiya-'''kaji''' nga-ka.
+|boomerang make-1SG-FUT forget-through 1SG-PST.HAB
+|'I want to make a boomerang but I've completely forgotten how.'}}
+
+forget ''→''   completely forget{{sfn|Pensalfini|2003|p=73}}
+
+''-nama'' can mean 'still', 'already', 'this time', 'in the time of...', and more. It is typically used to emphasize that the root it is affixing is happening over time.{{sfn|Pensalfini|2003|p=75}}
+
+{{interlinear|lang=jig|indent=3
+|Jaburra-'''nama''' nga-rruku.
+|before-time 1SG-went
+|'I already went'}}
+
+went  ''→''   already went{{sfn|Pensalfini|2003|p=75}}
+
+=== Nominals ===
+The major uses of affixation in Jingulu are found in the expression of demonstratives, as well as the nominal features pronouns, case, number, and (in)definiteness discussed in the next section.{{sfn|Pensalfini|2003|p=130}}
+
+==== Demonstratives ====
+Jingulu has three kinds of [[Demonstrative|demonstratives]]: [[Demonstrative#Distal and proximal demonstratives|referential]], [[Deictic expression#Anaphoric reference|anaphoric]] and [[Deictic expression#Anaphoric reference|cataphoric]]. In Jingulu, the [[Demonstrative#Distal and proximal demonstratives|referential demonstratives]], of which there are about five sets, refer to objects that may be distal or proximal, and may be translated as "this" or "that." The [[Deictic expression#Anaphoric reference|anaphoric demonstratives]], of which there is one set, refer to something that is already known by the speaker and listener at the time of speaking, and may be translated as "this (you know)" or "that (you know)." Finally, the [[Deictic expression#Anaphoric reference|cataphoric demonstrative]], of which there is only one, refers to something that is not yet known by both the speaker and listener and is to be introduced, and may be translated as "this (which you are to know about)" or "that (which you are to know about)."
+
+As the [[Demonstrative|demonstratives]] are considered [[Nominal (linguistics)|nominals]], most of them belong to one of the four [[Noun class|nominal classes]].<sup>[[Jingulu language#cite note-12|[12]]]</sup>
+
+===== Referential =====
+There are five sets of [[Demonstrative#Distal and proximal demonstratives|referential demonstratives]]: '''jama''' and '''jimi'''; '''nyam-'''; '''ngin-''' and '''nyin-'''; '''ngunu'''; and '''ngunungku'''. The first three sets are all by default distal, but may be made proximal by the use of the suffix '''-(r)niki'''. None of the last two sets may take the proximal marker, as '''ngunu''' is always considered distal, and '''ngunungku''' is generally considered proximal, normally translated as "this way."<sup>[[Jingulu language#cite note-13|[13]]]</sup>
+
+These demonstratives vary based on gender and animacy.{{sfn|Pensalfini|2003|p=130}} The demonstrative '''jama''' belongs to the masculine class, and '''jimi''' to the neuter class. However, '''jama''' may refer to nominals of all classes, and '''jimi''' may also refer to nominals of the vegetable class.<sup>[[Jingulu language#cite note-14|[14]]</sup> The [[demonstrative]] '''nyam-''' takes either the suffix '''-a''', '''-arni-''' or '''-bala''' depending on whether it refers to a nominal of the masculine, feminine, or neuter or vegetable class, respectively.  Likewise, the demonstratives '''ngin-''' and '''nyin-''' take the suffix '''-da''', '''-a''' or '''-i''' depending on whether it refers to a nominal of the masculine, feminine or neuter class, respectively, and become '''ngima''' and '''nyima''' when referring to a nominal of the vegetable class, respectively. While a '''nyam-''' demonstrative takes the proximal marker, it becomes '''nyamarniki''' no matter class.<sup>[[Jingulu language#cite note-16|[16]]]</sup> The [[demonstrative]] '''ngunu''' belongs to the neuter class, but may also refer to nominals of the vegetable class. '''ngunungku''' may refer to nominals of all classes.
+
+{{interlinear|lang=jig|indent=3
+|'''Jimi-'''rni jurruma-mi burrbaji-kaji.
+|that(N)-FOC wipe.out-IRR finish-through
+|'Get rid of all that.'{{sfn|Pensalfini|2003|p=131}}}}
+('''jimi''' is neuter)
+
+{{interlinear|lang=jig|indent=3
+|'''Jimi-niki'''-ni karriyaku imbiy-urru-ju marrinju.
+|DEM(N)-prox-FOC different speak-3PL-PRES language
+|'This is a different language they speak (here).'{{sfn|Pensalfini|2003|p=15}}}}
+('''jimi''' is neuter + -niki modifier)
+
+{{interlinear|lang=jig|indent=3
+|'''Jama-'''baji-ni buyu-wurru-ju.
+|dem(M)-PL-FOC ''smoke''-3PL-pres
+|'Those people are smoking.'{{sfn|Pensalfini|2003|p=131}}}}
+('''jama''' is masculine)
+
+{{interlinear|lang=jig|indent=3
+|Bulajbunji '''jamaniki-'''rni.
+|speared(M) this(M)-FOC
+|'This guy has been speared.'{{sfn|Pensalfini|2003|p=131}}}}
+('''jamaniki''' is masculine + -niki modifier)
+
+{{interlinear|lang=jig|indent=3
+|'''Nyama''' ngaba-ju wangkurra-ngkujku ngima-rni-rni yurrku-nu bukumarra.
+|that(M) have-do honey that(V)-ERG-FOC flower-did corkwood
+|'The corkwood has honey-laden flowers.'{{sfn|Pensalfini|2003|p=133}}}}
+('''nyama''' is masculine)
+
+{{interlinear|lang=jig|indent=3
+|Nyama '''nginda''' ngajanyaju nyarruku.
+|2SG-NOM that(M) see-2SG-do 2SG-went
+|'You can see yourself and him.'{{sfn|Pensalfini|2003|p=134}}}}'''(nginda''' is masculine)
+
+{{interlinear|lang=jig|indent=3
+|Irriminjulu '''ngini'''-rniki buba ngirrma-nga-yi bardakurra.
+|kindling DEM(N)-PROX fire make-1SG-FUT good(M)
+|'This kindling will make a good fire.'{{sfn|Pensalfini|2003|p=131}}}}
+('''ngini''' is neuter + -niki modifier)
+
+{{interlinear|lang=jig|indent=3
+|Wanyik-urlu '''nyina'''-bulu ladaji-wunyu-ju arduku.
+|girl-DU DEM(F)-DU dry-3.DU-PRES slow
+|'The two girls are slowly drying out.'{{sfn|Pensalfini|2003|p=17}}}}
+('''nyina''' is feminine)
+
+{{interlinear|lang=jig|indent=3
+|'''Ngunu'''dij bila-mi nyanyalu!
+|dem(n) break-IRR branch
+|'Break that branch!'{{sfn|Pensalfini|2003|p=17}}}}
+('''ngunu''' is neuter)
+
+{{interlinear|lang=jig|indent=3
+|Jangkuwardka-ngarri-yi '''ngunungku''' kalirrungu-ngka.
+|climb_up-1SG-fut dem hill-AL
+|'I will climb the mountain this way.'{{sfn|Pensalfini|2003|p=18}}}}
+('''ngunungku''' is "this way")
+
+===== Anaphoric =====
+Anaphoric/discourse demonstratives refer to the aforementioned. There is one set of [[Deictic expression#Anaphoric reference|anaphoric demonstratives]]: '''kuna''' and '''kuya'''. These are only used rarely, and are often replaced by [[Demonstrative#Distal and proximal demonstratives|referential demonstratives]]. The former refers to nominals of the masculine class, and the latter to nominals of the neuter class. However, the former may also refer to nominals of other classes, and the latter to nominals of the vegetable class as well.{{sfn|Pensalfini|2003|p=137}}
+
+{{interlinear|lang=jig|indent=3
+|'''Kuyu-'''ngka-nama ya-rruku lurrbu.
+|ANAPH(N)-ALL-time 3SG-went return
+|'He went back there.'{{sfn|Pensalfini|2003|p=138}}}}
+('''kuyu''' is neuter)
+
+{{interlinear|lang=jig|indent=3
+|Nginda wurru-ku '''kuna'''-ngka biningkurru-ngka.
+|dem(M) 3PL-went DEM(ANAPH)-all lake-all
+|'They went to that lake (you know the one).'{{sfn|Pensalfini|2003|p=138}}}}
+('''kuna''' is neuter)
+
+{{interlinear|lang=jig|indent=3
+|'''Kuyu'''-mbili-rni mankiya-nga-yi.
+|DEM(ANAPH)-LOC-FOC sit-1SG-FUT
+|'I'll go sit in that place (that you know).'{{sfn|Pensalfini|2003|p=19}}}}
+
+===== Cataphoric =====
+The only [[Deictic expression#Anaphoric reference|cataphoric demonstrative]] is '''jiyi''' and refers to nominals of all classes.{{sfn|Pensalfini|2003}}{{page needed|date=May 2021}}
+
+=== Nominal features ===
+
+==== Gender ====
+All [[Nominal (linguistics)|nominals]] in Jingulu belong to a certain [[Grammatical gender|gender]] or [[Noun class|class]] of which there are four: [[Grammatical gender|masculine]], [[Grammatical gender|feminine]], [[Grammatical gender|neuter]] and vegetable. The vegetable class is the smallest of the classes with fewest nominals. Next comes the feminine class, and then the neuter and the masculine classes.
+
+The characteristic endings of nominals belonging to the vegetable class are '''-imi''' and '''-ibi'''. Most nominals of this class are long, thin, pointed or sharp objects. For instance, a lot of [[Vegetable|vegetables]], body parts, instruments and weather phenomena. Examples include '''wardbardbumi''' ''"bush passionfruit,"'' '''mankijbi''' ''"back of neck"'' and '''kingmi''' ''"rainbow."''
+
+The characteristic endings for feminine [[Nominal (linguistics)|nominals]] are '''-ini''', '''-irni''', '''-idi''' and '''-irdi'''. Most nominals of this class are female [[Animacy|animates]], different kinds of axes, the sun, as well as for most smaller songbirds, and many unusual animals. Examples include '''nambiliju''' ''"female body,"'' '''dardawurni''' ''"axe"'' and '''lirrikbirni''' ''"[[cockatoo]]."''
+
+The characteristic ending for masculine [[Nominal (linguistics)|nominals]] is '''-a''', although a lot of masculine nominals also end in a [[consonant]]. Most nominals of this class are [[Animacy|animates]], although it also contains a number of flat or rounded inanimates. Examples include '''jambilija''' ''"male body,"'' '''kiyinarra''' ''"vagina"'' and '''yarrulan''' ''"youth."''
+
+Finally, the characteristic ending for neuter [[Nominal (linguistics)|nominals]] is '''-u'''. This class contains nominals that do not fall into any of the previous classes, and especially words for abstract concepts and entities. Examples include '''yurrku''' ''"nectar,"'' '''ngabarangkurru''' ''"blood"'' and '''karala''' ''"ground."''<sup>[[Jingulu language#cite note-11|[11]]]</sup>
+
+==== Number ====
+Jingulu utilizes number morphology based on three numbers: singular, dual, and plural. The dual number is represented by the suffix /-''bila''/, and the plural number is represented by the suffix /-''bala''/, but they have different phonetic realizations depending on the allomorph used in context.{{sfn|Pensalfini|2003|p=171}}
+
+{{interlinear|lang=jig|indent=3
+|Ngarri-ni-'''bila''' bardarda-yila manyan wunyu-ju.
+|1SG.GEN-M-DU.ANIM younger.brother-DU.ANIM sleep 3DU-do
+|'My two younger brothers are asleep.'{{sfn|Pensalfini|2003|p=169}}}}
+('''bila''' refers to the number of brothers, dual)                      
+
+{{interlinear|lang=jig|indent=3
+|Ngaja-nga-ju murrkunbala bayin-'''bala''' wijinki-wurri-ju nyambala lurrju-mbili wijinki-wurru-ju.
+|that(m)-PL three(M) people-PL.ANIM stand-3PL-do DEM(N) sandy.ridge-LOC upright-3PL-do
+|'I see three men standing on a sandy ridge.'{{sfn|Pensalfini|2003|p=170}}}}
+('''bala''' refers to the number of people, plural)
+
+==== Case ====
+[[Grammatical case|Case]] is realized in core and semantic case markings.{{sfn|Pensalfini|2003|p=175}} Core case marking includes the ergative case ([-''ka'']/ [-''nga''] for feminine kin terms/feminine nominals and [-''rni''] for other nominals) and the dative case (/-''rna''/).{{sfn|Pensalfini|2003|p=178}} Semantic/adpositional case markings include the instrumental case to mark inanimate subjects of transitive clauses (/-(''w'')''arndi''/, with the rare exception [-''marndi'']). Semantic/adpositional case markings function differently from core markings; it adds more information to the word it is affixing by actually referencing a location, direction, or some other aspect.{{sfn|Pensalfini|2003|p=184}}
+
+'''Ergative case:'''
+{{interlinear|lang=jig|indent=3
+|Arrkuja-narna-nu ngaya kardayi-'''rni.'''
+|scratch-3mS-did 1SG-NOM cat-ERG
+|'The cat scratched me.'{{sfn|Pensalfini|2003|p=178}}}}
+
+'''Dative case:'''
+{{interlinear|lang=jig|indent=3
+|Ngangi-'''rna''' ya-ardu ngirrik-ardu walanja-'''rna.'''
+|meat-DAT 3SG-go hunt-go goanna-DAT
+|'He's going hunting for goanna meat.'{{sfn|Pensalfini|2003|p=180}}}}
+
+'''Semantic/adpositional case:'''
+{{interlinear|lang=jig|indent=3
+|Ngaba-ardimi jimi-rna ngarnu larnku-rdarra '''ukurdu-nga-mbili''' '''nyami-nga-mbili-rni.'''
+|have-DIST that(N)-FOC 3SG.ACC.M stuff-PL bag-DAT.F-LOC DEM(F)-DAT.F-LOC-FOC
+|'He brought all his equipment out of a bag.'{{sfn|Pensalfini|2003|p=184}}}}
+
+'''Instrumental case:'''
+{{interlinear|lang=jig|indent=3
+|Makirdi'''-warndi''' dirnda-nu.
+|gun-INS shoot-did.
+|'He fired (with) a gun.'{{sfn|Pensalfini|2003|p=188}}}}
+
+=== Reduplication ===
+In addition to affixation, [[reduplication]] is another morphophonological process of Jingulu. The reduplication pattern in Jingulu is internal reduplication, typically of the first VC(C) syllable structure in the root, which is then [[Infix|infixed]].{{sfn|Pensalfini|2003|p=53}}
+
+: mardilyi → mardardilyi
+: lame → lame folks{{sfn|Pensalfini|2003|p=53}}
+
+: imikirni → imimikirni
+: old woman → old women{{sfn|Pensalfini|2003|p=53}}
+
+== Syntax ==
+Jingulu has free word order, therefore no basic word order can be established. Jingulu is syntactically classified as a [[Non-configurational language]]. The predicate (both argument and verb) of a clause will lack encyclopedic information.<sup>[[Jingulu language#cite note-21|[21]]]</sup>
+
+The following simple Jingulu sentences are all acceptable versions of the same phrase to native speakers:{{sfn|Pensalfini|2003|p=77}}
+
+=== Simple sentences ===
+{{interlinear|lang=jig|number=SVO
+|Uliyijanga ngunjaju karalu.
+|Sun burning ground
+|'The sun is burning the ground.'{{sfn|Pensalfini|2003|p=77}}}}
+
+{{interlinear|lang=jig|number=SOV
+|Uliyijanga karalu ngunjaju.
+|Sun ground burning
+|'The sun is burning the ground.'{{sfn|Pensalfini|2003|p=77}}}}
+
+{{interlinear|lang=jig|number=VSO
+|Ngunjaju uliyijanga karalu.
+|Burning sun ground
+|'The sun is burning the ground.'{{sfn|Pensalfini|2003|p=77}}}}
+
+{{interlinear|lang=jig|number=VOS
+|Ngunjaju karalu uliyijanga.
+|Burning ground sun
+|'The sun is burning the ground.'{{sfn|Pensalfini|2003|p=78}}}}
+
+{{interlinear|lang=jig|number=OSV
+|Karalu uliyijanga ngunjaju.
+|Ground sun burning
+|'The sun is burning the ground.'{{sfn|Pensalfini|2003|p=78}}}}
+
+{{interlinear|lang=jig|number=OVS
+|Karalu ngunjaju uliyijanga.
+|Ground burning sun
+|'The sun is burning the ground.'{{sfn|Pensalfini|2003|p=78}}}}
+
+==== Verbless clauses ====
+[[Verbless clause|Verbless clauses]] lack an overt verb, normally compensating for this with two nominal elements that act as clausal predicates in its place. In syntax, verbless clauses are typically realized so that one nominal refers to the subject, while the referent of that nominal serves as the predicate, usually realized in subject-predicate order. Predicates in verbless clauses can be adjectives or nouns, possessors, adpositionals, or adverbs.{{sfn|Pensalfini|2003|p=86}}
+
+'''Verbless clause example:'''
+
+{{interlinear|lang=jig|indent=3
+|Miringmi bardakurrumi.
+|gum good(v)
+|'Gum is good.'{{sfn|Pensalfini|2003|p=87}}}}
+
+==== Adverb placement ====
+Adverbs are one of the few word types that hold a strong preference for certain sentence positions with respect to the verb or to clause boundaries, depending on the type of adverb. Adverbs of time are typically sentence-initial, adverbs of place are typically at either the beginning or end of the sentence, and manner adverbs are placed before the verb most often.{{sfn|Pensalfini|2003|p=96}}
+
+'''Adposition + noun phrase example:'''
+
+{{interlinear|lang=jig|indent=3
+|jayili urdurru ka-rdu marru-ngka.
+|under inside 3SG-go house-ALL
+|'Underneath the house.'{{sfn|Pensalfini|2003|p=96}}}}
+
+=== Complex sentences ===
+Word order is also free for complex sentences. Complex sentences in Jingulu can be split into two categories: coordinate and subordinate structures.{{sfn|Pensalfini|2003|p=111}}
+
+==== Coordinate structures ====
+Coordinate structures are found in complex sentences in which the tense of the two clauses is absolutive; i.e. the event associated with each refer to time of utterance. The two clauses may or may not occur at the same time, but they should not be reliant on one another in their occurrence.{{sfn|Pensalfini|2003|p=112}}
+
+'''Coordinate structure example:'''
+
+{{interlinear|lang=jig|indent=3
+|Mankiya-nu dibij-kaji ya-rruku.
+|sit-did outside-through 3SG-went
+|'She sat here and he went outside.'{{sfn|Pensalfini|2003|p=112}}}}
+
+==== Subordinate structures ====
+Subordinate structures are found in complex sentences in which the two clauses are reliant on one another, the first being the tense-determining main clause and the second being the dependent subordinate clause. The structure of these sentences can be implemented in two ways: the tense may be indicated by eliminating the core verb, or the core verb may remain but with tense features determined based on the event time of the main clause rather than the utterance time.{{sfn|Pensalfini|2003|p=115}}
+
+'''Subordinate structures example (purpose clause):'''
+
+{{interlinear|lang=jig|indent=3
+|Jinjku maja-mi jiminiki buba ngirrmi-mindi-yi jalurruka umbumi-mindi-yi.
+|woodchip get-IRR this(N) fire make-1DU.INCL-FUT tea cook-1DU.INCL-FUT
+|'Get some woodchips so we can build this fire and make some tea.'{{sfn|Pensalfini|2003|p=117}}}}
+
+== Text example ==
+{{col-begin}}
+{{col-break}}
+'''Kamamurra Marluka'''
+
+Bundurrunu umbumami ngarnu jamirnani marlukarni, bundundurru marriya, angkula wumbumaardi kamamurra. Kamamurra jamarni marlukarni narnangajarriya biyurlarruni, kaminjirru kularrani. Kaminjirru kulayarni ngarnu ngajanarriya bundundurru marliya. Nginirni bundurru ngabangarriyi ngarni ngindirna marlukarna. Bubujirna marlukarna ngabangarriyi ngarnu bundurrunu ngunyangarriyi, ngambaya manyan kaya bundundurra.
+
+{{col-break}}
+'''The Old Blind Man'''
+
+Be so kind as to cook that old man some food, he can't cook because he's blind. That old blind man is looking about for his children, perhaps his grandchildren or nephews. Our young people look after our feeding when we are sick. I'll take some food to that old man. I'll take this food over and give it to the old white-haired man so that he can have a sleep once he's full up.{{sfn|Pensalfini|1997|p=399}}
+{{col-end}}
+
+==Sign language==
+{{main|Australian Aboriginal sign languages}}
+
+The Jingulu have (or had) a well-developed [[manually coded language|signed form]] of their language.<ref>[[Adam Kendon|Kendon, A.]] (1988) ''Sign Languages of Aboriginal Australia: Cultural, Semiotic and Communicative Perspectives.'' Cambridge: Cambridge University Press</ref>
+
+== References ==
+
+=== Notes ===
+{{reflist}}
+
+=== General ===
+* {{Citation | last1 = Pensalfini | first1 = Robert J. | author-link = Robert J. Pensalfini | title = Jingulu Grammar, Dictionary, and Texts | year = 1997 | publisher = [[Massachusetts Institute of Technology|MIT]]}}
+
+== Bibliography ==
+* {{Citation | last = Chadwick | first = Neil | author-link = Neil Chadwick | title = Djingili (North Australia) in a comparative perspective | journal = Oceania | volume = 38 | issue = 3 | year = 1968 | pages = 220–228| doi = 10.1002/j.1834-4461.1968.tb00956.x }}
+* {{Citation | last1 = Chadwick | first1 = Neil | title = A descriptive study of the Djingili language | year = 1968}}
+* {{Citation | last = Chadwick | first = Neil | title = A Descriptive Study of the Djingili Language | year = 1975 | isbn = 978-0-85575-040-4}}
+* {{Citation | last1 = Chadwick | first1 = Neil | title = The relationship of Jingulu and Jaminjungan | year = 1989}}
+* {{Citation | last = Pensalfini | first = Robert J. | author-link = Robert J. Pensalfini | title = Jingulu-English English-Jingulu draft dictionary | year = 1995}}
+* {{Citation | last = Pensalfini | first = Robert J. | title = Case Suffixes as Discourse Markers in Jingulu | year = 1999}}
+* {{Citation | last = Pensalfini | first = Robert J. | title = Optional disagreement and the case for feature hierarchies | year = 2000}}
+* {{Citation | last = Pensalfini | first = Robert J. | editor1-last = Simpson | editor1-first = Jane | editor1-link = Jane Simpson (linguist) | editor2-last = Nash | editor2-first = David | editor2-link = David Nash (linguist) | editor3-last = Laughren | editor3-first = Mary | editor3-link = Mary Laughren | editor4-last = Austin | editor4-first = Peter | editor4-link = Peter Austin (linguist) | editor5-last = Alpher | editor5-first = Barry | editor5-link = Barry Alpher | title = Forty years on Ken Hale and Australian languages  | chapter = On the Typological and Genetic Affiliation of Jingulu | year = 2001 | pages = 385–399 | publisher = [[Pacific Linguistics]]}}
+* {{Citation | last = Pensalfini | first = Robert J. | title = Part of Speech Mismatches in Modular Grammar: New Evidence from Jingulu | journal = Linguistic Variation Yearbook | volume = 1 | year = 2001 | pages = 209–227 | doi=10.1075/livy.1.09pen| url = https://espace.library.uq.edu.au/view/UQ:11050/rpmism.pdf }}
+* {{Citation | last = Pensalfini | first = Robert J. | title = Vowel harmony in Jingulu | journal = Lingua | volume = 112 | issue = 7 | year = 2002 | pages = 561–586 | doi=10.1016/s0024-3841(01)00061-4| url = https://espace.library.uq.edu.au/view/UQ:11051/rpvowel.pdf }}
+* {{Citation | last = Pensalfini | first = Robert J. | title = A grammar of Jingulu: an Aboriginal language of the Northern Territory | year = 2003 | publisher = Pacific Linguistics | isbn = 978-0-85883-558-0 |hdl=1885/146163 |doi=10.15144/PL-536 |hdl-access=free |doi-access=free }}
+* {{Citation | last = Pensalfini | first = Robert J. | title = Verbs as Spatial Deixis Markers in Jingulu  | year = 2003a}}
+* {{Citation | last = Black | first = Paul | author-link = Paul Black (linguist) | title = Lexicostatistics with massive borrowing: the case of Jingulu and Mudburra | journal = Australian Journal of Linguistics | volume = 27 | issue = 1 | year = 2007 | pages = 63–71 | doi=10.1080/07268600601172959| s2cid = 145770425 | url = http://espace.cdu.edu.au/view/cdu:42483 }}
+
+== External links ==
+* [http://wals.info/languoid/lect/wals_code_dji Features of the Jingulu language on WALS]
+* [http://www.language-archives.org/language/jig Resources for the Jingulu language on OLAC]
+* [http://globalrecordings.net/en/program/C80321 Listen to Gospel Messages in Jingulu on Global Recordings]
+* [http://aiatsis.gov.au/sites/default/files/jingulu_djingili_jingili.pdf Bibliography of Jingulu people and language resources], at the [[Australian Institute of Aboriginal and Torres Strait Islander Studies]]
+
+{{Australian Aboriginal languages}}
+[[Category:Mirndi languages]]
+[[Category:Endangered indigenous Australian languages in the Northern Territory]]

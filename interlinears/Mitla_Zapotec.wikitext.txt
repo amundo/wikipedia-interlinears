@@ -1,0 +1,188 @@
+{{Infobox language
+|name=Mitla Zapotec
+|altname=(San Pablo Villa de Mitla)
+|nativename=''Didxsaj''
+|pronunciation={{IPA-oax|didʒˈsaʰ|}}
+|state=[[Mexico]]
+|region=[[Mitla Valley]], [[Oaxaca]]
+|speakers={{sigfig|19500|2}}
+|date=1983
+|ref=e18
+|familycolor=American
+|fam1=[[Oto-Manguean]]
+|fam2=[[Zapotecan languages|Zapotecan]]
+|fam3=[[Zapotec languages|Zapotec]]
+|fam4=Central
+|iso3=zaw
+|glotto=mitl1236
+|glottorefname=Mitla Zapotec
+}}
+
+'''Mitla Zapotec''', or ''Didxsaj,''<ref>Stubblefield & Stubblefield (1991:18)</ref> is an [[Oto-Manguean languages|Oto-Manguean]] language of [[Oaxaca]], [[Mexico]].
+
+[[Guelavia Zapotec]] is reported to be 75% intelligible, but the reverse is apparently not the case.<ref name="e18"/>
+==Phonetics, phonology, and orthography==
+Mitla Zapotec has the following consonants:<ref>{{cite book |last1=Briggs |first1=Elinor |title=Mitla Zapotec Grammar |url=https://archive.org/details/mitlazapotecgram0000brig |url-access=registration |date=1961 |page=[https://archive.org/details/mitlazapotecgram0000brig/page/3 3-4]}}</ref>
+
+* Fortis: p, t, k, k<sup>w</sup>, s, ʃ, m:, n:, l:
+* Lenis: b, d, g, g<sup>w</sup>, z, ʒ, m, n, l
+* Neutral: ɾ [flap r], r [trill r], f, x, ʔ, h, w, y.
+
+/f/ is rare in native words.
+
+* Mitla Zapotec has six vowels: /a, æ, e, i, o, u/. The vowel /æ/ is written {{angbr|ä}} in the practical orthography.
+
+Vowels contrast in phonation, with a difference between modal phonation, breathy phonation, and creaky phonation.  For example
+* {{transl|zaw|italic=no|gihts}} [gi̤ts] 'paper'
+* {{transl|zaw|italic=no|be'ts}} [bḛts] 'louse'
+
+==Noun morphology==
+Mitla Zapotec has little noun morphology.  Pluralization is indicated by a plural proclitic /re{{=}}/, as in the following example
+
+{{interlinear|ipa2=yes|glossing3=yes|indent=3
+|re{{=}}guejdx
+|[re{{=}}ge̤dʒ] 
+|PL{{=}}village
+|'villages'}}
+
+[[Alienable possession|Alienably possessed]] nouns have a prefix ʃ- (spelled {{angbr|x}} in the popular orthography), as in the following examples (cited first in practical orthography, then in IPA).<ref name="stubblefiend">{{cite book |last1=Stubblefield |first1=Morris and Carol |title=Diccionario Zapoteco de Mitla |date=1991 |publisher=Instituo Linguistico de Verano|page=198}}</ref>
+
+{{interlinear|ipa2=yes|glossing3=yes|indent=3
+|x-cojb Maria 
+|[ʃ-ko̤b maria]
+|POSS-dough Maria
+|'Maria's dough'}}
+
+{{interlinear|ipa2=yes|glossing3=yes|indent=3
+|x-cu'n{{=}}reni 
+|[ʃ-kuʔn{{=}}ɾeni]
+|POSS-tortilla{{=}}3pl
+|'their tortillas'}}
+
+==Verb morphology==
+===Aspectual morphology===
+Briggs analyses Mitla Zapotec as having six aspects, each of which has an ablative ('go and V') and non-ablative variant.  They are
+
+# continuative, e.g., {{transl|zaw|ka'}} 'to take' {{transl|zaw|ka-ká'-ni}} 'he continually takes'
+# habitual, e.g., {{transl|zaw|wi}} 'to see' {{transl|zaw|r-wi-ni}} 'he habitually sees'
+# completive, e.g., {{transl|zaw|sloh}} 'to begin' {{transl|zaw|gu-sloh-ni}} 'he began'
+# potential, e.g., {{transl|zaw|sæu}} 'to close' {{transl|zaw|gu-su-ni-ni}} 'he is going to close it'
+# unfulfilled, e.g., {{transl|zaw|llux}} 'to finish' {{transl|zaw|nu-llûx-ni}} 'he didn't finish'
+# incomplete, e.g., {{transl|zaw|re}} 'to invite' {{transl|zaw|zu-re-ni}} 'he will invite'
+
+The following example shows the aspectual inflection of three verbs in Mitla Zapotec.<ref>Stubblefield & Stubblefield (1991:211,218)</ref>
+{| class="wikitable" border="1"
+|-
+! habitual
+! unreal
+! continuative
+! potential
+! definite future
+! completive
+!
+|-
+| /ɾ-baʰnː/
+| /ni-baʰnː/
+| /ka-baʰnː/
+| /gi-baʰnː/
+| /si-baʰnː/
+| /bi-baʰnː/
+| ' wake up' 
+|-
+| /ɾ-aʰdʒ/
+| /nj-aʰdʒ/
+| /kaj-aʰdʒ/
+| /g-adʒ/<ref>The stem loses the aspiration feature in this form.</ref>
+| /s-aʰdʒ/
+| /guʰdʒ/
+| ' get wet' 
+|-
+| /ɾ-uʰn/
+| /nj-uʰn/
+| /kaj-uʰn/
+| /g-uʰn/
+| /s-uʰn/
+| /b-eʰn/
+| ' do, make' 
+|-
+|}
+
+===Person marking===
+
+Person marking is shown with a set of post-verbal clitics, which are used for both subjects and objects<ref>{{cite book |last1=Briggs |first1=Elinor |title=Mitla Zapotec Grammar |url=https://archive.org/details/mitlazapotecgram0000brig |url-access=registration |date=1961 |publisher=Instituto Linguistico de Verano |page=[https://archive.org/details/mitlazapotecgram0000brig/page/63 63-4]}}</ref>
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! singular
+! plural
+|-
+! colspan="2" | 1st person
+| =ǽ
+| =nú
+|-
+! colspan="2" | 2nd person
+| =lu
+| =tú
+|-
+! rowspan="3" | 3rd person
+! ordinary
+| =ni
+| rowspan="3" | =reni
+|-
+! respect
+| =bá
+|-
+! male to male
+| =xí
+|}
+
+The following examples show examples of verbs with aspect and person marking
+
+{{interlinear|lang=zaw|indent=3
+|Gu-kwaʔts{{=}}ǽ{{=}}lu
+|POT-hide{{=}}1sg{{=}}2sg
+|'I am going to hide you.'}}
+
+{{interlinear|lang=zaw|indent=3
+|Ba-saʔN{{=}}ǽ{{=}}tú 
+|COMPL-leave{{=}}1sg{{=}}2pl
+|'I left you (pl).'}}
+
+==Syntax==
+
+The most basic word order is VSO.  However, SVO also occurs, especially with a topicalized subject.
+
+{{interlinear|lang=zaw|indent=3
+|Zä nigui{{=}}re
+|go man{{=}}this
+|'This man went away'}}
+
+{{interlinear|lang=zaw|indent=3
+|Narä r-hui{{=}}ä́ la'tu
+|I HAB-see{{=}}1sg 2pl
+|'I see you (pl).'}}
+
+{{interlinear|lang=zaw|indent=3
+|R-ahp byûz llîbr
+|HAB-have child book
+|'The child has a book'}}
+
+==References==
+{{Reflist}}
+*{{Cite web
+| title = Mitla Zapotec (zaw)
+| work = Summer Institute of Linguistics in Mexico
+| access-date = 2014-03-13
+| url = http://www-01.sil.org/mexico/zapoteca/mitla/00i-ZapotecoMitla-zaw.htm
+}}
+* Briggs, Elinor. 1961. Mitla Zapotec grammar. Mexico City: Instituto Lingüístico de Verano and Centro de Investigaciones Antropológicas de México.
+* Stubblefield, Morris and Carol Stubblefield. 1991. Diccionario Zapoteco de Mitla. Instituto Lingüístico de Verano, Mexico.
+* Stubblefield, Morris & Carol Stubblefield, compilers. 1994. Mitla Zapotec texts. Dallas: Summer Institute of Linguistics.
+
+== External links ==
+*[http://www.language-archives.org/language/zaw OLAC resources in and about the Mitla Zapotec language]
+
+{{Zapotec languages}}
+{{Oto-Manguean languages}}
+[[Category:Zapotec languages]]

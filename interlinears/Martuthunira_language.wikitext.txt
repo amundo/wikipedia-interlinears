@@ -1,0 +1,162 @@
+{{short description|Extinct Australian Aboriginal language}}
+{{Use Australian English|date=November 2018}}
+{{Use dmy dates|date=November 2018}}
+{{Infobox language
+|name=Martuthunira
+|region=[[Western Australia]]
+|ethnicity=[[Mardudunera]]
+|extinct=6 August 1995 with the death of [[Algy Paterson]].
+|familycolor=Australian
+|fam1=[[Pama–Nyungan languages|Pama–Nyungan]]
+|fam2=[[Ngayarta languages|Ngayarta]]
+|iso3=vma
+|glotto=mart1255
+|glottorefname=Martuthunira
+|aiatsis=W35
+|notice=IPA
+}}
+
+'''Martuthunira''' is an [[extinct language|extinct]] [[Australian Aboriginal languages|Australian Aboriginal language]], that was the traditional language of the [[Martuthunira people]] of [[Western Australia]].
+
+The last fluent speaker of Martuthunira, [[Algy Paterson]], died on 6 August 1995. From 1980 he worked with the linguist [[Alan Dench]] to preserve Martuthunira in writing, and it is from their work that most of our knowledge of Martuthunira today comes.
+
+==Name==
+The name ''Martuthunira'', pronounced {{IPA|[maɽʊðʊneɻa]}} by native speakers, means "those who live around the [[Fortescue River]]". It has many spelling variants, including: '''Maratunia''', '''Mardadhunira''', '''Mardathon''', '''Mardathoni''', '''Mardathoonera''', '''Mardatuna''', '''Mardatunera''', '''Mardudhoonera''', '''Mardudhunera''', '''Mardudhunira''', '''Mardudjungara''', '''Marduduna''', '''Mardudunera''', '''Marduthunira''', '''Mardutunera''', '''Mardutunira''', '''Marduyunira''', '''Martuthinya''', and '''Martuyhunira'''.
+
+==Classification==
+Martuthunira is classified as a member of the [[Ngayarta languages|Ngayarta]] branch of the [[Pama–Nyungan languages]]. Under [[Carl Georg von Brandenstein]]'s 1967 classification, Martuthunira was classed as a Coastal Ngayarda language, but the separation of the Ngayarda languages into Coastal and Inland groups is no longer considered valid.
+==Phonology==
+Martuthunira has a fairly standard Australian [[phonology]]. [[R. M. W. Dixon]] uses it as a prototypical example in his 2002 book ''Australian Languages: Their nature and development''.
+
+===Consonants===
+{| class="wikitable"
+!rowspan=2|
+!colspan=2| [[Peripheral consonant|Peripheral]]
+!colspan=2| [[Laminal consonant|Laminal]]
+!colspan=2| [[Apical consonant|Apical]]
+|-
+! [[bilabial consonant|Bilabial]]
+! [[velar consonant|Velar]]
+! [[palatal consonant|Palatal]]
+! [[dental consonant|Dental]]
+! [[alveolar consonant|Alveolar]]
+! [[retroflex consonant|Retroflex]]
+|- style="text-align: center;"
+! [[stop consonant|Stop]]
+| {{IPA|p}}
+| {{IPA|k}}
+| {{IPA|c}}
+| {{IPA|t̪}}
+| {{IPA|t}}
+| {{IPA|ʈ}}
+|- style="text-align: center;"
+! [[Nasal stop|Nasal]]
+| {{IPA|m}}
+| {{IPA|ŋ}}
+| {{IPA|ɲ}}
+| {{IPA|n̪}}
+| {{IPA|n}}
+| {{IPA|ɳ}}
+|- style="text-align: center;"
+! [[lateral consonant|Lateral]]
+|
+|
+| {{IPA|ʎ ~ ɟʎ}}
+| {{IPA|l̪ ~ d̪l̪}}
+| {{IPA|l ~ dl}}
+| {{IPA|ɭ ~ ɖɭ}}
+|- style="text-align: center;"
+! [[rhotic consonant|Rhotic]]
+|
+|
+|
+|
+| {{IPA|r}}
+| {{IPA|ɻ}}
+|- style="text-align: center;"
+! [[Semivowel]]
+|colspan=2| {{IPA|w}}
+| {{IPA|j}}
+|
+|
+|
+|}
+The laterals—but perhaps uniquely not the nasals—are allophonically [[prestopped consonant|prestopped]].<ref>Jeff Mielke, 2008. ''The emergence of distinctive features'', p 135</ref>
+
+The laminal stop {{IPA|/c/}} has a voiced [[allophone]] {{IPA|[ɟ]}} between vowels.
+
+Between vowels, the dental stop {{IPA|/t̪/}} can become {{IPA|[d̪]}}, {{IPA|[ð]}}, {{IPA|[ð̞]}}, {{IPA|[ɻ]}}, {{IPA|[j]}}, {{IPA|[w]}}, or even simply a syllable break. In some words one particular realization is always used, in others there is [[free variation]].
+
+The alveolar stop {{IPA|/t/}} has a voiced allophone {{IPA|[d]}} after a nasal. It occurs between vowels only in a handful of words, probably all [[loanword]]s, where it has a longer period of closure than the other stops {{IPA|[tː]}}.
+
+The retroflex stop {{IPA|/ʈ/}} has a voiced allophone {{IPA|[ɖ]}} after a nasal, and a flapped allophone {{IPA|[ɽ]}} between vowels.
+
+Besides the voiced allophones mentioned above, stops are usually voiceless and [[aspiration (phonetics)|unaspirated]].
+
+The laterals have [[prestopped]] allophones {{IPA|[ᶜʎ ᵗ̪l̪ ᵗl <sup>ʈ</sup>ɭ]}} when they occur in a [[syllable coda]].
+
+The alveolar rhotic {{IPA|/r/}} is a tap {{IPA|[ɾ]}} between vowels, and a usually voiceless trill {{IPA|[r̥]}} finally.
+
+The palatal semivowel {{IPA|/j/}} may be dropped initially before {{IPA|/i/}}, but the equivalent dropping of {{IPA|/w/}} before initial {{IPA|/u/}} is rare.
+
+===Vowels===
+{| class="wikitable"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|- style="text-align: center;"
+! [[High vowel|High]]
+| {{IPA|i iː}}
+| {{IPA|u uː}}
+|- style="text-align: center;"
+! [[Low vowel|Low]]
+|colspan=2| {{IPA|a aː}}
+|}
+{{IPA|/i/}} is usually realized as {{IPA|[ɪ]}}, though it may be realized as {{IPA|[i]}} near palatal consonants and as {{IPA|[e]}} near {{IPA|/r/}}, {{IPA|/n/}} or {{IPA|/l/}}.
+
+{{IPA|/iː/}} is realized as {{IPA|[ɪː]}} in morpheme-initial syllables, {{IPA|[eː]}} elsewhere.
+
+{{IPA|/u/}} is usually realized as {{IPA|[u]}} in stressed syllables, and {{IPA|[ʊ]}} in unstressed syllables. {{IPA|/u/}} is fronted to varying degrees when near laminal consonants, being most fronted {{IPA|[ʉ]}} when preceded by a dental consonant. It has an unrounded allophone {{IPA|[ɨ]}} when followed by {{IPA|/ɻ/}}.
+
+{{IPA|/uː/}} is usually {{IPA|[ʊː]}}, but is lowered to {{IPA|[ɔː]}} when preceded by a dental consonant.
+
+{{IPA|/a/}} is usually {{IPA|[ɐ]}} when stressed, {{IPA|[ə]}} when unstressed. Following a laminal consonant, more so after dentals than palatals, it is fronted towards {{IPA|[ɛ]}}. When preceded by {{IPA|/w/}} and followed by a velar consonant, it is realized as {{IPA|[ɒ]}}.
+
+{{IPA|/aː/}} is usually simply {{IPA|[ɐː]}}.
+
+===Phonotactics===
+All Martuthunira words begin with one of the following consonants, from most to least frequent: {{IPA|/p k m w ŋ c t̪ j ɲ n̪/}}. This consists of only peripheral and laminal stops, nasals, and semivowels. Words may end in a vowel, or one of {{IPA|/n r l ɲ ɳ ʎ ɭ/}}.
+
+==Grammar==
+
+===Accusative alignment===
+[[Image:Accusative alignment.svg|thumb|right|Accusative alignment. A = [[subject (grammar)|subject]] of a transitive verb; S = [[subject (grammar)|subject]] of an intransitive verb; O = [[object (grammar)|object]] of a transitive verb.]]
+Unlike most Australian languages, which exhibit [[ergativity]], Martuthunira and the other [[Ngayarta languages]] have an [[nominative–accusative language|accusative]] alignment. That is, the [[subject (grammar)|subjects]] of [[transitive verb]]s are treated the same as the subjects of [[intransitive verb]]s, while the [[object (grammar)|objects]] are treated differently.
+
+The Martuthunira [[nominative case]] is unmarked ([[zero morpheme|zero]]). The [[accusative case]], which descends from a suffix that originally marked the [[dative case]], takes the form {{IPA|/-ŋu/}} on [[proper noun|proper nominals]]; {{IPA|/-ku/}} on [[common noun|common nominals]] ending in a nasal ({{IPA|/ɲ n ɳ/}}); {{IPA|/-ju/}} on common nominals ending in a lateral or a rhotic ({{IPA|/ʎ l ɭ r/}}); and vowel lengthening for common nominals ending in vowels. The accusative case is identical to the [[genitive case]], except for common nominals ending in vowels, where the genitive suffix is {{IPA|/-wu/}}.
+
+===Case stacking===
+Martuthunira exhibits [[case stacking]], where nouns take multiple [[declension|case]] suffixes for [[agreement (linguistics)|agreement]]. For example:
+
+{{interlinear|indent=3|abbreviations=PROP:proprietive case
+|Ngayu nhawulha ngurnu tharnta-{{blue|a}} mirtily-{{red|marta}}-{{blue|a}} thara-{{purple|ngka}}-{{red|marta}}-{{blue|a}}.
+|I saw that euro-{{blue|ACC}} joey-{{red|PROP}}-{{blue|ACC}} pouch-{{purple|LOC}}-{{red|PROP}}-{{blue|ACC}}
+|I saw that [[wallaroo|euro]] with a joey in its pouch.}}
+
+*''Tharnta'' is the [[object (linguistics)|object]] of the verb, and so is in the [[accusative case]].
+*''Mirtily'' gets a [[proprietive case|proprietive]] suffix, which indicates that it is possessed by the euro. However, because it modifies {{transl|vma|tharnta}}, it additionally gets an accusative suffix to agree with it.
+*''Thara'' gets a [[locative case|locative]] suffix, which indicates that it is what the joey is in. It also gets a proprietive suffix to agree with {{transl|vma|mirtily}}, and then an accusative suffix to agree with {{transl|vma|tharnta}}.
+
+==References==
+
+{{reflist}}
+*{{cite book | first=Alan Charles | last=Dench | year=1995 | title=Martuthunira: A Language of the Pilbara Region of Western Australia | location=Canberra | publisher=Pacific Linguistics. Series C-125 | isbn=0-85883-422-7 | url=https://www.academia.edu/2542044/Martuthunira_A_Language_of_the_Pilbara_Region_of_Western_Australia | author-link=Alan Dench }}
+
+==External links==
+*[http://coombs.anu.edu.au/WWWVLPages/AborigPages/LANG/WA/4_4_6.htm Handbook of Western Australian Languages South of the Kimberley Region — Martuthunira]
+
+{{Ngayarda}}
+{{Pama–Nyungan languages|West}}
+[[Category:Ngayarda languages]]
+[[Category:Extinct languages of Western Australia]]
+[[Category:Languages extinct in the 1990s]]

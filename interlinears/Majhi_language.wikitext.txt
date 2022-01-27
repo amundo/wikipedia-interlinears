@@ -1,0 +1,331 @@
+{{distinguish|text=the [[Majhi dialect]] or the [[Bote-Darai language|Bote-Majhi language]]}}
+{{Infobox language
+| name = Majhi
+| familycolor = Indo-European
+| region = Nepal
+| speakers = [[First language|L1]] 44,800, [[Second language|L2]] 1,320 (worldwide)<ref name=":1">{{Cite web|url=https://www.ethnologue.com/language/mjz|title=Majhi|website=Ethnologue|language=en|access-date=2019-04-20}}</ref>
+| fam2 = [[Indo-Iranian languages|Indo-Iranian]]
+| fam3 = [[Indo-Aryan languages|Indo-Aryan]]
+| fam4 = [[Eastern Indo-Aryan languages|Eastern]]
+| fam5 = [[Bihari languages|Bihari]]<ref name=":1">{{Cite web|url=https://www.ethnologue.com/language/mjz|title=Majhi|website=Ethnologue|language=en|access-date=2019-04-20}}</ref>
+| fam6 = [[Tharu languages|Tharu]]
+| iso3 = mjz
+| glotto = majh1253
+| ethnicity = Majhi people
+| script = [[Devanagari]]
+}}
+
+'''Majhi''' is an [[Indo-Aryan language]] spoken in parts of [[Nepal]] and formerly in some small pockets of neighboring [[India]].<ref name=":0">{{Cite book|title=A Grammar of Majhi|last=Dhakal|first=Dubi Nanda|publisher=LINCOM EUROPA|year=2014|isbn=9783862885497|location=Munich}}</ref><sup>:1</sup> The language is associated with the Majhi people, an ethnic group in those regions who dwell historically near the [[Kosi River|Saptakoshi River]] and its tributaries and elsewhere in central and eastern Nepal. The Majhi people generally subsist off of work associated with rivers, including fishing and ferrying.<ref name=":0" /><sup>:2</sup> Majhi is written using the Devanagari writing system.<ref name=":1" />
+
+[[Ethnologue]] classifies Mahji as a 6b threatened language. There are roughly 24,400 L1 speakers of Majhi in Nepal and roughly 46,120 L1 and L2 speakers of the language around the globe.<ref name=":1">{{Cite web|url=https://www.ethnologue.com/language/mjz|title=Majhi|website=Ethnologue|language=en|access-date=2019-04-20}}</ref> Most of the Majhi speakers in Nepal are bilingual with the more predominant [[Nepali language]],<ref name=":0" /><sup>:2</sup> and the latter language is replacing Majhi in use.<ref name=":1" /> Majhi's lack of official status, use in education, in media, in print, etc. places the survival of the language in a precarious position.<ref name=":0" /><sup>:2</sup>
+
+The last speaker in India, Thak Bahadur Majhi of [[Jorethang]] in [[Sikkim]] state, died in 2016.<ref>{{Cite web|last=TNN|first=|last2=|last3=|first3=|date=22 July 2016|title=Last speaker of Majhi language dead {{!}} Vadodara News - Times of India|url=https://timesofindia.indiatimes.com/city/vadodara/last-speaker-of-majhi-language-dead/articleshow/53329911.cms|url-status=live|access-date=2021-04-15|website=The Times of India|language=en}}</ref>
+
+== Phonology ==
+
+=== Vowels ===
+Majhi has a total of 13 vowels, five of which are diphthongs.<ref name=":0" /><sup>:6, 8</sup>
+{| class="wikitable"
+!
+!Front
+!Central
+!Back
+|-
+|High
+|i
+|
+|u
+|-
+|High-mid
+|e
+|
+|o
+|-
+|Low-mid
+|
+|ə
+əː
+|
+|-
+|Low
+|
+|a
+aː
+|
+|}
+N.B. Diphthongs in Majhi include: eu, əu, au, əi, oi.<ref name=":0" /><sup>:8</sup> The vowels /ɜː, a<sub>c</sub>ː/ do not occur anywhere except in the word-final position while other vowels can appear in any position in a word.<ref name=":0" /><sup>:7</sup>
+
+=== Consonants ===
+Majhi has a total of 29 consonants.<ref name=":0" /><sup>:9</sup>
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |
+! [[Bilabial consonant|Bilabial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+|
+| {{IPA link|n}}
+|
+|
+| {{IPA link|ŋ}}
+|
+|-
+! rowspan="4" | [[Plosive]]/<br />[[Affricate]]
+! {{small|voiceless}}
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|ts}}
+| {{IPA link|ʈ}}
+|
+| {{IPA link|k}}
+|
+|-
+! {{small|aspirated}}
+| {{IPA link|pʰ}}
+| {{IPA link|tʰ}}
+| {{IPA link|tsʰ}}
+| {{IPA link|ʈʰ}}
+|
+| {{IPA link|kʰ}}
+|
+|-
+! {{small|voiced}}
+| {{IPA link|b}}
+| {{IPA link|d}}
+| {{IPA link|dz}}
+| {{IPA link|ɖ}}
+|
+| {{IPA link|g}}
+|
+|-
+! {{small|breathy}}
+| {{IPA link|bʱ}}
+| {{IPA link|dʱ}}
+| {{IPA link|dzʱ}}
+| {{IPA link|ɖʱ}}
+|
+| {{IPA link|gʱ}}
+|
+|-
+! colspan="2" | [[Fricative]]
+|
+|
+| {{IPA link|s}}
+|
+|
+|
+| {{IPA link|h}}
+|-
+! rowspan="2" | [[Liquid consonant|Liquid]]
+! {{small|lateral}}
+|
+|
+| {{IPA link|l}}
+|
+|
+|
+|
+|-
+! {{small|rhotic}}
+|
+|
+| {{IPA link|r}}
+|
+|
+|
+|
+|-
+! colspan="2" | [[Glide consonant|Glide]]
+| {{IPA link|w}}
+|
+|
+|
+| {{IPA link|j}}
+|
+|
+|}
+
+=== Syllable structure ===
+Majhi allows consonant clusters to form in the onset but not the coda. However, researchers believe that further study on syllable structure is necessary to ascertain a fuller understanding of the syllable structure.<ref name=":0" /><sup>:17</sup> When Majhi features two consonants in the onset, the second consonant will be a glide (/j, w/).<ref name=":0" /><sup>:13</sup> Some examples of the syllable structure are included in the chart below.
+{| class="wikitable"
+!Pattern
+!Example
+!Translation
+|-
+|CVC
+|nun
+|'salt'
+|-
+|CCV
+|hje
+|'this'
+|-
+|CCVC
+|sjal
+|'jackal'
+|-
+|CV
+|ṭe.ṭhi
+|'niece'<ref name=":0" /><sup>:17</sup>
+|}
+
+== Morphology ==
+=== Affixation                                                    ===
+==== Derivational affixation ====
+Majhi uses [[affix]]ation to derive words through [[nominalization]], [[Verbalisation|verbalization]], and [[negation]]. For nominalizers and verbalizers, Majhi uses suffixation. For negation, Majhi uses prefixation. Examples are included in the chart below.
+{| class="wikitable"
+!
+!Example 1<ref name=":0" /><sup>''':19'''</sup>
+!Example 2<ref name=":0" /><sup>:58</sup>
+!Example 3<ref name=":0" /><sup>:58</sup>
+!Example 4<ref name=":0" /><sup>:70</sup>
+|-
+|Function
+|Nominalizer (from verb)
+|Verbalizer (from noun)
+|Verbalizer (from adjective)
+|Negator (noun to noun)
+|-
+|Majhi
+|{{interlinear|hiṭh-ai|walk-NMZ|'the walking'}}
+|{{interlinear|nid-ai|sleep-VBZ|'to be asleep'}}
+|{{interlinear|moṭ-ai|c1=<ref group=note>The grammar lists the adjective as 'moṭo,' but context would suggest that 'moṭ' is the root unless there is some transformation, which the grammar does not describe.</ref>|fat-VBZ|'to be fat'}}
+|{{interlinear|dzun-bal|PROH-speak.IMP|c2=<ref group=note>The abbreviation PROH indicates a prohibition.</ref>|'don't speak'}}
+|}
+
+==== Inflectional affixation ====
+Majhi uses morphemes to [[Inflection|inflect]] words (specifically, to decline nouns and to conjugate verbs). Nouns are declined for case, number, and gender. Nouns are also declined for pronominal possessive suffixes, which indicate the possessor of the noun (see example below).<ref name=":0" /><sup>:43</sup> Verbs are conjugated for person, number, tense, aspect, and mood.<ref name=":0" /><sup>:89</sup> 
+{| class="wikitable"
+!
+!Example 1<ref name=":0" /><sup>''':21'''</sup>
+!Example 2<ref name=":0" /><sup>''':19'''</sup>
+!Example 3<ref name=":0" /><sup>:48</sup>
+|-
+|Function
+|Noun declension
+|Noun declension (with pronominal possessive suffix)
+|Verb conjugation
+|-
+|Majhi
+|{{interlinear|bari-ka|field-LOC|'in the field'}}
+|{{interlinear|buhari-r|daughter-in-law-POSS.2SG|'your daughter-in-law'}}
+|{{interlinear|siddha-naĩ|finish-PST.1SG|'I finished'}}
+|}
+
+=== Other morphological processes ===
+
+==== Compounding ====
+Majhi can form new words by combining two roots. In the example below, combining the words for grandfather and grandmother yields the plural grandparents.<ref name=":0" /><sup>:22</sup>
+{| class="wikitable"
+!First Root
+!Second Root
+!Combined New Word
+|-
+|adze
+|adza
+|adzeadza
+|-
+|'grandfather'
+|'grandmother'
+|'grandparents'
+|}
+
+==== Reduplication ====
+Majhi sometimes completely reduplicates a full noun, verb, adjective, or adverb form in order to add extra emphasis. For nouns, Majhi also adds a suffix "-e" to the first instance of the noun. For example, the noun "kapal" means 'head,' and, when it is reduplicated with the suffix as "kapal-e kapal," the combined phrase means 'all heads.'<ref name=":0" /><sup>:20</sup> Verbs do not have such a suffix. For example, the verb "bəl-ni" means 'I said,' but, when reduplicated "bəl-ni bəl-ni," the combined reduplication would mean 'I said it (which I will definitely not change).'<ref name=":0" /><sup>:89</sup> Adjectives can be reduplicated for emphasis in the same manner. For example, the adjective "lamo" means "long," and, when it is reduplicated as "lamo lmao," it means very long.<ref name=":0" /><sup>:54</sup> Adverbs can be reduplicated in the same manner as adjectives. For example, the adverb "tshiṭo" means 'quickly,' and, when it is reduplicated as "tshiṭo tshiṭo," it means 'very quickly.'<ref name=":0" /><sup>:96</sup>
+
+=== Particles ===
+Mahji features several particles that perform various functions, including indicating questions, emphasis, and hearsay.<ref name=":0" /><sup>:73, 97</sup> Mahji also shares some particles with Nepali.<ref name=":0" /><sup>:97</sup> Examples of some Mahji particles are given below.
+
+==== Question particle ''te'' ====
+The particle ''te'' comes at the end of a sentence and indicates a question.<ref name=":0" /><sup>:97</sup>
+
+{{interlinear|lang=jig|indent=3
+|hək-lə pətshi keti kha-a-i te
+|become-PRF after what eat-CAUS-INF PRT
+|'After the child was born, what was fed to her?'}}
+
+==== Contrastive, emphatic particle ''ta'' ====
+Mahji uses the particle ''ta'' in order to provide an emphatic contrast.<ref name=":0" /><sup>:97</sup>
+
+{{interlinear|lang=jig|indent=3
+|muĩ ta dzainai
+|I PRT go-PST.1SG
+|'Now I go (as for me)."}}
+
+==== Hearsay particle ''ni'' ====
+Mahji uses the hearsay particle ''ni'' to indicate an uncertain secondhand knowledge.<ref name=":0" /><sup>:73</sup>
+
+{{interlinear|lang=jig|indent=3|abbreviations=HS:hearsay particle
+|keṭo a-le ni
+|boy come-PST.3SG HS
+|'The boy came (they say).'}}
+
+== Syntax ==
+=== Standard word order ===
+The basic word order of Majhi is <small>SOV</small>.<ref name=":0" /><sup>:111</sup> This word order is fairly consistent across the language. Mahji is an [[In situ#Linguistics|''in situ'' language]] for ''wh-questions'' and ''yes-no'' questions, meaning that it maintains its standard word order for questions.<ref name=":0" /><sup>:118</sup> The three examples below illustrate this word order:
+
+; Declarative sentence<ref name=":0" /><sup>:85</sup>
+{{interlinear|lang=jig|indent=3
+|ram-in kam sək-le
+|Ram-ERG work finish-PST.3SG
+|Subject Object Verb
+|'Ram finished the work.'}}
+
+; Wh-question<ref name=":0" /><sup>:119</sup>
+{{interlinear|lang=jig|indent=3
+|tui kətte mun kha-tshəs
+|you how-much liquor eat-NPST.2SG
+|Subject Quantity Object Verb
+|'How much liquor do you drink?'}}
+
+; Yes-no question<ref name=":0" /><sup>:120</sup>
+{{interlinear|lang=jig|indent=3
+|Subject Object Verb|hoi-nin gai ban-le
+|he-ERG cow tie-PST
+|'Did he tie the cow?'}}
+
+=== Noun phrases and adpositional phrases ===
+==== Possessee + possessor ====
+With the possessee + possessor relationship (genitive modifiers), the possessor precedes the possessee.<ref name=":0" /><sup>:105</sup>
+
+{{interlinear|lang=jig|indent=3
+|bãs-kərə tsoja
+|bamboo-GEN splinter
+|'the splinter of bamboo'}}
+
+==== Adposition + noun phrase ====
+Majhi uses adpositions as analytical rather than synthetic markers.<ref name=":0" /><sup>:28</sup> In the example below, the noun phrase also appears with a specific case ([[Genitive case|the genitive case]]) with this postposition.<ref name=":0" /><sup>:29</sup>
+
+{{interlinear|lang=jig|indent=3
+|kaṭh-kərə	lagi
+|wood-GEN	for
+|'for wood'}}
+
+=== Adverb placement ===
+In Mahji, the adverb generally precedes the verb. For example, see below.<ref name=":0" /><sup>:96</sup>
+
+{{interlinear|lang=jig|indent=3
+|hoi-nin bhərkhər kətha sun-le
+|He-ERG recently story heard-PST.3SG
+|Subject Adverb Object Verb
+|'He has recently heard the story.'}}
+
+== Notes ==
+{{reflist|group=note}}
+
+== References ==
+{{Wikivoyage|Majhi phrasebook|Majhi|a phrasebook}}
+{{reflist}}
+
+{{Eastern Indo-Aryan languages}}
+
+[[Category:Eastern Indo-Aryan languages]]
+[[Category:Bihari languages]]

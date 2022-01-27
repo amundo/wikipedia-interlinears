@@ -1,0 +1,221 @@
+{{Infobox language family
+|name=Nandi
+|altname=Kalenjin
+|region=[[East African Rift]]
+|ethnicity=[[Kalenjin people]], some [[Dorobo]]
+|familycolor=Nilo-Saharan
+|fam2=[[Eastern Sudanic languages|Eastern Sudanic]]
+|fam3=[[Nilotic languages|Nilotic]]
+|fam4=[[Southern Nilotic languages|Southern Nilotic]]
+|fam5=[[Kalenjin languages|Kalenjin]]
+|iso3=kln
+|glotto=cent2293
+|glottoname=Central Kalenjin
+|glotto2=mark1255
+|glottoname2=Markweeta<!--name as listed at Glottolog-->
+|glotto3=mosi1247
+|glottoname3=Akie<!--name as listed at Glottolog-->
+}}
+
+The '''Nandi language''', or '''Kalenjin proper''', are a [[dialect cluster]] of the [[Kalenjin languages|Kalenjin]] branch of the [[Nilotic]] language family.
+
+In Kenya, where speakers make up 18% of the population, the name ''Kalenjin'', a Nandi expression meaning "I say (to you)", gained prominence in the late 1940s and the early 1950s, when several Kalenjin-speaking peoples united under it. This ethnic consolidation created a major ethnic group in Kenya, and also involved a standardization of the Kenyan Kalenjin dialects. However, since outside Kenya the name ''Kalenjin'' has been extended to related languages such as [[Okiek language|Okiek]] of Tanzania and [[Elgon languages]] of Uganda, it is common in linguistic literature to refer to the languages of the Kenyan Kalenjin peoples as ''Nandi'', after the principal variety.
+
+==Varieties==
+The Kenyan conception of ''Kalenjin'' includes [[Kipsigis language|Kipsigis]] and [[Terik language|Terik]]:
+*'''Nandi'''
+**[[Kipsigis language|Kipsigis]]
+**[[Markweta language|Markweta]]
+**'''Nandi'''
+*** [[Naandi language|Naandi (Cemual)]] (Kenya)
+***[[Terik language|Terik]]
+*** [[Keiyo language|Keiyo]] (Kenya)
+*** [[Tugen language|(North) Tugen]] (Kenya)
+
+==Phonology==
+
+===Vowels===
+Kalenjin has a simple five-vowel inventory {a, e, i, o, u}, which is then expanded by the presence of a contrastive [[Advanced and retracted tongue root|[+/-ATR feature]]], as well as a phonemic [[vowel length]] distinction. In (at least) Kipsigis (Toweett 1979) and Nandi (Creider 1989), all five vowels have both [+ATR], and [-ATR] counterparts, but the contrast is neutralized for the vowel [a] in Tugen (Jerono 2012). The neutralization of the [+/-ATR] contrast for this specific vowel is common in other Nilotic languages of the region, such as [[Maasai language|Maasai]] of Kenya and [[Didinga language|Didinga]] of [[South Sudan]].<ref>{{Cite web|url=http://pages.uoregon.edu/dlpayne/maasai/ATR.htm|title = Maasai Contrastive Vowels}}</ref><ref>{{Cite web|url=http://www.sil.org/resources/publications/entry/58715|title = Didinga Grammar Book|date = 11 August 2014}}</ref> Kalenjin, like many other African languages, exhibits [[Advanced and retracted tongue root|Advanced Tongue Root]] harmony. As a result, all vowels in a word have the same [ATR] value. In the rest of the article, Kalenjin words with [-ATR] will be spelled in italics.
+
+It is common in the language to use [ATR] distinctions to signal grammatical functions. For example, in Kipsigis, the word for ‘bird’ ''tàríit'' with a [-ATR] feature on the vowels forms its plural by changing the value of the [ATR] feature to [+ATR] for all its vowels.
+
+Similarly, vowel length is important for certain grammatical distinctions. For example, perfect aspect in the past is signaled through lengthening of the vowel of the subject agreement prefix. Therefore, the only difference between simple and perfect aspect in the past is that the subject agreement prefix is short in the former, but long in the latter.
+
+===Consonants===
+The following table shows the consonant phonemes of the language:
+
+{|class=wikitable style=text-align:center
+!
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} || {{IPAlink|n}} || {{IPAlink|ɲ}} || {{IPAlink|ŋ}}
+|-
+! [[Stop consonant|Stop]]
+| {{IPAlink|p}} || {{IPAlink|t}} || {{IPAlink|tʃ}} || {{IPAlink|k}}
+|-
+! [[Sibilant consonant|Sibilant]]
+| || {{IPAlink|s}} || ||
+|-
+! [[Rhotic consonant|Rhotic]]
+| || {{IPAlink|r}} || ||
+|-
+! [[Lateral consonant|Lateral]]
+| || {{IPAlink|l}} || ||
+|-
+! [[Glide consonant|Glide]]
+| {{IPAlink|w}} || || {{IPAlink|j}} ||
+|}
+
+[[Voice (phonetics)|Voicing]] is not phonemic for consonants, but the velar and bilabial stops [k] and [p] are voiced intervocalically, and in fast speech there is sometimes [[lenition]] of these consonants. The alveolar stop [t], though, has no voiced allophone.
+
+All nasals apart from [m] [[Assimilation (linguistics)|assimilate]] for [[place of articulation|place]] to the following consonant.
+
+===Tone===
+Kalenjin is a [[Tone (linguistics)|tonal language]]. Tone is used both for lexical distinctions and to signal grammatical functions. For example, [[nominative case]] is marked with a special tonal pattern on the noun, while certain singular-plural distinctions in nouns and adjectives are signaled exclusively through tone.
+
+==Morphology==
+
+===Nouns===
+Nouns inflect for case (nominative vs. non-nominative) and number (singular-plural). Case is tonal and is very regular, while number formation is quite irregular, with plural being signaled in a variety of different ways, including various plural suffixes, changes in the [ATR] specification of the vowels of the stem, or changes in the tonal pattern of the stem.
+
+Moreover, each noun in the language has two different forms, called “primary” and “secondary” forms in the literature. For example, the primary form of the word for ‘bird’ in Kipsigis is ''tàríit'', while its secondary form is ''tàrìityét''. Nouns have primary and secondary forms in both the singular and plural number. The semantic difference between these two forms is currently not well understood. Hollis (1909) characterized the primary and secondary forms as indefinite and definite forms of the noun respectively, but this is not the correct treatment of these forms according to Toweett (1979) and Creider (1989). The former author refers to the primary form as an ‘inclusive’ form, and to the secondary one as an ‘exclusive’ form, while the latter author simply explains that it is not clear what the correct characterization of these forms is. The language has no overt articles and it seems like these two forms are related to definiteness and/or specificity in some way.
+
+Derivational and inflectional affixes associated with nouns are always suffixes, with the exception of the prefixes kip – and ''che:p -'', which denote male and female gender respectively. Gender is not expressed in all nouns, and does not participate in agreement.
+
+===Verbs===
+The verbal morphology of Kalenjin is extremely rich. Moreover, nouns and adjectives follow the verbal inflection paradigm when they are predicates.
+
+Kalenjin verbs show a distinction between past and non-past tense, with three degrees of past being distinguished (based on distance from the present). Moreover, there is a difference between perfective and imperfective aspect, and within each one of these aspects there is a further distinction between simple and perfect aspect. In the non-past only, the perfect aspect also shows a distinction for simultaneous versus non-simultaneous actions.
+
+The verb agrees with both the subject and the object in person and number. The order of morphemes is that of tense – subject agreement – (aspect) – stem – (aspect), with a lot of aspectual work being done by changes in the tonal pattern and/or vowels of the subject agreement prefix and/or the verbal stem.
+
+Finally, there is a series of suffixes that can be attached to the verb to change its argument structure or add extra meaning. Toweett (1979:129) gives for Kipsigis the following list of verbal suffixes and other phonological changes that target verbal meaning:
+
+*'''–tʃi''': [[Applicative voice|applicative]] morpheme (it introduces and applied argument, such as a recipient or a [[Benefactive case|beneficiary]])
+*'''tonal and/or vowel change of the stem''': the action is towards the speaker
+*'''–aan''': action and movement towards the speaker
+*'''–ta''': action is ‘off’ the speaker
+*'''–ak''': used for dispositional middles (and possibly other middles and/or some [[Anticausative verb|anticausatives]])
+*'''–{{transl|kln|chiin}}''': there are two events of what the verb denotes which take place simultaneously
+*'''[[Reduplication]] of the stem (with a vowel intervening between the two occurrences of the stem'''): the action is repeated several times 
+*'''–iis/-sa''': [[Antipassive voice|antipassive]]
+*'''-een''': [[Instrumental case|instrumental]] (it introduces an instrument)
+*'''-ya''': there are two or more agents involved in the event denoted by the verb
+*'''-kee''': [[Reflexive verb|reflexive]] or reciprocal 
+*'''{{transl|kln|-taaita}}''': [[Comitative case|comitative]]
+
+The above suffixes show different behavior with respect to ATR harmony (some take the ATR value of the vowels of the stem, while others change the ATR value of the vowels of the stem). The above suffixes can co-occur on the same verb, yielding complex meanings.
+
+==Syntax==
+
+===Word Order===
+The predominant word order in the language is [[Verb subject object|Verb – Subject – Object]] (VSO), a common word order in [[Nilotic languages|Nilotic]]. An example of a simple VSO sentence in Nandi can be seen in (1).
+
+{{interlinear|number=(1)
+|kêerey Kípe:t '''làakwéet'''
+|see.3SG Kibet.NOM child
+|‘Kibet sees the child.’ (Nandi, Creider 1989: 124)}}
+
+The order in sentences with nominal or adjectival predicates is Predicate – Subject, as can be seen in (2) and (3).
+
+{{interlinear|number=(2)
+|aa-náantíiintèt '''áne:'''.
+|1SG-Nandi PN.1SG.NOM
+|‘I am Nandi.’ (Nandi, Creider 1989: 121)}}
+
+{{interlinear|number=(3)
+|páypây '''ínee'''
+|happy PN.3SG.NOM
+|‘He is happy.’ (Nandi, Creider 1989: 123)}}
+
+For locative predicates, a special locative copula is used, in which case the order is Verb-Subject-Locative predicate.
+
+{{interlinear|number=(4)
+|mìitey Kíiproono '''kitâali'''
+|is-at.3SG Kiprono.NOM Kitale
+|‘Kiprono is in Kitale.' (Nandi, Creider 1989:123)}}
+
+In the presence of an indirect object, the order is Verb – Subject – Indirect Object – Direct Object.
+
+{{interlinear|number=(5)
+|kíi-sôoman-tʃi Kípe:t '''làakwéet''' púukúut
+|PAST-read-applicative Kibet.NOM child book
+|‘Kibet read the book to the child.’ (Nandi, Creider 1989: 126)}}
+
+VP adverbs, such as ''always'', are usually placed after the direct object in Kalenjin.
+
+Finally, Kalenjin is unusual among [[Verb-initial word order|verb-initial languages]], in expressing [[possession (linguistics)|possession]] with a transitive verb HAVE. Other verb-initial languages of the [[Nilotic languages|Nilotic language family]], such as [[Maasai language|Maasai]], also express possession with the use of a transitive verb HAVE.
+
+===Case===
+Kalenjin is a marked nominative language: [[nominative case]] is the only case that is marked in the language, while all other cases (accusative, genitive, dative etc.) are left unmarked. Nominative case is marked through tone only.
+
+===Negation===
+Negation is expressed with the prefix ma-/maa-, which attaches to the verb. It precedes the subject agreement prefix, but it follows the tense prefixes.
+
+===Topicalization===
+There are two strategies for [[topicalization]] in the language, according to Creider (1989). In the unmarked case, a topicalized subject appears at the end of the sentence, retaining its nominative case marking. In the marked case, the topicalized element appears at the beginning of the sentence and is followed by the topic marker kò. In this case, if the topicalized element is a subject, it loses its nominative case.
+
+{{interlinear|number=(6)
+|'''chepyóséet''' kó rúey
+|woman TOP sleep.3SG
+|‘The woman is sleeping.’  (Nandi, Creider 1989: 125)}}
+
+===Interrogative sentences===
+[[Yes-no question]]s are formed by attaching the question particle ''–í'' to the last word of a sentence.
+
+There are three ways of forming wh-questions in Kalenjin. In the first one, the wh-word remains ''in situ'' (and retains any case marking it has). In the second one, the wh-word appears in topic position (it is followed by the topic marker kó and it loses its nominative case marking if it is a subject). The third strategy is only possible with predicative sentences, in which case the predicate appears in topic position, with the wh-word remaining ''in situ''. The three strategies for a predicative sentence are illustrated in (7-9) below for Nandi (Creider 1989: 143).
+
+{{interlinear|number=(7)
+|'''teetà''' inkorò?
+|cow.NOM which.NOM
+|‘Which cow?’}}
+
+{{interlinear|number=(8)
+|'''teetá''' kó ínkoró?
+|cow TOP which
+|‘Which one is the cow?’}}
+
+{{interlinear|number=(9)
+|inkoró kó '''teetà'''?
+|which TOP cow.NOM
+|‘Which one is a cow?’}}
+
+==The Lord's Prayer in Kalenjin==
+{{transl|kln|italic=no|Kwandanyo ne mi kipsengwet,<br>
+Ingotililit kaineng'ung.<br/>
+Ingonyo bounateng'ung.<br>
+Ingoyaak eng' ng'ony mageng'ung',<br>
+Ko u ye kiyaei eng' kipsengwet.<br>
+Konech rani amitwogikyok che bo ra.<br>
+Ak inyoiywech kaat lelutikyok,<br>
+ko u ye kinyochini kaat che lelwech.<br>
+Amemutech ole mi yomset,<br>
+ago soruech eng' ne ya.<br>
+Amu neng'ung' bounatet, ak kamuktaet, ak torornatet, agoi koigeny.<br>
+Amen.}}
+
+==References==
+{{reflist}}
+* Creider, Chet A., and Jane Tapsubei Creider. 1989. ''A grammar of Nandi''. 
+* Hollis, Alfred Claud. 1909. ''Nandi: Their Language and FolkLore''. Negro Universities Press.
+* Jerono, Prisca. 2012. ''Tugen word order. A Minimalist Program''. Unpublished PhD. Dissertation: University of Nairobi.
+* Rottland, Franz. 1982. ''Die Südnilotischen Sprachen: Beschreibung, Vergelichung und Rekonstruktion'' (Kölner Beiträge zur Afrikanistik vol. 7). Berlin: Dietrich Reimer.
+* Toweett, Taaitta. 1979. ''A study of Kalenjin linguistics''. Kenya Literature Bureau.
+
+==External links==
+* [http://dictionaryq.com/kalenjin/ Kalenjin–English Dictionary]
+* [https://kln.kasahorow.org/subscribe Kalenjin Word of the Day]
+* [https://web.archive.org/web/20070519163723/http://kalenjin.net/ A Kalenjin website]
+* [http://www.bisharat.net/wikidoc/index.php/PanAfrLoc/Kalenjin PanAfrican L10n page on Kalenjin]
+
+{{Eastern Sudanic languages}}
+{{Authority control}}
+{{DEFAULTSORT:Nandi-Markweta languages}}
+
+[[Category:Languages of Kenya]]
+[[Category:Kalenjin languages]]
+[[Category:Verb–subject–object languages]]

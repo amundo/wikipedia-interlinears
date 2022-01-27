@@ -1,0 +1,664 @@
+{{Short description|Qiangic language spoken in Tibet and China}}
+{{MOS|date=August 2021}}
+{{cleanup lang|date=June 2021}}<!-- e.g. ᴾ-->
+{{Infobox language
+|name=Northern Qiang
+|nativename=''Rrmearr''
+|image=[[File:Qiang Rma.png|frameless|Rma Script from Qiang Language]]
+|imagecaption=Rma Script used in Qiang Language
+|pronunciation={{IPA|[ʐmeʐ]}}
+|states=[[China]]
+|region=[[Sichuan Province]]
+|ethnicity=[[Qiang people]]
+|speakers={{sigfig|57800|2}}
+|date=1999
+|ref=e18
+|familycolor=Sino-Tibetan
+|fam2=[[Qiangic languages|Qiangic]]
+|fam3=[[Qiang language|Qiang]]
+|script=[[Latin script|Latin]], [[Rma script|Rma]]
+|iso3=cng
+|glotto=nort2722
+|glottoname=Northern Qiang
+|glotto2=sout3257
+|glottoname2=Southeast Maoxian Qiang
+|notice=IPA
+}}
+
+'''Northern Qiang''' is a [[Sino-Tibetan languages|Sino-Tibetan language]] of the [[Qiangic languages|Qiangic branch]], more specifically falling under the [[Tibeto-Burman languages|Tibeto-Burman]] family. It is spoken by approximately 60,000 people in East [[Tibet]], and in north-central [[Sichuan Province]], [[China]].
+
+Unlike its close relative [[Southern Qiang language|Southern Qiang]], Northern Qiang is not a [[tonal language]].
+
+== Northern Qiang dialects ==
+
+Northern Qiang is composed of several different dialects, many of which are easily mutually intelligible. [[Sun Hongkai]] in his book on Qiang in 1981 divides Northern Qiang into the following dialects: Luhua, Mawo, Zhimulin, Weigu, and Yadu. These dialects are located in [[Heishui County]] as well as the northern part of [[Mao County]]. The Luhua, Mawo, Zhimulin, and Weigu varieties of Northern Qiang are spoken by the Heishui Tibetans. The Mawo dialect is considered to be the prestige dialect by the Heishui Tibetans.
+
+Names seen in the older literature for Northern Qiang dialects include ''Dzorgai (Sifan), Kortsè (Sifan), Krehchuh,'' and ''Thóchú/Thotcu/Thotśu.'' The last is a place name.<ref>{{Cite journal |last=Sun |first=Jackson T.-S. |date=1992 |title=Review of Zangmianyu Yuyin He Cihui "Tibeto-Burman Phonology and Lexicon" |url=http://sealang.net/sala/archives/pdf8/sun1992review.pdf |journal=Linguistics of the Tibeto-Burman Area |language=en |volume=15 |issue=2 |pages=76–77}}</ref>
+
+Sims (2016)<ref>{{Cite journal |last=Sims |first=Nathaniel |date=2016 |title=Towards a More Comprehensive Understanding of Qiang Dialectology |url=http://www.ling.sinica.edu.tw/Files/LL/Docments/Journals/17.3/LLN17.3-Sims.pdf |journal=Language and Linguistics |language=en |volume=17 |issue=3 |pages=351–381 |doi=10.1177/1606822X15586685}}</ref> characterizes Northern (Upstream) Qiang as the *nu- innovation group. Individual dialects are highlighted in ''italics''.
+
+;Northern Qiang
+*NW [[Heishui County|Heishui]]: ''Luhua'' 芦花镇
+*Central [[Heishui County|Heishui]]
+**''Qinglang'' 晴朗乡
+**''Zhawo'' 扎窝乡
+**''Ciba'' 慈坝乡
+**''Shuangliusuo'' 双溜索乡
+**[[uvular]] V's innovation group: ''Zhimulin'' 知木林乡, ''Hongyan'' 红岩乡, ''Mawo'' 麻窝乡
+*SE [[Heishui County|Heishui]]: ''Luoduo'' 洛多乡, ''Longba'' 龙坝乡, ''Musu'' 木苏乡, ''Shidiaolou'' 石碉楼乡
+*North [[Mao County|Maoxian]]: ''Taiping'' 太平乡, ''Songpinggou'' 松坪沟乡
+*South [[Songpan County|Songpan]]: ''Xiaoxing'' 小姓乡, ''Zhenjiangguan'' 镇江关乡, ''Zhenping'' 镇坪乡
+*West [[Mao County|Maoxian]] / South [[Heishui County|Heishui]]: ''Weigu'' 维古乡, ''Waboliangzi'' 瓦钵乡梁子, ''Se'ergu'' 色尔古镇, ''Ekou'', ''Weicheng'' 维城乡, ''Ronghong'', ''Chibusu'', ''Qugu'' 曲谷乡, ''Wadi'' 洼底乡, ''Baixi'' 白溪乡, ''Huilong'' 回龙乡, ''Sanlong'' 三龙乡
+*Central [[Mao County|Maoxian]]: ''Heihu'' 黑虎乡
+*SE [[Mao County|Maoxian]] (reflexive marker innovation): ''Goukou'' 沟口乡, ''Yonghe'' 永和乡
+
+== Phonology ==
+The phonemic inventory of the Northern Qiang of Ronghong village consists of 37 consonants, and eight basic vowel qualities.<ref name=":04">{{harvp|LaPolla|2003}}</ref>{{Rp|22, 25}} The syllable structure of Northern Qiang allows up to six sounds.<ref name=":04" />{{Rp|30}}
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center"
+|+Northern Qiang Consonants<ref name=":04" />{{Rp|22}}
+! colspan="2" |
+!Labial
+!Dental
+!Retroflex
+!Palatal
+!Velar
+!Uvular
+!Glottal
+|-
+! rowspan="3" |Plosive
+!<small>voiceless</small>
+|p
+|t
+|
+|
+|k
+|q
+|
+|-
+!<small>aspirated</small>
+|pʰ
+|tʰ
+|
+|
+|kʰ
+|qʰ
+|
+|-
+!<small>voiced</small>
+|b
+|d
+|
+|
+|g
+|
+|
+|-
+! rowspan="3" |Affricate
+!<small>voiceless</small>
+|
+|ts
+|tʂ
+|tɕ
+|
+|
+|
+|-
+!<small>aspirated</small>
+|
+|tsʰ
+|tʂʰ
+|tɕʰ
+|
+|
+|
+|-
+!<small>voiced</small>
+|
+|dz
+|dʐ
+|dʑ
+|
+|
+|
+|-
+! rowspan="2" |Fricative
+!<small>voiceless</small>
+|ɸ
+|s
+|ʂ
+|ɕ
+|x
+|χ
+|h
+|-
+!<small>voiced</small>
+|
+|z
+|ʐ
+|
+|
+|ʁ
+|ɦ
+|-
+! colspan="2" |Nasal
+|m
+|n
+|
+|ɲ
+|ŋ
+|
+|
+|-
+! rowspan="2" |Lateral
+!<small>voiceless</small>
+|
+|ɬ
+|
+|
+|
+|
+|
+|-
+!<small>voiced</small>
+|
+|l
+|
+|
+|
+|
+|
+|-
+! colspan="2" |Approximant
+|[w]
+|
+|
+|[j]
+|
+|
+|
+|}
+
+* A glottal stop [ʔ] may be heard in word-initial position when preceding vowels.
+* /ɸ/ can also be heard as a labio-dental [f].
+* /ʐ/ can also be heard as an alveolar [ɹ].
+* /ɕ x/ can have voiced allophones of [ʑ ɣ].
+* Approximants [w j] are not distinct from /i u/ but are transcribed in intervocalic position, and initially /i u/, to clarify syllable division.
+
+=== Vowels ===
+Northern Qiang distinguishes between unstressed and [[Vowel length|long vowels]] (signified by two small dots, "ː") for all of its vowels except for /ə/ . In addition, there exist 15 diphthongs and one triphthong in the language of Northern Qiang.<ref name=":04" />{{Rp|25–26}}
+{| class="wikitable"
+|+Northern Qiang Vowel Inventory<ref name=":04" />{{Rp|25}}
+!
+!Front
+!Mid
+!Back
+|-
+!High
+|i, iː y, yː
+|
+|u, uː
+|-
+!Mid
+|e, eː
+|ə
+|o, oː
+|-
+!Low
+|a, aː
+|
+|ɑ, ɑː
+|}
+There may not be a significant phonetic difference in sound between /i/ and /e/, and /u/ and /o/, respectively. In fact, they are often used in place of one another without changing the meaning.
+
+==== [[Diphthong]]s and [[triphthong]]s ====
+Diphthongs: ia, iɑ, ie, ye, eu, əu, ei, əi, oi, uɑ, ua, uə, ue, ui, ya
+
+Triphthong: uəi<ref name=":04" />{{Rp|26}}
+
+==== [[R-colored vowel|R-coloring]] ====
+As the Northern Qiang language becomes more endangered, the use of r-coloring is not being passed down to younger generations of the Northern Qiang people. As a result, there is great variation in its use. R-coloring is not considered its own phoneme because it is a vowel feature and only used to produce [[vowel harmony]] (see below), most commonly signifying a first person plural marking.<ref name=":04" />{{Rp|28}}
+
+* Example: ''mi'''ʴ'''wu'' [person (<mi):all] 'all the people'<ref name=":04" />{{Rp|28}}
+
+=== Syllable structure ===
+The following is the Northern Qiang Syllable Canon.{{Technical inline|date=December 2021}} All are optional apart from the central vowel (underlined):<ref name=":04" />{{Rp|30}}
+:[[fricative|F]]C[[glide (linguistics)|G]]<u>V</u>GC[[affricate|ᴾF]].
+(The final 'fricative' may be a fricative F, an affricate ᴾF, or /l/.)
+
+All consonants occur as initials, though /ŋ/ only before /u/, and /ɦ/ only in a directional prefix and in a filler interjection. Almost all apart from the aspirated consonants occur as finals. These do not preserve [[Proto-Tibeto-Burman]] finals, which have all been lost, but are the result of the reduction of unstressed syllables (e.g. [səf] 'tree' from /sə/ 'wood' + /pʰə/ 'forest'). 
+
+Initial FC clusters may be:
+:/ʂ/ + /p t tɕ k q b d dʑ ɡ m/, 
+:/x/ + /tɕ tʂ k s ʂ ɬ l dʑ dʐ z ʐ/,
+:/χ/ + /tʂ q s ʂ ɬ l d dʑ dʐ z ʐ n/
+
+They fricative is voiced to [ʐ ɣ ʁ] before a voiced consonant. In addition, /ʂ/ > [s z] before /t d/ and > [ɕ ʑ] before /pi pe bi tɕ dʑ/. 
+
+In final CᴾF clusters, the C is a fricative. Clusters include /ɕtɕ xʂ xtʂ xɬ ɣz ɣl χs/.
+
+{| class="wikitable"
+|+Examples of syllables permitted in Northern Qiang<ref name=":04" />{{Rp|30}}
+!Template
+!Qiang Word
+!Translation
+|-
+|V
+|ɑ
+|'one'
+|-
+|VG
+|ɑu
+|'one pile'
+|-
+|GV
+|wə
+|'bird'
+|-
+|VC
+|ɑs
+|'one day'
+|-
+|VCF
+|əχʂ
+|'tight'
+|-
+|CV
+|pə
+|'buy'
+|-
+|CGV
+|kʰuə
+|'dog'
+|-
+|CGVG
+|kuɑi-tʰɑ
+|'strange'
+|-
+|CVC
+|pɑq
+|'intererst'
+|-
+|CVCF
+|bəxʂ
+|'honey'
+|-
+|CGVC
+|duɑp
+|'thigh'
+|-
+|FCV
+|xtʂe
+|'louse'
+|-
+|FCGV
+|ʂkue
+|'roast'
+|-
+|FCGVG
+|ʂkuəi
+|'mt. goat'
+|-
+|FCVC
+|ʂpəl
+|'kidney'
+|-
+|FCVCF
+|ʂpəχs
+|'Chibusu'
+|-
+|FCGVC
+|ʂquɑp
+|'quiet'
+|-
+|FCGVCF
+|ɕpiexɬ
+|'scar'
+|}
+
+=== Phonological processes ===
+
+==== Initial weakening ====
+When a compound or a directional prefix is added before an aspirated initial, the latter becomes the final of the preceding syllable in the new word. This typically causes it to lose its aspiration.<ref name=":04" />{{Rp|31–32}}
+
+* Example: ''tə-'' DIR + '''''b'''a'' 'big' > ''tə'''w'''a'' 'become big'<ref name=":04" />{{Rp|32}}
+
+==== [[Vowel harmony]] ====
+Vowel harmony exists in the Mawo (麻窝) dialect. Typically, vowel harmony is used to match a preceding syllable's vowel with the succeeding vowel or its height. In some cases, however, the vowel of a succeeding syllable will harmonize in the opposite way, matching with the preceding vowel. This process occurs across syllables in compounds or in prefix + root combinations. Vowel harmony can also occur for r-coloring on the first syllable if the second syllable of a compound or prefix + root combination already has r-coloring.<ref name=":04" />{{Rp|35–36}}
+
+* Example: ''w'''ə''''' 'bird' + ''ʂp'''u''''' 'flock' > ''w'''u'''ʂpu'' '(wild) pigeon'<ref name=":04" />{{Rp|35}}
+* Example: Chinese ''zhàog'''ù''''' + Qiang ''p'''ə''''' 'to do' > ''tʂɑuk'''u'''-p'''u''''' 'take care of'<ref name=":04" />{{Rp|36}}
+* Example: ''m'''e''''' 'not' + ''w'''eʴ''''' 'reduce' > ''m'''eʴ'''-w'''eʴ''''' 'unceasingly'<ref name=":04" />{{Rp|35}}
+* Example: The realization of the word "one" (a) is influenced by the classifiers:<ref>{{Cite book |last=Sun |first=Hongkai 孙宏开 |title=Qiāngyǔ jiǎnzhì |date=1981 |publisher=Minzu chubanshe |language=zh |script-title=zh:羌语简志}}</ref>
+
+*{{IPA|e si}} (a day)
+*{{IPA|a qep}} (a can)
+*{{IPA|ɑ pɑu}} (a packet)
+*{{IPA|o ʁu}} (a barrel)
+*{{IPA|ɘ ʑu}} (a pile)
+*{{IPA|ø dy}} (a mouth)
+
+==== [[Epenthesis|Epenthetic vowel]] ====
+The vowel /ə/ can be embedded within a collection of consonants that are restricted by the syllable canon. The epenthetic vowel is used to combine sounds that would typically be impermissible.<ref name=":04" />{{Rp|36}}
+
+* Example: ''bəl-'''ə'''s-je'' [do-NOM (< ''-s'')-good to eat] 'advantageous'<ref name=":04" />{{Rp|36}}
+
+==== [[Free variation]] ====
+For some words, changing or adding consonants produces no phonological difference in meaning. The most common consonant interchange is between /ʂ/ and /χ/.<ref name=":04" />{{Rp|37}}
+
+* Example: '''''ʂ'''qu ~ '''χ'''qu'' 'mouth'<ref name=":04" />{{Rp|37}}
+* Example: '''''kɑp''' ~ kɑp'''ətʂ''' 'orphan'<ref name=":04" />{{Rp|37}}''
+
+== Orthography ==
+{| class="wikitable"
+|+Northern Qiang Orthography
+!Letter
+|a
+|ae
+|b
+|bb
+|c
+|ch
+|d
+|dd
+|dh
+|e
+|ea
+|f
+|g
+|gg
+|gv
+|h
+|hh
+|hv
+|i
+|iu
+|j
+|jj
+|k
+|kv
+|l
+|-
+!IPA
+|a
+|{{IPA|æ}}
+|{{IPA|p}}
+|b
+|{{IPA|t͡sʰ}}
+|{{IPA|ʈ͡ʂʰ}}
+|t
+|d
+|{{IPA|ɖ͡ʐ}}
+|{{IPA|ə}}
+|e
+|f
+|k
+|g
+|q
+|x
+|{{IPA|ɣ}}
+|h
+|i
+|y
+|{{IPA|t͡ɕ}}
+|{{IPA|d͡ʑ}}
+|{{IPA|kʰ}}
+|{{IPA|qʰ}}
+|l
+|}
+{| class="wikitable"
+|+
+!Letter
+|lh
+|m
+|n
+|ng
+|ny
+|o
+|p
+|ph
+|q
+|rr
+|s
+|sh
+|ss
+|t
+|u
+|v
+|vh
+|vv
+|w
+|x
+|xx
+|y
+|z
+|zh
+|zz
+|-
+!IPA
+|{{IPA|ɬ}}
+|m
+|n
+|{{IPA|ŋ}}
+|{{IPA|ȵ}}
+|o
+|{{IPA|pʰ}}
+|{{IPA|ɸ}}
+|{{IPA|t͡ɕʰ}}
+|{{IPA|ʐ}}
+|s
+|{{IPA|ʂ}}
+|z
+|{{IPA|tʰ}}
+|u
+|{{IPA|χ}}
+|{{IPA|ɦ}}
+|{{IPA|ʁ}}
+|{{IPA|w}}, {{IPA|u̥}}
+|{{IPA|ɕ}}
+|{{IPA|ʑ}}
+|{{IPA|j}}
+|{{IPA|t͡s}}
+|{{IPA|ʈ͡ʂ}}
+|{{IPA|d͡z}}
+|}
+[[Nasalization|Nasalized]] vowels are indicated with trailing ''nn'', [[R-colored vowel|rhotacized vowels]] are indicated with trailing ''r'', [[vowel length|long vowels]] are indicated by doubling the vowel letter.
+
+== Morphology ==
+Northern Qiang uses affixes in the form of prefixes and suffixes to describe or modify the meaning of nouns and verbs.<ref name=":04" />{{Rp|39, 43, 120}} Other morphological processes that are affixed include gender marking, marking of genitive case, compounding, and nominalization. Northern Qiang also uses non-affixational processes such as reduplication.<ref name=":04" />{{Rp|39}}
+
+=== Noun phrase ===
+In Northern Qiang, any combination of the following order is allowed as long as it follows this flow.{{Clarify|date=December 2021}} Some of the items found below, such as adjectives, may be used twice within the same noun phrase.<ref name=":04" />{{Rp|39}}
+
+==== Northern Qiang noun phrase structure ====
+GEN phrase + Rel. clause + '''Noun''' + ADJ + DEM/DEF + (NUM + CL)/PL<ref name=":04" />{{Rp|39}}
+
+==== Gender marking ====
+Gender marking only occurs in animals. Typically, /mi/ is the suffix for females, while /zdu/ is the suffix for males.<ref name=":04" />{{Rp|48}}
+
+* ''wə-'''mi''''' 'mare'<ref name=":04" />{{Rp|48}}
+* ''puɳu-'''zdu''''' 'male cat'<ref name=":04" />{{Rp|48}}
+
+==== Pronouns ====
+Northern Qiang pronouns can be represented from the 1st, 2nd, or 3rd person, and can refer to one, two, or more than two people.<ref name=":04" />{{Rp|50}}
+{| class="wikitable"
+|+Northern Qiang Personal Pronouns<ref name=":04" />{{Rp|50}}
+!
+!Singular
+!Dual
+!Plural
+|-
+!1
+|qɑ
+|tɕi-zzi
+|tɕi-le
+|-
+!2
+|ʔũ
+|ʔi-zzi
+|ʔi-le
+|-
+!3
+|theː / qupu
+|thi-zzi
+|them-le
+|}
+
+==== [[Genitive case]] ====
+The genitive marker /-tɕ(ə)/ is placed on the modifying noun; this modifying noun will precede the noun it modifies.<ref name=":04" />{{Rp|99–100}}
+
+{{Interlinear|indent=3
+|qɑ-tɕ ləɣz|1sg-GEN book|'my book'<ref name=":04" />{{Rp|100}}}}
+
+=== Verbal morphology ===
+The meaning of verbs can be changed using prefixes and suffixes, or by using reduplication.<ref name=":04" />{{Rp|120, 123}}
+{| class="wikitable"
+|+Verbal Prefixes<ref name=":04" />{{Rp|120}}
+!
+!Marking in Qiang
+!Purpose/Meaning
+|-
+|1
+|
+|intensifying adverb
+|-
+|2
+|"various"
+|direction/orientation, or 3rd person indirect directive
+|-
+|3
+|/mə-/, or /tɕə-/
+|simple negation, or prohibitive
+|-
+|4
+|/tɕi/
+|continuative aspect
+|}
+ 
+{| class="wikitable"
+|+Verbal Suffixes<ref name=":04" />{{Rp|120}}
+!
+!Marking in Qiang
+!Purpose/Meaning
+|-
+|5
+|/-ʐ/
+|causative
+|-
+|6
+|/-ɑː/
+|prospective aspect
+|-
+|7
+|/kə/ or /lə/
+|'(to) go', or '(to) come' (auxiliary directional verbs)
+|-
+|8
+|/-jə/
+|repetition
+|-
+|9
+|/-ji/
+|change of state
+|-
+|10
+|/-l-/
+|1st person indirect directive
+|-
+|11
+|/-k/
+|inferential evidential, mirative
+|-
+|12
+|/-u/
+|visual evidential
+|-
+|13
+|/-ʂɑ/, /-sɑn/, /-ʂə'''''ʴ'''''/, /-sɑi/, [-wu/ ~ -u]
+|non-actor person (1sg, 2sg, 1pl, 2pl, 3sg/pl)
+|-
+|14
+|/-ɑ/, /-n/, /-ə'''''ʴ'''''/, /-i/, /-tɕi/
+|actor person (1sg, 2sg, 1pl, 2pl, 3pl)
+|-
+|15
+|/-i/
+|hearsay evidential
+|}
+
+==== Reduplication ====
+Repetition of the same root verb signifies a reciprocal action upon one actors, or an ongoing action.<ref name=":04" />{{Rp|52, 123}}
+
+* Example: '''''mɑ''''' 'plaster (a wall)' > ''m'''ə'''mɑ'' 'be plastering'<ref name=":04" />{{Rp|123}}
+
+=== Other morphological processes ===
+
+==== [[Compound (linguistics)|Compounding]] ====
+In Northern Qiang, the modifying noun of the compound must precede the modified noun.<ref name=":04" />{{Rp|43}}
+
+{{Interlinear|indent=3
+|khuɑ-ʁl|dog-child|'puppy'<ref name=":04" />{{Rp|48, 49}}}}
+
+==== Nominalization ====
+Nouns are created from adjectives or verbs using clitics /-s/, /-m/, or /-tɕ/, the indefinite markers /le/ or /te/, or the definite marker /ke/.<ref name=":04" />{{Rp|59, 223}}
+
+{{Interlinear|indent=3
+|tɑwə-tɑ-m le-ze|hat-wear-NOM DEF-CL|'the person wearing a hat'<ref name=":04" />{{Rp|224}}}}
+
+== Syntax ==
+The Northern Qiang language has quite a predictable syntax without many variations. The typical basic word order is [[subject–object–verb]] (SOV).<ref name=":04" />{{Rp|221}} Northern Qiang borrows some [[Mandarin Chinese]] words and phrases.<ref name=":04" />{{Rp|222}}
+
+=== Clause structure ===
+
+==== Order ====
+(TEMP) (LOC) (ACTOR) (GOAL/RECIPIENT) (ADV) (UG) VC (PART)<ref name=":04" />{{Rp|221}}
+
+(TEMP = temporal phrase; UG = undergoer; VC = verb complex; PART = clause-final particle)
+
+A sentence in Northern Qiang may be as short as a verb complex, which may just be a predicate noun.<ref name=":04" />{{Rp|222}}
+
+As shown from the order stated above, Northern Qiang is a language with a SOV sentence structure.
+
+{{Interlinear|indent=3|italics=2|glossing3=yes
+|S O V
+|χumtʂi ʐətɕʰaq-e-ze ɦɑ-tʂ
+|Xumtʂi rabbit-one-CL {{gcl|DIR|directional}}-pierce(kill)
+|'Xumtʂi killed a rabbit.'<ref name=":04" />{{Rp|77}}}}
+
+==== Code mixing ====
+Many loan words or loan phrases from Mandarin are borrowed, but the word order of these phrases is rearranged to fit the grammatical structure of Northern Qiang.<ref name=":04" />{{Rp|222}}
+
+{{Interlinear|indent=3
+|pəs-ŋuəɳi ʐmətʂi-sətsim-leː tɕiutɕin ʂə mi-leː ŋuə-ŋuɑ?
+|today-TOP emperor-wife-DEF:CL (after.all be) person-DEF:CL COP-Q
+|'Today, is the emperor's wife a human?'<ref name=":04" />{{Rp|222}}}}
+
+In this sentence, the words "'''tɕiutɕin'''" and "'''ʂə'''" are borrowed from Mandarin.
+
+== Status ==
+As with many [[Qiangic languages]], Northern Qiang is becoming increasingly threatened.<ref>{{Cite web|url=https://www.ethnologue.com/language/qxs|title=Qiang, Southern|website=Ethnologue|language=en|access-date=2019-03-17}}</ref> Because the education system largely uses [[Standard Chinese]] as a medium of instruction for the Qiang people, and as a result of the universal access to schooling and television, most Qiang children are fluent or even monolingual in Chinese while an increasing percentage cannot speak Qiang.<ref>{{harvp|LaPolla|2003|page=5}}</ref> Much of the population marry people from other parts of China who only speak Mandarin.<ref name=":04" />{{Rp|12}}
+
+==See also==
+* [[Qiangic languages]]
+* [[Qiang people]]
+
+==References==
+{{reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{Cite book |last=Bradley |first=David |title=Papers in South East Asian Linguistics No. 14: Tibeto-Burman Languages of the Himalayas |date=1997 |publisher=Pacific Linguistics |isbn=0-85883-456-1 |editor-last=Bradley |editor-first=D. |location=Canberra |pages=1–72 |language=en |chapter=Tibeto-Burman Languages and Classification |chapter-url=http://sealang.net/sala/archives/pdf8/bradley1997tibeto-burman.pdf}}
+* {{Cite book |last=LaPolla |first=Randy |title=A Grammar of Qiang: With Annotated Texts and Glossary |date=2003 |publisher=Mouton de Gruyter |others=with Chenglong Huang |isbn=3-11-017829-X |location=Berlin |language=en}}
+* {{Cite journal |last=Evans |first=Jonathan P. |date=2006 |title=Vowel Quality in Hongyan Qiang |url=http://www.ling.sinica.edu.tw/files/publication/j2006_4_01_2599.pdf |journal=Language and Linguistics |language=en |volume=7 |issue=4 |pages=937–960}}
+{{refend}}
+
+{{Sino-Tibetan languages}}
+{{Na-Qiangic languages}}
+{{Languages of China}}
+
+{{DEFAULTSORT:Northern Qiang Language}}
+[[Category:Qiangic languages]]
+[[Category:Qiang people]]
+[[Category:Non-tonal languages in tonal families]]
+[[Category:Endangered Sino-Tibetan languages]]

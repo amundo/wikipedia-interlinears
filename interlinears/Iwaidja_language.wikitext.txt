@@ -1,0 +1,164 @@
+{{Short description|Iwaidjan language spoken in Australia}}
+{{Infobox language
+|name=Iwaidja
+|region=[[Croker Island]], [[Northern Territory]]
+|states=[[Australia]]
+|ethnicity=[[Iwaidja people]]
+|speakers=123
+|date        = 2016 census
+|ref         = <ref>{{Cite web|url=http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_C16_T09_SA|title=Census 2016, Language spoken at home by Sex (SA2+)|publisher=ABS|website=stat.data.abs.gov.au|language=en-au|access-date=2017-10-30}}</ref>
+|familycolor=Australian
+|fam1=[[Iwaidjan languages|Iwaidjan]]
+|fam2=[[Iwaidjic languages|Iwaidjic]]
+|fam3=[[Warrkbi languages|Warrkbi]]
+|iso3=ibd
+|glotto=iwai1244
+|glottorefname=Iwaidja
+|aiatsis=N39
+|notice=IPA
+|script=[[Latin|Latin script]]
+}}
+
+'''Iwaidja''', in [[phoneme|phonemic]] spelling ''Iwaja,'' is an [[Australian Aboriginal languages|Australian aboriginal language]] of the [[Iwaidja people]] with about 150 speakers in northernmost Australia. Historically from the base of the [[Cobourg Peninsula]], it is now spoken on [[Croker Island]]. It is still being learnt by children.
+
+==Phonology==
+
+===Consonants===
+Iwaidja has the following 20 consonants.
+
+{| class=wikitable style="text-align:center"
+!rowspan=2|
+!colspan=2| [[Peripheral consonant|Peripheral]]
+! [[Laminal consonant|Laminal]]
+!colspan=2| [[Apical consonant|Apical]]
+|-
+! [[bilabial consonant|Bilabial]]
+! [[velar consonant|Velar]]
+! [[Postalveolar consonant|Postalveolar]]
+! [[alveolar consonant|Alveolar]]
+! [[retroflex consonant|Retroflex]]
+|-
+![[Nasal consonant|Nasal]]
+|{{IPA link|m}}||{{IPA link|ŋ}}||{{IPA link|ɲ}}||{{IPA link|n}}||{{IPA link|ɳ}}
+|-
+![[Plosive consonant|Plosive]]
+|{{IPA link|p}}||{{IPA link|k}}||{{IPA link|c}}||{{IPA link|t}}||{{IPA link|ʈ}}
+|-
+![[Approximant consonant|Approximant]]
+|{{IPA link|w}}||{{IPA link|ɣ}}||{{IPA link|j}}|| ||{{IPA link|ɻ}}
+|-
+![[Flap consonant|Flap]]
+| || || || ||{{IPA link|ɽ}}
+|-
+![[Trill consonant|Trill]]
+| || || ||{{IPA link|r}}|| 
+|-
+![[Lateral consonant|Lateral]]
+| || ||({{IPA link|ʎ}})||{{IPA link|l}}||{{IPA link|ɭ}}
+|-
+![[Lateral flap]]
+| || ||({{IPA link|ʎ̆}})||{{IPA link|ɺ}}||{{IPA link|ɭ̆}}
+|}
+
+:Note: The postalveolar lateral and lateral flap are rare, and it cannot be ruled out that they are sequences of {{IPA|/lj/}} and {{IPA|/ɺj/}}. The plosives are [[allophone|allophonically]] voiced, and are often written {{IPA|b d ɖ ɟ ɡ}}.
+
+===Vowels===
+
+Iwaidja has three vowels, /a, i, u/.  The following table shows the allophones of the vowels as described by Pym and Larrimore.<ref name=Papers>Pym, Noreen, and Bonnie Larrimore. Papers on Iwaidja phonology and grammar. Series A Vol. 2., 1979.</ref>
+
+{| class="wikitable"
+! Vowel
+! Allophone
+! Environment
+|-
+| rowspan="3" | /[[Close_front_unrounded_vowel|i]]/
+| [iː]
+| Occurs before laminal consonants.
+|-
+| [e]
+| Occurs word initially.
+|-
+| [i]
+| All other cases.
+|-
+| rowspan="4" | /[[Open central unrounded vowel|a]]/
+| [ai]
+| Occurs before laminal consonants.
+|-
+| [æ]
+| Occurs following laminal consonants except utterance final.  Free variation with [a] in this environment.
+|-
+| [au]
+| Occurs before /w/.  Free variation with [a] in this environment.
+|-
+| [a]
+| All other cases.
+|-
+| rowspan="3" | /[[Close_back_rounded_vowel|u]]/
+| [ui]
+| Occurs before laminal consonants.
+|-
+| [o]
+| Occurs following velar consonant.  Free variation with [u] in this environment.
+|-
+| [u]
+| All other cases.
+|}
+
+==Morphophonemics==
+
+Iwaidja has extensive [[Morphophonology|morphophonemic]] alternation. For example, body parts occur with possessive prefixes, and these alter the first consonant in the root:
+
+{| class=wikitable
+|{{IPA|ŋa-ɺ̡uli}}||{{IPA|aŋ-kuli}}||{{IPA|ɹuli}}
+|-
+|''my foot''||''your foot''||''his/her foot''
+|}
+
+Both the words ''arm'' and ''to be sick'' originally started with an /m/, as shown in related languages such as [[Maung language|Maung]]. The pronominal prefix for ''it, its'' altered the first consonant of the root. In Iwaidja, this form extended to the masculine and feminine, so that gender distinctions were lost, and the prefix disappeared, leaving only the [[consonant mutation]]—a situation perhaps unique in Australia, but not unlike that of the [[Celtic languages]].
+
+{| class=wikitable
+! || arm || to be sick
+|-
+! they
+|{{lang|ibd|a-mawur}}<br/>"their arms"||{{lang|ibd|a-macu}}<br/>"they're sick"
+|-
+! he/she/it
+|{{lang|ibd|pawur}}<br/>"his/her arm"||{{lang|ibd|pacu}}<br/>"s/he's sick"
+|}
+
+==Semantics==
+The Iwaidja languages are nearly unique among the languages of the world in using verbs for [[Family#Kinship terminology|kin term]]s. Nouns are used for direct address, but transitive verbs in all other cases. In English something similar is done in special cases: ''he fathered a child; she mothers him too much.'' But these do not indicate social relationships in English. For example, ''he fathered a child'' says nothing about whether he is the man the child calls "father". An Iwaidja speaker, on the other hand, says ''I nephew her'' to mean "she is my aunt". Because these are verbs, they can be inflected for [[Grammatical tense|tense]]. In the case of in-laws, this is equivalent to ''my ex-wife'' or ''the bride-to-be'' in English. However, with blood relations, past can only mean that the person has died, and future only that they are yet to be born.
+
+{{interlinear|lang=ibd|indent=3
+|a -pana -maɽjarwu -n
+|I-to-him FUT {am father to} {{gcl|NOUN|noun}}
+|"my future son" ({{lit}} "I will be his father")}}
+
+{{interlinear|lang=ibd|indent=3
+|ɹi -maka -ntuŋ
+|he-to-her {is husband to} PAST
+|"his ex/late wife" ({{lit}} "he was husband to her")}}
+
+==Alternative names==
+* ''Yibadjdja'' ([[Kunwinjku language|Kunwinjku]] [[exonym]]).<ref>{{cite web |last1=Garde |first1=Murray |title=Yibadjdja |url=https://www.njamed.com/#Yibadjdja |website=Bininj Kunwok online dictionary |publisher=Bininj Kunwok Regional Language Centre |access-date=4 Jan 2022}}</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+* Nicholas Evans, 2000. "Iwaidjan, a very un-Australian language family." In ''Linguistic Typology'' 4, 91-142. Mouton de Gruyter.
+{{refend}}
+
+==External links==
+{{div col|colwidth=30em}}
+*[https://ausil.org.au/Dictionary/Iwaidja/ AuSIL's Iwaidja dictionary (available from Iwaidja to English and English to Iwaidja)]
+*[https://web.archive.org/web/20070914014759/http://www.mpi.nl/DOBES/projects/iwaidja/languages/view?searchterm=Iwaidja DOBES documentation of endangered languages, Iwaidja]
+*[http://www.language-archives.org/language/ibd OLAC resources in and about the Iwaidja language]
+*[http://www.paradisec.org.au/blog/2012/09/crowd-sourcing-and-language-documentation-september-lip/ Crowd-sourcing and Language documentation:  Ma! Iwaidja phrasebook and dictionary iPhone App]
+{{div col end}}
+
+{{Australian Aboriginal languages}}
+{{DEFAULTSORT:Iwaidja Language}}
+[[Category:Iwaidjan languages]]

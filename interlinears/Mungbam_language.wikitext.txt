@@ -1,0 +1,504 @@
+{{Infobox language
+| name = Mungbam
+| altname = Abar
+| nativename = 
+| pronunciation = {{ipa|[mùŋ·gbàm]|}}
+| states = Cameroon
+| region = Lower Fungom
+| speakers = {{sigfig|1,600|2}}
+| date = 2012
+| ref = <ref>Di Carlo & Good (2012)</ref>
+| familycolor = Niger-Congo
+| fam2 = [[Atlantic–Congo languages|Atlantic–Congo]]
+| fam3 = [[Benue–Congo languages|Benue–Congo]]
+| fam4 = [[Southern Bantoid languages|Southern Bantoid]]
+| fam5 = [[Western Beboid languages|Western Beboid]] (geographic)
+| fam6 = Mungbam&ndash;Missong
+| dia1 = Munken
+| dia2 = Biya
+| dia3 = Abar
+| dia4 = Ngun
+| iso3 = mij
+| notice = IPA
+| glotto = abar1238
+| glottorefname = Mungbam
+}}
+
+'''Mungbam''' is a [[Southern Bantoid]] language of the Lower Fungom region of [[Cameroon]]. It is traditionally classified as a [[Western Beboid languages|Western Beboid]] language, but the language family is disputed.<ref>http://www.sil.org/iso639-3/cr_files/2012-099.pdf {{Bare URL inline|date=January 2022}}</ref> Good et al. uses a more accurate name, the 'Yemne-Kimbi group,' but proposes the term '[[Beboid languages|Beboid]].'<ref>{{Cite journal|last=Good|first=Jeff|title=The languages of the Lower Fungom region of Cameroon|pages=2, 9}}</ref>
+
+The language is spoken in four villages, Abar, Munken, Ngun, and Biya (formerly known as <nowiki>'Za''</nowiki><ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=17}}</ref>). Speakers from each village consider their speech to be distinct, but the dialects are loosely classified as one language because they heavily overlap in grammar and vocabulary and are [[mutually intelligible]].<ref name=":04">Lovegren, Jesse. ''Mungbam Grammar''. 2013, University of Buffalo, Ph D dissertation.</ref> There is no name for the language as a whole. The village name '''Abar''' is sometimes used. The name "Mungbam" is a quasi-acronym of the village names plus Missong, which used to be considered a fifth dialect. Speakers from the four villages plus Missong regularly interact with each other in markets, at school, and during celebrations. The language is spoken by approximately 2,000 speakers across the villages, by some young people and all adults.<ref name=":12">{{Cite web|url=https://www.ethnologue.com/language/mij|title=Ethnologue}}</ref> Most Mungbam speakers now use [[Cameroonian Pidgin English|Cameroonian pidgin]] to communicate with speakers of other languages. This does not seem to be contributing to the decline of Mungbam.<ref>{{Cite journal|last=Good|first=Jeff|title=The languages of the Lower Fungom region of Cameroon|pages=12}}</ref> Mungbam is classified as a [[Endangered Language|threatened 6b language]].<ref name=":12" />
+
+== Phonology ==
+
+=== Consonants ===
+The [[consonant]] inventory is restricted based on the consonant's placement within the [[morpheme]] and the type of morpheme. For example, the consonant inventory for [[affix]]es is very different from the consonant inventory of word stems.<ref name=":04"/>
+{| class="wikitable"
+|+Consonants of Mungbam<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=37}}</ref>
+!
+![[Labial consonant|Labial]]
+![[Dental consonant|Dental]]
+![[Alveolo-palatal consonant|Alveolo-]]
+[[Alveolo-palatal consonant|Palatal]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Labial–velar consonant|Labial-]]
+[[Labial–velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+|'''[[Stop consonant|Plosives]]'''
+|(p)*   b
+|t     d
+|
+|
+|k   g
+|kp  gb
+|
+|-
+|'''[[Fricative consonant|Fricatives]]'''
+|f
+|s
+|ɕ
+|
+|x
+|
+|h
+|-
+|'''[[Affricate consonant|Affricates]]'''
+|
+|ts    dz
+|tɕ     dʒ
+|
+|
+|
+|
+|-
+|'''[[Nasal consonant|Nasals]]'''
+|m
+|n
+|
+|ɲ
+|ŋ
+|
+|
+|-
+|'''[[Liquid consonant|Liquids]]'''
+|
+|l
+|
+|
+|
+|
+|
+|-
+|'''[[Glide (linguistics)|Glides]]'''
+|
+|
+|
+|ɥ     j
+|
+|w
+|
+|}
+<nowiki>*</nowiki>(p) has only been found in Munken, Missong, and Abar, and only in the stem ''pi'', meaning 'die.'<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=36–37}}</ref> Good et al. suggest [''p''] originates from the [[Labial–velar consonant|labiovelar]] [[Stop consonant|stop]] [''kp''] because ''kpê'' is cognate with ''pi'' in Biya and Ngun.<ref>{{Cite journal|last=Good|first=Jeff|title=The languages of the Lower Fungom region of Cameroon|pages=19}}</ref>
+
+Consonants vary slightly between dialects.<ref name=":04"/>
+
+=== Vowels ===
+[[Vowel]] quality in Mungbam varies across [[dialect]]s. The vowel inventory is not restricted by the vowel's placement within the [[morpheme]].<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=66–68}}</ref>
+
+Lovegren provides a vowel inventory common across all dialects.<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=30}}</ref>
+{| class="wikitable"
+|+Vowels of Mungbam
+!
+!Front
+!Central
+!Back
+|-
+|High
+|i
+e
+|ɨ<br />
+|u
+o
+|-
+|Middle
+|ι*
+ε
+|ə
+|ʊ*
+ɔ
+|-
+|Low
+|
+|a
+|
+|}
+<nowiki>*</nowiki>[ι] is used to transcribe a vowel which is very similar to [e], only more flat and slightly lower. [ʊ] is similar in relationship to [o].<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=31}}</ref>
+
+Vowel inventories for each dialect are listed below.<ref>{{Cite journal|last=Good|first=Jeff|title=The languages of the Lower Fungom region of Cameroon}}</ref>
+{| class="wikitable"
+|+Abar
+!
+!Front
+!Central
+!Back
+|-
+|High
+|i
+e
+|
+|u
+o
+|-
+|Mid
+|ɪ
+ɛ
+|(ə)
+|ʊ<br />
+|-
+|Low
+|
+|a
+|
+|}
+{| class="wikitable"
+|+Ngun
+!
+!Front
+!Central
+!Back
+|-
+|High
+|i
+e
+|
+|u
+o
+|-
+|Mid
+|ɪ
+ɛ
+|(ə)
+|ʊ
+ɔ
+|-
+|Low
+|
+|a
+|
+|}
+{| class="wikitable"
+|+Munken
+!
+!Front
+!Central
+!Back
+|-
+|High
+|i
+|
+|u
+o
+|-
+|Mid
+|e
+ɛ
+|(ə)
+|ɔ
+|-
+|Low
+|
+|a
+|
+|}
+{| class="wikitable"
+|+Missong
+!
+!Front
+!Central
+!Back
+|-
+|High
+|i
+|
+|u
+o
+|-
+|Mid
+|e
+ɛ
+|ə
+|o͡a
+ɔ
+|-
+|Low
+|
+|a
+|
+|}
+{| class="wikitable"
+|+Biya
+!
+!Front
+!Central
+!Back
+|-
+|High
+|i
+e
+|
+|u
+o
+|-
+|Mid
+|ɪ
+e͡a 
+|ə
+|ɔ
+|-
+|Low
+|
+|a
+|
+|}
+
+=== Tone ===
+[[Tone (linguistics)|Tone]] forms an integral part of Mungbam [[phonology]] and [[Morphology (linguistics)|morphology]]. Tones distinguish nouns which are otherwise homophonous. With some exceptions, nouns are assigned tones and retain those tones regardless of [[syntax]] and [[inflection]].<ref name=":04"/> There are four levels of tone in Mungbam.<ref>{{Cite journal|last=Good|first=Jeff|title=The languages of the Lower Fungom region of Cameroon|pages=21}}</ref>
+{| class="wikitable"
+|+Examples of Tone<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=44}}</ref>
+!Mungbam
+!Translation
+|-
+|bá-bja᷅ŋ
+|"adjumbu people"
+|-
+|bà-bjâŋ
+|"children"
+|}
+
+=== Syllable Structure ===
+Attested [[syllable]] types vary between stem-initial and non-stem-initial syllables. Word stems in Mungbam can either be monosyllabic or disyllabic. Consonants comprising the only syllable in a monosyllabic stem or the first syllable in a disyllabic stem are referred to as 'stem-initial,' all other consonants are considered 'stem-final.'<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=23}}</ref>
+{| class="wikitable"
+|+Examples of Syllables<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=45}}</ref>
+!Mungbam
+!Translation
+!Stem-Initial
+!Stem-Final
+|-
+|m̀bɔ̀ŋ
+|"cow"
+|CCVC
+|
+|-
+|m̀be᷅lə
+|"ribs"
+|CCV
+|CV
+|}
+
+==== Stem-Initial ====
+Attested syllable shapes for stem-initial syllables include {{transl|mij|italic=no|(C)CV(C)}}, with certain restrictions on where some consonants (such as [[Glide (linguistics)|glides]] and [[Nasal consonant|nasals]]) can appear within those syllables. Very few words begin with vowels in Mungbam; these are primarily restricted to lexical nouns, some pronouns, and some grammatical particles.<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=23–24}}</ref>
+
+==== Stem-Final ====
+Non-stem initial syllables are exclusively CV in shape, almost entirely predictable in terms of tone, and have a very restricted set of possible consonants.<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=24}}</ref>
+
+== Morphology ==
+[[Affix]]ation, typically the most common morphological process, is very minimal in Mungbam. Affixation is restricted primarily to [[prefix]]es, with semi-rare [[circumfix]]es, and few [[suffix]]es. Every affix is either [[Morphological derivation|derivational]] or [[Agreement (linguistics)|concordant]]. Derivational affixation typically either [[Nominalization|nominalizes]] or adjectivalizes verbs. The most common concordant affixation is that of [[Noun class|noun-class]] prefixes to word stems.<ref name=":04"/>
+
+=== Verbs ===
+Verbs most often appear as just the stem, with no affixation at all. Each verb belongs to one of the three verb classes, which are distinct with respect to tone.<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=186}}</ref> Most non-tonal verb inflection is done by [[Grammatical tense|tense]] markers, which denote the five temporal tenses, as well as a [[conditional tense]]. Tense markers are all words separate from the verb except the [[Perfect tense|perfect]] marker, which is [[Clitic#Classification#Enclitic|enclitic]].<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=197–199}}</ref> Mungbam morphological inflection mainly comprises [[Tone (linguistics)|tone shift]], [[reduplication]], nominalization through affixation, and some rare cases of [[Apophony|ablaut]].<ref name=":04" />
+
+==== Tone Shift ====
+Tonal inflection includes tone extension and [[tone sandhi]].<ref name=":04" />
+
+Tone extension denotes a change in verbal [[Mood (linguistics)|mood]]. The difference between [[Realis mood|realis]] and [[Irrealis mood|irrealis]] verbs corresponds, in part, to a difference between extended and unextended tones. Extension is a morphological process wherein the stem vowel of a noun is lengthened, changing the tone. Extension affects the relative height of each tone.<ref name=":04" />
+{| class="wikitable"
+|+Examples of Tone Extension<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=42}}</ref>
+!Realis
+!Irrealis
+!Gloss
+|-
+|wù
+|wu᷅
+|'grind'
+|-
+|wû
+|wú
+|'wash.IPFV'
+|-
+|wû
+|wú
+|'ascend'
+|}
+Consecutive verbs in the Missong dialect can experience tone sandhi.<ref name=":04" />
+{| class="wikitable"
+|+Example of Tone Sandhi<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=91}}</ref>
+|tse᷅
+|'go!'
+|-
+|wɔ᷅ŋ
+|'squeeze (honey)!'
+|-
+|tse᷅ wɔ̋ŋ
+|'go and squeeze (honey)!'
+|}
+
+==== Reduplication ====
+Reduplication can either be inflectional or stylistic. Inflectional reduplication in Mungbam establishes [[Focus (linguistics)|verum focus]].<ref name="Lovegren 354">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=354}}</ref>{{interlinear|Mə̄ lē dí jɛ̄ n̄-dʒ͡ú~dʒ͡ű|1sg p3 (c)say.IRR comp 1sg-ᴠғᴏᴄ∼(b)fear|'I said that I was afraid.'<ref name="Lovegren 354">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=354}}</ref>|lang=jig}}Stylistic reduplication is not very well attested, Lovegren found only two examples. It might create emphasis.<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=197}}</ref>
+
+==== Nominalization ====
+There are two processes which nominalize verbs: a productive, well-attested process to form [[infinitive]]s, and a less productive, virtually un-attested process to create the “disability construction.”<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=205–208}}</ref> Infinitives are formed by affixing a noun class prefix or, in rare cases, circumfix. Infinitives in Mungbam function as nouns do, but lack plurals. For more complicated verb phrases, the infinitive can be formed out of the entire phrase by attaching the noun-class prefix to the first verb in the phrase.<ref name=":04" />
+{| class="wikitable"
+|+Formation of Infinitives<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=206}}</ref>
+|gbē
+|'fall'
+|-
+|ì-gbē
+|'falling'
+|}
+There is an optional suffix that can be added for some infinitives in Biya.<ref name=":22">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=207}}</ref> For example, the Biya circumfix as applied to the verb ' ''tɕī'',' ('look'):
+{| class="wikitable"
+|+Biya Circumfix<ref name=":22" />
+|tɕī
+|[[Imperative mood|Imperative]]
+|-
+|ì-tɕī-lə
+|Infinitive
+|}
+The “disability” construction describes humans or animals who are ‘disabled.’<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=205}}</ref> Uniquely, it is the only construction where a noun may not have a noun-class prefix. It is a highly unproductive and uncommon construction.<ref name=":04" />{{interlinear|ŋ̀-kə̀m -kûsə|CL1.NMLZ-break leg|'amputee'<ref name="Lovegren 209">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=209}}</ref>|lang=jig}}Here, the verb 'break' has been nominalized as part of the noun phrase 'broken leg' which translates more closely into 'amputee.'<ref name="Lovegren 209">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=209}}</ref>
+
+==== Ablaut ====
+Verbs undergo ablaut to denote changes in [[Grammatical aspect|aspect]] ([[Perfective aspect|perfective]] and [[Imperfective aspect|imperfective]]). The productivity of ablaut varies across the dialects of Mungbam.<ref name=":32">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=190}}</ref>
+{| class="wikitable"
+|+Examples of Ablaut<ref name=":32" />
+!Perfective Stem
+!Imperfective Stem
+!Gloss
+|-
+|ti
+|to
+|'come'
+|-
+|le
+|lɔ
+|'make'
+|-
+|ki
+|kju
+|'spit'
+|}
+
+=== Nouns ===
+With some exceptions, each noun must have a noun-class prefix, but otherwise has little to no affixation.<ref name=":04" />
+
+==== Noun Class System ====
+The most common form of affixation is that of the noun-class prefix. Mungbam, like many [[Bantoid languages|Bantoid]] languages, indicates [[Agreement (linguistics)|agreement]] with a [[noun-class system]]. In such a system, each noun has a noun-class prefix, and other morphemes take on that prefix when they agree with that noun. Unlike [[Indo-European languages|Indo-European]] systems, noun-class can be linked to [[Grammatical number|number]], [[Grammatical gender|gender]], or abstraction (i.e., the plural form of a noun may belong to one class, while the singular form belongs to another class). Tone is related, but not entirely connected to, noun-class. The tone of the noun-class prefix will often, but not always, follow the tone of the stem.<ref name=":04" />
+{| class="wikitable"
+|+Examples of Noun-Class Prefixes<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=111}}</ref>
+!Noun
+!Gloss
+!Noun-Class
+!Noun
+|-
+|ú-kpe̋
+|'CL3.house'
+|3
+|House
+|-
+|à-kə̂fə
+|'CL7/CL12.bone'
+|7 or 12
+|Bone
+|-
+|ì-bé
+|'CL9.goat'
+|9
+|Goat
+|}
+There are some exceptions to the noun-class system, both within a dialect and among the five dialects. For example, the 7/8 noun-class pairing is found only in Missong, all nouns in those two classes are paired with other classes in the other dialects.<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=121}}</ref>
+
+===== Plurality =====
+Nouns in certain noun classes will have their plural forms in specific other noun classes. For example, nouns in Class 1 often have their plural forms in Class 2. Singular/plural noun-class pairings can be roughly grouped by type of noun (e.g., the class 1/2 singular/plural pairing contains mainly, but not exclusively, words referring to humans).<ref name=":42">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=118–119}}</ref>
+{| class="wikitable"
+|+Some Noun-Class 1/2 Nouns<ref name=":42" />
+!Singular
+!Translation
+!Plural
+!Translation
+|-
+| -ŋ̀kpa᷄nə
+|'clay dish'
+|bə̀-ŋkpa᷄nə
+|'clay dishes'
+|-
+| -nám
+|'husband'
+|bə́-nám
+|'husbands'
+|-
+| -m̀bɔ̀ŋ
+|'cow'
+|bə̀-m̀bɔ̀ŋ
+|'cows'
+|-
+|ù-ndi᷅nə
+|'woman'
+|bə̀-ndi᷅nə
+|'women'
+|-
+|ù-nɛ̀
+|'person'
+|bə̀-nɛ̀
+|'people'
+|}
+
+==== Concord ====
+[[Concord (grammar)|Concord]] refers to noun-class agreement within the noun-phrase. There are three means by which Mungbam achieves concord: prefixation, tonal stem change, segmental stem change. Tonal concord causes a shift in tone when nouns are a part of an associated noun phrase.<ref name=":04" /> Prefixal concord is achieved by attaching the noun-class prefix of the head noun to the constituent morpheme within the noun phrase.<ref name=":04" />{{interlinear|m̀bɔ̀ŋ ù-gbe᷅-lə|CL1.cow CL1-(A)fall-ADJ|'Fallen cow'<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=157}}</ref>|lang=jig}}
+
+==== Possessive Lengthening ====
+Possessive lengthening is a morphological process that occurs for nouns possessed, and found in most Mungbam dialects. It involves lengthening of the tone and, sometimes, the vowel, when the noun is next to a possessive pronoun or [[Grammatical particle|particle]].<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=83}}</ref>
+{| class="wikitable"
+|+Possessive Lengthening Example<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=84}}</ref>
+!Word
+!Gloss
+!Translation
+|-
+|ú-wō
+|'CL3-moon'
+|'moon'
+|-
+|ú-woo᷄ mə̋
+|'CL3-moon poss.1s'
+|'my moon'
+|}
+
+== Syntax ==
+The basic [[word order]] of Mungbam is [[Subject–verb–object|SVO]].<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=341}}</ref>{{interlinear|ù ɕòa fə̀ ŋàŋ ú-gbɛ̂|CL1 loosen off stay.IPFV CL3-rope|'He’s loosening the rope.'<ref>{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=291}}</ref>|lang=jig}}Mungbam must have a [[Subject (grammar)|subject]] directly preceding the verb. When the lexical subject follows the verb, a particle known as a 'dummy subject' is placed before the verb.<ref name="Lovegren 150">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=150}}</ref>{{interlinear|à kə̀fə tɕà te̋ nâ wù|DS shout pass come cl1.mother cl1.DET|'The woman shouted the most...'<ref name="Lovegren 150">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=150}}</ref>|lang=jig}}Here, 'à' is glossed as the 'dummy subject,' and functions as a placeholder with no other meaning.
+
+The ordering of constituents within the Mungbam noun phrase is as follows: Noun, associated noun phrase, possession and other [[Grammatical modifier|modifier]], adjective, number, [[demonstrative]], [[relative clause]], [[Determiner (grammar)|determiner]].<ref name="Lovegren 176">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=176}}</ref> While there are recorded exceptions for much of this ordering, associated noun phrases must come strictly after the head noun.{{interlinear|múm-bûs mɔ̋ mūŋ-gbábə-tɕí mūm-fín mūn-dɮɛ̂n mū|cl18a-cat 1sg.poss cl18a-strong-adj cl18a-two cl18a-dem.dist cl18a.det|'Those are my two strong cats.'<ref name="Lovegren 176">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=176}}</ref>|lang=jig}}
+
+=== Negation ===
+Sentences are typically [[Negation (grammar)|negated]] by the addition of a particle towards the end of the sentence. While this addition may change the word order in [[Transitive verb|transitive]] sentences, [[Intransitive verb|intransitive]] sentences always keep the SV word order.<ref name="Lovegren 420">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=420}}</ref>{{interlinear|mə̄ mâki á kə̀m fànə dà|1SG LOC.market NEG again sell D.NEG|'I don't sell in the market anymore.'<ref name="Lovegren 420">{{Cite journal|last=Lovegren|first=Jesse|title=Mungbam Grammar|pages=420}}</ref>|lang=jig}}
+
+==Further reading==
+* Blench, Roger, 2011. [http://www.rogerblench.info/Language/Niger-Congo/Bantoid/General/Blench%20Bantu%20IV%20Berlin%20Bantoid%202011.pdf 'The membership and internal structure of Bantoid and the border with Bantu']. ''Bantu IV'', Humboldt University, Berlin.
+*Good, Jeff, & Jesse Lovegren. 2009. [http://www.acsu.buffalo.edu/~jcgood/goodlovegren-Bantu3.pdf 'Reassessing Western Beboid']. Bantu III.
+*Good, Jeff, & Scott Farrar. 2008. [http://www.acsu.buffalo.edu/~jcgood/farrargood-WesternBeboidNCs.pdf 'Western Beboid and African language classification']. LSA.
+* {{cite book|url=https://www.acsu.buffalo.edu/~jcgood/Lovegren-2013-MungbamGrammar.pdf|title=Mungbam Grammar|last1=Stuart|first1=Jesse|last2=Lovegren|first2=James|year=2013}}
+
+== Bibliography ==
+*[https://www.ethnologue.com/ 'Ethnologue']. 22nd edition. Accessed May 14, 2019. 
+*Good, Jeff and Jesse Lovegren, Jean Patrick Mve, Carine Nganguep Tchiemouo, Rebecca Voll, Pierpaolo Di Carlo. 2011. [http://www.acsu.buffalo.edu/~jcgood/goodetal-LowerFungom-Grammar.pdf 'The Languages of the Lower Fungom region of Cameroon']. ''The Languages of the Lower Fungom  of Cameroon'', University of Buffalo.
+*Lovegren, Jesse, 2013. [https://www.acsu.buffalo.edu/~jcgood/Lovegren-2013-MungbamGrammar.pdf 'Mungbam Grammar']. ''Mungbam Grammar'', University of Buffalo, Ph D Dissertation.
+
+== References ==
+{{Reflist}}
+
+==External links==
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\bco\beb&limit=-1 Abar and Missong basic lexicon at the Global Lexicostatistical Database]
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0303 Ngun (a variety of Mungbam) language documentation materials]
+ 
+{{Beboid languages}}
+
+[[Category:Beboid languages]]
+[[Category:Languages of Cameroon]]

@@ -1,0 +1,148 @@
+{{short description|Language}}
+{{Infobox language
+|name=Ngkolmpu
+|altname=Ngkontar
+|region=[[New Guinea]]
+|ethnicity=[[Kanum people|Kanum]]
+|familycolor=Papuan
+|fam1=[[Trans-Fly – Bulaka River languages|Trans-Fly – Bulaka River]]?
+|fam2=[[Yam languages|Yam]]
+|fam3=[[Tonda languages|Tonda]]
+|dia1=Ngkâlmpw (Ngkontar)
+|dia2=Bädi
+|speakers=100 
+|date=2018
+|ref=<ref name="Evans-Southern"/>
+|ld1=Ngkâlmpw Kanum
+|lc1=kcd
+|ld2=Bädi Kanum
+|lc2=khd
+|glotto=ngka1236
+|glottorefname=Ngkantr
+}}
+
+'''Ngkolmpu Kanum''', or '''Ngkontar''', is part of a dialect chain in the Yam family spoken by the [[Kanum people]] of [[New Guinea]]. The Ngkâlmpw (Ngkontar) and [[moribund language|moribund]] Bädi varieties have limited [[mutual intelligibility]] may be considered distinct languages.<ref name="Evans-Southern">{{cite book |last=Evans |first=Nicholas |authorlink=Nicholas Evans (linguist) |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Southern New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=641–774 |isbn=978-3-11-028642-7}}</ref>
+
+== Dialects ==
+Languages spoken by the Kanum have variously been referred to as Ngkâlmpw Kanum, Enkelembu, Kenume, and Knwne.<ref>{{Glottolog|kanu1280}}</ref><ref name="Carroll 2016">{{Cite thesis |last=Carroll |first=Matthew J. |title=The Ngkolmpu Language with special reference to distributed exponence |date=2016 |degree=PhD |publisher=The Australian National University |url=https://openresearch-repository.anu.edu.au/handle/1885/116801 |doi=10.25911/5D74E0CFD5B85  |doi-access=free }}</ref> Carroll describes three varieties forming a dialect chain. Ngkolmpu is divided into Ngkontar and the moribund variety Baedi (Bädi).
+
+== Phonology ==
+
+=== Consonants ===
+Ngkolmpu Kanum has 15 consonant phonemes (plus two marginal phonemes) at three points of articulation: bilabial, coronal, and velar. Prenasalized voiceless stops and fricatives contrast with voiceless and nasal realizations, which is typologically unusual. The orthography is enclosed in angle brackets.
+
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |
+! Bilabial
+! Coronal
+! Velar
+|-
+! colspan="2" | Nasal
+| {{IPAlink|m}} {{grapheme|m}}
+| {{IPAlink|n}} {{grapheme|n}}
+|
+|-
+! rowspan="3" | Plosive
+! voiceless
+| {{IPAlink|p}} {{grapheme|p}}
+| {{IPAlink|t}} {{grapheme|t}}
+| {{IPAlink|k}} {{grapheme|k}}
+|-
+! prenasal
+| {{IPAlink|ᵐp}} {{grapheme|mp}}
+| {{IPAlink|ⁿt}} {{grapheme|nt}}
+| {{IPAlink|ᵑk}} {{grapheme|ngk}}
+|-
+! voiced
+| {{IPAlink|b}} {{grapheme|b}}
+|
+| ({{IPAlink|ɡ}}) {{grapheme|g}}
+|-
+! rowspan="2" | Fricative
+! plain
+|
+| {{IPAlink|s}} {{grapheme|s}}
+|
+|-
+! prenasal
+|
+| {{IPAlink|ⁿs}} {{grapheme|ns}},{{grapheme|nc}}
+|
+|-
+! colspan="2" | Trill
+|
+| {{IPAlink|r}} {{grapheme|r}}
+|
+|-
+! colspan="2" | Liquid
+|
+| {{IPAlink|l}} {{grapheme|l}}
+|
+|-
+! colspan="2" | Glide
+| {{IPAlink|w}} {{grapheme|w}}
+| {{IPAlink|j}} {{grapheme|y}}
+|
+|}
+
+== Grammar ==
+The Ngkolmpu (Ngkâlmpw) Kanum variety is notable for its complex verbal inflection and tendency to distribute grammatical features throughout an utterance, referred to as distributed exponence.<ref name="Carroll 2016" />
+
+=== Numerals ===
+Kanum has a [[numeral (linguistics)|numeral system]] to the [[senary|base six]], which is typologically rare among languages of the world.<ref>{{cite web |last1=Carroll |first1=Matthew |title=How to count to 1296 in Ngkolmpu – MORPH |url=https://morph.surrey.ac.uk/index.php/2018/06/20/how-to-count-to-1296-in-ngkolmpu/ |website=Morph |publisher=University of Surrey |date=20 June 2018}}</ref> The numerals are as follows:
+
+{| class="wikitable"
+! colspan="2" |Base Numbers
+! colspan="2" |Powers of 6
+! Decimal
+|-
+|1
+|naempr
+|6<sup>1</sup>
+|traowo
+|align=right|6
+|-
+|2
+|yempoka
+|6<sup>2</sup>
+|ptae
+|align=right|36
+|-
+|3
+|yuow
+|6<sup>3</sup>
+|tarumpao
+|align=right|216
+|-
+|4
+|eser
+|6<sup>4</sup>
+|ntamnao
+|align=right|1296
+|-
+|5
+|tampui
+|6<sup>5</sup>
+|ulamaeke
+|align=right|7776
+|}
+For example, the numeral 200 is:
+
+{{interlinear|indent=3|glossing=no abbr
+|swabra ptae ynaoaemy ntamnao
+|5 {6²s (36s)} {(and) 2 (and)} 3×6
+|}}
+
+== External links ==
+
+* ELAR collection: [https://elar.soas.ac.uk/Collection/MPI1032026 The Endangered Papuan Languages of Merauke-Indonesia: ethnobiological and linguistic documentation] deposited by I Wayan Arka
+
+==References==
+{{Reflist}}
+
+{{Yam languages}}
+{{Languages of Indonesia}}
+
+[[Category:Western Yam languages]]
+[[Category:Languages of western New Guinea]]

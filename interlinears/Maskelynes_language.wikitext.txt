@@ -1,0 +1,223 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Maskelynes
+|altname=Kuliviu, Uliveo
+|region=[[Malekula]]
+|state=[[Vanuatu]]
+|speakers=1,100
+|date=2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Central Vanuatu languages|Central Vanuatu]]
+|fam6=[[Malakula languages|Malakula]]
+|fam7=Eastern
+|iso3=klv
+|glotto=mask1242
+|glottorefname=Maskelynes
+}}
+
+'''Maskelynes''' ({{IPAc-en|ˈ|m|æ|s|k|ə|l|ɪ|n|s}}), or '''Kuliviu''' ('''Uliveo'''), is an [[Oceanic languages|Oceanic language]] spoken on the [[Maskelyne Islands]] off south [[Malekula]], [[Vanuatu]].
+
+==Phonology==
+
+===Consonants===
+{| class="wikitable" style=text-align:center
+! colspan="2" rowspan="2" |
+! colspan="2" |[[Labial consonant|Labial]]
+! rowspan="2" |[[Coronal consonant|Coronal]]
+! rowspan="2" |[[Dorsal consonant|Dorsal]]
+|-
+! plain
+! {{small|[[Labialization|labiovelarized]]}}
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+|{{IPAlink|m}}
+|{{IPAlink|mʷ}}
+|{{IPAlink|n}}
+|{{IPAlink|ŋ}}
+|-
+! rowspan="2" |[[Stop consonant|Plosive]]
+!{{small|[[Voicelessness|unvoiced]]}}
+|{{IPAlink|p}}
+|{{IPAlink|pʷ}}
+|{{IPAlink|t̪}}
+|{{IPAlink|k}}
+|-
+!{{small|voiced}}
+|[[Voiced bilabial stop|ᵐb]]
+|{{IPAlink|ᵐbʷ}}
+|[[Voiced dental and alveolar stops|ⁿd̪]]
+|[[Voiced velar stop|ᵑg]]
+|-
+! colspan="2" |[[Fricative consonant|Fricative]]
+|{{IPAlink|β}}
+|{{IPAlink|βʷ}}
+|{{IPAlink|s}}
+|{{IPAlink|x}}~{{IPAlink|ɣ}}~{{IPAlink|ʀ}}
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|
+|{{IPAlink|w}}
+|{{IPAlink|l}}
+|{{IPAlink|j}}
+|-
+! colspan="2" |[[Rhotic consonant|Rhotic]]
+|
+|
+|{{IPAlink|r}}~{{IPAlink|ɾ}}
+|
+|}
+* {{IPA|/ᵐb, ⁿd, ᵑg/}} are in [[free variation]] as [[Unreleased consonant|unreleased]] {{IPA|[ᵐb̚, ⁿd̚, ᵑg̚]}} or unvoiced {{IPA|[p, t, k]}} word-finally or before a consonant{{sfn|Healey|2013|pp=14-15}}
+** {{IPA|/ᵑg/}} is also in free variation as [[Nasal consonant|nasal]] {{IPA|[ŋ]}} word-finally, especially among young speakers{{sfn|Healey|2013|p=15}}
+* {{IPA|/ᵑg/}} is realized as a voiceless {{IPA|[k]}} among some speakers, especially young{{sfn|Healey|2013|p=15}}
+* {{IPA|/p, pʷ, t/}} are unreleased {{IPA|[p̚, p̚, t̚]}} word-finally or before a consonant (though {{IPA|/p/}} has never been recorded before a consonant){{sfn|Healey|2013|p=13}}
+* {{IPA|/mʷ, pʷ, ᵐbʷ, βʷ/}} lose their labialization word-finally when not followed by a vowel and before {{IPA|/o, u/}}{{sfn|Healey|2013|p=19}}
+** {{IPA|/ᵐbʷ/}} is in free variation as [[Trill consonant|trilled]] {{IPA|[ᵐʙ]}} (tapped {{IPA|[ᵐⱱ̟]}} in [[Uluveo#Population|Peskarus]]) before {{IPA|/u/}} and sometimes before {{IPA|/ə/}}{{sfn|Healey|2013|p=15}}
+* {{IPA|/βʷ/}} is {{IPA|[β]}} before voiced consonants{{sfn|Healey|2013|p=17}}
+* {{IPA|/β, βʷ/}} are [{{IPA-link|ɸ}}] before voiceless consonants and word-finally{{sfn|Healey|2013|p=17}}
+* {{IPA|/β/}} is in free variation with {{IPA|[ɸ]}} for some speakers{{sfn|Healey|2013|p=17}}
+* {{IPA|/w, j/}} are vocalic {{IPA|[u, i]}} when in [[Syllable nucleus|nucleus]] following {{IPA|/e, a, o/}}{{sfn|Healey|2013|pp=18-19}}
+
+===Vowels===
+{| class="wikitable" style=text-align:center
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPAlink|i}}
+|
+|{{IPAlink|u}} ({{IPAlink|u̥}})
+|-
+![[Mid vowel|Mid]]
+|{{IPAlink|ɛ}}
+|{{IPAlink|ə}}
+|{{IPAlink|o}}
+|-
+![[Open vowel|Open]]
+|
+| 
+|{{IPAlink|ɑ}}
+|}
+* {{IPA|/i/}} is [[Near-close vowel|near-close]] {{IPA|[ɪ]}} between front consonants{{sfn|Healey|2013|p=20}}
+* {{IPA|/ɛ/}} is [[Close-mid vowel|close-mid]] {{IPA|[e]}} word-finally{{sfn|Healey|2013|p=20}}
+* {{IPA|/ə/}} is {{IPA|[ɵ]}} after labiovelarized consonants or before {{IPA|/xu̥/}}{{sfn|Healey|2013|p=20}}
+* {{IPA|/əj, əw/}} are realised as single morphemes, {{IPA|[i, u]}}{{sfn|Healey|2013|pp=18-19}}
+* {{IPA|/u/}} is realised as front {{IPA|[y]}} between front consonants, and [[Near-close vowel|near-close]] {{IPA|[ʊ]}} when proceeded or preceded by back consonants{{sfn|Healey|2013|p=21}}
+* {{IPA|/o/}} is front {{IPA|[ø]}} between front consonants{{sfn|Healey|2013|p=21}}
+
+====Voiceless vowel====
+A voiceless {{IPA|[u̥]}} occurs at the ends of words. It is uncertain if it is an [[allophone]] of {{IPA|/u/}} or a separate phoneme{{sfn|Healey|2013|pp=24-25}}
+
+===Phonotactics===
+Possible syllable structures in Maskelynes: (C/S)V(S)(C){{sfn|Healey|2013|p=25}}
+
+===Letter-to-phoneme correspondence===
+{| class="wikitable"
+|+ Maskelynes alphabet
+!Letter
+|a
+|b
+|b̃
+|d
+|e
+|ǝ
+|g
+|h
+|i
+|k
+|l
+|m
+|m̃
+|n
+|ŋ
+|o
+|p
+|p̃
+|r
+|s
+|t
+|u
+|w
+|v
+|ṽ
+|w/u
+|y/i
+|-
+!IPA
+|{{IPAlink|ɑ}}
+|{{IPAlink|ᵐb}}
+|{{IPAlink|ᵐbʷ}}
+|{{IPAlink|ⁿd̪}}
+|{{IPAlink|ɛ}}
+|{{IPAlink|ə}}
+|{{IPAlink|ᵑg}}
+|{{IPAlink|x}}
+|{{IPAlink|i}}
+|{{IPAlink|k}}
+|{{IPAlink|l}}
+|{{IPAlink|m}}
+|{{IPAlink|mʷ}}
+|{{IPAlink|n}}
+|{{IPAlink|ŋ}}
+|{{IPAlink|o}}
+|{{IPAlink|p}}
+|{{IPAlink|pʷ}}
+|{{IPAlink|r}}
+|{{IPAlink|s}}
+|{{IPAlink|t̪}}
+|{{IPAlink|u}}
+|{{IPAlink|u̥}}
+|{{IPAlink|β}}
+|{{IPAlink|βʷ}}
+|{{IPAlink|w}}
+|{{IPAlink|j}}
+|}
+
+==Grammar==
+
+===Verbs===
+The verbs of Maskelynes are [[agglutinative]], mostly being modified by [[prefix]]es, though the stem of a verb can stand on its own. These prefixes encode for, in order of appearance in verb: 1. [[Tense–aspect–mood|tense-aspect-mode]]s; 2. subject, person and number; 3. various [[Grammatical mood|modes]], including [[Realis mood|realis]] and [[irrealis]]; 4. two [[Grammatical tense|tense]]-modes; 5. reduplication. The object of a sentence is encoded by a suffix.{{sfn|Healey|2013|loc=Section 8.1: Verb morphology}} 
+
+Examples of verbal agglutination:{{sfn|Healey|2013|p=181}}
+
+{{interlinear|indent=3
+|sa-g-e-mun-i
+|PROH-2SG.SUBJ-IRR-drink-3SG.OBJ
+|Don't you drink it.
+|lang=klv}}
+
+{{interlinear|indent=3
+|go-to-madha-mun-mun-i
+|2SG.SUBJ-REL-IMM.PST-ITER~drink-3SG.OBJ
+|You who just now kept drinking it
+|lang=klv}}
+
+====Reduplication====
+Reduplication in Maskelynes has various usages, and can encode for e.g. [[plural|plurality]], [[habitual aspect|habituality]], [[iterative aspect]], etc.{{sfn|Healey|2013|loc=section 8.5: Reduplication}}
+
+==External links==
+* [http://www.language-archives.org/language/klv Resources in and about the Maskelynes language] at [[OLAC]]
+* [[Paradisec]] has [http://catalog.paradisec.org.au/collections/search?language_code=klv a number of collections that include Maskelynes language materials]
+* [https://www.omniglot.com/writing/maskelynes.htm Maskelynes (Kuliviu)] at [[Omniglot]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+{{refbegin}}
+* {{cite thesis |last=Healey |first=David S. |date=2013 |title=A GRAMMAR OF MASKELYNES: THE LANGUAGE OF  ULUVEU ISLAND, VANUATU |type=PhD |publisher=University of the South Pacific |url=http://www.uspaquatic.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH3017.dir/doc.pdf |access-date=2020-05-31 |archive-url=https://web.archive.org/web/20200531090432/http://digilib.library.usp.ac.fj/gsdl/collect/usplibr1/index/assoc/HASH3017.dir/doc.pdf |archive-date=2020-05-31 |url-status=live}}
+{{refend}}
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+[[Category:Malekula languages]]
+[[Category:Languages of Vanuatu]]
+
+
+{{SOceanic-lang-stub}}

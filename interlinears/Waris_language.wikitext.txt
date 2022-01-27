@@ -1,0 +1,202 @@
+{{Short description|Papuan language spoken in Southeast Asia}}
+{{Lead extra info|date=October 2020}}
+{{Infobox language
+|name=Waris
+|region=[[Sandaun Province]], [[Papua New Guinea]]; <br>Waris District, [[Keerom Regency]], [[Papua (Indonesian province)|Papua province]], [[Indonesia]]
+|coordinates={{coord|-3.294675|141.073027|type:city_region:PG|name=Wasengla Catholic Mission}}
+|speakers=4,000
+|date=no date
+|ref=e13<!--e12 has 3k.-->
+|familycolor=Papuan
+|fam1=[[Border languages (New Guinea)|Border]]
+|fam2=Bewani Range
+|fam3=Bapi River
+|script=[[Latin script|Latin]]
+|iso3=wrs
+|glotto=wari1266
+|glottorefname=Waris
+|notice=IPA
+}}
+
+'''Waris''' or '''Walsa''' is a [[Papuan languages|Papuan language]] of northern [[New Guinea]].
+
+It is spoken by about 2,500 people around [[Wasengla]] ({{coord|-3.294675|141.073027|type:city_region:PG|name=Wasengla Catholic Mission}}), Doponendi ward, [[Walsa Rural LLG]], [[Sandaun Province]], [[Papua New Guinea]], and also by about 1,500 across the border in [[:id:Waris, Keerom|Waris District]], [[Keerom Regency]] in the [[Indonesia]]n province of [[Papua (Indonesian province)|Papua]].<ref name="Ethnologue22-PNG">{{cite web |url=https://www.ethnologue.com/country/PG/languages |title=Papua New Guinea languages |work=[[Ethnologue]]: Languages of the World |edition=22nd |editor1-last=Eberhard |editor1-first=David M. |editor2-last=Simons |editor2-first=Gary F. |editor3-last=Fennig |editor3-first=Charles D. |date=2019 |location=Dallas |publisher=[[SIL International]]}}</ref><ref name="UN-PNG">{{cite web |url=https://data.humdata.org/dataset/village-coordinates-lookup |title=Papua New Guinea Village Coordinates Lookup |author=United Nations in Papua New Guinea |work=Humanitarian Data Exchange |version=1.31.9 |date=2018}}</ref>
+
+==Phonology==
+===Vowels===
+====Monophthongs====
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPAlink|i}}
+|
+| {{IPAlink|u}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPAlink|e}}
+|
+|
+|-
+![[Mid vowel|Mid]]
+|
+|{{IPAlink|ə}}
+|
+|-
+! [[Open-mid vowel|Open-mid]]
+| {{IPAlink|ɛ}}
+|
+| {{IPAlink|ɔ}}
+|-
+! [[Near-open vowel|Near-open]]
+| {{IPAlink|æ}}
+|
+|
+|-
+! [[Open vowel|Open]]
+|
+| {{IPAlink|a}}
+| {{IPAlink|ɒ}}
+|}
+
+====Diphthongs and triphthongs====
+{| class="wikitable" style="text-align: center;"
+!
+! {{IPA|Vi}} !! {{IPA|Vɛ}} !! {{IPA|Vɑ}} !! {{IPA|Vɒ}} !! {{IPA|Vɔ}} !! {{IPA|Vu}}
+|-
+! {{IPA|iV}}
+| || || {{IPA|iɑ}} || || ||
+|-
+! {{IPA|ɛV}}
+| || || || || {{IPA|ɛɔ}} || {{IPA|ɛu}}
+|-
+! {{IPA|ɑV}}
+| {{IPA|ɑi}} || || || || {{IPA|ɑɔ}} ||
+|-
+! {{IPA|ɒV}}
+| {{IPA|ɒi}} || || || || ||
+|-
+! {{IPA|ɔV}}
+| {{IPA|ɔi}} || || {{IPA|ɔɑ}} || || ||
+|-
+! {{IPA|uV}}
+| {{IPA|ui}} || {{IPA|uɛ}} || {{IPA|uɑ}} || {{IPA|uɒ}} || ||
+|}
+There are two [[triphthong]]s, {{IPA|/ɔɑi/}} and {{IPA|/uɛu/}}.
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+!colspan="2"|
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+!colspan="2"| [[Nasal stop|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+|-
+!rowspan="2"| [[Stop consonant|Stop]]
+! <small>[[Voiceless consonant|Voiceless]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+|
+| {{IPAlink|k}}
+|-
+! <small>[[Prenasalized stop|Prenasalised]]</small>
+| {{IPAlink|ᵐb}}
+| {{IPAlink|ⁿd}}
+|
+| {{IPAlink|ᵑɡ}}
+|-
+!colspan="2"| [[Fricative]]
+| {{IPAlink|β}}
+| {{IPAlink|s}}
+|
+| {{IPAlink|x}}
+|-
+!rowspan="2"| [[Liquid consonant|Liquid ]]
+! <small>[[Trill consonant|trill]]</small>
+|
+| {{IPAlink|r}}
+|
+|
+|-
+! <small>[[Lateral consonant|lateral]]</small>
+|
+| {{IPAlink|l}}
+|
+|
+|-
+!colspan="2"| [[Semivowel]]
+| {{IPAlink|w}}
+|
+| {{IPAlink|j}}
+|
+|}
+
+==Classifiers==
+Classifier prefixes in Waris attach to verbs, and are determined via the physical properties of the object noun phrase being referred to. Many of them have parallels with independent verb roots, which may well be where they had originated from. Examples include:<ref name="Foley-Sepik"/>
+
+{{interlinear|number=ex:
+|wonda ka-m '''mwan'''-vra-ho-o
+|netbag 1-DAT '''CLF'''-get-BEN-IMP
+|‘Give me a netbag.’}}
+
+{{interlinear|number=ex:
+|nenas ka-m '''li'''-ra-ho-o
+|pineapple 1-DAT '''CLF'''-get-BEN-IMP
+|‘Give me a pineapple.’}}
+
+{{interlinear|number=ex:
+|nelus ka-m '''ninge'''-ra-ho-o
+|greens 1-DAT '''CLF'''-get-BEN-IMP
+|‘Give me some greens’}}
+
+Many of these prefixes have lexical parallels with verb roots. The list of classifier prefixes is:<ref name="Foley-Sepik">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The Languages of the Sepik-Ramu Basin and Environs |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=197–432 |isbn=978-3-11-028642-7}}</ref>
+
+:{| {{table}}
+! classifier prefix !! semantic category !! verb root parallel
+|-
+| mwan- || soft pliable objects like net bags, skirts, bark mats || 
+|-
+| li- || fruits like pineapples, ears of corn or pandanus || le- ‘cut off oblong fruit’
+|-
+| vela- || objects found inside a container || vela- ‘remove’
+|-
+| put- || spherical objects, commonly fruits || puet- ‘pick fruit’
+|-
+| ninge- || food cooked and wrapped || ninge- ‘tie up’
+|-
+| vet- || food removed from fire without wrapping || 
+|-
+| lɛ- || leaf-like objects with no or soft stem || 
+|-
+| pola- || leaf-like objects with hard stem || 
+|-
+| ih- || grainy materials || ih- ‘remove grainy material from a container’
+|-
+| tuvv- || pieces cut from longer lengths || tuvva- ‘chop into lengths’
+|-
+| kov- || lengths of vine || kovva- ‘cut off’
+|}
+
+==References==
+{{Reflist}}
+*{{cite book |last=Brown |first=Robert |year=1981 |chapter=Semantic aspects of some Waris predications |editor=Karl J. Franklin |title=Syntax and semantics in Papua New Guinea languages |pages=93–123 |location=Ukarumpa |publisher=Summer Institute of Linguistics}}
+*{{cite journal |last=Brown |first=Robert |year=1988 |title=Waris case system and verb classification |journal=Language and Linguistics in Melanesia |volume=19 |pages=37–80}}
+*{{cite book |last=Brown |first=Robert |author2=Honoratus Wai  |year=1986 |title=Diksenari: Walsana moa Pisinna moa Englisna moa (A short dictionary of the Walsa [Waris] language, Tok Pisin and English) |location=Ukarumpa |publisher=Summer Institute of Linguistics}}
+
+{{Languages of Indonesia}}
+{{Languages of Papua New Guinea}}
+{{Border languages (New Guinea)}}
+
+{{DEFAULTSORT:Waris Language}}
+[[Category:Border languages (New Guinea)]]
+[[Category:Languages of western New Guinea]]
+[[Category:Languages of Sandaun Province]]

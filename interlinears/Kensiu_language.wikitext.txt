@@ -1,0 +1,416 @@
+{{short description|Austroasiatic language spoken in Malaysia}}
+{{Infobox language
+|name=Kensiu
+|states=[[Peninsular Malaysia|Malaysia]], [[Thailand]]
+|region=Northeast Kedah, near Thai border. Overlaps into south Yala Province, Thailand.
+|ethnicity=[[Maniq people|Maniq]]
+|speakers =259
+|ref=<ref>{{Cite web |title=Kensiu |url=https://www.ethnologue.com/language/kns |access-date=2018-07-25 |website=Ethnologue |language=en}}</ref>
+|date=2015
+|familycolor=Austroasiatic
+|fam2=[[Aslian languages|Aslian]]
+|fam3=[[Jahaic languages|Jahaic]]
+|fam4=Western
+|script= [[Latin script]], [[Thai script]]
+|dialects = Ijoh (Ijok), Jarum, Jeher (Sakai Tanjong of Temongoh), Kedah (Quedah), Plus, Ulu Selama, Kensiu Batu, Kensiu Siong, Kentaq Nakil
+|iso3=kns
+|glotto=kens1248
+|glottorefname=Kensiu
+}}
+
+'''Kensiu''' (Kensiw) is an [[Austro-Asiatic languages|Austro-Asiatic language]] of the [[Jahaic languages|Jahaic]] (Northern [[Aslian languages|Aslian]]) subbranch. It is spoken by a small community of 300 in [[Yala Province]] in southern [[Thailand]] and also reportedly by a community of approximately 300 speakers in [[Western Malaysia]] in [[Perak]] and [[Kedah]] States. Speakers of this language are [[Negrito]]s who are known as the [[Mani people]] or Maniq of Thailand.<ref name="bishop1996" />
+
+==History==
+The Thai Maniq and the Malaysian [[Semang]] are reportedly the first modern humans to enter the [[Malay peninsula]]. After the Negrito, the next wave of migrants to arrive were speakers of the Mon–Khmer languages coming most likely from southwestern China. In the course of the millennia, the Negrito lost their original languages and adopted the Mon–Khmer languages of their neighbours and still speak these languages today.<ref>{{Cite web |title=The Negrito of Thailand: The Mani |url=http://www.andaman.org/BOOK/chapter36/text36.htm#ch6 |archive-url=https://web.archive.org/web/20130520173144/http://www.andaman.org/BOOK/chapter36/text36.htm |archive-date=2013-05-20 |language=en |via=andaman.org}}</ref>
+
+==Geographic distribution==
+
+The Maniq settle around the mountainous jungle areas in Southern Thailand and Northern Malaysia. They are considered the original inhabitants of Peninsular Malaysia.
+
+In Thailand, they are commonly known as the Sakai, Khon Paa or Ngok Paa, the forest people.<ref name="bishoppeterson2002" />
+
+The Maniq in Southern Thailand live in the border provinces of Narathiwat and Yala and in the Baantat Mountain Range of Satul, Trang and Phatthalung provinces.<ref name="bishoppeterson2002" />
+
+In Malaysia, the Maniq are situated between Northern Kedah and the borders of Thailand. However, they have been settling into villages near Baling, Kedah since 1965. There were reports that stated that they are found in Southern Kedah. In 1969, a survey gave a figure of 98 Maniq in Kedah alone. There is a total of 200 Maniq in Thailand and around 2500 in Malaysia. This figure could not be ascertained due to the nomadic lifestyle that the Maniq adopted.<ref name="bishoppeterson2002" />
+
+==Alternate names==
+Kensiu has also been referred to as Belubn, Kense, Kenseu, Kensieu, Kensiw, Maniq, Mawas, Mendi, Mengo, Meni, Menik, Moni, Monik, Moniq, Mos, Ngok Pa, Orang Bukit, Orang Liar, Sakai, and Tiong.<ref name="kensiuethnologue">{{Cite web |title=Kensiu |url=https://www.ethnologue.com/language/kns |access-date=2021-09-02 |website=Ethnologue |language=en}}</ref> Tea-de, a language variety belonging to the Maniq-Kensiw language cluster, is spoken in [[Waeng District]], [[Narathiwat Province]], Thailand.<ref name="Phaiboon 2006" />
+
+==Phonology==
+
+===Vowels===
+There are 28 vowels in the Kensiu language: 14 oral [[monophthong]]s and 12 nasal monophthongs, as well as 1 oral and 1 nasal [[diphthong]]. Front, central and back vowels at a tongue height intermediate to the close-mid and open-mid positions (i.e. [[Mid vowel|true-mid]]) are also present. The language does not seem to have any [[Phonation|voice register]] distinction.<ref name="bishop1996" />
+
+The following tables are in the transcription of the source rather than standard IPA.
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable IPA"
+|+ Vowel Phonemes (Oral)
+! scope="col" |
+! scope="col" | Front
+! scope="col" | Central
+! scope="col" | Back
+|-
+! scope="row" | Close
+| {{IPA link|i}}
+| {{IPA link|ɯ}}
+| {{IPA link|u}}
+|-
+! scope="row" | Near-close
+| {{IPA link|ɪ}}
+| 
+|
+|-
+! scope="row" | Close-mid
+| {{IPA link|e|e̝}}
+| {{IPA link|ɘ|ɚ}}
+| {{IPA link|o|o̝}}
+|-
+! scope="row" | Mid
+| {{IPA link|e̞|e}}
+| {{IPA link|ə}}
+| {{IPA link|o̞|o}}
+|-
+! scope="row" | Open-mid
+| {{IPA link|ɛ}}
+| {{IPA link|ʌ}}
+| {{IPA link|ɔ}}
+|-
+! scope="row" | Open
+| 
+| {{IPA link|ä|a}}
+|
+|-
+! scope="row" | Diphthongs
+| {{IPA|ie}}
+| 
+|
+|}
+{{col-break|gap=2em}}
+{| class="wikitable IPA"
+|+ Vowel Phonemes (Nasal)
+! scope="col" |
+! scope="col" | Front
+! scope="col" | Central
+! scope="col" | Back
+|-
+! scope="row" | Close
+| {{IPA|ĩ}}
+| {{IPA|ɯ̃}}
+| {{IPA|ũ}}
+|-
+! scope="row" | Near-close
+| {{IPA|ɪ̃}}
+| 
+|
+|-
+! scope="row" | Close-mid
+| {{IPA|ẽ̝}}
+|
+| {{IPA|õ̝}}
+|-
+! scope="row" | Mid
+| {{IPA|ẽ}}
+|
+| {{IPA|õ}}
+|-
+! scope="row" | Open-mid
+| {{IPA|ɛ̃}}
+| {{IPA|ʌ̃}}
+| {{IPA|ɔ̃}}
+|-
+! scope="row" | Open
+|
+| {{IPA|ã}}
+|
+|-
+! scope="row" | Diphthongs
+| {{IPA|ĩẽ}}
+|
+|
+|}
+{{col-end}}
+
+;Nasality and tongue height
+It can be observed that there is a contrasting nasal monophthong for each oral monophthong except {{IPA|/ə/}} and {{IPA|/ɚ/}}. The frequency of the nasal vowels are also much less than the oral ones and they are often in a conditioned environment.<ref name="bishop1996" />
+
+The vowels in Kensiu have five distinctive tongue heights for the front and central vowels and four for the back vowels. The close-mid vowels {{IPA|/e̝, ɚ, ẽ̝/}} have a slightly higher tongue height than their mid counterparts {{IPA|/e, ə, o/}}.<ref name="bishop1996" />
+
+;Vowel description<ref name="bishop1996" />
+
+The vowels listed below do not include nasalized vowels. Nasalized vowels are marked by a [[tilde]], e.g. {{IPA|/ĩ/}} would be the nasalized equivalent of {{IPA|/i/}}. They also differ from the description of [[cardinal vowels]] (CV) with the same symbol.
+
+*{{IPA|/i/}}: Slightly lower and more backed than CV 1.
+*{{IPA|/e̝/}}: Lower and further back than CV 2. It does not occur in the environment of final voiced bilabial stops or liquids.
+*{{IPA|/e/}}: Lower and more backed than /e̝/. It is unmarked diacritically since it is closer to the position of rest for the tongue.
+*{{IPA|/ɛ/}}: Slightly higher and more backed than CV 3. The distribution and frequency are similar to that of {{IPA|/e̝/}}.
+*{{IPA|/ɯ/}}: Significantly more fronted than CV 16 but not enough to compare with CV 17. It is also lower in tongue height compared to its comparable cardinal vowel.
+*{{IPA|/ɚ/}}: A close-mid central unrounded vowel. It has a [[Retroflex vowel|retroflexed]] quality, probably influenced by Malay contact. It is slightly higher than the schwa {{IPA|[ə]}}. It can occur in stressed syllables in limited environments but is mainly found in unstressed syllables.
+*{{IPA|/ə/}}: A mid central unrounded vowel. The tongue height appears to be midway between the close-mid and open-mid positions as shown in the IPA chart. It rarely occurs in stressed syllables.
+*{{IPA|/ʌ/}}: Tongue height is slightly higher than CV 14 but significantly more fronted. It is commonly found in unstressed syllables. It also frequently occurs in the closed syllable pattern, CVC.
+*{{IPA|/a/}}: An open central unrounded vowel. It is the vowel that occurs most frequently and can co-occur with every initial single consonant and final consonant.
+*{{IPA|/u/}}: Slightly lower and fronted than CV 8.
+*{{IPA|/o̝/}}: Slightly lower and more fronted than CV 7.
+*{{IPA|/o/}}: A mid back rounded vowel.
+*{{IPA|/ɔ/}}: Slightly higher and more fronted than CV 6.
+*{{IPA|/ie/}}: A close front unrounded lowering diphthong. It occurs only in stressed syllables, always with a final stop. It has an allophone, {{IPA|[ie̝]}}, before a final glottal stop.
+
+;Vowel contrasts
+The vowels do not occur in all environments. The central vowels {{IPA|/ɯ, ɚ, ʌ/}} do not occur in open syllables and {{IPA|/ɚ, ə, ʌ/}} do not occur with final [[Approximant consonant|approximants]] {{IPA|/w, j/}}. The vowels {{IPA|/i, e̝/}} seem to occur rarely with the final [[nasal stop|nasals]] {{IPA|/m, n, ɲ/}}. The incidence of final nasal consonants is very low, however, and it is not possible to conclusively state this as a restriction. With regard to approximants, only {{IPA|/i, e̝, ɛ, a, õ̝/}} can occur with a final {{IPA|/w/}}. {{IPA|/i, ɪ/}} do not occur with a final {{IPA|/j/}}. The diphthong cannot combine with a final approximant and this is probably due to the vocalic nature of the approximants that would violate the syllable patterns.<ref name="bishop1996" />
+
+===Consonants===
+
+{| class=wikitable style=text-align:center
+|+Consonant phonemes
+! colspan=2|
+! [[labial consonant|Labial]]
+! [[alveolar consonant|Alveolar]]
+! [[palatal consonant|Palatal]]
+! [[velar consonant|Velar]]
+! [[glottal consonant|Glottal]]
+|-
+! rowspan=3| [[stop consonant|Stop]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|c}}
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! <small>[[aspirated consonant|aspirated]]</small>
+| ({{IPA link|pʰ}})
+| ({{IPA link|tʰ}})
+|
+| ({{IPA link|kʰ}})
+|
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA link|b}}
+| {{IPA link|d}}
+| {{IPA link|ɟ}}
+| {{IPA link|g}}
+|
+|-
+! colspan=2| [[nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ɲ}}
+| {{IPA link|ŋ}}
+|
+|-
+! colspan=2| [[fricative consonant|Fricative]]
+| {{IPA link|ɸ}}
+| colspan=2| {{IPA link|s}}
+| {{IPA link|ɣ}}
+| {{IPA link|h}}
+|-
+! colspan=2| [[approximant consonant|Approximant]]
+| {{IPA link|w}}
+| {{IPA link|ɻ}}
+| {{IPA link|j}}
+|
+|
+|-
+! colspan=2| [[lateral consonant|Lateral]]
+| 
+| colspan=2| {{IPA link|l}}
+|
+|
+|}
+
+;Consonant allophonic description and distribution
+[[Unvoiced stop]]s are characteristically [[Aspiration (phonetics)|unaspirated]], but three of the five are (though infrequently) realised as aspirated stops, apparently as a result of borrowings.<ref name="bishop1996" />
+
+*/p/ is normally realised as a voiceless unaspirated bilabial stop [p], but also has a rare aspirated [[allophone]] [pʰ] in initial position which appears to be the result of a [[Malay language|Malay]] borrowing.
+*/t/ is normally realised as an unaspirated alveolar stop syllable initial and final and has a rare aspirated allophone, [tʰ], which appears syllable initial in a [[Thai language|Thai]] borrowing. /t/ has one other occasional allophone [t̪], a voiceless dental or fronted alveolar stop. No phonological conditioning has been recognised that would account for this allophone to date.
+*/c/ is a voiceless palatal stop that occurs syllable initial and final, albeit infrequently.
+*/k/ is realised phonetically as a voiceless unaspirated velar stop, [k], syllable initially and finally. /k/ has an infrequent aspirated realisation [kʰ] which appears to be in contrast with /kʰ/ in syllable initial position in a limited number of words, majority of which are Thai borrowings.
+*/ʔ/ occurs syllable initially and finally on a very frequent basis. Its syllable final distribution seems to be restricted primarily to stressed syllables.
+*/b, d, ɟ, g/ are phonetically realised as voiced bilabial alveolar, palatal and velar stops, [b, d, ɟ, g] respectively syllable initially, but as prestopped nasals morpheme final. The voiced stops have a word final allophone with a final nasal assimilating to the same point of articulation as the stop: /b/, [-bm], /d/, [-dn], [ɟ], [-ɟɲ], /g/, [-gŋ].
+*/m, n, ɲ, ŋ/, nasal plosives at the bilabial, alveolar, palatal and velar points of articulation, are relatively infrequent in comparison to the oral plosives. The palatal nasal /ɲ/ is the least frequent and least widely distributed of all the nasals. All four nasals occur both syllable initial and final.
+*/ɸ/ is a voiceless bilabial fricative which only occurs in syllable final position.
+*/s/, a voiceless alveolar fricative, has a palatal allophone [ʃ] in both syllable initial and final positions which appears to be in free variation with [s]. Individual speakers seem to use one allophone consistently, although either realisation is deemed correct by all speakers.
+*/h/ is a voiceless glottal fricative that occurs both syllable initial and final.
+*/l/ is realised as a palatal allophone [ʎ] in syllable final position. Syllable initially, /l/ is realised as 'clear' lateral approximant [l].
+*/w/, a voiced labio-velar central approximant, occurs both syllable initially and finally. It can also occur in the second consonant position of a syllable initial consonant cluster in stressed syllables.
+*/ɻ/ is normally realised as a voiced retroflexed central approximant in either syllable initial or final position. However, this phoneme is perceived as a flap [ɾ] when it is the second consonant of a syllable initial cluster. There is one additional occurrence of /ɻ/ which is phonetically realised as a trill [r].
+
+===Suprasegmentals===
+
+;Stress
+Kensiu has fixed non-contrastive primary stress which falls on the final syllable of the [[lexeme]]. In addition, minor syllables may be either completely unstressed or secondarily stressed, depending on the presence of [[reduplication]]. The normal, unmarked case, in which no reduplication has taken place, would be completely unstressed. The less frequent, marked case occurs when the final syllable is copied, producing an initial syllable that bears secondary stress. In any event, the application of stress is completely predictable and, while acoustically differing, stress is not contrastive in Kensiu.<ref name="bishop1996" />
+
+;Tone
+There are a very small number of pairs of lexemes that contrast only on the basis of a pitch difference. One member of each of these pairs has a normal (mid-level) pitch while the other member has a high level pitch. This pitch difference correlates with a change in meaning.<ref name="bishop1996" />
+
+{| class="wikitable"
+|-
+| gūj 'language' || gúj 'head'
+|-
+| kēc 'to be stuck' || kéc 'to cut'
+|-
+| kāp 'to bite' || káp 'deaf and mute'
+|}
+
+In addition to these pairs, there are a couple of other lexemes that are spoken with the high pitch, but for which no contrasting mid-level pitch lexeme has yet been found.
+
+;Nasality
+Nasality is a [[suprasegmental feature]] of Kensiu vowels. There is a set of 13 nasal vowels.
+
+===Word and syllable structure===
+;Word and syllable patterns
+Typically, Mon–Khmer languages may have three types of syllables:
+
+*Major syllables with a full inventory of vowels and initial and final consonants. They may occur as monosyllabic words or as the final syllable of disyllabic words, i.e. 'CVC, 'CCVC, CV.'CVC, 'CV.CVC.
+*Minor syllables with either a limited inventory of possible [[epenthetic]] vowels occurring medially in an initial consonant cluster or a broader inventory of vowels, but fixed final syllable stress, i.e. CV.'CVC or CV2.CV1C where V2 = [e, a, u, or ɪ] and V1 is essentially unrestricted. Minor syllables occur only as non-final syllables. In Kensiu, they can also have the pattern of CVC.'CV(C).
+*Presyllables which have either an epenthetic schwa or a slightly larger inventory of vowels, e.g. [ə, u, i], disrupting an initial consonant cluster. Schwa [ə] presyllables vary with consonant clusters, C<sup>ə</sup>CVC ~ CCVC, in some forms. Presyllables occur only as pre-final syllables in disyllabic words.
+
+Kensiu appears to have all three of the above types of syllables, but with the added features of tri- and tetra-syllabic words and with fixed stress in multisyllabic words. In Kensiu, two, three and even four syllable words occur. However, the three and four syllable words appear to be largely Malay borrowings.<ref name="bishop1996" />
+
+;Reduplication
+[[Reduplication]] in Kensiu is a relatively productive process, and it impacts the syllable structure. Reduplicated lexemes generally have the syllable structure CVC.CVC. In addition, occasional initial consonant clusters may be found in the second syllable but not in the first, e.g. [pʌt.plit] ''pʌtplit'' 'to blink quickly, repeatedly'.
+
+There are essentially 3 productive means of reduplication in Kensiu:
+
+# Identical consonants, changed vowel (V<sub>−α</sub>~V<sub>α</sub>)
+#:C<sub>β</sub>V<sub>−α</sub>C<sub>α</sub>.C<sub>β</sub>V<sub>α</sub>C<sub>α</sub>
+# Identical final consonant and vowel, changed initial consonant (C<sub>−β</sub>~C<sub>β</sub>)
+#:C<sub>−β</sub>V<sub>α</sub>C<sub>α</sub>.C<sub>β</sub>V<sub>α</sub>C<sub>α</sub>
+# Identical final consonant, changed initial consonant and vowel (C<sub>−β</sub>V<sub>−α</sub>~C<sub>β</sub>V<sub>α)</sub>
+#:C<sub>−β</sub>V<sub>−α</sub>C<sub>α</sub>.C<sub>β</sub>V<sub>α</sub>V<sub>α</sub>
+
+All 3 strategies copy the base morpheme, with the first syllable as the newly created bound morpheme and the second syllable as the base. The first strategy appears to be the most productive, with the least restrictions on possible constituents. The second strategy copies the final consonant and the vowel of the base identically, but changes the initial consonant of the reduplicative prefixal morpheme. The third reduplicative strategy results in only the final consonant being copied from the base, while the initial consonant and the vowel change. Other general observations regarding reduplication include a high incidence of nasal vowels and of final /ɸ/ in these forms.<ref name="bishop1996" />
+
+==Morphology and syntax==
+
+Kensiu is a [[Subject–verb–object|SVO]] language. [[Modifiers]] follow the [[Head (linguistics)|head]] as in the following examples:<ref>{{Cite web |last=Peterson |first=M. M. |date=1992 |title=Lost in Space: Discovering Spatial Locatives in Kensiu |url=http://msea-ling.info/digidata/495.992/b10212.pdf |url-status=dead |language=en}}</ref>
+
+{{interlinear|lang= kns |number=(1)|glossing3=yes
+|ʔuʔ ŋɔk ʔep bə'lɰʔ jɛʔ
+|ʔuʔ ňók ʔep bə'lǭʔ jéʔ
+|he sit LOC leg I
+|'He sits in my lap.'}}
+
+{{interlinear|lang= kns |number=(2)|glossing3=yes
+|jo̝h'ʔuʔ hɔs ʔep tobm ʔi'huʔ ʔɔdn
+|jǫh'ʔuʔ hós ʔep tobm ʔi'huʔ ʔódn
+|branch fall LOC tree {} there
+|'The branch falls at that tree.'}}
+
+{{interlinear|lang= kns |number=(3)|glossing3=yes
+|jɛʔ ma ɟɰp pe̝ ga'de̝ ʔep ɟa'la
+|jéʔ ma ȳǭp pę ga'dę ʔep ȳa'la
+|I FUT go LOC store LOC yala
+|'I will go to the store in Yala.'}}
+
+Spatial locatives in Kensiu indicate position, direction and proximity. There is a contrast between an enclosed location and a nonenclosed location, resulting in the use of two different [[morphemes]], 'ka'pɪgn' and 'ʔep' respectively. With regard to spatial proximity, there are different features that are used to contrast locations, e.g. reach, sight, hearing and walking distance in designating a range of space starting from the speaker's location.
+
+===Words===
+There are not many single syllable words in use. A word is usually composed of the following parts:<ref name="Phaiboon 2006" />
+
+*Major syllable
+*[[Minor syllable]]
+*Presyllable
+
+===Vocabulary===
+Kensiu uses loan words from [[Malay language|Malay]].<ref name="Phaiboon 2006" /> There are also quite a few words that are [[cognates]] with words from the [[Austroasiatic]] language family.
+
+===Terms of reference and address===
+The kinship system of the Maniq closely resembles the [[Hawaiian kinship]] system. However, the Kensiu terminology differs from the Hawaiian system considerably in the following ways:<ref>{{harvp|Bishop|1996b}}</ref>
+
+*Cousins and siblings are differentiated in terms of relative age rather than sex.
+*The term used for aunt and mother are the same but separate terms for father and uncle are used.
+*In the second ascending generation, lineal kinsmen (grandparents) use different terms from collateral kinsmen (siblings of grandparents).
+*The first descending generation differentiates between one's children and one's siblings' children by the use of younger or elder, specifying whether the connecting parent is older or younger than ego.
+
+==Orthography==
+
+===Writing system===
+The alphabet for the Kensiu language was constructed using the [[Thai language|Thai]] script. The decision to use which Thai symbols or graphs were based on the principle of using symbols which most closely represent the value of the symbol in the Thai language. This minimized the number of symbols that would have been reassigned in the Kensiu writing system. This principle also helped to simplify the Kensiu alphabet, so that it would be easier for a reader to transfer reading skills between the two languages. As for the Kensiu features that differ from Thai, adjustments were made to the Thai script.<ref name="bishoppeterson2002" />
+
+===Vowels===
+Kensiu vowels differ from Thai in that there are additional vowel heights, contrastive nasalization and no contrastive vowel length.<ref name="bishoppeterson2002" /> This led to some creative uses of Thai orthographic symbols. A Pali dot was also used to differentiate these contrasting heights in the front, central and back vowels.
+
+Kensiu also has contrastive nasalization that Thai does not have. Since the consonant graphs used to write Kensiu are of the middle or low class Thai consonants, it was believed that the 'ห' from the high class consonants could be used to mark nasalization. The consonant graph was chosen over a diacritic because:<ref name="bishoppeterson2002" />
+
+*The vowel graphs are already extensive in number.
+*The consonant graph maintains a linear order which is easier to learn than diacritics which are non-linear.
+
+The consonant graph is similar to that of Thai's. To many Thai speakers today, Thai words beginning with 'ห' are nasalized even though nasalization is non-contrastive in Thai.<ref name="bishoppeterson2002" /> This factor also contributed to the choice of 'ห' as a marker for nasalization.
+
+For glottal final syllables, the short vowel symbol is used to denote the vowel height and position as well as a final glottal consonant. The decision to use the short vowels only for syllables ending in a glottal was based on a reader's reaction to the use of the short vowel symbols in the minor syllables and presyllables. Initially, the presyllables and minor syllables were written using short vowels while major syllables were written using long vowels. This was meant to reflect the stress-timing where the major syllable always has primary stress, resulting in a perceived lengthened vowel. However, the reader associated the final glottal stop inalienably with the vowel quality when reading short Thai vowel symbols. As a result, the vowel symbols were changed so that long vowels were used in all syllable types and short vowels used in glottal final syllables only.<ref name="bishoppeterson2002" />
+
+===Consonants===
+For Kensiu consonants that are the same as the Thai consonants, the Thai symbol for the consonant was used. For the Kensiu consonants that are not the same as Thai, the consonants were matched with a Thai symbol that has (or has had in the past) the same point and manner of articulation.<ref name="bishoppeterson2002" />
+
+The Kensiu consonants that differ from Thai consonants are:<ref name="bishoppeterson2002" />
+*Two voiced plosives, /ɟ/ and /g/
+*One nasal, /ɲ/
+*Two fricatives, /ɸ/ and /ɣ/
+*A set of pre-stopped nasals, /bm/, /dn/, /ɟɲ/ and /gŋ/
+
+The voiced palatal /ɟ/ and velar /g/ plosives and the palatal nasal /ɲ/ are not currently found in spoken Thai. In these cases, the Thai symbol that was chosen historically bore the same features as the Kensiu consonant. This resulted in <ย> being assigned to /ɟ/ and <ฆ> to /g/ as both of these are historically voiced plosives. <ญ> was then assigned to /ɲ/.<ref name="bishoppeterson2002" />
+
+The two Kensiu fricatives /ɸ/ and /ɣ/ are not found in the Thai language as well. As a result, <ฟ> was chosen to represent /ɸ/ due to its similarity in point and manner of articulation. <ร> was chosen to represent /ɣ/ as /ɣ/ is the Kensiu pronunciation of /ɻ/ found in Malay words that have been borrowed.<ref name="bishoppeterson2002" />
+
+The pre-stopped nasals /bm/, /dn/, /ɟɲ/ and /gŋ/ contrast with /m/, /n/, /ɲ/ and /ŋ/ in the final syllable position, resulting in the need to distinguish between these consonants in the orthography. The unaspirated stops were initially used to represent the pre-stopped nasals but the reader was unable to decode the word. Eventually, a garand were written above the oral stops representing /bm/, /dn/, /ɟɲ/ and /gŋ/. Writing in this manner allows the reader to recognize the consonant cluster as the representation of the pre-stopped nasal.<ref name="bishoppeterson2002" />
+
+===Consonant clusters===
+In Kensiu, the consonant clusters are symbolized in the same manner as Thai clusters. Kensiu has a few more consonant clusters ending in /w/ than Thai does, (i.e. /pw/, /bw/, /tw/, /gw/, /hw/, /mw/, and /lw/).
+
+===Tone===
+Kensiu is not a tonal language even though there are some words that have a contrastive high tone and a normative pitch or mid-tone. The mid-tone is unmarked but the high tone is marked by a maitree.<ref name="bishoppeterson2002" />
+
+==Relationship with other languages==
+
+Kensiu is closely related to most of the indigenous dialects of Southern Thailand. For example, Kensiu and Kintaq Bong (a Northern [[Aslian languages|Aslian]] language) are dialects of the same language. There are also exchanges in lexicon between Kensiu and languages such as Mendriq, Mintil, Bateg Nong, Jehai and Che Wong. What is most interesting is that Che Wong seems to be more closely related to Kensiu although it is spoken some 200 miles away, further than where Mintil is spoken. Kensiu is also relatively more closely related to Mendriq as compared to Jehai, which is spoken 100 miles away.<ref>{{Cite book |last=Benjamin |first=Geoffrey |title=Austroasiatic Studies Part I |date=1976 |publisher=University Press of Hawaii |editor-last=Jenner |editor-first=Philip N. |location=Honolulu |pages=37–128 |language=en |chapter=Austroasiatic Subgroupings and Prehistory in the Malay Peninsula |jstor=20019154 |editor-last2=Thompson |editor-first2=Laurence C. |editor-last3=Starosta |editor-first3=Stanley |chapter-url=http://sealang.net/sala/archives/pdf8/benjamin1976austroasiatic.pdf}}</ref>
+
+==Endangerment==
+Kensiu can be considered endangered due to these critical factors:<ref name="Phaiboon 2006" />
+*It belongs to a minority group whose descendants feel embarrassed to speak.
+*In recent times, the need to have more contact with other people have risen thus forcing them to learn and speak the surrounding majority group's language, such as Thai, Mandarin, or the local Malay languages.
+*It does not have a widely used orthography.
+*The government's policy limits their settlement areas and forces them to adapt to the cultures and languages of the majority group.
+*Modernization, especially with Thai, Mandarin, and Malay radio and television have influenced these minority speakers to lifestyles.
+
+All the above factors have a major part to play in the decreasing use of Kensiu.
+
+==See also==
+*[[Orang asli]]
+*[[Mani people]]
+*[[Aslian languages]]
+*[[Jahaic languages]]
+*[[Austroasiatic languages]]
+
+==References==
+{{reflist|refs=
+<ref name="Phaiboon 2006">{{Cite journal |last=Phaiboon |first=Duangchand |date=2006 |title=Glossary of Aslian Languages: The Northern Aslian Languages of Southern Thailand |url=http://sealang.net/sala/archives/pdf8/phaiboon2006glossary.pdf |journal=Mon-Khmer Studies |language=en |volume=36 |pages=207–224}}</ref>
+
+<ref name="bishoppeterson2002">{{Cite book |last=Bishop |first=Nancy M. |title=Minority Language Orthography in Thailand: Five Case Studies |last2=Peterson |first2=Mary M. |date=2002 |publisher=TU-SIL-LRDP Committee |editor-last=TU-SIL-LRDP Committee |location=Bangkok |pages=53–68 |language=en |chapter=The Kensiu (Maniq) People |chapter-url=http://msea-ling.info/digidata/306/b09800-kensiw.pdf |url-status=dead}}</ref>
+
+<ref name="bishop1996">{{Cite journal |last=Bishop |first=Nancy |date=1996 |title=A Preliminary Description of Kensiu (Maniq) Phonology |url=http://sealang.net/archives/mks/pdf/25:227-253.pdf |journal=Mon–Khmer Studies Journal |language=en |volume=25 |pages=227–253}}</ref>
+}}
+
+==Further reading==
+{{refbegin}}
+* {{Cite journal |last=Bishop |first=Nancy |date=1996b |title=Who's Who in Kensiw? Terms of Reference and Address in Kensiw |url=http://sealang.net/sala/archives/pdf8/bishop1996who.pdf |journal=Mon–Khmer Studies |language=en |volume=26 |pages=245–253}}
+* {{Cite web |last=Miyake |first=Marc |author-link=Marc Miyake |date=2014 |title=Kensiu |url=http://www.amritas.com/140322.htm#03182356 |website=amritas.com |language=en}}
+* {{Cite thesis |last=Wnuk |first=Ewelina |title=Semantic Specificity of Perception Verbs in Maniq |date=2016 |degree=Doctor's |publisher=Radboud Universiteit Nijmegen |url=https://pure.mpg.de/rest/items/item_2327493/component/file_2329137/content |language=en |via=pure.mpg.de}}
+{{refend}}
+
+==External links==
+'''Glossaries and word lists'''
+* [https://web.archive.org/web/20110727190411/http://pseal.org/monkhmer/database/ SEAlang Mon–Khmer Languages Project]
+* [https://archive.org/details/rosettaproject_kns_vocab-1 Health Glossary List] (from the Rosetta Project)
+* [https://archive.org/stream/rosettaproject_kns_swadesh-1/kns.txt Kensiu Swadesh List]
+* http://projekt.ht.lu.se/rwaai RWAAI (Repository and Workspace for Austroasiatic Intangible Heritage)
+* [[hdl:10050/00-0000-0000-0003-D444-6@view|http://hdl.handle.net/10050/00-0000-0000-0003-D444-6@view]] Kensiu in RWAAI Digital Archive
+
+{{Languages of Malaysia}}
+{{Languages of Thailand}}
+{{Austroasiatic languages}}
+{{Orang asli}}
+
+[[Category:Languages of Malaysia]]
+[[Category:Languages of Thailand]]
+[[Category:Aslian languages]]

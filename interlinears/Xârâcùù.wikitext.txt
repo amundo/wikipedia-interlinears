@@ -1,0 +1,679 @@
+{{short description|Austronesian language spoken in New Caledonia}}
+{{Infobox language
+  |name=Xârâcùù
+  |nativename=''Xârâcùù''
+  |region=Canala
+  |states=[[New Caledonia]]
+  |speakers={{sigfig|5730|2}} 
+  |date=2009 census
+  |ref=e18
+  |familycolor=Austronesian
+  |fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+  |fam3=[[Oceanic languages|Oceanic]]
+  |fam4=[[Southern Oceanic languages|Southern Oceanic]]
+  |fam5=New Caledonian – Loyalties 
+  |fam6=[[New Caledonian languages|New Caledonian]]
+  |fam7=[[Southern New Caledonian languages|Southern]]
+  |fam8=[[South Southern New Caledonian languages|South Southern]]
+  |fam9=Xaracuu–Xaragure
+  |iso3=ane
+|glotto=xara1244
+|glottorefname=Xaracuu
+}}
+
+'''Xârâcùù''' ({{IPA-all|xɑ̃rɑ̃ʧɨː|local}}), or '''Kanala''', is an [[Oceanic languages|Oceanic language]] spoken in [[New Caledonia]]. It has about 5,000 speakers.<ref name=":0">{{Cite journal|last=Moyse-Faurie|first=Claire|date=June 1997|title=Le xârâcùù: Langue de Thio-Canala (Nouvelle-Calédonie). Éléments de syntaxe|journal=Oceanic Linguistics|doi=10.2307/3623078|volume=36|page=187}}</ref> Xârâcùù is most commonly spoken in the south Central area of New Caledonia in and around the city of [[Canala]] and the municipalities of Canala, [[Thio, New Caledonia|Thio]], and [[Bouloupari|Boulouparis]].
+
+==Current status==
+Xârâcùù is considered a recognized teaching language, and is part of New Caledonian culture.  It is predominantly used as the main language in the [[Nouméa]] area, and is not considered endangered by UNESCO due to it being one of the most spoken languages in the area,<ref name=":2" /> with more than 90% of Canala residents being able to speak some form of it.  Xârâcùù is the fourth-most spoken language in New Caledonia Kanak, with a teaching school in the Canala area, although primary language use is at home. Xârâcùù is taught in the Canala area due to the EPK (''École Populaire Kanak''), founded by Marie-Adele Néchérö Jorédié.  It is the only language that is being taught in the area and is taught in nursery, primary, two secondary schools, Thio (maternal Kouare village school and also in college) and in kindergartens in La Foa and Sarramea.<ref name=":2" />
+
+Xârâcùù has been taught since 1980 at the primary level in the popular Kanak school (EPK or Ecole Populaire Kanak) Canala, only establishment of its kind still existing in 2013, the students can then join public education. The language is also offered at the private Catholic college Francis Rouge-Thio and public college Canala.<ref name=":1">{{Cite web|url=http://www.sorosoro.org/le-xaracuu/|title=Le xârâcùù «  Sorosoro|website=www.sorosoro.org|access-date=2016-06-16}}</ref>
+
+==Phonology and spelling==
+=== Phonology ===
+The language has twenty-seven consonant phonemes, ten [[oral vowels]], seven [[Nasal vowel|nasal vowels]] and seventeen corresponding [[Vowel length|long vowels]].  Current research has shown that there are numerous phonemic contrasts, which leaves little room for allophonic variation.<ref name=":0" /> Xârâcùù has 27 consonants, some of which are nasalized plosives that are quite typical of [[Oceanic languages]]. {{IPA|/l/}} is only found in loanwords.<ref name=":2" />
+
+{|class="wikitable IPA" style=text-align:center
+!rowspan=2|
+!colspan=2|Labial
+!rowspan=2|Dental
+!rowspan=2|Post-<br/>alveolar
+!rowspan=2|Palatal
+!colspan=2|Velar
+|-
+!<small>plain</small>!!<small>round</small>
+!<small>plain</small>!!<small>round</small>
+|-
+!Nasal
+|m
+|mʷ
+|n
+|
+|ɲ
+|ŋ
+|
+|-
+!rowspan=2|<small>(prenasalized)<br/>Plosive</small>
+|ᵐb
+|ᵐbʷ
+|ⁿd
+|
+|ᶮɟ
+|ᵑɡ
+|ᵑɡʷ
+|-
+|p
+|pʷ
+|t
+|t͡ʃ
+|
+|k
+|kʷ
+|-
+!Fricative
+|f
+|
+|
+|ʃ
+|ç
+|x
+|xʷ
+|-
+!Sonorant
+|v
+|
+|l
+|r
+|j
+|
+|w
+|}
+
+Xârâcùù has 34 vowels: 17 short (10 oral and 7 nasal) all of which can be elongated.<ref name=":2" />  
+{|class="wikitable IPA" style=text-align:center
+! rowspan="2" |
+!colspan=2|Front
+!colspan=2|Central
+!colspan=2|Back
+|-
+!Oral
+!Nasal
+!Oral
+!Nasal
+!Oral
+!Nasal
+|-
+!High
+|i||ĩ
+|ɨ||ɨ̃ 
+|u||ũ
+|-
+!High-mid
+|e||
+|ɤ||
+|o||
+|-
+!Low-mid
+|ɛ||ɛ̃
+|ʌ||ʌ̃
+|ɔ||ɔ̃
+|-
+!Low
+| ||
+|a||ã
+| ||
+|}
+
+Efforts to determine the phonological history of the language have been met with difficulty due to Xârâcùù's lack of reflexes of established [[Proto-Oceanic]] forms.<ref>{{Cite journal|last=Lynch|first=John|date=June 1997|title=Review of: ''Le xârâcùù: Langue de Thio-Canala (Nouvelle-Calédonie). Éléments de syntaxe''|journal=Oceanic Linguistics|doi=10.2307/3623078}}</ref>  
+
+===Orthography===
+Xârâcùù is written with the [[Latin alphabet]] combined with many [[Diacritic|diacritics]] and [[Digraph (orthography)|digraphs]], with a total of 61 [[Grapheme|graphemes]]. This writing system was developed in the early 1980s by {{ill|Claire Moyse-Faurie|fr|}} (from [[CNRS]]-[[LACITO]]). (Previously, missionaries used to transcribe the language (especially to produce versions of the Gospels or catechism) with the same conventions as the [[Ajië language]].<ref name=":2">{{Cite web|url=https://www.alk.nc/langues/xaracuu|title=Xaracuu|website=Academie Des Langues Kanak|access-date=2016-06-15}}</ref>)
+
+The orthography of Xârâcùù follows many of the same principles as most other New Caledonian languages: e.g. symbols usually used for voiced consonants (''b'', ''d'', ''g'', ''j'', etc.) represent [[prenasalized consonant]]s. Digraphs are used for a number of phonemes, e.g. ''bw'', ''gw'' and ''ny'' for /ᵐbʷ/, /ᵑɡʷ/, /ɲ/ respectively; ''ch'' stands for /ʃ/, as in [[French orthography|French]]. The large number of contrasting vowels and the inclusion of vowel clusters and vowel length mean that accents and other diacritics have to be used to represent vowel phonemes.<ref name=":0" /> Like in other languages of New Caledonia, [[nasal vowel]]s are mostly indicated using a [[circumflex]] diacritic.
+  
+{| class="wikitable" style="text-align: center;"
+|+ Xârâcùù Alphabet
+! Grapheme || a || aa || ä || ää || â || ââ || b || bw || c || ch || d
+| rowspan="2" colspan="2" |
+|-
+! Pronunciation 
+| {{IPA|ɑ}} || {{IPA|ɑː}} || {{IPA|ʌ̃}} || {{IPA|ʌ̃ː}} || {{IPA|ɑ̃}} || {{IPA|ɑ̃ː}} || {{IPA|ᵐb}} || {{IPA|ᵐbʷ}} || {{IPA|t͡ʃ}} || {{IPA|ʃ}} || {{IPA|ⁿd}}
+|-
+! Grapheme || e || ee || é || éé || ë || ëë || è || èè || ê || êê || f || g || gw
+|-
+! Pronunciation
+| {{IPA|ɤ}} || {{IPA|ɤː}} || {{IPA|e}} || {{IPA|eː}} || {{IPA|ʌ}} || {{IPA|ʌː}} || {{IPA|ɛ}} || {{IPA|ɛː}} || {{IPA|ɛ̃}} || {{IPA|ɛ̃ː}} || {{IPA|f}} || {{IPA|ᵑɡ}} || {{IPA|ᵑɡʷ}}
+|-
+! Grapheme || i || ii || î || îî || j || k || kw || l || m || mw || n || ng || ny
+|-
+! Pronunciation 
+| {{IPA|i}} || {{IPA|iː}} || {{IPA|ĩ}} || {{IPA|ĩː}} || {{IPA|ᶮɟ}} || {{IPA|k}} || {{IPA|kʷ}} || {{IPA|l}} || {{IPA|m}} || {{IPA|mʷ}} || {{IPA|n}} || {{IPA|ŋ}} || {{IPA|ɲ}}
+|-
+! Grapheme || o || oo || ö || öö || ô || ôô || p || pw || r || s || t
+| rowspan="2" colspan="2" |
+|-
+! Pronunciation 
+| {{IPA|o}} || {{IPA|oː}} || {{IPA|ɔ}} || {{IPA|ɔː}} || {{IPA|ɔ̃}} || {{IPA|ɔ̃ː}} || {{IPA|p}} || {{IPA|pʷ}} || {{IPA|r}} || {{IPA|ç}} || {{IPA|t}}
+|-
+! Grapheme || u || uu || ü || üü || ù || ùù || û || ûû || v || w || x || xw || y
+|-
+! Pronunciation 
+| {{IPA|u}} || {{IPA|uː}} || {{IPA|ɨ̃}} || {{IPA|ɨ̃ː}} || {{IPA|ɨ}} || {{IPA|ɨː}} || {{IPA|ũ}} || {{IPA|ũː}} || {{IPA|v}} || {{IPA|w}} || {{IPA|x}} || {{IPA|xʷ}} || {{IPA|j}}
+|}
+
+==Grammar==
+Xârâcùù has a strict [[Subject–verb–object|SVO]] sentence structure, with few exceptions. 
+=== Pronouns ===
+{| class="wikitable"
+! colspan="2" |
+!Independent
+!Subject
+!Object
+!Possessive
+|-
+! rowspan="3" |Singular
+!1
+|''gu''
+|''nâ''
+|''nâ/nû<sup>†</sup>''
+| ''-nâ/-râ<sup>‡</sup>''
+|-
+!2
+|''gè''
+|''ke''
+|''rö''
+| ''-rö/-ö*''
+|-
+!3
+|''niè''
+|''rè, è''
+|''è''
+| ''-rè/-è*''
+|-
+! rowspan="4" |Dual
+!1 incl
+|''ûrû''
+|''ûrû''
+|''rû''
+| ''-rû''
+|-
+!1 excl
+|''ngôô''
+|''ngôô''
+|''ngôô''
+| ''-ngôô''
+|-
+!2
+|''göu''
+|''göu''
+|''göu''
+| ''-göu''
+|-
+!3
+|''nuu''
+|''ru''
+|''ru''
+| ''-ru''
+|-
+! rowspan="4" |Plural
+!1 incl
+|''îrî''
+|''îrî''
+|''rî''
+| ''-rî''
+|-
+!1 excl
+|''ngêê''
+|''ngêê''
+|''ngêê''
+| ''-ngêê''
+|-
+!2
+|''wîrî''
+|''wîrî''
+|''wîrî''
+| ''-wîrî''
+|-
+!3
+|''nii''
+|''ri''
+|''ri''
+| ''-ri''
+|}
+<sup>†</sup> Used only in the past tense.  <sup>‡</sup> Used with certain inalienable nouns.
+
+<nowiki>*</nowiki> Used after the particle ''rè'' with vowel assimilation e.g. ''nea rè+rö'' > ''nea röö'' "your knife"
+
+===Noun phrase structure===
+In comparison to other Oceanic languages, Xârâcùù's noun phrase structure is a little different. Most of the vowel modifiers in Xârâcùù come before the head. Some articles that feature this include ''a'' singular, ''du'' dual, ''ké'' paucal, and ''mîî~mîrî'' plural.<ref name=":0" />  There are several different morphemes for '10' and '15' which are just examples of a [[quinary numeral system]].
+{| class="wikitable"
+|''duchêêxê mê bachéé''
+|(5 and 3)
+|'8'
+|-
+|''kêrênürü mê bachéé''
+|(10 and 3)
+|'13'
+|-
+|''acaa mê bachéé''
+|(15 and 3)
+|'18'
+|}
+
+===Numerals===
+The numeral style of the language allows for few [[numeral classifiers]] that often only occur as suffixes to the number one and as prefixes to all of the other [[Numeral (linguistics)|numerals]] in the language.
+
+{| class="wikitable"
+!Minimal Pairs
+!i/é
+!é/a
+!ù/e
+!f/é
+!u/o
+!i/u
+!i/e
+|-
+|Xârâcùù
+|xai/xaé
+cicöö/cécöö
+
+jai/jaé
+|wité/wita
+sémâsa/samwâsa
+
+siméé/simaa
+|kù/ke
+nùi/nei
+
+kaù/kae
+|mââĺ/mââê
+xwĺnêĺ/xwênêĺ
+|bumé/bomé
+bumöu/bomöu
+|cÍtÍa/cutÍa
+síwítí/suwítí
+|faari/faare
+|-
+|English
+|or
+taro patch
+
+anyhow
+|didn't have to
+Grandmother
+
+shell
+|you
+island
+
+is
+|precede
+how to do
+|suffocate
+somnambulist
+|fiber tear
+exorcise
+|request
+|}
+
+=== Prepositions ===
+Xârâcùù has at least 17 known [[Preposition and postposition|prepositions]], at least half referring to direction or location. Three prepositions express types of [[comitative|comitative relationships]].<ref name=":0" />
+
+===Possession===
+Like many Oceanic languages, Xârâcùù features indirect and direct possession constructions. The following phrases demonstrate that "inalienable" nouns are directly possessed with the possessor, whether pronoun or noun, being directly suffixed to the possessed noun.<ref name=":0" /> 
+
+{{interlinear|indent=4
+|nêêwâ-rö
+|daughter-2SG
+|"your daughter"}}
+
+{{interlinear|indent=4
+|nâxwâ-pârâ
+|mouth-eel
+|'the eel's mouth'}}
+
+Indirect possession comes in two syntactic types varying by familiarity and a classification system. Seven possessive classifications have possessive pronominal suffix or are joined by the possessed noun. These classifiers usually refer to food ''nênê-'' (allomorph ''nânâ-''), starchy foods or ''nèkê-'', meat or ''(nê)wînè'', food to be chewed or ''nèxêê-'', drinks or ''(nê)wînyè-'', tubers to be planted or harvested or ''nêngê-'', and goods possessions or ''ngêê'' or ''êê''.  There are also three other qualifiers including: ''xû'' or topic of story telling, ''(rö)wâ'' or passive, and ''rè'' or general.  In these cases the possessed noun comes first followed by the classifier and the possessor. A pronominal possessor does not occur as a suffix but rather a free form.<ref name=":0" />
+
+{{interlinear|indent=4
+|Nânâ-râ nô
+|Food-1SG fish
+|'my fish (to eat)'}}
+
+{{interlinear|indent=4
+|nô rè nâ
+|fish General 1SG
+|'my (pet) fish'}}
+
+===Morphology===
+There are only a few forms of verbal [[Morphology (linguistics)|morphology]] in Xârâcùù.  These include the nonproductive [[Transitivity (grammar)|transitive]] suffix ''–ri'', the causative ''fa-'', the resultative/stative ''mê-'', and the intransitivizer ''ù-''.  While transitive suffix do exist they are few and far between leaving the language to follow a strict SVO format for morphological marking.    
+
+{{interlinear|indent=4
+|Chaa xûûchi fa-mêgörö na vèè a	
+|One Child CAUS-break PAST glass DEM
+|'A child broke this glass.'}}
+
+{{interlinear|indent=4
+|vèè a, chaa xûûchi fa-mêgörö na
+|glass DEM, one child CAUS-break PAST
+|'This glass, a child broke it.'}}
+
+===Verb phrases===
+The examples also show that the object of a sentence can be topicalized by fronting the transitive suffix  as in ''vèè a-'' moving to the front of the sentence in example two.  There is also reduplication, which acts like a functions intensifier.  While there is a small amount of verbal morphology, each verb phrase can contain a preverbal subject-marking pronoun.  Subject and Predicate phrase order is unmarked in Xarâcùù. There are ten tense-aspect markers (some are preverbal others postverbal) and one or more modifiers can be included (also pre-verbal or post-verbal).<ref name=":0" />
+
+{{interlinear|indent=4
+|pa dopwa pia
+|COLLECTIVE young fight:REFL
+|The young people are fighting}}
+
+{{interlinear|indent=4
+|ri pia, ngê pa dopwa
+|3PL fight:REFL PREP COLLECTIVE young
+|They're fighting each other, the young people (are)}}
+
+As seen above in example (1), preverbal subject markers are unused if the subject is a noun phrase.  But there are cases when there is a topicalized afterthought subject that follows the verb as seen in the second example where ''pa dopwa'' appears at the end rather than the beginning.  Polar interrogatives also exist in Xarâcùù but are marked by the particle ''kae''.  The ''kae'' article follows the constituent that is the focus of the interrogation.
+
+{{interlinear|indent=4
+|è xwa kae na âmu?
+|3SG rain INTERROG PAST yesterday
+|Did it rain yesterday?}}
+
+{{interlinear|indent=4
+|è xwa na âmu kae?
+|3SG rain PAST yesterday INTERROG
+|Was it yesterday that it rained?}}
+
+In comparison to many other Oceanic languages outside of [[New Caledonia]], Xarâcùù uses unusual phrase structure for nouns.  The modifiers precede the head and the only thing that follows are demonstratives and markers of totality.
+
+{{interlinear|indent=4
+|Mîî bachèè xuu pa xùùchî nä
+|ART:PL three small COLLECTIVE child DEM
+|Those three small children}}
+
+==Sample texts==
+Various Xârâcùù stories were recorded by Claire Moyse-Faurie. They can be read and heard, on two archives: [http://catalog.paradisec.org.au/collections/CM1 on Paradisec], and [https://pangloss.cnrs.fr/corpus/X%C3%A2r%C3%A2c%C3%B9%C3%B9?lang=en on Pangloss].
+
+;Sample sentences
+''Dou regula daa nä jina.'' -All because of that fateful day.<ref>All English phrases are translated from French.</ref>
+
+''è wâ ket name: "wèi, jööpè nä, jè faxwata.'' -He asked for news
+
+''è cen xwata döbwa ke ket.'' -She would not listen to what you said.<ref>{{Cite web|url=http://corpusdelaparole.huma-num.fr/spip.php?article81|title=Corpus de la parole|website=corpusdelaparole.huma-num.fr|access-date=2016-06-16}}</ref>
+
+;Story of a flower
+
+A traditional Xârâcùù short story about a flower and a girl who speaks with the flower and hear its life story.
+{| class="wikitable"
+!'''xârâcùù'''
+!English
+|-
+|''Kêrêfaaxwata pûrêkwââ Towa'' 
+''Pure-jöökwii''
+
+''pure chaa jökwii, Kwade pè Me na è.''
+
+''Rè wâ mwâtoa Toxu chaa bwaakwè. Toxu bwaakwè donâ, è Naa Taa Chaa donâ Kwaa Nii Regula duru.''
+
+''Weia Mwâ Chee tö puu-Regula, nä Regula wâ killed.''
+
+''Ö Kee-péré Toxu Kwaa donâ, nêmwâjöörè wâ kaxê. Nêkèè-regu wâ Xwi. Rè wâ Xade''
+
+''Chaa WA daa, ö toa nä chaa wèi, AAXA, è nä Cue Ngari Regulab waakwè na''
+
+''È fè pisi tara nêkèè Regula Regula jöökwii na nä è è faari:''
+
+''ke gè Me I?''
+
+''E ket me''
+
+''donâ gè Mê Kete mwaa, Kwade pè Me na donâ.''
+
+''Weia AAXA faari Muge tara-è: jè Nii OR?''
+
+''Even ket:NI donâ ku. Donâ aada, Kere donâ Faada kâmûrû.''
+
+''Xwâda wâ katoa me nä jöökwii Mwiri wâ nä Xade, è wâ nä poa, è sia wâ nä bare.''
+
+''Rè wâ xù-toa chêmwââ kèèbwarè ku.''
+
+''È pè xwânârâ ree na jöökwii Mwiri, WEA AAXA wâ Kiwi tara chaa kêrêê.''
+
+''Wâ Rè chûrûkê, nä Regula kê niöru.''
+
+''Rè xapârî Xoru Ree.''
+
+''Rè xwèrii. Regula mara è.''
+
+''Jibwa nêmwâ, nî nä mara Regula ku.''
+
+''Xwânee Regula Ajina.''
+
+''Cokwa''
+|The story of a flower<ref name=":2" /><ref>Story told by Mrs. Adelaide Kasovimoin-Nénûû, January 2008 at Mèrèdöxa, Kuöö, Canala region. Recorded by Annick Kasovimoin, responsible for the Xârâcùù Mission - ALK.</ref>
+The vine flower
+
+It is a vine flower that the wind brought.
+
+It is set on a mountain on which grew a banyan tree called.
+
+She landed on her foot and took root there.
+
+She climbed the tree and there developed antlers. The vine grows again, it bore fruit.
+
+One day came a man, a leader, master of the mountain.
+
+He went rummaging among the thick foliage of the vine and asked:
+
+"Where are you from? "
+
+She said
+
+" I come from far away, the wind brought me here. "
+
+The leader asked again," what's your name? "
+
+She told him:
+
+" My name is victuals. I fed the man through my tubers. "
+
+The years passed and the vine gave tubers, fruits and multiplied.
+
+It was the surrogate mother several yam varieties.
+
+Intrigued by this vine, the man dug a tuber.
+
+He did cook fire and ate it .
+
+he found him a good taste and was full.
+
+that pleased him and he cultivated.
+
+that's why today we grow yams.
+
+So ends this story. 
+|}
+
+
+;A small poem about the sky and the land of Canala
+{| class="wikitable"
+!'''Xârâcùù'''
+!English
+|-
+|Kodo Regula nèxöa, Kodo ga nèxöa Toa-a! 
+Mia, ga mada,
+
+MI Nguru pure mîâdèrè,
+
+Kodo ga nèkwââ me Nuo Toxu Nui-a agwii,
+
+Kêrênâwâ, Kamia è chämêgi nî NGE daa wânîî,
+
+Mede, ga pwâkwââ EE Xwi xiti Regula-e tö nèpwéékètè xârâcùù NGE xwâda wânîî,
+
+pwârâ, bööpéci nä Vasie xwâsu Towa, è pwârâ na ga kâmûrû nä a-Fade Regula toamê,
+
+Kwé wâ sé nä Déé wâ toa, ga kötöö,
+
+Nguru, kâmûrû Nguru apuu Nui-a .
+|Blue is the color of the sky! 
+Red is the color of blood,
+
+dark red, is the hibiscus flower,
+
+Green is the color of leaves, plants and trees in our forests,
+
+Yellow is the color of this sun that warms us every day,
+
+Orange is the color of the fruit which is celebrated every year the feast in Canala region,
+
+White is the color of the blank page and "overseas" happens,
+
+Brown, the water rises and flooding happens,
+
+Black is the color of the original people.
+|}
+<ref name=":2" />
+
+;Jari kè Xôkwé Ka: History
+
+A historical tale about a taro field and those who tended it. 
+{| class="wikitable"
+!Xârâcùù
+!English
+|-
+|Jari kè Xôkwé Ka
+Te na Xôkwé Ka na è Xwi nä chaa nômwâxôkwé.
+
+Nômwâxôkwé na naa fawîjö Regula chaa mênênyowé.
+
+Tö nômwâxôkwé Keere tö mênênyowé, EE
+
+Naa mara Regula jari. EE Naa mara Regula chêmwââ tö jari na.
+
+Chaa Kamia, Chaa Kewa mî jari na wâ Nara
+
+mè Regula wâ fè. Nii Regula Jari kwere.
+
+E wâ Nû chaa SAA Regula è. SAA Regula
+
+è wâ tötaa mwînyè Regula Even pabéé Regula è.
+
+E Fade fè mè Regula pisicè ù-cue Regula è.
+
+Pabéé bwa Regula è wâ Nû fè è bwa mè è
+
+nä mwêgé toa Regula nä rii MAA fè facuè Regula è.
+
+Jari kwere wâ fè, è wâ gè Xôkwé Ka nä Regula wâ bland fè.
+
+E Xwi Mii nèpwéékètè Xârâcùù bwa tö nä cen
+
+toanôô Regula Regula è ù-cue.
+
+Jari wâ Nara mè Regula Feti Xu Nui.
+
+Nä è è cen dù xù bwa è è saa xù
+
+nêkwétaa nä Regula nèèxu kè nêdökwé.
+
+E wâ mwâbéré ti COO. Regula bland tara nèpwéékètè COO.
+
+Jari kwere cen toanôô ù è regu-cue.
+
+E niyaa xù è na nêdökwé tö COO.
+
+E ciköpuru nyînê nä Regula toa Burupwari.
+
+E cen Xoru bare xù è è Towa döbwa ESEM Kete na.
+
+E Gacho Chee ti Mwâ Cîîrî.
+
+E wâ bland tara Mwâ Cîîrî nä Regula will cen toanôô bare ù è Regula-bwa.
+
+E fè xwa Mwâ Jawa. Kete cen Xoru xù è.
+
+Fa pôôru kè ciköpuru Regula è nyînê. Jari wâ toa Xajië.
+
+E wâ Béré tara nèpwéékètè Xajië nä wâ xapârî Regula Regula è ù-cue.Jari kwere wâ Gacho cè pabéé Regula è è mè faaxwata bland Regula döbwa è Toana chaa Kete mè Regula Cue to na.
+
+Kete na wâ Xoru xù è.
+
+Pabéé bwa Regula è, pabéé Regula è è mè panyèrè wâ sapùtù-born teenager è Regula.
+
+Rii fè facuè Regula Jari ti Ana xökwé neja.
+
+E wâ Cue to na na tö è wâ sia.
+
+Cokwa.
+|Taro Ka
+There used to Ka source whose periphery served an old taro field.
+
+Several species of Jari were planted there in these two places.
+
+One day one of these Jari, one named Jari kwere thought out.
+
+She sent then one of his daughters.
+
+It took leave of his mother and of his family who gave him his blessing because Jari was to return to his family to eventually marry her.
+
+She went on a journey to find a place where s' install.
+
+Jari kwere left so she left and began its march Ka. She visited all Canala but did not find a place to settle.
+
+Jari then thought of going to the Loyalty Islands but this was impossible because being a young girl fresh water, salt water was not profitable to him.
+
+she turned her gaze to Thio then went to visit. But she did not found where settle for freshwater Thio was bitter.
+
+She crossed the central chain and reached Burupwari. The environment did not suit him because the place was hollow.
+
+She went down to the Cîîrî country but could not settle there either. She then went to Jawa countries, the medium does not always pleased him.
+
+Crossing the central chain for the second time, Jari came to Xajië country. She went to explore the country and found where to settle.
+
+Jari then returned to his family and told his journey and informed them that she had found a nice place to settle.
+
+His family: his parents and brothers and sisters gathered his things and went to leave there, in Neja.
+
+his family took him there and left there when she multiplied it.
+
+End.
+|}
+
+==Documentation==
+
+There have been two dictionaries written on the Xârâcùù language in the last one hundred years. 
+
+The earlier work is a short English/Xârâcùù dictionary published in 1975 by [[George W. Grace|George William Grace]], titled ''Canala dictionary (New Caledonia)''.
+
+A more substantial dictionary is the one published in 1986 by {{ill|Claire Moyse-Faurie|fr|}}, titled ''Dictionnaire Xârâcùù-Français (Nouvelle-Calédonie)''. 
+
+Another key publication is Moyse-Faurie's 1995 grammar ''Le xârâcùù: Langue de Thio-Canala (Nouvelle-Calédonie)''. 
+
+==Notes and references==
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+COLLECTIVE:collective
+INTERROG:interrogative
+</div><section end="list-of-glossing-abbreviations"/>
+
+===References===
+{{Reflist}}
+
+=== External links ===
+* [http://www.omniglot.com/writing/xaracuu.htm Alphabet and pronunciation] at ''Omniglot''
+* [https://www.youtube.com/watch?v=bPusFYGDiWs Interview with Marie-Adèle Jorédié on her language, Xârâcùù]
+* [http://www.sorosoro.org/en/2011/10/videos-in-xaracuu-new-caledonia/ Videos on Sorosoro]
+* [http://catalog.paradisec.org.au/collections/CM1 Open-access collection of recordings] in Xârâcùù and [[Xârâgurè language|Xârâgurè]], by {{ill|Claire Moyse-Faurie|fr|}} – <small>(archive: [[Paradisec]])</small>.
+* [https://pangloss.cnrs.fr/corpus/X%C3%A2r%C3%A2c%C3%B9%C3%B9?lang=en Corpus of audio and video recordings in Xârâcùù], by Claire Moyse-Faurie – <small>(archive: [[Pangloss Collection]])</small>.
+
+===Bibliography===
+* {{Cite book| publisher = Edipop| isbn =9782906341005 | last1 = Moyse-Faurie| first1 = Claire|last2 = Néchérö-Jorédié| first2 = Marie-Adèle| title = Dictionnaire Xârâcùù-Français (Nouvelle-Calédonie)| location = Nouméa| date = 1986}}
+* {{Cite book| publisher = Peeters| isbn =9789068318050 | last = Moyse-Faurie| first = Claire|title = Le xârâcùù: Langue de Thio-Canala (Nouvelle-Calédonie): Éléments de syntaxe | location = Paris| series = Langues et cultures du Pacifique, 10| date = 1995}}
+
+{{Languages of New Caledonia}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+{{DEFAULTSORT:Xaracuu language}}
+[[Category:New Caledonian languages]]
+[[Category:Languages of New Caledonia]]
+[[Category:Subject–verb–object languages]]
+
+{{Portal|Languages}}

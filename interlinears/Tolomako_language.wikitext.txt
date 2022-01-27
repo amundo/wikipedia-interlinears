@@ -1,0 +1,172 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Multiple issues|
+{{More citations needed|date=August 2021}}
+{{One source|date=August 2021}}
+}}
+{{Infobox language
+|name=Tolomako
+|altname=Bigbay
+|states=[[Vanuatu]]
+|region=Big Bay, [[Espiritu Santo]] Island
+|speakers=900
+|date=2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Northern Vanuatu languages|Northern Vanuatu]]
+|fam6=Northeast Vanuatu – Banks Islands
+|fam7=[[West Santo languages|West Santo]]
+|iso3=tlm
+|glotto=tolo1255
+|glottorefname=Tolomako
+|dia1=Tolomako proper
+|dia2=Tsuréviu
+}}
+
+'''Tolomako''' (also called '''Bigbay''') is a language of the [[Oceanic languages|Oceanic]] subgroup of [[Austronesian languages]]. It is spoken on Santo island in [[Vanuatu]].
+
+==Characteristics==
+It distinguishes four numbers for its personal pronouns: singular, dual, trial, plural. Its verbs have no tense or aspect marking, but two moods, [[realis moods|realis]] and [[irrealis moods|irrealis]]. Substantives and numerals also have the same two moods. E.g.
+
+{{interlinear|indent=3|glossing=no abbr
+|na tatsua mo tea mo tsoa
+|REALIS person REALIS one REALIS {not to be}
+|Someone is missing}}
+
+{{interlinear|indent=3|glossing=no abbr
+|te tatsua i tea mo tsoa
+|IRREALIS person IRREALIS one REALIS {not to be}
+|There is nobody.}}
+
+Tolomako proper is characterized by having dentals where the mother language had labials before front vowels. It shares this feature with [[Sakao language|Sakao]], but not with its dialect Tsureviu, which is otherwise very close. Thus:
+{| class="wikitable IPA"
+|-
+! Tolomako || Tsureviu ||
+|-
+| tei ||  pei  || "water"
+|-
+| nata || mata  || "eye"
+|}
+
+When labials do occur preceding front vowels they seem to be reflexes of older labiovelars:
+{| class="wikitable IPA"
+|-
+! Tolomako || Tsureviu ||
+|-
+| pei ||  pei || "good"
+|-
+| mata || mata || "snake"
+|}
+
+Compare with [[Fijian language|Fijian]] ŋata "snake" (spelt gata).
+
+It is possible that Tolomako is a very simplified daughter-language or pidgin of the neighboring language [[Sakao language|Sakao]]. However, Tolomako is more likely a sister language of Sakao, not a pidgin. It cannot be phonologically derived from Sakao, whereas Sakao can be from Tolomako to some extent. Comparing Tolomako with its close dialect of Tsureviu allows researchers to reconstruct an earlier state, from which most of Sakao can be regularly derived. This earlier state is very close to what can be reconstructed of Proto-Vanuatu. Thus Tolomako is a very [[conservative (language)|conservative]] language, whereas Sakao has undergone drastic innovations in its phonology and grammar, both in the direction of increased complexity.
+
+==Phonology==
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable IPA" style="text-align:center"
+|+ Tolomako vowels
+! !![[Front vowel|front]]<br>[[Roundedness|unrounded]] !! [[Back vowel|back]]<br>[[Roundedness|rounded]]
+|-
+![[Close vowel|close]]
+| {{IPAlink|i}} || {{IPAlink|u}}
+|-
+! [[Mid vowel|mid]]
+| {{IPAlink|e}} || {{IPAlink|o}}
+|-
+! [[Open vowel|open]]
+| colspan=2| {{IPAlink|a}}
+|}
+{{col-break|gap=1em}}
+{| class="wikitable IPA" style="text-align:center"
+|+ Tolomako consonants
+! !![[Labial consonant|labial]]!![[Alveolar consonant|alveolar]]!![[Velar consonant|velar]]
+|-
+! [[Nasal consonant|nasal]]
+| {{IPAlink|m}} || {{IPAlink|n}} ||
+|-
+! [[Plosive|plosive]]
+| {{IPAlink|p}} || {{IPAlink|t}} || {{IPAlink|k}}
+|-
+! [[Affricate|affricate]]
+| || {{IPAlink|ts}} ||
+|-
+! [[Fricative|fricative]]
+| {{IPAlink|β}} || || {{IPAlink|ɣ}}
+|-
+! [[Trill consonant|trill]]
+| || {{IPAlink|r}} ||
+|-
+! [[Approximant|approximant]]
+| || {{IPAlink|l}} ||
+|}
+{{col-end}}
+
+Tolomako has a simple syllable structure, maximally consonant-vowel-vowel: [[vowel|V]], [[consonant|C]]V, VV, CVV.
+
+==Deixis==
+There are three degrees of [[deixis]], here/this, there/that, yonder/yon.
+
+==Nouns==
+Tolomako has [[Inalienable possession|inalienably possessed]] nouns, which are regularly derived: 
+{{col-begin|width=auto}}
+{{col-break}}
+{| class="wikitable IPA"
+|+ tsiɣo- "mouth"
+! Tolomako !! English
+|-
+| na tsiɣo-ku || "my mouth"
+|-
+| na tsiɣo-mu || "thy mouth"
+|-
+| na tsiɣo-na || "his/her/its mouth"
+|-
+| na tsiɣo-... || "...'s mouth"
+|}
+{{col-break|gap=1em}}
+{| class="wikitable IPA"
+|+ βulu- "hair"
+! Tolomako !! English
+|-
+| na βulu-ku || "my hair"
+|-
+| na βulu-mu || "thy hair"
+|-
+| na βulu-na || "his/her/its hair"
+|-
+| na βulu-... || "...'s hair"
+|}
+{{col-end}}
+
+==Syntax==
+Tolomako [[syntax]] is [[isolating language|isolating]]. It has a single [[preposition]], ''ne,'' for all relationships of space and time; below it is used to distinguish the [[object (grammar)|object]] of a verb from the instrument used.
+
+{{interlinear|indent=3
+|mo losi na poe ne na matsa
+|3SG hits ART pig PREP ART club
+|"He hits (kills) the pig with a club"}}
+
+===Literature===
+Tolomako was unwritten until the arrival of missionaries from the New Hebrides Mission.  James Sandilands translated Matthew, Jonah and Malachi from the Bible into Tolomako and these were published as "Na taveti tahonae hi Iesu Kristo, Matiu moulia..." by the [[British and Foreign Bible Society]] in 1904. A missionary with the New Hebrides Mission, Charles E. Yates translated the book of Acts into Tolomaku and this was published by the Melbourne Auxiliary of the British and Foreign Bible Society in 1906.
+
+Charles E. Yates then worked on the Gospel of John, the Letter to the Philippians and the 1st and 2nd Letters to Timothy.  With the help of fifteen of his teaching staff they translated "Na Taveti Tahonai hi Jon na Varisula" and 750 copies were published by the British and Foreign Bible Society in 1909.
+
+==See also==
+*[[Sakao language]], for parallels to the above in a closely related but grammatically more complex language
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://listserv.brown.edu/archives/cgi-bin/wa?A2=ind0311c&L=conlang&F=&S=&P=56813 A 1992 mailing list message from Jacques Guy, describing some of his fieldwork on the language]
+*[http://wiw.org/~jkominek/lojban/9412/msg00214.html A 1994 message from Jacques Guy], citing Tolomako as a counterexample to the thesis that all languages are equally complex
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Espiritu Santo languages]]
+[[Category:Languages of Vanuatu]]

@@ -1,0 +1,152 @@
+{{Short description|Extinct Mirndi language of Australia}}
+{{Use dmy dates|date=July 2019}}
+{{redirect|Ngewin language}}
+{{Infobox language
+|name        = Ngarnji
+|altname     = Ngarnka
+|nativename  = 
+|states      = [[Australia]]
+|region      = [[Barkly Tableland]], [[Northern Territory]]
+|ethnicity   = Ngarnji/[[Ngarnka]]
+|extinct     = 1997–1998
+|ref         =<ref name=IJSL/>
+|familycolor = Australian
+|fam1        = [[Mirndi languages|Mirndi]]
+|fam2        = [[Ngurlun languages|Ngurlun]]
+|iso3        = none
+|iso3comment = included in [[iso639-3:nji|[nji]]] Gudanji
+|aiatsis     = N121
+|glotto      = ngar1283
+|glottorefname=Ngarnka
+}}
+
+The '''Ngarnji''' (Ngarndji) or '''Ngarnka''' (Ngarnga, Ngarnku) language was traditionally spoken by the [[Ngarnka]] people of the [[Barkly Tableland]]s in the [[Northern Territory]] of [[Australia]]. The last fluent speaker of the language died between 1997 and 1998.<ref name=IJSL>{{Cite journal|last=Pensalfini|first=Robert|date=2004|title=Eulogizing a language: The Ngarnka experience|journal=International Journal of the Sociology of Language|volume=2004|issue=168|pages=141–156|doi=10.1515/ijsl.2004.029|url=https://espace.library.uq.edu.au/view/UQ:74196/UQ74196_OA.pdf}}</ref> Ngarnka belongs to the [[Mirndi languages|Mirndi]] language family, in the [[Ngurlun languages|Ngurlun]] branch.<ref>{{Cite book|title=Proto Mirndi: A discontinuous language family in Northern Australia|last=Harvey|first=Mark|publisher=Pacific Linguistics|year=2008|isbn=978-0-85883-588-7|series=PL 593|location=Canberra}}</ref> It is closely related to its eastern neighbours [[Binbinka language|Binbinka]], [[Gudanji dialect|Gudanji]] and [[Wambaya language|Wambaya]]. It is more distantly related to its western neighbour [[Jingulu language|Jingulu]], and three languages of the [[Victoria Daly Region|Victoria River District]], [[Jaminjung language|Jaminjung]], [[Ngaliwurru language|Ngaliwurru]] and [[Nungali language|Nungali]]. There is very little documentation and description of Ngarnka, however there have been several graduate<ref>{{Cite book|title=The West Barkly languages: Complex morphology|last=Chadwick|first=Neil|publisher=Monash University|year=1978|location=Monash|type=Unpublished PhD Thesis}}</ref> and undergraduate<ref>{{Cite book|title=The structure and inflections of verbs in Ngarnka, an Aboriginal language of the Northern Territory|last=McQuay|first=Colleen|publisher=The University of Queensland|year=2005|location=St Lucia|type=Unpublished Hons Thesis}}</ref><ref>{{Cite book|title=Nominal morphology of Ngarnka, Northern Territory (Australia)|last=Osgarby|first=David|publisher=The University of Queensland|year=2014|location=St Lucia|type=Unpublished Hons Thesis}}</ref> dissertations written on various aspects of Ngarnka morphology, and a sketch grammar and lexicon of Ngarnka is currently in preparation.<ref name=":0">{{Cite book|title=A sketch grammar and lexicon of Ngarnka|last1=Osgarby|first1=David|last2=Pensalfini|first2=Robert|last3=Moerkerken|first3=Colleen}}</ref>
+
+== Phonology ==
+{| class="wikitable"
+|+Ngarnka consonant inventory<ref name=":0" />
+!
+![[Bilabial consonant|Bilabial]]
+![[Apico-alveolar|Apico-]]
+[[Apico-alveolar|alveolar]]
+![[Retroflex consonant|Apico-]]
+[[Retroflex consonant|postalveolar]]
+![[Lamino-palatal|Lamino-]]
+[[Lamino-palatal|palatal]]
+![[Velar consonant|Dorso-]]
+[[Velar consonant|velar]]
+|-
+![[Stop consonant|Stop]]
+|'''b''' /[[Bilabial stop|p]]/
+|'''d''' /[[Alveolar stop|t]]/
+|'''rd''' /[[Retroflex stop|ʈ]]/
+|'''j''' /[[Palatal stop|c]]/
+|'''k''' /[[Velar stop|k]]/
+|-
+![[Nasal consonant|Nasal]]
+|'''m''' /[[Bilabial nasal|m]]/
+|'''n''' /[[Alveolar nasal|n]]/
+|'''rn''' /[[Retroflex nasal|ɳ]]/
+|'''ny''' /[[Palatal nasal|ɲ]]/
+|'''ng''' /[[Velar nasal|ŋ]]/
+|-
+![[Lateral consonant|Lateral]]
+|
+|'''l''' /[[Alveolar lateral|l]]/
+|'''rl''' /[[Retroflex lateral approximant|ɭ]]/
+|'''ly''' /[[Palatal lateral approximant|ʎ]]/
+|
+|-
+![[Flap consonant|Tap]]
+|
+|'''rr''' /[[Alveolar trill|r]]/
+|
+|
+|
+|-
+![[Glide consonant|Glide]]
+|'''w''' /[[Labio-velar approximant|w]]/
+|
+|'''r''' /[[Retroflex approximant|ɻ]]/
+|'''y''' /[[Palatal approximant|j]]/
+|
+|}
+{| class="wikitable"
+|+Ngarnka vowel inventory<ref name=":0" />
+!
+![[Unrounded vowel|Unrounded]]
+![[Rounded vowel|Rounded]]
+|-
+![[Close vowel|High]]
+|'''i''' /[[Close front unrounded vowel|i]]/, '''iyi''' /[[Close front unrounded vowel|iː]]/
+|'''u''' /[[Close back rounded vowel|u]]/, '''uwu''' /[[Close back rounded vowel|uː]]/
+|-
+![[Open vowel|Low]]
+|'''a''' /[[Near-open central vowel|ɐ]]/, '''aa''' /[[Near-open central vowel|ɐː]]/
+|
+|}
+
+== Verbal morphology and syntax ==
+=== Inflecting verbs and uninflecting verbs ===
+Ngarnka possesses two kinds of verb: inflecting verbs and uninflecting verbs. These two word classes are common in many languages of northern Australia.<ref>{{Cite book|title=Yearbook of Morphology|url=https://archive.org/details/yearbookmorpholo00booi|url-access=limited|last=Schulze-Berndt|first=Eva|publisher=Kluwer Academic Publishers|year=2003|isbn=978-1-4020-1272-3|editor-last=Booij|editor-first=Geert|location=New York|pages=[https://archive.org/details/yearbookmorpholo00booi/page/n151 145]–177|chapter=Preverbs as an open word class in northern Australian languages: Synchronic and diachronic correlates|editor-last2=van Marle|editor-first2=Jaap}}</ref> Inflecting verbs are finite, bear bound pronouns, inflect for tense, aspect and mood, and usually occur in second position. Uninflecting verbs bear only minimal tense inflection (distinguishing non-present tense), and are less distributionally restricted than inflecting verbs, although often occurring clause-initially. Inflecting verbs can constitute an independent predicate in a simple verb construction, whereas uninflecting verbs must occur with an inflecting verb in a light verb construction (although they occur independently in non-finite subordinate clauses). There are only three inflecting verbs in Ngarnka: a general 'do' inflecting verb, a centrifugal locomotion inflecting verb 'go', and a centripetal locomotion inflecting verb 'come'. Examples of inflecting verbs and uninflecting verbs are provided below.
+
+{{interlinear|number=ex.
+|Yangurla ngu-li-'''ya''' '''ngarl'''-i Binbinka{{=}}ka.
+|NEG IRR.1SG.S-POT-'''DO.HAB.NPST''' '''speak'''-UV Binbinka.N(ACC){{=}}FAR
+|I can't speak Binbinka.}}
+
+{{interlinear|number=ex.
+|'''Yalkij'''-b-ani ngu-lu ngarri yangaji.
+|'''cook'''-UV-NPRS IRR.1SG.A-POT('''DO.NPRS''') 1SG.DAT meat.M(ACC)
+|I will cook my meat.}}
+
+{{interlinear|number=ex.
+|'''Yakal'''-i ju-l-'''a''' yarrkawala.
+|'''go'''-UV IRR.2SG.S-POT-'''go.NPST''' far
+|You will go far away.}}
+
+=== Simple verb construction ===
+When expressing motion events, sometimes Ngarnka will use a simple verb construction with one of the two locomotion inflecting verbs. However in many cases, a light verb construction will be used with the generic locomotion uninflecting verb ''yakali'' 'go', as in the above example. Examples of the locomotion inflecting verbs in simple verb constructions are provided below.
+
+{{interlinear|number=ex.
+|Ni-ya ngki-'''yarra''' ilikirri-nmanji.
+|M-DIST(NOM) R.3SG.M.S-'''go.PST''' creek.N-ALL
+|He went to the river.}}
+
+{{interlinear|number=ex.
+|Ni-yangka-kunja irri-l-'''ajkani'''.
+|M-DIST-PL.M/N(NOM) IRR.3PL.S-POT-'''come'''
+|They will come (here).}}
+
+=== Light verb construction ===
+The most common predicate type in Ngarnka is the light verb construction, a structure common in northern Australian languages.<ref>{{Cite book|title=The languages and linguistics of Australia: A comprehensive guide|last=Bowern|first=Claire|publisher=De Gruyter Mouton|year=2014|isbn=978-3-11-027969-6|location=Berlin|pages=263–294|chapter=Complex predicates in Australian languages}}</ref> The Ngarnka light verb construction involves a finite inflecting verb and a non-finite uninflecting verb. Examples of each of the inflecting verbs in light verb constructions are provided below.
+
+{{interlinear|number=ex.
+|Wulanyi-ni ni-ny-'''akba''' ngangi '''kurdayi'''-bi.
+|snake.M-ERG HYP.3SG.M.A-2.P-'''DO.HYP''' 2SG(ACC) '''bite'''-UV
+|The snake might bite you.}}
+
+{{interlinear|number=ex.
+|Kujarra-wulu kuda-wulu ngu-l-'''a'''{{=}}ki '''langan'''-bi{{=}}ki.
+|two.N-DU(ACC) hill.N-DU(ACC) IRR.1SG.S-POT-'''go.NPST'''{{=}}NEAR '''climb'''-UV{{=}}NEAR
+|I will go and climb the two hills here.}}
+
+{{interlinear|number=ex.
+|'''Ngaj'''-bi mirnd-'''ajkani'''.
+|'''see'''-UV R.1DU.INCL.A-'''come'''
+|You and I came to see it.}}
+
+== References ==
+{{reflist}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+NEAR:near
+FAR:far
+</div><section end="list-of-glossing-abbreviations"/>
+
+== External links ==
+* [http://aiatsis.gov.au/sites/default/files/gurdanji_kurdanji_gudanji.pdf Bibliography of Gurdanji people and language resources], at the [[Australian Institute of Aboriginal and Torres Strait Islander Studies]]
+
+{{Australian Aboriginal languages}}
+[[Category:Ngurlun languages]]
+[[Category:Extinct languages of the Northern Territory]]

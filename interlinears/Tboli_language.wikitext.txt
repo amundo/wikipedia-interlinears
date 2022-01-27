@@ -1,0 +1,182 @@
+{{Infobox language
+|name=Tboli
+|region=[[Mindanao]]
+|states=[[Philippines]]
+|ethnicity=[[Tboli people|Tboli]]
+|speakers={{sigfig|95,300|2}}
+|date=2000
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Philippine languages|Philippine]]
+|fam4=[[South Mindanao languages|South Mindanao]]
+|iso3=tbl
+|glotto=tbol1240
+|glottorefname=Tboli
+}}
+
+'''Tboli''' ({{IPA-tl|'tʔbɔli|IPA}}), also Tau Bilil, Tau Bulul or Tagabilil, is an [[Austronesian language]] spoken in the southern [[Philippines|Philippine]] island of [[Mindanao]], mainly in the [[Provinces of the Philippines|province]] of [[South Cotabato]]  but also in the neighboring provinces of [[Sultan Kudarat]] and [[Sarangani]].  According to the Philippine Census from 2000, close to 100,000 Filipinos identified ''T'boli'' or ''Tagabili'' as their native language.
+
+==Classification==
+Tboli is classified as a member of the [[South Mindanao languages|South Mindanao]] or Bilic branch of the [[Philippine languages|Philippine]] language families. The closest language to it is [[Blaan language|Blaan]]. Both are also related to [[Giangan language|Bagobo]], and [[Tiruray language|Tiruray]].
+
+==Geographic distribution==
+Tboli is spoken in the following areas (''[[Ethnologue]]'').
+
+*[[South Cotabato]] Province: Mount Busa area and west
+*[[Sarangani]] Province: Celebes seacoast, Katabau west to provincial border
+*[[Sultan Kudarat]] Province: Kraun area and [[Bagumbayan, Sultan Kudarat|Bagumbayan]] municipality
+
+Dialects are Central Tboli, Western Tboli, and Southern Tboli (''[[Ethnologue]]'').
+
+==Phonology==
+
+===Phonemic inventory===
+
+{{harvtxt|Awed|Underwood|Van Wynen|2004}} list seven [[vowel]] [[phoneme]]s, namely /a i e ɛ ə o ɔ u/ and 15 [[consonant]] phonemes shown in the chart below. Note that Tboli lacks /p/ as a phoneme and has /f/ instead, which is a [[linguistic typology|typological]] rarity among Philippine languages.
+
+{| class="wikitable" style="text-align:center;"
+|-
+!colspan=2|
+![[Labial consonant|Labial]]
+![[Coronal consonant|Coronal]]
+![[Dorsal consonant|Dorsal]]
+![[Glottal consonant|Glottal]]
+|-
+! colspan=2 | [[Nasal stop|Nasal]]
+|{{IPAlink|m}}
+|{{IPAlink|n}}
+|{{IPAlink|ŋ}} {{grapheme|ng}}
+|
+|-
+!rowspan=2 | [[Stop consonant|Stop]]
+!<small>voiced</small>
+|{{IPAlink|b}}
+|{{IPAlink|d}}
+|{{IPAlink|g}}
+|
+|-
+!<small>voiceless</small>
+|
+|{{IPAlink|t}}
+|{{IPAlink|k}}
+|{{IPAlink|ʔ}} {{grapheme|–}}
+|-
+! colspan=2 | [[Fricative]]
+|{{IPAlink|f}}
+|{{IPAlink|s}}
+|
+|{{IPAlink|h}}
+|-
+! colspan=2 | [[Approximant]]
+|{{IPAlink|w}}
+|{{IPAlink|l}}
+|{{IPAlink|j}} {{grapheme|y}}
+|
+|}
+
+===Stress===
+
+Final stress is the norm in Tboli rootwords; however the stress shifts to the previous syllable if the final vowel is a schwa.<ref name="Awed et al 2004" />
+
+===Phonotactics===
+
+Unlike most other Philippine languages and Austronesian languages in general, Tboli permits a variety of [[consonant clusters]] at the [[syllable#Onset|onset]] of a [[syllable]]. This is evident in the name of the language, /tbɔli/, but also in other words like  /kfung/ 'dust', /sbulon/, 'one month,' /mlɔtik/ 'starry,' /hlun/ 'temporarily,' /gna/ 'before,' and others.
+
+{{harvtxt|Awed|Underwood|Van Wynen|2004}} observe impressionistically there is a very short [[schwa]] pronounced in between the consonant cluster. However, these consonant clusters have not yet been analyzed [[acoustic phonetics|acoustically]].
+
+==Grammar==
+
+===Nouns===
+
+Unlike other Philippine languages, Tboli does not make use of [[grammatical case|case]]-marking [[article (grammar)|articles]].
+
+Plurality is marked by the article 'kem' preceding the noun; ''kudà'' "horse" (sg.), ''kem kudà'' "horses."
+
+===Pronouns===
+
+Tboli [[pronoun]]s indicate [[grammatical person|person]], [[grammatical number|number]], [[clusivity]], and grammatical role. {{harvtxt|Awed|Underwood|Van Wynen|2004}} group Tboli pronouns into two main categories based on what they term "[[focus (linguistics)|focus]]," which appear to be related to the [[absolutive case|absolutive]]-[[ergative case|ergative]] case system in other Philippine languages.  There are two further subcategories for each which deal with whether the singular pronouns behave as enclitics or as independent words. Their use depends on their role and position in a sentence.
+
+{| class="wikitable"
+|-
+! rowspan="2" |
+! colspan="2" | Focused
+! colspan="2" | Nonfocused
+|-
+! dependent || independent
+! dependent || independent
+|-
+| '''1st singular'''         || -e || ou/o || -u     || dou/do
+|-
+| '''2nd singular'''         || -i || uu/u || -em/-m || kóm
+|-
+| '''3rd singular'''         || ø  || du   || -en/n  || kun
+|-
+| '''1st person dual'''      || te || tu   || te     || kut
+|-
+| '''1st inclusive'''        || colspan="4" align="center" | tekuy
+|-
+| '''1st exclusive'''        || me || mi   || mi     || kum
+|-
+| '''2nd plural'''           || ye || yu   || ye     || kuy
+|-
+| '''3rd plural'''           || le || lu   || le     || kul
+|}
+
+Examples using the third person plural pronoun.
+
+* Mken '''le'''. "'''They''' eat." (focused, dependent pronoun).
+* '''Lu''' mken. "'''They''' are the ones who ate." (focused, independent pronoun)
+* Balay '''le'''. "'''Their''' house." (nonfocused, dependent pronoun).
+* Dwata semgyok  '''kul'''. "May God take care of them." (nonfocused, independent pronoun).
+
+===Syntax===
+
+[[Word order]] in Tboli is usually verb-subject-object, though there is some variation.
+
+{{interlinear|lang=tbl|indent=3
+|Mulu    le   sfu   soging.
+|planted they shoot banana
+|"They planted banana shoots."}}
+
+===Verbs===
+
+Tboli, like other Philippine languages, makes a distinction between [[transitive verb|transitive]] and [[intransitive verb]]s. Intransitive verbs are marked with the affix ''me-'' while transitive verbs are marked with ''ne-''. Unlike Philippine languages, applicative affixes are not used in Tboli though prepositions are used instead.
+
+Furthermore, [[grammatical aspect|aspect]] marking is not marked on the verb but with preverbal aspect markers such as ''deng'' (completed actions) and ''angat'' (incomplete action).
+
+===Morphology===
+
+Tboli makes use of [[prefix]]es and [[infix]]es. {{harvtxt|Awed|Underwood|Van Wynen|2004}} claim that [[suffix]]es do not exist in the language, though [[proclitic]] affixes may be thought of as such.
+
+==Writing system==
+
+Tboli has no official writing system, though the [[Latin script]] is usually used to write the language. The orthography is more or less similar to the one employed by [[Tagalog language|Tagalog]]: b, d, f, g, h, k, l, m, n, ng (for /ŋ/), s, t, w, and y (for /j/), though other letters may be used in writing foreign words.
+
+{{harvtxt|Awed|Underwood|Van Wynen|2004}} use a system of diacritics to accommodate the seven vowel phonemes of Tboli. The vowels are: a, i, é (for /ɛ/), e (for /ə/), ó (for /o/), u, and o (for /ɔ/).
+
+The glottal stop /ʔ/ is usually not represented in writing. Though the [[grave accent]] ` is used to represent it as in ''ngà'' /ŋaʔ/ "child" and ''gawì'' /gawiʔ/ "serving spoon." If a vowel already has a diacritic on it, then the [[circumflex accent]] ^ is used as in ''sdô'' /sdoʔ/ and ''bê'' /bɛʔ/ "don't."
+
+Awed et al. note that sometimes that the apostrophe may be used to break up an initial consonant cluster as in the name of the language; that is, ''T'boli'' instead of simply ''Tboli''. They note that native Tboli speakers have had "a very strong negative reaction" to this convention, preferring instead to write ''Tboli''.<ref name="Awed et al 2004">{{harvp|Awed|Underwood|Van Wynen|2004}}</ref>
+==References==
+{{Reflist}}
+{{refbegin}}
+* {{Cite book |last=Porter |first=Doris |url=https://www.sil.org/resources/archives/25541 |title=A Tboli Grammar |publisher=Linguistic Society of the Philippines |year=1977 |series=Philippine Journal of Linguistics, Special Monograph 7 |location=Manila, Philippines}}
+* {{Cite journal |last=Forsberg |first=Vivian M. |date=1992 |title=A Pedagogical Grammar of Tboli |url=https://www.sil.org/resources/archives/26122 |journal=Studies in Philippine Lingiustics |volume=9 |issue=1 |pages=1–110}}
+* {{Cite book |last=Awed |first=Silin A. |title=Tboli-English Dictionary |last2=Underwood |first2=Lillian B. |last3=Van Wynen |first3=Vivian M. |publisher=SIL Philippines |year=2004 |location=Manila, Philippines}}
+{{refend}}
+
+==External links==
+*[http://tboli.webonary.org tboli.webonary.org] - Online version of SIL's "Tboli - English Dictionary."
+
+{{Philippine languages}}
+{{Austronesian languages}}
+{{Languages of the Philippines}}
+
+[[Category:Languages of South Cotabato]]
+[[Category:Languages of Sultan Kudarat]]
+[[Category:Languages of Sarangani]]
+[[Category:South Mindanao languages]]
+
+
+{{philippine-lang-stub}}

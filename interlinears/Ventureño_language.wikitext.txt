@@ -1,0 +1,193 @@
+{{Short description|Extinct Chumashan language of California}}
+{{Infobox language
+|name=Ventureño
+|nativename={{lang|veo|Mitsqanaqa'n}}
+|states=[[United States]]
+|region=Southern [[California]]n coastal areas
+|extinct=mid 20th century
+|familycolor=American
+|fam1=[[Chumashan languages|Chumashan]]
+|fam2=Southern
+|fam3=Central
+|iso3=veo
+|glotto=vent1242
+|glottorefname=Ventureno
+|notice=IPA
+}}
+
+'''Ventureño''' is a member of the extinct [[Chumashan languages]], a group of [[Native Americans in the United States|Native American]] languages previously spoken by the [[Chumash people]] along the coastal areas of [[Southern California]] from as far north as [[San Luis Obispo]] to as far south as Malibu. Ventureño was spoken from as far north as present-day Ventura to as far south as present-day [[Malibu, California|Malibu]] and the [[Simi Hills]], [[California]]. Dialects probably also included [[Rancho Castac|Castac]] and Alliklik.<ref>Campbell 1997:126 {{full|date=November 2020}}</ref>
+
+Ventureño is, like its sister Chumashan languages, a [[polysynthetic]] language, having larger words composed of a number of morphemes. Ventureño has separate word classes of [[verb]], [[noun]], and oblique adjunct; with no separate word class for adjectives or adpositions.<ref name=Wash01>{{cite book | author = Wash, Suzanne M. | date = 2001 | title = Adverbial Clauses in Barbareño Chumash Narrative Discourse | location = Santa Barbara | publisher = University of California, Santa Barbara }}</ref> Nouns and verbs are often heavily [[affix]]ed (mostly [[Prefix (linguistics)|prefix]]ed) in Ventureño, affixing being a way to denote those meanings often conveyed by separate words in more [[analytic language]]s. Verbs play a primary role in Ventureño with utterances often composed only of a verb with clitics. Chumash word order is [[Verb–subject–object|VSO]]/[[Verb–object–subject|VOS]], or VS/[[VO language|VO]].<ref name=Dryer97>{{cite journal | author = Dryer, M. S.  | date = 1997 | title = On the Six-Way Word Order Typology, Studies in Language | volume = 21 | issue = 1 | pages = 69–103 }}</ref>
+
+==Phonology==
+Ventureño has a similar phonemic inventory to other Chumash languages. Ventureño consists of 30 consonants and 6 vowels.<ref name=Henry12>{{cite book | author = Henry, Timothy P.  | date = 2012 | title = A Pedagogical Grammar of Ventureño Chumash: Implementing Grammatical Theory in Grammar Writing | location = Santa Barbara | publisher = University of California, Santa Barbara}}</ref>
+
+===Vowels===
+Ventureño consists of a regular 5-vowel inventory with a sixth vowel transcribed as {{angbr IPA|ə}}.<ref name=Henry12/> In Barbareño transcriptions, {{angbr IPA|ɨ}} is used. It is not known whether these two phones are the same in both languages (and the difference in transcription merely one of convention), or whether the sounds were in fact different enough for Harrington to use different symbols.
+
+{| class="wikitable" style="text-align:center"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+| rowspan=2 | {{IPA link|ə}}
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+|
+| {{IPA link|a}}
+|
+|}
+
+===Consonants===
+
+{| class="wikitable" style="text-align:center"
+! colspan=2 rowspan=2 |
+! rowspan=2 |[[Bilabial consonant|Bilabial]]
+! colspan=2 | [[Alveolar consonant|Alveolar]]
+! rowspan=2 | [[Postalveolar consonant|Postalveolar]]/<br>[[Palatal consonant|Palatal]]
+! rowspan=2 | [[Velar consonant|Velar]]
+! rowspan=2 | [[Uvular consonant|Uvular]]
+! rowspan=2 | [[Glottal consonant|Glottal]]
+|-
+! <small>plain</small> || <small>[[sibilant]]</small>
+|-
+! rowspan=3 | [[Plosive]]/<br>[[Affricate]]
+! <small>plain</small>
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|t͡s}}
+| {{IPA link|t͡ʃ}}
+| {{IPA link|k}}
+| {{IPA link|q}}
+| rowspan=3 | {{IPA link|ʔ}}
+|-
+! <small>[[ejective consonant|ejective]]</small>
+| {{IPA link|pʼ}}
+| {{IPA link|tʼ}}
+| {{IPA link|t͡sʼ}}
+| {{IPA link|t͡ʃʼ}}
+| {{IPA link|kʼ}}
+| {{IPA link|qʼ}}
+|-
+! <small>[[aspiration (phonetics)|aspirated]]</small>
+| {{IPA link|pʰ}}
+| {{IPA link|tʰ}}
+| {{IPA link|t͡sʰ}}
+| {{IPA link|t͡ʃʰ}}
+| {{IPA link|kʰ}}
+| {{IPA link|qʰ}}
+|-
+! rowspan=2 | [[Fricative]]
+! <small>plain</small>
+|
+|
+| {{IPA link|s}}
+| {{IPA link|ʃ}}
+| {{IPA link|x}}
+|
+| {{IPA link|h}}
+|-
+! <small>aspirated</small>
+|
+|
+| {{IPA link|sʰ}}
+| {{IPA link|ʃʰ}}
+|
+|
+|
+|-
+! colspan=2 | [[Lateral consonant|Lateral]]
+|
+| {{IPA link|l}} ({{IPA link|ɬ}})<sup>1</sup>
+|
+|
+|
+|
+|
+|-
+! rowspan=2 | [[Sonorant]]
+! <small>plain</small>
+| {{IPA link|m}}
+| {{IPA link|n}}
+|
+| {{IPA link|j}}
+| {{IPA link|w}}
+|
+|
+|-
+! <small>[[glottalized]]</small>
+| {{IPA link|m̰}}
+| {{IPA link|n̰}}
+|
+| {{IPA link|j̰}}
+| {{IPA link|w̰}}
+|
+|
+|}
+
+==Orthography==
+Ventureño has been written in several different ways by different linguists.<ref name=Henry12/> John Peabody Harrington, who compiled most of the data on Ventureño, used a modified version of the [[International Phonetic Alphabet]]. Harrington differed from the International Phonetic Alphabet in the following symbols: a kappa {{angbr|к}} (small-cap 'k') for {{IPA|[q]}}, a {{angbr|q}} for {{IPA|[x]}}, a slanted bar {{angbr|ł}} for {{IPA|[ɬ]}}, a reversed apostrophe {{angbr|‘}} for aspiration, and a right-turned (standard) apostrophe {{angbr|’}} for a glottal stop (this symbol was also used for ejectives and glottalized sonorants).<ref name=Harrington81>Harrington, J. P. (1981). The Papers of John Peabody Harrington in the Smithsonian 1907-1957: A Guide to the Field Notes: Native American History, Language, and Culture of Southern California/Basin, vol. 3. Elaine L. Mills and Ann J. Brockfield, eds. Microfilm reels 69, 89, and 94 on Ventureño.</ref>
+
+The Barbareño/Ventureño Band of Mission Indians has adopted an [[Americanist phonetic notation|Americanist]] form of transcription for Ventureño based on the work done by Harrington: {{angbr|š}} for {{IPA|[ʃ]}}, {{angbr|ł}} for {{IPA|[ɬ]}}, {{angbr|x}} for {{IPA|[x]}}, {{angbr|ʰ}} for aspiration, {{angbr|y}} for {{IPA|[j]}}, and {{angbr|q}} for {{IPA|[q]}}. A standard apostrophe {{angbr|’}} continues to be used for a [[glottal stop]] {{IPA|[ʔ]}} and for denoting ejectives. [[glottalization|Glottalized]] sonorants {{IPA|[m̰, n̰, w̰, j̰]}} are written with a combining apostrophe over the symbol. This transcription is in keeping with most current Chumashists (such as Wash below) except that [[voiceless alveolar affricate|alveolar affricate]]s ({{IPA|[t͡s]}}) are written as {{angbr|ts}} in Ventureño, where other Chumashists write them as {{angbr|c}}. Likewise, Ventureño writes postalveolar affricates ({{IPA|[t͡ʃ]}}) as {{angbr|tš}}, where other Chumashists write this sound as {{angbr|č}}.
+
+==Morphology==
+Chumash morphology is fairly [[polysynthetic language|polysynthetic]]. This applies especially to the verbs of the language, which has over 15 distinct morphological slots (when counting nominalized verbs).
+This is illustrated in the table below by the nominalized verb meaning "your wanting to make fun of us".
+
+{{interlinear|indent=4
+|top = lošipałtšuyašuqonišpiyiyuw
+|lo- si- p- ʔal- suya- su- qoniš -pi -iyiyuw
+|DEM- ART- 2- NZ- DES- CAUS- {make fun of} -APL.LOC -1PL.REDUP
+|"your wanting to make fun of us"}}
+
+== Numbers ==
+The Chumash languages exhibit a [[quaternary numeral system]].<ref name=Harrington81 /><ref name=Beeler64>{{cite journal | author = Beeler, Madison S. | date = 1964 | title = Ventureño Numerals | journal = Studies in Californian Linguistics | volume = 34 | pages = 13–18 }}</ref><ref name=Beeler86>{{cite book | author = Beeler, Madison S.  | date = 1986 | title = Chumashan Numerals | work = Native American Mathematics | editor = Michael P. Closs | isbn = 0-292-75531-7}}</ref> The numbers 1–16 exhibit certain characteristics which are different from the method of counting from 17 to 32. In all places, however, the multiple of 4 usually has a unique term. Ventureño Chumash has the most complete, native Chumash system of numbers on record.
+
+{| class="wikitable"
+| 1 ''pakeʼet'' || 2 ''ʼiškom̓'' || 3 ''masǝx'' || 4 ''tskumu''
+|-
+| 5 ''yǝtipake’es'' || 6 ''yǝti’iškom̓'' || 7 ''yǝtimasǝx'' || 8 ''malawa''
+|-
+| 9 ''tspa'' || 10 ''ka’aškom'' || 11 ''tǝlu'' || 12 ''masǝx tskumu''
+|-
+| 13 ''masǝx tskumu kampake’et'' || 14 ''’iškom̓ laliet'' || 15 ''pake’et siwe (tšikipš)'' || 16 ''tšikipš''
+|-
+| 17 ''tšikipš kampake’et'' || 18 ''’iškom̓ siwe tskumu’uy'' || 19 ''pake’et siwe tskumu’uy'' || 20 ''tskumu’uy''
+|-
+| 21 ''tskumu’uy kampake’et'' || 22 ''’iškom̓ siwe itsmaxmasǝx'' || 23 ''pake’et siwe itsmaxmasǝx'' || 24 ''itsmaxmasǝx''
+|-
+| 25 ''itsmaxmasǝx kampake’et'' || 26 ''’iškom̓ siwe yitimasǝx'' || 27 ''pake’et siwe yitimasǝx'' || 28 ''yitimasǝx''
+|-
+| 29 ''yitimasǝx kampake’et'' || 30 ''’iškom̓ siwe ’iškom̓ tšikipš'' || 31 ''pake’et siwe ’iškom̓ tšikipš'' || 32 ''’iškom̓ tšikipš''
+|}
+
+== References ==
+{{reflist}}
+
+== External links==
+*[http://linguistics.berkeley.edu/~survey/languages/ventureno.php Ventureño language] overview at the [[Survey of California and Other Indian Languages]]
+*{{Cite web
+| title = Chumash Ventureño Sound Recording
+| work = Collections Search Center, Smithsonian Institution
+| access-date = 2012-07-20
+| url = http://collections.si.edu/search/results.htm?date.slider=&date.slider=&date.slider=&fq=online_media_type%3A%22Sound+recordings%22&q=&q=%22Tubatulabal%22&q=%22Chumash%22&fq=language:%22Venturen%7Eo%22&q=%22Venturen%7Eo%22
+}}
+*[http://www.language-archives.org/language/veo OLAC resources in and about the Ventureño language]
+*[http://cla.berkeley.edu/ventureno?tab=items&drestriction=all Ventureño at the California Language Archive]
+
+{{Languages of California}}
+
+{{DEFAULTSORT:Ventureno language}}
+[[Category:Chumashan languages]]
+[[Category:Indigenous languages of California]]
+[[Category:Extinct languages of North America]]
+[[Category:Languages extinct in the 20th century]]
+[[Category:History of Ventura County, California]]

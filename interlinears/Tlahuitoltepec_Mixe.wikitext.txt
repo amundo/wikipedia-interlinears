@@ -1,0 +1,432 @@
+{{Infobox language
+|name=Tlahuitoltepec Mixe
+|altname=South Highland Mixe
+|nativename=''Ayuujk''
+|states=[[Mexico]]
+|region=Northeastern [[Oaxaca]]
+|speakers=16,800
+|date=2000
+|ref=<ref>{{Cite news|url=https://www.ethnologue.com/language/mxp|title=Mixe, Tlahuitoltepec|work=Ethnologue|access-date=2018-07-28|language=en}}</ref>
+|familycolor=American
+|fam1=[[Mixe–Zoque languages|Mixe–Zoque]]
+|fam2=[[Mixean languages|Mixean]]
+|fam3=[[Mixe languages|Mixe]]
+|iso3=mxp
+|glotto=tlah1239
+|glottorefname=Tlahuitoltepec Mixe
+}}
+
+'''Tlahuitoltepec Mixe''', called '''South Highland Mixe''' in Wichmann (1995), is a [[Mixe languages|Mixe language]] spoken in [[Mexico]].
+
+South Highland Mixe consists of a core dialect, spoken in the towns of [[Tlahuitoltepec]], [[San Pedro y San Pablo Ayutla]], and [[Tamazulapan]], with divergent dialects in [[Tepuxtepec]], [[Tepantlali]], and [[Mixistlán]]. It is a [[polysynthetic language]] with [[Head-marking language|head marking]] and an inverse system.<ref name=":0" />
+
+== Phonology ==
+This phonology is from the Ayulta dialect.<ref name=":0">{{Cite web|url=https://search.proquest.com/openview/c03d979f7d2834985309564c6da4342f/1?pq-origsite=gscholar&cbl=18750&diss=y|title=A reference grammar of Ayutla Mixe (Tukyo'm ayuujk) - ProQuest|website=search.proquest.com|language=en|access-date=2018-07-28}}</ref> Ayutla Mixe has a total of 12 consonants and seven vowels.<ref name=":0" />
+
+===Consonants===
+The language does not have any liquids sounds; for instance, there are no /l/ or /r/ sounds used in their words. However, both /l/ and /r/ my be used in Spanish loan words.<ref name=":0" />
+
+{| class="wikitable" style="text-align:center"
+|+Consonants
+!
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Retroflex consonant|Retroflex]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+![[Plosive]]
+|{{IPAlink|p}}
+|{{IPAlink|t}}
+|
+|
+|{{IPAlink|k}}
+|{{IPAlink|ʔ}}
+|-
+![[Affricate]]
+|
+|{{IPAlink|t͡s}}
+|
+|
+|
+|
+|-
+![[Fricative]]
+|
+|{{IPAlink|s}}
+|{{IPAlink|ʂ}}
+|
+|
+|{{IPAlink|h}}
+|-
+![[Nasal consonant|Nasal]]
+|{{IPAlink|m}}
+|{{IPAlink|n}}
+|
+|
+|
+|
+|-
+![[Semivowel|Glide]]
+|
+|
+|
+|{{IPAlink|j}}
+|({{IPAlink|w}})
+|
+|}
+
+Below are some examples of consonants and their sounds.<ref name=":0" />
+
+{| class="wikitable"
+|+/p/ vs. /t/
+!/p/
+!/t/
+|-
+|{{interlinear|/puh/|[puh]|‘wash it’}}
+|{{interlinear|/tuh/|[tuh]|‘basket’}}
+|-
+|{{interlinear|/pɤːp/|[pɤːp̬]|‘white’}}
+|{{interlinear|/pɤːt/|[pɤːt̬]|‘cut!’}}
+|}
+{| class="wikitable"
+|+/p/ vs. /k/
+!/p/
+!/k/
+|-
+|{{interlinear|/pʌʌk/|[pʌʌk]|‘sweet’}}
+|{{interlinear|/kʌʌk/|[kʌʌk]|‘mamey’ (Pouteria sapota)}}
+|-
+|{{interlinear|/kʌp/|[kʌpʰ]|‘brother-in-law’}}
+|{{interlinear|/kʌk/|[kʌkʰ]|‘basket’}}
+|}
+{| class="wikitable"
+|+/p/ vs. /ʔ/
+!/p/
+!/ʔ/
+|-
+|{{interlinear|/pʌːʦ/|[pʌːʦ̬]|‘skunk’}}
+|{{interlinear|/ʔʌːʦ/|[ʔʌːʦ̬]|‘root’}}
+|-
+|{{interlinear|/pʌk/|[pʌkʰ]|‘pigeon’}}
+|{{interlinear|/ʔʌk/|[ʔʌkʰ]|‘skin’}}
+|}
+
+===Vowels===
+{| class="wikitable" style="text-align:center"
+|+Vowels
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPAlink|i}}
+|{{IPAlink|ɨ}}
+|{{IPAlink|u}}
+|-
+![[Close-mid vowel|Close-mid]]
+|{{IPAlink|e}}
+|
+|{{IPAlink|ɤ}}
+|-
+![[Open-mid vowel|Open-mid]]
+|
+|
+|{{IPAlink|ʌ}}
+|-
+![[Open vowel|Open]]
+|{{IPAlink|a}}
+|
+|
+|}
+Below are some examples of vowels and their sounds. These examples show how the change in specific letters can change the meaning of the word.
+
+{| class="wikitable"
+|+ /a/ vs. /e/
+!/a/
+!/e/
+|-
+|{{interlinear|/kaj/|[kaj]|‘eat’}}
+|{{interlinear|/kej/|[kej]|‘rabbit’}}
+|-
+|{{interlinear|/tamp/|[tampʰ]|‘he pours’}}
+|{{interlinear|/temp/|[tempʰ]|‘it rolls’}}
+|}
+
+{| class="wikitable"
+|+ /a/ vs. /i/
+!/a/
+!/i/
+|-
+|{{interlinear|/taː/|[taː]|‘then’}}
+|{{interlinear|/tiː/|[tiː]|‘what’}}
+|}
+
+{| class="wikitable"
+|+ /a/ vs. /ɤ/
+!/a/
+!/ɤ/
+|-
+|{{interlinear|/tkaʂn/|[θkaʂnʰ]|‘he had told’}}
+|{{interlinear|/tkɤʂn/|[θkɤʂnʰ]|‘he had punched’}}
+|-
+|{{interlinear|/tkaht/|[θkahtʰ]|‘he untied it’}}
+|{{interlinear|/tkɤht/|[θkɤhtʰ]|‘he did it (irrealis)’}}
+|}
+
+{| class="wikitable"
+|+ /a/ vs. /u/
+!/a/
+!/u/
+|-
+|{{interlinear|/tkaht/|[θkahtʰ]|‘he untied (irrealis)’}}
+|{{interlinear|/tkuht/|[θkuhtʰ]|‘he threw it away (irrealis)’}}
+|-
+|{{interlinear|/tkamn/|[θkamn̥]|‘he has fenced it’}}
+|{{interlinear|/tkumn/|[θkumn̥]|‘he has stabbed him’}}
+|}
+
+{| class="wikitable"
+|+ /a/ vs. /ʌ/
+!/a/
+!/ʌ/
+|-
+|{{interlinear|/maʦ/|[maʦ]|‘come!’}}
+|{{interlinear|/mʌʦ/|[mʌʦ]|‘grab it!’}}
+|-
+|{{interlinear|/tan/|[tan]|‘stand!’}}
+|{{interlinear|/tʌn/|[tʌn]|‘late’}}
+|}
+
+==Gramatical description to merge into article==
+[[File:Ayutla, Mixe, Oaxaca (49763673686).jpg|thumb|This is a picture of [[San Pedro y San Pablo Ayutla]] ]]
+[[File:Ayutla, Mixe, Oaxaca (49763664746).jpg|thumb|[[Yásnaya Elena Aguilar Gil]] is a well known linguist from the Ayutla [[Mixe people|Mixe]] community]]
+The following description is based on the language as spoken in Ayutla, which is known as ''Tukyo’m Ayuujk'' in the language.<ref name=":0" />{{dubious|date=December 2020}}
+
+Mendez states that 3,617 communicated in Ayutla Mixe in 2005. The number who were monolingual started decreasing after 1960.<ref name=":0" /> The children from [[San Pedro y San Pablo Ayutla]] do not speak fluently as their parents because schools only offered instruction in Spanish.<ref name=":0" /> In his paper, Romero Mendez states that the [[Mixe languages|Mixe]] languages including Ayutla [[Mixe languages|Mixe]], shares features that relates to the [[Mayan languages|Mayan]] languages.<ref name=":0" /> According to Romero Mendez, there are only a small number of people  who still wear traditional clothing which consists mostly women. In his paper, Romero Mendez states " All the Catholic celebrations are observed in Ayutla, including [[Easter]], the [[Day of the Dead]], and [[Christmas]]".<ref name=":0" /> A current issue happening in the  Ayutla community is their fight for proper access to water.<ref name=":3" /> In ''Agua Para Ayutla Ya, Ordena Juez'', Pedro Matias states that the governor of  [[Oaxaca]], [[Alejandro Murat Hinojosa]], has not restored the water pipeline that would provide access to water despite being ordered to do so by a federal judge.<ref name=":3">{{cite web|last=Matías|first=Pedro|date=2020-08-13|title=Agua para Ayutla ya, ordena juez|url=https://piedepagina.mx/agua-para-ayutla-ya-ordena-juez/|access-date=2020-12-19|website=Pie de Página|language=es}}</ref> The Ayutla Mixe community is where [[Yásnaya Elena Aguilar Gil]] comes from and she is a well known linguist.<ref name=":2">{{cite web|date=2020-10-26|title=National Borders Have Colonized Our Imagination|url=https://thebaffler.com/latest/the-map-and-the-territory-aguilar-gil|access-date=2020-12-19|website=The Baffler|language=en-US}}</ref> In ''The Map and the Territory,'' Yásnaya mentions that  people from the Ayutla [[Mixe people|Mixe]] community who migrate to the [[United States]] believe that the spirit of their community is being recreated in places that are away from their home.<ref name=":2" />
+
+=== Plural ===
+In the plural nominal morphology a noun doesn't need to take plural form and if it does there needs to be a human to which a phrase refers. The plural suffix is -tëjk in Ayutla Mixe.<ref name=":0k">{{cite web|title=A reference grammar of Ayutla Mixe (Tukyo'm ayuujk) - ProQuest|url=https://search.proquest.com/openview/c03d979f7d2834985309564c6da4342f/1?pq-origsite=gscholar&cbl=18750&diss=y|access-date=2020-12-18|website=search.proquest.com|language=en}}</ref>
+
+== Possessive morphology ==
+In Ayutla Mixe it expresses possessive morphology by adding the following prefix n - first person singular, m - second person singular, y- third person singular.<ref name=":0" />
+
+Romero - Mendez lists the following examples:<ref name=":0" />
+
+# n-uk ‘my dog’
+# m-uk ‘your dog’
+# y-uk ‘his dog’
+
+There are no articles in Ayutla language to define definiteness.
+
+== Adjectives ==
+Adjectives are modifiers that can help modify a noun. The adjective can be found after the noun, non-verbal predication, secondary prediction, and it rarely found inside the noun phrase.<ref name=":0" />
+
+Romero - Mendez lists the adjective between the noun and demonstrative below:<ref name=":0" />
+
+{{interlinear|indent=3|glossing=no abbr
+|top= Tu'uk mëjnaxy kipy kyäjpn.
+|tu’uk mëj-näx+y kipy y-käp-n
+|one big+INTENS stick 3S-be.stick-PERF;DEP
+|‘There was a big stick.’}}
+
+== Number and numerals in the noun phrase ==
+In Rodrigo Romero - Mendez dissertation paper, A Reference Grammar of Ayutla Mixe (Tukyo’m Ayuujk), states, "The NP jä’äy ‘person’ in (42) can be interpreted as having a singular or plural referent.".<ref name=":0" />
+
+{{interlinear|indent=3|glossing=no abbr
+|top= Japëk jä'äy tsyäkäixy.
+|jajp{{=}}ëk jä’äy y-tsäkäj-ex-y
+|DEIC.D{{=}}HEARSAY person 3S-bull-see-DEP
+|‘A person/people was/were looking after cattle’.}}
+
+The examples listed below by the author, Rodrigo Romero- Mendez, are cardinal numerals or ordinal numerals.<ref name=":0" />
+
+{{interlinear|indent=3|glossing=no abbr
+|top= Nëtëkëëk y'ejty.
+|në-tëkëëk y-et-y
+|ANIM-three 3S-exist-DEP
+|‘There were three (girls).’}}
+
+{{interlinear|indent=3|glossing=no abbr
+|top= Te’n yä’ät mëtu’uk... yak’ixy.
+|te’n yä’ät më-tu’uk y-ak-ex-y
+|V.DEM DEM.P ORD-one 3S-CAUS-see-DEP
+|‘And that is how we see the first one.’}}
+
+== Possession in NPs ==
+In order to show possession in a noun phrase, a possessive prefix needs to be placed on the noun its possessing and whoever is doing the possession needs to be before the head noun.<ref name=":0" />
+
+The author, Romero - Mendez, gives an example of a possession in a noun phrase below:<ref name=":0" />
+
+Prefix that shows possession: yë’ë<ref name=":0" />
+
+{{interlinear|indent=3|glossing=no abbr
+|top= Yë’ jä’äy tyistyëjk.
+|yë’ë jä’äy y-tixytyëjk
+|DEM.M person 3POSS-woman
+|‘That person’s wife.’ (IreL-64)}}
+
+The author, Romero - Mendez, gives an example of a head noun only possession below:<ref name=":0" />
+
+{{interlinear|indent=3|glossing=no abbr
+|top= Jëts, jajp ijty mteexy mtäsu'nk xmëtätta?
+|Jëts jajp ijty m-teexy m-täs-u'nk xmëët-ät-t{{=}}a
+|and DEIC.D IMPF 2POSS-dish 2POSS-cup-DIM 2A-ASSOC-VRBLZ-PL;DEP{{=}}Q|}}
+
+== Verbal Morphology ==
+When the inflectional morphology is removed, one is left with the verb stem. The verbal template = verb stem - then person prefix - then aspect-mood suffix.<ref name=":0" />
+All the possible verbal slots in Ayutla Mixe:<ref name=":0" />
+{| class="wikitable"
+|Markers Person
+|Non-nominal
+“Incorporation”
+|Motion cum purpose
+|Directional and locative Reflexive
+|Reflexive
+|Causative
+|Applicative
+|Benefactive
+|Incorporation slot
+|Part
+|Verbal Root (manner)
+|MainVerbal Root ( Semantic head)
+|Roots
+|Desiderative
+|INV-PERFPL-AM
+|}
+
+== Word order ==
+The order of the subject with respect to the object or the verb, does not cipher grammatical relations, which makes Mixe a fairly flexible word order of components.
+
+It is normal to find similarities between the order of the object with respect to the verb and the order of other pairs of elements from a typological perspective, such as the ordering of a noun phrase and the adposition or the ordering of a verb and an adverb in a manner.
+
+Ayutla Mixe presents characteristics that may connect with both VO of OV dialects. Indeed, in spite of the fact that it is troublesome to draw generalizations as to which of the two conceivable outcomes in case more fundamental –and in reality is appears best fair to state that Ayutla Mixe has both sorts of characteristics, it is worth displaying the foremost critical of those characteristics as they give valuable data approximately requesting of elements in common within the dialect.
+
+It is worth noticing that the illustrations for deciding word arrangement have to be taken from content, not from elicitation, as the word arrange can be affected by the contact dialect (which was Spanish) in phonetic elicitation.
+
+Ayutla Mixe does not display a clear inclination of requesting components for the autonomous stamping. S can show up either some time recently or after the verb.
+
+It appeared within the past segment that Mixe does not have a preferred word arranged within the free checked clauses. In subordinate checked clauses, OV word orders are more common than VO. It has appeared that the arrangement of the O with regard to the V has a few relationships with the arrangement of other sets of components. The recognizes between word arrange characteristics that connect bidirectionally with the arrange of verb and protest, and word arrange characteristics that relate unidirectionally.
+
+; Word order generalizations
+
+* Manner adverb and verb
+* Possessor and posses sum
+* Noun phrase and adposition
+* Standard of comparison, comparison mark and adjective
+* Verb and adpositional phrases
+* Verb and non-argument noun phrases
+
+Ayutla Mixe presents characteristics of both VO and OV dialects.
+
+== Personal pronouns ==
+1st and 2nd individual pronouns appear a qualification between free and poststressed shapes. Both sorts recognize between solitary and plural and a few of the poststressed pronouns too recognize 2 case shapes. Free pronouns are utilized fundamentally when the pronoun is fronted for focus. The free pronouns are:
+
+{| class="wikitable" 
+|-
+! 
+! singular
+! plural
+|-
+! first EX
+| shuhú || ndɨhɨ
+|-
+! first IN
+| -- || shohō
+|-
+! second
+| shōhon || ndōho
+|}
+
+The noninclusive plural shapes show up to be a combination of ndɨhɨ ‘all’ with the comparing solitary shapes.
+
+Poststressed pronouns have partitioned case shapes for subject and question in 1st and 2nd individual particular and comprehensive, but not in 1st individual select and 2nd individual plural. The post stressed pronouns are:
+
+{| class="wikitable" 
+|-
+! rowspan="2" | 
+! colspan="2" | Subject
+! colspan="2" | Object
+|-
+! singular || plural
+! singular || plural
+|-
+! first EX
+| ú || ndɨ || kó || ndɨ
+|-
+! first IN
+| -- || ō || -- || kō
+|-
+! second
+| -n || ndo || o || ndo
+|}
+
+Ayutla Mixe has individual pronouns as it were for 1st and 2nd individual, but not for 3rd, demonstratives are utilized for 3rd individual.
+{| class="wikitable"
+!
+!Singular
+!Plural
+|-
+!1st person exclusive
+|ëjts
+|ëëts(t)
+|-
+!1st person inclusive
+|
+|atäm
+|-
+!2nd person
+|mëjts
+|meets(t)
+|-
+!3rd person
+|demonstratives
+|demonstratives
+|}
+The set of individual pronouns displayed over can be utilized for any linguistic connection without any extra stamping. In other words, individual pronouns are not checked for case.
+
+== Adverbs/adverb ahrases==
+
+Adverbs are locative, temporal, general intensifying, or interrogative. Locative qualifiers include all locational words that are not things or relational words; they happen basically as locative aides and locative fringe components.
+
+Locative qualifiers are primarily 2 sorts: verb-modifying demonstratives and locative expressions with portion morphemes. There are, in any case, a number of that don't drop into either of those categories which show vicinity or remoteness.
+
+The poststressed forms a ‘here’ and kān ‘there’ are regularly utilized to end word intensifying thing expressions and essential verb modifier expressions. Transient qualifiers are basic or complex; they include all transient words and figures of speech that are not things. They happen as time fringe components.
+
+Temporal adverbs are utilized to demonstrate or arrange the requesting of occasions with regard to the subject time.
+
+In general, they tend to appear at the beginning of the sentence (a) or at the end (b), but some of them also appear after the negative particle ''ka’t''.
+
+Calendrical words can be distinguished because they can take the suffix -ëp.
+
+The words that take the suffix -ëp are:
+
+# xëë xëëp ‘days ago’
+# semään semäänëp ‘weeks ago’ (Spanish loan.)
+# po’o xo’op ‘months ago’
+# mes mesëp ‘month ago’ (Spanish loan.)
+# jëmëjt jëmëjtëp years ago’
+
+General adverbs include all way of words that are not stative verbs. They are simple or complex.
+
+== Types of clauses or sentences ==
+In unbiased autonomous angle, the non-verbal predicate shows up in juxtaposition with the subject, without any obvious copula. More often than not, the non-verbal predicate shows up in the introductory position and the subject shows up after it.
+
+”In non-verbal predication there is a form that will be called dependent conjugation in analogy with inflectional dependency in non-verbal predication.The dependent conjugation only arises when there is a negative particle, even if there is no copula, and it is marked using the person prefixes for intransitive verbs in the adjective (namely n- for the first person, m- for the second person and y- for the third person) and by changing the word order. In negative sentences, the negative typically appears in initial position, followed by the subject, and finally the adjectival predicate, marked with a person prefix.” <ref name=":0" />
+
+A major contrast between verbal and non-verbal predication is that within the last mentioned the dependency is stamped as it were within the nearness of a negative molecule and in no other settings.
+
+Things are moreover utilized as non-verbal predicates. As appeared for descriptive words, the main predicate shows up more often than not in starting position, and it shows up in juxtaposition with the subject.
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Incubator|code=mxp}}
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0005 Ayutla Mixe language documentation materials]
+
+{{Mixe-Zoque languages}}
+
+[[Category:Mixe–Zoque languages]]

@@ -1,0 +1,333 @@
+{{Infobox language
+|name=Savosavo
+|states=[[Solomon Islands]]
+|region=Savo Island, north of Guadalcanal, Central Solomons.
+|speakers={{sigfig|2415|2}} 
+|date=1999
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Central Solomons languages|Central Solomons]]
+|iso3=svs
+|glotto=savo1255
+|glottorefname=Savosavo
+}}
+
+'''Savosavo''' is an endangered language spoken on [[Savo Island|Savo]], a small volcanic island north of [[Guadalcanal]] in the [[Solomon Islands]]. Savosavo is one of the [[Central Solomon languages]], which are [[Papuan languages]], unlike most of the languages in the vicinity, which are members of the [[Oceanic languages|Oceanic]] branch of the [[Austronesian language family]]. There are close to 3,000 speakers of Savosavo, and it is the easternmost Papuan language in the Pacific. Savosavo is the main language of nine of the twelve districts in the Solomon Islands. The closest Papuan language to Savosavo is the Central Solomon [[Lavukaleve language|Lavukaleve]], spoken in the [[Russell Islands]] to the west. Other neighbor languages are [[Bughotu language|Bughotu]], [[Ghari language|Ghari]], and [[Lengo]], Bughotu is to the north, while Ghari and Lengo are to the south, and are spoken on [[Guadalcanal]].<ref name="Individual Research Activities 1962">{{Cite journal |date=1962 |title=Individual Research Activities |journal=Oceanic Linguistics |volume=1 |issue=1 |pages=12–28 |doi=10.2307/3622765 |jstor=3622765}}</ref> 
+
+== Speakers ==
+Speakers on Savo are known as agriculturalists. Vegetables and fruit are the main source of food while fish, chicken, and rice round out the overall diet. Rice is also an important commodity, but it has to be bought and is not grown on Savo.<ref name="Wegener 2012 p 1">{{harvp|Wegener|2012|page=1}}</ref> A large number of people on Savo are without regularly paid work. To earn income, they sell commodities such as cocoa beans or garden produce at local markets or in the capital Honiara.<ref name="Individual Research Activities 1962" />
+
+Clan lineages are important to the people of Savo, as it makes up their [[social organization]]. A clan leader is known as 'chief' and there is one for each of the six clans on Savo. These leaders are all part of the Savo Ghizi Kato [[House of Chiefs]] and are important on the local levels.<ref name="Wegener 2012 p 1" /> The six clans are Ghaubata, Kakau, Lakuili, Kiki, Tanakidi, and Zoqo. Land in Savo is owned by the clans and not the individuals. Each member of the clan has the rights to a portion of land, but it must be connected to his/her mother's ancestors.<ref name="Individual Research Activities 1962" />
+
+The [[Central Province (Solomon Islands)|Central Province]] is known to have the lowest literacy rates of the Solomon Islands. As a result, literacy of languages such as Savosavo are small. The language is rarely used in writing, since most people only go through a few years of schooling. Savosavo is used in minor situations such as letters, notes, and notices to the public.<ref name="Wegener 2012 p 4">{{harvp|Wegener|2012|page=4}}</ref>
+
+== Phonology ==
+Savosavo has five vowels and 17 consonants.<ref name="Wegener 2012 p 13">{{harvp|Wegener|2012|page=13}}</ref>
+
+{{col-begin}}
+{{col-3}}
+{|class=wikitable style="text-align: center"
+|+Savosavo Vowel Phonemes
+! 
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+|{{IPAlink|i}}|| ||{{IPAlink|u}}
+|-
+! [[Mid vowel|Mid]]
+|{{IPAlink|e}}|| || {{IPAlink|o}}
+|-
+! [[Open vowel|Open]]
+| ||{{IPAlink|a}}||
+|}
+
+{{col-3}}
+{|class=wikitable style="text-align: center"
+|+Savosavo Consonant Phonemes
+! colspan="2" |
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+|-
+! rowspan="2" | [[Plosive]]
+! {{small|voiceless}}
+| {{IPAlink|p}}||{{IPAlink|t}}|| ||{{IPAlink|k}}
+|-
+! {{small|voiced}}
+| {{IPAlink|ᵐb}}||{{IPAlink|ⁿd}}||{{IPAlink|ᶮɟ}}||{{IPAlink|ᵑɡ}}
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}||{{IPAlink|n}}||{{IPAlink|ɲ}}||{{IPAlink|ŋ}}
+|-
+! rowspan="2" | [[Fricative]]
+! {{small|voiceless}}
+| ||{{IPAlink|s}}|| || 
+|-
+! {{small|voiced}}
+| ||{{IPAlink|z}}|| || 
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+| ||{{IPAlink|r}}|| ||  
+|-
+! colspan="2" | [[Lateral consonant|Lateral]]
+| ||{{IPAlink|l}}|| || 
+|-
+! colspan="2" | [[Approximant]]
+|{{IPAlink|β̞}}|| || ||{{IPAlink|ɰ}}
+|}
+{{col-3}}
+{{col-end}}
+
+Vowels have no length contrast, and the vowels /e/, /i/, /o/, and /u/ vary freely between different allophones.
+=== Consonants ===
+In total there are four places and six manners of articulation for consonants.
+
+There are three voiceless stops: /p/, /t/, and /k/ and four voiced stops: /b/, /d/, /ɟ/ and /g/.<ref name="Wegener 2012 p 14">{{harvp|Wegener|2012|page=14}}</ref>
+{| class="wikitable"
+|+
+Minimal contrast between consonants<ref name="Wegener 2012 p 18">{{harvp|Wegener|2012|page=18}}</ref>
+!
+!Initial
+!Medial
+|-
+|p:b
+|'''''p'''uzu'' 'waist'
+'''''b'''uzu'' 'breadfruit'
+|''ka'''p'''u'' 'to be full'
+''ka'''b'''u'' 'to run away'
+|-
+|p:v
+|'''''p'''azu'' 'palm leaf'
+'''''v'''azu'' 'to bud'
+|''sa'''p'''e'' 'to follow'
+''sa'''v'''ea'' 'fin'
+|-
+|b:v
+|'''''b'''oli'' 'intestines'
+'''''v'''oli-li'' 'to buy'
+|''la'''b'''u'' 'belly button'
+''la'''v'''u'' 'place'
+|-
+|b:m
+|'''''b'''arata'' 'hillside'
+'''''m'''arara'' 'to be bright'
+|''ka'''b'''a'' 'shell'
+''ka'''m'''a'' 'armpit'
+|-
+|t:d
+|'''''t'''ada'' 'man'
+'''''d'''ada'' 'to be afraid'
+|''pa'''t'''a-li'' 'to separate rope'
+''pa'''d'''a-li'' 'to count'
+|-
+|d:n
+|'''''d'''ata'' 'outside'
+'''''n'''ata'' 'flat area'
+|''vu'''d'''u'' '(boy)friend'
+''vu'''n'''u-li'' 'to smell'
+|-
+|d:r
+|'''''d'''oi'' 'earth'
+'''''r'''oi'' 'to sink'
+|''ku'''d'''o'' 'hen'
+''ku'''r'''o'' 'pot'
+|-
+|r:l
+|'''''r'''aju'' 'level ground'
+'''''l'''-aju'' 'to finish'
+|''ku'''r'''o'' 'pot'
+''ku'''l'''o'' 'seawards'
+|-
+|r:n
+|'''''r'''ata'' 'to be slippery'
+'''''n'''ata'' 'flat area'
+|''u'''r'''a'' 'crayfish'
+''u'''n'''a'' 'earring'
+|-
+|s:z
+|'''''s'''ala'' 'to follow'
+'''''z'''ala-li'' 'to look for'
+|''po'''s'''ovata'' 'yellow'
+''po'''z'''ogho'' 'bottom'
+|-
+|g:ng
+|'''''q'''asi-li'' 'to close'
+'''''ng'''asi'' 'to be hard'
+|''ko'''q'''a-li'' 'to erect posts'
+''ko'''ng'''a-li'' 'to worship'
+|}
+
+=== Vowels ===
+The vowels have no length contrast, and the vowels /e/, /i/, /o/ and /u/ vary freely between different [[Allophone|allophones]]. 
+
+Sequences of identical vowels are not allowed in Savosavo.<ref name="Wegener 2012 p 20">{{harvp|Wegener|2012|page=20}}</ref> All other sequences are allowed. 
+
+* a and e – ''ae'' (to be married)
+* e and a – ''onea'' (to listen)
+* i and o – ''pio'' (man)
+* o and e – ''dodoe'' (4th gen relative)
+* u and i – ''koi'' (eight)
+
+{| class="wikitable"
+|+Minimal contrast between vowels <ref name="Wegener 2012 p 20" />
+!
+!Initial 
+!Final
+|-
+|a:e:i
+|'''''a'''ghe'' 'we'
+'''''e'''ghe'' '[[Canarium|Ngali nut tree]]'
+
+'''''i'''ghe'' 'recently'
+|''kat'''a''''' 'bushwards'
+''k-at'''e''''' 'to hold'
+
+kat'''i''' 'bushwards'
+|-
+|o:u
+|'''''o'''ra'' 'to burn'
+'''''u'''ra'' 'crayfish'
+|''ka'''o''''' 'bushwards'
+''k-a'''u''''' 'to take'
+|}
+
+== Orthography ==
+The Savosavo language has 5 vowels (a, e, i, o, u) and 17 consonants (b, d, g, gh, j, k, l, m, n, gn, ng, p, r, s, t, v, z). This is the Anglican orthography. In the Catholic orthography, G is written Q, and Gh is written G. In other orthographies, Gn is written Ñ, and Ng is written N̄.<ref>{{Cite web |title=Savosavo Language, Alphabet and Pronunciation |url=http://www.omniglot.com/writing/savosavo.htm |access-date=2018-06-07 |website=omniglot.com}}</ref>
+
+== Grammar ==
+
+=== Verbs ===
+Verbs usually mark tense, aspect and mood. They are by the far the largest word class in Savosavo, making up 47% of the overall word class. There are three types of verbs in Savosavo.<ref>{{harvp|Wegener|2012}}</ref>
+
+==== Transitive verbs ====
+[[Transitive verb]] stems have object marking. These verbs usually agree with their object in person (number) and in the third person singular (gender) using suffixes, prefixes, and stem modification.<ref>{{harvp|Wegener|2012|page=50–53}}</ref> 
+
+* Stems taking prefixes only:
+** ''l-agha'' 'to marry'
+** ''l-aka'' 'to help '
+** ''l-au'' 'to take'
+** ''l-eghe'' 'to see'
+** ''l-ogha'' 'to weave'
+** ''l-ogo'' 'to collect'
+
+* Stems taking both prefixes and suffixes:
+** ''l-ave-li'' 'to kill'
+** ''l-ogho-li'' 'to fill'
+** ''l-ova-li'' 'to bite'
+** ''l-ogha-li'' 'to own'
+** ''l-ame-li'' 'to give'
+** ''l-esgangi-li'' 'to spoil'
+* Stems showing stem modification
+** ''sala'' 'to follow'
+** ''solo'' 'to throw'
+** ''pala'' 'to make'
+** ''bola'' 'to shoot'
+* Stems taking suffixes only:
+** ''aghi-li'' 'to pull'
+** ''jurake-li'' 'to shatter'
+** ''rami-li'' 'to shoot'
+
+==== Intransitive verbs ====
+[[Intransitive verb]] stems usually are without object marking. The suffix -vi can only be used on four intransitive verbs. When the suffix is added, there also has to be an object marking suffix.<ref>{{harvp|Wegener|2012|page=55}}</ref>
+
+* ''sogha'' (to jump) + -vi = ''sogha-vi-li''{{verify inline|date=February 2020}}
+* ''raghe'' (to run) + -vi = ''raghe-vi li''
+* ''sara'' (to reach) + -vi = ''sara-vi-li'' 
+* ''tete'' (to balance) + -vi = ''tete-vi-li''
+
+There are also transitive verbs that cannot be transitivized. Examples are ''ngori'' 'to snore', ''bo'' 'to go', and ''vige'' 'to dry'.
+
+==== Ambitransitive verbs ====
+[[Ambitransitive verb]] stems can occur with or without object marking. These verbs use suffixes to mark their object.<ref>{{harvp|Wegener|2012|page=56}}</ref> 
+
+* ''ghavi'' 'to paddle' = ''ghavi-li'' 'to paddle a canoe'
+* ''ale'' 'to enter' = ''ale-li'' 'to enter something'
+* ''sali'' 'to wash away' = ''sali-li'' 'to wash something away'
+* ''kasanga'' 'to be angry' = ''kasanga-li'' 'to be angry about'
+
+=== Nouns ===
+Nouns are the second largest word class in Savosavo, making up around 40% of the overall word class. Nouns can be derived from verbs by the suffix ''-ghu.'' Another way to differentiate nouns from verbs in the concept of reduplication. This occurs when nouns can be duplicated to insinuate a verb.<ref name="Individual Research Activities 1962" />
+
+* elu 'Ngali nut' = élu~elu 'to gather Ngali nuts'
+* kumara 'sweet potato' = kuma~kumara 'to harvest sweet potatoes'
+* kosu 'bird' = kosu~kosu 'to hunt for birds'
+* itoro 'walking stick' = ito~itoro 'to walk with a walking stick'
+
+Many of the language names were actually made by duplicating the place where the language was spoken. This is how Savo~savo came to be. 
+
+Overall, nouns are required to be verbalized using the suffix ''-sa'' in order to function as the head of the verb phrase:
+
+* Lo mavutu=na ka '''molumolu-sa'''-zu (The place was already an island)
+
+== Number System ==
+Savosavo's number system is based on the decimal counting system. What is interesting about this counting system is that there are two different words for 'one'. These words are ''ela'' and ''pade''. ''Ela'' is usually used either in counting or to denote the numeral 'first'. As a modifier it means 'some'.<ref name="Wegener 2012 p 73">{{harvp|Wegener|2012|page=73}}</ref>
+
+{{interlinear|indent=3
+|Moka '''ela''' mapa{{=}}gha{{=}}na ata tetegha{{=}}la.
+|'Maybe some people (are) here at the mountain.'}}
+
+''Pade'' as a modifier is usually shortened to ''pa''. 
+
+{{interlinear|indent=3
+|No '''pa''' kibo{{=}}e loa{{=}}na.
+|'That is one of your sins.'}}
+
+{| class="wikitable"
+| 1 || ela (pade/pa) || 30 || ighivaleza
+|-
+| 2 || edo || 40 || aghavaleza
+|-
+| 3 || ighiva || 50 || aratale
+|-
+| 4 || aghava || 60 || poghoatale
+|-
+| 5 || ara || 70 || poghoroatale
+|-
+| 6 || poghoa || 80 || kuiatale
+|-
+| 7 || poghoro || 90 || kuavatale
+|-
+| 8 || kui || 100 || pa kela
+|-
+| 9 || kuava || 200 || edo kela
+|-
+| 10 || atale || 269 || edo kelagha poghoatale kuava
+|-
+| 11 || panipiti || 999 || kuava kelagha kuavatale kuava
+|-
+| 20 || nebolo || 1,000,000 || pa mola
+|}
+
+Besides numerals, there are also other quantifiers:
+
+* ''alea'' 'how many, however many'
+* ''elave'' 'some more'
+* ''padenge'' 'only one'
+* ''pameve''/''pame'' 'one more'
+* ''daivata'' 'plenty'
+* ''du(lo)'' 'all'
+* ''palea''/''paleva'' 'few'
+
+==Notes==
+{{reflist}}
+
+==References==
+{{refbegin}}
+* {{Cite journal |last=Wegener |first=Claudia |year=2006 |title=Savosavo body part terminology |journal=Language Sciences |volume=28 |issue=2–3 |pages=344–359 |doi=10.1016/j.langsci.2005.11.005 |hdl-access=free |hdl=11858/00-001M-0000-0013-183C-A}}
+* {{Cite thesis |last=Wegener |first=Claudia |date=2008 |title=A Grammar of Savosavo, a Papuan Language of the Solomon Islands |degree=PhD |publisher=Radboud Universiteit Nijmegen}}
+* {{Cite book |last=Wegener |first=Claudia |title=A Grammar of Savosavo |date=2012 |publisher=De Gruyter |isbn=9783110289657 |location=Berlin}}
+{{Refend}}
+
+== External links ==
+* Materials on Savosavo are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]].
+
+{{coord|9.13|S|159.81|E|display=title}}
+
+{{Languages of the Solomon Islands}}
+
+[[Category:Languages of the Solomon Islands]]
+
+[[Category:Central Solomon languages]]

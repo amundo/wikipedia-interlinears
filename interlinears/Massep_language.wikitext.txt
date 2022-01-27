@@ -1,0 +1,134 @@
+{{Short description|Foja Range language spoken in Indonesia}}
+{{Infobox language
+  |name=Massep
+  |nativename=Wotaf
+|region = [[Papua (Indonesian province)|Papua]]: [[Sarmi Regency]], [[:id:Pantai Barat, Sarmi|West Pantai District]], north coast (Masep village); also west of Sarmi near [[Apauwer River]]
+|states = [[Indonesia]]
+  |ethnicity=85 (2000)<ref name=e18/><ref name=e15>{{e15|mvs}}</ref>
+  |speakers=25
+  |date=2000
+  |ref=e18
+  |familycolor=Papuan
+  |fam1=[[Foja Range languages|Foja Range]]
+  |fam2=[[Kwerbic languages|Kwerbic]]
+  |iso3=mvs
+  |glotto=mass1263
+  |glottorefname=Massep
+|pushpin_map = Indonesia_Western New Guinea#Indonesia
+|coordinates = {{coord|-1.75|138.29|region:ID-PB}}
+}}
+
+'''Massep''' (Masep, Potafa, Wotaf) is a poorly documented [[Papuan languages|Papuan language]] spoken by fewer than 50 people in the single village of Masep in [[:id:Pantai Barat, Sarmi|West Pantai District]], [[Sarmi Regency]], [[Papua (Indonesian province)|Papua]]. Despite the small number of speakers, however, language use is vigorous. It is surrounded by the [[Kwerba languages]] [[Airoran language|Airoran]] and [[Samarokena language|Samarokena]].<ref name="Foley-NWNG"/>
+
+==Classification==
+Clouse, Donohue, and Ma (2002) conclude that it definitely is not a [[Kwerba languages|Kwerba language]],<ref name="Clouse-2002">{{cite journal|url=http://www-01.sil.org/silesr/2002/SILESR2002-078.pdf|title=Survey Report of the North Coast of Irian Jaya|last1=Clouse|first1=Duane|last2=Donohue|first2=Mark|last3=Ma|first3=Felix|year=2002|website=SIL|access-date=2018-07-23|archive-url=https://web.archive.org/web/20160303200905/http://www-01.sil.org/silesr/2002/SILESR2002-078.pdf|archive-date=2016-03-03|url-status=dead}}</ref> as it had been classified by Wurm (1975). They did not notice connections to any other language family. However, Usher (2018) classifies it as Greater Kwerbic.<ref>Usher, Timothy. [https://sites.google.com/site/newguineaworld/families/north-new-guinea/foja-range/west-foja-range West Foja Range]. ''New Guinea World''.</ref>
+
+''Ethnologue'', ''Glottolog'', and Foley (2018)<ref name="Foley-NWNG"/> list it as a [[language isolate]],<ref name=e18/><ref>{{cite web| editor-last1= Hammarström| editor-first1 = Harald| editor-last2 = Forke| editor-first2 = Robert| editor-last3 = Haspelmath| editor-first3 = Martin| editor-last4 = Bank| editor-first4 = Sebastian| year = 2020|title = Massep  | work = [[Glottolog]] 4.3| url = https://glottolog.org/resource/languoid/id/mass1263}}</ref> but it has not been included in wider surveys, such as Ross (2005). The pronouns are not dissimilar from those of [[Trans–New Guinea languages]], but Massep is geographically distant from that family.
+
+==Phonology==
+Consonants:<ref name="Foley-NWNG"/>
+:{| {{table}}
+|  || t || c || k
+|-
+|  ||  ||  || kʷ
+|-
+|  ||  ||  || ᵑɡ 
+|-
+| ɸ  || s || ʃ || 
+|-
+| β  ||  ||  || ɣ
+|-
+| m || n || ɲ  || 
+|-
+|  || r ||  || 
+|-
+| w ||  || j  || 
+|}
+
+Some probable consonant leniting sound changes proposed by Foley (2018):
+* *p > ɸ
+* *b > β
+* *d > r
+* *k > ɣ (perhaps partially)
+
+Vowels:<ref name="Foley-NWNG"/>
+:{| {{table}}
+| i || u
+|-
+| e || o
+|-
+| a || 
+|}
+
+==Pronouns==
+Pronouns are:<ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433-568 |isbn=978-3-11-028642-7}}</ref>
+
+:{| {{table}}
+!  !! sg !! pl
+|-
+! 1
+| ka || nyi
+|-
+! 2
+| gu || je
+|-
+! 3
+| evi || ive
+|}
+
+==Morphology==
+Massep case suffixes as quoted by Foley (2018) from Clouse (2002):<ref name="Foley-NWNG"/><ref name="Clouse-2002"/>
+
+:{| {{table}}
+! suffix !! case
+|-
+| -o ~ -u ~ -a || accusative
+|-
+| -ɣoke || dative
+|-
+| -aveno || instrumental
+|-
+| -meno || associative
+|-
+| -(a)vri || locative
+|-
+| -ni || allative
+|-
+| -a || temporal
+|}
+
+==Sentences==
+Massep sentences as quoted by Foley (2018) from Clouse (2002):<ref name="Foley-NWNG"/>
+
+{{interlinear|number=(1)
+|ka icin-o fartasi unu-ɣoke
+|1SG stone-ACC throw dog-DAT
+|‘I threw a stone at the dog.’}}
+
+{{interlinear|number=(2)
+|je saremna yaf-avri
+|2PL sit house-LOC
+|‘You (pl.) sat in the house.’}}
+
+{{interlinear|number=(3)
+|gu ko-war-emon
+|2SG 1SG.OBJ-see-SG.TNS
+|‘You see me.’}}
+
+Word order is SOV.
+
+==References==
+{{reflist}}
+
+== External links ==
+{{sister project |project=wiktionary |text=[[Wiktionary]] has a word list at '''''[[Wiktionary:Appendix:Massep word list|Appendix:Massep word list]]'''''}}
+* Timothy Usher and Mark Donohue, New Guinea World, [https://sites.google.com/site/newguineaworld/families/northwest-new-guinea/foja-range/west-foja-range/masep Masep]
+
+{{Papuan languages}}
+{{language families}}
+{{Languages of Indonesia}}
+
+[[Category:Languages of western New Guinea]]
+[[Category:Kwerbic languages]]
+[[Category:Language isolates of New Guinea]]
+[[Category:Endangered language isolates]]

@@ -1,0 +1,626 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Merei
+|altname=Malmariv
+|region=[[Espiritu Santo Island]], [[Vanuatu]]
+|speakers=800 
+|date=1997–2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Northern Vanuatu languages|Northern Vanuatu]]
+|fam6=Northeast Vanuatu – Banks Islands
+|fam7=[[West Santo languages|West Santo]]
+|lc1=mnl|ld1=Tiale
+|lc2=lmb|ld2=Merei
+|glotto=tial1239
+|glottoname=Tiale
+|glotto2=mere1242
+|glottoname2=Merei
+}}
+
+'''Merei''' or '''Malmariv''' is an [[Oceanic languages|Oceanic language]] spoken in north central [[Espiritu Santo Island]] in [[Vanuatu]].
+
+There are two varieties, Tiale, or Malmariv, and Merei, or Lametin. They are mutually intelligible according to a comparison of 234 words, which showed 94.87% cognate similarity.<ref>{{Cite journal|title = Linguistic subgrouping in the new Hebrides: a preliminary approach.|last = Tryon|first = Darrell T.|date = 1973|journal = Oceanic Linguistics|volume = 12|issue = 1/2|pages = 303–352|doi=10.2307/3622859|jstor = 3622859}}</ref> There are an estimated 800 speakers of Malmariv-Merei or Tiale-Lametin.<ref>{{Cite book|title = Languages of Vanuatu: a new survey and bibliography.|last = Lynch|first = John|publisher = Pacific Linguistics|year = 2001|location = Canberra|pages = 54|last2 = Crowley|first2 = Terry}}</ref> Merei, as well as Tiale, are both spoken by roughly 60% of the children in the villages. The members of the population have a positive attitude towards the threatened language, with Merei being spoken by approximately 400 people as a mother tongue.<ref name=":0">{{Cite book|title = A descriptive grammar of Merei (Vanuatu)|last = Chung|first = Ying Shing Anthony|publisher = Pacific Linguistics|year = 2005|isbn = 0-85883-560-6|location = Canberra|pages = 12}}</ref> There are at least four villages where Merei is spoken, Angoru, Navele, Tombet and Vusvogo. These villages are located between the Ora and Lape rivers in the central area of Espiritu Santo Island.<ref name=":0" />
+
+Merei is an SVO language, aligning itself with many of the typical Oceanic features. Subject pronouns, modality, and aspect markers occur preverbally, object pronouns and aspect adverbs follow the verb, and possessives are divided into direct and indirect (or inalienable and alienable respectively).<ref name=":0" />
+
+==Phonology==
+Merei has a phoneme inventory consisting of sixteen consonants and five vowels. The combinations of vowels can form nine diphthongs.<ref name=":0" />
+
+===Consonants===
+{| class="wikitable" style="text-align:center"
+!colspan="2"|
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+!colspan="2"| [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+|
+| {{IPA link|ŋ}}
+|-
+!rowspan="2"| [[Stop consonant|Stop]]
+! <small>voiceless</small>
+| {{IPA link|p}}
+| {{IPA link|t}}
+|
+| {{IPA link|k}}
+|-
+! <small>prenasilized</small>
+| {{IPA link|ᵐb}}
+| {{IPA link|ⁿd}}
+|
+| {{IPA link|ᵑg}}
+|-
+!colspan="2"| [[Affricate]]
+|
+|
+| {{IPA link|d͡ʒ}}
+|
+|-
+!colspan="2"| [[Fricative]]
+| {{IPA link|v}}
+| {{IPA link|s}}
+|
+|
+|-
+!colspan="2"| [[Approximant]]
+|
+| {{IPA link|l}} {{IPA link|ɾ}}
+| {{IPA link|j}}
+|
+|}
+There is also a consonant previously listed in the consonant chart written as <pm>.
+
+===Vowels===
+{| class="wikitable" style="text-align:center"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}}
+|
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+|
+| {{IPA link|o}}
+|-
+! [[Low vowel|Low]]
+|
+| {{IPA link|a}}
+|
+|}
+Merei has a common 5 vowel system that languages like Spanish have.
+
+{| class="wikitable" style="text-align:center"
+|+ Diphthongs
+!
+! a
+! e
+! i
+! o
+! u
+|-
+! a
+|
+| ae
+| ai
+| ao
+| au
+|-
+! e
+|
+|
+| ei
+|
+|
+|-
+! i
+|
+|
+|
+|
+|
+|-
+! o
+|
+|
+| oi
+|
+| ou
+|-
+! u
+|
+| ue
+| ui
+|
+|
+|}
+
+==Morphology==
+
+===Pronouns and person markers===
+The pronominal system contains two free-form categories, independent pronouns and preverbal subject pronouns, and two bound categories, object pronominal suffix and possessive pronominal suffix. No gender or animate distinction is made. Pronouns only have animate reference.<ref name=":0" />
+
+The pronominal system makes a distinction between first, second and third persons. Singular, dual, and plural are marked by number. First person dual and plural makes the distinction between inclusive and exclusive.<ref name=":0" />
+
+==== Independent pronouns ====
+{| class="wikitable"
+|+ Independent pronouns<ref name=":0" />
+|-
+! colspan="2" |
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | nao
+| de rua
+| de
+|-
+! exclusive
+| gamau rua
+| gamau
+|-
+! colspan="2" | 2nd person
+| go
+| gami rua
+| gami
+|-
+! colspan="2" | 3rd person
+| nie
+| ire rua
+| ire
+|}
+
+In this example we see the 2nd person independent pronoun being used as a speech act of invitation.
+
+{{interlinear|number=(1<ref name=":0" />)|abbreviations=PN:personal noun
+|i go
+|ART.PN 2SG
+|'You (eat it).' (as one is giving you food).}}
+
+Example 2 shows use of the first person plural exclusive independent pronoun {{transl|mnl|gamau}}.
+
+{{interlinear|number=(2<ref name=":0" />)|abbreviations=PN:personal noun
+|Kam ta usi ko arongo/ ko sio peser i gamau tui.
+|2PL REAL ask 2SG today 2SG down with ART.PN EX.PL PER
+|'We asked you today for you to stay with us.'}}
+
+==== Preverbal Subject Pronouns and Suffixes ====
+{| class="wikitable"
+|+ Preverbal subject pronouns<ref name=":0" />
+|-
+! colspan="2" |
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | na/nam
+| tera
+| te
+|-
+! exclusive
+| kamara
+| kama
+|-
+! colspan="2" | 2nd person
+| ko
+| kamra
+| kam
+|-
+! colspan="2" | 3rd person
+| colspan="3" | Ø
+|}
+{| class="wikitable"
+|+ Object pronominal suffix<ref name=":0" />
+|-
+! colspan="2" |
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | -iau
+| -da rau
+| -da
+|-
+! exclusive
+| -mau rua
+| -mau
+|-
+! colspan="2" | 2nd person
+| -ko
+| -mi rua
+| -mi
+|-
+! colspan="2" | 3rd person
+| Ø
+| -ra rua
+| -ra
+|}
+
+Example 3 below uses the preverbal subject pronoun ''nam'' and the possessive pronominal suffix -''gu''.
+
+{{interlinear|number=(3<ref name=":0" />)|abbreviations=CN:common noun
+|Nam ta tai ia jingo-m ko ta tai ia sala-gu.
+|1SG REAL make ART.CN mouth-2SG 2SG REAL make ART.CN road-1SG.
+|‘I make your mouth and you make my road.’}}
+
+Example 4 below demonstrates the absence of a 3rd person singular preverbal subject pronoun and also contains the 3rd person plural pronominal suffix ''-ra.''
+
+{{interlinear|number=(4<ref name=":0" />)
+|Ø ta vai-ra mate.
+|3SG REAL make-3PL died.
+|‘He cause them to die.’}}
+
+==== Reflexive pronouns ====
+Reflexive pronouns are formed from the root ''nese''- followed by a possessive pronominal suffix. It can be used in concurrence with the free pronoun and is often followed by the free particle ''nga'' 'only' as seen in example 5 and 6 below.
+
+{{interlinear|number=(5<ref name=":0" />)|abbreviations=PN:personal noun
+|I nau nese-gu nga nam ta sioto.
+|ART.PN 1SG self-1SG only 1SG REAL stay.
+|‘Just I myself stay.’}}
+
+{{interlinear|number=(6<ref name=":0" />)
+|Nam ta jip nese-gu nga.
+|1SG REAL cut self-1SG only.
+|‘I cut myself.’}}
+
+==== Demonstrative Pronouns ====
+Demonstrative pronouns consist of a mix of locational adverbs and third person pronouns. They have three possible functions: they can occupy the whole noun phrase slot, act as an independent nominal argument or be placed at the end of a noun phrase to modify the noun-head.<ref name=":0" /> The classifications of demonstrative adverbs are based on two aspects: speaker-hearer reference and spatial reference.<ref name=":0" /> 
+{| class="wikitable"
+!
+!Singular 
+!Plural
+|-
+|close to both speaker and hearer
+|''get-nie''
+|''get-ire''
+|-
+|close to the speaker
+|''na-nie''
+|''na-ire''
+|-
+|close to the hearer
+|''gata-nie''
+|''gata-ire''
+|-
+|uncertain/not visible
+|''ani-nie''
+|''ani-ire''
+|}
+
+Shows ''get-nie'' a speaker hearer referenced demonstrative pronoun:
+{{interlinear|number=(7<ref name=":0" />)|abbreviations=CN:common noun
+|Get-nie ia sava?
+|this ART.CN what
+|'What is this?'}}
+
+Shows get-ire a speaker hearer referenced demonstrative pronoun:
+{{interlinear|number=(8<ref name=":0" />)|abbreviations=CN:common noun
+|Iadu tese get-ire tato toma?
+|ART.CN.PL man these REAL:3PL what.happen
+|'What are these men doing?}}
+
+Spatial reference demonstrative pronouns are formed by the third person independent pronouns, ''nie'' and ''ire'' when linked to spatial adverbial adverbs.<ref name=":0" />
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Proximal
+! Intermediate
+! Distal
+|-
+! rowspan="2" | ascending direction
+! singular
+| ai-sa-nie
+| ma-ja-nie
+| le-sa-nie
+|-
+! plural
+| ai-sa-ire
+| ma-ja-ire
+| le-sa-ire
+|-
+! rowspan="2" | at same level
+! singular
+| ai-va-nie
+| ai-va-nie/le-va-nie
+| le-va-nie
+|-
+! plural
+| ai-va-ire
+| ai-va-ire/le-va-ire
+| le-va-ire
+|-
+! rowspan="2" | descending direction
+! singular
+| ai-sio-nie
+| ma-jio-nie
+| le-sio-nie
+|-
+! plural
+| ai-sio-ire
+| ma-jio-ire
+| e-sio-ire
+|}
+
+{{interlinear|number=(9<ref name=":0" />)
+|leva-nie
+|far.horizontal.3SG
+|'That far horizontal'}}
+
+{{interlinear|number=(10<ref name=":0" />)|abbreviations=CN:common noun
+|la tese leva-nie Ø ta logologo.
+|ART.CN man far.horizontal-3SG 3SG REAL bad.
+|'That man is bad' (referring to a man who is a long way from the speaker)}}
+
+==== Possessive Constructions ====
+{| class="wikitable"
+|+ Possessive pronominal suffix<ref name=":0" />
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | -gu
+| -da rua
+| -da
+|-
+! exclusive
+| -mau rua
+| -mau
+|-
+! colspan="2" | 2nd person
+| -m
+| -mi rua
+| -mi
+|-
+! colspan="2" | 3rd person
+| -na
+| -ra rua
+| -ra
+|}
+
+In the Malmariv language, there are two possessive formations, direct and indirect. In certain situations, both of them are simultaneously possible. When in this predicament, if the possessed is more closely linked to the possessor, then it is classed as direct poIndirect Possessiond to indirect possession.
+
+The possessive construction of the Merei language is typical Oceanic. There are different types of the classifiers and genitive prepositions of indirect possessive according to the edibility of the noun heads,<ref name=":0" /> however the word for tattoo ‘''bur’'' is an exception to the edible noun class.
+
+Pronominal object suffixes and non-singular pronominal possessive suffixes are practically identical.
+
+===== Direct Possession =====
+In direct pronominal possession a possessed inalienable noun head is followed by a poBoth Direct and Indirect Possession shown in table 4 above.<ref name=":0" /> This type of formation is normally related with body parts, familial terms, and relationships between location and part-whole connections.
+
+Examples 11, 12 and 13 show the relative possessive pronominal suffix pairing with the possessed noun.
+
+{{interlinear|number=(11<ref name=":0" />)|abbreviations=CN:common noun
+|ia mata-m
+|ART.CN eye-2SG
+|‘your eye’}}
+
+{{interlinear|number=(12<ref name=":0" />)|abbreviations=PN:personal noun
+|i nanu-gu
+|ART.PN child-1SG
+|‘my child’}}
+
+{{interlinear|number=(13<ref name=":0" />)
+|la vsa-na
+|LOC.TEMP.PREP top-3SG
+|‘on its top’}}
+
+The directly possessed noun is followed by the possessor noun phrase when the possessor is a nominal. This is shown in examples 14, 15 and 16.
+
+{{interlinear|number=(13<ref name=":0" />)|abbreviations=CN:common noun
+|ia natu ia bo
+|ART.CN child ART.CN pig
+|'the pigs child'}}
+
+{{interlinear|number=(13<ref name=":0" />)|abbreviations=CN:common noun; PN:personal noun
+|ia lma i Pita
+|ART.CN hand ART.PN Pita
+|'Peter's hand'}}
+
+{{interlinear|number=(13<ref name=":0" />)|abbreviations=PN:personal noun
+|i rabui i Pita
+|ART.PN mother ART.PN Pita
+|‘Peter’s mother'}}
+
+===== Indirect Possession =====
+With indirect pronominal possession, there is a [[Classifier (linguistics)|Possessive Classifier]] that precedes the indirectly possessed alienable noun head. The Possessive Classifier for inedible nouns is ''nou-'' (POSSC.I), and ''a-'' (or less commonly ''na-'') for edible and drinkable nouns (POSSC.E), followed by the possessive pronominal suffix.<ref name=":0" />
+
+Example 17 shows the Possessive Classifier for inedible nouns
+{{interlinear|number=(17<ref name=":0" />)|abbreviations=INED:inedible
+|nou-gu uma
+|POSS.INED-1SG garden
+|‘my garden’}}
+
+Example 18 shows the Possessive Classifier for edible and drinkable nouns
+{{interlinear|number=(18<ref name=":0" />)|abbreviations=ED:edible
+|a-gu sna
+|POSS.ED-1SG yam
+|‘my yam’}}
+
+In indirect nominal possession the indirectly possessive noun head is followed by a genitive preposition, ''nui'' for inedible (GEN.I) and ''nai'' for edible (GEN.E), which are followed by the possessor noun.<ref name=":0" />
+
+Example 19 shows the genitive preposition for inedible nouns
+{{interlinear|number=(19<ref name=":0" />)|abbreviations=INED:inedible; CN:common noun
+|ia  bo  nui Loretta
+|ART.CN pig GEN.INED Loretta
+|'Loretta's pig'}}
+
+Example 20 shows the genitive preposition for edible nouns
+{{interlinear|number=(20<ref name=":0" />)|abbreviations=ED:edible; CN:common noun
+|ia  sei-beda  nai Loretta
+|ART.CN piece-taro  GEN.ED Loretta
+|'Loretta's taro-piece'}}
+
+The benefactive preposition ''sei'' can also function as genitive preposition. it operates as part of the noun phrase and functions like a descriptive normal modifier or a possessive construction.<ref name=":0" />
+
+{{interlinear|number=(21<ref name=":0" />)|abbreviations=CN:common noun
+|ia  tese  sei Vila
+|ART.CN man BEN Vila
+|'the man from Vila'}}
+
+===== Both Direct and Indirect Possession =====
+Many Oceanic languages have the ability to possess nouns both directly and indirectly. This difference in possession changes the meaning of the nouns affected. In indirect possession, the relationship between the possessed and the possessor is not as close as the direct possessive.<ref name=":0" />
+
+Examples 22 and 23 below show the difference that indirect and direct possession have on the noun 'night'.
+
+{{interlinear|number=(22<ref name=":0" />)|abbreviations=INED:inedible; CN:common noun
+|ia nou-gu bong
+|ART.CN POSS.INED night
+|'my night' (the day of celebration for me)}}
+
+{{interlinear|number=(23<ref name=":0" />)|abbreviations=CN:common noun; PN:personal noun
+|ia bong i ia vla Ø ta ese
+|ART.CN night ART.PN ART.CN month 3SG REAL one
+|'the first day of the month'}}
+
+The following examples show the difference that indirect and direct possession have on the noun 'road'.
+
+{{interlinear|number=(24<ref name=":0" />)|abbreviations=INED:inedible; CN:common noun
+|ia nou-gu sala
+|ART.CN POSS.INED road
+|‘my road’}}
+
+{{interlinear|number=(25<ref name=":0" />)|abbreviations=CN:common noun
+|ia sala-gu
+|ART.CN road-1SG
+|‘my way’ (way of going or doing thing)}}
+
+== Negation and Modality ==
+Negation is closely related to Modality in Merei, and negation can be considered a propositional modality<ref>{{Cite book|title=Syntax: A functional-typological introduction|last=Givón|first=T.|date=1984|publisher=John Benjamins Publishing Company|isbn=9789027230133|location=Amsterdam|pages=321|doi = 10.1075/z.17}}</ref> (cited in,<ref name=":1" /> p.&nbsp;27). Thus it is useful to discuss the two in the same section. There are three modalities in Merei, realis (R), presupposition (PSP), and irrealis (IRR)<ref name=":1">{{Cite book|title=Descriptive grammar of Merei (Vanuatu)|last=Chung, Ying Shing Anthony.|date=2005|publisher=Pacific Linguistics, Research School of Pacific and Asian Studies, Australian National University|others=Australian National University. Pacific Linguistics.|isbn=0858835606|location=Canberra|oclc=70282773}}</ref> (p.&nbsp;28).
+
+{| class="wikitable"
+|+ Modality Markers, (p. 28)<ref name=":1" />
+! colspan="2" rowspan="2" |
+! colspan="3" |Positive
+! colspan="2" |Negative
+|-
+!Realis
+!Presupposition
+!Irrealis
+!Presupposition
+!Realis/Irrealis
+|-
+! colspan="2" |Non-third person
+|ta
+|ø
+|
+|tei
+|
+|-
+! rowspan="3" |Third Person
+!Singular
+|ta
+|a
+|mo
+|atei
+|motei/mutei
+|-
+!Dual
+|tara
+|ara
+|mora
+|aratei
+|moratei
+|-
+!Plural
+|tato
+|ato
+|moto
+|ateita
+|moteita/muteita
+|}
+
+All non-third person forms of negative modality markers share the same form ''tei''. The third person singular and dual negative forms can be formed by adding ''tei'' to the end of the positive form, whereas in the plural ''tei'' is added to the suffix -''ta''<ref name=":1" /> (p.&nbsp;29).
+
+Negative third person dual irrealis modality:
+{{interlinear|number=(p. 40)|abbreviations=CN:common noun
+|Ia esio peser ia maji moratei vai
+|ART.CN kingfisher with ART.CN fish IRR.3D.NEG do
+|'The kingfisher and the fish did not do (it)'<ref name=":1" />}}
+
+Negation in [[Verbless clause|verbless equative clauses]] is marked by the irrealis marker ''mo'' or ''mu'' followed by the negative marker ''tei.'' This comes before the second noun phrase, the particle ''mo'' or ''mu'' is used for all persons<ref name=":1" /> (p.&nbsp;31).''tija''
+
+{{interlinear|number=(p. 37)|abbreviations=CN:common noun; PN:personal noun
+|I nau motei na tasale
+|ART.PN 1 IRR.3.NEG ART.CN white-man
+|'I am not a white-man'}}
+
+{{interlinear|number=(p. 38)|abbreviations=CN:common noun; PN:personal noun
+|I nie motei na tija
+|ART.PN 3 IRR.3.NEG ART.CN teacher
+|'He is not a teacher'}}
+
+Negative existential clauses are formed in Merei by following the basic intransitive structure of a verbal clause.
+{| class="wikitable"
+|+Verbal clause structure, (p.&nbsp;38)<ref name=":1" />
+|(Subject noun phrase)
+|Verb phrase
+|(Object noun phrase)
+|(Prepositional phrase)
+|(Location phrase)
+|(Time phrase)
+|}
+
+To form a negative existential clause the predicate slot is replaced by the verb ''va'' 'go' which is followed by the negative deictic ''merei'' and the clause takes only a single subject<ref name=":1" /> (p.&nbsp;38). 
+
+Existential clause<ref name=":1" />
+{{interlinear|number=(p. 38)|abbreviations=CN:common noun
+|Ia bo ø ta dauva
+|ART.CN pig 3SG REAL exist
+|'There is a pig'}}
+
+Negative existential clause<ref name=":1" />
+{{interlinear|number=(p. 39)|abbreviations=CN:common noun
+|Ia bo va merei
+|ART.CN pig g use
+|‘There is no pig’}}
+
+By adding the particle of prohibition ''tla'' after the subject pronoun, imperative and hortative clauses can be negated. This can function as either prohibition or pleading, depending on context and intonation. The distinction between prohibition and pleading depends on the meaning of the verbs and intonation or it may require a more specific declaration.
+
+{{interlinear|number=(p. 47)|abbreviations=PROHIB:prohibition
+|Ko tla an
+|2SG PROHIB eat
+|'Don't eat'<ref name=":1" />}}
+
+{{interlinear|number=(p. 47)|abbreviations=PROHIB:prohibition
+|Te tla voro
+|IN.PL PROHIB leave
+|'Let's not leave'<ref name=":1" />}}
+
+{{interlinear|number=(p. 47)|abbreviations=PROHIB:prohibition; OD:outwards directional clitic
+|Kamara tla bat-voro-in
+|EX.DU PROHIB head-empty-OD
+|'Let's us not be naughty'<ref name=":1" />}}
+
+== References ==
+{{Reflist}}
+
+==External links==
+*[http://dominicweb.eu/en/endictionaries/exotic-languages-prayers?mnl Database of audio recordings in Malmariv (Wusiroro) - basic Catholic prayers]
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Espiritu Santo languages]]
+[[Category:Languages of Vanuatu]]

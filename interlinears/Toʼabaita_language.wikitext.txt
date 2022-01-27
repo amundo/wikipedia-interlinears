@@ -1,0 +1,1101 @@
+{{Short description|Malaita language of the Solomon Islands}}
+{{Infobox language
+|name=Toqabaqita
+|altname=To{{hamza}}abaita
+|nativename=Malu{{hamza}}u
+|states=[[Solomon Islands]]
+|region=[[Malaita Island]]
+|speakers={{sigfig|12,600|2}}
+|date=1999
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southeast Solomonic languages|Southeast Solomonic]]
+|fam5=[[Malaita – San Cristobal languages|Malaita – San Cristobal]]
+|fam6=[[Malaita languages|Malaita]]
+|fam7=[[Northern Malaita languages|Northern Malaita]]
+|iso3=mlu
+|glotto=toab1237
+|glottorefname=To'abaita
+}}
+[[File:WIKITONGUES- Michael speaking To’abaita.webm|thumb|A To'abaita speaker, recorded in the [[Solomon Islands]].]]
+'''To{{hamza}}abaita''', also known as '''Toqabaqita, To{{hamza}}ambaita, Malu''' and '''Malu{{hamza}}u''', is a language spoken by the people living at the north-western tip of [[Malaita Island]], of South Eastern [[Solomon Islands]]. To{{hamza}}abaita is an [[Austronesian languages|Austronesian]] language.<ref name=":8">Lichtenberk, 2008, p.1</ref>
+
+== Overview ==
+The website ''Ethnologue'' records the number of speakers of Toqabaqita as 12,600 in 1999.<ref>Lewia, 2015</ref> Lichtenberk, who has written an extensive grammar of Toqabaqita reports that Toqabaqita may be part of a North Malaita group of dialects which includes Baeguu, Baelelae and Fataleka, and possibly Lau. Ethnologue however reports no known dialects of Toqabaqita, but reports that within this group of languages, they are mutually intelligible.<ref name=":8" /> Lichtenberk points out that the speakers of Toqabaqita do recognize similarities across the whole island's languages, but the Toqabaqita people themselves do not have this conception of North Malaita being a language and Toqabaqita as a dialect within this group.<ref name=":9">Lichtenberk 2008</ref>
+
+Toqabaqita is classified as member of the Malayo-Polynesian, Oceanic, Central-Eastern Oceanic, Southeast Solomonic language family. Then there is a slight divergence in classification between Lichtenberk and Glottolog.<ref name=":10">Hammarström 2015</ref> Lichetenberk classifies the next subgrouping as Longgu/Malaita/Makira (San Cristobal), whereas Glottolog does not include Longgu at this point, but instead as a sister subgroup to Malaita/Makira.<ref name=":10" />
+
+The Wikipedia entry for Longgu, which is a Southeast Solomonic language spoken on Guadalcanal, is reported to be originally from Malaita. Lichtenberg then breaks the Malaita/Makira subgroup into the Central/Northern and Southern Malaita subgroups, then North Malaita subgroup itself, to which Toqabaqita belongs.<ref>Lichtenberk 2008, p.5</ref>  In contrast Glottolog breaks the subgroup Malaita/ San Cristobal (Makira) into two subgroups Malaita/Makira and Longgu, then to North and south Malaita subgroups, where the north includes the above listed putative dialects as well as the central Malaita languages.<ref name=":10" />
+The number of speakers of Toqabaqita is relatively high for a Solomon Islands language, although most speakers become bilingual in Pijin as they grow up. Toqabaqita has the status of first language for children, and is used in daily life. Many Toqabaqita speakers also speak some English, and this is the language of the schools, although only primary schools are available locally.<ref name=":9" /> The literacy rate in Toqabaqita is 30-60%, and Latin script is used.<ref name=":10" />
+
+== Language Typology ==
+
+Toqabaqita has as its basic constituent order Subject - Predicate – X, with X referring to other elements than the subject and predicate.<ref>Lichtenberk 2008, p.43</ref> This can also be categorized as SVO (subject verb object) and SVX (subject verb other). Lynch in his review of Oceanic languages found that this constituent order is in fact the most widely geographically distributed pattern.<ref>Lynch 2008, p.50</ref>
+ 
+Verbs in Toqabaqita can include a variety of affixes, both suffixes and pre-fixes, which mark other grammatical categories of tense aspect, sequentiality and negation. Lexical objects are usually indexed on the verb as a suffix. In Toqabaqita the basic noun phrase consists minimally of a noun or an independent personal pronoun. Noun phrases may contain modifiers, which are generally suffixes.<ref>Lichtenberk 2008, p.44</ref>
+Lexical morphemes consist of at least two syllables in Toqabaqita. Where a monosyllabic word occurs, such as a grammatical morpheme, it then attaches as a clitic to the preceding word, with some notable exceptions. If speech is slow then the grammatical morpheme may have its vowel lengthened and take stress.<ref>Lichtenberk 2008, p.16</ref>
+
+== Phonology ==
+
+Toqabaqita phonemes consist of 17 consonants and 5 vowels.<ref name=":9" />
+<br />
+{| class="wikitable" style=text-align:center
+|+Consonant phonemes<ref name=":11">Lichtenberk 2008, p.8</ref>
+!colspan="2"|
+! [[Bilabial consonant|Bilabial]]
+! [[Interdental consonant|Interdental]]
+! [[Dental consonant|Dental]]
+! [[Velar consonant|Velar]]
+![[Labial–velar consonant|Labial-velar]]
+! [[Glottal consonant|Glottal]]
+|-
+!colspan="2"| [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} || || {{IPAlink|n}} || {{IPAlink|ŋ}} || ||
+|-
+!rowspan="2"| [[Stop consonant|Stop]]
+! {{small|[[Voicelessness|voiceless]]}}
+| || || {{IPAlink|t}} || {{IPAlink|k}} || {{IPAlink|k͡p}} || {{IPAlink|ʔ}}
+|-
+! {{small|[[Voice (phonetics)|voiced]]}}
+| {{IPAlink|b}} || || {{IPAlink|d}} || {{IPAlink|g}} || {{IPAlink|g͡b}} ||
+|-
+!colspan="2"| [[Fricative consonant|Fricative]]
+| {{IPAlink|ɸ}} || {{IPAlink|θ}} || {{IPAlink|s}} || || ||
+|-
+!colspan="2"| [[Approximant consonant|Approximant]]
+| || || || || {{IPAlink|w}} ||
+|-
+!colspan="2"| [[Lateral consonant|Leteral]]
+| || || {{IPAlink|l}} || || ||
+|-
+!colspan="2"| [[Trill consonant|Trill]]
+| || || {{IPAlink|r}} || || ||
+|}
+/k͡p/ and /g͡b/ are doubly-articulated [[voiceless labial–velar stop|voiceless]] and [[voiceless labial–velar stop|voiced labial–velar]] stop consonants.<ref name=":11" /> Pre-nasalization is a feature of particular Toqabaqita consonants, including all the voiced plosives, that is /b/, /d/, /g/ and /g͡b/, and for the glide /w/ . The degree of prenasalization varies and is determined by their position in the word.<ref name=":11" />
+<br />
+{| class="wikitable" 
+|+Vowel Phonemes<ref name=":12">Lichtenberk, 2008, p.10</ref>
+|-
+|-
+!  !! front !! central !! back 
+|-
+| close || ɪ ||  || ʊ
+|-
+| open-mid || ɛ ||  || ɔ 
+|-
+| open ||  || a ||
+
+|}
+Vowels can be long, but it is not allowed to have adjacent long vowels.
+Stress is not indicated by the phonemes,{{clarify|date=July 2020}} but by the symbols (?){{clarify|date=July 2020}} for primary stress and (?){{clarify|date=July 2020}} for secondary stress<ref name=":12" /> (presumably by Lichtenberk, and presumably when glottal stop is written {{angbr|q}}).{{citation needed|date=July 2020}}
+
+== Personal Pronouns and Person Markers ==
+
+=== Independent Personal Pronouns ===
+
+The Independent person pronouns in Toqabaqita are for single, dual and plural pronouns for first person exclusive, first person inclusive, second and third person categories. With only a few systematic exceptions the pronominal noun phrases are used in the same position as where a lexical noun phrase would occur. Lexical nouns are marked only as singular or plural in Toqabaqita.<ref>Lichtenberk 2008, p.325</ref>
+
+{{interlinear|number=(1)
+|'''nau''' ku thathami-a '''koro''' koki
+|1SG 1SG.NFUT want-3.OBJ DU(INCL) DU(INCL).FUT
+|"I want the two of us to eat."<ref>Lichtenberk 2008, p.146</ref>}}
+
+{{interlinear|number=(2)
+|'''kamiliqa''' kori-a fau rafu
+|1PL(EXCL) scrape-3.OBJ stone sea.cucumber.sp
+|"We scrape limestone..."<ref>Lichtenberk 2008, p.148</ref>}}
+
+The variants in the table marked with (1) were used exclusively by women. Of these pronouns used only by women, only the first person inclusive plural pronoun ''kia'' is used at the present time. This is specifically in the context of referring to one's home, or one's home place or one's country most commonly when away from one's home area.<ref name=":13">Lichtenberk, 2008, p.243</ref> It is notable that although there are multiple plural personal pronouns some are used more commonly than others. Some alternatives are rarely used, specifically these are the first person exclusive ''kamaliqa'', the third person plural ''kiiluqa'', and the second person singular ''qoo''. Both forms of the second person plural, ''kamuluqa'' and ''kamaluqa'' are commonly used. There are phonetic associations with specific person pronouns. The dual pronouns all contain r, and the plurals all contain l, with exception of the third person plural ''kera''. Lichtenberk suggests that this is due to their associations with the numbers ''rua'' which glosses as two, and ''ulu'' which glosses as three, and also that perhaps the plurals were previously trial or paucal forms of pronouns.<ref name=":9" />
+
+In some cases where the independent pronoun and a subject marker are identical (homophones) and occur in the same sentence one will be omitted, and Lichtenberk (2008) suggests it is the pronoun that is omitted. This occurs for ''koro'', where it is both the inclusive dual inclusive independent personal pronoun and the dual inclusive nonfuture subject marker. Similarly ''kulu'' is both the plural inclusive independent plural pronoun and the plural inclusive nonfuture subject marker. Lichtenberk believes that most speakers would avoid the repetition.<ref>Lichtenberk 2008, p.244</ref>
+
+{{interlinear|number=(3)
+|'''(?kulu)''' kulu foqa naqa
+|PL(INCL) PL(INCL).NFUT pray PRF
+|"Let's pray now"<ref name=":13" />}}
+
+In the above example the first ''kulu'' would be deleted. 
+
+The independent personal pronouns, including the third person pronouns, are used with human reference, or with spirits, very rarely with animals. They may be used with mythological animals or with an animal that is in view.
+
+{{interlinear|number=(4)
+|Nia ka riki-a ma ka thathami-a kai lai bii keeroqa
+|3SG 3SG.SEQ see.3SG.OBJ and 3SG.SEQ want-3.OBJ 3.SG.FUT go COM 3DU
+|"He (a boy) saw it and wanted to go with them (his parents)" <ref>Lichtenberk 2008, p.245</ref>}}
+
+{{interlinear|number=(5)
+|Nia e mataqi nena
+|3SG 3SG.NFUT be.sick N.PAST.THERE
+|"It (a chicken) is sick (the chicken is in view)" <ref name=":14">Lichtenberk 2008, p.246</ref>}}
+
+The third person pronoun can be used to specify subject topicalization, even with inanimate objects, as is:
+
+{{interlinear|number=(6)
+|dadaku) qeri '''nia''' qe takwi qi' laa one
+|Calophyllum.sp that 3SG 3SG.NFUT that stand LOC {in sand}
+|"The dadaku tree, it stood in the sand on the beach"<ref name=":14" />}}
+
+There are numerous specific uses of the independent personal pronouns such as the third person singular pronoun being used to close off a story or a narration, in a verb-less statement:
+
+{{interlinear|number=(7)
+|'''Nia''' bo-naqa neri 
+|3SG ASRT{{=}}PRF N.PAST&gt;HERE 
+|"That's all I have to say"<ref>Lichtenberk 2008, p.247</ref>}}
+
+To emphasize a pronoun the same strategies that are used with lexical nouns are also employed, but with a specific pronominal foregrounder ''ni''.
+
+{{interlinear|number=(8)
+|Nau ku lae naqa ma '''ni''' '''kamuluqa'''
+|1SG 1SG.NFUT go PRF and PROFORE 2PL
+|"I'm going now; and you?"<ref>Lichtenberk 2008, p.248</ref>}}
+
+Here the emphasis is on the persons being spoken to.
+
+The inclusive pronouns can be used in a way to include the addressee, to index personal closeness or in a jocular sense.
+
+{{interlinear|number=(9)
+|Nau kwai qasi-qaba fas{{=}}i laa waki '''koro''' wane nau 
+|1SG 1SG.FUT fall-hand PREC{{=}}LOC in basket DU(INCL) man 1SG 
+|"I am going to poke my hand into our basket, my friend (in the context of searching another's basket for tobacco or areca nut)<ref>Lichtenberk 2008, p.249</ref>}}
+
+=== Person Markers ===
+Toqabaqita uses person markers with proper nouns that designate people, spirits, ogres, pets and domestic animals. They are gender differentiated, with ''tha'' used with male and ''ni'' with female people. When referring to gods and spirits and introduced Christian deities, ''tha'' is used. ''Tha'' is used to refer to all pets and domestic animals, both male and female. They are used for reference not for address, see examples 11 and 12, but even then they are not obligatory.<ref name=":15">Lichtenberk 2008, p.250</ref>
+
+{{interlinear|number=(10)
+|'''Tha''' Kwaqengara ka thare-a '''ni''' Kwakwanumae
+|PRSMKR Kwaqengara 3.SG.SEQ beget-3.OBJ PRSMKR Kwakwanumae
+|"Kwaqengara(male) begot Kwakwanumae(female)."<ref name=":15" />}}
+
+Contrast the need for a person marker when talking about Ulufaala the named person in the narration, rather than when he arrives in person.
+
+{{interlinear|number=(11)
+|Ma '''tha''' Ulufaalu qe sifo 
+|And PRSMKR Ulufaalu 3SG.NFUT descend 
+|"And Ulufaalu went down (to the coast?)."<ref>Lichtenberk 2008, p.251</ref>}}
+
+{{interlinear|number=(12)
+|Ulufaalu qe fula naqa 
+|Ulufaalu 3SG.NFUT arrive PRF 
+|"Ulufaalu has arrived."<ref name=":15" />}}
+
+{{interlinear|number=(13)
+|Qoko suqu-si-a raa-la-na wane queri '''tha''' Saetana 
+|2SG.SEQ block-TR3.OBJ work.NMLZ.PERS man this PRSMKR Satan 
+|"Block the workings of this man, Satan."<ref>Lichtenberk 2008, p.328</ref>}}
+
+''Tha'' is used with the nouns that refer to children, ''wela'' (child, young person), ''kale'' (offspring), or ''weleqi'' (adult males).
+
+{{interlinear|number=(14)
+|'''Tha''' wela 'ba{{=}}e sui naqa
+|PRSMKR chap that{{=}}3.SG.NFUT be.finished PRF
+|"The chap expired."<ref>Lichtenberk 2008, p.252</ref>}}
+
+''Tha'' is used for inanimate objects that actually have names.
+
+{{interlinear|number=(15)
+|Nini qau marakawa nia '''tha''' Raqafeqebasi
+|bamboo.knife piece.of.bamboo be.green 3SG PRSMKR Raqafeqebasi
+|"His green bamboo knife is named Raqafeqebasi."<ref>Lichtenberk 2008, p.253</ref>}}
+
+=== Object Pronouns ===
+
+In Toqabaqita there are two classes of transitive verbs, Class 1 and Class 2, and they index their pronominal direct objects differently. Class 1 transitives have object indexing suffixes only for the third person; ''-a'' for singular direct objects, ''-daroqa'' for dual categories and ''-da'' for plural objects.<ref name=":16">Lichtenberk 2008, p.71</ref> 
+
+{{interlinear|number=(16)
+|Qo '''riki-a'''?
+|2SG.NFUT see-3SG.OBJ
+|"Did you see him/her/it?"<ref name=":16" />}}
+
+{{interlinear|number=(17)
+|Qo '''riki-daroqa'''?
+|2SG.NFUT see-3DU.OBJ
+|"Did you see them(2)?"<ref name=":16" />}}
+
+Toqabaqita doesn't index object status first and second person, but it is indicated by the appropriate independent personal pronoun as in (18).
+
+{{interlinear|number=(18)
+|Kai lole '''qoe'''
+|3SG.IPFV tell.lie.to 2SG
+|"He is lying to you."<ref name=":16" />}}
+
+Class 2 Transitive verbs have object indexing suffixes for all grammatical persons and numbers, and follow a similar pattern to the independent personal pronouns.<ref name=":17">Lichtenberk 2008, p.114</ref>
+
+{| class="wikitable"
+|-
+!  !! Singular !! Dual !! Plural
+|-
+| 1EXCL || -ku || -mareqa || -miliqa, -maliqa, -mi(1), miqa(1)
+|-
+| 1INCL ||  || -karoqa || -kuluqa, -kaluqa, -ka(1)
+|-
+| 2 || -mu || -maroqa || -muluqa, -maluqa, -miu(1)
+|-
+| 3 || -na, -a || -daroqa || -da, -daluqa
+|}
+
+Again there are forms that were previously used only by women, in women's speech, that are no longer used. For the third person singular there are two forms ''-na'' and ''-a'', and their use is often phonologically determined, in particular so there are no sequences of three vowels.<ref name=":17" /> 
+
+{{interlinear|number=(19)
+|'''taqe-fuil-a''' maka nia
+|ascend-site.3.OBJ father 3SG
+|"(of a son) replace his father."<ref name=":16" />}}
+
+{{interlinear|number=(20)
+|Nia biinga qa-na qe aqi si '''thaitoqoma-na'''
+|3SG sleep SBEN-3SG.PERS 3SG.NFUT NEGV know-3SG.OBJ
+|"He was asleep (and) didn't know (about) it."<ref name=":16" />}}
+
+The ''-na'' object pronoun is used here in (20) to follow the vowel ''a''.
+
+=== Subject Pronouns ===
+
+Toqabaqita has subject indexing suffixes which appear on the verb and also indicate nonfuture tense, future tense, imperfect aspect, sequentiality, negative aspect, and dehortation.<ref>Lichtenberk 2008, p.143</ref> There is some suffixes that are the same in the third person dual and plural categories. It is interesting to observe that there are no archaic women's speech forms noted by Lichtenberk.
+{| class="wikitable"
+|-
+!  !! nonfuture !! future/imperfect !! sequential !! negative !! dehortive
+|-
+| 1SG || ku || kwai || kwa || kwasi || kwata
+|-
+| 2SG || qo, qoi || qoki || qoko || qosi || qoto
+|-
+| 3SG || qe, e || kai || ka || si || ta
+|-
+| 1DU(EXCL) || mere || meki || meka || mesi || meta
+|-
+| 1DU(INCL) || koro || koki || koka, koko || kosi || kota
+|-
+| 2DU || moro, mori || moki || moka, moko || mosi || mota
+|-
+| 3DU || kero || keki, kiki || keko, kiku || kesi, kisi || keto
+|-
+| 1PL(EXCL) || mili || miki || mika || misi || mita
+|-
+| 1PL(INCL) || kulu || kuki || kuka || kusi || kuta
+|-
+| 2PL || mulu || muki || muka, muku || musi || muta
+|-
+| 3L || kera, kere, kilu || keki, kiki || keka, kiku || kesi, kisi || keta
+|}
+.<ref>Lichtenberk 2008, p.144</ref>
+
+{{interlinear|number=(21)
+|Mada sa '''mika''' fula qi qusungadi ka leqa ba-na 
+|or IRR 1PL(EXCL).SEQ arrive LOC tomorrow 3SG.SEQ be.good LIM-3SG.PERS 
+|"If we come tomorrow, will that be alright? ({{lit}} will that only be good?)"<ref>Lichtenberk 2008, p.147</ref>}}
+
+{{interlinear|number=(22)
+|Wela qeri roo qaaqae nia ki' '''qe''' taqaa 
+|child that two 3SG PL 3SG.NFUT be.bad 
+|"The child, both of his legs are no good."<ref>Lichtenberk 2008, p.151</ref>}}
+
+== Possession ==
+
+Possession in Toqabaqita is relational in that there are two entities in the relationship the "possessor" and the "possessum". The possessor may own an item, it may be a body part, or a tool. But this also includes relationships with the person or item, including a kinship relationship. Lichtenberk prefers to term these "personal suffixes" as they not only index possession, but also with a transitive verb to index their subject, to indicate a recipient/beneficiary relationship, and to index a complement with a number of prepositions. These suffixes can be used with both lexical nouns and verbs. It can be seen that some of these suffixes are identical with the singular object pronoun suffixes, namely -''ku'', -''na'', and -''a''.<ref name=":18">Lichtenberk 2008, p.376</ref>
+
+{| class="wikitable"
+|-
+!  !! singular !! dual !! plural
+|-
+| 1EXCL || -ku || -mareqa || -miliqa, maliqa, -mi(1), -miqa(1)
+|-
+| 1INCL ||  || -karoqa || -kuluqa, -kulaqa, -ka(1)
+|-
+| 2 || -mu || -maroqa || -muluqa, -maluqa, -miu(1)
+|-
+| 3 || -na, -a || -daroqa || -da, -daluqa
+|}
+<ref name=":18" />
+Again there are forms previously used by women in speech, that are no longer used, marked (1). In terms of semantics the personal suffixes are used with relational nouns where the relationship is described as inalienable possession. This includes parts of a whole (24), body parts (23,27), products of a possessor (25,26), and integral contents such as blood of animal or juice of a fruit.<ref>Lichtenberk 2008, p.378</ref>
+
+{{interlinear|number=(23)
+|gwalusu-ku
+|nose-1SG.PERS
+|"my nose" <ref name=":19">Lichtenberk 2008, p.379</ref>}}
+
+{{interlinear|number=(24)
+|boor-a kilu
+|bottom-3SG.PERS hole
+|"the bottom of a hole" <ref name=":19" />}}
+
+{{interlinear|number=(25)
+|qiiqida-ku
+|sweat-1SG.PERS
+|"my sweat"<ref name=":20">Lichtenberk 2008, p.380</ref>}}
+
+{{interlinear|number=(26)
+|nuu-na
+|shadow/reflection/picture-3SG.PRS
+|"a man's shadow/reflection/picture"<ref name=":20" />}}
+
+{{interlinear|number=(27)
+|babali-na 
+|check-3SG.PERS 
+|"his/her cheek(s)"<ref name=":19" />}}
+
+From a phontactic point of view, words with ''l'' or ''r'' in the syllable use third person singular -''na'', as in example (27). Attributes as well as spatial and temporal relations of the possessor are also designated with these personal suffixes, as in example (28).<ref name=":19"/>
+
+{{interlinear|number=(28)
+|qi '''qintoqo-na''' biqu naqi
+|LOC centre-3SG.PERS house this
+|"in the centre of this house"<ref>Lichtenberk 2008, p.390</ref>}}
+
+Toqabaqita also employs the bare possessive noun phrase where there is no indexing of the possessor on the possessed noun. A Possessor noun phrase must be present, this may be a lexical noun or a pronoun. The two following examples display this, in that a possessor noun phrase is pronominal, and it is the independent personal pronoun that is employed. In this manner all the independent pronouns can be bare possessor nouns.<ref name=":21"/>
+
+{{interlinear|number=(29)
+|biqu '''keeroqa''' na{{=}}i Takwaraasi
+|house 3DU REL{{=}}LOC Takwarassi
+|"their house at Takwaraasi"<ref name=":21">Lichtenberk 2008, p.384</ref>}}
+
+{{interlinear|number=(30)
+|tarausis tekwa '''nau''' baa
+|trousers be.long 1SG that
+|"those long trousers of mine"<ref name=":21" />}}
+
+== Negation ==
+There are a range of strategies that can be used to express negation in Toqabaqita. These are the simple negative, the negative verb, and the double negative construction.
+
+=== Simple negative ===
+
+==== Overview ====
+The simple negative occurs when negation is achieved through means of the negative subject markers alone.<ref name=":0">Lichtenberk 2008, p. 735</ref> The negative subject markers in Toqabaqita are listed [[To{{hamza}}abaita language#Subject Pronouns|above]].
+
+Syntactically, the negative subject markers occur in the verb phrase, between the irrealis marker (where present) and preverbal particles (where present). The negative subject markers always precede the verb.<ref>Lichtenberk 2008, p. 54</ref>
+
+The negative subject markers can be used to negate a range of clause types, such as declarative and imperative, shown in (31) and (32) below. 
+
+{{interlinear|number=(31)
+|... tha wela baa si fula naqa, ...
+|{} PRSMKR child that 3SG.NEG arrive PRF {}
+|"[The people looked and looked (around),] (but) the boy had not arrived, ..."<ref name=":0" />}}
+
+{{interlinear|number=(32)
+|Qosi waela qani nau
+|2SG.NEG laugh GENP 1SG
+|"Don't laugh at me."<ref name=":1">Lichtenberk 2008, p. 736</ref>}}
+
+They also occur in clauses with future- and past-time reference, as in (33) and (34) below.
+
+{{interlinear|number=(33)
+|Nga wane baa ki kesi lae bo{{=}}mai i qusungadi
+|IDENT man that PL 3PL.NEG go ASRT{{=}}VENT LOC tomorrow
+|"The men will not come tomorrow."<ref name=":1" />}}
+
+{{interlinear|number=(34)
+|Nga wane baa ki kesi fula boqo i roqo
+|IDENT man that PL 3PL.NEG arrive ASRT LOC yesterday
+|"The men did not arrive yesterday."<ref name=":1" />}}
+
+The simple negation and double negation strategies are often used interchangeably, although the double negative is more common.<ref name=":1" /> However, there is one context in which only simple negation occurs; this is where the negated verb functions as a noun modifier<ref>Lichtenberk 2008, p. 736-737</ref> as in example (35).
+
+{{interlinear|number=(35)
+|fanua si rodo
+|place NEG be.dark
+|"place (that is) not dark', 'place without darkness" (referring to Christian heaven)<ref name=":2">Lichtenberk 2008, p. 737</ref>}}
+
+==== "Negative additiveness" ====
+The simple negative is also used in a multi-clausal construction referred to as "negative additiveness".<ref name=":2" /> The first clause in this construction is positive while any subsequent clauses will be negated using the negative subject markers. The underlying subjects of each clause will typically have the same reference, but the negative clause(s) will not have an expressed subject phrase.<ref name=":2" />
+
+Example (36) illustrates the negative additiveness construction. The subject of both clauses is ''nia'', third person singular, but the second clause does not contain a subject phrase.
+
+{{interlinear|number=(36)
+|Nia e lae na-na si baqe laqu
+|3SG 3SG.NFUT go PRF-3SG.PERS 3SG.NEG speak ADD
+|"He went (away) without saying anything ({{lit}} he did not also speak)."<ref name=":2" />}}
+
+The negative additiveness construction does, however, allow distinct subject identities when its constituent clauses involve weather expressions.<ref name=":3">Lichtenberk 2008, p. 738</ref> For example, the subject of the first verb in (37), ''-qaru'' ‘fall,{{hamza}} is ''dani'' ‘rain.{{hamza}} However, the underlying subject of the second verb in (37), ''thato'' ‘be sunny{{hamza}}, is ''fanua'' ‘place{{hamza}}<ref name=":3" /> as illustrated in (38). Nevertheless, the only expressed subject in (37) is that of the first clause.
+
+{{interlinear|number=(37)
+|Dani e qaa-qaru, si thato naqa.
+|rain 3SG.NFUT REDUP-fall 3SG.NEG be.sunny PRF
+|"It has been raining and raining, without any sun ({{lit}} it has not become sunny)."<ref name=":3" />}}
+
+{{interlinear|number=(38)
+|(Fanua) qe thato naqa.
+|place 3SG.NFUT be.sunny PRF
+|"It is sunny now." "It has become sunny."<ref name=":3" />}}
+
+=== The negative verb ===
+
+==== Overview ====
+The second major strategy to express negation in Toqabaqita is the use of the negative verb ''aqi''. This verb has a range of meanings, including ‘not be so, not be the case{{hamza}} in general uses, and ‘not exist; not be available{{hamza}} in existential constructions.<ref name=":3" />
+
+''Aqi'' diverges from typical verbal behaviour in Toqabaqita in two key ways. Firstly, it only occurs with third person singular subject markers,<ref name=":3" /> rather than the full range of subject markers. Secondly, it typically does not take subject noun phrases.<ref name=":3" />
+
+Example (39) shows the use of the negative verb to describe the non-occurrence of a prayer service. 
+
+{{interlinear|number=(39)
+|... teqe fa Sandee kai aqi, rua-na fa Sandee ka faa-faqa-rongo-a boqo tha Rongoomea kai ngali ...
+|{} one CLF Sunday 3SG.FUT not.be.so two-3.PERS CLF Sunday 3SG.SEQ REDUP-CAUS-hear-3.OBJ ASRT PRSMKR Rongoomea 3SG.FUT take.church.service {}
+|"... one Sunday there will be nothing, the following ({{lit}} second) Sunday he will tell Rongoomea to take the service ..."<ref name=":4">Lichtenberk 2008, p. 739</ref>}}
+
+==== Negative existential sentences ====
+Negative existential sentences are used to express the non-existence of an entity<ref name=":5">Lichtenberk 2008, p. 919</ref> and ''aqi'' exhibits different syntactic behaviour when used in negative existential constructions.
+
+Firstly, where ''aqi'' normally does not take subject noun phrases, it does take a subject noun phrase when used for negative existentials. Furthermore, in negative existentials, the subject phrase follows the verb, as shown in example (40) below. This is in contrast to the standard constituent order in Toqabaqita in which the subject precedes the verb,<ref>Lichtenberk 2008, p. 44</ref> shown in the non-negative existential sentence in example (41).
+
+{{interlinear|number=(40)
+|Qe aqi ta firu-a
+|3SG.NFUT not.exist some fight-DVN
+|'There was no war (going on at that time).'<ref name=":5" />}}
+
+{{interlinear|number=(41)
+|... roo kale-qe doo ii ba-n{{=}}i ofi-na.
+|{} two baby-ASS thing exist LIM-3SG.PERS{{=}}LOC marsupium-3SG.PERS
+|'... (perhaps) there are two baby ones in its pouch.' (Wondering whether there are baby possums in an adult possum's marsupium.)<ref>Lichtenberk 2008, p. 916</ref>}}
+
+Additionally, subject markers in negative existential constructions must be third person singular.<ref name=":5" /> For example, in (42), below, it can be seen that although the subject phrase ''tai toqa'' ‘some people{{hamza}} is plural and human, the corresponding subject marker ''qe'' is third person singular.
+
+{{interlinear|number=(42)
+|Qe aqi tai toqa qi laa aququa naqi
+|3SG.NFUT not.exist some.PL people LOC INE island this
+|"There are no people (living) on ({{lit}} in) this island."<ref name=":4" />}}
+
+=== Double negative construction ===
+The third strategy used to express negation in Toqabaqita is the double negative construction, which involves the negative verb ''aqi'' and negative subject markers in combination.<ref name=":6">Lichtenberk 2008, p. 741</ref> This construction is more common than the simple negative.<ref name=":1" />
+
+Broadly speaking, the double negative involves two negative clauses used sequentially. The first of these may be considered a "mini-clause" involving a third person subject marker and the negative verb ''aqi''. The second clause is a negative event clause that is negated using negative subject markers. The negative event clause does not include a subject phrase, however, a noun phrase corresponding to the subject of this event clause may optionally precede the mini-clause.<ref name=":6" />
+
+Two subtypes of the double negative have been identified; these are referred to as the "general" and "sequential" double negative constructions respectively.
+
+==== The general double negative ====
+The general double negative is used to negate an event clause. It can be schematised as follows:
+{|
+|
+| (NP) ||[''qe aqi'']|| [negative.event.clause] <ref name=":6" />
+|}
+
+The NP is optional as indicated by parentheses, while the "mini-clause" ''qe aqi'' and the subsequent negative event clause are both obligatory. Example (43) shows the use of the general double negative construction without the optional noun phrase. Example (44) shows a general double negative with the subject noun phrase expressed, and example (45) shows the construction's ungrammaticality when the subject phrase occurs within the negative event clause.
+
+{{interlinear|number=(43)
+|Qe aqi kwasi riki-a
+|3SG.NFUT NEGV 1SG.NEG see-SG.OBJ
+|"I haven't seen him."<ref name=":6" />}}
+
+{{interlinear|number=(44)
+|Nau qe{{=}}aqi kwasi thaofa
+|1SG 3SG.NFUT{{=}}NEGV 1SG.NEG be.hungry
+|"I am not hungry."<ref>Lichtenberk 2008, p. 744</ref>}}
+
+{{interlinear|number=(45)
+|*Qe{{=}}aqi nau kwasi thaofa
+|3SG.NFUT{{=}}NEGV 1SG 1SG.NEG be.hungry
+|("I am not hungry.")<ref>Lichtenberk 2008, p. 745</ref>}}
+
+==== The sequential double negative ====
+The sequential double negative is different from the general double negative in its constituents, semantics, and the contexts in which it occurs.
+
+Firstly, the subject marker in the mini-clause is the third person singular sequential marker, ''ka''. Secondly, the sequential construction only occurs following another clause; the coordinating construction ''ma'' 'and' may be optionally used to mark the relationship between these clauses.<ref name=":7">Lichtenberk 2008, p. 742</ref> Finally, where the general double negative expresses a general negation of the event clause, the sequential double negative expresses "unfulfilled expectation."<ref name=":7" /> In other words, it expresses that circumstances that might have been expected (based on preceding discourse) failed to come to pass.
+
+The sequential double negative construction can be schematised thus:
+{|
+|-
+|  ||... ||(''ma'') ||(NP) ||[''ka aqi'']
+|([negative.event.clause]) <ref name=":7" />
+|}
+
+Although this construction has been identified as a double negative, the negative event clause in this construction is grammatically optional. In which case, "in clauses expressing unfulfilled expectations ''aqi'' also functions as a lexical verb."<ref name=":7" />
+
+Example (46) shows this construction with the negative event clause omitted.
+
+{{interlinear|number=(46)
+|Sa keki lae mai, ma ka aqi
+|IRR 3PL.FUT go VENT and 3SG.SEQ not.be.so
+|"They should have come but did not." "They were expected to come but did not."<ref name=":7" />}}
+
+While the negative event clause is grammatically optional, many contexts can be found where it is expressed. Examples (47) and (48) below illustrate the use of this construction with an expressed negative event clause.
+
+{{interlinear|number=(47)
+|Kamiliqa mili lio, ka aqi misi riki-a ta wane
+|1PL(EXCL) 1PL(EXCL).NFUT look 3SG.SEQ NEGV 1PL(EXCL).NEG see-3.OBJ some person
+|"We looked (but) did not see anybody."<ref name=":7" />
+
+{{interlinear|number=(48)
+|Nau ku soe-toqo-na boqo, ma ka aqi si oli-si nau
+|1SG 1SG.NFUT ask-TEST-3SG.OBJ ASRT and 3SG.SEQ NEGV 3SG.NEG return-TR 1SG
+|"I did ask him, but ({{lit}} and) he did not answer me."<ref name=":7" />}}
+
+== Demonstratives and spatial deictics ==
+Toqabaqita boasts an array of demonstrative functions, with each category including its own formal criteria. These can be described under four basic categories:<ref name=":22">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=603|oclc=319967373}}</ref>
+
+* Determiner demonstratives
+* Qualifying demonstratives
+* Locative demonstrative adverbs
+* Situational demonstrative adverbs
+
+A case can also be argued for a group of reiterative demonstrative pronominals, however, since there is no overlap in formal criteria with other demonstratives, these will not be discussed.<ref name=":25">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=649–654|oclc=319967373}}</ref> Indeed, these four basic categories are loosely defined on criteria outlined by [[Nikolaus P. Himmelmann|Nikolaus P Himmelmann]],<ref name=":26">{{Cite book|last=Fox|first=Barbara|url=https://www.worldcat.org/oclc/34989998|title=Studies in Anaphora|publisher=J. Benjamins Pub|others=Nikolaus P Himmelmann|year=1996|isbn=1-55619-641-5|location=Amsterdam|pages=205–255|oclc=34989998}}</ref> however this entire article will also briefly consider demonstrative type criteria as argued by Holger Diessel,<ref name=":27">{{Cite journal|last=Diessel|first=Holger|date=March 2014|title=Demonstratives, Frames of Reference, and Semantic Universals of Space: Demonstratives and Frames of Reference|url=http://doi.wiley.com/10.1111/lnc3.12066|journal=Language and Linguistics Compass|language=en|volume=8|issue=3|pages=116–132|doi=10.1111/lnc3.12066}}</ref> which draws on evidence from linguistic theories beyond [[Linguistic typology|typology]], including [[Language acquisition|child language acquisition]], markedness theory, and [[Grammaticalization|grammaticalisation]].<ref name=":28">{{Cite journal|last=Cleary-Kemp|first=Jessica|date=2007|title=Universal Uses of Demonstratives: Evidence from Four Malayo-Polynesian Languages|url=https://www.jstor.org/stable/20172319|journal=Oceanic Linguistics|volume=46|issue=2|pages=325–347|issn=0029-8115}}</ref>
+
+A full list of all demonstrative forms is available below:
+{| class="wikitable"
+|+Demonstrative forms<ref name=":22"/>
+! rowspan="2" |Determiner demonstratives
+! rowspan="2" |Qualifying demonstratives
+! colspan="2" |Locative demonstrative adverbs
+! rowspan="2" |Situational demonstrative adverbs
+|-
+!Presentative
+!General
+|-
+|naqi/neqe
+|
+|neqe
+|
+|
+|-
+|qeri
+|
+|
+|
+|neri
+|-
+|qena
+|
+|nena
+|
+|nena
+|-
+|baa
+|
+|
+|
+|nabaa
+|-
+|labaa
+|
+|labaqa
+|labaa/libaa
+|
+|-
+|lakoo/lokoo
+|
+|lakoqo/lokoqo
+|lakoo/lokoo/likoo
+|
+|-
+|
+|loo
+|loqo
+|loori, taqabaa
+|
+|-
+|
+|fuu
+|fuqu
+|fuuri, fuubaa
+|
+|}
+This section here aims to discuss how spatial [[deixis]] is negotiated in the use of Toqabaqita demonstratives, although demonstrative forms also perform a range of other functions, including temporal deixis,<ref name=":23"/> forms of address,<ref name="Lichtenberk 2008 612">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=612|oclc=319967373}}</ref> and emphasis<ref name="Lichtenberk 2008 612"/> which will not be discussed here.
+
+=== Spatial distinctions ===
+Toqabaqita, like many [[Austronesian languages]],<ref>{{Cite book|last=Senft|first=Gunter|url=https://www.worldcat.org/oclc/58532774|title=Deixis and demonstratives in Oceanic languages|publisher=Pacific Linguistics, Research School of Pacific and Asian Studies|others=Malcolm D Ross|year=2004|isbn=0-85883-551-7|location=Canberra|pages=175–200|oclc=58532774}}</ref> makes distinctions between what will be termed 'spheres', wherein referent entities in a speech act may be considered members of the speaker's sphere (speaker proximal), the addressee's sphere (addressee proximal), or as belonging to neither (distal).<ref name=":23">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=604–605|oclc=319967373}}</ref> A further distinction can be made that refers to a speech act simply not belonging to the speaker's sphere.<ref name="Lichtenberk 2008 606">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=606|oclc=319967373}}</ref>
+
+There is some flexibility in terms of which sphere a referent may be categorised, starting with the most apparent:
+
+* physical proximity i.e. a referent that is physically closer to the addressee may be considered part of their sphere as opposed to the speaker's
+* if the referent is a part of a whole, the referent will form part of the sphere to which the whole belongs e.g. a speaker's arms and legs are speaker proximal
+* who is involved in a state of affairs, or else who is seen as central to the state of affairs being discussed in a speech act will also determine its sphere<ref name=":23" />
+
+Additionally, spatial distinctions are often combined with temporal aspects in Toqabaqita, where the time of the speech act also approximates physical proximity to a speaker.<ref name=":23" />
+
+The below table summarises this:
+{| class="wikitable"
+|+Aspects of a sphere<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=604|oclc=319967373}}</ref>
+!Relative physical proximity
+!Time of the speech act
+|-
+|Part-whole relations where the speaker/addressee is the whole e.g. body parts, body liquids, bodily excretions/secretions
+|Time that includes the time of the speech act
+|-
+|The speaker/addressee's location or an area that includes the speaker/addressee's location
+|Time that is proximal to the time of the speech act
+|-
+|The state of affairs characterised by the speaker/addressee's involvement
+|
+|}
+In addition to speaker relativity encoded by spheres, spatial distinctions are also made in terms of planar and elevational dimensions in Toqabaqita.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=604–617|oclc=319967373}}</ref> Primarily, the encoding of spheres correlates to the position of referents along a medial-distal plane, which contrasts with elevational, up-down distinctions which are described using qualifying demonstratives.
+
+Exceptions to these distinctions are evident, which are later discussed, particularly in the elevational distinction.<ref name=":24">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=619|oclc=319967373}}</ref> It is also worth reiterating that spatial deixis can often be semantically combined with some notion of temporal deixis, however the full extent of these functions will not be discussed due to scope.<ref name=":23"/>
+
+=== Determiner demonstratives ===
+Determiner demonstratives are modifiers within noun phrases. The internal structure of a noun phrase including a determiner demonstrative is illustrated below:
+
+<math>[[noun]determiner.demonstrative]</math><ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=229|oclc=319967373}}</ref>
+
+Their formal criteria are markedly different to that of the other demonstrative types listed in this section. Most saliently is their restriction in terms of syntactic use. Determiner demonstratives are the only identified type which can only apply within a noun phrase. In contrast, other demonstratives can apply as or can modify predicates, verbal predicates, and some take on extra functionality in that they are able to modify even obliques.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=603–649|oclc=319967373}}</ref>
+
+For Toqabaqita nouns, the default is always that the referent is definite, unless specified as indefinite. The absence of determiners in Toqabaqita may be attributed to its use of postnominal markers. However this lack of definite marking helps assist in obscuring its distinctions as a demonstrative.
+
+Example 49 shows how definite determiners are unmarked. It also includes use of an addressee proximal determiner demonstrative:
+
+{{interlinear|number=49
+|Wela qe biinga; qoko alu-a taunamo qena faafi-a.
+|child 3SG.NFUT be.asleep 2SG.SEQ put-3.OBJ mosquito.net that(2) SUPER-3SG.OBJ
+|"The child is asleep; put the mosquito net over him."<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=228|oclc=319967373}}</ref>}}
+
+Note that the demonstrative occurs prior to the object marker. Additionally, that ''wela'', is glossed as meaning 'the child', indicating a form of definiteness about the unmarked noun. Compare this to example 50 showing the use of the indefinite article marker, incidentally also the number one, alongside the use of a qualifying demonstrative:
+
+{{interlinear|number=50
+|Teqe qerofulae lo{{=}}e tatha naq{{=}}i mangaa.
+|one airplane upward{{=}}3SG.NFUT pass.by PRF{{=}}LOC air.space
+|"An airplane up there is passing by in the sky."<ref name=":29" />}}
+
+Note that in this example the demonstrative has fused with the postnominal marker.
+
+While the functionality of a qualifying demonstrative is broader in scope, and includes far less syntactic restriction than that of a determiner demonstrative (further discussion later), its usage in this example shows syntactic contrast with the prenominal indefinite article. For this reason, this example of a qualifying demonstrative is mentioned in this section, and shows that although the determiner demonstrative on its own can stray into conceptions of article functionality, it is, by formal criteria, a member of the demonstrative class.
+
+When comparing features cross linguistically, the issue of comparability is often that there are no one-to-one correlations between languages.<ref name=":26" /> Combining universal criteria from both [[Nikolaus P. Himmelmann|Himmelmann]]<ref name=":26" /> and Diessel,<ref name=":27" /> there are arguments for and against including what are called here "determiner demonstratives" as a type of demonstrative as opposed to a type of determiner or article. The name for this type of functionality in Toqabaqita itself hints that they possess flavours from both camps.
+
+See below for a full list of determiner demonstratives and their meanings:
+{| class="wikitable"
+|+Determiner demonstratives
+!Determiner demonstratives
+!Meaning
+|-
+|naqi, neqe
+|speaker proximal: "this"
+|-
+|qeri
+|speaker proximal: "this"; also used endophorically
+|-
+|quena
+|addressee proximal: "that(2)"
+|-
+|lakoo, lokoo, labaa
+|distal: "that(3)"
+|-
+|baa
+|absent from speaker's sphere: "that"; also used endophorically
+|}
+Note that the numbers 2, and 3 in parentheses in the table exist to differentiate the addressee and the distal, since in English, there is no comparable distinction.
+
+Determiner demonstratives can all function as exophoric markers, i.e. whose meaning refers to reference beyond the discourse, however only some may be used [[Endophora|endophorically]], i.e. referencing either an item previously mentioned ([[Anaphora (linguistics)|anaphoric]]) or that will be mentioned later in the discourse ([[Cataphora|cataphoric]]). There is further debate in typological linguistics as to whether [[Endophora|endophorically]] referencing demonstratives are perhaps a different subgroup, in contrast to [[Exophora|exophoric]] functionality which is widely considered core to the definition of demonstratives.<ref name=":26" /><ref name=":28" /> Since determiner demonstratives encode such a strong sense of spatial [[deixis]] in Toqabaqita, they have been included in this section, despite the increased level of syntactical restriction in typological formal criteria pertaining to its usage.
+
+==== Speaker proximal determiner demonstratives ====
+There are two phonologically varying forms of speaker proximal determiners; ''naqi'' and ''neqe''; and ''qeri'', which more commonly encodes temporal deixis, however can include some spatial deixis.
+
+Speaker proximal determiners encompass speech acts which refer to the speaker sphere.
+
+This is most straightforward in its use to signify the referent's proximity to the speaker as in example 51:
+
+{{interlinear|number=51
+|Nau kwai qono-toqo-na fasi sea naqi.
+|1SG 1SG.FUT sit-TEST-3.OBJ PREC chair this
+|"I am going to try sitting in this chair now." or "I am going to test this chair now by sitting in it."<ref name="Lichtenberk 2008 606"/>}}
+
+However the speaker proximal also applies to speech acts where the referent is a part of the speaker's whole e.g. if the speaker was referring to a body part in the speech act (see example 52).
+
+{{interlinear|number=52
+|Teqe si qai qe toqe-a qae nau naqi.
+|one PRTT wood 3SG.NFUT prick-3.OBJ foot 2SG this
+|"My foot, this one, got pricked on a stick." ({{lit}} "A stick pricked this foot of mine.")<ref name="Lichtenberk 2008 607">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=607|oclc=319967373}}</ref>}}
+
+If the referent is the speaker's location, or an area that includes the speaker's location, the speaker proximal is also used. Note that in example 53, the less common variant, ''neqe'', is used, however the meaning is the same and ''naqi'', would be exactly interchangeable.
+
+{{interlinear|number=53
+|Si ku{{=}}neqe e faqa-mamagu.
+|PRTT place{{=}}this 3SG.NFUT CAUS-consider.disgusting
+|"This place is disgusting."<ref name="Lichtenberk 2008 607"/>}}
+
+Speaker proximal determiners can also be used when the referent involves the speaker's state of affairs, or else, that which refers to something within the speaker's vicinity (see example 54).
+
+{{interlinear|number=54
+|Kulu faqa-aqi-a taqaa-laa naqi.
+|PL(INCL).NFUT CAUS-not.exist-3.OBJ be.bad-NMLZ this
+|"Let's put an end to this unpleasantness ({{lit}} badness).<ref name="Lichtenberk 2008 607"/>}}
+
+==== Addressee proximal determiner demonstratives ====
+When the addressee proximal determiner is used, ''qena'', the referent, or noun phrase to which ''qena'' modifies, is within the addressee sphere.
+
+Example 55 illustrates physical proximity to the addressee:
+
+{{interlinear|number=55
+|Taa n{{=}}o loge-tani-a i laa waqi qena?
+|what FOC{{=}}2SG.NFUT rummage.for-TR-3SG.OBJ LOC INE basket that(2)
+|"What are you rummaging in that basket for?"<ref name="Lichtenberk 2008 611">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=611|oclc=319967373}}</ref>}}
+
+Examples 56 and 57 demonstrate the addressee proximal forms used where the referent is part of the whole:
+
+{{interlinear|number=56
+|Losi-a gwango qena.
+|remove.nasal.mucus-3.OBJ nasal.mucus that(2)
+|"Get rid of your snot." (Said to a child with a snotty nose.)<ref name="Lichtenberk 2008 611"/>}}
+
+and lastly where the referent refers to the addressee's location or state of affairs:
+
+{{interlinear|number=57
+|Oli mai fasi-a laa maaqufi qena.
+|return VENT ABL-3.OBJ INE cave that(2)
+|"Come back out of the cave!"<ref name="Lichtenberk 2008 611"/>}}
+
+As can be seen, the nature of the addressee proximal form also means it is often used in imperative forms.
+
+==== Distal determiner demonstratives ====
+These are used when the referent belongs to neither the speaker's nor the addressee's spheres, provided that the referent is not significantly displaced vertically with respect to the deictic centre. The distal determiner appears in three phonological variants, ''lakoo'', ''lokoo'', and ''labaa,'' however to some speakers, ''labaa'' applies to relatively great distances, as opposed to ''lakoo'', and ''lokoo'' for short distances. Semantic nuance aside, the three forms are nonetheless grammatically interchangeable overall. Example 58 demonstrates the most common form, ''lokoo'', in use, however it would be perfectly grammatical to substitute ''lokoo'' with either ''lakoo'' or ''labaa''.
+
+{{interlinear|number=58
+|Wane lokoo ki keki fanga qa-da.
+|person that(3) PL 3PL.IPFV eat SBEN-3PL.PERS
+|"Those people are eating."<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=614|oclc=319967373}}</ref>}}
+
+==== An exophoric determiner demonstrative: Signalling absence ====
+There is yet one more type of determiner demonstrative, ''baa'', which signals the absence of the referent from the speaker's sphere.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=614–615|oclc=319967373}}</ref> Unlike the other determiner demonstratives, ''baa'', signals exophoric use which describes the absence rather than the location of a referent. Essentially, the use of ''baa'' doesn't tell us where the referent is, rather where it is not (the speaker's sphere). It is used to refer to entities which were once in the speaker's sphere, but which are no longer, for instance, it is commonly used in questions asking for where things are (see example 59).
+
+{{interlinear|number=59
+|Wela ba{{=}}e ni{{=}}i fei?
+|child that{{=}}3SG.NFUT be.located{{=}}LOC where?
+|"Where is the child?"<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=615|oclc=319967373}}</ref>}}
+
+Note that in example 59, ''baa'' has fused with the subject marker.
+
+Although not discussed here, ''baa'' also signals temporal deixis.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=615–616|oclc=319967373}}</ref>
+
+In [[Austronesian languages]], the speaker and addressee sphere distinctions are common, and languages will usually also include one other sphere, that of the distal or the absence.<ref name=":28" /> What is interesting about Toqabaqita is that it includes all four.<ref name=":25" />
+
+=== Qualifying demonstratives ===
+There are two qualifying demonstratives, together used to signal vertical displacement from the deictic centre:<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=616|oclc=319967373}}</ref>
+{| class="wikitable"
+|+
+!Qualifying demonstratives
+!Meaning
+|-
+|loo
+|distal and higher than deictic centre: "upward"
+|-
+|fuu
+|distal and lower than deictic centre: "downward"; also used endophorically
+|}
+While these qualifying demonstratives can also indicate temporal deixis,<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=621|oclc=319967373}}</ref> its discussion here will be limited to how spatial deixis is signalled.
+
+There is some overlap in terms of formal criteria with the determiner demonstratives in that the qualifying demonstratives also occur as part of the noun phrase. However, only qualifying demonstratives may take third person pronouns as the head, as in example 60:<ref name=":29"/>
+
+{{interlinear|number=60
+|Nia lo{{=}}e teo qa-na loqo.
+|3SG upward{{=}}3SG.NFUT lie SBEN-3SG.PERS up.there
+|"He up there (He who is upward) was lying up there."<ref name=":29"/>}}
+
+Note that, the qualifying demonstrative, ''loo'', has fused with the subject marker.
+
+Another formal difference which distinguishes the qualifying demonstratives from the determiner demonstratives is that the former are able to occur with indefinite, but referential noun phrases.<ref name=":29"/> In these cases, the qualifying demonstrative needs to specify indefiniteness, otherwise the default is definite. Recall example 50 used in earlier discussion. This demonstrates how an indefinite head can be modified by a qualifying demonstrative:
+
+{{interlinear|number=50
+|Teqe qerofulae lo{{=}}e tatha naq{{=}}i mangaa.
+|one airplane upward{{=}}3SG.NFUT pass.by PRF{{=}}LOC air.space
+|"An airplane up there is passing by in the sky."<ref name=":29">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=617|oclc=319967373}}</ref>}}
+
+This example also shows the use of a pronominal indefinite article, as well as a postnominal demonstrative.
+
+Qualifying demonstratives are also able to be used alongside a determiner demonstrative when used anaphorically, and in these cases, both modify the same head noun.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=617–618|oclc=319967373}}</ref> The qualifying demonstrative occurs after the determiner, as in the example 61:
+
+{{interlinear|number=61
+|Wane qeri loo kai gau keekene.
+|man that upward 3SG.IPFV pick.fruit.with.crook breadfruit
+|"The (aforementioned) man up there [in a tree] is picking breadfruit (hooking them with a crook and breaking them off)."<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=618|oclc=319967373}}</ref>}}
+
+It is clear the formal criteria used to distinguish qualifying demonstratives encompasses greater syntactic possibility, however its similarities to determiner demonstratives still attest to its typological classification as a demonstrative.
+
+=== Locative demonstrative adverbs ===
+These can be divided into two types. presentative adverbs, and general locative adverbs. Together they identify the location of an entity in space, or the presence, existence of an entity at a location.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=631|oclc=319967373}}</ref>
+
+Locative demonstrative adverbs make distinctions between speaker and addressee spheres as well as elevation:
+{| class="wikitable"
+|+
+!Presentative adverbs
+!General locative adverbs
+!Meaning
+|-
+|neq(e)
+|
+|speaker proximal: "here"
+|-
+|nena
+|
+|addressee proximal: "there(2)"
+|-
+|lakoq(o), lokoq(o), labaq(a)
+|lakoo, lokoo, likoo, labaa, libaa
+|distal, planar: "there(3)"
+|-
+|loq(o)
+|loori, taqabaa
+|distal and higher than the deictic centre: "up there"
+|-
+|fuq(u)
+|fuuri, fuubaa
+|distal and lower than deictic centre: "down there"
+|}
+Note that the speaker proximal form, ''neq(e)'', also functions as an emphatic marker, however this function will not be discussed here.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=636|oclc=319967373}}</ref>
+
+Despite diverging in formal criteria to the aforementioned demonstrative types, locative adverbs remain a form of demonstrative due to their function in distinguishing spatial deixis.<ref name=":26" /> Furthermore, if we broaden our definition of demonstrative to beyond our conceptions of its functionality in English, we can conceive that it is possible for parts of speech other than the noun phrase, to take on demonstrative, deictic marking.
+
+==== Presentative locative demonstrative adverbs ====
+These are used when the referent is visible at that location, and can be pinpointed.<ref name="Lichtenberk 2008 632–637">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=632–637|oclc=319967373}}</ref>
+
+Example 62 shows the speaker and addressee proximal presentative adverbs used in conversation between two speakers:
+
+{|
+|+
+!62
+|
+|-
+|
+|{{interlinear|number=A:|Qoo, teqe thaqoro neqe.|oh, one possum here|"Oh, there is a possum here."}}
+|-
+|
+|{{interlinear|number=B:|Thaqaro taa nena?|possum what? there(2)|What kind of possum is it there? (Male or female?)<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=633|oclc=319967373}}</ref>}}
+|}
+
+They are able to form part of a predicate, or as the predicate itself, the latter tending to be of emphatic use and often accompanied by relatively strong stress and higher pitch.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=632|oclc=319967373}}</ref> This formal criterion demarcates it from previously discussed demonstrative typology.
+
+Example 63 illustrates how the presentative locative demonstrative adverb, ''neq(e)'', is used to modify the predicate. in this case in the relative clause, rather than the subject noun of the whole phrase, ''bauta'':
+
+{{interlinear|number=63
+|Bauta kera na mili qaba-a ka tea ba-na neq.
+|boat 3PL REL 1PL(EXCL).NFUT pull-3SG.OBJ 3SG.SEQ lie LIM-3SG.PERS here
+|"The boat of theirs, which we had pulled (out), came to rest ({{lit}} lie here)."}}
+
+Note that locative adverbs are not part of the noun phrase, and so they are not, for instance, followed by a postnominal marker, which has been a criterion of both determiner and qualifying demonstratives (see example 64).
+
+While determiners are confined in use as part of a noun phrase, the use of the presentative locative demonstrative adverbs is far less restricted.<ref name="Lichtenberk 2008 632–637"/> It can also be used with possessor phrases, where the determiner may be used alongside.
+
+{{interlinear|number=64
+|Kwa riki-a biikok na kuki rii-riki-a nuu-na i seqe-na kaleko qena ki nena, ...
+|1SG.SEQ see-3.OBJ peacock REL PL(INCL).IPFV REDUP-see-3.OBJ picture-3SG.PERS LOC body-3.PERS clothees that(2) PL there(2) {}
+|"[In the zoo] I saw peacocks, which we (only) see pictures of on those clothes there (literally: on the body of those clothes there; here: wraparounds, which often have colourful patterns)..." (The speaker points at the designs on some of the addressees' clothes.)<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=635|oclc=319967373}}</ref>}}
+
+The presentative adverb may also take on an oblique object, as in example 65:
+
+{{interlinear|number=65
+|Oli faafi-a naifa wane n{{=}}o bili-a mai nena.
+|return CONF-3.OBJ knife man REL{{=}}2SG.NFUT steal-3.OBJ VENT there(2)
+|"Take back ({{lit}} return with) the man's knife that you stole (and brought), (the one) there (by you)."<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=635–636|oclc=319967373}}</ref>}}
+
+==== General locative demonstrative adverbs ====
+These are applicable when the entity or location referent is not visible, in contrast to the presentative adverb.<ref name="Lichtenberk 2008 637">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=637|oclc=319967373}}</ref> Likely due to this function, there are no speaker or addressee approximal forms.
+
+Example 66 shows ''labaa'' in use:
+
+{{interlinear|number=66
+|Nau ku riki nia mai labaa.
+|2SG 1SG.NFUT see 3SG VENT there(3)
+|"I saw him over there."<ref name="Lichtenberk 2008 637"/>}}
+
+General locative adverbs also show some flexibility in which clausal phrases they are able to modify, for instance they are able to capture prepositional phrases as seen in example 67:
+
+{{interlinear|number=67
+|Teqe doo qe qisuqisu qi loori.
+|one thing 3SG.NFUT move.rapidly.back.and.forth LOC up.there
+|"There is something moving rapidly back and forth up there."<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=638|oclc=319967373}}</ref>}}
+
+There are other less common applications for general locative adverbs, however which are not included here due to scope restraints.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=637–639|oclc=319967373}}</ref>
+
+=== Situational demonstrative adverbs ===
+These encode spatial/temporal deixis with an emphatic-identifying function, of which there are three members.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=639-340|oclc=319967373}}</ref> They are listed below alongside their spatial meanings:<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=639–640|oclc=319967373}}</ref>
+
+* ''neri'' (speaker proximal)
+* ''nena'' (non speaker proximal)
+* ''nabaa'' (past temporal significance, sphere is irrelevant)
+
+These are clause level constituents and occur clause finally. While their use does include functions beyond spatial deixis, discussion here will be limited due to scope.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=643–649|oclc=319967373}}</ref> For the same reasons, ''nabaa'', although listed to provide an accurate summary, is not further discussed here.<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=643–645|oclc=319967373}}</ref>
+
+Example 68 shows the use of both ''neri'' and ''nena'':
+
+{{interlinear|number=68
+|Nau ku maqasi qoe neri.
+|1SG 1SG.NFUT wait.for 2SG NPAST.HERE
+|"I'm waiting for you here."{{br}}
+[After a while]}}
+{{interlinear|indent=3
+|Maqasi nau nena.
+|wait.for 1SG NPAST.THERE
+|"Wait for me there."<ref name="Lichtenberk 2008 641">{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=641|oclc=319967373}}</ref>}}
+
+In this case, the speaker changes from ''neri'' to ''nena'' which is also an imperative (see example 69).
+
+{{interlinear|number=69
+|Manga taa neri?
+|time what? NPAST.HERE
+|"What time is it now?"<ref name="Lichtenberk 2008 641"/>}}
+
+Stylistic choices are also possible in that it is grammatical to choose a situational adverb depending on how the speaker wishes to contextualise the speech act. For instance, ''neri'', the speaker proximal, can be used to describe an addressee's situation if that same referent also impacts the speaker. This could be due to physical proximity, however could be more abstract, as in example 70 which involves a mother reprimanding her children in response to an earlier event which could have impacted all of the, including the mother herself, and thus invoking the speaker proximal:
+
+{{interlinear|number=70
+|Mosi ili-li-a naq{{=}}a buri neri!
+|2DU.NEG do-REDUP-3SG.OBJ PRF{{=}}LOC later.time NPAST.HERE
+|"Don't you ever do that again!"<ref>{{Cite book|last=Lichtenberk|first=Frantisek|url=https://www.worldcat.org/oclc/319967373|title=A grammar of Toqabaqita|date=2008|publisher=Mouton de Gruyter|isbn=978-3-11-019906-2|location=Berlin|pages=642|oclc=319967373}}</ref>}}
+
+== Conventions and Abbreviations ==
+The following table lists the conventions and abbreviations used in this page.<ref>Lichtenberk 2008, p. xxv-xxviii</ref> 
+{| class="wikitable"
+|1
+|first  person
+|-
+|2
+|second  person
+|-
+|3
+|third  person
+|-
+|ADD
+|additive
+|-
+|ASRT
+|assertive
+|-
+|ASS
+|associative
+|-
+|CAUS
+|causative
+|-
+|CLF
+|classifier
+|-
+|COM
+|comitative
+|-
+|DU
+|dual
+|-
+|DVN
+|deverbal noun
+|-
+|EXCL
+|exclusive
+|-
+|FUT
+|future
+|-
+|GENP
+|general preposition
+|-
+|IDENT
+|identifier
+|-
+|INE
+|inessive
+|-
+|INCL
+|inclusive
+|-
+|IPFV
+|imperfective
+|-
+|IRR
+|irrealis
+|-
+|LIM
+|limiter
+|-
+|LOC
+|(general) locative
+|-
+|n.
+|noun
+|-
+|NEG
+|negative
+|-
+|NEGV
+|negative verb
+|-
+|NFUT
+|nonfuture
+|-
+|NMLZ
+|nominaliser
+|-
+|O
+|direct object
+|-
+|OBJ
+|object
+|-
+|PERS
+|personal
+|-
+|PL
+|plural
+|-
+|PREC
+|precedentive
+|-
+|PRF
+|perfect
+|-
+|PROFORE
+|prenominal foregrounder
+|-
+|PRSMKR
+|person marker
+|-
+|REDUP
+|reduplication
+|-
+|REL
+|relative clause/phrase marker
+|-
+|S, SUBJ
+|subject
+|-
+|SBEN
+|self-benefactive
+|-
+|SEQ
+|sequential
+|-
+|SG
+|singular
+|-
+|TR
+|transitive (suffix)
+|-
+|V
+|verb
+|-
+|VENT
+|ventive
+|-
+|X
+|'other'  constituent, e.g. adverbial
+|-
+|=
+|cliticisation
+|-
+| -
+|word-internal morpheme boundary
+|}
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+ASRT:assertive
+PROFORE:prenominal foregrounder
+PRSMKR:person marker
+NEGV:negative verb
+SBEN:self-benefactive
+LIM:limiter
+GENP:general preposition
+IDENT:identifier
+VENT:ventive
+ADD:additive
+DVN:deverbal noun
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Footnotes==
+<references responsive="0" />
+
+== External links ==
+* Paradisec has [http://catalog.paradisec.org.au/collections/search?language_code=tbo a number of collections that include To{{hamza}}abaita language materials], including two collections of [[Arthur Capell]]'s materials ([http://catalog.paradisec.org.au/collections/AC1 AC1], [http://catalog.paradisec.org.au/collections/AC2 AC2]).
+
+==References==
+{{Reflist}}
+
+*Lichtenberk, F. 2008. ''A Grammar of Toqabaqita.'' De Gruyter:Berlin/Boston.
+*Lewis, M. P., Simons, G. F., & Fennig, C. D. 2015. ''Ethnoloq.'' Ethnologue: Languages of the World, Eighteenth edition. Dallas, Texas: SIL International. Available online at http://www.ethnologue.com Accessed 2015-03-23.)
+*Lynch,J. 2002. ''Typological Overview in Oceanic Languages.'' Curzon.
+*Hammarström, Harald & Forkel, Robert & Haspelmath, Martin & Bank, Sebastian. 2015.  ''Glottolog 2.4.'' Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at http://glottolog.org, Accessed on 2015-04-07.)
+
+{{Languages of the Solomon Islands}}
+{{Austronesian languages}}
+
+{{DEFAULTSORT:To'abaita language}}
+[[Category:Malaita languages]]
+[[Category:Languages of the Solomon Islands]]

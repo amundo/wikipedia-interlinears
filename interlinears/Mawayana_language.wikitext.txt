@@ -1,0 +1,167 @@
+{{Expand Portuguese|Língua mawayana|date=October 2020}}
+{{Infobox language
+|name=Mawayana
+|altname=Mapidian
+|states=[[Brazil]] and [[Suriname]]
+|region=
+|speakers=2
+|date=2013
+|ref = <ref>{{harvcolnb|Carlin|Mans|2013|p= 79}}.</ref>
+|familycolor=American
+|fam1=[[Maipurean languages|Arawakan]]
+|fam2=North Arawak
+|fam3= [[Pidjanan languages|Rio Branco]] (Wapishanan)<ref>{{harvcolnb|Aikhenvald|1999|p= 69}}.</ref>
+|dia1=Mawakwa?
+|lc1=mzx|ld1=Mawayana
+|lc2=mpw|ld2=Mapidian (duplicate code)<ref>Hammarström (2015) Ethnologue 16/17/18th editions: a comprehensive review: online appendices</ref>
+|glotto=mapi1252
+|glottoname=Mapidian-Mawayana
+|glotto2=mawa1268
+|glottoname2=Mawakwa
+}}
+
+'''Mawayana''' (Mahuayana), also known as '''Mapidian''' (Maopidyán), is a moribund [[Arawakan language]] of northern South America. It is spoken by a dozen elderly people living in ethnic [[Wai-wai people|Wai-wai]] and [[Tiriyó people|Tiriyó]] villages in [[Brazil]] and [[Suriname]].<ref name="Meira-2019"/>
+
+== Classification ==
+{{harvcoltxt|Aikhenvald|1999}} lists Mawayana (and possibly Mawakwa as a dialect) together with [[Wapishana language|Wapishana]] under a Rio Branco (North-Arawak) branch of the Arawakan family. {{harvcoltxt|Carlin|2006|p= 314}} notes that Mawayana "is closely related to Wapishana" and according to {{harvcoltxt|Ramirez|2001|p= 530}} they share at least 47% of their lexicon.
+
+== Phonology ==
+Mawayana has, among its consonants, two [[implosive consonant|implosives]], {{IPA|/ɓ/}} and {{IPA|/ɗ/}}, and what has been described as a "retroflex fricativised rhotic", represented with {{angbr|rž}}, that it shares with [[Wapishana language|Wapishana]]. The vowel systems contains four vowels ({{IPA|/i-e, a, ɨ, u-o/}}), each of which has a nasalised counterpart.<ref>{{harvcoltxt|Carlin|2006|p= 320}}</ref>
+
+===Consonants===
+{| class="wikitable" style="text-align:center;"
+|+ Mawayana consonant phonemes:<ref name="Meira-2019"/>
+! colspan="2" |
+! Labial
+! Alveolar
+! Palatal
+! Velar
+! Glottal
+|-
+! rowspan="2" | Plosive
+!{{small|plain}}
+|
+| {{IPAlink|t}}
+| {{IPAlink|ʧ}}
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+!{{small|implosive}}
+| {{IPAlink|ɓ}}
+| {{IPAlink|ɗ}}
+| {{IPAlink|ɗʲ}}
+|
+|
+|-
+! colspan="2" | Fricative
+|
+|
+| {{IPAlink|ʃ}}
+|
+|
+|-
+! colspan="2" | Rhotic
+|
+| {{IPAlink|ɾ}}
+|
+|
+|
+|-
+! colspan="2" | Nasal
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+|
+|-
+! colspan="2" | Glide
+|
+|
+| {{IPAlink|j}}
+| {{IPAlink|w}}
+|
+|}
+
+===Vowels===
+Mawayana vowel phonemes:<ref name="Meira-2019"/>
+:{| class="wikitable"
+| i || ɨ || u
+|-
+| e ||  || 
+|-
+| a ||  || 
+|}
+
+Vowels have both nasal and length contrast.
+
+==Morphology==
+:{| class="wikitable" 
+|+ Mawayana personal affixes:<ref name="Meira-2019">Meira, Sérgio. 2019. [https://periodicos.unifap.br/index.php/linguasindigenas/article/view/5979 A Study of the Genetic Relation between Mawayana and Wapishana (Arawakan Family)]. [https://periodicos.unifap.br/index.php/linguasindigenas ''Revista Brasileira de Línguas Indígenas''] (''RBLI''), vol. 2, no. 1 (Jan.-Jun. 2019), pp. 70-104.</ref>
+! 
+! singular
+! plural
+|-
+! 1
+| n-/m- -na
+| wa- -wi
+|-
+! 2
+| ɨ-/i- -i
+| ɨ- -wiko
+|-
+! 3
+| ɾ(ɨ/iʔ)- -sɨ
+| na- -nu
+|-
+! 3 refl.
+| a-
+| 
+|}
+
+:{| class="wikitable"
+|+ Mawayana verbal affixes:<ref name="Meira-2019"/>
+| thematic || -ta, -ɗa, -ɓa
+|-
+| present || -e
+|-
+| reciprocal || -(a)ka
+|-
+| adjectival || -ɾe, -ke
+|}
+
+== Morphosyntax ==
+Mawayana has a polysynthetic morphology, mainly head-marking and with suffixes, although there are pronominal prefixes. The verbal arguments are indexed on the verb through subject suffixes on intransitive verbs, while agent prefixes and object suffixes on transitive verbs {{harvcol|Carlin|2006|page= 319}}.
+
+{{interlinear|glossing=no abbr|indent=3
+|n-kataba-sï
+|1A-grab.PST-3O
+|'I grabbed him.'}}
+
+{{interlinear|glossing=no abbr|indent=3
+|tõwã-sï
+|sleep.PST-3S
+|'He fell asleep.'}}
+
+{{interlinear|glossing=no abbr|indent=3
+|nnu a-na mauɗa chika-dza Mawayana
+|1PN when-1S die NEG-COMPL mawayana
+|'When I die there will be no Mawayana left at all.'}}
+
+==Notes==
+{{Reflist}}
+
+== References ==
+* {{cite book | last= Aikhenvald | first= Alexandra Y. | year= 1999 | chapter= The Arawak language family | editor-first= Alexandra Y. | editor-last= Aikhenvald | editor2-first= R.M.W. | editor2-last= Dixon | title= The Amazonian languages | pages= 65–106 | location=  Cambridge | publisher= Cambridge University Press }}
+* {{cite book| last= Carlin | first= Eithne B | year= 2006 | chapter= Feeling the need. The borrowing of Cariban functional categories into Mawayana (Arawak) | editor-first= Alexandra Y. | editor-last= Aikhenvald | editor2-first= R.M.W. |editor2-last= Dixon | title= Grammars in contact: A cross-linguistic typology | publisher= Oxford University Press | location= Oxford }}
+* {{cite book|  last= Carlin | first= Eithne B | year= 2011 | chapter= Nested identities in the Southern Guyana-Surinam corner | editor-first= Alf | editor-last= Hornborg | editor2-first= Jonathan D. | editor2-last=Hill | title= Ethnicity in ancient Amazonia: Reconstructing past identities from archaeology, linguistics, and ethnohistory |  url= https://archive.org/details/ethnicityancient00horn |  url-access= limited | pages= [https://archive.org/details/ethnicityancient00horn/page/n245 225]–236 | publisher= University Press of Colorado }}
+* {{cite book| last= Carlin | first= Eithne B | author2-first= Karin | author2-last= Boven | year= 2002 | chapter= The native population: Migration and identities | editor-first= Eithne B. | editor-last= Carlin | editor2-first= Jacques | editor2-last= Arends | title= Atlas of the languages of Suriname | pages= 11–45 | publisher= KITLV Press }}
+* {{cite book| last= Carlin | first= Eithne B | author2-first= Jimmy | author2-last= Mans | year= 2013 | chapter= Movement through time in the southern Guianas: deconstructing the Amerindian kaleidoscope | editor-first= Eithne B. | editor-last= Carlin | editor2-first= Isabelle | editor2-last= Leglise | editor3-first= Bettina | editor3-last= Migge | editor4-first= Paul |display-editors = 3 | editor4-last= Tjon Sie Fat | title= In and out of Suriname: Language, mobility, and identity | series= Caribbean Series | location= Leiden | publisher= Brill }}
+* {{cite book| last= Ramirez | first= Henri | year= 2001 | title= Línguas Arawak da Amazônia setentrional | location= Manaus | publisher= Universidade Federal do Amazonas | language= Portuguese }}
+
+{{Languages of Guyana}}
+{{Languages of Suriname}}
+{{Arawakan languages}}
+
+[[Category:Arawakan languages]]
+[[Category:Languages of Guyana]]
+[[Category:Endangered Arawakan languages]]

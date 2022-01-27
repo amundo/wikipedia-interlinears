@@ -1,0 +1,221 @@
+{{short description|Afro-Asiatic language spoken by Sidama people in Ethiopia}}
+{{Infobox language
+|name=Sidama 
+|states=[[Ethiopia]] 
+|region= [[Sidama Region|Sidama region]]
+|speakers=3 million
+|ref=e19
+|date=2010
+|familycolor=Afro-Asiatic
+|fam2=[[Cushitic languages|Cushitic]]
+|fam3=[[Highland East Cushitic languages|Highland East]]
+|iso2=sid
+|iso3=sid
+|glotto=sida1246
+|glottorefname=Sidamo
+}}
+
+'''Sidama''' or '''Sidaamu Afoo''' is an [[Afro-Asiatic languages|Afro-Asiatic language]] belonging to the [[Highland East Cushitic languages|Highland East Cushitic]] branch of the [[Cushitic languages|Cushitic]] family. It is spoken in parts of southern [[Ethiopia]] by the [[Sidama people]], particularly in the densely populated [[Sidama Region|Sidama National Regional State]] (SNRS). Sidaamu Afoo is the ethnic [[Exonym and endonym|autonym]] for the language, while Sidaminya is its name in [[Amharic language|Amharic]]. Although it is not known to have any specific dialects, it shares over 64% lexical similarity with [[Alaba-K’abeena language|Alaba-K'abeena]], 62% with [[Kambaata language|Kambaata]], and 53% with [[Hadiyya language|Hadiyya]], all of which are other languages spoken in southwestern [[Ethiopia]]. The word order is typically SOV. Sidaama has over 100,000 [[Second language|L2]] speakers. The literacy rate for [[First language|L1]] speakers is 1%-5%, while for L2 speakers it is 20%. In terms of its writing, Sidaama used an Ethiopic script up until 1993, from which point forward it has used a Latin script.<ref>Raymond G. Gordon Jr., ed.  2005.  ''Ethnologue:  Languages of the World''.  15th edition.  Dallas:  Summer Institute of Linguistics.</ref>
+
+The term ''Sidamo'' has also been used by some authors to refer to larger groupings of East Cushitic and even [[Omotic languages]].<ref>Ring, Trudy, Noelle Watson, and Paul Schellinger. [https://books.google.com/books?id=R44VRnNCzAYC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false "International Dictionary of Historic Places: Middle East and Africa, Volume 4."] 1994.</ref> The languages within this Sidamo grouping contain similar, alternating phonological features.<ref>Leslau, Wolf. [https://www.jstor.org/stable/596302 "Sidamo Features in the South Ethiopic Phonology."] "Journal of the American Oriental Society," 1959.</ref> The results from a research study conducted in 1968-1969 concerning mutual intelligibility between different Sidamo languages suggest that Sidaama is more closely related to the [[Gedeo language]], which it shares a border with to the south, than other Sidamo languages.<ref>Bender, Marvin L. and Robert L. Cooper. [http://www.sciencedirect.com/science/article/pii/002438417190074X "Mutual Intelligibility Within Sidamo."] 1979.</ref> According to the ''Ethnologue'', the two languages share a lexical similarity of 60%.<ref>Raymond G. Gordon Jr., ed.  2005.  ''Ethnologue:  Languages of the World''.  15th edition.  Dallas:  Summer Institute of Linguistics.</ref> Sidaama vocabulary has been influenced by [[Oromo language|Oromo]] vocabulary.
+
+== Phonology ==
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center"
+! colspan="2" |
+![[Labial consonant|Labial]]
+![[Dental consonant|Dental]]/<br>[[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan="3" |[[Stop consonant|Stop]]
+!{{Small|plain}}
+|b
+|t&emsp;d
+|
+|k&emsp;g
+|
+|-
+!{{Small|ejective}}
+|pʼ
+|tʼ
+|
+|kʼ
+|ʔ
+|-
+!{{Small|implosive}}
+|
+|ɗ
+|
+|
+|
+|-
+! rowspan="2" |[[Affricate]]
+!{{Small|plain}}
+|
+|
+|tʃ&emsp;dʒ
+|
+|
+|-
+!{{Small|ejective}}
+|
+|
+|tʃʼ
+|
+|
+|-
+! colspan="2" |[[Fricative]]
+|f
+|s&emsp;z
+|ʃ
+|
+|h
+|-
+! rowspan="2" |[[Nasal consonant|Nasal]]
+!{{Small|plain}}
+|m
+|n
+|ɲ
+|
+|
+|-
+!{{Small|glottalized}}
+|ʼm
+|ʼn
+|
+|
+|
+|-
+! rowspan="2" |[[Tap and flap consonants|Tap/Flap]]
+!{{Small|plain}}
+|
+|ɾ
+|
+|
+|
+|-
+!{{Small|glottalized}}
+|
+|ʼɾ
+|
+|
+|
+|-
+! rowspan="2" |[[Approximant]]
+!{{Small|plain}}
+|w
+|l
+|j
+|
+|
+|-
+!{{Small|glottalized}}
+|
+|ʼl
+|ʼj
+|
+|
+|}
+
+* Other consonant sounds /p/ and /v/ are only heard from loanwords.
+* Gemination is also present for most consonants (e.g. /tː, kː, pʼː/).<ref>{{Cite book|last=Kawachi|first=Kazuhiro|title=A grammar of Sidaama (Sidamo): a Cushitic language of Ethiopia|publisher=University of Buffalo|year=2007}}</ref>
+* /ɾ/ can also be heard as a trill [rː] when geminated.
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|- align="center"
+![[Close vowel|Close]]
+|i iː
+|
+|u uː
+|-
+![[Mid vowel|Mid]]
+|e eː
+|
+|o oː
+|- align="center"
+![[Open vowel|Open]]
+|
+|a aː
+|
+|}
+
+== Grammar ==
+
+=== Noun Phrases ===
+In Sidaama, not all [[noun phrase]]s have [[noun]]s. This can occur when it is so obvious what kind of thing the [[referent]] of the noun phrase is, that it is unnecessary for the speaker to mention it. Sidaama has two types of noun phrases without nouns. One type is made up only of an [[adjective]] or a [[Numeral (linguistics)|numeral]], where the adjective or the numeral agrees in case, number, and gender with the referent of a noun phrase. This is shown in the examples below:
+
+{{interlinear|indent=2
+|busul-u da-ø-ino.
+|smart-NOM.M come-3SG.M-PERF.3
+|‘The smart one (masculine) came.’}}
+
+{{interlinear|indent=2
+|sas-u da-ø-ino
+|three-NOM.M come-3SG.M-PERF.3
+|‘The three (masculine) came.’}}
+
+The other type of noun phrase without a noun is formed with a noun-phrase [[clitic]], or <small>NPC</small>. This <small>NPC</small> starts with ''t'' (<small>FEM</small>) or ''h'' (<small>MASC</small>). This is thought to originate from the Afro-Asiatic [[demonstrative]] containing ''t'' (<small>FEM</small>) or ''k'' (<small>MASC</small>). The Sidaama <small>NPC</small> appears in various forms. Which form is used then depends on the gender of the referent of the noun phrase, and the syntactic role or case of the noun phrase. When a noun phrase without a noun is formed with an <small>NPC</small>, both the speaker and the listener know its referent. In this case, the <small>NPC</small> attaches to the end of a [[Genitive case|genitive]] noun phrase or relative clause to form a noun phrase without a noun. This is shown in the examples below:
+
+{{interlinear|indent=2
+|isí{{=}}ti ba’-’-ino.
+|3SG.M.GEN{{=}}NPC.F.NOM disappear-3SG.F-PERF.3
+|‘His (FEM) disappeared.’}}
+
+{{interlinear|indent=2
+|ani ku’uí beett-í{{=}}ta seekk-o-mm-o.
+|1SG.NOM that.M.GEN child-GEN.M.MOD{{=}}NPC.F.ACC repair-PERF.1-1SG-M
+|‘I (MASC) repaired that boy’s (FEM).’<ref>Kawachi, Kazuhiro. [https://researchmap.jp/?action=cv_download_main&upload_id=156457 "Noun Phrases Without Nouns in Sidaama (Sidamo)."] 2011.</ref>}}
+
+== References ==
+{{Reflist}}
+
+=== Grammars ===
+* Abebe Gebre-Tsadik (1982) "Derived nominals in Sidamo," B.A. thesis, Addis Ababa University. Addis Ababa.
+* Abebe Gebre-Tsadik. 1985. "An overview of the morphological structure of Sidamo verbs," ''The verb morphophonemics of five highland east Cushitic languages, including Burji''. Afrikanistische Arbeitspapiere 2. Cologne: Institut für Afrikanistik.  Pages 64–81.
+* Anbessa Teferra (1984) "Sidamo verb morphology," B.A. thesis, Addis Ababa University. Addis Ababa.
+* Anbessa Teferra.  2000.  "A grammar of Sidaama," Doctoral dissertation. Jerusalem, Israel: The Hebrew University.
+* ANBESSA TEFERRA, ''Sidaama (Sidaamu Afoo)'', Languages of the World/Materials, 501 (München: LINCOM GmbH, 2014); 109 pp.
+* [[Enrico Cerulli|Cerulli, Enrico]] (1938) ''La Lingua e la Storia del Sidamo'' (Studi Etiopici II). Rome: Istituto per l’Oriente.
+* [[Marcel Cohen|Cohen, Marcel]] (1927) "Du verbe sidama (dans le groupe couchitique)," ''Bulletin de la Société de la Linguistique de Paris'' 83: 169-200.
+* Gasparini, Armido (1978) ''Grammatica Practica della Lingua Sidamo''. Awasa (Mimeographed: 127 pp.).
+* Kawachi, Kazuhiro (2007) "A grammar of Sidaama (Sidamo), a Cushitic language of Ethiopia," Doctoral dissertation. State University of New York at Buffalo.
+* Moreno, Martino Mario (1940) ''Manuale di Sidamo''. Milan: Mondadori.
+
+=== Dictionaries ===
+* ACADEMY OF ETHIOPIAN LANGUAGES AND CULTURES, ''Sidaamu Afii Dikshinere'' (‘Sidaama monolingual dictionary’) (Addis Ababa: Academy of Ethiopian Languages and Cultures, Addis Ababa University, 2015)
+* Gasparini, Armido (1983) ''Sidamo-English dictionary''. Bologna, Italy: E.M.I.
+* Hudson, Grover (1989) ''Highland East Cushitic Dictionary'' (Kuschitische Sprachstudien 7). Hamburg: Buske.
+* Sileshi Worqineh and Yohannis Latamo (1995) ''Sidaamu-Amaaru-Ingilizete Afii Qaalla Taashsho'' [Sidaama–Amharic–English Dictionary]. Awasa: Sidaamu Zoone Wogattenna Isporte Biddishsha [Sidaama Zone Sports and Culture Department].
+* Kjell Magne Yri, & Steve Pepper. (2019). dictionaria/sidaama: Sidaama Dictionary (Version v1.0) [Data set]. Zenodo. {{doi|10.5281/zenodo.3338363}}
+
+=== Bible translations ===
+* British and Foreign Bible Society (1933) ''St. Mark’s Gospel in Sidamo''. London.
+* Ethiopian Bible Society (1984) ''HaÌro GondoÌro'' [New Testament of Sidamo]. Addis Ababa.
+
+===Sociolinguistics and pragmatics===
+* ANBESSA TEFERRA. Women’s Language of Avoidance and Some Other Sidaama Endangered Cultural Practices. ''Journal of Afroasiatic Languages'' 6/1 (2016), 59–78.
+* FEKEDE MENUTA GEWTA. The sociolinguistics and pragmatics of greetings in Sidama. ''Journal of Languages and Culture'' 7/3 (2016), 28–36.
+* NIGUSSIE MESHESHA MITIKE and KJELL MAGNE YRI. Sociopolitical Discourse and Communication in Sidaama Folk Media. in ''Multilingual Ethiopia'' 339–357.
+* YRI, KJELL MAGNE. School Grammars with Everyday Vocabulary: Suggestion for a Culture Specific Approach, with Sidaamu Afoo as an example. in ''Multilingual Ethiopia'' 319–338.
+
+== External links ==
+* [http://www.msu.edu/~hudson/HECrefs.htm Bibliography of Highland East Cushitic] by [https://web.archive.org/web/20110607201605/http://www.msu.edu/%7Ehudson/index.htm Grover Hudson at the Michigan State University website].
+* [https://web.archive.org/web/20070724090701/http://www.panafril10n.org/wikidoc/pmwiki.php/PanAfrLoc/Sidamo PanAfrican L10n page on Sidamo]
+
+{{Languages of Ethiopia}}
+{{Cushitic languages}}
+
+{{Authority control}}
+
+[[Category:East Cushitic languages]]
+[[Category:Languages of Ethiopia]]
+[[Category:Subject–object–verb languages]]
+[[Category:Sidama Region]]

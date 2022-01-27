@@ -1,0 +1,239 @@
+{{short description|Constructed language}}
+{{Multiple issues|
+{{Primary sources|date=March 2013}}
+{{Refimprove|date=March 2013}}
+}}
+{{Infobox language
+|name=Láadan
+|creator=[[Suzette Haden Elgin]]
+|created=1982
+|setting=experiment in [[feminism|feminist]] [[linguistics]], and featured in Elgin's [[novel]] ''Native Tongue''
+|fam2=[[artistic language|artistic]] and [[philosophical language|philosophical]] language
+|fam3=[[fictional language]]
+|posteriori=[[a priori language]], with influences from [[Navajo language|Navajo]] and [[English language|English]]
+|iso3=ldn
+|linglist=ldn
+|glotto=laad1235
+|notice=IPA
+}}
+'''Láadan''' is a [[gynocentrism|woman-centered]] [[constructed language]] created by [[Suzette Haden Elgin]] in 1982 to test the [[Linguistic relativity|Sapir–Whorf hypothesis]],<ref>{{cite book|isbn=9780761169086|title=Atlas Obscura|page=23|last1=Foer|first1=Joshua|last2=Thuras|first2=Dylan|last3=Morton|first3=Ella|date=20 September 2016}}</ref> specifically to determine if development of a language aimed at expressing the views of women would shape a culture; a subsidiary hypothesis was that Western [[natural language]]s may be better suited for expressing the views of men than women. The language was included in her [[science fiction]] [[Native Tongue (Suzette Haden Elgin novel)|''Native Tongue'']] series. Láadan contains a number of words that are used to make unambiguous statements that include how one feels about what one is saying. According to Elgin, this is designed to counter [[androcentrism|male-centered]] language's limitations on women, who are forced to respond "I know I said that, but I meant this".
+
+== Phonology ==
+
+=== Tones ===
+Láadan is a [[tone (linguistics)|tonal language]]. It utilises two distinct tones:
+* ''lo''{{spaced ndash}}{{IPA|/lō/}} or {{IPA|/lò/}}, a short, medium or low tone, represented by a single unmarked vowel
+* ''ló''{{spaced ndash}}{{IPA|/ló/}}, a short, high tone, represented by a single marked vowel
+The word "Láadan" has three syllables: "lá-" with the short vowel /a/ plus high tone; "-a" with the short vowel /a/ and no tone; and "-dan".
+
+Láadan does not allow any double [i.e. long] phonemes. Whenever two identical short vowels would occur side by side in a single morpheme, one of them has to be marked for high tone. When adding an affix would result in two identical vowels side by side, an epenthetic /h/ is inserted to prevent the forbidden sequence. The language will allow either "máa" or "maá," but not "maa". These combinations can be described as:
+* ''loó''{{spaced ndash}}{{IPA|/lǒː/}}, a long, low-rising tone, represented by a double vowel, the second of which is marked
+* ''lóo''{{spaced ndash}}{{IPA|/lôː/}}, a long, high-falling tone, represented by a double vowel, the first of which is marked
+(Some people analyze these tone sequences as tonemic as well, for a total of four tones.)
+
+Elgin preferred an analysis of the language as having no long vowels and a single tone, the high tone (distinguished from "neutral, baseline pitch"), but she acknowledged that linguists using other formalisms would be justified in saying that there are two tones, high and low (or unmarked or mid).<ref>[http://ozarque.livejournal.com/253528.html?thread=4544600#t4544600 Elgin's blog]</ref>
+
+=== Vowels ===
+Láadan has five [[vowel]]s:
+* ''a''{{spaced ndash}}{{IPA|/ɑ/}}, an [[open back unrounded vowel]] (as [[English language|English]] ''calm''),
+* ''e''{{spaced ndash}}{{IPA|/ɛ/}}, an [[open-mid front unrounded vowel]] (as English ''bell''),
+* ''i''{{spaced ndash}}{{IPA|/ɪ/}}, a [[near-close near-front unrounded vowel]] (as English ''bit''),
+* ''o''{{spaced ndash}}{{IPA|/o/}}, a [[close-mid back rounded vowel]] (as English ''home''),
+* ''u''{{spaced ndash}}{{IPA|/u/}}, a [[close back rounded vowel]] (as English ''boon'').
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center;"
+! colspan="2" rowspan="2"|
+! rowspan="2"| [[Labial consonant|Labial]]
+! colspan="2"| [[Dental consonant|Dental]] /<br> [[Alveolar consonant|Alveolar]]
+! rowspan="2"| [[Postalveolar consonant|Postalveolar]]<br>/ [[Palatal consonant|Palatal]]
+! rowspan="2"| [[Glottal consonant|Glottal]]
+|- style="font-size: x-small"
+! [[Central consonant|central]]
+! [[Lateral consonant|lateral]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| m {{IPAslink|m}}
+| n {{IPAslink|n}}
+|
+|
+|
+|-
+! colspan=2|[[Plosive]]
+| b {{IPAslink|b}}
+| d {{IPAslink|d}}
+|
+|
+|
+|-
+! rowspan="2" | [[Fricative]]
+! style="font-size: x-small;" | voiceless
+|
+| th {{IPAslink|θ}}
+| lh {{IPAslink|ɬ}}
+| sh {{IPAslink|ʃ}}
+| h {{IPAslink|h}}
+|-
+! style="font-size: x-small;" | voiced
+|
+|
+|
+| zh {{IPAslink|ʒ}}
+|
+|-
+! colspan="2" | [[Approximant]]
+| w {{IPAslink|w}}
+| r {{IPAslink|ɹ}}
+| l {{IPAslink|l}}
+| y {{IPAslink|j}}
+|
+|}
+
+Láadan lacks the [[consonant]]s {{IPA|/p, t, k, ɡ, s, z, f, v/}}. However, it uses ''b'', ''d'', ''sh'' ({{IPA|/ʃ/}}), ''m'', ''n'', ''l'', ''r'', ''w'', ''y'' ({{IPA|/j/}}), ''h'' with the same phonetic value as English. In addition to these, three [[Digraph (orthography)|digraphs]] require further explanation:
+* ''th''{{spaced ndash}}{{IPA|/θ/}}, a [[voiceless dental fricative]] (always as in English ''think'', never as ''then''),
+* ''zh''{{spaced ndash}}{{IPA|/ʒ/}}, a [[voiced postalveolar fricative]] (as English ''plea'''s'''ure''),
+* ''lh''{{spaced ndash}}{{IPA|/ɬ/}}, a [[voiceless alveolar lateral fricative]] (as [[Welsh language|Welsh]] ''llan'').
+
+== Grammar ==
+
+Most Láadan sentences contain three [[grammatical particle|particles]]:
+
+* The ''speech-act'' particle{{spaced ndash}}this occurs at the beginning of the sentence and marks it as either a statement (''bíi''), a question (''báa''), ''et cetera''; in connected speech or writing, this particle is often omitted. They are:
+*; Bíi : Indicates a declarative sentence (usually optional)
+*; Báa : Indicates a question
+*; Bó : Indicates a command; very rare, except to small children
+*; Bóo : Indicates a request; this is the usual imperative/"command" form
+*; Bé : Indicates a promise
+*; Bée : Indicates a warning
+* The [[grammatical tense]] particle{{spaced ndash}}this occurs second in the sentence and marks it as either [[present tense]] (''ril''), [[past tense]] (''eril''), [[future tense]] (''aril'') or hypothetical (''wil''); without the tense particle, the sentence is assumed to have the same tense as the previous sentence.
+* The [[evidentiality|evidence]] particle<ref>[https://tortoise.princeton.edu/wp-content/uploads/sites/338/2015/10/evidence2.pdf This is an Essay: The Language and Legacy of Láadan (Evidently)]</ref>{{spaced ndash}}this occurs at the end of statements and indicates the trustworthiness of the statement. They are:
+*; wa : Known to speaker because perceived by speaker, externally or internally
+*; wi : Known to speaker because self-evident
+*; we : Perceived by speaker in a dream
+*; wáa : Assumed true by speaker because speaker trusts source
+*; waá : Assumed false by speaker because speaker distrusts source; if evil intent by the source is also assumed, the form is "waálh"
+*; wo : Imagined or invented by speaker, hypothetical
+*; wóo : Used to indicate that the speaker states a total lack of knowledge as to the validity of the matter
+
+Láadan is a [[verb–subject–object]] (VSO) language. [[Verb]]s and [[adjective]]s are interchangeable. There are no [[article (grammar)|articles]], and the object is marked by the ''-th'' or ''-eth'' [[suffix]]. The [[plural]] number is shown only by the ''me-'' prefix to the verb. The particle ''ra'' following a verb makes it negative. Separate clauses are joined by the particle ''hé''.
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+OBJ:object
+REQ:request
+ST
+</div><section end="list-of-glossing-abbreviations"/>
+
+{|class="wikitable"
+|+Some basic sentences in Láadan
+|-
+|{{interlinear
+|bíi ril áya mahina wa
+|''statement'' PRS beautiful/beautify flower ''observed-truth''
+|The flower is beautiful}}
+|-
+|{{interlinear
+|báa eril mesháad with
+|Q PAST PL-go/come woman
+|Did the women go/come?}}
+|-
+|{{interlinear
+|bíi ril lámála with ruleth wa
+|''statement'' PRS stroke/caress woman cat-OBJ ''observed-truth''
+|The woman strokes the cat}}
+|-
+|{{interlinear
+|bóo wil di le neth
+|REQ HYP speak/say I you-OBJ
+|I would like to speak with you, please.}}
+|-
+|{{interlinear
+|bíi aril meleyan ra lanemid wáa
+|''statement'' FUT PL-be-brown NEG dog ''received-truth''
+|I hear the dogs will not be brown}}
+|-
+|{{interlinear
+|bíi ril le an hé eril ne bethudeha wa
+|''statement'' PRS I know ''embedded-clause-marker'' PAST you cave''-at'' ''observed-truth''
+|I know that you were at the cave}}
+|}
+
+=== Morphology ===
+Láadan has an [[agglutinative language|agglutinative]] [[morphology (linguistics)|morphology]], and uses a number of [[affix]]es to indicate various feelings and moods that many [[natural language]]s can only indicate by tone of voice, [[body language]] or circumlocution.
+
+{|class="wikitable"
+!Affix||meaning||example
+|-
+|(-)lh(-)||disgust or dislike||''hahodimi'': "pleasantly bewildered"; ''hahodimilh'': "unpleasantly bewildered"
+|-
+|du-||to try to||''bíi eril dusháad le wa'': "I tried to come"
+|-
+|dúu-||to try in vain to||''bíi eril dúusháad le wa'': "I tried in vain to come"
+|-
+|ná-||progressive aspect||''bíi eril dúunásháad le wa'': "I was trying in vain to come"
+|-
+| -(e)tha||natural possessor||''lalal betha'': "her mother's milk"
+|-
+| -(e)tho||customary or legal possessor||''ebahid letho'': "my husband"
+|-
+| -(e)thi||possessor by chance||''losh nethi'': "your money (gambling winnings)"
+|-
+| -(e)the||possessor by unknown provenance||''ana worulethe'': "the cats' food"
+|-
+| -(h)id||denotes male (otherwise female or gender neutral)||''thul'': "mother/parent"; ''thulid'': "father"
+|}
+
+The ''speech-act'' particle, at the beginning of a sentence, can also carry several suffixes, which expand on the overall state of the sentence. For example, ''bíi'' begins a statement, but ''bíide'' begins a statement that is part of a narrative; ''bóoth'' begins a request made in pain; ''báada'' begins a question that is meant in jest.
+
+=== Pronouns ===
+[[Pronoun]]s in Láadan are built up from a number of constituent parts. The consonant ''l'' marks the [[grammatical person|first person]], ''n'' the second person and ''b'' the third person. Usually, these are followed by the vowel ''e''. However, the vowel ''a'' is used to designate someone who is loved (''lhe-'' is prefixed to describe someone who is despised). The suffix ''-zh'' is used to mark a plural pronoun for numbers up to four, and ''-n'' for numbers beyond that. Therefore, {{lang|ldn|lazh}} means "we, several beloved", and {{lang|ldn|lheben}} means "they, many despised".
+
+== See also ==
+*[[Language and gender]]
+
+== References ==
+
+{{reflist}}
+
+== Further reading ==
+*Elgin, Suzette Haden, & Diane Martin. ''A First Dictionary and Grammar of Láadan''. Madison: [[WisCon|Society for the Furtherance and Study of Fantasy and Science Fiction]], 1988.
+*Jones, Mari C. and Ishtla Singh, ''Exploring Language Change'': Routledge, 2005; pp.&nbsp;169–182.
+
+== External links ==
+
+{{sisterlinks
+|d=Q35757
+|wikt=Appendix:Láadan
+|b=Láadan
+|v=no
+|voy=no
+|s=mul:category:Láadan
+|n=no
+|q=no
+|m=no
+|mw=no
+|species=no
+|c=no
+}}
+
+* {{official website}}
+* [http://www.sfwa.org/members/elgin/Laadan.html Elgin's Láadan introduction]
+*: [http://www.sfwa.org/members/elgin/LaadanLessons/Laadan01.html Lesson One of Láadan Made Easier]
+*: [http://www.sfwa.org/members/elgin/LanguageImperative/laadansampler.html A Láadan Sampler]
+* [http://laadanlanguage.org Láadan lessons] (moderately paced lessons in Láadan by A.M.J. "Amberwind" Barnhart; [https://web.archive.org/web/20150601013606/home.comcast.net/~amjbarnhart archived from prior URL])
+* [http://www.arts.uwaterloo.ca/~raha/306a_web/Laadan.pdf Some Láadan (PDF)] (The text says that "wo-" is a plural marker. This is an error; the plural marker is "me-", while "wo-" is a relativizer.)
+* [http://wiki.feministsf.net/index.php?title=L%C3%A1adan_Working_Group Láadan Working Group]
+* [http://www.languagesandnumbers.com/how-to-count-in-laadan/en/ldn/ How to count in Láadan]
+* {{youtube|ZkVF6MsVgmE|Conlang Critic}}: a critical video review of the basics of Láadan as an [[artlang]]
+* [http://ayadanconlangs.com/category/laadan Essays and guides about Láadan], a [[group blog]]
+
+{{Constructed languages}}
+
+{{DEFAULTSORT:Laadan}}
+[[Category:Agglutinative languages]]
+[[Category:Engineered languages]]
+[[Category:Feminist science fiction]]
+[[Category:Fictional languages]]
+[[Category:Constructed languages introduced in the 1980s]]
+[[Category:1982 introductions]]
+[[Category:Gender in language]]
+[[Category:Tonal languages]]

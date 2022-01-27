@@ -1,0 +1,612 @@
+{{Use mdy dates|date = April 2019}}
+{{Short description|moribund Algic language of California}}
+{{Use American English|date = April 2019}}
+{{Infobox language
+| name = Yurok
+| nativename = ''Pueleekla’''
+| states = [[United States]]
+| region = Northwestern [[California]]
+| ethnicity = [[Yurok]]
+| extinct = 26 March 2013, with the death of [[Archie Thompson (Yurok)|Archie Thompson]]
+| revived = language revival in progress; 350 with some knowledge, 35 fluent [[second language|L2 speakers]]<ref name=romney/> as of 2020
+| ref = <ref name=romney/>
+| familycolor = Algic
+| fam1 = [[Algic languages|Algic]]
+| script = [[Latin script|Latin]]
+| iso3 = yur
+| notice = IPA
+| glotto = yuro1248
+| glottorefname = Yurok
+| image = Instructor teaching the Yurok Language.jpg
+| imagecaption = Instruction teaching Yurok with the Yurok Language Program
+}}
+[[File: Redwood Highway (Yurok welcome sign), Redwood National Park.jpg|thumb|Welcome sign with Yurok greeting, "Aiy-yu-kwee'"]]
+'''Yurok''' (also '''Chillula''', '''Mita''', '''Pekwan''', '''Rikwa''', '''Sugon''', '''Weitspek''', '''Weitspekan''') is an [[Algic languages|Algic language]].<ref>Campbell (1997:152)</ref> It is the traditional language of the [[Yurok]] people of [[Del Norte County, California|Del Norte County]] and [[Humboldt County, California|Humboldt County]] on the far north coast of [[California]], most of whom now speak [[English language|English]]. The last native speaker died in 2013.<ref name="romney" /> As of 2012, Yurok language classes were taught to high school students, and other [[Language revitalization|revitalization]] efforts were expected to increase the population of speakers.<ref>Atherton (2010)</ref>
+
+The standard reference on the Yurok language grammar is by [[R. H. Robins]] (1958).<ref name=robins>[[R. H. Robins|Robins, Robert H.]] 1958. [https://archive.org/details/rosettaproject_yur_book-1 The Yurok Language: Grammar, Texts, Lexicon]. University of California Publications in Linguistics 15.</ref>
+
+==Name==
+Concerning the etymology of "Yurok" ({{a.k.a.}} ''Weitspekan''), this below is from Campbell (1997):
+
+{{quote|''Yurok'' is from Karuk ''yúruk'' meaning literally 'downriver'. The Yurok traditional name for themselves is ''Puliklah'' (Hinton 1994:157), from ''pulik'' 'downstream' + ''-la'' 'people of', thus equivalent in meaning to the Karuk name by which they came to be known in English (Victor Golla, personal communication).<cite>(Campbell 1997:401, notes #131 & 132)</cite>}}
+
+==History==
+Decline of the language began during the [[California Gold Rush]], due to the influx of new settlers and [[Native American disease and epidemics|the diseases they brought with them]]. [[Native American boarding schools]] initiated by the United States government with the intent of [[Cultural assimilation of Native Americans|incorporating the native populations]] of America into mainstream American society increased the rate of decline of the language.<ref>{{Cite web| title = The Yurok Tribe Home Page| access-date = 2014-05-07| url=http://www.yuroktribe.org/culture/culture.htm}}</ref>
+
+==Current status==
+The program to revive Yurok has been lauded as the most successful language revitalization program in [[California]].<ref name="leeromney">Romney, Lee. (2013, February 6). ''[http://www.latimes.com/news/local/la-me-yurok-language-20130207,0,776112.story Revival of nearly extinct Yurok language is a success story]''. The Los Angeles Times. Retrieved February 7, 2013</ref> As of 2014, there are six schools in Northern California that teach Yurok - four high schools and two elementary schools. Rick Jordan, principal of Eureka High School, one of the schools with a Yurok Language Program, remarks on the impact that schools can have on the vitality of a language, "A hundred years ago, it was our organizations that were beating the language out of folks, and now we're trying to re-instill it - a little piece of something that is much larger than us".<ref name="Onishi">{{Cite news
+| last = Onishi
+| first = Norimitsu
+| title = In California, Saving a Language That Predates Spanish and English
+| work = [[New York Times]]
+| date = April 12, 2014
+| access-date = 2014-04-15
+| url = https://www.nytimes.com/2014/04/13/us/in-california-saving-a-language-that-predates-spanish-and-english.html?hpw&rref=us&_r=1
+}}</ref>
+
+The last known native, active speaker of Yurok, [[Archie Thompson (Yurok)|Archie Thompson]], died March 26, 2013. "He was also the last of about 20 elders who helped revitalize the language over the last few decades, after academics in the 1990s predicted it would be extinct by 2010. He made recordings of the language that were archived by UC Berkeley linguists and the tribe, spent hours helping to teach Yurok in community and school classrooms, and welcomed apprentice speakers to probe his knowledge."<ref name=romney>{{Cite news
+| last = Romney, Lee
+| title = Archie Thompson dies at 93: Yurok elder kept tribal tongue alive
+| work = Los Angeles Times
+| access-date = 2013-04-08
+| date = 2013-04-07
+| url = http://www.latimes.com/news/obituaries/la-me-archie-thompson-20130407,0,1929379.story
+}}</ref>
+
+Linguists at [[UC Berkeley]] began the Yurok Language Project in 2001. Professor Andrew Garrett and Dr. [[Juliette Blevins]] collaborated with tribal elders on a Yurok dictionary that has been hailed as a national model.<ref name="leeromney"/> The Yurok Language Project has gone much more in depth than just a printed lexicon, however.  The dictionary is available online and fully searchable. It is also possible to search an audio dictionary - a repository of audio clips of words and short phrases. For a more in depth study, there is a database of compiled texts where words and phrases can be viewed as part of a larger context.<ref>{{Cite web|url=http://linguistics.berkeley.edu/~yurok/web/search.php|title = Yurok Language Project: Advanced Search}}</ref>
+
+As of February 2013, there are over 300 basic Yurok speakers, 60 with intermediate skills, 37 who are advanced, and 17 who are considered conversationally fluent.<ref name="leeromney"/> As of 2014, nine people are certified to teach Yurok in schools. Since Yurok, like many other Native American languages, uses a master-apprentice system to train up speakers in the language, having even nine certified teachers would not be possible without a piece of legislation passed in 2009 in the state of California that allows indigenous tribes the power to appoint their own language teachers.<ref name="Onishi"/>
+
+==Phonology==
+
+===Vowels===
+Vowels are as follows:<ref>{{cite web|title=Yurok Sounds|url=http://linguistics.berkeley.edu/~yurok/web/sounds.php|website=Yurok Language Project|publisher=UC Berkeley|access-date=7 January 2017}}</ref><ref>{{cite web|title=Yurok vowels|url=http://linguistics.berkeley.edu/~yurok/web/vowels-2.php|website=Yurok Language Project|access-date=7 January 2017}}</ref>
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA|i iː}}
+|
+| {{IPA|u uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e}}
+| {{IPA|ɚ ɚː}}
+| {{IPA|ɔ ɔː}}
+|-
+! [[Low vowel|Low]]
+|
+| {{IPA|a aː}}
+|
+|}
+
+===Consonants===
+Consonants are as follows:<ref>{{cite web|title=Yurok consonants|url=http://linguistics.berkeley.edu/~yurok/web/consonants.php|website=Yurok Language Project|publisher=UC Berkeley|access-date=7 January 2017}}</ref>
+{| class="wikitable" style="text-align: center;"
+!colspan="2" rowspan="2"|
+!rowspan="2"| [[Bilabial consonant|Bilabial]]
+!rowspan="2"| [[Alveolar consonant|Alveolar]]
+!rowspan="2"| [[Retroflex consonant|Retroflex]]
+! rowspan="2" |[[Palatal consonant|Palatal]]
+!colspan="2"| [[Velar consonant|Velar]]
+!rowspan="2"| [[Glottal consonant|Glottal]]
+|-
+!<small>plain</small>
+! <small>[[Labialization|labialized]]</small>
+|-
+!rowspan="2"| [[Stop consonant|Stop]]/<br>[[Affricate consonant|Affricate]]
+! <small>plain</small>
+|[[Voiceless bilabial stop|p]]
+|[[Voiceless dental and alveolar stops|t]]
+|
+|[[Voiceless postalveolar affricate|t͡ʃ]]
+|[[Voiceless velar stop|k]]
+| kʷ
+|[[Glottal stop|ʔ]]
+|-
+! <small>[[Ejective consonant|ejective]]</small>
+| pʼ
+| tʼ
+|
+|t͡ʃʼ
+| kʼ
+| kʷʼ
+|
+|-
+! rowspan="2" |[[Fricative consonant|Fricative]]
+!<small>plain</small>
+|
+|[[Voiceless dental and alveolar lateral fricatives|ɬ]]
+|[[Voiceless retroflex fricative|ʂ]]
+|[[Voiceless postalveolar fricative|ʃ]]
+|[[Voiceless velar fricative|x]]
+|
+|[[Voiceless glottal fricative|h]]
+|-
+!<small>[[Voice (phonetics)|voiced]]</small>
+|
+|
+|
+|
+|[[Voiced velar fricative|ɣ]]
+|
+|
+|-
+! rowspan="2" | [[Nasal stop|Nasal]]
+! <small>plain</small>
+|[[Bilabial nasal|m]]
+|[[Dental, alveolar and postalveolar nasals|n]]
+|
+|
+|
+|
+|
+|-
+! <small>[[Glottalization|glottalized]]</small>
+|ˀm
+| ˀn
+|
+|
+|
+|
+|
+|-
+! rowspan="2" |[[Approximant consonant|Approximant]]
+!<small>plain</small>
+|
+|[[Dental, alveolar and postalveolar lateral approximants|l]]
+|[[Retroflex approximant|ɻ]]
+|[[Palatal approximant|j]]
+|
+|[[Voiced labio-velar approximant|w]]
+|
+|-
+!<small>[[Glottalization|glottalized]]</small>
+|
+|ˀl
+|ˀɻ
+|ˀj
+|
+|ˀw
+|
+|}
+
+Notable is the lack of plain /s/.
+
+Yurok has an anticipatory vowel harmony system where underlying non-high vowels /a/, /e/, and /ɔ/ are realized as [ɚ] if they precede an /ɚ/.<ref>{{cite web|title=Yurok|url=http://linguistics.berkeley.edu/~survey/languages/yurok.php|website=Survey of California and Other Indian Languages|publisher=UC Berkeley|access-date=7 January 2017}}</ref>
+
+The glottalized approximants {{IPA|/ˀl ˀɻ ˀj ˀw/}} may be realized as [[creaky voice]] on the preceding vowel, a preceding [[glottal stop]], or both. They are often [[voiceless consonant|devoiced]] when they occur at the end of a word.{{citation needed|date=February 2014}}
+
+Yurok has front-, central-, and back-closing diphthongs. The second element of the diphthongs is considered a consonant or semivowel. This is because Yurok diphthongs are falling diphthongs and behave similarly to nasal and approximates following a vowel and preceding a pause or voiceless non-glottalized consonant.<ref name=robins/>
+
+All Yurok Syllables begin with a consonant and contain at least one vowel. Here are some examples of the different kinds of syllable structure:<ref name=robins/>
+
+{|class=wikitable
+|-
+| CV || {{IPA|ki}} || will, can 
+|-
+| CV: || {{IPA|hoː}} || to go 
+|-
+| CVC || {{IPA|kuʂ}} || when? how? 
+|-
+| CV:C || {{IPA|kiːɬ}} || redwood tree 
+|-
+| CVCC || {{IPA|mekʷt͜ʃ}} || snail 
+|-
+| CVCCC || {{IPA|taʔanojʔɬ}} || it is hot (weather)
+|-
+| CV:CC || {{IPA|hoːkʷʼt͜ʃʼ}} || he gambles 
+|-
+| CV:CCC || {{IPA|noːjt͜ʃʼkʷ}} || he eats as a guest 
+|-
+| CCV || {{IPA|t͜ʃpi}} || only 
+|-
+| CCV: || {{IPA|ploːlikin}} || wide 
+|-
+| CCVC || {{IPA|ɬkeɬ}} || earth 
+|-
+| CCV:C || {{IPA|t͜ʃpaːk}} || late 
+|-
+| CCVCC || {{IPA|plaʔʂ}} || stick for measuring net meshes 
+|-
+| CCV:CC || {{IPA|ɬkoːʔm}} || they take 
+|-
+| CCVC || {{IPA|ɬkjoɻkʷekʼ}} || I look 
+|-
+| CCVCCC || {{IPA|t͜ʃkʷaʔɻkʼ}} || near 
+|-
+| CV:VC || {{IPA|ʂoːol}} || yew 
+|-
+| CCV:V || {{IPA|knuːu}} || hawk 
+|}
+
+V:V can only be {{IPA|/oːo/}} or {{IPA|/uːu/}} and is signaled by a change in pitch between the vowels.
+
+==Morphology==
+
+Yurok morphological processes include prefixation, infixation, inflection, vowel harmony, ablaut, consonantal alternation,{{clarify|date=February 2014}} and reduplication.<ref name=robins/>
+
+Prefixation and infixation occur in nominals and verbals, and occasionally in other classes, although infixation occurs most frequently in verbals.
+
+[[Vowel harmony]] occurs for prefixes, infixes, and inflections, depending on the vocalic and consonantal structure of the word stem. Internal vocalic alternation involves three alternating pairs: {{IPA|/e/~/i/}}, {{IPA|/e/~/iʔi/}}, {{IPA|/e/~/u/}}.
+
+Reduplication occurs mostly on verb stems but occasionally for nouns and can connote repetition, plurality, etc. Reduplication occurs on the first syllable, and sometimes a part of the second syllable:
+
+{|class=wikitable
+|-
+! colspan=2 | Stem || colspan=2 | Reduplicated form
+|-
+! colspan=4 | Verbs
+|-
+| {{IPA|kelomen}} || to turn (trans.) || {{IPA|kekelomen}} || to turn several things
+|-
+| {{IPA|ketʼul}} || there is a lake || {{IPA|ketʼketʼul}} || there is a series of lakes
+|-
+| {{IPA|kneweʔlon}} || to be long || {{IPA|kokoneweʔlon}} || to be long (of things)
+|-
+| {{IPA|ɬkɻʔmɻkɬkin}} || to tie a knot. || {{IPA|ɬkɻʔmɬkɻʔmɻkɻɬkin}} || to tie up in knots
+|-
+| {{IPA|ʂjaːɬk}} || to kick || {{IPA|ʂjaʔʂjaːɬk}} || to kick repeatedly
+|-
+| {{IPA|tekʷʂ}} || to cut || {{IPA|tekʷtekʷʂ}} || to cut up
+|-
+| {{IPA|tikʷohʂ}} || to break (trans.) || {{IPA|tikʷtikʷohʂ}} || to break in pieces
+|-
+! colspan=4 | Nouns
+|-
+| {{IPA|mɻkʷɻɬ}} || peak || {{IPA|mɻkʷɻmɻkʷɻɬ}} || series of peaks
+|-
+| {{IPA|ʂlekʷoh}} || shirt || {{IPA|ʂlekʷʂlekʷ}} || clothes
+|}
+
+==Classifications==
+
+Numerals and adjectives can be classified according to the noun grammatically associated with them.<ref>"Yurok" by R. H. Robins, Lingua. vol. 17</ref>
+
+{| class="wikitable"
+|-
+! Numerals
+! Common root frame: /n - hks-/
+|-
+| Human beings 
+| /nahkseyl/ 
+|-
+| Animals and birds 
+| /nrhksrʔrʔy/ 
+|-
+| Round things 	 
+| /nrhksrʔrʔy/ 
+|-
+| Tools	 
+| /nahksoh/
+|-
+| Plants other than trees
+| /nahksek'woʔn/
+|-
+| Trees and sticks
+| /nahkseʔr/ 
+|-
+| Body parts and clothes
+| /nahkseʔn/ 
+|-
+| Long things
+| /nahksek'/ 
+|-
+| Flat things
+| /nahksok's/
+|-
+| Houses
+| /nahkseʔli/ 
+|-
+| Boats	
+| /nahksey/
+|-
+| Days
+| /nahksemoyt/
+|-
+| Arm's lengths (depth measurements)
+| /nahksemrys/
+|-
+| Finger joint lengths (length measurement of dentalium shells)
+| /nahksepir/
+|-
+| Times	
+| /nahksemi/ 
+|-
+|}
+
+{| class="wikitable"
+|-
+! Adjectives
+! (to be) red
+! (to be) big
+|-
+| Human beings 
+| /prkaryrʔry(-)/
+| /peloy-/ 
+|-
+| Animals and birds 
+| /prkryrʔry(-)/
+| /plrʔry-/
+|-
+| Round things 	 
+| /prkryrh/
+| /ploh/, /plohkeloy-/
+|-
+| Tools	 
+| /pekoyoh/ 
+| /peloy-/
+|-
+| Plants other than trees
+| /pekoyoh/ 
+| /ploh/, /plohkeloy-/
+|-
+| Trees and sticks
+| /pekoyeʔr/ 
+| /peloy-/, /plep-/ 
+|-
+| Body parts and clothes
+| /pekoyoh/ 
+| /plep-/, /plohkeloy-/
+|-
+| Long things
+| /pekoyoh/ 
+| /plep-/ 
+|-
+| Flat things
+| /pekoyoks-/ 
+| /ploks-/
+|-
+| Houses
+| /pekoyoh/ 
+| /pleʔloy-/ 
+|-
+| Boats	
+| /pekoyoh/
+| /pleyteloy-/
+|-
+| Water
+| /pekoyop-/
+| 	---
+|-
+|}
+
+==Tense and aspect==
+
+Tense - Yurok has no way to differentiate tense through verbal inflection. Past, present and future may be inferred through both linguistic and nonlinguistic context.
+
+Aspect - Aspect in Yurok is indicated by preverbal particles. These occur either directly or indirectly before a verb. These can combine with verbs and other particles to indicate time and many other aspects.
+
+Some preverbal particles include: ho (past time); kic (past but with ongoing effects); wo (past after a negative, or in "unreal conditions"); ?ap (past with the implication of starting some action).<ref>The Yurok Language by R. H. Robins</ref>
+
+==Basic syntax==
+
+The most common form of sentence structure consists of a Nominal + Verbal. Indeed, most other, seemingly more complex sentence structures can be viewed as expanding on this fundamental type.<ref>Robins, Robert H. 1958. The Yurok Language: Grammar, Texts, Lexicon. University of California Publications in Linguistics 15.</ref>
+
+{{interlinear|indent=3
+|nek   helomey      -ek
+|I     {be dancing} -1sg
+|I am dancing}}
+
+{{interlinear|indent=3
+|pu:k   roʔop'
+|deer   run
+|The deer is running}}
+
+Sentences can also be equational, consisting of two nominals or nominal groups:
+
+{{interlinear|indent=3
+|wok        ne-      let
+|3SG.PRO    SG.POSS- sister
+|That is my sister}}
+
+{{interlinear|indent=3
+|woʔot    ku  tmi:gomin
+|3SG.PRO  ART  hunter
+|He is the hunter}}
+
+Sentences can also be composed of one or more verbals without nominals as explicit arguments.
+
+{{interlinear|indent=3|abbreviations=INFL:inflection
+|tmo:l      -ok'
+|{to shoot} -1SG.INFL
+|I am shooting}}
+
+{{interlinear|indent=3|abbreviations=INFL:inflection
+|hoʔop'         -es
+|{build a fire} -2SG.IMP.INFL
+|Build a fire!}}
+
+The same is true for nominals and nominal groups, which can stand alone as complete sentences, following a similar pattern to the equational sentences already mentioned.
+
+{{interlinear|indent=3
+|kwesi twegoh
+|ADV   raccoon
+|And it was the raccoon}}
+
+Complex sentences are formed along similar principles to these, but with expanded verbals or nominals, or verbals and/or nominals connected by coordinators.
+
+Word order is sometimes used to distinguish between the categories of subject and object.
+
+{{interlinear|indent=3
+|ku pegək noʔp'eʔn mewiɬ
+|the man {to chase} elk
+|The man chased the elk.}}
+
+However, if the morphological inflections are sufficiently unambiguous, it is not necessary to maintain a strict word order.
+
+{{interlinear|indent=3|abbreviations=INFL:inflection
+|nekac new -ohpeʔn ku wencokws
+|1SG.OBJ {to see} -3SG.INFL ART woman
+|The woman saw me.}}
+
+In the sentences composed of a subject and a verb, the two are often interchangeable.
+
+{{interlinear|indent=3|abbreviations=INFL:inflection
+|helom      -eʔy      ku  pegək
+|{to dance} -3SG.INFL ART man
+|The man dances.}}
+{{interlinear|indent=3|abbreviations=INFL:inflection
+|ku pegək helom -eʔy
+|ART man {to dance} -3SG.INFL
+|The man dances.}}
+
+== Writing ==
+As of 2020, Yurok is written in the New Yurok Alphabet, using Latin characters. Previously, Yurok was written in the [https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Unifon_alphabet_-_adaptation_to_Yurok_language.gif/300px-Unifon_alphabet_-_adaptation_to_Yurok_language.gif Yurok Unifon]; some books cited in the Yurok Language Project contain Yurok written in the unifon, though due to practicality in writing, typing, and reading, the Latin characters are now preferred. Currently, there is a spelling reform occurring to streamline the spelling of words; thus, some letters may differ between spellings. Currently, this is the alphabet as taught at various schools.
+{| class="wikitable"
+|+New Yurok Alphabet
+!A
+(as in lap-sew)
+!Aa
+(as in aa-wok)
+!Aw
+(as in tee'-naw)
+!Ay/Aiy
+(as in aiy'-ye-kweee.
+
+Spelling is currently being
+
+reformed).
+!Ch
+(as in chee-mos)
+|-
+!Ch'
+(as in ch'-ee-shah)
+!E
+(as in ne-chek)
+!Ee
+(as in chee-nos)
+!Eee
+(as in cheeek)
+!Er
+(as in er-plers
+|-
+!Err
+(as in errhl-ker)
+!Ery
+(as in cher'-ery)
+!Erw
+(as in mer-terw)
+!Ew
+(as in pop-sew)
+!Ey
+(as in ey-lekw)
+|-
+!Eyr
+(as in neyr-es)
+!G
+(as in pey-gerk)
+!H
+(as in herhl-ker)
+!Hl
+(as in hlkehl)
+!K
+(as in ne'-kue-chos)
+|-
+!K'
+(as in k'-ooy)
+!Kw
+(as in kwerhl)
+!L
+(as in lo-chom')
+!M
+(as in mey-wo)
+!N
+(as in neyp-sech)
+|-
+!O
+(as in ohl-kuem)
+!Oo
+(as in oohl)
+!Ow
+(as in kow-wey)
+!Owr
+(as in mey-wee-mowr)
+!Oy
+(as in koy-poh)
+|-
+!P
+(as in ple-tew)
+!P'
+(as in plop') 
+!R
+(as in rek'-woy)
+!S
+(as in sa-'ahl)
+!Sh
+(as in pre-go-neesh)
+|-
+!T
+(as in te-seer)
+!T'
+(as in t'ot-'ohl)
+!Ue
+(as in wo-nue)
+!Uue
+(as in chuue')
+!Uy
+(as in ne-puy)
+|-
+!W
+(as in wo-news-le-pah)
+!X
+(as in 'wa-'a-lox)
+!Y
+(as in ye-gom)
+!'
+(as in chpok-sek')
+!
+|}
+Some books have been written partially in Yurok. One such example is the graphic novel ''[[Soldiers Unknown]]'',<ref>{{Cite web|last1=src="https://i2.wp.com/atribecalledgeek.com/wp-content/uploads/2019/05/Untitled-design3.png?fit=80%2C80|first1=About the Author / A. Tribe Called Geek <img|last2=mainstream|first2=ssl=1" width="80" height="80" alt="A Tribe Called Geek" class="avatar avatar-80 wp-user-avatar wp-user-avatar-80 alignnone photo" /> A. Tribe Called Geek is dedicated to offering indigenous perspectives on both|last3=Culture|first3=Indigenous Geek|last4=Culture|first4=Highlighting Indigenous Contributions to Geek|last5=Fields|first5=S. T. E. M.|date=2019-08-23|title=SOLDIERS UNKNOWN: A World War One graphic novel by Chag Lowry & Rahsan Ekedal|url=https://atribecalledgeek.com/soldiers-unknown-a-world-war-one-graphic-novel-by-chag-lowry-rahsan-ekedal/|access-date=2021-01-05|website=A Tribe Called Geek|language=en-US}}</ref> written by [[Chag Lowry]].<ref>{{Cite web|title=Chag Lowry|url=https://bluelakerancheria-nsn.gov/pathmakers/chaglowry/|access-date=2021-01-05|website=Blue Lake Rancheria|language=en-US}}</ref> The Yurok text in ''[[Soldiers Unknown]]'' was translated by Yurok language teacher James Gensaw, and the graphic novel was illustrated by Rahsan Ekedal.
+
+==References==
+{{reflist}}
+
+==Bibliography==
+* {{cite journal |last=Blevins |first=Juliette |date=2003 |title=The phonology of Yurok glottalized sonorants: Segmental fission under syllabification |journal=International Journal of American Linguistics |volume=69 |issue=4 |pages=371–396 |doi=10.1086/382738|citeseerx=10.1.1.494.4389 |s2cid=14886779 }}
+*Atherton, Kelley. "[http://www.triplicate.com/News/Local-News/Back-from-the-brink-Learning-the-Yurok-language Back from the Brink: Learning the Yurok Language]". The Daily Triplicate. Published 16 October 2010. Accessed 30 April 2012.
+* [[Lyle Campbell|Campbell, Lyle]]. (1997). ''American Indian languages: The historical linguistics of Native America''. New York: Oxford University Press.
+* [[Roland Burrage Dixon|Dixon, Roland]]; & [[Alfred L. Kroeber|Kroeber, Alfred L]]. (1913). New linguistic families in California. ''American Anthropologist'', ''5'', 1-26.
+* [[Ives Goddard|Goddard, Ives]]. (1975). Algonquian, Wiyot, and Yurok: Proving a distant genetic relationship. In M. D. Kinkade, K. L. Hale, & O. Werner (Eds.), ''Linguistics and anthropology in honor of C. F. Voegelin'' (pp.&nbsp;249–262). Lisse: Peter de Ridder Press.
+* Goddard, Ives. (1979). Comparative Algonquian. In L. Campbell & M. Mithun (Eds.), ''The languages of native America: Historical and comparative assessment'' (pp.&nbsp;70–132). Austin: University of Texas Press.
+* Goddard, Ives. (1990). Algonquian linguistic change and reconstruction. In P. Baldi (Ed.), ''Linguistic change and reconstruction methodology'' (pp.&nbsp;99–114). Berlin: Mouton de Gruyter.
+* Golla, Victor. (2011). ''California Indian Languages''. Berkeley: University of California Press. {{ISBN|978-0-520-26667-4}}
+* Haas, Mary R. (1958). Algonkian-Ritwan: The end of a controversy. ''International Journal of American Linguistics'', ''24'', 159-173.
+* [[Leanne Hinton|Hinton, Leanne]] (1994). ''Flutes of fire: Essays on Californian Indian languages''. Berkeley: Heyday Books.
+* {{Cite journal |last=Michelson |first=Truman |author-link=Truman Michelson |date=1914 |title=Two alleged Algonquian languages of California |journal=American Anthropologist |volume=16 |issue=2 |pages=361–367 |doi=10.1525/aa.1914.16.2.02a00150 |jstor=659619 |doi-access=free |jstor-access=free }}
+* Michelson, Truman. 1915. Rejoinder (to Edward Sapir). ''American Anthropologist'', ''17'', 4-8.
+* [[Mithun, Marianne]]. (1999). ''The languages of Native North America''. Cambridge: Cambridge University Press. {{ISBN|0-521-23228-7}} (hbk); {{ISBN|0-521-29875-X}}.
+* [[R. H. Robins|Robins, Robert H]]. 1958. ''[https://archive.org/details/rosettaproject_yur_book-1 The Yurok Language: Grammar, Texts, Lexicon]''. University of California Publications in Linguistics 15.
+* {{Cite journal |last=Sapir |first=Edward |author-link=Edward Sapir |date=1913 |title=Wiyot and Yurok, Algonkin languages of California |journal=American Anthropologist |volume=15 |issue=4 |pages=617–646 |doi=10.1525/aa.1913.15.4.02a00040 |jstor=659722 |doi-access=free |jstor-access=free }}
+* {{Cite journal |last=Sapir |first=Edward |date=1915a |title=Algonkin languages of California: A reply |journal=American Anthropologist |volume=17 |issue=1 |pages=188–198 |doi=10.1525/aa.1915.17.1.02a00270 |jstor=660169|doi-access=free |jstor-access=free }}
+* Sapir, Edward. (1915)b. Epilogue.  ''American Anthropologist'', ''17'', 198.
+
+==External links==
+{{incubator|yur}}
+*[http://www.yuroktribe.org/departments/education/Yurok_Tribe_Language_Program/language.htm Yurok Tribe Language Project]
+*[http://www.linguistics.berkeley.edu/~yurok/ Yurok Language Project] at the University of California, Berkeley, with sound files and a searchable dictionary
+*[http://linguistics.berkeley.edu/~survey/languages/yurok.php Yurok language] overview at the [[Survey of California and Other Indian Languages]]
+*[http://www.language-archives.org/language/yur OLAC resources in and about the Yurok language]
+*[http://cla.berkeley.edu/language/3?tab=items&drestriction=none Yurok language resources] at the California Language Archive
+*{{Cite web
+| title = Yurok Swadesh List
+| access-date = 2012-08-26
+| url = https://archive.org/details/rosettaproject_yur_swadesh-1
+}}
+*[https://www.youtube.com/channel/UCtBz5NPzaDtAo94CyrHZA_Q "Yurok Language Program"] Youtube channel, run by a fluent teacher
+
+{{Algic languages}}
+{{Languages of California}}
+{{North American languages}}
+
+[[Category:Yurok]]
+[[Category:Algic languages]]
+[[Category:Indigenous languages of California]]
+[[Category:Native American language revitalization]]
+[[Category:Languages extinct in the 2010s]]
+[[Category:Extinct languages of North America]]
+[[Category:2013 disestablishments in California]]
+[[Category:Vowel-harmony languages]]

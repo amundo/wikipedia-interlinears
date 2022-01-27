@@ -1,0 +1,824 @@
+{{Short description|Language spoken in Indonesia}}
+{{Distinguish|Tewa language}}
+
+{{Infobox language
+|name=Teiwa
+|nativename=
+|states=[[Indonesia]]
+|region=[[Pantar Island]]
+|speakers=4,000
+|date=2010
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Trans–New Guinea]] ?
+|fam2=[[West Bomberai languages|West Bomberai]] ?
+|fam3=[[Timor–Alor–Pantar languages|Timor–Alor–Pantar]]
+|fam4=[[Alor–Pantar languages|Alor–Pantar]]
+|dia1=Teiwa
+|dia2=Sar
+|iso3=twe
+|glotto=teiw1236
+|glottorefname=Teiwa-Sar
+|pushpin_map=Indonesia Lesser Sunda Islands#Indonesia#Southeast Asia
+|coordinates={{coord|-8.38|124.17}}
+}}
+
+'''Teiwa''' (also referred to as '''Tewa''')<ref name="Klamer 2010" /> is a [[Papuan language]] spoken on the [[Pantar island]] in eastern [[Indonesia]]. The island is the second largest in the [[Alor Archipelago|Alor archipelago]], lying just west of the largest island [[Alor Island|Alor]].
+
+Teiwa is a morphosyntactically simple language with little inflection and is as such described as an [[isolating language]], also known as an analytic language. It is pronounced by a complex pronoun system.
+
+==Nomenclature==
+Teiwa is also known as ''Bahasa Teiwa'' (the Teiwa language) in Indonesia. Teiwa itself is a [[nominal compound]] and can be translated as ''tei wa'',  meaning "tree leaf". The term "Teiwa" derives from the name of the main clan that speaks it. Generally, when Teiwa speakers refer to their own language, especially to differentiate it from the national language Indonesian, they call it "pitarau"<!--1p.inclusive-language--> (our language).
+
+==Classification==
+Teiwa is often classified as part of the [[Trans–New Guinea languages|Trans-New Guinea language]] family, but this is disputed. One reason is little lexical proof as well as the large geographical distance from the main island of New Guinea. An alternative classification is as part of the [[Timor–Alor–Pantar languages|Timor-Alor-Pantar]] language family, which is approximately 3000 years old. Within this language family, Teiwa is further categorized within the sub-family of the Alor-Pantar languages, which are 20 in number. This classification bases on the high number of [[cognate]]s as well as very similar pronoun systems.
+
+==Background==
+Teiwa is spoken on the island of [[Pantar]], which is part of the [[Alor Archipelago]], located between [[Australia]] and [[Indonesia]]. The island is located approximately 1000&nbsp;km from the main island of [[New Guinea]]. It stretches 50&nbsp;km from north to south, and between 11 and 29&nbsp;km from east to west. The island is split into two distinct geographic regions: the dry and less populated lowlands in the west, and the highlands in the east, which are mountainous, volcanic and densely populated.
+
+There were 4000 documented native speakers of Teiwa in 2010. The speakers live primarily in the ''desas'' (administrative villages in Indonesia) Lebang, Boweli, Kalib, Nule, Kadir, and Madar, a village of 460 inhabitants (as of 2007). Lebang is the main village, where Teiwa was still spoken by most people, young and old. Nevertheless, the national language of [[Indonesian language|Indonesian]] as well as the Chinese-influenced Alor-[[Malay trade and creole languages#Alor Malay|Malay]] tend to be spoken by the younger generations and used for teaching in schools. As a result of this dwindling number of native speakers, Teiwa is listed as an [[endangered language]].
+
+The ''Grammar of Teiwa'' by Margaret Klamer is the only linguistic documentation besides a short word list from Stokhof (1975). Klamer gathered most of her data in the village of Madar.
+
+==Phonology==
+The following is a phonological description of Teiwa:<ref name="Klamer 2010" />
+
+===Consonants===
+Teiwa has an inventory of 20 consonants, a high amount relative to other Papuan languages. In the table below, the orthographic representation of the sound is given in brackets to the right. The contrast between the [[Pharyngeal consonant|pharyngeal]] and [[Glottal consonant|glottal]] [[Fricative consonant|fricative]] shows itself as exceptional within the languages of Eastern Indonesia, as is the existence of both liquids /l/ and /r/. 
+
+{| class="wikitable" style="text-align:center;"
+|-
+! 
+! [[Bilabial consonant|Bilabial]]
+! [[Labiodental consonant|Labiodental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Uvular consonant|Uvular]]
+! [[Pharyngeal consonant|Pharyngeal]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+|
+| {{IPA link|n}}
+|
+| {{IPA link|ŋ}} {{grapheme|ng}}
+|
+|
+|
+|-
+! [[Plosive]]
+| {{IPA link|p}} {{IPA link|b}}
+|
+| {{IPA link|t}} {{IPA link|d}}
+|
+| {{IPA link|k}} {{IPA link|ɡ}}
+| {{IPA link|q}}
+|
+| {{IPA link|ʔ}} {{grapheme|'}}
+|-
+! [[Fricative]]
+| {{IPA link|ɸ}} {{grapheme|f}}
+| {{IPA link|v}}
+| {{IPA link|s}}
+|
+|
+|
+| {{IPA link|ħ}} {{grapheme|x}}
+| {{IPA link|h}}
+|-
+! [[Semivowel]]
+| {{IPA link|w}}
+|
+|
+| {{IPA link|j}} {{grapheme|y}}
+|
+|
+|
+|
+|-
+! [[Trill consonant|Trill]]
+|
+|
+| {{IPA link|r}}
+|
+|
+|
+|
+|
+|-
+! [[Lateral consonant|Lateral]]
+|
+|
+| {{IPA link|l}}
+|
+|
+|
+|
+|
+|}
+
+The [[allophone]]s of /ɸ/ are {{IPAblink|ɸ}} and {{IPAblink|p}}. The allophones of /v/ are {{IPAblink|v}} and {{IPAblink|f}}.
+
+===Vowels===
+Teiwa has an inventory of 5 [[cardinal vowels]]. The two [[high vowel]]s occur as short (/i/, /u/) and long (/uː/, /iː/).  As in the consonant table, the orthographic representations are given in the brackets to the right.
+
+{| class="wikitable" style="text-align:center;"
+!
+![[Front vowel|Front]]
+![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+| {{IPA link|i}}<br>{{IPA link|iː}} {{grapheme|ii}}
+| {{IPA link|u}}<br>{{IPA link|uː}} {{grapheme|uu}}
+|-
+![[Mid vowel|Mid]]
+| {{IPA link|ɛ}} {{grapheme|e}}
+| {{IPA link|ɔ}} {{grapheme|o}}
+|-
+![[Low vowel|Low]]
+| {{IPA link|a}} {{grapheme|aa}}
+| {{IPA link|ɑ}} {{grapheme|a}}
+|}
+
+The allophones of /a/ are the short {{IPAblink|a}} and the long {{IPAblink|aː}}.
+
+==Grammar==
+The grammar of Teiwa is as follows:<ref name="Klamer 2010" />
+
+===Grammatical relations===
+Grammatical relations are the relations between [[Argument (linguistics)|argument]] and [[Predicate (grammar)|predicate]]. In '''Teiwa''', these are formally expressed through pronouns from the object and subject paradigms, as well as a strict [[Constituent (linguistics)|constituent]] order.
+
+The '''subject relation''' is the agent argument of a transitive verb, from hereon denoted with '''A''', or the single argument of an intransitive predicate, from hereon denoted with '''S'''. Both are encoded similarly.
+
+The '''object relation''' is the non-agent argument of a transitive verb, from hereon denoted with '''P'''.
+
+===Basic constituent order===
+Teiwa is syntactically '''head-final''', with Object-Verb constituent order: preverbal subject and object, sentence final verbs, negations, and conjunctions.
+
+With intransitive verbs, there is '''SV-order'''. With transitive verbs, there is '''APV-order'''.
+
+{{interlinear|indent=3|italics2=yes|glossing3=yes|style1 = font-weight:bold; text-align:center;
+|S V A P V
+|{[...ki uwaad nuk]} yaa ø {[bif ga'an]} tu'u
+|{eagle big one} descend {} {child 3S} knock
+|'...a big eagle came down [and] picked that child...'}}
+
+The '''A''' of the second (transitive) verb ''tu'uk'' coreferences with (shares the same reference as) the '''S''' of the first (intransitive) verb ''yaa'' in the example above.
+
+{{interlinear|indent=3|italics2=yes|glossing3=yes|style1 = font-weight:bold; text-align:center;
+|A P V S V
+|{...qau ba a} {[a-sepatu qas]} {usan ga-luxun-luxun ta} a {xer-an pati.}
+|{good SEQ 3S} {3S-shoe(IND) split} {lift 3S-REDUP-high TOP} 3S {yell-REAL PROG}
+|'...so he lifts up one side of a shoe very high while he is yelling...'}}
+
+In this example, the Subject ('''A''') is the pronominal, and the object ('''P''') is the lexical NP (noun phrase).
+
+=== Personal pronouns ===
+There are three pronoun paradigms in Teiwa: '''subject''', '''object''', and '''possessive'''. The 'theme vowel' for singular pronouns is {{angbr|a}}, and for plural pronouns it is {{angbr|i}}. The second syllable of the long pronoun is a copy of the theme vowel with the addition of an '''''-n.'''''<ref name="Klamer 2010" />
+
+There is a contrast of '''inclusive-exclusive first person plural''', one of the most prominent features to diffuse from the [[Austronesian languages]] into the Papuan languages.
+
+====Subject pronouns====
+Subject pronouns appear before the object and verb. 
+{| class="wikitable"
+!
+!Long subject pronoun
+!Short subject pronoun
+|-
+!1s
+| na'an
+| na
+|-
+!2s
+| ha'an
+| ha
+|-
+!3s
+| a'an
+| a
+|-
+!1p.exclusive
+| ni'in
+| ni
+|-
+!1p.inclusive
+| pi'in
+| pi
+|-
+!2p
+| yi'in
+| yi
+|-
+!3p
+| iman
+| i, a
+|-
+!3p.elsewhere
+| i'in
+| i, a
+|-
+!distributive
+| ta'an
+| ta
+|}
+
+The '''long subject pronoun is''' used to set [[Focus (linguistics)|contrastive focus]] (me, not you), which can further be marked with '''''la''''' as the focus NP. They look nearly identical to the <u>free object pronouns</u>, save for the 3s and 3p.elsewhere pronouns.
+
+{{interlinear|indent=3
+|'''Na'an''' hamar.
+|'''1S.long''' pray
+|''''I''' pray [not you].'}}
+
+{{interlinear|indent=3
+|'''Na'an''' la hamar.
+|'''1S.long''' FOC pray
+|''''I''' am the one who prays.'}}
+
+The '''short subject pronoun''' is a "reduced pronoun" which can stand alone in place of nominal constituents, and is separable from the verb. Its paradigm is nearly identical to that of the <u>object prefixes</u>, except for the 3s, 3p, and 3p.elsewhere pronouns.
+
+{{interlinear|indent=3
+|'''Na''' hamar.
+|'''1S.short''' pray
+|''''I''' pray.'}}
+
+{{interlinear|indent=3
+|'''Na''' g-oqai ga-regan.
+|'''1S.short''' 3S.child 3S.ask
+|''''I''' asked his child.'}}
+
+Both the short and long object pronouns can express '''S''' and '''A.'''
+
+====Object pronouns====
+{| class="wikitable"
+!
+!(free) Object pronoun
+!Object prefix
+|-
+!1s
+|na'an
+|n(a)-
+|-
+!2s
+|ha'an
+|h(a)-
+|-
+!3s
+|<u>ga'an</u>
+|<u>g(a)-, gə-</u>
+|-
+!1p.exclusive
+|ni'in
+|n(i)-
+|-
+!1p.inclusive
+|pi'in
+|p(i)-
+|-
+!2p
+|yi'in
+|y(i),
+|-
+!3p
+|iman
+|<u>g(i)-, ga-</u>
+|-
+!3p.elsewhere
+|<u>gi'in</u>
+|<u>g(i)-</u>
+|-
+!distributive
+|ta'an
+|t(a)-
+|}
+<small>The underlined pronouns are a reminder of the differences to the l'''ong subject pronoun''' and '''short subject pronoun''' paradigms, respectively.</small>
+
+The '''object prefix''' has a '''consonantal''' and '''syllabic''' (in parentheses) form: the consonantal form appears before a verb beginning with a vowel, and the syllabic form appears before a verb beginning with a consonant.
+
+The '''object pronoun''' is for both animate and inanimate [[referent]]s, whereas the '''object prefix''' is exclusively for animate referents.
+
+With the 3p (third person plural) object prefix, the differentiation of number is lost. In this case, number is specified through use of the additional pronoun '''''ga'an''''' (singular), '''''iman''''' (plural), or the plural word '''''non''''' in the object NP.
+
+The 3s (third person singular) object pronoun maintains a further purpose as a [[Demonstrative pronoun|demonstrative]] pronoun to introduce new participants into the discourse.
+
+=====[[Possessive pronouns]]=====
+{| class="wikitable"
+!
+!Long pronoun
+!Short pronoun
+!Prefix
+|-
+!1s
+| na'an
+| na
+| n(a)-
+|-
+!2s
+| ha'an
+| ha
+| h(a)-
+|-
+!3s
+| a'an
+| a
+| g(a)-, a-
+|-
+!1p.exclusive
+| ni'in
+| ni
+| n(i)-
+|-
+!1p.inclusive
+| pi'in
+| pi
+| p(i)-
+|-
+!2p
+| yi'in
+| yi
+| y(i),
+|-
+!3p
+| iman
+| -
+| g(i)-, a-, ga-
+|-
+!3p.elsewhere
+| gi'in
+| -
+| -
+|-
+!distributive
+| ta'an
+| ta
+| t(a)-
+|}
+
+The final two pronouns, '''elsewhere''' and '''distributive,''' are unique. The 3p.elsewhere pronoun is used in a situation where the speaker cannot see the referent, because the referent is somewhere else.
+
+{{interlinear|indent=3
+|'''I'in''' g-oqai ga-wei.
+|'''they.elsewhere''' 3S.child 3S.bathe
+|'They (elsewhere) bathe/have bathed his child.'}}
+
+Contrast this with the standard, unmarked form (3p):
+
+{{interlinear|indent=3
+|'''Iman''' g-oqai ga-wei.
+|'''they''' 3S.child 3S.bathe
+|'They bathe/have bathed his child.'}}
+
+The '''distributive possessive pronoun''' ('''''ta'an, ta''''', or '''''ta'''-'') refers to a (non-collective) plural number of human referents, often in reciprocal contexts.
+
+{{interlinear|indent=3
+|'''Ta'an''' tara' mis!
+|'''DISTR''' be.in.a.row sit
+|'Let's sit in a row!' ({{lit}} 'Each (one) sits in a row!')}}
+
+One more special possessive pronoun is '''''li'in''''', which marks plurality of the possessor NP, and only as an adnominal modifier.<ref name="Klamer 2010" />
+
+Compare:
+
+{{interlinear|indent=3
+|Uy ga-yaf
+|person 3S.house
+|'Someone's house, a person's house'}}
+
+{{interlinear|indent=3
+|Uy '''li'in''' ga-yaf
+|person their 3S.house
+|'People's house(s)'}}
+
+====Nouns====
+In Teiwa, the noun typically appears as head of the [[Noun phrase|NP]]. The noun, with a few exceptions, cannot be reduplicated, unlike verbs, adverbs, and adjectives. (See '''Reduplication''' below.)
+
+There is no marking for number, gender, or case on nouns. Instead, [[Grammatical person|person]] and [[Grammatical number|number]] is marked via a '''possessor prefix''' on the noun.
+
+====Noun phrases====
+In '''possessed NP's,''' the possessor (the noun which possesses) precedes the possessee (the noun which is possessed), as in the examples below.
+
+{{interlinear|indent=3
+|Rai ga-yaf
+|king 3S-house
+|'The king's house.'}}
+
+{{interlinear|indent=3|abbreviations=PROX:proximal
+|Pi pi-krian i er a gula' sin.
+|1P.INCL 1P.INCL.work PROX make 3S finish first
+|'We first finish our work here.'}}
+
+In '''non-possessed NP's,''' the noun comes first, followed by the modifying element, such as an adjective.
+
+{{interlinear|indent=3
+|Xaf uwaad
+|fish big
+|'A big fish.'}}
+
+{{interlinear|indent=3|abbreviations=PROX:proximal
+|Uy a
+|person PROX
+|'This person.'}}
+
+====Noun classes====
+The Teiwa nouns can be divided into two main classes: '''Proper nouns''' and '''common nouns'''.
+
+===== Proper nouns =====
+Proper nouns are not modifiable. Examples are listed below.<ref name="Klamer 2010" />
+
+:<u>Male names</u>: '''''Edi, Goli, Lius, Mase, Nabas, Ribu'''''
+:<u>Female names</u>: '''''Bruang, Leti, Malai, Mani, Sam'''''
+:<u>Family names</u>: '''''Biri, Blegar, Bui, Lau, Qoli, Ribu, Unu'''''
+:<u>Clan names</u>: '''''Barawasi, Burilak, Loxoq, Perang Tubi, Qailipi'''''
+
+===== Common nouns =====
+The '''common nouns''' can be further divided into subclasses:
+
+====== Nouns with [[Alienable possession|alienable]] possession ======
+In this subclass the <u>possessor prefix is optional</u>. [[Focus (linguistics)|Focus]] can be placed with use of a long pronoun. Examples include: ''yaf'' 'house', ''kon'' 'shirt', ''qavif'' 'goat'.
+
+====== Nouns with [[Inalienable possession|inalienable]] possession ======
+Here the <u>possessor prefix is obligatory</u>, to the point that native speakers will not recognize the word without the prefix. Nouns with inalienable possession include body parts, and kinship terms (except for ''emaq'' 'wife' where the prefix is optional as with alienable possession).
+
+====== Locational nouns ======
+This last subclass of nouns denote location. Examples include: '''''wanan''''' 'side', '''''fan''''' 'front', '''''siban''''' 'behind', '''''ragan''''' 'outside', '''''tag''''' 'up(stairs); above speaker (relatively close)'.
+
+{{interlinear|indent=3
+|Uy ragan me
+|people outside be.in
+|'Some people are outside' / 'Someone is outside'}}
+
+====[[Nominalization]]====
+There is no dedicated morphology for nominalization in Teiwa. Instead the third person (3p) possessor prefix ''-ga'' has a secondary function of attaching to the root form of adjectives, locational nouns, adverbs, and question words.<ref name="Klamer 2010" />
+
+===Verbs===
+Teiwa verbs carry no marking for [[Case (linguistics)|case]] or [[Gender (linguistics)|gender]]. There is only one verbal [[Suffix (linguistics)|suffix]];
+
+'''-''(a)n''''' for the marking of [[Realis mood|realis]] status. Only verbs take an object [[Prefix (linguistics)|prefix]]. Inflected prefixes index person and number traits of animate objects on the verb. Subjects and inanimate objects are <u>not</u> indexed on the verb.
+
+Teiwa has [[Intransitive verb|intransitive]] and [[transitive verb]]s. The transitive verbs are monotransitive, meaning they have a single grammatical object.
+
+====Verb classes====
+
+=====Transitive verbs=====
+The transitive verbs in Teiwa can be divided into numerous sub classes, based on how they encode [[Animacy|animate and inanimate objects]] differently. In this case, animate or inanimate refers explicitly to a third person referent, since first and second person referents are inherently animate.
+
+;Class (i): Verbs with an object [[prefix]], with an animate object ("sb-somebody")
+This class expresses the object with an object-marking prefix on the verb. The [[prefix]] marks for person and number. The lexical NP is optional and may be used to clarify or disambiguate the referent.
+
+Examples of verbs are: '''''an''''' ‘give sb’, '''''‘an''''' ‘sell to sb’, '''''ayas''''' ‘throw at sb’, '''''bun''''' ‘answer sb’, '''''fin''''' ‘catch sb’, '''''liin''''' ‘invite sb’, '''''regan''''' ‘ask sb’, '''''sas''''' ‘feed sb’, '''''walas''''' ‘tell sb’, '''''wei''''' ‘bathe sb’
+
+Examples of such verbs in sentence constructions:
+
+{{interlinear|indent=3|abbreviations=SIM:simultaneous marker
+|A qavif '''ga'''-uyan gi si...
+|3S '''goat''' 3S.search go SIM
+|'He went searching for [a] goat...'}}
+
+The prefix '''ga-''' on the verb '''''-uyan''''' marks for third person singular object, that is for '''''qavif''''',  'goat'. Goat is an <u>animate object</u>.
+
+{{interlinear|indent=3
+|A yivar '''ga'''-walas a wa...
+|3S '''dog''' 3S.tell 3S say
+|'He told [his] dog...'}}
+
+Here similarly, the prefix '''ga-''' on the verb '''''-walas''''' marks for third person singular object, that is for '''''yivar''''',  'dog'. Dog is an <u>animate object</u>.
+
+;Class (ii): Verbs without an object prefix, with inanimate object ("sth-something")
+Here the verb encodes the object as a separate nominal constituent. In this class the encoding with a prefix is disallowed.
+
+Examples of such verbs are: '''''bali''''' ‘see sth’, '''''ol''''' ‘buy sth’, '''''paai''''' ‘cut sth in many small pieces’, '''''put''''' ‘cut off (grass)’
+An example in a sentence construction:
+
+{{interlinear|indent=3
+|...i'in '''i-xaf''' '''uwaad''' la boqai dau-an na.
+|they.elsewhere '''3P.fish''' '''big''' FOC cut.up cook-REAL eat
+|'...they cut up their big fish, cooked and ate [it]'}}
+
+The verbs in this sentence have no object prefix, and the object 'fish' is inanimate (because it is no longer living).
+
+;Class (iii): Transitive verbs that take either animate or inanimate objects
+iiia. Transitive verbs with <u>prefixed animate object</u> OR f<u>ree (unfixed) inanimate object</u>
+
+With free inanimate object (object prefix not bound to verb).
+
+{{interlinear|indent=3
+|Na '''ga'an''' mar.
+|1S 3S take
+|'I take/get it.'}}
+
+<big>With prefixed animate object</big>
+{{interlinear|indent=3
+|Na '''ga'''-mar.
+|1S 3S-take
+|'I follow him/her.'}}
+
+Notice the important difference in meaning with the use a prefixed pronoun versus a free pronoun!
+
+iiib. Verbs with an animate OR inanimate object, <u>both as a prefix</u>
+
+Third person object prefixes marking animate or inanimate:
+{| class="wikitable"
+!3sg inanimate object
+!3sg animate object
+|-
+|'''''ga-'''''
+|'''''ga'-'''''
+|-
+|'''''ge-'''''
+|
+|-
+|'''''g-'''''
+|
+|}
+The contrasts are illustrated in the below translations:
+{| class="wikitable"
+|'''''wulul'''''
+|'speak, talk, tell'
+|-
+|'''''ga'-wulul'''''
+|'talk with sb, tell sb'
+|-
+|'''''ga-wulul'''''
+|'talk about sth, tells sth'
+|}
+A glottal stop is used for animate objects. The canonical form is used for inanimate objects.
+
+=====Sound verbs=====
+An interesting class of verbs constituting verbs for sounds made by animals or objects.<ref name="Klamer 2010" />
+{| class="wikitable"
+|'''''aga-aga'''''
+|sound to call a dog
+|-
+|'''''ago-ago'''''
+|sound to call a dog (remote)
+|-
+|'''''sika'''''
+|sound to chase away a dog
+|-
+|'''''sumax'''''
+|sound to chase away a goat
+|-
+|'''''burax'''''
+|sound to chase away chickens
+|-
+|'''''kuru-kuru'''''
+|sound to call chickens
+|-
+|'''''xo''''''
+|to bark (dog)
+|-
+|'''''ox'''''
+|to grunt (pig)
+|-
+|'''''qau'''''
+|to scream (pig)
+|-
+|'''''hong'''''
+|dog's sound ('woof')
+|-
+|'''''kokoko'''''
+|chicken's sound ('tock-tock')
+|-
+|'''''quququ'''''
+|'cock-a-doodle-doo'
+|-
+|'''''me'eh'''''
+|goat's sound
+|-
+|'''''paq'''''
+|sound of a rock that is crushing corn
+|-
+|'''''qabunggat'''''
+|splashing sound of rock in water
+|-
+|'''''tadunggat'''''
+|dry sound of rock falling on land
+|-
+|'''''saxa''''''
+|flapping sound of something light falling (e.g. sandals on street)
+|}
+
+==== Experiencer predicates ====
+These are predicates formed with the bodypart noun '''''-om''''' 'inside'<ref name="Klamer 2010" />
+
+{{interlinear|indent=3
+|n-om quun
+|1S-inside be.sure
+|'I am smart/clever.'}}
+
+{{interlinear|indent=3
+|n-om qau
+|1S-inside good
+|'I am happy.'}}
+
+{{interlinear|indent=3
+|n-om siis
+|1S-inside dry
+|'I am thirsty'}}
+
+{{interlinear|indent=3
+|n-om par
+|1S-inside defeated
+|'I am annoyed (at s.b.)'}}
+
+{{interlinear|indent=3
+|n-om qalixil
+|1S-inside itchy
+|'I am angry'}}
+
+{{interlinear|indent=3
+|n-om mai
+|1S-inside store/keep
+|'I am planning/I plan'}}
+
+{{interlinear|indent=3
+|n-om bangan
+|1S-inside see
+|'I want/like'}}
+
+{{interlinear|indent=3
+|n-om ga-regan
+|1S-inside 3S-ask
+|'I think/say to myself'}}
+
+{{interlinear|indent=3
+|n-om ga-i'
+|1S-inside 3S-sick
+|'I feel pity for him'}}
+
+===Reduplication===
+[[Reduplication]] is a morphological process to express greater intensity or the repeated/ongoing nature of an event. In '''Teiwa''', the entire root is copied; there exists no productive process for syllable reduplication.<ref name="Klamer 2010">{{harvnb|Klamer|2010|pages=166}}</ref>
+
+;of verbs
+{{interlinear|indent=3
+|tewar-tewar
+|REDUP-walk
+|'walk on and on'}}
+
+{{interlinear|indent=3
+|tib-tib
+|REDUP-provide.for
+|'exactly enough'}}
+
+{{interlinear|indent=3
+|haqax-haqax
+|REDUP-breathe
+|'take a few rests'}}
+
+;of verbs with the realis suffix
+Reduplication of the entire stem including the realis suffix takes place. Only verbs can be inflected for [[realis mood]].
+
+{{interlinear|indent=3
+|tii'in-tii'in
+|REDUP-[sleep-REAL]
+|'being asleep', 'sleep on and on'}}
+
+{{interlinear|indent=3
+|miran-mir-an
+|REDUP-[ascend-REAL]
+|'climb on and on', 'continue to climb'}}
+
+{{interlinear|indent=3
+|moxodan-moxod-an
+|REDUP-[drop-REAL]
+|'let fall, drop down'}}
+
+;of adverbials
+{{interlinear|indent=3
+|wek-wek
+|REDUP-behind
+|'behind'}}
+
+{{interlinear|indent=3
+|bas-bas*
+|REDUP-tomorrow
+|'usually'}}
+
+{{interlinear|indent=3
+|bes-bes
+|REDUP-morning
+|'good morning'}}
+
+;of adjectives
+{{interlinear|indent=3
+|musaq-musaq
+|REDUP-shattered
+|'very much shattered'}}
+
+{{interlinear|indent=3
+|[qa'an-qa'an]'an*
+|[REDUP-black-]v-REAL
+|'be black-REAL' > 'something black'}}
+<nowiki>*</nowiki>The adjectival base is first turned into a verb through reduplication, in order to allow the realis suffix to be reduplicated (only verbs can be reduplicated with a realis suffix).
+
+;of numerals
+{{interlinear|indent=3
+|Iman nuk-nuk / raq-raq / yerig-yerig aria-n.
+|they REDUP-one {} REDUP-two {} REDUP-three arrive-REAL
+|'They arrive one by one, two by two, three by three.'}}
+
+;of nouns
+Reduplication of nouns is rarer, and does not serve to express plurality of distributivity.
+{{interlinear|indent=3
+|mug-mug
+|REDUP-mountain.top
+|'be hilly' (something attributiv)}}
+
+{{interlinear|indent=3
+|war-war
+|REDUP-day
+|'day after day' (something adverbial)}}
+
+== Kinship ==
+The Teiwa live in [[exogamous]], [[Patrilineality|patrilineal]] clans: the children belong to the clan of the father. The term "Teiwa" refers to a group of (sub) clans with the same ancestors. The '''Teiwa''' branch into two ''moieties'' (halves), which are separate genealogical supergroups, each of which includes multiple clans. 
+{| class="wikitable"
+! colspan="2" |Teiwa
+|-
+|I.
+|II.
+|-
+|Baraqala
+|Lambar
+|-
+|La Builan
+|Kakalau
+|-
+|Salanggalu
+|Lau Wad
+|-
+|Maligi
+|Loxog
+|-
+|Hukung
+|Kaloman Goqar
+|-
+|Qailipi
+|
+|}
+Children are named with 1) clan name, 2) given name 3) father's family name, for example '''''Teiwa Jance Wa'ng.'''''
+
+=== Kinship system ===
+The kinship system of the Teiwa is based on [[Parallel and cross cousins|cross-cousins]]. This means that the children of same-sex siblings are considered to be siblings (brother, sister), and therefore not fit for marriage with one another. Children of non-same sex siblings of the parents are seen as cross-cousins and are the perfect candidates for marriage with each other. These children are also in a different clan than the children of the same-sex siblings of the parents.
+
+=== Kinship terms ===
+The main kinship terms are listed here:
+{| class="wikitable"
+|'''''emaq'''''
+|wife
+|-
+|'''''misi'''''
+|husband
+|-
+|'''''bif'''''
+|child, 'younger sibling'
+|-
+|'''''biar (kriman)'''''
+|children
+|-
+|'''''na-gas qai'''''
+|my sister
+|-
+|'''''n-ian qai'''''
+|my brother
+|-
+|'''''n-ian'''''
+|(female) cousin of ego, in other clan
+|-
+|'''''na-dias'''''
+|(male) cousin of ego, in other clan
+|-
+|'''''na-rat (emaq)'''''
+|daughter of ego's brother, in other clan (potential daughter-in-law)
+|-
+|'''''na'ii''''' 
+|son of ego's brother, in other clan (potential son-in-law)
+|-
+|'''''na-rata''''''
+|my grandfather/mother
+|-
+|'''''na-rat qai'''''
+|my grandchild
+|}
+From the point of view of female ego:
+
+The "classificatory siblings" refer to the actual siblings, as well as the children of the <u>mother's sister</u> and the <u>father's brother</u>. As it is considered rude to call family members by their given name, these siblings are addressed as '''''matu'''''' when older and '''''bif''''' when younger, and '''''ka'au''''' when the same sex as the speaker.
+
+The "classificatory parents" are the <u>father's brother</u> ('''''n-oma''''' 'my father'), as well as the <u>mother's sister</u> ('''''na-xala''''' 'my mother'). Each person therefore has two sets of parents.
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* {{Cite book |last=Klamer |first=Marian |url=https://www.degruyter.com/view/product/43416 |title=A Grammar of Teiwa |date=2010 |publisher=De Gruyter |location=Berlin }}
+* {{Cite book|last=Klamer |first=Marian |chapter=The Alor-Pantar languages: Linguistic context, history and typology |chapter-url=https://langsci-press.org/catalog/book/157 |title=The Alor-Pantar languages: History and Typology |date=2017 |orig-year=first published 2014 |publisher=Language Science Press |editor-last=Klamer |editor-first=Marian |edition=second |series=Studies in Diversity Linguistics |location=Berlin |doi=10.5281/zenodo.437098  |doi-access=free }}
+
+== External links ==
+{{Wiktionary category|category=Teiwa language}}
+* [http://www.omniglot.com/writing/teiwa.htm Alphabet and pronunciation]
+
+{{West Trans–New Guinea languages}}
+{{Authority control}}
+
+[[Category:Alor–Pantar languages]]
+[[Category:Languages of Indonesia]]

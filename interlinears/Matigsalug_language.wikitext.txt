@@ -1,0 +1,164 @@
+{{short description|Austronesian language spoken in the Philippines}}
+{{Infobox language
+|name=Matigsalug
+|altname=Matig-Salug Manobo
+|nativename=''Tigwa''
+|states=[[Philippines]]
+|region=southern parts of [[Bukidnon]] [[provinces of the Philippines|province]], [[Mindanao]]
+|speakers= 50,000
+|date=2010
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Philippine languages|Philippine]]
+|fam4=[[Greater Central Philippine languages|Greater Central Philippine]]
+|fam5=[[Manobo languages|Manobo]]
+|fam6=Central
+|fam7=South
+|iso3=mbt
+|glotto=mati1250
+|glottorefname=Matigsalug Manobo
+|dia1=Kulamanen
+|dia2=Tigwa
+|dia3=Tala Ingod
+|dia4=Matig-Salug
+}}
+
+'''Matigsalug''' (Matig-Salug Manobo) is a [[Manobo languages|Manobo language]] of [[Mindanao]] in the [[Philippines]]. It belongs to the [[Austronesian languages|Austronesian language family]]. 
+
+==Distribution and dialects==
+There are approximately at least 50,000 speakers of the language, most of whom are concentrated in [[Mindanao]], notably in south central [[Bukidnon]], north-northeastern [[Cotabato]] and northwestern [[Davao del sur|Davao del Sur]] provinces.<ref>{{Cite web |title=Manobo, Matigsalug |url=https://www.ethnologue.com/language/mbt |access-date=2020-12-30 |website=Ethnologue |language=en}}</ref> A total of 5,000 monolingual speakers of the language has been reported.
+
+Matigsalug can be divided into four major dialects: Kulamanen, Tigwa, Tala Ingod, and Matigsalug Proper. Dialects are divergent, such that Tigwa has marginal intelligibility of Matigsalug, and only Tala Ingod may have adequate intelligibility of Matigsalug.
+
+==Writing system==
+Matigsalug is typically written using eighteen graphemes: a, b, d, e, g, h, i, k, l, m, n, p, r, s, t, u, w, and y. The graphemes c, f, j, o, q, v, x, and z are used in recently borrowed words and the names of people and places. The glottal stop is represented by a hyphen when it occurs word medially, but not where it occurs intervocalically. For example, the word [manʔʌʔ] 'again' is written as ''man-e'', while the word [tiʔaŋ] 'carry on the shoulder' is written as ''tiang''.
+
+==Phonology==
+
+===Vowels===
+Matigsalug has four vowels:<ref>{{Cite journal |last=Wang |first=P. |date=1991 |title=The phonemics and morphophonemics of Matig-Salug Manobo. |journal=Philippine Journal of Linguistics |language=en |volume=22 |issue=1-2 |pages=1-29}}</ref> /i, ʌ, a, u/.
+
+Long vowels do occur in Matigsalug, albeit rarely. The orthographic convention for long vowels is to write two vowel segments. For example, the word [pa:n] 'bread' is written as ''paan''. This is in contrast with the spelling convention of most other Philippine languages, where sequences of identical vowels are separated by a glottal stop, e.g. Tagalog ''saan'' ([sa'ʔan]).
+
+===Consonants===
+
+There are 14 Matigsalug consonants. All the stops are unaspirated. The [[velar nasal]] occurs in all positions including at the beginning of a word.
+
+{| class="wikitable" style=text-align:center
+|-style="font-size: 90%;"
+|+Matigsalug consonant phonemes
+!
+!colspan=2| [[Bilabial consonant|Bilabial]]
+!colspan=2| [[Alveolar consonant|Alveolar]]<br />/[[Dental consonant|Dental]]
+!colspan=2| [[Postalveolar consonant|Post-al.]]<br />/[[Palatal consonant|Palatal]]
+!colspan=2| [[Velar consonant|Velar]]
+!colspan=2| [[Glottal consonant|Glottal]]
+|-
+! <small>[[Nasal consonant|Nasal]]</small>
+|width=20px style="border-right: 0;"| ||width=20px style="border-left: 0;"|{{IPAlink|m}}
+|width=20px style="border-right: 0;"| ||width=20px style="border-left: 0;"|{{IPAlink|n}}
+|colspan=2|
+|width=20px style="border-right: 0;"| ||width=20px style="border-left: 0;"|{{IPAlink|ŋ}}
+|colspan=2|
+|-
+! <small>[[Stop consonant|Stop]]</small>
+|style="border-right: 0;"|{{IPAlink|p}}||style="border-left: 0;"|{{IPAlink|b}}
+|style="border-right: 0;"|{{IPAlink|t}}||style="border-left: 0;"|{{IPAlink|d}}
+|colspan=2|
+|style="border-right: 0;"|{{IPAlink|k}}||style="border-left: 0;"|{{IPAlink|g}}
+|width=20px style="border-right: 0;"|{{IPAlink|ʔ}}||width=20px style="border-left: 0;"|
+|-
+! <small>[[Fricative consonant|Fricative]]</small>
+|colspan=2|
+|style="border-right: 0;"|{{IPAlink|s}}||style="border-left: 0;"|
+|colspan=2|
+|colspan=2|
+|style="border-right: 0;"|{{IPAlink|h}}||style="border-left: 0;"|
+|-
+! <small>[[Approximant consonant|Approximant]]</small>
+|colspan=2|
+|style="border-right: 0;"| ||style="border-left: 0;"|{{IPAlink|l}}
+|style="border-right: 0;"| ||style="border-left: 0;"|{{IPAlink|j}}
+|style="border-right: 0;"| ||style="border-left: 0;"|{{IPAlink|w}}
+|colspan=2|
+|-
+|}
+
+===Stress===
+Stress in Matigsalug always occurs penultimately, that is, on the second-to-last vowel. Because it is completely predictable, stress is not marked orthographically.
+
+Matigsalug does have small one-syllable [[clitic]]s. When these phonologically join to the previous word, they cause the stress to shift in order to maintain penultimate stress. For example, the word for 'father' is ''ámey''; when the possessive determiner ''rin'' 'his/her' is added, the stress shifts to the second syllable of the word for 'father': ''améy rin''
+
+==Morphosyntax==
+
+===Noun phrases===
+Nouns are preceded by a case marker. There are three types of case markers in Matigsalug.
+
+First, similar to the better-studied ''ang''-marking in Tagalog, the language also employs a case-marking reserved for the noun with which the verb agrees (via focus/voice morphology). This marker exhibits allomorphy depending on whether the noun is a proper noun or a common noun. ''Si'' is the allomorph used when the noun is a proper noun or a kinship term; ''ka'' is used when the noun is a common noun or a possessive noun phrase.
+
+{{interlinear|indent=3
+|si Inday/Anggam
+|Focus Inday/uncle
+|'Inday/Uncle'}}
+
+{{interlinear|indent=3
+|ka {tirè/geyinawa rin}
+|Focus {sugar cane/breath his}
+|'the sugar cane/his breath'}}
+
+Second, when the verb shows agreement with any other noun other than the agent/experiencer, the agent/experiencer is marked with a separate case marking. In other words, this would be comparable with the by-phrase in an English passive. This case marking also exhibits allomorphy depending on whether the agent/experiencer is a proper or a common noun. ''Ni'' is the allomorph used when the noun is a proper noun or a kinship term; ''te'' is used when the noun is a common noun or a possessive noun phrase.	
+
+{{interlinear|indent=3
+|ni Inday/Anggam
+|NonFocus(Ag) Inday/uncle
+|'by Inday/uncle'}}
+
+{{interlinear|indent=3
+|te lukes
+|NonFocus(Ag) man
+|'by the man'}}
+
+Lastly, there is case marking reserved for non-focused non-agent/experiencer roles in the clause. This case marking also exhibits allomorphy depending on whether the agent/experiencer is a proper or a common noun. ''Ki'' is the allomorph used when the noun is a proper noun or a kinship term; ''te'' is used when the noun is a common noun or a possessive noun phrase.	
+
+{{interlinear|indent=3
+|ki Inday/Anggam
+|NonFocus Inday/uncle
+|'to/from Inday/uncle'}}
+
+{{interlinear|indent=3
+|te lukes
+|NonFocus man
+|'to/from the man'}}
+
+===Focus/voice morphology===
+Characteristic of Philippine-type languages, Matigsalug verbs carry what is known in the literature as  [[Austronesian alignment|focus morphology]]. This piece of morphology indicates the semantic roles of the participants in the clause with respect to the verb. Matigsalug can put the agent/experiencer (AF), goal (GF), location (LF), and instrument (IF) into direct focus.
+
+In the first example, the prefix ''eg''- indicates that the ''ka''-marked noun functions as the agent, that is, the entity doing the kicking. In the second example, the prefix ''eg''- in combination with the suffix ''-en'' together indicate that the ''ka''-marked noun is the goal, that is, the entity being kicked.
+
+{{interlinear|indent=3
+|Egsipè ka kuddè te kuddè
+|NonPast-kick-Agent Focus horse NonFocus child
+|'The horse kicks the child'}}
+
+{{interlinear|indent=3
+|Egsipeen ka kuddè te kuddè
+|NonPast-kick-Agent Focus horse NonFocus(Ag) child
+|'The child kicks the horse'}}
+
+==References==
+{{Reflist}}
+
+==Sources==
+{{refbegin}}
+* {{Cite book |last=Wang |first=P. |url=https://www.sil.org/resources/archives/53940 |title=The Grammar of Matigsalug Manobo |last2=Hunt |first2=R. |last3=McGriff |first3=J. |last4=Elkins |first4=R. E. |date=2006 |publisher=Summer Institute of Linguistics |location=Manila |language=en |isbn=978-971-18-0407-7}}
+{{refend}}
+
+{{ph-negrito-lang}}
+{{Philippine languages}}
+{{Austronesian languages}}
+{{Languages of the Philippines}}
+
+[[Category:Manobo languages]]
+[[Category:Aeta languages]]
+[[Category:Languages of Bukidnon]]

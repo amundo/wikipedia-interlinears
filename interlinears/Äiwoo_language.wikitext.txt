@@ -1,0 +1,362 @@
+{{Short description|Oceanic language spoken in Solomon Islands}}
+{{Infobox language
+|name=Äiwoo
+|altname=Reef
+|states=[[Solomon Islands]]
+|region=[[Santa Cruz Islands]], eastern Solomons, [[Temotu Province]].
+|speakers=8,400
+|date = 1999
+|ref=e20
+|coordinates = {{coord|10|13|S|166|12|E|type:landmark|display=inline}}
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Temotu languages|Temotu]] ?
+|fam5=[[Reefs – Santa Cruz languages|Reefs – Santa Cruz]]
+|iso3=nfl
+|script=[[Latin script|Latin]]
+|glotto=ayiw1239
+}}
+
+'''Äiwoo''' is an [[Oceanic languages|Oceanic language]] spoken on the [[Santa Cruz Islands]] and the [[Reef Islands]] in the [[Temotu Province]] of the [[Solomon Islands]].<ref name="e20" /> Äiwoo is also called Ayiwo, Aïwo, Gnivo, Lanlom, Lomlom, Naaude, Nifilole, Nivo, Reef Islands, and Reefs.
+
+== Speakers and distribution==
+Äiwoo has roughly 8,400 native speakers with roughly 5,000-6,000 of these living on the Reef islands and the rest living on the Santa Cruz islands.<ref name="e20" />
+As such, Äiwoo is the largest of the ''Reef Islands – Santa Cruz'' languages. Most speakers live on the [[Ngawa Island|Ngawa]] and [[Ngäsinue]] islands in the Reef Islands; others live in some villages on [[Vanikoro]] or on [[Nendo Island|Nendö]], like Kala Bay. Finally, some communities have recently been established in the capital [[Honiara]], notably in the White River district.
+
+== Language usage ==
+On the Reef islands, Äiwoo is the primary language spoken by all of its people. Few people also speak English. The schooling system uses Äiwoo on the primary and secondary school level, though a standardized orthography for Äiwoo has not yet been adopted, resulting in a decline of people who can read and write.
+
+== Phonology ==
+
+=== Consonants ===
+{| class="wikitable" style="text-align: center;"
+! colspan="2" rowspan="2" |
+! colspan="2" |[[Labial consonant|Labial]]
+! rowspan="2" |[[Alveolar consonant|Alveolar]]
+! rowspan="2" |[[Palatal consonant|Palatal]]
+! rowspan="2" |[[Velar consonant|Velar]]
+|-
+!<small>plain</small>
+![[Labialization|<small>rounded</small>]]
+|-
+![[Nasal consonant|Nasal]]
+! [[Voice (phonetics)|<small>voiced</small>]]
+|{{IPA link|m}}
+|[[Labialized consonant|mʷ]]
+|{{IPA link|n}}
+|{{IPA link|ɲ}}
+|{{IPA link|ŋ}}
+|-
+! rowspan="2" |[[Stop consonant|Stop]]
+![[Prenasalized consonant|<small>prenas.</small>]]
+|[[Bilabial consonant|ᵐb]]
+|[[Labialized consonant|ᵐbʷ]]
+|[[Alveolar consonant|ⁿd]]
+|[[Affricate consonant|ⁿd͡ʒ]]
+|[[Velar consonant|ᵑg]]
+|-
+! rowspan="2" |[[Voicelessness|<small>voiceless</small>]]
+|{{IPA link|p}}
+|[[Labialized consonant|pʷ]]
+|{{IPA link|t}}
+|
+|{{IPA link|k}}
+|-
+![[Fricative consonant|Fricative]]
+|
+|
+|{{IPA link|s}}
+|
+|
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|{{IPA link|ʋ}}
+|{{IPA link|w}}
+|{{IPA link|l}}
+|
+|
+|}
+
+* Voiced stops are prenasalized by default, but can be realized plain oral: e.g. /{{IPAlink|ᵐbʷ}}/ is realized [{{IPAlink|ᵐbʷ}}] ~ [{{IPAlink|bʷ}}].
+* The voiced labio-dental approximant /{{IPAlink|ʋ}}/ may also be realized as a fricative [{{IPAlink|v}}].
+* /{{IPAlink|s}}/ can also be heard as an affricate [{{IPAlink|t͡s}}].
+* /{{IPAlink|t}}/ can also be heard as rhotic sounds [{{IPAlink|ɾ}}, {{IPAlink|r}}] within words.<ref name=":0" />
+
+=== Vowels ===
+{| class="wikitable" style="text-align: center;"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPA link|i}}
+|
+|{{IPA link|u}}
+|-
+![[Close-mid vowel|Close-mid]]
+|{{IPA link|e}}
+|
+|{{IPA link|o}}
+|-
+![[Near-open vowel|Near-open]]
+|{{IPA link|æ}}
+|
+|
+|-
+![[Open vowel|Open]]
+|
+|{{IPA link|a}}
+|{{IPA link|ɑ}} ~ {{IPA link|ɒ}}
+|}
+
+== Orthography ==
+Äiwoo uses a variation of the Latin alphabet. The following spelling conventions are taken from Næss’ dictionary of Äiwoo.<ref name=":0">[[#dict|Næss 2017]].</ref>
+{| class="wikitable" style="text-align: center;"
+! Äiwoo orthography
+|[[a]]
+|[[ä]]
+|[[â]]
+|[[b]]
+|bw
+|[[d]]
+|[[e]]
+|[[g]]
+|[[i]]
+|[[j]]
+|[[k]]
+|[[l]]
+|[[m]]
+|mw
+|[[n]]
+|ng
+|ny
+|[[o]]
+|[[p]]
+|pw
+|[[s]]
+|[[t]]
+|[[u]]
+|[[v]]
+|[[w]]
+|-
+! [[International Phonetic Alphabet|IPA]]
+|{{IPA link|a}}
+|{{IPA link|æ}}
+|{{IPA link|ɑ}}, {{IPA link|ɒ}}
+|[[Labialized consonant|ᵐbʷ]], {{IPA link|b}}
+|[[Labialized consonant|ᵐbʷ]], [[Labialized consonant|bʷ]]
+|[[Prenasalized consonant|ⁿ]]d, {{IPA link|d}}
+|{{IPA link|e}}
+|[[Prenasalized consonant|ᵑ]]g, {{IPA link|g}}
+|{{IPA link|i}}
+|{{IPA link|ⁿd͡ʒ}}, {{IPA link|d͡ʒ}}
+|{{IPA link|k}}
+|{{IPA link|l}}
+|{{IPA link|m}}
+|[[Labialized consonant|mʷ]]
+|{{IPA link|n}}
+|{{IPA link|ŋ}}
+|{{IPA link|ɲ}}
+|{{IPA link|o}}
+|{{IPA link|p}}
+|[[Labialized consonant|pʷ]]
+|{{IPA link|s}}, {{IPAlink|t͡s}}
+|{{IPA link|t}}, {{IPA link|ɾ}}, {{IPA link|r}}
+|{{IPA link|u}}
+|{{IPA link|ʋ}}, {{IPA link|v}}
+|{{IPA link|w}}
+|}
+
+Note that Äiwoo distinguishes ä [æ] and â [ɑ,ɒ], both of which appear in the word ''kânongä'' 'I want'.
+
+== Word classes ==
+
+=== Nouns ===
+Nouns are used to describe a person, place or thing. Nouns in Äiwoo can be paired with a suffix to show a possessive case. An example of this is ''tumo'' 'my father'. Other nouns in Äiwoo can be followed by a possessive particle, as in ''kuli nou'' 'my dog'.{{Citation needed|date=May 2019}}
+
+==== Bound nouns ====
+One subtype of nouns is the bound nouns. Bound nouns act like nouns but they cannot be used by themselves but need to be paired with a verb, possessive case, or another noun instead.
+
+==== Local nouns ====
+Another subtype of nouns is called local nouns. Local nouns are not like regular nouns because they can be used to indicate a location without the preposition
+
+{{interlinear|number=ex:
+|ngä: ikuwä ngââgu
+|‘I’m going to the bush.’}}
+
+=== Verbs ===
+Verbs in Äiwoo are divided into three different classes: intransitive verbs, A-verbs, and O-verbs.
+
+==== Intransitive verbs ====
+These combine only with '''one''' noun or pronoun to form a sentence but also take a prefix to indicate an action.
+
+{{interlinear|number=ex:
+|ikuwä
+|‘I go’}}
+
+==== A-Verbs ====
+Similarly to intransitive verbs, A-verbs take a prefix to indicate an action; however, they combine with another noun or pronoun.
+
+{{interlinear|number=ex:
+|ikiläke näte
+|‘I’m chopping firewood.’}}
+
+==== O-Verbs ====
+Different from intransitive verbs, O-verbs take suffixes to say who is performing the action with the noun and pronoun.
+
+{{interlinear|number=ex:
+|nyenaa eângâ kiläkino
+|‘I chop down the tree.’}}
+
+==== Phonological structure of verbs ====
+There are no verbs that start with the sounds a, ä, â, or o. The majority of verbs in Äiwoo begin with the phoneme /e/ followed by a vowel, as e.g. ''eâmoli'' ‘to look’.
+
+==== Verbal derivation ====
+Verbs beginning with the phonemes /v/ and /w/ are defined as causative verbs. Causative verbs are made by combining a causative prefix to the letters /v/ and /w/. In the Äiwoo language, the two causative prefixes are ''wâ-'' and ''vä-''.
+
+{{interlinear|number=ex:
+|wânubo
+|‘kill'}}
+
+=== Prepositions ===
+In the Äiwoo language, ''ngä'' and ''go'' are two important prepositions. ''ngä'' translates to 'in, at, on, to, from', while ''go'' corresponds to 'for, with, because of'.
+
+=== Pronouns ===
+Pronouns are words that take the place of nouns. An example of a pronoun is ''iu'' ‘I’.
+
+=== Possessive Markers ===
+Possessive markers are used after a noun to show the possessor of a person, place or thing.
+
+{{interlinear|number=ex:
+|nenu numo
+|‘my coconut’}}
+
+=== Relational markers ===
+Similarly to possessive markers, relational markers are used to show relations between a noun and something else.
+
+{{interlinear|number=ex:
+|sime lä nuumä
+|‘a person from the village’}}
+
+=== Demonstratives ===
+Äiwoo demonstrative can cover several syntactic functions, but all share the property of distinguishing between a ‘here, close by’ and a ‘there, far away’ form.
+
+=== Conjunctions ===
+Conjunctions are used to link together phrases or clauses.
+
+{{interlinear|number=ex:
+|eä
+|‘and’}}
+
+=== Quantifiers ===
+Quantifiers are words that are used to show quantity.
+
+{{interlinear|number=ex:
+|du
+|‘all’}}
+
+=== Interjections ===
+Interjections are adjectives that are used by themselves without the need of other descriptives words.
+
+{{interlinear|number=ex:
+|sikäi
+|'Oh!'}}
+
+== Morphology ==
+
+=== Intransitive subject forms ===
+In the Äiwoo language, ''lu-'' and ''li-'' are closely related to the verb stem and are thus the oldest subject prefixes still used. The other subject prefixes that follow after ''lu-'' and ''li-'' are newer, created other syntactic roles. However, one exclusion to the list of new subject prefixes are with ''i''.
+
+=== Transitive subject forms ===
+Transitive subject forms are suffixed. In addition, transitive subject forms have possessive-like forms.
+
+=== Nominalizing prefixes ===
+There are eight different nominalizing prefixes that are combined with a verb to create a noun which describes a person, thing, or place. These prefixes are:
+{| class="wikitable"
+|mi-
+|'one who/which'
+|-
+|gi-
+|'human male'
+|-
+|si-
+|'human female'
+|-
+|me-
+|'human'
+|-
+|pe-
+|'human collective'
+|-
+|nye-
+|'place'
+|-
+|de-
+|'thing, instrument'
+|-
+|nyi-
+|'way, manner'
+|}
+
+=== Class prefixes ===
+In the Äiwoo language, class prefixes are combined with a noun or verb.
+
+=== Gender marking prefixes ===
+Äiwoo gender marking prefixes can be traced back to their Oceanic origin. To create a gender marking prefix, ''gi-'' and ''si-'' from the nominalizing prefixes are combined with nouns.
+
+== Syntax ==
+The Äiwoo language follows the word order [[Object–verb–subject|OVS]] or Object-Verb-Subject.
+
+=== Transitivity ===
+In Äiwoo, three different verbal clauses are distinguished: intransitive, transitive, and semitransitive. The main difference between these three verbal clauses is that intransitives concern only one person while transitives and semitransitives concern more than one person.
+
+In Oceanic languages, intransitive clauses follow the subject and verb format. Transitive clauses follow the order object, verb, subject. Semitransitive clauses use intransitive verbs with subject and object, resulting in a structured phrase order of subject, verb, object.
+
+==References==
+{{reflist}}
+
+== External links ==
+* [[Paradisec]] has a collection of [http://catalog.paradisec.org.au/collections/AN1 Äiwoo recordings]. They also have a collection of [[Stephen Wurm]]'s recordings, which [http://catalog.paradisec.org.au/collections/SAW2 includes some Äiwoo material.]
+
+==Bibliography==
+*{{cite journal
+| author= Næss, Åshild 
+| title= Bound Nominal Elements in Äiwoo (Reefs): A Reappraisal of the 'Multiple Noun Class Systems' 
+| journal= Oceanic Linguistics
+| year= 2006
+| volume= 45
+| pages= 269–296 
+| doi= 10.1353/ol.2007.0006 
+| issue= 2
+}}
+*{{cite journal
+| author= Ross, Malcolm & Åshild Næss
+| title= An Oceanic Origin for Aiwoo, the Language of the Reef Islands?
+| journal= Oceanic Linguistics
+| year= 2007
+| volume= 46
+| issue= 2
+| pages= 456–498
+| doi=10.1353/ol.2008.0003
+| hdl= 1885/20053
+| hdl-access= free
+}}
+*{{cite journal
+| author= Næss, Åshild & Brenda H. Boerger
+| title= Reefs – Santa Cruz as Oceanic: Evidence from the Verb Complex
+| journal= Oceanic Linguistics
+| year= 2008
+| volume= 47
+| pages= 185–212 
+| doi= 10.1353/ol.0.0000 
+}}
+*{{Cite book|year=2017|title=A short dictionary of Äiwoo|last=Næss|first=Åshild|pages=214 pp|no-pp=y|series=Studies in the Languages of Island Melanesia|publisher=Asia–Pacific Linguistics|location=Canberra|hdl=1885/112469|url=https://openresearch-repository.anu.edu.au/handle/1885/112469?mode=full|isbn=9781922185372|ref=dict}}
+
+{{Languages of the Solomon Islands}}
+{{Austronesian languages}}
+
+{{DEFAULTSORT:Aiwoo Language}}
+[[Category:Languages of the Solomon Islands]]
+[[Category:Temotu languages]]

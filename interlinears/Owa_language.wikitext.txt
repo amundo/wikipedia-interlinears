@@ -1,0 +1,181 @@
+{{short description|Austronesian language spoken in the Solomon Islands}}
+{{Infobox language
+|name=Owa
+|nativename=''Santa Ana''
+|region=[[Solomon Islands]]
+|speakers={{sigfig|8410|2}}
+|date=1999
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southeast Solomonic languages|Southeast Solomonic]]
+|dia1=Tawarafa
+|dia2=Owa Raha
+|dia3=Owa Riki
+|iso3=stn
+|glotto=owaa1237
+|glottorefname=Owa
+}}
+
+The '''Owa language''' is a language of the [[Solomon Islands]]. It is part of the same [[dialect continuum]] as [[Kahua language|Kahua]], and shares the various alternate names of that dialect.
+
+==Description==
+Owa is a member of the [[Southeast Solomonic languages]] and is spoken in the southern part of the island of [[Makira]] as well as the [[Owaraha]] and [[Owariki]] islands in the Solomon Islands. It was formerly called ''Santa Ana'', under which name several [[Anglicanism|Anglican]] publications of the [[Church of the Province of Melanesia]] have been printed in this language from 1938 to the present.{{Citation needed|date=April 2019}}
+
+The Owa language, also known as Kahua, is one of approximately 70 languages spoken in the Solomon Islands. Owa has roughly 8,000 speakers in total, residing in the islands of Santa Anna, Santa Catalina, and Star Harbour of San Cristobal. Each location consists of a separate dialect. All three locations are categorized under the Makira province, which is the home of the Owa language.
+
+Owa is a Central Eastern Oceanic language and can be categorized as a branch of the Austronesia family. The Austronesian language family is rather large and expands from the Pacific Islands to Madagascar. There are roughly 60 Austronesian languages spoken in the Solomon Islands.
+
+== Phonology ==
+The Owa language consists of nineteen phonemes, which are written using twenty letters. Of these nineteen phonemes, fourteen are consonants and five are vowels. 
+
+=== Consonants ===
+The consonants can be separated into four different categories: labial (sound produced with the lips), alveolar (produced with the upper teeth), velar (produced with the back of the tongue), and glottal (produced with the glottis).
+
+{| class="wikitable" style="text-align:center;"
+|+ <ref name=Mellow>{{cite web |last1=Mellow |first1=Greg |title=A Dictionary of Owa: A Language of the Solomon Islands |url=http://uhproxy.lib.hawaii.edu:2060/ehost/ebookviewer/ebook/bmxlYmtfXzY3NDYwNF9fQU41?sid=be0568a6-7b66-4317-a203-8dadd72b0e6a@pdc-v-sessmgr01&vid=0&format=EB&rid=1 |publisher=De Gruyter, Inc. |access-date=2019-03-23}}</ref>
+|-
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|ŋ͡m}}, {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ŋ}}
+| 
+|-
+! rowspan="2" | [[Stop consonant|Stop]]
+! <small>plain</small>
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|k}}
+| 
+|-
+! <small>implosive</small>
+| {{IPA link|ɓ}}
+| 
+| 
+| 
+|-
+! colspan="2" | [[Fricative]]
+| {{IPA link|f}}
+| {{IPA link|s}}
+| {{IPA link|ɣ}}
+| {{IPA link|h}}
+|-
+! colspan="2" | [[Vibrant consonant|Vibrant]]
+| 
+| {{IPA link|ɾ}}
+| 
+| 
+|-
+! colspan="2" | [[Approximant]]
+| {{IPA link|w}}
+| 
+| 
+| 
+|}
+
+Owa distinguishes the following matters of articulation: voiceless stops, voiced stops, vibrants, voiceless fricatives, voiced fricatives, nasals, and approximants. Although there are velar consonants, there are no voiced velar or alveolar stops. However, Owa does feature the voiced fricative [ɣ] in lieu of a voiced velar stop.
+
+Furthermore, there are lengthened segments  used to distinguish semantic meaning, as in ''ssss'', used to mean ‘yes, I agree’.<ref name=Mellow />
+
+=== Vowels ===
+
+The Owa language consists of 5 phonemic vowels, ɪ, ʊ, ɛ, ɔ, ɐ, separated in three categories: front (ɪ, ɛ), central (ɐ), and back (ɔ ʊ). Long and short vowels are used to distinguish tense.
+
+{| class="wikitable" style="text-align:center;"
+|+ <ref name=Mellow />
+|-
+!  !! [[Front vowel|Front]]!! [[Central vowel|Central]]!! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|ɪ}} ||  || {{IPA link|ʊ}}
+|-
+! [[Mid open|Mid-Open]]
+| {{IPA link|ɛ}} ||  || {{IPA link|ɔ}}
+|-
+! [[Open vowel|Open]]
+|  || {{IPA link|ɐ}} || 
+|}
+
+While vowels can be nasalized before nasal consonants, this nasalization is not phonemic.
+
+=== Stress ===
+
+Usually, the second-to-last syllable is stressed in the Owa language, e.g. ''au'.ra.gi'' 'married'.<ref name=Mellow /> But occasionally the third-to-last syllable is stressed, as in ''fe.fe.ne'' 'female'.<ref name=Mellow /> However, stress placement depends on the context, specifically where it is located in the sentence; therefore, it is difficult to predict stress patterns in Owa.
+
+== Morphology ==
+
+=== Nouns phrases ===
+Generally speaking, nouns in Owa are simple; however, the pronouns and markers used with them are more complex and provide more details. While English only distinguishes singular and plural number, Owa distinguishes singular, dual, and plural, which is a characteristic of most Oceanic languages.<ref name="Mellow" /> Pronouns have both inclusive, which include the speaker, and exclusive forms, which exclude the speaker. Like nouns, pronouns also fall into three separate categories: singular, dual, and plural.
+
+Similar to Romance languages like Spanish, Owa has gender-specific articles. 
+* Male names are accompanied with the article ''o'' or ''ko''
+* Female names are proceeded by ''ka''<ref name=Mellow />
+
+Object suffixes also serve to establish the person and number. Examples are ''–au'' for the 1st person singular exclusive, and ''–go'' for the * 2nd person singular.
+
+Alienable and inalienable nouns are distinguished. The former category is related to ownership, while the latter is restricted to nouns denoting body parts or intimate people. Inalienable nouns that are distinguished by possessive suffixes. Alienable nouns are not directly suffixed when possessed; rather, the possessive suffix appears on a classifier. E.g. in ''naefe ia-ku'' 'my knife', the first person singular possessive affix ''-ku'' is attached to the classifier ''ia-''. <ref name=Mellow /> In some cases alienability is difficult to determine.
+
+Among the classifiers that are used in possessive phrases in Owa, the languages distinguish between edible and drinkable possessions.
+* Edible possession: ''-qa, -mwa, -na''
+* Non-edible (general) possession: ''-ku, -mu, -na/ni''<ref name=Mellow />
+
+=== Adjectives ===
+
+Owa has only few adjectives:
+* {{transl|stn|kere}}'small' appears before the noun<ref name=Mellow /> 
+* {{transl|stn|faoru}} 'new', {{transl|stn|mafana}} 'hot', and {{transl|stn|masuri}} 'black' all appear after the noun
+
+Because Owa only consists of a few adjectives, other means are used to describe nouns. To name a few, articles, clauses and particles serve to transform nouns.
+
+The constituent order within a noun phrase is (specifier) (adj.) Head (adj.) (modifier construction) (dem) (ana). '<ref name=Mellow />
+The specifier acts as an article and the head is the noun. The modifier construction includes either a number, possession or relative clause which is used to describe the noun preceding because the adjectives are relatively vague.
+
+===Adverbs===
+The word 'mi,' translates to 'and' which can also take the form of 'me,' can act as an adverb by preceding the verb. For example: 'meau, mia' is the singular form, and 'mego, migo' is the second person form. The adverb usually serves as accompaniment or cooperation. <ref name="Mellow" />
+
+=== Conjunctions ===
+Conjunctions have both male and female forms in Owa, which is a characteristic that rarely appears in Oceanic languages. There are separate words to indicate whether the conjunction is conjoining a feminine or a masculine entity. ''mo'' is followed by males, and ''mika'' is followed by females.
+
+{{interlinear|number=ex:
+|Jon mika Mary mo Pita
+|John and Mary and Peter
+|'John, Mary, and Peter'<ref name=Mellow />}}
+
+== Verbs ==
+There are four main types of verbs: one-place verbs, two-place verbs, noun-modifiers, and adverbs
+
+* One-place verbs:
+{{interlinear|number=Ex.
+|A niu kana ke tewa wau
+|Art coconut tall very
+|'That coconut palm is very tall.'<ref name=Mellow />}}
+
+* Two-place verbs: 
+Ex. ''sino-a'' 'sweep it', from ''sino'' 'to sweep'<ref name=Mellow />
+
+* Noun-modifiers:
+{{interlinear|number=Ex.
+|A-oqa-na ke qote
+|belly protrude
+|'His belly protrudes'<ref name=Mellow />}}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://justus.anglican.org/resources/bcp/Melanesia/owa_intro.html Fagarafenga ni Gomagomaafatani mana Manuurafitani mana Ngau Apuna ana i na woita i owa Rafa] 1956 translation of Anglican liturgical services into this language digitized by Richard Mammana
+*Materials on Owa are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]].
+
+{{Languages of the Solomon Islands}}
+{{Austronesian languages}}
+
+{{DEFAULTSORT:Owa Language}}
+[[Category:Languages of the Solomon Islands]]
+[[Category:Malaita-San Cristobal languages]]

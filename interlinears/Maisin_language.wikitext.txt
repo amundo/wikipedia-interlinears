@@ -1,0 +1,276 @@
+{{Infobox language
+  |name=Maisin
+  |ethnicity=[[Maisin people]]
+  |region=[[Oro Province]], [[Papua New Guinea]]
+  |speakers={{sigfig|2610|2}}
+  |date = 2000 census
+  |ref=e18
+  |familycolor=Mixed
+  |family=[[Austronesian languages|Austronesian]] or [[Papuan languages|Papuan]], possibly a [[mixed language]]
+  |iso3=mbq
+|glotto=mais1250
+|glottorefname=Maisin
+|notice=IPA
+}}
+
+'''Maisin''' (or '''Maisan''') is a language of [[Papua New Guinea]] with both [[Austronesian languages|Austronesian]] and [[Papuan languages|Papuan]] features. The Austronesian elements are those of the [[Nuclear Papuan Tip languages]]. The Papuan element is [[Binanderean languages|Binanderean]] or [[Dagan languages|Dagan]]. It is spoken by the [[Maisin people]] of [[Oro Province]].
+
+Maisin displays significant lexical copying from [[Korafe language|Korafe]], a neighboring Papuan language.<ref name="Reesink-Contact"/>
+
+Other languages with disputed affiliation between either [[Austronesian languages|Austronesian]] or [[Papuan languages|Papuan]] are [[Magori language|Magori]], the [[Reefs-Santa Cruz languages]], the [[Lower Mamberamo languages]], and the [[Pasismanua languages]].<ref name="Reesink-Contact">{{cite book |last1=Reesink |first1=Ger |last2=Dunn |first2=Michael  |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=Contact phenomena in Austronesian and Papuan languages |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=939–985 |isbn=978-3-11-028642-7}}</ref>
+
+==Phonology==
+
+===Vowels===
+
+====Monophthongs====
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA|i}}
+| {{IPA|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e}}
+| {{IPA|o}}
+|-
+! [[Low vowel|Low]]
+|colspan="2"| {{IPA|a}}
+|}
+
+====Diphthongs====
+{| class="wikitable" style="text-align: center;"
+!
+! Ending with {{IPA|/i/}}
+! Ending with {{IPA|/e/}}
+! Ending with {{IPA|/a/}}
+! Ending with {{IPA|/o/}}
+! Ending with {{IPA|/u/}}
+|-
+! Starting with {{IPA|/i/}}
+| {{IPA|/ii/}}
+|
+| {{IPA|/ia/}}
+|
+|
+|-
+! Starting with {{IPA|/e/}}
+| {{IPA|/ei/}}
+| {{IPA|/ee/}}
+|
+|
+| {{IPA|/eu/}}
+|-
+! Starting with {{IPA|/a/}}
+| {{IPA|/ai/}}
+|
+| {{IPA|/aa/}}
+|
+| {{IPA|/au/}}
+|-
+! Starting with {{IPA|/o/}}
+| {{IPA|/oi/}}
+|
+|
+| {{IPA|/oo/}}
+| {{IPA|/ou/}}
+|-
+! Starting with {{IPA|/u/}}
+|
+|
+| {{IPA|/ua/}}
+|
+| {{IPA|/uu/}}
+|}
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+!colspan="2" rowspan="2"|
+!colspan="2"| [[Bilabial consonant|Bilabial]]
+!rowspan="2"| [[Alveolar consonant|Alveolar]]
+!rowspan="2"| [[Palatal consonant|Palatal]]
+!colspan="2"| [[Velar consonant|Velar]]
+|-
+! <small>Unrounded</small>
+! <small>[[Labialization|Rounded]]</small>
+! <small>Unrounded</small>
+! <small>[[Labialization|Rounded]]</small>
+|-
+!rowspan="2"| [[Stop consonant|Stop]]
+! <small>[[Voiceless consonant|Voiceless]]</small>
+| {{IPA|p}}
+|
+| {{IPA|t}}
+|
+| {{IPA|k}}
+| {{IPA|(kʷ)}}
+|-
+! <small>[[Voiced consonant|Voiced]]</small>
+| {{IPA|b}}
+|
+| {{IPA|d}}
+|
+| {{IPA|ɡ}}
+|
+|-
+!colspan="2"| [[Nasal stop|Nasal]]
+| {{IPA|m}}
+|
+| {{IPA|n}}
+|
+| {{IPA|(ŋ)}}
+|
+|-
+!rowspan="2"| [[Fricative consonant|Fricative]]
+! <small>[[Voiceless consonant|Voiceless]]</small>
+| {{IPA|ɸ}}
+| {{IPA|ɸʷ}}
+| {{IPA|s}}
+|
+|
+|
+|-
+! <small>[[Voiced consonant|Voiced]]</small>
+| {{IPA|β}}
+|
+|
+| {{IPA|ʝ}}
+|
+|
+|-
+!colspan="2"| [[Flap consonant|Flap]]
+|
+|
+| {{IPA|ɾ}}
+|
+|
+|
+|-
+!colspan="2"| [[Approximant consonant|Approximant]]
+|
+|
+|
+| {{IPA|j}}
+|
+| {{IPA|w}}
+|}
+{{IPA|[ŋ]}} and {{IPA|[kʷ]}} are not [[phoneme|phonemic]], but are distinguished in the orthography.
+
+===Phonotactics===
+Syllables can begin and end with up to one consonant each. I.e., English ''wrong'' {{IPA|/rɔŋ/}} would be an acceptable word, but ''strength'' {{IPA|/streŋθ/}} would not. Words can only end in either a vowel or {{IPA|[ŋ]}}. The vowels {{IPA|/u/}} and {{IPA|/o/}} never occur word-initially. {{IPA|/β/}} never occurs before {{IPA|/o/}} or {{IPA|/u/}}.
+
+==Writing system==
+{| class="wikitable" style="text-align: center;"
+! A a || B b || D d || E e || F f || Fw fw || G g || I i || J j || K k || M m
+|-
+| {{IPA|/a/}} || {{IPA|/b/}} || {{IPA|/d/}} || {{IPA|/e/}} || {{IPA|/ɸ/}} || {{IPA|/ɸʷ/}} || {{IPA|/ɡ/}} || {{IPA|/i/}} || {{IPA|/ʝ/}} || {{IPA|/k/}} || {{IPA|/m/}}
+|-
+! N n || O o || R r || S s || T t || U u || V v || W w || Y y || Kw kw || [[Eng (letter)|Ŋ ŋ]]
+|-
+| {{IPA|[n]}} || {{IPA|/o/}} || {{IPA|/ɾ/}} || {{IPA|/s/}} || {{IPA|/t/}} || {{IPA|/u/}} || {{IPA|/β/}} || {{IPA|/w/}} || {{IPA|/j/}} || {{IPA|[kʷ]}} || {{IPA|[ŋ]}}
+|}
+[[Literacy]] varies from 20% to 80% in different areas.
+
+<br />
+
+== Morphosyntax ==
+
+=== Negation ===
+
+==== Negation in Maisin ====
+Negation in Maisin is achieved predominantly by morphology. In the Marua communalect, negation is marked by ''isaa… -ka''<ref name=":0" /> (Ross, 1984, p. 50), while in the Sinapa communalect, negation is marked by ''saa… -ka'' (Ross, 1984, p. 79).<ref name=":0">{{Cite journal|last=Ross|first=Malcolm|date=1984|title=Maisin: A Preliminary Sketch|url=https://www.proquest.com/|journal=Pacific Linguistics|issue=69|pages=1–82|via=ProQuest}}</ref> The negation marking is discontinuous (Ross, 1984, p. 50).<ref name=":0" />
+
+''Isaa'' is a morpheme located prior to the predicate of the sentence, and can be roughly glossed as ‘not’ in English. Morphologically, it is classified as a separate word (Ross, 1984, p. 50).<ref name=":0" /> ''-ka'' is an enclitic that is found attached to a verb’s tense- or aspect-marking enclitic. Alternatively, when there is no tense- or aspect-marking enclitic in the sentence, it attaches to the predicate’s last item (Ross, 1984, p. 50).<ref name=":0" /> Negation through ''isaa... -ka'' can be seen in the following examples.
+
+{{interlinear|lang=jig|italics2=yes|glossing3=yes
+|number=1
+|isaa iyeeyeka
+|isaa i-yee-ye-ka
+|not he-PROG-swim-NEG
+|'He isn't swimming.' (Ross, 1984, p. 50)<ref name=":0" />}}
+
+In Example 1, the verb stem 'swim’ takes both the progressive marker ''-ye'' (created through partial reduplication of the verb stem ''yee''<ref name=":0" /> (Ross, 1984, p. 41) and the negative enclitic ''-ka'', as well as the male second-person singular pronominal enclitic. The enclitic ''-ka'' attaches to the progressive marker -''ye''. The combination of ''isaa'' and ''-ka'' in the sentence negates the action of swimming.<br /> 
+
+{{interlinear|lang=jig|italics2=yes|glossing3=yes
+|number=2
+|bendooka isaa raatika
+|bendoo-ka isaa raati-ka
+|Bendo-TOP not small-NEG
+|'Bendo is very big.' ({{lit}} 'Bendo isn't small.') (Ross, 1984, p. 50)<ref name=":0" />}}
+
+Here negation is also shown through ''isaa… -ka''. In this case, ''-ka'' is attached directly to the end of the predicate, as there is no tense- or aspect-marking present. The first ''-ka'' in the sentence (in ''bendoo-ka'') is not a negative marker; rather, it is a homophonous morpheme that functions as a topic marker (Ross, 1984, p. 51).<ref name=":0" /><br /> 
+
+{{interlinear|lang=jig|italics2=yes|glossing3=yes
+|number=3
+|bendooka isaa vareyananka
+|bendoo-ka isaa var-e-anan-ka
+|Bendo-TOP not house-LOC-FUT-NEG
+|'Bendo won't be in the house.' (Ross, 1984, p. 50)<ref name=":0" />}}
+
+In Example 3, ''-ka'' is found attached to the enclitic ''-anan'', which marks future tense. Again, negation is achieved through the combination of ''isaa'' and ''-ka''.
+
+===== Maisin negation with ''isaa'' only =====
+In the presence of the conjunction ''-ate'' or the demonstrative ''-nen'', the ''-ka'' enclitic is removed, leaving ''isaa'' as the sole negation marker in the sentence. This occurs because ''-ate'' and ''-nen'' are both located in the same position in a word as ''-ka'' (Ross, 1984, p. 50).<ref name=":0" /> ''isaa''-only negation is demonstrated in the following examples.
+
+{{interlinear|lang=jig|italics2=yes|glossing3=yes
+|number=4
+|isaa iraarananeŋka isaa aaranaŋka
+|isaa i-ar-ar-anan-nen-ka isaa a-ar-anan-ka
+|not he-PROG-go-FUT-that-TOP not I-go-FUT-NEG
+|'If he doesn't go, I shan't go.' (Ross, 1984, p. 50)<ref name=":0" />}}
+
+The presence of the demonstrative morpheme ''-nen'' in the first clause of Example 4 displaces (and removes) ''-ka.'' Thus, ''isaa'' is the sole negator of the clause.
+
+{{interlinear|lang=jig|italics2=yes|glossing3=yes
+|number=5
+|bendooka isaa ikanate arauku
+|bendoo-ka isaa i-kan-ate a-ra-uku
+|Bendo-TOP not he-eat-and I-come-descend
+|'Before Bendo had eaten, I arrived.' ({{lit}} 'Bendo didn't eat and then I arrived.') (Ross, 1984, p. 50)<ref name=":0" />}}
+
+This example shows the presence of the conjunction ''-ate'', which is attached to the end of the verb stem ''kan''. This removes ''-ka'' and again leaves ''isaa'' as the only negation marker in the sentence.<br /> 
+
+==== Maisin negation within Oceanic language family ====
+Maisin is an Oceanic language (Eberhard, Simons, & Fennig, 2019),<ref>{{Cite web|url=https://www.ethnologue.com/subgroups/austronesian|title=Austronesian|date=2019|editor-last=Eberhard|editor-first=David M.|editor2-last=Simons|editor2-first=Gary F.|website=Ethnologue|access-date=April 6, 2019|editor3-last=Fennig|editor3-first=Charles D.}}</ref> and its negation system is fairly typical of Oceanic languages. Oceanic languages often express negation discontinuously (Crowley, Lynch, & Ross, 2001, p. 51),<ref name=":1">{{Cite book|title=The Oceanic Languages|last1=Crowley|first1=Terry|last2=Lynch|first2=John|last3=Ross|first3=Malcolm|publisher=Routledge|year=2001|isbn=9780700711284|pages=51|chapter=Typological Overview}}</ref> with the first element located preverbally and the second postverbally (Crowley et al., 2001, p. 51)<ref name=":1" /> – Maisin fits this pattern, as the above examples demonstrate.
+
+Additionally, Maisin follows both the Polynesian pattern of marking negation clause-initially and the Papuan pattern of marking negation clause-finally (Crowley et al., 2001, p. 51)<ref name=":1" />.<br /> 
+
+==== List of abbreviations ====
+
+* FUT = 'final' future enclitic
+* LOC = locative enclitic
+* NEG = negative enclitic
+* PROG = progressive aspect
+* TOP = topic marker enclitic (Ross, 1984, p. 2) <ref name=":0" />
+
+==== Notes ====
+The first interlinear text example was retrieved from page 50 of ''Maisin: A Preliminary Sketch'' by Malcolm Ross. The glossing of the morphemes ''yee'' and ''ye'' as 'PG' and the verb stem 'swim' respectively means that the negative enclitic ''-ka'' is attached to ''ye'' 'swim'. This does not seem to fit the description of ''-ka'' as attaching to the tense- or aspect-marking enclitic of the predicate. The progressive marker is generated through reduplication (Ross, 1984, p. 41),<ref name=":0" /> and so the glossing of each morpheme may be ambiguous - that is, it may not be entirely clear as to whether ''yee'' should be glossed as 'PG' or 'swim', and likewise with the morpheme ''ye''. This may explain why the first example seems to deviate from the typical pattern of negation.
+
+==See also==
+*[[Magori language]], a similar case
+
+==References==
+{{Reflist}}
+*Crowley, T., Lynch, J., & Ross, M. (2001). ''The Oceanic Languages''. Oxford: Routledge.
+*Eberhard, D. M., Simons, G. F., & Fennig, C. D. (eds.) (2019). Austronesian. Retrieved from https://www.ethnologue.com/subgroups/austronesian
+*{{cite journal |last=Ray |first=Sidney H. |authorlink=Sidney H. Ray |date=Jul–Dec 1911 |title=Comparative notes on Maisin and other languages of eastern Papua |journal=Journal of the Royal Anthropological Institute |volume=41 |pages=397–405 |doi=10.2307/2843181 |jstor=2843181|url=https://zenodo.org/record/1449621 }}
+*{{cite book |last=Ross |first=Malcolm |authorlink=Malcolm Ross (linguist) |year=1984 |title=Maisin: a preliminary sketch |publisher=Pacific Linguistics}}
+*Ross, M. (1984). Maisin: A preliminary sketch. ''Pacific Linguistics, 0''(69), 1-82. Retrieved from https://www.proquest.com/
+*{{cite journal |last=Strong |first=W. M. |authorlink=W. M. Strong |date=Jul–Dec 1911 |title=The Maisin Language |journal=Journal of the Royal Anthropological Institute |volume=41 |pages=381–396 |doi=10.2307/2843180 |jstor=2843180|url=https://zenodo.org/record/1449619 }}
+
+==External links==
+*[http://justus.anglican.org/resources/bcp/PNG/maisin_hc.html Bada ari Foraga ari Buandi ari nane, ai Totoruga  Muanfafusi The Service of Holy Communion in  the Maisin Language] (1921 translation digitized by Richard Mammana)
+*[http://www.pnglanguages.org/acms/sys/page.php?sc=lr&page=langres+cat+langres&LangResourceID=211&LangResourceCategory=phonology Maisin organised phonology data]
+*Materials on Maisin are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]]
+*Paradisec also has [http://catalog.paradisec.org.au/collections/search?language_code=mbq a number of other collections in the Maisin language]
+
+{{Papuan Tip languages}}
+{{Languages of Papua New Guinea}}
+
+[[Category:Nuclear Papuan Tip languages]]
+[[Category:Languages of Milne Bay Province]]
+[[Category:Unclassified languages of New Guinea]]
+[[Category:Mixed languages]]

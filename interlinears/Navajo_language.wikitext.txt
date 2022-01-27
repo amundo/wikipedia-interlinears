@@ -1,0 +1,632 @@
+{{short description|Athabaskan language of Na-Dené stock in the United States}}
+{{Infobox language
+| name = Navajo
+| nativename = {{lang|nv|Diné bizaad}}
+| states = United States
+| region = [[Arizona]], [[New Mexico]], [[Utah]], [[Colorado]]
+| ethnicity = 332,129 [[Navajo people|Navajo]] (2021)
+| speakers = {{sigfig|167,000|2}}
+| date = 2015 census
+| ref = e24
+| familycolor = Na-Dené
+| fam1 = [[Dené–Yeniseian languages|Dené–Yeniseian]]?
+| fam2 = [[Na-Dene languages|Na-Dené]]
+| fam3 = [[Athabaskan languages|Athabaskan]]
+| fam4 = [[Southern Athabaskan languages|Southern Athabaskan]]
+| fam5 = Southwestern Apache
+| fam6 = Western
+| script = [[Latin script|Latin]] ([[Navajo alphabet]])<br />[[Navajo Braille]]
+| iso1 = nv
+| iso2 = nav
+| iso3 = nav
+| glotto = nava1243
+| glottorefname = Navajo
+| map = <!--DineBikeyahBe%27elyaigii.svg-->DineBikeyahBe'elyaigii.svg
+| mapcaption = The [[Navajo Nation]], where the language is most spoken
+| notice = IPA
+}}
+
+'''Navajo''' or '''Navaho''' ({{IPAc-en|ˈ|n|æ|v|ə|h|oʊ|,_|ˈ|n|ɑː|-}};<ref>{{Citation |last=Jones |first=Daniel |author-link=Daniel Jones (phonetician) |title=English Pronouncing Dictionary |editor=Peter Roach |editor2=James Hartmann |editor3=Jane Setter |place=Cambridge |publisher=Cambridge University Press |orig-year=1917 |year=2003 |isbn=3-12-539683-2 }}</ref> Navajo: {{lang|nv|Diné bizaad}} {{IPA-nv|tìnépìz̥ɑ̀ːt|}} or {{lang|nv|Naabeehó bizaad}} {{IPA-nv|nɑ̀ːpèːhópìz̥ɑ̀ːt|}}) is a [[Southern Athabaskan languages|Southern Athabaskan language]] of the [[Na-Dene languages|Na-Dené family]], through which it is related to languages spoken across the western areas of [[North America]]. Navajo is spoken primarily in the [[Southwestern United States]], especially on the [[Navajo Nation]]. It is one of the most widely spoken [[Indigenous languages of the Americas#Northern America|Native American language]]s and is the most widely spoken north of the [[Mexico–United States border]], with almost 170,000 Americans speaking Navajo at home as of 2011. The language has struggled to keep a healthy speaker base, although this problem has been alleviated to some extent by extensive education programs in the Navajo Nation.
+
+The language has a fairly large phoneme inventory; it includes several uncommon consonants that are not found in English. Its four basic vowels are distinguished for [[Nasal vowel|nasality]], [[Vowel length|length]], and [[tone (linguistics)|tone]]. It has both [[agglutinative language|agglutinative]] and [[fusional language|fusional]] elements: it relies on affixes to modify verbs, and nouns are typically created from multiple morphemes, but in both cases these morphemes are fused irregularly and beyond easy recognition. Basic [[word order]] is [[subject–object–verb]], though it is highly flexible to pragmatic factors. Verbs are conjugated for [[grammatical aspect|aspect]] and [[grammatical mood|mood]], and given affixes for the person and number of both [[subject (grammar)|subjects]] and [[object (grammar)|objects]], as well as a host of other variables.
+
+The language's orthography, which was developed in the late 1930s after a series of prior attempts, is based on the [[Latin script]]. Most Navajo vocabulary is Athabaskan in origin, as the language has been conservative with [[loanwords]] since its early stages.
+
+==Nomenclature==
+
+The word ''Navajo'' is an [[exonym]]: it comes from the [[Tewa language|Tewa]] word {{lang|tew|Navahu}}, which combines the roots {{lang|tew|nava}} ('field') and {{lang|tew|hu}} ('valley') to mean 'large field'. It was borrowed into [[Spanish language|Spanish]] to refer to an area of present-day northwestern [[New Mexico]], and later into English for the [[Navajo]] tribe and their language.<ref>{{cite dictionary |url=http://www.etymonline.com/index.php?term=Navajo&allowed_in_frame=0 |dictionary=Online Etymology Dictionary |access-date=August 1, 2014 |last=Harper |first=Douglas |title=Navajo |archive-url=https://web.archive.org/web/20140810035022/http://etymonline.com/index.php?term=Navajo&allowed_in_frame=0 |archive-date=August 10, 2014 |url-status=live }}</ref> The alternative spelling ''Navaho'' is considered antiquated; even anthropologist [[Berard Haile]] spelled it with a "j" in accordance with contemporary usage despite his personal objections.<ref>{{Harvnb|Bahr|2004|p=xxxv}}</ref> The Navajo refer to themselves as the {{lang|nv|Diné}} ('People'), with their language known as {{lang|nv|Diné bizaad}} ('People's language')<ref>{{Harvnb|Minahan|2013|p=260}}</ref> or {{lang|nv|Naabeehó bizaad}}.
+
+==Classification==
+Navajo is an [[Athabaskan languages|Athabaskan language]]; Navajo and Apache languages make up the southernmost branch of the family. Most of the other Athabaskan languages are located in Alaska, northwestern Canada, and along the North American Pacific coast.
+
+Most languages in the Athabaskan family have [[tone (linguistics)|tones]]. However, this feature evolved independently in all subgroups; [[Athabaskan languages#Proto-Athabaskan|Proto-Athabaskan]] had no tones.<ref>{{Harvnb|Hargus|Rice|2005|p=139}}</ref> In each case, tone evolved from [[glottalic consonant]]s at the ends of morphemes; however, the progression of these consonants into tones has not been consistent, with some related morphemes being pronounced with high tones in some Athabaskan languages and low tones in others. It has been posited that Navajo and [[Chipewyan language|Chipewyan]], which have no common ancestor more recent than Proto-Athabaskan and possess many pairs of corresponding but opposite tones, evolved from different dialects of Proto-Athabaskan that pronounced these glottalic consonants differently.<ref>{{Harvnb|Hargus|Rice|2005|p=138}}</ref> Proto-Athabaskan diverged fully into separate languages circa 500 BC.<ref>{{Harvnb|Johansen|Ritzker|2007|p=333}}</ref>
+
+Navajo is most closely related to [[Western Apache language|Western Apache]], with which it shares a similar tonal scheme<ref>{{Harvnb|Hargus|Rice|2005|p=209}}</ref> and more than 92 percent of its vocabulary. It is estimated that the [[Apache]]an linguistic groups separated and became established as distinct societies, of which the Navajo were one, somewhere between 1300 and 1525.<ref>{{Harvnb|Levy|1998|p=25}}</ref> As a member of the Western Apachean group, Navajo's closest relative is the [[Mescalero-Chiricahua language]].<ref>{{Harvnb|Johansen|Ritzker|2007|p=334}}</ref> Navajo is generally considered [[mutual intelligibility|mutually intelligible]] with all other Apachean languages.<ref>{{Harvnb|Koenig|2005|p=9}}</ref>
+
+==History==
+[[File:NavajoSigns.png|thumb|right|upright=1.59|Examples of written Navajo on public signs. Clockwise from top left: Student Services Building, [[Diné College]]; cougar exhibit, [[Navajo Nation Zoological and Botanical Park|Navajo Nation Zoo]]; shopping center near [[Navajo, New Mexico]]; notice of reserved parking, [[Window Rock, Arizona|Window Rock]]]]
+
+The Apachean languages, of which Navajo is one, are thought to have arrived in the American Southwest from the north by 1500, probably passing through Alberta and Wyoming.<ref>Perry, R. J. (1980). "The Apachean Transition from the Subarctic to the Southwest". ''The Plains Anthropologist'', 279–296.</ref><ref>Brugge, D. M. (1983). "Navajo prehistory and history to 1850". ''Handbook of North American Indians'', 10, 489–501.</ref> Archaeological finds considered to be proto-Navajo have been located in the far northern New Mexico around the La Plata, Animas and Pine rivers, dating to around 1500. In 1936, linguist [[Edward Sapir]] showed how the arrival of the Navajo people in the new arid climate among the corn agriculturalists of the Pueblo area was reflected in their language by tracing the changing meanings of words from Proto-Athabaskan to Navajo. For example, the word *''dè:'', which in Proto-Athabaskan meant "horn" and "dipper made from animal horn", in Navajo came to mean "gourd" or "dipper made from gourd". Likewise, the Proto-Athabaskan word *''ɫ-yáxs'' "snow lies on the ground" in Navajo became ''sàs'' "corn lies on the ground". Similarly, the Navajo word for "corn" is ''nà:-dą:'', derived from two Proto-Athabaskan roots meaning "enemy" and "food", suggesting that the Navajo originally considered corn to be "food of the enemy" when they first arrived among the Pueblo people.<ref>Sapir, E. (1936). "Internal linguistic evidence suggestive of the northern origin of the Navaho". ''American Anthropologist'', 38(2), 224–235.</ref><ref>Shaul, D. L. (2014). ''A Prehistory of Western North America: The Impact of Uto-Aztecan Languages''. UNM Press. {{ISBN?}}</ref>
+
+===Navajo Code===
+During World War II, the United States of America government used a code based on the Navajo language to use as secret communication. These [[code talker]]s would relay secret messages using the code. At the end of the war the code remained unbroken.<ref>{{Cite web|url=https://www.intelligence.gov/index.php/people/barrier-breakers-in-history/453-navajo-code-talkers#:~:text=The%20U.S.%20Marines%20knew%20where,key%20phrases%20and%20military%20tactics.|title=1942: Navajo Code Talkers}}</ref> The code worked by assigning Navajo words to common military phrases. The code proved for the most part effective for conveying secrecy, as the Navajo language was often not learned by spies attempting to break American codes.
+
+===Colonization and decline===
+[[File:Navaho-enlistment-letter-page01.jpg|thumb|right|General [[Clayton Barney Vogel]]'s recommendation letter for Navajo to be used by [[code talker]]s during [[World War II]]]]
+Navajo lands were initially colonized by the [[Spain|Spanish]] in the early nineteenth century, shortly after this area was "annexed" as part of the Spanish colony of [[Mexico]]. When the United States annexed these territories in 1848 following the [[Mexican–American War]],<ref name="Minahan 2013 261"/> the English-speaking settlers allowed{{citation needed|date=November 2017}} Navajo children to attend their schools. In some cases, the United States established separate schools for Navajo and other Native American children. In the late 19th century, it founded boarding schools, often operated by religious missionary groups. In efforts to [[acculturate]] the children, school authorities insisted that they learn to speak English and practice Christianity. Students routinely had their mouths washed out with lye soap as a punishment if they did speak Navajo.<ref>{{Cite web|url=https://www.pbs.org/video/the-warrior-tradition-fkaz4h/|title=The Warrior Tradition &#124; The Warrior Tradition|via=www.pbs.org|access-date=2020-03-13|archive-url=https://web.archive.org/web/20191115052715/https://www.pbs.org/video/the-warrior-tradition-fkaz4h/|archive-date=2019-11-15|url-status=live}}</ref> Consequently, when these students grew up and had children of their own, they often did not teach them Navajo, in order to prevent them from being punished.<ref name="Johansen Ritzker 421"/>
+
+[[Robert W. Young]] and William Morgan (Navajo), who both worked for the Navajo Agency of the [[Bureau of Indian Affairs]], developed and published a practical orthography in 1937. It helped spread education among Navajo speakers.<ref name="Minahan 2013 262">{{Harvnb|Minahan|2013|p=262}}</ref> In 1943 the men collaborated on ''The Navajo Language'', a dictionary organized by the roots of the language.<ref name="hargus"/> In [[World War II]], the United States military used speakers of Navajo as [[code talker]]s—to transmit top-secret military messages over telephone and radio in a code based on Navajo. The language was considered ideal because of its grammar, which differs strongly from that of [[German language|German]] and [[Japanese language|Japanese]], and because no published Navajo dictionaries existed at the time.<ref>{{cite web|url=https://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=1|work=[[The New York Times]]|date=June 5, 2014|title=Chester Nez, 93, Dies; Navajo Words Washed From Mouth Helped Win War|last=Fox|first=Margalit|access-date=August 11, 2014|archive-url=https://web.archive.org/web/20140812203623/http://www.nytimes.com/2014/06/06/us/chester-nez-dies-at-93-his-native-tongue-helped-to-win-a-war-of-words.html?_r=1|archive-date=August 12, 2014|url-status=live}}</ref>
+
+Despite gaining new scholarly attention and being documented, the language declined in use. By the 1960s, indigenous languages of the United States had been declining in use for some time. Native American language use began to decline more quickly in this decade as paved roads were built and English-language radio was broadcast to tribal areas. Navajo was no exception, although its large speaker pool—larger than that of any other Native language in the United States—gave it more staying power than most.<ref name="Johansen Ritzker 422">{{Harvnb|Johansen|Ritzker|2007|p=422}}</ref> Adding to the language's decline, federal acts passed in the 1950s to increase educational opportunities for Navajo children had resulted in pervasive use of English in their schools.<ref name="Kroskrity Field 2009 38"/>
+
+===Revitalization and current status===
+In 1968, U.S. President [[Lyndon B. Johnson]] signed the [[Bilingual Education Act]], which provided funds for educating young students who are not native English speakers. The Act had mainly been intended for Spanish-speaking children—particularly [[Mexican Americans]]—but it applied to all recognized linguistic minorities. Many Native American tribes seized the chance to establish their own bilingual education programs. However, qualified teachers who were fluent in Native languages were scarce, and these programs were largely unsuccessful.<ref name="Johansen Ritzker 422"/>
+
+However, data collected in 1980 showed that 85 percent of Navajo first-graders were bilingual, compared to 62 percent of Navajo of all ages—early evidence of a resurgence of use of their traditional language among younger people.<ref>{{Harvnb|Koenig|2005|p=8}}</ref> In 1984, to counteract the language's historical decline, the [[Navajo Nation Council]] decreed that the Navajo language would be available and comprehensive for students of all grade levels in schools of the [[Navajo Nation]].<ref name="Johansen Ritzker 422"/> This effort was aided by the fact that, largely due to the work of Young and Morgan, Navajo is one of the best-documented Native American languages. In 1980 they published a monumental expansion of their work on the language, organized by word (first initial of vowel or consonant) in the pattern of English dictionaries, as requested by Navajo students. ''The Navajo Language: A Grammar and Colloquial Dictionary'' also included a 400-page grammar, making it invaluable for both native speakers and students of the language. Particularly in its organization of verbs, it was oriented to Navajo speakers.<ref name="kari">[https://www.jstor.org/stable/1265203?seq=1 James Kari and Jeff Leer, "Review: ''The Navajo Language: A Grammar and Colloquial Dictionary'' by Robert W. Young; William Morgan] {{Webarchive|url=https://web.archive.org/web/20161120150203/http://www.jstor.org/stable/1265203?seq=1 |date=2016-11-20 }}, ''International Journal of American Linguistics,'' Vol. 50, No. 1, Jan., 1984. Retrieved 2 October 2014 {{Subscription required |via=[[JSTOR]]}}</ref> They expanded this work again in 1987, with several significant additions, and this edition continues to be used as an important text.<ref name="hargus"/>
+
+The Native American language education movement has been met with adversity, such as by English-only campaigns in some areas in the late 1990s. However, Navajo-immersion programs have cropped up across the Navajo Nation. Statistical evidence shows that Navajo-immersion students generally do better on [[standardized test]]s than their counterparts educated only in English. Some educators have remarked that students who know their native languages feel a sense of pride and identity validation.<ref>{{Harvnb|Johansen|Ritzker|2007|pp=423–424}}</ref> Since 1989, [[Diné College]], a Navajo tribal [[community college]], has offered an [[associate degree]] in the subject of Navajo.<ref>{{Harvnb|Young|Elinek|1996|p=376}}</ref> This program includes language, literature, culture, medical terminology, and teaching courses and produces the highest number of Navajo teachers of any institution in the United States. About 600 students attend per semester.<ref>{{Harvnb|Young|Elinek|1996|pp=377–385}}</ref> One major university that teaches classes in the Navajo language is [[Arizona State University]].<ref>{{cite web|url=http://indiancountrytodaymedianetwork.com/2014/05/03/learning-navajo-helps-students-connect-their-culture-154613?page=0%2C0|publisher=Indian Country (Today Media Network)|title=Learning Navajo Helps Students Connect to Their Culture|date=May 3, 2014|author=Arizona State University News|access-date=August 14, 2014|archive-url=https://web.archive.org/web/20140520221150/http://indiancountrytodaymedianetwork.com/2014/05/03/learning-navajo-helps-students-connect-their-culture-154613?page=0%2C0|archive-date=May 20, 2014|url-status=dead}}</ref> In 1992, Young and Morgan published another major work on Navajo: ''Analytical Lexicon of Navajo'', with the assistance of Sally Midgette (Navajo). This work is organized by [[root (linguistics)|root]], the basis of Athabaskan languages.<ref name="hargus"/>
+
+A 1991 survey of 682 preschoolers on the Navajo Reservation [[Head Start program]] found that 54 percent were monolingual English speakers, 28 percent were bilingual in English and Navajo, and 18 percent spoke only Navajo. This study noted that while the preschool staff knew both languages, they spoke English to the children most of the time. In addition, most of the children's parents spoke to the children in English more often than in Navajo. The study concluded that the preschoolers were in "almost total immersion in English".<ref>{{Harvnb|Platero|Hinton|2001|pp=87–97}}</ref> An [[American Community Survey]] taken in 2011 found that 169,369 Americans spoke Navajo at home—0.3 percent of Americans whose primary home language was not English. Of primary Navajo speakers, 78.8 percent reported they spoke English "very well", a fairly high percentage overall but less than among other Americans speaking a different Native American language (85.4 percent). Navajo was the only Native American language afforded its own category in the survey; domestic Navajo speakers represented 46.4 percent of all domestic Native language speakers (only 195,407 Americans have a different home Native language).<ref name="census">{{cite web|title=Language Use|url=https://www.census.gov/prod/2013pubs/acs-22.pdf|publisher=Census.gov|date=August 2013|last=Ryan|first=Camille|access-date=August 6, 2014|archive-url=https://web.archive.org/web/20160205101044/http://www.census.gov/prod/2013pubs/acs-22.pdf|archive-date=February 5, 2016|url-status=dead|df=mdy-all}}</ref> As of July 2014, [[Ethnologue]] classes Navajo as "6b" (In Trouble), signifying that few, but some, parents teach the language to their offspring and that concerted efforts at revitalization could easily protect the language. Navajo had a high population for a language in this category.<ref>{{cite web|url-status=live| archive-url=https://web.archive.org/web/20140709015814/http://www.ethnologue.com/cloud/nav| url=http://www.ethnologue.com/cloud/nav|archive-date=July 9, 2014|access-date=August 7, 2014|title=Navajo in the Language Cloud|publisher=[[Ethnologue]]}}</ref> About half of all Navajo people live on Navajo Nation land, an area spanning parts of [[Arizona]], [[New Mexico]], and [[Utah]]; others are dispersed throughout the United States.<ref name="Minahan 2013 261">{{Harvnb|Minahan|2013|p=261}}</ref> Under tribal law, fluency in Navajo is mandatory for candidates to the office of the [[President of the Navajo Nation]].<ref>{{cite news|url = http://www.chron.com/news/us/article/Language-factors-into-race-for-Navajo-president-5747493.php|title = Language factors into race for Navajo president|last = Fonseca|first = Felicia|date = September 11, 2014|newspaper = [[The Houston Chronicle]]|access-date = September 29, 2014|archive-url = https://web.archive.org/web/20140911172142/http://www.chron.com/news/us/article/Language-factors-into-race-for-Navajo-president-5747493.php|archive-date = September 11, 2014|url-status = live}}</ref>
+
+Both original and translated media have been produced in Navajo. The first works tended to be religious texts translated by missionaries, including the Bible. From 1943 to about 1957, the Navajo Agency of the BIA published ''[[Ádahooníłígíí]]'' ("Events"<ref name="McCarty2002">{{cite book|author=Teresa L. McCarty|title=A Place to Be Navajo: Rough Rock and the Struggle for Self-Determination in Indigenous Schooling|url=https://books.google.com/books?id=lXmRAgAAQBAJ&pg=PA51|year=2002|publisher=Routledge|isbn=978-1-135-65158-9|pages=51–|access-date=20 December 2015|archive-url=https://web.archive.org/web/20160624092859/https://books.google.com/books?id=lXmRAgAAQBAJ&pg=PA51|archive-date=24 June 2016|url-status=live}}</ref>), the first newspaper in Navajo and the only one to be written entirely in Navajo. It was edited by [[Robert W. Young]] and William Morgan, Sr. (Navajo). They had collaborated on ''The Navajo Language'', a major language dictionary published that same year, and continued to work on studying and documenting the language in major works for the next few decades.<ref name="hargus">[https://www.jstor.org/stable/30028936 Sharon Hargus, "Review: ''Analytical Lexicon of Navajo'' by Robert W. Young; William Morgan; Sally Midgette"], ''Anthropological Linguistics'', Vol. 38, No. 2, Summer, 1996, JSTOR. Retrieved 2 October 2014 {{Subscription required |via=[[JSTOR]]}} {{Webarchive|url=https://web.archive.org/web/20181105062128/https://www.jstor.org/stable/30028936 |date=5 November 2018 }}</ref> Today an [[medium wave|AM]] radio station, [[KTNN]], broadcasts in Navajo and English, with programming including music and [[NFL]] games;<ref>{{cite web|url=http://www.raiders.com/news/article-1/Raiders-vs-Lions-to-Be-Broadcast-in-Navajo/13181f15-456f-4e9f-bd12-e407cf95f0ed|publisher=[[Oakland Raiders|Raiders.com]]|title=Raiders vs Lions to be Broadcast in Navajo|date=December 14, 2011|access-date=August 13, 2014|archive-url=https://web.archive.org/web/20171024211221/http://www.raiders.com/news/article-1/Raiders-vs-Lions-to-Be-Broadcast-in-Navajo/13181f15-456f-4e9f-bd12-e407cf95f0ed|archive-date=October 24, 2017|url-status=dead}}</ref> AM station [[KNDN (AM)|KNDN]] broadcasts only in Navajo.<ref name="CarlsbadCurrentArgus">{{cite web|url=http://www.currentargus.com/ci_22462945 |publisher=[[Carlsbad Current-Argus]] |date=January 28, 2013 |last=Kane |first=Jenny |access-date=August 13, 2014 |title=Watching the ancient Navajo language develop in a modern culture |url-status=bot: unknown |archive-url=https://web.archive.org/web/20140713115618/http://www.currentargus.com/ci_22462945 |archive-date=July 13, 2014 }}</ref> When [[Super Bowl XXX]] was broadcast in Navajo in 1996, it was the first time a [[Super Bowl]] had been carried in a Native American language.<ref>{{cite journal|title=Super Bowl carried in Navajo language|journal=[[The Post and Courier]]|date=January 19, 1996|page=3B}}</ref> In 2013, the 1977 film ''[[Star Wars (film)|Star Wars]]'' was translated into Navajo. It was the first major motion picture translated into any Native American language.<ref>{{cite web|url=https://www.npr.org/2013/06/20/193496493/translated-into-navajo-star-wars-will-be|title=Translated Into Navajo, 'Star Wars' Will Be|publisher=[[NPR]]|date=June 20, 2013|last=Trudeau|first=Christine|access-date=August 14, 2014|archive-url=https://web.archive.org/web/20181128053645/https://www.npr.org/2013/06/20/193496493/translated-into-navajo-star-wars-will-be|archive-date=November 28, 2018|url-status=live}}</ref><ref>{{cite web|url=http://navajotimes.com/news/2013/0713/070413starwars.php|title=Navajo Star Wars a crowd pleaser|work=[[Navajo Times]]|date=July 4, 2013|access-date=August 14, 2014|last=Silversmith|first=Shondiin|archive-url=https://web.archive.org/web/20140710050821/http://navajotimes.com/news/2013/0713/070413starwars.php|archive-date=July 10, 2014|url-status=dead}}</ref>
+
+On October 5, 2018, an early beta of a Navajo course was released on [[Duolingo]].<ref>{{Cite web|url=https://www.duolingo.com/course/nv/en/Learn-Navajo-Online|title=Duolingo|website=www.duolingo.com|access-date=2018-10-06|archive-url=https://web.archive.org/web/20181006195217/https://www.duolingo.com/course/nv/en/Learn-Navajo-Online|archive-date=2018-10-06|url-status=live}}</ref>
+
+===Education===
+The Navajo Nation operates Tséhootsooí Diné Bi'ólta', a Navajo language immersion school for grades K-8 in [[Fort Defiance, Arizona]]. Located on the Arizona-New Mexico border in the southeastern quarter of the [[Navajo Reservation]], the school strives to revitalize Navajo among children of the [[Window Rock Unified School District]]. Tséhootsooí Diné Bi'ólta' has thirteen Navajo language teachers who instruct only in the Navajo language, and no English, while five English language teachers instruct in the English language. Kindergarten and first grade are taught completely in the Navajo language, while English is incorporated into the program during third grade, when it is used for about 10% of instruction.<ref>{{cite web|title=Tséhootsooí Diné Bi'óta' Navaho Immersion School|url=http://ourmothertongues.org/language/Navajo/8|access-date=15 August 2015|archive-url=https://web.archive.org/web/20150905223432/http://ourmothertongues.org/language/Navajo/8|archive-date=5 September 2015|url-status=live}}</ref>
+
+==Phonology==
+{{Main|Navajo phonology}}
+{{listen
+|pos=right
+|filename=Nv-nishłį́.ogg
+|title=''nishłį́''
+|description = The second syllable of the word ''nishłį́'' (I am) involves the phoneme {{IPA|/ɬ/}}, a high tone, and nasalization.
+|format = [[Ogg]]
+}}
+Navajo has a fairly large consonant inventory. Its [[stop consonant]]s exist in three laryngeal forms: [[aspirated consonant|aspirated]], unaspirated, and [[ejective consonant|ejective]]—for example, {{IPA|/tʃʰ/}}, {{IPA|/tʃ/}}, and {{IPA|/tʃʼ/}}.<ref>{{Harvnb|McDonough|2003|p=3}}</ref> Ejective consonants are those that are pronounced with a [[Airstream mechanism#Glottalic initiation|glottalic initiation]]. Navajo also has a simple [[glottal stop]] used after vowels,<ref name="Kozak 2013 162">{{Harvnb|Kozak|2013|p=162}}</ref> and every word that would otherwise begin with a vowel is pronounced with an initial glottal stop.<ref name="Faltz 1998 3">{{Harvnb|Faltz|1998|p=3}}</ref> Consonant clusters are uncommon, aside from frequent placing {{IPA|/d/}} or {{IPA|/t/}} before [[fricative consonant|fricatives]].<ref name="McDonough 2003 5">{{Harvnb|McDonough|2003|p=5}}</ref>
+
+The language has four vowel qualities: {{IPA|/a/}}, {{IPA|/e/}}, {{IPA|/i/}}, and {{IPA|/o/}}.<ref name="McDonough 2003 5"/> Each exists in both oral and [[nasal vowel|nasalized]] forms, and can be either short or long.<ref>{{Harvnb|McDonough|2003|pp=6–7}}</ref> Navajo also distinguishes for [[tone (linguistics)|tone]] between high and low, with the low tone typically regarded as the default. However, some linguists have suggested that Navajo does not possess true tones, but only a [[pitch-accent language|pitch accent]] system similar to that of [[Japanese language|Japanese]].<ref>{{Harvnb|Yip|2002|p=239}}</ref> In general, Navajo speech also has a slower [[speech tempo]] than English does.<ref name="Kozak 2013 162"/>
+
+{| class="wikitable" style="text-align: center;"
+|+ Consonants
+|-
+! rowspan="2" colspan="3" |
+! rowspan="2" | [[Bilabial consonant|Bilabial]]
+! colspan="3" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Palato-alveolar consonant|Palato-<br />alveolar]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! colspan="2" | [[Glottal consonant|Glottal]]
+|-style="font-size: x-small;"
+! plain
+! [[lateral consonant|lateral]]
+! [[affricate consonant|fricated]]
+! plain
+! [[labialization|lab.]]
+! plain
+! [[labialization|lab.]]
+|-
+! rowspan="5" | [[Obstruent]]
+! rowspan="3" | [[Stop consonant|Stop]]
+! <small>[[tenuis consonant|unaspirated]]</small>
+| {{IPAlink|p}} || {{IPAlink|t}} || {{IPAlink|tˡ}} || {{IPAlink|ts}} || {{IPAlink|tʃ}} || || {{IPAlink|k}} || || {{IPAlink|ʔ}} ||
+|-
+! <small>[[aspiration (phonetics)|aspirated]]</small>
+| || {{IPAlink|tʰ}} || {{IPAlink|tɬʰ}} || {{IPAlink|tsʰ}} || {{IPAlink|tʃʰ}} || || {{IPAlink|kʰ}} || ({{IPAlink|kʷʰ}}) || ||
+|-
+! <small>[[ejective consonant|ejective]]</small>
+| || {{IPAlink|tʼ}} || {{IPAlink|tɬʼ}} ||  {{IPAlink|tsʼ}} || {{IPAlink|tʃʼ}} || || {{IPAlink|kʼ}} || || ||
+|-
+! rowspan="2" | [[Continuant]]
+! <small>[[fortis and lenis|fortis]]</small>
+| || || {{IPAlink|ɬ}} || {{IPAlink|s}} || {{IPAlink|ʃ}} || || {{IPAlink|x}} || ({{IPAlink|xʷ}}) || ({{IPAlink|h}}) || ({{IPAlink|hʷ}})
+|-
+! <small>[[fortis and lenis|lenis]]</small>
+| || || {{IPAlink|l}} || {{IPAlink|z}} || {{IPAlink|ʒ}} || || {{IPAlink|ɣ}} || ({{IPAlink|ɣʷ}}) || ||
+|-
+! rowspan="4" colspan="2" | [[Sonorant]]
+! <small>plain</small>
+| {{IPAlink|m}} || {{IPAlink|n}} || || || || {{IPAlink|j}} || || ({{IPAlink|w}}) || ||
+|-
+! <small>[[glottalization|glottalized]]</small>
+| ({{IPAlink|mʼ}}) || ({{IPAlink|nʼ}}) || || || || ({{IPAlink|jʼ}}) || || ({{IPAlink|wʼ}}) || ||
+|}
+{| class="wikitable" style="text-align: center"
+|+ Vowels
+! rowspan="2" scope="col" | <span style="position: absolute !important; clip: rect(1px, 1px, 1px, 1px);">Vowel height</span><!-- Visible to screenreaders only, for better accessibility, per [[MOS:ACCESS]] -->
+! colspan="2" scope="col" | [[Front vowel|Front]]
+! colspan="2" | [[Back vowel|Back]]
+|-
+! scope="col" | oral
+! scope="col" |[[Nasal vowel|nasal]]
+! scope="col" | oral
+! scope="col" | nasal
+|-
+! [[Close vowel|High]]
+| {{IPAlink|i}} ~ {{IPAlink|ɪ}} || {{IPAlink|ĩ}} || ||
+|-
+! [[Open-mid vowel|Mid]]
+| {{IPAlink|e}} || {{IPAlink|ẽ}} || {{IPAlink|o}} || {{IPAlink|õ}}
+|-
+! [[Open vowel|Low]]
+| || || {{IPAlink|ɑ}} || {{IPAlink|ɑ̃}}
+|}
+
+==Grammar==
+{{main|Navajo grammar}}
+
+===Typology===
+Navajo is difficult to classify in terms of broad [[morphological typology]]: it relies heavily on [[affix]]es—mainly prefixes—like [[agglutinative language|agglutinative]] languages,<ref>{{Harvnb|Young|Morgan|1992|p=841}}</ref> but these affixes are joined in unpredictable, overlapping ways that make them difficult to segment, a trait of [[fusional language|fusional]] languages.<ref name="Mithun 323">{{Harvnb|Mithun|2001|p=323}}</ref> In general, Navajo verbs contain more morphemes than nouns do (on average, 11 for verbs compared to 4–5 for nouns), but noun morphology is less transparent.<ref>{{Harvnb|Bowerman|Levinson|2001|p=239}}</ref> Depending on the source, Navajo is either classified as a fusional<ref name="Mithun 323"/><ref>{{Harvnb|Sloane|2001|p=442}}</ref> agglutinative or even [[polysynthetic language|polysynthetic]] language, as it shows mechanisms from all three.<ref name="Johansen Ritzker 421">{{Harvnb|Johansen|Ritzker|2007|p=421}}</ref><ref>{{Harvnb|Bowerman|Levinson|2001|p=238}}</ref>
+
+In terms of basic [[word order]], Navajo has been classified as a [[subject–object–verb]] language.<ref>{{cite web|url=http://wals.info/valuesets/81A-nav|publisher=WALS|access-date=September 1, 2014|title=Datapoint Navajo / Order of Subject, Object and Verb|archive-url=https://web.archive.org/web/20140826121256/http://wals.info/valuesets/81A-nav|archive-date=August 26, 2014|url-status=live}}</ref><ref>{{cite journal|last=Tomlin|first=Russell S.|title=Basic Word Order: Functional Principles|year=2014|journal=Routledge Library Editions Linguistics B: Grammar|page=115}}</ref> However, some speakers order the subject and object based on "noun ranking". In this system, nouns are ranked in three categories—humans, animals, and inanimate objects—and within these categories, nouns are ranked by strength, size, and intelligence. Whichever of the subject and object has a higher rank comes first. As a result, the agent of an action may be syntactically ambiguous.<ref name="Young Morgan 1992 902 903">{{Harvnb|Young|Morgan|1992|pp=902–903}}</ref> The highest rank position is held by humans and lightning.<ref>{{Harvnb|Young|Morgan|1987|pp=85–86}}</ref> Other linguists such as [[Eloise Jelinek]] consider Navajo to be a [[Non-configurational language|discourse configurational language]], in which word order is not fixed by syntactic rules, but determined by pragmatic factors in the communicative context.<ref>{{Harvnb|Fernald|Platero|2000|pp=252–287}}</ref>
+
+===Verbs===
+In Navajo, verbs are the main elements of their sentences, imparting a large amount of information. The verb is based on a [[stem (linguistics)|stem]], which is made of a [[root (linguistics)|root]] to identify the action and the semblance of a suffix to convey [[grammatical mood|mode]] and [[grammatical aspect|aspect]]; however, this suffix is fused beyond separability.<ref name="byu">{{cite web|url=http://linguistics.byu.edu/faculty/eddingtond/navajo.pdf|publisher=[[Brigham Young University]]|title=A Computational Analysis of Navajo Verb Stems|author1=Eddington, David|author2=Lachler, Jordan|access-date=August 11, 2014|archive-url=https://web.archive.org/web/20110928005548/http://linguistics.byu.edu/faculty/eddingtond/navajo.pdf|archive-date=September 28, 2011|url-status=dead}}</ref> The stem is given somewhat more transparent prefixes to indicate, in this order, the following information: postpositional object, postposition, adverb-state, [[iterativity]], [[grammatical number|number]], [[direct object]], [[deictic]] information, another adverb-state, mode and aspect, subject, classifier (see later on), [[mirativity]] and two-tier [[evidentiality]]. Some of these prefixes may be null; for example, there is only a plural marker (''da/daa'') and no readily identifiable marker for the other grammatical numbers.<ref name="McDonough 2003 21 22"/>
+
+Navajo does not distinguish strict [[grammatical tense|tense]] ''per se''; instead, an action's position in time is conveyed through mode, aspect, but also via time adverbials or context. Each verb has an inherent aspect and can be conjugated in up to seven modes.<ref name="Young Morgan 1992 868">{{Harvnb|Young|Morgan|1992|p=868}}</ref> These forms are as follows:
+{{col-begin}}
+{{col-2}}
+'''Modes:'''
+* Imperfective – an incomplete action; can be used in past, present, or future time frames<ref>{{Harvnb|Young|Morgan|1992|p=863}}</ref>
+* Perfective – a complete action; usually signifying the [[past tense]] but also applied to future states (e.g. "he will have gone")<ref>{{Harvnb|Young|Morgan|1992|p=864}}</ref>
+* Usitative – a usual or typical action<ref name="Young Morgan 1992 865">{{Harvnb|Young|Morgan|1992|p=865}}</ref>
+* Iterative – a recurrent or repetitive action; often used interchangeably with the usitative<ref name="Young Morgan 1992 865"/>
+* Progressive – ongoing action; unlike the imperfective, the focus is more on the progression across space or time than incompleteness<ref name="Young Morgan 1992 866">{{Harvnb|Young|Morgan|1992|p=866}}</ref>
+* Future – a prospective action, analogous to the [[future tense]]<ref name="Young Morgan 1992 866"/>
+* Optative – a potential or desired action, similar to the [[subjunctive mood]] of Indo-European languages<ref name="Young Morgan 1992 866"/>
+
+{{col-2}}
+'''Aspects:'''
+* Momentaneous – an action that takes place at a specific point in time<ref name="Young Morgan 1992 868"/>
+* Continuative – an action that covers an indefinite timeframe, without a specific beginning, goal, or even temporal direction<ref name="Young Morgan 1992 868"/>
+* Durative – similar to the continuative, but not covering locomotion verbs<ref name="Young Morgan 1992 868"/>
+* Conclusive – similar to the durative, but emphasizing the completed nature of the action when in the perfective mode<ref name="Young Morgan 1992 869">{{Harvnb|Young|Morgan|1992|p=869}}</ref>
+* Repetitive – an action that is repeated in some way, dependent on the sub-aspect and sub-sub-aspect type used<ref>{{Harvnb|Young|Morgan|1992|pp=869–870}}</ref>
+* Semelfactive – an action that is distinguished from a connected group or series of actions<ref>{{Harvnb|Young|Morgan|1992|p=870}}</ref>
+* Distributive – an action that occurs among a group of targets or locations<ref name="Young Morgan 1992 871">{{Harvnb|Young|Morgan|1992|p=871}}</ref>
+* Diversative – an action that occurs "here and there", among an unspecified group of targets or locations<ref name="Young Morgan 1992 871"/>
+* Reversative – an action involving change in physical or metaphorical direction<ref name="Young Morgan 1992 872">{{Harvnb|Young|Morgan|1992|p=872}}</ref>
+* Conative – an action the subject attempts to perform<ref name="Young Morgan 1992 873">{{Harvnb|Young|Morgan|1992|p=873}}</ref>
+* Transitional – an action involving transition from one status or form to another<ref name="Young Morgan 1992 873"/>
+* Cursive – an action of moving in a straight line in space or time<ref name="Young Morgan 1992 873"/>
+{{col-end}}
+
+For any verb, the usitative and repetitive modes share the same stem, as do the progressive and future modes; these modes are distinguished with prefixes. However, pairs of modes other than these may also share the same stem,<ref>{{Harvnb|Faltz|1998|p=18}}</ref> as illustrated in the following example, where the verb "to play" is conjugated into each of the five mode paradigms:
+* Imperfective: ''-né'' – is playing, was playing, will be playing
+* Perfective: ''-neʼ'' – played, had played, will have played
+* Progressive/future: ''-neeł'' – is playing along / will play, will be playing
+* Usitative/repetitive: ''-neeh'' – usually plays, frequently plays, repeatedly plays
+* Optative: ''-neʼ'' – would play, may play
+The basic set of subject prefixes for the imperfective mode, as well as the actual conjugation of the verb into these person and number categories, are as follows.<ref>{{Harvnb|Faltz|1998|pp=21–22}}</ref>
+{{col-begin}}
+{{col-2}}
+{| class="wikitable" style="text-align: center"
+|+ <!-- caption here -->
+!
+! scope="col" | Singular
+! scope="col" | Dual/plural
+|-
+! scope="row" | 1.
+| ''sh-''
+| ''iid-''
+|-
+! scope="row" | 2.
+| ''ni-''
+| ''oh-''
+|-
+! scope="row" | 3.
+| colspan="2" | –
+|-
+! scope="row" | 4.
+| colspan="2" | ''ji-''
+|}
+{{col-2}}
+{| class="wikitable" style="text-align: center"
+|+ <!-- caption -->
+!
+! scope="col" | Singular
+! scope="col" | Dual/plural
+|-
+! scope="row" | 1.
+| ''naa'''sh'''né'' – I am playing
+| ''ne'''iiʼ'''né'' – We are playing
+|-
+! scope="row" | 2.
+| ''na'''ni'''né'' – You (s.) are playing
+| ''na'''oh'''né'' – You (pl.) are playing
+|-
+! scope="row" | 3.
+| colspan="2" | ''[[wikt:naané|naané]]'' – He/she/it is playing, they are playing
+|-
+! scope="row" | 4.
+| colspan="2" | ''na'''ji'''né'' – He/she/it/one is playing, they/people are playing
+|}
+{{col-end}}
+The remaining piece of these conjugated verbs—the prefix ''na-''—is called an "outer" or "disjunct" prefix. It is the marker of the Continuative aspect (to play about).<ref>{{Harvnb|Faltz|1998|pp=12–13}}</ref>
+
+Navajo distinguishes between the first, second, third, and fourth persons in the singular, dual, and plural numbers.<ref>{{Harvnb|Faltz|1998|p=21}}</ref> The fourth person is similar to the third person, but is generally used for indefinite, theoretical actors rather than defined ones.<ref name="harder">{{cite journal|title=On the use of the fourth person in Navajo, or Navajo made harder|journal=International Journal of American Linguistics|last1=Akmajian|first1=Adrian|last2=Anderson|first2=Stephen|volume=36|number=1|date=January 1970|pages=1–8|doi=10.1086/465082|s2cid=143473426}}</ref> Despite the potential for extreme verb complexity, only the mode/aspect, subject, classifier, and stem are absolutely necessary.<ref name="McDonough 2003 21 22">{{Harvnb|McDonough|2003|pp=21–22}}</ref> Furthermore, Navajo negates clauses by surrounding the verb with the circum[[clitic]] ''doo= ... =da'' (e.g. ''mósí doo nitsaa da'' 'the cat is not big'). ''Dooda'', as a single word, corresponds to English ''no''.<ref name="Young Morgan 1992 882">{{Harvnb|Young|Morgan|1992|p=882}}</ref>
+
+[[Navajo grammar#Classificatory verbs|Classificatory verbs]] are a set of verbal roots distinguishing eleven shapes and three classes of motion for each shape.<ref name="Christiansen 2009 185 186">{{Harvnb|Christiansen|2009|pp=185–186}}</ref><ref name="Beck 2006 374 375">{{Harvnb|Beck|2006|pp=374–375}}</ref> The motion classes are:
+* handle: movement of an object by continuing physical contact throughout the movement (take, bring, carry, lower, attach,...)
+* propel: movement of an object by propulsion (throw, toss, drop,...)
+* free flight: movement of a subject of its own without causative agent (fly, fall,...)
+
+The shapes are listed here with their standard names and their corresponding ''handle'' root.<ref name="Christiansen 2009 185 186"/>
+{{col-begin}}
+{{col-3}}
+* Solid Roundish Objects (-ą́): apple, coin,...
+* Load, Pack, Burden (-yį́): furniture, large body of water...
+* Non-Compact Matter (-ł-jool): hay, wig,...
+* Slender Flexible Object (-lá): rope, belt, but also dual objects like gloves,..
+
+{{col-3}}
+* Slender Stiff Object (-tą́): stick, pen,...
+* Flat Flexible Object (-ł-tsooz): sheet, paper,...
+* Mushy Matter (-tłééʼ): butter, mud, frog,...
+* Plural Objects 1 (-nil): severality of objects
+{{col-3}}
+* Plural Objects 2 (-jaaʼ): profusion of small objects like seeds,...
+* Open Container (-ką́): water in a bottle, seeds in a box, snow in a truck,...
+* Animate Object (-ł-tį́): person, doll,...
+{{col-end}}
+For example, Navajo has no single verb that corresponds to the English 'give'. To say 'give me some hay', the Navajo verb ''níłjool'' (Non-Compact Matter) must be used, while for 'give me a cigarette' the verb ''nítįįh'' (Slender Stiff Object) must be used.
+Navajo also contains a separate system of [[Navajo grammar#Classifiers (transitivity prefixes)|classifiers]] that generally marks for [[Voice (grammar)|voice]]. There are four classifiers: ''Ø-'', ''[[wikt:ł-#Navajo|ł-]]'', ''[[wikt:d-#Navajo|d-]]'', and ''[[wikt:l-#Navajo|l-]]'', placed between the personal prefixes and the verbal stem. The ''ł-'' classifier indicates causation (transitivity increase), e.g. ''yibéézh'' (''yi-Ø-béézh'') 'it's boiling' vs. ''yiłbéézh'' (''yi-ł-béézh'') 'he's boiling it'. The ''d-'' and ''l-'' classifiers indicate passive voice (transitivity reduction), e.g. ''yizéés'' (''yi-Ø-zéés'') 'he's singing it' vs. ''yidéés'' (''yi-d-zéés'') 'it's being sung' . The ''d-'' classifier is used to detransitivize verbs with ''Ø-'', while ''l-'' is used for verbs with ''ł-''.<ref>{{Harvnb|Faltz|1998|pp=40–41}}</ref>
+
+===Nouns===
+Nouns are not required to form a complete Navajo sentence. Besides the extensive information that can be communicated with a verb, Navajo speakers may alternate between the third and fourth person to distinguish between two already specified actors, similarly to how speakers of languages with [[grammatical gender]] may repeatedly use pronouns.<ref name="Kozak 2013 161">{{Harvnb|Kozak|2013|p=161}}</ref>
+
+Most nouns are not inflected for number,<ref name="Young Morgan 1992 882"/> and plurality is usually encoded directly in the verb through the use of various prefixes or aspects, though this is by no means mandatory. In the following example, the verb on the right is used with the plural prefix ''da-'' and switches to the distributive aspect.
+
+<blockquote>
+{{col-begin}}
+{{col-2}}
+{{interlinear| lang = nv| glossing3=yes
+|Kin áshłééh.
+|kin á-{{gcl|Ø|empty morpheme}}-sh-łééh
+|house make-3.OBJ-1.SUBJ-make.MOM.{{gcl|IMPF|imperfective mode}}
+|'I build a house.'}}
+{{col-2}}
+{{interlinear| lang = nv| glossing3=yes
+|Kin ádaashleʼ.
+|kin á-da-{{gcl|Ø|empty morpheme}}-sh-łeʼ
+|house make-'''PL'''-3.OBJ-1.SUBJ-make.'''{{gcl|DIST|distributive aspect}}'''.{{gcl|IMPF|imperfective mode}}
+|'I build houses.'}}
+{{col-end}}
+</blockquote>
+
+Some verbal roots encode number in their lexical definition (see classificatory verbs above). When available, the use of the correct verbal root is mandatory:
+
+<blockquote>
+{{col-begin}}
+{{col-3}}
+{{interlinear| lang = nv
+|Béégashii sitį́.
+|cow 3.SUBJ-lie({{gcl|1|one subject}}).{{gcl|PERF|perfective mode}}
+|'The (one) cow lies.'}}
+{{col-3}}
+{{interlinear| lang = nv
+|Béégashii shitéézh.
+|cow 3.SUBJ-lie({{gcl|2|two subjects}}).{{gcl|PERF|perfective mode}}
+|'The (two) cows lie.'}}
+{{col-3}}
+{{interlinear| lang = nv
+|Béégashii shijééʼ.
+|cow 3.SUBJ-lie({{gcl|3+|three or more subjects}}).{{gcl|PERF|perfective mode}}
+|'The (three or more) cows lie.'}}
+{{col-end}}
+
+{{col-begin}}
+{{col-2}}
+{{interlinear| lang = nv| glossing3=yes
+|Bilasáana shaa niʼaah.
+|bilasáana sh-aa {{gcl|Ø|empty morpheme}}-ni-ʼaah
+|apple 1-to 3.OBJ-2.SUBJ-give({{gcl|SRO|Solid Roundish Object}}).MOM.{{gcl|PERF|perfective mode}}
+|'You give me an apple.'}}
+{{col-2}}
+{{interlinear| lang = nv| glossing3=yes
+|Bilasáana shaa ninííł.
+|bilasáana sh-aa {{gcl|Ø|empty morpheme}}-ni-nííł
+|apple 1-to 3.OBJ-2.SUBJ-give({{gcl|PlO1|Plural Object 1}}).MOM.{{gcl|PERF|perfective mode}}
+|'You give me apples.'}}
+{{col-end}}
+</blockquote>
+
+Number marking on nouns occurs only for terms of kinship and age-sex groupings. Other prefixes that can be added to nouns include possessive markers (e.g. ''chidí'' 'car' – ''shichidí'' 'my car') and a few adjectival enclitics. Generally, an upper limit for prefixes on a noun is about four or five.<ref name="Mueller 2008 12"/>
+
+Nouns are also not marked for [[grammatical case|case]], this traditionally being covered by word order.<ref>{{Harvnb|Speas|1990|p=203}}</ref>
+
+<blockquote>
+{{col-begin}}
+{{col-2}}
+{{interlinear| lang = nv
+|Atʼééd ashkii yiyiiłtsą́.
+|girl boy 3.OBJ-3.SUBJ-saw
+|'The girl saw the boy.'}}
+{{col-2}}
+{{interlinear| lang = nv
+|Ashkii atʼééd yiyiiłtsą́.
+|boy girl 3.OBJ-3.SUBJ-saw
+|'The boy saw the girl.'}}
+{{col-end}}
+</blockquote>
+
+===Other parts of speech===
+{{listen
+|pos=right
+|filename=Navajo numbers 1 to 10.mp3
+|title=Navajo numbers 1 to 10
+|format = [[MP3]]
+}}
+Other parts of speech in Navajo are also relatively immutable, and tend to be short. These parts of speech include question particles, demonstrative adjectives, [[relative pronoun]]s, [[interjection]]s, [[conjunction (grammar)|conjunctions]],<ref>{{Harvnb|Young|Morgan|1992|pp=934–943}}</ref> and [[adverb]]s (both unique ones and those based on verbs).<ref>{{Harvnb|Young|Morgan|1992|pp=944–945}}</ref> The Navajo numeral system is [[decimal]], and some example numbers follow.<ref>{{Harvnb|Young|Morgan|1992|pp=932–933}}</ref>
+{{col-begin}}
+{{col-4}}
+1 – ''tʼááłáʼí''<br />
+2 – ''naaki''<br />
+3 – ''tááʼ''<br />
+4 – ''dį́į́ʼ''<br />
+5 – ''ashdlaʼ''
+{{col-4}}
+6 – ''hastą́ą́''<br />
+7 – ''tsostsʼid''<br />
+8 – ''tseebíí''<br />
+9 – ''náhástʼéí''<br />
+10 – ''neeznáá''
+{{col-4}}
+11 – ''łaʼtsʼáadah''<br />
+12 – ''naakitsʼáadah''<br />
+13 – ''tááʼtsʼáadah''<br />
+14 – ''dį́į́ʼtsʼáadah''<br />
+15 – ''ashdlaʼáadah''
+{{col-4}}
+16 – ''hastą́ʼáadah''<br />
+17 – ''tsostsʼidtsáadah''<br />
+20 – ''naadiin''<br />
+300 – ''táadi neeznádiin''<br />
+4,567 – ''dį́į́di mííl dóó baʼaan ashdladi neeznádiin dóó baʼaan hastą́diin dóó baʼaan tsostsʼid''
+{{col-end}}
+
+Navajo does not contain a single part of speech analogous to [[adjective]]s; rather, some verbs describe static qualitative attributes (e.g. ''[[wikt:nitsaa|nitsaa]]'' 'he/she/it is large'), and demonstrative adjectives (e.g. ''[[wikt:díí|díí]]'' 'this/these') are their own part of speech. However, these verbs, known as "neuter verbs", are distinguished by only having the imperfective mode, as they describe continuous states of being.<ref>{{Harvnb|Young|Morgan|1992|p=934}}</ref>
+
+==Vocabulary==
+The vast majority of Navajo vocabulary is of Athabaskan origin.<ref name="Wurm 1996 1134"/> However, the vocabulary size is still fairly small; one estimate counted 6,245 noun bases and 9,000 verb bases, with most of these nouns being derived from verbs.<ref name="Mueller 2008 12">{{Harvnb|Mueller-Gathercole|2008|p=12}}</ref> Prior to the [[European colonization of the Americas]], Navajo did not borrow much from other languages, including from other Athabaskan and even [[Southern Athabaskan languages|Apachean]] languages. The Athabaskan family is fairly diverse in both [[phonology]] and [[morphology (linguistics)|morphology]] due to its languages' prolonged relative isolation.<ref name="Wurm 1996 1134">{{Harvnb|Wurm|Mühlhäusler|Tyron|1996|p=1134}}</ref> Even the [[Puebloan peoples|Pueblo peoples]], with whom the Navajo interacted with for centuries and borrowed cultural customs, have lent few words to the Navajo language. After Spain and Mexico took over Navajo lands, the language did not incorporate many [[Spanish language|Spanish]] words, either.<ref name="Kroskrity Field 2009 39">{{Harvnb|Kroskrity|Field|2009|p=39}}</ref>
+
+This resistance to word absorption extended to English, at least until the mid-twentieth century. Around this point, the Navajo language began importing some, though still not many, English words, mainly by young schoolchildren exposed to English.<ref name="Kroskrity Field 2009 38">{{Harvnb|Kroskrity|Field|2009|p=38}}</ref>
+
+Navajo has expanded its vocabulary to include Western technological and cultural terms through [[calque]]s and Navajo descriptive terms. For example, the phrase for English ''[[tank]]'' is ''[[wikt:chidí naaʼnaʼí beeʼeldǫǫhtsoh bikááʼ dah naaznilígíí|chidí naa'naʼí beeʼeldǫǫhtsoh bikááʼ dah naaznilígíí]]'' 'vehicle that crawls around, by means of which big explosions are made, and that one sits on at an elevation'. This [[language purism]] also extends to proper nouns, such as the names of U.S. states (e.g. ''Hoozdo'' 'Arizona' and ''Yootó'' 'New Mexico'; see also ''hahoodzo'' 'state') and languages (''naakaii'' 'Spanish').
+
+Only one Navajo word has been fully absorbed into the English language: ''[[hogan]]'' (from Navajo ''hooghan'') – a term referring to the traditional houses.<ref>{{cite dictionary|url=http://www.etymonline.com/index.php?term=hogan&allowed_in_frame=0|dictionary=Online Etymology Dictionary|access-date=August 6, 2014|last=Harper|first=Douglas|title=hogan|archive-url=https://web.archive.org/web/20140811164422/http://www.etymonline.com/index.php?term=hogan&allowed_in_frame=0|archive-date=August 11, 2014|url-status=live}}</ref> Another word with limited English recognition is ''[[chindi]]'' (an evil spirit of the deceased).<ref>{{Harvnb|Cutler|2000|p=165}}</ref> The [[taxonomy (biology)|taxonomic]] [[genus]] name ''[[Side-blotched lizard|Uta]]'' may be of Navajo origin.<ref>{{Harvnb|Cutler|2000|p=211}}</ref> It has been speculated that English-speaking settlers were reluctant to take on more Navajo loanwords compared to [[List of English words from indigenous languages of the Americas|many other Native American languages]], including the [[Hopi language]], because the Navajo were among the most violent resisters to colonialism.<ref>{{Harvnb|Cutler|2000|p=110}}</ref>
+
+==Orthography==
+Early attempts at a Navajo orthography were made in the late nineteenth and early twentieth centuries. One such attempt was based on the [[Latin alphabet]], particularly the [[English alphabet|English variety]], with some additional letters and diacritics. Anthropologists were frustrated by Navajo's having several sounds that are not found in English and lack of other sounds that are.<ref>{{Harvnb|Bahr|2004|pp=33–34}}</ref> Finally, the current Navajo orthography was developed between 1935 and 1940<ref name="Minahan 2013 262"/> by Young and Morgan.
+{{cleanup lang|date=September 2021}}
+
+{|border="0" cellpadding="5" cellspacing="0" class="Unicode" style="vertical-align:top; border-collapse:collapse; border:1px solid #808080; text-align:center; clear:both;"
+|-
+! colspan=16 style="background-color:#fff7e9; font-family:inherit; font-weight:normal;" | '''Navajo Orthography'''
+|-style="vertical-align:top; background:#ffffff; font-size:larger;"
+  | style="width:6.25%;" | <big>’</big><br /><small>ʔ</small>
+  | style="width:6.25%;" | <big>a</big><br /><small>ɑ</small>
+  | style="width:6.25%;" | <big>á</big><br /><small>ɑ́</small>
+  | style="width:6.25%;" | <big>ą</big><br /><small>ɑ̃</small>
+  | style="width:6.25%;" | <big>ą́</big><br /><small>ɑ̃́</small>
+  | style="width:6.25%;" | <big>aa</big><br /><small>ɑː</small>
+  | style="width:6.25%;" | <big>áá</big><br /><small>ɑ́ː</small>
+  | style="width:6.25%;" | <big>ąą</big><br /><small>ɑ̃ː</small>
+  | style="width:6.25%;" | <big>ą́ą́</big><br /><small>ɑ̃́ː</small>
+  | style="width:6.25%;" | <big>b</big><br /><small>p</small>
+  | style="width:6.25%;" | <big>ch</big><br /><small>tʃʰ</small>
+  | style="width:6.25%;" | <big>ch’</big><br /><small>tʃ’</small>
+  | style="width:6.25%;" | <big>d</big><br /><small>t</small>
+  | style="width:6.25%;" | <big>dl</big><br /><small>tˡ</small>
+  | style="width:6.25%;" | <big>dz</big><br /><small>ts</small>
+  | style="width:6.25%;" | <big>e</big><br /><small>e</small>
+|-style="vertical-align:top; background:#f0f0f0; font-size:larger;"
+  | style="width:6.25%;" | <big>é</big><br /><small>é</small>
+  | style="width:6.25%;" | <big>ę</big><br /><small>ẽ</small>
+  | style="width:6.25%;" | <big>ę́</big><br /><small>ẽ́</small>
+  | style="width:6.25%;" | <big>ee</big><br /><small>eː</small>
+  | style="width:6.25%;" | <big>éé</big><br /><small>éː</small>
+  | style="width:6.25%;" | <big>ęę</big><br /><small>ẽː</small>
+  | style="width:6.25%;" | <big>ę́ę́</big><br /><small>ẽ́ː</small>
+  | style="width:6.25%;" | <big>g</big><br /><small>k</small>
+  | style="width:6.25%;" | <big>gh</big><br /><small>ɣ</small>
+  | style="width:6.25%;" | <big>h</big><br /><small>h/x</small>
+  | style="width:6.25%;" | <big>hw</big><br /><small>xʷ</small>
+  | style="width:6.25%;" | <big>i</big><br /><small>ɪ</small>
+  | style="width:6.25%;" | <big>í</big><br /><small>ɪ́</small>
+  | style="width:6.25%;" | <big>į</big><br /><small>ɪ̃</small>
+  | style="width:6.25%;" | <big>į́</big><br /><small>ɪ̃́</small>
+  | style="width:6.25%;" | <big>ii</big><br /><small>ɪː</small>
+|-style="vertical-align:top; background:#ffffff; font-size:larger;"
+  | style="width:6.25%;" | <big>íí</big><br /><small>ɪ́ː</small>
+  | style="width:6.25%;" | <big>įį</big><br /><small>ɪ̃ː</small>
+  | style="width:6.25%;" | <big>į́į́</big><br /><small>ɪ̃́ː</small>
+  | style="width:6.25%;" | <big>j</big><br /><small>tʃ</small>
+  | style="width:6.25%;" | <big>k</big><br /><small>kʰ/kx</small>
+  | style="width:6.25%;" | <big>k’</big><br /><small>k’</small>
+  | style="width:6.25%;" | <big>kw</big><br /><small> kʰʷ/kxʷ</small>
+  | style="width:6.25%;" | <big>l</big><br /><small>l</small>
+  | style="width:6.25%;" | <big>ł</big><br /><small>ɬ</small>
+  | style="width:6.25%;" | <big>m</big><br /><small>m</small>
+  | style="width:6.25%;" | <big>n</big><br /><small>n</small>
+  | style="width:6.25%;" | <big>o</big><br /><small>o</small>
+  | style="width:6.25%;" | <big>ó</big><br /><small>ó</small>
+  | style="width:6.25%;" | <big>ǫ</big><br /><small>õ</small>
+  | style="width:6.25%;" | <big>ǫ́</big><br /><small>ṍ</small>
+  | style="width:6.25%;" | <big>oo</big><br /><small>oː</small>
+|-style="vertical-align:top; background:#f0f0f0; font-size:larger;"
+  | style="width:6.25%;" | <big>óó</big><br /><small>óː</small>
+  | style="width:6.25%;" | <big>ǫǫ</big><br /><small>õː</small>
+  | style="width:6.25%;" | <big>ǫ́ǫ́</big><br /><small>ṍː</small>
+  | style="width:6.25%;" | <big>s</big><br /><small>s</small>
+  | style="width:6.25%;" | <big>sh</big><br /><small>ʃ</small>
+  | style="width:6.25%;" | <big>t</big><br /><small> tʰ/tx</small>
+  | style="width:6.25%;" | <big>t’</big><br /><small>t’</small>
+  | style="width:6.25%;" | <big>tł</big><br /><small>tɬʰ</small>
+  | style="width:6.25%;" | <big>tł’</big><br /><small>tɬ’</small>
+  | style="width:6.25%;" | <big>ts</big><br /><small>tsʰ</small>
+  | style="width:6.25%;" | <big>ts’</big><br /><small>ts’</small>
+  | style="width:6.25%;" | <big>w</big><br /><small>w/ɣʷ</small>
+  | style="width:6.25%;" | <big>x</big><br /><small>h/x</small>
+  | style="width:6.25%;" | <big>y</big><br /><small>j/ʝ</small>
+  | style="width:6.25%;" | <big>z</big><br /><small>z</small>
+  | style="width:6.25%;" | <big>zh</big><br /><small>ʒ</small>
+|}
+
+An apostrophe (ʼ) is used to mark ejective consonants (e.g. ''chʼ'', ''tłʼ'')<ref name="Faltz 1998 5">{{Harvnb|Faltz|1998|p=5}}</ref> as well as mid-word or final glottal stops. However, initial glottal stops are usually not marked.<ref name="Faltz 1998 3"/> The [[voiceless glottal fricative]] ({{IPA|/h/}}) is normally written as ''h'', but appears as ''x'' after the consonants ''s'', ''z'', and digraphs ending in ''h'' to avoid phonological ambiguity.<ref name="Faltz 1998 5"/><ref>{{Harvnb|McDonough|2003|p=85}}</ref> The [[voiced velar fricative]] is written as ''y'' before ''i'' and ''e'' (where it is palatalized {{IPA|/ʝ/}}), as ''w'' before ''o'' (where it is labialized {{IPA|/ɣʷ/}}), and as ''gh'' before ''a''.<ref>{{Harvnb|McDonough|2003|p=160}}</ref>
+
+Navajo represents nasalized vowels with an [[ogonek]] ( ˛ ), sometimes described as a reverse [[cedilla]]; and represents the [[voiceless alveolar lateral fricative]] ({{IPA|/ɬ/}}) with a barred ''L'' (capital ''Ł'', lowercase ''ł'').<ref name="Spolsky 2009 86">{{Harvnb|Spolsky|2009|p=86}}</ref> The ogonek is placed centrally under a vowel, but it was imported from [[Polish orthography|Polish]] and [[Lithuanian language|Lithuanian]], which do not use it under certain vowels such as ''o'' or any vowels with accent marks. For example, in proper Navajo writing, the ogonek below lowercase ''a'' is written centered below the letter,{{citation needed|date=November 2020}} whereas fonts for ''a'' with ogonek intended for Polish and Lithuanian such as those used in common Web browsers render the ogonek connected to the bottom right of the letter. {{As of|2017|post=,}} no Unicode font has been developed to properly accommodate Navajo typography. Google is working to correct this oversight with [[Noto fonts]].
+
+[[File:KB USA-Navajo.svg|thumb|right|Standard [[ASCII]] (top) and [[Unicode]] (bottom) keyboards for Navajo]]
+The first Navajo-capable [[typewriter]] was developed in preparation for a Navajo newspaper and dictionary created in the 1940s. The advent of early computers in the 1960s necessitated special fonts to input Navajo text, and the first Navajo font was created in the 1970s.<ref name="Spolsky 2009 86"/> Navajo [[virtual keyboard]]s were made available for [[iOS]] devices in November 2012 and [[Android (operating system)|Android]] devices in August 2013.<ref>{{cite web|url=http://indiancountrytodaymedianetwork.com/2013/09/12/navajo-keyboard-available-android-devices-151252|publisher=Indian Country (Today Media Network)|date=September 12, 2013|title=Navajo Keyboard Now Available on Android Devices!|access-date=August 13, 2014|archive-url=https://web.archive.org/web/20140525195238/http://indiancountrytodaymedianetwork.com/2013/09/12/navajo-keyboard-available-android-devices-151252|archive-date=May 25, 2014|url-status=dead}}</ref>
+
+==Sample text==
+This is the first paragraph of a Navajo short story.<ref>{{Harvnb|Young|Morgan|1987|pp=205a–205b}}</ref>
+
+'''Navajo original:''' {{lang|nv|Ashiiké tʼóó diigis léiʼ tółikaní łaʼ ádiilnííł dóó nihaa nahidoonih níigo yee hodeezʼą́ jiní. Áko tʼáá ałʼąą chʼil naʼatłʼoʼii kʼiidiilá dóó hááhgóóshį́į́ yinaalnishgo tʼáá áłah chʼil naʼatłʼoʼii néineestʼą́ jiní. Áádóó tółikaní áyiilaago tʼáá bíhígíí tʼáá ałʼąą tłʼízíkágí yiiʼ haidééłbįįd jiní. "Háadida díí tółikaní yígíí doo łaʼ ahaʼdiidził da," níigo ahaʼdeetʼą́ jiníʼ. Áádóó baa nahidoonih biniiyé kintahgóó dah yidiiłjid jiníʼ&nbsp; (...)}}
+
+'''English translation:''' Some crazy boys decided to make some wine to sell, so they each planted grapevines and, working hard on them, they raised them to maturity. Then, having made wine, they each filled a goatskin with it. They agreed that at no time would they give each other a drink of it, and they then set out for town lugging the goatskins on their backs (...)
+
+==See also==
+{{Portal|Languages|United States}}
+* [[Indigenous languages of the Americas]]
+* [[Southern Athabaskan languages]]
+* [[Navajo code talkers]]
+{{Clear}}
+
+==Notes==
+{{reflist}}
+
+==References==
+{{Refbegin|30em}}
+* {{cite book|last=Bahr|first=Howard M.|title=The Navajo as Seen by the Franciscans, 1898–1921: A Sourcebook|publisher=Scarecrow Press|date=2004|isbn=978-0-8108-4962-4}}
+* {{cite book|last=Beck|first=David|title=Aspects of the Theory of Morphology|volume=10|publisher=Walter De Gruyter|date=2006}}
+* {{cite book|title=Language Acquisition and Conceptual Development|isbn=978-0-521-59659-6|date=2001|publisher=[[Cambridge University]] Press|last1=Bowerman|first1=Melissa|last2=Levinson|first2=Stephen}}
+* {{cite book|title=Language Universals|last=Christiansen|first=Morten H.|date=2009|publisher=Oxford University Press|isbn=978-0-195-30543-2}}
+* {{cite book|last=Cutler|first=Charles L.|title=O Brave New Words: Native American Loanwords in Current English|date=2000|publisher=[[University of Oklahoma]] Press|isbn=978-0-8061-3246-4|url=https://archive.org/details/obravenewwords00char}}
+* {{cite book|last=Faltz|first=Leonard M.|title=The Navajo Verb: A Grammar for Students and Scholars|date=1998|publisher=University of New Mexico Press|isbn=978-0-8263-1902-9}}
+* {{cite book|title=The Athabaskan Languages: Perspectives on a Native American Language Family|pages=[https://archive.org/details/athabaskanlangua0000unse/page/252 252–287]|last1=Fernald|first1=Theodore|last2=Platero|first2=Paul|publisher=[[Oxford University]] Press|date=2000|isbn=978-0195119473|url=https://archive.org/details/athabaskanlangua0000unse/page/252}}
+* {{cite book|last=Mueller-Gathercole|first=Virginia C.|date=2008|isbn=978-1-841-69716-1|publisher=Psychology Press|title=Routes to Language: Studies in Honor of Melissa Bowerman}}
+* {{cite book|last1=Hargus|first1=Sharon|last2=Rice|first2=Keren|title=Athabaskan Prosody|date=2005|publisher=John Benjamins Publishing Company|isbn=978-90-272-4783-4}}
+* {{cite book|last1=Johansen|first1=Bruce|last2=Ritzker|first2=Barry|title=Encyclopedia of American Indian History|isbn= 978-1-85109-817-0|publisher=ABC-CLIO|date=2007}}
+* {{cite book|last=Koenig|first=Harriet|title=Acculturation in the Navajo Eden: New Mexico, 1550–1750: Archaeology, Language, Religion of the Peoples of the Southwest|isbn=978-0-9764359-1-4|date=2005|publisher=YBK Publishers, Inc.}}
+* {{cite book|last1=Luraghi|first1=Silvia|last2=Parodi|first2=Claudia|date=2013|title=The Bloomsbury Companion to Syntax|publisher=Bloomsbury Academic|isbn=978-1-441-12460-9}}
+* {{cite book|title=Native American Language Ideologies: Beliefs, Practices, and Struggles in Indian Country|last1=Kroskrity|first1=Paul V.|last2=Field|first2=Margaret C.|publisher=[[University of Arizona]] Press|date=2009|isbn=978-0-8165-2916-2}}
+* {{cite book|title=In the Beginning: The Navajo Genesis|isbn=978-0-520-21277-0|last=Levy|first=Jerrold E.|date=1998|publisher=[[University of California]] Press}}
+* {{cite book|title=The Navajo Sound System|date=2003|last=McDonough|first=J.M.|publisher=[[Kluwer Academic Publishers]]|isbn=978-1-4020-1351-5}}
+* {{cite book|title=Inside Dazzling Mountains: Southwest Native Verbal Arts|last=Kozak|first=David L.|date=2013|isbn=978-0-8032-1575-7|publisher=[[University of Nebraska]] Press}}
+* {{cite book|title=Ethnic Groups of the Americas: An Encyclopedia|last=Minahan|first=James|date=2013|isbn=978-1-61069-163-5|publisher=ABC-CLIO}}
+* {{cite book|title=The Languages of Native North America|date=2001|last=Mithun|first=Marianne|publisher=[[Cambridge University]] Press|isbn=978-0-521-29875-9}}
+* {{cite book|last1=Platero|first1=Paul|last2=Hinton|first2=Leanne|date=2001|title=The Green Book of Language Revitalization in Practice|publisher=Academic Press|isbn=978-90-04-25449-7}}
+* {{cite book|last=Sloane|first=Thomas O.|title=Encyclopedia of Rhetoric|date=2001|isbn=978-0-19-512595-5|publisher=[[Oxford University]] Press}}
+* {{cite book|last=Speas|first=Margaret|title=Phrase Structure in Natural Language|date=1990|publisher=Springer|isbn=978-0-792-30755-6|url-access=registration|url=https://archive.org/details/phrasestructurei0000spea}}
+* {{cite book|last=Spolsky|first=Bernard|title=Language Management|isbn=978-0-521-73597-1|publisher=[[Cambridge University]] Press|date=2009}}
+* {{cite book|last1=Wurm|first1=Stephen A.|last2=Mühlhäusler|first2=Peter|last3=Tyron|first3=Darrell T.|date=1996|publisher=Walter de Gruyter|isbn=978-3-11-013417-9|title=Atlas of Languages of Intercultural Communication in the Pacific, Asia, and the Americas}}
+* {{cite book|title=Tone|last=Yip|first=Moira|publisher=Cambridge University Press|isbn=978-0-521-77445-1|date=2002}}
+* {{cite book|last1=Young|first1=Robert|last2=Morgan|first2=William, Sr.|date=1987|title=The Navajo Language: A Grammar and Colloquial Dictionary|publisher=University of New Mexico Press|isbn=978-0-8263-1014-9}}
+* {{cite book|last1=Young|first1=Robert|last2=Morgan|first2=William, Sr.|title=Analytical Lexicon of Navajo|isbn=978-0-8263-1356-0|date=1992|publisher=University of New Mexico Press}}
+* {{cite book|title=Athabaskan Language Studies|last1=Young|first1=Robert M.|last2=Elinek|first2=Eloise|date=1996|isbn=978-0-8263-1705-6|publisher=[[University of New Mexico]] Press|language=en, nv}}
+{{Refend}}
+
+==Further reading==
+
+===Educational===
+* Blair, Robert W.; Simmons, Leon; & Witherspoon, Gary. (1969). ''Navaho Basic Course''. [[Brigham Young University]] Printing Services.
+* {{Cite web| title = E-books for children with narration in Navajo| work = Unite for Literacy library| access-date = 2014-06-21| url = http://www.uniteforliteracy.com/}}
+* Goossen, Irvy W. (1967). ''Navajo made easier: A course in conversational Navajo''. Flagstaff, AZ: Northland Press.
+* Goossen, Irvy W. (1995). ''Diné bizaad: Speak, read, write Navajo''. Flagstaff, AZ: [[Salina Bookshelf]]. {{ISBN|0-9644189-1-6}}
+* Goossen, Irvy W. (1997). ''Diné bizaad: Sprechen, Lesen und Schreiben Sie Navajo''. Loder, P. B. (transl.). Flagstaff, AZ: Salina Bookshelf.
+* [[Berard Haile|Haile, Berard]]. (1941–1948). ''Learning Navaho'', (Vols. 1–4). St. Michaels, AZ: St. Michael's Mission.
+* Platero, Paul R. (1986). ''Diné bizaad bee naadzo: A conversational Navajo text for secondary schools, colleges and adults''. Farmington, NM: Navajo Preparatory School.
+* Platero, Paul R.; Legah, Lorene; & Platero, Linda S. (1985). ''Diné bizaad bee naʼadzo: A Navajo language literacy and grammar text''. Farmington, NM: Navajo Language Institute.
+* [[Luci Tapahonso|Tapahonso, Luci]], & Schick, Eleanor. (1995). ''Navajo ABC: A Diné alphabet book''. New York: Macmillan Books for Young Readers. {{ISBN|0-689-80316-8}}
+* [[Witherspoon, Gary]]. (1985). ''Diné Bizaad Bóhooʼaah for secondary schools, colleges, and adults''. Farmington, NM: Navajo Language Institute.
+* Witherspoon, Gary. (1986). ''Diné Bizaad Bóhooʼaah I: A conversational Navajo text for secondary schools, colleges and adults''. Farmington, NM: Navajo Language Institute.
+* Wilson, Alan. (1969). ''Breakthrough Navajo: An introductory course''. Gallup, NM: The [[University of New Mexico]], Gallup Branch.
+* Wilson, Alan. (1970). ''Laughter, the Navajo way''. Gallup, NM: The University of New Mexico at Gallup.
+* Wilson, Alan. (1978). ''Speak Navajo: An intermediate text in communication''. Gallup, NM: University of New Mexico, Gallup Branch.
+* Wilson, Garth A. (1995). ''Conversational Navajo workbook: An introductory course for non-native speakers.'' Blanding, UT: Conversational Navajo Publications. {{ISBN|0-938717-54-5}}.
+* Yazzie, Sheldon A. (2005). ''Navajo for Beginners and Elementary Students''. Chapel Hill: The University of North Carolina at Chapel Hill Press.
+* Yazzie, Evangeline Parsons, and Margaret Speas (2008). ''Diné Bizaad Bínáhoo'aah: Rediscovering the Navajo Language''. Flagstaff, AZ: Salina Bookshelf, Inc. {{ISBN|978-1-893354-73-9}}
+
+===Linguistics and other reference===
+* Frishberg, Nancy. (1972). Navajo object markers and the great chain of being. In J. Kimball (Ed.), ''Syntax and semantics'' (Vol. 1, p.&nbsp;259–266). New York: Seminar Press.
+* [[Kenneth L. Hale|Hale, Kenneth L]]. (1973). A note on subject–object inversion in Navajo. In B. B. Kachru, R. B. Lees, Y. Malkiel, A. Pietrangeli, & S. Saporta (Eds.), ''Issues in linguistics: Papers in honor of Henry and Renée Kahane'' (p.&nbsp;300–309). Urbana: University of Illinois Press.
+* Hardy, Frank. (1979). [http://www.uaf.edu/anla/item.xml?id=CA979H1979a ''Navajo Aspectual Verb Stem Variation'']. Albuquerque: University of New Mexico Press.
+* [[Harry Hoijer|Hoijer, Harry.]] (1945). ''Navaho phonology''. University of New Mexico publications in anthropology, (No. 1).
+* {{cite journal | last1 = Hoijer | first1 = Harry | year = 1945 | title = Classificatory verb stems in the Apachean languages | journal = International Journal of American Linguistics | volume = 11 | issue = 1| pages = 13–23 | doi=10.1086/463846| s2cid = 144468739 }}
+* {{cite journal | last1 = Hoijer | first1 = Harry | year = 1945 | title = The Apachean verb, part I: Verb structure and pronominal prefixes | journal = International Journal of American Linguistics | volume = 11 | issue = 4| pages = 193–203 | doi=10.1086/463871| s2cid = 143582901 }}
+* {{cite journal | last1 = Hoijer | first1 = Harry | year = 1946 | title = The Apachean verb, part II: The prefixes for mode and tense | journal = International Journal of American Linguistics | volume = 12 | issue = 1| pages = 1–13 | doi=10.1086/463881| s2cid = 143035135 }}
+* {{cite journal | last1 = Hoijer | first1 = Harry | year = 1946 | title = The Apachean verb, part III: The classifiers | journal = International Journal of American Linguistics | volume = 12 | issue = 2| pages = 51–59 | doi=10.1086/463889| s2cid = 144657113 }}
+* {{cite journal | last1 = Hoijer | first1 = Harry | year = 1948 | title = The Apachean verb, part IV: Major form classes | journal = International Journal of American Linguistics | volume = 14 | issue = 4| pages = 247–259 | doi=10.1086/464013| s2cid = 144801708 }}
+* {{cite journal | last1 = Hoijer | first1 = Harry | year = 1949 | title = The Apachean verb, part V: The theme and prefix complex | journal = International Journal of American Linguistics | volume = 15 | issue = 1| pages = 12–22 | doi=10.1086/464020| s2cid = 143799617 }}
+* Hoijer, Harry. (1970). ''A Navajo lexicon''. University of California Publications in Linguistics (No. 78). Berkeley: University of California Press.
+* {{cite journal | last1 = Kari | first1 = James | year = 1975 | title = The disjunct boundary in the Navajo and Tanaina verb prefix complexes | journal = International Journal of American Linguistics | volume = 41 | issue = 4| pages = 330–345 | doi=10.1086/465374| s2cid = 144924113 }}
+* Kari, James. (1976). Navajo verb prefix phonology. Garland Publishing Co.
+* [[Gladys Reichard|Reichard, Gladys A]]. (1951). ''Navaho grammar''. Publications of the American Ethnological Society (Vol. 21). New York: J. J. Augustin.
+* {{cite journal | last1 = Sapir | first1 = Edward | year = 1932 | title = Two Navaho puns | journal = Language | volume = 8 | issue = 3| pages = 217–220 | doi=10.2307/409655| jstor = 409655 }}
+* [[Edward Sapir|Sapir, Edward]], & [[Harry Hoijer|Hoijer, Harry]]. (1942). ''Navaho texts''. William Dwight Whitney series, Linguistic Society of America.
+* Sapir, Edward, & Hoijer, Harry. (1967). ''Phonology and morphology of the Navaho language''. Berkeley: [[University of California Press]].
+* Speas, Margaret. (1990). ''Phrase structure in natural language''. Kluwer Academic Publishers. {{ISBN|0-7923-0755-0}}
+* {{Cite book|author=The Franciscan Fathers|url=http://archive.org/details/ethologicnavaho00editrich|title=An ethnologic dictionary of the Navaho language|date=1910|location=Saint Michaels, Ariz.|publisher=Franciscan Fathers}}
+* Wall, C. Leon, & Morgan, William. (1994). ''Navajo-English dictionary''. New York: Hippocrene Books. {{ISBN|0-7818-0247-4}}. (Originally published [1958] by U.S. Dept. of the Interior, Branch of Education, Bureau of Indian Affairs).
+* {{cite journal | last1 = Webster | first1 = Anthony K | year = 2004 | title = Coyote Poems: Navajo Poetry, Intertextuality, and Language Choice | journal = American Indian Culture and Research Journal | volume = 28 | issue = 4| pages = 69–91 | doi=10.17953/aicr.28.4.72452hlp054w7033}}
+* {{cite journal | last1 = Webster | first1 = Anthony K | year = 2006 | title = ALk'idaa' Ma'ii Jooldlosh, Jini": Poetic Devices in Navajo Oral and Written Poetry | journal = Anthropological Linguistics | volume = 48 | issue = 3| pages = 233–265 }}
+* Webster, Anthony K. (2009). ''Explorations in Navajo Poetry and Poetics''. Albuquerque: University of New Mexico Press.
+* {{cite journal | last1 = Witherspoon | first1 = Gary | year = 1971 | title = Navajo Categories of Objects at Rest | journal = American Anthropologist | volume = 73 | pages = 110–127 | doi=10.1525/aa.1971.73.1.02a00090}}
+* Witherspoon, Gary. (1977). ''Language and Art in the Navajo Universe''. Ann Arbor: [[University of Michigan Press]]. {{ISBN|0-472-08966-8}}; {{ISBN|0-472-08965-X}}
+* Young, Robert W. (2000). ''The Navajo Verb System: An Overview''. Albuquerque: University of New Mexico Press. {{ISBN|0-8263-2172-0}} (hb); {{ISBN|0-8263-2176-3}} (pbk)
+
+==External links==
+{{interwiki|code=nv}}
+{{Commons category|Navajo language}}
+{{Wikivoyage|Navajo phrasebook}}
+* [[wikt:Appendix:Navajo alphabet|Wiktionary: Appendix: Navajo alphabet]]
+* [http://www.gomyson.com/ Hózhǫ́ Náhásdlį́į́ʼ – Language of the Holy People (Navajo web site with flash and audio, helps with learning Navajo)], gomyson.com
+* [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists_for_Den%C3%A9-Yeniseian_languages Navajo Swadesh vocabulary list of basic words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+* [http://phonetics.ucla.edu/course/chapter11/navajo/navajo.html Contrasts between Navajo consonants] (sound files from [[Peter Ladefoged]]). ucla.edu
+* [https://web.archive.org/web/20120314061507/http://www.sanjuan.k12.ut.us/linknavj.html Navajo Language & Bilingual Links] (from San Juan school district). sanjuan.k12.ut.us
+* [http://www.navajolanguageacademy.org Navajo Language Academy], navajolanguageacademy.org
+* [https://jan.ucc.nau.edu/~jar/TIL_17.html Tuning in to Navajo: The Role of Radio in Native Language Maintenance], jan.ucc.nau.edu
+* [https://jan.ucc.nau.edu/~jar/TIL_20.html An Initial Exploration of the Navajo Nation's Language and Culture Initiative], jan.ucc.nau.edu
+* [http://www.languagegeek.com/dene/dine/dine_bizaad.html Languagegeek Unicode fonts and Navajo keyboard layouts], languagegeek.com
+* [https://web.archive.org/web/20060520051410/http://www.dinecollege.edu/opr/VERDN___.TTF Navajo fonts], dinecollege.edu
+* [https://web.archive.org/web/20050321120631/http://library.thinkquest.org/J002073F/thinkquest/Language.htm The Navajo Language], library.thinkquest.org
+* [https://web.archive.org/web/20080709030512/http://www.ou.edu/worldlit/onlinemagazine/2007September/webster.htm Reflections on Navajo Poetry], ou.edu
+* [https://www.languagesandnumbers.com/how-to-count-in-navajo/en/nav/ How to count in Navajo], languagesandnumbers.com
+* [[Digital Public Library of America]]. [https://dp.la/search?language%5B%5D=Navajo&page_size=100&utf8=%E2%9C%93 Navajo-language items], various dates.
+* [https://apps.apple.com/us/app/navajo-keyboard/id577841547 iPad keyboard app]
+* [https://play.google.com/store/apps/details?id=com.nativeinnovation.navajokeyboard Android keyboard app]
+* [https://play.google.com/store/apps/details?id=com.navajoapp.speak&hl=en Android dictionary app]
+
+===Linguistics===
+* [https://web.archive.org/web/20120312065350/http://www.museunacional.ufrj.br/linguistica/congresso/1/txnavar.pdf Navajo reflections of a general theory of lexical argument structure] ([[Kenneth L. Hale|Ken Hale]] & [[Paul Platero]]), museunacional.ufrj.br
+* [https://web.archive.org/web/20150823194811/http://www.museunacional.ufrj.br/linguistica/congresso/1/txnavtsl.pdf Remarks on the syntax of the Navajo verb part I: Preliminary observations on the structure of the verb] (Ken Hale), museunacional.ufrj.br
+* [https://web.archive.org/web/20120703222655/http://uts.cc.utexas.edu/~carlota/papers/Nphon.pdf The Navajo Prolongative and Lexical Structure] (Carlota Smith), cc.utexas.edu
+* [https://web.archive.org/web/20110928005548/http://linguistics.byu.edu/faculty/eddingtond/navajo.pdf A Computational Analysis of Navajo Verb Stems] (David Eddington & Jordan Lachler), linguistics.byu.edu
+* [https://web.archive.org/web/20121212023309/http://www.linguistics.ucsb.edu/research/Chee%20et%20al_vol15.pdf Grammaticization of Tense in Navajo: The Evolution of ''nt'éé''] (Chee, Ashworth, Buescher & Kubacki), linguistics.ucsb.edu
+* [https://wayback.archive-it.org/all/20090306041231/https://urresearch.rochester.edu/retrieve/6548/BLS+McD&Suss.pdf A methodology for the investigation of speaker's knowledge of structure in Athabaskan] (Joyce McDonough & Rachel Sussman), urresearch.rochester.edu
+* [https://web.archive.org/web/20120307084257/http://www.bcs.rochester.edu/cls/f2000n2/mcdonough.pdf How to use Young and Morgan's ''The Navajo Language''] (Joyce McDonough), bcs.rochester.edu
+* [https://web.archive.org/web/20160304054057/http://uts.cc.utexas.edu/~carlota/papers/Time%20in%20Navajo.pdf Time in Navajo: Direct and Indirect Interpretation] (Carlota S. Smith, [[Ellavina Perkins|Ellavina T. Perkins]], [[Theodore B. Fernald]]), cc.utexas.edu
+* [http://www.language-archives.org/language/nav OLAC Resources in and about the Navajo language]
+
+{{Navajo Nation}}
+{{Athabaskan languages}}
+{{Languages of New Mexico}}
+{{Languages of Arizona}}
+{{Languages of the United States}}
+{{Authority control}}
+
+{{DEFAULTSORT:Navajo Language}}
+[[Category:Navajo language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Fusional languages]]
+[[Category:Polysynthetic languages]]
+[[Category:Native American language revitalization]]
+[[Category:Indigenous languages of Arizona]]
+[[Category:Indigenous languages of New Mexico]]
+[[Category:Indigenous languages of the Southwestern United States]]
+[[Category:Subject–object–verb languages]]
+[[Category:Tonal languages]]
+[[Category:Pueblo linguistic area]]

@@ -1,0 +1,438 @@
+{{short description|Austronesian language spoken in Sulawesi, Indonesia}}
+{{Multiple issues|{{citation style|date=May 2011}}
+{{technical|date=July 2021}}}}
+{{Infobox language
+|name        = Ledo Kaili
+|nativename     =
+|region      = [[Sulawesi]]
+|states      = [[Indonesia]]
+|speakers    = 350,000
+|date=2000 census
+|ref=e18
+|familycolor = Austronesian
+|fam2        = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3        = [[Celebic languages|Celebic]]
+|fam4        = [[Kaili–Pamona languages|Kaili–Pamona]]
+|fam5        = Northern
+|fam6        = [[Kaili languages|Kaili]]
+|iso3        = lew
+|glotto=ledo1238
+|glottorefname=Ledo Kaili
+|glottopedia=Kaili
+|notice=IPA
+}}
+
+'''Ledo Kaili''' is the largest member of the [[Kaili languages]], which are a [[dialect chain]] within the Kaili–Pamona language family. These languages are spoken in Central [[Sulawesi]] ([[Indonesia]]). Kaili with all of its dialects is one of the largest languages in Sulawesi. One third of the population of Sulawesi Tengah province were (1979) native speakers of a Kaili language. The object language of this article is the main dialect Ledo, which is spoken in the Donggala and Sigi districts ([[Kabupaten]]) in and around the provincial capital [[Palu]].
+
+==Classification==
+Ledo has [[Kaili–Pamona languages|Kaili–Pamona]] morphological and grammatical features, while its lexicon is mainly of [[Wotu–Wolio languages|Wotu–Wolio]] origin.<ref name="Zobel-2020">{{cite journal |last=Zobel |first=Erik |date=2020 |title=The Kaili–Wolio Branch of the Celebic Languages |url=https://muse.jhu.edu/article/782054 |journal=Oceanic Linguistics |volume=59 |issue=1/2 |pages=297–346 |doi=10.1353/ol.2020.0014 |publisher=University of Hawai'i Press|s2cid=235064564 }}</ref>
+
+==Phonology==
+
+===Consonants===
+{| class="wikitable" style="text-align:center;"
+|-
+| colspan="3" |
+! style="background-color:#FFDEAD;" | [[Labial consonant|labial]]
+! style="background-color:#FFDEAD;" | [[Alveolar consonant|alveolar]]
+! style="background-color:#FFDEAD;" | [[Palatal consonant|palatal]]
+! style="background-color:#FFDEAD;" | [[Velar consonant|velar]]
+! style="background-color:#FFDEAD;" | [[Glottal consonant|glottal]]
+|-
+! colspan="3" style="background-color:#FFDEAD;" | [[Nasal consonant|Nasals]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ɲ}}
+| {{IPA link|ŋ}}
+|
+|-
+! rowspan="4" style="background-color:#FFDEAD;" | [[Plosive]]s
+! rowspan="2" style="background-color:#FFDEAD;" | {{small|plain}}
+! style="background-color:#FFDEAD;" | {{small|voiceless}}
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|tʃ}}
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! style="background-color:#FFDEAD;" | {{small|voiced}}
+| {{IPA link|b}}
+| {{IPA link|d}}
+| {{IPA link|dʒ}}
+| {{IPA link|g}}
+|
+|-
+! rowspan="2" style="background-color:#FFDEAD;" | {{small|prenasal}}
+! style="background-color:#FFDEAD;" | {{small|voiceless}}
+| {{IPA link|ᵐp}}
+| {{IPA link|ⁿt}}
+|
+|
+|
+|-
+! style="background-color:#FFDEAD;" | {{small|voiced}}
+| {{IPA link|ᵐb}}
+| {{IPA link|ⁿd}}
+| {{IPA link|ⁿdʒ}}
+| {{IPA link|ᵑɡ}}
+|
+|-
+! colspan="3" style="background-color:#FFDEAD;" | [[Fricative]]s
+| {{IPA link|v}}
+| {{IPA link|s}}
+|
+|
+| {{IPA link|h}}
+|-
+! colspan="3" style="background-color:#FFDEAD;" | [[Vibrant consonant|Vibrants]]
+|
+| {{IPA link|r}}
+|
+|
+|
+|-
+! colspan="3" style="background-color:#FFDEAD;" | [[Lateral consonant|Laterals]]
+|
+| {{IPA link|l}}
+|
+|
+|
+|-
+! colspan="3" style="background-color:#FFDEAD;" | [[Semivowel]]s
+| {{IPA link|w}}
+|
+| {{IPA link|j}}
+|
+|
+|}
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center;"
+|-
+| rowspan="2" |
+! style="background-color:#FFDEAD;" | [[Front vowel|front]]
+! style="background-color:#FFDEAD;" | [[Central vowel|central]]
+! style="background-color:#FFDEAD;" | [[Back vowel|back]]
+|-
+! style="background-color:#FFDEAD;" | <small>unr.</small>
+! style="background-color:#FFDEAD;" | <small>unr.</small>
+! style="background-color:#FFDEAD;" | <small>r.</small>
+|-
+! style="background-color:#FFDEAD;" | [[Close vowel|closed]]
+| {{IPA link|i}}
+|
+| {{IPA link|u}}
+|-
+! style="background-color:#FFDEAD;" | [[Mid vowel|mid]]
+| {{IPA link|ɛ}} ~ {{IPA link|e}}
+|
+| {{IPA link|o}}
+|-
+! style="background-color:#FFDEAD;" | [[Open vowel|open]]
+|
+| {{IPA link|a}}
+|
+|}
+
+===Intonation===
+Kaili has word-level stress on the penultimate syllable, secondary stress alternates from there on.
+
+===Phonotactics===
+Unaffixed words have to four (in most cases two) syllables with CV structure
+
+ each C = simple C or Nasal + C 
+ each V = simple V from series 1 resp. 2 or V from 1a/b + V from 1.
+
+===Writing and orthography===
+Kaili has a Latin alphabet without {{angle bracket|f}}, {{angle bracket|q}} and {{angle bracket|x}} (which only occur in [[loan word]]s) and without [[diacritics]]. The orthography follows the reformed (1975) rules for [[Indonesian language|Indonesian]]: 
+ {{IPA|/tʃ/}} : {{angle bracket|c}}, {{IPA|/dʒ/}} : {{angle bracket|j}}, {{IPA|/ɲ/}} : {{angle bracket|ny}}, {{IPA|/ŋ/}} : {{angle bracket|ng}}, {{IPA|/j/}} : {{angle bracket|y}}
+ {{IPA|/ʔ/}} can be written {{angle bracket|’}} if necessary (e.g. between identical vowels)
+In some grammars and papers long vowels are represented by doubling them (e.g. {{IPA|/aː/}} : {{angle bracket|aa}}), this seems not to be a standard, however. Kaili did not have a writing system and a written tradition before the introduction of the Latin script.
+
+==Morphology==
+Kaili is a typical Malayo-Polynesian language with a morphology that has isolating as well as a few agglutinative features. There are many affixes for derivation and verbal inflection. Nouns and adjectives do not have any inflection. There is no overt marking (and no category) of gender, number, and case. (Natural) gender and number (plurality) can be expressed by lexical means if necessary, semanto-syntactic roles are indicated by syntax and verbal inflection, but not morphologically on nouns/NPs.
+
+Comparation and gradation of adjectives are partly morphologic, partly lexical. See section 4 for verbal morphology. Some vowels or nasals might undergo or set off (progressive and regressive) morphophonological processes (nasalization, labialization, and palatalization) at morpheme boundaries.
+
+Unaffixed words out of context tend to be neutral with respect to word class and grammatical categories.
+
+==Verbal categories==
+The inflection of Kaili verbs (some authors prefer: predicatives) is dominated by the two categories of mood and voice, which are conjoined by fused affixes. Apart from voice in the stricter sense there are many other valency-related functions, e.g. causative and factitive. Only direct objects and undergoers of passive sentences are marked by cliticized personal markers.
+
+===Mood===
+Esser (1934) described this category as two distinct tenses comparable to nonfuture/future, even though temporal relations are mostly expressed by lexical rather than morphological means. It should therefore rather be regarded as a distinction between realis for (factual) actions in the present or past from irrealis which is used for future actions/events on the one hand and putative, imaginary, fictional (Van Den Berg: “contrafactual”) actions on the other hand.
+
+The allomorphs ''{na-}~{ne-}~{no-}'' stand for realis, the allomorphs ''{ma-}~{me-}~{mo-}'' for irrealis; the form of the allomorphs is constituting a kind of inflectional classes and is (synchronically at least) not conditioned by phonology. There are few exceptions where a stem can take two or all three of the allomorphs, yielding verbs with different meanings:  e.g. ''kande'' ‘eat’
+: ''na-ngande / ma-ngande''	‘eat’ (transitive)
+: ''ne-kande / me-kande''	‘cut or bite into’ (intransitive)
+: ''no-kande-si / mo-kande-si''	‘eat up sth. from so.’
+
+===Diatheses===
+Kaili has two different verbal diatheses which can be described either as focus (agent focus vs. object focus) or voice (active vs. passive), the latter being more suitable if one follows Himmelmann’s (2002) definitions of focus and voice.
+; active realis
+{{interlinear|indent=3
+| Yaku na-ngande loka riavi.
+| 1SG REA-eat banana yesterday
+| ‘I ate [the] banana(s) yesterday.’}}
+
+; active irrealis
+{{interlinear|indent=3
+| Ia ma-ngande loka haitu.
+| 3SG IRR-eat banana DEM
+| ‘He will/would [probably] eat the banana(s).’}}
+
+; passive realis
+{{interlinear|indent=3
+| Ni-kande{{=}}ku loka riavi.|c1= (1d)
+| PASS.REA-eat{{=}}1SG banana yesterday
+| ‘[The] Banana(s) was/were eaten by me yesterday.’}}
+
+; passive irrealis
+{{interlinear|indent=3
+| Ra-kande{{=}}na loka haitu.
+| PASS.IRR-eat{{=}}3SG banana DEM
+| ‘[The] Banana[s] will be/may have been eaten by him.’}}
+
+===Other valency-related mechanisms===
+Valency can be increased or realigned/shifted by transitivizations, factitives or causatives. Here, let's demonstrate a few of these mechanisms which might be interesting from a typological perspective.
+
+====Transitivization====
+Intransitive verbs can be transitivized by {po-}, making the S of the intransitive verbs not the A but the O of the transitive verbs (hidden causative):
+
+{{interlinear|indent=3
+| Mano na-tuvu.
+| chicken REA-live
+| ‘[The] chicken live.’}}
+
+{{interlinear|indent=3
+| I Esa nom-pa-tuvu mano.
+| PM Esa REA-TR-live chicken
+| ‘Esa breeds chicken.’}}
+
+====Causative====
+If ''{po-}'' is added once more, the transitivized verb can be augmented by a causative. Historically, ''{popo-}'' is thus bimorphemic, there are, however, verbs that synchronically do not have a form with only one ''{po-}'' attached to them.
+
+{{interlinear|indent=3
+| No-berei-mo  i Dula.
+| REA-spouse-COMPL PM Dula
+| ‘Dula is already married’}}
+
+{{interlinear|indent=3
+| I Dula no-berei nte i Ani.
+| PN Dula REA-spouse with PM Ani
+| ‘Dula  married  {with] Ani.’}}
+
+{{interlinear|indent=3
+| Ia nom-po-berei i Ani.
+| 3SG REA-TR-spouse PM Ani
+| ‘He married Ani.’}}
+
+{{interlinear|indent=3
+| Totua-na ni-po-po-berei ia.
+| parent-3SG PASS.REA-CAUS-TR-spouse 3SG
+| ‘His parents married him off.’}}
+
+{{interlinear|indent=3
+| I Ni no-tulisi sura.
+| PN Ni REA-write letter
+| ‘Ni writes [a] letter[s].’}}
+
+{{interlinear|indent=3
+| Yaku nom-popo-tulisi i Ni sura.
+| 1SG REA-CAUS-write PN Ni letter
+| ‘I have Ni write [a] letter[s].’}}
+
+{{interlinear|indent=3
+| I Ni ni-popo-tulisi{{=}}ku sura.
+| PN Ni PASS.REA-CAUS-write{{=}}1SG letter
+| ‘Ni is being caused to write [a] letter[s] by me.’}}
+
+{{interlinear|indent=3
+| Sura ni-popo-tulisi{{=}}ku i Ni.
+| letter PASS.REA-write{{=}}1SG PN Ni
+| ‘This letter I had written by Ni.’}}
+
+There is another causative construction (EVANS: requestive) using ''{peki-}/{meki-}/{neki-}'', which adds a semantic role (causer), while syntactically reducing valency, since the causee can only be expressed in a PP (and is mostly omitted).
+
+{{interlinear|indent=3
+| I Tira no-dau baju.
+| PM Tira REA-sew dress
+| ‘Tira sews [a] dress[es].’}}
+
+{{interlinear|indent=3
+| Yaku meki-dau baju.
+| 1SG REQ.IRR-sew dress
+| ‘I want to have a dress sewn.’}}
+
+{{interlinear|indent=3
+| Yaku mom-peki-dau baju nte Tira.
+| 1SG IRR-REQ-sew dress with Tira
+| ‘I want to have a dress sewn by Tira.’}}
+
+{{interlinear|indent=3
+| Ia nom-paka-belo dua{{=}}ra
+| 3SG REA-CAUS-well sickness{{=}}3PL
+| ‘He cures their disease(s).’}}
+
+{{interlinear|indent=3
+| Ira nom-peki-paka-belo dua{{=}}ra
+| 3PL REA-REQ-CAUS-well sickness{{=}}3PL
+| ‘They asked him to cure their disease(s).’}}
+
+==Syntax==
+Kaili is a strict [[head-initial]] type language. Heads precede dependents in compounds, phrases, and sentences. Basic sentence order is SVO or VOS (that is: VO generally) with NGen, NAdj, NRel, PrepN, NegV, etc. There is no obligatory copula, the use of the facultative copula is marked for emphasis. In passives, the agent pronoun can be cliticized to the verb, the subject of the passive can stand on either side of the verb.
+
+{{interlinear|indent=3
+| sakaya mbaso
+| boat big
+| N Adj
+| ‘a/the big boat’, also: ‘the boat is big’}}
+
+{{interlinear|indent=3
+| banua geira
+| house 3PL
+| N Gen
+| ‘their house’}}
+
+{{interlinear|indent=3
+| Yaku noriapu uta.
+| 1SG REA:cook vegetables
+| S V O
+| ‘I’m cooking vegetables.’}}
+
+{{interlinear|indent=3
+| Kaluku hai nalanga
+| coconut_tree DEM REA:be_high
+| N Dem {}
+| ‘This coconut tree is tall.’}}
+
+{{interlinear|indent=3
+| Tuamaku hau ri talua.
+| father:1SG [REA]go in garden
+| S V Prep N
+| ‘My father goes into the garden.’}}
+
+{{interlinear|indent=3
+| Hau ri talua tuamaku
+| [REA]go in garden father:1SG
+| V Prep N S
+| ‘My father goes into the garden.’}}
+
+{{interlinear|indent=3
+| I mangge nangali bengga.
+| PM uncle buy buffalo
+| {} S V O
+| ‘(The) uncle buys (water) buffalo.’}}
+
+{{interlinear|indent=3
+| Ningali bengga.
+| PASS.REA:buy buffalo
+| V S
+| ‘Buffalo are sold / for sale.’}}
+
+{{interlinear|indent=3
+| Bengga ningali
+| buffalo PASS.REA:buy
+| S V
+| ‘Buffalo for sale / are sold.’}}
+
+{{interlinear|indent=3
+| Tona hai ledo nangande kandea.
+| human DEM NEG REA:eat rice
+| N Dem Neg V {}
+| ‘This person doesn’t eat rice.’}}
+
+{{interlinear|indent=3
+| Langgai haitu no-boba i Tira.
+| man DEM REA-beat PM Tira
+| N Dem {} {} {}
+| ‘That man beat[s] Tira.’}}
+
+{{interlinear|indent=3
+| Yaku nang-gita langgai no-boba i Tira.
+| 1SG REA-see man REA-beat PM Tira
+| {} {} N Rel {} {}
+| ‘I see the man who beat[s] Tira.’}}
+
+==Sample text==
+{{interlinear|indent=3
+|top= “Panguli nu tesa ntotua nggaulu, naria vei saito madika nipokonona mpu noasu. Ane madotamo rarana haumo ia noasu ante tadulakona.  Bara santipa sanggani, bara eo-eo. Ane nambela tonji belo norasi, ane nambela tonji daa vai, mau valeana ledo naria nikava.” (SARO, p.&nbsp;39)
+| Pa-nguli nu tesa n-totua nggaulu, na-ria vei saito madika ni-pokono{{=}}na mpu no-asu. Ane ma-dota-mo rara-na hau-mo ia no-asu ante tadulako{{=}}na. Bara sa-ntipa sa-nggani, bara eo~eo. Ane nambela tonji belo norasi, ane nambela tonji daa vai, mau valeana ledo naria ni-kava.
+| PASS;NMLZ-say SRC (hi)story SRC-parent former_times REA-be AFF one king PASS.REA-like{{=}}3SG very REA-hunt When IRR-will-COMPL heart-POSS.3SG go-COMPL 3SG REA-hunt with Leader{{=}}POSS;3SG sometimes one-week {once (one-time)} sometimes day~all When get bird good success/harvest/result when get bird bad again even track NEG be PASS.REA-find
+| “According to a story from my parents, there was once a king who really liked to go hunting. Whenever he wanted to [lit.: it was the will of his heart], he went hunting with his leaders – Sometimes once a week, sometimes every day. When he was lucky [lit good bird], he was successful; when he was unlucky [lit. bad bird], not a single  track was to be found.”}}
+
+==Sociolinguistics==
+
+===Dialects and numbers of speakers===
+There are 13 doculects in the Kaili languages' dialect continuum: Rao, Tajio (or Ajio), Kori, Doi, Unde (or Ndepu, Undepu), Ledo (or Palu), Da’a, Inde, Ija, Edo, Ado, Ava, Tara. Not all dialects are mutually intelligible. Generally they share between 60% and 90% of their vocabulary. (Other sources state 7 dialects which are then sharing 80-95%). Most dialect names simply are the negation words of the respective dialects (cf. ''ledo'' above).
+
+Ledo is the main variety, having the highest prestige. It is spoken in and around the provincial capital Palu; furthermore, Ledo serves as a lingua franca in broader parts of central Sulawesi and in few scattered places around Tomini Bay.
+
+Speakers (total): 334.000 (1978) / 290.000 (1983) / 228.500 (1996)
+
+===Media and culture===
+National newspapers and broadcasting stations almost exclusively use Indonesian, the national language. Some private local radio stations in Palu have a program in Ledo. Regional publishers incidentally have books in Kaili available, mostly folk tales and traditional style literature but no translations from other languages into Kaili. Local newspapers and non-oral literature are mostly in Ledo, the oral tradition is still strong and common to the generation older than 20. Some modern bands use Kaili for their lyrics. Bands participating in the annual Palu Rock festival are obliged to perform at least one song in Kaili.
+
+===Linguistic imbalance===
+
+====Cities vs. rural areas====
+In the larger cities, the transmigrasi-policy of Soeharto had its effects, and there are many native speakers of regional languages from outside Sulawesi that have been moved there during the 1960es, 70es, and 80es. Communication with their migrants is almost always in Indonesian. Thus, many bi- or trilingual families came into being since then. In these families, usually Indonesian is the main vehicle of communication. In the more remote parts of the region, Kaili is still the main or only language for the generations born before the 1930s.
+
+====Generation gap====
+Older people (childhood before 1940s) in most cases grew up monolingual in Kaili. Those born and raised after Indonesia gained independence (1945), generally grew up bilingual (Kaili and Indonesian), using Kaili at home and Indonesian at school/work. The youngest generations (language acquisition since the 1970s) mostly had Indonesian as their first language at home as well and learned Kaili – if at all – only sporadically and tend to be semi-speakers or to have only passive knowledge.
+
+====Domains====
+School, work life and contact with authorities requires the use of Indonesian. Pupils use Indonesian among each other's even if all of them know Kaili. In semi-formal and familiar contexts (e.g. grocery shopping, family visits) Kaili is used if all people present know the language.
+
+====Prestige====
+In highly formal traditional contexts, a fair command of Kaili (especially a “good Ledo”) is regarded important. Usually good knowledge of Indonesian is considered much more advantageous, since it is more relevant for school and career. Yet, Kaili is still an important cultural asset, but one that is worthless outside the region.
+
+===Endangerment===
+Having a six-figure number of speakers, Kaili does at first glance not appear to be heavily endangered. Yet, the trend of the last 60, especially the last 20 years shows that Kaili will not be able to withstand the pressure of Indonesian in the long run. Kaili itself, on the other hand, has been an important lingua franca in the area for centuries and thus exerted pressure on smaller local idioms itself. Its importance as lingua franca is diminishing; Indonesian takes over its place. I am not aware of recent publications about the situation of Kaili, but cf. Himmelmann (forthc.) for the adjacent Tolitoli–Tomini family.
+
+==Bibliography==
+* ALWI, HASAN et al. (eds.): Tata Bahasa Baku Bahasa Indonesia. (3rd ed.). Jakarta: Pusat Pembinaan dan Pengembangan Bahasa (Departemen Pendidikian dan Kebudayaan) / [[Balai Pustaka]]: 2000.
+* ESSER, S.J.: Handleiding voor de beoefening der Ledo-taal. Inleiding, Teksten met vertaling en aanteekeningen en woordenlĳst. Bandung: A.C. Nix, 1934. (= Verhandelingen van het Koninklĳk Bataviaasch Genootschap van Kunsten en Wetenschappen; Deel LXXII; eerste stuk).
+* EVANS, DONNA: Causation in Kaili. In: STEINHAUER (ed.), p.&nbsp;173-189.
+* FRIBERG, BARBARA (ed.): Sulawesi Language Texts. Dallas: Summer Institute of Linguistics, 1990. (= Language Data; Asia-Pacific Series; 15).
+* HIMMELMANN, NIKOLAUS P. (1996): Person marking and grammatical relations in Sulawesi. In: STEINHAUER (ed.), p.&nbsp;115-136.
+* HIMMELMANN, NIKOLAUS P. (2002): Voice in Western Austronesian: An Update. In: WOUK, FAY / ROSS, MALCOLM (eds.): The history and typology of western Austronesian voice systems. Canberra: Department of Linguistics, Research School of Pacific Studies, The Australian National University, 2002. (= Pacific Linguistics; 518). p.&nbsp;7-15.
+* HIMMELMANN, NIKOLAUS P. (forthc.): Language endangerment scenarios in northern Central Sulawesi. In: COLLINS, JAMES T. / STEINHAUER, HEIN (eds.): Endangered Languages and Literatures in South-East Asia. Leiden: KITLV Press. [Prereleased PDF: https://web.archive.org/web/20040730160714/http://www.linguistics.ruhr-uni-bochum.de/~himmelmann/LG_ENDANGERment_centralsulawesi.pdf ].
+* KASENG, SYAHRUDDIN et al.: Bahasa-Bahasa di Sulawesi Tenggah. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa / Departemen Pendidikian dan Kebudayaan, 1979. (= Pusat Pembinaan dan Pengembangan Bahasa; Seri Bb 13).
+* MCGLYNN, JOHN H. et al. (eds.): Indonesian Heritage: Language and Literature. Reprint. Singapore: Archipelago Press, 1999. (= Indonesian Heritage Series; 10).
+* RAHIM, ABDILLAH A. & BASRI, H. HASAN & EFENDY, ALI. 1998. Tata bahasa Kaili. Pusat Pembinaan dan Pengembangan Bahasa, Departemen Pendidikan dan Kebudayaan.
+* SARO, AHMAD et al.: Struktur Sastra Lisan Kaili. Jakarta: Departemen Pendidikian dan Kebudayaan, 1991.
+* SNEDDON, J[AMES] N[EIL]:  Northern Sulawesi. In: Wurm (ed.), Map 43.
+* SOFYAN, ANGHUONG ALIAS et al.: Morfologi dan Sintaksis Bahasa Kaili. Jakarta: Pusat Pembinaan dan Pengembangan Bahasa / Departemen Pendidikian dan Kebudayaan, 1979. (= Pusat Pembinaan dan Pengembangan Bahasa; Seri Bb 21).
+* STEINHAUER, HEIN (ed.): Papers in Austronesian Linguistics No. 3. Canberra: Department of Linguistics, Research School of Pacific and Asian Studies, The Australian National University, 1996. (= Pacific Linguistics; A; 84).
+* VAN DEN BERG, RENÉ: The demise of focus and the spread of conjugated verbs in Sulawesi. In: STEINHAUER (ed.), p.&nbsp;89-114.
+* WURM, STEPHEN A. (ed.): Language atlas of the Pacific area. Part 2. Japan area, Taiwan (Formosa), Philippines, Mainland and insular South-East Asia. Canberra: Australian Academy of the Humanities, 1983. Maps 25-47 (= Pacific linguistics; C; 67)
+
+; Internet:
+* http://www.bps.go.id/
+* [https://www.cia.gov/the-world-factbook/countries/indonesia/ The World Factbook]
+* https://web.archive.org/web/20070611164807/http://www.linguistics.ruhr-uni-bochum.de/~himmelmann/publications.html
+
+Additional source:	Interviews with three (bilingual) speakers of Ledo; in Jakarta (March/April 2001) and via icq chat (April through August 2001).
+
+==Notes==
+In general, the abbreviations and conventions suggested by the Leipzig Rules for Interlinear Morpheme-by-Morpheme Glosses were used.<ref>{{Cite web|date=2011-05-14|title=Dept. of Linguistics {{!}} Resources {{!}} Glossing Rules|url=http://www.eva.mpg.de/lingua/resources/glossing-rules.php|access-date=2021-07-06|archive-url=https://web.archive.org/web/20110514123843/http://www.eva.mpg.de/lingua/resources/glossing-rules.php|archive-date=2011-05-14}}</ref> In addition to that, the following abbreviations were used:
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+AFF: affirmative
+PM: person marker; special DEM before person names
+REA: realis
+REQ: requestive
+SRC: source
+VBLZR: verbalizer
+</div><section end="list-of-glossing-abbreviations"/>
+
+==References==
+{{Reflist}}
+
+{{Celebic languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Kaili–Pamona languages]]
+[[Category:Languages of Sulawesi]]

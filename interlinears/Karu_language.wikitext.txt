@@ -1,0 +1,852 @@
+{{Short description|Arawakan language spoken in South America}}
+{{distinguish|Baniwa of Guainia}}
+{{Expand Portuguese|Língua baníua|date=October 2020}}
+{{cleanup lang|date=March 2021}}
+{{Infobox language
+| name = Karu
+| altname = Baniwa of Içana
+| nativename = ''Tapuya''
+| states = [[Colombia]], [[Venezuela]], [[Brazil]]
+| ethnicity = [[Baniwa people]]
+| speakers = {{sigfig|12490|2}}
+| date = 2001–2007
+| ref = e18
+| familycolor = American
+| fam1 = [[Maipurean languages|Arawakan]]
+| fam2 = Northern
+| fam3 = [[Upper Amazon Arawakan|Upper Amazon]]
+| fam4 = Eastern Nawiki
+| nation = {{flag|Brazil}} ([[São Gabriel da Cachoeira]])
+| lc1 = bwi
+| ld1 = Baniwa
+| lc2 = kpc
+| ld2 = Curripako
+| dia1 = Carútana-Baniwa
+| dia2 = Hohôdene (Katapolitana)
+| dia3 = Siusy-Tapuya (Seuci)
+| dia4 = Ipeka-Tapuia
+| dia5 = Curripaco (''Wakuénai'')
+| dia6 = Unhun (Katapolitana, Enhen)
+| dia7 = Waliperi
+| dia8 = Mapanai
+| dia9 = Moriwene
+| glotto = bani1259
+| glottoname = Baniwa-Curripaco
+}}
+
+'''Karu''', one of several languages called '''Baniwa''' (Baniva), or in older sources ''Itayaine (Iyaine)'', is an [[Arawakan languages|Arawakan]] language spoken in [[Guainía Department |Guainía]], [[Colombia]], [[Venezuela]], and [[Amazonas State, Brazil|Amazonas]], [[Brazil]]. It forms a subgroup with the [[Tariana language|Tariana]], [[Piapoco language|Piapoco]], [[Resígaro language|Resígaro]] and [[Guarequena language|Guarequena]] languages.<ref name=":0">{{Cite book|title = Negation in Tariana: A North Arawak Perspective in the Light of Areal Diffusion|url = http://booksandjournals.brillonline.com/content/books/b9789004257023_006|date = 2014-01-01|doi = 10.1163/9789004257023_006|first = Alexandra Y.|last = Aikhenvald}}</ref> There are 10,000 speakers.<ref name=":2">{{Cite book|title = On Negation in Kurripako Ehe-Khenim|url = http://booksandjournals.brillonline.com/content/books/b9789004257023_005|date = 2014-01-01|doi = 10.1163/9789004257023_005|first = Tania|last = Granadillo}}</ref>
+
+==Varieties==
+Aikhenvald (1999) considers the three main varieties to be dialects; Kaufman (1994) considers them to be distinct languages, in a group he calls "Karu". They are:
+*Baniwa of Içana (''Baniua do Içana'')
+*Curripaco (Kurripako, Ipeka-Tapuia-Curripako)
+*Katapolítani-Moriwene-Mapanai (Catapolitani, Kadaupuritana)
+
+Various {{not a typo|(sub)dialects}} of all three are called ''tapuya'', a [[Brazilian Portuguese|Brazilian]] [[Portuguese language|Portuguese]] and [[Nheengatu language|Nheengatu]] word for non-Tupi/non-Guarani Indigenous peoples of Brazil (from a [[Old Tupi|Tupi]] word meaning "enemy, barbarian"). All are spoken by the [[Baniwa people]].  Ruhlen lists all as "Izaneni"; Greenberg's ''Adzánani'' (= Izaneni) presumably belongs here.
+
+Ramirez (2020) gives the following classification for three separate dialect chains:<ref name="Ramirez-2020-1">{{cite book |last=Ramirez |first=Henri |author-link=Henri Ramirez |date=2020 |title=Enciclopédia das línguas Arawak: acrescida de seis novas línguas e dois bancos de dados |volume=1 |edition=1 |url=https://editoracrv.com.br/produtos/detalhes/35552-enciclopedia-das-linguas-arawakbr-acrescida-de-seis-novas-linguas-e-dois-bancos-de-dados-br-volume-i |location=Curitiba |publisher=Editora CRV |isbn=978-65-5578-895-2 |doi=10.24824/978655578895.2}}</ref>{{rp|44}}
+
+*'''Southern''' ('''Karotana'''): lower [[Içana River]], also a group living in [[Victorino]] on the [[Guainia River]] (Colombia-Venezuela border)
+**Mapatsi-Dákeenai (Yurupari-Tapuya)
+**Wadzoli-Dákeenai (Urubu-Tapuya)
+**Dzawi-Mínanai (Yauareté-Tapuya)
+**Adaro-Mínanai (Arara-Tapuya)
+*'''Central''' ('''Baniwa'''): middle [[Içana River]] (from Assunção Mission to [[Siuci-Cachoeira]]) and its tributaries ([[Aiari River]] and lower [[Cuiari River]]); also around Tunuí
+**Hohódeeni
+**Walipere-Dákeenai (Siucí-Tapuya)
+
+== Máolieni (Cáuatapuya) ==
+**Mápanai (Ira-Tapuya)
+**Awádzoronai
+**Molíweni (Sucuriyú-Tapuya)
+**Kadáopoliri
+**etc.
+*'''Northern''' (called "'''Koripako'''" in Brazil): upper [[Içana River]] (from [[Matapi]] upwards), [[Guainia River]], headwaters of the [[Cuiari River]]
+**Ayáneeni (Tatú-Tapuya)
+**Payoálieni (Pacútapuya)
+**Komada-Mínanai (Ipéca-Tapuya)
+**Kapitti-Mínanai (Coatí-Tapuya)
+**etc.
+
+== Phonology & Grammar ==
+=== Sounds ===
+{| class="wikitable"
+|+Consonants
+! colspan="2" |
+![[Bilabial consonant|Bilabial]]
+![[Dental consonant|Dental]]
+![[Alveolar consonant|Alveolar]]
+![[Retroflex consonant|Retroflex]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|- align="center"
+! rowspan="3" |[[Stop consonant|Stop]]
+!<small>plain</small>
+|p       
+|t̪
+|t
+|
+|
+|k   
+|
+|- align="center"
+!<small>aspirated</small>
+|pʰ
+|t̪ʰ
+|tʰ
+|
+|
+|kʰ
+|
+|- align="center"
+!<small>voiced</small>
+|b
+|
+|d
+|
+|
+|
+|
+|- align="center"
+! rowspan="3" |[[Affricate consonant|Affricate]]
+!<small>plain</small>
+|
+|
+|ts
+|
+|tʃ
+|
+|
+|- align="center"
+!<small>aspirated</small>
+|
+|
+|tsʰ
+|
+|tʃʰ
+|
+|
+|- align="center"
+!<small>voiced</small>
+|
+|
+|dz
+|
+|dʒ
+|
+|
+|- align="center"
+! rowspan="2" |[[Fricative consonant|Fricative]]
+!<small>plain</small>
+|ɸ
+|
+|ʃ
+|ʂ
+|ç
+|
+|h
+|- align="center"
+!<small>voiced</small>
+|β
+|
+|
+|ʐ
+|
+|
+|
+|- align="center"
+! rowspan="2" |[[Flap consonant|Flap]]
+!<small>voiced</small>
+|
+|
+|ɺ
+|
+|
+|
+|
+|- align="center"
+!<small>voiceless</small>
+|
+|
+|ɺ̥
+|
+|
+|
+|
+|- align="center"
+! rowspan="2" |[[Nasal consonant|Nasal]]
+!<small>voiced</small>
+|m
+|
+|n
+|
+|ɲ
+|(ŋ)
+|
+|- align="center"
+!<small>voiceless</small>
+|m̥ 
+|
+|n̥
+|
+|ɲ̊
+|
+|
+|- align="center"
+! colspan="2" |[[Approximant consonant|Approximant]]
+|w ~ ʍ
+|
+|
+|
+|j ~ j̊
+|
+|
+|}
+
+* Voiced approximant sounds can fluctuate to voiceless sounds among dialects.
+* /ŋ/ only occurs when preceding a velar consonant.
+
+{| class="wikitable"
+|+Vowels
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|- align="center"
+![[Close vowel|High]]
+|i iː
+|
+|
+|- align="center"
+![[Mid vowel|Mid]]
+|e eː
+|
+|o oː
+|- align="center"
+![[Open vowel|Low]]
+|
+|a aː
+|
+|}
+
+* When occurring as short, the vowels /i e a o/ are realized as [ɪ ɛ ə ʊ]. They are also realized as both short and long nasals /ĩ ẽ ɐ̃ õ/, [ɪ̃ ɛ̃ ə̃ ʊ̃].<ref>{{Cite thesis |last=de Souza |first=Erick Marcelo Lima |title=Estudo Fonológico da Língua Baniwa-Kuripako |date=2012 |degree=Master's |publisher=University of Campinas |url=http://etnolinguistica.wdfiles.com/local--files/tese%3Asouza-2012-baniwa/souza_2012_baniwa.pdf |language=Portuguese |trans-title=Phonological Analysis of the Baniwa-Kuripako language}}</ref>
+
+=== Alignment System ===
+Baniwa has [[active–stative]] alignment.<ref>Aikhenvald, "Arawak", in Dixon & Aikhenvald, eds., ''The Amazonian Languages'', 1999.</ref> This means that the subject of an [[Intransitive verb|intransitive]] clause is sometimes marked in the same way as the agent of a [[Transitive verb|transitive]] clause, and sometimes marked in the same way as the patient of a transitive clause. In Baniwa alignment is realized through verbal agreement, namely [[prefixes]] and [[Clitic|enclitics]].
+
+Prefixes are used to mark:
+* Active intransitive subjects (S<sub>a</sub>)
+* Agents of transitive clauses (A)
+* Possessors
+* Arguments of [[Preposition and postposition|adpositions]]
+Enclitics are used to mark:
+* Stative intransitive subjects (S<sub>o</sub>)
+* Patients of transitive clauses (O)
+{| class="wikitable" 
+|-
+! rowspan="2" colspan="2" | 
+! colspan="2" | Prefixes
+! colspan="2" | Enclitics
+|-
+! singular || plural
+! singular || plural
+|-
+! colspan="2" | 1st person
+|''nu-''
+|''wa-''
+|''-hnua''
+|''-hwa''
+|-
+! colspan="2" | 2nd person
+|''pi-''
+|''i-''
+|''-phia''
+|''-ihia''
+|-
+! rowspan="2" | 3rd<br>person
+! Nonfeminine
+|''ri-''
+| rowspan="2" |''na-''
+| rowspan="2" |''-ni/ -hria''
+| rowspan="2" |''-hna''
+|-
+! Feminine
+|''ʒu-''
+|-
+! colspan="2" | Impersonal
+| colspan="2" |''pa-''
+| colspan="2" |''-pha''
+|}
+
+The differences between active and stative intransitive clauses can be illustrated below:
+* Transitive: '''''ri-'''kapa'''-ni''''' 'He sees him/it'
+* Active Intransitive: '''''ri-'''emhani'' 'He walks'
+* Stative Intransitive: ''hape-ka-'''ni''''' 'He is cold'
+
+=== Noun Classification System ===
+Baniwa has an interesting system of noun classification that combines a [[grammatical gender|gender]] system with a [[Classifier (linguistics)|noun classifier]] system.<ref name=":1">{{Cite journal|title = Classifiers in Multiple Environments: Baniwa of Içana/Kurripako—A North Arawak Perspective on JSTOR |journal = International Journal of American Linguistics |volume=73 |issue=4 |page=475 |last = Aikhenvald|first = Alexandra|year = 2007 |doi=10.1086/523774 }}</ref> Baniwa has two genders: feminine and nonfeminine. Feminine gender agreement is used to refer to female referents, whilst nonfeminine gender agreement is used for all other referents. The two genders are only distinguished in third person singular. Aihkenvald (2007) considers the bipartite gender system to be inherited from Proto-Arawak.<ref name=":1" />
+
+In addition to gender, Baniwa also has 46 classifiers. Classifiers are used in three main contexts:<ref name=":1" />
+* As a derivational suffix on nouns, e.g.
+{{interlinear|indent=3|tʃipaɾa'''-api'''|metal.object-CL.hollow|'pan'}}
+* With numerals, e.g.
+{{interlinear|indent=3|apa-'''api''' mawapi|one-CL.hollow blowgun+CL.long.thin|'one blow gun'}}
+* With adjectives, e.g.
+{{interlinear|indent=3|tʃipaɾa'''-api''' maka-'''api'''|metal.object-CL.hollow big-CL.hollow|'big pan'}}
+
+Aihkenvald (2007) divides Baniwa classifiers into four different classes. One set of classifiers is used for humans, animate beings and body parts. Another set of classifiers specify the shape, consistency, quantification or specificity of the noun. Two more classes can be distinguished. One is only used with numerals and the other is only used with adjectives.<ref name=":1" />
+
+Classifiers for Humans and animate beings:<ref name=":1" />
+{| class="wikitable"
+!Classifier
+!Usage
+!Example
+|-
+|''-ita''
+|for animate males and body parts
+|''apa'''-ita''' pedaɾia'' 'one old man' 
+|-
+|''-hipa''
+|for human males only
+|''ap'''hepa''' nawiki'' 'one man'
+|-
+|''-ma''
+|for female referents
+|''apa'''-ma''' inaʒu'' 'one woman'
+|}
+Classifiers according to shape, consistency, quantification and specificity:<ref name=":1" />
+{| class="wikitable"
+!Classifier
+!Usage
+!Example
+|-
+|''-da''
+|round objects, natural phenomena and generic classifier
+|''hipada'' 'stone'
+|-
+|''-apa''
+|flying animate, semioval objects
+|''kepiʒeni'' 'bird'
+|-
+|''-kwa''
+|flat, round, extended objects
+|''kaida'' 'beach'
+|-
+|''-kha''
+|curvilinear objects
+|''a:pi'' 'snake'
+|-
+|''-na''
+|vertical, standing objects
+|''haiku'' 'tree'
+|-
+|''-Ø''
+|hollow, small objects
+|''a:ta'' 'cup'
+|-
+|''-maka''
+|stretchable, extended objects
+|''tsaia'' 'skirt'
+|-
+|''-ahna''
+|liquids
+|''u:ni'' 'water'
+|-
+|''-ima''
+|sides
+|''ap'''ema''' nu-kapi makemaɾi'' 'one big side of my hand'
+|-
+|''-pa''
+|boxes, parcels
+|''apa-'''pa''' itsa maka-paɾi '''one big box of fishing hooks'
+|-
+|''-wana''
+|thin slice
+|''apa-'''wana''' kuphe maka-wane'' 'a big thin slice of fish'
+|-
+|''-wata''
+|bundle for carrying
+|''apa-'''wata''' paɾana maka-wate'' 'a big bundle of bananas'
+|-
+|''-Ø''
+|canoes
+|''i:ta'' 'canoe'
+|-
+|''-pawa''
+|rivers
+|''u:ni'' 'river'
+|-
+|''-ʃa''
+|excrement
+|''iʃa'' 'excrement'
+|-
+|''-ya''
+|skins
+|''dzawiya'' 'jaguar skin'
+|}
+
+=== Negation ===
+There are two main strategies for [[Negation (linguistics)|negation]] in the Kurripako-Baniwa varieties:<ref name=":2" />
+* Independent negative markers
+* The [[privative]] derivational prefix ''ma-''
+Different varieties have different negative markers. This is so prominent that speakers identify Kurripako dialects according to the words for 'yes' and 'no'.<ref name=":2" /> 
+{| class="wikitable"
+!Dialect
+!Spoken in
+!Yes
+!No
+|-
+|Aha-Khuri
+|Colombia, Venezuela & Brazil
+|''Aha''
+|''Khuri''
+|-
+|Ehe-Khenim
+|Venezuela
+|''Ehe''
+|''Khenim''
+|-
+|Oho-Karo
+|Colombia & Brazil
+|''Oho''
+|''Karo''
+|-
+|Oho-Ñame
+|Colombia & Brazil
+|''Oho''
+|''Ñame''
+|}
+The independent negative markers come before the verb. They are used as clausal negators in declarative and interrogative sentences. They are also used to link clauses.<ref name=":2" />
+
+The privative suffix is attached to nouns to derive a verb which means 'lacking' the noun from which it was derived. The opposite of the privative prefix is the attributive prefix ''ka-''. This derives a verb which means 'having' the noun from which it was derived.<ref name=":2" /> The difference can be illustrated below:
+* Noun: ''iipe'' 'meat'
+* Privative: '''''ma-'''iipe > meepe'' 'be thin' (lit. lack meat)
+* Attributive: '''''ka-'''iipe > keepe'' 'be fat' (lit. have meat)
+The prefix is used in combination with the restrictive suffix ''-tsa'' to form negative imperatives, e.g. '''''ma-'''ihnia'''-tsa''''' 'don't eat!'. A privative prefix is also reconstructed in Proto-Arawak privative as ''*ma-.''<ref>{{Cite book|title = Negation in Arawak Languages  »  Brill Online|url = http://booksandjournals.brillonline.com/content/books/9789004257023|date = 2014-01-01|doi = 10.1163/9789004257023|first = Lev|last = Michael|first2 = Tania|last2 = Granadillo|first3 = Lev Michael{{!}}Tania|last3 = Granadillo}}</ref>
+
+=== Word Order ===
+Granadillo (2014) considers Kurripako a [[Verb–object–subject|VOS]] language.<ref name=":2" />
+
+=== Vocabulary ===
+{| class="wikitable"
+|+Verbs<ref>{{Cite web|url=https://asjp.clld.org/languages/BANIVA|title=The ASJP Database - Wordlist Baniva|website=asjp.clld.org|access-date=2019-06-02}}</ref>
+!Baniwa
+!English
+|-
+|Kapa
+|To See
+|-
+|Za
+|To Drink
+|-
+|Hima
+|To Hear
+|-
+|Cami
+|To Die
+|-
+|Nu
+|To Come
+|}
+{| class="wikitable"
+|+
+!Baniwa
+!English
+|-
+|atxinari
+|man
+|-
+|inarru
+|woman
+|-
+|yene-pati
+|boy
+|-
+|inarru
+|girl
+|-
+|yém-beti
+|child
+|-
+|pa-dzo
+|father
+|-
+|noo-dua
+|mother
+|-
+|noenipe
+|son
+|-
+|noo-ido
+|daughter
+|-
+|nuda-querri
+|grandchild
+|-
+|nuda-queda
+|grand-daughter
+|-
+|nutxi-marré
+|genre
+|-
+|noo-ito
+|daughter-in-law
+|-
+|noo-querri
+|uncle
+|-
+|nocuiro
+|aunt
+|-
+|ni-ri
+|nephew
+|-
+|nôpérrirri
+|niece
+|-
+|no-ri
+|brother-in-law
+|-
+|no-i-dua
+|sister-in-law
+|-
+|noo-perri
+|grandfather
+|-
+|indaque-dua
+|grandmother
+|-
+|ne-wi-da
+|head
+|-
+|no-txi
+|eyes
+|-
+|notxi-macaia
+|right eye
+|-
+|noca-cuda
+|left eye
+|-
+|notxi-coré
+|hair
+|-
+|noécoá
+|forehead
+|-
+|noéni
+|ears
+|-
+|itaco
+|nose
+|-
+|nunuma
+|mouth
+|-
+|noénéne
+|tongue
+|-
+|noé-txa
+|teeth
+|-
+|nunumaia
+|lips
+|-
+|nuca-cuià
+|face
+|-
+|nué-râ
+|chin
+|-
+|nué-galico
+|neck
+|-
+|nuqui-apà
+|shoulders
+|-
+|no-cudà
+|chest
+|-
+|numiruapi
+|ribs
+|-
+|nucaré
+|heart
+|-
+|no-eni
+|lung
+|-
+|no-au-à
+|stomach
+|-
+|nona-pa
+|right or left arm
+|-
+|no-capi
+|right or left hand
+|-
+|no-motxi
+|navel
+|-
+|no-capuira
+|fingers
+|-
+|no-cotxi
+|leg
+|-
+|no-ipà
+|foot
+|-
+|no-ipé-uidà
+|toes
+|-
+|no-coro-da
+|to heel
+|-
+|nosso-tà
+|nail
+|-
+|e-eno
+|sky
+|-
+|e-uitxi
+|stars
+|-
+|amôri
+|sun
+|-
+|ke-rri
+|moon
+|-
+|e-eno
+|thunderbolt
+|-
+|e-quapi
+|day
+|-
+|de-pi
+|night
+|-
+|i-zzapà
+|hill, mountain
+|-
+|u-uni
+|river
+|-
+|cá-retá
+|lake
+|-
+|i-zzá
+|rain
+|-
+|cuára
+|wind
+|-
+|inhau-opo
+|stream
+|-
+|u-ni
+|water
+|-
+|qué-véré
+|island
+|-
+|ri-ipá
+|waterfall
+|-
+|kenihé
+|farm
+|-
+|pan-ete
+|house
+|-
+|ni-dá
+|canoe
+|-
+|ti-iná
+|ranch
+|-
+|i-ipaí
+|yard
+|-
+|ti-izzé
+|fire, firewood
+|-
+|tizé-ven
+|ember
+|-
+|ye-tá
+|network
+|-
+|u-paí
+|floor
+|-
+|ai-co
+|tree
+|-
+|cuia
+|gourd
+|-
+|no-inhau-adá
+|food
+|-
+|cápa
+|do
+|-
+|má-tari
+|axe
+|-
+|to-rro
+|pan
+|-
+|to-ro-dá
+|clay pot
+|-
+|guaraia
+|basket
+|-
+|dôpetzi
+|sieve
+|-
+|paraná
+|banana
+|-
+|cae-ini
+|manioc
+|-
+|ma-tsoca
+|flour
+|-
+|noo-cacá, cará-atxi
+|sweet potato
+|-
+|a-pi
+|pepper
+|-
+|mapa
+|sugar cane
+|-
+|matxucá
+|chicken
+|-
+|rie-fé
+|egg
+|-
+|ci-no
+|dog
+|-
+|a-pidzá
+|pig
+|-
+|tzzaui
+|ounce
+|-
+|né-irri
+|deer
+|-
+|ti-itxi
+|agouti
+|-
+|aridari
+|armadillo
+|-
+|e-má
+|tapir
+|-
+|cal-xerri
+|alligator
+|-
+|cu-pé
+|fish
+|-
+|acorro
+|animal
+|-
+|hamé
+|ant
+|-
+|maroio
+|beads
+|-
+|yukira
+|salt
+|-
+|palito
+|matches
+|-
+|txurra
+|trousers
+|-
+|ma-uidá
+|comb
+|-
+|hon-hon
+|yes
+|-
+|curi-papa
+|no
+|-
+|no-i-no
+|single
+|-
+|no-i-nerri
+|married
+|-
+|no-ine-dzango
+|widower
+|-
+|ma-txi-áde
+|good
+|-
+|dopo
+|ugly
+|-
+|matxidé
+|bad
+|-
+|a-perri
+|cold
+|-
+|a-mûde
+|hot, warm
+|-
+|tacua
+|fever
+|-
+|cá-ide
+|ache
+|-
+|pauéridza
+|one
+|-
+|dzamâuari
+|two
+|-
+|madariaui
+|three
+|-
+|uadáca
+|four
+|}
+
+==Further reading==
+*Gonçalves, Artur Garcia. 2018. ''Para uma dialetologia baniwa-koripako do rio Içana''. M.A. dissertation, Universidade de Brasília.
+
+==References==
+{{Reflist}}
+
+== External links ==
+{{Incubator|code=bwi}}
+*[http://www.native-languages.org/baniva.htm Baniva del Guainia Language]
+*[https://ailla.utexas.org/islandora/object/ailla:263497 Baniwa of the Aiary and Içana Collection of Robin M. Wright] at the Archive of the Indigenous Languages of Latin America. 
+*[https://ailla.utexas.org/islandora/object/ailla:124457 Curripaco Collection of Jonathan Hill] at the Archive of the Indigenous Languages of Latin America.
+
+{{Arawakan languages}}
+
+[[Category:Arawakan languages]]
+[[Category:Languages of Venezuela]]
+[[Category:Languages of Colombia]]
+[[Category:Languages of Brazil]]
+[[Category:Verb–object–subject languages]]
+[[Category:Indigenous languages of Northern Amazonia]]

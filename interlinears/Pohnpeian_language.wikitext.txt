@@ -1,0 +1,885 @@
+{{short description|Austronesian language spoken on Pohnpei island in Micronesia}}
+{{cleanup lang|date=May 2019}}
+{{Infobox language
+|name=Pohnpeian
+|nativename=''Mahsen en Pohnpei'' [honorific]<br>''Lokaiahn Pohnpei'' [common]
+|states=[[Federated States of Micronesia|Micronesia]]
+|region=[[Pohnpei]]
+|speakers={{sigfig|29000<!--no date for other figures, no indication if ppl are being counted twice-->|2}}
+|date=2001
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Micronesian languages|Micronesian]]
+|fam5=Nuclear Micronesian
+|fam6=[[Chuukic–Pohnpeic languages|Chuukic–Pohnpeic]]
+|fam7=[[Pohnpeic language|Pohnpeic]]
+|dia1=[[Kitti (municipality)|Kitti]]
+|iso2=pon
+|iso3=pon
+|glotto=pohn1238
+|glottorefname=Pohnpeian
+|script=[[Latin script]]
+}}
+
+'''Pohnpeian''' is a [[Micronesian languages|Micronesian language]] spoken as the indigenous language of the island of [[Pohnpei]] in the [[Caroline Islands]]. Pohnpeian has approximately 30,000 (estimated) native speakers living in Pohnpei and its outlying [[atoll]]s and islands with another 10,000-15,000 (estimated) living off island in parts of the US mainland, Hawaii and Guam. It is the second-most widely spoken native language of the [[Federated States of Micronesia]].<ref name=Dalby>{{cite book|first=Andrew |last=Dalby |title=Dictionary Of Languages, The Definitive Reference To More Than 400 Languages |publisher=Bloomsbury Pub Ltd |year=2004 |url=https://books.google.com/books?id=CnckpL8auSIC |isbn=978-0231115698 |access-date=2012-01-09}}</ref>
+
+Pohnpeian features a "[[Register (sociolinguistics)|high language]]" including some specialized vocabulary, used in speaking about people of high rank.<ref name=Dalby/>
+
+==Classification==
+<!-- Deleted image removed: [[File:MLSC Equals Justice.jpg|thumb|right|Commercial signage in Pohnpeian.]] -->
+
+Pohnpeian is most closely related to the [[Chuukic languages]] of [[Chuuk State|Chuuk]] (formerly Truk). [[Ngatikese language|Ngatikese]], [[Pingelapese language|Pingelapese]] and [[Mokilese language|Mwokilese]] of the [[Pohnpeic languages]] are closely related languages to Pohnpeian. Pohnpeian shares 81% lexical similarity with Pingelapese, 75% with Mokilese, and 36% with [[Chuukese language|Chuukese]].<ref name=SIL>{{cite web|editor=Lewis, M. Paul |year=2009 |work=Ethnologue: Languages of the World |edition=16 |location=[[Dallas]] |publisher=SIL International online |title=Pohnpeian |url=http://www.ethnologue.com/show_language.asp?code=pon |access-date=2012-12-15}}</ref><ref name=Dalby/>
+
+Pohnpeian employs a great deal of [[loanword]]s from colonial languages such as [[English language|English]], [[Japanese language|Japanese]], [[Spanish language|Spanish]], and [[German language|German]].<ref name=Rehg79/><ref name=Rehg81/>{{rp|14}} However, these "loanwords" are neither spelled or pronounced the same as the source language.
+
+==Phonology==
+
+The modern Pohnpeian [[orthography]] uses twenty letters — sixteen single letters and four digraphs — collated in a unique order:<ref name=Rehg81>{{cite book|title=Ponapean Reference Grammar |series=PALI language texts: Micronesia |first1=Kenneth L. |last1=Rehg |first2=Damian G. |last2=Sohl |publisher=University of Hawaii Press |year=1981 |isbn=978-0824807184 |url=https://books.google.com/books?id=Yh77ZUXpYyQC |access-date=2012-01-08}}</ref>
+
+{|
+| a || e || i || o || oa || u || h || k || l || m || mw || n || ng || p || pw || r || s || d || t || w
+|}
+
+As German missionaries designed an early form of the orthography, Pohnpeian spelling uses -h to mark a long vowel, rather like German: dohl 'mountain'.<ref name=Dalby/> The [[International Phonetic Alphabet|IPA]] equivalents of written Pohnpeian are as follows:<ref name=Rehg81/>
+
+{| class="wikitable" style=text-align:center 
+|+ Pohnpeian [[consonant]]s
+|-
+! 
+! [[labial consonant|Bilabial]] 
+! [[dental consonant|Dental]]/[[alveolar consonant|Alveolar]] 
+! [[retroflex consonant|Laminal]]
+! [[palatal consonant|Palatal]]
+! [[velar consonant|Velar]]
+! [[labialized velar consonant|Labiovelar]]
+|-
+! [[Nasal consonant|Nasal]]
+| ''m'' {{IPA|/m/}}
+| ''n'' {{IPA|/n/}}
+|
+|
+| ''ng'' {{IPA|/ŋ/}}
+| ''mw'' {{IPA|/mʷ/}}<ref group=note name=note1>{{IPA|/mʷ/}} and {{IPA|/pʷ/}} are rounded before a vowel, but have unrounded allophones when in final position.</ref>
+|-
+! [[Plosive consonant|Plosive]] 
+| ''p'' {{IPA|/p/}}
+| ''d'' {{IPA|/t/}}
+| ''t'' {{IPA|/t̻/}}<ref name=rehg04>{{cite journal|first=Kenneth L.|last=Rehg|title=Linguists, Literacy, and the Law of Unintended Consequences|journal=Oceanic Linguistics|volume=43|number=2|pages=498–518|url=http://www.rnld.org/sites/default/files/Rehg%202004.pdf|year=2004|doi=10.1353/ol.2005.0011|access-date=2014-11-08|archive-url=https://web.archive.org/web/20150924091709/http://www.rnld.org/sites/default/files/Rehg%202004.pdf|archive-date=2015-09-24|url-status=dead}}</ref>{{rp|504}}
+|
+| ''k'' {{IPA|/k/}}
+| ''pw'' {{IPA|/pʷ/}}<ref group=note name=note1/>
+|-
+! [[Fricative consonant|Fricative]] 
+|
+| ''s'' {{IPA|/sʲ/}}
+|
+|
+|
+|
+|-
+! [[Approximant consonant|Approximant]]
+|
+| ''l'' {{IPA|/l/}}
+|
+| ''i''<ref group=note name=note2>In Pohnpeian, ''i'' is used to represent {{IPA|/j/}} when written, and ''u'' may represent {{IPA|/w/}}.</ref> {{IPA|/j/}}
+|
+| ''u, w''<ref group=note name=note2/> {{IPA|/w/}}
+|-
+! [[Trill consonant|Trill]]/[[Flap consonant|Flap]]
+|
+| ''r'' {{IPA|[r]}}
+|
+|
+|
+|
+|-
+| colspan=7 |Notes:<br>{{reflist|group=note}} 
+|-
+|}
+
+{| class="wikitable" style=text-align:center
+|+ Pohnpeian [[vowel]]s
+|-
+! !! [[Front vowel|Front]] !! [[Central vowel|Central]] !! [[Back vowel|Back]]
+|-
+! [[Close vowel|High]]
+| ''i'' [[Close front unrounded vowel|{{IPA|/i/}}]] ''ih'' {{IPA|/iː/}}
+|
+| ''u'' [[Close back rounded vowel|{{IPA|/u/}}]] ''uh'' {{IPA|/uː/}}
+|-
+! [[Close-mid vowel|High-mid]]
+| ''e''<ref group=note name=note3>Written Pohnpeian does not distinguish between {{IPA|[e]}} and {{IPA|[ɛ]}}: both are ''e''.</ref> [[Close-mid front unrounded vowel|{{IPA|/e/}}]] ''eh'' {{IPA|/eː/}}
+|
+| ''o'' [[Close-mid back rounded vowel|{{IPA|/o/}}]] ''oh'' {{IPA|/oː/}}
+|-
+! [[Open-mid vowel|Low-mid]]
+| ''e''<ref group=note name=note3/> [[Open-mid front unrounded vowel|{{IPA|/ɛ/}}]] ''eh'' {{IPA|/ɛː/}}
+|
+| ''oa'' [[Open-mid back rounded vowel|{{IPA|/ɔ/}}]] ''oah'' {{IPA|/ɔː/}}
+|-
+! [[Open vowel|Low]]
+|
+| ''a'' [[Near-open central vowel|{{IPA|/ɐ/}}]] ''ah'' {{IPA|/ɐː/}} || 
+|-
+| colspan=4 |Notes:<br>{{reflist|group=note}}
+|-
+|}
+
+===Phonotactics===
+Pohnpeian [[phonotactics]] generally allow [[Syllable structure|syllables]] consisting of [[consonant]]s (C) and [[vowel]]s (V) accordingly: V, VC, CV, CVC. This basic system is complicated by Pohnpeian [[orthography|orthographical conventions]] and [[phonology|phonological processes]]. Orthographically, ''i'' is used to represent [[Palatal approximant|{{IPA|/j/}}]], though it is often unwritten; ''-u'' is realized as [[Labio-velar approximant|{{IPA|/w/}}]]; and ''h'' indicates a long vowel (a spelling convention inherited from [[German language|German]]).<ref name=Dalby/> Thus, ''sahu'' is pronounced {{IPA|[sʲaːw]}}, never {{IPA|[sʲahu]}}. Consecutive vowels are glided with {{IPA|[j]}} or {{IPA|[w]}}, depending on the relative height and order of the vowels: ''diar'' is said {{IPA|[tijar]}} ("to find"); ''toai'' is {{IPA|[ ̻tɔji]}} ("to have a runny nose"); ''suwed'' is {{IPA|[sʲuwɛt]}} ("bad"); and ''lou'' is {{IPA|[lowu]}} ("cooled"). While the glide {{IPA|[j]}} is never written other than as ''i'' the glide {{IPA|[w]}} may be written between ''u'' and a non-[[high vowel]]: ''suwed'' ("bad").<ref name=Rehg81/>{{rp|54–5}}
+
+Words beginning in [[nasal consonant|nasal]] [[consonant clusters]] may be pronounced as written, or with a leading [[prothesis (linguistics)|prothetic vowel]]. The [[roundedness]] of the prothetic vowel depends on that of the adjacent consonant cluster and the first written syllable. For example, ''nta'' can be said {{IPA|[i ̻n ̻ta]}} ("blood"), and ''ngkapwan'' may be {{IPA|[iŋkapʷan]}} ("a while ago"); but ''mpwer'' is optionally {{IPA|[umʷpʷɛr]}} ("twin"), and ''ngkopw'' may be {{IPA|[uŋkopʷ]}} (a species of crab). Pohnpeian orthography renders the consonant clusters {{IPA|[mʷpʷ]}} and {{IPA|[mʷmʷ]}} as ''mpw'' and ''mmw'', respectively.<ref name=Rehg81/>{{rp|55–9}}
+
+====Substitution and assimilation====
+Further phonological constraints frequently impact the pronunciation and spelling of consonant clusters, triggered variously by [[reduplication]] and [[assimilation (linguistics)|assimilation]] into neighboring sounds. Sound changes, especially in reduplication, are often reflected by a change in spelling. However, processes triggered by [[affix]]es as well as adjacent words are not indicated in spelling. In order to inflect, derive, and pronounce Pohnpeian words properly, the order of operations must generally begin with liquid assimilation, followed by nasal assimilation, and end with nasal substitution.<ref name=Rehg81/>{{rp|58–64}}
+
+First, [[liquid consonant|liquid]] [[assimilation (linguistics)|assimilation]] is seen most often in reduplication alongside spelling changes. By this process, liquids {{IPA|/l/}} and {{IPA|/r/}} are assimilated into the following [[Alveolar consonant|alveolar]] (coronal) consonant: ''nur'' > ''nunnur'' ("contract").<ref name=Rehg81/>{{rp|60}}
+
+The second process, [[nasal consonant|nasal]] [[assimilation (linguistics)|assimilation]], presents two varieties: partial and complete. In partial nasal assimilation, {{IPA|/n/}} assimilates with a following [[stop consonant]] to produce {{IPA|[mp]}}, {{IPA|[mʷpʷ]}}, {{IPA|[mm]}}, {{IPA|[mʷmʷ]}}, or {{IPA|[ŋk]}}. For example, the prefix ''nan-'' ("in") produces: ''nanpar'', pronounced {{IPA|[nampar]}} ("trade wind season"); ''nanpwungara'', said {{IPA|[namʷpʷuŋara]}} ("between them"); and ''nankep'', said {{IPA|[naŋkep]}} ("inlet"). Partial assimilation also occurs across word boundaries: ''kilin pwihk'' is pronounced {{IPA|[kilimʷ pʷiːk]}}. The allophone of {{IPA|/n/}} is written "n" in these cases.<ref name=Rehg81/>{{rp|56–7}}
+
+In complete nasal assimilation, {{IPA|/n/}} assimilates into adjacent liquid consonants to produce {{IPA|/ll/}} or {{IPA|/rr/}}: ''lin + linenek'' > ''lillinenek'' ("oversexed," spelling change from reduplication); ''nanrek'' is said {{IPA|[narrɛk]}} ("season of plenty"). Complete nasal assimilation also occurs across word boundaries: ''pahn lingan'' is said {{IPA|[paːlliŋan]}} ("will be beautiful").<ref name=Rehg81/>{{rp|57, 60}}
+
+The third process, nasal substitution, also presents two varieties. Both varieties of nasal substitution affect adjacent consonants of the same type: [[alveolar consonant|alveolar (coronal)]], [[bilabial consonant|bilabial]], or [[velar consonant|velar]]. The first variety is often triggered by reduplication, resulting in spelling changes: ''sel'' is reduplicated to ''sensel'' ("tired").<ref name=Rehg81/>{{rp|58–64}}
+
+The second variety of nasal substitution, limited to [[bilabial consonant|bilabial]] and [[velar consonant]]s, occurs [[sandhi|across word and morpheme]] boundaries: ''kalap pahn'' is pronounced as if it were ''kalam pahn'' ("always will be"); ''Soulik kin soupisek'' is pronounced as if it were ''souling kin soupisek'' ("Soulik is [habitually] busy"). This second variety of the nasal substitution process is phonemically more productive than the first: it includes all results possible in the first variety, as well as additional cluster combinations, indicated <span style="color:#008000;">in green</span> below. Some [[Alveolar consonant|alveolar]] pairs produce an intervening vowel, represented as V below. Not all clusters are possible, and not all are assimilative, however.<ref name=Rehg81/>{{rp|58–64}}
+
+{|
+|+ Pohnpeian nasal substitution
+|-
+|
+{| class="wikitable" style=text-align:center
+|+ [[Alveolar consonant|Alveolar]] (coronal) consonants
+|-
+! !! -s !! -d !! -t !! -n !! -l !! -r 
+|-
+! s-
+| ns || — || — || — || sVl || sVr
+|-
+! d-
+| dVs || nd || — || dVn || dVl || —
+|-
+! t-
+| tVs || — || nt || tVn || tVl || tVr
+|-
+! n-
+| ns || nd || nt || nn || ll || —
+|-
+! l-
+| ns || nd || nt || — || ll || —
+|-
+! r-
+| ns || nd || nt || nn || ll || rr
+|-
+|}
+| 
+{| class="wikitable" style=text-align:center
+|+ [[Bilabial]] consonants
+|-
+! !! -p !! -pw !! -m !! -mw 
+|-
+! p-
+| mp || <span style="color:#008000;">mpw</span> || <span style="color:#008000;">mm</span> || <span style="color:#008000;">mmw</span> 
+|-
+! pw-
+| <span style="color:#008000;">mp</span> || mpw || <span style="color:#008000;">mm</span> || mmw 
+|-
+! m-
+| <span style="color:#008000;">mp</span> || <span style="color:#008000;">mpw</span> || mm || <span style="color:#008000;">mmw</span>
+|-
+! mw-
+| <span style="color:#008000;">mp</span> || <span style="color:#008000;">mpw</span> || <span style="color:#008000;">mm</span> || <span style="color:#008000;">mmw</span>
+|-
+|}
+| 
+{| class="wikitable" style=text-align:center
+|+ [[Velar]] consonants
+|-
+! !! -k !! -ng 
+|-
+! k-
+| ngk || <span style="color:#008000;">ngng</span>
+|-
+! ng-
+| ngk || ngng 
+|-
+|}
+|-
+|}
+
+By following the order of operations, reduplication of the word ''sel'' ("tired") progresses thus: *''selsel'' > *''sessel'' (liquid assimilation) > ''sensel'' (nasal substitution).<ref name=Rehg81/>{{rp|60}} In this case, the same result is achieved by nasal substitution alone.
+
+{| class="wikitable" style=text-align:center 
+|+ Pohnpeian reflexes of [[Proto-Oceanic language|Proto Oceanic]] [[consonant]]s<ref>{{cite journal|last1=Bender|first1=Byron W.|title=Proto-Micronesian Reconstructions: 1|journal=Oceanic Linguistics|date=2003|volume=42|issue=1|pages=4, 5|doi=10.2307/3623449|jstor=3623449}}</ref>
+|-
+! [[Proto-Oceanic language|Proto Oceanic]]
+|  *mp ||  *mp,ŋp || *p || *m ||  *m,ŋm ||  *k || *ŋk || *ŋ || *y || *w || *t || || *s,nj || *ns,j || *j || *nt,nd || *d,R || *l || *n || *ɲ
+|-
+! [[Micronesian languages|Proto Micronesian]]
+|  *p ||  *pʷ || *f || *m ||  *mʷ ||  *k || *x || *ŋ || *y || *w || *t || *T || *s || *S || *Z || *c || *r || *l || *n || *ɲ
+|-
+! [[Chuukic-Pohnpeic languages|Proto Chuukic-Pohnpeic]]
+| *p ||  *pʷ || *f || *m ||  *mʷ || *k || *∅,r<sup>3</sup> || *ŋ || *y || *w || *t || *j || *t || *t || ∅ || *c || *r || *l || *n || *ɲ
+|-
+! [[Pohnpeic language|Proto-Pohnpeic]] 
+| *p<sup>1</sup> ||  *pʷ || *p, ∅<sup>2</sup> || *m ||  *mʷ || *k || *∅,r<sup>3</sup> || *ŋ || *y || *w || *j,∅<sup>1</sup>{_i,u,e<sup>4</sup>}|| *j || *t || *t || *∅ || * c || *r || *l || *n ||  *∅,n{high V_}
+|-
+! Pohnpeian
+| p<sup>1</sup> ||  pʷ || p, ∅<sup>2</sup> || m ||  mʷ || k || ∅,r<sup>3</sup>|| ŋ || ∅,y || w || s<sup>1</sup>,∅{_i,u,e<sup>4</sup>} || s || t̻ || t̻ || ∅ || t̺ || r || l || n ||  ∅,n{high V_}
+|-
+|}
+<sup>1</sup> In the Pohnpeic languages, geminate obstruents are realized as homorganic nasal-obstruent clusters.<br>
+<sup>2</sup> Often before {{IPA|/i/}}.<br>
+<sup>3</sup> Before {{IPA|/a/}}.<br>
+<sup>4</sup> The reflex is *∅ sporadically before PMc *e.
+
+==Grammar==
+
+Pohnpeian [[word order]] is nominally [[subject–verb–object|SVO]]. Depending on the grammatical function, the [[head (linguistics)|head]] may come before or after its dependents. Like many [[Austronesian languages]], Pohnpeian [[focus (linguistics)|focus marking]] interacts with [[transitivity (grammar)|transitivity]] and relative clauses (see [[Austronesian alignment]]). Its range of grammatically acceptable sentence structures is more generally (1) noun phrase, (2) verb phrase (3) other noun phrases, where the contents of the leading noun phrase may vary according to the speaker's focus. If the leading noun phrase is not the subject, it is followed by the focus particle ''me''. Normally, the object phrase is last among predicates:<ref name=Rehg81/>{{rp|225, 248–50, 280, 307}}
+
+{| class="wikitable"
+! [[Focus (linguistics)|Focus]]
+! Pohnpeian
+|-
+! Neutral
+| {{interlinear|Lahpo pahn inauriki {kisin pwehlet} wahro|That-guy will lash sennit-this canoe-that|That guy will lash the canoe with this [[sennit]].}}
+|-
+! Subject 
+| {{interlinear|Lahpo <u>me</u> pahn inauriki {kisin pwehlet} wahro.|That-guy <u>FOC</u> will lash sennit-this canoe-that|That guy will lash the canoe with this sennit.}}
+|-
+! Object 
+| {{interlinear|Wahro <u>me</u> lahpo pahn inauriki {kisin pwehlet}.|Canoe-that <u>FOC</u> that-guy will lash sennit-this|The canoe is what that guy will lash with this sennit.}}
+|-
+! Noun phrase
+| {{interlinear|{Kisin pwehlet} <u>me</u> lahpo pahn inauriki wahro.|Sennit-this <u>FOC</u> that-guy will lash canoe-that|This sennit is what that guy will lash that canoe with.}}
+|}
+
+===Honorific speech===
+
+[[Honorific]] speech is used in several settings as a way of showing honor and respect to older ones, those who have been assigned titles, royalty, and in almost all religious settings. Depending on the second or third person, a given sentence may vary widely because honorific speech comprises a separate vocabulary, including all parts of speech and topics both lofty and mundane. Examples include: ''pohnkoiohlap'' (to eat with the ''[[tribal chief|nahnmwarki]]''), ''likena'' (high chief's wife), ''pahnkupwur'' (chest; normally ''mwarmware''), ''pahnpwoal'' (armpit; normally ''pahnpeh''), ''dauso'' (anus, normally ''pwoar''), ''kelipa'' (to joke, normally ''kamwan''), ''kaluhlu'' (to vomit), and ''keipweni'' (an interjection). Although at times in the absence of a specific honorific word, the word "Ketin" is often used to indicate that the proceeding verb is honoric ("Koht kin ketin kapikada" would translate to "God creates"). The word "Ketin" has no meaning by itself. However, when used as a prefix, it is a sure way to distinguish honorific speech ("Kiong" has the meaning of "Give", "Ketkiong" would be the honorific version of the same word)<ref name=Rehg79/>
+
+===Nouns===
+
+[[Nouns]] may be singular, [[dual (grammatical number)|dual]], or [[plural]] in [[grammatical number|number]], and generally inflect by suffixing. Numerals usually follow the nouns they count, and agree in [[noun class]]. Groups of nouns and adjectives comprise noun phrases. Pohnpeian transitive sentences contain up to three noun phrases.<ref name=Rehg81/>{{rp|141–2, 157, 280}}
+
+[[Inalienable possession|Inalienable]], or direct, possession is marked by personal suffixes. Other forms of [[possession (linguistics)|possession]] are indicated through [[possessive determiner|possessive classifiers]]. The construct suffix ''-n'' appears in oblique positions, such as possessive phrases. Words ending in ''n'', however, are followed by the clitic ''en''. Possessive phrases generally add this construct state to a classifier noun, followed by the possessor, and lastly the possessum. For example: ''weren ohlo war'' (<small>POSSESSIVECLASS:CANOE</small>-n that-man canoe) means "that man's canoe."<ref name=Rehg81/>{{rp|188, 192}}
+
+Some possessive classifiers, namely ''ah'' and ''nah'', may precede the possessum: ''nein ohlo (nah) rasaras'' (<small>CLASS:</small>-n that-man [<small>CLASS</small>] saw) means "that man's saw." Possessive classifiers can also occur with more than one following noun. The classifier itself may give a particular meaning to the possessum: ''pwihk'' means "pig;" ''nah pwihk'' means "his (live) pig;" ''ah pwihk'' means "his (butchered) pig;" and ''kene pwihk'' means "his pig (to eat)."<ref name=Rehg81/>{{rp|182–4}}
+
+====Determiners====
+[[Determiner]]s in Pohnpeian may occurs as [[Clitic#Enclitic|enclitics]] which are [[bound morpheme]]s or independent words and occur in three basic types: demonstrative modifiers, pointing demonstratives, and demonstrative pronouns.<ref name=Rehg81/>{{rp|143}} All of the determiners have a three-way [[Deixis|diectic]] distinction of proximal (near the speaker), medial (near the listener), and distal (away from both the speaker and listener), as well as an emphatic/non-emphatic distinction. [[Demonstrative]]s are generally, suffixed to or following the last word of a noun phrase.<ref name=Rehg81/>{{rp|144–50}} [[Orthography|Orthographically]] singular clitics are suffixed to the word, while plurals are written as separate words.<ref name=Rehg81/>
+
+=====Demonstrative modifiers=====
+Demonstrative modifiers occur as enclitics with nouns and always occupy the last element in a noun phrase.
+
+{| class="wikitable"
+|+ Non-Emphatic Demonstrative Modifiers<ref name=Rehg81/>{{rp|144}}
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+|-
+| -e(t)
+| proximal
+| -ka(t)
+| proximal
+|-
+| -en
+| medial
+| -kan
+| medial
+|-
+| -o
+| distal
+| -kau, -koa, -ko
+| distal
+|}
+
+The singular emphatic demonstrative modifiers are formed by suffixing the non-emphatic singular forms to appropriate numeral classifier for the noun, such as ''men-'' for [[Animacy|animate]] nouns. The plural forms are always constructed by suffixing the non-emphatic plural form to ''pwu-'' regardless of the singular classifier.<ref name=Rehg81/>{{rp|149}}
+
+{| class="wikitable"
+|+ Emphatic Demonstrative Modifiers (for animate nouns )<ref name=Rehg81/>{{rp|149}}
+|-
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+|-
+| mene(t)
+| proximal
+| pwuka(t)
+| proximal
+|-
+| menen
+| medial
+| pwukan
+| medial
+|-
+| meno
+| distal
+| pwukau
+| distal
+|}
+
+Examples of the demonstrative modifiers in use are
+
+{| class="wikitable"
+|+ Demonstrative modifier examples<ref name=Rehg81/>{{rp|149}}
+! colspan="4" style="font-weight: bold;" | Non-Emphatic
+! colspan="4" style="font-weight: bold;" | Emphatic
+|-
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+|-
+| ohlet
+| 'this man by me'
+| ohl akat
+| 'these men by me'
+| ohl menet
+| 'this man by me'
+| ohl pwukat
+| 'these men by me'
+|-
+| ohlen
+| 'that man by you'
+| ohl akan
+| 'those men by you'
+| ohl menen
+| 'that man by you'
+| ohl pwukan
+| 'those men by you'
+|-
+| ohlo
+| 'that man over there'
+| ohl akau
+| 'those men over there'
+| ohl meno
+| 'that man over there'
+| ohl pwukau
+| 'those men over there'
+|}
+
+=====Pointing modifiers=====
+Pointing modifiers are [[determiner]]s that can stand alone in a noun phrase and are used in equational (non-verbal) sentences.<ref name=Rehg81/>{{rp|150}} They can also occur by themselves as one word sentences. They have both non-emphatic and emphatic forms.
+
+{| class="wikitable"
+|+ Pointing modifiers<ref name=Rehg81/>{{rp|150, 151}}
+! colspan="4" style="font-weight: bold;" | Non-Emphatic
+! colspan="4" style="font-weight: bold;" | Emphatic
+|-
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+|-
+| ie(t)
+| 'here, by me'
+| ietakan/iehkan
+| 'here, by me'
+| ietkenen/iehkenen
+| 'here, by me'
+| ietkenenkan/iehkenenkan
+| 'here, by me'
+|-
+| ien
+| 'there, by you'
+| ienakan
+| 'there, by you'
+| ienkenen
+| 'there, by you'
+| ienkenenkan
+| 'there, by you'
+|-
+| io
+| 'there, away from you and me'
+| iohkan
+| 'there, away from you and me'
+| iohkenen
+| 'there, away from you and me'
+| iohkenenkan
+| 'there, away from you and me'
+|}
+
+Example uses of pointing modifiers:<ref name=Rehg81/>{{rp|150}}
+* ''Iet noumw naipen'' 'Here is your knife'
+* ''Ietakan noumw naip akan'' 'Here are your knives'
+* ''Iet!'' 'Here it is!'
+* ''Iohkan!'' 'There they are! (away from you and me)
+
+=====Demonstrative pronouns=====
+Demonstrative [[pronoun]]s are [[determiner]]s that can replace noun phrases in a verbal sentence. They have both non-emphatic and emphatic forms.
+
+{| class="wikitable"
+|+ Demonstrative pronouns<ref name=Rehg81/>{{rp|152, 153}}
+! colspan="4" style="font-weight: bold;" | Non-Emphatic
+! colspan="4" style="font-weight: bold;" | Emphatic
+|-
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+! colspan="2" style="font-weight: bold;" | Singular
+! colspan="2" style="font-weight: bold;" | Plural
+|-
+| me(t)
+| 'this, by me'
+| metakan/mehkan
+| 'these, by me'
+| metkenen
+| 'this one here, by me'
+| metkenenkan
+| 'these here, by me'
+|-
+| men
+| 'that, by you'
+| menakan
+| 'those, by you'
+| menkenen
+| 'that one there, by you'
+| menkenenkan
+| 'those there, by you'
+|-
+| mwo
+| 'that, away from you and me'
+| mwohkan
+| 'those, away from you and me'
+| mwohkenen
+| 'that one there, away from you and me'
+| mwohkenenkan
+| 'those there, away from you and me'
+|}
+
+Examples of demonstrative pronouns in use:<ref name=Rehg81/>{{rp|152, 153}}
+* ''Met ohla'' 'This is broken'
+* ''E wahla mwo'' 'He/she took it there away from you and me'
+* ''Mwohkan ohla'' 'Those are broken'
+* ''E wahwei men'' 'He/she took it there by you'
+*
+
+====Pronouns====
+
+{| class="wikitable"
+|+ Personal pronouns<ref name=Rehg81/>{{rp|157–161}}
+! 
+! 
+! style="font-weight: bold;" | Singular
+! style="font-weight: bold;" | Dual
+! style="font-weight: bold;" | Plural
+! style="font-weight: bold;" | [[Clusivity|Exclusive]] (Dual/Plural)
+|-
+! rowspan="3" style="font-weight: bold;" | First Person
+! style="font-weight: bold;" | Independent
+| ngehi
+| kita
+| kitail
+| kiht
+|-
+! style="font-weight: bold;" | Subject
+| i
+| kita
+| kitail
+| se
+|-
+! style="font-weight: bold;" | Object
+| -ie
+| -kita
+| -kitail
+| -kit
+|-
+! rowspan="3" style="font-weight: bold;" | Second Person
+! style="font-weight: bold;" | Independent
+| kowe, koh
+| kuwma
+| kumwail
+| N/A
+|-
+! style="font-weight: bold;" | Subject
+| ke
+| kumwa
+| kumwail
+| N/A
+|-
+! style="font-weight: bold;" | Object
+| -uhk
+| -kumwa
+| -kumwail
+| N/A
+|-
+! rowspan="3" style="font-weight: bold;" | Third Person
+! style="font-weight: bold;" | Independent
+| ih
+| ira
+| irail, ihr
+| N/A
+|-
+! style="font-weight: bold;" | Subject
+| e
+| ira
+| irail, re
+| N/A
+|-
+! style="font-weight: bold;" | Object
+| -
+| -ira
+| -irail
+| N/A
+|}
+
+The [[relative pronoun]] ''me'' means "one who is" or "which," and is used with adjectives and general verbs: ''Ih me kehlail'' (He one strong > He is the strong one); ''Ih me mwenge'' (He one eat > He is the one who ate).<ref name=Rehg81/>{{rp|200}}
+
+====Possessive classifiers====
+
+[[Possessive determiner|Possessive classifiers]] are used frequently and differentiate among person, possessum, and honorific usage. Their personal forms appear below:
+
+{| class="wikitable" style=text-align:center
+|+ Personal possessive classifiers<ref name=Rehg79/>
+|-
+!
+! Singular
+! Dual
+! Plural
+|-
+| First person 
+| nei, ei/ahi || neita, ata || neitail, atail<br>neit, aht (excl.)
+|-
+| rowspan=2 | Second person
+| ahmw/oumw, noumw || amwa, noumwa || amwail, noumwail
+|-
+| colspan=3 | Honorific: omw, omwi
+|-
+| rowspan=3 | Third person
+| nah, ah || ara, neira || arail, neirail/nair
+|-
+| colspan=3 | Honorific: sapwellime
+|-
+|}
+
+Further possessive classifiers include: ''sapwellime'' (third person honorific), ''were'' (vehicles, canoes), ''nime'' (drinkable things), ''imwe'' (buildings, homes), ''ulunge'' (pillows), ''sapwe'' (land), ''kie'' (things to sleep on), ''tie'' (earrings), ''mware'' (garlands, titles, names), ''ipe'' (covers, sheets), ''kene'' (edibles), and ''seike'' (catch of fish).<ref name=Rehg79/><ref name=Rehg81/>{{rp|184}}
+
+Specialized kinship classifiers include: ''kiseh'' (relatives), ''sawi'' (clan members), ''rie'' (sibling in [[Crow kinship]]), ''wahwah'' (man's sister-relation's children), and ''toki'' (persons with whom one has had sexual intercourse).<ref name=Rehg81/>{{rp|116, 184}}
+
+==== Honorifics ====
+
+[[Honorific]]s comprise a largely separate vocabulary.<ref name=Rehg79>{{cite book|title=Ponapean-English Dictionary |series=PALI language texts: Micronesia |first1=Kenneth L. |last1=Rehg |first2=Damian G. |last2=Sohl |publisher=University of Hawaii Press |year=1979 |isbn=978-0824805623 |url=https://books.google.com/books?id=58Ej3akzB3gC |access-date=2012-01-08}}</ref>
+
+{| class="wikitable" style=text-align:center
+|+ Example honorific classifiers<ref name=Rehg79/>
+|-
+! [[Noun class]]
+! [[Honorific]] (Mengei)
+! Common (Lokaia Mengei)
+|-
+| canoe, vehicle || tehnwere || were
+|-
+| house, building || tehnpese || imwe
+|-
+| edibles of title holders of ''koanoat'' || koanoat || kene
+|-
+| land || nillime || sapwe
+|-
+| things to sleep on (also means mat) || moatoare || kie
+|-
+|}
+
+==== Numbers and measure words ====
+
+[[Number]]s normally follow the nouns they count, however they may be pre-posed in certain situations. Numbers and [[measure word]]s depend on the grammatical class and physical characteristics of the object being counted. The several number systems are grouped by linguists into three sets, reflecting their term for "ten." When naming numbers in order, natives most often use the –''u'' class. ''Ngoul'' is an alternate word for "ten" for ''-pak'' and ''-sou'' [[classifier (linguistics)|classifiers]].<ref name=Rehg81/>{{rp|127, 135, 141–2}}
+
+{| class="wikitable" style=text-align:center
+|+ Pohnpeian numerals<ref name=Rehg81/>{{rp|127–34}}
+| '''Noun type''' || '''Classifier''' || '''1''' || '''2''' || '''3''' || '''4''' || '''5''' || '''6''' || '''7''' || '''8''' || '''9''' || '''10'''
+|-
+| inanimate, some animate || –u || ehu || riau || siluh || pahieu || limau || weneu || isuh || waluh || duwau 
+| rowspan=12 | eisek 
+|-
+| times || –pak || apak || riapak || silipak || pahpak || limpak || wenepak || isipak || welipak || duwapak
+|-
+| piles, heaps || –mwut || emwut || riemwut || silimwut || pahmwut || limmwut || wenemwut || isimwut || walimwut || duwamwut
+|-
+| oblong objects || –lep || elep || rielep || sillep || pahlep || limelep || wenlep || isilep || wellep || duwelep
+|-
+| strips, strands, used with "piten" || –pit|| epit || riepit || silipit || pahpit || limpit || wenepit || isipit || walipit || duwapit
+|-
+| garlands || –el || ehl || riehl || siliel || pahiel || limiel || weniel || isiel || weliel || duwehl
+|-
+| stalks, i.e. [[sugarcane]] || –sop || osop || riaspo || silisop || pahsop || limisop || wensop || isisop || welisop || duwasop
+|-
+| small round objects || –mwodol || emwodol || riemwodol || silimwodol || pahmwodol || limwomwodol || wenemwodol || isimwodol || welimwodol || duwemwodol 
+|-
+| gusts of wind || –tumw || otumw || riotumw || silitumw || pahtumw || limatumw || wenetumw || isitumw || welitumw || duwetumw
+|-
+| slices || –dip || edip || riadip || silidip || pahdip || limadip || wenidip || isidip || welidip || duwadip
+|-
+| feces (''pwise'') || –sou || esou || riesou || silisou || pahsou || limisou || wensou || isisou || welisou || duwesou 
+|-
+| bundles || –dun || odun || riadun || silidun || pahdun || limadun || wendun || isidun || welidun || duwadun
+|-
+| animate beings || –men || emen || riemen || silimen || pahmen || limmen || wenemen || isimen || welimen || duwemen 
+| rowspan=12 | ehk
+|-
+| longness, songs, stories || –pwoat || oapwoat || rioapwoat || silipwoat || pahpwoat || limpwoat || wenepwoat || isipwoat || welipoat || duwoapwoat
+|-
+| parts, divisions, sides || –pali || apali || riapali || silipali || pahpali || limpali || wenepali || isipali || welipali || duwepali
+|-
+| strips, long, thin objects; used with "poaren" || –poar || oapoar || rioapoar || silipoar || pahpoar || limpoar || wenepoar || isipoar || welipoar || duwoapoar
+|-
+| leaves; used with ''teh'' || –te || ete || riete || silete || pahte || limete || wente || isite || welite || duwete
+|-
+| thin objects || –par || apar || riapar || silipar || pahpar || limpar || wenepar || isipar || welipar || duwapar
+|-
+| sheaves, bundles; used with ''kap'' || –kap || akap || riakap || silikap || pahkap || limakap || wenakap || isikap || welikap || duwakap
+|-
+| rows || –ka || aka || riaka || silika || pahka || limaka || weneka || isika || welika || duwaka
+|-
+| fronds || –pa || apa || riapa || silipa || pahpa || limpa || wenwpa || isipa || welipa || duwapa
+|-
+| branches; used with ''rah'' || –ra || ara || riara || silira || pahra || limara || wenera || isira || welira || duwara
+|-
+| [[bamboo|cane]] sections || –pwuloi || opwuloi || riopwuloi || silipwuloi || pahpwuloi || limpwuloi || wenpwuloi || welipwuloi || duwopwuloi
+|-
+| [[sennit]] || –sel || esel || riesel || silisel || pahsel || limesel || wenesel || isisel || welisel || duwesel
+|-
+| yams, bananas, and other foods cooked in a [[stone oven]] ''uhmw'' || –umw || oumw || rioumw || sliuhmw || pahumw || limoumw || wenoumw || isuhmw || weluhmw || duwoumw 
+| rowspan=4 | ngoul
+|-
+| nights; used with ''pwohng'' || –pwong || opwong || rioapwong || silipwong || pahpwong || limpwong || wenepwong || isipwong || welipwong || duwoapwong
+|-
+| plants with a single root and many stalks, i.e., [[sugarcane]], [[hibiscus]], [[bamboo]] || –wel || ewel || riewel || siliwel || pahwel || limwel || wenewel || isiwel || welewel || duwewel
+|-
+| small pieces or fragments of objects || –kis || ekis || riakis || silikis || pahkis || limakis || wenekis || isikis || welikis || duwakis
+|-
+| (none) || ehd || ehd || ari (are) || esil || epeng || alim (alen) || oun (aun) || eis || ewel || adit (edut) || koadoangoul/kedingoul
+|-
+| bunches of bananas || –i || ih || rial || — || — || — || — || — || — || — || —
+|-
+|}
+
+Higher numerals such as ''pwiki'' "hundred", ''kid'' "thousand", do not inflect for [[noun class]]. The ''ehd'' system, above is likewise not class-based.<ref name=Rehg81/>{{rp|137–40}}
+
+Ordinals are formed with the prefix ''ka–'', pronounced as ''ke–'' in certain words.<ref name=Rehg81/>{{rp|141–42, 215–218, 318}}
+
+===Verbs===
+
+Pohnpeian distinguishes between [[intransitive verb|intransitive]] and [[transitive verb]]s. Transitive verbs are those with both a [[subject (grammar)|subject]] and an [[object (grammar)|object]]. Intransitive verbs indicate most other [[verb]]al, [[adjective|adjectival]], and [[adverb]]ial relationships. Within verb phrases, [[grammatical aspect|aspect]] markers are followed by adverbs, and lastly the main verb.<ref name=Rehg81/>{{rp|193–5, 255–67}}
+
+Many, if not most, transitive and intransitive verbs share [[root (linguistics)|common roots]], though their derivation is often unpredictable. Some thematic features among intransitive verbs include [[ablaut]], [[reduplication]], the suffix ''-ek'', and the prefix ''pV'', where V stands for any vowel. [[thematic vowel|Thematic suffixes]] among transitive verbs include ''-ih'' and ''-VC'', where C stands for any consonant. Some transitive verbs also end in a final short vowel.<ref name=Rehg81/>{{rp|202–209}}
+
+Pohnpeian indicates four [[grammatical aspect]]s: [[imperfective aspect|unrealized]], [[habitual aspect|habitual]], [[durative aspect|durative]], and [[perfective aspect|perfective]]. Alternations in vowel length, as well as ablaut, are a salient feature of the aspect paradigm.<ref name=Rehg81/>{{rp|253–54, 267–73}}
+
+Pohnpeian permits [[relative clause]]s and conjoined clauses through use of [[conjunction (grammar)|conjunctions]] and [[conjunctive adverb]]s. The language also permits verbs within [[nominal clause]]s as [[gerund|gerundive clauses]], [[finite clause]]s, and [[infinitive clause]]s.<ref name=Rehg81/>{{rp|349}}
+
+Pohnpeian verbs allow for a high level of affixation. The allowable suffixes and their ordering is presented in the table below.
+
+{| class="wikitable"
+|+ Verbal suffix positions<ref name=Rehg81/>{{rp|223}}
+! style="font-weight: bold;" | 1st
+! style="font-weight: bold;" | 2nd
+! style="font-weight: bold;" | 3rd
+! style="font-weight: bold;" | 4th
+! style="font-weight: bold;" | 5th
+! style="font-weight: bold;" | 6th
+! style="font-weight: bold;" | 7th
+|-
+| -ki
+| -ie
+| -da
+| -la
+| -ehng
+| -ie
+| -ehr
+|-
+| 
+| -uhk
+| -di
+| -do
+| -sang
+| -uhk
+| 
+|-
+| 
+| -
+| -iei
+| -wei
+| 
+| -
+| 
+|-
+| 
+| -kit
+| -long
+| 
+| 
+| -kit
+| 
+|-
+| 
+| -kita
+| colspan="2" | -pene
+| 
+| -kita
+| 
+|-
+| 
+| -kumwa
+| colspan="2" | -peseng
+| 
+| -kumwa
+| 
+|-
+| 
+| -ira
+| colspan="2" | -seli
+| 
+| -ira
+| 
+|-
+| 
+| -kitail
+| 
+| 
+| 
+| -kitail
+| 
+|-
+| 
+| -kumwail
+| 
+| 
+| 
+| -kumwail
+| 
+|-
+| 
+| -irail
+| 
+| 
+| 
+| -irail
+| 
+|}
+
+====Intransitive verbs====
+
+Pohnpeian intransitive verbs can be divided into the following types:
+{|border="1" class="wikitable" style="text-align:center; width:50%;"
+|-
+! colspan="5" | Intransitive verbs<ref name=Rehg81/>{{rp|195, 202}}
+|-
+| colspan="4" | General intransitives 
+! rowspan="3" | Adjectives
+|-
+| colspan="3" | Activity verbs
+! rowspan="2" | Non-Activity<br>verbs
+|-
+! Active || Resultative || Neutral
+|-
+| ''mwenge''<br>to eat || ''lop''<br>to be cut || ''les''<br>to split, be split || ''mi''<br>to exist || ''pweipwei''<br>to be stupid
+|-
+|}
+
+There are five verbal [[prefix]]es, which appear as [[bound morpheme]]s: the causative ''ka-'', the negatives ''sa-'' and ''sou-'', and two other semantic modifiers ''ak-'' and ''li-''.
+
+''Ka-'', the [[causative]] prefix, makes intransitive verbs into transitive ones. It is the most productive prefix, as it is the only that can precede the other four above. It often occurs in conjunction with a [[reduplication|reduplicative]] vowel suffix. For example, with ''luwak'', "be jealous", an adjective:<ref name=Rehg81/>{{rp|215–218, 221}}
+*''Liho luwak'': That woman is jealous
+*''Liho '''ka'''luwak'': That woman was made jealous
+*''Liho '''ka'''luwak'''a''' lihet'': That woman made the [other] woman jealous
+*''Pisek'', idle
+*''Soupisek'', busy (i.e., un-idle)
+*''Kasoupisek'', to make busy
+
+The majority of intransitive verbs have only a transitive [[causative]] form: ''pweipwei'' > ''kapweipwei'', "to be stupid." Among verbs where ''ka-'' is productive, only adjectives and a few resultative intransitive verbs have both intransitive and transitive causative forms. Though the prefix is productive in many active and resultative verbs, it is not productive with neutral intransitive verbs, nor for a handful of intransitives denoting bodily functions such as "sneeze" (''asi''), "frown" (''lolok''), "be full" (''tip''), and "be smelly" (''ingirek''). The prefix ''ka-'' often has assimilative [[allophone]]s depending on the stem, for example ''soai'' (to tell a tale) becomes '''''koa'''soia'' (to talk), ''dou'' (to climb) becomes '''''ko'''doudou'' (to trace one's ancestry), and ''rir'' (to be hidden) becomes '''''ke'''rir'' (secret sweetheart). As illustrated in these examples, the prefix often causes semantic differentiation, necessitating different constructions for literally causative meanings; ''karirala'', a different form employing ''ka-'', is used to mean "to make hidden."<ref name=Rehg81/>{{rp|216–218}}
+
+''Sa-'' and ''sou-'' negate verbs, however ''sou-'' is less productive than ''sa-'', which itself varies in productivity according to regional dialect. The general meaning of ''sa-'' appears to be "not," while ''sou-'' apparently means "un-," thus:<ref name=Rehg81/>{{rp|218–219}}
+*''wehwe'', to understand; ''sawehwe'', to not understand
+*''pwung'', correct; ''sapwung'', incorrect
+*''nsenoh'', concerned; ''sounsenoh'', careless (i.e., un-concerned)
+
+Like ''ka-'', ''sa-'' displays assimilative allophony: ''ese'', "to know" > ''sehse'', "to not know;" ''loalekeng'', "intelligent" > ''soaloalekeng'', "not intelligent." Only a single example has been found of ''sa-'' preceding ''ka-'': the word ''koasoakoahiek'' means "inappropriate," deriving from the verb ''koahiek'', "be competent."<ref name=Rehg81/>{{rp|220}}
+
+''Ak-'' adds a semantic meaning of demonstration or display when combined with adjectives. When preceded by ''ka-'', it becomes ''kahk-''. ''Li-'' generally means "may," or "predisposed, given to" some quality or action.<ref name=Rehg81/>{{rp|221–3}}
+
+=====General intransitive verbs=====
+
+General intransitive verbs describe actions or events. They are divided into [[dynamic verb|active]], [[stative verb|resultative]], and neutral subtypes. For example, ''mwenge'' (to eat) and ''laid'' (to fish) are active; ''langada'' (to be hung up) and ''ritidi'' (to be closed) are resultative (static); and ''deidei'' (to sew, to be sewn) and ''pirap'' (to steal, to be stolen) are neutral — they can have either an active or a resultative meaning. Though resultative verbs sometimes resemble passive transitive verbs in English, they are in fact a class of intransitive verbs in Pohnpeian, which entirely lacks a comparable [[active voice|active]]-[[passive voice]] distinction. For example, ''Ohlo pahn kilel'' means both "That man will take a photograph" and "That man will be photographed." Reduplication is frequently productive among general intransitives and adjectives alike. Derivations often include reduplication: ''pihs'' > ''pipihs'' (to urinate); ''us'' > ''usuhs'' (to pull out).<ref name=Rehg81/>{{rp|196–8, 207}}
+
+Many intransitives are ablauted from their transitive forms, sometimes with reduplication: ''apid'' (trans.) > ''epid'' (intrans.) "to carry on one's side," ''par'' (trans.) > ''periper'' (intrans.) "to cut."<ref name=Rehg81/>{{rp|206}}
+
+Others are derived from transitive forms through the prefix ''pV-'', conveying a meaning of reciprocal action: ''kakil'' (stare) > ''pekekil'' (stare at one another). These [[reciprocal (grammar)|reciprocal intransitives]] form a distinct subgroup.<ref name=Rehg81/>{{rp|208}}
+
+A few intransitives derive from transitive roots through the suffix ''-ek'', though this is a [[fossilization (linguistics)|fossilized]] suffix and is no longer [[productivity (linguistics)|productive]]. For example, ''dierek'' (to be found) from ''diar'' (to find); ''dilipek'' (for a thatch roof to be mended) from ''dilip'' (to mend a thatch roof). Sometimes this results in two intransitive derivations of a single transitive root, usually with a semantic nuance: transitive ''wengid'' (to wring), intransitive ''wengiweng'' (to wring/be wrung), intransitive ''wengidek'' (to be twisted); transitive ''widinge'' (to deceive), intransitive ''widing'' (to deceive/be deceived); intransitive ''widingek'' (to be deceitful). The suffix was apparently much more productive earlier in the language's history, even among active verbs.<ref name=Rehg81/>{{rp|207–8}}
+
+Intransitives include verbs that [[incorporation (linguistics)|incorporate]] their objects, in contrast with transitives, which state objects separately; this is somewhat akin to "babysitting" in English. This process sometimes results in vowel shortening within the incorporated noun. Any verbal suffixes, normally suffixed to the initial verb, follow the incorporated object. Incorporation is not possible when there is a [[demonstrative]] suffix, however:<ref name=Rehg81/>{{rp|212–4}}
+*''I pahn pereklos'', I will mat-unroll
+*''I pahn pereki lohs'', I will unroll mats
+*''I pahn pereki lohso'', I will unroll that mat
+
+=====Adjectives=====
+
+Pohnpeian adjectives are a class of non-action intransitive verbs. They function in a mostly parallel way to other intransitive verbs: ''E pahn [tang/lemei]'' – "He will run/be cruel"; ''E [tangtang/lemelemei]'' – "He is running/being cruel"; ''E [tenge/lamai] pwutako'' – "He ran to/is cruel to that boy." Many adjectives themselves can be used as commands, and have transitive counterparts.<ref name=Rehg81/>{{rp|198}}
+
+Adjectives function as a subclass of intransitive verbs, though grammatical functions set them apart. For example, the [[superlative]] ''-ie'' is reserved for adjectives, as in ''lingan'', "beautiful," and ''lingahnie'', "most beautiful." Likewise reserved for adjectives is the suffix -''ki'', which indicates instrumentality in transitive verbs, means "to consider [beautiful]" when suffixed to an adjective. Superlatives may also appear using the ordinal numeral ''keieu'' "first." [[Comparative]]s are made through word order and the suffix ''-sang'': ''Pwihke laudsang pwihko'' means "This pig is bigger than that pig."<ref name=Rehg81/>{{rp|195–200, 215, 224–6, 250}}
+
+One feature setting adjectives apart from non-active verbs is the productivity of the stative marker ''me'' (different from the pronoun and focus particle ''me''), which is generally not grammatically correct with intransitive verbs of any kind:<ref name=Rehg81/>{{rp|199–200}}
+*''E mwahu'', He is good; and ''E me mwahu'', He ''is'' good!
+*''E mi mwo'', It exists there; but not *''E me mi mwo''.
+
+Another aspect setting adjectives apart from other intransitives is that adjectives precede numerals, while intransitives follow. Adjectives generally follow the [[head (linguistics)|head noun]], though [[possessive determiner|possessives]] and numbers with fractions precede the noun:<ref name=Rehg81/>{{rp|124, 141}} 
+*''pwutak'', boy
+*''pwutako'', that boy
+*''pwutak silimeno'', those three boys
+*''pwutak reirei silimeno'', those three tall boys
+*''nei pwutak silimeno'', my three sons there
+*''orenso'', that orange
+*''pahkis ehuwen orenso'', one-fourth of that orange
+*''mahio'', that breadfruit
+*''pahkis siluhwen mahio'', three-fourths of that breadfruit
+
+====Transitive verbs====
+
+Transitive verbs consist of single [[root (linguistics)|roots]] and various suffixes upon modern intransitive verbs. Historically, intransitive verbs probably developed by dropping these transitive suffixes and ablauting.
+
+Some transitive verbs end in -VC on intransitive forms, appearing as un[[ablaut]]ed or without [[reduplication]]; as intransitives were likely products of final syllable dropping, the endings are rather unpredictable: ''poad'' > ''poadok'', "to plant," ''id'' > ''iding'', "to make fire," ''pek'' > ''pakad'', "to defecate," and ''dapadap'' > ''daper'', "to catch."<ref name=Rehg81/>{{rp|203}}
+
+Several transitive verbs end in -''ih'' on intransitive roots, sometimes also with vowel changes: ''malen'' > ''mahlenih'', "to draw," ''sel'' > ''salih'', "to tie," and ''erier'' > ''arih'', "to stir, probe." This form is the most [[productivity (linguistics)|productive]] and is used with [[loanwords]].<ref name=Rehg81/>{{rp|204–5}} For example: ''mahlenih'', deriving from German ''mahlen'', means "to paint, draw."<ref name=Rehg79/>{{rp|xv}}
+
+Some transitive verbs ending in short final vowels have intransitive counterparts that lack those endings; again, ablaut and reduplication often differentiate. Examples include ''langa'' > ''lang'', "to hang up," ''doakoa'' > ''dok'', "to spear," and ''rese'' > ''rasaras'', "to sharpen." The short vowel ending ''-i'' appears only in ''-ki''.
+
+Transitive verbal [[suffix]]es include the perfective ''-ehr'', ''-ki'' (which derives verbs from nouns; different from the noun instrumental suffix ''-ki'' and short vowel suffix), object pronoun suffixes, and a host of directional suffixes. These include ''-ehng'' (towards) and ''-sang'' (away, without).<ref name=Rehg81/>{{rp|106–7, 222–52, 246–9, 279}}
+
+===Prepositions and Prepositional Nouns===
+Pohnpeian has two canonical [[Preposition and postposition|prepositions]] ''ni'' and ''nan''.<ref name=Rehg81/> ''Nan'' is used to express the containment of an object in either 2D or 3D space by another object, and ''ni'' expresses the attachment of an object to another object.<ref>{{cite journal|last1=Rentz|first1=Bradley|title=Pohnpeian Topological Relations|journal=Linguistics Vanguard|date=2017|volume=3|doi=10.1515/lingvan-2016-0092|url=https://zenodo.org/record/1069866|hdl=10125/63283|hdl-access=free}}</ref>
+*''Lahpo mihmi '''nan''' ihwo'', 'That person is in the house.'
+*''Kahto mihmi '''nan''' pingin likou'', 'That cat is on the rug.'
+*''Rihngo mihmi '''ni''' pehn liho'', 'That ring is on the woman's finger.'
+*''Pwahlo mihmi '''ni''' kehpo'', 'The crack is in the cup.'
+
+==Basic phrases==
+
+Below are some basic words and phrases in Pohnpeian:
+*Kaselehlie - Hello (semi-formal)
+*Kaselehlie maing - Hello (formal)
+*Kaselehlie maing ko - Hello (formal plural)
+*Kaselel - Hello (informal)
+*Kalahngan - thank you (formal)
+*Menlau - thank you (informal)
+*edei - my name
+*edomw - your name (sg informal)
+*Ia edomw? - What is your name?
+*Ia iromw? - How are you (sg informal)?
+
+==References==
+{{reflist}}
+
+== External links ==
+* [[hdl:10125/34750|Pohnpeian dictionary]] (1950) in [[Kaipuleohone]]
+* [[hdl:10125/40864|Lessons in Ponapean]] (1967) and [[hdl:10125/40863|accompanying audio recordings]]
+* [[hdl:10125/40868|Kitail Lokaiahn Pohnpei: Introductory Lessons in Ponapean]] (1969)
+* [[hdl:10125/33149|Pohnpeian-English word list, approximately 8888 word]] 
+* [https://scholarspace.manoa.hawaii.edu/handle/10125/4250/simple-search?filterquery=Pohnpeian&filtername=language&filtertype=equals Written and audio materials for Pohnpeian] in [[Kaipuleohone]], some materials are archived under [https://scholarspace.manoa.hawaii.edu/handle/10125/7737/simple-search?filterquery=Ponapean&filtername=language&filtertype=equals Ponapean]
+* [http://trussel2.com/pnp Pohnpeian-English Online Dictionary]
+
+{{Languages of the Federated States of Micronesia}}
+{{Micronesian languages}}
+{{Oceania topic|Languages of}}
+{{Austronesian languages}}
+
+[[Category:Pohnpeic languages]]
+[[Category:Languages of the Federated States of Micronesia]]
+[[Category:Pohnpei]]

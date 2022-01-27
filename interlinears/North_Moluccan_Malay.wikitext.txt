@@ -1,0 +1,426 @@
+{{Infobox language
+|name=North Moluccan Malay
+|nativename={{lang|max|Bahasa Pasar}}
+|states=[[Indonesia]]
+|region=[[North Maluku]]
+|speakers=700,000
+|date=2001
+|ref=e18
+|familycolor=Creole
+|fam1=[[Malay-based creole languages|Malay Creole]]
+|fam2 = East Indonesian
+|iso3=max
+|glotto=nort2828
+|glottorefname=North Moluccan Malay
+}}
+
+'''North Moluccan Malay''' (also known as '''Ternate Malay''') is a Malay-based [[creole language]] spoken on [[Ternate]], [[Tidore]], [[Halmahera]], and [[Sula Islands]], [[North Maluku]] for intergroup communications. The local name of the language is ''Bahasa Pasar'', and the name Ternate Malay is also used, after the main ethnic group speaking the language. Since North Moluccan Malay is used primarily for spoken communication, there is no standardized orthography.
+
+A large percentage of this language's lexicon has been borrowed from [[Ternate language|Ternatean]], such as, ''ngana'' "you (sg.)", ''ngoni'' "you (pl.)", ''bifi'' "ant" and ''ciri'' "to fall", and its syntax and semantics have received heavy influence from the surrounding [[West Papuan languages]].<ref>{{cite book|author=Paul Michael Taylor|title=Introduction|page=7|url=http://www.sil.si.edu/DigitalCollections/anthropology/ternate/introduction.pdf|language=en}}</ref> Other vernacular forms of Malay spoken in eastern Indonesia, such as [[Manado Malay]] and [[Papuan Malay]], are said to be derived from an earlier form of North Moluccan Malay.<ref>{{Citation |last=Allen |first=Robert B. |title=Orientation in the Spice Islands |date=2002 |url=http://sealang.net/sala/archives/pdf4/allen2002orientation.pdf |work=Papers from the Tenth Annual Meeting of the Southeast Asian Linguistics Society |page=21 |publisher=Arizona State University, Program for Southeast Asian Studies |last2=Hayami-Allen |first2=Rika}}</ref>
+
+==Phonology==
+
+===Vowels===
+The vowel system of North Moluccan Malay consists of five vowel phonemes and five diphthongs.<ref name="Litamahuputty2012">{{Cite thesis |last=Litamahuputty |first=Bathseba Helena Johanna |title=Ternate Malay: Grammar and Texts |date=2012 |degree=phd |publisher=LOT (Leiden University) |url=https://openaccess.leidenuniv.nl/handle/1887/19945 |isbn=978-94-6093-088-1 |location=Utrecht |hdl=1887/19945 |hdl-access=free |ref=free}}</ref>{{rp|15}}
+
+{|class=wikitable style=text-align:center
+|+North Moluccan Malay vowels
+!
+![[Front vowel|Front]]!![[Back vowel|Back]]
+|-
+![[Close vowel|High]]
+|{{IPA|i}}||{{IPA|u}}
+|-
+![[Mid vowel|Mid]]
+|{{IPA|e}}||{{IPA|o}}
+|-
+![[Open vowel|Low]]
+| ||{{IPA|a}}
+|}
+
+The five diphthongs are /ai/, /ae/, /ao/, /oi/ and /ei/.<ref name="Litamahuputty2012" />{{rp|15}}
+
+===Consonants===
+North Moluccan Malay has eighteen consonants and two semivowels.<ref name="Litamahuputty2012" />{{rp|19}}
+
+{|class=wikitable style=text-align:center
+|+North Moluccan Malay consonants
+!
+![[Labial consonant|Labial]]!![[Alveolar consonant|Alveolar]]!![[Palatal consonant|Palatal]]!![[Velar consonant|Velar]]!![[Glottal consonant|Glottal]]
+|-
+![[Nasal consonant|Nasal]]
+|{{IPA|m}}||{{IPA|n}}||{{IPA|ɲ}}||{{IPA|ŋ}}||
+|-
+![[Plosive consonant|Plosive]]
+|{{IPA|p b}}||{{IPA|t d}}||{{IPA|c ɟ}}||{{IPA|k ɡ}}||{{IPA|ʔ}}
+|-
+![[Fricative consonant|Fricative]]
+|{{IPA|f}}||{{IPA|s}}|| || ||{{IPA|h}}
+|-
+![[Lateral consonant|Lateral]]
+| ||{{IPA|l}}|| || ||
+|-
+![[Trill consonant|Trill]]
+| ||{{IPA|r}}|| || ||
+|-
+![[Semivowel]]
+|{{IPA|w}}|| ||{{IPA|j}}|| ||
+|}
+
+==Grammar==
+
+=== Possession ===
+In Ternate Malay, words do not align its forms with its grammatical roles; therefore, the functions of words are often determined by linguistic context and non-linguistic situation. In this case, [[Possession (linguistics)|possession]]s are often used as a tool to determine the borders of [[Constituent (linguistics)|constituent]]s for the sake of successful interpretation of word meanings and functions.<ref name="Litamahuputty2012" />{{Rp|41}}
+
+Generally, words in Ternate Malay are often constructed in [[Head-directionality parameter|head-initial structure]], except from the two possessive constructions ''– Y pe X construction''s and ''YX constructions'', where words are constructed in [[Head-directionality parameter|head-final structure]].<ref name="Litamahuputty2012" />{{Rp|59}}
+
+==== Y ''pe'' X constructions  ====
+In the ''Y pe X construction'', the Y element refers to the [[Modifier (linguistics)|modifier]] ([[Possession (linguistics)|possessor]]) while the X element refers to the [[Head (linguistics)|head]] ([[Possession (linguistics)|possessum]]). The [[Possession (linguistics)|possessor]] and [[Possession (linguistics)|possessum]] are connected by ''pe,'' in which the [[Possession (linguistics)|possessum]] expresses ''de facto'' a [[Nominal (linguistics)|nominal meaning]]. In English, the Y ''pe'' X constructions gives the meaning of ‘Y’s X’ and ‘the X of Y’.<ref name="Litamahuputty2012" />{{Rp|59}}
+
+According to Litamahuputty,<ref name="Litamahuputty2012" />{{Rp|92}} ''Y pe X construction'' can express different meanings ranging from [[Possession (linguistics)|possession]] in animate subjects and inanimate subjects to non-possessive meanings. The examples below are extracted from Litamahuputty <ref name="Litamahuputty2012" />{{Rp|92–98}} to illustrate situations when ''Y pe X construction'' is used to express [[Possession (linguistics)|possessions]].
+
+===== ''<u>Non-human relationships</u>'' =====
+
+====== X is part of Y ======
+In example (1), ''tong pe kaki'' is a possessive construction where the [[Possession (linguistics)|possessor]] ''tong ‘the first person plural – our’'' is connected to the [[Possession (linguistics)|possessum]] ''kaki ‘leg’'' using ''pe.'' Together, the construction gives the meaning of ''‘our leg’'', in which the leg is a part of ‘our’ body, demonstrating the relationship of ‘X is part of Y’
+
+{{interlinear|number=(1)
+|ka sana, de poloso '''tong''' '''pe''' '''kaki'''.
+|to there 3SG squeeze 1PL POSS leg
+|when we go there, she massages our legs <ref name="Litamahuputty2012" />{{Rp|3}}}}
+
+====== X is a product of Y ======
+In example (2), ''ular pe bias'' is a possessive construction where the [[Possession (linguistics)|possessor]] ''ular ‘snake’'' is connected to the [[Possession (linguistics)|possessum]] ''bias ‘venom’'' using ''pe.'' Together, the construction means ''‘the snake’s venom’,'' in which the venom is produced by the snake, demonstrating the relationship of ‘X is a product of Y’.
+
+{{interlinear|number=(2)
+|baru de buka '''ular''' '''pe''' '''bisa...'''
+|then 3SG open snake POSS poison
+|then he takes out the snake’s venom <ref name="Litamahuputty2012" />{{Rp|94}}}}
+
+====== X is a feature of Y ======
+In example (3), ''motor pe warna'' is a possessive construction where the [[Possession (linguistics)|possessor]] ''motor ‘motorcycle’'' is connected to the [[Possession (linguistics)|possessum]] ''warna ‘colour’'' using ''pe.'' Together, the construction gives the meaning of ''‘the colour of the motorcycle''’, in which the colour is one of the features (such as shape, model, engine…etc.) of the motorcycle, demonstrating the relationship of ‘X is a feature of Y’.
+
+{{interlinear|number=(3)
+|'''motor''' '''pe''' '''warna''' deng dia sama.
+|motorcycle POSS colour and 3SG same
+|the colour of the motorcycle and him are the same.<ref name="Litamahuputty2012" />{{Rp|95}}}}
+
+===== <u>''Human relationships''</u> =====
+
+====== Social relationship ======
+In example (4), ''bank pe bini'' is a possessive construction where the [[Possession (linguistics)|possessor]] ''bank ‘bank employee’'' is connected to the [[Possession (linguistics)|possessum]] ''bini'' ''‘wife’'' using ''pe.'' Together, the construction brings the meaning of ''‘the bank employees’ wives’,'' which expresses the social relationship between the humane animates.
+
+{{interlinear|number=(4)
+|kalo dong lia ibu-ibu bank ka... '''bank''' '''pe''' '''bini''', orang-orang di bank,
+|when 3PL see REDUP-mother bank or bank POSS wife REDUP-person in bank
+|when they see bank employees or the wives of bank employees, employees at the bank,''<ref name="Litamahuputty2012" />{{Rp|95}}}}
+
+====== Kinship relationship ======
+In example (5), ''Fadin de kaka'' is a possessive construction where the [[Possession (linguistics)|possessor]] ''Fadin (a [[proper noun]])'' is connected to the [[Possession (linguistics)|possessum]] ''kaka ‘older'' sibling’''.'' Together, the construction gives the meaning of ''‘Fadin’s older brother’,'' which expresses the kinship relationship between the two humane animates.
+
+{{interlinear|number=(5)
+|'''Fadin''' '''pe''' '''kaka''' ni.
+|Fadin POSS older.sibling this
+|he’s Fadin’s older brother<ref name="Litamahuputty2012" />{{Rp|93}}}}
+
+===== ''<u>Time relationships</u>'' =====
+
+====== Future relationship ======
+Example (6) is about a story of how the speaker accidentally spilled hot oil on himself.
+
+In the possessive construction ''de pe beso,'' the [[Possession (linguistics)|possessor]] ''de ‘[[Grammatical person|third person singular]]’'' refers to the day of incident, where the [[Possession (linguistics)|possessum]] ''beso'' ''‘tomorrow’'' refers to the day after the incident. Future time relationship is shown between the day of incident and the day after the incident.
+
+{{interlinear|number=(6)
+|eh, '''de''' '''pe''' '''beso''' kita kage nae.
+|EXCL 3SG POSS tomorrow 1SG startled go.up
+|gee, the next morning I woke up in a shock.<ref name="Litamahuputty2012" />{{Rp|97}}}}
+
+====== Past relationship ======
+Example (7) is about the journey of the speaker and his friends in an island where he heard a strange voice.
+
+In the possessive construction ''de pe kalamareng malang,'' the [[Possession (linguistics)|possessor]] ''de ‘[[Grammatical person|third person singular]]’'' refers to the moment when the speaker was talking, where the [[Possession (linguistics)|possessum]] ''kalamareng malang ‘yesterday night’'' refers to the night before that moment, demonstrating past time relationship between the time when the speaker heard strange voice and the time he talked.
+
+{{interlinear|number=(7)
+|baru '''de''' '''pe''' '''kalamareng''' '''malang''' tu kita ada dengar orang pe suara.
+|moreover 3SG POSS yesterday night that 1SG exist hear person POSS voice
+|moreover, last night I heard someone's voice<ref name="Litamahuputty2012" />{{Rp|97}}}}
+
+===== <u>''Human Quality''</u> =====
+
+====== Quality ======
+In Example (8), ''de pe bae'' is a possessive expression where the possessor ''de ‘[[Grammatical person|third person singular]] – his’'' is connected to the possesum ''bae ‘kindness’'' with ''pe.'' The expression has the meaning of ''‘his kindness’,'' demonstrating a quality of the humane subject.
+
+This relationship is similar to '''X is a feature of Y''' which was demonstrated earlier, where example (8) refers to an animate and example (3) refers to an inanimate.
+
+{{interlinear|number=(8)
+|kita inga '''de''' '''pe''' '''bae''' skali.
+|1SG remember 3SG POSS good very
+|I always remember his kindness.<ref name="Litamahuputty2012" />{{Rp|98}}}}
+
+From the above examples, it can be seen that wide ranges of [[Possession (linguistics)|possessions]], including [[Possession (linguistics)|possessions]] in human, animals, objects or even abstract items like time, can be demonstrated from the ''Y pe X constructions.''
+
+As mentioned earlier, word functions in Ternate Malay are often determined from contexts rather than word forms. Therefore, not all ''Y pe X constructions'' show possessive meanings. The examples below demonstrate situations where ''Y pe X construction is'' used to express meanings other than [[Possession (linguistics)|possession]], for example, to express evaluative meanings or additional information:<ref name="Litamahuputty2012" />{{Rp|99–102}}
+
+; <u>When the possessum (X) denotes a quality with exclamative markers, it has an evaluative meaning rather than a possessive meaning.</u> 
+In example (9), the Y element in the ''Y pe X construction ‘ngana pe capat’'' is ''ngana,'' which refers to ''‘[[Grammatical person|second person singular]]’;'' and the X element is ''capa’,'' which refers to ''‘fast’.''
+
+Since the sentence is expressed in exclamative intonations, which can be shown from the [[exclamation mark]] used at the end of the sentence and the use of ''ih (the exclamative expression)'', the construction has the evaluative meaning of ''‘how fast you are!’'' rather than a possessive meaning of referring the ‘quality of fastness’ to the subject.
+
+{{interlinear|number=(9)
+|ih, Anwar, '''ngana''' '''pe''' '''capat'''!
+|EXCL Anwar 2SG POSS fast
+|gee, Anwar, you’re fast!<ref name="Litamahuputty2012" />{{Rp|99}}}}
+
+; <u>When the possessum (X) denotes an action or activity, it supplies additional information to the action or activity rather than showing possessions.</u> 
+In example (10), the Y element in the ''Y pe X construction ‘paitua pe cuci balangang’'' is ''paitua,'' which refers to ''‘old man’;'' and the X element is ''cuci balangan,'' which refers to ''‘to wash a wok’.''
+
+The example provided extra information on what surprised the speaker rather than showing [[Possession (linguistics)|possession]] between the old man and his way of washing a wok.
+
+{{interlinear|number=(10)
+|'''paitua''' '''pe''' '''cuci''' '''balangang''' kita herang.
+|old.man POSS wash wok 1SG surprised
+|the way he washed the wok surprised me.<ref name="Litamahuputty2012" />{{Rp|100}}}}
+
+==== YX constructions ====
+In the ''YX construction'', the Y element refers to the [[Modifier (linguistics)|modifier]] ([[Possession (linguistics)|possessor]]), which is often a personal pronoun or a kinship term; and the X element refers to the [[Head (linguistics)|head]] ([[Possession (linguistics)|possessum]]), which is often a thing word. The construction also has a meaning of ‘Y’s X’ and ‘the X of Y’ in English.<ref name="Litamahuputty2012" />{{Rp|102}} The examples below are extracted from Litamahuputty,<ref name="Litamahuputty2012" />{{Rp|103–104}} which demonstrated the use of element Y as a [[personal pronoun]] and kinship term in ''YX constructions:''
+
+===== Possessor Y as a personal pronoun =====
+Example (11) has demonstrated the use of ''YX construction'' with element Y as a [[personal pronoun]], where the [[Possession (linguistics)|possessor]] ''dong'' refers to '' ‘third person plural’'' and the [[Possession (linguistics)|possessum]] ''parau'' refers to ''‘boat’.'' Together, it has the meaning of ''‘their boat’'' .
+
+{{interlinear|number=(11)
+|ikang bawa '''dong''' '''parau.'''
+|fish bring 3PL boat
+|a fish is pulling their boat<ref name="Litamahuputty2012" />{{Rp|104}}}}
+
+===== Possessor Y as a kinship term =====
+Example (12) has demonstrated the use of ''YX construction'' with element Y as a kinship term, where the [[Possession (linguistics)|possessor]] ''tete'' refers to grandfather and the [[Possession (linguistics)|possessum]] ''papa'' refers to father. Together, the expression has the meaning of ''‘the grandfather’s father’,'' demonstrating the kinship relationship.
+
+{{interlinear|number=(12)
+|'''tete''' '''papa''' orang Ternate.
+|grandfather father person Ternate
+|my grandfather’s father is a person from Ternate.<ref name="Litamahuputty2012" />{{Rp|103}}}}
+
+===Personal pronouns===
+Personal pronouns in North Moluccan Malay only distinguish between [[Grammatical person|person]] (first, second and third person) and [[Grammatical number|number]] (singular and plural). Some pronouns can also be used to show respect to other speakers.<ref name="Litamahuputty2012" />{{rp|142}}
+
+{| class=wikitable style=text-align:center
+|-
+! Person !! colspan="2" |Singular !! colspan="2" |Plural
+|-
+!!! Full !! Shortened !! Full !! Shortened
+|-
+! 1 
+| kita <br> saya (respectful) || - || (ki)torang || tong
+|-
+! 2 
+| ngana || - || ngoni || -
+|-
+! 3 
+| dia || de || dorang || dong
+|}
+
+====Politeness====
+The use of the first person singular pronouns ''kita'' and ''saya'' is dependent on the speech situation. ''Kita'' is used when talking to others of the same or lower age, rank or status. On the other hand, ''saya'' is used in more formal situations or when conversing with someone with a higher rank or status, to show respect to the other person.<ref name="Litamahuputty2012" />{{rp|143}}
+
+The second person singular and plural pronouns, ''ngana'' and ''ngoni'' also share a similar distinction. ''Ngana'' is used to refer to an addressee if they of the same or lower age, rank or status. Otherwise speakers may use personal names or kinship terms to refer to the addressee.<ref name="Litamahuputty2012" />{{rp|144}} Alternatively, the plural second person pronoun ''ngoni'' can occasionally be used to refer to a single addressee respectfully, although it is typically reserved for addressing a group of people.<ref name="Litamahuputty2012" />{{rp|147}}
+
+These distinctions are demonstrated in example (1) where the speaker telling his friends of a situation where he explains to a woman that he does not want to accept money for helping to carry her shopping onto the bus. Since he is talking to his friends he refers to himself as ''kita'', but because he is not familiar with the woman he uses the more respectful ''saya'' to refer to himself and ''ngoni'' to address her.
+
+{{interlinear|number=(1)
+|'''kita''' bilang, "Ibu... '''saya''' bantu saja pa '''ngoni'''."
+|1SG say mother 1SG assist only to 2
+| "I said: 'Madam, I'm only helping you.'"<ref name="Litamahuputty2012" />{{rp|143}}}}
+
+====Full and shortened forms====
+For pronouns with a full and shortened form, the two forms may be used interchangeably in most contexts. However, following the conjunction ''deng'' or prepositions (such as ''di'', ''ka'', ''dari'' or ''pa'') only the full form may be used.<ref name="Litamahuputty2012" />{{rp|142}} This is seen in example (2) where the short form ''de'' is used except following the preposition ''pa'', where the full forms ''dia'' and ''torang'' appear instead: 
+
+{{interlinear|number=(2)
+|tikus ini, kalo manakal '''pa''' '''dia''', '''de''' manakal '''pa''' '''torang'''.
+|mouse this when be.naughty to 3SG 3SG be.naughty to 1PL
+|"this mouse, if we harm it, it will harm us"<ref name="Litamahuputty2012" />{{rp|145}}}}
+
+In addition, the shortened forms do not appear post-verbally (i.e. after predicates).<ref name="Litamahuputty2012" />{{rp|144–147}} Hence in the following example ''tong'' cannot appear after the verb ''bunu'' "kill", only the full form ''torang'' is allowed:
+
+{{interlinear|number=(3)
+|iblis tara mungkin '''bunu''' '''torang'''
+|devil NEG possible kill 1PL
+|"it's impossible for a devil to kill us"<ref name="Litamahuputty2012" />{{rp|146}}}}
+
+The full form of the first person plural pronoun ''torang'' is actually a shortening of ''kitorang'' which is sometimes used by older speakers however younger speakers rarely use this form.<ref name="Litamahuputty2012" />{{rp|145}}
+
+The only exceptions to the two restrictions mentioned above is when the pronoun is part of a Y ''pe'' X [[Possession (linguistics)|possessive]] construction in which case the shortened form may be used as the possessor Y.<ref name="Litamahuputty2012" />{{rp|142}} Example (4) shows a possessive Y ''pe'' X construction containing the first person plural short form pronoun ''dong'' occurring after a preposition ''pa'':
+
+{{interlinear|number=(4)
+|tong brenti pas '''pa''' '''dong''' '''pe''' '''muka'''.
+|1PL stop exact to 3PL POSS face
+|"we stopped precisely in front of them."<ref name="Litamahuputty2012" />{{rp|148}}}}
+
+Similarly, example (5) shows the third person singular short form pronoun ''de'' occurring after the verb ''iko'' "follow" also as part of a Y ''pe'' X possessive construction. This contrasts with the use of the full form ''dia'' after the second instance of ''iko'', where the pronoun is no longer part of a possessive construction:
+
+{{interlinear|number=(5)
+|de pe lalar '''iko''' '''de''' '''pe''' '''luka''', bukang '''iko''' '''dia'''.
+|3SG POSS fly follow 3SG POSS wound NEG follow 3SG
+|"the flies are following his wounds, they are not following him."<ref name="Litamahuputty2012" />{{rp|145}}}}
+
+=== Negation ===
+North Moluccan Malay uses predicate operators to express negation (negators). Predicate operators are used to express certain meaning aspects, they also act as a grammatical function by showing that the construction in which they take part in is best to be interpreted as predicate. ''tara'' 'not (present)' and ''bukang'' 'not' are two negators that are frequently used to negate predicates in this language.<ref name="Litamahuputty2012" />{{Rp|222}}
+
+''tara'' implies absolute absence 'not present'; however, while used in negating thing constructions contexts, ''tara'' could mean 'not possess'. On the other hand, ''bukang'' implies a contradiction 'not A, (but B)'. In negating thing constructions, ''bukang'' negates the identity of the thing and implies an alternative.<ref name="Litamahuputty2012" />{{Rp|222}}
+
+==== Negator ''tara'' ====
+Examples of the usage of negator ''tara'' 'not (present)' can be seen in the following sentences.<ref name="Litamahuputty2012" />{{Rp|222–223}}
+
+Example (1) shows negator ''tara'' preceding predicate ''tidor'' 'sleep', this results ''tara tidor'' 'not sleep'.
+
+{{interlinear|number=(1)
+|kita bilang, "ngana '''tara''' '''tidor'''?"
+|1SG say 2SG NEG sleep
+|I asked, "aren't you going to sleep?"<ref name="Litamahuputty2012" />{{Rp|222}}}}
+
+In example (2), the predicate ''sadiki'' 'a little' refers to a small amount. Preceded by negator ''tara'', ''tara sadiki'' 'not a little' refers to the subject of the example ''de pe sajara'' 'the history', which has a Y ''pe'' X possession construction. ''tara sadiki'' 'not a little' in this case describes the amount of the subject as the entity. 
+
+{{interlinear|number=(2)
+|de pe sajara '''tara''' '''sadiki'''.
+|3SG POSS history NEG a.little
+|the stories he has are not just a few.<ref name="Litamahuputty2012" />{{Rp|223}}}}
+
+Example (3) shows ''tara'' negating predicate ''dua'' 'two' which refers to an amount. In this case, ''tara dua'' 'there are no two (of them)' works as an expression which means that something has no equal. The subject ''kita pe mara ni'' 'my anger' expresses the entity that it has no (second) equivalent. 
+
+{{interlinear|number=(3)
+|ih, kita pe mara ni '''tara''' '''dua'''.
+|EXCL 1SG POSS angry this NEG two
+|gee, I was so angry. ({{Lit}} 'my anger does not have an equivalent')<ref name="Litamahuputty2012" />{{Rp|223}}}}
+
+Example (4) displays tara with the meaning 'not possess'. The predicate consists of negator tara 'not' preceding cewe 'girl' resulting tara cewe 'no girl(friend)'. This predicate describes the state of subject kita 'first person singular' which make the meaning 'not possess' of tara relevant. This results tara cewe to have the meaning 'do not have a girl(friend)'.
+
+{{interlinear|number=(4)
+|cek, kita '''tara''' '''cewe'''.
+|EXCL 1SG NEG girl
+|gee, I don't have a girlfriend.<ref name="Litamahuputty2012" />{{Rp|223}}}}
+
+Similar to example (4), example (5) shows the sense of 'not possess' of ''tara''. The story of example (5) is that the speaker thought that he was offered tea when it was actually instant coffee. The explanation is that he was not familiar with instant coffee since he usually drank coffee that had coffee dregs in it. In this example, the predicate is constructed of negator ''tara'' and ''ampas'' 'dregs', this results ''tara ampas'' '(there are) no dregs' which in this situation ''ampas'' is coffee dregs.
+
+{{interlinear|number=(5)
+|me, '''tara''' '''ampas'''.
+|PART NEG dregs
+|It didn't have any dregs.<ref name="Litamahuputty2012" />{{Rp|223}}}}
+
+Negator ''tara'' also has variations, one of them is when it precedes ''ada'' 'be present' then it can merge into ''tarada'' 'not present'. Generally, ''tara ada'' 'not be present' and ''tarada'' can be used interchangeably; however, some speaker might have clear distinction between the two.<ref name="Litamahuputty2012" />{{Rp|223}}
+
+Example (6) shows that the predicate consists of negator ''tara'' and ''ada'' resulting ''tara ada'' 'not present'. The predicate precede the subject ''aer'' 'water', therefore it has a predicate-subject construction of ''tara ada aer'' 'there is no water'.
+
+{{interlinear|number=(6)
+|[...] kolam mandi-mandi cuma '''tara''' '''ada''' '''aer'''.
+|{} pool REDUP-bathe only NEG exist water
+|[...] a bathing pool, but there was no water.<ref name="Litamahuputty2012" />{{Rp|223}}}}
+
+Example (7) has ''tarada'' as its predicate. The example consisted of two clauses, the first one ''samua tikus kacili'' 'all mice are small' which describes the size of the mice. The second clause consists of predicate ''tarada'' and ''yang basar'' 'big ones' (with the information from the previous clause, this refers to the mice). This also constructs a predicate-subject construction as found in example (6), which results ''tarada yang basar'' 'there are no big ones'.
+
+{{interlinear|number=(7)
+|samua tikus kacili '''tarada''' '''yang''' '''basar'''.
+|all mouse small NEG REL big
+|all mice are small, there are no big ones.<ref name="Litamahuputty2012" />{{Rp|223}}}}
+
+''tarada'' could also act as the negative response to questions, this function could be applied to example (8). In this example, the speaker gives two alternatives of the possible results of a soccer player kicking a ball. The first alternative is that there would be a ''gol'' 'goal', while the second one there wouldn't ''tarada'' 'not (present)'. ''tarada'' 'no' could be used give this question a negative answer.<ref name="Litamahuputty2012" />{{Rp|223}}   
+
+{{interlinear|number=(8)
+|gol ka '''tarada'''?
+|goal or NEG
+|would there be a goal or not? <ref name="Litamahuputty2012" />{{Rp|224}}}}
+
+''tar'' is another variation of ''tara'', which is a shorten form of it. ''tar'' can immediately precede a predicate and no other lexical material can intervene. It seems that ''tar'' is in a progress of becoming a bound element ''tar-'' to express negation.<ref name="Litamahuputty2012" />{{Rp|224}}
+
+Example (9) shows the use of ''tar'' as the shortened form of ''tara'' in the predicate which is then followed by ''tau'' 'know'. This results ''tar tau'' ' not know'.
+
+{{interlinear|number=(9)
+|Allah, tong '''tar''' '''tau'''.
+|Allah 1PL NEG know
+|oh my God, we didn't know that.<ref name="Litamahuputty2012" />{{Rp|224}}}}
+
+==== Negator ''bukang'' ====
+Negator ''bukang'' means 'not A, (but B)', it implies that the opposite or the alternative of the expressed is prominent. It is not obligatory to overtly express the opposite or alternative.<ref name="Litamahuputty2012" />{{Rp|224}}
+
+Example (10) has a story of a man to be mistaken as a porter, therefore he explained that he was not. The example has negator ''bukang'' preceding ''ana-ana baangka'' 'porter', this results ''bukang ana-ana baangka'' 'not a porter'. In this example, ''ana-ana baangka'' is the negated scope.
+
+{{interlinear|number=(10)
+|saya tara... '''bukang''' ana-ana ba-angka."
+|1SG NEG NEG PL-child DUR-lift.up
+|I'm no..., I'm not a porter."<ref name="Litamahuputty2012" />{{Rp|225}}}}
+
+Different from example (10) that doesn't imply explicitly the alternative or opposite, example (11) states clearly the alternative of the negated thing. Example (11) has a story of someone asking the speaker if there is actually a snake in his garden. The speaker then answer the question using ''bukang'' which negates ''di atas'', ''di atas'' refers to  a location on the hill. The alternative or the opposite is stated as ''di bawa barangka'' 'at the lower part, at the ditch'.<ref name="Litamahuputty2012" />{{Rp|225}}
+
+{{interlinear|number=(11)
+|ada, tapi '''bukang''' di atas, di bawah barangka.
+|be.present but NEG in top in bottom ditch
+|yes, there are, not up the hill, but down at the ditch.<ref name="Litamahuputty2012" />{{Rp|225}}}}
+
+Example (12) displays a case where ''bukang'' negates a clause. The story of example (12) is about a boat that seem to be moving by itself, which then the real cause is explained. ''bukang'' precedes ''dong panggayung'' 'they paddle' in order to perform negation. The alternative, which in this case is the real reason of the situation, is stated as ''ikang kase lari dong parao'' 'a fish takes away their boat'. The negation scope in this example is on the people who paddle the boat, because it was actually the fish that moved the boat instead of the people.<ref name="Litamahuputty2012" />{{Rp|225}}
+
+{{interlinear|number=(12)
+|padahal '''bukang''' dong panggayung...
+|whereas NEG 3PL paddle
+|while they're not paddling...<ref name="Litamahuputty2012" />{{RP|225}}}}
+
+{{interlinear|number=(12)
+|ikang kase lari dong parao, ikang basar.
+|fish give run 3PL boat fish big
+|a fish is taking away their boat, a big fish.<ref name="Litamahuputty2012" />{{Rp|225}}}}
+
+== List of abbreviations ==
+{| class="wikitable"
+|'''Gloss'''
+|'''Meaning'''
+|-
+|1
+|first person
+|-
+|2
+|second person
+|-
+|3
+|third person
+|-
+|DUR
+|durative aspect, continuous aspect
+|-
+|EXCL
+|exclusive
+|-
+|NEG
+|negation, negative
+|-
+|PART
+|participle, particle, partitive case
+|-
+|PL
+|plural
+|-
+|POSS
+|possessive
+|-
+|REDUP
+|reduplication 
+|-
+|REL
+|relative(izer)
+|-
+|SG
+|singular
+|}
+
+==See also==
+{{Incubator|code=max}}
+*[[Ambonese Malay]]
+*[[Papuan Malay]]
+*[[Serui Malay]]
+
+== References ==
+<references/>
+
+{{Languages of Indonesia}}
+
+{{DEFAULTSORT:Malay, Maluku, Language}}
+[[Category:Agglutinative languages]]
+[[Category:Malay-based pidgins and creoles]]
+[[Category:Languages of Indonesia]]
+[[Category:North Maluku]]

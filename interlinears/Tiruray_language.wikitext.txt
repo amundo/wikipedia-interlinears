@@ -1,0 +1,248 @@
+{{short description|Austronesian language spoken in the Philippines}}
+{{Infobox language
+|name=Tiruray
+|altname= Teduray
+|ethnicity=[[Teduray people]]
+|region=[[Mindanao]]
+|states=[[Philippines]]
+|speakers=50,000
+|date=2002
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Philippine languages|Philippine]]
+|fam4=[[South Mindanao languages|South Mindanao]]
+|iso3=tiy
+|glotto=tiru1241
+|glottorefname=Tiruray
+}}
+
+'''Tiruray''' or '''Teduray''' is an [[Austronesian language]] of the southern Philippines. Tiruray is spoken in [[Datu Blah T. Sinsuat, Maguindanao|Datu Blah T. Sinsuat]], [[Upi, Maguindanao|Upi]], the [[South Upi, Maguindanao|South Upi]] municipalities, southwestern [[Maguindanao Province]], [[Lebak, Sultan Kudarat|Lebak]] municipality, and northwestern [[Sultan Kudarat Province]].<ref>Ethnologue</ref> In 1892, P. Guillermo Benassar published a Spanish–Tiruray dictionary.
+
+== Alphabet ==
+The Tiruray alphabet is not in any particular order, but the lexicon uses 22 letters in the following order: ˀ, a, b, k, d, e, é, f, g, h, i, l, m, n, ŋ, o, r, s, t, u, w, and y.<ref name="Schlegel 1971">{{harvp|Schlegel|1971}}</ref>
+
+== Phonology ==
+Two features set the Tiruray language apart from other Austronesian languages of the area. The first is a six-vowel system, and the second is the lack of a bilabial stop, but the presence of a bilabial fricative in its place.<ref name="Schlegel 1971" /><ref name=":0">{{Harvp|Blust|1992}}</ref> 
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" |
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+|
+| {{IPA link|ŋ}}
+|
+|-
+! rowspan="2" | [[Stop consonant|Stop]]
+! <small>Voiceless</small>
+|
+| {{IPA link|t}}
+|
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! <small>Voiced</small>
+| {{IPA link|b}}
+| {{IPA link|d}}
+|
+| {{IPA link|g}}
+|
+|-
+! colspan="2" | [[Fricative]]
+| {{IPA link|ɸ}}
+| {{IPA link|s}}
+|
+| {{IPA link|h}}
+|
+|-
+! colspan="2" | [[Lateral consonant|Lateral]]
+|
+| {{IPA link|l}}
+|
+|
+|
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+|
+| {{IPA link|r}} ~ {{IPA link|ɾ}}
+|
+|
+|
+|-
+! colspan="2" | [[Glide consonant|Glide]]
+| {{IPA link|w}}
+|
+| {{IPA link|j}}
+|
+|
+|}
+
+=== Vowels ===
+The Tiruray language has six vowel phonemes. These are split into three categories: front vowels, middle vowels, and back vowels.<ref name="Schlegel 1971" /><ref name=":0">{{Harvp|Blust|1992}}</ref> 
+{| class="wikitable"
+|+Tiruray vowels
+!
+!Front
+!Mid
+!Back
+|-
+!High
+|i
+|ɨ
+|u
+|-
+!Mid
+|e
+|
+|o
+|-
+!Low
+|
+|a
+|
+|}
+
+The vowels /a, i, e/ have allophones used before the /t, k/, voiced stops, nasals, /l/, and /r/ in closed syllables.
+
+=== Syllables ===
+Tiruray does not allow vowel sequences. The syllable structure is CVC or CV. The majority of word bases in Tiruray have two syllables, but stems may have from one to five syllables. Adding affixes, a word can consist of as many as eight syllables.
+
+There is no restriction on consonants used in a word as long as the word follows the CVC or CV structure. However, the letters /w/ and /y/ never follow after /i/, and same rule applies to /w/ after /u/.<ref name="Schlegel 1971" />
+
+=== Stress ===
+The primary word stress is placed on the ante-penultimate (third from the last syllable) or the penultimate (second to the last syllable) of a word with four syllables or more. Secondary stress is present on polysyllabic words, preceding the primary stress by two syllables. Stress is non-contrastive and non-phonetic.<ref name="Schlegel 1971" />
+
+== Morphology ==
+
+=== Nouns ===
+Singular nouns are followed by ''é'' and plural nouns are preceded by ''de'' instead. This is exemplified below:<ref name="Pilongo 1977">{{harvp|Pilongo|1977}}</ref>
+
+{{interlinear|indent=3
+|Mitem i rawen é.
+|black ?? cloud N.SG
+|'The cloud is black.'}}
+
+{{interlinear|indent=3
+|Mitem i de rawen.
+|black ?? N.PL cloud
+|'The clouds are black.'}}
+
+=== Verbs ===
+The Tiruray verbs consist of an affix and verb base. Verbs are split into three categories numbered 1, 2, and 3.
+
+Verbs that are accepted in a case frame having an objective actant are classed as verb 1. <ref name="Pilongo 1977" /> An example of this is the following:
+
+{{interlinear|indent=3
+|Menley u beˀ sabon
+|bought I ??  soap
+|'I bought soap.'}}
+
+Verbs of type Verb 2 do not require an objective actant in the case frame.<ref name="Pilongo 1977" /> An example of Verb 2 is the following:
+
+{{interlinear|indent=3
+|Lementu u.
+|run     I
+|'I am running.'}}
+
+Verb 3 refers to the verbs that accept affixes and are verbalized. Verb 3 is divided into Verb 3a and 3b. Verb 3a are those verbalized nouns that do not need any agent actant. Examples of such nouns are ''ranaˀ'' 'rain' and ''lubaˀ'' 'earthquake'. Verbs that accept affirmation aside from those mentioned above are Verb 3b, and they can occur with actants. Examples of the type Verb 3 are ''enintura'' 'painted' is derived from the noun root ''fintura'' 'paint', and ''melansa'' 'ironing' is derived from the noun root ''felansa'' 'flat iron'.<ref name="Pilongo 1977" />
+
+== Actant ==
+An actant is any constituent which can enter a case relationship with the verb. Tiruray distinguishes six types of actants: Agent, Object, Dative, Benefactive, Instrument, and Locative.<ref name="Pilongo 1977" /> 
+
+=== Agent ===
+The Agent is the source responsible for the action identified by the verb or the perceived instigator of the action identified by the verb.<ref name="Pilongo 1977" />
+
+{{interlinear|indent=3
+|Basae ''i'' ''Rosa'' ''é'' i libro é
+|read    ?? Rosa N.SG ?? book N.SG
+|'Rosa reads the book.'}}
+
+=== Object ===
+The Object refers to the things or persons affected by the action or state identified by the verb.<ref name="Pilongo 1977" />
+
+{{interlinear|indent=3
+|Menuwit i Maria é ''beˀ'' ''kaˀan'' ''é'' ''ˀeŋaˀ''.
+|brought ?? Maria N.SG her child N.SG ??
+|'Maria brought her child.'}}
+
+=== Benefactive ===
+This is the case of the animate being for whom an action chosen by the verb is carried out, or the case of the animate being for whom an object specified in the Proposition is intended or reserved.<ref name="Pilongo 1977" />
+
+{{interlinear|indent=3
+|Menley u safiyu ''fara'' ''ka'' ''Marina'' é.
+|bought I hat for ??   Marina N.SG
+|'I bought a hat for Marina.'}}
+
+=== Locative ===
+The locative indicates the spatial orientation of the action or state identified by the verb.<ref name="Pilongo 1977" />
+
+{{interlinear|indent=3
+|Semayaw i ˀeŋaˀ é ''dob'' ''beˀ'' ''ˀiroˀo'' ''mo'' ''é''.
+|jump  ?? child N.SG ?? ??   bed your N.SG
+|'The child is jumping in your bed.'}}
+
+=== Dative ===
+This is the case of the animate being directly affected by the action or the state identified by the verb.<ref name="Pilongo 1977" />
+
+{{interlinear|indent=3
+|Semulat i Linda é dob beˀ ˀideŋ no é beˀ bayuk.
+|write ??  Linda N.SG ?? ?? mother her N.SG ?? poem
+|'Linda writes her mother a poem.'}}
+
+=== Instrument ===
+This marks the actant which expresses the object or being which is used as an instrument or means in carrying out the action or state identified by the verb.<ref name="Pilongo 1977" /> 
+
+{{interlinear|indent=3
+|Benaˀus ku i ˀeŋaˀ é ''beˀ'' ''mot'' ''é''.
+|wrapped I ?? child N.SG ?? blanket N.SG
+|'I wrapped the child with the blanket.'}}
+
+== Syntax ==
+=== Word order ===
+In the basic word order the predicate followed by the series of NPs. The agentive or objective actant follows immediately after the predicate. When the agent is the topic, the agentive and objective actants may be changed without causing any semantic change.<ref name="Pilongo 1977" />
+
+{{interlinear|indent=3
+|top='''Verb,     Agent,     Objective'''
+|[Miber] [i ˀeŋaˀ é] [beˀ batew é].
+|[throw] [?? child N.SG] [?? stone N.SG]
+|'The child throws the stone.'}}
+
+{{interlinear|indent=3
+|top='''Verb      Objective      Agent'''
+|[Miber] [beˀ batew é] [i ˀeŋaˀ é].
+|Throw [?? stone N.SG] [?? child N.SG]
+|'The child throws the stone.'}}
+
+Both of these forms are grammatical provided this sentence and subject matter. In all other cases, any topicalized actant follows the agent.
+
+== Loanwords ==
+The Tiruray people have adopted words from different places and though not all have been confirmed, according to the Tiruray speakers themselves the sources of the loans are Chinese, English, Hiligaynon, Maguindanao, Spanish, and Tagalog. These are the confirmed languages as given by the opinions of the Tiruray speakers. One language not listed as a source is Sanskrit, but suggested lexical items are perceived as native words by the speakers. Although some words are also borrowed from Arabic, these entered through Maguindanao.<ref name="Schlegel 1971" />
+
+==References==
+{{Reflist}}
+
+==Further reading== 
+{{refbegin}}
+* {{Cite book |last=Blust |first=Robert |title=Papers in Austronesian Linguistics 2 |date=1992 |publisher=Research School of Pacific and Asian Studies, Australian National University |editor-last=Ross |editor-first=Malcolm D. |location=Canberra |pages=1–52 |chapter=On Speech Strata in Tiruray |doi=10.15144/PL-A82.1 |hdl=1885/253610 |doi-access=free |hdl-access=free}}
+* {{Citation |last=Pilongo |first=Filomena Emnace |title=Tiruray: Its Syntactic Structures |date=1977 |mode=cs1}}. Print.
+* {{Cite book |last=Schlegel |first=Stuart A. |title=Tiruray-English Lexicon |date=1971 |publisher=University of California Press |location=Berkeley}}
+{{refend}}
+
+{{Philippine languages}}
+{{Austronesian languages}}
+{{Languages of the Philippines}}
+
+[[Category:Languages of Cotabato]]
+[[Category:Languages of Sultan Kudarat]]
+[[Category:South Mindanao languages]]
+
+{{philippine-lang-stub}}

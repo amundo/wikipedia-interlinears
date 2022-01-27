@@ -1,0 +1,220 @@
+{{Short description|Austronesian language of the Savu people in Indonesia}}
+{{distinguish|Havu language|Habu language}}
+{{Infobox language
+|name=Hawu
+|altname=Sabu
+|pronunciation={{IPA|[ˈhavu]}}
+|region=[[Lesser Sunda Islands]]
+|states=[[Indonesia]]
+|speakers=110,000 
+|date=1997
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Sumba–Flores languages|Sumba–Flores]] 
+|fam4=[[Sumba–Hawu languages|Sumba–Hawu]] 
+|fam5=[[Savu languages|Savu]]
+|dia1=Seba (Həɓa)
+|dia2=Timu (Dimu)
+|dia3=Liae
+|dia4=Mesara (Mehara)
+|dia5=Raijua (Raidjua)
+|iso3=hvn
+|glotto=sabu1255
+|glottorefname=Hawu
+|notice=IPA
+|map=Oost-NussaTenggara.png
+|mapcaption=location of the islands of [[Savu Island|Savu]] (Savoe) and [[Raijua Island|Raijua]] in Indonesia 
+}}
+
+The '''Hawu''' language (Hawu: ''Lii Hawu'') is the language of the [[Savu people]] of [[Savu Island]] in Indonesia and of [[Raijua Island]] off the western tip of Savu. Hawu has been referred to by a variety of names such as '''Havu''', '''Savu, Sabu,  Sawu,''' and is known to outsiders as '''Savu''' or '''Sabu''' (thus '''Havunese, Savunese, Sawunese''').<ref name=":0">Walker, Alan T. (1982). A grammar of Sawu. Jakarta: Badan Penyelenggara Seri NUSA, Universitas Atma Jaya.</ref><ref name=":1">{{Cite journal|last=Vaughan|first=Anthony R.|date=2020|title=Finding Hawu: Legacy data, finding aids and the Alan T. Walker Digital Language Collection|url=http://scholarspace.manoa.hawaii.edu/handle/10125/24925|journal=Language Documentation & Conservation|language=en-US|volume=14|pages=357–422|issn=1934-5275}}</ref> Hawu belongs to the [[Malayo-Polynesian languages|Malayo-Polynesian]] branch of the [[Austronesian languages|Austronesian]] language family, and is most closely related to [[Dhao language|Dhao]] (spoken on Rote) and the languages of [[Sumba]].<ref>{{Cite journal|last=Blust|first=Robert|title=Is there a Bima-Sumba subgroup?|journal=Oceanic Linguistics|pages=45–113}}</ref> Dhao was once considered a dialect of Hawu, but the two languages are not [[mutually intelligible]].<ref name="Grimes2">{{Cite conference|last=Grimes|first=Charles E.|date=2006|title=Hawu and Dhao in eastern Indonesia: revisiting their relationship|url=https://www.sil.org/system/files/reapdata/15/16/10/151610193548557560804873170595354028095/Grimes_Hawu_Dhao.pdf|conference=10th International Conference on Austronesian Linguistics, Puerto Princessa, Philippines, 17–20 January 2006}}</ref>
+
+==Dialects==
+The Seba (''Mèb'a'' in Hawu) dialect is dominant, covering most of Savu Island and the main city of [[Seba, Indonesia|Seba]]. Timu (''Dimu'' in Hawu) is spoken in the east, Mesara (''Mehara'' in Hawu) in the west, and Liae on the southern tip of the island. Raijua is spoken on the island of the same name (''Rai Jua'' 'Jua Island'), just off-shore to the west of Savu.<ref name=":0" />
+
+==Linguistic Structure==
+The following description is based on Walker (1982) and Grimes (2006).
+
+=== Phonology ===
+Hawu shares [[implosive consonant|implosive]] (or perhaps [[Pre-glottalization|pre-glottalized]]) consonants with the [[Bima–Sumba languages]] and languages of [[Sumba–Flores languages|Flores]] and [[Celebic languages|Sulawesi]], such [[Wolio language|Wolio]].
+
+Hawu *s, attested during the [[The Portuguese in Indonesia|Portuguese colonial era]], has shifted to {{IPA|/h/}}, a change that has not happened in Dhao. The Hawu consonant inventory is smaller than that of Dhao:
+
+{| class="wikitable IPA"
+! !!Lab.!!Apic.!!Lam.!!Vel.!!Glot.
+|-
+|Nasal||m||n||ɲ||ŋ||
+|-
+|Voiceless stop||p||t|| ||k||ʔ
+|-
+|Voiced stop||b||d||dʒ||ɡ||
+|-
+|Implosive||ɓ||ɗ||ʄ||ɠ||
+|-
+|Fricative||v~β|| || || ||h
+|-
+|Approximant|| ||l, r||(j)|| 
+|}
+Consonants of the {{IPA|/n/}} column are [[apical consonant|apical]], those of the {{IPA|/ɲ/}} column [[laminal consonant|laminal]]. In common orthography, the implosives are written {{angle bracket|b', d', j', g'}}. {{angle bracket|w}} is pronounced {{IPA|[v]}} or {{IPA|[β]}}. A wye sound {{IPA|/j/}} (written {{angle bracket|y}}) is found at the beginning of some words in Seba dialect where Timu and Raijua dialects have {{IPA|/ʄ/}}.
+
+Vowels are {{IPA|/i u e ə o a/}}, with {{IPA|/ə/}} written {{angle bracket|è}} in common orthography. Phonetic long vowels and diphthongs are vowel sequences. The penultimate syllable/vowel is stressed. (Every vowel constitutes a syllable.) A stressed schwa lengthens the following consonant:
+
+{{IPA|/ŋa/ [ŋa]}} 'with', {{IPA|/niŋaa/ [niˈŋaː]}} 'what?', {{IPA|/ŋaʔa/ [ˈŋaʔa]}} 'eat, food', {{IPA|/ŋali/ [ˈŋali]}} 'senile', {{IPA|/ŋəlu/ [ˈŋəlːu]}} 'wind'.
+
+Syllables are consonant-vowel (CV) or vowel-only (V).
+
+====Historical vowel metathesis====
+
+The phonological history of Hawu is characterized by an unusual, but fully regular vowel [[Metathesis (linguistics)|metathesis]], which affects the [[Proto-Malayo-Polynesian language|Proto-Malayo-Polynesian]] (PMP) vowel sequences *uCa/*uCə and *iCa/*iCə. The former changes into ''əCu'', the latter into ''əCi'', as illustrated in the following table.<ref>{{Cite journal |last=Blust |first=Robert |date=2012 |title=Hawu Vowel Metathesis |journal=Oceanic Linguistics |volume=51 |issue=1 |pages=207–233 |jstor=23321852}}</ref>
+
+{| class="wikitable Vowel Metathesis"
+!PMP!!Hawu!!Gloss
+|-
+|*buta || ''ɓədu'' ||blind
+|-
+|*Rumaq || ''əmu'' ||house
+|-
+|*um-utaq || ''mədu'' ||to vomit
+|-
+|*qulun-an || ''nəlu'' ||headrest
+|-
+|*ŋuda|| ''ŋəru'' ||young
+|-
+|*bulan || ''wəru'' ||moon, month
+|-
+|*pusəj || ''əhu'' ||navel
+|-
+|*kudən || ''əru'' ||cooking pot
+|-
+|*lima || ''ləmi'' || five
+|-
+|*pija || ''əri'' || how many
+|-
+|*ma-qitəm || ''mədi'' || five
+|}
+
+===Grammar===
+Hawu is an [[ergative–absolutive language]] with ergative preposition ''ri'' (Seba dialect), ''ro'' (Dimu), or ''la'' (Raijua).<ref name="Grimes">{{Cite conference|last=Grimes|first=Charles E.|date=2006|title=Hawu and Dhao in eastern Indonesia: revisiting their relationship|url=https://www.sil.org/system/files/reapdata/15/16/10/151610193548557560804873170595354028095/Grimes_Hawu_Dhao.pdf|conference=10th International Conference on Austronesian Linguistics, Puerto Princessa, Philippines, 17–20 January 2006}}</ref> Clauses are usually [[verb-initial]]. However, the presence of the ergative preposition allows for a freer word order.  Among monovalent verbs, S may occur before or after the verb. According to speakers, there is no difference in meaning between the two following constructions.
+
+{{interlinear|number=SV
+|jaa bəʔi
+|1SG sleep
+|'I sleep.'}}
+
+{{interlinear|number=VS
+|bəʔi jaa
+|sleep 1SG
+|'I sleep.'}}
+
+In the absence of the ergative preposition, bivalent constructions have strict AVO word order.
+
+{{interlinear|number=AVO
+|Haʔe ta ngaʔa terae
+|Hae NPST eat sorghum
+|'Hae eats sorghum.'}}
+
+When the ergative preposition is present, word order becomes quite free. In addition, with the presence of the ergative preposition, many transitive verbs have a special form to indicate singular number of the [[object (grammar)|object]] by replacing the final vowel of the verb with "-e" when the verb ends in /i/, /o/, or /a/ (e.g.  ''ɓudʒu'' 'touch them', ''ɓudʒe'' 'touch it') or "-o" when the verb ends in /u/ (''bəlu, bəlo'' 'to forget'). Verbs that end in /e/ have no alternation. The following examples (from the Seba dialect) present a few of the word order options available, and also show the alternation of the verb ''nga'a'' 'to eat' to ''nga'e'' when ''ri'' is present.<ref>{{Cite book|last=Walker|first=Alan|title=A Grammar of Sawu|publisher=NUSA|year=1982}}</ref>
+
+{{interlinear|number=OVA
+|Terae ngaʔe ri Haʔe
+|sorghum eat ERG Hae
+|'Hae eats sorghum.'}}
+
+{{interlinear|number=VAO
+|Ngaʔe ri Haʔe terae nane
+|eat ERG Hae sorghum DEM
+|'Hae eats sorghum.'}}
+
+Within noun phrases, modifiers usually follow the noun, though there are some possibly lexicalized exceptions, such as ''ae dəu'' 'many people' (compare Dhao ''{{IPA|ɖʐəu ae}}'' 'people many').
+
+Apart from this, and unlike in Dhao, all pronominal reference uses independent pronouns. These are:
+
+{|class="wikitable IPA"
+|-
+!rowspan=2|I
+|rowspan=2|<small>Seba:</small> jaa <br /><small>Dimu:</small> ʄaa <br /><small>Raijua:</small> ʄaa, dʒoo
+!we ([[clusivity|incl]])
+|dii
+|-
+!we ([[clusivity|excl]])
+|ʄii
+|-
+!you (sg.)
+|əu, au, ou
+!you (pl.)
+|muu
+|-
+!s/he
+|noo
+!they
+|roo <br /><small>Raijua:</small> naa
+|}
+
+The demonstratives are complex and poorly understood. They may be contrasted by number (see Walker 1982), but it is not confirmed by Grimes. 
+{|class="wikitable IPA"
+|-
+!just this
+|ɗii
+|-
+!this
+|nee
+|-
+!the
+|əne, ne
+|-
+!that
+|nəi
+|-
+!yon
+|nii
+|}
+These can be made locative (here, now, there, then, yonder) by preceding the ''n'' forms with ''na''; the neutral form ''na əne'' optionally contracting to ''nəne''. 'Like this/that' is marked with ''mi'' or ''mi na'', with the ''n'' becoming ''h'' and the neutral ''əne'' form appearing irregularly as ''mi (na) həre''.
+
+Sample clauses (Grimes 2006). (Compare the Dhao equivalents at [[Dhao language#Grammar]].)
+
+{{interlinear|number=ex:
+|ta nəru ke Simo oro ŋidi dahi.
+|NPST? walk ? (name) along edge sea
+|'Simo was walking along the edge of the sea.'}}
+
+{{interlinear|number=ex:
+|ta nəru ke roo teruu la Həɓa.
+|NPST? walk (?) they cont. to Seba
+|'They kept walking to Seba.'}}
+
+{{interlinear|number=ex:
+|ta la əte ke ri roo ne kətu noo.
+|NPST? go {cut off} (?) ERG they the head he/his
+|'They went and cut off his head.'}}
+
+{{interlinear|number=ex:
+|tapulara pe-made noo ri roo.
+|but CAUS-die he ERG they
+|'But they killed him.'}}
+
+{{interlinear|number=ex:
+|ki made ama noo,
+|if/when die father he/his
+|'When his father dies,'}}
+
+{{interlinear|number=ex:
+|ɗai təra noo ne rui.
+|very much he the strong
+|'He was incredibly strong.'}}
+
+== Language Resources ==
+The Alan T. Walker Collection<ref>{{Cite web|title=Nabu - Alan Walker's Sabu materials|url=https://catalog.paradisec.org.au/collections/AW2|access-date=2021-06-09|website=catalog.paradisec.org.au}}</ref> contains a number of resources produced through Hawu language documentation, including audio recordings, handwritten field notes, and narrative texts. An accompanying ''Finding Aid and Inventory''<ref name=":1" /> was created for the collection in order to more easily navigate its contents in the [https://www.paradisec.org.au PARADISEC] archive.
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{Cite book |title=New Guinea Area Languages and Language Study |last=Capell |first=Arthur |publisher=Pacific Linguisticss, The Australian National University |year=1975 |editor-last=Wurm |editor-first=S.A. |volume=1: Papuan Languages and the New Guinea Linguistic Scene |location=Canberra |pages=667–716 |chapter=The "West Papuan Phylum": General, and Timor and Areas Further West |doi=10.15144/PL-C38 |hdl=1885/145150 |author-link=Arthur Capell |doi-access=free |hdl-access=free}}
+* {{Cite book |title=A Grammar of Sawu |last=Walker |first=Alan T. |publisher=Badan Penyelenggara Seri Nusa, Universitas Atma Jaya |year=1982 |series=NUSA Linguistic Studies in Indonesian and Languages of Indonesia, Volume 13 |location=Jakarta |hdl=1885/111434 |issn=0126-2874  |hdl-access=free  }}
+
+{{Central Malayo-Polynesian languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Savu languages]]
+[[Category:Languages of Indonesia]]

@@ -1,0 +1,523 @@
+{{Infobox language
+|name        = Kâte
+|pronunciation = {{IPA-all|kɔtɛ|}}
+|states      = [[Papua New Guinea]]
+|region      = [[Huon Peninsula]], [[Morobe Province]]
+|speakers    = 20,000
+|date        = 2011
+|ref=e18
+|familycolor = Papuan
+|fam1        = [[Trans–New Guinea languages|Trans–New Guinea]]
+|fam2        = [[Finisterre–Huon languages|Finisterre–Huon]]
+|fam3        = [[Huon languages|Huon]]
+|fam4        = Eastern Huon
+|script      = Latin
+|iso3        = kmg
+|glotto=kate1253
+|glottorefname=Kate
+}}
+
+'''Kâte''' is a [[Papuan languages|Papuan language]] spoken by about 6,000 people in the [[Finschhafen]] District of [[Morobe Province]], [[Papua New Guinea]]. It is part of the [[Finisterre–Huon]] branch of the [[Trans–New Guinea languages|Trans–New Guinea]] language family (McElhanon 1975, Ross 2005). It was adopted for teaching and mission work among speakers of Papuan languages by the [[Evangelical Lutheran Church of Papua New Guinea]] in the early 1900s and at one time had as many as 80,000 second-language speakers.
+==Dialects==
+The name Kâte means 'forest', an [[epithet]] for the inlanders on the tip of the Huon peninsula, excepting the people living along the Mape River (Flierl and Strauss 1977). The coastal people to the south, mostly  speaking Jabêm, are called Hâwec 'sea' and those to the north, speaking Momare and Migabac, are called Sopâc 'grass'. These were geographical rather than language names. The indigenous glossonyms referred to smaller linguistics units that can be called dialects. McElhanon (1974: 16) identifies five dialects at the time of earliest mission contact in 1886, each named according to how they pronounce a common word or phrase.
+* Wana ('where?'), the southernmost dialect
+* Wamorâ ('why?')
+* Mâgobineng ('they are saying it') or Bamotâ ('why?'), nearly extinct in 1974
+* Parec, already extinct by 1974
+* Wemo ('what?') or Wena, adopted as the mission lingua franca 
+
+Wana and Wemo are nearly identical, but they differ considerably from Mâgobineng and Wamorâ, to such an extent that these might be considered to be three closely related languages. Parec was probably a transitional dialect between Wemo and Wamorâ. The Kâte dialects formed a chain with the neighboring Mape dialects. All dialects of the chain are being supplanted by Wemo (Suter 2014: 19).
+
+==Phonology==
+===Vowels (orthographic)===
+Kâte distinguishes six vowels. The low back vowel ''â'' (representing /ɔ/)<ref>{{Cite journal|last=Hitch|first=Doug|date=2017|title=Vowel spaces and systems|url=https://www.semanticscholar.org/paper/Vowel-spaces-and-systems-Hitch/2380e22ed1f8f65507a957a2fcb90f7f06643fa5|journal=Toronto Working Papers in Linguistics (TWPL)|volume=38|page=34|via=SemanticScholar}}</ref> sounds like the vowel of UK English ''law'' or ''saw'' (Pilhofer 1933: 14). Length is not distinctive.
+{| class="wikitable" style="text-align: center;"
+|-
+! 
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| i
+| u
+|-
+! [[Mid vowel|Mid]]
+| e
+| o
+|-
+! [[Low vowel|Low]]
+| a
+| â
+|}
+
+===Consonants (orthographic)===
+The glottal stop, written ''-c'', only occurs after a vowel and Pilhofer first describes it as a vowel feature that distinguishes, for instance, ''bo'' 'sugarcane' from ''boc'' 'very' and ''si'' 'planting' from ''sic'' 'broth'. However, McElhanon (1974) notes that final glottal stop is barely phonemic in the Wemo dialect, but corresponds to a wider variety of syllable-final consonants in Western [[Huon languages]] (''-p, -t, -k, -m, -n, -ŋ''), which are neutralized (to ''-c, -ŋ'') in the Eastern Huon languages, including Kâte. Pilhofer (1933) writes the lateral flap with an ''l'', but Schneuker (1962) and Flierl and Strauss (1977) write it with an ''r''. 
+
+The fricatives ''f'' and ''w'' are both labiodentals, according to Pilhofer (1933), but bilabials, according to Flierl and Strauss (1977). Alveopalatal ''z'' and ''ʒ'' are affricates, [ts] and [dz] respectively, but they otherwise pattern like the stops, except that ''z'' only occurs between vowels, while ''ʒ'' occurs morpheme-initially (Flierl and Strauss 1977: xv). Both Pilhofer (1933: 15) and Flierl and Strauss (1977) describe the labiovelars ''q'' and ''ɋ'' as coarticulated and simultaneously released [kp] and [gb], respectively. (The letter ''ɋ'' is a curly ''q'' with hooked tail that cannot properly be rendered if it is missing from system fonts.)
+{| class="wikitable" style="text-align: center;"
+! 
+! [[Labial consonant|Labial]]
+! [[Labial–velar consonant|Labiovelar]]
+! [[Dental consonant|Dental]]
+! [[Alveopalatal consonant|Alveopalatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Voiceless consonant|Voiceless stop]]
+| p 
+| q
+| t
+| -z-
+| k
+| -c
+|-
+! [[Voiced consonant|Voiced stop]]
+| b
+| ɋ
+| d
+| ʒ
+| g
+|
+|-
+! [[Prenasalized consonant|Prenasalized]]
+| mb
+| ŋɋ
+| nd
+| nʒ
+| ŋg
+|
+|-
+! [[Nasal stop|Nasal]]
+| m
+|
+| n
+|
+| ŋ
+|
+|-
+! [[Fricative consonant|Voiceless fricative]]
+| f
+|
+| 
+| s
+|
+| h
+|-
+! [[Fricative consonant|Voiced fricative]]
+| w
+|
+| 
+| 
+|
+| 
+|-
+! [[Liquid consonant|Liquid]]
+|
+| 
+| r
+|
+|
+| 
+|-
+! [[Approximant consonant|Approximant]]
+|
+| 
+|
+| j
+|
+| 
+|-
+|}
+
+==Morphology==
+===Pronouns===
+====Free pronouns====
+Unlike pronouns in most Papuan languages, Kâte free pronouns distinguish [[Inclusive and exclusive we|inclusive and exclusive]] in the 1st person, presumably due to [[Austronesian languages|Austronesian]] influence. However, this distinction is not maintained in pronominal affixes. The table of free pronouns is from Pilhofer (1933: 51-52). Personal pronouns are only used to refer to animate beings. Demonstratives are used to refer to inanimates.
+
+Like nouns, free pronouns can occur in subject or object positions in clauses, although the longer form of the singular pronouns (''noni, goki, eki'') can only occur in subject position (Schneuker 1962: 28). Like nouns, free pronouns can also occur with directional affixes and case-marking postpositions, as in ''no-raonec'' 'from me'. ''go-raopec'' 'toward you', ''nâhe-hec'' 'with him and me', ''jaŋe tâmiric'' 'without them'. The forms in parentheses ending in ''-c'' are "emphatic pronouns" and can be added to regular pronouns, as in ''go gahac'' 'you yourself' or ''jahe jahac'' 'they themselves'.
+
+The free pronouns can also be appended to nouns to indicate
+# '''number''', as in ''ŋic jaŋe'' (man 3pl) 'the men' and ''qaqazu nâŋe'' (teacher 1pl) 'we teachers';
+# '''definiteness''', as in ''ŋokac e'' (woman 3sg) 'the woman';
+# '''person''', as in qaqazu-ge no (teacher-2sg 1sg) 'me your teacher'.
+
+A free pronoun coreferent with the head noun frequently marks the end of a [[relative clause]] and the resumption of the matrix sentence, as in:
+
+{{interlinear|indent=3
+|ŋic monda-o ware-wec e ʒira mi fo-wec
+|man Monday-on come-3SG.FPST 3SG here not sleep-3SG.FPST
+|'the man who came on Monday did not stay here'. (Schneuker 1962: 31-32)}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Free pronouns
+!
+! [[Grammatical number|Singular]]
+! [[Grammatical number|Dual]]
+! [[Grammatical number|Plural]]
+|-
+! [[Inclusive and exclusive we|1st person exclusive]]
+| no(ni) (nahac)
+| nâhe (nâhâc)
+| nâŋe (nâŋâc)
+|-
+! [[Inclusive and exclusive we|1st person inclusive]]
+| 
+| nâhâc
+| nâŋâc
+|-
+! [[Grammatical person|2nd person]]
+| go(ki) (gahac)
+| ŋohe (ŋahac)
+| ŋoŋe (ŋaŋac)
+|-
+! [[Grammatical person|3rd person]]
+| e(ki) (jahac)
+| jahe (jahac)
+| jaŋe (jaŋac)
+|-
+|}
+
+====Genitive pronouns====
+Kâte has two types pronominal [[genitive]]s: possessive suffixes on nouns, and preposed free pronouns suffixed with ''-re'' after final vowels or ''-ne'' after forms ending in ''-c'' (glottal stop) (Pilhofer 1933: 54-57; Schneuker 1962: 27-32). The latter suffix resembles the invariable ''-ne'' that turns nouns into adjectives, as in ''opâ'' 'water' > ''opâ-ne'' 'watery', ''hulili'' 'rainbow' > ''hulili-ne'' 'rainbow-colored', ''hâmoc'' 'death' > ''hâmoc-ne'' 'dead', or ''fiuc'' 'theft' > ''fiuc-ne'' 'thievish' (Pilhofer 1933: 49). Examples of preposed possessive pronouns include ''no-re fic'' 'my house'; ''no nahac-ne fic'' 'my very own house'; ''e-re hâmu'' 'his/her coconut palm'; ''jaŋe-re wiak'' 'their concern/matter' (Schneuker 1962: 28).
+
+{| class="wikitable"
+|+ [[Possessive]] suffixes
+!  !! Singular !! Dual !! Plural
+|-
+| 1st person || -nane || -nâhec || -nâŋec
+|-
+| 2nd person || -ge || -ŋekic || -ŋeŋic
+|-
+| 3rd person || -ticne/-ne || -jekic || -jeŋic
+|}
+
+====Direct object suffixes====
+Direct object ([[accusative]]) suffixes come between verb stems and the subject-marking suffixes. Simple vowel-final verb stems are obligatorily affixed with ''-c'' before accusative suffixes, except when the 3rd person singular object suffix is zero. Compare ''mamac-zi hone-c-gu-wec'' 'father saw me' vs. ''mamac-zi hone-wec'' 'father saw him/her'. (Pilhofer 1933: 38-43; Schneuker 1962: 29-30)
+
+{| class="wikitable"
+|+ [[Accusative]] suffixes
+!  !! Singular !! Dual !! Plural
+|-
+| 1st person || -(c)nu- || -(c)nâfo- || -(c)nâpo-
+|-
+| 2nd person || -(c)gu- || -(c)ŋofa- || -(c)ŋopa-
+|-
+| 3rd person || - - || -(c)jofa- || -(c)jopa-
+|}
+
+{{interlinear|indent=3
+|Naru e ŋokac jajahec bafi-c-jofa-wec.
+|girl 3SG woman two help-c-3DU.ACC-3SG.FPST
+|'The girl helped two women.' (Schneuker 1962: 30)}}
+
+====Indirect object suffixes====
+Indirect object ([[dative]]) suffixes come between dative verb stems and the subject-marking suffixes (Pilhofer 1933: 40-43; Schneuker 1962: 30),
+
+{| class="wikitable"
+|+ [[Dative]] suffixes
+!  !! Singular !! Dual !! Plural
+|-
+| 1st person || -nare- || -nâcte- || -nâre-
+|-
+| 2nd person || -gare- || -ŋacte- || -ŋare-
+|-
+| 3rd person || -cne- || -jacte- || -jare-
+|}
+
+{{interlinear|indent=3
+|Neŋgoc-ge-zi nânâ ba-ware-gare-wec me?
+|mother-2SG-ERG food hold-come-2SG.DAT-3SG.FPST Q
+|Did your mother bring you some food?' (Schneuker 1962: 31)}}
+
+===Verb morphology===
+====Final (independent) verbs====
+Each finite independent verb is suffixed to show [[verb tense|tense]] and the [[grammatical person]] of the subject. There are five tense forms: [[present tense|present]], near [[preterite|past]], far past, [[near future tense|near future]], and far [[future tense|future]]. [[Animacy|Animate]] subjects are marked for three persons (1st, 2nd, 3rd) and three [[grammatical number|numbers]] (singular, dual, plural), although the same suffixes are used for both 2nd and 3rd person dual and plural. Inanimate subjects are only marked as 3rd person singular. Durative [[Tense-aspect-mood|aspect]] can be conveyed by adding ''-e-'' before the present tense marker or ''-ju-'' before the near past tense marker. Two [[hortative]] moods can be signaled by subtracting final ''-mu'' from the near future tense suffix (to elicit more immediate responses) or substituting a different but similar set of final subject markers (to elicit responses over longer-terms). (Pilhofer 1933: 26-32)
+
+{| class="wikitable"
+|+ Present tense (± durative -e-)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -(e)kopac || -(e)koperec || -(e)ŋgopeneŋ
+|-
+! 2nd person
+| -(e)komec/-kic || -(e)kopirec || -(e)ŋgopieŋ
+|-
+! 3rd person
+| -(e)kac || -(e)kopirec || -(e)ŋgopieŋ
+|}
+{| class="wikitable"
+|+ Near past tense (± durative -ju-)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -(ju)pac || -(ju)perec || -(ju)mbeneŋ
+|-
+! 2nd person
+| -(ju)mec || -(ju)pirec || -(ju)mbieŋ
+|-
+! 3rd person
+| -(ju)jec || -(ju)pirec || -(ju)mbieŋ
+|}
+{| class="wikitable"
+|+ Far past tense
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -po || -pec || -mbeŋ
+|-
+! 2nd person
+| -meŋ || -pic || -mbiŋ
+|-
+! 3rd person
+| -wec || -pic || -mbiŋ
+|}
+{| class="wikitable"
+|+ Near future tense (&gt; hortative without -mu)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -pe-mu || -nac-mu || -naŋ-mu
+|-
+! 2nd person
+| -c-mu || -nic-mu || -niŋ-mu
+|-
+! 3rd person
+| -oc-mu || -nic-mu || -niŋ-mu
+|}
+{| class="wikitable"
+|+ Far future tense (rarely used)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -zo-kopac || -zo-koperec || -nʒo-ŋgopeneŋ
+|-
+! 2nd person
+| -zo-komec/-zo-kic || -zo-kopirec || -nʒo-ŋgopieŋ
+|-
+! 3rd person
+| -zo-kac || -zo-kopirec || -nʒo-ŋgopieŋ
+|}
+{| class="wikitable"
+|+ Far future [[hortative]]
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -ze-pac || -ze-perec || -nʒe-peneŋ
+|-
+! 2nd person
+| -ze-mec || -ze-pirec || -nʒe-pieŋ
+|-
+! 3rd person
+| -ze-jec || -ze-pirec || -nʒe-pieŋ
+|}
+
+====Medial (dependent) verbs====
+Kâte displays canonical [[switch-reference]] (SR) verb morphology. Coordinate-dependent (clause-medial) verbs are not marked for tense (or mood), but only for whether their actions are sequential, simultaneous, or durative in relation to the next verb in the SR clause chain. If the subject is the same (SS) as that of the next verb, its person and number is not marked. Verbs are suffixed for person and number only when their subject changes (DS). One dependent verb may be marked for both Durative and Simultaneous if its duration is extended enough to overlap with the beginning of the event described by the next clause. (Pilhofer 1933: 35-36) The examples come from Schneuker (1962).
+
+{| class="wikitable"
+|+ Same-subject (SS) suffixes
+|-
+| Sequential (SEQ) || -râ
+|-
+| Simultaneous (SIM) || -huc
+|-
+| Durative (DUR) || -ku
+|}
+
+{{interlinear|indent=3
+|Hata-o ra-huc homa moc hone-po.
+|road-on go-SIM.SS snake one see-1SG.FPST
+|'Going along the road I saw a snake.' (1962: 98)}}
+
+{| class="wikitable"
+|+ Sequential subject-change (SeqDS)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -pe || -pere || -pene
+|-
+! 2nd person
+| -te || -pire || -pie
+|-
+! 3rd person
+| -me || -pire || -pie
+|}
+
+{{interlinear|indent=3
+|Hoe he-me gie behe-mbeneŋ.
+|rain hit-SEQ.3SG work abandon-1PL.PST
+|'We quit work when it rained.' (1962: 115)}}
+
+{| class="wikitable"
+|+ Simultaneous subject-change (SimDS)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -ha-pe || -ha-pere || -ha-pene
+|-
+! 2nd person
+| -ha(ŋ)-tec || -ha-pire || -ha-pie
+|-
+! 3rd person
+| -ha-me || -ha-pire || -ha-pie
+|}
+
+{{interlinear|indent=3
+|Go gie-o ju-haŋ-tec neŋgoc-ge-zi ware-jec.
+|2SG work-at stay-SIM-2SG mother-2SG-ERG come-3SG.PST
+|'Your mother came while you were at work.' (1962: 105)}}
+
+{| class="wikitable"
+|+ Durative subject-change (DurDS)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -ku-pe || -ku-pere || -ku-pene
+|-
+! 2nd person
+| -ku-te || -ku-pire || -ku-pie
+|-
+! 3rd person
+| -ku-me || -ku-pire || -ku-pie
+|}
+
+{{interlinear|indent=3
+|Hoe he-ku-me hata sâqore-wec.
+|rain hit-DUR-3SG road go.bad-3SG.FPST
+|'It rained a long time and the road became a mess.' (1962: 123)}}
+
+{| class="wikitable"
+|+ Durative/Simultaneous subject-change (DurSimDS)
+!  !! Singular !! Dual !! Plural
+|-
+! 1st person
+| -ku-ha-pe || -ku-ha-pere || -ku-ha-pene
+|-
+! 2nd person
+| -ku-ha-te || -ku-ha-pire || -ku-ha-pie
+|-
+! 3rd person
+| -ku-ha-me || -ku-ha-pire || -ku-ha-pie
+|}
+
+{{interlinear|indent=3
+|Woŋec ŋe-ku-ha-pe fisi-mbiŋ.
+|wait dwell-DUR-SIM-1SG arrive-3SG.FPST
+|'After I had been waiting a long time, he appeared.' (1933: 36)}}
+
+====Other verbal affixes====
+=====Adverbial affixes=====
+A small class of adverbial intensifying affixes can be added before final inflectional suffixes (Pilhofer 1933: 81-82). Examples include ''-fâre-'' 'all, together'; ''-jâmbâŋke-'' 'truly'; ''-hâmo-'' 'well, thoroughly'; ''saricke-'' 'well, skillfully'; ''sanaŋke-'' 'firmly, permanently'; ''-(b)ipie-'' 'futilely, in vain'. Sentence examples from Schneuker (1962: 154-158) follow.
+
+{{interlinear|indent=2|No motec jaza-fâre-pac|1SG boy tell-all-1SG.PST|'I told all the boys.'}}
+{{interlinear|indent=2|Motec jaŋe mamasiri e-jâmbâŋke-mbiŋ|boy 3PL play do-truly-3PL.FPST|'The boys really played.'}}
+{{interlinear|indent=2|Nânâ mi ʒâ-hâmo-kac|food not cook-thoroughly-3SG.PRES|'The food isn't cooked thoroughly.'}}
+{{interlinear|indent=2|Fic kecʒi-zi ŋe-sanaŋke-ocmu|house this-ERG last-permanently-3SG.FUT|'This house will last forever.'}}
+{{interlinear|indent=2|Soŋaŋ-zi dâŋ mu-ipie-wec|elder-ERG word speak-in.vain-3SG.FPST|'The elder spoke in vain.'}}
+
+==Evolution==
+{{see also|Finisterre–Huon languages#Evolution}}
+Below are some Kâte (Wemo dialect) reflexes of [[proto-Trans-New Guinea]] proposed by [[Andrew Pawley|Pawley]] (2012):<ref name="Pawley-pTNG">{{cite journal |last=Pawley |first=Andrew |author-link=Andrew Pawley |date=2012 |journal=History, Contact and Classification of Papuan Languages |issue=Language & Linguistics in Melanesia Special Issue 2012: Part I |issn=0023-1959 |publisher=Linguistic Society of Papua New Guinea |location=Port Moresby, Papua New Guinea |editor1-last=Hammarström |editor1-first=Harald |editor2-last=van den Heuvel |editor2-first=Wilco |title=How reconstructable is proto Trans New Guinea? Problems, progress, prospects |pages=88–164|hdl=1885/38602 }}</ref>
+
+{| class="wikitable sortable"
+! [[proto-Trans-New Guinea]] !! Kâte (Wemo dialect)
+|-
+| *ma- ‘NEG clitic’ || mi
+|-
+| *masi ‘orphan’ || mɔsiŋ
+|-
+| *me(l,n)e ‘tongue’ || (na)meŋ
+|-
+| *mundun ‘internal organs’ || munduŋ ‘egg’
+|-
+| *mV(k,ŋ)V[C] + t(e,i)- ‘vomit’ || maŋuzo
+|-
+| *(m,mb)elak ‘light, lightning’ || bɔriʔ ‘glitter, flash of lightning, etc.’
+|-
+| *amu ‘breast’ || ameʔ
+|-
+| *[nd,s]umu[n,t]V ‘hair’ || tsiminuŋ ‘stiff coarse hair’
+|-
+| *kumV- ‘die’ || hɔmozo
+|-
+| *(n)iman ‘louse’ || imeŋ
+|-
+| *na ‘1SG’ || no
+|-
+| *na- ‘eat’ || nɔ-
+|-
+| *ni ‘1PL’ || ne(n) ‘1PL’, ne(t) ‘2DL’
+|-
+| *kan(a,e)ne ‘left (side)’ || (?) kpana
+|-
+| *mundun ‘internal organs’ || munduŋ ‘egg’
+|-
+| *mbalaŋ ‘flame’ || bɔruŋ
+|-
+| *mb(i,u)t(i,u)C ‘fingernail’ || butoŋ
+|-
+| *mbeŋga(-masi) ‘orphan’ || bekɔ ‘widow and child’
+|-
+| *sambV ‘cloud’ || sambɔŋ ‘sky’
+|-
+| *mbena ‘arm’ || me
+|-
+| *(mb,p)ututu- ‘to fly’ || (?) fururuʔ
+|-
+| *si(mb,p)at[V] ‘saliva’ || tofeʔ
+|-
+| *tVk- ‘cut, cut off’ || tɔʔ(ne)
+|-
+| *(nd,t)a- ‘take’ || lomedial
+|-
+| *mundun ‘internal organs’ || munduŋ ‘inner yolk of egg’
+|-
+| *(ŋg,k)atata ‘dry’ || (?) kereŋke
+|-
+| *sambV ‘cloud’ || sambɔŋ ‘sky’
+|-
+| *masi ‘widow’ || masiŋ
+|-
+| *si(mb,p)at[V] ‘saliva’ || (?) tofeʔ
+|-
+| *ŋga ‘2SG’ || go
+|-
+| *mbeŋga(-masi) ‘orphan’ || bekɔ ‘widow and child’
+|-
+| *kumV- ‘die’ || hɔmo
+|-
+| *ka(m,mb)(a,u)na ‘stone’ || (?) kpana
+|-
+| *kV(mb,p)(i,u)t(i,u) ‘head’ || (?) kpit(seʔ)
+|-
+| *(m,mb)elak ‘light, lightning’ || bɔriʔ ‘glitter, flash of lightning, etc.’
+|}
+
+==References==
+{{Reflist}}
+* Flierl, Wilhelm, and Hermann Strauss, eds. (1977). ''Kâte dictionary.'' Series C-41. Canberra: Pacific Linguistics.
+* McElhanon, K. A. (1974). The glottal stop in Kâte. ''Kivung'' 7: 16-22.
+*McElhanon, K.A. (1975). North-Eastern Trans-New Guinea Phylum languages. In "New Guinea area languages and language study, vol. 1: Papuan languages and the New Guinea linguistic scene," ed. by S.A. Wurm, pp. 527-567. Canberra: Pacific Linguistics.
+* Pilhofer, G. (1933). ''Grammatik der Kâte-Sprache in Neuguinea.'' Vierzehntes Beiheft zur Zeitschrift für Eingeborenen-Sprachen. Berlin: Dietrich Reimer.
+* Pilhofer, G. (1953). ''Vocabulary of the Kâte language.'' Madang: Lutheran Mission Press.
+{{Malcolm Ross Pronouns}}
+* Schneuker, Carl L. (1962). ''Kâte Language Handbook.'' Madang: Lutheran Mission Press.
+* Suter, Edgar. (2010). The optional ergative in Kâte. In ''A journey through Austronesian and Papuan linguistic and cultural space: Papers in honour of Andrew Pawley,'' ed. by John Bowden, Nikolaus P. Himmelmann and Malcolm Ross, pp. 423-437. Canberra: Pacific Linguistics.
+*Suter, Edgar (2014). Kâte he 'hit' and qa 'hit': a study in lexicology. "Language and Linguistics in Melanesia" 32.1: 18-57.
+
+==External links==
+*[http://www.language-archives.org/language/kmg OLAC resources in and about the Kâte language]
+*Materials on Kâte are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]].
+*[http://catalog.paradisec.org.au/collections/search?language_code=kmg Other collections with Kâte materials] in [[Paradisec]]
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+FPST:far past
+SIM:simultaneous
+</div><section end="list-of-glossing-abbreviations"/>
+
+{{Languages of Papua New Guinea}}
+{{Finisterre–Huon languages}}
+{{DEFAULTSORT:Kate Language}}
+[[Category:Languages of Morobe Province]]
+[[Category:Huon languages]]

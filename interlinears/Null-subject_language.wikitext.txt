@@ -1,0 +1,357 @@
+{{Short description|No explicit sentence subject is allowed}}
+{{Refimprove|date=November 2012}}
+{{Linguistic_typology topics}}
+
+In [[linguistic typology]], a '''null-subject language''' is a [[language]] whose [[grammar]] permits an [[independent clause]] to lack an explicit [[subject (grammar)|subject]]; such a clause is then said to have a '''null subject'''.
+
+In the [[principles and parameters]] framework, the null subject is controlled by the [[pro-drop parameter]], which is either on or off for a particular language.{{citation needed|date=May 2018}}
+
+Typically, null-subject languages express [[Grammatical person|person]], [[Grammatical number|number]], and/or [[Grammatical gender|gender]] [[Agreement (linguistics)|agreement]] with the [[Coreference|referent]] on the verb, rendering a subject [[noun phrase]] redundant.
+
+For example, in [[Italian language|Italian]] the subject "she" can be either explicit or implicit:
+:{{lang|it|Maria non vuole mangiare.}} [[literal translation|lit.]] Maria not wants [to-]eat, "Maria does not want to eat".
+:{{lang|it|Non vuole mangiare.}} lit. [[Subject (grammar)|Subject]] not wants [to-]eat, "[(S)he] does not want to eat."
+
+The subject "(s)he" of the second sentence is only implied in Italian. [[English language|English]] and [[French language|French]], on the other hand, require an explicit subject in this sentence.
+
+<!--PLEASE DISCUSS ON TALK PAGE BEFORE ADDING MORE LANGUAGES HERE-->
+Of the thousands of languages in the world, a considerable number are null-subject languages, from a wide diversity of unrelated [[language family|language families]]. They include [[Albanian language|Albanian]], [[Arabic language|Arabic]], [[Basque language|Basque]], [[Berber language|Berber]], [[Bengali language|Bengali]], [[Catalan language|Catalan/Valencian]], [[Chinese language|Chinese]], [[Estonian language|Estonian]], [[Finnish language|Finnish]], [[Galician language|Galician]], [[Gujarati language|Gujarati]], [[Greek language|Greek]], [[Hebrew language|Hebrew]], [[Hindi language|Hindi]], [[Hungarian language|Hungarian]], [[Italian language|Italian]],  [[Romanian language|Romanian]], [[Japanese language|Japanese]], [[Korean language|Korean]], [[Maltese language|Maltese]],  [[Persian language|Persian]], [[Portuguese language|Portuguese]], [[Punjabi language|Punjabi]],  [[Sindhi language|Sindhi]], [[Slavic languages]], [[Spanish language|Spanish]], [[Tamil language|Tamil]] and the [[Turkic languages]], as well as most languages related to these, and many others still. In fact, it is rather the absence of [[pro-drop language|pronoun dropping]] that is an [[areal feature]] of [[Standard Average European]], including French, German, and English.<ref>[[Martin Haspelmath]], [http://www.anglistik.uni-freiburg.de/seminar/abteilungen/sprachwissenschaft/ls_kortmann/Courses/Kortmann/Variation/index_html/2008-05-27.8724094854 ''The European linguistic area: Standard Average European''], in Martin Haspelmath, ''et al.'', ''Language Typology and Language Universals'', vol. 2, 2001, pp. 1492-1510</ref>
+
+==Characterization==
+{{Unreferenced section|date=May 2018}}
+
+Languages which are not null-subject languages usually require an explicit subject. English and French make an exception for the imperative mood, or where a subject is mentioned in the same sentence or one immediately preceding it. These languages can sometimes drop pronouns in limited contexts: e.g, German for "please", ''Bitte'', literally means "[I] beg", and in English "Am not happy" or even "Not happy!" would be clearly understood as first person singular. Similarly, in some cases the additional inclusion of pronouns in English has equivalent force to their optional inclusion in Spanish or Italian: e.g, "I cook, I wash up and I do the shopping" is more emphatic than simply "I cook, wash up and do the shopping".
+
+In the framework of [[government and binding theory]] of [[syntax]], the term ''null subject'' refers to an [[empty category]]. The empty category in question is thought to behave like an ordinary [[pronoun]] with respect to [[anaphora (linguistics)|anaphoric reference]] and other grammatical behavior. Hence it is most commonly referred to as "''pro''".
+
+This phenomenon is similar, but not identical, to that of [[pro-drop language]]s, which may omit pronouns, including subject pronouns, but also [[object (grammar)|object]] pronouns. While all pro-drop languages are null-subject languages, not all null-subject languages are pro-drop.
+
+In null-subject languages that have [[verb]] [[inflection]] in which the verb inflects for person, the [[grammatical person]] of the subject is reflected by the inflection of the verb and likewise for [[grammatical number|number]] and [[grammatical gender|gender]].
+
+==Examples==
+{{Unreferenced section|date=May 2018}}
+The following examples come from [[Portuguese language|Portuguese]]:
+
+*"I'm going home" can be translated either as "{{lang|pt|vou para casa}}" or as "{{lang|pt|eu vou para casa}}", where "''eu''" means "I".
+*"It's raining" can be translated as {{lang|pt|está chovendo}} ([[Brazilian Portuguese]]) or {{lang|pt|está a chover}} ([[European Portuguese]]). In Portuguese, as in most other Romance languages (but not all, French is a notable exception), there is no exact equivalent for the pronoun ''it''. However, some older persons say {{lang|pt|Ele está a chover}} ([[European Portuguese]]) which directly translates to "He is raining".
+*"I'm going home. I'm going to watch TV" would not, except in exceptional circumstances, be translated as {{lang|pt|Eu vou para casa. Eu vou ver televisão.}} At least the subject of the second sentence should be omitted in Portuguese unless one wishes to express emphasis, as to emphasize the ''I''.
+
+As the examples illustrate, in many null-subject languages, [[personal pronoun]]s exist and can be used for [[Stress (linguistics)|emphasis]] but are dropped whenever they can be inferred from the context. Some sentences do not allow a subject in any form while, in other cases an explicit subject without particular emphasis, would sound awkward or unnatural.
+
+Most [[Bantu language]]s are null-subject. For example, in [[Luganda|Ganda]], 'I'm going home' could be translated as {{transl|lg|Ŋŋenze ewange}} or as {{transl|lg|Nze ŋŋenze ewange}}, where {{transl|lg|nze}} means 'I'.
+
+===Arabic===
+[[Arabic language|Arabic]] is considered a null-subject language, as demonstrated by the following example:
+
+{{interlinear|lang=ar|indent=3
+|top= ساعد غيرك، يساعدك
+|sā‘id ghayrak, yusā‘iduk
+|help other, {helps you}.
+|"You help another, he helps you."}}
+
+===Azerbaijani===
+{{interlinear|lang=az|indent=3
+|Gəldim, gördüm, {işğal etdim}
+|came, saw, conquered
+|I came, I saw, I conquered. ("[[Veni, vidi, vici]]")}}
+
+===Bulgarian===
+{{interlinear|indent=3
+|Дойдох, видях, победих
+|came, saw, conquered
+|I came, I saw, I conquered. ("[[Veni, vidi, vici]]")}}
+
+===Catalan/Valencian===
+In [[Catalan language|Catalan]]/[[Valencian language|Valencian]], as in Spanish, Portuguese, Galician, etc., the subject is also encoded in the [[verb conjugation]]. Pronoun use is not obligatory.
+* ''(Nosaltres) Anem a la platja'': We go to the beach.
+* ''(Tu) Ets la meva amiga'': You are my friend.
+* ''(Vostès/vosaltres) No són/sou benvinguts aquí'': You are not welcome here.
+* ''(Ells) Estan dormint'': They are asleep.
+* ''(Jo) Necessito ajuda'': I need help.
+* ''(Ell) És a la seva habitació'': He is in his bedroom.
+* ''(Ella) Està cansada'': She is tired.
+
+In Catalan/Valencian, one may choose whether to use the subject or not. If used in an inclined tone, it may be seen as an added emphasis; however, in colloquial speaking, usage of a pronoun is optional. Even so, sentences with a null subject are used more frequently than sentences with a subject. In some cases, it is even necessary to skip the subject to create a grammatically correct sentence.
+
+===Chinese===
+Most [[varieties of Chinese]] tend to be non-null-subject. Verbs in Chinese languages are not conjugated, so it is not possible to determine the subject based on the verb alone. However, in certain circumstances, most Chinese varieties allow dropping of the subject, thus forming null-subject sentences. One of the instances where the subject would be removed is when the subject is known. Below is an example in Mandarin:
+
+{{fs interlinear|lang=zh|indent=3
+|妈妈: 不 要 忘 了 丢 垃圾。
+|māma: bú yào wàng le diū lāji
+|mother:  Not want forget PERF throw rubbish.
+|Mother: "Do not (you) forget to take out the rubbish."}}
+
+{{fs interlinear|lang=zh|indent=3
+|妹妹: 知道 啦。
+|mèimèi: zhīdào la
+|{younger sister:} (I)know PTCL
+|Younger sister: "(I) know it."}}
+
+The above example clearly shows that a speaker could omit the subject if the doer of the verb is known. In a Chinese imperative sentence, like the first text, the subject is also left out.
+
+===Emilian===
+In [[Emilian dialect|Emilian]] (a [[Gallo-Italic languages|Gallo-Italic language]]) at least one pronoun (of two) is mandatory.<ref>Fabio Foresti, [http://www.treccani.it/enciclopedia/dialetti-emiliano-romagnoli_(Enciclopedia-dell%27Italiano)/ ''Dialetti emiliano-romagnoli''], Enciclopedia Treccani</ref>
+* ''(Nuàtar) A 'ndém in spiàgia'': We go to the beach.
+* ''(Tè) At sē mè amìga'': You are my friend.
+* ''(Vuàtar) A n sî minga bènvgnû chè'': You are not welcome here. → (you) you not are not welcome here.
+* ''(Lōr) I èn drē a durmìr'': They are asleep. → (they) they are behind to sleep.
+* ''(I gat) I èn drē a durmìr'': Cats are asleep. → (the cats) they are behind to sleep.
+* ''(Mè) A gh'ò biśógn 'd ajùt'': I need help.
+* ''(Lò) 'L è in dla sò cambra'': He is in his bedroom. → (he) he is in of the his bedroom.
+* ''(Śvan) 'L è in dla sò cambra'': John is in his bedroom. → (John) he is in of the his bedroom.
+* ''(Lē) L'è stufa'': She is tired.
+
+===Galician===
+In Galician, as in Spanish, Portuguese, Catalan, etc., the subject is also encoded in the [[verb conjugation]]. Pronoun use is not obligatory.
+* ''(Nós) Imos á praia'': We go to the beach.
+* ''(Ti) E-la miña amiga'': You are my friend. (Informal singular)
+* ''(Vós) Non sodes benvidos aquí'': You are not welcome here. (Informal Plural)
+* ''(Eles) Están durmindo'': They are sleeping.
+* ''(Eu) Necesito axuda'': I need help.
+* ''(El) Está no seu cuarto'': He is in his bedroom.
+* ''(Ela) Está cansada'': She is tired.
+
+In Galician, one may choose whether to use the subject or not. If used in an inclined tone, it may be seen as an added emphasis; however, in colloquial speaking, usage of a pronoun is optional. Even so, sentences with a null subject are used more frequently than sentences with a subject. In some cases, it is even necessary to skip the subject to create a grammatically correct sentence.
+
+===Modern Greek===
+{{fs interlinear|indent=3
+|Ήρθα, είδα, νίκησα.
+|Írtha, eída, níkisa.
+|came, saw, conquered.
+|I came, I saw, I conquered. (equivalent of "[[Veni, vidi, vici]]" in Latin)}}
+
+===Hebrew===
+[[Hebrew language|Hebrew]] is considered a partially null-subject language, as demonstrated by the following example:
+
+{{interlinear|indent=3
+|top= עזור לאחרים, יעזרו לך
+|azor l'aherim, ya'azru lkha
+|help others, will-help you
+|You help others, they will help you.}}
+
+Subjects can usually be omitted only when the verb is conjugated for grammatical person, as in the third-person plural in the example above.
+In Hebrew one can also construct null-subject sentences as in the Latin and Turkish language examples: "We/y'all/they are going to the beach" can be expressed as "holkhim la-yam" (הולכים לים), lit. "Are going to the beach." This is truly a null-subject construction.
+
+As in Spanish and Turkish, though, Hebrew conjugates verbs in accordance with specific pronouns, so "we went to the beach" is technically just as much a null-subject construction as in the other languages, but in fact the conjugation does indicate the subject pronoun: "Halakhnu la-yam" (הלכנו לים), lit. "Went (we) to the beach." The word "halakhnu" means "we went", just as the Spanish and Turkish examples indicate the relevant pronoun as the subject in their conjugation. So these should perhaps not be considered to be true null-subject phrases. Potentially confusing the issue further is the fact that Hebrew word order can also make some sentences appear to be null-subject, when the subject is in fact given after the verb. For instance, "it's raining" is expressed "yored geshem" (יורד גשם), which means "descends rain"; "rain" is the subject. The phrases meaning "It's snowing" and "It's hailing" are formed in the same way.{{cn|date=September 2021}}
+
+=== Hindi ===
+Hindi shows radical pro-drop. This type of pro-drop differs from pro-drop in languages like Spanish where pro-drop is licensed by rich verbal morphology. Radical pro-drop is possible only in NP languages.<ref>{{Cite book|last=Grewendorf|first=Günther|title=Discourse and Grammar: From Sentence Types to Lexical Categories|last2=Ede|first2=Thomas|publisher=Deutsche Nationalbibliothek|year=2012|isbn=978-1-61451-215-8|location=Germany|pages=192}}</ref> South Asian languages such as Hindi, in general, have the ability to pro-drop any and all arguments.<ref>{{Cite journal|last=Butt|first=Miriam|date=2001-01-01|title=Case, Agreement, Pronoun Incorporation and Pro-Drop in South Asian Languages|url=https://www.researchgate.net/publication/228599742_Case_Agreement_Pronoun_Incorporation_and_Pro-Drop_in_South_Asian_Languages}}</ref> Here, the case is expressed in a morpheme that is independent from the stem, making the pro-drop possible. <ref>{{Cite book|last=Bhatia|first=Tej K.|title=Colloquial Hindi|publisher=Biddles Ltd, Guildford and King's Lynn|year=1996|isbn=0-415-11087-4|location=Great Britain|pages=42-51, 188-189}}</ref>
+
+{{interlinear|number=1.
+|bārish ho rahī hai.
+|rain:DIR happen:VRB stay:FEM:SG is:3P:SG
+|'It is raining.'
+|abbreviations=PRF:perfective; DIR:direct case; COP:copula; VRB:verb stem;}}
+
+{{interlinear|number=2A.
+|tum-ne nādyā-ko khānā di-yā
+|you:ERG nadya:DAT food:DIR give:PRE:MASC:SG
+|'Did you give food to Nadya?'
+|abbreviations=PRF:perfective; DIR:direct case; DAT:dative case;}}
+
+{{interlinear|number=2B.
+|hā̃ diyā
+|yes give:PRF:GND:MASC:SG
+|'Yes, (I) gave (food to her).'
+|abbreviations=PRF:perfective; DIR:direct case; GND:agrees with the direct object in gender}}
+
+===Japanese===
+[[Japanese language|Japanese]] and several other null-subject languages are [[topic-prominent language]]s; some of these languages require an expressed [[topic (linguistics)|topic]] in order for sentences to make sense. In Japanese, for example, it is possible to start a sentence with a topic marked by the particle ''wa'', and in subsequent sentences leave the topic unstated, as it is understood to remain the same, until another one is either explicitly or implicitly introduced. For example, in the second sentence below, the subject ("we") is not expressed again but left implicit:
+
+{{fs interlinear|lang=ja|indent=3
+| 私達 は 買い物 を した。 後 で ご飯 を 食べた。
+| Watashitachi wa kaimono o shita. Ato de gohan o tabeta.
+| We TOP shopping OBJ did. After COMPL dinner OBJ ate.
+| "We went shopping. Afterwards, we ate dinner."}}
+
+In other cases, the topic can be changed without being explicitly stated, as in the following example, where the topic changes implicitly from "today" to "I".
+
+{{fs interlinear|lang=ja|indent=3
+| 今日 は ゲーム の 発売日 なんだ けど、 買おうか どうか 迷っている。
+| Kyō wa gēmu no hatsubaibi {na n da} kedo, {kaō ka} {dō ka} {mayotte iru}.
+| Today TOP game GEN {release date} is but, {whether to buy} {or not} confused.
+| "The game comes out today, but (I) can't decide whether or not to buy (it)."}}
+
+===Latin===
+Verb-conjugation endings in Latin express number and person (as well as tense and mood).
+
+{{interlinear|indent=3
+|Veni, vidi, vici
+|Came-I, saw-I, conquered-I
+|[[Veni, vidi, vici|I came, I saw, I conquered.]]}}
+
+{{interlinear|indent=3
+|Cogito ergo sum.
+|Think-I, therefore am
+|[[Cogito ergo sum|I think, therefore I am.]]}}
+
+===Macedonian===
+{{interlinear|indent=3
+|Дојдов, видов, победив.
+|came, saw, conquered
+|I came, I saw, I conquered. ("[[Veni, vidi, vici]]")}}
+
+===Polish===
+{{interlinear|indent=3
+|Myślę, więc jestem.
+|{(I) think}, therefore {(I) am}.
+|I think, therefore I am. ("[[Cogito ergo sum]]")}}
+
+In Polish, the subject is omitted almost every time, although it can be present to put emphasis on the subject.
+
+===Russian===
+{{interlinear|indent=3
+|Пришёл, увидел, победил
+|came, saw, conquered.
+|I came, I saw, I conquered. ("[[Veni, vidi, vici]]")}}
+
+===Sindhi===
+{{interlinear|lang=si|indent=3
+|top= <span lang="sd" dir="ltr">آيس، ڏٺم، کٽيم</span>
+|ā''yus, dditham, ''khatiyus
+|I came, I saw, I conquered. ("[[Veni, vidi, vici]]")}}
+
+'''With subjects:''' <span lang="sd" dir="ltr">آئون آيس، مون ڏٺو، آئون، کٽيس</span><br />
+'''Idiomatic translation:''' I came, I saw, I conquered.
+
+===Spanish===
+In Spanish, as with Latin and most Romance languages, the subject is encoded in the verb conjugation. Pronoun use is not obligatory.
+* {{lang|es|(Yo) Necesito ayuda}}: I need help.
+* {{lang|es|(Tú) Eres mi amiga}}: You (informal) are my friend.
+* {{lang|es|(Vos) Sos mi amiga}}: You (informal) are my friend.
+* {{lang|es|(Usted) Me ve}}: You (formal) see me.
+* {{lang|es|(Él) Está en su habitación}}: He is in his bedroom.
+* {{lang|es|(Ella) Está cansada}}: She is tired.
+* {{lang|es|(Nosotros) Vamos a la playa}}: We go to the beach.
+* {{lang|es|(Vosotros) Deberíais andaros}}: You (plural, informal) should leave.
+* {{lang|es|(Ustedes) No son bienvenidos aquí}}: You (plural) are not welcome here.
+* {{lang|es|(Ellos) Están durmiendo}}: They are asleep.
+* {{lang|es|(Ellas) Van allí}}: They (feminine) go there.
+
+In Spanish, for the most part one may choose whether to use the subject or not. Generally if a subject is provided, it is either for clarity or for emphasis. Sentences with a null subject are used more frequently than sentences with a subject. In some cases, it is even necessary to skip the subject to create a grammatically correct sentence.{{Citation needed|date=August 2015}}
+
+===Tamil===
+Verb conjugations in Tamil incorporate suffixes for number (singular and plural) and person (1st, 2nd and 3rd), and also for gender (masculine, feminine and neuter) in the third person. An explicit subject, therefore, is unnecessary, and can be inferred from the verb conjugation.
+
+'''Tamil script:''' முடிந்துவிட்டது <br/>'''Transliteration:''' muḍinduviṭṭadu<br/>'''Literal Translation:''' It has left, having ended.<br/>'''Idiomatic Translation:''' It has come to an end.
+
+Another example:
+
+{{fs interlinear|indent=3|glossing=link
+| பந்தை அவரிடம் கொடுத்தேன்
+| Pantai avariṭam koṭuttēṉ
+| Ball(ACC) him(LOC) gave
+| (I) gave him the ball}}
+
+===Turkish===
+{{interlinear|lang=tr|indent=3
+|Geldim, gördüm, yendim.
+|{(I) came}, {(I) saw}, {(I) conquered}
+|I came, I saw, I conquered. ("[[Veni, vidi, vici]]")}}
+
+{{interlinear|lang=tr|indent=3
+|Düşünüyorum, öyleyse varım.
+|{(I) Think}, therefore {(I) exist}.
+|I think, therefore I am. ("[[Cogito ergo sum]]")}}
+
+==Impersonal constructions==
+{{Unreferenced section|date=May 2018}}
+{{Main article|Impersonal verb}}
+In some cases ([[impersonal verb|impersonal constructions]]), a proposition has no [[referent]] at all. Pro-drop languages deal naturally with these, whereas many non-pro-drop languages such as English and French must fill in the [[syntax|syntactic]] gap by inserting a [[dummy pronoun]]. "''*Rains''" is not a correct sentence; a dummy "it" must be added: "''It rains''"; in French "''Il pleut''". In most Romance languages, however, "''Rains''" can be a sentence: Spanish "''Llueve''", Italian "''Piove''", Catalan "''Plou''", Portuguese "''Chove''", Romanian "''Plouă''", etc. [[Uralic language|Uralic]] and [[Slavic languages]] also show this trait: [[Finnish language|Finnish]] "''Sataa''", [[Hungarian language|Hungarian]] "''Esik''"; [[Polish language|Polish]] "''Pada''".
+
+There are [[constructed languages]] that are not pro-drop but do not require this syntactic gap to be filled. For example, in [[Esperanto]], "He made the cake" would translate as ''Li faris la kukon'' (never ''*Faris la kukon''), but ''It rained yesterday'' would be ''Pluvis hieraŭ'' (not ''*Ĝi pluvis hieraŭ'').
+
+==Null subjects in non-null-subject languages==
+Other languages (sometimes called '''non-null-subject languages''') require each sentence to include a subject: this is the case for most [[Germanic languages]], including [[English language|English]] and [[German language|German]], as well as many other languages. [[French language|French]], though a [[Romance language]], also requires a subject. In some cases—particularly in English, less so in German, and occasionally in French—[[colloquialism|colloquial]] expressions allow for the omission of the subject in a manner similar to that of Spanish or [[Russian language|Russian]]:{{vague|date=May 2018}}{{citation needed|date=May 2018}}
+
+:"[''It''] Sounds good." 
+:"[''I''] Bumped into George this morning." 
+:"[''We''] Agreed to have a snifter to catch up on old times." 
+:"[''You''] Went down to Brighton for the weekend?" 
+
+===The imperative form===
+Even in such non-null-subject languages such as English, it is standard for [[clause (grammar)|clauses]] in the [[imperative mood]] to lack explicit subjects; for example:
+:"Take a break—you're working too hard."
+:"Shut up!"
+:"Don't listen to him!"
+
+An explicit declaration of the pronoun in the imperative mood is typically reserved for [[intensifier|emphasis]]:
+:"You stay away!"
+:"Don't you listen to him!"
+
+French and German offer less flexibility with respect to null subjects. 
+
+In French, it is neither grammatically correct nor possible to include the subject within the imperative form; the ''vous'' in the expression ''taisez-vous'' stems from the fact that ''se taire'', "to be silent," is a [[reflexive verb]] and is thus the object with similar meaning to "yourself" in an English imperative.{{citation needed|date=May 2018}}
+
+In German, the pronoun (singular ''du'' or plural ''ihr'') is normally omitted from the informal [[grammatical person|second-person]] imperative (''Mach das'', "Do it"), although it may be added in a colloquial manner for emphasis (''Macht ihr das!'', "''You [guys]'' do it!"). By contrast, the addressee-specific formal imperative requires the addition of the pronoun ''Sie'' (as in ''Machen Sie das!'', "Do it, [sir/ma'am]!") to avoid confusion with the otherwise [[morphology (linguistics)|morphologically]] identical [[infinitive]], whereas the addressee-nonspecific or "neutral" formal imperative omits the pronoun and moves the verb to [[German sentence structure|final position]] (as in ''Bitte nicht stören'', "Please do not disturb"). On the other hand, the pronoun ''wir'' is always included in the first-person plural imperative (''Machen wir das!'', "Let's do it!"), with the verb appearing in first position to differentiate the imperative from the [[indicative mood]], wherein the verb appears in [[V2 word order|second position]] (as in ''Wir machen das'', "We're doing it").<ref name="joyce2018">{{cite web |last1=Joyce |first1=Paul |title=German verbs: the imperative |url=http://joycep.myweb.port.ac.uk/verbs/imperat.html |website=The Paul Joyce Beginners' German Course |publisher=Paul Joyce |access-date=31 May 2018 |ref=joyce2018}}</ref>
+
+== Auxiliary languages ==
+{{Unreferenced section|date=May 2018}}
+Many [[international auxiliary language]]s, while not officially pro-drop, permit pronoun omission with some regularity.
+
+===Interlingua===
+In [[Interlingua]], pronoun omission is most common with the pronoun ''il'', which means "it" when referring to part of a sentence or to nothing in particular. Examples of this word include
+:Il pluvia.
+:''It's raining.''
+:Il es ver que ille arriva deman.
+:''It is true that he arrives tomorrow.''
+
+''Il'' tends to be omitted whenever the contraction "it's" can be used in English. Thus, ''il'' may be omitted from the second sentence above: "Es ver que ille arriva deman". In addition, subject pronouns are sometimes omitted when they can be inferred from a previous sentence:
+
+:Illa audiva un crito. Curreva al porta. Aperiva lo.
+:''She heard a cry. Ran to the door. Opened it.''
+
+===Esperanto===
+Similarly, [[Esperanto]] sometimes exhibits pronoun deletion in casual use. This deletion is normally limited to subject pronouns, especially where the pronoun has been used just previously:
+
+{{interlinear|indent=3|glossing=no abbr
+|Ĉu vi vidas lin? Venas nun.
+|QUESTION-PARTICLE you see him? Comes now.
+|Do you see him? ''He'' is coming now.}}
+
+In "official" use, however, Esperanto admits of null-subject sentences in two cases only:
+* (optional) in the 2nd person imperative ''(N.B. The Esperanto imperative is often named "volitive" instead, since it can be conjugated with a subject in any person, and also used in subordinate clauses)''
+*: Venu! ''Come!''
+*: Vi venu! ''You [there], come [with me]!'' (pronoun added for emphasis)
+* For "impersonal verbs" which have no semantic subject. In English or French, an "empty" subject is nevertheless required:
+*: Pluvas. '''''It''' is raining.'' FR: '''''Il''' pleut.''
+*: Estas nun somero. '''''It''' is summer now.'' FR: '''''C<nowiki>'</nowiki>'''est l'été à présent.''
+*: Estas vere, ke li alvenos morgaŭ. '''''It''' is true that he will arrive tomorrow.'' FR: '''''C<nowiki>'</nowiki>'''est vrai qu'il arrivera demain.''
+*:: ''(In this latter case, the sentence is not really no-subject, since "ke li alvenos morgaŭ" ("that he will arrive tomorrow") is the subject.)''
+
+Contrary to the Interlingua example above, and as in English, a repeated subject can normally be omitted only within a single sentence:
+: Ŝi aŭdis krion. Ŝi kuris al la pordo. Ŝi malfermis ĝin.
+:: ''She heard a shout. She ran to the door. She opened it.''
+: Ŝi aŭdis krion, kuris al la pordo kaj malfermis ĝin.
+:: ''She heard a shout, ran to the door and opened it.''
+
+== See also ==
+* {{annotated link|Pro-sentence}}
+
+==Notes==
+<references/>
+
+==Bibliography==
+* Alexiadou, Artemis 2006. Uniform and non-uniform aspects of pro-drop languages. In Arguments and agreement, ed. P. Ackema, P. Brandt, M. Schoorlemmer & F. Weerman, 127-158. Oxford: Oxford University Press.  
+* Barbosa, Pilar MEL Duarte, and M Kato. (2005) Null Subjects in European and Brazilian Portuguese.  Journal of Portuguese Linguistics.  ([http://repositorium.sdum.uminho.pt/bitstream/1822/6466/1/Barbosa%2520Duarte%2520e%2520Kato%2520.pdf])
+* Biberauer, Theresa, Anders Holmberg, Ian Roberts and Michele Sheehan (eds). 2010. Parametric Variation: Null subjects in Minimalist Theory. Cambridge: Cambridge University Press.
+* Cook, Manuela. (1997) A Theory for the Interpretation of Forms of Address in the Portuguese Language. Hispania, Vol 80, Nº 3, AATSP, USA
+* Chomsky, Noam 1981. Lectures on government and binding. Studies in Generative Grammar 9. Dordrecht: Foris.
+* Chomsky, Noam 1982. Concepts and Consequences of the Theory of Government and Binding. The MIT Press, Cambridge, Mass.
+* D’Alessandro, Roberta. 2014. The Null Subject Parameter: Where are we and where are we headed? Ms. Leiden University Centre for Linguistics.
+* Gilligan, Gary Martin. 1987. “A crosslinguistic approach to prodrop parameter.” PhD. dissertation, University of Southern California, Los Angeles.
+* Holmberg, Anders. 2005. “Is there a little pro? Evidence from Finnish.” Linguistic Inquiry 36:533-564.
+* Jaeggli, Oswaldo and Ken Safir 1987 (eds) The null subject parameter. Dordrecht: Kluwer.
+* Kučerová, Ivona 2014. “The Syntax of Null Subjects.” Syntax 17:2, 132167.
+* Perlmutter, David 1971. Deep and surface constraints in syntax. New York: Holt, Rinehart and Winston.
+* Rizzi, Luigi  1986. 'Null Objects in Italian and the Theory of pro' Linguistic Inquiry 17:1986. pp. 501-557.
+* Rizzi, Luigi 1982. Issues in Italian Syntax, Foris Publications, Dordrecht.
+* Vikner, Sten. 1995. Verb Movement and Expletive Subjects in the Germanic Languages, Oxford University Press, Oxford.
+* Zanuttini, Raffaella. 2008. Microcomparative syntax in English verbal agreement. Talk at NELS 39, November 2008.
+
+==External links==
+* [http://www.viviancook.uk/Linguistics/Languageslist.htm List of languages] including [[pro-drop]] (PD) or non-pro-drop (NPD) status, which is usually related to null-subject or non-null-subject status.
+
+{{DEFAULTSORT:Null-subject language}}
+[[Category:Linguistic typology]]

@@ -1,0 +1,152 @@
+{{short description|Language spoken in Indonesia}}
+{{Infobox language
+|name=Selayar
+|nativename=''Basa Silajara''
+|states=[[Indonesia]]
+|region=[[Selayar Islands]], [[South Sulawesi]]
+|ethnicity=
+|speakers={{sigfig|128,000|2}}
+|date=2000 census
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[South Sulawesi languages|South Sulawesi]]
+|fam4=[[Makassaric languages|Makassaric]]
+|iso3=sly
+|glotto=sela1260
+|glottorefname=Selayar
+|notice=IPA
+}}
+
+'''Selayar''' or '''Selayarese''' is a [[Malayo-Polynesian languages|Malayo-Polynesian language]] spoken by about 100,000 people on the [[island of Selayar]] in [[South Sulawesi]] province, [[Indonesia]].<ref name="mb">{{cite journal |last=Mithun|first=Marianne|first2=Hasan|last2=Basri |year=1986 |title=The Phonology of Selayarese |journal=Oceanic Linguistics |volume=25 |issue=1/2 |pages=210–254 |doi=10.2307/3623212 |jstor=3623212}}</ref>{{rp|210}}
+
+==Phonology==
+
+===Vowels===
+{| class="wikitable" style="text-align: center"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPAlink|i}}
+| {{IPAlink|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPAlink|e}}
+| {{IPAlink|o}}
+|-
+! [[Low vowel|Low]]
+|colspan="2"| {{IPAlink|a}}
+|}
+Vowels are lengthened when stressed and in an open syllable.
+
+====Nasalization====
+Nasalization extends from nasal consonants to the following vowels, continuing until blocked by an [[intonation (linguistics)|intonation]] break or a consonant other than a [[glottal stop]]:
+:{{IPA|[lamẽãĩʔĩ ãːsu]}} "A dog urinated on him."
+:{{IPA|[sassaʔ lamẽãĩʔĩ <nowiki>|</nowiki> ʔaːsu lataiːʔiʔi]}} "A lizard urinated on him, and a dog defecated on him."<ref name="mb"/>{{rp|225–226}}
+
+===Consonants===
+{| class="wikitable" style="text-align: center"
+!colspan="2"|
+! [[Bilabial consonant|Bilabial]]
+! [[Coronal consonant|Coronal]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+!colspan="2"| [[Nasal stop|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ɲ}}
+| {{IPAlink|ŋ}}
+|
+|-
+!rowspan="3"| [[Plosive]]
+! <small>[[prenasalized consonant|prenasalized]]</small>
+| {{IPAlink|ᵐb}}
+| {{IPAlink|ⁿd}}
+| {{IPAlink|ᶮɟ}}
+| {{IPAlink|ᵑɡ}}
+|
+|-
+! <small>[[Voiced consonant|voiced]]</small>
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|ɟ}}
+| {{IPAlink|ɡ}}
+|
+|-
+! <small>[[Voiceless consonant|voiceless]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t̪}}
+|
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+!colspan="2"| [[Fricative]]
+|
+| {{IPAlink|s}}
+|
+|
+| {{IPAlink|h}}
+|-
+!colspan="2"| [[Lateral consonant|Lateral]]
+|
+| {{IPAlink|l}}
+|
+|
+|
+|-
+!colspan="2"| [[Rhotic consonant|Rhotic]]
+|
+| {{IPAlink|ɹ}}
+|
+|
+|
+|}
+
+Of the coronals, the voiceless stop is [[Dental consonant|dental]], while the others are [[Alveolar consonant|alveolar]].
+
+==Morphology==
+Selayarese intransitive verbs index pronominal arguments via an [[absolutive]] enclitic.<ref name="basri">
+{{cite thesis |last=Basri|first=Hasan|date=1999|type=Ph.D. dissertation
+|title=Phonological and syntactic reflections of the morphological structure of Selayarese
+|publisher=State University of New York at Stony Brook}}
+</ref><ref name="m1991">{{Citation 
+|last=Mithun|first=Marianne|year=1991
+|contribution=The role of motivation in the emergence of grammatical categories: The grammaticization of subjects
+|editor-last=Traugott|editor-first=Elizabeth
+|editor-last2=Heine|editor-first2=Bernd
+|location=Amsterdam|publisher=John Benjamins
+|title=Approaches to Grammaticization
+|pages=159-185|isbn=9781556194023}}
+</ref>{{rp|162}}
+
+{{interlinear|indent=3
+|a'lumpa'{{=}}a
+|jump{{=}}1S
+|'I jump'}}
+
+{{interlinear|indent=3
+|mangang{{=}}a
+|tired{{=}}1S
+|'I am tired'}}
+
+In transitive verbs the less agent-like argument is indexed by the absolutive enclitic.<ref name="m1991"/>{{rp|163}}
+
+{{interlinear|indent=3
+|ku{{=}}isse'{{=}}i
+|1S{{=}}know{{=}}3S
+|'I know him'}}
+
+==References==
+{{reflist}}
+
+{{incubator|sly}}
+{{Languages of Indonesia}}
+{{Austronesian languages}}
+
+[[Category:South Sulawesi languages]]
+[[Category:Languages of Sulawesi]]
+[[Category:South Sulawesi]]

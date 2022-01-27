@@ -1,0 +1,1174 @@
+{{short description|Austroasiatic language of Meghalaya state, India}}
+{{Distinguish|text = the Indo-Aryan [[Khāṣi language]] of Jammu and Kashmir}}
+{{Use Indian English|date=October 2021}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox language
+| name = Khasi
+| nativename = ''{{lang|kha|Ka Ktien Khasi}}'', ক ক্ত্যেন খসি
+| pronunciation = {{IPA|lang=kha|/ka kt̪eːn kʰasi/}}
+| states = [[India]], [[Bangladesh]]
+| region = [[Meghalaya]], [[Assam]]
+| ethnicity = [[Khasi people]]
+| speakers = 1,037,964
+| date = 2011 census
+| ref = <ref>{{Cite web|url=http://www.censusindia.gov.in/2011Census/Language_MTs.html|title=Statement 1: Abstract of speakers' strength of languages and mother tongues – 2011|publisher=Office of the Registrar General & Census Commissioner, India|website=www.censusindia.gov.in|access-date=7 July 2018}}</ref>
+| map = Khasi_map.png
+| familycolor = Austroasiatic
+| fam2 = [[Khasi–Palaungic languages|Khasi-Palaungic]]
+| fam3 = [[Khasic languages|Khasic]]
+| fam4 = Khasi-Pnar-Lyngngam
+| script = [[Latin script|Latin]] (Khasi alphabet) <br />[[Bengali-Assamese script|Bengali-Assamese]]<ref>{{cite web|url=https://scriptsource.org/cms/scripts/page.php?item_id=language_detail&key=kha|title=ScriptSource – Khasi|website=scriptsource.org}}</ref>
+| nation = <!--Khasi is not an official lang of Meghalaya, only associate official of some districts within Meghalaya-->
+| iso2 = kha
+| iso3 = kha
+| glotto = khas1269
+| glottorefname = Khasi
+| mapcaption = Khasi-speaking areas
+}}
+[[File:WIKITONGUES- Sylvia speaking Khasi.webm|thumb|Khasi language by a non-Khasi speaker, recorded in [[India]]]]
+
+'''Khasi''' ({{lang|kha|Ka Ktien Khasi}}) is an [[Austroasiatic languages|Austroasiatic language]] spoken primarily in [[Meghalaya]] state in [[India]] by the [[Khasi people]]. It is also spoken by a sizeable population in [[Assam]] and [[Bangladesh]]. Khasi is part of the Austroasiatic language family, and is related to [[Khmer language|Khmer]], [[Palaung language|Palaung]], [[Vietnamese language|Vietnamese]] and [[Mon language|Mon]] languages of Southeast Asia, and the [[Munda languages|Munda]] and [[Nicobarese languages|Nicobarese]] branches of that family, which are spoken in east–central India and in the [[Nicobar Islands]], respectively.
+
+Although most of the 1.6&nbsp;million Khasi speakers are found in Meghalaya, the language is also spoken by a number of people in the [[Dima Hasao|hill districts]] of Assam bordering with Meghalaya and by a sizeable population of people living in Bangladesh, close to the [[Bangladesh-India border|Indian border]]. Khasi has been an [[Languages with official status in India|associate official language]] of some districts within Meghalaya since 2005, and as of May 2012, was no longer considered endangered by [[UNESCO]].<ref>{{Cite web
+| title = The Khasi language is no longer in danger
+| work = United Nations Educational, Scientific and Cultural Organization
+| access-date = 29 September 2012
+| date = 4 June 2012
+| url = http://www.unesco.org/new/en/culture/themes/endangered-languages/news/dynamic-content-single-view-news/news/the_khasi_language_is_no_longer_in_danger/
+}}</ref> There are demands to include this language to the Eighth schedule to the constitution of India.<ref>{{cite web |url=https://www.sentinelassam.com/news/speakers-put-stress-on-inclusion-of-khasi-language-in-8th-schedule/ |title=Speakers put stress on inclusion of Khasi language in 8th schedule |work=The Sentinel |location=Assam |date=5 May 2017}}</ref>
+
+==Speakers==
+Khasi speakers are mostly found in the Khasi Hills and Jaintia Hills region of Meghalaya. It is also spoken by a number of people in the hill districts of Assam and by a small population of people living in Bangladesh. Khasi has been an associate official language in Meghalaya since 2005.
+
+Khasi is written using the [[Latin script|Latin]] and [[Bengali-Assamese script|Bengali-Assamese]] scripts. Both scripts are taught as part of the compulsory Khasi language subject in elementary up to high school in Meghalaya and Bangladesh respectively.
+
+The main dialects of Khasi spoken are Sohra and Shillong dialect. Shillong dialects form a [[dialect continuum]] across the capital region. Sohra dialect, due to strong colonial patronisation, came to be regarded as ''Standard Khasi.''
+
+==Phonology==
+
+This section discusses mainly the [[phonology]] of Standard Khasi as spoken in and around the capital city, Shillong.
+
+Khasi, mainly spoken in Meghalaya, is surrounded by unrelated languages: [[Assamese language|Assamese]] to the north and east, [[Bengali language|Bengali]] to the south (both [[Indo-Aryan languages]]), [[Garo language|Garo]] (a [[Tibeto-Burman language]]) to the west, and a plethora of other Tibeto-Burman languages including [[Meithei language|Manipuri]], [[Mizo language|Mizo]] and [[Bodo language|Bodo]].
+
+Although over the course of time, language change has occurred, Khasi retains some distinctive features:
+* Khasi remains a stress language, without [[Tone (linguistics)|tones]], unlike many of its Tibeto-Burman neighbors.
+*Like its Mon-Khmer relatives, Khasi has a large inventory of [[Phoneme|phonemic]] vowels (see below)
+*The [[Syllable|syllable structure]] of Khasi words resembles that of many Mon-Khmer languages, with many lexical items showing a CCVC shape, in which many combinations of consonants are possible in the onset (see examples below).
+
+===Consonants===
+{|class="wikitable" style="text-align: center;"
+|+Consonant phonemes
+|-
+! colspan= 4 |
+! colspan=2 |[[Labial consonant|Labial]]
+! colspan=2 |[[Dental consonant|Dental]]
+! colspan=2 |[[Alveolar consonant|Alveolar]]
+! colspan=2 |[[Postalveolar consonant|Post-<br/>alveolar]]
+! colspan=2 |[[Palatal consonant|Palatal]]
+! colspan=2 |[[Velar consonant|Velar]]
+! colspan=2 |[[Glottal consonant|Glottal]]
+|-
+! colspan= 4| [[Nasal consonant|Nasal]]
+| colspan= 2| {{IPA link|m}}
+| colspan= 6| {{IPA link|n}}
+| colspan= 2| {{IPA link|ɲ}}
+| colspan= 2| {{IPA link|ŋ}}
+| colspan= 2|
+|-
+! rowspan=2 colspan= 2 |[[Plosive consonant|Stop]]
+!colspan= 2 | [[Unaspirated]]
+| style= "border-right: 0;"| {{IPA link|p}}
+| style= "border-left: 0;"| {{IPA link|b}}
+| colspan= 2| {{IPA link|t̪}}
+| colspan= 4| {{IPA link|d}}
+| colspan= 2| {{IPA link|c}}
+| colspan= 2| {{IPA link|k}}
+| colspan= 2| {{IPA link|ʔ}}
+|-
+!colspan= 2 | [[Aspirated consonant|Aspirated]]
+| style= "border-right: 0;"| {{IPA link|pʰ}}
+| style= "border-left: 0;"| {{IPA link|bʱ}}
+| colspan= 2| {{IPA link|t̪ʰ}}
+| colspan= 4| {{IPA link|dʱ}}
+| colspan= 2|
+| colspan= 2| {{IPA link|kʰ}}
+| colspan= 2|
+|-
+! rowspan=2 colspan= 2 |[[Affricate consonant|Affricate]]
+!colspan= 2 | [[Unaspirated]]
+| style= "border-right: 0;"|
+| style= "border-left: 0;"|
+| colspan= 2|
+| colspan= 4| {{IPA link|dʒ}}
+| colspan= 2|
+| colspan= 2|
+| colspan= 2|
+|-
+!colspan= 2 | [[Aspirated consonant|Aspirated]]
+| style= "border-right: 0;"|
+| style= "border-left: 0;"|
+| colspan= 2|
+| colspan= 4| {{IPA link|dʒʱ}}
+| colspan= 2|
+| colspan= 2|
+| colspan= 2|
+|-
+! colspan= 4| [[Fricative consonant|Fricative]]
+| colspan= 2|
+| colspan= 2|
+| colspan= 2| {{IPA link|s}}
+| colspan= 2| {{IPA link|ʃ}}
+| colspan= 2|
+| colspan= 2|
+| colspan= 2| {{IPA link|h}}
+|-
+! colspan= 4| [[Approximant consonant|Approximant]]
+| colspan= 2|
+| colspan= 2|
+| colspan= 2|
+| colspan= 2|
+| colspan= 2| {{IPA link|j}}
+| colspan= 2| {{IPA link|w}}
+| colspan= 2|
+|-
+! colspan= 4| [[Trill consonant|Trill]]
+| colspan= 2|
+| colspan= 6| {{IPAlink|r}}
+| colspan= 2|
+| colspan= 2|
+| colspan= 2|
+|-
+! colspan= 4| [[Lateral consonant|Lat. Approximant]]
+| colspan= 2|
+| colspan= 6| {{IPA link|l}}
+| colspan= 2|
+| colspan= 2|
+| colspan= 2|
+|}
+
+{|class= "wikitable" style= "text-aliɡn: center;"|
+|+Examples
+|-
+! colspan =1 |
+!
+! IPA
+! Translation
+!
+!
+! IPA
+! Translation
+|-
+! {{IPA link|m}}
+| mrad
+| {{IPA-fr|mraːt̚|}}
+| animal
+! {{IPA link|n}}
+| nar
+| {{IPA-fr|nar|}}
+| iron
+|-
+! {{IPA link|ɲ}}
+| ñia
+| {{IPA-fr|ɲaː|}}
+| aunt
+! {{IPA link|ŋ}}
+| ngen
+| {{IPA-fr|ŋɛn|}}
+| wane
+|-
+! {{IPA link|p}}
+| pan
+| {{IPA-fr|paːn|}}
+| ask
+! {{IPA link|pʰ}}
+| phylla
+| {{IPA-fr|pʰɨlːaː|}}
+| special
+|-
+! {{IPA link|b}}
+| blang
+| {{IPA-fr|blaŋ|}}
+| goat
+! {{IPA link|bʱ}}
+| bhoi
+| {{IPA-fr|bʱɔɪ|}}
+| Bhoi
+|-
+! {{IPA link|t̪}}
+| tdong
+| {{IPA-fr|t̪dɔŋ|}}
+| tail
+! {{IPA link|tʰ}}
+| thah
+| {{IPA-fr|t̪ʰaːʔ|}}
+| ice
+|-
+! {{IPA link|d}}
+| dur
+| {{IPA-fr|dʊr|}}
+| picture
+! {{IPA link|dʱ}}
+| dheng
+| {{IPA-fr|dʱɛŋ|}}
+| park
+|-
+! {{IPA link|c}}
+| beit
+| {{IPA-fr|bɛc|}}
+| straight
+!
+|
+|
+|-
+! {{IPA link|k}}
+| krung
+| {{IPA-fr|krʊŋ|}}
+| rib
+! {{IPA link|kʰ}}
+| khring
+| {{IPA-fr|kʰrɪŋ|}}
+| entice
+|-
+! {{IPA link|ʔ}}
+| pyut
+| {{IPA-fr|pʔʊt̚|}}
+| rotten
+!
+|
+|
+|
+|-
+! {{IPA link|dʒ}}
+| jlaw
+| {{IPA-fr|dʒlaːʊ|}}
+| howl
+! {{IPA link|dʒʱ}}
+| jhieh
+| {{IPA-fr|dʒʱeːʔ|}}
+| wet
+|-
+! {{IPA link|s}}
+| syiem
+| {{IPA-fr|sʔeːm|}}
+| monarch
+! {{IPA link|ʃ}}
+| shñiuh
+| {{IPA-fr|ʃɲoːʔ|}}
+| hair
+|-
+! {{IPA link|h}}
+| hynmen
+| {{IPA-fr|hɨnmɛn|}}
+| sibling
+!
+|
+|
+|
+|-
+! {{IPA link|r}}
+| rynsan
+| {{IPA-fr|rɨnsaːn|}}
+| platform
+! {{IPA link|l}}
+| lieh
+| {{IPA-fr|leːʔ|}}
+| white
+|-
+! {{IPA link|j}}
+| ïor
+| {{IPA-fr|jɔːr|}}
+| snow
+! {{IPA link|w}}
+| wah
+| {{IPA-fr|waːʔ|}}
+| river
+|}
+
+===Vowels===
+
+{| class= "wikitable" style="text-align: center;"
+|+Vowel phonemes
+|-
+! colspan= 3 rowspan=2 |
+! colspan= 2 | [[Front vowel|Front]]
+! colspan= 2 | [[Central vowel|Central]]
+! colspan= 2 | [[Back vowel|Back]]
+|-
+! colspan= 1 | [[Short vowel|Short]]
+! colspan= 1 | [[Long vowel|Long]]
+! codspan= 1 | [[Short vowel|Short]]
+! colspan= 1 | [[Long vowel|Long]]
+! colspan= 1 | [[Short vowel|Short]]
+! colspan= 1 | [[Long vowel|Long]]
+|-
+! colspan= 3 | [[Close vowel|Close]]
+| {{IPA link|ɪ}}
+| {{IPA link|iː}}
+| {{IPA link|ɨ}}
+|
+| {{IPA link|ʊ}}
+| {{IPA link|uː}}
+|-
+! colspan= 3 width= 22%|[[Close-mid vowel|Mid-Close]]
+|{{IPA link|e}}
+| {{IPA link|eː}}
+| colspan= 2 |
+|{{IPA link|o}}
+| {{IPA link|oː}}
+|-
+! colspan= 3 |[[Open-mid vowel|Mid-Open]]
+| {{IPA link|ɛ}}
+| {{IPA link|ɛː}}
+| colspan= 2 |
+| {{IPA link|ɔ}}
+| {{IPA link|ɔː}}
+|-
+! colspan= 3 |[[Open vowel|Open]]
+| colspan= 2 |
+| {{IPA link|ä|a}}
+| {{IPA link|äː|aː}}
+| colspan= 2 |
+|}
+
+{|class= "wikitable" style= "text-aliɡn: center;"|
+|+Examples
+|-
+! colspan =1 |
+!
+! IPA
+! Translation
+!
+!
+! IPA
+! Translation
+|-
+! {{IPA link|ɪ}}
+| dinɡ
+| {{IPA-fr|dɪŋ|}}
+| fire
+! {{IPA link|iː}}
+| ih
+| {{IPA-fr|iːʔ|}}
+| cooked
+|-
+! {{IPA link|ɨ}}
+| ynda
+| {{IPA-fr|ɨndaː|}}
+| until
+!
+|
+|
+|
+|-
+! {{IPA link|ʊ}}
+| plunɡ
+| {{IPA-fr|plʊŋ|}}
+| plump
+! {{IPA link|uː}}
+| ruh
+| {{IPA-fr|ruːʔ|}}
+| also
+|-
+!{{IPA link|e}}
+| miet
+| {{IPA-fr|met̚|}}
+|niɡht
+! {{IPA link|eː}}
+| iermat
+| {{IPA-fr|eːrmat̚|}}
+| eyelash
+|-
+!{{IPA link|o}}
+|lum
+|{{IPA-fr|lom|}}
+|hill
+! {{IPA link|oː}}
+| ud
+| {{IPA-fr|oːt̚|}}
+| moan
+|-
+! {{IPA link|ɛ}}
+| renɡ
+| {{IPA-fr|rɛŋ|}}
+| horn
+! {{IPA link|ɛː}}
+| erïonɡ
+| {{IPA-fr|ɛːrjɔŋ|}}
+| whirlwind
+|-
+! {{IPA link|ɔ}}
+| onɡ
+| {{IPA-fr|ɔŋ|}}
+| say
+! {{IPA link|ɔː}}
+| Shillonɡ
+| {{IPA-fr|ʃɨlːɔːŋ|}}
+| Shillonɡ
+|-
+! {{IPA link|a}}
+| sat
+| {{IPA-fr|sat̚|}}
+| spicy
+! {{IPA link|aː}}
+| sad
+| {{IPA-fr|saːt̚|}}
+| ceilinɡ
+|}
+
+==Morphology==
+Khasi is an [[Austroasiatic language]] and has its distinct features of a large number of consonant conjuncts, with prefixing and infixing.
+
+===Nouns and noun phrases===
+
+====Word order====
+The order of elements in a Khasi noun phrase is
+(Case marker)-(Demonstrative)-(Numeral)-(Classifier)-(Article)-Noun-(Adjective)-(Prepositional phrase)-(Relative clause), as can be seen from the following examples:
+
+{{interlinear|lang=kha|indent=3
+|ar tylli ki sim
+|two CL PL bird
+|'two birds'}}
+
+{{interlinear|lang=kha|indent=3
+|kato ka kynthei kaba wan mynnin
+|that:FEM FEM girl FEM-relative come yesterday
+|'that girl who came yesterday'}}
+
+{{interlinear|lang=kha|indent=3
+|ka kmie jong phi
+|FEM mother of you
+|'your mother'}}
+
+====Gender====
+Khasi has a pervasive gender system.  There are four genders in this language:
+
+:u masculine
+:ka feminine
+:i diminutive
+:ki plural
+
+Humans and domestic animals have their natural gender:
+
+:ka kmie `mother'
+:u kpa  `father'
+:ka syiar `hen'
+:u syiar `rooster'
+
+Rabel (1961) writes: "the structure of a noun gives no indication of its gender, nor does its meaning, but Khasi natives are of the impression that nice, small creatures and things are feminine while big, ugly creatures and things are masculine....This impression is not borne out by the facts. There are countless examples of desirable and lovely creatures with masculine gender as well as of unpleasant or ugly creatures with feminine gender"
+
+Though there are several counterexamples, Rabel says that there is some semantic regularity in the assignment of gender for the following semantic classes:
+
+{|
+|'''Feminine'''
+|'''Masculine'''
+|-
+|times, seasons
+|-
+|clothes
+|reptiles, insects, flora, trees
+|-
+|physical features of nature
+|heavenly bodies
+|-
+|manufactured articles
+|edible raw material
+|-
+|tools for polishing
+|tools for hammering, digging
+|-
+|trees of soft fibre
+|trees of hard fibre
+|}
+
+The matrilineal aspect of the society can also be observed in the general gender assignment, where so, all central and primary resources associated with day-to-day activities are signified as Feminine; whereas Masculine signifies the secondary, the dependent or the insignificant.
+
+{|
+|'''Feminine'''
+|'''Masculine'''
+|-
+|Sun (Ka Sngi)
+|Moon (U Bnai)
+|-
+|Wood (Ka Dieng)
+|Tree (U Dieng)
+|-
+|Honey (Ka Ngap)
+|Bee (U Ngap)
+|-
+|House (Ka Ïing)
+|Column (U Rishot)
+|-
+|Cooked rice (Ka Ja)
+|Uncooked rice (U Khaw)
+|}
+
+====Classifiers====
+Khasi has a classifier system, apparently used only with numerals.  Between the numeral and noun, the classifier ''tylli'' is used for non-humans, and the classifier ''ngut'' is used for humans, e.g.
+
+{{interlinear|lang=kha|indent=3
+|Don ar tylli ki sim ha ruh.
+|there:are two CL PL bird in cage
+|'There are two birds in the cage.'}}
+
+{{interlinear|lang=kha|indent=3
+|Don lai ngut ki Sordar ha shnong.
+|there:are three CL PL chief in village
+|'There are three chiefs in the village.'}}
+
+===Adjectives===
+There is some controversy about whether Khasi has a class of adjectives.  Roberts cites examples like the following:
+
+{{interlinear|lang=kha|indent=3
+|u  briew ba-bha
+|MASC man REL-good
+|'a good man'}}
+
+In nearly all instances of attributive adjectives, the apparent adjective has the prefix /ba-/, which seems to be a relativiser.  There are, however, a few adjectives without the /ba-/ prefix:
+
+{{interlinear|lang=kha|indent=3
+|u  'riew sníew
+|MASC man bad
+|'a bad man'}}
+
+When the adjective is the main predicate, it may appear without any verb 'be':
+
+{{interlinear|lang=kha|indent=3
+|U ksew u  lamwir.
+|MASC dog MASC restless
+|'The dog is restless.'}}
+
+In this environment, the adjective is preceded by an agreement marker, like a verb.  Thus it may be that Khasi does not have a separate part of speech for adjectives, but that they are a subtype of verb.
+
+===Prepositions and prepositional phrases===
+Khasi appears to have a well-developed group of prepositions, among them
+:bad    'with, and'
+:da    'with (instrumental)'
+:na    'from'
+:ha    'in, at'
+: Sha    'in, at'
+:jong    'of'
+
+The following are examples of prepositional phrases:
+
+{{interlinear|lang=kha|indent=3
+|ka kmie jong phi
+|FEM mother of you
+|'your mother'}}
+
+{{interlinear|lang=kha|indent=3
+|u slap u ther na ka bneng
+|MASC rain MASC pour from FEM sky
+|'Rain poured from the sky.'}}
+
+===Verbs and verb phrases===
+
+====Agreement====
+Verbs agree with 3rd person subjects in gender, but there is no agreement for non-3rd persons (Roberts 1891):
+{| class="wikitable"
+|-
+!  !! Singular !! Plural
+|-
+| '''1st person''' || nga thoh 'I write' || ngi thoh 'we write’
+|-
+| '''2nd person''' || me thoh 'he (masc) writes' pha thoh 'she (fem) writes' || phi thoh 'you (pl). write'
+|-
+| '''3rd person''' || u thoh 'he writes' ka thoh 'she writes' || ki thoh 'they write’
+|}
+
+The masculine and feminine markers /u/ and /ka/ are used even when there is a noun phrase subject (Roberts 1891:132):
+
+{{interlinear|lang=kha|indent=3
+|Ka  miaw ka pah.
+|FEM cat FEM meow
+|'The cat meows.’}}
+
+====Tense marking====
+Tense is shown through a set of particles that appear after the agreement markers but before the verb. Past is a particle /la/ and future is /yn/ (contracted to 'n after a vowel):
+{| class="wikitable"
+|-
+! Khasi !! English
+|-
+| U thoh. || He writes.
+|-
+|U thoh. || He wrote.
+|-
+| U la thoh. || He has written.
+|-
+| Un thoh || He will write.
+|-
+|}
+
+====Negation====
+Negation is also shown through a particle, /ym/ (contracted to 'm after a vowel), which appears between the agreement and the tense particle.  There is a special past negation particle /shym/ in the past which replaces the ordinary past /la/ (Roberts 1891):
+
+{| class="wikitable"
+|-
+! Khasi !! English
+|-
+| Um ju thoh. || He doesn't write.
+|-
+| Um shym thoh. || He didn't write.
+|-
+| Um nym thoh || He won't write.
+|-
+|Um dei ban thoh
+|He shouldn't write.
+|-
+|}
+
+====Copulas====
+The copula is an ordinary verb in Khasi, as in the following sentence:
+
+{{interlinear|lang=kha|indent=3
+|U Blei u long jingïeid.
+|MASC God MASC be love
+|'God is love’}}
+
+====Causative verbs====
+Khasi has a morphological causative /pn-/ (Rabel 1961). (This is spelled ''pyn'' in Roberts (1891)):
+
+{|  class="wikitable"
+|-
+!Base verb !!Gloss !!Causative verb !!Gloss
+|-
+|hiar ||come down ||pynhiar ||let down, export
+|-
+|tip || know ||pyntip ||make known
+|-
+|phuh ||blossom ||pynphuh ||beautify
+|-
+|ïaid ||walk ||pyn-ïaid ||drive, put agoing
+|-
+|jot ||torn ||pyn-jot ||destroy
+|-
+|poi || arrive ||pyn-poi ||deliver
+|}
+
+===Sentences===
+
+====Word order====
+Word order in simple sentences is subject–verb–object (SVO):
+
+{{interlinear|lang=kha|indent=3
+|U ksew u bam doh.
+|MASC dog MASC eat flesh
+|'The dog eats meat.’}}
+
+However, VSO order is also found, especially after certain initial particles, like hangta 'then' (Rabel 1961).
+
+{{interlinear|lang=kha|indent=3
+|hangta la ong i khnai ïa ka Naam
+|then PAST say dimin mouse ACC FEM Naam
+|'Then said the (little) mouse to Naam ... '}}
+
+====Case marking====
+Sometimes the object is preceded by a particle ya (spelled ia in Roberts 1891).  Roberts says "ia, 'to', 'for', 'against' implies direct and immediate relation.  Hence its being the sign of the dative and of the [[accusative case]] as well"
+
+{{interlinear|lang=kha|indent=3
+|U la ái ia ka kitab ia nga.
+|MASC PAST give ACC FEM book ACC me
+|'He gave the book to me.'}}
+
+It appears from Roberts (1891) that Khasi has [[differential object marking]], since only some objects are marked accusative.  Roberts notes that nouns that are definite usually have the accusative and those that are indefinite often do not.
+
+Rabel (1961) says "the use of ïa is optional in the case of one object.  In the case of two objects one of them must have ïa preceding.... If one of the objects is expressed by a pronoun, it must be preceded by ïa."
+
+Broadly speaking, Khasi marks for eight cases, with the [[nominative case]] remaining unmarked, for a total of nine cases
+
+{| class="wikitable"
+|-
+|Case ||Marker
+|-
+|  [[Nominative case|Nominative]] || unmarked
+|-
+|  [[Accusative case|Accusative]]/ [[Dative case|Dative]] || ïa
+|-
+|  [[Ablative case|Ablative]] || na
+|-
+|  [[Locative case|Locative]] || ha
+|-
+|  [[Allative case|Allative]] || sha
+|-
+|  [[Genitive case|Genitive]] || jong
+|-
+|  [[Instrumental case|Instrumental]] || da
+|-
+|  [[Comitative case|Comitative]] || bad
+|-
+|  [[Vocative case|Vocative]] || ko
+|}
+
+All case markers can appear with or without the prenominal markers/articles 'u, ka, i and ki', and placed before the prenominal markers.
+
+====Passive====
+Khasi has a passive, but it involves removing the agent of the sentence without putting the patient in subject position.  (A type called the 'non-ascensional passive').  Compare the following active-passive pair (Roberts 1891) where the patient continues to have accusative case and remains in the object position:
+
+{{interlinear|lang=kha|indent=3
+|Ki dang tháw ia ka íng da ki dieng..
+|PL contin build ACC FEM house with PL wood
+|'They are building the house with wood.'}}
+
+{{interlinear|lang=kha|indent=3
+|Dang tháw ia ka íng.
+|contin build ACC FEM house
+|'The house is being built.'}}
+
+This type of passive is used, even when the passive agent is present in a prepositional phrase:
+
+{{interlinear|lang=kha|indent=3
+|La lah pyniap ia ka masi da {U Míet}.
+|PAST PFV kill ACC FEM cow by {{{no gloss|U}} Miet}
+|'The cow was killed by U Miet.'}}
+
+====Questions====
+Yes-no questions seem to be distinguished from statements only by intonation:
+
+{{interlinear|lang=kha|indent=3
+|Phi kit khoh Til?
+|you {are carrying} {a basket} Til?
+|'Will you take a basket, Til? Phin shim ka khoh, Til?}}
+
+Wh-questions don't involve moving the wh-element:
+
+{{interlinear|lang=kha|indent=3
+|u leit shaei?
+|MASC go where
+|Where is he going?'}}
+
+====Embedded clauses====
+Subordinate clauses follow the main verb that selects them (Roberts 1891:169):
+
+{{interlinear|lang=kha|indent=3
+|Nga tip ba phi la leh ia kata.
+|I know that you PAST do ACC that
+|'I know that you have done that'}}
+
+Relative clauses follow the nouns that they modify and agree in gender:
+
+{{interlinear|lang=kha|indent=3
+|Ka {samla kynthei} ka-ba wan mynhynnin ka la iáp.
+|FEM girl FEM-relative come yesterday FEM PAST die
+|'The girl who came yesterday has died.'}}
+
+==Syntax==
+Khasi has a SVO syntax, similar to English, but unlike all Indian languages, with the notable exception of [[Kashmiri language|Kashmiri]], which has [[Verb-Second|verb-second (v2) syntax]].
+
+==Dialects of Khasi==
+Khasi has significant dialectal variation. Some dialects are Pnar, Sohra Khasi, Mylliem Khasi, Mawlai Khasi, Nongkrem Khasi, Bhoi Khasi Nonglung, Maram and War (not the same as the related [[War language]]). Bhoi Khasi in Ri Bhoi District, Nongpoh block, and Nonglung in Ri Bhoi District, Umsning block are very different from Standard Khasi, with different word order. They are distinct enough to be sometimes considered separate languages. Sohra and War are lexically very similar.
+
+The Sohra dialect is taken as Standard Khasi as it was the first dialect to be written in [[Latin alphabet|Latin]] and [[Bengali alphabet|Bengali]] scripts by the British. Standard Khasi is in turn significantly different from the Shillong dialects (eight at most) which form a [[dialect continuum]] across the capital region.
+
+==Script==
+In the past, the Khasi language had no script of its own. Some of the Khasi Syiems of old used to keep official records and communicate with one another on paper primarily using the Bengali script. [[William Carey (missionary)|William Carey]] wrote the language with the [[Bengali alphabet|Bengali script]] between 1813 and 1838. A large number of Khasi books were written in the Bengali script, including the famous book ''Ka Niyom Jong Ki Khasi'' or ''The Religion of the Khasis'', which is an important work on the Khasi religion. The Welsh [[missionary]], [[Thomas Jones (missionary)|Thomas Jones]], in 1841 wrote the language in the [[Latin script]]. As a result, the Latin alphabet of the language has a few similarities with the [[Welsh alphabet]]. The first journal in Khasi was ''U Nongkit Khubor'' (The Messenger) published at [[Mawphlang]] in 1889 by [[William Williams (missionary)|William Williams]].
+
+===Khasi alphabet===
+Khasi in Latin script has a different system, distinct from that of English. Khasi uses a 23-letter alphabet by removing the letters c, f, q, v, x and z from the basic Latin alphabet and adding the diacritic letters ï and ñ, and the digraph ng, which is treated as a letter in its own right. 
+{|class= "wikitable" style ="text-align: center;"
+|+Khasi Alphabet
+|-
+!'''Capital letters'''
+|style="border-right: 0;“| A
+|style="border-right: 0;“| B
+|style="border-right: 0;“| K
+|style="border-right: 0;“| D
+|style="border-right: 0;“| E
+|style="border-right: 0;“| G
+|style="border-right: 0;“| Ng
+|style="border-right: 0;“| H
+|style="border-right: 0;“| I
+|style="border-right: 0;“| Ï
+|style="border-right: 0;“| J
+|style="border-right: 0;“| L
+|style="border-right: 0;“| M
+|style="border-right: 0;“| N
+|style="border-right: 0;“| Ñ
+|style="border-right: 0;“| O
+|style="border-right: 0;“| P
+|style="border-right: 0;“| R
+|style="border-right: 0;“| S
+|style="border-right: 0;“| T
+|style="border-right: 0;“| U
+|style="border-right: 0;“| W
+| Y
+|-
+!'''Small letters'''
+|a
+|b
+|k
+|d
+|e
+|g
+|ng
+|h
+|i
+|ï
+|j
+|l
+|m
+|n
+|ñ
+|o
+|p
+|r
+|s
+|t
+|u
+|w
+|y
+|-
+!'''English Pronunciation'''
+|''ah''
+|''bee''
+|''kay''
+|''dee''
+|''ay''
+|''eg''
+|''eng''
+|''esh''
+|''ee''
+|''yee''
+|''jay''
+|''ell''
+|''emm''
+|''enn''
+|''eñ''
+|''oh''
+|''pea''
+|''aar''
+|''ess''
+|''tee''
+|''oo''
+|''double yu''
+|''why''
+|-
+!'''Assamese'''
+|''আ''
+|''ব''
+|''ক''
+|''দ''
+|''এ''
+|''গ''
+|''ঙ''
+|''হ''
+|''ই''
+|''য''
+|''জ''
+|''ল''
+|''ম''
+|''ন''
+|''ঞ''
+|''অ''
+|''প''
+|''ৰ''
+|''স''
+|''ত''
+|''উ''
+|''র''
+|''য়''
+|-
+!'''Bengali'''
+|''আ''
+|''ব''
+|''ক''
+|''দ''
+|''এ''
+|''গ''
+|''অং''
+|''হ''
+|''ই''
+|''য়ি''
+|''জ''
+|''ল''
+|''ম''
+|''ন''
+|''ঞ''
+|''ও''
+|''প''
+|''র''
+|''স''
+|''ত''
+|''উ''
+|''ঊ''
+|''ঈ''
+|}
+
+'''Note'''
+* The peculiar placement of ''k'' is due to it replacing ''c''. ''c'' and ''ch'' were originally used in place of ''k'' and ''kh''. When ''c'' was removed from the alphabet, ''k'' was put in its place.
+* The inclusion of ''g'' is only due to its presence in the letter ng. It is not used independently in any word of native origin.
+* ''h'' represents both the [[fricative]] sound as well as the [[glottal stop]] word-finally.
+* ''y'' is not pronounced as in ''year'', but acts as a [[schwa]], and as a [[glottal stop]] between vowels. The sound in '' year'' is written with ''ï''.
+
+==Sample text in Khasi==
+
+===Article 1 of the Universal Declaration of Human Rights===
+'''Khasi Alphabet'''
+
+Ïa ki bynriew baroh la kha laitluid bad ki ïaryngkat ha ka burom bad ki hok. Ha ki la bsiap da ka bor pyrkhat bad ka jingïatiplem bad ha ka mynsiem jingsngew shipara, ki dei ban ïatrei bynrap lang.
+
+<small>(''Jinis 1 jong ka Jingpynbna-Ïar Satlak ïa ki Hok Longbriew-Manbriew'')</small>
+
+'''Assamese script'''
+যা কি বৃনৰ‌্যের বাৰহ লা খা লাচলোছ বাড কী যৰূঙ্কট হা কি বুৰম বাড ক হক. হাকি লা বৃস্যপ দা ক বৰ-পৃৰ্খট বাড ক চিংযাতিপলেম বাড হা ক মৃন্স্যেম চিংস্ঙেউ শীপাৰা, কী দেই বাণ যত্ৰেই বৃনৰাপ লাং.
+
+<small>(''জিনিস বানৃঙ্গং জং ক চিংপৃনবৃনা-যাৰ সত্লাক যা কি হক লংব্ৰ্যের-মানব্র্যের.'')</small>
+
+'''IPA'''
+
+jaː ki bɨnreʊ baːrɔʔ laː kʰaː lacloc bat ki jaːrɨŋkat haː kaː burɔm bat ki hɔk. haː ki laː bsjap daː kaː bɔːr pɨrkʰat bat kaː dʒɪŋjaːtɪplɛm bat haː kaː mɨnseːm dʒɨŋsŋɛʊ ʃiparaː ki dɛɪ ban jaːtrɛɪ bɨnrap laŋ
+
+(''dʒinɪs banɨŋkɔŋ dʒɔŋ kaː dʒɨŋpɨnbnaː-jaːr satlak jaː ki hɔk lɔŋbreʊ manbreʊ'')
+
+'''Gloss'''
+
+To the human all are born free and they equal in the dignity and the rights. In them are endowed with the power thought and the conscience and in the spirit feeling fraternity they should to work assist together.
+
+(''Article first of the Declaration Universal of the Rights Humanity'')
+
+'''Translation'''
+
+All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should work towards each other in a spirit of brotherhood.
+
+==Basic vocabulary==
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse;"
+! Khasi language
+! English
+|-
+| Khublei (khu-blei)
+| Thank You
+|-
+| Phi long kumno?
+| How are you? In short it is also used as "Kumno?”
+|-
+| Nga khlaiñ
+| I am fine.
+|-
+| Kumne
+| Short form response to 'Kumno?' meaning 'like this'.
+|-
+| Um
+| Water
+|-
+| Ja
+| (cooked) rice
+|-
+| Dohkha (doh-kha)
+| fish (meat)
+|-
+| Dohsyiar (doh-syiar)
+| chicken (meat)
+|-
+| Dohsniang (doh-sni-ang)
+| pork (meat)
+|-
+| Dohmasi (doh-ma-si)
+| beef (meat)
+|-
+| Dohblang (doh-bl-ang)
+| mutton (meat)
+|-
+| Jyntah (jyn-tah)
+| dish (meat/vegetable)
+|-
+| Jhur (jh-ur)
+| vegetable
+|-
+| Dai
+| lentils
+|-
+| Mluh (ml-uh)
+| salt
+|-
+| Duna (du-na)
+| less
+|-
+| Sohmynken (soh-myn-ken)
+| chilli
+|-
+| Sngewbha ai biang seh
+| Please give again (serve again).
+|-
+| Lah biang
+| enough
+|-
+| Sngewbha ai um seh
+| Please give water.
+|-
+| Sngewbha ai ja seh
+| Please give food (rice).
+|-
+| Sngewbha ai jyntah seh
+| Please give (side dish) vegetable / meat.
+|-
+| Ai aiu? / Kwah aiu?
+| What do you want?
+|-
+| Sngewbha ai kwai seh
+| Please give 'kwai'.
+|-
+| Aiu?
+| What?
+|-
+| Mynno?
+| When? (past)
+|-
+| Lano?
+| When? (future)
+|-
+| Hangno? / Shano?
+| Where?
+|-
+| Kumno?
+| How?
+|-
+| Thiah suk.
+| Sleep well. (The equivalent of "Good Night".)
+|-
+| Kumno ngan leit sha Nan Polok?
+| How do I go to Ward's Lake?
+|-
+| Katno ka dor une / kane?
+| What is the price of this? (une is masculine gender, kane is feminine gender and ine
+is neutral gender)
+|-
+| Leit suk.
+| Happy journey
+|-
+| Reply is "Shong suk.”
+| Literal meaning is "Stay happy.”
+|}
+
+===Numbers===
+{| border="2" cellpadding="4" cellspacing="0" style="margin: 1em 1em 1em 0; background: #f9f9f9; border: 1px #aaa solid; border-collapse: collapse;"
+| 1
+| wei
+|-
+| 2
+| ar
+|-
+| 3
+| lai
+|-
+| 4
+| saw
+|-
+| 5
+| san
+|-
+| 6
+| hynriew
+|-
+| 7
+| hynñiew
+|-
+| 8
+| phra
+|-
+| 9
+| khyndai
+|-
+| 10
+| shiphew
+|-
+| 20
+| arphew
+|-
+| 30
+| laiphew
+|-
+| 40
+| sawphew
+|-
+| 50
+| sanphew
+|-
+| 60
+| hynriewphew
+|-
+| 70
+| hynñiewphew
+|-
+| 80
+| phraphew
+|-
+| 90
+| khyndaiphew
+|-
+| 100
+| shispah
+|-
+| 200
+| arspah
+|-
+| 300
+| laispah
+|-
+| 400
+| sawspah
+|-
+| 500
+| sanspah
+|-
+| 600
+| hynriewspah
+|-
+| 700
+| hynñiewspah
+|-
+| 800
+| phraspah
+|-
+| 900
+| khyndaispah
+|-
+| 1000
+| shihajar
+|-
+| 10000
+| shiphewhajar
+|-
+| 100000
+| shilak
+|-
+| 10000000
+| shiklur
+|-
+| 1000000000
+| shiarab
+|}
+
+==Publications in Khasi==
+There are a number of books (including novels, poetry, and religious works) as well as newspapers in the Khasi language.  The most famous Khasi poet is U Soso Tham (1873–1940). The online newspaper U Mawphor is published in the Khasi language.
+
+==References==
+{{Reflist}}
+
+===Sources===
+* Nagaraja, K. S. 1985. ''Khasi – A Descriptive Analysis''. Poona: Deccan College Postgraduate Research Institute.
+* Pryse, William. 1855. ''An Introduction to the Khasia Language''. (Reproduced 1988)
+* Rabel, Lili. 1961. ''Khasi, a Language of Assam''. Baton Rouge, La: [[Louisiana State University Press]].
+* Rabel-Heymann. 1977. "Gender in Khasi nouns".  ''Journal of Mon-Khmer Studies'' 6:247–272
+* Roberts, H. 1891. ''A Grammar of the Khassi Language. For the use of schools, native students, officers and English residents''. London: Kegan Paul, Trench, Trübner.
+* Singh, Nissor. 1906. ''Khasi-English Dictionary''.  Shillong: Eastern Bengal and Assam State Secretariat Press.
+
+==Further reading==
+* 2006-e. Khasi. In E. K. Brown (ed.) Encyclopedia of Languages and Linguistics. Oxford: Elsevier Press.
+
+==External links==
+{{Incubator|code=kha}}
+* [https://web.archive.org/web/20050310045258/http://www.khasilit.org/ Online Khasi literature]
+* [http://www.ciil-lisindia.net/Khasi/Khasi.html Entry for Khasi at the Language Information Service of India]
+* [http://wals.info/languoid/lect/wals_code_khs The World Atlas of Language Structures Online: ''Khasi'']
+* [https://web.archive.org/web/20110514031455/http://www.iitg.ernet.in/rcilts/khasi.htm Resource Center for Indian Language Technology Solutions: ''Khasi'']
+* [https://www.scribd.com/doc/73337003/Khasi/ Khasi to English Vocabulary]
+* [http://www.languageshome.in/English-Khasi.htm Basic words and phrases in Khasi language]
+
+{{Austro-Asiatic languages}}
+{{Languages of Northeast India}}
+{{Languages of India}}
+
+{{Authority control}}
+
+[[Category:Khasian languages]]
+[[Category:Languages of Bangladesh]]
+[[Category:Languages of India]]
+[[Category:Languages of Meghalaya]]

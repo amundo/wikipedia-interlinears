@@ -1,0 +1,495 @@
+{{Infobox language
+|name=Highland Oaxaca Chontal
+|nativename=''Slijuala xanuk''
+|region=[[Oaxaca]]
+|ethnicity=[[Oaxaca Chontal people|Oaxaca Chontal]]
+|speakers=4,394
+|date=2010 census
+|ref=inali
+|familycolor=American
+|fam1=[[Hokan languages|Hokan]] ?
+|fam2=[[Tequistlatecan languages|Tequistlatecan]]
+|iso3=chd
+|glotto=high1242
+|glottorefname=Highland Oaxaca Chontal
+}}
+
+'''Highland Oaxaca Chontal''', or ''Chontal de la Sierra de Oaxaca'', is one of the [[Indigenous people of Oaxaca#Chontal|Chontal]] languages of [[Oaxaca]]. It is sometimes called ''Tequistlatec'', but is not the same as [[Tequistlatec language|Tequistlatec proper]], which is extinct.
+
+== Background ==
+Highland Oaxaca Chontal (or Chontal de la Sierra de Oaxaca) is one of three Tequistlatecan languages family groups. The other two are Huamelultec (Lowland Oaxaca Chontal) and Tequistlatec (extinct). They are spoken or once spoken by the [[Oaxaca Chontal people|Chontal people]] of [[Oaxaca]] State, Mexico. Tequistlatecan language is also referred to as the Chontal of Oaxaca. The distinct breakdown in the dialect of the Chontal of Oaxaca is as follows: Highland Chontal (The mountainous terrain) and Lowland Chontal (Of Pacific coast). The best way to hear and remember Highland Chontal is through the beautiful myths that the native speakers share, a method used by the locals to converse the language. 
+
+It was spoken by 4,400 people in 2010. 
+
+== Phonology ==
+
+=== Consonants ===
+Highland Chontal has a medium-sized inventory of 23 native consonants, along with four borrowed consonants from [[Spanish language|Spanish]] /β ð ɾ r/. It distinguishes [[Ejective consonant|ejective]] consonants, including the cross-linguistically unusual ejective [[Voiceless labiodental fricative|labiodental fricative]] /f'/.
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" rowspan="2" |
+! rowspan="2" |Labial
+! colspan="2" |[[Alveolar consonant|Alveolar]]
+! rowspan="2" |[[Palatal consonant|Palato-<br>(-alveolar)]]
+! rowspan="2" |[[Velar consonant|Velar]]
+! rowspan="2" |[[Glottal consonant|Glottal]]<br>or placeless
+|- style="font-size: x-small;"
+!Central
+!Lateral
+|-
+! rowspan="3" |[[Stop consonant|Stop]]
+!Plain
+|p
+|t
+|
+|
+|k
+|{{IPA|ʔ}}
+|-
+!Voiced
+|b
+|d
+|
+|
+|g
+|
+|-
+!Ejective
+|
+|
+|
+|
+|{{IPA|kʼ}}
+|
+|-
+! rowspan="2" |[[Affricate consonant|Affricate]]
+!Plain
+|
+|ts
+|
+|{{IPA|tʃ}}
+|
+|
+|-
+!Ejective
+|
+|{{IPA|tsʼ}}
+|{{IPA|tɬʼ}}
+|{{IPA|tʃʼ}}
+|
+|
+|-
+! rowspan="3" |[[Fricative consonant|Fricative]]
+!Plain
+|f
+|
+|{{IPA|ɬ}}
+|{{IPA|ʃ}}
+| colspan="2" |x~{{IPA|h}}
+|-
+!Ejective
+|f'
+|
+|
+|
+|
+|
+|-
+!Voiced
+|(β)
+|(ð)
+|
+|
+|
+|
+|-
+! colspan="2" |[[Nasal stop|Nasal]]
+|{{IPA|m}}
+|{{IPA|n}}
+|
+|
+|
+|ɴ̥
+|-
+! colspan="2" |[[Approximant consonant|Glide]]
+|
+|
+|
+|{{IPA|j}}
+|w
+|
+|-
+! colspan="2" |[[Flap consonant|Tap]]
+|
+|(ɾ) 
+|
+|
+|
+|
+|-
+! colspan="2" |[[Trill consonant|Trill]]
+|
+|(r)
+|
+|
+|
+|
+|}
+
+Turner (1966) transcribes the ejective lateral affricate [{{IPA|tɬʼ}}] as an ejective fricative /{{IPA|ɬʼ}}/.<ref>{{Cite book|title=Highland Chontal Grammar|last=Turner|first=Paul Raymond|publisher=University of Chicago|year=1966}}</ref> It is not clear whether the ejective labiodental fricative /{{IPA|fʼ}}/ might likewise be a phonetic affricate [p̪fʼ] or similar.
+
+The placeless [[voiceless nasal]] /ɴ̥/ assimilates to the [[place of articulation]] of the consonant following it, e.g. /ɴ̥t/ > [n̥t]. Thus it has four allophones [m̥ n̥ ɲ̊ ŋ̊]. Its place of articulation before glottal consonants, vowels or pause is unclear, if it occurs in these environments at all.
+
+{| class="wikitable" style="text-align: center;"
+|+ Highland Chontal Glottalized Phonemes:<ref name=":0">Sonnenschein, Aaron. (Unpublished/pending). ''In Mesoamerican Languages Handbook. (Tentative title).'' S. Wichmann (ed). Mouton DeGruyer. (Invited Chapter).</ref>
+|-
+!
+!Bilabial
+!Labiodental
+!Alveolar
+!Palato Alveolar
+!Velar
+|-
+!Ejective Stop
+|
+|
+|
+|
+|k'
+|-
+!Ejective Affricatives
+|
+|
+|ts'
+|tʃ'
+|
+|-
+!Glottalized Fricatives
+|
+|f'
+|
+|
+|
+|-
+!Glottalized Nasals
+|m'
+|
+|n'
+|
+|ŋ’
+|-
+!Glottalized Lateral Fricatives
+|
+|
+|ɫ’
+|
+|
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Highland Chontal Non-Glottalized consonant Phonemes:<ref name=":0" />
+|-
+!
+!Bilabial
+!Labio-dental
+!Alveolar
+!Palato-Alveolar
+!Palatal
+!Velar
+!Glottal
+|-
+!Plosives
+|p, b
+|
+|t, d
+|
+|
+|k, g
+|ɂ
+|-
+!Affricates
+|
+|
+|ts
+|tʃ
+|
+|
+|
+|-
+!Fricatives
+|
+|f
+|s
+|ʃ
+|
+|
+|
+|-
+!Nasals
+|m
+|
+|n
+|
+|ɲ
+|ŋ 
+|
+|-
+!Lateral fricatives
+|
+|
+|ɫ
+|
+|
+|
+|
+|-
+!Lateral Approximants
+|
+|
+|l
+|
+|
+|
+|
+|-
+!Trill
+|
+|
+|r
+|
+|
+|
+|
+|-
+!Central Approximants
+|ʍ, w
+|
+|
+|
+|
+|
+|
+|}
+
+=== Vowels ===
+Highland Chontal has an inventory of five vowels, an arrangement similar to Spanish and many other world languages:
+{| class="wikitable" style="text-align: center;"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPA link|i}}
+|
+|{{IPA link|u}}
+|-
+![[Mid vowel|Mid]]
+|{{IPA link|e̞|e}}
+|
+|{{IPA link|o̞|o}}
+|-
+![[Open vowel|Open]]
+|
+|{{IPA link|ä|a}}
+|
+|}
+
+The distinction between /e/ and /a/ is neutralized before /j/.
+
+There is no [[Hiatus (linguistics)|vowel hiatus]] (since all syllables begin with a consonant), nor any phonemic diphthongs.
+
+In the Highland Chontal also has stressed vowels which are  /í é á ó ú/.
+
+== Orthography ==
+In Highland Chontal, phonemes correspond to orthographic conventions which are in angled brackets <>.<ref>{{Cite journal|last=Langdon|first=Margaret|date=1996|title=Notes on Highland Chontal Internal Reconstruction|url=https://escholarship.org/uc/item/6n24r733|journal=UC Berkeley:Department of Linguistics}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+
+|p
+|t, c <ts>
+|
+|č <ch>
+|
+|k <c, qu/_i, e>
+|
+|
+|
+|
+|-
+|f{{'}}
+|c' <ts'>
+|
+|č' <ch'>
+|
+|k'<c' q' u/_i, e>
+|
+|ʔ <h>
+|
+|t{{'}}
+|-
+|f
+|s.N<jn>
+|
+|š <x>
+|
+|W<ju>
+|
+|h <j>
+|
+|t
+|-
+|b
+|d
+|
+|
+|
+|g
+|
+|
+|
+|
+|-
+|m
+|n
+|
+|y
+|
+|ŋ  w
+|
+|
+|
+|l
+|}
+
+== Syntax ==
+The structure for highland Chontal is formatted but, not limited to: Verb-Subject-Object or VSO another order is SVO. Rules for prefixes depend on the tense used,
+
+Example: in the first-person plural for an object, if it is present in a sentence, is does not allow subject prefix. The order for certain words like adjectives and nouns can change, the examples below can be used for reference:<ref name=":03">{{Cite book|title=The Chontal Language Family|last=Sonnenschein|first=Aaron|publisher=Unpublished Manuscript- Pending|pages=20}}</ref>
+
+{{interlinear|indent=3
+|la-pin-jla ijle l-ipa alfujka, iya ka-pina-m-u lumshali k-ipa
+|1S.OBJ-give-NM.IMP DEM LIM-flower white 1S 1S.NPAST-give-FUT-2S.OBJ red LIM-flower
+|‘Give me the white flower and I will give you the red flower.’}}<ref name=":03" />
+
+=== Suffixes ===
+Identifying a singular person object in a sentence is marked by a suffix, plural objects in sentences are always suffixes.<ref name=":03" />
+
+=== Morphemes ===
+The morpheme in the sentence structure determines which roots are used by verb stems. Readers can identify nouns in sentences by “limiters” these are described as prefixes. Limiters can be in a sentence structures as initial words and also be present if possession prefixes are present.<ref name=":03" />
+
+The Highland Chontal of Tequistlatecan has a complex system of verbal prefix system.<ref name=":05">{{Cite journal|last=Richter|first=Gregory C.|date=October 1982|title=Highland Chontal Morphology: Some New Perspectives|journal=International Journal of American Linguistics|volume=48|issue=4|pages=472–476|doi=10.1086/465757|issn=0020-7071}}</ref> According to Gregory Richter, the author of "Highland Chontal Morphology: Some New Perspectives", the current morphological structure for Highland Chontal is that there are distinct verb classes and they each have a set of corresponding prefixes.<ref name=":05"/> Highland Chontal can be differentiated from Lowland with its tense and subject prefixes, the sets of rules for prefixes in highland is not found with lowland chontal.<ref name=":03" />
+ 
+{| class="wikitable"
+!
+!singular
+!plural
+|-
+!1st person
+|{{interlinear|l-ayn-inu-ba|when-1SG-run-RCT|"when I ran"}}
+|{{interlinear|l-al-inul-ba|when-1PL-run-RCT|"when we ran"}}
+|-
+!2nd person
+|{{interlinear|l-om-inu-ba|when-2SG-run-RCT|"when you ran"}}
+|{{interlinear|l-ol-inul-ba|when-2PL-run-RCT|"when you ran"}}
+|-
+!3nd person
+|{{interlinear|l-inu-ba|when-run-RCT|"when he ran"}}
+|{{interlinear|l-inul-ba|when-run{{=}}PL-RCT|"when they ran"}}
+|}
+
+{| class="wikitable"
+|+ Morphological Structure for Run
+|-
+!
+!Recent indicative
+!Present Indicative
+|-
+!1sg
+|n-inu-ba
+|g-inu
+|-
+!2sg
+|m-inu-ba
+|d-a-ynu
+|-
+!3sg
+|inu-ba
+|d-inu
+|-
+!1pl
+|l-inul-ba
+|l-inul-yi
+|-
+!2pl
+|ol-inul-ba
+|d-ul-inul-yi
+|-
+!3pl
+|inul-ba
+|d-inul-yi
+|}
+
+Morphological structure: VERB--> (NPST-) (PREFIX-) ROOT (-SUFFIX)<ref name=":05"/>
+
+The tables above show the one to one correspondence between segments of a prefix and its underlying representation.<ref name=":05" />
+
+The table shows the changes in the paradigm of /inu/ (run) when appended to the particle /l/ (when).with yes/no are used by rising the pitch of speech in speaking. Examples:<ref name=":03" />
+
+{{interlinear|indent=3
+|inu gal-tejua?
+|hot LIM-food
+|‘Is the food hot?’}}
+
+{{interlinear|indent=3
+|o-tsewoh-ma al-plaza?
+|2S-go-IMPF LIM-plaza
+|‘Did you go to the plaza?’}}
+
+{{interlinear|indent=3
+|o-shim-pa jiwa jl-unga?
+|2S-see-PAST ahead LIM-fire
+|‘Did you see the fire up ahead?’}} <ref name=":03" />
+
+=== Particles ===
+Highland Chontal contains three main interrogative particles for inquiring more information, the particles are:
+
+be- ‘where’, nai- ‘who’, and te ‘what’<ref name=":03" />
+
+{{interlinear|indent=3
+|nai-li-shim-p-o
+|who-3P.PAST-see-PAST-2S.OBJ
+|‘Who saw you?’}}
+
+{{interlinear|indent=3
+|nai-ko-shim-pa?
+|who-2S.PAST-see-PAST
+|‘Who did you see?’}}
+
+{{interlinear|indent=3
+|te-ko-na-juohma
+|what-2S.PAST-buy-RCT.PAST
+|‘What did you buy?’}}
+
+{{interlinear|indent=3
+|be-go-paha
+|where-2S.PAST-be
+|‘Where are you?’}}<ref name=":03" />
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+LIM:limiter
+RCT:recent
+IMPF:imperfective
+</div><section end="list-of-glossing-abbreviations"/>
+
+== References ==
+<references />
+
+==External links==
+{{sister project |project=wiktionary |text=[[Wiktionary]] has a word list at '''''[[Wiktionary:Appendix:Highland Chontal word list|Appendix:Highland Chontal word list]]'''''}}
+*[http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\hok\teq&first=0 Highland Oaxaca Chontal basic lexicon at the Global Lexicostatistical Database]
+
+{{Hokan languages}}
+
+[[Category:Tequistlatecan languages]]
+[[Category:Endangered indigenous languages of the Americas]]

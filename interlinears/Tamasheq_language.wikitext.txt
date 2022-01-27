@@ -1,0 +1,581 @@
+{{Short description|Tuareg Berber macro-language of North Africa}}
+{{for|the macrolanguage sometimes called Tamasheq|Tuareg languages}}
+{{distinguish|Tamazheq language (disambiguation){{!}}Tamazheq language}}
+{{Infobox language
+| name = Tamashek
+| nativename = Tafaghist
+| states = [[Mali]], [[Burkina Faso]]
+| region = [[Sahara]]
+| ethnicity = [[Tuareg people|Tuareg]]
+| speakers = 500,000
+| date = 2014
+| ref = e18
+| familycolor = Afro-Asiatic
+| fam2 = [[Berber languages|Berber]]
+| fam3 = [[Tuareg languages|Tuareg]]
+| fam4 = Southern
+| script = {{startplainlist|class=nowrap}}
+* [[Latin script]]
+* [[Tifinagh]]
+{{endplainlist}}
+| iso3 = taq
+| glotto = tama1365
+| glottorefname = Tamasheq
+| notice = IPA
+| altname = Tamasheq, Tamachen, Tamashekin, Tomacheck
+}}
+
+'''Tamashek''' or '''Tamasheq''' is a Malian variety of [[Tuareg languages|Tuareg]], a [[Berber languages|Berber]] [[macro-language]] widely spoken by nomadic tribes across North Africa in [[Algeria]], [[Mali]], [[Niger]], and [[Burkina Faso]]. Tamasheq is one of the three main varieties of Tuareg, the others being Tamajaq and [[Tamahaq language|Tamahaq]].<ref name=":0" />{{Rp|2}}  
+
+Tamashek is spoken mostly in Mali, especially in its central region including [[Timbuktu]], [[Kidal]], and [[Gao]]. It is also spoken by a smaller population in Burkina Faso. As of 2014, approximately 500,000 people speak Tamashek, 378,000 of whom are Malian.<ref name=":1" /> The livelihood of the Tuareg people has been under threat in the last century, due to climate change and a series of political conflicts, notably the [[Tuareg rebellion (1990–1995)|Arab-Tuareg rebellion]] of 1990-95 in Mali which resulted in ethnic cleansing of the Tuareg in the form of reprisal killings and exile.<ref name=":0" />{{Rp|5-6}} Tamashek is currently classified as a developing language (5), partly due to the Malian government's active promotion of the language; it is currently taught in public education, from primary schools to adult literacy classes.<ref name=":1">{{Cite web|url=https://www.ethnologue.com/language/taq|title=Tamasheq|website=Ethnologue|language=en|access-date=2019-04-11}}</ref> 
+
+Tamashek is often understood in Mali as a term that denotes all Tuareg varieties.<ref name=":0" />{{Rp|3}} Other alternative names for Tamashek include Tamachen, Tamashekin, and Tomacheck.<ref name=":1" />
+
+== Dialect divisions of Malian Tamashek ==
+There are divergent views regarding Tamashek's dialect divisions. Some report two main dialects, named Timbuktu and Tadhaq.<ref name=":1">{{Cite web|url=https://www.ethnologue.com/language/taq|title=Tamasheq|website=Ethnologue|language=en|access-date=2019-04-11}}</ref>
+
+Others take there to be roughly three main divisions of Malian Tamashek:<ref name=":0">{{Cite book|title=A grammar of Tamashek (Tuareg of Mali)|last=Heath, Jeffrey.|date=2005|publisher=Mouton de Gruyter|isbn=3110184842|location=Berlin|oclc=60839346}}</ref>{{Rp|6}}
+
+# Kal Ansar dialects around Timbuktu (denoted 'T-Ka')
+# "mainstream" Tamashek dialects spoken in Kidal, Tessalit, the Gao area, and the non-Kal Ansar groups around Timbuktu
+# dialects spoken by certain groups in the Gourma of Gao and Ansongo
+
+== Phonology ==
+
+=== Vowels ===
+The Tamashek language has seven [[Vowel|vowels]] in total: two frontal vowels /i/, /æ/; three central vowels /ə/, /æ/, /a/; and two back vowels /u/ /o/. There are two [[short vowels]], /ə/ and /æ/, and the rest are full vowels. There are no [[Diphthong|diphthongs]].<ref name=":0" />{{Rp|34}} 
+{| class="wikitable"
+|+
+Short Vowels 
+!
+!Front
+!Central
+!Back
+|-
+!High
+|
+|ə
+|
+|-
+!Low
+|
+|æ 
+|
+|}
+{| class="wikitable"
+|+Full (Long) Vowels
+!
+!Front
+!Central
+!Back
+|-
+!High
+|i
+|
+|u
+|-
+!Mid-height
+|e
+|
+|o
+|-
+!Low
+|
+|a
+|
+|}
+While all vowels occur word-initially and word-medially, only full vowels occur word-finally.<ref name=":0" />{{Rp|34}}
+
+=== Consonants ===
+Tamashek has 33 [[Consonant|consonants]], featuring six manners of articulation and eight places of articulation. There are no [[Non-pulmonic consonant|non-pulmonic]] consonants. The consonants are detailed in the table below. <ref name=":0" />{{Rp|23}}
+
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" colspan="2" |
+! rowspan="2" | [[Labial consonant|Labial]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Palatal consonant|Palato-<br>alveolar]]
+! rowspan="2" | [[Velar consonant|Velar]]
+! rowspan="2" | [[Uvular consonant|Uvular]]
+! rowspan="2" | [[Pharyngeal consonant|Pharyngeal]]
+! rowspan="2" | [[Laryngeal consonant|Laryngeal]]
+|-
+! {{small|plain}}
+! {{small|[[Pharyngealization|pharyngealized]]}}
+|-
+! rowspan="2" | [[Plosive]]
+!{{small|voiceless}}
+|({{IPA link|p}})
+|{{IPA link|t}}
+|({{IPA link|tˤ}})
+|{{IPA link|tʃ}}
+|{{IPA link|k}}
+|({{IPA link|q}})
+|
+|({{IPA link|ʔ}})
+|-
+!{{small|voiced}}
+|{{IPA link|b}}
+|{{IPA link|d}}
+|{{IPA link|dˤ}}
+|{{IPA link|gʲ}}
+|{{IPA link|g}}
+|
+|
+|
+|-
+! rowspan="2" | [[Fricative]]
+!{{small|voiceless}}
+|{{IPA link|f}}
+|{{IPA link|s}}
+|({{IPA link|sˤ}})
+|{{IPA link|ʃ}}
+|
+|{{IPA link|χ}}
+|({{IPA link|ħ}})
+|{{IPA link|h}}
+|-
+!{{small|voiced}}
+|
+|{{IPA link|z}}
+|{{IPA link|zˤ}}
+|{{IPA link|ʒ}}
+|
+|{{IPA link|ʁ}}
+|({{IPA link|ʕ}})
+|
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|
+|{{IPA link|ɲ}}
+|{{IPA link|ŋ}}
+|
+|
+|
+|-
+! rowspan="2" | [[Liquid consonant|Liquid]]
+!{{small|lateral}}
+|
+|{{IPA link|l}}
+| ({{IPA link|ɫ}})
+|
+|
+|
+|
+|
+|-
+!{{small|rhotic}}
+|
+|{{IPA link|r}}
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" | [[Approximant]]
+|{{IPA link|w}}
+|
+|
+|{{IPA link|j}}
+|
+|
+|
+|
+|}
+
+The table places the two laryngeal consonants, and /h/ and /ʔ/, according to the [[International Phonetic Alphabet chart|IPA chart]] (the source did not specify their manners of articulation).
+
+Consonants in a single parenthesis are of marginal use, "confined largely to loanwords."<ref name=":0" />{{Rp|23}} Consonants of Arabic origins --  /sˤ/, /ɫ/, /ħ/, /ʕ/, and /ʔ/ -- occur in Arabic loanwords. The glottal stop /ʔ/ is already largely absent in local Arabic dialects, is thus only found in unassimilated Islamic vocabulary.<ref name=":0" />{{Rp|24}} 
+
+Consonants in a double parenthesis occur mostly as geminated versions of other consonants. An uvular stop /q/ principally occurs in the [[Gemination|geminated]] form /qq/, which can be interpreted as the "phonetic realization of geminated /ɣɣ/.<ref name=":0" />{{Rp|24}}
+
+=== Accent ===
+[[Accent (sociolinguistics)|Accent]] "is an important feature of Tamashek."{{clarify|date=November 2021}} The role of accent is "very different" for verbs and nouns. For nouns and other non-verb stems, accent is lexically determined. This is not the case for verbs. According to the rule called "default accentuation," the accent falls on the antepenult or on the leftmost syllable of verbs. The exception to the rule is resultative and long imperfect positive stems.<ref name=":0" />{{Rp|20}} 
+
+For example, ''a-bæ̀mbæra'', which means [[Bambara people|Bambara]], has its primary accent on the antepenult syllable. A bisyllabic word ''hæ̀ræt'', which is glossed as 'thing,' has its accent on the initial syllable.<ref name=":0" />{{Rp|83-84}}
+
+== Morphology ==
+Tamashek's two main morphological processes are [[ablaut]] and [[Affix|affixation]], with the former permeat[ing] the language. Many processes also undergo a combination of the two.<ref name=":0" />{{RP|21}}
+
+=== Derivational morphology ===
+Most of Tamashek [[Noun|nouns]] are underived, although some are [[Morphological derivation|derived]] by "some combination of ablaut and prefixation." For example, the noun ''t-æ-s-ȁnan-t'', which means 'oxpecker,' is prefixally derived from the causative verb ''æ̀ss-onæn'' 'tame, break in animal' with its ''-s-'' prefix.<ref name=":0" />{{RP|13}}
+
+In Tamashek, nearly all "modifying adjectives" are participles of inflected intransitive verbs.<ref name=":0" />{{RP|243}} For example, the verb 'to ripe' is ''əŋŋá'', and it is inflected into participles such as ''i-ŋŋá-n'' (MaSg) or ''t-əŋŋá-t'' (FeSg). These resultative participles are used with "adjectival" sense, adjectivalized into the word 'ripened'.{{RP|502,503}}
+
+=== Nominal morphology ===
+
+==== Gender and number ====
+Gender and number are mainly marked using affixation, though in many cases they use ablaut or a combination of both.
+
+Most nouns, regardless of gender, have vocalic [[Prefix|prefixes]], varying between -''æ-/-ə, -a-, or -e-'' for the singular, and invariable ''i-'' in the plural. Some nouns entirely lack a vocalic prefix, e.g. ''deké'' ('basket').<ref name=":0" />{{RP|162,164}}
+
+Feminine nouns are additionally marked by the Fe[minine] prefix ''t-''. For feminine singular nouns, suffix ''-t'' is required to denote singularity, thus we see a [[circumfix]] ''t-...-t.'' In cases where the stem ends in a vowel, however, an additional inner Fe suffix ''-t-'' is added before the outer suffix, thus the affix frame becomes ''t-...-t-t''.<ref name=":0" />{{RP|166}} 
+
+In addition to the plural vocalic prefix ''-i-'', pluralization of nouns requires gender-based suffixation: for feminine plural nouns, suffix ''-en'' or ''-ten'' is added, while for masculine nouns Ma[sculine] suffix ''-æn'' or ''-tæn'' is added. In some cases, a noun pluralizes by stem ablaut without suffixation; one example of unsuffixed plural ablaut is ''æ̀-ɣata'' ('crocodile'), which is pluralized to ''ì-ɣata''.<ref name=":0" />{{RP|162,211}} 
+
+The table below illustrates the idealized morphological rules of gender and number marking explained so far:
+{| class="wikitable"
+|+
+!Number
+!Gender
+!Typical Rules
+!Example(s)
+!Translation
+|-
+| rowspan="2" |'''Singular''' 
+'''(Sg)'''
+|'''Masculine (Ma)'''
+|'''Sg prefix''' (''-æ-/-ə, -a-, or -e-)'' 
+|''æxxú''
+|'monster'<ref name=":0" />{{RP|165}}
+|-
+|'''Feminine (Fe)'''
+|'''Sg prefix''' (''-æ-/-ə, -a-, or -e-)'' 
++ '''Fe circumfix''' (''t-...-(t)t)''
+|''t-æ-s-ȁnan-t''
+
+|'oxpecker'<ref name=":0" />{{RP|13}}
+|-
+| rowspan="2" |'''Plural'''
+'''(Pl)'''
+|'''Masculine (Ma)'''
+|'''Pl prefix''' (''-i-)'' +
+'''MaPl suffix''' (''-æn'' or ''-tæn)''
+|''i-xxú-tæn''
+|'monsters'<ref name=":0" />{{RP|165}}
+|-
+|'''Feminine (Fe)'''
+|'''Pl prefix''' (''-i-)'' 
+'''FePl suffix''' (''-en'' or ''-ten)''
+|''t-i-s-ànan-t''
+|'oxpeckers'<ref name=":0" />{{RP|14}}
+|}
+
+==== Compounding ====
+Tamashek makes use of [[Compound (linguistics)|compounding]] to form nouns. Most noun-noun compounds necessitate a possessor [[Preposition and postposition|preposition]] ə̀n in between the two morphemes, which can be analytically structured as [X [ə̀n Y]] 'X of Y.' Depending on the nouns, ə̀n may become unaccented, as shown in the first example below.<ref name=":0" />{{RP|263}}
+{| class="wikitable"
+|+
+Compounding Examples
+!Compounding Type
+!Example
+|-
+|Noun + Noun
+|{{interlinear|t-e-fæ̏tel-t ən bə́t̩ron|F-SG-lamp-F.SG POSS gasoline|||lang=}}'gas lamp'<ref name=":0" />{{Rp|263}}
+|-
+|Verb + Noun
+|{{interlinear|kæ̀wkæw í-ɣbab|peck PL-tree.hole|||lang=}}'woodpecker'<ref name=":0" />{{Rp|269}}
+|-
+|Adjective + Noun
+|{{interlinear|èrk hæræt|bad thing.SG|||lang=}}'a bad thing'<ref name=":0" />{{Rp|267}}
+|}
+
+=== Verbal morphology ===
+Ablaut distinguishes the three basic inflectable verb stems in Tamashek:<ref name=":0" />{{RP|15-16}}
+
+#[[Perfective aspect|perfective]]
+#short [[Imperfective aspect|imperfective]]
+# long imperfective
+
+Ablaut can change a perfect present stem to a [[resultative]] stem. For example, the perfect present stem of the verb 'to run' is ''òšæl'', and its resultative stem is ''òšál''.{{RP|306}} Note the vowel change from /æ/ to /á/. Ablaut also creates perfective negative stems; for example, the perfect negative stem of ''əhlæk'', the perfect present stem of 'destroy,' is ''ə̀hlek''.<ref name=":0" />{{RP|310}} 
+
+Affixation is also a morphological tool for Tamashek verbs. One category of verbal affixation is pronominal subject affixes. For example, pronominal subject marking in positive imperatives uses [[Suffix|suffixation]]. The table demonstrates second person subject affixes in imperatives with the example of the verb ''ə̀jjəš'' ('enter').<ref name=":0" />{{RP|438}}
+{| class="wikitable"
+|+
+!Number
+!Gender
+!Suffix
+!Example
+|-
+!'''Singular (Sg)'''
+!N/A
+|zero (bare stem)
+|''ə̀jjəš''
+|-
+! rowspan="2" |'''Plural (Pl)'''
+!Masculine (Ma)
+|'''-æt'''
+|''ə̀jjə̏š-'''æt'''''
+|-
+!Feminine (Fe)
+|'''-mæt'''
+|''ə̀jjə̏š'''-mæt'''''
+|}
+
+Suffixation is responsible for [[hortative]] stems. The hortative suffix ''-et'' can be added to short imperfective stems. For example:
+
+{{interlinear|indent=3|lang=jig
+|n-əkrəbbə̏-t-et
+|1PL.SBJ-taste-AUG-HORT
+|'Let's taste!'<ref name=":0" />{{RP|321}} }}
+
+=== Particles ===
+[[Grammatical particle|Particles]] exist in Tamashek. One type of particle is preposition-like, and these particles precede noun phrases or independent pronouns.<ref name=":0" />{{RP|291}} For example:
+
+{{interlinear|indent=3|abbreviations=DISTANCE:Distance; ANAPH:Anaphora
+|úlli,  súnd a-wén-dæɣ |goats, like M-DISTANCE-{{gcl|ANAPH||}}
+|'Goats, (they are) like that.'<ref name=":0" />{{Rp|292}}}}
+
+Many categories of discourse-functional particles exist as well. For example, ''ɣás'' is an "extremely common" phrase-final particle that means 'only':
+
+{{interlinear|indent=3|abbreviations=RES:Resultative
+|i-t̩t̩ás, ɣás 
+|3M.SG.SBJ-sleep.RES, only
+|'He just sleeps.'<ref name=":0" />{{RP|617-618}}}} 
+
+Another example, though less common, is a clause-final particle ''yá'', which emphasizes on the truth of a statement:
+
+{{interlinear|indent=3
+|ə̀jle-ɣ yɑ́ 
+|go.PFV.POS-1SG.SBJ EMPH
+|'(Yes) I did go!'<ref name=":0" />{{RP|616}}}}
+
+=== Clitics ===
+In terms of structure, [[Clitic|clitics]] are "normally realized at the end of the first word" in the clause. There are many types of clitics, including directionals, object and dative [[Pronominal|pronominals]], pronominal prepositional phrases, etc. Below, clitics are indicated by the symbol "-\".<ref name=":0" />{{RP|595}}
+
+==== Directional clitics ====
+There are two directional clitics -- "centripetal" clitics and "centrifugal" clitics -- and they cannot co-occur. The directional clitics are attached to the pronominal clitics hosted by the same word, and are usually accented.<ref name=":0" />{{RP|595}}
+
+The centripetal clitic's rudimentary form is -\''ə̀dd''. Its allomorphic variation depends on postvocalic versus postconsonantal position (e.g. -\''ə̀d'' if , -\''dd'' after a, and -\''hə̀dd'' after high V). This clitic can be best understood as 'here,' as it specifies a direction toward "the deictic center." If the verb is non-motion, then the clitic suggests that the action was directed toward 'here' or was carried out in 'this direction'.<ref name=":0" />{{RP|596,598}} 
+
+{{interlinear|indent=3
+|osæ-n-\ə́dd  
+|arrive.PFV.POS-3M.PL-\CENTRIPETAL
+|'They came (here).'<ref name=":0" />{{RP|597}}}}
+
+{{interlinear|indent=3
+|i-su-\hə́dd
+|3M.SG.SBJ-cough.PFV.POS-\CENTRIPETAL
+|'He coughed (while coming this way).'<ref name=":0" />{{RP|597}}}}
+
+On the other hand, the centrifugal clitic (-\''ín'') indicates direction away from the deictic center, and is best translated to 'away' or 'there' in English.<ref name=":0" />{{RP|601
+}}
+
+{{interlinear|indent=3|abbreviations=CENTRIFUGAL:Centrifugal
+|wær-\hín mȉl-æɣ
+|NEG-\CENTRIFUGAL be.on.way.LO.IPFV-1SG.SBJ
+|'I am not coming (there).'<ref name=":0" />{{RP|600}}}}
+
+==== Pronominal clitics ====
+
+===== Object clitics =====
+Pronominal object clitics are attached at the end of a simple [[transitive verb]], or a preverbal particle if relevant. Pronominal clitics show wide [[Allomorph|allomorphic variation]] mainly depending on point of view and plurality. Allomorphs differ both syntactically and phonologically. The table below shows first person object clitics found in Kal Ansar dialects (T-ka).<ref name=":0" />{{RP|603}} 
+{| class="wikitable"
+|+
+! rowspan="2" |person
+!preverbal
+! colspan="3" |postverbal
+|-
+|'''after vowel or consonant'''
+|'''after /u/, /i/'''
+|'''after consonant'''
+|'''after /a/'''
+|-
+!1Sg
+|''-\hi''
+|''-\ha-hi''
+|''-\a-hi''
+|''-\ø-hi''
+|-
+!1Pl
+|''-\hə-næɤ''
+|''-\ha-næɤ''
+|''-\a-næɤ''
+|''-\ø-næɤ''
+|}
+As seen in the table, the T-ka first-person singular object clitic attached to a preverbal particle is '''''-\hi'''''. The phrase 'he makes me weep' translates to ''i-s-álha'''-\hi''''', with the clitic attached at the end of the verb 'to make weep' (álha).<ref name=":0" />{{RP|603}}
+
+The table below shows second and third person object clitics for T-ka dialects. The column designated for post-a variants also occasionally applies for post-i variants.<ref name=":0" />{{RP|604}}
+{| class="wikitable"
+!Person
+!postverbal after /a/
+!elsewhere
+|-
+!2MaSg
+|(i)-\k
+|''-\kæy''
+|-
+!2FeSg
+|(i)-\m
+|''-\kæm''
+|-
+!2MaPl
+|(i)-\wæn
+|''-\kæwæn''
+|-
+!2FePl
+|(i)-\kmæt
+|''-\kæmæt''
+|-
+!3FeSg
+| -\et
+|''-\tæt''
+|-
+!3MaPl
+| -\en
+|''-\tæn''
+|-
+!3FePl
+| -\enæt
+|''-\tænæt''
+|}
+
+===== Dative clitics =====
+Tamashek also makes use of pronominal [[Dative case|dative]] clitics. The basic dative morpheme is -\''ha''-, and it gets reduced to -\''a''\ or -\''hə'' in certain contexts. 1Sg and 1Pl object and dative clitics are identical.<ref name=":0" />{{RP|607}}
+
+{{interlinear|indent=3
+|i-wæt-\ȁ-hi-\tt
+|3M.SG.SBJ-hit.PFV.POS-\DAT-1SG-\3M.SG.OBJ
+|'he hit it for me.'}}
+This example shows the first-person dative clitic -\''a-hi'', which follows the verb 'hit' (''wæt'').<ref name=":0" />{{RP|609}}
+
+==== Ordering of clitics ====
+The basic ordering of clitics is as follows:<ref name=":0" />{{RP|610}} 
+
+# host word
+# cliticized preposition
+# objective and/or dative
+# directional 
+# pronominal prepositional phrase
+
+For example:
+
+{{interlinear|indent=3
+|ma-\dæɤ-\hà-m-\tæn-\dd e ȉ-ž-ænš ? 
+|what?-\in-\DAT-2F.SG-\3M.PL.OBJ-\CENTRIPETAL FUT 3M.SG.SBJ-CAUS-trade.SH.IPFV ?
+|'With (lit.:"in") what will he buy them for you?'<ref name=":0" />{{RP|610}}}}
+
+== Syntax ==
+=== Word order ===
+Tamashek's simple main clauses have the [[word order]] of VSO: [verb(-\clitics)  (subject)  (object)...].<ref name=":0">{{Cite book|title=A grammar of Tamashek (Tuareg of Mali)|last=Heath, Jeffrey.|date=2005|publisher=Mouton de Gruyter|isbn=3110184842|location=Berlin|oclc=60839346}}</ref>{{RP|16}} 
+
+{{interlinear|indent=3
+|ənhæ̀y-æn médd-æn élu
+|see.PFV.POS-3M.PL.SBJ men-M.PL elephant 
+|‘The men saw the elephant.’<ref name=":0" />{{RP|17}}}}
+
+{{interlinear|indent=3
+|ənhæy-æ̀ɤ hæræt
+|see.PFV.POS-1SG.SBJ thing
+|'I saw a thing'<ref name=":0" />{{RP|95}}}}
+
+=== Verb phrases ===
+As shown in the examples above, the verb precedes the object.  
+
+[[Auxiliaries]] precede the verb phrase. Future particle has a form ''àd'' in clause-initial position.<ref name=":0" />{{Rp|589}} For example:  
+
+{{interlinear|indent=3
+|àd i-jə́l
+|FUT 3M.SG.SBJ-go.SH.IPFV
+|'will go away'<ref name=":0" />{{RP|590}}}} 
+
+The clause-internal negative particle is ''wæ̀r'', though it is heard as [''wər''] if it is directly before {ə u i}.<ref name=":0" />{{RP|587}} For example:
+
+{{interlinear|indent=3
+|wər ə̀ssen-æɤ
+|NEG know.PFV.NEG-1SG.SBJ
+|'I don't know.'<ref name=":0" />{{RP|587}}}} 
+
+=== Noun phrases ===
+In Tamashek, a NP starts with the head noun, followed by an [[adnominal]] complement such as a demonstrative, a possessor, or a relative clause. Tamashek does not have definiteness marking.<ref name=":0" />{{RP|14}}
+
+A few chief examples of NP are given below:
+
+==== Demonstrative NP ====
+{{interlinear|indent=3
+|æ-háles w-á
+|SG-man M-DEM.SG
+|'this man'<ref name=":0" />{{RP|15}}}} 
+
+==== Relative clause NP ====
+{{interlinear|indent=3
+|æ-háles mæqqór-æn
+|SG-man be.big-PTCP.M.SG
+|'a big man'<ref name=":0" />{{RP|15}}}}
+
+==== Possessor NP ====
+{{interlinear|indent=3
+|é-dægg [n æ-háləs]
+|SG-place [of SG-man]
+|'the place of the man'<ref name=":0" />{{RP|15}}}} 
+
+==== Numeral NP ====
+Unlike the above three types where the NP starts with the head noun, numerals normally precede the head noun. One exception is when the numeral 'one' functions as an indefinite determiner, rather than as an actual number.<ref name=":0" />{{RP|14}} 
+{{interlinear|indent=3
+|əssín méddən
+|two.M man.PL
+|'two men'<ref name=":0" />{{RP|15}}}} 
+
+=== Adpositional phrases ===
+Tamashek has [[Preposition and postposition|prepositions]].  
+{{interlinear|indent=3
+|dæ̀ɤ æ-ho
+|in smoke
+|'‘in (the) smoke’<ref name=":0" />{{RP|96}}}} 
+
+{{interlinear|indent=3
+|jèr-əs dætén burkína
+|between-3SG and Burkina
+|'between it (a town) and Burkina (neighboring country)'<ref name=":0" />{{RP|289}}}} 
+
+=== Interrogatives ===
+In Tamashek, [[Interrogative word|question particles]] precede the clause.<ref name=":0" />{{RP|649-662}}
+
+{{interlinear|indent=3
+|ajə́mm' ə́ttižal ə́n ʕali wæ̀r ø-æwwed̩
+|yes/no? due.date POSS Ali NEG 3M.SG.SBJ-arrive.PFV.NEG
+|'Has Ali's due date not arrived?’<ref name=":0" />{{RP|649}}}} 
+
+{{interlinear|indent=3
+|mí i-táttæ-n
+|who? 3M.SG.SBJ-eat.LO.IPFV.POS-PTCP.M.SG
+|'Who is eating?’<ref name=":0" />{{RP|650}}}} 
+
+=== Topicalization ===
+[[Topicalization]] is present in Tamashek, and a topicalized constituent may appear "before the clause proper."<ref name=":0" />{{RP|615}} For example:
+
+{{interlinear|indent=3
+|næ̀kk ə̀nta əqqìm-æɤ-\ə́dd
+|1SG 3SG sit.PFV.POS-2SG.SBJ-\CENTRIPETAL
+|'As for me, I stayed.’<ref name=":0" />{{RP|615}}}}
+
+=== Focalization ===
+[[Focus (linguistics)|Focalization]] is present in Tamashek. The focalized constituted is "fronted to sentence-initial position." The morpheme à, best understood as a minimal demonstrative form, usually follows the focus.<ref name=":0" />{{RP|643}} For example:
+
+{{interlinear|indent=3
+|t-a-də̏ɤnu-t-t [à kánn-æɤ]
+|F-Sg-cream-F-F.SG [FOC make.LO.IPFV-1SG.SBJ]
+|'It is millet cream[focus] that I am making.’<ref name=":0" />{{RP|645}}}} 
+
+==References==
+{{Reflist}}
+
+== Further reading ==
+* Sudlow, David. ''The Tamasheq of North-East Burkina Faso: notes on grammar and syntax including a key vocabulary''. Vol. 1. R. Köppe Verlag, 2001.
+
+==External link==
+*[https://www.youtube.com/watch?v=eMGMtsdbQWY Daily phrases in Tamasheq]
+{{Languages of Burkina Faso}}
+{{Languages of Libya}}
+{{Languages of Mali}}
+{{Languages of Mauritania}}
+{{Berber languages}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+POS:positive
+CENTRIPETAL:centripetal
+SH:short
+LO:Long
+</div><section end="list-of-glossing-abbreviations"/>
+
+[[Category:Berbers in Burkina Faso]]
+[[Category:Berbers in Mali]]
+[[Category:Languages of Burkina Faso]]
+[[Category:Languages of Mali]]
+[[Category:Tuareg languages]]
+
+[[br:Tamajekeg]]
+[[hr:Tayart Tamajeq (jezik)]]
+[[sh:Tayart Tamajeq (jezik)]]

@@ -1,0 +1,528 @@
+{{Use dmy dates|date=November 2019}}
+{{Use Australian English|date=February 2019}}
+{{short description|Variety of the Western Desert language}}
+{{Infobox language
+|name=Martu Wangka
+|altname=Wangkatjunga
+|region=Northwest [[Western Australia]]
+| ethnicity = [[Kartudjara]], [[Manjiljarra]], [[Yulparija]], [[Maduwongga]]
+| speakers = 860
+| date = 2016 census
+| ref = e21
+|familycolor=Australian
+|fam1=[[Pama–Nyungan languages|Pama–Nyungan]]
+|fam2=[[Wati languages|Wati]]
+|fam3=[[Western Desert Language|Western Desert]]
+| iso3 = mpj
+| glotto = mart1256
+| glottorefname=Martu Wangka
+| aiatsis=A87
+}}
+
+'''Martu Wangka''', or '''Wangkatjunga''' (Wangkajunga), is a variety of the [[Western Desert language]] that emerged during the 20th century in [[Western Australia]]<ref name="Jones">{{cite book|last=Jones|first=Barbara|title=A grammar of Wangkajunga: a language of the Great Sandy Desert of north Western Australia|year=2011|publisher=Pacific Linguistics|location=Canberra|isbn=9780858836488}}</ref> as several [[indigenous Australian|indigenous communities]] shifted from their respective territories to form a single community. Traditionally, its speakers live in territory that is part of the [[Great Sandy Desert]] and near the Canning Stock Route, as well as Christmas Creek and [[Fitzroy Crossing]]. These are areas that are considered deserts but have many water holes that speakers travel between.<ref name=":028">{{Cite book|title=A grammar of Wangkajunga : a language of the Great Sandy Desert of north Western Australia|last=1947–|first=Jones, Barbara (Barbara Josephine)|date=2011|publisher=Pacific Linguistics, Research School of Pacific and Asian Studies, The Australian National University|others=Australian National University. Pacific Linguistics.|isbn=9780858836488|location=Canberra|oclc=796935273}}</ref>{{Rp|1–2}} There are an estimated 1,080 speakers of Martu Wangka in various communities across the Western Desert region. The largest of these communities is estimated at roughly 100 speakers, while some of the smallest communities have as few as 15 speakers. While older speakers continue to use Martu Wangka as their primary language, younger speakers tend to understand Martu Wangka but use different languages in their daily lives.<ref name=":028"/>{{Rp|18–19}} For example, many younger speakers primarily use an English-based creole commonly referred to as the Fitzroy Valley Kriol.<ref>{{Cite book|title=Grammatical and semantic aspects of Fitzroy Valley Kriol|last=Hudson|first=Joyce|publisher=Summer Institute of Linguistics|year=1983|location=Darwin}}</ref>
+
+The alternative language name 'Wangkatjunga' to identify this variety only appears to have emerged in the 1970s.<ref>{{Cite web|url=http://austlang.aiatsis.gov.au/main.php|title=Wangkatjunga Language Information|access-date=4 April 2017|archive-url=https://web.archive.org/web/20160827040823/http://austlang.aiatsis.gov.au/main.php|archive-date=27 August 2016|url-status=dead}}</ref> This name is said to have been based on the words "wangka" meaning "talk" or "word" and "junga" meaning "correct" or "straight," so when put together, the language name essentially means "the correct language." It is important to note, however, that there is still some debate on how this name should be spelled, as it has been recorded differently by different linguists studying the language.<ref name=":028"/>{{Rp|11}} A dictionary of over 400 pages was published in 1992.{{sfn|Marsh|1992}}
+
+==History==
+Martu Wangka developed after two tribes, the [[Kartudjara]] and the [[Manjiljarra]] came in from the Western desert to settle into [[Jigalong]] during the 1960s. Though tribally distinct, they spoke two mutually intelligible dialects of the [[Western Desert language|Western Desert language family]]. Through daily cohabitation, they developed what is technically known as a [[Linkage (linguistics)|''communalect'']]. In this process, elements of the two languages are selected to fuse into a single shared idiom, thus forming a [[lingua franca]] distinct from the originative dialects of the various groups who settled down to live together.{{sfn|Mühlhäusler|McGregor|1996|p=117}}
+
+== Phonology ==
+=== Vowels ===
+Martu Wangka contains three contrastive vowels, which may be either short or long.<ref name=Jones /> Long vowels are less common and usually occur either on the first syllable of a word or as the ending of a monosyllabic word.<ref name=":028"/>{{Rp|27, 33}} The chart below illustrates this:
+{| class="wikitable"
+|+Vowel Phonemes<ref name=":028"/>{{Rp|27}}
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|- align="center"
+!'''[[High vowel|High]]'''
+|i, iː
+|
+|u, uː
+|- align="center"
+!'''[[Low vowel|Low]]'''
+|
+|a, aː
+|
+|}
+
+* /i/ has allophones [i], [ɪ] in free variation. When following a palatal consonant, or preceding a retroflex continuant /ɻ/, it can be realised as [ɛ].
+* /u/ has the allophones [u], [ʊ]. When following or preceding palatal consonants, it may be realised as more fronted to [ʉ].
+* /a/ is typically pronounced as [a]. When in unstressed positions as a second syllable of a three syllable word, it can be pronounced as [ə] and word-finally as [ʌ]. When following the glide /w/, or preceding a velar consonant, it can be realised as [ɒ]. When between two laterals, it can be realised as [æ].
+
+=== Consonants ===
+There are 17 consonants in Martu Wangka, dispersed over 5 different places and 6 manners of articulation. Speakers of Martu Wangka generally do not make distinctions between voiced and voiceless stops. The [[apico-alveolar]] and apico-retroflex consonants are very similar and can be pronounced differently depending on the speaker, so it is often difficult to normalize the way these sounds are recorded.<ref name=":028"/>{{Rp|26–28}}
+{| class="wikitable"
+|+Consonant Phonemes<ref name=":028"/>{{Rp|27}}
+! rowspan="2" |
+! colspan="2" |[[Peripheral consonant|Peripheral]]
+![[Laminal consonant|Laminal]]
+! colspan="2" |[[Apical consonant|Apical]]
+|- align="center"
+![[Bilabial consonant|Bilabial]]
+![[Velar consonant|Velar]]
+![[Palatal consonant|Palatal]]
+![[Alveolar consonant|Alveolar]]
+![[Retroflex consonant|Retroflex]]
+|- align="center"
+![[Stop consonant|Stop]]
+|p
+|k
+|ɟ/c
+|t
+|ʈ
+|- align="center"
+![[Nasal consonant|Nasal]]
+|m
+|ŋ
+|ɲ
+|n
+|ɳ
+|- align="center"
+![[Lateral consonant|Lateral]]
+|
+|
+|ʎ
+|l
+|ɭ
+|- align="center"
+![[Tap consonant|Tap]]
+|
+|
+|
+|
+|ɽ
+|- align="center"
+![[Approximant consonant|Approximant]]
+|w
+|
+|j
+|
+|ɻ
+|}
+
+* /k/ can have a voiced allophone [ɡ] when occurring after nasal continuants, or in different intervocalic positions. It may also be heard as a voiced fricative [ɣ] in intervocalic positions.
+* /ɟ/ can have a voiceless fricative allophone [ç] when occurring intervocalically.
+* /ʈ/ can also be heard as tap sounds [ɾ~ɽ] in various intervocalic positions.
+
+=== Syllable Structure ===
+In Martu Wangka, most words contain two or more syllables, and most words end in vowels. Although some words may end in an apical nasal or lateral consonant, most words that would end in a consonant are appended with an [[Epenthesis|epenthetic]] syllable '''-pa''<nowiki/>' to avoid ending the word on a consonant. The most standard syllable template is CV(V)(C). The chart below shows various syllabic templates, along with examples.<ref name=":028"/>{{Rp|33}}
+{| class="wikitable"
+!Template
+!Example
+!Translation
+|-
+|CV
+|'''ju'''.'''nu'''
+|'waterhole'<ref name=":028"/>{{Rp|32}}
+|-
+|CVV
+|'''muu'''.ngu
+|'fly'<ref name=":028"/>{{Rp|33}}
+|-
+|CVC
+|'''kurn.tal'''
+|'niece'<ref name=":028"/>{{Rp|39}}
+|-
+|CVVC
+|'''kaarn'''.ka
+|'crow'<ref name=":028"/>{{Rp|33}}
+|}
+
+=== Stress ===
+Martu Wangka has stress similar to that of other languages in its family: primary stress usually falls on the first syllable of a word, and secondary stress usually falls on the second syllable after the primary stressed syllable (essentially alternating between stressed and unstressed, marked starting from the left). The final syllable of a word is usually unstressed.<ref name=":028"/>{{Rp|44}}
+
+== Morphology ==
+
+=== Nominals ===
+In Martu Wangka, nominal morphology has [[affixation]], [[reduplication]], [[Compound (linguistics)|compounding]], and [[case marking]]. The usual formula for constructing a noun is<blockquote>nominal word = nominal root – (derivation) (derivation) – inflection (inflection)<ref name=":028"/>{{Rp|60}}</blockquote>
+
+==== Derivational Suffixes ====
+Nominals in Martu Wangka do not all have derivational suffixes, but when they do, these suffixes attach directly to the nominal root and then are followed by any inflectional suffixes. The usual derivational suffixes function to indicate a nominal having or lacking something, the related timing and spacing, comparison of certain properties, or number. The table below shows examples of some of the common derivational affixes associated with these groupings. The word containing the relevant suffix is bolded in each line of the gloss.<ref name=":028"/>{{Rp|60, 66–67}}
+{| class="wikitable"
+!Function
+!Suffix
+!Meaning
+!Example
+|-
+| rowspan="2" |Having/Lacking a thing or property
+|''-kurlu''
+|having
+|{{Interlinear|yirna pampa '''warta-kurlu''' ya-nu|{old man} blind '''stick-{{gcl|HAV|having}}''' go-PST|'The blind man walked with a stick.'<ref name=":028"/>{{Rp|68}}}}
+|-
+|''-pinti''
+|associated thing
+|{{Interlinear|jina-pinti|foot-{{gcl|THING|Associated Thing}}|'shoe'<ref name=":028"/>{{Rp|69}}}}
+|-
+| rowspan="2" |Associated Time and Space
+|''-jarra''
+|associated time
+|{{Interlinear|munga-jarra|dark-{{gcl|ASST|Associated Time}}|'night-time'<ref name=":028"/>{{Rp|71}}}}
+|-
+|''-puru''
+|temporal
+|{{Interlinear|kalya-puru|water-TEMP|'rainy season'<ref name=":028"/>{{Rp|71}}}}
+|-
+| rowspan="2" |Comparison of Properties
+|''-yuru''
+|similar
+|{{Interlinear|Ma-nu wirrupu-ngu '''yampaly-yuru''' '''ngaa-yuru'''|get-PST throw-PST '''flour-{{gcl|SIM|Similar}}''' '''DEM-{{gcl|SIM|Similar}}'''|'She got '''stuff the same as this flour''' and sprinkled it.'<ref name=":028"/>{{Rp|73}}}}
+|-
+|''-munu''
+|contradictive
+|{{Interlinear|'''Kumpupaja-munu''' nganayi minyili mirrka|'''bush.tomato-{{gcl|CONTR|Contradictive}}''' {{gcl|HES|Hesitation}} minyili fruit|'It's '''not a bush tomato,''' it's um, minyili fruit.'<ref name=":028"/>{{Rp|74}}}}
+|-
+| rowspan="2" |Numbers
+|''-marlu''
+|numerative
+|{{Interlinear|'''Ngana-marlu'''-ya nyin-in-pa?|'''INDEF-NUM'''-{{gcl|3plS|Third Person Plural Subject}} stay-PRES-PA|''''How many''' are there?'<ref name=":028"/>{{Rp|76}}}}
+|-
+|''-rarra''
+|related kin (pair)
+|{{Interlinear|nyupa-rarra|spouse-{{gcl|PAIR|Related Kin (pair)}}|'husband and wife'<ref name=":028"/>{{Rp|77}}}}
+|}
+
+=== Verbs ===
+Martu Wangka contains around 70 basic verbs that can serve as verbal roots and then an indefinite amount of complex verbs formed through various morphological processes. These verbs contain a wide variety of meanings including but not limited to actions, motions, physical positions, sensations, and utterances. The usual formula for constructing a verb is<blockquote>verbal word = (direction) (preverb) verbal root (derivation) (derivation) inflection (directional affixes)<ref name=":028"/>{{Rp|152}}</blockquote>
+
+==== Derivational Affixes ====
+Derivational verb morphology in Martu Wangka consists of various [[causative]]s, [[inchoatives]], and directional affixes. Causitives include suffixes like '''-ma''<nowiki/>', which creates a transitive verb from a nominal, and '<nowiki/>''-ju''<nowiki/>', which indicates that something has been put on, over, into, etc. Inchoatives serve as change-of-state verbs and modify nominals that describe various states of existence like being alive or cold. Directional affixes are used to modify existing verbs and indicate the type or direction of action.<ref name=":028"/>{{Rp|168–169, 172, 177}}
+{| class="wikitable"
+! rowspan="2" |Type
+! rowspan="2" |Affix
+! rowspan="2" |Function/Meaning
+! colspan="2" |Example
+|-
+!Nominal/Verbal Root
+!Derived Verb
+|-
+| rowspan="2" |Causitive
+|''-ma''
+|forms a transitive verb from a nominal
+|''junga''
+'straight'
+|''junga-ma-rra''
+'(subject) make (object) straight'<ref name=":028"/>{{Rp|168}}
+|-
+|''-ju''
+|'cause to be put on, over, into, etc.'<ref name=":028"/>{{Rp|169}}
+|''tapurr''
+'hole'
+|''tapurr-jurra''
+'put hole into something'<ref name=":028"/>{{Rp|170}}
+|-
+| rowspan="2" |Inchoative
+|''-arri''
+|change of state
+|''minjil''
+'orphan'
+|''minjil-arri-''
+'(subject) become an orphan, be bereft'<ref name=":028"/>{{Rp|173}}
+|-
+|''-rri''
+|change of state
+|''kayili''
+'north'
+|''kayili-rri-''
+'turn around to the north'<ref name=":028"/>{{Rp|173}}
+|-
+|Direction
+|''maa-''
+|'away from'
+|''yanin''
+'go'
+|
+{|
+|''Maa-yan-in-pa {{ns|5}}''
+|''yawurta {{ns|5}}''
+|-
+|away-go-PRES-PA {{ns|5}}
+|horse {{ns|5}}
+|-
+| colspan="2" |'The horse is going away.'<ref name=":028"/>{{Rp|178}}
+|}
+|}
+
+==== Inflectional Affixes ====
+Inflectional affixes on verbs are used to indicate tense and how the speaker feels about the action that the verbal root describes. Tense affixes include indicators of present, past, future, [[Perfective aspect|perfective]], and [[Imperfective aspect|imperfective]] tenses. Feeling affixes can be used to inflect when a speaker wants something to happen, is trying to make something happen, believes that something should happen, and to discuss hypothetical scenarios.<ref name=":028"/>{{Rp|182–186}}
+
+There are 4 different conjugation classes that determine how verbs realize various inflectional morphemes: the ''ø'' class, ''wa'' class, ''rra'' class, and ''la'' class. These classes are organized by shared characteristics of the imperative form of the verb.<ref name=":028"/>{{Rp|182}}
+
+=== Reduplication ===
+There is both nominal and verbal reduplication in Martu Wangka, which is usually used to generate a new word with related meaning, but can also be used to emphasize certain actions or traits. Nominal reduplication has two types: reduplication and frozen reduplication. With reduplication, the nominal is repeated, which creates a new reduplicated nominal. With frozen reduplication, only the reduplicated form of the nominal is in the language and the non-reduplicated form does not exist.<ref name=":028"/>{{Rp|62, 64}}
+
+Verbal reduplication can be both partial, full, and frozen reduplication. To form a reduplicated verb, usually the verb root or the preverb of a compound verb is reduplicated. It is typically used when creating a word for an action that repeats itself, such as going around in circles.<ref name=":028"/>{{Rp|167}}
+{|
+|
+{| class="wikitable"
+|+Examples of Nominal Reduplication
+!Type
+!Nominal
+!Reduplicated Nominal
+|-
+| rowspan="2" |Reduplication
+|''ngunju''
+'chin'
+|''ngunjungunju''
+'beard'<ref name=":028"/>{{Rp|63}}
+|-
+|''juku''
+'small'
+|''jukujuku''
+'very small'<ref name=":028"/>{{Rp|63}}
+|-
+|Frozen Reduplication
+|
+|''jurnjurnpa''
+'brain'<ref name=":028"/>{{Rp|64}}
+|}
+|}
+{|
+|
+{| class="wikitable"
+|+Examples of Verbal Reduplication
+!Type
+!Verb
+!Reduplicated Verb
+|-
+|Root Reduplication
+|''yinala''
+'collect'
+|''yinalyinala''
+'gather lots'<ref name=":028"/>{{Rp|167}}
+|-
+|Preverb Reduplication
+|''kurtiyarra''
+'turn over'
+|''kurtikurtiyarra''
+'roll over, somersault'<ref name=":028"/>{{Rp|167}}
+|-
+|Frozen Reduplication
+|
+|''mirrimirriwa''
+'itch'<ref name=":028"/>{{Rp|167}}
+|}
+|}
+
+=== Compounding ===
+Compound nominals are formed in two ways: either two independent roots are put together to form a new word with a separate meaning, or one independent root is put together with another root that does not contain independent meaning. The majority of compound nominals are words for various plants and animals, but they are also formed to describe words originally not in Martu Wangka.<ref name=":028"/>{{Rp|65}}
+
+Compound verbs consist of a [[preverb]], which can be either a nominal or an independent class, and a verbal root. Verbal roots are simple verbs that contain the core meaning of the compound verb. Some examples of compounding on verbals roots are illustrated below.<ref name=":028"/>{{Rp|158}}
+{| class="wikitable"
+|+Compound Nominal Examples
+!Noun 1
+!Noun 2
+!Compound Noun
+|-
+|''mangka''
+'hair'
+|''wala''
+'egg'
+|''mangkawala''
+'hat'<ref name=":028"/>{{Rp|65}}
+|-
+|''murti''
+'knee'
+|''tikil''
+'dry'
+|''murtitikil''
+'camel'<ref name=":028"/>{{Rp|66}}
+|}
+{| class="wikitable"
+|+Compound Verb Examples
+!Verbal Root
+!Preverb
+!Compound Verb
+|-
+| rowspan="2" |''-jurra''
+'put'
+|''kurlpa''
+'vomit'
+|''kurlpajurra''
+'put vomit on something'<ref name=":028"/>{{Rp|160}}
+|-
+|''yirri''
+[not an independent verb]
+|''yirrijurra''
+'sic/put dogs onto game'<ref name=":028"/>{{Rp|159}}
+|-
+| rowspan="2" |''-puwa''
+'hit'
+|''kinil''
+'phlegm'
+|''kinilpuwa''
+'phlegm hits'<ref name=":028"/>{{Rp|161}}
+|-
+|''karrarta''
+'anxious'
+|''karrartan-puwa''
+'frighten (hit with fright)'<ref name=":028"/>{{Rp|161}}
+|-
+| rowspan="2" |''-kati''
+'carry'
+|''yaliny''
+'shoulder'
+|''yaliny-kati''
+'carry across the shoulders'<ref name=":028"/>{{Rp|163}}
+|-
+|''kawan''
+'forgetful'
+|''parra-kawan-kati''
+'wandering around stupidly'<ref name=":028"/>{{Rp|163}}
+|}
+
+=== Case and Agreement ===
+
+==== Grammatical Case Marking ====
+The system of case and agreement in Martu Wangka is [[Ergative–absolutive language|Ergative-Absolutive]]. The suffix associated with the absolutive case is ''-ø'', which indicates lack of a suffix, and the suffixes associated with the ergative case are ''-lu'' when preceded by a vowel and ''-ju'' or ''-tu'' when preceded by a consonant. Martu Wangka also contains a third grammatical case known as the [[Dative case|dative]] case, which serves to mark the purpose of an action and is suffixed with -''ku''. The examples below show these three types of grammatical case marking.<ref name=":028"/>{{Rp|79}}
+{| class="wikitable"
+!Case
+!'''Suffix'''
+!'''Example'''
+|-
+|'''Ergative'''
+|''-lu, -ju, -tu''
+|{{Interlinear|Puntu-lu wirta-ø pu-ngu|man-ERG dog-ABS hit-PST|'The man hit the dog.'<ref name=":028"/>{{Rp|80}}}}
+|-
+|'''Absolutive'''
+|''-ø''
+|{{Interlinear|Tuju-ø ya-nu|woman-ABS go-PST|'The woman went.'<ref name=":028"/>{{Rp|82}}}}
+|-
+|'''Dative'''
+|''-ku''
+|{{Interlinear|Puntu-ra ya-nin-pa mirrka-ku|man-{{gcl|3sgDAT|Third Person Singular Dative}} go-PRES-PA food-DAT|'The man is going for food.'<ref name=":028"/>{{Rp|84}}}}
+|}
+These grammatical cases are particularly important in a language like Martu Wangka because it has very free word order, so these case markings serve to indicate the functions of and relationships between nominals in a sentence. For example, these cases can indicate subject and object, agent and experiencer (of an action), force of an action (such as when an object causes something to happen instead of a human), purpose of an action, and even beneficiary of an action.<ref name=":028"/>{{Rp|81, 84–85, 129}}
+
+==== Semantic Case Marking ====
+While the ergative and absolutive markings serve primarily grammatical functions, Martu Wangka also contains case markings that can be loosely categorized as semantic markings. Semantic case markings are considered an extension of the argument and are used primarily to relate the argument to a location. For example, the [[locative case]] indicates the location of an argument, the [[perlative case]] describes an object moving along a path within a location, the [[allative case]] describes an object moving to a location, and the ablative case describes an object moving away from a location.<ref name=":028"/>{{Rp|88–93}}
+
+== Syntax ==
+
+=== Word Order ===
+Martu Wangka has free word order, meaning that there is no grammatical basic word order. Instead, words are ordered semantically and the most important parts of the sentence come the earliest in the sentence. For example, new information introduced into a conversation tends to come before information that has already been discussed. In a narrative about a journey, information about direction and distance comes first because those are the most important things for travelers to know. Some examples are shown below.<ref name=":028"/>{{Rp|298, 303–304}}
+{|
+|
+{|
+|'''S'''
+|'''V'''
+|'''O'''
+|-
+|''Tuju-lu-pula-jananya'' {{ns|5}}
+|''pulturr-pu-ngu'' {{ns|5}}
+|''pura'' {{ns|5}}
+|-
+|woman-ERG-3dlS-3plO {{ns|5}}
+|thread-hit-PST {{ns|5}}
+|bush.tomato {{ns|5}}
+|-
+| colspan="3" |'The women threaded the bush tomatoes.'<ref name=":028"/>{{Rp|162}}
+|}
+|
+{|
+|'''S'''
+|'''O'''
+|'''V'''
+|-
+|''Tuju-lu'' {{ns|5}}
+|''kalyu-ø'' {{ns|5}}
+|''jikin-in-pa'' {{ns|5}}
+|-
+|woman-ERG {{ns|5}}
+|water-ABS {{ns|5}}
+|drink-PRES-PA {{ns|5}}
+|-
+| colspan="3" |'The woman is drinking water.'<ref name=":028"/>{{Rp|157}}
+|}
+|-
+|
+{|
+| colspan="2" |'''O'''
+|'''S'''
+| colspan="2" |'''V'''
+|-
+|''Jina-ya-pulyana'' {{ns|5}}
+|''wirta'' {{ns|5}}
+|''pinga-lu'' {{ns|5}}
+|''paja-rnu'' {{ns|5}}
+|''kujarra-ngulyu'' {{ns|5}}
+|-
+|foot-3plS-3dlO {{ns|5}}
+|dog {{ns|5}}
+|ant-ERG {{ns|5}}
+|bite-PST {{ns|5}}
+|two-CERT {{ns|5}}
+|-
+| colspan="5" |'The ants bit the dog's feet, the two of them.'<ref name=":028"/>{{Rp|241}}
+|}
+|
+{|
+|'''V'''
+|'''S'''
+|'''O'''
+|-
+|''Kampangu-rni'' {{ns|5}}
+|''nguyumpara-lu'' {{ns|5}}
+|''jina-ø'' {{ns|5}}
+|-
+|burn-PST-1sgO {{ns|5}}
+|fire-ERG {{ns|5}}
+|foot-ABS {{ns|5}}
+|-
+| colspan="3" |'The fire burnt my foot.'<ref name=":028"/>{{Rp|153}}
+|}
+|}
+
+=== Questions ===
+Martu Wangka has [[tag question]]s, in which certain questions are followed by a tag that indicates the type of question. The tag always comes at the end of the question. For example, the 'kurlu' tag comes at the end of a yes/no question and the 'you know' tag, which is borrowed from English, is common at the end of rhetorical questions as an afterthought.<ref name=":028"/>{{Rp|311}}
+{| class="wikitable"
+!''-kurlu''
+!'you know'
+|-
+|{{Interlinear|Kuka jii nyunmi kurlu|game DEM cooked {{gcl|TAG|Question Tag}}|That meat is cooked, isn't it?}}
+|{{Interlinear|Mirrka-laju yanga nga-lkun-ma jirilypaja you know|plant.food-{{gcl|1-plexS|First person plural exclusive subject}} DEM eat-IRR-{{gcl|PSTIMP|Past Imperfective}} plant.food {{gcl|TAG|Question Tag}} {}|A plant food, that one we used to eat call 'jirilypaja', you know.}}
+|}
+Martu Wangka also has [[Interrogative word|interrogative pronouns]] 'ngana,' 'wanja', 'jaatu', and 'nyangula,' which translate to the English words 'what,' 'where', 'where', and 'when', respectively. These interrogative nominals always come at the start of a clause.<ref name=":028"/>{{Rp|120, 312}}{{Interlinear|Nyanagula-n ya-nku|when-{{gcl|2sgS|Second Person Singular Subject}} go-{{gcl|FUT|Future Tense}}|When will you go?}}
+
+==See also==
+*[[Ngurrara]], a grouping of peoples of language groups including Martu Wangka
+
+== References ==
+{{reflist}}
+
+==Sources==
+{{refbegin|30em}}
+*{{Cite journal| title =  Nyangumarta: Alive and adapting 
+ | last =  Bucknall | first = Gwen  
+ | year = 1997
+ | journal =Australian Review of Applied Linguistics
+ | volume =20
+ | issue =1
+ | pages =43–56
+ | doi = 10.1075/aral.20.1.03buc }}
+*{{Cite book| title = Martu Wangka – English dictionary
+ | last = Marsh | first = James
+ | year = 1992
+ | publisher = [[SIL International|Australian Aborigines and Islanders Branch, Summer Institute of Linguistics]] | location = Darwin
+ | url = https://books.google.com/books?id=diQaAQAAIAAJ
+ | isbn = 086892346X
+ }}
+*{{Cite book| chapter = Post-contact languages of Western Australia
+ | last1 = Mühlhäusler | first1 = Peter
+ | last2 = McGregor | first2 = William
+ | title = Atlas of Languages of Intercultural Communication in the Pacific, Asia, and the Americas
+ | editor1-last = Wurm | editor1-first = Stephen A.
+ | editor2-last = Mühlhäusler | editor2-first = Peter
+ | editor3-last = Tryon | editor3-first = Darrell T.
+ | year = 1996
+ | volume = 1 | pages = 101–121
+ | publisher = [[Walter de Gruyter]]
+ | chapter-url = https://books.google.com/books?id=lFW1BwAAQBAJ&pg=RA1-PA117
+ | isbn = 978-3-110-81972-4
+ }}
+{{refend}}
+
+{{Authority control}}
+
+[[Category:Western Desert language]]

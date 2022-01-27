@@ -1,0 +1,802 @@
+{{Short description|Indo-Aryan language native to the Indian subcontinent}}
+{{for multi|the Nigerian language|Pali language (Chadic)|other uses|Pali (disambiguation)}}
+{{Distinguish|Bali language (disambiguation)}}
+{{cleanup lang|date=April 2019}}
+{{Use dmy dates|date=July 2020}}
+{{Use Indian English|date=May 2016}}
+{{Infobox language
+| name          = Pali
+| pronunciation = {{IPA-all|paːli|}}
+| states        = [[Indian subcontinent]]
+| era           = 3rd century BCE – present
+| ref           = <ref>Nagrajji (2003) "Pali language and the Buddhist Canonical Literature". ''Agama and Tripitaka'', vol. 2: Language and Literature.</ref>
+| speakers2     = Liturgical language of Theravada Buddhism
+| familycolor   = Indo-European
+| fam2          = [[Indo-Iranian languages|Indo-Iranian]]
+| fam3          = [[Indo-Aryan languages|Indo-Aryan]]
+| fam4          = [[Middle Indo-Aryan languages|Middle Indo-Aryan]]
+| script        = [[Brāhmī script|Brāhmī]], [[Kharosthi]], [[Khmer script|Khmer]], [[Burmese script|Burmese]], [[Thai script|Thai]], [[Sinhala script|Sinhala]] and transliteration to the [[Latin alphabet]]
+| iso1          = pi
+| iso2          = pli
+| iso3          = pli
+| linglist      = pli
+| notice        = Indic
+| glotto        = pali1273
+| glottorefname = Pali
+| notice2       = IPA
+}}
+[[File:Burmese Kammavaca Manuscript.jpg|alt=|thumb|350x350px|Burmese Kammavaca manuscript written in Pali in the 'Burmese' script.]]
+'''Pali''' ({{IPAc-en|ˈ|p|ɑː|l|i}}) is a Middle [[Indo-Aryan languages|Indo-Aryan]] [[liturgical language]] native to the [[Indian subcontinent]]. It is widely studied because it is the language of the ''[[Pāli Canon]]'' or ''[[Tripiṭaka|Tipiṭaka]]'' as well as the [[sacred language]] of ''[[Theravada|Theravāda]]'' [[Buddhism]].<ref name="Stargardt 2000, page 25">Stargardt, Janice. ''Tracing Thoughts Through Things: The Oldest Pali Texts and the Early Buddhist Archaeology of India and Burma.'', Royal Netherlands Academy of Arts and Sciences, 2000, page 25.</ref> In early time, it was written in [[Brahmi|Brahmi script.]]
+
+==Origin and development==
+
+===Etymology===
+The word 'Pali' is used as a name for the language of the Theravada canon. The word seems to have its origins in commentarial traditions, wherein the ''Pāli'' (in the sense of the line of original text quoted) was distinguished from the commentary or vernacular translation that followed it in the manuscript.<ref name=Norman>{{cite book| last = Norman | first = Kenneth Roy | author-link = K. R. Norman | title = Pali Literature | publisher = Otto Harrassowitz | date = 1983 | location = Wiesbaden | pages = 2{{ndash}}3 | language = en |isbn = 3-447-02285-X}}</ref> [[K. R. Norman]] suggests that its emergence was based on a misunderstanding of the compound ''pāli-bhāsa'', with ''pāli'' being interpreted as the name of a particular language.<ref name=Norman/>{{rp|1}}
+
+The name Pali does not appear in the canonical literature, and in commentary literature is sometimes substituted with ''{{lang|pi|tanti}}'', meaning a string or lineage.<ref name=Norman/>{{rp|1}} This name seems to have emerged in [[Sri Lanka]] early in the second millennium CE during a resurgence in the use of Pali as a courtly and literary language.<ref name=grammar_kingship/><ref name=Norman/>{{rp|1}}
+
+As such, the name of the language has caused some debate among scholars of all ages; the spelling of the name also varies, being found with both long "ā" {{IPA|[ɑː]}} and short "a" {{IPA|[a]}}, and also with either a [[retroflex]] {{IPA|[ɭ]}} or non-retroflex {{IPA|[l]}} "l"&nbsp;sound. Both the long ā and retroflex ḷ are seen in the [[ISO 15919]]/[[ALA-LC]] rendering, '''Pāḷi'''; however, to this day there is no single, standard spelling of the term, and all four possible spellings can be found in textbooks. R.&nbsp;C.&nbsp;Childers translates the word as "series" and states that the language "bears the epithet in consequence of the perfection of its grammatical structure".<ref>Hazra, Kanai Lal. ''Pāli Language and Literature; a systematic survey and historical study.'' D.K. Printworld Lrd., New Delhi, 1994, page 19.</ref>
+
+===Geographic origin===
+There is persistent confusion as to the relation of {{transl|sinh|ISO|Pāḷi}} to the vernacular spoken in the ancient kingdom of [[Magadha]], which was located around modern-day [[Bihar (India)|Bihār]]. Beginning in the Theravada commentaries, Pali was identified with '[[Magahi]]', the language of the kingdom of [[Magadha]], and this was taken to also be the language that the Buddha used during his life.<ref name=Norman/> In the 19th century, the British [[Oriental studies|Orientalist]] [[Robert Caesar Childers]] argued that the true or geographical name of the Pali language was [[Magadhi Prakrit]], and that because ''pāḷi'' means "line, row, series", the early Buddhists extended the meaning of the term to mean "a series of books", so ''pāḷibhāsā'' means "language of the texts".<ref>''A Dictionary of the Pali Language'' By Robert Cæsar Childers</ref>
+
+However, modern scholarship has regarded Pali as a mix of several [[Prakrit]] languages from around the 3rd century BCE, combined and partially Sanskritized.<ref name="Bhikkhu Bodhi 2005, page 10">Bhikkhu Bodhi, ''In the Buddha's Words.'' Wisdom Publications, 2005, page 10.</ref> There is no attested dialect of Middle Indo-Aryan with all the features of Pali.<ref name=Norman/>{{rp|5}} In the modern era, it has been possible to compare Pali with inscriptions known to be in Magadhi Prakrit, as well as other texts and grammars of that language.<ref name=Norman/> While none of the existing sources specifically document pre-Ashokan Magadhi, the available sources suggest that Pali is not equatable with that language.<ref name=Norman/>
+
+Modern scholars generally regard Pali to have originated from a western dialect, rather than an eastern one.<ref name=Collins>Collins, Steven. "What Is Literature in Pali?" Literary Cultures in History: Reconstructions from South Asia, edited by Sheldon Pollock, University of California Press, 2003, pp. 649–688. JSTOR, www.jstor.org/stable/10.1525/j.ctt1ppqxk.19. Accessed 6 May 2020.</ref> Pali has some commonalities with both the western [[Ashoka's Major Rock Edicts|Ashokan Edicts]] at [[Girnar]] in [[Saurashtra (region)|Saurashtra]], and the Central-Western Prakrit found in the eastern [[Hathigumpha inscription]].<ref name=Norman/>{{rp|5}} These similarities lead scholars to associate Pali with this region of western India.<ref name="Hirakawa, Akira 2007. p. 119">Hirakawa, Akira. Groner, Paul. ''A History of Indian Buddhism: From Śākyamuni to Early Mahāyāna.'' 2007. p. 119</ref> Nonetheless, Pali does retain some eastern features that have been referred to as ''Māgadhisms''.<ref name="Gethin2008">{{cite book|author=Rupert Gethin|title=Sayings of the Buddha: New Translations from the Pali Nikayas|url=https://books.google.com/books?id=AvogpRk9-5wC|date=9 October 2008|publisher=OUP Oxford|isbn=978-0-19-283925-1|pages=xxiv }}</ref>
+
+Pāḷi, as a [[Middle Indo-Aryan languages|Middle Indo-Aryan language]], is different from [[Sanskrit|Classical Sanskrit]] more with regard to its dialectal base than the time of its origin. A number of its [[Morphology (linguistics)|morphological]] and lexical features show that it is not a direct continuation of [[Rigveda|{{transl|sinh|ISO|Ṛgvedic}}]] Sanskrit. Instead it descends from one or more dialects that were, despite many similarities, different from {{transl|sinh|ISO|Ṛgvedic}}.<ref>Oberlies, Thomas (2001). ''Pāli: A Grammar of the Language of the {{transl|sinh|ISO|Theravāda Tipiṭaka}}''. Indian Philology and South Asian Studies, v. 3. Berlin: Walter de Gruyter. p. 6. {{ISBN|3-11-016763-8}}. "Pāli as a MIA language is different from Sanskrit not so much with regard to the time of its origin than as to its dialectal base, since a number of its morphonological and lexical features betray the fact that it is not a direct continuation of {{transl|sinh|ISO|Ṛgvedic}} Sanskrit; rather it descends from a dialect (or a number of dialects) which was (/were), despite many similarities, different from {{transl|sinh|ISO|Ṛgvedic}}."</ref>
+
+===Early history===
+[[File:Burmese Kammavaca.jpg|thumb|right|19th century Burmese Kammavācā (confession for Buddhist monks), written in Pali on gilded palm leaf]]
+The [[Theravada]] commentaries refer to the Pali language as "[[Magadhi Prakrit|Magadhan]]" or the "language of Magadha".<ref name=Norman/>{{rp|2}} This identification first appears in the commentaries, and may have been an attempt by Buddhists to associate themselves more closely with the [[Maurya Empire]].<ref name=Norman/>
+
+However, only some of the Buddha's teachings were delivered in the historical territory of [[Magadha|Magadha kingdom]].<ref name=Norman/> Scholars consider it likely that he taught in several closely related dialects of Middle Indo-Aryan, which had a high degree of mutual intelligibility.
+
+Theravada tradition, as recorded in chronicles like the [[Mahavamsa]], states that the ''Tipitaka'' was first committed to writing during the first century BCE.<ref name=Norman/>{{rp|5}} This move away from the previous tradition of oral preservation is described as being motivated by threats to the ''[[Sangha]]'' from famine, war, and the growing influence of the rival tradition of the [[Abhayagiri Vihara]].<ref name=Norman/>{{rp|5}} This account is generally accepted by scholars, though there are indications that Pali had already begun to be recorded in writing by this date.<ref name=Norman/>{{rp|5}} By this point in its history, scholars consider it likely that Pali had already undergone some initial assimilation with [[Sanskrit]], such as the conversion of the Middle-Indic ''bamhana'' to the more familiar Sanskrit ''brāhmana'' that contemporary [[brahmans]] used to identify themselves.<ref name=Norman/>{{rp|6}}
+
+In Sri Lanka, Pali is thought to have entered into a period of decline ending around the 4th or 5th century (as Sanskrit rose in prominence, and simultaneously, as Buddhism's adherents became a smaller portion of the subcontinent), but ultimately survived. The work of Buddhaghosa was largely responsible for its reemergence as an important scholarly language in Buddhist thought. The ''[[Visuddhimagga]]'', and the other commentaries that Buddhaghosa compiled, codified and condensed the Sinhala commentarial tradition that had been preserved and expanded in Sri Lanka since the 3rd century BCE.{{citation needed|date=July 2015}}
+
+With only a few possible exceptions, the entire corpus of Pali texts known today is believed to derive from the [[Anuradhapura Maha Viharaya]] in Sri Lanka.<ref name=Collins/> While literary evidence exists of Theravadins in mainland India surviving into the 13th Century, no Pali texts specifically attributable to this tradition have been recovered.<ref name=Collins/> Some texts (such as the [[Milindapanha]]) may have been composed in India before being transmitted to Sri Lanka, but the surviving versions of the texts are those preserved by the Mahavihara in Ceylon and shared with monasteries in Theravada Southeast Asia.<ref name=Collins/>
+
+The earliest inscriptions in Pali found in mainland Southeast Asia are from the first millennium CE, some possibly dating to as early as the 4th Century.<ref name=Collins/> Inscriptions are found in what are now Burma, Laos, Thailand and Cambodia and may have spread from southern India rather than Sri Lanka.<ref name=Collins/> By the 11th Century, a so-called "Pali renaissance" began in the vicinity of [[Pagan Kingdom|Pagan]], gradually spreading to the rest of mainland Southeast Asia as royal dynasties sponsored monastic lineages derived from the [[Anuradhapura Maha Viharaya|Mahavihara of Anuradhapura]].<ref name=Collins/> This era was also characterized by the adoption of Sanskrit conventions and poetic forms (such as ''[[kavya]]'') that had not been features of earlier Pali literature.<ref name=Gornall>Gornall, Alastair, and Justin Henry. "Beautifully Moral: Cosmopolitan Issues in Medieval Pāli Literary Theory". Sri Lanka at the Crossroads of History, edited by Zoltán Biedermann and Alan Strathern, UCL Press, London, 2017, pp. 77–93. JSTOR, www.jstor.org/stable/j.ctt1qnw8bs.9. Accessed 15 May 2020.</ref> This process began as early as the 5th Century, but intensified early in the second millennium as Pali texts on poetics and composition modeled on Sanskrit forms began to grow in popularity.<ref name=Gornall/> One milestone of this period was the publication of the [[Subodhalankara]] during the 14th Century, a work attributed to Sangharakkhita Mahāsāmi and modeled on the Sanskrit [[Kavyadarsa]].<ref name=Gornall/>
+
+Despite an expansion of the number and influence of Mahavihara-derived monastics, this resurgence of Pali study resulted in no production of any new surviving literary works in Pali.<ref name=Collins/> During this era, correspondences between royal courts in Sri Lanka and mainland Southeast Asia were conducted in Pali, and grammars aimed at speakers of Sinhala, Burmese, and other languages were produced.<ref name=grammar_kingship>Wijithadhamma, Ven. M. "Pali Grammar and Kingship in Medieval Sri Lanka". Journal of the Royal Asiatic Society of Sri Lanka, vol. 60, no. 2, 2015, pp. 49–58. JSTOR, www.jstor.org/stable/44737021. Accessed 7 May 2020.</ref> The emergence of the term 'Pali' as the name of the language of the Theravada cannon also occurred during this era.<ref name=grammar_kingship/>
+
+====Manuscripts and inscriptions====
+{{see also|Palm-leaf manuscript|}}
+While Pali is generally recognized as an ancient language, no epigraphical or manuscript evidence has survived from the earliest eras.<ref name=analayo>Anālayo. "The Historical Value of the Pāli Discourses". Indo-Iranian Journal, vol. 55, no. 3, 2012, pp. 223–253. JSTOR, www.jstor.org/stable/24665100. Accessed 7 May 2020.</ref><ref name=skilling/> The earliest samples of Pali discovered are inscriptions believed to date from 5th to 8th Century located in mainland Southeast Asia, specifically central [[Siam]] and lower [[Burma]].<ref name=skilling>Skilling, Peter. "Reflections on the Pali Literature of Siam". From Birch Bark to Digital Data: Recent Advances in Buddhist Manuscript Research: Papers Presented at the Conference Indic Buddhist Manuscripts: The State of the Field. Stanford, 15–19 June 2009, edited by Paul Harrison and Jens-Uwe Hartmann, 1st ed., Austrian Academy of Sciences Press, Wien, 2014, pp. 347–366. JSTOR, www.jstor.org/stable/j.ctt1vw0q4q.25. Accessed 7 May 2020.</ref> These inscriptions typically consist of short excerpts from the [[Pali Canon]] and non-canonical texts, and include several examples of the [[Ye Dharma Hetu|Ye dhamma hetu]] verse.<ref name=skilling/>
+
+Surprisingly, the oldest surviving Pali manuscript was discovered in [[Nepal]] dating to the 9th Century.<ref name=skilling/> It is in the form of four [[palm-leaf manuscript|palm-leaf]] folios, using [[Nepalese scripts|a transitional script]] deriving from the [[Gupta script]] to scribe a fragment of the [[Cullavagga]].<ref>{{cite web |title=A 1151-2 (Pālībhāṣāvinaya) |author=Nepalese-German Manuscript Cataloguing Project|url=http://catalogue-old.ngmcp.uni-hamburg.de/mediawiki/index.php/A_1151-2_(P%C4%81l%C4%ABbh%C4%81%E1%B9%A3%C4%81vinaya)}}</ref> The oldest known manuscripts from Sri Lanka and Southeast Asia date to the 13th-15th Century, with few surviving examples.<ref name=skilling/><ref>Bhikkhu Ñāṇatusita. "[https://www.academia.edu/6508616/Pali_Manuscripts_of_Sri_Lanka Pali Manuscripts of Sri Lanka]". From Birch Bark to Digital Data: Recent Advances in Buddhist Manuscript Research, edited by Paul Harrison and Jens-Uwe Hartmann, 1st ed., Austrian Academy of Sciences Press, Wien, 2014, pp. 367–403. "The four oldest known Sinhalese Pali manuscripts date from the [[Dambadeniya kingdom]] period.......The oldest manuscript, the [[Cullavagga]] in the possession of the library of the [[Colombo National Museum]], dates from the reign of King [[Parakramabahu II of Dambadeniya|Parakramabahu II]] (1236-1237)......Another old manuscript dating from this period is a manuscript of the [[Paramatthamañjusā]], the Visuddhimagga commentary......Another old manuscript, of the Sāratthadīpanī, a sub-commentary on the [[Samantapasadika|Samantapāsādikā]] Vinaya commentary......According to Wickramaratne (1967: 21) another 13th-century manuscript, containing the [[Mahavagga]] of the Vinaya Pitaka......Another source ascribes it to the 15th century, along with a [[Visuddhimagga]] manuscript......Another 15th-century manuscript of the Sāratthadīpanī is at the [[Bibliothèque Nationale]] in Paris."</ref> Very few manuscripts older than 400 years have survived, and complete manuscripts of the four [[Nikaya]]s are only available in examples from the 17th Century and later.<ref name=analayo/>
+
+====Early Western research====
+Pali was first mentioned in Western literature in [[Simon de la Loubère]]'s descriptions of his travels in the kingdom of Siam.<ref name=Norman/> An early grammar and dictionary was published by Methodist missionary Benjamin Clough in 1824, and an initial study published by [[Eugène Burnouf]] and [[Christian Lassen]] in 1826 (''Essai Sur Le Pali, Ou Langue Sacree de La Presqu'ile Au-Dela Du Gange'').<ref name=Norman/> The first modern Pali-English dictionary was published by Robert Childers in 1872 and 1875.<ref name=dict_hist>Gethin, R & Straube, M 2018, 'The Pali Text Society’s A Dictionary of Pāli', Bulletin of Chuo Academic Research Institute (Chuo Gakujutsu Kenkyūjo Kiyō), vol. 47, pp. 169–185.</ref> Following the foundation of the [[Pali Text Society]], English Pali studies grew rapidly and Childer's dictionary became outdated.<ref name=dict_hist/> Planning for a new dictionary began in the early 1900s, but delays (including the outbreak of World War I) meant that work was not completed until 1925.<ref name=dict_hist/>
+
+[[T.&nbsp;W.&nbsp;Rhys Davids]] in his book ''Buddhist India'',<ref>[http://fsnow.com/text/buddhist-india/chapter9.htm Buddhist India, ch. 9] Retrieved 14 June 2010.</ref> and [[Wilhelm Geiger]] in his book ''Pāli Literature and Language'', suggested that Pali may have originated as a [[lingua franca]] or common language of culture among people who used differing dialects in North India, used at the time of the [[Gautama Buddha|Buddha]] and employed by him. Another scholar states that at that time it was "a refined and elegant vernacular of all Aryan-speaking people".<ref>Hazra, Kanai Lal. ''Pāli Language and Literature; a systematic survey and historical study.'' D.K. Printworld Lrd., New Delhi, 1994, page 11.</ref> Modern scholarship has not arrived at a consensus on the issue; there are a variety of conflicting theories with supporters and detractors.<ref>Hazra, Kanai Lal. ''Pāli Language and Literature; a systematic survey and historical study.'' D.K. Printworld Lrd., New Delhi, 1994, pages 1–44.</ref> After the death of the Buddha, Pali may have evolved among Buddhists out of the language of the Buddha as a new artificial language.<ref>Hazra, Kanai Lal. ''Pāli Language and Literature; a systematic survey and historical study.'' D.K. Printworld Lrd., New Delhi, 1994, page 29.</ref> R. C. Childers, who held to the theory that Pali was Old Magadhi, wrote: "Had Gautama never preached, it is unlikely that Magadhese would have been distinguished from the many other vernaculars of Hindustan, except perhaps by an inherent grace and strength which make it a sort of [[Tuscan dialect|Tuscan]] among the Prakrits."<ref>Hazra, Kanai Lal. ''Pāli Language and Literature; a systematic survey and historical study.'' D.K. Printworld Lrd., New Delhi, 1994, page 20.</ref>
+
+====Modern scholarship====
+According to [[K.&nbsp;R.&nbsp;Norman]], differences between different texts within the canon suggest that it contains material from more than a single dialect.<ref name=Norman/>{{rp|2}} He also suggests it is likely that the [[viharas]] in North India had separate collections of material, preserved in the local dialect.<ref name=Norman/>{{rp|4}} In the early period it is likely that no degree of translation was necessary in communicating this material to other areas. Around the time of [[Ashoka]] there had been more linguistic divergence, and an attempt was made to assemble all the material.<ref name=Norman/>{{rp|4}} It is possible that a language quite close to the Pali of the canon emerged as a result of this process as a compromise of the various dialects in which the earliest material had been preserved, and this language functioned as a lingua franca among Eastern Buddhists from then on.<ref name=Norman/>{{rp|5}} Following this period, the language underwent a small degree of Sanskritisation (i.e.,&nbsp;MIA bamhana > brahmana, tta > tva in some cases).<ref>K.&nbsp;R.&nbsp;Norman, ''Pāli Literature''. Otto Harrassowitz, 1983, pages 1–7.</ref>
+
+[[Bhikkhu Bodhi]], summarizing the current state of scholarship, states that the language is "closely related to the language (or, more likely, the various regional dialects) that the Buddha himself spoke". He goes on to write:
+{{quote|Scholars regard this language as a hybrid showing features of several Prakrit dialects used around the third century&nbsp;BCE, subjected to a partial process of Sanskritization. While the language is not identical to what Buddha himself would have spoken, it belongs to the same broad language family as those he might have used and originates from the same conceptual matrix. This language thus reflects the thought-world that the Buddha inherited from the wider Indian culture into which he was born, so that its words capture the subtle nuances of that thought-world.|Bhikkhu Bodhi<ref name="Bhikkhu Bodhi 2005, page 10"/>}}
+According to [[A.&nbsp;K.&nbsp;Warder]], the Pali language is a Prakrit language used in a region of [[Western India]].<ref name="Warder, A. K. 2000. p. 284">Warder, A. K. ''Indian Buddhism''. 2000. p. 284</ref> Warder associates Pali with the Indian realm (''[[janapada]]'') of [[Avanti (India)|Avanti]], where the [[Sthavira nikāya]] was centered.<ref name="Warder, A. K. 2000. p. 284"/> Following the initial split in the [[Buddhism|Buddhist community]], the Sthavira nikāya became influential in Western and [[South India]] while the [[Mahāsāṃghika]] branch became influential in Central and [[East India]].<ref name="Hirakawa, Akira 2007. p. 119"/> Akira Hirakawa and Paul Groner also associate Pali with Western India and the Sthavira nikāya, citing the Saurashtran inscriptions, which are linguistically closest to the Pali language.<ref name="Hirakawa, Akira 2007. p. 119"/>
+
+====Emic views of Pali====
+Although Sanskrit was said in the [[Brahmin|Brahmanical]] tradition to be the unchanging language spoken by the gods in which each word had an inherent significance, such views for any language was not shared in the early Buddhist traditions, in which words were only conventional and mutable signs.<ref>[[David Kalupahana]], ''Nagarjuna: The Philosophy of the Middle Way.'' SUNY Press, 1986, page 19. The author refers specifically to the thought of early Buddhism here.</ref> This view of language naturally extended to Pali and may have contributed to its usage (as an approximation or standardization of local Middle Indic dialects) in place of Sanskrit. However, by the time of the compilation of the Pali commentaries (4th or 5th century), Pali was described by the anonymous authors as the natural language, the root language of all beings.<ref>''Dispeller of Delusion'', Pali Text Society, volume II, pages 127f</ref><ref name=Norman/>{{rp|2}}
+
+Comparable to [[Egyptian language|Ancient Egyptian]], [[Latin]] or [[Hebrew]] in the [[Western esotericism|mystic traditions of the West]], Pali recitations were often thought to have a [[supernatural]] power (which could be attributed to their meaning, the character of the reciter, or the qualities of the language itself), and in the early strata of Buddhist literature we can already see Pali [[dharani|{{transl|sinh|ISO|dhāraṇī}}]]s used as charms, as, for example, against the bite of snakes. Many people in Theravada cultures still believe that taking a vow in Pali has a special significance, and, as one example of the supernatural power assigned to chanting in the language, the recitation of the vows of [[Angulimala|{{transl|sinh|ISO|Aṅgulimāla}}]] are believed to alleviate the pain of childbirth in Sri Lanka. In Thailand, the chanting of a portion of the [[Abhidhamma|{{transl|sinh|ISO|Abhidhammapiṭaka}}]] is believed to be beneficial to the recently departed, and this ceremony routinely occupies as much as seven working days. There is nothing in the latter text that relates to this subject, and the origins of the custom are unclear.<ref>{{Cite book|last=Book|first=Chroniker Press|url=https://books.google.com/books?id=3176AwAAQBAJ|title=Epitome of the Pali Canon|date=2012-10-29|publisher=Lulu.com|isbn=978-1-300-32715-8|language=en}}</ref>
+
+===Pali today===
+Pali died out as a literary language in mainland India in the fourteenth century but survived elsewhere until the eighteenth.<ref>Negi (2000), "Pali Language", ''Students' Britannica India'', vol. 4</ref> Today Pali is studied mainly to gain access to Buddhist scriptures, and is frequently chanted in a ritual context. The secular literature of Pali historical chronicles, medical texts, and inscriptions is also of great historical importance. The great centres of Pali learning remain in the Theravada nations of Southeast Asia: [[Myanmar]], [[Sri Lanka]], [[Thailand]], [[Laos]] and [[Cambodia]]. Since the 19th century, various societies for the revival of Pali studies in India have promoted awareness of the language and its literature, including the [[Maha Bodhi Society]] founded by [[Anagarika Dharmapala|Anagarika Dhammapala]].
+
+In Europe, the [[Pali Text Society]] has been a major force in promoting the study of Pali by Western scholars since its founding in 1881. Based in the United Kingdom, the society publishes romanized Pali editions, along with many English translations of these sources. In 1869, the first ''Pali Dictionary'' was published using the research of Robert Caesar Childers, one of the founding members of the Pali Text Society. It was the first Pali translated text in English and was published in 1872. Childers' dictionary later received the [[Volney Prize]] in 1876.
+
+The Pali Text Society was founded in part to compensate for the very low level of funds allocated to Indology in late 19th-century England and the rest of the UK; incongruously, the citizens of the UK were not nearly so robust in Sanskrit and Prakrit language studies as Germany, Russia, and even [[Denmark]]. Even without the inspiration of colonial holdings such as the former British occupation of Sri Lanka and Burma, institutions such as the [[Danish Royal Library]] have built up major collections of Pali manuscripts, and major traditions of Pali studies.
+
+==Pali literature==
+{{main|Pali literature}}
+Pali literature is usually divided into canonical and non-canonical or extra-canonical texts.<ref>Law, Bimala Churn. "Non-Canonical Pali Literature". Annals of the Bhandarkar Oriental Research Institute, vol. 13, no. 2, 1931, pp. 97–143. JSTOR, www.jstor.org/stable/41688230. Accessed 14 May 2020.</ref> Canonical texts include the whole of the [[Pali Canon]] or ''Tipitaka''. With the exception of three books placed in the [[Khuddaka Nikaya]] by only the Burmese tradition, these texts (consisting of the five [[Nikaya]]s of the [[Sutta Pitaka]], the [[Vinaya Pitaka]], and the books of the [[Abhidhamma Pitaka]]) are traditionally accepted as containing the words of the Buddha and his immediate disciples by the Theravada tradition.
+
+Extra-canonical texts can be divided into several categories:
+* Commentaries (''[[Atthakatha]]'') which record additional details and explanations regarding the contents of the Suttas.
+* Sub-commentaries (''[[Sub-commentaries (Theravāda)|ṭīkā]]'') which explain and add contents to the commentaries
+* Chronicles (''[[Vaṃsa]]'') which relate the history of Buddhism in Sri Lanka, as well as the origins of famous relics and shrines and the deeds of historical and mythical kings
+* Manuals and treatises, which include summaries of canonical books and compendia of teachings and techniques like the [[Visuddhimagga]]
+* [[Abhidhamma]] manuals, which explain the contents of the [[Abhidhamma Pitaka]]
+
+Other types of texts present in Pali literature include works on grammar and poetics, medical texts, astrological and [[divination]] texts, cosmologies, and anthologies or collections of material from the canonical literature.<ref name=Norman/>
+
+While the majority of works in Pali are believed to have originated with the Sri Lankan tradition and then spread to other Theravada regions, some texts may have other origins. The [[Milinda Panha]] may have originated in northern India before being translated from [[Sanskrit]] or [[Gandhari Prakrit]].<ref>{{cite book
+ | last = Von Hinüber
+ | first = Oskar
+ | author-link = Oskar von Hinüber
+ | title = A Handbook of Pali Literature
+ | publisher = Munishiram Manoharlal Publishers Pvt. Ltd.
+ | edition = 1st Indian
+ | date = 1997
+ | location = New Delhi
+ | pages = 83
+ | language = en
+ | isbn = 81-215-0778-2
+}}</ref> There are also a number of texts that are believed to have been composed in Pali in Sri Lanka, Thailand & Burma but were not widely circulated. This regional Pali literature is currently relatively little known, particularly in the Thai tradition, with many manuscripts never catalogued or published.<ref name=skilling/>
+
+==Relationship to other languages==
+===Paiśācī===
+{{main|Paishachi}}
+{{IAST|[[Paisaci|Paiśācī]]}} is a largely [[unattested]] literary language of classical India that is mentioned in [[Prakrit]] and Sanskrit grammars of antiquity. It is found grouped with the Prakrit languages, with which it shares some linguistic similarities, but was not considered a spoken language by the early grammarians because it was understood to have been purely a literary language.<ref name="Konow">{{cite web|url=http://menadoc.bibliothek.uni-halle.de/dmg/periodical/pageview/56372|title=181 [95] – The home of the Paisaci – The home of the Paisaci – Page – Zeitschriften der Deutschen Morgenländischen Gesellschaft – MENAdoc – Digital Collections|website=menadoc.bibliothek.Uni-Halle.de|access-date=14 April 2019}}</ref>
+
+In works of Sanskrit poetics such as [[Daṇḍin]]'s ''[[Kavyadarsha]]'', it is also known by the name of {{IAST|Bhūtabhāṣā}}, an epithet which can be interpreted as 'dead language' (i.e., with no surviving speakers), or ''bhūta'' means past and ''bhāṣā'' means language i.e. 'a language spoken in the past'. Evidence which lends support to this interpretation is that literature in Paiśācī is fragmentary and extremely rare but may once have been common.
+
+The 13th-century Tibetan historian [[Buton Rinchen Drub]] wrote that the [[early Buddhist schools]] were separated by choice of [[sacred language]]: the [[Mahāsāṃghika]]s used [[Prakrit|Prākrit]], the [[Sarvastivada|Sarvāstivādins]] used Sanskrit, the [[Sthavira nikāya|Sthaviravādins]] used Paiśācī, and the Saṃmitīya used [[Apabhraṃśa]].<ref>Yao, Zhihua. ''The Buddhist Theory of Self-Cognition.'' 2012. p. 9</ref> This observation has led some scholars to theorize connections between Pali and Paiśācī; [[Sten Konow]] concluded that it may have been an Indo-Aryan language spoken by [[Dravidian people]] in South India, and Alfred Master noted a number of similarities between surviving fragments and Pali morphology.<ref name=Konow/><ref name=Master>{{cite web|url=https://www.scribd.com/document/186271058/An-Unpublished-Fragment-of-Paisachi|title=An Unpublished Fragment of Paisachi – Sanskrit – Pali|website=Scribd|access-date=14 April 2019}}</ref>
+
+===Ardha-Magadhi Prakrit===
+{{main|Ardhamagadhi Prakrit}}
+Ardhamagadhi Prakrit was a Middle Indo-Aryan language and a Dramatic Prakrit thought to have been spoken in modern-day Bihar & Eastern Uttar Pradesh and used in some early Buddhist and Jain drama. It was originally thought to be a predecessor of the vernacular Magadhi Prakrit, hence the name (literally "half-Magadhi"). Ardhamāgadhī was prominently used by Jain scholars and is preserved in the Jain Agamas.<ref>{{cite book |author1=Constance Jones |author2=James D. Ryan |title=Encyclopedia of Hinduism |url=https://books.google.com/books?id=OgMmceadQ3gC&pg=PA42 |year=2006 |publisher=Infobase Publishing |isbn=978-0-8160-7564-5 |pages=42 }}</ref>
+
+Ardhamagadhi Prakrit differs from later Magadhi Prakrit in similar ways to Pali, and was often believed to be connected with Pali on the basis of the belief that Pali recorded the speech of the Buddha in an early Magadhi dialect.
+
+===Magadhi Prakrit===
+{{main|Magadhi Prakrit}}
+Magadhi Prakrit was a [[Middle Indo-Aryan languages|Middle Indic language]] spoken in present-day Bihar, and eastern Uttar Pradesh. Its use later expanded southeast to include some regions of modern-day Bengal, Odisha, and Assam, and it was used in some Prakrit dramas to represent vernacular dialogue. Preserved examples of Magadhi Prakrit are from several centuries after the theorized lifetime of the Buddha, and include inscriptions attributed to [[Asoka Maurya]].<ref>Bashan A.L., ''The Wonder that was India'', Picador, 2004, pp.394</ref>
+
+Differences observed between preserved examples of Magadhi Prakrit and Pali lead scholars to conclude that Pali represented a development of a northwestern dialect of Middle Indic, rather than being a continuation of a language spoken in the area of [[Magadha]] in the time of the Buddha.
+
+==Lexicon==
+Nearly every word in Pāḷi has [[cognate]]s in the other Middle Indo-Aryan languages, the [[Prakrit]]s. The relationship to [[Vedic Sanskrit]] is less direct and more complicated; the Prakrits were descended from [[Indo-Aryan languages#Old Indo-Aryan|Old Indo-Aryan vernaculars]]. Historically, influence between Pali and Sanskrit has been felt in both directions. The Pali language's resemblance to Sanskrit is often exaggerated by comparing it to later Sanskrit compositions—which were written centuries after Sanskrit ceased to be a living language, and are influenced by developments in [[Middle Indic]], including the direct borrowing of a portion of the Middle Indic lexicon; whereas, a good deal of later Pali technical terminology has been borrowed from the vocabulary of equivalent disciplines in Sanskrit, either directly or with certain phonological adaptations.{{citation needed|date=July 2015}}
+
+Post-canonical Pali also possesses a few loan-words from local languages where Pali was used (e.g. Sri Lankans adding Sinhala words to Pali). These usages differentiate the Pali found in the [[Sutta Pitaka|{{transl|sinh|ISO|Suttapiṭaka}}]] from later compositions such as the Pali commentaries on the canon and folklore (e.g., commentaries on the [[Jataka tales]]), and comparative study (and dating) of texts on the basis of such loan-words is now a specialized field unto itself.{{citation needed|date=July 2015}}
+
+Pali was not exclusively used to convey the teachings of the Buddha, as can be deduced from the existence of a number of secular texts, such as books of medical science/instruction, in Pali. However, scholarly interest in the language has been focused upon religious and philosophical literature, because of the unique window it opens on one phase in the development of [[Buddhism]].{{citation needed|date=July 2015}}
+
+==Phonology==
+
+{{IPA notice}}
+
+===Vowels===
+{| class="wikitable" style="text-align:center;"
+!rowspan="2"|Height
+!Colspan="4"|Backness
+|-
+!Front
+!Central
+!Back
+|-
+!High
+|{{IPA link|i}} {{grapheme|i}}<br>{{IPA link|iː}} {{grapheme|ī}}
+|style="background:silver"|
+|{{IPA link|u}} {{grapheme|u}}<br>{{IPA link|uː}} {{grapheme|ū}}
+|-
+!Mid
+|{{IPA link|e}}, {{IPA link|eː}} {{grapheme|e}}
+|{{IPA link|ɐ}} {{grapheme|a}}
+|{{IPA link|o}}, {{IPA link|oː}} {{grapheme|o}}
+|-
+!Low
+|style="background:silver"|
+|{{IPA link|aː}} {{grapheme|ā}}
+|style="background:silver"|
+|}
+
+Vowels may be divided into
+
+#
+## pure vowels: ''a, ā''
+## sonant vowels: ''i, ī, u, ū''
+## diphthongs: ''e, o''<ref name=":0">{{Cite book|last=Perniola|first=Vito|title=A Grammar of the Pali Language|year=1997|isbn=0860133540|pages=103}}</ref>
+#
+## vowels short by nature: ''a, i, u''
+## vowels long by nature: ''ā, ī, ū''
+## vowels of variable length: ''e, o''<ref name=":0" />
+
+Long and short vowels are only contrastive in open syllables; in closed syllables, all vowels are always short. Short and long '''e''' and '''o''' are in complementary distribution: the short variants occur only in closed syllables, the long variants occur only in open syllables. Short and long '''e''' and '''o''' are therefore not distinct phonemes.
+
+vowels ''e'' and ''o'' are long in an open syllable:
+
+at the end of a syllable as in [ne-tum̩] เนตุํ 'to lead'
+
+at the end of a syllable as in [so-tum̩] โสตุํ 'to hear'<ref name=":0" />
+
+vowels are short in a closed syllable:
+
+when followed by a consonant with which they make a syllable as in [upek-khā] 'indifference', [sot-thi] 'safety'<ref name=":0" />
+
+For vowels ''ā, ī, ū'', ''e'' appears for ''a'' before double-consonance:
+
+: ''seyyā = sayyā'' 'bed'
+: ''pheggu = phaigu'' 'empty, worthless'<ref name=":1">{{Cite book|last=Geiger|first=Wilhelm|title=Pali Literature and Language 2nd edition|date=October 1996|publisher=Orintal Books Reptint Corporation Delhi_6|isbn=8170690773|pages=65}}</ref>
+
+The vowels ⟨i⟩ and ⟨u⟩ are lengthened in the flexional endings including: ''-īhi, -ūhi and -īsu''<ref name=":1" />
+
+A sound called ''[[anusvara|anusvāra]]'' (Skt.; Pali: ''[[Anusvara|niggahīta]]''), represented by the letter '''{{transl|sinh|ISO|ṁ|}}''' (ISO 15919) or '''{{transl|sinh|ISO|ṃ}}''' (ALA-LC) in romanization, and by a raised dot in most traditional alphabets, originally marked the fact that the preceding vowel was nasalized. That is, '''{{transl|sinh|ISO|aṁ}}''', '''{{transl|sinh|ISO|iṁ}}''' and '''{{transl|sinh|ISO|uṁ}}''' represented {{IPA|[ã]}}, {{IPA|[ĩ]}} and {{IPA|[ũ]}}. In many traditional pronunciations, however, the anusvāra is pronounced more strongly, like the velar nasal {{IPA|[ŋ]}}, so that these sounds are pronounced instead {{IPA|[ãŋ]}}, {{IPA|[ĩŋ]}} and {{IPA|[ũŋ]}}. However pronounced, '''{{transl|sinh|ISO|ṁ}}''' never follows a long vowel; '''ā, ī''' and '''ū''' are converted to the corresponding short vowels when {{transl|sinh|ISO|ṁ}} is added to a stem ending in a long vowel, e.g. '''{{transl|sinh|ISO|kathā + ṁ}}''' becomes '''{{transl|sinh|ISO|kathaṁ}}''', not {{transl|sinh|ISO|*kathāṁ}}, '''{{transl|sinh|ISO|devī + ṁ}}''' becomes '''{{transl|sinh|ISO|deviṁ}}''', not *{{transl|sinh|ISO|devīṁ}}.
+
+'''Changes of vowels due to the structure of the word'''
+
+'''Final vowels'''
+
+The final consonants of the Sanskrit words have been dropped in Pali and thus all the words end in a vowel or in a nasal vowel: ''kāntāt -> kantā 'from the loved one{{'}}''; ''kāntāṃ -> kantaṃ 'the loved one{{'}}''
+
+The final vowels were usually weak in pronunciation and hence they were shortened: ''akārsit -> akāsi 'he did'.''<ref name=":0" />
+
+===Consonants===
+The table below lists the [[consonant]]s of Pali (using Thai script of the many other possible scripts). In bold is the transliteration of the letter in traditional [[romanization]], and in square brackets its pronunciation transcribed in the [[International Phonetic Alphabet|IPA]].
+
+{| class="wikitable IPA" style="text-align:center;"
+|-
+! colspan="3" |
+! [[labial consonant|Labial]]
+! [[dental consonant|Dental]]/<br>[[alveolar consonant|alveolar]]
+! [[retroflex consonant|Retroflex]]
+! [[Postalveolar consonant|Post-alveolar]]/<br>[[palatal consonant|Palatal]]
+! [[velar consonant|Velar]]
+! [[glottal consonant|Glottal]]
+|-
+! rowspan="5" | [[Stop consonant|Stop]]
+! colspan="2" | [[nasal stop|Nasal]]
+| {{IPA link|m}} {{grapheme|m}}
+| {{IPA link|n}} {{grapheme|n}}
+| {{IPA link|ɳ}} {{grapheme|ṇ}}
+| {{IPA link|ɲ}} {{grapheme|ñ}}
+| ({{IPA link|ŋ}} {{grapheme|ṅ}})
+|
+|-
+! rowspan="2" | <small>[[voiceless]]</small>
+! <small>unaspirated</small>
+| {{IPA link|p}} {{grapheme|p}}
+| {{IPA link|t}} {{grapheme|t}}
+| {{IPA link|ʈ}} {{grapheme|ṭ}}
+| {{IPA link|tʃ}} {{grapheme|c}}
+| {{IPA link|k}} {{grapheme|k}}
+|
+|-
+! <small>[[Aspiration (phonetics)|aspirated]]</small>
+| {{IPA|pʰ}} {{grapheme|ph}}
+| {{IPA|tʰ}} {{grapheme|th}}
+| {{IPA|ʈʰ}} {{grapheme|ṭh}}
+| {{IPA|tʃʰ}} {{grapheme|ch}}
+| {{IPA|kʰ}} {{grapheme|kh}}
+|
+|-
+! rowspan="2" | <small> [[voice (phonetics)|voiced]]</small>
+! <small>unaspirated</small>
+| {{IPA link|b}} {{grapheme|b}}
+| {{IPA link|d}} {{grapheme|d}}
+| {{IPA link|ɖ}} {{grapheme|ḍ}}
+| {{IPA link|dʒ}} {{grapheme|j}}
+| {{IPA link|ɡ}} {{grapheme|g}}
+|
+|-
+! <small>[[Aspiration (phonetics)|aspirated]]</small>
+| {{IPA link|bʱ}} {{grapheme|bh}}
+| {{IPA link|dʱ}} {{grapheme|dh}}
+| {{IPA link|ɖʱ}} {{grapheme|ḍh}}
+| {{IPA link|dʒʱ}} {{grapheme|jh}}
+| {{IPA link|ɡʱ}} {{grapheme|gh}}
+|
+|-
+! colspan="3" | [[Fricative]]
+|
+| {{IPA link|s}} {{grapheme|s}}
+|
+|
+|
+| {{IPA link|h}} {{grapheme|h}}
+|-
+! colspan="2" rowspan="3" | [[Approximant]]
+! <small>[[Central consonant|central]]</small>
+| {{IPA link|ʋ}} {{grapheme|v}}
+|
+| {{IPA link|ɻ}} {{grapheme|r}}
+| {{IPA link|j}} {{grapheme|y}}
+|
+|
+|-
+! <small>[[Lateral consonant|lateral]]</small>
+|
+| {{IPA link|l}} {{grapheme|l}}
+| ({{IPA link|ɭ}} {{grapheme|ḷ}})
+|
+|
+|
+|-
+! <small>lateral [[Aspiration (phonetics)|aspirated]]</small>
+|
+|
+| ({{IPA link|ɭʱ}} {{grapheme|ḷh}})
+|
+|
+|
+|}
+
+Among the labial consonants, {{IPA|[ʋ]}} is [[Labiodental consonant|labiodental]] and the rest is [[Bilabial consonant|bilabial]]. Among the dental/alveolar consonants, the majority is dental but {{IPA|[s]}} and {{IPA|[l]}} are [[Alveolar consonant|alveolar]].
+
+Of the sounds listed above only the three consonants in parentheses, '''ṅ''', '''ḷ''', and '''ḷh''', are not distinct [[phoneme]]s in Pali: '''ṅ''' only occurs before velar stops, while '''ḷ''' and '''ḷh''' are [[allophone]]s of single '''ḍ''' and '''ḍh''' occurring between [[vowel]]s.
+
+In Pali language, the consonants may be divided according to their strength or power of resistance. The strength decreases in the order of: ''mutes, sibilant, nasals, l, v, y, r''
+
+When two consonants come together, they are subject to one of the following change:
+
+# they are [[assimilation (phonetics)|assimilated]] to each other
+# they are first adapted and then assimilated to each other
+# they give rise to a new consonant group
+# they separated by the insertion of a vowel [[infix]]
+# they are sometimes interchanged by [[metathesis (linguistics)|metathesis]]<ref name=":2">{{Cite book|last=Perniola|first=Vito|title=A Grammar of the Pali Language|year=1997|isbn=0860133540|pages=9, 10, 11}}</ref>
+
+Aspirate consonants
+
+when one of the two consonants is the sibilant s, then the new group of consonants has the aspiration in the last consonant: ''as-ti (root: as) > atthi'' 'is'
+
+the sibilant s, followed by a nasal, is changed to h and then it is transposed after the nasal: ''akas-ma > akah-ma > akamha'' 'we did'<ref name=":2" />
+
+'''Alternation between ''y'' and ''v'''''
+
+Pali v appears for Skr. y. For instance, ''āvudha -> āyudha'' 'weapon'; ''kasāva -> kasāya'' 'dirt, sin'. After the svarabhakti-vowel I there appear v instead of y as in ''praṭyamsa -> pativimsa.''<ref name=":1" />
+
+'''Alternation between ''r'' and ''l'''''
+
+Representation of ''r'' by ''l'' is very common in Pali, and in Pkr. it is the rule for Magadhi, although this substitution occurs sporadically also in other dialect. This, initially, in ''lūjjati -> rūjyate 'falls apart{{'}}''; sometimes double forms with l and r occur in Skr.: ''lūkha -> lūksa, rūksa  'gross, bad{{'}}''<ref name=":1" />
+
+==Morphology==
+Pali is a highly inflected language, in which almost every word contains, besides the root conveying the basic meaning, one or more affixes (usually suffixes) which modify the meaning in some way. Nouns are inflected for gender, number, and case; verbal inflections convey information about person, number, tense and mood.
+
+===Nominal inflection===
+Pali nouns inflect for three [[grammatical gender]]s (masculine, feminine, and neuter) and two numbers (singular and plural). The nouns also, in principle, display eight [[grammatical case|cases]]: [[nominative case|nominative]] or ''paccatta'' case, [[vocative case|vocative]], [[accusative case|accusative]] or ''upayoga'' case, [[instrumental case|instrumental]] or ''{{transl|sinh|ISO|karaṇa}}'' case, [[dative case|dative]] or ''sampadāna'' case, [[ablative case|ablative]], [[genitive case|genitive]] or ''sāmin'' case, and [[locative case|locative]] or ''bhumma'' case; however, in many instances, two or more of these cases are identical in form; this is especially true of the genitive and dative cases.
+
+====a-stems====
+a-stems, whose uninflected stem ends in short ''a'' ({{IPA|/ə/}}), are either masculine or neuter. The masculine and neuter forms differ only in the nominative, vocative, and accusative cases.
+
+{| class="wikitable"
+|-
+!rowspan="2"|
+!colspan="2"| Masculine (''loka-'' "world")
+!colspan="2"| Neuter (''yāna-'' "carriage")
+|-
+! Singular !! Plural !! Singular !! Plural
+|-
+! Nominative
+| loko ||rowspan="2"| lokā||rowspan="3"| {{transl|sinh|ISO|yānaṁ}} ||rowspan="3"| yānāni
+|-
+! Vocative
+| loka
+|-
+! Accusative
+| {{transl|sinh|ISO|lokaṁ}}|| loke
+|-
+! Instrumental
+| lokena ||rowspan="2"| lokehi || yānena||rowspan="2"| yānehi
+|-
+! Ablative
+| lokā (lokamhā, lokasmā; lokato) || yānā (yānamhā, yānasmā; yānato)
+|-
+! Dative
+| lokassa (lokāya) ||rowspan="2"| {{transl|sinh|ISO|lokānaṁ}} || yānassa (yānāya) ||rowspan="2"| {{transl|sinh|ISO|yānānaṁ}}
+|-
+! Genitive
+| lokassa || yānassa
+|-
+! Locative
+| loke ({{transl|sinh|ISO|lokasmiṁ}}) || lokesu|| yāne ({{transl|sinh|ISO|yānasmiṁ}}) || yānesu
+|}
+
+====ā-stems====
+Nouns ending in ā ({{IPA|/aː/}}) are almost always feminine.
+
+{| class="wikitable"
+|-
+!rowspan="2"|
+!colspan="2"| Feminine (''kathā-'' "story")
+|-
+! Singular !! Plural
+|-
+! Nominative
+| kathā ||rowspan="3"| kathāyo
+|-
+! Vocative
+| kathe
+|-
+! Accusative
+| {{transl|sinh|ISO|kathaṁ}}
+|-
+! Instrumental
+|rowspan="4"| kathāya ||rowspan="2"| kathāhi
+|-
+! Ablative
+|-
+! Dative
+|rowspan="2"| {{transl|sinh|ISO|kathānaṁ}}
+|-
+! Genitive
+|-
+! Locative
+| kathāya, {{transl|sinh|ISO|kathāyaṁ}} || kathāsu
+|}
+
+====i-stems and u-stems====
+i-stems and u-stems are either masculine or neuter. The masculine and neuter forms differ only in the nominative and accusative cases. The vocative has the same form as the nominative.
+
+{| class="wikitable"
+|-
+!rowspan="2"|
+!colspan="2"| Masculine (''isi-'' "seer")
+!colspan="2"| Neuter (''akkhi-'' "eye")
+|-
+! Singular !! Plural !! Singular !! Plural
+|-
+! Nominative
+|rowspan="2"| isi ||rowspan="3"| isayo, isī ||rowspan="3"| akkhi, {{transl|sinh|ISO|akkhiṁ}} ||rowspan="3"| akkhī, akkhīni
+|-
+! Vocative
+|-
+! Accusative
+| {{transl|sinh|ISO|isiṁ}}
+|-
+! Instrumental
+| isinā ||rowspan="2"| isihi, isīhi || akkhinā ||rowspan="2"| akkhihi, akkhīhi
+|-
+! Ablative
+| isinā, isito || akkhinā, akkhito
+|-
+! Dative
+| isino ||rowspan="2"| {{transl|sinh|ISO|isinaṁ, isīnaṁ}} || akkhino ||rowspan="2"| {{transl|sinh|ISO|akkhinaṁ, akkhīnaṁ}}
+|-
+! Genitive
+| isissa, isino || akkhissa, akkhino
+|-
+! Locative
+| {{transl|sinh|ISO|isismiṁ}} || isisu, isīsu || {{transl|sinh|ISO|akkhismiṁ}} || akkhisu, akkhīsu
+|}
+
+{| class="wikitable"
+|-
+!rowspan="2"|
+!colspan="2"| Masculine (''bhikkhu-'' "monk")
+!colspan="2"| Neuter (''cakkhu-'' "eye")
+|-
+! Singular !! Plural !! Singular !! Plural
+|-
+! Nominative
+|rowspan="2"| bhikkhu ||rowspan="3"| bhikkhavo, bhikkhū ||rowspan="3"| {{transl|sinh|ISO|cakkhu, cakkhuṁ}} ||rowspan="3"| cakkhūni
+|-
+! Vocative
+|-
+! Accusative
+| {{transl|sinh|ISO|bhikkhuṁ}}
+|-
+! Instrumental
+|rowspan="2"| bhikkhunā ||rowspan="2"| bhikkhūhi ||rowspan="2"| cakkhunā ||rowspan="2"| cakkhūhi
+|-
+! Ablative
+|-
+! Dative
+| bhikkhuno || {{transl|sinh|ISO|bhikkhūnaṁ}} || cakkhuno || {{transl|sinh|ISO|cakkhūnaṁ}}
+|-
+! Genitive
+| bhikkhussa, bhikkhuno || {{transl|sinh|ISO|bhikkhūnaṁ, bhikkhunnaṁ}} || cakkhussa, cakkhuno || {{transl|sinh|ISO|cakkhūnaṁ, cakkhunnaṁ}}
+|-
+! Locative
+| {{transl|sinh|ISO|bhikkhusmiṁ}} || bhikkhūsu || {{transl|sinh|ISO|cakkhusmiṁ}} || cakkhūsu
+|}
+
+==Linguistic analysis of a Pali text==
+
+From the opening of the [[Dhammapada]]:
+
+{{interlinear|indent=3
+|top= {{lang|pi|Manopubbaṅgamā dhammā, manoseṭṭhā manomayā;}}
+|Mano-pubbaṅ-gam-ā dhamm-ā, mano-seṭṭh-ā mano-may-ā;
+|Mind-before-going-M.PL.NOM [[Dharma (Buddhism)#Dharmas in Buddhist phenomenology|dharma]]-M.PL.NOM, mind-foremost-M.PL.NOM mind-made-M.PL.NOM|}}
+{{interlinear|indent=3
+|top= {{lang|pi|Manasā ce paduṭṭhena, bhāsati vā karoti vā,}}
+|Manas-ā{{eq}}ce paduṭṭh-ena, bhāsa-ti{{eq}}vā karo-ti{{eq}}vā,
+|Mind-N.SG.INST{{=}}if corrupted-N.SG.INST speak-3.SG.PR{{=}}either act-3.SG.PR{{=}}or,|}}
+{{interlinear|indent=3
+|top= {{lang|pi|Tato naṁ dukkhaṁ anveti, cakkaṁ'va vahato padaṁ.}}
+|Ta-to naṁ dukkhaṁ anv-e-ti, cakkaṁ 'va vahat-o pad-aṁ.
+|That-from him suffering after-go-3.SG.PR, wheel as carrying(beast)-M.SG.GEN foot-N.SG.ACC|}}
+
+The three compounds in the first line literally mean:
+:'''{{lang|pi|manopubbaṅgama}}''' "whose precursor is mind", "having mind as a fore-goer or leader"
+:'''{{lang|pi|manoseṭṭha}}''' "whose foremost member is mind", "having mind as chief"
+:'''{{lang|pi|manomaya}}''' "consisting of mind" or "made by mind"
+
+The literal meaning is therefore: "The [[Dharma (Buddhism)#Dharmas in Buddhist phenomenology|dharmas]] have mind as their leader, mind as their chief, are made of/by mind. If [someone] either speaks or acts with a corrupted mind, from that [cause] suffering goes after him, as the wheel [of a cart follows] the foot of a draught animal."
+
+A slightly freer translation by Acharya Buddharakkhita
+:Mind precedes all mental states. Mind is their chief; they are all mind-wrought.
+:If with an impure mind a person speaks or acts suffering follows him
+:like the wheel that follows the foot of the ox.
+
+==Conversion between Sanskrit and Pali forms==
+Pali and Sanskrit are very closely related and the common characteristics of Pali and Sanskrit were always easily recognized by those in India who were familiar with both. A large part of Pali and Sanskrit word-stems are identical in form, differing only in details of inflection.
+
+Technical terms from Sanskrit were converted into Pali by a set of conventional phonological transformations. These transformations mimicked a subset of the phonological developments that had occurred in Proto-Pali. Because of the prevalence of these transformations, it is not always possible to tell whether a given Pali word is a part of the old Prakrit lexicon, or a transformed borrowing from Sanskrit. The existence of a Sanskrit word regularly corresponding to a Pali word is not always secure evidence of the Pali etymology, since, in some cases, artificial Sanskrit words were created by back-formation from Prakrit words.{{dubious|date=November 2013}}
+
+The following phonological processes are not intended as an exhaustive description of the historical changes which produced Pali from its Old Indic ancestor, but rather are a summary of the most common phonological equations between Sanskrit and Pali, with no claim to completeness.
+
+===Vowels and diphthongs===
+* Sanskrit '''ai''' and '''au''' always monophthongize to Pali '''e''' and '''o''', respectively
+::Examples: '''maitrī''' → '''mettā''', '''auṣadha''' → '''osadha'''
+* Sanskrit '''āya''', '''ayā''' and '''avā''' reduce to Pali '''ā'''<ref>Jain, Danesh; Cardona, George (2007-07-26). The Indo-Aryan Languages. Routledge. p. 172.</ref>
+::Examples: '''katipayāhaṃ''' → '''katipāhaṃ''', '''vaihāyasa''' → '''vehāsa''', '''yāvagū''' → '''yāgu'''
+* Sanskrit '''aya''' and '''ava''' likewise often reduce to Pali '''e''' and '''o'''
+::Examples: '''dhārayati''' → '''dhāreti''', '''avatāra''' → '''otāra''', '''bhavati''' → '''hoti'''
+* Sanskrit '''avi''' and '''ayū''' becomes Pali '''e''' (i.e. '''avi''' → '''ai''' → '''e''') and '''o'''
+::Examples: '''sthavira''' → '''thera''', '''mayūra''' → '''mora'''
+* Sanskrit '''ṛ''' appears in Pali as '''a''', '''i''' or '''u''', often agreeing with the vowel in the following syllable. '''ṛ''' also sometimes becomes '''u''' after labial consonants.
+::Examples: '''kṛta''' → '''kata''', '''tṛṣṇa''' → '''taṇha''', '''smṛti''' → '''sati''', '''ṛṣi''' → '''isi''', '''dṛṣṭi''' → '''diṭṭhi''', '''ṛddhi''' → '''iddhi''', '''ṛju''' → '''uju''', '''spṛṣṭa''' → '''phuṭṭha''', '''vṛddha''' → '''vuddha'''
+* Sanskrit long vowels are shortened before a sequence of two following consonants.
+::Examples: '''kṣānti''' → '''khanti''', '''rājya''' → '''rajja''', '''īśvara''' → '''issara''', '''tīrṇa''' → '''tiṇṇa''', '''pūrva''' → '''pubba'''
+
+===Consonants===
+
+====Sound changes====
+* The Sanskrit sibilants '''ś''', '''ṣ''', and '''s''' merge as Pali '''s'''
+::Examples: '''śaraṇa''' → '''saraṇa''', '''doṣa''' → '''dosa'''
+* The Sanskrit stops '''ḍ''' and '''ḍh''' become '''ḷ''' and '''ḷh''' between vowels (as in Vedic)
+::Example: '''cakravāḍa''' → '''cakkavāḷa''', '''virūḍha''' → '''virūḷha'''
+
+====Assimilations====
+
+=====General rules=====
+* Many [[Assimilation (linguistics)|assimilations]] of one consonant to a neighboring consonant occurred in the development of Pali, producing a large number of [[Gemination|geminate]] (double) consonants. Since [[Aspiration (phonetics)|aspiration]] of a geminate consonant is only phonetically detectable on the last consonant of a cluster, geminate '''kh, gh, ch, jh, ṭh, ḍh, th, dh, ph''' and '''bh''' appear as '''kkh, ggh, cch, jjh, ṭṭh, ḍḍh, tth, ddh, pph''' and '''bbh''', not as ''khkh, ghgh'' etc.
+* When assimilation would produce a geminate consonant (or a sequence of unaspirated stop+aspirated stop) at the beginning of a word, the initial geminate is simplified to a single consonant.
+::Examples: '''prāṇa''' → '''pāṇa''' (not ''ppāṇa''), '''sthavira''' → '''thera''' (not ''tthera''), '''dhyāna''' → '''jhāna''' (not ''jjhāna''), '''jñāti''' → '''ñāti''' (not ''ññāti'')
+* When assimilation would produce a sequence of three consonants in the middle of a word, geminates are simplified until there are only two consonants in sequence.
+::Examples: '''uttrāsa''' → '''uttāsa''' (not ''utttāsa''), '''mantra''' → '''manta''' (not ''mantta''), '''indra''' → '''inda''' (not ''indda''), '''vandhya''' → '''vañjha''' (not ''vañjjha'')
+* The sequence '''vv''' resulting from assimilation changes to '''bb.'''
+::Example: '''sarva''' → savva → '''sabba''', '''pravrajati''' → pavvajati → '''pabbajati''', '''divya''' → divva → '''dibba''', '''nirvāṇa''' → nivvāṇa → '''nibbāna'''
+
+=====Total assimilation=====
+Total assimilation, where one sound becomes identical to a neighboring sound, is of two types: progressive, where the assimilated sound becomes identical to the following sound; and regressive, where it becomes identical to the preceding sound.
+
+======Regressive assimilations======
+* Internal [[visarga]] assimilates to a following voiceless stop or sibilant
+::Examples: '''duḥkṛta''' → '''dukkata''', '''duḥkha''' → '''dukkha''', '''duḥprajña''' → '''duppañña''', '''niḥkrodha''' (='''niṣkrodha''') → '''nikkodha''', '''niḥpakva''' (='''niṣpakva''') → '''nippakka''', '''niḥśoka''' → '''nissoka''', '''niḥsattva''' → '''nissatta'''
+* In a sequence of two dissimilar Sanskrit stops, the first stop assimilates to the second stop
+::Examples: '''vimukti''' → '''vimutti''', '''dugdha''' → '''duddha''', '''utpāda''' → '''uppāda''', '''pudgala''' → '''puggala''', '''udghoṣa''' → '''ugghosa''', '''adbhuta''' → '''abbhuta''', '''śabda''' → '''sadda'''
+* In a sequence of two dissimilar nasals, the first nasal assimilates to the second nasal
+::Example: '''unmatta''' → '''ummatta''', '''pradyumna''' → '''pajjunna'''
+* '''j''' assimilates to a following '''ñ''' (i.e., '''jñ''' becomes '''ññ''')
+::Examples: '''prajñā''' → '''paññā''', '''jñāti''' → '''ñāti'''
+* The Sanskrit liquid consonants '''r''' and '''l''' assimilate to a following stop, nasal, sibilant, or '''v'''
+::Examples: '''mārga''' → '''magga''', '''karma''' → '''kamma''', '''varṣa''' → '''vassa''', '''kalpa''' → '''kappa''', '''sarva''' → savva → '''sabba'''
+* '''r''' assimilates to a following '''l'''
+::Examples: '''durlabha''' → '''dullabha''', '''nirlopa''' → '''nillopa'''
+* '''d''' sometimes assimilates to a following '''v''', producing vv → '''bb'''
+::Examples: '''udvigna''' → uvvigga → '''ubbigga''', '''dvādaśa''' → '''bārasa''' (beside '''dvādasa''')
+* '''t''' and '''d''' may assimilate to a following '''s''' or '''y''' when a morpheme boundary intervenes
+::Examples: '''ut+sava''' → '''ussava''', '''ud+yāna''' → '''uyyāna'''
+
+======Progressive assimilations======
+* Nasals sometimes assimilate to a preceding stop (in other cases epenthesis occurs)
+::Examples: '''agni''' → '''aggi''', '''ātman''' → '''atta''', '''prāpnoti''' → '''pappoti''', '''śaknoti''' → '''sakkoti'''
+* '''m''' assimilates to an initial sibilant
+::Examples: '''smarati''' → '''sarati''', '''smṛti''' → '''sati'''
+* Nasals assimilate to a preceding stop+sibilant cluster, which then develops in the same way as such clusters without following nasals
+::Examples: '''tīkṣṇa''' → tikṣa → '''tikkha''', '''lakṣmī''' → lakṣī →'''lakkhī'''
+* The Sanskrit liquid consonants '''r''' and '''l''' assimilate to a preceding stop, nasal, sibilant, or '''v'''
+::Examples: '''prāṇa''' → '''pāṇa''', '''grāma''' → '''gāma''', '''śrāvaka''' → '''sāvaka''', '''agra''' → '''agga''', '''indra''' → '''inda''', '''pravrajati''' → pavvajati → '''pabbajati''', '''aśru''' → '''assu'''
+* '''y''' assimilates to preceding non-dental/retroflex stops or nasals
+::Examples: '''cyavati''' → '''cavati''', '''jyotiṣ''' → '''joti''', '''rājya''' → '''rajja''', '''matsya''' → macchya → '''maccha''', '''lapsyate''' → lacchyate → '''lacchati''', '''abhyāgata''' → '''abbhāgata''', '''ākhyāti''' → '''akkhāti''', '''saṁkhyā''' → '''saṅkhā''' (but also '''saṅkhyā'''), '''ramya''' → '''ramma'''
+* '''y''' assimilates to preceding non-initial '''v''', producing vv → '''bb'''
+::Example: '''divya''' → divva → '''dibba''', '''veditavya''' → veditavva → '''veditabba''', '''bhāvya''' → bhavva → '''bhabba'''
+* '''y''' and '''v''' assimilate to any preceding sibilant, producing '''ss'''
+::Examples: '''paśyati''' → '''passati''', '''śyena''' → '''sena''', '''aśva''' → '''assa''', '''īśvara''' → '''issara''', '''kariṣyati''' → '''karissati''', '''tasya''' → '''tassa''', '''svāmin''' → '''sāmī'''
+* '''v''' sometimes assimilates to a preceding stop
+::Examples: '''pakva''' → '''pakka''', '''catvāri''' → '''cattāri''', '''sattva''' → '''satta''', '''dhvaja''' → '''dhaja'''
+
+=====Partial and mutual assimilation=====
+* Sanskrit [[Sibilant consonant|sibilants]] before a stop assimilate to that stop, and if that stop is not already aspirated, it becomes aspirated; e.g. '''śc''', '''st''', '''ṣṭ''' and '''sp''' become '''cch''', '''tth''', '''ṭṭh''' and '''pph'''
+::Examples: '''paścāt''' → '''pacchā''', '''asti''' → '''atthi''', '''stava''' → '''thava''', '''śreṣṭha''' → '''seṭṭha''', '''aṣṭa''' → '''aṭṭha''', '''sparśa''' → '''phassa'''
+* In sibilant-stop-liquid sequences, the liquid is assimilated to the preceding consonant, and the cluster behaves like sibilant-stop sequences; e.g. '''str''' and '''ṣṭr''' become '''tth''' and '''ṭṭh'''
+::Examples: '''śāstra''' → śasta → '''sattha''', '''rāṣṭra''' → raṣṭa → '''raṭṭha'''
+* '''t''' and '''p''' become '''c''' before '''s''', and the sibilant assimilates to the preceding sound as an aspirate (i.e., the sequences '''ts''' and '''ps''' become '''cch''')
+::Examples: '''vatsa''' → '''vaccha''', '''apsaras''' → '''accharā'''
+* A sibilant assimilates to a preceding '''k''' as an aspirate (i.e., the sequence '''kṣ''' becomes '''kkh''')
+::Examples: '''bhikṣu''' → '''bhikkhu''', '''kṣānti''' → '''khanti'''
+* Any dental or retroflex stop or nasal followed by '''y''' converts to the corresponding palatal sound, and the '''y''' assimilates to this new consonant, i.e. '''ty, thy, dy, dhy, ny''' become '''cc, cch, jj, jjh, ññ'''; likewise '''ṇy''' becomes '''ññ'''. Nasals preceding a stop that becomes palatal share this change.
+::Examples: '''tyajati''' → cyajati → '''cajati''', '''satya''' → sacya → '''sacca''', '''mithyā''' → michyā → '''micchā''', '''vidyā''' → vijyā → '''vijjā''', '''madhya''' → majhya → '''majjha''', '''anya''' → añya → '''añña''', '''puṇya''' → puñya → '''puñña''', '''vandhya''' → vañjhya → vañjjha → '''vañjha'''
+* The sequence '''mr''' becomes '''mb''', via the epenthesis of a stop between the nasal and liquid, followed by assimilation of the liquid to the stop and subsequent simplification of the resulting geminate.
+::Examples: '''āmra''' → ambra → '''amba''', '''tāmra''' → '''tamba'''
+
+====Epenthesis====
+An [[Epenthesis|epenthetic]] vowel is sometimes inserted between certain consonant-sequences. As with '''ṛ''', the vowel may be '''a''', '''i''', or '''u''', depending on the influence of a neighboring consonant or of the vowel in the following syllable. '''i''' is often found near '''i''', '''y''', or palatal consonants; '''u''' is found near '''u''', '''v''', or labial consonants.
+* Sequences of stop + nasal are sometimes separated by '''a''' or '''u'''
+::Example: '''ratna''' → '''ratana''', '''padma''' → '''paduma''' ('''u''' influenced by labial '''m''')
+* The sequence '''sn''' may become '''sin''' initially
+::Examples: '''snāna''' → '''sināna''', '''sneha''' → '''sineha'''
+* '''i''' may be inserted between a consonant and '''l'''
+::Examples: '''kleśa''' → '''kilesa''', '''glāna''' → '''gilāna''', '''mlāyati''' → '''milāyati''', '''ślāghati''' → '''silāghati'''
+* An epenthetic vowel may be inserted between an initial sibilant and '''r'''
+::Example: '''śrī''' → '''sirī'''
+* The sequence '''ry''' generally becomes '''riy''' ('''i''' influenced by following '''y'''), but is still treated as a two-consonant sequence for the purposes of vowel-shortening
+::Example: '''ārya''' → arya → '''ariya''', '''sūrya''' → surya → '''suriya''', '''vīrya''' → virya → '''viriya'''
+* '''a''' or '''i''' is inserted between '''r''' and '''h'''
+::Example: '''arhati''' → '''arahati''', '''garhā''' → '''garahā''', '''barhiṣ''' → '''barihisa'''
+* There is sporadic epenthesis between other consonant sequences
+::Examples: '''caitya''' → '''cetiya''' (not ''cecca''), '''vajra''' → '''vajira''' (not ''vajja'')
+
+====Other changes====
+* Any Sanskrit sibilant before a nasal becomes a sequence of nasal followed by '''h''', i.e. '''ṣṇ''', '''sn''' and '''sm''' become '''ṇh''', '''nh''', and '''mh'''
+::Examples: '''tṛṣṇa''' → '''taṇha''', '''uṣṇīṣa''' → '''uṇhīsa''', '''asmi''' → '''amhi'''
+* The sequence '''śn''' becomes '''ñh''', due to assimilation of the '''n''' to the preceding palatal sibilant
+::Example: '''praśna''' → praśña → '''pañha'''
+* The sequences '''hy''' and '''hv''' undergo [[Metathesis (linguistics)|metathesis]]
+::Examples: '''jihvā''' → '''jivhā''', '''gṛhya''' → '''gayha''', '''guhya''' → '''guyha'''
+* '''h''' undergoes metathesis with a following nasal
+::Example: '''gṛhṇāti''' → '''gaṇhāti'''
+* '''y''' is geminated between '''e''' and a vowel
+::Examples: '''śreyas''' → '''seyya''', '''Maitreya''' → '''Metteyya'''
+* Voiced aspirates such as '''bh''' and '''gh''' on rare occasions become '''h'''
+::Examples: '''bhavati''' → '''hoti''', '''-ebhiṣ''' → '''-ehi''', '''laghu''' → '''lahu'''
+* Dental and retroflex sounds sporadically change into one another
+:: Examples: '''jñāna''' → '''ñāṇa''' (not ''ñāna''), '''dahati''' → '''ḍahati''' (beside Pali '''dahati''') '''nīḍa''' → '''nīla''' (not ''nīḷa''), '''sthāna''' → '''ṭhāna''' (not ''thāna''), '''duḥkṛta''' → '''dukkaṭa''' (beside Pali '''dukkata''')
+
+===Exceptions===
+There are several notable exceptions to the rules above; many of them are common Prakrit words rather than borrowings from Sanskrit.
+* '''ārya''' → '''ayya''' (beside '''ariya''')
+* '''guru''' → '''garu''' (adj.) (beside '''guru''' (n.))
+* '''puruṣa''' → '''purisa''' (not ''purusa'')
+* '''vṛkṣa''' → rukṣa → '''rukkha''' (not ''vakkha'')
+
+==Writing==
+
+===Alphabet with diacritics===
+Emperor [[Ashoka]] erected a number of pillars with his edicts in at least three regional Prakrit languages in [[Brahmi script]],<ref>''Inscriptions of Aśoka'' by Alexander Cunningham, Eugen Hultzsch. Calcutta: Office of the Superintendent of Government Printing. Calcutta: 1877</ref> all of which are quite similar to Pali. Historically, the first written record of the Pali canon is believed to have been composed in Sri Lanka, based on a prior oral tradition. According to the [[Mahavamsa]] (the chronicle of Sri Lanka), due to a major famine in the country Buddhist monks wrote down the Pali canon during the time of King [[Vattagamini]] in 100 BCE.
+
+Bilingual coins containing Pali written in the [[Kharosthi]] script and Greek writing were used by [[James Prinsep]] to decipher the [[Kharosthi]] [[abugida]].<ref>Dias, Malini, and Das Miriyagalla. "Brahmi Script in Relation to Mesopotamian Cuneiform". Journal of the Royal Asiatic Society of Sri Lanka, vol. 53, 2007, pp. 91–108. JSTOR, www.jstor.org/stable/23731201.</ref> This script became particularly significant for the study of early Buddhism following the discovery of the [[Gandharan Buddhist texts]].
+
+The transmission of written Pali has retained a universal system of alphabetic values, but has expressed those values in a variety of different scripts.
+
+In Sri Lanka, Pali texts were recorded in [[Sinhala script]]. Other local scripts, most prominently [[Khmer script|Khmer]], [[Burmese script|Burmese]], and in modern times [[Thai alphabet|Thai]] (since 1893), [[Devanāgarī]] and [[Mon script]] ([[Mon State]], Burma) have been used to record Pali.
+
+Since the 19th century, Pali has also been written in the Roman script. An alternate scheme devised by Frans Velthuis, called the [[Velthuis]] scheme (see [[#Text in ASCII|§ Text in ASCII]]) allows for typing without [[diacritics]] using plain [[ASCII]] methods, but is arguably less readable than the standard [[International Alphabet of Sanskrit Transliteration|IAST]] system, which uses [[diacritical]] marks.
+
+The Pali alphabetical order is as follows:
+* '''a ā i ī u ū e o ṃ k kh g gh ṅ c ch j jh ñ ṭ ṭh ḍ ḍh ṇ t th d dh n p ph b bh m y r l ḷ v s h'''
+
+'''ḷh''', although a single sound, is written with ligature of '''ḷ''' and '''h'''.
+
+=== Transliteration on computers ===
+
+There are several fonts to use for Pali transliteration. However, older ASCII fonts such as Leedsbit PaliTranslit, Times_Norman, Times_CSX+, Skt Times, Vri RomanPali CN/CB etc., are not recommendable, they are [[Deprecation|deprecated]], since they are not compatible with one another, and are technically out of date. Instead, fonts based on the [[Unicode]] standard are recommended.
+
+However, not all Unicode fonts contain the necessary characters. To properly display all the diacritic marks used for romanized Pali (or for that matter, Sanskrit), a Unicode font must contain the following character ranges:
+
+:* Basic Latin: U+0000 – U+007F
+:* Latin-1 Supplement: U+0080 – U+00FF
+:* Latin Extended-A: U+0100 – U+017F
+:* Latin Extended-B: U+0180 – U+024F
+:* Latin Extended Additional: U+1E00 – U+1EFF
+
+Some Unicode fonts freely available for typesetting Romanized Pali are as follows:
+:* [http://www.palitext.com/subpages/PC_Unicode.htm The Pali Text Society] recommends [http://www.budsas.org/fonts/index.htm VU-Times] and [https://github.com/gandhariunicode/gandhari_unicode_font Gandhari Unicode] for Windows and Linux Computers.
+:* [http://www.thlib.org/tools/#wiki=/access/wiki/site/c06fa8cf-c49c-4ebc-007f-482de5382105/diacritic%20fonts.html The Tibetan & Himalayan Digital Library] recommends [https://web.archive.org/web/20070617033953/http://www.bcca.org/services/fonts/ Times Ext Roman], and provides links to several Unicode diacritic [http://www.thlib.org/tools/#wiki=/access/wiki/site/c06fa8cf-c49c-4ebc-007f-482de5382105/windows%20unicode%20diacritic%20fonts.html Windows] and [http://www.thlib.org/tools/#wiki=/access/wiki/site/c06fa8cf-c49c-4ebc-007f-482de5382105/macintosh%20unicode%20diacritic%20fonts.html Mac] fonts usable for typing Pali together with ratings and installation instructions. It also provides [http://www.thlib.org/tools/#wiki=/access/wiki/site/c06fa8cf-c49c-4ebc-007f-482de5382105/diacritic%20fonts.html macros] for typing diacritics in OpenOffice and MS Office.
+:* [http://www.sil.org/ SIL: International] provides [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=CharisSIL_download Charis SIL and Charis SIL Compact], [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&cat_id=FontDownloadsDoulos Doulos SIL], [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium_download Gentium], [http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium_basic Gentium Basic, Gentium Book Basic] fonts. Of them, Charis SIL, Gentium Basic and Gentium Book Basic have all 4 styles (regular, italic, bold, bold-italic); so can provide publication quality typesetting.
+:* [https://web.archive.org/web/20100313135127/http://www.linuxlibertine.org/ Libertine Openfont Project] provides the Linux Libertine font (4 serif styles and many Opentype features) and Linux Biolinum (4 sans-serif styles) at the [http://www.sourceforge.net/projects/linuxlibertine SourceForge].
+:* [https://web.archive.org/web/20090909030635/http://junicode.sourceforge.net/ Junicode] (short for Junius-Unicode) is a Unicode font for medievalists, but it provides all diacritics for typing Pali. It has 4 styles and some Opentype features such as Old Style for numerals.
+:* [http://www.io.com/~hmiller/lang/ Thryomanes] includes all the Roman-alphabet characters available in Unicode along with a subset of the most commonly used Greek and Cyrillic characters, and is available in normal, italic, bold, and bold italic.
+:* [http://www.gust.org.pl/ GUST] (Polish TeX User Group) provides [http://www.gust.org.pl/projects/e-foundry/latin-modern/download Latin Modern] and [http://www.gust.org.pl/projects/e-foundry/tex-gyre TeX Gyre] fonts. Each font has 4 styles, with the former finding most acceptance among the LaTeX users while the latter is a relatively new family. Of the latter, each typeface in the following families has nearly 1250 glyphs and is available in PostScript, TeX and OpenType formats.
+:** The ''TeX Gyre Adventor'' family of sans serif fonts is based on the URW Gothic L family. The original font, [[ITC Avant Garde|ITC Avant Garde Gothic]], was designed by Herb Lubalin and Tom Carnase in 1970.
+:** The ''TeX Gyre Bonum'' family of serif fonts is based on the URW Bookman L family. The original font, [[Bookman (typeface)|Bookman]] or Bookman Old Style, was designed by Alexander Phemister in 1860.
+:** The ''TeX Gyre Chorus'' is a font based on the URW Chancery L Medium Italic font. The original, [[ITC Zapf Chancery]], was designed in 1979 by Hermann Zapf.
+:** The ''TeX Gyre Cursor'' family of monospace serif fonts is based on the URW Nimbus Mono L family. The original font, [[Courier (typeface)|Courier]], was designed by Howard G. (Bud) Kettler in 1955.
+:** The ''TeX Gyre Heros'' family of sans serif fonts is based on the URW Nimbus Sans L family. The original font, [[Helvetica]], was designed in 1957 by Max Miedinger.
+:** The ''TeX Gyre Pagella'' family of serif fonts is based on the URW Palladio L family. The original font, [[Palatino]], was designed by Hermann Zapf in the 1940s.
+:** The ''TeX Gyre Schola'' family of serif fonts is based on the URW Century Schoolbook L family. The original font, [[Century Schoolbook]], was designed by Morris Fuller Benton in 1919.
+:** The ''TeX Gyre Termes'' family of serif fonts is based on the Nimbus Roman No9 L family. The original font, [[Times New Roman|Times Roman]], was designed by Stanley Morison together with Starling Burgess and Victor Lardent.
+
+:* John Smith provides [http://bombay.indology.info/software/fonts/induni/index.html IndUni] Opentype fonts, based upon URW++ fonts. Of them:
+:** ''IndUni-C'' is Courier-lookalike;
+:** ''IndUni-H'' is Helvetica-lookalike;
+:** ''IndUni-N'' is New Century Schoolbook-lookalike;
+:** ''IndUni-P'' is Palatino-lookalike;
+:** ''IndUni-T'' is Times-lookalike;
+:** ''IndUni-CMono'' is Courier-lookalike but monospaced;
+:* An English Buddhist monk titled Bhikkhu Pesala provides some [http://www.softerviews.org/Fonts.html Pali OpenType fonts] he has designed himself. Of them:
+:** ''Acariya'' is a Garamond style typeface derived from Guru (regular, italic, bold, bold italic). 
+:** ''Balava'' is a revival of Baskerville derived from [https://web.archive.org/web/20151025081726/http://www.impallari.com/projects/overview/libre-baskerville Libre Baskerville] (regular, italic, bold, bold italic). 
+:** ''Cankama'' is a Gothic, Black Letter script. Regular style only.
+:** (''Carita'' has been discontinued.)
+:** ''Garava'' was designed for body text with a generous x-height and economical copyfit. It includes [http://www.microsoft.com/typography/otspec/features_pt.htm#pcap Petite Caps] (as OpenType Features), and Heavy styles besides the usual four styles (regular, italic, bold, bold italic).
+:** Guru is a condensed Garamond style typeface designed for economy of copy-fit. A hundred A4 pages of text set in Pali would be about 98 pages if set in Acariya, 95 if set in Garava or Times New Roman, but only 90 if set in Guru.(regular, italic, bold, bold italic styles).
+:** ''Hari'' is a hand-writing script derived from Allura by Robert E. Leuschke.(Regular style only).
+:** (''Hattha'' has been discontinued)
+:** ''Jivita'' is an original Sans Serif typeface for body text. (regular, italic, bold, bold italic).
+:** ''Kabala'' is a distinctive Sans Serif typeface designed for display text or headings. Regular, italic, bold and bold italic styles.
+:** ''Lekhana'' is a Zapf Chancery clone, a flowing script that can be used for correspondence or body text. Regular, italic, bold and bold italic styles.
+:** ''Mahakampa'' is a hand-writing script derived from Great Vibes by Robert E. Leuschke. Regular type style. 
+:** ''Mandala'' is designed for display text or headings. Regular, italic, bold and bold italic styles.
+:** ''Nacca'' is a hand-writing script derived from Dancing Script by Pablo Impallari and released on Font Squirrel. Regular type style. 
+:** ''Odana'' is a calligraphic brush font suitable for headlines, titles, or short texts where a less formal appearance is wanted. Regular style only.
+:** ''Open Sans'' is a Sans Serif font suitable for body text. Ten type styles.
+:** ''Pali'' is a clone of Hermann Zapf's Palatino. Regular, italic, bold and bold italic styles.
+:** ''Sukhumala'' is derived from Sort Mills Goudy. Five type styles
+:** ''Talapanna'' is a clone of Goudy Bertham, with decorative gothic capitals and extra ligatures in the Private Use Area. Regular and bold styles.
+:** (''Talapatta'' is discontinued.)
+:** ''Veluvana'' is another brush calligraphic font but basic Greek glyphs are taken from ''Guru''. Regular style only.
+:** ''Verajja'' is derived from Bitstream Vera. Regular, italic, bold and bold italic styles.
+:** ''VerajjaPDA'' is a cut-down version of ''Verajja'' without symbols. For use on PDA devices. Regular, italic, bold and bold italic styles.
+:** He also provides some [http://www.softerviews.org/Fonts.html#PagePlus_Keyboard Pali keyboards] for Windows XP.
+:* [http://www.alanwood.net/unicode/fonts.html The font section] of Alanwood's Unicode Resources have links to several general purpose fonts that can be used for Pali typing if they cover the character ranges above.
+Some of the latest fonts coming with Windows 7 can also be used to type transliterated Pali: ''Arial'', ''Calibri'', ''Cambria'', ''Courier New'', ''Microsoft Sans Serif'', ''Segoe UI'', ''Segoe UI Light'', ''Segoe UI Semibold'', ''Tahoma'', and ''Times New Roman''. And some of them have 4 styles each hence usable in professional typesetting: ''Arial, Calibri'' and ''Segoe UI'' are sans-serif fonts, ''Cambria'' and ''Times New Roman'' are serif fonts and ''Courier New'' is a monospace font.
+
+===Text in ASCII===
+
+The [[Devanagari transliteration#Velthuis|Velthuis scheme]] was originally developed in 1991 by Frans Velthuis for use with his "devnag" Devanāgarī font, designed for the [[TeX]] typesetting system. This system of representing Pali diacritical marks has been used in some websites and discussion lists. However, as the Web itself and email software slowly evolve towards the Unicode encoding standard, this system has become almost unnecessary and obsolete.
+
+The following table compares various conventional renderings and shortcut key assignments:
+{| class="wikitable"
+! character
+! ASCII rendering
+! character name
+! Unicode number
+! key combination
+! HTML code
+|-
+| align="center"|ā || aa || a macron || U+0101 || Alt+A || &amp;#257;
+|-
+| align="center"|ī || ii || i macron || U+012B || Alt+I || &amp;#299;
+|-
+| align="center"|ū || uu || u macron || U+016B || Alt+U || &amp;#363;
+|-
+| align="center"|ṃ || .m || m dot-under || U+1E43 || Alt Gr+M || &amp;#7745;
+|-
+| align="center"|ṇ || .n || n dot-under || U+1E47 || Alt+N || &amp;#7751;
+|-
+| align="center"|ñ || ~n || n tilde || U+00F1 || Alt+Ctrl+N || &amp;ntilde;
+|-
+| align="center"|ṭ || .t || t dot-under || U+1E6D || Alt+T || &amp;#7789;
+|-
+| align="center"|ḍ || .d || d dot-under || U+1E0D || Alt+D || &amp;#7693;
+|-
+| align="center"|ṅ || "n || n dot-over || U+1E45 || Ctrl+N || &amp;#7749;
+|-
+| align="center"|ḷ || .l || l dot-under || U+1E37 || Alt+L || &amp;#7735;
+|}
+
+==See also==
+* [[Buddhist Hybrid Sanskrit]]
+
+==Footnotes==
+{{notelist}}
+
+==References==
+=== Citations ===
+{{reflist|30em}}
+
+=== General sources ===
+* See entries for "Pali" (written by [[K. R. Norman]] of the Pali Text Society) and "India—Buddhism" in ''The Concise Encyclopedia of Language and Religion'' (Sawyer ed.), {{ISBN|0-08-043167-4}}
+* {{cite book |last=Müller |first=Edward |year=1995 |orig-year=First published 1884 |title=Simplified Grammar of the Pali Language |publisher=Asian Educational Services |isbn=81-206-1103-9}}
+* {{cite book |last=Silva |first=Lily de |year=1994 |title=Pali Primer |edition=first |publisher=Vipassana Research Institute Publications |isbn=81-7414-014-X}}
+* {{cite book |last=Warder |first=A. K. |author-link=A. K. Warder |year=1991 |title=Introduction to Pali|edition= third |publisher=[[Pali Text Society]] |isbn=0-86013-197-1}}
+
+==Further reading==
+* American National Standards Institute. (1979). ''American National Standard system for the romanization of Lao, Khmer, and Pali''. New York: The institute.
+* {{cite book|last1=Andersen|first1=Dines|title=A Pali Reader|date=1907|publisher=Gyldendalske Boghandel, Nordisk Forlag|location=Copenhagen|pages=310|url=https://archive.org/details/cu31924071132082|access-date=29 September 2016}}
+* Perniola, V. (1997). ''Pali Grammar'', Oxford, The Pali Text Society.
+* [[Steven Collins (Buddhist studies scholar)|Collins, Steven]] (2006). ''A Pali Grammar for Students''. Silkworm Press.
+* Gupta, K. M. (2006). ''Linguistic approach to meaning in Pali''. New Delhi: Sundeep Prakashan. {{ISBN|81-7574-170-8}}
+* Hazra, K. L. (1994). ''Pāli language and literature: a systematic survey and historical study''. Emerging perceptions in Buddhist studies, no. 4–5. New Delhi: D.K. Printworld. {{ISBN|81-246-0004-X}}
+* Müller, E. (2003). ''The Pali language: a simplified grammar''. Trubner's collection of simplified grammars. London: Trubner. {{ISBN|1-84453-001-9}}
+* Russell Webb (ed.) ''An Analysis of the Pali Canon'', Buddhist Publication Society, Kandy; 1975, 1991 (see http://www.bps.lk/reference.asp)
+* Soothill, W. E., & Hodous, L. (1937). ''A dictionary of Chinese Buddhist terms: with Sanskrit and English equivalents and a Sanskrit-Pali index''. London: K. Paul, Trench, Trubner & Co.
+* Bhikkhu Nanamoli. ''A Pāli-English Glossary of Buddhist technical terms''. {{ISBN|9552400864}}
+* Mahathera Buddhadatta (1998). ''Concise Pāli-English Dictionary. Quickly find the meaning of a word, without the detailed grammatical and contextual analysis.'' {{ISBN|8120806050}}
+* Wallis, Glenn (2011). ''Buddhavacana, a Pali reader'' (PDF eBook). {{ISBN|192870686X}}.
+* Lynn Martineau (1998). ''Pāli Workbook Pāli Vocabulary from the 10-day Vipassana Course of S. N. Goenka''. {{ISBN|1928706045}}.
+
+==External links==
+{{interwiki|code=pi}}
+{{wiktionary|Pali}}
+*
+* [http://dhamma.ru/paali/palisan.htm Reconstruction of Ancient Indian sound clusters on the basis of Pali sounds (according to "Grammatik des Pali" by Achim Fahs)]
+* [http://www.ahandfulofleaves.org/documents/Concise%20Pali%20English%20Dictionary_Buddhadatta.pdf Buddhadatta Mahāthera, A. P. (1958). ''Concise Pāli-English Dictionary''.]
+
+{{Buddhism topics}}
+{{Old and Middle Indo-Aryan}}
+{{Languages of Sri Lanka}}
+{{Authority control}}
+
+[[Category:Pali| ]]
+[[Category:Formal languages used for Indian scriptures]]
+[[Category:Indo-Aryan languages|Pali]]
+[[Category:Magahi language]]

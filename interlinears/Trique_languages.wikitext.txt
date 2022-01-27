@@ -1,0 +1,359 @@
+{{Infobox language family
+| name = Triqui
+| region = {{flag|Mexico}}
+| familycolor = American
+| ancestor = 
+| ethnicity = [[Trique people|Trique]]
+| speakers = {{sigfig|29545|2}} in Mexico
+| date=2020 census
+| ref=<ref name=inegi2020>[http://cuentame.inegi.org.mx/hipertexto/todas_lenguas.htm Lenguas indígenas y hablantes de 3 años y más, 2020] INEGI. Censo de Población y Vivienda 2020.</ref>
+| fam1 = [[Oto-Manguean]]
+| fam2 = [[Mixtecan languages|Mixtecan]]
+| child1 = [[Copala Triqui]]
+| child2 = [[Chicahuaxtla Triqui]]
+| child3 = [[San Martín Itunyoso Triqui]]
+| glotto = triq1251
+| glottorefname = Trique
+| map = Triqui_map.svg
+}}
+
+The '''Triqui''' ({{IPAc-en|ˈ|t|r|iː|k|i}}), or '''Trique''', languages are a family of [[Oto-Manguean]] spoken by 30,000 [[Trique people]] of the Mexican states of [[Oaxaca]] and the state of [[Baja California]] in 2007 (due to recent population movements). They are also spoken by 5,000 immigrants to the United States. Triqui languages belong to the [[Mixtecan languages|Mixtecan]] branch together with the [[Mixtec languages]] and [[Cuicatec language|Cuicatec]].<ref>The proposal to group Mixtec, Trique and Cuicatec into a single family (none more closely related to one than to the other) was made by Longacre (1957) with convincing evidence.</ref>
+
+==Varieties==
+''[[Ethnologue]]'' lists three major varieties: 
+*[[Copala Triqui|Triqui de Copala]] spoken by 15,000 people (1990 census) in [[San Juan Copala]], Oaxaca (and recently due to migrations in the [[San Quintín, Baja California|San Quintín valley]], [[Baja California]]).
+*[[Triqui de San Andrés Chicahuaxtla]] spoken by 6,000 people in [[San Andrés Chicahuaxtla]], Oaxaca.
+*[[Triqui de San Martín Itunyoso]] spoken by 2,000 people (1983 survey) in [[San Martín Itunyoso]], Oaxaca.
+
+Mexico's federal agency for its indigenous languages, [[Instituto Nacional de Lenguas Indígenas]] (INALI), identifies four varieties of Trique in its ''Catálogo de las lenguas indígenas nacionales'' published in early 2008.<ref>The catalogue is the result of a project completed by INALI in 2007 in fulfillment of its obligations under Mexican federal law to document and enumerate the indigenous languages of Mexico. The catalogue was published in the federal government's [[public journal|official gazette]], the ''[[Diario Oficial de la Federación]]'' (DOF).</ref> The variants listed by INALI are:
+
+{|class="wikitable" align="center"
+|+Varieties of Triqui (''trique''), per INALI<ref>Table data source: see [http://www.inali.gob.mx/catalogo2007/html/v_triqui.html "triqui" ], online extract reproduced from Instituto Nacional de Lenguas Indígenas (2008), p.5 [third section/''Tercera Sección''].</ref>
+!Variant (name in Spanish)
+!Autonym
+!Localities
+|-
+|Triqui de San Juan Copala
+|xnánj n<u>u</u>' a
+|Oaxaca: Santiago Juxtlahuaca
+|-
+|Triqui de La Media
+|sná'ánj nì'
+|Oaxaca: San Martín Itunyoso
+|-
+|Triqui de La Alta
+|nánj nï'ïn
+|Oaxaca: Putla Villa de Guerrero
+|-
+|Triqui de La Baja
+|tnanj ni'inj
+|Oaxaca: Constancia del Rosario, Putla Villa de Guerrero
+|}
+
+==Phonology==
+The following phonology is based on Hollenbach (1984) and DiCanio (2008):
+
+=== Vowels ===
+{| class="wikitable" style=text-align:center
+|-
+! !! [[Front vowel|Front]] 
+![[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+|{{IPAlink|i}} {{IPAlink|ĩ}}
+|{{IPAlink|u}} {{IPAlink|ũ}}
+|-
+![[Mid vowel|Mid]]
+|{{IPAlink|e}} {{IPAlink|ẽ}}
+|{{IPAlink|o}} {{IPAlink|õ}}
+|-
+![[Open vowel|Open]]
+| colspan="2" |{{IPAlink|a}} {{IPAlink|ã}}
+|}
+=== Consonants ===
+{| class="wikitable" style=text-align:center
+! colspan="2" rowspan="2" |
+! rowspan="2" |[[Labial consonant|Labial]]
+! rowspan="2" |[[Alveolar consonant|Alveolar]]
+! rowspan="2" |[[Postalveolar consonant|Post-<br>alveolar]]
+! rowspan="2" |[[Retroflex consonant|Retroflex]]
+! rowspan="2" |[[Palatal consonant|Palatal]]
+! colspan="2" |[[Velar consonant|Velar]]
+! rowspan="2" |[[Glottal consonant|Glottal]]
+|-
+!<small>plain</small>
+!<small>labial</small>
+|-
+! rowspan="3" |[[Plosive]]
+!<small>voiceless</small>
+|{{IPAlink|p}}
+|{{IPAlink|t}}
+|
+|
+|
+|{{IPAlink|k}}
+|{{IPAlink|kʷ}}
+|{{IPAlink|ʔ}}
+|-
+!<small>voiced</small>
+|{{IPAlink|b}}
+|{{IPAlink|d}}
+|
+|
+|
+|{{IPAlink|ɡ}}
+|{{IPAlink|ɡʷ}}
+|
+|-
+!<small>prenasal</small>
+|({{IPAlink|ᵐb}})
+|{{IPAlink|ⁿd}}
+|
+|
+|
+|{{IPAlink|ᵑɡ}}
+|{{IPAlink|ᵑɡʷ}}
+|
+|-
+! colspan="2" |[[Affricate]]
+|
+|{{IPAlink|t͡s}}
+|{{IPAlink|t͡ʃ}}
+|{{IPAlink|ʈ͡ʂ}}
+|{{IPA|c͡ɲ}}
+|
+|
+|
+|-
+! rowspan="2" |[[Fricative]]
+!<small>voiceless</small>
+|
+|{{IPAlink|s}}
+|{{IPAlink|ʃ}}
+|{{IPAlink|ʂ}}
+|
+|
+|
+|{{IPAlink|h}}
+|-
+!<small>voiced</small>
+|{{IPAlink|β}}
+|{{IPAlink|z}}
+|{{IPAlink|ʒ}}
+|{{IPAlink|ʐ}}
+|
+|
+|
+|
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+|{{IPAlink|m}}
+|{{IPAlink|n}}
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" |[[Rhotic consonant|Rhotic]]
+|
+|{{IPAlink|r}}
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" |[[Lateral consonant|Lateral]]
+|
+|{{IPAlink|l}}
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" |[[Semivowel|Glide]]
+|
+|
+|
+|
+|{{IPAlink|j}}
+|
+|{{IPAlink|w}}
+|
+|}
+
+Itunyoso Triqui may tend to have ten geminated consonants; /mː, βː, tː, nː, lː, tːʃ, jː, ʈːʂ, kː, kːʷ/.<ref name=":0" />
+
+=== Tones ===
+All varieties of Triqui are [[Tonal language|tonal]] and have complex phonologies. The tone system of Copala Triqui is the best described and has eight tones.<ref name="ReferenceA">Hollenbach, Barbara. The Phonology and Morphology of Tone and Laryngeals in Copala Trique. Ph.D Thesis, University of Arizona. 1984</ref>
+
+Tones in Triqui languages are typically written with superscript numbers,<ref name="ReferenceA"/> so that ''chraa<sup>5</sup>'' 'river' indicates the syllable ''chraa'' with the highest (5) tone, while ''cha<sup>3</sup>na<sup>1</sup>'' 'woman' has the middle (3) tone on the first syllable and the lowest (1) tone on the second syllable.
+
+Of the Triqui languages, the Copala dialect has undergone the most vowel loss, with many non-final syllables losing their vowels. The result, as in many other Oto-Manguean languages, is a complex set of consonant clusters. So, for instance, the word ''si<sup>5</sup>kuj<sup>5</sup>'' 'cow' in Itunyoso Triqui corresponds to ''skuj<sup>5</sup>'' in Copala Triqui.
+
+The tonal phonology of other Triqui languages is more complex than Copala Triqui. The tone system of Itunyoso Triqui has nine tones.<ref name=":0">DiCanio, Christian. [http://www.acsu.buffalo.edu/~cdicanio/pdfs/DiCanio_dissertation_papersaver.pdf The Phonetics and Phonology of San Martín Itunyoso Trique]. Ph.D Thesis, University of California, Berkeley. 2008. </ref> The tone system of Chicahuaxtla Triqui has at least 10 tones <ref>Good, Claude. Diccionario Triqui, volume 20 of Serie de Vocabularios Indigenas. Summer Institute of Linguistics, Mexico. 1979.</ref> but may have as many as 16.<ref>Longacre, Robert E. Proto-Mixtecan. In Indiana University Research Center in Anthropology, Folklore, and Linguistics, volume 5. Indiana University Research Center in Anthropology, Folklore, and Linguistics, Bloomington. 1957</ref>
+
+==Orthography==
+Triqui has been written in a number of different orthographies, depending on the intended audience. Linguists typically write the language with all tones fully marked and all phonemes represented. However, in works intended for native speakers of Triqui, a practical orthography is often used with a somewhat simpler representation.
+
+The following Copala Triqui example is written in both the practical (first line) and the linguistic (second line) orthographies:<ref>Hollenbach, Barbara. Vocabulario breve del triqui de San Juan Copala. 2005</ref>
+
+{{interlinear|indent=3|glossing3=yes|italics2=yes
+| Me síí rihaan a'mii s<u>o</u>' g<u>a</u>
+| Me3 zii5 riaan<sup>32</sup> a'mii<sup>32</sup> zo'1 ga2
+| WH 3 to speak 2 INTERR
+| 'To whom are you speaking?' (¿Con quién estás hablando?)}}
+
+==Morphology==
+Triqui [[bound morphology]] is fairly limited. Verbs take a /k-/ prefix (spelled ''c-'' or ''qu-'') to show completive aspect:
+
+A'mii<sup>32</sup> zo'<sup>1</sup>.
+'You are speaking'.
+
+C-a'mii<sup>32</sup> zo'<sup>1</sup>.
+'You spoke'.
+
+The same /k-/ prefix plus a tonal change shows the potential aspect:
+
+C-a'mii<sup>2</sup> zo'<sup>1</sup>.
+'You will speak.'
+
+The tonal changes associated with the potential aspect are complex but always involve lowering the tone of the root (Hollenbach 1984).
+
+There are also complex phonological processes that are triggered by the presence of root-final clitic pronouns. These pronouns (especially the first- and the second-person singular) may change the shape of the stem or alter its tone.
+
+As a language subfamily, Triqui is interesting for having a large tonal inventory, complex morphophonology, and interesting syntactic phenomena, much of which has yet to be described.
+
+==Syntax==
+Copala Triqui has a [[verb-subject-object]] word order:
+
+{{interlinear|indent=3
+|A’nii5 Mariia4 chraa3 raa4 yoo4 a<sup>32</sup>.
+|put Maria tortilla in tenate DECL
+|'Maria put the tortilla in the tenate(basket).'}}
+
+Copala Triqui has an accusative marker maa<sup>3</sup> or man<sup>3</sup>, which is obligatory for animate pronominal objects but optional otherwise:
+
+{{interlinear|indent=3
+|Quene'e3 Mariia4 (maa3) chraa4 a<sup>32</sup>.
+|saw Maria ACC tortilla DECL
+|'Maria saw the tortilla.'}}
+
+{{interlinear|indent=3
+|Quene'e3 Mariia4 *(maa3) zo'1 a<sup>32</sup>.
+|saw Maria ACC you DECL
+|'Maria saw you.'}}
+
+This use of the accusative before some objects and not others is what is called [[differential object marking]].
+
+The following example (repeated from above) shows a Copala Triqui question:
+
+{{interlinear|indent=3
+|Me3 zii5 riaan<sup>32</sup> a'mii<sup>32</sup> zo'1 ga2
+|WH 3 to speak 2 INTERR
+|'To whom are you speaking?' (¿Con quién estas hablando?)}}
+
+As this example shows, Copala Trique has [[wh-movement]] and [[pied-piping with inversion]].
+
+Copala Triqui syntax is described in Hollenbach (1992).
+
+Triqui is interesting for having toggle processes as well. For negation, a completive aspect prefix signifies the negative potential. A potential aspect prefix in the same context signifies the negative completive.
+
+== Sample text ==
+The following is a sample of Copala Triqui taken from a legend about the sun and the moon.<ref>{{Cite book|url=https://books.google.com/books?id=0GMkAQAAIAAJ|title=The origin of the sun and moon: a Copala Triqui legend|last=Lopéz|first=Román Vidal|last2=Broadwell|first2=George Aaron|date=2009-01-01|publisher=Lincom Europa|language=es}}</ref> The first column is Copala Triqui, the second is a Spanish translation, and the third is an English translation. 
+{| align="center"
+|      '''Copala Triqui:'''
+|'''Spanish:'''
+|'''English:'''
+|-
+|
+:(1) Niánj me 'o̱ nana̱ maa ga̱a naá ca̱ta̱j riaan zoj riaan zo̱'  riaan me ma'a̱n ze co̱no̱ maa niánj ne̱
+: (2) 'O̱chrej me ze güii a̱ güii ca'ngaa, [ne'é] zo̱', chumii̱ taj nii me ze ñáán, [ne'é] zo̱', 'o̱ xcua'án' 'na̱j Ca'aj ne̱ 
+: (3) Ñáán, [ne'é] zo̱, xcua'án' Ca'aj me ze me ndo rá yo' ga̱ ta'níí ne̱ 
+: (4) Me ndo rá ga̱ ta'níí ne̱ za̱ a ne̱ tiempó yo' ga̱a ne̱ tiempó xrmi̱' me ne̱   
+: (5) Navij rá, [ne'é] zo̱', navij rá xcua'án' Ca'aj. 
+: (6) Ga̱a ne̱ “Vaa nica̱j” taj ne̱ 
+: 
+|(1) Esta es una historia antigua que les voy a relatar a ustedes, para tí, para cualquier persona que pueda escuchar esto.
+
+(2) Erase una vez, cuando nació el universo, una abuela que se llamaba Ca'aj.
+
+(3) Vivía la abuela Ca’aj, quien deseaba mucho tener hijos.
+
+(4) Deseaba mucho tener hijos, pero aquel tiempo era tiempo de tinieblas.
+
+(5) Se preocupó, se preocupó la abuela Ca’aj.
+
+(6) Entonces ella dijo, “Tengo esposo!”
+
+|
+(1) Here is an ancient legend that I am going to tell you all, you, and anyone who can hear this.
+
+(2) Once upon a time, when the universe was born, they say that there lived a grandmother named Ca’aj.
+
+(3) There lived our Grandmother Ca’aj, who wanted to have children very much.
+
+(4) She wanted to have children very much, but that time was a time of darkness.
+
+(5) Our Grandmother Ca’aj worried, worried.
+
+(6) Then she said, “I have a husband!”
+
+|}
+
+==Media==
+Triqui-language programming is carried by the [[National Commission for the Development of Indigenous Peoples|CDI]]'s radio stations [[XEQIN-AM]], based in [[San Quintín, Baja California]], and [[XETLA]], based in [[Tlaxiaco, Oaxaca]].
+
+== Use ==
+As of 2012, the [[Natividad Medical Center]] of [[Salinas, California]], was training medical interpreters bilingual in one of the [[Mixe languages|Oaxacan languages]] (including Trique, [[Mixtec language|Mixteco]], or [[Zapotec languages|Zapotec]]), as well as in Spanish.<ref>{{Cite web| last = Melissa Flores| title = Salinas hospital to train indigenous-language interpreters| work = HealthyCal.org| access-date = 2012-08-05| date = 2012-01-23| url = http://www.healthycal.org/archives/7042| archive-url = https://web.archive.org/web/20120129042131/http://www.healthycal.org/archives/7042| url-status = dead| archive-date = 2012-01-29}}</ref> In March 2014, Natividad Medical Foundation launched Indigenous Interpreting+, "a community and medical interpreting business specializing in indigenous languages from Mexico and Central and South America," including Trique, [[Mixtec language|Mixteco]], [[Zapotecan languages|Zapotec]], and [[Chatino language|Chatino]].<ref>{{Cite web
+| title = Natividad Medical Foundation Announces Indigenous Interpreting+ Community and Medical Interpreting Business| work = Market Wired| access-date = 2014-03-13| date = 2014-03-07| url = http://www.marketwired.com/press-release/natividad-medical-foundation-announces-indigenous-interpreting-community-medical-interpreting-1886553.htm}}</ref>
+
+A Trique-speaking community has also settled in [[Albany, New York]],<ref>{{Cite news|last = Claudio Torrens|title = Some NY immigrants cite lack of Spanish as barrier|work = UTSanDiego.com|access-date = February 10, 2013|date = May 28, 2011|url = http://www.utsandiego.com/news/2011/may/28/some-ny-immigrants-cite-lack-of-spanish-as-barrier/}}</ref><ref>{{Cite news|last = Carleo-Evangelist|first=Jordan|title = Keeping a language alive: Dictionary project aims to save native tongue of the Triqui community|work = [[Times Union (Albany)]]|access-date = June 4, 2016|date = April 14, 2014|url = http://www.timesunion.com/local/article/Keeping-a-language-alive-5399660.php}}</ref> as well as in northwestern [[Washington (U.S. state)|Washington]].
+
+== Notes ==
+{{reflist|2}}
+
+==Bibliography==
+* Broadwell, George A., Kosuke Matsukawa, Edgar Martín del Campo, Ruth Scipione and Susan Perdomo. 2009. The Origin of the Sun and Moon: A Copala Triqui Legend. Munich: LINCOM Europa.
+* DiCanio, Christian. 2008. [http://www.acsu.buffalo.edu/~cdicanio/pdfs/DiCanio_dissertation_papersaver.pdf The Phonetics and Phonology of San Martín Itunyoso Trique]. Ph.D. dissertation: University of California, Berkeley.
+*Elliott, A. Raymond. 2020. [https://scholarspace.manoa.hawaii.edu/handle/10125/24919 A method comparison analysis examining the relationship between linguistic tone, melodic tune, and sung performances of children’s songs in Chicahuaxtla Triqui: Findings and implications for documentary linguistics and indigenous language communities]. Language Documentation & Conservation. Vol. 14, pp. 139-187.
+*Elliott, A. Raymond. 2017. [https://www.americanlinguistics.org/wp-content/uploads/ELLIOTT-TRS-Plumed-Serpent-IJAL.pdf Ruhuâ Ruˈman Hioˈóo Gatsii ‘IN THE HOLE OF WHITE DIRT’ LEGEND IN CHICAHUAXTLA TRIQUI]. International Journal of American Linguistics: Online Texts. Vol. 2, no. 1, pp. 1-32. 
+*Elliott, A. Raymond, Pablo Hernández Cruz, Fausto Sandoval Cruz. 2020. [https://revistas-filologicas.unam.mx/tlalocan/index.php/tl/article/view/502 Dàj guruguiˈ yumiguiì ‘de como apareció la gente del mundo’: leyenda en triqui de Chicahuaxtla]. Tlalocan. Vol. 25, 147-212.
+*Elliott, A. Raymond, Jerold A. Edmondson, and Fausto Sandoval Cruz. 2016. “Chicahuaxtla Triqui.” Journal of the International Phonetic Association, February, 1–15. {{doi|10.1017/S0025100315000389}}.
+*Elliott, A. Raymond, Fulgencio Sandoval Cruz, and Felipe Santiago Rojas. 2012. “Notes from the Field: Chicahuaxtla Triqui Digital Wordlist and Preliminary Observations” 6: 208–36.
+* Good, Claude. 1979. Diccionario Triqui, volume 20 of Serie de Vocabularios Indigenas. Summer Institute of Linguistics, Mexico.
+* Hollenbach, Barbara. 1977.  El origen del sol y de la  luna – cuatro versiones en el trique de Copala, Tlalocan 7:123-70.
+* Hollenbach, Barbara. 1984. The phonology and morphology of tone and laryngeals in Copala Trique.  Ph.D. thesis, University of Arizona.
+* Hollenbach, Barbara, 1988.  Three  Trique myths of San Juan Copala.  Mexico City: Summer Institute of Linguistics.
+* Hollenbach, Barbara. 1992. A syntactic sketch of Copala Trique. in C. Henry Bradley & Barbara E. Hollenbach, eds. Studies in the syntax of Mixtecan languages, vol. 4, pp.&nbsp;173–431. Dallas: Summer Institute of Linguistics.
+* Hollenbach, Barbara. 2005. Vocabulario breve del triqui de San Juan Copala. (Available at [http://www.sil.org/~hollenbachb/Posted.htm])
+* {{cite journal |author=Instituto Nacional de Lenguas Indígenas [INALI] |author-link=Instituto Nacional de Lenguas Indígenas |date=14 January 2008 |title=Catálogo de las lenguas indígenas nacionales: Variantes lingüísticas de México con sus autodenominaciones y referencias geoestadísticas |url=http://www.inali.gob.mx/catalogo2007/index.html |format=[[PDF]] online reproduction |journal=[[Diario Oficial de la Federación]] |location=México, D.F. |publisher=[[Government of Mexico|Imprenta del Gobierno Federal]], [[Secretaría de Gobernación|SEGOB]] |volume=652 |issue=9 |pages=22–78 (first section),1–96 (second section),1–112 (third section) |oclc=46461036|language=es}}
+* Longacre, Robert E. 1957. Proto-Mixtecan. International Journal of American Linguistics 23(4).
+* Matsukawa, Kosuke. 2007. [http://dspace.uta.edu/bitstream/handle/10106/1195/30-49-matsukawa.pdf;jsessionid=FA7958F0377DA2AD013FD312FD080E41?sequence=1 Preliminary Tone Analysis of Possessed Nouns in Chicahuaxtla Trique]. UTA Working Papers in Linguistics 2006-2007, pp.&nbsp;31–49. Arlington: University of Texas at Arlington.
+* Matsukawa, Kosuke. 2008. [http://repository.upenn.edu/cgi/viewcontent.cgi?article=1037&context=pwpl Reconstruction of Proto-Trique Phonemes]. U. Penn Working Papers in Linguistics 14(1):269-281. Philadelphia: University of Pennsylvania.
+* Matsukawa, Kosuke. 2010. [https://web.archive.org/web/20110716163304/http://www.ailla.utexas.org/site/cilla4/Matsukawa_CILLA_IV.pdf Tone Alternation Patterns for Potential Aspect in Chicahuaxtla Triqui]. [https://web.archive.org/web/20110514045134/http://www.ailla.utexas.org/site/cilla4_toc.html Proceedings of the Conference on Indigenous Languages of Latin America IV]. Austin: AILLA, University of Texas at Austin.
+* Matsukawa, Kosuke. 2012. [http://gradworks.umi.com/3517280.pdf#search='kosuke+matsukawa' Phonetics and Phonology of Chicahuaxtla Triqui Tones]. Ph.D. dissertation, University at Albany, State University of New York.
+
+==External links==
+* [http://copalatriqui.webonary.org Online dictionary of Copala Triqui]
+* [http://www.sil.org/MEXICO/mixteca/triqui-copala/L051a-DiccIlustrado_Imp-trc.pdf Triqui language picture dictionary]
+* [http://www.sil.org/~hollenbachb/Spanish/Posted.htm Triqui resources from Hollenbach]
+* [http://www.sil.org/mexico/mixteca/00i-mixteca.htm Triqui resources from SIL]
+* [http://www.native-languages.org/trique.htm Triqui resources  native-languages.org]
+
+{{Oto-Manguean languages}}
+{{Languages of Mexico}}
+
+{{incubator|trs}}
+
+[[Category:Mesoamerican languages]]
+[[Category:Indigenous languages of Mexico]]
+[[Category:Verb–subject–object languages]]
+[[Category:Oto-Manguean languages]]
+[[Category:Mixtecan languages]]
+[[Category:Trique language| ]]

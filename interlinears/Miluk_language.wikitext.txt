@@ -1,0 +1,253 @@
+{{short description|Extinct Native American language formerly spoken in Oregon}}
+{{Infobox language
+| name = Miluk
+| nativename = Lower Coquille
+| pronunciation = míluk
+| states = [[United States]]
+| region = [[Oregon]]
+| ethnicity = [[Miluk people]]
+| extinct = 1939, with the death of [[Annie Miner Peterson]]
+| familycolor = American
+| fam1 = [[Coosan languages|Coosan]]
+| iso3 = iml
+| glotto = milu1241
+| glottorefname = Miluk
+| linglist = iml
+}}
+'''Miluk''', also known as '''Lower Coquille''' from its location, is one of two [[Coosan languages]]. It shares more than half of its vocabulary with [[Hanis language|Coos proper]] (Hanis), though these are not always obvious, and grammatical differences cause the two languages to look quite different. Miluk started being displaced by Athabascan in the late 18th century, and many Miluk shifted to Athabascan and Hanis.
+
+Miluk was spoken around the lower [[Coquille River (Oregon)|Coquille River]] and the South Slough of [[Coos Bay]]. The name ''míluk'' is the endonym, derived from a village name. The last fully fluent speaker of Miluk was [[Annie Miner Peterson]], who died in 1939. She knew both Miluk and Hanis, and made a number of recordings.<ref name = "PW_MLG">
+{{cite web
+  | url = http://ctclusi.org/sites/default/files/Milluk%20Language%20%28Secure%29-1.pdf
+  | last = Whereat
+  | first = Patty
+  | title = The Milluk Language - Ghaala
+  | date = June 2001
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20140407122130/https://ctclusi.org/sites/default/files/Milluk%20Language%20(Secure)-1.pdf
+  | archive-date = April 7, 2014
+  | access-date = March 26, 2018
+}}</ref><ref>{{Cite news
+| volume = OLA Quarterly 1
+| issue = 2
+| last = Macnaughtan
+| first = Don
+| title = Remembering the Rhinoceros: The Coquille Indian Tribe Establish a New Tribal Library on the Central Oregon Coast. 
+| access-date = 2018-05-31
+| date = 1995
+| url = https://waikowhai3.wordpress.com/remembering-the-rhinoceros/
+}}</ref> Laura Hodgkiss Metcalf, who died in 1961, was the last functional speaker (her mother was Miluk), and was an informant to [[Morris Swadesh]] for his Penutian Vocabulary Survey.
+
+==Phonology==
+
+The consonant inventory of Miluk can be tabulated as follows, based on Doty (2012):<ref name=Doty>
+{{cite web
+  | url = http://www.csdoty.com/resources/Doty-Dissertation.pdf
+  | last = Doty
+  | first = Christopher S
+  | title = A Reassessment of the Genetic Classification of Miluk Coos
+  | date = June 2012
+  | url-status = dead
+  |archive-url = https://web.archive.org/web/20140202121115/http://www.csdoty.com/resources/Doty-Dissertation.pdf
+  | archive-date = February 2, 2014
+  | access-date = March 26, 2018
+}}</ref>
+
+{| class="wikitable IPA" style=text-align:center
+|-
+! colspan=2 rowspan=2| !! rowspan=2|[[Bilabial consonant|Bilabial]] !! colspan=3|[[Alveolar consonant|Alveolar]] !! rowspan=2|[[Alveolo-palatal consonant|Alveo-<br />palatal]] !! colspan=2| [[Velar consonant|Velar]] !! colspan=2|[[Uvular consonant|Uvular]] !! colspan=2|[[Glottal consonant|Glottal]]
+|-
+!<small>plain</small>
+! [[Sibilant|<small>sibilant</small>]]
+! [[Lateral consonant|<small>lateral</small>]]
+! <small>plain</small>
+! [[Labialization|<small>labialized</small>]]
+! <small>plain</small>
+! [[Labialization|<small>labialized</small>]]
+! <small>plain</small>
+! [[Labialization|<small>labialized</small>]]
+|-
+! rowspan=2| [[Plosive]]/<br>[[Affricate]]
+! <small>plain</small>
+|| {{IPAlink|p}} || {{IPAlink|t}} || {{IPAlink|t͜s}} || {{IPAlink|t͜ɬ}} || {{IPAlink|t͜ʃ}} || {{IPAlink|k}} || {{IPA|kʷ}} || {{IPAlink|q}} || {{IPA|qʷ}} || {{IPAlink|ʔ}} ||
+|-
+! [[ejective consonant|<small>ejective</small>]]
+|| {{IPAlink|pʼ}} || {{IPAlink|tʼ}} || {{IPAlink|t͜sʼ}} || {{IPAlink|t͜ɬʼ}} || {{IPAlink|t͜ʃʼ}} || {{IPAlink|kʼ}} || {{IPA|kʼʷ}} || {{IPAlink|qʼ}} || {{IPA|qʷʼ}} || 
+|
+|-
+! rowspan=2| [[Fricative]]
+! [[Voicelessness|<small>voiceless</small>]]
+|| || || {{IPAlink|s}} || {{IPAlink|ɬ}} || {{IPAlink|ʃ}} || {{IPAlink|x}} || {{IPAlink|xʷ}} || {{IPAlink|χ}} || {{IPA|χʷ}} ||  {{IPAlink|h}} (?) || {{IPA|hʷ}} (?)
+|-
+! [[Voice (phonetics)|<small>voiced</small>]]
+|| || || || || || || || {{IPAlink|ɣ}} || || ||
+|-
+! rowspan=2| [[Sonorant]]
+! <small>plain</small>
+|| {{IPAlink|m}} || {{IPAlink|n}} || || {{IPAlink|l}} || {{IPAlink|j}} || || {{IPAlink|w}} || || || ||
+|-
+! [[Glottalic consonant|<small>glottalized</small>]]
+|| {{IPA|mˀ}} || {{IPA|nˀ}} || || {{IPA|lˀ}} || {{IPA|jˀ}} || || {{IPA|wˀ}} || || || ||
+|}
+
+Stops are [[tenuis consonant|tenuis]] in syllable onsets before a vowel, and aspirated in syllable codas and before another consonant.  It is not clear if {{IPA|[h]}} and {{IPA|[hʷ]}} are phonemic; they may be allophones of {{IPA|/x/}} and {{IPA|/xʷ/}}.<ref name=Doty/>
+
+The vowels in Miluk are {{IPA|/i, u, ə, ɛ, ɑ/}}.
+
+Vowel harmony occurs in Miluk, although sporadic. The most common occurrence of vowel harmony in Miluk is the harmonization of {{IPA|/ɛ/}} in roots with {{IPA|/ɑ/}} in suffixes.<ref name=Doty/>
+
+===Morphology===
+In Miluk, the possessive noun phrase precedes what is possessed.  The possessed noun takes no article but instead is marked with the oblique [tə]. Miluk has an inclusive and exclusive distinction when it comes to the dual possessive. In the first person dual inclusive, the words receive the circumfix s=nə-, while the first person dual exclusive receives the prefix nə-.<ref name=Doty/>
+
+There are two articles in Miluk, kʷə and ʎə. ʎə is used with nouns that are closer to the speaker, while kʷə is used for nouns which are more distant. These articles do not reflect a gender of a noun and both articles have been found in use for the same noun in discourse.<ref name=Doty/>
+Verbs have intransitive, imperfect, and perfect marker. Verbs which are intransitive take the -u suffix, while the imperfect tense takes the -ʔi suffix and the perfect tense takes the -t suffix.<ref name=Doty/>
+
+===Gender, Number, Person===
+Miluk does not have a masculine/feminine gender distinction, but it does have reflexives of an old gender system. The language reflects this old system in two instances: with a suffix that follows articles (-č) and in lexical items for male and female people throughout life.<ref name=Doty/> The suffix -č has been seen to be optional but occurs in three instances: (i) following a feminine noun, (ii) referring to a young person, and (the most common) (iii) referring to elders.<ref name=Doty/> The second place where Miluk holds on to an older gender system is when referring to males or females. Words for males often begin with /t/, while the female words often begin with /hu/ and /w/.<ref name=Doty/>
+
+Miluk has no third person arguments.<ref name=Doty/> Presentational fronting occurs whenever a new argument is introduced.<ref name=Doty/>
+
+The table below shows pronominal prefixes.
+
+{| class="wikitable"
+|-
+!  !!Singular !! Dual !! Plural
+|-
+! 1
+| w(ə)- || s- (inc) / nə- (excl)   || ɬ-
+|-
+! 2
+| nə- || is-  || čil- 
+|-
+! 3
+| Ø || ič-  || iɬ-
+|}<ref name=Doty/>
+
+====Space, Time, Modality====
+There are two morphemes which can be added to a verb to mark tense. The morpheme ''han'' indicates the prospective tense, which describes that an event is going to occur.<ref name=Doty/> The other morpheme that can be added to a verb is ''hanƛ'', which marks the future tense. The future tense is distinguished from the prospective tense and has appeared irrealis marker a  ̆x. The order in which the morphemes appear are the pronominal clitics, followed by mood, tense and then aspect.<ref name=Doty/>
+
+In the following examples, "han" indicates that an event is going to occur.<ref name=Doty/>
+
+{{interlinear|lang=iml|indent=3|glossing3=yes|italics2=yes
+|Tsú han t’ámi tɬə də- t’ím
+|Cu han t’aami ʎə tə- t’im
+|NR PRSP carry ART 3SG.POS Pack
+|"Now  she was going to pack her load"<ref name=Doty/>}}
+
+{{interlinear|lang=iml|indent=3|glossing3=yes|italics2=yes
+|Tsú han áyu ġɛlts
+|Cu han aayu qelc
+|NR PRSP indeed cross
+|"And then she was going to cross on it indeed"<ref name=Doty/>}}
+
+====Case====
+Miluk has an [[ergative–absolutive]] distinction.<ref name=Doty/>
+
+The suffix ''-x'' denotes the ergative case in Miluk.
+
+In the following examples, the ergative argument comes before the absolutive argument.
+
+{{interlinear|lang=iml|indent=3
+|áyu ás-d-a tłə-x hú'mik' tłə də-dím sin
+|indeed decorate-T-30{{clarify|date=March 2014}} ART-ERG old.woman art 3SG-POSS grandson
+|"Indeed the old woman decorated her grandson."<ref name=Doty/>}}
+
+Miluk allows for the opposite to occur, as we see the absolutive argument precede the ergative argument.
+
+{{interlinear|lang=iml|indent=3
+|gasíya du galam tłə máqt'ł tłə-x gwɛis
+|almost HAB grab ART crow ART-ERG girl
+|"The girl almost caught the crow."}}
+
+====Predicates & Arguments====
+
+Similar to Salish languages, Miluk predicates have a tendency to be clause initial.<ref name=Doty/> Arguments are expressed with noun phrases and often the arguments follow the verb.<ref name=Doty/>
+Absolutive and ergative arguments can be interchangeable.<ref name=Doty/>
+
+The following example shows the ergative argument before the absolutive argument.
+
+{{interlinear|lang=iml|indent=3
+|áyu ás-d-a tłə-x hú'mik' tłə də-dím sin
+|indeed decorate-T-3.OBJ ART-ERG old.woman ART 3SG-POSS grandson
+|"Indeed the old woman decorated her grandson."<ref name=Doty/>}}
+
+However, in the next example, the absolutive argument precedes the ergative argument.
+
+{{interlinear|lang=iml|indent=3|glossing3=yes|italics2=yes
+|Tsú wɛn ilduwa tɬə dí hímɛ tɬɛ -x t’smíxwən
+|Cu wen illtwa ʎə tə- hiime ʎə -x c’miixwən
+|NR thus say ART 3SG.POS children ART ERG trickster
+|"Then this is what the trickster told his children"}}
+
+====Obliques====
+The morpheme tə marks an oblique or possessive, which occurs throughout the Salish language family. The following two example reveals -tə acting as the oblique marker.
+
+{{interlinear|lang=iml|indent=3|glossing3=yes|italics2=yes
+|Tsú k’wɛn  wus- ú’s -u tɬə də- ‘úmnatt’ɬ -ədja
+|cu k’ween wus- wus -u ʎə te- umnaaʎ -əča
+|now news REDUP go.home NTR.PERF ART 3SG.POS grandmother LOC
+|"He returned with news to his grandmother"}}
+
+{{interlinear|lang=iml|indent=3|glossing3=yes|italics2=yes
+|tsú má gɛ’ yáhwi  tɬə də yɛis -ədja
+|cu ma qee yahwi ʎə te yeis -əča
+|now CONT there rub ART 3SG.POS mouth LOC
+|"And he kept rubbing it on her mouth"}}
+
+====Complements====
+Arguments are often fronted in Miluk and uses presentational construction.<ref name=Doty/> This is used while telling stories, to bring attention to the subject of the story.<ref name=Doty/> The following examples are of the presentational construction, with the presented construction bolded.
+
+{{interlinear|lang=iml|indent=3|glossing3=yes|italics2=yes
+|'''gwɛis'''  gus mín du kwí alam yúgwa
+|'''kweis''' kuus min tu kwi alam yugwa
+|girl all time HAB EST myrtle.nut gather
+|"There was a girl who was always picking myrtle nuts"}}
+
+{{interlinear|lang=iml|indent=3|glossing3=yes|italics2=yes
+|'''Tit’sɛwəs''' tsú ha dlúqws -əm
+|'''Tic’eewəs''' '''cu''' ha ʎuqws -əm
+|Young.girl now REC.PERF get.up NTR
+|"A girl who had just passed her first menses had just now arisen."}}
+
+====Endangerment====
+The Miluk dialect of the Coosan language is now extinct. The last speakers were two sisters, Lolly Hotchkiss and Daisy Wasson Codding. The two worked with a linguist in 1953 to record words from the language but the two were not fluent in adulthood, and had trouble remembering words.<ref name="PW_MLG"/> The last fluent speaker was Annie Miner Peterson, who knew both the Miluk and Hanis dialect.<ref name="PW_MLG"/> Annie Peterson's first language was Miluk, and in 1930, Annie Miner Peterson began working with Melville Jacobs and the two produced two volumes of texts in both dialects of Coos.<ref name="PW_MLG"/> ''Coos Narrative and Ethnographic Texts'' and ''Coos Myth Texts'' were the two publications were published, but the two publications did not have any linguistic analysis. The books only provided English translations to the texts.<ref name="Doty"/>
+
+==References==
+{{Reflist}}
+*Wurm, Mühlhäusler, & Tryon, 1996. ''Atlas of languages of intercultural communication in the Pacific, Asia and the Americas'', p.&nbsp;1148.
+
+==Bibliography==
+* [[Melville Jacobs|Jacobs, Melville]]. (1939). ''Coos narrative and ethnologic texts''. University of Washington publications in anthropology (Vol. 8, No. 1). Seattle, WA: University of Washington.
+* Jacobs, Melville. (1940). ''Coos myth texts''. University of Washington publications in anthropology (Vol. 8, No. 2). Seattle, WA: University of Washington.
+* Anderson, Troy. (1990). ''Miluk Dictionary''. Stanford Library. Green Library Stacks. PM961 .A53 1990
+
+== External links ==
+
+*{{cite web
+  | url = http://ctclusi.org/sites/default/files/Milluk%20Language%20%28Secure%29-1.pdf
+  | last = Whereat
+  | first = Patty
+  | title = The Milluk Language - Ghaala
+  | date = June 2001
+  | url-status = dead
+  | archive-url = https://web.archive.org/web/20140407122130/https://ctclusi.org/sites/default/files/Milluk%20Language%20(Secure)-1.pdf
+  | archive-date = April 7, 2014
+  | access-date = March 26, 2018
+}}
+*{{Cite web
+| title = Shichils's Blog - Fun with Hanis (and a little Milluk & Siuslaw too)
+| access-date = 2014-04-05
+| url = http://shichils.wordpress.com/
+}}
+*{{Cite web
+| title = Tsunami Story - Milluk
+| work = Coquille Indian Tribe
+| access-date = 2014-04-06
+| url = http://www.miluk.org/Milluk/results/tsunami-story
+}}
+
+{{Languages of Oregon}}
+
+[[Category:Coosan languages]]
+[[Category:Languages extinct in the 20th century]]
+[[Category:20th-century disestablishments in Oregon]]

@@ -1,0 +1,349 @@
+{{Short description|Polynesian language}}
+{{More footnotes|article|date=July 2007}}
+{{Infobox language
+|name=Niuean
+|nativename=''ko e vagahau Niuē''
+|states=[[Niue]], [[Cook Islands]], [[New Zealand]], [[Tonga]]
+|speakers={{sigfig|2,027|2}} in Niue
+|date=1998
+|ref=e15
+|speakers2={{sigfig|5737|2}} elsewhere (no date)<ref name=e15/><!--main undated figure unchanged since then-->
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Polynesian languages|Polynesian]]
+|fam5=[[Tongic languages|Tongic]] 
+|nation={{NIU}}
+|iso2=niu
+|iso3=niu
+|glotto=niue1239
+|glottorefname=Niuean
+|notice=IPA
+}}
+
+'''Niuean''' ({{IPAc-en|nj|u|ˈ|eɪ|ə|n}};<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> {{lang|niu|ko e vagahau Niuē}}) is a [[Polynesian languages|Polynesian]] language, belonging to the [[Malayo-Polynesian languages|Malayo-Polynesian subgroup]] of the [[Austronesian languages]]. It is most closely related to [[Tongan language|Tongan]] and slightly more distantly to other Polynesian languages such as [[Māori language|Māori]], [[Samoan language|Samoan]], and [[Hawaiian language|Hawaiian]]. Together, Tongan and Niuean form the [[Tongic languages|Tongic]] subgroup of the Polynesian languages. Niuean also has a number of influences from Samoan and Eastern Polynesian languages.
+
+== Speakers ==
+Niuean was spoken by 1600 people on [[Niue]] Island (97.4% of the inhabitants) in 1991, as well as by speakers in the [[Cook Islands]], [[New Zealand]], and [[Tonga]], for a total of around 8,000 speakers. There are thus more speakers of Niuean outside the island itself than on the island. Most inhabitants of Niue are bilingual in [[English language|English]].
+
+In the early 1990s 70% of the speakers of Niuean lived in New Zealand.<ref>Moseley, Christopher and R. E. Asher, ed. ''Atlas Of The World's Languages'' (New York: Routelage, 1994) p. 100</ref>
+
+== Dialects ==
+Niuean consists of two main dialects, the older '''Motu''' dialect from the north of the island and the '''Tafiti''' dialect of the south. The words mean, respectively, ''the people of the island'' and ''the strangers'' (or ''people from a distance'').
+
+The differences between the dialects are mainly in vocabulary or in the form of some words.
+
+Examples of differences in vocabulary are '''volu''' (Tafiti) vs '''matā''' (Motu) for ''scrape, scraper'' and '''lala''' (Tafiti) vs '''kautoga''' (Motu) for ''guava (plant)''; examples of differences in form include '''hafule''' (T) / '''afule''' (M), '''aloka'''/'''haloka''', '''nai'''/'''nei''', '''ikiiki'''/'''likiliki''', and '''malona'''/'''maona'''.
+
+== Phonology ==
+{| class="wikitable" style="text-align:center;"
+!
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Plosive]]
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|k}}
+|
+|-
+! [[Fricative]]
+| {{IPA link|f}} &nbsp; {{IPA link|v}}
+| ({{IPA link|s}})
+| 
+|{{IPA link|h}}
+|-
+! [[Nasal stop|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ŋ}}
+|
+|-
+! [[Liquid consonant|Liquid]]
+|
+|{{IPA link|l}} ({{IPA link|r}})
+|
+|
+|}
+
+{{IPAblink|s}} is an allophone of {{IPA|/t/}} before front vowels (both long and short {{IPA|/i/}} and {{IPA|/e/}}; this most likely arose from the affrication of {{IPA|/t/}} to {{IPAblink|ts}} before these vowels and subsequent change of {{IPA|[ts]}} to {{IPA|[s]}}.  While older foreign borrowings (such as ''tī'' from English ''tea'') underwent this change along with (or perhaps by analogy with) native words, words borrowed into Niuean after this development retain the original {{IPA|[t]}} (for example, ''telefoni'' and ''tikulī'' from ''telephone'' and ''degree'').
+
+{{IPA|/r/}} and {{IPA|/s/}} are marginal phonemes, only appearing in foreign borrowings.  Some speakers substitute {{IPA|[l]}} and {{IPA|[t]}}, respectively.
+
+=== Vowels ===
+
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" |  &nbsp; !! colspan="2" | [[Front vowel|front]]!! colspan="2" | [[Central vowel|central]]!! colspan="2" | [[Back vowel|back]]
+|-
+! {{small|short}} || {{small|long}}
+! {{small|short}} || {{small|long}}
+! {{small|short}} || {{small|long}}
+|-
+! [[High vowel|high]]
+| {{IPA link|i}} || {{IPA link|iː}} ||  ||  || {{IPA link|u}} || {{IPA link|uː}}
+|-
+! [[Mid vowel|mid]]
+| {{IPA link|e}} || {{IPA link|eː}} ||  ||  || {{IPA link|o}} || {{IPA link|oː}}
+|-
+! [[Low vowel|low]]
+|  ||  || {{IPA link|a}} || {{IPA link|aː}} ||  ||
+|-
+|}
+
+[[Vowel length]] is distinctive in Niuean; vowels are either long or short. Furthermore, two adjacent identical vowels (whether short-short, short-long, long-short, or long-long) form a ''[[#Rearticulation|rearticulated vowel]]''; the sound is distinct from one long vowel.
+
+Both short and long vowels can occur in any position.
+
+All short vowels may combine with one another to form diphthongs. The possible diphthongs are:
+
+*{{IPA|/ae/ /ai/ /ao/ /au/}}
+*{{IPA|/ea/ /ei/ /eo/ /eu/}}
+*{{IPA|/ia/ /ie/ /io/ /iu/}}
+*{{IPA|/oa/ /oe/ /oi/ /ou/}}
+*{{IPA|/ua/ /ue/ /ui/ /uo/}}
+
+=== Hiatus ===
+'''[[Hiatus (linguistics)|Hiatus]]''' is the separate pronunciation of two adjacent vowels, as opposed to [[diphthong]]s, which are written as two letters but pronounced as one sound. These two vowels may be the same or be different ones.
+
+Hiatus typically occurs across [[morpheme]] boundaries, such as when a suffix ending with a vowel comes before a root beginning with that same vowel. It may also occur, rarely, within monomorphemic words (words that consist of only one morpheme) as a result of the elision of a historical intervocalic consonant.
+
+Two adjacent identical short vowels are always pronounced separately, as are combinations of any two long vowels or a short and a long vowel; two adjacent different short vowels may undergo hiatus or form a diphthong. This must be determined from the morphology or [[etymology]] of the word.
+
+=== Syllable structure ===
+The basic structure of a Niuean syllable is (C)V(V); all syllables end in a vowel or diphthong, and may start with at most one consonant. Consonant clusters in borrowed words are broken up with [[epenthesis|epenthetic vowels]], e.g. English ''tractor'' becomes {{lang|niu|tuleketā}}.
+
+=== Stress ===
+The stress on a Niuean word is nearly always on the penult (second-to-last syllable), though multi-syllable words ending in a long vowel put primary stress on the final long vowel and secondary stress on the penult. Long vowels in other positions also attract a secondary stress.
+
+=== Glottal stop ===
+The Niuean language does not contain the [[glottal stop]], which is present in its closest relative, [[Tongan language|Tongan]]. This has caused some distinct words to merge. For example, Tongan {{lang|to|ta{{okina}}u}} (''year'') and {{lang|to|tau}} (''fight'') have merged in Niuean as {{lang|niu|tau}}.
+
+== Orthography ==
+Niuean [[orthography]] is largely phonemic; that is, one letter stands for one sound and ''vice versa''.
+
+=== Alphabet ===
+The traditional alphabet order, given with the traditional names of the letters, is '''ā, ē, ī, ō, ū, fā, gā, hā, kā, lā, mō, nū, pī, tī, vī, rō, sā'''. Note that '''rō''' and '''sā''' as introduced letters are ordered at the end.
+
+Sperlich (1997) uses an alphabetical order based on English for his dictionary: '''a, ā, e, ē, f, g, h, i, ī, k, l, m, n, o, ō, p, s, t, u, ū, v''' ('''r''' is left out since no words start with this letter). He recommends that consonants be named consistently with a following ā: '''fā, gā, hā, kā, lā, mā, nā, pā, tā, vā, rā, sā'''.
+
+Vowel length can be marked with a [[Macron (diacritic)|macron]]; however, this is not always done.
+
+=== History ===
+As with many languages, writing was brought to Niue in connection with religion, in this case with [[Christianity]] by missionaries educated in [[Samoa]]. This has led to some Samoan influences in morphology and grammar and also to a noticeable one in spelling: as in Samoan, the sound {{IPA|/ŋ/}} ([[Help:IPA]]) is written '''g''', rather than '''ng''' as in Tongan and some other Polynesian languages with this sound. (McEwen (1970) uses '''ng''' in his dictionary; however, this feature of his spelling was not popular, particularly since it conflicted with the spelling used in the Niuean Bible.)
+
+== Grammar ==
+=== Typology ===
+Niuean can be considered a [[verb–subject–object|VSO]] language; however, one analysis of Niuean uses [[ergative case|ergative]] terminology, in which case it may be better to speak of verb–agent–patient word order.
+
+Because the unmarked case is the absolutive, Niuean transitive verb constructions often appear passive in a literal translation.
+
+Compare
+
+: '''{{lang|niu|Kua kitia e ia e kalahimu.}}'''
+{{interlinear|indent=3
+| Kua kitia e ia e kalahimu
+| TAM see ERG he ART crab
+| "The crab was seen by him."}}
+
+and
+
+: '''{{lang|niu|Kua kitia e kalahimu}}'''
+{{interlinear|indent=3
+| Kua kitia e kalahimu
+| TAM see ART crab
+| "The crab was seen."}}
+
+The first example sentence could also be translated into English as the nominative–accusative construction "He saw the crab".
+
+=== Pronouns ===
+Niuean [[pronoun]]s are differentiated by [[grammatical person|person]] and [[grammatical number|number]]. Furthermore, first person non-[[Grammatical number|singular]] ([[dual grammatical number|dual]] and [[plural]]) pronouns distinguish '''inclusive''' and '''exclusive''' forms, including and excluding the listener, respectively. However, they are not differentiated by [[grammatical gender|gender]] or [[declension|case]]; for example, '''ia''' means both ''he'' and ''she'', ''him'' and ''her'' (inanimates ['it'] are not usually pronominalised).
+
+{| class="wikitable"
+|+ pronouns
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! inclusive
+| rowspan="2" | au
+| taua
+| tautolu
+|-
+! exclusive
+| maua
+| mautolu
+|-
+! colspan="2" | 2nd person
+| koe
+| mua
+| mutolu
+|-
+! colspan="2" | 3rd person
+| ia
+| laua
+| lautolu
+|}
+
+Note that the endings of the dual and plural forms resemble the numbers 2 and 3, '''ua''' and '''tolu'''.
+
+=== Numbers ===
+Some numbers in Niuean are:
+
+{| class="wikitable"
+!1
+|taha
+!10
+|hogofulu
+!100
+|taha e teau
+!1000
+|taha e afe
+|-
+!2
+|ua
+!20
+|uafulu
+!200
+|ua (e) teau
+!2000
+|ua (e) afe
+|-
+!3
+|tolu
+!30
+|tolugofulu
+!300
+|tolu (e) teau
+!3000
+|tolu (e) afe
+|-
+!4
+|fa*
+!40
+|fagofulu
+!etc.
+|etc.
+!etc.
+|etc.
+|-
+!5
+|lima
+!50
+|limagofulu
+|-
+!6
+|ono
+!etc.
+|etc.
+|-
+!7
+|fitu
+|-
+!8
+|valu
+|-
+!9
+|hiva
+|}
+
+(*Note: Both McEwen (1970) and Sperlich (1997) give '''fā''' for four; however, Kaulima & Beaumont (1994) give '''fa''' with a short vowel.)
+
+Tens and ones combine with '''ma''', e.g. '''hogofulu ma taha''', 11; '''tolugofulu ma ono''', 36.
+
+The numbers from one to nine (and occasionally higher numbers) can take the prefix '''toko-''' when used to count persons; for example, '''tokolima''' ''five (for people)''.
+
+Numbers are used as verbs, for example:
+
+: '''{{lang|niu|Ne taha e fufua moa i loto he kato.}}'''
+{{interlinear|indent=3
+| Ne taha e fufua moa i loto he kato
+| PST one ART egg chicken LOC inside GEN basket
+| "There was one egg in the basket."; literally, "Was one an egg inside the basket."}}
+
+or
+
+: '''{{lang|niu|Tolu e tama fuata ne oatu ke takafaga.}}'''
+{{interlinear|indent=3
+| Tolu e tama fuata ne oatu ke takafaga
+| three ART child youth REL go {{gcl|GOAL|goal}} hunt
+| "Three young men went out hunting."; literally, "Three (were) the young men who went out to hunt."}}
+
+or
+
+: '''{{lang|niu|Ko e tau maaga ne fa.}}'''
+{{interlinear|indent=3
+| Ko e tau maaga ne fa
+| PRED ART PL village REL four
+| "There were (are) four villages."; literally, "Were the villages, which were four."}}
+
+=== Morphology ===
+[[Morphology (linguistics)|Morphology]] comprises the ways in which words are built up from smaller, meaningful sub-units, or how words change their form in certain circumstances.
+
+==== Suppletion ====
+'''Suppletion''' concerns closely related words (often singular and plural forms of nouns or verbs) which are based on very different forms, for example '''fano''' ''to go'' (used with a singular subject) and '''ō''' ''to go'' (used with a plural subject). This can be compared to English ''go'' and ''went'', which are forms of the same verb yet differ in form.
+
+==== Reduplication ====
+[[Reduplication]] is frequently used in Niuean morphology to derive different nouns. Reduplication is the process of taking the entire morpheme, or sometimes only the first or last syllable or two, and repeating it.
+
+This is used for several purposes, including:
+
+*forming a "plural" verb from a "singular" one (that is, a verb form used when the subject is plural, as opposed to the form used when the subject is singular)
+*forming a "[[frequentative]]" form of a verb (an action that is carried out several times)
+
+An example of a whole-morpheme reduplication indicating a plural verb is '''molemole''' ''to have passed by, to be gone'' from '''mole''' ''to have passed by, to be gone''; an example of a whole-morpheme reduplication indicating a frequentative verb is '''molomolo''' ''to keep squeezing'' from '''molo''' ''to squeeze, to compress''.
+
+Examples of part-morpheme reduplication are '''gagau''' ''to bite'' from '''gau''' ''to chew'' (first part of the syllable reduplicated), '''gegele''' ''to make a crying sound'' from '''gele''' ''to start to cry (of babies'') (first syllable reduplicated), and '''molūlū''' ''to be very soft, to be very weak'' from '''molū''' ''to be soft, to be weak'' (last syllable reduplicated).
+
+Reduplication is also frequently employed together with [[#Affixes|affixes]].
+
+==== Affixes ====
+[[Affix]]es ([[Prefix (linguistics)|prefix]]es and [[suffix]]es) are frequently used for a variety of purposes; there is also one [[circumfix]], '''fe-&nbsp;-aki''' (sometimes '''fe-&nbsp;-naki''' or '''fe-&nbsp;-taki'''), which is used to form reciprocal verbs ("to ... one another").
+
+A common suffix is '''-aga''', which is a nominaliser: it forms nouns from verbs.
+
+A common prefix with '''faka-''', with a variety of meanings, the most common being a causative one (e.g. '''ako''' ''to learn'', '''fakaako''' ''to teach'').
+
+Words may also have more than one prefix or suffix, as '''fakamalipilipi''' ''to break'' (used with a plural object), from '''faka-''', '''ma-''', and a [[#Reduplication|reduplicated]] '''lipi''' ''to break''.
+
+==== Compound words ====
+Many words are simply formed by joining together other words, for example '''vakalele''' ''aeroplane'' from '''vaka''' ''canoe'' and '''lele''' ''fly'' (i.e. literally, ''flying canoe''). [[Diane Massam]] has extensively studied a special type of compounding which she has termed pseudo noun incorporation, a type of [[noun incorporation]].
+
+==Notes==
+{{reflist}}
+
+== References ==
+{{refbegin}}
+*Kaulima, Aiao & Beaumont, Clive H. (1994). ''A First Book for Learning Niuean''. Auckland, New Zealand: Beaumont and Kaulima. {{ISBN|0-9583383-0-2}}.
+*Kaulima, Aiao & Beaumont, Clive H. (2000). ''Learning Niuean, Book 2. Tohi Ako Vagahau Niue''. Auckland, New Zealand: Beaumont and Kaulima. {{ISBN|0-9583383-9-6}}.
+*McEwen, J. M. (1970). ''Niue Dictionary''. Wellington, New Zealand: Department of Maori and Island Affairs. No ISBN.
+*Seiter, William J. (1980). ''Studies in Niuean Syntax''. New York & London: Garland Publishing, Inc. {{ISBN|0-8240-4560-2}}.
+*Sperlich, Wolfgang B. (1997). ''Tohi vagahai Niue - Niue language dictionary: Niuean–English, with English–Niuean finderlist''. Honolulu, Hawai'i: University of Hawai'i Press. {{ISBN|0-8248-1933-0}}.
+*Tregear, Edward & Smith, S. Percy (1907). ''A Vocabulary and Grammar of the Niue Dialect of the Polynesian Language''. Wellington: Government Printer.
+*Anon. et al. (2003). ''Ko e Tohi Tapu | The Holy Bible in Niue''. Suva, Fiji: The Bible Society in the South Pacific. {{ISBN|0-564-00077-9}}.
+{{refend}}
+
+== External links ==
+{{Incubator|code= niu}}
+{{Wikivoyage|Niuean phrasebook|Niuean|a phrasebook}}
+{{refbegin}}
+*[https://web.archive.org/web/20100513224942/http://learnniue.com/ Learn to speak Niue - Vagahau Niue - the Niuean Language. www.learnniue.com is a teaching resource for everyone one wishes to learn the Niuean Language. www.learnniue.com incorporates graded units and online audio. www.learniue.com is a New Zealand Ministry of Pacific Island Affairs project.] 
+*[https://web.archive.org/web/20110520035807/http://language.psy.auckland.ac.nz/austronesian/language.php?id=00247 Niuean Basic Vocabulary List]
+*[http://akoniue.wordpress.com/ Daily Learning of the Niue Language]
+*[http://meta.wikimedia.org/wiki/Requests_for_new_languages/Wikipedia_Niuean Support Proposal for Wikipedia in Niuean Language]
+{{refend}}
+* Archive of [[hdl:10125/32783|index cards of plant and animal names in Niue]] at [[Kaipuleohone]]
+{{Languages of New Zealand}}
+{{Polynesian languages}}
+{{Austronesian languages}}
+{{Oceania topic|Languages of}}
+
+{{Authority control}}
+[[Category:Languages of New Zealand]]
+[[Category:Languages of Niue]]
+[[Category:Tongic languages]]
+[[Category:Verb–subject–object languages]]

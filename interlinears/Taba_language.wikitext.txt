@@ -1,0 +1,873 @@
+{{short description|Austronesian language spoken in North Maluku, Indonesia}}
+{{distinguish|West Makian language}}
+{{Infobox language
+|name=Taba
+|states=[[Indonesia]]
+|region=[[North Maluku]] province
+|speakers=20,000+
+|date=1983
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Central–Eastern Malayo-Polynesian languages|Central–Eastern Malayo-Polynesian]]
+|fam4=[[Eastern Malayo-Polynesian languages|Eastern Malayo-Polynesian]]
+|fam5=[[South Halmahera–West New Guinea languages|South Halmahera–West New Guinea]]
+|fam6=[[Halmahera Sea languages|Halmahera Sea]]
+|fam7=[[South Halmahera languages|South Halmahera]]
+|fam8=Taba–Gane
+|iso3=mky
+|glotto=east2440
+|glottorefname=East Makian
+}}
+
+'''Taba''' (also known as '''East Makian''' or '''Makian Dalam''') is a [[Malayo-Polynesian language]] of the [[South Halmahera–West New Guinea languages|South Halmahera–West New Guinea]] group. It is spoken mostly on the islands of [[Makian]], [[Kayoa]] and southern [[Halmahera]] in [[North Maluku]] province of [[Indonesia]] by about 20,000 people.<ref>[http://www.ethnologue.com/show_language.asp?code=mky Ethnologue: Makian, East]</ref>
+
+==Dialects==
+There are minor differences in dialect between all of the villages on Makian island in which Taba is spoken. Most differences affect only a few words. One of the most widespread reflexes is the use of /o/ in Waikyon and Waigitang, where in other villages /a/ is retained from Proto-South Halmaheran.<ref name=":0">Bowden 2001, p. 190</ref>
+
+==Geographic distribution==
+As of 2005, Ethnologue lists Taba as having a speaking population of approximately 20,000, however, it has been argued by linguists that this number could in reality be anywhere between 20,000 and 50,000.<ref>[http://www.ethnologue.com/show_language.asp?code=mky Ethnologue: Makian, East]</ref> The language is predominantly spoken on Eastern Makian island, although it is also found on Southern Mori island, Kayoa islands, Bacan and Obi island and along the west coast of south Halmahera. There has also been continued migration of speakers to other areas of North Maluku due to frequent volcanic eruptions on Makian island.<ref>Bowden 2001, p. 5</ref> The island itself is home to two languages: Taba, which is spoken on the eastern side of the island, and a [[Papuan language]] spoken on the western side, known alternatively as [[West Makian language|West Makian]] or Makian Luar (outer Makian); in Taba, this language is known as ''Taba Lik'' ("Outer Taba"), while its native speakers know it as ''Moi''.
+
+==Speech levels==
+Taba is divided into three different levels of speech: ''alus'', ''biasa'' and ''kasar''.
+
+Alus, or ‘refined’ Taba is used in situations in which the speaker is addressing someone older or of greater [[Social status|status]] than the speaker themselves. <br />
+Biasa, or ‘ordinary’ Taba, is used in most general situations. <br />
+The Kasar, or ‘coarse’ form of Taba is used only rarely and generally in anger.
+
+==Phonology==
+Taba has fifteen indigenous consonant [[phoneme]]s, and four loan phonemes: {{IPA|/ʔ dʒ tʃ f/}}.  These are shown below:
+
+{| class="wikitable"
+|+ Consonants<ref>Bowden 2001, p. 26</ref>
+|-
+! !! [[Bilabial consonant|Bilabial]] !! [[Apico-alveolar consonant|Apico-alveolar]]
+! [[Lamino-palatal consonant|Lamino-palatal]]
+!  [[Dorso-velar consonant|Dorso-velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Stop consonant|Stop]]
+| align=center| {{IPA link|p}}&nbsp;&nbsp;{{IPA link|b}} || align=center| {{IPA link|t}}&nbsp;&nbsp;{{IPA link|d}} || || align=center|{{IPA link|k}}&nbsp;&nbsp;{{IPA link|ɡ}} || align=center|({{IPA link|ʔ}})
+|-
+! [[Nasal stop|Nasal]]
+| align=center| {{IPA link|m}} || align=center| {{IPA link|n}} ||  || align=center| {{IPA link|ŋ}}  ||   
+|-
+! [[Affricate consonant|Affricate]]
+|  ||  || align=center| ({{IPA link|tʃ}}&nbsp;&nbsp;{{IPA link|dʒ}}) ||  ||
+|-
+! [[Fricative consonant|Fricative]]
+|  align=center| ({{IPA link|f}})  || align=center| {{IPA link|s}} ||  || ||
+|-
+! [[Trill consonant|Trill]]
+|   ||  || align=center| {{IPA link|r}} || || 
+|-
+! [[Lateral consonant|Lateral]]
+|   ||  || align=center| {{IPA link|l}} || ||
+|-
+! [[Approximant consonant|Approximant]]
+|  align=center| {{IPA link|w}} ||  || align=center| {{IPA link|j}} || || align=center| {{IPA link|h}}
+|}
+
+[[Image:Taba vowel chart.svg|thumb|The vowel phonemes of Taba on a [[vowel chart]]]]
+Taba has five vowels, illustrated on the table below. The front and central vowels are [[Roundedness|unrounded]]; the back vowels are rounded.
+
+{| class="wikitable" style="text-align:center;"
+|+ Vowels<ref>Bowden 2001, p. 28</ref>
+|-
+! !! [[Front vowel|Front]] !! [[Central vowel|Central]] !! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}} &nbsp;&nbsp; {{IPA link|iː}}  ||  || {{IPA link|u}} &nbsp;&nbsp; {{IPA link|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}} &nbsp;&nbsp; {{IPA link|eː}} ||  || {{IPA link|o}} &nbsp;&nbsp; {{IPA link|oː}}
+|-
+! [[Open vowel|Open]]
+|  || {{IPA link|a}} &nbsp;&nbsp; {{IPA link|aː}} ||  
+|}
+
+==Grammar==
+
+===Word order===
+Taba is, predominantly, a [[head-marking language]] which adheres to a basic AVO [[word order]]. However, there is a reasonable degree of flexibility.<ref>Bowden 2001, p. 1</ref>
+
+{{interlinear|number=(1)
+|yak k{{=}}ha-lekat pakakas ne
+|1SG 1SG{{=}}CAUS-broken tool PROX
+|"I broke this tool."}}
+
+Taba has both prepositions and postpositions.
+
+===Pronouns===
+{| class="wikitable"
+|+ Independent Pronouns<ref>Bowden 2001, p. 188</ref>
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | yak
+| am
+|-
+! inclusive
+| tit
+|-
+! colspan="2" | 2nd person
+| au
+| meu
+|-
+! colspan="2" | 3rd person
+| i
+| si
+|}
+
+In Taba, pronouns constitute an independent, closed set. Syntactically, Taba pronouns can be used in any context where a full [[noun phrase]] is applicable. However, independent pronouns are only used in reference to [[animate]] entities, unless pronominal reference to inanimate [[Patient (grammar)|Patients]] is required in [[reflexive pronoun|reflexive clauses]].<ref name=":2">Bowden 2001, p. 190</ref> 
+
+As mentioned, independent pronouns are generally used for animate reference. However, there are two exceptions to this generalisation. In some circumstances an inanimate is considered a 'higher inanimate' which accords syntactic status similar to animates.<ref name=":2" /> This is represented as in English where inanimates such as cars or ships, for example, can be ascribed a gender. This is illustrated below in a response to the question 'Why did the ''Taba Jaya'' (name of a boat) stop coming to Makian?':<ref name=":2" />
+
+{{interlinear|glossing3=yes|number=(2)
+|Ttumo i te ndara
+|t{{=}}tum-o i te ndara
+|1PL.INCL{{=}}follow-APPL 3SG NEG too.much
+|'We didn't catch it enough.'}}
+
+The ''Taba Jaya'', a boat significant enough to be given a name, is accorded pronoun status similar to animates. The other exception occurs in reflexive clauses where a [[Pronominal|pronominal copy]] of a reflexive Patient is required, as shown below:<ref name=":2" />
+
+{{interlinear|glossing3=yes|number=(3)
+|Bonci ncayak i tadia
+|bonci n-say-ak i ta-dia
+|peanut 3SG-spread-APPL 3SG SIM-REM
+|'Peanut (leaves) spread out on itself like that.'}}
+
+Non-human animates and inanimates are always grammatically singular, regardless of how many referents are involved. In Taba, pronouns and noun phrases are marked by Person and Number.
+
+===Person===
+Taba distinguishes three Persons in the pronominal and cross-referencing systems.<ref name=":2" /> Person is marked on both pronouns and on cross-referencing [[Clitic|proclitics]] attached to verb phrases.<ref name=":1" /> The actor cross-referencing proclitics are outlined in the following table.<ref name=":3">Bowden 2001, p. 194</ref> In the first Person plural, a [[clusivity]] distinction is made, 'inclusive' (including the addressee) and 'exclusive' (excluding the addressee), as is common to most Austronesian languages.<ref name=":3" />
+
+{| class="wikitable"
+|+ Cross-referencing proclitics
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | k=
+| a=
+|-
+! inclusive
+| t=
+|-
+! colspan="2" | 2nd person
+| m=
+| h=
+|-
+! colspan="2" | 3rd person
+| n=
+| l=
+|}
+
+The following are examples of simple Actor [[intransitive]] clauses showing each of the proclitic prefixes.
+
+{| class="wikitable"
+|+ <ref name=":1" />
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | {{interlinear|glossing3=yes|yak kwom|yak k{{=}}wom|1SG 1SG{{=}}come|'I've come'}}
+| {{interlinear|glossing3=yes|Am awom|am a{{=}}wom|1PL.EXCL 1PL.EXCL{{=}}come|'We've come. (myself and one or more other people but not you)'}}
+|-
+! inclusive
+| {{interlinear|glossing3=yes|Tit twom|tit t{{=}}wom|1PL.INCL 1PL.INCL{{=}}come|'We've come. (You and I)'}}
+|-
+! colspan="2" | 2nd person
+| {{interlinear|glossing3=yes|Au mwom|au m{{=}}wom|2SG 2SG{{=}}come|'You've come. (you singular)'}}
+| {{interlinear|glossing3=yes|Meu hwom|meu h{{=}}wom|2PL 2PL{{=}}come|'You've come. (you plural)'}}
+|-
+! colspan="2" | 3rd person
+| {{interlinear|glossing3=yes|I nwom|i n{{=}}wom|3SG 3SG{{=}}come|'S/he's come.'}}
+| {{interlinear|glossing3=yes|Si lwom|si l{{=}}wom|3PL 3PL{{=}}come|'They've come.'}}
+|}
+
+The alternation between proclitic markers indicates Number, where in (3) ''k='' denotes the arrival of a singular Actor, while in (7) ''a='' indicates the arrival of first Person plural Actors, exclusionary of the addressee, and is replicated in the change of prefix in the additional examples.
+
+===Number===
+Number is marked on noun phrases and pronouns. Taba distinguishes grammatically between singular and plural categories, as shown in (3) to (9) above. Plural marking is obligatory for humans and is used for all noun phrases which refer to multiple individuals. Plurality is also used to indicate respect in the second and third Person when addressing or speaking of an individual who is older than the speaker.<ref name=":0" /> The rules for marking Number on noun phrases are summarised in the table below:<ref name=":0" />
+
+{| class="wikitable"
+! colspan="3" |Marking Number
+|-
+!
+!singular
+!plural
+|-
+! human
+|Used for one person when person is same age or younger than speaker.
+|Used for one person when person is older than speaker.<br>Used for more than one person in all contexts.
+|-
+! non-human animate
+|Used no matter how many referents
+|Not used
+|-
+! inanimate
+|Used no matter how many referents
+|Not used
+|}
+
+The [[Clitic|enclitic]] ''=si'' marks Number in noun phrases. ''=si'' below (10), indicates that there is more than one child playing on the beach and, in (11), the enclitic indicates that the noun phase ''mama lo baba'', translated as 'mother and father,' is plural.<ref name=":0" />
+
+{{interlinear|glossing3=yes|number=(11)
+|Wangsi lalawa lawe solo li
+|wang{{=}}si l{{=}}ha{{=}}lawa la-we solo li
+|child{{=}}PL 3pl{{=}}CAUS-play sea-ESS beach LOC
+|'The children are playing on the beach.'}}
+
+{{interlinear|glossing3=yes|number=(12)
+|Nim mama li babasi laoblak
+|nim mama lo baba{{=}}si l-ha{{=}}obal-k
+|2SG.POSS mother and father{{=}}PL 3PL{{=}}CAUS-call-APPL
+|'Your mother and father are calling you.'}}
+
+Plural Number is used as a marker of respect not only for second Person addressees, but for third Person referents as seen in (12).<ref name=":0" /> In Taba, it has been observed that many adults use [[Deixis|deictic]] shifts towards the perspective of addressee children regarding the use of plural markers. Example (13) is typical of an utterance of an older person than those they are referring to, indicative of respect that should be accorded to the referent by the addressee.<ref name=":0" />
+
+{{interlinear|glossing3=yes|number=(13)
+|Ksung Om Nur nidi um li
+|k{{=}}sung Om Nur nidi um li
+|1SG{{=}}enter Uncle Nur 3PL.POSS house LOC
+|'I went into Om Nur's house.'}}
+
+{{interlinear|glossing3=yes|number=(14)
+|Nim babasi e lo li e?
+|nim baba{{=}}si e lo li e
+|2SG.POSS father{{=}}PL FOC where LOC FOC
+|'Where is your father?'}}
+
+==== Pronominal affixes ====
+All Taba verbs having Actor arguments carry affixes which cross-reference the Number and Person of the Actor, examples of proclitics are shown above. In Taba, there are valence-changing affixes which deal with patterns of cross-referencing with three distinct patterns. The dominant pattern is used with all verbs having an Actor argument. The other two patterns are confined to a small number of verbs: one for the possessive verb, the other for a few verbs of excretion. This is discussed further in Possession below.
+
+===Possession===
+Taba does not, as such, have possessive pronouns. Rather, the possessor noun and the possessed entity are linked by a possessive ligature. The Taba ligatures are shown below:
+
+{| class="wikitable"
+|+ Possessive Particles<ref name=":1">Bowden 2001, p. 187</ref>
+|-
+! colspan="2" | 
+! Singular
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | nik
+| am
+|-
+! inclusive
+| nit
+|-
+! colspan="2" | 2nd person
+| nim
+| meu
+|-
+! colspan="2" | 3rd person
+| ni
+| nidi/di
+|}
+
+====Adnominal possession====
+Adnominal [[Possession (linguistics)|possession]] involves the introduction of an inflected possessive [[Grammatical particle|particle]] between the possessor and the possessed entity; this inflected possessive, formally categorised as a ‘ligature’, is cross-referenced with the number and person of the possessor. This ligature indicates a possessive relationship between a modifier noun and its head-noun. In Taba, adnominal possession is distinguished by reverse [[Genitive case|genitive]] ordering, in which the possessor noun precedes the noun referring to the possessed entity.<ref>Bowden 2001, p. 230</ref>
+
+In many contexts the possessor will not be overtly referenced.
+
+Example of reverse genitive ordering in Taba:
+
+{{interlinear|number=(15)
+|ni mtu
+|3SG.POSS child
+|"His/her child."}}
+
+====Obligatory possessive marking====
+In Taba, [[Alienability (grammar)|alienable]] and inalienable possession is not obligatorily marked by the use of different forms, though this is common in many related languages. However, there are a number of seemingly inalienable entities which cannot be referred to without referencing a possessor.<ref>Bowden 2001, p. 233</ref>
+
+For example:
+{{interlinear|number=(16)
+|meja ni wwe
+|table 3SG.POSS leg
+|"The leg (of the table)."}}
+
+====Verbal possession====
+Verbal possession in Taba is generally indicated through the attaching of the causative prefix ''ha''- to the adnominal possessive forms. The possessor then becomes actor of the clause, and the possessed entity becomes the undergoer.<ref>Bowden 2001, p. 197</ref>   This method of forming a possessive verb is very unusual, typologically, and is found in almost no other languages.<ref>Bowden 2001, p. 239</ref>
+
+{{interlinear|number=(17)
+|kabin da yak k{{=}}ha-nik
+|goat DIST 1SG 1SG{{=}}CAUS-1SG.POSS
+|"That goat, I own it."}}
+
+=== Negation ===
+Like other [[Central–Eastern Malayo-Polynesian languages|Central-Eastern Malayo-Polynesian]] languages spoken in the [[Maluku Islands]], Taba uses different particles to negate [[Declarative sentence|declarative]] and [[Imperative mood|imperative]] clauses;<ref>Florey 2010, p. 246</ref> declaratives are negated using ''te'', while imperatives are negated using ''oik.''<ref>Bowden 2001, p. 335</ref> In both cases the negative particles are clause-final, a placement which is posited to be the result of contact with non-Austronesian [[Papuan languages]].<ref>Florey 2010, p. 248; Reesink 2002, p. 246</ref>
+
+==== Negation of declaratives using ''te'' ====
+Declarative clauses are negated using the particle ''te'', which follows all other elements of the clause except for modal and aspectual particles (these are discussed below).<ref>Bowden 2001, pp. 335-336</ref> Examples (15a) and (15b) show negation of an Actor intransitive clause, while (16a) and (16b) give negation of a non-Actor bivalent clause (i.e. a clause with two Undergoer arguments); ''te'' has the same clause-final placement regardless of the clause structure.
+
+{{interlinear|glossing3=yes|number=(18a)
+|Nhan akla
+|n{{=}}han ak-la
+|3sg{{=}}go ALL-sea
+|'She's going seawards.' (Bowden 2001, p. 335)}}
+
+{{interlinear|glossing3=yes|number=(18b)
+|Nhan akla te
+|n{{=}}han ak-la te
+|3sg{{=}}go ALL-sea NEG
+|'She's not going seawards.' (Bowden 2001, p. 335)}}
+
+{{interlinear|glossing3=yes|number=(19a)
+|Nik calana kudak asfal
+|nik ak-lacalana kuda-k asfal
+|1sg.POSS trousers be.black-APPL bitumen
+|'My trousers are blackened with bitumen.' (Bowden 2001, p. 336)}}
+
+{{interlinear|glossing3=yes|number=(19b)
+|Nik calana kudak asfal te
+|nik ak-lacalana kuda-k asfal te
+|1sg.POSS trousers be.black-APPL bitumen NEG
+|'My trousers are not blackened with bitumen.' (Bowden 2001, p. 336)}}
+
+Negation of [[Complex sentence|complex sentences]] can be ambiguous — see example (17), where ''te'' can operate on either just the [[complement clause]] ''khan'' 'I'm going' or to the whole clause complex ''kalusa khan'' 'I said I'm going':<ref name=":02">Bowden 2001, p. 336</ref>
+
+{{interlinear|glossing3=yes|number=(20)
+|Kalusa khan te
+|k{{=}}ha-lusa k{{=}}han te
+|1sg{{=}}CAUS-say 1sg{{=}}go NEG
+|'I said I'm not going.' / 'I didn't say I'm going.' (Bowden 2001, p. 335)}}
+
+'''Negative existential clauses<ref name=":02" />'''
+
+''te'' can serve as the [[Predicate (grammar)#Predicators|predicator]] of a negative [[existential clause]], with no verb required. It can occur immediately following the noun phrase that refers to whatever is being asserted as non-existent, as in (18):
+
+{{interlinear|glossing3=yes|number=(21)
+|Nik dalawat te
+|nik dalawat te
+|1sg.POSS girlfriend NEG
+|'I don't have a girlfriend.' (Bowden 2001, p. 336)}}
+
+However, a [[discourse marker]] is generally interposed between the noun phrase and ''te''. This marker expresses something about how the non-existence of the noun phrase's [[referent]] relates to the discourse context, or alternatively indicates the speaker's attitude towards the proposition.<ref name=":02" /> In (19), the discourse marker ''mai'' (glossed as 'but') is used to indicate that the non-existence of tea, sugar and coffee in the household described by the speaker is counter to one's expectations that a normal household would have these items:
+
+{{interlinear|number=(22)
+|Te mai te; gula mai te; kofi mai te
+|tea but NEG sugar but NEG coffee but NEG
+|'There's no tea; there's no sugar; there's no coffee.' (Bowden 2001, p. 336)}}
+
+'''Complex negative modal / aspectual particles'''<ref>Bowden 2001, pp. 337-339</ref>
+
+Taba has three complex negative particles which, in addition to negation, express mood or aspect; these are formed by the modal and aspectual particles attaching onto ''te'' as [[Clitic|clitics]]. The three particles are ''tedo'' (realis negative), ''tehu'' (continuative negative), and ''tesu'' (potential negative).
+
+'''''tedo'' (realis negative)'''<ref>Bowden 2001, pp. 337-338</ref>
+
+''tedo'' is a compound of ''te'' and the [[realis mood]] marker ''do'', and expresses a more emphatic negation than plain ''te''. In (20), it is used to emphasize the absolute nature of the prohibition against making alcohol in the Muslim community of the speaker:
+
+{{interlinear|glossing3=yes|number=(23)
+|Mai ane lpeik saguer tedo.
+|mai a-ne l{{=}}pe-ik saguer te-do
+|but DEM-PROX 3pl{{=}}make-APPL palm.wine NEG-REAL
+|'But here they don't make palm wine with it anymore.' (Bowden 2001, p. 338)}}
+
+'''''tehu'' (continuative negative)'''<ref>Bowden 2001, p. 338</ref>
+
+''tehu'' is a compound of ''te'' and the [[Continuous and progressive aspects|continuous aspect]] marker hu, and can be roughly translated as 'not up to the relevant point in time': this may be either the time of utterance (i.e. 'not yet', 'still not'), or some other time relevant to the context of the utterance, as in (21). Unlike the potential negative ''tesu'', ''tehu'' does not express any expectations about the likelihood of the negated event or state occurring in the future.
+
+{{interlinear|glossing3=yes|number=(24)
+|Manganco ne dukon tehu
+|manganco ne dukon te-hu
+|long.time PROX eruption NEG-CONT
+|'For a long time there hadn't been an eruption.' (Bowden 2001, p. 338)}}
+
+''tehu'' also often appears at the end of the first clause in a sequence of clauses, indicating whatever is referred to by the first clause has not still occurred by the time of the event(s) or state(s) referred to by the following clauses.
+
+{{interlinear|glossing3=yes|number=(25)
+|Karna taplod tehu, manusia loas do.
+|karna ta-plod te-hu manusia l{{=}}oas do
+|because DETR-erupt NEG-CONT people 3pl{{=}}flee REAL
+|'Because the mountain had still not erupted when everyone fled.' (Bowden 2001, p. 338)}}
+
+'''''tesu'' (potential negative)'''<ref>Bowden 2001, pp. 338-339</ref>
+
+''tesu'' is formed by suffixing ''-su'', expressing the [[potential mood]], to ''te''. Although ''tesu'' is similar to ''tehu'' in that it encodes the meaning 'not up to the relevant point in time', it also expresses an expectation that the event referred to ''will'' occur in the future: this expectation is made explicit in the free translation of (23).
+
+{{interlinear|glossing3=yes|number=(26)
+|Sedi ne dumik tesu
+|sedi ne dumik te-su
+|garden.shelter PROX be.complete NEG-POT
+|'This garden shelter is not yet finished.' [but I expect it to be finished later] (Bowden 2001, p. 339)}}
+
+''tesu'' shares with ''tehu'' the ability to be used at the end of the first clause in a sequence of clauses, and also carries a similar meaning of incompletion; in addition, it encodes the expectation that the event referred to by the first clause should have happened by the event(s) of the following clauses. This expectation does not need to have actually been fulfilled; the breakfast that was expected to be cooked in the first clause of (24) was, in reality, never cooked due to the ensuing eruption.
+
+{{interlinear|glossing3=yes|number=(27)
+|Hadala mosa tesu, taplod haso nak.
+|hadala mosa te-su ta-plod ha{{=}}so nak
+|breakfast be.cooked NEG-POT DETR-erupt CL{{=}}one also
+|'Breakfast was still not cooked (although I had every expectation that it would be) when it erupted again.' (Bowden 2001, p. 339)}}
+
+Unlike the modal and aspectual markers which are used to form the other complex negative particles, ''su'' is not attested as a [[Bound and unbound morphemes|free morpheme]] elsewhere; however, it is likely related to the optional final ''-s'' of the modal verb ''-ahate(s)'' 'to be unable', which appears to be derived historically from ''te'' having fused onto the verb ''-ahan'' 'to be able'.<ref>Bowden 2001, pp. 316-318</ref> When used with a final ''-s'', as in (25b) compared with (25a), this modal verb encodes the same meanings expressed by ''tesu'':
+
+{{interlinear|glossing3=yes|number=(28a)
+|Irianti nasodas nahate
+|Irianti n{{=}}ha-sodas n{{=}}ahate
+|Irianti 3sg{{=}}CAUS-suck[smoke] 3sg{{=}}be.unable
+|'Irianti is not allowed to smoke.' (Bowden 2001, p. 317)}}
+
+{{interlinear|glossing3=yes|number=(28b)
+|Iswan nasodas nahates
+|Iswan n{{=}}ha-sodas n{{=}}ahate-s
+|Iswan 3sg{{=}}CAUS-suck[smoke] 3sg{{=}}be.unable-POT
+|'Iswan is not allowed to smoke (now. But he will be allowed to in the future).' (Bowden 2001, p. 318)}}
+
+==== Negation of imperatives using ''oik'' ====
+Imperative clauses are negated using the admonitive particle ''oik''. This particle appears to be derived from a verb ''oik'' 'to leave something behind'; however, this verb requires Actor cross-referencing, whereas the particle is never cross-referenced.<ref>Bowden 2001, p. 337</ref> Bowden (2001) posits that the  imperative use of ''oik'' has developed from the use of the independent verb in [[Serial verb construction|serial verb constructions]], with the morphological elements being lost in the process of grammaticalization.<ref>Bowden 2001, p. 369</ref> The particle is shown in (26), while the verbal use (with cross-referencing) is shown in (27):
+
+{{interlinear|glossing3=yes|number=(29)
+|Hmomas meu komo mai hmomsak meu calana oik
+|h{{=}}momas meu komo mai h{{=}}momas{{=}}ak meu calana oik
+|2PL{{=}}wipe 2PL.POSS hand but 2PL{{=}}wipe{{=}}APPL 2PL.POSS trousers ADMON
+|'Wipe your hands, but don't wipe them with your trousers.' (Bowden 2001, p. 337)}}
+
+{{interlinear|glossing3=yes|number=(30)
+|Nim suka moik nim sagala ane?
+|nim suka m{{=}}oik nim sagala a-ne
+|2SG.POSS desire 2SG{{=}}leave.behind 2SG.POSS stuff LOC-PROX
+|'Do you want to leave your stuff behind here?' (Bowden 2001, p. 337)}}
+
+==== Using negative particles as question tags ====
+[[Yes–no question|Yes-no (polar) questions]] can be posed with either positive or negative polarity; positive polarity questions operate in much the same way as in English, while negative polarity questions, which are formed using forms of the negative marker ''te'' as [[Tag question|question tags]], work in a different manner.<ref name=":12">Bowden 2001, p. 356</ref> An example of a positive polarity question is given below in (28a), while (28b) shows a negative polarity question:
+
+{{interlinear|glossing3=yes|number=(31a)
+|Masodas pa ne?
+|m{{=}}ha-sodas pa ne
+|2sg{{=}}CAUS-suck or PROX
+|'Do you smoke?' (Bowden 2001, p. 356)}}
+
+{{interlinear|glossing3=yes|number=(31b)
+|Masodas pa te?
+|m{{=}}ha-sodas pa te
+|2sg{{=}}CAUS-suck or NEG
+|'Do you smoke or not?' (Bowden 2001, p. 356)}}
+
+The answers to the positive polarity may be either ''Jou/Ole'' (Yes, I do smoke) or ''Te'' (No, I don't smoke); when responding to the negative polarity question, the answers are either ''Jou/Ole'' (Yes, I do ''not'' smoke), ''Te'' (No, I ''do'' smoke).<ref name=":12" />
+
+== Demonstratives and Directionals ==
+Taba has two systems which are both involved in marking [[deixis]]: the demonstrative and the directional systems. Although compared to other [[Austronesian languages]]<ref name=":4">{{Cite web|title=WALS Online - Feature 26A: Prefixing vs. Suffixing in Inflectional Morphology|url=https://wals.info/feature/26A#5/-0.703/137.813|access-date=2021-03-28|website=wals.info}}</ref> Taba is typologically unusual in that its grammar involves little [[Morphology (linguistics)|morphology]], this is not the case when it comes to demonstratives and directionals. Both of these systems involve root morphemes which can occur either on their own or with affixes, creating a large variety of meanings.<ref name=":5">{{Cite book|last=Bowden|first=John|title=Taba: description of a South Halmahera language|publisher=Pacific Linguistics|year=2001|isbn=0858835177|location=Canberra, Australia}}</ref>
+
+=== Demonstratives ===
+There are two demonstrative roots in Taba: ''ne'', which expresses proximity to the speaker, and ''dia'' (or shortened form ''da''), which expresses distance from the speaker. Each of these roots can be combined with a variety of morphemes to produce different nouns and pronouns, as follows:
+{| class="wikitable"
+!
+!
+!''ne'' (≈ this)
+!''dia/da'' (≈ that)
+|-
+!
+!
+!Proximal
+!Distal
+|-
+|'''Root forms'''
+|
+|''ne''
+|''dia/da''
+|-
+|'''Demonstrative pronouns'''
+|sg.
+|''ine''
+|''idia''
+|-
+|
+|pl.
+|''sine''
+|''sidia''
+|-
+|'''Locative nouns'''
+|
+|''ane''
+|''adia''
+|-
+|'''Similative nouns'''
+|'biasa'
+|''tane''
+|''tadia''
+|-
+|
+|'alus'
+|''tadine''
+|''taddia''
+|-
+|
+|
+|''hatadine''
+|''hatadia''
+|-
+|
+|'kasar'
+|''dodine''
+|''dodia''
+|-
+| colspan="4" |(Bowden 2001)
+|}
+Note: the three different categories of similative nouns refer to the three different [[Register (sociolinguistics)|registers]] of Taba, which have been ascribed the following meanings: 'biasa' (normal), 'alus' (fine/respectful) and 'kasar' (coarse).<ref name=":5" />
+
+==== Root Forms ====
+Root forms ''ne'' and ''dia'' have a [[Deixis|deictic]] function with respect to the speaker, and can express the speaker's physical, textural, temporal or even emotional and spiritual distance from something. These forms, when used on their own, occur immediately after the noun phrase to which they refer, much like the equivalent forms in many other [[Malayo-Polynesian languages]].<ref>{{Cite web|title=WALS Online - Feature 88A: Order of Demonstrative and Noun|url=https://wals.info/feature/88A#4/-1.14/145.28|access-date=2021-03-28|website=wals.info}}</ref> Examples of the root forms functioning as such can be seen below:
+
+{{interlinear|number=(32)
+|pakakas ne
+|tool PROX
+|'this tool' (Bowden 2001, p. 88)}}
+
+{{interlinear|number=(33)
+|kurusi da
+|chair DIST
+|'that chair' (Bowden 2001, p.88)}}
+
+Demonstrative root forms in Taba, like in most other languages, can also be used to refer to concepts previously mentioned in a conversation, as per the following example:<ref name=":5" />
+
+{{interlinear|glossing3=yes|number=(34)
+|Ndadi dukon ne taun halim do.
+|ndadi dukon ne taun ha{{=}}lim do
+|so eruption PROX year CL{{=}}five REAL
+|'So the eruption was five years ago.' (Bowden 2001, p. 272)}}
+
+Although the demonstrative roots are a closed class and most clearly mark [[deixis]], they also belong to a slightly larger class of deictics, including the directional root ''ya'' (up). When this directional root is used deictically, it implies that both the speaker and hearer hold some common knowledge about the referent.<ref name=":5" /> Directionals will be discussed in further detail in the next section. See below an example of ''ya'' functioning deictically:
+
+{{interlinear|glossing3=yes|number=(35)
+|Malcoma yak ni foto ya
+|m{{=}}alcoma yak ni foto ya
+|2sg{{=}}send 1sg 3sg.POSS photograph REC
+|'Send me the photographs (that I have just referred to, and which we both know about' (Bowden 2001, p. 273)}}
+
+==== Demonstrative Pronouns ====
+Taba has four demonstrative pronouns, each formed through the affixation of a pronoun to the demonstrative root.<ref name=":5" /> This process, as well as the rough English translation for each pronoun is outlined in the table below:
+{| class="wikitable"
+!
+!''ne''
+!''da/dia''
+|-
+!
+!Proximal
+!Distal
+|-
+!singular
+|{{interlinear|glossing3=yes|ine|i-ne|SG-PROX|'this' (near speaker)}}
+|{{interlinear|glossing3=yes|ida / idia|i-da / i-dia|SG-DIST / SG-DIST|'that' (away from speaker)}}
+|-
+!plural
+|{{interlinear|glossing3=yes|sine|si-ne|PL-PROX|'these' (near speaker)}}
+|{{interlinear|glossing3=yes|sida / sidia|si-da / si-dia|PL-DIST / PL-DIST|'those' (away from speaker)}}
+|-
+|
+| colspan="2" |(Bowden 2001, p. 273)
+|}
+Taba’s demonstrative pronouns can also be used to refer to a concept previously mentioned in a conversation, or a series of previously described events, as shown in the next two examples:
+
+{{interlinear|glossing3=yes|number=(36)
+|Idia Minggu
+|i-dia Minggu
+|3SG-DIST Sunday
+|'That was Sunday' (Bowden 2001, p. 275)}}
+
+{{interlinear|glossing3=yes|number=(37)
+|Lai tam idia
+|lai t{{=}}am i-dia
+|just 1PL.INCL{{=}}see 3SG-DIST
+|'We had just seen all of this (for the first time)' (Bowden 2001, p. 275)}}
+
+==== Locative Nouns ====
+Taba has two locative nouns, formed by the prefixation of ''a-''. The formation of these nouns and their rough English translations can be found in the table below:
+{| class="wikitable"
+!''ne''
+!''dai/dia''
+|-
+!Proximal
+!Distal
+|-
+|{{interlinear|glossing3=yes|ane|a-ne|LOC-PROX|'here'}}
+|{{interlinear|glossing3=yes|adia|a-dia|LOC-DIST|'there'}}
+|-
+| colspan="2" |(Bowden 2001, p. 275)
+|}
+Here are two examples showing the locative nouns in use, occurring after the noun to which they refer:
+
+{{interlinear|glossing3=yes|number=(38)
+|Si ane te
+|Si a-ne te
+|3PL LOC-PROX NEG
+|'He wasn't there' (Bowden 2001, p. 275)}}
+
+{{interlinear|glossing3=yes|number=(39)
+|Peda adia loka ni umpo lema
+|peda a-dia loka ni um-po le-ma
+|machete LOC-DIST banana 3SG.POSS NOM-down land-VEN
+|'The machete is there, landwards from the bottom of the banana tree' (Bowden 2001, p. 276)}}
+
+==== Similative Nouns ====
+Taba has eight similative nouns, which differ between the language’s three [[Register (sociolinguistics)|registers]]. Many other [[Austronesian languages]] have similative noun equivalents,<ref>{{Cite web|title=WALS Online - Language Taba|url=https://wals.info/languoid/lect/wals_code_tab|access-date=2021-03-28|website=wals.info}}</ref> but Taba is unique in that is has such a high number. The eight different forms can be found in the table below, where the labels ascribed to each register by Taba speakers are as such: ''biasa'' = ‘normal’, ''alus'' = ‘fine/respectful’ and ''kasar'' = ‘coarse’.<ref name=":5" />
+{| class="wikitable"
+!
+!''ne''
+!''di/dia''
+|-
+!
+!Proximal
+!Distal
+|-
+|biasa
+|''tane''
+|''tadia''
+|-
+|alus
+|''tadine''
+|''taddia''
+|-
+|
+|''hatadine''
+|''hatadia''
+|-
+|kasar
+|''dodine''
+|''dodia''
+|}
+Below is an example of a similative noun occurring naturally in a conversation:
+
+{{interlinear|glossing3=yes|number=(40)
+|Napnap um ni llo ya mlongan tane
+|yapyap um ni llo ya mlongan ta-ne
+|ash house 3SG.POSS inside REC be.long SIM-PROX
+|'The ash inside the house was as deep as this' (Bowden 2001, p. 94)}}
+
+Similative nouns in Taba can also occur as single-word utterances and as adverbs,<ref name=":5" /> as in the following examples:
+
+{{interlinear|glossing3=yes|number=(41)
+|Tadia!
+|ta-dia
+|SIM-DIST
+|'It's done like that!', 'I've done it!', 'Tadaa!' etc. (Bowden 2001, p. 276)}}
+
+{{interlinear|glossing3=yes|number=(42)
+|Tit tpe tane
+|tit t-pe ta-ne
+|1PL.INCL 1PL.INCL.do SIM-PROX
+|'We do it like this' (Bowden 2001, p. 277)}}
+
+=== Directionals ===
+As for the directional system, Taba has five basic [[Semantics|semantic]] categories. These, along with their roughly translated English equivalents are: ''ya'' (up), ''po'' (down), ''la'' (sea), ''le'' (land) and ''no'' (there). Like demonstratives, directionals in Taba can be affixed to express more complex meanings, namely motion towards or from a direction, position in a direction, and parts of something that are oriented in a particular direction. This kind of morphology is unusual within Taba, but typologically common compared to many other [[Austronesian languages]].<ref name=":4" /><ref name=":5" /> It is worth noting that while the directional roots in Taba can have rough English translations, utterances containing them will often have senseless meanings if translated directly into English.
+
+All Taba directionals formed by affixation can be found in the table below. The essive forms refer to static location in a particular direction and the allative forms refer to motion towards a particular direction. The venitive forms refer to motion away from a particular direction and the nominalised forms refer to parts of something that are oriented in a particular direction.<ref name=":5" />
+{| class="wikitable"
+!Root
+!''ya'' (up)
+!''po'' (down)
+!''la'' (sea)
+!''le'' (land)
+!''no'' (there)
+|-
+|ESSive
+|yase
+|pope
+|lawe
+|lewe
+|noge
+|-
+|ALLative
+|attia
+|appo
+|akl
+|akla
+|akno
+|-
+|VENitive
+|yama
+|poma
+|lame
+|lema
+|noma
+|-
+|NOMinalised
+|tattubo
+|umpo
+|kla
+|kle
+|kno
+|-
+| colspan="6" |(Bowden 2001)
+|}
+
+==== Essive Forms ====
+Essive directionals in Taba, as stated above, signify static location in a particular direction. These forms can have a larger range of functions when compared with the other directionals. Namely, they can occur as verb [[Adjunct (grammar)|adjuncts]], both with a locative phrase and alone.<ref name=":5" /> They can occur either before or after a verb, or to modify a noun phrase. Shown below is an example of the essive forms being used in a sentence:
+
+{{interlinear|glossing3=yes|number=(43)
+|Sama lo John nalusa ni abu nwom lawe
+|Sama lo John n{{=}}ha-lusa ni abu n{{=}}wom la-we
+|same as John 3sg{{=}}CAUS-say 3sg.POSS ash 3sg{{=}}come sea-ESS
+|'Just like you (John) said the ash (from the eruption) fell in Australia' (Bowden 2001, p. 290)}}
+
+==== Allative Forms ====
+Allative directional forms in Taba express movement towards a particular direction. These forms can occur on their own, after the verb as an [[Adjunct (grammar)|adjunct]], or at the head of a locative phrase.<ref name=":5" /> Examples of these two functions occurring in natural speech are shown below:
+
+{{interlinear|glossing3=yes|number=(44)
+|Ncopang akla
+|n{{=}}sopang ak-la
+|3SG{{=}}descend ALL-sea
+|'It descended to the sea' (Bowden 2001, p. 288)}}
+
+{{interlinear|glossing3=yes|number=(45)
+|Malai lhan appo
+|Malai l{{=}}han ap-po
+|then 3PL{{=}}go ALL-down
+|'Then they went downwards' (Bowden 2001, p. 288)}}
+
+==== Venitive Forms ====
+Venitive directional forms in Taba express movement away from a particular direction. These forms are much freer in word order and can occur at many different places within a clause, serving to modify verbs, as seen in the next two examples:<ref name=":5" />
+
+{{interlinear|glossing3=yes|number=(46)
+|Noma noma turus manusia lwom
+|no-ma no-ma turus manusia l{{=}}wom
+|there-VEN there-VEN direct people 3pl{{=}}come
+|'From here and there the people came' (Bowden 2001, p. 289)}}
+
+{{interlinear|glossing3=yes|number=(47)
+|Nyoa khan lama, polisisi ltahan yak
+|n{{=}}yoa k{{=}}han la-ma polisi{{=}}si l{{=}}tahan yak
+|{3sg{{=}}search (almost)} 1sg{{=}}go sea-VEN police-PL 3pl{{=}}find 1sg
+|'I'd almost come back from Moti when the police found me' (Bowden 2001, p. 94)}}
+
+Venitive forms can also occur in utterances without any verbs, such as in the following example:
+
+{{interlinear|glossing3=yes|number=(48)
+|Motor Payahe lema yak
+|motor Payahe le-ma yak
+|boat Payahe land-VEN 1sg
+|'I came on the boat from Payahe' (Bowden 2001, p. 289)}}
+
+The suffix ''-ma'', used to form venitive directionals is likely derived from the word *maRi (come), that has been reconstructed for [[Proto-Austronesian language|Proto-Austronesian]].<ref name=":5" /><ref name=":6">{{Cite web|title=Austronesian Comparative Dictionary - Words: a|url=https://www.trussel2.com/ACD/acd-w_a.htm|access-date=2021-03-28|website=www.trussel2.com}}</ref>
+
+==== Nominalised Forms ====
+Nominalised directional forms in Taba signify parts of an object that are oriented towards a particular direction. These forms are always possessed by and occur after the noun relative to which the location is being expressed.<ref name=":5" /> This is illustrated in the following two examples:
+
+{{interlinear|glossing3=yes|number=(49)
+|Kapal ya pso nuso lawe Botan ni umpo lawe
+|Kapal ya p-so n{{=}}uso la-we Botan ni um-po la-we
+|ship REC CL-one 3sg{{=}}follow sea-ESS Halmahera 3sg.POSS NOM-down sea-ESS
+|'There was a ship following along underneath Halmahera' (Bowden 2001, p. 287)}}
+
+{{interlinear|glossing3=yes|number=(50)
+|I ntongo {'Happy Restaurant'} ni kle
+|i n{{=}}tongo {'Happy Restaurant'} ni k-le
+|3sg 3sg{{=}}stay {'Happy Restaurant'} 3sg.POSS NOM-land
+|'He's staying landwards from the 'Happy Restaurant'' (Bowden 2001, p. 287)}}
+
+== List of Glossing Abbreviations ==
+This section contains only the glossing abbreviations that appear in this article. For a full list, see ''[[List of glossing abbreviations]].''
+{| class="wikitable"
+!Gloss
+!Meaning
+|-
+|ADMON
+|admonitive mood
+|-
+|ALL
+|[[allative case]]
+|-
+|APPL
+|[[applicative voice]]
+|-
+|CAUS
+|[[causative]]
+|-
+|CL
+|[[Classifier (linguistics)|classifier]]
+|-
+|CONT
+|[[Continuous and progressive aspects|continuous aspect]]
+|-
+|DEM
+|[[demonstrative]]
+|-
+|DETR
+|detransitivizer
+|-
+|DIST
+|[[distal demonstrative]]
+|-
+|ESS
+|[[essive case]]
+|-
+|FOC
+|[[Focus (linguistics)|focus]]
+|-
+|LOC
+|[[locative case]]
+|-
+|NEG
+|[[Negation (linguistics)|negation]]
+|-
+|NOM
+|[[nominative case]]
+|-
+|PL
+|[[plural]]
+|-
+|POSS
+|[[Possessive (linguistics)|possessive]] marker
+|-
+|POT
+|[[potential mood]]
+|-
+|PROX
+|[[proximal demonstrative]]
+|-
+|REAL
+|[[realis mood]]
+|-
+|REC
+|[[reciprocal voice]]
+|-
+|REM
+|[[remote past tense]]
+|-
+|SG
+|[[Grammatical number|singular]]
+|-
+|SIM
+|simultaneous aspect
+|-
+|VEN
+|[[venitive]]
+|}
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+SIM:simultaneous aspect
+PROX:proximal demonstrative
+ADMON:admonitive mood
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Name taboo (Aroah)==
+As is common with many Melanesian people, Taba speakers practice ritual [[Naming taboo|name taboo]]. As such, when a person dies in a Taba community, their name may not be used by any person with whom they had a close connection. This practice adheres to the Makianese belief that, if the names of the recently deceased are uttered, their spirits may be drastically disturbed. The deceased may be referred to simply as ‘Deku’s mother’ or ‘Dula’s sister’. Others in the community with the same name as the deceased will be given ''maronga'', or substitute names.<ref>Bowden 2001, p. 22</ref>
+
+==Notes==
+{{reflist}}
+
+== References ==
+
+* {{cite book|url=https://openresearch-repository.anu.edu.au/handle/1885/146703?mode=full|title=Taba: description of a South Halmahera language|last=Bowden|first=John|publisher=Research School of Pacific and Asian Studies, The Australian National University|year=2001|isbn=0858835177|series=[[Pacific Linguistics]]|volume=521|location=Canberra|doi=10.15144/PL-521}}
+* {{Cite book|title=East Nusantara: Typological and areal analyses|last=Florey|first=Margaret|publisher=Research School of Pacific and Asian Studies, The Australian National University|year=2010|isbn=9780858836105|editor-last=Ewing|editor-first=Michael C.|volume=618|location=Canberra|pages=227–250|chapter=Negation in Moluccan languages|doi=10.15144/PL-618|doi-broken-date=31 October 2021|editor-last2=Klamer|editor-first2=Marian}}
+* {{Cite journal|last=Reesink|first=Ger P.|date=2002|title=Clause-final negation: structure and interpretation|journal=Functions of Language|volume=9|issue=2|pages=239–268|doi=10.1075/fol.9.2.06ree}}
+
+{{Languages of Indonesia}}
+{{Halmahera–Cenderawasih languages}}
+{{Austronesian languages}}
+
+[[Category:South Halmahera–West New Guinea languages]]
+[[Category:Languages of Indonesia]]
+[[Category:Halmahera]]

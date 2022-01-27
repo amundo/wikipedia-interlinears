@@ -1,0 +1,395 @@
+{{Short description|Endangered Aboriginal language of Australia's Northern Territory}}
+{{Infobox language
+| name = Malak-Malak
+| nativename = ''Nguluk Wanggarr''
+| altname = Mullukmulluk
+| region = [[Northern Territory]]
+| ethnicity=[[Mulluk-Mulluk]], [[Ngolokwangga]], [[Djerait]]
+| speakers = 10 Malak-Malak
+| date = 2016 census
+| ref = <ref>{{Cite web|url=http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_C16_T09_SA|title=Census 2016, Language spoken at home by Sex (SA2+)|website=stat.data.abs.gov.au|language=en-au|publisher=Australian Bureau of Statistics|access-date=2017-10-29}}</ref>
+| speakers2 = 5 Tyeraity (2005)<ref name=AIATSIS/>
+| familycolor = Australian
+| family = [[language isolate]]
+| script = [[Latin script|Latin]]
+| dia1 = Malak-Malak
+| dia2 = Djerait (Kuwema)
+| lc1 = mpb | ld1 = Malak-Malak
+| lc2 = woa | ld2 = Kuwema (Tyaraity)
+| aiatsis = N22
+| aiatsisname = Malak Malak
+| aiatsis2 = N10
+| aiatsisname2 = Kuwema (Tyaraity)
+| glotto = nort1547
+| glottorefname = Northern Daly
+| ELP2 = 3329
+| ELPname2 = Kuwema
+| notice = IPA
+}}
+
+'''Malak-Malak''' (also spelt Mullukmulluk, Malagmalag), also known as ''Ngolak-Wonga'' (Nguluwongga), is an [[Australian Aboriginal language]] spoken by the [[Mulluk-Mulluk]] people. Malakmalak is nearly [[language death|extinct]], with children growing up speaking [[Australian Kriol language|Kriol]] or English instead. The language is spoken in the [[Daly River (Northern Territory)|Daly River]] area around Woolianna and [[Nauiyu Nambiyu Community|Nauiyu]]. The '''Kuwema''' or '''Tyaraity''' (Tyeraty) variety is distinct.
+
+==Classification==
+Malakmalak was formerly classified in a [[Daly languages|Northern Daly]] family along with the "Anson Bay" group of [[Wagaydyic languages|Wagaydy]] (Patjtjamalh, Wadjiginy, Kandjerramalh) and the unattested [[Giyug language|Giyug]].  Green concluded that Wagaydy and Malakmalak were two separate language families.<ref name="Green 2003">Green, I. "The Genetic Status of Murrinh-patha" in Evans, N., ed. "The Non-Pama-Nyungan Languages of Northern Australia: comparative studies of the continent’s most linguistically complex region". ''Studies in Language Change'', 552. Canberra: Pacific Linguistics, 2003.</ref> Some later classifications have linked them such as Bowern (2011).<ref>Bowern, Claire. 2011. "[http://anggarrgoon.wordpress.com/2011/12/23/how-many-languages-were-spoken-in-australia/ How Many Languages Were Spoken in Australia?]", ''Anggarrgoon: Australian languages on the web'', December 23, 2011 ([http://pamanyungan.sites.yale.edu/master-list-australian-languages-v12 corrected] February 6, 2012)</ref> However, the Wagaydy people are recent arrivals in the area, and their language may only similar due to borrowing.<ref>{{AIATSIS|N31|Patjtjamalh}}</ref> ''[[AIATSIS]]'' and ''[[Glottolog]]'' both treat Wagaydy as an isolate and Giyug as unclassifiable.
+
+In contemporary usage, "Northern Daly" (e.g. Harvey 2003,<ref name="Harvey 2003">Harvey, M. (2003). "The evolution of verb systems in the Eastern Daly language family." In N. Evans ed. ''The Non-Pama Nyungan languages of Northern Australia.'' Canberra, Pacific Linguistics. pp. 159-184.</ref> Cahir 2006,<ref name="Cahir 2006">Cahir, P. (2006). "Verb functions and Argument Structure in MalakMalak: a Northern daly Language of the Daly River Region, Northern Territory." Honours Thesis. University of Melbourne.</ref> Nordlinger 2017<ref>{{cite book |last=Nordlinger |first=Rachel |author-link=Rachel Nordlinger |editor-last1= Fortescue |editor-first1= Michael |editor-link1= Michael Fortescue |editor-link2=Marianne Mithun |editor-last2= Mithun |editor-first2= Marianne |editor-last3= Evans |editor-first3= Nicholas |editor-link3=Nicholas Evans (linguist) |title=Oxford Handbook of Polysynthesis |publisher=Oxford: Oxford University Press |date=2017 |pages=782–807 |chapter=Chapter 37: The languages of the Daly region (Northern Australia)}}</ref>) most often refers specifically to the group of languages which includes Malakmalak and '''Tyerraty'''<ref name="The Daly Languages (Australia): Tyerraty">http://www.dalylanguages.org/view_language.php?id=7</ref> (also known as '''Guwema'''), a variety with which MalakMalak differs significantly in vocabulary (65% according to Tryon's 200 word list), but is very close to morphologically.<ref name="Tryon 1974">{{cite book |last=Tryon |first=D. T. |author-link=Darrell Tryon |year=1974 |title=Daly family languages, Australia |location=Canberra |publisher=Pacific Linguistics |pages=24–41}}</ref>
+
+==Phonology==
+
+===Vowels<ref name="ReferenceA">Hoffmann, Dorothea (in prep), MalakMalak Sketch Grammar</ref>===
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+| {{IPA link|ɨ}}
+| {{IPA link|ɯ}} / {{IPA link|u}}
+|-
+! [[Open-mid vowel|Mid]]
+| {{IPA link|ɛ}}
+| {{IPA link|ɜ}}
+|
+|-
+! [[Open vowel|Open]]
+|
+| {{IPA link|ɐ}}
+|
+|}
+
+===Consonants<ref name="ReferenceA"/>===
+{| class="wikitable" style="text-align: center;"
+! colspan="2" |
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|-
+! colspan="2" |[[Nasal stop|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|
+|{{IPA link|ɲ}}
+|{{IPA link|ŋ}}
+|-
+! rowspan="2" |[[Stop consonant|Stop]]
+!<small>voiceless</small>
+|{{IPA link|p}}
+|{{IPA link|t}}
+|
+|{{IPA link|c}}
+|{{IPA link|k}}
+|-
+![[Voice (phonetics)|<small>voiced</small>]]
+|{{IPA link|b}}
+|{{IPA link|d}}
+|
+|
+|{{IPA link|g}}
+|-
+! colspan="2" |[[Rhotic consonant|Rhotic]]
+|
+|{{IPA link|r}}
+|{{IPA link|ɻ}}
+|
+|
+|-
+! colspan="2" |[[Lateral consonant|Lateral]]
+|
+|{{IPA link|l}}
+|
+|{{IPA link|ʎ}}
+|
+|-
+! colspan="2" |[[Semivowel]]
+|{{IPA link|w}}
+|
+|
+|{{IPA link|j}}
+|
+|}
+
+== Typological classification ==
+MalakMalak, is an [[Ergative–absolutive language|ergative-absolutive language]] with constituent order mainly determined by [[information structure]] and [[Prosody (linguistics)|prosody]], but syntactically free. Marking of core-cases is optional. The language is mostly [[Dependent-marking language|dependent-marking]] (1), but also has no marking (2) and [[Head-marking language|head-marking]] features (2).<ref>{{Cite web|url=http://wurin.lis.soas.ac.uk/Collection/MPI1001522|title=Collection Items|website=wurin.lis.soas.ac.uk|access-date=2016-05-10}}</ref>
+
+{{interlinear|number=(1)
+|top= dependent-marking: [[Possession (linguistics)|possession]]
+|Doro-ngayi muyiny
+|name-3SG.F dog
+|"Doro's dog"}}
+
+{{interlinear|number=(2)
+|top= no marking: [[noun]]-[[adjective]]
+|meldaty ada tjung yintjerrik
+|trip 1SG.EXCL.go.PST stick small.M
+|"I tripped on the little stick"}}
+
+{{interlinear|number=(3)
+|top= head-marking: noun-[[adposition]]
+|ngatj yunu tjinang pak-ma nende wag puyunduk-nana
+|EMPH 3SG.M.sit.PST stay.give sit-CONT thing/person water underneath-LOC
+|"he sits down underneath the water"}}
+
+== Morphosyntactic properties ==
+MalakMalak's verb phrase uses [[complex predicate]]s. These consist of an [[Inflection|inflecting]] verb that has properties of person, number and [[Tense–aspect–mood|tense]]. MalakMalak only has six such verbs. In example (4), ''yuyu'' and ''vida'' are inflecting verbs. Additionally, there are [[coverb]]s which have [[Grammatical aspect|aspectual]] properties, but do not inflect for number, tense or person. They occur with inflecting verbs. They are unlimited in number and new verbs are also borrowed into this class. In (4), ''kubuk-karrarr, dat-tyed,'' and ''ka'' are coverbs. They can also form [[Serial verb construction|serial verbs]] (''kubuk-karrarr, dat-tyed'').<ref>{{Cite web|url=https://www.academia.edu/19436013|title=Dorothea Hoffmann: "Complex Predicates and Serialization in the Daly River Languages (and beyond?)"|website=www.academia.edu|access-date=2016-05-10}}</ref>
+
+{{interlinear|number=(4)
+|top= Complex Predicates and Serial Coverbs
+|kubuk-karrarr dat-tjed yuyu yanak ka yida{{=}}ke
+|swim-move.up look-stand 3SG.M.stand.PST one come 3SG.M.go.PST{{=}}FOC
+|"he crossed the river and looked once, then he came here"}}
+
+== Spatial Language ==
+MalakMalak employs all three "classic" types of spatial [[Linguistic frame of reference|Frames of Reference]]: intrinsic, relative and absolute. Additionally, the language uses place names and body-part orientation to talk about space.<ref>{{Cite web|url=https://www.academia.edu/3796568|title=Dorothea Hoffmann. (MUR). "Mapping Worlds: Frames of Reference in MalakMalak". In Proceedings to the 39th Meeting of the Berkeley Linguistic Society 2013. University of California: Berkeley|website=www.academia.edu|access-date=2016-05-11}}</ref><ref>{{Cite web|url=https://www.academia.edu/24303018|title=Dorothea Hoffmann. (in prep). "Usage Patterns of Spatial Frames of Reference and Orientation: Evidence from three Australian languages"|website=www.academia.edu|access-date=2016-05-11}}</ref> The intrinsic Frame requires some kind of portioning of the ground object or landmark into named facets from which search domains can be projected.<ref name=":0">{{Cite book|title=Grammars of Space: Explorations in cognitive diversity|last1=Levinson|first1=Stephen|last2=Wilkins, David|publisher=Cambridge University Press|year=2006|pages=20–21}}</ref> In English this would be, for example, ''the tree is in front of the man.'' And in MalakMalak it would be (5).
+
+{{interlinear|number=(5)
+|top= intrinsic Frame of Reference
+|tjung angundu-na muyu
+|tree behind-LOC 3SG.N*.stand.PST
+|"the tree was behind (the man)"}}
+
+The relative Frame of Reference involves mapping from the observer's own axes (''front, back, left, right'') onto the ground object.<ref name=":0" /> An English example is ''the ball is on the right.'' In MalakMalak it would be (6)
+
+{{interlinear|number=(6)
+|top= relative Frame of Reference
+|yerra tjalmiyiny dek kantjuk purrat-ma wuta
+|now right place up/upwards jump-CONT 3SG.N.go.PST
+|"now the ball was on the right, jumping up ({{lit}} jumping in an upward place on the right)"}}
+
+The absolute Frame of Reference requires xed bearings that are instantly available to all members of the community.<ref name=":0" /> An English example is ''the opera is west of here.'' In MalakMalak, three different types of absolute frames can be used. Those based on the course of the sun (''east/west'') (7a), on prevailing winds (''northwesterly/southeasterly'') (7b), and on two sides of the prominent [[Daly River (Northern Territory)|Daly River]] (''northeastern/southwestern bank'') (7c).
+
+{{interlinear|number=(7a)
+|top= absolute Frame of Reference (sun)
+|miri tjalk-ma yina, yina miri paiga-ma
+|sun go.down-CONT this this sun go.up-CONT
+|"this one is west and this one is east"}}
+
+{{interlinear|number=(7b)
+|top= absolute Frame of Reference (wind)
+|Waliwali-nen pudang tjedali yuyu nul-yen pudang tjedali yuyu
+|Daly.River-DIR face.towards stand.PART 3SG.M.stand.PRS northwesterly-DIR face.towards stand.part 3SG.M.stand.PRS
+|"one is facing the river and the other one is facing northwest"}}
+
+{{interlinear|number=(7c)
+|top= absolute Frame of Reference (riverbank)
+|duk puyunduk kinangga yide chair{{=}}we
+|place underneath north.eastern.bank/this.side 3SG.M.go/be.PRS chair{{=}}FOC
+|"it is underneath, on the northeastern bank's side, of the chair"}}
+
+==Vocabulary==
+The following basic vocabulary items of Northern Daly language varieties are from Tryon (1968).<ref name="Tryon-1968">Tryon, Darrell T. "The Daly River Languages: A Survey". In Aguas, E.F. and Tryon, D. editors, ''Papers in Australian Linguistics No. 3''. A-14:21-49. Pacific Linguistics, The Australian National University, 1968. {{doi|10.15144/PL-A14.21}}</ref>
+
+:{| class="wikitable sortable"
+! no. !! gloss !! Mullukmulluk !! [[Djerait]]y
+|-
+| 1 || head || pundɔ || pundu
+|-
+| 2 || hair || pundɔmæk || pundumæR
+|-
+| 3 || eyes || numɔrɔ || numɔrɔ
+|-
+| 4 || nose || yinïn || yinun
+|-
+| 5 || ear || čawœr || muninǰawœr
+|-
+| 6 || tooth || dit || diR
+|-
+| 7 || tongue || ŋændɛl || ŋændulk
+|-
+| 8 || shoulder || mœndœl || mændœm
+|-
+| 9 || elbow || pimïle || pimilu
+|-
+| 10 || hand || naɲïl || naɲulk
+|-
+| 11 || breasts || wiyœ || wiŋ
+|-
+| 12 || back || payak || daɲ
+|-
+| 13 || belly || pœɲ || pœɲ
+|-
+| 14 || navel || čœčœt || čœčuruk
+|-
+| 15 || heart || mændulma || mændulma
+|-
+| 16 || urine || wurɔ || wurɔ
+|-
+| 17 || excrete || wœn || wœn
+|-
+| 18 || thigh || čæt || čæR
+|-
+| 19 || leg || wilit || dulk
+|-
+| 20 || knee || pœŋgœl || pœŋgœl
+|-
+| 21 || foot || maǰan || mæl
+|-
+| 22 || skin || ŋæčïdl || karala
+|-
+| 23 || fat || milyœ || laɲ
+|-
+| 24 || blood || dawut || padawɔ
+|-
+| 25 || bone || nœrœt || murɔ
+|-
+| 26 || man || yiɲa || lœlambœr
+|-
+| 27 || woman || alawaR || alœrguR
+|-
+| 28 || father || baŋa || papaŋa
+|-
+| 29 || mother || wiyaŋa || kalaŋa
+|-
+| 30 || grandmother || æǰæŋa || ŋeyæčɔ
+|-
+| 31 || policeman || čæyæčman || čayačdiɲ
+|-
+| 32 || spear || čaŋar || čaŋal
+|-
+| 33 || [[woomera (spear-thrower)|woomera]] || yarawa || maduR
+|-
+| 34 || [[boomerang]] || čïmbičïmbič || čïmbičïmbič
+|-
+| 35 || [[nullanulla]] || warawara || čændæɲ
+|-
+| 36 || hair-belt || pudur || purur
+|-
+| 37 || canoe || wænde || wændɔ
+|-
+| 38 || axe || walyïmba || ličpuRp
+|-
+| 39 || [[dilly bag]] || karɛr || pæmbuR
+|-
+| 40 || fire || čœŋ || čuŋɔ
+|-
+| 41 || smoke || wæn || wæn
+|-
+| 42 || water || wak || wak
+|-
+| 43 || cloud || durɔ || pæRk
+|-
+| 44 || rainbow || dæpulɔlɔy || pulɔlɔy
+|-
+| 45 || [[barramundi]] || wɔ || wɔ
+|-
+| 46 || sea || ŋambač || ŋambač
+|-
+| 47 || river || wakwurɔ || wurɔ
+|-
+| 48 || stone || wadlk || wulɔ
+|-
+| 49 || ground || pawuRk || wœnǰœ
+|-
+| 50 || track || yære || æRɔ
+|-
+| 51 || dust || pulɔ || pulɔ
+|-
+| 52 || sun || mïre || mirɔ
+|-
+| 53 || moon || yædlk || yœlk
+|-
+| 54 || star || nœmœrœl || numurudl
+|-
+| 55 || night || puwaR || poyædɔ
+|-
+| 56 || tomorrow || nœyænœ || nuŋɔyɔ
+|-
+| 57 || today || æmæn || æɲika
+|-
+| 58 || big || wunædle || wudælɔ
+|-
+| 59 || [[Phalangeriformes|possum]] || wœyœ || wœyœ
+|-
+| 60 || dog || moyiɲ || moweyiɲ
+|-
+| 61 || tail || wœmœ || wumɔ
+|-
+| 62 || meat || dæ || dæ
+|-
+| 63 || snake || ŋunǰul || čalala
+|-
+| 64 || [[red kangaroo]] || čæyœt || manduRk
+|-
+| 65 || porcupine || mænɛŋɛč || manɛŋɛč
+|-
+| 66 || [[emu]] || čïnburat || ŋœrœɲ
+|-
+| 67 || crow || waŋgïr || waŋguR
+|-
+| 68 || [[goanna]] || čæriɲ || čæɲ
+|-
+| 69 || [[blue tongue lizard]] || kumugut || pɛrɛt
+|-
+| 70 || mosquito || wænŋɛn || wænŋun
+|-
+| 71 || sugar-bag || piǰak || ŋœčœn
+|-
+| 72 || camp || dæk || dæk
+|-
+| 73 || black || eyïkeyïk || eyukeyuk
+|-
+| 74 || white || puŋma || tamalma
+|-
+| 75 || red || widma || witma
+|-
+| 76 || one || yanakŋa || yawunuka
+|-
+| 77 || two || wæræna || wærunuka
+|-
+| 78 || when? || amanæle || ŋædekælædiɲ
+|-
+| 79 || what? || nïgidæ || nïgidæ
+|-
+| 80 || who? || eyɛn || aŋon
+|-
+| 81 || I || ŋa || ŋa
+|-
+| 82 || you || waŋare || niɲ
+|-
+| 83 || he || yœndœn || yœndœn
+|-
+| 84 || grass || wæne || wænœ
+|-
+| 85 || vegetable food || mi || miyɔ
+|-
+| 86 || tree || čœŋ || čuŋɔ
+|-
+| 87 || leaf || dæmbæl || wœR
+|-
+| 88 || [[pandanus]] || murɔmurɔ || narɔ
+|-
+| 89 || [[ironwood]] || pawit || æluRk
+|-
+| 90 || ripe || moeŋœɲ || damberæmæ
+|-
+| 91 || good || yunbayan || munbayɛn
+|-
+| 92 || bad || yinat || munætɔ
+|-
+| 93 || blind || wuɲak || wuɲ
+|-
+| 94 || deaf || ɲabɔ || ŋamama
+|-
+| 95 || saliva || čalïlk || čalulk
+|}
+
+==References==
+{{reflist}}
+*{{cite book |last=Birk |first=D. B. W. |year=1976 |title=The MalakMalak language, Daly River (Western Arnhem Land) |location=Canberra |publisher=Pacific Linguistics}}
+*{{cite journal |last=Ray |first=Sidney H. |author-link=Sidney H. Ray |date=Jan–Jun 1909 |title=The Ngolok-Wanggar Language, Daly River, North Australia |journal=The Journal of the Anthropological Institute of Great Britain and Ireland |volume=39 |pages=137–141 |doi=10.2307/2843287 |jstor=2843287 |publisher=Journal of the Royal Anthropological Institute|url=https://zenodo.org/record/1449625 }}
+*Hoffmann, Dorothea. [https://drdorotheahoffmann.wordpress.com http://drdorotheahoffmann.wordpress.com]
+*Hoffmann, Dorothea (2015). “[https://sites.google.com/site/hoffmanndorothea/home/publications/DH_proof2_final.pdf?attredirects=0 Moving through space and (not?) time]: North Australian dreamtime narratives,” ''Narratives from the South Pacific: Sociocultural explorations'', ed. by F. Gounder. Amsterdam: John Benjamins Publishing Company, 15-35
+*Hoffmann, Dorothea (2014). “[http://www.adelaide.edu.au/australex/publications/hoffmann.pdf Mapping the Language]: How a dying language loses its place in the world”, ''Endangered Words, Signs of Revival,'' ed. by [[Ghil'ad Zuckermann]], J. Miller, and J. Morley, Adelaide: [[Australex]], 1-18
+
+==External links==
+* [http://dalylanguages.org/view_language.php?id=6 MalakMalak] at the [http://www.dalylanguages.org/ Dalylanguages.org website].
+
+{{Australian Aboriginal languages}}
+
+[[Category:Daly languages]]
+[[Category:Endangered languages]]
+[[Category:Extinct languages of the Northern Territory]]
+[[Category:Language isolates of Australia]]

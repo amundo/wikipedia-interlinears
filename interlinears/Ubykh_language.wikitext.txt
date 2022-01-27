@@ -1,0 +1,289 @@
+{{Short description|Extinct Northwest Caucasian language}}
+{{More citations needed|date=December 2009}}
+{{Infobox language
+| name = Ubykh
+| nativename = ''twáxabzá''
+| pronunciation = {{IPA|/tʷaxəbza/}}
+| states = [[Circassia]]
+| region = [[Sochi]]
+| extinct = 7 October 1992, with the death of [[Tevfik Esenç]]|
+| familycolor = Caucasian
+| fam1 = [[Northwest Caucasian languages|Northwest Caucasian]]
+| iso3 = uby
+| glotto = ubyk1235
+| glottorefname = Ubykh
+| map = Caucasic languages.svg
+| mapcaption = {{legend|#FFC173|Ubykh (extinct)}}
+| notice = IPA
+}}
+
+'''Ubykh''', or '''Ubyx''' (also known as '''Ubijé''' in Turkey, or '''Pekhi'''), is an [[extinct language|extinct]] [[Northwest Caucasian languages|Northwest Caucasian language]] once spoken by the [[Ubykh people|Ubykh]] tribe of [[Circassians]] (who originally lived along the eastern coast of the [[Black Sea]] before being deported ''en masse'' to [[Ottoman Empire|Turkey]] in the [[Circassian genocide]]).<ref name=Koerner1998>{{cite book |author=E. F. K. Koerner |title=First Person Singular III: Autobiographies by North American Scholars in the Language Sciences |url=https://books.google.com/books?id=-SYou4fhWUgC&pg=PA33 |date=1 January 1998 |publisher=John Benjamins Publishing |isbn=978-90-272-4576-2 |page=33 }}</ref>
+
+The Ubykh language was [[ergative–absolutive language|ergative]] and [[polysynthetic language|polysynthetic]], with a high degree of [[agglutination]], with [[polypersonal agreement|polypersonal]] verbal agreement and a very large number of distinct [[consonant]]s but only two [[phoneme|phonemically distinct]] [[vowel]]s. With around eighty consonants, it had one of the largest inventories of consonants in the world,<ref>Charles King, The Ghost of Freedom (2008) p 15</ref> and the largest number for any language without [[click consonant|clicks]].
+
+The name Ubykh is derived from {{lang|ady|Убыхыбзэ}} ({{IPA|/wəbəx/}}), its name in the Abdzakh [[Adyghe language]]. It is known in [[linguistics|linguistic]] literature by many names: variants of Ubykh, such as ''Ubikh'', {{lang|fr|Oubykh}} ([[French language|French]]); and ''Pekhi'' (from Ubykh {{IPA|/tʷaχə/}}) and its [[German language|German]]ised variant {{lang|de|Päkhy}}.
+
+==Major features==
+{{Unreferenced section|date=May 2020}}
+Ubykh is distinguished by the following features, some of which are shared with other Northwest Caucasian languages:
+
+* It is [[ergative–absolutive language|ergative]], making no syntactic distinction between the [[subject (grammar)|subject]] of an [[intransitive verb|intransitive]] sentence and the [[direct object]] of a [[transitive verb|transitive]] sentence. [[Split ergativity]] plays only a small part, if at all.
+* It is highly [[Agglutination|agglutinating]] and [[Polysynthetic language|polysynthetic]], using mainly monosyllabic or bisyllabic roots, but with single [[morphology (linguistics)|morphological]] words sometimes reaching nine or more syllables in length: {{IPA|/aχʲazbatɕʼaʁawdətʷaajlafaqʼajtʼmadaχ/}} ('if only you had not been able to make him take [it] all out from under me again for them'). [[Affix]]es rarely fuse in any way.
+* It has a simple [[noun|nominal]] system, contrasting just three [[noun case]]s, and not always marking [[grammatical number]] in the direct case.
+* Its system of [[Grammatical conjugation#Verbal agreement|verbal agreement]] is quite complex. English verbs must agree only with the subject; Ubykh verbs must agree with the subject, the direct object and the [[indirect object]], and [[benefactive]] objects must also be marked in the verb.
+* It is [[phonology|phonologically]] complex as well, with 84 distinct [[consonant]]s (four of which, however, appear only in [[loan word]]s). According to some linguistic analyses, it only has two phonological vowels, but these vowels have a large range of [[allophone]]s because the range of consonants which surround them is so large.
+
+== Phonology ==
+{{Unreferenced section|date=May 2020}}
+{{Main|Ubykh phonology}}
+Ubykh has 84 phonemic consonants, a record high amongst languages without [[click consonants]], but only 2 phonemic vowels. Four of these consonants are found only in loanwords and [[onomatopoeiae]]. There are nine basic places of articulation for the consonants and extensive use of secondary articulation, such that Ubykh has 20 different [[Uvular consonant|uvular]] phonemes. Ubykh distinguishes three types of [[postalveolar consonant]]s: apical, laminal, and laminal closed. Regarding the vowels, since there are only two phonemic vowels, there is a great deal of allophony.
+
+==Grammar==
+=== Morphosyntax ===
+
+Ubykh is agglutinative and [[polysynthetic language|polysynthetic]]: {{IPA|/ʃəkʲʼaajəfanamət/}} ('we will not be able to go back'), {{IPA|/awqʼaqʼajtʼba/}} ('if you had said it'). It is often extremely concise in its word forms.
+
+The boundaries between nouns and verbs is somewhat blurred. Any noun can be used as the root of a stative verb ({{IPA|/məzə/}} 'child', {{IPA|/səməzəjtʼ/}} 'I was a child'), and many verb roots can become nouns simply by the use of noun affixes ({{IPA|/qʼa/}} 'to say', {{IPA|/səqʼa/}} 'what I say').<ref>Dumézil, G. 1975 Le verbe oubykh: études descriptives et comparatives (The Ubykh Verb: Descriptive and Comparative Studies). Paris: Imprimerie Nationale</ref><ref>Hewitt, B. G. 2005 North-West Caucasian. Lingua 115: 91-145.</ref>
+
+==== Nouns ====
+The noun system in Ubykh is quite simple. It has three noun cases (the oblique-ergative case may be two homophonous cases with differing function, thus presenting four cases in total):
+* direct or [[absolutive case]], marked with the bare [[root (linguistics)|root]]; this indicates the [[subject (grammar)|subject]] of an intransitive sentence and the [[direct object]] of a transitive sentence (e.g. {{IPA|/tət/}} 'a man')
+* oblique-[[ergative case]], marked in -{{IPA|/n/}}; this indicates either the subject of a [[transitive verb|transitive]] sentence, targets of [[preverb]]s, or [[indirect object]]s which do not take any other suffixes ({{IPA|/məzən/}} '(to) a child')
+* [[locative case]], marked in -{{IPA|/ʁa/}}, which is the equivalent of English ''in'', ''on'' or ''at''.
+
+The [[instrumental case]] (-{{IPA|/awn(ə)/}}) was also treated as a case in Dumézil (1975). Another pair of [[postposition]]s, -{{IPA|/laaq/}} ('to[wards]') and -{{IPA|/ʁaafa/}} ('for'), have been noted as synthetic [[dative]]s (e.g. {{IPA|/aχʲəlaaq astʷadaw/}} 'I will send it to the prince'), but their status as cases is also best discounted.
+
+Nouns do not distinguish [[grammatical gender]]. The [[definite article]] is {{IPA|/a/}} (e.g. {{IPA|/atət/}} 'the man'). There is no [[indefinite article]] directly equivalent to the English ''a'' or ''an'', but {{IPA|/za/}}-(root)-{{IPA|/ɡʷara/}} (literally 'one'-(root)-'certain') translates French ''un'' : e.g. {{IPA|/zanajnʃʷɡʷara/}} ('a certain young man').
+
+[[Number]] is only marked on the noun in the ergative case, with -{{IPA|/na/}}. The number marking of the absolutive argument is either by [[suppletion|suppletive]] verb roots (e.g. {{IPA|/akʷən blas/}} 'he is in the car' vs. {{IPA|/akʷən blaʒʷa/}} 'they are in the car') or by verb suffixes: {{IPA|/akʲʼan/}} ('he goes'), {{IPA|/akʲʼaan/}} ('they go'). The [[grammatical person|second person]] [[plural]] prefix {{IPA|/ɕʷ/}}- triggers this plural suffix regardless of whether that prefix represents the ergative, the absolutive, or an [[oblique argument]]: 
+*Absolutive: {{IPA|/ɕʷastʷaan/}} ('I give you all to him')
+*Oblique: {{IPA|/səɕʷəntʷaan/}} ('he gives me to you all')
+*Ergative: {{IPA|/asəɕʷtʷaan/}}  ('you all give it/them to me')
+Note that, in this last sentence, the plurality of ''it'' ({{IPA|/a/}}-) is obscured; the meaning can be either 'You all give ''it'' to me' or 'You all give ''them'' to me'.
+
+[[Adjective]]s, in most cases, are simply suffixed to the noun: {{IPA|/tʃəbʒəja/}} ('pepper') with {{IPA|/pɬə/}} ('red') becomes {{IPA|/tʃəbʒəjapɬə/}} ('red pepper'). Adjectives do not [[declension|decline]].
+
+[[Postposition]]s are rare; most locative [[semantics|semantic]] functions, as well as some non-local ones, are provided with [[preverb]]al elements: {{IPA|/asχʲawtxqʼa/}} ('you wrote it for me'). However, there are a few postpositions: {{IPA|/səʁʷa səɡʲaatɕʼ/}} ('like me'), {{IPA|/aχʲəlaaq/}} ('near the prince').
+
+==== Verbs ====
+
+A [[past tense|past]]{{ndash}}[[present tense|present]]{{ndash}}[[future tense|future]] distinction of verb [[Grammatical tense|tense]] exists (the suffixes -{{IPA|/qʼa/}} and -{{IPA|/awt/}} represent past and future) and an [[imperfective aspect]] suffix is also found (-{{IPA|/jtʼ/}}, which can combine with tense suffixes). Dynamic and stative verbs are contrasted, as in [[Arabic language|Arabic]], and verbs have several [[gerund|nominal]] forms. Morphological [[causative]]s are not uncommon. The conjunctions {{IPA|/ɡʲə/}} ('and') and {{IPA|/ɡʲəla/}} ('but') are usually given with verb suffixes, but there is also a free particle corresponding to each:
+*-{{IPA|/ɡʲə/}} 'and' (free particle {{IPA|/ve/}}, borrowed from Arabic);
+*-{{IPA|/ɡʲəla/}} 'but' (free particle {{IPA|/aʁʷa/}})
+
+Pronominal [[benefactive]]s are also part of the verbal complex, marked with the preverb {{IPA|/χʲa/}}-, but a benefactive cannot normally appear on a verb that has three agreement prefixes already.
+
+[[Grammatical gender|Gender]] only appears as part of the [[grammatical person|second person]] paradigm, and then only at the speaker's discretion. The feminine second person index is {{IPA|/χa/}}-, which behaves like other pronominal prefixes: {{IPA|/wəsχʲantʷən/}} ('he gives [it] to you [normal; gender-neutral] for me'), but compare {{IPA|/χasχʲantʷən/}} 'he gives [it] to you [feminine] for me').
+
+==== Adverbials ====
+A few meanings covered in [[English language|English]] by [[adverb]]s or [[auxiliary verb]]s are given in Ubykh by verb suffixes:
+
+*{{IPA|/asfəpχa/}} ('I need to drink it')
+*{{IPA|/asfəfan/}} ('I can drink it')
+*{{IPA|/asfəɡʲan/}} ('I drink it all the time')
+*{{IPA|/asfəlan/}} ('I am drinking it all up')
+*{{IPA|/asfətɕʷan/}} ('I drink it too much')
+*{{IPA|/asfaajən/}} ('I drink it again')
+
+==== Questions ====
+[[Question]]s may be marked grammatically, using verb suffixes or prefixes:
+
+*Yes{{ndash}}no questions with -{{IPA|/ɕ/}}: {{IPA|/wana awbjaqʼaɕ/}}? ('did you see that?')
+*Complex questions with -{{IPA|/j/}}: {{IPA|/saakʲʼa wəpʼtsʼaj/}}? ('what is your name?')
+
+Other types of questions, involving the pronouns 'where' and 'what', may also be marked only in the verbal complex: {{IPA|/maawkʲʼanəj/}} ('where are you going?'), {{IPA|/saawqʼaqʼajtʼəj/}} ('what had you said?').
+
+==== Preverbs and determinants ====
+Many local, prepositional, and other functions are provided by [[preverb]]al elements providing a large series of [[applicative voice|applicative]]s, and here Ubykh shows remarkable complexity. Two main types of preverbal elements exist: determinants and preverbs. The number of preverbs is limited, and mainly show [[Location (geography)|location]] and [[Direction (geometry, geography)|direction]]. The number of determinants is also limited, but the class is more [[open class word|open]]; some determinant prefixes include {{IPA|/tʃa/}}- ('with regard to a horse') and {{IPA|/ɬa/}}- ('with regard to the foot or base of an object').
+
+For simple locations, there are a number of possibilities that can be encoded with preverbs, including (but not limited to):
+* above and touching
+* above and not touching
+* below and touching
+* below and not touching
+* at the side of
+* through a space
+* through solid matter
+* on a flat horizontal surface
+* on a non-horizontal or vertical surface
+* in a homogeneous mass
+* towards
+* in an upward direction
+* in a downward direction
+* into a tubular space
+* into an enclosed space
+There is also a separate directional preverb meaning 'towards the speaker': {{IPA|/j/}}-, which occupies a separate slot in the verbal complex. However, preverbs can have meanings that would take up entire phrases in English. The preverb {{IPA|/jtɕʷʼaa/}}- signifies 'on the earth' or 'in the earth', for instance: {{IPA|/ʁadja ajtɕʷʼaanaaɬqʼa/}} ('they buried his body'; literally, "they put his body in the earth"). Even more narrowly, the preverb {{IPA|/faa/}}- signifies that an action is done out of, into or with regard to a fire: {{IPA|/amdʒan zatʃətʃaqʲa faastχʷən/}} ('I take a brand out of the fire').
+
+== Orthography ==
+Writing systems for the Ubykh language have been proposed,<ref name="fenwick">{{cite book|last=Fenwick|first=R. S. H.|title=A Grammar of Ubykh|year=2011|publisher=Lincom Europa|location=Munich}}</ref> but there has never been a standard written form.
+
+== Lexicon ==
+{{Unreferenced section|date=May 2020}}
+
+=== Native vocabulary ===
+Ubykh [[syllable]]s have a strong tendency to be CV, although VC and CVC also exist. [[Consonant cluster]]s are not as large as in Abzhywa [[Abkhaz language|Abkhaz]] or in [[Georgian language|Georgian]], rarely being larger than two terms. Three-term clusters exist in two words - {{IPA|/ndʁa/}} ('sun') and {{IPA|/psta/}} ('to swell up'), but the latter is a loan from Adyghe, and the former more often pronounced {{IPA|/nədʁa/}} when it appears alone.
+[[Compound (linguistics)|Compounding]] plays a large part in Ubykh and, indeed, in all Northwest Caucasian [[semantics]]. There is no verb equivalent to English ''to love'', for instance; one says "I love you" as {{IPA|/tʂʼanə wəzbjan/}} ('I see you well').
+
+[[Reduplication]] occurs in some roots, often those with [[onomatopoeia|onomatopoeic]] values ({{IPA|/χˤaχˤa/}}, 'to curry[comb]' from {{IPA|/χˤa/}} 'to scrape'; {{IPA|/kʼərkʼər/}}, 'to cluck like a chicken' [a loan from Adyghe]); and {{IPA|/warqwarq/}}, 'to croak like a frog').
+
+Roots and affixes can be as small as one phoneme. The word {{IPA|/wantʷaan/}}, 'they give you to him', for instance, contains six phonemes, each a separate morpheme:
+
+*{{IPA|/w/}} - 2nd singular absolutive
+*{{IPA|/a/}} - 3rd singular dative
+*{{IPA|/n/}} - 3rd ergative
+*{{IPA|/tʷ/}} - to give
+*{{IPA|/aa/}} - ergative plural
+*{{IPA|/n/}} - present tense
+
+However, some words may be as long as seven [[syllable]]s (although these are usually compounds): {{IPA|/ʂəqʷʼawəɕaɬaadətʃa/}} ('staircase').
+
+=== Slang and idioms ===
+As with all other languages, Ubykh is replete with [[idiom]]s. The word {{IPA|/ntʷa/}} ('door'), for instance, is an idiom meaning either "magistrate", "court", or "government." However, idiomatic constructions are even more common in Ubykh than in most other languages; the representation of abstract ideas with series of concrete elements is a characteristic of the Northwest Caucasian family. As mentioned above, the phrase meaning "I love you" translates literally as 'I see you well'; similarly, "you please me" is literally 'you cut my heart'. The term {{IPA|/wərəs/}} ('Russian'), an Arabic loan, has come to be a slang term meaning "infidel", "non-Muslim" or "enemy" (see [[#History|History]] below).
+
+=== Foreign loans ===
+The majority of loanwords in Ubykh are derived from either [[Adyghe language|Adyghe]] or [[Arabic language|Arabic]], with smaller numbers from [[Persian language|Persian]], [[Abkhaz language|Abkhaz]], and the [[South Caucasian languages]]. Towards the end of Ubykh's life, a large influx of Adyghe words was noted; Vogt (1963) notes a few hundred examples. The phonemes {{IPA|/ɡ/ /k/ /kʼ/}} were borrowed from Arabic and Adyghe. {{IPA|/ɬʼ/}} also appears to come from Adyghe, although it seems to have arrived earlier on. It is possible, too, that {{IPA|/ɣ/}} is a loan from Adyghe, since most of the few words with this phoneme are obvious Adyghe loans: {{IPA|/paaɣa/}} ('proud'), {{IPA|/ɣa/}} ('testis').
+
+Many loanwords have Ubykh equivalents, but were dwindling in usage under the influence of Arabic, Circassian, and Russian equivalents:
+* {{IPA|/bərwə/}} ('to make a hole in, to perforate' from Iranic languages) = {{IPA|/pɕaatχʷ/}}
+* {{IPA|/tʃaaj/}} ('tea' from Chinese) = {{IPA|/bzəpɕə/}}
+* {{IPA|/wərəs/}} ('enemy' from Persian) = {{IPA|/bˤaqˤʼa/}}
+
+Some words, usually much older ones, are borrowed from less influential stock: Colarusso (1994) sees {{IPA|/χˤʷa/}} ('pig') as a borrowing from a proto-[[Semitic languages|Semitic]] *''huka'', and {{IPA|/aɡʲarə/}} ('slave') from an [[Iranian language|Iranian]] root; however, Chirikba (1986) regards the latter as being of Abkhaz origin ( ← Abkhaz ''agər-wa'' 'lower cast of peasants; slave', literally 'Megrelian').
+
+== Evolution ==
+
+In the scheme of Northwest Caucasian evolution, despite its parallels with Adyghe and Abkhaz, Ubykh forms a separate third branch of the family. It has fossilised palatal class markers where all other Northwest Caucasian languages preserve traces of an original labial class: the Ubykh word for 'heart', {{IPA|/ɡʲə/}}, corresponds to the reflex {{IPA|/ɡʷə/}} in Abkhaz, Abaza, Adyghe, and Kabardian. Ubykh also possesses groups of pharyngealised consonants. All other NWC languages possess true pharyngeal consonants, but Ubykh is the only language to use pharyngealisation as a feature of secondary articulation.
+
+With regard to the other languages of the family, Ubykh is closer to Adyghe and Kabardian{{Contradict-inline|article=Abkhaz language#Classification|date=June 2013}} but shares many features with Abkhaz due to geographic influence;<!-- how so? Ubykh was not spoken in Abkhazia --> many later Ubykh speakers were bilingual in Ubykh and Adyghe.<!-- this actually suggests that [[Abkhaz language#Classification]] is right and that it is the other way round: Bilinguality suggests geographical/areal contact influence from Adyghe, rather than Abkhaz, which wasn't spoken in the same area, after all -->
+
+=== Dialects ===
+While not many dialects of Ubykh existed, one divergent [[dialect]] of Ubykh has been noted (in Dumézil 1965:266-269). Grammatically, it is similar to standard Ubykh (i.e. [[Tevfik Esenç]]'s dialect), but has a very different sound system, which had collapsed into just 62-odd phonemes:
+* {{IPA|/dʷ/ /tʷ/ /tʷʼ/}} have collapsed into {{IPA|/b/ /p/ /pʼ/}}.
+* {{IPA|/ɕʷ/ /ʑʷ/}} are indistinguishable from {{IPA|/ʃʷ/ /ʒʷ/}}.
+* {{IPA|/ɣ/}} seems to have disappeared.
+* Pharyngealisation is no longer distinctive, having been replaced in many cases by [[geminate]] consonants.
+* Palatalisation of the uvular consonants is no longer phonemic.
+
+== History ==
+Ubykh was spoken in the eastern coast of the [[Black Sea]] around [[Sochi]] until 1864, when the Ubykhs were driven out of the region by the [[Russia]]ns. They eventually came to settle in [[Turkey]], founding the villages of [[Hacı Osman]], [[Kırkpınar (village)|Kırkpınar]], Masukiye and [[Hacı Yakup]]. [[Arabic language|Arabic]] and [[Circassian language|Circassian]] eventually became the preferred languages for everyday communication, and many words from these languages entered Ubykh in that period.
+
+The Ubykh language [[extinct language|died out]] on 7 October 1992, when its last fluent speaker, [[Tevfik Esenç]], died.<ref name=Koerner1998/> Before his death, thousands of pages of material and many audio recordings had been collected and collated by a number of linguists, including [[Georges Charachidzé]], [[Georges Dumézil]], [[Hans Vogt (linguist)|Hans Vogt]], [[George Hewitt (linguist)|George Hewitt]] and [[A. Sumru Özsoy]], with the help of some of its last speakers, particularly Tevfik Esenç and [[Huseyin Kozan]].<ref name=Koerner1998/> Ubykh was never [[written language|written]] by its speech community, but a few phrases were transcribed by [[Evliya Celebi]] in his [[Seyahatname]] and a substantial portion of the oral literature, along with some cycles of the [[Nart saga]], was transcribed. Tevfik Esenç also eventually learned to write Ubykh in the transcription that Dumézil devised.
+
+[[Julius von Mészáros]], a [[Hungary|Hungarian]] linguist, visited Turkey in 1930 and took down some notes on Ubykh. His work ''[[Die Päkhy-Sprache]]'' was extensive and accurate to the extent allowed by his transcription system (which could not represent all the phonemes of Ubykh) and marked the foundation of Ubykh linguistics.
+
+The [[France|Frenchman]] [[Georges Dumézil]] also visited Turkey in 1930 to record some Ubykh and would eventually become the most celebrated Ubykh linguist. He published a collection of Ubykh folktales in the late 1950s, and the language soon attracted the attention of linguists for its small number of phonemic vowels. [[Hans Vogt (linguist)|Hans Vogt]], a [[Norway|Norwegian]], produced a monumental [[dictionary]] that, in spite of its many errors (later corrected by Dumézil), is still one of the masterpieces and essential tools of Ubykh linguistics.
+
+Later in the 1960s and into the early 1970s, Dumézil published a series of papers on Ubykh [[etymology]] in particular and Northwest Caucasian etymology in general. Dumézil's book ''Le Verbe Oubykh'' (1975), a comprehensive account of the verbal and nominal morphology of the language, is another cornerstone of Ubykh linguistics.
+
+Since the 1980s, Ubykh [[linguistics]] has slowed drastically. No other major treatises have been published; however, the Dutch linguist [[Rieks Smeets]] is currently trying to compile a new Ubykh dictionary based on Vogt's 1963 book, and a similar project is also underway in Australia. The Ubykh themselves have shown interest in relearning their language.
+
+The Abkhaz writer [[Bagrat Shinkuba]]'s historical novel [http://www.circassianlibrary.org/lib/html/Shinkuba-The_Last_of_the_Departed/contents.html Bagrat Shinkuba. ''The Last of the Departed''] treats the fate of the Ubykh people.
+
+People who have published literature on Ubykh include
+* [[Brian George Hewitt]]
+* Brian Fell
+* Catherine Paris
+* Christine Leroy
+* Georg Bossong
+* [[Georges Dumézil]]
+* [[Hans Vogt (linguist)|Hans Vogt]]
+* [[John Colarusso]]
+* Julius von Mészáros
+* Rieks Smeets
+* Rhona (formerly Rohan) Fenwick
+* [[Tevfik Esenç]]
+* [[Viacheslav Chirikba]]
+* Wim Lucassen
+
+===Notable characteristics===
+Ubykh had been cited in the ''Guinness Book of Records'' (1996 ed.) as the language with the most consonant [[phoneme]]s, but since 2017 the [[Taa language|!Xóõ language]] (a member of the Tuu languages) has been considered by the book to have broken that record, with 130 consonants.<ref>{{Cite web|title=Language with most consonants|url=https://www.guinnessworldrecords.com/world-records/67421-language-with-most-consonants|access-date=2021-07-29|website=Guinness World Records|language=en-GB}}</ref> Ubykh has 20 [[uvular consonant|uvular]] and 29 pure [[fricative]] phonemes, more than any other known language.
+
+===Samples===
+All examples from Dumézil 1968.<ref>{{cite web |url=http://lacito.vjf.cnrs.fr/archivage/tools/show_text.php?id=crdo-UBY_POISSON_SOUND |title=Archived copy |access-date=2009-12-23 |url-status=dead |archive-url=https://web.archive.org/web/20101228030455/http://lacito.vjf.cnrs.fr/archivage/tools/show_text.php?id=crdo-UBY_POISSON_SOUND |archive-date=2010-12-28 }}</ref>
+
+{{interlinear|glossing3=yes|number=ex:
+|Faːχe tʼqʼokobʒe kʼeʁən azaχeʃinan amʁen ɡikeqʼan.{{#tag:ref|''{{IPA|ɡʲə-w-qʼa.}}'' (on-enter(SG)-past) vs ''{{IPA|ɡʲə-kʲa-qʼa-n.}}''(on-enter(PL)-past-PL)|group=#}}
+|faaχʲa tʼqʷʼa-kʷabʒa kʲʼaʁə-n a-za-χʲa-ʃə-na-n a-mʁʲa-n ɡʲə-kʲa-qʼa-n
+|once two-man friend-[[adverbial|ADV]] they-each.other-[[benefactive|BEN]]-become-PL-ADV the-road-[[oblique case|OBL]] on-enter(PL)-past-PL
+|Once, two men set out together on the road.}}
+
+{{interlinear|glossing3=yes|number=ex:
+|Afoːtənə mʁøːuf aχodoːtən akʼenan, azan fatɕʼaːla ɕybˤaːla χodaqʼa;
+|a-f-awtə-nə mʁʲawəf a-χʷada-awtə-n a-kʲʼa-na-n a-za-n fatɕʼ-aala ɕʷəbˤa-aala χʷada-qʼa
+|they-eat-FUT-ADV provisions they-buy-FUT-ADV they-go-PL-ADV the-one-ERG cheese-and  bread-and buy-PAST
+|They went to buy some provisions for the journey; the one bought cheese and bread}}
+
+{{interlinear|glossing3=yes|number=ex:
+|Aːjdəχəŋɡi ɕybˤaːla psaːla χodan eːnuːqʼa.
+|aajdə-χə-n-ɡʲə ɕʷəbˤa-aala psa-aala χʷada-n a-j-nə-w-qʼa
+|other-of-ERG-and bread-and fish-and buy-ADV it-hither-he-bring-past
+|and the other bought bread and fish.}}
+
+{{interlinear|glossing3=yes|number=ex:
+|Amʁen ɡikenan akʼenaɡi wofatɕʼ dəχodaqʼeːtʼə ʁakʼeʁʁaːfa
+|a-mʁʲa-n ɡʲə-kʲa-na-n a-kʲ'a-na-gʲə wa-fatɕʼ də-χʷada-qʼajtʼ-ə ʁa-kʲʼaʁ-ʁaafa
+|the-road-OBL on-enter(PL)-PL-[[gerund|GER]] they-go-PL-ADV that-cheese [[Relative clause|REL]]-buy-[[pluperfect|PLUP]]-GER his-friend-towards
+|While they were on the road, the one who had bought the cheese asked the other}}
+
+{{interlinear|glossing3=yes|number=ex:
+|"ɕoɬa psa jeda ɕʷfaːn;"{{#tag:ref|Only Tevfik Esenç pronounced ''{{IPA|"ɕʷəʁʷa(ɬa)"}}'' (Karacalar dialect:''{{IPA|"ɕʷəʁʷa"}}'') as ''{{IPA|"ɕʷaɬa"}}''.<ref name="fenwick" />|group=#}}
+|ɕʷaɬa psa jada ɕʷ-f-aa-n
+|you.all fish much you.all-eat-PL-[[present tense|PRES]]
+|"You people eat a lot of fish;"}}
+
+{{interlinear|glossing3=yes|number=ex:
+|"Saːba wanaŋɡʲaːfə psa ɕʷfaːniː?" qʼan ʁaːdzʁaqʼa.
+|saaba wana-n-ɡʲaafə psa ɕʷ-f-aa-nə-j qʼa-n ʁa-aa-dzʁa-qʼa
+|why that-OBL-as.much.as fish you.all-eat-PL-PRES-Q say-ADV him-to-ask-past
+|"why do you eat fish as much as that?"}}
+
+{{interlinear|glossing3=yes|number=ex:
+|"Psa ufəba utɕʼe jeda ʃoːt,"
+|psa wə-fə-ba wə-tɕʼa jada ʃ-awt
+|fish you-eat-if your-knowledge much become-FUT
+|"If you eat fish, you get smarter,"}}
+
+{{interlinear|glossing3=yes|number=ex:
+|"Wonaʁaːfa ʃaɬa psa jeda ʃfən," qʼaqʼa.{{#tag:ref|Only Tevfik Esenç pronounced ''{{IPA|"ʃəʁʷa(ɬa)"}}'' (Karacalar dialect:''{{IPA|"ʃəʁʷa"}}'') as ''{{IPA|"ʃaɬa"}}''.<ref name="fenwick" />|group=#}}
+|wana-ʁaafa ʃaɬa psa jada ʃ-fə-n qʼa-qʼa
+|that-for we fish much we-eat-PRES say-PAST
+|"so we eat a lot of fish," he answered.}}
+
+*Notes
+{{Reflist|group=#}}
+
+==See also==
+*[[North Caucasian languages]]
+
+==References==
+{{Reflist}}
+
+==Bibliography==
+* [[Viacheslav Chirikba]] (1986). Abxazskie leksicheskie zaimstvovanija v ubyxskom jazyke (Abkhaz Lexical Loans in Ubykh). Problemy leksiki i grammatiki jazykov narodov Karachaevo-Cherkesii: Sbornik nauchnyx trudov (Lexical and Grammatical Problems of the Karachay-Cherkessian National Languages: A Scientific Compilation). ''Cherkessk'', 112–124.
+* [[Viacheslav Chirikba]] (1996). ''Common West Caucasian. The Reconstruction of its Phonological System and Parts of its Lexicon and Morphology''. Leiden: CNWS Publications.
+* [[John Colarusso|Colarusso, J.]] (1994). Proto-Northwest Caucasian (Or How To Crack a Very Hard Nut). ''Journal of Indo-European Studies'' '''22''', 1-17.
+* [[Georges Dumézil|Dumézil, G.]] (1961). ''Etudes oubykhs'' (Ubykh Studies). Paris: Librairie A. Maisonneuve.
+* [[Georges Dumézil|Dumézil, G.]] (1965). ''Documents anatoliens sur les langues et les traditions du Caucase (Anatolian Documents on the Languages and Traditions of the Caucasus), III: Nouvelles études oubykhs'' (New Ubykh Studies). Paris: Librairie A. Maisonneuve.
+* [[Georges Dumézil|Dumézil, G.]] (1968). Eating Fish Makes You Clever. Annotated recording available via [http://lacito.vjf.cnrs.fr/archivage/tools/show_text.php?id=crdo-UBY_POISSON_SOUND].
+* [[Georges Dumézil|Dumézil, G.]] (1975). ''Le verbe oubykh: études descriptives et comparatives'' (The Ubykh Verb: Descriptive and Comparative Studies). Paris: Imprimerie Nationale.
+* Hewitt, B. G. (2005). North-West Caucasian. ''Lingua''. '''115''', 91-145.
+* Mészáros, J. von. (1930). ''Die Päkhy-Sprache'' (The Ubykh Language). Chicago: University of Chicago Press.
+* [[Hans Vogt (linguist)|Vogt, H.]] (1963). ''Dictionnaire de la langue oubykh'' (Dictionary of the Ubykh Language). Oslo: Universitetsforlaget.
+
+==External links==
+* [http://www.omniglot.com/writing/ubykh.htm Two proposals for a practical orthography for Ubykh]
+* YouTube: [https://www.youtube.com/watch?v=vRj-8oCmnkU Tevfik Esenç narrating the story of the two travellers and the fish in Ubykh]
+* [http://lacito.vjf.cnrs.fr/pangloss/corpus/list_rsc.php?lg=Ubykh&aff=oubykh A number of narrations by Tevfik Esenç, WAV format]
+* [http://archive.phonetics.ucla.edu/Language/UBY/uby.html Ubykh word list and recordings]
+
+{{Northwest Caucasian languages}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ubykh Language}}
+[[Category:Ubykh language| ]]
+[[Category:Agglutinative languages]]
+[[Category:Northwest Caucasian languages]]
+[[Category:Extinct languages of Europe]]
+[[Category:Languages of Russia]]
+[[Category:Languages of Turkey]]
+[[Category:Vertical vowel systems]]

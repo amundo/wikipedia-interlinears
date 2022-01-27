@@ -1,0 +1,689 @@
+{{Short description|Ndu language spoken in Papua New Guinea}}
+{{Infobox language 
+|name=Iatmül
+|nativename=''gepmakudi''
+|states=[[Papua New Guinea]]
+|region=[[Sepik River]] basin
+|ethnicity=[[Iatmul people]]
+|speakers={{sigfig|8440|2}} 
+|date=2003
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Sepik languages|Sepik]]
+|fam2=[[Middle Sepik languages|Middle Sepik]]
+|fam3=[[Ndu languages|Ndu]]
+|dia1=Nyaula or Nyaura (Western)
+|dia2=Pali'bei or Palimbei (Central)
+|dia3=Waliakwi (Eastern)|dia4=Maligwat (Northern)|iso3=ian
+|glotto=iatm1242
+|glottorefname=Iatmul
+}}
+[[File:East Sepik in Papua New Guinea.svg|thumb|363x363px|[[East Sepik Province]] in [[Papua New Guinea]]]]
+'''Iatmul''' is the language of the [[Iatmul people]], spoken around the [[Sepik|Sepik River]] in the [[East Sepik Province]], northern [[Papua New Guinea]].<ref name=":0">Jendraschek, Gerd (2012) ''[https://www.academia.edu/1247243/A_grammar_of_Iatmul A Grammar of Iatmul]''. University of Regensburg, p. 1.</ref> The Iatmul, however, do not refer to their language by the term Iatmul, but call it ''gepmakudi'' ("village language", from gepma = "village" and kudi "speech"; pronounced as {{IPA|[ŋɡɛpmaɡundi]}}).<ref>Jendraschek, Gerd (2012) ''[https://www.academia.edu/1247243/A_grammar_of_Iatmul A Grammar of Iatmul]''. University of Regensburg, p. 9.</ref>
+
+There are about 8,400 Iatmul traditionally organized in villages, whereas a total amount of 46,000 speakers is estimated.<ref>Jendraschek, Gerd (2012) ''[https://www.academia.edu/1247243/A_grammar_of_Iatmul A Grammar of Iatmul]''. University of Regensburg, p. 3.</ref> The inhabitants of the villages are [[trilingual]], being fluent with [[Tok Pisin]], good with Iatmul and having some knowledge of English. Tok Pisin is also the first language of the youngest children, despite efforts to revise this trend.<ref>Jendraschek, Gerd (2012) ''[https://www.academia.edu/1247243/A_grammar_of_Iatmul A Grammar of Iatmul]''. University of Regensburg, p. 8f.</ref>
+
+An extensive grammar of Iatmul has been recently written by [[Gerd Jendraschek]] as a postdoctoral thesis.<ref name=":0" />
+
+== Typological profile ==
+Iatmul is part of the [[Ndu languages|Ndu language family]], which consists of at least six languages in which ''ndu'' is the word for 'man'. Together with Manambu it is the southernmost language of the Ndu family, spoken along the Sepik River.<ref>Jendraschek, Gerd (2012) ''[https://www.academia.edu/1247243/A_grammar_of_Iatmul A Grammar of Iatmul]''. University of Regensburg, p. 7.</ref> Iatmul is perhaps the best known Ndu language of them all.<ref>Folely, William (1986) ''The Papuan Languages of New Guinea''. Cambridge: Cambridge University Press. {{ISBN|0-521-28621-2}}.</ref>
+
+Iatmul is a moderately [[Agglutinative language|agglutinative]] and nearly [[isolating language]]. Flexion is predominantly suffixed and very regular, whereas the [[phonological processes]] are the most complex ones within the language. Stems often change their form while multiple-[[morpheme]] structures can become so coalescent that they are difficult to segment.<ref name=":28">Jendraschek, Gerd (2012) ''[https://www.academia.edu/1247243/A_grammar_of_Iatmul A Grammar of Iatmul]''. University of Regensburg, p. 21.</ref>
+
+Iatmul has masculine and feminine gender marking as well as singular, dual and plural numbers.<ref name=":26">Jendraschek 2012: 22</ref> [[Noun]]s and [[verb]]s are the only two major classes in Iatmul with only little derivation across them.<ref name=":26" /> Also, there is not a strong distinction between modifiers and nouns as many [[Root (linguistics)|roots]] can be used as nouns, adjectives or adverbs.<ref>Jendraschek 2012: 23</ref> Smaller word classes include [[personal pronouns]], [[demonstrative]]s, [[postpositions]], [[Quantifier (linguistics)|quantifiers]], [[Interrogative word|interrogatives]] as well as [[proclause]]s (yes, no), while there are no clause-linking [[Conjunction (grammar)|conjunctions]].<ref>Jendraschek 2012: 23ff.</ref>
+
+==Phonological system==
+
+=== Vowel and consonant phonemes ===
+The [[phonological]] system of Iatmul is a matter of controversy among scholars. There is no consensus about how many [[vowel]]s Iatmul has and about which realisations are to be considered as [[phoneme]]s or [[allophone]]s. There were attempts of analysing the language as consisting of only 1-3 vowels by Staalsen (1966) and Laycock (1991).<ref>Jendraschek 2012: 25f.</ref> Jendraschek (2012) in contrast describes 12 phonemic [[monophthong]]s and 7 phonemic [[diphthong]]s.<ref name=":4">Jendraschek 2012: 47</ref>
+
+{| class="wikitable" style="float:left; margin-right:2em"
+|+Monophthongs of Iatmul<ref name=":4" />
+!
+! colspan="2" | Front
+! colspan="2" | Central
+! colspan="2" | Back
+|-
+! High
+| align="center" | {{IPA|i}}
+|
+| rowspan="2" colspan="2" align="center" | {{IPA|ɨ}}
+| align="center" | {{IPA|u}}
+|{{IPA|u:}}
+|-
+! Mid
+| align="center" | {{IPA|e}}
+|{{IPA|e:}}
+|
+|{{IPA|o}}
+|-
+! Low
+|{{IPA|a}}
+|{{IPA|aʔ}}
+| align="center" | {{IPA|a:}}
+|
+| &nbsp;{{IPA|ɑ}}
+|{{IPA|ɑʔ}}
+|}
+{| class="wikitable" style="float:left"
+|+Diphthongs of Iatmul<ref>Jendraschek 2012: 47-49</ref>
+!
+! colspan="2" | Front
+! colspan="2" | Back
+|-
+! High
+| align="center" | {{IPA|ɨi̯}}
+|
+| align="center" |
+|
+|-
+! Mid
+| align="center" | {{IPA|ɛɪ̯}}
+|
+|{{IPA|ou̯}}
+|
+|-
+! Low
+|{{IPA|ai̯}}
+|{{IPA|ɒi̯}}
+|{{IPA|aːʊ̯}}
+|{{IPA|aʊ̯}}
+|}
+
+<div style="clear:both"></div>
+
+{| class="wikitable" style="text-align:center"
+|+Consonant Phonemes of Iatmul<ref>Jendraschek 2012: 50</ref>
+!
+! colspan="2" |&nbsp;
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+|- align="center"
+! rowspan="6" |[[Obstruent]]
+! style="text-align: center;" rowspan="4" | [[Stop consonant|Stop]] || [[Fortis consonant|fortis]]
+| {{IPA|pp}}
+| {{IPA|tt}}
+| &nbsp;
+| {{IPA|kk}}
+|-
+![[Nasal consonant|nasal]]
+|
+|
+|
+|{{IPA|kŋ}} 
+|-
+![[Oral consonant|oral]]
+|{{IPA|p}}
+|{{IPA|t}}
+|
+|{{IPA|k}}
+|- align="center"
+! [[Prenasalized consonant|prenasalized]]
+| {{IPA|ᵐb}}
+| {{IPA|ⁿd}}
+|
+| {{IPA|ᵑɡ}}
+|-
+! colspan="2" |[[Affricative]]
+|
+|{{IPA|t͡ʃ}}  {{IPA|d͡ʒ}}
+|
+|
+|- align="center"
+! colspan="2" | [[Fricative consonant|Fricative]]
+| {{IPA|β}}
+| {{IPA|s}}
+|
+|
+|- align="center"
+! rowspan="3" |[[Sonorant]]
+! colspan="2" | [[nasal consonant|Nasal]]
+| {{IPA|m}}
+| {{IPA|n}}
+| {{IPA|ɲ}} 
+|
+|- align="center"
+! colspan="2" | [[liquid consonant|Liquid]]
+| 
+| {{IPA|l}}, {{IPA|ɾ}}
+| 
+| &nbsp;
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|
+|
+|{{IPA|j}} 
+|{{IPA|w}}
+|}
+
+=== Segmental phonology ===
+
+==== Syllable structure ====
+The canonical [[syllable]] structure of Iatmul is C(C)V(C), where the first [[consonant]] can be any consonant. Possible [[Coda (linguistics)|codas]] are only {{IPA|[p]}}, {{IPA|[t]}}, {{IPA|[k]}}, {{IPA|[m]}}, {{IPA|[n]}}, and {{IPA|[ɲ]}}. Most words begin with the nasal consonants {{IPA|[m]}}, {{IPA|[n]}} or the plosive consonants {{IPA|[p]}}, {{IPA|[k]}}.<ref name=":1" /> Excluded from this rule are about 5% of the words in Iatmul, which begin with the vowels {{IPA|[a]}} or {{IPA|[a:]}}.<ref>Jendraschek 2012: 69</ref>
+
+==== Assimilation ====
+A very common phenomenon in Iatmul is [[regressive assimilation]].<ref name=":1">Jendraschek 2012: 74</ref>
+
+{{interlinear|number=(1)
+|kuvi'''n''' -'''b''''ik → {{IPA|[ˈkuβi'''mb'''ɨk]}}||
+|straighten {dual suffix} {} {'you/they both straightened'}|c2=<ref name=":1" />
+|}}
+
+Assimilation can be blocked to avoid ambiguity. Whereas (2a) is ambiguous due to assimilation of ''bâk'' to ''bap'', example (2b) is not ambiguous as assimilation was blocked in favour of a clear meaning.<ref name=":2">Jendraschek 2012: 78</ref>
+
+{{interlinear|number=(2) a.
+|wugi '''bap'''-ba ki’-di
+|D3.SG.M moon-LOC eat-3PL
+|'they were eating (during) that month' or<br>'they were eating (from) that pig’}}
+
+{{interlinear|number=b.
+|wugi '''bâk'''-ba ki’-di
+|D3.SG.M pig-LOC eat-3PL
+|'they were eating (from) that pig’<ref name=":2" />}}
+
+==== Elision and fusion ====
+[[Elision]] can also be encountered very frequently. In the following example, both vowel fusion and onset elision are operating at the same time, making the meaning of the final form hard to recognize.<ref name=":3">Jendraschek 2012: 80</ref>
+
+{{interlinear|number=(3)
+|wa-ka-a → wa-a → {{IPA|wa:}}|c1=<ref name=":3" />
+|say-PRS-SR {} say-PRS.SR {} {}
+|}}
+
+==== Epenthesis ====
+[[Epenthesis]] can be observed when for example focus is marked with the suffix ''-a'':
+
+{{interlinear|number=(4)
+|kada -a → kada-n-a|c1=<ref>Jendraschek 2012: 84</ref>
+|who FOC(3.SG.M) {} {}
+|}}
+
+====Reduction====
+[[Vowel reduction|Reduction]] mostly happens quantitatively, so that the vowels are shorted in their length. Qualitative reduction happens on a rare occasion and mainly occurs during monophthongization.<ref>Jendraschek 2012: 85ff.</ref>
+
+=== Lexical stress ===
+In Iatmul, words are not differentiated via [[Pitc-accent language|pitch]] or [[Accent (phonetics)|accentuation]]. The meanings of words are not autonomous, but influenced by factors like vocal length, syllable structure and speed of [[enunciation]]. The following rules are the most important ones in descending order:<ref name=":27" />
+* Long vowels are stressed (ti’'''baa'''di’ {{IPA|[tɨˈmbaːndɨ]}}, 'he can stay')
+* CVC syllables are stressed (ti’'''kali'''’ka {{IPA|[tɨˈɡaɾɡa]}}, 'meanwhile')
+* Word-initial syllables are stressed.<ref name=":27" />
+In [[Compound (linguistics)|compounds]], these rules can be randomly applied to the first or to the second word.<ref name=":27">Jendraschek 2012: 91f.</ref> As diphthongs are not stressed, there are no long monophthongized diphthongs.<ref>Jendraschek 2012: 93</ref>
+
+=== Sentence intonation ===
+A phonological utterance ends with falling [[Intonation (linguistics)|intonation]]. Simple sentences are marked via pauses. Complex sentences end with falling intonation. Questions are marked via variations in pitch. [[Focus (linguistics)|Focus]] is marked by initial high intonation and a subsequent fall of the pitch.<ref>Jendraschek 2012: 121ff.</ref>
+
+== Morphological properties ==
+
+=== Verbal structure ===
+Iatmul is a moderately [[agglutinative language]] in which [[suffix]]es are dominating.<ref name=":28" /> Therefore, much information is being expressed [[Morphology (linguistics)|morphologically]] instead of [[Syntax|syntactically]], which is true especially for the category of the verb. Information regarding actions like the direction, the manner or temporal relations are expressed via [[Derivation (linguistics)|derivation]] of the verbs. There are many [[affix]]es specifying the manner in which an action is performed, like the means or the amount of control over the action.<ref name="Jendraschek 2012: 169" />
+{| style="text-align:center"
+|+'''Structure of a fully inflected verb'''<ref name="Jendraschek 2012: 169">Jendraschek 2012: 169</ref>
+| -2
+| -1||1||2
+||3||4
+|5
+|6
+|-
+|[[Negation (linguistics)|Neg]]
+|Manner||Root(s)||Directional||[[Event-specifier]]||[[Grammatical aspect|Aspect]]
+|[[Tense–aspect–mood|Tense/Mood]]
+|Subject-agreement
+|-
+| colspan="5" |Derivation -------------------------------------------------------→
+|
+| colspan="2" |←------------------------ Inflection
+|}
+
+==== Tense, mood and aspect ====
+Temporal marking exists in [[present tense]] and [[past tense]], but not in the future tense. The marker for the present tense is ''-ka'' and in some cases the allomorph ''-a.'' The past tense is unmarked. Thus, some tenses can be distinguished only by the length of a single vowel.<ref name=":19">Jendraschek 2012: 191f.</ref>
+
+{{interlinear|number=(1) a.
+|kiy'''a'''-'''a'''-di'
+|bring-PRS-3SG.M
+|'he brings'}}
+
+{{interlinear|number=b.
+|kiy'''a'''-Ø-di'
+|bring-PST-3SG.M
+|'he brought'<ref name=":19" />}}
+
+The expression of future is covered by the [[irrealis mood]] with the allomorphs -''kiya'',-''ikiya'' (after roots ending with -''a'') and it' short form -''ika'' occurring in fast speech. Besides future reference, the irrealis expresses possibility and permission and can be used in [[Conditional mood|conditional]] constructions.<ref name=":20">Jendraschek 2012: 193f.</ref>
+
+{{interlinear|number=(2)
+|ya-'''ikiya'''-wun
+|come-IRR-1SG
+|'I will come'<ref name=":20" />}}
+
+The [[imperfective aspect]] marker ''-ti'~li''' occurs most often with the present tense. Therefore, in some constructions in which present cannot be marked (e.g. nominalized clauses), the imperfective expresses present time reference. Thus, it' semantics is about to shift from aspect to tense.<ref>Jendraschek 2012: 195f.</ref>
+
+Other aspects in Iatmul are
+* [[Hortative]] marked with -''kak'', -''li'', -''lu''
+* [[Optative mood|Optative]] marked with -''ba'' and -''ka''
+* [[Apprehensive mood|Apprehensive]] marked with -''ka''
+* [[Imperative mood|Imperative]], which is built using the bare stem or additionally by the suffix -''li'''.<ref>Jendraschek 2012: 201-206</ref>
+
+==== Event specifiers ====
+A special category in Iatmul are [[event-specifier]]-suffixes. Temporal relations are expressed with
+* -''jibu'': event takes place during the whole night until sunrise
+* -''pwali'': expresses that the event is done continuously
+* ''-ki’va'': expresses that something else is done in the middle of one action (interruption)
+* -''si’bla'': expresses that an event occurs as the first one before any other events (anteriority) <ref>Jendraschel 2012: 184f.</ref>
+
+{{interlinear|number=(3)
+|nyiga kasa-'''jibu'''-di
+|leaf play-'''{{gcl|DAY.BREAK|event takes place during the whole night until sunrise}}'''-3PL
+|‘they played cards until daybreak’<ref>Jendraschek 2012: 185</ref>}}
+
+Other event-specifiers express the extent of the action (complete, incomplete, all of its parts) or the [[frustrative]] (attempt, failure).<ref>Jendraschek 2012: 184</ref>
+
+=== Case marking ===
+In Iatmul, at least three cases with overlapping functions are assumed. Jendraschek argues, that it is not possible to define basic meanings for the cases, as the case markers often are [[Polysemy|polysemous]].<ref name=":29">Jendraschek 2012: 221</ref> In general, case marking does not depend on the head but also on pragmatic circumstances and especially semantic properties of the controlling verb and its dependent noun. Thus, there is no strict division into structural and semantic cases in Iatmul.<ref>Jendraschek 2012: 261f.</ref>
+
+Case marking has the whole noun phrase in its scope so that they are placed at the end of the phrase. This is also the case when the end of the word is not the head noun.<ref name=":29" />
+
+{{interlinear|number=(4)
+|waani ki'ta gepma ki'ta-'''ba''' wakkai-laa li'di'
+|erima tree one {[village one]<sub>NP</sub>-LOC} ascend:go-{{gcl|CONSEC|consecutive}} stay-3SG.M
+|'There was an erima tree growing in one village'<ref name=":29" />}}
+
+==== Nominative case (zero marking) ====
+Subjects as well as copula subjects and copula complements are always zero-marked with respect to their case. The direct object remains unmarked if it is low in [[animacy]] or [[definiteness]].<ref>Jendraschek 2012: 221f.</ref> Goals are not always marked with an overt case-marker, especially when they are inanimate.<ref>Jendraschek 2012: 227</ref>
+
+==== Dative case ====
+The marker for the so-called [[Dative case|dative]] is ''-kak'' with the allomorph ''-kat''.<ref>Jendraschek 2012: 234</ref> As pronouns and proper nouns are always definite, they are marked with dativ case when they are used as transitive objects.<ref>Jendraschek 2012: 227f.</ref> When definite nouns referring to humans are transitive objects, the marker is preferred but not obligatory. The same is the case with non-human animates (like animals), whereas here the marking more likely indicates specificity of the object ('the dog' or 'one dog'):<ref name=":7">Jendraschek 2012: 229</ref>
+{{interlinear|number=(5) a.
+|wa'la-'''kak''' vi'-mi'n?
+|dog-DAT see-2SG.M
+|'Have you seen the dog?'}}
+
+{{interlinear|number=b.
+|wa'la vi'-min?
+|dog see-2SG.M
+|'Have you seen a/the dog?'<ref name=":7" />}}
+
+Whether a transitive objects has to be marked with ''-kak'' is also depending on the meaning of the predicate. Dead animals are not perceived the same way as animate, specific animals, so that marking is not employed in sentences where someone eats an animal. On the other hand, when an animal eats a human, marking is employed.<ref>Jendraschek 2012: 229f.</ref>
+
+Beside transitive objects, other semantic roles like recipient, addressee, theme and reason can be marked with the dative marker.<ref>Jendraschek 2012: 233f.</ref> Animate goals are also marked with the dative case.<ref>Jendraschek 2012: 236</ref>
+
+==== Locative case ====
+The so-called [[Locative case|locative]] is marked with ''-(na)ba''.<ref name=":8">Jendraschek 2012: 237f.</ref> Its main function is to mark locations, in some contexts including time expressions.<ref>Jendraschek 2012: 242</ref> Regarding transitive objects, its functions overlap with those of the dative marker ''-kak'', so that in some context it is assumed that there is no difference in meaning between both markers. Still, usually it marks transitive objects with non-human referents including those who do not accept ''-kak''.<ref name=":8" />
+
+{{interlinear|number=(6)
+|wan gusi'ga-ba ta da-'''ba''' ki'-ka li'-di'
+|D3.SG.M box-LOC stay:SR thing-LOC eat-DEP stay-3SG.M
+|'He was already eating the things that were in that box.'<ref>Jendraschek 2012: 237</ref>}}
+
+Besides marking of location and transitive objects, the locative case can also mark themes, manner, material, instruments, goals, sources and animate recipients.<ref>Jendraschek 2012: 237, 240, 245, 248, 250</ref> In case of the animate recipients, -''ba'' can only be used if the recipient is perceived more as a location where something is left instead of the finial recipient.<ref>Jendraschek 2012: 240</ref>
+
+==== Other cases ====
+* '''[[Allative case|Allative]]''' marker ''-ak'' and allomorph -''alak'': marks goal in the sense of purposes of activities instead of locations as well as recipients.<ref>Jendraschek 2012: 252f.</ref>
+* '''[[Comitative case|Comitative]]''' marker ''-(a)na(la)'' and -''akwi'' or (-)''okwi'': It is unclear according to which rules these allomorphs are distributed.<ref>Jendraschek 2012: 254</ref>
+* '''[[Vocative case|Vocative]]''' marker -''o'': The only function of the vocative is to signal that a noun phrase refers to the addressee. It is not used obligatorily but rather when the name has to be repeated in case the addressee did not hear the first call.<ref>Jendraschek 2012: 260</ref>
+
+=== Gender ===
+In Iatmul, [[Gender (linguistics)|gender]] is not marked on the noun but on its [[Modifier (linguistics)|modifiers]] ([[demonstrative]]s) instead as well as via [[Subject-verb agreement|subject-verb-agreement]]. Often this is also true for number-marking, where only some nouns can be marked with a plural suffix.<ref name=":9">Jendraschek 2012: 125</ref>
+
+{{interlinear|number=(7)
+|{'''kan''' /} '''kat''' nyaan wega {yi-'''di'''' /} yi-'''li''''
+|{D1.SG.M /} D1.SG.F. child market {go-3SG.M /} go-3SG.F
+|'This (male/female) child went to the market.'<ref name=":9" />}}
+
+{{interlinear|number=(8)
+|{'''ankwi /'''} '''akkwi''' ji'vwa
+|{D2.SG.M.NR:REM /} D2.SG.F.NR:REM work
+|'that (hard/simple) work'<ref name=":9" />}}
+
+Referents without natural gender like inanimate entities are marked with respect to gender depending on their size. Thus, bigger referents are marked as masculine whereas smaller referents are marked as feminine. From both gender markers, masculine is perceived as the unmarked one and thus chosen if no characterisation is intended.<ref name=":9" />
+
+{{interlinear|number=(9)
+|ki'viya vaali'-ka-'''di''''
+|mosquito bite-PRS-3SG.M
+|'A large mosquito is stinging [me].'<ref name=":9" />}}
+
+However, there are some referents in Iatmul without natural gender but still with fixed grammatical gender. Among them are ''nya'' 'sun', which is masculine, whereas ''bap'' 'moon' is feminine. Also, some animal species have specific gender regardless of their biological gender, like ''kaami'' 'fish' (masculine). Some nouns can have both genders interchangeably without a difference in meaning as ''di'mai'' 'season'.<ref>Jendraschek 2012: 127</ref>
+
+=== Number ===
+
+==== Plural marking on nouns ====
+Iatmul has singular, dual and plural [[Grammatical number|number]].<ref name=":26" /> As it is with gender, number usually is not marked on the noun. Instead, number can be marked on the [[determiner]]s or [[Grammatical modifier|modifiers]] of the noun as well as via [[Subject-verb agreement|subject-verb-agreement]].<ref name=":10">Jendraschek 2012:129</ref> Plurality can also be marked twice.<ref name=":11">Jendraschek 2012:133</ref>
+
+{{interlinear|number=(10) a.
+|wun-a wudi da
+|1SG-GEN D3:'''PL''' thing
+|'those things of mine'}}
+
+{{interlinear|number=b.
+|wun-a-di wudi da
+|1SG-GEN-'''PL''' D3:'''PL''' thing
+|'those things of mine'<ref name=":11" />}}
+
+Dual or plural marking on the verb indicates the number of the subject referent.<ref>Jendraschek 2012: 135</ref> However, this is only true for human referents. Non-human referents are always marked singular on the verb as they are not perceived as individuals.<ref name=":12">Jendraschek 2012: 136</ref>
+
+{{interlinear|number=(11)
+|wa'k du ki'-li'-ka-'''di'''
+|crocodile man eat-IPFV-PRS-3PL
+|'the men eat the crocodile' (cannot mean: 'the crocodiles eat the men')<ref name=":12" />}}
+
+There are some exceptional cases in which nouns can employ plural marking. Kinship terms like ''walaga'' ‘ancestor’, ''nyagei'' ‘sister’ or ''ta’kwa'' ‘wife’ can be plural marked. But if ''ta’kwa'' is used in the meaning of ‘woman’, it cannot be suffixed with a plural marker as it does not employ a relational meaning.<ref name=":10" />
+
+{{interlinear|number=(12) a.
+|di'n-a ta'kwa-'''du''' sak yi-'''di'''
+|3SG.M-GEN woman/wife-PL lake go-3PL
+|'his wives went to the lake'}}
+
+{{interlinear|number=b.
+|gepma-na ta'kwa sak yi-'''di'''
+|village-GEN woman/wife lake go-3PL
+|'the women from the village went to the lake'<ref name=":13">Jendraschek 2012: 130</ref>}}
+
+The modifiers of a kinship term can be plural-marked also when the kinship term is already plural-marked.<ref name=":14">Jendraschek 2012:134</ref>
+
+{{interlinear|number=(13)
+|taba wun-a-'''di''' na-'''du''' ki’nki-sakkwat-'''di'''
+|already 1SG-GEN-PL grandchild-PL D1.SG.M.NR-many-PL
+|‘I have already this many grand-children.’<ref name=":14" />}}
+
+==== Reduplication ====
+It is also possible to '''[[Reduplication|reduplicate]]''' nouns. In this case, they do not convey the usual plural meaning, but rather a distributive one referring to the group as a whole, meaning ‘every’ instead of ‘more than one’.<ref name=":13" /> Some reduplicated nouns additionally employ adverbial meaning, like ''kava'' ‘place’ as ''kava kava'' ‘everywhere’ and ''jibula'' ‘day’ as ''jibula jibula'' ‘all the time’.<ref name=":16">Jendraschek 2012: 132</ref> When adjectives are reduplicated, they may be understood as plural-marked or as employing an elative meaning (good -> very good) depending on the context. When the genitive suffix -''na'' is reduplicated, it can express the plurality of the possessee.<ref name=":14" />
+
+{{interlinear|number=(14)
+|'''gepma''' '''gepma''' kalibi'k mi'na kan missionary-'''na~na''' sule ki'nki-a-n wa-a wa-'''di'''
+|village village carry-2/3DU only D1.SG.M missionary-'''GEN~PL''' school D1.M.SG.NR-3SG-M say-DEP say-3'''PL'''
+|‘after the two had brought it to every village,&nbsp;they said “these are the missionaries’ schools”’<ref name=":13" />}}
+
+==== Associative plural ====
+The plural suffix -''du'' which is used on kinship terms can be used on proper names to express ‘person together with people related to this person’ (associative plural). Those related people can be his kin, people living in the same house or friends of the referent.<ref name=":16" />
+
+{{interlinear|number=(15)
+|Magina-'''du''' ya-a-di
+|Magina-'''PL''' come-PRS-3PL
+|‘Magina and her mother/family are coming’<ref name=":11" />}}
+
+==== Numerals ====
+Counting in Iatmul is accomplished in mixture of a [[quinary]], [[decimal]] and [[vigesimal]] system.<ref name=":17">Jendraschek 2012: 137f.</ref> [[Cardinal number (linguistics)|Cardinal numerals]] generally follow the noun. In this case, adjectives are placed before the noun. If numerals close the [[noun phrase]], they carry the case-markers.<ref name=":18">Jendraschek 2012: 139</ref>
+* The number 1 is ''ki'ta''
+* The number 5 is 'one hand', ''taba-nak'' (from ''ta'ba'' 'hand' and ''nak'' '(an)other (one)''').''
+* The numbers 6 to 9 are counted elliptically as 'plus one', ''si'la-ki'ta'' (from ''si'la'' 'plus') 
+* The number 10 is 'two hands', ''taba-vli'' (''vli'' being the short form of ''vi'li'li'k'' 'two').
+* The number 15 is not three hands 'but two hands plus one hand', ''taba-vli kyeli taba-nak''
+* The number 20 is 'one whole man', ''dumi-ki'ta'' (from ''du'' 'man' and ''mi'' 'tree', referring to the number of all fingers and toes of a human)
+* The number 30 is 'one whole man plus two hands', ''dumi-ki’ta kyeli taba-vli''
+* The number 100 is 'five whole men', ''dumi taba-nak.'' <ref name=":17" />
+[[Ordinal number (linguistics)|Ordinal numbers]] are built by adding ''wan'' (probably from ''wa'' 'say') to cardinal numerals.<ref name=":18" />
+
+Most Papuan languages incorporated the counting system of Tok Pisin or adopted the English counting system, which are perceived as shorter and more transparent. Due to the more and more frequent use of other counting systems, many speakers of Iatmul cannot count correctly beyond 'twenty' in their own language.<ref>Jendraschek 2012: 140</ref>
+
+== Syntactic properties ==
+
+=== General syntactic structure ===
+There is no [[passive voice]] in Iatmul.<ref name="Jendraschek 2012: 169" /> The canonical sentence structure is SOV: Adverb - Subject - Adjunct - Object - Verb<ref name=":30" />
+
+{{interlinear|number=(1)
+|Babla Ruth aguvali gaai-ba wun-kak ni’ma ki’ki’da kuk-kiya-li’.
+|today Ruth<sub>A</sub> opposite house-LOC 1SG-DAT [big food]<sub>O</sub> do-IRR-3SG.F
+|'Ruth will prepare a big meal for me in the house on the other side.'<ref name=":30">Jendraschek 2012: 168</ref>}}
+
+[[Yes-no questions]] are not expressed syntactically but via [[Intonation (linguistics)|intonation]].<ref name=":30" />
+
+{{interlinear|number=(2)
+|Ana {kla-mi'n ?/.}
+|NEG get-2SG.M
+|‘Didn’t you understand?’ or ‘You didn’t understand.’<ref name="Jendraschek 2012: 169"/>}}
+
+=== Negation ===
+The expression of [[Negation (linguistics)|negation]] is accomplished by different morphological structures which often are etymologically unrelated.<ref name=":21" />
+
+Verbs are negated by placing the [[Particle (linguistics)|particle]] ''ana'' before the inflected verb. In case of non-verbal predicates or predicatively used adjectives, ''ana'' is placed in front of the pronominal subject marker.<ref name=":21">Jendraschek 2012: 321f.</ref>
+
+{{interlinear|number=(3) a.
+|Du-mi'n
+|man-2SG.M
+|'You're a man.'<ref name=":21" />}}
+
+{{interlinear|number=b. 
+|Du '''ana'''-mi'n
+|man NEG-2SG.M
+|'You're not a man.'<ref name=":21" />}}
+
+{{interlinear|number=(4)
+|Gepma-ba ki'-w-a ki'ki'da apma '''ana'''-di'
+|village-LOC eat-1SG-SR food good NEG-3SG.M
+|‘the food I ate in the village was not good’<ref name=":22">Jendraschek 2012: 322</ref>}}
+
+In [[dependent clause]]s, negation on the predicate is not possible. Therefore, negation is expressed by a periphrastic construction in which the suffix -''lapman'' 'without' is attached to the predicate and combined with the auxiliary ''yi'' 'go'.<ref name=":22" />
+
+{{interlinear|number=(5) a.
+|*Ana vi'-w-a ka'ik babla vi'si'makwi-kiya-di
+|NEG see-1SG-SR picture today show-IRR-3PL|c2=<ref name=":22" />
+|}}
+
+{{interlinear|number=(5) b.
+|Vi'-'''lapman''' yi'-w-a ka'ik babla vi'si'makwi-kiya-di
+|see-without go-1SG-SR picture today show-IRR-3PL
+|‘Today they will show the film I haven’t seen yet.’<ref name=":22" />}}
+
+To deny existence, the [[proclause]] ''ka'i'' is used.<ref name=":23">Jendraschek 2012: 323</ref>
+
+{{interlinear|number=(6)
+|Wun saanya '''ka'i'''
+|1SG money no
+|'I don't have any money'<ref name=":23" />}}
+
+''Ke'', the reduced form of ''ka'i'', is used together with a non-finite or a subordinate form of the verb to form the [[Prohibitive mood|prohibitive]].<ref name=":24">Jendraschek 2012: 324</ref>
+
+{{interlinear|number=(7)
+|'''Ke''' yi-m-∅-a!
+|PROH go-2SG.M-REAL-SR
+|'Don't go (now)!'<ref name=":24" />}}
+
+For the [[Irrealis mood|irrealis]], the negator ''wana'' is used which cannot be combined with [[Realis mood|realis]] forms.<ref name=":25">Jendraschek 2012: 325</ref>
+
+{{interlinear|number=(8)
+|'''Wana''' yi-m-ay-a!
+|NEG.OPT go-2SG.M-IRR-SR
+|'Don't go (later)!'<ref name=":25" />}}
+
+The [[Optative mood|optative]] on the other hand is negated by the verbal suffix -''la''.<ref name=":25" />
+
+{{interlinear|number=(9)
+|Yiki'nba va'i, da-'''la'''-mi'n
+|gently step fall-APPR-2SG.M
+|'Walk slowly, otherwise you might fall.'<ref>Jendraschek 2012: 326</ref>}}
+
+=== Nominalized subordinate clauses ===
+One of the two types of [[subordinate clause]]s in Iatmul are nominalised clauses, which are used like attributive, adverbial or complement clauses.<ref name=":31" /> There are rare cases of headless relative clauses, where the predicate of the relative clause becomes the head.<ref>Jendraschek 2012: 339</ref> Usually this is avoided by preferring a general noun like ''du'' 'man' as a head.<ref>Jendraschek 2012: 328</ref>
+{|
+| colspan="6" |<u>Relative clause (same subject)</u>
+|-
+|(10)
+|kaami||k-a||du
+|kiya-di'
+|
+|-
+|
+|[fish||eat-SR||man]
+|die-3SG.M
+|
+|-
+|
+| colspan="2" |embedded clause
+|head nominal
+|predicate
+|
+|-
+|
+| colspan="4" |'The man who ate fish died.'
+|<ref name=":31">Jendraschek 2012: 327</ref>
+|}
+When the relative clause has a subject which is not co-referential with the head noun of the matrix clause, then the verb of the relative clause expresses this with a pronominal subject marker on the subordinate verb.<ref name=":15" /> 
+
+{{interlinear|number=(11)
+|top=<u> Relative clause (different subjects)</u>
+|buk’-'''w'''-a vaak gawi-na wapuchapuk
+|<nowiki>[[</nowiki>tell-'''1SG'''-SR] topic] eagle-GEN story
+|‘The topic I was talking about is the story about the eagle’<ref name=":15">Jendraschek 2012: 331</ref>}}
+
+It is important to note that some relative clauses do not have a common argument in the matrix clause so that the relation between the head noun and the relative clause becomes a matter of semantics or pragmatics rather than syntax.<ref>Jendraschek 2012: 338</ref>
+
+To express conditional or temporal relations between clauses, the suffix sequence ''-a-n'' 'SN-NR' is used. In conditional clauses, there is a distinction only between irrealis (''-ay-a-n'') and realis (''-a-n'').<ref name=":40" /> Thus, the tense reference of the realis can be clarified only via the following clause.<ref>Jendraschek 2012: 342</ref> The verb within the relative clause can further be marked with the locative to emphasise the localisation in time.<ref name=":40" />
+
+{{interlinear|number=(12)
+|top=<u>Conditional clause</u>
+|gu ki’-j-'''ay-a-n-ba''' si’laam si’-kiya-di
+|water eat-3PL-'''IRR-SR-NR-LOC''' noise shoot-IRR-3PL
+|‘If they drink, they will make a lot of noise’<ref name=":40">Jendraschek 2012: 341</ref>}}
+
+=== Switch-reference ===
+The second type of subordinate clauses in Iatmul are realised by [[switch-reference]] and allow for clause chains. With switch-reference markers on a verb it is possible to express whether the subject of one verb is also the subject of another verb. Thus, it is possible to keep track of the subjects within clause chains consisting of several subordinate clauses. Switch-reference is a special feature of the syntax of Iatmul.<ref name=":32">Jendraschek 2012: 353</ref>
+
+If the subject of both clauses is the same, person is marked once and a non-finite verb form is mandatory in the subordinate clause. If the subjects are different, it is indicated by person-marking in both clauses and by the absence of tense-marking and non-final intonation.<ref name=":5" /> In tenseless clauses, semantic relations are expressed in same-subject and different-subject clauses by marking the dependent verb in the following way:<ref name=":41">Jendraschek 2012: 358</ref>
+{| class="wikitable"
+!Semantic relation
+!same subject!!different subject
+|-
+|contextual
+| -''ka'' 'DEP'
+|subject marking only
+|-
+|consecutive
+| -''taa'' 'CONSEC'||subject marking + particle ''mi'na''
+|-
+|simultaneous
+| -''kakwi'' 'SIM'
+|imperfective aspect -''ti''<nowiki/>' + subject marking
+|}
+
+It is important to note that -''ka'' 'DEP' is unmarked and thus can also cover the other two relations.<ref name=":41" />
+
+{{interlinear|number=(14) a.
+|top=<u>Same subject</u>
+|ki’ki’da kuk-'''ka''' yaki ki’-li’-'''li'''’
+|[food do-'''DEP'''] [tobacco eat-IPFV-'''3.SG.F''']
+|‘She was smoking (while) preparing food’<ref name=":5">Jendraschek 2012: 357</ref>}}
+
+{{interlinear|number=(14) b.
+|top=<u>Different subject (simultaneous relation)</u>
+|ki’ki’da kut-'''ti’'''-'''li’''' yaki ki’-li’-'''li’'''
+|[food do-'''IPFV'''-'''3.SG.F'''] [tobacco eat-IPFV-'''3.SG.F''']
+|‘(While) she<sub>i</sub> was preparing food, she<sub>*i/j</sub> was smoking’<ref name=":5" />}}
+
+Switch-reference clauses can be used to chronologically order the narrated event or to express temporal overlap, manner of the action or causality.<ref>Jendraschek 2012: 354-356</ref>
+
+=== Tail-head linkage ===
+A phenomenon typical for Papuan languages is [[tail-head linkage]]. It is the repetition of the last part of the sentence in the beginning of a new sentence. It frequently occurs together with switch-reference and is used to structure communicated information.<ref>Jendraschek 2012: 359f.</ref>
+
+{{interlinear|number=(15) a.
+|Di’-kat yi-ka ta’bak yi-ka di’n-a gusa-maan-ba '''kut-di'''’.
+|3SG.M-DAT go-DEP hand go-DEP 3SG.M-GEN paddle-leg-LOC touch-3SG.M
+|(The dog) going to him touching (him) he touched the back of his leg.<ref name=":6">Jendraschek 2012: 361</ref>}}
+
+{{interlinear|number=(15) b.
+|'''Kut-di’''' di’-kak vi’-di’ avayabi’ pi’li’-ka wakwai-ka-di’
+|touch-3SG.M 3SG.M-DAT see-3SG.M path run-DEP advance-PRS-3SG.M
+|He ({{=}}the dog) touched he ({{=}}the boy) saw him ({{=}}the dog) he ({{=}}the dog) advanced running to the path<ref name=":6" />}}
+
+== Information structural properties ==
+
+=== Focus in declaratives ===
+In a '''neutral sentence''', the subject and the non-referential object are unmarked with respect to [[information structure]].<ref name=":33">Jendraschek 2012: 377</ref>
+
+{{interlinear|number=(1)
+|Joachim yuwisi’k kut-di’
+|Joachim rice do-3SG.M
+|'Joachim has cooked rice'<ref name=":33" />}}
+
+When the '''subject is focused''', the [[Focus (linguistics)|focus]] marker ''-a'' (masculine, ''-ak'' for feminine) marks the masculine subject. The verb in contrary misses markers for person and grammatical gender and is marked with the focus marker ''-a'' instead. Even though both focus markers have the same form, their origin is different and they have different allomorphs. The following sentence is the answer to the question 'Who cooked rice?'.<ref name=":33" />
+
+{{interlinear|number=(2)
+|Joachim-'''a''' yuwisi’k kuk'-'''a'''
+|Joachim-FOC rice do-FOC
+|'Joachim has cooked rice'<ref name=":34">Jendraschek 2012: 378</ref>}}
+
+When a '''non-subject is focused''', the verb is marked with respect to person and grammatical gender of the subject in addition to focus. The focus constituent is focus-marked and precedes the verb, whereas non-focused constituents can follow the verb (subject as afterthought). The following sentence is the answer to the question 'What did Joachim cook?'.<ref name=":34" />
+
+{{interlinear|number=(3)
+|Joachim yuwisi’k'-'''a''' kut-d-'''a'''
+|Joachim rice-FOC do-3SG.M-FOC
+|'Joachim has cooked rice'<ref name=":34" />}}
+
+In all these cases, the marking of noun and verb indicates that the focus constructions must have emerged from cleft-constructions (hence the alternative glossing in the following examples with 3SG and SR).<ref>Jendraschek 2012: 378ff.</ref> Sentences marked with respect to focus generally have a smaller potential for inflection than neutral sentences. Therefore, some grammatical categories (like [[Optative mood|optative]], [[Imperative mood|imperative]]) which are expressed by suffixation can not be realised when the sentence is marked with respect to focus.<ref>Jendraschek 212: 387f.</ref>
+
+=== Focus in questions ===
+[[Question]]s which are asking for the subject or direct object need to be focus-marked, while the answers can be focused or neutral.<ref name=":35">Jendraschek 2012: 381</ref>
+
+{{interlinear|number=(4)
+|top=<u>Focused question after the subject</u>
+|kada-'''na''' yuwisi’k kuk’-'''a'''?
+|who-3SG.M rice do-SR
+|‘Who has cooked rice?’<ref name=":35" />}}
+
+{{interlinear|number=(5)
+|top=<u>Focused question after the direct object</u>
+|Joachim mi’da-'''na''' kut-d-'''a'''?
+|Joachim what-FOC do-3SG.M-FOC
+|‘What has Joachim done?’<ref name=":35" />}}
+
+To mark the questions, the allomorphs ''-na'' (masc.) and ''-lak'' (fem.) are used for focus marking. Inanimate referents are always marked with ''-na''. This can be explained by assuming that the question words used to be marked twice with the demonstrative pronouns ''-(a)n'' (masc.) and ''-(a)t'' (fem.), which due to phonological processes evolved to the current focus suffixes.<ref name=":36">Jendraschek 2012: 381f.</ref>
+
+:(6) kada-an > kadan > kadan-an > kadana <ref name=":36" />
+:(7) kada-at > kadat > kadat-at > kadalat > kadalak <ref name=":36" />
+
+If it is not asked for the subject or the direct object, another possibility is a neutral question.<ref name=":37">Jendraschek 2012: 382</ref>
+
+{{interlinear|number=(8)
+|top=<u>Focused question</u>
+|kada-'''na''' kwi-m-'''a'''?
+|who-3SG.M give-2SG.M-SR
+|'Whom did you give it to?'<ref name=":37" />}}
+
+{{interlinear|number=(9)
+|top=<u>Neutral Question</u>
+|kada-kak kwi-mi'n?
+|who-DAT give-2SG.M
+|'Whom did you give it to?'<ref name=":37" />}}
+
+=== Negated focus sentences ===
+In negated sentences, focus marking causes extraordinary structures. The negation particle ''ana'' which is placed before the verb receives a congruency marker. The following examples illustrate this with focus on the subject.<ref name=":38">Jendraschek 2012: 384</ref>
+
+{{interlinear|number=(10) a.
+|top=<u>Negation in neutral questions:</u>
+|Kerol '''ana''' ya-a-li'
+|Kerol '''NEG''' come-PRS-3SG.F
+|‘Kerol is not coming.’<ref name=":38" />}}
+
+{{interlinear|number=(10) b.
+|top=<u>Focused sentence (subject)</u>
+|Kerol-ak ya-li’-ka
+|Kerol-3SG.F come-IPFV-PRS:S
+|‘Kerol is coming.’<ref name=":39">Jendraschek 2012: 385</ref>}}
+
+{{interlinear|number=(10) c.
+|top=<u>Negated focus sentence</u>
+|Kerol '''ana-li'''' ya-li’-ka
+|Kerol '''NEG-3SG.F'''  come-IPFV-PRS:SR
+|‘Kerol is coming.’<ref name=":39" />}}
+
+In sentences, in which the predicate is negated, the negation is carried out periphrastically with ''-lapman'' 'without'.<ref name=":39" />
+
+{{interlinear|number=(11)
+|top=<u>Negation of the predicate while subject is focused</u>
+|Kerol-ak ya-'''lapman''' yi-li’-l-a
+|Kerol-3SG.F come-'''without''' go-IPFV-3SG.F-SR
+|‘Kerol has not come (yet)’ or ‘It’s Kerol who has not come.’<ref name=":39" />}}
+
+== See also ==
+* [[Iatmul people]]
+* [[Ndu languages]]
+* [[Yimas-Iatmul Pidgin]]
+* [[Gerd Jendraschek]]
+
+==References==
+{{Reflist}}
+
+{{Sepik languages}}
+{{Languages of Papua New Guinea}}
+
+{{DEFAULTSORT:Iatmul Language}}
+[[Category:Languages of East Sepik Province]]
+
+[[Category:Ndu languages]]

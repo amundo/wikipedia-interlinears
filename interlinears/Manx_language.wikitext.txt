@@ -1,0 +1,2301 @@
+{{short description|Goidelic Celtic language of the Isle of Man}}
+{{Cleanup bare URLs|date=September 2021}}
+{{Cleanup lang|date=December 2021}}
+{{Use British English|date=October 2021}}
+{{Use dmy dates|date=January 2022}}
+{{Infobox language
+| name             = Manx
+| altname          = Manx Gaelic
+| nativename       = {{lang|gv|Gaelg}}, {{lang|gv|Gailck}}
+| pronunciation    = {{IPA-gv|əˈɣɪlɡ], [əˈɣɪlk|}} ''y Ghaelg'', ''y Ghailk''
+| states           = [[Isle of Man]]
+| ethnicity        = [[Manx people|Manx]]
+| extinct          = Extinct as a [[first language]] by 1974 with the death of [[Ned Maddrell]], before subsequent revival.
+| ref              = e21
+| revived          = 53 [[first language]] speakers and 1,800 [[second language]] speakers, including children (2015)<ref>{{cite news|author=Sarah Whitehead |url=https://www.theguardian.com/education/2015/apr/02/how-manx-language-came-back-from-dead-isle-of-man |title=How the Manx language came back from the dead &#124; Education |newspaper=[[The Guardian]] |access-date=25 June 2017}}</ref>
+| familycolor      = Indo-European
+| fam2             = [[Celtic languages|Celtic]]
+| fam3             = [[Insular Celtic languages|Insular Celtic]]
+| fam4             = [[Goidelic]]
+| ancestor         = [[Primitive Irish]]
+| ancestor2        = [[Old Irish]]
+| ancestor3        = [[Middle Irish]]
+| ancestor4        = [[Classical Gaelic]]
+| nation           = {{flag|Isle of Man}}
+| agency           = {{lang|gv|[[Coonceil ny Gaelgey]]}} (Manx Gaelic Council)
+| iso1             = gv
+| iso2             = glv
+| iso3             = glv
+| iso6             = glvx (historical)<br />rvmx (revived)
+| lingua           = 50-AAA-aj
+| map              = Idioma manés.png
+| notice           = IPA
+| revived-cat      = nocat<!--Suppressed because the category is already on [[Manx language revival]].-->
+| glotto           = manx1243
+| glottorefname    = Manx
+}}
+[[File:WIKITONGUES- Owen speaking Manx.webm|thumb|A Manx speaker, recorded in the [[Isle of Man]]]]
+
+'''Manx''' ({{lang|gv|Gaelg}} or {{lang|gv|Gailck}}, pronounced {{IPA-gv|ɡilɡ|}} or {{IPA-gv|ɡilk|}} or {{IPA-gv|ɡeːlɡ|}}),<ref>Jackson 1955, 49</ref> also known as '''Manx Gaelic''' or '''Manks''',<ref>{{cite web|url=https://archive.org/stream/dictionaryofmank00creg/dictionaryofmank00creg_djvu.txt |title=Full text of "A dictionary of the Manks language, with the corresponding words or explanations in English : interspersed with many Gaelic proverbs, the parts of speech, the genders, and the accents of the Manks words are carefully marked : with some etymological observations, never before published" |access-date=15 November 2013}}</ref> is a [[Goidelic language]] of the [[insular Celtic]] branch of the [[Celtic language family]], itself a branch of the [[Indo-European language family]]. Manx is the historical language of the [[Manx people]].
+
+Although few children have Manx as a [[first language]] on the [[Isle of Man]], there has been a steady increase in the number of speakers since the death of [[Ned Maddrell]] in 1974. Maddrell was considered to be the last speaker who grew up in a Manx-speaking community environment. Despite this, the language has never fallen completely out of use, with a minority having some knowledge of it as a [[heritage language]], and it is still an important part of the island's [[Culture of the Isle of Man|culture]] and [[cultural heritage]].
+
+Manx is often cited as a good example of [[language revival]] efforts; in 2015, around 1,800 people had varying levels of [[second-language]] conversational ability. Since the late 20th century, Manx has become more visible on the island, with increased signage, radio broadcasts and a Manx-[[Medium of instruction|medium]] primary school. The revival of Manx has been made easier because the language was well recorded: for example, the [[Bible]] and the ''[[Book of Common Prayer]]'' had been translated into Manx, and audio recordings had been made of native speakers.
+
+==Names of the language==
+
+===In Manx===
+In Manx, the language is called ''[[Gaelg]]'' or ''Gailck'', a word which shares the same etymology as the word "Gaelic". The sister languages of [[Irish language|Irish]] and [[Scottish Gaelic]] use ''Gaeilge'' (dialect variants Gaoluinn, Gaedhlag, Gaelge, and Gaelic) and ''Gàidhlig'', respectively, for their languages. As with Irish and Scottish, the form with the [[definite article]] is frequently used in Manx: ''y Ghaelg'' or ''y Ghailck'' (Irish ''an Ghaeilge'', Scottish ''a' Ghàidhlig'').
+
+To distinguish it from the two other forms of Gaelic, the phrases ''Gaelg''/''Gailck Vannin'' (Gaelic of [[Isle of Man|Mann]]) and ''Gaelg''/''Gailck Vanninnagh'' (Manx Gaelic) also are used. In addition, the nickname "Çhengey ny Mayrey" (the mother tongue/tongue of the mother, lit. the mother's tongue) is occasionally used.
+
+===In English===
+{{unreferenced section|date=December 2020}}
+The language is usually referred to in English as "Manx". The term "Manx Gaelic" is often used, for example when discussing the relationship between the three Goidelic languages (Irish, Scottish Gaelic, and Manx) or to avoid confusion with [[Manx English|Anglo-Manx]], the form of English spoken on the island. Scottish Gaelic is often referred to in English as simply "Gaelic," but this is less common with Manx and Irish. A feature of Anglo-Manx deriving from Gaelic<!--- not really a calque---> is the use of the definite article, e.g. "the Manx," "the Gaelic," in ways not generally seen in standard English.
+
+The word "Manx" is frequently spelled "Manks" in historical sources, particularly those written by natives of the island; the word means "Mannish," and originates from the [[Old Norse]] ''Mannisk''{{citation needed|date=May 2021}}. The name of the island, Man, is frequently spelled "Mann." It is sometimes accompanied by a footnote explaining that it is a two-syllable word, with the stress on the first syllable, "MAN-en." The island is named after the Irish god [[Manannán mac Lir]], thus ''Ellan Vannin'' (Irish ''Oileán Mhannanáin'') "Mannanán's Island."{{citation needed|date=December 2020}}
+
+==History==
+[[File:Clagh Ogham ec Thie Tashtee Vannin.jpg|right|thumb|200px|An [[ogham inscription]] on a stone in the [[Manx Museum]] written in Primitive Irish and which reads DOVAIDONA MAQI DROATA, "Of Dovaido, son of Droata"<ref>{{cite web |last=West |first=Andrew |author-link=Andrew West (linguist) |url=http://babelstone.blogspot.ie/2011/06/ogham-stones-of-isle-of-man.html |title=The Ogham Stones of the Isle of Man |publisher=BabelStone |date=30 June 2011 |access-date=11 November 2013 |archive-url=https://web.archive.org/web/20131111042420/http://babelstone.blogspot.ie/2011/06/ogham-stones-of-isle-of-man.html |archive-date=11 November 2013 |url-status=dead }}</ref>]]
+[[File:Illiam Dhone.JPG|right|thumb|200px|William Christian, better known as [[Illiam Dhone]] (Brown-haired William)]]
+[[File:Lag ny Keeilley, West slope of Cronk ny Arrey Laa - geograph.org.uk - 181312.jpg|right|thumb|200px|''Lag ny Keeilley'' (''Hollow of the Church'') on [[Cronk ny Arrey Laa]] (Hill of the Day Watch). The Manx language has had a substantial influence on the island's [[toponymy]] and nomenclature.]]
+
+Manx is a [[Goidelic languages|Goidelic]] language, closely related to [[Irish language|Irish]] and [[Scottish Gaelic]]. On the whole it is partially mutually intelligible with these, and native speakers of one find it easy to gain passive, and even spoken, competency in the other two.
+
+It has been suggested that a little-documented [[Brythonic languages|Brythonic]] language (i.e. related to modern [[Welsh language|Welsh]], Cornish and Breton) may have been spoken on the Isle of Man before the arrival of Christian missionaries from Ireland in the early Middle Ages. However, there is little surviving evidence about the language spoken on Man at that time.
+
+The basis of the modern Manx language is [[Primitive Irish]] (like modern Irish and [[Scottish Gaelic]]). The Island either lends its name to, or takes its name from ''[[Manannán mac Lir|Manannán]]'', the Brythonic and Gaelic sea god who is said in myth to have once ruled the island. Primitive Irish is first attested in [[Ogham]] inscriptions from the 4th century AD. These writings have been found throughout Ireland and the west coast of [[Great Britain]]. Primitive Irish transitioned into [[Old Irish]] through the 5th century. Old Irish, dating from the 6th century, used the [[Latin script]] and is attested primarily in [[marginalia]] to Latin manuscripts, but there are no extant examples from the Isle of Man.
+
+Latin was used for ecclesiastical records from the establishment of Christianity in the Isle of Man in the fifth century AD. Many lexical items concerning religion, writing and record keeping entered Manx at this time.
+
+The Isle of Man was conquered by Norse Vikings in the ninth century. Although there is some evidence in the form of runic inscriptions that Norse was used by some of these settlers, the Vikings who settled around the Irish Sea and West Coast of Scotland soon became Gaelic speaking [[Norse–Gaels|Norse-Gaels]]. During the 9th century AD, the Gaelic of the inhabitants of the Isle of Man, like those Scotland and the North of Ireland, may have been significantly influenced by Norse speakers. While Norse had very little impact on the Manx language overall,<ref name=":1" /><ref name=":2">{{Cite book|title=Language death in the Isle of Man : an investigation into the decline and extinction of Manx Gaelic as a community language in the Isle of Man|last=George.|first=Broderick|date=1999|publisher=Niemeyer|isbn=9783110911411|oclc=300505991}}</ref> a small number of  modern place names on Mann are Norse in origin, e.g. [[Laxey]] (Laksaa) and [[Ramsey, Isle of Man|Ramsey]] (Rhumsaa). Other Norse legacies in Manx include loanwords and personal names.
+
+By the 10th century, it is supposed that Middle Irish had emerged and was spoken throughout Ireland, Scotland and the Isle of Man.
+
+The island came under Scottish rule in 1266, and alternated between Scottish and English rule until finally becoming the feudal possession of the Stanley family in 1405. It is likely that up until this point, except for scholarly knowledge of Latin and courtly use of Anglo-Norman, that Manx was the only language spoken on the island. Since the establishment of the Stanleys on the Isle of Man, first Anglo-Norman, and later, the  [[English language]] have  been the chief external factors in the development of Manx, until the twentieth century, when in Manx speakers became able to access Irish and Scottish Gaelic media.
+
+Manx had diverged considerably from the Gaelic languages of Scotland and Ireland between 1400 and 1900. The seventeenth century [[Plantation of Ulster]], the decline of Irish in Leinster and extinction of Galloway Gaelic led to the geographic isolation of Manx from other dialects of Gaelic. The development of a separate orthography also led Manx to diverge from Irish and Scottish Gaelic.<ref name=":1" />
+
+In the 17th century, some university students left the Isle of Man to attend school in England. At the same time, teaching in English was required in schools founded by governor Isaac Barrow. Barrow also promoted the use of English in churches; he considered that it was a superior language for reading the Bible; however, because the majority of ministers were monolingual Manx speakers, his views had little practical impact.<ref name=":1" /><ref name=":2"/>
+
+Thomas Wilson began his tenure as Bishop of Mann in 1698 and was succeeded by Mark Hildesley. Both men held positive views of Manx; Wilson was the first person to publish a book in Manx, a translation of ''The Principles and Duties of Christianity'' (''Coyrie Sodjey''), and Hildesley successfully promoted the use of Manx as the language of instruction in schools. The New Testament was first published in Manx in 1767. In the late 18th century, nearly every school was teaching in English. This decline continued into the 19th century, as English gradually became the primary language spoken on the Isle of Man.<ref name=":1" /><ref name=":2"/>
+
+In 1848, J.&nbsp;G. Cumming wrote, "there are ... few persons (perhaps none of the young) who speak no English." [[Henry Jenner]] estimated in 1874 that about 30% of the population habitually spoke Manx (12,340 out of a population of 41,084). According to official census figures, 9.1% of the population claimed to speak Manx in 1901; in 1921 the percentage was only 1.1%.<ref>Gunther 1990, 59–60</ref> Since the language was used by so few people, it had low linguistic "[[Prestige (sociolinguistics)|prestige]]", and parents tended to not teach Manx to their children, thinking it would be useless to them compared with English.<ref name=":2"/>
+
+==Revival==
+Following the decline in the use of Manx during the nineteenth century, {{lang|gv|[[Manx Gaelic Society|Yn Çheshaght Ghailckagh]]}} (The Manx Language Society) was founded in 1899. By the middle of the twentieth century, only a few elderly [[native speaker]]s remained (the last of them, [[Ned Maddrell]], died on 27 December 1974), but by then a scholarly revival had begun and a few people had started teaching it in schools. The Manx Language Unit was formed in 1992, consisting of three members and headed by Manx Language Officer [[Brian Stowell]], a language activist and fluent speaker, "which was put in charge of all aspects of Manx language teaching and accreditation in schools."<ref name=":1">Ager, Simon. "A Study of Language Death and Revival with a Particular Focus on Manx Gaelic." Master's Dissertation University of Wales, Lampeter, 2009. PDF.</ref> This led to an increased interest in studying the Manx language and encouraged a renewed sense of ethnic identity. The revival of Manx has been aided by the recording work done in the twentieth century by researchers. Most notably, the [[Irish Folklore Commission]] was sent in with recording equipment in 1948 by [[Éamon de Valera]]. Also important in preserving the Manx language was work conducted by the late Brian Stowell, who is considered personally responsible for the current revival of the Manx language.<ref name=graun /> The Manx Language Strategy was released in 2017, outlining a five-year plan for the language's continued revitalisation.<ref>{{Cite web|url=https://www.gov.im/news/2017/dec/01/five-year-strategy-salutes-and-celebrates-manx-language/|title=Isle of Man Government - Five year strategy salutes and celebrates Manx language|website=www.gov.im|language=en-GB|access-date=6 January 2018}}</ref><ref>{{Cite web|url=https://www.theworldweekly.com/reader/view/magazine/2018-01-04/lifelines-for-indigenous-languages/10437|title=Lifelines for indigenous languages {{!}} The World Weekly|website=www.theworldweekly.com|access-date=6 January 2018}}</ref> [[Culture Vannin]] employs a Manx Language Development Officer (Manx: ''Yn [[Greinneyder]]'') to encourage and facilitate the use of the language.
+
+In 2009, [[UNESCO]]'s [[Atlas of the World's Languages in Danger]] declared Manx an [[extinct language]], despite the presence of hundreds of speakers on the Isle of Man.<ref>{{cite news |url=http://news.bbc.co.uk/1/hi/world/europe/isle_of_man/7901763.stm |title=UN declares Manx Gaelic 'extinct' |author=<!--Staff writer(s); no by-line.--> |date=20 February 2009 |website=[[bbc.co.uk]] |access-date=4 April 2015}}</ref> Since then, UNESCO's classification of the language has changed to "critically endangered".<ref name=graun>{{cite web |url=https://www.theguardian.com/education/2015/apr/02/how-manx-language-came-back-from-dead-isle-of-man |title=How the Manx language came back from the dead |last1=Whitehead |first1=Sarah |date=2 April 2015 |website=[[theguardian.com]]|access-date=4 April 2015}}</ref>
+
+In the 2011 census, 1,823 out of 80,398 Isle of Man residents, or 2.27% of the population, claimed to have knowledge of Manx,<ref name=Gov.im>[http://www.gov.im/lib/docs/treasury/economic/census/census2011reportfinalresized.pdf Isle of Man Census Report 2011] {{webarchive|url=https://web.archive.org/web/20121108113021/http://www.gov.im/lib/docs/treasury/economic/census/census2011reportfinalresized.pdf |date=8 November 2012 }}.</ref> an increase of 134 people from the 2001 census.<ref>{{cite news|title=Manx Gaelic Revival 'Impressive'|url=http://news.bbc.co.uk/2/hi/europe/isle_of_man/4271840.stm|work=BBC News|date=22 September 2005}}</ref> These were spread roughly uniformly over the island: in [[Douglas, Isle of Man|Douglas]] 566 people professed an ability to speak, read or write Manx; 179 in [[Peel, Isle of Man|Peel]], 146 in [[Onchan]], and 149 in Ramsey.<ref name="Gov.im"/>
+
+Traditional Manx given names are once again becoming common on the island, especially ''Moirrey'' and ''Voirrey'' (Mary, properly pronounced similarly to the Scottish ''Moira'', but often mispronounced as ''Moiree/Voiree'' when used as a given name by non-Manx speakers), ''Illiam'' ([[William (name)|William]]), ''Orry'' (from the Manx king [[Godred Crovan]] of Norse origin), ''Breeshey'' (also ''Breesha'') ([[Bridget (given name)|Bridget]]), ''Aalish'' (also ''Ealish'') ([[Alice (given name)|Alice]]), ''Juan'' ([[Jack (name)|Jack]]), ''Ean'' (Ian), ''Joney'' ([[John (name)|John]]), ''Fenella'' ([[Fionnuala]]), ''Pherick'' ([[Patrick (given name)|Patrick]]) and ''Freya'' (from the [[Freyja|Norse goddess]]) remain popular.<ref>{{Cite web|last=Naming|first=The Art of|title=World-Wide Wednesday: Manx Names|url=http://www.theartofnaming.com/2014/01/Manx-Names.html|access-date=24 November 2021|language=en}}</ref>
+
+== Number of speakers by year ==
+{| class="wikitable"
+|-
+! rowspan=2 | Year
+! colspan=2 | Manx speakers
+! rowspan=2 | Manx <br/>population
+|-
+! Total
+! Of Manx<br /> population
+|-
+| 1874
+| 16,200
+| 30%
+| 54,000 (1871)
+|-
+| 1901
+| 4,419<ref name=":0">{{cite web|title = Censuses of Manx Speakers|url = http://www.isle-of-man.com/manxnotebook/history/manks/census.htm|website = www.isle-of-man.com|access-date = 27 October 2015}}</ref>
+| 8.07%
+|54,752
+|-
+| 1911
+| 2,382<ref name=":0"/>
+| 4.58%
+| 52,016
+|-
+| 1921
+| 915<ref name=":0"/>
+| 1.52%
+| 60,284
+|-
+| 1931
+| 529<ref name=":0"/>
+| 1.07%
+| 49,308
+|-
+| 1951
+| 355<ref name=":0"/>
+| 0.64%
+|50,253
+|-
+|1961
+|165
+|0.34%
+|48,133
+|-
+|1971
+|284
+|0.52%
+|54,481
+|-
+| 1974
+| colspan=3 | ''Last native speaker dies''
+|-
+| 1991
+| 643<ref>{{Cite book|title = A New History of the Isle of Man: The modern period 1830-1999|url = https://books.google.com/books?id=yjHHVG_aiOAC|publisher = Liverpool University Press|date = 1 January 2000|isbn = 9780853237266|first = John|last = Belchem}}</ref>
+| 0.90%
+| 71,267
+|-
+| 2001
+| 1,500<ref>{{cite web|url = https://www.gov.im/media/207874/2001censusreportvolume2.pdf|title = 2001 Isle of Man Census: Volume 2|access-date =25 June 2017 |website =Gov.im }}</ref>
+| 1.95%
+| 78,266
+|-
+| 2011
+| 1,650<ref>{{cite web|url = https://www.gov.im/media/207882/census2011reportfinalresized_1_.pdf|title = 2011 Isle of Man Census|access-date = 25 June 2017|website =Gov.im }}</ref>
+| 1.97%
+| 84,497
+|-
+| 2015
+| 1,800<ref name="graun" />
+| 2%
+| 88,000
+|}
+
+==Literature==
+{{Main|Manx literature|Gaelic literature}}
+{{Expand section|date=November 2010}}
+Because Manx has never had a large number of speakers, it has never been practical to produce large amounts of written literature. However, a body of oral literature did exist. The "[[Fianna]]" tales and others like them are known, including the Manx ballad ''Fin as Oshin'', commemorating [[Finn MacCool]] and [[Ossian]].<ref>{{cite web|url=http://www.isle-of-man.com/manxnotebook/fulltext/mb1896/p002.htm |title=pp2/5 Manx Ballads - Fin as Oshin |publisher=Isle-of-man.com |access-date=15 November 2013}}</ref> With the coming of Protestantism, Manx spoken tales slowly disappeared, while a tradition of ''carvals'' - religious songs or carols - developed with religious sanction.{{When|date=February 2009}}
+
+As far as is known, there was no distinctively Manx written literature before the [[Protestant Reformation|Reformation]]. By that time, any presumed literary link with Ireland and Scotland, such as through Irish-trained priests, had been lost. The first published literature in Manx was ''The Principles and Duties of Christianity (Coyrie Sodjey)'', translated by [[Bishop of Sodor and Man]] [[Thomas Wilson (bishop)|Thomas Wilson]].<ref name=":1" />
+
+The ''[[Book of Common Prayer]]'' was translated by [[John Philips (bishop)|John Phillips]], the Welsh-born [[Church of England|Anglican]] [[Bishop of Sodor and Man]] from 1605 to 1633. The early Manx script has some similarities with orthographical systems found occasionally in Scotland and in Ireland for the transliteration of Gaelic, such as the [[Book of the Dean of Lismore]], as well as some extensive texts based on English and Scottish English orthographical practices of the time. Little secular [[Manx literature]] has been preserved.
+
+The New Testament was first published in 1767. When the [[Anglican church]] authorities started to produce written literature in the Manx language in the 18th century, the system developed by John Philips was further "anglicised"; the one feature retained from Welsh orthography was the use of {{angle bracket|y}} to represent [[schwa]] (e.g. {{lang|gv|cabbyl}} {{IPA|[kaːβəl]}} "horse" and {{lang|gv|cooney}} {{IPA|[kuːnə]}} "help" as well as {{IPA|/ɪ/}} (e.g. {{lang|gv|fys}} {{IPA|[fɪz]}} "knowledge"), though it is also used to represent {{IPA|[j]}}, as in English (e.g. {{lang|gv|y Yuan}} {{IPA|[ə juːan]}} "John" (vocative), {{lang|gv|yeeast}} {{IPA|[jiːəst]}} "fish").
+
+Other works produced in the 18th and 19th centuries include catechisms, hymn books and religious tracts. A translation of ''[[Paradise Lost]]'' was made in 1796.
+
+A considerable amount of secular literature has been produced in the 20th and 21st centuries as part of the language revival. In 2006, the first full-length novel in Manx, ''Dunveryssyn yn Tooder-Folley'' (''The Vampire Murders'') was published by Brian Stowell, after being serialised in the press. There is an increasing amount of literature available in the language, and recent publications include Manx versions of the ''Gruffalo'' and ''Gruffalo's Child''.<ref>{{cite web|url=http://www.culturevannin.im/cms/publication_type_index_1475.html |title=Books - Lioaryn &#124; Culture Vannin &#124; Isle of Man |website=Culturevannin.im |access-date=25 June 2017}}</ref>
+
+In 2019 [[Rob Teare]] translated [[Antoine de Saint-Exupéry]]'s ''[[The Little Prince]]'' into Manx.<ref>{{Cite web|url=https://petit-prince-collection.com/lang/show_livre.php?lang=en&id=5326|title=Antoine de Saint-Exupery - "The Little Prince" / Gaelic Manx / 2019, Edition Tintenfass, Neckarsteinach|website=petit-prince-collection.com}}</ref>
+
+==Official recognition==
+
+Manx is not officially recognised by any national or regional government, although its contribution to Manx culture and tradition is acknowledged by some governmental and non-governmental bodies. For example:
+
+The Standing Orders of the House of Keys provide that: "The proceedings of the House shall be in English; but if a Member at any point pronounces a customary term or sentence in Manx Gaelic or any other language, the Speaker may call upon the Member for a translation."<ref>{{cite web |url=http://www.tynwald.org.im/business/sto/Documents/20180604_PP2018-0067_KSO.pdf |title=Standing Orders of the House of Keys |access-date=15 June 2018 |pages=17}}</ref> An example was at the sitting on 12 February 2019, when an MHK used the expression ''boghtnid'',<ref>[http://www.tynwald.org.im/business/hansard/20002020/k190212.pdf] House of Keys Hansard</ref> stated to mean "nonsense".<ref>[http://asmanxasthehills.com/kathleen-faragher-list-of-manx-words-and-manx-dialect-words/]</ref><ref>However this word appears to have been adopted into Manx English, see [https://www.youtube.com/watch?v=VWxpnBogU6c] Braaid Eisteddfod: A poem by Annie Kissack (at 20 seconds)</ref>
+
+Manx is used in the annual [[Tynwald]] ceremony and Manx words are used in official [[Tynwald]] publications.<ref>{{cite web |title=Tynwald - the Parliament of the Isle of Man |url=http://www.tynwald.org.im/Pages/default.aspx |access-date=15 June 2018}}</ref>
+
+For the purpose of strengthening its contribution to local culture and community, Manx is recognised under the [[European Charter for Regional or Minority Languages]] and in the framework of the [[British-Irish Council]].
+
+[[File:BunscoillSignageOct2017.jpg|right|thumb|200px|Sign at the Bunscoill Ghaelgagh at St John's]]
+Manx is taught as a second language at all of the island's primary and secondary schools. The lessons are optional and instruction is provided by the [[Isle of Man Department of Education|Department of Education]]'s Manx Language Team which teach up to [[A Level]] standard.<ref>{{cite web |title=Isle of Man Department of Education, Sport and Culture Report AbuseHelp |url=https://www.sch.im/ |access-date=16 June 2018}}</ref>
+
+The [[Bunscoill Ghaelgagh]], a primary school at [[St John's, Isle of Man|St John's]], has 67 children, as of September 2016, who receive nearly all of their education through the medium of the language. Children who have attended the school have the opportunity to receive some of their secondary education through the language at Queen Elizabeth II High School in [[Peel, Isle of Man|Peel]].
+
+The playgroup organisation [[Mooinjer Veggey]], which operates the {{lang|gv|Bunscoill Ghaelgagh}}, runs a series of preschool groups that introduce the language.
+
+The Isle of Man comprised the one site for the Manx language in the [[Atlas Linguarum Europae]], a project that compared dialects and languages across all countries in Europe.<ref>{{cite book|last=Eder|first=Birgit|year=2003|title=Ausgewählte Verwandtschaftsbezeichnungen in den Sprachen Europas|publisher=Peter Lang|location=Frankfurt am Main |page=301|isbn=3631528736}}</ref>
+
+== Learning the language ==
+
+There are an increasing number of resources available for those wanting to learn the language. The Manx Language Development Officer for [[Culture Vannin]] manages the [http://www.learnmanx.com/ Learnmanx.com] website which has a wide variety of resources. These include [http://www.culturevannin.im/cms/page_288619.html mobile apps] a [http://greinneyder.podomatic.com/ new podcast] in Manx, the 1000 [http://www.learnmanx.com/cms/1000words.html words-in-Manx] challenge and the [https://www.youtube.com/playlist?list=PLY5y-gRhKs8jPbIKdBEogUP_TXuqcPQfN Video-a-day] in Manx series.
+The most recent development on the adult language front is the creation of a new on-line course, Say Something in Manx [https://www.saysomethingin.com/manx SaySomethingin] which has been created in conjunction with the Say Something in Welsh [https://www.saysomethingin.com/welsh SaySomethingin] 
+It is hoped that this will be the main way on-line learners will access the language from now on.
+2016 also saw the launch of a new dictionary for learners published by Culture Vannin.<ref>{{cite web|url=http://learnmanx.com/cms/featured_article_451805.html |title=Manx Words |publisher=Learn Manx |access-date=25 June 2017}}</ref>
+
+===Media===
+{{See also|List of Celtic-language media}}
+Two weekly programmes in Manx are available on medium wave on Manx Radio: ''Traa dy liooar'' on Monday and [https://web.archive.org/web/20140712054609/http://www.manxradio.com/AudioVault/JamysJeheiney.mp3 ''Jamys Jeheiney''] on Friday. The [https://web.archive.org/web/20101128055331/http://manxradio.com/news.aspx?m=70&b1=20&b2=22&b3=24 news in Manx] is available on-line from Manx Radio, who have three other weekly programmes that use the language: [https://web.archive.org/web/20140920121748/http://www.manxradio.com/blog.aspx?blogid=14912 ''Clare ny Gael'']; [https://web.archive.org/web/20140920121602/http://www.manxradio.com/blog.aspx?blogid=14696 ''Shiaght Laa''] and [https://web.archive.org/web/20140904133625/http://www.manxradio.com/blog.aspx?blogid=14872 ''Moghrey Jedoonee'']. Several news readers on Manx Radio also use a good deal of incidental Manx.
+
+The ''Isle of Man Examiner'' has a monthly bilingual column in Manx.
+
+The first film to be made in Manx – the 22-minute-long ''Ny Kirree fo Niaghtey'' (The Sheep [plural] Under the Snow) – premiered in 1983 and was entered for the 5th Celtic Film and Television Festival in Cardiff in 1984. It was directed by Shorys Y Creayrie (George Broderick) for Foillan Films of Laxey, and is about the background to an early 18th-century folk song. In 2013, a short film, [[Solace in Wicca]], was produced with financial assistance from [[Culture Vannin]], [[Pinewood Group|CinemaNX]] and [[Isle of Man Film]].<ref>{{cite web|title=Solace: A Film in Manx Gaelic|url=https://www.youtube.com/watch?v=2dKhU0zXw0k |archive-url=https://ghostarchive.org/varchive/youtube/20211211/2dKhU0zXw0k| archive-date=11 December 2021 |url-status=live|website=Youtube|date=17 February 2014}}{{cbignore}}</ref> A series of short cartoons about the life of Cuchulain which were produced by BBC Northern Ireland are available<ref>{{cite web|title=Cuchulainn Part One|url=https://www.youtube.com/watch?v=xxy6EU-4IdY&list=PLY5y-gRhKs8jDsAbo2Didfz_f51br-kUx |archive-url=https://ghostarchive.org/varchive/youtube/20211211/xxy6EU-4IdY| archive-date=11 December 2021 |url-status=live|website=Youtube|date=17 February 2013}}{{cbignore}}</ref> as are a series of cartoons on Manx mythology.<ref>{{cite web|title=Manannan Episode 4 (part two) Come Dine With Us|url=https://www.youtube.com/watch?v=aFownn3Zj90&list=PLY5y-gRhKs8jDsAbo2Didfz_f51br-kUx |archive-url=https://ghostarchive.org/varchive/youtube/20211211/aFownn3Zj90| archive-date=11 December 2021 |url-status=live|website=Youtube|date=3 March 2014}}{{cbignore}}</ref> Most significant is a 13-part DVD series Manx translation of the award-winning series ''[https://www.youtube.com/watch?v=s9n5kihxGf8&list=PLY5y-gRhKs8jDsAbo2Didfz_f51br-kUx Friends and Heroes]''.<ref>{{cite web|url=http://www.friendsandheroes.com/uk/manx |title=Gaelg (Manx) &#124; Children's Animated Bible Stories &#124; Friends and Heroes &#124; UK Website |publisher=Friends and Heroes |access-date=25 June 2017}}</ref>
+
+===Signage===
+[[File:Manx-museum.JPG|right|200px|thumb|Use of Manx on the [[Manx Museum|national museum]], underneath the English]]
+Bilingual road, street, village and town boundary signs are common throughout the Isle of Man. All other road signs are in English only.
+
+Business signage in Manx is gradually being introduced but is not mandated by law; however, the 1985 Tynwald Report on the use of Manx states that signage should be bilingual except where a Manx phrase is the norm.
+
+===The Manx Bible===
+{{quote|In the time of Bishop Wilson it had been a constant source of complaint among the Manx clergy that they were the only church in Christendom that had no version of the Bible in the vulgar tongue. Wilson set to work to remedy the defect, and, with the assistance of some of his clergy, managed to get some of the Bible translated, and the Gospel of St. Matthew printed. Bishop Hildesley, his successor, with the help of the whole body of Manx clergy, completed the work, and in 1775 the whole Bible was printed.<ref name="isle-of-man.com">{{cite web|url=http://www.isle-of-man.com/manxnotebook/history/manks/jenner.htm |title=Henry Jenner - The Manx Language, 1875 |publisher=Isle-of-man.com |access-date=15 November 2013}}</ref>}}
+
+The Bible was first produced in Manx by a group of Anglican clergymen on the island. The Gospel of Matthew was printed in 1748. The four Gospels were produced in 1763 and {{lang|gv|Conaant Noa nyn Jiarn as Saualtagh Yeesey Creest}} (the [[New Testament]] of our Lord and Saviour Jesus Christ) in 1767 by the [[Society for the Propagation of Christian Knowledge]] (SPCK). In 1772 the Old Testament was translated from Hebrew and printed, together with the Books of [[Wisdom of Solomon]] and [[Ecclesiasticus]] (Sirach) from the [[Apocrypha]]. {{lang|gv|Yn Vible Casherick}} (The Holy Bible) of the Old and New Testaments was published as one book by the SPCK in 1775. The bicentenary was celebrated on the Isle of Man in 1975 and included a set of stamps from the Isle of Man Post Office.
+
+This 1775 edition effectively fixed the modern orthography of Manx Gaelic, which has changed little since. Jenner claims that some [[bowdlerisation]] had occurred in the translation, e.g. the occupation of [[Rahab]] the prostitute is rendered as {{lang|gv|ben-oast}},{{citation needed|date=February 2019}} a hostess or female inn-keeper.<ref name="isle-of-man.com"/>
+
+There was a translation of the {{lang|gv|Psalmyn Ghavid}} (Psalms of David) in metre in Manx by the Rev John Clague, vicar of Rushen, which was printed with the [[Book of Common Prayer]] of 1768. Bishop Hildesley required that these [[Metrical Psalms]] were to be sung in churches. These were reprinted by the [[Manx Language Society]] in 1905.
+
+The [[British and Foreign Bible Society]] (BFBS) published the {{lang|gv|Conaant Noa}} (New Testament) in 1810 and reprinted it in 1824. {{lang|gv|Yn Vible Casherick}} (the Holy Bible) of the Old Testament and New Testament (without the two books of the Apocrypha) was first printed as a whole in 1819. BFBS last printed anything on paper in Manx in 1936 when it reprinted {{lang|gv|Noo Ean}} (the Gospel of St John); this was reprinted by {{lang|gv|[[Manx Gaelic Society|Yn Çheshaght Ghailckagh]]}} (The Manx Gaelic Society) in 1968. The Manx Bible was republished by Shearwater Press in July 1979 as {{lang|gv|Bible Chasherick yn Lught Thie}} (Manx Family Bible), which was a reproduction of the BFBS 1819 Bible.
+
+Since 2014 the BFBS 1936 Manx Gospel of John has been available online on YouVersion and Bibles.org.
+
+===Church===
+Manx was used in some churches into the late 19th century.<ref name="isle-of-man.com"/> Although church services in Manx were once fairly common, they occur infrequently now. Yn Çheshaght Ghailckagh, the Manx Language Society, hold an annual [https://www.youtube.com/watch?v=vY9VF_bkZsw Christmas service] at locations around the island.
+
+==Classification and dialects==
+Manx is one of the three descendants of [[Old Irish]] (via [[Middle Irish]] and early Modern Gaelic), and is closely related to [[Irish language|Irish]] and [[Scottish Gaelic]]. It shares a number of developments in phonology, vocabulary and grammar with Irish and Scottish Gaelic (in some cases only with dialects of these) and shows a number of unique changes. There are two attested historical dialects of Manx, Northern Manx and Southern Manx.<ref>Broderick 1984–86, 1:xxvii–xxviii, 160</ref> A third dialect may have existed in-between, around Douglas.
+
+===Similarities and differences with Irish and Scottish Gaelic===
+Manx shares with Scottish Gaelic the partial loss of contrastive [[Palatalization (phonetics)|palatalisation]] of [[labial consonant]]s; thus while in Irish the velarised consonants {{IPA|/pˠ bˠ fˠ w mˠ/}} contrast [[phonemic]]ally with palatalised {{IPA|/pʲ bʲ fʲ vʲ mʲ/}}, in Scottish Gaelic and Manx, the phonemic contrast has been lost to some extent.<ref>Jackson 1955, 66. Jackson claims that northern Irish has also lost the contrast between velarised and palatalised labials, but this seems to be a mistake on his part, as both [[County Mayo|Mayo]] Irish and Ulster Irish are consistently described as having the contrast (cf. Mhac an Fhailigh 1968, 27; Hughes 1994, 621; see also Ó Baoill 1978, 87)</ref> A consequence of this [[phonemic merger]] is that Middle Irish unstressed word-final {{IPA|[əβʲ]}} (spelled ''-(a)ibh'', ''-(a)imh'' in Irish and Gaelic) has merged with {{IPA|[əβ]}} (''-(e)abh'', ''-(e)amh'') in Manx; both have become {{IPA|[u]}}, spelled ''-oo'' or ''-u(e)''. Examples include {{lang|gv|shassoo}} ("to stand"; Irish {{lang|ga|seasamh}}), {{lang|gv|credjue}} ("religion"; Irish {{lang|ga|creideamh}}), {{lang|gv|nealloo}} ("fainting"; Early Modern Irish {{lang|ga|(i) néalaibh}}, lit. ''in clouds''), and {{lang|gv|erriu}} ("on you (plural)"; Irish {{lang|ga|oraibh}}).<ref>O'Rahilly 1932, 77–82; Broderick 1984–86, 2:152</ref>
+
+Medial and final *bh and *mh have become {{IPA|/u/}} and {{IPA|/w/}} in general in Manx, thus ''shiu'' 'you PL', Scottish and Irish Gaelic ''sibh'' (''siph'' in Northern Irish, ''sib'' in South Connacht Irish; Lewis Gàidhlig has the variant ''siù'', besides the more general ''sibh''), -bh in final consonant clusters, e.g. Manx ''sharroo'' 'bitter', Scottish ''searbh'' {{IPA|/ʃærav/}}, Northern and Western Irish ''searbh'' {{IPA|/ʃæru/}}, Southern Irish ''searbh'' {{IPA|/ʃærəβ/}}, between vowels, e.g. Manx ''awin'' 'river', Scottish ''abhainn'' {{IPA|/aviɲ/}}, Irish ''abhainn'' {{IPA|/aunʲ/}}, word-finally in monosyllables, e.g. Manx ''laaue'' 'hand', Scottish ''làmh'' {{IPA|/la:v/}}, Northern Irish {{IPA|/læ:w/}}, Western Irish ''lámh'' {{IPA|/lɑ:w/}}, Southern Irish {{IPA|/lɑ:β/}}, at the end of stressed syllables (see further below), as in ''sourey'' 'summer', Scotland and Ireland ''samhradh'', Scottish {{IPA|/saurəɣ/}}, Northern Irish {{IPA|/sauru/}}, Western and Southern Irish {{IPA|/saurə/}}. In all this Manx is most like Northern Irish. Rare retentions of the older pronunciation of "bh" include ''Divlyn'', ''Divlin'' 'Dublin', Middle Irish ''Duibhlinn'' {{IPA|/d̪uβʲlʲinʲ:/}}, also written ''Duibhlinn'' in Modern Irish and Scots Gaelic.
+
+Moreover, similarly to [[Munster Irish]], historical ''bh'' {{IPA|[βʲ]}} and ''mh'' (nasalised {{IPA|[βʲ]}}) tend to be lost in the middle or at the end of a word in Manx, either with [[compensatory lengthening]] or vocalisation as '''u''' resulting in [[diphthong]]isation with the preceding vowel. For example, Manx {{lang|gv|geurey}} ("winter") {{IPA|[ˈɡʲeurə], [ˈɡʲuːrə]}} and {{lang|gv|sleityn}} ("mountains") {{IPA|[ˈsleːdʒən]}} correspond to Irish {{lang|ga|geimhreadh}} and {{lang|ga|sléibhte}} (Southern Irish dialect spelling and pronunciation ''gíre'' ({{IPA|[ˈɟiːɾʲə]}}) and ''sléte'' ({{IPA|[ˈʃlʲeːtʲə]}})).<ref>O'Rahilly 1932, 24; Broderick 1984–86 3:80–83; Ó Sé 2000:15, 120</ref> Another similarity to Munster Irish is the development of the Old Irish diphthongs {{IPA|[oi ai]}} before [[velarised]] consonants (spelled ''ao'' in Irish and Scottish Gaelic) to {{IPA|[eː]}} in many words, as in {{lang|gv|seyr}} ("carpenter") {{IPA|[seːr]}} and {{lang|gv|keyl}} ("narrow") {{IPA|[keːl]}} (spelled {{lang|ga|saor}} and {{lang|ga|caol}} in Irish and Scottish, and pronounced virtually the same in Munster).<ref>Jackson 1955, 47–50; Ó Cuív 1944, 38, 91</ref>
+
+Like western and northern dialects of Irish (cf. [[Irish phonology#Word-initial consonant clusters|Irish phonology]]) and most dialects of Scottish Gaelic, Manx has changed the historical [[consonant cluster]]s {{IPA|/kn ɡn mn tn/}} to {{IPA|/kr ɡr mr tr/}}. For example, Middle Irish {{lang|mga|cnáid}} ("mockery") and {{lang|mga|mná}} ("women") have become {{lang|gv|craid}} and {{lang|gv|mraane}} respectively in Manx.<ref>O'Rahilly 1932, 22</ref> The [[affrication]] of {{IPA|[t̪ʲ d̪ʲ]}} to {{IPA|[tʃ dʒ]}} is also common to Manx, northern Irish, and Scottish Gaelic.<ref>O'Rahilly 1932, 203</ref>
+
+Also like northern and western dialects of Irish, as well as like southern dialects of Scottish Gaelic (e.g. [[Isle of Arran|Arran]], [[Kintyre]]), the unstressed word-final syllable {{IPA|[iʝ]}} of Middle Irish (spelled ''-(a)idh'' and ''-(a)igh'') has developed to {{IPA|[iː]}} in Manx, where it is spelled ''-ee'', as in {{lang|gv|kionnee}} ("buy"; cf. Irish {{lang|ga|ceannaigh}}) and {{lang|gv|cullee}} ("apparatus"; cf. Gaelic {{lang|gd|culaidh}}).<ref>O'Rahilly 1932, 57</ref>
+
+Another property Manx shares with Ulster Irish and some dialects of Scottish Gaelic is that {{IPA|/a/}} rather than {{IPA|/ə/}} appears in unstressed syllables before {{IPA|/x/}} (in Manx spelling, ''agh''), for example {{lang|gv|jeeragh}} ("straight") {{IPA|[ˈdʒiːrax]}} (Irish {{lang|ga|díreach}}), {{lang|gv|cooinaghtyn}} ("to remember") {{IPA|[ˈkuːnʲaxt̪ən]}} (Gaelic {{lang|gd|cuimhneachd}}).<ref>O'Rahilly 1932, 110; Jackson 1955, 55</ref>
+
+Like southern and western varieties of Irish and northern varieties of Scottish Gaelic, but unlike the geographically closer varieties of [[Ulster Irish]] and Arran and Kintyre Gaelic, Manx shows vowel lengthening or diphthongisation before the Old Irish [[Irish phonology#Fortis and lenis sonorants|fortis and lenis sonorants]]. For example, {{lang|gv|cloan}} ("children") {{IPA|[klɔːn]}}, {{lang|gv|dhone}} ("brown") {{IPA|[d̪oːn]}}, {{lang|gv|eeym}} ("butter") {{IPA|[iːᵇm]}} correspond to Irish/Scottish Gaelic {{lang|ga|clann}}, {{lang|ga|donn}}, and {{lang|ga|im}} respectively, which have long vowels or diphthongs in western and southern Irish and in the Scottish Gaelic dialects of the [[Outer Hebrides]] and [[Skye]], thus western Irish {{IPA|[klˠɑːn̪ˠ]}}, Southern Irish/Northern Scottish {{IPA|[kl̪ˠaun̪ˠ]}}, {{IPA|[d̪ˠaun̪ˠ]/[d̪ˠoun̪ˠ]}}, {{IPA|[iːm]/[ɤim]}}), but short vowels and 'long' consonants in northern Irish, Arran, and Kintyre, {{IPA|[kl̪ˠan̪ːˠ]}}, {{IPA|[d̪ˠon̪ːˠ]}} and {{IPA|[imʲː]}}.<ref>O'Rahilly 1932, 51; Jackson 1955, 57–58; Holmer 1957, 87, 88, 106; 1962, 41</ref>
+
+Another similarity with southern Irish is the treatment of Middle Irish word-final unstressed {{IPA|[əð]}}, spelled ''-(e)adh'' in Irish and Scottish Gaelic. In nouns (including [[verbal noun]]s), this became {{IPA|[ə]}} in Manx, as it did in southern Irish, e.g. {{lang|gv|caggey}} ("war") {{IPA|[ˈkaːɣə]}}, {{lang|gv|moylley}} ("to praise") {{IPA|[ˈmɔlə]}}; cf. Irish {{lang|ga|cogadh}} and {{lang|ga|moladh}}, pronounced {{IPA|[ˈkˠɔɡˠə]}} and {{IPA|[ˈmˠɔl̪ˠə]}} in southern Irish.<ref>O'Rahilly 1932, 68; Broderick 1984–86, 2:56, 308</ref> In [[finite verb]] forms before full nouns (as opposed to pronouns) {{IPA|[əð]}} became {{IPA|[ax]}} in Manx, as in southern Irish, e.g. {{lang|gv|voyllagh}} {{IPA|[ˈvɔlax]}} ("would praise"), cf. Irish {{lang|ga|mholfadh}}, pronounced {{IPA|[ˈβˠɔl̪ˠhəx]}} in southern Irish.<ref>O'Rahilly 1932, 75</ref>
+
+===Dialects===
+[[File:Manx dialects.png|thumb|left|Dialect map of Manx (boundaries are approximate)]]
+Linguistic analysis of the last few dozen native speakers reveals a number of dialectal differences between the northern and the southern parts of the island. Northern Manx was reflected by speakers from towns and villages from [[Maughold (parish)|Maughold]] in the northeast of the island to [[Peel, Isle of Man|Peel]] on the west coast. Southern Manx was used by speakers from the [[sheading]] of [[Rushen]]. It is possible that written Manx represents a 'midlands' dialect of Douglas and surrounding areas.
+
+In Southern Manx, older ''á'' and in some cases ''ó'' became {{IPA|[æː]}}. In Northern Manx the same happened, but ''á'' sometimes remained {{IPA|[aː]}} as well. For example, {{lang|gv|laa}} ("day", cf. Irish {{lang|ga|lá}}) was {{IPA|[læː]}} in the south but {{IPA|[læː]}} or {{IPA|[laː]}} in the north. Old ''ó'' is always {{IPA|[æː]}} in both dialects, e.g. {{lang|gv|aeg}} ("young", cf. Irish {{lang|ga|óg}}) is {{IPA|[æːɡ]}} in both dialects.<ref>Broderick 1984–8,6 1:160</ref> In many words before ''rt'', ''rd'' and ''rg'', and in one or two other words ''á'', lengthened ''a'' and ''ó'' have become {{IPA|/œː/}}, as in ''paayrt'' 'part' {{IPA|/pœːrt/}}, ''ard'' 'high' {{IPA|/œːrd/}}, ''jiarg'' 'red' {{IPA|/dʒœːrɡ/}}, ''argid'' 'money, silver' {{IPA|/œːrɡid/}} and ''aarey'' 'gold GEN' {{IPA|/œːrə/}}.
+
+In Northern Manx, older ''(e)a'' before ''nn'' in the same syllable is diphthongised, while in Southern Manx it is lengthened but remains a [[monophthong]]. For example, {{lang|gv|kione}} ("head", cf. Irish {{lang|ga|ceann}}) is {{IPA|[kʲaun]}} in the north but {{IPA|[kʲoːn]}} in the south.<ref>Broderick 1984–86, 1:161</ref>
+
+Words with ''ua'' and in some cases ''ao'' in Irish and Scottish are spelled with ''eay'' in Manx. In Northern Manx, this sound was {{IPA|[iː]}}, while in Southern Manx it was {{IPA|[ɯː]}}, {{IPA|[uː]}}, or {{IPA|[yː]}}. For example, {{lang|gv|geay}} ("wind", cf. Irish {{lang|ga|gaoth}}) is {{IPA|[ɡiː]}} in the north and {{IPA|[ɡɯː]}} in the south, while {{lang|gv|geayl}} ("coal", cf. Irish {{lang|ga|gual}}) is {{IPA|[ɡiːl]}} in the north and {{IPA|[ɡyːl]}}, {{IPA|[ɡɯːl]}}, or {{IPA|[ɡuːl]}} in the south.<ref>Broderick 1984–86, 1:161–62</ref>
+
+In both the north and the south, there is a tendency to insert a short {{IPA|[d]}} sound before a word-final {{IPA|[n]}} in monosyllabic words, as in {{IPA|[sleᵈn]}} for {{lang|gv|slane}} ("whole") and {{IPA|[beᵈn]}} for {{lang|gv|ben}} ("woman"). This phenomenon is known as [[pre-occlusion]]. In Southern Manx, however, there is pre-occlusion of {{IPA|[d]}} before {{IPA|[l]}} and of {{IPA|[ɡ]}} before {{IPA|[ŋ]}}, as in {{IPA|[ʃuːᵈl]}} for {{lang|gv|shooyl}} ("walking") and {{IPA|[lɔᶢŋ]}} for {{lang|gv|lhong}} ("ship"). These forms are generally pronounced without pre-occlusion in the north. Preocclusion of {{IPA|[b]}} before {{IPA|[m]}}, on the other hand, is more common in the north, as in {{lang|gv|trome}} ("heavy"), which is {{IPA|[t̪roᵇm]}} in the north but {{IPA|[t̪roːm]}} or {{IPA|[t̪roːᵇm]}} in the south.<ref>Broderick 1984–86, 1:162–63</ref> This feature is also found in [[Cornish language|Cornish]].
+
+Southern Manx tended to lose word-initial {{IPA|[ɡ]}} before {{IPA|[lʲ]}}, while Northern Manx usually preserved it, e.g. {{lang|gv|glion}} ("glen") is {{IPA|[ɡlʲɔᵈn]}} in the north and {{IPA|[lʲɔᵈn]}} in the south, and {{lang|gv|glioon}} ("knee") is {{IPA|[ɡlʲuːn]}} in the north and {{IPA|[lʲuːᵈn]}} in the south.<ref>Broderick 1984–86, 1:164–65</ref>
+{{Clear}}
+
+==Phrases==
+Some simple conversational words and phrases:
+
+{| class="wikitable"
+|-
+! English (Baarle) !! Manx (Gaelg)
+|-
+| Good morning         || Moghrey mie
+|-
+| Good afternoon/evening         || Fastyr mie
+|-
+| Good night         || Oie vie
+|-
+| How are you?     || Kys t'ou? ("tu" form)<br />Kys ta shiu (plural)<br />Kanys ta shiu? ("vous" form)
+|-
+| Very well        || Feer vie
+|-
+| Thank you        || Gura mie ayd ("tu" form)<br />Gura mie eu ("vous" form)
+|-
+| And yourself?    || As oo hene?<br />As shiu hene?
+|-
+| Goodbye          || Slane lhiat<br />Slane lhiu
+|-
+| Yessir (Manx English equivalent of "man" (US: "dude"), as an informal term of address; found as ''a dhuine'' in Irish and Scottish Gaelic) || Whooiney
+|-
+| Isle of Man      || Ellan Vannin
+|}
+
+==Orthography==
+The Manx [[orthography]] is unlike that of Irish and Scottish Gaelic, both of which use similar spelling systems derived from written [[Early Modern Irish]], alt. [[Classical Irish]], which was the language of the educated Gaelic elite of both Ireland and Scotland (where it is called [[Classical Gaelic]]) until the mid-19th century. In general, these orthographies retain spelling and derivation from older Gaelic, which means that there is not in a one-to-one system. Both systems use only 18 letters to represent around 50 phonemes. While Manx in effect uses the English spelling system, except for {{angle bracket|x}} and {{angle bracket|z}}, the 24 letters used in its orthography likewise covers a similar range of phonemes, and therefore many digraphs and trigraphs are used.
+
+The Manx orthography was developed by people who were unaware of traditional Gaelic orthography, as they had learned literacy in [[Welsh language|Welsh]] and English (the initial development in the 16th century), then only English (later developments). Therefore, the orthography is based on early Modern English pronunciation, and to a small extent Welsh, rather than from a pan-Gaelic point of view.<ref>{{Harvcolnb|Kelly|1870|p=xiii}} footnote in ''[https://books.google.com/books?id=NZENAAAAYAAJ&pg=PR13 Spoken Sound as a Rule for Orthography]'', credited to W. Mackenzie.</ref> The result is an inconsistent and only partially phonemic spelling system, in a similar way as spelling in English. [[T.&nbsp;F. O'Rahilly]] expressed the opinion that Gaelic in the Isle of Man was saddled with an inadequate spelling which is neither traditional nor phonetic; if the traditional Gaelic orthography had been preserved, the close kinship that exists between Manx Gaelic and Scottish Gaelic would be obvious to all at first sight.<ref>O'Rahilly 1932, 128</ref>
+
+There is no evidence of [[Gaelic type|Gaelic script]] having been used on the island.
+
+===Cedilla===
+Manx uses relatively few [[diacritic]]s, but a [[cedilla]] is often (but not exclusively) used to differentiate between the two pronunciations of ''ch'':
+* ''Çhiarn'' ({{IPA|/ˈt͡ʃaːrn/}}), meaning ''lord'', is pronounced with the [[voiceless palato-alveolar affricate|palato-alveolar affricate]] {{IPA|/t͡ʃ/}}, as in the English "'''ch'''urch"
+* ''Chamoo'' ({{IPA|/xaˈmu/}}), meaning ''nor'' or ''neither'', is pronounced with the [[voiceless velar fricative|velar fricative]] {{IPA|/x/}}, as in the [[Standard Scottish English|Scottish]] pronunciation of the word "lo'''ch'''" ({{IPA|/ˈlɒx/}}), a sound which is commonly represented by ''gh'' at the ends of words in Manx (as it often is in the English of Ireland).
+
+===Examples===
+The following examples are taken from Broderick 1984–86, 1:178–79 and 1:350–53. The first example is from a speaker of Northern Manx, the second from [[Ned Maddrell]], a speaker of Southern Manx.
+
+{|class=wikitable
+|-
+!Orthography (+ phonetic transcription}
+!Gloss
+|-
+|{{interlinear|lang=gv|V'ad smooinaghtyn dy beagh cabbyl jeeaghyn skee as deinagh ayns y voghree dy beagh eh er ve ec ny ferrishyn fud ny h-oie as beagh ad cur lesh yn saggyrt dy cur e vannaght er.|vod̪ ˈsmuːnʲaxt̪ən d̪ə biəx ˈkaːbəl dʒiːən skiː as ˈd̪øinʲax uns ə ˈvoːxəri d̪ə biəx e er vi ek nə ˈferiʃən fod̪ nə høi as biəx əd̪ kør leʃ ən ˈsaːɡərt̪ d̪ə kør ə ˈvanax er|}}
+|They used to think if a horse was looking tired and weary in the morning then it had been with the fairies all night and they would bring the priest to put his blessing on it.
+|-
+|{{interlinear|lang=gv|Va ben aynshoh yn çhiaghtin chaie as v'ee laccal mish dy ynsagh ee dy gra yn Padjer yn Çhiarn. {} Dooyrt ee dy row ee gra eh tra v'ee inneen veg, {} agh t'eh ooilley jarroodit eck, {} as v'ee laccal gynsagh eh reesht son dy gra eh ec vrastyl ny red ennagh. {} As dooyrt mish dy jinnagh mee jannoo my share son dy cooney lhee as ren ee çheet aynshoh son dy clashtyn eh, {} as vel oo laccal dy clashtyn mee dy gra eh? {}|və ˈbɛn əˈsoː ən ˈtʃaːn ˈkai as vai ˈlaːl ˈmiʃ ði ˈjinðax i ðə ˈɡreː in ˈpaːdʒər ən ˈtʃaːrn ‖ d̪ot̪ i ðə ˈrau i ɡreː a ˈt̪reː vai iˈnʲin ˈveːɡ ‖ ax t̪e ˈolʲu dʒaˈrud̪ətʃ ek ‖ as vei ˈlaːl ˈɡʲinðax a ˈriːʃ san ðə ˈɡreː ə əɡ ˈvraːst̪əl nə ˈrið ənax ‖ as ˈd̪ut̪ miʃ ðə ˈdʒinax mi ˈdʒinu mə ˈʃeː san ðə ˈkunə lʲei as ˈrenʲ i ˈtʃit̪ oˈsoː san ðə ˈklaːʃtʲən a ‖ as vel u ˈlaːl ðə ˈklaːʃtʲən mi ðə ˈɡreː a ‖|}}
+|There was a woman here last week and she wanted me to teach her to say the Lord's Prayer. She said that she used to say it when she was a little girl, but she has forgotten it all, and she wanted to learn it again to say it at a class or something. And I said I would do my best to help her and she came here to hear it, and do you want to hear me say it?
+|}
+
+====Gaelic versions of the Lord's Prayer====
+The [[Lord's Prayer]] has been translated into all the Goidelic tongues. Although the wordings are not completely cognate, they demonstrate the different orthographies.
+
+{{col-start}}
+{{col-2}}
+:'''The standard version of the Lord's Prayer in Manx'''
+<poem lang="gv" style="padding-left: 1em;">
+Ayr ain t'ayns niau,
+Casherick dy row dt'ennym.
+Dy jig dty reeriaght.
+Dt'aigney dy row jeant er y thalloo,
+myr t'ayns niau.
+Cur dooin nyn arran jiu as gagh laa,
+as leih dooin nyn loghtyn,
+myr ta shin leih dauesyn ta jannoo loghtyn nyn 'oi.
+As ny leeid shin ayns miolagh,
+agh livrey shin veih olk:
+Son lhiats y reeriaght, as y phooar, as y ghloyr, son dy bragh as dy bragh.
+Amen.
+</poem>
+{{col-2}}
+:'''Manx version of 1713''' (with [[long s]])<ref>[http://www.christusrex.org/www1/pater/JPN-manx.html MANX GAELIC ( Gaelig, Gaelg )] from www.christusrex.org. Source of text: "ORATIO DOMINICA – Polyglottos, Polymorphos – Nimirum, Plus Centum Linguis, Versionibus, aut Characteribus Reddita & Expressa" ("Lord's Prayer - many languages and forms - restored and rendered in certainly over 100 languages, versions or types"), Daniel Brown, London, 1713.</ref>
+<poem lang="gv" style="padding-left: 1em;">
+Ayr Ain, t'ayns Niau;
+Caſherick dy rou dt'ennym;
+Di jig dty Reereeaght;
+Dt'aigney dy rou jeant er y Talloo myr ta ayns Niau;
+Cur dooin nyn Arran jiu as gagh laa;
+As leih dooin nyn Loghtyn, myr ta ſhin leih daueſyn ta janoo loghtyn ny noi ſhin;
+As ny leeid ſhin ayns Miolagh;
+Agh livrey ſhin veih olk;
+Son liats y Reereeaght y Phooar as y Ghloyr, ſon dy bragh as dy bragh.
+Amen
+</poem>
+{{col-end}}
+
+{{col-start}}
+{{col-3}}
+:'''The prayer in Old Irish'''<ref>Ta'n lhieggan shoh jeh'n Phadjer aascreeuit 'sy chlou Romanagh veih'n çhenn chlou Yernagh. Son d'akin er y lhieggan shen jeh'n phadjer gow dys y [http://www.christusrex.org/www1/pater/JPN-gaelic-old.html duillag shoh] ec www.christusrex.org</ref>
+<poem lang="sga" style="padding-left: 1em;">
+A athair fil hi nimib,
+Noemthar thainm.
+Tost do flaithius.
+Did do toil i talmain
+amail ata in nim.
+Tabair dun indiu ar sasad lathi.
+Ocus log dun ar fiachu
+amail logmaitne diar fhechemnaib.
+Ocus nis lecea sind i n-amus n-dofulachtai.
+Acht ron soer o cech ulc.
+Amen ropfir.
+</poem>
+{{col-3}}
+:'''The Prayer in modern Irish'''
+<poem lang="ga" style="padding-left: 1em;">
+Ár n-Athair, atá ar neamh:
+go naofar d'ainm (''alt.'' go naomhaíthear t'ainm).
+Go dtaga do ríocht (''alt.'' go dtagaidh do ríocht).
+Go ndéantar do thoil ar an talamh (alt. ar an dtalamh),
+mar dhéantar ar neamh.
+Ár n-arán laethúil tabhair dúinn inniu,
+agus maith dúinn ár bhfiacha (''alt.'' ár gcionta),
+mar mhaithimid dár bhféichiúna féin (''alt.'' mar a mhaithimíd dóibh a chiontaíonn inár n-aghaidh).
+Agus ná lig sinn i gcathú (''alt.'' i gcathaíbh),
+ach saor sinn ó olc (''alt.'' ón olc).
+Óir is leatsa an Ríocht agus an Chumhacht agus an Ghlóir, trí shaol na saol (''alt.'' le saol na saol / go síoraí).
+Amen (''alt.'' Áiméan).
+</poem>
+{{col-3}}
+:'''The Prayer in Scottish Gaelic'''
+<poem lang="gd" style="padding-left: 1em;">
+Ar n-Athair a tha air nèamh,
+Gu naomhaichear d' ainm.
+Thigeadh do rìoghachd.
+Dèanar do thoil air an talamh,
+mar a nithear air nèamh.
+Tabhair dhuinn an-diugh ar n-aran làitheil.
+Agus maith dhuinn ar fiachan,
+amhail a mhaitheas sinne dar luchd-fiach.
+Agus na leig ann am buaireadh sinn;
+ach saor sinn o olc:
+oir is leatsa an rìoghachd, agus a' chumhachd, agus a' ghlòir, gu sìorraidh.
+Amen.
+</poem>
+{{col-end}}
+
+===Spelling to sound correspondences===
+
+====Vowels====
+{|class="wikitable"
+|-
+! colspan=2 | Letter(s)
+! Phoneme(s)
+! Examples
+|-
+| rowspan=2 | a
+| stressed
+| {{IPA|/a/}}<br />{{IPA|/aː/}}
+| Ghaelg'''a'''gh, cooin'''a'''ghtyn<br />p'''a'''djer, c'''a'''bbyl
+|-
+| unstressed
+| {{IPA|/ə/}}<br />{{IPA|/i/}}<br />{{IPA|/a/}}
+| '''a'''rdnieu, bodj'''a'''l<br />coll'''a'''neyn<br />duill'''a'''g
+|-
+| colspan=2 | a...e, ia...e
+| {{IPA|/eː/}}
+| sl'''a'''n'''e''', bugg'''a'''n'''e''', k'''ia'''r'''e'''
+|-
+| colspan=2 | aa, aa...e
+| {{IPA|/ɛː/}}<br />{{IPA|/øː/}}<br />{{IPA|/eːa/}}<br />{{IPA|/eː/}}<br />{{IPA|/aː/}} (north)
+| b'''aa'''tey, '''aa'''shagh <br />f'''aa'''rkey<br />j'''aa'''gh<br />bl'''aa''', '''aa'''n'''e'''
+|-
+| colspan=2 | aai
+| {{IPA|/ɛi/}}
+|f'''aai'''e
+|-
+| colspan=2 | ae
+| {{IPA|/i/}}<br />{{IPA|/ɪ/}}<br />{{IPA|/eː/}}
+| G'''ae'''lg <br />Gh'''ae'''lgagh <br />'''ae'''g, '''ae'''r
+|-
+| colspan=2 | aew
+| {{IPA|/au/}}
+|br'''aew'''
+|-
+| colspan=2 | ah
+| {{IPA|/ə/}}
+| pecc'''ah'''
+|-
+| colspan=2 | ai, ai...e
+| {{IPA|/aː/}}<br />{{IPA|/ai/}}<br />{{IPA|/e/}}
+| m'''ai'''djey <br />'''ai'''le <br />p'''ai'''tçhey
+|-
+| colspan=2 | aiy
+| {{IPA|/eː/}}
+| f'''aiy'''r
+|-
+| colspan=2 | aue
+| {{IPA|/eːw/}}
+| cr'''aue''', fr'''aue'''
+|-
+| colspan=2 | ay
+| {{IPA|/eː/}}
+| '''ay'''r, k'''ay'''
+|-
+| rowspan=2 | e
+| stressed
+| {{IPA|/e/}}<br />{{IPA|/eː/}}<br />{{IPA|/ɛ/}}<br />{{IPA|/i/}}
+| b'''e'''n, v'''e'''ggey<br />m'''e'''ss<br />p'''e'''ccah, '''e'''ddin<br />ch'''e'''ngey
+|-
+| unstressed
+| {{IPA|/ə/}}
+| padj'''e'''r
+|-
+| colspan=2 | ea
+| {{IPA|/ɛː/}}
+| b'''ea'''ghey
+|-
+| colspan=2 | eai
+| {{IPA|/eː/}}
+| '''eai'''rk
+|-
+| colspan=2 | eau, ieau
+| {{IPA|/uː/}}
+| sl'''ieau'''
+|-
+| colspan=2 | eay
+| {{IPA|/eː/}}<br />{{IPA|/iː/}} (north) <br /> {{IPA|/ɯː/}}, {{IPA|/uː/}} or {{IPA|/yː/}} (south)
+| '''eay'''st, cl'''eay'''sh<br />g'''eay''', k'''eay'''n
+|-
+| colspan=2 | ee
+| {{IPA|/iː/}}
+| kionn'''ee''', j'''ee'''s
+|-
+| colspan=2 | eea
+| {{IPA|/iːə/}}<br />{{IPA|/iː/}}<br />{{IPA|/jiː/}}
+| y'''eea'''st, k'''eea'''d <br />f'''eea'''ckle, k'''eea'''gh<br />'''eea'''st
+|-
+| colspan=2 | eei, eey
+| {{IPA|/iː/}}
+| f'''eei'''d, dr'''eey'''m, m'''eey'''l
+|-
+| colspan=2 | ei
+| {{IPA|/eː/}}<br />{{IPA|/e/}}<br />{{IPA|/a/}}
+| sl'''ei'''tyn, '''ei'''n<br />qu'''ei'''g<br />g'''ei'''nnagh
+|-
+| colspan=2 | eih
+| {{IPA|/ɛː/}}
+| j'''eih'''
+|-
+| colspan=2 | eoie
+| {{IPA|/øi/}}
+| l'''eoie'''
+|-
+| colspan=2 | eu, ieu
+| {{IPA|/uː/}}<br />{{IPA|/eu/}}
+| g'''eu'''rey <br /> ardn'''ieu'''
+|-
+| rowspan=2 | ey
+| stressed
+| {{IPA|/eː/}}
+| s'''ey'''r, k'''ey'''l
+|-
+| unstressed
+| {{IPA|/ə/}}
+| vegg'''ey''', collan'''ey'''n
+|-
+| colspan=2 | unstressed i
+| {{IPA|/ə/}}<br />{{IPA|/i/}}
+| edd'''i'''n, rugg'''i'''t <br /> poos'''i'''t
+|-
+| colspan=2 | ia
+| {{IPA|/aː/}}<br />{{IPA|/a/}}<br />{{IPA|/iː/}}<br />{{IPA|/iːə/}}
+| çh'''ia'''rn, sh'''ia'''ght <br />tosh'''ia'''ght, sn'''ia'''ghtey<br />gr'''ia'''n<br />sk'''ia'''n
+|-
+| colspan=2 | {{Not a typo|ie}}
+| {{IPA|/aɪ/}}
+|m'''ie'''
+|-
+| colspan=2 | io
+| {{IPA|/ɔ/}}
+| gl'''io'''n
+|-
+| colspan=2 | io...e
+| {{IPA|/au/}} (north) <br />{{IPA|/oː/}} (south)
+| k'''io'''n'''e'''
+|-
+| colspan=2 | o, oi
+| {{IPA|/ɔ/}} or {{IPA|/ɑ/}}<br />{{IPA|/ɔː/}} or {{IPA|/ɑː/}}<br />{{IPA|/o/}}<br />{{IPA|/oː/}}<br />{{IPA|/u/}}
+| lh'''o'''ng, t'''o'''shiaght<br />b'''o'''djal, l'''o'''gh, m'''oi'''r <br />v'''o'''ndeish, b'''o'''lg, bunsc'''oi'''ll<br />h'''o'''ght, ree'''oi'''l<br />str'''oi'''n
+|-
+| colspan=2 | o...e
+| {{IPA|/ɔː/}}<br />{{IPA|/oː/}}
+| dh'''o'''n'''e'''<br />tr'''o'''m'''e'''
+|-
+| colspan=2 | oa
+| {{IPA|/ɔː/}}<br />{{IPA|/au/}}
+| cl'''oa'''n<br />j'''oa'''n
+|-
+| colspan=2 | oh
+| {{IPA|/ɔ/}}
+|sh'''oh'''
+|-
+| colspan=2 | oie
+| {{IPA|/ei/}} or {{IPA|/iː/}}
+| '''oie'''
+|-
+| colspan=2 | oo, ioo, ooh
+| {{IPA|/uː/}}
+| shass'''oo''', c'''oo'''ney, gl'''ioo'''n, '''ooh'''
+|-
+| colspan=2 | ooa, iooa
+| {{IPA|/uː/}}
+| m'''ooa'''r
+|-
+| colspan=2 | ooi
+| {{IPA|/u/}}
+| m'''ooi'''njer, c'''ooi'''naghtyn
+|-
+| colspan=2 | ooy
+| {{IPA|/uː/}}
+| sh'''ooy'''l
+|-
+| colspan=2 | oy
+| {{IPA|/ɔ/}}
+| m'''oy'''lley, v'''oy'''llagh
+|-
+| rowspan=2 | u, ui, iu
+| stressed
+| {{IPA|/ʊ/}}<br />{{IPA|/o/}}<br />{{IPA|/ø/}}
+| b'''u'''nscoill<br />r'''u'''ggit, '''u'''shag, d'''ui'''llag, f'''ui'''ll<br />l'''u'''rgey
+|-
+| unstressed
+| {{IPA|/ə/}}
+| b'''u'''ggane
+|-
+| colspan=2 | ua
+| {{IPA|/uːa/}}
+| y Y'''ua'''n
+|-
+| colspan=2 | ue
+| {{IPA|/u/}}
+| credj'''ue'''
+|-
+| colspan=2 | uy
+| {{IPA|/ɛi/}} or {{IPA|/iː/}}
+| n'''uy'''
+|-
+| colspan=2 | wa
+| {{IPA|/o/}}
+| m'''wa'''nnal
+|-
+| colspan=2 | y
+| {{IPA|/ə/}}<br />{{IPA|/i/}}<br />{{IPA|/ɪ/}}<br />{{IPA|/j/}}
+| cabb'''y'''l, sleit'''y'''n<br />'''y'''ngyn<br />f'''y'''s<br />y '''Y'''uan, '''y'''eeast
+|}
+
+====Consonants====
+{|class="wikitable"
+|-
+! colspan=2 | Letter(s)
+! Phoneme(s)
+! Examples
+|-
+| rowspan=2 | b, bb
+| usually
+| {{IPA|/b/}}
+| '''b'''unscoill, '''b'''en
+|-
+| between vowels
+| {{IPA|/β/}} or {{IPA|/v/}}
+| ca'''bb'''yl
+|-
+| rowspan=2 | c, cc, ck
+| usually
+| {{IPA|/k/}}
+| buns'''c'''oill, '''c'''loan
+|-
+| between vowels
+| {{IPA|/ɡ/}}<br />{{IPA|/ɣ/}}
+| pe'''cc'''ah, ga'''cc'''an<br />feea'''ck'''le, cra'''ck'''an
+|-
+| colspan=2 | ch
+| {{IPA|/x/}}
+| '''ch'''a
+|-
+| colspan=2 | çh, tçh
+| {{IPA|/tʃ/}}
+| '''çh'''iarn, '''çh'''engey, pai'''tçh'''ey
+|-
+| rowspan=3 | d, dd, dh
+| broad
+| {{IPA|/d̪/}}
+| keea'''d''', ar'''d'''nieu, te'''dd''', '''dh'''one
+|-
+| slender
+| {{IPA|/dʲ/}} or {{IPA|/dʒ/}}
+| feei'''d'''
+|-
+| broad, between vowels
+| {{IPA|/ð/}}
+| e'''dd'''in, mo'''dd'''ey
+|-
+| colspan=2 | f
+| {{IPA|/f/}}
+| '''f'''ys, '''f'''eeackle
+|-
+| rowspan=3 | g, gg
+| broad
+| {{IPA|/ɡ/}}
+| '''G'''aelg, Ghael'''g'''agh
+|-
+| slender
+| {{IPA|/ɡʲ/}}
+| '''g'''eurey, '''g'''einnagh
+|-
+| between vowels
+| {{IPA|/ɣ/}}
+| ve'''gg'''ey, ru'''gg'''it
+|-
+| rowspan=2 | gh
+| usually
+| {{IPA|/ɣ/}}<br />∅
+| '''Gh'''aelgagh, bea'''gh'''ey<br />sha'''gh'''ey
+|-
+| finally or before t
+| {{IPA|/x/}}
+| jeera'''gh''', cla'''gh''', cooina'''gh'''tyn
+|-
+| colspan=2 | -ght
+| {{IPA|/x/}}
+| toshia'''ght''', ho'''ght'''
+|-
+| colspan=2 | h
+| {{IPA|/h/}}
+| '''h'''oght
+|-
+| rowspan=2 | j, dj
+| usually
+| {{IPA|/dʒ/}}
+| mooin'''j'''er, '''j'''eeragh
+|-
+| between vowels
+| {{IPA|/ʒ/}}<br />{{IPA|/j/}}
+| pa'''dj'''er<br />mai'''dj'''ey, fe'''dj'''ag
+|-
+| rowspan=2 | k
+| broad
+| {{IPA|/k/}}
+| '''k'''eyl, eair'''k'''
+|-
+| slender
+| {{IPA|/kʲ/}}
+| '''k'''ione, '''k'''iare
+|-
+| rowspan=3 | l, ll
+| broad
+| {{IPA|/l/}}
+| Gae'''l'''g, s'''l'''eityn, moy'''ll'''ey
+|-
+| slender
+| {{IPA|/lʲ/}}
+| g'''l'''ion, b'''l'''ein, fei'''ll''', bi'''ll'''ey
+|-
+| finally, in monosyllabic words (S only)
+| {{IPA|/ᵈl/}}
+| shooy'''l'''
+|-
+| colspan=2 | -le
+| {{IPA|/əl/}}
+| feeack'''le'''
+|-
+| colspan=2 | lh
+| {{IPA|/l/}}
+| '''lh'''ong
+|-
+| rowspan=2 | m, mm
+| normally
+| {{IPA|/m/}}
+| '''m'''ooinjer, dreey'''m''', fa'''mm'''an
+|-
+| finally, in monosyllabic words (N only)
+| {{IPA|/ᵇm/}}
+| eey'''m''', tro'''m'''e
+|-
+| rowspan=4 | n
+| broad
+| {{IPA|/n/}}
+| bu'''n'''scoill, cooinaghty'''n''', e'''nn'''ym
+|-
+| slender
+| {{IPA|/nʲ/}}
+| ard'''n'''ieu, colla'''n'''eyn, dooi'''nn'''ey, gei'''nn'''agh
+|-
+| finally, in monosyllabic words
+| {{IPA|/ᵈn/}}
+| sla'''n'''e, be'''n'''
+|-
+| slender, finally, in monosyllabic words
+| {{IPA|/ᵈnʲ/}}
+| ei'''n'''
+|-
+| rowspan=2 | ng
+| usually
+| {{IPA|/ŋ/}}<br />{{IPA|/nʲ/}}
+| y'''ng'''yn<br />che'''ng'''ey
+|-
+| finally, in monosyllabic words (S only)
+| {{IPA|/ᶢŋ/}}
+| lho'''ng'''
+|-
+| rowspan=2 | p, pp
+| usually
+| {{IPA|/p/}}
+| '''p'''eccah, '''p'''adjer
+|-
+| between vowels
+| {{IPA|/v/}}
+| ca'''pp'''an
+|-
+| colspan=2 | qu
+| {{IPA|/kw/}}
+| '''qu'''eig
+|-
+| rowspan=2 | r, rr
+| usually
+| {{IPA|/r/}}
+| geu'''r'''ey, jee'''r'''agh, fe'''rr'''ishyn
+|-
+| finally
+| {{IPA|[ɹ̝]}} or {{IPA|[ə̯]}}
+| ae'''r''', faiy'''r'''
+|-
+| rowspan=3 | s, ss
+| usually
+| {{IPA|/s/}}<br />{{IPA|/z/}}
+| bun'''s'''coill, '''s'''leityn, ca'''ss'''<br />fy'''s'''
+|-
+| initially before n
+| {{IPA|/ʃ/}}
+| '''s'''niaghtey
+|-
+| between vowels
+| {{IPA|/ð/}}<br />{{IPA|/z/}}
+| sha'''ss'''oo<br /> poo'''s'''it
+|-
+| rowspan=2 | sh
+| usually
+| {{IPA|/ʃ/}}
+| '''sh'''ooyl, vondei'''sh'''
+|-
+| between vowels
+| {{IPA|/ʒ/}}<br />{{IPA|/j/}}
+| aa'''sh'''agh, u'''sh'''ag <br /> to'''sh'''iaght
+|-
+| colspan=2 | -st
+| {{IPA|/s/}}
+| eay'''st''', eea'''st'''
+|-
+| rowspan=4 | t, tt, th
+| broad
+| {{IPA|/t̪/}}
+| '''t'''rome, cooinagh'''t'''yn, '''th'''alloo
+|-
+| slender
+| {{IPA|/tʲ/}} or {{IPA|/tʃ/}}
+| poosi'''t''', ush'''t'''ey, tui'''tt'''ym
+|-
+| broad, between vowels
+| {{IPA|/d̪/}}<br />{{IPA|/ð/}}
+| bra'''tt'''ag<br />baa'''t'''ey
+|-
+| slender, between vowels
+| {{IPA|/dʲ/}} or {{IPA|/dʒ/}}
+| slei'''t'''yn
+|-
+| colspan=2 | v
+| {{IPA|/v/}}
+| '''v'''eggey, '''v'''oyllagh
+|-
+| colspan=2 | w
+| {{IPA|/w/}}
+| a'''w'''in
+|}
+
+==Phonology==
+
+===Consonants===
+The consonant phonemes of Manx are as follows:<ref>Thomson 1992, 128–29; Broderick 1993, 234</ref>
+
+{|class="wikitable" style="text-align: center;"
+|+Manx consonant phonemes
+|-
+! &nbsp;
+! colspan="2" | [[Bilabial consonant|Bilabial]]
+! colspan="2" | [[Labiodental consonant|Labio-<br />dental]]
+! colspan="2" | [[Dental consonant|Dental]]
+! colspan="2" | [[Alveolar consonant|Alveolar]]
+! colspan="2" | [[Postalveolar consonant|Post-<br />alveolar]]
+! colspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Palatalization (phonetics)|Palato-<br />velar]]
+! colspan="2" | [[Velar consonant|Velar]]
+! colspan="2" | [[labialized velar consonant|Labio-<br />velar]]
+! colspan="2" | [[Glottal consonant|Glottal]]
+|-
+! [[Plosive]]
+| style="border-right-width: 0;" | {{IPA|p}} || style="border-left-width: 0;" | {{IPA|b}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|t̪}} || style="border-left-width: 0;" | {{IPA|d̪}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|tʲ}} || style="border-left-width: 0;" | {{IPA|dʲ}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|kʲ}} || style="border-left-width: 0;" | {{IPA|ɡʲ}}
+| style="border-right-width: 0;" | {{IPA|k}} || style="border-left-width: 0;" | {{IPA|ɡ}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+|-
+! [[Fricative consonant|Fricative]]
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|f}} || style="border-left-width: 0;" | {{IPA|v}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|s}} || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|ʃ}} || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|xʲ}} || style="border-left-width: 0;" | {{IPA|ɣʲ}}
+| style="border-right-width: 0;" | {{IPA|x}} || style="border-left-width: 0;" | {{IPA|ɣ}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | {{IPA|h}} || style="border-left-width: 0;" | &nbsp;
+|-
+! [[Nasal stop|Nasal]]
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|m}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|n}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|nʲ}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|ŋʲ}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|ŋ}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+|-
+! [[Trill consonant|Trill]]
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|r}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+|-
+! [[Approximant consonant|Approximant]]
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|j}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|w}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+|-
+! [[Lateral consonant|Lateral]]
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|l}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | {{IPA|lʲ}}
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+| style="border-right-width: 0;" | &nbsp; || style="border-left-width: 0;" | &nbsp;
+|}
+
+The voiceless plosives are pronounced with [[aspiration (phonetics)|aspiration]]. The dental, postalveolar and palato-velar plosives {{IPA|/t̪ d̪ tʲ dʲ kʲ/}} are [[affrication|affricated]] to {{IPA|[t̪͡θ d̪͡ð t͡ʃ d͡ʒ k͡xʲ]}} in many contexts.
+
+Manx has an optional process of [[lenition]] of plosives between vowels, whereby voiced plosives and voiceless fricatives become voiced fricatives and voiceless plosives become either voiced plosives or voiced fricatives. This process introduces the [[allophone]]s {{IPA|[β ð z ʒ]}} to the series of voiced fricatives in Manx. The voiced fricative {{IPA|[ʒ]}} may be further lenited to {{IPA|[j]}}, and {{IPA|[ɣ]}} may disappear altogether. Examples include:<ref>Broderick 1984–86, 3:3–13; Thomson 1992, 129</ref>
+;Voiceless plosive to voiced plosive
+* {{IPA|/t̪/}} > {{IPA|[d̪]}}: {{lang|gv|brattag}} {{IPA|[ˈbrad̪aɡ]}} "flag, rag"
+* {{IPA|/k/}} > {{IPA|[ɡ]}}: {{lang|gv|peccah}} {{IPA|[ˈpɛɡə]}} "sin"
+;Voiceless plosive to voiced fricative
+* {{IPA|/p/}} > {{IPA|[v]}}: {{lang|gv|cappan}} {{IPA|[ˈkavan]}} "cup"
+* {{IPA|/t̪/}} > {{IPA|[ð]}}: {{lang|gv|baatey}} {{IPA|[ˈbɛːðə]}} "boat"
+* {{IPA|/k/}} > {{IPA|[ɣ]}}: {{lang|gv|feeackle}} {{IPA|[ˈfiːɣəl]}} "tooth"
+;Voiced plosive to voiced fricative
+* {{IPA|/b/}} > {{IPA|[v]}}: {{lang|gv|cabbyl}} {{IPA|[ˈkaːvəl]}} "horse"
+* {{IPA|/d̪/}} > {{IPA|[ð]}}: {{lang|gv|eddin}} {{IPA|[ˈɛðənʲ]}} "face"
+* {{IPA|/dʲ/}} > {{IPA|[ʒ]}}: {{lang|gv|padjer}} {{IPA|[ˈpaːʒər]}} "prayer"
+* {{IPA|/dʲ/}} > {{IPA|[ʒ]}} > {{IPA|[j]}}: {{lang|gv|maidjey}} {{IPA|[ˈmaːʒə], [ˈmaːjə]}} "stick"
+* {{IPA|/ɡ/}} > {{IPA|[ɣ]}}: {{lang|gv|ruggit}} {{IPA|[ˈroɣət]}} "born"
+;Voiceless fricative to voiced fricative
+* {{IPA|/s/}} > {{IPA|[ð]}} or {{IPA|[z]}}: {{lang|gv|poosit}} {{IPA|[ˈpuːðitʲ] or [ˈpuːzitʲ]}} "married"
+* {{IPA|/s/}} > {{IPA|[ð]}}: {{lang|gv|shassoo}} {{IPA|[ˈʃaːðu]}} "stand"
+* {{IPA|/ʃ/}} > {{IPA|[ʒ]}}: {{lang|gv|aashagh}} {{IPA|[ˈɛːʒax]}} "easy"
+* {{IPA|/ʃ/}} > {{IPA|[ʒ]}} > {{IPA|[j]}}: {{lang|gv|toshiaght}} {{IPA|[ˈt̪ɔʒax], [ˈt̪ɔjax]}} "beginning"
+* {{IPA|/x/}} > {{IPA|[ɣ]}}: {{lang|gv|beaghey}} {{IPA|[ˈbɛːɣə]}} "live"
+* {{IPA|/x/}} > {{IPA|[ɣ]}} > ∅: {{lang|gv|shaghey}} {{IPA|[ʃaː]}} "past"
+
+Another optional process of Manx phonology is [[pre-occlusion]], the insertion of a very short [[plosive consonant]] before a [[sonorant consonant]]. In Manx, this applies to stressed monosyllabic words (i.e. words one syllable long). The inserted consonant is homorganic with the following sonorant, which means it has the same [[place of articulation]]. Long vowels are often shortened before pre-occluded sounds. Examples include:<ref>Broderick 1984–86, 3:28–34; 1993, 236</ref>
+* {{IPA|/m/}} > {{IPA|[ᵇm]}}: {{lang|gv|trome}} {{IPA|/t̪roːm/}} > {{IPA|[t̪roᵇm]}} "heavy"
+* {{IPA|/n/}} > {{IPA|[ᵈn]}}: {{lang|gv|kione}} {{IPA|/kʲoːn/}} > {{IPA|[kʲoᵈn]}} "head"
+* {{IPA|/nʲ/}} > {{IPA|[ᵈnʲ]}}: {{lang|gv|ein}} {{IPA|/eːnʲ/}} > {{IPA|[eːᵈnʲ], [eᵈnʲ]}} "birds"
+* {{IPA|/ŋ/}} > {{IPA|[ᶢŋ]}}: {{lang|gv|lhong}} {{IPA|/loŋ/}} > {{IPA|[loᶢŋ]}} "ship"
+* {{IPA|/l/}} > {{IPA|[ᵈl]}}: {{lang|gv|shooyll}} {{IPA|/ʃuːl/}} > {{IPA|[ʃuːᵈl]}} "walking"
+
+The trill {{IPA|/r/}} is realised as a one- or two-contact flap {{IPA|[ɾ]}} at the beginning of syllable, and as a stronger trill {{IPA|[r]}} when preceded by another consonant in the same syllable. At the end of a syllable, {{IPA|/r/}} can be pronounced either as a strong trill {{IPA|[r]}} or, more frequently, as a weak fricative {{IPA|[ɹ̝]}}, which may vocalise to a nonsyllabic {{IPA|[ə̯]}} or disappear altogether.<ref>Broderick 1984–86; 3:17–18</ref> This vocalisation may be due to the influence of [[Manx English]], which is itself a [[non-rhotic accent]].<ref>Jackson 1955, 118; Concise Oxford Companion to the English Language, 1998, [http://www.encyclopedia.com/doc/1O29-ISLEOFMAN.html Isle of Man], retrieved 28 September 2008</ref> Examples of the pronunciation of {{IPA|/r/}} include:
+* {{lang|gv|ribbey}} "snare" {{IPA|[ˈɾibə]}}
+* {{lang|gv|arran}} "bread" {{IPA|[ˈaɾan]}}
+* {{lang|gv|mooar}} "big" {{IPA|[muːr], [muːɹ̝], [muːə̯], [muː]}}
+
+===Vowels===
+The vowel phonemes of Manx are as follows:<ref>Broderick 1993, 230–33</ref>
+
+{|class="wikitable" style="text-align: center;"
+|+ Manx vowel phonemes
+|-
+! rowspan=2 |
+! colspan=3 | [[Vowel length|Short]]
+! colspan=3 | Long
+|-
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+! Front
+! Central
+! Back
+|-
+! [[Close vowel|Close]]
+| {{IPA|i}}
+|
+| {{IPA|u}}
+| {{IPA|iː}}
+|
+| {{IPA|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|e}}
+| {{IPA|ə}}
+| {{IPA|o}}
+| {{IPA|eː}}
+| {{IPA|øː}}
+| {{IPA|oː}}
+|-
+! [[Open vowel|Open]]
+| {{IPA|æ}}
+| {{IPA|a}}
+| {{IPA|ɔ}}
+| {{IPA|æː}}
+| {{IPA|aː}}
+| {{IPA|ɔ:}}
+|}
+
+The status of {{IPA|[æ]}} and {{IPA|[æː]}} as separate phonemes is debatable, but is suggested by the allophony of certain words such as {{lang|gv|ta}} "is", {{lang|gv|mraane}} "women", and so on. An alternative analysis is that Manx has the following system, where the vowels {{IPA|/a/}} and {{IPA|/aː/}} have allophones ranging from {{IPA|[ɛ]/[ɛː]}} through {{IPA|[æ]/[æː]}} to {{IPA|[a]/[aː]}}. As with Irish and Scottish Gaelic, there is a large amount of vowel allophony, such as that of {{IPA|/a/, /aː/}}. This depends mainly on the 'broad' and 'slender' status of the neighbouring consonants:
+
+{| class="wikitable" style="text-align: center;"
+|+ Manx vowel phonemes and their allophonic variation
+|-
+! Phoneme
+! "Slender"
+! "Broad"
+|-
+| {{IPA|/i/, /iː/}}
+| {{IPA|[i], [iː]}}
+| {{IPA|[ɪ], [ɪː]}}
+|-
+| {{IPA|/e/, /eː/}}
+| {{IPA|[e]/[eː]}}
+| {{IPA|[ɛ]/[ɛː]}}
+|-
+| {{IPA|/a/, /aː/}}
+| {{IPA|[ɛ~æ]/[ɛː~æː]}}
+| {{IPA|[a]/[aː]/[øː]}}
+|-
+| {{IPA|/ə/}}
+| {{IPA|[ɨ]}}
+| {{IPA|[ə]}}
+|-
+| {{IPA|/əi/}} (Middle Gaelic)
+| {{IPA|[iː]}}
+| {{IPA|[ɛː], [ɯː], [ɪː]}}
+|-
+| {{IPA|/o/, /oː/}}
+| {{IPA|[o], [oː]}}
+| {{IPA|[ɔ], [ɔː]}}
+|-
+| {{IPA|/u/, /uː/}}
+| {{IPA|[u], [uː]}}
+| {{IPA|[ø~ʊ], [uː]}}
+|-
+| {{IPA|/uə/}} (Middle Gaelic)
+| {{IPA|[iː], [yː]}}
+| {{IPA|[ɪː], [ɯː], [uː]}}
+|}
+
+When stressed, {{IPA|/ə/}} is realised as {{IPA|[ø]}}.<ref>Broderick 1993, 232–33</ref>
+
+Manx has a relatively large number of [[diphthong]]s, all of them [[Height-harmonic|falling]]:
+{|class="wikitable" style="text-align: center;"
+|+ Manx diphthongs
+! rowspan=2 colspan=2 |
+! colspan=3           | Second element
+|-
+! {{IPA|/i/}}
+! {{IPA|/u/}}
+! {{IPA|/ə/}}
+|-
+! rowspan=3 | First <br/>element
+! Close
+| {{IPA|ui}}
+|
+| {{IPA|iə • uə}}
+|-
+! Mid
+| {{IPA|ei • əi • oi}}
+| {{IPA|eu • əu}}
+|
+|-
+! Open
+| {{IPA|ai}}
+| {{IPA|au}}
+|
+|}
+
+===Stress===
+Stress generally falls on the first syllable of a word in Manx, but in many cases, stress is attracted to a long vowel in the second syllable.<ref>Broderick 1993, 236</ref> Examples include:
+* {{lang|gv|buggane}} {{IPA|/bəˈɣæːn/}} "sprite"
+* {{lang|gv|tarroogh}} {{IPA|/t̪aˈruːx/}} "busy"
+* {{lang|gv|reeoil}} {{IPA|/riːˈoːl/}} "royal"
+* {{lang|gv|vondeish}} {{IPA|/vonˈd̪eːʃ/}} "advantage"
+
+==Morphology==
+{{Main|Manx grammar}}
+
+=== Initial consonant mutations ===
+Like all modern Celtic languages, Manx shows [[consonant mutation#Celtic languages|initial consonant mutation]]s, which are processes by which the initial consonant of a word is altered according to its [[morphology (linguistics)|morphological]] and/or [[syntax|syntactic]] environment.<ref>Broderick 1984–86, 1:7–21; 1993, 236–39; Thomson 1992, 132–35</ref> Manx has two mutations: '''[[lenition]]''' and '''[[eclipsis]]''', found on nouns and verbs in a variety of environments; adjectives can undergo lenition but not eclipsis. In the late spoken language of the 20th century the system was breaking down, with speakers frequently failing to use mutation in environments where it was called for, and occasionally using it in environments where it was not called for.
+
+{| class="wikitable"
+|+Initial consonant mutation in Manx
+!Unmutated
+! IPA 
+!Lenition!! IPA 
+!Eclipsis!! IPA
+|-
+|p
+| {{IPA|/p/}} 
+|ph|| {{IPA|/f/}} 
+|b|| {{IPA|/b/}}<ref name="unatt">Not attested in the late spoken language (Broderick 1984–86, 3:66)</ref>
+|-
+|t(h)
+| {{IPA|/t̪/}} 
+|h|| {{IPA|/h/, /x/}}
+|d(h)|| {{IPA|/d̪/}}
+|-
+|çh
+| {{IPA|/tʲ/}}~{{IPA|/tɕ/}}
+|h|| {{IPA|/h/, /xʲ/}}
+|j|| {{IPA|/dʲ/}}<ref name="unatt"/>
+|-
+|c, k
+| {{IPA|/kʲ/}} 
+|ch|| {{IPA|/xʲ/}} 
+|g|| {{IPA|/ɡʲ/}}<ref name="unatt"/>
+|-
+|c, k
+qu
+| {{IPA|/k/}} {{IPA|/kw/}} 
+|ch
+wh
+|| {{IPA|/x/, /h/}} {{IPA|/hw/}} 
+|g
+gu
+|| {{IPA|/ɡ/}}
+|-
+|b
+bw
+| {{IPA|/b/}}<br />{{IPA|/bw/}} 
+|b
+w
+|| {{IPA|/v/}}<br />{{IPA|/w/}} 
+|m
+mw
+|| {{IPA|/m/}}<ref name="unatt"/><br />{{IPA|/mw/}}<ref name="unatt"/>
+|-
+|d(h)
+| {{IPA|/d̪/}} 
+|gh|| {{IPA|/ɣ/, /w/}} 
+|n|| {{IPA|/n/}}<ref name="unatt"/>
+|-
+|j
+| {{IPA|/dʲ/}}~{{IPA|/dʑ/}}
+|gh, y|| {{IPA|/ɣʲ/, /j/}} 
+|n|| {{IPA|/nʲ/}}
+|-
+|g
+| {{IPA|/ɡʲ/}} 
+|gh, y|| {{IPA|/ɣʲ/, /j/}} 
+|ng|| {{IPA|/ŋ/}}?<ref name="unatt"/>
+|-
+|m
+mw
+| {{IPA|/m/}}<br />{{IPA|/mw/}} 
+|v
+w
+|| {{IPA|/v/}}<br />{{IPA|/w/}} 
+| colspan=2 align=center | ''(no change)''
+|-
+|f
+fw
+| {{IPA|/f/}}<br />{{IPA|/fw/}} 
+|f
+|| zero<br />{{IPA|/hw/}} 
+|v
+w
+|| {{IPA|/v/}}<ref name="unatt"/><br />{{IPA|/w/}}<ref name="unatt"/>
+|-
+|s
+sl
+
+sn
+| {{IPA|/s/}}<br />{{IPA|/sl/}}<br />{{IPA|/snʲ/}} 
+|s
+sl
+
+sn
+|| {{IPA|/h/}}<br />{{IPA|/l/}}<br />{{IPA|/nʲ/}} 
+| colspan=2 align=center | ''(no change)''
+|-
+|sh
+| {{IPA|/ʂ/}} 
+|h|| {{IPA|/h/ , /xʲ/}} 
+| colspan=2 align=center | ''(no change)''
+|}
+
+<references group="*" />
+In the corpus of the late spoken language, there is also one example of the eclipsis (nasalisation) of {{IPA|/ɡ/}}: the sentence {{lang|gv|Ta mee er '''ng'''eddyn yn eayn}} ("I have found the lamb"), where ''ng'' is pronounced {{IPA|/n/}}. However, probably this was a mis-transcription; the verbal noun in this case is not {{lang|gv|geddyn}} "get, fetch", but rather {{lang|gv|feddyn}} "find".<ref>(Broderick 1984–86 2:190, 3:66).</ref>
+
+=== Nouns ===
+Manx nouns display gender, number and sometimes case, for instance, for feminine {{lang|gv|cass}} "foot".
+
+{| class="wikitable"
+|-
+!
+!Singular
+!Plural
+|-
+! Nominative
+|{{lang|gv|cass}}
+|{{lang|gv|cassyn}}
+|-
+! Vocative
+|{{lang|gv|chass}}
+|{{lang|gv|chassyn}}
+|-
+!Genitive
+|{{lang|gv|coshey}}
+|{{lang|gv|cassyn}}
+|}
+
+=== Pronouns ===
+In addition to regular forms, personal pronouns also have emphatic versions.
+
+{| class="wikitable"
+|+ Manx personal pronouns
+|-
+! colspan="2" |Person
+!Regular
+!Emphatic
+|-
+! colspan="2" | First singular
+|{{lang|gv|mee}}
+|{{lang|gv|mish}}
+|-
+! colspan="2" | Second singular
+|{{lang|gv|oo}}
+|{{lang|gv|uss}}
+|-
+! rowspan="2" | Third singular
+!masculine
+|{{lang|gv|eh}}
+|{{lang|gv|eshyn}}
+|-
+!feminine
+|{{lang|gv|ee}}
+|{{lang|gv|ish}}
+|-
+! colspan="2" | First plural
+|{{lang|gv|shin}}
+|{{lang|gv|shinyn}}
+|-
+! colspan="2" | Second plural
+|{{lang|gv|shiu}}
+|{{lang|gv|shiuish}}
+|-
+! colspan="2" | Third plural
+|{{lang|gv|ad}}
+|{{lang|gv|adsyn}}
+|}
+
+=== Verbs ===
+Manx verbs generally form their [[finite verb|finite]] forms by means of [[periphrasis]]: inflected forms of the [[auxiliary verb]]s {{lang|gv|ve}} "to be" or {{lang|gv|jannoo}} "to do" are combined with the [[verbal noun]] of the main verb. Only the [[future tense|future]], [[conditional tense|conditional]], [[preterite]], and [[imperative mood|imperative]] can be formed directly by inflecting the main verb, but even in these tenses, the periphrastic formation is more common in Late Spoken Manx.<ref>Broderick 1984–86, 75–82; 1993, 250, 271; Thomson 1992, 122</ref>
+
+{|class=wikitable
+|+ Manx finite verb forms
+|-
+! Tense
+! Periphrastic form<br />(literal translation)
+! Inflected form
+! Gloss
+|-
+! Present
+| {{lang|gv|ta mee tilgey}}<br />(I am throwing)
+| –
+| I throw
+|-
+! Imperfect
+| {{lang|gv|va mee tilgey}}<br />(I was throwing)
+| –
+| I was throwing
+|-
+! Perfect
+| {{lang|gv|ta mee er jilgey}}<br />(I am after throwing)<ref name=er>The particle {{lang|gv|er}} is identical in form to the preposition {{lang|gv|er}} "on"; however, it is etymologically distinct, coming from Old Irish {{lang|sga|íar}} "after" (Williams 1994, 725).</ref>
+| –
+| I have thrown
+|-
+! Pluperfect
+| {{lang|gv|va mee er jilgey}}<br />(I was after throwing)<ref name="er"/>
+| –
+| I had thrown
+|-
+! Preterite
+| {{lang|gv|ren mee tilgey}}<br />(I did throwing)
+| {{lang|gv|hilg mee}}
+| I threw
+|-
+! Future
+| {{lang|gv|neeym tilgey}}<br />(I will do throwing)
+| {{lang|gv|tilgym}}
+| I will throw
+|-
+! Conditional
+| {{lang|gv|yinnin tilgey}}<br />(I would do throwing)
+| {{lang|gv|hilgin}}
+| I would throw
+|-
+! Imperative
+| {{lang|gv|jean tilgey}}<br />(Do throwing!)
+| {{lang|gv|tilg}}
+| Throw!
+|-
+!Past participle
+|–
+|{{lang|gv|tilgit}}
+|thrown
+|}
+
+
+The fully inflected forms of the regular verb {{lang|gv|tilgey}} "to throw" are as follows. In addition to the forms below, a past participle may be formed using {{lang|gv|-it}}: {{lang|gv|tilgit}} "thrown".
+{| class="wikitable"
+|+Inflection of a regular Manx verb
+!Tense
+!Independent
+!Dependent
+!Relative
+|-
+!Preterite
+|{{lang|gv|hilg}}
+|(same as independent)
+|
+|-
+!Future
+|{{lang|gv|tilgym}}<sup>[[Template:Ref label|[1]]]</sup>, {{lang|gv|tilgmayd}}<sup>[[Template:Ref label|[2]]]</sup>, {{lang|gv|tilgee}}<sup>[[Template:Ref label|[3]]]</sup>
+|{{lang|gv|dilgym<sup>[[Template:Ref label|[1]]]</sup>, dilgmayd<sup>[[Template:Ref label|[2]]]</sup>, dilgee<sup>[[Template:Ref label|[3]]]</sup>}}
+|{{lang|gv|tilgys}}
+|-
+!Conditional
+|{{lang|gv|tilgin}}<sup>[[Template:Ref label|[1]]]</sup>, {{lang|gv|tilgagh}}<sup>[[Template:Ref label|[3]]]</sup>
+|{{lang|gv|dilgin}}<sup>[[Template:Ref label|[1]]]</sup>, {{lang|gv|dilgagh}}<sup>[[Template:Ref label|[3]]]</sup>
+|
+|-
+!Imperative
+|{{lang|gv|tilg}}
+|(same as independent)
+|
+|}
+1.'''[[template:Ref label|^]]''' First person singular, making the use of a following subject pronoun redundant
+
+2.'''[[template:Ref label|^]]''' First person plural, making the use of a following subject pronoun redundant
+
+3.'''[[template:Ref label|^]]''' Used with all other persons, meaning an accompanying subject must be stated, e.g. {{lang|gv|tilgee eh}} "he will throw", {{lang|gv|tilgee ad}} "they will throw"
+
+There are a few peculiarities when a verb begins with a vowel, i.e. the addition of {{lang|gv|d'}} in the preterite and {{lang|gv|n'}} in the future and conditional dependent. Below is the conjugation of {{lang|gv|aase}} "to grow".
+
+There is a small number of irregular verbs, the most irregular of all being {{lang|gv|ve}} "be".
+{|class=wikitable
+|+ Forms of verb {{lang|gv|ve}} "to be"
+|-
+! Form
+! Independent
+! Dependent
+!Relative
+|-
+! Present
+| {{lang|gv|ta}}
+| {{lang|gv|vel, nel}}
+|–
+|-
+!Preterite
+|{{lang|gv|va}}
+|{{lang|gv|row}}
+|–
+|-
+! Future
+| {{lang|gv|bee'm, beemayd, bee}}
+| (same as independent)
+|vees
+|-
+! Conditional
+|{{lang|gv|veign, veagh}}
+| {{lang|gv|beign, beagh}}
+|–
+|-
+!Imperative
+|{{lang|gv|bee}}
+|(same as independent)
+|–
+|}
+
+=== Prepositions ===
+Like the other [[Insular Celtic languages]], Manx has so-called [[inflected preposition]]s, contractions of a [[preposition]] with a [[pronoun|pronominal]] direct object, as the following common prepositions show. Note the sometimes identical form of the uninflected preposition and its third person singular masculine inflected form.
+
+form of the uninflected preposition and its third person singular masculine inflected form.
+{| class="wikitable"
+|+Conjugation of Manx prepositions using pronominal ending
+|-
+! rowspan="3" | 
+! colspan="2" | 1st person
+! colspan="2" | 2nd person
+! colspan="3" | 3rd person
+|-
+! rowspan="2" | singular || rowspan="2" | plural
+! rowspan="2" | singular || rowspan="2" | plural
+! colspan="2" | singular || rowspan="2" | plural
+|-
+! masculine
+! feminine
+|-
+! ''ayns'' "in"
+| ''aynym''
+| ''ayn, ayndooin''
+| ''aynyd''
+| ''ayndiu''
+| ''ayn''
+| ''aynjee''
+| ''ayndoo, ayndaue''
+|-
+! ''da'' "to"
+| ''dou''
+| ''dooin''
+| ''dhyt''
+| ''diu''
+| ''da''
+| ''jee''
+| ''daue''
+|-
+! ''ec'' "at"
+| ''aym''
+| ''ain''
+| ''ayd''
+| ''orroo''
+| ''eche''y
+| ''eck''
+| ''oc''
+|-
+! ''er'' "on"
+| ''orrym''
+| ''orrin''
+| ''ort''
+| ''erriu''
+| ''er''More glosses| ''urree''
+| ''orroo''
+|-
+! ''lesh'' "with"
+| ''lhiam''
+| ''lhien''
+| ''lhiat''
+| ''lhiu''
+| ''lesh''
+| ''lhee''
+| ''lhieu''
+|-
+! ''veih, voish'' "from"
+| ''voym''
+| ''voin''
+| ''voyd''
+| ''veue''
+| ''voish, veih''
+| ''voee''
+| ''voue''
+|}
+
+===Numbers===
+Number are traditionally [[vigesimal]] in Manx, e.g. {{lang|gv|feed}} "twenty", {{lang|gv|daeed}} "forty" ("two twenties"), {{lang|gv|tree feed}} "sixty" ("three twenties").
+{| class="wikitable"
+|-
+! Manx
+! [[International Phonetic Alphabet|IPA]]<ref name=Brodvol2 />
+! [[English language|English]]
+! [[Irish language|Irish]]<br />cognate
+! [[Scottish Gaelic]]<br />cognate
+|-
+| {{lang|gv|un<br />nane}}
+| {{IPA|[æːn], [oːn], [uːn]<br />[neːn]}}
+| one
+| {{lang|ga|aon}} {{IPA|[eːn], [iːn], [ɯːn]}}
+| {{lang|gd|aon}} {{IPA-gd|ɯːn|}}
+|-
+| {{lang|gv|daa, ghaa<br />jees}}
+| {{IPA|[d̪æː]. [ɣæː]<br />[dʒiːs]}}
+| two
+| {{lang|ga|dó}} {{IPA|[d̪ˠoː]}}, ''dhá/dá'' {{IPA|[ɣaː]/[d̪ˠaː]}}<br />(people only) ''dís'' {{IPA|[dʲiːʃ]|}}
+| {{lang|gd|dà}} {{IPA-gd|t̪aː|}}
+|-
+| {{lang|gv|tree}}
+| {{IPA|[t̪riː]}}
+| three
+| {{lang|ga|trí}} {{IPA|[t̪ʲrʲiː]}}
+| {{lang|gd|trì}} {{IPA-gd|t̪ʰɾiː|}}
+|-
+| {{lang|gv|kiare}}
+| {{IPA|[kʲæːə(r)]}}
+| four
+| {{lang|ga|ceathair}}, {{lang|ga|ceithre}} {{IPA|[cahɪrʲ], [cerʲhʲɪ]}}
+| {{lang|gd|ceithir}} {{IPA-gd|ˈkʲʰehɪɾʲ|}}
+|-
+| {{lang|gv|queig}}
+| {{IPA|[kweɡ]}}
+| five
+| {{lang|ga|cúig}} {{IPA|[kuːɟ]}}
+| {{lang|gd|còig}} {{IPA-gd|kʰoːkʲ|}}
+|-
+| {{lang|gv|shey}}
+| {{IPA|[ʃeː]}}
+| six
+| {{lang|ga|sé}} {{IPA|[ʃeː]}}
+| {{lang|gd|sia}} {{IPA-gd|ʃiə|}}
+|-
+| {{lang|gv|shiaght}}
+| {{IPA|[ʃæːx]}}
+| seven
+| {{lang|ga|seacht}} {{IPA|[ʃaxt]}}
+| {{lang|gd|seachd}} {{IPA-gd|ʃɛxk|}}, {{IPA-gd|ʃaxk|}}
+|-
+| {{lang|gv|hoght}}
+| {{IPA|[hoːx]}}
+| eight
+| {{lang|ga|ocht}} {{IPA|[oxt]}} (dialect ''hocht'' {{IPA|[hoxt]}})
+| {{lang|gd|ochd}} {{IPA-gd|ɔxk|}}
+|-
+| {{lang|gv|nuy}}
+| {{IPA|[nɛi], [nøi], [niː]}}
+| nine
+| {{lang|ga|naoi}} {{IPA|[nˠeː], [nˠiː], [nˠəi]}}
+| {{lang|gd|naoi}} {{IPA-gd|n̪ˠɤi|}}
+|-
+| {{lang|gv|jeih}}
+| {{IPA|[dʒɛi]}}
+| ten
+| {{lang|ga|deich}} {{IPA|[dʲeh]}}, {{IPA|[dʒeç]}}, {{IPA|[dʒei]}}
+| {{lang|gd|deich}} {{IPA-gd|tʲeç|}}
+|-
+| {{lang|gv|nane jeig}}
+| {{IPA|[neːn dʒeɡ]}}
+| eleven
+| {{lang|ga|aon déag}} {{IPA|[eːn dʲiaɡ], [iːn dʲeːɡ], [iːn/ɯːn dʒeːɡ]}}
+| {{lang|gd|aon deug/diag}} {{IPA-gd|ɯːn dʲe:k|}}, {{IPA-gd|ɯːn dʲiək|}}
+|-
+| {{lang|gv|daa yeig}}
+| {{IPA|[d̪eiɡʲ]}}
+| twelve
+| {{lang|ga|dó dhéag}}, {{lang|ga|dhá dhéag}}, {{lang|ga|dá dhéag}} {{IPA|[d̪ˠoː jiaɡ], [d̪ˠoː jeːɡ], [ɣaː jeːɡ], [d̪ˠaː jeːɡ]}}
+| {{lang|gd|dà dheug/dhiag}} {{IPA-gd|t̪aː ʝe:k|}}, {{IPA-gd|t̪aː ʝiək|}}
+|-
+| {{lang|gv|tree jeig}}
+| {{IPA|[t̪ri dʒeɡ]}}
+| thirteen
+| {{lang|ga|trí déag}} {{IPA|[t̪ʲrʲiː dʲiaɡ], [t̪ʲrʲiː dʲeːɡ], [t̪ʲrʲiː dʒeːɡ]}}
+| {{lang|gd|trì deug/diag}} {{IPA-gd|t̪ʰɾiː tʲe:k|}}, {{IPA-gd|t̪ʰɾiː tʲiək|}}
+|-
+| {{lang|gv|feed}}
+| {{IPA|[fiːdʒ]}}
+| twenty
+| {{lang|ga|fiche}} {{IPA|[fʲɪhʲɪ], [fʲɪçə]}}; ''fichid'' {{IPA|[fʲɪhʲɪdʲ]}}, {{IPA|[fʲɪçɪdʒ]}} (dative)
+| {{lang|gd|fichead}} {{IPA-gd|fiçət̪|}}
+|-
+| {{lang|gv|keead}}
+| {{IPA|[kiːəd]}}
+| hundred
+| {{lang|ga|céad}} {{IPA|[ceːd]}}, {{IPA|[ciad]}}
+| {{lang|gd|ceud, ciad}} {{IPA-gd|kʲʰe:t̪|}}, {{IPA-gd|kʲʰiət̪|}}
+|}
+
+==Syntax==
+Like most Insular Celtic languages, Manx uses [[verb–subject–object]] word order: the inflected verb of a sentence precedes the [[subject (grammar)|subject]], which itself precedes the [[direct object]].<ref>Broderick 1993, 276</ref> However, as noted above, most finite verbs are formed periphrastically, using an auxiliary verb in conjunction with the verbal noun. In this case, only the auxiliary verb precedes the subject, while the verbal noun comes after the subject. The auxiliary verb may be a [[modal verb]] rather than a form of {{lang|gv|bee}} ("be") or {{lang|gv|jannoo}} ("do"). Particles like the negative {{lang|gv|cha}} ("not") precede the inflected verb. Examples:
+
+{{interlinear|lang=gv|indent=3|italics1=no|italics2=yes|glossing3=yes
+| {main verb} {} subject {} {direct object} {}|style1= font-variant:small-caps;
+| Hug yn saggyrt e laue urree.
+| put-PRET the priest his hand {on her}
+| "The priest put his hand on her."<ref>Broderick 1984–86, 1:181</ref>}}
+
+{{interlinear|lang=gv|indent=3|italics1=no|italics2=yes|glossing3=yes
+| {aux. verb} {} subject {main verb} {} {direct object}|style1= font-variant:small-caps;
+| Va ny eayin gee yn conney.
+| were the lambs eat-V.N. the gorse
+| "The lambs used to eat the gorse."<ref>Broderick 1984–86, 1:179</ref>}}
+
+{{interlinear|lang=gv|indent=3|italics1=no|italics2=yes|glossing3=yes
+| {} {modal verb} subject {main verb} {direct object}|style1= font-variant:small-caps;
+| Cha jarg shiu fakin {red erbee.}
+| not can you-PL see-V.N. anything
+| "You can't see anything."<ref>Broderick 1993, 274</ref>}}
+
+When the auxiliary verb is a form of {{lang|gv|jannoo}} ("do"), the direct object precedes the verbal noun and is connected to it with the particle {{lang|gv|y}}:
+
+{{interlinear|lang=gv|indent=3|italics1=no|italics2=yes|glossing3=yes
+| {aux. verb} subject {direct object} {} {main verb}|style1= font-variant:small-caps;
+| Ren ad {my choraa} y chlashtyn.
+| did they {my voice} PTCL hear-V.N.
+| "They heard my voice."<ref name="Thoms105"/>}}
+
+As in Irish (cf. [[Irish syntax#The forms meaning "to be"]]), there are two ways of expressing "to be" in Manx: with the substantive verb {{lang|gv|bee}}, and with the copula. The substantive verb is used when the [[predicate (grammar)|predicate]] is an adjective, adverb, or [[prepositional phrase]].<ref>Broderick 1993, 276–77</ref> Examples:
+
+{{interlinear|lang=gv|indent=3
+| t' eh agglagh
+| is it awful/frightening
+| "It is awful/frightening."}}
+
+{{interlinear|lang=gv|indent=3
+| t' eh {dy mie}
+| is he well
+| "He is well"}}
+
+{{interlinear|lang=gv|indent=3
+| t' eh ayns y thie-oast
+| is he in the house-ale
+| "He is in the ale-house ([[pub]])."}}
+
+Where the predicate is a noun, it must be converted to a prepositional phrase headed by the preposition {{lang|gv|in}} ("in") + possessive pronoun (agreeing with the subject) in order for the substantive verb to be grammatical:
+
+{{interlinear|lang=gv|indent=3
+| t' eh ny wooinney mie
+| is he in-his man good
+| "He is a good man" (lit. "He is in his good man")<ref>Broderick 1993, 277</ref>}}
+
+Otherwise, the copula is used when the predicate is a noun. The copula itself takes the form {{lang|gv|is}} or {{lang|gv|she}} in the present tense, but it is often omitted in affirmative statements:
+
+{{interlinear|lang=gv|indent=3
+| She Manninagh mish
+| COP Manxman me
+| "I am a Manxman."<ref>Broderick 1993, 278</ref>}}
+
+{{interlinear|lang=gv|indent=3
+| Shoh 'n dooinney
+| this the man
+| "This is the man."<ref name=Thoms105>Thomson 1992, 105</ref>}}
+
+In questions and negative sentences, the present tense of the copula is {{lang|gv|nee}}:
+
+{{interlinear|lang=gv|indent=3
+| Cha nee mish eh
+| not COP me him
+| "I am not him."<ref name=Thoms105 />}}
+
+{{interlinear|lang=gv|indent=3
+| Nee shoh 'n lioar?
+| COP this the book
+| "Is this the book?"<ref name=Thoms105 />}}
+
+==Vocabulary==
+Manx vocabulary is predominantly of Goidelic origin, derived from Old Irish and closely related to words in Irish and Scottish Gaelic. However, Manx itself, as well as the languages from which it is derived, borrowed words from other languages as well, especially [[Latin]], [[Old Norse]], [[French language|French]] (particularly [[Anglo-Norman language|Anglo-Norman]]), and English (both [[Middle English]] and Modern English).<ref>Broderick 1993, 282–83</ref>
+
+The following table shows a selection of nouns from the [[Swadesh list]] and indicates their pronunciations and etymologies.
+
+{|class="wikitable"
+|-
+!Manx
+!IPA<ref name=Brodvol2>Broderick 1984–86, vol. 2</ref>
+!English
+!Etymology<ref>Macbain 1911; ''Dictionary of the Irish Language''; Broderick 1984–86, vol. 2</ref>
+|-
+|{{lang|gv|aane}}
+|{{IPA|[eːn]}}
+|liver
+|Goidelic; from Mid.Ir. {{lang|mga|ae}} < O.Ir. {{lang|sga|óa}}; cf. Ir. {{lang|ga|ae}}, Sc.G. {{lang|gd|adha}}
+|-
+|{{lang|gv|aer}}
+|{{IPA|[eːə]}}
+|sky
+|Latin; from O.Ir. {{lang|sga|aer}} < L. {{lang|la|aër}}; cf. Ir. {{lang|ga|aer}}, Sc.G. {{lang|gd|adhar}}
+|-
+|{{lang|gv|aile}}
+|{{IPA|[ail]}}
+|fire
+|Goidelic; from O.Ir. {{lang|sga|aingel}} "very bright"; cf. Ir., Sc.G. {{lang|gd|aingeal}}
+|-
+|{{lang|gv|ardnieu}}
+|{{IPA|[ərd̪ˈnʲeu]}}
+|snake
+|Apparently "highly poisonous" (cf. {{lang|gv|ard}} "high", {{lang|gv|nieu}} "poison")
+|-
+|{{lang|gv|awin}}
+|{{IPA|[aunʲ], [ˈawənʲ]}}
+|river
+|Goidelic; from the M.Ir. dative form ''abainn'' of {{lang|mga|aba}} < O.Ir. ''abaind'' {{lang|sga|aba}}; cf. Ir. ''abha''/''abhainn'', dative ''abhainn'', Sc.G. {{lang|gd|abhainn}} (literary nominative ''abha'').
+|-
+|{{lang|gv|ayr}}
+|{{IPA|[ˈæːar]}}
+|father
+|Goidelic; from M.Ir. ''athair'', O.Ir. {{lang|sga|athir}}; cf. Ir., Sc.G. {{lang|gd|athair}}
+|-
+|{{lang|gv|beeal}}
+|{{IPA|[biəl]}}
+|mouth
+|Goidelic; from O.Ir. {{lang|sga|bél}}; cf. Ir. {{lang|ga|béal}}, Sc.G. {{lang|gd|beul}}/{{lang|gd|bial}}
+|-
+|{{lang|gv|beishteig}}
+|{{IPA|[beˈʃtʲeːɡ], [prəˈʃtʲeːɡ]}}
+|worm
+|Latin; from M.Ir. {{lang|mga|piast}}, {{lang|mga|péist}} < O.Ir. {{lang|sga|bíast}} < L. {{lang|la|bēstia}}
+|-
+|{{lang|gv|ben}}
+|{{IPA|[beᵈn]}}
+|woman
+|Goidelic; from M.Ir and O.Ir. {{lang|sga|ben}}; cf. Ir., Sc.G. {{lang|gd|bean}}
+|-
+|{{lang|gv|billey}}
+|{{IPA|[ˈbilʲə]}}
+|tree
+|Goidelic; from O.Ir. {{lang|sga|bile}}
+|-
+|{{lang|gv|blaa}}
+|{{IPA|[blæː]}}
+|flower
+|Goidelic; from O.Ir. {{lang|sga|bláth}}, Ir. ''bláth'', Sc.G. ''blàth''
+|-
+|{{lang|gv|blein}}
+|{{IPA|[blʲeːnʲ], [blʲiᵈn]}}
+|year
+|Goidelic; from O.Ir. {{lang|sga|bliadain}}; cf. Ir. {{lang|ga|blian}}, dat. {{lang|ga|bliain}}, Sc.G. {{lang|gd|bliadhna}}
+|-
+|{{lang|gv|bodjal}}
+|{{IPA|[ˈbaːdʒəl]}}
+|cloud
+|English/French; shortened from {{lang|gv|bodjal niaul}} "pillar of cloud" (cf. Sc.G. {{lang|gd|baideal neòil}}); {{lang|gv|bodjal}} originally meant "pillar" or "battlement" < E. ''battle'' < Fr. {{lang|fr|bataille}}
+|-
+|{{lang|gv|bolg}}
+|{{IPA|[bolɡ]}}
+|belly, bag
+|Goidelic; from O.Ir. {{lang|sga|bolg}}, Ir., Sc.G ''bolg''
+|-
+|{{lang|gv|cass}}
+|{{IPA|[kaːs]}}
+|foot
+|Goidelic; from O.Ir. {{lang|sga|cos}}, cf. Sc.G. {{lang|gd|cas}}, Ir.dialect ''cas'', Ir. ''cos''
+|-
+|{{lang|gv|çhengey}}
+|{{IPA|[ˈtʃinʲə]}}
+|tongue
+|Goidelic; from O.Ir. {{lang|sga|tengae}}; cf. Ir., Sc.G. {{lang|gd|teanga}}
+|-
+|{{lang|gv|clagh}}
+|{{IPA|[klaːx]}}
+|stone
+|Goidelic; from O.Ir. {{lang|sga|cloch}}; cf. Sc.G. {{lang|gd|clach}}, Ir. ''cloch''
+|-
+|{{lang|gv|cleaysh}}
+|{{IPA|[kleːʃ]}}
+|ear
+|Goidelic; from O.Ir. dative {{lang|sga|clúais}} "hearing"; cf. Ir., Sc.G. {{lang|gd|cluas}}, dative {{lang|gd|cluais}}, Ir. dialect ''cluais''
+|-
+|{{lang|gv|collaneyn}}
+|{{IPA|[ˈkalinʲən]}}
+|guts
+|Goidelic; from O.Ir. {{lang|sga|cáelán}}; cf. Ir. {{lang|ga|caolán}}, Sc.G. {{lang|gd|caolan}}, derived from ''caol'' "thin, slender", ''-án'' nominaliser 
+|-
+|{{lang|gv|crackan}}
+|{{IPA|[ˈkraːɣən]}}
+|skin
+|Goidelic; from O.Ir. {{lang|sga|croiccenn}}; cf. Ir., Sc.G. {{lang|gd|craiceann}}, dialect ''croiceann''
+|-
+|{{lang|gv|craue}}
+|{{IPA|[kræːw]}}
+|bone
+|Goidelic; from O.Ir. {{lang|sga|cnám}}; cf. Ir. {{lang|ga|cnámh}}, dative {{lang|ga|cnáimh}}, Sc.G. {{lang|gd|cnàimh}}
+|-
+|{{lang|gv|cree}}
+|{{IPA|[kriː]}}
+|heart
+|Goidelic; from O.Ir. {{lang|sga|cride}}; cf. Ir. {{lang|ga|croí}}, Sc.G. {{lang|gd|cridhe}}
+|-
+|{{lang|gv|dooinney}}
+|{{IPA|[ˈd̪unʲə]}}
+|person
+|Goidelic; from O.Ir. {{lang|sga|duine}}, cf. Ir., Sc.G {{lang|ga|duine}}
+|-
+|{{lang|gv|dreeym}}
+|{{IPA|[d̪riːm], [d̪riᵇm]}}
+|back
+|Goidelic; from O.Ir. dative {{lang|sga|druimm}}, nominative ''dromm''; cf. Ir. ''drom'', dialect {{lang|ga|droim}}, dative ''droim'', Sc.G. ''drom'', dialect {{lang|gd|druim}}, dative ''druim''
+|-
+|{{lang|gv|duillag}}
+|{{IPA|[ˈd̪olʲaɡ]}}
+|leaf
+|Goidelic; from O.Ir. {{lang|sga|duilleóg}}; cf. Ir. {{lang|ga|duilleóg}}, Sc.G. {{lang|gd|duilleag}}
+|-
+|{{lang|gv|eairk}}
+|{{IPA|[eːak]}}
+|horn
+|Goidelic; from O.Ir. {{lang|sga|adarc}}; cf. Ir., Sc.G. {{lang|gd|adharc}}, Ir. dialect aidhearc
+|-
+|{{lang|gv|eayst}}
+|{{IPA|[eːs]}}
+|moon
+|Goidelic; from O.Ir. {{lang|sga|ésca}}; cf. archaic Ir. {{lang|ga|éasca}}, Sc.G. {{lang|gd|easga}}
+|-
+|{{lang|gv|eeast}}
+|{{IPA|[jiːs]}}
+|fish
+|Goidelic; from O.Ir. {{lang|ga|íasc}}; cf. Ir. {{lang|ga|iasc}}, Ul. {{lang|ga|/jiəsk/}}, Sc.G. {{lang|gd|iasg}}
+|-
+|{{lang|gv|ennym}}
+|{{IPA|[ˈenəm]}}
+|name
+|Goidelic; from O.Ir. {{lang|sga|ainmm}}; cf. Ir., Sc.G. {{lang|gd|ainm}}
+|-
+|{{lang|gv|faarkey}}
+|{{IPA|[ˈføːɹkə]}}
+|sea
+|Goidelic; from O.Ir. {{lang|sga|fairrge}}; cf. Ir. {{lang|ga|farraige}}, Sc.G. {{lang|gd|fairge}}
+|-
+|{{lang|gv|faiyr}}
+|{{IPA|[feːə]}}
+|grass
+|Goidelic; from O.Ir. {{lang|sga|fér}}; cf. Ir. {{lang|ga|féar}}, Sc.G. {{lang|gd|feur}}, {{lang|gd|fiar}}
+|-
+|{{lang|gv|famman}}
+|{{IPA|[ˈfaman]}}
+|tail
+|Goidelic; from O.Ir. {{lang|sga|femm}}+ ''-án'' nominaliser (masculine diminutive); cf. Ir. {{lang|ga|feam}}, Sc.G. {{lang|gd|feaman}}
+|-
+|{{lang|gv|fedjag}}
+|{{IPA|[ˈfaiaɡ]}}
+|feather
+|Goidelic; from O.Ir. {{lang|sga|eteóc}}; cf. Ir. {{lang|ga|eiteog}} "wing", Sc.G. {{lang|gd|iteag}}
+|-
+|{{lang|gv|feeackle}}
+|{{IPA|[ˈfiːɣəl]}}
+|tooth
+|Goidelic; from O.Ir. {{lang|sga|fíacail}}; cf. Ir., Sc.G. {{lang|gd|fiacail}}
+|-
+|{{lang|gv|feill}}
+|{{IPA|[feːlʲ]}}
+|meat
+|Goidelic; from O.Ir. dative {{lang|sga|feóil}}; cf. Ir. {{lang|ga|feoil}}, Sc.G. {{lang|gd|feòil}}
+|-
+|{{lang|gv|fer}}
+|{{IPA|[fer]}}
+|man
+|Goidelic; from O.Ir. {{lang|sga|fer}}; cf. Ir., Sc.G. {{lang|gd|fear}}
+|-
+|{{lang|gv|fliaghey}}
+|{{IPA|[flʲaːɣə]}}
+|rain
+|Goidelic; from O.Ir. {{lang|sga|flechud}}; cf. Ir. {{lang|ga|fleachadh}} "rainwater; a drenching", related to ''fliuch'' "wet"
+|-
+|{{lang|gv|folt}}
+|{{IPA|[folt̪]}}
+|hair
+|Goidelic; from O.Ir. {{lang|sga|folt}}, Ir.''folt'', Sc.G. ''falt''
+|-
+|{{lang|gv|fraue}}
+|{{IPA|[fræːw]}}
+|root
+|Goidelic; from O.Ir. {{lang|ga|frém}}; cf. Ir. {{lang|ga|fréamh}}, {{lang|ga|préamh}}, Sc.G. {{lang|gd|freumh}}
+|-
+|{{lang|gv|fuill}}
+|{{IPA|[folʲ]}}
+|blood
+|Goidelic; from O.Ir. {{lang|sga|fuil}}, Ir., Sc.G. ''fuil''
+|-
+|{{lang|gv|geay}}
+|{{IPA|[ɡiː]}}
+|wind
+|Goidelic; from O.Ir. dative {{lang|sga|gaíth}}; cf. Ir., Sc.G. {{lang|gd|gaoth}}, dative ''gaoith''
+|-
+|{{lang|gv|geinnagh}}
+|{{IPA|[ˈɡʲanʲax]}}
+|sand
+|Goidelic; from O.Ir. {{lang|sga|gainmech}}; cf. Sc.G. {{lang|gd|gainmheach}}, Ir. ''gaineamh''
+|-
+|{{lang|gv|glioon}}
+|{{IPA|[ɡlʲuːnʲ]}}
+|knee
+|Goidelic; from O.Ir. dative {{lang|sga|glúin}}; cf. Ir. {{lang|ga|glúin}}, Sc.G. {{lang|gd|glùn}}, dative ''glùin''
+|-
+|{{lang|gv|grian}}
+|{{IPA|[ɡriːn], [ɡriᵈn]}}
+|sun
+|Goidelic; from O.Ir. {{lang|sga|grían}}; cf. Ir., Sc.G. {{lang|gd|grian}}
+|-
+|{{lang|gv|jaagh}}
+|{{IPA|[ˈdʒæːax]}}
+|smoke
+|Goidelic, from M.Ir. {{lang|mga|deathach}} < O.Ir. {{lang|sga|dé}}; cf. Sc.G. {{lang|gd|deathach}}
+|-
+|{{lang|gv|joan}}
+|{{IPA|[dʒaun]}}
+|dust
+|Goidelic; from O.Ir. {{lang|sga|dend}}; cf. Ir. {{lang|ga|deannach}}
+|-
+|{{lang|gv|kay}}
+|{{IPA|[kʲæː]}}
+|fog
+|Goidelic; from O.Ir. {{lang|sga|ceó}}; cf. Ir. {{lang|ga|ceo}}, Sc.G. {{lang|gd|ceò}}
+|-
+|{{lang|gv|keayn}}
+|{{IPA|[kiᵈn]}}
+|sea
+|Goidelic; from O.Ir. {{lang|sga|cúan}}; cf. Ir. {{lang|ga|cuan}} "harbor", Sc.G. {{lang|gd|cuan}} "ocean"
+|-
+|{{lang|gv|keeagh}}
+|{{IPA|[kiːx]}}
+|breast
+|Goidelic; from O.Ir. {{lang|sga|cíoch}}; cf. Ir. {{lang|ga|cíoch}}, Sc.G. {{lang|gd|cìoch}}
+|-
+|{{lang|gv|keyll}}
+|{{IPA|[kiːlʲ], [kelʲ]}}
+|forest
+|Goidelic; from O.Ir. {{lang|sga|caill}}; cf. Ir. {{lang|ga|coill}}, Sc.G. {{lang|gd|coille}}
+|-
+|{{lang|gv|kione}}
+|{{IPA|[kʲaun], [kʲoːn]}}
+|head
+|Goidelic; from O.Ir. {{lang|sga|cend}}, dative ''ciond''; cf. Ir., Sc.G. {{lang|gd|ceann}}, dative ''cionn''
+|-
+|{{lang|gv|laa}}
+|{{IPA|[læː]}}
+|day
+|Goidelic; from O.Ir. {{lang|sga|láa}}; cf. Ir. {{lang|gd|lá}}, Sc.G. {{lang|gd|latha}}, {{lang|gd|là}}
+|-
+|{{lang|gv|laue}}
+|{{IPA|[læːw]}}
+|hand
+|Goidelic; from O.Ir. {{lang|ga|lám}}; cf. Ir. {{lang|ga|lámh}}, Sc.G. {{lang|gd|làmh}}
+|-
+|{{lang|gv|leoie}}
+|{{IPA|[løi]}}
+|ashes
+|Goidelic; from O.Ir. dative {{lang|sga|lúaith}}; cf. Ir. {{lang|ga|luaith}}, Sc.G. {{lang|gd|luath}}
+|-
+|{{lang|gv|logh}}
+|{{IPA|[lɒːx]}}
+|lake
+|Goidelic; from O.Ir. {{lang|sga|loch}}
+|-
+|{{lang|gv|lurgey}}
+|{{IPA|[løɹɡə]}}
+|leg
+|Goidelic; from O.Ir. {{lang|sga|lurga}} "shin bone"; cf. Ir. {{lang|ga|lorga}}
+|-
+|{{lang|gv|maidjey}}
+|{{IPA|[ˈmaːʒə]}}
+|stick
+|Goidelic; from O.Ir. {{lang|sga|maide}}, Ir., Sc.G. ''maide''
+|-
+|{{lang|gv|meeyl}}
+|{{IPA|[miːl]}}
+|louse
+|Goidelic; from O.Ir. {{lang|sga|míol}}; cf. Ir. {{lang|ga|míol}}, Sc.G. {{lang|gd|mial}}
+|-
+|{{lang|gv|mess}}
+|{{IPA|[meːs]}}
+|fruit
+|Goidelic; from O.Ir. {{lang|sga|mes}}; cf. Ir., Sc.G. {{lang|gd|meas}}
+|-
+|{{lang|gv|moddey}}
+|{{IPA|[ˈmaːðə]}}
+|dog
+|Goidelic; from O.Ir. {{lang|ga|matrad}}; cf. Ir. ''madra'', N.Ir. ''mada'',''madadh'' [madu], Sc.G. {{lang|gd|madadh}}
+|-
+|{{lang|gv|moir}}
+|{{IPA|[mɒːɹ]}}
+|mother
+|Goidelic; from O.Ir. {{lang|sga|máthir}}; cf. Ir. ''máthair'', Sc.G. {{lang|gd|màthair}}
+|-
+|{{lang|gv|mwannal}}
+|{{IPA|[ˈmonal]}}
+|neck
+|Goidelic; from O.Ir. {{lang|sga|muinél}}; cf. Ir. {{lang|ga|muineál}}, ''muinéal'', Sc.G. {{lang|gd|muineal}}
+|-
+|{{lang|gv|oie}}
+|{{IPA|[ei], [iː]}}
+|night
+|Goidelic; from O.Ir. {{lang|sga|adaig}} (accusative {{lang|sga|aidchi}}); cf. Ir. {{lang|ga|oíche}}, Sc.G. {{lang|gd|oidhche}}
+|-
+|{{lang|gv|ooh}}
+|{{IPA|[au], [uː]}}
+|egg
+|Goidelic; from O.Ir. {{lang|sga|og}}; cf. Ir. {{lang|ga|ubh}},{{lang|ga|ugh}}, Sc.G. {{lang|gd|ugh}}
+|-
+|{{lang|gv|paitçhey}}
+|{{IPA|[ˈpætʃə]}}
+|child
+|French; from E.M.Ir. {{lang|sga|páitse}} "page, attendant" < O.Fr. {{lang|frm|page}}; cf. Ir. {{lang|ga|páiste}}, Sc.G. {{lang|gd|pàiste}}
+|-
+|{{lang|gv|raad}}
+|{{IPA|[ræːd̪], [raːd̪]}}
+|road
+|English; from Cl.Ir. {{lang|mga|rót}},{{lang|mga|róat}}< M.E. {{lang|enm|road}}; cf. Ir. {{lang|ga|ród}}, Sc.G. {{lang|gd|rathad}}
+|-
+|{{lang|gv|rass}}
+|{{IPA|[raːs]}}
+|seed
+|Goidelic; from O.Ir. {{lang|ga|ros}}
+|-
+|{{lang|gv|rollage}}
+|{{IPA|[roˈlæːɡ]}}
+|star
+|Goidelic; from M.Ir. {{lang|mga|rétlu}} < O.Ir. {{lang|sga|rétglu}} + feminine diminutive suffix ''-óg''; cf. Ir. {{lang|ga|réaltóg}}, Sc.G. {{lang|gd|reultag}}
+|-
+|{{lang|gv|roost}}
+|{{IPA|[ruːs]}}
+|bark
+|Brythonic; from O.Ir. {{lang|sga|rúsc}} Brythonic (cf. Welsh {{lang|cy|rhisg(l)}}; cf. Ir. {{lang|ga|rúsc}}, Sc.G. {{lang|gd|rùsg}}
+|-
+|{{lang|gv|skian}}
+|{{IPA|[ˈskiːən]}}
+|wing
+|Goidelic; from O.Ir. {{lang|sga|scíathán}}; cf. Ir. {{lang|ga|sciathán}}, Sc.G. {{lang|gd|sgiathan}}
+|-
+|{{lang|gv|slieau}}
+|{{IPA|[slʲuː], [ʃlʲuː]}}
+|mountain
+|Goidelic, from O.Ir. {{lang|sga|slíab}}; cf. Ir., Sc.G. {{lang|gd|sliabh}}
+|-
+|{{lang|gv|sniaghtey}}
+|{{IPA|[ˈʃnʲaxt̪ə]}}
+|snow
+|Goidelic; from O.Ir. {{lang|sga|snechta}}; cf. Ir. {{lang|ga|sneachta}}, Sc.G. {{lang|gd|sneachd}}
+|-
+|{{lang|gv|sollan}}
+|{{IPA|[ˈsolan]}}
+|salt
+|Goidelic; from O.Ir., Ir., Sc.G. {{lang|sga|salann}}
+|-
+|{{lang|gv|sooill}}
+|{{IPA|[suːlʲ]}}
+|eye
+|Goidelic; from O.Ir. {{lang|sga|súil}}; cf. Ir. ''súil'', Sc.G. {{lang|gd|sùil}}
+|-
+|{{lang|gv|stroin}}
+|{{IPA|[st̪ruᵈnʲ], [st̪raiᵈnʲ]}}
+|nose
+|Goidelic; from O.Ir. dative {{lang|sga|sróin}}; cf. Ir. ''srón'', dialect ''sróin'', dative ''sróin'', Sc.G. {{lang|gd|sròn}}, dative ''sròin''
+|-
+|{{lang|gv|tedd}}
+|{{IPA|[t̪ed̪]}}
+|rope
+|Goidelic; from O.Ir. {{lang|sga|tét}}; cf. Ir. {{lang|ga|téad}}, Sc.G. {{lang|gd|teud}}, {{lang|gd|tiad}}
+|-
+|{{lang|gv|thalloo}}
+|{{IPA|[ˈtalu]}}
+|earth
+|Goidelic; from O.Ir. {{lang|sga|talam}}; cf. Ir., Sc.G. {{lang|gd|talamh}}
+|-
+|{{lang|gv|ushag}}
+|{{IPA|[ˈoʒaɡ]}}
+|bird
+|Goidelic; from O.Ir. {{lang|sga|uiseóg}} "lark"; cf. Ir. {{lang|ga|fuiseog}}, Sc.G. {{lang|gd|uiseag}}
+|-
+|{{lang|gv|ushtey}}
+|{{IPA|[ˈuʃtʲə]}}
+|water
+|Goidelic; from O.Ir. {{lang|ga|uisce}}; cf. Ir. ''uisce'', Sc.G. {{lang|gd|uisge}}
+|-
+|{{lang|gv|yngyn}}
+|{{IPA|[ˈiŋən]}}
+|fingernail
+|Goidelic; from O.Ir. {{lang|sga|ingen}}; cf. Ir., Sc.G. {{lang|ga|ionga}}, dative ''iongain'', plural Ir. ''iongna'', Sc.G. ''iongnan'', etc.
+|}
+
+See [[wikt:Appendix:Celtic Swadesh lists|Celtic Swadesh lists]] for the complete list in all the Celtic languages.
+
+===Loanwords===
+[[File:Manx loaghtan.jpg|right|thumb|200px|[[Manx Loaghtan|Loaghtan]], a Manx breed of primitive sheep. The name means "mousy grey" in Manx.]]
+Foreign loanwords are primarily [[Norse language|Norse]] and [[English language|English]], with a smaller number coming from French. Some examples of Norse loanwords are ''garey'' ("[[garden]]", from ''[[wikt:garðr|garðr]]'', "enclosure") and ''sker'' meaning a sea rock (from ''[[wikt:sker|sker]]'', compare with ''[[wikt:skjær#Etymology 2|skjær]]'' and ''[[wikt:sker#Icelandic|sker]]''). Examples of French loanwords are ''danjeyr'' ("danger", from ''[[wikt:danger#French|danger]]'') and ''vondeish'' ("advantage", from ''[[wikt:avantage|avantage]]'').
+
+English loanwords were common in late (pre-revival) Manx, e.g. ''boy'' ("boy"), ''badjer'' ("[[badger]]"), rather than the more usual Gaelic ''guilley'' and ''brock''. [[Henry Jenner]], on asking someone what he was doing, was told ''Ta mee smokal pipe'' ("I am smoking a pipe"), and that "[he] certainly considered that he was talking Manx, and not English, in saying it." In more recent years, there has been a reaction against such borrowing, resulting in coinages for technical vocabulary. Despite this, [[calque]]s exist in Manx, not necessarily obvious to its speakers.
+
+Some religious terms come ultimately from Latin, Greek and Hebrew, e.g. ''casherick'' (holy), from the Latin ''consecrātus''; ''mooinjer'' (people) from the Latin ''monasterium'' (originally a [[monastery]]; ''agglish'' (church) from the Greek ''ἐκκλησία'' (''ekklesia'', literally meaning assembly) and ''abb'' ([[abbot]]) from the Hebrew "אבא" (''abba'', meaning "father"). These did not necessarily come directly into Manx, but via Old Irish. In more recent times, ''ulpan'' has been borrowed from [[modern Hebrew]]. Many Irish and English loanwords also have a classical origin, e.g. ''çhellveeish'' (Irish ''teilefís'') and ''çhellvane'' meaning [[television]] and [[telephone]] respectively. Foreign language words (usually known via English) are used occasionally especially for ethnic food, e.g. chorizo, spaghetti.
+
+To fill gaps in recorded Manx vocabulary, revivalists have referred to modern Irish and Scottish Gaelic for words and inspiration.
+
+Going in the other direction, Manx Gaelic has influenced [[Manx English]] (Anglo-Manx). Common words and phrases in Anglo-Manx originating in the language include ''tholtan'' (the "th" is pronounced as a "t") meaning a ruined farmhouse,<ref>{{cite news |title=A snapshpot of Manx history|work=Stamp and Coin Mart |publisher=Warners Group Publications |date=February 2018 |page=38}}</ref> ''quaaltagh'' meaning a [[first-foot]], ''keeill'' meaning a church (especially an old one), ''[[cammag]]'', ''traa-dy-liooar'' meaning "time enough", and [[Tynwald]] (''tinvaal''), which is ultimately of Norse origin, but comes via Manx. It is suggested that the [[House of Keys]] takes its name from ''Kiare as Feed'' (four and twenty), which is the number of its sitting members.
+
+==Comparative vocabulary examples==
+
+<center>
+{| class="wikitable" style="text-align: center;"
+! style="background:#ffdead;"| Manx Gaelic
+! style="background:#ffdead;"| Irish
+! style="background:#ffdead;"| Scots Gaelic
+! style="background:#ffdead;"| Welsh
+! style="background:#ffdead;"| English
+|- 
+| ''Moghrey mie''
+| {{lang|ga|Maidin mhaith}}
+| {{lang|gd|Madainn mhath}}
+| {{lang|cy|Bore da}}
+| good morning
+|- 
+| ''Fastyr mie''
+| {{lang|ga|Tráthnóna maith}}
+| {{lang|gd|Feasgar math}}
+| {{lang|cy|Prynhawn da}}<br />{{lang|cy|Noswaith dda}}
+| good afternoon/evening
+|- 
+| ''Slane lhiat'', ''Slane lhiu''
+| {{lang|ga|Slán leat}}, {{lang|ga|Slán libh}}
+| {{lang|gd|Slàn leat}}, {{lang|gd|Slàn leibh}}
+| {{lang|cy|Hwyl fawr}}
+| goodbye
+|- 
+| ''Gura mie ayd'',<br />''Gura mie eu''
+| {{lang|ga|Go raibh maith agat}},<br />{{lang|ga|Go raibh maith agaibh}}
+| {{lang|gd|Tapadh leat}},<br />{{lang|gd|Tapadh leibh}}
+| {{lang|cy|Diolch}}
+| thank you
+|- 
+| ''baatey''
+| {{lang|ga|bád}}
+| {{lang|gd|bàta}}
+| {{lang|cy|cwch}}
+| boat
+|- 
+| ''barroose''
+| {{lang|ga|bus}}
+| {{lang|gd|bus}}
+| {{lang|cy|bws}}
+| bus
+|-
+| ''blaa''
+| {{lang|ga|bláth}}
+| {{lang|gd|blàth}}
+| {{lang|cy|blodyn}}
+| flower
+|- 
+| ''booa''
+| {{lang|ga|bó}}
+| {{lang|gd|bò}}
+| {{lang|cy|buwch/bo}}
+| cow
+|- 
+| ''cabbyl''
+| {{lang|ga|capall}}
+| {{lang|gd|each}}
+| {{lang|cy|ceffyl}}
+| horse
+|- 
+| ''cashtal''
+| {{lang|ga|caisleán, caiseal}}
+| {{lang|gd|caisteal}}
+| {{lang|cy|castell}}
+| castle
+|- 
+| ''creg''
+| {{lang|ga|carraig}}
+| {{lang|gd|carraig, creag}}
+| {{lang|cy|carreg, craig}}
+| crag, rock
+|- 
+| ''eeast''
+| {{lang|ga|iasc}}
+| {{lang|gd|iasg}}
+| {{lang|cy|pysgodyn}}
+| fish [sg.]
+|- 
+| ''ellan''
+| {{lang|ga|oileán}}
+| {{lang|gd|eilean}}
+| {{lang|cy|ynys}}
+| island, eyot
+|- 
+| ''gleashtan''
+| {{lang|ga|gluaisteán}}, {{lang|ga|carr}}
+| {{lang|gd|càr}}
+| {{lang|cy|car}}
+| car
+|- 
+| ''kayt''
+| {{lang|ga|cat}}
+| {{lang|gd|cat}}
+| {{lang|cy|cath}}
+| cat
+|- 
+| ''moddey''
+| {{lang|ga|madra}}, {{lang|ga|madadh}}
+| {{lang|gd|cù}}
+| {{lang|cy|ci}}
+| dog, hound
+|- 
+| ''shap''
+| {{lang|ga|siopa}}
+| {{lang|gd|bùth}}
+| {{lang|cy|siop}}
+| shop
+|- 
+| ''thie''
+| {{lang|ga|tigh}}, {{lang|ga|teach}}
+| {{lang|gd|taigh}}
+| {{lang|cy|tŷ}}
+| house
+|- 
+| ''eean''
+| {{lang|ga|éan}}
+| {{lang|gd|eun}}, {{lang|gd|ian}}
+| {{lang|cy|aderyn}}, {{lang|cy|edn}}
+| bird
+|-
+| ''jees'', ''daa''
+| {{lang|ga|dá, dhá, dó; (people) beirt, dís}}
+| {{lang|gd|dà, dhà; (people) dithis}}
+| {{lang|cy|dau}} (m.)/{{lang|cy|dwy}} (f.)
+| two
+|-
+| ''oik''
+| {{lang|ga|oifig}}
+| {{lang|gd|oifis}}
+| {{lang|cy|swyddfa}}
+| office
+|-
+| ''ushtey''
+| {{lang|ga|uisce}}
+| {{lang|gd|uisge}}
+| {{lang|cy|dŵr}}, {{lang|cy|dwfr}}
+| water
+|}
+</center>
+
+==See also==
+{{Portal|Language}}
+* [[Cornish language|Cornish]], another revived [[Celtic language]].
+* [[Gaelic revival|Irish language revival]]
+* [[List of Celtic-language media]]
+* [[List of revived languages]]
+* [[List of television channels in Celtic languages]]
+
+==Notes==
+{{Reflist|30em}}
+
+==References==
+* <!--Broderick 1984–86-->{{Cite book|title=A Handbook of Late Spoken Manx |first=George |last=Broderick |publisher=Niemeyer |location=Tübingen |year=1984–1986 |edition=3 volumes |isbn=3-484-42903-8 |id=(vol.&nbsp;1), (vol.&nbsp;2), (vol.&nbsp;3)}}
+* <!--Broderick 1993-->{{Cite book|first=George |last=Broderick |pages=228–85 |chapter=Manx |editor=M. J. Ball |editor2=J. Fife |title=The Celtic Languages |publisher=Routledge |location=London |year=1993 |isbn=0-415-01035-7}}
+* {{Cite journal
+|last=Cumming
+|first=Joseph George
+|author-link=Joseph George Cumming
+|year=1848
+|title=The Isle of Man
+|publisher=John Van Voorst
+|publication-date=1848
+|location=London
+|url=https://archive.org/details/isleman00cummgoog
+}}
+* <!--Dictionary of the Irish language-->{{cite book|title=Dictionary of the Irish Language based mainly on Old and Middle Irish materials |year=1983 |location=Dublin |publisher=Royal Irish Academy |url=http://www.dil.ie |isbn=0-901714-29-1}}
+* <!--Gunther 1990-->{{cite book|title=Fourth International Conference on Minority Languages |edition=Vol. II: Western and Eastern European Papers |editor=D. Gorter |editor2=J. F. Hoekstra |editor3=L. G. Jansma |editor4=J. Ytsma |year=1990 |publisher=Multilingual Matters |location=Bristol, England |isbn=1-85359-111-4 |first=Wilf |last=Gunther |chapter=Language conservancy or: Can the anciently established British minority languages survive? |pages=53–67 |chapter-url=https://books.google.com/books?id=3XG8aROt64QC&pg=PA53}}
+* <!--Holmer 1957-->{{cite book|title=The Gaelic of Arran |first=Nils M. |last=Holmer |publisher=Dublin Institute for Advanced Studies |year=1957 |isbn=0-901282-44-8}}
+* <!--Holmer 1962-->{{cite book|title=The Gaelic of Kintyre |first=Nils M. |last=Holmer |publisher=Dublin Institute for Advanced Studies |year=1962 |isbn=0-901282-43-X}}
+* <!--Hughes 1994-->{{cite book|pages=611–60 |chapter=Gaeilge Uladh |first=Art |last=Hughes |language=ga |title=Stair na Gaeilge in ómós do Pádraig Ó Fiannachta |editor=K. McCone |editor2=D. McManus |editor3=C. Ó Háinle |editor4=N. Williams |editor5=L. Breatnach |publisher=Department of Old Irish, St. Patrick's College |location=Maynooth |year=1994 |isbn=0-901519-90-1}}
+* <!--Jackson 1955-->{{cite book|title=Contributions to the Study of Manx Phonology |first=Kenneth Hurlstone |last=Jackson |author-link=Kenneth H. Jackson |publisher=Nelson |location=Edinburgh |year=1955}}
+* {{cite book|last=Kelly|first=John|year=1870|editor-last=Gill|editor-first=William|title=A Practical Grammar of the Antient Gaelic, or Language of the Isle of Man, Usually Called Manks|publisher=The Manx Society|publication-date=1870|location=Douglas|url=https://books.google.com/books?id=NZENAAAAYAAJ}}
+* <!--Kewley-Draskau 2008-->{{cite book|title=Practical Manx |first=Jennifer |last=Kewley-Draskau |publisher=Liverpool University Press |year=2008 |isbn=978-1-84631-131-4}}
+* <!--Kneen 1911-->{{cite book|title=A Grammar of the Manx Language |first=John J. |last=Kneen |author-link=John J. Kneen |publisher=Ams Pr Inc |location=Edinburgh |year=1911|isbn=978-0-404-17564-1}}
+* <!--Macbain 1911-->{{cite book|first=Alexander |last=Macbain |title=An Etymological Dictionary of the Gaelic Language |edition=2nd |year=1911 |location=Stirling |publisher=E. Mackay. Reprinted 1998, New York: Hippocrene |isbn=0-7818-0632-1}}
+* <!--Mhac an Fhailigh 1968-->{{cite book|last=Mhac an Fhailigh |first=Éamonn |year=1968 |title=The Irish of Erris, Co. Mayo |publisher=Dublin Institute for Advanced Studies |isbn=0-901282-02-2}}
+* <!--Ó Baoill 1978-->{{cite book|title=Contributions to a Comparative Study of Ulster Irish and Scottish Gaelic |first=Colm |last=Ó Baoill |publisher=Institute of Irish Studies, Queen's University of Belfast |year=1978}}
+* <!--O'Rahilly 1932-->{{cite book|title=Irish Dialects Past and Present |first=Thomas F. |last=O'Rahilly |author-link=T. F. O'Rahilly |location=Dublin |publisher=Browne and Nolan. Reprinted 1976, 1988 by the Dublin Institute for Advanced Studies |year=1932 |isbn=0-901282-55-3}}
+* <!--Ó Cuív 1944-->{{cite book|last=Ó Cuív |first=Brian |year=1944 |title=The Irish of West Muskerry, Co. Cork |publisher=Dublin Institute for Advanced Studies |isbn=0-901282-52-9}}
+* <!--Ó Sé 2000-->{{cite book|last=Ó Sé |first=Diarmuid |year=2000 |title=Gaeilge Chorca Dhuibhne |location=Dublin |publisher=Institiúid Teangeolaíochta Éireann |isbn=0-946452-97-0 |language=ga}}
+* <!--Thomson 1992-->{{cite book|first=Robert L. |last=Thomson |pages=100–36 |chapter=The Manx language |editor=Donald MacAulay|title=The Celtic Languages |publisher=Cambridge University Press |year=1992 |isbn=0-521-23127-2}}
+* <!--Williams 1994-->{{cite book|pages=703–44 |chapter=An Mhanainnis |first=Nicholas |last=Williams |language=ga |title=Stair na Gaeilge in ómós do Pádraig Ó Fiannachta |editor=K. McCone |editor2=D. McManus |editor3=C. Ó Háinle |editor4=N. Williams |editor5=L. Breatnach |publisher=Department of Old Irish, St. Patrick's College |location=Maynooth |year=1994 |isbn=0-901519-90-1}}
+
+==External links==
+{{InterWiki|code=gv}}
+{{Commons category}}
+{{Wiktionary category|type=Manx|category=Manx language}}
+{{Wikivoyage|Manx Gaelic phrasebook|Manx|a phrasebook}}
+{{oldwikisource|Gaelg}}
+* [https://web.archive.org/web/20081201160833/http://www.gov.im/lib/docs/treasury/economic/census/manxmap.pdf Percentage of resident population with a knowledge of Manx Gaelic ]
+* [https://web.archive.org/web/20090214121416/http://www.iomtoday.co.im/skeealnygaelgey/A-bit-of-Manx-Gaelic.4239436.jp A bit of Manx Gaelic history]
+* [http://www.omniglot.com/writing/manx.htm Manx language, alphabet and pronunciation] at Omniglot
+* [https://web.archive.org/web/20050312132027/http://www.gaelg.iofm.net/EMENU.html Information about the language]
+* [http://www.isle-of-man.com/manxnotebook/history/manks/ isle-of-man.com language section]
+* [http://multidict.net/multidict/?sl=gv Manx dictionaries via Multidict]
+* [http://www.learnmanx.com Online Manx Lessons with MP3 recordings]
+* [http://www.mannin.info/MHF/index2.htm Bilingual Bible in Manx and English by the Manx Language Project]
+* [https://www.bbc.com/news/magazine-21242667 Manx: Bringing a language back from the dead]
+* [https://www.theguardian.com/education/2015/apr/02/how-manx-language-came-back-from-dead-isle-of-man Media article about the Manx revival]
+*[https://ai.glossika.com/language/learn-manx Manx free online course]
+
+{{Celtic languages}}
+{{Manx linguistics}}
+{{Celtic nations|state=autocollapse}}
+{{Languages of the United Kingdom}}
+{{Languages of Europe}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Manx Language}}
+[[Category:Manx language| ]]
+[[Category:Languages of the United Kingdom]]
+[[Category:Goidelic languages]]
+[[Category:Languages of Europe]]
+[[Category:Endangered Celtic languages]]
+[[Category:Manx culture|Language]]
+[[Category:Verb–subject–object languages]]
+[[Category:Language revival]]
+[[Category:Articles containing video clips]]

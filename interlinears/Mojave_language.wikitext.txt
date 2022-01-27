@@ -1,0 +1,283 @@
+{{Short description|Native language of the Mohave people along the Colorado River, United States}}
+{{Infobox language
+| name = Mohave
+| altname = '''Mojave'''
+| nativename = ''Hamakhav''
+| region = [[Arizona]] and [[California]], U.S.
+| ethnicity = 2,000 [[Mohave people]] (2007)<ref name=e18 />
+| speakers = 200
+| date = 2015 census
+| ref = e19
+| refname = Mohave
+| familycolor = American
+| fam1 = [[Yuman languages|Yuman]]
+| fam2 = Core Yuman
+| fam3 = [[River Yuman]]
+| iso3 = mov
+| iso3comment = Mohave
+| glotto = moha1256
+| glottoname = Mohave
+}}
+
+'''Mohave''' or '''Mojave'''{{refn|group="Note"|"Mohave" as per ''[[Ethnologue]]'' ("alternate name Mojave"),<ref name=e18>{{Ethnologue18|mov}}</ref> ''[[Glottolog]]'',<ref>{{cite web| editor-last1= Hammarström| editor-first1 = Harald| editor-last2 = Forke| editor-first2 = Robert| editor-last3 = Haspelmath| editor-first3 = Martin| editor-last4 = Bank| editor-first4 = Sebastian| year = 2020|title = Mohave | work = [[Glottolog]] 4.3| url = https://glottolog.org/resource/languoid/id/moha1256}}</ref> ''[[Merriam-Webster Dictionary]]'' ("less commonly Mojave"),<ref>{{cite web |url=https://www.merriam-webster.com/dictionary/Mohave |title=Mohave |work=Merriam-Webster Dictionary |publisher=Merriam-Webster, Incorporated |access-date=2017-07-09}}</ref> ''[[American Heritage Dictionary]]'' ("also Mojave"),<ref>{{cite web |url=https://www.ahdictionary.com/word/search.html?q=Mohave |title=Mohave |work=American Heritage Dictionary |publisher=Houghton Mifflin Harcourt Publishing Company |access-date=2017-07-09}}</ref> and ''[[Collins English Dictionary]]'' ("or Mojave").<ref>{{cite web |url=https://www.collinsdictionary.com/dictionary/english/mohave |title=Mohave |work=Collins English Dictionary |publisher=HarperCollins Publishers |access-date=2017-07-09}}</ref>}} is the [[native language]] of the [[Mohave people]] along the [[Colorado River]] in northwestern [[Arizona]], southeastern [[California]], and southwestern [[Nevada]]. Approximately 70% of the speakers reside in Arizona, while approximately 30% reside in California. It belongs to the River branch of the [[Yuman languages|Yuman]] language family, together with [[Quechan language|Quechan]] and [[Maricopa language|Maricopa]].
+
+The Mojave language became [[Endangered language|endangered]] during the [[manifest destiny]] movement of the 19th century when Mohave and other Native American children were taken away from their parents and tribes to be placed in boarding schools, where they were prohibited from speaking their language. The schools went so far as to prohibit students from speaking their native tongue even with their parents when they occasionally visited home; many parents did not speak English.<ref>Penfield, S. D. (2005). Mohave remembered. ''Journal of the Southwest'', 81-105.</ref><ref>Penfield, S. D., & Tucker, B. V. (2011). From documenting to revitalizing an endangered language: where do applied linguists fit?. Language and Education, 25(4), 291-305.</ref><ref>Weinberg, J. P., & Penfield, S. D. (2000). Mohave Language Planning: Where has it been and where should it go from here?. Coyote Papers: Working Papers in Linguistics, Special Volume on Native American Languages.</ref>
+
+==History==
+At the turn of the 19th century the United States began expanding further west, and as it expanded settlers began encountering more Native Americans. Many of these interactions resulted in violence and death on both sides as the settlers viewed the indigenous people as nuisances to their expansion westward and the native people saw settlers as invaders. It is also at this time that the concept of unilinear evolution was prevalent within the social sciences and society in general, because of this native peoples were thought of as lesser beings or "Noble Savages" free from the burden of civilization yet encompassed by their baser instincts. As a means to lessen the altercation with the indigenous people of the west, the United States government began [[American Indian boarding schools]]. The purpose of these schools was to assimilate Native American children from the ages of 10 to 18 into European American culture, thus weakening their native culture and making them more compliant with the governments territorial expansion. This was accomplished by shearing their hair, replacing their native dress, teaching them English, Math, History, and giving them vocational skills. The Mojave tribe were no exception. In 1890 Fort Mojave was opened by the Thomas J. Morgan, The Commissioner of Indian Affairs, as an Indian school to serve children from the Mojave and Hualapai tribes. The school remained open until 1931 after the [[Meriam Report]] conclude off reservation Indian school a failure.<ref>{{cite web |title=Fort Mojave Indian School Records |url=https://www.library.unlv.edu/speccol/finding-aids/MS-00034.pdf |access-date=December 5, 2019}}</ref>
+==Phonology==
+All claims and examples in this section come from Munro (1974) unless otherwise noted. Mojave phonology is similar to that of Maricopa. One difference is that in the 19th century Mohave speakers shifted the sounds [s] and {{IPA|[ʂ]}} (similar to sh as in "shack") to {{IPA|[θ]}} (th as in "thick") and [s], respectively.<ref>Munro, P. (1976). Subject copying, auxiliarization, and predicate raising: the Mojave evidence. International Journal of American Linguistics, 99-112.</ref><ref>Munro, P. E. L. (1974). Topics in Mojave syntax (Doctoral dissertation, UMI Ann Arbor).</ref>
+===Consonants===
+
+{| class="wikitable" style="text-align: center;"
+! rowspan="2" colspan="2" | 
+! rowspan="2" |[[Labial consonant|Labial]]
+! rowspan="2" |[[Dental consonant|Dental]]
+! rowspan="2" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Retroflex consonant|Retroflex]]
+! rowspan="2" | [[Palatal consonant|Palatal]]
+! colspan="2" | [[Velar consonant|Velar]]
+! colspan="2" | [[Uvular consonant|Uvular]]
+! colspan="2" | [[Glottal consonant|Glottal]]
+|-
+! <small>plain</small>
+! <small>[[labialization|rnd.]]</small>
+! <small>plain</small>
+! <small>rnd.</small>
+! <small>plain</small>
+! <small>rnd.</small>
+|-
+! colspan="2" | [[Stop consonant|Plosive]]
+| {{IPA link|p}}
+|
+| {{IPA link|t}}
+| {{IPA link|ʈ}}
+| {{IPA link|kʲ}}
+| {{IPA link|k}}
+| {{IPA link|kʷ}}
+| {{IPA link|q}}
+| {{IPA link|qʷ}}
+| {{IPA link|ʔ}}
+|
+|-
+! colspan="2" | [[Affricate consonant|Affricate]]
+|
+|
+|
+|
+| {{IPA link|t͡ʃ}}
+|
+|
+|
+|
+|
+|
+|-
+! rowspan="2" | [[Fricative consonant|Fricative]]
+! [[voiceless]]
+| 
+| {{IPA link|θ}}
+| {{IPA link|s}}
+| {{IPA link|ʂ}}
+|
+|
+|
+|
+|
+| {{IPA link|h}}
+| {{IPA link|hʷ}}
+|-
+! [[voice (phonetics)|voiced]]
+| {{IPA link|v}}
+| {{IPA link|ð}}
+| 
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+|
+| {{IPA link|n}}
+| {{IPA link|ɳ}}
+| {{IPA link|ɲ}}
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" | [[Liquid consonant|Liquid]]
+|
+|
+| {{IPA link|l}}, {{IPA link|r}}
+|
+| {{IPA link|lʲ}}
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" | [[Glide consonant|Glide]]
+|
+|
+|
+|
+| {{IPA link|j}}
+|
+| {{IPA link|w}}
+|
+|
+|
+|
+|}
+The post-alveolar stops {{IPA|/ɳ/}} and {{IPA|/ʈ/}} only occur in very few words.
+
+===Vowels===
+
+Mohave has five vowel qualities, with length distinction and the weak vowel /ə/.
+
+{| class="wikitable" style=text-align:center
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}, {{IPA link|iː}}
+|
+| {{IPA link|u}}, {{IPA link|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}, {{IPA link|eː}}
+| {{IPA link|ə}}
+| {{IPA link|o}}, {{IPA link|oː}}
+|-
+! [[Open vowel|Open]]
+|
+| {{IPA link|a}}, {{IPA link|aː}}
+|
+|}
+
+=== Audio example ===
+Hubert McCord, one of the four tribal leaders of the Mojave tribe, is fluent in the Mojave language. McCord has worked with poet Natalie Diaz, see revitalization below, documenting Mojave stories and songs.<ref>{{Cite web|url=https://asunow.asu.edu/content/cultural-conservation-keeping-languages-alive|title=Cultural conservation: keeping languages alive|date=2012-03-26|website=ASU Now: Access, Excellence, Impact|language=en|access-date=2019-12-06}}</ref> [https://www.pbs.org/video/pbs-newshour-mojave-tribal-leader-hubert-mccord-sings/ A video with audio of the language contains tribal elder McCord singing] as he took some of the tribe's youth on a short voyage around the [[Colorado River Indian Tribes|Colorado river]].<ref>{{Citation|title=Mojave Tribal Leader Hubert McCord Sings {{!}} Season 2012 Episode 06/20/2012 {{!}} PBS NewsHour|url=https://www.pbs.org/video/pbs-newshour-mojave-tribal-leader-hubert-mccord-sings/|language=en|access-date=2019-12-06}}</ref>
+
+== Morphology ==
+The basic structure of a word in Mojave consists of a single vowel. Consonants can be added both prior to and following the vowel. Both derivational and inflectional morphemes are created by the addition of mostly prefixes, along with potential suffixes.<ref name=":02">Munro, Pamela. ''Mojave Syntax''. Routledge, 2016.</ref>
+{| class="wikitable"
+|+Structure of a Syllable
+!
+!
+!v
+!
+!
+|-
+|
+|
+|
+|
+|
+|-
+|
+|c-
+|v
+| -c
+|
+|-
+|
+|
+|
+|
+|
+|-
+|c-
+|c-
+|v
+| -c
+| -c
+|-
+|
+|
+|
+|
+|
+|}
+
+
+Tenses in Mojave are split up into present/past and future. The past and present tense are marked by the usage of -k, -m, and -pc^.<ref name=":02" /> The future tense is marked by the lack of any such marker. <ref name=":02" /> First person subjects are expressed through the usage of ?- while n^j represents first person arguments. 2nd person subjects and arguments are denoted by m-  and 3rd is hallmarked by the lack of either of the two.<ref name=":02" /> Verbs are typically denoted via the addition of the suffixes -k and -m.<ref name=":02" /> 
+
+== Syntax ==
+For the word order in the Mojave language, noun phrases containing the subject occur first with the verb occurring last in sentences with additional non-subject nouns, i.e. the object of a sentence, occurring between the subject and the verb. Also, the subject of a sentence is typically marked with the morpheme {-č}.Thereby, the Mojave language can be described as a subject-object-verb, SOV, language. Even with that SOV description, however, there are instances in which there aren't more than one or two specified, marked, or described noun phrases in a sentence because any noun phrase complement of a verb can be omitted as context determines. Moreover, word order is essential with utterances that contain a direct and an indirect object, in which both are unmarked by a morpheme. The basic form of such utterances is that the indirect object comes before the direct object.<ref name=":0">{{Cite book|url=https://archive.org/details/mojavesyntax00munr|url-access=registration|title=Mojave syntax|last=Munro, Pamela.|date=1976|publisher=Garland Pub|isbn=0824019709|location=New York|pages=[https://archive.org/details/mojavesyntax00munr/page/n45 24]-25|oclc=2401368}}</ref> For example, here are tables in a three-line gloss of two sentences with captioned differences:
+
+{{interlinear|indent=3
+|top= An utterance without a marked subject:<ref name=":0" />
+|hatčoq ʔavi:-m ʔ-əta:v-k
+|dog rock-with 1SG.SUBJ-hit-tense
+|I hit the dog with a rock}}
+
+{{interlinear|indent=3
+|top= An utterance with a marked subject (note the form of the word order):<ref name=":0" />
+|Jim-č havik kʷikʷay θinʸaʔa:k sukam-m
+|Jim-SUBJ sibling cow female sell-TNS
+|Jim sold his brother a cow}}
+
+To negate in Mojave one would need to use one of the three apparent devices or methods. That is with the suffix -mot- which precedes a tense marker in lexical verbs, with the negative verb ''kava:r'' which is used on its own and literally means in English "to not", or with the suffix -poʔa:ve (the other variant is -poʔa:və) which is at times used with utterances that contain indefinite pronouns.<ref>{{Cite book|url=https://archive.org/details/mojavesyntax00munr/page/65|title=Mojave syntax|last=Munro, Pamela.|date=1976|publisher=Garland Pub|isbn=0-8240-1970-9|location=New York|pages=[https://archive.org/details/mojavesyntax00munr/page/65 65-72]|oclc=2401368}}</ref>
+
+==Revitalization==
+[[File:Matsunaga-2018-graduation-reception-awards-9605 (42005039191).jpg|thumb|Poet and Mojave language activist Natalie Diaz at [[Arizona State University]]]]
+As of 2012, the Center for Indian Education at [[Arizona State University]] "has facilitated workshops for both learners and speakers at the [[Fort Mojave Indian Reservation]] in northwest Arizona, California and Nevada. Fort Mojave has about 22 elders who speak some Mojave."<ref>{{Cite news |author=Mary Shinn |title=ASU center bringing new life to Native languages |work=The State Press |publisher=[[Arizona State University]] |access-date=2012-09-11 |date=2010-11-29 |url=http://www.statepress.com/2010/11/29/asu-center-bringing-new-life-to-native-languages/ |archive-url=https://web.archive.org/web/20130412025042/http://www.statepress.com/2010/11/29/asu-center-bringing-new-life-to-native-languages/ |archive-date=2013-04-12 |url-status=dead }}</ref> The project is also bringing elders together with younger people to teach the traditional Mojave "bird songs."<ref name="asu">{{Cite news |author=Pete Zrioka |title=Cultural conservation: keeping languages alive |work=Arizona State University News |access-date=2012-09-11 |date=2012-03-26 |url=https://asunews.asu.edu/20120326_language_revitalization }}</ref>
+
+The language preservation work of poet [[Natalie Diaz]] on the reservation was featured on ''[[PBS News Hour]]'' in March 2012.<ref>{{Cite web |author=Mary Jo Brooks |title=On Wednesday's NewsHour: Poet Natalie Diaz |work=[[PBS NewsHour]] |access-date=2012-09-11 |date=2012-06-20 |url=https://www.pbs.org/newshour/art/blog/2012/06/wednesday-on-the-newshour-poet-natalie-diaz.html }}</ref>
+
+==See also==
+* [[Mohave traditional narratives]]
+
+==Notes==
+{{Reflist|group="Note"}}
+
+==References==
+{{Reflist}}
+* Hinton, Leanne. 1994. Flutes of Fire: Essays on California Indian Languages. Heyday Books, Berkeley, California.
+
+==External links==
+* [http://linguistics.berkeley.edu/~survey/languages/mojave.php Mojave language] overview at the [[Survey of California and Other Indian Languages]]
+* [http://www.language-archives.org/language/mov OLAC resources in and about the Mohave language]
+* [https://archive.today/20121212055809/http://cla.berkeley.edu/language/347?tab=collections&drestriction=all California Language Archive: "Mojave"]
+* [http://wals.info/languoid/lect/wals_code_moj World Atlas of Language Structures: Mojave]
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\hok\yum&first=0 Mojave basic lexicon at the Global Lexicostatistical Database]
+* [http://www.native-languages.org/mojave.htm Mohave Indian Language (Mojave)]
+* {{Cite web
+ |title       = The Cultural Conservancy&nbsp;– Mojave Creation Songs
+ |access-date  = 2012-09-11
+ |url         = http://www.nativeland.org/mojave_songs.html
+ |url-status     = dead
+ |archive-url  = https://web.archive.org/web/20120512010801/http://www.nativeland.org/mojave_songs.html
+ |archive-date = 2012-05-12
+}}
+* {{Cite web
+| title = House of Night: The Lost Creation Songs of the Mohave People
+| work = Lost and Found Sound: The Stories
+| access-date = 2012-09-11
+| url = https://www.npr.org/programs/lnfsound/stories/000225.stories.html
+}}
+
+{{Languages of California}}
+{{Languages of Arizona}}
+{{Languages of Nevada}}
+{{Hokan languages}}
+
+[[Category:Mohave tribe]]
+[[Category:Indigenous languages of Arizona]]
+[[Category:Indigenous languages of California]]
+[[Category:Indigenous languages of Nevada]]
+[[Category:Indigenous languages of the North American Southwest]]
+[[Category:Indigenous languages of the Southwestern United States]]
+[[Category:Yuman–Cochimí languages]]

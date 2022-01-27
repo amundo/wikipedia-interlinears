@@ -1,0 +1,247 @@
+{{short description|Arawakan language of Brazil}}
+{{Infobox language
+|name=Yawalapiti
+|states=[[Brazil]]
+|region=[[Xingu Indigenous Park]], [[Mato Grosso]]
+|ethnicity=
+|speakers=8
+|date=2006
+|ref = e18
+|familycolor=American
+|fam1=[[Maipurean languages|Arawakan]] 
+|fam2=Southern ?
+|fam3=[[Paresi–Waura languages|Paresí–Xingu]]
+|fam4=Waurá
+|iso3=yaw
+|lc1=avo|ld1=Agavotaguerra
+|glotto=yawa1261
+|glottoname=Yawalapití
+|glotto2=agav1236
+|glottoname2=Agavotaguerra (bibliographic info)
+|glottorefname2=Agavotaguerra
+}}
+
+'''Yawalapiti''' (Jaulapiti) is an [[Arawakan languages|Arawakan language]] of [[Brazil]]. The Agavotaguerra (Agavotoqueng) reportedly spoke the same language.<ref>Hammarström (2015) Ethnologue 16/17/18th editions: a comprehensive review: online appendices</ref> Speakers of the language live in a village along the edge of the river Tuatuari, a tributary of the [[Kuluene River]], located in the southern part of the [[Xingu Indigenous Park]] ([[Upper Xingu]]), in the state of [[Mato Grosso]].<ref>{{harvp|Mujica|1992|p=4}}.</ref>
+
+==Phonology==
+
+===Consonants===
+Yawalapiti and [[Waurá language|Waurá]], an Arawakan language belonging to the same subgroup, share a very similar phonemic inventory. The main segments are classified in the following table.
+
+{| class="wikitable" style="text-align:center"
+|+Yawalapiti consonant phonemes<ref>{{harvp|Mujica|1992|p=24}}.</ref>
+! !! [[Bilabial consonant|Bilabial]] !! [[Alveolar consonant|Alveolar]] !! [[Retroflex consonant|Retroflex]] !! [[Palatal consonant|Palatal]] !! [[Velar consonant|Velar]] !! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPAlink|m}} || {{IPAlink|n}} || || {{IPAlink|ɲ}} || ||
+|-
+! [[Plosive]]
+| {{IPAlink|p}} || {{IPAlink|t}} || || ({{IPAlink|c}}) || {{IPAlink|k}} || {{IPAlink|ʔ}}
+|-
+! [[Affricate]]
+| || {{IPAlink|ts}} || || {{IPAlink|tʃ}} || ||
+|-
+! [[Fricative]]
+| || || {{IPAlink|ʂ}} ~ {{IPAlink|ʐ}} || {{IPAlink|ʃ}} || || {{IPAlink|h}}
+|-
+! [[Lateral consonant|Lateral]]
+| || {{IPAlink|l}} || || {{IPAlink|ʎ}} || || 
+|-
+! [[Vibrant consonant|Vibrant]]
+| || {{IPAlink|r̥}} || || || ||
+|-
+! [[Flap consonant|Flap]]
+| || {{IPAlink|ɾ}} || || || ||
+|-
+! [[Semivowel]]
+| {{IPAlink|w}} || || || || {{IPAlink|j}} ||
+|}
+
+There are no voiced plosives or affricates in the language. The palatal {{IPA|[c]}} appears to be an [[allophone]] of {{IPA|/k/}} occurring before the [[front vowel]] {{IPA|/i/}}, e.g. [puˈluka] "countryside" vs. [naˈciɾu] "my aunt". Also, the fricative {{IPA|/ʂ/}} is in free variation with its voiced counterpart and {{IPA|/ʐ/}} respectively, e.g. [iˈʂa ~ iˈʐa] "canoe".<ref name="var_phon">{{harvp|Mujica|1992|pp=26-27}}.</ref>
+
+There are also some phonotactic constraints that dictate what types of consonants are allowed to appear in certain positions inside a word. For instance, the sounds {{IPA|/tʃ, l, ɾ/}} cannot occur before the vowel {{IPA|/ɨ/}}, and the latter two are restricted to the medial position. In a similar manner, the liquid {{IPA|/ʎ/}} is only observed in medial position and never before {{IPA|/a/}}. As for the voiceless {{IPA|/r̥/}}, it is the only [[Rhotic consonant|rhotic]] segment that is allowed to appear in any position and before any vowel. The [[semivowel]] {{IPA|/w/}} is found in initial, medial and final position, while {{IPA|/j/}} does not occur in final position.<ref name="yaw_phon">{{harvp|Mujica|1992|pp=14-24}}.</ref>
+
+The [[glottal stop]] is automatic in words beginning or ending in a vowel, i.e. a word like {{IPA|/u/}} "water" is pronounced as {{IPA|[ˈʔuʔ]}}.<ref>{{harvp|Mujica|1992|p=42}}.</ref>
+
+===Vowels===
+The Yawalapiti language has both oral and nasal vowels, as shown below.
+
+{| class="wikitable" style="text-align:center"
+|+Yawalapiti vowel phonemes<ref>{{harvp|Mujica|1992|p=25}}.</ref>
+! rowspan=2 |
+! colspan=2 | [[Front vowel|Front]]
+! colspan=2 | [[Central vowel|Central]]
+! colspan=2 | [[Back vowel|Back]]
+|-
+! <small>[[oral vowel|oral]]</small> !! <small>[[nasal vowel|nasal]]</small>
+! <small>[[oral vowel|oral]]</small> !! <small>[[nasal vowel|nasal]]</small>
+! <small>[[oral vowel|oral]]</small> !! <small>[[nasal vowel|nasal]]</small>
+|-
+! [[High vowel|High]]
+| {{IPA|i}} || {{IPA|ĩ}} || {{IPA|ɨ}} || {{IPA|ɨ̃}} || {{IPA|u}} || {{IPA|ũ}}
+|-
+! [[Low vowel|Low]]
+| || || {{IPA|a}} || {{IPA|ã}} || ||
+|}
+
+Although nasal vowels mostly occur before or after nasal consonants, e.g. {{IPA|[ˈĩmi]}} "[[pequi]] oil" or {{IPA|[ˈmũnu]}} "termite",<ref name="yaw_phon"/> there are cases in which they are found in non-nasal environments, e.g. {{IPA|[hã ~ hĩ]}} (emphatic particle).<ref>{{harvp|Mujica|1992|p=43}}.</ref> Simple vowels can form various [[diphthong]]s, mainly {{IPA|/iu, ui, ia, ai, au, ua, ɨu, uɨ/}}.<ref name="yaw_diph_str">{{harvp|Mujica|1992|p=38}}.</ref>
+
+Contrary to Waurá, Yawalapiti has no {{IPA|/e/}} sound. This is because Proto-Arawak ''*e'' has evolved as {{IPA|/ɨ/}} while, at the same time, Proto-Arawak ''*i'' and ''*ɨ'' have merged resulting into {{IPA|/i/}} in Yawalapiti.<ref>{{harvp|Seki|1999|p=427}}.</ref>
+
+===Phonotactics===
+Syllables in Yawalapiti can be of the type V, CV and, only in word-final position, (C)Vʔ. The stress may fall on the penultimate or on the last syllable of a word.<ref name="yaw_diph_str"/>
+
+==Morphology==
+
+===Classifiers and derivational suffixes===
+As other [[Arawakan languages]], Yawalapiti is [[agglutinative]] and makes use of [[affixes]], especially [[suffixes]], to convey basic grammatical relations. Nominal suffixes can be divided into two groups: [[Classifier (linguistics)|classifier]]s and derivational suffixes.
+
+The main classifiers found in Yawalapiti refer to the shape of an object or some other characteristic of it, like texture, length and position.<ref>{{harvp|Mujica|1992|pp=44-51}}.</ref>
+
+{| class="wikitable"
+! classifier !! semantics
+|-
+| ''-ja'' || liquid
+|-
+| ''-ti'' || elongated
+|-
+| ''-ta'' || circular or spherical
+|-
+| ''-ka'' || flat
+|-
+| ''-pana'' || leaf-shaped
+|-
+| ''-lu'' || wrapping
+|}
+
+These morphemes attach to adjectives when they refer to a noun that needs a classifier, as in the following example.
+
+{{interlinear|number=(1)
+| kulata-ja u.
+| hot-CL.liquid water
+| Hot water.}}
+
+{{interlinear|number=(2)
+| natʃa autsa-lu
+| clothes new-CL.wrapping
+| New clothes.}}
+
+Derivational suffixes are applied to primitive nouns to form new compound nouns. Sometimes, however, the meaning of the original noun is not known.
+
+{{interlinear|number=(3)|abbreviations= DS:derivational suffix
+| tsɨmɨ-r̥i
+| tapir-DS.long
+| boa constrictor}}
+
+{{interlinear|number=(4)|abbreviations= DS:derivational suffix
+| ina-pi
+| ?-DS.pointed
+| fish bone}}
+
+===Possessives===
+Nominal and verbal prefixes intervene in the formation of possessive phrases, and can indicate the subject or the object of a verb phrase. The set of possessive prefixes of Yawalapiti is very similar to the those of the other languages of the Arawakan branch.
+
+{| class="wikitable" style="width:25%"
+|+Possessive and personal prefixes<ref>{{harvp|Mujica|1992|p=60}}.</ref>
+!
+! colspan=2 | Before vowels
+|-
+! 
+! Singular
+! Plural
+|-
+! 1st person 
+| ''n-'', ''ni-''
+| ''a-'', ''aw-''
+|-
+! 2nd person
+| ''p-'', ''pi-''
+| ''i-''
+|-
+! 3rd person
+| ''in-''
+| ''in- ... -pa''
+|-
+!
+! colspan=2 | Before consonants
+|-
+!
+! Singular
+! Plural
+|-
+! 1st person
+| ''nu-''
+| ''a-''
+|-
+! 2nd person
+| ''hi-'', ''ti-''
+| ''i-''
+|-
+! 3rd person
+| ''i-''
+| ''i- ... -pa''
+|}
+
+In vowel initial nouns and verbs, the forms ''ni-'' and ''pi-'' are frequently used with roots beginning in ''u'', while the prefix ''aw-'' appears systematically before ''a''. In nouns and verbs beginning in consonant, the form ''ti-'' occurs only when the root starts with ''h'' (in all the other cases, ''hi-'' is used). The third person plural is actually a [[circumfix]] formed by the correspondent prefix of the third person singular and the pluralizer suffix ''-pa''. When nouns beginning with ''p'', ''k'', ''t'', ''m'', ''n'', ''w'' and ''j'' are modified by the prefix of second person singular or plural, their initial sounds are subject to the following [[morphophonemic]] changes.<ref>{{harvp|Mujica|1992|p=61}}.</ref>
+
+: ''p'' → ''ɾ''
+: ''k'' → ''tʃ''
+: ''t'' → ''ts''
+: ''m'' → ''ɲ''
+: ''n'' → ''ɲ''
+: ''w'' → Ø
+: ''j'' → Ø
+
+Thus, for example, ''-kuʃu'' "head" becomes ''hi-tʃuʃu'' "your head" (but ''nu-kuʃu'' "my head"), ''-palaka'' "face" becomes ''hi-ɾalaka'' "your face" (but ''nu-palata'' "my face") and ''-jakanati'' "saliva" becomes ''hi-akanati'' "your saliva" (but ''nu-jakanati'' "my saliva").
+
+Apart from possessive prefixes, [[Alienability (grammar)|alienable]] nouns also receive alienable possessive suffixes, as in the case of ''uku'' "arrow", which becomes ''n-uku-la'' "my arrow", ''p-uku-la'' "your arrow", ''in-uku-la'' "his/her arrow", etc.
+
+===Independent pronouns===
+Independent pronouns of first and second person are listed in the table below.<ref name="yaw_pron">{{harvp|Mujica|1992|pp=56-60}}.</ref>
+
+{| class="wikitable"
+!
+! Singular
+! Plural
+|-
+! 1st person
+| ''natu''
+| ''aʂu''
+|-
+! 2nd person
+| ''tiʂu''
+| ''iʂu''
+|}
+
+For the third person, Yawalapiti speakers use demonstrative pronouns, which are also marked for gender.<ref name="yaw_pron"/>
+
+{| class="wikitable"
+! !! Masculine !! Feminine
+|-
+! Near
+| ''iɾi''
+| ''iɾu''
+|-
+! Far
+| ''itiɾa''
+| ''iɾutiɾa''
+|}
+
+==Syntax==
+From a [[typology (linguistics)|typological]] point of view, the order of constituents in Yawalapiti is SVO. In genitive constructions, the possessor precedes the possessed item. The same is true for other modiefiers, especially demonstratives and numerals, while adjectives are free to occur before or after their referent.<ref>{{harvp|Mujica|1992|pp=52-53}}.</ref>
+
+==Notes==
+{{Reflist}}
+
+==References==
+* {{cite book|last=Mujica|first=Mitzila Isabel Ortega|title=Aspectos fonológicos e gramaticais da língua yawalapiti (aruak)|year=1992|others=M.A. Thesis|location=Campinas|publisher=Universidade Estadual de Campinas|url=http://repositorio.unicamp.br/jspui/bitstream/REPOSIP/270875/1/OrtegaMujica_MitzilaIsabel_M.pdf}}
+* {{cite book|last=Seki|first=Lucy|chapter=The Upper Xingu as an incipient linguistic area|title=The Amazonian Languages|editor=Dixon, R. M. W.|editor2=Aikhenvald, Alexandra Y.|location=New York|publisher=Cambridge University Press|year=1999|isbn=0-521-57893-0|pages=417–430}}
+
+==Further reading==
+*Carvalho, Fernando O. de. 2016. [https://www.academia.edu/26935996/Carvalho.2016.Internal_and_Comparative_Reconstruction_in_Yawalapiti_Palatalization_and_Rule_Telescoping._International_Journal_of_American_Linguistics_82_3_ Internal and Comparative Reconstruction in Yawalapiti: Palatalization and Rule Telescoping]. ''International Journal of American Linguistics'' 82 (3).
+
+{{Xingu}}
+{{Arawakan languages}}
+{{DEFAULTSORT:Yawalapiti language}}
+[[Category:Arawakan languages]]
+[[Category:Languages of Xingu Indigenous Park]]

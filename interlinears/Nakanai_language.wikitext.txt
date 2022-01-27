@@ -1,0 +1,585 @@
+{{Short description|Language in Papua New Guinea}}
+{{Infobox language
+|name=Nakanai
+|nativename=Lakalai
+|states=[[Papua New Guinea]]
+|speakers=13,000
+|date=1981
+|ref = e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Western Oceanic languages|Western]]
+|fam5=[[Meso-Melanesian languages|Meso-Melanesian]]
+|fam6=[[Willaumez languages|Willaumez]]
+|iso3=nak
+|glotto=naka1262
+|glottorefname=Nakanai
+}}
+
+'''Nakanai''' is spoken by the Nakanai tribe in [[West New Britain]], a province of [[Papua New Guinea]].  It is an [[Austronesian languages|Austronesian language]], belonging to the [[Malayo-Polynesian]] subgroup. Otherwise known as Nakonai, it also has dialects in the form of Losa, Bileki, Vere, Ubae, and Maututu.
+
+The name Nakanai is natively pronounced Lakalai, as the [[alveolar nasal]] [n] has disappeared from the [[phoneme|phonemic inventory]] of the language and has been replaced by [l].
+
+The name given to the Nakanai people by the indigenous people, before the Tolai name of Nakanai was adopted, was either Muku or Muu. Those were derogatory words, and in Nakanai mean "to screw up the nose in distaste," and "humming sound made by masked men," respectively.<ref name="grammar">{{harvp|Johnston|1980}}</ref>
+
+==History==
+Due to links between Nakanai and Eastern Oceanic languages, it is believed that its language family speakers arrived from the east of Papua New Guinea.<ref name="grammar" />
+
+New Britain had experienced regular contact and settlement from 1840 to 1883, but the lack of coverage and useful records of the Nakanai region had the region deemed [[terra incognita]].
+
+==Speakers==
+Nakanai is spoken by people living in the West New Britain Province of Papua New Guinea. They live in around 45 villages in the coastal and hinterland regions of Cape Hoskins, Commodore Bay, Cape Reilnitz, Bangula Bay and Cape Koas.<ref>{{harvp|Johnston|1980|pages=1}}</ref>
+ 
+The dialects that make up the Nakanai language are Bileki, Ubae, Vele, Loso, and Maututu, respectively from the west-most to the east-most of the Nakanai speaking areas.<ref>{{harvp|Johnston|1980|pages=14}}</ref>
+
+Of all the dialects spoken, Bileki has the most native speakers due to being in a more densely populated area. It is common for speakers of other dialects to understand, or even speak, Bileki, but the reverse is not as common. There are 19 Bileki-speaking villages centered around [[Cape Hoskins]] and [[Commodore Bay]]. It also has a number of names, including ''Beleki'' and ''Central Nakanai''. South-East of the Bileki area are the Ubae speakers, located in the Ubae and Gusi villages.<ref>{{harvp|Johnston|1980|pages=14-16}}</ref> Vele speakers are centered on the coastal and adjacent regions of Bangula Bay, in particular, the villages of Tarobi, Pasusu, Sisimi, Gaekeke, Kai and Kaiamo.<ref>{{harvp|Johnston|1980|pages=16}}</ref> Loso (or Auka) is a dialect of Nakanai spoken in the Silanga region, inland of Lasibu Anchorage. The villages are Kotoo Babata and Loa, all resettled at Silanga; Um, Bagela, Bibisi and Sipa, all resettled at or near Uasilau; and Movai, Sabol, Saiko, and a portion of Sipa, which are still situated on traditional land in the bush.<ref>{{harvp|Johnston|1980|pages=17}}</ref> The villages of the Maututu dialect are Matililiu, Gomu, Apulpul, Baikakea, Bubuu, Mataururu, Kiava and Evase, all grouped on the eastern coast of the Nakanai area, between Toiru River and Cape Koas. These are all United Church Villages and have been influenced therefore by Tolai-speaking missionaries and Nassa shell traders, plus contact with Melamela to the east, Bileki and Vele to the west, and the inland languages Longeinga, Wasi and Kol.<ref>{{harvp|Johnston|1980|pages=17-18}}</ref>
+
+==Grammar==
+
+===Sociolinguistic choices===
+The noun article is obligatory when referring to an object, and when addressing an object, the noun article is never used.
+
+Avoiding the use of names in speech is a way of showing esteem, whether one is talking about a person in reference or when addressing them. To use a person's name without good reason is seen as a form of disrespect. Instead, kinship terms are preferred. Esteem, in face to face conversations, is also displayed by referring to the addressee in the third person.<ref name="grammar" />
+
+==Syntax==
+
+===Thematic roles===
+
+In terms of case relations, "Nakanai role structure operates morphologically as follows: there are six contrastive cases, Actor, which appears as the immediately pre-verbal NP; Patient, which appears in the unmarked instance as the immediately post-verbal NP; Source; which is the NP immediately preceded by the
+post-verbal ablative particle le; Beneficiary, which is encoded by inalienable possession suffixation of the verb; Instrument, signaled by ablative particle le, but appearing discontinuously from it, the Patient-NP obligatorily intervening; and Goal encoded by the preposition te.
+"Additionally, directional verbs in chained sequence such as tavu (towards) and taro (away from) 
+encode goal and source relationship respectively. relationships of Direction, Range, Location and 
+comitative are encoded by prepositionally-coreferential topic deletion.".<ref name="syntax">{{harvp|Johnston|1978}}</ref>
+
+Fundamental division of Nakanai cases in case relations.
+Nuclear roles filling positions of referential prominence: actor; beneficiary; patient;
+Nuclear roles filling positions of non-referential prominence: goal; instrument; source
+Peripheral roles (necessarily referentially non-prominent: location; direction; range; comitative
+
+====Actor====
+The actor is typically the animate entity credited for the action in a sentence. In Nakanai, the action includes the source, the undergoer and the experiencer of, "a caused or spontaneous process, or mental state or event." The actor noun phrase will precede the verb in the language.<ref name="syntax" />
+
+====Patient====
+The patient is affected by the action or state identified by the verb in a sentence. They receive this external action or exhibit a state identified by a verb.
+
+{{interlinear|indent=3
+| E Baba kue(-a) e Bubu
+| ART Baba strike-3ps ART Bubu
+| Baba struck Bubu}}
+
+{{interlinear|indent=3
+| E Baba kama-kokora
+| ART Baba bad
+| Baba is bad}}
+
+In transitive clauses, the patient noun phrase is encoded by suffixation of the verb with a 3rd person singular affix ''-a''. The accusative marking is optional for noun phrases with given information.
+
+{{interlinear|indent=3
+| E Baba kue(-a) la paia
+| ART Baba strike-3ps ART dog
+| Baba struck the dog}}
+
+{{interlinear|indent=3
+| Egite barautu isahari egite siapani
+| they(PL) cut some they(PL) Japan
+| they cut some Japanese soldiers}}
+
+Japanese soldiers represent the new information.
+
+The beneficiary or source noun phrases must precede the patient in a sentence, the two not being in the same sentence.
+
+{{interlinear|indent=3
+| E Baba abi-a-le tila-la la bua
+| ART Baba give-3ps-3psi/ART mother-3psi ART {areca nut}
+| Baba gave his mother areca nuts}}
+
+"The patient case appears in the nominal slot mmediately following the verb, and potentially preceded by accusative suffix ''-a'' on the verb. This is the statistically most frequent occurrence of Patient."<ref name="syntax" />
+
+====Beneficiary====
+These represent the animate beneficiary of the action or state identified by a verb. They are an inalienable possession marking agreeing with the beneficiary in number and person inclusiveness.<ref name="syntax" />
+
+{{interlinear|indent=3
+|top= Act VP Ben.
+| E Baba vitaho-a-le Bubu
+| ART baba escort-3ps-3psi/ART Bubu
+|}}
+
+Occurs mostly in ditransitive clauses, where it must occur in the nominal slot immediately following the verb:
+
+{{interlinear|indent=3
+|top= Act VP Ven Pat
+| E Baba abi-a-le Bubu la bua
+| ART Baba give-3ps-3psi/ART Bubu ART {areca nut}
+| Baba gave Bubu areca nuts}}
+
+====Instrument====
+For intransitive clauses they may represent: the inanimate force
+
+{{interlinear|indent=3
+|top= Act VP Ven Pat 
+| E baba lea le bubuli 
+| ART baba sick AB measlee
+| baba is sick with measles}}
+
+the independent non-volitional cause, animate
+
+{{interlinear|indent=3
+|top= Act VP Ins E Baba sagege le loli
+| E baba sagege le loli
+| ART Baba happy ABL lollies
+| baba is happy with the lollies}}
+
+inanimate
+
+{{interlinear|indent=3
+|top= Act Modal VP INS
+| E baba ge iloburuko le amiteu
+| ART baba IRR worry ABL ART us
+| baba will be worried about us}}
+
+For transitive clauses, "[the] instrument is the case of the object accessory or tool involved in performing the action of the verb." They are always inanimate. With an actor, it appears as the last noun phrase in the clause, marked with post-verbal ablative particle ''le''. Without an actor, it may appear as the clause topic. "it is not a plausible analysis to regard ''le'' marking Instrument-NP as signalling Instrument outranked by another role (Patient), like English with, since this alternative does not explain the invariant ordering of the instrumental clause."<ref name="syntax" />
+
+====Sources====
+In ditransitive clauses, the source "represents the animate origin of an action in which a patient is moved away from source-entity by [an] actor"
+
+{{interlinear|indent=3
+|top= Act VP Src Pat
+| e baba abi taro le bubu la bua
+| ART baba get away ABL bubu ART {areca nut}
+| Baba took away from Bubu the areca nut}}
+
+source marked by ablative particle ''le'', appears post-verbally in first nominal slot. "<ref name="syntax" />
+
+====Goal====
+Goals are encoded by the free particle ''te''. It is the case of the entity toward which the action is directed. It includes: destination, purpose, place, extent, or reason or topic of conversation. It is usually the last noun phrase in the clause.<ref name="syntax" />
+
+{{interlinear|indent=3
+|top= Act VP Goal
+| E baba sae te sipi
+| ART baba board PREP ship
+| baba boarded the/a ship}}
+
+====Location====
+{{interlinear|indent=3
+|top= Act VP Loc
+| [E Baba pou] [o-io (te) la hohoi].
+| ART Baba sit at-there PREP ART bush
+| Baba stayed in the bush.}}
+
+{{interlinear|indent=3
+|top= Act VP Loc
+| [E Baba sae] [so-ata (te) la kari]
+| ART Baba climb to-up PREP ART truck.
+| Baba climbed up onto the truck.}}
+
+"Location may be optionally encoded by preposition ''te'' in addition to the coverb encoding Locative.Preposition te indicates that the embedded locative clause contains a nuclear case, viz. goal.
+
+Depending on involvement of motion or whether the verb is transitive or not, there may be coreferential actor or patient deletion.
+
+{{interlinear|indent=3
+|top= Act VP Pat Loc
+| [E Baba paha la uaga] [o-io la hohoi]
+| ART Baba carve ART canoe at-there ART bush
+| Baba carved a canoe in the bush.}}
+
+{{interlinear|indent=3
+|top= Act VP Pat Loc
+| [E Baba tigitaro la lalu] [so-talo la magasa]
+| ART Baba pour.out ART water to-down ART ground
+| Baba poured out the water onto the ground.}}
+
+Coreferential topic deletion of actor noun phrase is not obligatory in the presence of motion verbs with the root go-''to proceed''. "<ref name="syntax" />
+
+====Range====
+Range is encoded as the Goal of the direction verb kara ''until/as far as'', appearing as the main verb, or in a chained sequence with another verb. "It indicates a relationship of spatial extent or temporal duration:"
+
+{{interlinear|indent=3
+|top= Act VPP Range
+| [Egite go-io] [pou kara (te)la logo.]
+| they(PL) go-there sit until PREP ART night
+| They then remained until nightfall}}
+
+"This clause shows two instances of coreferential topic deletion in clauses in chained sequence. The obligatory coreferential topic deletion of the actor noun phrase potentially appearing with kara is illustrated in the second embedded clause. Note too that the preposition in this clause is optional."<ref name="syntax" />
+
+==Orthography==
+
+Nakanai has five vowels in a, e, i, o, u, and has the consonants p, b, t, d, k, g, s, h, r, l, n, and ng.<ref name="grammar" />
+
+==Phonology==
+
+Nakanai [[syllable]]s may be of the shape V or CV, with no [[Syllable coda|codas]] or [[consonant cluster]]s to be found anywhere in the language.
+
+Phonology of the Nakanai language:<ref name="syntax"/>
+{| class="wikitable" style="text-align:center"
+|+ Consonant sounds
+! colspan="2" |
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan="2" |[[Stop consonant|Plosive]]
+!<small>voiceless</small>
+|p
+|t
+|k
+|
+|-
+!<small>voiced</small>
+|b
+|d
+|g
+|
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| width="20px" style="border-right: 0;" |m
+| width="20px" style="border-right: 0;" |
+| width="20px" style="border-right: 0;" |
+|
+|-
+! colspan="2" |[[Rhotic consonant|Rhotic]]
+|
+|r
+|
+|
+|-
+! colspan="2" |[[Lateral consonant|Lateral]]
+|
+|l
+|
+|
+|-
+! colspan="2" | [[Fricative consonant|Fricative]]
+| style="border-right: 0;" |β
+| style="border-right: 0;" |s
+| style="border-right: 0;" |
+|h
+|}
+
+{| class="wikitable"
+|+ '''Vowel sounds'''
+!
+! [[Front vowel|Front]]
+![[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| align="center" |{{IPA|i}} 
+||| align="center" | {{IPA|u}}
+|-
+! [[Mid vowel|Mid]]
+| align="center" |{{IPA|e}} 
+||| align="center" |{{IPA|o}}
+|-
+![[Low vowel|Low]]
+|
+| align="center" |{{IPA|a}}
+| 
+|}
+
+=== Phonological Rules ===
+{| class="wikitable"
+|-
+! Orthography !! Feature
+|-
+| w || /u/
+|-
+| y || /i/
+|-
+| v || [β]
+|-
+| r || flap/trill
+|-
+| /t/ || [ts] before i
+|-
+| i after t || infrequent sound
+|-
+| u after m || infrequent sound
+|-
+| h || not usually articulated 
+|}
+
+Younger Bileki speakers, typically younger than 30 years old, tend to drop the /h/ sound from their speech. The Methodist parts of Nakanai also drop the /h/ sound as a result of Kuanuan language influence.
+
+{| class="wikitable"
+|-
+! Word !! Dropped /h/ !! Gloss
+|-
+| la havi || la avi|| fire 
+|-
+| saho || sao || water
+|}
+
+The presence of English, Pidgin and Tolai brought in the change of /l/ to /n/ in areas where this change has occurred.<ref name="grammar" />
+
+=== Phonological differences ===
+
+The dialects of Nakanai mainly differ in the sounds that they use.
+
+==== Bileki ====
+For the most popular dialect, Bileki, their /g/s are /d/s, /k/s are /ʔ/s, /l/s are /n/s for a number of words, and /r/s are /s/s.
+
+Bileki also shares phonological similarities with another language in the New Britain area, Melamela, which is located east of the Maututu speaking regions. Phonological differences lie in the different rendition of certain phonemes. 
+{| class="wikitable"
+|-
+! Bileki phoneme !! Melamela phoneme
+|-
+| /g/ || /d/
+|-
+| /k/ || /ʔ/
+|-
+| /l/ || /n/
+|-
+| /r/ || /s/
+|}
+
+=== Ubae ===
+
+In Ubae, the Bileki habit of dropping the /h/ sound from their speech has caused the ''la'' noun marker to turn into ''l-'' for words starting with a vowel. For example:
+{| class="wikitable"
+|-
+! Sentence !! Gloss
+|-
+| l-ivu-la || his/her hair
+|-
+| l-ase-la || his/her mouth
+|}
+/k/ is present in Ubae speech, /l/ and /s/ are sometimes alternated in basic words, and the  /l/ and /r/ change from their Vele neighbors isn't present.
+
+=== Vele ===
+
+Like the Bileki dialect, the /h/ sound has been dropped from Vele speech. The /l/ is rendered as the /r/ sound, and the /k/ as the /ʔ/. Their noun marker la drops the /l/, transforming it to just ''a''. Vele also has had contact with Bileki-speaking Methodist pastors, and thus the Methodist villages, Kaiamo and Sulu, speak a dialect that's moving closer to Bileki.
+
+=== Loso/Auka ===
+
+Similar to Bileki, the /h/ sound is missing. They also use the /n/ sound in place of /l/. Similar to Vele, the noun marker ''la'' is simplified to just ''a''. Despite neighboring Vele, their /k/ sounds don't change to /ʔ/.
+
+=== Maututu ===
+
+Maututu's phonemic inventory shares a strong resemblance with Bileki's.<ref name="grammar" />
+
+==Vocabulary==
+
+Speakers exposed to English borrow English lexical items, as well as mix in words from Pidgin into their speech. The practice is frowned upon, despite being widely practiced.
+
+{| class="wikitable"
+|-
+! English !! Borrowed
+|-
+| married || marid
+|-
+| greedy || gridi
+|}
+
+Religion plays a part in the vocabulary used in the Nakanai speaking regions. About 61.74% of speakers are Catholic, while the rest are Methodists of the [[United Church of Christ|United Church]].
+The Catholic parts keep older Nakanai words that replaced in other parts. Methodist parts borrow words from Kuanuan language.
+
+There are distinct kinship terms and their use depends on whether the person is being referred to or being addressed.<ref name="grammar" />
+{| class="wikitable"
+|-
+! Reference  !! Address !! Gloss
+|-
+| e tamisa-gu || lavogu || my cross-cousin
+|-
+| e tubu-gu || pupu || my grandparent
+|-
+| e iva-gu || laiva || my brother-in-law
+|}
+
+Nakanai has, over time, experienced lexical innovation. One driving force behind lexical innovation in the language is to be able to "discuss matters without outsiders understanding key words." An example:
+
+{| class="wikitable"
+|-
+! Sentence !! Gloss !! Translation
+|-
+| e maisu-mata || noun-marker straight nose || 'White person'
+|}
+
+Lexical innovation also comes in the form of borrowing terms from the surrounding languages, mainly Tolai, Pidgin and English, to cover foreign objects. An example:
+
+{| class="wikitable"
+|-
+| e moro || le uaga || e sipi (from Pidgin) || 'ship'
+|}
+
+Before the borrowing of lexical terms, they would make do with creative reactions to new objects that arrived to New Britain from foreign sources.
+
+{| class="wikitable"
+|-
+! Reactionary term (literal translation) !! Current term!! Meaning
+|-
+| koko-robo (excrete covering) || rositi|| rusted, rusty
+|-
+| la gala-muli-guaru (crawl-along-road) || la kari || truck, vehicle
+|}
+
+Along with adding new terms, they have also expanded existing ones to match new experiences introduced by foreigners. 
+{| class="wikitable"
+|-
+! Term !! Original meaning !! Expanded meaning
+|-
+| gigi || 'count' || 'read, receive, education'
+|-
+| kaka || 'ask' || 'pray'
+|}
+
+There are also unnecessary borrowings in the forms of functional term and [[calque]]s:
+{| class="wikitable"
+|-
+! Word (origin) !! Word (Nakanai) !! Meaning
+|-
+| oraet (Pidgin) || ioge|| 'so, well'
+|-
+| ma (Tolai) || me || 'and'
+|}
+
+{| class="wikitable"
+|-
+! Expression (literal)!! Meaning (original expression)
+|-
+| karutu gegeru ('Shaken badly')|| accuse (Pidgin 'sutim long tok')
+|-
+| hatamalei ('Man!')|| Pidgin 'olaman'
+|}
+
+===Ubae===
+Ubae, compared to its neighbor Vele, has numerous lexical differences from Bileki, taking from other Eastern Nakanai dialects. For example, consider the words ''la voto'': this means 'dog'. ''voto'', or 'dog', is found in the Eastern Nakanai dialects, however, Ubae still uses the Bileki article ''la'' instead of ''e'', which is found in other Eastern Nakanai dialects.<ref name="grammar" />
+
+==Lexicon==
+{| class="wikitable"
+|-
+! Word !! Category !! Gloss
+|-
+| ali || transitive verb || give
+|-
+| agi|| adverb || too much
+|-
+| alaura|| adverb || long ago
+|-
+| ale mave|| adverb || which
+|-
+| ali|| transitive verb|| which
+|-
+| baa || noun|| area, space
+|-
+| baha|| transitive verb || send a person or a spoken message
+|-
+| balava|| intransitive verb || get something for nothing
+|-
+| baratu || transitive verb|| cut
+|-
+| belo|| noun||  return 
+|-
+| beua || intransitive verb|| return
+|-
+| bisi|| intransitive verb|| small, young, insignificant
+|-
+| bisnis|| noun||  business
+|-
+| bokis|| noun|| box
+|-
+| bolo || noun || pig
+|-
+| bububu || adverb|| pointlessly
+|-
+| bulahu|| adverb|| for no reason
+|-
+| buli|| transitive verb || roll 
+|-
+| didiman|| noun || agricultural officer
+|-
+| gabu|| transitive verb|| think about
+|-
+| gabutatala|| transitive verb|| think about
+|-
+| gabutatalala|| noun|| thinking
+|-
+| gale|| noun|| area, region
+|-
+| gali|| intransitive verb|| advance, merge
+|-
+| galili || adverb|| around
+|-
+| galolo || adverb || constantly, tediously
+|-
+| gauru || noun || path, road
+|-
+| gigi || transitive verb || count, read
+|- 
+| gilemuli || transitive verb || tell a story
+|-
+|gima || noun || appointed place 
+|-
+|go-LOC || intransitive verb || go to stated location
+|-
+|golo || adverb || deceivingly, temporarily
+|-
+| gulutu || noun || cooking 
+|-
+|gutu || transitive verb || cook 
+|-
+| hagavi || intransitive verb || near
+|-
+| harare || noun || banks of river
+|- 
+| harepala || intransitive verb || open one's mouth
+|-
+| haro || noun || sun, day
+|-
+|(ha)ta(vi)vile || noun || women 
+|-
+| hele || intransitive verb || flee, run desperately
+|- 
+| hihilo || - || reduplication of hilo
+|-
+| hiliti || intransitive verb || stand up
+|-
+| hilo || transitive verb ||see
+|-
+| igo || transitive verb || do, make
+|-
+| igotataho || transitive verb || show off
+|-
+| igovavai || intransitive verb || snigger
+|-
+| igogolu || noun || work
+|-
+| ilali-la || noun || eating
+|-
+| -ilo || locative suffix || in, inside, inland
+|-
+| -io || locative suffix || there 
+|-
+| isa- || noun || name
+|-
+|kabili || intransitive verb || in the middle
+|- 
+|kaka || transitive verb || ask, request
+|-
+|kaluvu || transitive verb || finish
+|-
+|kamada || noun || carpenter 
+|-
+|kamu || transitive verb || grasp
+|- 
+|kapu || transitive verb || pulp
+|}
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{refbegin}}
+* {{Cite book |title=A Dictionary of the Lakalai (Nakanai) Language of New Britain, Papua New Guinea |last1=Chowning |first1=Ann |last2=Goodenough |first2=Ward H. |date=2016 |publisher=Asia-Pacific Linguistics |isbn=9781922185310 |location=Canberra |hdl=1885/107217 |hdl-access=free}}
+* {{Cite thesis |last=Johnston |first=Raymond L. |title=Nakanai Syntax |date=1978 |degree=PhD |publisher=Australian National University |hdl=1885/10920 |hdl-access=free |doi=10.25911/5D763637B41D4 |doi-access=free }}
+* {{Cite book |title=Nakanai of New Britain: The Grammar of an Oceanic Language Series |series=Pacific Linguistics Series B-70 |last=Johnston |first=Raymond L. |publisher=Pacific Linguistics |year=1980 |location=Canberra |hdl=1885/148444 |hdl-access=free |doi=10.15144/PL-B70 |doi-access=free }}
+* {{Cite thesis |last=Spaelti |first=Philip |title=Dimensions of Variation in Multi-Pattern Reduplication |date=1997 |degree=PhD |publisher=University of California, Santa Cruz |doi=10.7282/T3NV9H3K |doi-access=free }}
+{{refend}}
+
+{{Meso-Melanesian languages}}
+{{Austronesian languages}}
+{{Languages of Papua New Guinea}}
+
+[[Category:Meso-Melanesian languages]]
+[[Category:Languages of West New Britain Province]]

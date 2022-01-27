@@ -1,0 +1,339 @@
+{{Short description|Macro-Jê language spoken in Brazil}}
+{{distinguish|Yarumá language (Carib)}}
+{{Infobox language
+|name=Kĩsêdjê (Suyá)
+|nativename=Kĩsêdjê kapẽrẽ
+|pronunciation = {{IPA|[kĩˈsedʒe kaˈpẽɺẽ]}}
+|states=[[Brazil]]
+|region=[[Xingu Indigenous Park]], [[Mato Grosso]]
+|ethnicity=[[Suyá people|Kĩsêdjê (Suyá)]]
+|speakers=350 
+|date=2006
+|ref=e18
+|familycolor=American
+|fam1=[[Macro-Jê languages|Macro-Jê]]
+|fam2=[[Jê languages|Jê]]
+|fam3=[[Cerrado languages|Cerrado]]
+|fam4=[[Northern Jê languages|Northern Jê]]
+|fam5=[[Trans-Tocantins languages|Trans-Tocantins]]
+|fam6=[[Trans-Araguaia languages|Trans-Araguaia]]
+|fam7=[[Tapajós languages|Tapajós (Suyá)]]
+|iso3=suy
+|glotto=suya1243
+|glottorefname=Suyá
+}}
+
+'''Kĩsêdjê''' ('''Suyá''', Kĩsêdjê: ''Kĩsêdjê kapẽrẽ'' {{IPA|[kĩˈsedʒe kaˈpẽɺẽ]}}) is a [[Northern Jê languages|Northern Jê]] language ([[Jê languages|Jê]], [[Macro-Jê languages|Macro-Jê]]) spoken in [[Mato Grosso]], [[Brazil]]. It is closely related to [[Tapayúna language|Tapayúna]]; together, they form the [[Tapajós languages|Tapajós]] branch of Northern Jê.<ref name="Nikulin-Macro-Je">{{cite thesis|last=Nikulin |first=Andrey |date=2020 |url=http://etnolinguistica.wdfiles.com/local--files/tese%3Anikulin-2020/Nikulin_2020_Proto-Macro-Je.pdf |title=Proto-Macro-Jê: um estudo reconstrutivo |type=Ph.D. dissertation |location=Brasília |publisher=Universidade de Brasília}}</ref>{{rp|7}}
+
+Kĩsêdjê is closely related to [[Tapayúna language|Tapayúna]];<ref>{{cite journal |last1=Rodrigues |first1=Cíntia Karla Coelho |date=2011 |title=Comparando as consoantes das línguas Tapajúna e Suyá |journal=Alfa: Revista de Linguística |volume=55 |issue=2 |doi=10.1590/S1981-57942011000200011 |url=https://www.scielo.br/scielo.php?pid=S1981-57942011000200011&script=sci_arttext&tlng=pt |pages=601–11|doi-access=free }}</ref><ref name="Santos-thesis"/>{{rp|10–2}} the common past on the [[Tapajós River]], shared by the Kĩsêdjê and the Tapayúna, is still part of their oral history.<ref name="Nikulin-Macro-Je"/>{{rp|9}} Phonological differences between the languages include the reflexes of [[Proto-Northern Jê]] ''*m/*mb'', ''*mr/*mbr'', ''*c'' (in onsets), ''*ñ'' (in codas), and ''*b'' (in stressed syllables). In Kĩsêdjê, these consonants are reflected as ''m/mb'', ''mr/mbr'', ''s'', ''n'', and ''p'', respectively, whereas Tapayúna has ''w'' ([w̃]), ''nr'' ([ɾ̃]), ''t'' ([t̪]), ''j'' ([j]), and ''w'' ([w]) in the same words.<ref name="Nikulin-Macro-Je"/>{{rp|85}}<ref name="Santos-thesis"/>{{rp|10–2}}
+
+==Phonology==
+===Consonants===
+Kĩsêdjê preserved the consonants of [[Tapajós languages|Proto-Tapajós]] almost intact, with the exception of the sound change ''*t̪ʰ'' > ''s''.<ref name="Nikulin-Salanova-2019">{{cite journal |last1=Nikulin |first1=Andrey |last2=Salanova |first2=Andrés Pablo |title=Northern Jê Verb Morphology and the Reconstruction of Finiteness Alternations |journal=International Journal of American Linguistics |date=October 2019 |volume=85 |issue=4 |pages=533–567 |doi=10.1086/704565}}</ref>{{rp|560}}
+
+====Onsets====
+The following table lists some of the possible onsets of Kĩsêdjê;<ref name="Nonato-thesis"/>{{rp|126}} in addition, most of these can further combine with /w/ or /ɲ/ (in words whose [[Proto-Northern Jê]] etyma contain one of ''*wa'', ''*wə̂'', or ''*jê'', which are analyzed as complex nuclei). Underlying nasals acquire an oral phase preceding an oral nucleus.<ref name="Nonato-thesis"/>{{rp|127–8}}
+
+{| class="wikitable" style="text-align: center;"
+|+ Kĩsêdjê onsets
+|-
+!
+!labial
+!labial + rhotic
+!dental/(post)alveolar
+!palatal
+!velar
+!velar + rhotic
+!glottal
+!glottal + rhotic
+|-
+!plain stops
+|''p'' /p/ [p]
+|
+|''t'' /t/ [t̪]
+|
+|''k'' /k/ [k]
+|
+|
+|
+|-
+!aspirated stops
+|
+|
+|''th'' /tʰ/ [t̠ʰ]
+|
+|''kh'' /kʰ/ [kʰ]
+|''khr'' /kʰɺ/ [kʰɹ]
+|
+|
+|-
+!fricatives
+|
+|
+|''s'' /s/ [s]
+|
+|
+|
+|''h(w)'' /h(w)/ [h(w)]
+|''hr'' /hɺ/ [hɺ]
+|-
+!prenasalized stop
+|
+|
+|''nt'' /ⁿt/ [nt̪]
+|
+|
+|
+|
+|
+|-
+!nasal stops
+|''m/mb'' /m/ [m]/[mb]
+|''mr/mbr'' /mɺ/ [mɺ̃]/[mbɺ]
+|''n/nd'' /n/ [n]/[nd]
+|''nh/j'' /ɲ/ [ɲ]/[nj] ~ [j]
+|''ng'' /ŋ/ [ŋ]/[ŋg]
+|''ngr'' /ŋɺ/ [ŋɹ̃]/[ŋgɹ]
+|
+|
+|-
+!sonorants
+|''w'' /w/ [w]
+|
+|''r'' /ɺ/ [ɺ]
+|
+|
+|
+|
+|
+|}
+
+===Vowels===
+The vowel inventory of Kĩsêdjê is shown below (the orthographic representation is given in italics; the characters in slashes stand for the [[International Phonetic Alphabet|IPA]] values of each vowel).<ref name="Nonato-thesis"/>{{rp|125}} Nonato (2014) reports that there is no allophonic variation.<ref name="Nonato-thesis"/>{{rp|127}} By convention, the [[tilde]], which is part of the graphemes that denote nasal vowels, is left out in the orthography following <m>, <n>, and <nh> (but not <ng>), as in <mo> [mɔ̃] ‘to go (plural)’. In addition, the vowels /ɘ̃/ and /ã/ are not differentiated in the orthography (both are written as <ã>).<ref name="Nonato-thesis"/>{{rp|130–1}}
+
+{| class="wikitable" style="text-align: center;"
+! colspan="3" |Oral
+! rowspan="5" |
+! colspan="3" |Nasal
+|-
+|''i'' /i/
+|''y'' /ɨ/
+|''u'' /u/
+|''ĩ'' /ĩ/
+|''ỹ'' /ɨ̃/
+|''ũ'' /ũ/
+|-
+|''ê'' /e/
+|''â'' /ɘ/
+|''ô'' /o/
+|''ẽ'' /ẽ/
+|''ã'' /ɘ̃/
+|''õ'' /õ/
+|-
+|''e'' /ɛ/
+|''á'' /ɜ/
+|''o'' /ɔ/
+|
+|
+|
+|-
+|
+|''a'' /a/
+|
+|
+|''ã'' /ã/
+|
+|}
+
+====Echo vowels====
+Kĩsêdjê has a phenomenon whereby an [[echo vowel]] is obligatorily inserted in utterance-final words whose underlying form ends in a consonant;<ref name="Nonato-thesis">{{cite thesis|last=Nonato |first=Rafael |date=February 2014 |url=http://etnolinguistica.wdfiles.com/local--files/tese%3Anonato-2014/nonato_2014_clause_chaining.pdf |title=Clause Chaining, Switch Reference and Coordination |type=Ph.D. dissertation |location=Cambridge, MA |publisher=Massachusetts Institute of Technology}}</ref>{{rp|128–30}}<ref name="Beauchamp-2019">{{cite book |last=Beauchamp |first=Jérémie |editor-last1=Reisinger |editor-first1=D. K. E. |editor-last2=Lo |editor-first2=Roger Yu-Hsiang| title=Proceedings of the Workshop on the Structure and Constituency of Languages of the Americas 23 |publisher=University of British Columbia |date=2019 |pages=26–39 |chapter=Echo and default epenthesis in Kĩsêdjê |url=https://lingpapers.sites.olt.ubc.ca/files/2019/07/Beauchamp_WSCLA23.pdf}}</ref> that way, all utterances end in vowels on surface in Kĩsêdjê. Vowel epenthesis often causes the underlying coda to lenite. The resulting alternations are represented orthographically, as in ''thep'' [ˈt̠ʰɛp̚] / ''thewe'' [ˈt̠ʰɛwɛ] ‘fish’, ''wit'' [ˈwit̚] / ''wiri'' [ˈwiɾi] ‘only’, ''ngrôt'' [ˈŋgɹot̚] / ''ngrôrô'' [ˈŋgɹoɾo] ‘the Pleiades’, ''khẽn'' [ˈkʰɛ̃n̚] / ''khẽne'' [ˈkʰɛ̃nɛ̃] ‘stone’, ''hwysysôm'' [hʷɨsɨˈsom̚] / ''hwysysômy'' [hʷɨsɨˈsomɨ] ‘mosquito’.<ref name="Beauchamp-2019"/> In words that end in an underlying [[rhotic consonant|rhotic]] coda, echo vowels are inserted regardless of whether the word is in the utterance-final position, as in ''ngõrõ'' [ˈŋɔ̃ɺɔ̃] ‘to sleep’ (forms such as *[ˈŋɔ̃ɺ] are unattested).<ref name="Nonato-thesis"/>{{rp|128–30}}
+
+==Morphology==
+===Finiteness===
+As in all other Northern Jê languages, verbs inflect for [[Finite verb|finiteness]] and thus have a basic opposition between a ''finite'' form (also ''form B''<ref name="Santos-thesis">{{cite thesis |type=Ph.D. dissertation |last=Santos |first=Ludoviko Carnasciali dos |date=1997 |title=Descrição de aspectos morfossintáticos da língua Suyá (Kĩsêdjê), família Jê |url=https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/77195/144769.pdf?sequence=1&isAllowed=y |location=Florianópolis |publisher=Universidade Federal de Santa Catarina}}</ref> and ''main form''<ref name="Nonato-thesis"/>) and a ''nonfinite form'' (also ''form A''<ref name="Santos-thesis"/> and ''embedded form''<ref name="Nonato-thesis"/>). Finite forms are used in matrix clauses only, whereas nonfinite forms are used in all types of subordinate clauses<ref name="Nonato-thesis"/>{{rp|140}} as well as in some matrix clauses.<ref name="Gildea-Castro-Alves"/><ref name="G-CA-2010"/> Nonfinite forms are most often formed via suffixation and/or prefix substitution. Some verbs (including all descriptives with the exception of ''katho'' ‘to leave’, whose nonfinite form is ''katho'''ro''''') lack an overt finiteness distinction.
+
+The available nonfinite suffixes are ''/-ɺ/'' (the most common option, found in many transitive and intransitive verbs, with its allomorph ''/-j/'' after the vowel ''/a/''), ''/-n/'' (found in some transitive verbs), as well as ''/-k/'', ''/-m/'', and ''/-t/'' (found in a handful of intransitive verbs which take a nominative subject when finite), as shown in the table below.<ref name="Nonato-thesis"/><ref name="Santos-thesis"/>
+
+{| class="wikitable" style="text-align: center;"
+|+ Nonfinite suffixes in Kĩsêdjê
+|-
+! finite !! nonfinite !! gloss
+|-
+| colspan="3" | suffix ''/-ɺ/'' (''/-j/'' after ''/a/'')
+|-
+| ''mo'' || ''mo'''rõ''''' || to go ''(plural)''
+|-
+| ''pĩ'' || ''pĩ'''rĩ''''' || to kill ''(singular)''
+|-
+| ''rê'' || ''rê'''rê''''' || to cross
+|-
+| ''jantô'' || ''jantô'''rô''''' || to hang ''(plural)''
+|-
+| ''py'' || ''py'''ry''''' || to take ''(singular)''
+|-
+| ''twâ'' || ''twâ'''râ''''' || to bathe
+|-
+| ''ngre'' || ''nge'''re''''' || to dance
+|-
+| ''mba'' || ''mba'''j''''' || to know, to hear, to understand
+|-
+| ''hwa'' || ''hwa'''j''''' || to kill ''(plural)''
+|-
+| ''kapa'' || ''kapa'''j''''' || to extract ''(singular)''
+|-
+| ''ka'' || ''ka'''j''''' || to grill ''(singular)''
+|-
+| colspan="3" | suffix ''/-n/''
+|-
+| ''ru'' || ''ru'''n''''' || to spill
+|-
+| ''mbâ'' || ''mbâ'''n''''' || to grab ''(singular)''
+|-
+| ''kakhê'' || ''kakhê'''n''''' || to scratch
+|-
+| ''ahwê'' || ''táhwê'''n''''' || to work
+|-
+| ''jandê'' || ''jandê'''n''''' || to press, to squeeze
+|-
+| ''jarẽ'' || ''jarẽ'''n''''' || to say
+|-
+| colspan="3" | suffix ''/-k/''
+|-
+| ''thy'' || ''thy'''k''''' || to die
+|-
+| ''rwâ'' || ''rwâ'''k''''' || to descend
+|-
+| ''ihwê'' || ''hwê'''k''''' || to fart
+|-
+| colspan="3" | suffix ''/-m/''
+|-
+| ''thẽ'' || ''thẽ'''m''''' || to go ''(singular)''
+|-
+| ''ikhõ'' || ''khõ'''m''''' || to drink
+|-
+| ''ta'' || ''tã'''m''''' || to stand ''(singular)''
+|-
+| colspan="3" | suffix ''/-t/''
+|-
+| ''angjê'' || ''ngjê'''t''''' || to enter ''(plural)''
+|}
+
+In [[Proto-Northern Jê]], several verbs derived their finite forms by means of [[Lenition|leniting]] the stem-final consonant (''*-t'', ''*-c'', ''*-k'' → ''*-r'', ''*-j'', ''*-r'').<ref name="Nikulin-Salanova-2019"/>{{rp|544}} In Kĩsêdjê, at least three verbs retain this pattern,<ref name="Nonato-thesis"/><ref name="Santos-thesis"/> though the relation between the finite and nonfinite forms has been obfuscated by a series of regular sound changes, including ''*-ôj'' > ''-wâj'' (''-âj'' after a labial), ''*-c'' > ''-t''.
+
+{| class="wikitable" style="text-align: center;"
+|+ Nonfinite suffixes in Kĩsêdjê
+|-
+! finite !! nonfinite !! gloss !! Proto-Northern Jê finite !! Proto-Northern Jê nonfinite
+|-
+| ''ngõrõ'' || ''nhon'' || to sleep || ''*ŋõr'' || ''*ñõt''
+|-
+| ''pâj / pâji'' || ''pôt'' || to arrive || ''*bôj'' || ''*bôc''
+|-
+| ''ro hwâj / ro hwâji'' || ''ro hôt'' || to extract ''(plural)'' || ''*pôj'' || ''*pôc''
+|}
+
+====The erstwhile palatalizing prefix====
+In [[Proto-Northern Jê]], a small set of verbs formed their nonfinite forms by employing one of the aforementioned processes '''and''' a morphophonological process whereby the onset of the stressed syllable became palatal, and the nucleus of the stressed syllable was raised (if possible); this has been attributed to the influence of an underlying palatalizing nonfinite prefix. In Kĩsêdjê, some of these verbs still follow the archaic pattern, though the relation between the finite and nonfinite forms has been obfuscated by a series of regular sound changes.<ref name="Nikulin-Salanova-2019"/>
+
+{| class="wikitable" style="text-align: center;"
+! finite !! nonfinite !! gloss
+|-
+| ''ku'''tho''''' ([[Plural|pl.]] ''ja'''tho''''') || ''ku'''sô'''n'' ([[Plural|pl.]] ''ja'''sô'''n'') || to ignite
+|-
+| ''kuja'''the''''' || ''kuja'''sê'''k'' || to push
+|-
+| '''''ngõ'''rõ'' || '''''nho'''n'' || to sleep
+|-
+| '''''ngõ''''' || '''''nho'''rõ'' || to give
+|-
+| ''(khrã) '''tha''''' || ''(khrã) '''sy'''ry'' || to cut off ''(singular)''
+|-
+| '''''ne''''' || '''''nhy'''rỹ'' || to do so, to say so
+|}
+
+====Prefix substitution or loss====
+In addition to the aforementioned processes, the finiteness inflection may involve prefix substitution or loss. For example, the valency-reducing prefixes are ''a(j)-'' ([[anticausative]]) and ''a-'' ([[antipassive]]) in finite verb forms, but ''wi-'' and ''tá-/tu-'', respectively, in the nonfinite forms.<ref name="Nikulin-Salanova-2019"/>{{rp|541, 544}} In addition, some verbs which denote physiological activities or movement have a prefix (''i-'' and ''a-'', respectively) in their finite forms but not in the nonfinite form. Some examples are given below.<ref name="Ksj-Dic">{{cite book |last1=Nonato |first1=Rafael |last2=Suyá |first2=Jamtô |last3=Suyá |first3=Kawiri |title=Dicionário Kĩsêdjê-Português |date=December 6, 2012 |publisher=Museu do Índio |location=Rio de Janeiro |url=http://prodoclin.museudoindio.gov.br/images/conteudo/kisedje/dicionario_kisedje1.pdf |access-date=4 August 2020}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+|+ Finiteness and prefix alternations in Kĩsêdjê
+|-
+! finite !! nonfinite !! gloss
+|-
+| colspan="3" | anticausatives
+|-
+| '''''aj'''khẽ'' || '''''wi'''khẽn'' || to laugh
+|-
+| '''''aj'''pã'' || '''''wi'''pãn'' || to be drunk
+|-
+| '''''a'''khrõ'' || '''''wi'''khrõn'' || to gather ''(of people, anticausative)''
+|-
+| colspan="3" | antipassives
+|-
+| '''''a'''jarẽ'' || '''''tu'''jarẽn'' || to narrate
+|-
+| '''''a'''mbra'' || '''''tá'''mbra'' || to shout
+|-
+| '''''a'''pê'' || '''''tá'''pêrê'' || to blow (of wind)
+|-
+| '''''a'''pi'' || '''''tá'''piri'' || to go up
+|-
+| '''''a'''khĩn'' / '''''a'''khĩni'' || '''''tá'''khĩn'' || to shout
+|-
+| '''''a'''hwê'' || '''''tá'''hwên'' || to work
+|-
+| colspan="3" | physiological verbs
+|-
+| '''''i'''khõ'' || ''khõm'' || to drink
+|-
+| '''''i'''hwê'' || ''hwêk'' || to fart
+|-
+| colspan="3" | movement verbs
+|-
+| '''''a'''tá'' || ''tárá'' || to enter ''(singular)''
+|-
+| '''''a'''ngjê'' || ''ngjêt'' || to enter ''(plural)''
+|}
+
+==Syntax==
+
+{{Empty section|date=January 2021}}
+
+==Nominative–absolutive clauses==
+Future, progressive, continuous, completive, and negated clauses in Kĩsêdjê show a cross-linguistically rare [[morphosyntactic alignment]] pattern, known as the [[nominative–absolutive alignment]].<ref name="G-CA-2010">{{cite journal |last1=Gildea |first1=Spike |last2=Castro Alves |first2=Flávia de |title=Nominative-absolutive: Counter-universal split ergativity in Jê and Cariban |journal=Typological Studies in Language |date=2010 |volume=89 |pages=159–200 |doi=10.1075/tsl.89.07gil |url=https://amerindias.github.io/curso2015/referencias/gilque10ergativityamazonia.pdf |access-date=8 August 2020}}</ref>{{rp|191}}
+
+Kĩsêdjê has also been considered unusual in the literature because of its unexpected (from a cross-linguistic point of view) distribution of [[Ergative case|ergative]] and [[Nominative case|nominative]] marking of transitive agents in certain types of clauses, such as [[future]] and [[Affirmative and negative|negative]] clauses.<ref name="Gildea-Castro-Alves">{{cite book |last1=Gildea |first1=Spike |last2=Castro Alves |first2=Flávia de |editor-last1=Barðdal |editor-first1=Jóhanna |editor-last2=Gildea |editor-first2=Spike |editor-last3=Luján |editor-first3=Eugenio R. |title=Reconstructing Syntax |publisher=Brill |date=2020 |pages=47–107 |chapter=Reconstructing the Source of Nominative-Absolutive Alignment in Two Amazonian Language Families |url=https://brill.com/view/book/edcoll/9789004392007/BP000010.xml |doi=10.1163/9789004392007_003 |isbn=978-90-04-39199-4}}</ref> More specifically, transitive agents expressed by a full noun phrase are nominative (marked by the subject marker ''ra'' in the examples below), whereas pronominal transitive agents are ergative, as in the following examples:<ref name="Gildea-Castro-Alves"/>{{rp|86–7}}
+
+{{interlinear|indent=3
+|Ludo	ra	thep	khu-ru		mã.
+|Ludo	SM	fish	eat.PL-NF	FUT
+|‘Ludo will eat fish.’}}
+
+{{interlinear|indent=3
+|Ro-txi			ra	mĩ-txi		pĩ-rĩ		khêrê.
+|anaconda-AUG	SM	caiman-AUG	kill.SG-NF	NEG
+|‘The anaconda did not kill the caiman.’}}
+
+{{interlinear|indent=3
+|I-re		hwĩ-sy		rẽ-n		mã.
+|1SG-ERG	tree-seed	throw.PL-NF	FUT
+|‘I will pick fruit.’}}
+
+{{interlinear|indent=3
+|I-re		hwĩ-ngrá	janto-ro	khêrê.
+|1SG-ERG	tree-dry	hang.PL-NF	NEG
+|‘I didn't hang the firewood.’}}
+
+Such split has been previously considered to be impossible by [[R. M. W. Dixon]]:<ref>{{cite book |last=Dixon |first=R. M. W. |title=Ergativity |publisher=Cambridge University Press |date=1994}}</ref>
+
+<blockquote>Cross-referencing systems are thus basically pronominal (with the affixes having developed from free-form pronouns, in some earlier stage of the language). We would expect them to be on a nominative-accusative pattern, since this characterizes pronouns at the extreme left of the hierarchy … What we can predict is that, if there is a ‘split’ of this kind, then bound prefixes will be accusative and case-marking on free forms will be ergative. This is exactly what is found.</blockquote>
+
+==References==
+{{Reflist}}
+
+{{Xingu}}
+{{Languages of Brazil}}
+{{Macro-Jê languages}}
+
+{{DEFAULTSORT:Suya Language}}
+[[Category:Jê languages]]
+[[Category:Languages of Xingu Indigenous Park]]

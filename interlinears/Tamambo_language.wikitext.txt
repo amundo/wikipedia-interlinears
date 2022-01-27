@@ -1,0 +1,761 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+| name             = Tamambo
+| altname          = Malo
+| states           = [[Vanuatu]]
+| region           = [[Malo Island]], [[Espiritu Santo (Island)|Espiritu Santo]]
+| speakers         = 4,000
+| date             = 2001
+| ref              = e18
+| refname          = Malo
+| familycolor      = Austronesian
+| fam2             = [[Malayo-Polynesian languages|Malayo-Polynesian]]
+| fam3             = [[Oceanic languages|Oceanic]]
+| fam4             = [[Southern Oceanic languages|Southern Oceanic]]
+| fam5             = [[Northern Vanuatu languages|Northern Vanuatu]]
+| fam6             = Northeast Vanuatu – Banks Islands
+|fam7=[[Nuclear Santo languages|Nuclear Santo]]
+|fam8=South Santo
+| iso3             = mla
+| iso3comment      = Malo<ref name="ISO 639-3/RA" />
+| glotto           = malo1243
+| glottorefname    = Tamambo
+| notice           = IPA
+}}{{Cleanup lang|article|date=November 2021}}
+'''Tamambo''',<ref>{{cite web| editor-last1= Hammarström| editor-first1 = Harald| editor-last2 = Forke| editor-first2 = Robert| editor-last3 = Haspelmath| editor-first3 = Martin| editor-last4 = Bank| editor-first4 = Sebastian| year = 2020|title = Tamambo | work = [[Glottolog]] 4.3| url = https://glottolog.org/resource/languoid/id/malo1243}}</ref> or '''Malo''',<ref name="e18" /><ref name="ISO 639-3/RA">{{cite web |url=http://www-01.sil.org/iso639-3/documentation.asp?id=mla |title=Documentation for ISO 639 identifier: mla |publisher=ISO 639-3 Registration Authority - SIL International |access-date=2017-07-07 |quote=Name: Malo}}</ref> is an [[Oceanic languages|Oceanic language]] spoken by 4,000 people on [[Malo Island|Malo]] and nearby islands in [[Vanuatu]].
+
+==Phonology==
+
+===Vowels===
+[[File:Tamambo vowel chart.svg|thumb|250px|Tamambo vowel chart, from {{Harvcoltxt|Riehl|Jauncey|2005|p=257}}]]
+{| class="wikitable" style="text-align: center;"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[High vowel|High]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Low vowel|Low]]
+| colspan="2" | {{IPA link|a}}
+|}
+{{IPA|/i u/}} become {{IPA|[{{IPA link|j}} {{IPA link|w}}]}} respectively when unstressed and before another vowel. {{IPA|/o/}} may also become {{IPAblink|w}} for some speakers.
+
+===Consonants===
+{| class="wikitable" style="text-align: center;"
+|+Tamambo consonant phonemes<ref>{{Harvcoltxt|Riehl|Jauncey|2005|p=256}}</ref>
+! colspan="2" rowspan="2" |
+! colspan="2" | [[Bilabial consonant|Bilabial]]
+! rowspan="2" | [[Alveolar consonant|Alveolar]]
+! rowspan="2" | [[Postalveolar consonant|Post-<br/>alveolar]]
+! rowspan="2" | [[Velar consonant|Velar]]
+|-
+! <small>[[Labialization|labio-<br/>velarized]]</small>
+! <small>plain</small>
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPA|mʷ}}
+| {{IPA link|m}}
+| {{IPA link|n}}
+|
+| {{IPA link|ŋ}}
+|-
+! rowspan="2" | [[Plosive]]
+! <small>[[Prenasalized stop|prenasalized]]</small>
+| {{IPA|ᵐbʷ}}
+| {{IPA|ᵐb}}
+| {{IPA|ⁿd}}
+| {{IPA|ᶮɟ}}
+| 
+|-
+! <small>plain</small>
+|
+|
+| {{IPA link|t}}
+|
+| {{IPA link|k}}
+|-
+! colspan="2" | [[Fricative]]
+| {{IPA|βʷ}}
+| {{IPA link|β}}
+| {{IPA link|s}}
+|
+| {{IPA link|x}}
+|-
+! colspan="2" | [[Trill consonant|Trill]]
+|
+|
+| {{IPA link|r}}
+|
+|
+|-
+! colspan="2" | [[Lateral consonant|Lateral]]
+|
+|
+| {{IPA link|l}}
+|
+|
+|}
+
+The prenasalized postalveolar stop {{IPA|/ᶮɟ/}} is often [[affricate consonant|affricated]] and [[voiceless consonant|voiceless]], i.e. {{IPAblink|tʃ|ᶮtʃ}}.
+
+Younger speakers often realize {{IPA|/β/}} as {{IPAblink|f}} initially and {{IPAblink|v}} medially, while {{IPA|/βʷ/}} is often replaced by {{IPAblink|w}}.
+
+{{IPA|/x/}} is usually realized as {{IPAblink|x}} initially, but some speakers use {{IPAblink|h}}. Medially, it may be pronounced as any of {{IPA|[{{IPA link|x}} {{IPA link|ɣ}} {{IPA link|h}} {{IPA link|ɦ}} {{IPA link|ɡ}}]}}.
+
+==Writing system==
+Few speakers of Tamambo are [[literacy|literate]], and there is no standard [[orthography]]. Spelling conventions used include:
+{| class="wikitable"
+! [[Phoneme]] !! Representation
+|-
+| {{IPA|/ᵐb/}} || {{angbr|b}} initially, {{angbr|mb}} medially
+|-
+| {{IPA|/ᵐbʷ/}} || {{angbr|bu}} or {{angbr|bw}} initially, {{angbr|mbu}} or {{angbr|mbw}} medially
+|-
+| {{IPA|/x/}} || {{angbr|c}} or {{angbr|h}}
+|-
+| {{IPA|/ⁿd/}} || {{angbr|d}} initially, {{angbr|nd}} medially
+|-
+| {{IPA|/ᶮɟ/}} || {{angbr|j}} initially, {{angbr|nj}} medially
+|-
+| {{IPA|/k/}} || {{angbr|k}}
+|-
+| {{IPA|/l/}} || {{angbr|l}}
+|-
+| {{IPA|/m/}} || {{angbr|m}}
+|-
+| {{IPA|/mʷ/}} || {{angbr|mu}} or {{angbr|mw}}
+|-
+| {{IPA|/n/}} || {{angbr|n}}
+|-
+| {{IPA|/ŋ/}} || {{angbr|ng}}
+|-
+| {{IPA|/r/}} || {{angbr|r}}
+|-
+| {{IPA|/s/}} || {{angbr|s}}
+|-
+| {{IPA|/t/}} || {{angbr|t}}
+|-
+| {{IPA|/β/}} || {{angbr|v}}
+|-
+| {{IPA|/βʷ/}} || {{angbr|vu}} or {{angbr|w}}
+|}
+
+==Pronouns and person markers==
+In Tamambo, personal pronouns distinguish between first, second, and third person. There is an inclusive and exclusive marking on the first-person plural and gender is not marked. There are four classes of pronouns, which is not uncommon in other Austronesian languages:<ref>{{Harvcoltxt|Jauncey|2011|p=87}}</ref> 
+*Independent pronouns
+*Subject pronouns
+*Object pronouns
+*Possessive pronouns.
+
+{| class="wikitable"
+|+Pronominal paradigm<ref>{{Harvcoltxt|Jauncey|2011|p=88}}</ref>
+|-
+! colspan="3" | 
+! Independent pronouns
+! Subject pronouns
+! Object pronouns
+! Possessive pronouns
+|-
+! rowspan="3" | 1st person
+! colspan="2" | singular
+| iau
+| ku
+| -(i)au
+| -ku
+|-
+! rowspan="2" | plural
+! inclusive
+| hinda
+| ka
+| -nda
+| -nda
+|-
+! exclusive
+| kamam
+| ka
+| kamam
+| -mam
+|-
+! rowspan="2" | 2nd person
+! colspan="2" | singular
+| niho
+| o
+| -ho
+| -m
+|-
+! colspan="2" | plural
+| kamim
+| no
+| kamim
+| -mim
+|-
+! rowspan="2" | 3rd person
+! colspan="2" | singular
+| nia
+| mo (realis) / a (irrealis)
+| -a / -e
+| -na
+|-
+! colspan="2" | plural
+| nira
+| na
+| -ra
+| -ra
+|}
+
+===Independent pronouns===
+Independent pronouns behave grammatically similarly to other NPs in that they can occur in the same slot as a subject NP, functioning as the head of a NP. However, in regular discourse, they are not used a great deal due to the obligatory nature of cross-referencing subject pronouns. Use of independent pronouns is often seen as unnecessary and unusual except in the following situations:
+*Indicate person and number of conjoint NP
+*Introduce new referent
+*Reintroduce referent
+*Emphasise participation of known referent
+
+====Indicating person and number of conjoint NP====
+In the instance where two NPs are joined as a single subject, the independent pronoun reflects the number of the conjoint NP:
+
+{{interlinear|indent=4
+|Ku vano.
+|1SG go
+|'I went.'}}
+
+and
+
+{{interlinear|indent=4
+|Nancy mo vano.
+| Nancy 3SG go
+|'Nancy went.'}}
+
+Thus, merging the two above clauses into one, the independent pronoun must change to reflect total number of subjects:
+
+{{interlinear|indent=4
+|'''Kamam''' mai Nancy ka vano.
+|'''1PL.EX''' PREP Nancy 1PL go
+|'Nancy and I went.'<ref name="Jauncey 2011 89">{{Harvcoltxt|Jauncey|2011|p=89}}</ref>}}
+
+====Introducing a new referent====
+When a new referent is introduced into the discourse, the independent pronoun is used. In this case, ''kamam'':
+
+{{interlinear|indent=4
+|Ne '''kamam''' mwende talom, '''kamam''' ka-le loli na hinau niaro.
+|But '''1PL.EX''' particular.one first '''1PL.EX''' 1PL-TA do ART thing EMPH
+|'But we who came first, [well] as for us, we do this very thing'<ref name="Jauncey 2011 89"/>}}
+
+====Reintroduction of referent====
+In this example, the IP ''hinda'' in the second sentence is used to refer back to ''tahasi'' in the first sentence.
+
+{{interlinear|indent=4
+|Ka tau tahasi mo sahe, le hani. Hani '''hinda''' ka-le biri~mbiri.
+|1PL put.in.place stone 3SG go.up TA burn burn '''1PL.IN''' 1PL-TA REDUP~grate
+|'We put the stones up (on the fire) and it's burning. While it's burning we do the grating [of the yams].'<ref name="Jauncey 2011 90">{{Harvcoltxt|Jauncey|2011|p=90}}</ref>}}
+
+====Emphasis on participation of known subject====
+According to Jauncey,<ref name="Jauncey 2011 90"/> this is the most common use of the IP. Comparing the two examples, the latter placing the emphasis on the subject:
+
+{{interlinear|indent=4
+|O vano?
+|2SG go
+|'Are you going?'}}
+
+and
+
+{{interlinear|indent=4
+|'''Niho''' o vano?
+|'''2SG''' 2SG go
+|'Are you going?'<ref>{{Harvcoltxt|Jauncey|2011|p=91}}</ref>}}
+
+===Subject pronouns===
+Subject pronouns are an obligatory component of a verbal phrase, indicating the person and number of the NP. They can either co-occur with the NP or independent in the subject slot, or exist without if the subject has been deleted through ellipsis or previously known context.
+
+{{interlinear|indent=4
+|Balosuro '''mo'''-te' sohena.
+|nowadays '''3SG'''-NEG the.same
+|'It's not like that nowadays.'<ref>{{Harvcoltxt|Jauncey|2011|p=435}}</ref>}}
+
+===Object pronouns===
+Object pronouns are very similar looking to independent pronouns, appearing to be abbreviations of the independent pronoun as seen in the pronoun paradigm above. Object pronouns behave similarly to the object NP, occurring in the same syntactic slot, however only one or the other is used, both cannot be used simultaneously as an object argument – which is unusual in Oceanic languages as many languages have obligatory object pronominal cross-referencing on the verb agreeing with NP object.
+
+{{interlinear|indent=4 
+|Mo iso ka turu ka vosai'''-a'''
+|3SG  finish 1PL stand 1PL cook.in.stones'''-OBJ:3SG'''
+|'Then we bake it in the stones.'<ref>{{Harvcoltxt|Jauncey|2011|p=430}}</ref>}}
+
+===Possessive pronouns===
+Possessive pronouns substitute for NP possessor, suffixing to the possessed noun in direct possessive constructions or to one the four possessive classifiers in indirect constructions.
+
+====Direct possession====
+{{interlinear|indent=4
+|Tama'''-k''' mo vora bosinjivo. 
+| Father'''-POSS:1SG''' 3SG be.born {bosinjivo area}
+|'My father was born in the Bisinjivo area.'<ref>{{Harvcoltxt|Jauncey|2011|p=434}}</ref>}}
+
+====Indirect possession====
+{{interlinear|indent=4
+|ma'''-m''' ti
+|CLF-'''POSS:2SG''' tea
+|'your tea'<ref>{{Harvcoltxt|Jauncey|2011|p=102}}</ref>}}
+
+== Negation ==
+Negation in Tamambo involves the use of a negative particle; negative verb and negative aspectuals (semantics of time) to change positive constructions into negative ones.
+
+=== Negation and the VP ===
+The negative particle -''te'' and negative aspectual ''tele'' 'not yet' and ''lete'' 'never' can appear in the same slot of the Verb Phrase, illustrated below:
+{| class="wikitable" style="text-align: center;"
+! colspan="7" |Obligatory (bolded) and optional components of a VP in Tamambo'''<ref name="Jauncey 2011 323">{{harvcoltxt|Jauncey|2011|p=323}}</ref>'''
+|-
+| 1 '''Subject Pronoun'''
+| 2 Modality markers of
+Realis ''mo''
+
+FUT ''-mbo''
+| 3 Aspectual
+''ta''
+|4 Aspectuals
+''le''
+
+''male''
+
+Negative ''-te''
+
+Negative Aspectuals
+
+''tele''
+
+''lete''
+<br />
+|5 Manner modifiers
+|6 '''Head'''
+|7 Manner modifiers
+Directionals
+
+Non-resultative modifiers
+|}
+ 
+Both the negative aspectuals appear to be derived from the tense-aspect marker ''le'' and the negative particle -''te''.<ref name="Jauncey 2011 323"/> All the optional modifiers in the VP are mutually exclusive thus; the negative morphemes allow no modifiers between them and the head of the VP.<ref>{{harvcoltxt|Jauncey|2011|p=261}}</ref>
+
+=== Negative particle ''-te'' ===
+The negative particle -''te'' which expresses negative polarity on the verb<ref>{{harvcoltxt|Jauncey|2011|p=104}}</ref> is a bound morpheme, meaning it must be attached to the subject pronominal clitic. The negative particle also occurs immediately before the verb noted in example [105].<ref name=":0">{{harvcoltxt|Jauncey|2011|p=324}}</ref> Furthermore, example [105] demonstrates what Jauncey<ref>{{harvcoltxt|Jauncey|2011|p=262}}</ref> terms a 'negative progressive'; a way of expressing the negative in the present tense such as 'he's not doing it' using the negative particle -''te''.
+
+{{interlinear|indent=4
+|Mo-te loli-a
+|3SG-NEG do-OBJ:3SG
+|'He didn't do it'./ 'He's not doing it.' [105]}}
+
+=== Negative aspectuals ===
+The negative aspectuals are used to refer to different aspects of time. The aspectual ''lete'' 'never' is used to refer to event times that are prior to speech time noted in example [107] and [100].<ref name="Jauncey 2011 323"/>
+
+{{interlinear|indent=4
+|Mo lete loli-a.
+|3SG never do-OBJ:3SG
+|'He's never done it.' [107]}}
+
+{{interlinear|indent=4
+|Na lete skul.
+|3PL never school
+|'They never went to church.' [100]}}
+
+The negative aspectual ''tele'' 'not yet' is used only where the events are referring to an event time prior to or simultaneous with speech time noted in example [106] and [103].<ref name=":0" />
+
+{{interlinear|indent=4
+|Mo tele loli-a.
+|3SG not.yet do-OBJ:3SG
+|'He's not yet done it'. [106]}}
+
+{{interlinear|indent=4
+|Mo-iso na-le ovi, na-natu-ra na tele suiha...
+|3SG-finish 3PL-TA live PL-child-POSS:3PL 3PL not.yet strong
+|'So then they were living there, (but) their children were not yet strong...' [103]}}
+
+=== Negation and modality ===
+In Tamambo, modality can be expressed through the future marker –''mbo'' and the two 3SG subject pronouns, ''mo'' (realis) and ''a'' (irrealis). In Tamambo realis is 'the grammatical or lexical marking of an event time or situation that has happened (or not) or is happening (or not) relative to speech time' and irrealis refers to 'the grammatical or lexical marking of an event time or situation that may have happened, or that may or may not happen in the future'.<ref>{{harvcoltxt|Jauncey|2011|p=297}}</ref> In Tamambo, the negative particle -''te'' and aspectual ''lete'' can be used in conjunction with the 3SG irrealis ''a'' to express that a situation or action is not known to have happened. This is used because the negative markers cannot occur next to the future marker ''–mbo,'' however they can occur separately in the same construction evident in example [101]<ref>{{harvcoltxt|Jauncey|2011|pp=263, 323}}</ref> containing ''lete.''
+
+{{interlinear|indent=4
+|Mo matahu matan taura-na a-te mai.
+|3SG frightened SUB uncle-POSS:3SG 3SG-NEG come
+|'He is afraid that his uncle might not come.' [97]}}
+
+{{interlinear|indent=4
+|Ne are sohen a lete lai na manji, a-mbo turu aie a hisi a mate...
+|but if like 3SG never take ART animal, 3SG-FUT stand there 3SG touch 3SG die
+|'But if it was such that he never caught any fish, he would stand there until he died...' [101]}}
+
+In Tamambo, only the 3SG preverbal subject form has ''a'' irrealis, thus when -''te'' is used with other preverbal subject pronouns, the time of event can be ambiguous, and phrases must be understood from context and other lexemes.<ref name=":1">{{harvcoltxt|Jauncey|2011|p=263}}</ref> For example, [98]<ref name=":1" /> illustrates the various interpretations one phrase may have.
+
+{{interlinear|indent=4
+|Mo matahu matan bula-na dam na-te sula
+|3SG frightened SUB CLF-POSS:3SG yam 3PL-NEG grow
+|'S/he is/was afraid that her yams didn't grow/are not growing/won't grow/mightn't grow.' [98]}}
+
+=== Negative verb ''tete'' ===
+The negative verb ''tete'' is a part of Tamambo's closed subset of intransitive verbs, meaning that it has grammatical limitations. For example, the verb ''tete'' can only be used in conjunction with the 3SG preverbal subject pronominal clitic. The negative verb ''tete'' can function with a valency of zero or one.<ref name=":2">{{harvcoltxt|Jauncey|2011|p=254}}</ref> Valency refers to the number of syntactic arguments a verb can have.
+
+==== Zero Valency ====
+The most common use of the verb ''tete'' is illustrated in example [59],<ref name=":2" /> where the verb has zero valency.
+
+{{interlinear|indent=4
+|Mo tete.
+|3SG negative
+|'No.' [59]}}
+
+The 3SG pronoun's of ''a'' (irrealis) and ''mo'' (realis) are used in conjunction with ''tete'' to respond to varying questions depending on whether the answer is certain or not. Example [60]<ref name=":2" /> illustrates the use of ''a'' and ''tete'' in a construction to answer a question where the answer is not certain.
+
+{{interlinear|indent=4
+|A kiri? A tete.
+|3SG.IRR rain 3SG.IRR negative
+|'Will it/might it rain?' [60] 'No.' [60]}}
+
+However, if the answer is certain than ''mo'' and ''tete'' are used highlighted in example [61].<ref name=":2" />
+
+{{interlinear|indent=4
+|O-mbo vano ana maket avuho? Mo tete.
+|2SG.FUT go PREP market tomorrow 3SG negative
+|'Are you going to the market tomorrow?' [61] 'No.' [61]}}
+
+==== Valency of one ====
+If ''tete'' functions with a valency of one, then the intransitive subject must precede the verb similar to a prototypical verb phrase. In this situation, 3SG marking can only represent both the singular and plural, highlighted in example [65].<ref>{{harvcoltxt|Jauncey|2011|p=255}}</ref>
+
+{{interlinear|indent=4
+|Tuai, bisuroi mo tete.
+|long.ago bisuroi.yam 3SG negative
+|'Long ago, there were no bisuroi yams.' [65]}}
+
+''Tete'' can also function with an 'existential meaning' illustrated in example [62],<ref name=":2" /> to express there was 'no one/no people'.
+
+{{interlinear|indent=4
+|Tuai, Natamabo, mo tete tamalohi...
+|long.ago Malo 3SG negative person
+|'Long ago, on Malo, there were no people...' [62]}}
+
+==== Ambient serial verb constructions ====
+The negative verb ''tete'' can also be used following a verb in an ambient serial verb construction. In Tamambo, a serial verb construction is defined by Jauncey<ref>{{harvcoltxt|Jauncey|2011|p=325}}</ref> as 'a sequence of two or more verbs that combine to function as a single predicate'. Furthermore, the term ambient in this verb construction refers to the phenomena when a verb, which follows a transitive or intransitive verb, makes a predication concerning the previous event rather than the participant.<ref>{{harvcoltxt|Jauncey|2011|p=341}}</ref> When the negative ''tete'' verb is used in an ambient serial verb construction, ''tete'' makes a negative predication regarding the event expressed by the previous verb highlighted in example [64] and [65].<ref>{{harvcoltxt|Jauncey|2011|p=343}}</ref> Furthermore, in this instance it is ungrammatical to insert other words between the negative verb and the previous verb.
+
+{{interlinear|indent=4
+|Tama-na mo viti-a mo re "Tamalohi na dami-h mo tete"
+|Father-POSS:3SG 3SG speak-OBJ:3SG 3SG say person 3PL ask-OBJ:2SG 3SG negative
+|'Her father spoke to her and said "Men ask for you to no avail." [64]}}
+
+{{interlinear|indent=4
+|...ka-te soari-a, ka sai-a mo tete
+|1PL-NEG see-OBJ:3SG 1PL search-OBJ:3SG 3SG negative
+|'...we didn't see it, we looked for it (but) there was nothing.' [65]}}
+
+=== Negation and realis conditional sentences ===
+Negative realis conditional sentences express an idea that something will happen if the condition is ''not'' met, such as an imperative or warning. The sentence outlines the conditions, and includes an 'otherwise' or 'if not' component.<ref name=":3">{{harvcoltxt|Jauncey|2011|p=416}}</ref> The condition and the 'if not' (bolded) component occur together before the main clause illustrated in example [124].<ref name=":3" />
+
+{{interlinear|indent=4
+|Balosuro ku vuro-ho hina hamba-ku niani o laia-a, ro o lai-a ale a-tete-ro o mate!
+|present.time 1SG fight-OBJ:2SG PREP wing-POSS:1SG this 2SG take-OBJ:3SG thus 2SG take-OBJ:3SG if 3SG-negative-thus 2SG die
+|'(So) now I'm going to fight you with these wings of mine and you defend yourself, so you defend yourself and if not then you're dead!' [124]}}
+
+== Demonstratives ==
+Tamambo distinguishes between [[Demonstrative|demonstrative pronouns]], demonstrative [[Adverb|adverbs]] and demonstrative [[Grammatical modifier|modifiers]]. 
+
+=== Demonstrative pronouns ===
+Demonstrative pronouns occur in core argument slots, where they occur next to the [[Predicate (grammar)|predicate]], can be relativised and can be fronted.<ref>Jauncey (1997: 61)</ref> These features distinguish them from demonstrative modifiers and demonstrative adverbs which may take the same form.<ref name=":4">Jauncey (1997: 108)</ref> Demonstrative pronouns in Tamambo include pronouns used for spatial [[deixis]], [[Anaphora (linguistics)|anaphoric reference]] and emphatic reference.<ref name=":4" /> They do not change when referring to animate or inanimate entities.<ref name=":4" /> 
+
+==== Spatial deictics ====
+Demonstrative pronouns are organised into a two-way framework, which is based on the distance relative to the speaker and the addressee. While it is common for [[Oceanic languages]] to have a distinction based on distance from the speaker, the two-way organisation is unusual for Oceanic languages, where demonstratives usually have a three-way distinction.<ref name=":5">Ross (1988: 177)</ref> These pronouns refer to entities which both the speaker and the addressee can see.<ref name=":4" />
+
+===== ''niani'' =====
+The pronoun ''niani'' 'this one' refers to an entity which is near the speaker.<ref name=":4" />
+
+{{interlinear|number=(1)
+|'''Niani''' mo boni.
+|this 3SG stink
+|This one stinks.<ref name=":4" />}}
+
+===== ''niala'' =====
+The pronoun ''niala'' 'that one over there' refers to an entity that is further away from both the speaker and the addressee.<ref name=":4" />
+
+{{interlinear|number=(2)
+|'''Niala''' mo tawera tina
+|that 3SG big really
+|That one is really big.<ref name=":4" />}}
+
+''Nirala'', which translates to 'those ones over there', is used in [[Colloquialism|colloquial speech]] as a plural form of ''niala'' .<ref name=":4" />
+
+==== Anaphoric reference ====
+Tamambo, like many other Oceanic languages and possibly [[Proto-Oceanic language|Proto-Oceanic]], includes a demonstrative system which functions to reference previous discourse.<ref name=":5" /> Tamambo includes two pronouns used for anaphora, ''mwende'' and ''mwe'', which are only used for anaphora without any marking for person or distance, a common feature of Oceanic languages.<ref name=":5" />
+
+===== ''mwende'' =====
+The pronoun ''mwende'' 'the particular one, the particular ones' can function as either a [[Pro-form|proform]] or a [[noun phrase]].<ref name=":4" /> As shown in example (3) below, ''mwende'' is used for a singular [[noun]], specifying which particular knife is the better one, whereas in example (4), the same pronoun, ''mwende'', is referring to multiple 'ones'.
+
+{{interlinear|number=(3)
+|Simba niala mo duhu mo liu '''mwende''' niani.
+|knife that 3SG good 3SG exceed particular.one this
+|That knife is better than this one.<ref name=":4" />}}
+
+{{interlinear|number=(4)
+|Mo sahe, '''mwende''' na-le turu aulu na revei-a
+|3SG go.up particular.one 3PL-TA stand up.direction 3PL drag-OBJ:SG
+|He went up (first) and the ones standing up on top dragged her up.<ref name=":4" />}}
+
+==== Emphatic reference ====
+Tamambo includes the demonstrative pronoun, ''niaro'', used for emphasis, as shown in example (5).<ref name=":6">Jauncey (1997: 110)</ref>
+
+{{interlinear|number=(5)
+|'''Niaro''' evui-na-i no-ku stori
+|EMPH end-NMZ-LINK CLF-POSS:1SG story
+|That's it the end of my story.<ref name=":6" />}}
+
+=== Demonstrative adverbs ===
+
+==== Spatial modifiers ====
+Spatial modifier adverbs in Tamambo are sentential, and cannot occur within the proposition.<ref>Jauncey (1997: 92)</ref> There are three sets of spatial modifiers, which are shown in the table below. These three sets of spatial modifiers can be organised into three groups depending on the distance from the speaker, a trait common to demonstratives in Oceanic languages.<ref name=":5" /> The following table shows the three sets of spatial modifiers in Tamambo. In this arrangement by Kaufman, the formatives -''ni'', -''e'', and -''la'' can be seen to correlate with distance from the speaker.<ref name=":7">Kaufman (2013: 280)</ref>
+{| class="wikitable"
+|+Spatial/Directional modifiers<ref name=":7" />
+!
+!Speaker proximate
+!Hearer proximate
+!Distal
+|-
+|Set A
+|aie-n(i)
+|ai-e
+|
+|-
+|Set B
+|ro-ni
+|
+|ro-la
+|-
+|Set C
+|nia-ni
+|nia-e
+|nia-la
+|}
+
+===== ''aien'' and ''aie'' =====
+These adverbs begin with ''ai''-, which suggests that they are related to a locative proform in Proto-Oceanic, *ai-.<ref name=":8">Jauncey (1997: 93)</ref> ''Aien'' can mean either 'in this place', referring to a location, as shown in example (6), or used for anaphoric reference, where it can mean 'at this stage of events', as shown in example (7). ''Aien'' refers to location in place or time more generally than another spatial modifier, ''roni''.<ref name=":8" />
+
+{{interlinear|number=(6)
+|Ro store nia a turu tau '''aien'''.
+|thus story 3SG 3SG stand put here
+|So the story is to stop here.<ref name=":8" />}}
+
+{{interlinear|number=(7)
+|Mo tete tamalohi a ovi '''aien'''.
+|3SG NEG person 3SG live here
+|There was not a person living here.<ref name=":8" />}}
+
+''Aie'' refers to 'another place which is not visible', or may be used for a place which has already been introduced earlier in conversation,<ref name=":8" /> as shown in example (8).
+
+{{interlinear|number=(8)
+|Mo ovi '''aie''' tovon nia 'student'.
+|3SG live there when 3SG student.
+|She lived there when she was a student.<ref name=":8" />}}
+
+===== ''roni'' and ''rola'' =====
+''Roni'' is used to refer to a place visible to both the speaker and the listener, and is more specific than ''aien''. It translates to 'right here close to me'.<ref name=":8" />
+
+{{interlinear|number=(9)
+|O mai '''roni'''!
+|2SG come here
+|Come here!<ref name=":8" />}}
+
+''Rola'' is an old word for 'there' which is rarely used, and is said to have come from the east.<ref name=":8" /> In her research, Jauncey reports no examples of ''rola'' being used in narrative or conversation but provides the example below.<ref name=":8" />
+
+{{interlinear|number=(10)
+|Ku vano '''rola'''.
+|1SG go there
+|I went there.<ref name=":8" />}}
+
+===== ''niani'', ''niae'' and ''niala'' =====
+These adverbs share the same forms as demonstrative pronouns and modifiers, but they occur at different parts of the sentence and perform different functions. These adverbs refer to places which are visible and in addition, the speaker will point.<ref name=":9">Jauncey (1997: 94)</ref> ''Niala'' and ''niani'' are not used for anaphoric reference.<ref name=":9" /> The ''nia''- component of this set of demonstratives suggests a relationship to the [[Proto-Austronesian language|Proto-Austronesian]] proximate demonstrative, which contains *ni.<ref name=":7" /> In addition, the pointing gesture which commonly accompanies the adverbs ''niani'', ''niae'' and ''niala'' can be derived from the demonstrative function of the Proto-Austronesian component *ni.<ref>Kaufman (2013: 281)</ref>
+
+''Niani'' translates to 'here', where the referenced entity is close to the speaker, as shown in example (11).<ref name=":9" />
+
+{{interlinear|number=(11)
+|O mai ka eno '''niani''' ka tivovo
+|2SG come 1PL lie here 1PL cover.over
+|Come and we'll lie here and cover ourselves...<ref name=":9" />}}
+
+''Niae'' translates to 'there near you', where the referenced entity is close to the addressee, shown in example (12) below.<ref name=":9" />
+
+{{interlinear|number=(12)
+|O sava-hi o mai '''niae'''?
+|2SG what-TR 2SG come '''there'''
+|How did you manage to get there?<ref name=":9" />}}
+
+''Niala'' translates as 'there' or 'over there', and refers to a place that can be seen or a close place that cannot be seen.<ref name=":9" /> 
+
+{{interlinear|number=(13)
+|...mwera atea le ovi aulu niala le loli-a sohena.
+|male one TA live up.direction there TA do-OBJ:3SG the.same
+|...a man living up over there (pointing) does it the same way. <ref name=":9" />}}
+
+=== Demonstrative modifiers ===
+Demonstrative modifiers are a non-obligatory component of the [[noun phrase]] in Tamambo. In Tamambo, demonstrative modifiers function within the noun phrase, after the [[Head (linguistics)|head noun]] to modify it. In languages spoken in [[Vanuatu]], and Oceanic languages more generally,<ref name=":10">Ross (1988: 179)</ref> the demonstrative commonly follows the head noun. In Proto-Oceanic, this also seems to be the case for adnominal demonstratives.<ref name=":10" /> Demonstrative modifiers in Tamambo include spatial reference, anaphoric reference and emphatic reference uses.  
+
+==== Spatial reference ====
+These demonstratives have a three-way distinction, based on distance relative to the speaker.<ref name=":11">Jauncey (1997: 208)</ref> They can occur following the head directly, as shown in example (14), or follow a descriptive adjective, as shown in example (15).<ref name=":11" /> The same forms are used as demonstrative pronouns, however ''niae'' is not used as a pronoun. The modifiers are the same for singular and plural nouns.<ref name=":11" />
+
+===== ''niani'' =====
+''Niani'' translates to 'this' or 'these' and references something close to the speaker.
+{{interlinear|number=(14)
+|O boi mwende '''niani''' tene mo tete?
+|2SG want particular.one '''this''' or 3SG NEG
+|Do you want this one or not?<ref name=":11" />}}
+
+In example (14), ''niani'' is modifying ''mwende'', the demonstrative pronoun, which is the head.<ref name=":11" />
+
+{{interlinear|number=(15)
+|Ka mai ana jara tawea '''niani'''
+|1PL come PREP place big this...
+|We came to this big place...<ref name=":11" />}}
+
+In this example, the demonstrative modifier ''niani'' follows directly after the descriptive adjective ''tawera'', which in turn follows the head noun ''jara.'' 
+
+===== ''niae'' =====
+''Niae'' refers to something that is close to the addressee, and translates to 'that' or 'those'.<ref name=":11" />
+
+{{interlinear|number=(16)
+|Hinau '''niae''' o lai-a ambea?
+|thing '''that''' 3SG take-OBJ:SG where
+|Where did you get that thing?<ref name=":11" />}}
+
+In example (16), the demonstrative modifier ''niani'' directly follows the after the noun ''samburu.'' 
+
+===== ''niala'' =====
+''Niala'' references something that is distant from both the speaker and the addressee.<ref name=":11" />
+
+{{interlinear|number=(17)
+|Tamalohi '''niala''' nia tamalohi dandani.
+|person that 3SG person lie
+|That man is a liar.<ref name=":11" />}}
+
+In example (17), the demonstrative modifier ''niala'' follows directly after the first ''tamalohi'', which is the person the speaker is referring to.
+
+==== Anaphoric referential markers ====
+Tamambo includes two anaphoric referential modifiers, rindi and mwende. Both are used posthead.<ref name=":12">Jauncey (1997: 210)</ref>
+
+===== ''rindi'' =====
+''Rindi'' indicates a noun phrase which has been already introduced in either a preceding clause or earlier string of narrative or conversation, and limits the reference of an entity that has already been introduced.<ref name=":12" /> 
+
+In example (18), ''vavine'' has already been introduced at an earlier stage of the conversation, therefore ''rindi'' is used directly following the noun ''vavine'' when it is reintroduced.
+
+{{interlinear|number=(18)
+|...vavine '''rindi''' mo-te boi-a.
+|woman '''REF''' 3SG-NEG like-OBJ:3SG
+|...the woman didn't like him.<ref name=":12" />}}
+
+===== ''mwende'' =====
+''Mwende'' is more specific than ''rindi'' and indicates a referent which is definitely known.<ref name=":12" />
+
+{{interlinear|number=(19)
+|Na-re "Motete, tamalohi '''mwende''' mo-ta mai
+|3PL-say no person particular.one 3SG-REP come
+|They said, "No that particular person hasn't come again."<ref name=":12" />}}
+
+The demonstrative modifier ''mwende'' follows the ''tamalohi'', the noun. 
+
+==== Emphatic reference modifier ====
+''Niaro'' is the only emphatic reference modifier, which can also only occur posthead as shown in example (20).<ref name=":12" />
+
+{{interlinear|number=(20)
+|...vevesai mara-maranjea nira na rongovosai na kastom '''niaro'''
+|every REDUP-old.man 3PL 3PL know ART custom EMPH
+|...all of the old men know about this very custom.<ref name=":13">Jauncey (1997: 211)</ref>}}
+
+''Niaro'' can occur with the anaphoric referential modifier ''rindi'', and in that circumstance, ''rindi'' is shortened to ''ri,'' as shown in example (21) below''.'' Both modifiers follow after the noun ''Kastom'', with the anaphoric reference marker preceding the emphatic reference modifier.<ref name=":13" />
+
+{{interlinear|number=(21)
+|Ro Kastom ri niaro nia mo tahunju tuai...
+|thus custom REF EMPH 3SG 3SG start of.old
+|So that particular custom, it started in olden times.<ref name=":13" />}}
+
+== Abbreviations ==
+{|
+|1,2,3
+|first, second, third person
+|-
+|ART
+|article
+|-
+|CLF
+|classifier
+|-
+|EMPH
+|emphatic
+|-
+|FUT
+|future
+|-
+|IRR
+|irrealis
+|-
+|LINK
+|possessive linker
+|-
+|NEG
+|negative particle
+|-
+|NMZ
+|nominalising affix
+|-
+|OBJ
+|object pronoun
+|-
+|POSS
+|possessive pronominal
+|-
+|PL
+|plural
+|-
+|PREP
+|preposition
+|-
+|REDUP
+|reduplicated
+|-
+|REF
+|prior reference made
+|-
+|REP
+|repeating action
+|-
+|SG
+|singular
+|-
+|SUB
+|subject
+|-
+|TA
+|tense-aspect marker
+|-
+|TR
+|transitivising suffix
+|}
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+TA:tense-aspect marker
+REP:repeating action
+LINK:possessive linker
+REF:prior reference made
+</div><section end="list-of-glossing-abbreviations"/>
+
+==References==
+{{reflist}}
+
+== External links ==
+* Materials on Malo are included in the open access [[Arthur Capell]] collections ([http://catalog.paradisec.org.au/collections/AC1 AC1] and [http://catalog.paradisec.org.au/collections/AC2 AC2]) held by [[Paradisec]].
+
+==Bibliography==
+* Dryer, M. (2013). Feature 88A: Order of Demonstrative and Noun. Retrieved 28 March 2021, from <nowiki>https://wals.info/feature/88A#2/16.3/152.9</nowiki>
+*{{Cite thesis |last=Jauncey |first=Dorothy G. |title=A Grammar of Tamambo, the Language of Western Malo, Vanuatu |date=1997 |degree=Ph.D. |publisher=Australian National University |url=https://openresearch-repository.anu.edu.au/bitstream/1885/145981/2/b20043727-Jauncey_D.pdf  |hdl=1885/145981 |hdl-access=free |doi=10.25911/5D666220A63B3 }}
+* {{Cite book |last=Jauncey |first=Dorothy G. |chapter=Tamambo |publisher=Curzon |title=The Oceanic Languages |year=2002 |editor-last=[[John Lynch (linguist)|Lynch, J.]] |publication-place=Richmond, Surrey |pages=608–625|editor-last2=[[Malcolm Ross (linguist)|Ross, M.]] |editor-last3=[[Terry Crowley (linguist)|Crowley, T.]] }}
+* {{Cite book |url=https://openresearch-repository.anu.edu.au/bitstream/1885/29991/8/01_Jauncey_Tamambo_2011.pdf |title=Tamambo: the Language of Western Malo, Vanuatu |last=Jauncey |first=Dorothy G. |publisher=Pacific Linguistics |year=2011 |isbn=9780858836334 |series=Pacific Linguistics 622 |location=Canberra |hdl=1885/29991 |hdl-access=free }}
+*Kaufman, Daniel. (2013) “Tamambo, a Language of Malo, Vanuatu by Dorothy G. Jauncey (Review).” ''Oceanic Linguistics'', '''52'''(1): 277–290. http://www.jstor.org/stable/43286771
+* {{Cite journal |last1=Riehl |first1=Anastasia K. |last2=Jauncey |first2=Dorothy |date=2005 |title=Illustrations of the IPA: Tamambo |journal=Journal of the International Phonetic Association |volume=35 |issue=2 |pages=255–259 |doi=10.1017/S0025100305002197 |doi-access=free }}
+*Ross, Malcolm. (2004) Demonstratives, local nouns and directionals in Oceanic languages: a diachronic perspective, in Gunter Senft (ed.), ''Deixis and demonstratives in Oceanic Languages'', Pacific Linguistics, Canberra, pp. 175 - 204 
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Espiritu Santo languages]]
+[[Category:Languages of Vanuatu]]

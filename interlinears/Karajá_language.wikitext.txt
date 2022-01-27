@@ -1,0 +1,431 @@
+{{Short description|Macro-Je language spoken in Brazil}}
+{{other uses|Karaja (disambiguation)}}
+{{Infobox language 
+|name=Karajá
+|nativename=Iny rybè<ref name="Ribeiro-Karajá"/>{{rp|1}}
+|pronunciation = {{IPA|[iˈnə̃ ɾɨˈbɛ]}}<ref name="Ribeiro-Karajá"/>{{rp|1}}
+|states=[[Brazil]]
+|region=[[Araguaia River]]
+|ethnicity={{sigfig|3610|2}} [[Karajá people]] (2007)<ref name=e18/>
+|speakers={{sigfig|2670|2}}
+|date=2006
+|ref=e18
+|familycolor=American
+|fam1=[[Macro-Jê languages|Macro-Jê]]
+|dia1=Northern
+|dia2=Southern Karajá
+|dia3=Javaé
+|dia4=Xambioá
+|iso3=kpj
+|glotto=kara1500
+|glottorefname=Karajá
+<!-- not in 2021 |ELP2=3976
+|ELPname2=Javaé
+|ELP3=3943
+|ELPname3=Karajá-Xambioá-->
+|map=Karajan languages.png
+|mapcaption=
+|notice=IPA
+}}
+
+'''{{lang|kpj|Karajá}}''', also known as {{lang|kpj|Iny rybè}}, is spoken by the [[Karajá people]] in some thirty villages in central [[Brazil]].
+
+There are distinct male and female forms of speech; one of the principal differences is that men drop the sound {{IPA|/k/}}, which is pronounced by women.
+
+Karaja is a [[Word order|verb-final language]],<ref>Rodrigues (1999), pp. 187–88</ref> with simple noun and more complex [[verbal morphology]] that includes [[noun incorporation]]. Verbs [[inflection|inflect]] for direction as well as person, mood, object, and voice.
+
+==Dialects==
+Dialects are Northern Karajá, Southern Karajá, [[Xambioá]], and [[Javaé]].<ref name="Ribeiro-Karajá"/>{{rp|1}}<ref name="Nikulin-Macro-Je">Nikulin, Andrey. 2020. ''[http://etnolinguistica.org/local--files/tese%3Anikulin-2020/Nikulin_2020_Proto-Macro-Je.pdf Proto-Macro-Jê: um estudo reconstrutivo]''. Doctoral dissertation, University of Brasília.</ref>{{rp|95}}
+
+Karajá proper is spoken on the main course of the [[Araguaia River]] in and around [[Bananal Island]]. Phonologically, it is set apart from the other dialects (Javaé and Xambioá) by the occurrence of the vowel /ə/ (not represented in the orthography), which corresponds to a full vowel in Javaé and Xambioá whose quality is a copy of the vowel of the next syllable. For example, Karajá {{lang|kpj|bdi}} /{{IPA|bədɪ}}/ ‘honey’, {{lang|kpj|-dkỹ}} /{{IPA|-dəkə̃}}/ ‘[[causative]] suffix’, {{lang|kpj|-tka}} /{{IPA|-ɗəka}}/ ‘to tie’, {{lang|kpj|kbò}} /{{IPA|kəbɔ}}/ ‘[[banzeiro]]’, {{lang|kpj|kdò}} /{{IPA|kədɔ}}/ ‘termite’, {{lang|kpj|rkù}} /{{IPA|ɾəkʊ}}/ ‘gourd’ correspond to Javaé and Xambioá {{lang|kpj|bidi}} /{{IPA|bɪdɪ}}/, {{lang|kpj|-nỹkỹ}} /{{IPA|-də̃kə̃}}/, {{lang|kpj|-taka}} /{{IPA|-ɗaka}}/, {{lang|kpj|kòbò}} /{{IPA|kɔbɔ}}/, {{lang|kpj|kòdò}} /{{IPA|kɔdɔ}}/, {{lang|kpj|rùkù}} /{{IPA|ɾʊkʊ}}/.<ref name="Ribeiro-Karajá"/>{{rp|21, 31}} Another phonological feature unique to Karajá proper is the progressive palatalization of {{IPA|/k/}} and {{IPA|/ɾ/}} (to {{IPA|/tʃ/}} and {{IPA|/dʒ/}}) following an {{IPA|/i/}}: compare Karajá {{lang|kpj|ritxòrè}} ‘offspring’, {{lang|kpj|itxòrò}} ‘fox’, {{lang|kpj|ritxoko}} ‘[[Ritxoko]] clay doll’, {{lang|kpj|idjasò}} ‘[[arowana]]’ and Javaé/Xambioá {{lang|kpj|rikòrè}}, {{lang|kpj|ikòrò}}, {{lang|kpj|rikoko}}, {{lang|kpj|iraso}}.<ref name="Ribeiro-Karajá"/>{{rp|37}}<ref name="Ribeiro-Loans"/>{{rp|77, 92}} Examples of lexical differences between Karajá proper and other dialects include {{lang|kpj|lei}} ‘anaconda’, {{lang|kpj|tõsõ}} ‘woodpecker’, {{lang|kpj|makiti}} ‘sugarcane’, corresponding to Javaé and Xambioá {{lang|kpj|rei}}, {{lang|kpj|sõsõ}}, {{lang|kpj|biditi}}.<ref name="Ribeiro-Karajá"/>{{rp|21}}
+
+Karajá proper is further subdivided into Northern and Southern Karajá. Southern Karajá is spoken in the Fontoura ({{lang|kpj|Btõiry}}) village and further to the south, whereas Northern Karajá is spoken in the São Domingos ({{lang|kpj|Krèhãwa}}) village and further to the north.<ref name="Prodoclin">{{cite web |url=http://prodoclin.museudoindio.gov.br/index.php/etnias/karaja/dicionario-multimidia |title=Dicionário Multimídia Karajá |last1=Karajá |first1=Hatawaki |last2=Karajá |first2=Juanahu |last3=Karajá |first3=Leandro |last4=Karajá |last5=Karajá |first5=Teribre |last6=Karajá |first6=Wadoi |last7=Karajá |first7=Woubedu |publisher=Museu do Índio |date=10 January 2013 |website=Museu do Índio |access-date=1 August 2020}}</ref> There are few differences between Northern and Southern Karajá. Examples of lexical differences include N(orthern) {{lang|kpj|ji(k)arỹ}} / S(outhern) {{lang|kpj|di(k)arỹ}} ‘I’,<ref name="Ribeiro-Karajá"/>{{rp|89}} N {{lang|kpj|wi}} / S {{lang|kpj|wiu}} ‘song.♂’,<ref name="Ribeiro-Karajá"/>{{rp|134}} N {{lang|kpj|adèrana}} / S {{lang|kpj|wdèna}} ‘prostitute’, N {{lang|kpj|bdòlèkè}} / S {{lang|kpj|bdòkùjkè}} ‘[[pirarucu]] fish’, N {{lang|kpj|butxi}} / S {{lang|kpj|boti}} ‘clay pot’, N {{lang|kpj|(k)õritxi}} / S {{lang|kpj|(k)uritxi}} ‘curassow’,<ref name="Prodoclin"/> and other word pairs. Northern Karajá also differs from Southern Karajá in using different habitual markers for different persons (first person {{lang|kpj|-wahã}}, second person {{lang|kpj|-mahã}}, third person {{lang|kpj|-mỹhỹ}}), whereas Southern Karajá uses {{lang|kpj|-mỹhỹ}} for all three persons.<ref name="Ribeiro-Karajá"/>{{rp|252}} In addition, there is a difference regarding the occurrence of the centripetal prefix (''n-'' or ''d-'', phonologically /d-/) in the first person of the [[realis mood]]. In Northern Karajá (just like in Javaé and Xambioá), it occurs only once, after the first person prefix: {{lang|kpj|ã'''d'''iwyde}} ‘I brought it’. In Southern Karajá, it occurs twice, both before and after the person prefix: {{lang|kpj|'''n'''a'''d'''iwyde}} ‘I brought it’.<ref name="Ribeiro-Karajá"/>{{rp|39}}
+
+Javaé is currently spoken by the [[Javaés River]], a smaller branch of the Araguaia, though historically the Javaé inhabited the interior of the Bananal island, until at least the first half of the 20th century.<ref name="Ribeiro-Karajá"/>{{rp|2}} The Javaé are referred to by the Karajá proper as {{lang|kpj|ixỹju}}, a term otherwise used to non-Karajá indigenous peoples such as the [[Xavante]], but clearly speak a variety of Karajá. Javaé has more [[Tapirapé language|Apyãwa]] loans than other Karajá dialects.<ref name="Ribeiro-Karajá"/>{{rp|169}} Phonologically, Javaé is characterized by the occurrence of /e/ corresponding to Karajá {{IPA|/ə/}} and Xambioá {{IPA|/i/}} preceding a syllable which contains a {{IPA|/i/}}: Javaé {{lang|kpj|-tebiè}} ‘to raise, to feed’, {{lang|kpj|hetxi}} ‘bottom, buttocks’, {{lang|kpj|exi}} ‘soft’, {{lang|kpj|-teji}} ‘to put’ correspond to Karajá {{lang|kpj|-tbiè}}, {{lang|kpj|htxi}}, {{lang|kpj|àxi}}, {{lang|kpj|tdi}}; Xambioá {{lang|kpj|-txibiè}}, {{lang|kpj|hitxi}}, {{lang|kpj|ixi}}, {{lang|kpj|tidi}}.<ref name="Ribeiro-Karajá"/>{{rp|97–8}} In addition, Javaé has less genderlectal differences than Karajá and Xambioá, as in many cases the Javaé women systematically use forms that are restricted to the male genderlect in other dialects.<ref name="Ribeiro-Karajá"/>{{rp|155–9}}
+
+[[Xambioá]] is spoken on the east bank of the Araguaia, close to the mouth of the [[Maria River (Brazil)|Maria River]] (a western tributary of the Araguaia), which makes it the northernmost variety of Karajá.<ref name="Ribeiro-Karajá"/>{{rp|3}} Ribeiro (2012) reports that there were only 8 fluent speakers in 1998, all of them elderly.<ref name="Ribeiro-Karajá"/>{{rp|9, 23}} Phonologically, Xambioá is characterized by the progressive palatalization of {{IPA|/k/}} to {{IPA|[c]}} following an {{IPA|/i/}}, as in {{lang|kpj|ikòrò}} [{{IPA|icɔˈɾɔ}}] ‘fox’ (unlike in Karajá, this does not lead to a neutralization with {{IPA|[tʃ]}}).<ref name="Ribeiro-Karajá"/>{{rp|130}} Another phonological feature of Xambioá is the occurrence of the oral [[allophone]] of {{IPA|/a/}} (i.e., {{IPA|[a]}}) where other dialects have {{IPA|[ã]}}: Xambioá {{lang|kpj|habu}} ‘man’, {{lang|kpj|ati}} ‘Pimelodus|{{lang|kpj|mandi}} fish’, {{lang|kpj|aw(òk)ò}} ‘canoe’ vs. Karajá {{lang|kpj|hãbu}}, {{lang|kpj|hãti}}, {{lang|kpj|hãw(k)ò}}.<ref name="Ribeiro-Loans"/>{{rp|93, 96}} Some Xambioá words are not found in other dialects, such as the [[Língua Geral Amazônica]] borrowing {{lang|kpj|mabèra}} ‘paper’ (in Karajá and Javaé, the term for ‘skin, bark, cloth’ is used instead: Karajá ♀ {{lang|kpj|tky}}, Javaé ♀ {{lang|kpj|tyky}}, Karajá/Javaé ♂ {{lang|kpj|tyy}}).<ref name="Ribeiro-Loans">{{cite journal |last1=Ribeiro |first1=Eduardo Rivail |date=2001–2002 |title=Empréstimos Tupi-Guarani em Karajá |journal=Revista do Museu Antropológico |volume=5/6 |issue=1 |pages=75–100}}</ref>{{rp|94}}
+
+==Phonology==
+Karajá has thirteen oral [[vowel]]s, {{IPA|/i ɪ e ɛ ɨ̘ ɨ ɘ ə a u ʊ o ɔ/}}, and three [[nasal vowel]]s, {{IPA|/ĩ ə̃ õ/}}. The Javaé and Xambioá dialects differ from Karajá in lacking {{IPA|/ə/}}. {{IPA|/a/}} is nasalized word initially and when preceded by {{IPA|/h/}} or a voiced stop (except in Xambioá): {{IPA|/aθɪ/}} → {{IPA|[ãθɪ]}} 'grass', {{IPA|/ɔha/}} → {{IPA|[ɔhã]}} 'armadillo'. {{IPA|/a/}} also triggers the occurrence of the nasal allophones of preceding {{IPA|/b/}} or {{IPA|/d/}}: {{IPA|/bahadʊ/}} → {{IPA|[mahãdʊ]}} 'group', {{IPA|/dadɪ/}} → {{IPA|[nadɪ]}} 'my mother'.
+
+{| class="wikitable" style="text-align: center;"
+!
+!Front
+!Central
+!Back
+|-
+!Close
+|i, ĩ
+|ɨ̘
+|u
+|-
+!Near-close
+|ɪ
+|ɨ
+|ʊ
+|-
+!Close-mid
+|e
+|ɘ, ə̃
+|o, õ
+|-
+!Open-mid
+|ɛ
+|ə
+|ɔ
+|-
+!Open
+|
+|a ([ã])
+|
+|}
+
+This language has [[Advanced and retracted tongue root|ATR]] [[vowel harmony]] which causes the non-ATR vowels {{IPA|/ɪ ɛ ɨ ʊ ɔ/}} to become more tense ({{IPA|/i e ɨ̘ u o/}}) by the influence of a ATR vowel (one of {{IPA|/i e ɨ̘ ɘ u o ĩ/}}) located further to the right. The vowels {{IPA|/a ə̃ õ/}} are opaque. Note that {{IPA|/ɛ ɔ/}} undergo the harmony in an iterative manner (as in {{IPA|/ɾ-ɛ-ɾɔ=ɾ-e/}} → /ɾ'''e'''ɾ'''o'''ɾe/{{which lang|reason = unsure if this is IPA|date=March 2021}} ‘I ate it’), whether {{IPA|/ɪ ɨ ʊ/}} may optionally block the further spread of the [+ATR] feature: {{IPA|/ɾ-ɛ-hɪ=ɾ-e/ → /ɾ'''e'''h'''i'''ɾe/}} or {{IPA|/ɾɛh'''i'''ɾe/}} ‘I drove it away’.<ref name="Ribeiro-Karajá" />{{rp|107–8}}
+
+V → [+ATR] / _ (C)-V<sub>[+ATR]</sub>
+
+
+The chart below contains the [[Phone (phonetics)|sounds]] used in Karajá.
+
+{| class="wikitable" style="text-align: center;"
+|-
+! colspan="2" |
+! [[Labial consonant|Labial]]!![[Dental consonant|Dental]]!![[Postalveolar consonant|Postalveolar]]!![[Velar consonant|Velar]]!![[Glottal consonant|Glottal]]
+|-
+! rowspan="5" |[[Obstruent]]
+! <small>[[Voice (phonetics)|voiceless]]</small>
+| || || tʃ|| k||
+|-
+! <small>[[Voice (phonetics)|voiced]]</small>
+| b||d|| dʒ|| ||
+|-
+!<small>[[Nasal consonant|nasal]]</small>
+|m
+|n
+|
+|
+|
+|-
+!<small>[[Implosive consonant|implosive]]</small>
+| || ɗ|| || ||
+|-
+![[Fricative|<small>fricative</small>]]
+| || θ|| ʃ|| || h
+|-
+! rowspan="2" |[[Sonorant]]
+![[Lateral consonant|<small>lateral</small>]]
+| || l|| || ||
+|-
+![[Central consonant|<small>central</small>]]
+| w|| ɾ|| || ||
+|}
+
+The consonants {{IPA|/d l ɗ θ/}} are palatalized to {{IPA|[dʒ dʒ tʃ ʃ]}} when adjacent to [+ATR] high vowels. Consonants {{IPA|/b d/}} have nasal allophones {{IPA|[m n]}} when occurring before {{IPA|/a/}}. In addition, in the Karajá proper dialect only, {{IPA|/k ɾ/}} are progressively palatalized to {{IPA|[tʃ dʒ]}} following a {{IPA|/i/}}. In fact, almost all occurrences of {{IPA|[dʒ tʃ ʃ]}} can be explained by the operation of these two processes; for these reason, Ribeiro (2012) argues that {{IPA|[dʒ tʃ ʃ]}} have no phonemic status.<ref name="Ribeiro-Karajá" />{{rp|116–21}} Under this analysis, Karajá has only twelve consonant phonemes, eight of which are [[coronal consonant|coronal]]. The chart below illustrates the phonemic inventory of Karajá assuming {{IPA|[m n dʒ tʃ ʃ]}} are not phonemic.
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" rowspan="2" |
+![[Coronal consonant|Coronal]]
+! colspan="2" |[[Peripheral consonant|Peripheral]]
+|-
+![[Dental consonant|<small>Dental</small>]]
+! [[Front consonant|<small>Front</small>]]!![[Back consonant|<small>Back</small>]]
+|-
+! rowspan="3" |[[Obstruent]]
+! [[Plosive|<small>plosive</small>]]
+| d
+| b|| k
+|-
+! [[Implosive consonant|<small>implosive</small>]]
+|ɗ
+| ||
+|-
+![[Fricative|<small>fricative</small>]]
+| θ
+| || h
+|-
+! rowspan="2" |[[Sonorant]]
+![[Lateral consonant|<small>lateral</small>]]
+| l
+| ||
+|-
+![[Central consonant|<small>central</small>]]
+| ɾ
+| colspan="2" | w
+|}
+
+==Men's and women's speech==
+Some examples of the differences between men's and women's speech, especially the presence or lack of {{IPA|/k/}} (including in borrowings from Portuguese),<ref name="Rodrigues 1999, pg. 177">Rodrigues (1999), pg. 177</ref><ref name="Ribeiro-Karajá"/> follow. Note that men maintain {{IPA|/k/}} in at least one grammatical ending.<ref name="Rodrigues 1999, pg. 177"/>
+{|class="wikitable IPA"
+|-
+!Women !! Men !! Gloss
+|-
+| kotù /kɔɗʊ/||òtù /ɔɗu/||turtle
+|-
+| kòlùkò /kɔlʊkɔ/||òlùò /ɔluɔ/||labret
+|-
+| karitxakre /kaɾitʃa-kɾe/||ariakre /aɾia-kɾe/||I will walk*
+|-
+| bèraku /bɛɾaku/||bero /beɾo/||river
+|-
+| anona /adõda/||aõna /aõda/||thinɡ
+|-
+| kabè /kabɛ/||abè /abɛ/||coffee<br>(from Portuguese ''café'')
+|}
+<nowiki>*</nowiki> The {{IPA|/itʃa/}} derives historically from {{IPA|*ika}}, and so becomes /ia/ in men's speech.
+
+The first (Northern Karajá, Javaé, Xambioá: ♀ {{lang|kpj|jikarỹ, ♂ jiarỹ}} {{IPA|/di(k)aɾə̃/}}; Southern Karajá: ♀ {{lang|kpj|dikarỹ, ♂ diarỹ}} {{IPA|/dɪ(k)aɾə̃/}}) and third ({{lang|kpj|tki}} {{IPA|/ɗəkɪ/}}, ♂ optional male form: {{lang|kpj|tii}} {{IPA|/ɗɪɪ/}}) person pronouns differ based on gender of the speaker, but the second person pronoun {{lang|kpj|kai}} {{IPA|/kai/}} is an exception to this rule, and is pronounced the same by men and women.<ref name="Ribeiro-Karajá">{{cite thesis|last=Ribeiro |first=Eduardo Rivail |date=2012 |title=A grammar of Karajá |type=Ph.D. dissertation |location=Chicago |publisher=University of Chicago}}</ref>
+
+It is hypothesized (Ribeiro 2012) that in the past this process of the k-drop became a sign of masculinity and females resisted it in order to keep a more conservative form of speech.
+
+==Morphology==
+===Verb===
+The verb in Karajá grammar always agrees with the subject of the sentence, as it does in French for example; these agreements are determined by the past and present tense (also known as realis) or future, potential, and admonitory tenses (also known as irrealis). Verbs have no lexical opposites (such as in vs. out) and direction is represented through inflection; all Karajá verbs can inflect for direction. Verbs are either transitive or intransitive and the valence of each verb, therefore, may increase or decrease depending on their status as transitive or intransitive.
+
+===Noun===
+Nouns can be incorporated into verbs to create noun-verb compounds with the noun being placed into the verb. Any noun can be turned into a verb with the use of a suffix and action nouns can be created with the use of the verb stem.
+
+===Pronoun===
+There are three personal pronouns:
+
+* First person (‘I’): ♀ {{lang|kpj|jikarỹ}} {{IPA|/dikaɾə̃}}, ♂ {{lang|kpj|jiarỹ}} {{IPA|/diaɾə̃/}} (Southern Karajá: ♀ {{lang|kpj|dikarỹ}} {{IPA|/dɪkaɾə̃/}}, ♂ {{lang|kpj|diarỹ}} {{IPA|/dɪaɾə̃/}})
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Diarỹ	aõkõ,	kaita.
+|/dɪaɾə̃	aõkõ,	kai{{=}}ɗa/
+|I		NEG		you{{=}}ASSERT
+|‘Not me, but you instead.’}}
+
+* Second person (‘you’): {{lang|kpj|kai}} {{IPA|/kai/}}
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Diarỹ	aõkõ,	kaita.
+|/dɪaɾə̃	aõkõ,	kai{{=}}ɗa/
+|I		NEG		you{{=}}ASSERT
+|‘Not me, but you instead.’}}
+
+* Third person (‘he/she/it’): {{lang|kpj|tki}} {{IPA|/ɗəkɪ/}} (♂ optional male form: {{lang|kpj|tii}} {{IPA|/ɗɪɪ/}})
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Tki	ohã		riròkõre.
+|/ɗəkɪ	ɔhã		∅-ɾ-ɪ-ɾɔ{{=}}kõ{{=}}ɾ-e/
+|he	armadillo	3-CTFG-TRANS-eat{{=}}NEG{{=}}CTFG-IMPERF
+|‘He doesn’t eat armadillo.’}}
+
+* These pronouns can be pluralized with the use of the pluralizer {{lang|kpj|boho}}. When pluralized, the first person plural has both an inclusive and exclusive interpretation as in the following examples:<ref name="Ribeiro-Karajá"/>{{rp|207}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Diarỹ	boho	kdùra	ãriròrènykre.
+|/dɪaɾə̃	boho	kədʊɾa	a-ɾ-ɪ-ɾɔ{{=}}ɾɛdə̃{{=}}kɾe/
+|I     	PL		fish	1-CTFG-TRANS-eat{{=}}CTFG-PL{{=}}FUT
+|‘We (exclusive) will eat fish.’}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Iny			boho	{kdùra	rkiròrènykre.}
+|/idə̃			boho	{kədʊɾa	ɾək-ɪ-ɾɔ{{=}}ɾ-ɛdə̃{{=}}kɾe/}
+|{Karajá PL}	fish	1PL.INCL-TRANS-eat{{=}}POT
+|‘We (inclusive) will eat fish.’}}
+
+Possessive pronouns are not used but are instead marked by affixes (ie. {{lang|kpj|wa-}} = ‘my’) and there are three demonstrative pronouns:<ref name="Ribeiro-Karajá"/>{{rp|232}}
+
+* {{lang|kpj|ka}} - ‘this’
+* {{lang|kpj|kia}} - ‘that (close to the addressee)’
+* {{lang|kpj|kùa}} - ‘that (distant from both the speaker and the addressee)’
+
+===Direction===
+
+Direction in the Karajá language does not have any lexical opposites, such as ''in'' and ''out'' or ''go'' and ''come''. Direction, rather, is marked by a set of prefixes that determine whether the event in the sentence is happening away from or toward the speaker. Centrifugal direction (away from the speaker) is characterized by means of the prefix ''r-'' while centripetal direction (toward the speaker) is characterized by means of the prefix ''d-''. All the verbs in the Karajá language — even those that do not convey the semantics of movement — obligatorily inflect for direction.<ref name="Ribeiro-Karajá"/>
+
+* Centrifugal:
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Rurure.
+|/∅-ɾ-∅-ʊɾʊ{{=}}ɾ-e/
+|3-CTFG-INTR-die{{=}}CTFG-IMP
+|‘He died (thither).’}}
+
+* Centripetal:
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Durude.
+|/∅-d-∅-ʊɾʊ{{=}}d-e/
+|3-CTPT-INTR-die{{=}}CTPT-IMP
+|‘He died (hither).’}}
+
+==Syntax==
+
+===Valence===
+Karajá language is characterized both by the reduction of valence and by the increase in valence. Valence increase happens through causitivization and through oblique promotion while valence decrease happens through reflixivatization, passivization, and antipassivization (Ribeiro 2012).
+
+====Valence increase====
+Unergative verbs may be causativized by means of suffixing the causativizer{{typo help inline| reason = Unsure if this should be 'causative'|date=March 2021}} suffix {{lang|kpj|-dkỹ}} plus the verbalizer suffix {{lang|kpj|-ny}} to the nominalized verb.<ref name="Ribeiro-Karajá"/>{{rp|51}} In the example below, the verb {{lang|kpj|rika}} ‘to walk’ is first nominalized by means of the process of consonantal replacement, yielding {{lang|kpj|rira}}, and then causativized.
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Hãbu	kùladù	ririradkỹnyrèri.
+|/habu	kʊladʊ	∅-ɾ-ɪ-ɾi[ɾ]a-dəkə̃-də̃{{=}}ɾ-ɛɾɪ/
+|man	child	3-CTFG-walk[NMLZ]-CAUS-VERB{{=}}CTFG-PROGR
+|‘The man is making the child walk.’}}
+
+The man in this example is the causer who makes the child, the causee, walk.
+
+====Valence-decreasing morphology====
+In Karajá, it is possible to demote a patient of a transitive verb to peripheral status by means of the antipassive prefix {{lang|kpj|ò-}}:<ref name="Ribeiro-Karajá"/>{{rp|196}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Nadi		ròsùhòrèri.
+|/d-ādɪ		∅-ɾ-ɔ-θʊhɔ{{=}}ɾɛɾɪ/
+|REL-mother	3-CTFG-ANTI-wash{{=}}CTFG-PROGR
+|‘My mother is washing (something).’}}
+
+Reflexivity in the Karajá language is marked by the reflexive prefix with two allomorphs, {{lang|kpj|exi-}} ̣(on verbs) and {{lang|kpj|ixi-}} (on postpositions):<ref name="Ribeiro-Karajá"/>{{rp|52}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Dikarỹ		karexisuhokre.
+|/dɪkaɾə̄	ka-ɾ-eθi-θʊhɔ{{=}}kəɾe/
+|I     		1-CTFG-REFL-wash{{=}}FUT
+|‘I will wash myself.’}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Hãbu	iximy			robire.
+|/habu	iθi{{=}}bə̄		∅-ɾ-∅-obi{{=}}ɾ-e/
+|Man	REFL{{=}}LOC	3-CTFG-INTR-see{{=}}CTFG-IMPERF
+|‘The man saw himself.’}}
+
+In these examples, the patient is coreferential with the agent (that is, they refer to the same individual).
+
+=====Passivization=====
+Passives are described as the change of a clause from a transitive to an intransitive sentence through the demotion of the subject. Passive verbs are marked either by the prefix {{lang|kpj|a-}} (or by its zero allomorph {{lang|kpj|∅-}} in the vowel-initial stems that belong to the so called ɗ-class):<ref name="Ribeiro-Karajá"/>{{rp|194}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Nadi		watky		risùhòrèri.
+|/d-ãdɪ		wa-ɗəkɨ		∅-ɾ-ɪ-θʊhɔ{{=}}ɾ-ɛɾɪ/
+|REL-mother	1-clothes	3-CTFG-TRANS-wash{{=}}CTFG-PROGR
+|‘My mother is washing my clothes.’}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Watky		rasùhòrèri.
+|/wa-ɗəkɨ	∅-ɾ-a-θʊhɔ{{=}}ɾ-ɛɾɪ/
+|1-clothes	3-CTFG-PASS-wash{{=}}CTFG-PROGR
+|‘My clothes are being washed.’}}
+
+Here, the subject ‘mother’ is demoted in the second example.
+
+==Number==
+When referring to nouns, plurality is expressed through three processes: reduplication, the pluralizer {{lang|kpj|-boho}}, and the use of the noun {{lang|kpj|mahãdù}} ‘people, group’. In verbs, plurality is marked through the use of the pluralizer {{lang|kpj|-eny}}.
+
+===Reduplication===
+Reduplication refers to the repetition of word categories to convey a certain meaning. In the case of the Karajá language, reduplication occurs with nouns and is used to convey plurality:<ref name="Ribeiro-Karajá"/>{{rp|125}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|iròdu	iròdu
+|/irɔdʊ	irɔdʊ/
+|animal animal
+|‘animals’}}
+
+===Pluralizer {{lang|kpj|-boho}}===
+The pluralizer {{lang|kpj|-boho}} is used to pluralize the three personal pronouns:<ref name="Ribeiro-Karajá"/>{{rp|207}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Diarỹ	boho	kdùra	ãriròrènykre.
+|/dɪaɾə̃	boho	kədʊɾa	a-ɾ-ɪ-ɾɔ{{=}}ɾɛdə̃{{=}}kɾe/
+|I     	PL		fish	1-CTFG-TRANS-eat{{=}}CTFG-PL{{=}}FUT
+|‘We (exclusive) will eat fish.’}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Iny		boho	kdùra	rkiròrènykre.
+|/idə̃		boho	kədʊɾa	ɾək-ɪ-ɾɔ{{=}}ɾ-ɛdə̃{{=}}kɾe/
+|Karajá		PL		fish	1PL.INCL-TRANS-eat{{=}}POT
+|‘We (inclusive) will eat fish.’}}
+	
+In addition, the latter example shows how the pluralizer {{lang|kpj|–boho}}, when combined with the noun for people ({{lang|kpj|iny}}), functions as a first person plural inclusive pronoun to include those outside of a specific group. According to Ribeiro, {{lang|kpj|iny}} serves the same function as the phrase {{lang|pt|a gente}}, commonly found in [[Brazilian Portuguese]].<ref name="Ribeiro-Karajá"/>{{rp|208}}
+
+==={{lang|kpj|mahãdù}}===
+In contrast to the pluralizer {{lang|kpj|-boho}}, the noun word {{lang|kpj|mahãdù}} is not used with pronouns but rather functions as a noun to pluralize a group of people, as shown in the following example:<ref name="Ribeiro-Karajá"/>{{rp|248}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Iny    mahãdù tamy ròrùnyre.
+|/idə̄    bãhãdʊ ɗabə̃ ∅-r-a-ɔrʊ-də̃{{=}}r-e/
+|people group  3.AL 3-CTFG-INTR-run-VERB{{=}}CTFG-IMPRF
+|‘Firing their guns, the Karajá ran after them, it is said.’}}
+
+In the above sentence, ‘Karajá’ ({{lang|kpj|iny}}) becomes pluralized through the use of {{lang|kpj|bãhãdʊ}}.
+
+===Pluralizer {{lang|kpj|-èny}}===
+As mentioned above, the pluralizer {{lang|kpj|-èny}} functions to pluralize verbs as shown in the following example:<ref name="Ribeiro-Karajá"/>{{rp|186}}
+
+{{interlinear|lang=kpj|indent=3|glossing2=no|glossing3=yes
+|Tamyle			dòidènyde										tuijyymy.
+|/ɗabə̄{{=}}le	∅-d-∅-ɔɪ{{=}}d-ɛdə̄{{=}}d-e						ɗʊ{{=}}idʒɨɨ{{=}}bə̄/
+|3.AL{{=}}EMPH	3-CTPT-move(PL){{=}}CTPT-PLURAL{{=}}CTPT-IMP	3.LOC{{=}}story{{=}}LOC
+|‘They came to him to tell the story.’}}
+
+‘Came’, in this example, is pluralized to indicate that many individuals came.
+
+==Vocabulary==
+===Language contact===
+Ribeiro (2012) finds a number of [[Tapirapé language|Apyãwa]] loanwords in Karajá (such as {{lang|kpj|bèhyra}} ‘carrying basket’, {{lang|kpj|kòmỹdawyra}} {{lang|kpj|andu}} ’beans’, {{lang|kpj|hãrara}} ‘macaw (sp.)’, {{lang|kpj|tarawè}} ‘parakeet (sp.)’, {{lang|kpj|txakohi}} ‘Txakohi ceremonial mask’, {{lang|kpj|hyty}} ‘garbage (Javaé dialect)’) as well as several Karajá loans in [[Tapirapé language|Apyãwa]] ({{lang|taf|tãtã}} ‘banana’, {{lang|taf|tori}} ‘White man’, {{lang|taf|marara}} ‘turtle stew’, {{lang|taf|irãwore}} ‘Irabure ceremonial mask’), [[Parakanã language|Parakanã]], and [[Asurini do Tocantins language|Asuriní of Trocará]] ({{lang|asu|sata}} ‘banana’, {{lang|asu|toria}} ‘White man’).<ref name="Ribeiro-Karajá"/>{{rp|10–12}} Some loans from one of the [[Língua Geral]] varieties ([[Língua Geral Paulista]] or [[Língua Geral Amazônica]]) have also been found, including {{lang|kpj|jykyra}} ‘salt’, {{lang|kpj|mỹkawa}} ‘firearm’, {{lang|kpj|brùrè}} ‘hoe’, {{lang|kpj|kòmỹta}} ‘beans’, {{lang|kpj|mabèra}} ‘paper (Xambioá dialect)’, {{lang|kpj|ĩtajuwa}} ‘money (dated)’).{{rp|7}}
+
+Karajá has also contacted with the distantly related [[Mẽbengokre language|Mẽbêngôkre]] language. Ribeiro (2012) identifies a number of Karajá loanwords in Mẽbêngôkre, especially in the dialect spoken by the [[Xikrin]] group; the source of these loanwords is thought to be the Xambioá dialect. Examples include {{lang|txu|warikoko}} (Kayapó dialect) or {{lang|txu|watkoko}} (Xikrin dialect) ‘tobacco pipe’, {{lang|txu|rara}} ‘kind of basket’, {{lang|txu|wiwi}} ‘song, chant’, {{lang|txu|bikwa}} ‘relative, friend’, {{lang|txu|bero}} ‘puba flour’, borrowed from Karajá {{lang|txu|werikòkò}}, {{lang|txu|lala}}, {{lang|txu|wii}}, {{lang|txu|bikòwa}}, {{lang|txu|bèrò}}.<ref name="Ribeiro-Karajá"/>{{rp|13}}
+
+Loanwords from [[Brazilian Portuguese]], such as {{lang|kpj|nieru}} ‘money’ and {{lang|kpj|maritò}} ‘suit, jacket’ (from {{lang|pt|dinheiro}}, {{lang|pt|paletó}}), are also found.<ref name="Ribeiro-Karajá"/>{{rp|18}}
+
+Jolkesky (2016) notes that there are lexical similarities with the [[Karib languages|Karib]], [[Puinave-Nadahup languages|Puinave-Nadahup]], and [[Tupi languages|Tupi]] language families due to contact.<ref name="Jolkesky-2016">{{cite thesis|last=Jolkesky |first=Marcelo Pinho de Valhery |date=2016 |url=http://www.etnolinguistica.org/tese:jolkesky-2016-arqueoecolinguistica |title=Estudo arqueo-ecolinguístico das terras tropicais sul-americanas |type=Ph.D. dissertation |location=Brasília |publisher=University of Brasília |edition=2}}</ref>
+
+===Sample vocabulary===
+[[Čestmír Loukotka|Loukotka]] (1968) lists the following basic vocabulary items for Karajá and Javajé.<ref name="Loukotka">{{cite book |last=Loukotka |first=Čestmír |author-link=Čestmír Loukotka |title=Classification of South American Indian languages |url=https://archive.org/details/classificationof0007louk |url-access=registration |publisher=UCLA Latin American Center |year=1968 |location=Los Angeles}}</ref>
+
+:{| class="wikitable sortable"
+! gloss !! Karajá !! Javajé
+|-
+! one
+| dohodzyi || zohódi
+|-
+! two
+| inati || ináti
+|-
+! three
+| inatanga || nádo
+|-
+! head
+| wa-ara || rahah
+|-
+! ear
+| noʔonti || nóhonti
+|-
+! tooth
+| wa-idzyu || zyuʔú
+|-
+! woman
+| hanökö || uãuoːkoː
+|-
+! water
+| bé || bää
+|-
+! stone
+| máma || mená
+|-
+! maize
+| mahi || diulad'ié
+|-
+! tapir
+| kaongri || konrí
+|}
+
+==Notes==
+{{reflist}}
+
+==References==
+* Fortune, David & Fortune, Gretchen (1963). The phonemes of the Karajá language (manuscript). Rio de Janeiro: Arquivo Lingüístico do Museu Nacional.
+* Museo do Índio (2016). Karajá/Iny. Retrieved from http://prodoclin.museudoindio.gov.br/index.php/etnias/karaja
+* Ribeiro, Eduard Rivail. (2000) "[ATR] vowel harmony and palatalization in Karajá". ''Santa Barbara Papers in Linguistics.'' '''10''': ''Proceedings of {{sm|wail}} 2000.'' pp.&nbsp;80–89.
+* Ribeiro, Eduardo Rivail. (2002) "Direction in Karajá". In Rosa María Ortiz Ciscomani, ed., ''Vi encuentro internacional de lingüística en el noroeste.''
+* Ribeiro, Eduardo (2012). A Grammar of Karajá. University of Chicago, Chicago.
+* Rodrigues, Aryon D. (1999) "Macro-Jê". In R. M. W. Dixon and Alexandra Y. Aikhenvald (eds.), ''The Amazonian Languages''. Cambridge Language Surveys. Cambridge: Cambridge University Press.
+
+==External links==
+* https://web.archive.org/web/20060320120656/http://indian-cultures.com/Cultures/karaja.html
+*Alain Fabre, 2005, ''Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos: KARAJÁ''[http://www.ling.fi/Entradas%20diccionario/Dic=Karajá.pdf]{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes }}
+*[https://ids.clld.org/contributions/295 Karajá] ([[Intercontinental Dictionary Series]])
+
+{{Languages of Brazil}}
+{{Macro-Jê languages}}
+{{South American languages}}
+
+{{DEFAULTSORT:Karaja language}}
+[[Category:Nuclear Macro-Jê languages]]
+[[Category:Indigenous languages of Central Amazonia]]
+[[Category:Languages of Brazil]]

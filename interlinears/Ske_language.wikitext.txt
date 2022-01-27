@@ -1,0 +1,256 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Ske
+|altname=Seke
+|states=[[Vanuatu]]
+|region=[[Pentecost Island]]
+|speakers=300
+|date=2011
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=North-Central Vanuatu
+|iso3=ske
+|glotto=seke1241
+|glottorefname=Seke (Vanuatu)
+}}
+
+'''Ske''' (or '''Seke''') is an [[endangered language]] of south-western [[Pentecost Island|Pentecost island]] in [[Vanuatu]]. Ske is an [[Oceanic language]] (a branch of the [[Austronesian languages|Austronesian language family]]).
+
+The Ske area comprises fourteen small villages centred on [[Baravet]] in south-central Pentecost, from Liavzendam (Levizendam) in the north to Hotwata in the south and extending inland to Vanliamit. Historically the language's area extended to parallel areas of the east coast, but this part of the island is now depopulated.
+
+Due to intermarriage between language areas, an increasing number of people in Ske-speaking villages now speak [[Bislama]] as a first language, and Ske is no longer being actively transmitted to children. A closely related neighbouring language, [[Sowa language|Sowa]], has already been totally displaced by [[Apma language|Apma]] .
+
+The number of Ske speakers is estimated at 300. The widely reported figure of 600 is probably an overestimate, since not everybody in the Ske area is fluent in the language.
+
+There is no significant dialectal variation within modern Ske, although there are noticeable differences between the Ske of older and younger speakers. '''Doltes''', the extinct dialect of Hotwata village, is sometimes regarded as a Ske dialect, but appears to have been closer to [[Saa language|Sa]].
+
+There is no local tradition of writing in Ske, and until recently the language was virtually undocumented. However, linguist Kay Johnson has written a PhD thesis on the language, including a sketch grammar. Prior to her arrival, the only records of Ske were short vocabulary lists collected by David Walsh in the 1960s, Catriona Hyslop in 2001 and Andrew Gray in 2007.
+
+==Phonology==
+Following the orthography developed by linguist Kay Johnson in consultation with the Ske community, the [[consonants]] of Ske are '''b''', '''d''', '''g''', '''h''', '''k''', '''l''', '''m''', '''n''', '''ng''' (as in English "singer"), '''p''', '''q''' (prenasalized [g], written '''ngg''' or '''ḡ''' in some sources), '''r''', '''s''', '''t''', bilabial '''v''', '''w''', '''z''', and labiovelar '''bw''', '''mw''', '''pw''' and '''vw'''.
+
+A notable characteristic of Ske is the dropping of unstressed vowels. This has resulted in a language rich in consonants, in contrast to related languages such as [[Raga language|Raga]]. [[Gemination|Geminate consonants]] occur where two identical consonants have been brought together by the historical loss of an intervening vowel, for example in ''-kkas'' "to be sweet" (compare [[Sowa language|Sowa]] ''kakas''). Due to the presence of consonant clusters within syllables and other phonological features not typical of the area's languages, speakers of neighbouring languages consider Ske difficult to speak and learn. 
+
+[[Prenasalized consonant|Prenasalization of consonants]] occurs, so that ''b'' is pronounced ''mb'', and ''d'' is pronounced ''nd''.
+
+Unlike neighbouring languages such as [[Apma language|Apma]], Ske permits a variety of [[Voice (phonetics)|voiced consonants]] to occur at the end of syllables, although when they occur at the end of an utterance they are often followed by an 'echo' of the previous vowel. Thus, ''iq'' "you", for example, is often pronounced ''inggi''.
+
+In addition to the five standard [[vowels]] ('''a''', '''e''', '''i''', '''o''' and '''u'''), Ske has mid-high vowels '''é''' (intermediate between ''e'' and ''i'') and '''ó''' (intermediate between ''o'' and ''u''), like in [[Sowa language|Sowa]] and [[Saa language|Sa]] languages. Vowels do not appear to be distinguished for length.
+
+Stress typically occurs on the final syllable of a word.
+
+==Grammar==
+Basic word order in Ske is [[subject–verb–object]].
+
+===Pronouns===
+Personal pronouns are distinguished by [[Grammatical person|person]] and [[Grammatical number|number]]. They are not distinguished by [[Grammatical gender|gender]]. The basic pronouns are:
+
+{| class="wikitable"
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | nou
+| qmwam
+|-
+! inclusive
+| id
+|-
+! colspan="2" | 2nd person
+| iq
+| qmi
+|-
+! colspan="2" | 3rd person
+| ni
+| nier
+|}
+
+===Nouns===
+Nouns in Ske are generally not preceded by [[Article (grammar)|articles]]. [[Plural]]ity is indicated by placing the pronoun ''nier'' ("them") or a number after the noun.
+
+Nouns may be either '''free''', or '''directly possessed'''. Directly possessed nouns are suffixed to indicate whom an item belongs to. For example:
+
+:''dlo'''q''''' = my voice
+:''dlo'''m''''' = your voice
+:''dlo'''n''''' = his/her voice
+:''dlo'''n''' subu'' = the chief's voice
+
+Possession may also be indicated by the use of '''possessive classifiers''', separate words that occur before or after the noun and take possessive suffixes. These classifiers are:
+
+*''no-'' for general possessions (''noq tobang'', "my basket")
+*''blie-'' for things that are cared for, such as crops and livestock (''blied bó'', "our pig")
+*''a-'' for things to be eaten (''am bwet'', "your taro")
+*''mwa-'' for things to be drunk (''mwar ri'', "their water") and for buildings (''mwan im'', "his house")
+*''bie-'' for fire (''biem ab'', "your fire")
+*''die-'' for fruits that are cut open (''dien valnga'', "his bush nut")
+*''na-'' for associations, over which the possessor has no control (''vnó naq'', "my home island")
+
+The possessive suffixes are as follows:
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! singular
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | {{interlinear|-q|"of mine"}}
+| {{interlinear|-mwam|"of ours" (mine and others')}}
+|-
+! inclusive
+| {{interlinear|-d|"of ours" (yours and mine)}}
+|-
+! colspan="2" | 2nd person
+| {{interlinear|-m|"of yours" (singular)}}
+| {{interlinear|-mi|"of yours" (plural)}}
+|-
+! colspan="2" | 3rd person
+| {{interlinear|-n|"of his/hers/its"}}
+| {{interlinear|-r|"of theirs"}}
+|-
+! colspan="2" | Generic
+| colspan="4" | {{interlinear|-qze|}}
+|}
+
+A verb may be transformed into a noun by the addition of a '''nominalising suffix''' ''-an'':
+
+:''vwel'' = to dance (verb)
+:''vwelan'' = a dance (noun)
+
+Modifiers generally come after a noun:
+
+:''vet'' = stone
+:''vet alok'' = big stone
+:''vet aviet'' = four stones
+
+===Verbs===
+Verbs are preceded by markers providing information on the subject and the [[Grammatical tense|tense]], [[Grammatical aspect|aspect]] and [[Grammatical mood|mood]] of an action. These markers differ substantially between older and younger speakers; the newer forms are in brackets below...
+
+{| class="wikitable"
+! Person || Subject marker -<br />imperfective (present tense) || Subject marker -<br />perfective (past tense) || Subject marker -<br />irrealis (future tense) || English
+|--
+| 1st person singular || ''mwa'' || ''ni'' || ''mwade'' or ''mwan'' || "I"
+|--
+| 2nd person singular || ''kmwe'' (''mwi'') || ''ki'' (''ti'') || ''ti'' (''de ti'') || "you" (singular)
+|--
+| 3rd person singular || ''m[w]'' or ''mwe'' || ''a'' || ''de'' || "he" / "she" / "it"
+|--
+| 1st person dual (inclusive)|| ''ta'' || ''kra'' (''tra'') || ''tra'' (''de tra'') || "we" (you and I, two of us)
+|--
+| 1st person dual (exclusive)|| ''mwamra'' || ''mwara'' (''mwamra'') || ''mwadra'' || "we" (another and I)
+|--
+| 2nd person dual || ''mwira'' or ''mwria''  || ''kria'' (''dria'') || ''dria'' (''de dria'') || "you" (two)
+|--
+| 3rd person dual || ''mra'' || ''ara'' || ''dra'' || "they" (two)
+|--
+| 1st person plural (inclusive)|| ''pe'' || ''kve'' (''tve'') || ''tve'' (''de tve'') || "we" (you and I)
+|--
+| 1st person plural (exclusive)|| ''mwabe'' || ''mwave'' (''mwabe'') || ''mwadve'' || "we" (others and I)
+|--
+| 2nd person plural|| ''bi''  || ''kvie'' (''dvie'') || ''dvie'' (''de dvie'') || "you" (plural)
+|--
+| 3rd person plural|| ''be'' || ''ave'' || ''dve'' || "they"
+|}
+
+There is a pattern of [[Consonant mutation|verb-consonant mutation]] whereby ''v'' at the start of a verb changes to ''b'', and ''vw'' to ''bw''. This mutation occurs in imperfective aspect (present tense), and in irrealis mood (future tense):
+
+:''ni '''v'''a'' = I went
+:''mwa '''b'''a'' = I am going
+:''mwade '''b'''a'' = I will go
+
+(Among a few older speakers there is also mutation of ''z'' to ''d'', but most Ske speakers today use only the ''d'' forms.)
+
+Hypothetical phrases are marked with ''mó'':
+
+:''ni '''mó''' umné'' = I should do it
+
+[[Negation (linguistics)|Negative]] phrases are preceded by ''kare'' ("not") or a variant:
+
+:'''''kare''' ni umné'' = I didn't do it
+
+[[Transitive verb|Transitive]] and [[Intransitive verb|intransitive]] verb forms are distinguished. Transitive verbs are commonly followed or suffixed with ''-né'':
+
+:''mwa róh'' = I move
+:''mwa róh '''né''' vet'' = I move the stone
+
+Ske makes extensive use of [[stative verb|stative verbs]] for descriptive purposes.
+
+Ske has a [[copular verb]], ''vé'' or ''bé''.
+
+Verbs in Ske can be linked together in [[serial verb construction|serial verb constructions]].
+
+==Sample phrases==
+
+{| class="wikitable"
+! English || Ske (traditional) || Ske (younger speakers)
+|--
+| Good morning || ''Vangren a<sup>m</sup>bis'' || ''Vangren a<sup>m</sup>bis''
+|--
+| Good day || ''Ren a<sup>m</sup>bis'' || ''Ren a<sup>m</sup>bis''
+|--
+| Good evening / Good night || ''Buong a<sup>m</sup>bis'' || ''Biong a<sup>m</sup>bis''
+|--
+| Where are you going? || ''Kmwe <sup>m</sup>ba e<sup>m</sup>béh?'' || ''Mwi <sup>m</sup>ba e<sup>m</sup>béh?''
+|--
+| I'm going to... || ''Mwa <sup>m</sup>ba...'' || ''Mwa <sup>m</sup>ba...''
+|--
+| Where have you come from? || ''Ki me e<sup>m</sup>béh?'' || ''Ti me e<sup>m</sup>béh?''
+|--
+| I've come from... || ''Ni me...'' || ''Ni me...''
+|--
+| Where is it? || ''Mdu e<sup>m</sup>béh?'' || ''Mdu e<sup>m</sup>béh?''
+|--
+| It's here || ''Mdu ene'' || ''Mdu ene''
+|--
+| Come here! || ''Ti me ene!'' || ''Ti me ene!''
+|--
+| Go away! || ''Ti suk!'' || ''Ti suk!''
+|--
+| What's your name? || ''Siam ne sien?'' || ''Siam ne sien?''
+|--
+| My name is... || ''Siaq ne...'' || ''Siaq ne...''
+|--
+| Where are you from? || ''Iq azó ze e<sup>m</sup>béh?'' || ''Iq azó ze e<sup>m</sup>béh?''
+|--
+| I am from... || ''Nou azó ze...'' || ''Nou azó ze...''
+|--
+| How much? / How many? || ''Avih?'' || ''Avih?''
+|--
+| one || ''alvwal'' || ''alvial''
+|--
+| two || ''aru'' || ''aru''
+|--
+| three || ''aziol'' || ''aziol''
+|--
+| four || ''aviet'' || ''aviet''
+|--
+| five || ''alim'' || ''alim''
+|--
+| Thank you || ''Kmwe <sup>m</sup>bariev'' || ''Mwi <sup>m</sup>bariev''
+|--
+| It's just fine || ''Bis knge'' || ''Bis knge''
+|}
+
+==References==
+{{Reflist}}
+* Gray, Andrew. 2012. ''The Languages of Pentecost Island''.
+* Lynch, John and Crowley, Terry. 2001. ''Languages of Vanuatu: A New Survey and Bibliography''.
+* [[Darrell Tryon|Tryon, Darrell]], 1976. ''New Hebrides Languages: An Internal Classification: Series C - No. 50.'' Pacific Linguistics.
+
+==External links==
+* [http://www.pentecostisland.net/languages/ske The Languages of Pentecost Island - further information on Ske]
+* ELAR archive of [http://elar.soas.ac.uk/deposit/0221 Ske (Seke) language documentation materials]
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Languages of Vanuatu]]
+[[Category:Penama languages]]
+[[Category:Endangered Austronesian languages]]

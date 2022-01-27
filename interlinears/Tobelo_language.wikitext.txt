@@ -1,0 +1,199 @@
+{{Short description|North Halmahera language spoken in Indonesia}}
+{{for|the town in North Halmahera, Indonesia|Tobelo}}
+{{Infobox language 
+|name=Tobelo
+|states=[[Indonesia]]
+|region=North [[Halmahera]]
+|speakers={{sigfig|30290|2}}
+|date=2000
+|ref=e18
+|familycolor=Papuan
+|fam1=[[West Papuan languages|West Papuan]]
+|fam2=[[North Halmahera languages|North Halmahera]]
+|fam3=Galela–Tobelo
+|lc1=tlb|ld1=Tobelo
+|lc2=tuj|ld2=Tugutil
+|glotto=tobe1251
+|glottorefname=Tobelo–Tugutil
+|map=halmahera tobelo.png
+|mapsize=frameless
+|mapalt=
+|mapcaption=The Tobelo speaking region (grey) on Halmahera
+}}
+
+'''Tobelo''' ({{lang-id|bahasa Tobelo}}) is a [[North Halmahera languages|North Halmahera language]] spoken on the eastern Indonesian island of [[Halmahera]] and on parts of several neighboring islands. The Tobelo-speaking heartland is in the six adminstrative districts ({{lang-id|kecamatan}}) of Tobelo, located on the western shore of [[Kao Bay]] and forming the central part of [[Halmahera Utara Regency]]. Other Tobelo-speaking areas are the five districts of Wasile (the northwestern half of [[Halmahera Timur Regency]]) on the southern and eastern shores of Kao Bay, and the northern half of [[Morotai Island]]. The district capital, also known as [[Tobelo]], serves as a regional commercial and administrative center and is the largest settlement on Halmahera.
+<!-- Deleted image removed: [[File:tobleomarahai.jpg|frame|This sign posted in Tobelo village in 1995 combines Tobelo language (''marahai'') with Indonesian]] -->
+
+==Dialects==
+Six principal dialects are generally recognized (Voorhoeve 1988):
+
+*Heleworuru
+*Boeng
+*Dodinga
+*Lake Paca
+*Kukumutuk
+*Popon
+
+The last three dialects are also known as "Tugutil". The [[Togutil people|Tugutil]] or [[Togutil people|"Forest Tobelo"]] varieties may include additional dialectal variants, but this has not been satisfactorily documented (Voorhoeve 1988). Intelligibility is not great (Ethnologue).
+
+In addition, based on cognition percentages in a basic vocabulary list, Voorhoeve 1988 identifies five other North Halmaheran language varieties as dialects of the putative Northeast Halmaheran language. Together with Tobelo, these varieties are [[Galela language|Galela]], [[Loloda language|Loloda]], [[Modole language|Modole]], [[Pagu language|Pagu]] and [[Tabaru language|Tabaru]]. Most speakers consider these to be distinct languages from Tobelo, although they do acknowledge a certain degree of mutual intelligibility.
+
+==Phonology==
+
+=== Consonants ===
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ɲ}}
+| {{IPAlink|ŋ}}
+| 
+|-
+! rowspan="2" | [[Plosive]]/<br>[[Affricate]]
+! {{small|voiceless}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| ({{IPAlink|tʃ}})
+| {{IPAlink|k}}
+| 
+|-
+! {{small|voiced}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|dʒ}}
+| {{IPAlink|ɡ}}
+| 
+|-
+! colspan="2" | [[Fricative]]
+| ({{IPAlink|f}})
+| 
+| {{IPAlink|ɕ}}
+| 
+| {{IPAlink|h}}
+|-
+! rowspan="2" | [[Liquid consonant|Liquid]]
+! {{small|[[Lateral consonant|lateral]]}}
+| 
+| {{IPAlink|l}}
+| {{IPAlink|ʎ}}
+| 
+| 
+|-
+! {{small|[[Rhotic consonant|rhotic]]}}
+| 
+| {{IPAlink|r}}
+| 
+| 
+| 
+|-
+! colspan="2" | [[Semivowel]]
+| {{IPAlink|w}}
+| 
+| ({{IPAlink|j}})
+| 
+| 
+|}
+
+Consonant sounds in parentheses only occur in loan words or in other Tobelo dialects.
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center;"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{IPAlink|i}}
+|
+|{{IPAlink|u}}
+|-
+![[Mid vowel|Mid]]
+|{{IPAlink|e}}~{{IPAlink|ɛ}}
+|
+|{{IPAlink|o}}
+|-
+![[Open vowel|Open]]
+|
+|{{IPAlink|a}}
+|
+|}
+Mid front vowels can range from /e/ to /ɛ/.<ref>{{Cite book|title=Tobelo|last=Holton|first=Gary|year=2003}}</ref>
+
+==Directionals==
+Most all of the 50 languages of Maluku have some sort of [[Directionality (grammar)|directional system]]. At the least the up/down distinction seems to be an [[areal feature]]. But this brings up the chicken and the egg phenomenon.  
+Is this directional system of AN or NAN origin?  Or is it a mixture?
+
+Perhaps it is not a coincidence that the Tobelo are the most widespread ethnic group in Maluku, with sizable emigrant population throughout the province. We can a least be sure that the Malay directionals are the "egg", 
+because Malay as spoken in Western Indonesia does not use these directionals whereas Moluccan Malay uses direct calques of the Tobelo terms:
+
+:''bawah'', ''atas'', ''darat'', ''laut''.
+
+Tobelo directionals are described in Taylor (1984). 
+Tobelo directional adverbs occur:
+
+#on motion verbs to specify direction of motion
+#on nouns to specify motion away from or toward an object
+
+Thus, interpretation of directional adverbs is entirely context-dependent. For example,
+
+{{interlinear|indent=3|glossing=no abbr
+| o   tau    t-oiki
+| NM  house  1AGT-go
+| 'I'm going to the house'}}
+
+If I meet you landwards of the house, this means that I'm headed inland from my house.  
+If I meet you seawards of the house, then it means I'm headed inland to the house.
+{| class="wikitable"
+|+ Some Tobelo directionals
+|-
+! Deictic
+! colspan=2 | Adverb
+|-
+! land
+| dina || -iha
+|-
+! sea
+| dai || -oko
+|-
+! up
+| daku || -ilye
+|-
+! down
+| dau || -uku
+|-
+! over
+| doka || -ika
+|}
+
+[[File:Tobelo directionals.gif]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://play.google.com/store/apps/details?id=com.tobelo.maluku.alkitab&hl=de Tobelo Bible App]
+
+==Further reading==
+*Holton, Gary. 2003. Tobelo. (Languages of the World/Materials 328). Munich: LINCOM Europa. {{ISBN|3-89586-706-3}}
+*Hueting, Anton. 1908. Tobeloreesch-Hollandsch woordenboek met Hollandsch-Tobeloreesch inhoudsopgave. 's-Gravenhage: Nijhoff.
+*Hueting, Anton. 1908. O Tobelohoka manga totoade: verhalen en vertellingen in de Tobeloreesche taal. Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië 61.1-318. {{doi|10.1163/22134379-90001891|doi-access=free}} {{jstor|20769537}}
+*Hueting, Anton. 1936. Iets over de spaakkunst van de Tobeloreesche taal. Bijdragen tot de Taal-, Land- en Volkenkunde van Nederlandsch-Indië 94.295-407. {{doi|10.1163/22134379-90001374|doi-access=free}} {{jstor|20770352}}
+*Taylor, Paul Michael. 1984. Tobelorese deixis. Anthropological Linguistics 26.102-22.
+*{{cite book |title=The Folk Biology of the Tobelo People: A Study in Folk Classification |last=Taylor |first=Paul Michael |publisher=Smithsonian Institution Press |location=Washington, D.C. |date=1990 |url=https://repository.si.edu/handle/10088/1341 |doi=10.5479/si.00810223.34.1}}
+*Voorhoeve, C. L. 1988. The languages of the northern Halmaheran stock. Papers in New Guinea Linguistics, no. 26., 181-209. (Pacific Linguistics A-76). Canberra: Australian National University.
+
+{{West Papuan languages}}
+{{Languages of Indonesia}}
+
+[[Category:Languages of Indonesia]]
+
+[[Category:North Halmahera languages]]

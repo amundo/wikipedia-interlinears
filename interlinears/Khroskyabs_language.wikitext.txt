@@ -1,0 +1,936 @@
+{{cleanup lang|date=June 2020}}
+{{Infobox language
+|name=Khroskyabs
+|nativename= bósʁæi 
+|altname=Lavrung
+|pronunciation=
+|states=[[China]]
+|region=[[Ngawa Prefecture]], [[Sichuan]]
+|speakers=10,000 
+|date=2007
+|ref=<ref name="Huang2007" />
+|familycolor=Sino-Tibetan
+|fam2=[[Qiangic languages|Qiangic]]
+|fam3=[[Rgyalrongic languages|Rgyalrongic]]
+|iso3=jiq
+|glotto=guan1266
+|glottorefname=Khroskyabs 
+}}
+'''Khroskyabs''' ({{zh|s=绰斯甲语|p=Chuòsījiǎ yǔ}}, previously known as '''Lavrung''', native name in the Wobzi dialect: ''bósʁæi'' "Tibetan language"<ref name="lai">{{harvp|Lai|2015}}</ref>) is a [[Rgyalrongic languages|Rgyalrongic language]] of China.<ref name=lai /> It is called ''Guanyinqiao'' in ''Ethnologue'' after a town in western [[Sichuan]] where one dialect of the language is spoken, Thugsrje Chenbo ({{bo|w=thugs rje chen bo}}). It has been referred to as ''Lavrung'' in previous publications.
+
+Speakers are classified as ethnic Tibetans by the Chinese government.
+
+==Dialects==
+Based on shared phonological and morphological innovations, {{harvtxt|Lai|2017|p=15}} identifies two major branches of Khroskyabs: Core Khroskyabs dialects and Njorogs (业隆话). Core-Khroskyabs dialects are further divided into Phosul and Thugschen. The Thugschen dialects include Siyuewu (斯跃武), Wobzi (俄热), 'Brongrdzong (木尔宗) and Guanyinqiao (观音桥).
+
+* 'Jorogs (Yelong 业隆)
+* Core Khroskyabs dialects
+** Phosul (Puxi 蒲西)
+** Thugschen
+*** Siyuewu (斯跃武)
+*** Eastern Thugschen
+**** Wobzi (Ere 俄热)
+**** Thugs-'Brong
+***** 'Brongrdzong (Muerzong 木尔宗)
+***** Guanyinqiao (观音桥)
+
+Huang (2007:155)<ref name="Huang2007">{{harvp|Huang|2007}}</ref> recognizes 3 main dialects of Khroskyabs (, using the term ''Lavrung'' Chinese: ''Lawurong'' 拉坞戎) by a total of about 10,000 people dispersed along the Duke River (杜柯河) Valley of northwestern [[Sichuan]], just to the west of [[Barkam Town]]. The dialects are:
+*'''Guanyinqiao (观音桥)''': spoken by over 8,800 people across a relatively wide geographic area, mostly in [[Jinchuan County]] (in the townships of Guanyinqiao 观音桥乡, Ere 俄热乡, Ergali 二嘎里乡, Taiyanghe 太阳河乡 (in Maidigou village 麦地沟村)), and also in Muerzong Township 木尔宗乡 of [[Barkam County]] and in Siyuewu Village 斯跃武村, Puxi Township 蒲西乡 of [[Rangtang County]]. Huang (2007) uses the Maisika Hamlet 麦斯卡寨 variety in Sitao Village 斯滔村, Guanyinqiao Township 观音桥乡 as the representative datapoint, for which a lengthy word list is provided in the appendix. Lai (2017) refers to this dialect as ''Thugschen'' (the Tibetan name for Guanyinqiao 观音桥). Extensive lexical data and recordings for the four Thugschen varieties of Guanyinqiao 观音桥乡, Muerzong 木尔宗乡, Ere 俄热乡, and Siyuewu 斯跃武村 are provided in Nagano & Prins (2013).<ref name="NaganoPrins2013">Nagano, Yasuhiko (長野 泰彦); Prins, Marielle (eds.) (2013). ''[https://htq.minpaku.ac.jp/databases/rGyalrong/ rGyalrongic Languages Database]''. Osaka: [[National Museum of Ethnology (Japan)|Minpaku]].</ref>
+*'''Yelong (业隆)''': spoken in Yelong Village 业隆村 in Jimu Township 集沐乡, [[Jinchuan County]] and also in Nianke 年克村 and Dashidang 大石凼村 Villages in Baiwan Township 白湾乡, [[Barkam County]]. Total of about 1,000 speakers. As the easternmost dialect, the Yelong dialect has undergone areal influence from [[Situ language|Situ]] (a [[rGyalrong language]]). Huang (2007) uses the Zhousai Hamlet 周塞寨 variety in Yelong Village 业隆村 as the representative datapoint, for which a lengthy word list is provided in the appendix. Lai (2017) refers to this dialect as ''Njorogs'', and considers it to be the most divergent dialect.
+*'''Xiaoyili (小依里)''': spoken in Puxi 蒲西村 and Xiaoyili 小依里村 Villages in Puxi Township 蒲西乡, [[Rangtang County]] by just over 120 people. Within Xiaoyili Village, it is spoken by a total of 15 households in Luoxi Hamlet 罗西寨 (Khroskyabs name: ''lo33 ʃi33''), Luosituo Hamlet 罗斯托寨 (Khroskyabs name: ''rəɣ33 stʰu55''), and Hamlet 88 八十八寨 (Khroskyabs name: ''bə55 jəm33'') (Huang 2007:2). Within Puxi Village (Khroskyabs name: ''pʰu33 se55''), it is spoken by a total of 8 households in Se'erya Hamlet 色尔亚寨 (Khroskyabs name: ''fsər33 jɐ55''). As the westernmost dialect, the Xiaoyili dialect has undergone areal influence from Northern [[Horpa language|Horpa]]. Huang (2007) uses the Luoxi Hamlet 罗西寨 variety as the representative datapoint. Lai (2017) refers to this dialect as ''Phosul''.
+
+Khroskyabs names and speaker populations for Guanyinqiao dialect locations are (Huang 2007:1-2):<ref name="Huang2007" />
+{| class="wikitable sortable"
+! Location !! Khroskyabs name !! County !! Speakers
+|-
+| Guanyinqiao 观音桥乡 || grəm53 de33 || [[Jinchuan County]] || 2,200+
+|-
+| Ere 俄热乡 || ʁo55 vzi33 || [[Jinchuan County]] || 2,500+
+|-
+| Ergali 二嘎里乡 || rga55 ne33 || [[Jinchuan County]] || 2,000+
+|-
+| Maidigou 麦地沟村 || ʁji55 ba33 || [[Jinchuan County]] || 300+
+|-
+| Muerzong 木尔宗乡 || mbruŋ55 zuŋ33 || [[Barkam County]] || 1,280+
+|-
+| Siyuewu 斯跃武村 || sjo33 rgən53 || [[Rangtang County]] || 523
+|}
+
+Khroskyabs names and speaker populations for Yelong dialect locations are (Huang 2007:1-2):<ref name="Huang2007" /> 
+{| class="wikitable sortable"
+! Location !! Khroskyabs name !! County !! Speakers
+|-
+| Yelong 业隆村 || dʑa33 ro55 || [[Jinchuan County]] || 530+
+|-
+| Nianke 年克村 || ȵam55 kʰe33 || [[Barkam County]] || 188+
+|-
+| Dashidang 大石凼村 || sto55 de33 || [[Barkam County]] || 286+
+|}
+
+==Phonology==
+=== Onsets ===
+The Wobzi dialect has 42 consonantal phonemes, shown in the table below. Other Khroskyabs dialects exhibit similar systems.
+
+{| class="wikitable" style="text-align: center;"
+|+Wobzi Khroskyabs consonants
+!colspan=2|
+![[Labial consonant|Labial]]
+![[Dental consonant|Dental]]
+![[Alveolar consonant|Alveolar]]
+![[Retroflex consonant|Retroflex]]
+![[Alveolo-palatal consonant|Alveolo-<br>palatal]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Uvular consonant|Uvular]]
+|-
+!rowspan=4|[[Occlusive]]
+!<small>nasal</small>
+|{{IPAlink|m}} 
+|{{IPAlink|n}}
+|
+|
+|
+|{{IPAlink|ɲ}}
+|{{IPAlink|ŋ}}
+|({{IPAlink|ɴ}})
+|-
+!<small>voiced</small>
+|{{IPAlink|b}}
+|{{IPAlink|d}}
+|{{IPAlink|dz}}
+|{{IPAlink|dʐ}}
+|{{IPAlink|dʑ}}
+|{{IPAlink|ɟ}}
+|{{IPAlink|g}}
+|
+|-
+!<small>voiceless</small>
+|{{IPAlink|p}}
+|{{IPAlink|t}}
+|{{IPAlink|ts}}
+|{{IPAlink|tʂ}}
+|{{IPAlink|tɕ}}
+|{{IPAlink|c}}
+|{{IPAlink|k}}
+|{{IPAlink|q}}
+|-
+!<small>aspirated</small>
+|{{IPAlink|pʰ}}
+|{{IPAlink|tʰ}}
+|{{IPAlink|tsʰ}}
+|{{IPAlink|tʂʰ}}
+|{{IPAlink|tɕʰ}}
+|{{IPAlink|cʰ}}
+|{{IPAlink|kʰ}}
+|{{IPAlink|qʰ}}
+|-
+!rowspan=2|[[Continuant]]
+!<small>voiced</small>
+|{{IPAlink|w}}
+|{{IPAlink|l}}
+|{{IPAlink|z}}
+|{{IPAlink|r}}
+|{{IPAlink|ʑ}}
+|{{IPAlink|j}}, ({{IPAlink|ɥ}})
+|{{IPAlink|ɣ}}
+|{{IPAlink|ʁ}}
+|-
+!<small>voiceless</small>
+|
+|{{IPAlink|ɬ}}
+|{{IPAlink|s}}
+|{{IPAlink|ʂ}}
+|{{IPAlink|ɕ}}
+|{{IPAlink|ç}}
+|({{IPAlink|x}})
+|{{IPAlink|χ}}
+|}
+
+Khroskyabs dialects present complex consonant clusters. A consonant cluster in Wobzi is composed of three parts, preinitial(s), initial and medial, which can be tested through a partial reduplication process. 757 consonant clusters are attested according to {{harvtxt|Lai|2017|p=101}}. A single cluster can contain up to six consonants in a row: ''ʁjnlzdə̂'' "to be made to buy for one's benefit".
+
+The ordering of preinitials in a consonant cluster follows a language-specific sonority hierarchy {{harvs|last=Lai|year=2013a|year2=2013b}}:
+
+ʁ- > j- > N-, m- > v- > r-, l- > s-, z-
+
+=== Rhymes ===
+Wobzi Khroskyabs has 9 vowel phonemes, listed in the table below. One diphthong is found, ''æi''. Most Core-Khroskyabs dialects have similar vowel systems. In Phosul, a complete series of velarised vowels are attested {{harv|Huang|2007|p=166}}: ''iˠ'', ''uˠ'', ''eˠ'', ''oˠ'', ''ʌˠ''.
+
+{| class="wikitable" style="text-align: center;
+|+Wobzi Khroskyabs vowels
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|{{ipa|i}}
+|
+|{{ipa|u}}
+|-
+![[Near-close vowel|Near-close]]
+|{{ipa|(ɪ)}}
+|
+|{{ipa|(ʊ)}}
+|-
+![[Close-mid vowel|Close-mid]]
+|e
+|
+|o
+|-
+![[Mid vowel|Mid]]
+|
+|{{ipa|ə}}/{{ipa|əˠ}}
+|
+|-
+![[Near-open vowel|Near-open]]
+|{{ipa|æ}}
+|
+|
+|-
+![[Open vowel|Open]]
+|{{ipa|a}}
+|
+|{{ipa|ɑ}}
+|}
+
+Except for conjugated verb forms, Khroskyabs does not allow complex codas. In the Wobzi dialect, complex codas are prohibited even in conjugated verbs. The rhymes attested in Wobzi Khroskyabs are listed in the table below, with forms in conjugated verbs between parentheses.
+
+{| class="wikitable"
+|+Wobzi Khroskyabs rhymes
+!
+!-m
+!-v
+!-t
+!-n
+!-l
+!-r
+!-j-
+!-ɣ
+!-ŋ
+|-
+!i
+|
+| -iv
+|
+|(-in)
+|
+|
+|(-ɪj)
+|
+|(-ɑŋ)
+|-
+!e
+| -em
+|
+|
+| -en
+|
+| -er
+|(-æj)
+|
+|(-ɑŋ)
+|-
+!æ
+| -æm
+| -æv
+| -æt
+| -æn
+| -æl
+| -ær
+|(-æj)
+|
+|(-ɑŋ)
+|-
+!a
+|
+|
+|
+|(-an)
+|
+|
+|(-aj)
+|
+|(-aŋ)
+|-
+!ɑ
+|
+| -ɑv
+|
+|(-ɑn)
+|(-ɑl)
+| -ɑr
+|(-æj)
+| -ɑɣ
+| -ɑŋ
+|-
+!ə
+| -əm
+| -əv
+| -ət
+| -ən
+| -əl
+| -ər
+|(-ɪj)
+| -əɣ
+|(-ʊŋ)
+|-
+!o
+|
+| -ov
+| -ot
+| -on
+| -ol
+| -or
+|(-oj)
+|
+|(-ʊŋ)
+|-
+!u
+|
+|
+|
+|(-un)
+|
+| -ur
+|(-uj)
+|
+|(-ʊŋ)
+|-
+!əˠ
+|
+|
+|
+|(-əˠn)
+|
+|
+|
+|
+|
+|-
+!æi
+|
+|
+|
+|(-æin)
+|
+|
+|(-æɪj)
+|
+|(-ɑŋ)
+|}
+
+=== Tones ===
+Two tones are attested in Khroskyabs, a high (H) tone, noted σ́, and a high-falling (HL) tone, noted σ̂. Some minimal pairs in Wobzi Khroskyabs are illustrated in the table below.
+
+{| class="wikitable"
+|+Wobzi Khroskyabs tones
+!H
+!Gloss
+!HL
+!Gloss
+|-
+|jlé
+|rabbit
+|jlê
+|flute
+|-
+|ʁbɑ́ɣ
+|to explode
+|ʁbɑ̂ɣ
+|to be numerous
+|-
+|sʁǽi
+|language, sound
+|sʁæ̂i
+|to return, to give back
+|}
+
+Only one syllable in a phonological word can bear a tone, and the surface tones of the other syllable(s), if existent, are derived from the tone-bearing syllable.
+
+==Grammar==
+
+===Noun phrase===
+
+====Number====
+Khroskyabs dialects have two number markers, ''=ne'' for dual and ''=ɟi'' for plural: ''kɑpə̂=ne'' (book={{smallcaps|du}}) "two books", ''kɑpə̂=ɟi'' (book={{smallcaps|pl}}) "(more than two) books". Like many East Asian languages, number markers are prohibited when a numeral is present:
+
+{{interlinear|indent=3
+|kɑpə̂(*{{=}}ne) jnæ̂
+|book(*{{=}}DU) two
+|"two books"}}
+{{interlinear|indent=3
+|kɑpə̂(*{{=}}ɟi) çsə̂m
+|book(*{{=}}PL) three
+|"three books"}}
+
+Khroskyabs presents a rich array of classifiers. A non-exhaustive list of classifiers in the Wobzi dialects is shown below (with the numeral prefix ''ə̂-'' "one").
+
+{| class="wikitable"
+|+
+!Classifier
+!Gloss
+|-
+|ə̂-lo
+|general classifier
+|-
+|ə̂-ʁæi
+|humans
+|-
+|ə̂-rgɑɣ
+|round objects, humans
+|-
+|ə̂-ɬpʰa
+|thin and flat objects
+|-
+|ə̂-gi
+|long objects
+|-
+|ə̂-bjæ
+|clothes
+|-
+|ə̂-χpʰo
+|trees
+|}
+
+====Vocative====
+
+Vocative is formed by assigning a high-falling tone to the penultimate syllable of a noun phrase.
+
+{| class="wikitable"
+|+
+!Noun phrase
+!Vocative form
+|-
+|tʂɑɕî 'Bkrashis'
+|tʂɑ̂ɕi
+|-
+|lŋá=ɟi (child=<small>PL</small>) 'children' 
+|lŋâ=ɟi
+|-
+|vluvzɑ̂ŋdondʐəv 'Blobzang Dondrub'
+|vluvzɑŋdôndʐəv
+|}
+
+====Case marking====
+
+A series of enclitic case markers are attested in Khroskyabs. The Wobzi case markers are listed in the table below.
+
+{| class="wikitable" style="text-align: center"
+|+
+!Case marker
+!Function
+|-
+|=ji
+|genitive, allative
+|-
+|=kʰe
+|dative, ablative
+|-
+|=ɣə
+|ergative, instrumental
+|-
+|=sce
+|comitative
+|-
+|=ʁɑ
+|locative (general)
+|-
+|=sci
+|locative (general)
+|-
+|=tʰɑ
+|locative (surface)
+|-
+|=lɑ
+|locative (inside)
+|-
+|=gə
+|locative (inside)
+|-
+|=vi
+|locative (under)
+|-
+|=çtʰu
+|locative (lower part of places)
+|-
+|=spərə
+|locative (be covered)
+|-
+|=kʰu
+|locative (be wrapped in)
+|}
+
+===Verbal template===
+
+The Khroskyabs verb exhibits a templatic morphology with a strong prefixing preference, which means every affix is obligatorily positioned in its own slot which is impossible to change. The table below shows the verbal template of Wobzi Khroskyabs {{harv|Lai|2017|p=293}}. 
+{| class="wikitable" style="text-align: center
+|+
+!-11
+!-10
+!-9
+!-8
+!-7
+!-6
+!-5
+!-4
+!-3
+!-2
+!-1
+!0
+!1
+!2
+|-
+|sə̂<sub>a</sub>-
+| rowspan="3" |æ-, næ-, etc.
+|u-
+|mə-
+| rowspan="3" |zə̂-
+| rowspan="3" |ʁ-
+| rowspan="3" |N-
+| rowspan="3" |v-
+|s-
+| rowspan="3" |ʁjæ̂-
+| rowspan="3" |NOUN
+| rowspan="3" |VERB
+| rowspan="3" | -ŋ, -j, -n
+| rowspan="3" | -Cɑ/u
+|-
+| rowspan="2" |sə̂<sub>b</sub>-
+|ɑ̂-
+|tə-
+| rowspan="2" |z-
+|-
+|ə̂-
+|ɕə-
+|-
+| colspan="5" |Inflectional
+| colspan="5" |Derivational
+| colspan="2" |Stem
+|Inflectional
+|Reduplication
+|}
+
+Prefixes:
+# Incorporated noun;
+# Reflexive ''ʁjæ̂'';
+# Causative ''s-'' and ''z-'';
+# Causative ''v-'';
+# Autobenefactive ''N-'';
+# Intransitive-passive ''ʁ-'';
+# Conditional ''zə̂-'';
+# Negative ''mə-''/''mɑ-''/''mæ-''/''tə-'', interrogative ''ɕə-'';
+# Inverse ''u-'', irrealis ''ɑ̂-''', interrogative ''ə̂-'';
+# Orientational prefixes ''æ-'', ''næ-'', ''kə-'', ''nə-'', ''læ-'', ''və-'', ''rə-'';
+# Progressive ''sə̂<sub>a</sub>''-, superlative ''sə̂<sub>b</sub>-''.
+
+Suffixes:
+# Person endings: -ŋ, -j, -n;
+# Reduplication
+
+In the following subsections, some characteristics of the affixes are presented.
+
+====Compatibility====
+
+The superlative prefix ''sə̂<sub>b</sub>-'' is compatible with stative verbs and only very few dynamic verbs: ''sə̂<sub>b</sub>-tsʰa'' (<small>SUPERL</small>-be.good<sub>1</sub>) 'best', but *''sə̂<sub>b</sub>-və'' (<small>SUPERL</small>-go<sub>1</sub>).
+
+Negative has four allomorphs. ''mə-'' is used when no other prefix precedes: ''mə-tsʰâ'' (<small>NEG<sub>1</sub></small>-be.good) (it is not good); ''mæ-'' is used when an orientational prefix precedes: ''næ-mæ-tsʰâ'' (<small>IPFV.PST</small>-<small>NEG<sub>2</sub></small>-be.good<sub>1</sub>); ''mɑ-'' is used in perfective or past forms of a verb that prohibits the use of orientational prefixes in such situations: ''mɑ-vdé'' (<small>NEG<sub>3</sub></small>-see<sub>2</sub>) '(s)he did not see' (''vdê'' 'to see' does not allow any orientational prefix in past form); ''tə-'' is used in irrealis situations, imperative, jussive and conditional with ''ɑ̂-'' (not ''zə̂-''): ''æ-tə-dzî-n'' (<small>IMP</small>-<small>NEG<sub>4</sub></small>-eat<sub>1</sub>-2) 'Don't eat!'; ''ɑ̂-tə-dzi'' (<small>JUSS</small>-<small>NEG<sub>4</sub></small>-eat<sub>1</sub>) 'Let her/him not eat. '
+
+The interrogative prefixes ''ə̂-'' and ''ɕə-'' cannot coexist.
+
+The irrealis prefix ''ɑ̂-'' and the conditional prefix ''zə̂-'' cannot coexist.
+
+====Causative s-====
+
+The causative prefix ''s-'' in Wobzi Khroskyabs undergoes various morphophonological processes, including voicing [[Assimilation (phonology)|assimilation]], lateral [[dissimilation]], [[Affricate consonant|affrication]], [[Metathesis (linguistics)|metathesis]] and lateral [[Assimilation (phonology)|assimilation]].
+
+* '''Voicing assimilation''': ''s-'' becomes voiced ''z-'' before voiced stops and stays voiceless before voiceless consonants and sonorants.
+** ''s-'' + ''kʰɑ̂'' 'to give' → ''s-kʰɑ̂'' 'to cause to give'
+** ''s-'' + ''gí'' 'to wear' → ''z-gí'' 'to cause to wear'
+** ''s-'' + ''mó'' 'to be hundry' → ''s-mó'' 'to cause to be hundry''
+* '''Lateral dissimilation''': ''s-'' becomes ''l-'' or ''ɬ-'' (depending on the voicing of the following consonant) when it precedes dental fricatives and affricates.
+** ''s-'' + ''sɑ̂'' 'to kill' → ''ɬ-sɑ̂'' 'to cause to kill'
+** ''s-'' + ''dzî'' 'to eat' → ''l-dzî'' 'to cause to eat'
+* '''Affrication''': Affrication is not productive in Wobzi Khroskyabs. Its trace can be found in the causativisation of the verb ''rʑə̂'' 'to wash', ''l-dʑə̂'' 'to cause to watch', in which the fricative ''ʑ-'' becomes an affricate, ''dʑ-''.
+* '''Metathesis''': There are two types of metatheses in Wobzi Khroskyabs, prefix ordering metathesis and ''vCVr'' metathesis.
+** The prefix ordering metathesis follows the sonority hierarchy of the preinitials. If the prefix ''s-'' is to be added to a verb stem already containing preinitials that ranks higher in the sonority hierarchy, it must be metathesised.
+*** ''s-'' + ''ʁbɑ́ɣ'' 'to explode' → ''ʁ⟨z⟩bɑ́ɣ'' 'to cause to explode''
+*** ''s-'' + ''jbə̂v'' 'to be swollen' → ''j⟨z⟩bə̂v'' 'to cause to be swollen'
+** The preinitials ''l-'' and ''r-'', ''N-'' and ''m-'' drop when the causative prefix ''s-'' is added, while the case is optional for the preinitials ''j-'' and ''v-''.
+*** ''s-'' + ''mkʰæ̂'' 'to be expert' → ''m⟨s⟩kʰæ̂'' → ''s-kʰæ̂'' 'to cause to be expert'
+*** ''s-'' + ''rlǽ'' 'to peel' → ''r⟨s⟩lǽ'' → ''s-lǽ'' 'to cause to peel'
+*** ''s-'' + ''ɬqʰǽl'' 'to be dirty' → ''ɬ⟨s⟩qʰǽl'' → ''s-qʰǽl'' 'to cause to be dirty'
+** ''vCVr'' metathesis, as its name suggests, concerns verbs with ''v-'' as preinitial and ''-r'' as coda.
+*** ''s-'' + ''vzɑ́r'' 'to be spicy' → ''l-zɑ́v'' 'to cause to be spicy'
+** ''vcVr'' metathesis is a Wobzi-specific process, not found in other Khroskyabs dialects.
+** Some verbs with a falling tone undergo tone change into a high one when causative ''s-'' is applied. The process is not productive.
+*** ''s-'' + ''tʰê'' 'to drink' → ''s-tʰé'' 'to cause to drink'
+*** ''s-'' + ''nɑ̂r'' 'to burn' → ''s-nɑ́r'' 'to cause to burn'
+*** ''s-'' + ''brê'' 'to be loud'→ ''z-bré'' 'to play (instrument)'
+** The causative form of the verb ''çtə̂'' 'to be short' is ''s-tə́m'' 'to shorten', with an additional -m coda, which may be the reflex of an old stem alternation.
+
+====Autobenefactive N-====
+
+Autobenefactive ''N-'' appears as an [[Phoneme#Neutralization and archiphonemes|archiphoneme]] having several surface forms according to the phonological environment, especially the [[place of articulation]].
+
+* ''N-'' + ''pʰó'' 'to cut' → ''m-pʰó'' 'to harvest'
+* ''N-'' + ''dʑə̂dʑə'' 'to drag' → ''n-dʑə̂dʑə'' 'to drag for oneself'
+* ''N-'' + ''cʰǽ'' 'to be big' → ''ɲ-cʰǽ'' 'to grow'
+* ''N-'' + ''kʰú'' 'to wear (shoe, sock)' → ''ŋ-kʰú'' 'to wear for oneself'
+* ''N-'' + ''qá'' 'to pull out' → ''ɴ-qá'' 'to pull out for oneself'
+
+====Incorporation====
+
+Noun incorporation is attested in Wobzi Khroskyabs as well as other Khroskyabs dialects. The incorporational construction is mainly formed by a nominal part (in its full form or [[Construct state|''Status Constructus'']] form) and a verbal part. In many cases, a denominal prefix is attached to incorporational forms.
+
+* ''fɕî'' 'tooth' + ''zê'' 'to be small' → ''fɕîze'' 'to be young'
+* ''N-'' 'denominal prefix' + ''tɕʰæ-'' (''Status Constructus'' of ''tɕʰî'' 'road') + ''fsê'' 'to lead' → ''ntɕʰæ̂fse'' 'to guide'
+* ''s-'' 'denominal prefix' + ''kʰrə̂m'' 'discipline' + ''ɕǽ'' 'to go' → ''skʰrəmɕǽ'' 'to scold'
+
+Usually, the nominal part precedes the verbal part, but one example with the verbal part preceding the nominal part is attested:
+
+* ''N-'' 'denominal prefix' + ''tsʰə̂r'' 'to milk' + ''lú'' 'milk' → ''ntsʰərlú'' 'to be good at lactating (cows)'
+
+===Argument indexation===
+
+Khroskyabs dialects distinguish transitive verbs from intransitive verbs unambiguously. Argument indexation presents two patterns, the intransitive pattern and the transitive pattern.
+
+The intransitive paradigm in Wobzi Khroskyabs is illustrated in the table below. There are three suffixes, first person singular ''-ŋ'', first person non-singular (or plural) ''-j'', and second person ''-n''. Third person is unmarked. The subject argument agrees with verb.
+
+{| class="wikitable" style="text-align: center"
+! Person
+! Suffix
+|-
+| 1sg
+| Σ-(ɑ)ŋ
+|-
+| 1pl
+| Σ-j
+|-
+| 2
+| Σ-n
+|}
+
+{{interlinear|indent=3
+|ŋô næ-qʰ-ɑ̂ŋ
+|1SG PST-laugh.II-1SG
+|"I laughed."}}
+
+{{interlinear|indent=3
+|nû næ-qʰî-n
+|2SG PST-laugh.II-2
+|"You laughed."}}
+
+The transitive paradigm exhibits a [[Direct–inverse language|hierarchical alignment]]. Khroskyabs has a 1>2>3 [[Animacy|empathy hierarchy]]. In terms of suffixes, within SAP (Speech-act participants, usually first and second persons) arguments, the verb indexes the P (patientive argument), otherwise it indexes the SAP argument, if exists. The inverse prefix ''u-'' occurs when the P ranks higher than the A, as well as almost all 3→3 scenarios '''with''' a TAM prefix on the verb. In all inverse and 3→3 scenarios, the ergative marker ''=ɣə'' must occur on the A. The transitive paradigm in Wobzi Khroskyabs is shown in the table below.
+
+{| class="wikitable" style="text-align: center
+! rowspan="2" colspan="2" style="background-color:#efefef;" | 
+! colspan="4" style="text-align: center;" style="background-color:#efefef;" | P
+|-
+| 1sg
+| 1pl
+| 2
+| 3
+|-
+| rowspan="4" style="text-align: center;" style="background-color:#efefef;" | A
+| 1sg
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| Σ-n
+| Σ-(ɑ)ŋ
+|-
+| 1pl
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| Σ-n
+| Σ-j
+|-
+| 2
+| rowspan="2" | u-Σ-(ɑ)ŋ
+| rowspan="2" | u-Σ-j
+| style="background-color:#efefef;" | 
+| Σ-n
+|-
+| 3
+| u-Σ-n
+| (u)-Σ
+|}
+
+Below are some examples of the direct configuration:
+
+{{interlinear|indent=3
+|ŋô nû kə-rdû-n
+|1SG 2SG PST-go.to.meet.II-2
+|"I went to meet you."}}
+
+{{interlinear|indent=3
+|ŋô ætə̂ kə-rd-ʊ̂ŋ
+|1SG 3SG PST-go.to.meet.II-1SG
+|"I went to meet her."}}
+
+{{interlinear|indent=3
+|nû ætə̂ kə-rd-ʊ̂ŋ
+|2SG 3SG PST-go.to.meet.II-2
+|"You went to meet her."}}
+
+The inverse configuration:
+
+{{interlinear|indent=3
+|nû{{=}}ɣə ŋô k-u-rd-ʊ̂ŋ
+|2SG{{=}}ERG 1SG PST-INV-go.to.meet.II-1SG
+|"You went to meet me."}}
+
+{{interlinear|indent=3
+|ætə̂{{=}}ɣə ŋô k-u-rd-ʊ̂ŋ
+|3SG{{=}}ERG 1SG PST-INV-go.to.meet.II-1SG
+|"I went to meet her."}}
+
+{{interlinear|indent=3
+|ætə̂{{=}}ɣə nû k-u-rdú-n
+|3SG{{=}}ERG 2SG PST-INV-go.to.meet.II-2
+|"She went to meet you."}}
+
+In 3→3 scenarios, if there is a TAM prefix, the inverse marker must occur, otherwise it does not surface.
+
+{{interlinear|indent=3
+|tʂɑɕî{{=}}ɣə srú dzî
+|Bkrashis{{=}}ERG meat eat.I
+|"Bkrashis eats meat."}}
+
+{{interlinear|indent=3
+|tʂɑɕî{{=}}ɣə srú u-dzí
+|Bkrashis{{=}}ERG meat PST.INV-eat.II
+|"Bkrashis ate meat."}}
+
+Argument indexation in Wobzi Khroskyabs is largely simplified compared to other Khroskyabs dialects. Guanyinqiao, Siyuewu and 'Brongrdzong all present the distinction between singular, dual and plural for first and second persons. The Siyuewu transitive paradigm is illustrated below.
+
+{| class="wikitable"
+! rowspan="2" colspan="2" style="background-color:#efefef;" | 
+! colspan="7" style="text-align: center;" | P
+|-
+| 1sg
+| 1du
+| 1pl
+| 2sg
+| 2du
+| 2pl
+| 3
+|-
+| rowspan="7" style="text-align: center;" | A
+| 1sg
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| rowspan="3" | Σ-n
+| rowspan="3" | Σ-z
+| rowspan="3" | Σ-ɲ
+| Σ-(æ)ŋ
+|-
+| 1du
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| Σ-ɣ
+|-
+| 1pl
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| Σ-j
+|-
+| 2sg
+| rowspan="4" | INV-Σ-(æ)ŋ
+| rowspan="4" | INV-Σ-ɣ
+| rowspan="4" | INV-Σ-j
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| Σ-n
+|-
+| 2du
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| Σ-z
+|-
+| 2pl
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| style="background-color:#efefef;" | 
+| Σ-ɲ
+|-
+| 3
+| INV-Σ-n
+| INV-Σ-z
+| INV-Σ-ɲ
+| (INV)-Σ
+|}
+
+===Stem alternation===
+
+Most Khroskyabs verbs present two stems, a few verbs present three stems, and only a handful have only one stem. Roughly speaking, Stem 1 is used in non-past, Stem 2 in past, and Stem 3 in irrealis contexts. If a verb presents only two stems (without Stem 3), the functions of Stem 3 is covered by Stem 1; and if a verb presents only Stem 1, Stem 1 covers the functions of both Stem 2 and Stem 3. Some verbs may only present Stem 2.
+
+====Strategies====
+
+In all the Khroskyabs dialects known to us, there are generally 5 strategies of stem alternation: tone alternation (glottal inversion), rime alternation, aspration alternation and suppletion. The following description is mainly based on the Wobzi dialect, if not specifically mentioned differently.
+
+Tone alternation is by far the most common strategy between Stem 1 and Stem 2. For monosyllabic verbs, a simple inversion between the high tone and the high falling tone is observed. If the original tone is high, the Stem 2 will be assigned a falling tone and if the original tone is falling, the Stem 1 will be assigned a high tone.
+
+* ''gí'' 'to put on (Stem 1)' → ''gî'' 'to put on (Stem 2)'
+* ''kʰɑ̂'' 'to give (Stem 1)' → ''kʰɑ́'' 'to give (Stem 2)'
+
+As for polysyllabic verbs, there are two situations. If the last syllable has a high tone, it will change to a falling tone in Stem 2, otherwise a high tone is assigned to the last syllable in Stem 2.
+
+* ''ɴqʰɑrŋɑ́'' 'to expel (Stem 1)' → ''ɴqʰɑrŋɑ̂'' 'to expel (Stem 2)'
+* ''tɕə̂rə'' 'to tear (Stem 1)' → ''tɕərə́'' 'to tear (Stem 2)'
+* ''ndʐəvɑ̂'' 'to walk (Stem 1)' → ''ndʐəvɑ́'' 'to walk (Stem 2)'
+
+Rime alternation is also widely attested. Rime alternation is usually combined with tone alternation.
+
+In many cases, only the vowel is changed in Stem 2.
+
+* ''lǽ'' 'to release (Stem 1)' → ''lî'' 'to release (Stem 2)'
+* ''mɑ́ɣ'' 'not to be (Stem 1)' → ''mə̂ɣ'' 'not to be (Stem 2)'
+
+In some other cases, the rime in Stem 2 is changed to ''-əɣ'' in spite of the original rime.
+
+* ''fsǽ'' 'to be full (Stem 1)' → ''fsə̂ɣ'' 'to be full (Stem 2)'
+* ''ndzræ̂v'' 'to suck (Stem 1)' → ''ndzrə́ɣ'' 'to suck (Stem 2)'
+
+Some Stem 2 forms present open syllables, while their corresponding Stem 1 forms are closed syllables.
+
+* ''vʑǽr'' 'to shave (Stem 1)' → ''vʑî'' 'to shave (Stem 2)'
+
+Aspiration alternation is rare. It is only attested in ''(rə-)tô'' 'to come (Stem 1)', whose Stem 2 is ''(rə-)tʰó''.
+
+Suppletion is found in three-stem verbs. These verbs are motion verbs or conveyance verbs. See the table below.
+
+{| class="wikitable"
+! Stem 1
+! Stem 2
+! Stem 3
+! Gloss
+|-
+| (rə-)və̂
+| (rə-)ɕə̂
+| (rə-)ɕǽ
+| to go
+|-
+| (rə-)tô
+| (rə-)tʰód
+| (rə-)və̂, (rə-)vjî
+| to come
+|-
+| (rə-)vǽ
+| (rə-)zə́m
+| (rə-)zə̂m
+| to bring
+|-
+| (rə-)tʰǽ
+| (rə-)tʰə̂ɣ
+| (rə-)vǽ
+| to take
+|}
+
+====Functions====
+Verb stems usually combine with orientational prefixes to express different properties of tense, aspect, modality and evidentiality. Stem 1 is employed in non-past contexts, Stem 2 in past and perfective contexts and Stem 3 in irrealis contexts.
+
+A verb in Stem 1 can be used without an orientational prefix for a generic fact. It can also combine with the orientational prefix ''rə-'' in a sensory or inferential non-past context.
+
+{{interlinear|indent=3
+|sú{{=}}tə rnɑbɑ̂ dzî
+|cattle{{=}}DEF grass eat.I
+|"Cattle eat grass."}}
+
+{{interlinear|indent=3
+|sú{{=}}tə rnɑbɑ̂ r-u-dzî
+|cattle{{=}}DEF grass NPST-INV-eat.I
+|"The cattle are eating/will eat grass."}}
+
+Stative verbs distinguish past imperfective from perfective, while dynamic verbs present only a general past tense. Stem 2 is required in these situations. Examples of the Stem 2 of the stative verb ''ndæ̂'' 'to like' is illustrated below.
+
+{{interlinear|indent=3
+|cə̂{{=}}ɣə tʂɑɕî n-u-ndə̂ɣ
+|3SG{{=}}ERG Bkrashis IPFV.PST-INV-like.II
+|"He liked Bkrashis."}}
+
+{{interlinear|indent=3
+|cə̂{{=}}ɣə tʂɑɕî u-ndə̂ɣ'
+|3SG{{=}}ERG Bkrashis PFV-INV-like.II
+|"He turned out to like Bkrashis."}}
+
+Dynamic verbs do not make the distinction between imperfective and perfective, therefore, their meaning in Stem 2 depends on the context.
+
+{{interlinear|indent=3
+|cə̂ grə̂mde kə-ɕə̂
+|3SG Thugschen PST-go.II
+|"He has gone/was going to Thugschen."}}
+
+===Denominalisation===
+
+Denominalisation is mainly through prefixation in Khroskyabs. There are five denominal prefixes attested in Wobzi Khroskyabs, listed in the table below. The prefixes are of limited productivity. The most productive one is ''n-''.
+
+{| class="wikitable"
+! Prefix
+! Transitivity of derived verbs
+! Examples
+|-
+| ʁ-
+| intransitive
+| ʁ-vdʑə́ (<small>denom</small>-friend ) "exist (human)"
+|-
+| rowspan="2" | N-
+| rowspan="2" | intransitive, transitive
+| n-vɑ́ɣ (<small>denom</small>-alcohol) "be drunk" (intransitive)
+|-
+| n-lvɑ́ɣ (<small>denom</small>-shoulder) "carry on the shoulder"
+|-
+| m-
+| intransitive, transitive
+| m-ná (<small>denom</small>-sauce) "dip"
+|-
+| r-
+| transitive
+| r-cʰə̂ (<small>denom</small>-half) "split"
+|-
+| s-
+| transitive
+| ʁ⟨z⟩ɟó (⟨<small>denom</small>⟩hole)
+|}
+
+Apart from prefixation, suffixation is also attested. The Wobzi verb ''mkʰə̂-rə'' "to emit smoke" is based on the noun ''mkʰə́'' "smoke", suffixed by ''-rə''. In Siyuewu Khroskyabs which preserves more stop codas, a ''-d'' suffix is attested with certain denominalised verbs: ''rvî'' "axe" vs. ''rvæ̂d'' "to chop", ''dzí'' "food" vs. ''dzîd'' "to eat", etc.
+
+Zero derivation is found between verbs and nouns. The form ''rmê'' can either be a noun meaning "name", or a verb meaning "to be named". The direction of derivation is unknown.
+
+In a few cases, subtraction can play a role in denominalisation. The noun ''mbərlə́n'' "plane (tool)" is borrowed from Tibetan འབུར་ལེན་ ''bur.len'' "plane (tool)", and the derived verb form is ''mbərlə́'' "to plane", with the final ''-n'' dropped.
+
+<!--
+===Tense, aspect, mood and evidentiality===
+
+===Complementation===
+
+===Relativisation===
+
+==Vocabulary==
+
+==Dialectal variance==-->
+
+==References==
+{{Reflist}}
+
+==Sorces==
+{{refbegin}}
+* {{Cite book |last=Huang |first=Bufan 黄布凡 |title=Lāwùróng yǔ yánjiū |date=2007 |publisher=Minzu chubanshe |location=Beijing |language=zh |script-title=zh:拉坞戎语研究}}
+* {{Cite journal |last=Lai |first=Yunfan |date=2013a |title=Érèhuà de fǔyīn chóngdié |script-title=zh:俄热话的辅音重叠 |trans-title=Consonant Reduplication in Wobzi |journal=Mínzú yǔwén |language=zh |volume=2013 |issue=6 |pages=12–18 |url=https://www.cnki.com.cn/Article/CJFDTOTAL-MZYW201306002.htm}}
+* {{Cite thesis |last=Lai |first=Yunfan |title=La morphologie affixale du lavrung wobzi |date=June 2013b |degree=Master's |publisher=Université Sorbonne Nouvelle - Paris III |language=fr |url=https://www.academia.edu/3990414}}
+* {{Cite journal |last=Lai |first=Yunfan |date=2015 |title=The Person Agreement System Of Wobzi Lavrung (Rgyalrongic, Tibeto-Burman) |url=https://www.academia.edu/3703201 |journal=Transactions of the Philological Society |volume=113 |issue=3 |pages=271–285 |doi=10.1111/1467-968X.12051}}
+* {{Cite journal |last=Lai |first=Yunfan |date=2016 |title=Causativisation in Wobzi and Other Khroskyabs Dialects |url=https://hal.archives-ouvertes.fr/hal-01423246/file/causative_clao.pdf |journal=Cahiers de Linguistique Asie Orientale |volume=45 |issue=2 |pages=148–175 |doi=10.1163/19606028-00452p03}}
+* {{Cite thesis |last=Lai |first=Yunfan |title=A Grammar of Wobzi Khroskyabs |date=2017 |degree=PhD |publisher=Université Sorbonne Nouvelle - Paris III |url=https://tel.archives-ouvertes.fr/tel-01571916/ |language=fr |trans-title=Wobzi Khroskyab Grammar}}
+* {{Cite journal |last=Lai |first=Yunfan |date=2018 |title=Relativisation in Wobzi Khroskyabs and the integration of genitivisation |url=https://benjamins.com/catalog/ltba.17015.lai |journal=Linguistics of the Tibeto-Burman Area |volume=4 |issue=2 |pages=219–262 |doi=10.1075/ltba.17015.lai}}
+{{refend}}
+
+{{Sino-Tibetan languages}}
+{{Na-Qiangic languages}}
+{{Languages of China}}
+
+[[Category:Qiangic languages]]
+[[Category:Languages of China]]

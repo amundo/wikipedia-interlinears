@@ -1,0 +1,264 @@
+{{Short description|Lakes Plain language of West Papua, Indonesia}}
+{{distinguish|Foi language|Turu language|Yawa language}}
+{{Infobox language
+|name=Iau
+|nativename=''Edopi, Turu''
+|states=[[Indonesia]]
+|region=[[Western New Guinea]]
+|speakers=2,100 
+|date=2000–2012
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Lakes Plain languages|Lakes Plain]]
+|fam2=[[Tariku languages|Tariku]]
+|dia1=Foi
+|dia2=Turu
+|dia3=Iau
+|dia4=Edopi
+|lc1=tmu|ld1=Iau
+|lc2=dbf|ld2=Edopi
+|glotto=cent2110
+|glottorefname=Central Tariku
+}}
+
+'''Iau''' (Iaw, Yau) or '''Turu''' is a [[Lakes Plain languages|Lakes Plain language]] of [[West Papua (region)|West Papua]], [[Indonesia]], spoken by about 600 people. Most speakers are monolingual, and their number is growing. Other peoples in the western Lakes Plain area speak basic Iau. Iau is heavily [[tonal language|tonal]], with 11 tones on nouns and 19 simple and compound tones on verbs.
+
+==Names and dialects==
+Dialects are Foi (Poi), Turu, Edopi (Elopi), and Iau proper; these may be distinct enough to be considered separate languages.  Foi is spoken on the large [[Tariku River]] (Rouffaer River), Turu on the [[Van Daalen River]], Iau proper between the rivers, and Edopi at the juncture of the Tariku and Kliki (Fou) rivers.
+
+Another name for the language is Urundi ~ Ururi. Dosobou (Dou, Doufou) is specifically Edopi.
+
+In [[Puncak Jaya Regency]], Iau dialects are spoken in Bakusi, Duita, Fawi, and Fi villages, located between the [[Rouffaer River]] and [[Van Daalen River]] in Fawi District.<ref name="Ethnologue22-ID">{{cite web |url=https://www.ethnologue.com/country/ID/languages |title=Indonesia languages |work=[[Ethnologue]]: Languages of the World |edition=22nd |editor1-last=Eberhard |editor1-first=David M. |editor2-last=Simons |editor2-first=Gary F. |editor3-last=Fennig |editor3-first=Charles D. |date=2019 |location=Dallas |publisher=[[SIL International]]}}</ref>
+
+==Phonology==
+The following discussion is based on Bateman (1990a).
+
+===Consonants===
+
+{|class=wikitable style=text-align:center
+|+ Consonant phonemes of Iau
+|-
+!
+![[Labial consonant|Labial]]
+![[Coronal consonant|Coronal]]
+![[Velar consonant|Velar]]
+|-
+!Voiceless [[plosive]]
+|
+|{{IPAslink|t}} {{IPAblink|t}}
+|{{IPAslink|k}} {{IPAblink|k}}
+|-
+![[Implosive consonant|Implosive]]&ndash;[[Nasal consonant|nasal]]
+|{{IPAslink|b}} {{IPAblink|ɓ}}
+|{{IPAslink|d}} {{IPAblink|ɗ}}
+|
+|-
+! [[Fricative]]
+|{{IPAslink|f}} [{{IPAlink|ɸ}} ~ {{IPAlink|h}}]
+|{{IPAslink|s}} {{IPAblink|s}}
+|
+|}
+
+There are six consonants. /t d/ are dental; /s/ is alveolar. /b d/ are implosive, and may be realized as nasals {{IPAblink|m}}, {{IPAblink|n}} before the low nasal vowel /a/ ([ã]). /d/ may also be realized as the liquid {{IPAblink|l}} before /a/.
+
+/f/ is pronounced {{IPAblink|ɸ}}~{{IPAblink|h}} word-initially, or optionally as {{IPAblink|x}} before the high nonback vowels /i ɨ/. The labial allophone {{IPAblink|ɸ}} is preferred in the Foi dialect; the glottal allophone {{IPAblink|h}} is preferred in Turu. /f/ is always pronounced {{IPAblink|h}} word-medially and as an unreleased plosive {{IPAblink|p̚}} word-finally. /f/ is the only consonant that can occur word-finally, and occurs only in a limited number of words.
+
+===Vowels===
+{|class=wikitable style=text-align:center
+|-
+!  
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+![[Fricative vowel|Fricated]]
+| {{IPAslink|i̝}} {{IPA|[ij]}}
+|
+|
+|-
+![[Close vowel|Close]]
+| {{IPAslink|i}}
+|
+| {{IPAslink|u}}
+|-
+! [[Near-close vowel|Near-close]]
+| {{IPAslink|ɪ}}
+|
+| {{IPAslink|ʊ}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| {{IPAslink|e}} [{{IPA link|ɛ}} ~ {{IPA link|æ}}]
+|
+| {{IPAslink|o}} {{IPAblink|ɔ}}
+|-
+![[Open vowel|Open]]
+|
+| {{IPAslink|a}} {{IPAblink|ã}}
+|
+|}
+
+The low vowel is always nasalized, except when it is a component of a diphthong. The open-mid front vowel varies between [ɛ] and [æ].
+
+The following diphthongs exist:
+{|class="wikitable IPA" style=text-align:center
+|-
+!
+! ɛ
+! ɪ
+! ʊ
+! i
+! u
+! i̝
+|-
+! a
+| aɛ
+| aɪ
+| aʊ
+| ai 
+| au
+| ai̝
+|-
+! ɛ
+|
+|
+|
+| ɛi
+|
+|
+|-
+! ɔ
+| ɔɛ
+|
+|
+| ɔi
+|
+|
+|-
+! ʊ
+|
+| ʊɪ
+|
+|
+|
+|
+|-
+! u
+|
+|
+|
+| ui
+|
+|
+|}
+No diphthongs begin with /ɪ i i̝/ or end in /a ɔ/.
+
+There are two triphthongs: /aui/ and /aʊɪ/. The back components of these triphthongs are realized as unrounded [ɯ] and [ɯ̽].
+
+=== Syllables ===
+Syllables consist minimally of a vowel. They may include a single onset consonant and/or a single coda consonant. Diphthongs and triphthongs are attested. The template is (C)(V)V(V)(C). The tone-bearing unit is the syllable.
+
+=== Stress ===
+Stress in Iau is predictable: it falls on the final syllable of disyllabic words. (Words may not be longer than two syllables.) The interaction between stress and tone is not clear.
+
+=== Tone ===
+Iau is the most tonally complex Lakes Plain language. Unlike other Lakes Plain languages which can be disyllabic or trisyllabic, Iau word structure is predominantly monosyllabic. Iau has eight phonemic tones, transcribed by Bateman using numerical [[tone number]]s (with 1 high and 5 low, as in much of Africa and America but the opposite of the convention used with Asian languages): two level tones (low and high), two rising tones (low rising and high rising), three falling tones (high-low, high-mid, and mid-low), and one falling-rising tone. Phonetically, these are:<ref name="Foley-NWNG"/>
+*high 2 {{IPA|[˦]}} 
+*mid 3 {{IPA|[˧]}} 
+*high rising 21 {{IPA|[˦˥]}} 
+*low rising 43 {{IPA|[˨˧]}} 
+*high&ndash;low falling 24 {{IPA|[˦˨]}} 
+*high&ndash;mid falling 23 {{IPA|[˦˧]}} 
+*mid&ndash;low falling 34 {{IPA|[˧˨]}} 
+*falling&ndash;rising 243 {{IPA|[˦˨˧]}}
+
+A sequence of two tones (called a tone cluster) may occur on one syllable. There are eleven tone clusters that can occur on verbs to mark aspect; only three of these can occur on nouns.
+
+Some [[minimal pair|minimal sets]] in Iau illustrating phonemic tonal contrasts:<ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |authorlink=William A. Foley |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433-568 |isbn=978-3-11-028642-7}}</ref>
+
+{{col-begin}}
+{{col-break}}
+*{{IPA|be˦}} 'father-in-law'
+*{{IPA|be˧}} 'fire'
+*{{IPA|be˦˥}} 'snake'
+*{{IPA|be˨˧}} 'path'
+*{{IPA|be˦˨}} 'thorn'
+*{{IPA|be˦˧}} 'flower'
+*{{IPA|be˧˨}} 'small eel'
+*{{IPA|be˦˨˧}} 'tree fern'
+{{col-break}}
+*{{IPA|te˦}} 'pig wallow'
+*{{IPA|te˧}} 'mosquito'
+*{{IPA|te˦˥}} 'man'
+*{{IPA|te˨˧}} 'edible tuber'
+*{{IPA|te˦˨}} 'calf of leg'
+*{{IPA|te˦˧}} 'inlet of body of water'
+*{{IPA|te˧˨}} 'flooring'
+{{col-end}}
+
+Examples of monosyllabic words with the three 'compound' tones are {{IPA|/da˧˦˧/}} 'mountain', {{IPA|/oi˦˥˧/}} 'hand' and {{IPA|/sae˨˧˦˧/}} 'knife'.
+
+There is [[downdrift]] after low (3) and falling tones, and also of (24) following (243). A high-rising (21) tone rises slightly after another. 
+
+Tone is lexical on nouns, pronouns, numerals, prepositions and other parts of speech, but verbs are unmarked for tone. In verbs, each tone represents a different aspect or [[aktionsart]]. The complex system of aspectual marking via tone is discussed in Bateman (1986).
+
+====Aspect====
+Iau also displays complex tonal verb morphology. Verbal roots do not have any inherent tone, but tone is used to mark [[grammatical aspect|aspect]] on verbs. Example paradigms:<ref name="Foley-NWNG"/>
+{|class = "wikitable IPA"
+! Tone !! Aspect !! ba 'come'  !! tai 'moving s.t. toward' !! da 'locate s.t. inside'
+|-
+| tone 2 || totality of action, punctual || ba˦ 'came'  || tai˦ 'pulled' || da˦ 'ate, put it in (stomach)'
+|-
+| tone 3 || resultative durative || ba˧ 'has come'  || tai˧ 'has been pulled off' || da˧ 'has been loaded onto s.t.'
+|-
+| tone 21 || totality of action, incomplete || ba˦˥ 'might come'  || tai˦˥ 'might pull' || 
+|-
+| tone 43 || resultative punctual || ba˨˧ 'came to get'  || tai˨˧ 'land on s.t.' || da˨˧ 'dip into water, wash s.t.'
+|-
+| tone 24 || [[telicity|telic]] punctual || ba˦˨ 'came to end'  || tai˦˨ 'fell to ground' || da˦˨ 'eaten it all up'
+|-
+| tone 23 || telic, incomplete || ba˦˧ 'still coming'  || tai˦˧ 'still falling' || da˦˧ 'still eating it up'
+|-
+| tone 34 || totality of action, durative || ba˧˨ 'be coming'  || tai˧˨ 'be pulling' || 
+|-
+| tone 243 || telic durative || ba˦˨˧ 'sticking to'  || tai˦˨˧ 'be falling' || 
+|-
+|  ||  ||  || tai˦˥–˧˨ 'pull on s.t., shake hands' || 
+|-
+|  ||  ||  || tai˦˥–˧ 'have pulled s.t., shook hands' || 
+|}
+
+====Mood====
+Tonal alternations can also serve as final [[grammatical mood|mood]] and speech act particles.<ref name="Foley-NWNG"/>
+*''tone 2'': speaker assumes the information is correct (such as rhetorical questions)
+*''tone 34'': speaker asks a question to confirm what he believes is true (such as yes-no questions)
+*''tone 23'': speaker is uncertain about the actual state of affairs
+
+Example sentences:<ref name="Foley-Typology">{{cite book |last=Foley |first=William A. |authorlink=William A. Foley |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The morphosyntactic typology of Papuan languages |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=895-938 |isbn=978-3-11-028642-7}}</ref>
+
+{{interlinear|number=(1)|glossing=no abbr
+|a˦˧ ty˦˥ bi˦˥e˦ a˦˥se˦ u˨˧ di˦ '''be˦'''?
+|father people PN SEQ before kill.TOTAL.PUNCT '''Q.FACT'''
+|'So the people from Bie killed father first?'}}
+
+{{interlinear|number=(2)|glossing=no abbr
+|fv˦˥ ba˦˥ '''ba˧˨'''?
+|canoe come.TOTAL.INCOMPL '''Q.CONFIRM'''
+|'Is the plane coming?'}}
+
+{{interlinear|number=(3)|glossing=no abbr
+|da˦ a˦˨˧ tv˦ '''be˦˧'''?
+|2.PL land travel.TOTAL.PUNCT '''Q.GUESS'''
+|'(I'm guessing) did you (pl) go by land?'}}
+
+==References==
+{{reflist}}
+*Bateman, Janet. 1982. The topic-comment construction in Iau. In Marit Kana (ed.), ''Workpapers in Indonesian linguistics'', vol. 1, 28–49. Irian Jaya, Indonesian: Universitas Cenderawasih.
+*Bateman, Janet. 1986. Iau verb morphology. ''NUSA: Linguistic Studies of Indonesian and Other Languages in Indonesia'' 26. Jakarta: Universitas Katolik Atma Jaya. 1–76. http://sealang.net/archives/nusa/pdf/nusa-v26.pdf<nowiki/>
+*Bateman, Janet. 1990a. Iau segmental and tone phonology. ''NUSA: Linguistic Studies of Indonesian and Other Languages in Indonesia'' 32. 29–42. http://sealang.net/archives/nusa/pdf/nusa-v32-p29-42.pdf
+*Bateman, Janet. 1990b. Pragmatic functions of the tone morphemes on illocutionary force particles in Iau. ''NUSA: Linguistic Studies of Indonesian and Other Languages in Indonesia'' 32. 1–28.
+*Edmondson, A., Janet Bateman & Helen Miehle. 1992. Tone contours and tone clusters in Iau. ''Proceedings of the Annual Meeting of the Berkeley Linguistics Society: Special Session on the Typology of Tone Languages'', vol. 18, 92–103. Berkeley, CA: Berkeley Linguistics Society. http://journals.linguisticsociety.org/proceedings/index.php/BLS/article/viewFile/1544/1327<nowiki/>
+{{Languages of Indonesia}}
+{{Lakes Plain languages}}
+[[Category:Tonal languages]]
+[[Category:Languages of western New Guinea]]
+[[Category:Tariku languages]]

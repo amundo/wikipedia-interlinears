@@ -1,0 +1,642 @@
+{{Use mdy dates|date=June 2021}}
+{{Short description|Central Algonquian language of North America}}
+{{Infobox language
+| name             = Ojibwe
+| altname          = Ojibwa
+| nativename       = ''Anishinaabemowin'', ᐊᓂᐦᔑᓈᐯᒧᐎᓐ
+| pronunciation    = {{IPA-alg|anɪʃːɪnaːpeːmowɪn|}}
+| states           = Canada, United States
+| region           = Canada: [[Quebec]], Ontario, [[Manitoba]], Saskatchewan, groups in [[Alberta]], British Columbia; United States: [[Michigan]], [[Wisconsin]], [[Minnesota]], groups in [[North Dakota]], [[Montana]]
+| ethnicity        = [[Ojibwe]] people
+| speakers         = {{sigfig|48,080|1}}<!--17,900 Ojibwa in Canada (2016 census), 12,900 Oji-Cree (2016 census), 1,760 Algonquin (2011 census) => 35,870 total, 5,000 Chippewa USA (1990 census?), 7,210 Ojibwa United States (2010 census) -->
+| date             = 1990–2016 censuses
+| ref              = e24
+| refname          = Ojibwa
+| familycolor      = Algic
+| fam1             = [[Algic languages|Algic]]
+| fam2             = [[Algonquian languages|Algonquian]]
+| dialects         = (see [[Ojibwe dialects]])
+| script           = [[Latin script|Latin]] ([[Ojibwe writing systems#Romanized Ojibwe systems|various alphabets]] in Canada and the United States), <br />[[Ojibwe writing systems#Ojibwe syllabics|Ojibwe syllabics]] in Canada, <br />[[Great Lakes Algonquian syllabics]] in the United States
+| iso1             = oj
+| iso1comment      = – Ojibwa
+| iso2             = oji
+| iso2comment      = – Ojibwa
+| iso3             = oji
+| iso3comment      = – Ojibwa
+| lc1              = ojs
+| ld1              = [[Oji-Cree language|Severn Ojibwa]]
+| lc2              = ojg
+| ld2              = [[Eastern Ojibwa language|Eastern Ojibwa]]
+| lc3              = ojc
+| ld3              = [[Central Ojibwa language|Central Ojibwa]]
+| lc4              = ojb
+| ld4              = [[Northwestern Ojibwa]]
+| lc5              = ojw
+| ld5              = [[Western Ojibwa language|Western Ojibwa]]
+| lc6              = ciw
+| ld6              = [[Chippewa language|Chippewa]]
+| lc7              = otw
+| ld7              = [[Ottawa dialect|Ottawa]]
+| lc8              = alq
+| ld8              = [[Algonquin language|Algonquin]]<!--This code isn't part of the macrolanguage per SIL-->
+| lingua           = 62-ADA-d [[Ojibwe dialects#Language code correspondence table|(Ojibwa+Anissinapek)]]
+| glotto           = ojib1241
+| glottoname       = Ojibwa
+| map              = Anishinaabewaki.jpg
+| mapcaption       = Location of all Anishinaabe Reservations/Reserves and cities with an Anishinaabe population in North America, with diffusion rings about communities speaking Anishinaabe languages.
+| notice           = IPA
+| image            = Anishinaabemowin header.svg
+| imagecaption     = 
+}}
+{{Contains special characters|Canadian}}
+
+'''Ojibwe''' {{IPAc-en|oʊ|ˈ|dʒ|ɪ|b|w|eɪ}},<ref>Laurie Bauer, 2007, ''The Linguistics Student's Handbook'', Edinburgh</ref> also known as '''Ojibwa''' {{IPAc-en|oʊ|ˈ|dʒ|ɪ|b|w|ə}},<ref>{{cite web| editor-last1= Hammarström| editor-first1 = Harald| editor-last2 = Forke| editor-first2 = Robert| editor-last3 = Haspelmath| editor-first3 = Martin| editor-last4 = Bank| editor-first4 = Sebastian| year = 2020|title = Ojibwa | work = [[Glottolog]] 4.3| url = https://glottolog.org/resource/languoid/id/ojib1241}}</ref><ref name="ISO 639-2/RA">{{cite web |url=https://www.loc.gov/standards/iso639-2/php/langcodes_name.php?code_ID=341 |title=Documentation for ISO 639 identifier: oji |publisher=ISO 639-2 Registration Authority – Library of Congress |access-date=July 4, 2017 |quote=Name: Ojibwa}}</ref><ref name="ISO 639-3/RA">{{cite web |url=http://www-01.sil.org/iso639-3/documentation.asp?id=oji |title=Documentation for ISO 639 identifier: oji |publisher=ISO 639-3 Registration Authority – SIL International |access-date=July 4, 2017 |quote=Name: Ojibwa}}</ref> '''Ojibway''', '''Otchipwe''',<ref name="A Theoretical and Practical Grammar of the Otchipwe Language">R. R. Bishop Baraga, 1878. [https://books.google.com/books?id=13JdGipTtI0C&printsec=frontcover&hl=en&sa=X&ved=0CC0QuwUwAGoVChMI2qbnpa2wxwIVCFKSCh02RwEk#v=onepage&q&f=false ''A Theoretical and Practical Grammar of the Otchipwe Language'']</ref> or '''Ojibwemowin''', is an [[Indigenous languages of the Americas|indigenous language of North America]] of the [[Algonquian languages|Algonquian language family]].<ref name="Goddard, Ives, 1979">Goddard, Ives, 1979.</ref><ref name="Bloomfield, Leonard, 1958">Bloomfield, Leonard, 1958.</ref> The language is characterized by a series of [[dialect]]s that have local names and frequently local [[writing system]]s. There is no single dialect that is considered the most prestigious or most prominent, and no standard writing system that covers all dialects.
+
+Dialects of Ojibwemowin are spoken in Canada, from southwestern [[Quebec]], through [[Ontario]], Manitoba and parts of [[Saskatchewan]], with outlying communities in [[Alberta]];<ref>Valentine, J. Randolph, 1994, p. 6.</ref><ref name="Nichols, John, 1980, pp. 1-2">Nichols, John, 1980, pp. 1–2.</ref> and in the United States, from [[Michigan]] to [[Wisconsin]] and [[Minnesota]], with a number of communities in [[North Dakota]] and [[Montana]], as well as groups that removed to [[Kansas]] and [[Oklahoma]] during the [[Indian Removal Act|Indian Removal period]].<ref name="Nichols, John, 1980, pp. 1-2"/><ref>Rhodes, Richard, and Evelyn Todd, 1981.</ref> While there is some variation in the classification of its dialects, at least the following are recognized, from east to west: [[Algonquin language|Algonquin]], [[Eastern Ojibwa language|Eastern Ojibwe]], [[Ottawa dialect|Ottawa (Odawa)]], [[Western Ojibwa language|Western Ojibwe (Saulteaux)]], [[Oji-Cree language|Oji-Cree (Severn Ojibwe)]], [[Northwestern Ojibwa|Northwestern Ojibwe]], and [[Chippewa language|Southwestern Ojibwe (Chippewa)]]. Based upon contemporary field research, J. R. Valentine also recognizes several other dialects: Berens Ojibwe in northwestern Ontario, which he distinguishes from Northwestern Ojibwe; North of (Lake) Superior; and Nipissing. The latter two cover approximately the same territory as [[Central Ojibwa language|Central Ojibwa]], which he does not recognize.<ref name="Valentine, J. Randolph 1994, p. 456">Valentine, J. Randolph, 1994, p. 456.</ref>
+
+The aggregated dialects of Ojibwemowin comprise the second most commonly spoken [[First Nations]] language in Canada (after [[Cree language|Cree]]),<ref name="census">{{cite web|title=Various Languages Spoken (147), Age Groups (17A) and Sex (3) for the Population of Canada, Provinces, Territories, Census Metropolitan Areas and Census Agglomerations, 2006 Census – 20% Sample Data|url=http://www12.statcan.ca/census-recensement/2006/dp-pd/tbt/Rp-eng.cfm?LANG=E&APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=837928&GK=0&GRP=1&PID=89189&PRID=0&PTYPE=88971,97154&S=0&SHOWALL=0&SUB=0&Temporal=2006&THEME=70&VID=0&VNAMEE=&VNAMEF=|website=Statistics Canada}}</ref> and the fourth most widely spoken in the United States or Canada behind [[Navajo language|Navajo]], the [[Inuit languages]] and Cree.<ref>{{Cite web|title=Census in Brief: The Aboriginal languages of First Nations people, Métis and Inuit|url=https://www12.statcan.gc.ca/census-recensement/2016/as-sa/98-200-x/2016022/98-200-x2016022-eng.cfm|access-date=2021-07-08|website=www12.statcan.gc.ca|language=en}}</ref>
+
+Ojibwemowin is a relatively healthy indigenous language. The Waadookodaading Ojibwe Language Immersion School teaches all classes to children in Ojibwe only.<ref>{{cite web|title=Waadookodading: Ojibwe Language Immersion School|url=http://theways.org/story/waadookodaading|website=theways.org}}</ref>
+
+==Classification==
+The Algonquian language family of which Ojibwemowin is a member is itself a member of the [[Algic languages|Algic]] language family, other Algic languages being [[Wiyot language|Wiyot]] and [[Yurok language|Yurok]].<ref name="Goddard, Ives, 1979"/> Ojibwe is sometimes described as a [[Central Algonquian languages|Central Algonquian]] language, along with [[Fox language|Fox]], [[Cree language|Cree]], [[Menominee language|Menominee]], [[Miami-Illinois language|Miami-Illinois]], [[Potawatomi language|Potawatomi]], and [[Shawnee language|Shawnee]].<ref name="Goddard, Ives, 1979"/> Central Algonquian is a geographical term of convenience rather than a [[Historical linguistics|genetic subgroup]], and its use does not indicate that the Central languages are more closely related to each other than to the other Algonquian languages.<ref>Goddard, Ives, 1978; Goddard, Ives, 1979.</ref>
+
+===Exonyms and endonyms===
+The most general Indigenous [[Exonym and endonym|designation]] for the language is {{lang|oj|Anishinaabemowin}} 'speaking the native language' ({{lang|oj|Anishinaabe}} 'native person,' verb suffix {{lang|oj|–mo}} 'speak a language,' suffix {{lang|oj|–win}} 'nominalizer'),<ref>Valentine, J. Randolph, 1994, p. 1.</ref><ref>Nichols, John and Earl Nyholm, 1995, p. 10.</ref> with varying spellings and pronunciations depending upon dialect. Some speakers use the term {{lang|oj|Ojibwemowin}}.<ref name="Valentine, J. Randolph 1994, p. 1">Valentine, J. Randolph, 1994, p. 1, Fn. 2.</ref><ref>Nichols, John and Earl Nyholm, p. 105.</ref> The general term in Oji-Cree (Severn Ojibwe) is {{lang|oj|Anihshininiimowin}}, although {{lang|oj|Anishinaabemowin}} is widely recognized by Severn speakers.<ref name="Valentine, J. Randolph 1994, p. 1"/> Some speakers of [[Western Ojibwa language|Saulteaux Ojibwe]] refer to their language as {{lang|oj|Nakawemowin}}.<ref name="Valentine, J. Randolph 1994, p. 1"/> The [[Ottawa dialect]] is sometimes referred to as {{lang|oj|Daawaamwin}},<ref>Baraga, Frederic, 1878, p. 336.</ref> although the general designation is {{lang|oj|Nishnaabemwin}}, with the latter term also applied to {{lang|oj|Jibwemwin}} or [[Eastern Ojibwa language|Eastern Ojibwe]].<ref name="Valentine, J. Randolph, 2001">Valentine, J. Randolph, 2001.</ref> Other local terms are listed in [[Ojibwe dialects]]. English terms include ''Ojibwe,'' with variants including ''Ojibwa'' and ''Ojibway''.<ref>Valentine, J. Randolph, 1994, p. 2.</ref> The related term ''Chippewa'' is more commonly employed in the United States and in southwestern Ontario among descendants of Ojibwe migrants from the United States.<ref>Valentine, J. Randolph, 1994, pp. 3–4.</ref>
+
+===Relationship with Potawatomi===
+Ojibwe and [[Potawatomi language|Potawatomi]] are frequently viewed as being more closely related to each other than to other Algonquian languages.<ref>Goddard, Ives, 1978, pp. 585–586; Valentine, J. Randolph, 1994, pp. 100–102.</ref> Ojibwe and Potawatomi have been proposed as likely candidates for forming a genetic subgroup within [[Proto-Algonquian language|Proto-Algonquian]], although the required research to ascertain the linguistic history and status of a hypothetical "Ojibwe–Potawatomi" subgroup has not yet been undertaken. A discussion of Algonquian family subgroups indicates that "Ojibwe–Potawatomi is another possibility that awaits investigation."<ref name="Goddard, Ives, 1979, p. 95">Goddard, Ives, 1979, p. 95.</ref> In a proposed consensus classification of Algonquian languages, Goddard (1996) classifies Ojibwa and Potawatomi as "Ojibwayan," although no supporting evidence is adduced.<ref>Goddard, Ives, 1996, p. 4.</ref>
+
+The Central languages share a significant number of common features. These features can generally be attributed to [[Sprachbund|diffusion]] of features through borrowing: "Extensive lexical, phonological, and perhaps grammatical borrowing—the diffusion of elements and features across language boundaries—appears to have been the major factor in giving the languages in the area of the Upper Great Lakes their generally similar cast, and it has not been possible to find any shared innovations substantial enough to require the postulation of a genetically distinct Central Algonquian subgroup."<ref name="Goddard, Ives, 1979, p. 95"/>
+
+The possibility that the proposed genetic subgrouping of Ojibwa and Potawatomi can also be accounted for as diffusion has also been raised: "The putative Ojibwa–Potawatomi subgroup is similarly open to question, but cannot be evaluated without more information on Potawatomi dialects."<ref>Goddard, Ives, 1979, pp. 95–96.</ref>
+
+==Geographic distribution==
+{{Multiple image
+| align = 
+| direction = vertical
+| total_width = 
+| image1 = Ojibwe Language Map.png
+| alt1 = 
+| caption1 = 
+| image2 = Ojibwe map pre-contact blur.svg
+| caption2 = Pre-contact distribution of Ojibwe and its dialects
+}}
+Ojibwe communities are found in Canada from southwestern [[Quebec]], through [[Ontario]], southern [[Manitoba]] and parts of southern [[Saskatchewan]]; and in the United States from northern [[Michigan]] through northern [[Wisconsin]] and northern [[Minnesota]], with a number of communities in northern [[North Dakota]] and northern [[Montana]].<ref>Rhodes, Richard, and Evelyn Todd, 1981, p. 54, Fig. 2.</ref> Groups of speakers of the Ottawa dialect migrated to [[Kansas]] and [[Oklahoma]] during the historical period, with a small amount of linguistic documentation of the language in Oklahoma.<ref>Feest, J. and Feest, C., 1978; Dawes, Charles, 1982.</ref> The presence of Ojibwe in [[British Columbia]] has been noted.<ref name="Nichols, John, 1980, pp. 1-2"/>
+
+Current census data indicate that all varieties of Ojibwe are spoken by approximately 56,531 people. This figure reflects census data from the [[2000 United States Census]] and the [[Canada 2006 Census|2006 Canadian census]]. The Ojibwe language is reported as spoken by a total of 8,791 people in the United States<ref name="USEF">[http://www.usefoundation.org/userdata/file/Research/Languages/ojibwa.pdf U.S. English Foundation: Ojibwa] {{webarchive|url=https://web.archive.org/web/20101129055420/http://usefoundation.org/userdata/file/Research/Languages/ojibwa.pdf |date=November 29, 2010 }}. Retrieved November 12, 2009.</ref> of which 7,355 are Native Americans<ref name="2000USCensus">https://www.census.gov/prod/cen2000/phc-5-pt1.pdf U.S. Census Bureau, 2000 Census of Population and Housing,''Characteristics of American Indians and Alaska Natives by Tribe and Language: 2000''. PHC-5. Washington, DC, 2003.</ref> and by as many as 47,740 in Canada,<ref name="census"/> making it one of the largest Algic languages by numbers of speakers.<ref name="census"/>
+
+{| class="wikitable"
+!Language!!Canada (2016)!!Canada (2011)!!United States!!Total (by speakers)!!Total ethnic population
+|-
+!Algonquin
+| align="right" | 1,660 || align="right" | 2,680<ref name="census"/> || align="right" | 0 || align="right" | 2,680 || align="right" | 8,266
+|-
+!Oji-Cree
+| align="right" | 13,630 || align="right" | 12,600<ref name="census"/> || align="right" | 0 || align="right" | 12,600 || align="right" | 12,600
+|-
+!Ojibwe
+| align="right" | 20,470 || align="right" | 24,896<ref>2006 Canadian Census reported 32,460 total Ojibwe–Ottawa speakers less derived Ottawa of 7,564.</ref> || align="right" | 8,355<ref name="USEF"/> || align="right" | 33,251 || align="right" | 219,711
+|-
+!Ottawa
+| align="right" | 165 ||align="right" | 7,564<ref>Ethnologue reported 8,000 less 2000 US Census reported 436.</ref> || align="right" | 436<ref name="2000USCensus"/> || align="right" | 8,000<ref name="EthnologueOTW">Gordon, Raymond, 2005. See online version of same: [http://www.ethnologue.com/show_language.asp?code=otw Ethnologue entry for Ottawa]. Retrieved November 12, 2009.</ref> || align="right" | 60,000<ref name="EthnologueOTW"/>
+|-
+!Total (by Country)
+|align="right" | 35,925 || align="right" | 47,740 || align="right" | 8,791 || align="right" | '''56,531''' || align="right" | 300,577
+|}
+
+The [[Red Lake Indian Reservation|Red Lake]], [[White Earth Indian Reservation|White Earth]], and [[Leech Lake Band of Ojibwe|Leech Lake]] reservations are known for their tradition of singing [[hymns]] in the Ojibwe language.<ref>
+{{Cite news
+ |last       = Dan Gunderson
+ |title      = At White Earth, hymns a unique part of a renewed Ojibwe culture
+ |work       = Park Rapids Enterprise
+ |location   = Park Rapids, Minnesota
+ |access-date = January 17, 2013
+ |date       = January 14, 2013
+ |url        = http://www.parkrapidsenterprise.com/event/article/id/35565/group/homepage/
+}}{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}</ref> As of 2011, Ojibwe is the official language of Red Lake.<ref>{{Cite news
+| last = Meurs, Michael
+| title = Native American Language Revitalization on Red Lake Agenda
+| work = Indian Country Today Media Network
+| access-date = April 13, 2013
+| date = September 21, 2011
+| url = http://indiancountrytodaymedianetwork.com/article/native-american-language-revitalization-on-red-lake-agenda-54853
+}}</ref>
+
+===Dialects===
+[[File:Battle of the Thames Ojibwe plaque.jpg|thumb|right|Ontario Heritage Plaque in Ojibwe at the [[Battle of the Thames]] historical site]]
+{{Main|Ojibwe dialects}}
+Because the dialects of Ojibwe are at least partly mutually intelligible, Ojibwe is usually considered to be a single language with a number of dialects, i.e. Ojibwe is "...&nbsp;conventionally regarded as a single language consisting of a [[Dialect continuum|continuum]] of dialectal varieties since&nbsp;... every dialect is at least partly intelligible to the speakers of the neighboring dialects."<ref>Rhodes, Richard, and Evelyn Todd, 1981, p. 52.</ref> The degree of mutual intelligibility between nonadjacent dialects varies considerably; recent research has shown that there is strong differentiation between the Ottawa dialect spoken in southern Ontario and northern Michigan; the Severn Ojibwa dialect spoken in northern Ontario and Manitoba; and the Algonquin dialect spoken in southwestern Quebec.<ref>Valentine, J. Randolph, 1994.</ref> Valentine notes that isolation is the most plausible explanation for the distinctive linguistic features found in these three dialects.<ref name="J. Randolph Valentine 1994, p. 43-44">J. Randolph Valentine, 1994, pp. 43–44.</ref> Many communities adjacent to these relatively sharply differentiated dialects show a mix of transitional features, reflecting overlap with other nearby dialects.<ref>Valentine, J. Randolph, 1994, pp. 42–43.</ref> While each of these dialects has undergone innovations that make them distinctive, their status as part of the Ojibwe language complex is not in dispute.<ref name="J. Randolph Valentine 1994, p. 43-44"/> The relatively low degrees of mutual intelligibility between some nonadjacent Ojibwe dialects led Rhodes and Todd to suggest that Ojibwe should be analyzed as a linguistic subgroup consisting of several languages.<ref>Rhodes, Richard and E. Todd, 1981, p. 52.</ref>
+
+While there is some variation in the classification of Ojibwe dialects, at a minimum the following are recognized, proceeding west to east: [[Western Ojibwa language|Western Ojibwe (Saulteaux)]], [[Chippewa language|Southwestern Ojibwe (Chippewa)]], [[Northwestern Ojibwa language|Northwestern Ojibwe]], [[Anishinini language|Severn Ojibwe (Oji-Cree)]], [[Ottawa language|Ottawa (Odawa)]], [[Eastern Ojibwa language|Eastern Ojibwe]], and [[Algonquin language|Algonquin]]. Based upon contemporary field research, Valentine also recognizes several other dialects: Berens Ojibwe in northwestern Ontario, which he distinguishes from Northwestern Ojibwe; North of (Lake) Superior; and Nipissing. The latter two cover approximately the same territory as [[Central Ojibwa language|Central Ojibwa]], which he does not recognize.<ref name="Valentine, J. Randolph 1994, p. 456"/>
+
+Two recent analyses of the relationships between the Ojibwe dialects are in agreement on the assignment of the strongly differentiated Ottawa dialect to a separate subgroup, and the assignment of Severn Ojibwe and Algonquin to another subgroup, and differ primarily with respect to the relationships between the less strongly differentiated dialects. Rhodes and Todd recognize several different dialectal subgroupings within Ojibwe: (a) Ottawa; (b) Severn and Algonquian; (c) a third subgroup which is further divided into (i) a subgrouping of Northwestern Ojibwe and [[Saulteaux]], and a subgrouping consisting of Eastern Ojibwe and a further subgrouping comprising Southwestern Ojibwe and Central Ojibwe.<ref>Rhodes, Richard and E. Todd, 1981, p. 61, Fig. 5.</ref> Valentine has proposed that Ojibwe dialects are divided into three groups: a northern tier consisting of Severn Ojibwe and Algonquin; a southern tier consisting of "Odawa, Chippewa, Eastern Ojibwe, the Ojibwe of the Border Lakes region between Minnesota and Ontario, and Saulteaux; and third, a transitional zone between these two polar groups, in which there is a mixture of northern and southern features."<ref>J. Randolph Valentine, 1994, pp. 39.</ref>
+
+===''Lingua franca''===
+[[File:Lakehead University Which-Way Sign.jpg|upright=1.36|thumb|A sign at [[Lakehead University]] in English and Ojibwe.]]
+Several different Ojibwe dialects have functioned as ''[[lingua franca]]'' or trade languages in the circum-[[Great Lakes]] area, particularly in interactions with speakers of other Algonquian languages.<ref>Rhodes, Richard, 1982, p. 2.</ref> Documentation of such usage dates from the 18th and 19th centuries, but earlier use is likely, with reports as early as 1703 suggesting that Ojibwe was used by different groups from the [[Gulf of Saint Lawrence]] to [[Lake Winnipeg]], and from as far south as [[Ohio]] to [[Hudson Bay]].<ref>Bakker, Peter and Anthony Grant, 1996, p. 1117.</ref>
+
+A trade language is "a language customarily used for communication between speakers of different languages, even though it may be that neither speaker has the trade language as his dominant language" although "there is a relatively high degree of bilingualism involving the trade language."<ref>Rhodes, Richard, 1982, p. 1.</ref>
+
+Documentation from the 17th century indicates that the [[Wyandot language]] (also called Huron), one of the [[Iroquoian languages]], was also used as a trade language east of the Great Lakes by speakers of the Nipissing and [[Algonquin language|Algonquin]] dialects of Ojibwe, and also by other groups south of the Great Lakes, including the Winnebago and by a group of unknown affiliation identified only as "Assistaeronon." The political decline of the Hurons in the 18th century and the ascendancy of Ojibwe-speaking groups including the Ottawa led to the replacement of Huron as a ''lingua franca''.<ref>Bakker, Peter and Anthony Grant, 1996, p. 1116.</ref>
+
+In the area east of [[Georgian Bay]], the Nipissing dialect was a trade language. In the [[Lower Peninsula of Michigan]], the eastern end of the [[Upper Peninsula of Michigan|Upper Peninsula]], the area between [[Lake Erie]] and [[Lake Huron]], and along the north shore of Georgian Bay, the Ottawa dialect served as a trade language. In the area south of [[Lake Superior]] and west of [[Lake Michigan]] Southwestern Ojibwe was the trade language.<ref name="RTrade">Rhodes, Richard, 1982.</ref> A widespread pattern of asymmetrical bilingualism is found in the area south of the Great Lakes in which speakers of Potawatomi or Menominee, both Algonquian languages, also spoke Ojibwe, but Ojibwe speakers did not speak the other languages. It is known that some speakers of Menominee also speak Ojibwe and that the pattern persisted into the 20th century. Similarly, bilingualism in Ojibwe is still common among Potawatomis who speak Potawatomi.<ref>Rhodes, Richard, 1982, pp. 3–4.</ref>
+
+Reports from traders and travellers as early as 1744 indicate that speakers of [[Menominee language|Menominee]], another Algonquian language, used Ojibwe as a ''lingua franca''. Other reports from the 18th century and the early 19th century indicate that speakers of the unrelated [[Siouan languages|Siouan language]] [[Winnebago language|Ho-Chunk (Winnebago)]] also used Ojibwe when dealing with Europeans and others.<ref name="Broken1">Nichols, John, 1995, p. 1.</ref> Other reports indicate that agents of the American government at [[Green Bay, Wisconsin]] spoke Ojibwe in their interactions with Menominee, with other reports indicating that "the Chippewa, Menominee, Ottawa, Potawatomi, Sac, and Fox tribes used Ojibwe in intertribal communication...."<ref name="Broken1"/> Some reports indicate that farther west, speakers of non-Algonquian languages such as Ho-Chunk (Winnebago), [[Chiwere language|Iowa]], and [[Pawnee language|Pawnee]] spoke Ojibwe as an "acquired language."<ref name="Broken1"/>
+
+===Influence on other languages===
+[[Michif language|Michif]] is a [[mixed language]] that primarily is based upon French and [[Plains Cree language|Plains Cree]], with some vocabulary from Ojibwe, in addition to phonological influence in Michif-speaking communities where there is a significant Ojibwe influence.<ref>Rhodes, Richard, 1976.</ref><ref>Bakker, Peter, 1991.</ref><ref>Bakker, Peter, 1996, pp. 264–270.</ref> In locations such as [[Turtle Mountain Band of Chippewa Indians|Turtle Mountain, North Dakota]] individuals of Ojibwe ancestry now speak Michif and Ojibwe.<ref>Alex DeCoteau, Turtle Mountain Chippewa member and Ojibwe speaker.</ref>
+
+Ojibwe borrowings have been noted in [[Menominee language|Menominee]], a related [[Algonquian languages|Algonquian language]].<ref>Bloomfield, Leonard, 1962.</ref>
+
+[[Bungi Creole]] is an English-based [[Creole language]] spoken in Manitoba by the descendants of "English, Scottish, and Orkney fur traders and their Cree or Saulteaux wives&nbsp;...".<ref>Blain, Eleanor, 1987, 7.</ref> Bungee incorporates elements of Cree; the name may be from the Ojibwe word ''bangii'' "a little bit" or the Cree equivalent but whether there is any other Ojibwe component in Bungee is not documented.<ref>Blain, Eleanor, 1987.</ref>
+
+==Phonology==
+{{Main|Ojibwe phonology}}
+
+===Consonants===
+All dialects of Ojibwe generally have an inventory of 17 [[consonant]]s.<ref>See e.g. Nichols, John, 1981, p. 6 for Southwestern Ojibwe.</ref> Most dialects have the segment [[glottal stop]] {{IPA|/ʔ/}} in their inventory of consonant phonemes; Severn Ojibwe and the Algonquin dialect have {{IPA|/h/}} in its place. Some dialects have both segments phonetically, but only one is present in [[Underlying representation|phonological representations]].<ref>Valentine, J. Randolph, 1994, pp. 124–125.</ref> The Ottawa and Southwestern Ojibwe (Chippewa) have {{IPA|/h/}} in a small number of affective vocabulary items in addition to regular {{IPA|/ʔ/}}.<ref>Rhodes, Richard, 1985, p. xlvi.</ref><ref>Nichols, John and Earl Nyholm, 1995, p. xxvi.</ref> Some dialects may have otherwise non-occurring sounds such as {{IPA|/f, l, r/}} in [[loanword]]s.<ref>Rhodes, Richard, 1985, p. xli.</ref>
+
+{| class="wikitable" style="text-align:center"
+|-
+! colspan="2" | 
+! [[Bilabial consonant|Bilabial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]<br/>and [[Palatal consonant|palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasals]]
+| {{IPA link|m}} {{angbr|m}}
+| {{IPA link|n}} {{angbr|n}}
+| 
+| 
+| 
+|-
+! rowspan="2" | [[plosive]]s and<br>[[affricate]]s
+! <small>fortis</small>
+| {{IPA link|pʰ}} {{angbr|p}}
+| {{IPA link|tʰ}} {{angbr|t}}
+| {{IPA link|tʃʰ}} {{angbr|ch}}
+| {{IPA link|kʰ}} {{angbr|k}}
+| rowspan="2" | {{IPA link|ʔ}} {{angbr|’}}
+|-
+! <small>lenis</small>
+| {{IPA link|p}} ~ {{IPA link|b}} {{angbr|b}}
+| {{IPA link|t}} ~ {{IPA link|d}} {{angbr|d}}
+| {{IPA link|tʃ}} ~ {{IPA link|dʒ}} {{angbr|j}}
+| {{IPA link|k}} ~ {{IPA link|ɡ}} {{angbr|g}}
+|-
+! rowspan="2" | [[Fricative]]
+! <small>fortis</small>
+| 
+| {{IPA link|sʰ}} {{angbr|s}}
+| {{IPA link|ʃʰ}} {{angbr|sh}}
+| 
+| 
+|-
+! <small>lenis</small>
+| 
+| {{IPA link|s}} ~ {{IPA link|z}} {{angbr|z}}
+| {{IPA link|ʃ}} ~ {{IPA link|ʒ}} {{angbr|zh}}
+| 
+| ({{IPA link|h}} {{angbr|h}})
+|-
+! colspan="2" | [[Approximant]]s
+| 
+| 
+| {{IPA link|j}} {{angbr|y}}
+| {{IPA link|w}} {{angbr|w}}
+| 
+|}
+
+[[Obstruent]] consonants are divided into [[fortis and lenis|lenis]] and [[fortis and lenis|fortis]] sets, with these features having varying phonological analyses and phonetic realizations cross-dialectally. In some dialects, such as Severn Ojibwe, members of the fortis set are realized as a sequence of {{IPA|/h/}} followed by a single segment drawn from the set of lenis consonants: {{IPA|/p t k tʃ s ʃ/}}. Algonquin Ojibwe is reported as distinguishing fortis and lenis consonants on the basis of [[Voice (phonetics)|voicing]], with fortis being voiceless and lenis being voiced.<ref>Valentine, J. Randolph, 1994, pp. 123–124.</ref> In other dialects fortis consonants are realized as having greater [[Length (phonetics)|duration]] than the corresponding lenis consonant, invariably voiceless, "vigorously articulated," and [[Aspiration (linguistics)|aspirated]] in certain environments.<ref>Bloomfield, Leonard, 1958, p. 8; Rhodes, Richard, 1985, pp. xliv, xlvii, xlix, l, li.</ref> In some practical orthographies such as the widely-used double vowel system, fortis consonants are written with voiceless symbols: ''p, t, k, ch, s, sh''.<ref name="ReferenceA">For Southwestern Ojibwe, see Nichols, John and Earl Nyholm, 1995; for Ottawa, see Rhodes, Richard, 1985.</ref>
+
+Lenis consonants have normal duration and are typically voiced intervocalically. Although they may be devoiced at the end or beginning of a word, they are less vigorously articulated than fortis consonants, and are invariably unaspirated.<ref>Bloomfield, Leonard, 1958, p. 8.</ref> In the double vowel system, lenis consonants are written with voiced symbols: ''b, d, g, j, z, zh''.<ref name="ReferenceA"/>
+
+All dialects of Ojibwe have two [[nasal stop|nasal consonants]] {{IPA|/m/}} and {{IPA|/n/}}, one labialized [[velar approximant]] {{IPA|/w/}}, one [[palatal approximant]] {{IPA|/j/}}, and either {{IPA|/ʔ/}} or {{IPA|/h/}}.<ref>For Southwestern Ojibwe, see Nichols, John, 1981; for Ottawa, see Valentine, J. Randolph, 2001.</ref>
+
+===Vowels===
+All dialects of Ojibwe have seven [[Nasal vowel|oral vowels]]. [[Vowel length]] is phonologically [[Contrastive distribution|contrastive]] and so is [[Phoneme|phonemic]]. Although long and short vowels are phonetically distinguished by vowel quality, vowel length is phonologically relevant since the distinction between [[Vowel length|long]] and [[Vowel length|short vowel]]s correlates with the occurrence of [[Ottawa phonology#Vowel syncope|vowel syncope]], which characterizes the Ottawa and Eastern Ojibwe dialects, as well as [[Stress (linguistics)|word stress]] patterns in the language.<ref name="Valentine, J. Randolph, 2001"/>
+
+There are three short vowels {{IPA|/i a o/}} and three corresponding long vowels {{IPA|/iː aː oː/}} in addition to a fourth long vowel {{IPA|/eː/}}, which lacks a corresponding short vowel. The short vowel {{IPA|/i/}} typically has phonetic values centring on {{IPA|[ɪ]}}; {{IPA|/a/}} typically has values centring on {{IPA|[ə]~[ʌ]}}; and {{IPA|/o/}} typically has values centring on {{IPA|[o]~[ʊ]}}. Long {{IPA|/oː/}} is pronounced {{IPA|[uː]}} for many speakers, and {{IPA|/eː/}} is often {{IPA|[ɛː]}}.<ref>See, e.g., Rhodes, Richard, 1985, for the Ottawa dialect; Nichols, John and Earl Nyholm, 1995, for the Southwestern Ojibwe dialect.</ref>
+
+{| class="wikitable"
+|+ Oral Vowels
+!
+! align="center"|[[Front vowel|Front]]
+! align="center"|[[Central vowel|Central]]
+! colspan="2" align="center"|[[Back vowel|Back]]
+|-
+! align="left"|[[Close vowel|Close]]
+| align="center"|{{IPA|iː}}
+|
+|
+| rowspan="3" align="center"|{{IPA|oː}}~{{IPA|uː}}
+|-
+! align="left"|[[Near-close vowel|Near-Close]]
+| align="center"|{{IPA|ɪ}}
+|
+| rowspan="2" align="center"|{{IPA|o}}~{{IPA|ʊ}}
+|-
+! align="left"|[[Mid vowel|Mid]]
+| align="center"|{{IPA|eː}}
+| align="center"|{{IPA|ə}}
+|-
+! align="left"|[[Open vowel|Open]]
+|
+| align="center"|{{IPA|aː}}
+| colspan="2"|
+|}
+Ojibwe has [[nasal vowel]]s. Some arising predictably by rule in all analyses, and other long nasal vowels are of uncertain phonological status.<ref>Nichols, John, 1980, pp. 6–7.</ref> The latter have been analysed as underlying [[phoneme]]s<ref name="Bloomfield, Leonard, 1958"/> and/or as predictable and derived by the operation of phonological rules from sequences of a long vowel and /n/ and another segment, typically /j/.<ref>Piggott, Glyne, 1981.</ref>
+
+{| class="wikitable"
+|+ Nasal Vowels
+!
+! align="center"|[[Front vowel|Front]]
+! align="center"|[[Central vowel|Central]]
+! align="center"|[[Back vowel|back]]
+|-
+! align="left"|[[Close vowel|Close]]
+| align="center"|{{IPA|ĩː}}
+|
+| align="center" rowspan="2"|{{IPA|õː}}~{{IPA|ũː}}
+|-
+! align="left"|[[Mid vowel|Mid]]
+| align="center"|{{IPA|ẽː}}
+|
+|-
+! align="left"|[[Open vowel|Open]]
+|
+| align="center"|{{IPA|ãː}}
+|
+|}
+
+Placement of word stress is determined by metrical rules that define a characteristic [[Iamb (foot)|iambic]] [[Metrical phonology|metrical foot]], in which a [[Metrical phonology|weak]] syllable is followed by a [[Metrical phonology|strong]] syllable. A foot consists of a minimum of one [[syllable]] and a maximum of two syllables, with each foot containing a maximum of one strong syllable. The structure of the metrical foot defines the domain for relative [[Stress (linguistics)|prominence]], in which a strong syllable is assigned stress because it is more prominent than the weak member of the foot. Typically, the strong syllable in the [[antepenultimate]] foot is assigned the primary stress.<ref>For discussion of the rule in the Ottawa dialect, see Valentine, J. Randolph, 2001, p. 54.</ref>
+
+Strong syllables that do not receive main stress are assigned at least secondary stress.<ref>Valentine, J. Randoph, 2001, p. 53.</ref> In some dialects, metrically weak (unstressed) vowels at the beginning of a word are frequently lost. In the Ottawa and Eastern Ojibwe dialects, all metrically weak vowels are deleted.<ref>Valentine, J. Randolph, 2001, pp. 51–55.</ref> For example, ''bemisemagak(in)'' (airplane(s), in the Southwestern Ojibwe dialect) is stressed as ['''''be''' · m<sup>i</sup>se · m<sup>a</sup>gak'' {{IPA|/ˈbɛːmɪˌseːmʌˌɡak/}}] in the singular but as [''be · m<sup>i</sup>'''se''' · m<sup>a</sup>ga · kin'' {{IPA|/ˌbeːmɪˈsɛːmʌˌɡaˌkin/}}] in the plural. In some other dialects, metrically weak (unstressed) vowels, especially "a" and "i", are reduced to a [[schwa]] and depending on the writer, may be transcribed as "i", "e" or "a". For example, ''anami'egiizhigad'' [''<sup>a</sup>na · m<sup>i</sup>''''e''' · gii · zh<sup>i</sup>gad'' {{IPA|/əˌnaməˈʔɛːˌɡiːʒəˌɡad/}}] (Sunday, literally "prayer day") may be transcribed as ''anama'egiizhigad'' in those dialects.
+
+==Grammar==
+{{Main|Ojibwe grammar}}
+The general grammatical characteristics of Ojibwe are shared across its dialects. The Ojibwe language is [[polysynthetic]], exhibiting characteristics of [[Synthetic language|synthesis]] and a high [[morpheme]]-to-word ratio. Ojibwe is a [[head-marking language]] in which [[inflection]]al morphology on nouns and particularly verbs carries significant amounts of grammatical information.
+
+Word classes include [[noun]]s, [[verb]]s, [[grammatical particle]]s, [[pronoun]]s, [[preverb]]s, and [[prenoun]]s. Preferred [[word order]]s in a simple [[Transitivity (grammatical category)|transitive]] sentence are verb-initial, such as [[verb–object–subject]] and [[verb–subject–object]]. While verb-final orders are dispreferred, all logically possible orders are attested.<ref>Valentine, J. Randolph, 2001, pp. 934–935.</ref>
+
+Complex [[Inflectional morphology|inflectional]] and [[derivational morphology]] play a central role in Ojibwe grammar. Noun inflection and particularly verb inflection indicate a wide variety of grammatical information, realized through the use of [[prefix]]es and [[suffix]]es added to [[word stem]]s. Grammatical characteristics include the following:
+#[[Grammatical gender]],<ref>Valentine, J. Randolph, 2001, p. 114.</ref> divided into [[Grammatical gender#Animate and inanimate|animate]] and [[Grammatical gender#Animate and inanimate|inanimate]] categories
+#extensive [[Head-marking language|head-marking]] on verbs of [[inflection]]al information concerning [[Grammatical person|person]]<ref>Valentine, J. Randolph, 2001, Chapters 5–8; pp. 62–72.</ref>
+#[[Grammatical number|number]]<ref>Valentine, J. Randolph, 2001, p. 178.</ref>
+#[[Grammatical tense|tense]]<ref>Valentine, J. Randolph, 2001, pp. 759–782.</ref>
+#[[Linguistic modality|modality]]<ref>Valentine, J. Randolph, 2001, p. 759.</ref>
+#[[evidentiality]]<ref>Valentine, J. Randolph, 2001, pp. 830–837.</ref>
+#[[Negation (linguistics)|negation]]<ref>Valentine, J. Randolph, 2001, pp. 837–856.</ref>
+#a distinction between [[Grammatical person#Additional persons|obviative]] and [[Grammatical person#Additional persons|proximate]] third-person, marked on both verbs and nouns.<ref>Valentine, J. Randolph, 2001, pp. 623–643.</ref>
+
+There is a distinction between two different types of [[grammatical person|third person]]: the ''proximate'' (the third person deemed more important or in focus) and the ''obviative'' (the third person deemed less important or out of focus). Nouns can be singular or plural in number and either [[Animacy|animate]] or [[Animacy|inanimate]] in gender. Separate personal [[pronoun]]s exist but are used mainly for emphasis; they distinguish [[Inclusive and exclusive we|inclusive and exclusive first-person]] plurals.
+
+Verbs, the most complex word class, are inflected for one of three ''orders'' (''indicative'', the default; ''conjunct'', used for participles and in [[subordinate clause]]s; and ''imperative'', used with commands), as negative or affirmative, and for the person, number, animacy, and proximate/obviative status of both the subject and object as well as for several different ''modes'' (including the ''dubitative'' and ''preterit'') and tenses.
+
+==Vocabulary==
+
+===Loanwords and neologisms===
+[[File:Great-lakes-in-ojibwe.jpg|thumb|left|Names of the Great Lakes and surrounding regions in Ojibwe]]
+Although it does contain a few loans from English (e.g. ''gaapii'', "coffee," ) and French (e.g. ''mooshwe'', "handkerchief" (from ''mouchoir''),<ref>{{cite web |url=http://bolt.lakeheadu.ca/~jomeara/ojibweBorrowings.html |title=Words Borrowed From English/French Into Ojibwe |author=O'Meara, John |access-date=May 30, 2008 |url-status=dead |archive-url=https://web.archive.org/web/20070718073455/http://bolt.lakeheadu.ca/~jomeara/ojibweBorrowings.html |archive-date=July 18, 2007 }}</ref> ''ni-tii'', "tea" (from ''le thé'', "the tea")), in general, the Ojibwe language is notable for its relative lack of borrowing from other languages. Instead, speakers far prefer to create words for new concepts from existing vocabulary. For example in Minnesota ''Ojibwemowin'', "airplane" is ''bemisemagak'', literally "thing that flies" (from ''bimisemagad'', "to fly"), and "battery" is ''ishkode-makakoons'', literally "little fire-box" (from ''ishkode'', "fire," and ''makak'', "box"). Even "coffee" is called ''makade-mashkikiwaaboo'' ("black liquid-medicine") by many speakers, rather than ''gaapii''. These new words vary from region to region, and occasionally from community to community. For example, in Northwest Ontario ''Ojibwemowin'', "airplane" is ''ombaasijigan'', literally "device that gets uplifted by the wind" (from ''ombaasin'', "to be uplifted by the wind") as opposed to the Minnesota's ''bemisemagak''.
+
+===Dialect variation===
+Like any language dialects spanning vast regions, some words that may have had identical meaning at one time have evolved to have different meanings today. For example, ''zhooniyaans'' (literally "small[-amount of] money" and used to refer to coins) specifically means "dime" (10-cent piece) in the United States, but a "quarter" (25-cent piece) in Canada, or ''desabiwin'' (literally "thing to sit upon") means "couch" or "chair" in Canada, but is used to specifically mean a "saddle" in the United States.
+
+Cases like "battery" and "coffee" also demonstrate the often great difference between the literal meanings of the individual [[morpheme]]s in a word, and the overall meaning of the entire word.
+
+===Sample vocabulary===
+Below are some examples of common Ojibwe words.
+{{Col-start}}{{Col-3}}
+
+'''Short List of VAIs:'''<br />
+''onjibaa'' = he/she comes<br />
+''izhaa'' = he/she goes<br />
+''maajaa'' = he/she departs<br />
+''bakade'' = he/she is hungry<br />
+''mino'endamo'' = he/she is glad<br />
+''zhaaganaashimo'' = he/she speaks English<br />
+''biindige'' = he/she comes in<br />
+''ojibwemo'' = he/she speaks Ojibwe<br />
+''boogidi'' = he/she flatulates<br />
+''boogide'' = he/she has flatulence<br />
+''aadizooke'' = he/she tells a story<br />
+''wiisini'' = he/she is eating<br />
+''minikwe'' = he/she drinks<br />
+''bimose'' = he/she walks<br />
+''bangishin'' = he/she falls<br />
+''dagoshin'' = he/she is arriving<br />
+''giiwe'' = he/she goes home<br />
+''jiibaakwe'' = he/she cooks<br />
+''zagaswe'' = he/she smokes<br />
+''nibaa'' = he/she sleeps<br />
+''giigoonyike'' = he/she is fishing (lit. he/she makes fish)<br />
+''gashkendamo'' = he/she is sad<br />
+''bimaadizi'' = he/she lives<br />
+''gaasikanaabaagawe'' = he/she is thirsty<br />
+{{Col-3}}{{Col-3}}
+
+'''Short List of Nouns:'''<br />
+''naboob'' = soup<br />
+''ikwe'' = woman<br />
+''inini'' = man<br />
+''ikwezens'' = girl<br />
+''gwiiwizens'' = boy<br />
+''mitig'' = tree<br />
+''asemaa'' = tobacco<br />
+''opwaagan'' = pipe<br />
+''mandaamin'' = corn<br />
+''miskwi'' = blood<br />
+''doodoosh'' = breast<br />
+''doodooshaaboo'' = milk<br />
+''doodooshaaboo-bimide'' = butter<br />
+''doodooshaaboowi-miijim'' = cheese <!--Tcìs [Jiis] \ Cìgwàgamitcigan [Zhiigwaagamijigan] = cheese in ALQ<br />--><br />
+''manoomin'' = wild rice<br />
+''omanoominiig'' = Menomonee peoples<br />
+''giigoonh'' = fish<br />
+''miskwimin'' = raspberry<br />
+''gekek'' = hawk<br />
+''gookooko'oo'' = owl<br />
+''migizi'' = bald eagle<br />
+''giniw'' = golden eagle<br />
+''bemaadizid'' = person<br />
+''bemaadizijig'' = people<br />
+''makizin'' = moccasin, shoe<br />
+''wiigiwaam'' = wigwam, house
+{{Col-end}}
+
+==Writing system==
+{{Main|Ojibwe writing systems}}
+There is no standard writing system used for all Ojibwe dialects.<ref>Ningewance, Patricia, 1999.</ref> Local alphabets have been developed by adapting the [[Latin script]], usually based on [[English alphabet|English]] or [[French orthography]].<ref>Walker, Willard, 1996.</ref> A [[Ojibwe writing systems#Ojibwe syllabics|syllabic]] writing system, not related to English or French writing, is used by some Ojibwe speakers in northern Ontario and Manitoba. [[Great Lakes Algonquian syllabics]] are based on the French alphabet with letters organized into syllables. It was used primarily by speakers of [[Fox language|Fox]], Potawatomi, and Winnebago, but there is some indirect evidence of use by speakers of Southwestern Ojibwe.<ref>Walker, Willard, 1996, pp. 168–172.</ref><ref>Smith, Huron, 1932, p. 335.</ref>
+
+A widely used Roman character-based writing system is the [[Ojibwe writing systems#Double-vowel system|double vowel system]] devised by Charles Fiero. Although there is no standard orthography, the double vowel system is used by many Ojibwe language teachers because of its ease of use. A wide range of materials have been published in the system, including a grammar,<ref name="Valentine, J. Randolph, 2001"/> dictionaries,<ref>Nichols, John, 1995.</ref><ref>Rhodes, Richard, 1985.</ref> collections of texts,<ref>Valentine, J. Randolph, 1998.</ref><ref>Kegg, Maude, 1991.</ref><ref>Nichols, John and Leonard Bloomfield, eds., 1991.</ref> and pedagogical grammars.<ref>Vollom, Judith and Thomas M. Vollom, 1994.</ref><ref>Ningewance, Patricia, 1993.</ref> In northern Ontario and Manitoba, Ojibwe is most commonly written using the [[Canadian Aboriginal syllabics|Cree syllabary]], a [[syllabary]] originally developed by [[Methodism|Methodist]] missionary [[James Evans (linguist)|James Evans]] around 1840 to write Cree. The syllabic system is based in part on Evans' knowledge of [[Pitman's shorthand]] and his prior experience developing a distinctive [[alphabet]]ic writing system for Ojibwe in southern Ontario.<ref>Nichols, John, 1996.</ref>
+
+===Double vowel system===
+The double vowel system uses three short vowels, four long vowels, and eighteen consonants, represented with the following Roman letters:<ref>{{cite web |url=https://ojibwe.lib.umn.edu/about-ojibwe-language |title=About the Ojibwe Language |last=Nichols |first=John |date=2015 |website=Ojibwe People's Dictionary |publisher=University of Minnesota |access-date=October 8, 2019 }}</ref>
+
+<blockquote>a aa b ch d e g h ' i ii j k m n o oo p s sh t w y z zh</blockquote>
+
+Dialects typically either have {{IPA|/h/}} or {{IPA|/ʔ/}} (the orthographic {{angle bracket|'}} in most versions) but rarely both.<ref>For Southwestern Ojibwe, which has {{IPA|/ʔ/}} (orthographic {{angle bracket|'}}) but not {{IPA|/h/}}, see Nichols, John, 1981.</ref>
+This system is called "double vowel" because the long vowel correspondences to the short vowels {{angle bracket|a}}, {{angle bracket|i}} and {{angle bracket|o}} are written with a doubled value. In this system, the nasal ''ny'' as a final element is instead written {{angle bracket|nh}}. The allowable consonant clusters are {{angle bracket|mb}}, {{angle bracket|nd}}, {{angle bracket|ng}}, {{angle bracket|n'}}, {{angle bracket|nj}}, {{angle bracket|nz}}, {{angle bracket|ns}}, {{angle bracket|nzh}}, {{angle bracket|sk}}, {{angle bracket|shp}}, {{angle bracket|sht}}, and {{angle bracket|shk}}.
+
+==Sample text and analysis==
+The sample text, from the [[Chippewa language|Southwestern Ojibwe]] dialect, is taken, with permission, from the first four lines of ''Niizh Ikwewag'' (Two Women),<ref>[http://www.bemidjistate.edu/academics/departments/english/donovan/two_women.html Niizh Ikwewag] {{webarchive|url=https://web.archive.org/web/20131212033121/http://www.bemidjistate.edu/academics/departments/english/donovan/two_women.html |date=December 12, 2013 }}</ref> a story told by Earl Nyholm, on Professor Brian Donovan of Bemidji State University's webpage.
+
+{{interlinear|number=1)|glossing=link
+|top= Aabiding gii-ayaawag niizh ikwewag: mindimooyenh, odaanisan bezhig.
+|aabiding gii- ayaa -wag niizh ikwe -wag mindimooyenh, o- daanis -an bezhig.
+|once PAST- {be in a certain place} -3PL two woman −3PL {old woman}, 3SG.POSS- daughter -OBV one.
+|Once there were two women: an old lady, and one of her daughters.}}
+
+{{interlinear|number=2)|glossing=link
+|top= Iwidi Chi-achaabaaning akeyaa gii-onjibaawag.
+|iwidi chi- achaabaan -ing akeyaa gii- onjibaa -wag.
+|{over there} big- bowstring -LOC {that way} PAST- {come from} -3PL.
+|They were from over there towards [[Inger, Minnesota|Inger]] (lit: by Big-Bowstring [River]).}}
+
+{{interlinear|number=3)|glossing=link
+|top= Inashke naa mewinzha gii-aawan, mii eta go imaa sa wiigiwaaming gaa-taawaad igo.
+|inashke naa mewinzha gii- aawan mii eta go imaa sa wiigiwaam -ing gaa- daa -waad igo.
+|look now {long ago} PAST- be so only EMPH there EMPH wigwam -LOC PAST.CONJ- live −3PL.CONJ EMPH.
+|See now, it was long ago; they just lived there in a wigwam.}}
+
+{{interlinear|number=4)|glossing=link
+|top= Mii dash iwapii, aabiding igo gii-awi-bagida'waawaad, giigoonyan wii-amwaawaad.
+|mii dash iw- -apii aabiding igo gii- awi- bagida'w -aawaad, giigoonh -yan wii- amw -aawaad.
+|{it is that} CONTR that- -then once EMPH PAST- {go and-} {fish with a net} -3PL/OBV.CONJ fish -OBV DESD- eat -3PL/OBV.CONJ
+|And at that time, once they went net-fishing; they intended to eat fish.}}
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+CONJ:conjunct order:Ojibwe grammar#Verbs
+CONTR:contrastive particle:contrast (linguistics)
+DESD:desiderative:desiderative
+EMPH:emphatic particle:markedness
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Notable speakers==
+Notable speakers of Anishinaabemowin include:{{citation needed|date=May 2015}}
+*[[Frederic Baraga]] (19th century [[Roman Catholic priest]], missionary, and first [[Bishops in the Catholic Church|bishop]] of the [[Roman Catholic Diocese of Marquette]], who wrote ''A theoretical and practical grammar of the Otchipwe language'')
+*[[Francis Xavier Pierz]] (19th century [[Roman Catholic priest]] , poet, and missionary to the Ojibwe in [[Michigan]], [[Wisconsin]], [[Minnesota]], and [[Ontario]])
+*[[George Copway]] (chief, missionary, writer, cultural ambassador)
+*[[Basil H. Johnston]] (educator, curator, essayist, cultural ambassador)
+*[[Peter Jones (missionary)|Peter Jones]] (missionary, reverend, chief)
+*[[Maude Kegg|Maude "''Naawakamigookwe''" Kegg]] (narrator, artist, cultural ambassador)
+*[[Margaret Noodin]] (educator, writer)
+*[[Jim Northrup (writer)|Jim Northrup]] (writer)
+* Keller Paap (educator and author)<ref>Whitehead, J. (Producer, writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.
+</ref>
+* [[Anton Treuer]] (historian, author, linguistic professor, first Ojibwe person to graduate from [[Princeton University]])<ref>Whitehead, J. (Producer, writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.
+</ref>
+* Archie Mosay (medicine man and elder, mentor of Anton Treuer)<ref>Whitehead, J. (Producer, Writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.
+</ref>
+* Anna Gibbs (well-known Ponemah elder, story-teller, and spiritual and ceremonial leader)<ref>Whitehead, J. (Producer, Writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.
+</ref>
+
+== Mobile learning apps and online resources ==
+An "Ojibway Language and People" app is available for [[iPhone]], [[iPad]], and other [[iOS]] devices.<ref>{{Cite web
+| title = Ojibway Language program for teachers students and schools
+| work = Ogoki Learning Systems Inc. iPhone App Developer
+| access-date = September 12, 2012
+| url = http://www.ogokilearning.com/ojibway/
+}}</ref> The source code is available for others interested in developing their own application for learning a native language.<ref>{{Cite news
+| last = Dadigan
+| first = Marc
+| title = Learning a Native Language? Ojibway Programmer Has an App For That
+| work = Indian Country Today Media Network
+| access-date = May 7, 2013
+| date = April 12, 2013
+| url = http://indiancountrytodaymedianetwork.com/2013/04/20/learning-native-language-ojibway-programmer-has-app-148920
+}}</ref>
+
+The Ojibwe People's Dictionary is an online language resource created in collaboration with the University of Minnesota. It is an accessible system that allows users to search in English or Ojibwe and includes voice recordings for many of the 17 000 entries in the collection.<ref>{{Cite web|title=The Ojibwe People's Dictionary|url=https://ojibwe.lib.umn.edu/about|access-date=December 11, 2020|website=ojibwe.lib.umn.edu}}</ref>
+
+== U.S. government attempt to erase native language ==
+
+In the late 19th century, the United States federal government started its [[Native American boarding school]] initiative, which forced Native American children to relocate to government-run boarding schools in an attempt to "acculturate" them into American society. Often placing children in schools that were considerably far from their home communities, these schools attempted to remove any ties children had to their native culture and limit their ability to visit home. Students were forced to speak English, cut their hair, dress in uniform, practice Christianity, and learn of European culture and history.<ref>{{cite web |last1=Ammann |first1=Brooke |title=Waadookodading: Ojibwe Language Immersion School |url=https://theways.org/story/waadookodaading.html |website=The Ways |publisher=Wisconsin Educational Communications Board}}</ref> 
+
+Although the [[Indian Reorganization Act of 1934]] mandated that the Native American boarding school program should be phased out, the practice of sending youth to these institutions continued into the 1960s and 1970s. Because children were forced to live away from their home communities, many never had the opportunity to hear and use their native language. Thus, this governmental assimilation effort resulted in a widespread loss of language and culture among indigenous communities, including the Ojibwe people.<ref>{{cite web |last1=Pember |first1=Mary Annette |title=Death By Civilization |url=https://www.theatlantic.com/education/archive/2019/03/traumatic-legacy-indian-boarding-schools/584293/ |website=The Atlantic |publisher=TheAtlantic.com |access-date=March 29, 2021}}</ref>
+
+== Language revitalization ==
+
+With the remaining population of native speakers declining as older generations die off, many historians consider now an important point in the language's history that will determine if it will proliferate or become extinct. Ojibwe historian Anton Treuer estimates that there are about 1,000 speakers of Ojibwe left in the United States, most residing in Minnesota on the [[Red Lake Indian Reservation]] or in [[Mille Lacs Indian Reservation|Mille Lacs]] region. Teacher of the language Keller Paap approximates that most fluent speakers in the United States are over 70 years old, making exposure to spoken Ojibwemowin limited in many communities.<ref>Whitehead, J. (Producer, writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.</ref>
+
+Ojibwe educators and scholars across the region are working with the remaining elders who speak Ojibwemowin, known as the First Speakers, so as to document and learn the language in hopes to preserve it and pass it on to the next generation of speakers. In recent years, historian and Ojibwe professor Anton Treur has been recording stories told by about 50 different Ojibwe elders in their native language so as to preserve both the language and pieces of knowledge and history. Alongside his current mentor, a Ponemah elder named Eugene Stillday, he writes the recorded stories in both Ojibwe and translated English.<ref>Whitehead, J. (Producer, Writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.</ref>
+
+Recently,{{When|date=May 2020}} there has been more of a push toward bringing the Ojibwe language back into more common use, through language classes and programs sponsored by universities, sometimes available to non-students, which are essential to passing on the Ojibwe language.<ref>{{Cite web|url=https://cla.umn.edu/ais/undergraduate/dakota-ojibwe-language-programs/ojibwe-language-program|title=Ojibwe Language Program|website=American Indian Studies {{!}} College of Liberal Arts|language=en|access-date=December 18, 2019}}</ref><ref>{{Cite web|url=https://uwm.edu/american-indian-studies/undergraduate/ojibwe-language-nondegree/|title=Ojibwe Language Classes for Nondegree Students {{!}} American Indian Studies|language=en-US|access-date=December 18, 2019}}</ref><ref>{{Cite journal|last=Margaret Noori|date=2011|title=Waasechibiiwaabikoonsing Nd'anami'aami, "Praying through a Wired Window": Using Technology to Teach Anishinaabemowin|journal=Studies in American Indian Literatures|volume=23|issue=2|pages=3–24|doi=10.5250/studamerindilite.23.2.0003|jstor=10.5250/studamerindilite.23.2.0003|s2cid=161901907}}</ref> These courses mainly target adults and young adults; however, there are many resources for all age groups, including online games<ref>{{Cite web|url=https://www.pathoftheelders.com/index.php|title=Path of the Elders – Free Treaty 9 Games! Aboriginal Cree – First Nations history, culture|last=University|first=BlackCherry Digital Media; Carleton|website=www.pathoftheelders.com|language=en-gb|access-date=December 18, 2019}}</ref> which provide domains for online language use. In the 1980's, The Northern Native-Languages Project was introduced in Ontario to get Indigenous languages such as Ojibwe, to be taught in schools. Years later, the first curriculum was established for the program and it was known as Native Languages 1987.<ref>{{Cite journal|last=Long|first=John S.|date=October 1, 2006|title=Making Native-Language Policy in Ontario in the 1980s|url=https://historicalstudiesineducation.ca/index.php/edu_hse-rhe/article/view/347|journal=Historical Studies in Education|volume=18|issue=2|pages=135–162|doi=10.32316/hse/rhe.v18i2.347|issn=0843-5057|doi-access=free}}</ref> There has also been an increase in published children's literature.<ref>{{Cite book|title=Frontiers in american children's literature|date=2016|publisher=Cambridge Scholars Publishing|others=Clark, Dorothy., Salem, Linda C.|isbn=978-1-4438-8958-2|edition=1st unabridged|location=Newcastle upon Tyne|oclc=944380203}}</ref> The increase in materials published in Ojibwe is essential to increasing the number of speakers. Language revitalization through Ojibwe frameworks also allows for cultural concepts to be conveyed through language.<ref>Noori, Margaret. 2009. "Wenesh Waa Oshkii-Bmaadizijig Noondamowaad? What Will The Young Children Hear?" In Indigenous Language Revitalization: Encouragement, Guidance, and Lessons Learned, edited byJ. Reyhner and L. Lockhard, Pp. 11–22.</ref>
+
+A 2014 study has indicated that learning Indigenous languages such as Ojibwe in school, helps to learn the language and language structure, however, it does not help grow the use of the language outside of a school setting. The most effective way of promoting language is being surrounded by the language, especially in a familial setting. This is difficult to replicate in schools, which is why speaking Ojibwe with family and in one's home life is important in growing language revitalization.<ref>{{Cite journal|last1=Hermes|first1=Mary|last2=King|first2=Kendall A.|date=February 1, 2013|title=Ojibwe language revitalization, multimedia technology, and family language learning|url=http://scholarspace.manoa.hawaii.edu/handle/10125/24513|journal=Language Learning & Technology|language=en|volume=17|issue=1|pages=125–144|hdl=10125/24513|issn=1094-3501}}</ref>
+
+Research has been done in Ojibwe communities to prove the important role language revitalization has in treating health concerns. The use of language connects a community through shared views and supports the well-being of said community.<ref name=":0">{{Cite journal|last1=Gonzalez|first1=Miigis B.|last2=Aronson|first2=Benjamin D.|last3=Kellar|first3=Sidnee|last4=Walls|first4=Melissa L.|last5=Greenfield|first5=Brenna L.|date=2017|title=Language as a Facilitator of Cultural Connection|journal=Ab-Original : Journal of Indigenous Studies and First Nations' and First Peoples' Culture|volume=1|issue=2|pages=176–194|doi=10.5325/aboriginal.1.2.0176|issn=2471-0938|pmc=5959053|pmid=29782622}}</ref> Researchers found that language and the notion of culture were intertwined together instead of being separate concepts, and the people who regularly practiced their language and culture were often associated with more positive health outcomes, particularly for psychological health and mental well-being.<ref name=":0" />
+
+== Language immersion schools ==
+Despite the injustices and oppression they have faced in the government's attempt to erase their language and culture, many indigenous communities across the Great Lakes region are making efforts to integrate the Ojibwe language in schools. Largely inspired by successful native language immersion schools in Hawaii and New Zealand, similar school programs have been starting throughout Minnesota and Wisconsin in recent years. One of the most notable programs—developed by Ojibwe educators Lisa LaRonge and Keller Paap—is that of the Waadookodaading Ojibwe Language Immersion School located on the [[Lac Courte Oreilles Band of Lake Superior Chippewa Indians|Lac Courte Orielles]] Reservation in northern Wisconsin.<ref>{{cite web |last1=Ammann |first1=Brooke |title=Waadookodading: Ojibwe Language Immersion School |url=https://theways.org/story/waadookodaading.html |website=The Ways |publisher=Wisconsin Educational Communications Board |access-date=March 29, 2021}}</ref> Most students come from English-speaking homes, so they are learning Ojibwemowin as their second language. At this school, instructors and elders teach the preschoolers to third graders entirely in the Ojibwe language, so that by the time that students complete kindergarten, they know both English and Ojibwe alphabets and writing systems. In the classroom, students generally first become familiar with the language by hearing and speaking it and then advance to reading and writing it as well. They are taught mathematics, reading, social studies, music, and other typical school subjects through the medium of the Ojibwe language so as to increase student's exposure to Ojibwemowin while providing a well-rounded education.<ref>Whitehead, J. (Producer, writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.</ref> In her research study on Ojibwe immersion schools, Ojibwe scholar and educator Mary Hermes suggests that educating through the Ojibwe language may be more culturally meaningful to communities than simply educating about the culture through English.<ref>Hermes, M. (2007). Moving Toward the Language: Reflections on Teaching in an Indigenous-Immersion School. Journal of American Indian Education, 46(3), 54–71. https://www.jstor.org/stable/24398543. 
+</ref>
+
+The goal, as with many other language immersion schools across the country, is to meet state-mandated standards for curriculum in the native language. This can be a challenge as public education standards are rigorous with curriculum on complex mathematic and scientific concepts occurring at the second and third grade levels. Ojibwe educators at these schools are constantly working with elders so as to design new ways to say lesser-used words in Ojibwe such as “plastic” or “quotient.” Thus, through these school programs, the language is constantly evolving.<ref>Whitehead, J. (Producer, Writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.</ref> Because the Ojibwe language is traditionally oral, it is often difficult for educators to find adequate resources to develop the curriculum. Thus, through these school programs, the language is constantly evolving. Additionally, many of these Ojibwe language immersion schools are considering the question as to whether or not they should include English instruction. Some research suggests that learning to write in one’s first language is important prior to learning a second language. Therefore, many schools include some level of English education at certain grade levels.<ref>Hermes, M. (2007). Moving Toward the Language: Reflections on Teaching in an Indigenous-Immersion School. Journal of American Indian Education, 46(3), 54–71. https://www.jstor.org/stable/24398543. 
+</ref>
+
+Along with using the native language, Waadookodaading uses native ways of teaching in its education system. “Ojibwemowin, the Ojibwe language, is a language of action.”<ref>{{cite web |last1=Ammann |first1=Brooke |title=Waadookodading: Ojibwe Language Immersion School |url=https://theways.org/story/waadookodaading.html |website=The Ways |publisher=Wisconsin Communications Educational Board |access-date=March 29, 2021}}</ref> Therefore, students are encouraged to learn the language by observing and by doing. For example, each spring the students at Waadookodaading participate in a maple sugar harvest. Older students and elders instruct the younger students on the harvest process, narrating what they are doing in Ojibwemowin as the younger students observe. The younger students are then encouraged to participate as they learn, gathering wood, helping to drill trees, and hauling buckets of sap. Thus, the Ojibwe language is kept alive through indigenous methods of teaching, which emphasizes hands-on experiences, such as the sugar bush harvest.<ref>PBS Wisconsin Education. (February 11, 2020). Waadookodaading: Ojibwe Language Immersion School | The Ways [Video]. Youtube. https://www.youtube.com/watch?v=wk5uETec9x8.</ref> The language is then passed on in a similar manner in which it has been throughout history in that older members of the community—including elders/instructors and older students at the schools—relay their knowledge and experiences to the younger generation.
+
+Another notable program is that of the Niigaane Ojibwemowin Language Immersion School on the [[Leech Lake Indian Reservation]] in Minnesota, which teaches kindergarteners to fifth graders.<ref>Whitehead, J. (Producer, writer, & Editor). (2010). First Speakers: Restoring the Ojibwe Language [Film]. TPT Originals. Retrieved from: https://www.pbs.org/video/tpt-documentaries-first-speakers-restoring-ojibwe-language/.</ref> Program director Leslie Harper describes the structure of the school in that each classroom is led by an elder who is fluent in Ojibwemowin paired with a trained instructor who also teaches in the native language. Along with typical school subjects like reading and math, children are also taught indigenous skills such as maple sugar harvesting and archery.
+
+==See also==
+{{Portal|Indigenous peoples of the Americas|Canada|United States|Languages}}
+{{div col|colwidth=30em}}
+*[[Broken Oghibbeway]]
+*[[Canadian Aboriginal syllabics]]
+*[[List of endangered languages in the United States]]
+*[[Lists of languages]]
+*[[Ojibwe grammar]]
+*[[Ojibwe phonology]]
+*[[Ojibwe writing systems]]
+{{div col end}}
+<!-- please keep entries in alphabetical order -->
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin|3}}
+* Bakker, Peter. 1991. "The Ojibwa element in Michif." W. Cowan, ed., ''Papers of the twenty-second Algonquian conference,'' 11–20. Ottawa: Carleton University. {{ISSN|0831-5671}}
+* Bakker, Peter. 1996. ''A language of our own: The genesis of Michif, the mixed Cree-French language of the Canadian Métis.'' New York: Oxford University Press. {{ISBN|0-19-509711-4}}
+*Bakker, Peter and Anthony Grant. 1996. "Interethnic communication in Canada, Alaska and adjacent areas." Stephen A. Wurm, Peter Muhlhausler, Darrell T. Tyron, eds., ''Atlas of Languages of Intercultural Communication in the Pacific, Asia, and the Americas,'' 1107–1170. Berlin: Mouton de Gruyter. {{ISBN|978-3-11-013417-9}}
+*Bloomfield, Leonard. 1958. ''Eastern Ojibwa: Grammatical sketch, texts and word list.'' Ann Arbor: University of Michigan Press.
+* Bloomfield, Leonard. 1962. ''The Menomini language.'' New Haven: Yale University Press.
+*[Dawes, Charles E.] 1982. ''Dictionary English-Ottawa Ottawa-English.'' No publisher given.
+*Canada. [http://www12.statcan.ca/english/census06/data/topics/RetrieveProductTable.cfm?ALEVEL=3&APATH=3&CATNO=&DETAIL=0&DIM=&DS=99&FL=0&FREE=0&GAL=0&GC=99&GK=NA&GRP=1&IPS=&METH=0&ORDER=1&PID=89189&PTYPE=88971&RL=0&S=1&ShowAll=No&StartRow=1&SUB=705&Temporal=2006&Theme=70&VID=0&VNAMEE=&VNAMEF=&GID=837928 Statistics Canada 2006] Retrieved on March 31, 2009.
+*Feest, Johanna, and Christian Feest. 1978. "Ottawa." Bruce Trigger, ed., ''The Handbook of North American Indians, Volume 15. Northeast,'' 772–786. Washington, D.C.: The Smithsonian Institution.
+* Goddard, Ives. 1978. "Central Algonquian Languages." Bruce Trigger, ed., ''Handbook of North American Indians, Volume 15, Northeast,'' 583–587. Washington: Smithsonian Institution.
+*Goddard, Ives. 1979. "Comparative Algonquian." Lyle Campbell and Marianne Mithun, eds, ''The languages of Native America,'' 70–132. Austin: University of Texas Press.
+*Goddard, Ives. 1996. "Introduction." Ives Goddard, ed., ''The Handbook of North American Indians, Volume 17. Languages,'' 1–16. Washington, D.C.: The Smithsonian Institution.
+*Kegg, Maude. 1991. Edited and transcribed by John D. Nichols. ''Portage Lake: Memories of an Ojibwe Childhood.'' Edmonton: University of Alberta Press. {{ISBN|0-8166-2415-1}}
+* Laverdure, Patline and Ida Rose Allard. 1983. ''The Michif dictionary: Turtle Mountain Chippewa Cree.'' Winnipeg, MB: Pemmican Publications. {{ISBN|0-919143-35-0}}
+*Nichols, John. 1980. ''Ojibwe morphology.'' PhD dissertation, Harvard University.
+*Nichols, John. 1995. "The Ojibwe verb in "Broken Oghibbeway." ''Amsterdam Creole Studies'' 12: 1–18.
+*Nichols, John. 1996. "The Cree syllabary." Peter Daniels and William Bright, eds. ''The world's writing systems,'' 599–611. New York: Oxford University Press. {{ISBN|0-19-507993-0}}
+*Nichols, John D. and Leonard Bloomfield, eds. 1991. ''The dog's children. Anishinaabe texts told by Angeline Williams.'' Winnipeg: Publications of the Algonquian Text Society, University of Manitoba. {{ISBN|0-88755-148-3}}
+*Nichols, John and Earl Nyholm. 1995. ''A concise dictionary of Minnesota Ojibwe.'' St. Paul: University of Minnesota Press. {{ISBN|0-8166-2427-5}}
+*Ningewance, Patricia. 1993. ''Survival Ojibwe.'' Winnipeg: Mazinaate Press. {{ISBN|0-9697826-0-8}}
+*Ningewance, Patricia. 1999. ''[http://imp.lss.wisc.edu/~jrvalent/BackUps/NLIP_Year_4_2008_bu13jul08/attachments/natconn.pdf Naasaab izhi-anishinaabebii'igeng: Conference report. A conference to find a common Anishinaabemowin writing system.]'' Toronto: Queen's Printer for Ontario. {{ISBN|0-7778-8695-2}}
+*Ningewance, Patricia. 2004. ''Talking Gookom's language: Learning Ojibwe.'' Lac Seul, ON: Mazinaate Press. {{ISBN|978-0-9697826-3-6}}
+*Piggott, Glyne L. 1980. ''Aspects of Odawa morphophonemics.'' New York: Garland. (Published version of PhD dissertation, University of Toronto, 1974) {{ISBN|0-8240-4557-2}}
+*Rhodes, Richard. 1976. "A preliminary report on the dialects of Eastern Ojibwa – Odawa." W. Cowan, ed., ''Papers of the seventh Algonquian conference,'' 129–156. Ottawa: Carleton University.
+*Rhodes, Richard. 1982. "Algonquian trade languages." William Cowan, ed., ''Papers of the thirteenth Algonquian conference,'' 1–10. Ottawa: Carleton University. {{ISBN|0-7709-0123-9}}
+*Rhodes, Richard A. 1985. ''Eastern Ojibwa-Chippewa-Ottawa Dictionary''. Berlin: Mouton de Gruyter. {{ISBN|3-11-013749-6}}
+*Rhodes, Richard and Evelyn Todd. 1981. "Subarctic Algonquian languages." June Helm, ed., ''The Handbook of North American Indians, Volume 6. Subarctic,'' 52–66. Washington, D.C.: The Smithsonian Institution.
+*Smith, Huron H. 1932. "Ethnobotany of the Ojibwe Indians." ''Bulletin of the Public Museum of Milwaukee'' 4:327–525.
+*Todd, Evelyn. 1970. ''A grammar of the Ojibwa language: The Severn dialect.'' PhD dissertation, University of North Carolina, Chapel Hill.
+*U.S. Census Bureau, 2000 Census of Population and Housing. [https://www.census.gov/prod/cen2000/phc-5-pt1.pdf ''Characteristics of American Indians and Alaska Natives by Tribe and Language: 2000''] Retrieved on March 31, 2009.
+*Valentine, J. Randolph. 1994. ''Ojibwe dialect relationships.'' PhD dissertation, University of Texas, Austin.
+*Valentine, J. Randolph. 1998. ''Weshki-bimaadzijig ji-noondmowaad. 'That the young might hear': The stories of Andrew Medler as recorded by Leonard Bloomfield. '' London, ON: The Centre for Teaching and Research of Canadian Native Languages, University of Western Ontario. {{ISBN|0-7714-2091-9}}
+*Valentine, J. Randolph. 2001. ''Nishnaabemwin Reference Grammar.'' Toronto: University of Toronto Press. {{ISBN|0-8020-4870-6}}
+*Vollom, Judith L. and Thomas M. Vollom. 1994. ''Ojibwemowin. Series 1. '' Second Edition. Ramsey, Minnesota: Ojibwe Language Publishing.
+*Walker, Willard. 1996. "Native writing systems." Ives Goddard, ed., ''The Handbook of North American Indians, Volume 17. Languages,'' 158–184. Washington, D.C.: The Smithsonian Institution. {{ISBN|0-16-048774-9}}
+{{Refend}}
+
+==Further reading==
+* Beardy, Tom. ''Introductory Ojibwe in Severn dialect. Parts one and two''. Thunder Bay, Ontario : Native Language Instructors' program, Lakehead University, 1996. {{ISBN|0-88663-018-5}}
+* Cappel, Constance, editor, "Odawa Language and legends: Andrew J. Blackbird and Raymond Kiogima," Philadelphia: Xlibris, 2006. {{ISBN|978-1-59926-920-7}}{{Self-published inline|certain=yes|date=December 2017}}
+* Hinton, Leanne and Kenneth Hale. 2001. ''The Green Book of Language Revitalization in Practice.'' Academic Press. {{ISBN|0-12-349353-6}} (Hardcover),  {{ISBN|90-04-25449-8}} (Paperback).
+* Kwayaciiwin Education Resource Centre. 2014. ''ᑭᑎᓯᑭᓯᐍᐏᓂᓇᐣ [Kihtisiikisiwewinan] : Anihshininiimowin Oji-Cree Dictionary (Severn River and Winisk River). Part One : Oji-Cree to English, Part Two : English to Oji-Cree.'' Nichols, John D. et al., editors. Sioux Lookout: Kwayaciiwin Education Resource Centre.
+* McGregor, Ernest. 1987. ''Algonquin lexicon.'' Maniwaki, QC: River Desert Education Authority.
+* Mitchell, Mary. 1988. Eds. J. Randolph Valentine and Lisa Valentine. ''Introductory Ojibwe (Severn dialect), Part one.'' Thunder Bay : Native Language Office, Lakehead University.
+* Mithun, Marianne. 1999. ''The Languages of Native North America''. Cambridge: University Press. {{ISBN|0-521-23228-7}}
+* Moose, Lawrence L. et al. 2009. ''Aaniin Ekidong: [https://web.archive.org/web/20090922174937/http://minnesotahumanities.org/resources/aaniin Aaniin Ekidong: Ojibwe Vocabulary Project]''. St. Paul : Minnesota Humanities Center.
+* Ningewance, Patricia. 1990. ''Anishinaabemodaa : Becoming a successful Ojibwe eavesdropper.'' Winnipeg : Manitoba Association for Native Languages. {{ISBN|1-894632-01-X}}
+* Ningewance, Patricia. 1996. ''Zagataagan – A Northern Ojibwe Dictionary. Volume 1 : English-Ojibwe, Volume 2 : Ojibwe-English.'' Sioux Lookout: Kwayaciiwin Education Resource Centre. {{ISBN|978-1-897579-15-2}}
+* Northrup, Jim, Marcie R. Rendon, and Linda LeGarde Grover. ''Nitaawichige = "to Do Something Skillfully" : Selected Poetry and Prose by Four Anishinaabe Writers''. Duluth, MN : Poetry Harbor, 2002. {{ISBN|1-886895-28-7}}
+* Snache, Irene. 2005. ''Ojibwe language dictionary.'' Rama, ON: Mnjikaning Kendaaswin Publishers. {{ISBN|1-894632-01-X}}
+* Sugarhead, Cecilia. 1996. ''ᓂᓄᑕᐣ / Ninoontaan / I can hear it: Ojibwe stories from Lansdowne House written by Cecilia Sugarhead. ''Edited, translated and with a glossary by John O'Meara. Winnipeg: Algonquian and Iroquoian Linguistics. {{ISBN|0-921064-14-4}}
+* Toulouse, Isadore. ''Kidwenan, An Ojibwe Language Book''. Munsee-Delaware Nation, ON: Anishinaabe Kendaaswin Pub, 1995. {{ISBN|1-896027-16-4}}
+* Treuer, Anton. ''[https://www.amazon.com/dp/0873514041 Living our language: Ojibwe tales & oral histories]''. St. Paul, MN: Minnesota Historical Society Press, 2001. {{ISBN|0-87351-404-1}}
+* Treuer, Anton. ''[https://www.amazon.com/dp/0873517687 Ojibwe in Minnesota]''. St. Paul : Minnesota Historical Society Press, 2010.
+* Vizenor, Gerald Robert. ''Summer in the Spring Anishinaabe Lyric Poems and Stories''. American Indian literature and critical studies series, v. 6. Norman: University of Oklahoma Press, 1993. {{ISBN|0-8061-2518-7}}
+* Williams, Shirley I. 2002. ''Gdi-nweninaa : Our sound, our voice.'' Peterborough, ON : Neganigwane. {{ISBN|0-9731442-1-1}}
+
+==External links==
+{{Incubator|code=ojb}}
+
+{{Wiktionary|Category:Ojibwe language}}
+* [http://www.ojibwe.net/ ''Noongwa e-Anishinaabemjig'': People Who Speak Anishinaabemowin Today] — hosted at the [[University of Michigan]]
+* [http://www.ojibwemowin.com/ Ojibwe Language Society]
+* [https://groups.yahoo.com/group/ojibwelanguagesocietymiinawaa/ Ojibwe Language Group]
+* [https://web.archive.org/web/20070404183743/http://www.fp.ucalgary.ca/howed/abor_lang.htm Aboriginal Languages of Canada] — With data on speaker populations
+* [http://www.languagegeek.com/algon/ojibway/anishinaabemowin.html Language Geek Page on Ojibwe] — Syllabary fonts and keyboard emulators are also available from this site.
+* [https://web.archive.org/web/20080907210109/http://cal.bemidjistate.edu/english/donovan/placenames.html Ojibwe Toponyms]
+* [https://web.archive.org/web/20080704074256/http://cal.bemidjistate.edu/english/donovan/Two_Women.html ''Niizh Ikwewag''] — A short story in Ojibwe, originally told by Earl Nyholm, emeritus professor of Ojibwe at [[Bemidji State University]].
+* [http://www.edu.gov.on.ca/eng/document/curricul/ojibwe.pdf Native Languages: A Support Document for the Teaching of Language Patterns, Ojibwe and Cree]
+* [http://www.native-languages.org/ojibwe.htm Native Languages page for Ojibwe]
+* [https://www.npr.org/templates/story/story.php?storyId=89851668 Letter Men: Brothers Fight for Ojibwe Language], a story broadcast on [[Fresh Air]], a [[National Public Radio]] broadcast show, interviewing Anton and [[David Treuer]].
+* [https://web.archive.org/web/20091009081309/http://speakingoffaith.publicradio.org/programs/2009/language-and-meaning/ Language and Meaning — An Ojibwe Story], a story broadcast on [[Speaking of Faith]], a [[National Public Radio]] broadcast show.
+* [https://web.archive.org/web/20180805165340/http://www.bemaadizing.org/ ''Bemaadizing:'' An Interdisciplinary Journal of Indigenous Life] (An online journal)
+* [http://linguistlist.org/ssila/Learning/ojibwe.cfm Comprehensive list of learning resources for Ojibwe] prepared for the [[SSILA]] by Dr. Rand Valentine
+* [http://www.lic.wisc.edu/glifwc/web/mining/language_sites.pdf ''Gidakiiminaan'' (Our Earth) wall-map] with Ojibwe Geographic Place Names in the 1837 Ceded Territories of Minnesota and Wisconsin, the 1842 Ceded Territories of Wisconsin and Michigan and the 1836 Ceded Territory of the Michigan Upper Peninsula, issued by the [[Great Lakes Indian Fish and Wildlife Commission]].
+* [http://video.tpt.org/video/2256944740 First Speakers: Restoring the Ojibwe Language] Documentary produced by [[Twin Cities Public Television]]
+* [http://www.prx.org/series/33038-ojibwe-stories-gaganoonididaa Ojibwe Stories: Gaganoonididaa] from the [[Public Radio Exchange]]
+* [https://www.nfb.ca/film/ikwe Ikwe], a [[National Film Board of Canada]] film done mostly in the Ojibwe language
+* [http://ojibweproject.weebly.com/ Baadwewedamojig project] featuring audio recording made by William Jones between 1903 and 1905.
+
+;Grammar and Lessons
+*[http://en.wiktionary.org/wiki/Appendix:Swadesh_lists_for_Algonquian_languages Comparative Ojibwe Swadesh vocabulary list of basic words] (from Wiktionary's [http://en.wiktionary.org/wiki/Appendix:Swadesh_lists Swadesh-list appendix])
+* [http://imp.lss.wisc.edu/~jrvalent/ais301/index.html Rand Valentine's introduction to Ojibwe]
+* [http://weshki.atwebpages.com/index.html Grammar, lessons, and dictionaries] — Ojibwe site by "''Weshki-ayaad''"
+<!-- * [http://jamesastarkeyjr.com/Ojibwemowin/Pages/Index.htm ''Gikendandaa Ojibwemowin''] — Ojibwe lesson site by James Starkey (''Mindjime'') << BROKEN LINK -->
+* [http://www.edu.gov.on.ca/eng/document/curricul/ojibwe.pdf Native Languages: A Support Document for the Teaching of Language Patters] — basic language patterns for Ojibwe ([[Ottawa language|Manitoulin Ojibwe/Ottawa]] "CO" and Lac Seul Ojibwe "WO") and Cree ([[Swampy Cree language|Swampy Cree]] "SC").
+* Baraga, Frederic (Bishop) 
+** (1850). ''[http://library.ncmich.edu/Electronic_Books/theoreticalpract00barauoft.pdf A Theoretical and Practical Grammar of the Otchipwe Language, the Language Spoken by the Chippewa Indians; Which Is Also Spoken by the Algonquin, Otawa and Potawatami Inidans, with Little Difference, For the Use of Missionaries and Other Persons Living Among the Indians of the Above Named Tribes.]''
+** (1878). ''[https://books.google.com/books?id=13JdGipTtI0C&dq=baraga&pg=PR4#v=onepage&q=&f=false A Theoretical and Practical Grammar of the Otchipwe Language for the Use of Missionaries and Other Persons Living Among the Indians]''
+* [http://www.languagesandnumbers.com/how-to-count-in-ojibwa/en/oji/ Ojibwe numerals]
+* [https://web.archive.org/web/20120419235023/http://www.wawataynews.ca/archive/all/2012/4/12/ojibwe-ipad-app-brings-language-world_22639 "Ojibwe iPad app brings language to world"] in [[Wawatay Native Communications Society|Wawatay News Online]].
+* [http://www.cbc.ca/news/canada/manitoba/ojibway-language-tutor-there-s-an-app-for-that-1.1855711 "Ojibway language tutor? There's an app for that"] in [[Canadian Broadcasting Corporation#News|CBC News]]
+* [https://the-eye.eu/public/Random/Pimsleur%20Language%20Pack/Pimsleur%20Languages%20for%20English%20Language%20Speakers/Pimsleur%20-%20Ojibwe%20I/ Pimsleur – Ojibwe I] — Audio introduction to the Ojibwe language, with focus on the Minnesota Ojibwe typically found spoken on Red Lake, Leech Lake, and White Earth Reservations.
+
+;Dictionaries and Wordlists
+* [http://ojibwe.lib.umn.edu/ Ojibwe People's Dictionary] — Online Ojibwe-English dictionary with 8,000+ words, 60,000 audio clips by Ojibwe elders from Minnesota and Ontario, and related images/documents.
+* [https://dictionary.nishnaabemwin.atlas-ling.ca/#/help Nishnaabemwin : Odawa & Eastern Ojibwe online dictionary] — Contains over 12,000 words from the Ojibwe languages known as Odawa (Ottawa), spoken along the shores of Lake Huron, and Eastern Ojibwe.
+* [http://resources.atlas-ling.ca/wp-content/uploads/2015/02/valentine-OjibweDialectSurveyLexical.pdf Ojibwe Dialect Relations : Lexical Maps] by Dr. J. Randolph Valentine (1995) — a study in differences in vocabulary among different Anishinaabemowin-speaking communities, with accompanying dialectological maps.
+* [https://web.archive.org/web/20090922174937/http://minnesotahumanities.org/resources/aaniin ''Aaniin Ekidong&nbsp;...'' (How Do You Say&nbsp;...): Ojibwe Vocabulary Project] — Math and science terms for the Southwestern (Wisconsin, Leech Lake and Red Lake) and Minnesota Border Chippewa dialect of the Ojibwe language.
+* [https://web.archive.org/web/20150801052451/http://www.sicc.sk.ca/nahkawe.html Our Languages: Nahkawē] (Saskatchewan Indian Cultural Centre)
+* [https://web.archive.org/web/20140416180729/http://www.kwayaciiwin.com/node/15336 ''Anishinaabe-Ikidowinan'' (Ojibwe) Dictionary] — Courtesy of the Kwayaciiwin Education Resource Centre. Covers Albany River, Berens River and English River dialects of Northwestern Ojibwe
+* [http://www.freelang.net/dictionary/ojibwe.html Freelang Ojibwe Dictionary] — Freeware off-line dictionary for Windows-based systems (with [http://www.freelang.net/download/misc/Freelang_Mac.pdf instructions] on how to load on a Macintosh). On-line searches are also available.
+* [http://home.kpn.nl/cvkolmes/ojibwe/ Kees van Kolmeschate: My Ojibwe Documents] — Assorted digital Ojibwe-related documents, including the electronic version of the 1878 Baraga Dictionary.
+* Baraga, Frederic (Bishop). ''Dictionary of the Otchipwe Language, Explained in English''.
+** [http://www.wisconsinhistory.org/turningpoints/search.asp?id=1649 Part I: English-Otchipwe and Part II: Otchipwe-English in the 1853 edition] at [[Wisconsin Historical Society]]
+** [https://books.google.com/books?id=75bhAAAAMAAJ&pg=PP11&dq=Baraga+Dictionary+1878&cd=3#v=onepage&q=&f=false Part I: English-Otchipwe in the 1878 edition] and [https://books.google.com/books?id=75bhAAAAMAAJ&pg=PA305&lpg=PA305&dq=Baraga+Dictionary+1880&source=bl&ots=RkE5_XKNVb&sig=gufknqBw-dDwYdm1mb6B9nAuu5I&hl=en&ei=Y-dVS7eYHZLslAeUvujiCA&sa=X&oi=book_result&ct=result&resnum=8&ved=0CBgQ6AEwBw#v=onepage&q=&f=false Part II: Otchipwe-English in the 1880 edition] courtesy of [[Google Books]]
+* [http://web.paulbunyan.net/ojibwemath/Index.htm Ojibwe Language Math Supplements Learner Outcomes K–6 Culturally Relevant Curriculum]: Math-related words from [[Red Lake, Minnesota]]
+* Lemoine, Georges. ''[https://openlibrary.org/books/OL21118375M/Dictionnaire_fran%C3%A7ais-algonquin Dictionnaire français-algonquin]''
+;Bibles:
+* [https://www.bible.com/bible/487/MAT.INTRO1.ALGNT Kije Manido Odikido8in: Ocki Mazinaigan &#91;Gizhe-manidoo Odikidowin: Oshki-mazina'igan&#93;] —  New Testament in Algonquin (simplified Cuoq Orthography)
+* [https://www.bible.com/bible/135/MAT.1.POTL 1833 Matthew and Acts] — in Potawatomi
+* Ojibwe Kihcimasina'ikan, by the Canadian [[Bible Society]]
+** [https://www.bible.com/af/bible/1119/GEN.INTRO1.OJBR in Northern Fiero orthography]
+** [https://www.bible.com/af/bible/1113/GEN.INTRO1.OJBS in partially pointed Eastern A-position Finals syllabics style]
+* St. Matthew's Gospel : translated into the language of the Ojibbeway {{sic}} Indians in the Diocese of Moosonee / by the Bishop [John Horden] of Moosonee and J. Sanders (1880)
+** [http://eco.canadiana.ca/view/oocihm.06642/3?r=0&s=1 in partially pointed Eastern A-position Finals syllabics style]
+** [http://home.kpn.nl/cvkolmes/ojibwe/horden1.pdf Transliteration and Vocabulary List in Southern Fiero orthography] by Kees van Kolmeschate
+
+{{Algonquian languages}}
+{{Languages of Minnesota}}
+{{Languages of Montana}}
+{{Languages of Canada}}
+{{Anishinaabe}}
+{{Authority control}}
+
+{{DEFAULTSORT:Ojibwe Language}}
+[[Category:Ojibwe culture| ]]
+[[Category:Anishinaabe languages| 01]]
+[[Category:Agglutinative languages]]
+[[Category:Central Algonquian languages]]
+[[Category:Indigenous languages of the North American eastern woodlands]]
+[[Category:Indigenous languages of the North American Subarctic]]
+[[Category:First Nations languages in Canada]]
+[[Category:Indigenous languages of Minnesota]]
+[[Category:Indigenous languages of Montana]]
+[[Category:Great Lakes tribal culture]]
+[[Category:Ojibwe]]
+[[Category:Potawatomi]]
+[[Category:Oji-Cree]]
+[[Category:Odawa]]
+[[Category:Algonquin]]
+[[Category:Native American language revitalization]]

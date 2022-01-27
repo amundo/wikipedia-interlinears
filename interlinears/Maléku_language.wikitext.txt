@@ -1,0 +1,595 @@
+{{Short description|Chibchan language spoken in Costa Rica}}
+{{Infobox language
+|name=Guatuso
+|nativename=Maléku Jaíka
+|states=[[Costa Rica]]
+|ethnicity = 1,070 [[Maléku people]] (200?)<ref name=e18/>
+|speakers=750
+|date=2000
+|ref=e18
+|familycolor=American
+|fam1=[[Chibchan languages|Chibchan]]
+|fam2=[[Votic languages|Votic]]
+|iso3=gut
+|glotto=male1297
+|glottorefname=Maléku Jaíka
+}}
+
+The '''Maléku Jaíka language''', also called Malecu, Maleku, '''Guatuso''', '''Watuso-Wétar''', and '''Guetar''', is an [[Indigenous American language]] in [[Costa Rica]].
+
+==Classification==
+The Maléku Jaíka language is a member of the Votic branch of the Chibchan language family. 
+Maléku, or 'the speech of our people', is considered to be endangered according to ''The Endangered Languages Project''. According to the 2011 National Population Census, 67.5% of the population that lives in the official Maléku territory declared that they speak the language; however, the state of vitality varies from one village to another and even among families (Sánchez 2011). In any case, following the parameters of UNESCO, the language can be classified as definitively endangered (Sánchez 2013).
+
+==History==
+The Maleku people (usually called "Guatusos" in historical documents, travel chronicles of the 19th and 20th centuries, and in multiple academic studies) constitute one of the original peoples of the Costa Rican territory. While their contact with the Hispanic language and culture was extremely sporadic and limited at least until the second mid-nineteenth century (Constenla, 1988; Castillo, 2004), it can be assumed that this contact was intensified in the middle of the twentieth century.
+
+==Geographic distribution==
+
+===Official status===
+Maléku is an indigenous language of north-central [[Costa Rica]], in the area of Guatuso, in the province of Alajuela, Costa Rica. It is spoken by around 300 to 460 indigenous [[Maléku people]] in an area of 2994 hectares. The aboriginal group that speaks Maléku is also known as the ''Guatusos''. They live in three communities called Palenques in the northern area of Costa Rica: Margarita, Tonjibe and El Sol. According to Constenla (1998), the Guatuso is in a state of decline in Margarita (the largest village) and in a state of resistance in Tonjibe and El Sol. At the 2000 census, 71.1% of the members of the ethnic group declared themselves to speak the language, but only 49% considered it as the mother tongue.  The 2011 National Census of Population reported that 67.5% of the population in these communities speaks this language (Avendaño 2018). The Ministry of Education (MEP, Minienciclopedia de los Territorios Indígenas de Costa Rica 2017) reported a Maléku population of 498 inhabitants. According to this institution, children attending schools in the region of Guatuso receive bilingual instruction in Maléku and Spanish.  According to Espinoza Romero, Mejía Marín & Ovares Barquero 2011, the school, traditionally an acculturation mechanism, has not contributed to strengthening the MaléKu identity. For instance, students receive instruction of core subjects in Spanish. They have to learn how to read and write in Spanish first. When they already read and write in the mainstream language, they can learn their language. The authors claim that the norm has been the teaching of the official language: Spanish and that despite the existence of educational policies that contemplate the revitalization of the use of indigenous languages in the region, there is an absence of strategies for teaching aboriginal languages.
+
+===Dialects/Varieties===
+
+The speakers of these three communities have declared that there are differences between the variety spoken by the communities of Margarita and El Sol and the one that is spoken by the people of Tonjibe (Avendaño 2018). [[Corobicí language|Corobicí]] is possibly a dialect.
+
+==Phonology==
+
+===Vowels===
+
+Maleku has five vowels.<ref name=":0">http://www.lapsyd.ddl.cnrs.fr/lapsyd/index.php?data=view&code=758</ref>
+
+{| class="wikitable" style="text-align:center;"
+|+Vowels
+! rowspan="2" |
+! colspan="2" |[[Front vowel|front]]
+! colspan="2" |[[Central vowel|central]]
+! colspan="2" |[[Back vowel|back]]
+|-
+!{{small|short}} || {{small|long}}
+!{{small|short}} || {{small|long}}
+!{{small|short}} || {{small|long}}
+|-
+![[High vowel|high]]
+|{{IPA link|i}} || {{IPA link|iː}}
+| ||
+|{{IPA link|u}} || {{IPA link|uː}}
+|-
+![[Mid vowel|mid]]
+|{{IPA link|e}} || {{IPA link|eː}}
+| ||
+|{{IPA link|o}} || {{IPA link|oː}}
+|-
+![[Low vowel|low]]
+| ||
+|{{IPA link|a}} || {{IPA link|aː}}
+| ||
+|}
+
+===Vowel notes===
+
+Sánchez (1984) affirms that the vowel system of the Maleku is similar to Spanish (apart from length contrast); he cites some words with unlike VV sequences but is unclear if these are single nuclei or V.V.
+
+Smith Sharp (1979) argues for V.V with an optional desyllabification of high vowels to approximants [w, j], in agreement with Costenla Umaña (1983).
+
+===Stress===
+
+Sánchez (1984) argues that stress is contrastive.  The examples given suggest there may be role for morphological structure and vowel length in predicting stress placement. Smith Sharp (1979: 42) states "En maleku, hay una sola oposición de acento. Cada palabra tiene por los menos un acento primario que no es predecible en palabras de dos o más sílabas."
+
+===Consonants===
+
+The traditional consonant system of the Maleku includes fifteen phonemes:<ref name=":0" />
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan="2" | 
+! [[Bilabial consonant|bilabial]]
+! [[Dental consonant|dental]]
+! [[Alveolar consonant|alveolar]]
+! [[Palato-alveolar consonant|pal-alv.]]
+! [[Velar consonant|velar]]
+|-
+! rowspan="2" | [[plosive]]/<br />[[affricate]]
+! voiceless
+| {{IPA link|p}}
+| {{IPA link|t̪}}
+|
+| {{IPA link|tʃ|ṯʃ}}
+| {{IPA link|k}}
+|-
+! voiced
+|
+|
+|
+| {{IPA link|dʒ|ḏʒ}}
+|
+|-
+! rowspan="2" | [[fricative]]
+! central
+| {{IPA link|ɸ}}
+|
+| {{IPA link|s}}
+|
+| {{IPA link|x}}
+|-
+! [[Lateral consonant|lateral]]
+|
+|
+| {{IPA link|ɬ}}
+|
+|
+|-
+! colspan="2" | [[Nasal consonant|nasal]]
+| {{IPA link|m}}
+|
+| {{IPA link|n}}
+|
+| {{IPA link|ŋ}}
+|-
+! rowspan="3" | [[Liquid consonant|liquid]]
+! [[Trill consonant|trill]]
+|
+|
+| {{IPA link|r}}
+|
+|
+|-
+! [[Tap and flap consonants|flap]]
+|
+|
+| {{IPA link|ɾ}}
+|
+|
+|-
+! [[Lateral consonant|lateral]]
+|
+|
+| {{IPA link|l}}
+|
+|
+|}
+
+===Consonant notes===
+
+Sánchez (1984) reports /t/ as 'dental-alveolar' and other coronals as 'alveolar'.  Contrast between /ɬ, x/ appears to be in process of being lost in favor of /x/ (Costenla Umaña 1983). Influence from Spanish has added voiced stops and /ɲ/ to the modern colloquial language; these are not included in the inventories of Sánchez (1984), Smith Sharp (1983) or in the text counts of Krohn (2017). Costenla Umaña (1983) excludes them from his 'heritage inventory'.
+
+===Syllabic notes===
+
+(C)V(ː)(C) seems to be the basic pattern, with no clusters, as suggested by Smith Sharp (1983: 44).  Any C can occur in onset (except rhotics word-initially); any C except affricates, fricatives and /ɾ/ in coda.  Sánchez (1984) gives 2 examples of word-internal CC codas /rɸ, rp/ in /irp-tʃia, irɸ-laŋ/ "drink it, eat it" and suggests CVCC as max syllable, but such examples are described as the result of an optional loss of a vowel in the 2nd person ergative prefix /riɸa/ by Costenla Umaña (1983: 18)
+
+Canonical Form:
+(C)V(ː)(C)
+	
+Syllabic Restriction:
+(C)V(ː)(C)
+
+== Grammar ==
+
+=== Word order ===
+The basic order of the elements is variable in transitive and in intransitive clauses. In intransitive clauses the common order is SV, but it is also possible to find VS order.
+
+{{interlinear|number=ex:|glossing=no abbr
+| Tó   na- tóye
+| Yo  1E    ir
+| I      go}}
+
+=== Subjects and objects ===
+Maleku possesses an ergative–absolutive actancial system.
+
+==== Subject of an intransitive verb ====
+In intransitive clauses the subject is expressed in absolutive case. The affixes that  appear in the verb establish a concordance of the person with the subject. These are:
+{| class="wikitable"
+|+intransitive clauses 
+!1 person 
+!2 person
+!3 person
+|-
+|na
+| -mi, -ma
+| -i, -a
+|}
+
+==== Subject of a transitive verb ====
+In transitive clauses Maleku distinguishes between complete  and incomplete  transitive clauses. The affixes that  appear in the verb are common in both constructions. These are 
+{| class="wikitable"
+|+transitive clauses 
+!1 person 
+!2 person
+!3 person
+|-
+| -rra
+| -rrifa
+-rrif
+
+-rrf
+
+-rrip
+
+-rrfa
+
+-rrp
+<br />
+| -rri
+|}
+
+==== Number ====
+Maleku distinguishes between singular and plural in common nouns. The plural is expressed in two ways.
+{|
+!
+!Example                          
+!Translation
+|-
+|'''duplicate noun'''
+| colspan="2" |tocó            →carú                 ear
+tocótocó     → carúcarú         ears
+
+<br />
+|-
+|'''plural modifier "maráma"'''
+| colspan="2" |yuquí                        →     bowie knife           
+yuquí   maráma        →     bowie knives
+
+nalhacá                    →      brother
+
+nalhacá    maráma  →       brothers
+<br />
+|}
+
+=== Personal pronouns ===
+There are four personal pronouns in Maleku. These are:
+{| class="wikitable"
+|+
+!1° person singular
+!2° person singular
+!1° person plural (exclusive)
+!1° person plural (inclusive)
+|-
+|Tón~ tó→ I    
+|pó~ púo→ you 
+|Toí~ toí→ we
+|Tótiquí~ totiquí→ we
+|}
+
+== Writing system ==
+The alphabet of Maleku was proposed by the linguist Adolfo Constenla, and it was adopted as official by the ''Asesoría de Educación Indígena del Ministerio de Educación Publica de Costa Rica''. 
+ 
+===Vowels===
+{|
+!'''phoneme'''
+!grapheme
+|-
+|а
+|a
+|-
+|e
+|e
+|-
+|i
+|''i''
+|-
+|o
+|''o''
+|-
+|u
+|''u''
+|}
+
+===Consonants===
+{|
+!'''phoneme'''
+!grapheme
+|-
+|p
+|''p''
+|-
+|t
+|''t''
+|-
+|k
+|''c,qu''
+|-
+|tʃ
+|''ch''
+|-
+|dʒ
+|y
+|-
+|ɸ
+|f
+|-
+|s
+|s
+|-
+|x
+|j
+|-
+|ɬ
+|lh
+|-
+|l
+|l
+|-
+|ɾ
+|r
+|-
+|r
+|rr
+|-
+|m
+|m
+|-
+|n
+|n
+|-
+|ŋ
+|nh
+|}
+
+==Vocabulary ==
+*kapi kapi = hello (with a knocking gesture on your partner's shoulder)
+*afekapian = Thank you
+*w-ay = yes
+*hebet = no
+*fufu = morfo butterfly
+*niskak = bird
+*pili = toucan
+*pek-pen = frog
+*gnou-ek = red-eye frog
+*ti-fakara = waterfall
+*irri miotem? = what is your name?
+*{{lang|gut|mioten ...}} = my name is ...
+*{{lang|gut|arrachapi kahole}} = I would like a cup of coffee
+*errekeki kerakou = let's go (to a place)
+*erreke malehila =let's go swimming
+
+===Numbers<ref name="Native Languages of the Americas">[http://www.native-languages.org/maleku_words.htm Native Languages of the Americas]</ref>===
+*Dooka = One
+*Pángi = Two
+*Poóse = Three
+*Pakái= Four
+*Otíni= Five
+
+===Common Nouns<ref name="Native Languages of the Americas" />===
+*Ochápaká= Man
+*Kuríjurí= Woman
+*Toji= Sun
+*Tlijii= Moon
+*Laká= Earth
+*Oktara= Stone
+*Koora= Tree
+*Uu= House
+
+==References==
+{{Reflist}}
+
+==Further reading==
+*Barrantes, R., Smouse, P. E., Mohrenweiser, H. W., Gershowitz, H., Azofeifa, J., Arias, T. D., & Neel, J. V. (1990). Microevolution in lower Central America: genetic characterization of the Chibcha-speaking groups of Costa Rica and Panama, and a consensus taxonomy based on genetic and linguistic affinity. American Journal of Human Genetics, 46(1), 63–84.
+*Brinton, Daniel G. 1891. The American Race: A Linguistic Classification and Ethnographic Description of the Native Tribes of North and South America. New York: N. D. C. Hodges Publisher
+*Guatuso. Retrieved from http://multitree.org/codes/gut.html
+*Madrigal Cordero, P., & Solís Rivera, V. (2012). Recognition and Support of ICCAs in Costa Rica. Kothari et al.
+*Maleku Indian Language (Guatuso, Jaika). (2016). Retrieved from http://www.native-languages.org/maleku.htm
+*Herrera Miranda, Roberto E. 2017. Valency classes in Maleku. (MA thesis, Universität Leipzig; 178pp.)
+*Herrera Miranda, Roberto. Endangered Languages Documentation Programme (sponsor). n.d. Endangered Languages Archive.
+*Pache, Matthias. Morphosyntactic Properties of Chibchan Verbal Person Marking. Retrieved from http://journals.dartmouth.edu/cgibin/WebObjects/Journals.woa/1/xmlpage/1/article/462?htmlAlways=yes
+*Ryan, James. Maleku Jaika. N.p., 1 Mar. 2013. Web. 1 May 2016. <http://dice.missouri.edu/docs/chibchan/MalekuJaika.pdf>.
+*Campbell, L., & Grondona, V. (Eds.). (2012). ''The indigenous languages of South America: A comprehensive guide'' (Vol. 2). Walter de Gruyter.
+*Ramos Rivas, K. (2014). Situación actual del programa de enseñanza de lenguas indígenas del  Ministerio de Educación Pública. ''Revista Electrónica Educare, 18''(3), 203–219. doi:  <nowiki>http://dx.doi.org/10.15359/ree.18-3.12</nowiki>
+
+==External links==
+*https://www.youtube.com/watch?v=o6RHVMC0YNA 
+*https://www.youtube.com/watch?v=oNLxEcmgFGg  
+*https://www.youtube.com/watch?v=_QKhqaxYiG0
+*https://www.youtube.com/watch?v=3tJvxJzhsHM
+*https://www.culturalsurvival.org/news/life-health-purity-and-survival-maleku-costa-rica-struggle-regain-lost-lands
+*[https://elar.soas.ac.uk/Collection/MPI1032015 Link to ELAR Maleku Dictionary Project]
+*https://www.dipalicori.ucr.ac.cr/lengua-cultura/malecu/
+*
+
+==Bibliography==
+*{{Cite journal
+| author = Constenla Umaña, Adolfo
+| date = 1982
+| title = Sobre la construcción ergativa en la lengua guatusa
+| journal = Revista de Filología y Lingüística de la Universidad de Costa Rica
+| volume = 8
+| issue = 1–2
+| pages = 97–102
+| doi = 10.15517/rfl.v8i1-2.16122
+| doi-access = free
+}}
+*{{Cite journal
+| author = Constenla Umaña, Adolfo
+| date = 1983
+| title = Descripción del sistea fonemático del guatuso
+| journal = Revista de Filología y Lingüística de la Universidad de Costa Rica
+| volume = 9
+| pages = 3–20
+| doi = 10.15517/rfl.v9i1.16136
+| doi-access = free
+}}
+*{{Cite journal
+| author = Constenla Umaña, Adolfo
+| date = 1986
+| title = La voz antipasiva en guatuso
+| journal = Estudios de Lingüística Chibcha (Universidad de Costa Rica)
+| volume = 5
+| pages = 86–96
+}}
+*{{Cite book
+| author = Constenla Umaña, Adolfo
+| date = 1986
+| title = Abecedario ilustrado malecu
+| location = San José, Costa Rica
+| publisher = Ministerio de Educación Pública
+}}
+*{{Cite journal
+| author = Constenla Umaña, Adolfo
+| date = 1988
+| title = El guatuso de Palenque Margarita: su proceso de declinación
+| journal = Estudios de Lingüística Chibcha (Universidad de Costa Rica)
+| volume = 7
+| pages = 7–38
+}}
+*{{Cite journal
+| author = Constenla Umaña, Adolfo
+| date = 1990
+| title = Morfofonología y morfología derivativa guatusas
+| journal = Estudios de Lingüística Chibcha (Universidad de Costa Rica)
+| volume = 9
+| pages = 81–122
+}}
+*{{Cite book
+| author = Constenla Umaña, Adolfo
+| date = 1991
+| title = Las lenguas del área intermedia: Introducción a su estudio areal
+| location = San José, Costa Rica
+| publisher = Editorial de la Universidad de Costa Rica
+}}
+*{{Cite book
+| author = Constenla Umaña, Adolfo
+| date = 1998
+| title = Gramática de la lengua guatusa
+| location = Heredia, Costa Rica
+| publisher = Editorial de la Universidad Nacional
+}}
+*{{Cite journal
+| title = Estado actual de la subclasificación de las lenguas chibchenses y de la reconstrucción fonológica y gramatical del protochibchense
+| author = Constenla Umaña, Adolfo
+| date = 2008
+| journal = Estudios de Lingüística Chibcha
+| volume = XXVII
+| pages = 117–135
+| location = San José, Costa Rica
+}}
+*{{Cite book
+| author = Constenla Umaña, Adolfo
+| date = 2009
+| title = FL-3159 Guatuso/Malécu Jaíca I
+| location = San José, Costa Rica
+}}
+*{{Cite book
+| author = Constenla Umaña, Adolfo og Eustaquio Castro C.
+| date = 2011
+| title = Pláticas sobre felinos
+| location = San José, Costa Rica
+| publisher = Editorial de la Universidad de Costa Rica
+}}
+*{{Cite book
+| author = Constenla Umaña, Adolfo, Eustaquio Castro C. og Antonio Blanco R.
+| date = 1993
+| title = Lacá majifíjicá – La transformación de la tierra
+| location = San José, Costa Rica
+| publisher = Editorial de la Universidad de Costa Rica
+}}
+*{{Cite web
+| url = http://www.ethnologue.com/show_language.asp?code=gut
+| title = Ethnologue – Maléku jaíka
+| access-date = 2015-05-03
+| author = Gordon, Raymond G. Jr. (red.)
+| date = 2005
+}}
+*{{Cite journal
+| author = Krohn, Haakon Stensrud
+| title = La representación sintáctica de la topicalidad de los participantes discursivos en la narrativa tradicional malecu
+| date = 2011
+| journal = Estudios de Lingüística Chibcha
+| volume = 30
+| pages = 37–62
+| url = http://revistas.ucr.ac.cr/index.php/chibcha/article/view/15064/14334
+}}
+*{{Cite journal
+| author = Krohn, Haakon Stensrud
+| title = El mantenimiento de la referencia anafórica en el discurso narrativo tradicional en lengua malecu
+| date = 2012
+| journal = Revista de Filología y Lingüística de la Universidad de Costa Rica
+| volume = 38
+| issue = 1
+| pages = 191–216
+| doi = 10.15517/rfl.v38i1.12208
+| doi-access = free
+}}
+*{{Cite journal
+| author = Krohn, Haakon Stensrud
+| title = La función de la orientación al ergativo en el discurso narrativo malecu
+| date = 2013
+| journal = Revista de Filología y Lingüística de la Universidad de Costa Rica
+| volume = 39
+| issue = 2
+| pages = 173–190
+| doi = 10.15517/rfl.v39i2.15095
+| doi-access = free
+}}
+*{{Cite book
+| author = Quesada J., Diego
+| date = 2007
+| title = The Chibchan languages
+| location = Cartago, Costa Rica
+| publisher = Editorial Técnica de Costa Rica
+}}
+*{{Cite journal
+| title = Situación actual y futuro de las lenguas indígenas de Costa Rica
+|author1=Quesada Pacheco |author2=Miguel Ángel | date = 2000
+| journal = Estudios de Lingüística Chibcha
+| volume = XVIII–XIX
+| pages = 7–34
+| location = San José, Costa Rica
+}}
+*{{Cite journal
+| author = Quilter, Jeffrey og John W. Hoopes
+| date = 2003
+| title = Goldwork and Chibchan identity: Endogenous change and diffuse unity in the Isthmo-Colombian area
+| journal = Gold and Power in Ancient Costa Rica, Panama and Colombia
+| pages = 49–89
+| url = http://www.doaks.org/publications/doaks_online_publications/GoldandPower/GoldandPower02.pdf
+}}
+*{{Cite journal
+| author = Sánchez Avendaño, Carlos
+| date = 2011
+| title = Caracterización cualitativa de la situación sociolingüística del pueblo malecu
+| journal = Estudios de Lingüística Chibcha (Universidad de Costa Rica)
+| volume = 30
+| pages = 63–90
+| url = http://revistas.ucr.ac.cr/index.php/chibcha/article/view/15067/14337
+}}
+*{{Cite journal
+| author = Sánchez Avendaño, Carlos
+| date = 2014
+| title = Muerte de lenguas y lenguas en peligro en Costa Rica: la perspectiva exocomunitaria
+| journal = Revista de Filología y Linguística (Universidad de Costa Rica)
+| volume = 40
+| issue = 1
+| pages = 173–196
+| doi = 10.15517/rfl.v40i1.16298
+| doi-access = free
+}}
+
+*{{Cite journal
+|author1=Sánchez Corrales |author2=Víctor M. | date = 1979
+| title = El maleku: lengua ergativa
+| journal = Revista de Filología y Lingüística de la Universidad de Costa Rica
+| volume = 5
+| pages = 67–71
+
+}}
+*{{Cite journal
+|author1=Sánchez Corrales |author2=Víctor M. | date = 1984
+| title = Análisis fonológico del guatuso
+| journal = Estudios de Lingüística Chibcha (Universidad de Costa Rica)
+| volume = 3
+| pages = 143–178
+}}
+*{{Cite journal
+| author = Smith Sharp, Heidi
+| date = 1979
+| title = Un análisis fonológico del maleku
+| journal = Revista de Filología y Lingüística de la Universidad de Costa Rica
+| volume = 5
+| pages = 31–54
+}}
+
+{{Languages of Costa Rica}}
+{{Chibchan languages}}
+
+{{DEFAULTSORT:Maleku Language}}
+[[Category:Languages of Costa Rica]]
+[[Category:Chibchan languages]]
+[[Category:Endangered Chibchan languages]]

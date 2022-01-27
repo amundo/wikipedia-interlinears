@@ -1,0 +1,207 @@
+{{Short description|Mande language}}
+{{Infobox language
+|name=Susu
+|nativename=''Sosoxui''
+|states=[[Guinea]], [[Sierra Leone]], [[Guinea Bissau]]
+|region=Coastal [[Guinea]]
+|speakers={{sigfig|1.06|3}} million
+|date=2001–2006
+|ref=e18
+|familycolor=Niger-Congo
+|fam1=[[Niger–Congo languages|Niger–Congo]]?
+|fam2=[[Mande languages|Mande]]
+|fam3=Western Mande
+|fam4=Central
+|fam5=Soso–Yalunka
+|iso2=sus
+|iso3=sus
+|glotto=susu1250
+|glottorefname=Susu
+}}
+
+The '''Susu language''' ([[endonym]]: {{lang-sus|Sosoxui}}; {{lang-fr|Soussou}}) is the language of the [[Susu people|Susu or ''Soso'' people]] of [[Guinea]] and [[Sierra Leone]], [[West Africa|West]] [[Africa]]. It is in the [[Mande language]] family.
+
+It is one of the [[national language]]s of [[Guinea]] and spoken mainly in the coastal region of the country.
+
+==History==
+The language was also used by people in the coastal regions of Guinea and Sierra Leone as a [[trade language]].
+
+The first literature in Susu was a translation of the first seven chapters of the Gospel of Matthew, translated by John Godfrey Wilhelm of the [[Church Mission Society]].  This was published in London as "Lingjili Matthew" in 1816.  J.G. Wilhelm translated a considerable portion of the New Testament, but only this small part appears to have been printed.
+
+==Phonology==
+{| class="wikitable" style="text-align: center;"
+|+ Susu consonants<ref name=":0">{{Cite book|last=Houis|first=Maurice|title=Étude Descriptive de la Langue Susu|publisher=Dakar: Institut Fondamental d'Afrique Noire, Université de Dakar|year=1963}}</ref>
+|-
+! colspan=2 | 
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Labial–velar consonant|Labial-<br>velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan=2 | [[Nasal consonant|Nasal]]
+| {{IPA link|m}} {{angbr|m}} || {{IPA link|n}} {{angbr|n}} || {{IPA link|ɲ}} {{angbr|ɲ}} || {{IPA link|ŋ}} {{angbr|ŋ}}|| ||
+|-
+! rowspan="3" |[[Plosive consonant|Plosive]]
+! <small>[[voicelessness|voiceless]]</small>
+| {{IPA link|p}} {{angbr|p}} || {{IPA link|t}} {{angbr|t}} || || {{IPA link|k}} {{angbr|k}} || ||
+|-
+! <small>[[voice (phonetics)|voiced]]</small>
+| {{IPA link|b}} {{angbr|b}} || {{IPA link|d}} {{angbr|d}} || || {{IPA link|ɡ}} {{angbr|g}} || {{IPA link|ɡb}} {{angbr|gb}}||
+|-
+! <small>[[Prenasalized consonant|prenasal]]</small>
+| || {{IPA|nd}} {{angbr|nd}} || || {{IPA|ŋɡ}} {{angbr|ng}}|| ||
+|-
+! colspan=2 | [[Fricative consonant|Fricative]]
+| {{IPA link|f}} {{angbr|f}} || {{IPA link|s}} {{angbr|s}} || || {{IPA link|x}} {{angbr|x}}|| || {{IPA link|h}} {{angbr|h}} 
+|-
+! colspan=2 | [[Trill consonant|Trill]]
+| || {{IPA link|r}} {{angbr|r}} || || || ||
+|-
+! colspan=2 | [[Approximant consonant|Approximant]]
+| || {{IPA link|l}} {{angbr|l}} || {{IPA link|j}} {{angbr|y}} || || {{IPA link|w}} {{angbr|w}}||
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Susu vowels<ref name=":0" />
+! 
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}} {{angbr|i}}, {{IPA link|iː}} {{angbr|ii}}|| {{IPA link|u}} {{angbr|u}}, {{IPA link|uː}} {{angbr|uu}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPA link|e}} {{angbr|e}}, {{IPA link|eː}} {{angbr|ee}}|| {{IPA link|o}} {{angbr|o}}, {{IPA link|oː}} {{angbr|oo}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| {{IPA link|ɛ}} {{angbr|ɛ}}, {{IPA link|ɛː}} {{angbr|ɛɛ}}|| {{IPA link|ɔ}} {{angbr|ɔ}}, {{IPA link|ɔː}} {{angbr|ɔɔ}}
+|-
+! [[Open vowel|Open]]
+| colspan="2" | {{IPA link|a}} {{angbr|a}}, {{IPA link|aː}} {{angbr|aa}}
+|}
+
+{| class="wikitable" style="text-align: center;"
+|+ Nasal vowels<ref name=":0" />
+! 
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|ĩ}} {{angbr|in}} || {{IPA link|ũ}} {{angbr|un}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| {{IPA link|ẽ}} {{angbr|en}} || {{IPA link|õ}} {{angbr|on}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| {{IPA link|ɛ̃}} {{angbr|ɛn}} || {{IPA link|ɔ̃}} {{angbr|ɔn}}
+|-
+! [[Open vowel|Open]]
+| colspan="2" | {{IPA link|ã}} {{angbr|an}}
+|}
+
+==Grammatical sketch==
+{{format|section|date=April 2019}}
+
+Susu is an SOV language, Poss-N, N-D, generally suffixing, non-pro-drop, wh-in-situ, with no agreement affixes on the verb, no noun classes, no gender, and with a clitic plural marker which attaches to the last element of the NP (N or D, typically), but does not co-occur with numerals. It has no definite or indefinite articles. Sentential negation is expressed with a particle, mu, whose distribution is unclear (with adjectival predicates it seems to sometimes infix, but with transitive verbs it comes before the object).
+
+Examples:
+{{interlinear|indent=4
+|khame didi to ne
+|man boy see PAST
+|"The/a man saw the/a boy."}}
+
+===Pronouns===
+{{interlinear|number=a.|n taami don ma|1sg bread eat PRES(generic)|"I eat bread."}}
+{{interlinear|number=b.|i taami don ma|2sg bread eat PRES(generic)|"You (sg) eat bread."}}
+{{interlinear|number=c.|a taami don ma|3sg bread eat PRES(generic)|"He/she/it eats bread."}}
+{{interlinear|number=d.|won taami don ma|1inc.pl bread eat PRES(generic)|"We (including you) eat bread."}}
+{{interlinear|number=e.|mukhu taami don ma|1exc.pl bread eat PRES(generic)|"We (excluding you) eat bread."}}
+{{interlinear|number=f.|wo taami don ma|2pl bread eat PRES(generic)|"You (pl or polite [sg or pl]) eat bread." ("wo" is used as French "vous")}}
+{{interlinear|number=g.|e taami don ma|3pl bread eat PRES(generic)|"They eat bread."}}
+
+cf.
+{{interlinear|number=a.|n bankhi to né|1sg house see PAST|"I saw a/the house."}}
+{{interlinear|number=b.|n taami don fe|1sg bread eat PROG|"I am eating the bread."}}
+
+Object pronouns have the same form as subject pronouns: 
+
+{{interlinear|number=a.|khame n to né|man 1sg see PAST|"A/the man saw me."}}
+{{interlinear|number=b.|khame i to né|man 2sg see PAST|"A/the man saw you (sg)."}}
+{{interlinear|number=c.|khame a to né|man 3sg see PAST|"A/the man saw him/her/it."}}
+{{interlinear|number=d.|khame won to né|man 1inc.pl see PAST|"A/the man saw us (including you)."}}
+{{interlinear|number=e.|khame mukhu to né|man 1exc.pl see PAST|"A/the man saw us (excluding you)."}}
+{{interlinear|number=f.|khame wo to né|man 2pl see PAST|"A/the man saw you (pl)."}}
+{{interlinear|number=g.|khame e to né|man 3pl see PAST|"A/the man saw them."}}
+
+Possessive affixes precede the noun:
+
+ baba "father":
+ m baba "my father"
+ i baba "your (sg) father"
+ a baba "his/her/its father"
+ wom baba "our father"
+ wo baba "your (pl) father"
+ e baba "their father"
+
+===Adverbs===
+Adverbs can precede the subject or follow the verb:
+
+{{interlinear|number=a.|khoro n fa né|yesterday 1sg arrive PAST|"Yesterday I arrived."}}
+{{interlinear|number=b.|n fa né khoro|1sg arrive PAST yesterday|"I arrived yesterday."}}
+
+===Grammatical number===
+NPs come in a variety of forms:
+
+ khamé "boy (sg)", khame e "boys (pl)
+ taami "bread (sg)", taami e "breads (pl)"
+
+{{interlinear|number=a.|khame e taami don ma|boy pl bread eat PRES|"The/0 boys eat bread."}}
+{{interlinear|number=b.|khamé taami e don ma|boy bread pl eat PRES|"The/a boy eats breads."}}
+
+===Numerials===
+# woto keren car one "one car"
+# woto firin car two "two cars"
+# woto sakhan "three cars"
+# woto nani "four cars"
+# woto suli "five cars"
+# woto senni "six cars"
+# woto solofere "seven cars"
+# woto solomasakhan "eight cars"
+# woto solomanani "nine cars"
+# woto fu "ten cars"
+# woto fu nun keren "eleven cars"
+# woto fu nun firin "twelve cars"
+
+ n woto nde e to né 1sg car indef.D pl see PAST "I saw several cars"/"J'ai vu des autos."
+ woto nde "some car"
+ di nde "some boy"
+ bangkhi nde "some house"
+ khame nde "someone"
+ se nde "something"
+ nde "who/some"
+ i nde to? you who see "Who did you see?"
+ i munse don ma? 2sg what eat PRES "What will you eat?"
+
+==Other==
+Sosoxui is closely related to the [[Yalunka language]].
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://archive.org/details/bub_gb_EL0pAAAAYAAJ Portions of the Book of Common Prayer in Susu and English] 1861 translation
+* [http://www.bisharat.net/wikidoc/pmwiki.php/PanAfrLoc/Susu PanAfrican L10n page on Susu]
+* [http://sumale.vjf.cnrs.fr/phono/AfficheTableauOrtho2N.php?choixLangue=soso Susu alphabet and phonology]
+* [http://friendsofguinea.org/aboutguinea/languages/susu.doc Peace Corps Susu language manual]
+
+{{Languages of Guinea}}
+{{Languages of Sierra Leone}}
+{{Mande languages}}
+
+{{Authority control}}
+[[Category:Mande languages]]
+[[Category:Languages of Guinea]]
+[[Category:Languages of Sierra Leone]]
+[[Category:Languages of Guinea-Bissau]]

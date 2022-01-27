@@ -1,0 +1,1643 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Neve’ei
+|nativename=
+|altname=Vinmavis
+|pronunciation=
+|region=Central [[Malekula]]
+|state=[[Vanuatu]]
+|speakers=500
+|date=2007
+|ref=e18
+|ethnicity=spoken by 70% (no date)<ref name=e15>{{e15|vnm}}</ref>
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=[[Central Vanuatu languages|Central Vanuatu]]
+|fam6=[[Malakula languages|Malakula]]
+|fam7=Western
+|iso3=vnm
+|glotto=vinm1237
+|glottorefname=Neve'ei
+}}
+
+'''Neve’ei''' ({{IPA-all|neveʔei}}), also known as '''Vinmavis''', is an [[Oceanic languages|Oceanic language]] of central [[Malekula]], [[Vanuatu]].<ref name="M3" group=M>Musgrave 2007, p. 3</ref> There are around 500 primary speakers of Neve’ei and about 750 speakers in total.<ref group="M" name="M3" />
+
+Neve’ei was described for the first time by Jill Musgrave, in a monograph published in 2007: ''A grammar of Neve’ei, Vanuatu''. This book is the source for the data and analyses below.
+
+==Name of the language==
+The traditional name of the language, which is recognized by older speakers, is Neveʻei.<ref name="M3" group=M /> However, the majority of younger speakers of Neve’ei do not use the traditional name and some are not even aware of it.<ref name="M3" group=M /> Native speakers commonly refer to their language as ''Nabusian teget'' which literally means “our language” and in [[Bislama]] the language (Neveʻei) is called ''Lanwis Vinmavis'' “the language of Vinmavis”.<ref name="M3" group=M /> Neveʻei is the traditional name for the language; Vinmavis is the name of one of the villages in which the language is spoken in (Lynch and Crowley 2001:83).<ref>See [http://www.sil.org/iso639-3/cr_files/2008-012.pdf ISO 639-3, 2008, Change Request Number 2008-012].</ref><ref name="M3" group="M" />
+
+== [[Phonology]] ==
+=== Phoneme inventory ===
+Neve’ei contains 5 vowels and 20 consonants:
+
+{|class="wikitable" style="text-align: center;"
+|+ Vowel phonemes<ref group="M" name=":14">Musgrave 2007, p. 12</ref>
+|-
+!
+![[Front vowel|Front]]
+![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+![[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+![[Low vowel|Low]]
+|colspan=2| {{IPA link|a}}
+|}
+
+{|class="wikitable" style="text-align: center;"
+|+ Consonant phonemes<ref group="M" name=":13">Musgrave 2007, p. 6.</ref>
+|-
+!colspan="2"|
+! [[Labial–velar consonant|Labio-velar]]
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+!colspan="2"| [[Nasal consonant|Nasal]]
+| {{IPA|mʷ}}
+| {{IPA link|m}}
+| {{IPA link|n}}
+| {{IPA link|ŋ}}
+|
+|-
+!rowspan="2"| [[Stop consonant|Stop]]
+! [[Voicelessness|Voiceless]]
+|
+|
+| {{IPA link|t}}
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! [[Voiced stop|Voiced]]
+| {{IPA|bʷ}}
+| {{IPA link|b}}
+| {{IPA link|d}}
+| {{IPA link|g}}
+|
+|-
+!colspan="2"| [[Fricative]]
+| {{IPA|vʷ}}
+| {{IPA link|v}}
+| {{IPA link|s}}
+| {{IPA link|x}}
+| {{IPA link|h}}
+|-
+!colspan="2"| [[Lateral consonant|Lateral]]
+|
+|
+| {{IPA link|l}}
+|
+|
+|-
+!colspan="2"| [[Flap consonant|Flap]]
+|
+|
+| {{IPA link|ɾ}} 
+|
+|
+|-
+!colspan="2"| [[Glide (linguistics)|Glide]]
+| {{IPA link|w}}
+|
+|
+| {{IPA link|j}}
+|
+|}
+
+By [[Linguistic typology|comparison with other languages of the world]],<ref name="WALS consonants">{{Cite web|url=http://wals.info/chapter/1|title=Consonant Inventories|last=Maddieson|first=Ian|date=2013|website=[[World Atlas of Language Structures]]}}</ref> such a phoneme inventory classifies Neve’ei in the average range regarding vowels (5-6) as well as regarding consonants (22 ± 3). The consonant-vowel ratio classifies Neve’ei in the low band.
+
+=== Phoneme properties ===
+The table above indicates that the segments /t/, /k/ and /ʔ/ can be understood as [[voiceless stop]]s at the [[Alveolar consonant|alveolar]], [[Velarised alveolar lateral|velar]] and [[glottal consonant|glottal]] positions of articulation (Musgrave, 2007, p.&nbsp;6). The segment /t/ can be understood as a voiceless [[alveolar stop]] in each position: initial, medial and final. For example, (Musgrave, 2007, p.&nbsp;6): 
+{|class="wikitable"
+|/tabin/ 
+|[taᵐbɪn] 
+|'grandfather’ 
+|-
+|/nebat/ 
+|[neᵐbat] 
+|‘vine variety’ 
+|-
+|/atl/ 
+|[atl] 
+|‘third’
+|}
+
+The segment /k/ can be understood as a voiceless [[Velar consonant|velar]] stop (Musgrave, 2007, p.&nbsp;7). It rarely appears with non-borrowed lexical root forms and is only found within the root /niaɾekaʔa-n/ ‘fin-CONST’ (Musgrave, 2007, p.&nbsp;7).
+
+The segment /ʔ/ can be understood as a [[glottal stop]] and appears in all positions, for example (Musgrave, 2007, p.&nbsp;7):
+{|class="wikitable"
+|/ʔaʔan/ 
+|[ʔaʔan] 
+|‘eat’ 
+|-
+|/nibiʔiŋ/ 
+|[nɪᵐbiʔɪŋ] 
+|‘giant turban snail’  
+|-
+|/bʷebaʔ/ 
+|[ᵐbʷeᵐbaʔ] 
+|‘hide’
+|}
+The segments /bʷ/, /b/, /d/ and /g/ are [[Stop consonant|voiced stops]] at the [[Labial–velar consonant|labio-velar]], [[bilabial]], [[Alveolar consonant|alveolar]] and [[Velar consonant|velar]] positions of articulation (Musgrave, 2007, p.&nbsp;7). The [[Labial–velar consonant|labio-velar]] stop /bʷ/ can be understood as a [[prenasalised]] [[bilabial]] stop that is voiced, involving the rounding of lips and an audible [[Labial–velar consonant|labio-velar]], [[Semivowel|semi-vowel]] offset (Musgrave, 2007, p.&nbsp;7). It can be identified in initial as well as medial positions, for example (Musgrave, 2007, p.&nbsp;7):
+{|class="wikitable"
+|/bʷi-/ 
+|[ᵐbʷi-] 
+|‘3SG.IRR (verbal prefix)’ 
+|-
+|/abʷit-/ 
+|[aᵐbʷɪt-] 
+|'2/3PL.IRR (verbal prefix)’ 
+|-
+|/nebʷelegen/ 
+|[neᵐbʷeleᵑgen] 
+|‘thigh’
+|}
+The [[bilabial]] stop /b/ can be understood as a [[prenasalised]] stop that is voiced [ᵐb] found in initial and medial positions, for example (Musgrave, 2007, p.&nbsp;7): 
+{|class="wikitable"
+|/baxah/ 
+|[ᵐbaxah ~ ᵐbaɣah] 
+|‘clean’ 
+|-
+|/nubuah/ 
+|[nuᵐbu(w)ah] 
+|‘pig’
+|}
+The segment /d/ is an [[Alveolar consonant|alveolar]] stop that differs from other [[prenasalised]] stops in that it can be found in all positions (initial, medial and final) (Musgrave, 2007, p.&nbsp;7). In initial and medial positions, it appears as a [[prenasalised]] [[voiced stop]] [ⁿd]. Examples include (Musgrave, 2007, p.&nbsp;7): 
+{|class="wikitable"
+|/doŋon/ 
+|[ⁿdoŋon] 
+|‘count’ 
+|-
+|/dedan/
+|[ⁿdeⁿdan] 
+|‘dive, swim underwater’
+|}
+The phonetic variations of [ⁿd], [ⁿt], [ndɾ] and [nɾ] can be found when /d/ occurs in final position (Musgrave, 2007, p.&nbsp;7). Examples include (Musgrave, 2007, p.&nbsp;7): 
+{|class="wikitable"
+|/minsed/ 
+|[mɪntʃeⁿd ~ mɪntʃeⁿt ~ mɪntʃeⁿdɾ ~ mɪntʃenɾ] 
+|-
+|/netarbad/ 
+|[netaɾᵐbaⁿd ~ netaɾᵐbaⁿt ~ netaɾᵐbaⁿdɾ ~ netaɾᵐbanɾ] 
+|}
+Finally, the [[Velar consonant|velar]] stop /g/ can be understood as a voiced homorganic [[prenasalised]] stop [ᵑg] which can be found in initial and medial positions, for example (Musgrave, 2007, p.&nbsp;7-8): 
+{|class="wikitable"
+|/gis/ 
+|[ᵑgɪs] 
+|‘squash, squeeze’ 
+|-
+|/gegeɾah/ 
+|[ᵑgeᵑgeɾah]
+|‘drag, pull’
+|}
+The following phonemes /mʷ/, /m/, /n/ and /ŋ/ are voiced [[Nasal consonant|nasals]] occurring at the [[Labial–velar consonant|labio-velar]], [[bilabial]], [[Alveolar consonant|alveolar]] and [[Velar consonant|velar]] positions of articulation (Musgrave, 2007, p.&nbsp;8). The phoneme /mʷ/ appears in initial and medial positions, involving the rounding of lips and an audible [[Labial–velar consonant|labio-velar]], [[Semivowel|semi-vowel]] offset. For example, (Musgrave, 2007, p.&nbsp;8): 
+{|class="wikitable"
+|/mʷaʔam/ 
+|[mʷaʔam] 
+|‘sit’ 
+|-
+|/mamʷe/ 
+|[mamʷe] 
+|‘father’ 
+|-
+|/nemʷen/ 
+|[nemʷen]
+|‘man’ 
+|}
+The segment /m/ can be understood as a voiced [[bilabial]] [[nasal consonant|nasal]] in each position, for example (Musgrave, 2007, p.&nbsp;8): 
+{|class="wikitable"
+|/mesemah/ 
+|[mesemah] 
+|‘dry’ 
+|-
+|/nomomox/
+|[nomomox] 
+|‘woman’ 
+|-
+|/dam/  
+|[ⁿdam]  
+|‘shout’ 
+|}
+The segment /n/ can be understood as a voiced [[Alveolar consonant|alveolar]] [[Nasal consonant|nasal]] in each position, for example (Musgrave, 2007, p.&nbsp;8): 
+{|class="wikitable"
+|/nabuŋ/ 
+|[naᵐbuŋ] 
+|‘time, occasion, day’ 
+|-
+|/vanili/ 
+|[fanili] 
+|‘different, strange, unusual’ 
+|-
+|/dan/ 
+|[ⁿdan] 
+|‘go down, sink’ 
+|}
+Finally, the segment /ŋ/ can be understood as a voiced [[Velar consonant|velar]] [[Nasal consonant|nasal]] in each position, for example (Musgrave, 2007, p.&nbsp;8): 
+{|class="wikitable"
+|/ŋaŋ/ 
+|[ŋaŋ] 
+|‘laugh’ 
+|-
+|/doŋon/ 
+|[ⁿdoŋon]
+| ‘count’ 
+|-
+|/naʔaibuŋ/ 
+|[naʔaiᵐbuŋ] 
+|‘my grandchild’ 
+|}
+The phonemes /vʷ/, /v/, /s/, /x/ and /h/ can be understood as [[fricatives]] at the [[Labial–velar consonant|labio-velar]], [[labio-dental]], [[Alveolar consonant|alveolar]], [[Velar consonant|velar]] and [[glottal consonant|glottal]] positions of articulation (Musgrave, 2007, p.&nbsp;8). The segment /vʷ/ is a [[Labial–velar consonant|labio-velar]] [[fricative]] involving the rounding of lips and an audible [[Labial–velar consonant|labio-velar]], [[Semivowel|semi-vowel]] offset (Musgrave, 2007, p.&nbsp;8). In initial position it is voiceless but can be optionally voiced intervocalically and does not appear in final position. For example, (Musgrave, 2007, p.&nbsp;8-9): 
+{|class="wikitable"
+|/vʷelem/ 
+|[fʷelem] 
+|‘come’ 
+|-
+|/nevʷen/ 
+|[nefʷen ~ nevʷen] 
+|‘fruit’ 
+|}
+The segment /v/ can be understood as a [[labio-dental]] [[fricative]] (Musgrave, 2007, p.&nbsp;9). In initial and final positions it is voiceless however, it can be voiced intervocalically. In some cases such as in syllable-final positions before /m/ and /b/, /v/ can be understood as [p] while in other syllable-final positions, there is variation between [f] and [p] (Musgrave, 2007, p.&nbsp;9). For example, (Musgrave, 2007, p.&nbsp;9): 
+{|class="wikitable"
+|/vavu/ 
+|[fafu ~ favu] 
+|‘walk’ 
+|-
+|/navmolto/ 
+|[napmolto] 
+|‘kind of bird’ 
+|-
+|/tenev/ 
+|[tenef ~ tenep] 
+|‘yesterday’ 
+|}
+The segment /s/ can be understood as a voiceless [[Alveolar consonant|alveolar]] [[grooved fricative]] (Musgrave, 2007, p.&nbsp;9). If /s/ follows /n/ it is understood as the affricate [tʃ] in initial and medial positions but is understood as [s] in final positions. For example, (Musgrave, 2007, p.&nbsp;9):
+{|class="wikitable"
+|/sido/ 
+|[sɪⁿdo] 
+|‘remember’ 
+|-
+|/bus/ 
+|[ᵐbus] 
+|‘speak, talk’ 
+|-
+|/nsev/  
+|[ntʃef] 
+|‘cough’ 
+|}
+The segment /x/ can be understood as a [[Velar consonant|velar]] [[fricative]] that is voiceless in initial and final positions but can be optionally voiced intervocalically. For example, (Musgrave, 2007, p.&nbsp;9):
+{|class="wikitable"
+|/xus/ 
+|[xus] 
+|‘hit, kill’ 
+|-
+|/buxut/ 
+|[ᵐbuxut ~ ᵐbuɣut] 
+|‘inside’ 
+|-
+|/maʔabux/ 
+|[maʔaᵐbux] 
+|‘short’ 
+|}
+The segment /h/ can be understood as a [[Glottal stop|glottal]] [[fricative]] that is voiceless (Musgrave, 2007, p.&nbsp;9). It is attested in final positions with the exception of /ahau/ (which means ‘no’ in answer to an affirmative question or ‘yes’ in answer to a negative question) (Musgrave, 2007, p.&nbsp;9). It is attested in medial positions such as /eheʔ/ ‘no’ (Musgrave, 2007, p.&nbsp;9). For example, (Musgrave, 2007, p.&nbsp;9): 
+{|class="wikitable"
+|/vuluh/ 
+|[fuluh] 
+|‘bake in earth oven’ 
+|-
+|/ahau/
+|[ahau]  
+|‘no, yes (depending on the question)’ 
+|-
+|/eheʔ/ 
+|[eheʔ]  
+|‘no’ 
+|}
+The segment /l/ can be understood as an [[Alveolar consonant|alveolar]] [[Lateral consonant|lateral]] that is voiced (Musgrave, 2007, p.&nbsp;9). It can be identified in all positions, for example (Musgrave, 2007, p.&nbsp;9-10): 
+{|class="wikitable"
+|/lax/ 
+|[lax] 
+|‘hang’ 
+|-
+|/bʷeli/ 
+|[ᵐbʷeli] 
+|‘very, a lot’ 
+|-
+|/namul/ 
+|[namul] 
+|‘million’  
+|}
+The segment /ɾ/ can be understood as an [[Alveolar consonant|alveolar]] [[flap consonant|flap]] that is voiced (Musgrave, 2007, p.&nbsp;10). It can be identified in all positions, for example (Musgrave, 2007, p.&nbsp;10):
+{|class="wikitable"
+|/ɾaʔ/ 
+|[ɾaʔ] 
+|‘work (in garden)’ 
+|-
+|/viviɾoŋ/
+|[fifiɾoŋ ~ fiviɾoŋ]
+| ‘listen’ 
+|-
+|/boɾ/ 
+|[ᵐboɾ] 
+|‘deaf’ 
+|}
+The [[glide (linguistics)|glide]]s /w/ and /j/ can only be found in syllable-initial positions (Musgrave, 2007, p.&nbsp;10). The segment /w/ is s a [[Semivowel|semi-vowel]] that can be understood as a [[Labial–velar consonant|labio-velar]] approximate [w] that is voiced (Musgrave, 2007, p.&nbsp;10). For example, (Musgrave, 2007, p.&nbsp;10): 
+{|class="wikitable"
+|/wal/ 
+|[wal] 
+|‘because’ 
+|-
+|/muluwul/ 
+|[muluwul] 
+|‘round’ 
+|-
+|/lowi/
+|[lowi]  
+|‘out, away’ 
+|}
+The segment /j/ is a [[Semivowel|semi-vowel]] that can be understood as a [[Palatal approximant|palatal]] approximate that is voiced (Musgrave, 2007, p.&nbsp;10). For example, (Musgrave, 2007, p.&nbsp;10):
+{|class="wikitable"
+|/jaʔai/ 
+|[jaʔai] 
+|‘this person’ 
+|-
+|/joxjox/ 
+|[joxjox]
+|‘vomit’ 
+|-
+|/nijim/ 
+| [nijɪm]  
+| ‘house’  
+|}
+
+=== Consonant phoneme contrasts ===
+
+The consonants that are phonetically similar in Neve’ei can be contrasted in the following ways (Musgrave, 2007, p.&nbsp;10-11): 
+{| class="wikitable"
+|/b/ 
+| /beɾ/ 
+|‘long, tall, deep’ 
+|-
+|/bʷ/
+|/bʷeɾ/
+|‘possibly, maybe’
+|}
+{| class="wikitable"
+|/m/
+|/melemal/
+|‘have cramp’
+|-
+|/mʷ/
+|/mʷelemal/
+|‘straight, correct’
+|}
+{| class="wikitable"
+|/v/
+|/veɾi/ 
+|‘outside’
+|-
+|/vʷ/ 
+|/vʷeɾi/
+|‘saying (something), tell (story)’
+|}
+{| class="wikitable"
+|/ʔ/
+|/meɾaʔ/
+|‘get up, fly, jump up’
+|-
+|/h/ 
+|/meɾah/
+|‘light (in weight)’
+|} 
+{| class="wikitable"
+|/h/
+|/veh/
+|‘carry’
+|-
+|/∅/
+|/ve∅/
+|‘what’
+|} 
+{| class="wikitable"
+|/ʔ/
+|/saʔ/
+|‘go up’
+|-
+|/x/ 
+|/sax/
+|‘not’
+|}
+{| class="wikitable"
+|/d/ 
+|/madl/
+|‘in three days’ time’
+|-
+|/t/
+|/matl/
+|‘thick, incorrect, uncircumcised’
+|}
+{| class="wikitable"
+|/g/ 
+|/gu/ 
+|‘you (pronoun)’
+|-
+|/k/ 
+|/ku-/
+|‘2SG.IRR (verbal prefix)’
+|}
+{| class="wikitable"
+|/ŋ/ 
+|/ŋe/
+|‘the (demonstrative)’
+|-
+|/g/
+|/ge/
+|‘the very one’
+|}
+{| class="wikitable"
+|/l/ 
+|/nebal/
+|‘hawk’
+|-
+|/ɾ/
+|/nebaɾ/
+|‘blind person’
+|-
+|/n/ 
+|/neban/
+|‘woman’s headdress’
+|}
+{| class="wikitable"
+|/w/
+|/wah/
+|‘look’
+|-
+|/u/
+|/uah/
+|‘day after tomorrow’
+|}
+
+=== Neutralisation of labial consonants ===
+
+Contrasts between plain [[Labial consonant|labials]] /m/, /v/ and /b/ and [[Labial–velar consonant|labio-velars]] /mʷ/, /vʷ/ and /bʷ/ are neutralised in circumstances such as before front vowels /i/ and /e/. Examples include (Musgrave, 2007, p.&nbsp;11): 
+{| class="wikitable"
+|/nimins/
+|‘wooden stirring stick’
+|-
+|/nimʷinsi/
+|‘star’
+|-
+|/meli/
+|‘wilt’
+|-
+|/mʷelam/
+|‘marked, spotted’
+|-
+|/visvis/
+|‘teach’
+|-
+|/vʷisi/
+|‘train yam vine’
+|-
+|/veh/
+|‘carry’
+|-
+|/vʷelem/
+|‘come’
+|-
+|/bʷiaŋ/ 
+|‘all right’
+|-
+|/bial/ 
+|‘all over the place, all sorts of things’
+|-
+|/bʷeɾ/ 
+|‘maybe’
+|-
+|/beɾ/ 
+|‘long, tall’
+|}
+
+When these consonants precede rounded vowels such as /o/ and /u/ there is no contrast and only plain [[Labial consonant|labials]], examples include (Musgrave, 2007, p.&nbsp;11):
+{| class="wikitable"
+|/moŋ/
+|‘proud’
+|-
+|/numuɾ/ 
+|‘person’
+|-
+|/vov/
+|‘rain’
+|-
+|/navusmo/
+|‘white flying fox’
+|-
+|/boɾ/ 
+|‘deaf’
+|-
+|/bubut/ 
+|‘do quietly’
+|}
+
+=== Vowel phonemes ===
+The table above (Musgrave, 2007, p.&nbsp;12) indicates that the vowel /i/ can be understood as a tense high front unrounded vowel (Musgrave, 2007, p.&nbsp;12). When the vowel is followed by a [[Nasal consonant|nasal]] or a [[Prenasalized consonant|prenasalised]] consonant and in closed syllables that end in a non-liquid [[alveolar consonant]], it can be understood as the lax high front vowel [ɪ] (Musgrave, 2007, p.&nbsp;12). For example, (Musgrave, 2007, p.&nbsp;12):
+{| class="wikitable"
+|/ivah/ 
+|[ifah ~ ivah] 
+|‘four’
+|-
+|/nimin/ 
+|[nɪmɪn]
+|‘bird’
+|-
+|/gis/ 
+|[ᵑgɪs]
+|‘squash, squeeze’
+|}     
+The vowel /u/ can be understood as a high back rounded vowel. For example, (Musgrave, 2007, p.&nbsp;13): 
+{| class="wikitable"
+|/utne/ 
+|[utne]
+|‘here’
+|-
+|/lueh/ 
+|[lu(w)eh] 
+|‘tired’
+|-
+|/manuanu/ 
+|[manu(w)anu]
+|‘rainbow’ 
+|}     
+The vowel /e/ can be understood as a mid front unrounded vowel. For example, (Musgrave, 2007, p.&nbsp;13):
+{| class="wikitable"
+|/etnaŋ/ 
+|[etnaŋ]
+|‘that thing there’
+|-
+|/dedan/
+|[ⁿdeⁿdan]
+|‘dive, swim underwater’
+|-
+|/mamʷe/ 
+|[mamʷe]
+|‘father’
+|}     
+The vowel /o/ can be understood as a mid back rounded vowel. For example, (Musgrave, 2007, p.&nbsp;13): 
+{| class="wikitable"
+|/oʔo/ 
+|[oʔo]
+|‘yes’
+|-
+|/nomomox/ 
+|[nomomox]
+|‘woman’
+|-
+|/noto/
+|[noto] 
+|‘chicken’
+|}   
+The vowel /a/ can be understood as a low front unrounded vowel. For example, (Musgrave, 2007, p.&nbsp;13): 
+{| class="wikitable"
+|/alimin/
+|[alɪmɪn]
+|‘fifth’
+|-
+|/mavis/
+|[mafɪs ~ mavɪs]
+|‘white’
+|-
+|/naʔanian/ 
+|[naʔani(j)an]
+|‘food’ 
+|}
+
+=== Vowel phoneme contrasts ===
+The forms listed below provide contrast between the five vowel phonemes in the Neve’ei language (Musgrave, 2007, p.&nbsp;13): 
+{| class="wikitable"
+|/i/ 
+|/bir/ 
+|‘fart audibly’
+|-
+|/u/
+|/bur-/
+|‘1DU.IRR (verbal prefix)’
+|-
+|/e/
+|/ber/
+|‘long, tall, deep’
+|-
+|/o/ 
+|/bor/ 
+|‘deaf’
+|-
+|/a/
+|/bar/
+|‘blind’
+|}
+
+=== Phonotactics  ===
+
+==== Syllable Structure ====
+The table below shows the various syllable structures attested in Neve’ei (Musgrave, 2007, p.&nbsp;13-14):
+{|class="wikitable"
+!V (vowel),<br/>C (consonant)
+!Neveʻei
+!English
+|-
+|V
+|/u-/
+/i-/
+|'2SG.REAL(verbal prefix)'
+'3SG.REAL(verbal prefix)'
+|-
+|VC
+|/im/
+/aɾ/   
+|'only, just'
+'they, them (pronoun)'
+|-
+|VCC
+|/itl/
+|'three'
+|-
+|CV
+|/vi/
+|'do, make'
+|-
+|CC
+|/tn/
+|'roast'
+|-
+|CCV
+|/nsu/
+/tno/
+|'remove bark of'
+'my (pronoun)'
+|-
+|CCVC
+|/nsev/
+/tlel/
+|'cough'
+'secret'
+|-
+|CVC
+|/dan/
+/veh/
+|'go down, sink'
+'carry'
+|-
+|CVCC
+|/matl/
+/bans/
+|'thick'
+'wander'
+|-
+|CCVCC
+|/nsutl/
+|'eight'
+|}
+
+Syllables that consist of two vowels are also present, but are only used for specific reasons (Musgrave, 2007, p.&nbsp;13). While most two non-like vowels can be used to form a morpheme, there are certain exceptions that must be noted (Musgrave, 2007, p.&nbsp;13). 
+{|class="wikitable"
+! colspan="2" |Impermissible vowel sequences<ref group="M">Musgrave 2007, (table 2.5), p. 19</ref>
+|-
+|eo, oe
+|mid vowels cannot be followed by another mid vowel
+|-
+|ea
+|mid front vowel /e/ cannot be followed by /a/
+|-
+|iu, eu
+|front vowels /i/ and /e/ cannot be followed by /u/
+|-
+|ae, ao
+|low vowel /a/ cannot be followed by a mid vowel
+|-
+|ui
+|back vowel /u/ cannot be followed by /i/
+|}
+
+==== Intramorphemic possibilities ====
+Phonotactic patterns display various possibilities within [[morpheme]]s (Musgrave, 2007, p.&nbsp;14).
+
+===== Single segments =====
+In root-initial forms, any of the vowels are possible but initial vowels are not common in lexical items. Initial vowels, as displayed below, are found mostly in grammatical items, for example (Musgrave, 2007, p.&nbsp;14):
+{| class="wikitable"
+|/i/
+|‘he/she/it’ 
+|-
+|/en/
+|‘instrumental’
+|-
+|/aɾ/
+|‘they, them’
+|-
+|/oʔo/
+|‘yes’ 
+|-
+|/utnaŋ/
+|‘there’
+|}
+With the exception of /h/, many lexical root forms begin with any consonant (Musgrave, 2007, p.&nbsp;14). In the final root position of the lexical item the following vowels are permitted: /i/, /e/, /o/ and /u/ (Musgrave, 2007, p.&nbsp;14). For example, /viviɾi/ 'spit', /mamʷe/ 'father', /noto/ 'chicken' and /{{transl|vnm|italic=no|manuanu}}/ 'rainbow' (Musgrave, 2007, p.&nbsp;12-13). The vowel /a/ does not occur in the root-final position unless there is an absence of a final [[Nasal consonant|nasal]] form. An example of this can be found within [[Preposition and postposition|prepositions]] that end in /n/; /len/, /{{transl|vnm|italic=no|sakhan}}/ and /{{transl|vnm|italic=no|nsensan}}/, these often appear in spoken language without the final [[Nasal consonant|nasal]] when a [[noun phrase]] follows. In saying this however, when the [[Preposition and postposition|preposition]] exists without the [[noun phrase]] following, the final [[Nasal consonant|nasal]] is essential (Musgrave, 2007, p.&nbsp;14-15). Any consonant can appear in the root-final position of the lexical item with the exception of the [[Prenasalized consonant|prenasalised]] [[Stop consonant|voiced stops]] /b<sup>w</sup>/, /b/ and /g/ and [[Labial–velar consonant|labio-velars]] /v<sup>w</sup>/ and /m<sup>w</sup>/ (Musgrave, 2007, p.&nbsp;15). The [[Glottal stop|glottal]] [[Fricative consonant|fricative]] /h/ is most commonly found in the root-final position for example /bʷebaʔ/ 'hide' (Musgrave, 2007, p.&nbsp;7).
+
+=== Stress ===
+In Neve'ei, [[Stress (linguistics)|stress]] is predictable in which the primary stress lies on the penultimate syllable where the last two syllables contain single vowels, for example (Musgrave, 2007, p.&nbsp;21):
+{| class="wikitable"
+|/ˈvenox/
+|‘steal’
+|-
+|/meˈtabux/
+|‘morning’
+|-
+|/ˈmoxot/ 
+|‘torn, ripped’
+|-
+|/ˈnowi/
+|‘water’
+|}
+
+== [[Orthography]] ==
+Neve’ei does not have a traditional orthography. Like elsewhere in Vanuatu, most speakers of Neve’ei write using either [[Bislama]], [[English language|English]] or sometimes [[French language|French]]. However, Neve’ei is sometimes used in writing for certain special occasions, such as the composition of hymns, recording details of family history, and land ownership.<ref name=":6" group=M >Musgrave 2007, p. 28</ref> Due to the lack of stable spelling conventions for Neve’ei, individuals differ in the choice of orthographical methods when transcribing unusual phonemes. In the past efforts had been made to create a standard orthography, but the current situation is unknown.<ref name=":6" group=M />
+
+==[[Morphosyntax|Morpho-syntax]]==
+
+=== Pronouns ===
+
+==== Independent pronouns ====
+In Neve’ei, independent pronouns can function as verbal subjects, as verbal and prepositional objects, and as pronominal possessors following directly possessed nouns. Independent pronouns inflect according to person and number (singular, dual, or non-singular), but not according to case or grammatical gender. First person pronouns also distinguish between inclusive and exclusive in the dual and non-singular forms.<ref name=":0" group=M>Musgrave 2007, p. 29</ref>
+
+{|class="wikitable"
+|+ Independent pronouns<ref name=":0" group=M /> 
+|-
+!
+! Singular
+! Dual
+! Non-singular
+|-
+! 1st inclusive
+|rowspan="2" | no
+| getdru
+| get 
+|-
+! 1st exclusive
+| gememru
+| gemem 
+|-
+! 2nd
+| gu
+| gemru
+| gem 
+|-
+! 3rd
+| i
+| ardru
+| ar 
+|}
+
+Although Neve’ei has a distinction between dual and plural, the forms listed as non-singular can be used to refer to both dual and plural subjects. In these cases, even when the non-singular independent pronoun is used, the dual verbal prefix will be used.<ref group=M>Musgrave 2007, p. 29-30</ref>
+
+''Example:''<ref group=M>Musgrave 2007, p. 30</ref>
+
+{{interlinear|indent=3
+|gemem bwera-vu ran nourour toro
+|1NONSG.EXCL 1DU.IRR-go GOAL island big
+|"We (two) will go to the mainland."}}
+
+{{interlinear|indent=3
+|gemem bwit-tovu ran nourour toro
+|1NONSG.EXCL 1PL.IRR-go GOAL island big
+|"We (all) will go to the mainland."}}
+
+The pronominal forms listed as dual in the table are instead used in cases where there is a pragmatic contrast with singular or plural reference, or where two participants are acting together rather than separately.<ref group=M name=":1">Musgrave 2007, p. 30</ref>
+
+''Example:''<ref group=M name=":1" />
+
+{{interlinear|indent=3
+|ar ar-vwelem
+|3NONSG 3DU.REAL-come
+|"They (two) came."}}
+
+{{interlinear|indent=3
+|ardru ar-vwelem
+|3DU 3DU.REAL-come
+|"They (two) came together."}}
+
+==== Possessive pronouns ====
+Neve’ei contains a set of possessive postmodifiers which are used as possessive adjuncts with indirectly possessed nouns. The [[Pronoun#Possessive|possessive pronouns]] (used when the possessed noun is not overtly expressed) are derived from these possessive postmodifiers by adding the [[prefix]] ''ti-'', although this may be omitted in some forms. Like the independent pronouns, these pronominal forms indicate person and number, and the non-singular forms may be used for dual referents. These pronominal forms also have an inclusive/exclusive distinction. Additionally, possessive [[Grammatical modifier#Premodifiers and postmodifiers|postmodifiers]] can take singular, dual and non-singular forms, similar to independent pronouns, in which case the non-singular form is often employed for both dual and plural [[referent]]s [[Neve'ei language#References|(Musgrave, 2007)]].
+
+{|class="wikitable"
+|+ Possessive postmodifiers<ref group=M name=":3">Musgrave 2007, p. 31</ref> 
+|-
+!
+! Singular
+! Dual
+! Non-singular
+|-
+! 1st inclusive
+|rowspan="2"| tno
+| tegetdru
+| teget 
+|-
+! 1st excusive
+| tegememru
+| tegemem 
+|-
+! 2nd
+| tugu
+| tegemru
+| tegem 
+|-
+! 3rd
+| ti
+| terdru
+| ter 
+|}
+
+{|class="wikitable"
+|+ Possessive pronouns<ref group=M name=":3" /> 
+|-
+!
+! Singular
+! Dual
+! Non-singular 
+|-
+! 1st inclusive
+|rowspan="2"| titno
+| (ti)tegetdru
+| (ti)teget 
+|-
+! 1st excusive
+| (ti)tegememru
+| (ti)tegemem 
+|-
+! 2nd
+| (ti)tugu
+| tegemru
+| (ti)tegem 
+|-
+! 3rd
+| titi
+| titerdru
+| titer 
+|}
+
+''Example:''<ref group="M" name=":2">Musgrave 2007, p. 30-31</ref>
+{{interlinear|indent=3
+|gu ke-takh natitimwen teget bwe-sevakh
+|2SG 2SG.IRR-take boy 1NONSG.INCL.POSS 3SG.IRR-one 
+|"You will take one of our boys."}}
+
+{{interlinear|indent=3
+|get tuan ba-khal titi
+|1NONSG.INCL INDEF 3SG.IRR-dig 3SG.POSS 
+|"Each of us will dig his own."}}
+
+==== Indefinite pronouns ====
+Neve’ei also contains a set of indefinite pronouns which function as both verbals subjects and objects, with separate forms in fast and slow speech.<ref group=M>Musgrave 2007, p. 32</ref>
+{|class="wikitable"
+!Slow speech
+!Fast speech
+!
+|-
+|''numuruan''
+|''numurwan''
+|"somebody, someone"
+|-
+|''nusutuan''
+|''nusutwan''
+|"something"
+|-
+|''nisituan''
+|''nisitwan''
+|"something"
+|-
+|colspan="2" |''nei mang (mi)''
+|"who, whoever"
+|-
+|colspan="2" |''Neve’ei mang (mi)''
+|"what, whatever"
+|}
+
+''Example:''<ref group=M>Musgrave 2007 p. 62</ref>
+{{interlinear|indent=3
+|nisit nganga' i-leh nusutwan
+|thing little 3SG.REAL-see something
+|"The child saw something"}}
+
+=== Nouns ===
+In Neveʻei, similar to most Oceanic Languages, nouns do not change.<ref group="M" name=":8">Musgrave 2007, p. 33</ref> The [[inflection]] of nouns by numbers does not occur and instead postmodifiers are used.<ref name=":8" group="M" /> Only two types of possession exist in Neveʻei.<ref name=":8" group="M" /> These are direct and indirect. For a directly possessed noun, a [[suffix]] is attached directly to the noun itself and for an indirectly possessed noun, a possessive postmodifier appears before the noun. 
+
+{|class="wikitable"
+! Direct possession<ref group="M">Musgrave 2007, (table 3.5), p. 33</ref>
+! Indirect possession
+|-
+| {{interlinear|netal-ung|leg-1SG|my leg}}
+| {{interlinear|noang tno|canoe 1SG.POSS|my canoe}}
+|}
+
+Most often, directly possessed nouns have stems ending in vowels, however there are also instances in which stems ending in non-nasal [[Alveolar consonant|alveolar]] consonants ''t, s, l'' and ''r'' occur [[Neve'ei language#References|(Musgrave, 2007)]]. The following table provides examples of both instances [[Neve'ei language#References|(Musgrave, 2007 p. 33)]]:
+{| class="wikitable"
+!Vowel Endings
+!Consonant Endings
+|-
+|''khava'' - 'brother, friend'
+|''nagalel'' - 'rib, side (of body)
+|-
+|''ninsibi'' - 'finger, toe claw (of bird/chicken)'
+|''netal'' - 'foot, leg, behind leg (of animal)'
+|-
+|''nobologo'' - 'bone'
+|''nibis'' - 'tail'
+|}
+(More on directly possessed nouns below: [[Neve'ei language#Directly possessed nouns|5.1 Directly possessed nouns]])
+
+==== Noun Derivation ====
+In Neveʻei complex nouns can be formed by compounding or [[affixation]].<ref name=":9" group="M">Musgrave 2007, p. 36</ref> Compounding involves combining a noun root with either a noun or verb root. And affixation involves deriving nouns from verbs, a process in which a [[simulfix]] is added to the verb stem.<ref name=":9" group="M" />
+
+=== Numerals ===
+
+==== Cardinal [[Numeral system|Numerals]] (numerals that denote quantity) ====
+Neveʻei uses a [[decimal]] (base 10) system for numbers, however many young people are only familiar with one to ten, so higher value numerals are often expressed using methods derived from [[Bislama]].<ref group="M">Musgrave 2007, p. 40</ref>
+{|class="wikitable"
+!1
+!2
+!3
+!4
+!5
+!6
+!7
+!8
+!9
+!10
+|-
+|''sevakh''
+|''iru''
+|''itl''
+|''ivah''
+|''ilim''
+|''nsouh''
+|''nsuru''
+|''nsutl''
+|''nsavah''
+|''nangavil (sevakh) / vungavil''
+|}
+10 is an interesting number in Neveʻei because it can be either {{transl|vnm|nangavil}} or {{transl|vnm|nangavil sevkh}}.<ref name=":10" group="M">Musgrave 2007, p. 41</ref> Also note that {{transl|vnm|nangavil}} is used for the actual number 10 when counting and ''vungavil'' is used to modify a phrase or noun.<ref name=":10" group="M" /> An example would be ''noang vungavil'' which translates to "10 canoes" in English.<ref name=":10" group="M" />
+
+=== Person markers ===
+In Neve’ei, subject verbal prefixes are obligatory and indicate the person and number of the subject. There are two complete sets of prefixes: one for realis mood and the other for irrealis. Unlike the pronoun systems, there is no distinction between inclusive and exclusive first person, and dual prefixes are always used with dual referents. There is no set of affixes encoding the person and number of objects. Vowels in some of these prefixes may change according to the first vowel in the verb stem; this is a process of progressive assimilation at a distance.<ref group=M>Musgrave 2007, p. 44-45</ref>
+
+{| class="wikitable"
+|+ prefixes<ref group=M name=":4">Musgrave 2007, p. 44</ref>
+|-
+! 
+! colspan="3" | Realis
+! colspan="3" | Irrealis
+|-
+! 
+! Singular || Dual || Plural
+! Singular || Dual || Plural
+|-
+! 1st
+| nV- || er- || it-
+| nVbwV- || bwVr- || bwit-
+|-
+! 2nd
+| u- || ar- || at-
+| kV- || abwVr- || abwit-
+|-
+! 3rd
+| colspan="3" | i-/∅-
+| colspan="3" | bwV-
+|}
+
+''Example:''<ref group=M>Musgrave 2007, p. 46</ref>
+
+{{interlinear|indent=3
+|bwer-ngang
+|1DU.IRR-laugh
+|"we (both) will laugh"}}
+
+{{interlinear|indent=3
+|er-ngang
+|1DU.REAL-laugh
+|"we (both) laugh"}}
+
+{{interlinear|indent=3
+|ar-ngang
+|2/3DU.REAL-laugh
+|"you/they (both) laugh"}}
+
+{{interlinear|indent=3
+|abwer-ngang
+|2/3DU.IRR-laugh
+|"you/they (both) will laugh"}}
+
+The third person singular realis prefix is sometimes realised as ''∅-'' in various environments. This is more common with certain verbs, especially verbs where the stem begins with ''s.''
+
+''Example:''<ref group=M name=":5">Musgrave 2007, p. 45</ref>
+{{interlinear|indent=3
+|numur bweradang ∅-sakh
+|person real 3SG.REAL-is.not
+|"...not a real person."}}
+
+Verbal prefixes ending in ''t'' also often lose the ''t'' before verb roots beginning with ''s.''
+
+''Example:''<ref group=M name=":5" />
+{{interlinear|indent=3
+|i-sav
+|1PL.REAL-dance
+|"We (all) dance"}}
+
+=== Reduplication in Neveʻei ===
+Reduplication is most commonly used in Neveʻei to indicate things such as intensity, prohibition, reciprocity and habitual aspects and is also sometimes used in order to differentiate between transitive and intransitive forms of a verb.<ref name=":11" group="M">Musgrave 2007, p. 54</ref> The most common method of reduplication in Neveʻei is the repeating of the first syllable in the verb stem.<ref name=":11" group="M" />
+
+{{interlinear|indent=3
+|I-bans-bans do.
+|3SG.REAL-REDUP-wander.about a.little
+|(S)he wandered about a bit.}}
+
+This example shows reduplication to express a habitual aspect.<ref name=":11" group="M" />
+
+{{interlinear|indent=3
+|Abur-su-khus-khus-si ∅
+|2DU.IRR-NEG1-REDUP-kill-NEG2 3SG
+|Do not kill it.}}
+
+This example shows reduplication to express prohibition.<ref name=":11" group="M" />
+
+{{interlinear|indent=3
+|Ar are-te-teri ar.
+|2NONSG 3DU.REAL-REDUP-cut 3NONSG
+|They cut each other.}}
+
+This example shows reduplication to express reciprocity.<ref name=":11" group="M" />
+
+{{interlinear|indent=3
+|Ar ar-yang-yangwal ar.
+|3NONSG 3DU.REAL-REDUP-like 3NONSG
+|They like each other.}}
+
+This example shows reduplication to express intensity.
+
+=== Transitive suffix ===
+In Neveʻei transitive and intransitive verbs are represented by a technique in which intransitive verbs become transitive through the addition of a suffix -V(vowel)''n'' to the end of an intransitive verb stem.<ref name=":12" group="M">Musgrave 2007, (table 3.11), p. 56</ref>
+
+The suffix to make verbs transitive has three [[allomorph]]s. They are:
+
+* ''-on ~ -en'' (used for verb stems ending in ''o''C (consonant)).<ref name=":12" group="M" />
+* -''an ~ -en'' (used for verb stems ending in ''a''C (consonant) where the consonant is also glottal or velar).<ref name=":12" group="M" />
+* -''en'' (used elsewhere).<ref name=":12" group="M" />
+
+{|class="wikitable"
+!Intransitive<ref name=":12" group="M" />
+!Transitive
+|-
+|''nonong'' "finish"
+|''nonong-on ~ nonong-en'' "finish"
+|-
+|''ngang'' "laugh"
+|''ngang-an ~ ngang-en'' "laugh at"
+|-
+|''dedan'' "dive"
+|''dedan-en'' "dive for"
+|}
+Apart from addition of the suffix, there are two other methods to differentiate between [[Intransitive verb|intransitive]] and [[Transitive verb|transitive]] verbs.
+
+One other way is for both transitive and intransitive verbs to have very different forms of expression.<ref name=":12" group="M" />
+{|class="wikitable"
+!
+!Intransitive<ref name=":12" group="M" />
+!Transitive
+|-
+|"eat"
+|''ʻaʻan''
+|''khan''
+|-
+|"steal"
+|''vevenaʻ''
+|''venokh''
+|-
+|"burn"
+|''lililmin''
+|''vang do''
+|}
+The final way for intransitive and transitive verbs to differentiate from each other is through reduplication.<ref group="M">Musgrave 2007, p. 57</ref>
+{|class="wikitable"
+!
+!Transitive<ref group="M">Musgrave 2007, (table 3.12), p. 57</ref>
+!Intransitive
+|-
+|"turn around"
+|''vilih''
+|''vil-vilih''
+|-
+|"buy"
+|''vul''
+|''vul-vul''
+|-
+|"drink"
+|''min''
+|''min-min''
+|-
+|"copulate (with)"
+|''ʻav''
+|''ʻav-ʻav''
+|}
+
+=== Negation ===
+In Neve'ei negation is marked by the simulfixes {{transl|vnm|sV- ... -si}} 'not' and {{transl|vnm|sV- ... -vang(an)}} 'not yet'. The prefixed element of the negative marker directly follows the subject prefix and precedes the verb stem while the suffixed element is always the final morpheme of the verb.<ref group="M">Musgrave 2007, p. 51</ref> The prefixed element ''sV-'' is used in both negative simulfixes with the realisation of ''V-'' depending on a process of vowel harmony. The suffixed element ''-si'' remains the same following both transitive and intransitive verbs, however the {{transl|vnm|-vang(an)}} element from the other simulfix is {{transl|vnm|-vang}} following intransitive verbs and {{transl|vnm|-vang-an}} (here ''-an'' can be described as a realisation of the transitive suffix ''-Vn)'' after transitive verbs.<ref group="M">Musgrave 2007, p. 52</ref>
+
+The following examples<ref group="M">Musgrave 2007, (example 3.56a-d), p. 52</ref> show how the negative simulfixes are used with the intransitive verb ''nonong'' 'finish' and the transitive equivalent ''nonong-on'' 'finish (something)'.
+
+{{interlinear|indent=3
+|No-so-nonong-si.
+|1SG.REAL-NEG1-finish-NEG2
+|'I haven't finished.'}}
+
+{{interlinear|indent=3
+|No-so-nonong-vang.
+|1SG.REAL-NEG1-finish-NEG2
+|'I haven't finished yet.'}}
+
+{{interlinear|indent=3
+|No-so-nonong-on-si nemagarian tno.
+|1SG.REAL-NEG1-finish-TRANS-NEG2 work 1SG.POSS
+|'I haven't finished my work.'}}
+
+{{interlinear|indent=3
+|No-so-nonong-on-vang-an nemagarian tno.
+|1SG.REAL-NEG1-finish-TRANS-NEG2-TRANS work 1SG.POSS
+|'I haven't finished my work yet.'}}
+
+When a sentence containing a verb with the completive suffix ''-i''  is negated the simulfix usually replaces the completive suffix as in the following example where ''mah-i'' becomes ''mah-vang-an'' in the negative version.<ref group="M">Musgrove 2007, (examples 3.62-3), p. 54</ref>
+
+{{interlinear|indent=3
+|Ne-vweri mah-i ∅
+|1SG.REAL-say finish.doing-COMP 3SG
+|'I've already said it.'}}
+
+{{interlinear|indent=3
+|Ne-se-vweri mah-vang-an ∅
+|1SG.REAL-NEG1-say finish.doing-NEG2-TRANS 3SG
+|'I haven't said it yet.'}}
+
+==== Complex Verbs ====
+Neve'ei allows for inflected verb stems to consist of a sequence of two or more stems. These verbs in sequence are negated as a single unit with the negative prefix preceding the first verb stem and the suffix following the final verb stem in the sequence.<ref group="M">Musgrave 2007, pp. 77-78</ref>
+
+For example:<ref group="M">Musgrave 2007, (examples 5.2b, 5.4a), p. 78</ref>
+
+{{interlinear|indent=3
+|I-si-yel totovung-si.
+|3SG.REAL-NEG1-sing try-NEG2
+|'(S)he didn't try to sing.'}}
+
+{{interlinear|indent=3
+|I-so-rogulel lieh mo-si bwe-sa`
+|3SG.REAL-NEG1-able again do.any.more-NEG2 3SG.IRR-go.up
+|'he couldn't go up any more'}}
+
+===== Auxiliaries =====
+The following verbs in Neve'ei are attested as both as independent verbs and as serial verbs expressing [[Grammatical aspect|aspect]].<ref group="M">Musgrave 2007, p. 88</ref>
+{| class="wikitable"
+|+Core layer aspectual auxiliaries<ref group="M">Musgrave 2007, (table 5.5), p. 88</ref>
+|''magar(-en)''
+|'progressive'
+|-
+|''mera`''
+|'inceptive'
+|-
+|''tokh''
+|'habitual'
+|-
+|''vwer''
+|'actual'
+|}
+When constructions containing the aspectual auxiliaries (with the exception of {{transl|vnm|vwer}} for which there are no examples of negated constructions) are negated the main verb carries the negative simulfix while the auxiliary appears in the affirmative.<ref group="M">Musgrave 2007, p. 91</ref> Illustrated in the following example containing the auxiliary ''mera`'' 'inceptive' and the verb stem {{transl|vnm|rong}} 'listen'.<ref group="M">Musgrave 2007, (example 5.29c), p. 91</ref>
+
+{{interlinear|indent=3
+|U-mera`	u-son-rong	do-si.
+|2SG.REAL-INCEP	2SG.REAL-NEG1-listen	a.little-NEG2
+|'Then you didn't listen at all.'}}
+
+Neve'ei also contains the following verbs that are attested as both independent verbs and serial verbs expressing [[Linguistic modality|modality]].<ref group="M">Musgrave 2007, p. 92</ref>
+{| class="wikitable"
+|+Core layer modal auxiliaries<ref group="M">Musgrove 2007, (table 5.6), p. 92</ref>
+|''rogulel''
+|'abilitative'
+|-
+|''yangwal''
+|'desiderative'
+|-
+|''sisi''
+|'anti-desiderative'
+|-
+|''vwer''
+|'intentional'
+|}
+In contrast with the negation pattern for the aspectual auxiliaries the modal auxiliaries carry the negative simulfix while the main verb has affirmative polarity as shown in the following examples. <ref group="M">Musgrave 2007, (example 5.35a-b), p. 93</ref>
+
+{{interlinear|indent=3
+|No-so-rogulel-si nebwe-lahk.
+|1SG.REAL-NEG1-ABIL-NEG2 1SG.IRR-hang
+|'I can't hang.'}}
+
+{{interlinear|indent=3
+|Ni-si-yangwal-si nebwe-vweri nabusian nene.
+|1SG.REAL-NEG1-DESID-NEG2 1SG.IRR-say story DEM
+|'I don't want to tell this story.'}}
+
+Even though {{transl|vnm|yangwai}} 'desiderative' can be negated as seen in the previous example there is also the separate verb ''sisi'' that expresses anti-desiderative modality. As is the case when it appears as an aspectual auxiliary {{transl|vnm|vwer}} also cannot be negated when used to express intentional modality instead ''sisi'' is used to express negative intention.<ref group="M">Musgrove 2007, p. 94</ref>
+
+===== Directional serial verbs =====
+To negate directional serial constructions only the first verb carries the simulfix as in the following example where ''vavu''  'walk' carries the negation and the directional verb ''vu'' 'thither' appears in the affirmative.<ref group="M">Musgrove 2007, (example 5.43f), p. 96</ref>
+
+{{interlinear|indent=3
+|I-sa-vavu-si (i-)vu len niyim.
+|3SG.REAL-NEG1-walk-NEG2 3SG.REAL-thither GOAL house
+|'He didn't walk there to the house.'}}
+
+== Demonstratives and Spatial Deictics ==
+
+=== Demonstratives ===
+There are five [[Determiner|determiners]] in Neve’ei: the proximate [[demonstrative]] ''nene'', the intermediate demonstrative ''nenana'', and the distant demonstrative ''nenokhoi'', the [[Anaphora (linguistics)|anaphoric demonstrative]] ''nge'', and the indefinite [[postmodifier]] ''tuan''. 
+{| class="wikitable"
+! Proximate
+! Intermediate
+! Distant
+! Anaphoric
+|-
+|''nene''
+|''nenang''
+|''nenokhoi''
+|''nge''
+|-
+|'this'
+|'that'
+|'that'
+|'the'
+|-
+|near
+|middle  distance
+|far away
+|mentioned  previously
+|}
+The demonstratives show a [[Deixis|three-way distinction]] in space and time: near, intermediate, and distant, as well as an anaphoric demonstrative used for items already mentioned. This three-way distinction is common in the Pacific, with a mean 2.7 distance contrasts.<ref>{{Cite web|title=WALS Online - Chapter Distance Contrasts in Demonstratives|url=https://wals.info/chapter/41|access-date=2021-03-28|website=wals.info}}</ref> A three-way distinction is also the most common form of deixis among languages in and around Vanuatu, with three of the four languages cited in the [https://wals.info/ World Atlas of Language Structures Online] (WALS) having a three-way distinction.
+
+Much like the vast majority of languages around Vanuatu and neighbouring [[Austronesian languages|Austronesian]] speaking regions, Neve’ei follows a Noun-Demonstrative pattern,<ref>{{Cite web|title=WALS Online - Chapter Order of Demonstrative and Noun|url=https://wals.info/chapter/88|access-date=2021-03-28|website=wals.info}}</ref><ref name=":0">{{Cite journal|last=Musgrave|first=Jill|date=28 March 2021|title=A grammar of Neve‘ei, Vanuatu|url=https://openresearch-repository.anu.edu.au/bitstream/1885/146743/1/587_Musgrave.pdf|journal=Pacific Linguistics|volume=587|pages=62-67|via=Open Research ANU}}</ref> where a demonstrative follows the [[Head (linguistics)|noun head]] and any adjectival or possessive postmodifiers.
+
+Both a three-way distinction and the Noun-Demonstrative pattern are thought to be features retained by Neve’ei from Proto-Oceanic.<ref>{{Cite book|last=Lynch|first=John|title=The Oceanic Languages|last2=Ross|first2=Malcolm|last3=Crowley|first3=Terry|publisher=Routledge|year=2011|isbn=978-0--203-82038-4|location=711 Third Avenue, New York, NY 10017|pages=72}}</ref>
+
+In Neve’ei, nouns with indefinite reference are given the indefinite postmodifier ''tuan'', while nouns with definite reference are either given the appropriate demonstrative or left unmarked. Musgrave suggests that since many Neve’ei nouns begin with ''nV'', the Proto-Oceanic article *na attached to the noun and became a part of the noun root, meaning speakers no longer needed to mark the definite article.<ref name=":0" />
+
+The three non-anaphoric forms of the demonstrative have the same initial element ''ne-'', similar to how nouns often appear in the language. The demonstratives also have final forms identical to how Neve’ei indicates other locational forms which also have three-way distinctions, for example, ''utne'', ‘in this place, here’, ''utnang'', ‘in that place, there’, and ''utnokhoi'', ‘in that place, over there’.
+
+The demonstrative ''nene'' indicates that the noun is close to the speaker.
+
+{{interlinear|indent=3
+|Ne-leh do nisit nganga' nene len nukht-n nubu utnokhoi
+|1SG.REAL-see hit thing little DEM LOC clump-CONST bamboo over.there
+|'I found this child in the clump of bamboo over there.'}}
+
+The demonstrative ''nenang'' is most commonly used to mark temporal orientation rather than spatial.<ref name=":0" />
+
+{{interlinear|indent=3
+|Nemwen nenang utnen i-lam i-veh bubu tegem ar.
+|male DEM when 3SG.REAL-big 3SG.REAL-beget ancestor 2NONSG.POSS PL
+|'That boy when he grew big, he begat children … your ancestors.'}}
+
+The demonstrative ''nge'' is an anaphoric demonstrative meaning it is used to refer to a noun that has already been introduced. It is identical in form to the pronominal trace, which marks the original site of a noun phrase in a relative clause.<ref name=":0" />
+
+{{interlinear|indent=3
+|At-tokh ran nourour nganga' tuan. Nourour nganga' nge i-tokh do ...
+|3PL.REAL-exist LOC island little INDEF island little DEM 3SG.REAL-stay hit ...
+|‘They lived on an islet. The islet is located …’}}
+
+The anaphoric demonstrative cannot only be used after a noun has been marked by ''tuan'' to be used in later references. In the example above, ''natuturmwitiyilian'' ‘story’ is first modified by a relative clause marked by ''nen'', then later referred to with the anaphoric demonstrative.<ref name=":0" />
+
+{{interlinear|indent=3
+|Natuturmwitiyilian nen ne-vwer nebwe-vweri lieh natuturmwitiyilian nge
+|story REL 1SG.REAL-INTENT 1SG.IRR-tell again story DEM
+|'The story, which I want to tell again, the story…'}}
+
+Grammatically, the anaphoric demonstrative ''nge'' behaves differently from the three other demonstratives in Neve’ei in that it can only ever function as a nominal postmodifier, while the other determiners can occur as both nominal postmodifiers and nominal phrase heads.<ref name=":0" /> This example shows the proximate demonstrative ''nene'' used as the head of a nominal phrase:
+
+{{interlinear|indent=3
+|Ni-yangwal nebwe-vwer-vwer sur natuturmwitiyilian tuan. Nene i-vwer-vwer bisah Ø-medang nani i-vwelwm sakhan get
+|1SG.REAL-DESID 1SG.REAL.IRR-REDUP-talk about story INDEF DEM 3SG.REAL-REDUP-say clear 3SG.REAL-how coconut 3SG.REAL-come GOAL 1NONSG.INCL
+|‘I want to tell a story. This one explains how the coconut came to us.’}}
+
+=== Spatial Deictics ===
+
+==== Adverbial Phrases ====
+Spatial deictics are common in Neve’ei, especially in [[Adverbial phrase|adverbials]] which share endings with a corresponding demonstrative:<ref name=":1">{{Cite journal|last=Musgrave|first=Jill|date=28 March 2021|title=A grammar of Neve‘ei, Vanuatu|url=https://openresearch-repository.anu.edu.au/bitstream/1885/146743/1/587_Musgrave.pdf|journal=Pacific Linguistics|volume=587|pages=110-113|via=Open Research ANU}}</ref>
+{| class="wikitable"
+|'''Proximate'''
+|'''Intermediate'''
+|'''Distant'''
+|-
+|''utne / utnen  ie''
+
+‘here’ (by  the speaker)
+|''utnang / utnen  iang''
+
+‘there’ (near  the listener)
+|''utnokhoi / utnen  yokhoi''
+
+‘over there’ (away  from both speaker and listener)
+|}
+Each of the final elements of both forms of these adverbs are identical to the demonstratives ''nene'' ‘this’, ''nenang'' ‘that’, and ''nenokhoi'', ‘that, over there’. In the second adverbial in each category takes the form ''utnen'' ‘place where’ followed by the proximate, intermediate, or distant form ''ie'', ''iang'', or ''yokhoi''.<ref name=":1" />
+
+In the following examples, a place adverbial appears in the clause-final position as a non-core argument:
+
+{{interlinear|indent=3
+|Tokhi utnen get er-vwelem utne…
+|always when 1NONSG.INCL 1DU.REAL-come here
+|'Always when we come here.'}}
+
+{{interlinear|indent=3
+|Abor-tokh drong {utnen ie}
+|2DU.IRR-stay keep.on.doing here
+|'Just stay here.'}}
+
+{{interlinear|indent=3
+|Ar-to nivis nge ar utnang
+|3DU.REAL-put bow DEM PL there
+|'They put the bows there.'}}
+
+{{interlinear|indent=3
+|Nedam i-mour utnokhai
+|yam 3SG.REAL-grow there
+|'The yam grows over there.'}}
+
+Both the adverbial and the locative adverb are acceptable in Neve'ei, as shown in the first example where the locative adverb ''utne'' is used to mean 'here' and the second example, which uses the adverbial ''utnen ie''.
+
+Place adverbials can also occur in a clause-initial position:<ref name=":1" />
+
+{{interlinear|indent=3
+|Utne i-moul
+|here 3SG.REAL-bad
+|'Here (in this place) it is bad.'}}
+
+==== Place Adverbs ====
+The adverbials listed above can be combined with [[Locative adverb|place adverbs]] to form new meanings. For example; the adverbs ''ra’ai'' ‘above’ and ''retan'' ‘below’, which provide information about vertical location, such as speaking from a high position like the top of a hill or a low position like at the base of a tree.
+{| class="wikitable"
+|'''Proximate'''
+|'''Intermediate'''
+|'''Distant'''
+|-
+|''ra‘ai utne  / ra‘ai utnen ie''
+
+‘up here’
+|''ra‘ai  utnang / ra‘ai utnen iang''
+
+‘up there’
+|''ra‘ai  utnokhoi / ra‘ai utnen yokhoi''
+
+‘way up there’
+|-
+|''retan utne  / retan utnen ie''
+
+‘down here’
+|''retan utnang  / retan utnen iang''
+
+‘down there
+|''retan utnokhain  / retan utnen yokhoi'' 
+
+‘way down  there’
+|}
+There also exists a form that does not feature deixis ''lo'' 'below', specifically used to mean 'down below to the coast' such as in:
+
+{{interlinear|indent=3
+|nen lam i-dah i-vu len netah lo.
+|REL big 3SG.REAL-go.down 3SG.REAL-thither GOAL sea below
+|The big one (brother) went down there to the sea below.}}
+
+The proximate and intermediate final elements of the proximate and intermediate demonstratives ''nene'' 'this' and ''nenang'' 'that' are also shared by the locational and temporal forms ''ie'' 'this here', ''iang'' 'that there', ''itie'' 'now, at this time', and ''itiang'' 'then, at that time'.<ref name=":1" />
+
+== Adnominal and Pronominal Possession ==
+
+=== Directly possessed nouns ===
+Extending on directly possessed noun stems in section [[Neve'ei language#Nouns|4.2. Nouns]], when these directly possessed nouns appear to have a nominal possessor that is when the directly possessed nouns do not refer to a particular possessor, a suffix which is identical to the person singular pronominal suffix –''n,'' known as a construct suffix ([[Neve'ei language#References|Musgrave, 2007]]). The construct suffixes are depicted in the table below:
+ 
+{| class="wikitable"
+!
+! After consonant
+! After vowels
+|-
+! 1st person
+| -ung/-ing
+| -ng
+|-
+! 2nd person
+| -um/im
+| -m
+|-
+! 3rd person
+| -n
+| -n
+|}
+
+The construct suffix ''–ing/im'' is attached to ''–iC'' (where C is consonant) [[Root (linguistics)|root]] stems, whereas ''–ung/um'' suffixes follow noun stem roots ending in all other consonants. Additionally, noun roots that end in a vowel have the suffix ''–ng/-m'' attached.
+
+Some examples from Musgrave's ([[Neve'ei language#References|2007, p. 34]]) grammar include:
+
+* ''nemelnibis-ing'' – ‘my saliva’
+* ''nemelnibis-im'' – ‘your saliva’
+* ''nemelnibis-n ''– ‘his/her saliva’
+
+Unlike many other languages closely related to Neve’ei, the patterns for directly suffixed nouns are not as complicated. As many of the closely related languages have distinct pronominal suffixes that correspond to both singular and non-singular pronouns independent pronouns, Neve’ei is moving away from a rigid difference between how pronominal and nominal possession is demonstrated [[Neve'ei language#References|(Musgrave, 2007)]].
+
+According to Musgrave's (2007) grammar findings, when found without a reference to a specific possessor, directly possessed nouns are displayed in their construct form, and the third person non-singular independent pronoun ''–ar'' and the plural postmodifier ''–ar'' are identical, their [[Semantics#Linguistics|semantics]] must be worked out in context. For instance, depending on the context ''nat-n ar'' could be translated to ‘the children’, with the plural postmodifier, or ‘their children’, possession [[Neve'ei language#References|(Musgrave, 2007, p. 35).]]
+
+E.g.: 
+{{interlinear|indent=3
+|{… ar-sido} etenen ar-vweri en nat-n ar.
+|3DU.REAL-remember what 3DU.REAL-say GOAL child-CONST PL/3NONSG.POSS
+|‘… they remembered what they said to the children/their children’}}
+
+However, determining the differences between the uses of the singular pronominal possessor constructions, it has been found that pronominal suffix formations are used more often for third person singular possessors and for first person singular possessors as a term of address, in narratives ([[Neve'ei language#References|Musgrave, 2007]]).
+
+=== Nominal possession ===
+==== Nominal possessive pronouns ====
+Extending on [[Neve'ei language#Possessive pronouns|aforementioned possessive pronoun]] information, when the nominal phrase head is taken by a possessive pronoun, the postmodifiers used are determiners and plural postmodifiers. This is explained in the following formula:
+
+<u>POSSESSIVE PRONOUN + (DETERMINER) + (PLURAL POSTMODIFIER)</u>
+
+For example, the possessive pronouns {{transl|vnm|(ti)tugu}} precedes the determiner ''nge:''
+
+{{interlinear|indent=3
+|Uten gu u-sa-khal-si tugu nge
+|{} 2SG 2SG.REAL-NEG1-dig-NEG2 2NONSG.POSS DEM
+|‘If you don’t dig yours…’}}
+
+([[Neve'ei language#References|Musgrave, 2007, p. 61]])
+
+When indefinite pronouns inhabit the nominal phrase head, possessive postmodifiers, [[Determiner#Description|determiners]] and plural postmodifiers are the only postmodifiers employed. As such, they follow the following formula:
+
+<u>INDEFINITE PRONOUN + (POSSESSIVE POSTMODIFIER) + (DETERMINER) + (PLURAL POSTMODIFIER)</u>
+
+Musgrave ([[Neve'ei language#References|2007, p. 62]]) demonstrates an example of this construction as follows: the indefinite pronoun ''nusutwan'' precedes the possessive postmodifier ''ter'' and the plural postmodifier ''ar''.
+
+{{interlinear|indent=3
+|Ara-vu ar-takh nusutwan ter ar
+|3DU.REAL-go 3DU.REAL-take something 3NONSG.POSS PL
+|‘They a went and took their things’}}
+
+==== Nominal possessive postmodifiers ====
+Indirectly possessed nouns are unable to take a possessive suffix, and therefore adopt possessive modifier forms instead. An example of this is found in Musgrave's [[Neve'ei language#References|(2007]]) grammar. 
+
+{{interlinear|indent=3
+|I-leh yokhoi nang ti i-vanili mang
+|3SG.REAL-see that.person mother SG.POSS 3SG.REAL-different very.much
+|‘He saw that person’s mother was very different’}}
+
+=== Complex possessive constructions ===
+Musgrave's [[Neve'ei language#References|(2007)]] grammar book identifies that Neve’ei, like most languages, has two main types of possession, direct and indirect possession. The constructions of possession show how the language has deviated from typical rules of grammar from Proto Oceanic language system and other languages of Vanuatu. A main difference identified in Musgrave's ([[Neve'ei language#References|2007]]) grammar is that Neve’ei does not juxtapose different indirect possessive subtypes and its direct possessive forms are reduced to singular pronominal possessors, as opposed to the Proto Oceanic system.
+
+==== Direct possessive constructions ====
+As [[Neve'ei language#Directly possessed nouns|previously]] discussed, if a directly possessed noun has a nominal possessor, in its construct form, a possessor follows the directly possessed nouns. These directly possessed nouns have a very close semantic relationship between the referent of the possessed and possessor nouns, referred to as [[inalienable possession]] [[Neve'ei language#References|(Musgrave, 2007)]]. An inalienable relationship describes a situation when the possessed noun does not exist separately from the possessor. This notion is exhibited by the following formula:
+
+<u>POSSESSED NOUN + POSSESSOR NOUN + (POSSESSOR NOUN MODIFIERS) + (POSSESSED NOUN POSTMODIFIERS)</u>
+
+Consequently, no postmodifiers belonging to the directly possessed noun can come between it and the nominal possessor.
+
+Most often the categories of [[Inalienable possession#Comparison to alienable possession|alienable]] possessive constructions relate to kin/relationship terms, parts of a plant, body parts of humans and animals etc. Examples from Musgrave ([[Neve'ei language#References|2007, p. 71]]) are listed below.
+{| class="wikitable"
+!
+!Neve'ei
+!English
+|-
+|Kinship
+|''na’aibi-n''
+''nat-n''
+
+''tabi-n''   
+|‘grandchild’
+‘child'
+
+‘grandfather   
+|-
+|Animal/human body parts
+|''na’adle-n''
+''na-avera-n''
+
+''neleme-n''   
+|'egg (of bird or turtle, roe (of fish)’
+‘wing’
+
+‘tongue’   
+|-
+|Plant parts
+|''na’ansemwe-n''
+''nokhora-n''
+
+''netevi-n''   
+|'stem (of leaf, fruit)
+‘root’
+
+‘shoot (of a plant)’   
+|-
+|Bodily products
+|''nemakha-n''
+''nemwetebwe-n''   
+|'urine’
+‘excrement’   
+|}
+A possessor noun can be moved to the beginning of the possessive construction in order to show the prominence of the noun. Additionally, the presence or absence of a postmodifier behind the possessor noun depends on the level of animacy, consequently highly animate possessors (such as animals and humans) allow the directly possessed noun to follow with or without intervening postmodifiers. On the contrary, trees and plants etc. are considered less animate and therefore a postmodifier must follow the possessor noun and precede the possessed noun. Two formula's describe these animate constructions below ([[Neve'ei language#References|Musgrave, 2007, p. 72]]):
+* Highly animate: <u>POSSESSOR NOUN+ (POSSESSOR NOUN POSTMODIFIERS) + POSSESSED NOUN + (POSSESSED NOUN POSTMODIFIERS)</u>
+{{interlinear|indent=3
+|nemwat ar nebat-n at-met.
+|snake PL head-CONST 3PL.REAL-black
+|'The snakes' heads are black.'}}
+([[Neve'ei language#References|Musgrave, 2007, p. 72]])
+
+* Less animate: <u>[POSSESSOR NOUN + POSSESSOR POSTMODIFIERS + POSSESSED NOUN + (POSSESSED NOUN POSTMODIFIERS)</u>
+{{interlinear|indent=3
+|nakhankhan nge nevwene-n sevakh
+|pawpaw DEM fruit-CONST one
+|'one fruit of the pawpaw'}}
+
+==== Indirect possessive constructions ====
+Similarly to the inalienable relationship of directly suffixed possessed nouns, indirectly possessed nouns can also establish an inalienable relationship. This fact would suggest there is some overlap between the semantic features of alienable and inalienable relationships.
+
+The following examples from Musgrave ([[Neve'ei language#References|2007, p. 73]]) demonstrate indirectly possessed nouns that may be expected to establish a close semantic or inalienable relationship with their noun possessors.
+
+* ''Mamwe –'' ‘father, father’s sister’s son’
+* ''Mamwilam –'' ‘father’s eldest brother’
+* ''Nang –'' ‘mother, mother’s sister, father’s sister’s son’s wife’
+* ''Nang tokhtokh'' – ‘mother’s elder sister’
+
+When an indirectly possessed noun has a pronominal possessor, it precedes a possessive postmodifier. However, there are two outcomes for a possessive construction when an indirectly possessed noun takes a nominal possessor.
+
+In the first construction the possessive postmodifier agrees with the number of the possessor noun, establishing a semantic relationship that is distant or alienable, as the possessed noun exists independently of the possessor (adnominal possession). For example, ([[Neve'ei language#References|Musgrave, 2007, p. 73]]):
+
+<u>POSSESSED NOUN + POSSESSIVE POSTMODIFIER + POSSESSOR NOUN + (POSTMODIFIERS)</u>
+{{interlinear|indent=3
+|libakh ti matoro
+|dog 3NONSG.POSS old.man
+|‘the old man’s dog.’}}
+
+<u>POSSESSOR NOUN + (POSTMODIFIERS) + POSSESSED NOUN + POSSESSIVE POSTMODIFIER</u>
+{{interlinear|indent=3
+|matoro libakh ti
+|old.man dog 3SG.POSS
+|‘the old man’s dog.’}}
+
+Another indirect possessive construction includes a possessive marker ''nen,'' which acts similarly to a [[Relativizer|relativiser]]. The formula demonstrates that ''nen'' is found in between the possessed nominal and the possessor nominal.
+
+<u>POSSESSED NOUN + ''NEN'' + POSSESSOR NOUN + (POSSESSOR POSTMODIFIERS) + (POSSESSED POSTMODIFIERS)</u>
+
+These constructions often pertain to a certain semantic category: purposive relationships, habitual relations and possession of body parts. In the following example from Musgrave ([[Neve'ei language#References|2007, p. 75]]), the possessed noun is a person and the possessor noun in an occupation:
+{{interlinear|indent=3
+|numur nen navisvisian
+|person POSS teaching
+|'teacher'}}
+
+While some body parts are directly possessed nouns, some body parts (such as internal organs, bodily exudations etc.) are indirectly possessed nouns and most often pertain to an alienable semantic relationship.
+{{interlinear|indent=3
+|nidri nen libakh
+|blood POSS dog
+|'the dog's blood'}}
+
+{{interlinear|indent=3
+|nowi nen netal-n
+|water POSS leg-CONST
+|'leg vains'}}
+([[Neve'ei language#References|Musgrave, 2007, p. 75]])
+
+==References==
+* Consonant Inventories. (2013). In ''World Atlas of Language Structures''. Retrieved from http://wals.info/chapter/1 
+* Lynch & Crowley, 2001, ''Languages of Vanuatu: A New Survey and Bibliography''. Australian National University.
+* Musgrave, J. (2007). ''A grammar of Neve’ei, Vanuatu''. Canberra: Pacific Linguistics.
+*Holger Diessel. 2013. Distance Contrasts in Demonstratives. In: Dryer, Matthew S. & Haspelmath, Martin (eds.) The World Atlas of Language Structures Online. Leipzig: Max Planck Institute for Evolutionary Anthropology. (Available online at <nowiki>http://wals.info/chapter/41</nowiki>)
+*Lynch, Ross & Crowley, 2011, ''The Oceanic Languages''. Routledge.
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+NONSG:non-singular
+1NONSG:first person, non-singular
+2NONSG:second person, non-singular
+3NONSG:third person, non-singular
+ABIL:abilitative
+DESID:desiderative
+</div><section end="list-of-glossing-abbreviations"/>
+
+==Notes==
+{{Reflist}}
+
+* References from: Musgrave, J. (2007). ''A grammar of Neve’ei, Vanuatu''. Canberra: Pacific Linguistics.
+{{Reflist|group=M|20em}}
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Malekula languages]]
+[[Category:Languages of Vanuatu]]

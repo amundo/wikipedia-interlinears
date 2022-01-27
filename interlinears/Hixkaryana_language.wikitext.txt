@@ -1,0 +1,167 @@
+{{Short description|Carib language spoken in Brazil}}
+{{Infobox language
+|name=Hixkaryána
+|states=[[Brazil]]
+|region=Upper [[Nhamundá River]], [[Amazonas State, Brazil|Amazonas]]
+|speakers=600
+|date=2000
+|ref=e18
+|familycolor=American
+|fam1=[[Cariban languages|Carib]]
+|fam2=[[Parukotoan languages|Parukotoan]]
+|fam3=Waiwai
+|iso3=hix
+|glotto=hixk1239
+|glottorefname=Hixkaryana
+|notice=IPA
+}}
+
+'''Hixkaryana''' {{IPAc-en|ˌ|h|ɪ|ʃ|k|ær|i|ˈ|ɑː|n|ə}}<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> is one of the [[Cariban languages]], spoken by just over 500 people on the [[Nhamundá River]], a tributary of the [[Amazon River]] in [[Brazil]]. It is one of around a dozen languages that are described as having [[object–verb–subject]] word order (initially by linguist [[Desmond C. Derbyshire]]).<ref>{{cite web |last1=Kalin |first1=Laura |title=Hixkaryana: The Syntax of OVS Word Order |url=https://linguistics.arizona.edu/sites/linguistics.arizona.edu/files/KalinPoster93.pdf |website=University of Arizona |access-date=12 January 2022}}</ref>
+
+==Phonology==
+
+Hixkaryana has the following consonant [[phoneme]]s:
+
+{| class="wikitable" style="text-align:center;"
+!colspan=2|
+! [[Labial consonant|Labial]]
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]<br/>or [[Palatal consonant|palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+!colspan=2| [[Nasal stop|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+| {{IPAlink|ɲ}} {{grapheme|ny}}
+|
+|
+|-
+!rowspan=2| [[Plosive]]
+! {{small|voiceless}}
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|tʃ}} {{grapheme|tx}}
+| {{IPAlink|k}}
+|
+|-
+! {{small|voiced}}
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|ɟ}} {{grapheme|dy}}
+|
+|
+|-
+!colspan=2| [[Fricative]]
+| {{IPAlink|ɸ}} {{grapheme|f}}
+| {{IPAlink|s}}
+| {{IPAlink|ʃ}} {{grapheme|x}}
+|
+| {{IPAlink|h}}
+|-
+!colspan=2| [[Tap consonant|Tap]]
+|
+| {{IPAlink|ɾ}}
+| {{IPAlink|ɽˡ}} {{grapheme|ry}}
+|
+|
+|-
+!colspan=2| [[Approximant]]
+| 
+|
+| {{IPAlink|j}} {{grapheme|y}}
+| {{IPAlink|w}}
+|
+|}
+
+* {{IPA|/ɽˡ/}} is a [[retroflex]] tap with a [[Lateral consonant|lateral]] release.
+
+Hixkaryana has the following vowel phonemes:
+
+{| class="wikitable" style="text-align:center;"
+|+
+!
+![[Front vowel|Front]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|
+|{{IPAlink|ɯ}} {{grapheme|ɨ}}, {{IPAlink|u}} {{grapheme|u}}
+|-
+![[Close-mid vowel|Close-mid]]
+|{{IPAlink|e}} {{grapheme|e}}
+|
+|-
+![[Open-mid vowel|Open-mid]]
+|
+|{{IPAlink|ɔ}} {{grapheme|o}}
+|-
+![[Open vowel|Open]]
+|{{IPAlink|æ}} {{grapheme|a}}
+|
+|}
+
+==Grammar==
+
+In Hixkaryana, arguments are indexed on the verb by means of person prefixes.  These prefixes form an inverse-like pattern in which the argument highest in the hierarchy 2nd > 1st > 3rd is indexed on the verb.  If the object of a transitive verb outranks the subject according to this hierarchy, the appropriate O-prefix is used; otherwise, an A-prefix is used.
+
+{| class="IPA wikitable"
+! colspan="2" | A-prefixes || colspan="2" | O-prefixes
+|-
+! 1A
+| 0-/ɨ-
+! 1O
+| r(o)
+|-
+! 2A
+| m(ɨ)-
+! 2O
+| o(j)-/a(j)-
+|-
+! 1+2A
+| t(ɨ)-
+! 1+2O
+| k(ɨ)-
+|-
+! 3A
+| n(ɨ)-/j-
+|}
+
+Intransitive verbs take prefixes mostly similar to the transitive prefixes given above, with an [[active-stative language|active–stative]].  The arguments' grammatical number is indexed on the verb by means of portmanteau suffixes that combine tense, aspect, mood, and number.
+
+In most cases, the person prefixes unambiguously determine which of the arguments is the subject and which is the object.  When both the subject and the object are third person, however, the person prefix is inadequate to fully determine the identity of the arguments.  In these situations, therefore, word order is crucial in determining their identity. Hixkaryana may have an [[object–verb–subject]] word order. The example below, "toto yonoye kamara", cannot be given the AVO reading "the man ate the jaguar"; the OVA reading – "the jaguar ate the man" – is the only possible one.
+
+{{interlinear|indent=3
+|top= toto yonoye kamara
+|toto y- ono -ye kamara
+|person 3SG- eat -DIST.PAST.COMPL jaguar
+|"The jaguar ate the man."}}
+
+Indirect objects, however, follow the subject:
+
+{{interlinear|indent=3
+|top= bɨryekomo yotahahono wosɨ tɨnyo wya
+|bɨryekomo y- otaha -ho -no wosɨ tɨnyo wya
+|boy 3SG- hit -CAUS -IMM.PAST woman her-husband by
+|"The woman caused her husband to hit the boy."}}
+
+Moreover, word order in non-finite [[embedded clause]]s is SOV. [https://web.archive.org/web/20070221213347/http://www.ling.umd.edu/~soltan/LING419B/Handouts/handout3.pdf]  Like most other languages with objects preceding the verb, it is [[postposition]]al.
+
+==References==
+{{Reflist}}
+*{{cite book | author=Aikhenvald, A. & Dixon, R. (Eds.) | title=The Amazonian Languages | location=Oxford | publisher=Oxford University Press | year=1999 | isbn=0-521-57021-2}}
+*{{cite book | author=Derbyshire, D. | title=Hixkaryana | location=Amsterdam | publisher=North-Holland Publishing | year=1979 | id=ISBN }}
+*{{cite book | author=Derbyshire, D. | title=Hixkaryana and Linguistic Typology | location=Dallas, TX | publisher=Summer Institute of Linguistics | year=1985 | isbn=0-88312-082-8}}
+
+==External links==
+*[https://web.archive.org/web/20050427183031/http://www.ling.ohio-state.edu/~ehume/metathesis/Hixkaryana.html Metathesis in Hixkaryana]
+*[http://sails.clld.org/languages/hix Hixkaryana in SAILS database on South American languages]
+
+{{Languages of Brazil}}
+{{Cariban languages}}
+{{Authority control}}
+
+{{DEFAULTSORT:Hixkaryana Language}}
+[[Category:Languages of Brazil]]
+[[Category:Object–verb–subject languages]]
+[[Category:Cariban languages]]

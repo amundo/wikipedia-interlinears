@@ -1,0 +1,81 @@
+{{short description|Sepik language spoken in Sandaun Province, Papua-New Guinea}}
+{{Infobox language
+|name=Suarmin
+|altname=Asaba
+|states=[[Papua New Guinea]]
+|region=[[Sandaun Province]]
+|speakers=140 
+|date=2000
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Sepik languages|Sepik]]
+|fam2=[[Leonhard Schultze languages|Leonhard Schultze]]
+|fam3=[[Papi–Asaba languages|Papi–Asaba]]
+|iso3=seo
+|glotto=suar1238
+|glottorefname=Asabano
+}}
+
+'''Suarmin''', or '''Asaba''', is a [[Sepik language]] spoken in [[Sandaun Province]], [[Papua-New Guinea]]. Alternative names are ''Asabano, Akiapmin, Duranmin''.
+
+''[[Glottolog]]'' leaves it unclassified.
+
+==Pronouns==
+Pronouns are:<ref name="Foley-Sepik">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The Languages of the Sepik-Ramu Basin and Environs |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=197-432 |isbn=978-3-11-028642-7}}</ref>
+
+:{| {{table}}
+!  !! sg !! du !! pl
+|-
+! 1incl
+|  || adi || abe
+|-
+! 1excl
+| a || nadi || nesine
+|-
+! 2
+| abo || abodua || apa
+|-
+! 3
+| yo || atadua || ata
+|}
+
+==Noun classes==
+In Asaba, [[noun class]] affixes are suffixed to nouns. There are five noun classes. Examples:<ref name="Foley-Sepik"/>
+
+:{| {{table}}
+! class !! singular (ex.) !! plural (ex.) !! gloss (ex.)
+|-
+| class 1 || nu-'''bu''' || nu-'''le''' || house(s)
+|-
+| class 2 || mena-'''du''' || mena-'''no''' || pig(s)
+|-
+| class 3 || kabia-'''si''' || kabia-'''le''' || stone(s)
+|-
+| class 4 || moko-'''ni''' || moko-'''le''' || fork(s)
+|-
+| class 5 || nomo-'''so''' || nomo-'''l''' || stone adze(s)
+|}
+
+Class 1 is the default noun class.
+
+Modifying adjectives agree with head nouns in class:<ref name="Foley-Sepik"/>
+
+{{interlinear|indent=3
+|na-bu kamaya-bu
+|tree-{{gcl|I|class I}}.SG big-{{gcl|I|class I}}.SG
+|‘tall tree’}}
+
+{{interlinear|indent=3
+|kaiyebe-du kamaya-du
+|cassowary-II.SG big-II.SG
+|‘big cassowary’}}
+
+==References==
+{{Reflist}}
+
+{{Sepik languages}}
+{{Languages of Papua New Guinea}}
+
+[[Category:Papi–Asaba languages]]
+[[Category:Languages of Sandaun Province]]
+[[Category:Language isolates of New Guinea]]

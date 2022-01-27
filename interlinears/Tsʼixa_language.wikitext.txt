@@ -1,0 +1,417 @@
+{{Infobox language
+| name = Tsʼixa
+| nativename = 
+| states = [[Botswana]]
+| speakers = 200
+| date = 2014
+| ref = <ref>Anne-Maria Fehn</ref>
+| familycolor = Khoisan
+| fam1 = [[Khoe languages|Khoe]]
+| fam2 = Kalahari (Khoe-Kwadi)
+| fam3 = East
+| iso3 = none
+| glotto = tsix1234
+| glottorefname = Tsʼixa
+}}
+
+'''Tsʼixa''' is a critically endangered African language that belongs to the Kalahari Khoe branch of the [[Khoe-Kwadi]] language family.<ref name=":0" /> The Tsʼixa speech community consists of approximately 200 speakers who live in Botswana on the eastern edge of the [[Okavango Delta]], in the small village of [[Mababe]].<ref name=":0">{{harvnb|Fehn|2014}}</ref> They are a foraging society that consists of the ethnically diverse groups commonly subsumed under the sames "San", "Bushmen" or "Basarwa".<ref name=":0" /> The most common term of self-reference within the community is ''Xuukhoe''  or 'people left behind', a rather broad ethnonym roughly equaling [[San people|San]], which is also used by Khwe-speakers in Botswana.<ref name=":0" /> Although the affiliation of Tsʼixa within the Khalari Khoe branch, as well as the genetic classification of the [[Khoisan languages|Khoisan]] languages in general, is still unclear, the Khoisan language scholar Tom Güldemann posits in a 2014 article the following genealogical relationships within Khoe-Kwadi, and argues for the status of Tsʼixa as a language in its own right.<ref>Güldemann, Tom. 2014. "'Khoisan' Linguistic Classification Today." Güldemann & Fehn, eds. 2014, 1-40.</ref> The language tree to the right presents a possible classification of Tsʼixa within Khoe-Kwadi:
+[[File:Possible Ts'ixa Classification.png|thumb]]
+
+==Phonology==
+The ongoing loss of alveolar and palatal clicks in the Eastern Kalahari Khoe languages has resulted in [[doublet (linguistics)|doublet]]s in Tsʼixa.
+
+{| class="wikitable IPA"
+|+Doublets with and without palatal clicks in Tsʼixa<ref>Gerlach, Linda (2015) "Phonetic and phonological description of the Nǃaqriaxe variety of ǂʼAmkoe and the impact of language contact". PhD dissertation, Humboldt University, Berlin</ref>
+|-
+!Click !!Non-click
+|-
+|ǂ||c
+|-
+|ᶢǂ||ɟ
+|-
+|ǂʼ||cʼ
+|-
+|ǂʰ||cʰ
+|-
+|ǂχ||cχ
+|-
+|ǂʔ||ˀj
+|-
+|ᵑǂ||ɲ
+|-
+|ŋᶢǂ||ŋɟ
+|}
+
+== Overview of Typological Features ==
+Tsʼixa is a gender-marking language that uses a set of clitics, the so-called person-gender-number (PGN) markers, which attach to nouns and noun phrases. They function as specific articles, case markers, and plural markers.<ref name=":0" /> Tsʼixa uses postpositions, which can also indicate non-semantic participant flagging by using the postposition ''ka'' to mark a variety of oblique participants.<ref name=":0" /> Noun phrases display head-final constituent order, yet the head may be pre-posed. The language uses a rich suffixing morphology in verb derivation. It has a special type of complex predicate called a juncture-verb construction (JVC), which differs from traditional serial-verb constructions (SVC).<ref name=":0" /> In general, the word order is flexible: transitive clauses commonly display AOV constituent order. The language displays accusative alignment in transitive clauses and does not have ditransitive verbs. In semantically ditransitive constructions, one participant is always treated as oblique.<ref name=":0" />
+
+== Voice and Valence ==
+
+=== Overview ===
+Tsʼixa has three verb classes that are categorized according to the clause types in which they appear: [[Transitive verb|transitive]], [[Intransitive verb|intransitive]], and [[Ambitransitive verb|ambitransitive]]. Tsʼixa has no ditransitive verbs, in the sense of verbs that allow double-object patterns. It appears to have five voice types, including the [[Passive voice|passive]], [[Active voice|active]], [[causative]], [[Reciprocal (grammar)|reciprocal]], and [[Reflexive voice|reflexive]]. The causative and benefactive are [[Valency (linguistics)|valence]]-increasing operations, and the passive, reflexive, and reciprocal are valence-decreasing.<ref name=":0" />
+
+=== Passive ===
+To form the passive, Tsʼixa attaches the ''-i ∼ -e'' suffix to derived and non-derived verbs.<ref name=":0" />&nbsp;
+
+Active:
+{{interlinear|indent=3
+|[Kgalalelo]{{=}}sì nǁgóá{{=}}sà ʔà gám̀-nà-tà
+|Kgalalelo{{=}}SG.F:{{gcl|I|first group of Person-Gender-Number (PGN) clitics}} stone{{=}}SG.F:{{gcl|II|second group of Person-Gender-Number (PGN) clitics}} ACC throw-J-{{gcl|PST1|past tense 1}}
+|'Kgalalelo threw the stone'}}
+
+Passive:
+{{interlinear|indent=3
+|<nowiki/>'nǁgóá{{=}}sì gám̀-è-tà
+|stone{{=}}SG.F:{{gcl|I|first group of Person-Gender-Number (PGN) clitics}} throw-PASS-{{gcl|PST1|past tense 1}}
+|'The stone has been thrown'}}
+
+=== Causative ===
+Tsʼixa uses four morphological strategies to derive causatives: three suffixes and full reduplication of the verb stem. Although there are few examples in existing data, it appears that the inherent lexical properties of the verb stem for lexical verb classes play a role in determining which strategy is used: -''xu'' is preferred with activity verbs, including posture and motion verbs, while -''kà'' and -''káxù'' tend to appear with accomplishments, but can also modify motion verbs.<ref name=":0" />
+{| class="wikitable"
+!Derivation <ref name=":0" />
+!Example 
+|-
+|''-xu∼-xo''
+|''ʔúè'' 'to break' ([[Intransitive verb|vi]]) > ''ʔúè-xù'' 'to break' ([[Transitive verb|vt]])
+|-
+|''-káxù''
+|''ʔãã́''&nbsp; 'to get to know' > ''ʔãã́-káxù'' 'to teach'
+|-
+|''-kà'' 
+|''ʔãã́''&nbsp; 'to get to know' > ''ʔãã́-kà'' 'to teach'
+|-
+|Reduplication
+|''khudí'' 'to end' > ''khudí.khudì'' 'to finish'
+|}
+
+=== Benefactive ===
+The benefactive is a type of applicative that combines with intransitive and transitive verbs, where the suffix *-''ma'' introduces beneficiaries. With intransitive verbs, -''mà'' introduces a new argument, the beneficiary, which becomes the O, while the former S becomes A. With transitive verbs, the transitivity is maintained. The newly introduced beneficiary becomes O, while the O of the non-derived verb is demoted to an oblique participant marked by the MPO (multi-purpose oblique) ''ka''.<ref name=":0" /> Below are examples from Fehn (2014):<ref name=":0" />
+
+{{interlinear|indent=3
+|tí kò kʼoxú ǂũũ̀
+|1SG IPFV meat buy
+|A {} O V
+|'I buy meat'}}
+
+{{interlinear|indent=3
+|tí kò tí ká ǀṹã́{{=}}nà ʔà kʼoxú kà ǂũũ̀-à-mà
+|1SG IPFV 1SG POSS child{{=}}PL.C:{{gcl|II|second group of Person-Gender-Number (PGN) clitics}} ACC meat MPO buy-{{gcl|J|juncture morpheme}}-BEN
+|A {} O {} {} {} T(heme) {} V
+|'I buy meat for my children'}}
+
+=== Reflexive&nbsp;===
+The most basic function of the suffix -''si'', which is found throughout the Khoe family, appears to be to indicate the reflexive. It can also be used in constructions encoding what is referred to as the “intensive-reflexive,” where the S is emphasized as the initiator of the action. The S may be repeated as an oblique argument marked by the MPO ''ka'', indicating the interpretation of 'X by himself'.<ref name=":0" />
+
+=== Reciprocal ===
+The suffix -''kù'' derives intransitive verbs from transitive ones by combining the former A and O in one noun phrase S, creating a reciprocal meaning&nbsp;.<ref name=":0" />
+
+=== Summary of valence-increasing and valence-decreasing operations <ref name=":0" /> ===
+{| class="wikitable"
+!Type
+!Verb Class
+!Semantic Role Introduced/Deleted
+!Semantic Role Change
+|-
+|Increasing Valency
+|
+|
+|
+|-
+|<small caps>CAUSATIVE</small>
+|Intransitive / Transitive
+|A (causer)
+|S > O
+|-
+|<small caps>BENEFACTIVE</small>
+|Intransitive / Transitive
+|O (beneficiary)
+|S > A
+S > A, O > <small caps>OBL</small>
+|-
+|Decreasing Valency
+|
+|
+|
+|-
+|<small caps>PASSIVE</small>
+|Transitive
+|A (agent)
+|O > S
+|-
+|<small caps>REFLEXIVE / ANTI-CAUSATIVE</small>
+|Transitive
+|O
+|A > S
+|}
+
+==Lexical Categories==
+===Nouns===
+Overview: The Tsʼixa noun phrase consists of a single noun or pronoun, or of a noun and its modifiers. Nouns in Tsʼixa possess inherent [[grammatical gender]], which is marked by a set of clitics known as person-gender-number (PGN) markers. PGN markers are found throughout the Khoe family and are typically thought to form one paradigm with the languages' personal pronouns.<ref name=":0" /> They distinguish three [[Grammatical person|persons]] (first, second, third), three [[Grammatical number|numbers]] (singular, dual, plural), and three genders (masculine, feminine, common). [[Common gender]] is only applied to human referents in dual and plural; non-human referents in dual and plural are marked for either masculine or feminine gender. The language employs three strategies for nominal modification: 1) an unmarked strategy in which the modifier precedes its head and may or may not be marked by an agreeing PGN clitic; 2) an appositive strategy; 3) and an attributive strategy in which the NP head is marked by the [[Preposition and postposition|postposition]] ''ka''.<ref name=":0" />
+
+=== Person-Gender-Number (PGN) Clitics ===
+The term “Person-Gender-Number” (PGN) was created for a group of [[suffix]]es in [[Khoekhoe language|Khoekhoe]]. These suffixes attach to both nouns and pronominal stems, thereby constituting part of the language's pronominal paradigm. In contrast to the 1st and 2nd person pronouns, PGNs are not independent words that can stand on their own, and must instead always attach to the lexical item which precedes them. They are clitics that mark nominal referents, including the personal pronouns of the 3rd person, for gender (masculine, feminine, common) and number (singular, dual, plural). They may be further divided into those that possess case-sensitive forms (singular and plural), and those that do not (dual). The PGNs are treated as [[Clitic|enclitics]] rather than suffixes because they not only attach to nouns and their modifiers, but to any element that occupies the final slot of a syntactic unit that acts as a definite noun phrase. The language has pronouns but no clitics for the 1st and 2nd person, which means that personal deixis is not included in its nominal gender marking. Only masculine and feminine gender are distinguished in the singular, and nouns denoting human referents in dual and plural also take on marking for common gender&nbsp;.<ref name=":0" />
+
+==== PGN Series&nbsp;I and II ====
+The PGNs in the singular and plural each have two forms: one ends in a high vowel or a nasal, the other ends in /a/. The first group of PGNs (labelled 'I') is used for the subject of the clause, and in this sense bears an affinity to [[nominative case]] marking. However, clitics of series 'I' can also attach to dependent nominal referents, such as those headed by a postposition, as well as to agreeing nominal modifiers preceding their heads.<ref name=":0" /> The second group (labelled 'II') attaches to the direct object of the verb phrase and in this way displays an affinity to [[accusative case]]. PGNs of series 'II' also mark predicate nouns in non-verbal clauses, as well as appositions.<ref name=":0" />
+
+{{interlinear|indent=3
+|hà '''góè{{=}}dzà''' kò '''kʼoó{{=}}ǁù''' kò àà nò '''ʔé.sì''' kò nyúḿ
+|SS cattle{{=}}PL.F:{{gcl|II|second group of Person-Gender-Number (PGN) clitics}} IPFV eat.meat{{=}}PL.M:{{gcl|I|first group of Person-Gender-Number (PGN) clitics}} IPFV come when 3SG.F.I{{gcl|I|first group of Person-Gender-Number (PGN) clitics}} IPFV whistle
+|'When the cattle-eaters came, she would whistle'}}
+
+=== Nouns, Modifiers, and Constituent Order ===
+The [[Khoe languages]] are considered strictly head-final. This conclusion is based on observations made for all documented Khoe languages and follows what is expected typologically from [[OV language]]s. On the other hand, while closely related languages behave rather regularly, Tsʼixa is unique in a few important ways. While modifiers may precede their heads, this is not the only or even the most common strategy found in existing data. The order of modifiers in the NP – regardless of whether the head appears in phrase-initial or phrase-final position – is as follows:<ref name=":0" />
+
+<small caps>ADJECTIVE – NUMERAL – DEMONSTRATIVE – RELATIVE</small>&nbsp; &nbsp;&nbsp;&nbsp;
+
+The following table shows the constituent order of nominals and their modifiers:<ref name=":0" />
+{| class="wikitable"
+!Type
+!Constituent Order
+!Found With
+!Grammatical Restrictions
+|-
+|Juxtaposition
+|Modifier - Head
+|all types, except relative constructions
+|<small caps>NP</small> is not marked by a <small caps>PGN</small> clitic, except for a small subset of adjectives that allow for <small caps>PGN</small> marking
+|-
+|Attributor ''ka'' (post-posed head)
+|Modifier = <small caps>PGN</small> - Head ''ka''
+|all types, except interrogatives
+|Definiteness of the <small caps>NP</small> is marked on modifier(s) by <small caps>PGN</small> clitic agreeing with the semantic and syntactic properties of head noun
+|-
+|Attributor ''ka'' (pre-posed head)
+|Head ''ka'' - Modifier = <small caps>PGN</small> 
+|all types, except interrogatives
+|Definiteness of the <small caps>NP</small> is marked on modifier(s) by <small caps>PGN</small> clitic agreeing with the semantic and syntactic properties of head noun
+|-
+|Apposition
+|Head = <small caps>PGN</small> - Modifier = <small caps>PGN</small>
+|all types, except demonstratives and interrogatives
+|Modifier may but is not required to take a <small caps>PGN</small> of series 'II' (this highlights its appositive status)
+|}
+
+=== Adjectives ===
+Adjectives in Tsʼixa form an open class that may incorporate new members in the form of [[loanword]]s. To modify a nominal head, it has three strategies: 1) the adjective can precede the head noun; 2) it can act as an apposition to the head noun; 3) or it can combine with a noun marked by the attributor morpheme ''ka.'' Adjectives have features similar to nouns and verbs, in that they can function as a copula complement, but also take TAM marking and derivational affixes typically reserved for verbs.<ref name=":0" />
+
+=== Relative Clauses ===
+Tsʼixa relative clauses are externally-headed and are encoded using two major strategies: 1) Attributive strategy: the attributor postposition ''ka'' marks the head; 2) Appositive strategy: the relative clause follows its head which may, but does not need to be marked by a PGN clitic. In general, relative clauses are preceded by their heads. The clause-external head is not resumed within the relative clause in the form of an anaphoric pronoun if it acts as the subject or the object.<ref name=":0" /> The relative clause is marked by a PGN clitic that agrees with the semantic and syntactic properties of the head, while the head itself is marked by a series 'I' PGN clitic or the attributor postposition ''ka''.<ref name=":0" />
+
+Within relative clauses the head may act as a core or oblique argument. Oblique arguments must be resumed in the relative clause using the referential demonstrative ''ʔṹ ~ ʔĩ ~ ĩ''', which is not marked by a PGN clitic but instead followed by the appropriate oblique postposition.<ref name=":0" /> In the example below, the oblique postposition following the referential demonstrative''ʔĩ'' is the possessive ''kà&nbsp;'':<ref name=":0" />
+
+{{interlinear|indent=3
+|tí kʼuí-nà-tà [gǁaàkhòè kà ['''ʔí̃''' '''kà''' ǀṹã́{{=}}ǹ nguú{{=}}ḿ kà fenstérè{{=}}dzà ʔà {ʔúè-xù-nà-hà ] {{=}}dzì ]} ǀxòà
+|1SG speak-J-{{gcl|PST1|past tense 1}} woman ATTR '''DEM.REF''' '''POSS''' child{{=}}PL.C:{{gcl|I|first group of Person-Gender-Number (PGN) clitics}} house{{=}}SG.M:{{gcl|I|first group of Person-Gender-Number (PGN) clitics}} POSS window{{=}}PL.F:{{gcl|II|second group of Person-Gender-Number (PGN) clitics}} ACC break-CAUS-J-{{gcl|PST3|past tense 3}}{{=}}PL.F:{{gcl|I|first group of Person-Gender-Number (PGN) clitics}} COM
+|'I spoke to the woman whose children broke the house's windows'}}
+
+This follows the accessibility hierarchy of relativization developed by Keenan and Comrie:<ref>Comrie, Bernard and Keenan, Edward L. 1997. Noun Phrase Accessibility and Universal Grammar. ''Linguistic Inquiry'', Vol. 8 No. 1 pp. 63-99.</ref>
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Subject > Direct Object > Indirect Object > Oblique > Genitive > Object of Comparative
+
+== Verbal&nbsp;Morphology ==
+
+=== Overview ===
+Tsʼixa verbs may be grouped according to their inherent aspectual properties and to the number of arguments they take. They may further be classified according to their behavior with a grammatical morpheme referred to as “juncture” by Köhler or “verbal linker” by Vossen.<ref name=":0" /> This juncture morpheme connects a restricted set of derivational and TAM suffixes to the verb stem, and serves as a connecting element in a specific type of multiverbal [[Predicate (grammar)|predicate]]. Tsʼixa also has a closed class of “copula verbs” which are unique in that they cannot combine with TAM markers.<ref name=":0" />
+
+=== Verbal Predicates ===
+Verbal predicates in declarative clauses are obligatorily marked by a particle or a suffix grammeme encoding tense, aspect and/or modality ([[Tense–aspect–mood|TAM]]). They can be negated by a set of generic negation and aspect-specific particles, and the inherent aspectual properties of a verb can be modified by a set of derivative suffixes. Aspectual modification is marked by a specific type of multiverbal structure termed “juncture-verb construction,” in which two or more verbs are combined to form a complex predicate.<ref name=":0" />
+
+==== Intransitive Verbs ====
+As discussed in the voice and valence section, the valency of intransitive verbs may be increased using the causative and benefactive. Intransitive verbs may appear with the passive suffix, which triggers an impersonal reading, and may also take on the reciprocal/polyadic suffix -''kù''.<ref name=":0" />
+
+==== Transitive Verbs ====
+The majority of Tsʼixa verbs are transitive. They take on two core arguments, A and O. However, O is frequently omitted if deemed sufficiently accessible from context. Monotransitive verbs can become intransitive by using the passive and reflexive suffixes. When verbs add suffixes to create either the causative or benefactive they become semantically ditransitive. In both cases, a new O is introduced, while the original O becomes an oblique participant marked by the MPO ''ka''&nbsp;.<ref name=":0" />
+
+=== Tense-Aspect-Modality (TAM) ===
+All TAM markers in Tsʼixa are portmanteau morphemes that combine temporal and aspectual, or temporal and modal properties. The interpretation of a particular verb marked for TAM depends on its inherent aspectual properties (sometimes referred to as “Aktionsart”), context, and its transitivity. These morphemes include the imperfective particles ''kò'' and ''kùè'', the near past ''tè,'' the anterior/past suffixes, and the two future particles ''gérè'' and ''nà''.<ref name=":0" /> The interconnection between tense, aspect, and mood in the TAM morphemes is expressed in the following table:<ref name=":0" />
+{| class="wikitable"
+!Aspect
+!Tense
+!Modality
+|-
+|
+|
+|<small caps>SUBJUNCTIVE</small> ''xà''
+|-
+|
+|                           <small caps>NEAR</small>...
+|...<small caps>FUTURE</small> ''nà''
+|-
+|
+|                              <small caps>FUT</small>...
+|...<small caps>URE</small> ''gérè''
+|-
+|<small caps>IMPERFECTIVE</small> ''kò / kùè''
+|
+|
+|-
+|                                   <small caps>NEAR</small>...
+|...<small caps>PAST</small> ''tè''
+|
+|-
+|                           <small caps>SAME DAY</small>...
+|...<small caps>PAST</small> <small caps>V-J</small>-''ta''
+|
+|-
+|                              <small caps>RECENT</small>...
+|...<small caps>PAST</small> <small caps>V-J</small>-''ʔo''
+|
+|-
+|          <small caps>REMOTE / GENERIC</small>...
+|...<small caps>PAST</small> <small caps>V-J</small> -''h ∼ -ha''
+|
+|-
+|                   <small caps>SEQUENTIAL</small> / ...
+|...<small caps>NARRATIVE</small> ''nǀgè∼nè''
+|
+|-
+|<small caps>STATIVE</small> / <small caps>RESULTATIVE</small> -''nà''
+|
+|
+|}
+
+=== The "Juncture" Morpheme ===
+In her 2014 grammar of Tsʼixa, the linguist Anne-Maria Fehn takes care to distinguish what she refers to as "juncture verb constructions" (JVC) from the better-known "[[serial verb construction]]s" (SVC).<ref name=":0" /> She cites as her reasoning Aikhenvald's (2006) <ref>Aikhenvald, Alexandra Y. 2006. "Serial Verb Constructions in Typological Perspective." Aikhenvald & Dixon, eds. 2006, 1-68.</ref> diagnostic criteria for identifying serial verb constructions, which states that SVCs must function as a single predicate with no overt markers of [[Coordination (linguistics)|coordination]] or [[Subordination (linguistics)|subordination]].<ref name=":0" /> Fehn states that the main function of the so-called juncture morpheme seems to be conveying that a verb will be followed by another verbal element, either a full verb or a suffix originating from a verb, and that all derivational suffixes, as well as two out of the three anterior/past suffixes in Tsʼixa which require the juncture morpheme, were originally [[Grammaticalization|grammaticalized]] from a verbal source. Because of their verbal origins, one can interpret the juncture as an element that puts verbs into a so-called “construct state”.<ref name=":0" /> Although this function does not occur with an overt coordination or subordination marker, the prototypical SVCs (such as those found in Western African languages or in the [[Tuu languages|Tuu]] and [[Kxʼa languages|Kxʼa]] families) include two or more full verbs that do not require a linking element between them. This, however, is not the case in Tsʼixa. Fehn provides the following example from [[Juǀ'hoan dialect|Juǀʼhoan]], a [[Kxʼa languages|Kxʼa]] language (originally from Dickens 1992: 56 <ref>Dickens, Patrick J. 1992. Juǀʼhoan ra ar. Windhoek: Nyae Nyae Development Foundation.</ref>):<ref name=":0" />
+
+{{interlinear|indent=3
+|mí !òmà tè ǀóá '''sé''' '''ǁʼàbà''' ǃȁìhn
+|I {be short} and NEG see {step over} tree
+|'I am short and cannot see over the tree'}}
+
+Here, the two full verbs 'see' and 'step over' do not require any type of linking element, which is in direct contrast to Tsʼixa. Compare this to the following Tsʼixa example, where the juncture morpheme 'J' links the two verbs 'sing' and 'come' to convey what is known in the literature as 'unrestricted manner':<ref name=":0" />
+
+{{interlinear|indent=3|abbreviations=J:juncture morpheme
+|tí kò '''nǁgái-a''' '''àà'''
+|1SG IPFV sing-'''J''' come
+|'I come singing'}}
+
+==== Types of Juncture Verb Constructions in Tsʼixa ====
+The following table shows the types of JVCs that have been identified in Tsʼixa:<ref name=":0" />
+{| class="wikitable"
+!Type
+!Restrictions
+!Minor / Modifying Verbs
+!Fixed Constituent Order
+!Contiguous
+!Frequency of Use
+!Also Expressed Through
+|-
+!<small caps>MANNER</small>
+!
+!
+!
+!
+!
+!
+|-
+|<small caps>UNRESTRICTED</small>
+|none; all verbs involved belong to open classes
+|
+|no
+|yes
+|rare
+|adverbial constructions
+|-
+|<small caps>POSTURE</small>
+|a posture verb specifies the position in which the action is performed
+|posture verbs, e.g., 'stand', 'sit', 'lie'
+|no
+|no
+|common
+|adverbial constructions
+|-
+!<small caps>CAUSE-EFFECT</small>
+!
+!
+!
+!
+!
+!
+|-
+|<small caps>UNRESTRICTED</small>
+|none; all verbs involved belong to open classes
+|
+|
+|?
+|
+|conjunctions ''ʔà'' and ''thì.ʔà~thà''
+|-
+|<small caps>ENDPOINT</small>
+|the cognitive outcome of a perceptive event is indicated
+|posture verbs, e.g., 'stand', 'sit', 'lie'
+|yes (posture verb follows motion verb)
+|?
+|rare
+|conjunctions ''ʔà'' and ''thì.ʔà ~ thà''
+|-
+|<small caps>COGNITION</small>
+|the cognitive outcome of a perceptive event is indicated
+|''ʔãã́'' 'know' and ''sáá'' 'fail, miss a target'
+|yes (minor verb follows perception verb)
+|yes
+|frequent
+| ---
+|-
+|<small caps>SWITCH-FUNCTION</small>
+|only with ''khudí'' 'end' indicating the completion of an action, probably grammaticalized
+|''khudí'' 'end'
+|yes (''khudí'' always as V2)
+|yes
+|frequent
+|
+|-
+|<small caps>PATH</small>
+|motion verbs are specified by verbs with orientational semantics
+|verbs with orientational semantics, e.g., 'enter', 'exit'
+|yes (orientation verb follows motion verb)
+|yes
+|frequent
+| ---
+|}
+The following table shows JVCs which convey aspectual meaning and are in various stages of grammaticalization:<ref name=":0" />
+
+{| class="wikitable"
+!Aspectual Meaning
+!
+!Status of Element
+!Status of Verbal Source
+!Structural Complexity
+|-
+|<small caps>COMPLETIVE</small> (intransitive)
+| -<small caps>J</small>-''xù''
+|suffix
+|full verb (''xúú'' 'to leave')
+|monomoraic suffix vs. bimoraic source
+|-
+|<small caps>DURATIVE</small>
+| -<small caps>J</small>-''ʔìì.sì''               
+|suffix
+|obvious verbal source, but no meaning in isolation
+|derived verb with still-identifiable components, i.e., ''-sì'' = <small caps>REFL</small>
+|-
+|<small caps>BENEFACTIVE</small>
+| -<small caps>J</small>-''mà''
+|suffix
+|verbal source no longer exists as a full verb (*mãã ‘to give')
+|oral, monomoraic suffix vs. nasal bimoraic source
+|-
+|<small caps>VENTIVE (ANDATIVE</small>)
+|''síi-a''
+|particle (<V<sub>1</sub>)
+|full verb (''síí'' 'to arrive, to become')
+|= source-<small caps>J</small>
+|-
+|<small caps>ITIVE</small>
+|''kũũ-a''
+|particle (<V<sub>1</sub>)
+|full verb (''kṹũ̀'' 'to go')
+|= source-<small caps>J</small>
+|}
+
+== References ==
+{{Reflist}}
+* {{Cite thesis |last=Fehn |first=Anne-Maria |title=A Grammar of Tsʼixa (Kalahari Khoe) |date=2014<!--source gives 2016 but actual thesis dated to 2014--> |degree=PhD |publisher=Universität zu Köln |url=http://kups.ub.uni-koeln.de/id/eprint/7062 |id={{urn|nbn|de:hbz:38-70622|urn-access=free}} }}
+
+[[Category:Khoe languages]]
+[[Category:Languages of Namibia]]

@@ -1,0 +1,719 @@
+{{Use dmy dates|date=July 2019}}
+{{short description|Bantu language spoken mainly in East Africa}}
+{{Infobox language
+| name             = Swahili
+| nativename       = [[Ajami script|Ajami]]: {{lang|ms-Arab|كِيْسَوَاحِيْلِيْ}}<br/>''Kiswahili''
+| pronunciation    = {{IPA-sw|kiswɑˈhili|lang|Kiswahili.ogg|lang}}
+| ethnicity        = [[Swahili people|WaSwahili]]
+| history          = 
+| states           = mainly in [[Tanzania origin of Swahili language]], [[Kenya]], [[Comoros]], [[Mayotte]], [[Uganda]], [[Rwanda]], [[Burundi]], the eastern part of the [[Democratic Republic of the Congo]], the [[Bajuni Islands]] (part of [[Somalia]]), northern [[Mozambique]] (mostly [[Mwani language|Mwani]]),<ref>Thomas J. Hinnebusch, 1992, "Swahili", ''International Encyclopedia of Linguistics'', Oxford, pp. 99–106<br />David Dalby, 1999/2000, ''The Linguasphere Register of the World's Languages and Speech Communities'', Linguasphere Press, Volume Two, pp. 733–735<br />Benji Wald, 1994, "Sub-Saharan Africa", ''Atlas of the World's Languages'', Routledge, pp. 289–346, maps 80, 81, 85</ref> [[Zambia]], [[Malawi]], and [[Madagascar]].
+| speakers         = Estimates range from 2 million (2003)<ref name=oxford>{{cite encyclopedia | title=Swahili | first=Thomas J. | last=Hinnebusch | editor=William J. Frawley | encyclopedia=International Encyclopedia of Linguistics (2 ed.) | publisher=Oxford University Press | location=Oxford | year=2003 | url=http://www.oxfordreference.com/view/10.1093/acref/9780195139778.001.0001/acref-9780195139778-e-1058 | url-access=subscription | quote=First-language (L1) speakers of Swahili, who probably number no more than two million | isbn=9780195139778 | access-date=20 July 2016 | archive-date=17 August 2016 | archive-url=https://web.archive.org/web/20160817055821/http://www.oxfordreference.com/view/10.1093/acref/9780195139778.001.0001/acref-9780195139778-e-1058 | url-status=live }}</ref> to 18 million
+| date             = 2012
+| ref              = e21
+| speakers2        = [[second language|L2]] speakers: 90 million (1991–2015)<ref name=e21/>
+| familycolor      = Niger-Congo
+| fam2             = [[Atlantic–Congo languages|Atlantic–Congo]]
+| fam3             = [[Volta–Congo languages|Volta-Congo]]
+| fam4             = [[Benue–Congo languages|Benue–Congo]]
+| fam5             = [[Bantoid languages|Bantoid]]
+| fam6             = [[Southern Bantoid languages|Southern Bantoid]]
+| fam7             = [[Bantu languages|Bantu]]
+| fam8             = [[Northeast Bantu languages|Northeast Bantu]]
+| fam9             = [[Northeast Coast Bantu languages|Northeast Coast Bantu]]
+| fam10            = [[Sabaki languages|Sabaki]]
+| protoname        = '''Proto-Swahili'''<ref>{{Cite book|url=https://books.google.com/books?id=lGwnDwAAQBAJ&q=proto+swahili&pg=PA50|title = The Swahili: Reconstructing the History and Language of an African Society, 800-1500|isbn = 9781512821666|last1 = Nurse|first1 = Derek|last2 = Spear|first2 = Thomas|date = 10 June 2017}}</ref>
+| script           = {{Plainlist}}
+* [[Latin script]] ([[#Orthography|Roman Swahili alphabet]])
+* [[Arabic script]] ([[#Orthography|Arabic Swahili alphabet]])
+* [[Swahili Braille]]
+{{Endplainlist}}
+| nation           = {{Collapsible list
+| expand = yes
+| titlestyle=font-weight:normal; background:transparent; text-align:left;
+| title=4 countries
+|{{flag|Tanzania}}
+|{{flag|Rwanda}}
+|{{flag|Kenya}}
+|{{flag|Uganda}}
+}}
+{{Collapsible list
+| expand = yes
+| titlestyle=font-weight:normal; background:transparent; text-align:left;
+| title=Organizations
+|{{flagdeco|African Union}} [[African Union]]
+|{{flagdeco|East African Community}} [[East African Community]]
+|{{flagdeco|SADC}} [[Southern African Development Community]]<ref>{{Cite web |date=30 August 2019 |title=Sadc Adopts Kiswahili as 4th Working Language |url=https://ec.europa.eu/education/knowledge-centre-interpretation/news/sadc-adopts-kiswahili-4th-working-language_en |url-status=live |archive-url=https://web.archive.org/web/20201018082045/https://ec.europa.eu/education/knowledge-centre-interpretation/news/sadc-adopts-kiswahili-4th-working-language_en |archive-date=18 October 2020 |access-date=21 February 2021 |website=European Commission}}</ref>
+}}
+| minority         = {{Plainlist}}
+* {{flag|Burundi}} 
+* {{flag|DR Congo}} 
+* {{flag|Mozambique}} 
+{{Endplainlist}}
+| agency           = {{Plainlist}}
+* {{lang|sw|[[Baraza la Kiswahili la Taifa]]|italic=no}} (Tanzania)
+* {{lang|sw|[[Chama cha Kiswahili cha Taifa]]|italic=no}} (Kenya)
+{{Endplainlist}}
+| iso1             = sw
+| iso2             = swa
+| iso3             = swa
+| lc1              = swc
+| ld1              = Congo Swahili
+| lc2              = swh
+| ld2              = Coastal Swahili
+| lc3              = ymk
+| ld3              = [[Makwe language|Makwe]]
+| lc4              = wmw
+| ld4              = [[Mwani language|Mwani]]
+| lingua           = 99-AUS-m
+| guthrie          = {{Plainlist}}
+* G.42–43;
+* G.40.A–H (pidgins & creoles)
+{{Endplainlist}}
+| glotto           = swah1254
+| glottorefname    = Swahili (G.40)
+| map              = Swahili-speaking Africa.png
+| mapcaption       = {{legend|#045A8D|Countries where Swahili is the main language}}
+{{legend|#0570B0|Countries where Swahili is a second language}}
+{{legend|#3690C0|Countries where Swahili is an official language but not a majority native language}}
+{{legend|#74A9CF|Countries where Swahili is a minority language}}
+| notice           = IPA
+}}
+{{Infobox ethnonym|person=Mswahili|people=[[Swahili people|Waswahili]]|language=Kiswahili
+}}
+
+'''Swahili''', also known by its [[endonym and exonym|native name]] '''{{lang|sw|Kiswahili}}''', is a [[Bantu languages|Bantu language]] and the [[first language|native language]] of the [[Swahili people]]. It is one of two official languages (the other being English) of the [[East African Community]] (EAC) countries, namely [[Burundi]], [[Kenya]], [[Rwanda]], [[South Sudan]], [[Tanzania]], [[Uganda]], and the recently added{{when|date=January 2022}} [[Democratic Republic of the Congo]]. It is a [[lingua franca]] of other areas in the [[African Great Lakes]] region and [[East Africa|East]] and [[Southern Africa]], including some parts of the [[Democratic Republic of the Congo]] (DRC), [[Malawi]], [[Mozambique]], the southern tip of [[Somalia]], and [[Zambia]].<ref>{{Cite book|last=Mazrui, Ali Al'Amin.|title=Swahili state and society : the political economy of an African language|date=1995|publisher=East African Educational Publishers|isbn=0-85255-729-9|oclc=441402890}}</ref><ref>Prins 1961</ref><ref>{{cite web|title=Development and Promotion of Extractive Industries and Mineral Value Addition|url=http://www.eac.int/treaty/index.php?option=com_content&view=article&id=206&Itemid=331|url-status=live|archive-url=https://web.archive.org/web/20161021151552/http://www.eac.int/treaty/index.php?option=com_content&view=article&id=206&Itemid=331|archive-date=21 October 2016|access-date=20 July 2016|publisher=[[East African Community]]}}</ref> Swahili is also one of the working [[languages of the African Union]] and of the [[Southern African Development Community]]. The exact number of Swahili speakers, be they native or second-language speakers, is estimated to be between 50&nbsp;million to 150&nbsp;million.<ref name="standford">{{cite web|title=HOME – Home|url=http://swahililanguage.stanford.edu|url-status=live|archive-url=https://web.archive.org/web/20161215022721/http://swahililanguage.stanford.edu/|archive-date=15 December 2016|access-date=19 July 2016|publisher=Swahililanguage.stanford.edu|quote=After Arabic, Swahili is the most widely used African language but the number of its speakers is another area in which there is little agreement. The most commonly mentioned numbers are 50, 80, 100 and 150 million people. [...] The number of its native speakers has been placed at just under 20 million.}}</ref> 
+
+Sixteen to twenty percent of the Swahili vocabulary are [[Arabic]] loanwords, including the word ''swahili'', from Arabic {{lang|ar-Latn|sawāḥilī}} ({{lang|ar|سَوَاحِلي}}, a plural adjectival form of an Arabic word meaning 'of the coast'). The Arabic loanwords date from the contacts of Arabian traders with the [[Northeast Bantu languages|Bantu]] inhabitants of the east coast of Africa over many centuries, which was also when Swahili emerged as a [[lingua franca]].<ref>{{cite web|url=https://www.britannica.com/topic/Swahili-language|title=Swahili language|publisher=Encyclopaedia Britannica|access-date=30 January 2021|archive-date=23 July 2019|archive-url=https://web.archive.org/web/20190723004044/https://www.britannica.com/topic/Swahili-language|url-status=live}}</ref>
+
+In 2018, [[South Africa]] legalized the teaching of Swahili in schools as an optional subject to begin in 2020.<ref>{{cite news|url=https://www.sowetanlive.co.za/news/south-africa/2018-09-17-kiswahili-gets-ministers-stamp-to-be-taught-in-sa-schools/|title=Kiswahili gets minister's stamp to be taught in SA schools|newspaper=[[The Sowetan]]|last=Sobuwa|first=Yoliswa|date=17 September 2018|access-date=9 October 2018|archive-date=18 September 2018|archive-url=https://web.archive.org/web/20180918231128/https://www.sowetanlive.co.za/news/south-africa/2018-09-17-kiswahili-gets-ministers-stamp-to-be-taught-in-sa-schools/|url-status=live}}</ref> [[Botswana]] followed in 2020,<ref>{{Cite web |url=https://www.languagemagazine.com/2020/10/12/botswana-to-introduce-swahili-language-in-local-schools/ |title=Botswana to Introduce Swahili Language in Local Schools |date=12 October 2020 |access-date=21 February 2021 |archive-date=22 March 2021 |archive-url=https://web.archive.org/web/20210322162812/https://www.languagemagazine.com/2020/10/12/botswana-to-introduce-swahili-language-in-local-schools/ |url-status=live }}</ref> and [[Namibia]] plans to introduce the language as well.<ref>{{Cite web |url=https://neweralive.na/posts/pandemic-disrupts-kiswahili-adoption-plans |title=Pandemic disrupts Kiswahili adoption plans |access-date=21 February 2021 |archive-date=5 December 2020 |archive-url=https://web.archive.org/web/20201205223846/https://neweralive.na/posts/pandemic-disrupts-kiswahili-adoption-plans |url-status=live }}</ref> [[Comorian language|Shikomor]] (or [[Comorian language|Comorian]]), an official language in [[Comoros]] and also spoken in [[Mayotte]] ({{lang|swb|[[Shimaore]]}}), is closely related to Swahili and is sometimes considered a dialect of Swahili, although other authorities consider it a distinct language.<ref>Nurse and Hinnebusch, 1993, p.18</ref><ref>Nurse and Hinnebusch, 1993</ref>
+
+== Classification ==
+Swahili is a [[Bantu languages|Bantu language]] of the [[Sabaki languages|Sabaki branch]].<ref>Derek Nurse, Thomas J. Hinnebusch, Gérard Philippson. 1993. ''Swahili and Sabaki: A Linguistic History''. University of California Press</ref> In [[Guthrie classification of Bantu languages|Guthrie's geographic classification]], Swahili is in Bantu zone G, whereas the other Sabaki languages are in zone E70, commonly under the name ''Nyika.'' Historical linguists do not consider the Arabic influence on Swahili to be significant, since Arabic influence is limited to lexical items, most of which have been borrowed only since 1500, whereas the grammatical and syntactic structure of the language is typically Bantu.<ref>Derek Nurse, Thomas T. Spear. 1985. Arabic loan words make up to 20% of the language. ''The Swahili: Reconstructing the History and Language of an African Society'', 800–1500. University of Pennsylvania Press</ref><ref>Thomas Spear. 2000. "Early Swahili History Reconsidered". ''The International Journal of African Historical Studies'', Vol. 33, No. 2, pp. 257–290</ref>
+
+==History==
+[[File:Askari makumbusho matini Kiswahili - Kiarabu.png|thumb|upright|Swahili in Arabic script—memorial plate at the [[Askari Monument]], Dar es Salaam (1927)]]
+
+===Etymology===
+
+The origin of the word Swahili is its phonetic equivalent in Arabic:
+
+{|
+|-
+|{{lang|ar|سَاحِل}} || → &nbsp; || {{lang|ar|سَوَاحِل}} || → &nbsp; || {{lang|ar|سَوَاحِلِىّ}}
+|-
+|sāħil || || sawāħil || || sawāħilï
+|-
+|"coast", ([[broken plural]]) || || "coasts" || || "of coasts"
+|}
+
+===Origin===
+The core of the Swahili language originates in [[Northeast Coast Bantu languages|Bantu languages]] of the coast of East Africa. Much of Swahili's Bantu vocabulary has cognates in the [[Pokomo language|Pokomo]], [[Taita language|Taita]], and [[Mijikenda language]]s<ref>{{Cite book|last=Polomé|first=Edgar|url=https://files.eric.ed.gov/fulltext/ED012888.pdf|title=Swahili Language Handbook|publisher=Centre for Applied Linguistics|year=1967|pages=28|access-date=12 September 2019|archive-date=27 November 2020|archive-url=https://web.archive.org/web/20201127014857/http://files.eric.ed.gov/fulltext/ED012888.pdf|url-status=live}}</ref> and, to a lesser extent, other [[Northeast Bantu languages|East African Bantu languages]]. While opinions vary on the specifics, it has been historically purported that about 20% of the Swahili vocabulary is derived from loan words, the vast majority [[Arabic]], but also other contributing languages, including [[Persian language|Persian]], [[Hindustani language|Hindustani]], [[Portuguese language|Portuguese]], and [[Malay language|Malay]].<ref>{{Cite web |last=Ali |first=Hassan O. |title=A Brief History of the Swahili Language |url=http://www.glcom.com/hassan/swahili_history.html |url-status=live |archive-url=https://web.archive.org/web/20170512022044/http://www.glcom.com/hassan/swahili_history.html |archive-date=12 May 2017 |access-date=30 September 2017 |website=Swahili Language & Culture}}</ref>
+
+{| class="wikitable"
+|+ Donor languages for loanwords in Swahili<ref>"1. Loanwords in Swahili", T. Schadeberg, in Tadmor, Uri. Loanwords in the World's Languages: A Comparative Handbook. Germany: De Gruyter, 2009.</ref>
+! Donor languages !! Percentage
+|-
+| Arabic (mainly [[Omani Arabic]]) || 16.3–20%
+|-
+| English || 4.6%
+|-
+| [[Portuguese language|Portuguese]] || 0.9–1.0%
+|-
+| [[Hindustani language|Hindi]] || 0.7–3.9%
+|-
+| [[Persian language|Persian]] || 0.4–3.4%
+|-
+| [[Malagasy language|Malagasy]] || 0.2–0.4%
+|}
+
+[[Omani Arabic]] is the source of most Arabic loanwords in Swahili.<ref>Baldi, Sergio, [https://journals.pan.pl/dlibra/publication/98881/edition/85189/content/folia-orientalia-2012-vol-xlix-arabic-loans-in-east-african-languages-through-swahili-a-survey-baldi-sergio?language=en Arabic Loans in East African Languages through Swahili: A Survey] {{Webarchive|url=https://web.archive.org/web/20210330035142/https://journals.pan.pl/dlibra/publication/98881/edition/85189/content/folia-orientalia-2012-vol-xlix-arabic-loans-in-east-african-languages-through-swahili-a-survey-baldi-sergio?language=en |date=30 March 2021 }}, Folia Orientalia, 2012, PAS Journals Repository</ref><ref>Nurse and Hinnebusch, 1993, p. 321</ref> In the text "Early Swahili History Reconsidered", however, Thomas Spear noted that Swahili retains a large amount of grammar, vocabulary, and sounds inherited from the [[Sabaki languages|Sabaki language]]. In fact, while taking account of daily vocabulary, using lists of one hundred words, 72–91% were inherited from the [[Sabaki languages|Sabaki language]] (which is reported as a parent language) whereas 4–17% were loan words from other African languages. Only 2–8% were from non-African languages, and Arabic loan words constituted a fraction of that.<ref>{{cite journal|jstor = 220649|title = Early Swahili History Reconsidered|last1 = Spear|first1 = Thomas|journal = The International Journal of African Historical Studies|year = 2000|volume = 33|issue = 2|pages = 257–290|doi = 10.2307/220649}}</ref> According to other sources, around 35% of the Swahili vocabulary comes from Arabic.<ref>{{Cite web |url=http://www.bbc.co.uk/languages/other/swahili/guide/facts.shtml |title=A Guide to Swahili - 10 facts about the Swahili language |access-date=30 September 2017 |archive-date=5 September 2017 |archive-url=https://web.archive.org/web/20170905184549/http://www.bbc.co.uk/languages/other/swahili/guide/facts.shtml |url-status=live }}</ref> What also remained unconsidered was that a good number of the borrowed terms had native equivalents. The preferred use of Arabic loan words is prevalent along the coast, where natives, in a cultural show of proximity to, or descent from Arab culture, would rather use loan words, whereas the natives in the interior tend to use the native equivalents. It was originally written in [[Arabic script]].<ref>{{cite web |url=http://www.glcom.com/hassan/swahili_history.html |title=Swahili history |last=Juma |first=Abdurahman |publisher=glcom.com |access-date=30 September 2017 |archive-date=12 May 2017 |archive-url=https://web.archive.org/web/20170512022044/http://www.glcom.com/hassan/swahili_history.html |url-status=live }}</ref>
+
+The earliest known documents written in Swahili are letters written in [[Kilwa Kisiwani|Kilwa]], [[Tanzania]], in 1711 in the Arabic script that were sent to the Portuguese of Mozambique and their local allies. The original letters are preserved in the Historical Archives of Goa, [[India]].<ref>{{cite book |first=E. A. |last=Alpers |title=Ivory and Slaves in East Central Africa |location=London |year=1975 |pages=98–99}}</ref><ref>{{cite journal |first=T. |last=Vernet |title=Les cités-Etats swahili et la puissance omanaise (1650–1720) |journal=Journal des Africanistes |volume=72 |issue=2 |year=2002 |pages=102–05|doi=10.3406/jafr.2002.1308 }}</ref>
+
+===Colonial period===
+[[File:Swahili-pn.jpg|thumb|upright|Although originally written with the Arabic script, Swahili is now written in a [[Latin script|Latin alphabet]] introduced by [[Christians|Christian]] [[Missionary|missionaries]] and colonial administrators. The text shown here is the [[Catholic]] version of the [[Lord's Prayer]].<ref>{{cite web |url=http://wikisource.org/wiki/Baba_yetu |title=Baba yetu |publisher=Wikisource |access-date=15 November 2015 |archive-date=8 October 2011 |archive-url=https://web.archive.org/web/20111008014826/http://wikisource.org/wiki/Baba_yetu |url-status=live }}</ref>]]
+
+Various colonial powers that ruled on the coast of East Africa played a role in the growth and spread of Swahili. With the arrival of the Arabs in East Africa, they used Swahili as a language of trade as well as for teaching Islam to the local [[Bantu peoples]]. This resulted in Swahili first being written in the Arabic alphabet. The later contact with the Portuguese resulted in the increase of vocabulary of the Swahili language. The language was formalised in an institutional level when the Germans took over after the [[Berlin conference]]. After seeing there was already a widespread language, the Germans formalised it as the official language to be used in schools. Thus schools in Swahili are called Shule (from German {{Lang|de|Schule}}) in government, trade and the court system. With the Germans controlling the major Swahili-speaking region in East Africa, they changed the alphabet system from Arabic to Latin. After the First World War, Britain took over German East Africa, where they found Swahili rooted in most areas, not just the coastal regions. The British decided to formalise it as the language to be used across the East African region (although in [[East Africa Protectorate|British East Africa]] [Kenya and Uganda] most areas used English and various Nilotic and other Bantu languages while Swahili was mostly restricted to the coast). In June 1928, an inter-territorial conference attended by representatives of [[Kenya]], [[Tanganyika (territory)|Tanganyika]], [[Uganda]], and [[Zanzibar]] took place in [[Mombasa]]. The Zanzibar dialect was chosen as standard Swahili for those areas,<ref name=":0">{{cite web |url=http://aboutworldlanguages.com/Swahili |title=Swahili |publisher=About World Languages |access-date=30 September 2017 |archive-date=1 October 2017 |archive-url=https://web.archive.org/web/20171001030923/http://aboutworldlanguages.com/Swahili |url-status=live }}</ref> and the standard orthography for Swahili was adopted.<ref>{{cite web |url=http://lexikos.journals.ac.za/pub/article/viewFile/918/437 |title=Dictionaries and the Standardization of Spelling in Swahili |publisher=Lexikos |last=Mdee |first=James S. |volume=9 |year=1999 |pages=126–27 |access-date=2 June 2017 |archive-date=28 October 2019 |archive-url=https://web.archive.org/web/20191028234354/http://lexikos.journals.ac.za/pub/article/viewFile/918/437 |url-status=live }}</ref>
+
+===Current status===
+Swahili has become a second language spoken by tens of millions in three [[African Great Lakes]] countries ([[Kenya]], [[Uganda]], and [[Tanzania]]), where it is an official or national language, while being the first language for many people in Tanzania especially in the coastal regions of Tanga, Pwani, Dar es Salaam, Mtwara and Lindi. In the inner regions of Tanzania, Swahili is spoken with an accent influenced by local languages and dialects, and as a first language for most people born in the cities, whilst being spoken as a second language in rural areas. Swahili and closely related languages are spoken by relatively small numbers of people in [[Burundi]], [[Comoros]], [[Malawi]], [[Mozambique]], [[Zambia]] and [[Rwanda]].<ref>Nurse & Thomas Spear (1985) ''The Swahili''</ref> The language was still understood in the southern ports of the [[Red Sea]] in the 20th century.<ref name="Kharusi">{{Cite journal |last=Kharusi |first=N. S. |date=2012 |title=The Ethnic Label Zinjibari: Politics and Language Choice Implications Among Swahili Speakers in Oman |journal=[[Ethnicities (journal)|Ethnicities]] |language=en |volume=12 |issue=3 |pages=335–353 |doi=10.1177/1468796811432681 |s2cid=145808915}}</ref><ref>Adriaan Hendrik Johan Prins (1961) ''The Swahili-speaking Peoples of Zanzibar and the East African Coast.'' ''(Ethnologue)''</ref> Swahili speakers may number 120 to 150 million in total.<ref>(2005 World Bank Data).</ref>
+
+Swahili is among the first languages in Africa for which [[language technology]] applications have been developed. [[Arvi Hurskainen]] is one of the early developers. The applications include a [[spelling checker]],<ref>{{cite web|title=Zana za Uhakiki za Microsoft Office 2016 - Kiingereza|url=http://www.microsoft.com/sw-ke/download/details.aspx?id=52668|website=Microsoft Download Center|access-date=23 October 2019|archive-date=6 March 2019|archive-url=https://web.archive.org/web/20190306044655/http://www.microsoft.com/sw-KE/download/details.aspx?id=52668|url-status=live}}</ref> [[part-of-speech tagging]],<ref name="auto">{{cite web|title=Salama|url=http://77.240.23.241/|website=77.240.23.241|access-date=23 October 2019}}</ref> a [[language learning software]],<ref name="auto" /> an analysed Swahili [[text corpus]] of 25 million words,<ref>{{cite web|title=Helsinki Corpus of Swahili 2.0 (HCS 2.0) – META-SHARE|url=http://metashare.csc.fi/repository/browse/helsinki-corpus-of-swahili-20-hcs-20/d544fe38184411e291cf005056be118e78589842c66b4efda6ad46f4034679c9/|website=metashare.csc.fi|access-date=23 October 2019|archive-date=23 October 2019|archive-url=https://web.archive.org/web/20191023142138/http://metashare.csc.fi/repository/browse/helsinki-corpus-of-swahili-20-hcs-20/d544fe38184411e291cf005056be118e78589842c66b4efda6ad46f4034679c9/|url-status=live}}</ref> an [[electronic dictionary]],<ref name="auto" /> and [[machine translation]]<ref name="auto" /> between Swahili and English. The development of language technology also strengthens the position of Swahili as a modern medium of communication.<ref>Hurskainen, Arvi. 2018. Sustainable language technology for African languages. In Agwuele, Augustine and Bodomo, Adams (eds), The Routledge Handbook of African Linguistics, 359–375. London: Routledge Publishers. {{ISBN|978-1-138-22829-0}}</ref>
+
+====Tanzania====
+The widespread use of Swahili as a national language in Tanzania came after Tanganyika gained independence in 1961 and the government decided that it would be used as a language to unify the new nation. This saw the use of Swahili in all levels of government, trade, art as well as schools in which primary school children are taught in Swahili, before switching to English (medium of instruction)<ref>{{Cite web |url=http://www.socialstudies.org/sites/default/files/publications/se/6107/610708.html |title=The Failure of Language Policy in Tanzanian Schools |access-date=13 October 2020 |archive-date=16 July 2020 |archive-url=https://web.archive.org/web/20200716031547/http://www.socialstudies.org/sites/default/files/publications/se/6107/610708.html |url-status=live }}</ref> in Secondary schools (although Swahili is still taught as an independent subject).
+After Tanganyika and Zanzibar unification in 1964, ''Taasisi ya Uchunguzi wa Kiswahili'' (TUKI, Institute of Swahili Research) was created from the Interterritorial Language Committee. In 1970 TUKI was merged with the University of Dar es salaam, while ''Baraza la'' ''Kiswahili la Taifa'' (BAKITA) was formed. BAKITA is an organisation dedicated to the development and advocacy of Swahili as a means of national integration in Tanzania. Key activities mandated for the organization include creating a healthy atmosphere for the development of Swahili, encouraging use of the language in government and business functions, coordinating activities of other organizations involved with Swahili, standardizing the language. BAKITA vision are: 1.To efficiently manage and coordinate the development and use of Kiswahili in Tanzania 2.To participate fully and effectively in promoting Swahili in East Africa, Africa and the entire world over.<ref>{{Cite web |title=Vision and Mission of The National Kiswahili Council |url=https://www.bakita.go.tz/eng/vision_mission |url-status=live |archive-url=https://web.archive.org/web/20201022065512/https://www.bakita.go.tz/eng/vision_mission |archive-date=22 October 2020 |access-date=13 October 2020 |website=The United Republic of Tanzania National Kiswahili Council |language=en}}</ref> Although other bodies and agencies can propose new vocabularies, BAKITA is the only organisation that can approve its usage in the Swahili language.
+
+==== Kenya ====
+In Kenya, ''Chama cha Kiswahili cha Taifa'' (CHAKITA) was established in 1998 to research and propose means by which Kiswahili can be integrated to a national language and made compulsory in schools the same year.{{Clarify|reason="Integrated to a national language" doesn't make sense, and the second, just-added part about compulsory education isn't written grammatically in line with what precedes it, as the existing part is about studies as to ''how'' to do something, and the new part by itself just says something was done, but in context it should mean that it was being studied as to how to do it..|date=September 2020}}, however, most young people today speak a variety called "[[Sheng (linguistics)|Sheng]]" in their day-to-day conversations and it has become so popular and widespread that the standard variety of Swahili now sounds archaic and literary.
+
+==== Somalia ====
+The Swahili language is not widespread in Somalia and has no [[Official language|official status]] nationally or regionally.<ref>{{Cite web|title=The Federal Republic of Somalia Provisional Constitution of 2012.|url=https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=94693&p_country=SOM&p_classification=01}}</ref><ref name="Ethnolsom" /> It is rarely taught in the education system, the main foreign languages are [[Arabic]] and [[English language|English]].<ref name="Ethnolsom" /> [[Dialect|Dialects]] of Swahili are spoken by some [[Minority group|ethnic minorities]] on the [[Bajuni Islands|Bajuni islands]] in the form of [[Bajuni dialect|Kibajuni]] on the southern tip of the country and in the town of [[Barawa|Brava]] in the form of [[Bravanese dialect|Chimwiini]], both contain a significant amount of [[Somali language|Somali]] and [[Italian language|Italian]] loanwords.<ref>{{Cite journal|last=Henderson|first=Brent|title=Chimwiini: Endangered Status and Syntactic Distinctiveness|url=http://users.clas.ufl.edu/bhendrsn/JWAL%20paper%20Chimwiini.pdf|journal=}}</ref><ref>{{Cite journal|last=Nurse|first=Derek|title=When northern Swahili met southern Somali|url=https://library.oapen.org/bitstream/handle/20.500.12657/23416/1006736.pdf?sequence=1#page=659|journal=Contemporary African Linguistics}}</ref> Standard Swahili is generally only spoken by Somali nationals who have resided in Kenya and subsequently returned to Somalia.<ref>{{Cite journal|last=Scharrer|first=Tabea|date=2018-06-16|title=“Ambiguous citizens”: Kenyan Somalis and the question of belonging|url=http://dx.doi.org/10.1080/17531055.2018.1483864|journal=Journal of Eastern African Studies|volume=12|issue=3|pages=494–513|doi=10.1080/17531055.2018.1483864|issn=1753-1055}}</ref><ref>{{Citation|last=Weitzberg|first=Keren|title=We Do Not Have Borders: Greater Somalia and the Predicaments of Belonging in Kenya|date=2017-07-25|url=http://dx.doi.org/10.2307/j.ctv224txv2.16|work=|pages=181–182|publisher=Ohio University Press|access-date=2022-01-19}}</ref> Lastly, a closely related language [[Zigula language|Mushunguli]] (also known as Zigula, Zigua, or Chizigua) is spoken by some of the [[Somali Bantus|Somali Bantu]] ethnic minority mostly living in the [[Jubba Valley]].<ref name="Ethnolsom" /> It is classified as a [[Northeast Coast Bantu languages|Northeast Coast Bantu language]] as Swahili is and has some intelligibility with Swahili.<ref>{{Cite web|title=Glottolog 4.5 - Northeast Coastal Bantu|url=https://glottolog.org/resource/languoid/id/nort3209|access-date=2022-01-25|website=glottolog.org}}</ref>
+
+==Religious and political identity==
+
+=== Religion ===
+
+Swahili played a major role in spreading both [[history of Christianity|Christianity]] and [[history of Islam|Islam]] in [[East Africa]]. From their arrival in East Africa, [[Arabs]] brought Islam and set up [[madrasa]]s, where they used Swahili to teach Islam to the natives. As the Arab presence grew, more and more natives were converted to Islam and were taught using the Swahili language.
+
+From the arrival of [[rape of Africa|Europeans]] in East Africa, Christianity was introduced in East Africa. While the Arabs were mostly based in the coastal areas, European missionaries went further inland spreading Christianity. But since the first missionary posts in East Africa were in the coastal areas, missionaries picked up Swahili and used it to spread Christianity since it had a lot of similarities with many of the other indigenous languages in the region.
+
+=== Politics ===
+During the struggle for Tanganyika independence, the [[Tanganyika African National Union]] used Swahili as language of mass organisation and political movement. This included publishing pamphlets and radio broadcasts to rally the people to fight for independence. After independence, Swahili was adopted as the national language of the nation. Till this day, Tanzanians carry a sense of pride when it comes to Swahili especially when it is used to unite over 120 tribes across Tanzania. Swahili was used to strengthen solidarity among the people and a sense of togetherness and for that Swahili remains a key identity of the Tanzanian people.
+
+==Phonology==
+[[File:WIKITONGUES- Iddy speaking Swahili.webm|thumb|Example of spoken Swahili]]
+{{Self reference|For assistance with IPA transcriptions of Swahili for Wikipedia articles, see [[Help:IPA/Swahili]].}}
+
+===Vowels===
+Standard Swahili has five vowel [[phoneme]]s: {{IPA|/ɑ/}}, {{IPA|/ɛ/}}, {{IPA|/i/}}, {{IPA|/ɔ/}}, and {{IPA|/u/}}. According to [[Ellen Contini-Morava]], vowels are never [[vowel reduction|reduced]], regardless of [[stress (linguistics)|stress]].<ref name=":1">Contini-Morava, Ellen. 1997. Swahili Phonology. In Kaye, Alan S. (ed.), Phonologies of Asia and Africa 2, 841–860. Winona Lake, Indiana: Eisenbrauns.</ref> However, according to [[Edgar Polomé]], these five phonemes can vary in pronunciation. Polomé claims that {{IPA|/ɛ/}}, {{IPA|/i/}}, {{IPA|/ɔ/}}, and {{IPA|/u/}} are pronounced as such only in stressed syllables. In unstressed syllables, as well as before a prenasalized consonant, they are pronounced as {{IPA|[e]}}, {{IPA|[ɪ]}}, {{IPA|[o]}}, and {{IPA|[ʊ]}}. ''E'' is also commonly pronounced as mid-position after ''w''. Polomé claims that {{IPA|/ɑ/}} is pronounced as such only after ''w'' and is pronounced as {{IPA|[a]}} in other situations, especially after {{IPA|/j/}} (''y''). ''A'' can be pronounced as {{IPA|[ə]}} in word-final position.<ref name="files.eric.ed.gov">{{Citation |title=Swahili Language Handbook |url=https://files.eric.ed.gov/fulltext/ED012888.pdf |type=Report |archive-url=https://web.archive.org/web/20201127014857/http://files.eric.ed.gov/fulltext/ED012888.pdf |access-date=12 September 2019 |archive-date=27 November 2020 |url-status=live}}</ref> Swahili vowels can be [[Vowel length|long]]; these are written as two vowels (example: {{lang|sw|kondoo}}, meaning "sheep"). This is due to a historical process in which the [[Voiced alveolar lateral approximant|L]] became deleted between the second last and last vowel of a word ( e.g.{{lang|sw|kondoo}} "sheep" was originally pronounced ''kondolo'', which survives in certain dialects). However, these long vowels are not considered to be [[phonemic]]. A similar process exists in [[Zulu language#Vowels|Zulu]].
+
+===Consonants===
+{| class="wikitable" style="margin: 0 auto; text-align:center"
+|+Swahili consonant phonemes<ref name=":1" /><ref>Modern Swahili Grammar East African Publishers, 2001 Mohamed Abdulla Mohamed p. 4</ref>
+|-
+! colspan=2 |
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Postalveolar consonant|Postalveolar]]<br/>/ [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! colspan=2 | [[Nasal stop|Nasal]]
+| {{IPA link|m}} {{angbr|m}}
+|
+| {{IPA link|n}} {{angbr|n}}
+| {{IPA link|ɲ}} {{angbr|ny}}
+| {{IPA link|ŋ}} {{angbr|ng'}}
+|
+|-
+! rowspan=4 | [[Stop consonant|Stop]]
+! [[Prenasalized consonant|prenasalized]]
+| {{IPA|mb̥}} {{angbr|mb}}
+| 
+| {{IPA|nd̥}} {{angbr|nd}}
+| {{IPA|nd̥ʒ̊}} {{angbr|nj}}
+| {{IPA|ŋɡ̊}} {{angbr|ng}}
+|
+|-
+! [[Implosive consonant|implosive]]<br/>/ [[Voiced plosive|voiced]]
+| {{IPA link|ɓ}} ~ {{IPA link|b}} {{angbr|b}}
+|
+| {{IPA link|ɗ}} ~ {{IPA link|d}} {{angbr|d}}
+| {{IPA link|ʄ}} ~ {{IPA link|dʒ}} {{angbr|j}}
+| {{IPA link|ɠ}} ~ {{IPA link|ɡ}} {{angbr|g}}
+|
+|-
+! [[Voiceless plosive|voiceless]]
+| {{IPA link|p}} {{angbr|p}}
+|
+| {{IPA link|t}} {{angbr|t}}
+| {{IPA link|tʃ}} {{angbr|ch}}
+| {{IPA link|k}} {{angbr|k}}
+|
+|-
+! [[Aspirated consonant|aspirated]]
+| ({{IPA|pʰ}} {{angbr|p}})
+|
+| ({{IPA|tʰ}} {{angbr|t}})
+| ({{IPA|tʃʰ}} {{angbr|ch}})
+| ({{IPA|kʰ}} {{angbr|k}})
+| 
+|-
+! rowspan=3 | [[Fricative consonant|Fricative]]
+! [[Prenasalized consonant|prenasalized]]
+| {{IPA|mv̥}} {{angbr|mv}}
+|
+| {{IPA|nz̥}} {{angbr|nz}}
+|
+|
+|
+|-
+! [[Voiced fricative|voiced]]
+| {{IPA link|v}} {{angbr|v}}
+| ({{IPA link|ð}} {{angbr|dh}})
+| {{IPA link|z}} {{angbr|z}}
+|
+| ({{IPA link|ɣ}} {{angbr|gh}})
+|
+|-
+! [[Voiceless fricative|voiceless]]
+| {{IPA link|f}} {{angbr|f}}
+| ({{IPA link|θ}} {{angbr|th}})
+| {{IPA link|s}} {{angbr|s}}
+| {{IPA link|ʃ}} {{angbr|sh}}
+| ({{IPA link|x}} {{angbr|kh}})
+| {{IPA link|h}} {{angbr|h}}
+|-
+! colspan=2 | [[Approximant consonant|Approximant]]
+|
+|
+| {{IPA link|l}} {{angbr|l}}
+| {{IPA link|j}} {{angbr|y}}
+| {{IPA link|w}} {{angbr|w}}
+|
+|-
+! colspan=2 | [[Rhotic consonant|Rhotic]]
+|
+|
+| r {{angbr|r}}
+|
+|
+|
+|}
+
+Some dialects of Swahili may also have the aspirated phonemes {{IPA|/pʰ tʰ tʃʰ kʰ bʱ dʱ dʒʱ ɡʱ/}} though they are unmarked in Swahili's orthography.<ref name="Lodhi">{{Cite journal |last=Lodhi |first=Abdulaziz Y. |date=2003 |title=Aspiration in Swahili Adjectives and Verbs |url=https://sprak.gu.se/digitalAssets/1324/1324063_aspiration-in-swahili.pdf |url-status=dead |journal=Africa & Asia |language=en |volume=3 |page=157 |archive-url=https://web.archive.org/web/20200715041859/https://sprak.gu.se/digitalAssets/1324/1324063_aspiration-in-swahili.pdf |archive-date=2020-07-15}}</ref> Multiple studies favour classifying prenasalization as consonant clusters, not as separate phonemes. Historically, nasalization has been lost before voiceless consonants, and subsequently the voiced consonants have devoiced{{Citation needed|date=December 2021}}, though they are still written ''mb, nd'' etc. The /r/ phoneme is realised as either a short trill {{IPA blink|r}} or more commonly as a single tap {{IPA blink|ɾ}} by most speakers. {{IPA|[x]}} exists in free variation with h, and is only distinguished by some speakers.<ref name="files.eric.ed.gov" /> In some Arabic loans (nouns, verbs, adjectives), emphasis or intensity is expressed by reproducing the original emphatic consonants {{IPA|/dˤ, sˤ, tˤ, zˤ/}} and the uvular {{IPA|/q/}}, or lengthening a vowel, where aspiration would be used in inherited Bantu words.<ref name="Lodhi" />
+
+==Orthography==
+[[File:Bundesarchiv Bild 105-DOA0075, Deutsch-Ostafrika, Einheimisches Mädchen.jpg|thumb|upright|Swahili in Arabic script on the clothes of a girl in [[German East Africa]] (ca. early 1900s)]]
+
+{{more citations needed section|date=January 2016}}
+Swahili is now written in the Latin alphabet. There are a few [[digraph (orthography)|digraphs]] for native sounds, ''ch'', ''sh'', ''ng'' and ''ny''; ''q'' and ''x'' are not used,<ref>{{cite web |url=https://www.bbc.co.uk/languages/other/swahili/guide/alphabet.shtml |title=A Guide to Swahili – The Swahili alphabet |publisher=BBC |access-date=25 December 2019 |archive-date=12 February 2020 |archive-url=https://web.archive.org/web/20200212181115/http://www.bbc.co.uk/languages/other/swahili/guide/alphabet.shtml |url-status=live }}</ref> ''c'' is not used apart from the digraph ''ch'', unassimilated English loans and, occasionally, as a substitute for ''k'' in advertisements. There are also several digraphs for Arabic sounds, which many speakers outside of ethnic Swahili areas have trouble differentiating.
+
+The language used to be written in the Arabic script. Unlike adaptations of the Arabic script for other languages, relatively little accommodation was made for Swahili. There were also differences in orthographic conventions between cities and authors and over the centuries, some quite precise but others different enough to cause difficulties with intelligibility.
+
+{{IPA|/e/}} and {{IPA|/i/}}, and {{IPA|/o/}} and {{IPA|/u/}} were often conflated, but in some spellings, {{IPA|/e/}} was distinguished from {{IPA|/i/}} by rotating the ''[[kasrah|kasra]]'' 90° and {{IPA|/o/}} was distinguished from {{IPA|/u/}} by writing the ''[[damma]]'' backwards.
+
+Several Swahili consonants do not have equivalents in Arabic, and for them, often no special letters were created unlike, for example, [[Urdu script]]. Instead, the closest Arabic sound is substituted. Not only did that mean that one letter often stands for more than one sound, but also writers made different choices of which consonant to substitute. Below are some of the equivalents between Arabic Swahili and Roman Swahili:
+
+{| class="wikitable"
+|-
+! scope="col" colspan="4" | Swahili in Arabic Script
+! scope="col" rowspan="2" | Swahili in Latin Alphabet
+|-
+! scope="col" | Final
+! scope="col" | Medial
+! scope="col" | Initial
+! scope="col" | Isolated
+|-
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|ـا}}</big></big>
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|[[ا]]}}</big></big>
+| aa
+|-
+| <big><big>{{Script|Arab|ـب}}</big></big>
+| <big><big>{{Script|Arab|ـبـ}}</big></big>
+| <big><big>{{Script|Arab|بـ}}</big></big>
+| <big><big>{{Script|Arab|[[ب]]}}</big></big>
+| b p mb mp bw pw mbw mpw
+|-
+| <big><big>{{Script|Arab|ـت}}</big></big>
+| <big><big>{{Script|Arab|ـتـ}}</big></big>
+| <big><big>{{Script|Arab|تـ}}</big></big>
+| <big><big>{{Script|Arab|[[ت]]}}</big></big>
+| t nt
+|-
+| <big><big>{{Script|Arab|ـث}}</big></big>
+| <big><big>{{Script|Arab|ـثـ}}</big></big>
+| <big><big>{{Script|Arab|ثـ}}</big></big>
+| <big><big>{{Script|Arab|[[ث]]}}</big></big>
+| th?
+|-
+| <big><big>{{Script|Arab|ـج}}</big></big>
+| <big><big>{{Script|Arab|ـجـ}}</big></big>
+| <big><big>{{Script|Arab|جـ}}</big></big>
+| <big><big>{{Script|Arab|[[ج]]}}</big></big>
+| j nj ng ng' ny
+|-
+| <big><big>{{Script|Arab|ـح}}</big></big>
+| <big><big>{{Script|Arab|ـحـ}}</big></big>
+| <big><big>{{Script|Arab|حـ}}</big></big>
+| <big><big>{{Script|Arab|[[ح]]}}</big></big>
+| h
+|-
+| <big><big>{{Script|Arab|ـخ}}</big></big>
+| <big><big>{{Script|Arab|ـخـ}}</big></big>
+| <big><big>{{Script|Arab|خـ}}</big></big>
+| <big><big>{{Script|Arab|[[خ]]}}</big></big>
+| kh h
+|-
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|ـد}}</big></big>
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|[[د]]}}</big></big>
+| d nd
+|-
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|ـذ}}</big></big>
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|[[ذ]]}}</big></big>
+| dh?
+|-
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|ـر}}</big></big>
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|[[ر]]}}</big></big>
+| r d nd
+|-
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|ـز}}</big></big>
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|[[ز]]}}</big></big>
+| z nz
+|-
+| <big><big>{{Script|Arab|ـس}}</big></big>
+| <big><big>{{Script|Arab|ـسـ}}</big></big>
+| <big><big>{{Script|Arab|سـ}}</big></big>
+| <big><big>{{Script|Arab|[[س]]}}</big></big>
+| s
+|-
+| <big><big>{{Script|Arab|ـش}}</big></big>
+| <big><big>{{Script|Arab|ـشـ}}</big></big>
+| <big><big>{{Script|Arab|شـ}}</big></big>
+| <big><big>{{Script|Arab|[[ش]]}}</big></big>
+| sh ch
+|-
+| <big><big>{{Script|Arab|ـص}}</big></big>
+| <big><big>{{Script|Arab|ـصـ}}</big></big>
+| <big><big>{{Script|Arab|صـ}}</big></big>
+| <big><big>{{Script|Arab|[[ص]]}}</big></big>
+| s, sw
+|-
+| <big><big>{{Script|Arab|ـض}}</big></big>
+| <big><big>{{Script|Arab|ـضـ}}</big></big>
+| <big><big>{{Script|Arab|ضـ}}</big></big>
+| <big><big>{{Script|Arab|[[ض]]}}</big></big>
+| dhw
+|-
+| <big><big>{{Script|Arab|ـط}}</big></big>
+| <big><big>{{Script|Arab|ـطـ}}</big></big>
+| <big><big>{{Script|Arab|طـ}}</big></big>
+| <big><big>{{Script|Arab|[[ط]]}}</big></big>
+| t tw chw
+|-
+| <big><big>{{Script|Arab|ـظ}}</big></big>
+| <big><big>{{Script|Arab|ـظـ}}</big></big>
+| <big><big>{{Script|Arab|ظـ}}</big></big>
+| <big><big>{{Script|Arab|[[ظ]]}}</big></big>
+| z th dh dhw
+|-
+| <big><big>{{Script|Arab|ـع}}</big></big>
+| <big><big>{{Script|Arab|ـعـ}}</big></big>
+| <big><big>{{Script|Arab|عـ}}</big></big>
+| <big><big>{{Script|Arab|[[ع]]}}</big></big>
+| ?
+|-
+| <big><big>{{Script|Arab|ـغ}}</big></big>
+| <big><big>{{Script|Arab|ـغـ}}</big></big>
+| <big><big>{{Script|Arab|غـ}}</big></big>
+| <big><big>{{Script|Arab|[[غ]]}}</big></big>
+| gh g ng ng'
+|-
+| <big><big>{{Script|Arab|ـف}}</big></big>
+| <big><big>{{Script|Arab|ـفـ}}</big></big>
+| <big><big>{{Script|Arab|فـ}}</big></big>
+| <big><big>{{Script|Arab|[[ف]]}}</big></big>
+| f fy v vy mv p
+|-
+| <big><big>{{Script|Arab|ـق}}</big></big>
+| <big><big>{{Script|Arab|ـقـ}}</big></big>
+| <big><big>{{Script|Arab|قـ}}</big></big>
+| <big><big>{{Script|Arab|[[ق]]}}</big></big>
+| rowspan="2" | k g ng ch sh ny
+|-
+| <big><big>{{Script|Arab|ـك}}</big></big>
+| <big><big>{{Script|Arab|ـكـ}}</big></big>
+| <big><big>{{Script|Arab|كـ}}</big></big>
+| <big><big>{{Script|Arab|[[ك]]}}</big></big>
+|-
+| <big><big>{{Script|Arab|ـل}}</big></big>
+| <big><big>{{Script|Arab|ـلـ}}</big></big>
+| <big><big>{{Script|Arab|لـ}}</big></big>
+| <big><big>{{Script|Arab|[[ل]]}}</big></big>
+| l
+|-
+| <big><big>{{Script|Arab|ـم}}</big></big>
+| <big><big>{{Script|Arab|ـمـ}}</big></big>
+| <big><big>{{Script|Arab|مـ}}</big></big>
+| <big><big>{{Script|Arab|[[م]]}}</big></big>
+| m
+|-
+| <big><big>{{Script|Arab|ـن}}</big></big>
+| <big><big>{{Script|Arab|ـنـ}}</big></big>
+| <big><big>{{Script|Arab|نـ}}</big></big>
+| <big><big>{{Script|Arab|[[ن]]}}</big></big>
+| n
+|-
+| <big><big>{{Script|Arab|ـه}}</big></big>
+| <big><big>{{Script|Arab|ـهـ}}</big></big>
+| <big><big>{{Script|Arab|هـ}}</big></big>
+| <big><big>{{Script|Arab|[[ه]]}}</big></big>
+| h
+|-
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|ـو}}</big></big>
+| colspan="2" style="text-align: center;" | <big><big>{{Script|Arab|[[و]]}}</big></big>
+| w
+|-
+| <big><big>{{Script|Arab|ـي}}</big></big>
+| <big><big>{{Script|Arab|ـيـ}}</big></big>
+| <big><big>{{Script|Arab|يـ}}</big></big>
+| <big><big>{{Script|Arab|[[ي]]}}</big></big>
+| y ny
+|}
+
+That was the general situation, but conventions from Urdu were adopted by some authors so as to distinguish aspiration and {{IPA|/p/}} from {{IPA|/b/}}: {{lang|sw-Arab|پھا}} {{IPA|/pʰaa/}} 'gazelle', {{lang|sw-Arab|پا}} {{IPA|/paa/}} 'roof'. Although it is not found in Standard Swahili today, there is a distinction between dental and [[alveolar consonant]]s in some dialects, which is reflected in some orthographies, for example in {{lang|sw-Arab|كُٹَ}} ''{{lang|sw|-kuta}}'' 'to meet' vs. {{lang|sw-Arab|كُتَ}} ''{{lang|sw|-kut̠a}}'' 'to be satisfied'. A ''k'' with the dots of ''y'', <span style="border: 1px solid #a2a9b1; background: #f8f9fa; padding: 0.5em 0.25em 0.25em; border-right: none; width: 1em;"><big>{{Script|Arab|ـػ}}</big></span><span style="border: 1px solid #a2a9b1; background: #f8f9fa; padding: 0.5em 0.25em 0.25em; border-right: none; width: 1em;"><big>{{Script|Arab|ـػـ}}</big></span><span style="border: 1px solid #a2a9b1; background: #f8f9fa; padding: 0.5em 0.25em 0.25em; border-right: none; width: 1em;"><big>{{Script|Arab|ػـ}}</big></span><span style="border: 1px solid #a2a9b1; background: #f8f9fa; padding: 0.5em 0.25em 0.25em; width: 1em;"><big>{{Script|Arab|ػ}}</big></span>, was used for ''ch'' in some conventions; ''ky'' being historically and even contemporaneously a more accurate transcription than Roman ''ch''. In Mombasa, it was common to use the Arabic emphatics for Cw, for example in {{lang|sw-Arab|صِصِ}} ''{{lang|sw|swiswi}}'' (standard ''{{lang|sw|sisi}}'') 'we' and {{lang|sw-Arab|كِطَ}} ''{{lang|sw|kit̠wa}}'' (standard ''{{lang|sw|kichwa}}'') 'head'.
+
+Particles such as ''{{lang|sw|ya, na, si, kwa, ni}}'' are joined to the following noun, and possessives such as ''{{lang|sw|yangu}}'' and ''{{lang|sw|yako}}'' are joined to the preceding noun, but verbs are written as two words, with the subject and [[tense–aspect–mood]] morphemes separated from the object and root, as in ''{{lang|sw|aliyeniambia}}'' "he who told me".<ref>Jan Knappert (1971) ''Swahili Islamic poetry'', Volume 1</ref>
+
+==Grammar==
+{{See also|Swahili grammar}}
+
+===Noun classes {{anchor|Noun classes}}===
+Swahili nouns are separable into classes, which are roughly analogous to [[Grammatical gender|gender]]s in other languages. In Swahili, [[prefix]]es mark groups of similar objects: {{angbr|m-}} marks single human beings ({{lang|sw|mtoto}} 'child'), {{angbr|wa-}} marks multiple humans ({{lang|sw|watoto}} 'children'), {{angbr|u-}} marks abstract nouns ({{lang|sw|utoto}} 'childhood'), and so on. And just as adjectives and pronouns must agree with the gender of nouns in some languages with grammatical gender, so in Swahili adjectives, pronouns and even verbs must agree with nouns. This is a characteristic feature of all the [[Bantu languages]].
+
+====Semantic motivation====
+The ''ki-/vi-'' class historically consisted of two separate genders, artefacts (Bantu class 7/8, utensils and hand tools mostly) and diminutives (Bantu class 12/13), which were conflated at a stage ancestral to Swahili. Examples of the former are ''kisu'' "knife", ''kiti'' "chair" (from ''mti'' "tree, wood"), ''chombo'' "vessel" (a contraction of ''ki-ombo''). Examples of the latter are ''kitoto'' "infant", from ''mtoto'' "child"; ''kitawi'' "frond", from ''tawi'' "branch"; and ''chumba'' (''ki-umba'') "room", from ''nyumba'' "house". It is the diminutive sense that has been furthest extended. An extension common to diminutives in many languages is ''approximation'' and ''resemblance'' (having a 'little bit' of some characteristic, like ''-y'' or ''-ish'' in English). For example, there is ''kijani'' "green", from ''jani'' "leaf" (compare English 'leafy'), ''kichaka'' "bush" from ''chaka'' "clump", and ''kivuli'' "shadow" from ''uvuli'' "shade". A 'little bit' of a verb would be an instance of an action, and such ''instantiations'' (usually not very active ones) are found: ''kifo'' "death", from the verb ''-fa'' "to die"; ''kiota'' "nest" from ''-ota'' "to brood"; ''chakula'' "food" from ''kula'' "to eat"; ''kivuko'' "a ford, a pass" from ''-vuka'' "to cross"; and ''kilimia'' "the [[Pleiades]]", from ''-limia'' "to farm with", from its role in guiding planting. A resemblance, or being a bit like something, implies marginal status in a category, so things that are marginal examples of their class may take the ''ki-/vi-'' prefixes. One example is ''chura'' (''ki-ura'') "frog", which is only half terrestrial and therefore is marginal as an animal. This extension may account for disabilities as well: ''kilema'' "a cripple", ''kipofu'' "a blind person", ''kiziwi'' "a deaf person". Finally, diminutives often denote contempt, and contempt is sometimes expressed against things that are dangerous. This might be the historical explanation for ''kifaru'' "[[rhinoceros]]", ''kingugwa'' "[[spotted hyena]]", and ''kiboko'' "[[hippopotamus]]" (perhaps originally meaning "stubby legs").<ref>Ellen Contini-Morava (1994) ''Noun Classification in Swahili.''</ref>
+
+Another class with broad semantic extension is the ''m-/mi-'' class (Bantu classes 3/4). This is often called the 'tree' class, because ''mti, miti'' "tree(s)" is the prototypical example. However, it seems to cover vital entities neither human nor typical animals: trees and other plants, such as ''mwitu'' 'forest' and ''mtama'' 'millet' (and from there, things made from plants, like ''mkeka'' 'mat'); supernatural and natural forces, such as ''mwezi'' 'moon', ''mlima'' 'mountain', ''mto'' 'river'; active things, such as ''moto'' 'fire', including active body parts (''moyo'' 'heart', ''mkono'' 'hand, arm'); and human groups, which are vital but not themselves human, such as ''mji'' 'village', and, by analogy, ''mzinga'' 'beehive/cannon'. From the central idea of ''tree'', which is thin, tall, and spreading, comes an extension to other long or extended things or parts of things, such as ''mwavuli'' 'umbrella', ''moshi'' 'smoke', ''msumari'' 'nail'; and from activity there even come active instantiations of verbs, such as ''mfuo'' "metal forging", from ''-fua'' "to forge", or ''mlio'' "a sound", from ''-lia'' "to make a sound". Words may be connected to their class by more than one metaphor. For example, ''mkono'' is an active body part, and ''mto'' is an active natural force, but they are also both long and thin. Things with a trajectory, such as ''mpaka'' 'border' and ''mwendo'' 'journey', are classified with long thin things, as in many other languages with noun classes. This may be further extended to anything dealing with time, such as ''mwaka'' 'year' and perhaps ''mshahara'' 'wages'. Animals exceptional in some way and so not easily fitting in the other classes may be placed in this class.
+
+The other classes have foundations that may at first seem similarly counterintuitive.<ref>See Contini-Morava for details.</ref> In short,
+*Classes 1–2 include most words for people: kin terms, professions, ethnicities, etc., including translations of most English words ending in ''-er.'' They include a couple of generic words for animals: ''mnyama'' 'beast', ''mdudu'' 'bug'.
+*Classes 5–6 have a broad semantic range of groups, expanses, and augmentatives. Although interrelated, it is easier to illustrate if broken down:
+**Augmentatives, such as ''joka'' 'serpent' from ''nyoka'' 'snake', lead to titles and other terms of respect (the opposite of diminutives, which lead to terms of contempt): ''Bwana'' 'Sir', ''shangazi'' 'aunt', ''fundi'' 'craftsman', ''kadhi'' 'judge'
+**Expanses: ''ziwa'' 'lake', ''bonde'' 'valley', ''taifa'' 'country', ''anga'' 'sky'
+***from this, mass nouns: ''maji'' 'water', ''vumbi'' 'dust' (and other liquids and fine particulates that may cover broad expanses), ''kaa'' 'charcoal', ''mali'' 'wealth', ''maridhawa'' 'abundance'
+**Collectives: ''kundi'' 'group', ''kabila'' 'language/ethnic group', ''jeshi'' 'army', ''daraja'' ' stairs', ''manyoya'' 'fur, feathers', ''mapesa'' 'small change', ''manyasi'' 'weeds', ''jongoo'' 'millipede' (large set of legs), ''marimba'' 'xylophone' (large set of keys)
+***from this, individual things found in groups: ''jiwe'' 'stone', ''tawi'' 'branch', ''ua'' 'flower', ''tunda'' 'fruit' (also the names of most fruits), ''yai'' 'egg', ''mapacha'' 'twins', ''jino'' 'tooth', ''tumbo'' 'stomach' (cf. English "guts"), and paired body parts such as ''jicho'' 'eye', ''bawa'' 'wing', etc.
+***also collective or dialogic actions, which occur among groups of people: ''neno'' 'a word', from ''kunena'' 'to speak' (and by extension, mental verbal processes: ''wazo'' 'thought', ''maana'' 'meaning'); ''pigo'' 'a stroke, blow', from ''kupiga'' 'to hit'; ''gomvi'' 'a quarrel', ''shauri'' 'advice, plan', ''kosa'' 'mistake', ''jambo'' 'affair', ''penzi'' 'love', ''jibu'' 'answer', ''agano'' 'promise', ''malipo'' 'payment'
+***From pairing, reproduction is suggested as another extension (fruit, egg, testicle, flower, twins, etc.), but these generally duplicate one or more of the subcategories above
+*Classes 9–10 are used for most typical animals: ''ndege'' 'bird', ''samaki'' 'fish', and the specific names of typical beasts, birds, and bugs. However, this is the 'other' class, for words not fitting well elsewhere, and about half of the class 9–10 nouns are foreign loanwords. Loans may be classified as 9–10 because they lack the prefixes inherent in other classes, and most native class 9–10 nouns have no prefix. Thus they do not form a coherent semantic class, though there are still semantic extensions from individual words.
+*Class 11 (which takes class 10 for the plural) are mostly nouns with an "extended outline shape", in either one dimension or two:
+**mass nouns that are generally localized rather than covering vast expanses: ''uji'' 'porridge', ''wali'' 'cooked rice'
+**broad: ''ukuta'' 'wall', ''ukucha'' 'fingernail', ''upande'' 'side' (≈ ''ubavu'' 'rib'), ''wavu'' 'net', ''wayo'' 'sole, footprint', ''ua'' 'fence, yard', ''uteo'' 'winnowing basket'
+**long: ''utambi'' 'wick', ''utepe'' 'stripe', ''uta'' 'bow', ''ubavu'' 'rib', ''ufa'' 'crack', ''unywele'' 'a hair'
+***from 'a hair', [[singulative]]s of nouns, which are often class 6 ('collectives') in the plural: ''unyoya'' 'a feather', ''uvumbi'' 'a mote of dust', ''ushanga'' 'a bead'.
+*Class 14 are abstractions, such as ''utoto'' 'childhood' (from ''mtoto'' 'a child') and have no plural. They have the same prefixes and concord as class 11, except optionally for adjectival concord.
+*Class 15 are verbal infinitives.
+*Classes 16–18 are locatives. The Bantu nouns of these classes have been lost; the only permanent member is the Arabic loan ''mahali'' 'place(s)', but in Mombasa Swahili, the old prefixes survive: ''pahali'' 'place', ''mwahali'' 'places'. However, any noun with the locative suffix ''-ni'' takes class 16–18 agreement. The distinction between them is that class 16 agreement is used if the location is intended to be definite ("at"), class 17 if indefinite ("around") or involves motion ("to, toward"), and class 18 if it involves containment ("within"): ''mahali pazuri'' 'a good spot', ''mahali kuzuri'' 'a nice area', ''mahali muzuri'' (it's nice in there).
+
+====Borrowing====
+Borrowings may or may not be given a prefix corresponding to the semantic class they fall in. For example, Arabic {{lang|ar|دود}} ''dūd'' ("bug, insect") was borrowed as ''mdudu'', plural ''wadudu'', with the class 1/2 prefixes ''m-'' and ''wa-'', but Arabic {{lang|ar|فلوس}} ''fulūs'' ("fish scales", plural of {{lang|ar|فلس}} ''fals'') and English ''sloth'' were borrowed as simply ''fulusi'' ("[[mahi-mahi]]" fish) and ''slothi'' ("[[sloth]]"), with no prefix associated with animals (whether those of class 9/10 or 1/2).
+
+In the process of naturalization<ref>See pp. 83-84 in [[Ghil'ad Zuckermann]] (2020), ''[[Revivalistics: From the Genesis of Israeli to Language Reclamation in Australia and Beyond]]'', [https://global.oup.com/academic/product/revivalistics-9780199812790 Oxford University Press] {{Webarchive|url=https://web.archive.org/web/20201125062747/https://global.oup.com/academic/product/revivalistics-9780199812790?cc=us&lang=en& |date=25 November 2020 }} {{ISBN|9780199812790}} / {{ISBN|9780199812776}}.</ref> of borrowings within Swahili, loanwords are often reinterpreted, or reanalysed,<ref name=LCLE>See pp. 11 and 52 in [[Ghil'ad Zuckermann]] (2003), ''[[Language Contact and Lexical Enrichment in Israeli Hebrew]]'', [https://www.palgrave.com/gp/book/9781403917232 Palgrave Macmillan] {{Webarchive|url=https://web.archive.org/web/20180612143416/https://www.palgrave.com/gp/book/9781403917232 |date=12 June 2018 }} {{ISBN|9781403917232}} / {{ISBN|9781403938695}}.</ref> as if they already contain a Swahili class prefix. In such cases the interpreted prefix is changed with the usual rules. Consider the following loanwords from Arabic:
+#The Swahili word for "book", ''kitabu'', is borrowed from Arabic {{lang|ar|كتاب}} ''kitāb(un)'' "book" (plural {{lang|ar|كتب}} ''kutub''; from the Arabic root ''k.t.b.'' "write"). However, the Swahili plural form of this word ("books") is '''''vi'''tabu'', following Bantu grammar in which the ''ki-'' of '''''ki'''tabu'' is reanalysed (reinterpreted) as a nominal class prefix whose plural is ''vi-'' (class 7/8).<ref name=LCLE/> 
+#Arabic {{lang|ar|معلم}} ''muʿallim(un)'' ("teacher", plural {{lang|ar|معلمين}} ''muʿallimīna'') was interpreted as having the mw- prefix of class 1, and so became ''mwalimu'', plural ''walimu''. 
+#Arabic {{lang|ar|مدرسة}} ''madrasa'' school, even though it is singular in Arabic (with plural {{lang|ar|مدارس}} ''madāris''), was reinterpreted as a class 6 plural ''madarasa'', receiving the singular form ''darasa''.
+
+Similarly, English ''wire'' and Arabic {{lang|ar|وقت}} ''waqt'' ("time") were interpreted as having the class 11 prevocalic prefix ''w-'', and became ''waya'' and ''wakati'' with plural ''nyaya'' and ''nyakati'' respectively.
+
+===Agreement===
+{{more citations needed section|date=January 2016}}
+Swahili phrases agree with nouns in a system of [[Agreement (linguistics)|concord]] but, if the noun refers to a human, they accord with noun classes 1–2 regardless of their noun class. Verbs agree with the noun class of their subjects and objects; adjectives, prepositions and demonstratives agree with the noun class of their nouns. In Standard Swahili ''(Kiswahili sanifu)'', based on the dialect spoken in Zanzibar, the system is rather complex; however, it is drastically simplified in many local variants where Swahili is not a native language, such as in Nairobi. In non-native Swahili, concord reflects only animacy: human subjects and objects trigger ''a-, wa-'' and ''m-, wa-'' in verbal concord, while non-human subjects and objects of whatever class trigger ''i-, zi-''. Infinitives vary between standard ''ku-'' and reduced ''i-.''<ref>Kamil Ud Deen, 2005. ''The acquisition of Swahili''.</ref> ("Of" is animate ''wa'' and inanimate ''ya, za.'')
+
+In Standard Swahili, human subjects and objects of whatever class trigger animacy concord in ''a-, wa-'' and ''m-, wa-,'' and non-human subjects and objects trigger a variety of gender-concord prefixes.
+
+{| class=wikitable
+|+Swahili noun-class concord
+|-
+!NC!!Semantic<br/>field!!Noun<br/>-C, -V!!Subj.!!Obj.!!''-a''!!Adjective<br/>-C, -i, -e<ref group="*">Most Swahili adjectives begin with either a consonant or the vowels ''i-'' or ''e-'', listed separately above. The few adjectives beginning with other vowels do not agree with all noun classes since some are restricted to humans. NC 1 ''m(w)-'' is ''mw-'' before ''a'' and ''o,'' and reduces to ''m-'' before ''u''; ''wa-'' does not change; and ''ki-, vi-, mi-'' become ''ch-, vy-, my-'' before ''o'' but not before ''u'': ''mwanana, waanana'' "gentle", ''mwororo, waororo, myororo, chororo, vyororo'' "mild, yielding", ''mume, waume, kiume, viume'' "male".</ref>
+|-
+! –
+| ''I''
+| (mimi) || colspan=2| ni- ||
+|-
+! –
+| ''we''
+| (sisi) || colspan=2| tu- ||
+|-
+! –
+| ''thou''
+| (wewe)
+| u- || ku- ||
+|-
+! –
+| ''you''
+| (ninyi) || m- || wa- ||
+|-
+! 1
+| ''person''
+| m-, mw- || a- || m- || wa || m-, mwi-, mwe-
+|-
+! 2
+| ''people''
+| wa-, w- || colspan=2| wa- || wa || wa-, we-, we-
+|-
+! 3
+| ''tree''
+| m-, mw- || colspan=2| u- || wa || m-, mwi-, mwe-
+|-
+! 4
+| ''trees''
+| mi- || colspan=2| i- || ya || mi-, mi-, mye-
+|-
+! 5
+| ''group,'' [[Augmentative|{{sc|aug}}]]
+| ji-/Ø, j- || colspan=2| li- || la || ji-/Ø, ji-, je-
+|-
+! 6
+| ''groups,'' {{sc|aug}}
+| ma- || colspan=2| ya- || ya || ma-, me-, me-
+|-
+! 7
+| ''tool,'' [[diminutive|{{sc|dim}}]]
+| ki-, ch- || colspan=2| ki- || cha || ki-, ki-, che-
+|-
+! 8
+| ''tools,'' {{sc|dim}}
+| vi-, vy- || colspan=2| vi- || vya || vi-, vi-, vye-
+|-
+! 9
+| rowspan=2|''animals, 'other','' <br/>''loanwords''
+| rowspan=2| N- || colspan=2| i- || ya || rowspan=2| N-, nyi-, nye-
+|-
+! 10
+| colspan=2| zi- || za
+|-
+! 11
+| '' 'extension' ''
+| u-, w-/uw- || colspan=2| u- || wa || m-, mwi-, mwe-
+|-
+! 10
+| (plural of 11)|| N- || colspan=2| zi- || za || N-, nyi-, nye-
+|-
+! 14
+| ''abstraction''
+| u-, w-/uw- || colspan=2| u- || wa || m-, mwi-, mwe-<br/> ''or'' u-, wi-, we-
+|-
+! 15
+| ''infinitives''
+| ku-, kw-<ref group="*">In a few verbs: ''kwenda, kwisha''</ref> || colspan=2| ku- || kwa- || ku-, kwi-, kwe-
+|-
+! 16
+| ''precise position''
+| -ni, ''mahali'' || colspan=2| pa- || pa || pa-, pe-, pe-
+|-
+! 17
+| ''imprecise position''
+| -ni || colspan=2| ku- || kwa || ku-, kwi-, kwe-
+|-
+! 18
+| ''internal position''
+| -ni || colspan=2| m(u)- || mwa || mu-, mwi-, mwe-
+|}
+
+<references group="*"/>
+
+==Dialects and closely related languages==
+This list is based on ''Swahili and Sabaki: a linguistic history''.
+
+===Dialects===
+Modern standard Swahili is based on ''Kiunguja,'' the dialect spoken in [[Zanzibar Town]], but there are numerous dialects of Swahili, some of which are mutually unintelligible, such as the following:<ref>H.E.Lambert 1956, 1957, 1958</ref>
+
+====Old dialects====
+Maho (2009) considers these to be distinct languages:
+*''[[Kimwani]]'' is spoken in the Kerimba Islands and northern coastal Mozambique.
+*''[[Bravanese dialect|Chimwiini]]'' is spoken by the ethnic minorities in and around the town of [[Barawa]] on the southern coast of Somalia.
+*''[[Kibajuni dialect|Kibajuni]]'' is spoken by the [[Bajuni people|Bajuni]] minority ethnic group on the coast and islands on both sides of the Somali–Kenyan border and in the [[Bajuni Islands]] (the northern part of the Lamu archipelago) and is also called ''Kitikuu'' and ''Kigunya''.
+*[[Socotra Swahili]] (extinct)
+*[[Sidi language|Sidi]], in Gujarat (extinct)
+The rest of the dialects are divided by him into two groups:
+*Mombasa–Lamu Swahili
+**Lamu
+***''Kiamu'' is spoken in and around the island of [[Lamu]] (Amu).
+***''Kipate'' is a local dialect of [[Pate Island]], considered to be closest to the original dialect of Kingozi.
+***''Kingozi'' is an ancient dialect spoken on the Indian Ocean coast between Lamu and Somalia and is sometimes still used in poetry. It is often considered the source of Swahili.
+**Mombasa
+***''Chijomvu'' is a subdialect of the Mombasa area.
+***''Kimvita'' is the major dialect of Mombasa (also known as "Mvita", which means "war", in reference to the many wars which were fought over it), the other major dialect alongside Kiunguja.
+***''Kingare'' is the subdialect of the Mombasa area.
+**''Kimrima'' is spoken around [[Pangani]], [[Vanga]], [[Dar es Salaam]], [[Rufiji District|Rufiji]] and [[Mafia Island]].
+**''Kiunguja'' is spoken in [[Stone Town|Zanzibar City]] and environs on [[Zanzibar|Unguja (Zanzibar) Island]]. Kitumbatu (Pemba) dialects occupy the bulk of the island.
+**Mambrui, Malindi
+**''Chichifundi'', a dialect of the southern Kenya coast.
+**Chwaka
+**''Kivumba'', a dialect of the southern Kenya coast.
+**Nosse Be (Madagascar)
+*Pemba Swahili
+**''Kipemba'' is a local dialect of the [[Pemba Island]].
+**''Kitumbatu'' and ''Kimakunduchi'' are the countryside dialects of the island of Zanzibar. Kimakunduchi is a recent renaming of "Kihadimu"; the old name means "serf" and so is considered pejorative.
+**Makunduchi
+**Mafia, Mbwera
+**Kilwa (extinct)
+**''Kimgao'' used to be spoken around [[Kilwa District]] and to the south.
+
+Maho includes the various [[Comorian language|Comorian]] dialects as a third group. Most other authorities consider Comorian to be a [[Sabaki languages|Sabaki]] language, distinct from Swahili.<ref>{{cite book|url=https://books.google.com/books?id=7uJmgsq37dMC&pg=PA65|title=The Swahili: Reconstructing the History and Language of an African Society, 800–1500|page=65|author1=Derek Nurse|author2=Thomas Spear|author3=Thomas T. Spear|isbn=9780812212075|year=1985|access-date=15 June 2016|archive-date=30 March 2021|archive-url=https://web.archive.org/web/20210330035233/https://books.google.com/books?id=7uJmgsq37dMC&pg=PA65|url-status=live}}</ref>
+
+===Other regions===
+In [[Somalia]], where the [[Afroasiatic languages|Afroasiatic]] [[Somali language]] predominates, a variant of Swahili referred to as [[Bravanese dialect|Chimwiini]] (also known as Chimbalazi) is spoken along the [[Benadir]] coast by the [[Bravanese people]].<ref name="Ethnolsom">{{cite web |url=http://www.ethnologue.com/country/SO |title=Somalia |publisher=Ethnologue |date=19 February 1999 |access-date=15 November 2015 |archive-date=17 November 2015 |archive-url=https://web.archive.org/web/20151117023415/http://www.ethnologue.com/country/SO |url-status=live }}</ref> Another Swahili dialect known as [[Kibajuni dialect|Kibajuni]] also serves as the mother tongue of the [[Bajuni people|Bajuni]] minority ethnic group, which lives in the tiny [[Bajuni Islands]] as well as the southern [[Kismayo]] region.<ref name="Ethnolsom"/><ref name="Godfrey">{{cite book| last = Mwakikagile| first = Godfrey| title = Kenya: identity of a nation| publisher = New Africa Press| year = 2007| page = 102| url = https://books.google.com/books?id=lsqjN-t6mP4C| isbn = 978-0-9802587-9-0| access-date = 15 September 2017| archive-date = 23 March 2021| archive-url = https://web.archive.org/web/20210323164112/https://books.google.com/books?id=lsqjN-t6mP4C| url-status = live}}</ref>
+
+In [[Oman]], there are an estimated 22,000 people who speak Swahili.<ref name="Ethnoloma">{{cite web|url=http://www.ethnologue.com/country/OM|title=Oman|publisher=Ethnologue|date=19 February 1999|access-date=15 November 2015|archive-date=24 September 2015|archive-url=https://web.archive.org/web/20150924051157/http://www.ethnologue.com/country/OM|url-status=live}}</ref> Most are descendants of those repatriated after the fall of the [[Sultanate of Zanzibar]].<ref name="African">{{cite news|last=Fuchs|first=Martina|url=https://www.reuters.com/article/us-oman-music-idUSTRE7942XI20111005|title=African Swahili music lives on in Oman|work=Reuters|date=5 October 2011|access-date=15 November 2015|archive-date=17 November 2015|archive-url=https://web.archive.org/web/20151117033444/http://www.reuters.com/article/2011/10/05/us-oman-music-idUSTRE7942XI20111005|url-status=live}}</ref><ref name="Josephi">Beate Ursula Josephi, ''Journalism education in countries with limited media freedom'', Volume 1 of Mass Communication and Journalism, (Peter Lang: 2010), p.96.</ref>
+
+===Swahili poets===
+
+* [[Shaaban bin Robert]] (1909-1962), Tanzanian poet, author and essayist
+* [[Euphrase Kezilahabi]] (1944-2020), Tanzanian novelist, poet and scholar
+* [[Mathias E. Mnyampala]] (1917-1969), Tanzanian writer, lawyer and poet
+* [[Tumi Molekane]] (b. 1981), South African rapper and poet
+* [[Fadhy Mtanga]] (b. 1981), Tanzianian creative writer, photographer, graphic designer
+* [[Christopher Mwashinga]] (b. 1965), Tanzanian author
+
+==Swahili sayings==
+[[File:Elephants fight Amboseli (7234358288) (2).jpg|thumb|[[Loxodonta africana]] elephants frolic in [[Amboseli National Park]], Kenya, 2012.]]
+Two sayings with the same meaning of ''Where elephants fight, the grass is trampled'':<ref>[https://www.oxfordreference.com/view/10.1093/acref/9780199539536.001.0001/acref-9780199539536-e-650 www.oxfordreference.com When elephants fight, it is the grass that suffers]. Consulted on 13 June 2021.</ref><ref>[[New York Times]] 26 March 1936</ref>
+
+{{interlinear|lang=sw|indent=3
+|Wapiganapo tembo nyasi huumia|c1=<ref>[https://howafrica.com/27-fascinating-african-proverbs-about-elephants-one-of-the-big-5-animals/ howafrica.com Animals - 27 Fascinating African Proverbs About Elephants, One of the Big 5 Animals 17. When elephants fight it is the grass that suffers. ~ Kikuyu Proverb]. Consulted on 13 June 2021.</ref>
+|Fighting elephants damage the grass.}}
+
+{{interlinear|lang=sw|indent=3
+|Ndovu wawili wakisongana, ziumiazo ni nyika.|c1=<ref>[https://afriprov.org/nov2001 afriprov.org Nov. 2001 Proverb: ” When elephants fight the grass (reeds) gets hurt.” – Swahili ( Eastern and Central Africa ), Also Gikuyu ( Kenya), Kuria ( Kenya/Tanzania), Ngoreme (Tanzania)]. Consulted on 13 June 2021.</ref>
+|Where two elephants argue, the grassland is damaged.}}
+
+{{interlinear|lang=sw|indent=3
+|Mwacha mila ni mtumwa.
+|The person who abandons his culture, is a servant.}}
+
+==See also==
+{{Portal|Africa|Languages}}
+*[[Mandombe script]]
+*[[Swahili literature]]
+*[[UCLA Language Materials Project]]
+*[[Languages of Africa]]
+
+==References==
+{{reflist|colwidth=30em}}
+
+===Sources===
+*Ashton, E. O. ''Swahili Grammar: Including intonation.'' Longman House. Essex 1947. {{ISBN|0-582-62701-X}}.
+*Irele, Abiola and Biodun Jeyifo. ''The Oxford encyclopedia of African thought, Volume 1''. Oxford University Press US. New York City. 2010. {{ISBN|0-19-533473-6}}
+*[http://www.kcl.ac.uk/content/1/c6/01/42/29/paper23.pdf Blommaert, Jan: Situating language rights: English and Swahili in Tanzania revisited] (sociolinguistic developments in Tanzanian Swahili) – ''Working Papers in Urban Language & Literacies'', paper 23, Ghent University 2003
+*{{cite journal | last1 = Brock-Utne | first1 = Birgit | year = 2001 | title = Education for all – in whose language? | journal = Oxford Review of Education | volume = 27 | issue = 1| pages = 115–134 | doi = 10.1080/03054980125577 | s2cid = 144457326 }}
+*Chiraghdin, Shihabuddin and [[Mathias E. Mnyampala]]. ''Historia ya Kiswahili''. Oxford University Press. Eastern Africa. 1977. {{ISBN|0-19-572367-8}}
+*Contini-Morava, Ellen. ''[http://www3.iath.virginia.edu/swahili/ Noun Classification in Swahili]''. 1994.
+*Lambert, H.E. 1956. ''Chi-Chifundi: A Dialect of the Southern Kenya Coast''. (Kampala)
+*Lambert, H.E. 1957. ''Ki-Vumba: A Dialect of the Southern Kenya Coast''. (Kampala)
+*Lambert, H.E. 1958. ''Chi-Jomvu and ki-Ngare: Subdialects of the Mombasa Area''. (Kampala)
+*Marshad, Hassan A. ''Kiswahili au Kiingereza (Nchini Kenya)''. Jomo Kenyatta Foundation. Nairobi 1993. {{ISBN|9966-22-098-4}}.
+*Nurse, Derek, and Hinnebusch, Thomas J. ''Swahili and Sabaki: a linguistic history''. 1993. Series: University of California Publications in Linguistics, v. 121.
+*[http://www.njas.helsinki.fi/pdf-files/vol12num3/ogechi.pdf Ogechi, Nathan Oyori: "On language rights in Kenya] (on the legal position of Swahili in Kenya)", in: ''Nordic Journal of African Studies'' 12(3): 277–295 (2003)
+*Prins, A.H.J. 1961. "The Swahili-Speaking Peoples of Zanzibar and the East African Coast (Arabs, Shirazi and Swahili)". ''Ethnographic Survey of Africa'', edited by Daryll Forde. London: International African Institute.
+*Prins, A.H.J. 1970. ''A Swahili Nautical Dictionary''. Preliminary Studies in Swahili Lexicon – 1. Dar es Salaam.
+*Sakai, Yuko. 2020. ''Swahili Syntax Tree Diagram: Based on Universal Sentence Structure''. Createspace. {{ISBN|978-1696306461}}
+*Whiteley, Wilfred. 1969. ''Swahili: the rise of a national language''. London: Methuen. Series: Studies in African History.
+
+==External links==
+{{sisterlinks|d=Q7838|n=no|b=Swahili|q=no|v=no|voy=Swahili phrasebook|c=category:Swahili language|wikt=Wiktionary:About Swahili|s=no|m=no|mw=no|species=no}}
+{{InterWiki|code=sw}}
+*[https://web.archive.org/web/20150905062228/http://www.lmp.ucla.edu/Profile.aspx?LangID=17&menu=004 UCLA report on Swahili]
+*John Ogwana (2001) [http://www.inst.at/trans/11Nr/ogwana11.htm Swahili Yesterday, Today and Tomorrow: Factors of Its Development and Expansion]
+*[https://swahili-dictionary.com/english-swahili/@list-swahili-english-dictionaries List of Swahili Dictionaries]
+* {{cite book | author = Arthur Cornwallis Madan | url = https://archive.org/details/englishswahilid00madagoog/page/n3 | title = English-Swahili dictionary | website = [[Internet Archive|archive.org]] | publisher = [[Clarendon Press]] | year = 1902 | page = 555 | archive-url =  https://archive.today/20181014223800/https://archive.org/stream/englishswahilid00madagoog/englishswahilid00madagoog_djvu.txt | archive-date = 14 October 2018 | url-status = live}}
+*Kiswahili Grammar Notes (textbook for learners) at [https://kamusi.org/content/kiswahili-grammar-notes] <ref>{{cite book |last1=Erickson |first1=Helen |last2=Gustafsson |first2=Marianne |title=Kiswahili Grammar Notes |date=1984 & 1989 |url=https://kamusi.org/content/kiswahili-grammar-notes |access-date=21 December 2021}}</ref>
+
+{{navboxes
+|title = Articles related to Swahili language|
+|list=
+{{Languages of the Democratic Republic of the Congo}}
+{{Languages of Kenya}}
+{{Languages of Mozambique}}
+{{Languages of Oman}}
+{{Languages of Tanzania}}
+{{Languages of Uganda}}
+{{Narrow Bantu languages|E-H}}
+}}
+{{Authority control}}
+
+[[Category:Swahili language| ]]
+[[Category:Swahili culture]]
+[[Category:Languages written in Latin script]]
+[[Category:Northeast Coast Bantu languages]]
+[[Category:Non-tonal languages in tonal families]]
+[[Category:Agglutinative languages]]
+[[Category:Languages of Kenya]]
+[[Category:Languages of Burundi]]
+[[Category:Languages of Uganda]]
+[[Category:Languages of Tanzania]]
+[[Category:Languages of the Democratic Republic of the Congo]]
+[[Category:Languages of the African diaspora]]

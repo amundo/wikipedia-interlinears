@@ -1,0 +1,311 @@
+{{Infobox language
+|name=Lake Miwok
+|states=[[United States]]
+|region=[[Lake County, California|Lake County]], [[California]]
+|ethnicity=[[Lake Miwok people|Lake Miwok]]
+|extinct= (No known L1 speakers)
+|familycolor=American
+|fam1=[[Yok-Utian languages|Yok-Utian]]
+|fam2=[[Utian languages|Utian]]
+|fam3=[[Miwokan languages|Miwokan]]
+|fam4=Western
+|iso3=lmw
+|glotto=lake1258
+|glottorefname=Lake Miwok
+|map=CLfromHWY175.jpg
+|mapcaption=[[Clear Lake (California)|Clear Lake]]
+|notice=IPA
+}}
+
+The '''Lake Miwok''' language is a moribund (or possibly extinct) language of Northern California, traditionally spoken in an area adjacent to the [[Clear Lake (California)|Clear Lake]]. It is one of the languages of the [[Clear Lake Linguistic Area]], along with Patwin, [[Eastern Pomo language|East]] and [[Southeastern Pomo language|Southeastern Pomo]], and [[Wappo language|Wappo]].<ref name="Campbell">Campbell 1997, p.336</ref>
+
+==Phonology==
+
+===Vowels===
+{| class="wikitable" style="text-align:center"
+! rowspan=2 | 
+! colspan=2 | [[Vowel length|Short]]
+! colspan=2 | [[Vowel length|Long]]
+|-
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+! Front
+! Back
+|-
+! [[High vowel|High]] (close)
+| {{IPA link|i}}
+| {{IPA link|u}}
+| {{IPA link|iː}}
+| {{IPA link|uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+| {{IPA link|eː}}
+| {{IPA link|oː}}
+|-
+! [[Low vowel|Low]] (open)
+| colspan=2 | {{IPA link|a}}
+| colspan=2 | {{IPA link|aː}}
+|}
+
+===Consonants===
+{| class="wikitable" style="text-align:center"
+! colspan=2|
+! [[Bilabial consonant|Labial]]
+! [[Dental consonant|Dental]]
+! [[Alveolar consonant|Alveolar]]
+! [[Post-alveolar consonant|Post-alveolar]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan=4| [[Plosive]]
+! <small>[[Voiceless consonant|plain]]</small>
+| {{IPA link|p}}
+| {{angbr|t}} {{IPA link|t̻}}
+|
+| {{angbr|ṭ}} {{IPA link|t̠̺}}
+| 
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! <small>[[Aspiration (phonetics)|aspirated]]</small>
+| {{IPA link|pʰ}}
+| {{angbr|tʰ}} {{IPA link|t̻ʰ}}
+|
+| {{angbr|ṭʰ}} {{IPA link|t̠̺ʰ}}
+| 
+| {{IPA link|kʰ}}
+| 
+|-
+! <small>[[Ejective consonant|ejective]]</small>
+| {{IPA link|pʼ}}
+| {{angbr|tʼ}} {{IPA link|t̻ʼ}}
+|
+| {{angbr|ṭʼ}} {{IPA link|t̠̺ʼ}}
+| 
+| {{IPA link|kʼ}}
+|
+|-
+!<small> [[Voiced consonant|voiced]]</small>
+| {{IPA link|b}}
+|
+| {{angbr|d}} {{IPA link|d̺}}
+|
+| 
+|
+|
+|-
+! rowspan=2| [[Fricative]]
+! <small>[[Voiceless consonant|voiceless]]</small>
+| 
+|
+| {{IPA link|s}}
+| {{angbr|ṣ}} {{IPA link|ʃ}}
+| {{angbr|ł}} {{IPA link|ɬ}}
+|
+| {{IPA link|h}}
+|-
+! <small>[[Ejective consonant|ejective]]</small>
+|
+|
+| 
+| 
+| {{angbr|ƛʼ}} {{IPA link|t͡ɬʼ}}
+| 
+|
+|-
+! rowspan=2|[[Affricate consonant|Affricate]]
+! <small>[[Voiceless consonant|voiceless]]</small>
+| 
+|
+| {{angbr|c}} {{IPA link|t͡s}}
+| {{angbr|č}} {{IPA link|t͡ʃ}}
+|
+| 
+|
+|-
+! <small>[[Ejective consonant|ejective]]</small>
+|
+|
+| {{angbr|cʼ}} {{IPA link|t͡sʼ}}
+| {{angbr|čʼ}} {{IPA link|t͡ʃʼ}}
+|
+|  
+|
+|-
+! colspan=2|[[Nasal stop|Nasal]]
+| {{IPA link|m}}
+|
+| {{IPA link|n}}
+| 
+| 
+|
+|
+|-
+! colspan=2|[[Approximant consonant|Approximant]]
+| {{IPA link|w}}
+|
+| {{IPA link|l}} ({{IPA link|r}})
+| 
+| {{IPA link|j}}
+|
+|
+|}
+
+The consonant inventory of Lake Miwok differs substantially from the inventories found in the other [[Miwok languages]]. Where the other languages only have one series of [[plosive]]s, Lake Miwok has four: [[Voiceless consonant|plain]], [[Aspiration (phonetics)|aspirated]], [[Ejective consonant|ejective]] and [[Voiced consonant|voiced]]. Lake Miwok has also added the  affricates '''č''', '''c''', '''čʼ''', '''cʼ''', '''ƛʼ''' and the liquids '''r''' and '''ł'''. These sounds appear to have been borrowed through loanwords from other, unrelated languages in the Clear Lake area, after which they spread to some native Lake Miwok words.<ref name="Campbell" /><ref>Callaghan 1964, p.47</ref>
+
+==Grammar==
+The word order of Lake Miwok is relatively free, but SOV ([[subject–object–verb]]) is the most common order.<ref>Callaghan 1965, p.5</ref>
+
+===Verb morphology===
+
+====Pronominal clitics====
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! colspan="2" | 1st person
+| ka
+| ʔic
+| ma, ʔim
+|-
+! colspan="2" | 2nd person
+| ʔin
+| moc
+| mon
+|-
+! rowspan="2" | 3rd person
+! non-reflexive
+| ʔi
+| koc
+| kon
+|-
+! reflexive
+| hana
+| hanakoc
+| hanakon
+|-
+! colspan="2" | indefinite
+| colspan="3" | ʔan
+|}
+
+In her Lake Miwok grammar, Callaghan reports that one speaker distinguishes between 1st person dual [[Clusivity|inclusive]] '''ʔoc''' and [[Clusivity|exclusive]] '''ʔic'''. Another speaker also remembers that this distinction used to be made by older speakers.<ref>Callaghan 1963, p.75</ref>
+
+===Noun morphology===
+
+====Case inflection====
+Nouns can be inflected for ten different [[Grammatical cases|cases]]:
+* the [[Nominative case|Subjective case]] marks a noun which functions as the [[Subject (grammar)|subject]] of a verb. If the subject noun is placed before the verb, the Subjective has the [[allomorph]] '''-n''' after vowel (or a vowel followed by /h/), and '''-Ø''' after consonants. If it is placed after the verb, the Subjective is '''-n''' after vowels and '''-nu''' after consonants.
+{{interlinear|indent=4
+|kukú '''-n''' ʔin tíkki -t mékuh
+|flea -'''subjective''' 2sg forehead -allative sit
+|"A flea is sitting on your forehead."}}
+* the Possessive case is '''-n''' after vowels and '''-Ø''' after consonants
+{{interlinear|indent=4
+|ʔóle '''-n''' ṣúluk
+|coyote -'''possessive''' skin
+|"coyote skin"}}
+{{interlinear|indent=4
+|táj '''-Ø''' ṣáapa
+|man -'''possessive''' hair
+|"the man's hair"}}
+* the [[Accusative case|Objective case]] marks a noun which functions as the [[Object (grammar)|object]] of a verb. It has the allomorph '''-u''' (after a consonant) or '''-Ø''' (after a vowel) when the noun is placed immediately before a verb which contains the 2nd person prefix ʔin- (which then has the allomorph '''-n''' attached to the noun preceding the verb; compare the example below) or does not contain any subject prefix at all.
+{{interlinear|indent=4
+|káac '''-u''' -n ʔúṭe?
+|fish -'''objective''' -2SG see
+|"Did you see the fish?"}}
+:It has the allomorph '''-Ø''' before a verb containing any other subject prefix:
+{{interlinear|indent=4
+|kawáj '''-Ø''' ka ʔúṭe
+|horse -'''objective''' 1SG see
+|"I saw the horse"}}
+:If the object noun does not immediately precede the verb, or if the verb is in the imperative, the allomorph of the Objective is '''-uc''':
+{{interlinear|indent=4
+|káac '''-uc''' jolúm -mi
+|fish -'''objective''' eat -imperative
+|"Eat the fish"}}
+* the [[allative case]] is '''-to''' or '''-t''' depending on the environment. It has a variety of meaning, but often expresses direction towards a goal.
+* the [[locative case]] '''-m''' gives a less specific designation of locality than the Allative, and occurs more rarely.
+* the [[ablative case]] is '''-mu''' or '''-m''' depending on the context, and marks direction out of, or away from, a place.
+* the [[instrumental case]] '''-ṭu''' marks instruments, e.g. ''tumáj'''-ṭu''''' "(I hit him) with a stick".
+* the [[comitative case]] '''-ni''' usually translates as "along with", but can also be used to [[:wikt:coordination|coordinate]] nouns, as in ''kaʔunúu-'''ni''' ka ʔáppi-'''ni''''' "my mother and my father".
+* the [[vocative case]] only occurs with a few kinship terms, e.g. ''ʔunúu'' "mother ({{smallcaps|voc}})" from ''ʔúnu'' "mother".
+* the Appositive case is the citation form of nouns.
+
+====Possessive clitics====
+Lake Miwok uses [[pronominal clitics]] to indicate the possessor of a noun. Except for the 3d person singular, they have the same shape as the nominative pronominal clitics, but show no allomorphy.
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! Singular
+! Dual
+! Plural
+|-
+! colspan="2" | 1st person
+| ka
+| ʔic
+| ma
+|-
+! colspan="2" | 2nd person
+| ʔin
+| moc
+| mon
+|-
+! rowspan="2" | 3rd person
+! non-reflexive
+| ʔiṭi
+| koc
+| kon
+|-
+! reflexive
+| hana
+| hanakoc
+| hanakon
+|-
+! colspan="2" | indefinite
+| colspan="3" | ʔan
+|}
+
+The reflexive ''hana'' forms have the same referent as the subject of the same clause, whereas the non-reflexive forms have a different referent, e.g.:
+*''hana'' háju ʔúṭe – "He sees his own dog"
+*''ʔiṭi'' háju ʔúṭe – "He sees (somebody else's) dog"
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin|indent=yes}}<!--BEGIN biblio format. -->
+* {{cite book |author=Callaghan, Catherine A. |year=1963 |title=A Grammar of the Lake Miwok Language |location=University of California, Berkeley|url=http://escholarship.org/uc/item/9hr2605b}}
+* {{cite book |author=Callaghan, Catherine A. |year=1964 |chapter=Phonemic Borrowing in Lake Miwok |pages=46–53 |title=Studies in Californian Linguistics |editor=William Bright|location=Berkeley |publisher=University of California Press}}
+* {{cite book |author=Callaghan, Catherine A. |year=1965 |title=Lake Miwok Dictionary |location=Berkeley|publisher=University of California Press}}
+* {{cite book |author=Campbell, Lyle |year=1997 |title=American Indian Languages. The Historical Linguistics of Native America |location=New York|publisher=Oxford University Press}}
+* Callaghan, Catherine A. "Note of Lake Miwok Numerals." International Journal of American Linguistics, vol. 24, no. 3 (1958): 247.
+* Keeling, Richard. "Ethnographic Field Recordings at Lowie Museum of Anthropology," 1985. Robert H. Lowie Museum of Anthropology, University of California, Berkeley. v. 2. North-Central California: Pomo, Wintun, Nomlaki, Patwin, Coast Miwok, and Lake Miwok Indians
+* Lake Miwok Indians. "Rodriguez-Nieto Guide" Sound Recordings (California Indian Library Collections), LA009. Berkeley: California Indian Library Collections, 1993. "Sound recordings reproduced from the Language Archive sound recordings at the Language Laboratory, University of California, Berkeley." In 2 containers.
+
+{{Refend}}<!-- END biblio format style -->
+
+==External links==
+*[http://linguistics.berkeley.edu/~survey/languages/lake-miwok.php Lake Miwok language overview] at the [[Survey of California and Other Indian Languages]]
+*[https://web.archive.org/web/20120326014916/http://cla.berkeley.edu/item/10078?tab=digital Lake Miwok audio recordings] at the [http://cla.berkeley.edu/ California Language Archive]  (login required)
+*{{Cite web
+| title = Lake Miwok sound recordings
+| work = Collections Search Center, Smithsonian Institution
+| access-date = 2012-07-20
+| url = http://collections.si.edu/search/results.htm?fq=online_media_type%3A%22Sound+recordings%22&fq=online_visual_material%3Atrue&q=&fq=language:%22Miwok%2C+Lake%22
+}}
+*[http://www.language-archives.org/language/lmw OLAC resources in and about the Lake Miwok language]
+*[http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\pen\miw&limit=-1 Lake Miwok basic lexicon at the Global Lexicostatistical Database]
+
+{{Languages of California}}
+{{Miwok}}
+
+[[Category:Utian languages]]
+[[Category:Miwok]]
+[[Category:History of Lake County, California]]

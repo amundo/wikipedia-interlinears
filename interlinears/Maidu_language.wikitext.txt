@@ -1,0 +1,341 @@
+{{short description|Extinct Maiduan language of northeastern California, US}}
+{{Infobox language
+| name = Northeastern Maidu
+| nativename = ''Májdy''
+| states = [[United States]]
+| region = [[California]]
+| extinct = 2007
+| revived = 319 self-identified speakers<ref>{{Cite web|url=https://www.census.gov/data/tables/2013/demo/2009-2013-lang-tables.html|title=Detailed Languages Spoken at Home and Ability to Speak English|publisher=US Census Bureau|website=www.census.gov|language=en-US|access-date=2017-11-17}}</ref>
+| ref = e18
+| familycolor = American
+| fam1 = [[Maiduan languages|Maiduan]]
+| iso3 = nmu
+| glotto = nort2952
+| glottorefname = Northeast Maidu
+| map = Maidu langs.png
+| mapcaption = Pre-contact distribution of Maiduan languages
+| notice = IPA
+| image = Welcome to Indian Valley, Near Greenville, California.jpg
+| imagecaption = Maidu greeting on sign in [[Indian Valley, California]]
+}}
+
+'''Maidu''' {{IPAc-en|ˈ|m|aɪ|d|uː}},<ref>Laurie Bauer, 2007, ''The Linguistics Student's Handbook'', Edinburgh</ref> also '''Northeastern Maidu''' or '''Mountain Maidu''', is an extinct [[Maiduan languages|Maiduan]] language spoken by [[Maidu]] peoples traditionally in the mountains east and south of [[Lassen Peak]] in the [[American River]] and [[Feather River]] basins.  These river regions include such valleys in the northern Sierra Nevada mountains of California as: Indian Valley, American Valley, [[Butte Valley National Grassland|Butte Valley]], and Big Meadows.  Maidu may also refer to the related [[Konkow language|Konkow]] and [[Nisenan language|Nisenan]] languages.
+
+== History ==
+The pre-contact [[Maidu]] peoples lived in a hunting and gathering society in parts of central [[California]].  These peoples lived in an area around what are now called [[Mount Lassen]], [[Honey Lake]], [[Sacramento]], and [[Lake Tahoe]].  They spoke closely related languages, including the living Maidu, Konkow and Nisenan languages, along with the [[Chico language]] and other extinct variations.
+
+== Revitalization efforts ==
+Farrell Cunningham, one of the youngest fluent Yamani Maidu speakers, taught "Mountain Maidu language classes in Greenville, Susanville, Nevada City and Auburn", and was active with the Maidu Theater in [[Nevada City, California|Nevada City]], until his death on August 11, 2013, at age 37.<ref>{{Cite web
+| last = Little
+| first = Jane Braxton
+| title = Maidu Traditionalist and Language Instructor Farrell Cunningham Passes
+| work = Indian Country Today Media Network
+| access-date = 2013-08-22
+| date = 2013-08-20
+| url = http://indiancountrytodaymedianetwork.com/2013/08/20/maidu-traditionalist-and-language-instructor-farrell-cunningham-passes-150960
+| archive-url = https://web.archive.org/web/20130821134012/http://indiancountrytodaymedianetwork.com/2013/08/20/maidu-traditionalist-and-language-instructor-farrell-cunningham-passes-150960
+| archive-date = 2013-08-21
+| url-status = dead
+}}</ref> 
+Active language revitalization efforts have been underway since 2004.<ref>{{Cite news
+| issue = July / August 2004
+| title = Keepers of a Lost Language. An 82-year-old linguist and his young protégé are among the last speakers of a native California language -- and its final chance.
+|last  = Slater
+|first = Dashka 
+| work = Mother Jones
+| access-date = 2012-07-19
+| url = https://www.motherjones.com/politics/2004/07/keepers-lost-language
+}}</ref> As of 2011, classes in Maidu were available in [[Nevada County, California]].<ref>
+{{Cite news
+ |title       = Keeping mountain Maidu language alive. A group of students learn the mountain Maidu language from Farrell Cunningham in Nevada County. Video by Hector Amezcua
+ |work        = Sacramento Bee
+ |access-date  = 2012-07-19
+ |url         = http://videos.sacbee.com/vmix_hosted_apps/p/media?id=4537703
+ |url-status  = dead
+ |archive-url  = https://web.archive.org/web/20090621225400/http://videos.sacbee.com/vmix_hosted_apps/p/media?id=4537703
+ |archive-date = 2009-06-21
+}}</ref><ref>{{Cite web
+| title = Maidu Storytelling: A Beautiful Language, A Haunting Evening
+| work = Word Journeys: The Blog
+| access-date = 2012-07-19
+| date = 2011-01-30
+| url = http://bobyehling.wordpress.com/2011/01/30/maidu-storytelling-a-beautiful-language-a-haunting-evening/
+}}</ref>
+
+The Maiduan language family is considered to belong to the [[Penutian]] language group, along with such families as [[Miwok languages|Miwok]], [[Wintun languages|Wintun]], [[Yokutsan languages|Yokuts]], and [[Ohlone languages|Ohlone]].
+
+==Phonology==
+<small>Notation: In the phonological discussion, phonetic symbols are encased in slashes / /, allophones are in brackets [ ], while symbols in parentheses ( ) represent non IPA orthography.</small>
+
+===Consonants===
+Maidu has eighteen consonantal phonemes. The consonants listed below are from the transcription system used by Shipley.  Shipley's orthography is listed in brackets when it differs from the IPA transcription.
+
+{|class=wikitable style=text-align:center
+!colspan=2|
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+!colspan=2|[[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+|
+|-
+!rowspan=3|[[Stop consonant|Stop]]
+!<small>[[implosive consonant|implosive]]</small>
+| {{IPAlink|ɓ}} {{angbr|b}}
+| {{IPAlink|ɗ}} {{angbr|d}}
+|
+|
+|
+|-
+!<small>[[tenuis consonant|tenuis]]</small>
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+| {{IPAlink|c}} ~ {{IPAlink|tʃ}} {{angbr|c}}
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+!<small>[[ejective consonant|ejective]]</small>
+| {{IPAlink|pʼ}}
+| {{IPAlink|tʼ}}
+| {{IPAlink|cʼ}} ~ {{IPAlink|tʃʼ}} {{angbr|cʼ}}
+| {{IPAlink|kʼ}}
+|
+|-
+!colspan=2|[[Fricative]]
+|
+| {{IPAlink|s}}
+|
+|
+| {{IPAlink|h}}
+|-
+!colspan=2|[[Approximant]]
+| {{IPAlink|w}}
+| {{IPAlink|l}}
+| {{IPAlink|j}}
+|
+|
+|}
+
+In the 1950s and 1960s, older speakers retained [[Voiceless palatal plosive|palatal stops]] /c, c'/ where younger speakers used an innovative [[Voiceless postalveolar affricate|palatal affricate]] [tʃ], [tʃʼ], perhaps under influence from English. {{Harv | Shipley | 1964}}
+
+The notation /j/ represents the palatal glide, the same as the spelling ''y'' in English ''yes''. The voiced plosives (/b/ & /d/) are [[Implosive consonant|implosive]], but do not contrast with simple voiced stops.{{Citation needed|date=August 2019}}
+
+Before the velar plosives /k, k'/, /m/ is pronounced as [ŋ].
+
+===Vowels===
+There are six phonemic vowels in Maidu. Once again, the chart comes from the orthographic system employed by Shipley.
+
+{|class=wikitable style=text-align:center
+!
+![[Front vowel|Front]]!![[Central vowel|Central]]!![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+| {{IPAlink|i}} || {{IPAlink|ɨ}} {{angbr|y}} || {{IPAlink|u}}
+|-
+![[Low vowel|Low]]
+| {{IPAlink|e}} || {{IPAlink|a}} || {{IPAlink|o}}
+|}
+
+These six vowels are characterized by several different [[allophone]]s depending on the phonetic environments in which they occur (initial/noninitial, stressed/unstressed, and open/closed syllables).  The base [[Phone (phonetics)|phone]] of the vowels occurs in initial open syllables with stress. The lowest and most central allophones occur in unstressed closed syllables. According to Shipley, (a) and (y) have allophones that almost converge once they have centralized, (i) and (u) have allophones that barely centralize and drop slightly lower, approaching [ɪ] and [ʊ]. Meanwhile, (e) and (o) have more change than (i) and (u) but less than (a) and (y).
+
+[[Vowel length]] is nonphonemic, and changes according to the vowel's place within the word. The vowels can exhibit vowel lengths of less than a [[Mora (linguistics)|mora]], one mora, or 1.5-2 morae. The vowel is less than one mora in unstressed syllables, around one mora in closed stressed syllables, and more than one mora in open stressed syllables.
+
+===Syllables===
+The [[syllable]]s in Maidu follow a basic CV or CVC structure.  The majority of words consist of alternating consonants and vowels, while combinations such as CVCVCCV also occur.  In all cases, the syllables are consonant initial, and diphthongs do not occur in the [[Syllable coda|coda]].  The syllables in Maidu display [[Pitch accent|pitch]] in conjunction with the stress in the word.  Syllables with the primary stress in the word have a higher pitch and tend to be more tense and have longer vowels.  Secondary stress occurs with a low to middle pitch and lengthening of the vowel.  Weak stress has a low to middle pitch and short vowels.
+
+== Morphology ==
+<small>Notation: In the morphology section, some notations are used to refer to changes occurring to the morphemes when they are conjugated or combined with one another.  'I' indicates a change whereby the preceding word goes through the following changes: after a vowel (V) of a vowel and glottal stop (V') the root remains the same, so /wepa/ remains /wepa/. After a k or k', the preceding vowel is duplicated, so /banak'/ becomes /banak'a/.  In all other cases i is added, so /jaman/ becomes /jamani/.  'R' indicates reduplication of the previous segment, so /my/ becomes /mymy/. </small>
+
+===Nouns===
+Maidu nouns are divided into two classes.  The first class consists of kinship terms, but these do not include the terms for child and son.  The nouns of this class are more limited in use than other nouns, as they are always subject to possession by another noun.  These terms, such as /ne/ 'mother' occur in conjunction with a [[pronoun]] or a [[demonstrative]], as in:
+
+* ''{{lang|nmu|nikne}}'' - my mother
+* ''{{lang|nmu|minne}}'' - your mother
+* ''{{lang|nmu|myne}}'' - (that) mother
+
+The second class of nouns consists of free [[morpheme]]s, and can be broken down into smaller subclasses based on the origin of the noun stem.  The first subclass contains nouns whose root and stem are identical, such as /wepa/ "coyote."  The stem /kyle/ 'woman' is notable in that is usually occurs as /kyle/, but may alternate to {{lang|nmu|/kylok/}} when attached with suffixes to form 'old woman' and 'women.'
+
+The second subclass contains nouns that are formed from several different roots.  This compound may be formed from two noun roots (/mom/ 'water' and /pano/ 'grizzly' become ''{{lang|nmu|mompano}}'' 'otter'), a noun root and an auxiliary verb (/jask'ak/ 'skinny' and /no/ 'along' become ''jask'akno'' 'skinny man'), a noun root and a distributive suffix (/jaman/ 'mountain' and /R-to/ 'all around' become ''jamanmanto'' 'mountains all around'), noun roots and an unidentifiable morpheme (/k'am/ 'belly' and /pum/ 'membrane' with a meaningless morpheme /pu/ become ''k'ampumpu'' 'tripe'), and a noun root with a diminutive morpheme (and /sol/ 'song' and /I-be/ become ''solibe'' 'ditty.').
+
+====Pronouns====
+The pronouns are /nik'/ first person, /min/ second person, /maj/ third person, and /my/ demonstrative.  /maj/ does not occur in the singular, and so constructions using /my/ serve as the third person singular.  These include in a noun construction ('that woman' for 'her'), singularly ('that one') and repeated ('that person').  Other than /maj/, there are no special plural forms of the pronouns, as they are inflected for number along with other nouns.
+
+====[[Grammatical number|Number inflection in nouns]]====
+While English distinguishes between singular and plural, Maidu distinguishes singular, [[Dual (grammatical number)|dual]], and [[plural]].  These inflections are most often used in conjunction with the pronouns, and are much less commonly used with other nouns.  Both dual /c'o/ and plural /cy/ suffixes have several [[allomorph]]s.  Along with these, there is a second plural morpheme /t'yt'y/ which indicates both plurality and a [[Diminutive|diminutive sense]].
+
+===Verbs===
+Maidu verbs consist of the [[Thematic relation|verbal theme]] along a series of suffixes.  Similar to nouns, the verb stems in Maidu result from several different sources. Some verbs, like /sol/ 'sing' are composed of a single simple root.  Other verbs include a noun in the verb stem, such as /k'awba/ 'to dig a hole', which is a compound of /k'aw/ 'dirt' and /ba/ 'to dig.' Still other compound verb stems result from the conjunction of two separate verb roots, as in /t'ikc'e/ 'to believe', from /t'ik/ 'to have enough' and /c'e/ 'to see.'  Like nouns, some verb stems include a component that has no meaning on its own, such as /bokweje/ 'to invoke', where /weje/ means 'to talk' and /bok/ has no known meaning.  Still others are the result of a verb and an auxiliary verb, and finally a set of verbs involving motion uses /'y/ as its first compound.
+
+====Verb theme====
+The verb theme is a combination of the verb stem along with one or more thematic suffixes.  All thematic suffixes are optional, and thus may be excluded from the verb, with the base stem acting as the theme on its own.
+
+* Causative
+* Designation of verbal object
+* Motion-Location
+* Negative
+* Aspectual
+* Evidential
+
+=====Causative=====
+The causative suffix /ti/ indicates that the actor is causing an action to occur, as in ''{{lang|nmu|ma dondom 'as te 'yno'''ti'''k'as}}'', which means 'I walked the child, holding his hand' or 'I caused the child to walk, holding (his) hand.'  This morpheme also occurs in words like /wono'''ti'''/ 'to kill', literally 'to cause to die.'
+
+=====Verbal object=====
+The designation of the verbal object takes five different forms.  /'us/ is a reflexive suffix, as in ''wonoti''''us''''am'' 'he killed himself.'  The second suffix, /jo/ indicated both plural object and repetitive actions.  This occurs in ''{{lang|nmu|c'ani majse 'ono wo'''jo'''mak'as}}'' 'I'm going to hit them (one after another) on the head with a stick,' and ''humbotmenwet 'as hesbopa'''jo'''dom'' 'I kept on shoving anything into the sack.'  The third suffix is used commonly and appears to have an obscure meaning.  /to/ can be used with /ju/ 'rub on' to form ''ju'''to''''' 'rub in' and with /mej/ 'give' to form ''{{lang|nmu|mej'''to'''}}'' 'buy.'  It may work to create the transitive form of a verb, although this is not always the case.  /toto/, a reduplication of /to/ indicates reciprocal action.
+
+=====Motion-location=====
+The motion-location auxiliaries occur as 16 different suffixes.
+
+# -/c'ik/ over or into with the implication of closing or covering /puc'ik/ 'to swell shut'
+# -/c'o/ up and over the edge, around from behind
+# -/daw/ down and away without and indication of a goal in the movement
+# -/dik/ up to and into a goal or objective
+# -/doj/ upward {{lang|nmu|italic=no|/weledoj/}} 'to run up'
+# -/je/ hither
+# -/kit/ downward
+# -/k'oj/ away from here
+# -/lek/ hurriedly
+# -/mit/ onto or into with an implication of downward motion
+# -/n/ downstream, downhill (usually implies southwest)
+# -/no/ along, no implication of direction or attitude /weleno/ 'to run along'
+# -/paj/ against, usually figurative /jodotpaj/ ' tie up/, {{lang|nmu|italic=no|/haspaj/}} 'to urinate against (as a dog would)'
+# -/pin/ hither, no implication of goal
+# -/sip/ out of /t'upsip/ 'spit out'
+# -/t'a/ on top
+# -/waj/ apart
+
+Some of these suffixes can occur together in limited constructions: /c'opin/ 'up over the edge and hither', /c'ono/ 'over the edge of something; in a circle', /noje/ 'aimlessly', and /sippin/ 'out of and hither'.
+
+/doj/, /kit/, /k'oj/, and /mit/ all lose their final consonant before the suffix /nu/, which indicates duration.  /by/-/doj/-/nu/ becomes ''bydonu'' 'to stick up'.
+
+=====Negative=====
+The negative suffix /men/ has two variants, /men/ after a consonant and /n/ after a vowel.  ''kyloknonom 'as wetem'''men''''usan'' 'the women didn't use to dance' and ''mo'''n'''ma'amkano'' 'you won't'
+
+=====Aspectual=====
+The aspectual class contains six suffixes.
+
+# -/bos/ completion ''weje'''bos'''k'as'' 'I'm through talking'
+# -/c'yj/ unable ''hybonam jysip'''c'yj'''k'as'' 'I can't get out of the house'
+# -/doj/ inchoative ''nik'i lenom 'as jotit'''doj'''dom kak'an'' 'My garden is beginning to bloom and become green'
+# -/nu/ durative
+# -/ti/ for the sake of
+# -/bew/ a little more ''mym p'ybem 'as lalam'''bew'''k'an'' 'That boy got a little taller'
+
+=====Evidential=====
+The evidential class consists of three individual morphemes.
+
+# -/c'oj/ quotative ''{{lang|nmu|mym majdyk mykotom 'a'''c'oj'''{{'}}am}}'' 'It was that man's grandmother, it is said'
+# -/wew/ evidential ''mym p'ybec'om 'as 'ydoj'''wew'''k'an'' 'Those two boys are apparently coming up'
+# -/ky/ seems ''{{lang|nmu|hes hututini wejepem ka'''ky'''k'an}}'' 'How crazily he seems to talk'
+
+====Verb inflection====
+The verb is completed by the addition of five [[Inflection|inflectional suffixes]].  These suffixes mark the verb for expression of [[Grammatical tense|tense]], [[Grammatical aspect|aspect]], mode, person, and number.  There is variability in the ordering of these suffixes.  There are five possible inflections for mode: indicative, subjunctive, optative, interrogative, and gerundial.  Separate indicative modes occur for present-past, future, habitual past, and past punctual.  The optative mode can be split into monitive, intentive, and hortatory.
+
+=====Present-past indicative=====
+The present-past indicative is marked by a null morpheme.  /sol/ 'to sing' becomes ''solk'as'' 'I sang', ''sol'amk'as'' 'we two sang', ''sol'emk'es'' 'we all sang', ''sol'amkano'' 'you sang', or ''solk'an'' 'he, she, they sang'.  Plurality is marked only in first person, otherwise 2nd and 3rd person have no marking to differentiate duality or plurality. This tense of the verb is used to express a recently completed action, a punctual action that is taking place, a state of being, an equation (something is something else), or a present static location.
+
+=====Future indicative=====
+Future indicative is marked by /ma/.  ''solmak'as'' 'I will sing', ''solma'amk'as'' 'we two will sing', ''solma'emk'es'' 'we all will sing', ''solma'amkano'' 'you will sing', and ''solmak'an'' 'he, she, they will sing'.  Future indicative indicate a future punctual action, a directive or a mild imperative.
+
+=====Other pasts=====
+The habitual past, marked with /'/ for past and /us/ for habit, indicates an action that was habitually done in the past, such as ''weje'usas'' 'I used to talk', or ''penem nikkotoc'om 'yhej'usan'' 'My two grandmothers used to go along'.  The past punctual indicative, marked simple with /'/, is a rare verb tense.  This form refers to a single act in the past that is disconnected from the current context.
+
+=====Subjunctive=====
+the subjunctive mode, marked with /k'e/, occurs only with /jak/ 'resemble' and /na/ 'result in', such as ''jakk'es'' 'I seem to be'.
+
+=====Optative=====
+The optative mode occurs in three different forms.  All three forms are marked with the morpheme /b/. The monitive optative, marked with /y'y/, indicates a possible future event that is unpleasant or undesirable in nature, such as ''wonoby'ys'' 'I might die'.
+
+Intentive optative occurs only in first person to indicate intention, and sometimes is also used with demonstrative or interrogative words to form questions relating to instructions.  Use with the singular form is common, while dual and plural are relatively rare. '''yk'oj'is'' 'I'm going to go'
+
+The hortatory optative is marked by /a/, and usually uses /t/ as an allomorph of the optative marker.  This form indicates the idea 'let' as in '''yk'ojtas'' 'let me go'.
+
+=====Interrogative=====
+The interrogative mode is marked with /k'ade/, as in ''solk'ades'' 'am I singing?'.
+
+=====Imperative=====
+The imperative mode is marked by several different morphemes, depending on how the action is to be carried out.  /pi/ is used when the action is to be carried out in the presence of the speaker, as in ''c'enopi'' 'Look!'.  /pada/ is used when the action is to be completed in the absence of the speaker.
+
+==Syntax==
+=== Noun case suffixes ===
+Nouns must receive one of ten possible case markings.  These cases are classified into four external distribution classes.  These classes are subject, object, possessive, and locative. The cases are:
+
+# [[Nominative case|Subject]]: The nominative case is marked either by the addition of an /m/ such as {{lang|nmu|italic=no|/wepam/}} from /wepa/ 'coyote' or the deletion of the final consonant as in /ni/ from /nik/ 'I'.  Nominative is used for the performer of a verb, both A and B in a sentence where A=B, naming, and for the vocative.
+# [[Accusative case|Object]]: The object case also has two allomorphs.  The first is the I form, as mentioned in the morphology section, so that /jaman/ becomes /jamani/ 'mountain'.  Other nouns have no change, as in /nik/ 'I'.  This case is used for the direct and indirect objects, and is also used by some speakers in naming.
+# [[Possessive case|Possessive]]: The possessive case is marked by /Ik'/ or /Ik'i/, as in {{lang|nmu|italic=no|/wepak'i/}} 'coyote's', as /i/ as in /niki/ 'my', or as /k'i/ as in /mink'i/ 'thy'.  Possessive is used to refer to both actual possessors (Coyote's flour) and figurative or characteristic possessors (the white man's flour), as well as in some cases to indicate 'for the sake of'.
+
+These next seven cases all belong to the locative class:
+# '''[[Comitative case|Comitative]]:''' The comitative is marked by /Ik'an/ or /k'an/ and means 'along with'.  '{{lang|nmu|'wepak'an}}' 'along with Coyote'
+# '''[[Instrumental case|Instrumental]]:''' The instrumental case is marked with /ni/ and is used to indicate the means by which something is done or with something as an ingredient.  ''{{lang|nmu|nik?opam jalulu'''ni''' solti'usan}}'' 'my grandfather used to play on a flute' or ''{{lang|nmu|mym mahatim kak'an wolek'i lawa'''ni''' japem}}'' 'that bread is made with white man's flour'.
+# '''[[Locative case|Locative]]:''' The locative case is marked with /di/.  This case indicates a static location in space, the space within which an action is carried out, a static location in time, or 'toward'.  ''kulu'''di''' kak'as 'ynojbodukkym'' 'I seldom walk around in the dark'.
+# '''[[Allative case|Allative]]:''' The allative case is marked with /nak/ or /na/.  This case usually means 'toward' and rarely means 'for'.  ''mym huskym c'aj'''na''' lykk'ojam'' 'the snake crawled to another place'
+# '''[[Ablative case|Ablative]]:''' The ablative case is marked by /nan/ and is the marker for movement away from something or the origin of an object.  ''{{lang|nmu|wole'''nan''' 'as 'uni mek'as}}'' 'I got this from the white man'
+# '''Indefinite locative:''' The indefinite locative is marked with /te/.  This case is used very rarely, and usually indicates a location unknown to the speaker.  ''homon'''te''' mink'i wat'a dakym'' 'where is your dishtowel?'
+# '''Linear distributive:''' The linear distributive is marked with /no/.  Like the indefinite locative, this case is used very rarely.  This form marks a location with the meaning of 'along' or 'alongside of' and always occurs in conjunction with a noun indicating something with a linear form.  ''{{lang|nmu| 'adom 'unim sew'''no''' momi kutidom t'uc'ikdom sewi 'odo tawalwonom}}'' 'Then, draining out all of the water along this river and damming up the river, they worked the gold.'
+
+===Word order===
+There are several different word classes that go into making a Maidu sentence, split into the major and the minor classes.  The seven major distribution classes are Subject, Object, Possessive, Locative, Finite Verb, Dependent Verb, and Copula.  The minor classes are Connectives, Hesitation forms, Emphasis marker, Temporal Absolute, Adverbial Absolute, Interjection, and Question word.  All together combinations of words from these classes make sentences.
+
+====Subject, object, and locative phrases====
+The only way to expand upon the Subject, Object, or Locative is with a preceding Possessive.  These connections can only occur with a single pair of words, one Possessive plus the Subject, Object, or Locative.
+
+====Verb phrases====
+Expansions of the Verb occur only with an Object.  The Verb and the Object have an unrestricted arrangement.  Both V-O and O-V occur naturally.  The only exception to this free word order occurs when there are two object.  When there are a pair of objects, usually a dependent and an independent object, the word order is restricted to O-O-V or O-V-O.  The word order V-O-O never occurs.
+
+====Basic clause====
+The basic clause in Maidu contains one Verb phrase, between zero and two Subject phrases, between zero and four locative phrases, and possibly one Possessive phrase.  Clauses with a Possessive are limited to a single Subject phrase.  The phrases are relatively unrestricted in word order.  The only exception is that Possessives always go clause finally.
+
+The most common word order is Subject-Locative-Verb.  The Verb is usually clause final, except in cases where the Possessive is present.  The Subject and Locative may occur within an expanded verb phrase, making Verb-Subject-Object and Adverb-Locative-Verb potential sentence constructions.
+{{interlinear|indent=3| lang = nmu| c1 = S-V-S | number = a)
+|-mym majdym-kak'an-nik'i heskym
+|that man-is-my friend
+|'That man is my friend.'}}
+
+{{interlinear|indent=3| lang = nmu| c1 = L-L-L-V | number =b)
+|-jamanna -niktynik'an -lajmendi -'yk'oj'usas 
+|{to the mountains} {along with my younger brother} {in the summer} {I used to go}
+|I used to go to the mountains with my younger brother in the summer.'}}
+
+{{interlinear|indent=3| lang = nmu| c1 = V-S-O | number = c) 
+|-his'usan -'anim kylem -lolo
+|{used to weave} that woman baskets
+|'That woman used to weave baskets.'}}
+
+==See also==
+* [[Maidu]]
+* [[Maiduan languages]]
+
+==References==
+<references/>
+
+==Bibliography==
+*Anderson, Karen Lahaie. (2014) ''Mountain Maidu Grammar'', {{ISBN|978-1-4961-4140-8}}.
+* [[Lyle Campbell|Campbell, Lyle]]. (1997). ''American Indian languages: The historical linguistics of Native America''. New York: Oxford University Press. {{ISBN|0-19-509427-1}}.
+* Heizer, Robert F. (1966). ''Languages, territories, and names of California Indian tribes''.
+* [[Marianne Mithun|Mithun, Marianne]]. (1999). ''The languages of Native North America''. Cambridge: Cambridge University Press. {{ISBN|0-521-23228-7}} (hbk); {{ISBN|0-521-29875-X}}.
+* [[William Shipley (linguist)|Shipley, William F.]] (1964). ''Maidu Grammar''. Berkeley: University of California Press.
+
+==External links==
+* [http://linguistics.berkeley.edu/~survey/languages/maidu.php Maidu language] overview at the [[Survey of California and Other Indian Languages]]
+* [http://www.native-languages.org/maidu.htm Maidu Indian Language (Maidun, Nisenan, Konkow)]
+* [http://www.language-archives.org/language/ OLAC resources in and about the Northeast Maidu language]{{dead link|date=January 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+* [https://web.archive.org/web/20140330052420/http://cla.berkeley.edu/language/562?tab=items&drestriction=all Maidu], California Language Archive
+* [https://archive.org/stream/maiduanillustra00dixogoog#page/n6/mode/2up Maidu, An Illustrative Sketch]
+* [http://www.mip.berkeley.edu/cilc/bibs/maidu.html Maidu Bibliography]
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\pen\mai&limit=-1 Maidu basic lexicon at the Global Lexicostatistical Database]
+* [https://www.bbc.com/news/magazine-29804445 The people who want their language to disappear]
+
+{{Languages of California}}
+{{Penutian languages}}
+
+{{DEFAULTSORT:Maidu Language}}
+[[Category:Maidu]]
+[[Category:Maiduan languages]]
+[[Category:Indigenous languages of California]]
+[[Category:Endangered Maiduan languages]]
+[[Category:Native American language revitalization]]

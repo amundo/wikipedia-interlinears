@@ -1,0 +1,357 @@
+{{distinguish|Lak language}}
+{{Infobox language
+|name=Siar
+|altname=Lak
+|nativename=ep warwar anun dat
+|states=[[Papua New Guinea]]
+|region=[[New Ireland Province|New Ireland]] Province
+|speakers={{sigfig|2080|2}}
+|date=2000 census
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]] 
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Western Oceanic languages|Western]]
+|fam5=[[Meso-Melanesian languages|Meso-Melanesian]]
+|fam6=(St George linkage)
+|iso3=sjr
+|glotto=siar1238
+|glottorefname=Siar-Lak
+}}
+
+'''Siar''', also known as '''Lak, Lamassa, or Likkilikki''', is an [[Austronesian language]] spoken in [[New Ireland Province]] in the southern island point of [[Papua New Guinea]]. Lak is in the Patpatar-Tolai sub-group, which then falls under the New Ireland-Tolai group in the Western Oceanic language, a sub-group within the Austronesian family.<ref>{{harvnb|Lean|1991}}</ref> The Siar people keep themselves sustained and nourished by fishing and gardening.<ref name="Rowe 2005">{{harvnb|Rowe|2005}}</ref> The native people call their language ''ep warwar anun dat,'' which means "our language".<ref>{{Cite web |url=https://www.omniglot.com/writing/siar.htm |title=Siar language and alphabet |website=www.omniglot.com}}</ref>
+  
+==Phonology==
+Siar-Lak contains fifteen consonants, and five vowels, which does not include the mid-high vowel pronunciations of /é/ and /ó/.   
+
+{| class="wikitable" style="text-align:center;"
+|+Consonant Phonemes<ref name="Rowe 2005" />
+!colspan=2|
+!Bilabial
+!Dental-<br>Alveolar
+!Palatal
+!Velar
+|-
+!colspan=2|Nasal
+|{{IPA link|m}}
+|{{IPA link|n}}
+|
+|{{IPA link|ŋ}}
+|-
+!rowspan=2|Plosive
+!{{small|voiceless}}
+|{{IPA link|p}}
+|{{IPA link|t}}
+|
+|{{IPA link|k}}
+|-
+!{{small|voiced}}
+|{{IPA link|b}}
+|{{IPA link|d}}
+|
+|{{IPA link|g}}
+|-
+!colspan=2|Fricative
+|{{IPA link|ɸ}}
+|{{IPA link|s}}
+|
+|
+|-
+!colspan=2|Lateral
+|
+|{{IPA link|l}}
+|
+|
+|-
+!colspan=2|Trill
+|
+|{{IPA link|r}}
+|
+|
+|-
+!colspan=2|Glide
+|{{IPA link|w}}
+|
+|{{IPA link|j}}
+|
+|}
+
+{| class="wikitable" style="text-align:center;"
+|+Vowel Phonemes
+!
+!Front
+!Central
+!Back
+|-
+!High
+|{{IPA link|i}}
+|
+|{{IPA link|u}}
+|-
+!Mid-high
+|{{IPA|ẹ}}
+|
+|{{IPA|ọ}}
+|-
+!Mid
+|{{IPA link|e}}
+|
+|{{IPA link|o}}
+|-
+!Low
+|
+|{{IPA link|a}}
+|
+|}
+
+The vowel /ẹ/ can be thought to be pronounced in between the high vowel /I/ and the mid vowel /E/, as well as /ọ/ being in between the high vowel /U/ and the mid vowel /O/, according to the native people in Papua New Guinea.<ref name="Rowe 2005" /> "ẹ" can be written as "é", and "ọ" can also be written as "ỏ". Knowing which vowel is used when writing is critical, as two words that are similar can have completely different meanings. For example, "rowoi" means to "carry in arms", while "rówói" means "to fly". Also, "toh" has a meaning of "to be able", while "tóh" means "sugarcane".  <ref name="Rowe 2005" /> 
+
+==Stress and Phonotactics==
+Stress is placed on the last syllable in each word. Examples of words broken down into syllables and translated include:
+
+{| class="wikitable"
+!Siar-Lak
+!English
+|-
+|''mam.su.ai''
+|"sneeze"
+|-
+|''ar.ngas''
+|"mountain peak"
+|-
+|''far.bón''
+|"praise"
+|-
+|''fet.rar'' 
+|"young woman"
+|} 
+
+==Syllable Structures==
+Siar Lak contains four different types of syllable patterns in their word vocabulary, which include V(vowel), VC(vowel consonant), CV(consonant vowel), and CVC(consonant vowel consonant). Some examples include:
+{| class="wikitable"
+!
+!
+!Siar Lak
+!English
+|-
+!'''V'''
+|
+!''u''
+!"you"
+|-
+|
+|
+|''a.im''
+|"to plant"
+|-
+|
+|
+|''a.i.nói''
+|"to fill"
+|-
+|'''VC'''
+|
+|''ep''
+|"article"
+|-
+|
+|
+|''ar.ngas''
+|"mountain"
+|-
+|
+|
+|''la.un''
+|"to live"
+|-
+|'''CV'''
+|
+|''ma''
+|"now"
+|-
+|
+|
+|''kó.bót''
+|"morning"
+|-
+|
+|
+|''ka.bu.suk''
+|"my nose"
+|-
+|
+|
+|''la.tu''
+|"tomorrow"
+|-
+|'''CVC'''
+|
+|''póp''
+|"puddle"
+|-
+|
+|
+|''gósgós''
+|"to dance"
+|-
+|
+|
+|''la.man.tin''
+|"great"
+|-
+|
+|
+|''ka.kau''
+|"to crawl"
+|}
+<ref name="Rowe 2005" />
+
+==Numerical System==
+{| class="wikitable"
+|+Numbers 1-10
+!Siar
+!English
+|-
+|''i tik''
+|One 
+|-
+|''i ru''
+|Two
+|-
+|''i tól''
+|Three
+|-
+|''i at''
+|Four
+|-
+|''i lim''
+|Five
+|-
+|''i won''
+|Six
+|-
+|''i is''
+|Seven
+|-
+|''i wol''
+|Eight 
+|-
+|''i siwok''
+|Nine
+|-
+|''sanguli'' or ''i tik ep bónót''
+|Ten
+|}
+<ref name="Rowe 2005" />
+{| class="wikitable"
+|+Numbers 10-100
+!Siar 
+!English
+|-
+|''i tik ep bónót''
+|Ten
+|-
+|''i ru ru bónót''
+|Twenty
+|-
+|''i tól ep bónót''
+|Thirty
+|-
+|''i at ep bónót''
+|Forty
+|-
+|''i lim ep bónót''
+|Fifty
+|-
+|''i won ep bónót''
+|Sixty
+|-
+|''i is ep bónót''
+|Seventy
+|-
+|''i wol ep bónót''
+|Eighty
+|-
+|''i siwok ep bónót''
+|Ninety
+|-
+|''i tik ep mar''
+|One Hundred
+|}
+
+===Orthography===
+Orthography is the way words are written, using the appropriate letters from a specific language while following usage rules. If the consonant phoneme /φ/ is used at the beginning of a word, that word starts with an "f", but if it is found at the end of a word, it is then replaced with the letter "h". An example of this is "''ep φun"'', which makes the phrase "ep fun", meaning "banana (plant)", but when it is found at the end of a word, as in "''ep yaφ"'', it becomes "ep yah", meaning "fire".<ref name="Rowe 2005" /> 
+
+==Pronouns==
+{| class="wikitable"
+|+Independent Pronouns<ref name="Rowe 2005" />
+! colspan="2" |
+! Singular
+! Dual
+! Trial/Paucal
+! Plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| ya(u)/ a
+| mara(u)
+| mató~matól
+| mét
+|-
+! inclusive
+| 
+| dara(u)
+| datól
+| dat
+|-
+! colspan="2" | 2nd person
+| u
+| aura(u)
+| amtól
+| amat
+|-
+! rowspan="3" | 3rd person
+! Personal
+| i
+| dira(u)
+| diat
+| dit
+|-
+! Impersonal
+| 
+| 
+| 
+| di
+|-
+! Inanimate, mass
+| 
+| 
+| 
+| in
+|}
+
+Example sentence:
+{{interlinear|indent=3
+|Yau, a rak al an ka-sai an Kokopo.
+|1S 1S want 1S.POT at DIR-west at Kokopo
+|"As for me, I want to go to Kokopo."<ref name="Rowe 2005" />}}
+
+==Verb Phrases==
+Two types of verb phrases included Intransitive and Transitive verbs. An intransitive verb is used when there is no direct object, while a transitive verb is used when there is a direct object action taking place. An intransitive verb of eat, would be ''"angan"'', while a transitive verb for eat would be ''"yan".'' 
+
+==References==
+{{Reflist}}
+* {{Cite book |url=https://www.sil.org/resources/archives/23827 |title=Siar-Lak Grammar Essentials |last=Rowe |first=Karen |publisher=Summer Institute of Linguistics |year=2005 |series=Data Papers on Papua New Guinea Languages 50 |location=Ukarumpa }}
+* {{Cite book |title=Counting systems of Papua New Guinea: Volume 1: New Ireland Province (2nd ed., Vol. 1) |last=Lean |first=G. A. |publisher=Department of Mathematics and Statistics Papua New Guinea University of Technology |year=1991 |location=Lae, Papua New Guinea }}
+* {{Cite thesis |last=Frowein |first=Friedel Martin |title=A grammar of Siar, an Oceanic language of New Ireland province, Papua New Guinea. |date=2011 |degree=Ph.D. |publisher=La Trobe University |hdl=1959.9/529829 |hdl-access=free }}
+
+
+{{Meso-Melanesian languages}}
+{{Austronesian languages}}
+{{Languages of Papua New Guinea}}
+
+[[Category:Languages of New Ireland Province]]
+[[Category:St George linkage]]
+
+
+{{MesoMelanesian-lang-stub}}

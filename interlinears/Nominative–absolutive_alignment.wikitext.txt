@@ -1,0 +1,77 @@
+{{About|the alignment type attested in some [[Indigenous languages of South America|South American indigenous languages]] in which the intransitive subject patterns both as a [[nominative–accusative language|nominative]] and as an [[ergative–absolutive language|absolutive]] argument|the alignment type with a marked nominative and unmarked accusative case|marked nominative alignment}}
+{{linguistic typology topics}}
+
+In [[linguistic typology]], '''nominative–absolutive alignment''' is a type of [[morphosyntactic alignment]] in which the sole [[argument (linguistics)|argument]] of an [[intransitive verb]] shares some coding properties with the [[agent (linguistics)|agent]] argument of a [[transitive verb]] and other coding properties with the [[patient (linguistics)|patient]] argument ('direct object') of a transitive verb.<ref name="G-CA-2010">{{cite journal |last1=Gildea |first1=Spike |last2=Castro Alves |first2=Flávia de |title=Nominative-absolutive: Counter-universal split ergativity in Jê and Cariban |journal=Typological Studies in Language |date=2010 |volume=89 |pages=159–200 |doi=10.1075/tsl.89.07gil |url=https://amerindias.github.io/curso2015/referencias/gilque10ergativityamazonia.pdf |access-date=8 August 2020}}</ref> It is typically observed in a subset of the clause types of a given language (that is, the languages which have nominative–absolutive clauses also have clauses which show other alignment patterns such as [[nominative–accusative language|nominative-accusative]] and/or [[ergative–absolutive language|ergative-absolutive]]).
+
+The languages for which nominative–absolutive clauses have been described include the [[Cariban languages|Cariban]] languages [[Panare language|Panare]] (future, desiderative, and nonspecific aspect clauses) and [[Kaxuiana language|Katxuyana]] (imperfective clauses), the [[Northern Jê languages|Northern Jê]] languages [[Canela language|Canela]] (evaluative, progressive, continuous, completive, and negated clauses), [[Kĩsêdjê language|Kĩsêdjê]] (progressive, continuous, and completive clauses, as well as future and negated clauses with non-pronominal arguments<ref name="G-CA-2020">{{cite book |last1=Gildea |first1=Spike |last2=Castro Alves |first2=Flávia de |editor-last1=Barðdal |editor-first1=Jóhanna |editor-last2=Gildea |editor-first2=Spike |editor-last3=Luján |editor-first3=Eugenio R. |title=Reconstructing Syntax |publisher=Brill |date=2020 |pages=47–107 |chapter=Reconstructing the Source of Nominative-Absolutive Alignment in Two Amazonian Language Families |chapter-url=https://brill.com/view/book/edcoll/9789004392007/BP000010.xml |doi=10.1163/9789004392007_003 |doi-access=free |isbn=978-90-04-39199-4}}</ref>), and [[Apinajé language|Apinajé]] (progressive, continuous, and negated clauses), as well as in the main clauses of the [[Tuparian languages|Tuparian]] languages ([[Makurap language|Makurap]], [[Wayoró language|Wayoró]], [[Tuparí language|Tuparí]], [[Sakurabiat language|Sakurabiat]], and [[Akuntsu language|Akuntsú]]).<ref name="G-CA-2010"/>{{rp|191}}<ref name="CA 2010">{{cite journal |last1=Castro Alves |first1=Flávia de |title=Evolution of Alignment in Timbira |journal=International Journal of American Linguistics |date=October 2010 |volume=76 |issue=4 |pages=439–475 |doi=10.1086/658054 |jstor=10.1086/658054|s2cid=224806935 }}</ref><ref>{{cite journal |last1=Castro Alves |first1=Flávia de |title=Complement clauses in Canela |journal=Amerindia |date=2011 |volume=35 |page=135-54 |url=https://www.vjf.cnrs.fr/sedyl/amerindia/articles/pdf/A_35_08.pdf}}</ref><ref name="GN-2018"/>{{rp|99}}
+
+==Examples==
+===Northern Jê===
+In the [[Northern Jê languages|Northern Jê]] language [[Canela language|Canela]], different main clause constructions present different combinations of alignment patterns, including [[Active–stative alignment|split-S]] (default), [[Ergative–absolutive language|ergative–absolutive]] (recent past), and nominative–absolutive (evaluative, progressive, continuous, completive, and negated clauses). An example of the latter alignment type is given below.<ref name="G-CA-2010"/>{{rp|162}}
+
+;intransitive
+{{interlinear|indent=3|IPA2=yes|glossing3=yes|glossing4=yes|glossing=link
+|Wa ha iwrỳc naare.
+|/wa ha i-wɾɘ-k nãːɾɛ/
+|1.NOM IRR 1.ABS-descend-NF NEG
+|S TAM s-V AUX
+|'I will not descend.'}}
+
+;transitive
+{{interlinear|indent=3|IPA2=yes|glossing3=yes|glossing4=yes|glossing=link
+|Wa ha ipyr naare.
+|/wa ha i-pɨ-ɾ nãːɾɛ/
+|1.NOM IRR 3.ABS-take-NF NEG
+|A TAM p-V AUX
+|'I will not grab it.'}}
+
+In nominative–absolutive clauses, the sole [[Argument (linguistics)|argument]] of an [[intransitive verb]] (S) is aligned with the [[Agent (linguistics)|agent]] argument of a [[transitive verb]] (A) in that both may be expressed by [[Nominative case|nominative]] pronouns, such as ''wa'' ‘I.[[Nominative case|NOM]]’ or ''ca'' ‘you.[[Nominative case|NOM]]’ (nouns do not take case inflection in Canela), which occupy the same position in a phrase (in the example above, both precede the [[Irrealis mood|irrealis]] marker ''ha''). At the same time, the sole [[Argument (linguistics)|argument]] of an [[intransitive verb]] (S) is aligned with the [[Patient (linguistics)|patient]] argument ('direct object') of a transitive verb (P) in that both may be indexed on the verb by person prefixes of the [[Absolutive case|absolutive]] series (such as ''i-'' ‘I.[[Absolutive case|ABS]]’ or ''a-'' ‘you.[[Absolutive case|ABS]]’). There are no elements which pattern as ergative or accusative in this type of clauses in Canela.
+
+The historical origin of the nominative–absolutive clauses in Canela has been shown to be a reanalysis of former biclausal constructions (a [[Active–stative alignment|split-S]] matrix clause, headed by the auxiliary, and an [[Ergative–absolutive language|ergative–absolutive]] embedded clause, headed by the lexical verb) as monoclausal, with the loss of the ergative.<ref name="CA 2010"/><ref name="G-CA-2020"/>
+
+===Cariban===
+In the [[Cariban language|Cariban]] language [[Panare language|Panare]], future, desiderative, and nonspecific aspect clauses instantiate the nominative–absolutive alignment. An example is given below.<ref name="G-CA-2010"/>{{rp|162}}
+
+{{interlinear|indent=3|IPA2=yes|glossing3=yes|glossing4=yes|glossing=link
+|Yutësejpa (këj) kën.
+|/j-u-tə-sehpa (kəh) kən/
+|3-{{gcl|S<sub>A</sub>||Unergative verb}}-go-FUT 3.ANIM.COP 3.ANIM.{{gcl|DIST||Deixis}}
+|s-V s.AUX S
+|‘S/he will go.’}}
+
+{{interlinear|indent=3|IPA2=yes|glossing3=yes|glossing4=yes|glossing=link
+|Yamasejpa (këj) kën.
+|/j-ama-sehpa (kəh) kən/
+|3-{{gcl|S<sub>A</sub>||Unergative verb}}-throw.away-FUT 3.ANIM.COP 3.ANIM.{{gcl|DIST||Deixis}}
+|p-V a.AUX A
+|‘S/he will throw away it/him/her.’}}
+
+In Panare nominative–absolutive clauses, the [[Nominative case|nominative]] and [[Absolutive case|absolutive]] are distinguished as follows. The unmarked [[Nominative case|nominative]] noun or pronoun (if it occurs explicitly) always follows the predicate (''kën'' in the example above), with [[Nominative case|nominative]] agreement in the auxiliary if there is one (''këj'' in the example above). In contrast, the [[Absolutive case|absolutive]] arguments are indexed by means of verbal prefixes (''y-'' in the example above) or by absolutive nouns phrases (not shown above), which are in a [[complimentary distribution]] with the absolutive person prefixes.
+
+===Tuparian===
+In the languages of the [[Tuparian languages|Tuparian]] branch, main clauses commonly instantiate the nominative–absolutive pattern. Person prefixes on the verb are [[Absolutive case|absolutive]], i.e., they index the sole [[Argument (linguistics)|argument]] of an [[intransitive verb]] (S) and the [[Patient (linguistics)|patient]] argument ('direct object') of a transitive verb (P). Person pronouns, which follow the verb (either cliticizing to it or not) are [[Nominative case|nominative]]: they may encode the sole [[Argument (linguistics)|argument]] of an [[intransitive verb]] (S) or the [[Agent (linguistics)|agent]] argument of a [[transitive verb]] (A), but not the patient of a transitive verb (P). The example below is from [[Wayoró language|Wayoró]].<ref name="GN-2018">{{cite journal |last1=Galucio |first1=Ana Vilacy |last2=de Souza Nogueira |first2=Antônia Fernanda |title=From object nominalization to object focus: The innovative A-alignment in the Tuparian languages (Tupian family) |journal=Journal of Historical Linguistics |date=20 July 2018 |volume=8 |issue=1 |pages=95–127 |doi=10.1075/jhl.16025.gal|s2cid=69987541 }}</ref>{{rp|99}}
+
+{{interlinear|indent=3|IPA2=yes|glossing3=yes|glossing=link
+|Eamõjan (en).
+|/e-amõc-a-t (ẽt)/
+|2-dance-{{gcl|TH||Thematic vowel}}-NFUT (2.NOM)
+|s-V  (S)
+|‘You danced.’}}
+
+{{interlinear|indent=3|IPA2=yes|glossing3=yes|glossing=link
+|Etopkwap nã on.
+|/e-top-kʷ-a-p nã õt/
+|2-see-PL-{{gcl|TH||Thematic vowel}}-p FUT 1.NOM
+|p-V  {}  A
+|‘I’ll see you every day.’}}
+
+==See also==
+*[[Ergative–absolutive language]] 
+*[[Nominative–accusative language]]
+*[[Split ergativity]]
+
+==References==
+{{reflist}}
+{{DEFAULTSORT:Nominative-absolutive alignment}}
+[[Category:Linguistic typology]]
+[[Category:Transitivity and valency]]

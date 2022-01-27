@@ -1,0 +1,244 @@
+{{short description|Austronesian language spoken in Vanuatu}}
+{{Infobox language
+|name=Ura
+|nativename=
+|region=[[Erromango]]
+|state=[[Vanuatu]]
+|speakers=6
+|date=1998
+|ref=e18
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Oceanic languages|Oceanic]]
+|fam4=[[Southern Oceanic languages|Southern Oceanic]]
+|fam5=Vanuatu
+|fam6=[[South Vanuatu languages|South Vanuatu]]
+|fam7=[[Erromanga languages|Erromanga]]
+|iso3=uur
+|glotto=urav1235
+|glottorefname=Ura (Vanuatu)
+}}
+
+'''Ura''' is a moribund language of the island [[Erromango]] in [[Vanuatu]]. It was thought to be extinct, after massive depopulation of the island in the nineteenth century, until [[Terry Crowley (linguist)|Terry Crowley]] discovered a handful of elderly speakers in the 1990s.<ref>Crowley, Terry. 1999. "Ura : a disappearing language of Southern Vanuatu Canberra". ''Pacific Linguistics, Research School of Pacific and Asian Studies.'' The Australian National University.</ref>
+
+==Introduction==
+===History===
+Ura is a moribund language that is found in the Republic of [[Vanuatu]], an archipelago of about 80 islands off of [[New Caledonia]]. The first inhabitants settled there around 4,000 years ago, and the population has grown about 2.3% per year according to a 1999-2009 census. Specifically, Ura is found on the southern island of [[Erromango]], home to 1950 people (Daniel, 2010).  The language originated just north of Elisabeth Bay and as far as Potnuma, eventually moving to other inland areas including the large caldera (Crowley, 1999).  According to Terry Crowley's count in the 1990s it is spoken fluently by 6 people and semi-fluently by a couple dozen others. All the speakers of the Ura language are multilingual. They speak Sye, which is the main language in the island, as well as Bislama, which is their pidgin English. Ura itself may have once been referred to as Aryau or Arau, words that are based on the first person singular possessive pronoun of the language.  This naming system is characteristic of other Erromangan languages (Crowley, 1999).
+
+==Sounds==
+===Consonants===
+Ura contains 18 consonant phonemes. One of the main differences between Ura and Sye is that /f/ and /v/ in Ura are contrasting consonants, while Sye contains no contrasting fricatives. /r/ is an apical alveolar flap or trill, and is sometimes confused with /l/ which is an alveolar lateral, even though there is clear phonetic contrast.  This may be due to a speaker's lack of articulation or because /r/ and /l/ are phonetically close phonemes (Crowley, 1999)
+
+{| class="wikitable" style="text-align:center"
+! colspan="2" |
+![[Bilabial consonant|Bilabial]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+|
+| {{IPA link|ŋ}}
+|
+|-
+! rowspan="2" |[[Stop consonant|Stop]]
+!{{Small|voiceless}}
+| {{IPA link|p}}
+| {{IPA link|t}}
+|
+| {{IPA link|k}}
+|
+|-
+!{{Small|[[Voice (phonetics)|voiced]]}}
+| {{IPA link|b}}
+| {{IPA link|d}}
+|
+| {{IPA link|g}}
+|
+|-
+! rowspan="2" |[[Fricative consonant|Fricative]]
+!{{Small|voiceless}}
+| {{IPA link|f}}
+| {{IPA link|s}}
+|
+|
+| {{IPA link|h}}
+|-
+!{{Small|[[Voice (phonetics)|voiced]]}}
+| {{IPA link|v}}
+|
+|
+| {{IPA link|ɣ}}
+|
+|-
+! colspan="2" |[[Approximant consonant|Approximant]]
+|
+| {{IPA link|l}}
+| {{IPA link|j}}
+| {{IPA link|w}}
+|
+|-
+! colspan="2" |[[Trill consonant|Trill]]
+|
+| {{IPA link|r}}
+|
+|
+|
+|}
+
+===Vowels===
+{| class="wikitable" style="text-align:center"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+| {{IPA link|i}}
+|
+| {{IPA link|u}}
+|-
+![[Close-mid vowel|Close-mid]]
+| {{IPA link|e}}
+|
+| {{IPA link|o}}
+|-
+![[Open vowel|Open]]
+|
+| {{IPA link|a}}
+|
+|}
+
+[[Diphthong]]s are present in Ura, and can be seen in contrast to corresponding vowels. For example, /ne/ meaning ‘water’ compared to /nei/ meaning ‘coconut,’ or /uvo/ meaning ‘still’ compared to /uyou/ meaning ‘old woman’ (Crowley, 1999).
+
+===Syllable structure===
+In the Ura language, 88% of the words contain two to three syllables.  Possible combinations of these [[phonological]] segments include: V, CV, VC, and CVC (where V = vowel and C = consonant). Ura's root-initial segments can contain up to two vowels in a row, with the first vowel being a non-high vowel (/e/, /o/, and /a/), and the second vowel being a high vowel (/i/ and /u/) to make the following combinations: /ei/, /eu/, /oi/, /ou/, /ai/, and /au/. /y/ and /w/ can be followed by any of the five syllables, with the exception of /wu/. In addition, the majority of non-verbal roots begin with consonants, while most verbal roots begin with vowels, with the majority of these being high vowels. On the other hand, root-final segments exclude /v/, /f/, /h/, and /γ/ fricatives as well as consonant clusters from the root-final position. These rules are an example of how Ura is a more restricted language than Sye (Crowley, 1999).
+
+==Grammar==
+===Basic word order===
+Some Ura clauses have no verb constituents and take on the SO [[word order]].
+
+{{interlinear|indent=3
+|Nivan-yau {Hemli Ucai}
+|name-1SG {Hemli Ucai}
+|My name is Hemli Ucai (Crowley, 1999)}}
+
+However, when verbs are present, the basic constituent order for Ura is SV(O).
+
+{{interlinear|indent=3
+|Nomwat y-etu-tevehni
+|Nomwat 3SG:REM-NEG-BR:wait.for:2SG
+|Nomwata did not wait for you (Crowley, 1999).}}
+
+This word order does not change when asking questions. In fact, simple [[interrogative]] expressions may be phrased exactly the same as its declarative version except for a rise in intonation at the end. However, Ura also distinguishes questions by adding ‘’-qu’’ at the end, meaning ‘or,’ which is an abbreviation of ‘’qu davawi’’ meaning “or not” (Crowley, 1999). In addition to this, Ura has a set of interrogative words including ‘’duwa’’ for ‘where?’, ‘’nigei’’ for ‘when?’, ‘’nocwa’’ for ‘how?’, ‘’da’’ for ‘what?’, ‘’wi’’ for ‘who?’, ‘’atu’’ for ‘which?’, and ‘’qiva’’ for ‘how much?, how many?’ (Crowley, 1999). These interrogatives are fairly free in their placement in a sentence, and can be placed either at the beginning or end of an interrogative without changing the meaning.
+
+===Morphemes===
+Ura contains extensive use of [[morphemes]] in terms of pluralizing nouns and pronouns, producing prefixes which derive nouns from verbs, setting locations for nouns, portraying positive or negative connotations, and compounding nouns with other nouns, adjective, or verbs. For example, attaching the suffix ‘’-ye’’ to a noun pluralizes it, as seen in ‘’gimi’’ meaning ‘you’ as compared to ‘’gimi-ye’’ meaning ‘all of you’ (Crowley, 1999). The prefix ‘’-u’’ is added to nouns to set locations for other nouns starting with n- and d-. For example, by adding ‘’–u’’ to ‘’dena’’ meaning ‘ground,’ the word ‘’udena’’ means ‘down, below’ (Crowley, 1999). According to Crowley's other research of Erromangan languages, when comparing this morpheme to Sye, Ura's sister language, it would be expected to find the use of ‘’un-‘’ in the same way ‘’–u’’ is used to set location (Crowley, 1998).
+
+===Reduplication===
+Because evidence of the use of [[reduplication]] exists in limited texts, these resources do not provide enough information to fully explain the extent and range of this morphological device. Though the World Atlas of Language Structures does not include information specifically regarding Ura on its reduplication map, this map presents Erromangan as a language that uses full reduplication (Rubino, 2013). Because Sye also uses complete reduplication (Crowley, 1998) and because of the close contact of these three languages, it is likely that this map is also a representation of Ura.  Available resources suggest that reduplication in Ura is used for at least two occasions. First, it can express repeated actions as seen with ‘’oprei’’ meaning ‘turn’ and its reduplication ‘’opreyoprei’’ meaning ‘turn over and over’. It can also increase emphasis as seen with ‘’laupe’’ meaning ‘long, tall’ and ‘’laupe-laupe’’ meaning ‘very long, very tall’ (Crowley 1999).
+
+===Numerals===
+While explanations regarding Ura's [[counting system]] are not available, it can be deduced that this language uses a 10-base system based on Crowely's (1999) English-Ura finderlist (dictionary).
+
+{| class="wikitable"
+! Ura
+! English
+|-
+|sai || one
+|-
+|qelu || two
+|-
+|qehli || three
+|-
+|lemelu || four
+|-
+|suworem || five
+|-
+|misai || six
+|-
+|sinelu || seven
+|-
+|sinehli || eight
+|-
+|sinivat || nine
+|-
+|durem || ten
+|-
+|durem qelu || twenty
+|}
+
+Numbers eleven through nineteen use the base "durem tapolgiba" and add the one’s place number. For example, sixteen would be written as "durem tapolgiba misai" (Crowley, 1999).
+
+==Vocabulary==
+===Loanwords===
+Oral tradition and documented evidence suggests that Novulamleg and Uravat were linguistic varieties of Ura. However, Novulamleg was reported extinct in the 1870s and Uravat has never been referred to in written literature. Because no linguistic information on their speech forms exists, it is hard to tell if these were two [[dialects]] of Ura or two distinct languages (Crowley, 1999). However, according to Ethnologue, Ura has two sister languages which are Sye and Ifo. Ifo became [[extinct]] when the last speaker died in 1954, but Sye is very much in use today. In fact, many cross-linguistic transfers of features can be found between Sye and Ura, which have similar lexicon, phonology, and structure (Crowley, 1999).
+
+Ura words that are the same in Sye:
+
+* "aragi" - that person
+* "armai" - good
+* "avni" - last	
+* "corevenuwo" - variety of yam
+* "eten" – nephew of woman
+* "isut" – far away, long way off
+
+Ura words that are similar to Sye:
+
+{| class="wikitable"
+!
+!Ura
+!Sye
+|-
+|''flower''
+|dasisi
+|tasisi
+|-
+|''smooth''
+|dasyasye
+|nasyasye
+|-
+|''throw''
+|davagi
+|tavogi
+|-
+|''butcher''
+|davlai
+|tavlai
+|-
+|''wonder''
+|delau
+|telau
+|}
+
+== Endangerment==
+===Physical dangers===
+With only six remaining fluent speakers aged 60–70 years old in the 1990s, Ura is classified as a [[Moribund language|moribund]] language. From the mid nineteenth century to 1931, Erromango's population drastically decreased from 5000-6000 people to only 381 people due to various [[epidemics]], cyclones, and food shortages. As smaller villages combined with other villages, the few remaining Ura speakers were dispersed among the larger Sye speaking population (Crowley, 1999).  Through this intermingling, Ura speakers intermarried with Sye speakers and their offspring spoke the dominant Sye language, causing knowledge erosion as the “speakers slowly [and] steadily forgot their language and became non-fluent speakers” (Geurin & Yourupi, 2010).  However, the number of Ura speakers has always been relatively low according to the first European observations made in the mid nineteenth century. Though Erromango is a relatively large island at 887&nbsp;km<sup>2</sup>, it has one of the lowest population densities in Vanuatu, with only 1.4 people per square kilometer or 0.66% of the population of Vanuatu (Daniel, 2010).  In the 1870s, only one fourth of the total population of the island was recorded to speak Ura (Crowley, 1999). This evidence, along with the fact that the only fluent speakers would now be in their 80s -90s, led Crowley (1999) to conclude that the last shift from Sye to Ura began in 1920, during the population's lowest point, and will continue to shift until the language becomes extinct.
+
+===Materials===
+Ura also suffers from lack of resources. Though radios, TVs, computers, newspapers, and internet are not uncommon in Vanuatu (Daniel 2010), there are very limited materials available about Ura and in the Ura language.  Of all the different types of media, there are only a few websites with minimal information and a small collection of written documentation.  The websites include Wikipedia, Endangeredlanguages.com, Ethnologue, Wals, and OLAC.  The small collection of written work dates from the 1800s - 1900s, and it is likely that these will be the last documentations of the language as the remaining fluent speakers die.  However, the quality of these resources are very detailed and contain a grammatical outline of the Ura language with about 500 [[lexicon]] items, a translation of the Lord's Prayer, detailed phonological and grammatical information, the complete lexical corpus, a collection of short stories in Ura, and some passages from the [[Bible]] (Lewis et al., 2013). William Mete, an Erromangan, recorded and wrote an extensive amount about the Ura language that was unfortunately lost. Luckily, he also tape recorded 200 words pronounced by 3 different speakers (Crowley, 1999); valuable information, especially coming from an Erromangan.
+
+===Intergenerational transfer===
+Even if adequate resources were available to teach the Erromangans, there is little interest in learning phonological and grammatical analysis of Ura. Instead, there is greater interest in recording [[oral history]]. But even the short stories in Ura that contain valuable culture and history are not being transmitted to the younger generations, as evidenced by lack of young speakers (Ura, n.d.).  Part of the reason for this may be related to the restricted and specific domains of use of Ura which include ceremonies, songs, prayers, proverbs, and certain domestic activities (Ura, n.d.).  Because it is not being allowed to adapt to new situations, and because of the limited space for practicing the language, there is little practical use for learning a barely spoken form of communication.
+
+===Further reading===
+*Crowley, Terry (1998). Ura. München : Lincom Europa.
+*Crowley, T. (1999). Ura: a disappearing language of southern Vanuatu. Canberra: Pacific Linguistics, Research School of Pacific and Asian Studies, Australian National University.
+*Daniel, L. (Ed.). (2010). The far east and Australasia 2011 (42nd ed.). London, United Kingdom: Routledge.
+*Guerin V. & Yourupi P. (2012) Language Endangerment. Language in Hawai’i and the Pacific: Class Reader: 69-75.
+*Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (eds.). 2013. Ethnologue: Languages of the World, Seventeenth edition. Dallas, Texas: SIL International.
+*Rubino, C. (2013). Reduplication. The World Atlas of Language Structures Online. Retrieved from http://wals.info 
+*Ura. (n.d.). Endangered Languages online. Retrieved from http://www.endangeredlanguages.com/lang/2446
+
+==References==
+{{Reflist}}
+
+{{Languages of Vanuatu}}
+{{Southern Oceanic languages}}
+{{Austronesian languages}}
+
+[[Category:Languages of Vanuatu]]
+[[Category:South Vanuatu languages]]

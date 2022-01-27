@@ -1,0 +1,1038 @@
+{{short description|Neo-Aramaic dialect}}
+{{About|one of the modern dialect groups spoken by the Assyrian people|similarly named languages|Assyrian language (disambiguation){{!}}Assyrian language|and|Syriac language}}
+{{EngvarB|date=May 2020}}
+{{Use dmy dates|date=June 2020}}
+{{Infobox language
+| name             = Suret
+| altname          = Assyrian Neo-Aramaic<br>Chaldean Neo-Aramaic
+| nativename       = <span dir="rtl">ܣܘܪܝܬ</span>, <span dir="rtl">ܣܘܪܬ</span>  ''Sūreṯ''
+| pronunciation    = [[Help:IPA for Aramaic|[ˈsu:rɪtʰ]]], [[Help:IPA for Aramaic|[ˈsu:rɪθ]]]
+| image            = Suret.png
+| imagecaption     = '''Sūreṯ''' written in Syriac <br>(Madnḥaya script)
+| imagesize        = 150px
+| states           = [[Iran]], [[Iraq]], [[Syria]], [[Turkey]]
+| region           = northern [[Iraq]], northwestern [[Iran]], northeastern [[Syria]], [[Lebanon]], [[Turkey]], [[Armenia]]<ref>[http://www.unesco.org/languages-atlas/index.php?hl=en&page=atlasmap UNESCO Atlas of the World's Languages in Danger]</ref>
+| speakers         = 587,320 (152,000 in Iraq) or 828,930{{cn|date=June 2021}}
+| ref              = <ref name=ethnologue>{{ethnologue23|aii}}</ref>
+| familycolor      = Afro-Asiatic
+| fam2             = [[Semitic languages|Semitic]]
+| fam3             = [[Central Semitic languages|Central Semitic]]
+| fam4             = [[Northwest Semitic languages|Northwest Semitic]]
+| fam5             = [[Aramaic language|Aramaic]]
+| fam6             = [[Eastern Aramaic languages|Eastern Aramaic]]
+| fam7             = [[Northeastern Neo-Aramaic|Northeastern]]
+| ancestor2        = [[Old Aramaic]]
+| ancestor3        = [[Middle Aramaic]]
+| ancestor4        = [[Syriac language]]
+| dialects         = [[Urmia Christian Neo-Aramaic|Urmian]], Iraqi Koine, [[Tyari]], [[Jilu]], [[Nochiya tribe|Nochiya]], [[Nineveh Plains|Nineveh plain]] (Chaldean), [[Barwari]], [[Baz, Turkey|Baz]], Gawar
+| script           = {{startplainlist|class=nowrap}}
+* [[Syriac script|Syriac]]
+| iso3             = syr
+| lc1              = aii
+| ld1              = Assyrian Neo-Aramaic
+| lc2              = cld
+| ld2              = Chaldean Neo-Aramaic
+| glotto           = assy1241
+| glottoname       = Assyrian Neo-Aramaic
+| glotto2          = chal1275
+| glottoname2      = Chaldean Neo-Aramaic
+<!-- | ELP = 10770 
+| ELPname = Assyrian Neo-Aramaic -->
+| notice           = IPA
+| minority         = {{flag|Iraq}} (Recognized language and a constitutional right to educate in the [[First language#Mother tongue|mother tongue language]])<ref name="Iraq's constitution">{{cite web|url=https://www.constituteproject.org/constitution/Iraq_2005.pdf?lang=en|title=Iraq's Constitution of 2005|language=en|date=1 February 2019|access-date=16 July 2019|website=constituteproject.org}}</ref><ref name="Iraqi constitution">[http://www.turkmen.nl/1A_Others/minority-Iraq.pdf The Comprehensive Policy to Manage the Ethnic Languages in Iraq (CPMEL)]</ref><br>{{flag|Kurdistan Region}} (Recognized educational language of a national minority)<ref name="Constitution of the Iraqi Kurdistan">{{cite web |title=Kurdistan: Constitution of the Iraqi Kurdistan Region |url=https://unpo.org/article/538?id=538 |access-date=14 April 2019}}</ref>
+| module           = {{Listen|embed = yes|filename=Assyriansample.ogg|title=Spoken Assyrian Neo-Aramaic| type = speech| description= The Urmi dialect, spoken by TV presenter Maryam Shamalta. |format=[[Ogg]]}}
+}}
+
+'''Suret''' or '''Sureth''' ({{lang|aii|ܣܘܪܝܬ}} or {{lang|aii|ܣܘܪܬ}}<ref>{{cite book|last=Maclean|first=Arthur John|author-link1=Arthur Maclean|date=1901|title=Dictionary of the Dialects of Vernacular Syriac|url=https://archive.org/details/adictionarydial00unkngoog/page/n9/mode/1up|location=Oxford|publisher=Clarendon Press|page=223b}}</ref><ref name=ethnologue/><ref>{{cite web|url=https://glosbe.com/aii/en/ܣܘܪܬ |title=ܣܘܪܬ in English |website= Glosbe - the multilingual online dictionary |access-date=2019-07-21}}</ref> [[Help:IPA for Aramaic|[ˈsu:rɪtʰ]]], [[Help:IPA for Aramaic|[ˈsu:rɪθ]]]), also known as '''Syriac''', '''Assyrian''',<ref>{{cite book |last1=McClure |first1=Erica |title=Codeswitching Worldwide |date=2001 |publisher=De Gruyter Mouton |isbn=978-3-11-080874-2 |language=en |chapter=Oral and written Assyrian-English codeswitching}}</ref> or '''Chaldean''',<ref>{{cite book |last1=Sara |first1=Solomon I. |title=A Description of Modern Chaldean |date=1974 |publisher=De Gruyter Mouton |isbn=978-3-11-081202-2 |page=12 |language=en}}</ref> refers to the varieties of [[Northeastern Neo-Aramaic]] (NENA) spoken by [[Christianity in the Middle East|Christian communities in the Middle East]], primarily the Arameans, [[Assyrian people|Assyrians]] and [[Chaldean Catholics]].<ref>{{cite book |last1=Talay |first1=Shabo |title=Bridging the Tigris: Common features in Turoyo and North-eastern Neo-Aramaic |date=2009 |publisher=Gorgias Press |isbn=978-1-4632-1660-3 |url=https://www.degruyter.com/document/doi/10.31826/9781463216603-012/html |language=en|quote=the majority of the Christian NENA speakers belong to the Eastern Syriac Churches, who are called Assyrians and Chaldeans.}}</ref><ref name="Nordhoff, Sebastian 2013">Nordhoff, Sebastian; Hammarström, Harald; Forkel, Robert; Haspelmath, Martin, eds. (2013). "Northeastern Neo-Aramaic". Glottolog 2.2. Leipzig: Max Planck Institute for Evolutionary Anthropology.</ref><ref>Blench, 2006. The Afro-Asiatic Languages: Classification and Reference List</ref> The various NENA dialects descend from [[Old Aramaic]], the ''[[lingua franca]]'' in the later phase of the [[Assyrian Empire]], which slowly displaced the [[East Semitic]] [[Akkadian language]] beginning around the 10th century BC.{{sfn|Beyer|1986|p=44}}<ref name="Bae, C 2004">Bae, C. Aramaic as a Lingua Franca During the Persian Empire (538-333 BCE). Journal of Universal Language. March 2004, 1-20.</ref> They have been further heavily influenced by [[Classical Syriac]], the [[Middle Aramaic]] dialect of [[Edessa]], after its adoption as an official [[liturgical language]] of the [[Syriac Christianity|Syriac churches]], but Suret is not a direct descendant of Classical Syriac.<ref>{{cite journal |last1=Fox |first1=Samuel Ethan |title=The Relationships of the Eastern Neo-Aramaic Dialects |journal=Journal of the American Oriental Society |date=1994 |volume=114 |issue=2 |pages=154–162 |doi=10.2307/605827 |url=https://www.jstor.org/stable/605827?seq=1#metadata_info_tab_contents |issn=0003-0279}}</ref>
+
+Suret speakers are native to [[Upper Mesopotamia]], northwestern [[Iran]], southeastern [[Anatolia]] and the northeastern [[Levant]], which is a large region stretching from the plain of [[Urmia]] in northwestern [[Iran]] through to the [[Erbil Governorate|Erbil]], [[Kirkuk Governorate|Kirkuk]] and [[Dohuk Governorate|Duhok]] regions in northern [[Iraq]], together with the northern regions of [[Syria]] and to southcentral and southeastern [[Turkey]].<ref name="Maclean 1895">[[Arthur John Maclean|Maclean, Arthur John]] (1895). ''Grammar of the dialects of vernacular Syriac: as spoken by the Eastern Syrians of Kurdistan, north-west Persia, and the Plain of Mosul: with notices of the vernacular of the Jews of Azerbaijan and of Zakhu near Mosul''. Cambridge University Press, London.</ref> Instability throughout the Middle East over the past century has led to a [[Assyrian–Chaldean–Syriac diaspora|worldwide diaspora of Suret speakers]], with most speakers now living abroad in such places as North and South America, Australia, Europe and Russia.<ref>Assyrians After Assyria, Parpola</ref> Speakers of Assyrian and [[Turoyo language|Turoyo]] are ethnic Assyrians and are the descendants of the ancient inhabitants of Mesopotamia.<ref>The Fihrist (Catalog): A Tench Century Survey of Islamic Culture. Abu 'l Faraj Muhammad ibn Ishaq al Nadim. Great Books of the Islamic World, Kazi Publications. Translator: Bayard Dodge.</ref><ref>From a lecture by J. A. Brinkman: "There is no reason to believe that there would be no racial or cultural continuity in Assyria, since there is no evidence that the population of Assyria was removed." Quoted in Efrem Yildiz's "The Assyrians" Journal of Assyrian Academic Studies, 13.1, pp. 22, ref 24</ref><ref>Especially in view of the very early establishment of Christianity in Assyria and its continuity to the present and the continuity of the population, I think there is every likelihood that ancient Assyrians are among the ancestors of modern Assyrians of the area." Biggs, pp. 10</ref>
+
+[[SIL International|SIL]] distinguishes between Chaldean and Assyrian as varieties of Suret on non-[[Linguistics|linguistic]] grounds.<ref>{{Cite book|last=Salminen|first=Tapani|url=https://books.google.com/books?id=kFVthqmDs_kC&q=Chaldean|title=Atlas of the World's Languages in Danger|publisher=[[UNESCO|UNESCO Publishing]]|year=2010|isbn=9789231040962|editor-last=Moseley|editor-first=Christopher|edition=3rd|location=Paris|pages=41|chapter=Europe and the Caucasus|quote=. . . Suret (divided by SIL on non-linguistic grounds into Assyrian Neo-Aramaic and Chaldean Neo-Aramaic) . . .}}</ref> Suret is the largest extant Syriac-Aramaic language (828,930 speakers), with Turoyo (103,300 speakers) making up most of the remaining Syriac-Aramaic speakers.<ref>{{cite book |last=Wilken |first=Robert Louis |title=The First Thousand Years: A Global History of Christianity |publisher=Yale University Press |location=New Haven and London |isbn=978-0-300-11884-1 |page=26|date=2012-11-27 }}</ref> Suret is mutually intelligible with some NENA dialects spoken by Jews, especially in the western part of its historical extent.<ref>{{cite journal |last1=Kim |first1=Ronald |title="Stammbaum" or Continuum? The Subgrouping of Modern Aramaic Dialects Reconsidered |journal=Journal of the American Oriental Society |date=2008 |volume=128 |issue=3 |pages=525 |url=https://www.jstor.org/stable/25608409?seq=21#metadata_info_tab_contents |issn=0003-0279}}</ref> Its mutual intelligibility with Turoyo is partial and asymmetrical, but more significant in written form.<ref>Tezel, Aziz (2003). ''Comparative Etymological Studies in the Western Neo-Syriac (Ṭūrōyo) Lexicon: with special reference to homonyms, related words and borrowings with cultural signification''. Uppsala Universitet. {{ISBN|91-554-5555-7}}.</ref><ref name="Khan 2008, pp. 6">Khan 2008, pp. 6</ref>
+
+Suret is a moderately-[[inflection|inflected]], [[fusional language]] with a two-[[grammatical gender|gender]] noun system and rather flexible [[word order]].<ref name="Khan 2008, pp. 6">Khan 2008, pp. 6</ref> There is some [[Akkadian language|Akkadian]] influence on the language.<ref name=":Khan 2007">{{Cite journal|last=Khan|first=Geoffrey|author-link=Geoffrey Khan|year=2007|editor1-last=Postgate|editor1-first=J.N.|title=Aramaic, Medieval and Modern|issue=Languages of Iraq: Ancient and Modern|url=http://www.bisi.ac.uk/sites/bisi.localhost/files/languages_of_iraq.pdf|journal=[[British Institute for the Study of Iraq|British School of Archaeology in Iraq]]|location=Cambridge|publisher=Cambridge University Press|page=110|isbn=978-0-903472-21-0}}</ref> In its native region, speakers may use [[Iranian languages|Iranian]], [[Turkic languages|Turkic]] and [[Arabic]] loanwords, while diaspora communities may use loanwords borrowed from the languages of their respective countries. Suret is written from [[right-to-left]] and it uses the ''Madnḥāyā'' version of the [[Syriac alphabet]].<ref>The Nestorians and their Rituals; George Percy Badger.</ref><ref>A Short History of Syriac Christianity; W. Stewart McCullough.</ref> Suret, alongside other modern Aramaic languages, is now considered [[endangered language|endangered]], as newer generation of Assyrians tend to [[Language attrition|not acquire the full language]], mainly due to emigration and acculturation into their new resident countries.<ref>{{cite journal|last=Naby|first=Eden|publisher=Assyrian International News Agency|title=From Lingua Franca to Endangered Language}}</ref>
+
+== History ==
+[[File:Funerary stele - Neirab - Louvre AO 3027.JPG|thumb|180px|left|One of the [[Neirab steles]]; [[Aramaic alphabet|Aramaic]] inscriptions found in [[Neirab]], Syria (5th century BC).]]
+
+[[Akkadian language|Akkadian]] and Syrian-Aramaic have been in extensive contact since their old periods. Local unwritten Syrian-Aramaic dialects emerged from [[Imperial Aramaic]] in [[Assyria]]. In around 700 BC, Syrian-Aramaic slowly started to replace Akkadian in Assyria, Babylonia and the [[Levant]]. Widespread bilingualism among Assyrian nationals was already present prior to the fall of the Empire.<ref name="Simo Parpola Assyrian Identity in Ancient Times and Today">{{cite journal|author=Parpola, Simo |year=2004 |title=National and Ethnic Identity in the Neo-Assyrian Empire and Assyrian Identity in Post-Empire Times |journal=Journal of Assyrian Academic Studies|volume=18|issue=2|publisher=JAAS|url=http://www.jaas.org/edocs/v18n2/Parpola-identity_Article%20-Final.pdf|url-status=dead|archive-url=https://web.archive.org/web/20110717071922/http://www.jaas.org/edocs/v18n2/Parpola-identity_Article%20-Final.pdf|archive-date=2011-07-17|author-link=Simo Parpola }}</ref> The language transition was achievable because the two languages featured similarities in grammar and vocabulary, and because the 22-lettered Aramaic alphabet was simpler to learn than the [[Akkadian cuneiform]] which had over 600 signs.<ref>{{cite journal |title = The impact of Israeli Hebrew on the Neo-Aramaic dialect of the Kurdish Jews of Zakho: a case of language shift|journal=[[Hebrew Union College Annual]]|number=46 |last = Sabar |first = Yona |author-link=Yona Sabar |year = 1975 |pages=489–508}}
+*{{cite book |title = A Jewish Neo-Aramaic Dictionary |last = Sabar |first = Yona |author-link = Yona Sabar |year = 2002 |publisher = Harrassowitz |isbn = 978-3-447-04557-5 |url-access = registration |url = https://archive.org/details/jewishneoaramaic00saba }}</ref> The converging process that took place between Assyrian Akkadian and Aramaic across all aspects of both languages and societies is known as ''Aramaic-Assyrian symbiosis''.<ref>{{Cite book |title=Aramaic in its Historical and Linguistic Setting |author=Gzella, Holger |author2=Folmer, M. L. |date=2008 |publisher=Harrassowitz |isbn=9783447057875 |oclc=938036352}}</ref>
+
+Introduced as the official language of the [[Assyrian Empire]] by [[Tiglath-Pileser III]] (745–727{{nbsp}}BC), it became the language of commerce and trade, the [[vernacular language]] of Assyria in the late [[Iron Age]] and [[classical antiquity]],<ref>{{cite web|url=http://www.lightofword.org/aramaic/pdf/Introduction.pdf |title=Microsoft Word - PeshittaNewTestament.doc |access-date=2008-11-16 |archive-url=https://web.archive.org/web/20081202005322/http://www.lightofword.org/aramaic/pdf/Introduction.pdf |archive-date=2 December 2008 |url-status=dead }}</ref><ref name="imperial aramaic">[https://www.jstor.org/stable/2718444 Aramaic Documents of the Fifth Century B. C. by G. R. Driver]</ref><ref name="The British Survey 1968, page 3">The British Survey, By British Society for International Understanding, 1968, page 3</ref> and the [[lingua franca]] of the [[Neo-Assyrian Empire]] (911–605 BC), [[Neo-Babylonian Empire]] (605–539 BC), the [[Achaemenid Empire]] (539–323 BC), the [[Parthian Empire]] (247 BC–224 AD) and the [[Sasanian Empire]] (224–651 AD). Following the [[Achaemenid Assyria|Achaemenid]] conquest of Assyria under [[Darius I]], the Syrian-Aramaic language was adopted as the "vehicle for written communication between the different regions of the vast empire with its different peoples and languages". After the conquest of Assyria by the [[Seleucid Empire]] in the late 4th century BC, Imperial Aramaic gradually lost its status as an imperial language, but continued to flourish alongside [[Ancient Greek language|Ancient Greek]].<ref>{{cite book|last=Drijvers|first=H. J. W.|title=Cults and beliefs at Edessa|year=1980|publisher=Brill Archive|isbn=978-90-04-06050-0|page=1|url=https://books.google.com/books?id=69YUAAAAIAAJ&pg=PA1}}</ref>
+[[File:Syriac Sertâ book script.jpg|thumb|250px|An 11th-century [[Syriac language|Classical Syriac]] [[manuscript]], written in ''Serto'' script.]]
+By the 1st century AD, Akkadian was extinct, though vocabulary and grammatical features still survive in modern NENA dialects.<ref name="Kaufman">Kaufman, Stephen A. (1974),The Akkadian influences on Aramaic. University of Chicago Press</ref> The [[Neo-Aramaic languages]] evolved from [[Aramaic language#Middle Aramaic|Middle Syrian-Aramaic]] by the 13th century.<ref name="Iranica">{{cite encyclopedia|encyclopedia=Encyclopedia Iranica|volume=2|year=1987|title=Aramaic<!-- pp:250-261 --><!-- section:Aramaic in the Achaemenid Empire pp:251/252-->|last=Shaked|first=Saul|publisher=Routledge & Kegan Paul|location=New York|pages=250–261}} p. 251</ref><ref>{{cite journal|last1=Frye|first1=Richard N.|title=Review of G. R. Driver's "Aramaic Documents of the Fifth Century B. C."|journal=Harvard Journal of Asiatic Studies|volume=18|issue=3/4|year=1955|pages=456–461|doi=10.2307/2718444|last2=Driver|first2=G. R.|jstor=2718444}} p. 457.</ref> There is evidence that the drive for the adoption of Syriac was led by missionaries. Much literary effort was put into the production of an authoritative translation of the [[Bible]] into Syriac, the [[Peshitta]] ({{lang|syr|ܦܫܝܛܬܐ}}, ''{{transl|syr|Pšīṭtā}}''). At the same time, [[Ephrem the Syrian]] was producing the most treasured collection of poetry and theology in the Classical Syriac language.
+
+By the 3rd century AD, churches in [[Edessa|Urhay]] in the kingdom of [[Osroene]] began to use Classical Syriac as the language of worship and it became the literary and liturgical language of many churches in the [[Fertile Crescent]]. Syriac was the common tongue of the region, where it was the native language of the Fertile Crescent, surrounding areas, as well as in parts of [[Eastern Arabia]]. It was the dominant language until 900 AD, till it was supplanted by Greek and later Arabic in a centuries-long process having begun in the [[Early Muslim conquests|Arab conquests]].<ref>{{Cite book|title=Humanism, Culture, and Language in the Near East : Studies in Honor of Georg Krotkoff|date=1997|publisher=Eisenbrauns |editor=Krotkoff, Georg. |editor2=Afsaruddin, Asma |editor3=Zahniser, A. H. Mathias |isbn=9781575065083|location=Winona Lake, Ind.|oclc=747412055}}</ref>
+[[File:Assyrian Gospel 1.jpg|thumb|An 18th-century gospel Book from the [[Urmia]] region of [[Iran]].]]
+The differences with the [[Church of the East]] led to the bitter [[Nestorian schism]] in the Syriac-speaking world. As a result of the schism as well as being split between living in the [[Byzantine Empire]] in the west and the [[Sasanian Empire]] in the east, Syrian-Aramaic developed distinctive [[Turoyo language|Western]] and Eastern varieties. Although remaining a single language with a high level of comprehension between the varieties, the two employ distinctive variations in pronunciation and writing systems and, to a lesser degree, in vocabulary and grammar. During the course of the third and fourth centuries AD, the inhabitants of the region began to embrace Christianity. Because of theological differences, Syriac-speaking Christians bifurcated during the 5th century into the [[Church of the East]], or [[East Syrian Rite|East Syrian]]s under Sasanian rule, and the [[Syriac Orthodox]], or [[West Syrian Rite|West Syrian]]s under the [[Byzantine empire]]. After this separation, the two groups developed distinct dialects differing primarily in the pronunciation and written symbolisation of [[vowel]]s.{{sfn|Beyer|1986|p=44}}<ref name="Bae, C 2004"/>
+
+[[File:Syriac Christianity.svg|thumb|right|295px|alt=The distribution of the Syriac language in the Middle East and Asia|Post 2010, in [[Iraq]], Chaldean Neo-Aramaic is mainly spoken in the [[Nineveh Plains]] and the cities around [[Mosul]], [[Duhok]], [[Erbil]] and [[Kirkuk]] (magenta).]]
+The [[Mongol]] invasions of the 13th century and the religiously motivated massacres of [[Assyrian people|Assyrians]] by [[Timur|Tamurlane]] further contributed to the rapid decline of the language. In many places outside of northern Mesopotamia (the [[Assyrian homeland]]), even in [[sacred language|liturgy]], the language was replaced by [[Arabic]].<ref>Bird, Isabella, ''Journeys in Persia and Kurdistan, including a summer in the Upper Karun region and a visit to the Nestorian rayahs'', London: J. Murray, 1891, vol. ii, pp. 282 and 306</ref> "Modern Syriac Aramaic" is a term occasionally used to refer to the modern [[Neo-Aramaic languages]] spoken by Christians, including Suret. Even if they cannot be positively identified as the direct descendants of [[Attested language|attested]] Middle Syriac, they must have developed from closely related dialects belonging to the same branch of Aramaic, and the varieties spoken in Christian communities have long co-existed with and been influenced by Middle Syriac as a liturgical and literary language. Moreover, the name "Syriac", when used with no qualification, generally refers to one specific dialect of Middle Aramaic but not to Old Aramaic or to the various present-day Eastern and [[Central Neo-Aramaic]] languages descended from it or from close relatives.<ref name=lipinski>{{cite book|last=Lipiński|first=Edward Lipiński|author-link=Edward Lipiński|title=Semitic Languages: Outline of a Comparative Grammar|url=https://books.google.com/books?id=IiXVqyEkPKcC|year=2001|publisher=Peeters Publishers|isbn=978-90-429-0815-4|page=70}}</ref>
+
+In 2004, the ''Constitution of the Iraqi Kurdistan Region'' recognised Syriac in article 7, section four, stating, "Syriac shall be the language of education and culture for those who speak it in addition to the Kurdish language."<ref name="Constitution of the Iraqi Kurdistan"/> In 2005, the [[Iraqi constitution]] recognised it as one of the "official languages in the administrative units in which they constitute density of population" in article 4, section four.<ref name="Iraqi constitution"/><ref name="Iraq's constitution"/>
+
+==Script==
+{{main|Syriac alphabet}}
+
+===History===
+{{See also|Aramaic alphabet}}
+[[File:Syriac papyri.jpg|thumb|150px|[[Papyrus]] fragment of the 9th century written in [[Syriac alphabet#West Syriac Serṭā|Serto]] variant. A passage from the [[Acts of the Apostles]] is recognizable.]]
+The original [[Mesopotamia]]n writing system, believed to be the world's oldest, was derived around 3600 BC from this method of keeping accounts. By the end of the 4th millennium BC, the Mesopotamians were using a triangular-shaped stylus made from a reed pressed into soft clay to record numbers.<ref>Odisho, Edward Y. (2001). „ADM’s educational policy: A serious project of Assyrian language maintenance and revitalization “, Journal of Assyrian Academic Studies, Xv/1:3–31.</ref> Around 2700 BC, [[cuneiform]] began to represent syllables of spoken [[Sumerian language|Sumerian]], a [[language isolate]] genetically unrelated to the [[Semitic languages|Semitic]] and [[Indo-Iranian languages]] that it neighboured. About that time, Mesopotamian cuneiform became a general purpose writing system for [[logogram]]s, [[syllable]]s and numbers. This script was adapted to another Mesopotamian language, the [[East Semitic]] [[Akkadian language|Akkadian]] ([[Old Assyrian period|Assyrian]] and [[Babylonia]]n) around 2600 BC.
+
+With the adoption of [[Aramaic language|Aramaic]] as the ''[[lingua franca]]'' of the [[Neo-Assyrian Empire]] (911–609{{nbsp}}BC), Old Aramaic was also adapted to Mesopotamian cuneiform. The last cuneiform scripts in Akkadian discovered thus far date from the 1st century AD.<ref>The Origin and Development of the Cuneiform System of Writing, Samuel Noah Kramer, ''Thirty Nine Firsts in Recorded History'' pp. 381–383</ref> Various bronze lion-weights found in [[Nineveh]] featured both the Akkadian and Aramaic text etched on them, bearing the names of [[Assyrian kings]], such as [[Shalmaneser III]] (858-824 B.C), [[Sargon II|King Sargon]] (721-705 B.C) and [[Sennacherib]] (704-681 B.C). Indication of contemporaneous existence of the two languages in 4th century B.C. is present in an Aramaic document from [[Uruk]] written in cuneiform. In [[Babylon]], Akkadian writing vanished by 140 B.C, with the exclusion of a few priests who used it for religious matters. Though it still continued to be employed for astronomical texts up until the [[common era]].<ref>"State Archives of Assyria, Volume III: Court Poetry and Literary Miscellanea", by Alasdair Livingstone, [[Helsinki University]] Press.</ref>
+
+The Syriac script is a [[writing system]] primarily used to write the [[Syriac language]] from the 1st century AD.<ref>{{cite encyclopedia |url=http://www.britannica.com/EBchecked/topic/578972/Syriac-alphabet | title=Syriac alphabet | encyclopedia=Encyclopædia Britannica Online | access-date=16 June 2012}}</ref> It is one of the [[Semitic languages|Semitic]] [[abjad]]s directly descending from the [[Aramaic alphabet]] and shares similarities with the [[Phoenician alphabet|Phoenician]], [[Hebrew alphabet|Hebrew]], [[Arabic alphabet|Arabic]] and the traditional [[Mongolian script|Mongolian alphabet]]s. The alphabet consists of 22 letters, all of which are consonants. It is a [[cursive]] script where some, but not all, letters connect within a word.<ref>Pennacchietti, Fabrizio A. (1997). „On the etymology of the Neo-Aramaic particle qam/kim; in Hebrew“, M. Bar-Aher (ed.): Gideon Goldenberg Festschrift, Massorot, Stud</ref> Aramaic writing has been found as far north as [[Hadrians Wall]] in [[Ancient Britain]], in the form of inscriptions in Aramaic, made by Assyrian soldiers serving in the [[Roman Legions]] in northern England during the 2nd{{nbsp}}century AD.<ref>{{Cite news | url=https://www.theguardian.com/culture/charlottehigginsblog/2009/oct/13/hadrians-wall |title = When Syrians, Algerians and Iraqis patrolled Hadrian's Wall &#124; Charlotte Higgins|newspaper = The Guardian|date = 2009-10-13|last1 = Higgins|first1 = Charlotte}}</ref>
+
+===Modern development===
+[[File:East Syriac Script Thaksa.jpg|thumb|left|250px|Classical Syriac written in ''Madnhāyā'' script. [[Thrissur]], [[India]], 1799.]]
+The oldest and classical form of the alphabet is ''{{transl|sem|ʾEsṭrangēlā}}'' ({{lang|syr|ܐܣܛܪܢܓܠܐ}}); the name is thought to derive from the Greek adjective {{lang|grc|στρογγύλη}} (''strongúlē'') 'round'.<ref>[[William Hatch (theologian)|Hatch, William]] (1946). ''An album of dated Syriac manuscripts''. Boston: The American Academy of Arts and Sciences, reprinted in 2002 by Gorgias Press. p. 24. {{ISBN|1-931956-53-7}}.</ref><ref>[[Eberhard Nestle|Nestle, Eberhard]] (1888). ''Syrische Grammatik mit Litteratur, Chrestomathie und Glossar''. Berlin: H. Reuther's Verlagsbuchhandlung. [translated to English as ''Syriac grammar with bibliography, chrestomathy and glossary'', by R. S. Kennedy. London: Williams & Norgate 1889. p. 5].</ref> Although ʾEsṭrangēlā is no longer used as the main script for writing Syriac, it has undergone some revival since the 10th century.
+
+When [[Arabic]] gradually began to be the dominant spoken language in the [[Fertile Crescent]] after the 7th century AD, texts were often written in Arabic with the Syriac script. [[Malayalam]] was also written with Syriac script and was called [[Suriyani Malayalam]]. Such non-Syriac languages written in Syriac script are called ''[[Garshuni]]'' or ''Karshuni''.
+
+The ''Madnhāyā'', or 'eastern', version formed as a form of shorthand developed from ʾEsṭrangēlā and progressed further as handwriting patterns changed. The ''Madnhāyā'' version also possesses optional vowel markings to help pronounce Syriac. Other names for the script include ''{{transl|sem|Swāḏāyā}}'', 'conversational', often translated as "contemporary", reflecting its use in writing modern Neo-Aramaic.
+
+[[File:6thBeatitude.svg|thumb|400px|center|The sixth [[Beatitudes|beatitude]] ([[Matthew 5:8]]) in Classical Syriac from the Peshitta (in ''Madnhāyā''):<br>{{Script/Mdnh|ܛܘܼܒܲܝܗܘܿܢ ܠܐܲܝܠܹܝܢ ܕܲܕ݂ܟܹܝܢ ܒܠܸܒ̇ܗܘܿܢ: ܕܗܸܢ݂ܘܿܢ ܢܸܚܙܘܿܢ ܠܐܲܠܵܗܵܐ܂}}<br>''{{transl|syc|Ṭūḇayhōn l-ʾaylên da-ḏḵên b-lebbhōn, d-hennōn neḥzon l-ʾǎlāhā}}.''<br>In the Neo-Aramaic of the Urmi Bible of 1893, this is rendered as:<br>{{Script/Mdnh|ܛܘܼܒ̣ܵܐ ܠܐܵܢܝܼ ܕܝܼܢܵܐ ܕܸܟ̣ܝܹ̈ܐ ܒܠܸܒܵܐ: ܣܵܒܵܒ ܕܐܵܢܝܼ ܒܸܬ ܚܵܙܝܼ ܠܐܲܠܵܗܵܐ.}}<br>''{{transl|syr|Ṭūḇā l-ʾānī d-ʾīnā diḵyē b-libbā, sābāb d-ʾānī bit xāzī l-ʾalāhā}}.''<br>'Blessed are the pure in heart, for they shall see God.']]
+
+===Letters===
+{{Syriac alphabet}}
+Three letters act as [[Mater lectionis|matres lectionis]]: rather than being a consonant, they indicate a vowel. ''[[Aleph (letter)|ʾĀlep̄]]'' ({{lang|syr|ܐ}}), the first letter, represents a [[glottal stop]], but it can also indicate the presence of certain vowels (typically at the beginning or the end of a word, but also in the middle). The letter ''[[Waw (letter)|Waw]]'' ({{lang|syr|ܘ}}) is the consonant ''w'', but can also represent the vowels ''o'' and ''u''. Likewise, the letter {{Nowrap|''[[Yodh|Yōḏ]]'' ({{lang|syr|ܝ}})}} represents the consonant ''y'', but it also stands for the vowels ''i'' and ''e''. In addition to foreign sounds, a marking system is used to distinguish ''{{transl|sem|qūššāyā}}'', 'hard' letters) from ''{{transl|sem|rūkkāḵā}}'', 'soft' letters). The letters ''Bēṯ'', ''Gāmal'', ''Dālaṯ'', ''Kāp̄'', ''Pē'' and ''Taw'', all [[plosives]] ('hard'), are able to be [[spirantization|spirantised]] into [[fricative]]s ('soft').
+
+The system involves placing a single dot underneath the letter to give its 'soft' variant and a dot above the letter to give its 'hard' variant (though, in modern usage, no mark at all is usually used to indicate the 'hard' value).
+
+===Latin alphabet===
+{{further|Syriac alphabet#Latin alphabet and romanization}}
+In the 1930s, following the state policy for minority languages of the [[Soviet Union]], a [[Latin alphabet]] was developed and some material published.<ref>[https://www.loc.gov/catdir/cpso/romanization/syriac.pdf Syriac Romanization Table]</ref>{{sfn|Brock|1989|p=11–23}} Despite the fact that this innovation did not displace the Syriac script, the usage of the Latin script in the Assyrian community has become rather widespread due to the [[Assyrian diaspora]]'s predominant settlement in [[Europe]] and the [[Anglophone world]], where the Latin script dominates.<ref>{{cite journal |language = de |title = Neusyrisches in Lateinschrift aus der Sowjetunion|journal=[[Zeitschrift der Deutschen Morgenländischen Gesellschaft]]|number=109 |last = Friedrich |first = Johannes |author-link=Johannes Friedrich (linguist) |year = 1959 |pages=50–81 |url=http://menadoc.bibliothek.uni-halle.de/dmg/periodical/titleinfo/94045}}</ref> The Latin alphabet is preferred by most Assyrians for practical reasons and its convenience, especially in [[social media]], where it is used to communicate. Although the Syriac Latin alphabet contains [[diacritics]], most Assyrians rarely utilise the modified letters and would conveniently rely on the [[ISO basic Latin alphabet|basic Latin alphabet]]. The Latin alphabet is also a useful tool to present Assyrian terminology to anyone who is not familiar with the Syriac script. A precise [[Transcription (linguistics)|transcription]] may not be necessary for native Suret speakers, as they would be able to pronounce words correctly, but it can be very helpful for those not quite familiar with Syriac and more informed with the Latin script.<ref>{{cite journal |title = Studies in Modern Syriac |journal = [[Journal of Semitic Studies]] |volume = 6 |number = 1 |last = Polotsky |first = Hans Jakob |author-link = Hans Jakob Polotsky |year = 1961 |pages=1–32|doi = 10.1093/jss/6.1.1 }}</ref>
+
+==Phonology==
+
+=== Consonants ===
+
+{|class="wikitable" style=text-align:center
+|+Consonant inventory<ref>{{Cite book|last=Hertzron|first=Robert|title=The Semitic Languages|publisher=Routledge|year=1997|pages=348-352}}</ref><ref name=":3" /><ref name="Harrassowitz" />
+|-
+!rowspan=2 colspan=2|
+!rowspan=2 colspan=2| [[Labial consonant|Labial]]
+!colspan=4| [[Dental consonant|Dental]]/<br>[[Alveolar consonant|Alveolar]]
+! colspan="2" rowspan="2" | [[Palatal consonant|Palatal]]
+!rowspan=2 colspan=2| [[Velar consonant|Velar]]
+!rowspan=2 colspan=2| [[Uvular consonant|Uvular]]
+!rowspan=2 colspan=2| [[Pharyngeal consonant|Pharyn-<br>geal]]
+!rowspan=2 colspan=2| [[Glottal consonant|Glottal]]
+|-
+!colspan=2| <small>plain</small>
+!colspan=2| <small>[[Pharyngealization|emp.]]</small>
+|-
+!colspan="2"| [[Nasal consonant|Nasal]]
+|style="border-right: 0;"| ||style="border-left: 0;"|{{IPA link|m}}
+|style="border-right: 0;"| ||style="border-left: 0;"|{{IPA link|n}}
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|-
+! rowspan="2" | [[Stop consonant|Stop]]
+!<small>plain</small>
+|style="border-right: 0;"|{{IPA link|p}}||style="border-left: 0;"|{{IPA link|b}}
+|style="border-right: 0;"|{{IPA link|t}}||style="border-left: 0;"|{{IPA link|d}}
+|style="border-right: 0;"|{{IPA link|tˤ}}||style="border-left: 0;"|
+|style="border-right: 0;"|({{IPA link|c}}|| style="border-left: 0;"|{{IPA link|ɟ}})
+|style="border-right: 0;"|{{IPA link|k}}||style="border-left: 0;"|{{IPA link|ɡ}}
+|style="border-right: 0;"|{{IPA link|q}}||style="border-left: 0;"|
+|colspan=2|
+|style="border-right: 0;"|{{IPA link|ʔ}}|| style="border-left: 0;"|
+|-
+!<small>[[Aspirated consonant|aspirated]]</small>
+|style="border-right: 0;"|{{IPA link|pʰ}}||style="border-left: 0;"|
+|style="border-right: 0;"|{{IPA link|tʰ}}||style="border-left: 0;"|
+|colspan=2|
+|style="border-right: 0;"|({{IPA link|cʰ}})||style="border-left: 0;"|
+|style="border-right: 0;"|{{IPA link|kʰ}}||style="border-left: 0;"|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|-
+! rowspan="2" |[[Affricate consonant|Affricate]]
+!<small>plain</small>
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| style="border-right: 0;"|{{IPA link|tʃ}}|| style="border-left: 0;" |{{IPA link|dʒ}}
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|-
+!<small>[[Aspirated consonant|aspirated]]</small>
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| style="border-right: 0;"|{{IPA link|tʃʰ}}||style="border-left: 0;"|
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+| colspan="2" |
+|-
+!rowspan="2"| [[Fricative consonant|Fricative]]
+! <small>[[sibilant]]</small>
+|colspan=2|
+|style="border-right: 0;"|{{IPA link|s}}||style="border-left: 0;"|{{IPA link|z}}
+|style="border-right: 0;"|{{IPA link|sˤ}}||style="border-left: 0;"|
+|style="border-right: 0;"|{{IPA link|ʃ}}||style="border-left: 0;"|{{IPA link|ʒ}}
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|-
+! <small>non-sibilant</small>
+|style="border-right: 0;"|({{IPA link|f}}||style="border-left: 0;"|{{IPA link|v}})
+|style="border-right: 0;"|({{IPA link|θ}}||style="border-left: 0;"|{{IPA link|ð}})
+|colspan=2|
+|colspan=2|
+|colspan="2" style="border-right: 0;"|{{IPA link|x}}|| colspan="2" style="border-left: 0;"|{{IPA link|ɣ}}
+|style="border-right: 0;"| ({{IPA link|ħ}}
+| style="border-left: 0;" |{{IPA link|ʕ}})
+|style="border-right: 0;"|{{IPA link|h}}||style="border-left: 0;"|
+|-
+! colspan="2" | [[Approximant consonant|Approximant]]
+| style="border-right: 0;"| ||style="border-left: 0;" |{{IPA link|w}}
+| style="border-right: 0;"| ||style="border-left: 0;" |{{IPA link|l}}
+| colspan=2|
+| style="border-right: 0;"| ||style="border-left: 0;" |{{IPA link|j}}
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| colspan=2|
+|-
+!colspan="2"| [[Trill consonant|Trill]]/[[Tap and flap consonants|Tap]]
+|colspan=2|
+|style="border-right: 0;"| ||style="border-left: 0;"|{{IPA link|ɾ}}~{{IPA link|r}}
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|colspan=2|
+|}
+
+'''Notes:'''
+* In all NENA dialects, voiced, voiceless, aspirated and emphatic consonants are recognised as distinct phonemes, though there can be an overlap between plain voiceless and voiceless emphatic in sound quality.<ref name=":0">{{cite book|title=The Neo-Aramaic Dialect of Barwar|url=https://archive.org/details/neoaramaicdialec00khan|url-access=limited|last1=Khan|first1=Geoffrey|date=2008|publisher=Brill|page=[https://archive.org/details/neoaramaicdialec00khan/page/n67 29]}}</ref><ref name="Brill">{{cite book |last1=Khan |first1=Geoffrey |title=The Neo-Aramaic Dialect of the Assyrian Christians of Urmi |date=2016 |publisher=Brill |page=93}}</ref><ref name="The Neo-Aramaic Dialect of Jilu">{{cite book |last1=Fox |first1=Samuel Ethan |title=The Neo-Aramaic Dialect of Jilu |date=1997 |publisher=Harrassowitz |page=8}}</ref><ref name="Harrassowitz">{{cite book |last1=Odisho |first1=Edward Y |title=The Sound System of Modern Assyrian (Neo-Aramaic) |date=1988 |publisher=Harrassowitz}}</ref>{{Page needed|date=July 2019}}<ref>{{cite book|title=The Jewish Neo-Aramaic Dialect of Koy Sanjaq (Iraqi Kurdistan)|last1=Mutzafi|first1=Hezy|date=2004|publisher=Harrassowitz}}</ref>{{Page needed|date=July 2019}}
+* In Iraqi Koine and many Urmian & Northern dialects, the palatals [{{IPA link|c}}], [{{IPA link|ɟ}}] and aspirate [{{IPA link|cʰ}}] are considered the predominate realisation of /{{IPA link|k}}/, /{{IPA link|g}}/ and aspirate /{{IPA link|kʰ}}/.<ref name="Harrassowitz"/>{{Page needed|date=July 2019}}<ref>{{cite book|title=The Neo-Aramaic Dialect of Barwar|url=https://archive.org/details/neoaramaicdialec00khan|url-access=limited|last1=Khan|first1=Geoffrey|date=2008|publisher=Brill|page=[https://archive.org/details/neoaramaicdialec00khan/page/n68 30]}}</ref><ref name="Brill"/>
+*In the Koine and Urmi dialects, velar fricatives /{{IPA link|x}} {{IPA link|ɣ}}/ are typically uvular as [{{IPA link|χ}} {{IPA link|ʁ}}].<ref name="Harrassowitz" /><ref>{{Cite book|last=Khan|first=Geoffrey|title=The Neo-Aramaic Dialect of the Assyrian Christians of Urmi|year=2016|pages=48}}</ref>
+* The phoneme /{{IPA link|ħ}}/ is only used by Suret speakers under larger Arabic influence. In most dialects, it is realised as [{{IPA link|x}}]. The one exception to this is the dialect of [[Hértevin language|Hértevin]], which merged the two historical phonemes into [ħ], thus lacking [x] instead.<ref>{{cite book |title=The Semitic Languages |date=1997 |publisher=Routledge |isbn=0-415-05767-1}}</ref>
+* The [[pharyngeal consonant|pharyngeal]] /{{IPA link|ʕ}}/, represented by the letter ''[[ayin|'e]]'', is a marginal phoneme that is generally upheld in formal or religious speech. Among the majority of Suret speakers, [[ayin|'''e'']] would be realised as [{{IPA link|aɪ̯}}], [{{IPA link|eɪ̯}}], [{{IPA link|ɛ}}], [{{IPA link|j}}], [[Zero (linguistics)|deleted]], or even [[Gemination|geminating]] the previous consonant, depending on the dialect and phonological context.
+* /{{IPA link|r}}/ may also be heard as a tap sound [{{IPA link|ɾ}}].<ref name="Harrassowitz" />
+* /{{IPA link|f}}/ is a phoneme heard in the [[Tyari]], Barwari and Chaldean dialects. In most of the other varieties, it merges with /{{IPA link|p}}/,<ref>Rudder, Joshua. ''Learn to Write Aramaic: A Step-by-Step Approach to the Historical & Modern Scripts''. n.p.: CreateSpace Independent Publishing Platform, 2011. 220 pp. {{ISBN|978-1461021421}} Includes the Estrangela (pp. 59–113), Madnhaya (pp. 191–206), and the Western Serto (pp. 173–190) scripts.</ref> though [{{IPA link|f}}] is found in loanwords.
+* The phonemes {{IPA|/t/}} and {{IPA|/d/}} have allophonic realisations of [{{IPA link|θ}}] and [{{IPA link|ð}}] (respectively) in most Lower Tyari, Barwari and Chaldean dialects, which is a carryover of ''[[begadkefat]]'' from the Ancient Aramaic period.
+* In the Upper Tyari dialects, /θ/ is realised as [{{IPA link|ʃ}}] or [{{IPA link|t}}]; in the Marga dialect, the /t/ may at times be replaced with [{{IPA link|s}}].
+* In the Urmian dialect, /{{IPA link|w}}/ has a widespread allophone [{{IPA link|ʋ}}] (it may vacillate to [{{IPA link|v}}] for some speakers).<ref>{{Cite encyclopedia|title=Aramaic| encyclopedia = The Eerdmans Bible Dictionary|publisher=William B Eerdmans|location=Grand Rapids, Michigan, USA |year=1975|isbn=0-8028-2402-1}}</ref>
+* In the Jilu dialect, /{{IPA link|q}}/ is uttered as a tense [{{IPA link|k}}]. This can also occur in other dialects.<ref name="The Neo-Aramaic Dialect of Jilu"/><ref name="Brill"/>
+* In the Iraqi Koine dialect, a labial-palatal approximant sound [{{IPA link|ɥ}}] is also heard.<ref name=":2">[[Wolfhart Heinrichs|Heinrichs, Wolfhart]] (ed.) (1990). ''Studies in Neo-Aramaic''. Scholars Press: Atlanta, Georgia. {{ISBN|1-55540-430-8}}.</ref><ref name="Harrassowitz" />
+*/{{IPA link|ɡ}}/ is affricated, thus pronounced as [{{IPA link|d͡ʒ}}] in some Urmian, Tyari and Nochiya dialects.<ref>Tsereteli, Konstantin G. (1990). „The velar spirant 0 in modern East Aramaic Dialects“, W. Heinrichs (ed.): Studies in Neo-Aramaic (Harvard Semitic Studies 36), Atlanta, 35-42.</ref> /{{IPA link|k}}/ would be affricated to [{{IPA link|t͡ʃ}}] in the same process.
+* /{{IPA link|ɣ}}/ is a marginal phoneme that occurs across all dialects. Either a result of the historic splitting of /g/, through loanwords, or by contact of [{{IPA link|x}}] with a voiced consonant.
+*/{{IPA link|ʒ}}/ is found predominately from loanwords, but, in some dialects, also from the voicing of /{{IPA link|ʃ}}/<ref name="The Neo-Aramaic Dialect of Jilu"/> (e.g. ''ḥašbunā'' /xaʒbu:na:/, "counting", from the root ''ḥ-š-b,'' "to count") as in the Jilu dialect.
+*/n/ can be pronounced [{{IPA link|ŋ}}] before velar consonants [x] and [q] and as [{{IPA link|m}}] before labial consonants.<ref name=":3">{{cite book |last1=Khan |first1=Geoffrey |title=The Neo-Aramaic Dialect of the Assyrian Christians of Urmi |date=2016 |publisher=Brill |page=107}}</ref>
+* In some speakers, a [[dental click]] (English "tsk") may be used para-linguistically as a negative response to a "[[Yes and no|yes or no]]" question. This feature is more common among those who still live in the homeland or in the Middle East, than those living in the diaspora.
+
+=== Vowels ===
+[[File:Iraqi Koine Vowel Trapezoid.svg|thumb|upright=1.13|The vowel phonemes of Iraqi Koine]]
+According to linguist [[Edward Odisho]], there are six vowel phonemes in Iraqi Koine.<ref name="ReferenceB" /> They are as follows:
+{| class="wikitable" style="text-align: center"
+|-
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| /{{IPA link|i}}/
+|
+| /{{IPA link|u}}/
+|-
+|-
+! [[Half-close vowel|Half-close]]
+| colspan="2" | /{{IPA link|ɪ}}/
+| 
+|-
+![[Half open vowel|Half-open]]
+|/{{IPA link|e}}/
+|
+|/{{IPA link|o}}/
+|-
+! [[Open vowel|Open]]
+| colspan="2" |/{{IPA link|ä|a}}/
+|
+|}
+
+* {{IPA|/a/}}, as commonly uttered in words like ''n'''a'''ša'' ("man; human"), is central {{IPAblink|ä}} for many speakers. It is usually {{IPAblink|a}} in the Urmian and [[Nochiya tribe|Nochiya]] dialects. For some Urmian and [[Jilu]] speakers, {{IPAblink|æ}} may be used instead. In those having a more pronounced Jilu dialect, this vowel is mostly fronted and [[raising (phonetics)|raised]] to {{IPAblink|ɛ}}. In the [[Tyari]] and [[Barwari]] dialects, it is usually more back {{IPAblink|ɑ}}.<ref name=":0" />
+*{{IPA|/ɑ/}}, a [[long vowel]], as heard in ''r'''a'''ba'' ("much; many"), may also be realised as {{IPAblink|ɒ}}, depending on the speaker. It is more rounded and higher in the Urmian dialect, where it is realised as {{IPAblink|ɔ}}.{{Citation needed|date=July 2019}}
+* {{IPA|/e/}}, heard in ''b'''e'''ta'' ("house") is generally diphthongised to {{IPA|[eɪ̯]}} in the [[Andaç, Uludere|Halmon]] dialect (a Lower Tyari tribe). To note, the [aj] [[diphthong]] is a [[Conservative (language)|vestigial]] trait of [[classical Syriac]] and thereby may be used in [[Prestige (sociolinguistics)|formal speech]] as well, such as in [[Sacred language|liturgy]] and [[hymn]]s.<ref>Tsereteli, Konstantin G. (1972). „The Aramaic dialects of Iraq“, Annali dell’Istituto Ori-entale di Napoli 32 (n. s. 22):245-250.</ref>
+* {{IPA|/ɪ/}}, uttered in words like ''d'''ə'''dwa'' ("housefly"), is sometimes realised as {{IPAblink|ə}} (a [[schwa]]).
+*The mid vowels, preserved in Tyari, Barwari, Baz and Chaldean dialects, are sometimes [[Raising (phonetics)|raised]] and [[Phonological change|merged]] with close vowels in Urmian and some other dialects:
+**{{IPA|/o/}}, as in ''g'''o'''ra'' ("big"), is raised to [u]. The Urmian dialect may diphthongise it to {{IPA|[ʊj]}}.
+**{{IPA|/e/}}, as in ''k'''e'''pa'' ("rock"), is raised to {{IPA|[i]}}.
+*{{IPA|/o/}}, as in ''t'''o'''ra'' ("bull") may be diphthongised to {{IPA|[ɑw]}} in some Tyari, Barwari, Chaldean and Jilu dialects.
+*Across many dialects, [[close vowel|close]] and [[close-mid vowel]]s are [[Near-close vowel|lax]] when they occur in a [[Syllable#Open and closed|closed syllable]]:
+**{{IPA|/u/}} or {{IPA|/o/}} is usually realised as {{IPA|[ʊ]}};
+**{{IPA|/i/}} or {{IPA|/e/}} is usually realised as {{IPA|[ɪ]}}.
+East Syriac dialects may recognize half-close sounds as {{IPA|[ɛ]}} and also recognize the back vowel {{IPAblink|ɒ}} as a long form of {{IPA|/a/}}.<ref>{{Cite book|last1=Kaye|first1=Alan S.|title=Phonologies of Asia and Africa; Volume 2|last2=Daniels|first2=Peter T.|publisher=Eisenbrauns|year=1997|pages=127–140}}</ref>
+
+Two basic [[diphthong]]s exist, namely {{IPA|/aj/}} and {{IPA|/aw/}}. For some words, many dialects have [[Monophthongization|monophthongised]] them to {{IPA|[e]}} and {{IPA|[o]}} respectively. For [[Noun|substantives]], A common vowel alteration is [[Apophony|apophonically]] shifting the final ''-a'' to ''-e'', so ''ṭer'''a''''' ('bird') will be ''ṭer'''e''''' ('birds') in its plural form.{{cn|date=June 2021}}
+
+===Phonetics of Iraqi Koine===
+Iraqi Koine is a [[Dialect levelling|merged]] dialect which formed in the mid-20th century, being influenced by both Urmian and Hakkari dialects.
+*Iraqi Koine, like the majority of the Suret dialects, realises {{IPA|/w/}} as {{IPAblink|w}} instead of {{IPAblink|ʋ}}. 
+*Iraqi Koine generally realises the [[interdental fricative]]s {{IPAslink|θ}}, {{IPAslink|ð}} in words like ''ma'''ṯ'''a'' ("village") and ''rqa'''ḏ'''a'' ("dancing") as [[alveolar stop]]s {{IPAblink|t}}, {{IPAblink|d}} respectively.
+*Dorsal fricatives /{{IPA link|x}} {{IPA link|ɣ}}/ are heard as uvular as [{{IPA link|χ}} {{IPA link|ʁ}}].
+*Predominantly, {{IPA|/q/}} in words like '''''q'''alama'' ("pen") does not merge with {{IPA|/k/}}.
+*The diphthong {{IPA|/aw/}} in words like ''t'''aw'''ra'' ("bull"), as heard in most of [[Hakkari (historical region)|Hakkari]] dialects, are realised as {{IPAblink|o}}: ''t'''o'''ra''.<ref>[[Yona Sabar|Sabar, Yona]] (2003). "Aramaic, once a great language, now on the verge of extinction," in When Languages Collide: Perspectives on Language Conflict, Language Competition, and Language Coexistence, Joseph, DeStefano, Jacobs, Lehiste, eds. The Ohio State University Press.</ref>
+*The {{IPA|[ʊj]}} diphthong in ''z'''uy'''ze'' ("money") is retained as {{IPAblink|u}}: ''z'''u'''ze''.<ref name="The British Survey 1968, page 3"/>
+*Depending on the speaker, the [[velar stop]]s {{IPA|/k/}} and {{IPA|/ɡ/}} may be affricated as {{IPA|[t͡ʃ]}} and {{IPA|[d͡ʒ]}} respectively.
+*The {{IPA|[t͡ʃ]}} in some present progressive verbs like '''''č'''i'axla'' ("[she] eats") is retained as {{IPAblink|k}}: '''''k'''i'axla''.
+
+===Phonetics of Chaldean-Neo-Aramaic===
+====Consonants====
+{|class="wikitable"
+|+ Table of Chaldean Neo-Aramaic consonant phonemes
+|-
+! rowspan=2 colspan=2|
+! rowspan=2 colspan=2|[[Labial consonant|Labial]]
+! colspan=4|[[Dental consonant|Dental]]/<br>[[Alveolar consonant|Alveolar]]
+! colspan="2" rowspan="2" |[[Palatal consonant|Palatal]]
+! rowspan=2 colspan=2|[[Velar consonant|Velar]]
+! rowspan=2 colspan=2|[[Uvular consonant|Uvular]]
+! rowspan=2 colspan=2|[[Pharyngeal consonant|Pharyngeal]]
+! rowspan=2 colspan=2|[[Glottal consonant|Glottal]]
+|-
+! colspan=2|<small>plain</small> || colspan=2|<small>[[pharyngealization|emph.]]</small>
+|- align=center
+! colspan="2" | [[Nasal consonant|Nasal]]
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|m}}
+| style="border-right: 0;" | ||style="border-left: 0;" | {{IPA link|n}}
+| colspan=2|
+| colspan="2" |
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| colspan=2|
+|- align=center
+! colspan="2" | [[Plosive consonant|Plosive]]
+| style="border-right: 0;" | {{IPA link|p}}
+| style="border-left: 0;" |{{IPA link|b}}
+| style="border-right: 0;" | {{IPA link|t}} || style="border-left: 0;" |{{IPA link|d}}
+| style="border-right: 0;" | {{IPA link|tˤ}} || style="border-left: 0;" |
+| colspan="2" |
+| style="border-right: 0;" | {{IPA link|k}} || style="border-left: 0;" | {{IPA link|ɡ}}
+| style="border-right: 0;" | {{IPA link|q}} || style="border-left: 0;" |
+| colspan=2|
+| style="border-right: 0;" | {{IPA link|ʔ}} || style="border-left: 0;" |
+|- align=center
+! colspan="2" |[[Affricate consonant|Affricate]]
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| style="border-right: 0;" | {{IPA link|tʃ}} || style="border-left: 0;" |{{IPA link|dʒ}}
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| colspan=2|
+|- align=center
+! rowspan="2" | [[Fricative consonant|Fricative]]
+! <small>[[sibilant]]</small>
+| colspan=2|
+| style="border-right: 0;" | {{IPA link|s}} || style="border-left: 0;" | {{IPA link|z}}
+| style="border-right: 0;" | {{IPA link|sˤ}} || style="border-left: 0;" |
+| style="border-right: 0;" | {{IPA link|ʃ}} || style="border-left: 0;" |{{IPA link|ʒ}}
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| colspan=2|
+|- align=center
+! <small>non-sibilant</small>
+| style="border-right: 0;" | {{IPA link|f}} || style="border-left: 0;" |{{IPA link|v}}
+| style="border-right: 0;" | {{IPA link|θ}} || style="border-left: 0;" | {{IPA link|ð}}
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|ðˤ}}
+| colspan=2|
+| style="border-right: 0;" | {{IPA link|x}} || style="border-left: 0;" | {{IPA link|ɣ}}
+| colspan=2|
+| style="border-right: 0;" | {{IPA link|ħ}} || style="border-left: 0;" | {{IPA link|ʕ}}
+| style="border-right: 0;" | {{IPA link|h}} || style="border-left: 0;" |
+|- align=center
+! colspan="2" | [[Approximant consonant|Approximant]]
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|w}}
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|l}}
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|ɫ}}
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|j}}
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| colspan=2|
+|- align=center
+! colspan="2" | [[Rhotic consonant|Rhotic]]
+| colspan=2|
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|r}}
+| style="border-right: 0;" | || style="border-left: 0;" | {{IPA link|rˤ}}
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| colspan=2|
+| colspan=2|
+|}
+
+*The Chaldean dialects are generally characterised by the presence of the fricatives {{IPA|/θ/}} (''th'') and {{IPA|/ð/}} (''dh'') which correspond to {{IPA|/t/}} and {{IPA|/d/}}, respectively, in other Assyrian dialects (excluding the [[Tyari]] dialect). However, the standard or educational form of Chaldean would realize the consonants {{IPA|/θ/}} and {{IPA|/ð/}} as {{IPA|/tˤ/}}.
+*Most Chaldean Neo-Aramaic varieties would use the phoneme of {{IPA|/f/}}, which corresponds to {{IPA|/p/}} in most of Assyrian Neo-Aramaic dialects (excluding the Tyari dialect).
+*In some Chaldean dialects {{IPA|/r/}} is realized as {{IPAblink|ɹ}}. In others, it is either a [[Tap consonant|tap]] {{IPAblink|ɾ}} or a [[Trill consonant|trill]] {{IPAblink|r}}.
+*Unlike in Assyrian Neo-Aramaic, the [[guttural]] sounds of {{IPAblink|ʕ}} and {{IPAblink|ħ}} are used predominantly in Chaldean varieties; this is a feature also seen in other [[Northeastern Neo-Aramaic]] languages.<ref>*Beyer, Klaus (1986). ''The Aramaic language: its distribution and subdivisions''. Göttingen: Vandenhoeck und Ruprecht. {{ISBN|3-525-53573-2}}.</ref>{{Sfnp|Sara|1974}}
+
+====Vowels====
+{| class="wikitable" style="text-align: center"
+|-
+!
+! [[Front vowel|Front]]
+! [[Central vowel|Central]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+|{{IPA link|ɨ}}
+|{{IPA link|u}}
+|-
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| 
+| {{IPA link|o}}
+|-
+! [[Open vowel|Open]]
+|
+| {{IPA link|ä|a}}
+| 
+|}
+
+==Grammar==
+NENA is a [[null-subject language]] with both [[ergative language|ergative morphology]] and a [[nominative-accusative]] system,<ref>The Debate on Ergativity in Neo-Aramaic EDIT DORON & GEOFFREY KHAN (2010). The [[Hebrew University of Jerusalem]] & [[University of Cambridge]]</ref> and also features [[pro-drop language|pronoun drop]] to a significant degree. Like English and [[modern Hebrew]], Suret largely lacks [[grammatical case]]s, with prepositions and prepositional prefixes largely taking on the role cases would otherwise. The Semitic [[genitive case|genitive]], which a noun is possessed or modified by another noun or noun phrase, is expressed morphologically by the genitive [[morpheme]] ''d-'' (e.g. ''betā '''d-'''nāšā'', 'house of the man' or 'the man's house'), indicating [[Possession (linguistics)|possession]].{{cn|date=June 2021}}
+
+[[Gemination]] occurs in the language, as heard in words like ''li'''bb'''ā'' ("heart") and ''šma'''yy'''ā'' ("sky"). Even though [[subject–verb–object]] (SVO) is the default [[sentence structure]] of Syriac, [[subject–object–verb]] (SOV), [[verb–subject–object]] (VSO), [[verb–object–subject]] (VOS), [[object–verb–subject]] (OVS) and [[object–subject–verb]] (OSV) are also possible word orders, namely due to [[Inversion (linguistics)|inversion]] taking place, thus making Suret a flexible language, akin to [[Latin language|Latin]] and [[Greek language|Greek]].{{cn|date=June 2021}}
+
+Due to [[language contact]], Suret may share similar grammatical features with [[Persian language|Persian]] and [[Kurdish language|Kurdish]] in the way they employ the negative [[Copula (linguistics)|copula]] in its full form before the verbal [[Constituent (linguistics)|constituent]] and also with the [[Affirmation and negation|negated]] forms of the [[present perfect]].<ref>8 Cf. M. Tomal, Studies in Neo-Aramaic Tenses, Kraków 2008, pp. 108 and 120.</ref> As a [[Central Semitic languages|central Semitic]] language, NENA is related to [[Hebrew language|Hebrew]], [[Arabic language|Arabic]], [[Western Neo-Aramaic]] and [[Mandaic language|Mandaic]] and bears a relatively similar grammatical style to these languages.{{cn|date=June 2021}}
+
+=== Personal pronouns ===
+In Suret, [[personal pronoun]]s have seven forms. In singular forms, the [[Grammatical person|2nd]] and 3rd have separate [[masculine gender|masculine]] and [[feminine gender|feminine]] forms, while the 1st (and, in some dialects, the 2nd person subject pronoun) do(es) not. The plural forms also lack gender distinction.{{cn|date=June 2021}}
+
+{| class="wikitable" align="center"
+|+Personal pronouns
+|-
+! colspan="3" | 
+! subject pronoun
+! object pronoun
+|-
+! rowspan="5" | singular
+! colspan="2" | 1st person
+| ''ānā'' ("I")
+| ''li'' ("me")
+|-
+! rowspan="2" | 2nd person
+! masc.
+| ''āt, āti, āyit,'' or ''āten'' ("you," ["thou"])
+| ''lux or lox'' ("you," ["thee"])
+|-
+! fem.
+| ''āt, āti, āyat,'' or ''āten'' ("you," ["thou"])
+| ''lex'' or ''lāx'' ("you," ["thee"])
+|-
+! rowspan="2" | 3rd person
+! masc.
+| ''āw'' ("he")
+| ''leh'' ("him")
+|-
+! fem.
+| ''āy'' ("she")
+| ''lāh'' ("her")
+|-
+! rowspan="3" | plural
+! colspan="2" | 1st person
+| ''axnan'' or ''axni'' ("we")
+| ''lan'' ("us")
+|-
+! colspan="2" | 2nd person
+| ''axtun'' or ''axtoxun'' ("you [pl.]", ["[[Ye (pronoun)|ye]]"])
+| ''loxun'' ("you [pl.]", ["ye"])
+|-
+! colspan="2" | 3rd person
+| ''āni'' ("they")
+| ''lhon'', ''lehe'', or ''ley'' ("them")
+|}
+
+Like all Semitic languages and the unrelated [[Insular Celtic languages]], Suret uses [[inflected preposition]]s when it comes to personal pronouns – the preposition ''āl'' ("on") inflects as ''ālli'' ("on me").{{cn|date=June 2021}}
+
+===Nouns===
+Nouns carry grammatical gender (masculine or feminine). They can be either singular or plural in number (a very few can be dual, a vestigial trait of Old Aramaic). Almost all singular [[Noun|substantives]] ([[Proper noun|common nouns]] and [[adjective]]s) are suffixed with ''-ā'' in their [[Lemma (morphology)|lemma]] form, the main exception being foreign words, which do not always take the suffix. The three [[Definiteness|grammatical states]] present in Classical Syriac are no longer [[Productivity (linguistics)|productive]], only being used in a few set terms and phrases (for example, {{Lang|aii|ܒܲܪ ܐ݇ܢܵܫܵܐ}}, ''bar nāšā,'' "man, person", literally "son of man"), with the emphatic state becoming the ordinary form of the noun. Adjectives always agree in gender and number with the nouns that they modify.{{cn|date=June 2021}}
+
+In Suret, most genitive relationships are built using the relative particle ''d-'', used in the same way as English "of" (e.g. {{Lang|aii|ܢܘܼܗܪܵܐ ܕܫܸܡܫܵܐ}}, ''nuhrā '''d-'''šimšā'', "(the) light '''of''' the sun"). Though written as a prefix on the noun in the genitive, the modern spoken form occurs as a suffix on the [[Head (linguistics)|head]], with some dialects displaying [[final-obstruent devoicing]] (e.g. ''nuhr'''-id''' šimšā'' or ''nuhr'''-it''' šimšā'').{{cn|date=June 2021}}
+
+===Verbs===
+Finite verbs carry [[grammatical person|person]], gender and number, as well as [[grammatical tense|tense]] and [[Grammatical conjugation|conjugation]]. The non-finite verb forms are the [[gerund]] and the [[active voice|active]] and [[passive voice|passive]] [[participle]]s. Verb forms are marked for person (first, second or third), [[grammatical number|number]] (singular or plural), gender (masculine or feminine), mood ([[indicative]], [[imperative mood|imperative]], [[jussive]] or gerund) and [[Voice (grammar)|voice]] ([[Dynamic verb|active]] or [[Passive voice|passive]]).{{cn|date=June 2021}}
+
+Suret employs a system of [[Grammatical conjugation|conjugation]]s to mark intensive and extensive developments in the lexical meaning of verbs. [[Verb conjugations]] are present in other Semitic languages. These are regular modifications of the verb's root to express other changes in meaning. The first conjugation is the 'ground' stem (a.k.a. G-stem or ''Peal'' stem), which models the shape of the root and carries the usual meaning of the word. The next is the 'intensive' stem (a.k.a. D-stem or ''Pael'' stem), which usually carries an [[intensive|intensified]] meaning. The third is the 'extensive' stem (a.k.a. C-stem or ''Aphel'' stem), which is often [[causative]] in meaning. Although Classical Syriac has a coordinate [[passive voice|passive]] conjugation for each stem (''Ethpeel'', ''Ethpaal'' and ''Ettaphel'' stems, respectively), Suret does not. Instead, passive meanings are sometimes expressed through the ''Peal''; [[Agent (grammar)|agentive]] ones, through the ''Aphel''. The following table illustrates the possible verbal conjugations of the root ''ṣ-l-y'' ({{Lang|aii|ܨ-ܠ-ܝ}}), which carries the basic meaning of "descending":{{cn|date=June 2021}}
+
+{| class="wikitable"
+|+
+! rowspan="2" |Stem
+! colspan="2" |Verb (masc. active participle)
+! rowspan="2" |English
+|-
+!Syriac script
+!Transcription
+|-
+|''Peal''
+|{{lang|aii|ܨܵܠܹܐ}}
+|''ṣālē''
+|"he goes down"
+|-
+|''Pael''
+|{{lang|aii|ܡܨܲܠܹܐ}}
+|''mṣālē'' (classically, ''mṣallē'')
+|"he prostrates; prays"
+|-
+|''Aphel''
+|{{lang|aii|ܡܲܨܠܹܐ}}
+|''maṣlē''
+|"he brings down; makes go down"
+|}
+
+The particle ''[h]wā'' ({{Lang|aii|ܗ݇ܘܵܐ}}) may follow verbal forms to indicate an action further in the past (e.g. {{Lang|aii|ܨܵܠܹܐ ܗ݇ܘܵܐ}}, ''ṣālē [h]wā'', "he used to go down").{{cn|date=June 2021}}
+
+Suret may also [[Affirmation and negation|negate]] clauses by using [[double negative]]s, such as in the phrase '''''le''' yawin '''la''' zuze'' ("I '''won't''' give '''no''' money"). Common negation words include ''la'', ''hič'' and ''čuh'', depending on usage and dialect.{{cn|date=June 2021}}
+
+;Verbal stems<ref>Goldenberg, G. 2002 'Early Neo-Aramaic and Present-day dialectal diversity'. Journal of Semitic Studies XLV: 69-89.</ref>
+{| class="wikitable"
+|-
+!Aspect !! Stem 
+|-
+| '''[[Imperative mood|Imperative]]''' || ''ptux'' ("open!")
+|-
+| '''[[Realis mood|Indicative]]''' ||  ''patx-'' ( + ''k- / ki-'' present, ''bit-'' future, ''qam-'' past, transitive, definite object) ("opens")
+|-
+|'''[[Perfect (grammar)|Perfect]]''' || ''ptix-'' ([[perfect participle]], f. ''ptixta'', m. ''ptixa'', pl. ''ptixe'') ("opened")
+|-
+|'''[[Gerund]]''' ||''(bi-)ptaxa'' ("opening")
+|}
+
+===Suffixes===
+Suret uses verbal inflections marking person and number. The suffix "''-e''" indicates a (usually masculine) [[plural]] (i.e. ''ward'''a''''', "flower", [[inflection|becomes]] ''ward'''e''''', "flower'''s'''"). [[Enclitic]] forms of [[personal pronoun]]s are affixed to various parts of speech. As with the [[object pronoun]], [[possessive pronouns]] are [[suffix]]es that are [[possessive affix|attached to the end of nouns]] to express possession similar to the English pronouns ''my, your, his, her,'' etc., which reflects the gender and plurality of the person or persons.<ref>Zwicky, Arnold M. "''Clitics and Particles''." Language 61.2 (1985): 283–305. Print.</ref> This is a [[synthetic language|synthetic]] feature found in other Semitic languages and also in unrelated languages such as [[Finnish language|Finnish]] ([[Uralic languages|Uralic]]), [[Persian language|Persian]] ([[Indo-European languages|Indo-European]]) and [[Turkish language|Turkish]] ([[Turkic languages|Turkic]]). Moreover, unlike many other languages, Suret has virtually no means of [[morphological derivation|deriving]] words by adding prefixes or suffixes to words. Instead, they are formed according to a limited number of templates applied to roots.<ref name="Solomon, Zomaya S.1994">Solomon, Zomaya S. (1994). ''Basic sentence structure in Assyrian Aramaic'', Journal of Assyrian Academic Studies, VIII/1:83–107</ref> Modern Assyrian, like Akkadian but unlike Arabic, has only "sound" plurals formed by means of a plural ending (i.e. no [[broken plurals]] formed by changing the [[word stem]]). As in all Semitic languages, some masculine nouns take the prototypically feminine plural ending (''-tā'').{{cn|date=June 2021}}
+
+==== Possessive suffixes ====
+{| class="wikitable" align="center"
+|+Iraqi Koine possessive suffixes
+|-
+![[grammatical person|person]]!![[Grammatical number|singular]]!! plural
+|-
+| 1st person ||''betī'' (my house) ||''betan'' (our house)
+|-
+| 2nd person (masc.) ||''betux'' (your house) || rowspan="2" |''betōxun'' (your house)
+|-
+| 2nd person (fem.) ||''betax'' (your house)
+|-
+| 3rd person (masc.) ||''betū'' (his house) || rowspan="2" |''betéh'' (their house)
+|-
+| 3rd person (fem.) ||''betō'' (her house)
+|}
+
+Although possessive suffixes are more convenient and common, they can be optional for some people and seldom used, especially among those with the Tyari and Barwari dialects, which take a more [[analytic language|analytic]] approach regarding possession, just like English [[possessive determiner]]s. The following are [[Periphrasis|periphrastic]] ways to express possession, using the word ''betā'' ("house") as a base (in Urmian/Iraqi Koine):
+
+*my house: ''betā-it dīyī'' ("house-of mine")
+*your ([[Grammatical gender|masc.]], sing.) house: ''betā-it dīyux'' ("house-of yours")
+*your (fem., sing.) house: ''betā-it dīyax'' ("house-of yours")
+*your (plural) house: ''betā-it dīyōxun'' ("house-of yours")
+*3rd person (masc., sing.): ''betā-it dīyū'' ("house-of his")
+*3rd person (fem., sing.): ''betā-it dīyō'' ("house-of hers")
+*3rd person (plural): ''betā-it dīyéh'' ("house-of theirs")
+
+====Stress====
+{{Listen|filename=Assyriantone.ogg|title=''dīyeh'' ("his"), ''dīyéh'' ("theirs") |description=An unstressed ''-eh'' denotes a singular possessive form (masc.), whereas a stressed  ''-éh'' is a third person [[Apostrophe#plural possessive|plural possessive]].|format=[[Ogg]]}}
+Like English, Suret is a [[Stress timing|stress-timed language]], but would mostly retain unreduced vowels (as in Arabic), although some dialects may be more [[Syllable timing|syllable-timed]]. An example of stress timing is noticeable in the word "''qat''", an [[Conjunction (grammar)|adverb clause conjunction]] which translates to "so that" – The 'a' sound in "''qat''" is unstressed and thus would turn into a [[schwa]] if one would place the stress in the next word of the sentence, so; "''mīri qat āzekh''" becomes "''mīri qət āzekh''" ("I said that we go"). Another example is observed in teen [[natural number|numerical]] range (13-19); In some dialects, the words "''īštāser''" (sixteen) or "''arbāser''" (fourteen), among other teen numbers, the typically stressed vowel in the middle ([[Ā|long A]]) is reduced to a schwa, hence "īštəser" and "''arbəser''", respectively. In native words, Suret almost always [[Stress (linguistics)|stresses]] the [[penult]]imate syllable.{{cn|date=June 2021}}
+
+Although Suret, like all Semitic languages, is not a [[tonal language]], a tonal stress is made on a plural possessive suffix -''éh'' (i.e. ''dīy'''éh'''''; "their") in the final vowel to [[pitch accent|tonally differentiate]] it from an unstressed -''eh'' (i.e. ''dīyeh''; "his"), which is a masculine [[Possessive determiner|singular possessive]], with a standard stress pattern falling on the penult. The -''eh'' used to denote a singular [[Third person (grammar)|third person]] masculine possessive (e.g. ''bābeh'', "his father"; ''aqleh'', "his leg") is present in most of the traditional dialects in Hakkari and Nineveh Plains, but not for Urmian and some Iraqi Koine speakers, who instead use -''ū'' for possessive "his" (e.g. ''bābū'', "his father"; ''aqlū'', "his leg"), whilst retaining the stress in -''éh'' for "their".<ref name="Solomon, Zomaya S.1994" />
+
+This phenomenon however may not always be present, as some Hakkari speakers, especially those from Tyari and Barwar, would use analytic speech to denote possession. So, for instance, ''bābeh'' (literally, "father-his") would be uttered as ''bābā-id dīyeh'' (literally, "father-of his"). In Iraqi Koine and Urmian, the plural form and the third person plural possessive suffix of many words, such as ''wardeh'' and ''biyyeh'' ("flowers"/"eggs" and "their flower(s)"/"their eggs", respectively), would be [[homophone]]s were it not for the varying, distinctive stress on the penult or ultima.<ref>Fox, S. E., 1997, The Neo-Aramaic Dialect of Jilu, Wiesbaden: Harrassowitz</ref>
+
+===Determinative===
+When it comes to a [[determinative]] (like in English ''this'', ''a'', ''the'', ''few'', ''any'', ''which'', etc.), Suret generally has an absence of an [[Article (grammar)#Zero article|article]] (English "the''"''), unlike other Semitic languages such as [[Arabic language|Arabic]], which does use a [[definite article]] ({{lang-ar|ال}}, ''al-''). [[Demonstratives]] (''āhā'', ''āy''/''āw'' and ''ayyāhā/awwāhā'' translating to "[[Demonstrative|this]]", "[[that]]" and "that one over there", respectively, demonstrating [[Demonstrative#Distal and proximal demonstratives|proximal, medial and distal deixis]]) are commonly utilised instead (e.g. ''āhā betā'', "this house"), which can have the sense of "the". An indefinite article ("a(n)") can mark definiteness if the word is a [[direct object]] (but not a subject) by using the prepositional prefix "''l-''" paired with the proper suffix (e.g. ''šāqil qālāmā'', "he takes '''a''' pen" vs. ''šāqil-'''lāh''' qālāmā'', "he takes '''the''' pen"). [[Article (grammar)#Partitive article|Partitive]] articles may be used in some speech (e.g. ''bayyīton '''xačča''' miyyā?'', which translates to "do you [pl.] want '''some''' water?").<ref>Solomon, Zomaya S. (1997). ''Functional and other exotic sentences in Assyrian Aramaic'', Journal of Assyrian Academic Studies, XI/2:44–69.</ref>
+
+In place of a definite article, Ancient Aramaic used the emphatic state, formed by the addition of the suffix: "''-ā''" for generally masculine words and "''-t(h)ā''" (if the word already ends in ''-ā'') for feminine. The definite forms were ''pallāxā'' for "the (male) worker" and ''pallāxtā'' for "the (female) worker". Beginning even in the Classical Syriac era, when the prefixed preposition "''d-''" came into more popular use and replaced state Morphology for marking possession, the emphatic (definite) form of the word became dominant and the definite sense of the word [[Phonological change|merged]] with the indefinite sense so that ''pālāxā'' became "a/the (male) worker" and ''pālaxtā'' became "a/the (female) worker."
+
+===Consonantal root===
+Most NENA [[noun]]s and verbs are built from [[Semitic root#Triconsonantal roots|triconsonantal roots]], which are a form of word formation in which the [[root (linguistics)|root]] is modified and which does not involve stringing [[morpheme]]s together sequentially. Unlike Arabic, [[broken plural]]s are not present. Semitic languages typically utilise triconsonantal roots, forming a "grid" into which vowels may be inserted without affecting the basic root.<ref>{{cite book
+ | last = Haspelmath
+ | first = Martin
+ | title = Understanding Morphology
+ | year = 2002
+ | publisher = Oxford University Press
+ | location = New York
+ | isbn = 0-340-76026-5}}</ref>{{page needed|date=June 2021}}
+
+The root ''{{transl|syc|š-q-l}}'' ({{lang|syc|ܫ-ܩ-ܠ}}) has the basic meaning of "taking", and the following are some words that can be formed from this root:
+
+*''{{transl|syc|šqil-leh}}'' ({{lang|syc|ܫܩܝܼܠ ܠܹܗ}}): "he has taken" (literally "taken-by him")
+*''{{transl|syc|šāqil}}'' ({{lang|syc|ܫܵܩܸܠ}}): "he takes"
+*''{{transl|syc|šāqlā}}'' ({{lang|syc|ܫܵܩܠܵܐ}}): "she takes"
+*''{{transl|syc|šqul}}'' ({{lang|syc|ܫܩܘܿܠ}}): "take!"
+*''{{transl|syc|šqālā}}'' ({{lang|syc|ܫܩܵܠܵܐ}}): "taking"
+*''{{transl|syc|šqīlā}}'' ({{lang|syc|ܫܩܝܼܠܵܐ}}): "taken"
+
+=== Tenses ===
+Suret has lost the [[Perfect (grammar)|perfect]] and [[imperfect]] [[morphology (linguistics)|morphological]] tenses common in other Semitic languages. The [[present tense]] is usually marked with the [[subject (grammar)|subject]] [[pronoun]] followed by the [[participle]]; however, such pronouns are usually omitted in the case of the third person. This use of the participle to mark the present tense is the most common of a number of ''compound'' tenses that can be used to express varying senses of tense and aspect.<ref>Comrie, Bernard, ''Tense'', Cambridge Univ. Press, 1985.</ref>{{page needed|date=June 2021}} Suret's new system of inflection is claimed to resemble the one of the Indo-European languages, namely the [[Iranian languages]]. This assertion is founded on
+the utilisation of an [[active participle]] concerted with a [[copula (linguistics)|copula]] and a [[passive participle]] with a genitive/[[dative]] element which is present in [[Old Persian]] and in Neo-Aramaic.<ref>E. Kutscher, Two "Passive" Constructions in Aramaic in the Light of Persian, in: Proceedings of the International Conference on Semitic Studies held in Jerusalem, 19–23 July 1965, [[The Israel Academy of Sciences and Humanities]] 1969, pp. 132–151</ref>
+
+Both Modern Persian and Suret build the [[present perfect tense]] around the past/[[resultative]] participle in conjunct with the copula (though the placing and form of the copula unveil crucial differences). The more conservative Suret dialects lay the copula in its full shape before the verbal [[Constituent (linguistics)|constituent]]. In the Iraqi and Iranian dialects, the previous construction is addressable with different types of the copula (e.g. [[deictic]]) but with the elemental copula only the cliticised form is permitted. Among conservative Urmian speakers, only the construction with the enclitic ordered after the verbal constituent is allowed. Due to [[language contact]], the similarities between Kurdish and Modern Persian and the Urmian dialects become even more evident with their [[Negation (linguistics)|negated]] forms of present perfect, where they display close similarities.<ref>Cf. M. Tomal, Studies in Neo-Aramaic Tenses, Kraków 2008, pp. 108 and 120.</ref>
+
+A recent feature of Suret is the usage of the [[infinitive]] instead of the present base for the expression of the [[present progressive]], which is also united with the copula. Although the language has some other varieties of the copula precedent to the verbal constituent, the common construction is with the infinitive and the basic copula cliticsed to it. In the [[Jewish Neo-Aramaic dialect of Urmia]], the symmetrical order of the constituents is with the present perfect tense. This structure of the NENA dialects is to be compared with the present progressive in Kurdish and [[Turkish language|Turkish]] as well, where the enclitic follows the infinitive. Such construction is present in Kurdish, where it is frequently combined with the [[locative]] element "in, with", which is akin to the preposition bi- preceding the infinitive in Suret (as in "bi-ktawen" meaning 'I'm writing'). The similarities of the constituents and their [[Morphosyntactic alignment|alignment]] in the present progressive construction in Suret is clearly attributed to influence from the neighbouring languages, such as the use of the infinitive for this construction and the employment of the enclitic copula after the verbal base in all verbal constructions, which is due to the impinging of the Kurdish and Turkish speech.<ref>E. McCarus, op. cit., p. 619, Kapeliuk gives further examples, see O. Kapeliuk, The gerund and gerundial participle in Eastern Neo-Aramaic, in: "Sprachtypologie und Universalienforschung" 1996, Vol. 51, p. 286.</ref>
+
+The [[morphology (linguistics)|morphology]] and the valency of the verb, and the arrangement of the [[Grammatical relation|grammatical role]]s should be noticed when it comes to the similarities with [[Kurdish language|Kurdish]]. Unlike [[Old Persian]], [[Modern Persian]] made no distinction between [[Transitive verb|transitive]] and [[intransitive verb]]s, where it unspecialised the [[absolutive]] type of inflection. Different handling of inflection with transitive and intransitive verbs is also nonexistent in the NENA dialects. In contrast with Persian though, it was the ergative type that was generalised in NENA.<ref>O. Kapeliuk, Is Modern Hebrew the Only "Indo-Europeanized" Semitic Language? And What About Neo-Aramaic?, "Israel Oriental Studies" 1996, Vol. 16, pp. 59–70</ref><ref>M. Chyet, Neo Aramaic and Kurdish. An Interdisciplinary Consideration of their Influence on Each Other, "Israel Oriental Studies" 1997, Vol. 15, pp. 219–252.</ref>
+
+{| class="wikitable" align="center"
+|+ Persian and Suret verb tense comparison
+|-
+! Language !! Transitive verb !! Intransitive verb
+|-
+| Modern Persian
+| {{interlinear|košte-am|kill.PPTCP-COP.1SG|'I killed'}}
+| {{interlinear|āmade-am|arrive.PPTCP-COP.1SG|'I arrived'}}
+|-
+| Suret{{clarify|which dialect|date=June 2021}}
+| {{interlinear|qṭǝl-li|kill.PPTCP-1SG.OBL|'I killed'}}
+| {{interlinear|dmǝx-li|sleep.PPTCP-1SG.OBL|'I went to sleep'}}
+|}
+
+===Ergativity===
+Although Aramaic has been a nominative-accusative language historically, [[split ergativity]] in Christian and Jewish Neo-Aramaic languages developed through interaction with ergative [[Iranian languages]], such as [[Kurdish language|Kurdish]], which is spoken by the Muslim population of the region.<ref>Cf. G. Khan, Ergativity in North Eastern Neo-Aramaic Dialects in: Alter Orient und Altes Testament. Studies in Semitics and General Linguistics Honor of Gideon Goldenberg, (334) 2007, pp. 147–157.</ref> Ergativity formed in the [[perfective]] aspect only (the [[imperfective]] aspect is nominative-accusative), whereas the [[subject (grammar)|subject]], the original [[agent (grammar)|agent]] [[Grammatical construction|construction]] of the passive participle, was expressed as an [[oblique case|oblique]] with [[dative case]], and is presented by [[Agreement (linguistics)|verb-agreement]] rather than case. The absolutive argument in [[Transitive verb|transitive]] clauses is the syntactic [[object (grammar)|object]].<ref>Ura, Hiroyuki. 2006. A Parametric Syntax of Aspectually Conditioned Split-ergativity. In Alana Johns, Diane Massam, and Juvenal Ndayiragije (eds.) Ergativity: Emerging issues. Dordrecht: Springer. 111-141.</ref><ref>A. Mengozzi, Neo-Aramaic and the So-called Decay of Ergativity in Kurdish, in: Proceedings of the 10th Meeting of Hamito-Semitic (Afroasiatic) Linguistics (Florence, 18–20 April 2005), Dipartamento di Linguistica Università di Firenze 2005, pp. 239–256.</ref> The dialects of Kurdish make a concordant distinction between transitive and intransitive verbs by using a tense-split ergative pattern, which is present in the tense system of some NENA dialects; The nominative accusative type is made use of in the present for all the verbs and also for intransitive verbs in past tense and the ergative type is used instead for transitive verbs.<ref>W. Thackston, op. cit. and E. McCarus, Kurdish Morphology, in: A. Kaye (ed.) Morphologies of Asia and Africa (Including the Caucasus)</ref>
+
+Unique among the Semitic languages, the development of ergativity in northeastern Neo-Aramaic dialects involved the departure of original Aramaic tensed [[finite verb]]al forms.<ref>Nash, Lea. 1996. The Internal Ergative Subject Hypothesis. Proceedings of NELS 26: 195–210.</ref> Thereafter, the active participle became the root of the Suret imperfective, while the [[passive voice|passive]] participle evolved into the Suret perfective.<ref>Alexiadou, Artemis. 2001. Functional Structure in Nominals: Nominalization and Ergativity. Amsterdam: John Benjamins.</ref>{{Page needed|date=May 2020}} The Extended-Ergative dialects, which include Iraqi Koine, Hakkari and Christian Urmian dialects, show the lowest state of ergativity and would mark [[unaccusative]] subjects and [[intransitive verb]]s in an ergative pattern.<ref>Hoberman, Robert. 1989. The Syntax and Semantics of Verb Morphology in Modern Aramaic: A Jewish Dialect of Iraqi Kurdistan. New Haven: American Oriental Society.</ref> 
+
+{| class="wikitable" align="center"
+|+ Ergativity patterns
+|-
+! Perfective stem
+! Split-S <br> (Jewish [[Sulemaniyya]])
+! Dynamic-Stative <br>(Jewish Urmi)
+! Extended-Erg <br>(Christian Hakkari dialects)
+|-
+| he opened it
+| {{interlinear|pləx-∅-le|open-ABS-ERG|}}
+| {{interlinear|pləx-∅-le|open-ABS-ERG|}}
+| {{interlinear|ptíx-∅-le|open-MASC-ERG|}}
+|-
+| it opened
+| {{interlinear|plix-∅|open-ABS|}}
+| {{interlinear|pləx-le|open-ERG|}}
+| {{interlinear|ptíx-le|open-ERG|}}
+|-
+| it got cut
+| {{interlinear|qəṭe-∅|cut-ABS|}}
+| {{interlinear|qṭe-le|cut-ERG|}}
+| {{interlinear|qṭí-le|cut-ERG|}}
+|-
+| it was ruined
+| {{interlinear|xrəw-∅-le|ruin-ABS-ERG|}}
+| {{interlinear|məxrəw-le-le|ruin-ERG-ACC|}}
+| {{interlinear|xríw-∅-le|ruin-ABS-ERG|}}
+|}
+
+==Vocabulary==
+One online Suret dictionary, [http://www.assyrianlanguages.org/sureth/index.php Sureth Dictionary], lists a total 40,642 words–half of which are [[Root (linguistics)|root words]].<ref>[http://www.assyrianlanguages.org/sureth/index.php Sureth dictionary] by Association Assyrophile de France</ref> Due to geographical proximity,<ref>Younansardaroud, Helen, ''Synharmonism in the Särdä:rïd Dialect'', Journal of Assyrian Academic Studies 12:1 (1998): 77–82.</ref> Suret [[List of loanwords in Assyrian Neo-Aramaic|has an extensive number]] of [[Iranian languages|Iranian]] [[loanwords]]–namely [[Persian language|Persian]] and Kurdish–incorporated in its vocabulary, as well as some Arabic, [[Ottoman Turkish language|Ottoman Turkish]] and, increasingly within the last century, English loanwords. [[Mesopotamian Arabic|Mesopotamian Iraqi Arabic]], being an Aramaic Syriac [[substratum]], is said to be the most Syriac-[[Varieties of Arabic|influenced dialect of Arabic]],<ref name=":1">{{Cite journal|last=Sanchez|first=Francisco del Rio|title=&quot;Influences of Aramaic on dialectal Arabic&quot;, in: Archaism and Innovation in the Semitic Languages. Selected papers|url=https://www.academia.edu/3782152}}</ref><ref>{{Cite book|title=Tradition and modernity in Arabic language and literature|others=Smart, J. R., Shaban Memorial Conference (2nd : 1994 : University of Exeter)|isbn=9781136788123|location=Richmond, Surrey, U.K.|oclc=865579151|last1 = Smart|first1 = J. R.|date = 2013-12-16}}</ref> sharing significant similarities in language structure, as well as having evident and stark influences from other ancient Mesopotamian languages of Iraq, such as [[Akkadian language|Akkadian]], [[Babylonia]]n and [[Sumerian language|Sumerian]].<ref name=":Khan 2007" /><ref name=":1" /> Mesopotamian Arabic dialects developed by [[Iraqi Arabs|Iraqi Muslims]], [[History of the Jews in Iraq|Iraqi Jews]], as well as dialects by [[Christianity in Iraq|Iraqi Christians]], most of whom are native NENA speakers.{{cn|date=June 2021}}
+Suret has over 300 words borrowed into its vocabulary directly from Akkadian, some of them also being borrowed into neighbouring Semitic languages such as Arabic and Hebrew. Several of these words are not attested in Classical Edessan Syriac, many of them being [[agriculture|agricultural]] terms, being more likely to survive by being spoken in agrarian rural communities rather than the urban centres like Edessa.<ref name=":Khan 2007" /> A few deviations in pronunciation between the Akkadian and the Assyrian Aramaic words are probably due to mistranslations of cuneiform signs which can have several readings. While Akkadian nouns generally end in "''-u''" in the nominative case, Assyrian Neo-Aramaic words nouns end with the vowel "''-a''" in their lemma form.<ref>Samuel A.B. Mercer, "Assyrian Grammar with Chrestomathy and Glossary" Frederick Ungar Publishing, New York, 1961</ref>
+
+{| class="wikitable" align="center"
+|+Akkadian and Suret vocabulary{{refn|group="N"|Many Akkadian and Aramaic words share the same [[Semitic root]] and have [[cognate]]s in Arabic and Hebrew as well. Therefore, the list below focuses on words that are direct loanwords (not cognates) from Akkadian into Suret. Other Semitic languages that have borrowed the word from Akkadian may be noted as well.}}
+|-
+! colspan="2" |Akkadian!! rowspan="2" |Suret!! rowspan="2" | Modern meaning
+! rowspan="2" |Notes
+|-
+![[Cuneiform]]
+!Transliteration
+|-
+|{{lang|akk|𒌉𒌉𒇲}}
+|{{transl|akk|''daqqu''}}
+|{{transl|syr|''daiqa''}}
+|very small, tiny
+|
+|-
+|𒂊𒄈𒌅 
+|''egirtu''
+|''iggarṯa''
+|letter, epistle
+|Also borrowed into Hebrew ''ʾiggéreṯ'' ([[wikt:אגרת|אִגֶּרֶת]]).
+|-
+|
+|''elulu''
+|''ullul''
+|up, upwards
+|
+|-
+|𒋓
+|''išku''
+|''iškā''{{citation needed|date=January 2020|reason=Descendant or cognate with the Akkadian word?}}
+|testicle
+|Cognate with Hebrew ''ʾéšeḵ'' ([[wikt:אשך|אֶשֶׁךְ]]).
+|-
+|
+|''gappu''
+|''gulpa''
+|wing
+|
+|-
+|
+|''gir-ba-an-nu''
+|''qurbana''
+|offering, sacrifice
+|
+|-
+|𒄀𒅆𒅕𒊑
+|''gišru''
+|''gišra''
+|bridge
+|Also borrowed into Classical Syriac ''gešrā'' ([[wikt:ܓܫܪܐ|ܓܫܪܐ]]), Arabic ''ǧisr'' ([[wikt:جِسْر|جِسْر]]), Hebrew ''géšer'' ([[wikt:גשר|גֶּשֶׁר]]).
+|-
+|
+|''hadutu''
+|''ḥḏuṯa''
+|joy, happiness
+|
+|-
+|
+|''ittimalu''
+|''timmal''
+|yesterday
+|
+|-
+|𒌆𒁇𒌆
+|''kusītu''
+|''kosiṯa''
+|hat, headgear
+|
+|-
+|
+|''kutallu''
+|''qḏala''
+|neck
+|
+|-
+|𒈛
+|''massu'u'', ''mesû''
+|''msaya''
+|to clean, wash clothes
+|
+|-
+|𒆳
+|''mātu''
+|''maṯa''
+|village; homeland
+|
+|-
+|
+|''migru''
+|''myuqra''
+|favourite, honourable
+|
+|-
+|𒈦𒂗𒆕
+|''muškēnu''
+|''miskena''
+|poor, impoverished
+|
+|-
+|𒇽𒉽
+|''nakru''
+|''naḵraya''
+|foreign(er), outlandish
+|Compare Classical Syriac ''nūḵrāyā'' ([[wikt:ܢܘܟܪܝܐ|ܢܘܟܪܝܐ]]), Hebrew ''noḵrî'' ([[wikt:נוכרי|נָכְרִי]]).
+|-
+|
+|''napahu''
+|''npaḥa''
+| blow, exhale
+|
+|-
+|𒉈𒋢𒌒
+|''našāgu''
+|''nšaqa''
+|to kiss
+|
+|-
+|𒄩
+|''nunu''
+|''nuna''
+| fish
+|
+|-
+|
+|''paraku''
+|''praḥa''
+|to fly, glide
+|
+|-
+|𒋻
+|''parāsu''
+|''praša''
+|to separate, part
+|
+|-
+|𒀭𒁇
+|''parzillu''
+|''prezla''
+|iron, metal
+|
+|-
+|𒁔
+|''pašāru''
+|''pšara''
+|to melt, dissolve
+|
+|-
+|
+|''qurbu''
+|''qurba''
+|nearby
+|
+|-
+|𒃲
+|''rabû''
+|''ra(b)ba''
+|large, great (in quality or quantity)
+|
+|-
+|𒋤
+|''rêqu''
+|''reḥqa''
+|far, distant
+|
+|-
+|
+|''sananu''
+|''sanyana''
+|hater, rival
+|
+|-
+|𒄑𒃴
+|''simmiltu'' 
+|''si(m)malta, si(m)manta''
+|ladder
+|Borrowed into Classical Syriac as ''sebbelṯā'' ([[wikt:ܣܒܠܬܐ|ܣܒܠܬܐ]]).
+|-
+|
+|''sissu''
+|''susa''
+|horse
+|Compare Hebrew ''sûs'' ([[wikt:סוס|סוּס]]).
+|-
+|𒊭𒁀𒁉𒅎
+|''ša bābi''
+|''šḇaḇa''
+|neighbour
+|
+|-
+|𒂄
+|''šahānu''
+|''šḥana''
+|to warm, heat up
+|
+|-
+|𒇽𒁁
+|''šalamtu''
+|''šla(d)da''
+|body, corpse
+|
+|-
+|𒌑
+|''šammu''
+|''samma''
+|drug, poison
+|
+|-
+|
+|''šuptu''
+|''šopa''
+|place, spot
+|
+|-
+|𒄭
+|''ṭābu''
+|''ṭaḇa''
+|good, pleasant
+|
+|-
+|
+|''tapahu''
+|''tpaḥa''
+|to pour out, spill
+|
+|-
+|
+|''tayartu''
+|''dyara''
+|to return, come back
+|
+|-
+|
+|''temuru''
+|''ṭmara''
+|to bury
+|
+|-
+|𒂡
+|''zamāru''
+|''zmara''
+|to sing
+|
+|-
+|𒍪𒊻
+|''zuzu''
+|''zuze''
+|money
+|Also borrowed into Hebrew ''zûz'' ([[wikt:זוז|זוּז]]) via Aramaic.
+|}
+
+==Dialects==
+{{Further|List of Assyrian tribes}}
+[[File:Syriac Dialects EN.svg|thumb|260px|Map of the Assyrian dialects.]]
+SIL Ethnologue distinguishes five dialect groups: Urmian, Northern, Central, Western and Sapna, each with sub-dialects. Mutual intelligibility between the Suret dialects is as high as 80%–90%.{{cn|date=June 2021}}
+
+The [[Urmia]] dialect has become the prestige dialect of Suret after 1836, when that dialect was chosen by [[Justin Perkins]], an American [[Presbyterian]] missionary, for the creation of a standard literary dialect. A second standard dialect derived from General Urmian known as "Iraqi [[Koine language|Koine]]", developed in the 20th century.<ref name="ReferenceA">Rev. Justin Perkins : "A residence of eight years in Persia among the Nestorian Christians", New York, 1843 – P: 304.</ref>
+
+In 1852, Perkins's translation of the Bible into General Urmian was published by the [[American Bible Society]] with a parallel text of the Classical Syriac [[Peshitta]].<ref>Wilmshurst, David, ''The ecclesiastical organisation of the Church of the East, 1318–1913'', Leuven: Peeters Publishers, 2000, p. 278</ref><ref>Odisho, Edward, 1988</ref>
+
+===Grouping===
+[[File:Urmianaccent.ogg|thumb|right|Sample of the Urmian dialect. Note the [[Persian language|Persian]] and [[Azerbaijani language|Azerbaijani]] influences on [[speech tempo|cadence]] and [[pronunciation]],{{sfn|Yildiz|2000a|p=42}} particularly the use of [v], [ʊj] and the frequency of [t͡ʃ].]]
+* '''''Iranian group''''':
+** [[Urmia]] (west of [[Lake Urmia]]) ([[Christian Neo-Aramaic dialect of Urmia]])
+** Sopurghan (north of [[Urmia]])
+** [[Naghadeh]] (south of [[Lake Urmia]])
+** [[Salmas]] (north west of [[Lake Urmia]]) 
+** [[Sanandaj]] ([[Iranian Kurdistan]]) ([[Senaya language|Senaya dialect]])
+*'''''Turkey group''''':
+**[[Nochiya tribe|Nochiya]]
+** [[Jilu]] (west of Gavar and south of Qudshanis)
+** Gawar (between Salmas and Van)
+** Diza
+** [[Baz, Turkey|Baz]]
+** [[File:Tyariaccent.ogg|thumb|right|Sample of the Tyari dialect. Notice the usage of [θ], [ð] and [aw].]] Lower [[Tyari]] – Dialects of the Tyari group share features with both the Chaldean Neo-Aramaic dialects in Northern Iraq (below) and Urmian (above). 
+*** [[Ashita]]
+*** [[Zawita]]
+***[[Andaç, Uludere|Halmon/Geramon]]
+***Mangesh
+**Upper Tyari
+***Walto
+**Upper [[Barwari]]
+*** [[Qochanis]] (just south of [[Lake Van]])
+**Tkhuma
+**Tal
+**Lewin
+**[[Bohtan]] ([[Neo-Aramaic dialect of Bohtan]])
+*'''''northern [[Iraq]] ([[Nineveh Plains]])''''': {{anchor|Nineveh Plains}}
+**[[File:Chaldeandialect.ogg|thumb|right|Sample of the [[Alqosh]] dialect (voice by Bishop [[Amel Shamon Nona]]). Notice the usage of [ħ] and [ʕ], and the many Arabic loanwords (at least in this discourse).]] 
+***[[Tel Keppe]]
+*** [[Alqosh]]
+*** [[Batnaya]]
+*** [[Tel Isqof|Tesqopa]]
+*** [[Zakhu]] 
+***[[Araden]]
+** Lower Barwari – The dialect within this group has more in common with Tyari than with Upper Barwari dialect
+*** Dooreh
+*** Hayes
+
+===Iraqi Koine===
+[[File:IraqiKoine.ogg|thumb|right|Sample of the Iraqi Koine dialect (voice by [[Linda George (Assyrian singer)|Linda George]]). Notice how it combines the phonetic features of the Hakkari (Turkey) and Urmian (Iran) dialects.]]
+Iraqi Koine, also known as Iraqi Assyrian and "Standard" Assyrian, is a compromise between the rural Ashiret accents of Hakkari and [[Nineveh Plains]] (listed above) and the former prestigious dialect in [[Urmia]]. Iraqi Koine does not really constitute a new dialect, but an incomplete merger of dialects, with some speakers sounding more Urmian, such as those from [[Habbaniyah|Habbaniya]], and others more Hakkarian, such as those who immigrated from northern [[Iraq]]. Koine is more analogous or similar to Urmian in terms of manner of articulation, place of articulation and its [[consonant cluster]] formations than it is to the Hakkari dialects, though it just lacks the regional [[Persian language|Persian]] influence in some consonants and vowels, as the [[front vowel]]s in Urmian tend to be more fronted and the [[back vowel|back ones]] more rounded.<ref name="Shamāshā Dāwīd 1963, p. 895"/> For an [[English accent]] equivalence, the difference between Iraqi Koine and Urmian dialect would be akin to the difference between [[Australian English|Australian]] and [[New Zealand English]].<ref name="ReferenceB"/>
+
+During the [[First World War]], many Assyrians living in [[Ottoman Turkey]] were [[Assyrian genocide|forced from their homes]], and many of their descendants now live in [[Iraq]]. The relocation has led to the creation of this dialect. Iraqi Koine was developed in the [[Urban area|urban]] areas of [[Iraq]] (i.e. [[Baghdad]], [[Basra]], Habbaniya and [[Kirkuk]]), which became the meccas for the rural Assyrian population. By the end of the 1950s, vast number of Assyrians started to speak Iraqi Koine. Today, Iraqi Koine is the predominant use of communication between the majority of the Assyrians from [[Cities in Iraq|Iraqi cities]] and it is also used as the standard dialect in music and formal speech.<ref name="ReferenceB"/>
+
+Some modern Hakkari speakers from Iraq can switch [[accent reduction|back and forth]] from their Hakkari dialects to Iraqi Koine when conversing with Assyrian speakers of other dialects. Some [[Syrian-Assyrians]], who originate from Hakkari, may also speak or sing in Iraqi Koine. This is attributed to the growing exposure to Assyrian Standard-based literature, media and its use as a [[liturgical]] language by the Church of the East, which is based in Iraq. Elements of original ''Ashiret'' dialects can still be observed in Iraqi Koine, especially in that of older speakers. Furthermore, [[Syriac folk music|Assyrian songs]] are generally sung in Iraqi Koine in order for them to be intelligible and have widespread recognition. To note, the emergence of Koine did not signify that the rest of the spoken dialects vanished. The ''Ashiret'' dialects are still active today and widely spoken in northern [[Iraq]] and Northeastern Syria as some Assyrians remained in the rural areas and the fact that the [[first generation immigrant|first generation]] speakers who relocated in urban areas still maintained their native dialects.<ref name="ReferenceB"/>
+
+===Dialect continuum===
+Neo-Aramaic has a rather slightly defined [[dialect continuum]], starting from the Assyrians in northern [[Iraq]] (e.g. [[Alqosh]], [[Batnaya]]) and ending with those in Western [[Iran]] ([[Urmia]]). The dialects in Northern Iraq, such as those of Alqosh and Batnaya, would be minimally unintelligible to those in Western Iran.<ref name="Shamāshā Dāwīd 1963, p. 895">Beth-Zay‘ā, Esha‘yā Shamāshā Dāwīd, ''Tash‘īthā d-Beth-Nahreyn'', Tehran: Assyrian Youth Cultural Society Press, 1963, p. 895</ref>
+
+Nearing the Iraqi-Turkey border, the [[Barwari]] and [[Tyari]] dialects are more "traditionally Assyrian" and would sound like those in the [[Hakkari province]] in Turkey. Furthermore, the Barwar and Tyari dialects are "transitional", acquiring both Assyrian and Chaldean phonetic features (though they do not use /ħ/). Gawar, Diz and [[Jilu]] are in the "centre" of the spectrum, which lie halfway between Tyari and Urmia, having features of both respective dialects, though still being distinct in their own manner.<ref name="ReferenceB">Odisho, Edward: The Sound System of Modern Assyrian (Neo-Aramaic) - Weisbaden, Harrassowitz, 1988</ref>
+
+In Hakkari, going east (towards [[Iran]]), the [[Nochiyaye|Nochiya]] dialect would begin to sound distinct to the Tyari/Barwar dialects and more like the Urmian dialect in [[Urmia]], [[West Azerbaijan Province|Western Azerbaijan]], containing a few Urmian features. The Urmian dialect, alongside Iraqi Koine, are considered to be "Standard Assyrian", though Iraqi Koine is more widespread and has thus become the more common standard dialect in recent times. Both Koine and Urmian share phonetic characteristics with the Nochiya dialect to some degree.<ref name="ReferenceA"/>
+
+==Literature==
+{{main|Syriac literature}}
+Early Syriac texts still date to the 2nd century, notably the [[Peshitta|Syriac Bible]] and the ''[[Diatesseron]]'' Gospel harmony. The bulk of Syriac literary production dates to between the 4th and 8th centuries.
+Classical Syriac literacy survives into the 9th century, though Syriac Christian authors in this period increasingly wrote in [[Arabic]]. The emergence of spoken [[Neo-Aramaic languages|Neo-Aramaic]] is conventionally dated to the 13th century, but a number of authors continued producing literary works in Syriac in the later medieval period.{{sfn|Brock|1996|p=}}
+
+Because Assyrian, alongside [[Turoyo]], is the most widely spoken variety of Syriac today, modern Syriac literature would therefore usually be written in those varieties.<ref>Sebastian P. Brock, Aaron Michael Butts, George Anton Kiraz & Lucas Van Rompay (eds.), Gorgias Encyclopedic Dictionary of the Syriac Heritage, Piscataway (NJ), Gorgias Press, 2011</ref> The conversion of the [[Mongols]] to Islam began a period of retreat and hardship for Syriac Christianity and its adherents, although there still has been a continuous stream of Syriac literature in [[Upper Mesopotamia]] and the [[Levant]] from the 14th century through to the present day. This has included the flourishing of literature from the various colloquial [[Eastern Aramaic]] [[Neo-Aramaic]] languages still spoken by [[Assyrian people|Assyrians]].
+
+This ''Neo-Syriac'' literature bears a dual tradition: it continues the traditions of the Syriac literature of the past and it incorporates a converging stream of the less homogeneous spoken language. The first such flourishing of Neo-Syriac was the seventeenth century literature of the School of [[Alqosh]], in northern [[Iraq]].<ref>William Wright: ''A Short History of Syriac Literature'', 1894, 1974 (reprint)
+</ref> This literature led to the establishment of Assyrian Aramaic as written literary languages.
+
+In the nineteenth century, [[printing press]]es were established in [[Urmia]], in northern [[Iran]]. This led to the establishment of the 'General Urmian' dialect of Assyrian Neo-Aramaic as the standard in much Neo-Syriac Assyrian literature up until the 20th century. The ''Urmia Bible'', published in 1852 by Justin Perkins was based on the [[Peshitta]], where it included a parallel translation in the Urmian dialect. The comparative ease of modern publishing methods has encouraged other colloquial Neo-Aramaic languages, like Turoyo, to begin to produce literature.{{sfn|Brock|1992|p=}}{{sfn|Brock|2006|p=}}
+{{clear}}
+
+==See also==
+*[[Assyrian people]]
+*[[Aramaic language]]
+*[[Syriac alphabet]]
+*[[Syriac language]]
+
+==Notes==
+{{reflist|group=N}}
+
+==References==
+{{reflist}}
+
+==Sources==
+{{refbegin|2}}
+* {{Cite book|last=Beyer|first=Klaus|title=The Aramaic Language: Its Distribution and Subdivisions|year=1986|location=Göttingen|publisher=Vandenhoeck & Ruprecht|isbn=9783525535738|url=https://books.google.com/books?id=pZ53zpMQNLEC}}
+* {{Cite journal|last=Brock|first=Sebastian P.|author-link=Sebastian P. Brock|title=Three Thousand Years of Aramaic Literature|journal=Aram Periodical|year=1989|volume=1|number=1|pages=11–23|url=https://www.aramsociety.org/periodical/published-papers}}
+* {{Cite book|last=Brock|first=Sebastian P.|author-link=Sebastian P. Brock|title=Studies in Syriac Christianity: History, Literature, and Theology|year=1992|location=Aldershot|publisher=Variorum|isbn=9780860783053|url=https://books.google.com/books?id=Hp_YAAAAMAAJ}}
+* {{Cite book|last=Brock|first=Sebastian P.|author-link=Sebastian P. Brock|title=Syriac Studies: A Classified Bibliography, 1960-1990|year=1996|location=Kaslik|publisher=Parole de l'Orient|url=https://books.google.com/books?id=wUzgAAAAMAAJ}}
+* {{Cite book|last=Brock|first=Sebastian P.|author-link=Sebastian P. Brock|title=Fire from Heaven: Studies in Syriac Theology and Liturgy|year=2006|location=Aldershot|publisher=Ashgate|isbn=9780754659082|url=https://books.google.com/books?id=Ey_FW7acTycC}}
+* {{Cite book|editor-last=Heinrichs|editor-first=Wolfhart|editor-link=Wolfhart Heinrichs|title=Studies in Neo-Aramaic|year=1990|location=Atlanta|publisher=Scholars Press|isbn=9781555404307|url=https://books.google.com/books?id=3n0OAAAAYAAJ}}
+* [http://www.aina.org/articles/rothbotmal.pdf/ Remarks on the Historical Background of the Modern Assyrian Language], [[Geoffrey Khan]], [[University of Cambridge]]
+* [[Arthur John Maclean|Maclean, Arthur John]] (1895). ''Grammar of the dialects of vernacular Syriac: as spoken by the Eastern Syrians of Kurdistan, north-west Persia, and the Plain of Mosul: with notices of the vernacular of the Jews of Azerbaijan and of Zakhu near Mosul''. Cambridge University Press, London.
+* {{Cite journal|last=Yildiz|first=Efrem|title=The Assyrians: A Historical and Current Reality|journal=Journal of Assyrian Academic Studies|year=1999|volume=13|number=1|pages=15–30|url=https://www.academia.edu/22095031}}
+* {{Cite journal|last=Yildiz|first=Efrem|title=The Aramaic Language and Its Classification|journal=Journal of Assyrian Academic Studies|year=2000a|volume=14|number=1|pages=23–44|url=https://www.academia.edu/22094684}}
+* {{Cite journal|last=Yildiz|first=Efrem|title=Los Asirio-Caldeos, Cristianos orientales arameoparlantes|journal=Dialogo Ecumenico|year=2000b|volume=35|number=112|pages=263–282|url=https://summa.upsa.es/high.raw?id=0000002192&name=00000001.original.pdf}}
+* {{Cite book|last=Yildiz|first=Efrem|chapter=The Assyrian Linguistic Heritage and its Survival in Diaspora|title=The Assyrian Heritage: Threads of Continuity and Influence|year=2012|location=Uppsala|publisher=Uppsala Universitet|pages=201–220|chapter-url=https://www.academia.edu/25156354}}
+{{refend}}
+
+== External links ==
+{{Incubator|code=aii}}
+{{wiktionary category}}
+* [[v:Assyrian/Latin Alphabet Learn Assyrian|Latin Alphabet]] on [[Wikiversity]]
+* [http://www.omniglot.com/writing/assyrianneoaramaic.htm Assyrian Neo-Aramaic alphabets] at ''Omniglot''
+* [http://semarch.uni-hd.de/dokumentgruppen.php4?ST_ID=5&DT_ID=42 Semitisches Tonarchiv: Dokumentgruppe "Aramäisch/Neuostaramäisch (christl.)"]. {{in lang|de}}
+* [http://www.lexilogos.com/english/syriac_dictionary.htm Syriac-English dictionary & French]
+
+{{Neo-Aramaic}}
+{{Afro-Asiatic languages}}
+{{Assyrian topics}}
+{{navboxes|
+|list =
+{{Modern Semitic languages}}
+{{Languages of Iran}}
+{{Languages of Iraq}}
+{{Languages of Syria}}
+{{Languages of the Caucasus}}
+}}
+
+{{authority control}}
+
+[[Category:Eastern Aramaic languages]]
+[[Category:Christian Northeastern Neo-Aramaic dialects]]
+[[Category:Languages of Iraq]]
+[[Category:Languages of Syria]]
+[[Category:Languages of Iran]]
+[[Category:Languages of Armenia]]
+[[Category:Languages of Georgia (country)]]
+[[Category:Languages of Turkey]]
+[[Category:Fusional languages]]
+[[Category:Stress-timed languages]]
+[[Category:Subject–verb–object languages]]
+[[Category:Subject–object–verb languages]]
+[[Category:Verb–subject–object languages]]
+[[Category:Verb–object–subject languages]]
+[[Category:Object–verb–subject languages]]
+[[Category:Object–subject–verb languages]]
+[[Category:Endangered Afroasiatic languages]]
+[[Category:Languages of Kurdistan]]

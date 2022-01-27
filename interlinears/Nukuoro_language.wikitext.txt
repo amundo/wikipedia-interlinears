@@ -1,0 +1,259 @@
+{{Infobox language
+|name=Nukuoro
+|nativename=''Nukuoro''
+|states=[[Federated States of Micronesia|Micronesia]]
+|region=Western [[Nukuoro Island]]
+|speakers=700
+|date=2016
+|ref=e19
+|speakers2=140 in the U.S. (no date)<ref>{{e17|nkr|Nukuoro}}<!--from 40 in e16--></ref>
+|familycolor=Austronesian
+  |fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+  |fam3=[[Oceanic languages|Oceanic]]
+  |fam4=[[Polynesian languages|Polynesian]]
+  |fam5=[[Ellicean languages|Ellicean]]
+|iso3=nkr
+|glotto=nuku1260
+|glottorefname=Nukuoro
+}}
+
+The '''Nukuoro language''' is a [[Polynesian outlier|Polynesian Outlier]] language, spoken by about 1,200 people on [[Nukuoro]] [[Atoll]] and on [[Pohnpei]], two islands of [[Pohnpei state|Pohnpei State]] within the [[Federated States of Micronesia]]. Nukuoro is a remote coral atoll with a population of about 150, where the primary language is Nukuoro. An additional several hundred Nukuoro speakers live in [[Kolonia, Pohnpei]], with smaller diaspora communities elsewhere in [[Micronesia]] and in the [[United States]]. Most Nukuoro speakers, particularly those that live away from Nukuoro Atoll, are multilingual in [[Pohnpeian language|Pohnpeian]] and/or [[English language|English]]; some older Nukuoro speakers also know [[German language|German]] or [[Japanese language|Japanese]]. 
+
+== Classification ==
+Nukuoro belongs to the [[Polynesian languages|Polynesian language family]], a branch of the [[Oceanic languages|Oceanic]] subgroup of the [[Austronesian languages|Austronesian family]]. It is closely related to other Polynesian languages, with considerable phonological and lexical similarities. Within the Polynesian branch, Nukuoro is a member of the [[Polynesian outlier|Polynesian Outliers]], which are spoken by island populations in Micronesia, Papua New Guinea, the Solomon Islands, Vanuatu, and New Caledonia.<ref>Drummond, Emily, Johnny Rudolph, and K. David Harrison. (2019). [https://www.researchgate.net/publication/350347287_A_Nukuoro_Origin_Story A Nukuoro creation story]. ''Pacific Asia Inquiry'' 10(1): 141-171.</ref> Nukuoro is most closely related to [[Kapingamarangi language|Kapingamarangi]], the only other Polynesian language found in Micronesia. While the two languages are not mutually intelligible, it is nonetheless possible for a speaker of one language to make themselves understood to a speaker of the other with some difficulty.<ref name=":0" />
+
+==Language use and orthography==
+
+===Population===
+The primary language spoken on the Nukuoro atoll is Nukuoro. In 1965 there were approximately 400 speakers. 260 of these speakers resided on the atoll, 125 lived on [[Pohnpei|Ponape]], the District Center, and a few others were spread out on the other islands in the District (Carroll 1965). The current population is estimated to be at about 1000 speakers. 
+
+=== Orthography ===
+The Nukuoro writing system was developed by Chief Leka in the 1920s, perhaps with the assistance of resident Europeans or missionaries in Ponape. It is known and used in some form by nearly all Nukuoro speakers, and has been the educational standard since its creation.<ref name=":0">{{Cite journal|last=Carroll|first=Vern|date=1965|title=An outline of the structure of the language of Nukuoro: Part 1.|url=https://www.jstor.org/stable/20704285|journal=Journal of the Polynesian Society|volume=74|issue=2|pages=192–226|jstor=20704285|via=JSTOR}}</ref> The Nukuoro orthography differs from other Polynesian orthographies in that voiceless stop phonemes {{IPA|/p t k/}} are written using the letters ''b d g'', a choice that probably stems from the fact that Nukuoro voiceless stops are [[unaspirated]] like English voiced stops.
+
+==Phonology==
+
+===Vowels===
+There are 5 [[Vowel quality|vowel qualities]] in Nukuoro: {{IPA|/a, e, i, o, u/}}. [[Vowel length]] is contrastive, and long vowels are represented by writing the vowel symbol twice. Long vowels are about twice as long as a short vowel, and are not rearticulated. The phonemic geminate {{IPA|/aː/}} is often realized phonetically as {{IPA|[æ]}}.<ref name=":0" />
+
+{|class="wikitable" style="text-align:center"
+|+ [[Monophthong]]s
+! rowspan=2 |
+! colspan=2 | [[Vowel length|Short]]
+! colspan=2 | [[Vowel length|Long]]
+|-
+! [[Front vowel|front]] || [[Back vowel|back]]
+! front || back
+|-
+![[Close vowel|Close]]
+|{{IPA|i}}
+|{{IPA|u}}
+|{{IPA|iː}}
+|{{IPA|uː}}
+|-
+! [[Mid vowel|Mid]]
+|{{IPA|e}}
+|{{IPA|o}}
+|{{IPA|eː}}
+|{{IPA|oː}}
+|-
+! [[Open vowel|Open]]
+| colspan=2 | {{IPA|a}}
+| colspan=2 | {{IPA|aː}}
+|}
+
+===Consonants===
+There are 10 [[consonants]] in Nukuoro, each of which is contrastive for length. [[Geminate consonant|Geminate consonants]] are articulated for about twice as long as a singleton consonant, with the exception of stops and taps: geminate stops are articulated with increased aspiration, and geminate taps are articulated as a long, pre-voiced dental or retroflex stop.<ref name=":0" /> Geminate consonants are typically found stem-initially, and are often created by reduplication.
+
+{| class="wikitable" style="text-align:center"
+|+ Consonants
+|-
+!
+![[Labial consonant|Labial]]
+![[Alveolar consonant|Alveolar]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+![[Stop consonant|Stop]]
+| {{IPA link|p}}  {{IPA|p:}}
+| {{IPA link|t}}  {{IPA|t:}}
+| {{IPA link|k}}  {{IPA|k:}}
+|
+|-
+![[Fricative consonant|Fricative]]
+| {{IPA link|v}}  {{IPA|v:}}
+| {{IPA link|s}}  {{IPA|s:}}
+|
+| {{IPA link|h}}  {{IPA|h:}}
+|-
+![[Nasal consonant|Nasal]]
+| {{IPA link|m}}  {{IPA|m:}}
+| {{IPA link|n}}  {{IPA|n:}}
+| {{IPA link|ŋ}}  {{IPA|ŋ:}}
+|
+|-
+![[Tap consonant|Tap]]
+|
+| {{IPA link|ɾ}}  {{IPA|ɾ:}}
+|
+|
+|}
+
+Like many Polynesian languages, Nukuoro has only three stops in its phonemic inventory: {{IPA|/p/}}, {{IPA|/t/}}, and {{IPA|/k/}}. These stops are unaspirated and can be variably voiced, but are phonemically voiceless. The orthography of Nukuoro represents these voiceless stops with ''b, d, g''. The alveolar tap {{IPA|/ɾ/}} is represented in Nukuoro orthography using the letter ''l'', although early records of Nukuoro (and in fact, the spelling of the language name itself) use ''r''. 
+
+Since singleton {{IPA|/p/}}, {{IPA|/t/}}, {{IPA|/k/}} are written with ''b, d, g'', geminate {{IPA|/p/}}, {{IPA|/t/}}, {{IPA|/k/}} are written with ''p, t, k''. Geminated {{IPA|/m/}}, {{IPA|/n/}}, {{IPA|/s/}}, {{IPA|/h/}}, {{IPA|/ɾ/}} are represented with double letters (''mm, nn, ss, hh, ll''), and geminated {{IPA|/ŋ/}} is written as ''nng''.<ref>Carroll, 1965, p. 196</ref>
+
+===Syllable structure===
+Syllables take the shapes V, VV, VVV, CV, CVV and CVVV. All possible V and VV combinations occur. All possible CV combinations occur except {{IPA|/vu/}}. The first member of a [[diphthong]] is always the syllabic peak when the syllable is stressed; elsewhere there is little difference between members, the peak of sonority tending to occur on the most naturally sonorous vowel.<ref name=":0" />
+
+==Grammar==
+===Reduplication===
+[[Reduplication]] is one of the most productive morphological processes in Nukuoro. Reduplication is most common for adjectives and verbs.
+
+There are two types of reduplication in Nukuoro: phoneme reduplication, which doubles the first sound to make a geminate, and full reduplication, which copies the first two syllables.
+
+Phoneme reduplication usually differentiates between singular and plural.
+:{|
+|bedi ‘fat (sg)’ 
+|→
+|pedi ‘fat (pl)’
+|-
+|lava ‘finished (sg)’
+|→
+|llava ‘finished (pl)’
+|}
+
+Full reduplication indicates that an event happens repeatedly.
+:{|
+|galo ‘look’ 
+|→
+|galogalo ‘look all around’
+|-
+|seni ‘sleep’
+|→
+|seniseni ‘oversleep’
+|-
+|daba ‘flash of light’
+|→
+|dabadaba ‘twinkling, flashing’
+|}
+
+===Basic clause structure===
+The basic [[word order]] in Nukuoro is Subject-Object-Verb, but there are also cases of Verb-Subject-Object.
+
+Template for a basic Nukuoro sentence with example:
+
+{{interlinear|indent=3
+|'''Au'''      e      '''dugu''' ange      {'''de beebaa'''} {gi honga tebele}.
+|'''1SG'''     NPST   '''put'''  DIR.3     {'''DET book'''}  {to top DET.table}
+|'''Subject''' Aspect '''Verb''' Particles '''Object'''      {Prepositional phrase}
+|‘I put the book on the table.’}}
+
+Verbs generally do not show any agreement or inflection, and nouns are not marked morphologically for case. Historically, Nukuoro had an [[Ergative–absolutive alignment|ergative-absolutive]] alignment, a system retained in many related languages.
+
+=== Pronouns ===
+
+==== Basic pronouns ====
+Nukuoro distinguishes singular, dual, and plural, as well as [[inclusive and exclusive we]].
+
+{| class="wikitable" 
+|-
+! colspan="2" | 
+! singular
+! dual
+! plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | au
+| gidaau
+| gidaadeu
+|-
+! inclusive
+| gimaau
+| gimaadeu
+|-
+! colspan="2" | 2nd person
+| goe
+| gooluu
+| goodou
+|-
+! colspan="2" | 3rd person
+| ia
+| gilaau
+| gilaadeu
+|}
+
+==== Genitive pronouns ====
+The genitive pronouns are built off the basic pronoun paradigm.
+
+The a/o distinction marks [[Alienability (grammar)|alienability]]: o marks inalienable possession, and a marks alienable possession. Some genitive pronouns do not mark the a vs. o distinction and are used for both.
+{| class="wikitable" 
+|-
+! rowspan="2" colspan="2" | 
+! colspan="3" | Paradigm for possessed singulars
+! colspan="3" | Paradigm for possessed plurals
+|-
+! singular || dual || plural
+! singular || dual || plural
+|-
+! rowspan="2" | 1st person
+! exclusive
+| rowspan="2" | dagu/dogu
+| taau || taadeu
+| rowspan="2" | agu/ogu
+| adaau/odaau || adaadeu/odaadeu
+|-
+! inclusive
+| demaau || demaadeu
+| amaau/omaau || amaadeu/omaadeu
+|-
+! colspan="2" | 2nd person
+| dau/doo || dooluu || doodou
+| au/oo || ooluu || oodou
+|-
+! colspan="2" | 3rd person
+| dana/dono || delaau || delaadeu
+| ana/ono || alaau/olaau || alaadeu/olaadeu
+|}
+
+==Endangerment==
+
+===Materials===
+There are few solid resources for the Nukuoro language. The primary and probably most informative one is Vern Carroll's book ''An Outline of the Structure of the Language of Nukuoro''. There is also a Nukuoro Lexicon that has English to Nukuoro and Nukuoro to English, as well as grammar notes.
+
+In 2013, Gregory D.S. Anderson and [[K. David Harrison]] of Living Tongues Institute for Endangered Languages created the [http://talkingdictionary.swarthmore.edu/nukuoro/ Nukuoro Talking Dictionary], a digital lexicon that includes sound recordings of Nukuoro words. This lexicon was initially populated with sound recordings from Nukuoro speakers Johnny Rudolph, Maynard Henry, and Kurt Erwin. This dictionary continues to be augmented by speakers and linguists and includes over 1000 audio tokens.
+
+===Vitality===
+Nukuoro is listed as a [[wikt:developing|developing]] language. Ethnologue states that this means it is in vigorous use but isn't yet widespread. It is being transmitted to children, and is used in schools, government, and daily life. After World War 2, there were already efforts to help preserve the language as the United States set up an elementary school taught completely in Nukuoro. The population of speakers also increased from 400 to 1000 since 1965, which shows positive growth.
+
+==Further reading==
+*Carroll, V. (1965) 'An Outline Of The Structure Of The Language Of Nukuoro'. Wellington, New Zealand: The Polynesian Society.
+*Drummond, Emily, Johnny Rudolph, and K. David Harrison. (2019). [https://www.researchgate.net/publication/350347287_A_Nukuoro_Origin_Story A Nukuoro creation story]. ''Pacific Asia Inquiry'' 10(1): 141-171.
+*Dryer, M., Haspelmath, M. Language Nukuoro. Retrieved from http://wals.info/languoid/lect/wals_code_nkr 
+*Lewis, M. Paul, Gary F. Simons, and Charles D. Fennig (2013). Nukuoro. Retrieved from https://www.ethnologue.com/language/nkr/***EDITION***
+*Newton, D. Figure of a divinity. Retrieved from http://www.famsf.org/files/jolika/douglasnewton.pdf
+*Nukuoro. Retrieved from http://www.endangeredlanguages.com/lang/nkr
+*Sato, H., Terrell, J. (2012). 'Language in Hawai’i and the Pacific'. Honolulu: Curriculum Research & Developmental Group.
+
+==See also==
+* [[Kapingamarangi language]]
+* [[Polynesian outlier]]
+* [[Polynesian languages]]
+* [[Tokelauan language]]
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [[hdl:10125/32778|436 index cards of plant and animal names]] archived with [[Kaipuleohone]]
+* [[hdl:10125/40875|Nukuoro digital lexical database]] archived with [[Kaipuleohone]]
+{{Languages of the Federated States of Micronesia}}
+{{Polynesian languages}}
+{{Austronesian languages}}
+{{Oceania topic|Languages of}}
+
+{{DEFAULTSORT:Nukuoro Language}}
+[[Category:Ellicean languages]]
+[[Category:Languages of the Federated States of Micronesia]]
+[[Category:Pohnpei]]
+[[Category:Endangered Austronesian languages]]

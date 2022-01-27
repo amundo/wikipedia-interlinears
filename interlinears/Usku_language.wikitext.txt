@@ -1,0 +1,204 @@
+{{Short description|Pauwasi language spoken in Indonesia}}
+{{Infobox language
+  |name=Usku
+  |nativename=Afra
+  |region=[[:id:Usku, Senggi, Keerom|Usku]] village, [[Senggi District]], [[Keerom Regency]], [[Papua (Indonesian province)|Papua]], [[Indonesia]]
+  |speakers=20 to 160
+  |date=2007
+  |ref=e18
+  |familycolor=Papuan
+  |fam1=[[Pauwasi languages|Pauwasi]]
+  |fam2=[[West Pauwasi languages|West Pauwasi]]
+  |iso3=ulf
+  |glotto=usku1243
+  |glottorefname=Usku
+}}
+
+'''Usku''', or '''Afra''', is a nearly [[language death|extinct]] and poorly documented [[Papuan languages|Papuan language]] spoken by 20 or more people, mostly adults, in [[:id:Usku, Senggi, Keerom|Usku]] village, [[Senggi District]], [[Keerom Regency]], [[Papua (Indonesian province)|Papua]], [[Indonesia]].
+
+Wurm (1975) placed it as an independent branch of [[Trans–New Guinea languages|Trans–New Guinea]], but [[Malcolm Ross (linguist)|Ross]] (2005) could not find enough evidence to classify it. Usher (2020) found that it was one of the [[West Pauwasi languages]], though divergent from the other two branches of that family.<ref>[https://sites.google.com/site/newguineaworld/families/pauwasi-river/west-pauwasi-river New Guinea World]</ref> Foley (2018) classifies Usku as a [[language isolate]].<ref name="Foley-NWNG"/>
+
+An automated computational analysis ([[Automated Similarity Judgment Program|ASJP]] 4) by Müller et al. (2013)<ref name="ASJP-4">Müller, André, Viveka Velupillai, Søren Wichmann, Cecil H. Brown, Eric W. Holman, Sebastian Sauppe, Pamela Brown, Harald Hammarström, Oleg Belyaev, Johann-Mattis List, Dik Bakker, Dmitri Egorov, Matthias Urban, Robert Mailhammer, Matthew S. Dryer, Evgenia Korovina, David Beck, Helen Geyer, Pattie Epps, Anthony Grant, and Pilar Valenzuela. 2013. ''[https://asjp.clld.org/static/WorldLanguageTree-004.zip ASJP World Language Trees of Lexical Similarity: Version 4 (October 2013)]''.</ref> found lexical similarities between Usku and [[Kaure languages|Kaure]]. However, since the analysis was automatically generated, the grouping could be either due to mutual lexical borrowing or genetic inheritance.
+
+==Basic vocabulary==
+Basic vocabulary of Usku from Im (2006), quoted by [[William A. Foley|Foley]] (2018):<ref>Im, Youn-Shim. 2006. ''Survey Report on the Usku Language of Papua, Indonesia''. Unpublished report. Jayapura: SIL Indonesia.</ref><ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433–568 |isbn=978-3-11-028642-7}}</ref>
+
+:{| {{table}}
+|+ Usku basic vocabulary
+! gloss !! Usku
+|-
+| ‘bird’ || rkwe
+|-
+| ‘blood’ || misie
+|-
+| ‘bone’ || kra
+|-
+| ‘breast’ || mi
+|-
+| ‘ear’ || bekria
+|-
+| ‘eat’ || nggreka
+|-
+| ‘egg’ || kri
+|-
+| ‘eye’ || nifi
+|-
+| ‘fire’ || yo
+|-
+| ‘give’ || roti
+|-
+| ‘go’ || rifri
+|-
+| ‘ground’ || taʔ
+|-
+| ‘hair’ || klekondia
+|-
+| ‘hear’ || yukri
+|-
+| ‘I’ || o
+|-
+| ‘leg’ || nafu
+|-
+| ‘louse’ || nimi
+|-
+| ‘man’ || na
+|-
+| ‘moon’ || menggrine
+|-
+| ‘name’ || təkwar
+|-
+| ‘one’ || kuskafi
+|-
+| ‘road, path’ || tra
+|-
+| ‘see’ || fra
+|-
+| ‘sky’ || mumgre
+|-
+| ‘stone’ || pani
+|-
+| ‘sun’ || winene
+|-
+| ‘tongue’ || bra
+|-
+| ‘tooth’ || ninggre
+|-
+| ‘tree’ || ninani
+|-
+| ‘two’ || narse
+|-
+| ‘water’ || a/æ
+|-
+| ‘we’ || no
+|-
+| ‘woman’ || ria
+|-
+| ‘you (sg)’ || po
+|-
+| ‘you (pl)’ || so
+|}
+
+The following basic vocabulary words are from the Trans-New Guinea database:<ref>{{Cite web |url=http://transnewguinea.org/ |title=TransNewGuinea.org - database of the languages of New Guinea |last=Greenhill |first=Simon |date=2016| access-date=2020-11-05}}</ref>
+
+:{| class="wikitable sortable"
+! gloss !! Usku
+|-
+| head || flekle
+|-
+| hair || flekle-kunda
+|-
+| ear || beikli
+|-
+| eye || nifi
+|-
+| tooth || neŋkle
+|-
+| tongue || bra
+|-
+| leg || nafu
+|-
+| louse || nimi
+|-
+| bird || lokwe
+|-
+| egg || kle
+|-
+| blood || kla; mise
+|-
+| bone || kla; mi
+|-
+| skin || ninje; ninye
+|-
+| breast || kiombra
+|-
+| tree || weli
+|-
+| man || mekenja; mekenya
+|-
+| woman || jomia
+|-
+| sun || nei
+|-
+| moon || meŋgerne
+|-
+| water || ei
+|-
+| fire || jo; yo
+|-
+| stone || pane
+|-
+| road, path || tra
+|-
+| eat || kepo
+|-
+| one || kisifaini
+|-
+| two || narna
+|}
+
+==Morphology==
+Usku morphology as inferred by Foley (2018):<ref name="Foley-NWNG"/>
+
+*[[dative]] marker ''se''
+*tense suffix ''-mu ~ -mo''
+*[[allative]] [[postposition]] ''se''
+*[[ablative]] ''e''
+
+==Sentences==
+Word order in Usku is SOV.<ref name="Foley-NWNG"/>
+
+Some of the few documented sentences in Usku are:<ref name="Foley-NWNG"/>
+
+{{interlinear|number=(1)
+|e wang o ai se roti-mo
+|3 money 1SG father DAT give-TNS
+|‘She gave money to my father.’}}
+
+{{interlinear|number=(2)
+|e kompong se rifli-mo
+|3 village DAT go-TNS
+|‘He went to the village.’}}
+
+{{interlinear|number=(3)
+|kɨnmar kompong e duar-mo
+|person village ABL come-TNS
+|‘That person came from the village.’}}
+
+{{interlinear|number=(4)
+|kɨnmar mra-mu ya-mu
+|person dog-ERG/FOC? bite-TNS
+|‘The dog bit that person.’}}
+
+== References ==
+{{reflist}}
+
+==External links==
+{{sister project |project=wiktionary |text=[[Wiktionary]] has word lists at '''''[[Wiktionary:Appendix:Pauwasi word lists|Appendix:Pauwasi word lists]]'''''}}
+*[http://transnewguinea.org/family/usku Usku word list at TransNewGuinea.org]
+*[http://www.language-archives.org/language/ulf OLAC resources in and about the Usku language]
+
+{{Papuan languages}}
+
+[[Category:Endangered languages of Oceania]]
+[[Category:Languages of western New Guinea]]
+[[Category:West Pauwasi languages]]

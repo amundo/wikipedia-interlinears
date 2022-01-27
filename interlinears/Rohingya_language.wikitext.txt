@@ -1,0 +1,832 @@
+{{Short description|Eastern Indo-Aryan language}}
+{{EngvarB|date=September 2020}}
+{{Use dmy dates|date=October 2019}}
+{{Infobox language
+| name = Rohingya
+| nativename = {{hlist|{{Script|Rohg|𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝}}|{{Script|Rohg|𐴌𐴗𐴥𐴝𐴙𐴚𐴒𐴙𐴝}}|رُاَࣺينڠَ}}
+| image = Rohingya.png
+| imagecaption = The word "Rohingya" written in the [[Hanifi Rohingya script]]
+| imagesize = 220px
+| states = [[Myanmar]] ([[Rakhine State]])
+| region = Rakhine State (Myanmar) and southeastern [[Chittagong Division]] (Bangladesh)
+| speakers = 1.8 million
+| ethnicity = [[Rohingya people|Rohingya]]
+| date = 2012
+| ref = e18
+| familycolor = Indo-European
+| fam2 = [[Indo-Iranian languages|Indo-Iranian]]
+| fam3 = [[Indo-Aryan languages|Indo-Aryan]]
+| fam4 = [[Eastern Indo-Aryan languages|Eastern]]
+| fam5 = [[Bengali–Assamese languages|Bengali–Assamese]]
+| script = [[Hanifi Rohingya script|Hanifi Rohingya]], [[Arabic script|Perso-Arabic]], [[Burmese alphabet|Burmese]], [[Latin script|Latin]], [[Bengali–Assamese script|Bengali–Assamese]] (rare)
+| iso3 = rhg
+| notice = IPA
+| glotto = rohi1238
+| glottorefname = Rohingya
+| map = Rohingya_language_map.png
+| mapcaption = Traditional area of Rohingya speakers
+}}
+{{Incubator|code=rhg}}
+{{Rohingya people}}
+'''Rohingya''' ({{IPAc-en|r|oʊ|ˈ|ɪ|n|dʒ|ə|,_|-|h|ɪ|n|-|,_|-|ɪ|ŋ|j|ə}}),<ref>{{OED|Rohingya}}</ref> also known as '''Ruáingga''' ([[Hanifi Rohingya script|Hanifi Rohingya]]: {{Script|Rohg|𐴌𐴗𐴥𐴝𐴙𐴚𐴒𐴙𐴝}}; {{IPA-all|rʊˈɜiɲɟə|pron}}), is an [[Indo-Aryan languages|Indo-Aryan language]] spoken by the [[Rohingya people]] of [[Rakhine State]], [[Myanmar]].<ref>{{Citation |title = What is Rohingyalish or Rohingya Language? |url = http://rohingyalanguagefoundation.com/what-is-rohingyalish.htm |publisher = RohingyaLanguage.com |access-date = 11 June 2012 |url-status = dead |archive-url = https://web.archive.org/web/20120731043647/http://rohingyalanguagefoundation.com/what-is-rohingyalish.htm |archive-date = 31 July 2012}}</ref><ref>{{Citation |title = Rohingya Language |url = http://www.worldlanguage.com/Languages/Rohingya.htm |publisher = WorldLanguage.com |access-date = 11 June 2012 |url-status = dead |archive-url = https://web.archive.org/web/20120325032749/http://www.worldlanguage.com/Languages/Rohingya.htm |archive-date = 25 March 2012}}</ref> It is an [[Eastern Indo-Aryan languages|Eastern Indo-Aryan language]] belonging to the [[Bengali–Assamese languages|Bengali–Assamese]] branch, and is closely related to the [[Chittagonian language]] spoken in neighbouring [[Bangladesh]]. The Rohingya and Chittagonian languages have a high degree of mutual intelligibility.<ref>"The Linguistic Innovation Emerging From Rohingya Refugees." by Christine Ro. ''Forbes''. 13 September 2019. <sup>[https://www.forbes.com/sites/christinero/2019/09/13/the-linguistic-innovation-emerging-from-rohingya-refugees/]</sup></ref>
+
+== Phonology ==
+
+=== Consonants ===
+
+Rohingya has primarily the following 25 native consonant phonemes. There are some other consonant phonemes which are from foreign languages such as Arabic, Bengali, Burmese and Urdu.
+
+{| class="wikitable" style="text-align:center;"
+|+Rohingya consonants<ref name=website>{{cite web |url=http://rohingyalanguagefoundation.com/language_rules_landscape.html |title=Rohingya Language Rules |access-date=4 July 2010 |url-status=dead |archive-url=https://web.archive.org/web/20110612180010/http://rohingyalanguagefoundation.com/language_rules_landscape.html |archive-date=12 June 2011 }}</ref><ref name=":0">{{Cite web|title=A brief grammar of Rohingya - Learn Rohingya|url=https://learnrohingya.com/references/a-brief-grammar-of-rohingya/|url-status=live|access-date=2021-11-12}}</ref>
+! colspan=2|
+! [[Labial consonant|Labial]]
+! [[Dental consonant|Dental]]/<br />[[Alveolar consonant|Alveolar]]
+! [[Retroflex consonant|Retroflex]]
+! [[Palatal consonant|Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! rowspan=2| [[Plosive]]
+! {{small|[[voicelessness|voiceless]]}}
+| {{IPA link|p}}
+| {{IPA link|t}}
+| {{IPA link|ʈ}}
+| {{IPA link|tʃ}}
+| {{IPA link|k}}
+| {{IPA link|ʔ}}
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+| {{IPA link|b}}
+| {{IPA link|d}}
+| {{IPA link|ɖ}}
+| {{IPA link|dʒ}}
+| {{IPA link|ɡ}}
+|
+|-
+! colspan=2| [[Nasal consonant|Nasal]]
+| {{IPA link|m}}
+| {{IPA link|n}}
+|({{IPAlink|ɳ}})
+| {{IPA link|ɲ}}
+| {{IPA link|ŋ}}
+|
+|-
+! rowspan=2| [[Fricative]]
+! {{small|[[voicelessness|voiceless]]}}
+| {{IPA link|f}}
+| {{IPA link|s}}
+|
+| {{IPA link|ʃ}}
+| {{IPA link|x}}
+| {{IPA link|h}}
+|-
+! {{small|[[voice (phonetics)|voiced]]}}
+|({{IPAlink|v}})
+| {{IPA link|z}}
+|
+|
+|
+|
+|-
+! colspan=2| [[Flap consonant|Flap]]
+|
+| {{IPA link|ɾ}}
+| {{IPA link|ɽ}}
+|
+|
+|
+|-
+! rowspan=2| [[Approximant]]
+! {{small|[[central consonant|central]]}}
+| {{IPA link|w}}
+|
+|
+| {{IPA link|j}}
+|
+|
+|-
+! {{small|[[lateral consonant|lateral]]}}
+|
+| {{IPA link|l}}
+|
+|
+|
+|
+|}
+
+* A dental fricative [θ] may also be heard in words of Arabic origin.
+* [v] is only used in words of foreign origin.
+* /n/ is heard as [ɳ] when preceding /ʈ, ɖ/.
+*Allophones of /k, ɡ/ can be heard as [c, ɟ].  
+
+=== Vowels ===
+{| class="wikitable" style="text-align:center"
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|Close]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Close-mid vowel|Close-mid]]
+| rowspan=2| {{IPA|e}}
+| {{IPA link|o}}
+|-
+! [[Open-mid vowel|Open-mid]]
+| {{IPA link|ɔ}}
+|-
+! [[Open vowel|Open]]
+| colspan=2 | {{IPA|a}}
+|}
+
+* Short allophones of /e, a/ are heard as [ɛ, æ], [ʌ, ə]. Allophones of /i, u/ are heard as [ɪ, ʊ].<ref name=":0" />
+
+There are six vowels and several diphthongs in the Rohingya language.<ref name=scribd>{{cite book |url=https://www.scribd.com/doc/21180958|title=روهنغيا قائده |author=Kazi Mujibuddin bin Abul khair |via=Scribd|language=ar}}</ref>  They contrast between "open-o" ({{IPAblink|ɔ}}) and "closed-o" ({{IPAblink|o}}) by using the different spellings {{angbr|o}}/{{angbr|ó}} and {{angbr|ou}}/{{angbr|óu}} respectively.
+
+=== Tones ===
+
+Accented vowels, marked with an [[acute accent]], represent stressed (or "hard" vowels), and repeating a vowel lengthens it.<ref name=website />  Thus, tonals are marked by arranging the location of a stressed vowel in a lengthened pair, like {{angbr|aá}} and {{angbr|áa}}.<ref name=website />
+
+== Grammar ==
+
+=== Definite articles ===
+1. If a noun ends with a vowel then the article is either '''án''' or '''wá''' if singular, or '''ún''' or '''ín''' if plural or uncountable.<br>Usually '''wá''' is used for round-fatty objects, and '''án''' for flat-thin objects.
+
+{|class=wikitable
+!colspan=2| singular ||colspan=2| plural
+|-
+| Kéti  án  || (the farm)       || Kéti  ún/ín || (the farms)
+|-
+| Fothú án  || (the photo)    || Fothú ún/ín || (the photo)
+|-
+| Fata  wá  || (the leaf)       || Fata  ún/ín || (the leaves)
+|-
+| Boro  wá  || (the large tree) || Boro  ún/ín || (the large trees){{clarify|"large" is not a noun|date=May 2018}}
+|-
+|           ||                  || Lou   ún/ín || (the blood)
+|}
+
+2. If a noun ends with a consonant then the article is the end-consonant plus '''án''' or '''wá''' for singular or '''ún''' or '''ín''' for plural.
+
+{|class=wikitable
+| Deba'''l'''  '''l'''án || (the wall)  || Deba'''l'''  '''l'''ún/'''l'''ín || (the walls)
+|-
+| Me'''s'''    '''s'''án || (the table) || Me'''s'''    '''s'''ún/'''s'''ín || (the tables)
+|-
+| Kita'''p'''  '''p'''wá || (the book)  || Kita'''p'''  '''p'''ún/'''p'''ín || (the books)
+|-
+| Manúi'''c''' '''c'''wá || (the man)   || Manúi'''c''' '''c'''ún/'''c'''ín || (the men)
+|}
+
+3. If a noun ends with '''r''', then the article is '''g''' plus '''án''' or '''wá''' for singular or '''ún''' or '''ín''' for plural.<br>
+'''gún''' is used for human and '''gín''' for non-human.
+
+{|class=wikitable
+| Tar   '''g'''án || (the wire)     || Tar   '''g'''ún/'''g'''ín || (the wires)
+|-
+| Duar  '''g'''án || (the door)     || Duar  '''g'''ún/'''g'''ín || (the doors)
+|-
+| Kuñir '''g'''wá || (the dog)      || Kuñir '''g'''ún/'''g'''ín || (the dogs)
+|-
+| Faár  '''g'''wá || (the mountain) || Faár  '''g'''ún/'''g'''ín || (the mountains)
+|}
+
+=== Indefinite articles ===
+Indefinite articles can be used either before or after the noun. '''Uggwá''' usually is used for roll/round/fatty shaped objects and '''ekkán''' is for thin/flat shaped objects.
+
+{|class=wikitable
+!colspan=2| singular ||colspan=2| plural
+|-
+| Uggwá fata  || (a leaf)    || Hodún fata  || (some leaves)
+|-
+| Ekkán fothú || (a picture) || Hodún Fothú || (some pictures)
+|- class="center"
+|colspan=2| -or- ||colspan=2| -or-
+|-
+| Fata  uggwá || (a leaf)    || Fata  hodún || (some leaves)
+|-
+| Fothú ekkán || (a picture) || Fothú hodún || (some pictures)
+|}
+
+=== Word order ===
+Rohingya word order-1 is '''Subject–Object–Verb'''.
+
+{{interlinear|indent=3|glossing2=no|Añí bát hái|I rice eat.|}}
+{{interlinear|indent=3|glossing2=no|Ite TV saá|He TV watches.|}}
+{{interlinear|indent=3|glossing2=no|Ibá sairkél soré|She bicycle rides.|}}
+{{interlinear|indent=3|glossing2=no|Itará {ham ot} za|They {to work} go.|}}
+
+Rohingya word order-2 is '''Subject–Time-Place-Object–Verb'''.
+
+{{interlinear|indent=3|glossing2=no|Ibá beínna {gór ot} bát há|I {in the morning} {at home} rice eat.|}}
+{{interlinear|indent=3|glossing2=no|Tará biale {duan ot} TV saá|They {at night} {at shop} TV watches.|}}
+{{interlinear|indent=3|glossing2=no|Ite {sair gwá báze} {hál hañsat} sairkél soré|He {at 4pm} {at seaside} bicycle rides.|}}
+{{interlinear|indent=3|glossing2=no|Ítara {nowá báze} {ofís ot} {ham ot} zaa|They {at 9 o'clock} {to office} {to work} go.|}}
+
+Rohingya word order-3 is '''Subject–Time-[adjective]-Place-Object–[adverb]-Verb'''.
+{{interlinear|indent=3|glossing2=no
+|Tuñí aijja noya {eskul ot} toratori/toratorigorí paathi goró.
+|Subject Time [Adjective] Place [Adverb] Object Verb
+|You today new {at school} quickly party make.|}}
+
+Rohingya word order-4 is '''Subject–Time-[adjective]-Place-Object–[adverb]-Verb_1-Verb_2'''.
+{{interlinear|indent=3|glossing2=no
+|Tuñí aijja noya {eskul ot} toratori/toratorigorí paathi goittóu modot-goró.
+|Subject Time [Adjective] Place [Adverb] Object Verb_1 Verb_2
+|You today new {at school} quickly party help {to make}.
+|You help to make party quickly at new school today.}}
+
+More on Time extension:
+# Aijja Januari 24 tarík ót, cón 2017 beínna 4 gwá báze 15 miníth 5 sekén ót.<br>''Today January dated 24, year 2017 in the morning at 4 o'clock 15 minutes 5 second.''
+# Hailla Januari 30 tarík ót, cón 2017 ázinna 5 swá báze 25 minith 7 sekén ót.<br>''Tomorrow January dated 30, year 2017 in the evening at 5 o'clock 25 minutes 7 second.''
+# Goto hailla Oktubor 10 tarík ót, cón 2018 rait or 10 cwá báze 35 miníth 50 sekén ot.<br>''Yesterday October dated 10, year 2018 in the night at 10 o'clock 35 minutes 50 second.''
+
+=== Tenses ===
+Rohingya distinguishes 12 tenses, as shown in the examples below. In these tenses, the helping verb '''félai''' shows perfect action (comparable to English "has/have") and '''félaat''' shows perfect continuous action (compare English "has/have been"). The helping verb '''táki''' and '''táikki''' are comparable to English "be" and "been".
+
+Verb-form-suffix (basic and/or helping verb) indicate both person and tense. The suffixes '''~ir''', '''~yi''', '''~lám''', '''~youm''' are used for the first person, the suffixes '''~or''', '''~yó''', '''~lá''', '''~bá''' for the 2nd person, and the suffixes '''~ar''', '''~ye''', '''~l''', '''~bou''' for the 3rd person.
+
+Similarly '''~ir''', '''~or''', '''~ar''' indicate present continuous tense, '''~yi''', '''~yó''', '''~ye''' present perfect tense, '''~lám''', '''~lá''', '''~l'''  past tense, and '''~youm''', '''~bá''', '''~bou''' future tense.
+
+
+{| class="wikitable" 
+|-
+! colspan="2" |
+! 1st person
+! 2nd person
+! 3rd person
+|-
+! rowspan="4" | present
+! simple present
+| {{interlinear|Añí hái.|I eat.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hóo.|Tui hó'''s'''.|You eat.}}
+| {{interlinear|Ite/Ibá/Itará há.|He/She/They eats/eats/eat.}}
+|-
+! present progressive
+| {{interlinear|Añí há<u>ir</u>.|I am eating.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hó<u>or</u>.|Tui hó<u>or</u>.|You are eating.}}
+| {{interlinear|Ite/Ibá/Itará h<u>ár</u>.|He/She/They is/is/are eat<u>ing</u>.}}{{interlinear|Ite/Ibá/Itará hái boi.|He/She/They is/is/are eat<u>ing</u>.}}
+|-
+! perfect
+| {{interlinear|Añí hái félai'''yi'''.|I have eaten.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái félai'''yó'''.|Tui hái félai'''yós'''.|You have eaten.}}
+| {{interlinear|Ite/Ibá/Itará hái félai'''ye'''.|He/She/They has/has/have eaten.}}
+|-
+! perfect continuous
+| {{interlinear|Añí hái féla<u>ir</u>.|I have been eating.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái félo<u>or</u>.|Tui hái félo<u>or</u>.|You have been eating.}}
+| {{interlinear|Ite/Ibá/Itará hái féla<u>ar</u>.|He/She/They has/has/have been eat<u>ing</u>.}}
+|-
+! rowspan="5" | Past
+! near past
+| {{interlinear|Añí hái'''yi'''.|I ate.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái'''yo'''.|Tui hái'''yós'''.|You ate.}}
+| {{interlinear|Ite/Ibá/Itará háai'''ye'''.|He/She/They ate.}}
+|-
+! far past
+| {{interlinear|Añí háai'''lam'''.|I ate.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne háai'''lá'''.|Tui háai'''lí'''.|You ate.}}
+| {{interlinear|Ite/Ibá/Itará háai'''l'''.|He/She/They ate.}}
+|-
+! past progressive
+| {{interlinear|Añí há<u>at</u> táikki'''lám'''.|I was eating.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne há<u>at</u> táikki'''lá'''.|Tui há<u>at</u> táikki'''lí'''.|You were eating.}}
+| {{interlinear|Ite/Ibá/Itará há<u>at</u> táikki'''l'''.|He/She/They was/was/were eat<u>ing</u>.}}
+|-
+! perfect
+| {{interlinear|Añí hái félai'''lám'''.|I had eaten.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái félai'''lá'''.|Tui hái félai'''lí'''.|You had eaten.}}
+| {{interlinear|Ite/Ibá/Itará hái félai'''l'''.|He/She/They had eaten.}}
+|-
+! perfect continuous
+| {{interlinear|Añí hái féla<u>at</u> táikki'''lám'''.|I had been eating.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái féla<u>at</u> táikki'''lá'''.|Tui hái féla<u>at</u> táikki'''lí'''.|You had been eating.}}
+| {{interlinear|Ite/Ibá/Itará hái féla<u>at</u> táikki'''l'''.|He/She/They had been eat<u>ing</u>.}}
+|-
+! rowspan="4" | Future
+! simple future
+| {{interlinear|Añí hái'''youm'''.|I will eat.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái'''ba'''.|Tui hái'''bí'''.|You will eat.}}
+| {{interlinear|Ite/Ibá/Itará hái'''bou'''.|He/She/They '''will''' eat.}}
+|-
+! future progressive
+| {{interlinear|Añí há<u>at</u> táki'''youm'''.|I will be eating.}}{{interlinear|Añí hái'''youm''' boi.|I will be eating.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne há<u>at</u> táki'''bá'''.|Tui há<u>at</u> táki'''bí'''.|You will be eating.}}{{interlinear|italics2=yes|Tuñí/Oñne hái'''ba''' goi.|Tui hái'''bi''' goi.|You will be eating.}}
+| {{interlinear|Ite/Ibá/Itará há<u>at</u> táki'''bou'''.|He/She/They '''will''' be eat<u>ing</u>.}}{{interlinear|Ite/Ibá/Itará hái'''bou''' goi.|He/She/They '''will''' be eat<u>ing</u>.}}
+|-
+! perfect
+| {{interlinear|Añí hái félai'''youm'''.|I will have eaten.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái félai'''bá'''.|Tui hái félai'''bí'''.|You will have eaten.}}
+| {{interlinear|Ite/Ibá/Itará hái félai'''bou'''.|He/She/They '''will''' has/has/have eaten.}}
+|-
+! perfect continuous
+| {{interlinear|Añí hái féla<u>at</u> táki'''youm'''.|I will have been eating.}}
+| {{interlinear|italics2=yes|Tuñí/Oñne hái féla<u>at</u> táki'''bá'''.|Tui hái féla<u>at</u> táki'''bí'''.|You will have been eating.}}
+| {{interlinear|Ite/Ibá/Itará hái féla<u>at</u> táki'''bou'''.|He/She/They '''will''' has/has/have been eat<u>ing</u>.}}
+|}
+
+=== Pronouns ===
+{| class="wikitable"
+|-
+! rowspan=2 style="vertical-align:center | Number
+! rowspan=2 style="vertical-align:center | Person
+! rowspan=2 style="vertical-align:center | Gender
+! colspan=4 | Pronouns
+! rowspan=2 style="vertical-align:center | Possessive<br>adjectives
+|-
+! Subject !! Object !! Possessive !! Reflexive
+|-
+! ROWSPAN="5" style="font-weight:normal" | Singular
+! style="vertical-align:center; font-weight:normal" | 1st
+! style="vertical-align:center; font-weight:normal" | m/f ('''I''')
+|añí, mui||añáre, moré||añár, mor||añínize, muinize||añár, mor
+|-
+! style="vertical-align:center; font-weight:normal" | 2nd
+! style="vertical-align:center; font-weight:normal" | m/f ('''you''')
+|tuñí<br>tui<br>oñne||tuáñre<br>toré<br>oñnoré||tuáñr<br>tor<br>oñnor||tuñínize<br>tuinize<br>oñnenize||tuáñr<br>tor<br>oñnor
+|-
+! rowspan=3 style="vertical-align:center; font-weight:normal" | 3rd
+! style="vertical-align:center; font-weight:normal" |m ('''he''')
+|ite *<br>te *<br>uite **<br>íte **||itaré<br>taré<br>uitaré<br>ítare||itar<br>tar<br>uitar<br>ítar||itenize<br>tenize<br>uitenize<br>ítenize||itar<br>tar<br>uitar<br>ítar
+|-
+! style="vertical-align:center; font-weight:normal" |m/f ('''he/she''')
+|ibá *<br>uibá **<br>íba **||ibáre<br>uibáre<br>íbare||ibár<br>uibár<br>íbar||ibánize<br>uibánize<br>íbanize||ibár<br>uibár<br>íbar
+|-
+! style="vertical-align:center; font-weight:normal" |n ('''it''')
+|yián<br>ibá<br>yían **<br>íba **||yiánóre<br>ibáre<br>yíanóre<br>íbare||yiánór<br>ibár<br>yíanór<br>íbar||yiánnize<br>ibánize<br>yíannize<br>íbanize||yiánór<br>ibár<br>yíanór<br>íbar
+|-
+! rowspan=4 style="font-weight:normal" | Plural
+! style="vertical-align:center; font-weight:normal" |1st
+! style="vertical-align:center; font-weight:normal" |m/f ('''we''')
+|añára||añáráre||añárar||añáránize||añárar
+|-
+! style="vertical-align:center; font-weight:normal" |2nd
+! style="vertical-align:center; font-weight:normal" |m/f ('''you''')
+|tuáñra||tuáñráre||tuáñrar||tuáñránize||tuáñrar
+|-
+! rowspan=2 style="vertical-align:center; font-weight:normal" |3rd
+! style="vertical-align:center; font-weight:normal" |m/f ('''they''')
+|itará *<br>tará *<br>uitará **<br>ítara **||itaráre<br>taráre<br>uitaráre<br>ítarare||itarár<br>tarár<br>uitarár<br>ítarar||itaránize<br>taránize<br>uitaránize<br>ítaranize||itarár<br>tarár<br>uitarár<br>ítarar
+|-
+! style="vertical-align:center; font-weight:normal" | n ('''they''')
+| iín *<br>íin **<br>uún<br>úun **<br>uuín **|| iínóre<br>íinóre<br>uúnóre<br>úunóre<br>uuínóre|| iínór<br>íinór<br>uúnór<br>úunór<br>uuínór|| iínnize<br>íinnize<br>uúnnize<br>úunnize<br>uuínnize|| iínór<br>íinór<br>uúnór<br>úunór<br>uuínór
+|}
+
+Gender: m=''male'', f=''female'', n=''neuter.'', *=''the person or object is near.'', **=''the person or object is far.''
+
+=== Interrogative ===
+The interrogative is indicated by '''né''' at the end of the sentence.
+
+Itattú gór ekkán asé '''né'''? [Does he have a house?]<br>
+Itattú gór ekkán asé. [He has a house.]<br>
+Ibá za '''né'''? [Does she go?]<br>
+Ibá za. [She goes.]<br>
+Itará giyé '''né'''? [Did they go?]<br>
+Itará giyé. [They went.]
+
+=== Inflection for person ===
+Rohingya verbs indicate person by suffixes.
+
+'''Present Tense'''<br>
+lek   = write (command to you sg.)<br>
+lekí  = I/we write.<br>
+lekó  = write (command to you pl.)<br>
+lekós = You write (sg./pl.).<br>
+leké  = He/she/they write(s).
+
+'''Present Continuous Tense'''<br>
+lekír = I/we am/are writing.<br>
+lekór = You (sg./pl.) are writing.<br>
+lekér = He/she/they is/are writing.
+
+'''Present Perfect Tense'''<br>
+lekífélaiyi  = I/we have written.<br>
+lekífélaiyo  = You (sg./pl.) have written.<br>
+lekífélaiyós = You (sg.) have written. (''used to very closed people'')<br>
+lekífélaiye  = He/she/they has/have written.
+
+'''Future Tense'''<br>
+lekíyóum  = I/we will write.<br>
+lekíbá    = You (sg./pl.) will write.<br>
+lekíbi    = You (sg.) will write. (''used to very closed people'')<br>
+lekíbóu   = He/she/they will write.
+
+'''Past Tense (Immediate/near past)'''<br>
+leikkí  = I/we wrote.<br>
+leikkó  = You (sg./pl.) wrote.<br>
+leikkós = You (sg.) wrote. (''used to very closed people'')<br>
+leikké  = He/she/they wrote.
+
+'''Past Tense (Remote past)'''<br>
+leikkílám = I/we wrote long ago.<br>
+leikkílá  = You (sg./pl.) wrote long ago.<br>
+leikkílí  = You (sg.) wrote long ago. (''used to very closed people'')<br>
+leikkíl   = He/she/they wrote long ago.
+
+'''Past Tense (If possibility)'''<br>
+lekítám = I/we would have written.<br>
+lekítá  = You (sg./pl.) would have written.<br>
+lekítí  = You (sg.) would have written. (''used to very closed people'')<br>
+lekítóu = He/she/they would have written.
+
+'''Forming Noun, Doer, Tool, Action'''<br>
+lek'''óon''' = act of writing.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. ''Debalor uore <u>lekóon</u> gom noó.'' Writing on wall is not good.<br>
+lek'''óya''' = writer.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. ''Itaráttú <u>lekóya</u> bicí.'' They-have many writers.<br>
+lek'''óni''' = thing with which you write.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. ''Añártú honó <u>lekóni</u> nái.'' I-have no any writing-thing (i.e. pen, pencil)<br>
+lek'''át'''  = in the action of writing.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e.g. ''Tui <u>lekát</u> asós.'' You are busy-in-writing.
+
+=== Case ===
+Examples of the case inflection are given below, using the singular forms of the Rohingya term for "hóliba (tailor)" which belongs to Rohingya's first declension class.
+* ''hóliba'''ye''''' ([[nominative case|nominative]]) "[the] hóliba" [as a subject] (e.g. ''hólibaye tíai táikke éçe'' – the tailor is standing there)
+* ''hóliba'''r''''' ([[genitive case|genitive]]) "[the] hóliba's / [of the] hóliba" (e.g. ''hólibar nam Ahmed'' – the tailor's name is Ahmed)
+* ''hóliba'''lla''''' ([[dative case|dative]]) "[to/for the] hóliba" [as an indirect object] (e.g. ''hóliballa hádiya ekkán diyí'' – I gave a present for the tailor)
+* ''hóliba'''re''''' ([[accusative case|accusative]]) "[the] hóliba" [as a direct object] (e.g. ''Aññí hólibare deikkí'' – I saw the tailor)
+* ''hóliba'''loi''''' ([[ablative case|ablative]]) "[by/with/from/in the] hóliba" [in various uses] (e.g. ''Aññí hólibaloi duan ot giyí'' – I went to the shop with the tailor).'
+* '''óu''''' hóliba / hóliba '''ya''''' ([[vocative case|vocative]]) "[you] the hóliba" [addressing the object] (e.g. "''cúkuria tuáñre, óu hóliba (sáb)''" – thank you, tailor).
+
+=== Morphology ===
+Seventy or more different forms are available in Rohingya. A hyphen (-) between letters is to be removed, it is used for initial understanding only — how the word is formed.
+
+;Command
+# lek =write (sg.)         ''Tui yián ehón lek.''                         You write this right now.
+# lek-ó =write (pl.) ''Tuñí yián ehón lekó.''                 You write this right now.
+# lek-á =cause to write ''Tui/Tuñí John ór áta leká/lekó.''         You ask John to write.
+# lek-í-de =help to write ''Tui/Tuñí ibáre lekíde/lekído.''         You help John in writing.
+
+;Present
+# lek-í =write (I)         ''Aññí hámicá gór ot lekí.''                 I always write at home.
+# lek-ó =write (II) ''Tuñí hámicá gór ot lekó.''                 You always write at home.
+# lek-ó-s =write (IIa) ''Tui hámicá gór ot lekós.''                 You always write at home.
+# lek-é =write (III) ''Tará hámicá gór ot leké.''                 They always write at home.
+
+;Continuous
+# lek-í-r =writing (I) ''Aññí ciñçí ekkán lekír.''                 I am writing a letter now.
+# lek-ó-or =writing (II) ''Tuñí/Tui ciñçí ekkán lekóor.''         You are writing a letter now.
+# lek-é-r =writing (III)   ''Tará ciñçí ekkán lekér.''                  They are writing a letter now.
+
+;Perfect
+# lek-í-féla-iyi =have written (I)         ''Aññí ciñçí lekífélaiyi.''  I have written a letter.
+# lek-í-féla-iyo =have written (II) ''Tuñí ciñçí lekífélaiyo.'' You have written a letter.
+# lek-í-féla-iyo-s =have written (IIa) ''Tui ciñçí lekífélaiyos.'' You have written a letter.
+# lek-í-féla-iye =has/have written (III) ''Tará ciñçí lekífélaiye.''  They have written a letter.
+
+;Past
+# leik-kí =wrote (I) ''Aññí ciñçí ekkán leikkí.''                 I wrote a letter.
+# leik-kó =wrote (II) ''Tuñí ciñçí ekkán leikkó.''                 You wrote a letter.
+# leik-kó-s =wrote (IIa) ''Tui ciñçí ekkán leikkós.''                 You wrote a letter.
+# leik-ké =wrote (III) ''Tará ciñçí ekkán leikké.''                 They wrote a letter.
+
+;Future
+# lek-í-youm =will write (I) ''Aññí ciñçí ekkán lekíyoum.''         I will write a letter.
+# lek-í-ba =will write (II) ''Tuñí ciñçí ekkán lekíba.''         You will write a letter.
+# lek-í-bi =will write (IIa) ''Tui ciñçí ekkán lekkíbi.''         You will write a letter.
+# lek-í-bou =will write (III) ''Tará ciñçí ekkán lekíbou.''         They will write a letter.
+
+;Alternative
+# leik-kyóum =will write (I) ''Aññí ciñçí ekkán leikkyóum.''         I will write a letter.
+# leik-bá =will write (II)         ''Tuñí ciñçí ekkán leikbá.''         You will write a letter.
+# leik-bí =will write (IIa) ''Tui ciñçí ekkán leikbí.''         You will write a letter.
+# leik-bóu =will write (III) ''Tará ciñçí ekkán leikbóu.''         They will write a letter.
+
+;Passive
+# lek-á-giye =(passive I, II, III) ''Ciñçí ekkán lekágiyé.''         A letter is/was written.
+
+;Possibility
+# lek-á-za =being writable         ''Ciñçí yián leká za.''         This letter is writable.
+# lek-á-za-ibou =being writable in future {{transl|rhg|Ciñçí yián leká zaibou.}} This letter will be writable.
+# lek-á-di-ya-za =can be made writable ''Ciñçí yián lekádiyaza.'' This letter can be made writable.
+
+;Noun
+# lek-á =writing                  ''Leká yián bicí cúndor.''         This writing is very beautiful.
+# lek-ó-on =act of writing ''Email beggún óttu lekóon saá.'' All should write emails.
+# lek-ó-ya =person who writes ''Ahmed bála lekóya.''                 Ahmed is a good writer.
+# lek-ó-ni =thing used to write ''Añártu honó lekóni ciz nái.''         I do not have anything to write with.
+# lek-á-ni =tool used to write ''Añártu honó lekáni boudh nái.'' I do not have any writing board.
+# lek-á-lekí =activities to write ''Tuáñrár bútore lekáleki tákoon saá.'' There should be writing between you.
+
+;Adjective
+# lek-é-de =thing used for writing ''Añártu honó lekéde ciz nái.''   I do not have any writable thing.
+# leik-kyá =of written                 ''Kitab ibá fura leikká.''         This book is fully written.
+# leik-kyé-dé=of that written         ''Añártu honó leikkyéde juab nái.'' I do not have any written answer.
+
+;Adverb
+# lek-í lek-í =by writing & writing/while writing   ''Ite gór ottu lekí lekí aiyér.'' He is coming from home while writing.
+
+;Immediate present
+# lek-í-lam =acted to write (I) ''Aññí habos sán lekílam.''                 I write the letter.
+# lek-í-la =acted to write (II) ''Tuñí habos sán lekíla.''             You write the letter.
+# lek-í-li =acted to write (II) ''Tui habos sán lekíli.''             You write the letter.
+# lek-í-lou =acted to write (III) ''Tará habos sán lekílou.''                 They write the letter.
+
+;Alternative
+# leik-lám =acted to write (I) ''Aññí habos sán lekílam.''                 I write the letter.
+# leik-lá =acted to write (II) ''Tuñí habos sán lekíla.''                 You write the letter.
+# leik-lí =acted to write (II) ''Tui habos sán lekíli.''                 You write the letter.
+# leik-lou =acted to write (III) ''Tará habos sán lekílou.''          They write the letter.
+
+;Long past
+# leik-kí-lam =had written (I) ''Aññí habos sán leikkílam.''         I had written this paper long ago.
+# leik-kí-la =had written (II) ''Tuñí habos sán leikkíla.''         You had written this paper long ago.
+# leik-kí-li =had written (II) ''Tui habos sán leikkíli.''                 You had written this paper long ago.
+# leik-kí-l =had written (III) ''Tará habos sán leikkíl.''                 They had written this paper long ago.
+
+;Remote future
+# lek-í-youm éri =will write later (I) ''Aññí habos sán lekíyoum éri.''  I will write the paper sometime later.
+# lek-í-ba ri =will write later (II) ''Tuñí habos sán lekíba ri.''  You will write the paper sometime later.
+# lek-í-bi ri =will write later (IIa) ''Tui habos sán lekíbi ri.''  You write the paper sometime later.
+# lek-í-bou ri =will write later (III) ''Tará habos sán lekíbou ri.''  They will write the paper sometime later.
+
+;Conditional
+# lek-í-tam =would have written (I) ''Aññí email lán lekítam.''         I would have written the email.
+# lek-í-ta =would have written (II) ''Tuñí email lán lekíta i.''         You would have written the email.
+# lek-í-ti =would have written (IIa) ''Tui email lán lekíti.''         You would have written the email.
+# lek-í-tou =would have written (III) ''Tará email lán lekítou.''         They would have written the email.
+
+;Alternative
+# leik-tám =would have written (I)         ''Aññí email lán leiktám.''         I would have written the email.
+# leik-tá =would have written (II)         ''Tuñí email lán leiktá.''              You would have written the email.
+# leik-tí =would have written (IIa) ''Tui email lán leiktí.''          You would have written the email.
+# leik-tóu =would have written (III) ''Tará email lán leiktóu.''         They would have written the email.
+
+;Request/allow
+# lek-ó-na =please write                 ''Meérbanigorí lekóna.''         Please write the letter.
+# lek-ó-goi =allowed to write             ''Tuñí lekó gói.''                                 Let you write.
+
+;Alternative
+# lek-se-ná =please write                 ''Meérbanigorí leksená.''         Please write the letter.
+# lek-gói =allowed to write          ''Tui lek gói.''                 Let you write.
+
+;If
+# lek-í-le =if (I/II/III) person write ''Tuñí lekíle gom óibou.''         It will be good if you write.
+
+== Writing systems ==
+=== Rohingya Hanifi script ===
+The [[Hanifi Rohingya script]] is a unified script for the Rohingya language. Rohingya was first written in the 19th century with a version of the [[Perso-Arabic script]]. In 1975, an orthographic Arabic script was developed, based on the [[Urdu alphabet]].
+
+In the 1980s, (Maolana) [[Mohammad Hanif (scholar)|Mohammad Hanif]] and his colleagues created the suitable [[phonetic script]] based on Arabic letters; it has been compared to the [[N’ko]] script. The script also includes a set of decimal numbers.<ref name=omniglot>{{cite web|url=https://www.omniglot.com/writing/rohingya.htm|title=Rohingya alphabets, pronunciation and language|website=[[Omniglot]]|publisher=Simon Ager|access-date=9 October 2017}}</ref><ref>{{cite web |url=http://skyknowledge.com/rohingya.htm |title=Hanifi alphabet for Rohingya |last=James |first=Ian |date=5 July 2012 |website=Sky Knowledge |publisher= |access-date=9 October 2017 |quote=}}</ref>
+
+[[File:Rohingya-Keyboard-online.jpg|thumb|375px|Layout of the Rohingya virtual keyboard.]]
+A virtual keyboard was developed by Google for the Rohingya language in 2019 and allows users to type directly in Rohingya script. The Rohingya Unicode keyboard layout can be found [https://languagetools-153419.appspot.com/rhg/ here].
+
+==== Characters ====
+{| class="wikitable"
+|+Rohingya consonants -29
+|-
+! colspan=6 | 𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴇𐴥𐴡𐴌𐴟𐴉𐴢<ref>{{Cite web | title=Rohingya Language Academy | url=https://www.rohingyazuban.com/}}</ref>
+|-
+|- align=center | <span style="font-size:200%;"></span>
+| 𐴅||𐴄||𐴃||𐴂||𐴁||𐴀
+|- align=center | <span style="font-size:200%;"></span>
+| 𐴋||𐴊||𐴉||𐴈||𐴇||𐴆      
+|- align=center | <span style="font-size:200%;"></span>
+| 𐴑||𐴐||𐴏||𐴎||𐴍||𐴌
+|- align=center | <span style="font-size:200%;"></span>
+| 𐴗||𐴖||𐴕||𐴔||𐴓||𐴒
+|- align=center | <span style="font-size:200%;"></span>
+| ||𐴜||𐴛||𐴚||𐴙||𐴘 
+|}
+
+{| class="wikitable"
+|+Rohingya vowels -7
+|-
+! colspan=6 | 𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴀𐴝𐴉𐴡𐴌 𐴀𐴞𐴉𐴡𐴌𐴢
+|- 
+|-align=center | <span style="font-size:200%;"></span>
+| 𐴢||𐴡||𐴠||𐴟||𐴞||𐴝
+|- align=center | <span style="font-size:200%;"></span>
+| ||◌𐴧||◌𐴦||◌𐴥||◌𐴤||𐴣       
+|}
+
+{| class="wikitable"
+|+Rohingya numerals
+|-
+! colspan=10 | 𐴌𐴟𐴇𐴥𐴝𐴚𐴒𐴙𐴝 𐴓𐴡𐴔𐴁𐴡𐴌𐴢
+|-
+|- align=center | <span style="font-size:200%;"></span>
+| 𐴰 || 𐴱 || 𐴲 || 𐴳 || 𐴴 || 𐴵 || 𐴶 || 𐴷 || 𐴸 || 𐴹
+|}
+
+=== Arabic script ===
+The first Rohingya language texts, written in [[Arabic script]], are claimed to be more than 200 years old, though there are no concrete evidence about it.<ref name=proposal /> While [[Rakhine State|Arakan]] was under British rule (1826–1948), the Rohingya people used mainly English and Urdu for written communication. Since independence in 1948, Burmese has been used in all official communications. Since the early 1960s, Rohingya scholars have started to realise the need for a writing system suited to their own language.
+
+In 1975 a writing system was developed using Arabic letters; other scholars adopted [[Urdu script]] to remedy some deficiencies of the Arabic. Neither proved satisfactory, however, and most Rohingyas found it difficult to read the language in either version.
+
+Following these attempts, (Maolana) [[Mohammad Hanif (scholar)|Mohammad Hanif]] achieved a dedicated [[right-to-left]] [[alphabet]] for the Rohingya language in 1983. Named after its author, the [[Hanifi alphabet]] is a modified form of the [[Arabic alphabet]], with additional borrowings from [[Latin alphabet|Latin]] and [[Burmese alphabet|Burmese]] alphabets.<ref name="pandey">{{cite web |url=http://unicode.org/L2/L2012/12214-rohingya.pdf |title=Preliminary Proposal to Encode the Rohingya Script |last=Pandey |first=Anshuman |date=20 June 2012 |website=Expanding Unicode |publisher=Anshuman Pandey |access-date=14 September 2017}}</ref>
+
+At present, a [https://sites.google.com/site/rohingyafonna/ Rohingya Unicode font] is available. It is based on Arabic letters (since those are far more understood by the people) with additional tone signs.<ref name=proposal>{{cite web |first1=Lorna A |last1=Priest |first2=Martin |last2=Hosken |author3=SIL International |author3-link=SIL International |title=''Proposal to add Arabic script characters for African and Asian languages'' |date=12 August 2010 |url=http://www.dkuug.dk/jtc1/sc2/wg2/docs/n3882.pdf |pages=13–18, 34–37}}</ref><ref name="pandey"/> Tests that have been conducted suggest that this script can be learned in a matter of hours if the reader has learned Arabic in a madrassa.
+
+The Rohingya Fonna Unicode keyboard layout as well as a free font can be found [https://sites.google.com/site/rohingyafonna/ here].
+
+=== Roman script ===
+In 1999 E.M. Siddique Basu was able to simplify the Rohingya writing using Latin letters. It is an intuitive writing system which can be learnt easily and is known as Rohingyalish or Rohingya Fonna that uses only 26 Roman letters, five accented vowels, and two additional Latin characters for retroflex and nasal sounds.
+
+{| class="wikitable"
+|+Rohingya Character Set-28
+|-
+| A a|| B b||style="background:#ffdead;"| C c||style="background:#d0dead;"| Ç ç|| D d|| E e|| F f
+|-
+| G g|| H h|| I i|| J j|| K k|| L l|| M m
+|-
+| N n||style="background:#d0dead;"| Ñ ñ|| O o|| P p|| Q q|| R r|| S s
+|-
+| T t|| U u|| V v|| W w|| X x|| Y y|| Z z
+|}
+
+Q, V, and X are used only for loan-words.<ref name="Omniglot">{{Cite web|url=https://www.omniglot.com/writing/rohingya.htm|title=Rohingya alphabets, pronunciation and language|website=www.omniglot.com}}</ref>
+
+The character set table of the Rohingya writing system uses the Latin letters shown above (ç and ñ with green background). The vowels are written both unaccented (aeiou) and accented (áéíóú). The use of c, ç and [[ñ]] is adapted to the language; c represents {{IPA|/ʃ/}} (English ''sh''), ç is the [[retroflex]] r ({{IPAblink| ɽ}}),<ref name=proposal /> and ñ indicates a [[nasalised]] vowel (e.g., ''fañs'' {{IPA|/fãs/}} 'five'). Crucially, these can all be accessed from an English keyboard, for example by using the [[Keyboard layout#US-International|English (US) International]] keyboard.
+
+'''Names and pronunciation of letters'''<br/>
+The names of the letters of the Latin Rohingya alphabet are similar to the names of the letters of the English alphabet.
+{|class="wikitable"
+|+Basic letters<ref name="Omniglot"/>
+![[Grapheme]]
+!Pronunciation
+!Name
+|-
+!a
+|/a/
+|ee
+|-
+!b
+|/b/
+|bii
+|-
+!c
+|/ʃ/
+|cii
+|-
+!ç
+|/ɽ/
+|çii
+|-
+!d
+|/d̪/
+|dii
+|-
+!e
+|/e/
+|ii
+|-
+!f
+|/f/
+|ef
+|-
+!g
+|/g/
+|jii
+|-
+!h
+|/h, x/
+|eech
+|-
+!i
+|/i/
+|ai
+|-
+!j
+|/ɟ/
+|jee
+|-
+!k
+|/k/
+|kee
+|-
+!l
+|/l/
+|el
+|-
+!m
+|/m/
+|em
+|-
+!n
+|/n/
+|en
+|-
+!ñ
+|/◌̃/ ([[nasalization]])
+|añ
+|-
+!o
+|/ɔ/
+|oou
+|-
+!p
+|/p/
+|pii
+|-
+!q
+|/q/
+|kyuu
+|-
+!r
+|/r/
+|er
+|-
+!s
+|/s/
+|es
+|-
+!t
+|/t̪/
+|tii
+|-
+!u
+|/u/
+|yuu
+|-
+!v
+|/v/
+|vii
+|-
+!w
+|/w/
+|dblyuu
+|-
+!x
+|/ks/
+|eks
+|-
+!y
+|/j/
+|way
+|-
+!z
+|/z/
+|zed
+|}
+
+{|class="wikitable"
+|+Digraphs{{citation needed|date=December 2019}}
+![[Grapheme]]
+!Pronunciation
+|-
+!ch
+|/c/
+|-
+!dh
+|/ɖ/
+|-
+!h'
+|/h/
+|-
+!kh
+|/x/
+|-
+!ng
+|/ŋ/
+|-
+!ny
+|/ɲ/
+|-
+!ou
+|/o/
+|-
+!th
+|/t̪/
+|-
+!ts
+|/t̪/
+|}
+
+Long vowels in Rohingyalish are spelled with double vowels: for example, a long {{IPA|/ɔ/}} is spelled as "oo", while a long {{IPA|/o/}} is spelled as "oou".<ref name="Omniglot" />
+
+== Sample text ==
+The following is a sample text in Rohingya of the Article 1 of the [[Universal Declaration of Human Rights]]:
+
+'''Rohingya in Rohingya Latin alphabet'''
+:Manúic beggún azad hísafe, ar izzot arde hók ókkol ót, fúainna hísafe foida óiye. Fottí insán óttu honó forók sára elan ot aséde tamám hók ókkol arde azadi ókkol loi fáaida goróon ór hók asé. Ar, taráre dil arde demak diyé. Ótolla, taráttu ekzon loi arekzon bái hísafe maamela goróon saá.
+
+'''Bengali in Latin script'''
+:Shômosto manush shadhinbhabe shôman môrjada ebong odhikar niye jônmogrohon kôre. Tãder bibek ebong buddhi achhe; shutorang shôkoleri êke ôporer proti bhratrittoshulobh mônobhab niye achôron kôra uchit.
+
+'''Assamese in Latin script'''
+:Xôkôlû manuhê sadhinbhawê xôman môrzôda aru ôdhikar lôi zônmôgrôhôn kôrê. Xihôtôr bibêk aru buddhi asê aru xihôtê pôrôspôr bhratrittôrê asôrôn kôribô lagê.
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+{{wiktionary cat}}
+{{commons category-inline}}
+* [https://rohingyazuban.com/ Rohingya Language Academy website]
+* [http://rohingyalanguage.com/ Rohingya Language Foundation website]
+* [http://www.rohingyalanguage.com/Dic-A2Z English–Rohingya Dictionary]
+* [https://rohingyazuban.com/font Rohingya font download]
+
+{{Languages of Myanmar}}
+{{Eastern Indo-Aryan languages}}
+
+[[Category:Eastern Indo-Aryan languages]]
+[[Category:Languages of Myanmar]]
+[[Category:Rohingya people|*]]
+[[Category:Subject–object–verb languages]]
+[[Category:Arabic alphabets for South Asian languages]]
+[[Category:Bengali dialects]]
+[[Category:Rohingya language]]

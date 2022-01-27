@@ -1,0 +1,258 @@
+{{Short description|Tupian language spoken by indigenous peoples in the Brazilian state of Maranhão}}
+{{Redirect-distinguish2|Timbé language|the [[Timbe language]] of Papua New Guinea}}
+{{Infobox language
+| name = Tenetehára
+| nativename = ''Guajajara''
+| states = [[Brazil]]
+| ethnicity = 19,500 [[Guajajara]] (2006), 820 [[Tembé]] (1999), 60 Turiwara (1998)<ref name=e18/>
+| speakers = {{sigfig|13250|2}}
+| date = 2006
+| ref = e18
+| familycolor = American
+| fam1 = [[Tupian languages|Tupian]]
+| fam2 = [[Tupí–Guaraní languages|Tupí–Guaraní]]
+| fam3 = Tenetehara branch
+| lc1 = gub
+| ld1 = Guajajara
+| lc2 = tqb
+| ld2 = Tembé
+| glotto = temb1276
+| glottorefname = Tenetehara
+| region = [[Maranhão]]
+}}
+
+'''Tenetehára''' is a [[Tupi–Guarani]] language spoken in the state of [[Maranhão]] in [[Brazil]]. [[Sociolinguistics|Sociolinguistically]], it is two languages,  each spoken by the [[Guajajara]] and the [[Tembé]] people, though these are mutually intelligible. Tembé was spoken by less than a quarter of its ethnic population of 820 in 2000; Guajajara, on the other hand, is more robust, being spoken by two-thirds of its 20,000 people.
+
+== History ==
+Tenetehára speakers were first contacted in 1615 by a French expedition in the margins of the Pindaré river. They clashed against slaver raids until Jesuit missions were set up among them (1653-1755). After the Jesuits were expelled from Brazil, the various Tenetehára groups went back to a life with very limited contact with the settler society.
+
+At the end of the 19th century the members of the community started to be employed as collectors of natural resources. After some abuse by white settlers in their vicinity, in 1901 the Guajajara group revolted against a nearby Capuchin missions and expelled them from their land. They have been in continuous conflict with clandestine loggers and illegal settlements in their land.
+
+== Phonetics and phonology ==
+Tenetehára has a total of 21 phonemes: 14 consonants and 7 vowels. Each of the consonantal phonemes occurs as the initial C in CV and CVC syllables, while each of the vowels occurs as the nucleus in the four syllable patterns. Any phoneme of the class /t k m n ŋ w z r/ may occur in the syllable and word final C position, while /p k<sup>w</sup> c ŋ<sup>w</sup> ' h/ are limited in their distribution in that they do not occur in the final C position. Similarly, /ŋ ŋ<sup>w</sup>/ have a somewhat limited distribution in that they never occur word-initially.<ref name=":0">{{Cite book|title=Gramática Pedagógica da Língua Guajajara|author=David Bendor-Samuel|date=1969|publisher=Associação Internacional de Linguística SIL – Brasil|oclc=896408604}}</ref>
+{| class="wikitable"
+|+
+Consonants in Tenetehára<ref>{{Cite book|title=Hierarchical structures in Guajajara|last=Bendor-Samuel|first=David|year=1972}}</ref>
+!
+![[Bilabial consonant|Bilabial]]
+![[Dental consonant|Dental]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Labial–velar consonant|Labial-velar]]
+![[Glottal consonant|Glottal]]
+|- align="center"
+![[Stop consonant|Stop]]
+|p
+|t
+|
+|
+|k
+|kʷ
+|ʔ
+|- align="center"
+![[Affricate consonant|Affricate]]
+|
+|ts
+|
+|
+|
+|
+|
+|- align="center"
+![[Fricative consonant|Fricative]]
+|
+|
+|z
+|
+|
+|
+|h
+|- align="center"
+![[Flap consonant|Flap]]
+|
+|
+|ɾ
+|
+|
+|
+|
+|- align="center"
+![[Nasal consonant|Nasal]]
+|m
+|
+|n
+|
+|ŋ
+|ŋʷ
+|
+|- align="center"
+![[Approximant consonant|Approximant]]
+|
+|
+|
+|j
+|
+|w
+|
+|}
+
+* /ts/ is heard as [tʃ] before close front vowels.
+* /z/ is heard as [j] before a consonant or in word-final position.
+
+{| class="wikitable"
+|+Vowels in Tenetehára
+!
+!Front
+!Central
+!Back
+|- align="center"
+!High
+|i
+|ɨ
+|u
+|- align="center"
+!Mid
+|ɛ
+|ə
+|ɔ
+|- align="center"
+!Low
+|
+|a     
+|
+|}
+
+* /i, ə/ can be heard as [ɪ, ɐ] before /ŋ/ or in coda position.
+
+=== Tembé ===
+{| class="wikitable"
+|+Consonants in the Tembé dialect<ref>{{Cite book|last=Bonfim Duarte|first=Fabio|title=Ordem de constituintes e movimiento em Tembé: Minimalismo e Anti-Simetria|publisher=Universidade Federal de Minas Gerais|year=2007}}</ref>
+! colspan="2" |
+![[Bilabial consonant|Bilabial]]
+![[Dental consonant|Dental]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Labial–velar consonant|Labial-velar]]
+![[Glottal consonant|Glottal]]
+|- align="center"
+! rowspan="2" |[[Stop consonant|Stop]]
+!<small>plain</small>
+|p       
+|t
+|
+|
+|k   
+|kʷ
+|ʔ
+|- align="center"
+!<small>voiced</small>
+|
+|d
+|
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Fricative consonant|Fricative]]
+|
+|
+|s           
+|
+|
+|
+|h
+|- align="center"
+! colspan="2" |[[Flap consonant|Flap]]
+|
+|
+|ɾ
+|
+|
+|
+|
+|- align="center"
+! colspan="2" |[[Nasal consonant|Nasal]]
+|m
+|
+|n
+|
+|ŋ
+|ŋʷ
+|
+|- align="center"
+! colspan="2" |[[Approximant consonant|Approximant]]
+|
+|
+|
+|j
+|
+|w
+|
+|}
+
+* /s/ can have an allophone of [ts], and can also be heard as [tʃ] before front vowels.
+* /d/ can have three allophones [z, ʒ, dʒ], and can be heard as [j] when before a consonant or in word-final position.
+
+{| class="wikitable"
+|+Vowels in the Tembé dialect
+!
+!Front
+!Central
+!Back
+|- align="center"
+!High
+|i
+|ɨ
+|u
+|- align="center"
+!Mid
+|e
+|ə
+|o
+|- align="center"
+!Low
+|
+|a     
+|
+|}
+
+* /e, ɔ/ can have short allophones [ɛ, ɔ].
+
+== Syntax ==
+Tenetehára has a verb-subject-object word order. Verbs are marked with person prefixes that reference the subject of the clause:
+
+{{interlinear|indent=2
+|u-suka Zezin arapuha
+|3-kill Zezin deer
+|"Zezin killed a deer."}}
+
+There are three verb classes, corresponding to transitive, intransitive and stative verbs. Each of these has a different set of verbal prefixes to mark the subject.
+
+Even though it is a verb-initial language, Tenetehára has postpositions instead of prepositions, as would be expected cross-linguistically:
+
+{{interlinear|indent=2
+|o-ho Zezin ko pe
+|3-go Zezin field to
+|"Zezin goes to the field."}}
+
+A small group of adverbial words, that relate the sentence to its context, can appear in the first position in the clause, followed by the verb and the rest of the sentence.<ref name=":0" />
+
+{{interlinear|indent=2
+|aipo o-ho ko pe
+|maybe 3-go field to
+|"Maybe he went to the field."}}
+
+==References==
+{{reflist}}
+==External links==
+*{{SAPhon|Guajajara|Guajajára}}
+*{{SAPhon|Tembe|Tembé}}
+{{Languages of Brazil}}
+{{Tupian languages}}
+
+[[Category:Tupi–Guarani languages]]
+[[Category:Languages of Brazil]]
+[[Category:Verb–subject–object languages]]

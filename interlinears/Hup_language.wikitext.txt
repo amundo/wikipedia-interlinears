@@ -1,0 +1,437 @@
+{{Short description|Naduhup language of Colombia and Brazil}}
+{{Distinguish|text= the [[Hupa language]]}}
+{{Infobox language
+|name          = Hup
+|nativename    = ''Hupdë''
+|pronunciation = {{IPA|[húpʔɨ̌d]}}
+|states        = [[Brazil]]
+|ethnicity=[[Hup people|Hupd'ëh]], Yohup
+|speakers      = {{sigfig|1740|2}}
+|date          = 2006–2007
+|ref           = e18
+|familycolor   = American
+|fam1          = [[Naduhup languages|Naduhup]]
+|lc1= jup|ld1=Hup
+|lc2=yab|ld2=Yuhup
+|glotto=hupy1235
+|glottorefname=Hup–Yuhup
+|ELP2=634
+|ELPname2=Yuhup
+|notice=IPA
+}}
+
+The '''Hup language''' (also called ''Hupdë,<ref>The letter ''ë'' stands for {{IPAblink|ə}}.</ref> Hupdá, Hupdé, Hupdá Makú, Jupdá, Makú, Makú-Hupdá, Makú De, Hupda,'' and ''Jupde'') is one of the four [[Naduhup languages]]. It is spoken by the [[Hupda people|Hupda]] indigenous Amazonian peoples who live on the border between [[Colombia]] and the Brazilian state of [[Amazonas (Brazilian state)|Amazonas]]. There are approximately 1500 speakers of the Hup language. As of 2005, according to Epps, Hup is not seriously endangered – although the actual number of speakers is few, all Hupda children learn Hup as their first language.
+
+== History ==
+Although their territory was the target of forced transferrals throughout the 17th and 18th centuries, due to their isolation, the Naduhup were among the least affected, since they were protected by the geography of their land. They were also the target of several Catholic missions, though those ultimately failed, as the Naduhup refused to send their children to Catholic education centres.<ref>{{cite encyclopedia |editor-last= Ricardo|editor-first= Fany Pantaleoni|encyclopedia= Povos Indígenas no Brasil|title= Hupda|url= https://pib.socioambiental.org/en/povo/hupda}}</ref>
+
+Contact with the [[Tukanoan people|Tucanoan people]], also known as the River Indians, who live along the rivers rather than in the forests, has significantly impacted the Naduhup, both culturally and linguistically. Since before European contact, the Naduhup and Tukanoan peoples have engaged in trade, the Naduhup providing labour and hunted meats and the Tucanoan providing agricultural goods. However, the Naduhup are viewed as inferior by the Tucanoan, because of their linguistic and lifestyle differences. Because of this inequality, most Naduhup people can understand and/or speak a Tucanoan, while it is the opposite vice versa – very few, if any Tucanoan people speak Hup.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=20 |isbn=3110199076}}</ref>
+
+== Language profile ==
+Relatively few linguistic materials of Hup are available, due to the isolation of the Hupda. Incomplete vocabulary lists and dictionaries were established in 1955 (Giacone) and 1993 (Erickson and Erickson). The most complete descriptive grammar of Hup, ''A Grammar of Hup'', was written by Patience Epps in 2005, was updated in 2008, and outlines Hup phonology, parts of speech, morphology, aspect, tense, modality, among many other features.
+
+Hup is one of four languages in the Naduhup (Makú) family. Though ''Makú'' is the term most commonly used to refer to this language family, there is controversy over its usage, since it is also an ethnic slur, translating to “without language”, used by the Tukanoan towards the Naduhup. There has not been a consensus on a replacement term, although Epps proposed “Naduhup”, which combines the names of the four members of the language family - [[Nadëb language|Nadëb]], [[Dâw language|Dâw]], Hup, and [[Hupda language|Yuhup]].<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=8 |isbn=3110199076}}</ref>
+
+== Phonology ==
+
+=== Consonants ===
+There are nineteen contrasting consonants in Hup, with the twentieth /p’/ occurring in the morpheme-initial position in only one word of only some Hup dialects. /j/, /g/, and /ç/ only appear in morpheme-final position, while all other consonants may appear in morpheme initial, medial, and final position. Hup has [[Glottalic consonant|glottalized consonants]] of both stops and approximants which can be seen in the chart below.<ref name=":0">{{Cite book|title = A Grammar of Hup|last = Epps|first = Patience|publisher = Mouton de Gruyter|year = 2008|location = Berlin|pages = 33}}</ref> This language also has nasal allophones of the voiced stops.<ref name=":0" />
+
+{| class="wikitable" style="text-align: center;"
+! colspan="2" |
+![[Bilabial consonant|Bilabial]]
+![[Denti-alveolar consonant|Denti-<br>alveolar]]
+![[Palatal consonant|Palatal]]
+![[Velar consonant|Velar]]
+![[Glottal consonant|Glottal]]
+|-
+! rowspan="3" |[[Plosive]]
+!<small>voiceless</small>
+|{{IPA link|p}}
+|{{IPA link|t}}
+|{{IPA link|c}} {{grapheme|ch}}
+|{{IPA link|k}}
+|{{IPA link|ʔ}}
+|-
+!<small>voiced</small>
+|{{IPA link|b}}
+|{{IPA link|d}}
+|{{IPA link|ɟ}} {{grapheme|y}}
+|{{IPA link|g}} {{grapheme|k}}
+|
+|-
+!<small>[[Glottalic consonant|glottalized]]</small>
+|{{IPA link|bʼ}} ({{IPAlink|pʼ}})
+|{{IPA link|dʼ}}
+|{{IPA link|ɟʼ}} {{grapheme|yʼ}}
+|{{IPA link|gʼ}} {{grapheme|kʼ}}
+|
+|-
+! colspan="2" |[[Fricative]]
+|
+|
+|{{IPA link|ç}} {{grapheme|ch}}
+|
+|{{IPA link|h}}
+|-
+! rowspan="2" |[[Semivowel|Glide]]
+!<small>plain</small>
+|{{IPA link|w}}
+|
+|{{IPA link|j}} {{grapheme|y}}
+|
+|
+|-
+![[Ejective consonant|<small>ejective</small>]]
+|{{IPA link|wʼ}}
+|
+|{{IPA link|jʼ}} {{grapheme|yʼ}}
+|
+|
+|}
+
+Adapted from Epps (2005), p.&nbsp;40.
+
+=== Vowels ===
+Hup contains a large segmental phonemic inventory, in comparison to the Tukanoan languages that neighbour it geographically. Hup vowels are composed of nine contrasting sounds, with no occurring [[diphthong]]s:<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=37 |isbn=3110199076}}</ref>
+
+{| class="wikitable" style="text-align: center;"
+!
+!Front
+!Central
+!Back
+|-
+!Close
+|{{IPA link|i}}
+|{{IPA link|ɨ}}
+|{{IPA link|u}}
+|-
+!Mid
+|{{IPA link|e}}
+|{{IPA link|ə}}
+|{{IPA link|o}}
+|-
+!Open
+|{{IPA link|æ}}
+|{{IPA link|a}}
+|{{IPA link|ɔ}}
+|}
+
+However, these nine sounds occur only in non-nasal contexts. In nasal morphemes, there are only six distinct vowels:
+
+{| class="wikitable" style="text-align: center;"
+!
+!Front
+!Central
+!Back
+|-
+!Close
+|{{IPA|ĩ}}
+|{{IPA|ɨ̃}}
+|{{IPA|ũ}}
+|-
+!Open
+|{{IPA|æ̃}}
+|{{IPA|ã}}
+|{{IPA|ɔ̃}}
+|}
+
+Adapted from Epps (2005)<ref name="Epps 2005 39">{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=39 |isbn=3110199076}}</ref>
+
+According to Epps (2005), this indicates that the contrast between mid-vowels and high/low vowels are neutralised in nasal contexts. Nasalisation is morphemic at the syllable level and targets all segments – generally, every syllable is either fully nasal or fully oral.<ref name="Epps 2005 39"/>
+
+=== Tonality ===
+Hup tonality functions in what is called a word-accent system – there is a word-level tone contrast system; the contrast is restricted to one syllable per word, which is predictable and also exhibits other features of stressed syllables (greater intensity, longer duration, and higher pitch). There are two tones: rising and high, which only appear in nouns and adjectives.
+
+{| class="wikitable" style="text-align: center;"
+!colspan="4"|Hup Tones
+|-
+!Rising
+|/cǎʔ/ [cǎʔ] "clump of roots"
+|-
+!High
+|/cáʔ/ [cáʔ] "box, nest"
+|}
+
+== Morphology ==
+Nouns and verbs are open class, while adjectives are closed class. Nouns usually appear as arguments of clauses and can appear bare in the clause, while verbs must be inflected in some way. Hup is highly agglutinative and concatenative, with a high rate of synthesis and low rate of phonological fusion of morphemes. Therefore, its morphemes are easily segmented. Roots typically undergo compounding, while formatives are affixed or cliticised.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=97 |isbn=3110199076}}</ref>
+
+===Personal pronouns===
+{| class="wikitable" style="text-align: center;"
+!
+!Subject
+!Object
+!Oblique
+!colspan=2|Possessive
+|-
+!
+|
+|
+|
+|Downriver Hup dialects
+|Umari Norte dialect
+|-
+!1sg
+|ʔɑ̃h́
+|ʔɑ́n
+|ʔɑ̃h́-ɑ̃t́
+|nɨ̌
+|nɨ̌h
+|-
+!2sg
+|ʔɑ́m
+|ʔɑ́m-ɑ́n
+|ʔɑ́m-ɑ́t
+|ʔɑ́mɨ̌h
+|ʔɑ́m-nɨ̌h
+|-
+!3sg
+|tɨ́h
+|tɨ́h-ɑ́n
+|tɨ́h-ɨ́t
+|tɨnɨ̌h
+|tɨh-nɨ̌h
+|-
+!1pl
+|ʔɨ́n
+|ʔɨ́n-ɑ́n
+|ʔɨ́n-ɨ́t
+|ʔɨnɨ̌h
+|ʔɨn-nɨ̌h
+|-
+!2pl
+|nɨ́ŋ
+|nɨ́ŋ-ɑ́n
+|nɨ́ŋ-ɨ́t
+|nɨŋɨ̌h
+|nɨŋ-nɨ̌h
+|-
+!3pl
+|hɨ́d
+|hɨ́d-ɑ́n
+[[hɨɾan]] (TD)
+|hɨ́d-ɨ́t
+[hɨɾɨt] (TD)
+|hɨdnɨ̌h
+hɨdɨ̌h [hɨɾɨh] (TD)
+
+yɨʔd’ə̌h-nɨ̌h
+|hɨd-nɨ̌h
+|}
+Adapted from Epps (2005), p.&nbsp;138
+
+=== Semiverbal "Verby" nouns ===
+Some nouns of Hup are semi-verbal, namely those which have to do with the passage of time, as well as periods of time, which are “inherently progressive and impermanent.”<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=141 |isbn=3110199076}}</ref>
+
+“Passage of time” words:
+* ''wəhə́d'' "old man"
+* ''wɑ́'' "old woman"
+* ''dóʔ'' "child"
+
+“Periods of time” words:
+* ''wɑ́g'' "day"
+* ''j'ə́b'' "night"
+
+While these words belong to the noun class (they typically appear as arguments of a clause, and aspectual inflection is not required), they have verb-like qualities, such as occurrence in verbal compounds (which is normally restricted to only verbs):
+
+{{interlinear|indent=3
+|mɔ̌h tɨh yæ̃ʔ-wɑd-hi-wɑ́g-ɑ́h
+|inambu 3sg roast-eat-FACT-day-DECL
+|"He cooked and ate inambu until daybreak."}}
+
+=== Respect markers ===
+The enclitic ''=wəd'', derived from the word for “old man” ''wəhə́d'', can be inserted as a respect marker when referring to spiritual beings or other humans. The feminine form of this is ''=wa''.
+
+{{interlinear|indent=3
+|yunícu{{=}}wəd-ǎn ʔãh ʔɨ́d-ɨh
+|Junilson{{=}}RESP-OBJ 1sg speak-DECL
+|"I spoke to respected Junilson."}}
+
+This marker is usually used to refer to someone older or of higher status, though it can also be used to indicate someone to be feared, especially when used to refer to dangerous spirits.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=299 |isbn=3110199076}}</ref>
+
+{{interlinear|indent=3
+|yúp tɨ̃hɨ̃́y{{=}}wəd nɨ̌h tóg-óh!
+|that.ITG snake{{=}}RESP POSS daughter-DECL
+|"It was the old/respected Snake’s daughter! (from the Rainbow Spirit and the Snake of the Hollow-Star story)."}}
+
+The usage of =wəd is also not necessarily respectful. The enclitic can also be affixed to children’s names as a sign of affection, comparable to doing the same in English with the titles “Mister” or “Miss”.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=300 |isbn=3110199076}}</ref>
+
+==Syntax==
+
+===Case and agreement===
+Hup is nominative-accusative. All subjects are unmarked, while the object and other noun cases are suffixed. Which suffix is used can depend on number, animacy, type of noun, and grammatical function, as shown in the table below. Case marking extends also to the noun phrase and relative clause, and the suffixes attach to the final constituent of the phrase.
+
+{| class="wikitable" style="text-align: center;"
+!Grammatical function
+!Nouns
+!Nouns marked for number
+!Pronouns, demonstratives
+|-
+!S, A
+| -ø
+| -ø
+| -ø
+|-
+!O (Direct object)
+|Human: -ɑ̌n, Animal: -ɑ̌n (optional), Inanimate: -ø
+| -ɑ̌n (Plural: -n’ɑ̌n)
+| -ɑ̌n
+|-
+!O (beneficiary, recipient of ditransitive verbs)
+| -ɑ̌n
+| -ɑ̌n (Plural: -n’ɑ̌n)
+| -ɑ̌n
+|-
+!Directional oblique
+| -an
+|
+|
+|-
+!Oblique
+| -V́t
+| -V́t
+| -V́t
+|}
+
+Adapted from Epps (2005), p.&nbsp;143
+
+{{interlinear|indent=3
+|{tɨh{{=}}tæ̃h ʔín-ɑ̌n{{=}}mɑh} tɨh mǽh-ǽh
+|3sg{{=}}child,mother-OBJ{{=}}REP 3sg hit-DECL
+|"He beat his wife, it’s said." (Direct Object, Epps (2005), p. 144)}}
+
+{{interlinear|indent=3
+|nǽm ʔɑ́m-ɑ̌n ʔɑ̃h key-nɨ̌ŋ
+|louse 2sg-OBJ 1sg see-COOP
+|"I’ll look for lice for you." (“You” as a beneficiary, Epps (2005), p. 145)}}
+
+{{interlinear|indent=3
+|hɔ̃p{{=}}n'ɑn tɨh w'ób-óh
+|fish{{=}}PL.OBJ 3sg place-DECL
+|"She placed the fish (on the smoking platform)." (Plural object, Epps (2005), p. 153)}}
+
+{{interlinear|indent=3
+|yɑ́g-ɑn g'ɑ̃ʔ-ʔɑ́y hɑ́m
+|hammock-DIR suspend-VENT.IMP go.IMP
+|"Go lie in the hammock!" (Directional Oblique, Epps (2005), p. 156)}}
+
+{{interlinear|indent=3
+|tiyǐʔ(-ɑ̌n) (tɨh{{=}})pǒg-ɑ̌n túk-úy{{=}}mɑh
+|man(-OBJ) (3sg{{=}})big-OBJ want-DYNM{{=}}REP
+|"She wants the big man, it’s said." (Suffixes assigned to last word of noun phrase, Epps (2005), p. 155)}}
+
+Though the object case and directional oblique markers are almost identical phonologically, the only difference being the stress, directional oblique is mainly used to indicate direction, and sometimes, location, in which it coincides with oblique case.
+
+==Semantics==
+
+===Plurals===
+The plurality marker for nouns is =d'əh and follows an animacy hierarchy: humans, animals, and inanimates. For humans, plural marking is obligatory, though exception is made for a non-specific referent.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |pages=164–5 |isbn=3110199076}}</ref>
+
+{{interlinear|indent=3
+|tiyǐʔ{{=}}d'əh-əwə́c ʔəg-nɑ́ʔ-ɑ́y
+|man{{=}}PL-FLR-EXCL2 drink-lose.senses-DYNM
+|"Only the men got drunk!" (Epps (2005), p. 165)}}
+
+{{interlinear|indent=3
+|hup də̌b hɨd bɨ́ʔ-ɨ́h
+|person many 3pl work-DECL
+|"Lots of people worked." (Epps (2005), p. 166)}}
+
+However, the marker is present for groups of people, which are considered conceptually plural.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=165 |isbn=3110199076}}</ref>
+
+{{interlinear|indent=3
+|nutæ̌n-ɑy teghɔ̃́{{=}}d'əh nɨ̌h yɑ́g-ɑy nutæ̌n-ǽp
+|today-INCH Non-Indian{{=}}PL POSS hammock-INCH today-DEP
+|"Nowadays we use the hammocks of the Non-Indians, these days." (Epps (2005), p. 165)}}
+
+Animals are generally also marked for plurality, but differ in that the marker is not obligatory for groups of animals. As with humans, non-specific referents are also not marked.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=168 |isbn=3110199076}}</ref>
+
+{{interlinear|indent=3
+|núp nutæ̌n yɑʔɑ́m{{=}}d'əh hɨd wæd-nɨ́h-ɑy-ɑ́h
+|this today jaguar{{=}}PL 3pl eat-NEG-INCH-DECL
+|"So today jaguars don’t eat (people)." (Epps (2005), p. 168)
+
+{{interlinear|indent=3
+|hɔ̃̌p(*{{=}}d'əh) ʔɑ̃́h kək-d'oʔ-nɨ́h
+|fish(*{{=}}PL) 1sg pull-take-NEG
+|"I didn't catch any fish." (Epps (2005), p. 168)}}
+
+{{interlinear|indent=3
+|hɔ̃̌p{{=}}d'əh pɑ̃̌
+|fish{{=}}PL NEG:EX
+|"The (specific) fish are not here." (Epps (2005), p. 168)}}
+
+Inanimate objects are not marked for plurality and rely on numerals to indicate such. Plural inanimate entities are regarded with low importance, due to usually having low conceptual salience, and therefore are also almost always unmarked for number in discourse as well.<ref>{{cite book |last=Epps |first=Patience |date=2005 |title=A Grammar of Hup |publisher=Mouton de Gruyter |page=169 |isbn=3110199076}}</ref>
+
+{{interlinear|indent=3
+|dadɑ́nya tɨ́h-ɑ̌n {ʔɑ̃h nɔ́ʔ-b'ɑy-ɑ́h}
+|orange 3sg-OBJ give-AGAIN-DECL
+|"I gave her the oranges (that I’d brought)." (Epps (2005), p. 169)}}
+
+==Abbreviations==
+{| class="wikitable" style="text-align: center;"
+!Abbreviation !!Meaning
+|-
+|COOP ||cooperative
+|-
+|DECL ||declarative
+|-
+|DEP ||dependent marker, topic marker
+|-
+|DIR ||directional oblique
+|-
+|DYNM ||dynamic
+|-
+|EXCL ||exclusive
+|-
+|FACT ||factitive
+|-
+|FLR ||following marker
+|-
+|IMP ||imperative
+|-
+|INCH ||inchoative
+|-
+|ITG ||intangible
+|-
+|NEG ||negative (verbal)
+|-
+|NEG:EX ||negative existence
+|-
+|OBJ ||object
+|-
+|PL ||plural/collective
+|-
+|POSS ||possessive
+|-
+|RESP ||respect marker
+|-
+|VENT ||ventive
+|}
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+OBJ:object
+RESP:respect marker
+ITG:intangible
+COOP:cooperative
+DIR:directional oblique
+DYNM:dynamic
+FLR:following marker
+VENT:ventive
+</div><section end="list-of-glossing-abbreviations"/>
+
+==References==
+{{reflist}}
+* Patience Epps (2008) ''A Grammar of Hup.'' Mouton de Gruyter.
+* Moore, Barbara J.; Franklin, Gail L. ''Breves notícias da língua Maku-Hupda.'' Summer Institute of Linguistics, 1979 [http://www.sil.org/americas/brasil/publcns/ling/HPNotic.pdf]
+
+==External links==
+{{sister project |project=wiktionary |text=[[Wiktionary]] has a word list at '''''[[Wiktionary:Appendix:Hupda word list|Appendix:Hupda word list]]'''''}}
+* [http://wold.clld.org/vocabulary/39 Hup Vocabulary List] (from the World Loanword Database)
+* [http://starling.rinet.ru/cgi-bin/response.cgi?root=new100&morpho=0&basename=new100\ndh\ndh&limit=-1 Hup basic lexicon at the Global Lexicostatistical Database]
+* [https://ailla.utexas.org/islandora/object/ailla:124481 Hup Collection of Patience Epps] at the [[Archive of the Indigenous Languages of Latin America]]. Contains audio recordings and transcriptions of Hup language materials, "most from the Middle Tiquié River (primarily villages of Tat Dëh / Taracua Igarapé and Barreira Alta). A few texts from other communities, including Umari Norte of the upper Tiquié."
+
+{{Languages of Brazil}}
+
+{{DEFAULTSORT:Hupde Language}}
+[[Category:Languages of Brazil]]
+[[Category:Nadahup languages]]

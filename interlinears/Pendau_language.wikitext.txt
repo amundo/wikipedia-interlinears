@@ -1,0 +1,490 @@
+{{short description|Austronesian language spoken on Sulawesi, Indonesia}}
+{{Infobox language
+|name=Pendau
+|altname = Umalasa<ref> In addition to these variants, "Kasimbar" and "Umalasa" are [[eponym | eponyms]] and [[exonym]] used to refer to Pendau. "Kasimbar" comes from an important trading town in the language area, according to Quick. Ethnologue lists "Umalasa" as an [[pejorative|slur]] used by the [[Bugis|Buginese]]. "Umalasa" translates as "the sick ones."</ref>
+|states = [[Indonesia]]
+|region = [[Central Sulawesi]]|speakers = 3940
+|ethnicity = Pendau
+|date=2007
+|ref = <ref>{{cite web |title=Pendau |url=https://www.ethnologue.com/language/ums |website=Ethnologue |access-date=25 March 2019 |language=en}}</ref>
+|familycolor=Austronesian
+|fam2=[[Malayo-Polynesian languages|Malayo-Polynesian]]
+|fam3=[[Celebic languages|Celebic]]
+|fam4=[[Tomini–Tolitoli languages|Tomini–Tolitoli]] ?
+|fam5=[[Tomini languages|Tomini]]
+|fam6 = Southern Tomini
+|script = Latin
+|iso3=ums
+|glotto=pend1242
+|glottorefname=Pendau
+|notice = IPA
+}}
+
+'''Pendau''' (Ndaoe, Ndau), or '''Umalasa''', is a [[Celebic language]] of [[Sulawesi]] in [[Indonesia]] spoken by the approximately 4000 [[ethnolinguistic group|Pendau people]] who live in [[Central Sulawesi]]. Classified as an [[endangered language]], Pendau is primarily spoken inside of Pendau villages whereas [[Indonesian language|Indonesian]] is used to speak with neighboring communities and is the language of children's education and outside officials.<ref name=":1"> {{Rp|113}}Pendau is listed as a 6b* (Threatened) by Ethnologue. {{Cite web|url=https://www.ethnologue.com/language/ums|title=Pendau|website=Ethnologue|language=en|access-date=2019-04-17}}</ref> The highest concentration of speakers is in and around [[Balaesang|Kecamatan Balaesang]]. There are no known [[Dialect|dialects]] within the Pendau region, although speakers from the mainland can identify whether a speaker is from the Balaesang peninsula through their 'rhythm' or intonation pattern. In recent years, some Pendau leaders have worked with local government to [[Language preservation|preserve their language]] alongside Indonesian.{{sfn|Quick|2007|pp=16-17}}
+
+== History ==
+While the history of the Pendau has only been recently documented, a history has been pulled together through [[folklore]] and [[Oral history|oral traditional]], historical documents kept by European [[Exploration|explorers]], Pendau language developments, and the present situation of the Pendau. In contrast to neighboring groups, older Pendau men hold that the Pendau have never had a king and view themselves as having no class distinctions, although hierarchical roles did exist in [[decision-making]] and [[conflict resolution]]. The earliest document about the Pendau comes from 1795, when an American crew led by Captain David Woodward was found stranded off the west coast of [[Sulawesi]]. Between 1925-1935, Dutch-trained Indonesian [[Evangelism|evangelists]] began to arrive, and many of the Pendau today are [[Religion in Indonesia|registered as Christians by the government]] and practice Christianity (although many features of [[animism]] are [[Syncretism|still practiced]]). During [[World War II]], the [[Japanese occupation of the Dutch East Indies|Japanese occupied Indonesia]]. Some Pendau still recite Japanese phrases and songs, although there are mixed opinions about the occupation with the occupation described as a difficult time by many who remember it. In recent history, many Pendau have made their living in [[Metalsmith|metalsmithing]], [[agriculture]], [[hunting]], fishing, and [[Sago|sago making]]{{sfn|Quick|2007|p=1-5}}
+
+== Geographic distribution ==
+The Pendau often live in small, often isolated communities in [[Donggala Regency|Donggala]] between [[Balaesang]] and [[:id:Dampal Utara, Tolitoli |Dampal Utara]]. The [[Balaesang]] Peninsula forms its own mountain range that runs north and south, splitting the east and west coast. Most of the Pendau happen to live along the west coast. The [[:id:Sirenja, Donggala | Sirenja sub-district]] is considered the southernmost boundary of the Pendau-speaking area.<ref>{{Cite web|url=http://www.endangeredlanguages.com/lang/2769|title=Did you know Pendau is threatened?|website=Endangered Languages|language=en|access-date=2019-04-30}}</ref>
+
+== Phonology ==
+
+=== Vowels ===
+Pendau has five vowel phonemes: two front vowels, /i/ and /e/, one central vowel /a/, and two back vowels /ɯ/ (orthographic u) and /o/. Most vowels are [[unrounded]] and /o/ is the only rounded vowel in Pendau. Pendau has no [[Diphthong|diphthongs]].{{sfn|Quick|2007|pp=22-27}}
+
+{| class="wikitable" style="text-align:center;"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[High vowel|High]]
+|{{IPA link|i}}
+|
+|{{IPA link|ɯ}} {{grapheme|u}}
+|-
+![[Mid vowel|Mid]]
+|{{IPA link|e}}
+|
+|{{IPA link|o}}
+|-
+![[Low vowel|Low]]
+|
+|{{IPA link|a}}
+|
+|}
+
+==== W-glide formation ====
+The high back unrounded vowel (/u/) changes to a [[Voiced labio-velar approximant|labial-velar glide]] (/w/) when it comes before a syllable with no consonant in the [[Onset (linguistics)|onset position]]. When this happens, the labial-velar glide takes the place of the onset consonant, reducing the number of would-be syllables.{{sfn|Quick|2007|pp=27, 68-69}}
+{| class="wikitable"
+|+Examples of w-glide formation
+!Vowel to Consonant Change and Syllable reduction
+!Phonetic transcription
+!English translation
+|-
+|u.a.ni → wa.ni
+|[wan̪i]
+|'honey bee'
+|-
+|ta.u.a.san → ta.wa.san
+|[t̪aws̪an]
+|'unicorn fish'
+|}
+
+=== Consonants ===
+
+Pendau has 19 [[Consonant|consonant phonemes]], although 'w' (which is not an underlying phoneme) appears in its [[orthography|written orthography]] There are five contrastive [[Place of articulation|places of articulation]] and six contrastive [[Manner of articulation|manners of articulation]]. There are two [[Affricate consonant|affricates]] in Pendau, the voiceless dental sibilant affricate (/t̪ʃ/) and the voiced alveolar sibilant affricate (/dʒ/).{{sfn|Quick|2007|pp=22-27}}
+
+{| class="wikitable" style="text-align:center;"
+|-
+! 
+! [[Labial consonant|Labial]]
+! [[Denti-alveolar consonant|Dental-Alveolar]]
+! [[Alveolo-palatal consonant|Alveo-Palatal]]
+! [[Velar consonant|Velar]]
+! [[Glottal consonant|Glottal]]
+|-
+! [[Nasal consonant|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n̪}} {{angbr|n}}
+| {{IPAlink|ɲ}} {{angbr|ny}}
+| {{IPAlink|ŋ}} {{angbr|ng}}
+| 
+|-
+! rowspan="2" | [[Plosive]]
+| {{IPAlink|p}}
+| {{IPAlink|t̪}} {{angbr|t}}
+| {{IPAlink|t̪ʃ}} {{angbr|c}}
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}} {{angbr|'}}
+|-
+| {{IPAlink|b}}
+| {{IPAlink|d}}
+| {{IPAlink|dʒ}} {{angbr|j}}
+| {{IPAlink|ɡ}}
+| 
+|-
+! [[Fricative]]
+| {{IPAlink|β}} {{angbr|v}}
+| {{IPAlink|s̪}} {{angbr|s}}
+| 
+| 
+| {{IPAlink|h}}
+|-
+! [[Liquid consonant|Liquid]]
+| 
+| {{IPAlink|ɭ}} {{angbr|l}}
+| 
+| 
+| 
+|-
+! [[Trill consonant|Trill]]
+| 
+| {{IPAlink|r̪}} {{angbr|r}}
+| 
+| 
+| 
+|-
+! [[Semivowel]]
+| ({{IPAlink|w}})
+| 
+| 
+| {{IPAlink|j}} {{angbr|y}}
+| 
+|}
+
+==== Allophones ====
+In word-final positions, voiceless plosives are pronounced as [[Unreleased stop|unreleased]] [[Allophone|allophones]]: ''e.g.'' the [p] in [api] becomes a [p̚] in [aɭap̚]. Other allophones in Pendau include the voiced dental nasal [n̪] becoming the syllabic dental [n̩] and the voiced velar nasal [ŋ] becoming the syllabic velar nasal [ŋ̩] before a [[Homorganic consonant|homorganic]] [[obstruent]] such as in [n̩''d''au] and in [ŋ̩''k''a:t̪̚].{{sfn|Quick|2007|pp=22-27}}
+
+{| class="wikitable"
+|+Examples of Allophones
+| colspan="3" |''/p/ and /p̚/''{{sfn|Quick|2007|p=23}}
+|-
+|a'''p'''i
+|[api]
+|'fire'
+|-
+|ala'''p'''
+|[aɭap̚]
+|'take'
+|-
+| colspan="3" |''/t̪/ and /t̪̚/''{{sfn|Quick|2007|p=23}}
+|-
+|'''t'''in'''t'''ing
+|[t̪int̪iŋ]
+|'time'
+|-
+|udu'''t'''
+|[udut̪̚]
+|'server'
+|-
+| colspan="3" |''/k/ and /k̚/''{{sfn|Quick|2007|p=24}}
+|-
+|'''k'''areva
+|[kareβa]
+|'news'
+|-
+|tandu'''k'''
+|[t̪anduk̚]
+|'horn'
+|-
+| colspan="3" |''/n̪/ and /n̩/''{{sfn|Quick|2007|p=26}}
+|-
+|'''n'''abo'''<nowiki/>''
+|[n̪aboʔ]
+|'roof'
+|-
+|'''n'''dau
+|[n̩dau]
+|'no'
+|-
+| colspan="3" |''/ŋ/ and /ŋ̩/''{{sfn|Quick|2007|p=26}}
+|-
+|'''n'''yaa
+|[ŋa:]
+|'don't'
+|-
+|'''n'''gkaat
+|[ŋ̩ka:t̪̚]
+|'small flame'
+|}
+
+==== Creaky voice ====
+The glottal stop (/ʔ/) is sometimes realized as [[creaky voice]]. It has been observed that "in place of a true stop, a very compressed form of creaky voice or some less extreme form of stiff phonation may be superimposed on the vocalic stream.{{sfn|Quick|2007|pp=19, 25, 47-50}} The creaky voice manifests on one or more of the contiguous vowels where the glottal stop would have been. For example, creaky voice is written with [V̰] in [riV̰uo], where creaky voice appears between [i] and [o] as one vowel transitions into the next vowel. 
+{| class="wikitable"
+|+Examples of Creaky Voice
+|ri'uo{{sfn|Quick|2007|p=25}}
+|[riV̰uo]
+|'in/by/at there'
+|-
+|so'uya{{sfn|Quick|2007|p=25}}
+|[s̪oV̰uja]
+|'why'
+|}
+
+=== Syllable structure ===
+The syllabic template in Pendau is (C)V(C). Pendau is one of the few Sulawesi languages with a full system of final consonants (e.g. the neighboring [[Kaili language|Kaili languages]] only allow CV and V, while demonstrated syllable patterns in Pendau include VC and CVC).{{sfn|Quick|2007|pp=28-30}} 
+{| class="wikitable"
+|+
+!Template
+!Instantiation
+!Translation
+|-
+|V
+|n.da.'''u'''{{sfn|Quick|2007|p=39}}
+|'no'
+|-
+|CV
+|'''wa'''.'''ni{{sfn|Quick|2007|pp=27, 68-69}}
+|'honeybee'
+|-
+|VC
+|to.nang.la.'''it'''{{sfn|Quick|2007|p=51}}
+|'the crippled one'
+|-
+|CVC
+|wa.'''lan'''.da.no{{sfn|Quick|2007|p=69}}
+|'Walandano (village)'
+|}
+
+In the above example, /n/ in ''ndau'' behaves as a [[syllabic consonant]].
+
+{| class="wikitable"
+|+ Consonant distribution in the syllable
+! || p || t || c || k || b || d || j || g || m || n || ny || ng || v || s || h || ' || l || r || y
+|-
+!Onset
+| X || X || X || X || X || X || X || X || X || X || X || X || X || X || + || X || X || X || X
+|-
+!Coda
+| X || X || - || X || X || X || - || X || X || X || - || X || - || X || - || X || X || X || X
+|}
+
+In the table above, X means that the consonant can occupy the respective position in the syllable and + means that it is a marginal phoneme. In Pendau, /h/ is the sole [[marginal phoneme]], and it is hypothesized to be borrowed from Indonesian [[Loanword|loan words]]. 
+
+=== Stress ===
+[[Stress (linguistics)|Stress]] always falls on the penultimate [[syllable]] and is unmarked. Words in Pendau require at least two syllables, which reflects this stress pattern. Some have described this process as "[[Pitch-accent language|pitch accent]]" because the change in stress is accompanied by a change in pitch (as measured in Hz). However, Phil Quick, author of the ''A Grammar of the Pendau Language,'' states that "the use of 'pitch accent' should not be confused with languages such as Japanese in which 'pitch accent' is a term used to indicate a lexical contrast similar to tone language ... So technically then there are two types of pitch-accent languages, those such as Japanese where pitch-accent is phonemic, and those such as Pendau where pitch-accent is non-phonemic."{{sfn|Quick|2007|pp=22, 42-46}}
+
+== Morphology ==
+Pendau uses [[affixation]] (including [[Prefix|prefixes]], [[Infix|infixes]], and [[Suffix|suffixes]]) and has seven [[Verb class|verb classes]] which are categorized as [[transitive verb|transitive]], [[Intransitive verb|intransitive]], or mixed transitivity. Pendau shows extensive use of [[Clitic|clitics]], [[reduplication]], and limited [[Agreement (linguistics)|subject agreement]].
+
+=== Affixation ===
+{| class="wikitable"
+|+ Examples of Affixation
+| colspan="3" |''Prefixation''
+|-
+|mong-
+|'''mong'''kumung{{sfn|Quick|2007|p=98}}
+|'carry'
+|-
+| colspan="3" |''Infixation''
+|-
+|  -um-
+|mol'''um'''olon{{sfn|Quick|2007|p=98}}
+|'swim'
+|-
+| colspan="3" |''Suffixation''
+|-
+|  -a'
+|nioll'''a''''{{sfn|Quick|2007|p=98}}
+|'brought for someone'
+|}
+=== Verb Classes ===
+Below is a table that lists all the verb classes in Pendau. All canonical verbs (besides stative verbs) require that the verb is prefixed with either the [[Irrealis mood|irrealis]] or [[Realis mood|realis]] mood. The subscripts A and P refers to whether the subject is the [[Agent (linguistics)|agent]] or [[Patient (linguistics)|patient]].
+{| class="wikitable"
+|+Overview of Pendau verb classes
+!Transitivity
+!Verb Classes
+!Examples
+!Stem former (prefix)
+!Pivot / subject
+!Irrealis / realis (prefix)
+!Inverse (non-derived)
+|-
+! rowspan="2" |TRANSITIVE
+!Primary
+|''nongkomung''<br>'to carry'
+|pong-(pepe-)
+|A
+| rowspan="5" |M- / N-
+|''ni'omung''
+|-
+!Factive
+|''nogabu''<br>'to cook'
+|po-
+|A
+|''nipogabu''
+|-
+! rowspan="3" |MIXED TRANSITIVITY
+!Dynamic
+|''nelolo''<br>'to search' 
+|pe-
+|A~S<sub>A</sub>
+|''nilolo''
+|-
+!Denominal
+|''nojala''<br>'to net' 
+|po-
+|A~S<sub>A</sub>
+|''nijala''
+|-
+!Locomotion
+|''nol[um]olon''<br>'to swim'
+|po-
+|A~S<sub>A</sub>
+| --
+|-
+! rowspan="2" |INTRANSITIVE
+!Postural
+|''nopotundo''<br>'to sit'
+|popo-
+|S<sub>A</sub>
+|
+| --
+|-
+!Stative
+|''notou''<br>'to be finished'
+| --
+|S<sub>P</sub>
+|mo-no-
+| --
+|}
+
+{{sfn|Quick|2007|p=228}}
+
+===Clitics===
+Pendau uses clitics show possession (genitive case), completion, continuation, relative clauses, and location. Clitics are [[Phonology|phonologically]] part of the word (''e.g.'', a word with a clitic adheres to the stress patterns as if the whole unit were one word), but syntactically functions as their own grammatical word.{{sfn|Quick|2007|p=98}}
+{| class="wikitable"
+|+List of clitics
+|''='u''
+|first personal singular (genitive)
+|-
+|''=to''
+|first person plural inclusive (genitive)
+|-
+|''=mu''
+|second person singular (genitive)
+|-
+|''=nyo''
+|third person singular (genitive)
+|-
+|''=mo''
+|completive aspect
+|-
+|''=po''
+|continuative
+|-
+|''si=''
+|proper noun marker (absolute)
+|-
+|''ni=''
+|poroper noun marker (genitive)
+|-
+|''nu=''
+|common noun marker (genitive)
+|-
+|to=
+|relative clause marker
+|-
+|ri=
+|general locative oblique
+|}
+
+===Reduplication===
+Reduplication in Pendau is classified as either [[affixation]] or [[Compound (linguistics)|compounding]].{{sfn|Quick|2007|p=98}} Both full and partial reduplication are present in Pendau. Partial reduplication sometimes works in tandem with prefixation, as the prefix itself may be added and reduplicated instead of the reduplicating the base (''see seseleo below''). Reduplication is used for showing [[grammatical number]], [[nominalization]], and emphasis.{{sfn|Quick|2007|pp=162-165}}
+{| class="wikitable"
+|+Examples of reduplication
+|-
+! colspan="4" | Grammatical Number{{sfn|Quick|2007|p=163}}
+|-
+|unga
+|'child'
+|unga-unga
+|'children'
+|-
+|odo
+|'monkey'
+|odo-odo
+|'monkeys'
+|-
+|sapa
+|'what'
+|sapa-sapa
+|'whatever'
+|-
+! colspan="4" | Nominalization{{sfn|Quick|2007|pp=164-165}}
+|-
+|tinjo'
+|'plant w/ stick'
+|titinjo' 
+|'planting stick, post, pole' 
+|-
+|pangki
+|'hit, pound'
+|papangki
+|'sago pounder'
+|-
+! colspan="4" | Emphasis{{sfn|Quick|2007|p=165}}
+|-
+|eleo
+|'day'
+|''sese''leo
+|'every day'
+|-
+|''so''<nowiki/>'uya
+|'how many?'
+|''soso''<nowiki/>'uya
+|'several'
+|}
+
+=== Agreement ===
+Subject agreement only occurs with two abilitative verbs (''i.e.'', verbs that show the ability of doing the action): ''ma'ule'' 'able'  and ''matua'' 'capable.' These verbs themselves are prefixed with either the irrealis or realis mood.{{sfn|Quick|2007|pp=18-476}}
+{| class="wikitable"
+|+
+!Irrealis
+!Realis
+!
+|-
+|matua{{sfn|Quick|2007|pp=18, 476}}
+|natua
+|'able'
+|-
+|ma'ule{{sfn|Quick|2007|pp=18, 476}}
+|na'ule
+|'capable'
+|}
+The examples below show ''matua'' with first person subject agreement
+
+{{interlinear|lang=ums|indent=3
+|A’u matua'u mengkani bau
+|'''1SG'''/ABS capable/IRR{{=}}'''1SG'''/GEN IRR-AUG/DYN-eat fish
+|'I am capable of eating fish'}}{{sfn|Quick|2007|pp=18, 476}}
+
+== Syntax ==
+
+===Basic Word Order===
+The [[Word order|basic word order]] in Pendau is [[Subject–verb–object|'''SVO''']] or [[Verb–object–subject|'''VOS''']], with the former being more common. Verbal prefixes show what the semantic role is of the argument in the subject position ([[Agent (linguistics)|agent]] or [[Patient (linguistics)|patient]]).{{sfn|Quick|2007|pp=19, 569}}
+
+{{interlinear|lang=ums|indent=3
+|Siama’u nonuju siina’u
+|PR/ABS{{=}}Father{{=}}1SG/GEN REAL-AUG/TR{{=}}send PR/ABS{{=}}mother{{=}}1SG/GEN
+|'MY FATHER sent my mother'}}{{sfn|Quick|2007|p=124}}
+
+{{interlinear|lang=ums|indent=3
+|Siama’u nituju niina’u
+|PR/ABS{{=}}Father{{=}}1SG/GEN INV/REAL-send PR/GEN{{=}}mother{{=}}1SG/GEN
+|'My mother sent MY FATHER'}}{{sfn|Quick|2007|p=124}}
+
+==== Inverse voice ====
+The inverse voice (VOS) can only be used with transitive verbs, and all transitive verbs can be inflected for the inverse voice. Intransitive verbs need to become transitive verbs through derivation before they can be in the inverse voice. Otherwise, the word order in Pendau (and the word order for all intransitive sentences) is SVO.{{sfn|Quick|2007|p=227}}
+
+=== Prepositions ===
+Pendau is a [[Prepositional|prepositional language]].{{sfn|Quick|2007|p=20}} There are three prepositions: ''ila'' ([[Ablative case|ablative noun marker]]), ''ri='' ([[Locative case|locative noun phrase marker]]), and ''sono'' ([[Comitative case|comitative noun phrase marker]]).{{sfn|Quick|2007|p=113}} Preposed markers can be both independent words and [[Proclitic|proclitics]].
+
+'''Preposition (ila) functioning as an independent word'''
+
+{{interlinear|lang=ums|indent=3
+|Ila junjung
+|ABL house
+|'From the house'}}{{sfn|Quick|2007|p=214}}
+
+'''Preposition (ri=) functioning as a proclitic'''
+
+{{interlinear|lang=ums|indent=3
+|Nenburamo panganganta uo sono riLatoadu
+|REAL-AUG-speak{{=}}COMPL flesh-eater yonder COM LOC{{=}}Latoadu
+|'The flesh-eater spoke to Latoadu'}}{{sfn|Quick|2007|p=122}}
+
+==References==
+{{Reflist}}
+
+== Bibliography ==
+*{{Cite book |url=https://openresearch-repository.anu.edu.au/bitstream/1885/28970/2/01_Quick_A_grammar_of_the_Pendau_2008.pdf |title=A grammar of the Pendau language of central Sulawesi, Indonesia |last=Quick |first=Phil |date=2007<!--website says 2008 but document says 2007--> |publisher=Pacific Linguistics |isbn=9780858835818 |series=Pacific Linguistics 590 |location=Canberra |hdl=1885/28970 |oclc=314374225 |hdl-access=free}}
+
+{{Celebic languages}}
+{{Austronesian languages}}
+{{Languages of Indonesia}}
+
+[[Category:Tomini–Tolitoli languages]]
+[[Category:Languages of Sulawesi]]

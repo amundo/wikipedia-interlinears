@@ -1,0 +1,382 @@
+{{Short description|Isolate language spoken in Australia}}
+{{Distinguish|Twi language}}
+{{Use Australian English|date=November 2018}}
+{{Use dmy dates|date=November 2018}}
+{{Infobox language
+| name = Tiwi
+| states = [[Australia]]
+| region = [[Melville Island, Northern Territory|Bathurst and Melville Islands]], [[Northern Territory]]
+| ethnicity=[[Tiwi people]]
+| speakers = 2,040
+| date = 2016 census
+| ref = <ref>{{Cite web|url=http://stat.data.abs.gov.au/Index.aspx?DataSetCode=ABS_C16_T09_SA|title=Census 2016, Language spoken at home by Sex (SA2+)|publisher=ABS|website=stat.data.abs.gov.au|language=en-au|access-date=2017-10-30}}</ref>
+| familycolor = Australian
+| family = [[Language isolate]]
+| dia1 = Traditional Tiwi
+| dia2 = New Tiwi
+| iso3 = tiw
+| aiatsis = N20
+| map = Tiwi language area.png
+| mapcaption = Tiwi (purple), among other non-Pama-Nyungan languages (grey)
+| notice = IPA
+| glotto = tiwi1244
+| glottorefname = Tiwi
+}}
+
+'''Tiwi''' {{IPAc-en|ˈ|t|iː|w|i}}<ref>Laurie Bauer, 2007, ''The Linguistics Student’s Handbook'', Edinburgh</ref> is an [[Australian Aboriginal languages|Australian Aboriginal language]] spoken by the [[Tiwi people]] on the [[Tiwi Islands]], within sight of the coast of northern Australia. It is one of about 10% of Australian languages still being learned by children.
+
+Traditional Tiwi, spoken by people over the age of fifty by 2005, is a [[polysynthetic language]]. However, this grammatical complexity has been lost among younger generations. Tiwi has around one hundred nominals that can be [[noun incorporation|incorporated into verbs]], most of them quite different from the corresponding free forms.<ref name="[[R. M. W. Dixon|Dixon, R.M.W.]] 1980. ''The languages of Australia.'' Cambridge University Press (Cambridge language surveys)">[[R. M. W. Dixon|Dixon, R.M.W.]] 1980. ''The languages of Australia.'' Cambridge University Press (Cambridge language surveys)</ref>
+
+Tiwi has long been regarded as a [[language isolate]] due to its large scale of linguistic differences from other languages in the mainland Australia regions.<ref>{{Cite web|last=Liu|first=Lucy|date=2016-10-04|title=Languages — School of Languages and Linguistics|url=https://arts.unimelb.edu.au/school-of-languages-and-linguistics/our-research/past-research-projects/acla2/languages|access-date=2020-10-30|website=Faculty of Arts|language=en}}</ref> However, recent research using historical linguistic techniques suggests that the Tiwi language might be under the [[Macro-Gunwinyguan languages|Gunwinyguan family]] (a language family that consists of languages primarily spoken in North Central Australia).<ref>{{Cite web|title=Tiwi « Sorosoro|url=http://www.sorosoro.org/en/tiwi/|access-date=2020-12-08|language=en-US}}</ref>
+
+== Name Variations ==
+There are a number of name variations for the Tiwi language. Some of the variations were established by local Australian residents who lived in geographical regions and territories with close proximity with the Tiwi speakers, or have had close interactions with them for research work purposes. Other name variations of the language were coined by neighboring indigenous communities.
+
+'''Tunuvivi'''
+
+Tunuvivi was the initial term coined by the Indigenous members of the Melville and Bathurst islands. It is the original name for the Tiwi language itself, and has the meaning of “people” or “we the only people”.<ref name=":0">{{Cite web|title=Tindale Tribes - Tunuvivi|url=http://archives.samuseum.sa.gov.au/tindaletribes/tunuvivi.htm|access-date=2020-12-08|website=archives.samuseum.sa.gov.au}}</ref> Meanwhile, the widely recognized name, Tiwi, was originally established by an anthropologist C.W.M. Hart in 1930 in order to have a discernible tribal name that can represent the Melville and Bathurst indigenous members.<ref>{{Cite journal|last=Venbrux|first=Eric|date=2014-06-13|title=A history of art from the Tiwi Islands: the source community in an evolving museumscape|url=http://journals.openedition.org/actesbranly/583|journal=Les actes de colloques du musée du quai Branly Jacques Chirac|language=en|issue=4|doi=10.4000/actesbranly.583|issn=2105-2735}}</ref> The term Tiwi was later accepted by the Melville and Bathurst islanders, and they have subsequently incorporated this name as a constituting part of their social identities.
+
+'''Wongak'''
+
+This name variation, "Wongak", was used by the Iwaidja community to describe the Tiwi language. The phonetic realization ['Wonga:k] is also another variation that is termed by the Iwaidja community members themselves.<ref name=":0" />
+
+'''Nimara'''
+
+The term “Nimara” was established by an Australian writer and author named William Edward Harney, who had adopted the pen name of "Bill Harney" at the time. This name variation has the meaning of “to talk”, or “language”.<ref name=":1">{{Cite journal|last1=Harney|first1=W. E.|last2=Elkin|first2=A. P.|date=1943|title=Melville and Bathurst Islanders: A Short Description|url=https://www.jstor.org/stable/40327994|journal=Oceania|volume=13|issue=3|pages=228|doi=10.1002/j.1834-4461.1943.tb00383.x|jstor=40327994|issn=0029-8077}}</ref>
+
+'''Woranguwe/Worunguwe'''
+
+The name “Woranguwe” (or Worunguwe) was used by the Iwaidja community to specifically refer to the indigenous members of the Melville Islands. This name is a variation existing in the Iwaidja language.<ref name=":1" />
+
+==History==
+{{Expand section|date=June 2021}}
+
+== Phonology ==
+
+===Consonants===
+Like most Australian languages, Tiwi has four phonetically distinct series of [[coronal consonant|coronal stops]]. (See [[Indigenous Australian languages#Coronal consonants|Coronals in Indigenous Australian languages]].) There are contrasting [[alveolar consonant|alveolar]] and [[postalveolar consonant|postalveolar]] [[apical consonant]]s, the latter often called [[retroflex consonant|retroflex]]. However, the two [[laminal consonant|laminal series]] are in [[complementary distribution]], with postalveolar laminal {{IPA|[t̠]}} (sometimes described as [[Alveolo-palatal consonant|alveolo-palatal]]) occurring before the front vowel {{IPA|/i/}}, and [[denti-alveolar]] laminal {{IPA|[t̪]}} occurring before the non-front vowels, {{IPA|/a/, /o/, /u/}}. That is, phonologically Tiwi has at most three series. However, some analyses treat postalveolar {{IPA|[ʈ]}} as a sequence {{IPA|/ɻt/}}, since it only occurs in medial position.
+
+{| class=wikitable style=text-align:center
+! rowspan=2| || colspan=2| [[peripheral consonant|Peripheral]] || colspan=2| [[laminal consonant|Laminal]] || colspan=2| [[apical consonant|Apical]]
+|-
+! [[labial consonant|Labial]] || [[velar consonant|Velar]] || [[palatal consonant|Palatal]] || [[dental consonant|Dental]] || [[alveolar consonant|Alveolar]] || [[retroflex consonant|Retroflex]]
+|-
+! [[Plosive consonant|Plosive]]
+| '''p''' {{IPAblink|p}} || '''k''' {{IPAblink|k}} || colspan=2| '''j''' {{IPAblink|t̠}} ~ {{IPAblink|t̪}} || '''t''' {{IPAblink|t}} || '''rt''' {{IPAblink|ʈ}}
+|-
+! [[nasal consonant|Nasal]]
+| '''m''' {{IPAblink|m}} || '''ng''' {{IPAblink|ŋ}} || colspan="2" | '''ny''' {{IPAblink|n̪}}|| '''n''' {{IPAblink|n}} || '''rn''' {{IPAblink|ɳ}}
+|-
+! [[rhotic consonant|Rhotic]]
+| colspan=2| || colspan=2| || '''rr''' {{IPAblink|r}} ||'''r''' {{IPAblink|ɻ}}
+|-
+! [[lateral consonant|Lateral]]
+| colspan=2| || colspan=2| || '''l''' {{IPAblink|l}} || '''rl''' {{IPAblink|ɭ}}
+|-
+! [[Approximant]]
+| '''w''' {{IPAblink|w}} || '''g''' {{IPAblink|ɰ}} || '''y''' {{IPAblink|j}} || || colspan=2|
+|}
+
+In addition, Tiwi has a [[velar approximant]], which is somewhat unusual for an Australian language. Typically for an Australian language, there are no fricatives.
+
+Tiwi allows consonant clusters in medial position. Besides the possibility of {{IPA|/ɻt/}} for {{IPA|[ʈ]}}, these include other liquid-stop clusters and nasal-stop clusters such as {{IPA|/mp/}}. However, there is little reason to choose between an analysis of {{IPA|/mp/}} as being a cluster as opposed to a [[prenasalized stop]].<ref name="Anderson, Victoria Balboa, and Ian Maddieson. 1994. Acoustic Characteristics of Tiwi Coronal Stops. In ''UCLA Working Papers in Phonetics 87: Fieldwork Studies of Targeted Languages II''">Anderson, Victoria Balboa, and Ian Maddieson. 1994. "Acoustic Characteristics of Tiwi Coronal Stops". In ''UCLA Working Papers in Phonetics 87: Fieldwork Studies of Targeted Languages II''</ref>
+
+There is also a glottal stop ({{IPA|ʔ}}) in the inventory of speech sounds in Tiwi, but as Osborne notes, it functions to mark the end of a sentence and as such, is best analysed as a part of Tiwi prosody.<ref name="Osborne, C.R. 1974. ''The Tiwi language.'' Canberra: AIAS ([[Australian Institute of Aboriginal Studies]])">Osborne, C.R. 1974. ''The Tiwi language.'' Canberra: AIAS ([[Australian Institute of Aboriginal Studies]])</ref>
+
+===Vowels===
+Tiwi has four phonemic vowels.
+{| class="wikitable"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|Close]]
+|'''i''' {{IPAblink|i}}
+|
+|'''u''' {{IPAblink|u}}
+|-
+![[Open vowel|Open]]
+|
+|'''a''' {{IPAblink|a}}
+|'''o''' {{IPAblink|o}}
+|}
+The frequency of the open-back vowel {{IPA|/o/}} is relatively low. It is neutralised with {{IPA|/a/}} following {{IPA|/w/}}, and does not occur initially or finally.<ref name="Osborne, C.R. 1974. ''The Tiwi language.'' Canberra: AIAS ([[Australian Institute of Aboriginal Studies]])"/> However minimal pairs exist, albeit few in number, to prove its existence as a distinct phoneme:
+:/jilati/ ''knife''
+:/jiloti/ ''forever''
+
+Each phonemic vowel exhibits a broad range of allophones, many of which overlap with allophones of other vowels, and three vowels ({{IPA|/i/}}, {{IPA|/a/}} and {{IPA|/u/}}) reduce to {{IPA|/ə/}} in many unstressed syllables.<ref name="Lee, Jennifer R. 1993. ''Tiwi Today: A study of language change in a contact situation'' Canberra: Pacific Linguistics (Series C - No. 96)">Lee, Jennifer R. 1993. ''Tiwi Today: A study of language change in a contact situation'' Canberra: Pacific Linguistics (Series C – No. 96)</ref> All vowels are phonemically short, while long vowels occur when medial glides are reduced. For example:
+:/paɻuwu/ [paɻu:] (placename)
+
+==Morphology==
+Tiwi is characterized by its highly complex verb morphology. Tiwi is a [[polysynthesis|polysynthetic]] language with a heavy use of [[noun incorporation]] such that all elements of a sentence may be expressed in a single morphological and phonological word as in the following example.<ref name="Osborne, C.R. 1974. ''The Tiwi language.'' Canberra: AIAS ([[Australian Institute of Aboriginal Studies]])"/>
+:jinuatəməniŋilipaŋəmat̪at̪umaŋələpiaŋkin̪a
+:''He came and stole my wild honey this morning while I was asleep''
+Around one hundred nominals may be incorporated into the verb in Tiwi, but the incorporated forms often differ significantly from the corresponding free forms, or their closest semantic correspondent as illustrated below.<ref name="[[R. M. W. Dixon|Dixon, R.M.W.]] 1980. ''The languages of Australia.'' Cambridge University Press (Cambridge language surveys)"/>
+{| class="wikitable"
+|-
+! Incorporated form !! Free form !! Gloss 
+|-
+| -maŋu- || kukuni || 'fresh water'
+|-
+| -ki- || yikwani || 'fire'
+|-
+| -kəri- || yikara || 'hand'
+|}
+Dixon (1980) suggests that while some forms have merely undergone phonological reduction as a result of being [[grammaticalization|grammaticalized]], others bear no phonological resemblance to their corresponding free form due to lexical replacement and taboo.
+
+===Verb morphology===
+Osborne (1974) identifies eleven [[Grammatical category|grammatical categories]] that can be marked on verbs. They are listed below using his terminology. All verbs must be marked for tense, person and number, and third person-singular subjects and objects are also obligatorily marked for gender. All other categories listed below are not grammatically obligatory.
+:'''Verbal categories''' ''after Osborne (1974)''<ref name="Osborne, C.R. 1974. ''The Tiwi language.'' Canberra: AIAS ([[Australian Institute of Aboriginal Studies]])"/>
+{| class="wikitable"
+|-
+! Category !! Description
+|-
+| [[Grammatical person|Person]] || Performer and/or undergoer of the event with respect to the speaker and hearer.
+|-
+| [[Grammatical number|Number]] || Either ''[[Grammatical number|Singular]]'' or ''[[Plural]]''.
+|-
+| [[Grammatical gender|Gender]] || Either ''[[Masculine]]'' or ''[[Feminine]]''.
+|-
+| [[Grammatical tense|Tense]] || Either ''[[Past tense|Past]]'', ''[[Non-past]]'' or ''[[Future tense|Future]]''.
+|-
+| [[Grammatical aspect|Aspect]] || There are five aspects in addition to the unmarked: [[Durative aspect|durative]], [[Iterative aspect|repetitive]], moving, [[Inchoative aspect|beginning]] and [[Prospective aspect|inceptive]].
+|-
+| [[Grammatical mood|Mood]] || The moods are an unmarked indicative, imperative, subjunctive, compulsional and incompletive.
+|-
+| [[Voice (grammar)|Voice]] || The voices are reflexive, reciprocal, collective and causative.
+|-
+| Location/direction || The marked location is 'at a distance' or, when marked on a motion verb, 'from a distance'.
+|-
+| Time of day || The times of day that can be marked are either early morning (up until noon) or evening.
+|-
+| Stance || Verbs can take stance markers to indicate whether the event was carried out while ''standing'' or while ''walking along''.
+|-
+| Emphasis || Verbs in the imperative mood can additionally take emphasis.
+|}
+The terminology Osborne uses for the grammatical categories, in particular the aspects and voices, does not conform to more recent cross-linguistic standards (''see [[Grammatical aspect#Terms for various aspects|terms for various aspects]]''). For instance, Osborne glosses verbs containing the ''beginning'' aspect as ''started to'', which closer aligns to what is now called the [[Inchoative aspect|inceptive or inchoative]], while the aspect that Osborne calls ''inceptive'' is glossed as ''about to'', which is more reminiscent of the [[Prospective aspect|prospective]].
+
+===Nominal morphology===
+Tiwi, like many [[Indigenous Australian languages]], does not distinguish between nouns and adjectives. Both things and properties or qualities of those things are encoded by the [[Nominal (linguistics)|nominal]] word class. Nominals in Tiwi are marked for [[Grammatical gender|gender]] and [[grammatical number|number]]. However, the [[plural]] is ungendered, resulting in three categories: masculine, feminine and plural.
+
+====Gender====
+Gender is sexually assigned for humans and animals, but semantically assigned for inanimate objects on the basis of shape. Things that are thin, small and straight are assigned to the masculine gender, and objects that are large round and ample are assigned to the feminine. As a result, nominals in Tiwi may take either gender depending on the context and reference. ''Grass'', for instance, is masculine when referring to a blade of grass, but feminine when referring to a patch or expanse of grass.
+
+Masculine nominals are marked either by the suffix ''-ni'' or ''-ti'', and feminine nominals by ''-ŋa'' or ''-ka''. Furthermore, many nominals are implicitly masculine or feminine and lack overt marking. However, as nominals denoting properties always take regular gender suffixes that agree with the object they modify, the covert gender of these nominals can be ascertained.
+
+The table below from Osborne (1974:52)<ref name="Osborne, C.R. 1974. ''The Tiwi language.'' Canberra: AIAS ([[Australian Institute of Aboriginal Studies]])"/> lists the suffixes marking each gender as well as their rate of occurrence among 200 tokens from each class.
+
+{| class="wikitable"
+|-
+! Masculine !! Feminine 
+|-
+| ''-ni'' (54.0%) || ''-ŋa'' (54.0%)
+|-
+| ''-ti'' (17.0%) || ''-ka'' (24.5%)
+|-
+| ''-ø'' (29.0%) || ''-ø'' (21.5%)
+|}
+
+====Number====
+Nominals in Tiwi can be marked for plural either by a plural suffix ''-wi'' or ''-pi''. The plural suffix fills the same morpheme slot as gender suffixes and as a result, plurals do not contrast for gender. Some nominals (Osborne counts nineteen) undergo partial reduplication of the stem when pluralised. The form of the reduplicant is always ''Ca-'' (where ''C'' becomes the initial consonant of the stem), thus ''muruntani'' 'white man' and ''muruntaka'' 'white woman' pluralise to ''mamuruntawi'' 'white people'.
+
+====Human and Non-human====
+Osborne also identifies a distinction among Tiwi nominals as to whether they belong to a Human class or a Non-human class. However the category is [[Covert (linguistics)|covert]] on nominals themselves, and is only marked on numerals.
+{| class="wikitable IPA"
+|-
+! 
+! Human 
+! Masculine Non-human 
+! Feminine Non-human
+|-
+! two 
+| juraɻa 
+| jiraɻa
+| jin̪t̪aɻa
+|-
+! three 
+| jurat̪ərima
+| jirat̪ərima
+| t̪at̪ərima
+|}
+
+==Modern Tiwi==
+Since contact with Europeans, Tiwi has been undergoing changes to its structure that have resulted in a modern version of the language that is quite typologically distinct from Traditional Tiwi.<ref name="Lee, Jennifer R. 1993. ''Tiwi Today: A study of language change in a contact situation'' Canberra: Pacific Linguistics (Series C - No. 96)"/> These changes have affected the verb morphology and lexicon of Tiwi, resulting in a language that is relatively [[isolating language|isolating]], compared with its polysynthetic predecessor. Modern Tiwi contains many loan words, verbs, and nouns borrowed from the English language.
+
+Contact with English has also resulted in a number of other varieties of Tiwi, such as Children's Tiwi and Tiwi-English, in which Tiwi people have varying levels of proficiency. In 1993, Traditional Tiwi was spoken only by people over 55, with Modern Tiwi being spoken by everyone up until the age of 30.<ref name="Lee, Jennifer R. 1993. ''Tiwi Today: A study of language change in a contact situation'' Canberra: Pacific Linguistics (Series C - No. 96)"/> In more informal speech acts and conversations, children and younger generation would use loan words that are similar to English pronunciations on a phonological level.<ref>{{Cite journal|last=Lee|first=Jennifer|date=1987|title=Tiwi Today: A Study of Language Change in a Contact Situation|url=https://openresearch-repository.anu.edu.au/bitstream/1885/145421/1/PL-C96.pdf|journal=Pacific Linguistics|pages=50|via=JSTOR}}</ref> They also used Modern Tiwi in different social domains, including classrooms, social institutions, social media, while their instances of speaking the Traditional Tiwi dialect are relatively limited to their interactions with older members such as the elderly and their parents.
+
+The main change that separates Traditional and Modern Tiwi is the level of complexity in the verb. Traditional Tiwi is a polysynthetic language while Modern Tiwi is isolating, with some inflection. The examples below show the difference between a sentence rendered in Traditional Tiwi and Modern Tiwi.
+:''She (the sun) is shining over there in the morning''
+: (Lit. ''She is walking over there in the morning with a light'')
+:'''Traditional Tiwi'''
+{{interlinear|indent=3
+|(Nyirra) ampi-ni-watu-wujingi-ma-j-irrikirnigi-y-angurlimay-ami.
+|(she) she.NPST-LOC-morning-CONT-with-CV-light-CV-walk-MOV|}}
+
+:'''Modern Tiwi'''
+{{interlinear|indent=3
+|Japinara jirra wokapat ampi-jiki-mi kutawu with layit.
+|morning she walk she.NPST-CONT-do over.there with light|}}
+
+In addition, Modern Tiwi has a less complex morphological structure that often omits object prefixes, while they are maintained in the traditional dialect.<ref>{{Cite book|last=Dixon|first=Robert Malcolm Ward|title=The Languages of Australia|publisher=Cambridge University Press|year=1980|pages=368}}</ref>
+
+The exact and official number of Traditional Tiwi speakers remains uncertain. In the Language Activity Survey, a respondent of the survey responded that the traditional version of the Tiwi language had only up to 35 speakers, in which none of them can speak the language fully. There were approximately five speakers aged 60 and above who could speak the traditional version partially, and around 10 speakers who can speak only some words and sentences in each of the age groups of 20 to 39, 40 to 59, as well as 60 and above.<ref>{{Cite journal|last=Marmion|first=Doug|date=2014|title=Community, identity, wellbeing: the report of the Second National Indigenous Languages Survey|url=https://www.researchgate.net/publication/260753296|journal=Second National Indigenous Languages Survey|pages=17|via=ResearchGate}}</ref>
+
+==Vocabulary==
+[[Arthur Capell|Capell]] (1940) lists the following basic vocabulary items:<ref>Capell, Arthur. 1940. [https://glottolog.org/resource/reference/id/4167 The Classification of Languages in North and North-West Australia]. ''Oceania'' 10(3): 241-272, 404-433. {{doi|10.1002/j.1834-4461.1940.tb00292.x}}</ref>
+
+:{| class="wikitable sortable"
+! gloss
+! Tiwi ([[Melville Island (Australia)|Melville]])
+|-
+| man
+| wawärini
+|-
+| woman
+| imbalinja
+|-
+| head
+| duluwa
+|-
+| eye
+| bidara
+|-
+| nose
+| jirundamura
+|-
+| mouth
+| irubudara
+|-
+| tongue
+| imidala
+|-
+| stomach
+| wurara
+|-
+| bone
+| bwɔda
+|-
+| blood
+| madjibani
+|-
+| kangaroo
+| diraga
+|-
+| opossum
+| ŋunuŋa
+|-
+| crow
+| wagwagini
+|-
+| fly
+| ubɔni
+|-
+| sun
+| bugwi, imuŋa
+|-
+| moon
+| dabara
+|-
+| fire
+| jugɔni
+|-
+| smoke
+| gumuribini
+|-
+| water
+| guguni
+|}
+
+[[Arthur Capell|Capell]] (1942) lists the following basic vocabulary items for the Ngalagan and Anjula varieties:<ref>Capell, Arthur. 1941-1942, 1942-1943. [https://glottolog.org/resource/reference/id/104191 Languages of Arnhem Land, North Australia]. ''Oceania'' 12: 364-392, 13: 24-51.</ref>
+
+:{| class="wikitable sortable"
+! gloss !! Ngalagan !! Anjula
+|-
+! man
+| bigur || mininŋia
+|-
+! woman
+| bolo‘bolo || ananawaija
+|-
+! head
+| miːra || wulaia
+|-
+! eye
+| ŋandjula || miː
+|-
+! nose
+| gudjeː || ŋuɽu
+|-
+! mouth
+| gudjaːla || mulu
+|-
+! tongue
+| djaːlŋ || ŋaːndal
+|-
+! stomach
+| guwar || wadju
+|-
+! bone
+| ŋaɽaga || guɽuwuɽu
+|-
+! blood
+| guraidj || djinaŋulja
+|-
+! kangaroo
+| gọːin || wunäla
+|-
+! opossum
+| dugula || biwali
+|-
+! emu
+| ŋurundɔidj || djagudugudu
+|-
+! crow
+| waːɽŋwaːɽŋ || rawaŋga
+|-
+! fly
+| bɔd || ramijimiji
+|-
+! sun
+| ŋuwadji || ragamba
+|-
+! moon
+| gurŋa || ŋagala
+|-
+! fire
+| guŋwɛ || bújuga
+|-
+! smoke
+| guguwalbɛŋɛ || wulŋara
+|-
+! water
+| gu'wɛ || wajuru
+|}
+===See also===
+*{{cite Q|Q109442600}}
+
+== Tiwi Language and Ethnomedicine ==
+The concept of ethnomedicine in the Tiwi community is built upon their existing social practices in utilization of nature's resources, and their cultural beliefs of nature's intricate connections with an individual's body in itself. The Tiwi members believed that the foods they hunt and gather in nature helps maintain their physical well-being. Tiwi men and women participated in a relatively equal division of labor in their hunting-gathering efforts, where they would hunt for "bush foods" such as fish, turtle eggs, mussels, yams, and mangrove worms.<ref>{{Cite journal|last=Lee|first=Jennifer|date=1987|title=Tiwi Today: A study of language change in a contact situation|url=https://openresearch-repository.anu.edu.au/bitstream/1885/145421/1/PL-C96.pdf|journal=Pacific Linguistics|pages=6|via=JSTOR}}</ref> One of the theories in Tiwi medicine centers around the concept of “tarni”, which is considered by Tiwi speakers as the state of general “sickness”. The term "tarni” was derived from Tiwi’s particular cultural belief of the sharp, pointed tip of yams, as they believed that these yams carried the “tarni” sickness. They believed that if pregnant women ate them, their sharp pointed tips would pierce the womb, which would release the sickness and kill the baby.<ref>{{Cite journal|last=Simeon|first=George|date=1980|title=Tiwi Ethnomedicine and the Concept of torni (N. Australia)|url=https://www.jstor.org/stable/40464037|journal=Anthropos|volume=75|issue=5/6|pages=943|jstor=40464037|issn=0257-9774}}</ref>
+
+The Tiwi community also uses plants for remedies and treatments for the common ailments that their members experience. For example, the pandanus is believed to be an ideal treatment for diarrhea, where the leaves are cut and the middle part is chewed and swallowed. If the leaves are cut from the center of the plant, and are placed on the patient’s forehead for around two to three days, it is believed that this procedure can help alleviate headaches.<ref>{{Cite journal|last=Simeon|first=George|date=1980|title=Tiwi Ethnomedicine and the Concept of torni (N. Australia)|url=https://www.jstor.org/stable/40464037|journal=Anthropos|volume=75|issue=5/6|pages=946|jstor=40464037|issn=0257-9774}}</ref>
+
+==External links==
+{{Incubator|tiw}}
+{{Wikivoyage|Tiwi phrasebook}}
+* [[Paradisec]] has [http://catalog.paradisec.org.au/collections/search?language_code=tiw a number of collections that include Tiwi language materials].
+A text excerpt of the Tiwi language was published in 1974 by C. R. Osborne, under the Australian Institute of Aboriginal Studies in Canberra, Australia. The text contains two parts of a Tiwi traditional ceremony, titled "The First Funeral Dance". In the first part, it describes a dancing ritual that is initiated and performed by two Tiwi man — Alikampwaɹni, and his brother-in-law T̪aŋkənaŋki, where other members on the islands would perform the same dance after their deaths. The second part depicts the story of Purukupaɹli, a Tiwi man who performs a dancing ceremony to express bereavement and to mourn the death of his own son. The ceremony was subsequently joined by Purukupaɹli's wives Waijai and Pamatikimi.<ref>{{Cite book|last=Osborne|first=C. R.|url=https://archive.org/details/rosettaproject_tiw_vertxt-1|title=The Tiwi Language|date=1974|publisher=Canberra, Australia: Australian Institute of Aboriginal Studies|others=The Long Now Foundation}}</ref>
+
+The documentation contains the original texts in the Tiwi language, with translations available in English. In addition, the text also contains textual and explanatory notes that detail the lexical definitions for specific Tiwi terms, background information of items in the Tiwi culture, and the non-verbal gestures that were also performed as a part of the funeral dancing ceremonies.
+
+{{clear}}
+
+==References==
+{{reflist}}
+
+{{Australian Aboriginal languages}}
+{{language families}}
+
+[[Category:Language isolates of Australia]]
+[[Category:Polysynthetic languages]]
+[[Category:Tiwi Islands]]
+[[Category:Indigenous Australian languages in the Northern Territory]]

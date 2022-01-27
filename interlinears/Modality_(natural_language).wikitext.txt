@@ -1,0 +1,132 @@
+{{Short description|Phenomenon whereby language is used to discuss possible situations}}
+{{For|the closely related grammatical category|Grammatical mood}}
+
+{{Grammatical categories}}
+ 
+In [[linguistics]] and [[philosophy]], '''modality''' is the phenomenon whereby language is used to discuss possible situations. For instance, a modal expression may convey that something is likely, desirable, or permissible. Quintessential modal expressions include [[modal verb|modal auxiliaries]] such as "could", "should", or "must"; modal adverbs such as "possibly" or "necessarily"; and modal adjectives such as "conceivable" or "probable". However, modal components have been identified in the meanings of countless natural language expressions including [[counterfactual conditionals|counterfactuals]], [[propositional attitudes]], [[evidentials]], [[habitual aspect|habitual]]s, and generics.
+
+Modality has been intensely studied from a variety of perspectives. Within linguistics, [[linguistic typology|typological]] studies have traced crosslinguistic variation in the strategies used to mark modality, with a particular focus on its interaction with [[Tense–aspect–mood|tense–aspect–mood marking]]. Theoretical linguists have sought to analyze both the propositional content and discourse effects of modal expressions using formal tools derived from [[modal logic]]. Within philosophy, linguistic modality is often seen as a window into broader metaphysical notions of necessity and possibility.
+
+== Force and flavor ==
+Modal expressions come in different categories called ''flavors''. Flavors differ in how the possibilities they discuss relate to reality. For instance, an expression like "might" is said to have [[epistemic modality|epistemic flavor]], since it discusses possibilities compatible with some body of knowledge. An expression like "obligatory" is said to have [[Deontic modality|deontic flavor]], since it discusses possibilities which are required given the laws or norms obeyed in reality.<ref name=":2">{{Cite book|title=Modality|last=Portner|first=Paul|publisher=Oxford University Press|year=2009|isbn=978-0-19-929242-4|location=Oxford}}</ref>{{rp|47}}
+
+# Agatha ''must'' be the murderer. (expressing epistemic modality)
+# Agatha ''must'' go to jail. (expressing deontic modality)
+
+The sentence in (1) might be spoken by someone who has decided that all of the relevant facts in a particular murder investigation point to the conclusion that Agatha was the murderer, even though it may or may not actually be the case. The 'must' in this sentence thus expresses epistemic modality, for 'for all we know', Agatha must be the murderer - where 'for all we know' is relative to some knowledge the speakers possess. In contrast, (2) might be spoken by someone who has decided that, according to some standard of conduct, Agatha has committed a vile crime, and therefore the correct course of action is to jail Agatha.
+
+In classic formal approaches to '''linguistic modality''', an utterance expressing modality is one that can always roughly be paraphrased to fit the following template:
+
+: (1) According to [a set of rules, wishes, beliefs,...] it is [necessary, possible] that [the main proposition] is the case.
+
+The set of propositions which forms the basis of evaluation is called the '''modal base'''. The result of the evaluation is called the '''modal force'''.<ref name=":0">Kratzer, A. (1991). Modality. In: von Stechow, A. & Wunderlich, D. (Eds.) Semantics: An International Handbook of Contemporary Research. Berlin: Walter de Gruyter.</ref>{{rp|649}} For example, the utterance in (2) expresses that, according to what the speaker has observed, it is necessary to conclude that John has a rather high income:
+
+: (2) John must be earning a lot of money.
+
+The modal base here is the knowledge of the speaker, the modal force is necessity. By contrast, (3) could be paraphrased as ‘Given his abilities, the strength of his teeth, etc., it is possible for John to open a beer bottle with his teeth’. Here, the modal base is defined by a subset of John's abilities, the modal force is possibility.
+
+: (3) John can open a beer bottle with his teeth.
+
+== Formal semantics ==
+
+Linguistic modality has been one of the central concerns in [[formal semantics (linguistics)|formal semantics]] and [[philosophical logic]]. Research in these fields has led to a variety of accounts of the [[proposition|propositional content]] and [[conventional discourse effects]] of modal expressions. The predominant approaches in these fields are based on [[modal logic]]. In these approaches, modal expressions such as ''must'' and ''can'' are analyzed as [[quantifier (logic)|quantifiers]] over a set of possible worlds. In classical modal logic, this set is identified as the set of worlds  [[accessibility relation|accessible]] from the world of evaluation. Since the seminal work of [[Angelika Kratzer]], formal semanticists have adopted a more finely grained notion of this set as determined by two ''conversational background functions'' called the ''modal base'' and ''ordering source'' respectively.<ref name=":1">Kaufmann, S.; Condoravdi, C. & Harizanov, V. (2006) [https://web.archive.org/web/20181223121024/https://pdfs.semanticscholar.org/e1c0/a81b02d71384ea679037e5cdcd83c8e4eacd.pdf Formal approaches to modality]. Formal approaches to modality. In: Frawley, W. (Ed.). The Expression of Modality. Berlin, New York: Mouton de Gruyter</ref>{{rp|79–90}}
+
+For an epistemic modal like English ''must'' or ''might'', this set is understood to contain exactly those worlds compatible with the knowledge that the speaker has in the actual world. Assume for example that the speaker of sentence (2) above knows that John just bought a new luxury car and has rented a huge apartment. The speaker also knows that John is an honest person with a humble family background and doesn't play the lottery. The set of accessible worlds is then the set of worlds in which all these propositions which the speaker knows about John are true. The notions of '''necessity''' and '''possibility''' are then defined along the following lines: A proposition ''P'' follows necessarily from the set of accessible worlds, if all accessible worlds are part of ''P'' (that is, if ''p'' is true in all of these worlds).<ref name=":1" />{{rp|80}} Applied to the example in (2) this would mean that in all the worlds which are defined by the speaker's knowledge about John, it is the case that John earns a lot of money (assuming there is no other explanation for John's wealth). In a similar way a proposition ''p'' is possible according to the set of accessible worlds (i.e. the modal base), if some of these worlds are part of ''P''.
+
+Recent work has departed from this picture in a variety of ways. In [[dynamic semantics]], modals are analyzed as ''tests'' which check whether their prejacent is compatible with (or follows from) the information in the conversational common ground. Probabilistic approaches motivated by gradable modal expressions provide a semantics which appeals to speaker credence in the prejacent. Illocutionary approaches assume a sparser view of modals' propositional content and look to conventional discourse effects to explain some of the nuances of modals' use.
+
+== Grammatical expression of modality ==
+
+===Verbal morphology===
+{{Main|Grammatical mood}}
+
+In many languages modal categories are expressed by verbal morphology – that is, by alterations in the form of the verb. If these verbal markers of modality are obligatory in a language, they are called [[Grammatical mood|''mood'']] markers. Well-known examples of moods in some European languages are referred to as [[Subjunctive mood|subjunctive]], [[Conditional mood|conditional]], and [[Indicative mood|indicative]] as illustrated below with examples from [[French language|French]], all three with the verb ''avoir'' ‘to have’. As in most [[Standard Average European|Standard European]] languages, the shape of the verb conveys not only information about modality, but also about other categories such as [[Grammatical person|person]] and [[Grammatical number|number]] of the [[Subject (grammar)|subject]].
+
+{{interlinear|number=(4)
+|Je doute que vous '''ayez''' raison.
+|1SG doubt that 2PL have.2PL.SJV right
+|'I doubt that you're right.'}}
+
+{{interlinear|number=(5)|glossing2=no
+|Si c'était vrai, on l''''aurait''' vu sur CNN
+|If this-was true one it-have.{{gcl|SG}}.{{gcl|COND}} seen on CNN
+|'If this were true, one would have seen it on CNN.'}}
+
+{{interlinear|number=(6)
+|Il '''a''' raison
+|3SG have.3SG.IND right
+|'He's right.'}}
+
+An example for a non-European language with a similar encoding of modality is [[Manam language|Manam]]. Here, a verb is prefixed by a [[morpheme]] which encodes number and person of the subject. These prefixes come in two versions, one ''realis'' version and one ''irrealis'' version. Which one is chosen depends on whether the verb refers to an actual past or present event (realis), or merely to a possible or imagined event (irrealis).<ref>see: Elliott, Jennifer R. (2000). Realis and irrealis: Forms and concepts of the grammaticalisation of reality. In: Linguistic Typology (Vol. 4, pp. 55-90).</ref>
+
+===Auxiliaries===
+{{Main|Modal verb}}
+
+Modal [[auxiliary verb]]s, such as the English words ''may, can, must, ought, will, shall, need, dare, might, could, would,'' and ''should'', are often used to express modality, especially in the [[Germanic languages]].
+
+Ability, desirability, permission, obligation, and probability can all be exemplified by the usage of auxiliary modal verbs in English:
+
+:''Ability'': I '''can''' ride a bicycle (in the present); I '''could''' ride a bicycle (in the past)
+
+:''Desirability'': I '''should''' go; I '''ought''' to go
+
+:''Permission'': I '''may''' go
+
+:''Obligation'': I '''must''' go
+
+:''Likelihood'': He '''might''' be there; He '''may''' be there; He '''must''' be there
+
+===Lexical expression===
+
+[[Verb]]s such as "want," "need," or "belong" can be used to express modality [[lexical (semiotics)|lexically]], as can [[adverb]]s.
+
+: (5) It ''belongs'' in a museum!
+
+===Other===
+
+Complementizers (e.g. Russian) and conjunctions (e.g. Central Pomo<ref>Mithun, M. (1995). On the Relativity of Irreality. In: Bybee, J. & Fleischman, S. (Eds.) Modality in Grammar and Discourse John Benjamins</ref>) can be used to convey modality.
+
+==See also==
+* [[Angelika Kratzer]]
+* [[Counterfactuals]]
+* [[Dynamic semantics]]
+* [[Evidentiality]]
+* [[Frank R. Palmer]]
+* [[Free choice inference]]
+* [[Modal logic]]
+* [[Modal subordination]]
+* [[Modality (semiotics)]]
+* [[Possible world]]
+* [[Tense–aspect–mood]]
+* [[wikt:Category:English modal adverbs|English modal adverbs]] at Wiktionary
+
+==References==
+
+{{Reflist}}
+
+==Further reading==
+* Asher, R. E. (ed.), ''The Encyclopedia of language and linguistics'' (pp.&nbsp;2535–2540). Oxford: Pergamon Press.
+* Blakemore, D. (1994). ''Evidence and modality''. In R. E. Asher (Ed.), ''The Encyclopedia of language and linguistics'' (pp.&nbsp;1183–1186). Oxford: Pergamon Press. {{ISBN|0-08-035943-4}}.
+* Bybee, Joan; Perkins, Revere, & Pagliuca, William (1994). ''The evolution of grammar: Tense, aspect, and modality in the languages of the world''. Chicago: University of Chicago Press.
+* Calbert, J. P. (1975). ''Toward the semantics of modality''. In J. P. Calbert & H. Vater (Eds.), ''Aspekte der Modalität''. Tübingen: Gunter Narr.
+* Callaham, Scott N. (2010). ''[https://books.google.com/books?id=19oJcrBd57wC&printsec=frontcover#v=onepage&q&f=false Modality and the Biblical Hebrew Infinitive Absolute]''. Abhandlungen für die Kunde des Morgenlandes 71. Wiesbaden: Harrassowitz.
+*<cite id="chungTimberlake1985">Chung, Sandra; & Timberlake, Alan (1985). ''Tense, aspect and mood''. In T. Shopen (Ed.), ''[https://books.google.com/books?id=iz4HQmlj6v8C&printsec=frontcover#v=onepage&q&f=false Language typology and syntactic description: Grammatical categories and the lexicon]'' (Vol. 3, pp. 202-258). Cambridge: Cambridge University Press.</cite>
+* Kratzer, A. (1981). ''[http://users.ox.ac.uk/~sfop0776/KratzerNotional.pdf The notional category of modality]''. In H.-J. Eikmeyer & H. Rieser (Eds.), ''Words, worlds, and contexts: New approaches in word semantics''. Berlin: Walter de Gruyter.
+*[[Frank R. Palmer|Palmer, F. R.]] (1979). ''Modality and the English modals''. London: Longman.
+* Palmer, F. R. (1994). ''[https://books.google.com/books?id=xKUvDFTARR8C&printsec=frontcover#v=onepage&q&f=false Mood and modality]''. Cambridge Univ. Press. Second edition 2001.
+* Saeed, John I. (2003). ''Sentence semantics 1: Situations: Modality and evidentiality''. In J. I Saeed, ''Semantics'' (2nd. ed) (Sec. 5.3, pp.&nbsp;135–143). Malden, MA: Blackwell Publishing. {{ISBN|0-631-22692-3}}, {{ISBN|0-631-22693-1}}.
+* Sweetser, E. E. (1982). ''Root and epistemic modality: Causality in two worlds''. ''Berkeley Linguistic Papers'', ''8'', 484–507.
+
+== External links ==
+
+*[https://web.archive.org/web/20051220125553/http://www.hku.hk/linguist/program/semantics6.html Modality and Evidentiality]
+*[http://glossary.sil.org/term/mood-and-modality What is mood and modality?] SIL International, [http://glossary.sil.org Glossary of linguistic terms].
+
+{{Authority control}}
+{{Formal semantics}}
+
+{{DEFAULTSORT:Linguistic Modality}}
+[[Category:Semantics (linguistics)]]
+[[Category:Linguistic modality| ]]
+[[Category:Philosophy of language| ]]
+[[Category:Formal semantics (natural language)]]

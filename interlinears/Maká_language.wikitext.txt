@@ -1,0 +1,308 @@
+{{Short description|Matacoan language spoken in Paraguay}}
+{{Infobox language
+|name=Maká
+|nativename=Maká
+|pronunciation={{IPA|maˈka}}
+|states=Paraguay
+|region=[[Presidente Hayes Department]], [[Asunción]]
+|speakers=1,500
+|date=2000
+|ref=e18
+|familycolor=American
+|fam1=[[Matacoan languages|Matacoan]]
+|iso3=mca
+|glotto=maca1260
+|glottorefname=Maca
+|notice=IPA
+}}
+
+'''Maká''' is a [[Matacoan]] language spoken in Paraguay by the Maká people.  Its 1,500 speakers live primarily in [[Presidente Hayes Department]] near the Río Negro, as well as in and around Asunción.
+
+==Phonology==
+
+{|class=wikitable style=text-align:center
+|+Consonants
+|-
+! colspan="2" |
+![[Labial consonant|Labial]]
+![[Dental consonant|Dental]]
+![[Alveolar consonant|Alveolar]]
+![[Palatal consonant|Palatal]]/<br>[[Velar consonant|Velar]]
+![[Uvular consonant|Uvular]]
+![[Glottal consonant|Glottal]]
+|-
+! colspan="2" | [[Nasal consonant|Nasal]]
+|{{IPA link|m}}
+|{{IPA link|n}}
+|
+|
+|
+|
+|-
+! rowspan="2" | [[Plosive]]
+!{{Small|plain}}
+|{{IPA link|p}}
+|{{IPA link|t}}
+|{{IPA link|ts}}
+|{{IPA link|k}}
+|{{IPA link|q}}
+|{{IPA link|ʔ}}
+|-
+!{{Small|[[Ejective consonant|ejective]]}}
+|{{IPA link|pʼ}}
+|{{IPA link|tʼ}}
+|{{IPA link|tsʼ}}
+|{{IPA link|kʼ}}
+|{{IPA link|qʼ}}
+|
+|-
+! colspan="2" | [[Fricative]]
+|{{IPA link|f}}
+|{{IPA link|ɬ}}
+|{{IPA link|s}}
+|{{IPA link|x}}
+|{{IPA link|χ}}
+|{{IPA link|h}}
+|-
+! colspan="2" | [[Approximant]]
+|{{IPA link|w}}
+|{{IPA link|l}}
+|
+|{{IPA link|j}}
+|
+|
+|}
+
+Velar consonants alternate with palatal consonants before /e/ and sometimes before /a/.  Examples include {{IPA|/keɬejkup/}} ~ {{IPA|[ceɬejkup]}} "autumn" and {{IPA|/exeʔ/}} ~ {{IPA|[eçeʔ]}} "stork".  The palatal approximant /j/ alternates with the palatal fricative /ç/ before /i/, as in {{IPA|/inanjiʔ/}} ~ {{IPA|[inançiʔ]}}.<ref name="Ana">{{cite book
+ | last = Gerzenstein
+ | first = Ana
+ | title = Lengua Maká.  Estudio descriptivo
+ | edition =
+ | series = Archivo de Lenguas Indoamericanas
+ | year = 1995
+ | publisher = [[Universidad de Buenos Aires]]
+ | location = [[Buenos Aires]]
+ | language = Spanish
+ | isbn = 950-29-0176-2
+ }}</ref>
+
+{|class=wikitable style=text-align:center
+|+Vowels
+!
+! [[Front vowel|Front]]
+! [[Back vowel|Back]]
+|-
+! [[Close vowel|High]]
+| {{IPA link|i}}
+| {{IPA link|u}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA link|e}}
+| {{IPA link|o}}
+|-
+! [[Open vowel|Low]]
+| colspan=2| {{IPA link|a}}
+|}
+
+Syllables in Maká may be of types V, VC, CV, CCV, and CCVC.  When a consonant cluster appears at the beginning of a syllable, the second consonant must be /x/, /h/, /w/, or /j/.
+
+==Morphology==
+
+===Nouns===
+
+====Gender====
+Maká has two genders—masculine and feminine.  The demonstratives reflect the gender of a noun (Gerzenstein 1995:153:
+{|class='wikitable'
+!Masculine nouns
+!Feminine nouns
+|-
+|{{interlinear|na’ sehe’|DEM:MASC land|'this land'}}
+|{{interlinear|ne’ naxkax|DEM:FEM tree|'this tree'}}
+|-
+|{{interlinear|na’ nunax|DEM:MASC dog|'this (male) dog'}}
+|{{interlinear|ne’ nunax|DEM:FEM dog|'this (female) dog'}}
+|}
+
+In the plural the gender distinction is neutralized, and the plural demonstrative is the same as the feminine singular:
+
+{{interlinear|indent=3
+|ne’	sehe-l		
+|these	land-PL
+|‘these lands’}}
+
+{{interlinear|indent=3
+|ne’	naxkak-wi	
+|these	tree-PL
+|‘these trees’}}
+
+====Number====
+
+Maká nouns inflect for plurality.  There are several distinct plural endings: -l, -wi, Vts, and -Vy.  All plants take the -wi plural, but otherwise the choice seems to be unpredictable (Gerzenstein 1995:150):
+{| class="wikitable"
+!singular!!plural!!gloss
+|-
+| sehe|| sehe-l||land(s)
+|-
+| naxkax || naxkax-wi||tree(s)
+|-
+| tenuk || tenuk-its||cat(s)
+|}
+
+====Case====
+Maká does not have any overt case marking on nouns.  Consider the following sentence, where neither the subject nor object shows any case (Gerzenstein 1995:139):
+
+{{interlinear|indent=3
+|Ne’ efu Ø-tux ka’ sehets.
+|DEM:F woman A3-eat INDEF:M fish
+|‘The woman eats fish.’}}
+
+====Agreement with the possessor====
+
+Nouns agree with their possessor in person (Gerzenstein 1995:148):
+
+{|class='wikitable' 
+|{{interlinear|'''y'''-exi’|1S-mouth|'my mouth'}}
+|{{interlinear|'''Ø'''-exi’|2-mouth|'your mouth'}}
+|{{interlinear|'''ł'''-exi’|3-mouth|'his/her/their mouth'}}
+|{{interlinear|'''in'''-exi’|1PL:INCL-mouth|'our (inclusive) mouth'}}
+|}
+
+===Verbs===
+
+====Agreement with subject and object====
+Verbs agree with their subject and object in a rather complex system.  Gerzenstein (1995) identifies five conjugation classes for intransitive verbs.  The following two examples show intransitive verbs from conjugation classes 1 and 3.
+
+{| class="wikitable"
+|-
+! colspan='2'|tremble (conjugation class 3)  !! !! !! colspan='2'|dance (conjugation class 1)
+|-
+| 1 || '''tsi'''-kawelik ||'I tremble'  ||  || '''hoy'''-otoy||'I dance'
+|-
+| 2 || '''łan'''-kawelik || 'you tremble' || || '''ł'''-otoy||'you dance'
+|-
+|3 || '''yi'''-kawelik || 'he/she trembles' ||  || '''t'''-otoy||'he/she dances'
+|-
+| 1pl inclusive || '''xiyi'''-kawelik || 'we (inclusive) tremble' ||  || '''xit'''-otoy||'we (inclusive) dance'
+|}
+
+Transitive verbs belong to a different conjugation class, Conjugation 6.  The following forms show a transitive verb with a 3rd person object:
+
+{|class='wikitable'
+|-
+! colspan='2'|love (conjugation class 6)
+|-
+|'''hi'''-su'un|| 'I love (him/her)'
+|-
+|'''łi'''-su'un|| 'you love (him/her)'
+|-
+|'''yi'''-su'un|| 'he/she loves (him/her)'
+|-
+|'''xite'''-su'un||'we (inclusive) love (him/her)'
+|}
+
+If the object of the transitive verb is 1st or 2nd person, then certain combinations of subject and object are shown by a portmanteau morpheme.
+
+{|class='wikitable'
+|-
+! colspan='2'|love (conjugation class 6)|| subject/object combination
+|-
+|'''k'e'''-su'un|| 'I love you' ||1SUBJ›2OBJ
+|-
+|'''tsi'''-su'un||'he/she loves me'||3SUBJ›1OBJ
+|-
+|'''ne'''-su'un||'he/she loves you'||3SUBJ›2OBJ
+|}
+
+Other combinations involve an object agreement marker which may either precede or follow the subject marker (Gerzenstein 1995:94-101):
+
+{{interlinear|indent=3
+|'''łe-ts'''-ikfex
+|2:SUBJ-1SG:OBJ-bite
+|'you bite me'}}
+
+{{interlinear|indent=3
+|'''xi-yi'''-łin
+|1PL(INCL):OBJ-3-save
+|'he/she saves us (inclusive)'}}
+
+====Applicatives====
+Verbs in Maká have a series of suffixes called 'postpositions' in Gerzenstein (1995), which have the effect of introducing new oblique objects into the sentence.
+
+The following examples show the applicative suffixes -ex 'instrumental ('with')' and -m 'benefactive ('for')'
+
+{{interlinear|indent=3
+|Ne’ efu ni-xele-ex ke’ ute na’ nunax.
+|DEM:F woman A3-throw-with INDEF:MASC rock DEM:M dog
+|‘The woman threw a rock at the dog.’}}
+
+{{interlinear|indent=3
+|H-osxey-i-m na’ sehets na’ k’utsaX
+|A1-grill-P3-for DEM:M fish DEM:M old:man
+|‘I grill fish for the old man.’}}
+
+==Syntax==
+
+===Noun phrases===
+
+In noun phrases, the possessor precedes the possessed noun (Gerzenstein 1995:155):
+
+{{interlinear|indent=3
+|e-li-ts łe-xiła’
+|2-child-PL 3-head
+|'your children’s head'}}
+
+Noun phrases show the order (Demonstrative) (Numeral) (Adjective) N (Gerzenstein 1995:154):
+
+{{interlinear|indent=3
+|Ne’ efu t-aqhay-ets ne’ ikwetxuł fo’ tiptip-its
+|DEM:FEM woman S3-buy-toward DEM:PL four white horse{{=}}PL
+|’The woman bought four white horses.’}}
+
+===Sentences===
+
+====Affirmative====
+The basic word order for a transitive clause in Maká is [[subject–verb–object]], as seen in the following example (Gerzenstein 1995:138)
+
+{{interlinear|indent=3
+|Ne’ efu ni-xele-ex ke’ ute na’ nunax.
+|DEM:F woman A3-throw-with INDEF:MASC rock DEM:M dog
+|‘The woman threw a rock at the dog.’}}
+
+For intransitive clauses, the basic order is verb-subject (Gerzenstein 1995:106):
+
+{{interlinear|indent=3
+|Wapi ne' efu.
+|rest DEM:F woman
+|'The woman rests'}}
+
+====Interrogative====
+
+In yes-no questions, the usual [[subject–verb–object]] order changes to [[verb-subject-object]] following an initial particle /me/ (Gerzenstein 1995:136):
+
+{{interlinear|indent=3
+|Me y-eqfemet-en na' k’utsaX na' xukhew?
+|Q A3-injure-CAUS DEM:M old:man DEM:M man
+|‘Did the old man injure the man?’}}
+
+Sentences with wh-questions show a sentence-initial question word. Maká has a very small inventory of question words, with only three members: ''łek'' 'who, what', ''pan'' 'which, where, how many', and ''inhats'ek'' 'why'. The following example shows an interrogative sentence with an initial question word (Gerzenstein 1995:178:
+
+{{interlinear|indent=3
+|Łek pa' tux na' xukhew?
+|what DEM:M eat DEM:M old:man
+|‘What did the old man eat?’}}
+
+==References==
+{{Reflist}}
+
+== External links ==
+* [https://web.archive.org/web/20170106103619/http://www.ailla.utexas.org/search/collection.html?c_id=20 Argentinian Languages Collection of Ana Gerzenstein], containing audio recordings of Maká, from the [[Archive of the Indigenous Languages of Latin America]].
+*[https://ids.clld.org/contributions/305 Maca] ([[Intercontinental Dictionary Series]])
+
+{{Languages of Paraguay}}
+{{Mataco-Guaicuru languages}}
+{{Authority control}}
+
+{{DEFAULTSORT:Maka Language}}
+[[Category:Languages of Paraguay]]
+[[Category:Matacoan languages]]
+[[Category:Chaco linguistic area]]

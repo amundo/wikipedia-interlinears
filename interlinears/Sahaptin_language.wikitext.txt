@@ -1,0 +1,353 @@
+{{short description|Plateau Penutian language of northwest US}}
+{{Infobox language
+|name=Sahaptin
+|states=[[United States]]
+|region=[[Washington (U.S. state)|Washington]], [[Oregon]], and [[Idaho]]
+|ethnicity={{sigfig|9,820|1}}<!--data supports 1 sig fig--> [[Sahaptin]]s (1977)<ref name=e18/>
+|speakers=100–125
+|date=2007
+|ref=e18
+|familycolor=American
+|fam1=[[Plateau Penutian languages|Plateau Penutian]]
+|fam2=[[Sahaptian languages|Sahaptian]]
+|linglist=qot
+|lingname=Sahaptin
+|lc1=uma  |ld1=[[Umatilla language|Umatilla]] 
+|lc2=waa  |ld2=[[Walla Walla tribe|Walla Walla]] 
+|lc3=yak  |ld3=[[Yakama Nation|Yakama]] 
+|lc4=tqn  |ld4=[[Warm Springs tribes|Tenino]] 
+|glotto=saha1240
+|glottorefname=Sahaptin
+}}
+
+'''Sahaptin''' or '''Shahaptin''', endonym '''Ichishkin''',<ref>{{Cite journal|last1=Leonard|first1=Wesley Y.|last2=Haynes|first2=Erin|date=December 2010|title=Making "collaboration" collaborative: An examination of perspectives that frame linguistic field research|url=http://scholarspace.manoa.hawaii.edu/handle/10125/4482|journal=Language Documentation & Conservation|volume=4|pages=269–293|issn=1934-5275}}</ref> is one of the two-language [[Sahaptian languages|Sahaptian]] branch of the [[Plateau Penutian languages|Plateau Penutian]] family spoken in a section of the northwestern plateau along the [[Columbia River]] and its tributaries in southern Washington, northern Oregon, and southwestern Idaho, in the [[United States]];<ref>[[#refMithun1999|Mithun, 1999]]</ref> the other language is [[Nez Perce language|Nez Perce]] or ''Niimi'ipuutímt''. Many of the tribes that surrounded the land were skilled with horses and trading with one another; some tribes were known for their [[horse breeding]] which resulted in today's [[Appaloosa]] or [[Cayuse horse]].{{relevance inline|date=October 2021}}
+
+The word ''Sahaptin/Shahaptin'' is not the one used by the tribes that speak it, but from the Columbia Salish name, '''Sħáptənəxw / S-háptinoxw''', which means "stranger in the land". This is the name the [[Wenatchi]] (in Sahaptin: Winátshapam) and Kawaxchinláma (who speak Columbia Salish) traditionally call the [[Nez Perce people]]. Early white explorers mistakenly applied the name to all the various Sahaptin speaking people, as well as to the Nez Perce. Sahaptin is spoken by various tribes of the Washington Reservations; Yakama, Warm Springs, Umatilla; and also spoken in many smaller communities such as [[Celilo Village, Oregon|Celilo]], Oregon.
+
+The [[Yakama]] tribal cultural resources program has been promoting the use of the traditional name of the language, ''Ichishkíin Sɨ́nwit'' (″this language″), instead of the Salish term ''Sahaptin''.<ref>Beavert, Virginia and Hargus, Sharon ''Ichishkíin sɨ́nwit yakama = Yakima Sahaptin dictionary''. Toppenish, Wash.: Heritage University, Seattle: in association with the University of Washington Press, 2009; 492 pp. OCLC 268797329.</ref>
+
+==Tribes and dialects==
+Sahaptin tribes speak three mutually intelligible dialects:<ref>Sharon Hargus 2012, [http://faculty.washington.edu/sharon/1P_Clitics_NW_Sahaptin.pdf First position clitics in Northwest Sahaptin]</ref>
+
+'''Northern Sahaptin'''
+::Northwest Sahaptin dialects:
+::*[[Kittitas people|Kittitas (Upper Yakama)]] (autonym: Pshwánapam / Pshwanpawam)
+::*[[Yakama Nation|Lower Yakama (Yakama proper)]] (autonym: Mámachatpam)
+::*[[Klickitat people|Klickitat (Klikatat)]] (Yakama name: Xwálxwaypam or L'ataxat)
+:::*[[Cowlitz people|Upper Cowlitz]] (Cowlitz Klickitat, Lewis River Klickitat Band, autonym: Taidnapam / Táytnapam)
+:::*[[Nisqually people|Upper (Mountain) Nisqually]] (Meshal / Me-Schal / Mashel / Mica'l Band of Nisqually, autonym: Mishalpam, Yakama name: Mical-ɫa'ma) 
+::Northeast Sahaptin dialects: 
+::*[[Wanapum]] (Wánapam)
+::*[[Walla Walla people|Walla Walla]] (Yakama name: Waluulapan)
+::*[[Palus people|Palouse (Palus)]] (Yakama name: Pelúuspem)
+::*Lower Snake River
+:::*Chamnapam
+:::*Wauyukma
+:::*Naxiyampam
+
+'''Southern Sahaptin (Columbia River dialects)''': 
+::*[[Umatilla people|Umatilla]] (Rock Creek Indians, Yakama name: Amatalamlama / Imatalamlama)
+::*Sk'in/Skin-pah (Sawpaw Band, Fall Bridge, Rock Creek people, Yakama name: K'milláma, perhaps another Tenino subtribe)
+::*[[Tenino people|Tenino (Warm Springs bands)]]
+:::*Tinainu (Tinaynuɫáma) or "Dalles Tenino" (Tenino proper)
+:::*Tygh (Taih, Tyigh) or "Upper Deschutes" (divided into: Tayxɫáma (Tygh Valley), Tiɫxniɫáma (Sherar's Bridge), and Mliɫáma (Warm Spring Reservation)
+:::*Wyam (Wayámɫáma) or "Lower Deschutes" (Celilo Indians, Yakama name: Wayámpam) 
+:::*Dock-Spus (Tukspush) (Takspasɫáma) or "John Day"
+==Phonology==
+The charts of consonants and vowels below are used in the Yakima Sahaptin (Ichishkiin) language:{{sfn|Jansen|2010}}
+
+===Consonants===
+{| class="wikitable IPA" style="text-align:center"
+|- 
+! colspan="2" rowspan="2" | 
+! rowspan="2" | [[bilabial consonant|Bilabial]]
+! colspan="3" | [[alveolar consonant|Alveolar]]
+! rowspan="2" | [[Alveolo-palatal consonant|(Alveolo-)<br />palatal]]
+! colspan="2" | [[velar consonant|Velar]]
+! colspan="2" | [[uvular consonant|Uvular]]
+! rowspan="2" | [[glottal consonant|Glottal]]
+|-
+! <small>plain</small> || <small>[[sibilant]]</small> || <small>[[lateral consonant|lateral]]</small>
+! <small>plain</small> || <small>[[Labialization|labial]]</small>
+! <small>plain</small> || <small>[[Labialization|labial]]</small>
+|-
+! rowspan="2" | [[Plosive]]/<br>[[Affricate]]
+! <small>plain</small>
+| {{IPAlink|p}} {{anglebracket|p}}
+| {{IPAlink|t}} {{anglebracket|t}}
+| {{IPAlink|ts}} {{anglebracket|ts}}
+| {{IPAlink|tɬ}} {{anglebracket|tɬ}}
+| {{IPAlink|tʃ}} {{anglebracket|ch}}
+| {{IPAlink|k}} {{anglebracket|k}}
+| {{IPAlink|kʷ}} {{anglebracket|kw}}
+| {{IPAlink|q}} {{anglebracket|ḵ}}
+| {{IPAlink|qʷ}} {{anglebracket|ḵw}}
+| rowspan="2" | {{IPAlink|ʔ}} {{anglebracket|ʼ}}
+|-
+! <small>[[ejective consonant|ejective]]</small>
+| {{IPAlink|pʼ}} {{anglebracket|pʼ}}
+| {{IPAlink|tʼ}} {{anglebracket|tʼ}}
+| {{IPAlink|tsʼ}} {{anglebracket|tsʼ}}
+| {{IPAlink|tɬʼ}} {{anglebracket|tɬʼ}}
+| {{IPAlink|tʃʼ}} {{anglebracket|chʼ}}
+| {{IPAlink|kʼ}} {{anglebracket|kʼ}}
+| {{IPAlink|kʷʼ}} {{anglebracket|kwʼ}}
+| {{IPAlink|qʼ}} {{anglebracket|ḵʼ}}
+| {{IPAlink|qʷʼ}} {{anglebracket|ḵwʼ}}
+|-
+! colspan="2" | [[Fricative]]
+|
+|
+| {{IPAlink|s}} {{anglebracket|s}}
+| {{IPAlink|ɬ}} {{anglebracket|ɬ}}
+| {{IPAlink|ʃ}} {{anglebracket|sh}}
+| {{IPAlink|x}} {{anglebracket|x}}
+| {{IPAlink|xʷ}} {{anglebracket|xw}}
+| {{IPAlink|χ}} {{anglebracket|x̱}}
+| {{IPAlink|χʷ}} {{anglebracket|x̱w}}
+| {{IPAlink|h}} {{anglebracket|h}}
+|-
+! colspan="2" |[[Nasal consonant|Nasal]]
+| {{IPAlink|m}} {{anglebracket|m}}
+| {{IPAlink|n}} {{anglebracket|n}}
+|
+|
+|
+|
+|
+|
+|
+|
+|-
+! colspan="2" |[[Approximant]]
+|
+|
+|
+| {{IPAlink|l}} {{anglebracket|l}}
+| {{IPAlink|j}} {{anglebracket|y}}
+|
+| {{IPAlink|w}} {{anglebracket|w}}
+|
+|
+|
+|}
+
+=== Vowels ===
+{| class="wikitable IPA" style="text-align:center"
+!
+![[Front vowel|Front]]
+![[Central vowel|Central]]
+![[Back vowel|Back]]
+|-
+![[Close vowel|High]]
+|{{IPAlink|i}} {{anglebracket|i}} {{IPAlink|iː}} {{anglebracket|ii}}
+|{{IPAlink|ɨ}} {{anglebracket|ɨ}}
+|{{IPAlink|u}} {{anglebracket|u}} {{IPAlink|uː}} {{anglebracket|uu}}
+|-
+![[Open vowel|Low]]
+|
+|{{IPAlink|a}} {{anglebracket|a}} {{IPAlink|aː}} {{anglebracket|aa}}
+|
+|}
+Vowels can also be accented (e.g. /á/).
+
+==Writing system==
+This writing system is used for Umatilla Sahaptin.
+{|class="wikitable" style="text-align: center;"
+|+ Sahaptin alphabet (Umatilla) {{sfn|Jansen|2010|p=28-34}}
+| ˀ || a || c || c̓ || č
+| č̓ || h || i || ɨ || k
+| k̓ || kʷ
+|-
+| k̓ʷ || l || ł || m || n
+| p || p̓ || q || q̓ || qʷ
+| q̓ʷ || s
+|-
+| š || t || t̓ || ƛ || ƛ̓
+| u || w || x || x̣ || xʷ
+| x̣ʷ || y
+|}
+
+==Grammar==
+There are published grammars,<ref>[[#refJacobs1931|Jacobs, 1931]].</ref><ref>[[#refRigsby and Rude1996|Rigsby and Rude, 1996]].</ref> a recent dictionary,<ref>[[#refBeavert & Hargus2009|Beavert & Hargus, 2009]].</ref> and a corpus of published texts.<ref>[[#refJacobs1929|Jacobs, 1929]].</ref><ref>[[#refJacobs1937|Jacobs, 1937]].</ref>
+
+Sahaptin has a [[split ergativity|split ergative]] syntax, with direct-inverse voicing and several applicative constructions.<ref>[[#refRude2009|Rude, 2009]].</ref>
+
+The [[ergative case]] inflects third-person nominals only when the direct object is first- or second-person (the examples below are from the Umatilla dialect):
+
+{| class=wikitable
+| {{interlinear
+|i- q̓ínu -šana yáka '''paanáy'''
+|3.NOM- see -ASP bear '''3SG.ACC'''
+|'the bear saw him'}}
+| {{interlinear
+|i- q̓ínu -šana '''{{=}}aš''' yáka '''-nɨm'''
+|3.NOM- see -ASP '''{{=}}1SG''' bear '''-ERG'''
+|'the bear saw me'}}
+|}
+
+The direct-inverse contrast can be elicited with examples such as the following. In the inverse, the transitive direct object is coreferential with the subject in the preceding clause.
+
+{| class=wikitable
+!Direct
+!Inverse
+|-
+| {{interlinear
+|wínš i- q̓ínu -šana wapaanłá -an ku '''i-''' ʔíƛ̓iyawi -ya '''paanáy''' 
+|man 3.NOM- see -ASP grizzly -ACC and '''3.NOM-''' kill -PST '''3SG.ACC'''
+|'the man saw the grizzly and he killed it'}}
+| {{interlinear
+|wínš i- q̓ínu -šana wapaanłá -an ku '''pá-''' ʔiƛ̓iyawi -ya
+|man 3.NOM- see -ASP grizzly -ACC and '''INV-''' kill -PST
+|'the man saw the grizzly and it killed him'}}
+|}
+
+The inverse (marked by the verbal prefix ''pá-'') retains its transitive status, and a patient nominal is case marked accusative.
+
+{{interlinear|indent=3
+|ku '''pá-''' ʔiƛ̓iyawi -ya wínš -na
+|and '''INV-''' kill -PST man -ACC
+|'and it killed the man' ({{=}} 'and the man was killed by it')}}
+
+A semantic inverse is also marked by the same verbal prefix ''pá-''.
+
+{| class=wikitable
+!Direct
+!Inverse
+|-
+| {{interlinear
+|q̓ínu -šana '''{{=}}maš'''
+|see -ASP '''{{=}}1SG/2SG'''
+|'I saw you'}}
+| {{interlinear
+|'''pá-''' q̓inu -šana '''{{=}}nam'''
+|'''INV-''' see -ASP '''{{=}}2SG'''
+|'you saw me'}}
+|}
+
+In Speech Act Participant (SAP) and third-person transitive involvement, direction marking is as follows:
+
+{| class=wikitable
+!Direct
+!Inverse
+|-
+| {{interlinear
+|'''á-''' q̓inu -šana {{=}}aš '''paanáy'''
+|'''OBV-''' see -ASP {{=}}1SG '''3SG.ACC'''
+|'I saw him/her/it'}}
+| {{interlinear
+|'''i-''' q̓ínu -šana {{=}}aš '''pɨ́nɨm'''
+|'''3.NOM-''' see -ASP {{=}}1SG '''3.ERG'''
+|'he/she/it saw me'}}
+|}
+
+==See also==
+* [[Sahaptian languages]]
+* [[Sahaptin people]]
+* [[Cayuse people|Cayuse]]
+* [[Palus (tribe)]]
+* [[Umatilla (tribe)]]
+* [[Walla Walla (tribe)]]
+* [[Yakama]]
+
+==Notes==
+{{Reflist}}
+
+==References==
+{{Refbegin|30em}}
+* <cite id="refBeavert and Hargus2010">[[Virginia Beavert|Beavert, Virginia]], and Sharon Hargus (2010).  ''Ichishkiin Sɨ́nwit Yakama/Yakima Sahaptin Dictionary''.  Toppenish and Seattle: Heritage University and University of Washington Press.</cite>
+* <cite id="refHargus and Beavert2002">Hargus, Sharon, and Virginia Beavert. (2002). Yakima Sahaptin clusters and epenthetic [ɨ].  ''Anthropological Linguistics'', 44.1-47.</cite>
+* <cite id="refJacobs1929">Jacobs, Melville (1929).  [http://content.lib.washington.edu/u?/lctext,7620 Northwest Sahaptin Texts, 1].  ''University of Washington Publications in Anthropology'' 2:6:175-244.  Seattle: University of Washington Press.</cite>
+* <cite id="refJacobs1931">Jacobs, Melville (1931).  [http://content.lib.washington.edu/u?/lctext,7974 A Sketch of Northern Sahaptin Grammar].  ''University of Washington Publications in Anthropology'' 4:2:85-292.  Seattle: University of Washington Press.</cite>
+* <cite id="refJacobs1934">Jacobs, Melville (1934).  ''Northwest Sahaptin Texts''.  English language only.  ''Columbia University Contributions to Anthropology'' 19, Part 1.  New York: Columbia University Press.</cite>
+* <cite id="refJacobs1937">Jacobs, Melville (1937).  ''Northwest Sahaptin Texts''.  Sahaptin language only.  ''Columbia University Contributions to Anthropology'' 19, Part 2.  New York: Columbia University Press.</cite>
+* <cite id="refMithun1999">Mithun, Marianne. (1999). ''The languages of Native North America''. Cambridge: Cambridge University Press. {{ISBN|0-521-23228-7}} (hbk); {{ISBN|0-521-29875-X}}.</cite>
+* <cite id="refRigsby and Rude1996">Rigsby, Bruce, and Noel Rude. (1996).  Sketch of Sahaptin, a Sahaptian Language.  In ''Languages'', ed. by Ives Goddard, pp.&nbsp;666–692. [[Handbook of North American Indians]], Volume 17. Washington, D.C.: Smithsonian Institution.</cite>
+* <cite id="refRude1988">Rude, Noel. (1988). Pronominal prefixes in Klikitat Sahaptin. In ''Papers from the 1988 Hokan-Penutian Languages Workshop: Held at the University of Oregon, June 16–18, 1988'', compiled by Scott DeLancey, pp.&nbsp;181–197.  Eugene, Oregon: University of Oregon Papers in Linguistics.</cite>
+* <cite id="refRude1994">Rude, Noel. (1994). Direct, inverse and passive in Northwest Sahaptin.  In ''Voice and Inversion'', ed. by T. Givón.  Typological Studies in Language, Vol. 28:101-119.  Amsterdam: John Benjamins.</cite>
+* <cite id="refRude2009">Rude, Noel. (2006).  [http://lingserver.arts.ubc.ca/linguistics/sites/default/files/Rude_2006.pdf Proto-Sahaptian vocalism.] ''University of British Columbia Working Papers in Linguistics'', Volume 18: 264-277.</cite>
+* <cite id="refRude2009">Rude, Noel. (2009).  [https://www.sfu.ca/nwjl/Articles/V003_N03/RudeTransitivityInSahaptin.html Transitivity in Sahaptin.] ''Northwest Journal of Linguistics'', Vol. 3, Issue 3, pp.&nbsp;1–37.</cite>
+* <cite id="refRude2009">Rude, Noel. (2011).  [http://lingserver.arts.ubc.ca/linguistics/sites/default/files/2011_Rude.pdf External possession, obviation, and kinship in Umatilla Sahaptin.] ''University of British Columbia Working Papers in Linguistics'', Volume 30: 351-365.</cite>
+* <cite id="refRude2009">Rude, Noel. (2012).  [http://lingserver.arts.ubc.ca/linguistics/sites/default/files/2012_Rude.pdf Reconstructing Proto-Sahaptian Sounds.] ''University of British Columbia Working Papers in Linguistics'', Volume 32: 292-324.</cite>
+* <cite id="refRude2009">Rude, Noel. (2014). ''Umatilla Dictionary''.  Seattle & London: University of Washington Press.</cite>
+{{Refend}}
+
+== External links ==
+*{{Cite book
+| publisher = Heritage University, University of Washington Press
+| last = Beavert
+| first = Virginia
+|author2=Sharon Hargus
+ | title = Ichishkiin sinwit Yakama/Yakima Sahaptin Dictionary
+| location = Toppenish, WA
+| access-date = 2012-07-10
+| year = 2010
+| url = http://depts.washington.edu/sahaptin/
+}}
+*{{Cite book
+| publisher = University of Oregon, OR
+| last = Beavert
+| first = Virginia
+ | title = Wántwint Inmí Tiináwit: A Reflection of What I Have Learned.
+| location = PhD thesis
+| access-date = 2020-06-19
+| year = 2012
+| url = https://scholarsbank.uoregon.edu/xmlui/handle/1794/12542
+}}
+*{{Cite web
+| title = Sahaptin Noun Dictionary (Yakama Dialect)
+| access-date = 2012-07-10
+| url = http://www.native-languages.org/sahaptin.htm
+}}
+*{{Cite news
+| last = Muir
+| first = Pat
+| title = Virginia Beavert keeping Sahaptin language alive
+| work = Yakima Herald-Republic
+| access-date = 2012-07-10
+| date = 2010-02-20
+| url = http://www.yakima-herald.com/stories/2010/02/20/virginia-beavert-keeping-sahaptin-language-alive
+}}
+*{{Cite web
+ |last       = McDonald
+ |first      = Rachael
+ |title      = Yakama Elder Keeps Language Alive
+ |work       = KLCC Eugene Oregon NPR
+ |access-date = 2012-07-10
+ |date       = 2009-05-25
+ |url        = http://www.klcc.org/Feature.asp?FeatureID=1127
+|archive-url = https://archive.today/20130415113434/http://www.klcc.org/Feature.asp?FeatureID=1127
+|url-status   = dead
+|archive-date = 2013-04-15
+}}
+*{{Cite news
+| last = Martin
+| first = Shelby
+| title = Rare Yakama Sahaptin language taught at university
+| work = Spokesman.com, The Spokesman-Review
+| access-date = 2012-07-10
+| date = 2009-02-14
+| url = http://www.spokesman.com/stories/2009/feb/14/rare-yakama-sahaptin-language-taught-at-university/
+}}
+*{{Cite web
+| last = Dadigan
+| first = Marc
+| title = Guardians of Language
+| work = CAScade, UO College of Arts and Sciences
+| access-date = 2012-07-10
+| year = 2010
+| url = http://cascade.uoregon.edu/spring2010/features/feature1/feature-one/
+}}
+*ELAR archive of [http://elar.soas.ac.uk/deposit/0220 Yakima (Sahaptin) language documentation materials]
+*{{Cite web|url = https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/10901/Jansen_Joana_Worth_phd2010sp.pdf?sequence=1|title = Grammar Of Yakima Ichishkíin /Sahaptin|last =Jansen|first =Joana Worth|date=2010|website=[PDF}}
+*[https://tinycards.duolingo.com/collections/8t8FKGN/yakama-ichishkiin Yakama Ichishkíin flashcard decks]
+
+{{Penutian languages}}
+{{Languages of Oregon}}
+{{Languages of Idaho}}
+{{North American languages}}
+
+[[Category:Sahaptian languages]]
+[[Category:Indigenous languages of Washington (state)]]
+[[Category:Indigenous languages of Oregon]]
+[[Category:Indigenous languages of Idaho]]

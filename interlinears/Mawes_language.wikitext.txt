@@ -1,0 +1,189 @@
+{{Infobox language
+|name=Mawes
+|region=[[Papua (province)|Papua]]: [[Sarmi Regency]], [[:id:Bonggo, Sarmi|Bonggo District]] - Mawes Dai, Mawes Mukti, and Mawes Wres villages to the west of the [[Buri River]]
+|speakers=850 
+|date=2006
+|ref=e18
+|familycolor=Papuan
+|fam1=[[Northwest Papuan languages|Northwest Papuan]]?
+|fam2=[[Foja Range languages|Foja Range]]
+|iso3=mgk
+|glotto=mawe1251
+|glottorefname=Mawes
+}}
+
+'''Mawes''' is a [[Papuan language]] of [[Indonesia]].
+
+Usher (2020) proposes that it may be related to the [[Kwerbic languages]].<ref>[https://sites.google.com/site/newguineaworld/families/northwest-new-guinea/foja-range/west-foja-range/masep New Guinea World]</ref> Foley (2018) classifies Mawes as a [[language isolate]],<ref name="Foley-NWNG"/> and so does Hammarström (2010).<ref>Harald Hammarström. 2010. The Genetic Position of the Mawes Language. Paper presented at the Workshop on the Languages of Papua 2, 8–12 February 2010, Manokwari, Indonesia.</ref>
+
+==Pronouns==
+Pronouns are:<ref name="Foley-NWNG"/>
+
+:{| {{table}}
+!  !! sg !! pl
+|-
+! 1
+| kidam || inim
+|-
+! 2
+| nam || nɛm
+|-
+! 3
+| ɛbɛ || mia
+|}
+
+==Basic vocabulary==
+Basic vocabulary of Mawes listed in [[William A. Foley|Foley]] (2018):<ref name="Foley-NWNG">{{cite book |last=Foley |first=William A. |editor1-last=Palmer |editor1-first=Bill |date=2018 |title=The Languages and Linguistics of the New Guinea Area: A Comprehensive Guide |chapter=The languages of Northwest New Guinea |series= The World of Linguistics |volume=4 |location=Berlin |publisher=De Gruyter Mouton |pages=433–568 |isbn=978-3-11-028642-7}}</ref>
+
+:{| {{table}}
+|+ Mawes basic vocabulary
+! gloss !! Mawes
+|-
+| ‘bird’ || ikinin
+|-
+| ‘blood’ || wɛrɛi
+|-
+| ‘bone’ || tuan
+|-
+| ‘ear’ || bɛr
+|-
+| ‘eat’ || nan
+|-
+| ‘egg’ || siwin
+|-
+| ‘eye’ || nonsum
+|-
+| ‘fire’ || kani
+|-
+| ‘leg, foot’ || yaʔ
+|-
+| ‘louse’ || sene
+|-
+| ‘name’ || dimanɛ
+|-
+| ‘one’ || mɛndakai
+|-
+| ‘see’ || nomo
+|-
+| ‘sky’ || kowan
+|-
+| ‘stone’ || fɛt
+|-
+| ‘sun’ || ɛsar
+|-
+| ‘tooth’ || wan
+|-
+| ‘tree’ || dengkin
+|-
+| ‘two’ || yakɛneu
+|-
+| ‘water’ || bo
+|-
+| ‘woman’ || yei
+|}
+
+The following basic vocabulary words are from Voorhoeve (1975),<ref>Voorhoeve, C.L. ''Languages of Irian Jaya: Checklist. Preliminary classification, language maps, wordlists''. B-31, iv + 133 pages. Pacific Linguistics, The Australian National University, 1975. {{doi|10.15144/PL-B31}}</ref>, as cited in the Trans-New Guinea database:<ref>{{Cite web |url=http://transnewguinea.org/language/mawes |title=TransNewGuinea.org - database of the languages of New Guinea |last=Greenhill |first=Simon |date=2016 |access-date=2020-11-05}}</ref>
+
+:{| class="wikitable sortable"
+! gloss !! Mawes
+|-
+| head || defar
+|-
+| hair || tere
+|-
+| eye || nonsom
+|-
+| tooth || wan
+|-
+| leg || ija
+|-
+| dog || wede
+|-
+| pig || was
+|-
+| bird || ikinin
+|-
+| egg || siwin
+|-
+| blood || werei
+|-
+| bone || tuan
+|-
+| skin || dukunen
+|-
+| tree || deŋkin
+|-
+| man || ke
+|-
+| sun || esar
+|-
+| water || bo
+|-
+| fire || kani
+|-
+| stone || feyt
+|-
+| name || dimane
+|-
+| eat || nano
+|-
+| one || mendakai
+|-
+| two || yakenew
+|}
+
+==Sentences==
+Of the few sentences that have been documented for Mawes, some example sentences are:<ref name="Foley-NWNG"/>{{rp|497–8}}
+
+{{interlinear|number=(1)
+|ɛbɛ marsya nomtak
+|3SG yesterday come
+|‘He came yesterday.’}}
+
+{{interlinear|number=(2)
+|wɛdɛ ɛbɛ ketes
+|dog 3SG bite
+|‘The dog bit him.’}}
+
+{{interlinear|number=(3)
+|ke-me totoso kida-wɛn mamɛnta fɛn tamu(k)
+|man-? money 1SG-POSS father DAT/ALL give
+|‘That man gave money to my father.’}}
+
+{{interlinear|number=(4)
+|ɛbɛ-mɛ dengkin nambuak kom sorna
+|3sg-? tree machete INSTR cut
+|‘He is cutting wood with a machete.’}}
+
+{{interlinear|number=(5)
+|ke-me sau fɛn banak
+|man-? village DAT/ALL go
+|‘That man went to the village.’}}
+
+{{interlinear|number=(6)
+|ke-me sau-er nom
+|man-? village-ABL come
+|‘That man came from the village.’}}
+
+{{interlinear|number=(7)
+|ke-me yei dete banak
+|man-? woman COMIT go
+|‘That man went with his wife.’}}
+
+==Further reading==
+*Wambaliau, Theresia. 2006. ''Survey Report on the Mawes Language in Papua, Indonesia''. (in Indonesian). Unpublished manuscript. Jayapura: SIL Indonesia.
+*Hammarström, Harald. 2010.'' The genetic position of the Mawes language''. Paper presented at the Workshop on the Languages of Papua 2. Manokwari, Indonesia, 8–12 February 2010.
+
+==References==
+{{Reflist}}
+
+==External links==
+*[https://archive.org/stream/rosettaproject_mgk_swadesh-1/mgk.txt Rosetta Project: Mawes Swadesh list]
+
+{{Papuan languages}}
+{{Languages of Indonesia}}
+{{Tor–Kwerba languages}}
+
+[[Category:Foja Range languages]]
+[[Category:Languages of western New Guinea]]
+[[Category:Language isolates of New Guinea]]

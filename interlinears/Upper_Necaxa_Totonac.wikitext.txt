@@ -1,0 +1,351 @@
+{{Infobox language
+|name = Upper Necaxa Totonac
+|nativename = 
+|pronunciation = 
+|states = [[Mexico]]
+|region = [[Puebla]]
+|ethnicity=5,800 live in houses headed by speakers (2000)<ref>{{cite web|url=http://www-01.sil.org/iso639-3/cr_files/2006-085_tku.pdf|title=ISO change request|website=01.sil.org|access-date=31 May 2018}}</ref><!--E19 takes this to be the entire ethnic pop-->
+|speakers = 3,400 
+|date=2000
+|ref=e19
+|familycolor = American
+|fam1 = [[Toto-Zoquean languages|Totozoquean]] ?
+|fam2 = [[Totonacan languages|Totonacan]]
+|fam3 = [[Totonac languages|Totonac]]
+|fam4 = Central
+|fam5 = Northern
+|iso3 = tku
+|glotto=uppe1275
+|glottorefname=Upper Necaxa Totonac
+}}
+
+'''Upper Necaxa Totonac''' is a [[native American language]] of central [[Mexico]] spoken by 3,400 people<ref>2005 INEGI Census</ref> in and around four villages— [[Chicontla]], [[Patla, Pueblo|Patla]], [[Cacahuatlán]], and [[San Pedro Tlaloantongo]] —in the [[Necaxa River]] Valley in Northern [[Puebla]] State.<ref name="auto">Beck (2011a)</ref> Although speakers represent the majority of the adult population in Patla and Cacahuatlán, there are very few monolinguals and few if any children are currently learning the language as a mother tongue,<ref>Lam (2009)</ref> and, as a consequence, the language must be considered severely endangered.
+
+==Phonology==
+In some respects, Upper Necaxa has a fairly typical Totonacan consonantal inventory, lacking a voice/voiceless opposition in stops and having the three lateral phonemes /l/, /{{IPA|ɬ}}/, and /{{IPA|tɬ}}/, although the lateral affricate /{{IPA|tɬ}}/ has largely been replaced by the voiceless lateral fricative /{{IPA|ɬ}}/, persisting in word-final position in only a few lexical items.<ref name="auto1">Beck (2004)</ref>
+
+{| class="wikitable" style=text-align:center
+! rowspan=2 colspan=2 | 
+! rowspan=2 | [[Labial consonant|Labial]]
+! colspan=2 | [[Alveolar consonant|Alveolar]]
+! rowspan=2 | [[Palatal consonant|Palatal]]
+! rowspan=2 | [[Velar consonant|Velar]]
+! rowspan=2 | [[Glottal consonant|Glottal]]
+|-class=small
+! [[central consonant|central]]
+! [[lateral consonant|lateral]]
+|-
+! colspan=2 | [[Nasal stop|Nasal]]
+| {{IPAlink|m}}
+| {{IPAlink|n}}
+|
+|
+|
+|
+|-
+! colspan=2 | [[Plosive]]
+| {{IPAlink|p}}
+| {{IPAlink|t}}
+|
+|
+| {{IPAlink|k}}
+| {{IPAlink|ʔ}}
+|-
+! colspan=2 | [[Affricate]] 
+|
+| {{IPAlink|ts}}
+| {{IPAlink|tɬ}}
+| {{IPAlink|tʃ}}
+|
+|
+|-
+! rowspan = 2 | [[Fricative]] 
+! Plain
+|
+| {{IPAlink|s}}
+| {{IPAlink|ɬ}}
+| {{IPAlink|ʃ}}
+| {{IPAlink|x}}
+|
+|-
+! [[Ejective consonant|Ejective]]
+|
+| {{IPAlink|s’}}
+| {{IPAlink|ɬ’}}
+| {{IPAlink|ʃ’}}
+|
+|
+|-
+! colspan=2 | [[Approximant]] 
+|
+|
+| {{IPAlink|l}}
+| {{IPAlink|j}}
+| {{IPAlink|w}}
+|
+|}
+
+The Upper Necaxan inventory is also notable in the family in that it lacks a uvular stop /q/ but contains a robust glottal stop phoneme, derived historically from *q.<ref>Beck (2006a)</ref> The loss of *q also resulted in the collapse of fricative + uvular sequences—*''sq'', *''{{IPA|ʃ}}q'', and *''{{IPA|ɬ}}q''—to ejective fricatives at the same point of articulation (i.e., ''s’'', ''{{IPA|ʃ}}’'', and ''{{IPA|ɬ}}’'').
+
+The vowel inventory is also somewhat different from most other members of the family, having full phonemic mid-vowels.
+
+{| class="wikitable" style=text-align:center
+! rowspan="2" |
+! colspan="2" | [[Front vowel|Front]]
+! colspan="2" | [[Central vowel|Central]]
+! colspan="2" | [[Back vowel|Back]]
+|-class=small
+! creaky || plain|| creaky || plain|| creaky || plain
+|-
+! [[Close vowel|Close]]
+| {{IPA|ḭ ḭː}}||{{IPA|i iː}}||  ||  ||{{IPA|ṵ ṵː}}  || {{IPA|u uː}}
+|-
+! [[Mid vowel|Mid]]
+| {{IPA|ḛ ḛː}}||{{IPA|e eː}}||  ||  ||{{IPA|o̰ o̰ː}}  || {{IPA|o oː}}
+|-
+! [[Open vowel|Open]]
+|  || ||{{IPA|a̰ a̰ː}} ||{{IPA|a aː}} ||    ||
+|}
+
+Although most examples of /e/ and /o/ are conditioned, at least diachronically, by adjacency to /{{IPA|ʔ}}/ (historically, *q) and, to a lesser extent, to /y/ and /x/, there are nevertheless enough instances of both without the conditioning environment that the vowels have to be considered phonemic.<ref name="auto1"/>
+
+==Morphology==
+[[File:UNTMorphTemplate.jpg|thumb|Template of the UNT verb]]
+Like other [[Totonacan]] languages, Upper Necaxa is a highly [[polysynthetic]] [[agglutinating]] language, making extensive use of both prefixes and suffixes for [[inflection]], [[quasi-inflection]], and [[derivation (linguistics)|derivation]]. The verb has nine relatively ordered prefixal “slots” and fourteen positions for suffixes. These positions are determined simply by the relative order in which co-occurring affixes can appear on the verb and do not correlate with semantically  or functionally defined categories. Several affixes can appear in more than one position in the template, depending on various formal, semantic, and stylistic factors,<ref>Beck (2008b)</ref> and one position, suffix position 2, can accommodate more than one affix, the suffixes that can occupy this position being variably ordered with respect to one another.
+
+===Verbal inflection===
+
+Upper Necaxa dynamic verbs are inflected for three tenses (past, present, future), four aspects (imperfective, perfective, perfect, progressive), and four moods (indicative, optative, potential, irrealis). The tenses are marked exclusively by prefixes in the past and future and by a zero in the present, while three of the fours aspects (imperfective, perfective, and perfect) are marked by suffixes. The fourth aspect, the progressive, is realized through the use of inflectional [[compound (linguistics)|compounds]] formed on the stative verb ''ma{{IPA|ː}}{{IPA|ɬ}}'' ‘be lying’.<ref>Beck (2011b)</ref> The indicative mood is zero-marked while the optative and potential are marked by the prefixes ''ka-'' and ''t{{IPA|ḭ}}-'', respectively; the fourth mood, the irrealis, is marked by idiomatic combinations of morphemes borrowed from other parts of the TAM paradigms.<ref name="auto2">Beck & Mel’čuk (2011)</ref> Stative verbs are marked for tense and mood, but lack aspectual inflections.
+
+Person-marking on the verb is complex, the verb agreeing in person and number with the subject and up to two objects. The table below shows the indicative perfective form of the transitive verb ''t{{IPA|ṵ}}ks-'' ‘hit sth’:<ref name="auto"/>
+
+:{| class="wikitable"
+|-
+! !! 1sg.obj !! 2sg.obj !! 3sg.obj !! 1pl.obj !! 2pl.obj !! 3pl.obj
+|-
+| 1sg.sub || — || {{IPA|ḭ}}kt{{IPA|ṵ}}ksn{{IPA|ḭ}} || {{IPA|ḭ}}kt{{IPA|ṵ}}ksl{{IPA|ḭ}} || — || {{IPA|ḭ}}k{{IPA|aː}}t{{IPA|ṵ}}ksn{{IPA|ḭ}} || {{IPA|ḭ}}k{{IPA|aː}}t{{IPA|ṵ}}ksl{{IPA|ḭ}}
+|-
+| 2sg.sub || kint{{IPA|ṵ}}kst{{IPA|ḭ}} || — || t{{IPA|ṵ}}kst{{IPA|ḭ}} || kil{{IPA|aː}}t{{IPA|ṵ}}ksw{{IPA|ḭ}} || — || k{{IPA|aː}}t{{IPA|ṵ}}kst{{IPA|ḭ}}
+|-
+| 3sg.su || kint{{IPA|ṵ}}ksl{{IPA|ḭ}} || t{{IPA|ṵ}}ksn{{IPA|ḭ}} || t{{IPA|ṵ}}ksl{{IPA|ḭ}} || kink{{IPA|aː}}t{{IPA|ṵ}}ksn{{IPA|ḭ}} || k{{IPA|aː}}t{{IPA|ṵ}}ksn{{IPA|ḭ}} || k{{IPA|aː}}t{{IPA|ṵ}}ksl{{IPA|ḭ}}
+|-
+| 1pl<sub>exc</sub>.sub || — || {{IPA|ḭ}}k{{IPA|aː}}t{{IPA|ṵ}}ksn{{IPA|ḭ}} || {{IPA|ḭ}}kt{{IPA|ṵ}}ksw{{IPA|ḭ}} || — || {{IPA|ḭ}}k{{IPA|aː}}t{{IPA|ṵ}}ksn{{IPA|ḭ}} || {{IPA|ḭ}}k{{IPA|aː}}t{{IPA|ṵ}}ksw{{IPA|ḭ}}
+|-
+| 1pl<sub>incl</sub>.sub || — || — || t{{IPA|ṵ}}ksw{{IPA|ḭ}} || — || — || k{{IPA|aː}}t{{IPA|ṵ}}ksw{{IPA|ḭ}}
+|-
+| 2pl.sub || kil{{IPA|aː}}t{{IPA|ṵ}}ksw{{IPA|ḭ}} || — || t{{IPA|ṵ}}kstit || kil{{IPA|aː}}t{{IPA|ṵ}}ksw{{IPA|ḭ}} || — || k{{IPA|aː}}t{{IPA|ṵ}}kstit
+|-
+| 3pl.sub || kintat{{IPA|ṵ}}ksl{{IPA|ḭ}} || tat{{IPA|ṵ}}ksn{{IPA|ḭ}} || tat{{IPA|ṵ}}ksl{{IPA|ḭ}} || kink{{IPA|aː}}tat{{IPA|ṵ}}ksn{{IPA|ḭ}} || k{{IPA|aː}}tat{{IPA|ṵ}}ksn{{IPA|ḭ}} || tat{{IPA|ṵ}}ksn{{IPA|ḭ}}/k{{IPA|aː}}t{{IPA|ṵ}}ksl{{IPA|ḭ}}
+|}
+
+Like other members of the family, the Upper Necaxa verb paradigms show some irregularities in forms where first and second persons interact and one or both of these persons is plural, leading to a three-way ambiguity in such expressions:<ref name="auto2"/>
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{interlinear
+|top= {{IPA|ḭ}}k{{IPA|aː}}t{{IPA|ṵ}}ksn{{IPA|ḭ}}
+|{{IPA|ḭ}}k- k{{IPA|aː}}- t{{IPA|ṵ}}ks -n -l{{IPA|ḭ}}
+|1SG.SUB- PL.OBJ- hit -2OBJ -PFV
+|‘I hit you guys’<br />
+‘we hit you<sub>sg</sub><br />
+‘we hit you guys’}}
+{{Col-2}}
+{{interlinear
+|top= kil{{IPA|aː}}t{{IPA|ṵ}}ksw{{IPA|ḭ}}
+|kin- l{{IPA|aː}}- t{{IPA|ṵ}}ks -w -l{{IPA|ḭ}}
+|1OBJ- RECP- hit -1PL.SUB -PFV
+|‘you<sub>sg</sub> hit us’<br />
+‘you guys hit me’<br />
+‘you guys hit us’}}
+{{Col-end}}
+</blockquote>
+
+A further wrinkle is that in clauses with third person plural subjects and third person plural objects, only one of these can be marked on the verb (see the bottom right cell in the paradigm given above).
+
+Double object-marking is rare, and occurs only in clauses with both a singular first-person and a singular second person object:
+
+{{interlinear|indent=3
+|top= kinta:t{{IPA|a̰}} kima{{IPA|ʃ}}k{{IPA|iː}}n
+|kin- ta:t{{IPA|a̰}} kin- ma{{IPA|ʃ}}k{{IPA|iː}} -n
+|my- father 1OBJ- give -2OBJ
+|‘my father gave me to you (in marriage)'}}
+
+Such a sentence where either the recipient or the theme (the bride in this case) were plural would have to be expressed by periphrastic means.
+
+===Verbal quasi-inflection===
+
+In addition to its rich verbal inflectional system, Upper Necaxa also a number of affixes that, like inflections, are close to 100% productive across the class of verbs, are semantically compositional, and do not form new lexemes with their bases, but which do not express obligatory categories. These fall under the heading of “quasi-inflection.”<ref>Mel’čuk 2006</ref> The quasi-inflectional morphemes include elements with modal meanings such as the desiderative suffix ''-kṵtun'' and the debiditive ''-ʔḛː'', directionals such as ''kiː-'' ‘roundtrip’, ''teː-'' ‘in passing’, and ''-teːɬa'' ‘ambulative’, deictics (''-či'' ‘proximal’ and ''-ča'' ‘distal’), ''-pala'' ‘repetitive’, and the totalitative ''-ʔo̰ː'', which indicates either that an action has been carried through to completion or that the subject or objects have been completely affected.
+
+===Valency-increasing derivation===
+
+Upper Necaxa has a wealth of valency-increasing morphemes, both causatives and applicatives, which can be combined more or less freely with verb roots and with each other to form multivalent verbs with up to five objects.<ref>Beck (2004, 2011a)</ref> There are two causatives, the less productive being ''ma̰ʔa-'' ‘stimulus’, which adds a non-agentive or inanimate causer of an involuntary change of state. The second, more productive, causative is the circumfix ''maː- -niː''. This morpheme is a canonical causative that adds an agentive causer to an event and is compatible with almost any verb in the language. The suffixal portion of the circumfix is either ''-niː'' or takes the form of a long harmonic vowel agreeing in quality with the vowel of the preceding syllable. Only dynamic verbs require the suffix, stative verbs forming their causatives with ''maː-'' alone.
+
+In addition to the causatives, there are four applicatives, each associated with a particular semantic role or roles. The most general of these is the benefactive ''-ni'' which adds semantic roles such as beneficiary, recipient, addressee, and affectee. The instrumental prefix ''liː-'' adds either an instrument or a motive to a clause, and is used to mark the subordination of a following finite clause in expressions of motive:
+
+{{interlinear|indent=3
+|top= liːʔeɬlata̰ʔlakamimaːɬ kis’a̰ta̰ ḭkilhniːɬ
+|liː- ʔeɬlata̰ʔ- laka- min- maːɬ kin- s’a̰ta̰ ḭk- kilhniː- ɬ
+|INST- stick.out.tongue- face- come- PROG 1PO- child 1SG.SUB- scold- PFV
+|‘my child is sticking her tongue out this way because I scolded her'}}
+
+The third prefix, the comitative ''ta̰ː-'' adds a co-actor to the clause, while the fourth, ''la̰ʔ-'' 'allative', adds a goal, usually but not always human. The allative is found only with verbs of motion historically or synchronically derived from the verbs ''a̰n'' 'go' and ''min'' ‘come’.
+
+===Derivation using bodyparts===
+
+A well-known characteristic of Totonacan languages in general is their prolific use of prefixal forms of bodyparts and other part-expressions to form verbs specifying a target or “active” zone for the action designated by the verb.<ref>Levy 1999</ref><ref>Langacker 1987</ref> The part prefixes can be combined either with a (free or bound) stative base, as in (1), or with an ordinary dynamic verb (2):
+
+{{interlinear|number=(1)
+|top= ʔeɬkutu wa̰ːʔ
+|ʔeɬ- kutu wa̰ːʔ
+|mouth- come.up.out tamales
+|‘the tamales are overflowing the mouth (of the pot)’}}
+
+{{interlinear|number=(2)
+|top= ča̰ːɬtṵkuː kḭwḭ ča̰ːkaːn
+|ča̰ː- ɬtṵku kḭwḭ ča̰ːkaːn
+|shin- perforate tree woodpecker
+|‘the woodpecker makes holes in the trunk of the tree’}}
+
+In neither case does the addition of the part prefix affect the valency of the verb, positively or negatively. Although there are a few individual lexical items where the addition of a part prefix can increase the valency (usually by adding an instrument), the only constructions where this is regularly the case are "wearing" verbs formed from the bound stative bases ''-nuː'' ‘in’ and ''-ʃtu'' ‘out’ such as ''makanuː'' ‘wear sth (clothing) on the hand (''maka-'')’/''makaʃtu'' ‘remove sth (clothing) from the hand (''maka-'')’, ''a̰ʔnuː'' ‘wear sth (clothing) on the head (''a̰ʔ-'')’/''a̰ʔʃtu'' ‘remove sth (clothing) from the head (''a̰ʔ-'')’, etc.
+
+===Nominal morphology===
+
+Unlike verbs, nouns in Upper Necaxa are uninflected.<ref name="auto"/> Although they have plural forms, these are rarely used and the language completely lacks case or any kind of noun class or gender. Possessive constructions are head-marked, the possessed nouns bearing a prefix showing the person of the possor and a suffix indicating its number:
+
+:{| class="wikitable"
+|-
+! || singular || plural
+|-
+! 1
+| kinčičḭ<br/>‘my dog’ || kinčičḭka̰n <br/> ‘our dog’
+|-
+! 2
+| minčičḭ<br/>‘your dog’ || minčičḭka̰n <br/> ‘your dog’
+|-
+! 3
+| ḭʃčičḭ'<br/>‘his/her dog’ || ḭʃčičḭka̰n <br/> ‘their dog’
+|}
+
+Kinship terms and words referring to parts of wholes are inherently possessed and must always be inflected for person and number of their possessor, though they may be used generically with the prefix ''ʃa-'' ‘impersonal possessor’.
+
+==Syntax==
+Upper Necaxa is a basically verb-initial, [[head-marking]] language with constituent order governed largely by [[information structure]]. Grammatical relations are marked exclusively by verbal agreement, the language lacking any case or prepositions,<ref name="auto"/> and verbs can have up to five objects. Unlike many languages where different object-relations are assigned by the government pattern of the verb and are assigned uniquely, in Upper Necaxa nominal arguments are largely undifferentiated and the choice of the controller of object-agreement morphology is governed by animacy and discourse-factors.<ref>Beck (2006b)</ref>
+
+===Locative constructions===
+
+The “basic locative construction” (that is, the full answer to the question ‘where is X?’) in Upper Necaxa is unusually complex and contains elements expressing both the posture of the object whose location is being described (the Figure) and its intrinsic orientation with respect to another object that is used to locate it (the Ground):<ref>Cf. Pederson, et al. (1998)</ref>
+
+{{interlinear|indent=3
+|top= po̰ʔɬnṵ a̰kpuːwaka̰ɬ sipex
+|po̰ʔɬnṵ a̰kpuː -waka̰ɬ sipex
+|cloud crown -be.high hill
+|‘the cloud (Figure) is above the hill (Ground)’}}
+
+{{interlinear|indent=3
+|top= lameːtax a̰kpuːyaːɬ meːsa
+|lameːtax a̰kpuː -yaːɬ meːsa
+|bottle crown -stand table
+|‘the bottle (Figure) stand on the table (Ground)’}}
+
+The basic formula for these expressions is [Figure part.prefix+posture.verb Ground], where the posture verb describes the position (sitting, standing, lying, or up high) of the Figure and the part prefix specifies its intrinsic orientation with respect to the Ground. The order of lexical elements is flexible and the Figure may be omitted, and in some cases the Ground may be affixed with the locative clitic'' nak=''. Preliminary data on acquisition indicate that children do not fully master this construction until they are 10 or 11 years of age.<ref>Varela & Klint (2006)</ref>
+
+Another interesting feature of these constructions is that, where such a reading is plausible, the mapping between Figure/Ground and grammatical relation is potentially reversible:
+
+<blockquote>
+{{Col-begin}}
+{{Col-2}}
+{{interlinear
+|top= ḭkpḛʃtuwaká̰n
+|ḭk- pḛʃtu -waka̰ -n
+|1SG.SUB- shoulder -be.high -2OBJ
+|‘I (Figure) am on your (Ground) shoulders’<br/>‘you (Figure) are on my (Ground) shoulders’}}
+{{Col-2}}
+{{interlinear
+|top= kimpḛʔʃtuwáka̰
+|kin- pḛʔʃtu- wáka̰
+|1OBJ- shoulder- be.high:2SG.SUB
+|‘you (Figure) are on my (Ground) shoulders’<br/>‘I (Figure) am on your (Ground) shoulders’}}
+{{Col-end}}
+
+Although the two sentence above differ as to whether the first-person or subject-persons is subject or object (and vice versa) each has the same potential interpretations, the resolution of the ambiguity depending crucially on context.
+
+===Numerals and numeral classifiers===
+
+Numerals below twenty are bound morphemes and must always be accompanied by a classificatory prefix indicating the type or measure of the noun being quantified. The use of a classificatory prefix, as opposed to a suffix, is typologically unusual.<ref>Aikhenvald (2003)</ref> In all there are just over 30 classificatory prefixes,<ref name="auto"/> a few of which are illustrated below:
+
+:{|
+|-
+|ča̰ːtin čḭʃkṵ <br/>‘one man’|| || la̰ʔatin pa̰ʃnḭ <br/>‘one pig’  || || ʔentin kḭwḭ <br/>‘one stick’ || || paːtin ɬa̰mam <br/> ‘one pot’
+|-
+|ča̰ːtṵ čḭʃkṵ <br/>‘two men’|| || tantṵ pa̰ʃnḭ <br/>‘two pigs’  || || ʔentṵ kḭwḭ <br/>‘two sticks’ || || paːtṵ ɬa̰mam <br/> ‘two pots’
+|-
+|ʔeɬatṵtun čḭʃkṵ <br/>‘three men’|| ||tantṵtun pa̰ʃnḭ <br/>‘three pigs’  || || ʔentṵtun kḭwḭ <br/>‘three sticks’ || || paːtutun ɬa̰mam <br/> ‘three pots’
+|-
+|ʔeɬata̰ːtḭ čḭʃkṵ <br/>‘four men’|| || tanta̰ːtḭ pa̰ʃnḭ <br/>‘four pigs’  || || ʔenta̰ːtḭ kḭwḭ <br/>‘four sticks’ || ||paːta̰ːtḭ ɬa̰mam <br/> ‘four pots’
+|-
+|ʔeɬakitsis čḭʃkṵ <br/>‘five men’|| ||tankitsis pa̰ʃnḭ <br/>‘five pigs’  || || ʔenkitsis kḭwḭ <br/>‘five sticks’ || ||paːkitsis ɬa̰mam <br/> ‘five pots’
+|-
+|ʔeɬačaːʃan čḭʃkṵ <br/>‘six men’|| ||tančaːʃan pa̰ʃnḭ <br/>‘six pigs’  || || ʔenčaːʃan kḭwḭ <br/>‘six sticks’|| ||paːčaːʃan ɬa̰mam <br/> ‘six pots’
+|-
+|ʔeɬatoxon čḭʃkṵ <br/>‘seven men’|| || tantoxon pa̰ʃnḭ <br/>‘seven pigs’ || || ʔentoxon kḭwḭ <br/>‘seven sticks’ || || paːtoxon ɬa̰mam <br/> ‘seven pots’
+|-
+|ʔeɬatsayan čḭʃkṵ <br/>‘eight men’|| ||tantsayan pa̰ʃnḭ <br/>‘eight pigs’ || || ʔentsayan kḭwḭ <br/>‘eight sticks’ || || paːtsayan ɬa̰mam <br/> ‘eight pots’
+|-
+|ʔeɬanaxaːtsa čḭʃkṵ <br/>‘nine men’|| ||tanaxaːtsa pa̰ʃnḭ <br/>‘nine pigs’ || || ʔenaxaːtsa kḭwḭ <br/>‘nine sticks’|| || paːnaxaːtsa ɬa̰mam <br/> ‘nine pots’
+|-
+|ʔeɬakaʍ čḭʃkṵ <br/>‘ten men’|| || tankaʍ pa̰ʃnḭ <br/>‘ten pigs’ || || ʔenkaʍ kḭwḭ <br/>‘ten sticks’ || || paːkaʍ ɬa̰mam <br/> ‘ten pots’
+|-
+|}
+
+Note that the classifier for humans (first column) changes from ''ča̰ː-'' to ''ʔeɬa-'' after 3 (although ''ča̰ː-'' is occasionally used for 3 people); the classifier for one animal is ''la̰ʔa-'' and for more than one animal is ''tan'' (column 2). Numbers between 10 and 20 are formed by combining the numeral bases for 1–9 with the base for 10, ''-kaʍ'': ''ʔeɬakaʍtin'' ‘11 (people)’, ''ʔeɬakaʍtṵ'' ‘eleven (people)’, etc.
+
+Numbers higher than 20 are used without classificatory prefixes by many speakers. Like many Mesoamerican languages, Upper Necaxa uses a [[vigesimal]] numbering system based on multiples of ''pṵʃam'' ‘20’, the odd decades being formed by adding ''kaʍ'' ‘10’:
+:{|
+|- 
+|20 pṵʃam || 30 pṵʃamakaʍ
+|-
+| 40 tṵpṵʃam || 50 tṵpṵʃamakaʍ
+|-
+| 60 tṵtupṵʃam || 70 tṵtupṵʃamakaʍ
+|-
+| 80 ta̰ːtḭpṵʃam || 90 ta̰ːtḭpṵʃamakaʍ
+|-
+|}
+
+As the 11–19, numerals between decades are formed by simple compounding: ''pṵʃamatin'' ‘21’, pṵʃamakaʍtin ‘31’, etc. Numbers from 100 up are generally in Spanish.
+
+==Notes==
+{{Reflist}}
+
+==References==
+*Aikhenvald, Alexandra Y. (2003). ''Classifiers: A typology of noun categorization devices.'' Oxford: Oxford University Press.
+*{{cite book |ref=Beck2004 | last=Beck | first=David |year=2004 | title=Upper Necaxa Totonac| series=Languages of the World/Materials 429 |location=Munich | publisher=Lincom GmbH| isbn=3-89586-821-3}}
+*{{cite journal |ref=Beck2006a | last=Beck | first=David |year=2006 | title=The emergence of ejective fricatives in Upper Necaxa Totonac| journal= University of Alberta Working Papers in Linguistics | volume=1 }}
+*Beck, David. (2006). "Control of agreement in multi-object constructions in Upper Necaxa Totonac." In Atsushi Fujimori & Maria Amelia Reis Silva (eds.), ''Proceedings of the 11th Workshop on Structure and Constituency in the Languages of the Americas.'' Vancouver: UBC Working Papers in Linguistics.
+*{{cite journal | ref=Beck2008| last=Beck | first=David | year=2008a | title=Ideophones, adverbs, and predicate qualification in Upper Necaxa Totonac| journal=International Journal of American Linguistics | volume=74 | issue=1 | pages=1–46 | doi=10.1086/529462| s2cid=143943030 | url=https://zenodo.org/record/1134838 }}
+*Beck, David. (2008b). "Variable ordering of affixes in Upper Necaxa Totonac." In Seok Koon Chin and Hude Fusheini (eds.), Proceedings of the 12th Workshop on Structure and Constituency in the Languages of the Americas, 29–38. Vancouver: UBC Working Papers in Linguistics.
+*{{cite journal | ref=Beck2011a| last=Beck | first=David | year=2011a | title=Upper Necaxa Totonac Dictionary| publisher=Mouton de Gruyter| location=Berlin}}
+*Beck, David. (2011b). "Lexical, quasi-inflectional, and inflectional compounding in Upper Necaxa Totonac." In Alexandra Aikhenvald & Pieter Muysken (eds.), ''Multi-verb Constructions: A view from the Americas,'' 63–106. Leiden: Brill.
+*{{cite journal | last1 = Beck | first1 = David | last2 = Mel'čuk | first2 = Igor A. | year = 2011 | title = Morphological phrasemes and Totonacan verbal morphology | journal = Linguistics | volume = 49 | pages = 175–228 | doi=10.1515/ling.2011.005| s2cid = 29584619 }}
+*{{cite journal | surname=Lam|given=Yvonne|year=2009|title=The straw that broke the language's back: Language shift in the Upper Necaxa Valley of Mexico|journal=International Journal of the Sociology of Language|volume=2009|issue=195| pages=219–233|doi=10.1515/ijsl.2009.012|s2cid=144076249}}
+*Langacker, R. W. (1987). ''Foundations of Cognitive Grammar, vol. II.'' Stanford: Stanford University Press.
+*{{cite journal | last1 = Levy | first1 = Paulette | year = 1999 | title = From "part" to "shape": Incorporation in Totonac and the issue of classification by verbs | journal = International Journal of American Linguistics | volume = 65 | issue = 2| pages = 127–175 | doi=10.1086/466380| s2cid = 144277772 }}
+*{{cite book |ref=Mel’čuk2006 | last=Mel’čuk | first=Igor A. |year=2006 | title=Aspects of the Theory of Morphology| series=Trends in Linguistics |location=Berlin | publisher=Mouton de Gruyter}}
+*{{cite journal | last1 = Pederson | first1 = Eric | last2 = Danziger | first2 = Eve | last3 = Wilkins | first3 = David | last4 = Levinson | first4 = Stephen | last5 = Kita | first5 = Sotaro | last6 = Senft | first6 = Gunther | year = 1998 | title = Semantic typology and spatial conceptualization | journal = Language | volume = 74 | issue = 3| pages = 557–589 | doi=10.1353/lan.1998.0074| hdl = 11858/00-001M-0000-0013-2AB9-0 | s2cid = 210072843 | hdl-access = free }}
+*Varela, Vianey, & Ryan Klint. (2006). "The ribbon sits on the candle’s shin: The acquisition of Basic Locative Constructions in Upper Necaxa Totonac. In Atsushi Fujimori & Maria Amelia Reis Silva (eds.), ''Proceedings of the 11th Workshop on Structure and Constituency in the Languages of the Americas.'' Vancouver: UBC Press.
+
+==External links==
+*[http://www.arts.ualberta.ca/~totonaco/ Upper Necaxa Totonac Project]
+
+<section begin="list-of-glossing-abbreviations"/><div style="display:none;">
+OBJ:object
+1OBJ:first person, object
+2OBJ:second person, object
+3OBJ:third person, object
+</div><section end="list-of-glossing-abbreviations"/>
+
+[[Category:Indigenous languages of Mexico]]
+[[Category:Totonacan languages]]
+[[Category:Mesoamerican languages]]
+[[Category:Articles citing ISO change requests]]
